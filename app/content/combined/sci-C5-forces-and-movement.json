@@ -1,0 +1,128 @@
+{
+ "key": "combined|sci|5|forces-and-movement",
+ "board": "combined", "subj": "sci", "level": 5, "n": "forces-and-movement",
+ "title": "Many forces at once",
+ "source": "DeepKids Combined. Covers Cambridge Stage 5 Physics (friction, air resistance, water resistance, upthrust, multiple forces). No textbook needed.",
+ "summary": "Real things always have several forces acting on them at once. Your child learns to draw force diagrams, add up forces to find which way something will move, and investigate the forces that push back on moving things: air resistance and water resistance. They design a parachute, test streamlined shapes, and explain why a falling skydiver stops speeding up.",
+ "builds_on": "Class 1: pushes and pulls. Class 2: forces change speed, direction and shape. Class 3: measuring in newtons; friction. Class 4: balance, spinning, upthrust and floating. This year puts them all together. Gravity has its own topic this year too.",
+ "goals": [
+  "By the end your child can draw a force diagram with labelled arrows (gravity, upthrust, friction, air resistance, push or pull) for an object.",
+  "By the end your child can add forces in a line to find the overall (resultant) force, and say whether the object will speed up, slow down or keep the same speed.",
+  "By the end your child can explain air resistance and water resistance as kinds of friction that grow when things move faster or have a bigger front.",
+  "By the end your child can plan and carry out a fair test with repeats, present results in a table and a graph, and draw a conclusion.",
+  "By the end your child can explain why a parachute falls slowly and why a skydiver reaches a steady speed."
+ ],
+ "words": [["resultant force", "the overall force when all the forces on something are added up"], ["balanced forces", "forces that cancel out, so speed and direction stay the same"], ["unbalanced forces", "forces that don't cancel, so the object speeds up, slows down or turns"], ["air resistance", "the push of air against something moving through it"], ["water resistance", "the push of water against something moving through it"], ["streamlined", "shaped to move through air or water with little resistance"], ["upthrust", "the upward push of a liquid or gas"], ["force diagram", "a drawing with arrows showing every force on an object"], ["terminal speed", "the steady top speed of a falling object when air resistance equals its weight"]],
+ "day_mins": 45,
+ "days": [
+  {"n": 1, "title": "Every force on one thing", "goal": "Draw force diagrams for everyday objects.",
+   "steps": [
+    {"kind": "warmup", "title": "Forces ladder", "mins": 8, "do": "Quick tour of the earlier years. Ask your child to name a force from each: push and pull (Class 1), squash and stretch (Class 2), friction measured in newtons (Class 3), upthrust (Class 4). Then ask: 'Which forces are acting on you right now?' (Gravity down; the chair pushing up.)"},
+    {"kind": "do", "title": "Force diagram gallery", "mins": 22, "do": "Draw force diagrams together for: a book on a table (gravity down, table push up), a floating boat (gravity down, upthrust up), a cycle moving at steady speed (pedal push forward, friction and air resistance back, gravity down, road push up), a falling leaf (gravity down, air resistance up). Rules: one arrow per force, starting on the object, pointing the way the force acts, longer for bigger, and labelled. Use Worksheet ws1.", "ref": "ws1"},
+    {"kind": "think", "title": "Add them up", "mins": 15, "do": "Use numbers. Write: 'A box is pushed right with 10 N. Friction pushes left with 4 N. What's the overall force?' (6 N to the right, so it speeds up to the right.) Then: 'Push 5 N right, friction 5 N left?' (0 N: balanced. If it was moving, it keeps the same speed; if still, it stays still.) Do three more with your child making up the numbers."}
+   ], "need": ["paper, ruler, coloured pens", "worksheet ws1"]},
+  {"n": 2, "title": "Tug of war maths", "goal": "Find the resultant of several forces with the forcemeter and with people.",
+   "steps": [
+    {"kind": "warmup", "title": "Three-way tug", "mins": 7, "do": "Two people pull a dupatta one way and one person the other. Ask before you start: 'Who'll win? Why?' Then try. Ask: 'What would make it a draw?'"},
+    {"kind": "exp", "title": "Forcemeter tug of war", "mins": 20, "do": "Do Experiment e1: use two forcemeters (home-made from Class 3 or bought) or rubber bands to measure pulls on a box from both sides.", "ref": "e1"},
+    {"kind": "game", "title": "Force Duel", "mins": 18, "do": "Play the Force Duel card game (g1). Each turn adds or subtracts forces on a cart; players race to work out the resultant and the cart's motion.", "ref": "g1"}
+   ], "need": ["a dupatta", "two forcemeters or rubber bands with rulers", "a box", "the printed Force Duel cards"]},
+  {"n": 3, "title": "Air resistance", "goal": "Feel and test the push of air.",
+   "steps": [
+    {"kind": "warmup", "title": "Paper race", "mins": 6, "do": "Drop a flat sheet of paper and a scrunched ball of the same paper. Ask: 'Same paper, same weight. Why did the ball win?' (Less air pushing against it.)"},
+    {"kind": "exp", "title": "Parachute test", "mins": 27, "do": "Do Experiment e2: make parachutes with canopies of three sizes and time the fall from the same height, three times each.", "ref": "e2"},
+    {"kind": "talk", "title": "The first parachutes", "mins": 12, "do": "Talk about the first challenge question: did Faust Vrančić really jump from a tower in Venice with a parachute in 1617? Then discuss: 'How does a parachute change the forces on a person?' Draw it: gravity down, a big air-resistance arrow up."}
+   ], "need": ["paper", "a plastic bag or tissue paper", "thread", "scissors", "a small toy or a lump of clay as the load", "a stopwatch or phone", "a safe high place (stairs or a balcony, with an adult)"]},
+  {"n": 4, "title": "Graphs and the falling skydiver", "goal": "Turn results into a graph, and explain terminal speed.",
+   "steps": [
+    {"kind": "warmup", "title": "What does the table say?", "mins": 5, "do": "Look at the parachute table from Day 3. Ask: 'Which canopy fell slowest? Were the three times the same?' Choose the middle (median) time for each."},
+    {"kind": "ws", "title": "Draw the graph", "mins": 18, "do": "Do Worksheet ws2: draw a bar chart of canopy size against fall time, and write a conclusion: 'The bigger the canopy, the ___ the fall, because ___.'", "ref": "ws2"},
+    {"kind": "think", "title": "The skydiver story", "mins": 15, "do": "Tell the story and draw it in four frames. (1) She jumps: only gravity, so she speeds up. (2) Faster: air resistance grows, she still speeds up but less. (3) Air resistance equals gravity: balanced forces, steady speed of about 200 km/h (terminal speed). (4) Parachute opens: a huge air resistance, unbalanced upwards, she slows down until a new, slow steady speed. Ask: 'In frame 3 she's falling fast. Are the forces balanced?' (Yes! Balanced means steady speed, not stopped.)"},
+    {"kind": "review", "title": "Fix the mistake", "mins": 7, "do": "Say: 'My friend says if forces are balanced, a thing must be still.' Ask your child to correct the friend using the skydiver or a cycle at steady speed."}
+   ], "need": ["the parachute results", "worksheet ws2", "graph paper or squared notebook"]},
+  {"n": 5, "title": "Water resistance and streamlining", "goal": "Test which shapes move through water fastest.",
+   "steps": [
+    {"kind": "warmup", "title": "Walk through water", "mins": 5, "do": "If you have a bucket or a pool: move a flat hand through water, then a hand on its edge. Ask: 'Which was harder? Why?' (The flat hand has a bigger front pushing against the water.)"},
+    {"kind": "exp", "title": "Shape race", "mins": 25, "do": "Do Experiment e3: drop clay shapes of the same weight through a tall bottle of water and time them.", "ref": "e3"},
+    {"kind": "talk", "title": "Nature's shapes", "mins": 15, "do": "Look at pictures or think of: a fish, a dolphin, a kingfisher diving, a bullet train. Ask: 'What shape do they share?' (Pointed front, smooth, thin at the back.) Then the voice v1 discussion: Japan's Shinkansen designer Eiji Nakatsu and the kingfisher beak.", "ref": "v1"}
+   ], "need": ["a tall clear bottle filled with water (or a long glass)", "clay or atta dough", "a kitchen scale (optional)", "a stopwatch", "a spoon to fish shapes out"]},
+  {"n": 6, "title": "Rockets: action and reaction", "goal": "Build a balloon rocket and use forces to explain it.",
+   "steps": [
+    {"kind": "warmup", "title": "Push the wall", "mins": 5, "do": "Your child stands on a skateboard or in socks on a smooth floor and pushes a wall. What happens? (They roll backwards.) Ask: 'You pushed the wall. Who pushed you?' (The wall pushed back.)"},
+    {"kind": "do", "title": "Project: balloon rocket", "mins": 28, "do": "Do the project: build a balloon rocket on a string and improve it for distance."},
+    {"kind": "talk", "title": "Rockets can't work in space?", "mins": 12, "do": "Talk about voice v2: in 1920 a newspaper said Robert Goddard's rockets could never work in space because there's no air to push against. Ask the voice's question. Then the perspective on Tipu Sultan's rockets.", "ref": "v2"}
+   ], "need": ["long balloons", "a long string (5 m)", "a straw", "tape", "two chairs", "a measuring tape"]},
+  {"n": 7, "title": "Review and teach it back", "goal": "Use all the forces from five years together.",
+   "steps": [
+    {"kind": "ws", "title": "Challenge sheet", "mins": 15, "do": "Do Worksheet ws3. Encourage drawing a force diagram for every question.", "ref": "ws3"},
+    {"kind": "think", "title": "Big questions", "mins": 10, "do": "Talk about two big questions: 'If you threw a ball in deep space, far from everything, would it ever stop?' (No: there's no friction or air, so nothing slows it.) 'Why do cyclists crouch low in races?' (Less air resistance.)"},
+    {"kind": "check", "title": "Teach it back", "mins": 20, "do": "Your child teaches the whole family 'Forces from Class 1 to Class 5' in five minutes, with one demonstration for each year. Then ask the check questions."}
+   ], "need": ["worksheet ws3"]}
+ ],
+ "worksheets": [
+  {"id": "ws1", "tier": "core", "title": "Force diagrams", "day": 1, "sections": [
+   ["A. Draw", [
+    {"t": "draw", "p": "A book on a table. Draw and label both forces."},
+    {"t": "draw", "p": "A cyclist going at a steady speed. Draw and label four forces."}]],
+   ["B. Add them up", [
+    {"t": "fill", "p": "Push 12 N right, friction 5 N left. Resultant: ____ N to the right.", "a": ["7"]},
+    {"t": "mcq", "p": "Push 8 N right, friction 8 N left. The box is already moving. It will:", "opts": ["stop at once", "keep moving at the same speed", "speed up"], "a": 1},
+    {"t": "mcq", "p": "Which force acts upwards on a floating boat?", "opts": ["gravity", "upthrust", "friction"], "a": 1}]]]},
+  {"id": "ws2", "tier": "stretch", "title": "Parachute results", "day": 4, "sections": [
+   ["A. Results", [
+    {"t": "table", "p": "Fall times (seconds).", "cols": ["Canopy", "Try 1", "Try 2", "Try 3", "Middle value"], "rows": 3, "prefill": ["small", "medium", "large"]},
+    {"t": "draw", "p": "Draw a bar chart: canopy size along the bottom, middle fall time up the side."}]],
+   ["B. Conclude", [
+    {"t": "write", "p": "The bigger the canopy, the ____ the fall, because ____.", "lines": 3},
+    {"t": "write", "p": "What did you keep the same to make it fair?", "lines": 2}]]]},
+  {"id": "ws3", "tier": "challenge", "title": "Forces puzzles", "day": 7, "sections": [
+   ["A. Explain with a force diagram", [
+    {"t": "write", "p": "A skydiver falls at a steady 200 km/h. Are the forces on her balanced? Explain.", "lines": 3},
+    {"t": "write", "p": "Why do fighter jets have pointed noses but parachutes are wide?", "lines": 3},
+    {"t": "write", "p": "A balloon rocket on the Moon (no air): would it work? Why?", "lines": 3}]],
+   ["B. Design", [
+    {"t": "write", "p": "Design a test to find out whether the shape of a paper boat changes how fast it can be pulled through water. What will you change, keep the same and measure?", "lines": 4}]]]}
+ ],
+ "experiments": [
+  {"id": "e1", "title": "Forcemeter tug of war", "day": 2, "question": "How do two pulls add up?", "need": ["two forcemeters", "a box on a smooth floor"], "steps": ["Hook one forcemeter to each side of the box.", "Pull both with the same force (say 3 N each). Does it move?", "Pull one side with 5 N and the other with 3 N. Which way does it move?", "Write each pair and the resultant (bigger minus smaller, in the direction of the bigger)."], "predict": "Before each, ask which way the box will move.", "observe": "The readings and the box's movement.", "why": "Forces in opposite directions subtract. If they're equal, the resultant is zero and nothing changes; if not, the box moves towards the bigger pull. Friction is also pulling back on the box, which is why a tiny difference may not move it.", "safety": "", "time": "20 min"},
+  {"id": "e2", "title": "Parachute test", "day": 3, "question": "Does a bigger canopy make a parachute fall more slowly?", "need": ["plastic bag", "thread", "the same small load for each", "scissors", "stopwatch", "a safe high place"], "steps": ["Cut three square canopies: 15 cm, 25 cm and 35 cm.", "Tie a 25 cm thread to each corner and tie the four threads to the same load.", "Drop each from the same height, holding it the same way.", "Time the fall three times each.", "Record in the table on ws2."], "predict": "Ask: 'Which will be slowest? Will twice as big be twice as slow?'", "observe": "Fall times.", "why": "A bigger canopy has a bigger area pushing against the air, so air resistance builds up faster and the parachute reaches a slower steady speed. Doubling the size doesn't exactly double the time.", "safety": "An adult supervises any drop from a height. Never lean over a railing.", "time": "25 min"},
+  {"id": "e3", "title": "Shape race in water", "day": 5, "question": "Which shape moves fastest through water?", "need": ["tall bottle of water", "clay", "stopwatch"], "steps": ["Make four shapes from equal lumps of clay: a ball, a flat pancake, a cube and a torpedo (pointed at one end).", "Drop each from just above the water, pointed end first for the torpedo.", "Time how long it takes to reach the bottom. Repeat three times.", "Order the shapes from fastest to slowest."], "predict": "Ask your child to order the shapes before testing.", "observe": "Times for each shape.", "why": "Water pushes against the front of a moving object. A pointed, smooth shape parts the water more easily and leaves a smaller swirl behind, so there's less water resistance. A flat pancake pushes the most water.", "safety": "", "time": "25 min"}
+ ],
+ "activities": [],
+ "project": {"title": "Balloon rocket", "days": [6], "steps": ["Thread a straw onto a 5 m string and tie the string tight between two chairs.", "Blow up a balloon, hold the neck shut, and tape it under the straw.", "Let go and measure how far it travels.", "Improve it for distance: try a long balloon, a nose cone, less tape, a tighter string. Change one thing at a time.", "Draw a force diagram: air pushed backwards, balloon pushed forwards, friction and air resistance holding it back.", "Show your best result and explain each improvement."], "outcome": "A balloon rocket, a record of the improvements and a force diagram."},
+ "game": {"id": "g1", "title": "Force Duel", "kind": "cards", "players": "2–4", "need": ["scissors", "a paper strip as a track with 0 in the middle and 10 each side"],
+  "rules": ["Put a coin on 0 of the track (the 'cart').", "Each player gets 5 force cards. Player 1 pushes right, player 2 pushes left.", "Each turn, both play one card face down, then turn them over together.", "Work out the resultant: bigger minus smaller. Move the cart that many spaces towards the smaller player.", "Special cards: 'Friction' takes 2 N off the winning side. 'Balanced!' cancels everything this turn.", "First to push the cart off the other player's end wins. Say the resultant aloud each turn."],
+  "cards": [
+   {"front": "1 N"}, {"front": "2 N"}, {"front": "2 N"}, {"front": "3 N"}, {"front": "3 N"}, {"front": "4 N"}, {"front": "4 N"}, {"front": "5 N"}, {"front": "5 N"}, {"front": "6 N"}, {"front": "7 N"}, {"front": "8 N"},
+   {"front": "1 N"}, {"front": "2 N"}, {"front": "3 N"}, {"front": "4 N"}, {"front": "5 N"}, {"front": "6 N"},
+   {"front": "Friction: –2 N"}, {"front": "Friction: –2 N"}, {"front": "Balanced!"}, {"front": "Balanced!"}, {"front": "Tailwind: +3 N"}, {"front": "Headwind: –3 N"}
+  ]},
+ "big": ["If you threw a ball in deep space, would it ever stop?", "Why do cyclists and swimmers wear tight, smooth suits?", "How can a rocket work in space, where there's no air to push against?", "Why don't raindrops hurt, even after falling from a cloud kilometres up?", "Can the forces on something be balanced while it's moving fast?"],
+ "challenge": [
+  {"q": "Books often say Faust Vrančić made the first parachute jump, from a tower in Venice in 1617. Is that proven?", "hint": "Vrančić published a drawing of a parachute ('Homo Volans', the flying man) in his book Machinae Novae, around 1615. The story of his jump only appears in later accounts, and historians haven't found a reliable record from 1617. The first well-recorded parachute jumps were by Louis-Sébastien Lenormand (1783) and André-Jacques Garnerin (1797). Ask: what would count as good evidence that a jump happened?"},
+  {"q": "'Balanced forces mean nothing is moving.' True or false?", "hint": "A skydiver at terminal speed and a cycle cruising on a flat road both have balanced forces. Balanced means no change in speed or direction, not 'stopped'. This was Newton's big idea, and many adults still get it wrong."}
+ ],
+ "perspectives": [
+  {"who": "Tipu Sultan's army, Mysore (1780s–1790s)", "view": "Mysore's soldiers used rockets with iron cases, which flew further than paper or wooden ones. After the wars, British engineer William Congreve studied captured rockets and developed his own. Ask: why would an iron case help a rocket push harder?"},
+  {"who": "A sailor on a dhow", "view": "Sailing boats use the wind's push on the sail, the water's resistance on the keel, and a rudder to change direction. A good sailor can even sail partly against the wind. Ask: how many forces is the sailor balancing?"}
+ ],
+ "voices": [
+  {"id": "v1", "who": "Eiji Nakatsu, engineer, Japan (1990s)", "idea": "Japan's first bullet trains made a loud boom when they shot out of tunnels, because they pushed a wall of air in front of them. Nakatsu, a birdwatcher, noticed that a kingfisher dives into water with hardly a splash. He redesigned the train's nose to be long and shaped like a kingfisher's beak.", "then": "Engineers tested many nose shapes in experiments and computer models, and the beak-like shape worked best.", "now": "The 500 Series Shinkansen (1997) was quieter, faster and used less electricity. Copying nature like this is called biomimicry.", "status": "accepted", "ask": "Which Indian animal or bird has a streamlined shape we could copy? What would you design with it?", "day": 5},
+  {"id": "v2", "who": "Robert Goddard (1882–1945), USA, and The New York Times", "idea": "Goddard said rockets could work in space and might one day reach the Moon.", "then": "In 1920 a New York Times editorial mocked him, saying a rocket couldn't work in space because there was no air for it to push against, and that he seemed to lack the knowledge 'ladled out daily in high schools'.", "now": "Goddard was right. A rocket pushes its own exhaust gases backwards, and the gases push the rocket forwards; it doesn't need air. On 17 July 1969, as Apollo 11 flew to the Moon, the newspaper printed a correction saying it 'regrets the error'.", "status": "accepted", "ask": "Our balloon rocket pushed air backwards. In space there's no air outside, but what is still being pushed out of a rocket?", "day": 6}
+ ],
+ "books": [
+  {"title": "Gravity", "author": "Jason Chin", "for": "read together", "age": "4–8", "why": "Beautiful, simple, and pairs with this year's gravity topic."},
+  {"title": "Who Was Isaac Newton?", "author": "Janet B. Pascal", "for": "read alone", "age": "8–11", "why": "The person behind the laws of motion."},
+  {"title": "Thing Explainer", "author": "Randall Munroe", "for": "parent reads", "age": "10+ (adult book, great to share)", "why": "Explains rockets, jet engines and more using only the thousand most common English words. Look at the rocket pages together."},
+  {"title": "Wings of Fire", "author": "A.P.J. Abdul Kalam with Arun Tiwari", "for": "parent reads", "age": "Adult book; read short parts aloud", "why": "Dr Kalam's own story of India's rocket programme, including the Mysore rockets that inspired him."}
+ ],
+ "check": [
+  {"q": "What is a resultant force?", "a": "The overall force when all the forces on something are added up."},
+  {"q": "Push 10 N right, friction 3 N left. What happens?", "a": "Resultant 7 N right, so it speeds up to the right."},
+  {"q": "What is air resistance, and when is it bigger?", "a": "The push of air against a moving object; bigger when it's faster or has a bigger front."},
+  {"q": "Why does a bigger parachute fall more slowly?", "a": "More area means more air resistance, so it reaches a slower steady speed."},
+  {"q": "Can forces be balanced while something moves? Give an example.", "a": "Yes. A cycle at steady speed or a skydiver at terminal speed."},
+  {"q": "Why are fish and fast trains pointed at the front?", "a": "Streamlined shapes have less water or air resistance."},
+  {"q": "How does a rocket move in space with no air?", "a": "It pushes gas out backwards, and the gas pushes the rocket forwards."}
+ ]
+}

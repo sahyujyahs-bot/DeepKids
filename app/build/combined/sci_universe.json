@@ -1,0 +1,2505 @@
+[
+ {
+  "id": "living-and-non-living-signs-of-life",
+  "title": "Living and non-living; signs of life",
+  "dk": [
+   "A1"
+  ],
+  "note": "Plus questions whether the line is real",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 1.1",
+      "title": "Animals and plants alive!",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|1"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 3.1",
+      "title": "Living and non-living",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 3.2",
+      "title": "Growth and nutrition",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 3.3",
+      "title": "Movement and reproduction",
+      "covers": "Biology"
+     },
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 4",
+      "title": "The Environment",
+      "covers": "What environment means; physical and biological; plants and animals; natural and man-made non-living things"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|3",
+     "nios|sci|3|4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "growing-up-and-having-young",
+  "title": "Growing up and having young",
+  "dk": [
+   "A1"
+  ],
+  "note": "Plus has this only inside A1 \"signs of life\"",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 1.3",
+      "title": "Animal babies",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|1"
+    ]
+   },
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 4.2",
+      "title": "Growing",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "how-life-began",
+  "title": "How life began",
+  "dk": [
+   "A2"
+  ],
+  "note": "",
+  "start": null,
+  "rungs": []
+ },
+ {
+  "id": "matter-and-particles",
+  "title": "Matter and particles: what everything is made of",
+  "dk": [
+   "A3"
+  ],
+  "note": "",
+  "start": 4,
+  "rungs": [
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 3.1",
+      "title": "Materials, substances and particles",
+      "covers": "Chemistry: structure, properties, changes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "changing-materials",
+  "title": "Changing materials: heating, melting, reactions",
+  "dk": [
+   "A3"
+  ],
+  "note": "",
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 3.5",
+      "title": "Changing materials",
+      "covers": "Chemistry: materials, properties, changes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|3"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 3.2",
+      "title": "How do solids and liquids behave?",
+      "covers": "Chemistry: structure, properties, changes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 3.3",
+      "title": "Melting and solidifying",
+      "covers": "Chemistry: structure, properties, changes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 3.4",
+      "title": "Chemical reactions",
+      "covers": "Chemistry: structure, properties, changes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "materials-and-their-properties",
+  "title": "Materials and their properties",
+  "dk": [
+   "A4"
+  ],
+  "note": "",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 4.1",
+      "title": "What is it made of?",
+      "covers": "Chemistry"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 4.2",
+      "title": "Using materials",
+      "covers": "Chemistry"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 4.3",
+      "title": "Sorting materials",
+      "covers": "Chemistry"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|4"
+    ]
+   },
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 3.1",
+      "title": "Natural and made materials",
+      "covers": "Chemistry: materials, properties, changes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 3.2",
+      "title": "Properties of materials",
+      "covers": "Chemistry: materials, properties, changes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 3.3",
+      "title": "Using the right material",
+      "covers": "Chemistry: materials, properties, changes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 3.4",
+      "title": "Testing materials",
+      "covers": "Chemistry: materials, properties, changes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|3"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 10",
+      "title": "This World of Things",
+      "covers": "What things are made of, where they come from, natural vs made by people, properties of materials"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 5.1",
+      "title": "Properties of materials",
+      "covers": "Chemistry"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 5.2",
+      "title": "Sorting materials",
+      "covers": "Chemistry"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 5.3",
+      "title": "Uses of materials",
+      "covers": "Chemistry"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 5.4",
+      "title": "Testing materials",
+      "covers": "Chemistry"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|5",
+     "ncert|sci|3|10"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "making-things",
+  "title": "Making things: houses, paper, cloth",
+  "dk": [
+   "A4"
+  ],
+  "note": "Plus has materials but not making things from them",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 11",
+      "title": "Making Things",
+      "covers": "Materials and their uses; houses built from natural resources; new designs; safety rules"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|3|11"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 8",
+      "title": "How Things are Made",
+      "covers": "Making handmade paper from pulp; how paper is made; the 5Rs of waste"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|4|8"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 8",
+      "title": "Clothes — How Things are Made",
+      "covers": "From birds weaving nests to spinning, weaving and stitching; handloom and embroidery; reuse and recycling"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|5|8"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rocks-and-soil",
+  "title": "Rocks and soil",
+  "dk": [
+   "A4"
+  ],
+  "note": "",
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 1.4",
+      "title": "Rocks and the environment",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|1"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 8",
+      "title": "Soil and Crops",
+      "covers": "Types of soil and crops; preparing the field, sowing, manure and fertiliser; protecting crops; irrigation, weeding, harvesting; crops by season"
+     }
+    ],
+    "chapters": [
+     "nios|sci|5|8"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gases-evaporation-condensation-solutions",
+  "title": "Gases, evaporation, condensation, solutions",
+  "dk": [
+   "A4",
+   "B5"
+  ],
+  "note": "Plus touches this via water as a material and clouds/rain",
+  "start": 5,
+  "rungs": [
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 3.1",
+      "title": "Gases",
+      "covers": "Chemistry: structure, properties, changes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 3.2",
+      "title": "Properties of water",
+      "covers": "Chemistry: structure, properties, changes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 3.3",
+      "title": "Evaporation and condensation",
+      "covers": "Chemistry: structure, properties, changes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 3.4",
+      "title": "Solutions",
+      "covers": "Chemistry: structure, properties, changes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "plants",
+  "title": "Plants: parts and what they need",
+  "dk": [
+   "A5"
+  ],
+  "note": "",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 2.1",
+      "title": "Plant parts",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 2.3",
+      "title": "Plants and light",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|2"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 4",
+      "title": "Getting to Know Plants",
+      "covers": "Variety of plants around us, their features, uses and importance; what a plant needs and how to care for it"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 1.1",
+      "title": "Plants and their parts",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 1.2",
+      "title": "Plants need light and water",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 1.3",
+      "title": "Transporting water",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|1",
+     "ncert|sci|3|4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "seeds-plant-growth-and-plant-life-cycles",
+  "title": "Seeds, plant growth and plant life cycles",
+  "dk": [
+   "A5"
+  ],
+  "note": "",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 2.2",
+      "title": "Growing seeds",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|2"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 1.4",
+      "title": "Plant growth and temperature",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|1"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 1.1",
+      "title": "Flowering and non-flowering plants",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 1.2",
+      "title": "Pollination, fruits and seeds",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 1.3",
+      "title": "How seeds are spread",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 1.4",
+      "title": "Seed germination",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kinds-of-living-things-and-sorting-them",
+  "title": "Kinds of living things and sorting them",
+  "dk": [
+   "A5"
+  ],
+  "note": "",
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 4.1",
+      "title": "Comparing animals",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|4"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 3.5",
+      "title": "Sorting living things",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|3"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 3",
+      "title": "Nature Trail",
+      "covers": "Variety of plants and animals and their features; birds and leaves; the web of life; caring for nature"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|4|3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "habitats-and-adaptation",
+  "title": "Habitats and adaptation",
+  "dk": [
+   "A5",
+   "B4"
+  ],
+  "note": "",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 1.2",
+      "title": "Local environments",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|1"
+    ]
+   },
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 1.1",
+      "title": "Habitats",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 1.2",
+      "title": "Plants in different habitats",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 1.3",
+      "title": "Animals in different habitats",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|1"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 5",
+      "title": "Plants and Animals Live Together",
+      "covers": "How plants and animals support each other; animals around us, their habits and habitats"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|3|5"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 9",
+      "title": "Different Lands, Different Lives",
+      "covers": "Plains, deserts, coasts and mountains: how land shapes food, clothes, houses, festivals, plants and animals"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 4.4",
+      "title": "Different habitats",
+      "covers": "Earth and space: planet Earth; Biology: ecosystems"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|4",
+     "ncert|sci|4|9"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 6",
+      "title": "Some Unique Places",
+      "covers": "Ecological regions of India; unique landscapes; rare and endemic species; traditional knowledge"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 6.3",
+      "title": "Plants and animals are adapted to different environments",
+      "covers": "Earth and space: Earth in space; Biology: ecosystems"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 6.4",
+      "title": "Adaptations of predators and prey",
+      "covers": "Earth and space: Earth in space; Biology: ecosystems"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|6",
+     "ncert|sci|5|6"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "living-in-harmony",
+  "title": "Living in harmony: food chains and the web of life",
+  "dk": [
+   "C4",
+   "C12"
+  ],
+  "note": "Plus has no food-chain topic yet; closest is \"what we share with other life\"",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 6",
+      "title": "Living in Harmony",
+      "covers": "We are connected to plants and animals near and far; kindness to all living beings"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|3|6"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 4",
+      "title": "Growing up with Nature",
+      "covers": "Nature and culture in daily life; unique trees and flowers; tribal art; medicinal plants; sustainable living"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 2.4",
+      "title": "Energy and living things",
+      "covers": "Physics: forces and energy; Biology: ecosystems"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|2",
+     "ncert|sci|4|4"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 7",
+      "title": "Life of Plants and Animals",
+      "covers": "How plants and animals depend on each other; food chains and food webs; natural balance; protecting forests and animals"
+     }
+    ],
+    "chapters": [
+     "nios|sci|5|7"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-universe-sun-moon-stars-and-planets",
+  "title": "The universe, Sun, Moon, stars and planets",
+  "dk": [
+   "B1"
+  ],
+  "note": "",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 6",
+      "title": "Sun-Moon-Stars, Day-Night and Seasons",
+      "covers": "Sun, Moon and stars; stars vs planets; Sun and planets; day and night; seasons"
+     }
+    ],
+    "chapters": [
+     "nios|sci|3|6"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 10",
+      "title": "Our Sky",
+      "covers": "Sun, Moon and stars; sky-related festivals and practices; shadows at different times of day and why their length changes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 5.4",
+      "title": "Light in the solar system",
+      "covers": "Physics: light and sound; Earth and space: Earth in space"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|5",
+     "ncert|sci|4|10"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 11",
+      "title": "Solar System and Earth",
+      "covers": "Planets of the solar system and Earth; planets vs satellites; phases of the Moon; natural and man-made satellites; latitude and longitude; time zones"
+     }
+    ],
+    "chapters": [
+     "nios|sci|5|11"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gravity",
+  "title": "Gravity",
+  "dk": [
+   "B1",
+   "B6"
+  ],
+  "note": "",
+  "start": 5,
+  "rungs": [
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 5.1",
+      "title": "Gravity, normal forces and applied forces",
+      "covers": "Physics: forces and energy, electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 5.2",
+      "title": "Gravity and satellites",
+      "covers": "Physics: forces and energy, electricity and magnetism"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|5"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "planet-earth",
+  "title": "Planet Earth: inside, land, water and rivers",
+  "dk": [
+   "B1"
+  ],
+  "note": "",
+  "start": 4,
+  "rungs": [
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 4.1",
+      "title": "The structure of the Earth",
+      "covers": "Earth and space: planet Earth; Biology: ecosystems"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|4"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 2",
+      "title": "Journey of a River",
+      "covers": "The Godavari from source to delta: tributaries, river life, dams, pollution; rivers support ecosystems, people and culture"
+     },
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 5",
+      "title": "The States of India and their Physical Features",
+      "covers": "States and Union Territories on the map; India on the world map; physical features, resources, climate, crops and vegetation"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|5|2",
+     "nios|sci|5|5"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "day-night-seasons-and-rhythms-of-nature",
+  "title": "Day, night, seasons and rhythms of nature",
+  "dk": [
+   "B5"
+  ],
+  "note": "NCERT Class 4 Ch 10 and NIOS Lesson 6 also cover this (listed under the sky row)",
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 5.3",
+      "title": "The Sun appears to move!",
+      "covers": "Physics: light and sound"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|5"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 5.5",
+      "title": "Day and night",
+      "covers": "Physics: light and sound; Earth and space: Earth in space"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|5"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 9",
+      "title": "Rhythms of Nature",
+      "covers": "Day and night, seasons, and how plants, animals, people and places change; nature journaling"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 6.1",
+      "title": "The Earth moves around the Sun",
+      "covers": "Earth and space: Earth in space; Biology: ecosystems"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 6.2",
+      "title": "Seasonal changes",
+      "covers": "Earth and space: Earth in space; Biology: ecosystems"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|6",
+     "ncert|sci|5|9"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "water",
+  "title": "Water: sources, water cycle and saving it",
+  "dk": [
+   "B5",
+   "B8"
+  ],
+  "note": "",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 7",
+      "title": "Water — A Precious Gift",
+      "covers": "Rain, storing and cleaning water, using it at home, problems of water quality and quantity, saving water"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|3|7"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 1",
+      "title": "Water — The Essence of Life",
+      "covers": "Forms and sources of water (fresh and salt); uses; the water cycle; water shaping land; freshwater habitats; conservation"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|5|1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "nature-s-events",
+  "title": "Nature's events: volcanoes, earthquakes, floods",
+  "dk": [
+   "B8"
+  ],
+  "note": "",
+  "start": 4,
+  "rungs": [
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 4.2",
+      "title": "Volcanoes",
+      "covers": "Earth and space: planet Earth; Biology: ecosystems"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 4.3",
+      "title": "Earthquakes",
+      "covers": "Earth and space: planet Earth; Biology: ecosystems"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "society-community-culture-and-festivals",
+  "title": "Society, community, culture and festivals",
+  "dk": [
+   "B2"
+  ],
+  "note": "Boards treat this as social studies; Plus asks why societies are this way",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 2",
+      "title": "Going to the Mela",
+      "covers": "Near and far family at the mela: materials, people, activities; how families in a community help each other"
+     },
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 3",
+      "title": "Celebrating Festivals",
+      "covers": "Food, dress and cultural practices at festivals; people of all ages celebrating together"
+     },
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 2",
+      "title": "Our Social Environment",
+      "covers": "Professions around us and respect for them; public services; family, neighbourhood and community in society"
+     },
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 3",
+      "title": "Our Festivals",
+      "covers": "Festivals across India and of different religions; national festivals"
+     },
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 11",
+      "title": "National Identity",
+      "covers": "National flag and its colours; national days; anthem and song; national symbols, animal, bird, sport"
+     },
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 12",
+      "title": "Our Social and Economic Environment",
+      "covers": "Globalisation; Right to Education; Right to Information; MNREGA"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|3|2",
+     "ncert|sci|3|3",
+     "nios|sci|3|11",
+     "nios|sci|3|12",
+     "nios|sci|3|2",
+     "nios|sci|3|3"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 1",
+      "title": "Living Together",
+      "covers": "Community as togetherness and interdependence; Van Mahotsav and caring for shared spaces; sharing in festivals"
+     },
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 2",
+      "title": "Exploring Our Neighbourhood",
+      "covers": "Transport and communication then and now; community institutions; banks and money basics; drawing and reading maps, directions"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|4|1",
+     "ncert|sci|4|2"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 5",
+      "title": "Our Vibrant Country",
+      "covers": "Republic Day, national symbols, currency, languages, clothing, dance and music; unity in diversity"
+     },
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 1",
+      "title": "India's Cultural and Natural Heritage: Its Conservation and Honour",
+      "covers": "Culture and heritage and why to conserve them; India's natural heritage: forests, wildlife, water and minerals"
+     },
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 2",
+      "title": "Peace, Unity and Harmony in Indian Society",
+      "covers": "People and customs of India; unity in diversity; peace and harmony; Ashoka and Akbar"
+     },
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 3",
+      "title": "Our Social Issues",
+      "covers": "Small families; education and girls' literacy; equality of men and women; dowry and the law; female foeticide"
+     },
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 4",
+      "title": "Our Freedom Struggle",
+      "covers": "How British rule was established; people from every state in the freedom struggle; Gandhiji and other leaders; safeguarding independence"
+     },
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 6",
+      "title": "Our Community and Public Administration",
+      "covers": "Democracy; the right to vote; how government works; rural and urban administration"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|5|5",
+     "nios|sci|5|1",
+     "nios|sci|5|2",
+     "nios|sci|5|3",
+     "nios|sci|5|4",
+     "nios|sci|5|6"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "transport-and-communication",
+  "title": "Transport and communication",
+  "dk": [
+   "B2"
+  ],
+  "note": "NCERT Class 4 Ch 2 also covers this (listed under society)",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 10",
+      "title": "Transport and Communication",
+      "covers": "How they developed; kinds; benefits; road signs; effect on the environment"
+     }
+    ],
+    "chapters": [
+     "nios|sci|3|10"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "microorganisms",
+  "title": "Microorganisms",
+  "dk": [
+   "B3",
+   "C1"
+  ],
+  "note": "NCERT: microbes that spoil food, and good microbes",
+  "start": 5,
+  "rungs": [
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 3",
+      "title": "The Mystery of Food",
+      "covers": "How microbes spoil food; preservation methods and their culture; good microbes; storage and hygiene"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|5|3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-world-of-birds",
+  "title": "The world of birds",
+  "dk": [
+   "B4"
+  ],
+  "note": "Boards meet birds only inside habitats and nature trails",
+  "start": null,
+  "rungs": []
+ },
+ {
+  "id": "forces-and-movement",
+  "title": "Forces and movement",
+  "dk": [
+   "B6"
+  ],
+  "note": "NCERT: spinning, floating and sinking",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 5.1",
+      "title": "In the playground",
+      "covers": "Physics"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 5.2",
+      "title": "How toys work",
+      "covers": "Physics"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 5.3",
+      "title": "Pushes and pulls around us",
+      "covers": "Physics"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 5.4",
+      "title": "Changing movement",
+      "covers": "Physics"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|5"
+    ]
+   },
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 2.1",
+      "title": "Forces around us",
+      "covers": "Physics: forces and energy"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 2.2",
+      "title": "Changing shape",
+      "covers": "Physics: forces and energy"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 2.3",
+      "title": "Changing speed",
+      "covers": "Physics: forces and energy"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 2.4",
+      "title": "Changing direction",
+      "covers": "Physics: forces and energy"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|2"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 6.1",
+      "title": "Push and pull",
+      "covers": "Physics"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 6.2",
+      "title": "Changing shape",
+      "covers": "Physics"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 6.3",
+      "title": "How big is that force?",
+      "covers": "Physics"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 6.4",
+      "title": "Forcemeters",
+      "covers": "Physics"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 6.5",
+      "title": "Friction",
+      "covers": "Physics"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|6"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 7",
+      "title": "How Things Work",
+      "covers": "Hands-on with toys and paper: spinning, floating and sinking; finding patterns in how things work"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|4|7"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 5.3",
+      "title": "Friction, air resistance, water resistance and upthrust",
+      "covers": "Physics: forces and energy, electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 5.4",
+      "title": "Multiple forces",
+      "covers": "Physics: forces and energy, electricity and magnetism"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|5"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "magnets",
+  "title": "Magnets",
+  "dk": [
+   "B6"
+  ],
+  "note": "Plus mentions electromagnetic force; no magnets topic yet",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 5.5",
+      "title": "Magnetic materials",
+      "covers": "Chemistry"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|5"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 5.5",
+      "title": "Magnets and magnetic materials",
+      "covers": "Physics: forces and energy, electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 5.6",
+      "title": "Magnetic force",
+      "covers": "Physics: forces and energy, electricity and magnetism"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|5"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sound",
+  "title": "Sound",
+  "dk": [
+   "B6"
+  ],
+  "note": "",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 6.1",
+      "title": "Where do sounds come from?",
+      "covers": "Physics"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 6.3",
+      "title": "Sounds move",
+      "covers": "Physics"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|6"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 2.1",
+      "title": "How are sounds made?",
+      "covers": "Physics: light and sound"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 2.2",
+      "title": "Volume and pitch",
+      "covers": "Physics: light and sound"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 2.3",
+      "title": "Changing the volume of sound",
+      "covers": "Physics: light and sound"
+     },
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 2.4",
+      "title": "Changing the pitch of sound",
+      "covers": "Physics: light and sound"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "light-seeing-and-shadows",
+  "title": "Light, seeing and shadows",
+  "dk": [
+   "B7"
+  ],
+  "note": "NCERT Class 4 Ch 10 also has shadow lengths (listed under the sky row)",
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 5.1",
+      "title": "Light sources",
+      "covers": "Physics: light and sound"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 5.2",
+      "title": "Darkness",
+      "covers": "Physics: light and sound"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|5"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 5.1",
+      "title": "How we see things",
+      "covers": "Physics: light and sound; Earth and space: Earth in space"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 5.2",
+      "title": "Light travels in straight lines",
+      "covers": "Physics: light and sound; Earth and space: Earth in space"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 5.3",
+      "title": "Light reflects off different surfaces",
+      "covers": "Physics: light and sound; Earth and space: Earth in space"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 5.6",
+      "title": "Investigating shadow lengths",
+      "covers": "Physics: light and sound; Earth and space: Earth in space"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|5"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "caring-for-the-environment",
+  "title": "Caring for the environment",
+  "dk": [
+   "B9"
+  ],
+  "note": "",
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 1.5",
+      "title": "How can we care for our environment?",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|1"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 5",
+      "title": "Conservation of Environment",
+      "covers": "Useful animals and their care; plant parts and uses; food chain and food web; conserving the environment and water"
+     }
+    ],
+    "chapters": [
+     "nios|sci|3|5"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 4",
+      "title": "Our School — A Happy Place",
+      "covers": "A green school: waste, water, trees; kindness, respect and positive behaviour"
+     },
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 10",
+      "title": "Earth — Our Shared Home",
+      "covers": "Earth as a connected living planet; sharing nature, knowledge and culture; Vasudhaiva Kutumbakam"
+     },
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 9",
+      "title": "Conservation of Soil and Forests",
+      "covers": "Soil erosion, its harm and prevention; soil pollution; why forests must be protected"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|5|10",
+     "ncert|sci|5|4",
+     "nios|sci|5|9"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "waste",
+  "title": "Waste: reduce, reuse, recycle",
+  "dk": [
+   "B10"
+  ],
+  "note": "NCERT Class 4 Ch 8 also teaches the 5Rs (listed under making things)",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 12",
+      "title": "Taking Charge of Waste",
+      "covers": "Throwing and sorting waste correctly; reuse and recycling; clean and safe homes and neighbourhoods"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|3|12"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 15",
+      "title": "Garbage and Waste Disposal",
+      "covers": "Organic and inorganic waste; disposal and reuse; cleanliness and dustbins; harm to the environment"
+     }
+    ],
+    "chapters": [
+     "nios|sci|5|15"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "genes-and-inheriting-features",
+  "title": "Genes and inheriting features",
+  "dk": [
+   "C2"
+  ],
+  "note": "",
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 4.3",
+      "title": "Inheriting characteristics",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "where-humans-came-from",
+  "title": "Where humans came from",
+  "dk": [
+   "C3"
+  ],
+  "note": "",
+  "start": null,
+  "rungs": []
+ },
+ {
+  "id": "me-and-others",
+  "title": "Me and others: alike and different",
+  "dk": [
+   "C4",
+   "C5"
+  ],
+  "note": "",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 3.1",
+      "title": "We are similar",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 3.2",
+      "title": "We are different",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|3"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 3.4",
+      "title": "Sorting humans",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "our-closest-cousins",
+  "title": "Our closest cousins",
+  "dk": [
+   "C5"
+  ],
+  "note": "",
+  "start": null,
+  "rungs": []
+ },
+ {
+  "id": "family",
+  "title": "Family",
+  "dk": [
+   "C6"
+  ],
+  "note": "",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 1",
+      "title": "Family and Friends",
+      "covers": "Members of a family, how they are related, how they support each other, the joy of living together"
+     },
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 1",
+      "title": "Concept of Family and Interpersonal Relations",
+      "covers": "The family; relations in a family; parents' responsibility to children; status of girls and women"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|3|1",
+     "nios|sci|3|1"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "body-parts-and-skeleton",
+  "title": "Body parts and skeleton",
+  "dk": [
+   "C7"
+  ],
+  "note": "",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 3.3",
+      "title": "Our bodies",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|3"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 1.1",
+      "title": "Bones and skeletons",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 1.2",
+      "title": "Why we need a skeleton",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 1.3",
+      "title": "Skeletons and movement",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 1.4",
+      "title": "Different kinds of skeletons",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|1"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 13",
+      "title": "Internal Organs of the Human Body",
+      "covers": "The main internal organs and what each does"
+     }
+    ],
+    "chapters": [
+     "nios|sci|5|13"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "senses",
+  "title": "Senses",
+  "dk": [
+   "C8"
+  ],
+  "note": "",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 3.4",
+      "title": "Our fantastic senses",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 6.2",
+      "title": "Our ears",
+      "covers": "Physics"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|3",
+     "cam|sci|1|6"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 4.1",
+      "title": "Hearing and touch",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 4.2",
+      "title": "Taste and smell",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 4.3",
+      "title": "Sight",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "thinking-and-memory",
+  "title": "Thinking and memory",
+  "dk": [
+   "C9"
+  ],
+  "note": "",
+  "start": null,
+  "rungs": []
+ },
+ {
+  "id": "health-hygiene-exercise-and-illness",
+  "title": "Health, hygiene, exercise and illness",
+  "dk": [
+   "C10"
+  ],
+  "note": "",
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 4.4",
+      "title": "Keeping healthy",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 4.5",
+      "title": "Teeth",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|4"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 9",
+      "title": "Staying Healthy and Happy",
+      "covers": "Hygiene and cleanliness at home and around us; regular exercise and yoga; physical and emotional well-being"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 2.4",
+      "title": "Exercise and sleep",
+      "covers": "Biology"
+     },
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 9",
+      "title": "Care and cleanliness of external organs",
+      "covers": "External organs and their jobs; cleanliness and care, including private parts"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|2",
+     "ncert|sci|3|9",
+     "nios|sci|3|9"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 6",
+      "title": "Happy and Healthy Living",
+      "covers": "Journey of a grain and gratitude; not wasting food; mindful eating, exercise, rest; a safe environment"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 1.5",
+      "title": "Medicines and infectious diseases",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|1",
+     "ncert|sci|4|6"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 14",
+      "title": "Common Diseases: their Reasons, Prevention and Protection",
+      "covers": "Infectious and non-infectious diseases; symptoms and spread; prevention"
+     }
+    ],
+    "chapters": [
+     "nios|sci|5|14"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "electricity-and-staying-safe-with-it",
+  "title": "Electricity and staying safe with it",
+  "dk": [
+   "C10"
+  ],
+  "note": "Plus covers only safety; boards go on to circuits",
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 6.1",
+      "title": "Where do we use electricity?",
+      "covers": "Physics: electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 6.2",
+      "title": "Keep safe with electricity",
+      "covers": "Physics: electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 2,
+      "ref": "Unit 6.3",
+      "title": "Making circuits",
+      "covers": "Physics: electricity and magnetism"
+     }
+    ],
+    "chapters": [
+     "cam|sci|2|6"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 6.1",
+      "title": "Which materials conduct electricity?",
+      "covers": "Physics: electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 6.2",
+      "title": "Does water conduct electricity?",
+      "covers": "Physics: electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 6.3",
+      "title": "Using conductors and insulators in electrical appliances",
+      "covers": "Physics: electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 6.4",
+      "title": "Switches",
+      "covers": "Physics: electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 6.5",
+      "title": "Changing the number of components in a circuit",
+      "covers": "Physics: electricity and magnetism"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|6"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "food-and-a-balanced-diet",
+  "title": "Food and a balanced diet",
+  "dk": [
+   "C11"
+  ],
+  "note": "",
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 1.4",
+      "title": "Healthy food and drink",
+      "covers": "Biology"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|1"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 3,
+      "ref": "Ch 8",
+      "title": "Food We Eat",
+      "covers": "Why food matters for health; foods from many sources; nutrients; traditional knowledge of healthy eating"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 2.1",
+      "title": "Food groups",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 2.2",
+      "title": "A healthy diet",
+      "covers": "Biology"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 2.3",
+      "title": "An unhealthy diet",
+      "covers": "Biology"
+     },
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 8",
+      "title": "Food",
+      "covers": "Why we eat; parts of food and their jobs; balanced food; food safety"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|2",
+     "ncert|sci|3|8",
+     "nios|sci|3|8"
+    ]
+   },
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 4,
+      "ref": "Ch 5",
+      "title": "Food for Health",
+      "covers": "Food festival; balanced food: energy-giving, body-building, protective foods; traditional foods"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|4|5"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 4.2",
+      "title": "Balanced diets",
+      "covers": "Biology: structure and function"
+     },
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 12",
+      "title": "Food and Health",
+      "covers": "Deficiency diseases and how to prevent them; when to take extra care with food; cheap nutritious foods; storing food"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|4",
+     "nios|sci|5|12"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "digestion",
+  "title": "Digestion: how the body uses food",
+  "dk": [
+   "C11"
+  ],
+  "note": "",
+  "start": 5,
+  "rungs": [
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 5,
+      "ref": "Unit 4.1",
+      "title": "Parts and functions of the digestive system",
+      "covers": "Biology: structure and function"
+     }
+    ],
+    "chapters": [
+     "cam|sci|5|4"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "basic-needs",
+  "title": "Basic needs: air, water, food, clothing, shelter",
+  "dk": [
+   "C11",
+   "C12"
+  ],
+  "note": "",
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "nios",
+      "cls": 3,
+      "ref": "Lesson 7",
+      "title": "Our Basic Needs",
+      "covers": "Air, water, food, clothing and shelter: why we need them and how to take care"
+     }
+    ],
+    "chapters": [
+     "nios|sci|3|7"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "energy",
+  "title": "Energy",
+  "dk": [
+   "C12"
+  ],
+  "note": "",
+  "start": 4,
+  "rungs": [
+   {
+    "cls": 4,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 2.1",
+      "title": "Energy around us",
+      "covers": "Physics: forces and energy; Biology: ecosystems"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 2.2",
+      "title": "Energy transfers",
+      "covers": "Physics: forces and energy; Biology: ecosystems"
+     },
+     {
+      "b": "cambridge",
+      "cls": 4,
+      "ref": "Unit 2.3",
+      "title": "Energy changes",
+      "covers": "Physics: forces and energy; Biology: ecosystems"
+     }
+    ],
+    "chapters": [
+     "cam|sci|4|2"
+    ]
+   },
+   {
+    "cls": 5,
+    "covers": [
+     {
+      "b": "ncert",
+      "cls": 5,
+      "ref": "Ch 7",
+      "title": "Energy — How Things Work",
+      "covers": "Energy in everyday life; forms of energy at home and in society; how energy makes things work; clean and efficient energy"
+     },
+     {
+      "b": "nios",
+      "cls": 5,
+      "ref": "Lesson 10",
+      "title": "Sources of Energy and their Importance",
+      "covers": "Why we need energy; sources and kinds of energy; alternatives; saving energy"
+     }
+    ],
+    "chapters": [
+     "ncert|sci|5|7",
+     "nios|sci|5|10"
+    ]
+   }
+  ]
+ }
+]

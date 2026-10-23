@@ -125,3 +125,32 @@ These match the app's worksheet player:
 - Follow the chapter's own order, stories, characters and activities, and cite page numbers wherever you can see them.
 - Keep the book's own activities (tell the parent which page) and add our own beside them.
 - If you can't see the book's text for part of a unit (scanned pages), build that part from the unit and topic titles. Mark the source "Learner's Book pages X–Y" using the contents page numbers.
+
+## Combined topics (`app/content/combined/`)
+
+The Combined syllabus teaches every topic from NCERT, Cambridge and NIOS once, at the earliest class any board teaches it, and comes back to it, deeper, at every later class where another board teaches it. Each of these is a **rung**: one topic at one class. The list of rungs and the board subtopics each one must cover is in `app/build/combined/sci_universe.json` (built by `universe.py` from the concept map).
+
+One file per rung: `combined/<subj>-C<class>-<topic id>.json`, key `combined|<subj>|<class>|<topic id>`, `board` "combined", `n` the topic id.
+
+- **No textbook needed.** Never cite book pages. The `source` names the board subtopics covered and says "No textbook needed".
+- **Cover every board subtopic** listed for the rung in `sci_universe.json`, so the child is ready for any board in that class.
+- **Days:** 4–10. Same day lengths as above.
+- **Climb the ladder:** each rung starts by recalling the rung below in one short warm-up, then goes further. Don't repeat the earlier rung's activities.
+
+Extra fields, all required:
+
+```jsonc
+"builds_on": "What earlier classes did, and what later classes will do.",
+"project": {"title": "…", "days": [5, 6], "steps": ["…"], "outcome": "…"},
+"game": {"id": "g1", "title": "…", "kind": "board|cards", "players": "2–4", "need": ["a die"], "rules": ["…"],
+         "squares": ["START", "…", "HOME"],              // board: 12–30 squares
+         "cards": [{"front": "…", "back": "answer"}, {"job": true, "front": "CATEGORY"}]},  // cards: 12–48
+"big": ["3–6 big questions with no single right answer"],
+"challenge": [{"q": "A famous story or common belief, questioned", "hint": "What the evidence actually says, and a question to think about"}],  // 2–4
+"perspectives": [{"who": "a person, job or tradition", "view": "how they see or use this, and a question"}],
+"books": [{"title": "…", "author": "…", "for": "read alone|read together|parent reads", "age": "5–8", "why": "…"}]  // 2–6
+```
+
+- **Games are printed** on one A4 page and played at home. The game must be used in a day step (`ref`).
+- **Challenges** question popular stories and beliefs with evidence (Newton's apple, Archimedes' bath), never with fringe claims. The hint says honestly what is known and what isn't.
+- **Books:** only real books you are sure exist, with the right author. Adult books are fine if a parent can read parts aloud; say so in `age`. The app links each to an amazon.in search, so no shop link is needed.

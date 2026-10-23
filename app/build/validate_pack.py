@@ -6,7 +6,8 @@ KINDS = {"warmup", "read", "talk", "do", "exp", "act", "ws", "game", "think", "w
 ITEM = {"draw": ["p"], "write": ["p", "lines"], "fill": ["p", "a"], "mcq": ["p", "opts", "a"], "match": ["p", "pairs"],
         "sort": ["p", "items", "cats"], "table": ["p", "cols", "rows"]}
 VAGUE = ("read the chapter", "continue the chapter", "do the activities", "carry on", "finish the chapter")
-DAYS = {"ncert": (7, 12), "cambridge": (7, 16), "nios": (4, 10)}
+DAYS = {"ncert": (7, 12), "cambridge": (7, 16), "nios": (4, 10), "combined": (4, 10)}
+BOOKFOR = {"read alone", "read together", "parent reads"}
 
 def check(path):
     e = []
@@ -21,6 +22,8 @@ def check(path):
     lo, hi = DAYS.get(p["board"], (4, 16))
     if not lo <= len(p["days"]) <= hi: e.append(f'{len(p["days"])} days; expected {lo}–{hi}')
     ids = {x["id"] for g in ("worksheets", "experiments", "activities", "voices") for x in p[g] if "id" in x}
+    if p["board"] == "combined":
+        e += combined(p); ids.add(p.get("game", {}).get("id"))
     used = set()
     for i, d in enumerate(p["days"], 1):
         if d.get("n") != i: e.append(f"day {i}: n should be {i}")
@@ -60,6 +63,35 @@ def check(path):
             if x.get("id") and x["id"] not in used: e.append(f'{g[:-1]} {x["id"]} is never used in a day step (ref)')
     if p["subj"] == "sci" and not 2 <= len(p["voices"]) <= 4: e.append("science packs need 2–4 voices")
     if len(p["check"]) < 5: e.append("check needs at least 5 questions")
+    return e
+
+def combined(p):
+    """Extra parts of a Combined topic rung (see SPEC.md, Combined topics)."""
+    e = []
+    for k in ("builds_on", "project", "game", "big", "challenge", "perspectives", "books"):
+        if not p.get(k): e.append(f"combined: missing {k}")
+    if e: return e
+    if "textbook" not in p["source"].lower(): e.append("combined: source should say no textbook is needed")
+    g = p["game"]
+    for f in ("id", "title", "kind", "players", "rules"):
+        if f not in g: e.append(f"game missing {f}")
+    if g.get("kind") == "board" and not 12 <= len(g.get("squares", [])) <= 30: e.append("board game needs 12–30 squares")
+    if g.get("kind") == "cards" and not 12 <= len(g.get("cards", [])) <= 48: e.append("card game needs 12–48 cards")
+    if g.get("kind") not in ("board", "cards"): e.append("game kind must be board or cards")
+    if not 3 <= len(p["big"]) <= 6: e.append("big: 3–6 questions")
+    if not 2 <= len(p["challenge"]) <= 4: e.append("challenge: 2–4 items")
+    for c in p["challenge"]:
+        if not c.get("q") or not c.get("hint"): e.append("challenge items need q and hint")
+    for x in p["perspectives"]:
+        if not x.get("who") or not x.get("view"): e.append("perspectives need who and view")
+    if not 2 <= len(p["books"]) <= 6: e.append("books: 2–6")
+    for b in p["books"]:
+        for f in ("title", "author", "for", "age", "why"):
+            if not b.get(f): e.append(f'book {b.get("title")}: missing {f}')
+        if b.get("for") not in BOOKFOR: e.append(f'book {b.get("title")}: for must be one of {sorted(BOOKFOR)}')
+    pr = p["project"]
+    for f in ("title", "steps", "outcome"):
+        if not pr.get(f): e.append(f"project missing {f}")
     return e
 
 if __name__ == "__main__":
