@@ -44,7 +44,7 @@ await p.evaluate(()=>{MCP={describeTool:async()=>{throw {code:"not_in_manifest"}
 console.log('5. err:',await p.$eval('#sheetBody .card p[style]',e=>e.textContent).catch(()=>'none'));
 // dump chat
 await p.evaluate(()=>{ui.dump={text:"Swimming",items:[{title:"Swimming",type:"class",keep:true}],questions:["Which days?","What time?"]};SAMPLE={json:async pr=>{window._dp=pr;return {items:[{title:"Swimming",type:"class",days:[2,4],start:"17:00"}],questions:[]}}};});
-await p.evaluate(()=>{document.querySelectorAll('dialog[open]').forEach(d=>d.close())});await p.waitForTimeout(300);await p.click('#nav button:has-text("Planner")');await p.waitForTimeout(300);
+await p.evaluate(()=>{document.querySelectorAll('dialog[open]').forEach(d=>d.close())});await p.waitForTimeout(300);await p.click('#nav button:has-text("Plan")');await p.waitForTimeout(300);
 const qa=await p.$$('.chat input[data-qa]');console.log('6. chat inputs:',qa.length);if(qa.length){await qa[0].fill('Tue and Thu');await qa[0].press('Enter');await p.waitForTimeout(500);console.log('   chat:',(await p.$eval('.chat',e=>e.innerText).catch(()=>'gone')).replace(/\n+/g,' / '),'| sent text has answer:',await p.evaluate(()=>/Which days\? Tue and Thu/.test(window._dp||"")))}
 await p.screenshot({path:SP+'/d34c.png'});
 console.log('errors:',errs);await b.close()})();
