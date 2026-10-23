@@ -31,7 +31,7 @@ rep('todo:todoView,','todo:todoView,folder:folderView,')
 rep('   case "todo":{','''   case "wkst":{const id=b.dataset.id,to=b.dataset.to,key=k+"|"+id,W=WK(),w=W[key]||{};w.title=b.dataset.t||w.title;const untask=()=>{if(S.tasks[k])delete S.tasks[k][id]};
      if(to==="none"||(to==="undo"&&!w.started)){delete W[key];untask();sfx("flip")}
      else if(to==="undo"){w.st="started";delete w.done;delete w.doneAt;untask();W[key]=w;sfx("flip")}
-     else{w.st=to;w[to]=w[to]||today;w[to+"At"]=w[to+"At"]||Date.now();if(to==="done"){w.started=w.started||today;S.tasks[k]=S.tasks[k]||{};S.tasks[k][id]=w.done;sfx("win");toast("Finished · saved to your Work folder")}else{untask();sfx("ok");toast(to==="planned"?"Added to your pipeline · see To finish":"Marked started · finish it any time")}W[key]=w}
+     else{w.st=to;w[to]=w[to]||today;w[to+"At"]=w[to+"At"]||Date.now();if(to==="done"){w.started=w.started||today;S.tasks[k]=S.tasks[k]||{};S.tasks[k][id]=w.done;sfx("win");toast("Finished · saved to your Work folder")}else{untask();sfx("ok");toast(to==="planned"?"Added to your pipeline · see To finish":to==="skip"?"Okay, not doing this one":"Marked started · finish it any time")}W[key]=w}
      commit();break}
    case "qz":{S.quiz=S.quiz||{};const q=S.quiz[k+"|"+b.dataset.n]=S.quiz[k+"|"+b.dataset.n]||{};q[b.dataset.i]={q:b.dataset.q,a:b.dataset.a,r:+b.dataset.r,d:today};sfx(+b.dataset.r?"ok":"tap");commit();break}
    case "folder":{sfx("flip");openSheet({mode:"folder"});break}

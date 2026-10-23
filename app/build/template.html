@@ -480,6 +480,10 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 .exdots{display:flex;flex-wrap:wrap;gap:5px}.exdots button{width:14px;height:14px;border-radius:50%;border:0;background:rgba(43,35,64,.12);padding:0;cursor:pointer}.exdots .ans{background:var(--forest)}.exdots .on{outline:2px solid var(--ink);outline-offset:1px}.ask.exp{font-size:16px;line-height:1.5}
 .zrow{display:flex;gap:10px;align-items:flex-start;padding:6px 0;cursor:pointer}.zrow input{width:20px;height:20px;margin-top:2px;flex:none}.zrow.off{opacity:.5;cursor:default}
 .chat .row .chip{pointer-events:auto}
+.iopt{display:grid;gap:2px;text-align:left;padding:14px 16px;border-radius:16px;border:2px solid rgba(43,35,64,.12);background:var(--surface);cursor:pointer;font:inherit;color:inherit}.iopt b{font:600 17px var(--display)}.iopt span{font-size:13px;color:rgba(43,35,64,.65)}.iopt.green{background:var(--forest);border-color:var(--forest);color:#fff}.iopt.green span{color:rgba(255,255,255,.85)}.iopt.warn b{color:var(--bad)}
+.donebar{display:flex;align-items:center;gap:10px;width:100%;margin-top:12px;padding:10px 14px;border-radius:16px;border:0;background:rgba(83,163,115,.12);font:inherit;color:inherit;cursor:pointer;text-align:left}.donebar b{flex:1;font:600 16px var(--display)}.donebar .ck{width:28px;height:28px;flex:none;pointer-events:none}.donebar .xs{color:var(--forest);font-weight:700}
+.qtiles{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}.qtile{display:grid;grid-template-columns:auto 1fr;grid-template-rows:auto auto;column-gap:10px;align-items:center;text-align:left;padding:12px;border-radius:16px;border:2px solid rgba(43,35,64,.08);background:var(--surface);font:inherit;color:inherit;cursor:pointer;min-width:0}.qtile .qi{grid-row:1/3;display:grid;place-items:center;width:36px;height:36px;border-radius:12px;background:rgba(253,131,38,.14);color:var(--tang)}.qtile .qi svg{width:20px;height:20px}.qtile b{font:600 15px var(--display);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.qtile .xs{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pastev{display:grid;gap:10px;border:2px solid var(--tang)}
 </style>
 
 <header class="top"><div class="wrap">
@@ -506,6 +510,18 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -894,7 +910,7 @@ function mergeIn(a,b){const key=l=>l.date+"|"+l.key+"|"+l.kind,seen=new Set((a.l
   const log=[...(a.log||[]),...(b.log||[]).filter(l=>!seen.has(key(l)))].sort((x,y)=>x.date<y.date?1:x.date>y.date?-1:0).slice(0,3000);
   const progress={...(b.progress||{}),...(a.progress||{})};Object.entries(b.progress||{}).forEach(([k,q])=>{const p=(a.progress||{})[k];if(p&&(q.sessions||0)>(p.sessions||0))progress[k]={...p,sessions:q.sessions,status:rank[q.status]>rank[p.status]?q.status:p.status}});
   const keep=o=>Object.fromEntries(Object.entries(o||{}).filter(([,v])=>v!==""&&v!=null));
-  return {...a,log,progress,steps:{...(b.steps||{}),...(a.steps||{})},prep:{...(b.prep||{}),...(a.prep||{})},tasks:{...(b.tasks||{}),...(a.tasks||{})},ans:{...(b.ans||{}),...(a.ans||{})},games:{...(b.games||{}),...(a.games||{})},wk:{...(b.wk||{}),...(a.wk||{})},quiz:{...(b.quiz||{}),...(a.quiz||{})},work:Array.isArray(a.work)||Array.isArray(b.work)?(()=>{const m=new Map();[...(Array.isArray(b.work)?b.work:[]),...(Array.isArray(a.work)?a.work:[])].forEach(w=>w&&w.id&&m.set(w.id,{...(m.get(w.id)||{}),...w}));return [...m.values()]})():a.work,mins:(()=>{const m={...(b.mins||{})};Object.entries(a.mins||{}).forEach(([k,v])=>{m[k]=Math.max(v,m[k]||0)});return m})(),cal:(a.cal?.at||0)>=(b.cal?.at||0)?a.cal:b.cal,school:{...(b.school||{}),...(a.school||{})},evlog:{...(b.evlog||{}),...(a.evlog||{})},evoff:{...(b.evoff||{}),...(a.evoff||{})},parent:{...keep(b.parent),...keep(a.parent)}}}
+  return {...a,log,progress,steps:{...(b.steps||{}),...(a.steps||{})},prep:{...(b.prep||{}),...(a.prep||{})},tasks:{...(b.tasks||{}),...(a.tasks||{})},ans:{...(b.ans||{}),...(a.ans||{})},games:{...(b.games||{}),...(a.games||{})},wk:{...(b.wk||{}),...(a.wk||{})},quiz:{...(b.quiz||{}),...(a.quiz||{})},work:Array.isArray(a.work)||Array.isArray(b.work)?(()=>{const m=new Map();[...(Array.isArray(b.work)?b.work:[]),...(Array.isArray(a.work)?a.work:[])].forEach(w=>w&&w.id&&m.set(w.id,{...(m.get(w.id)||{}),...w}));return [...m.values()]})():a.work,mins:(()=>{const m={...(b.mins||{})};Object.entries(a.mins||{}).forEach(([k,v])=>{m[k]=Math.max(v,m[k]||0)});return m})(),cal:(a.cal?.at||0)>=(b.cal?.at||0)?a.cal:b.cal,school:{...(b.school||{}),...(a.school||{})},evlog:{...(b.evlog||{}),...(a.evlog||{})},evoff:{...(b.evoff||{}),...(a.evoff||{})},snz:{...(b.snz||{}),...(a.snz||{})},parent:{...keep(b.parent),...keep(a.parent)}}}
 async function logout(){if(store){clearTimeout(saveTimer);await writeNow().catch(()=>{})}if(unsub){try{unsub()}catch(e){}unsub=null}
   if(DBR){try{await DBR.doc("data/users/"+UIDR+"/session").set({acct:null,at:Date.now(),migrated:true})}catch(e){}}
   lsDel("dk-acct");ACC=null;store=null;S=fresh();ob=null;render()}
@@ -1004,7 +1020,7 @@ function prepBlock(date,when){const items=[];
   return items}
 const prepMins=its=>Math.max(10,its.reduce((a,p)=>a+(p.kind==="guide"?3:6),0));
 function lessonsOn(date){const L=[];S.subjects.forEach(s=>{
-    if(date<=today){S.log.filter(l=>l.date===date&&l.subj===s&&l.kind!=="free").slice().reverse().forEach(l=>{const u=unitBy(l.key);if(u)L.push({s,u,done:true,title:l.title,at:l.at,n:l.n,tot:sessionsFor(u)})});
+    if(date<=today){S.log.filter(l=>l.date===date&&l.subj===s&&l.kind!=="free").slice().reverse().forEach(l=>{const u=unitBy(l.key);if(u)L.push({s,u,done:true,title:l.title,at:l.at,n:l.n,tot:sessionsFor(u),skipped:l.kind==="skipped"})});
       if(date===today&&ui.more[s]){const nx=nextUp(s);if(nx&&!(L.some(z=>z.s===s&&!z.done)))L.push({s,u:nx.u,n:nx.n,tot:nx.tot,bonus:true})}}
     const x=upcoming().find(z=>z.subj===s&&z.date===date);if(x&&!(date===today&&ui.more[s]))L.push({s,u:x.u,n:x.n,tot:x.tot})});return L}
 function dayPlan(date){const d=Dd(date),items=[],ev=eventsOn(date),isT=date===today;
@@ -1015,7 +1031,7 @@ function dayPlan(date){const d=Dd(date),items=[],ev=eventsOn(date),isT=date===to
   if(lessons.length){items.push({id:"warm",at:place(15),dur:15,who:"both",kind:"warm",title:"Warm-up: jokes and Word of the Day",sub:"Start the day laughing",done:!!S.tl[date+"|warm"]||(isT&&(G().g.length>0))});
     const rf=refresherFor(date);if(rf)items.push({id:"refresh",at:place(15),dur:15,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:"From "+rf.u.title,rf,done:!!S.tl[date+"|refresh"]});
     const open=S.exps.filter(e=>!e.closed&&e.start<=date);if(open.length)items.push({id:"exps",at:place(5),dur:5,who:"both",kind:"exps",title:"Check ongoing experiments",sub:open.map(e=>e.title).slice(0,2).join(" · ")+(open.length>2?` +${open.length-2}`:""),done:isT&&open.every(e=>e.checks.includes(today))});cur+=5}
-  lessons.forEach((l,i)=>{if(l.done&&l.at!=null){items.push({id:"L-"+l.s+"d"+i,at:l.at,doneAt:l.at,dur:lessonMins(l.s,date),who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,title:SUBJ[l.s]+": "+l.u.title,sub:"Done ✓",done:true});return}const dur=lessonMins(l.s,date),lastEnd=cur;if(i>0)cur+=+d.brk;const at=place(dur);if(i>0&&+d.brk&&at===lastEnd+ +d.brk)items.push({id:"brk"+i,at:lastEnd,dur:+d.brk,who:"free",kind:"brk",title:"Break: water, snack, move"});items.push({id:"L-"+l.s+(l.bonus?"b":"")+i,at,dur,who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,bonus:!!l.bonus,doneNoTime:!!l.done,title:(l.bonus?"Bonus · ":"")+SUBJ[l.s]+": "+l.u.title,sub:l.done?"Done ✓":`Part ${l.n} of ${l.tot}`+(l.u.c?.x?` · ${daySteps(l.u,l.n,l.tot).map(z=>z.label).join(", ")}`:""),done:!!l.done});
+  lessons.forEach((l,i)=>{if(l.done&&l.at!=null){items.push({id:"L-"+l.s+"d"+i,at:l.at,doneAt:l.at,dur:lessonMins(l.s,date),who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,title:SUBJ[l.s]+": "+l.u.title,sub:l.skipped?"Skipped":"Done ✓",skipped:l.skipped,done:true});return}const dur=lessonMins(l.s,date),lastEnd=cur;if(i>0)cur+=+d.brk;const at=place(dur);if(i>0&&+d.brk&&at===lastEnd+ +d.brk)items.push({id:"brk"+i,at:lastEnd,dur:+d.brk,who:"free",kind:"brk",title:"Break: water, snack, move"});items.push({id:"L-"+l.s+(l.bonus?"b":"")+i,at,dur,who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,bonus:!!l.bonus,doneNoTime:!!l.done,title:(l.bonus?"Bonus · ":"")+SUBJ[l.s]+": "+l.u.title,sub:l.done?"Done ✓":`Part ${l.n} of ${l.tot}`+(l.u.c?.x?` · ${daySteps(l.u,l.n,l.tot).map(z=>z.label).join(", ")}`:""),done:!!l.done});
 });
   if(lessons.length)items.push({id:"lunch",at:hm(d.lunch),dur:+d.lunchMin,who:"free",kind:"brk",title:"Lunch"});
   ev.forEach(e=>items.push({id:"e-"+e.id,at:e.start?hm(e.start):24*60-1,anytime:!e.start,dur:e.start&&e.end?Math.max(15,hm(e.end)-hm(e.start)):15,who:e.kind==="outing"?"out":e.who,kind:"event",ev:e,title:e.title,sub:evSub(e)+(e.start?"":e.allDay?" · all day":" · time not set"),done:!!S.tl[date+"|e-"+e.id]}));
@@ -1069,6 +1085,19 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* ---------- what to show next, and honest choices instead of "Done" for everything ---------- */
+const OURS=i=>!["event","todo","prep","plan"].includes(i.kind);
+const snzd=(i,date)=>(S.snz?.[date+"|"+i.id]||0)>nowMin();
+const evPast=(i,date)=>i.kind==="event"&&!i.done&&!i.anytime&&date===today&&i.at+i.dur<=nowMin();
+function pastEvCard(items){const P=items.filter(i=>evPast(i,today));if(!P.length)return "";
+  return `<section class="card pastev"><span class="eyebrow">Did ${P.length>1?"these":"this"} happen?</span>${P.map(i=>`<div class="row" style="flex-wrap:nowrap;gap:10px;align-items:center"><div style="flex:1;min-width:0"><b>${esc(i.title)}</b><br><span class="xs muted">${clock(i.at)}${i.ev?.end?"–"+clock(hm(i.ev.end)):""} · ${esc(evShort(i.ev))}</span></div><button class="btn green xs" data-act="tlcheck" data-id="${i.id}" data-date="${today}">Done</button><button class="btn line xs" data-act="evmiss" data-id="${esc(i.ev.id)}" data-date="${today}">Didn't happen</button></div>`).join("")}</section>`}
+function ioptsView(){const {date,id}=ui.sheet,it=dayPlan(date).find(i=>i.id===id);if(!it)return `<p class="note">That's no longer on the plan.</p>`;const L=it.kind==="lesson",title=L?chT(it.u):it.title,day=date===today?"today":fmt(date);
+  document.getElementById("sheetTitle").textContent=title;const a=(act,label,sub,cls="line",extra="")=>`<button class="iopt ${cls}" data-act="${act}" data-id="${it.id}" data-date="${date}" ${extra}><b>${label}</b>${sub?`<span>${sub}</span>`:""}</button>`;
+  const started=L&&stepState(it).some(x=>x.ok);let h=`<p class="sm muted">${L?`${esc(SUBJ[it.s])} · Part ${it.n} of ${it.tot}${started?" · started":""}`:esc(it.sub||"")}</p><div class="col" style="gap:10px">`;
+  if(L){h+=(date===today?a("play",started?"Keep going":"Start the lesson","Opens the step-by-step lesson","green"):"")+a("iofin","We already did it",`Marks Part ${it.n} done${date===today?" now":""}`)+(date===today?a("iosnz","Later today","Moves it out of the way for an hour"):"")+a("skip","Do it on the next lesson day","Today's slot is freed; the chapter carries on next time","line",`data-s="${it.s}"`)+a("ioskip","Skip this part",`We move on to Part ${Math.min(it.tot,it.n+1)}. It shows as skipped in the history`,"line warn")}
+  else{h+=(date===today?(it.kind==="warm"?a("games","Start the warm-up","","green"):it.kind==="refresh"?a("refresh","Play it","","green"):""):"")+a("iodone","We already did it","")+(date===today?a("iosnz","Later today","Moves it out of the way for an hour"):"")+a("ioskipday",`Skip it ${day}`,"It comes back on another day")}
+  return h+`</div>`}
+
 /* ---------- classes and tuitions: no "done" before they start; cancel; a short check-in after ---------- */
 function dedupeEv(){const seen=new Set(),E=S.events||[],F=E.filter(e=>{const k=[String(e.title||"").toLowerCase(),e.start,e.end,e.rep,(e.days||[]).slice().sort().join(),e.date||""].join("|");if(seen.has(k))return false;seen.add(k);return true});if(F.length!==E.length)S.events=F}
 const evShort=e=>e.who==="kid"?`${S.child||"Child"} ${e.kind==="rest"?"rests":"goes"}`:e.who==="both"?"Together":"You";
@@ -1300,7 +1329,7 @@ function addMins(k,sec){const u=unitByK(String(k||"").replace(/^x/,""));if(!u)re
 function trackData(){const D={},day=d=>D[d]=D[d]||{m:{},e:{},did:[]},add=(d,s,f,m)=>{const x=day(d);x[f][s]=(x[f][s]||0)+m};
   Object.entries(S.mins||{}).forEach(([k,m])=>{const [d,s]=k.split("|");add(d,s,"m",m)});
   (S.pace||[]).forEach(p=>{const u=unitByK(p.k);if(!u||S.mins?.[p.date+"|"+u.subj]!==undefined)return;add(p.date,u.subj,"m",p.took||0)});
-  S.log.slice().reverse().forEach(l=>{if(l.kind==="free"&&!l.title)return;const x=day(l.date),u=unitByK(l.key);if(!x.m[l.subj])add(l.date,l.subj,"e",lessonMins(l.subj,l.date));x.did.push({t:"lesson",s:l.subj,u,n:l.n,title:l.title,at:l.at})});
+  S.log.slice().reverse().forEach(l=>{if(l.kind==="free"&&!l.title)return;const x=day(l.date),u=unitByK(l.key);if(!x.m[l.subj]&&l.kind!=="skipped")add(l.date,l.subj,"e",lessonMins(l.subj,l.date));x.did.push({t:"lesson",s:l.subj,u,n:l.n,title:l.title,at:l.at,sk:l.kind==="skipped"})});
   Object.entries(S.tasks||{}).forEach(([k,o])=>Object.entries(o).forEach(([id,d])=>{if(typeof d!=="string"||!/^\d{4}-/.test(d))return;const [uk,w]=k.split("#"),u=unitByK(uk);if(!u)return;if(id==="ws"){const pw=w&&u.c?.p?.worksheets?.find(z=>z.id===w);day(d).did.push({t:"ws",s:u.subj,u,title:pw?pw.title:"Worksheet"})}}));
   Object.entries(WK()).forEach(([key,w])=>{const j=key.lastIndexOf("|"),u=unitByK(key.slice(0,j));if(!u)return;if(w.started&&w.st!=="done")day(w.started).did.push({t:"start",s:u.subj,u,title:w.title});if(w.done)day(w.done).did.push({t:"proj",s:u.subj,u,title:w.title})});
   Object.entries(S.quiz||{}).forEach(([key,q])=>{const j=key.lastIndexOf("|"),u=unitByK(key.slice(0,j)),its=Object.values(q);if(!u||!its.length)return;const d=its.map(x=>x.d).sort().pop();day(d).did.push({t:"quiz",s:u.subj,u,n:+key.slice(j+1),title:`${its.filter(x=>x.r).length} of ${its.length} got it`})});
@@ -1309,7 +1338,7 @@ function trackData(){const D={},day=d=>D[d]=D[d]||{m:{},e:{},did:[]},add=(d,s,f,
   (S.exps||[]).forEach(e=>(e.checks||[]).forEach(d=>day(d).did.push({t:"check",title:e.title})));
   return D}
 const dTot=x=>Object.values(x.m).reduce((a,b)=>a+b,0)+Object.values(x.e).reduce((a,b)=>a+b,0);
-function didLine(x){const ch=x.u?esc(chT(x.u)):"";return x.t==="lesson"?`<li><b>${ch}</b>${x.n?` · Part ${x.n}`:""}${x.at!=null?` <span class="xs muted">${clock(x.at)}</span>`:""}</li>`:x.t==="ws"?`<li>Worksheet finished: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`:x.t==="quiz"?`<li>Quiz, Part ${x.n}: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`:x.t==="proj"?`<li>Finished: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`:x.t==="start"?`<li>Started: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`:x.t==="ev"?evLogLine(x):x.t==="check"?`<li>Checked on: ${esc(x.title)}</li>`:""}
+function didLine(x){const ch=x.u?esc(chT(x.u)):"";return x.t==="lesson"?`<li><b>${ch}</b>${x.n?` · Part ${x.n}`:""}${x.sk?" (skipped)":""}${x.at!=null?` <span class="xs muted">${clock(x.at)}</span>`:""}</li>`:x.t==="ws"?`<li>Worksheet finished: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`:x.t==="quiz"?`<li>Quiz, Part ${x.n}: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`:x.t==="proj"?`<li>Finished: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`:x.t==="start"?`<li>Started: ${esc(x.title)} <span class="xs muted">${ch}</span></li>`:x.t==="ev"?evLogLine(x):x.t==="check"?`<li>Checked on: ${esc(x.title)}</li>`:""}
 function trackChart(T){const days=Array.from({length:14},(_,i)=>addDays(today,i-13)),subs=SUBJ_KEYS.filter(s=>days.some(d=>T[d]&&((T[d].m[s]||0)+(T[d].e[s]||0))>0)),mx=Math.max(30,...days.map(d=>T[d]?dTot(T[d]):0)),top=Math.ceil(mx/30)*30;
   if(!subs.length)return `<p class="note">No study time in the last two weeks yet. Time is measured as you go through lessons.</p>`;
   return `<div class="tlegend">${subs.map(s=>`<span><i style="background:${CHC[s]}"></i>${esc(SUBJ[s])}</span>`).join("")}<span class="xs muted"><i class="est"></i>Lighter: planned time, not timed</span></div>
@@ -1364,6 +1393,7 @@ function schoolView(){document.getElementById("sheetTitle").textContent="Moving 
   <details class="card"><summary><b>Details for the school</b> <span class="xs muted">· optional</span></summary><div class="fgrid" style="margin-top:10px">${f("dob","Date of birth","date")}${f("to","School applying to","text","e.g. Kendriya Vidyalaya, Indiranagar")}${f("cls","Class applying for","text","e.g. Class 4")}${f("contact","Parent phone or email")}</div><div class="field"><label for="sch-note">A note for the school</label><textarea class="inp" id="sch-note" data-sch="note" rows="3" placeholder="How you homeschool, strengths, anything they should know">${esc(I.note||"")}</textarea></div></details>`;
   h+=testSection();
   h+=testSection();
+  h+=testSection();
   h+=`<div class="tiles"><div class="tile"><b>${D.ds.length}</b><span>study days${D.from?` since ${esc(fmt(D.from))}`:""}</span></div><div class="tile"><b>${hmin(D.mins)}</b><span>of study</span></div><div class="tile"><b>${D.subs.reduce((a,x)=>a+x.L.filter(c=>c.fin).length,0)}</b><span>chapters completed</span></div><div class="tile"><b>${D.ws}</b><span>worksheets finished</span></div></div>`;
   const idle=D.subs.filter(x=>!x.L.length);D.subs.filter(x=>x.L.length).forEach(x=>{h+=`<section class="card ${SC(x.s)}"><div class="sech"><h3 style="font-size:19px">${esc(SUBJ[x.s])}</h3>${x.score!=null?`<span class="grade" title="Score ${x.score}">${x.grade} · ${x.score}</span>`:`<span class="xs muted">no checked work yet</span>`}</div>
     <p class="xs muted">${hmin(x.mins)} · ${x.L.filter(c=>c.fin).length} chapters completed, ${x.L.filter(c=>!c.fin).length} in progress${x.level?` · working at Level ${x.level}`:""}</p>
@@ -1401,8 +1431,8 @@ function fixWork(){if(S.work&&!Array.isArray(S.work)){const ph=[],wk={};Object.e
 const wkOf=(k,id)=>{const w=WK()[k+"|"+id];if(w)return w;const t=S.tasks[k]?.[id];return t?{st:"done",done:t}:null};
 function wkTitle(u,id,text){if(u.c?.p){const [,x]=pkFind(u,id);if(x)return x.title}if(id==="proj"&&u.c?.proj)return u.c.proj[0];const m=/^(exp|act)(\d+)$/.exec(id);if(m){const s=(m[1]==="exp"?u.c?.exp:u.c?.act)?.[+m[2]];if(s)return s.split(":")[0].slice(0,70)}return text}
 function workCtl(u,id,text){const w=wkOf(u.k,id),st=w?.st,t=esc(wkTitle(u,id,text)),a=(to,l,cls)=>`<button class="${cls==="link"?"link xs":"btn xs "+cls}" data-act="wkst" data-k="${u.k}" data-id="${id}" data-to="${to}" data-t="${t}">${l}</button>`;
-  const line=st==="done"?`Finished ${fmt(w.done)}${w.started&&w.started!==w.done?` · started ${fmt(w.started)}`:""} ✓`:st==="started"?`Started ${fmt(w.started)} · finish it any time`:st==="planned"?`In your pipeline since ${fmt(w.planned)}`:"Not started yet";
-  return `<div class="wkctl ${st||""}"><span class="xs"><b>${esc(line)}</b></span><div class="row" style="gap:6px;flex-wrap:wrap">${st==="done"?a("undo","Undo","link"):st==="started"?a("done","Mark finished","accent")+a("none","Clear","link"):(st==="planned"?a("none","Take out of pipeline","link"):a("planned","+ Pipeline","soft"))+a("started","Mark started","soft")+a("done","Finished","accent")}</div></div>`}
+  const line=st==="done"?`Finished ${fmt(w.done)}${w.started&&w.started!==w.done?` · started ${fmt(w.started)}`:""} ✓`:st==="started"?`Started ${fmt(w.started)} · finish it any time`:st==="planned"?`In your pipeline since ${fmt(w.planned)}`:st==="skip"?"Not doing this one":"Not started yet";
+  return `<div class="wkctl ${st||""}"><span class="xs"><b>${esc(line)}</b></span><div class="row" style="gap:6px;flex-wrap:wrap">${st==="done"?a("undo","Undo","link"):st==="skip"?a("none","Undo","link"):st==="started"?a("done","Mark finished","accent")+a("none","Clear","link"):(st==="planned"?a("none","Take out of pipeline","link"):a("planned","+ Pipeline","soft"))+a("started","Mark started","soft")+a("done","Finished","accent")+a("skip","Not doing this","link")}</div></div>`}
 function quizBtns(k,n,i,q){const r=S.quiz?.[k+"|"+n]?.[i]?.r,b=(v,l)=>`<button class="btn xs ${r===v?(v?"accent":"soft"):""}" aria-pressed="${r===v}" data-act="qz" data-k="${k}" data-n="${n}" data-i="${i}" data-r="${v}" data-q="${esc(q.q)}" data-a="${esc(q.a)}">${l}</button>`;return `<div class="row" style="gap:6px;margin:4px 0 8px">${b(1,"Got it")}${b(0,"Not yet")}</div>`}
 const padKey=p=>"dk-pad-"+(ACC||"guest")+"-"+p;
 function ansHtml(it,v,pad){try{return ansHtml_(it,v,pad)}catch(e){return `<p class="sm">${esc(typeof v==="object"?JSON.stringify(v):String(v))}</p>`}}
@@ -1445,7 +1475,7 @@ function openWork(){const seen=new Set([...S.log.map(l=>l.key),...Object.keys(S.
   us.forEach(u=>{const P=u.c?.p,dn=done(u.k);
     (P?.worksheets||[]).forEach(w=>{const k=u.k+"#"+w.id;if(taskDone(k,"ws"))return;const c=wsCount(k,w.sections);if(c.ans>0)O.wsGoing.push({u,w,...c});else if((w.day||99)<=dn)O.wsMissed.push({u,w,...c})});
     if(u.c?.x?.wsd&&!taskDone(u.k,"ws")){const c=wsCount(u.k,u.c.x.wsd);if(c.ans>0)O.wsGoing.push({u,w:{id:"",title:"Chapter worksheet",tier:""},...c})}
-    [...(P?.experiments||[]),...(P?.activities||[])].forEach(e=>{const R=refParts(u,e.id);if(R.length<2||taskDone(u.k,e.id)||WK()[u.k+"|"+e.id]?.st==="planned")return;const a=R[0],z=R[R.length-1];if(a<=dn&&dn<z){O.going.push({u,e,a,z,next:R.find(r=>r>dn)});held.add(u.k+"|"+e.id)}else if(dn>=z){O.finish.push({u,e,a,z});held.add(u.k+"|"+e.id)}})});
+    [...(P?.experiments||[]),...(P?.activities||[])].forEach(e=>{const R=refParts(u,e.id);if(R.length<2||taskDone(u.k,e.id)||["planned","skip"].includes(WK()[u.k+"|"+e.id]?.st))return;const a=R[0],z=R[R.length-1];if(a<=dn&&dn<z){O.going.push({u,e,a,z,next:R.find(r=>r>dn)});held.add(u.k+"|"+e.id)}else if(dn>=z){O.finish.push({u,e,a,z});held.add(u.k+"|"+e.id)}})});
   Object.entries(WK()).forEach(([key,w])=>{if(held.has(key)||w.st==="done")return;const j=key.lastIndexOf("|"),u=unitByK(key.slice(0,j));if(!u)return;const x={u,id:key.slice(j+1),w};if(w.st==="started")O.started.push(x);else if(w.st==="planned")O.planned.push(x)});
   S.subjects.forEach(s=>schedule(s,28).forEach(x=>{const P=x.u.c?.p;if(!P)return;[...(P.experiments||[]),...(P.activities||[])].forEach(e=>{const R=refParts(x.u,e.id);if(R.length>=2&&R[0]===x.n&&!taskDone(x.u.k,e.id)&&!WK()[x.u.k+"|"+e.id])O.soon.push({u:x.u,e,date:x.date,n:x.n,z:R[R.length-1],prep:(pkDay(x.u,x.n).prep||[])})})}));
   O.soon.sort((a,b)=>a.date<b.date?-1:1);return O}
@@ -1692,7 +1722,7 @@ function nowCard(it){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,missed=is
   const mascot=it.kind==="lesson"?sblob(it.s,"happy","mascot bob"):it.who==="you"?youBlob("mascot bob","calm"):kidBlob("mascot bob");
   return `<section class="now ${col}">${mascot}<span class="eyebrow">${label} · ${it.anytime?"any time":clock(it.at)}</span><h2>${esc(title)}</h2><p class="sub">${esc(sub)}</p>
    <div class="row" style="flex-wrap:nowrap"><button class="btn wide big" ${P[0]}>${it.kind==="lesson"?icon("play"):""}${P[1]}</button>${P[0].includes("tlcheck")||P[0].includes("evcancel")?"":`<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
-   <button class="link sm" data-act="nowmore" data-id="${it.id}" style="justify-self:start">${open?"Hide details":"Details"}</button>${open?`<div class="tdet">${itemDetail(it,today)}</div>`:""}</section>`}
+   <div class="row" style="gap:18px"><button class="link sm" data-act="nowmore" data-id="${it.id}">${open?"Hide details":"Details"}</button>${OURS(it)&&it.kind!=="exps"?`<button class="link sm" data-act="iopts" ${a}>Did it already, later or skip?</button>`:""}</div>${open?`<div class="tdet">${itemDetail(it,today)}</div>`:""}</section>`}
 function moreView(){document.getElementById("sheetTitle").textContent="More for today";const du=dailyUnit(),open=S.exps.filter(e=>!e.closed),li=learnItems().length;
   let h=`<section class="card"><span class="eyebrow">Today is a</span><div class="whos"><button aria-pressed="${dayTypeOf(today)==="full"}" data-act="daytype" data-t="full">Full day</button><button aria-pressed="${dayTypeOf(today)==="busy"}" data-act="daytype" data-t="busy">Busy day</button></div><p class="xs muted">Busy days use the short lesson plans.</p></section>`;
   h+=`<button class="menurow" data-act="learn">${youBlob("","calm",'width="40" height="40"')}<span><b>For you</b><br><span class="xs muted">${li?li+" guides and readings for today and tomorrow":"Guides for teaching each topic"}</span></span>${icon("next")}</button>`;
@@ -1877,9 +1907,13 @@ function calendarCard(){const C=S.cal||{},busy=ui.gcBusy,err=C.err?`<p class="sm
 const nowMin=()=>{const d=new Date();return d.getHours()*60+d.getMinutes()};
 const sid=x=>x.kind+"|"+x.title;
 let SAMPLE=null,ASSETS=null,IMGOK=false;
-function focusOf(items,date){if(date!==today)return null;const nm=nowMin(),d=Dd(date),real=items.filter(i=>i.kind!=="brk"&&!i.done);if(!real.length)return null;
-  const pm=real.find(i=>i.id==="pm");if(pm&&nm>=hm(d.eveAt)-30)return pm;return real.find(i=>!i.anytime&&i.id!=="pm")||real[0]}
-const isMissed=(it,date)=>date===today&&!it.done&&!it.anytime&&it.kind!=="brk"&&it.at+it.dur<nowMin();
+function focusOf(items,date){if(date!==today)return null;const nm=nowMin(),d=Dd(date),real=items.filter(i=>i.kind!=="brk"&&!i.done&&!snzd(i,date)&&!evPast(i,date));if(!real.length)return null;
+  const pm=real.find(i=>i.id==="pm");if(pm&&nm>=hm(d.eveAt)-30)return pm;const R=real.filter(i=>i.id!=="pm");
+  const now=R.find(i=>!i.anytime&&i.at<=nm&&nm<i.at+i.dur);if(now)return now;
+  const next=R.filter(i=>!i.anytime&&i.at>nm),missed=R.filter(i=>OURS(i)&&!i.anytime&&i.at+i.dur<=nm);
+  if(missed.length&&!(next[0]&&next[0].at-nm<=15))return missed[0];
+  return next[0]||missed[0]||R.find(i=>i.anytime&&OURS(i))||R.find(i=>i.anytime)||pm||null}
+const isMissed=(it,date)=>date===today&&!it.done&&!it.anytime&&OURS(it)&&it.kind!=="brk"&&!snzd(it,date)&&it.at+it.dur<nowMin();
 function photoBtn(k,label){return ASSETS?`<label class="btn soft sm" style="cursor:pointer">${icon("plus")}${label||"Add a photo of the work"}<input type="file" accept="image/*" data-upload="${k}" hidden></label>`:""}
 function workOf(k){return (S.work||[]).filter(w=>!k||w.k===k)}
 const thumbs=list=>list.length?`<div class="thumbs">${list.map(w=>`<figure><img src="/_blob/${esc(w.id)}" alt="Work from ${esc(w.title||"")}" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'ph',textContent:'Photo'}))"><figcaption class="xs muted">${fmt(w.date)}</figcaption></figure>`).join("")}</div>`:"";
@@ -1901,8 +1935,8 @@ function itemDetail(it,date){const isT=date===today;
 function tRow(it,date,focus){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,[hh,ap]=it.anytime?["Any","time"]:it.done&&it.doneNoTime?["Done",""]:clock(it.at).split(" ");
   if(it.kind==="brk")return `<div class="tr brk"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur/60)}</span></div>`;
   const open=!!ui.open[it.id],missed=isMissed(it,date)&&it!==focus,a=`data-id="${it.id}" data-date="${date}"`;
-  const tag=it===focus?`<span class="tag now">${date===today&&it.at<=nowMin()&&!it.anytime?"Now":"Up next"}</span>`:missed?`<span class="tag miss">Still to do</span>`:"";
-  return `<div class="tr ${col} ${it.done?"done":""} ${it===focus?"focus":""} ${missed?"missed":""}"><span class="t num">${hh}<small>${ap}</small></span><div class="tcard"><span class="ic">${icon(KICO[it.kind]||"spark")}</span><button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind==="lesson"?chT(it.u):it.title)}</b><span>${tag}${it.kind==="lesson"?SUBJ[it.s]+" · "+(it.n?`Part ${it.n}${it.tot?" of "+it.tot:""} · `:""):""}${it.done&&it.doneAt!=null?"done at "+clock(it.doneAt):it.done&&it.doneNoTime?"done, time not recorded":(it.kind==="event"&&it.ev?evShort(it.ev):ROLE[it.who])+" · "+mins(it.dur/60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done?"Done":"Mark done"}: ${esc(it.title)}">${icon("check")}</button>${open?`<div class="tdet">${itemDetail(it,date)}</div>`:""}</div></div>`}
+  const tag=it===focus?`<span class="tag now">${date===today&&it.at<=nowMin()&&!it.anytime?"Now":"Up next"}</span>`:evPast(it,date)?`<span class="tag miss">Did it happen?</span>`:snzd(it,date)?`<span class="tag">Later today</span>`:missed?`<span class="tag miss">Still to do</span>`:"";
+  return `<div class="tr ${col} ${it.done?"done":""} ${it===focus?"focus":""} ${missed?"missed":""}"><span class="t num">${hh}<small>${ap}</small></span><div class="tcard"><span class="ic">${icon(KICO[it.kind]||"spark")}</span><button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind==="lesson"?chT(it.u):it.title)}</b><span>${tag}${it.kind==="lesson"?SUBJ[it.s]+" · "+(it.n?`Part ${it.n}${it.tot?" of "+it.tot:""} · `:""):""}${S.tl[date+"|"+it.id]==="skip"?"skipped today":S.tl[date+"|"+it.id]==="missed"?"didn't happen":it.skipped?"skipped":it.done&&it.doneAt!=null?"done at "+clock(it.doneAt):it.done&&it.doneNoTime?"done, time not recorded":(it.kind==="event"&&it.ev?evShort(it.ev):ROLE[it.who])+" · "+mins(it.dur/60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done?"Done":"Mark done"}: ${esc(it.title)}">${icon("check")}</button>${open?`<div class="tdet">${itemDetail(it,date)}</div>`:""}</div></div>`}
 function timeline(date){const items=dayPlan(date),f=focusOf(items,date);return items.length?`<div class="tt compact">${items.map(i=>tRow(i,date,f)).join("")}</div>`:`<p class="note">Nothing planned for this day yet.</p>`}
 const tomorrow=()=>addDays(today,1);
 function nightItems(){const seen=new Set(),out=[];[...prepBlock(today,"pm"),...prepBlock(tomorrow(),"am").filter(p=>p.lead===0)].forEach(p=>{if(!seen.has(p.id)){seen.add(p.id);out.push(p)}});return out}
@@ -2164,11 +2198,12 @@ function viewToday(){const items=dayPlan(today),real=items.filter(i=>i.kind!=="b
   if(S.setup&&!S.parent?.saved&&!S.parent?.name)h+=`<button class="nudge" data-act="parent">${youBlob("","happy",'width="36" height="36"')}<span>${pname()?"Set your wake-up and prep times":"Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if(ui.tday&&ui.tday!==today)return h+otherDay(ui.tday);
   h+=`<section class="sec cal">${calHead(today)}`;
-  if(f)h+=nowCard(f);
+  h+=pastEvCard(real);if(f)h+=nowCard(f);
   if(lessonsDone||!real.length)h+=`<section class="donecard">${blob("var(--sun)",4,"happy","mascot bob")}<h2>${lessons.length?"Lessons done! Keep going?":"Want to start something?"}</h2>${offerList()}</section>`;
   if(left.length)h+=`<div class="sech" style="margin-top:12px"><h3>Later today</h3></div><div class="tt compact">${left.map(i=>tRow(i,today,null)).join("")}</div>`;
-  if(doneL.length)h+=`<div class="row" style="justify-content:space-between;margin-top:8px"><button class="link" data-act="showdone">${ui.showDone?"Hide":"Show"} ${doneL.length} done today</button><span class="row" style="gap:14px"><button class="link" data-act="uploads">Add photos</button>${(n=>n?`<button class="link" data-act="todo">To finish · ${n}</button>`:"")(openCount())}<button class="link" data-act="plsheet" data-p="queue">Up next</button><button class="link" data-act="hist">Full history</button></span></div>${ui.showDone?`<div class="tt compact">${doneL.map(i=>tRow(i,today,null)).join("")}</div>`:""}`;
-  {const oc=openCount();if(oc&&!doneL.length)h+=`<button class="link" data-act="todo" style="justify-self:start;margin-top:8px">To finish · ${oc}</button>`}h+=`</section><button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
+  if(doneL.length)h+=`<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone?"Hide":"Show"}</span></button>${ui.showDone?`<div class="tt compact">${doneL.map(i=>tRow(i,today,null)).join("")}</div>`:""}`;
+  {const oc=openCount(),tile=(act,ic,label,sub,extra="")=>`<button class="qtile" data-act="${act}" ${extra}><span class="qi">${icon(ic)}</span><b>${label}</b><span class="xs muted">${sub}</span></button>`;h+=`<div class="qtiles">${tile("todo","prep","To finish",oc?oc+" open":"All caught up")}${tile("plsheet","play","Up next","Next chapters",'data-p="queue"')}${tile("hist","journey","History","All past work")}${tile("uploads","plus","Add photos","Work samples")}</div>`}
+h+=`</section><button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
   return h}
 /* ---------- lesson player ---------- */
 function findItem(id){return dayPlan(today).find(i=>i.id===id)}
@@ -2338,7 +2373,7 @@ const sheet=document.getElementById("sheet");
 function openSheet(o){navPush();ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true);updBack()}
 function renderSheet(top){if(!ui.sheet)return;{const ex=document.getElementById("sheetExtra");if(ex&&!ex.querySelector(".readbtn"))ex.innerHTML=`<button class="readbtn" data-act="readnow" aria-label="Read this page aloud">🔊</button>`}const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
   const m=ui.sheet.mode;sheet.className="sheet"+(m==="player"?" colored "+SC(ui.sheet.s):m==="chapter"||m==="ws"?" "+SC(unitBy(ui.sheet.k)?.subj||""):"");
-  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,todo:todoView,folder:folderView,evpre:evpreView,evdone:evdoneView,exam:examView,told:toldView,uploads:uploadsView,track:trackView,school:schoolView,hist:historyView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
+  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,todo:todoView,folder:folderView,iopts:ioptsView,evpre:evpreView,evdone:evdoneView,exam:examView,told:toldView,uploads:uploadsView,track:trackView,school:schoolView,hist:historyView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
   updBack();
   const kept=top?null:keepInputs(b);b.replaceChildren(el(h));if(kept)restoreInputs(b,kept);sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
@@ -2440,7 +2475,7 @@ function onAct(e){
    case "startexp":{addExp(b.dataset.title,b.dataset.topic);sfx("ok");toast("Added to Growing and ongoing");commit();break}
    case "status":{const p=S.progress[k]||{sessions:0};p.status=b.dataset.s;p.updated=today;S.progress[k]=p;sfx(b.dataset.s==="mastered"?"win":"tick");commit();break}
    case "logk":{const u=unitBy(k);if(u){logSession(u,"free");sfx("ok");toast("Logged for today");commit()}break}
-   case "tlcheck":{const date=b.dataset.date,it=dayPlan(date).find(i=>i.id===b.dataset.id);if(!it)return;if(it.kind==="event"&&evGate(it,date))return;
+   case "tlcheck":{const date=b.dataset.date,it=dayPlan(date).find(i=>i.id===b.dataset.id);if(!it)return;if(it.kind==="event"&&evGate(it,date))return;if(["lesson","warm","refresh"].includes(it.kind)&&!it.done){openSheet({mode:"iopts",date,id:it.id});return}
      if(it.kind==="prep"){const all=it.prep.every(p=>S.prep[p.id]);it.prep.forEach(p=>{if(all)delete S.prep[p.id];else S.prep[p.id]=today});sfx(all?"flip":"ok")}
      else if(it.kind==="exps"){S.exps.filter(x=>!x.closed&&x.start<=date).forEach(x=>{if(!x.checks.includes(today))x.checks.push(today)});sfx("ok")}
      else if(it.kind==="lesson"){if(it.done){toast("Already done today");return}if(date!==today){openSheet({mode:"chapter",k:it.u.k});return}return playItem(it)}
@@ -2486,7 +2521,7 @@ function onAct(e){
    case "wkst":{const id=b.dataset.id,to=b.dataset.to,key=k+"|"+id,W=WK(),w=W[key]||{};w.title=b.dataset.t||w.title;const untask=()=>{if(S.tasks[k])delete S.tasks[k][id]};
      if(to==="none"||(to==="undo"&&!w.started)){delete W[key];untask();sfx("flip")}
      else if(to==="undo"){w.st="started";delete w.done;delete w.doneAt;untask();W[key]=w;sfx("flip")}
-     else{w.st=to;w[to]=w[to]||today;w[to+"At"]=w[to+"At"]||Date.now();if(to==="done"){w.started=w.started||today;S.tasks[k]=S.tasks[k]||{};S.tasks[k][id]=w.done;sfx("win");toast("Finished · saved to your Work folder")}else{untask();sfx("ok");toast(to==="planned"?"Added to your pipeline · see To finish":"Marked started · finish it any time")}W[key]=w}
+     else{w.st=to;w[to]=w[to]||today;w[to+"At"]=w[to+"At"]||Date.now();if(to==="done"){w.started=w.started||today;S.tasks[k]=S.tasks[k]||{};S.tasks[k][id]=w.done;sfx("win");toast("Finished · saved to your Work folder")}else{untask();sfx("ok");toast(to==="planned"?"Added to your pipeline · see To finish":to==="skip"?"Okay, not doing this one":"Marked started · finish it any time")}W[key]=w}
      commit();break}
    case "qz":{S.quiz=S.quiz||{};const q=S.quiz[k+"|"+b.dataset.n]=S.quiz[k+"|"+b.dataset.n]||{};q[b.dataset.i]={q:b.dataset.q,a:b.dataset.a,r:+b.dataset.r,d:today};sfx(+b.dataset.r?"ok":"tap");commit();break}
    case "folder":{sfx("flip");openSheet({mode:"folder"});break}
@@ -2528,6 +2563,15 @@ function onAct(e){
    case "evf":{const F=ui.evf=ui.evf||{};["covered","hw","note"].forEach(k=>{const el=document.getElementById("evf-"+k);if(el)F[k]=el.value});F[b.dataset.k]=b.dataset.k==="went"?b.dataset.v==="1":b.dataset.v;sfx("tap");render();break}
    case "evsave":{evSave(!!b.dataset.quick);break}
    case "toplan":{const dl=document.getElementById("sheet");ui.sheet=null;if(dl?.open)dl.close();tab="week";render();scrollTo(0,0);setTimeout(()=>{const t=document.getElementById("dumpText");if(t){t.scrollIntoView({block:"center"});t.focus()}},200);break}
+   case "iopts":{sfx("flip");openSheet({mode:"iopts",date:b.dataset.date,id:b.dataset.id});break}
+   case "iofin":case "ioskip":case "iosnz":case "iodone":case "ioskipday":{const date=b.dataset.date,it=dayPlan(date).find(i=>i.id===b.dataset.id),act=b.dataset.act;if(!it)break;const key=date+"|"+it.id;
+     if(act==="iofin"){logSession(it.u,"plan");sfx("win");toast(`Part ${it.n} marked done`)}
+     else if(act==="ioskip"){logSession(it.u,"skipped");sfx("flip");toast(`Skipped Part ${it.n}`)}
+     else if(act==="iosnz"){S.snz={...(S.snz||{}),[key]:nowMin()+60};sfx("flip");toast("Okay, later today")}
+     else if(act==="iodone"){S.tl[key]=Date.now();sfx("ok")}
+     else{S.tl[key]="skip";sfx("flip");toast("Skipped "+(date===today?"today":"that day"))}
+     if(ui.sheet?.mode==="iopts")goBack();commit();break}
+   case "evmiss":{const date=b.dataset.date,id=b.dataset.id;S.evlog={...(S.evlog||{}),[date+"|"+id]:{went:false,at:Date.now()}};S.tl[date+"|e-"+id]="missed";sfx("flip");toast("Noted: didn't happen");commit();break}
    case "todo":{sfx("flip");openSheet({mode:"todo"});break}
    case "lt":{navPush();ui.lt=b.dataset.t;sfx("tap");render();break}
    case "invadd":{S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:b.dataset.n,cat:b.dataset.c||"other",from:"tap"}];sfx("ok");toast("Added to what we have");commit();break}
