@@ -74,10 +74,11 @@ revoke all on public.ai_usage, public.invites from authenticated;
 
 -- 7. A simple view for you (dashboard only): families, last active, Claude use this month.
 create or replace view public.admin_families with (security_invoker = true) as
-select u.email, u.created_at as joined, max(d.updated_at) as last_saved,
-       (select coalesce(sum(calls),0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())) as claude_calls_this_month,
-       (select coalesce(sum(in_tokens),0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())) as in_tokens_this_month,
-       (select coalesce(sum(out_tokens),0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())) as out_tokens_this_month
-from auth.users u left join public.docs d on d.owner = u.id
-group by u.id, u.email, u.created_at;
+select u.email,
+       u.created_at as joined,
+       (select max(d.updated_at) from public.docs d where d.owner = u.id) as last_saved,
+       (select coalesce(sum(a.calls), 0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())::date) as claude_calls_this_month,
+       (select coalesce(sum(a.in_tokens), 0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())::date) as in_tokens_this_month,
+       (select coalesce(sum(a.out_tokens), 0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())::date) as out_tokens_this_month
+from auth.users u;
 revoke all on public.admin_families from anon, authenticated;
