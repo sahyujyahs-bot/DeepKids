@@ -5,6 +5,6 @@ await p.goto('file://'+SP+'/app_prev.html');await p.waitForTimeout(800);await p.
 await p.fill('#obName','Liri');await p.click('[data-age="8"]');await p.click('[data-ob="next"]');await p.click('[data-b="ncert"]');for(let i=0;i<4;i++)await p.click('[data-ob="next"]');await p.waitForTimeout(400);
 const k=await p.evaluate(()=>DATA.rconcepts.find(c=>c.id==="plants").chapters.find(k=>k.startsWith("ncert|")));
 await p.evaluate(k=>openSheet({mode:"chapter",k}),k);await p.waitForTimeout(250);await p.click('#sheet [data-act="ctab"][data-t="ws"]');await p.waitForTimeout(200);
-console.log(await p.evaluate(()=>[...document.querySelectorAll('#sheet .pws')].slice(0,3).map(x=>x.innerText.replace(/\s+/g,' ')).join('\n')));
+console.log(await p.evaluate(()=>[...document.querySelectorAll('#sheet section')].filter(s=>/best from elsewhere/i.test(s.innerText)).map(s=>s.innerText.replace(/\s+/g,' ').slice(0,700)).join('')));console.log(await p.evaluate(()=>[...document.querySelectorAll('#sheet .pws')].slice(0,1).map(x=>x.innerText.replace(/\s+/g,' ')).join('\n')));
 await p.locator('#sheet [data-act="wsview"]').first().click();await p.waitForTimeout(500);console.log('preview:',await p.textContent('#sheetTitle'));
 await p.screenshot({path:SP+'/app_book.png'});console.log('errors',errs);await b.close()})();

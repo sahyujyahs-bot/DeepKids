@@ -1,0 +1,4 @@
+# book styles for make-cards, sudoku and odd-one-out
+rep('''.wcert{border:6px double #2B2340;''','''.wmakes{display:grid;grid-template-columns:1fr 1fr;gap:8px}.wmake{border:2px solid #e6dfd2;border-radius:12px;padding:6px 10px;font-size:13px;break-inside:avoid}.wmakeh{display:flex;justify-content:space-between;gap:6px}.wmakeh b{font-size:14.5px}.wmakeh span{font-size:11.5px;color:#6b6380;white-space:nowrap}.wmake ol{margin:4px 0;padding-left:16px}.wmakeq{font-size:12.5px}
+   .wsudo{display:flex;gap:16px;align-items:center}.wsudo table{border-collapse:collapse;border:3px solid #2B2340}.wsudo td{width:54px;height:54px;border:1px solid #999;text-align:center;font-size:30px}.wsudo td.bb{border-bottom:3px solid #2B2340}.wsudo td.br{border-right:3px solid #2B2340}
+   .wodd li{margin:6px 0}.woddrow{display:flex;gap:10px;flex-wrap:wrap}.woddrow span{border:1.5px dashed #999;border-radius:10px;padding:3px 10px;font-size:14px}.wcert{border:6px double #2B2340;''')

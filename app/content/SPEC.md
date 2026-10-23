@@ -141,7 +141,9 @@ The Combined track aims to be the deepest thing a child aged 6–10 can meet. No
    - **Shared or owned?** Commons, seeds saved and swapped, sacred groves, water, air. What has a price, and what is precious but has none? Who decides, and who benefits?
    - **Is more, faster or bigger always better?** Limits, enough, balance, cycles.
    Always present the honest evidence and more than one view. The child reasons; we never hand them a conclusion.
-7. **Accuracy.** Real people, dates and findings only. Mark what is settled, debated and unknown. No fringe claims presented as true.
+7. **Question the evidence too.** Evidence is made by people. Ask who collected it, who paid for it, what was measured and what was left out, whose knowledge was never written down, and who was not allowed in the room. A finding can be accurate and still tell only part of the story. Children should learn to ask "Says who? How do they know? Who's missing?" of every claim, including ours.
+8. **Credit: we take the side of the women and the underdogs.** When it is disputed who deserves credit for a discovery or an invention, we lead with the woman's or the underdog's case, give her or them the benefit of the doubt, and say plainly that the record was often kept by the powerful (who owned the notebooks, who was published, who was allowed to join). Name the people the usual story leaves out: the assistant, the wife, the technician, the farmer, the colonised scholar, the community whose knowledge was taken. We never state as fact something the evidence clearly contradicts; the true stories are strong enough, and a child who finds one bent story will stop trusting the rest.
+9. **Accuracy.** Real people, dates and findings only. Mark what is settled, debated and unknown. No fringe claims presented as true.
 
 ## Stories
 
