@@ -34,6 +34,8 @@ rep('id="paceSec">${dayTimesCard()}${subjCard()}','id="paceSec">${dayTimesCard()
 rep('''   case "tqt":{''','''   case "plv":case "pdep":{const s=b.dataset.s,f=a==="plv"?"lvl":"depth";S.prof={...(S.prof||{}),[s]:{...((S.prof||{})[s]||{}),[f]:b.dataset.v,...(a==="plv"?{why:"set by you",at:today}:{})}};sfx("tick");save();render();break}
    case "tqt":{''')
 rep('h=H("Draw it",b.inst||"")','h=H(b.title||"Draw it",b.inst||"")')
+# topic sheets name the topic and level, not a book
+rep('''<div class="wtag">${tag} · ${esc(chT(u))}</div>''','''<div class="wtag">${TWN()[(ws.id||"").split("|")[0]]?`DeepKids · ${esc(TWN()[ws.id.split("|")[0]].title)} · ${PLN[ws.lvl||"core"]}`:`${tag} · ${esc(chT(u))}`}</div>''')
 open(T,'w').write(head+'<script>'+logic+s+'</script>\n')
 d=open('/home/user/DeepKids/app/build/data.json').read();out=open(T).read().replace('/*DATA*/',d)
 open('/home/user/DeepKids/app/index.html','w').write(out);open('app_prev.html','w').write('<meta charset="utf-8">'+out)
