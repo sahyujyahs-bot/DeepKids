@@ -514,6 +514,10 @@
 
 
 
+
+
+
+
 const DATA = window.DK_DATA;
 const SUBJ = {...DATA.subjects,dks:"DeepKids Science"}, SUBJ_KEYS = Object.keys(SUBJ);
 DATA.prepgen.guide.dks=DATA.prepgen.guide.dks||"DeepKids Science starts from a big question. Read the topic story yourself first, then let your child wonder out loud before you explain anything. Their questions matter more than the answers.";
@@ -830,18 +834,18 @@ function quizTicked(u,n){const tk=(S.steps||{})[u.k+"|"+n]||[],d=pkDay(u,n);retu
 function workItems(){const out=[],W=WK(),refK=r=>{const x=r.slice(r.indexOf(":")+1);return x.slice(0,x.lastIndexOf("|"))};
   const seenK=new Set([...S.log.map(l=>l.key),...Object.keys(S.progress||{}).filter(k=>(S.progress[k].sessions||0)>0),...Object.keys(W).map(k=>k.slice(0,k.lastIndexOf("|"))),...Object.values(WQ()).flat().map(refK)]);
   const add=(ty,u,id,title,state,o)=>out.push({ref:ty+":"+u.k+"|"+id,ty,u,id,title,state,...o});
-  [...seenK].map(unitByK).filter(Boolean).forEach(u=>{const P=u.c?.p,dn=done(u.k);if(!P)return;
-    (P.worksheets||[]).forEach(w=>{const k2=u.k+"#"+w.id,w0=W[u.k+"|"+w.id];if(taskDone(k2,"ws")||["skip","done"].includes(w0?.st)||stepTicked(u,w.id)||((S.steps||{})[u.k+"|"+w.day]||[]).includes("ws|Worksheet: "+w.title))return;
+  [...seenK].map(unitByK).filter(Boolean).forEach(u=>{const P=u.c?.p;if(!P)return;const real=done(u.k),dn=rank[coverage(u)]>=2?P.days.length:real,from=d=>d<=real?`From Part ${d}, which you've done`:"From a chapter marked done";
+    (P.worksheets||[]).forEach(w=>{const k2=u.k+"#"+w.id,w0=W[u.k+"|"+w.id];if(taskDone(k2,"ws")||["skip","done"].includes(w0?.st))return;
       const c=wsCount(k2,w.sections),open=`data-act="ws" data-k="${u.k}" data-w="${esc(w.id)}"`;
       if(c.ans>0)add("ws",u,w.id,w.title,"going",{sub:`${c.ans} of ${c.tot} answered`,open,go:"Continue"});
-      else if((w.day||99)<=dn||w0?.st==="planned")add("ws",u,w.id,w.title,"new",{sub:(w.day||99)<=dn?`From Part ${w.day}, which you've done`:"Added by you",open,go:"Start"})});
+      else if((w.day||99)<=dn||w0?.st==="planned")add("ws",u,w.id,w.title,"new",{sub:(w.day||99)<=dn?from(w.day):"Added by you",open,go:"Start"})});
     [...(P.experiments||[]),...(P.activities||[])].forEach(e=>{const w0=W[u.k+"|"+e.id],R=refParts(u,e.id),ty=wType(u,e.id),open=`data-act="chapter" data-k="${u.k}" data-t="lab"`;if(taskDone(u.k,e.id)||["done","skip"].includes(w0?.st))return;
       const a=R[0]||99,z=R[R.length-1]||99;
       if(w0?.st==="started")add(ty,u,e.id,e.title,"going",{sub:`Started ${fmt(w0.started)}`,open,go:"Open"});
       else if(ty==="proj"&&a<=dn)add(ty,u,e.id,e.title,"going",{sub:dn>=z?"All its parts are done · mark it finished":`Parts ${a}–${z} · next check-in Part ${R.find(r=>r>dn)}`,open,go:"Open"});
       else if(stepTicked(u,e.id))return;
-      else if(a<=dn||w0?.st==="planned")add(ty,u,e.id,e.title,"new",{sub:a<=dn?`From Part ${a}, which you've done`:"Added by you",open,go:"Open"})});
-    for(let n=1;n<=Math.min(dn,P.days.length);n++){const Q=quizQ(u,n);if(!Q.length||quizTicked(u,n))continue;const r=S.quiz?.[u.k+"|"+n]||{},a=Object.keys(r).length,w0=W[u.k+"|q"+n];if(a>=Q.length||["skip","done"].includes(w0?.st))continue;
+      else if(a<=dn||w0?.st==="planned")add(ty,u,e.id,e.title,"new",{sub:a<=dn?from(a):"Added by you",open,go:"Open"})});
+    for(let n=1;n<=Math.min(dn,P.days.length);n++){const Q=quizQ(u,n);if(!Q.length)continue;const r=S.quiz?.[u.k+"|"+n]||{},a=Object.keys(r).length,w0=W[u.k+"|q"+n];if(a>=Q.length||["skip","done"].includes(w0?.st))continue;
       add("qz",u,"q"+n,`Quiz · Part ${n}`,a?"going":"new",{sub:a?`${a} of ${Q.length} asked`:`${Q.length} questions`,open:`data-act="qzs" data-k="${u.k}" data-n="${n}"`,go:a?"Continue":"Start"})}});
   Object.entries(W).forEach(([key,w])=>{if(!["started","planned"].includes(w.st))return;const j=key.lastIndexOf("|"),u=unitByK(key.slice(0,j)),id=key.slice(j+1);if(!u||/^q\d+$/.test(id)||out.some(x=>x.u.k===u.k&&x.id===id))return;
     add(wType(u,id),u,id,w.title||wkTitle(u,id,""),w.st==="started"?"going":"new",{sub:w.st==="started"?`Started ${fmt(w.started)}`:"Added by you",open:`data-act="chapter" data-k="${u.k}" data-t="lab"`,go:"Open"})});

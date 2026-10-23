@@ -4,3 +4,9 @@ rep('''["work","Work","Things to finish, finished work with answers, and photos"
 rep('''   case "tqt":{''','''   case "subtog":{const s=b.dataset.s,on=S.subjects.includes(s);if(on&&S.subjects.length<2){sfx("no");toast("Keep at least one subject");break}S.subjects=on?S.subjects.filter(x=>x!==s):SUBJ_KEYS.filter(x=>x===s||S.subjects.includes(x));if(!on){S.levels={...S.levels,[s]:S.levels?.[s]||S.levels?.sci||1}}sfx(on?"flip":"ok");commit();toast(on?`${SUBJ[s]} left out. Its progress is kept.`:`${SUBJ[s]} added. It's in Today and the Queue now.`);break}
    case "pacego":{navPush();ui.seg={...(ui.seg||{}),week:"tell"};sfx("flip");render();setTimeout(()=>document.getElementById("paceSec")?.scrollIntoView({behavior:"smooth",block:"start"}),60);break}
    case "tqt":{''')
+# Pending: a chapter marked done leaves all its unfinished worksheets and quizzes pending; ticking a worksheet or quiz step isn't doing it
+rep('''[...seenK].map(unitByK).filter(Boolean).forEach(u=>{const P=u.c?.p,dn=done(u.k);if(!P)return;''','''[...seenK].map(unitByK).filter(Boolean).forEach(u=>{const P=u.c?.p;if(!P)return;const real=done(u.k),dn=rank[coverage(u)]>=2?P.days.length:real,from=d=>d<=real?`From Part ${d}, which you've done`:"From a chapter marked done";''')
+rep('''if(taskDone(k2,"ws")||["skip","done"].includes(w0?.st)||stepTicked(u,w.id)||((S.steps||{})[u.k+"|"+w.day]||[]).includes("ws|Worksheet: "+w.title))return;''','''if(taskDone(k2,"ws")||["skip","done"].includes(w0?.st))return;''')
+rep('''sub:(w.day||99)<=dn?`From Part ${w.day}, which you've done`:"Added by you"''','''sub:(w.day||99)<=dn?from(w.day):"Added by you"''')
+rep('''sub:a<=dn?`From Part ${a}, which you've done`:"Added by you"''','''sub:a<=dn?from(a):"Added by you"''')
+rep('''const Q=quizQ(u,n);if(!Q.length||quizTicked(u,n))continue;''','''const Q=quizQ(u,n);if(!Q.length)continue;''')
