@@ -1,0 +1,723 @@
+{
+ "key": "combined|sci|3|living-and-non-living-signs-of-life",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "living-and-non-living-signs-of-life",
+ "title": "The seven signs of life, and the cases that break them",
+ "source": "DeepKids Combined. Covers Cambridge Stage 3 Biology (living and non-living; growth and nutrition; movement and reproduction) and NIOS Level A Lesson 4 'The Environment' (living and non-living parts of our surroundings). No textbook needed.",
+ "summary": "Your child learns the seven signs scientists use to decide whether something is alive, then puts them on trial against tricky cases: fire, crystals, robots, seeds and viruses. They find out that no single sign is enough, that the line between alive and not-alive is still argued about, and that living and non-living things are woven together into one environment.",
+ "builds_on": "Class 1: alive, once alive and never alive; seeds sleep; yeast is tiny life. Later: microorganisms (Class 5), how life began, and the web of life.",
+ "goals": [
+  "By the end your child can name and explain the seven signs of life (moving, breathing, sensing, growing, reproducing, getting rid of waste, feeding).",
+  "By the end your child can test each sign against a tricky case and show why one sign alone isn't enough.",
+  "By the end your child can explain that living things are made of cells and pass on instructions to their young.",
+  "By the end your child can sort their surroundings into living and non-living parts and show how they depend on each other.",
+  "By the end your child can explain why scientists still disagree about whether viruses are alive."
+ ],
+ "words": [
+  [
+   "respiration",
+   "how living things get energy from food, usually using oxygen"
+  ],
+  [
+   "sensitivity",
+   "noticing and responding to the world"
+  ],
+  [
+   "reproduction",
+   "making young ones"
+  ],
+  [
+   "excretion",
+   "getting rid of waste"
+  ],
+  [
+   "nutrition",
+   "getting food"
+  ],
+  [
+   "cell",
+   "the tiny building block every living thing is made of"
+  ],
+  [
+   "environment",
+   "everything around us, living and non-living"
+  ],
+  [
+   "virus",
+   "a tiny thing that can only copy itself inside a living cell"
+  ]
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Mrs Gren and the seven signs",
+   "goal": "Learn the seven signs of life.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 6,
+     "do": "Ask: 'What's alive, once alive and never alive in this room?' Then: 'How do you know something is alive?' Write every idea."
+    },
+    {
+     "kind": "do",
+     "title": "Mrs Gren",
+     "mins": 18,
+     "do": "Teach the seven signs with the memory name MRS GREN: Movement, Respiration (breathing to get energy), Sensitivity, Growth, Reproduction, Excretion (getting rid of waste), Nutrition (food). For each, your child acts it out and finds it in a human, a dog and a tulsi plant. Tricky ones: plants move slowly (leaves turn to light), plants 'breathe' through tiny holes in their leaves, plants get rid of waste gases and drop old leaves. Fill in Worksheet ws1.",
+     "ref": "ws1"
+    },
+    {
+     "kind": "read",
+     "title": "Story: Is Fire Alive?",
+     "mins": 16,
+     "do": "Read the story aloud (Story tab). Ask the questions. Don't settle the answer; that's this week's job."
+    }
+   ],
+   "need": [
+    "worksheet ws1",
+    "a pot plant"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Put the signs on trial",
+   "goal": "Test each sign on tricky cases.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Guilty or not?",
+     "mins": 5,
+     "do": "Say: 'Today we're judges. Each sign of life is on trial. Is it good enough on its own to prove something is alive?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Crystal garden",
+     "mins": 15,
+     "do": "Start Experiment e1: grow salt or sugar crystals on a string. Crystals grow, but are they alive?",
+     "ref": "e1"
+    },
+    {
+     "kind": "think",
+     "title": "The trials",
+     "mins": 20,
+     "do": "Do Worksheet ws2: for each sign, find something non-living that shows it. Moving: a car, a river. Growing: a crystal, a snowball, a city. Feeding: fire 'eats' wood. Breathing: fire needs oxygen. Making more: fire's sparks start new fires. Waste: fire makes smoke and ash. Sensing: an automatic door senses you. Ask: 'So is any one sign enough?' (No.)",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "salt or sugar",
+    "a glass jar",
+    "hot water (a grown-up pours)",
+    "string and a pencil",
+    "worksheet ws2"
+   ],
+   "prep": [
+    {
+     "task": "Boil water for the crystal solution",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Cells: what living things are made of",
+   "goal": "See cells and learn the deeper test.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Building blocks",
+     "mins": 5,
+     "do": "Show a brick wall or a Lego model. Ask: 'What is it made of?' (Small blocks.) 'What do you think living things are made of?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Onion skin cells",
+     "mins": 20,
+     "do": "Do Experiment e2: peel the thin skin from inside an onion layer and look at it with a strong hand lens or a phone camera zoomed in through a magnifying glass. If you have a toy microscope, even better.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "The deeper test",
+     "mins": 15,
+     "do": "Say: 'Every living thing we know is made of cells, and when it makes young ones, it passes on a set of instructions (genes) inside those cells, so a mango seed grows into a mango tree, not a cat.' Ask: 'Does a fire pass on instructions? Does a crystal?' Then talk about voice v1, van Leeuwenhoek and his tiny animals.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "an onion",
+    "a strong hand lens, or a phone and a magnifying glass, or a toy microscope",
+    "a drop of water, a glass slide or clear plastic"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Growth and nutrition",
+   "goal": "Explore how living things grow and feed.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Crystal check",
+     "mins": 5,
+     "do": "Look at the crystal string. Has it grown? Ask: 'Does it grow the way a plant grows, from inside, using food? Or does it just stick more salt on the outside?' (Crystals grow only by adding on the outside; living things grow from within, by turning food into themselves.)"
+    },
+    {
+     "kind": "do",
+     "title": "What do they eat?",
+     "mins": 20,
+     "do": "Do Activity a1: a food survey of living things around the house: what does a plant, a cat, a lizard, a mosquito, a mushroom and a human eat? Sort them: makes its own food (plants), eats plants, eats animals, eats dead things (mushrooms, worms).",
+     "ref": "a1"
+    },
+    {
+     "kind": "game",
+     "title": "Alive Detective card game",
+     "mins": 15,
+     "do": "Play the card game (g1): each card is a mystery thing with clues; players decide alive or not, and why.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "the crystal string",
+    "paper",
+    "the printed cards"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Viruses: the great argument",
+   "goal": "Meet the hardest case and the scientists who disagree.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "What is a virus?",
+     "mins": 10,
+     "do": "Explain: 'A virus is far smaller than a cell. On its own it does nothing: it doesn't eat, breathe or grow. But when it gets inside a living cell, it takes over the cell's machinery and makes thousands of copies of itself. Colds and flu are caused by viruses.' Ask: 'Alive or not?' Keep Worksheet ws3 ready for the debate.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "think",
+     "title": "The debate",
+     "mins": 20,
+     "do": "Talk about voice v2, the giant viruses. Then run a real debate: your child argues 'alive' for 3 minutes, then 'not alive' for 3 minutes, then decides. Use Worksheet ws3. Write both sides on Worksheet ws3.",
+     "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "NASA's definition",
+     "mins": 10,
+     "do": "Talk about voice v3: NASA needed a definition of life to know what to look for on Mars. Read it slowly: 'a self-sustaining chemical system capable of Darwinian evolution', and explain: something that keeps itself going using energy and materials around it, and whose young can change slowly over many generations. Ask: 'Does fire pass that test? Does a virus?'",
+     "ref": "v3"
+    }
+   ],
+   "need": [
+    "worksheet ws3"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "One environment, living and non-living",
+   "goal": "See how living and non-living things depend on each other.",
+   "steps": [
+    {
+     "kind": "outdoor",
+     "title": "Environment map",
+     "mins": 22,
+     "do": "Go to a park, a garden or a lane. Your child draws a map of one small patch (2 big steps square). Label everything: living (grass, ants, a tree, a bird) and non-living (soil, stones, water, air, sunlight, a wall). Then draw arrows: what does each living thing need from the non-living things? (Plants need sunlight, water, air, soil; ants need soil for their home.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Could they live apart?",
+     "mins": 10,
+     "do": "Ask: 'Could a plant live with no non-living things? Could the soil be the same with no living things?' (Soil is partly made by worms, fungi and dead leaves!) Say: 'Living and non-living are woven together. Scientists call this whole thing the environment.'"
+    },
+    {
+     "kind": "review",
+     "title": "The atoms that travel",
+     "mins": 8,
+     "do": "Say: 'The water in your body was once rain, and before that sea, and maybe once inside a dinosaur. The carbon in you was once in the air, then in a plant, then in your food.' Ask: 'So where does non-living stop and living begin?'"
+    }
+   ],
+   "need": [
+    "paper, pencil, clipboard",
+    "string to mark a square"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Verdict and teach it back",
+   "goal": "Decide the case of the fire, and teach the signs.",
+   "steps": [
+    {
+     "kind": "think",
+     "title": "The verdict",
+     "mins": 12,
+     "do": "Hold a mock court: 'The case of the fire.' Your child is the judge and gives a verdict using everything: the seven signs, cells, passing on instructions, NASA's definition. Accept any verdict with good reasons."
+    },
+    {
+     "kind": "do",
+     "title": "Project: museum of tricky cases",
+     "mins": 16,
+     "do": "Finish the project: a poster or a tray museum of five tricky cases (fire, crystal, seed, robot, virus picture) with each one's 'signs it has' and 'signs it lacks'."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 12,
+     "do": "Your child teaches MRS GREN to the family and explains why fire isn't alive (or why they think it is!). Ask the check questions."
+    }
+   ],
+   "need": [
+    "chart paper",
+    "the crystal string",
+    "an onion skin",
+    "a picture of a robot"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Mrs Gren",
+   "day": 1,
+   "sections": [
+    [
+     "A. Fill in",
+     [
+      {
+       "t": "table",
+       "p": "Write how each shows the sign.",
+       "cols": [
+        "Sign",
+        "Human",
+        "Dog",
+        "Tulsi plant"
+       ],
+       "rows": 7,
+       "prefill": [
+        "Movement",
+        "Respiration",
+        "Sensitivity",
+        "Growth",
+        "Reproduction",
+        "Excretion",
+        "Nutrition"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Choose",
+     [
+      {
+       "t": "mcq",
+       "p": "How does a plant 'move'?",
+       "opts": [
+        "it walks",
+        "its leaves and stems turn slowly towards light",
+        "it doesn't move at all"
+       ],
+       "a": 1
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Signs on trial",
+   "day": 2,
+   "sections": [
+    [
+     "A. Find a non-living thing that shows each sign",
+     [
+      {
+       "t": "table",
+       "p": "Each sign alone can fool you.",
+       "cols": [
+        "Sign",
+        "A non-living thing that shows it"
+       ],
+       "rows": 7,
+       "prefill": [
+        "Moves",
+        "Uses oxygen",
+        "Senses",
+        "Grows",
+        "Makes more of itself",
+        "Makes waste",
+        "Feeds"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Conclude",
+     [
+      {
+       "t": "write",
+       "p": "So how many signs does something need before you'd say it's alive? Why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "The virus debate",
+   "day": 5,
+   "sections": [
+    [
+     "A. Both sides",
+     [
+      {
+       "t": "write",
+       "p": "Reasons a virus is alive:",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Reasons a virus is not alive:",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "My verdict, and the evidence that would change my mind:",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Crystal garden",
+   "day": 2,
+   "question": "Crystals grow. Does that make them alive?",
+   "need": [
+    "salt or sugar",
+    "a jar",
+    "hot water",
+    "string tied to a pencil"
+   ],
+   "steps": [
+    "A grown-up pours hot water into the jar.",
+    "Stir in salt (or sugar) a spoon at a time until no more dissolves.",
+    "Hang the string from a pencil laid across the jar so it dips into the water.",
+    "Leave it somewhere still for several days and check daily."
+   ],
+   "predict": "Ask: 'Will anything grow? Will it be alive?'",
+   "observe": "Crystals forming on the string and getting bigger.",
+   "why": "As water evaporates, the salt can't stay dissolved and its particles line up into crystals on the string. The crystal grows by adding on the outside. Living things grow from inside by turning food into new cells, and they pass on instructions; crystals don't.",
+   "safety": "A grown-up handles the hot water.",
+   "time": "15 min + several days"
+  },
+  {
+   "id": "e2",
+   "title": "Onion skin cells",
+   "day": 3,
+   "question": "What are living things made of?",
+   "need": [
+    "an onion",
+    "a strong magnifier, phone camera or toy microscope",
+    "a drop of water",
+    "a piece of clear plastic"
+   ],
+   "steps": [
+    "Break an onion layer and peel off the very thin, see-through skin on the inside.",
+    "Lay it flat on clear plastic with a drop of water.",
+    "Look through the strongest magnifier you have, or zoom with a phone camera through a hand lens.",
+    "Draw what you see."
+   ],
+   "predict": "Ask: 'What will the skin look like up close?'",
+   "observe": "A pattern of tiny boxes, like bricks.",
+   "why": "Those boxes are cells, the building blocks of every living thing. An onion skin is one layer of cells thick, which is why you can see them. You are made of about 30 trillion cells!",
+   "safety": "",
+   "time": "20 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Who eats what?",
+   "day": 4,
+   "mins": 20,
+   "need": [
+    "paper",
+    "pens"
+   ],
+   "steps": [
+    "List six living things: a plant, a cat, a lizard, a mosquito, a mushroom, a human.",
+    "For each, find out or guess what it eats.",
+    "Sort them: makes its own food, eats plants, eats animals, eats both, eats dead things.",
+    "Draw arrows from food to eater."
+   ],
+   "outcome": "A food chart showing that every living thing needs nutrition, but gets it differently."
+  }
+ ],
+ "project": {
+  "title": "Museum of tricky cases",
+  "days": [
+   7
+  ],
+  "steps": [
+   "Choose five tricky cases: fire, a salt crystal, a seed, a robot, a virus (draw it).",
+   "For each, write the signs of life it has and the ones it lacks.",
+   "Add your verdict: alive, not alive, or 'scientists argue'.",
+   "Present it to the family and take questions."
+  ],
+  "outcome": "A poster or tray museum and a confident explanation."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Alive Detective",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors"
+  ],
+  "rules": [
+   "Shuffle the mystery cards and put them face down.",
+   "One player reads a card's clues aloud.",
+   "Everyone writes: alive, not alive, or argued.",
+   "Turn it over. Right with a good reason: 2 points. The 'argued' cards score for any well-argued answer.",
+   "Most points wins."
+  ],
+  "cards": [
+   {
+    "front": "I grow, I need air, I eat wood, I make babies from sparks.",
+    "back": "fire: not alive (no cells, no inherited instructions)"
+   },
+   {
+    "front": "I grow bigger and bigger in salty water, in beautiful shapes.",
+    "back": "a crystal: not alive"
+   },
+   {
+    "front": "I sleep for years in the dark and wake with water.",
+    "back": "a seed: alive"
+   },
+   {
+    "front": "I am made of one cell. I swim in pond water.",
+    "back": "an amoeba: alive"
+   },
+   {
+    "front": "I walk, talk and sense you. I run on batteries.",
+    "back": "a robot: not alive (argued for the future!)"
+   },
+   {
+    "front": "I do nothing on my own, but inside a cell I make thousands of copies of me.",
+    "back": "a virus: argued"
+   },
+   {
+    "front": "I have no mouth but I eat dead leaves through threads in the soil.",
+    "back": "a fungus: alive"
+   },
+   {
+    "front": "I flow, I move rocks, I carve valleys.",
+    "back": "a river: not alive (but full of life)"
+   },
+   {
+    "front": "I was a tree. Now I'm a table.",
+    "back": "once alive"
+   },
+   {
+    "front": "I make my own food from sunlight and can live for 1,000 years.",
+    "back": "a tree: alive"
+   },
+   {
+    "front": "I am a tiny animal that can dry up, survive space, and wake again.",
+    "back": "a tardigrade: alive"
+   },
+   {
+    "front": "I am a cloud. I grow, move, and make little clouds.",
+    "back": "not alive"
+   },
+   {
+    "front": "I live inside your gut and help you digest food.",
+    "back": "gut bacteria: alive"
+   },
+   {
+    "front": "I am a computer program that copies itself and changes.",
+    "back": "argued (not chemical, says NASA)"
+   }
+  ]
+ },
+ "big": [
+  "Is fire alive? What about a virus?",
+  "If we found something on Mars, how would we know if it was alive?",
+  "Where does non-living end and living begin?",
+  "Could a robot ever be alive?",
+  "Is a river alive? Some countries say a river can have rights."
+ ],
+ "challenge": [
+  {
+   "q": "Textbooks often give a neat list of signs of life, as if the question were settled. Is it?",
+   "hint": "No. Fire shows many signs and isn't alive; a sleeping seed shows almost none and is. Scientists still argue about viruses, and NASA's definition is a 'working' one. A list is a tool, not the truth."
+  },
+  {
+   "q": "'Living things move, non-living things don't.' True?",
+   "hint": "Rivers, wind and cars move. Trees hardly do. Movement alone tells you nothing."
+  },
+  {
+   "q": "We say humans are the most important living things. Says who?",
+   "hint": "Without bacteria, fungi and plants, there would be no soil, no oxygen and no food. Without humans, the rest of life would carry on. Who depends on whom?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Bacteria in your gut",
+   "view": "About as many bacterial cells live in and on you as human cells. Many of them help you digest food and fight illness. Ask: are you one living thing, or a crowd?"
+  },
+  {
+   "who": "The Ganga, and the people who call it Mother",
+   "view": "For many people the Ganga is a living goddess. In 2017 an Indian court briefly declared the Ganga and Yamuna 'living entities' with legal rights (a higher court later set this aside). Ask: what changes if we treat a river as alive?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Antonie van Leeuwenhoek (1632–1723), the Netherlands",
+   "idea": "A cloth-seller with no university degree, he ground his own tiny lenses and was the first to see bacteria and other single-celled life, which he called 'animalcules', in pond water and in scrapings from his teeth.",
+   "then": "The Royal Society in London doubted him at first, then sent observers who confirmed what he saw.",
+   "now": "He is called the father of microbiology. Microbes are the most common living things on Earth.",
+   "status": "accepted",
+   "ask": "Why might experts doubt someone without a degree? What finally convinced them?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Didier Raoult and colleagues (2003), France, and their critics",
+   "idea": "They described the mimivirus, a 'giant virus' so big it was first mistaken for a bacterium, with far more genes than any virus known, including genes for jobs viruses aren't supposed to do. Some of them argued that giant viruses deserve their own branch on the tree of life.",
+   "then": "Many virologists disagreed: giant or not, these viruses still can't copy themselves without a host cell.",
+   "now": "There's no agreement. Some scientists say viruses are alive only inside a cell; others say they're not alive at all; others say the question is the wrong one.",
+   "status": "debated",
+   "ask": "Should the word 'alive' have a sharp edge, or can some things be 'partly alive'?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "NASA's Exobiology working group (1990s)",
+   "idea": "To know what to search for on other planets, a NASA group wrote a 'working definition' of life: a self-sustaining chemical system capable of Darwinian evolution.",
+   "then": "It became widely quoted. The scientist often credited with it, Gerald Joyce, has said it wasn't his alone and that nobody claimed it was the final answer.",
+   "now": "It's still used as a useful tool, and still criticised. There is no single agreed definition of life.",
+   "status": "debated",
+   "ask": "If you were building a robot to search for life on Mars, what would you tell it to look for?",
+   "day": 5
+  }
+ ],
+ "story": {
+  "title": "Is Fire Alive?",
+  "text": [
+   "On the night before Holi, the whole lane gathered around the bonfire. The men had piled up wood and dry branches and cow-dung cakes all week, and when the priest lit it, the fire leapt up so fast and so high that the children screamed and stepped back.",
+   "Zoya stood next to her Aaji, holding her hand, and watched the flames. Aaji had been a botanist before she retired, and she still couldn't walk past a plant without telling you its name.",
+   "\"Aaji,\" said Zoya, \"is fire alive?\"",
+   "Aaji smiled the smile she kept for very good questions. \"What do you think?\"",
+   "Zoya had learned about the signs of life at school, Mrs Gren and her seven signs. She counted on her fingers.",
+   "\"It moves,\" she said. The flames were dancing. \"It breathes, because if you cover it, it goes out; it needs air. It eats, because it eats the wood. It grows, look how big it's got. It makes waste: smoke and ash. And it has babies!\" A spark had flown out and landed on a heap of dry leaves, and a small new fire was starting. A man stamped it out. \"That was its baby,\" said Zoya. \"Six signs. It even senses things: when the wind blows, it leans away.\"",
+   "\"Seven signs,\" said Aaji. \"So it's alive?\"",
+   "Zoya frowned. It didn't feel right. The fire didn't feel like the neem tree, or the goat tied by the temple, or the baby asleep on her aunty's shoulder.",
+   "\"Then it's alive,\" she said, slowly. \"But it isn't.\"",
+   "Aaji laughed. \"Good,\" she said. \"Now you're doing science. When the list says yes and your gut says no, one of them is wrong. Let's find out which.\"",
+   "They walked a little way from the heat, to the old mango tree at the end of the lane. Aaji picked up a fallen mango from the ground and broke it open, and showed Zoya the big seed in the middle.",
+   "\"When this seed grows,\" Aaji said, \"what will it become?\"",
+   "\"A mango tree.\"",
+   "\"Not a coconut tree? Not a goat?\"",
+   "Zoya giggled. \"No! A mango tree.\"",
+   "\"Why?\"",
+   "Zoya thought. \"Because it came from a mango tree. It's got mango-ness inside it.\"",
+   "\"Exactly,\" said Aaji. \"Inside every seed, inside every living cell, there's a set of instructions, passed down from parent to child, all the way back. Mango trees make mango trees. And very, very slowly, over thousands of generations, the instructions change a little, so that living things can become new kinds of living things. That's what life does. It remembers, and it changes.\"",
+   "She pointed back at the bonfire. \"Now, the fire's baby. That little fire on the leaves. Was it a copy of its mother?\"",
+   "Zoya thought about it. The little fire hadn't looked like the big fire at all. It was just fire, eating whatever it landed on. If it had landed on paper, it would have been a paper fire; on wood, a wood fire. It didn't have instructions. It didn't remember anything. Nothing was passed down.",
+   "\"No,\" she said. \"It doesn't remember. Every fire just starts again from nothing.\"",
+   "\"So,\" said Aaji, \"is fire alive?\"",
+   "Zoya looked at the flames for a long time. \"It's not alive,\" she said finally. \"It just behaves a bit like it. It's like... a copycat.\"",
+   "Aaji squeezed her hand. \"Some scientists would agree with you. And some would say the line between alive and not-alive is blurrier than we think. There are viruses that sit right on the line, and scientists still argue about them. Nobody has the final answer.\"",
+   "Zoya liked that. Nobody had the final answer. That meant there was still something left for her to find out.",
+   "The fire was burning lower now, and the people were singing. Zoya held the mango seed in her hand, warm from the bonfire, carrying its long, long memory of mango trees, all the way back to the very first one."
+  ],
+  "epiphany": "The seven signs of life are a useful checklist, but fire passes most of them and isn't alive; the deeper mark of life is passing on inherited instructions (genes) that can slowly change over generations (evolution), which fire lacks. The turn is Zoya realising the little fire 'doesn't remember'. Underneath: a grandmother scientist, trusting both evidence and intuition, and the honest message that the question is still open.",
+  "ask": [
+   "Which signs of life did the fire show?",
+   "Why did Zoya feel it wasn't alive?",
+   "What does the mango seed have that the fire doesn't?",
+   "What did Aaji mean when she said life 'remembers, and it changes'?",
+   "Why did Zoya like that nobody has the final answer?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "No single sign proves life.",
+   "more": "Fire, crystals and robots each show some signs; sleeping seeds show almost none. Scientists use many signs together."
+  },
+  {
+   "idea": "Life passes on instructions that slowly change.",
+   "more": "Every living thing is made of cells carrying instructions (genes) from its parents. Over many generations, those instructions change: that's evolution."
+  },
+  {
+   "idea": "Living and non-living are woven together.",
+   "more": "Water, air, soil and sunlight make life possible, and living things make soil, oxygen and even rock (chalk and coral)."
+  }
+ ],
+ "unknowns": [
+  "Are viruses alive? Scientists are still divided.",
+  "How did the first living thing come from non-living chemicals? Nobody knows for sure; it's one of the biggest open questions in science.",
+  "If life exists on another planet, will it be made the same way as ours? We have only one example of life, ours, to go on."
+ ],
+ "books": [
+  {
+   "title": "Living Sunlight: How Plants Bring the Earth to Life",
+   "author": "Molly Bang and Penny Chisholm",
+   "for": "read together",
+   "age": "5–9",
+   "why": "How sunlight becomes life, told by the Sun. Penny Chisholm is an MIT scientist who discovered one of the most common living things on Earth, a tiny ocean microbe."
+  },
+  {
+   "title": "Tiny Creatures: The World of Microbes",
+   "author": "Nicola Davies",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Beautiful introduction to the living things too small to see."
+  },
+  {
+   "title": "A Drop of Water: A Book of Science and Wonder",
+   "author": "Walter Wick",
+   "for": "read alone",
+   "age": "7–11",
+   "why": "Stunning photographs of water, crystals and ice, good for thinking about growing things that aren't alive."
+  }
+ ],
+ "check": [
+  {
+   "q": "What are the seven signs of life?",
+   "a": "Movement, respiration, sensitivity, growth, reproduction, excretion, nutrition (MRS GREN)."
+  },
+  {
+   "q": "Fire shows many signs. Why do scientists say it isn't alive?",
+   "a": "It has no cells and doesn't pass on instructions; every fire starts from scratch."
+  },
+  {
+   "q": "How is a growing crystal different from a growing plant?",
+   "a": "A crystal only adds on the outside; a plant grows from inside by turning food into new cells."
+  },
+  {
+   "q": "What did we see in the onion skin?",
+   "a": "Cells, the building blocks of living things."
+  },
+  {
+   "q": "Why do scientists argue about viruses?",
+   "a": "They can't do anything alone, but inside a cell they copy themselves and pass on instructions."
+  },
+  {
+   "q": "Name something living and something non-living in your environment that depend on each other.",
+   "a": "e.g. a tree needs sunlight, water and soil; soil is made partly by worms and dead leaves."
+  }
+ ]
+}
