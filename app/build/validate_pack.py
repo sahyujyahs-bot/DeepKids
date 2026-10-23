@@ -68,7 +68,7 @@ def check(path):
 def combined(p):
     """Extra parts of a Combined topic rung (see SPEC.md, Combined topics)."""
     e = []
-    for k in ("builds_on", "project", "game", "big", "challenge", "perspectives", "books"):
+    for k in ("builds_on", "project", "game", "big", "challenge", "perspectives", "books", "story", "ideas", "unknowns"):
         if not p.get(k): e.append(f"combined: missing {k}")
     if e: return e
     if "textbook" not in p["source"].lower(): e.append("combined: source should say no textbook is needed")
@@ -89,6 +89,13 @@ def combined(p):
         for f in ("title", "author", "for", "age", "why"):
             if not b.get(f): e.append(f'book {b.get("title")}: missing {f}')
         if b.get("for") not in BOOKFOR: e.append(f'book {b.get("title")}: for must be one of {sorted(BOOKFOR)}')
+    st = p["story"]
+    for f in ("title", "text", "epiphany", "ask"):
+        if not st.get(f): e.append(f"story missing {f}")
+    w = sum(len(x.split()) for x in st.get("text", []))
+    if not 450 <= w <= 1400: e.append(f"story is {w} words; aim for 500–1200")
+    if not 2 <= len(p["ideas"]) <= 4: e.append("ideas: 2–4")
+    if not 2 <= len(p["unknowns"]) <= 4: e.append("unknowns: 2–4")
     pr = p["project"]
     for f in ("title", "steps", "outcome"):
         if not pr.get(f): e.append(f"project missing {f}")

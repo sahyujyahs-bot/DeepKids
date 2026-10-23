@@ -556,6 +556,10 @@
   {
    "who": "A kabaddi player",
    "view": "In kabaddi, a raider is pulled back by the whole team. One pull against many. Ask: who wins and why?"
+  },
+  {
+   "who": "An ant",
+   "view": "An ant can carry many times its own weight by pushing against the ground with six legs. Ask: if you were as strong as an ant for your size, what could you lift? Who is really the strong one?"
   }
  ],
  "voices": [
@@ -628,5 +632,49 @@
    "q": "Why did the car stop sooner on the towel?",
    "a": "The rough towel rubbed on the wheels and slowed it down."
   }
+ ],
+ "story": {
+  "title": "Tara and the Wall That Pushed Back",
+  "text": [
+   "The rain had been falling on Tara's chawl in Mumbai for three whole days, and Tara was cross. She was cross with the rain for keeping her indoors. She was cross with the grey sky. But most of all she was cross with her baby brother, Chintu, who had been born in the summer and had been the centre of everything ever since.",
+   "\"Everyone looks at Chintu,\" she said to nobody. \"Chintu sneezed. Chintu smiled. Chintu did a burp.\" She stamped to the door of their room. \"I don't need anyone. I'm going to push everything away.\"",
+   "She put both hands flat on the wooden door and pushed it shut. Bang. That felt good. But something strange happened as she pushed: she felt the door pushing her hands back. She took her hands away and looked at them. Pink, a bit squashed. She pushed the door again, gently this time, and there it was: the door was pressing back on her palms, exactly as hard as she pressed it.",
+   "\"Hm,\" said Tara.",
+   "She went to the wall, the thick old wall that had stood since before her Aaji was born, and she pushed it as hard as she could. She pushed until her face went red and her elbows shook. The wall did not move at all. But her hands hurt, and her feet slid backwards on the floor.",
+   "\"Aaji,\" she called, \"the wall is pushing me!\"",
+   "Aaji was sitting on the mat, folding clothes, with Chintu asleep beside her like a small warm loaf. She did not laugh. She put down the shirt she was folding. \"Of course it is,\" she said. \"Nothing in the whole world can be pushed without pushing back. Not doors. Not walls. Not even the floor under your feet. When you walk, you push the floor behind you, and the floor pushes you forward. That is the only reason you can walk at all.\"",
+   "Tara thought about this. She walked across the room very slowly, feeling each foot press down and back, and the floor quietly pressing her up and on. She had walked ten thousand times and never once said thank you to the floor.",
+   "The next day the rain stopped. The courtyard was shining, and the older children brought out their roller skates. Tara's cousin Imran lent her his old pair, and Chintu, who could now sit up, was placed in a cardboard box on wheels that Imran had made, and everyone took turns pulling him around.",
+   "When it was Tara's turn, she was still a little bit cross. She stood behind Chintu's box on her skates and gave it a big push to send it away from her. Whoosh, off went the box across the wet stone. But Tara went whooshing too, backwards, the other way, her arms flapping, until she bumped into the water tank and sat down with a splash.",
+   "Everyone laughed, and so, after a moment, did Tara. But as she sat there in the puddle, she understood something she could not quite put into words. When she pushed Chintu away, she had been pushed away too. You could not do one without the other.",
+   "She got up. She skated carefully to the box, where Chintu was waving his fat hands at her. She held out her hands, and he grabbed her fingers with his tight baby grip. And then Tara pulled. Gently. And as she pulled him towards her, she rolled towards him, and they met in the middle of the courtyard, the box and the girl, and spun round once, slowly, together.",
+   "Aaji was watching from the balcony. She did not say anything. She just smiled and went back inside to fold the clothes."
+  ],
+  "epiphany": "Newton's third law, felt in the body at age 6: every push or pull is a pair. You can't push without being pushed back, and when you pull something to you, you move towards it too. The story's turn is Tara sliding backwards when she pushes Chintu away. It also quietly says that we are never separate from what we touch.",
+  "ask": [
+   "When Tara pushed the door, what did she feel? Try it now with a door.",
+   "Why did Tara roll backwards when she pushed Chintu's box?",
+   "When you walk, what pushes you forward?",
+   "What happened when she pulled instead of pushed?",
+   "Can you think of anything you can push that doesn't push you back?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "You can't push anything without being pushed back.",
+   "more": "Push a wall and feel your hands squash. Stand on a skateboard or in socks on a smooth floor and push a friend: you both move apart. Scientists call this Newton's third law; you can feel it long before you can name it."
+  },
+  {
+   "idea": "Nothing starts, stops or turns by itself.",
+   "more": "A ball on the floor stays there for ever until something pushes it. A rolling ball would roll for ever if nothing slowed it down. That was Galileo's great idea."
+  },
+  {
+   "idea": "We walk, swim and fly by pushing the world.",
+   "more": "Feet push the floor back; fish push water back; birds push air down. Everything that moves itself does it by pushing something else."
+  }
+ ],
+ "unknowns": [
+  "Why does a moving thing keep moving if nothing stops it? Scientists can describe it perfectly, but why the universe works this way, nobody knows.",
+  "What is the pull that brings a mango down from the tree? We call it gravity, and we can measure it very precisely, but what gravity really is is still one of the biggest mysteries in science."
  ]
 }

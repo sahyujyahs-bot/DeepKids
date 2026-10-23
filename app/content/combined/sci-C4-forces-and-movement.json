@@ -788,6 +788,10 @@
   {
    "who": "Harappan traders of Lothal, Gujarat",
    "view": "Over 4,000 years ago, Lothal may have had one of the oldest docks in the world, where boats came in with goods. Archaeologists still debate whether a big basin there was a dockyard or a water tank. Ask: what clues would tell you?"
+  },
+  {
+   "who": "A fish",
+   "view": "Many fish have a gas bag inside them (a swim bladder). They let in gas to rise and squeeze it out to sink, without moving a fin. Ask: how is a fish like a submarine? Who had the idea first?"
   }
  ],
  "voices": [
@@ -860,5 +864,50 @@
    "q": "In the boat challenge, why did we change only one thing each time?",
    "a": "So we knew which change made the difference."
   }
+ ],
+ "story": {
+  "title": "Ammachi's Uruli",
+  "text": [
+   "In August the rain came to Ammu's village in Kerala and did not stop. It rained on the coconut palms and the paddy fields and the red-tiled roofs, and the river, which had always been a friendly brown ribbon at the end of the lane, began to rise.",
+   "Ammu's father was a fisherman. Some of the people in the big houses on the hill didn't think much of fishermen. They wrinkled their noses at the smell of fish and the salt-cracked hands. But Ammu loved her father's boat, the long narrow vallam, and the way it sat on the water as lightly as a leaf.",
+   "\"How does it float, Appa?\" she had asked once. \"It's made of heavy wood and iron nails.\"",
+   "\"It floats because it makes room,\" he had said. \"It pushes the water out of the way, and the water pushes back up. Make enough room, and the water will hold up anything.\"",
+   "Ammu hadn't understood. She did now, on the night the river came into the house.",
+   "It came quietly, under the door, across the floor, up past her ankles and then her knees. Her father had gone out with his boat to fetch the neighbours from the low fields. Her mother was lifting the rice sacks onto the cupboard. And Ammu's baby cousin, Kunju, was asleep in his basket, and the water was rising towards him.",
+   "Ammu looked around. Everything heavy was sinking: the steel tumbler, the iron ladle, Amma's grinding stone. But there, on the kitchen shelf, was Ammachi's uruli: the great round bronze cooking pot, wide and shallow, so heavy that it took two people to lift it when it was full of payasam on Onam.",
+   "It's so heavy, Ammu thought. It will sink like a stone.",
+   "But then she remembered: make enough room.",
+   "She and her mother slid the uruli off the shelf. It splashed down and wobbled, and then it sat on the water. It floated! It was heavier than Kunju, heavier than Ammu, and it floated, because it was wide and hollow and pushed aside a great deal of water. Very gently, they lifted the sleeping baby and laid him, blanket and all, in the middle of the uruli. It sank a little lower, and then it stayed.",
+   "All night they waited on the cupboard, Ammu and her mother, with one hand each on the rim of the uruli, holding Kunju steady on the black water. He never woke up.",
+   "In the grey morning they heard the splash of oars. Her father's boat came through the doorway, and behind it came other boats, the fishing boats from all along the coast. The fishermen had come with their vallams from the sea to the flooded villages, and they took everyone to safety: the people from the low fields, and the people from the big houses on the hill too. The water lifted every boat the same, and the fishermen saved everyone the same.",
+   "Later, much later, when the river was a brown ribbon again, people came to thank the fishermen. Someone called them 'Kerala's own army'. Ammu's father just shrugged.",
+   "\"It wasn't me,\" he said. \"It was the water. The water holds up anyone who makes room.\""
+  ],
+  "epiphany": "Floating depends on shape, not only weight: a hollow, wide object pushes aside a lot of water, and the water's upward push (upthrust) equals the weight of the water pushed aside. The turn is the heavy bronze uruli floating with the baby in it. Underneath: the water lifts everyone equally, and the people some looked down on were the ones who knew how to save everyone. (Inspired by the 2018 Kerala floods, when fishermen rescued thousands of people.)",
+  "ask": [
+   "Why did the steel tumbler sink but the much heavier uruli float?",
+   "What did Appa mean by 'make room'?",
+   "Why did the uruli sink a little lower when they put Kunju in?",
+   "Why do you think some people looked down on fishermen? Were they right?",
+   "What does 'the water holds up anyone who makes room' make you think of?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "What holds you up is the water you make room for.",
+   "more": "Anything in water is pushed up by a force equal to the weight of the water it pushes aside (Archimedes). Hollow, wide shapes push aside more water, so huge steel ships float."
+  },
+  {
+   "idea": "Every object has a balance point.",
+   "more": "All of an object's weight acts as if it were at one point. Put the support there, or spin it around that point, and it is steady."
+  },
+  {
+   "idea": "The sea knows exactly how heavy every ship is.",
+   "more": "A floating ship pushes aside exactly its own weight of water. Load it, and it sinks lower until it has pushed aside more. That's how port officers can tell how much cargo a ship carries just from the marks on its side."
+  }
+ ],
+ "unknowns": [
+  "Who made the first boat, and how? The oldest boat ever found is a canoe about 10,000 years old, but people reached Australia across the sea at least 50,000 years ago. So boats are much older than any we've found, and nobody knows what they were like.",
+  "Why does ice float? Almost every other solid sinks in its own liquid. We know it's because water molecules lock into an open pattern when they freeze, but water has dozens of strange behaviours that scientists still argue about."
  ]
 }

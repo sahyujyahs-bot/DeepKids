@@ -126,6 +126,39 @@ These match the app's worksheet player:
 - Keep the book's own activities (tell the parent which page) and add our own beside them.
 - If you can't see the book's text for part of a unit (scanned pages), build that part from the unit and topic titles. Mark the source "Learner's Book pages X–Y" using the contents page numbers.
 
+## The DeepKids way (applies to every pack, book, story and subject)
+
+The Combined track aims to be the deepest thing a child aged 6–10 can meet. Nothing is too big. Only the delivery is tuned for children: concrete before abstract, story and hands before words, the child's own life before the far away. Never water an idea down; find the way in.
+
+1. **Big ideas, not just parts.** Labelling a flower is a tool, never the goal. Every rung must reach at least one idea that changes how the child sees the world (a tree is built mostly from air; you can't push anything without being pushed back; there is no "away" to throw things to).
+2. **What we don't know.** Every rung names real open questions: things scientists or mathematicians are still unsure of or arguing about, said honestly ("Nobody knows yet"). Children should leave knowing science is unfinished and that they could finish it.
+3. **Debates and other views.** Real disagreements between real people, with the evidence on each side, and a verdict left to the child when the evidence is not settled.
+4. **Oneness.** Show how things are connected: matter cycling through stars, rocks, plants and us; every living thing related; the breath we share with trees. Use evidence, not slogans.
+5. **Question human-centredness.** Look from other beings' points of view. Humans are one species among millions and recent arrivals. Ask what a river, an ant or a fungus would say. Notice words like "weed", "pest" and "useful" that judge everything by what it does for us.
+6. **The quiet social lens.** Never preach, and never name an "-ism". Let it come out of the science and maths itself, as questions:
+   - **Who did it, and who got the credit?** Women, workers, farmers, healers and people from colonised countries who made knowledge but were left out of the story (Janaki Ammal, Anna Mani, Rosalind Franklin, Emmy Noether, the farmers who bred our crops, the women who carry loads).
+   - **Cooperation as well as competition.** Nature runs on both (symbiosis, mycorrhiza, lichens, matriarch-led elephant herds), so "survival of the strongest" is not the whole story.
+   - **Shared or owned?** Commons, seeds saved and swapped, sacred groves, water, air. What has a price, and what is precious but has none? Who decides, and who benefits?
+   - **Is more, faster or bigger always better?** Limits, enough, balance, cycles.
+   Always present the honest evidence and more than one view. The child reasons; we never hand them a conclusion.
+7. **Accuracy.** Real people, dates and findings only. Mark what is settled, debated and unknown. No fringe claims presented as true.
+
+## Stories
+
+Every chapter, rung and Mission book has a story (`story`), read aloud by the parent in 6–12 minutes.
+
+- **Literary and moving, not a lesson in costume.** Real characters with feelings, a setting the child can see and smell (Indian when it fits, but anywhere in the world or time), something at stake, and a turn.
+- **A hidden epiphany.** The concept is the key to the story's turn, so that when the child gets the story they get the idea. Never explain the moral at the end; let the parent's questions draw it out.
+- **Depth.** Stories may hold loss, unfairness, wonder, patience, being small in a big universe, kindness across species. Handle them gently, never scarily, for ages 6–10.
+
+```jsonc
+"story": {"title": "…", "text": ["paragraph", "…"],      // 500–1200 words
+          "epiphany": "For the parent: the idea hidden in the story and where it turns.",
+          "ask": ["3–5 questions to talk about after reading"]},
+"ideas": [{"idea": "A big idea, said simply", "more": "How to show or explain it"}],   // 2–4
+"unknowns": ["An open question nobody has answered yet, honestly put"]                 // 2–4
+```
+
 ## Combined topics (`app/content/combined/`)
 
 The Combined syllabus teaches every topic from NCERT, Cambridge and NIOS once, at the earliest class any board teaches it, and comes back to it, deeper, at every later class where another board teaches it. Each of these is a **rung**: one topic at one class. The list of rungs and the board subtopics each one must cover is in `app/build/combined/sci_universe.json` (built by `universe.py` from the concept map).
@@ -137,7 +170,7 @@ One file per rung: `combined/<subj>-C<class>-<topic id>.json`, key `combined|<su
 - **Days:** 4–10. Same day lengths as above.
 - **Climb the ladder:** each rung starts by recalling the rung below in one short warm-up, then goes further. Don't repeat the earlier rung's activities.
 
-Extra fields, all required:
+Extra fields, all required (plus `story`, `ideas` and `unknowns` above):
 
 ```jsonc
 "builds_on": "What earlier classes did, and what later classes will do.",

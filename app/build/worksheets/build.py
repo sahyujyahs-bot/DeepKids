@@ -7,7 +7,7 @@ Run: python3 app/build/worksheets/build.py
 """
 import json, os, glob, importlib.util
 HERE = os.path.dirname(os.path.abspath(__file__)); DATA = os.path.join(os.path.dirname(HERE), 'data.json')
-BOOK_TYPES = {"read", "case", "clue", "label2", "art", "investigate", "graph", "tally", "logic", "spot", "cutout", "pics", "debate", "caseboard", "quiz", "cert"}
+BOOK_TYPES = {"story", "read", "case", "clue", "label2", "art", "investigate", "graph", "tally", "logic", "spot", "cutout", "pics", "debate", "caseboard", "quiz", "cert"}
 TYPES = {"match", "circle", "fill", "sort", "label", "maze", "wordsearch", "crossword", "decode", "dots", "sequence", "draw", "table", "board", "numberline", "clocks", "talk"}
 def load(p):
     s = importlib.util.spec_from_file_location(os.path.basename(p)[:-3], p); m = importlib.util.module_from_spec(s); s.loader.exec_module(m); return m
