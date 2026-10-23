@@ -39,8 +39,6 @@ function localParse(text){const items=[],asks=[];
     if(["class","rest","meal","outing"].includes(type)){if(!it.days&&!it.date)asks.push({i:items.length,need:"days",q:`Which days is ${title}? (e.g. Tue and Thu, every day, or a date)`});if(!it.start&&type!=="outing")asks.push({i:items.length,need:"time",q:`What time is ${title}? (e.g. 5 to 6 pm)`})}
     items.push(it)});
   return {items,asks}}
-function localDump(text){const D_=ui.dump=ui.dump||{};const R=localParse(text);if(!R.items.length){D_.err="We couldn't find a plan in that. Try something like “Swimming Tue and Thu 5 to 6 pm”.";sfx("no");render();return}
-  D_.local=true;D_.items=[...(D_.items||[]),...R.items];const base=D_.items.length-R.items.length;D_.asks=[...(D_.asks||[]),...R.asks.map(a=>({...a,i:a.i+base}))];D_.questions=D_.asks.map(a=>a.q);D_.err="";clearIn("dumpText");sfx("ok");render()}
 function qSend(){const D_=ui.dump=ui.dump||{},Q=D_.questions||[],ans=Q.map((q,i)=>[q,(document.getElementById("qa-"+i)?.value||"").trim()]).filter(([,a])=>a);if(!ans.length){toast("Type an answer first");return}
   D_.chat=[...(D_.chat||[]),...ans.map(([q,a])=>({q,a}))];
   if(D_.local){const left=[];(D_.asks||[]).forEach((a,i)=>{const v=(document.getElementById("qa-"+i)?.value||"").trim();if(!v){left.push(a);return}const it=D_.items[a.i];if(!it)return;

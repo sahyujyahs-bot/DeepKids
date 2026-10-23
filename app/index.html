@@ -503,6 +503,9 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 .mascot{cursor:pointer}.wig{animation:dkwig .6s ease}@keyframes dkwig{20%{transform:rotate(-10deg) scale(1.05)}45%{transform:rotate(9deg)}70%{transform:rotate(-5deg)}100%{transform:none}}.dring.full .rfg{stroke:var(--sun)}.dring.full b{color:var(--forest);font-size:15px}.burst{max-width:80vw;white-space:normal;text-align:center}
 @media (prefers-reduced-motion: reduce){.wig{animation:none}}
 .sgbody>.sec>.sech:first-child{display:none}.segmain{margin-top:6px}.segdesc{margin:6px 2px 0}.sgrp summary{cursor:pointer;list-style:none;display:grid;gap:2px}.sgrp summary::-webkit-details-marker{display:none}.sgrp summary b{font:600 17px var(--display)}.sgrp summary::after{content:"›";position:absolute;right:18px;top:16px;font-size:22px;transition:transform .2s;color:rgba(43,35,64,.4)}.sgrp{position:relative}.sgrp[open] summary::after{transform:rotate(90deg)}.sgbody{display:grid;gap:10px;margin-top:12px}.sgbody>.sec,.sgbody>.card{margin:0}
+.locked{position:relative}.locked .lk{position:absolute;right:-4px;top:-6px;font-size:12px;background:#fff;border-radius:50%;width:18px;height:18px;display:grid;place-items:center;box-shadow:0 1px 3px rgba(0,0,0,.2)}.btn.locked .lk{position:static;width:auto;height:auto;background:none;box-shadow:none;margin-left:4px}
+.needai{display:flex;gap:10px;align-items:center;padding:12px;border-radius:16px;background:#FFF0C9;border:2px dashed rgba(43,35,64,.15)}.needai>.lk{font-size:20px}.needai>div{flex:1;min-width:0}
+.pluslist{display:grid;gap:8px;padding-left:0;list-style:none;font-size:15px}.pluslist li{padding:10px 12px;border-radius:14px;background:var(--surface)}
 </style>
 
 <header class="top"><div class="wrap">
@@ -529,6 +532,18 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 <script>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1172,6 +1187,28 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* ---------- DeepKids Plus: locked AI features open the upgrade; a message that needs AI is kept and read right after upgrading ---------- */
+const PLUSR={photo:"Reading photos and screenshots",chat:"Understanding longer messages",shelf:"Sorting your shelf from photos",test:"Entrance test papers",topic:"Exploring new topics"};
+const lockBtn=(r,cls,label)=>`<button class="${cls} locked" data-act="plus" data-r="${r}" aria-label="${esc(PLUSR[r])}: part of DeepKids Plus">${label}<span class="lk">🔒</span></button>`;
+function plusView(){const r=ui.sheet?.r,pend=S.pendAI;document.getElementById("sheetTitle").textContent="DeepKids Plus";const waiting=!!S.plusWait;
+  return `<div class="exdone">${blob("var(--sun)",6,"wow","",'width="76" height="76"')}<h2 style="font-size:24px">DeepKids Plus</h2>${r?`<p class="sm"><b>${esc(PLUSR[r]||"")}</b> is part of Plus.</p>`:""}</div>
+  <ul class="pluslist"><li>📷 Send photos and screenshots of timetables, WhatsApp messages, notes and receipts; they go straight into your plan</li><li>💬 Write the way you talk: long or mixed-up messages are understood</li><li>🏷️ Photos of work are matched to the right chapter automatically</li><li>📚 Shelf photos become a tagged home library</li><li>📝 Entrance test papers for any board and class</li><li>🔎 Explore any new topic, with lesson plans written for you</li></ul>
+  ${pend?`<div class="ask"><span class="eyebrow">Your message is kept</span>“${esc(pend.text.slice(0,160))}${pend.text.length>160?"…":""}”<br><span class="xs muted">As soon as Plus is on, DeepKids reads it. No need to type it again.</span></div>`:""}
+  <div class="col" style="gap:10px;margin-top:12px"><button class="btn accent" data-act="plusgo" ${waiting&&!window.DK_PLATFORM?.upgrade?"disabled":""}>${waiting&&!window.DK_PLATFORM?.upgrade?"You're on the list ✓":"Upgrade to Plus"}</button><button class="btn line sm" data-act="texit">Not now</button></div>
+  ${waiting&&!window.DK_PLATFORM?.upgrade?`<p class="xs muted" style="text-align:center">Plus opens soon. We'll let you know here as soon as it does.</p>`:""}`}
+async function plusGo(){const P=window.DK_PLATFORM;if(P?.upgrade){let ok=false;try{ok=await P.upgrade({reason:ui.sheet?.r||""})}catch(e){}if(ok){await afterUpgrade();return}toast("Payment didn't go through. Nothing was charged.");return}
+  S.plusWait=S.plusWait||Date.now();sfx("ok");toast("You're on the list. Plus opens soon.");commit()}
+async function afterUpgrade(){try{SAMPLE=await window.claude?.use?.("sample")||null;const l=SAMPLE?await SAMPLE.limits().catch(()=>null):null;IMGOK=!!l?.images}catch(e){}sfx("win");confetti();toast("Welcome to DeepKids Plus!");
+  if(ui.sheet)goBack();if(S.pendAI&&SAMPLE){const t=S.pendAI.text;tab="week";ui.seg={...(ui.seg||{}),week:"cal"};ui.dump={text:t,chat:[]};delete S.pendAI;commit();setTimeout(()=>{const ta=document.getElementById("dumpText");if(ta)ta.value=t;runDump()},300)}else commit()}
+/* a message the phone can't read well: too long, nothing found, or sentences that aren't plans */
+function needsAI(text,R){if(!R.items.length)return true;if(text.length>280)return true;return R.items.some(x=>x.type!=="have"&&x.title.split(" ").length>5)}
+const clearItem=x=>x.type==="have"||(x.title.split(" ").length<=4&&!/\b(said|might|maybe|thing|stuff|sometimes|basically|figure|think|probably|soon)\b/i.test(x._src||"")&&(x.start||x.days||(x.date&&x.type!=="todo")||TODOW.test(x._src||"")));
+function localDump(text){const D_=ui.dump=ui.dump||{};const R0=localParse(text),hard=needsAI(text,R0),R=hard?{items:R0.items.filter(clearItem),asks:[]}:R0;if(hard){const keep=new Set(R.items);R.asks=R0.asks.filter(a=>keep.has(R0.items[a.i])).map(a=>({...a,i:R.items.indexOf(R0.items[a.i])}))}
+  if(hard){S.pendAI={text,at:Date.now()};save()}D_.needAI=hard;
+  if(!R.items.length){D_.err="";D_.items=D_.items||null;sfx("tap");render();return}
+  D_.local=true;D_.items=[...(D_.items||[]),...R.items];const base=D_.items.length-R.items.length;D_.asks=[...(D_.asks||[]),...R.asks.map(a=>({...a,i:a.i+base}))];D_.questions=D_.asks.map(a=>a.q);D_.err="";clearIn("dumpText");sfx("ok");render()}
+const needAICard=D_=>D_.needAI&&!SAMPLE?`<div class="needai"><span class="lk">🔒</span><div><b>${D_.items?.length?"Some of this needs DeepKids Plus to read properly.":"This needs DeepKids Plus to read."}</b><p class="xs muted">${D_.items?.length?"We picked out what we could above. ":""}Your message is kept. After upgrading, DeepKids reads it right away.</p></div><button class="btn sm accent" data-act="plus" data-r="chat">Upgrade</button></div>`:"";
+
 /* ---------- reading plans without AI: the common ways parents write classes, rest, outings, to-dos and things they own ---------- */
 const MONTHS={jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,sept:8,oct:9,nov:10,dec:11};
 const DAYW={sun:0,mon:1,tue:2,tues:2,wed:3,thu:4,thur:4,thurs:4,fri:5,sat:6};
@@ -1213,8 +1250,6 @@ function localParse(text){const items=[],asks=[];
     if(["class","rest","meal","outing"].includes(type)){if(!it.days&&!it.date)asks.push({i:items.length,need:"days",q:`Which days is ${title}? (e.g. Tue and Thu, every day, or a date)`});if(!it.start&&type!=="outing")asks.push({i:items.length,need:"time",q:`What time is ${title}? (e.g. 5 to 6 pm)`})}
     items.push(it)});
   return {items,asks}}
-function localDump(text){const D_=ui.dump=ui.dump||{};const R=localParse(text);if(!R.items.length){D_.err="We couldn't find a plan in that. Try something like “Swimming Tue and Thu 5 to 6 pm”.";sfx("no");render();return}
-  D_.local=true;D_.items=[...(D_.items||[]),...R.items];const base=D_.items.length-R.items.length;D_.asks=[...(D_.asks||[]),...R.asks.map(a=>({...a,i:a.i+base}))];D_.questions=D_.asks.map(a=>a.q);D_.err="";clearIn("dumpText");sfx("ok");render()}
 /* ---------- your data: save a full copy (plan, progress, answers, photos) and bring it into another device or the website ---------- */
 function dataBox(){const P=ui.dx;return `<p class="xs muted">One file with everything: your plan, progress, answers, routines and photos. Use it to keep a backup, or to move to the DeepKids website.</p>
   <div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn soft sm" data-act="dexport" ${P?"disabled":""}>${P?.what==="out"?esc(P.msg):"Save a copy"}</button><label class="btn line sm" style="cursor:pointer">${P?.what==="in"?esc(P.msg):"Bring in a copy"}<input type="file" id="importFile" accept=".zip,.json,application/zip,application/json" hidden ${P?"disabled":""}></label></div>`}
@@ -1367,7 +1402,7 @@ const tDone=t=>t&&t.subjects.every(x=>t.done?.[x.s]);
 function tSetup(){const T=S.tsetup||(S.tsetup={board:boardsOn().find(b=>["ncert","cambridge","nios"].includes(b))||"ncert",cls:"",n:15,off:[]});return T}
 function shuffleQ(q){const idx=[0,1,2,3];for(let i=3;i>0;i--){const j=Math.floor(Math.random()*(i+1));[idx[i],idx[j]]=[idx[j],idx[i]]}return {...q,opts:idx.map(i=>q.opts[i]),a:idx.indexOf(q.a)}}
 async function makeTest(){const T=tSetup(),L=tLevel(T.cls),subs=tSubs(T.board,L).filter(s=>!(T.off||[]).includes(s));if(!T.cls){toast("Pick the class they're joining");return}if(!subs.length){toast("No syllabus for that board and class yet");return}
-  if(!SAMPLE){toast("Making the paper needs Claude: open DeepKids in claude.ai.");return}
+  if(!SAMPLE){openSheet({mode:"plus",r:"test"});return}
   ui.tgen={i:0,n:subs.length,err:[]};render();const out=[];
   for(const s of subs){ui.tgen.i++;ui.tgen.s=s;render();const ch=tChaps(T.board,s,L),keys=new Set(ch.map(u=>u.k)),N=+T.n||15;
     const prompt=`Write an entrance test for a child joining Class ${T.cls} at a ${tbName(T.board)} school in India. The test covers the ${BOARDN[TB(T.board)]} ${lvN(TB(T.board),L)} syllabus for ${SUBJ[s]}, which has these chapters (key = title):
@@ -1633,6 +1668,7 @@ function schoolView(){document.getElementById("sheetTitle").textContent="Moving 
   h+=testSection();
   h+=testSection();
   h+=testSection();
+  h+=testSection();
   h+=`<div class="tiles"><div class="tile"><b>${D.ds.length}</b><span>study days${D.from?` since ${esc(fmt(D.from))}`:""}</span></div><div class="tile"><b>${hmin(D.mins)}</b><span>of study</span></div><div class="tile"><b>${D.subs.reduce((a,x)=>a+x.L.filter(c=>c.fin).length,0)}</b><span>chapters completed</span></div><div class="tile"><b>${D.ws}</b><span>worksheets finished</span></div></div>`;
   const idle=D.subs.filter(x=>!x.L.length);D.subs.filter(x=>x.L.length).forEach(x=>{h+=`<section class="card ${SC(x.s)}"><div class="sech"><h3 style="font-size:19px">${esc(SUBJ[x.s])}</h3>${x.score!=null?`<span class="grade" title="Score ${x.score}">${x.grade} · ${x.score}</span>`:`<span class="xs muted">no checked work yet</span>`}</div>
     <p class="xs muted">${hmin(x.mins)} · ${x.L.filter(c=>c.fin).length} chapters completed, ${x.L.filter(c=>!c.fin).length} in progress${x.level?` · working at Level ${x.level}`:""}</p>
@@ -1832,7 +1868,7 @@ function lessonExtras(u){const R=resSort(resourcesFor(u)).filter(rFits),pick=[],
 const shelfFor=u=>(S.inv||[]).filter(i=>(i.chapters||[]).includes(u.k)||(i.concepts||[]).some(c=>(RCON[c]?.chapters||[]).includes(u.k)));
 function invCard(){const D_=ui.idump||{};return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--gum)",7,"wow","",'width="48" height="48"')}<div><h3 style="font-size:19px">Tell us what you have</h3><p class="xs muted">Type a list, say it with your keyboard's mic, or add photos of a shelf, book covers or game boxes. We sort it into books, games and more, and tag each to the chapters it helps with.</p></div></div>
    <textarea class="inp" id="invText" placeholder="Ruskin Bond's The Blue Umbrella, a magnifying glass, Ludo, Snakes and Ladders, a globe, Tinkle comics, a kids' microscope, 2 bar magnets">${esc(D_.text||"")}</textarea>
-   <div class="row">${IMGOK?`<label class="btn soft sm" style="cursor:pointer">${icon("plus")}Photos<input type="file" id="invImg" accept="image/*" multiple hidden></label>`:""}<span class="xs muted">${D_.files?.length?D_.files.length+" photo"+(D_.files.length>1?"s":"")+" added":""}</span><button class="btn sm" data-act="isort" style="margin-left:auto" ${D_.busy?"disabled":""}>${D_.busy?"Sorting…":"Sort it in"}</button></div>
+   <div class="row">${IMGOK?`<label class="btn soft sm" style="cursor:pointer">${icon("plus")}Photos<input type="file" id="invImg" accept="image/*" multiple hidden></label>`:lockBtn("shelf","btn soft sm","📷 Photos")}<span class="xs muted">${D_.files?.length?D_.files.length+" photo"+(D_.files.length>1?"s":"")+" added":""}</span><button class="btn sm" data-act="isort" style="margin-left:auto" ${D_.busy?"disabled":""}>${D_.busy?"Sorting…":"Sort it in"}</button></div>
    ${SAMPLE?"":`<p class="xs muted">Sorting needs Claude, which isn't available in this view. Add things one by one below.</p>`}${D_.err?`<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>`:""}
    ${D_.items?`<div class="col" style="gap:8px">${D_.items.map((it,i)=>`<div class="parsed ${it.keep?"":"off"}"><button class="ck ${it.keep?"on":""}" data-act="ikeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div style="min-width:0"><b style="font:600 16px var(--display)">${esc(it.name)}</b><p class="xs muted">${esc([CATS[it.cat]||"Other",it.by,it.kind,it.ages].filter(Boolean).join(" · "))}</p>${(it.chapters||[]).length?`<div class="row chips">${it.chapters.map(unitByK).filter(Boolean).slice(0,3).map(chipK).join("")}</div>`:""}</div></div>`).join("")}<div class="row"><button class="btn green" data-act="iadd">${icon("check")}Add ${D_.items.filter(x=>x.keep).length}</button><button class="btn line sm" data-act="iclear">Clear</button></div></div>`:""}</section>`}
 function invContext(){const keys=[];S.subjects.forEach(s=>{const lv=S.levels[s];allUnits().filter(u=>u.subj===s&&["ncert","cambridge","nios"].includes(u.board)&&Math.abs(u.level-lv)<=1).forEach(u=>keys.push(`${u.k} = ${unitLabel(u)}`))});return keys.slice(0,260).join("\n")}
@@ -2245,11 +2281,12 @@ function dumpCard(){const D_=ui.dump||{},n=(S.events||[]).length+(S.todos||[]).f
    ${D_.chat?.length||D_.items?`<div class="chat">${D_.text?`<div class="bub me">${esc(D_.text.split("\n")[0].slice(0,200))}${D_.text.includes("\n")?"…":""}</div>`:""}</div>`:""}
    ${D_.items?`<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it,i)=>`<div class="parsed ${it.keep?"":"off"}"><button class="ck ${it.keep?"on":""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><b style="font:600 16px var(--display)">${esc(it.title)}</b><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type==="have"?"We have it":ROLE[it.who]||"For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter(x=>x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>`:dumpChat(D_)}
    ${D_.err?`<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>`:""}
+   ${needAICard(D_)}
    ${D_.files?.length?`<div class="row" style="gap:6px"><span class="chip" style="pointer-events:none">${icon("plus")}${D_.files.length} photo${D_.files.length>1?"s":""} attached</span><button class="link xs" data-act="dnofiles">Remove</button></div>`:""}
-   <div class="composer ${D_.busy?"busy":""}">${IMGOK&&SAMPLE?`<label class="cbtn" aria-label="Add a photo or screenshot">${icon("plus")}<input type="file" id="dumpImg" accept="image/*" multiple hidden></label>`:""}<textarea class="inp" id="dumpText" rows="1" placeholder="${D_.items||D_.chat?.length?"Add more…":"Type or speak a plan…"}">${esc(D_.items?"":D_.text||"")}</textarea><button class="send" data-act="dump" aria-label="Sort it into my plan" ${D_.busy?"disabled":""}>${D_.busy?`<span class="dots"><i></i><i></i><i></i></span>`:icon("next")}</button></div>
+   <div class="composer ${D_.busy?"busy":""}">${IMGOK&&SAMPLE?`<label class="cbtn" aria-label="Add a photo or screenshot">📷<input type="file" id="dumpImg" accept="image/*" multiple hidden></label>`:lockBtn("photo","cbtn","📷")}<textarea class="inp" id="dumpText" rows="1" placeholder="${D_.items||D_.chat?.length?"Add more…":"Type or speak a plan…"}">${esc(D_.items?"":D_.text||"")}</textarea><button class="send" data-act="dump" aria-label="Sort it into my plan" ${D_.busy?"disabled":""}>${D_.busy?`<span class="dots"><i></i><i></i><i></i></span>`:icon("next")}</button></div>
    ${D_.busy?`<p class="xs muted">Reading it and putting it on your plan…</p>`:""}
    ${empty?`<div class="dex">${DEX.map(([l,t])=>`<button class="chip" data-act="dex" data-t="${esc(t)}">${esc(l)}</button>`).join("")}</div>`:""}
-   ${SAMPLE?"":`<p class="xs muted">Read on this phone: classes, times, days, dates, rest and to-dos. Photos and longer messages are part of DeepKids Plus, coming soon.</p>`}
+   ${SAMPLE?"":`<p class="xs muted">Read on this phone: classes, times, days, dates, rest and to-dos. Photos 📷 and longer messages are part of DeepKids Plus.</p>`}
    <div class="row dfoot"><button class="link sm" data-act="told">What you've told us · ${n}</button><button class="link sm" data-act="dhand" aria-expanded="${!!ui.dhand}">${ui.dhand?"Hide add by hand":"Add by hand"}</button></div>
    ${ui.dhand?`<div class="handbox">${quickAdd(ui.pday||today)}</div>`:""}</section>`}
 function parsedLine(it){if(it.type==="have")return "Library · "+(it.category||"other");if(it.type==="update"){const e=(S.events||[]).find(z=>z.id===it.id);return "Change"+(e?` “${e.title}”`:"")+": "+[it.days?.length?dayList(it.days):"",it.start?clock(hm(it.start))+(it.end?"–"+clock(hm(it.end)):""):""].filter(Boolean).join(" · ")}
@@ -2631,7 +2668,7 @@ const sheet=document.getElementById("sheet");
 function openSheet(o){navPush();ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true);updBack()}
 function renderSheet(top){if(!ui.sheet)return;{const ex=document.getElementById("sheetExtra");if(ex&&!ex.querySelector(".readbtn"))ex.innerHTML=`<button class="readbtn" data-act="readnow" aria-label="Read this page aloud">🔊</button>`}const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
   const m=ui.sheet.mode;sheet.className="sheet"+(m==="player"?" colored "+SC(ui.sheet.s):m==="chapter"||m==="ws"?" "+SC(unitBy(ui.sheet.k)?.subj||""):"");
-  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,todo:todoView,folder:folderView,rem:remView,iopts:ioptsView,evpre:evpreView,evdone:evdoneView,exam:examView,told:toldView,uploads:uploadsView,track:trackView,school:schoolView,hist:historyView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
+  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,todo:todoView,folder:folderView,plus:plusView,rem:remView,iopts:ioptsView,evpre:evpreView,evdone:evdoneView,exam:examView,told:toldView,uploads:uploadsView,track:trackView,school:schoolView,hist:historyView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
   updBack();
   const kept=top?null:keepInputs(b);b.replaceChildren(el(h));if(kept)restoreInputs(b,kept);sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
@@ -2841,6 +2878,8 @@ function onAct(e){
    case "gotab":{navPush();const dl=document.getElementById("sheet");if(dl?.open){ui.sheet=null;dl.close()}tab=b.dataset.tab;if(b.dataset.seg)ui.seg={...(ui.seg||{}),[tab]:b.dataset.seg};sfx("flip");render();scrollTo(0,0);break}
    case "sndtoggle":{document.getElementById("snd")?.click();setTimeout(()=>{if(ui.sheet)renderSheet()},50);break}
    case "dexport":{dataExport();break}
+   case "plus":{sfx("flip");openSheet({mode:"plus",r:b.dataset.r||""});break}
+   case "plusgo":{plusGo();break}
    case "todo":{sfx("flip");openSheet({mode:"todo"});break}
    case "lt":{navPush();ui.lt=b.dataset.t;sfx("tap");render();break}
    case "invadd":{S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:b.dataset.n,cat:b.dataset.c||"other",from:"tap"}];sfx("ok");toast("Added to what we have");commit();break}

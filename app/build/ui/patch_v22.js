@@ -11,7 +11,7 @@ const tDone=t=>t&&t.subjects.every(x=>t.done?.[x.s]);
 function tSetup(){const T=S.tsetup||(S.tsetup={board:boardsOn().find(b=>["ncert","cambridge","nios"].includes(b))||"ncert",cls:"",n:15,off:[]});return T}
 function shuffleQ(q){const idx=[0,1,2,3];for(let i=3;i>0;i--){const j=Math.floor(Math.random()*(i+1));[idx[i],idx[j]]=[idx[j],idx[i]]}return {...q,opts:idx.map(i=>q.opts[i]),a:idx.indexOf(q.a)}}
 async function makeTest(){const T=tSetup(),L=tLevel(T.cls),subs=tSubs(T.board,L).filter(s=>!(T.off||[]).includes(s));if(!T.cls){toast("Pick the class they're joining");return}if(!subs.length){toast("No syllabus for that board and class yet");return}
-  if(!SAMPLE){toast("Making the paper needs Claude: open DeepKids in claude.ai.");return}
+  if(!SAMPLE){openSheet({mode:"plus",r:"test"});return}
   ui.tgen={i:0,n:subs.length,err:[]};render();const out=[];
   for(const s of subs){ui.tgen.i++;ui.tgen.s=s;render();const ch=tChaps(T.board,s,L),keys=new Set(ch.map(u=>u.k)),N=+T.n||15;
     const prompt=`Write an entrance test for a child joining Class ${T.cls} at a ${tbName(T.board)} school in India. The test covers the ${BOARDN[TB(T.board)]} ${lvN(TB(T.board),L)} syllabus for ${SUBJ[s]}, which has these chapters (key = title):
