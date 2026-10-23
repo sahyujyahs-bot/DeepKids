@@ -4,15 +4,16 @@
  "subj": "sci",
  "level": 1,
  "n": "plants",
- "title": "Plants are alive, and they reach for the light",
- "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology (plant parts; plants and light). No textbook needed.",
- "summary": "Your child meets plants as living things that do things: they drink, they feed themselves, and they move towards light, slowly, without legs or eyes. They find the parts of a plant on real plants, grow a bean through a shoebox maze, and discover that a plant always finds the light.",
- "builds_on": "This is the first time. In Class 3 your child comes back to plants: kinds of plants, how water travels up, and what plants need. The Plants Mission book goes deeper still.",
+ "title": "Plants are alive: parts, light and slow movement",
+ "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology: plant parts (Unit 2.1) and plants and light (Unit 2.3), and goes wider: roots growing down, stems as water pipes, which parts we eat, and plants that move slowly. No textbook needed.",
+ "summary": "Your child meets plants as living things that do things: they drink through their roots, carry water up their stems like pipes, cook their own food in their leaves, and move, very slowly, towards light and down towards the Earth. They take a plant apart, grow a bean through a shoebox maze, watch coloured water climb a stem, turn a jar of seeds upside down to see roots turn round, and find that a plant always finds the light.",
+ "builds_on": "This is the first rung. Seeds and how they sprout come in the Class 1 seeds rung. In Class 3 your child comes back to plants: kinds of plants, fair tests of what plants need, how water climbs a tall tree and how a tree is built mostly from air. The Plants Mission book goes deeper still.",
  "goals": [
-  "By the end your child can point to the root, stem, leaf and flower on a real plant and say one job each part does.",
-  "By the end your child can explain that plants are alive: they grow, drink, make their own food and respond to light.",
-  "By the end your child can show that a plant grows towards light, and predict which way a plant on a windowsill will lean.",
-  "By the end your child can say that a plant kept in the dark goes pale and weak.",
+  "By the end your child can point to the root, stem, leaf, flower, fruit and seed on real plants and say one job each part does.",
+  "By the end your child can explain that plants are alive: they grow, drink, make their own food and respond to light and to gravity.",
+  "By the end your child can show that a plant grows towards light and its roots grow down, and predict which way a plant on a windowsill will lean.",
+  "By the end your child can say that a plant kept in the dark goes pale, tall and weak, and why.",
+  "By the end your child can sort the vegetables in the kitchen by which part of the plant we eat.",
   "By the end your child can care for a plant for two weeks and record what changes."
  ],
  "words": [
@@ -22,7 +23,7 @@
   ],
   [
    "stem",
-   "the part that holds the plant up and carries water"
+   "the part that holds the plant up and carries water, like a pipe"
   ],
   [
    "leaf",
@@ -33,6 +34,10 @@
    "the part that makes seeds"
   ],
   [
+   "fruit",
+   "the part that holds and protects the seeds"
+  ],
+  [
    "seed",
    "a baby plant with its packed lunch, waiting to grow"
   ],
@@ -41,9 +46,32 @@
    "light from the Sun, which plants use to make food"
   ],
   [
+   "chlorophyll",
+   "the green stuff in leaves that catches sunlight"
+  ],
+  [
+   "gravity",
+   "the pull of the Earth that makes things fall down; roots feel it and grow towards it"
+  ],
+  [
    "alive",
    "growing, needing food and water, and responding to the world"
   ]
+ ],
+ "subconcepts": [
+  "plants are living things",
+  "roots hold the plant and drink water",
+  "the stem holds the plant up and carries water like a pipe",
+  "leaves make the plant's food from sunlight, water and air (photosynthesis)",
+  "chlorophyll makes leaves green, and is made only in light",
+  "flowers make seeds; fruits hold and protect seeds",
+  "we eat roots, stems, leaves, flowers, fruits and seeds",
+  "shoots grow towards light (phototropism)",
+  "roots grow down, pulled by gravity (gravitropism)",
+  "plants in the dark grow pale, tall and thin",
+  "plants move, but slowly (leaves that fold at night, flowers that open)",
+  "plants grow in surprising places, and 'weed' is a word people choose",
+  "looking after a plant: what it needs every day"
  ],
  "day_mins": 30,
  "days": [
@@ -68,7 +96,7 @@
      "kind": "talk",
      "title": "What do plants do?",
      "mins": 8,
-     "do": "At home, lay out the weed. Ask: 'If this plant could talk, what would it say about living in a crack?' Write your child's words down. Then read the story, 'The Bean That Found the Window', if you have time today or at bedtime. Tell your child about voice v2: an Indian scientist, J.C. Bose, showed plants react when they are hurt. Ask: 'Do you think the weed felt it when we pulled it up?'",
+     "do": "At home, lay out the weed. Ask: 'If this plant could talk, what would it say about living in a crack?' Write your child's words down. Ask: 'Who planted it? Nobody! So is it a weed, or a brave plant? Who decides?' (People call a plant a weed when it grows where they don't want it; to the bee or the ant it is just a plant.) Then tell your child about voice v2: an Indian scientist, J.C. Bose, showed plants react when they are hurt. Ask: 'Do you think the weed felt it when we pulled it up? How could we find out?'",
      "ref": "v2"
     }
    ],
@@ -92,7 +120,7 @@
      "kind": "do",
      "title": "Take a plant apart",
      "mins": 15,
-     "do": "Use the weed from Day 1 or a coriander plant from the market with roots on. Lay it on white paper. Your child finds and touches each part. Ask: 'What does the root feel like? Why is it so long and thin?' (To reach water and hold on.) 'Why is the leaf flat and wide?' (To catch lots of sunlight.) Sniff the leaves of coriander or mint. Then do Worksheet ws1.",
+     "do": "Use the weed from Day 1 or a coriander plant from the market with roots on. Lay it on white paper. Your child finds and touches each part. Ask: 'What does the root feel like? Why is it so long and thin?' (To reach water and hold on tight; tug the plant gently and feel the soil holding it.) 'Why is the stem stiff?' (To hold the leaves up to the light.) 'Why is the leaf flat and wide?' (To catch lots of sunlight, like a solar panel.) If there is a flower or a seed pod, find it: 'The flower makes seeds. The fruit is the box that keeps them safe.' Sniff the leaves of coriander or mint. Then do Worksheet ws1.",
      "ref": "ws1"
     },
     {
@@ -152,67 +180,123 @@
   },
   {
    "n": 4,
+   "title": "Pipes in the stem, roots that go down",
+   "goal": "See water climb a stem, and find out that roots always turn to grow down.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the moong",
+     "mins": 4,
+     "do": "Peep at the two moong cups from Day 3. Ask: 'Which cup is growing faster? Which is greener?' Don't explain yet; just say: 'Keep watching. They are telling us something.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Coloured water climbs",
+     "mins": 12,
+     "do": "Do Experiment e3: stand a white flower (or a celery stick or a balsam stem) in a glass of water darkened with ink or food colour. Ask your child to guess: 'Will the colour stay in the glass, or go somewhere?' Mark the glass with the time. Say: 'Your blood travels round your body in tubes. A plant has tubes too. Let's see if we can catch the water moving.' You'll look again tomorrow.",
+     "ref": "e3"
+    },
+    {
+     "kind": "exp",
+     "title": "The upside-down jar",
+     "mins": 10,
+     "do": "Do Experiment e4: put 4 soaked rajma or chana seeds between wet paper towel and the side of a clear jar, so you can see them. Tell your child: 'When the roots are as long as your fingernail, we will turn the jar upside down. Then the roots will be pointing UP. What do you think they will do?' Write the guess on the jar with a marker.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Up and down",
+     "mins": 4,
+     "do": "Ask: 'Shoots go up. Roots go down. Even in a dark cupboard, roots go down. How does a root know which way is down, with no eyes?' Drop a ball: 'What pulls the ball down?' (The Earth's pull: gravity.) Say: 'Roots can feel that pull, and they grow towards it. Shoots grow away from it.'"
+    }
+   ],
+   "need": [
+    "a white flower, celery or balsam stem",
+    "a glass, ink or food colour",
+    "a clear jar, paper towel, 4 soaked rajma or chana",
+    "a marker pen"
+   ],
+   "prep": [
+    {
+     "task": "Soak 4 rajma or chana seeds overnight",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 5,
    "title": "How does a plant eat?",
    "goal": "Understand that leaves make food from sunlight, water and air.",
    "steps": [
     {
      "kind": "warmup",
-     "title": "Check the experiments",
+     "title": "Where did the colour go?",
      "mins": 5,
-     "do": "Look at the moong cups. Measure the tallest sprout in each with a strip of paper and stick the strips side by side in your notebook."
+     "do": "Look at the flower from Experiment e3. Ask: 'Where is the colour now?' (In the petals, in lines, or in the leaves.) With a grown-up's knife, cut the stem across and look at the cut end: 'See the coloured dots? Those are the pipes. The water climbed up them, all the way from the glass to the top.' Also measure the tallest moong sprout in each cup with a paper strip and stick the strips side by side in your notebook."
     },
     {
      "kind": "talk",
      "title": "The leaf kitchen",
      "mins": 10,
-     "do": "Hold a leaf up to the light. Say: 'A leaf is a tiny kitchen. It takes water from the roots, air from all around, and sunlight, and it cooks them into sugar, the plant's food. And while it cooks, it breathes out the fresh air we breathe in.' Ask: 'So what would happen to a plant with no light?' Let your child guess."
+     "do": "Hold a leaf up to the light. Say: 'A leaf is a tiny kitchen. It takes water from the roots, through the pipes we just saw, and air from all around, and sunlight, and it cooks them into sugar, the plant's food. Scientists call this photosynthesis, which means making with light. The green stuff that catches the light is called chlorophyll. And while it cooks, the leaf breathes out the fresh air we breathe in.' Ask: 'So what would happen to a plant with no light?' (No cooking, so no food; and it can't make its green.) Ask: 'You get your food from the kitchen. Who makes all the food in the world, at the very start?' (Plants!)"
     },
     {
      "kind": "game",
      "title": "Play Sun, Water, Grow!",
      "mins": 15,
-     "do": "Play the board game (g1). Each square is something that helps or harms a plant; your child says why before moving.",
+     "do": "Play the board game (g1). Each square is something that helps or harms a plant; your child says why before moving. On 'A goat nibbles you', ask: 'Is the goat bad? The goat is hungry too. Who makes the goat's food?'",
      "ref": "g1"
     }
    ],
    "need": [
     "a leaf",
-    "the printed board game, a die and coins"
+    "the coloured-water flower",
+    "the printed board game, a die and coins",
+    "a knife (grown-up only)"
    ]
   },
   {
-   "n": 5,
-   "title": "Look after a plant",
-   "goal": "Start caring for a plant and noticing it closely.",
+   "n": 6,
+   "title": "Which part do we eat? And a plant friend",
+   "goal": "Find out that we eat every part of a plant, and start caring for one plant.",
    "steps": [
     {
      "kind": "warmup",
-     "title": "Maze check",
+     "title": "Maze and jar check",
      "mins": 5,
-     "do": "Open the shoebox lid quickly and look at the bean. Ask: 'Which way is it growing? How does it know where the hole is?' Close it again fast."
+     "do": "Open the shoebox lid quickly and look at the bean. Ask: 'Which way is it growing? How does it know where the hole is?' Close it fast. Look at the jar from Experiment e4: if the roots are as long as a fingernail, turn the jar upside down now and put it back."
+    },
+    {
+     "kind": "act",
+     "title": "The sabzi sort",
+     "mins": 10,
+     "do": "Do Activity a2: lay out vegetables and foods from the kitchen and sort them onto six papers labelled root, stem, leaf, flower, fruit, seed. Surprises to talk about: a potato is a fat underground stem (it has 'eyes' that grow shoots); cauliflower is a bunch of flower buds; a tomato, bhindi and brinjal are fruits because they hold seeds; dal and rice are seeds. Ask: 'Which part did you eat most today?'",
+     "ref": "a2"
     },
     {
      "kind": "do",
      "title": "Project: my plant friend",
-     "mins": 18,
-     "do": "Start the project: your child chooses a pot plant (or plants a tulsi or methi seedling), names it, measures it with a strip of paper, draws it, and sets up a care chart for two weeks."
+     "mins": 10,
+     "do": "Start the project: your child chooses a pot plant (or plants a tulsi or methi seedling), names it, measures it with a strip of paper, draws it, and sets up a care chart for two weeks with three columns: water, light, how it looks. Ask: 'What will your plant need from you every day? What does it get by itself?'"
     },
     {
      "kind": "ws",
      "title": "Plants and light",
-     "mins": 7,
-     "do": "Do Worksheet ws2 together. Read each question aloud and let your child answer from what they have seen in the experiments so far.",
+     "mins": 5,
+     "do": "Do Worksheet ws2 together. Read each question aloud and let your child answer from what they have seen in the experiments so far. For the written questions, your child says the answer and you write it.",
      "ref": "ws2"
     }
    ],
    "need": [
+    "potato, onion, carrot, spinach, cauliflower, tomato, bhindi, a few grains of rice and dal, a piece of sugarcane or celery if you have it",
+    "six sheets of paper",
     "a pot plant or seedling",
     "paper strips, crayons",
     "worksheet ws2"
    ]
   },
   {
-   "n": 6,
+   "n": 7,
    "title": "What did the plants do?",
    "goal": "Look at the results, think about big questions and teach it back.",
    "steps": [
@@ -220,13 +304,13 @@
      "kind": "review",
      "title": "Results",
      "mins": 8,
-     "do": "Compare the two moong cups (the dark ones are tall, thin and yellow; the light ones shorter and green) and look at the window plant you turned on Day 3 (it has started leaning back towards the light). Open the maze: has the bean found its way? Ask: 'Did the plant see the light? It has no eyes. How did it know?'"
+     "do": "Compare the two moong cups (the dark ones are tall, thin and yellow; the light ones shorter and green), look at the window plant you turned on Day 3 (it has started leaning back towards the light), and look at the upside-down jar (the root tips have bent round to grow down again). Open the maze: has the bean found its way? Ask: 'Did the plant see the light? It has no eyes. How did it know? How did the root know which way was down?' Then put the dark cup on the windowsill: 'Watch it turn green in a day or two.'"
     },
     {
      "kind": "think",
      "title": "Big questions",
      "mins": 7,
-     "do": "Talk about the voice v1 and the big question: 'Plants have no eyes, but they find the light. How?' Then ask the challenge question: 'Are plants just still things, like furniture?'",
+     "do": "Talk about voice v1. Tell it like a story: 'Two scientists, a father and his son, put tiny caps on the tips of grass shoots, and the shoots stopped bending to the light.' Ask the big question: 'Plants have no eyes, but they find the light. Which part of our maze bean was looking?' Then ask the challenge question: 'Are plants just still things, like furniture?' Show your child (or tell them about) a touch-me-not folding, or a tamarind or rain tree whose leaves fold up at dusk. 'They move. They are just slower than us.'",
      "ref": "v1"
     },
     {
@@ -251,7 +335,7 @@
    "day": 2,
    "sections": [
     [
-     "A. Match",
+     "A. Parts and jobs",
      [
       {
        "t": "match",
@@ -263,7 +347,7 @@
         ],
         [
          "stem",
-         "holds the plant up"
+         "holds the plant up and carries water"
         ],
         [
          "leaf",
@@ -272,14 +356,86 @@
         [
          "flower",
          "makes seeds"
+        ],
+        [
+         "fruit",
+         "keeps the seeds safe"
         ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which part of the plant is under the ground?",
+       "opts": [
+        "the leaf",
+        "the root",
+        "the flower"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Why is a leaf flat and wide?",
+       "opts": [
+        "to catch lots of sunlight",
+        "to look pretty",
+        "to hold the plant up"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The green stuff in a leaf that catches sunlight is called ____.",
+       "a": [
+        "chlorophyll"
        ]
       }
      ]
     ],
     [
-     "B. Draw",
+     "B. Alive?",
      [
+      {
+       "t": "sort",
+       "p": "Is it alive, or never alive?",
+       "items": [
+        "tulsi plant",
+        "stone",
+        "grass",
+        "plastic flower",
+        "neem tree",
+        "spoon"
+       ],
+       "cats": [
+        "alive",
+        "never alive"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "How do we know a plant is alive?",
+       "opts": [
+        "it grows and drinks water",
+        "it is green",
+        "it stays still"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think and draw",
+     [
+      {
+       "t": "write",
+       "p": "Why does a root grow long and thin? Say it, and a grown-up writes it.",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "The weed in the crack had no gardener. How did it get water and food?",
+       "lines": 2
+      },
       {
        "t": "draw",
        "p": "Draw your plant from the walk. Label the root, stem and leaf."
@@ -292,7 +448,7 @@
    "id": "ws2",
    "tier": "stretch",
    "title": "Plants and light",
-   "day": 5,
+   "day": 6,
    "sections": [
     [
      "A. Choose",
@@ -326,15 +482,62 @@
         "chocolate"
        ],
        "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "We turned the jar upside down. What did the roots do?",
+       "opts": [
+        "kept growing up",
+        "turned round and grew down",
+        "stopped growing"
+       ],
+       "a": 1
       }
      ]
     ],
     [
-     "B. Think",
+     "B. Which part do we eat?",
+     [
+      {
+       "t": "sort",
+       "p": "Which part of the plant is it?",
+       "items": [
+        "carrot",
+        "spinach",
+        "cauliflower",
+        "tomato",
+        "rice",
+        "potato"
+       ],
+       "cats": [
+        "root",
+        "stem",
+        "leaf",
+        "flower",
+        "fruit",
+        "seed"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Coloured water climbed up the ____ of the flower, through tiny pipes.",
+       "a": [
+        "stem"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
      [
       {
        "t": "write",
        "p": "Why do you think the dark moong grew so tall?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why do you think a plant needs its roots to grow down and its shoot to grow up?",
        "lines": 2
       }
      ]
@@ -345,7 +548,7 @@
    "id": "ws3",
    "tier": "challenge",
    "title": "Plant puzzles",
-   "day": 6,
+   "day": 7,
    "sections": [
     [
      "A. Puzzle",
@@ -357,7 +560,12 @@
       },
       {
        "t": "write",
-       "p": "If you turned a pot upside down for a week (carefully tied), which way would the stem grow? Guess, then tell why.",
+       "p": "If you turned a pot on its side for a week (carefully tied), which way would the stem grow? Which way would the roots grow? Guess, then tell why.",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "We put the pale moong from the dark cupboard on the windowsill. What do you think will happen in two days? How could we check?",
        "lines": 2
       },
       {
@@ -375,6 +583,69 @@
         "alive",
         "once alive",
         "never alive"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Odd one out",
+     [
+      {
+       "t": "mcq",
+       "p": "Which one is NOT a fruit (it doesn't hold seeds)?",
+       "opts": [
+        "tomato",
+        "bhindi",
+        "potato",
+        "brinjal"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "A potato has 'eyes' that grow into new shoots. So a potato is really a…",
+       "opts": [
+        "root",
+        "stem that grows under the ground",
+        "seed"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "J.C. Bose found that plants make tiny electric signals when hurt. Does that prove they feel pain?",
+       "opts": [
+        "yes, for sure",
+        "no, it proves nothing",
+        "not yet: we would need to know more"
+       ],
+       "a": 2
+      }
+     ]
+    ],
+    [
+     "C. Be a plant",
+     [
+      {
+       "t": "match",
+       "p": "What does the plant do? Match.",
+       "pairs": [
+        [
+         "dark cupboard",
+         "grows pale and tall"
+        ],
+        [
+         "sunny window",
+         "leans towards it"
+        ],
+        [
+         "jar turned upside down",
+         "roots turn to grow down"
+        ],
+        [
+         "coloured water",
+         "colour climbs into the petals"
+        ]
        ]
       }
      ]
@@ -428,6 +699,53 @@
    "why": "In the dark, seedlings use their stored food to grow tall and thin as fast as they can, searching for light, and they stay yellow because they make green chlorophyll only in light. In light they grow shorter, stronger and green.",
    "safety": "",
    "time": "10 min + 5 days"
+  },
+  {
+   "id": "e3",
+   "title": "Coloured water climbs the stem",
+   "day": 4,
+   "question": "How does water get from the bottom of a plant to the top?",
+   "need": [
+    "a glass",
+    "dark ink or food colour",
+    "a white flower (chrysanthemum, rose, white daisy), a celery stick or a balsam stem"
+   ],
+   "steps": [
+    "Half fill the glass with water and stir in plenty of colour.",
+    "A grown-up cuts the bottom of the stem at a slant.",
+    "Stand the stem in the coloured water and note the time.",
+    "Look after 1 hour, at bedtime and the next morning.",
+    "Next day, a grown-up cuts across the stem so your child can look at the cut end."
+   ],
+   "predict": "Ask: 'Will the colour stay in the glass? If it moves, where will it go?'",
+   "observe": "Coloured lines in the petals or leaves, and coloured dots in the cut stem.",
+   "why": "The stem has bundles of very thin tubes (called xylem) that carry water up from the roots. Water is pulled up them as the leaves and petals let water go into the air. The coloured dots in the cut stem are the ends of the tubes.",
+   "safety": "A grown-up does all the cutting. Food colour can stain, so use an old cloth.",
+   "time": "10 min + check next day"
+  },
+  {
+   "id": "e4",
+   "title": "The upside-down jar",
+   "day": 4,
+   "question": "Do roots always know which way is down?",
+   "need": [
+    "a clear jar",
+    "paper towel",
+    "4 rajma or chana seeds soaked overnight",
+    "a little water"
+   ],
+   "steps": [
+    "Line the inside of the jar with folded paper towel.",
+    "Push 4 soaked seeds between the towel and the glass, halfway up, so you can see them.",
+    "Put 2 cm of water in the bottom so the towel stays wet.",
+    "When the roots are about 1 cm long (2–3 days), turn the jar upside down and stand it on its lid, or lay it on its side.",
+    "Look every day for 3 days and draw the roots."
+   ],
+   "predict": "Ask: 'When the roots point up, will they keep growing up?'",
+   "observe": "Within a day or two, the root tips bend round and grow down again.",
+   "why": "Root tips have special cells that feel which way gravity pulls, a bit like tiny heavy grains settling at the bottom of a bag. The root then grows more on its top side, so it curves down. Shoots do the opposite. Scientists call this gravitropism.",
+   "safety": "",
+   "time": "10 min + 5 days"
   }
  ],
  "activities": [
@@ -449,13 +767,30 @@
     "Try three different leaves and compare their veins."
    ],
    "outcome": "A page of leaf prints showing the veins, the plant's water pipes."
+  },
+  {
+   "id": "a2",
+   "title": "The sabzi sort",
+   "day": 6,
+   "mins": 10,
+   "need": [
+    "six sheets of paper labelled root, stem, leaf, flower, fruit, seed",
+    "vegetables and foods from the kitchen"
+   ],
+   "steps": [
+    "Lay out the six papers.",
+    "Pick up each food and ask: 'Which part of the plant is this?'",
+    "Put it on the right paper. Cut one open if you need to look for seeds.",
+    "Talk about the surprises: potato (stem), cauliflower (flowers), tomato and bhindi (fruits), dal (seeds), carrot and mooli (roots), spinach (leaves)."
+   ],
+   "outcome": "A table showing that we eat every part of a plant."
   }
  ],
  "project": {
   "title": "My plant friend",
   "days": [
-   5,
-   6
+   6,
+   7
   ],
   "steps": [
    "Choose a plant and give it a name.",
@@ -495,6 +830,7 @@
    "Someone pulls you up as a weed: back 3",
    "Worms loosen the soil: +1",
    "Hot dry day, no water: back 1",
+   "Your roots grow down, deep: +1",
    "A child waters you: +2",
    "Turn towards the window: +1",
    "Grow a flower bud",
@@ -504,7 +840,8 @@
  "big": [
   "Plants have no eyes. How do they know where the light is?",
   "Is a plant still, or is it moving very, very slowly?",
-  "Where does a plant's food come from?",
+  "Where does a plant's food come from? Where does ours come from?",
+  "Who decides whether a plant is a weed?",
   "If you were a plant, what would you need most?"
  ],
  "challenge": [
@@ -515,6 +852,10 @@
   {
    "q": "Is a plant 'alive' in the same way you are?",
    "hint": "It grows, drinks, makes food, responds to light and makes babies (seeds). It can't walk or talk. Ask: does something need to move like us to be alive?"
+  },
+  {
+   "q": "People say a plant gets its food from the soil, like we get food from a plate. Is that right?",
+   "hint": "Soil gives water and a few minerals. The food itself, sugar, is made in the leaves from sunlight, water and air. That's why a plant in the dark starves even in good soil. Ask: what happened to our dark moong?"
   }
  ],
  "perspectives": [
@@ -525,6 +866,10 @@
   {
    "who": "A grandmother who keeps a tulsi",
    "view": "Many Indian families care for a tulsi every day, watering it and lighting a lamp near it. Ask: what do you think people learn from looking after one plant every day for years?"
+  },
+  {
+   "who": "A bee",
+   "view": "To a bee, a dandelion in a crack or a flower on a 'weed' is a meal. Ask: if bees named plants, which ones would they call weeds?"
   }
  ],
  "voices": [
@@ -536,7 +881,7 @@
    "now": "They were right. Scientists later found the message: a plant chemical called auxin. Plants have several light-sensing proteins, not eyes. And Francis did much of the work; his name is on the book, in smaller letters, 'assisted by Francis Darwin'.",
    "status": "accepted",
    "ask": "Our maze bean found the hole. Which part of it do you think was 'looking' for the light?",
-   "day": 6
+   "day": 7
   },
   {
    "id": "v2",
@@ -591,11 +936,16 @@
   {
    "idea": "Seeing without eyes.",
    "more": "Plants have special proteins that sense light and even its colour, so they can tell the difference between sunlight and the shade of another leaf."
+  },
+  {
+   "idea": "Plants feel the Earth's pull.",
+   "more": "Turn a sprouting seed upside down and its root turns round to grow down again. Roots feel gravity and grow towards it; shoots grow away from it."
   }
  ],
  "unknowns": [
   "Do plants feel anything when they are cut or eaten? They send electrical signals, but whether there is any 'feeling' is not known.",
-  "Plants can tell the colour of light and even 'remember' how long the nights have been. Scientists still don't fully understand how a plant without a brain keeps track of time."
+  "Plants can tell the colour of light and even 'remember' how long the nights have been. Scientists still don't fully understand how a plant without a brain keeps track of time.",
+  "How does a root tip decide where to go when it meets a stone, a worm or another root? Scientists can see roots turning, but the whole story of how they 'choose' is not known yet."
  ],
  "books": [
   {
@@ -630,16 +980,28 @@
    "a": "It makes the plant's food from sunlight, water and air."
   },
   {
+   "q": "How does water get from the roots to the leaves?",
+   "a": "Up tiny pipes in the stem, like the coloured water in our flower."
+  },
+  {
    "q": "Which way does a plant on a windowsill lean? Why?",
    "a": "Towards the window, because it grows towards light."
   },
   {
+   "q": "What did the roots do when we turned the jar upside down?",
+   "a": "They turned round and grew down again, because roots feel gravity."
+  },
+  {
    "q": "What happened to the moong in the dark?",
-   "a": "It grew tall, thin and yellow."
+   "a": "It grew tall, thin and yellow, looking for light; it can't make its green without light."
+  },
+  {
+   "q": "Name one thing we eat that is a root, one that is a leaf and one that is a seed.",
+   "a": "For example: carrot (root), spinach (leaf), dal or rice (seed)."
   },
   {
    "q": "Is a plant alive? How do you know?",
-   "a": "Yes: it grows, drinks, makes food, responds to light and makes seeds."
+   "a": "Yes: it grows, drinks, makes food, responds to light and gravity, and makes seeds."
   }
  ]
 }
