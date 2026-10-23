@@ -78,7 +78,7 @@ If you prefer the command line: `npx supabase login`, `npx supabase link --proje
 5. In the Pages project, **Custom domains → Set up a custom domain**: add `app.deepkids.in` only. Cloudflare creates the DNS record. Don't add `deepkids.in` or `www.deepkids.in`; those are your existing website.
 6. Open https://app.deepkids.in, tap **Continue with Google**, and sign in with an email on your test list.
 
-**Domain not on Cloudflare:** add it with **Add a site → deepkids.in → Free plan**. Cloudflare shows two nameservers. Change the nameservers at your registrar (where you bought the domain) to those two. That usually takes a few minutes, at most a day. Then do step 6.5. (Or, at your current DNS provider, add a CNAME record named `app` pointing to your `….pages.dev` address.)
+**Domain not on Cloudflare:** don't move the whole domain (that could disturb your existing site and email). In the Pages project's **Custom domains**, add `app.deepkids.in`; Cloudflare then shows a CNAME record to create. At the company that manages deepkids.in's DNS (GoDaddy, Hostinger, etc.), add a **CNAME** record with name `app` and value your `….pages.dev` address. It usually works within an hour.
 
 ## 7. Bring your family's data across
 
