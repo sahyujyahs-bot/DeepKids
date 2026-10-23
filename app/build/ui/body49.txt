@@ -1,0 +1,11 @@
+# printable worksheets on each chapter
+rep('''let h=`<div class="sech" style="margin-top:6px"><h3 style="font-size:19px">Everything for this chapter</h3></div>`;''','''let h=`<div class="sech" style="margin-top:6px"><h3 style="font-size:19px">Everything for this chapter</h3></div>`+printSheets(u);''')
+rep('folder:folderView,plus:plusView,qzs:qzsView,quizz:quizzView,rfset:rfsetView,wfguide:wfGuideView,','folder:folderView,plus:plusView,qzs:qzsView,quizz:quizzView,rfset:rfsetView,wfguide:wfGuideView,wsv:wsViewSheet,')
+rep('''   case "tqt":{''','''   case "wsprint":{const u=unitByK(k),w=wsOf(u)[+b.dataset.i];if(w){sfx("ok");printDoc(wsPage(w,u))}break}
+   case "wssave":{const u=unitByK(k),w=wsOf(u)[+b.dataset.i];if(w)saveDoc(wsPage(w,u),`${w.title.replace(/[^\\w ]+/g,"").trim()}.html`);break}
+   case "wsview":{sfx("flip");openSheet({mode:"wsv",k,i:+b.dataset.i});break}
+   case "tqt":{''')
+CSS7='''.pws{display:flex;gap:10px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}.pws b{font:600 15.5px var(--display)}.wsframe{width:100%;height:72vh;border:1px solid var(--line);border-radius:12px;background:#eee;margin-top:8px}
+'''
+head=head.replace('</style>',CSS7+'</style>',1)
+rep('''if(t==="ws")return `<p class="sm muted">Three levels: core for everyone''','''if(t==="ws")return printSheets(u)+`<p class="sm muted">Three levels: core for everyone''')
