@@ -920,6 +920,10 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 
 
 
+
+
+
+
 const DATA = /*DATA*/;
 const SUBJ = DATA.subjects, SUBJ_KEYS = Object.keys(SUBJ);
 const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)"};
@@ -1160,6 +1164,24 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* ---------- your data: save a full copy (plan, progress, answers, photos) and bring it into another device or the website ---------- */
+function dataBox(){const P=ui.dx;return `<p class="xs muted">One file with everything: your plan, progress, answers, routines and photos. Use it to keep a backup, or to move to the DeepKids website.</p>
+  <div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn soft sm" data-act="dexport" ${P?"disabled":""}>${P?.what==="out"?esc(P.msg):"Save a copy"}</button><label class="btn line sm" style="cursor:pointer">${P?.what==="in"?esc(P.msg):"Bring in a copy"}<input type="file" id="importFile" accept=".zip,.json,application/zip,application/json" hidden ${P?"disabled":""}></label></div>`}
+async function dataExport(){ui.dx={what:"out",msg:"Packing…"};renderSheet();const files=[{name:"deepkids-data.json",data:JSON.stringify({app:"DeepKids",v:1,exported:new Date().toISOString(),state:S},null,1)}];let miss=0,i=0;const W=S.work||[];
+  for(const w of W){i++;ui.dx.msg=`Adding photos (${i} of ${W.length})…`;renderSheet();try{const r=await fetch("/_blob/"+encodeURIComponent(w.id));if(!r.ok)throw 0;files.push({name:"photos/"+encodeURIComponent(w.id),data:await r.blob()})}catch(e){miss++}}
+  try{const blob=await makeZip(files),name=`DeepKids ${fsafe(S.child||"family")} ${today}.zip`;ui.dx=null;renderSheet();await saveDoc(blob,name);if(miss)toast(`${miss} photo${miss>1?"s":""} couldn't be added`)}catch(e){ui.dx=null;renderSheet();toast("Couldn't make the file")}}
+function readZip(buf){const u=new Uint8Array(buf),dv=new DataView(buf),out={},dec=new TextDecoder();let e=u.length-22;while(e>=0&&dv.getUint32(e,true)!==0x06054b50)e--;if(e<0)throw new Error("not a zip");const n=dv.getUint16(e+10,true);let p=dv.getUint32(e+16,true);
+  for(let k=0;k<n;k++){const method=dv.getUint16(p+10,true),size=dv.getUint32(p+20,true),nl=dv.getUint16(p+28,true),xl=dv.getUint16(p+30,true),cl=dv.getUint16(p+32,true),lo=dv.getUint32(p+42,true),name=dec.decode(u.subarray(p+46,p+46+nl));
+    if(method===0){const lnl=dv.getUint16(lo+26,true),lxl=dv.getUint16(lo+28,true),st=lo+30+lnl+lxl;out[name]=u.slice(st,st+size)}p+=46+nl+xl+cl}return out}
+async function dataImport(file){let data=null,photos={};try{if(/\.zip$/i.test(file.name)||file.type.includes("zip")){const Z=readZip(await file.arrayBuffer());data=JSON.parse(new TextDecoder().decode(Z["deepkids-data.json"]));for(const k in Z)if(k.startsWith("photos/"))photos[decodeURIComponent(k.slice(7))]=Z[k]}else data=JSON.parse(await file.text())}catch(e){toast("That isn't a DeepKids file");return}
+  const st=data?.state;if(!st||st.setup===undefined){toast("That isn't a DeepKids file");return}
+  if(!confirm(`Bring in ${st.child||"this family"}'s data? It replaces what's on this device now. Your current data is kept as a backup file first.`))return;
+  try{const bk=JSON.stringify({app:"DeepKids",v:1,exported:new Date().toISOString(),state:S});lsSet("dk-backup-"+(ACC||"guest"),bk)}catch(e){}
+  ui.dx={what:"in",msg:"Bringing it in…"};renderSheet();const W=st.work||[],ids=Object.keys(photos);let i=0,miss=0;
+  if(ids.length&&ASSETS){for(const w of W){const b=photos[w.id];if(!b){continue}i++;ui.dx.msg=`Photos (${i} of ${ids.length})…`;renderSheet();try{const r=await ASSETS.upload(new Blob([b],{type:w.type||"image/jpeg"}));w.id=r.id}catch(e){miss++}}}
+  else if(ids.length)miss=ids.length;
+  S={...fresh(),...st,acct:S.acct};ui.dx=null;sfx("win");toast(miss?`Brought in. ${miss} photo${miss>1?"s":""} couldn't be added here.`:"All brought in");commit()}
+
 /* Today always opens on today: leaving the tab, or the app, resets a day you browsed to */
 let hiddenAt=0;
 document.addEventListener("visibilitychange",()=>{if(document.hidden){hiddenAt=Date.now();return}if(hiddenAt&&Date.now()-hiddenAt>20000&&ui.tday){ui.tday=null;render()}hiddenAt=0});
@@ -1549,6 +1571,7 @@ function schoolView(){document.getElementById("sheetTitle").textContent="Moving 
   let h=`<p class="sm muted">A full record of what ${esc(S.child||"your child")} has covered at home, by board and level, with scores. Download it as a transcript for the new school.</p>
   <div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn accent sm" data-act="tsave">Download transcript</button><button class="btn soft sm" data-act="tprint">Print or save as PDF</button></div>
   <details class="card"><summary><b>Details for the school</b> <span class="xs muted">· optional</span></summary><div class="fgrid" style="margin-top:10px">${f("dob","Date of birth","date")}${f("to","School applying to","text","e.g. Kendriya Vidyalaya, Indiranagar")}${f("cls","Class applying for","text","e.g. Class 4")}${f("contact","Parent phone or email")}</div><div class="field"><label for="sch-note">A note for the school</label><textarea class="inp" id="sch-note" data-sch="note" rows="3" placeholder="How you homeschool, strengths, anything they should know">${esc(I.note||"")}</textarea></div></details>`;
+  h+=testSection();
   h+=testSection();
   h+=testSection();
   h+=testSection();
@@ -2289,7 +2312,7 @@ document.addEventListener("change",async e=>{const t=e.target;
   if(t.id==="obExam"&&ob){ob.d.exam=t.checked;return}
   if(t.id==="sMode"){S.mode=t.value;S.plus=t.value!=="books";sfx("tick");commit();return}
   if(t.id==="sExam"){S.exam=t.checked;sfx("tick");commit();return}
-  if(t.dataset.remf){REM()[t.dataset.remf]=t.value;commit();return}if(t.dataset.remck){const R=REM(),k=t.dataset.remck;if(k==="notif"&&t.checked&&typeof Notification!=="undefined"){Notification.requestPermission().then(p=>{R.notif=p==="granted";if(!R.notif)toast("Pop-ups were not allowed on this phone");commit()}).catch(()=>{R.notif=false;toast("Pop-ups aren't available here");commit()});return}R[k]=t.checked;commit();return}if(t.dataset.tsel){const T=tSetup();T[t.dataset.tsel]=t.value;sfx("tap");commit();return}if(t.dataset.zip){const Z=zipSel();t.checked?Z[t.dataset.zip].add(t.value):Z[t.dataset.zip].delete(t.value);ui.zip=null;render();return}if(t.dataset.evf){const e=(S.events||[]).find(x=>x.id===t.dataset.id);if(e){e[t.dataset.evf]=t.value||(t.dataset.evf==="title"?e.title:null);save()}return}if(t.id==="upFiles"&&t.files?.length){const F=[...t.files];t.value="";upFiles(F);return}if(t.dataset.upk!==undefined){const w=(S.work||[]).find(x=>x.id===t.dataset.upk);if(w){w.k=t.value;sfx("tap");commit()}return}if(t.dataset.sch){S.school={...(S.school||{}),[t.dataset.sch]:t.value};save();return}if(t.id==="icsFile"&&t.files?.[0]){let items=[];try{items=parseICS(await t.files[0].text())}catch(err){}ui.dump={items,questions:[],text:"",err:items.length?"":"No upcoming events found in that file."};sfx(items.length?"ok":"no");render();setTimeout(()=>document.querySelector(".dump")?.scrollIntoView({behavior:"smooth",block:"start"}),50);return}
+  if(t.dataset.remf){REM()[t.dataset.remf]=t.value;commit();return}if(t.dataset.remck){const R=REM(),k=t.dataset.remck;if(k==="notif"&&t.checked&&typeof Notification!=="undefined"){Notification.requestPermission().then(p=>{R.notif=p==="granted";if(!R.notif)toast("Pop-ups were not allowed on this phone");commit()}).catch(()=>{R.notif=false;toast("Pop-ups aren't available here");commit()});return}R[k]=t.checked;commit();return}if(t.dataset.tsel){const T=tSetup();T[t.dataset.tsel]=t.value;sfx("tap");commit();return}if(t.dataset.zip){const Z=zipSel();t.checked?Z[t.dataset.zip].add(t.value):Z[t.dataset.zip].delete(t.value);ui.zip=null;render();return}if(t.dataset.evf){const e=(S.events||[]).find(x=>x.id===t.dataset.id);if(e){e[t.dataset.evf]=t.value||(t.dataset.evf==="title"?e.title:null);save()}return}if(t.id==="importFile"&&t.files?.[0]){const f=t.files[0];t.value="";dataImport(f);return}if(t.id==="upFiles"&&t.files?.length){const F=[...t.files];t.value="";upFiles(F);return}if(t.dataset.upk!==undefined){const w=(S.work||[]).find(x=>x.id===t.dataset.upk);if(w){w.k=t.value;sfx("tap");commit()}return}if(t.dataset.sch){S.school={...(S.school||{}),[t.dataset.sch]:t.value};save();return}if(t.id==="icsFile"&&t.files?.[0]){let items=[];try{items=parseICS(await t.files[0].text())}catch(err){}ui.dump={items,questions:[],text:"",err:items.length?"":"No upcoming events found in that file."};sfx(items.length?"ok":"no");render();setTimeout(()=>document.querySelector(".dump")?.scrollIntoView({behavior:"smooth",block:"start"}),50);return}
   if(t.id==="dumpImg"){ui.dump=ui.dump||{};ui.dump.text=document.getElementById("dumpText")?.value||"";ui.dump.files=[...t.files].slice(0,4);render();return}
   if(t.dataset.upload&&t.files?.length){if(!ASSETS){toast("Photos can't be saved in this view");return}const k=t.dataset.upload,u=unitBy(k);toast("Saving photo…");
     try{for(const f of [...t.files].slice(0,4)){const r=await ASSETS.upload(f);S.work=[...(S.work||[]),{id:r.id,k,date:today,title:u?.title||""}]}sfx("ok");toast("Photo saved to the journey");commit()}catch(err){toast({too_large:"That photo is too big (20 MB limit)",unsupported_type:"Use a JPG, PNG or WebP photo",quota_or_state:"Photo storage is full"}[err?.code]||"Couldn't save the photo. Try again.")}return}
@@ -2481,6 +2504,7 @@ function settingsView(){const grp=(id,t,sub,body,open)=>`<details class="card sg
   ${grp("day","Your day",`Lessons from ${clock(hm(D().start))} · lunch ${clock(hm(D().lunch))}`,plPart("day"))}
   ${grp("cal","Calendar link",S.cal?.on?"Google Calendar linked":"Not linked",calendarCard())}
   ${grp("rem","Reminders",R.time?`Daily at ${clock(hm(R.time))}`:"Free-time nudges on Today",remView())}
+  ${grp("data","Your data","Save a copy, or bring one in from another device",dataBox())}
   ${grp("sound","Sound and reading aloud",`${soundOn?"Sounds on":"Sounds off"} · ${S.autoRead?"reads each step aloud":"read aloud on tap"}`,`<label class="zrow"><input type="checkbox" data-act="sndtoggle" ${soundOn?"checked":""}><span><b class="sm">Sounds</b><br><span class="xs muted">Little chimes when things are done</span></span></label><label class="zrow"><input type="checkbox" data-act="autoread" ${S.autoRead?"checked":""}><span><b class="sm">Read each lesson step aloud</b><br><span class="xs muted">Or tap 🔊 on any screen to hear it</span></span></label>`)}
   <p class="xs muted">${syncMode==="account"?`Everything is saved privately to your claude.ai account${lastSaved?" · last saved "+new Date(lastSaved).toLocaleTimeString([],{hour:"numeric",minute:"2-digit"}):""}. It follows you to any device where you're signed in.`:store?"Couldn't reach your account just now. Saved on this device; it will retry.":"Saved in this browser only."}</p>`;document.getElementById("sheetTitle").textContent="Settings";return out}
 
@@ -2757,6 +2781,7 @@ function onAct(e){
    case "seg":{navPush();ui.seg={...(ui.seg||{}),[b.dataset.k]:b.dataset.v};sfx("tap");render();scrollTo(0,0);break}
    case "gotab":{navPush();const dl=document.getElementById("sheet");if(dl?.open){ui.sheet=null;dl.close()}tab=b.dataset.tab;if(b.dataset.seg)ui.seg={...(ui.seg||{}),[tab]:b.dataset.seg};sfx("flip");render();scrollTo(0,0);break}
    case "sndtoggle":{document.getElementById("snd")?.click();setTimeout(()=>{if(ui.sheet)renderSheet()},50);break}
+   case "dexport":{dataExport();break}
    case "todo":{sfx("flip");openSheet({mode:"todo"});break}
    case "lt":{navPush();ui.lt=b.dataset.t;sfx("tap");render();break}
    case "invadd":{S.inv=[...(S.inv||[]),{id:Math.random().toString(36).slice(2,9),name:b.dataset.n,cat:b.dataset.c||"other",from:"tap"}];sfx("ok");toast("Added to what we have");commit();break}

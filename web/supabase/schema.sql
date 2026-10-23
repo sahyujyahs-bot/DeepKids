@@ -1,0 +1,77 @@
+-- DeepKids database. Run once in Supabase: Dashboard -> SQL Editor -> New query -> paste -> Run.
+-- Safe to run again: everything is "if not exists" / "or replace".
+
+-- 1. Each family's private documents (plan, progress, answers, routines, settings).
+--    The app saves one JSON document per path, e.g. data/users/<user id>/acct_<phone>.
+create table if not exists public.docs (
+  path        text primary key,
+  owner       uuid not null references auth.users(id) on delete cascade default auth.uid(),
+  data        jsonb not null default '{}'::jsonb,
+  updated_at  timestamptz not null default now()
+);
+create index if not exists docs_owner on public.docs(owner);
+alter table public.docs enable row level security;
+drop policy if exists "own docs" on public.docs;
+create policy "own docs" on public.docs for all to authenticated
+  using (owner = auth.uid())
+  with check (owner = auth.uid() and path like 'data/users/' || auth.uid()::text || '/%');
+
+-- 2. Shared library: topics one family explores are saved for every family; searches help us see what's wanted.
+create table if not exists public.shared (
+  id          text not null,
+  coll        text not null check (coll in ('topics','searches')),
+  data        jsonb not null,
+  by_user     uuid default auth.uid() references auth.users(id) on delete set null,
+  created_at  timestamptz not null default now(),
+  primary key (coll, id)
+);
+alter table public.shared enable row level security;
+drop policy if exists "read shared" on public.shared;
+drop policy if exists "add shared" on public.shared;
+drop policy if exists "edit own shared" on public.shared;
+create policy "read shared" on public.shared for select to authenticated using (coll = 'topics');
+create policy "add shared" on public.shared for insert to authenticated with check (by_user = auth.uid());
+create policy "edit own shared" on public.shared for update to authenticated using (by_user = auth.uid()) with check (by_user = auth.uid());
+
+-- 3. Claude use per family per day (written only by the server function, never by the app).
+create table if not exists public.ai_usage (
+  user_id     uuid not null references auth.users(id) on delete cascade,
+  day         date not null,
+  calls       int not null default 0,
+  in_tokens   bigint not null default 0,
+  out_tokens  bigint not null default 0,
+  primary key (user_id, day)
+);
+alter table public.ai_usage enable row level security;   -- no policies: the app can't read or write it
+
+-- 4. Optional invite list (used when the function's INVITE_ONLY secret is "true").
+create table if not exists public.invites (
+  email       text primary key,
+  note        text,
+  added_at    timestamptz not null default now()
+);
+alter table public.invites enable row level security;    -- no policies: manage it in the dashboard
+
+-- 5. Photos and files: a private bucket; each family can only reach its own folder (<user id>/...).
+insert into storage.buckets (id, name, public, file_size_limit)
+values ('uploads', 'uploads', false, 20971520)
+on conflict (id) do update set public = false, file_size_limit = 20971520;
+drop policy if exists "own uploads read" on storage.objects;
+drop policy if exists "own uploads add" on storage.objects;
+drop policy if exists "own uploads remove" on storage.objects;
+create policy "own uploads read" on storage.objects for select to authenticated
+  using (bucket_id = 'uploads' and (storage.foldername(name))[1] = auth.uid()::text);
+create policy "own uploads add" on storage.objects for insert to authenticated
+  with check (bucket_id = 'uploads' and (storage.foldername(name))[1] = auth.uid()::text);
+create policy "own uploads remove" on storage.objects for delete to authenticated
+  using (bucket_id = 'uploads' and (storage.foldername(name))[1] = auth.uid()::text);
+
+-- 6. A simple view for you (dashboard only): families, last active, Claude use this month.
+create or replace view public.admin_families with (security_invoker = true) as
+select u.email, u.created_at as joined, max(d.updated_at) as last_saved,
+       (select coalesce(sum(calls),0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())) as claude_calls_this_month,
+       (select coalesce(sum(in_tokens),0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())) as in_tokens_this_month,
+       (select coalesce(sum(out_tokens),0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())) as out_tokens_this_month
+from auth.users u left join public.docs d on d.owner = u.id
+group by u.id, u.email, u.created_at;
+revoke all on public.admin_families from anon, authenticated;
