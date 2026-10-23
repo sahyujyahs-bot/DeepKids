@@ -916,6 +916,10 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 
 
 
+
+
+
+
 const DATA = /*DATA*/;
 const SUBJ = DATA.subjects, SUBJ_KEYS = Object.keys(SUBJ);
 const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)"};
@@ -1156,6 +1160,10 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* Today always opens on today: leaving the tab, or the app, resets a day you browsed to */
+let hiddenAt=0;
+document.addEventListener("visibilitychange",()=>{if(document.hidden){hiddenAt=Date.now();return}if(hiddenAt&&Date.now()-hiddenAt>20000&&ui.tday){ui.tday=null;render()}hiddenAt=0});
+
 /* ---------- one clear home for everything: 4 tabs, each with a few named parts, plus Settings ---------- */
 const SEGS={
   week:[["cal","Calendar","Tell DeepKids anything, and see the day, week, month or year"],["routines","Routines","Classes, tuitions, rest, outings, to-dos and notes you've added"],["lessons","Lesson plan","What comes next in each subject, and each subject's pace"]],
@@ -1541,6 +1549,7 @@ function schoolView(){document.getElementById("sheetTitle").textContent="Moving 
   let h=`<p class="sm muted">A full record of what ${esc(S.child||"your child")} has covered at home, by board and level, with scores. Download it as a transcript for the new school.</p>
   <div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn accent sm" data-act="tsave">Download transcript</button><button class="btn soft sm" data-act="tprint">Print or save as PDF</button></div>
   <details class="card"><summary><b>Details for the school</b> <span class="xs muted">· optional</span></summary><div class="fgrid" style="margin-top:10px">${f("dob","Date of birth","date")}${f("to","School applying to","text","e.g. Kendriya Vidyalaya, Indiranagar")}${f("cls","Class applying for","text","e.g. Class 4")}${f("contact","Parent phone or email")}</div><div class="field"><label for="sch-note">A note for the school</label><textarea class="inp" id="sch-note" data-sch="note" rows="3" placeholder="How you homeschool, strengths, anything they should know">${esc(I.note||"")}</textarea></div></details>`;
+  h+=testSection();
   h+=testSection();
   h+=testSection();
   h+=testSection();
@@ -2546,7 +2555,7 @@ function renderSheet(top){if(!ui.sheet)return;{const ex=document.getElementById(
 document.getElementById("sheetClose").onclick=()=>{sfx("tap");goBack()};
 sheet.addEventListener("close",()=>{if(sheet.open)return;ui.phelp=null;sheet.className="sheet";ui.sheet=null;clearInterval(tick);render();updBack()});
 const NAV=[["today","Today"],["week","Plan"],["journey","Progress"],["library","Library"]];
-function render(){fixWork();fixRoutines();dedupeEv();rollDay();_sess=null;const m=document.getElementById("main"),nav=document.getElementById("nav");
+function render(){if(tab==="today"&&ui.lastTab&&ui.lastTab!=="today")ui.tday=null;ui.lastTab=tab;fixWork();fixRoutines();dedupeEv();rollDay();_sess=null;const m=document.getElementById("main"),nav=document.getElementById("nav");
   if(!ACC){nav.hidden=true;document.getElementById("me").hidden=true;document.getElementById("snd").hidden=true;document.getElementById("hello").innerHTML=`${youBlob("bl bob")}<div><b>Welcome</b><span>DeepKids home planner</span></div>`;m.replaceChildren(el(`<div class="wrap">${loginView()}</div>`));if(sheet.open)sheet.close();return}
   document.getElementById("snd").hidden=false;
   if(!S.setup&&!ob)return startOnboarding(0);
