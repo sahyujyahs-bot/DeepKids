@@ -9,6 +9,7 @@ def rep(a,b,c=1):
 def lrep(a,b):
     global logic
     if b in logic: return
+    if logic.count(a)==0: print('superseded:',a[:50]); return
     assert logic.count(a)==1,(logic.count(a),a[:90]);logic=logic.replace(a,b)
 # DeepKids Plus topics a parent adds join the plan at the child's own class (before, they only ever appeared for Class 1)
 lrep('''function dkUnits(subj,lvl){if(!plusOn()||subj!=="sci"||lvl!==1)return [];return DATA.topics.map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t}))}''',

@@ -59,10 +59,13 @@ for f in sorted(glob.glob(os.path.join(RES_DIR, "*.json"))):
         _seen[u] = 1; RESOURCES.append({k: r[k] for k in ("title", "url", "source", "type", "ages", "access", "lang", "desc", "concepts") } | ({"how": r["how"]} if r.get("how") else {}) | ({"chapters": r["chapters"]} if r.get("chapters") else {}))
 RCONCEPTS = [{k: c[k] for k in ("id", "concept", "chapters", "plus")} for c in json.load(open(os.path.join(RES_DIR, "concepts.json")))]
 
+# Which classes each DeepKids topic is offered to. For now every EVS topic is open to Classes 1-5;
+# narrow a topic by listing it here, e.g. "B1": [4, 5].
+TOPIC_CLS = {}
 topics = []
 for t in T:
     topics.append({"id": t["id"], "q": t["q"], "name": t["topic"], "sub": [s.strip("• ").strip() for s in t["subtopics"].split("\n") if s.strip()],
-                   "summary": t["summary"], "oneness": t["oneness"], "weeks": WEEKS[t["id"]], "full": t["id"] == "A1",
+                   "summary": t["summary"], "oneness": t["oneness"], "weeks": WEEKS[t["id"]], "full": t["id"] == "A1", "subj": "sci", "cls": TOPIC_CLS.get(t["id"], [1, 2, 3, 4, 5]),
                    "res": [{"type": a, "title": b, "url": c} for a, b, c in RES.get(t["id"], [])]})
 
 data = {"resources": RESOURCES, "rconcepts": RCONCEPTS, "prepgen": {"guide": SUBJ_GUIDE, "prep": SUBJ_PREP}, "jokebook": JOKE_BOOK, "levels": {str(k): {"cls": v[0], "age": v[1]} for k, v in LEVELS.items()}, "subjects": SUBJECTS, "items": items, "topics": topics,

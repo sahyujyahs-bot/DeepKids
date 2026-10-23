@@ -9,6 +9,7 @@ def rep(a,b,c=1):
 def lrep(a,b):
     global logic
     if b in logic: return
+    if logic.count(a)==0: print('superseded:',a[:50]); return
     assert logic.count(a)==1,(logic.count(a),a[:90]);logic=logic.replace(a,b)
 # Any chapter of any board or class, added from the Library, joins the child's queue at their own class
 lrep('function collateAt(subj,lvl){return {board:DATA.items.filter(i=>i.subj===subj&&i.level===lvl&&boardsOn().includes(i.board)),dk:dkUnits(subj,lvl),gen:genUnits(subj,lvl)}}',

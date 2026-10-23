@@ -518,6 +518,15 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 .locked{position:relative}.locked .lk{position:absolute;right:-4px;top:-6px;font-size:12px;background:#fff;border-radius:50%;width:18px;height:18px;display:grid;place-items:center;box-shadow:0 1px 3px rgba(0,0,0,.2)}.btn.locked .lk{position:static;width:auto;height:auto;background:none;box-shadow:none;margin-left:4px}
 .needai{display:flex;gap:10px;align-items:center;padding:12px;border-radius:16px;background:#FFF0C9;border:2px dashed rgba(43,35,64,.15)}.needai>.lk{font-size:20px}.needai>div{flex:1;min-width:0}
 .pluslist{display:grid;gap:8px;padding-left:0;list-style:none;font-size:15px}.pluslist li{padding:10px 12px;border-radius:14px;background:var(--surface)}
+.trow{display:flex;gap:10px;align-items:center;padding:12px;border-radius:16px;background:var(--surface)}.trow b{font:600 15.5px var(--display)}.tic{font-size:22px;flex:none}
+.qlist{display:grid;gap:8px}.qrow2{display:flex;gap:8px;align-items:center;padding:10px 10px 10px 4px;border-radius:16px;background:var(--surface);transition:box-shadow .15s}.qrow2 b{font:600 15px var(--display)}.qrow2.drag{box-shadow:0 8px 22px rgba(43,35,64,.22);position:relative;z-index:2;opacity:.95}
+.dh{touch-action:none;cursor:grab;font-size:22px;padding:8px 6px;color:var(--muted);user-select:none;-webkit-user-select:none}.iconbtn.qb{width:34px;height:34px;font-size:12px}
+.qpick{display:inline-flex;gap:6px;align-items:center;flex-wrap:wrap}.qtypes{overflow-x:auto;flex-wrap:nowrap}.qtypes small{opacity:.7}
+@keyframes dkflash{0%,60%{box-shadow:0 0 0 3px var(--sun,#FFD54F)}100%{box-shadow:0 0 0 0 transparent}}.flash{animation:dkflash 2.2s ease-out}
+.subtap{display:block;background:none;border:0;padding:0;margin:0;text-align:left;font:inherit;font-weight:700;color:var(--muted);cursor:pointer}.subtap .chev{font-size:13px;font-weight:600;white-space:nowrap;opacity:.85}
+.nowalt{background:none;border:0;padding:6px 0 0;font:600 14px var(--body,system-ui);color:var(--ink,#2B2340);opacity:.7;cursor:pointer;text-align:left}
+.phead{display:grid;gap:6px;margin-bottom:10px}.flow{display:flex;flex-wrap:wrap;gap:6px}.fl{display:inline-flex;gap:5px;align-items:center;font-size:12.5px;padding:4px 10px;border-radius:999px}.fl i{font-style:normal;font-weight:700}.fl.bk{background:#FFF0C9;color:#5C4300}.fl.dk{background:#E3F3EC;color:#24553A}
+.qa-in{display:grid;gap:10px;margin:4px 0 14px;padding:14px;border-radius:18px;background:var(--surface);border:2px solid rgba(43,35,64,.08)}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}</style>
 </head>
@@ -549,9 +558,9 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 
-<script>window.DK_BUILD="6111bc427a3b59"</script>
-<script src="/config.js?v=6111bc427a3b59"></script>
+<script>window.DK_BUILD="9095533775b23a"</script>
+<script src="/config.js?v=9095533775b23a"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=6111bc427a3b59"></script>
+<script src="/platform.js?v=9095533775b23a"></script>
 </body>
 </html>
