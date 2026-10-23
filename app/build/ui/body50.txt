@@ -1,0 +1,5 @@
+# learning profile in Plan > Tell DeepKids, and its buttons
+rep('id="paceSec">${dayTimesCard()}${subjCard()}','id="paceSec">${dayTimesCard()}${subjCard()}${profCard()}')
+rep('''   case "tqt":{''','''   case "plv":case "pdep":{const s=b.dataset.s,f=a==="plv"?"lvl":"depth";S.prof={...(S.prof||{}),[s]:{...((S.prof||{})[s]||{}),[f]:b.dataset.v,...(a==="plv"?{why:"set by you",at:today}:{})}};sfx("tick");save();render();break}
+   case "tqt":{''')
+rep('h=H("Draw it",b.inst||"")','h=H(b.title||"Draw it",b.inst||"")')
