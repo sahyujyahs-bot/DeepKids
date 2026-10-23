@@ -4,7 +4,7 @@ The website is the same app as the claude.ai artifact. Instead of claude.ai it u
 
 | Need | Service | Cost for 20–100 families |
 |---|---|---|
-| Website at deepkids.in | Cloudflare Pages | Free |
+| The app at app.deepkids.in (your existing deepkids.in site stays as it is) | Cloudflare Pages | Free |
 | Sign-in | Google, through Supabase Auth | Free |
 | Each family's data | Supabase database (private per family) | Free tier (500 MB) |
 | Photos and files | Supabase Storage (private per family, photos shrunk to ~250 KB) | Free up to 1 GB |
@@ -34,13 +34,13 @@ Do the steps in order. Each takes 5–15 minutes. Keep a note of the values mark
    - Under **Branding**, add the authorised domain `deepkids.in`.
    - Under **Audience**, leave it in **Testing** for now and add the Gmail addresses of the families you invite (up to 100). This doubles as your invite list. Later, click **Publish app**. DeepKids asks only for name and email, which doesn't need Google's review.
 3. **Clients → Create client → Web application**:
-   - Authorised JavaScript origins: `https://deepkids.in`
+   - Authorised JavaScript origins: `https://app.deepkids.in`
    - Authorised redirect URIs: `https://<your-project>.supabase.co/auth/v1/callback`, using your Project URL from step 1.3
    - **Copy** the **Client ID** and **Client secret**.
 4. Back in Supabase, open **Authentication → Sign In / Providers → Google**. Turn it on, paste the Client ID and secret, and **Save**.
 5. Open **Authentication → URL Configuration**:
-   - Site URL: `https://deepkids.in`
-   - Redirect URLs: add `https://deepkids.in/**` and `https://www.deepkids.in/**`
+   - Site URL: `https://app.deepkids.in`
+   - Redirect URLs: add `https://app.deepkids.in/**`
 
 ## 3. Claude API key
 
@@ -65,7 +65,7 @@ If you prefer the command line: `npx supabase login`, `npx supabase link --proje
 1. Edit [`public/config.js`](public/config.js) and fill in `supabaseUrl` and `supabaseAnonKey` from step 1.3.
 2. Commit and push. (Or tell Claude in this project the two values and it will do it.)
 
-## 6. Cloudflare Pages and deepkids.in
+## 6. Cloudflare Pages and app.deepkids.in
 
 1. Log in at dash.cloudflare.com. If **deepkids.in** is listed under **Websites** (or **Domains**), its DNS is on Cloudflare. If it isn't, see "Domain not on Cloudflare" below.
 2. **Workers & Pages → Create → Pages → Connect to Git**. Allow Cloudflare to read the GitHub repo `deepkids`, then choose it.
@@ -75,20 +75,20 @@ If you prefer the command line: `npx supabase login`, `npx supabase link --proje
    - Build command: *(leave empty)*
    - Build output directory: `web/public`
 4. Click **Save and Deploy**. You get a test address like `deepkids.pages.dev`.
-5. In the Pages project, **Custom domains → Set up a custom domain**: add `deepkids.in`, then `www.deepkids.in`. Cloudflare creates the DNS records. **If deepkids.in shows another website today, this replaces it.**
-6. Open https://deepkids.in, tap **Continue with Google**, and sign in with an email on your test list.
+5. In the Pages project, **Custom domains → Set up a custom domain**: add `app.deepkids.in` only. Cloudflare creates the DNS record. Don't add `deepkids.in` or `www.deepkids.in`; those are your existing website.
+6. Open https://app.deepkids.in, tap **Continue with Google**, and sign in with an email on your test list.
 
-**Domain not on Cloudflare:** add it with **Add a site → deepkids.in → Free plan**. Cloudflare shows two nameservers. Change the nameservers at your registrar (where you bought the domain) to those two. That usually takes a few minutes, at most a day. Then do step 6.5.
+**Domain not on Cloudflare:** add it with **Add a site → deepkids.in → Free plan**. Cloudflare shows two nameservers. Change the nameservers at your registrar (where you bought the domain) to those two. That usually takes a few minutes, at most a day. Then do step 6.5. (Or, at your current DNS provider, add a CNAME record named `app` pointing to your `….pages.dev` address.)
 
 ## 7. Bring your family's data across
 
 1. In the claude.ai artifact: **Settings → Your data → Save a copy**. This makes a .zip with everything, including photos.
-2. On deepkids.in, sign in and finish the short phone-and-name step. Then **Settings → Your data → Bring in a copy**, and pick that .zip.
+2. On app.deepkids.in, sign in and finish the short phone-and-name step. Then **Settings → Your data → Bring in a copy**, and pick that .zip.
 
 ## 8. Install on a phone
 
-- **Android (Chrome):** open deepkids.in, then menu ⋮ → **Add to Home screen** (or **Install app**).
-- **iPhone (Safari):** open deepkids.in, then Share → **Add to Home Screen**.
+- **Android (Chrome):** open app.deepkids.in, then menu ⋮ → **Add to Home screen** (or **Install app**).
+- **iPhone (Safari):** open app.deepkids.in, then Share → **Add to Home Screen**.
 
 ---
 

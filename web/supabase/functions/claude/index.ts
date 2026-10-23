@@ -8,7 +8,7 @@ import { createClient } from "npm:@supabase/supabase-js@2.118.0";
 
 const MODEL = Deno.env.get("CLAUDE_MODEL") ?? "claude-opus-5-5";
 const DAILY_CALLS = Number(Deno.env.get("DAILY_CALLS") ?? "80");
-const ORIGINS = (Deno.env.get("ALLOWED_ORIGINS") ?? "https://deepkids.in,https://www.deepkids.in,http://localhost:8788").split(",").map((s) => s.trim());
+const ORIGINS = (Deno.env.get("ALLOWED_ORIGINS") ?? "https://app.deepkids.in,https://deepkids.in,http://localhost:8788").split(",").map((s) => s.trim());
 const INVITE_ONLY = Deno.env.get("INVITE_ONLY") === "true";
 const EFFORT: Record<string, "low" | "medium" | "high"> = { quick: "low", default: "medium", complex: "high" };
 const anthropic = new Anthropic({ apiKey: Deno.env.get("ANTHROPIC_API_KEY") });

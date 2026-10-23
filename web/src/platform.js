@@ -86,7 +86,7 @@
   const downloads=Object.freeze({async save({filename,data}){const blob=data instanceof Blob?data:new Blob([data]);const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=filename||"download";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),30000);return "saved"}});
 
   /* ---------- the window.claude the app expects ---------- */
-  function install(){const caps={db:makeDb(),user:makeUser(),sample:makeSample(),assets:makeAssets(),downloads};
+  function install(){const caps={db:makeDb(),user:makeUser(),sample:(C.ai||T)?makeSample():null,assets:makeAssets(),downloads};
     window.claude=Object.freeze({use:async name=>caps[name]||null});
     window.DK_PLATFORM={name:"web",signOut:async()=>{await sb.auth.signOut();location.reload()},user:()=>session?.user||null}}
 
