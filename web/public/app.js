@@ -498,15 +498,25 @@
 
 
 
+
+
+
+
+
+
+
+
 const DATA = window.DK_DATA;
-const SUBJ = DATA.subjects, SUBJ_KEYS = Object.keys(SUBJ);
+const SUBJ = {...DATA.subjects,dks:"DeepKids Science"}, SUBJ_KEYS = Object.keys(SUBJ);
+DATA.prepgen.guide.dks=DATA.prepgen.guide.dks||"DeepKids Science starts from a big question. Read the topic story yourself first, then let your child wonder out loud before you explain anything. Their questions matter more than the answers.";
+DATA.prepgen.prep.dks=DATA.prepgen.prep.dks||[["read",1,"Read the topic story and its big question yourself (5 min)","The topic page in DeepKids"],["act",0,"Keep a wonder notebook handy for your child's questions","At home"]];
 const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)"};
 const STATUS = {none:"Not started",learning:"Learning",completed:"Completed",mastered:"Mastered"};
 const DAYN=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
-const DEF_DAYS={math:[1,2,3,4,5],eng:[1,2,4,5],hin:[2,4],sci:[1,3,5]};
-const DEF_HPD={math:1,eng:0.75,hin:0.5,sci:0.75};
+const DEF_DAYS={math:[1,2,3,4,5],eng:[1,2,4,5],hin:[2,4],sci:[1,3,5],dks:[1,2,3,4,5]};
+const DEF_HPD={math:1,eng:0.75,hin:0.5,sci:0.75,dks:0.5};
 const DEF_DAY={prepAt:"07:30",start:"09:30",brk:15,lunch:"13:00",lunchMin:45,eveAt:"20:30"};
-const SCOL={math:"var(--teal)",eng:"var(--grape)",hin:"var(--tomato)",sci:"var(--leaf)"};
+const SCOL={math:"var(--teal)",eng:"var(--grape)",hin:"var(--tomato)",sci:"var(--leaf)",dks:"var(--peri)"};
 const PRESET_EXP={A1:["Lotus seeds (Kamali): change water","Alum crystal (Fitkari): check growth","World in a Jar: look for droplets","Bread mould bag: look, never open"],A5:["Moong sprouts: light vs dark"],B5:["Moon diary: draw tonight's Moon"],B10:["Bury test: dig up after 3 weeks"]};
 const iso=d=>{const x=new Date(d);return x.getFullYear()+"-"+String(x.getMonth()+1).padStart(2,"0")+"-"+String(x.getDate()).padStart(2,"0")};
 const parse=s=>{const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d)};
@@ -517,7 +527,7 @@ const monday=()=>{const d=new Date();d.setDate(d.getDate()-((d.getDay()+6)%7));r
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fh=h=>(Math.round(h*4)/4).toString();
 const mins=h=>{const m=Math.round(h*60);return m>=60?`${fh(m/60)} h`:`${m} min`};
-const fresh=()=>({setup:false,child:"",age:6,board:"ncert",plus:true,subjects:["math","eng","hin","sci"],levels:{math:1,eng:1,hin:1,sci:1},start:monday(),days:DEF_DAYS,hpd:DEF_HPD,progress:{},log:[],exps:[],skips:{},hrs:{},games:{},steps:{},tasks:{},ans:{},events:[],prep:{},tl:{},day:DEF_DAY,hideHow:false,updatedAt:0});
+const fresh=()=>({setup:false,child:"",age:6,board:"ncert",plus:true,subjects:["math","eng","hin","sci","dks"],levels:{math:1,eng:1,hin:1,sci:1,dks:1},start:monday(),days:DEF_DAYS,hpd:DEF_HPD,progress:{},log:[],exps:[],skips:{},hrs:{},games:{},steps:{},tasks:{},ans:{},events:[],prep:{},tl:{},day:DEF_DAY,hideHow:false,updatedAt:0});
 let S=fresh(),store=null,saving=Promise.resolve(),saveTimer=null,syncMode="device",tab="today",ob=null;
 const ui={open:{},pm:0,pv:"week",dump:{},view:{},ctab:{},qi:{},wsec:{},game:"word",jokes:{},more:{},sheet:null,back:null,sel:{},week:0,wday:null,wview:"lanes",lsub:null,timer:null};
 
@@ -582,8 +592,9 @@ const modeOf=()=>S.mode||(S.board==="none"?"plus":S.plus?"booksplus":"books");co
 let SHARED={topics:[]};
 const genUnit=g=>({k:"gen|"+g.id,board:"gen",subj:g.subj,level:g.level||1,book:"DeepKids topic",n:"★",title:g.name,dk:[],gen:g});
 function genUnits(subj,lvl){const ex=(S.extra||{})[subj]||[];return SHARED.topics.filter(g=>g.subj===subj&&((g.level||1)===lvl||(lvl===S.levels[subj]&&(g.level||1)<lvl))&&ex.includes("gen|"+g.id)).map(genUnit)}
-function dkUnits(subj,lvl){if(subj!=="sci")return [];const ex=(S.extra||{})[subj]||[],added=lvl===S.levels[subj]?DATA.topics.filter(t=>ex.includes("dk|"+t.id)):[],seen=new Set();
-  return [...added,...(plusOn()&&lvl===S.levels[subj]?DATA.topics.filter(t=>(t.cls||[1,2,3,4,5]).includes(lvl)):[])].filter(t=>!seen.has(t.id)&&seen.add(t.id)).map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t}))}
+const DKSUB={dks:"sci"};
+function dkUnits(subj,lvl){if(!DKSUB[subj])return [];const ex=(S.extra||{})[subj]||[],added=lvl===S.levels[subj]?DATA.topics.filter(t=>ex.includes("dk|"+t.id)):[],seen=new Set();
+  return [...added,...(lvl===S.levels[subj]?DATA.topics.filter(t=>(t.subj||"sci")===DKSUB[subj]&&(t.cls||[1,2,3,4,5]).includes(lvl)):[])].filter(t=>!seen.has(t.id)&&seen.add(t.id)).map(t=>({k:"dk|"+t.id,board:"dk",subj:"dks",level:1,book:"DeepKids Science",n:t.id,title:t.name,dk:[],topic:t}))}
 function collateAt(subj,lvl){return {board:DATA.items.filter(i=>i.subj===subj&&i.level===lvl&&boardsOn().includes(i.board)),dk:dkUnits(subj,lvl),gen:genUnits(subj,lvl),ex:addedUnits(subj,lvl)}}
 function addedUnits(subj,lvl){if(lvl!==S.levels[subj])return [];const ex=(S.extra||{})[subj]||[];return DATA.items.filter(i=>i.subj===subj&&ex.includes(i.k)&&!(boardsOn().includes(i.board)&&i.level>=lvl))}
 const collate=s=>collateAt(s,S.levels[s]);
@@ -626,7 +637,7 @@ const chNo=u=>/^\d+$/.test(u.n)?"Ch "+u.n:"";
 const lvlLabel=l=>{const x=DATA.levels[l];return `Level ${l} · Class ${x.cls} · age ${x.age}`};
 const sticker=s=>`<span class="sticker ${s}">${STATUS[s]}</span>`;
 /* ---------- day steps ---------- */
-const HINT={math:"Use real things for every problem (coins, beans, rotis, a ruler) before writing anything down.",eng:"Read aloud together, collect new words in a notebook, and ask your child to retell it in their own words.",hin:"Read aloud in Hindi, collect new words with meanings, and ask your child to retell it in Hindi.",sci:"Look for the idea in your own home or street before reading about it."};
+const HINT={dks:"Start from your child's own questions. There are no wrong answers here: ask “how do we know?” and try it out at home.",math:"Use real things for every problem (coins, beans, rotis, a ruler) before writing anything down.",eng:"Read aloud together, collect new words in a notebook, and ask your child to retell it in their own words.",hin:"Read aloud in Hindi, collect new words with meanings, and ask your child to retell it in Hindi.",sci:"Look for the idea in your own home or street before reading about it."};
 const KIND=n=>/^Read/.test(n)?["read","Read","📖"]:/^What to learn/.test(n)?["learn","Learn & think","💡"]:/^Worksheet/.test(n)?["ws","Worksheet","✏️"]:/^Experiment/.test(n)?["exp","Experiment","🧪"]:/^Activit/.test(n)?["act","Activity","🧭"]:/^Game/.test(n)?["game","Game","🎲"]:/^Project/.test(n)?["proj","Project","🛠️"]:["step","Step","⭐"];
 const TASKOF={ws:"ws",exp:"exp0",act:"act0",game:"game",proj:"proj"};
 function daySteps(u,n,tot){if(u.c?.p)return packDay(u,n);const cap=hpdOf(u.subj);
@@ -742,11 +753,16 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* DeepKids Science is its own subject now (it used to ride inside EVS): move a family's DeepKids topics across once */
+function dksMigrate(){if(!S||!S.setup||S.dksMig)return;S.dksMig=1;const mv=o=>{if(!o||!o.sci)return o;const dk=o.sci.filter(k=>String(k).startsWith("dk|"));if(!dk.length)return o;return {...o,sci:o.sci.filter(k=>!String(k).startsWith("dk|")),dks:[...new Set([...(o.dks||[]),...dk])]}};
+  S.extra=mv(S.extra);S.next=mv(S.next);S.later=mv(S.later);S.levels={...S.levels,dks:S.levels?.dks||S.levels?.sci||1};
+  if(modeOf()!=="books"&&!S.subjects.includes("dks"))S.subjects=[...S.subjects,"dks"];save()}
+
 /* keep sideways (and inner) scroll positions when the screen redraws, e.g. jokes in a row */
 function scrollSnap(root){if(!root)return null;const L=[...root.querySelectorAll("div,section,ul,ol,nav")],out=[];L.forEach(e=>{if(e.scrollLeft>0||e.scrollTop>0){const cls=e.className||"",i=L.filter(z=>(z.className||"")===cls).indexOf(e);out.push({cls,i,x:e.scrollLeft,y:e.scrollTop})}});return out}
 function scrollBack(root,snap){if(!root||!snap?.length)return;const L=[...root.querySelectorAll("div,section,ul,ol,nav")];snap.forEach(s=>{const e=L.filter(z=>(z.className||"")===s.cls)[s.i];if(e){if(s.x)e.scrollLeft=s.x;if(s.y)e.scrollTop=s.y}})}
 const _dkRender=render,_dkRenderSheet=renderSheet;
-render=function(...a){const m=document.getElementById("main"),s=scrollSnap(m),r=_dkRender.apply(this,a);scrollBack(document.getElementById("main"),s);return r};
+render=function(...a){dksMigrate();const m=document.getElementById("main"),s=scrollSnap(m),r=_dkRender.apply(this,a);scrollBack(document.getElementById("main"),s);return r};
 renderSheet=function(...a){const b=document.getElementById("sheetBody"),s=a[0]?null:scrollSnap(b),r=_dkRenderSheet.apply(this,a);scrollBack(document.getElementById("sheetBody"),s);return r};
 /* Plan → To do: your own to-dos, and getting ready for the coming lessons */
 function prepAhead(days){const end=addDays(today,days),out=[];upcoming().forEach(x=>{if(x.date<today||x.date>end)return;prepFor(x.u,x.n,x.tot).forEach(p=>{if(LEARNK.has(p.kind))return;const due=addDays(x.date,-p.lead);out.push({...p,x,due:due<today?today:due,late:due<today})})});
@@ -872,10 +888,10 @@ function trackIdeas(n){const have=new Set((S.exps||[]).map(e=>e.title)),out=[],R
   for(const pass of [1,2])for(const u of us){const P=u.c?.p;if(!P)continue;for(const e of [...(P.experiments||[]),...(P.activities||[])]){if(have.has(e.title)||out.some(o=>o.e.title===e.title))continue;
     const ok=pass===1?R.test(e.title+" "+(e.question||"")+" "+(e.steps||[]).join(" "))&&refParts(u,e.id).length>=1:refParts(u,e.id).length>=2;if(ok){out.push({u,e});if(out.length>=n)return out}}}return out}
 /* DeepKids topics: how long each learning day, and which one fits the day's lessons */
-const DKSTEPS=[0,10,15,20,30,45,60],dkMinsOf=()=>S.dkMins??20;
+const DKSTEPS=[0,10,15,20,30,45,60],dkMinsOf=()=>0;
 const DKSTOP=new Set("this that with from what your have they their them about into does which when where will would there these those child make each more some like other than then very just also only many much were been being because around chapter lesson learn talk book know things thing people today tell show find story".split(" "));
 function dkWords(s){return new Set((String(s||"").toLowerCase().match(/[a-z]{4,}/g)||[]).filter(w=>!DKSTOP.has(w)).map(w=>w.replace(/(ies|es|s)$/,"")))}
-function dkPick(date,lessons){const L=lessons.map(l=>l.u).filter(Boolean),live=DATA.topics.filter(t=>(t.cls||[1,2,3,4,5]).includes(S.levels.sci||1)&&rank[st("dk|"+t.id)]<2);if(!live.length)return null;
+function dkPick(date,lessons){const L=lessons.map(l=>l.u).filter(Boolean),live=DATA.topics.filter(t=>(t.cls||[1,2,3,4,5]).includes(S.levels.dks||S.levels.sci||1)&&rank[st("dk|"+t.id)]<2);if(!live.length)return null;
   const lw=new Set(L.flatMap(u=>[...dkWords([u.title,u.c?.covers,u.c?.p?.summary,(u.c?.p?.words||[]).map(x=>x[0]).join(" ")].join(" "))]));let best=null,h0=0;for(const c of date)h0=(h0*31+c.charCodeAt(0))%9973;
   live.forEach((t,i)=>{const mapped=L.find(u=>(u.dk||[]).includes(t.id)),hit=[...dkWords([t.name,t.summary,t.sub,t.q].join(" "))].filter(w=>lw.has(w));const sc=(mapped?100:0)+hit.length+(rank[st("dk|"+t.id)]===1?2:0)+((h0+i*7)%13)/100;if(!best||sc>best.sc)best={sc,t,mapped,hit}});
   const u=unitBy("dk|"+best.t.id);if(!u)return null;const near=best.mapped||L.find(x=>[...dkWords(x.title)].some(w=>best.hit.includes(w)))||null;
@@ -1288,7 +1304,7 @@ function uploadsView(){document.getElementById("sheetTitle").textContent="Upload
   if(!U.length)h+=`<p class="note">Nothing uploaded yet.</p>`;return h}
 
 /* ---------- tracking ---------- */
-const CHC={math:"#2A8FB0",eng:"#C24F8A",hin:"#D98A2B",sci:"#3F8A4F"};
+const CHC={math:"#2A8FB0",eng:"#C24F8A",hin:"#D98A2B",sci:"#3F8A4F",dks:"#6E6CC9"};
 const hmin=m=>{m=Math.round(m);return m<60?m+" min":Math.floor(m/60)+" h"+(m%60?" "+m%60+" m":"")};
 function addMins(k,sec){const u=unitByK(String(k||"").replace(/^x/,""));if(!u)return;S.mins=S.mins||{};const key=today+"|"+u.subj;S.mins[key]=Math.round(((S.mins[key]||0)+sec/60)*10)/10}
 function trackData(){const D={},day=d=>D[d]=D[d]||{m:{},e:{},did:[]},add=(d,s,f,m)=>{const x=day(d);x[f][s]=(x[f][s]||0)+m};
@@ -1739,7 +1755,7 @@ function plPart(p){let h="";
     <div class="field"><label for="dEve">Evening prep</label><input class="inp" id="dEve" type="time" data-dayset="eveAt" value="${d.eveAt}"></div></div></div></section>`;}
   if(p==="pace"){  h+=`<section class="sec"><div class="sech"><h3>Pace</h3><span class="xs muted">Change anything and the year re-plans</span></div>${S.subjects.map(s=>{const sc=schedule(s),cur=sc.filter(x=>x.u.level===S.levels[s]),l=S.levels[s];return `<div class="card ${SC(s)}"><div class="sech"><div class="row" style="gap:8px">${sblob(s,"happy","",'width="34" height="34"')}<h3>${SUBJ[s]}</h3></div><div class="stepper"><button data-act="lvl" data-s="${s}" data-d="-1" ${l<=1?"disabled":""} aria-label="Class down">−</button><span class="sm" style="min-width:64px;text-align:center">Class ${l}</span><button data-act="lvl" data-s="${s}" data-d="1" ${l>=5?"disabled":""} aria-label="Class up">+</button></div></div>
      <div class="row"><select class="inp" style="width:auto;height:40px" id="hpd-${s}" data-hpd="${s}" aria-label="${SUBJ[s]} hours a day">${[.25,.5,.75,1,1.5,2,3].map(v=>`<option value="${v}" ${hpdOf(s)===v?"selected":""}>${v} h a day</option>`).join("")}</select><div class="dpick">${[1,2,3,4,5,6,0].map(dd=>`<button aria-pressed="${daysOf(s).includes(dd)}" data-act="day" data-s="${s}" data-d="${dd}">${DAYN[dd]}</button>`).join("")}</div></div>
-     <p class="xs muted">${lvlLabel(l)} · ${cur.length} lesson days left at this level${cur.length?`, finishing around ${fmt(cur[cur.length-1].date)}`:""}</p></div>`}).join("")}${dkPaceCard()}</section>`;}
+     <p class="xs muted">${lvlLabel(l)} · ${cur.length} lesson days left at this level${cur.length?`, finishing around ${fmt(cur[cur.length-1].date)}`:""}</p></div>`}).join("")}</section>`;}
   return h}
 function jPart(p){const kid=esc(S.child||"Your child");let h="";
   if(p==="numbers"){  const tasks=Object.values(S.tasks).reduce((a,t)=>a+Object.keys(t).length,0),gd=Object.values(S.games).filter(g=>g.g?.length||Object.keys(g.tf||{}).length||g.odd).length,hrs=S.log.reduce((a,l)=>a+hpdOf(l.subj),0);
@@ -1759,7 +1775,7 @@ function clearIn(id){document.querySelectorAll("#"+CSS.escape(id)).forEach(e=>{e
 document.addEventListener("input",e=>{if(e.target.id)e.target.dataset.dirty="1"},true);
 document.addEventListener("change",e=>{if(e.target.id)e.target.dataset.dirty="1"},true);
 const pname=()=>(S.parent&&S.parent.name)||ACCT;
-function allUnits(){if(_all&&_all.n===SHARED.topics.length)return _all.u;const u=[...DATA.items,...DATA.topics.map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t})),...SHARED.topics.map(genUnit)];_all={n:SHARED.topics.length,u};return u}
+function allUnits(){if(_all&&_all.n===SHARED.topics.length)return _all.u;const u=[...DATA.items,...DATA.topics.map(t=>({k:"dk|"+t.id,board:"dk",subj:"dks",level:1,book:"DeepKids Science",n:t.id,title:t.name,dk:[],topic:t})),...SHARED.topics.map(genUnit)];_all={n:SHARED.topics.length,u};return u}
 const dayTypeOf=d=>((S.dayType||{})[d])||"full";
 const lessonMins=(s,date)=>dayTypeOf(date)==="busy"?Math.min(30,hpdOf(s)*60):hpdOf(s)*60;
 const MODES={books:["Syllabus books","Read the board's books, with a summary and curated resources for every chapter.","var(--sky)"],booksplus:["Books + DeepKids Plus","The books, plus our lesson plans, big questions, worksheets and games for each topic.","var(--tang)"],plus:["DeepKids Plus first","All syllabuses combined and more. Lesson plans lead; the books become suggested reading.","var(--gum)"]};
@@ -2140,7 +2156,7 @@ function blob(col,seed=1,mood="happy",cls="bl",attrs=""){const k="#2B2340";
   const mouth=mood==="wow"?`<ellipse cx="50" cy="64" rx="4" ry="5" fill="${k}"/>`:mood==="calm"?`<path d="M45 63h10" stroke="${k}" stroke-width="3.4" stroke-linecap="round"/>`:`<path d="M43 61q7 7.5 14 0" stroke="${k}" stroke-width="3.4" fill="none" stroke-linecap="round"/>`;
   return `<svg class="${cls}" ${attrs} viewBox="0 0 100 100" aria-hidden="true"><path d="${blobD(seed)}" fill="${col}"/><circle cx="32" cy="61" r="4.6" fill="#FF6F9F" opacity=".45"/><circle cx="68" cy="61" r="4.6" fill="#FF6F9F" opacity=".45"/>${eyes}${mouth}</svg>`}
 const PAL=["var(--aqua)","var(--gum)","var(--sun)","var(--pist)","var(--peri)","var(--tang)","var(--sky)"];
-const SUBJ_BLOB={math:["var(--aqua)",3],eng:["var(--gum)",7],hin:["var(--tang)",11],sci:["var(--forest)",5]};
+const SUBJ_BLOB={math:["var(--aqua)",3],eng:["var(--gum)",7],hin:["var(--tang)",11],sci:["var(--forest)",5],dks:["var(--peri)",9]};
 function sblob(s,mood="happy",cls="bl",attrs=""){const b=SUBJ_BLOB[s]||["var(--peri)",2];return blob(b[0],b[1],mood,cls,attrs)}
 const kidBlob=(cls="bl",mood="happy",attrs="")=>blob("var(--sky)",13,mood,cls,attrs);
 const youBlob=(cls="bl",mood="happy",attrs="")=>blob("var(--peri)",17,mood,cls,attrs);
@@ -2366,7 +2382,7 @@ function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({chi
 function viewOnboarding(){const d=ob.d;let h=`<div class="ob"><div class="obbar">${[0,1,2,3,4].map(i=>`<i class="${i<=ob.step?"on":""}"></i>`).join("")}</div>`;
   if(ob.step===0)h+=`${crowd()}<div><span class="eyebrow">Welcome to DeepKids</span><h1 style="margin-top:6px">Let's plan an amazing year of learning at home</h1></div><div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child)}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[6,7,8,9,10].map(a=>`<button type="button" aria-pressed="${d.age===a}" data-age="${a}">${a}</button>`).join("")}</div></div><div class="field"><span>Class this year</span><div class="ages">${[1,2,3,4,5].map(c=>`<button type="button" aria-pressed="${obCls(d)===c}" data-cls="${c}">${c}</button>`).join("")}</div><span class="xs muted">We use the class to pick the right syllabus books. You can still add any chapter from the Library.</span></div>`;
   if(ob.step===1)h+=`<h1>Which syllabus?</h1><div class="choices">${[["ncert","NCERT / CBSE","India's national textbooks","var(--tang)"],["cambridge","Cambridge Primary","Stages 1–5","var(--sky)"],["nios","NIOS","Open Basic Education","var(--pist)"],["combined","Combined","All three boards, mapped together","var(--peri)"],["none","Only DeepKids Plus","Our own big-question curriculum","var(--gum)"]].map(([k,n,s,c],i)=>`<button type="button" class="choice" aria-pressed="${d.board===k}" data-b="${k}">${blob(c,20+i,d.board===k?"happy":"calm")}<span><b>${n}</b><span>${s}</span></span></button>`).join("")}</div>${d.board!=="none"?`<h2 style="font-size:24px;margin-top:8px">How do you want to learn?</h2><div class="choices">${Object.entries(MODES).map(([k,[n,desc,c]],i)=>`<button type="button" class="choice" aria-pressed="${(d.mode||"booksplus")===k}" data-mode="${k}">${blob(c,40+i,(d.mode||"booksplus")===k?"happy":"calm")}<span><b>${n}</b><span>${desc}</span></span></button>`).join("")}</div><label class="toggle"><input type="checkbox" id="obExam" ${d.exam?"checked":""}><span><b style="font:600 17px var(--display)">Exam track</b><br><span class="sm muted">Planning for board or NIOS exams? Every syllabus chapter stays first.</span></span></label>`:`<p class="note">DeepKids Plus only: our own topics and lesson plans, drawing on every syllabus.</p>`}`;
-  if(ob.step===2)h+=`<h1>Which subjects?</h1><div class="choices">${SUBJ_KEYS.map(k=>`<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k,d.subjects.includes(k)?"happy":"sleepy")}<span><b>${SUBJ[k]}</b><span>${k==="hin"?"Not part of Cambridge":"Tap to include or leave out"}</span></span></button>`).join("")}</div>`;
+  if(ob.step===2)h+=`<h1>Which subjects?</h1><div class="choices">${SUBJ_KEYS.map(k=>`<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k,d.subjects.includes(k)?"happy":"sleepy")}<span><b>${SUBJ[k]}</b><span>${k==="hin"?"Not part of Cambridge":k==="dks"?"Big questions about life, the earth and the universe. Every day, alongside the syllabus":"Tap to include or leave out"}</span></span></button>`).join("")}</div>`;
   if(ob.step===3)h+=`<h1>Level and time</h1><p class="muted">A starting level, and roughly how long each subject gets on the days you do it.</p>${d.subjects.map(s=>`<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s,"happy","",'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b></div><div class="fgrid"><select class="inp" id="obl-${s}" data-s="${s}" aria-label="${SUBJ[s]} level">${[1,2,3,4,5].map(l=>`<option value="${l}" ${d.levels[s]===l?"selected":""}>${lvlLabel(l)}</option>`).join("")}</select><select class="inp" id="obh-${s}" data-hpd="${s}" aria-label="${SUBJ[s]} hours a day">${[.25,.5,.75,1,1.5,2,3].map(v=>`<option value="${v}" ${(d.hpd||DEF_HPD)[s]===v?"selected":""}>${v} h a day</option>`).join("")}</select></div></div>`).join("")}`;
   if(ob.step===4){const keep=S;S={...S,...d};h+=`<h1>${esc(d.child||"Your child")}'s year</h1><div class="col">${d.subjects.map(s=>{const c=collate(s),books=[...new Set(c.board.map(u=>u.book))];return `<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s,"happy","",'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b><span class="xs muted">${lvlLabel(d.levels[s])}</span></div>${books.map(b=>`<span class="sm">${esc(b)}: ${c.board.filter(u=>u.book===b).length} chapters</span>`).join("")}${c.dk.length?`<span class="sm">DeepKids Plus: ${c.dk.length} topics</span>`:""}${notesFor(s,d.levels[s]).map(n=>`<span class="xs muted">${esc(n)}</span>`).join("")}</div>`}).join("")}</div>`;S=keep}
   h+=`<div class="row" style="justify-content:space-between">${ob.step>0?`<button class="btn soft" data-ob="back">Back</button>`:"<span></span>"}<button class="btn" data-ob="next">${ob.step===4?"Build my plan":"Continue"}${icon("next")}</button></div></div>`;return h}
