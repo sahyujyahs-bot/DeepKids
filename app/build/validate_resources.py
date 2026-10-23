@@ -4,6 +4,12 @@ R = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'resources')
 CON = {c["id"]: c for c in json.load(open(os.path.join(R, 'concepts.json')))}
 TYPES = {"sim", "worksheet", "experiment", "activity", "video", "game", "reading", "lesson", "tool", "citizen-science"}
 ACCESS = {"free", "free-account", "freemium", "paid"}
+SUBJ = {"sci", "math", "eng", "hin", "think", "code", "all"}
+STRANDS = {"math": {"number", "operations", "fractions", "measurement", "time-money", "shapes", "patterns", "data", "reasoning", "all-maths"},
+           "eng": {"phonics", "reading", "stories", "vocabulary", "grammar", "writing", "speaking", "all-english"},
+           "hin": {"varnamala", "reading", "stories", "poems", "writing", "all-hindi"},
+           "think": {"thinking", "philosophy"}, "code": {"coding", "unplugged"},
+           "sci": {"all-science"}, "all": {"textbooks", "all-subjects"}}
 
 def check(path, seen=None):
     e = []
@@ -12,7 +18,10 @@ def check(path, seen=None):
     if not isinstance(L, list): return ["file must be a JSON list"]
     for i, r in enumerate(L):
         w = f"#{i} {r.get('title', '?')[:40]}"
-        for k in ("title", "url", "source", "type", "ages", "access", "lang", "desc", "concepts"):
+        sj = r.get("subj", "sci"); sj = sj if isinstance(sj, list) else [sj]
+        for x in sj:
+            if x not in SUBJ: e.append(f"{w}: bad subj {x}")
+        for k in ("title", "url", "source", "type", "ages", "access", "lang", "desc") + (("concepts",) if sj == ["sci"] and not r.get("strands") else ()):
             if k not in r: e.append(f"{w}: missing {k}")
         if not str(r.get("url", "")).startswith(("https://", "http://")): e.append(f"{w}: bad url")
         if r.get("type") not in TYPES: e.append(f"{w}: bad type {r.get('type')}")
@@ -20,7 +29,13 @@ def check(path, seen=None):
         a = r.get("ages", [])
         if not (isinstance(a, list) and len(a) == 2 and 6 <= a[0] <= a[1] <= 12): e.append(f"{w}: ages must be [min, max] within 6–12")
         c = r.get("concepts", [])
-        if not 1 <= len(c) <= 3: e.append(f"{w}: needs 1–3 concepts")
+        st = r.get("strands", [])
+        if "sci" in sj and not st and not 1 <= len(c) <= 3: e.append(f"{w}: needs 1–3 concepts")
+        if len(c) > 3: e.append(f"{w}: at most 3 concepts")
+        ok = set().union(*(STRANDS[x] for x in sj if x in STRANDS))
+        for x in st:
+            if x not in ok: e.append(f"{w}: strand {x} doesn't fit subjects {sj}")
+        if sj != ["sci"] and not st: e.append(f"{w}: non-science resources need strands")
         for x in c:
             if x not in CON: e.append(f"{w}: unknown concept {x}")
         if len(r.get("desc", "")) < 30: e.append(f"{w}: desc too short")

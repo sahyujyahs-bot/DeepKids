@@ -1,0 +1,1482 @@
+[
+ {
+  "title": "Math-Drills: free maths worksheets",
+  "url": "https://www.math-drills.com/",
+  "source": "Math-Drills",
+  "subj": "math",
+  "strands": [
+   "number",
+   "operations",
+   "fractions",
+   "measurement"
+  ],
+  "type": "worksheet",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Tens of thousands of free printable maths worksheets, free since 2005: addition with and without regrouping, multiplication, fractions, measurement and more, with answer keys.",
+  "how": "Use for short fluency practice after a hands-on lesson, never instead of one."
+ },
+ {
+  "title": "K5 Learning: free Grade 1 maths worksheets",
+  "url": "https://www.k5learning.com/free-math-worksheets/first-grade-1",
+  "source": "K5 Learning",
+  "subj": "math",
+  "strands": [
+   "all-maths"
+  ],
+  "type": "worksheet",
+  "ages": [
+   6,
+   7
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Printable Grade 1 worksheets that start with numbers and counting, then arithmetic, fractions, time, money, measurement and geometry."
+ },
+ {
+  "title": "K5 Learning: maths drills",
+  "url": "https://www.k5learning.com/free-math-worksheets/math-drills",
+  "source": "K5 Learning",
+  "subj": "math",
+  "strands": [
+   "operations"
+  ],
+  "type": "worksheet",
+  "ages": [
+   6,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Printable timed drills for addition, subtraction, multiplication and division facts."
+ },
+ {
+  "title": "K5 Learning: free worksheets for kids",
+  "url": "https://k5learning.com/free-worksheets-for-kids",
+  "source": "K5 Learning",
+  "subj": [
+   "math",
+   "eng"
+  ],
+  "strands": [
+   "all-maths",
+   "all-english"
+  ],
+  "type": "worksheet",
+  "ages": [
+   6,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "The full index of free K–5 worksheets and flashcards for maths, reading, vocabulary and grammar. Some extras need a paid membership."
+ },
+ {
+  "title": "NRICH tasks mapped to Years 1 and 2",
+  "url": "https://nrich.maths.org/content/id/12662/EYFSKS1CurriculumLinkedtoNRICHJan18.pdf",
+  "source": "NRICH, University of Cambridge",
+  "subj": "math",
+  "strands": [
+   "reasoning",
+   "number"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Cambridge's NRICH maps its free problems, games and investigations to each early-years topic, marking whole-class tasks, investigations and serious challenges (for example Snail One Hundred, Two-digit Targets and 6 Beads for place value).",
+  "how": "Pick one NRICH task a week to go deeper than worksheets: they build reasoning, not just answers."
+ },
+ {
+  "title": "Math Learning Center free maths apps",
+  "url": "https://www.mathlearningcenter.org/apps",
+  "source": "The Math Learning Center",
+  "subj": "math",
+  "strands": [
+   "number",
+   "fractions",
+   "shapes"
+  ],
+  "type": "tool",
+  "ages": [
+   6,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Free virtual manipulatives in the browser: a Number Rack (rekenrek) for adding in fives and tens, Fractions with bar and circle models, a Geoboard for shapes, area and perimeter, and more.",
+  "how": "Use alongside real beads, sticks and rubber bands; the screen version helps with bigger numbers."
+ },
+ {
+  "title": "Polypad virtual manipulatives",
+  "url": "https://mathigon.org/polypad",
+  "source": "Mathigon (Amplify)",
+  "subj": "math",
+  "strands": [
+   "shapes",
+   "fractions",
+   "number"
+  ],
+  "type": "tool",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A free canvas with more than 50 virtual manipulatives: base-ten blocks, tangrams, ten-frames, fraction bars, polyhedra, dice and number games."
+ },
+ {
+  "title": "Toy Theater maths games",
+  "url": "https://toytheater.com/",
+  "source": "Toy Theater",
+  "subj": "math",
+  "strands": [
+   "number",
+   "operations",
+   "time-money",
+   "data"
+  ],
+  "type": "game",
+  "ages": [
+   6,
+   9
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Free browser games and manipulatives for young children: counting, place value, telling time, money, graphing and pattern blocks."
+ },
+ {
+  "title": "Bedtime Math",
+  "url": "https://apps.apple.com/us/app/bedtimemath/id637910701",
+  "source": "Bedtime Math Foundation",
+  "subj": "math",
+  "strands": [
+   "reasoning",
+   "all-maths"
+  ],
+  "type": "game",
+  "ages": [
+   6,
+   9
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "One short, funny maths story a day with three levels of question (little kids, big kids, and a bonus), plus over 1,000 past problems to search by skill.",
+  "how": "Read it at bedtime the way you'd read a story. Also on Android."
+ },
+ {
+  "title": "Khan Academy Kids",
+  "url": "https://apps.apple.com/us/app/khan-academy-kids/id1378467217",
+  "source": "Khan Academy",
+  "subj": [
+   "math",
+   "eng"
+  ],
+  "strands": [
+   "all-maths",
+   "phonics",
+   "reading"
+  ],
+  "type": "game",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A completely free app with no ads: phonics, sight words, counting, addition and shapes, plus a library of storybooks, from kindergarten to about Class 2.",
+  "how": "Also on Android. Keep it to short sessions."
+ },
+ {
+  "title": "Khan Academy free maths courses, Kindergarten to Grade 5 and beyond",
+  "url": "https://blog.khanacademy.org/free-math-curriculum-from-kindergarten-to-calculus/",
+  "source": "Khan Academy",
+  "subj": "math",
+  "strands": [
+   "all-maths"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Khan Academy's explanation of its free grade-by-grade maths courses, each with short videos, articles and practice exercises; Grades 3–5 now follow the Illustrative Mathematics sequence.",
+  "how": "Open the course for your child's class on khanacademy.org and use the practice for the topic you're on."
+ },
+ {
+  "title": "Week of Inspirational Maths, Grades K–2",
+  "url": "https://www.youcubed.org/resource/classic-wim-week-2-grades-k-2",
+  "source": "youcubed, Stanford University (Jo Boaler)",
+  "subj": "math",
+  "strands": [
+   "reasoning",
+   "number"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Free open-ended maths lessons and short videos from Stanford's youcubed, built to show children that maths is about patterns, ideas and mistakes that make your brain grow."
+ },
+ {
+  "title": "Week of Inspirational Maths, Grades 3–5",
+  "url": "https://www.youcubed.org/resource/classic-wim-week-2-grades-3-5/",
+  "source": "youcubed, Stanford University (Jo Boaler)",
+  "subj": "math",
+  "strands": [
+   "reasoning",
+   "patterns"
+  ],
+  "type": "lesson",
+  "ages": [
+   8,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Free open-ended lessons and videos for older primary children, with visual, pattern-rich tasks that have many ways in."
+ },
+ {
+  "title": "IXL Grade 2 maths",
+  "url": "https://www.ixl.com/math/grade-2",
+  "source": "IXL",
+  "subj": "math",
+  "strands": [
+   "all-maths"
+  ],
+  "type": "game",
+  "ages": [
+   7,
+   8
+  ],
+  "access": "freemium",
+  "lang": [
+   "en"
+  ],
+  "desc": "Hundreds of practice skills (counting, place value, addition and subtraction to three digits, money, time, data, shapes, fractions) that get harder as the child improves. Only a few questions a day are free; full use needs a paid membership.",
+  "how": "Good for targeted practice on one skill; the free daily limit is often enough."
+ },
+ {
+  "title": "Illustrative Mathematics K–5 on GeoGebra",
+  "url": "https://www.geogebra.org/im",
+  "source": "GeoGebra, based on IM K–12 Math by Illustrative Mathematics",
+  "subj": "math",
+  "strands": [
+   "all-maths"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A free digital version of the problem-based Illustrative Mathematics curriculum for Grades K–5, with interactive lessons built on discussion and reasoning."
+ },
+ {
+  "title": "Estimation 180",
+  "url": "https://estimation180.com/",
+  "source": "Estimation 180 (Andrew Stadel)",
+  "subj": "math",
+  "strands": [
+   "number",
+   "measurement",
+   "reasoning"
+  ],
+  "type": "activity",
+  "ages": [
+   8,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "One estimation challenge a day from a photo or video (how many, how tall, how heavy), building number sense one day at a time. Toolkits are paid; the daily tasks are free.",
+  "how": "Ask for a 'too low', 'too high' and 'my best guess' before revealing the answer."
+ },
+ {
+  "title": "Which One Doesn't Belong? (Kindergarten activity)",
+  "url": "https://learning.burnabyschools.ca/wp-content/uploads/2021/02/Numeracy-K-Feb-22-Activity-2-Which-One-Doesnt-Belong.pdf",
+  "source": "Burnaby Schools (based on wodb.ca by Mary Bourassa)",
+  "subj": "math",
+  "strands": [
+   "reasoning",
+   "shapes"
+  ],
+  "type": "worksheet",
+  "ages": [
+   6,
+   7
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A printable 'which one doesn't belong?' puzzle: four pictures where any one can be the odd one out, if you can explain why.",
+  "how": "Insist on reasons; then find a reason for each of the four."
+ },
+ {
+  "title": "CS Unplugged: computer science without a computer",
+  "url": "https://classic.csunplugged.org/",
+  "source": "CS Unplugged, University of Canterbury",
+  "subj": [
+   "code",
+   "math"
+  ],
+  "strands": [
+   "unplugged",
+   "reasoning"
+  ],
+  "type": "activity",
+  "ages": [
+   7,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Free Creative Commons games and puzzles that teach the ideas of computer science with cards, string, crayons and running around: binary numbers, sorting, codes and more."
+ },
+ {
+  "title": "CS Unplugged: binary numbers",
+  "url": "https://classic.csunplugged.org/activities/binary-numbers/",
+  "source": "CS Unplugged, University of Canterbury",
+  "subj": [
+   "code",
+   "math"
+  ],
+  "strands": [
+   "unplugged",
+   "number"
+  ],
+  "type": "activity",
+  "ages": [
+   7,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Children use five dot cards to discover how computers count with only 0 and 1, then send secret messages in binary. Printable cards included.",
+  "how": "A wonderful way into place value too: our numbers use tens, computers use twos."
+ },
+ {
+  "title": "Code.org CS Fundamentals (Courses A–F)",
+  "url": "https://code.org/csf",
+  "source": "Code.org",
+  "subj": "code",
+  "strands": [
+   "coding",
+   "unplugged"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Free elementary computer science courses, from Course A (about age 5–6) to F (about age 10–11), mixing self-paced puzzles with offline activities. Early courses read instructions aloud."
+ },
+ {
+  "title": "ScratchJr",
+  "url": "https://www.media.mit.edu/projects/scratchjr/overview/",
+  "source": "MIT Media Lab, Tufts University and the Scratch Foundation",
+  "subj": "code",
+  "strands": [
+   "coding"
+  ],
+  "type": "tool",
+  "ages": [
+   6,
+   7
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A free app for young children to snap together picture blocks and make characters move, jump, dance and sing in their own stories. On iPad, Android and Chromebook.",
+  "how": "Ask your child to code a story they've just read or invented."
+ },
+ {
+  "title": "Storyline Online",
+  "url": "https://apps.apple.com/us/app/-/id1262706499",
+  "source": "SAG-AFTRA Foundation",
+  "subj": "eng",
+  "strands": [
+   "stories",
+   "reading"
+  ],
+  "type": "video",
+  "ages": [
+   6,
+   9
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Well-known actors read picture books aloud with the illustrations on screen. Each book comes with a printable activity guide written by a teacher. Also free on storylineonline.net and YouTube.",
+  "how": "Turn on captions so your child can follow the words."
+ },
+ {
+  "title": "LearnEnglish Kids printable worksheets",
+  "url": "https://learnenglishkids.britishcouncil.org/print-make/worksheets",
+  "source": "British Council",
+  "subj": "eng",
+  "strands": [
+   "vocabulary",
+   "grammar"
+  ],
+  "type": "worksheet",
+  "ages": [
+   6,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Printable English worksheets, flashcards, crafts and colouring pages from the British Council's site for young learners."
+ },
+ {
+  "title": "LearnEnglish Kids short stories",
+  "url": "https://learnenglishkids.britishcouncil.org/listen-watch/short-stories",
+  "source": "British Council",
+  "subj": "eng",
+  "strands": [
+   "stories",
+   "reading"
+  ],
+  "type": "reading",
+  "ages": [
+   6,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Animated short stories written for children learning English, from fairy tales to original stories, with printable activities."
+ },
+ {
+  "title": "K5 Learning: Grade 1 reading comprehension",
+  "url": "https://www.k5learning.com/reading-comprehension-worksheets/first-grade-1",
+  "source": "K5 Learning",
+  "subj": "eng",
+  "strands": [
+   "reading",
+   "phonics"
+  ],
+  "type": "worksheet",
+  "ages": [
+   6,
+   7
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Printable phonics and sight-word sheets and over 20 short stories, each with comprehension questions."
+ },
+ {
+  "title": "ReadWorks: second-grade comprehension",
+  "url": "https://about.readworks.org/blog/second-grade-reading-comprehension-strategies-and-worksheets-from-readworks",
+  "source": "ReadWorks",
+  "subj": "eng",
+  "strands": [
+   "reading"
+  ],
+  "type": "reading",
+  "ages": [
+   7,
+   9
+  ],
+  "access": "free-account",
+  "lang": [
+   "en"
+  ],
+  "desc": "Free reading passages with questions, from a non-profit, that help children notice story structure, an author's purpose and new vocabulary. A free account unlocks the full library."
+ },
+ {
+  "title": "Book Dash: free openly licensed picture books",
+  "url": "https://bookdash.org/500-south-african-language-childrens-books-are-now-available-on-the-book-dash-website/",
+  "source": "Book Dash",
+  "subj": "eng",
+  "strands": [
+   "stories"
+  ],
+  "type": "reading",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Hundreds of beautifully illustrated picture books under a CC BY 4.0 licence: read, download, print, translate or adapt them freely, with credit.",
+  "how": "Because they're openly licensed, you can print and bind them at home, or translate one into your home language together."
+ },
+ {
+  "title": "Let's Read digital library",
+  "url": "https://apps.apple.com/app/id1549160869",
+  "source": "The Asia Foundation",
+  "subj": "eng",
+  "strands": [
+   "stories",
+   "reading"
+  ],
+  "type": "reading",
+  "ages": [
+   6,
+   10
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Thousands of free picture books in English and dozens of Asian languages; switch language inside a story with a tap, and save books for offline reading."
+ },
+ {
+  "title": "International Children's Digital Library",
+  "url": "https://icdl-lb.cs.umd.edu/",
+  "source": "University of Maryland",
+  "subj": [
+   "eng",
+   "hin"
+  ],
+  "strands": [
+   "stories",
+   "reading"
+  ],
+  "type": "reading",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en",
+   "hi"
+  ],
+  "desc": "Thousands of children's books from around the world in their original languages, free to read without an account, searchable by country, language, length and age. Rebuilt in 2021 with a simpler reader."
+ },
+ {
+  "title": "BookBox AniBooks",
+  "url": "https://www.bookbox.com/",
+  "source": "BookBox, Pondicherry",
+  "subj": [
+   "eng",
+   "hin"
+  ],
+  "strands": [
+   "reading",
+   "stories"
+  ],
+  "type": "video",
+  "ages": [
+   6,
+   9
+  ],
+  "access": "free",
+  "lang": [
+   "en",
+   "hi"
+  ],
+  "desc": "Animated stories where each word lights up on screen as it is spoken (same-language subtitling), which helps children learn to read. Free on BookBox's YouTube channel, in English, Hindi and many Indian languages.",
+  "how": "Watch the Hindi and English versions of the same story and compare."
+ },
+ {
+  "title": "StoryWeaver: Pratham Books",
+  "url": "https://storyweaver.org.in/prathambooks",
+  "source": "Pratham Books StoryWeaver",
+  "subj": [
+   "eng",
+   "hin"
+  ],
+  "strands": [
+   "stories",
+   "reading"
+  ],
+  "type": "reading",
+  "ages": [
+   6,
+   10
+  ],
+  "access": "free",
+  "lang": [
+   "en",
+   "hi"
+  ],
+  "desc": "Thousands of free, openly licensed (CC BY 4.0) storybooks in Hindi, English and many Indian languages, sorted into reading levels 1–4, to read online, download or print.",
+  "how": "Filter by your language and level. Level 1 is for children just starting to read."
+ },
+ {
+  "title": "Stories in Hindi and English",
+  "url": "https://apps.apple.com/app/id1458575435",
+  "source": "Built on Pratham Books stories",
+  "subj": [
+   "hin",
+   "eng"
+  ],
+  "strands": [
+   "reading"
+  ],
+  "type": "reading",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "hi",
+   "en"
+  ],
+  "desc": "A free app with short Pratham Books stories in three levels, with translations and spoken audio to help with pronunciation in both languages."
+ },
+ {
+  "title": "दूसरा तरीका (The Other Way)",
+  "url": "https://freekidsbooks.org/दूसरा-तरीका-hindi-story-the-other-way",
+  "source": "Pratham Books StoryWeaver (via Free Kids Books)",
+  "subj": "hin",
+  "strands": [
+   "stories",
+   "reading"
+  ],
+  "type": "reading",
+  "ages": [
+   6,
+   7
+  ],
+  "access": "free",
+  "lang": [
+   "hi"
+  ],
+  "desc": "A Level 1 Hindi picture book about opposites, with few words, rhymes and colourful pictures, for children starting to read Hindi."
+ },
+ {
+  "title": "Teach Your Monster to Read",
+  "url": "https://www.teachyourmonster.org/monster-news/free-phonics-games-apps",
+  "source": "The Usborne Foundation, with the University of Roehampton",
+  "subj": "eng",
+  "strands": [
+   "phonics"
+  ],
+  "type": "game",
+  "ages": [
+   6,
+   7
+  ],
+  "access": "freemium",
+  "lang": [
+   "en"
+  ],
+  "desc": "A phonics game where the child creates a monster and teaches it to read, from letter sounds to little books, over three games. No ads or in-app purchases; the app is sometimes paid, sometimes offered free.",
+  "how": "Check the current price on your app store."
+ },
+ {
+  "title": "ePathshala: NCERT textbooks and media",
+  "url": "https://ciet.ncert.gov.in/initiative/epathshala",
+  "source": "NCERT (CIET)",
+  "subj": "all",
+  "strands": [
+   "textbooks"
+  ],
+  "type": "reading",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en",
+   "hi"
+  ],
+  "desc": "NCERT's free platform for every textbook from Class 1 to 12, with audio, video and interactive material; download for offline use, and the app reads books aloud."
+ },
+ {
+  "title": "DIKSHA: energised textbooks",
+  "url": "https://diksha.gov.in/help/energised-textbooks/consumption/learn-book.html",
+  "source": "NCERT and the Ministry of Education",
+  "subj": "all",
+  "strands": [
+   "textbooks"
+  ],
+  "type": "tool",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en",
+   "hi"
+  ],
+  "desc": "Scan the QR code printed in an NCERT book to open videos, animations and practice linked to that page, on the DIKSHA app or website, in many Indian languages."
+ },
+ {
+  "title": "NASA for educators, Grades K–4",
+  "url": "https://www.nasa.gov/learning-resources/for-educators/for-educators-grades-k-4",
+  "source": "NASA",
+  "type": "lesson",
+  "ages": [
+   6,
+   10
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "NASA's free lesson plans and hands-on experiments for young children, grouped by topic: aeronautics, Earth science, the solar system and more.",
+  "concepts": [
+   "the-universe-sun-moon-stars-and-planets",
+   "planet-earth"
+  ]
+ },
+ {
+  "title": "NASA Science: lessons and activities",
+  "url": "https://science.nasa.gov/learn/lessons-and-activities/",
+  "source": "NASA Science",
+  "type": "lesson",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Free lessons, short hands-on activity guides and videos from NASA scientists, including short videos about the people who do the science.",
+  "concepts": [
+   "the-universe-sun-moon-stars-and-planets",
+   "planet-earth",
+   "day-night-seasons-and-rhythms-of-nature"
+  ]
+ },
+ {
+  "title": "NASA: teach STEM activities",
+  "url": "https://www.nasa.gov/stem-content/teach-stem-activities/",
+  "source": "NASA",
+  "type": "activity",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Searchable hands-on STEM activities from NASA, filtered by grade and topic: rockets, flight, robotics, the Moon and more.",
+  "concepts": [
+   "forces-and-movement",
+   "the-universe-sun-moon-stars-and-planets"
+  ]
+ },
+ {
+  "title": "Exploring carbon: activities for primary classrooms",
+  "url": "https://www.sciencelearn.org.nz/resources/exploring-carbon-activities-for-primary-classrooms",
+  "source": "Science Learning Hub, New Zealand",
+  "type": "experiment",
+  "ages": [
+   8,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Simple practical activities about carbon, with downloads such as a limewater test and a phenol red test that show carbon dioxide from breath and from plants.",
+  "how": "Pairs beautifully with 'A tree made of air' in the Plants book. Read the safety notes first.",
+  "concepts": [
+   "plants",
+   "caring-for-the-environment"
+  ]
+ },
+ {
+  "title": "Ask A Biologist: colouring pages and worksheets",
+  "url": "https://askabiologist.asu.edu/article-type/coloring-pages-worksheets?page=1",
+  "source": "Ask A Biologist, Arizona State University",
+  "type": "worksheet",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Printable biology colouring pages and worksheets made by scientists: the heart, the eye, a plant cell, a monarch butterfly's life cycle, plankton, desert animals and more.",
+  "concepts": [
+   "body-parts-and-skeleton",
+   "kinds-of-living-things-and-sorting-them",
+   "habitats-and-adaptation"
+  ]
+ },
+ {
+  "title": "Ask A Biologist: puzzles",
+  "url": "https://askabiologist.asu.edu/puzzles?page=1",
+  "source": "Ask A Biologist, Arizona State University",
+  "type": "game",
+  "ages": [
+   7,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Free biology puzzles and games from Arizona State University scientists.",
+  "concepts": [
+   "kinds-of-living-things-and-sorting-them",
+   "body-parts-and-skeleton"
+  ]
+ },
+ {
+  "title": "OLogy: the science website for kids",
+  "url": "https://www.amnh.org/explore/ology",
+  "source": "American Museum of Natural History",
+  "subj": "sci",
+  "strands": [
+   "all-science"
+  ],
+  "type": "reading",
+  "ages": [
+   7,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Games, videos, articles and hands-on activities across about 14 sciences, from palaeontology to astronomy, with real museum scientists answering children's questions."
+ },
+ {
+  "title": "Frontiers for Young Minds",
+  "url": "https://amser.org/r29156/frontiers_for_young_minds",
+  "source": "Frontiers for Young Minds (listing on AMSER)",
+  "subj": "sci",
+  "strands": [
+   "all-science"
+  ],
+  "type": "reading",
+  "ages": [
+   8,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A free science journal where real researchers write about their discoveries for children, and children aged 8–15 review the articles before they are published. Over 1,000 articles on space, the brain, biodiversity, health and maths.",
+  "how": "Read one together and ask: what did the scientists not know yet? Older children can even become reviewers."
+ },
+ {
+  "title": "TeachEngineering",
+  "url": "https://www.teachengineering.org/landing",
+  "source": "TeachEngineering (University of Colorado Boulder and partners)",
+  "type": "activity",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A free library of hands-on engineering activities with low-cost materials, no login needed: design, build and test challenges that use science and maths.",
+  "concepts": [
+   "forces-and-movement",
+   "materials-and-their-properties",
+   "making-things"
+  ]
+ },
+ {
+  "title": "Seek by iNaturalist",
+  "url": "https://apps.apple.com/app/apple-store/id1353224144",
+  "source": "iNaturalist (California Academy of Sciences and National Geographic Society)",
+  "type": "citizen-science",
+  "ages": [
+   7,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Point a phone at a plant, insect or fungus and the app suggests what it is, with badges for species found. Needs no account and collects no data by default, so it's safe for children.",
+  "how": "Never use it to decide whether a mushroom or berry is safe to eat.",
+  "concepts": [
+   "kinds-of-living-things-and-sorting-them",
+   "plants",
+   "habitats-and-adaptation"
+  ]
+ },
+ {
+  "title": "Zooniverse in schools",
+  "url": "https://www.physics.ox.ac.uk/engage/schools/secondary-schools/zooniverse-schools",
+  "source": "University of Oxford, Department of Physics",
+  "type": "citizen-science",
+  "ages": [
+   9,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "How children aged 9–12 can help real scientists by classifying galaxies, wildlife camera-trap photos and old weather records on Zooniverse.",
+  "concepts": [
+   "the-universe-sun-moon-stars-and-planets",
+   "habitats-and-adaptation"
+  ]
+ },
+ {
+  "title": "Mystery Science",
+  "url": "https://support.mysteryscience.com/hc/en-us/articles/38300066192659-What-is-Mystery-Science",
+  "source": "Mystery Science",
+  "subj": "sci",
+  "strands": [
+   "all-science"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   11
+  ],
+  "access": "freemium",
+  "lang": [
+   "en"
+  ],
+  "desc": "Open-and-go video science lessons for Kindergarten to Grade 5 built around a mystery question, with hands-on tasks using things at home. Some lessons free; full access is paid."
+ },
+ {
+  "title": "Project Zero thinking routines",
+  "url": "https://pz.harvard.edu/thinking-routines-archive",
+  "source": "Project Zero, Harvard Graduate School of Education",
+  "subj": "think",
+  "strands": [
+   "thinking"
+  ],
+  "type": "tool",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Harvard's collection of short question routines that make children's thinking visible, such as See, Think, Wonder; Claim, Support, Question; and Think, Puzzle, Explore.",
+  "how": "Use one routine with any picture, object or story in any subject."
+ },
+ {
+  "title": "See, Think, Wonder",
+  "url": "https://pz.harvard.edu/sites/default/files/2026-03/See%20think%20wonder.pdf",
+  "source": "Project Zero, Harvard Graduate School of Education",
+  "subj": [
+   "think",
+   "sci"
+  ],
+  "strands": [
+   "thinking",
+   "all-science"
+  ],
+  "type": "worksheet",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A one-page routine: What do you see? What do you think about that? What does it make you wonder? It builds careful observation and honest interpretation.",
+  "how": "Try it on a leaf, an old photo, a painting or a strange object before teaching anything about it."
+ },
+ {
+  "title": "See, Feel, Think, Wonder",
+  "url": "https://pz.harvard.edu/sites/default/files/2026-05/See%20Feel%20Think%20Wonder.pdf",
+  "source": "Project Zero, Harvard Graduate School of Education",
+  "subj": "think",
+  "strands": [
+   "thinking"
+  ],
+  "type": "worksheet",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "The See, Think, Wonder routine with a feelings step added, for stories, art and experiences that move us."
+ },
+ {
+  "title": "Philosophy for children: resources",
+  "url": "https://www.sdu.dk/en/om-sdu/institutter-centre/idmu/forskning/forskningsprojekter/filosofi_i_skolen/ressourcer",
+  "source": "University of Southern Denmark, Philosophy in Schools",
+  "subj": "think",
+  "strands": [
+   "philosophy"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A university list of philosophy-with-children resources, including The Philosophy Foundation's free session plans and videos (free membership), for talking about fairness, truth, friendship and what's real."
+ },
+ {
+  "title": "Azim Premji Foundation publications, including i wonder…",
+  "url": "https://azimpremjifoundation.org/resources/publications/",
+  "source": "Azim Premji Foundation and University",
+  "subj": "sci",
+  "strands": [
+   "all-science"
+  ],
+  "type": "reading",
+  "ages": [
+   8,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en",
+   "hi"
+  ],
+  "desc": "Free magazines for teachers and parents, including i wonder…, an Indian magazine on teaching EVS and science through curiosity and inquiry, in English, Hindi and Kannada.",
+  "how": "For you, the grown-up: rich ideas for how to teach a topic, not just what."
+ },
+ {
+  "title": "Make a Ten",
+  "url": "https://phet.colorado.edu/en/simulations/make-a-ten",
+  "source": "PhET, University of Colorado Boulder",
+  "subj": "math",
+  "strands": [
+   "operations",
+   "number"
+  ],
+  "type": "sim",
+  "ages": [
+   6,
+   7
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A free simulation for adding by making a ten first: children drag and break apart numbers to see why 8 + 5 is the same as 10 + 3."
+ },
+ {
+  "title": "Fractions: Intro (PhET, on India's CLIx platform)",
+  "url": "https://clixplatform.tiss.edu/phet/en/simulation/fractions-intro.html",
+  "source": "PhET, hosted by TISS CLIx",
+  "subj": "math",
+  "strands": [
+   "fractions"
+  ],
+  "type": "sim",
+  "ages": [
+   7,
+   10
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Build fractions and see them as pies, bars, cakes and points on a number line, including fractions bigger than one. Almost no words, so children explore first.",
+  "how": "Let your child play before you explain anything; then ask what the top and bottom numbers mean."
+ },
+ {
+  "title": "Fractions: Intro teacher's guide",
+  "url": "https://clixplatform.tiss.edu/phet/files/teachers-guide/fractions-intro-guide.pdf",
+  "source": "PhET, hosted by TISS CLIx",
+  "subj": "math",
+  "strands": [
+   "fractions"
+  ],
+  "type": "lesson",
+  "ages": [
+   7,
+   10
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A short guide for the grown-up on using the Fractions: Intro simulation: let the child explore, then talk about numerator and denominator."
+ },
+ {
+  "title": "Year 1 and 2 maths units (Key Stage 1)",
+  "url": "https://thenational.academy/teachers/programmes/maths-primary-ks1/units",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "all-maths"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "All of Oak's free maths units for ages 5–7: counting, place value, addition and subtraction, shape, money, time and measures.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Year 2 maths units",
+  "url": "https://www.thenational.academy/pupils/programmes/maths-primary-year-2/units",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "all-maths"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Oak's Year 2 maths units for children, including counting and representing numbers to 99, comparing and partitioning 2-digit numbers, and multiples of 10.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Year 2 maths: money",
+  "url": "https://www.thenational.academy/pupils/programmes/maths-primary-year-2-l/units/money-4a71/lessons",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "time-money"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Ten lessons on coin values, counting and adding money, using the fewest coins and giving change. Oak may be replacing these with newer lessons.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Year 2 maths: telling the time",
+  "url": "https://www.thenational.academy/pupils/programmes/maths-primary-year-2-l/units/time-ea81/lessons",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "time-money"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Five lessons on minutes in an hour, telling time to five minutes, quarter past and quarter to, and comparing lengths of time.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Explore equal and unequal parts",
+  "url": "https://www.thenational.academy/pupils/lessons/explore-the-concept-of-equal-and-unequal-parts-c9h6ad",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "fractions"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   8
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A first lesson on fractions: what makes parts equal, and why that matters before we can talk about halves and quarters.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Year 3 maths units",
+  "url": "https://thenational.academy/pupils/programmes/maths-primary-year-3/units",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "all-maths"
+  ],
+  "type": "lesson",
+  "ages": [
+   7,
+   9
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Oak's Year 3 maths units, including unit fractions as part of a whole, comparing and ordering unit fractions, and non-unit fractions.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Year 3 maths: non-unit fractions",
+  "url": "https://www.thenational.academy/pupils/programmes/maths-primary-year-3/units/non-unit-fractions/lessons",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "fractions"
+  ],
+  "type": "lesson",
+  "ages": [
+   7,
+   9
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Ten lessons on fractions like 3/4 and 2/5: what they mean and how to show them.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Year 3 maths: adding and subtracting fractions",
+  "url": "https://www.thenational.academy/pupils/programmes/maths-primary-year-3/units/composition-of-non-unit-fractions-addition-and-subtraction/lessons",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "fractions"
+  ],
+  "type": "lesson",
+  "ages": [
+   7,
+   9
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Ten lessons building non-unit fractions by adding unit fractions, then adding and subtracting fractions with the same denominator.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Key Stage 2 maths units (Years 3–6)",
+  "url": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "all-maths"
+  ],
+  "type": "lesson",
+  "ages": [
+   7,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "All of Oak's free maths units for ages 7–11, from times tables to fractions, decimals, measures and geometry.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Year 4 maths units",
+  "url": "https://thenational.academy/pupils/programmes/maths-primary-year-4/units",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "all-maths"
+  ],
+  "type": "lesson",
+  "ages": [
+   8,
+   10
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Oak's Year 4 maths units, including the 3, 6, 7 and 9 times tables, multiplicative structures, the distributive law and multiplying and dividing by 10 and 100.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Year 4 maths: understand multiplication",
+  "url": "https://www.thenational.academy/pupils/programmes/maths-primary-year-4/units/understand-and-represent-multiplicative-structures/lessons",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "operations"
+  ],
+  "type": "lesson",
+  "ages": [
+   8,
+   10
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Lessons on what each number in a multiplication means, with arrays and models, before memorising tables.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Investigating multiplication patterns",
+  "url": "https://www.thenational.academy/pupils/lessons/investigating-multiplication-patterns-6rt68c/intro",
+  "source": "Oak National Academy",
+  "subj": "math",
+  "strands": [
+   "patterns",
+   "operations"
+  ],
+  "type": "lesson",
+  "ages": [
+   8,
+   10
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A lesson that looks for patterns in multiplication tables instead of only memorising them.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "Year 1 English units",
+  "url": "https://www.thenational.academy/pupils/programmes/english-primary-year-1/units",
+  "source": "Oak National Academy",
+  "subj": "eng",
+  "strands": [
+   "all-english"
+  ],
+  "type": "lesson",
+  "ages": [
+   6,
+   7
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Oak's Year 1 English units: speaking and listening, letter formation, simple sentences, and reading and writing units built on stories such as Paddington and Jack and the Beanstalk.",
+  "how": "Oak's lessons are free video lessons with quizzes. Watch together and pause to try things with real objects."
+ },
+ {
+  "title": "NRICH: place value, age 5–7",
+  "url": "https://nrich.maths.org/place-value-age-5-7",
+  "source": "NRICH, University of Cambridge",
+  "subj": "math",
+  "strands": [
+   "number",
+   "reasoning"
+  ],
+  "type": "game",
+  "ages": [
+   6,
+   7
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "Cambridge's free place-value problems and games for young children, such as Snail One Hundred (a dice game about tens and ones) and Writing Digits (how many digits to write 1 to 20?)."
+ },
+ {
+  "title": "NRICH: number and place value",
+  "url": "https://nrich.maths.org/number-and-place-value",
+  "source": "NRICH, University of Cambridge",
+  "subj": "math",
+  "strands": [
+   "number",
+   "reasoning"
+  ],
+  "type": "game",
+  "ages": [
+   6,
+   11
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "NRICH's collection of rich number tasks across primary ages, including Number Tracks (patterns in pieces of number track), Square Corners and Number Detective."
+ },
+ {
+  "title": "Make a Moon phases calendar and calculator",
+  "url": "https://www.nasa.gov/stem-content/make-a-moon-phases-calendar-and-calculator",
+  "source": "NASA (Jet Propulsion Laboratory)",
+  "type": "activity",
+  "ages": [
+   6,
+   12
+  ],
+  "access": "free",
+  "lang": [
+   "en"
+  ],
+  "desc": "A printable decoder-wheel calendar you cut out and assemble to find the Moon's phase on any day, like your birthday, with a guide for grown-ups and a low-ink version.",
+  "how": "Then check it against the real Moon for a week.",
+  "concepts": [
+   "the-universe-sun-moon-stars-and-planets",
+   "day-night-seasons-and-rhythms-of-nature"
+  ]
+ }
+]

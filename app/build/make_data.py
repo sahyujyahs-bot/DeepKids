@@ -56,7 +56,7 @@ for f in sorted(glob.glob(os.path.join(RES_DIR, "*.json"))):
     for r in json.load(open(f)):
         u = r["url"].rstrip("/").lower()
         if u in _seen: continue
-        _seen[u] = 1; RESOURCES.append({k: r[k] for k in ("title", "url", "source", "type", "ages", "access", "lang", "desc", "concepts") } | ({"how": r["how"]} if r.get("how") else {}) | ({"chapters": r["chapters"]} if r.get("chapters") else {}))
+        _seen[u] = 1; RESOURCES.append({k: r[k] for k in ("title", "url", "source", "type", "ages", "access", "lang", "desc")} | {"concepts": r.get("concepts", []), "subj": r["subj"] if isinstance(r.get("subj"), list) else [r.get("subj", "sci")]} | ({"strands": r["strands"]} if r.get("strands") else {}) | ({"how": r["how"]} if r.get("how") else {}) | ({"chapters": r["chapters"]} if r.get("chapters") else {}))
 RCONCEPTS = [{k: c[k] for k in ("id", "concept", "chapters", "plus")} for c in json.load(open(os.path.join(RES_DIR, "concepts.json")))]
 
 # Which classes each DeepKids topic is offered to. For now every EVS topic is open to Classes 1-5;

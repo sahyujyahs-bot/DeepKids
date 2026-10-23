@@ -22,6 +22,20 @@ This is a tagged library of free, good-quality science resources for children ag
 }
 ```
 
+### Other subjects
+
+Maths, English, Hindi, thinking and coding resources (and whole-site science resources) use `subj` and `strands` instead of `concepts`:
+
+```jsonc
+"subj": "math",               // sci | math | eng | hin | think | code | all, or a list like ["eng", "hin"]
+"strands": ["fractions"]      // math: number, operations, fractions, measurement, time-money, shapes, patterns, data, reasoning, all-maths
+                              // eng: phonics, reading, stories, vocabulary, grammar, writing, speaking, all-english
+                              // hin: varnamala, reading, stories, poems, writing, all-hindi
+                              // think: thinking, philosophy · code: coding, unplugged · sci: all-science · all: textbooks, all-subjects
+```
+
+`subj` defaults to "sci". Science resources still use `concepts`; a whole-site science resource may use `"strands": ["all-science"]` instead.
+
 ## Rules
 
 1. **Real links only.** Every URL must have appeared in a web search result you saw. Never build, guess or "fix" a URL. A homepage is fine only when the whole site is the resource. Otherwise link the specific page.
