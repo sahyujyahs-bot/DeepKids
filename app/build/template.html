@@ -520,6 +520,7 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 .pill.st-going{background:#FFE7C9;color:#8A4B00}.pill.st-queued{background:#E6E4FA;color:#3F3A8C}.pill.st-none,.pill.st-new{background:var(--sunk);color:var(--muted)}
 .qcard{display:grid;gap:10px}.btn.bad{background:#F6D5D1;color:#8B2A1E}.pill.mg-not{background:#F6D5D1;color:#8B2A1E}.pill.mg-grasped{background:#FFF0C9;color:#5C4300}.pill.mg-mastered{background:#D9F0E1;color:#1F5A36}
 .mgc-not{box-shadow:inset 4px 0 0 #E07A6B}.mgc-grasped{box-shadow:inset 4px 0 0 #E8B84A}.mgc-mastered{box-shadow:inset 4px 0 0 #4CAF73}
+.s-wml{--c:var(--sun)}.s-wart{--c:var(--gum)}.wft{border-collapse:collapse;width:100%;font-size:14px;margin:6px 0}.wft td,.wft th{border-bottom:1px solid var(--line);padding:6px 4px;text-align:left;vertical-align:top}.wft th{font-weight:700;color:var(--muted)}
 </style>
 
 <header class="top"><div class="wrap">
@@ -1093,17 +1094,29 @@ table.rtab{border-collapse:collapse;width:100%;font-size:13px}table.rtab th,tabl
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 const DATA = /*DATA*/;
-const SUBJ = {...DATA.subjects,dks:"DeepKids Science"}, SUBJ_KEYS = Object.keys(SUBJ);
+const SUBJ = {...DATA.subjects,dks:"DeepKids Science",wml:"Main lesson",wart:"Arts & handwork"}, SUBJ_KEYS = Object.keys(SUBJ);
 DATA.prepgen.guide.dks=DATA.prepgen.guide.dks||"DeepKids Science starts from a big question. Read the topic story yourself first, then let your child wonder out loud before you explain anything. Their questions matter more than the answers.";
-DATA.prepgen.prep.dks=DATA.prepgen.prep.dks||[["read",1,"Read the topic story and its big question yourself (5 min)","The topic page in DeepKids"],["act",0,"Keep a wonder notebook handy for your child's questions","At home"]];
-const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)"};
+DATA.prepgen.guide.wml="Prepare tomorrow's story the night before so you can tell it in your own words. Keep the rhythm: circle, recall, new content, Main Lesson Book, practice, closing.";DATA.prepgen.guide.wart="Lay out the materials before you begin: a cloth on the table, water, the paper soaked for painting.";DATA.prepgen.prep.wml=[["read",1,"Read tomorrow's story or lesson and practise telling it (10 min)","The day plan in DeepKids"]];DATA.prepgen.prep.wart=[["act",0,"Lay out today's art materials","Around the house"]];DATA.prepgen.prep.dks=DATA.prepgen.prep.dks||[["read",1,"Read the topic story and its big question yourself (5 min)","The topic page in DeepKids"],["act",0,"Keep a wonder notebook handy for your child's questions","At home"]];
+const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)",waldorf:"Waldorf"};
 const STATUS = {none:"Not started",learning:"Learning",completed:"Completed",mastered:"Mastered"};
 const DAYN=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
-const DEF_DAYS={math:[1,2,3,4,5],eng:[1,2,4,5],hin:[2,4],sci:[1,3,5],dks:[1,2,3,4,5]};
-const DEF_HPD={math:1,eng:0.75,hin:0.5,sci:0.75,dks:0.5};
+const DEF_DAYS={math:[1,2,3,4,5],eng:[1,2,4,5],hin:[2,4],sci:[1,3,5],dks:[1,2,3,4,5],wml:[1,2,3,4,5],wart:[1,2,3,4,5]};
+const DEF_HPD={math:1,eng:0.75,hin:0.5,sci:0.75,dks:0.5,wml:1.5,wart:0.75};
 const DEF_DAY={prepAt:"07:30",start:"09:30",brk:15,lunch:"13:00",lunchMin:45,eveAt:"20:30"};
-const SCOL={math:"var(--teal)",eng:"var(--grape)",hin:"var(--tomato)",sci:"var(--leaf)",dks:"var(--peri)"};
+const SCOL={math:"var(--teal)",eng:"var(--grape)",hin:"var(--tomato)",sci:"var(--leaf)",dks:"var(--peri)",wml:"var(--sun)",wart:"var(--gum)"};
 const PRESET_EXP={A1:["Lotus seeds (Kamali): change water","Alum crystal (Fitkari): check growth","World in a Jar: look for droplets","Bread mould bag: look, never open"],A5:["Moong sprouts: light vs dark"],B5:["Moon diary: draw tonight's Moon"],B10:["Bury test: dig up after 3 weeks"]};
 const iso=d=>{const x=new Date(d);return x.getFullYear()+"-"+String(x.getMonth()+1).padStart(2,"0")+"-"+String(x.getDate()).padStart(2,"0")};
 const parse=s=>{const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d)};
@@ -1224,7 +1237,7 @@ const chNo=u=>/^\d+$/.test(u.n)?"Ch "+u.n:"";
 const lvlLabel=l=>{const x=DATA.levels[l];return `Level ${l} · Class ${x.cls} · age ${x.age}`};
 const sticker=s=>`<span class="sticker ${s}">${STATUS[s]}</span>`;
 /* ---------- day steps ---------- */
-const HINT={dks:"Start from your child's own questions. There are no wrong answers here: ask “how do we know?” and try it out at home.",math:"Use real things for every problem (coins, beans, rotis, a ruler) before writing anything down.",eng:"Read aloud together, collect new words in a notebook, and ask your child to retell it in their own words.",hin:"Read aloud in Hindi, collect new words with meanings, and ask your child to retell it in Hindi.",sci:"Look for the idea in your own home or street before reading about it."};
+const HINT={wml:"Tell, don't read. Move it first, then draw it, then write it.",wart:"Process before product: enjoy the colours and the making.",dks:"Start from your child's own questions. There are no wrong answers here: ask “how do we know?” and try it out at home.",wml:"Tell, don't read. Move it first, then draw it, then write it.",wart:"Process before product: enjoy the colours and the making.",dks:"Start from your child's own questions. There are no wrong answers here: ask “how do we know?” and try it out at home.",wml:"Tell, don't read. Move it first, then draw it, then write it.",wart:"Process before product: enjoy the colours and the making.",dks:"Start from your child's own questions. There are no wrong answers here: ask “how do we know?” and try it out at home.",math:"Use real things for every problem (coins, beans, rotis, a ruler) before writing anything down.",eng:"Read aloud together, collect new words in a notebook, and ask your child to retell it in their own words.",hin:"Read aloud in Hindi, collect new words with meanings, and ask your child to retell it in Hindi.",sci:"Look for the idea in your own home or street before reading about it."};
 const KIND=n=>/^Read/.test(n)?["read","Read","📖"]:/^What to learn/.test(n)?["learn","Learn & think","💡"]:/^Worksheet/.test(n)?["ws","Worksheet","✏️"]:/^Experiment/.test(n)?["exp","Experiment","🧪"]:/^Activit/.test(n)?["act","Activity","🧭"]:/^Game/.test(n)?["game","Game","🎲"]:/^Project/.test(n)?["proj","Project","🛠️"]:["step","Step","⭐"];
 const TASKOF={ws:"ws",exp:"exp0",act:"act0",game:"game",proj:"proj"};
 function daySteps(u,n,tot){if(u.c?.p)return packDay(u,n);const cap=hpdOf(u.subj);
@@ -1281,11 +1294,17 @@ function dayPlan(date){const d=Dd(date),items=[],ev=eventsOn(date),isT=date===to
   if(am.length)items.push({id:"am",at:hm(d.prepAt),dur:prepMins(am),who:"you",kind:"prep",title:"Your morning prep",sub:`${am.length} things to get ready`+(am.some(p=>p.early)?" · includes early starts":""),prep:am,done:am.every(p=>S.prep[p.id])});
   const lessons=lessonsOn(date);const fixed=[{a:hm(d.lunch),b:hm(d.lunch)+(+d.lunchMin)},...ev.filter(e=>e.start).map(e=>({a:hm(e.start),b:e.end?hm(e.end):hm(e.start)+60}))];
   let cur=hm(d.start);const place=dur=>{let moved=true;while(moved){moved=false;for(const f of fixed){if(cur<f.b&&cur+dur>f.a){cur=f.b;moved=true}}}const at=cur;cur+=dur;return at};
-  if(lessons.length){items.push({id:"warm",at:place(15),dur:15,who:"both",kind:"warm",title:"Warm-up: jokes and Word of the Day",sub:"Start the day laughing",done:!!S.tl[date+"|warm"]||(isT&&(G().g.length>0))});
+  if(lessons.length){if(S.board!=="waldorf")items.push({id:"warm",at:place(15),dur:15,who:"both",kind:"warm",title:"Warm-up: jokes and Word of the Day",sub:"Start the day laughing",done:!!S.tl[date+"|warm"]||(isT&&(G().g.length>0))});
     const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]});
     const open=S.exps.filter(e=>!e.closed&&e.start<=date);if(open.length)items.push({id:"exps",at:place(5),dur:5,who:"both",kind:"exps",title:"Daily check-ins",sub:open.map(e=>e.title).slice(0,2).join(" · ")+(open.length>2?` +${open.length-2}`:""),done:isT&&open.every(e=>e.checks.includes(today))});cur+=5}
-  lessons.forEach((l,i)=>{if(l.done&&l.at!=null){items.push({id:"L-"+l.s+"d"+i,at:l.at,doneAt:l.at,dur:lessonMins(l.s,date),who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,title:SUBJ[l.s]+": "+l.u.title,sub:l.skipped?"Skipped":"Done ✓",skipped:l.skipped,done:true});return}const dur=lessonMins(l.s,date),lastEnd=cur;if(i>0)cur+=+d.brk;const at=place(dur);if(i>0&&+d.brk&&at===lastEnd+ +d.brk)items.push({id:"brk"+i,at:lastEnd,dur:+d.brk,who:"free",kind:"brk",title:"Break: water, snack, move"});items.push({id:"L-"+l.s+(l.bonus?"b":"")+i,at,dur,who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,bonus:!!l.bonus,doneNoTime:!!l.done,title:(l.bonus?"Bonus · ":"")+SUBJ[l.s]+": "+l.u.title,sub:l.done?"Done ✓":`Part ${l.n} of ${l.tot}`+(l.u.c?.x?` · ${daySteps(l.u,l.n,l.tot).map(z=>z.label).join(", ")}`:""),done:!!l.done});
+  lessons.forEach((l,i)=>{if(l.done&&l.at!=null){items.push({id:"L-"+l.s+"d"+i,at:l.at,doneAt:l.at,dur:lessonMins(l.s,date),who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,title:SUBJ[l.s]+": "+l.u.title,sub:l.skipped?"Skipped":"Done ✓",skipped:l.skipped,done:true});return}const dur=lessonMins(l.s,date),lastEnd=cur;if(i>0)cur+=+d.brk;const at=place(dur);if(i>0&&+d.brk&&at===lastEnd+ +d.brk)items.push({id:"brk"+i,at:lastEnd,dur:+d.brk,who:"free",kind:"brk",title:"Break: water, snack, move"});items.push({id:"L-"+l.s+(l.bonus?"b":"")+i,at,dur,who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,bonus:!!l.bonus,doneNoTime:!!l.done,title:(l.bonus?"Bonus · ":"")+SUBJ[l.s]+": "+(l.u.subj==="wart"&&l.u.c?.p?pkDay(l.u,l.n).title:l.u.title),sub:l.done?"Done ✓":`Part ${l.n} of ${l.tot}`+(l.u.c?.x?` · ${daySteps(l.u,l.n,l.tot).map(z=>z.label).join(", ")}`:""),done:!!l.done});
 });
+  if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
+  if(!lessons.length){const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]})}
+  if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
+  if(!lessons.length){const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]})}
+  if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
+  if(!lessons.length){const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]})}
   if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
   if(!lessons.length){const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]})}
   if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
@@ -1349,6 +1368,18 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* Waldorf: its own subjects (Main lesson, Hindi, Arts & handwork), shown only to Waldorf families */
+const WFS=["wml","wart"],visSubj=b=>b==="waldorf"?["wml","hin","wart","dks"]:SUBJ_KEYS.filter(k=>!WFS.includes(k));
+function wfGuideView(){const G=DATA.waldorf||{};document.getElementById("sheetTitle").textContent="Waldorf at home";const cls=S.levels?.wml||1,tbl=(rows,h)=>`<table class="wft">${h?`<tr>${h.map(x=>`<th>${x}</th>`).join("")}</tr>`:""}${rows.map(r=>`<tr>${r.map(x=>`<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</table>`;
+  return `<p>${esc(G.intro||"")}</p>
+   <section class="card"><b style="font:600 17px var(--display)">What matters most</b>${(G.principles||[]).map(([t,d])=>`<p class="sm"><b>${esc(t)}.</b> ${esc(d)}</p>`).join("")}</section>
+   <section class="card"><b style="font:600 17px var(--display)">A Waldorf day at home</b>${tbl(G.day||[],["","Time","What"])}<p class="xs muted">DeepKids plans the main lesson, Hindi and the arts each day from your Pace settings. Set times in Plan → Tell DeepKids → Day times.</p></section>
+   <section class="card"><b style="font:600 17px var(--display)">The week's arts rhythm</b>${tbl(G.week||[])}</section>
+   <section class="card"><b style="font:600 17px var(--display)">The year and its festivals</b>${tbl(G.year||[])}<p class="xs muted">Keep a seasonal table: a cloth in the season's colour, and what you find outside.</p></section>
+   <section class="card"><b style="font:600 17px var(--display)">What to get</b>${tbl(G.materials||[])}</section>
+   <section class="card"><b style="font:600 17px var(--display)">Books</b><p class="sm"><b>For you:</b></p><ul class="sm">${(G.books?.parent||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul>${[1,2,3,4,5].map(c=>`<details${c===cls?" open":""}><summary class="sm"><b>Class ${c}</b>${c===cls?" (your class)":""}</summary><ul class="sm">${(G.books?.[c]||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul></details>`).join("")}</section>
+   <p class="xs muted">${esc(G.schools||"")}</p><p class="xs muted">This plan is written in the spirit of Waldorf education for Indian families. It is not an accredited Steiner curriculum; a trained Waldorf teacher near you can help you go deeper.</p>`}
+
 /* ---------- Question bank from the lessons done ---------- */
 const qid=(k,q)=>{let h=0;const s=k+"|"+q;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))|0;return "q"+(h>>>0).toString(36)};
 function qBank(u){const P=u.c?.p,out=[],seen=new Set(),add=o=>{const id=qid(u.k,o.q);if(seen.has(id))return;seen.add(id);out.push({k:u.k,id,...o})};
@@ -1474,8 +1505,7 @@ function itemState(ty,u,id){const W=WK(),w=W[u.k+"|"+id],st=w?.st==="planned"?nu
 function stateCtl(ty,u,id){const s=itemState(ty,u,id),cls={going:"started",done:"done",skip:"skip"}[s]||"",reached=(()=>{const P=u.c?.p;if(!P)return false;const dn=rank[coverage(u)]>=2?P.days.length:done(u.k);if(ty==="qz")return +id.slice(1)<=dn;const w=(P.worksheets||[]).find(z=>z.id===id);return (w?.day||99)<=dn})();
   const lab=s==="none"&&reached?"Pending":ISTATE[s],b=(to,l)=>`<button class="link xs" data-act="ist" data-ty="${ty}" data-k="${u.k}" data-id="${id}" data-to="${to}">${l}</button>`;
   return `<div class="wkctl ${cls}"><span class="xs"><b>${lab}${s==="done"?" ✓":""}</b>${qTag(ty,u,id,s)}</span><div class="row" style="gap:8px;flex-wrap:wrap">${qCtl(ty,u,id,s)}${s==="none"&&ui.qpick!==ty+":"+u.k+"|"+id?b("skip","Not doing this"):s==="skip"?b("none","Undo"):s==="done"&&ty==="ws"?b("undo","Undo finished"):""}</div></div>`}
-function subjCard(){return `<section class="sec"><div class="sech"><h3>Subjects</h3><span class="xs muted">Tap to add or leave out</span></div><div class="row chips">${SUBJ_KEYS.map(k=>`<button class="chip ${SC(k)}" aria-pressed="${S.subjects.includes(k)}" data-act="subtog" data-s="${k}">${S.subjects.includes(k)?"✓ ":"+ "}${SUBJ[k]}</button>`).join("")}</div></section>`}
-
+function subjCard(){return `<section class="sec"><div class="sech"><h3>Subjects</h3><span class="xs muted">Tap to add or leave out</span></div><div class="row chips">${visSubj(S.board).map(k=>`<button class="chip ${SC(k)}" aria-pressed="${S.subjects.includes(k)}" data-act="subtog" data-s="${k}">${S.subjects.includes(k)?"✓ ":"+ "}${SUBJ[k]}</button>`).join("")}</div></section>${S.board==="waldorf"?`<button class="menurow" data-act="wfguide">${blob("var(--sun)",31,"happy","",'width="40" height="40"')}<span><b>Waldorf at home</b><br><span class="xs muted">Rhythm, festivals, materials and books for each class</span></span>${icon("next")}</button>`:""}`}
 /* DeepKids Science is its own subject now (it used to ride inside EVS): move a family's DeepKids topics across once */
 function dksMigrate(){if(!S||!S.setup||S.dksMig)return;S.dksMig=1;const mv=o=>{if(!o||!o.sci)return o;const dk=o.sci.filter(k=>String(k).startsWith("dk|"));if(!dk.length)return o;return {...o,sci:o.sci.filter(k=>!String(k).startsWith("dk|")),dks:[...new Set([...(o.dks||[]),...dk])]}};
   S.extra=mv(S.extra);S.next=mv(S.next);S.later=mv(S.later);S.levels={...S.levels,dks:S.levels?.dks||S.levels?.sci||1};
@@ -1534,7 +1564,7 @@ function moreJG(){const n=ui.jg||0;if(!n)return `<button class="btn soft sm" dat
 const WT={les:["Lessons","📘"],proj:["Projects","🧩"],exp:["Experiments","🧪"],act:["Activities","✂️"],ws:["Worksheets","📝"],qz:["Quizzes","❓"]};
 const WQ=()=>S.wq||(S.wq={});
 function wType(u,id){if(id==="proj")return "proj";const P=u.c?.p;if(P){if(refParts(u,id).length>=2)return "proj";if((P.experiments||[]).some(e=>e.id===id))return "exp";if((P.worksheets||[]).some(w=>w.id===id))return "ws";return "act"}return /^exp/.test(id)?"exp":"act"}
-function quizQ(u,n){const P=u.c?.p;if(!P)return [];const d=pkDay(u,n),W=P.words||[];if(d.steps.some(s=>s.kind==="check")&&P.check?.length)return P.check;const last=d.n===P.days.length;
+function quizQ(u,n){const P=u.c?.p;if(!P||u.board==="waldorf")return [];const d=pkDay(u,n),W=P.words||[];if(d.steps.some(s=>s.kind==="check")&&P.check?.length)return P.check;const last=d.n===P.days.length;
   return last&&P.check?.length?P.check.slice(0,5):(W.length?[0,1,2].map(i=>W[((d.n-1)*3+i)%W.length]).filter((w,i,a)=>a.indexOf(w)===i).map(([w,m])=>({q:`What does “${w}” mean?`,a:m})):[])}
 /* a step ticked off during the lesson counts as done */
 function stepTicked(u,id){const P=u.c?.p;if(!P)return false;const names=new Set();P.days.forEach(d=>d.steps.forEach(s=>{if(s.ref===id)names.add((PKIND[s.kind]||["act"])[0]+"|"+s.title)}));if(!names.size)return false;
@@ -2022,7 +2052,7 @@ function uploadsView(){document.getElementById("sheetTitle").textContent="Upload
   if(!U.length)h+=`<p class="note">Nothing uploaded yet.</p>`;return h}
 
 /* ---------- tracking ---------- */
-const CHC={math:"#2A8FB0",eng:"#C24F8A",hin:"#D98A2B",sci:"#3F8A4F",dks:"#6E6CC9"};
+const CHC={math:"#2A8FB0",eng:"#C24F8A",hin:"#D98A2B",sci:"#3F8A4F",dks:"#6E6CC9",wml:"#C9A227",wart:"#C24F8A"};
 const hmin=m=>{m=Math.round(m);return m<60?m+" min":Math.floor(m/60)+" h"+(m%60?" "+m%60+" m":"")};
 function addMins(k,sec){const u=unitByK(String(k||"").replace(/^x/,""));if(!u)return;S.mins=S.mins||{};const key=today+"|"+u.subj;S.mins[key]=Math.round(((S.mins[key]||0)+sec/60)*10)/10}
 function trackData(){const D={},day=d=>D[d]=D[d]||{m:{},e:{},did:[]},add=(d,s,f,m)=>{const x=day(d);x[f][s]=(x[f][s]||0)+m};
@@ -2062,7 +2092,7 @@ document.addEventListener("scroll",()=>{if(TIP)TIP.style.display="none"},true);
 
 /* ---------- school transfer report ---------- */
 const GRADE=p=>p>=91?"A1":p>=81?"A2":p>=71?"B1":p>=61?"B2":p>=51?"C1":p>=41?"C2":p>=33?"D":"E";
-const BOARDN={ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS Open Basic Education"};
+const BOARDN={ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS Open Basic Education",waldorf:"Waldorf (Steiner) education"};
 const lvN=(b,l)=>b==="nios"?(l===3?"Level A (≈ Class 3)":l===5?"Level B (≈ Class 5)":"Level "+l):b==="cambridge"?`Stage ${l} (≈ Class ${l})`:`Class ${l}`;
 function chScore(u){const k=u.k,P=u.c?.p,cov=Math.min(1,done(k)/sessionsFor(u));let r=0,n=0;
   const sets=[...(u.c?.x?.wsd?[[k,u.c.x.wsd]]:[]),...(P?.worksheets||[]).map(w=>[k+"#"+w.id,w.sections])];
@@ -2240,7 +2270,7 @@ const ACTN={read:"reading",talk:"talking",think:"thinking",warmup:"warm-up",do:"
 function srcOf(s){const t=(s.title||"")+" · "+(s.do||""),m=[...t.matchAll(/\b(?:pages?|pp?\.?)\s?(\d{1,3})(?:\s*(?:–|-|to|and)\s*(\d{1,3}))?/gi)],raw=[...new Set(m.map(x=>x[2]?x[1]+"–"+x[2]:x[1]))],rng=raw.filter(p=>p.includes("–")).map(p=>p.split("–").map(Number)),pages=raw.filter(p=>p.includes("–")||!rng.some(([a,b])=>+p>=a&&+p<=b));return {book:(pages.length>0||/\bthe book['’]s\b|\bActivity \d+\.\d+|\bin the book\b|\bLearner['’]s Book\b/i.test(t))&&!/\bwithout the book\b/i.test(t),pages}}
 function srcLine(s){const {book,pages}=srcOf(s),a=ACTN[s.kind]||"step",pg=pages.length?` · page${pages.length>1||pages[0].includes("–")?"s":""} ${pages.join(", ")}`:"";
   return book?`<div class="src book"><b>📖 Book step${pg}</b><span>Open the textbook now${pages.length?" at "+(pages.length>1||pages[0].includes("–")?"these pages":"this page"):""}.</span></div>`:`<div class="src dk"><b>✨ DeepKids step · ${a}</b><span>Book closed for this one. Everything is on this screen.</span></div>`}
-function chT(u){if(!u)return "";const pre=u.board==="ncert"?"Ch "+u.n:u.board==="cambridge"?(/^\d+$/.test(u.n)?"Unit "+u.n:""):u.board==="nios"?"Lesson "+u.n:u.board==="dk"?u.n:"";return (pre?pre+" · ":"")+u.title}
+function chT(u){if(!u)return "";const pre=u.board==="waldorf"?(u.subj==="wart"?"":"Block "+u.n):u.board==="ncert"?"Ch "+u.n:u.board==="cambridge"?(/^\d+$/.test(u.n)?"Unit "+u.n:""):u.board==="nios"?"Lesson "+u.n:u.board==="dk"?u.n:"";return (pre?pre+" · ":"")+u.title}
 let stepT=null;const stepKeyNow=()=>ui.sheet?.mode==="player"?ui.sheet.k+"|"+ui.sheet.n+"|"+ui.sheet.i:"";
 function stepSecs(){const k=stepKeyNow();if(!k)return 0;if(!stepT||stepT.k!==k)stepT={k,t0:Date.now()};return (Date.now()-stepT.t0)/1000}
 setInterval(()=>{const e=document.getElementById("spent");if(e&&sheet.open)e.textContent=mmss(stepSecs())},1000);
@@ -2285,8 +2315,8 @@ function journeyChapters(){const last={};S.log.forEach(l=>{if(!last[l.key]||l.da
    ${going.length?`<span class="eyebrow">In progress · ${going.length}</span>${going.sort(by).map(row).join("")}`:""}
    ${fin.length?`<span class="eyebrow" style="margin-top:6px">Done · ${fin.length}</span>${fin.sort(by).slice(0,ui.jall?999:8).map(row).join("")}${fin.length>8&&!ui.jall?`<button class="link" data-act="jall" style="justify-self:start">Show all ${fin.length}</button>`:""}`:""}</section>`}
 
-const BNAME={ncert:"NCERT",cambridge:"Cambridge",nios:"NIOS",dk:"DeepKids Plus",gen:"DeepKids"};
-function unitLabel(u){if(!u)return "";const L=u.board==="ncert"?"Class "+u.level:u.board==="cambridge"?"Stage "+u.level:u.board==="nios"?"Level "+(u.level<=3?"A":"B"):"";const n=u.board==="ncert"?"Ch "+u.n:u.board==="cambridge"?(/^\d+$/.test(u.n)?"Unit "+u.n:u.n):u.board==="nios"?"Lesson "+u.n:u.n;
+const BNAME={ncert:"NCERT",cambridge:"Cambridge",nios:"NIOS",waldorf:"Waldorf",dk:"DeepKids Plus",gen:"DeepKids"};
+function unitLabel(u){if(!u)return "";const L=u.board==="ncert"||u.board==="waldorf"?"Class "+u.level:u.board==="cambridge"?"Stage "+u.level:u.board==="nios"?"Level "+(u.level<=3?"A":"B"):"";const n=u.board==="ncert"?"Ch "+u.n:u.board==="cambridge"?(/^\d+$/.test(u.n)?"Unit "+u.n:u.n):u.board==="nios"?"Lesson "+u.n:u.n;
   return `${BNAME[u.board]||""}${L?" "+L:""} · ${u.subj==="sci"?(u.board==="cambridge"?"Science":"EVS"):SUBJ[u.subj]||""} · ${n} ${u.title}`}
 let _ubk=null;const unitByK=k=>{if(!_ubk){_ubk=new Map();allUnits().forEach(u=>_ubk.set(u.k,u))}return _ubk.get(k)||unitBy(k)};
 function chapterRank(u){const mine=boardsOn().includes(u.board)?0:1,lv=S.levels?.[u.subj]||3;return mine*10+Math.abs((u.level||lv)-lv)}
@@ -2368,12 +2398,12 @@ const pkFind=(u,id)=>{const P=u.c.p;for(const g of ["worksheets","experiments","
 function packDay(u,n){const P=u.c.p,d=pkDay(u,n),last=d.n===P.days.length,refs=new Set(d.steps.map(s=>s.ref).filter(Boolean));
   const out=d.steps.map((s,i)=>{const [kind,label]=PKIND[s.kind]||["act","Step"];return {kind,label,title:s.title,mins:s.mins/60,bk:srcOf(s),html:srcLine(s)+packStep(u,s)+(s.kind==="check"&&P.check?.length?quizList(u.k,d.n,P.check):"")+(stepSec(u,s)==="lab"&&!s.ref?workCtl(u,"st"+d.n+"_"+i,s.title):""),name:`pk:${d.n}:${i}`,sec:stepSec(u,s)}});
   const W=P.words||[];
-  if(!out.some(x=>x.sec==="ideas")){const k=W.length?((d.n-1)*3)%W.length:0,ws=W.length?[0,1,2].map(i=>W[(k+i)%W.length]).filter((w,i,a)=>a.indexOf(w)===i):[];
+  if(!out.some(x=>x.sec==="ideas")&&!(u.board==="waldorf"&&(u.subj!=="wml"||d.n>1))){const k=W.length?((d.n-1)*3)%W.length:0,ws=W.length?[0,1,2].map(i=>W[(k+i)%W.length]).filter((w,i,a)=>a.indexOf(w)===i):[];
     out.push({kind:"learn",label:"Big ideas",title:d.n===1?"What this chapter is about":"Today's big idea and key words",mins:5/60,sec:"ideas",name:"pkx:ideas",
       html:srcLine({kind:"think"})+(d.n===1?`${fmtPts(P.summary,1)}${P.goals?.length?`<p class="sm"><b>By the end, your child can:</b></p>${pkList(P.goals.map(g=>g.replace(/^By the end your child can\s*/i,"")))}`:""}`:`<p><b>Today:</b> ${esc(d.goal)}</p>${ws.length?`<p class="sm"><b>Key words to use today:</b></p><div class="kv">${ws.map(([w,m])=>`<span>${esc(w)}</span><b style="font-weight:400">${esc(m)}</b>`).join("")}</div><p class="sm muted">Ask your child to use each word in a sentence about today's lesson.</p>`:""}`)})}
   (P.voices||[]).filter(v=>v.day===d.n&&!refs.has(v.id)).forEach(v=>out.push({kind:"learn",label:"Other views",title:"Other views: "+v.who.split(/[,(]/)[0].trim(),mins:5/60,sec:"views",name:"pkx:v:"+v.id,html:srcLine({kind:"read"})+pkVoice(v)}));
   (P.worksheets||[]).filter(w=>w.day===d.n&&!refs.has(w.id)).forEach(w=>out.push({kind:"ws",label:"Worksheet",title:"Worksheet: "+w.title,mins:10/60,sec:"ws",name:"pkx:w:"+w.id,html:srcLine({kind:"ws"})+pkWs(u,w)}));
-  if(!out.some(x=>x.sec==="quiz")){const Q=last&&P.check?.length?P.check.slice(0,5):(W.length?[0,1,2].map(i=>W[((d.n-1)*3+i)%W.length]).filter((w,i,a)=>a.indexOf(w)===i).map(([w,m])=>({q:`What does “${w}” mean?`,a:m})):[]);
+  if(!out.some(x=>x.sec==="quiz")&&u.board!=="waldorf"){const Q=last&&P.check?.length?P.check.slice(0,5):(W.length?[0,1,2].map(i=>W[((d.n-1)*3+i)%W.length]).filter((w,i,a)=>a.indexOf(w)===i).map(([w,m])=>({q:`What does “${w}” mean?`,a:m})):[]);
     if(Q.length)out.push({kind:"ws",label:"Quick quiz",title:last?"End-of-chapter quiz":"Quick quiz",mins:5/60,sec:"quiz",name:"pkx:quiz",html:srcLine({kind:"check"})+`<p class="sm">Ask aloud. Let your child answer first, then tap to check.</p>${quizList(u.k,d.n,Q)}`})}
   const ord=SECS.map(s=>s[0]),srt=out.map((x,i)=>({x,i})).sort((a,b)=>ord.indexOf(a.x.sec)-ord.indexOf(b.x.sec)||a.i-b.i).map(o=>o.x),F=srt.map(x=>({title:x.title,bk:!!x.bk?.book,pages:x.bk?.pages||[]}));return srt.map((x,j)=>({...x,html:(j===0?pkHead(d,F):"")+x.html}))}
 function packStepByName(u,name){if(!u.c?.p)return "";const [,dn,i]=name.split(":"),d=pkDay(u,+dn),s=d?.steps[+i];return s?packStep(u,s):""}
@@ -2526,7 +2556,7 @@ function refresherFor(date){const keys=[...new Set(S.log.filter(l=>l.date<date).
   const Q=P?.check||[],quiz=Q.length?[0,1,2].map(i=>Q[(dn+i*2)%Q.length]).filter((q,i,a)=>a.indexOf(q)===i):(c.x?.quiz||[]).slice(0,3).map(([s,t,w])=>({q:"True or false: "+s,a:(t?"True. ":"False. ")+w}));
   return {u,...part,quiz}}
 /* ---------- topic level: tags, summaries, ideas, related ---------- */
-function tagsOf(u){const T=[];const tag=i=>({board:i.board,txt:`${BOARDS[i.board]?BOARDS[i.board].split(" ")[0]:"?"} · Class ${DATA.levels[i.level].cls} · ${i.book.replace(/ · Class \d+$/,"").replace(/ \(Class \d+\)$/,"")}${/^\d+$/.test(i.n)?" · Ch "+i.n:""}`,k:i.k,subj:i.subj});
+function tagsOf(u){const T=[];const tag=i=>({board:i.board,txt:`${BOARDS[i.board]?BOARDS[i.board].split(" ")[0]:"?"} · Class ${DATA.levels[i.level].cls} · ${i.book.replace(/ · Class \d+$/,"").replace(/ \(Class \d+\)$/,"")}${/^\d+$/.test(i.n)?(i.board==="waldorf"?" · Block ":" · Ch ")+i.n:""}`,k:i.k,subj:i.subj});
   if(u.board==="gen"){(u.gen.tags||[]).forEach(k=>{const i=DATA.items.find(z=>z.k===k);if(i)T.push(tag(i))})}
   else if(u.board==="dk"){DATA.items.filter(i=>(i.dk||[]).includes(u.n)).forEach(i=>T.push(tag(i)))}
   else{T.push(tag(u));const ids=u.dk||[];DATA.items.filter(i=>i.k!==u.k&&i.board!==u.board&&ids.some(d=>(i.dk||[]).includes(d))).slice(0,4).forEach(i=>T.push(tag(i)))}
@@ -2568,12 +2598,12 @@ function topicsTab(){const q=ui.tq||"",hits=topicHits(q),gen=SHARED.topics.slice
     <p class="xs muted">${q?`${hits.length} found in the syllabuses and DeepKids topics.`:"Search, or browse every chapter of every board below."}</p></div>`;
   if(q){h+=hits.map(topicRow).join("")+`<section class="card r-out tint"><b style="font:600 17px var(--display)">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE?`<button class="btn sm" data-act="tgen" style="justify-self:start" ${ui.tgen?"disabled":""}>${ui.tgen?"Writing the topic…":"Create this topic"}</button>`:`<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr?`<p class="sm" style="color:var(--bad)">${esc(ui.terr)}</p>`:""}</section></section>`;return h}
   const B=ui.bb||boardsOn()[0]||"ncert",subjs=[...new Set(allUnits().filter(u=>u.board===B).map(u=>u.subj))],sj=subjs.includes(ui.bs)?ui.bs:(subjs.includes("sci")?"sci":subjs[0]),levels=[...new Set(allUnits().filter(u=>u.board===B&&u.subj===sj).map(u=>u.level))].sort(),lv=levels.includes(ui.bl)?ui.bl:(levels.includes(S.levels?.[sj])?S.levels[sj]:levels[0]);
-  const units=allUnits().filter(u=>u.board===B&&u.subj===sj&&u.level===lv),lvName=l=>B==="ncert"?"Class "+l:B==="cambridge"?"Stage "+l:B==="nios"?"Level "+(l<=3?"A":"B"):"Level "+l;
+  const units=allUnits().filter(u=>u.board===B&&u.subj===sj&&u.level===lv),lvName=l=>B==="ncert"||B==="waldorf"?"Class "+l:B==="cambridge"?"Stage "+l:B==="nios"?"Level "+(l<=3?"A":"B"):"Level "+l;
   h+=`<div class="sech"><h3 style="font-size:18px">Browse the syllabus</h3></div>
-   <div class="row chips">${["ncert","cambridge","nios","dk"].map(b=>`<button class="chip" aria-pressed="${B===b}" data-act="bb" data-b="${b}">${BNAME[b]}</button>`).join("")}</div>
+   <div class="row chips">${["ncert","cambridge","nios","waldorf","dk"].map(b=>`<button class="chip" aria-pressed="${B===b}" data-act="bb" data-b="${b}">${BNAME[b]}</button>`).join("")}</div>
    ${subjs.length>1?`<div class="row chips">${subjs.map(s=>`<button class="chip" aria-pressed="${sj===s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>`:""}
    ${levels.length>1?`<div class="row chips">${levels.map(l=>`<button class="chip" aria-pressed="${lv===l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")}</div>`:""}
-   <p class="xs muted">${units.length} ${B==="cambridge"?"units":B==="nios"?"lessons":B==="dk"?"topics":"chapters"}${units.filter(u=>u.c?.p).length?` · ${units.filter(u=>u.c?.p).length} with full day plans`:""}${units[0]?" · "+esc(units[0].book):""}</p>
+   <p class="xs muted">${units.length} ${B==="cambridge"?"units":B==="nios"?"lessons":B==="dk"?"topics":B==="waldorf"?"blocks":"chapters"}${units.filter(u=>u.c?.p).length?` · ${units.filter(u=>u.c?.p).length} with full day plans`:""}${units[0]?" · "+esc(units[0].book):""}</p>
    ${units.map(u=>topicRow(u).replace("</b><br>",`</b>${u.c?.p?` <span class="pill completed" style="font-size:11px">${u.c.p.days.length} parts</span>`:""}<br>`)).join("")||`<p class="note">${(DATA.notes[B]||{})[sj+"|"+lv]||(B==="ncert"?DATA.notes.ncert[sj+"|"+lv]:"")||"Nothing here yet."}</p>`}`;
   if(gen.length)h+=`<div class="sech"><h3 style="font-size:18px">Explored by families</h3></div>${gen.map(g=>topicRow(genUnit(g))).join("")}`;
   return h+`</section>`}
@@ -2877,7 +2907,7 @@ function blob(col,seed=1,mood="happy",cls="bl",attrs=""){const k="#2B2340";
   const mouth=mood==="wow"?`<ellipse cx="50" cy="64" rx="4" ry="5" fill="${k}"/>`:mood==="calm"?`<path d="M45 63h10" stroke="${k}" stroke-width="3.4" stroke-linecap="round"/>`:`<path d="M43 61q7 7.5 14 0" stroke="${k}" stroke-width="3.4" fill="none" stroke-linecap="round"/>`;
   return `<svg class="${cls}" ${attrs} viewBox="0 0 100 100" aria-hidden="true"><path d="${blobD(seed)}" fill="${col}"/><circle cx="32" cy="61" r="4.6" fill="#FF6F9F" opacity=".45"/><circle cx="68" cy="61" r="4.6" fill="#FF6F9F" opacity=".45"/>${eyes}${mouth}</svg>`}
 const PAL=["var(--aqua)","var(--gum)","var(--sun)","var(--pist)","var(--peri)","var(--tang)","var(--sky)"];
-const SUBJ_BLOB={math:["var(--aqua)",3],eng:["var(--gum)",7],hin:["var(--tang)",11],sci:["var(--forest)",5],dks:["var(--peri)",9]};
+const SUBJ_BLOB={math:["var(--aqua)",3],eng:["var(--gum)",7],hin:["var(--tang)",11],sci:["var(--forest)",5],dks:["var(--peri)",9],wml:["var(--sun)",13],wart:["var(--gum)",17]};
 function sblob(s,mood="happy",cls="bl",attrs=""){const b=SUBJ_BLOB[s]||["var(--peri)",2];return blob(b[0],b[1],mood,cls,attrs)}
 const kidBlob=(cls="bl",mood="happy",attrs="")=>blob("var(--sky)",13,mood,cls,attrs);
 const youBlob=(cls="bl",mood="happy",attrs="")=>blob("var(--peri)",17,mood,cls,attrs);
@@ -3102,8 +3132,8 @@ function viewJourney0(){const kid=esc(S.child||"Your child"),Qn=quotes().length,
 function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels,hpd:S.hpd||DEF_HPD,mode:S.mode||(S.plus?"booksplus":"books"),exam:!!S.exam}))};render()}
 function viewOnboarding(){const d=ob.d;let h=`<div class="ob"><div class="obbar">${[0,1,2,3,4].map(i=>`<i class="${i<=ob.step?"on":""}"></i>`).join("")}</div>`;
   if(ob.step===0)h+=`${crowd()}<div><span class="eyebrow">Welcome to DeepKids</span><h1 style="margin-top:6px">Let's plan an amazing year of learning at home</h1></div><div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child)}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[6,7,8,9,10].map(a=>`<button type="button" aria-pressed="${d.age===a}" data-age="${a}">${a}</button>`).join("")}</div></div><div class="field"><span>Class this year</span><div class="ages">${[1,2,3,4,5].map(c=>`<button type="button" aria-pressed="${obCls(d)===c}" data-cls="${c}">${c}</button>`).join("")}</div><span class="xs muted">We use the class to pick the right syllabus books. You can still add any chapter from the Library.</span></div>`;
-  if(ob.step===1)h+=`<h1>Which syllabus?</h1><div class="choices">${[["ncert","NCERT / CBSE","India's national textbooks","var(--tang)"],["cambridge","Cambridge Primary","Stages 1–5","var(--sky)"],["nios","NIOS","Open Basic Education","var(--pist)"],["combined","Combined","All three boards, mapped together","var(--peri)"],["none","Only DeepKids Plus","Our own big-question curriculum","var(--gum)"]].map(([k,n,s,c],i)=>`<button type="button" class="choice" aria-pressed="${d.board===k}" data-b="${k}">${blob(c,20+i,d.board===k?"happy":"calm")}<span><b>${n}</b><span>${s}</span></span></button>`).join("")}</div>${d.board!=="none"?`<h2 style="font-size:24px;margin-top:8px">How do you want to learn?</h2><div class="choices">${Object.entries(MODES).map(([k,[n,desc,c]],i)=>`<button type="button" class="choice" aria-pressed="${(d.mode||"booksplus")===k}" data-mode="${k}">${blob(c,40+i,(d.mode||"booksplus")===k?"happy":"calm")}<span><b>${n}</b><span>${desc}</span></span></button>`).join("")}</div><label class="toggle"><input type="checkbox" id="obExam" ${d.exam?"checked":""}><span><b style="font:600 17px var(--display)">Exam track</b><br><span class="sm muted">Planning for board or NIOS exams? Every syllabus chapter stays first.</span></span></label>`:`<p class="note">DeepKids Plus only: our own topics and lesson plans, drawing on every syllabus.</p>`}`;
-  if(ob.step===2)h+=`<h1>Which subjects?</h1><div class="choices">${SUBJ_KEYS.map(k=>`<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k,d.subjects.includes(k)?"happy":"sleepy")}<span><b>${SUBJ[k]}</b><span>${k==="hin"?"Not part of Cambridge":k==="dks"?"Big questions about life, the earth and the universe. Every day, alongside the syllabus":"Tap to include or leave out"}</span></span></button>`).join("")}</div>`;
+  if(ob.step===1)h+=`<h1>Which syllabus?</h1><div class="choices">${[["ncert","NCERT / CBSE","India's national textbooks","var(--tang)"],["cambridge","Cambridge Primary","Stages 1–5","var(--sky)"],["nios","NIOS","Open Basic Education","var(--pist)"],["combined","Combined","All three boards, mapped together","var(--peri)"],["waldorf","Waldorf (Steiner)","Main lesson blocks, stories, arts and handwork, the Indian way","var(--sun)"],["none","Only DeepKids Plus","Our own big-question curriculum","var(--gum)"]].map(([k,n,s,c],i)=>`<button type="button" class="choice" aria-pressed="${d.board===k}" data-b="${k}">${blob(c,20+i,d.board===k?"happy":"calm")}<span><b>${n}</b><span>${s}</span></span></button>`).join("")}</div>${d.board==="waldorf"?`<p class="sm muted" style="margin-top:8px">Waldorf learning is built around a long morning main lesson, Hindi, and a weekly rhythm of painting, handwork, music, modelling and baking.</p>`:d.board!=="none"?`<h2 style="font-size:24px;margin-top:8px">How do you want to learn?</h2><div class="choices">${Object.entries(MODES).map(([k,[n,desc,c]],i)=>`<button type="button" class="choice" aria-pressed="${(d.mode||"booksplus")===k}" data-mode="${k}">${blob(c,40+i,(d.mode||"booksplus")===k?"happy":"calm")}<span><b>${n}</b><span>${desc}</span></span></button>`).join("")}</div><label class="toggle"><input type="checkbox" id="obExam" ${d.exam?"checked":""}><span><b style="font:600 17px var(--display)">Exam track</b><br><span class="sm muted">Planning for board or NIOS exams? Every syllabus chapter stays first.</span></span></label>`:`<p class="note">DeepKids Plus only: our own topics and lesson plans, drawing on every syllabus.</p>`}`;
+  if(ob.step===2)h+=`<h1>Which subjects?</h1><div class="choices">${visSubj(d.board).map(k=>`<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k,d.subjects.includes(k)?"happy":"sleepy")}<span><b>${SUBJ[k]}</b><span>${k==="wml"?"The long morning lesson: stories, letters, numbers, nature and history in blocks of 3–4 weeks":k==="wart"?"Painting, handwork, music, modelling and baking, one each weekday":k==="hin"&&d.board==="waldorf"?"Hindi as the second language: songs first, then letters":k==="hin"?"Not part of Cambridge":k==="dks"?"Big questions about life, the earth and the universe. Every day, alongside the syllabus":"Tap to include or leave out"}</span></span></button>`).join("")}</div>`;
   if(ob.step===3)h+=`<h1>Level and time</h1><p class="muted">A starting level, and roughly how long each subject gets on the days you do it.</p>${d.subjects.map(s=>`<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s,"happy","",'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b></div><div class="fgrid"><select class="inp" id="obl-${s}" data-s="${s}" aria-label="${SUBJ[s]} level">${[1,2,3,4,5].map(l=>`<option value="${l}" ${d.levels[s]===l?"selected":""}>${lvlLabel(l)}</option>`).join("")}</select><select class="inp" id="obh-${s}" data-hpd="${s}" aria-label="${SUBJ[s]} hours a day">${[.25,.5,.75,1,1.5,2,3].map(v=>`<option value="${v}" ${(d.hpd||DEF_HPD)[s]===v?"selected":""}>${v} h a day</option>`).join("")}</select></div></div>`).join("")}`;
   if(ob.step===4){const keep=S;S={...S,...d};h+=`<h1>${esc(d.child||"Your child")}'s year</h1><div class="col">${d.subjects.map(s=>{const c=collate(s),books=[...new Set(c.board.map(u=>u.book))];return `<div class="card ${SC(s)}"><div class="row" style="gap:10px">${sblob(s,"happy","",'width="40" height="40"')}<b style="font:600 18px var(--display)">${SUBJ[s]}</b><span class="xs muted">${lvlLabel(d.levels[s])}</span></div>${books.map(b=>`<span class="sm">${esc(b)}: ${c.board.filter(u=>u.book===b).length} chapters</span>`).join("")}${c.dk.length?`<span class="sm">DeepKids Plus: ${c.dk.length} topics</span>`:""}${notesFor(s,d.levels[s]).map(n=>`<span class="xs muted">${esc(n)}</span>`).join("")}</div>`}).join("")}</div>`;S=keep}
   h+=`<div class="row" style="justify-content:space-between">${ob.step>0?`<button class="btn soft" data-ob="back">Back</button>`:"<span></span>"}<button class="btn" data-ob="next">${ob.step===4?"Build my plan":"Continue"}${icon("next")}</button></div></div>`;return h}
@@ -3117,7 +3147,7 @@ const sheet=document.getElementById("sheet");
 function openSheet(o){navPush();ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true);updBack()}
 function renderSheet(top){if(!ui.sheet)return;{const ex=document.getElementById("sheetExtra");if(ex&&!ex.querySelector(".readbtn"))ex.innerHTML=`<button class="readbtn" data-act="readnow" aria-label="Read this page aloud">🔊</button>`}const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
   const m=ui.sheet.mode;sheet.className="sheet"+(m==="player"?" colored "+SC(ui.sheet.s):m==="chapter"||m==="ws"?" "+SC(unitBy(ui.sheet.k)?.subj||""):"");
-  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,todo:todoView,folder:folderView,plus:plusView,qzs:qzsView,quizz:quizzView,rfset:rfsetView,rem:remView,iopts:ioptsView,evpre:evpreView,evdone:evdoneView,exam:examView,told:toldView,uploads:uploadsView,track:trackView,school:schoolView,hist:historyView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
+  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,todo:todoView,folder:folderView,plus:plusView,qzs:qzsView,quizz:quizzView,rfset:rfsetView,wfguide:wfGuideView,rem:remView,iopts:ioptsView,evpre:evpreView,evdone:evdoneView,exam:examView,told:toldView,uploads:uploadsView,track:trackView,school:schoolView,hist:historyView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
   updBack();
   const kept=top?null:keepInputs(b);b.replaceChildren(el(h));if(kept)restoreInputs(b,kept);sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
@@ -3147,7 +3177,7 @@ function onAct(e){
     if(t.dataset.ob==="next")return obNext();if(t.dataset.ob==="back"){ob.step--;return render()}
     if(t.dataset.age){d.child=document.getElementById("obName").value;d.age=+t.dataset.age}
     if(t.dataset.cls){d.child=document.getElementById("obName").value;d.cls=+t.dataset.cls}
-    if(t.dataset.b){d.board=t.dataset.b;if(d.board==="none")d.plus=true}
+    if(t.dataset.b){const was=d.board;d.board=t.dataset.b;if(d.board==="none")d.plus=true;if(d.board==="waldorf"){d.mode="books";d.subjects=["wml","hin","wart"];d.days={...DEF_DAYS,...(d.days||{}),hin:[1,2,3,4,5]}}else if(was==="waldorf"){d.subjects=["math","eng","hin","sci","dks"];d.mode="booksplus"}else d.subjects=d.subjects.filter(s=>!WFS.includes(s))}
     if(t.dataset.mode)d.mode=t.dataset.mode;
     if(t.dataset.s){const s=t.dataset.s;d.subjects=d.subjects.includes(s)?d.subjects.filter(x=>x!==s):[...d.subjects,s].sort((a,b)=>SUBJ_KEYS.indexOf(a)-SUBJ_KEYS.indexOf(b))}
     return render()}
@@ -3372,6 +3402,7 @@ function onAct(e){
    case "rfday":{const R=RFS(),d=+b.dataset.d,days=R.days.includes(d)?R.days.filter(x=>x!==d):[...R.days,d];S.rfs={...(S.rfs||{}),days};delete (S.rfp||{})[today];sfx("tap");commit();renderSheet();break}
    case "dts":{ui.dts=b.dataset.s;sfx("tap");render();break}
    case "dtreset":{const sc=ui.dts||"all";if(sc[0]==="w"){const w={...(S.dayW||{})};delete w[sc.slice(1)];S.dayW=w}else if(sc.startsWith("d:")){const o={...(S.dayOver||{})};delete o[sc.slice(2)];S.dayOver=o}sfx("flip");commit();break}
+   case "wfguide":{sfx("flip");openSheet({mode:"wfguide"});break}
    case "tqt":{ui.tq=b.dataset.t;ui.qpick=null;sfx("tap");render();break}
    case "qzs":{sfx("flip");openSheet({mode:"qzs",k,n:+b.dataset.n});break}
    case "dkmin":{const i=Math.max(0,DKSTEPS.indexOf(dkMinsOf()));S.dkMins=DKSTEPS[Math.min(DKSTEPS.length-1,Math.max(0,i+ +b.dataset.d))];sfx("tap");commit();break}
