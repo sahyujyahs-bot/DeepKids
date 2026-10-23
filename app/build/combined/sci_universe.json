@@ -111,7 +111,20 @@
   ],
   "note": "",
   "start": null,
-  "rungs": []
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 5,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
  },
  {
   "id": "matter-and-particles",
@@ -1349,7 +1362,20 @@
   ],
   "note": "Boards meet birds only inside habitats and nature trails",
   "start": null,
-  "rungs": []
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 4,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
  },
  {
   "id": "forces-and-movement",
@@ -1847,7 +1873,20 @@
   ],
   "note": "",
   "start": null,
-  "rungs": []
+  "rungs": [
+   {
+    "cls": 4,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 5,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
  },
  {
   "id": "me-and-others",
@@ -1906,7 +1945,20 @@
   ],
   "note": "",
   "start": null,
-  "rungs": []
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 5,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
  },
  {
   "id": "family",
@@ -2090,7 +2142,20 @@
   ],
   "note": "",
   "start": null,
-  "rungs": []
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 5,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
  },
  {
   "id": "health-hygiene-exercise-and-illness",

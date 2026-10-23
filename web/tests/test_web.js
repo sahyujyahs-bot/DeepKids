@@ -28,13 +28,16 @@ const server = http.createServer((req, res) => { let p = decodeURIComponent(req.
   const after = await p.evaluate(() => ({ setup: S.setup, child: S.child, acct: S.acct, login: !!document.querySelector('#lgPhone') }));
   console.log('3. after reload (browser storage wiped):', JSON.stringify(after));
   // planner chat goes to our server function
-  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(800);
+  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400);
+  console.log('3b. AI notice shown:', await p.locator('.dk-ai').count(), '| calls before consent:', claudeCalls.length);
+  await p.click('.dk-ai [data-v="0"]'); await p.waitForTimeout(400); console.log('3c. after Not now, calls:', claudeCalls.length);
+  await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400); await p.click('.dk-ai [data-v="1"]'); await p.waitForTimeout(800);
   console.log('4. claude calls:', claudeCalls.length, '| auth header:', claudeCalls[0]?.auth, '| found:', await p.$$eval('.parsed b', x => x.map(e => e.textContent)));
   await p.click('[data-act="dadd"]'); await p.waitForTimeout(400); console.log('   events now:', await p.evaluate(() => S.events.map(e => e.title).join(',')));
   // upload a photo into private storage
   await p.evaluate(() => openSheet({ mode: 'uploads' })); await p.waitForTimeout(300);
   const png = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==', 'base64');
-  await p.setInputFiles('#upFiles', [{ name: 'IMG_1.png', mimeType: 'image/png', buffer: png }]); await p.waitForTimeout(1500);
+  await p.setInputFiles('#upFiles', [{ name: 'IMG_1.png', mimeType: 'image/png', buffer: png }]); await p.waitForTimeout(500); console.log('   AI notice for photo tagging:', await p.locator('.dk-ai').count()); if (await p.locator('.dk-ai').count()) await p.click('.dk-ai [data-v="1"]'); await p.waitForTimeout(1500);
   console.log('5. upload id:', await p.evaluate(() => S.work.slice(-1)[0]?.id), '| stored files:', await p.evaluate(() => Object.keys(JSON.parse(localStorage.getItem('fake-sb')).files).length));
   // export -> wipe -> import
   await p.evaluate(() => { document.querySelectorAll('dialog[open]').forEach(d => d.close()) }); await p.click('#me'); await p.waitForTimeout(300);

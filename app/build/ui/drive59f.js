@@ -1,0 +1,18 @@
+const { chromium } = require('/opt/node-tools/node_modules/playwright');
+(async()=>{const SP=process.argv[2];const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
+const p=await (await b.newContext({viewport:{width:390,height:844}})).newPage();const errs=[];p.on('pageerror',e=>errs.push(e.message));
+await p.goto('file://'+SP+'/app_prev.html');await p.waitForTimeout(800);await p.fill('#lgPhone','98765 43210');await p.fill('#lgName','S');await p.click('[data-act="login"]');await p.waitForTimeout(500);
+await p.fill('#obName','Liri');await p.click('[data-age="8"]');await p.click('[data-ob="next"]');await p.click('[data-b="combined"]');for(let i=0;i<4;i++)await p.click('[data-ob="next"]');await p.waitForTimeout(2500);
+await p.evaluate(()=>{const u=unitByK("combined|sci|3|plants");u.c.p.worksheets[0].sections.unshift(["A. Forces",[{t:"forces",p:"Draw the forces on a book lying on a table.",obj:"a book on a table",options:["gravity","table pushes up","push","friction"],a:[{name:"gravity",dir:"down"},{name:"table pushes up",dir:"up"}]}]]);
+  SAMPLE={json:async(prompt,opts)=>{window._ai={prompt,n:(opts.images||[]).length,purpose:opts.purpose};return {results:[{n:1,verdict:"right",note:"Both forces shown."},{n:2,verdict:"partly",note:"Good start."}],summary:"Understands balanced forces."}}};
+  openSheet({mode:"ws",k:"combined|sci|3|plants",w:"ws1"})});await p.waitForTimeout(400);
+console.log('diagram',await p.locator('#sheet .fdiag').count());
+await p.selectOption('#sheet [data-fsel]','gravity');await p.click('#sheet [data-act="fadd"][data-dir="down"]');await p.waitForTimeout(150);
+await p.selectOption('#sheet [data-fsel]','push');await p.click('#sheet [data-act="fadd"][data-dir="right"]');await p.waitForTimeout(150);
+await p.click('#sheet [data-act="fcheck"]');await p.waitForTimeout(200);console.log('feedback 1:',(await p.locator('#sheet .wsq .note,#sheet .wsq .good').first().innerText()));
+await p.click('#sheet [data-act="fdel"][data-i="1"]');await p.selectOption('#sheet [data-fsel]','table pushes up');await p.click('#sheet [data-act="fadd"][data-dir="up"]');await p.waitForTimeout(150);
+await p.click('#sheet [data-act="fcheck"]');await p.waitForTimeout(200);console.log('feedback 2:',(await p.locator('#sheet .wsq .note,#sheet .wsq .good').first().innerText()));
+await p.screenshot({path:SP+'/forces_q.png'});
+await p.setInputFiles('#wsPhoto',[{name:'s.png',mimeType:'image/png',buffer:Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==','base64')}]);await p.waitForTimeout(600);
+console.log('photo check:',await p.evaluate(()=>({n:window._ai?.n,purpose:window._ai?.purpose,hasKey:/expected: gravity down/.test(window._ai?.prompt||"")})),(await p.locator('#sheet :text("Understands balanced forces")').count()));
+console.log('errors',errs);await b.close()})();

@@ -19,6 +19,8 @@ for r in list(wb['All topics'].iter_rows(values_only=True))[1:]:
 data = json.load(open(os.path.join(BUILD, 'data.json')))
 rc = data['rconcepts']; assert len(rc) == len(M)
 items = {i['k']: i for i in data['items']}
+# topics no board teaches yet: DeepKids places them on the ladder itself
+DK_ONLY = {"how-life-began": [3, 5], "the-world-of-birds": [1, 4], "where-humans-came-from": [4, 5], "our-closest-cousins": [2, 5], "thinking-and-memory": [3, 5]}
 out = []
 for c, (name, dk, bs, note) in zip(rc, M):
     rungs = {}
@@ -29,7 +31,8 @@ for c, (name, dk, bs, note) in zip(rc, M):
         if k in items: chap.setdefault(items[k]['level'], []).append(k)
     out.append({"id": c['id'], "title": name, "dk": dk, "note": note,
                 "start": min(rungs) if rungs else None,
-                "rungs": [{"cls": l, "covers": rungs[l], "chapters": chap.get(l, [])} for l in sorted(rungs)]})
+                "rungs": [{"cls": l, "covers": rungs[l], "chapters": chap.get(l, [])} for l in sorted(rungs)] or
+                         [{"cls": l, "covers": [], "chapters": [], "deepkids": True} for l in DK_ONLY.get(c['id'], [])]})
 json.dump(out, open(os.path.join(HERE, 'sci_universe.json'), 'w'), ensure_ascii=False, indent=1)
 n = sum(len(t['rungs']) for t in out)
 print(len(out), 'topics,', n, 'rungs,', sum(len(r['covers']) for t in out for r in t['rungs']), 'board subtopics;',

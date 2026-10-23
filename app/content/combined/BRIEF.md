@@ -1,0 +1,26 @@
+# Brief for writing Combined science rungs
+
+You are writing DeepKids Combined science lessons for Indian homeschooling parents of children aged 6–10. Each file is one **rung**: one topic at one class.
+
+## Read first (in this order)
+1. `app/content/SPEC.md`, all of it, especially "The DeepKids way", "Stories" and "Combined topics". These rules are non-negotiable.
+2. Two finished examples, for format and tone: `app/content/combined/sci-C3-plants.json` and `app/content/combined/sci-C3-living-and-non-living-signs-of-life.json`. Note: these examples are BELOW the new bar on worksheets and subconcepts. Yours must be deeper (see "The bar" below).
+3. `app/build/combined/sci_universe.json`: find your topic ids. Each rung lists `covers` (the board subtopics you MUST cover) and `chapters` (the board chapter keys).
+4. The board chapter packs for your rungs are rich raw material: a chapter key like `cam|sci|3|1` is the file `app/content/cambridge/sci-L3-01.json`; `ncert|sci|4|7` is `app/content/ncert/sci-L4-07.json`; `nios|sci|5|3` is `app/content/nios/sci-L5-03.json`. Read them for content, experiments and voices, but your rung must be book-independent (never cite book pages) and much deeper.
+
+## The bar (stricter than the examples)
+- **Wide:** 6–15 `subconcepts`, every one taught in a day step. Cover every board subtopic in `covers`, plus the surrounding ideas a curious child should meet. Introduce real concepts and sub-concepts with their real names, explained simply.
+- **Deep:** big ideas that change how the child sees the world; honest open questions (`unknowns`); real debates (`voices` with status); challenges to popular stories; perspectives from other beings and people; the quiet social lens (who got credit — side with the women and underdogs where credit is genuinely disputed, without stating anything the evidence contradicts; cooperation as well as competition; shared vs owned; enough vs more). Oneness. Question human-centredness.
+- **Worksheets:** three tiers (core, stretch, challenge), each with at least 8 items and at least 2 written-reasoning items. Prefer items the app can check: mcq, fill, match, sort, and the new `forces` item for force diagrams: `{"t":"forces","p":"…","obj":"a book on a table","options":["gravity","table pushes up","push","friction","air resistance","upthrust"],"a":[{"name":"gravity","dir":"down"},{"name":"table pushes up","dir":"up"}]}` (dir is up/down/left/right). Use `draw` only where a drawing is truly needed.
+- **Days:** 6–9 days, each step exact (what to say, what to ask, good answers). Minutes per day must match `day_mins` (Class 1: 30, 2: 35, 3: 40, 4: 45, 5: 45) within 5.
+- **Climb the ladder:** a higher-class rung begins by recalling the lower rung of the same topic in one warm-up, then goes much further. Read the lower rung if it exists (or will exist; coordinate only through the files).
+- **Story:** 600–1200 words, literary and moving, the concept hidden as the key to the story's turn, Indian setting when it fits but anywhere in the world or time is fine. Avoid repeating themes already used: grandparent dying, broken-leg recovery, potter's handprint, Holi bonfire, Kerala flood, tightrope family, gecko wish, tree narrating, Darwin and son, Methuselah seed. Vary narrators (an animal, a scientist, a child in another century, a river…). No moralising at the end.
+- **Accuracy:** real people, dates, findings and books only. If unsure, leave it out. Books must be real, with the correct author. Mark voices honestly: accepted / debated / minority / rejected.
+- **Research:** you may use web search sparingly (at most 2 searches per topic) to check a fact or find a recent finding or a good story source. Don't invent URLs; this file format has no URLs except none.
+- **Safety:** experiments safe for home with a grown-up; say so in `safety`.
+
+## Files
+- Write each rung to `app/content/combined/sci-C<class>-<topic id>.json` with key `combined|sci|<class>|<topic id>`, board "combined", n = topic id, level = class.
+- Validate every file: `python3 app/build/validate_pack.py app/content/combined/<file>`. Fix until it prints OK. Do not edit the validator, SPEC.md, or anyone else's files.
+- Do NOT run git, do not commit, do not touch the app build. Only write your own JSON files.
+- When done, reply with: the files written, each one's title, its subconcepts count, its story title, and anything you were unsure of.

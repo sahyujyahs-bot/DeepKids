@@ -66,8 +66,20 @@
     isOwner:()=>false,canEdit:()=>false,can:()=>null,profiles:async ids=>Object.fromEntries((ids||[]).map(i=>[i,{name:""}]))})}
 
   /* ---------- sample: Claude through our edge function ---------- */
+  /* every AI call asks first: the parent sees what is sent and that it uses their Plus AI allowance */
+  const AIK="dk-ai-ok-"+new Date().toISOString().slice(0,10);
+  function aiConsent(opts){try{if(localStorage.getItem(AIK)==="1")return Promise.resolve(true)}catch(e){}
+    return new Promise(res=>{const n=(opts.images||[]).length,d=document.createElement("dialog");d.className="dk-ai";
+      d.innerHTML=`<div class="dk-ai-box"><b>✦ This step uses DeepKids AI</b><p>${opts.purpose?String(opts.purpose).replace(/[<&]/g,""):"DeepKids will ask Claude, an AI model made by Anthropic, to help with this."} What you typed${n?` and ${n} photo${n>1?"s":""}`:""} will be sent to Claude through DeepKids. Nothing is kept by Claude for training.</p><p class="dk-ai-s">It uses your DeepKids Plus AI allowance (tokens).</p><label><input type="checkbox"> Don't ask again today on this device</label><div><button data-v="0">Not now</button><button data-v="1" class="dk-ai-go">Go ahead</button></div></div>`;
+      if(!document.getElementById("dk-ai-css")){const st=document.createElement("style");st.id="dk-ai-css";st.textContent=".dk-ai{border:0;padding:0;background:transparent;max-width:calc(100vw - 32px)}.dk-ai::backdrop{background:rgba(20,15,35,.45)}.dk-ai-box{background:#fff;color:#2B2340;border-radius:20px;max-width:380px;padding:18px;font:15px/1.45 system-ui,sans-serif;box-shadow:0 10px 40px rgba(0,0,0,.25)}.dk-ai-box b{font-size:17px}.dk-ai-box p{margin:8px 0}.dk-ai-s{font-size:13px;color:#6b6380}.dk-ai-box label{font-size:13px;display:flex;gap:6px;align-items:center;margin:6px 0 12px}.dk-ai-box div{display:flex;gap:8px;justify-content:flex-end}.dk-ai-box button{border:0;border-radius:12px;padding:10px 16px;font:600 15px system-ui;background:#f1ece4;color:#2B2340}.dk-ai-box .dk-ai-go{background:#2B2340;color:#fff}.dk-ai-run{position:fixed;left:50%;bottom:90px;transform:translateX(-50%);z-index:99998;background:#2B2340;color:#fff;border-radius:999px;padding:8px 14px;font:600 13px system-ui}";document.head.appendChild(st)}
+      d.addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;const ok=b.dataset.v==="1";if(ok&&d.querySelector("input").checked)try{localStorage.setItem(AIK,"1")}catch(x){}d.close();d.remove();res(ok)});
+      d.addEventListener("cancel",e=>{e.preventDefault();d.close();d.remove();res(false)});
+      document.body.appendChild(d);try{d.showModal()}catch(e){d.setAttribute("open","")}d.querySelector(".dk-ai-go").focus()})}
   function makeSample(){
-    async function call(input,opts={}){const imgs=[];for(const b of (opts.images||[]).slice(0,8)){const s=await shrink(b,1568,.85);imgs.push({media_type:s.type&&s.type.startsWith("image/")?s.type:"image/jpeg",data:await toB64(s)})}
+    async function call(input,opts={}){if(!await aiConsent(opts))throw err("cancelled","You chose not to use AI this time.");
+      const run=document.createElement("div");run.className="dk-ai-run";run.textContent="✦ Using DeepKids AI…";document.body.appendChild(run);
+      try{return await callAI(input,opts)}finally{run.remove()}}
+    async function callAI(input,opts={}){const imgs=[];for(const b of (opts.images||[]).slice(0,8)){const s=await shrink(b,1568,.85);imgs.push({media_type:s.type&&s.type.startsWith("image/")?s.type:"image/jpeg",data:await toB64(s)})}
       const body={input,images:imgs,tier:opts.modelTier||"default"};
       let r;try{r=await fetch(C.functionsUrl||(C.supabaseUrl+"/functions/v1/claude"),{method:"POST",headers:{"content-type":"application/json",authorization:"Bearer "+await token(),apikey:C.supabaseAnonKey||""},body:JSON.stringify(body),signal:opts.signal})}catch(e){throw err("unavailable","Couldn't reach DeepKids just now.")}
       let j=null;try{j=await r.json()}catch(e){}

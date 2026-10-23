@@ -83,8 +83,9 @@ These match the app's worksheet player:
 | `match` | `p`, `pairs` (list of [left, right]) | |
 | `sort` | `p`, `items` (list), `cats` (list) | |
 | `table` | `p`, `cols` (list), `rows` (int), optional `prefill` (list, first column) | |
+| `forces` | `p`, `obj` (what the diagram is of), `options` (force names to choose from), `a` (list of {"name", "dir": up/down/left/right, "size": "big"/"small"/"equal", optional}) | the child builds the force diagram in the app (choose each force and its direction); the app checks it, no AI |
 
-- Each worksheet has 2–4 sections and 6–14 items.
+- Each worksheet has 2–4 sections and 6–14 items. Combined worksheets have at least 8 items, and at least 2 of them ask the child to reason in writing ("why", "what if", "how could you test"). Prefer items the app can check (mcq, fill, match, sort, forces); keep drawing for things only a drawing can show.
 - **core:** checks the chapter's main ideas.
 - **stretch:** applies them to new cases.
 - **challenge:** harder thinking, puzzles, "what if", and comparing views.
@@ -173,6 +174,8 @@ One file per rung: `combined/<subj>-C<class>-<topic id>.json`, key `combined|<su
 - **Climb the ladder:** each rung starts by recalling the rung below in one short warm-up, then goes further. Don't repeat the earlier rung's activities.
 
 Extra fields, all required (plus `story`, `ideas` and `unknowns` above):
+
+- `subconcepts`: 6–15 short phrases naming every concept the rung actually teaches (e.g. "balanced and unbalanced forces", "friction makes heat", "the newton"). Go wide: include the board subtopics and the ideas around them that a curious child should meet. Every subconcept must be taught in a day step.
 
 ```jsonc
 "builds_on": "What earlier classes did, and what later classes will do.",

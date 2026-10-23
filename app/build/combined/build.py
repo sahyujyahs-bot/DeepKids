@@ -14,7 +14,10 @@ have = {i['k'] for i in data['items']}
 PACKS = {}
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'combined', '*.json'))):
     e = check(f)
-    if e: print('skipping', os.path.basename(f), e[:3]); continue
+    DEPTH = ("subconcepts", "combined worksheets need", "written-reasoning")
+    hard = [x for x in e if not any(d in x for d in DEPTH)]
+    if hard: print('skipping', os.path.basename(f), hard[:3]); continue
+    if e: print('below the new depth bar (kept for now):', os.path.basename(f))
     p = json.load(open(f)); PACKS[p['key']] = p
 BN = {'ncert': 'NCERT', 'cambridge': 'Cambridge', 'nios': 'NIOS'}
 # alternate strands through the year instead of doing all of biology, then all of physics

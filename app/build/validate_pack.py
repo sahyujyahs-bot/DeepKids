@@ -4,7 +4,7 @@ import json, sys
 MINS = {1: 30, 2: 35, 3: 40, 4: 45, 5: 45}
 KINDS = {"warmup", "read", "talk", "do", "exp", "act", "ws", "game", "think", "watch", "outdoor", "review", "check"}
 ITEM = {"draw": ["p"], "write": ["p", "lines"], "fill": ["p", "a"], "mcq": ["p", "opts", "a"], "match": ["p", "pairs"],
-        "sort": ["p", "items", "cats"], "table": ["p", "cols", "rows"]}
+        "sort": ["p", "items", "cats"], "table": ["p", "cols", "rows"], "forces": ["p", "obj", "options", "a"]}
 VAGUE = ("read the chapter", "continue the chapter", "do the activities", "carry on", "finish the chapter")
 DAYS = {"ncert": (7, 12), "cambridge": (7, 16), "nios": (4, 10), "combined": (4, 10)}
 BOOKFOR = {"read alone", "read together", "parent reads"}
@@ -95,6 +95,16 @@ def combined(p):
     w = sum(len(x.split()) for x in st.get("text", []))
     if not 450 <= w <= 1400: e.append(f"story is {w} words; aim for 500–1200")
     if not 2 <= len(p["ideas"]) <= 4: e.append("ideas: 2–4")
+    if p.get("level_check", True) and not 6 <= len(p.get("subconcepts", [])) <= 15: e.append("subconcepts: 6–15 (go wide)")
+    for w in p["worksheets"]:
+        items = [it for sec in w.get("sections", []) for it in sec[1]]
+        if len(items) < 8: e.append(f'{w.get("id")}: combined worksheets need at least 8 items ({len(items)})')
+        if sum(it.get("t") == "write" for it in items) < 2: e.append(f'{w.get("id")}: needs at least 2 written-reasoning items')
+        for it in items:
+            if it.get("t") == "forces":
+                for f in it.get("a", []):
+                    if f.get("dir") not in ("up", "down", "left", "right"): e.append(f'{w.get("id")}: forces dir must be up/down/left/right')
+                    if f.get("name") not in it.get("options", []): e.append(f'{w.get("id")}: force {f.get("name")} not in options')
     if not 2 <= len(p["unknowns"]) <= 4: e.append("unknowns: 2–4")
     pr = p["project"]
     for f in ("title", "steps", "outcome"):
