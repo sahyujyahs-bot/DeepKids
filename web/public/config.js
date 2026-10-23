@@ -3,5 +3,5 @@ window.DK_CONFIG = {
   supabaseUrl: "https://wtvsnnlpksicwhcrmkkd.supabase.co",       // e.g. https://abcdefghijkl.supabase.co
   supabaseAnonKey: "sb_publishable_3dVb5jyFzU81DEE2K5m9mA_icDPzRjf",   // the "anon" / "publishable" key
   functionsUrl: "",      // leave empty to use <supabaseUrl>/functions/v1/claude
-  ai: false              // true once the Claude function is deployed (SETUP.md step 4)
+  ai: "plus"             // false = Claude off; "plus" = only families with DeepKids Plus; true = everyone
 };

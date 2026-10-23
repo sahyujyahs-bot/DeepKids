@@ -26,12 +26,12 @@ WORDS = [
     ('Files can be saved when DeepKids is open in claude.ai.', 'Files couldn\u2019t be saved just now. Check your connection and try again.'),
     ('Saving files works when DeepKids is open in claude.ai.', 'Saving files needs a connection.'),
     ('Live calendars work when DeepKids is open in claude.ai.', 'Linking Google Calendar is coming soon on the website. Use the reminder file or calendar import below for now.'),
-    # Claude-powered features: until Claude is switched on (config ai:true), they say they're part of DeepKids Plus
-    ('Making the paper needs Claude: open DeepKids in claude.ai.', 'Making test papers is part of DeepKids Plus, coming soon.'),
-    ("Creating topics needs Claude, which isn't available in this view.", 'Exploring new topics is part of DeepKids Plus, coming soon.'),
-    ("Sorting needs Claude, which isn't available in this view. Add things one by one below.", 'Sorting lists and photos is part of DeepKids Plus, coming soon. Add things one by one below.'),
-    ("Sorting needs Claude, which isn't available in this view. Use Add by hand instead.", 'Smart sorting is part of DeepKids Plus, coming soon. Use Add by hand for now.'),
-    ("Sorting needs Claude, which isn't available in this view.", 'Smart sorting is part of DeepKids Plus, coming soon. Use Add by hand for now.'),
+    # Claude-powered features: without Plus (or with config ai:false) they say they're part of DeepKids Plus
+    ('Making the paper needs Claude: open DeepKids in claude.ai.', 'Making test papers is part of DeepKids Plus.'),
+    ("Creating topics needs Claude, which isn't available in this view.", 'Exploring new topics is part of DeepKids Plus.'),
+    ("Sorting needs Claude, which isn't available in this view. Add things one by one below.", 'Sorting lists and photos is part of DeepKids Plus. Add things one by one below.'),
+    ("Sorting needs Claude, which isn't available in this view. Use Add by hand instead.", 'Smart sorting is part of DeepKids Plus. Use Add by hand for now.'),
+    ("Sorting needs Claude, which isn't available in this view.", 'Smart sorting is part of DeepKids Plus. Use Add by hand for now.'),
 ]
 for a, b in WORDS:
     script = script.replace(a, b)
@@ -59,7 +59,7 @@ window.DK_CONFIG = {
   supabaseUrl: "",       // e.g. https://abcdefghijkl.supabase.co
   supabaseAnonKey: "",   // the "anon" / "publishable" key
   functionsUrl: "",      // leave empty to use <supabaseUrl>/functions/v1/claude
-  ai: false              // true once the Claude function is deployed (SETUP.md step 4)
+  ai: "plus"             // false = Claude off; "plus" = only families with DeepKids Plus; true = everyone
 };
 ''')
 

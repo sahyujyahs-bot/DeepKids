@@ -82,3 +82,31 @@ select u.email,
        (select coalesce(sum(a.out_tokens), 0) from public.ai_usage a where a.user_id = u.id and a.day >= date_trunc('month', now())::date) as out_tokens_this_month
 from auth.users u;
 revoke all on public.admin_families from anon, authenticated;
+
+-- 8. DeepKids Plus: who has Plus until when (written by the payment function; each family can read its own)
+create table if not exists public.plans (
+  user_id     uuid primary key references auth.users(id) on delete cascade,
+  plan        text not null default 'plus',
+  valid_until timestamptz not null,
+  updated_at  timestamptz not null default now()
+);
+alter table public.plans enable row level security;
+drop policy if exists "read own plan" on public.plans;
+create policy "read own plan" on public.plans for select to authenticated using (user_id = auth.uid());
+revoke all on public.plans from anon, authenticated;
+grant select on public.plans to authenticated;
+
+-- 9. Razorpay orders and payments (server function only)
+create table if not exists public.payments (
+  order_id    text primary key,
+  user_id     uuid not null references auth.users(id) on delete cascade,
+  amount      int not null,           -- paise
+  currency    text not null default 'INR',
+  months      int not null,
+  status      text not null default 'created',   -- created | paid
+  payment_id  text,
+  created_at  timestamptz not null default now(),
+  paid_at     timestamptz
+);
+alter table public.payments enable row level security;   -- no policies: the app can't read or write it
+revoke all on public.payments from anon, authenticated;

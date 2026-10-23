@@ -2,6 +2,7 @@
 // The app sends { input, images, tier }; this function checks the signed-in parent, applies a daily limit,
 // calls Claude with the server's API key, and returns { text, json }.
 // Secrets (Supabase dashboard -> Edge Functions -> Secrets): ANTHROPIC_API_KEY
+// REQUIRE_PLUS (default "true"): only families with an active row in public.plans can use Claude
 // Optional: CLAUDE_MODEL (default claude-opus-5-5), DAILY_CALLS (default 80), ALLOWED_ORIGINS, INVITE_ONLY ("true" to require public.invites)
 import Anthropic from "npm:@anthropic-ai/sdk@1.1.0";
 import { createClient } from "npm:@supabase/supabase-js@2.118.0";
@@ -10,6 +11,7 @@ const MODEL = Deno.env.get("CLAUDE_MODEL") ?? "claude-opus-5-5";
 const DAILY_CALLS = Number(Deno.env.get("DAILY_CALLS") ?? "80");
 const ORIGINS = (Deno.env.get("ALLOWED_ORIGINS") ?? "https://app.deepkids.in,https://deepkids.in,http://localhost:8788").split(",").map((s) => s.trim());
 const INVITE_ONLY = Deno.env.get("INVITE_ONLY") === "true";
+const REQUIRE_PLUS = Deno.env.get("REQUIRE_PLUS") !== "false";
 const EFFORT: Record<string, "low" | "medium" | "high"> = { quick: "low", default: "medium", complex: "high" };
 const anthropic = new Anthropic({ apiKey: Deno.env.get("ANTHROPIC_API_KEY") });
 const admin = createClient(Deno.env.get("SUPABASE_URL")!, Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!);
@@ -59,6 +61,11 @@ Deno.serve(async (req) => {
   if (INVITE_ONLY) {
     const { data: inv } = await admin.from("invites").select("email").eq("email", (user.email ?? "").toLowerCase()).maybeSingle();
     if (!inv) return reply(req, 403, { code: "not_granted", message: "DeepKids is invite-only for now." });
+  }
+
+  if (REQUIRE_PLUS) {
+    const { data: plan } = await admin.from("plans").select("valid_until").eq("user_id", user.id).maybeSingle();
+    if (!plan || new Date(plan.valid_until) <= new Date()) return reply(req, 402, { code: "needs_plan", message: "This is part of DeepKids Plus." });
   }
 
   // Daily limit per family

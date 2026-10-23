@@ -7,7 +7,10 @@
   const C=window.DK_CONFIG||{},T=window.DK_TEST||null;
   const $=s=>document.querySelector(s);
   const ready=!!(C.supabaseUrl&&C.supabaseAnonKey)||!!T;
-  let sb=null,session=null,uid=null;
+  let sb=null,session=null,uid=null,plus={until:null,prices:[],payments:false};
+  /* config ai: false = Claude off; "plus" = only families with DeepKids Plus; true = every signed-in family */
+  const AI=T?(T.ai??true):C.ai;
+  const plusOn=()=>!!plus.until&&new Date(plus.until)>new Date();
 
   /* ---------- sign-in screen ---------- */
   const css=`.dkg{min-height:100vh;display:grid;place-items:center;padding:24px;background:#FFF6EC;font-family:system-ui,sans-serif;color:#2B2340}
@@ -27,6 +30,8 @@
   async function token(){if(T)return "test-token";const {data}=await sb.auth.getSession();return data?.session?.access_token||""}
   function toB64(blob){return new Promise((res,rej)=>{const r=new FileReader();r.onload=()=>res(String(r.result).split(",")[1]);r.onerror=rej;r.readAsDataURL(blob)})}
   async function shrink(blob,max,q){try{if(!blob.type||!blob.type.startsWith("image/")||blob.type==="image/gif"||blob.type==="image/svg+xml")return blob;const b=await createImageBitmap(blob),s=Math.min(1,max/Math.max(b.width,b.height));if(s===1&&blob.size<400*1024)return blob;const c=document.createElement("canvas");c.width=Math.round(b.width*s);c.height=Math.round(b.height*s);const g=c.getContext("2d");g.fillStyle="#fff";g.fillRect(0,0,c.width,c.height);g.drawImage(b,0,0,c.width,c.height);const out=await new Promise(r=>c.toBlob(r,"image/jpeg",q));return out&&out.size<blob.size?out:blob}catch(e){return blob}}
+  async function fn(name,body){let r;try{r=await fetch((name==="claude"&&C.functionsUrl)||(C.supabaseUrl+"/functions/v1/"+name),{method:"POST",headers:{"content-type":"application/json",authorization:"Bearer "+await token(),apikey:C.supabaseAnonKey||""},body:JSON.stringify(body)})}catch(e){throw err("unavailable","Couldn't reach DeepKids just now.")}
+    let j=null;try{j=await r.json()}catch(e){}if(!r.ok)throw err(j?.code||"unavailable",j?.message||("HTTP "+r.status));return j}
   const snap=(row)=>({exists:!!row,data:()=>row?row.data:undefined});
 
   /* ---------- db: private family documents + shared topic library ---------- */
@@ -86,9 +91,35 @@
   const downloads=Object.freeze({async save({filename,data}){const blob=data instanceof Blob?data:new Blob([data]);const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=filename||"download";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),30000);return "saved"}});
 
   /* ---------- the window.claude the app expects ---------- */
-  function install(){const caps={db:makeDb(),user:makeUser(),sample:(C.ai||T)?makeSample():null,assets:makeAssets(),downloads};
+  const caps={};
+  function install(){Object.assign(caps,{db:makeDb(),user:makeUser(),sample:(AI===true||(AI&&plusOn()))?makeSample():null,assets:makeAssets(),downloads});
     window.claude=Object.freeze({use:async name=>caps[name]||null});
-    window.DK_PLATFORM={name:"web",signOut:async()=>{await sb.auth.signOut();location.reload()},user:()=>session?.user||null}}
+    window.DK_PLATFORM={name:"web",signOut:async()=>{await sb.auth.signOut();location.reload()},user:()=>session?.user||null,plus:()=>({...plus,on:plusOn()})};
+    if(AI==="plus"&&plus.payments)window.DK_PLATFORM.upgrade=upgrade}
+
+  /* ---------- DeepKids Plus: status and Razorpay checkout ---------- */
+  async function plusStatus(){if(AI!=="plus")return;try{const j=await Promise.race([fn("plus",{action:"status"}),new Promise((_,rej)=>setTimeout(()=>rej(err("timeout")),6000))]);plus={until:j.valid_until||null,prices:j.prices||[],payments:!!j.payments}}catch(e){console.warn("plus status",e)}}
+  const inr=n=>"₹"+Number(n).toLocaleString("en-IN");
+  const per=p=>p.months===1?"1 month":p.months===12?"1 year":p.months+" months";
+  function pickPrice(){const P=plus.prices;if(P.length<2)return Promise.resolve(P[0]||null);
+    return new Promise(res=>{const d=document.createElement("dialog");d.className="dkpay";
+      d.innerHTML=`<style>.dkpay{border:0;padding:0;margin:0;max-width:none;max-height:none;width:100%;height:100%;background:rgba(43,35,64,.45);display:grid;place-items:end center;font-family:system-ui,sans-serif}.dkpay::backdrop{background:none}.dkpay .bx{background:#FFF6EC;color:#2B2340;width:100%;max-width:440px;border-radius:24px 24px 0 0;padding:22px 18px 26px;display:grid;gap:10px}.dkpay h3{margin:0 0 4px;font-size:20px}.dkpay button{padding:14px 16px;border-radius:16px;border:2px solid rgba(43,35,64,.15);background:#fff;font:600 16px system-ui,sans-serif;color:#2B2340;display:flex;justify-content:space-between;cursor:pointer}.dkpay button.x{justify-content:center;background:none;border:0;font-weight:500;color:#5d5670}.dkpay small{color:#776f8a;font-weight:500}</style>
+        <div class="bx"><h3>Choose your DeepKids Plus</h3>${P.map((p,i)=>`<button data-i="${i}"><span>${per(p)}${p.months>1?` <small>(${inr(Math.round(p.inr/p.months))}/month)</small>`:""}</span><span>${inr(p.inr)}</span></button>`).join("")}<button class="x" data-i="-1">Not now</button></div>`;
+      let got=false;const end=v=>{if(got)return;got=true;d.remove();res(v)};
+      d.onclick=e=>{const b=e.target.closest("button");if(!b&&e.target!==d)return;const i=b?+b.dataset.i:-1;end(i>=0?P[i]:null)};d.oncancel=()=>end(null);document.body.appendChild(d);d.showModal()})}
+  let rzpLoad=null;
+  function razorpay(){return rzpLoad=rzpLoad||(window.Razorpay?Promise.resolve():load("https://checkout.razorpay.com/v1/checkout.js").catch(e=>{rzpLoad=null;throw e}))}
+  async function upgrade(){
+    const price=await pickPrice();if(!price)return false;
+    await razorpay();const o=await fn("plus",{action:"order",months:price.months});
+    /* the app's sheet is a modal dialog that would sit above Razorpay's window; close it (the app restores its state) */
+    document.querySelectorAll("dialog[open]").forEach(d=>d.close());
+    return new Promise(res=>{let done=false;const fin=v=>{if(!done){done=true;res(v)}};
+      const rzp=new window.Razorpay({key:o.key_id,order_id:o.order_id,amount:o.amount,currency:o.currency,name:"DeepKids",description:"DeepKids Plus · "+per(price),
+        prefill:{email:o.email,name:o.name},theme:{color:"#8E8DD8"},
+        modal:{ondismiss:()=>fin(false)},
+        handler:async r=>{try{const v=await fn("plus",{action:"verify",...r});plus.until=v.valid_until;if(plusOn()){caps.sample=makeSample();fin(true)}else fin(false)}catch(e){fin(false)}}});
+      rzp.open()})}
 
   /* ---------- service worker: serves /_blob/ photos from private storage, caches the app ---------- */
   async function startSW(){if(!("serviceWorker" in navigator)||T)return;try{
@@ -107,7 +138,7 @@
       if(!session)return signInScreen(new URLSearchParams(location.search).get("error_description")||"");
       uid=session.user.id;if(location.search.includes("code="))history.replaceState(null,"",location.pathname);
       sb.auth.onAuthStateChange((ev,s)=>{if(ev==="SIGNED_OUT")location.reload();if(s)session=s})}
-    install();await startSW();
+    await plusStatus();install();await startSW();
     const v=window.DK_BUILD||"";document.getElementById("dkLoading")?.remove();
     await load("/data.js?v="+v);await load("/app.js?v="+v)}
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",boot);else boot();
