@@ -414,6 +414,14 @@
 
 
 
+
+
+
+
+
+
+
+
 const DATA = window.DK_DATA;
 const SUBJ = DATA.subjects, SUBJ_KEYS = Object.keys(SUBJ);
 const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)"};
@@ -498,7 +506,8 @@ const modeOf=()=>S.mode||(S.board==="none"?"plus":S.plus?"booksplus":"books");co
 let SHARED={topics:[]};
 const genUnit=g=>({k:"gen|"+g.id,board:"gen",subj:g.subj,level:g.level||1,book:"DeepKids topic",n:"★",title:g.name,dk:[],gen:g});
 function genUnits(subj,lvl){const ex=(S.extra||{})[subj]||[];return SHARED.topics.filter(g=>g.subj===subj&&((g.level||1)===lvl||(lvl===S.levels[subj]&&(g.level||1)<lvl))&&ex.includes("gen|"+g.id)).map(genUnit)}
-function dkUnits(subj,lvl){if(!plusOn()||subj!=="sci"||lvl!==1)return [];return DATA.topics.map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t}))}
+function dkUnits(subj,lvl){if(subj!=="sci")return [];const ex=(S.extra||{})[subj]||[],added=lvl===S.levels[subj]?DATA.topics.filter(t=>ex.includes("dk|"+t.id)):[],seen=new Set();
+  return [...added,...(plusOn()&&lvl===1?DATA.topics:[])].filter(t=>!seen.has(t.id)&&seen.add(t.id)).map(t=>({k:"dk|"+t.id,board:"dk",subj:"sci",level:1,book:"DeepKids Plus · Science Level 1",n:t.id,title:t.name,dk:[],topic:t}))}
 function collateAt(subj,lvl){return {board:DATA.items.filter(i=>i.subj===subj&&i.level===lvl&&boardsOn().includes(i.board)),dk:dkUnits(subj,lvl),gen:genUnits(subj,lvl)}}
 const collate=s=>collateAt(s,S.levels[s]);
 function notesFor(subj,lvl){const n=[];boardsOn().forEach(b=>{const x=b==="ncert"?DATA.notes.ncert[subj+"|"+lvl]:(DATA.notes[b]?.[subj+"|"+lvl]??DATA.notes[b]?.[subj]);if(x)n.push(BOARDS[b]+": "+x)});
@@ -1626,13 +1635,14 @@ Give exactly 3 full-day plans (about 60–90 minutes each) and 3 busy-day plans 
   catch(e){ui.tgen=false;ui.terr=({not_granted:"Claude wasn't allowed for this page.",rate_limited:"Too many requests just now. Try again in a minute.",invalid_json:"The topic didn't come back in the right shape. Try again."})[e?.code]||"Something went wrong. Try again.";sfx("no");render()}}
 
 /* ---------- Up next: the topic queue ---------- */
-function queueCard(){const s=S.subjects.includes(ui.qs)?ui.qs:S.subjects[0];if(!s)return "";const L=plannedUnits(s).filter(u=>rank[coverage(u)]<2).slice(0,8),sh=!!(S.shuffle||{})[s],extra=(S.extra||{})[s]||[];
+const qPos=u=>plannedUnits(u.subj).filter(z=>rank[coverage(z)]<2||z.k===u.k).findIndex(z=>z.k===u.k)+1;
+function queueCard(){const s=S.subjects.includes(ui.qs)?ui.qs:S.subjects[0];if(!s)return "";const extra=(S.extra||{})[s]||[],L0=plannedUnits(s).filter(u=>rank[coverage(u)]<2),L=L0.filter((u,i)=>i<8||extra.includes(u.k)),sh=!!(S.shuffle||{})[s];
   const radio=allUnits().filter(u=>u.subj===s&&(u.board==="gen"||(u.board==="dk"&&plusOn()))&&!plannedUnits(s).some(z=>z.k===u.k)).slice(0,4);
   return `<section class="sec"><div class="sech"><h3>Up next</h3><span class="xs muted">${modeOf()==="books"?"Syllabus books":MODES[modeOf()][0]}</span></div>
    <div class="seg">${S.subjects.map(x=>`<button aria-pressed="${x===s}" data-act="qsub" data-s="${x}">${SUBJ[x]}</button>`).join("")}</div>
    <div class="row"><button class="btn ${sh?"":"soft"} sm" data-act="shuffle" data-s="${s}">${icon("spark")}Smart shuffle ${sh?"on":"off"}</button>${sh?`<button class="btn soft sm" data-act="reshuffle" data-s="${s}">Shuffle again</button>`:""}<button class="btn ${S.exam?"":"soft"} sm" data-act="exam">${S.exam?"Exam track on":"Exam track off"}</button></div>
    <p class="xs muted">${sh?"Shuffle respects what each topic needs first, and never drops a syllabus chapter.":"Book order."} ${S.exam?"Exam track keeps every syllabus chapter first; extra topics come after.":"Extra topics are mixed in between syllabus chapters."}</p>
-   <div class="col" style="gap:8px">${L.map((u,i)=>{const T=tagsOf(u)[0];return `<div class="qrow ${SC(u.subj)}"><span class="qn">${i+1}</span><button class="plain" data-act="chapter" data-k="${u.k}" style="min-width:0"><b style="font:600 15.5px var(--display)">${esc(u.title)}</b><br><span class="xs muted">${u.board==="gen"?"DeepKids topic":u.board==="dk"?"DeepKids Plus":esc(T?.txt||u.book)} · ${sessionsFor(u)} days</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${i?`<button class="iconbtn" style="width:36px;height:36px" data-act="qnext" data-s="${s}" data-k="${u.k}" aria-label="Do ${esc(u.title)} next">${icon("play")}</button>`:`<span class="pill learning">Next</span>`}<button class="iconbtn" style="width:36px;height:36px" data-act="qlater" data-s="${s}" data-k="${u.k}" aria-label="Move ${esc(u.title)} to later">${icon("next")}</button>${extra.includes(u.k)?`<button class="iconbtn" style="width:36px;height:36px" data-act="qrem" data-s="${s}" data-k="${u.k}" aria-label="Remove ${esc(u.title)}">${icon("close")}</button>`:""}</span></div>`}).join("")}</div>
+   <div class="col" style="gap:8px">${L.map((u,i)=>{const T=tagsOf(u)[0];return `<div class="qrow ${SC(u.subj)}"><span class="qn">${L0.indexOf(u)+1}</span><button class="plain" data-act="chapter" data-k="${u.k}" style="min-width:0"><b style="font:600 15.5px var(--display)">${esc(u.title)}</b><br><span class="xs muted">${u.board==="gen"?"DeepKids topic":u.board==="dk"?"DeepKids Plus":esc(T?.txt||u.book)} · ${sessionsFor(u)} days</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${i?`<button class="iconbtn" style="width:36px;height:36px" data-act="qnext" data-s="${s}" data-k="${u.k}" aria-label="Do ${esc(u.title)} next">${icon("play")}</button>`:`<span class="pill learning">Next</span>`}<button class="iconbtn" style="width:36px;height:36px" data-act="qlater" data-s="${s}" data-k="${u.k}" aria-label="Move ${esc(u.title)} to later">${icon("next")}</button>${extra.includes(u.k)?`<button class="iconbtn" style="width:36px;height:36px" data-act="qrem" data-s="${s}" data-k="${u.k}" aria-label="Remove ${esc(u.title)}">${icon("close")}</button>`:""}</span></div>`}).join("")}</div>
    ${radio.length?`<div class="sech"><h3 style="font-size:17px">More like this</h3><button class="link" data-act="lt2">Find topics</button></div><div class="row">${radio.map(u=>`<button class="chip ${SC(u.subj)}" data-act="qadd" data-s="${s}" data-k="${u.k}">${icon("plus")}${esc(u.title)}</button>`).join("")}</div>`:`<button class="link" data-act="lt2" style="justify-self:start">Find more topics →</button>`}</section>`}
 
 /* ---------- calendars ---------- */
@@ -1990,7 +2000,7 @@ function chapterView(){const u=unitBy(ui.sheet.k);if(!u)return "";const c=u.c,x=
   const t=tabs[ui.ctab[u.k]]?ui.ctab[u.k]:"overview",inPlan=everyUnit().some(z=>z.k===u.k)&&plannedUnits(u.subj).some(z=>z.k===u.k);
   let h=`<section class="chero ${SC(u.subj)}"><span class="n">${/^\d+$/.test(u.n)?u.n:esc(u.n)}</span><span class="eyebrow" style="color:#2B2340;opacity:.7">${u.board==="gen"?"DeepKids topic · Level "+u.level:esc(u.book)}</span><h1>${esc(u.title)}</h1><span class="sticker ${cs}" style="justify-self:start">${STATUS[cs]}${cs==="learning"&&done(u.k)?` · Part ${done(u.k)} of ${sessionsFor(u)}`:""}</span><p>${c?.p?`${c.p.days.length} parts · about ${c.p.day_mins} minutes each`:`${fh(hoursFor(u))} hours in all · ${sessionsFor(u)} lesson days at ${fh(hpdOf(u.subj))} h a day`}</p>${sblob(u.subj,"happy","mascot sway")}</section>
    ${u.board==="gen"&&!u.gen.reviewed?`<p class="note">Written by Claude when a parent searched for it. Not yet reviewed by DeepKids.</p>`:""}
-   <div class="row">${inPlan?`${isNextUp(u)?`<span class="pill completed" style="align-self:center">✓ Next up in ${SUBJ[u.subj]}</span><button class="btn line sm" data-act="plsheet" data-p="queue">See the queue</button>`:`<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`}`:S.subjects.includes(u.subj)&&(u.board==="gen"||(u.board==="dk"&&plusOn()))?`<button class="btn sm" data-act="qadd" data-s="${u.subj}" data-k="${u.k}">${icon("plus")}Add to the plan</button>`:""}</div>
+   <div class="row">${inPlan?`<span class="pill completed" style="align-self:center">✓ ${isNextUp(u)?"Next up":"In the plan · no. "+qPos(u)} in ${SUBJ[u.subj]}</span>${isNextUp(u)?"":`<button class="btn sm" data-act="qnext" data-s="${u.subj}" data-k="${u.k}">Do this next</button>`}<button class="btn line sm" data-act="gotab" data-tab="week" data-seg="lessons" data-qs="${u.subj}">See the queue</button>`:S.subjects.includes(u.subj)&&(u.board==="gen"||(u.board==="dk"&&plusOn()))?`<button class="btn sm" data-act="qadd" data-s="${u.subj}" data-k="${u.k}">${icon("plus")}Add to the plan</button>`:""}</div>
    
    ${Object.keys(tabs).length>1?`<div class="seg" role="tablist">${Object.entries(tabs).map(([k,v])=>`<button aria-pressed="${t===k}" data-act="ctab" data-k="${u.k}" data-t="${k}">${v}</button>`).join("")}</div>`:""}`;
   if(t==="overview"){if(c?.p)h+=packOverview(u);{const sh=shelfFor(u);if(sh.length)h+=`<section class="card"><span class="eyebrow">From your shelf</span>${sh.map(i=>`<div class="sm"><b>${esc(i.name)}</b>${i.note?` · <span class="muted">${esc(i.note)}</span>`:""}</div>`).join("")}</section>`}h+=topicOverview(u);if(x&&m!=="books")h+=`<section class="card ${SC(u.subj)}"><span class="eyebrow">What to learn</span>${x.learn.map((l,i)=>`<div class="idea"><span class="k">${i+1}</span><p>${esc(l)}</p></div>`).join("")}</section>`;
@@ -2210,7 +2220,7 @@ function onAct(e){
    case "qnext":{const s=b.dataset.s;S.next={...(S.next||{}),[s]:[k,...((S.next||{})[s]||[]).filter(x=>x!==k)]};S.later={...(S.later||{}),[s]:((S.later||{})[s]||[]).filter(x=>x!==k)};sfx("ok");commit();toast(nextMsg(s,k),5000);if(sheet.open)renderSheet();break}
    case "qlater":{const s=b.dataset.s;S.later={...(S.later||{}),[s]:[...((S.later||{})[s]||[]).filter(x=>x!==k),k]};S.next={...(S.next||{}),[s]:((S.next||{})[s]||[]).filter(x=>x!==k)};sfx("flip");toast("Moved to later");commit();break}
    case "qrem":{const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:((S.extra||{})[s]||[]).filter(x=>x!==k)};S.next={...(S.next||{}),[s]:((S.next||{})[s]||[]).filter(x=>x!==k)};sfx("flip");commit();break}
-   case "qadd":{const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:[...new Set([...((S.extra||{})[s]||[]),k])]};sfx("ok");commit();toast(`Added. ${chT(unitBy(k))} is in the ${SUBJ[s]} queue (Planner → Up next).`,5000);if(sheet.open)renderSheet();break}
+   case "qadd":{const s=b.dataset.s;S.extra={...(S.extra||{}),[s]:[...new Set([...((S.extra||{})[s]||[]),k])]};sfx("ok");commit();toast(`Added to the ${SUBJ[s]} queue as no. ${qPos(unitBy(k))||"–"}. Find it in Plan → Lesson plan.`,5000);if(sheet.open)renderSheet();break}
    case "lt2":{ui.lt="topics";tab="library";render();scrollTo(0,0);break}
    case "quickplan":{tab="week";render();scrollTo(0,0);break}
    case "free":{openPicker();break}
@@ -2342,7 +2352,7 @@ function onAct(e){
    case "dhand":{ui.dhand=!ui.dhand;sfx("tap");render();break}
    case "dnofiles":{if(ui.dump)ui.dump.files=[];sfx("flip");render();break}
    case "seg":{navPush();ui.seg={...(ui.seg||{}),[b.dataset.k]:b.dataset.v};sfx("tap");render();scrollTo(0,0);break}
-   case "gotab":{navPush();const dl=document.getElementById("sheet");if(dl?.open){ui.sheet=null;dl.close()}tab=b.dataset.tab;if(b.dataset.seg)ui.seg={...(ui.seg||{}),[tab]:b.dataset.seg};sfx("flip");render();scrollTo(0,0);break}
+   case "gotab":{navPush();if(b.dataset.qs)ui.qs=b.dataset.qs;const dl=document.getElementById("sheet");if(dl?.open){ui.sheet=null;dl.close()}tab=b.dataset.tab;if(b.dataset.seg)ui.seg={...(ui.seg||{}),[tab]:b.dataset.seg};sfx("flip");render();scrollTo(0,0);break}
    case "sndtoggle":{document.getElementById("snd")?.click();setTimeout(()=>{if(ui.sheet)renderSheet()},50);break}
    case "dexport":{dataExport();break}
    case "plus":{sfx("flip");openSheet({mode:"plus",r:b.dataset.r||""});break}
