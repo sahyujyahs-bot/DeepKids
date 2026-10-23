@@ -526,6 +526,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const DATA = window.DK_DATA;
 const SUBJ = {...DATA.subjects,dks:"DeepKids Science"}, SUBJ_KEYS = Object.keys(SUBJ);
 DATA.prepgen.guide.dks=DATA.prepgen.guide.dks||"DeepKids Science starts from a big question. Read the topic story yourself first, then let your child wonder out loud before you explain anything. Their questions matter more than the answers.";
@@ -685,7 +705,7 @@ function setA(k,id,v){S.ans[k]=S.ans[k]||{};S.ans[k][id]=v}
 const hm=s=>{const [h,m]=String(s||"0:0").split(":").map(Number);return h*60+(m||0)};
 const clock=m=>{m=Math.round(m);let h=Math.floor(m/60)%24,mm=String(m%60).padStart(2,"0");const ap=h<12?"am":"pm";h=h%12||12;return `${h}:${mm} ${ap}`};
 const D=()=>({...DEF_DAY,...(S.day||{})});
-const Dd=date=>({...D(),...((S.dayOver||{})[date]||{})});
+const Dd=date=>({...D(),...((S.dayW||{})[parse(date).getDay()]||{}),...((S.dayOver||{})[date]||{})});
 const addDays=(s,n)=>{const d=parse(s);d.setDate(d.getDate()+n);return iso(d)};
 const todosOn=date=>(S.todos||[]).filter(x=>x.date===date||(date===today&&x.date<date&&!x.done)||(x.done&&x.doneOn===date&&x.date!==date));
 const eventsOn=date=>[...(S.events||[]),...(S.cal?.on?S.cal.ev||[]:[])].filter(e=>!S.evoff?.[date+"|"+e.id]).filter(e=>e.rep==="weekly"?e.days.includes(parse(date).getDay())&&date>=e.from:e.date===date).sort((a,b)=>hm(a.start)-hm(b.start));
@@ -715,11 +735,20 @@ function dayPlan(date){const d=Dd(date),items=[],ev=eventsOn(date),isT=date===to
   const lessons=lessonsOn(date);const fixed=[{a:hm(d.lunch),b:hm(d.lunch)+(+d.lunchMin)},...ev.filter(e=>e.start).map(e=>({a:hm(e.start),b:e.end?hm(e.end):hm(e.start)+60}))];
   let cur=hm(d.start);const place=dur=>{let moved=true;while(moved){moved=false;for(const f of fixed){if(cur<f.b&&cur+dur>f.a){cur=f.b;moved=true}}}const at=cur;cur+=dur;return at};
   if(lessons.length){items.push({id:"warm",at:place(15),dur:15,who:"both",kind:"warm",title:"Warm-up: jokes and Word of the Day",sub:"Start the day laughing",done:!!S.tl[date+"|warm"]||(isT&&(G().g.length>0))});
-    const rf=refresherFor(date);if(rf)items.push({id:"refresh",at:place(15),dur:15,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:"From "+rf.u.title,rf,done:!!S.tl[date+"|refresh"]});
+    const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]});
     const open=S.exps.filter(e=>!e.closed&&e.start<=date);if(open.length)items.push({id:"exps",at:place(5),dur:5,who:"both",kind:"exps",title:"Daily check-ins",sub:open.map(e=>e.title).slice(0,2).join(" · ")+(open.length>2?` +${open.length-2}`:""),done:isT&&open.every(e=>e.checks.includes(today))});cur+=5}
   lessons.forEach((l,i)=>{if(l.done&&l.at!=null){items.push({id:"L-"+l.s+"d"+i,at:l.at,doneAt:l.at,dur:lessonMins(l.s,date),who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,title:SUBJ[l.s]+": "+l.u.title,sub:l.skipped?"Skipped":"Done ✓",skipped:l.skipped,done:true});return}const dur=lessonMins(l.s,date),lastEnd=cur;if(i>0)cur+=+d.brk;const at=place(dur);if(i>0&&+d.brk&&at===lastEnd+ +d.brk)items.push({id:"brk"+i,at:lastEnd,dur:+d.brk,who:"free",kind:"brk",title:"Break: water, snack, move"});items.push({id:"L-"+l.s+(l.bonus?"b":"")+i,at,dur,who:"both",kind:"lesson",s:l.s,u:l.u,n:l.n,tot:l.tot,bonus:!!l.bonus,doneNoTime:!!l.done,title:(l.bonus?"Bonus · ":"")+SUBJ[l.s]+": "+l.u.title,sub:l.done?"Done ✓":`Part ${l.n} of ${l.tot}`+(l.u.c?.x?` · ${daySteps(l.u,l.n,l.tot).map(z=>z.label).join(", ")}`:""),done:!!l.done});
 });
   if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
+  if(!lessons.length){const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]})}
+  if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
+  if(!lessons.length){const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]})}
+  if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
+  if(!lessons.length){const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]})}
+  if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
+  if(!lessons.length){const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]})}
+  if(lessons.some(l=>!l.bonus)&&plusOn()&&S.subjects.includes("sci")&&dkMinsOf()>0){const pk=dkPick(date,lessons);if(pk){const dur=dkMinsOf();cur+=+d.brk;items.push({id:"dkt",at:place(dur),dur,who:"both",kind:"dkt",u:pk.u,title:"DeepKids topic: "+pk.u.title,sub:pk.why,done:!!S.tl[date+"|dkt"]})}}
+  if(!lessons.length){const rf=rfPlan(date);if(rf)items.push({id:"refresh",at:place(rf.mins),dur:rf.mins,who:"both",kind:"refresh",title:"Refresher: "+rf.title,sub:rf.sub,rf,done:!!S.tl[date+"|refresh"]})}
   if(lessons.length)items.push({id:"lunch",at:hm(d.lunch),dur:+d.lunchMin,who:"free",kind:"brk",title:"Lunch"});
   ev.forEach(e=>items.push({id:"e-"+e.id,at:e.start?hm(e.start):24*60-1,anytime:!e.start,dur:e.start&&e.end?Math.max(15,hm(e.end)-hm(e.start)):15,who:e.kind==="outing"?"out":e.who,kind:"event",ev:e,title:e.title,sub:evSub(e)+(e.start?"":e.allDay?" · all day":" · time not set"),done:!!S.tl[date+"|e-"+e.id]}));
   todosOn(date).forEach(td=>items.push({id:"t-"+td.id,at:24*60-1,dur:15,anytime:true,who:td.who||"you",kind:"todo",td,title:td.title,sub:(td.date<date?"Carried over from "+fmt(td.date):"Any time today")+(td.note?" · "+td.note:""),done:!!td.done&&td.doneOn===date}));
@@ -773,6 +802,112 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* ---------- Question bank from the lessons done ---------- */
+const qid=(k,q)=>{let h=0;const s=k+"|"+q;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))|0;return "q"+(h>>>0).toString(36)};
+function qBank(u){const P=u.c?.p,out=[],seen=new Set(),add=o=>{const id=qid(u.k,o.q);if(seen.has(id))return;seen.add(id);out.push({k:u.k,id,...o})};
+  if(P){(P.check||[]).forEach(c=>add({q:c.q,a:c.a,kind:"open"}));(P.words||[]).forEach(([w,m])=>add({q:`What does “${w}” mean?`,a:m,kind:"open"}));
+    (P.worksheets||[]).forEach(w=>w.sections.forEach(([,its])=>its.forEach(it=>{if(it.t==="mcq"&&Array.isArray(it.opts)&&Number.isInteger(it.a)&&it.opts[it.a]!=null)add({q:it.p,opts:it.opts,ans:it.a,a:String(it.opts[it.a]),kind:"mcq"});else if(it.t==="fill"&&it.a?.length)add({q:it.p,a:it.a.join(" / "),kind:"open"});else if(it.t==="match"&&it.pairs?.length)it.pairs.slice(0,3).forEach(([x,y])=>add({q:`${String(it.p).replace(/\.$/,"")}: ${x}?`,a:String(y),kind:"open"}))})))}
+  (u.c?.x?.quiz||[]).forEach(([s,t,why])=>add({q:s,kind:"tf",opts:["True","False"],ans:t?0:1,a:(t?"True":"False")+(why?". "+why:"")}));
+  (S.qgen?.[u.k]||[]).forEach(o=>add({...o,kind:o.opts?"mcq":"open",gen:true}));
+  return out}
+const lastLearn=u=>{let d="";S.log.forEach(l=>{if(l.key===u.k&&l.date>d)d=l.date});return d||S.progress?.[u.k]?.updated||""};
+function learnedUnits(){const ks=new Set([...S.log.map(l=>l.key),...Object.keys(S.progress||{}).filter(k=>(S.progress[k].sessions||0)>0||rank[S.progress[k].status]>=2)]);return [...ks].map(unitByK).filter(u=>u&&S.subjects.includes(u.subj))}
+/* every answer to every question, from part quizzes, quick quizzes and refreshers; the latest one counts */
+function lastAnswers(){const M={};Object.entries(S.quiz||{}).forEach(([kk,o])=>{const k=kk.slice(0,kk.lastIndexOf("|"));Object.values(o||{}).forEach(x=>{if(x&&x.q!=null){const id=qid(k,x.q);if(!M[id]||(x.d||"")>=(M[id].d||""))M[id]={k,q:x.q,a:x.a,r:x.r,d:x.d||""}}})});
+  Object.entries(S.qa||{}).forEach(([id,x])=>{if(!M[id]||(x.d||"")>=(M[id].d||""))M[id]=x});return M}
+function qRecord(o,r){S.qa=S.qa||{};const p=S.qa[o.id];S.qa[o.id]={k:o.k,q:o.q,a:o.a,r:r?1:0,d:today,n:(p?.n||0)+1,w:(p?.w||0)+(r?0:1)}}
+/* Not grasped: a question's latest answer is wrong. Mastered: chapter done, all its work done, nothing wrong. Grasped: the rest */
+function masteryOf(u,M){if(Object.values(M).some(x=>x.k===u.k&&x.r===0))return "not";const P=u.c?.p;let all=rank[coverage(u)]>=2;
+  if(all&&P){const its=[...(P.worksheets||[]).map(w=>["ws",w.id]),...[...(P.experiments||[]),...(P.activities||[])].map(e=>[wType(u,e.id),e.id]),...P.days.filter(d=>quizQ(u,d.n).length).map(d=>["qz","q"+d.n])];all=its.every(([t,id])=>["done","skip"].includes(itemState(t,u,id)))}
+  return all?"mastered":"grasped"}
+function masteryLists(){const M=lastAnswers(),L={not:[],grasped:[],mastered:[]};learnedUnits().forEach(u=>L[masteryOf(u,M)].push(u));return L}
+const MGN={not:"Not grasped yet",grasped:"Grasped",mastered:"Mastered"},RTN={qz:"Quiz questions",think:"Big think",reread:"Re-read",act:"Redo an activity"};
+const RFDEF={not:{every:1,mix:{qz:50,think:20,reread:30,act:0}},grasped:{every:3,mix:{qz:50,think:30,reread:10,act:10}},mastered:{every:10,mix:{qz:30,think:50,reread:0,act:20}},mins:15,days:[0,1,2,3,4,5,6]};
+function RFS(){const s=S.rfs||{},g=k=>({...RFDEF[k],...(s[k]||{}),mix:{...RFDEF[k].mix,...(s[k]?.mix||{})}});return {not:g("not"),grasped:g("grasped"),mastered:g("mastered"),mins:s.mins||RFDEF.mins,days:s.days||RFDEF.days}}
+const hsh=s=>{let h=7;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))>>>0;return h};
+function thinkFor(u,i){const P=u.c?.p,t=u.topic;if(P?.voices?.length){const v=P.voices[i%P.voices.length];return {title:"Big think: "+v.who.split(/[,(]/)[0].trim(),body:v.idea,ask:"What do you think, and why? Is there another way to see it?"}}
+  if(t)return {title:"Big think: "+t.name,body:t.summary,ask:t.oneness};if(P?.goals?.length){const g=P.goals[i%P.goals.length].replace(/^By the end your child can\s*/i,"");return {title:"Big think: "+u.title,body:"Can you still "+g.replace(/\.$/,"")+"?",ask:"Show me or tell me, in your own words."}}
+  return {title:"Teach it back: "+u.title,body:"Your child teaches you what they remember from this chapter, as if you were the student.",ask:"What is one question about it you still have?"}}
+function rereadFor(u){const P=u.c?.p;if(P)return {title:"Re-read: "+u.title,body:P.summary,words:(P.words||[]).slice(0,5)};if(u.topic)return {title:"Re-read: "+u.title,body:u.topic.summary};return {title:"Re-read: "+chT(u),body:`Open ${u.book||"the book"} at this chapter. Your child reads a page aloud and tells you what it was about.`}}
+function actFor(u,i){const P=u.c?.p,c=u.c||{},pool=[];if(P){(P.experiments||[]).forEach(e=>pool.push({title:e.title,body:e.question,steps:e.steps,need:e.need}));(P.activities||[]).forEach(a=>pool.push({title:a.title,body:a.outcome?"You end up with: "+a.outcome:"",steps:a.steps,need:a.need}))}
+  if(c.game)pool.push({title:c.game[0],body:c.game[1]});(c.exp||[]).forEach(e=>pool.push({title:e.split(":")[0].slice(0,50),body:e}));(c.act||[]).forEach(e=>pool.push({title:e.split(":")[0].slice(0,50),body:e}));return pool.length?pool[i%pool.length]:null}
+function pickType(mix,h){const T=Object.entries(mix).filter(([,v])=>v>0),tot=T.reduce((a,[,v])=>a+v,0);if(!tot)return "qz";let x=h%tot;for(const [k,v] of T){if(x<v)return k;x-=v}return T[0][0]}
+/* the day's refresher: topics due by their list's frequency, a mix of short bits by their list's mix */
+function rfPlan(date){if(S.rfp?.[date])return S.rfp[date];const R=RFS();if(!R.days.includes(parse(date).getDay()))return null;const M=lastAnswers(),dn=parse(date);
+  const lastRef={};Object.entries(S.rfp||{}).forEach(([d,p])=>{if(d<date&&S.tl?.[d+"|refresh"])(p.topics||[]).forEach(t=>{if(!lastRef[t.k]||d>lastRef[t.k])lastRef[t.k]=d})});
+  const due=[];learnedUnits().forEach(u=>{const ll=lastLearn(u);if(!ll||ll>=date)return;const g=masteryOf(u,M),from=lastRef[u.k]&&lastRef[u.k]>ll?lastRef[u.k]:ll,gap=Math.round((dn-parse(from))/864e5);if(gap>=R[g].every)due.push({u,g,gap})});
+  if(!due.length)return null;const ord={not:0,grasped:1,mastered:2};due.sort((a,b)=>ord[a.g]-ord[b.g]||b.gap-a.gap||(hsh(date+a.u.k)-hsh(date+b.u.k)));
+  const T=due.slice(0,3),n=Math.max(3,Math.round(R.mins/3)),slots=[];
+  for(let i=0;i<n;i++){const t=T[i%T.length],h=hsh(date+"|"+i+"|"+t.u.k);let ty=pickType(R[t.g].mix,h);
+    if(ty==="qz"){const B=qBank(t.u),w=B.filter(q=>M[q.id]?.r===0),fresh=B.filter(q=>!M[q.id]),pool=w.length?w:fresh.length?fresh:B,used=new Set(slots.filter(s=>s.q).map(s=>s.q.id)),cand=pool.filter(q=>!used.has(q.id));if(cand.length){slots.push({ty,k:t.u.k,g:t.g,q:cand[h%cand.length]});continue}ty="think"}
+    if(ty==="act"){const a=actFor(t.u,h);if(a){slots.push({ty,k:t.u.k,g:t.g,...a});continue}ty="think"}
+    slots.push({ty,k:t.u.k,g:t.g,...(ty==="reread"?rereadFor(t.u):thinkFor(t.u,h))})}
+  const p={date,mins:R.mins,topics:T.map(t=>({k:t.u.k,g:t.g})),slots,title:T.map(t=>t.u.title).slice(0,2).join(" · ")+(T.length>2?` +${T.length-2}`:""),sub:`${slots.length} short bits from ${T.length} past topic${T.length>1?"s":""}`};
+  if(date===today){S.rfp={...(S.rfp||{}),[date]:p}}return p}
+function qCard(q,state){const res=state?.r,ch=state?.c;window._qmap=window._qmap||{};window._qmap[q.id]=q;
+  const opts=q.opts?`<div class="col" style="gap:6px">${q.opts.map((o,i)=>`<button class="btn sm ${res==null?"soft":i===q.ans?"green":i===ch?"bad":"line"}" data-act="qans" data-id="${q.id}" data-c="${i}" ${res!=null?"disabled":""}>${esc(String(o))}</button>`).join("")}</div>`:"";
+  const open=!q.opts?(res==null?`<details><summary class="sm muted">Show the answer</summary><p class="sm">${esc(q.a)}</p></details><div class="row" style="gap:6px"><button class="btn xs accent" data-act="qans" data-id="${q.id}" data-r="1">Got it</button><button class="btn xs soft" data-act="qans" data-id="${q.id}" data-r="0">Not yet</button></div>`:`<p class="sm"><b>Answer:</b> ${esc(q.a)}</p>`):"";
+  return `<div class="qcard"><b style="font:600 17px var(--display)">${esc(q.q)}</b>${opts}${open}${res!=null?`<p class="sm"><b>${res?"✓ Right":"✗ Not yet"}</b>${q.opts&&!res?` · Answer: ${esc(q.a)}`:""}</p>`:""}</div>`}
+/* Quick quiz: any time, on lessons done */
+function quizPool(s,focus){const M=lastAnswers(),U=learnedUnits().filter(u=>s==="all"||u.subj===s),B=U.flatMap(qBank),g=Object.fromEntries(U.map(u=>[u.k,masteryOf(u,M)]));
+  if(focus==="not")return B.filter(q=>g[q.k]==="not");if(focus==="even")return B;const w=q=>M[q.id]?.r===0?0:g[q.k]==="not"?1:!M[q.id]?2:3;return B.slice().sort((a,b)=>w(a)-w(b))}
+function quizzView(){document.getElementById("sheetTitle").textContent="Quick quiz";if(ui.qrun)return quizRunView();if(ui.qzv)return quizPastView();
+  const Z=ui.qz=ui.qz||{s:"all",by:"n",n:10,m:10,focus:"mix"},U=learnedUnits(),cnt=s=>U.filter(u=>s==="all"||u.subj===s).flatMap(qBank).length,L=masteryLists(),seg=(key,vals,lab)=>`<div class="seg">${vals.map(v=>`<button aria-pressed="${Z[key]===v}" data-act="qzset" data-key="${key}" data-v="${v}">${lab(v)}</button>`).join("")}</div>`;
+  const noBank=S.subjects.filter(s=>U.some(u=>u.subj===s)&&!cnt(s));
+  return `<p class="sm muted">Questions from every lesson you've done. Ask aloud; your child answers, then you check. Results are saved for the transcript, and anything not yet grasped goes into the refresher.</p>
+   <section class="card"><span class="eyebrow">Subjects</span><div class="row chips">${["all",...S.subjects].map(s=>`<button class="chip" aria-pressed="${Z.s===s}" data-act="qzset" data-key="s" data-v="${s}">${s==="all"?"All subjects":SUBJ[s]} <small>${cnt(s)}</small></button>`).join("")}</div>
+    <span class="eyebrow">How long</span>${seg("by",["n","m"],v=>v==="n"?"Number of questions":"Minutes")}${Z.by==="n"?seg("n",[5,10,15,20],v=>v+" questions"):seg("m",[5,10,15,20],v=>v+" min")}
+    <span class="eyebrow">Which questions</span>${seg("focus",["mix","not","even"],v=>({mix:"Weak spots first",not:"Only not grasped",even:"Everything"})[v])}
+    <button class="btn accent" data-act="qzstart" ${cnt(Z.s)?"":"disabled"}>Start the quiz</button>
+    ${!U.length?`<p class="xs muted">Do a lesson or two first. Questions come from lessons you've done.</p>`:!cnt(Z.s)?`<p class="xs muted">No questions yet for this choice.</p>`:""}</section>
+   ${noBank.length?`<section class="card"><b>${noBank.map(s=>SUBJ[s]).join(", ")}: no questions yet</b><p class="xs muted">These chapters don't have quiz questions in DeepKids yet.</p>${SAMPLE?`<button class="btn soft sm" data-act="qgen" ${ui.qgen?"disabled":""}>${ui.qgen?"Writing questions…":"Write questions with Claude"}</button>`:`<p class="xs muted">With DeepKids Plus, Claude writes questions for them.</p>`}</section>`:""}
+   <section class="card"><div class="sech"><b style="font:600 17px var(--display)">How it's sticking</b><button class="link" data-act="rfset">Lists and refresher settings</button></div><div class="row">${["not","grasped","mastered"].map(g=>`<span class="pill mg-${g}">${MGN[g]} · ${L[g].length}</span>`).join("")}</div></section>
+   ${(S.qzr||[]).length?`<section class="sec"><div class="sech"><h3 style="font-size:18px">Past quizzes</h3></div>${(S.qzr||[]).slice().reverse().slice(0,12).map(r=>`<button class="menurow" data-act="qzpast" data-id="${r.id}"><span style="font-size:26px">🎯</span><span><b>${r.score} of ${r.items.length} right</b><br><span class="xs muted">${esc(fmt(r.date))} · ${esc(r.s==="all"?"All subjects":SUBJ[r.s]||"")}</span></span>${icon("next")}</button>`).join("")}</section>`:""}`}
+function quizRunView(){const R=ui.qrun,q=R.qs[R.i],left=R.end?Math.max(0,Math.round((R.end-Date.now())/1000)):null,over=R.i>=R.qs.length||(left===0);
+  if(over&&!R.res.length){if(!R.saved){R.saved=true}return `<p class="note">${left===0?"Time's up before any question was answered.":"Stopped before any question was answered."} Nothing was saved.</p><div class="row"><button class="btn accent" data-act="qzagain">Try again</button><button class="btn line" data-act="qzend">Done</button></div>`}
+  if(over){if(!R.saved){R.saved=true;const items=R.res.map(x=>({k:x.q.k,q:x.q.q,a:x.q.a,r:x.r,c:x.c}));S.qzr=[...(S.qzr||[]),{id:Math.random().toString(36).slice(2,9),date:today,s:R.s,by:R.by,items,score:items.filter(x=>x.r).length}];save()}
+    const wrong=R.res.filter(x=>!x.r);return `<section class="card" style="text-align:center"><h2 style="font-size:28px">${R.res.filter(x=>x.r).length} of ${R.res.length} right</h2><p class="sm muted">${left===0&&R.i<R.qs.length?"Time's up. ":""}Saved for the transcript.</p></section>
+     ${wrong.length?`<section class="card"><b>Not yet (${wrong.length})</b><p class="xs muted">These chapters move to “Not grasped yet” and come back in the refresher.</p><ol class="sm">${wrong.map(x=>`<li><b>${esc(x.q.q)}</b><br>${esc(x.q.a)} <span class="xs muted">· ${esc(chT(unitByK(x.q.k)))}</span></li>`).join("")}</ol></section>`:`<p class="note">All right. Lovely work!</p>`}
+     <div class="row"><button class="btn accent" data-act="qzagain">Another quiz</button><button class="btn line" data-act="qzend">Done</button></div>`}
+  const st=R.cur?.id===q.id?R.cur:null,u=unitByK(q.k);
+  return `<div class="row" style="justify-content:space-between"><span class="eyebrow">Question ${R.i+1} of ${R.qs.length}${left!=null?` · <span id="qzleft">${Math.floor(left/60)}:${String(left%60).padStart(2,"0")}</span> left`:""}</span><button class="link xs" data-act="qzstop">Stop</button></div>
+   <span class="xs muted">${esc(chT(u))} · ${esc(SUBJ[u?.subj]||"")}</span>${qCard(q,st)}${st?`<button class="btn accent wide" data-act="qznext">${R.i+1<R.qs.length?"Next question":"See the score"}</button>`:""}`}
+function quizPastView(){const r=(S.qzr||[]).find(x=>x.id===ui.qzv);if(!r){ui.qzv=null;return quizzView()}
+  return `<button class="link" data-act="qzback">← Quick quiz</button><h3>${r.score} of ${r.items.length} right · ${esc(fmt(r.date))}</h3><ol class="sm">${r.items.map(x=>`<li><b>${esc(x.q)}</b> ${x.r?"✓":"✗"}<br>${esc(x.a)} <span class="xs muted">· ${esc(chT(unitByK(x.k)))}</span></li>`).join("")}</ol>`}
+/* lists and refresher settings */
+function rfsetView(){document.getElementById("sheetTitle").textContent="Refresher";const R=RFS(),L=masteryLists(),M=lastAnswers(),EV=[1,2,3,5,7,10,14,30];
+  const card=g=>`<section class="card mgc-${g}"><div class="sech"><b style="font:600 17px var(--display)">${MGN[g]}</b><span class="pill">${L[g].length}</span></div>
+    <p class="xs muted">${g==="not"?"A question from it was last answered wrong, whatever else is finished.":g==="grasped"?"Nothing answered wrong, but not everything in it is finished yet.":"Chapter done, all its worksheets, quizzes and projects finished, and nothing answered wrong."}</p>
+    ${L[g].length?`<div class="col" style="gap:4px">${L[g].slice(0,12).map(u=>`<button class="plain sm" data-act="chapter" data-k="${u.k}" style="text-align:left">• ${esc(chT(u))} <span class="xs muted">${esc(SUBJ[u.subj])}${g==="not"?` · ${Object.values(M).filter(x=>x.k===u.k&&x.r===0).length} not yet`:""}</span></button>`).join("")}${L[g].length>12?`<span class="xs muted">+${L[g].length-12} more</span>`:""}</div>`:""}
+    <div class="row" style="align-items:center"><span class="sm">Refresh every</span><select class="inp" style="width:auto;height:40px" data-rfe="${g}">${EV.map(v=>`<option value="${v}" ${R[g].every===v?"selected":""}>${v===1?"day":v+" days"}</option>`).join("")}</select></div>
+    <span class="eyebrow">Mix of refresher bits</span>${Object.keys(RTN).map(t=>`<div class="row" style="align-items:center;justify-content:space-between;flex-wrap:nowrap"><span class="sm">${RTN[t]}</span><div class="stepper"><button data-act="rfmix" data-g="${g}" data-t="${t}" data-d="-10" ${R[g].mix[t]<=0?"disabled":""} aria-label="Less ${RTN[t]}">−</button><span class="sm" style="min-width:48px;text-align:center">${R[g].mix[t]}%</span><button data-act="rfmix" data-g="${g}" data-t="${t}" data-d="10" ${R[g].mix[t]>=100?"disabled":""} aria-label="More ${RTN[t]}">+</button></div></div>`).join("")}</section>`;
+  return `<p class="sm muted">Every day, a short refresher from past lessons. Each list has its own rhythm and mix. The shares are relative: 50 and 50 means half and half.</p>
+   <section class="card"><div class="row" style="align-items:center"><span class="sm">Daily refresher</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[10,15,20,30].map(v=>`<option value="${v}" ${R.mins===v?"selected":""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1,2,3,4,5,6,0].map(d=>`<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div></section>
+   ${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`}
+function quizTranscript(){const R=S.qzr||[],L=masteryLists(),M=Object.values(lastAnswers());if(!R.length&&!M.length)return "";const tot=R.reduce((a,r)=>a+r.items.length,0),ok=R.reduce((a,r)=>a+r.score,0);
+  return `<h2>Quizzes and refreshers</h2><p class="sm">Quick quizzes taken: ${R.length} · Questions: ${tot} · Right: ${ok}${tot?` (${Math.round(ok/tot*100)}%)`:""} · Different questions answered in all quizzes and refreshers: ${M.length}, latest answer right for ${M.filter(x=>x.r).length}</p>
+   <table><tr><th>How it's sticking</th><th>Chapters</th></tr>${["mastered","grasped","not"].map(g=>`<tr><td>${MGN[g]}</td><td>${L[g].map(u=>esc(chT(u))+" ("+esc(SUBJ[u.subj])+")").join(", ")||"—"}</td></tr>`).join("")}</table>
+   ${R.length?`<h3>Quick quizzes</h3><table><tr><th>Date</th><th>Subjects</th><th>Score</th></tr>${R.map(r=>`<tr><td>${esc(fmt(r.date))}</td><td>${esc(r.s==="all"?"All subjects":SUBJ[r.s]||"")}</td><td>${r.score} / ${r.items.length}</td></tr>`).join("")}</table>
+   <h3>Questions and answers</h3><table><tr><th>Date</th><th>Chapter</th><th>Question</th><th>Answer</th><th>Result</th></tr>${R.flatMap(r=>r.items.map(x=>`<tr><td>${esc(fmt(r.date))}</td><td>${esc(chT(unitByK(x.k)))}</td><td>${esc(x.q)}</td><td>${esc(x.a)}</td><td>${x.r?"Right":"Not yet"}</td></tr>`)).join("")}</table>`:""}`}
+async function qGen(){const U=learnedUnits().filter(u=>!qBank(u).length).slice(0,6);if(!U.length||!SAMPLE)return;ui.qgen=true;renderSheet();
+  const prompt=`You write quiz questions for a home-schooled Indian child in Class ${S.levels?.math||3}. For each chapter below, write 5 short multiple-choice questions that check what the chapter teaches. Each has 4 options and exactly one right answer. Simple words.\n${U.map(u=>`k: ${u.k} | ${SUBJ[u.subj]} | ${u.book} | ${chT(u)}`).join("\n")}\nReply with only JSON: {"chapters":[{"k":"...","questions":[{"q":"...","opts":["a","b","c","d"],"ans":0}]}]}`;
+  try{const r=await SAMPLE.json(prompt,{modelTier:"default"}),ok=new Set(U.map(u=>u.k));S.qgen=S.qgen||{};(r?.chapters||[]).forEach(c=>{if(!ok.has(c.k))return;const qs=(c.questions||[]).filter(q=>q&&typeof q.q==="string"&&Array.isArray(q.opts)&&q.opts.length===4&&Number.isInteger(q.ans)&&q.ans>=0&&q.ans<4).map(q=>({q:q.q,opts:q.opts.map(String),ans:q.ans,a:String(q.opts[q.ans])}));if(qs.length)S.qgen[c.k]=qs});toast("Questions ready")}catch(e){toast("Couldn't write questions just now. Try again later.")}
+  ui.qgen=false;commit();renderSheet()}
+/* Day times: a usual routine, changes for a weekday, and changes for one date */
+const DTF=[["prepAt","Morning prep","time"],["start","Lessons start","time"],["brk","Break between","sel",[0,10,15,20,30]],["lunch","Lunch at","time"],["lunchMin","Lunch length","sel",[20,30,45,60,90]],["eveAt","Evening prep","time"]];
+function dayTimesCard(){const sc=ui.dts||"all",isD=sc.startsWith("d:"),dt=isD?sc.slice(2):"",wd=sc[0]==="w"?+sc.slice(1):null,base=D(),ov=sc==="all"?{}:wd!=null?((S.dayW||{})[wd]||{}):((S.dayOver||{})[dt]||{}),cur=sc==="all"?base:wd!=null?{...base,...ov}:Dd(dt);
+  const field=([f,l,ty,opts])=>{const changed=sc!=="all"&&ov[f]!=null;return `<div class="field"><label>${l}${changed?" ✱":""}</label>${ty==="time"?`<input class="inp" type="time" data-dt="${f}" value="${cur[f]}">`:`<select class="inp" data-dt="${f}">${opts.map(x=>`<option value="${x}" ${+cur[f]===x?"selected":""}>${x} min</option>`).join("")}</select>`}</div>`};
+  const n=Object.keys(ov).length;
+  return `<section class="sec"><div class="sech"><h3>Day times</h3><span class="xs muted">Your usual day, and changes for some days</span></div>
+   <div class="row chips"><button class="chip" aria-pressed="${sc==="all"}" data-act="dts" data-s="all">Usual</button>${[1,2,3,4,5,6,0].map(d=>`<button class="chip" aria-pressed="${wd===d}" data-act="dts" data-s="w${d}">${DAYN[d]}${Object.keys((S.dayW||{})[d]||{}).length?" ✱":""}</button>`).join("")}<label class="chip" aria-pressed="${isD}" style="cursor:pointer">📅 ${isD?esc(fmt(dt)):"A date"}<input type="date" id="dtDate" value="${dt||today}" style="width:1px;height:1px;opacity:0;position:absolute"></label></div>
+   <div class="card"><p class="xs muted">${sc==="all"?"Your usual times, every day.":wd!=null?`Every ${["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"][wd]}. Change only what's different; the rest stays as usual.`:`Only on ${esc(fmt(dt))}. This beats the usual and the weekday times.`}</p>
+    <div class="fgrid">${DTF.map(field).join("")}</div>${n?`<button class="link xs" data-act="dtreset" style="justify-self:start">Back to usual times${wd!=null?" for "+DAYN[wd]:isD?" for this date":""} (${n} changed)</button>`:""}</div>
+   ${Object.keys(S.dayOver||{}).filter(d=>d>=today&&Object.keys(S.dayOver[d]).length).length?`<p class="xs muted">Dates with their own times: ${Object.keys(S.dayOver).filter(d=>d>=today&&Object.keys(S.dayOver[d]).length).sort().map(d=>`<button class="link xs" data-act="dts" data-s="d:${d}">${esc(fmt(d))}</button>`).join(", ")}</p>`:""}</section>`}
+function rfCard(){const L=masteryLists(),it=dayPlan(today).find(i=>i.id==="refresh");return `<section class="sec"><div class="sech"><h3>Quizzes and refreshers</h3></div><div class="card"><div class="row">${["not","grasped","mastered"].map(g=>`<span class="pill mg-${g}">${MGN[g]} · ${L[g].length}</span>`).join("")}</div>
+  <div class="row"><button class="btn accent sm" data-act="quizgo">🎯 Quick quiz</button>${it?`<button class="btn soft sm" data-act="refresh" data-date="${today}">Today's refresher</button>`:""}<button class="link" data-act="rfset">Lists and settings</button></div></div></section>`}
+/* add by hand: what kind, whose, when, and how it repeats */
+const QREP={once:["Once",null],daily:["Every day",[0,1,2,3,4,5,6]],wk:["Weekdays",[1,2,3,4,5]],we:["Weekends",[0,6]],pick:["Pick days",null]};
+const QKIND=[["class","Class or tuition"],["rest","Rest or meal"],["outing","Outing"],["other","Appointment"],["todo","To-do"]];
 /* Queued is a flag on top of an item's own state, so an item can be Pending + Queued, Not started + Queued, Ongoing + Queued */
 const isQ=(u,id)=>{const w=WK()[u.k+"|"+id];return !!(w&&(w.q||w.st==="planned"))};
 const stPills=x=>`<span class="pill st-${x.st==="going"?"going":x.pend?"new":"none"}" style="font-size:11px">${x.st==="going"?"Ongoing":x.pend?"Pending":"Not started"}</span>${x.q?` <span class="pill st-queued" style="font-size:11px">Queued</span>`:""}`;
@@ -1439,7 +1574,7 @@ function transcriptDoc(){const D=schoolData(),I=S.school||{},kid=S.child||"Stude
   <h2>Chapters studied</h2>${D.subs.filter(x=>x.L.length).map(x=>`<h3>${esc(SUBJ[x.s])}</h3><table><tr><th>Chapter</th><th>Board · level</th><th>Dates</th><th>Completed</th><th>Accuracy</th><th>Score</th><th>Grade</th></tr>${x.L.map(c=>`<tr><td>${esc(chT(c.u))}</td><td>${esc(BOARDN[c.u.board]||c.u.book)} · ${esc(lvN(c.u.board,c.u.level))}</td><td>${c.from?esc(fmt(c.from))+(c.to&&c.to!==c.from?" – "+esc(fmt(c.to)):""):""}</td><td>${Math.round(c.cov*100)}%</td><td>${c.acc==null?"—":Math.round(c.acc*100)+"% ("+c.r+"/"+c.n+")"}</td><td>${c.score??"—"}</td><td>${c.grade||"—"}</td></tr>`).join("")}</table>`).join("")||`<p>No chapters recorded yet.</p>`}
   <h2>Attendance</h2><table><tr><th>Month</th><th>Study days</th><th>Study time</th></tr>${Object.keys(D.months).sort().map(m=>`<tr><td>${esc(parse(m+"-01").toLocaleDateString(undefined,{month:"long",year:"numeric"}))}</td><td>${D.months[m].d}</td><td>${hmin(D.months[m].m)}</td></tr>`).join("")}</table>
   ${I.note?`<h2>Note from the parent</h2><p>${esc(I.note).replace(/\n/g,"<br>")}</p>`:""}
-  ${testTranscript()}<h2>How scores are worked out</h2><p class="sm">${SCORE_NOTE}</p><p class="sm">Study time is measured while lessons are open in the app; days without timing use the planned lesson length and are included in totals.</p>
+  ${quizTranscript()}${testTranscript()}<h2>How scores are worked out</h2><p class="sm">${SCORE_NOTE}</p><p class="sm">Study time is measured while lessons are open in the app; days without timing use the planned lesson length and are included in totals.</p>
   <h2>Declaration</h2><p class="sm">I confirm that this record reflects my child's home learning.</p><div class="sig"><div>Parent / guardian signature</div><div>Date</div></div></body></html>`}
 async function saveDoc(html,name){try{const dl=await window.claude?.use?.("downloads");if(dl){await dl.save({filename:name,data:html});toast("Saved");return}}catch(e){if(e?.code==="declined")return}
   try{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([html],{type:"text/html"}));a.download=name;document.body.appendChild(a);a.click();a.remove();toast("Saved")}catch(e){toast("Couldn't save here. Try Print instead.")}}
@@ -1572,14 +1707,11 @@ function historyView(){document.getElementById("sheetTitle").textContent="Everyt
   const by={};L.forEach(l=>(by[l.date]=by[l.date]||[]).push(l));const dates=Object.keys(by).sort().reverse(),chs=new Set(L.map(l=>l.key));
   return `<p class="sm muted">${L.length} lesson${L.length===1?"":"s"} across ${chs.size} chapter${chs.size===1?"":"s"} and ${dates.length} day${dates.length===1?"":"s"}. Tap any to open the chapter.</p>`+dates.map(d=>`<section class="card" style="gap:0"><span class="eyebrow">${d===today?"Today · ":d===addDays(today,-1)?"Yesterday · ":""}${esc(fmt(d))}</span>${by[d].slice().sort((a,b)=>(a.at??9999)-(b.at??9999)).map(l=>{const u=unitByK(l.key);return `<button class="plain hrow" ${u?`data-act="chapter" data-k="${esc(l.key)}"`:""}><span class="t num">${l.at!=null?clock(l.at):"–"}</span><span style="min-width:0"><b>${esc(u?chT(u):l.title)}</b><br><span class="xs muted">${esc(SUBJ[l.subj]||"")}${l.n?" · Part "+l.n+(u?" of "+sessionsFor(u):""):""}${u?" · "+esc(unitLabel(u).split(" · ")[0]):""}</span></span>${u?icon("next"):""}</button>`}).join("")}</section>`).join("")}
 
-function refreshView(){const it=dayPlan(ui.sheet.date||today).find(i=>i.id==="refresh");if(!it)return `<p class="note">No refresher today.</p>`;const r=it.rf,KL2={game:"Game",exp:"Experiment",act:"Activity",talk:"Talk"};document.getElementById("sheetTitle").textContent="Refresher · "+r.u.title;
-  return `<section class="stage" style="--c:var(--sun)"><div class="kind"><span>${KL2[r.kind]||"Refresher"} · about 15 minutes</span></div><h2>${esc(r.title)}</h2>
-    <div class="body">${fmtPts(r.body||"")}${r.need?.length?`<p class="sm"><b>You need:</b> ${r.need.map(esc).join(", ")}</p>`:""}${r.steps?.length?pkList(r.steps,"ol"):""}${r.predict?`<div class="ask"><span class="eyebrow">Guess first</span>${esc(r.predict)}</div>`:""}${r.why?`<details><summary class="sm">Why it happens</summary><p class="sm">${esc(r.why)}</p></details>`:""}${r.safety?`<p class="sm" style="color:var(--bad)"><b>Safety:</b> ${esc(r.safety)}</p>`:""}</div></section>
-   ${r.quiz?.length?`<section class="card"><span class="eyebrow">Then 3 quick questions</span><p class="xs muted">Ask aloud. Tap to see a good answer.</p><ol class="sm">${r.quiz.map(q=>`<li><b>${esc(q.q)}</b><details><summary class="xs muted">Answer</summary><p class="sm">${esc(q.a)}</p></details></li>`).join("")}</ol></section>`:""}
-   <p class="xs muted">A quick return to ${esc(r.u.title)} (${esc(unitLabel(r.u))}) so it stays fresh.</p>
-   <div class="row"><button class="btn green wide" data-act="tlcheck" data-id="refresh" data-date="${ui.sheet.date||today}">${icon("check")}${it.done?"Done ✓":"We did it"}</button></div>
-   ${chapterHub(r.u)}`}
-
+function refreshView(){const date=ui.sheet.date||today,it=dayPlan(date).find(i=>i.id==="refresh");document.getElementById("sheetTitle").textContent="Refresher";
+  if(!it)return `<p class="note">No refresher today. It starts the day after your first lesson, and follows the refresher settings.</p><button class="link" data-act="rfset">Refresher settings and lists →</button>`;
+  const r=it.rf;if(date===today&&!S.rfp?.[date]){S.rfp={...(S.rfp||{}),[date]:r};save()}const ra=S.rfa?.[date]||{};
+  return `<p class="sm muted">About ${r.mins} minutes, from: ${r.topics.map(t=>`<b>${esc(unitByK(t.k)?.title||"")}</b> (${MGN[t.g]})`).join(", ")}.</p>`+r.slots.map((s,i)=>{const u=unitByK(s.k);return `<section class="card"><span class="eyebrow">${i+1} · ${RTN[s.ty]} · ${esc(u?chT(u):"")}</span>${s.ty==="qz"?qCard(s.q,ra[s.q.id]):`<b style="font:600 17px var(--display)">${esc(s.title)}</b>${s.body?fmtPts(s.body):""}${s.words?.length?`<div class="kv">${s.words.map(([w,m])=>`<span>${esc(w)}</span><b style="font-weight:400">${esc(m)}</b>`).join("")}</div>`:""}${s.need?.length?`<p class="sm"><b>You need:</b> ${s.need.map(esc).join(", ")}</p>`:""}${s.steps?.length?pkList(s.steps,"ol"):""}${s.ask?`<div class="ask">${esc(s.ask)}</div>`:""}`}</section>`}).join("")+
+   `<div class="row"><button class="btn green wide" data-act="tlcheck" data-id="refresh" data-date="${date}">${icon("check")}${it.done?"Done ✓":"We did it"}</button></div><button class="link" data-act="rfset">Refresher settings and lists →</button>`}
 function plusFor(u){const ids=new Set([...(u.dk||[]),...(DATA.rconcepts||[]).filter(c=>c.chapters.includes(u.k)).flatMap(c=>c.plus||[])]);if(u.board==="dk")ids.delete(u.n);return [...ids].map(id=>DATA.topics.find(t=>t.id===id)).filter(Boolean).slice(0,3)}
 const hubSec=(id,title,count,body,open)=>body?`<details class="card hub" ${open?"open":""}><summary><b>${title}</b>${count!=null?`<span class="pill">${count}</span>`:""}</summary><div class="hubb">${body}</div></details>`:"";
 function chapterHub(u){const P=u.c?.p,x=u.c?.x,c=u.c||{},plus=plusFor(u),res=resSort(resourcesFor(u)),shelf=shelfFor(u);let h=`<div class="sech" style="margin-top:6px"><h3 style="font-size:19px">Everything for this chapter</h3></div>`;
@@ -1992,7 +2124,15 @@ function nightView(){const tm=tomorrow(),its=nightItems(),dn=its.filter(p=>S.pre
      <label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="nAlarm" ${al.on?"checked":""} data-alarm="on"><span><b style="font:600 16px var(--display)">Wake-up alarm</b><br><span class="xs muted">Rings only while DeepKids is open on this phone. For a sure wake-up, also set your phone's alarm for ${clock(hm(al.time))}.</span></span></label></section>
    <section class="card"><h3 style="font-size:19px">Any other plans tomorrow?</h3>${quickAdd(tm)}</section>
    <button class="btn green" data-act="nightdone">${icon("check")}${(S.night||{})[today]?"Tomorrow is ready":"All set for tomorrow"}</button>`}
-function quickAdd(date){const w=ui.qwho||"you";return `<div class="col" style="gap:10px"><input class="inp" id="qa-t" maxlength="80" placeholder="Doctor visit, grocery run, cousin's birthday"><div class="row"><div class="whos">${[["you","Mine"],["kid",S.child?esc(S.child)+"'s":"Child's"],["both","Together"]].map(([k,n])=>`<button type="button" aria-pressed="${w===k}" data-act="qwho" data-w="${k}">${n}</button>`).join("")}</div><input class="inp" id="qa-s" type="time" style="width:auto" aria-label="Time (optional)"><input class="inp" id="qa-d" type="date" value="${date}" style="width:auto" aria-label="Date"></div><button class="btn sm" data-act="qaddq" style="justify-self:start">Add</button><p class="xs muted">Leave the time empty for a to-do any time that day.</p></div>`}
+function quickAdd(date){const Q=ui.qdraft||{},w=ui.qwho||"you",r=ui.qrep||"once",kd=ui.qkind||"other",days=ui.qdays||[],todo=kd==="todo";
+  return `<div class="col" style="gap:10px"><input class="inp" id="qa-t" maxlength="80" value="${esc(Q.t||"")}" placeholder="${kd==="class"?"Science tuition, swimming, tabla":kd==="rest"?"Nap, lunch, quiet time":kd==="outing"?"Zoo trip, park, grandma's house":todo?"Buy chart paper, call the coach":"Dentist, cousin's birthday"}">
+   <div class="row chips">${QKIND.map(([k,n])=>`<button type="button" class="chip" aria-pressed="${kd===k}" data-act="qkind" data-k="${k}">${n}</button>`).join("")}</div>
+   <div class="whos">${[["you","Mine"],["kid",S.child?esc(S.child)+"'s":"Child's"],["both","Together"]].map(([k,n])=>`<button type="button" aria-pressed="${w===k}" data-act="qwho" data-w="${k}">${n}</button>`).join("")}</div>
+   ${todo?"":`<div class="row" style="align-items:center"><label class="sm">From <input class="inp" id="qa-s" type="time" value="${Q.s||""}" style="width:auto"></label><label class="sm">to <input class="inp" id="qa-e" type="time" value="${Q.e||""}" style="width:auto"></label></div>`}
+   <div class="row chips">${Object.entries(QREP).filter(([k])=>!todo||k==="once").map(([k,[n]])=>`<button type="button" class="chip" aria-pressed="${r===k||(todo&&k==="once")}" data-act="qrep" data-r="${k}">${n}</button>`).join("")}</div>
+   ${!todo&&r==="pick"?`<div class="dpick">${[1,2,3,4,5,6,0].map(d=>`<button type="button" aria-pressed="${days.includes(d)}" data-act="qday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>`:""}
+   <label class="sm">${!todo&&r!=="once"?"Starting":"On"} <input class="inp" id="qa-d" type="date" value="${Q.d||date}" style="width:auto"></label>
+   <button class="btn sm" data-act="qaddq" style="justify-self:start">Add</button><p class="xs muted">${todo?"A to-do shows on that day's list and in Plan → To do.":r==="once"?"Leave the time empty for a to-do any time that day.":"Repeats every week on those days. Change or remove it any time under “What you've told us”."}</p></div>`}
 
 /* ---------- parent profile ---------- */
 function parentView(){const p=S.parent||{},al=S.alarm||{on:false,time:"06:30"},d=D();document.getElementById("sheetTitle").textContent="About you";
@@ -2050,7 +2190,7 @@ function dumpCard(){const D_=ui.dump||{},n=(S.events||[]).length+(S.todos||[]).f
 function parsedLine(it){if(it.type==="have")return "Library · "+(it.category||"other");if(it.type==="update"){const e=(S.events||[]).find(z=>z.id===it.id);return "Change"+(e?` “${e.title}”`:"")+": "+[it.days?.length?dayList(it.days):"",it.start?clock(hm(it.start))+(it.end?"–"+clock(hm(it.end)):""):""].filter(Boolean).join(" · ")}
   const when=it.days&&it.days.length?dayList(it.days):it.date?fmt(it.date):"Today";return [it.type==="tuition"?"class":it.type,when,it.start?clock(hm(it.start))+(it.end?"–"+clock(hm(it.end)):""):it.type==="todo"||it.type==="note"?"":"time not set",it.note].filter(Boolean).join(" · ")}
 function viewPlanner(){const k=seg("week"),v=ui.pv||"week";initDrag();let h=pageHead("Plan")+segBar("week")+`</section>`;
-  if(k==="tell"){const Q=askList();h+=`<section class="sec">${dumpCard()}</section>`+(Q.length?plPart("asks"):"")+(ui.sheet?.mode==="told"?"":`<section class="sec">${toldView()}</section>`)+`<div id="paceSec">${subjCard()}${plPart("pace")}</div>`}
+  if(k==="tell"){const Q=askList();h+=`<section class="sec">${dumpCard()}</section>`+(Q.length?plPart("asks"):"")+(ui.sheet?.mode==="told"?"":`<section class="sec">${toldView()}</section>`)+`<div id="paceSec">${dayTimesCard()}${subjCard()}${plPart("pace")}${rfCard()}</div>`}
   else if(k==="cal")h+=`<section class="sec"><div class="seg">${Object.entries(PV).map(([kk,nm])=>`<button aria-pressed="${v===kk}" data-act="pv" data-v="${kk}">${nm}</button>`).join("")}</div>${{year:yearOrbit,month:monthView,week:weekView,day:dayView}[v]()}</section>`;
   else if(k==="todo")h+=todoTab();
   else if(k==="queue")h+=queuesView()+((WT[ui.tq]?ui.tq:"les")==="les"?`<section class="sec"><button class="link" data-act="pacego" style="justify-self:start">Pace: hours, days and class for each subject → Tell DeepKids</button></section>`:"");
@@ -2251,7 +2391,7 @@ function viewToday(){const items=dayPlan(today),real=items.filter(i=>i.kind!=="b
   if(lessonsDone||!real.length)h+=`<section class="donecard">${blob("var(--sun)",4,"happy","mascot bob")}<h2>${lessons.length?"Lessons done! Keep going?":"Want to start something?"}</h2>${offerList()}</section>`;
   if(left.length)h+=`<div class="sech" style="margin-top:12px"><h3>Later today</h3></div><div class="tt compact">${left.map(i=>tRow(i,today,null)).join("")}</div>`;
   if(doneL.length)h+=`<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone?"Hide":"Show"}</span></button>${ui.showDone?`<div class="tt compact">${doneL.map(i=>tRow(i,today,null)).join("")}</div>`:""}`;
-  {const oc=openCount(),tile=(act,ic,label,sub,extra="")=>`<button class="qtile" data-act="${act}" ${extra}><span class="qi">${icon(ic)}</span><b>${label}</b><span class="xs muted">${sub}</span></button>`;h+=`<div class="qtiles">${tile("gotab","prep","To finish",oc?oc+" open":"All caught up",'data-tab="journey" data-seg="work"')}${tile("gotab","play","Up next","Next chapters",'data-tab="week" data-seg="queue"')}${tile("gotab","journey","History","Time and past work",'data-tab="journey" data-seg="time"')}${tile("uploads","plus","Add photos","Work samples")}</div>`}
+  {const oc=openCount(),tile=(act,ic,label,sub,extra="")=>`<button class="qtile" data-act="${act}" ${extra}><span class="qi">${icon(ic)}</span><b>${label}</b><span class="xs muted">${sub}</span></button>`;h+=`<div class="qtiles">${tile("gotab","prep","Unfinished",oc?oc+" open":"All caught up",'data-tab="week" data-seg="ongoing"')}${tile("gotab","play","Up next","Next chapters",'data-tab="week" data-seg="queue"')}${tile("quizgo","spark","Quick quiz","Ask a few questions")}${tile("uploads","plus","Add photos","Work samples")}</div>`}
 h+=`</section><button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
   return h}
 /* ---------- lesson player ---------- */
@@ -2409,7 +2549,7 @@ function viewJourney0(){const kid=esc(S.child||"Your child"),Qn=quotes().length,
   let h=`<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${kid}'s journey</h1>${kidBlob("","happy",'width="54" height="54"')}</div><div class="stack3">${S.subjects.map(s=>{const x=subjStats(s);return `<button class="scard ${SC(s)}" data-act="jsub" data-s="${s}"><span class="eyebrow" style="color:#2B2340;opacity:.7">${SUBJ[s]}</span><span class="big num">${Math.round(x.pct*100)}%</span><span class="xs" style="font-weight:800">${x.completed} of ${x.us.length} chapters${x.learning?` · ${x.learning} in progress`:""}</span>${sblob(s,"happy")}</button>`}).join("")}</div></section>`;
   const rows=[["high","Highlights",Qn||W?`${Qn} answers in ${kid}'s words · ${W} photos`:"Answers and photos of work",blob("var(--sun)",4,"wow","",'width="40" height="40"')],...(bs.length?[["board","Against the board","What's done and what's due",blob("var(--sky)",13,"calm","",'width="40" height="40"')]]:[]),["beyond","Beyond the board","Plus topics and free exploring",blob("var(--gum)",7,"happy","",'width="40" height="40"')],["diary","Learning diary",S.log.length+" lessons so far",blob("var(--pist)",9,"happy","",'width="40" height="40"')],["numbers","Numbers","Lessons, hours, tasks, games",blob("var(--tang)",11,"happy","",'width="40" height="40"')]];
   h+=`<section class="sec">${rows.map(([k,t,s,b])=>`<button class="menurow" data-act="jrsheet" data-p="${k}">${b}<span><b>${t}</b><br><span class="xs muted">${s}</span></span>${icon("next")}</button>`).join("")}</section>`;
-  h+=doneHistory();
+  h+=rfCard();h+=doneHistory();
   return h}
 /* ---------- onboarding ---------- */
 function startOnboarding(step){ob={step:step??0,d:JSON.parse(JSON.stringify({child:S.child,age:S.age,board:S.board,plus:S.plus,subjects:S.subjects,levels:S.levels,hpd:S.hpd||DEF_HPD,mode:S.mode||(S.plus?"booksplus":"books"),exam:!!S.exam}))};render()}
@@ -2430,7 +2570,7 @@ const sheet=document.getElementById("sheet");
 function openSheet(o){navPush();ui.sheet=o;if(!sheet.open)sheet.showModal();renderSheet(true);updBack()}
 function renderSheet(top){if(!ui.sheet)return;{const ex=document.getElementById("sheetExtra");if(ex&&!ex.querySelector(".readbtn"))ex.innerHTML=`<button class="readbtn" data-act="readnow" aria-label="Read this page aloud">🔊</button>`}const b=document.getElementById("sheetBody"),y=sheet.scrollTop;_sess=null;
   const m=ui.sheet.mode;sheet.className="sheet"+(m==="player"?" colored "+SC(ui.sheet.s):m==="chapter"||m==="ws"?" "+SC(unitBy(ui.sheet.k)?.subj||""):"");
-  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,todo:todoView,folder:folderView,plus:plusView,qzs:qzsView,rem:remView,iopts:ioptsView,evpre:evpreView,evdone:evdoneView,exam:examView,told:toldView,uploads:uploadsView,track:trackView,school:schoolView,hist:historyView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
+  const V={more:moreView,pl:plView,jr:jrView,learn:learnView,player:playerView,chapter:chapterView,ws:wsView,todo:todoView,folder:folderView,plus:plusView,qzs:qzsView,quizz:quizzView,rfset:rfsetView,rem:remView,iopts:ioptsView,evpre:evpreView,evdone:evdoneView,exam:examView,told:toldView,uploads:uploadsView,track:trackView,school:schoolView,hist:historyView,refresh:refreshView,prep:prepView,games:gamesView,settings:settingsView,night:nightView,parent:parentView,swap:swapView,jsub:jsubView};
   const h=(V[m]||settingsView)();
   updBack();
   const kept=top?null:keepInputs(b);b.replaceChildren(el(h));if(kept)restoreInputs(b,kept);sheet.scrollTop=top?0:y;requestAnimationFrame(initPads);if(m==="player")paintTimer()}
@@ -2524,8 +2664,14 @@ function onAct(e){
    case "psave":{const g=id=>document.getElementById(id).value;S.parent={...(S.parent||{}),name:g("pName").trim(),langs:g("pLang").trim(),help:[...(ui.phelp||new Set((S.parent||{}).help||[]))],saved:Date.now()};ui.phelp=null;S.alarm={on:document.getElementById("pAlarm").checked,time:g("pWake")||"06:30"};S.day={...D(),prepAt:g("pPrep")||D().prepAt,start:g("pStart")||D().start,eveAt:g("pEve")||D().eveAt};sfx("win");S.updatedAt=Date.now();sheet.close();render();saveNow().then(ok=>toast(ok?(S.parent.name?"Saved. Hi, "+S.parent.name+"!":"Saved to your account"):store?"Couldn't reach your account. Saved on this phone; it will retry.":"Saved"));break}
    case "quick":{sfx("flip");ui.qaOpen=!ui.qaOpen;render();if(ui.qaOpen)setTimeout(()=>document.getElementById("qa-t")?.focus(),80);break}
    case "qwho":{ui.qwho=b.dataset.w;b.parentElement.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b));sfx("tap");break}
-   case "qaddq":{const root=b.closest("#sheetBody")||document.getElementById("main"),t=root.querySelector("#qa-t").value.trim(),s=root.querySelector("#qa-s").value,d=root.querySelector("#qa-d").value||today,w=ui.qwho||"you";if(!t){sfx("no");toast("Type what the plan is");return}const id=Math.random().toString(36).slice(2,9);
-     if(s)S.events=[...(S.events||[]),{id,title:t,kind:"other",who:w,start:s,end:clock24(hm(s)+60),rep:"once",date:d,days:[],from:today,note:""}];else S.todos=[...(S.todos||[]),{id,title:t,who:w,date:d,note:"",done:false}];sfx("ok");toast("Added for "+fmt(d));commit();clearIn("qa-t");break}
+   case "qaddq":{const root=b.closest(".col")||b.closest("#sheetBody")||document.getElementById("main"),g=s=>root.querySelector(s)?.value||"",t=g("#qa-t").trim(),s=g("#qa-s"),e=g("#qa-e"),d=g("#qa-d")||today,w=ui.qwho||"you",kd=ui.qkind||"other",r=kd==="todo"?"once":(ui.qrep||"once"),days=r==="pick"?(ui.qdays||[]):QREP[r][1]||[];
+     if(!t){sfx("no");toast("Type what the plan is");return}if(r!=="once"&&!s){sfx("no");toast("Add a start time for something that repeats");return}if(r==="pick"&&!days.length){sfx("no");toast("Pick at least one day");return}const id=Math.random().toString(36).slice(2,9);
+     if(s&&kd!=="todo"){const end=e&&hm(e)>hm(s)?e:clock24(hm(s)+60);S.events=[...(S.events||[]),r==="once"?{id,title:t,kind:kd,who:w,start:s,end,rep:"once",date:d,days:[],from:today,note:""}:{id,title:t,kind:kd,who:w,start:s,end,rep:"weekly",days:[...days].sort(),from:d,note:""}];
+       toast(r==="once"?"Added for "+fmt(d):`Added: ${days.length===7?"every day":days.map(x=>DAYN[x]).join(", ")}, ${clock(hm(s))}`)}else{S.todos=[...(S.todos||[]),{id,title:t,who:w,date:d,note:"",done:false}];toast("To-do added for "+fmt(d))}
+     sfx("ok");ui.qdays=[];ui.qdraft=null;commit();["qa-t","qa-s","qa-e"].forEach(clearIn);break}
+   case "qkind":{const _r=b.closest(".col");if(_r)ui.qdraft={t:_r.querySelector("#qa-t")?.value,s:_r.querySelector("#qa-s")?.value,e:_r.querySelector("#qa-e")?.value,d:_r.querySelector("#qa-d")?.value};ui.qkind=b.dataset.k;sfx("tap");render();if(sheet.open)renderSheet();break}
+   case "qrep":{const _r=b.closest(".col");if(_r)ui.qdraft={t:_r.querySelector("#qa-t")?.value,s:_r.querySelector("#qa-s")?.value,e:_r.querySelector("#qa-e")?.value,d:_r.querySelector("#qa-d")?.value};ui.qrep=b.dataset.r;sfx("tap");render();if(sheet.open)renderSheet();break}
+   case "qday":{const _r=b.closest(".col");if(_r)ui.qdraft={t:_r.querySelector("#qa-t")?.value,s:_r.querySelector("#qa-s")?.value,e:_r.querySelector("#qa-e")?.value,d:_r.querySelector("#qa-d")?.value};const d=+b.dataset.d,a=ui.qdays||[];ui.qdays=a.includes(d)?a.filter(x=>x!==d):[...a,d];sfx("tap");render();if(sheet.open)renderSheet();break}
    case "todomove":{const x=(S.todos||[]).find(z=>z.id===b.dataset.t);if(x){x.date=tomorrow();sfx("flip");toast("Moved to tomorrow");commit()}break}
    case "tododel":{S.todos=(S.todos||[]).filter(z=>z.id!==b.dataset.t);sfx("flip");commit();break}
    case "goto":{const t=document.getElementById(b.dataset.to);if(t)t.scrollIntoView({behavior:"smooth",block:"start"});break}
@@ -2660,6 +2806,25 @@ function onAct(e){
    case "pacego":{navPush();ui.seg={...(ui.seg||{}),week:"tell"};sfx("flip");render();setTimeout(()=>document.getElementById("paceSec")?.scrollIntoView({behavior:"smooth",block:"start"}),60);break}
    case "ist":{const key=k+"|"+b.dataset.id,W=WK(),w=W[key]||{},to=b.dataset.to;if(to==="none"){if(w.st!=="planned")delete w.st;W[key]=w}else if(to==="skip")W[key]={...w,st:"skip"};else if(to==="undo"){if(S.tasks[k+"#"+b.dataset.id])delete S.tasks[k+"#"+b.dataset.id].ws;delete w.st;W[key]=w}
      sfx("flip");commit();if(sheet.open)renderSheet();toast(to==="skip"?"Marked not doing":to==="undo"?"Back to not finished":"Done");break}
+   case "quizgo":{sfx("flip");ui.qrun=null;ui.qzv=null;openSheet({mode:"quizz"});break}
+   case "rfset":{sfx("flip");openSheet({mode:"rfset"});break}
+   case "qzset":{const Z=ui.qz=ui.qz||{},v=b.dataset.v;Z[b.dataset.key]=/^\d+$/.test(v)?+v:v;sfx("tap");renderSheet();break}
+   case "qzstart":{const Z=ui.qz,N=Z.by==="n"?Z.n:Z.m*2,P=quizPool(Z.s,Z.focus);if(!P.length)break;const head=Z.focus==="mix"?P.slice(0,Math.ceil(N/2)):[],rest=P.filter(q=>!head.includes(q));for(let i=rest.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[rest[i],rest[j]]=[rest[j],rest[i]]}
+     const qs=[...head,...rest].slice(0,N);for(let i=qs.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[qs[i],qs[j]]=[qs[j],qs[i]]}ui.qrun={s:Z.s,by:Z.by,qs,i:0,res:[],end:Z.by==="m"?Date.now()+Z.m*60000:null};
+     clearInterval(ui.qtick);if(ui.qrun.end)ui.qtick=setInterval(()=>{const R=ui.qrun;if(!R||ui.sheet?.mode!=="quizz"||R.saved){clearInterval(ui.qtick);return}const e=document.getElementById("qzleft"),l=Math.max(0,Math.round((R.end-Date.now())/1000));if(e)e.textContent=Math.floor(l/60)+":"+String(l%60).padStart(2,"0");if(!l)renderSheet()},1000);sfx("ok");renderSheet();break}
+   case "qans":{const q=(window._qmap||{})[b.dataset.id];if(!q)break;const c=b.dataset.c!=null?+b.dataset.c:null,r=c!=null?c===q.ans:b.dataset.r==="1";qRecord(q,r);sfx(r?"ok":"flip");
+     if(ui.sheet?.mode==="quizz"&&ui.qrun){const R=ui.qrun;if(R.cur?.id!==q.id){R.cur={id:q.id,r,c};R.res.push({q,r,c})}}else{const d=ui.sheet?.date||today;S.rfa={...(S.rfa||{}),[d]:{...((S.rfa||{})[d]||{}),[q.id]:{r,c}}}}commit();renderSheet();break}
+   case "qznext":{const R=ui.qrun;if(R){R.i++;R.cur=null}sfx("tap");renderSheet();break}
+   case "qzstop":{const R=ui.qrun;if(R){R.qs=R.qs.slice(0,R.res.length);R.i=R.qs.length}renderSheet();break}
+   case "qzagain":{ui.qrun=null;renderSheet();break}
+   case "qzend":{ui.qrun=null;goBack();break}
+   case "qzpast":{ui.qzv=b.dataset.id;renderSheet();break}
+   case "qzback":{ui.qzv=null;renderSheet();break}
+   case "qgen":{qGen();break}
+   case "rfmix":{const g=b.dataset.g,t=b.dataset.t,R=RFS(),v=Math.max(0,Math.min(100,R[g].mix[t]+ +b.dataset.d));S.rfs={...(S.rfs||{}),[g]:{...((S.rfs||{})[g]||{}),mix:{...R[g].mix,[t]:v}}};delete (S.rfp||{})[today];sfx("tap");commit();renderSheet();break}
+   case "rfday":{const R=RFS(),d=+b.dataset.d,days=R.days.includes(d)?R.days.filter(x=>x!==d):[...R.days,d];S.rfs={...(S.rfs||{}),days};delete (S.rfp||{})[today];sfx("tap");commit();renderSheet();break}
+   case "dts":{ui.dts=b.dataset.s;sfx("tap");render();break}
+   case "dtreset":{const sc=ui.dts||"all";if(sc[0]==="w"){const w={...(S.dayW||{})};delete w[sc.slice(1)];S.dayW=w}else if(sc.startsWith("d:")){const o={...(S.dayOver||{})};delete o[sc.slice(2)];S.dayOver=o}sfx("flip");commit();break}
    case "tqt":{ui.tq=b.dataset.t;ui.qpick=null;sfx("tap");render();break}
    case "qzs":{sfx("flip");openSheet({mode:"qzs",k,n:+b.dataset.n});break}
    case "dkmin":{const i=Math.max(0,DKSTEPS.indexOf(dkMinsOf()));S.dkMins=DKSTEPS[Math.min(DKSTEPS.length-1,Math.max(0,i+ +b.dataset.d))];sfx("tap");commit();break}
@@ -2700,6 +2865,10 @@ document.getElementById("main").addEventListener("click",onAct);
 document.getElementById("sheetBody").addEventListener("click",onAct);
 document.addEventListener("input",e=>{const t=e.target;if(!t.dataset.ans)return;const [k,id,sub]=t.dataset.ans.split("|");if(sub===undefined)setA(k,id,t.value);else if(sub.includes(".")){const v={...(A(k,id)||{})};v[sub]=t.value;setA(k,id,v)}else{const v=[...(A(k,id)||[])];v[+sub]=t.value;setA(k,id,v)}S.updatedAt=Date.now();save()});
 document.addEventListener("change",e=>{const t=e.target;
+  if(t.dataset.dt){const f=t.dataset.dt,v=t.type==="time"?t.value:+t.value,sc=ui.dts||"all";if(!v&&t.type==="time")return;if(sc==="all")S.day={...D(),[f]:v};else if(sc[0]==="w"){const w=sc.slice(1);S.dayW={...(S.dayW||{}),[w]:{...((S.dayW||{})[w]||{}),[f]:v}}}else{const d=sc.slice(2);S.dayOver={...(S.dayOver||{}),[d]:{...((S.dayOver||{})[d]||{}),[f]:v}}}sfx("tap");commit();return}
+  if(t.id==="dtDate"&&t.value){ui.dts="d:"+t.value;sfx("tap");render();return}
+  if(t.dataset.rfe){S.rfs={...(S.rfs||{}),[t.dataset.rfe]:{...((S.rfs||{})[t.dataset.rfe]||{}),every:+t.value}};delete (S.rfp||{})[today];sfx("tap");commit();renderSheet();return}
+  if(t.id==="rfmins"){S.rfs={...(S.rfs||{}),mins:+t.value};delete (S.rfp||{})[today];sfx("tap");commit();renderSheet();return}
   if(t.dataset.dayset){S.day={...D(),[t.dataset.dayset]:t.type==="time"?t.value:+t.value};sfx("tap");commit();return}
   if(t.matches("select[data-hpd]")){const s=t.dataset.hpd,v=+t.value;sfx("tap");if(ob)ob.d.hpd={...(ob.d.hpd||DEF_HPD),[s]:v};else{S.hpd={...(S.hpd||DEF_HPD),[s]:v};commit()}return}
   if(ob&&t.matches("#obPlus")){ob.d.plus=t.checked;sfx("tap");return}if(ob&&t.matches("select[data-s]")){ob.d.levels[t.dataset.s]=+t.value;sfx("tap")}});
