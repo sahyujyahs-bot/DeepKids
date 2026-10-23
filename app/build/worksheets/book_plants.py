@@ -1,0 +1,118 @@
+# DeepKids Mission Book: Plants, Core level (about age 8-9). Book-independent; works with any board.
+# A book is a worksheet with "pages" (stations) instead of "blocks". See app/content/SPEC.md (Mission books).
+BOOKS = {"plants": [{
+ "lvl": "core", "kind": "book", "title": "The Case of the Drooping Tulsi",
+ "blurb": "Solve a real plant mystery: read, experiment, survey your street, crack the puzzles, and save Dadi's plant.",
+ "mins": 240, "hours": "4 hours, over a week",
+ "need": ["a glass and red ink or food colour", "a white flower, a balsam (gulmehendi) stem or a celery stick", "a hand lens if you have one",
+          "6 different leaves", "crayons and a pencil", "scissors and a paper clip", "a small weed or a coriander plant you may pull up", "a stopwatch or phone"],
+ "cover": [{"type": "case", "title": "The case", "art": "tulsi", "story": [
+   "Dadi's tulsi has always been the happiest plant in the house. But this month it is drooping. Its leaves are turning yellow and dropping off, and the soil smells a little like old socks.",
+   "Dadi is worried. She looks after it more than ever: every single morning she pours a full lota of water into its beautiful new painted pot. And last month she moved it from the sunny balcony to the kitchen corner, so she can see it while she cooks.",
+   "Something is wrong, and you are going to find out what."],
+  "task": "Visit all 7 stations. Collect the clues. At the end, write your case report and save the tulsi."}],
+ "guide": [
+  "How to use this book: one station a day, about 30–40 minutes each, about 4 hours in all. Station 2's experiment needs a day of waiting, so set it up in the morning. Let your child read the 'Read and discover' boxes aloud to you, or take turns.",
+  "The case has a real answer: the tulsi is suffering from three things at once. Too much water with no drainage hole (roots are drowning: they need air, and soggy soil starts to rot, hence the smell), too little light in the kitchen corner (leaves can't make enough food, so they yellow), and a new pot (the move from balcony to kitchen changed its light). Don't give it away; the clues lead there.",
+  "If you have a real plant that's struggling, use it! The 14-day tracking table on the last station turns this into a real experiment.",
+  "Going further: visit a plant nursery and ask the mali how often they water different plants and why. Or visit a botanical garden: the Acharya J.C. Bose Indian Botanic Garden in Howrah, Lalbagh in Bengaluru, or any city garden."],
+ "pages": [
+  {"station": "Station 1", "title": "How a plant works", "mins": 35, "blocks": [
+   {"type": "read", "title": "A plant is a food factory", "art": "plant", "caption": "Every part has a job.", "text": [
+     "We get our food from the kitchen. A plant makes its own food, right inside its leaves, and it needs only three things to do it: sunlight, water and air.",
+     "The roots grow down into the soil. They hold the plant firmly so the wind can't knock it over, and they soak up water and tiny bits of minerals from the soil, like drinking through thousands of straws.",
+     "The stem is the plant's lift. It holds the leaves up towards the light, and carries water up from the roots to every leaf, and carries food back down.",
+     "The leaves are the kitchens. A green substance in them, chlorophyll, catches sunlight. Using that energy, the leaf turns water (from the roots) and carbon dioxide (from the air) into sugar, the plant's food. As it does this, it gives out oxygen, the gas we breathe. Scientists call this photosynthesis: 'making with light'.",
+     "The flowers are for making seeds, so that new plants can grow."]},
+   {"type": "label2", "title": "Label the plant", "art": "plant", "labels": ["flower", "leaf", "stem", "root"], "jobs": ["makes seeds", "makes food using sunlight", "carries water up and holds the leaves to the light", "holds the plant and drinks water from the soil"]},
+   {"type": "clue", "n": "1", "text": "Leaves make the plant's food, but only when they get enough sunlight."},
+   {"type": "investigate", "title": "Mini lab: the covered leaf", "q": "Does a leaf need light to stay healthy and green?",
+    "need": ["a potted plant with big leaves (not the tulsi!)", "black paper", "paper clips"],
+    "steps": ["Fold black paper over half of one leaf, front and back. Clip it on gently.", "Leave the plant in its usual sunny place for 4 days. Water it as normal.", "On day 4, take off the paper and compare the covered half with the uncovered half."],
+    "draw": ["day 1", "day 4: covered half", "day 4: uncovered half"],
+    "conclude": ["The covered part looked ", "I think this is because "],
+    "ans": "The covered part turns paler or yellowish: without light it can't make food or keep making chlorophyll. (Scientists test this properly by checking leaves for starch with iodine.)"},
+   {"type": "talk", "title": "Think like a botanist", "qs": ["Plants on a windowsill lean towards the window. Why?", "A cactus has spines instead of proper leaves. Where do you think it makes its food? (Hint: what colour is it?)", "Where does the wood of a huge banyan tree come from? From the soil, or from somewhere else? (Scientists were surprised by the answer!)"]},
+   {"type": "read", "title": "Did you know?", "text": [], "facts": [
+     "The Great Banyan in the botanic garden at Howrah, near Kolkata, is over 250 years old and has more than 3,000 roots hanging down from its branches into the ground. It covers an area as big as about two and a half football fields, and looks like a forest, but it is one tree.",
+     "Some bamboos can grow about 90 cm in a single day. That's taller than a 3-year-old!",
+     "Water rolls straight off a lotus leaf and carries the dust away with it. Scientists copy this trick to make self-cleaning paint and glass.",
+     "Jagadish Chandra Bose, an Indian scientist, built a machine called the crescograph in the early 1900s that could measure a plant growing by tiny fractions of a millimetre."]}]},
+  {"station": "Station 2", "title": "Lab: Does water really travel up?", "mins": 40, "blocks": [
+   {"type": "investigate", "title": "The coloured-water test", "art": "glass", "q": "If a plant drinks through its roots, how does water get up to the leaves and flowers?",
+    "need": ["a glass", "red ink or food colour", "a white flower, a balsam stem or a celery stick", "scissors (a grown-up cuts)"],
+    "steps": ["Fill the glass halfway with water and stir in lots of colour, until it's dark.", "Ask a grown-up to cut the bottom of the stem at a slant, under running water.", "Stand the stem in the coloured water. Note the time.", "Look after 1 hour, 6 hours and the next morning. Draw what you see each time.", "Next day: ask a grown-up to cut across the stem. Look at the cut end with a hand lens."],
+    "draw": ["after 1 hour", "after 6 hours", "next morning"],
+    "table": {"cols": ["Time", "Where is the colour?", "How far up (cm)?"], "rows": [["start", None, "0"], ["1 hour", None, None], ["6 hours", None, None], ["next day", None, None]]},
+    "conclude": ["The colour went ", "This shows that water travels ", "In the cut stem I saw "],
+    "ans": "The colour climbs up the stem and into the petals or leaf veins, showing that water travels up through tiny tubes in the stem. In the cut end you see coloured dots or a ring: those are the tubes (called xylem). A balsam stem is see-through, so you can watch the colour rise."},
+   {"type": "clue", "n": "2", "text": "Water moves up from the roots. But roots also need AIR: in soil that is always soaked, there is no air, and the roots start to rot and smell."}]},
+  {"station": "Station 3", "title": "Field survey: the plants on your street", "mins": 40, "blocks": [
+   {"type": "read", "title": "Five kinds of plants", "text": [
+     "Trees are big and tall with one thick, woody trunk (neem, mango, peepal). Shrubs are woody too, but smaller, with many stems near the ground (hibiscus, rose, tulsi when it's old and woody). Herbs are small, with soft green stems (coriander, mint, young tulsi). Climbers can't stand up alone: they climb up a support using thin curly tendrils or by twining (money plant, bitter gourd). Creepers spread along the ground (pumpkin, watermelon).",
+     "Grasses are a special group of herbs with long thin leaves (doob grass, wheat, rice, and even bamboo, which is a giant grass)."]},
+   {"type": "tally", "title": "Plant count", "inst": "Walk around your street, building or a park with a grown-up for 20 minutes. Make a tally mark for every plant you see.", "rows": ["tree", "shrub", "herb", "climber", "creeper", "grass"]},
+   {"type": "graph", "title": "Make a bar graph", "x": ["tree", "shrub", "herb", "climber", "creeper", "grass"], "y": "how many", "max": 12, "inst": "Colour one square for each plant. If you counted more than 12, let each square stand for 2.", "qs": ["Which kind did you see most? Why do you think so?", "Which kind did you see least? Where might you find more of them?", "If you did this survey in a forest, how would the graph change?"]}]},
+  {"station": "Station 4", "title": "Leaf and root detectives", "mins": 40, "blocks": [
+   {"type": "art", "title": "Two kinds of leaf veins", "art": "leaves", "inst": "Hold a leaf up to the light: you can see its veins, the pipes that carry water. Leaf A has a net of veins (net-veined). Leaf B has veins running side by side (parallel-veined).",
+    "qs": [{"q": "Collect 6 different leaves. Rub over each with a crayon under thin paper on the back of this page. Is each one A (net) or B (parallel)?", "lines": 2, "a": "Answers depend on the leaves. Mango, neem, hibiscus, peepal, tulsi, coriander: net (A). Grass, banana, maize, onion, bamboo, wheat: parallel (B)."}]},
+   {"type": "art", "title": "Two kinds of roots", "art": "roots", "inst": "Root A has one thick main root with thin ones branching off: a tap root. Root B is a bunch of thin roots all the same size: fibrous roots.", "qs": []},
+   {"type": "investigate", "title": "Find the secret rule", "q": "Is there a link between a plant's leaf veins and its kind of root?",
+    "need": ["a weed or grass pulled up from a crack", "a coriander or mustard plant pulled up from a pot (with a grown-up's permission)", "a hand lens"],
+    "steps": ["Pull up a grass plant gently. Shake off the soil. Look at its leaves and its roots.", "Do the same with a coriander or mustard plant.", "Fill in the table. Some rows are done for you; scientists checked them.", "Look for the pattern."],
+    "table": {"cols": ["Plant", "Leaf veins: net or parallel?", "Roots: tap or fibrous?"], "rows": [["grass (yours)", None, None], ["coriander (yours)", None, None], ["wheat", "parallel", "fibrous"], ["bean", "net", "tap"], ["maize", "parallel", "fibrous"], ["mustard", "net", "tap"]]},
+    "conclude": ["The secret rule is: plants with net veins usually have ", "and plants with parallel veins usually have ", "A banana leaf has parallel veins. I predict its roots are "],
+    "ans": "Net-veined leaves usually go with a tap root; parallel-veined leaves usually go with fibrous roots. Banana: fibrous. (Botanists call these two big groups dicots and monocots. There are exceptions, which is what makes it interesting.)"}]},
+  {"station": "Station 5", "title": "Puzzle room", "mins": 30, "blocks": [
+   {"type": "logic", "title": "Who planted what?", "intro": "Four friends each planted one plant on Plant Day: a neem, a rose, mint and a money plant. Use the clues, and what you know about kinds of plants, to find who planted which.",
+    "rows": ["Asha", "Bilal", "Chitra", "Dev"], "cols": ["neem", "rose", "mint", "money plant"],
+    "clues": ["Dev's plant will one day be taller than his house.", "Bilal planted a herb that you can put in chutney.", "Chitra's plant can't stand up by itself. It needs a stick or a wall to climb.", "Asha needs gloves when she prunes her plant."],
+    "ans": {"Asha": "rose", "Bilal": "mint", "Chitra": "money plant", "Dev": "neem"}, "why": "Neem is the only tree; mint is the herb; the money plant is the climber; so Asha has the rose, which has thorns."},
+   {"type": "spot", "title": "Professor Bholu's notebook", "text": [
+     "My notes on plants, by Professor Bholu (very clever).",
+     "1. A plant gets all its food from the soil, the same way we get food from a plate.",
+     "2. Water travels down from the leaves to the roots.",
+     "3. The stem's main job is to make seeds.",
+     "4. Roots only need water. They never need air.",
+     "5. If you keep a plant in a dark cupboard, it grows extra green.",
+     "6. Every plant in the world has flowers."],
+    "ans": ["Plants make their own food in their leaves using sunlight, water and air; soil gives water and minerals.", "Water travels UP from the roots to the leaves.", "Flowers make seeds; the stem holds the plant up and carries water and food.", "Roots need air too; in waterlogged soil they rot.", "In the dark a plant grows pale and yellow, and stretches tall and thin looking for light.", "Not all plants have flowers: ferns and mosses don't (they spread by spores)."]},
+   {"type": "clue", "n": "3", "text": "Look again at mistakes 4 and 5 in Professor Bholu's notebook. Do any of them sound like what is happening to Dadi's tulsi?"}]},
+  {"station": "Station 6", "title": "Seed scientists", "mins": 40, "blocks": [
+   {"type": "pics", "title": "How do seeds travel?", "inst": "A plant can't walk, so its seeds must travel to find space to grow. Look at each seed's shape. Write each letter in the right column.",
+    "items": [{"art": "sal", "t": "sal seed with wings"}, {"art": "aak", "t": "aak (madar) seed with silky hairs"}, {"art": "burr", "t": "a hooked burr"}, {"art": "coconut", "t": "coconut"}, {"art": "balsam", "t": "balsam pod that bursts"}, {"art": "mango", "t": "mango"}],
+    "sortTo": ["wind", "water", "animals", "bursting"],
+    "qs": [{"q": "Why is it bad for a seed to fall right under its parent plant?", "lines": 2}],
+    "ans": "Wind: A (wings spin it away), B (hairs float it). Water: D (coconut floats, even across the sea). Animals: C (hooks stick to fur and clothes), F (animals eat the fruit and drop the seed far away). Bursting: E (balsam pods pop and fling seeds). Under its parent a seedling gets little light, water and space, so it's better to travel."},
+   {"type": "investigate", "title": "Kitchen seed count", "q": "How many seeds does one fruit make, and why so many?",
+    "need": ["a tomato", "a green chilli", "a lady's finger (bhindi)", "a knife (a grown-up cuts)", "a plate"],
+    "steps": ["Guess how many seeds are in each one.", "A grown-up cuts each one open.", "Count the seeds (for the tomato, count half and double it).", "Fill in the table."],
+    "table": {"cols": ["Fruit", "My guess", "Real count", "Where the seeds were"], "rows": [["tomato", None, None, None], ["green chilli", None, None, None], ["lady's finger", None, None, None]]},
+    "conclude": ["The fruit with the most seeds was ", "Plants make so many seeds because "],
+    "ans": "Counts vary (a tomato often has 100–200 seeds). Plants make many seeds because most never grow: they get eaten, land in bad places or dry out. Making lots means a few survive. Yes, tomato, chilli and bhindi are fruits: a fruit is the part that holds the seeds."},
+   {"type": "cutout", "title": "Make a spinning seed", "art": "heli", "inst": "Some seeds spin like helicopters as they fall, so the wind carries them further. Make one and test it.",
+    "steps": ["Cut out the shape along the dashed lines.", "Cut down the middle of the top part to make two wings.", "Fold wing A forward and wing B back.", "Fold the two sides of the bottom part in, and add a paper clip.", "Drop it from as high as you safely can (a grown-up holds you). Time the fall 3 times.", "Fair test: now cut both wings 2 cm shorter and drop it 3 times again from the same place."],
+    "table": {"cols": ["Wings", "Try 1 (s)", "Try 2 (s)", "Try 3 (s)"], "rows": [["long", None, None, None], ["short", None, None, None]]},
+    "after": "Which fell more slowly? Which would the wind carry further? Why?",
+    "ans": "Longer wings spin more and fall more slowly, so the wind has more time to carry them away. That's why winged seeds travel far from their parent tree."}]},
+  {"station": "Station 7", "title": "Solve the case", "mins": 35, "blocks": [
+   {"type": "caseboard", "title": "Case board", "clues": 3, "causes": 3, "track": ["Day 1", "Day 3", "Day 5", "Day 7", "Day 10", "Day 14"],
+    "ans": "1. Too much water and no hole in the pot: the soil stays soaked, the roots get no air and start to rot (that's the smell). 2. Too little light in the kitchen corner: the leaves can't make enough food, so they turn yellow and drop. 3. The move changed its light. Fix: repot it into a pot with a hole and a layer of pebbles, water only when the top of the soil is dry, and put it back in the sunny balcony. New leaves should appear in about two weeks."},
+   {"type": "debate", "title": "The big question", "q": "Our city wants to cut 50 old trees to make a road wider, so traffic moves faster. Should it?",
+    "sides": [{"who": "A shopkeeper says", "says": ["The traffic jams are terrible. People waste hours.", "We can plant new trees somewhere else."]},
+              {"who": "A tree lover says", "says": ["An old tree gives shade, cools the street and cleans the air. A new sapling takes 20 years to catch up.", "Birds, squirrels and insects live in those trees."]}]},
+   {"type": "draw", "frame": "postcard", "title": "A care card for the tulsi", "inst": "Draw the healthy tulsi on the left. On the right, write Dadi a care card: where to keep it, how often to water it, what pot to use, and how to tell if it's thirsty."}]},
+  {"title": "Final challenge", "blocks": [
+   {"type": "quiz", "title": "Final challenge", "qs": [
+     {"q": "Which part of the plant makes its food?", "opts": ["root", "leaf", "flower"], "a": 1},
+     {"q": "What three things does a leaf need to make food?", "a": "sunlight, water and carbon dioxide (air)"},
+     {"q": "What gas do leaves give out that we breathe?", "opts": ["oxygen", "carbon dioxide", "steam"], "a": 0},
+     {"q": "Which way does water travel in a stem?", "opts": ["up", "down", "it doesn't move"], "a": 0},
+     {"q": "A money plant is a…", "opts": ["tree", "climber", "creeper"], "a": 1},
+     {"q": "A plant has parallel veins. What kind of roots do you predict?", "opts": ["tap root", "fibrous roots"], "a": 1},
+     {"q": "Why do roots rot in a pot with no hole?", "a": "the soil stays soaked, so roots get no air"},
+     {"q": "Name one way seeds travel, and a seed that travels that way.", "a": "e.g. wind: aak or sal; water: coconut; animals: burrs or mango; bursting: balsam"}]},
+   {"type": "crossword", "title": "Plant words crossword", "clues": [["chlorophyll", "The green stuff in leaves that catches sunlight"], ["oxygen", "The gas leaves give out that we breathe"], ["tendril", "A thin curly part a climber uses to hold on"], ["fibrous", "Roots that are a bunch of thin ones all the same size"], ["xylem", "The tiny tubes that carry water up a stem"], ["seed", "A baby plant packed with food, inside a fruit"]]}]},
+  {"title": "Certificate", "blocks": [
+   {"type": "cert", "badge": "Green Detective", "text": "for solving The Case of the Drooping Tulsi: reading, testing, surveying, puzzling and saving a plant."}]}
+ ]}]}

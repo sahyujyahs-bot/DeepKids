@@ -4,7 +4,7 @@ const ctx=await b.newContext({viewport:{width:400,height:860}});const p=await ct
 await p.goto('file://'+SP+'/app_prev.html');await p.waitForTimeout(800);await p.fill('#lgPhone','98765 43210');await p.fill('#lgName','S');await p.click('[data-act="login"]');await p.waitForTimeout(500);
 await p.fill('#obName','Liri');await p.click('[data-age="8"]');await p.click('[data-ob="next"]');await p.click('[data-b="ncert"]');for(let i=0;i<4;i++)await p.click('[data-ob="next"]');await p.waitForTimeout(400);
 const all=await p.evaluate(()=>{const out=[];Object.entries(DATA.tws).forEach(([t,L])=>{const c=(DATA.rconcepts||[]).find(x=>x.id===t),k=(c?c.chapters:DATA.wtopics[t].chapters).find(k=>unitByK(k)),u=unitByK(k);
-  L.forEach(w=>{let note=[];try{const html=wsPage(w,u),d=new DOMParser().parseFromString(html,"text/html"),B=d.querySelectorAll('.wb');
+  L.filter(w=>!w.pages).forEach(w=>{let note=[];try{const html=wsPage(w,u),d=new DOMParser().parseFromString(html,"text/html"),B=d.querySelectorAll('.wb');
    w.blocks.forEach((bk,i)=>{if(bk.type==="wordsearch"){const n=B[i].querySelectorAll('.wbank span').length;if(n<bk.words.length)note.push(`ws ${n}/${bk.words.length}`)}if(bk.type==="crossword"){const n=B[i].querySelectorAll('.wclues li').length;if(n<bk.clues.length)note.push(`cw ${n}/${bk.clues.length}`)}});
    out.push([w.id,html,note.join(',')])}catch(e){out.push([w.id,'','ERROR '+e.message])}})});return out});
 const q=await ctx.newPage();const over=[],bad=[];

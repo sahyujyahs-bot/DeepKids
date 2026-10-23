@@ -1,0 +1,3 @@
+# mission books in the worksheet list
+rep('''const WSKIND={play:"Picture puzzle",make:"Make and do",game:"Game sheet",think:"Think deeper"};''','''const WSKIND={book:"Mission book",play:"Picture puzzle",make:"Make and do",game:"Game sheet",think:"Think deeper"};''')
+rep('''${esc(WSKIND[x.w.kind]||"Worksheet")} · ≈ ${x.w.mins||20} min''','''${esc(WSKIND[x.w.kind]||"Worksheet")} · ${x.w.pages?`${x.w.pages.filter(p=>p.station).length} stations · ${esc(x.w.hours||"")}`:`≈ ${x.w.mins||20} min`}''')
