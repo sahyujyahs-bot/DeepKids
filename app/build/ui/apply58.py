@@ -30,6 +30,7 @@ k=bi['kolam'];B=B[:k+1]+ins+B[k+1:]
 s='\n'.join('\n'.join(b) for b in B)
 print("replaced",nrep,"inserted",len(ins))
 # Combined rows (patch only)
+head=head.replace('</style>','.trow .no,.topic .no{flex:none}.chip{max-width:100%}.trow>span{min-width:0;overflow-wrap:anywhere}.eyebrow{overflow-wrap:anywhere}#sheet .row{flex-wrap:wrap}.chero{overflow:hidden;min-width:0;max-width:100%;box-sizing:border-box}.chero>*{min-width:0}.chero h1{overflow-wrap:anywhere}#sheet .row .pill{white-space:normal;height:auto}#sheet .chip,.topic .chip{white-space:normal;height:auto;min-height:32px;text-align:left}.sbody>*,#sheetBody>*{min-width:0;max-width:100%}\n</style>',1)
 open(T,'w').write(head+'<script>'+logic+s+'</script>\n')
 d=open('/home/user/DeepKids/app/build/data.json').read();out=open(T).read().replace('/*DATA*/',d)
 open('/home/user/DeepKids/app/index.html','w').write(out);open('app_prev.html','w').write('<meta charset="utf-8">'+out)
