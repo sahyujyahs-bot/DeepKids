@@ -1,0 +1,2 @@
+# Combined chapters get the Worksheets tab (topic sheets, books, best from elsewhere)
+rep('''if(t==="ws")return printSheets(u)+''','''if(t==="ws")return printSheets(u)+''')

@@ -1,0 +1,645 @@
+{
+ "key": "combined|sci|1|plants",
+ "board": "combined",
+ "subj": "sci",
+ "level": 1,
+ "n": "plants",
+ "title": "Plants are alive, and they reach for the light",
+ "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology (plant parts; plants and light). No textbook needed.",
+ "summary": "Your child meets plants as living things that do things: they drink, they feed themselves, and they move towards light, slowly, without legs or eyes. They find the parts of a plant on real plants, grow a bean through a shoebox maze, and discover that a plant always finds the light.",
+ "builds_on": "This is the first time. In Class 3 your child comes back to plants: kinds of plants, how water travels up, and what plants need. The Plants Mission book goes deeper still.",
+ "goals": [
+  "By the end your child can point to the root, stem, leaf and flower on a real plant and say one job each part does.",
+  "By the end your child can explain that plants are alive: they grow, drink, make their own food and respond to light.",
+  "By the end your child can show that a plant grows towards light, and predict which way a plant on a windowsill will lean.",
+  "By the end your child can say that a plant kept in the dark goes pale and weak.",
+  "By the end your child can care for a plant for two weeks and record what changes."
+ ],
+ "words": [
+  [
+   "root",
+   "the part under the ground that holds the plant and drinks water"
+  ],
+  [
+   "stem",
+   "the part that holds the plant up and carries water"
+  ],
+  [
+   "leaf",
+   "the green part that makes food from sunlight"
+  ],
+  [
+   "flower",
+   "the part that makes seeds"
+  ],
+  [
+   "seed",
+   "a baby plant with its packed lunch, waiting to grow"
+  ],
+  [
+   "sunlight",
+   "light from the Sun, which plants use to make food"
+  ],
+  [
+   "alive",
+   "growing, needing food and water, and responding to the world"
+  ]
+ ],
+ "day_mins": 30,
+ "days": [
+  {
+   "n": 1,
+   "title": "Is it alive?",
+   "goal": "Notice that plants are living things that do things.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Alive or not?",
+     "mins": 6,
+     "do": "Put four things on the table: a stone, a potted plant (or a sprig of tulsi), a toy and a banana. Ask: 'Which of these are alive? How do you know?' Listen to the reasons. Then ask: 'Can the plant move? Can it eat?' Say: 'Let's find out. Plants do more than you think.'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Plant walk",
+     "mins": 16,
+     "do": "Walk around your building or street for 15 minutes. Look for plants in surprising places: in cracks in walls, on roofs, in drains. Ask at each one: 'How did it get here? What is it drinking? Where is its food?' Collect one fallen leaf and one weed with its roots (from a crack, with permission)."
+    },
+    {
+     "kind": "talk",
+     "title": "What do plants do?",
+     "mins": 8,
+     "do": "At home, lay out the weed. Ask: 'If this plant could talk, what would it say about living in a crack?' Write your child's words down. Then read the story, 'The Bean That Found the Window', if you have time today or at bedtime. Tell your child about voice v2: an Indian scientist, J.C. Bose, showed plants react when they are hurt. Ask: 'Do you think the weed felt it when we pulled it up?'",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "a stone, a potted plant, a toy, a banana",
+    "a bag for leaves"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Parts of a plant",
+   "goal": "Find the root, stem, leaf and flower on real plants and say what each does.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Plant body",
+     "mins": 5,
+     "do": "Make your body a plant: feet are roots holding the ground, legs and body are the stem standing up, arms are leaves spread to the sun, and your face is a flower. Say each part as you stretch."
+    },
+    {
+     "kind": "do",
+     "title": "Take a plant apart",
+     "mins": 15,
+     "do": "Use the weed from Day 1 or a coriander plant from the market with roots on. Lay it on white paper. Your child finds and touches each part. Ask: 'What does the root feel like? Why is it so long and thin?' (To reach water and hold on.) 'Why is the leaf flat and wide?' (To catch lots of sunlight.) Sniff the leaves of coriander or mint. Then do Worksheet ws1.",
+     "ref": "ws1"
+    },
+    {
+     "kind": "act",
+     "title": "Plant printing",
+     "mins": 10,
+     "do": "Do Activity a1: paint a leaf and press it onto paper to make prints. Look for the veins in the print. Ask: 'What are these lines for?' (They carry water, like tiny pipes.)",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "a small plant with roots (weed or coriander)",
+    "white paper",
+    "poster paint and a brush",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Plants need light",
+   "goal": "Start two experiments about light and plants.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Window lean",
+     "mins": 5,
+     "do": "Look at a plant that lives near a window. Ask: 'Which way is it leaning? Why do you think?' Then turn the pot halfway round and say: 'Let's see what it does in a few days.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The shoebox maze",
+     "mins": 15,
+     "do": "Do Experiment e1: build a shoebox maze with one hole at the top and plant a sprouted bean at the bottom. This takes 1–2 weeks, so check it every two days.",
+     "ref": "e1"
+    },
+    {
+     "kind": "exp",
+     "title": "Light or dark?",
+     "mins": 10,
+     "do": "Do Experiment e2: sow moong in two cups, one on the windowsill and one in a dark cupboard.",
+     "ref": "e2"
+    }
+   ],
+   "need": [
+    "a shoebox with a lid",
+    "cardboard pieces and tape",
+    "a sprouted bean or rajma (soak overnight)",
+    "a small cup of soil",
+    "moong, two cups with damp cotton"
+   ],
+   "prep": [
+    {
+     "task": "Soak a few rajma or big beans overnight, then keep them in a damp cloth for a day until they sprout",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "How does a plant eat?",
+   "goal": "Understand that leaves make food from sunlight, water and air.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the experiments",
+     "mins": 5,
+     "do": "Look at the moong cups. Measure the tallest sprout in each with a strip of paper and stick the strips side by side in your notebook."
+    },
+    {
+     "kind": "talk",
+     "title": "The leaf kitchen",
+     "mins": 10,
+     "do": "Hold a leaf up to the light. Say: 'A leaf is a tiny kitchen. It takes water from the roots, air from all around, and sunlight, and it cooks them into sugar, the plant's food. And while it cooks, it breathes out the fresh air we breathe in.' Ask: 'So what would happen to a plant with no light?' Let your child guess."
+    },
+    {
+     "kind": "game",
+     "title": "Play Sun, Water, Grow!",
+     "mins": 15,
+     "do": "Play the board game (g1). Each square is something that helps or harms a plant; your child says why before moving.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "a leaf",
+    "the printed board game, a die and coins"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Look after a plant",
+   "goal": "Start caring for a plant and noticing it closely.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Maze check",
+     "mins": 5,
+     "do": "Open the shoebox lid quickly and look at the bean. Ask: 'Which way is it growing? How does it know where the hole is?' Close it again fast."
+    },
+    {
+     "kind": "do",
+     "title": "Project: my plant friend",
+     "mins": 18,
+     "do": "Start the project: your child chooses a pot plant (or plants a tulsi or methi seedling), names it, measures it with a strip of paper, draws it, and sets up a care chart for two weeks."
+    },
+    {
+     "kind": "ws",
+     "title": "Plants and light",
+     "mins": 7,
+     "do": "Do Worksheet ws2 together. Read each question aloud and let your child answer from what they have seen in the experiments so far.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "a pot plant or seedling",
+    "paper strips, crayons",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "What did the plants do?",
+   "goal": "Look at the results, think about big questions and teach it back.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Results",
+     "mins": 8,
+     "do": "Compare the two moong cups (the dark ones are tall, thin and yellow; the light ones shorter and green) and look at the window plant you turned on Day 3 (it has started leaning back towards the light). Open the maze: has the bean found its way? Ask: 'Did the plant see the light? It has no eyes. How did it know?'"
+    },
+    {
+     "kind": "think",
+     "title": "Big questions",
+     "mins": 7,
+     "do": "Talk about the voice v1 and the big question: 'Plants have no eyes, but they find the light. How?' Then ask the challenge question: 'Are plants just still things, like furniture?'",
+     "ref": "v1"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 15,
+     "do": "Your child shows a grown-up or a toy the parts of a plant, the moong cups and the maze, and explains what happened. Ask the check questions. Try Worksheet ws3's puzzles if they want more.",
+     "ref": "ws3"
+    }
+   ],
+   "need": [
+    "the experiments",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "My plant",
+   "day": 2,
+   "sections": [
+    [
+     "A. Match",
+     [
+      {
+       "t": "match",
+       "p": "Match each part to its job.",
+       "pairs": [
+        [
+         "root",
+         "drinks water and holds on"
+        ],
+        [
+         "stem",
+         "holds the plant up"
+        ],
+        [
+         "leaf",
+         "makes food from sunlight"
+        ],
+        [
+         "flower",
+         "makes seeds"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Draw",
+     [
+      {
+       "t": "draw",
+       "p": "Draw your plant from the walk. Label the root, stem and leaf."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Plants and light",
+   "day": 5,
+   "sections": [
+    [
+     "A. Choose",
+     [
+      {
+       "t": "mcq",
+       "p": "A plant is on a windowsill. Which way does it lean?",
+       "opts": [
+        "towards the window",
+        "away from the window",
+        "straight up always"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Moong grown in the dark looks…",
+       "opts": [
+        "green and short",
+        "yellow, tall and thin",
+        "the same as in light"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "What does a leaf need to make food?",
+       "opts": [
+        "sunlight, water and air",
+        "only soil",
+        "chocolate"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Think",
+     [
+      {
+       "t": "write",
+       "p": "Why do you think the dark moong grew so tall?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Plant puzzles",
+   "day": 6,
+   "sections": [
+    [
+     "A. Puzzle",
+     [
+      {
+       "t": "write",
+       "p": "A plant grows in a crack in a wall. Where does it get water? Where does it get food?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "If you turned a pot upside down for a week (carefully tied), which way would the stem grow? Guess, then tell why.",
+       "lines": 2
+      },
+      {
+       "t": "sort",
+       "p": "Alive, once alive, or never alive?",
+       "items": [
+        "neem tree",
+        "wooden chair",
+        "stone",
+        "seed",
+        "plastic flower",
+        "cotton shirt"
+       ],
+       "cats": [
+        "alive",
+        "once alive",
+        "never alive"
+       ]
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The shoebox maze",
+   "day": 3,
+   "question": "Can a plant find its way to the light?",
+   "need": [
+    "a shoebox with a lid",
+    "two pieces of cardboard and tape",
+    "a sprouted bean",
+    "a small cup of soil"
+   ],
+   "steps": [
+    "Cut a hole about the size of a ₹10 coin in one short end of the box, near the top.",
+    "Tape two pieces of cardboard inside as shelves, one from the left and one from the right, to make a zigzag path.",
+    "Plant the sprouted bean in the cup and put it at the bottom of the box, far from the hole.",
+    "Close the lid and stand the box with the hole facing a sunny window.",
+    "Every two days, water the bean a little and close the lid again quickly."
+   ],
+   "predict": "Ask: 'Will the bean find the hole? Which way will it grow?'",
+   "observe": "Draw the shoot each time you check.",
+   "why": "Plants sense light with special proteins, mostly near their growing tips, and grow faster on the shaded side so they bend towards the light. The bean twists round the shelves until it reaches the hole.",
+   "safety": "An adult cuts the hole.",
+   "time": "15 min to set up + 1–2 weeks"
+  },
+  {
+   "id": "e2",
+   "title": "Light or dark?",
+   "day": 3,
+   "question": "What happens to seedlings grown without light?",
+   "need": [
+    "moong",
+    "two cups with damp cotton",
+    "a dark cupboard"
+   ],
+   "steps": [
+    "Put 10 soaked moong on damp cotton in each cup.",
+    "Put one on a sunny windowsill and one in a dark cupboard.",
+    "Keep both damp.",
+    "After 4–5 days, compare them."
+   ],
+   "predict": "Ask: 'Which will grow better?'",
+   "observe": "Height and colour of the sprouts.",
+   "why": "In the dark, seedlings use their stored food to grow tall and thin as fast as they can, searching for light, and they stay yellow because they make green chlorophyll only in light. In light they grow shorter, stronger and green.",
+   "safety": "",
+   "time": "10 min + 5 days"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Leaf prints",
+   "day": 2,
+   "mins": 10,
+   "need": [
+    "different leaves",
+    "poster paint",
+    "brush",
+    "paper"
+   ],
+   "steps": [
+    "Paint the back of a leaf, where the veins stand out.",
+    "Press it paint-side down on paper and rub gently.",
+    "Lift it off and look at the print.",
+    "Try three different leaves and compare their veins."
+   ],
+   "outcome": "A page of leaf prints showing the veins, the plant's water pipes."
+  }
+ ],
+ "project": {
+  "title": "My plant friend",
+  "days": [
+   5,
+   6
+  ],
+  "steps": [
+   "Choose a plant and give it a name.",
+   "Measure it with a paper strip and draw it.",
+   "Make a care chart: water, light, how it looks.",
+   "Look after it for two weeks, measuring every few days.",
+   "Tell the family what your plant did."
+  ],
+  "outcome": "A two-week plant diary with drawings and paper-strip measurements."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Sun, Water, Grow!",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "a die",
+   "a coin for each player"
+  ],
+  "rules": [
+   "Everyone starts as a seed on START.",
+   "Roll and move.",
+   "Read the square aloud and say why it helps or harms a plant.",
+   "Do what the square says.",
+   "First plant to reach BLOOM wins."
+  ],
+  "squares": [
+   "START: a seed in the soil",
+   "Rain falls: +2",
+   "Sunny day: +2",
+   "A goat nibbles you: back 2",
+   "Roots find water: +1",
+   "Kept in a dark cupboard: miss a turn",
+   "A bee visits: +1",
+   "Too much water, roots soggy: back 1",
+   "Leaves catch the sun: +2",
+   "Someone pulls you up as a weed: back 3",
+   "Worms loosen the soil: +1",
+   "Hot dry day, no water: back 1",
+   "A child waters you: +2",
+   "Turn towards the window: +1",
+   "Grow a flower bud",
+   "BLOOM!"
+  ]
+ },
+ "big": [
+  "Plants have no eyes. How do they know where the light is?",
+  "Is a plant still, or is it moving very, very slowly?",
+  "Where does a plant's food come from?",
+  "If you were a plant, what would you need most?"
+ ],
+ "challenge": [
+  {
+   "q": "People say plants just sit there and don't do anything. Is that true?",
+   "hint": "Look at the maze bean and the window plant. They moved, chose a direction and changed how they grew. They just do it slowly. If we filmed them and played it fast, they'd look busy!"
+  },
+  {
+   "q": "Is a plant 'alive' in the same way you are?",
+   "hint": "It grows, drinks, makes food, responds to light and makes babies (seeds). It can't walk or talk. Ask: does something need to move like us to be alive?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A plant in a crack in the wall",
+   "view": "Nobody planted it, nobody waters it, and it still grows, using a little rain and sunlight. Ask: is it a weed, or is it brave?"
+  },
+  {
+   "who": "A grandmother who keeps a tulsi",
+   "view": "Many Indian families care for a tulsi every day, watering it and lighting a lamp near it. Ask: what do you think people learn from looking after one plant every day for years?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Charles Darwin (1809–1882) and his son Francis Darwin (1848–1925), England",
+   "idea": "In 1880 the Darwins grew grass seedlings in the dark and lit them from one side with a lamp so dim that they themselves could hardly see it. The seedlings still bent towards it. When they put tiny caps on just the tips, the seedlings stopped bending. So the very tip 'sees' the light, and tells the part lower down to bend.",
+   "then": "Many scientists doubted that a message could travel inside a plant without nerves.",
+   "now": "They were right. Scientists later found the message: a plant chemical called auxin. Plants have several light-sensing proteins, not eyes. And Francis did much of the work; his name is on the book, in smaller letters, 'assisted by Francis Darwin'.",
+   "status": "accepted",
+   "ask": "Our maze bean found the hole. Which part of it do you think was 'looking' for the light?",
+   "day": 6
+  },
+  {
+   "id": "v2",
+   "who": "Jagadish Chandra Bose (1858–1937), India",
+   "idea": "Bose built very sensitive machines to show that plants respond to touch, heat and injury with tiny electrical signals, a bit like animals' nerves.",
+   "then": "Some scientists in Europe laughed at the idea that plants could 'feel'. He kept testing and published his results.",
+   "now": "Scientists today agree that plants send electrical signals through their bodies. Whether this is anything like feeling is still argued about.",
+   "status": "debated",
+   "ask": "If a plant reacts when it's hurt, does that mean it feels pain? What would we need to know to decide?",
+   "day": 1
+  }
+ ],
+ "story": {
+  "title": "The Bean That Found the Window",
+  "text": [
+   "Meera broke her leg on the last day of the summer holidays, jumping off the wall behind her building. The doctor put it in a heavy white plaster, and said she must keep it still for six weeks.",
+   "Six weeks! Meera's room was small, at the back of the flat, and it had only one tiny window, high up near the ceiling, where a square of sky showed through. All day the other children played in the lane below. Meera could hear them, but she couldn't see them. She lay in her bed and stared at the ceiling and felt as if she were at the bottom of a well.",
+   "On the third day, her Nani came to visit, carrying a shoebox.",
+   "\"What's in it?\" Meera asked, not very interested.",
+   "\"A bean,\" said Nani. She opened the lid. Inside the box were little cardboard walls, like the walls of a maze, and at the very bottom, in a tiny cup of soil, was a fat rajma bean with a pale shoot just poking out of it. At the top of the box, at the far end, was a small round hole.",
+   "\"The bean is at the bottom of a well, like you,\" said Nani. \"It's dark down there. Let's see if it can find the light.\" She closed the lid, and put the box on the table under the little window, with the hole facing the light.",
+   "\"It can't,\" said Meera. \"It hasn't got eyes. It doesn't even know where the hole is.\"",
+   "\"Hm,\" said Nani, which was what she always said when she disagreed but wanted you to find out for yourself.",
+   "Every two days, Meera's mother lifted the lid for one minute so Meera could peep in and give the bean a spoon of water. The first time, the shoot had grown up to the first cardboard wall and stopped. \"See,\" said Meera. \"It's stuck.\"",
+   "But the second time, the shoot had turned. It had bent sideways, along the underside of the wall, towards the gap at the end. The third time, it had found the gap and gone round it, and was climbing towards the second wall. It was pale and thin and determined, and it was going the right way.",
+   "Meera began to look forward to the peeps. She drew the shoot in her notebook every time, a little longer and a little twistier. \"How does it know?\" she kept asking. \"It's dark in there. How does it know which way the light is?\"",
+   "\"Plants can feel light,\" said Nani. \"Not with eyes. With their whole growing tip. They feel which side the light is coming from, even a tiny bit of light, and they grow faster on the dark side, so they bend towards the bright side. They never stop trying.\"",
+   "In the fifth week, Meera was allowed to sit up in a chair by the window, and then to hop to the balcony with crutches. She could see the lane again. She could see the other children. She waved, and they waved back and shouted that they had saved her a turn in hopscotch for when the plaster came off.",
+   "On the morning the plaster came off, Meera's leg was pale and thin and wobbly, and she had to learn to walk on it again, a little at a time. She went to the table and lifted the lid of the shoebox.",
+   "The bean had done it. Its long, twisty stem had wound all the way around both walls, and its two first leaves had pushed right out of the round hole at the top, into the sunlight. Outside the box, in the light, the leaves were green.",
+   "Meera looked at her own pale leg, and at the pale stem, and at the green leaves in the sun. Then she looked out of the window at the lane.",
+   "\"I'm going outside,\" she said."
+  ],
+  "epiphany": "Plants sense light without eyes (with light-sensing proteins near the growing tip) and grow towards it, even through a maze; without light they grow pale and thin, and turn green once they reach it. The turn is the bean's leaves pushing out of the hole into the sun. Underneath: a living thing that keeps reaching for the light, slowly, and a child who learns to do the same.",
+  "ask": [
+   "How did the bean find the hole when it had no eyes?",
+   "Why was the stem pale inside the box, and the leaves green outside?",
+   "How was Meera like the bean?",
+   "What does Nani mean when she says 'Hm'?",
+   "Can you think of a time you kept trying, slowly, like the bean?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Plants are alive and they act.",
+   "more": "They drink, make food, grow towards light and away from gravity, and make seeds. They do it slowly, so we don't notice. A time-lapse video shows plants moving all day."
+  },
+  {
+   "idea": "Plants feed themselves on sunlight.",
+   "more": "A leaf turns sunlight, water and air into food. Almost all the food on Earth, including ours, starts this way."
+  },
+  {
+   "idea": "Seeing without eyes.",
+   "more": "Plants have special proteins that sense light and even its colour, so they can tell the difference between sunlight and the shade of another leaf."
+  }
+ ],
+ "unknowns": [
+  "Do plants feel anything when they are cut or eaten? They send electrical signals, but whether there is any 'feeling' is not known.",
+  "Plants can tell the colour of light and even 'remember' how long the nights have been. Scientists still don't fully understand how a plant without a brain keeps track of time."
+ ],
+ "books": [
+  {
+   "title": "The Tiny Seed",
+   "author": "Eric Carle",
+   "for": "read together",
+   "age": "4–7",
+   "why": "The journey of one small seed through wind, water and danger to become a flower."
+  },
+  {
+   "title": "A Seed Is Sleepy",
+   "author": "Dianna Hutts Aston",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Gorgeous paintings of real seeds and what they do."
+  },
+  {
+   "title": "The Boy Who Grew a Forest",
+   "author": "Sophia Gholz",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The true story of Jadav Payeng of Assam, who planted a whole forest on a sandbar, one tree at a time."
+  }
+ ],
+ "check": [
+  {
+   "q": "Show me the root, stem, leaf and flower.",
+   "a": "Points correctly on a real plant."
+  },
+  {
+   "q": "What does a leaf do?",
+   "a": "It makes the plant's food from sunlight, water and air."
+  },
+  {
+   "q": "Which way does a plant on a windowsill lean? Why?",
+   "a": "Towards the window, because it grows towards light."
+  },
+  {
+   "q": "What happened to the moong in the dark?",
+   "a": "It grew tall, thin and yellow."
+  },
+  {
+   "q": "Is a plant alive? How do you know?",
+   "a": "Yes: it grows, drinks, makes food, responds to light and makes seeds."
+  }
+ ]
+}
