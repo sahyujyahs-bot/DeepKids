@@ -1,0 +1,11 @@
+rep('''["cal","Calendar","See the plan by day, week, month or year"],["queue"''','''["cal","Calendar","See the plan by day, week, month or year"],["todo","To do","Your own to-dos, and prep and things to gather for coming lessons"],["queue"''')
+rep('''   case "tqt":{''','''   case "tdtick":{const x=(S.todos||[]).find(z=>z.id===b.dataset.t);if(x){x.done=!x.done;x.doneOn=x.done?today:null;sfx(x.done?"tick":"flip");commit()}break}
+   case "tdadd":{ui.tdAdd=!ui.tdAdd;break}
+   case "tqt":{''')
+# timeline: Now only while it's on; Pending once its time has passed and it isn't done
+rep('''const tag=it===focus?`<span class="tag now">${date===today&&it.at<=nowMin()&&!it.anytime?"Now":"Up next"}</span>`''','''const late=isMissed(it,date),tag=it===focus?(late?`<span class="tag now">Pending</span>`:`<span class="tag now">${date===today&&!it.anytime&&it.at<=nowMin()&&nowMin()<it.at+it.dur?"Now":"Up next"}</span>`)''')
+rep('''missed?`<span class="tag miss">Still to do</span>`:"";''','''missed?`<span class="tag miss">Pending</span>`:"";''')
+rep('''const label=missed?"Still to do":''','''const label=missed?"Pending":''')
+CSS2='''.tr.focus{margin:0;padding:0;background:none;box-shadow:none;border-radius:0;display:grid;gap:10px}
+'''
+head=head.replace('</style>',CSS2+'</style>',1)

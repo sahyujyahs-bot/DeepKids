@@ -490,6 +490,14 @@
 
 
 
+
+
+
+
+
+
+
+
 const DATA = window.DK_DATA;
 const SUBJ = DATA.subjects, SUBJ_KEYS = Object.keys(SUBJ);
 const BOARDS = {ncert:"NCERT / CBSE",cambridge:"Cambridge Primary",nios:"NIOS (Open Basic Education)"};
@@ -734,6 +742,24 @@ function stepBody(u,name){const c=u.c,x=c.x,k=KIND(name)[0],L=a=>`<ul>${a.map(i=
 
 /* kolam: one dot per thing in the day; a loop is drawn round each one done */
 function kolam(){return ""}
+/* keep sideways (and inner) scroll positions when the screen redraws, e.g. jokes in a row */
+function scrollSnap(root){if(!root)return null;const L=[...root.querySelectorAll("div,section,ul,ol,nav")],out=[];L.forEach(e=>{if(e.scrollLeft>0||e.scrollTop>0){const cls=e.className||"",i=L.filter(z=>(z.className||"")===cls).indexOf(e);out.push({cls,i,x:e.scrollLeft,y:e.scrollTop})}});return out}
+function scrollBack(root,snap){if(!root||!snap?.length)return;const L=[...root.querySelectorAll("div,section,ul,ol,nav")];snap.forEach(s=>{const e=L.filter(z=>(z.className||"")===s.cls)[s.i];if(e){if(s.x)e.scrollLeft=s.x;if(s.y)e.scrollTop=s.y}})}
+const _dkRender=render,_dkRenderSheet=renderSheet;
+render=function(...a){const m=document.getElementById("main"),s=scrollSnap(m),r=_dkRender.apply(this,a);scrollBack(document.getElementById("main"),s);return r};
+renderSheet=function(...a){const b=document.getElementById("sheetBody"),s=a[0]?null:scrollSnap(b),r=_dkRenderSheet.apply(this,a);scrollBack(document.getElementById("sheetBody"),s);return r};
+/* Plan → To do: your own to-dos, and getting ready for the coming lessons */
+function prepAhead(days){const end=addDays(today,days),out=[];upcoming().forEach(x=>{if(x.date<today||x.date>end)return;prepFor(x.u,x.n,x.tot).forEach(p=>{if(LEARNK.has(p.kind))return;const due=addDays(x.date,-p.lead);out.push({...p,x,due:due<today?today:due,late:due<today})})});
+  const seen=new Set();return out.filter(p=>!seen.has(p.id)&&seen.add(p.id)).sort((a,b)=>a.due<b.due?-1:a.due>b.due?1:0)}
+function todoTab(){const T=(S.todos||[]).filter(t=>!t.done).sort((a,b)=>(a.date||"")<(b.date||"")?-1:1),D=(S.todos||[]).filter(t=>t.done&&t.doneOn===today),P=prepAhead(7),open=P.filter(p=>!S.prep[p.id]),got=P.filter(p=>S.prep[p.id]);
+  const when=d=>d===today?"Today":d===addDays(today,1)?"Tomorrow":fmt(d),tdRow=t=>`<div class="taskrow ${t.done?"done":""}"><button class="ckb" data-act="tdtick" data-t="${t.id}" aria-label="Done: ${esc(t.title)}">${icon("check")}</button><div style="flex:1;min-width:0"><b style="font-weight:800">${esc(t.title)}</b><p class="xs muted">${t.done?"Done today":t.date<today?"From "+fmt(t.date)+" · still open":when(t.date)}${t.who&&ROLE[t.who]?" · "+esc(ROLE[t.who]):""}</p></div>${t.done?"":`<button class="link xs" data-act="todomove" data-t="${t.id}">Tomorrow</button><button class="link xs" data-act="tododel" data-t="${t.id}">Remove</button>`}</div>`;
+  const byDay={};open.forEach(p=>(byDay[p.due]=byDay[p.due]||[]).push(p));
+  let h=`<section class="sec"><div class="sech"><h3>Your to-dos</h3><span class="pill">${T.length}</span></div>${T.length||D.length?`<div class="col" style="gap:8px">${[...T,...D].map(tdRow).join("")}</div>`:`<p class="xs muted">Nothing on your list. Things you add without a time land here, like “buy chart paper” or “call the swimming coach”.</p>`}
+    <details class="qa-in"${ui.tdAdd?" open":""}><summary class="btn soft sm" style="justify-self:start" data-act="tdadd">${icon("plus")}Add a to-do</summary>${quickAdd(today)}</details></section>`;
+  h+=`<section class="sec"><div class="sech"><h3>Get ready for lessons</h3><span class="pill">${open.length}</span></div><p class="xs muted">Prep and things to gather for the next 7 days of lessons. Ticking here also ticks it on Today.</p>
+    ${open.length?Object.entries(byDay).map(([d,L])=>`<div class="col" style="gap:8px"><span class="eyebrow">${when(d)}</span>${L.map(p=>`<div class="taskrow"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Done: ${esc(p.task)}">${icon("check")}</button><div style="flex:1;min-width:0"><b style="font-weight:800">${esc(p.task)}</b><p class="xs muted">For ${esc(chT(p.x.u))} · ${esc(SUBJ[p.x.u.subj])}, ${esc(fmt(p.x.date))}${p.late?" · was due earlier":""}</p></div></div>`).join("")}</div>`).join(""):`<p class="note">All set for the coming week.</p>`}
+    ${got.length?`<details><summary class="xs muted">Done (${got.length})</summary><div class="col" style="gap:6px;margin-top:6px">${got.map(p=>`<div class="taskrow done"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Undo: ${esc(p.task)}">${icon("check")}</button><div><b>${esc(p.task)}</b></div></div>`).join("")}</div></details>`:""}</section>`;
+  return h}
 /* subject filter for the work lists (lessons have their own subject row) */
 const qfOf=()=>S.subjects.includes(ui.qf)?ui.qf:"all";
 const subjChips=()=>`<div class="seg">${["all",...S.subjects].map(x=>`<button aria-pressed="${qfOf()===x}" data-act="qf" data-s="${x}">${x==="all"?"All subjects":SUBJ[x]}</button>`).join("")}</div>`;
@@ -946,7 +972,7 @@ document.addEventListener("visibilitychange",()=>{if(document.hidden){hiddenAt=D
 
 /* ---------- one clear home for everything: 4 tabs, each with a few named parts, plus Settings ---------- */
 const SEGS={
-  week:[["tell","Tell DeepKids","Chat, type or add by hand. What DeepKids asked, routines, classes and rest"],["cal","Calendar","See the plan by day, week, month or year"],["queue","Queue","What comes next, by kind and subject. Drag or use the arrows to change the order"],["pending","Pending","From lessons you've done: not started yet"],["ongoing","Ongoing","Started and not finished yet"]],
+  week:[["tell","Tell DeepKids","Chat, type or add by hand. What DeepKids asked, routines, classes and rest"],["cal","Calendar","See the plan by day, week, month or year"],["todo","To do","Your own to-dos, and prep and things to gather for coming lessons"],["queue","Queue","What comes next, by kind and subject. Drag or use the arrows to change the order"],["pending","Pending","From lessons you've done: not started yet"],["ongoing","Ongoing","Started and not finished yet"]],
   tasks:[["going","Started","Started and not finished yet: lessons, worksheets, quizzes, projects and more"],["new","Not started","From lessons you've done: things that weren't started yet"],["queue","Queues","What comes next for each kind. Drag or use the arrows to change the order"]],
   journey:[["overview","Overview","How each subject is going, chapter by chapter"],["time","Time","Time spent each day and subject, and everything done"],["work","Work","Things to finish, finished work with answers, and photos"],["school","School","Report, entrance test and a folder to send to a school"]],
 };
@@ -1675,7 +1701,7 @@ function otherDay(d){const items=dayPlan(d).filter(i=>i.kind!=="brk"),past=d<tod
    ${past?"":`<button class="btn soft sm" data-act="quickday" data-d="${d}" style="margin-top:12px">+ Add a plan for this day</button>`}</section>`}
 /* ---------- calm Today: one thing now, a short list, everything else behind More ---------- */
 function nowCard(it){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,missed=isMissed(it,today),a=`data-id="${it.id}" data-date="${today}"`,open=!!ui.open["now|"+it.id];
-  const label=missed?"Still to do":it.anytime?"Any time today":it.at<=nowMin()?"Now":"Up next";
+  const label=missed?"Pending":it.anytime?"Any time today":it.at<=nowMin()?"Now":"Up next";
   const title=it.kind==="lesson"?chT(it.u):it.title;
   const sub=it.kind==="lesson"?`${SUBJ[it.s]} · Part ${it.n} of ${it.tot} · ${estTxt(it.u,it.n,it.tot)}`:it.kind==="prep"?(n=>`${n} thing${n===1?"":"s"} to get ready · ${mins(it.dur/60)}`)(it.prep.filter(p=>!S.prep[p.id]).length):it.sub||ROLE[it.who];
   const P={lesson:[`data-act="play" ${a}`,it.kind==="lesson"&&stepState(it).some(x=>x.ok)?"Keep going":"Start the lesson"],prep:it.id==="pm"?[`data-act="night"`,"Get tomorrow ready"]:[`data-act="tlopen" ${a}`,"Open the checklist"],warm:[`data-act="games"`,"Start the warm-up"],plan:[`data-act="quickplan"`,"Open the Planner"],exps:[`data-act="tlcheck" ${a}`,"Checked them all"],refresh:[`data-act="refresh" data-date="${today}"`,"Play it"],dkt:[`data-act="chapter" data-k="${it.u?.k}"`,"Open the topic"]}[it.kind]||[`data-act="tlcheck" ${a}`,"Done"];
@@ -1898,7 +1924,7 @@ function itemDetail(it,date){const isT=date===today;
 function tRow(it,date,focus){const col=it.kind==="lesson"?SC(it.s):"r-"+it.who,[hh,ap]=it.anytime?["Any","time"]:it.done&&it.doneNoTime?["Done",""]:clock(it.at).split(" ");
   if(it.kind==="brk")return `<div class="tr brk"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur/60)}</span></div>`;
   const open=!!ui.open[it.id],missed=isMissed(it,date)&&it!==focus,a=`data-id="${it.id}" data-date="${date}"`;
-  const tag=it===focus?`<span class="tag now">${date===today&&it.at<=nowMin()&&!it.anytime?"Now":"Up next"}</span>`:evPast(it,date)?`<span class="tag miss">Did it happen?</span>`:snzd(it,date)?`<span class="tag">Later today</span>`:missed?`<span class="tag miss">Still to do</span>`:"";
+  const late=isMissed(it,date),tag=it===focus?(late?`<span class="tag now">Pending</span>`:`<span class="tag now">${date===today&&!it.anytime&&it.at<=nowMin()&&nowMin()<it.at+it.dur?"Now":"Up next"}</span>`):evPast(it,date)?`<span class="tag miss">Did it happen?</span>`:snzd(it,date)?`<span class="tag">Later today</span>`:missed?`<span class="tag miss">Pending</span>`:"";
   return `<div class="tr ${col} ${it.done?"done":""} ${it===focus?"focus":""} ${missed?"missed":""}"><span class="t num">${hh}<small>${ap}</small></span><div class="tcard"><span class="ic">${icon(KICO[it.kind]||"spark")}</span><button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind==="lesson"?chT(it.u):it.title)}</b><span>${tag}${it.kind==="lesson"?SUBJ[it.s]+" · "+(it.n?`Part ${it.n}${it.tot?" of "+it.tot:""} · `:""):""}${S.tl[date+"|"+it.id]==="skip"?"skipped today":S.tl[date+"|"+it.id]==="missed"?"didn't happen":it.skipped?"skipped":it.done&&it.doneAt!=null?"done at "+clock(it.doneAt):it.done&&it.doneNoTime?"done, time not recorded":(it.kind==="event"&&it.ev?evShort(it.ev):ROLE[it.who])+" · "+mins(it.dur/60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done?"Done":"Mark done"}: ${esc(it.title)}">${icon("check")}</button>${open?`<div class="tdet">${itemDetail(it,date)}</div>`:""}</div></div>`}
 function timeline(date){const items=dayPlan(date),f=focusOf(items,date);return items.length?`<div class="tt compact">${items.map(i=>tRow(i,date,f)).join("")}</div>`:`<p class="note">Nothing planned for this day yet.</p>`}
 const tomorrow=()=>addDays(today,1);
@@ -1975,10 +2001,12 @@ function parsedLine(it){if(it.type==="have")return "Library · "+(it.category||"
 function viewPlanner(){const k=seg("week"),v=ui.pv||"week";initDrag();let h=pageHead("Plan")+segBar("week")+`</section>`;
   if(k==="tell"){const Q=askList();h+=`<section class="sec">${dumpCard()}</section>`+(Q.length?plPart("asks"):"")+(ui.sheet?.mode==="told"?"":`<section class="sec">${toldView()}</section>`)}
   else if(k==="cal")h+=`<section class="sec"><div class="seg">${Object.entries(PV).map(([kk,nm])=>`<button aria-pressed="${v===kk}" data-act="pv" data-v="${kk}">${nm}</button>`).join("")}</div>${{year:yearOrbit,month:monthView,week:weekView,day:dayView}[v]()}</section>`;
+  else if(k==="todo")h+=todoTab();
   else if(k==="queue")h+=queuesView()+((WT[ui.tq]?ui.tq:"les")==="les"?plPart("pace"):"");
   else if(k==="pending")h+=newView();
   else h+=goingView();
   return h}
+
 async function runDump(){const ta=document.getElementById("dumpText"),D_=ui.dump=ui.dump||{},typed=(ta?.value||"").trim(),text=(D_.items&&typed&&D_.text&&!D_.text.includes(typed)?D_.text+"\n"+typed:typed||D_.text||"").trim();D_.text=text;if(!SAMPLE){if(!text){D_.err="Type something first.";sfx("no");return render()}localDump(text);return}
   if(!text&&!D_.files?.length){D_.err="Type something or add a photo first.";sfx("no");return render()}
   D_.busy=true;D_.err="";render();
@@ -2576,6 +2604,8 @@ function onAct(e){
    case "hs":{ui.hs=b.dataset.s;ui.hn=25;sfx("tap");render();break}
    case "hmore":{ui.hn=(ui.hn||25)+25;render();break}
    case "morejg":{ui.jg=(ui.jg||0)+1;sfx("flip");renderSheet();break}
+   case "tdtick":{const x=(S.todos||[]).find(z=>z.id===b.dataset.t);if(x){x.done=!x.done;x.doneOn=x.done?today:null;sfx(x.done?"tick":"flip");commit()}break}
+   case "tdadd":{ui.tdAdd=!ui.tdAdd;break}
    case "tqt":{ui.tq=b.dataset.t;ui.qpick=null;sfx("tap");render();break}
    case "qzs":{sfx("flip");openSheet({mode:"qzs",k,n:+b.dataset.n});break}
    case "dkmin":{const i=Math.max(0,DKSTEPS.indexOf(dkMinsOf()));S.dkMins=DKSTEPS[Math.min(DKSTEPS.length-1,Math.max(0,i+ +b.dataset.d))];sfx("tap");commit();break}
