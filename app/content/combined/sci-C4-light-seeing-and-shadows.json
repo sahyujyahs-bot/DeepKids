@@ -1,0 +1,1254 @@
+{
+ "key": "combined|sci|4|light-seeing-and-shadows",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "light-seeing-and-shadows",
+ "title": "How we see: rays, mirrors, shadows and colour",
+ "source": "DeepKids Combined. Covers Cambridge Stage 4 Physics and Earth and space: How we see things (5.1), Light travels in straight lines (5.2), Light reflects off different surfaces (5.3) and Investigating shadow lengths (5.6), plus the speed of light, the pinhole camera, the spectrum and colour, and guided light. No textbook needed.",
+ "summary": "In Class 2 your child sorted light sources from reflectors, found that we can't see in the dark, and invented colours by mixing paints and lights. Now they find out how seeing actually works: light travels from a source in straight lines, bounces off objects and enters our eyes, so we never see a thing itself, only the light that left it a moment ago. They draw ray diagrams, build a pinhole camera, test which surfaces reflect best, measure how shadows grow and shrink and swing round through the day, split white light into a rainbow, and guide light along a stream of water.",
+ "builds_on": "Class 2: light sources and reflectors, the Moon's borrowed light, darkness, pupils, living light, and mixing paints versus mixing lights. Later classes: refraction and lenses, the eye in detail, the electromagnetic spectrum, and the Earth's orbit and the seasons.",
+ "subconcepts": [
+  "how we see: source, object, eye",
+  "rays and ray diagrams",
+  "light travels in straight lines",
+  "light is very fast but not instant: sunlight is about 8 minutes old",
+  "the pinhole camera makes an upside-down image",
+  "transparent, translucent and opaque materials",
+  "shadow size depends on distance from the light",
+  "shadow length and direction change through the day",
+  "the Sun's apparent movement comes from the Earth spinning",
+  "smooth surfaces reflect like mirrors; rough surfaces scatter light",
+  "the law of reflection: the angle in equals the angle out",
+  "dark colours absorb more light; light colours reflect more",
+  "white light splits into a spectrum; things are coloured by the light they reflect",
+  "light can be guided along a stream of water or a glass fibre",
+  "reliable results: repeating measurements"
+ ],
+ "goals": [
+  "By the end your child can explain and draw, with rays, how we see a non-luminous object.",
+  "By the end your child can prove that light travels in straight lines in two ways, and explain why a pinhole image is upside down.",
+  "By the end your child can predict and measure how a shadow changes with distance from a torch, and through the day, and explain why using the Earth's spin.",
+  "By the end your child can rank surfaces by how well they reflect, and show that the angle in equals the angle out.",
+  "By the end your child can split white light into colours and explain why a red flower looks red.",
+  "By the end your child can name a scientist from India, China, the Islamic world or ancient Egypt who worked out something about light, and say who has been left out of the credit."
+ ],
+ "words": [
+  [
+   "luminous",
+   "giving out its own light"
+  ],
+  [
+   "non-luminous",
+   "not giving out light; seen only by reflected light"
+  ],
+  [
+   "ray",
+   "a straight line with an arrow that shows the path light takes"
+  ],
+  [
+   "reflect",
+   "to bounce light back from a surface"
+  ],
+  [
+   "absorb",
+   "to soak up light instead of bouncing it back"
+  ],
+  [
+   "opaque",
+   "lets no light through"
+  ],
+  [
+   "translucent",
+   "lets some light through but you can't see clearly through it"
+  ],
+  [
+   "transparent",
+   "lets light through so you can see clearly through it"
+  ],
+  [
+   "image",
+   "a picture of something made by light, in a mirror or on a screen"
+  ],
+  [
+   "spectrum",
+   "the band of colours that white light splits into"
+  ],
+  [
+   "apparent movement",
+   "how something seems to move because we are moving"
+  ],
+  [
+   "angle",
+   "the amount of turn between two lines"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "How do we see?",
+   "goal": "Recall Class 2, and find that we see things when light bounces off them into our eyes.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do you remember?",
+     "mins": 7,
+     "do": "Ask: 'In Class 2, was the Moon a light source? What happened in the dark box? What did three paints make, and three lights?' Good answers: the Moon only reflects sunlight; with no light you see nothing; three paints make dark mud, three lights make nearly white. Then ask the new question: 'You can see this book. It makes no light. So how does the book get into your eyes?' Write your child's answer and keep it."
+    },
+    {
+     "kind": "read",
+     "title": "Story: Diskit's Shadow",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask: 'How did Diskit find her way home? Which way did her shadow point in the morning and in the afternoon?' Tell your child they will measure their own shadow all through one day this week."
+    },
+    {
+     "kind": "exp",
+     "title": "Light's journey to your eye",
+     "mins": 14,
+     "do": "Do experiment e1. In a dark room, put a toy on a table. Your child sits facing it. Shine a torch at the ceiling: the toy is faint. Shine it at the toy from the side, so no light goes straight into your child's eyes: they can see the toy clearly. Then hold a sheet of card between the toy and your child's eyes, with the torch still on the toy: the toy vanishes. Ask: 'The light is still on the toy. Why can't you see it now?' Good answer: the light bouncing off the toy can't reach my eyes. Draw it together: the torch, an arrow to the toy, an arrow from the toy to the eye. Say: 'We never see the toy itself. We see the light that bounced off it and came into our eyes. Each arrow is a ray.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "act",
+     "title": "Photon tag",
+     "mins": 12,
+     "do": "Play photon tag in a park or a big room. One player is the Sun, standing still. The others are bits of light (photons). Photons may only run in straight lines; to change direction they must touch a 'mirror' player or a wall and bounce off. A 'seer' stands at the side with eyes shut and hands cupped; when a photon gently tags the seer's hand, the seer opens their eyes and shouts what the photon last bounced off. Ask afterwards: 'Could the seer see the mirror player if no photon came to them?' (No.) Swap roles."
+    }
+   ],
+   "need": [
+    "a torch",
+    "a toy",
+    "a sheet of card",
+    "a dark room",
+    "an open space for photon tag"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Light travels in straight lines",
+   "goal": "Prove that light travels in straight lines, draw rays, and find that light takes time to travel.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Three cards and a bendy pipe",
+     "mins": 20,
+     "do": "Do experiment e2. Punch a hole in the same place in three cards (stack them and punch through all three at once), and stand them in lumps of clay in a row. Put a torch behind the first. Your child moves the cards until the light comes through all three holes onto a wall. Ask: 'How do the holes have to be?' (In a perfectly straight line.) Push the middle card a little sideways: the spot vanishes. Then look at a candle or a lamp through a straight piece of hose pipe, then bend the pipe. Ask: 'Why can't you see the lamp through the bent pipe?' Good answer: light goes straight and can't go round the bend.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Drawing rays",
+     "mins": 10,
+     "do": "Teach your child to draw ray diagrams with a ruler and a pencil: a light source (a Sun or bulb), straight lines with arrows going out of it, one ray hitting an object, and a ray from the object to an eye. Rules: always use a ruler; always put an arrow pointing the way light travels; the arrow goes into the eye, never out of it. Ask them to draw how they see the Moon at night (Sun, ray to the Moon, ray from the Moon to their eye). Ask: 'Why does the arrow go into the eye and not out?' (Ibn al-Haytham showed that light comes into our eyes; you remember him from Class 2.)"
+    },
+    {
+     "kind": "talk",
+     "title": "How fast is light?",
+     "mins": 15,
+     "do": "Tell your child about voice v1: Ole Rømer, who noticed that a moon of Jupiter seemed to come out from behind Jupiter late when Earth was far from Jupiter, and worked out that light takes time to travel. Say: 'Light travels about 3 lakh kilometres every second: round the Earth seven and a half times in one second. Even so, light from the Sun takes about 8 minutes to reach us. So when you see the Sun, you see it as it was 8 minutes ago. The light from some stars has travelled for thousands of years.' Ask: 'If a star stopped shining tonight, when would we know?' Then ask the voice question.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "3 index cards",
+    "a hole punch or a pencil",
+    "3 lumps of clay or atta dough",
+    "a torch",
+    "a 50 cm piece of garden hose or a long paper tube"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The pinhole camera",
+   "goal": "Build a pinhole camera and explain its upside-down image with straight rays.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Build a pinhole camera",
+     "mins": 25,
+     "do": "Do activity a1. Build the camera, then take it to a window or outside on a sunny day and point it at a bright scene: a tree, a building, a person in a coloured shirt. Your child looks at the tracing-paper screen with a cloth over their head to keep out other light. Ask: 'What do you see? Which way up is it?' (A small, dim, coloured picture, upside down and the wrong way round.) Make the hole a little bigger: brighter but blurrier. Ask: 'Why?'",
+     "ref": "a1"
+    },
+    {
+     "kind": "think",
+     "title": "Why upside down?",
+     "mins": 8,
+     "do": "Draw it with your child: a tall tree on the left, the pinhole in the middle, the screen on the right. Draw a straight ray from the top of the tree through the hole: it lands at the bottom of the screen. Draw a ray from the bottom of the tree through the hole: it lands at the top. Ask: 'So which way up is the picture?' Say: 'Because light travels in straight lines through the tiny hole, the top and bottom swap. Our eyes make upside-down pictures too, on the back of the eye, and the brain turns them the right way.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Who discovered the pinhole picture?",
+     "mins": 12,
+     "do": "Tell your child about voice v2: the Mohist thinkers in ancient China, more than 2,000 years ago, who described the upside-down picture through a small hole, and Ibn al-Haytham, who studied it in a darkened room about a thousand years ago. Ask the voice question. Then ask: 'Why do most science books start the story of light in Europe? Whose names get left out?'",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "a shoebox or a long biscuit tin",
+    "aluminium foil",
+    "tracing paper or butter paper",
+    "tape",
+    "a pin",
+    "a dark cloth",
+    "a sunny window or a bright day"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Opaque, translucent, transparent, and shadows",
+   "goal": "Sort materials by how much light they let through, and find out what changes the size of a shadow.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Let it through?",
+     "mins": 10,
+     "do": "Collect: a steel plate, a clear glass, butter paper, a cotton handkerchief, a plastic file folder, cardboard, a leaf, a sheet of newspaper, cling film, a sari or dupatta. Shine a torch through each onto the wall. Your child sorts them: transparent (clear glass, cling film), translucent (butter paper, handkerchief, dupatta, leaf), opaque (steel, cardboard). Ask: 'Which ones make the darkest shadow?' (Opaque ones.) 'Which make a pale shadow?' (Translucent.) 'Why are windows transparent but bathroom windows often translucent?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Fair test: shadow size",
+     "mins": 15,
+     "do": "Do experiment e3. Stand a small toy 1 metre from a wall. Shine a torch at it from 20 cm, 40 cm, 60 cm and 80 cm away, and your child measures the height of the shadow on the wall each time. Repeat each measurement twice more. Before you begin, ask: 'What will we change, what will we measure, and what must stay the same?' Afterwards ask: 'Were your three measurements the same each time? Why do scientists repeat measurements?' (To check the results are reliable and to catch mistakes.)",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "Shadow theatre",
+     "mins": 12,
+     "do": "Hang a white bedsheet across a doorway with a lamp behind it. Your child and another family member act a three-minute shadow play behind the sheet (the story of Diskit, or a tale they make up), using their bodies and cardboard cut-outs. The audience sits in front. During the play, the actors try: walking towards the lamp (the shadow grows huge), walking towards the sheet (it shrinks and gets sharper), and holding up a dupatta (a pale shadow). Ask the audience afterwards: 'How did the giant appear?' Note that tholu bommalata from Andhra Pradesh and tholpavakoothu from Kerala are old Indian shadow-puppet theatres that use exactly these tricks."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Your child does Worksheet ws1 alone. Then go through the answers together; for any mistake, ask your child to show the answer with the torch.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a torch",
+    "the ten materials listed",
+    "a small toy and a measuring tape",
+    "a white bedsheet, a lamp and cardboard cut-outs",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Shadows through the day",
+   "goal": "Measure a shadow all through a day, and explain the pattern with the spinning Earth.",
+   "steps": [
+    {
+     "kind": "outdoor",
+     "title": "Start the shadow stick",
+     "mins": 12,
+     "do": "Do experiment e4. At about 8 am, push a stick upright into the ground (or stand a pencil in clay on a sunny terrace or windowsill). Mark the tip of the shadow with a pebble or chalk, write the time, and measure its length. Use a compass app or the rising Sun to mark north, south, east and west. Your child will come back every hour until 4 pm; set phone alarms. Before you finish, ask: 'Where do you think the shadow will be at noon? At 4 pm?' Write the guesses down. While outside, do three rounds of Surya Namaskar facing the Sun, and notice where your own shadow falls.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Who is really moving?",
+     "mins": 13,
+     "do": "In a dark room, a grown-up holds a lamp still (the Sun). Your child holds a ball with a small sticker on it (that's you, in India) and slowly spins it anticlockwise, as seen from above. Ask: 'When does the sticker first see the Sun? When is the Sun highest for the sticker? When does it disappear?' Say: 'The Sun doesn't move across our sky. The Earth spins once a day and carries us round, so the Sun only seems to move: its movement is apparent. When the Sun is low in the morning, shadows are long and point west; at midday the Sun is highest and shadows are shortest; in the evening they are long again and point east.' Ask: 'Which way does the shortest shadow point in India?' (North, because the midday Sun is a little to the south for most of the year.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Measuring the Earth with a shadow",
+     "mins": 13,
+     "do": "Tell your child about voice v3: Eratosthenes, who heard that at midday on one day of the year the Sun shone straight down a well in Syene, and measured that a stick in Alexandria still cast a short shadow at the same moment. From the size of that shadow and the distance between the two cities, he worked out the size of the whole Earth, more than 2,200 years ago. Ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "review",
+     "title": "First readings",
+     "mins": 7,
+     "do": "Help your child start the shadow table: time, length of shadow (cm), direction. Fill in the 8 am and 9 am readings if you have them. Ask: 'Is the shadow getting longer or shorter? Is it moving clockwise or anticlockwise around the stick?'"
+    }
+   ],
+   "need": [
+    "a straight stick about 1 metre long, or a pencil and clay",
+    "pebbles or chalk",
+    "a measuring tape",
+    "a phone with alarms and a compass app",
+    "a lamp and a ball with a sticker"
+   ],
+   "prep": [
+    {
+     "task": "Choose a sunny spot that gets Sun from 8 am to 4 pm, and check the weather forecast for a clear day",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Mirrors and rough surfaces",
+   "goal": "Test which surfaces reflect best, find the law of reflection, and build a periscope.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Graph the shadow day",
+     "mins": 7,
+     "do": "Use yesterday's shadow table. Your child draws a bar graph: time along the bottom, shadow length up the side. Ask: 'When was the shadow shortest? Does the graph look like a valley?' (Yes: long, short, long.) Note on the graph that the shortest shadow is close to midday, and pointed north."
+    },
+    {
+     "kind": "exp",
+     "title": "Reflection scores",
+     "mins": 15,
+     "do": "Do experiment e5. In a dark room, shine a torch at each surface at the same angle and score how bright a patch of light it bounces onto a white card held in the same place: a mirror, smooth foil, crumpled foil, a steel plate, white paper, black paper, a wooden board, a cotton cloth. Ask: 'Which made a bright spot? Which made only a glow everywhere?' Good answer: smooth shiny surfaces send the light back in one direction (you can see an image); rough surfaces scatter it in every direction (no image, just brightness). Black paper absorbs most of the light.",
+     "ref": "e5"
+    },
+    {
+     "kind": "exp",
+     "title": "Angle in, angle out",
+     "mins": 10,
+     "do": "Tape a comb over a torch so a few thin beams come out, or make a slit in black card over the torch. In a dim room, lay a mirror upright on a sheet of paper and shine the beams along the paper at the mirror. Your child draws the beam going in and coming out with a ruler, and draws a line at right angles to the mirror where the beam hits. Ask: 'Are the two angles the same?' Change the angle and draw again. Then bounce a ball off a wall at an angle and watch it come off at the same angle. Say: 'This is the law of reflection: the angle in equals the angle out.'"
+    },
+    {
+     "kind": "act",
+     "title": "Carton periscope",
+     "mins": 13,
+     "do": "Do activity a2. Build the periscope from a milk or juice carton and two small mirrors, then use it to look over a table or round a door frame. Ask your child to draw a ray diagram showing how the light gets from the object to their eye (two bounces, each with angle in equal to angle out).",
+     "ref": "a2"
+    }
+   ],
+   "need": [
+    "the shadow table",
+    "a mirror, foil, a steel plate, white and black paper, a wooden board and a cotton cloth",
+    "a white card",
+    "a torch, a comb and tape",
+    "a sheet of paper, a ruler and a protractor (optional)",
+    "a ball",
+    "2 empty milk cartons and 2 small mirrors"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Hidden colours in white light",
+   "goal": "Split white light into a spectrum, explain colours, and meet Raman's question about the sea.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Make a rainbow",
+     "mins": 13,
+     "do": "Do experiment e6. Put a glass of water on a sunny windowsill so the sunlight passes through the edge of the water onto a white paper on the floor, or put a mirror in a bowl of water facing the Sun and catch the reflection on a white wall. Your child finds the band of colours. Ask: 'What order are the colours in?' (Red, orange, yellow, green, blue, indigo, violet: some people remember it as VIBGYOR.) Say: 'White light is a mix of all these colours. Water and glass bend each colour by a slightly different amount, so they fan out. A rainbow happens when sunlight does this inside millions of raindrops.' Ask: 'Where must the Sun be for you to see a rainbow?' (Behind you.)",
+     "ref": "e6"
+    },
+    {
+     "kind": "talk",
+     "title": "Why is a red flower red?",
+     "mins": 10,
+     "do": "Hold up a red hibiscus or a red cloth. Ask: 'Sunlight has all the colours. Which colour does the flower send back to your eyes?' (Red.) 'What happens to the others?' (The flower absorbs them.) Remember the Class 2 experiment: shine the green-covered torch on the red flower in the dark. It looks almost black. Ask: 'Why?' (There is no red light to bounce back.) Ask: 'Why do people in hot places like Rajasthan often wear white and paint houses white?' (White reflects most light, so less is absorbed as heat; black absorbs most and gets hottest.) If you have a sunny spot, put a black cloth and a white cloth in the Sun for 10 minutes and feel them."
+    },
+    {
+     "kind": "talk",
+     "title": "Raman and the blue sea",
+     "mins": 12,
+     "do": "Tell your child about voice v4: C.V. Raman on a ship in 1921, staring at the deep blue Mediterranean, and refusing to accept that the sea is blue only because it reflects the sky. Ask the voice question. Then ask: 'Raman's student K.S. Krishnan did many of the experiments for the Raman effect, but only Raman got the Nobel Prize. Is that fair? How should the prize have been shared?'",
+     "ref": "v4"
+    },
+    {
+     "kind": "act",
+     "title": "Diya gazing and afterimages",
+     "mins": 10,
+     "do": "Light a diya and place it on a table at arm's length from your child (a grown-up stays right there). Your child sits still and gazes softly at the flame for 30 seconds, breathing slowly, as in the yoga practice of trataka. Then they close their eyes. Ask: 'What do you see?' (A glowing shape of the flame, often in a different colour.) Then stare for 30 seconds at a bright red paper square on white paper in good light, and look at a plain white wall. Ask: 'What colour is the ghost square?' (Usually blue-green.) Say: 'This is an afterimage. The cells in your eye that see red get tired, so for a moment the white wall looks like white light with less red in it. Colour is partly made inside you.' Never do this with the Sun."
+    }
+   ],
+   "need": [
+    "a glass of water or a mirror in a bowl of water",
+    "white paper",
+    "a sunny window",
+    "a red flower or cloth",
+    "the green-covered torch from Class 2 (or green cellophane)",
+    "a black cloth and a white cloth",
+    "a diya and matches (grown-up)",
+    "a red paper square"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Guided light, other eyes, and the game",
+   "goal": "Guide light along a curve, think about animals that see what we can't, and play the game.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Light in a stream of water",
+     "mins": 13,
+     "do": "Do experiment e7. Make a hole in the side of a clear plastic bottle near the bottom, fill it with water while covering the hole, and in a dark room shine a torch through the bottle from the opposite side, straight at the hole. Let the water pour out in a curved stream into a bucket. Put your finger in the stream. Ask: 'Where does the light go?' (It follows the curve of the stream and makes a bright spot on your finger.) Ask: 'Does this mean light doesn't travel in straight lines?' Good answer: no, it still goes in straight lines, but it keeps bouncing off the inside of the water's surface, zig-zagging along the curve. Say: 'The internet travels round the world this way, as flashes of light inside thin glass threads called optical fibres.'",
+     "ref": "e7"
+    },
+    {
+     "kind": "talk",
+     "title": "Eyes that see differently",
+     "mins": 10,
+     "do": "Say: 'Our eyes see only part of the light there is.' Tell your child: honeybees see ultraviolet light, which we can't, and many flowers have ultraviolet patterns like landing strips that only bees can see; this was shown by Karl von Frisch's experiments with bees. Pit vipers sense the infrared (warmth) of a mouse in the dark. A cat sees much better than us in dim light but sees fewer colours. Ask: 'Is the flower really white, as we see it, or striped, as a bee sees it? Which is the real flower?' Let your child argue both sides."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws2. Your child works alone; afterwards ask them to read their written answers aloud and draw one ray diagram on the board or a big sheet to explain one of them.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "game",
+     "title": "Ray Race board game",
+     "mins": 12,
+     "do": "Play the board game g1. Read the rules aloud. Keep a mirror and a torch next to the board so players can test any square they disagree about.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "a clear plastic bottle",
+    "a nail or skewer to make a hole (grown-up)",
+    "water and a bucket",
+    "a bright torch",
+    "a dark room",
+    "worksheet ws2",
+    "the printed board, a die and counters"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Check, challenge and teach it back",
+   "goal": "Finish the project, tackle the challenge sheet and teach the family.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Finish the project",
+     "mins": 12,
+     "do": "Finish the 'Light detective' project: your child puts together the pinhole camera, the shadow graph, the reflection scores and the rainbow drawing on a big sheet, with one ray diagram for each. Ask them to add one sentence under each: 'This shows that…'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 15,
+     "do": "Do Worksheet ws3. Encourage ray diagrams. Talk through the mirror puzzle together afterwards with a real mirror: hold up your right hand and see which hand the mirror-you raises.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 18,
+     "do": "Your child gives a 10-minute 'light show' to the family: how we see (with the torch, toy and card), the three cards in a line, the pinhole camera, the shadow graph, and the rainbow. They must use the words ray, reflect, absorb, opaque and apparent movement. Then ask the check questions. Finish by going back to the answer they wrote on Day 1 to 'How does the book get into your eyes?' Ask: 'Would you change your answer now?'"
+    }
+   ],
+   "need": [
+    "all the work from this rung",
+    "a big sheet of paper and glue",
+    "worksheet ws3",
+    "a mirror"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Rays, materials and shadows",
+   "day": 4,
+   "sections": [
+    [
+     "A. How we see",
+     [
+      {
+       "t": "mcq",
+       "p": "You can see a chair in a lit room because…",
+       "opts": [
+        "your eyes send out rays to the chair",
+        "light from a lamp or the Sun bounces off the chair into your eyes",
+        "the chair makes its own light"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "In a ray diagram, the arrow on the ray between the object and the eye points…",
+       "opts": [
+        "into the eye",
+        "out of the eye",
+        "both ways"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Light travels in ____ lines.",
+       "a": [
+        "straight"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In a pinhole camera, the picture of a tree is…",
+       "opts": [
+        "the right way up",
+        "upside down",
+        "only black and white"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Materials and shadows",
+     [
+      {
+       "t": "sort",
+       "p": "How much light does it let through?",
+       "items": [
+        "clear glass",
+        "cardboard",
+        "butter paper",
+        "cling film",
+        "a steel plate",
+        "a cotton dupatta",
+        "a brick",
+        "a leaf"
+       ],
+       "cats": [
+        "transparent",
+        "translucent",
+        "opaque"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "You move a torch closer to a toy. Its shadow on the wall gets…",
+       "opts": [
+        "smaller",
+        "bigger",
+        "the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "The shortest shadow of the day happens…",
+       "opts": [
+        "at sunrise",
+        "around midday",
+        "at sunset"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "The Sun seems to move across the sky because…",
+       "opts": [
+        "the Sun goes round the Earth every day",
+        "the Earth spins",
+        "clouds push it"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Why couldn't you see the lamp through the bent hose pipe?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why is a shadow darker behind cardboard than behind butter paper?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Reflection, colour and the shadow day",
+   "day": 8,
+   "sections": [
+    [
+     "A. Reflection",
+     [
+      {
+       "t": "sort",
+       "p": "Does it reflect like a mirror, or scatter light?",
+       "items": [
+        "a still pond",
+        "crumpled foil",
+        "a new steel plate",
+        "a white wall",
+        "a polished floor",
+        "a cotton towel"
+       ],
+       "cats": [
+        "mirror-like",
+        "scatters light"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The law of reflection: the angle in equals the angle ____.",
+       "a": [
+        "out"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A periscope works because…",
+       "opts": [
+        "two mirrors each reflect light, so it goes round a corner",
+        "light bends round the corner by itself",
+        "the mirrors make light"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Colour",
+     [
+      {
+       "t": "mcq",
+       "p": "A green leaf looks green because it…",
+       "opts": [
+        "makes green light",
+        "reflects green light and absorbs most of the other colours",
+        "absorbs only green light"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "You shine only red light on a green leaf in a dark room. It looks…",
+       "opts": [
+        "bright green",
+        "very dark",
+        "white"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "On a hot day, which shirt keeps you coolest in the Sun?",
+       "opts": [
+        "black",
+        "white",
+        "dark blue"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match the scientist to the idea.",
+       "pairs": [
+        [
+         "Ole Rømer",
+         "light takes time to travel"
+        ],
+        [
+         "the Mohists",
+         "upside-down pinhole picture"
+        ],
+        [
+         "Eratosthenes",
+         "measured the Earth with shadows"
+        ],
+        [
+         "C.V. Raman",
+         "why the sea is blue"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Reason",
+     [
+      {
+       "t": "write",
+       "p": "Look at your shadow graph. Why is the shadow long in the morning, short at midday and long again in the evening? Use the words 'Earth', 'spins' and 'Sun's height'.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Your friend says the light in the water stream proves light can bend round corners by itself. Explain what is really happening.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like Ibn al-Haytham",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "You raise your right hand in front of a mirror. Your mirror-self raises the hand on…",
+       "opts": [
+        "the same side as your right hand (the mirror swaps front and back, not left and right)",
+        "the opposite side",
+        "neither"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Light from the Sun takes about 8 minutes to reach us. If the Sun vanished, how long before we noticed?",
+       "opts": [
+        "at once",
+        "about 8 minutes",
+        "about a day"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "On the day the Sun shone straight down the well in Syene, a stick there had…",
+       "opts": [
+        "almost no shadow at noon",
+        "a very long shadow",
+        "two shadows"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "If you live in Australia (south of the equator), your midday shadow mostly points…",
+       "opts": [
+        "north",
+        "south",
+        "east"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "White light split into its colours is called a ____.",
+       "a": [
+        "spectrum"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Can we see it with our eyes alone?",
+       "items": [
+        "ultraviolet patterns on a flower",
+        "a rainbow",
+        "the infrared warmth of a mouse",
+        "a red hibiscus",
+        "the light inside an optical fibre cable at its end",
+        "radio waves"
+       ],
+       "cats": [
+        "we can see it",
+        "we can't see it"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. What if and how could you test?",
+     [
+      {
+       "t": "write",
+       "p": "Design a fair test to find out whether a taller stick makes a longer shadow at the same time of day. What will you change, measure and keep the same? How many times will you measure?",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "We never see a thing itself, only the light that left it a moment ago. So are we always seeing the past? Explain with an example from the night sky.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A bee sees stripes on a flower that we see as plain white. Which is the real flower? Give a reason for your answer.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Light's journey to your eye",
+   "day": 1,
+   "question": "How do we see an object that makes no light?",
+   "need": [
+    "a torch",
+    "a toy",
+    "a sheet of card",
+    "a dark room"
+   ],
+   "steps": [
+    "In a dark room, put the toy on a table; your child sits facing it.",
+    "Shine the torch at the ceiling. How well can you see the toy?",
+    "Shine the torch at the toy from the side. How well now?",
+    "Keep the torch on the toy and hold the card between the toy and your child's eyes.",
+    "Draw what happened with ray arrows."
+   ],
+   "predict": "Ask: 'If light is shining on the toy, will you always be able to see it?'",
+   "observe": "The toy is clear when the torch shines on it, but vanishes behind the card even though it is still lit.",
+   "why": "We see a non-luminous object only when light from a source bounces off it and travels in a straight line into our eyes. Block that path and we can't see it, however brightly it is lit.",
+   "safety": "Never shine the torch into anyone's eyes.",
+   "time": "14 min"
+  },
+  {
+   "id": "e2",
+   "title": "Three cards and a bendy pipe",
+   "day": 2,
+   "question": "Does light travel in straight lines?",
+   "need": [
+    "3 index cards",
+    "a hole punch or pencil",
+    "3 lumps of clay",
+    "a torch",
+    "a wall",
+    "a 50 cm hose pipe"
+   ],
+   "steps": [
+    "Stack the cards and punch one hole through all three in the same place.",
+    "Stand the cards upright in clay, 20 cm apart, in a row.",
+    "Shine the torch through the first hole and move the cards until a spot appears on the wall.",
+    "Check the holes with a string pulled tight through them.",
+    "Move the middle card 1 cm sideways. What happens?",
+    "Look at a lamp through the straight pipe, then bend the pipe."
+   ],
+   "predict": "Ask: 'Will the light still reach the wall if the holes are not lined up?'",
+   "observe": "Light reaches the wall only when the three holes are in a perfectly straight line. Through a bent pipe you can't see the lamp.",
+   "why": "Light travels in straight lines. It can't curve to find the next hole or follow the bend of the pipe. This is also why shadows have sharp edges and why we can't see round corners.",
+   "safety": "If using a candle, a grown-up lights it and keeps the pipe away from the flame.",
+   "time": "20 min"
+  },
+  {
+   "id": "e3",
+   "title": "Fair test: shadow size",
+   "day": 4,
+   "question": "How does the distance between a torch and an object change the size of its shadow?",
+   "need": [
+    "a torch",
+    "a small toy about 10 cm tall",
+    "a measuring tape",
+    "a wall"
+   ],
+   "steps": [
+    "Write the variables: independent (distance from torch to toy), dependent (height of the shadow), control (same toy, same torch, toy always 1 metre from the wall, same height of torch).",
+    "Put the torch 20 cm from the toy. Measure the shadow height.",
+    "Repeat at 40, 60 and 80 cm.",
+    "Do the whole set three times and work out the middle value for each distance.",
+    "Draw a bar chart."
+   ],
+   "predict": "Ask: 'Will the shadow get bigger or smaller as the torch moves closer?'",
+   "observe": "The closer the torch, the bigger the shadow. The three repeats are usually close but not exactly the same.",
+   "why": "Light spreads out from the torch in straight lines. Close to the torch, the toy blocks a wide fan of rays, so the shadow is big; far away, it blocks a narrow fan. Repeating measurements shows how reliable the results are: if they are close, we can trust them; if one is very different, we check for a mistake.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e4",
+   "title": "The shadow stick through the day",
+   "day": 5,
+   "question": "How do the length and direction of a shadow change through the day?",
+   "need": [
+    "a straight stick about 1 metre long",
+    "pebbles or chalk",
+    "a measuring tape",
+    "a notebook",
+    "phone alarms"
+   ],
+   "steps": [
+    "At about 8 am, push the stick upright into flat ground in full Sun.",
+    "Mark north, south, east and west.",
+    "Every hour until 4 pm, put a pebble at the tip of the shadow, write the time on it and measure the shadow's length.",
+    "Record time, length and direction in a table.",
+    "Next day, draw a bar graph of length against time."
+   ],
+   "predict": "Ask your child to mark where they think the shadow tip will be at noon and at 4 pm.",
+   "observe": "The shadow is long in the morning pointing roughly west, gets shorter and swings round to point north near midday, then grows long again pointing east in the evening. The pebbles make a curved line.",
+   "why": "As the Earth spins, the Sun appears to climb the sky and then sink. A low Sun makes long shadows; a high Sun makes short ones. The shadow always points away from the Sun, so it swings round as the Sun seems to move from east to west. In India, the midday Sun is usually a little to the south, so the shortest shadow points north.",
+   "safety": "Never look straight at the Sun. Wear a cap and drink water if it is hot.",
+   "time": "12 min + 1 min every hour for 8 hours"
+  },
+  {
+   "id": "e5",
+   "title": "Reflection scores",
+   "day": 6,
+   "question": "Which surfaces reflect light best?",
+   "need": [
+    "a torch",
+    "a white card",
+    "a mirror, smooth foil, crumpled foil, a steel plate, white paper, black paper, a wooden board, a cotton cloth"
+   ],
+   "steps": [
+    "In a dark room, lay each surface flat on the table in turn.",
+    "Shine the torch at it from the same height and angle each time.",
+    "Hold the white card in the same place to catch the reflected light.",
+    "Score the bright patch on the card from 0 (nothing) to 5 (bright spot).",
+    "Also note: can you see an image of the torch in the surface?"
+   ],
+   "predict": "Ask your child to rank the surfaces before testing.",
+   "observe": "The mirror and smooth foil make a bright, sharp spot and show an image of the torch. Crumpled foil and white paper give a dimmer, spread-out glow. Black paper and cloth give very little.",
+   "why": "A smooth surface sends all the light back at the same angle, so the rays stay together and make an image. A rough surface has tiny bumps facing every way, so it scatters light in all directions: we can see the surface, but no image. Dark surfaces absorb most of the light.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e6",
+   "title": "Make a rainbow",
+   "day": 7,
+   "question": "Is white light really one colour?",
+   "need": [
+    "a glass of water or a small mirror in a bowl of water",
+    "white paper",
+    "sunlight"
+   ],
+   "steps": [
+    "Put a full glass of water at the edge of a sunny windowsill so sunlight passes through it.",
+    "Hold white paper on the floor where the light lands, and move it until you see colours.",
+    "Or: lean a mirror inside a bowl of water facing the Sun, and catch the reflected light on a white wall.",
+    "Draw the colours in order."
+   ],
+   "predict": "Ask: 'What colour will sunlight make on the paper after going through the water?'",
+   "observe": "A small band of colours appears: red at one edge, through orange, yellow, green and blue, to violet at the other.",
+   "why": "White light is a mixture of many colours. When light passes from air into water and out again, it bends (refraction), and each colour bends by a slightly different amount, so the colours spread apart into a spectrum. Raindrops do the same thing to make a rainbow.",
+   "safety": "Never look at the Sun or at its reflection in the mirror.",
+   "time": "13 min"
+  },
+  {
+   "id": "e7",
+   "title": "Light in a stream of water",
+   "day": 8,
+   "question": "Can light be guided along a curved path?",
+   "need": [
+    "a clear plastic bottle",
+    "a nail or skewer (grown-up)",
+    "water",
+    "a bucket",
+    "a bright torch",
+    "a dark room"
+   ],
+   "steps": [
+    "A grown-up makes a hole about 5 mm wide in the side of the bottle, 5 cm from the bottom.",
+    "Cover the hole with a finger and fill the bottle.",
+    "In a dark room, shine the torch through the bottle from the side opposite the hole, aimed at the hole.",
+    "Take your finger away so the water pours in a curved stream into the bucket.",
+    "Put your hand in the stream."
+   ],
+   "predict": "Ask: 'Will the torchlight shoot straight across the room, or follow the water?'",
+   "observe": "The stream glows and a bright spot of light appears where the water hits your hand.",
+   "why": "The light enters the water stream and hits its inner surface at a shallow angle, so it reflects back inside instead of escaping (total internal reflection). It zig-zags along in straight lines between bounces, following the curve. Optical fibres guide light round the world in the same way.",
+   "safety": "Do this over a bucket, away from plugs and switches.",
+   "time": "13 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Pinhole camera",
+   "day": 3,
+   "mins": 25,
+   "need": [
+    "a shoebox or a long biscuit tin",
+    "aluminium foil",
+    "tracing paper",
+    "tape",
+    "a pin",
+    "a dark cloth"
+   ],
+   "steps": [
+    "Cut a 3 cm square hole in the middle of one end of the box and tape foil over it.",
+    "Make a tiny hole in the centre of the foil with the pin.",
+    "Cut away the other end of the box and tape tracing paper across it as a screen.",
+    "Point the pinhole at a bright scene and look at the screen, with a dark cloth over your head and the box.",
+    "Make the pinhole a little bigger and compare.",
+    "Draw what you see, the right way up and upside down."
+   ],
+   "outcome": "A working pinhole camera and a drawing of its upside-down image."
+  },
+  {
+   "id": "a2",
+   "title": "Carton periscope",
+   "day": 6,
+   "mins": 13,
+   "need": [
+    "2 empty milk or juice cartons, washed and dried",
+    "2 small mirrors",
+    "tape and scissors"
+   ],
+   "steps": [
+    "Tape the two cartons end to end to make a tall tube.",
+    "Cut a square window near the top on one side, and near the bottom on the opposite side.",
+    "Tape one mirror inside the top, facing down at 45 degrees to the window.",
+    "Tape the other mirror inside the bottom, facing up at 45 degrees.",
+    "Look in the bottom window: you should see out of the top window.",
+    "Draw a ray diagram of the light's path."
+   ],
+   "outcome": "A periscope that sees over walls and round corners, and a ray diagram of two reflections."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Ole Rømer (1644–1710), Denmark, working at the Paris Observatory",
+   "idea": "In 1676 Rømer noticed that Io, a moon of Jupiter, came out from behind Jupiter a few minutes later than expected when the Earth was far from Jupiter, and earlier when it was near. He explained that light takes time to cross the extra distance, so light is not instant.",
+   "then": "Many astronomers, including the director of the observatory, Giovanni Cassini, were not convinced and thought other causes might explain the delays. The idea was accepted more widely after James Bradley found a different kind of evidence in 1729.",
+   "now": "It is accepted: light travels at about 300,000 kilometres a second. Rømer's numbers gave a speed somewhat too low, because the distances in space were not well known then, but his idea was right.",
+   "status": "accepted",
+   "ask": "Rømer's measurement was not very accurate, but his idea was right. Is a rough answer to a new question worth more or less than an exact answer to an old one?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "The Mohists (followers of Mozi, ancient China, about 5th–3rd centuries BCE) and Ibn al-Haytham (about 965–1040), Basra and Cairo",
+   "idea": "The Mohist writings describe how light passing through a small hole into a dark room makes an upside-down picture, and explain it with light travelling in straight lines. About 1,400 years later, Ibn al-Haytham studied the camera obscura (dark room) carefully in his Book of Optics, used it to watch eclipses safely, and used it as evidence for how light travels and how we see.",
+   "then": "These works were written in Chinese and Arabic, and for a long time European histories of science left them out or gave them only a line. Ibn al-Haytham's book was translated into Latin and shaped European optics for centuries, often without much credit.",
+   "now": "Historians of science now recognise both. The camera obscura is the ancestor of every camera, including the one in your phone.",
+   "status": "accepted",
+   "ask": "If the same idea is found in China and in the Arab world long before Europe, why do you think many books say it started in Europe? How could you check a 'first' claim?",
+   "day": 3
+  },
+  {
+   "id": "v3",
+   "who": "Eratosthenes (about 276–194 BCE), librarian of Alexandria, Egypt",
+   "idea": "He learned that at midday on the longest day of the year, the Sun shone straight down a well at Syene (now Aswan), so it was directly overhead. At the same time a stick in Alexandria cast a shadow showing the Sun was about 7 degrees (one fiftieth of a circle) from overhead. If the Earth is round, the distance from Alexandria to Syene must be one fiftieth of the way round. He worked out the Earth's circumference as about 250,000 stadia.",
+   "then": "His method was admired, and later Greek and Arab astronomers used similar methods.",
+   "now": "The method is accepted and brilliant. How accurate his answer was is debated, because nobody knows for sure how long his 'stadion' was: depending on which length he used, his answer was within a few percent or about 15 percent of the real figure (about 40,000 km). The distance between the two cities was probably measured by professional pacers who walked it, whose names are lost.",
+   "status": "accepted",
+   "ask": "Eratosthenes needed someone to tell him about the well, and someone to pace out the distance. Who else should share the credit? What does that tell you about how science is done?",
+   "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "C.V. Raman (1888–1970) and K.S. Krishnan (1898–1961), India",
+   "idea": "In 1921, sailing to England, Raman looked at the deep blue Mediterranean Sea and doubted the famous explanation that the sea is blue mainly because it reflects the blue sky. With simple instruments on deck he argued that light is scattered inside the water itself. Back in Kolkata, his investigations of how light scatters in liquids led, in 1928, to the Raman effect: a tiny part of scattered light changes colour in a way that is a fingerprint of the molecules it hit.",
+   "then": "Raman won the Nobel Prize in Physics in 1930, the first Asian to win a Nobel Prize in science. His student and colleague K.S. Krishnan did many of the key experiments and was a co-author of the first paper, but he was not included in the prize.",
+   "now": "Raman was right that the sea's blue is not just reflected sky: water itself absorbs red light and scatters blue. The Raman effect is used everywhere, from testing medicines to studying rocks on Mars. India celebrates National Science Day on 28 February, the day the discovery was announced.",
+   "status": "accepted",
+   "ask": "Raman refused to accept an explanation just because a famous scientist had given it. When should you trust an expert, and when should you check for yourself?",
+   "day": 7
+  }
+ ],
+ "project": {
+  "title": "Light detective",
+  "days": [
+   3,
+   5,
+   6,
+   9
+  ],
+  "steps": [
+   "Keep everything you make: the pinhole camera and its drawing (Day 3), the shadow table and graph (Days 5 and 6), the reflection scores (Day 6) and the rainbow drawing (Day 7).",
+   "On a big sheet, give each one a heading and a ray diagram.",
+   "Under each, write one sentence starting 'This shows that…'.",
+   "Add a box: 'One question about light I still have'.",
+   "Show it to the family when you teach it back."
+  ],
+  "outcome": "A poster of real measurements and ray diagrams showing how light travels, reflects and makes shadows and colours."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Ray Race",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "a die",
+   "a counter for each player",
+   "a mirror and torch to test squares"
+  ],
+  "rules": [
+   "Everyone starts on SUN. Take turns to roll and move.",
+   "On a question square, answer it. Right: stay. Wrong: go back 1. If players disagree, test it with the mirror and torch.",
+   "On a 'reflect' square, bounce: move back the number you rolled.",
+   "On a 'fibre' square, zoom forward 3.",
+   "The first photon to reach the EYE wins."
+  ],
+  "squares": [
+   "SUN",
+   "Light takes about how long to reach Earth from the Sun?",
+   "Name an opaque material",
+   "Mirror! Reflect: move back what you rolled",
+   "Why is a pinhole image upside down?",
+   "Shadow at noon: short or long?",
+   "Name a translucent material",
+   "Fibre! Zoom forward 3",
+   "Which colour of shirt is coolest in the Sun?",
+   "Angle in equals angle…?",
+   "Crumpled foil: image or no image?",
+   "Clouds: miss a turn",
+   "Which way does a morning shadow point?",
+   "Who measured the Earth with a shadow?",
+   "Mirror! Reflect: move back what you rolled",
+   "Why is a red flower red?",
+   "What does a bee see that we can't?",
+   "Rainbow! Name the colours in order and move forward 2",
+   "Who found light takes time to travel?",
+   "Who asked why the sea is blue?",
+   "Black paper: reflects or absorbs?",
+   "EYE"
+  ]
+ },
+ "big": [
+  "If we only ever see light that has left things, are we always seeing the past?",
+  "Is the colour of a flower in the flower, in the light, or in our eyes?",
+  "A bee and a person look at the same flower and see different patterns. Which one sees the real flower?",
+  "Who should get the credit for an idea that many people in many countries found at different times?",
+  "Is a shadow something, or just a place where something isn't?"
+ ],
+ "challenge": [
+  {
+   "q": "Light always travels in straight lines. So how does the internet send light round the bends of a cable under the sea?",
+   "hint": "Inside an optical fibre the light still travels in straight lines, but it keeps reflecting off the inside of the glass, zig-zagging along the curve, just like in the water stream. Narinder Singh Kapany, born in Moga, Punjab, and Harold Hopkins in London showed in 1954 that bundles of fine glass fibres could carry images. The 2009 Nobel Prize for fibre optics went to Charles Kao, who showed how to make glass pure enough to carry light very long distances. Ask: should Kapany have shared in the credit?"
+  },
+  {
+   "q": "Many books say Isaac Newton discovered the secret of the rainbow. Is that the whole story?",
+   "hint": "Newton showed in the 1660s and 1670s that white light is a mixture of colours, which a prism can split and a second prism can recombine. But around 1300, Kamal al-Din al-Farisi in Persia and Theodoric of Freiberg in Germany had already explained the rainbow by shining light through a glass ball filled with water, a model raindrop. Ask: why might the later, more famous name be the one we remember?"
+  },
+  {
+   "q": "People say a mirror swaps left and right. Does it?",
+   "hint": "Not really. Hold up your right hand: the mirror-you raises the hand on the same side. What a mirror reverses is front and back, as if you were pushed through yourself. We call it left-right swapping because we imagine turning round to stand where the image is. Ask: why does writing look backwards in a mirror?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A honeybee",
+   "view": "A bee sees ultraviolet light. Many flowers that look plain to us have dark ultraviolet patterns that guide the bee to the nectar. Ask: if bees wrote a book about flowers, what colours would be in it that have no names in ours?"
+  },
+  {
+   "who": "A shadow-puppet artist of tholu bommalata, Andhra Pradesh",
+   "view": "These artists cut puppets from translucent leather, painted in colour, and play them against a lit screen at night, so the audience sees coloured shadows. Ask: how is a coloured shadow possible, if shadows are where light is blocked?"
+  },
+  {
+   "who": "Someone who was born blind and gained sight as an adult",
+   "view": "In India, Project Prakash, led by Pawan Sinha, has helped children and young adults who were born blind to see after cataract surgery, and studied how their brains learn to see. At first, many cannot tell which shapes are which. Ask: if seeing needs learning, is seeing done by the eyes or by the brain?"
+  },
+  {
+   "who": "An astronomer",
+   "view": "When astronomers look at a galaxy far away, they see light that left it millions of years ago, before there were any humans. Ask: is that galaxy still there? How could anyone know?"
+  }
+ ],
+ "story": {
+  "title": "Diskit's Shadow",
+  "text": [
+   "I am a shadow. I am the shadow of a girl called Diskit, and I have been with her every sunny day of her life, though she does not often look at me.",
+   "I should tell you what I am, because most people get it wrong. I am not a dark thing that she drags around. I am not made of anything at all. I am the place where Diskit stands between the Sun and the ground. The Sun throws its light down in long straight lines, and Diskit's body catches some of it, and where that light cannot reach, there I am. When she moves, I move. When the Sun moves, I move. I am the shape of her, written on the earth in missing light.",
+   "Diskit lives in a village in Ladakh, high in the mountains, where the air is thin and cold and the Sun is so bright that it makes the snow on the peaks look like it is burning. In winter, when the stream freezes and the fields are bare, Diskit takes the family's goats up the slope to where a little grass still grows between the rocks.",
+   "That morning her mother said, “Come back when your shadow is shortest. There will be butter tea and skyu.”",
+   "So we set off, Diskit and the goats and I. The Sun had just come over the eastern ridge behind the village, low and gold, and I was long, longer than three Diskits laid end to end. I stretched out in front of her, pointing west, up the slope, the way she was walking. She walked on my head all the way up. I did not mind.",
+   "At the top of the slope there was a flat rock warm from the Sun, and the goats spread out to nibble, and Diskit sat down with her back against a boulder. The sky was a hard, deep blue. Somewhere a chough was calling. She closed her eyes, just for a moment.",
+   "She slept for a long time.",
+   "While she slept, I moved. I did not decide to. The Earth turned, as it always turns, carrying the mountains and the village and the goats and Diskit along with it, and the Sun seemed to climb up the sky. As it climbed, I shrank. I crept in towards her feet and swung round to the north, until at midday I was hardly there at all: a small dark puddle by her boots. That was the moment her mother meant. But Diskit was asleep.",
+   "Then the Sun began to sink towards the western peaks, and I began to grow again. But not where I had been in the morning. I grew out the other way, long and thin, towards the east.",
+   "When Diskit woke, her heart jumped. The light had turned yellow and slanting. The goats had wandered over a little ridge. She ran after them and gathered them up, counting, seven, eight, nine, all there, and then she stopped and looked around.",
+   "Every way looked the same. Rocks, slopes, snow. The little ridge hid the village. She had come up a slope, but now there were three slopes going down, and she could not remember which one she had climbed. The wind was getting colder. Her mother would be waiting.",
+   "“Which way?” she said out loud. The goats did not know. The chough did not answer.",
+   "And then, for the first time all day, she looked at me.",
+   "I lay in front of her on the frozen ground, long and dark and pointing. She looked at me for a long time. I could see her thinking. She lifted her arm, and I lifted mine.",
+   "“This morning,” she said slowly, “the Sun was behind the village. I walked away from the Sun, and you were in front of me, pointing up here.”",
+   "She turned round and looked at the Sun, low over the western peaks. She did not stare into it; she knew better than that. She just saw where it was.",
+   "“Now the Sun is on the other side,” she said. “So you are on the other side too. You always point away from the Sun.” She looked at me again. “You are pointing east. And the village is east. You are pointing home.”",
+   "She was right. I always point away from the Sun, because I am the light that her body blocks, and light travels in straight lines. In the morning, with the Sun in the east, I pointed west, up the mountain. Now, with the Sun in the west, I pointed east, down to the village. I had swung right round while she slept, like the hand of a slow clock.",
+   "So Diskit followed me. She walked behind her own shadow, down the slope, with the goats bumping along beside her, and the longer I grew, the faster she walked, because she knew that a long shadow means a low Sun, and a low Sun means it is nearly night.",
+   "She came over the last rise just as the Sun touched the peaks, and there was the village below, with smoke coming from the chimneys, and her mother standing in the doorway with her hand over her eyes, looking up the mountain.",
+   "When the Sun went down behind the mountains, I faded and was gone, the way I go every evening, into the great shadow of the whole Earth that people call night.",
+   "Diskit drank her butter tea by the stove. Her mother asked her why she was so late, and she said she had fallen asleep. Her mother asked how she had found the way down, and Diskit was quiet for a moment.",
+   "“I wasn't alone,” she said.",
+   "Her mother smiled, thinking she meant the goats."
+  ],
+  "epiphany": "A shadow is not a thing but the place where an object blocks light travelling in straight lines, so it always points directly away from the Sun. As the Earth spins, the Sun's apparent movement makes the shadow shorten towards midday and swing round from west to east. The turn comes when Diskit realises that her morning shadow pointed the way she walked away from home and her afternoon shadow points the opposite way, home.",
+  "ask": [
+   "Why was Diskit's shadow so long in the morning, and so small at midday?",
+   "Why did the shadow point west in the morning and east in the afternoon?",
+   "How did Diskit work out which way was home?",
+   "The shadow says it is 'the shape of her, written on the earth in missing light'. What does it mean?",
+   "What did Diskit mean when she said 'I wasn't alone'? Why did her mother smile?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "We never see things; we see light that has come from them.",
+   "more": "Every object you see is sending, or bouncing, light into your eye. Block the light's straight path and the object vanishes, even in a bright room. Seeing is the world arriving inside you."
+  },
+  {
+   "idea": "Everything we see is a little bit in the past.",
+   "more": "Light is fast but not instant. The Sun you see is 8 minutes old; the stars may be thousands of years old. Even your friend across the room is a billionth of a second old."
+  },
+  {
+   "idea": "Shadows are clocks and compasses.",
+   "more": "Because light travels straight and the Earth spins steadily, a shadow's length tells the time and its direction tells you where you are. People have used sundials, from Egypt to Jaipur's Jantar Mantar, for thousands of years."
+  },
+  {
+   "idea": "Colour is a meeting between light, things and eyes.",
+   "more": "White light holds all colours; objects keep some and return others; our eyes and brain turn what returns into colour, and a bee's eyes turn it into different colours. There is no single 'true' colour of a flower."
+  }
+ ],
+ "unknowns": [
+  "How exactly does the brain turn the upside-down, flat picture on the back of the eye into the world we experience? Scientists understand parts of it, but not the whole.",
+  "Do all people experience a colour such as red in the same way? There is no way yet to compare what it is like inside two different minds.",
+  "How do some animals, such as mantis shrimps, use their many kinds of colour cells? They have far more than we do, yet experiments suggest they are not better at telling close colours apart, and scientists are still working out why."
+ ],
+ "books": [
+  {
+   "title": "Light: Shadows, Mirrors, and Rainbows",
+   "author": "Natalie M. Rosinsky",
+   "for": "read alone",
+   "age": "7–9",
+   "why": "A short, clear book on how light travels, reflects and splits into colours."
+  },
+  {
+   "title": "Shadows and Reflections",
+   "author": "Tana Hoban",
+   "for": "read together",
+   "age": "4–9",
+   "why": "A wordless book of photographs of shadows and reflections in a city: use it to play 'what made this?'"
+  },
+  {
+   "title": "Ibn al-Haytham: The Man Who Discovered How We See",
+   "author": "Libby Romero",
+   "for": "read together",
+   "age": "8–12",
+   "why": "The life of the scientist from Basra and Cairo who explained vision and the camera obscura."
+  }
+ ],
+ "check": [
+  {
+   "q": "Draw a ray diagram to show how you see a book in a room lit by a lamp.",
+   "a": "A ray from the lamp to the book, and a ray from the book into the eye, both straight with arrows pointing towards the eye."
+  },
+  {
+   "q": "Give two ways to show that light travels in straight lines.",
+   "a": "Light goes through three holes only when they are in a straight line; you can't see a lamp through a bent pipe (also: sharp shadows, the pinhole image)."
+  },
+  {
+   "q": "Why is the picture in a pinhole camera upside down?",
+   "a": "Light travels in straight lines through the hole, so rays from the top of the object land at the bottom of the screen and rays from the bottom land at the top."
+  },
+  {
+   "q": "How does a shadow change from morning to evening, and why?",
+   "a": "Long and pointing west in the morning, shortest near midday (pointing north in India), long and pointing east in the evening, because the Earth's spin makes the Sun appear to rise, climb and sink."
+  },
+  {
+   "q": "Why does a mirror show an image but white paper doesn't?",
+   "a": "A smooth mirror reflects all the light at the same angle, so the rays stay together; rough paper scatters light in all directions."
+  },
+  {
+   "q": "Why does a red flower look red, and how would it look in only green light?",
+   "a": "It reflects red light and absorbs the other colours; in only green light it would look very dark or black."
+  },
+  {
+   "q": "What did Ole Rømer and Eratosthenes each find out?",
+   "a": "Rømer: light takes time to travel. Eratosthenes: the size of the Earth, using shadows."
+  },
+  {
+   "q": "How did Diskit find her way home?",
+   "a": "Her shadow always pointed away from the Sun; in the afternoon, with the Sun in the west, it pointed east, towards the village."
+  }
+ ]
+}

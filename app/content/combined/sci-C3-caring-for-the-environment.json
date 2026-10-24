@@ -1,0 +1,1223 @@
+{
+ "key": "combined|sci|3|caring-for-the-environment",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "caring-for-the-environment",
+ "title": "Caring for the environment: the web that holds us",
+ "source": "DeepKids Combined. Covers NIOS Class 3 'Conservation of Environment' (useful animals and their care; plant parts and uses; food chain and food web; conserving the environment and water). No textbook needed.",
+ "summary": "Your child finds out how much we take from animals and plants, and asks what we give back. They look after animals safely, hunt for every part of a plant in the kitchen, watch a leaf make oxygen, and build food chains and a string food web. They learn that decomposers and scavengers close every loop, that taking away one creature can change everything (the starfish, the wolves and India's vultures), and that poison travels up a food chain. They finish by testing how roots hold soil and how much water a running tap wastes.",
+ "builds_on": "Class 2 rung: every living thing needs a habitat with food, water and shelter; litter rots or doesn't; reduce, reuse, recycle; the Chipko women. This rung adds food chains and webs, decomposers, balance and keystone species, pollution, and conserving soil, forests and water. In Class 5: soil erosion and soil pollution in depth, forests, the greenhouse effect, a green school, and the Earth as one shared home.",
+ "goals": [
+  "By the end your child can name what animals and plants give us, and say how to care for animals kindly and safely.",
+  "By the end your child can name the parts of a plant we eat and use, and show that leaves give out oxygen in sunlight.",
+  "By the end your child can build a food chain and a food web, using the words producer, consumer, herbivore, carnivore, omnivore and decomposer.",
+  "By the end your child can explain what happens when one link in a food web is removed, using a real example.",
+  "By the end your child can describe how pollution harms air, water and soil, and show how roots protect soil.",
+  "By the end your child can suggest ways to conserve forests, soil and water, and question the word 'useful'."
+ ],
+ "subconcepts": [
+  "animals that live with us and how to care for them",
+  "what animals and plants give us, and whether 'useful' is a fair word",
+  "plant parts we eat and use",
+  "leaves make food and give out oxygen (producers)",
+  "food chains: producers and consumers",
+  "herbivores, carnivores and omnivores",
+  "decomposers and scavengers close the loop",
+  "food webs",
+  "balance of nature and keystone species",
+  "poison travels up a food chain",
+  "pollution of air, water and soil",
+  "soil erosion and how roots hold soil",
+  "conserving forests and water"
+ ],
+ "words": [
+  [
+   "conservation",
+   "looking after nature so it lasts, for us and for everything else"
+  ],
+  [
+   "domestic animal",
+   "an animal that lives with people, like a cow, dog, hen or goat"
+  ],
+  [
+   "producer",
+   "a living thing that makes its own food from sunlight: a plant"
+  ],
+  [
+   "consumer",
+   "a living thing that gets its food by eating others"
+  ],
+  [
+   "herbivore",
+   "an animal that eats only plants"
+  ],
+  [
+   "carnivore",
+   "an animal that eats other animals"
+  ],
+  [
+   "omnivore",
+   "an animal that eats both plants and animals"
+  ],
+  [
+   "decomposer",
+   "a living thing, like a fungus, bacterium or earthworm, that breaks down dead things into soil"
+  ],
+  [
+   "scavenger",
+   "an animal that eats dead animals, like a vulture or a crow"
+  ],
+  [
+   "food web",
+   "many food chains joined together"
+  ],
+  [
+   "keystone species",
+   "a creature whose loss changes a whole habitat"
+  ],
+  [
+   "pollution",
+   "harmful things added to air, water or soil"
+  ],
+  [
+   "erosion",
+   "soil being carried away by water or wind"
+  ]
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Gifts, and what we give back",
+   "goal": "Recall Class 2, meet the story, and count what animals and plants give us.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do we remember?",
+     "mins": 6,
+     "do": "Recall the Class 2 rung in one quick round. Ask: 'What three things does every habitat give an animal?' (Food, water, shelter.) 'What happened to the banana peel and the plastic in the soil?' (The peel rotted; the plastic stayed.) 'Who were the Chipko women?' (Village women in the Himalayas who stopped their forest being cut.) Say: 'This time we find out how every living thing is tied to every other one.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Cleaners of the Sky",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask: 'Why did the dogs and the sickness come?' and 'Was the old vulture useful?' Write down your child's answers; you'll come back to them on Day 5."
+    },
+    {
+     "kind": "act",
+     "title": "Breakfast gift sort",
+     "mins": 10,
+     "do": "Do Activity a1. Look at today's breakfast and the kitchen shelf, and sort everything into three columns on paper: from animals (milk, curd, ghee, eggs, honey, wool in a shawl, leather in a belt), from plants (rice, atta, dal, fruit, tea, sugar, cotton, wood, medicines like haldi), and from neither (salt, water, steel). Count each column. Ask: 'Which column is longest?'",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up: the rotting bottle",
+     "mins": 7,
+     "do": "Set up Experiment e1: in a clear plastic bottle or jar, put a layer of damp soil, then a piece of bread, a slice of fruit or vegetable peel, a dry leaf and a small piece of plastic, pressed against the side so you can see them. Cover the top with a cloth and a rubber band. Ask your child to predict which will change first. Keep it in a shady place.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Is a spider useful?",
+     "mins": 5,
+     "do": "Ask: 'Which animals are useful to us?' Your child will name cows, hens, bees. Then ask: 'Is a spider useful? A vulture? A mosquito? A snake?' Then the deeper question: 'Useful to whom? Would a frog say a mosquito is useful?' Leave it open."
+    }
+   ],
+   "need": [
+    "the breakfast table and kitchen shelf",
+    "paper",
+    "a clear bottle or jar, soil, bread, peel, a dry leaf, a piece of plastic",
+    "a cloth and a rubber band"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Living with animals",
+   "goal": "Learn how to care for animals kindly and safely, and argue about cages.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Domestic and wild",
+     "mins": 10,
+     "do": "Ask your child to sort the animals they know into domestic (living with people: cow, buffalo, goat, dog, cat, hen, camel, horse) and wild (living on their own: tiger, sparrow, monkey, snake, frog, elephant). Ask: 'What does a cow need from the family who keeps her?' (Food, clean water, shade, a clean place to stand, care when she is ill, and not being overworked.) Then the safety rules, said clearly: never tease or chase a dog; don't go near a mother dog with puppies or an animal that is eating; if any animal scratches or bites you, tell a grown-up straight away, wash the wound with soap and running water for a long time (about 15 minutes) and go to a doctor the same day, because a bite can spread rabies, which can be prevented with injections."
+    },
+    {
+     "kind": "act",
+     "title": "Interview an animal carer",
+     "mins": 12,
+     "do": "Phone or visit someone who looks after animals: a milkman or dairy farmer, a person who feeds street dogs, a pet owner, someone at a gaushala or an animal shelter. Your child asks three questions they prepare: 'What does your animal need every day? What makes it ill? What has it taught you?' Write the answers down."
+    },
+    {
+     "kind": "think",
+     "title": "Should birds live in cages?",
+     "mins": 10,
+     "do": "Have a short debate. Your child argues one side for 2 minutes, then switches and argues the other. For cages: the bird is safe from cats and gets food. Against: a bird's habitat is the whole sky; it can't fly, find a mate or choose its food. Then tell them that in India it is against the law to keep most wild Indian birds, such as parakeets and mynas, as pets. Ask: 'What would the parakeet say?'"
+    },
+    {
+     "kind": "review",
+     "title": "Peek at the rotting bottle",
+     "mins": 3,
+     "do": "Look at Experiment e1. Has anything changed? Is there any fuzz on the bread yet? Draw what you see.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "What do we give back?",
+     "mins": 5,
+     "do": "Ask: 'Yesterday we counted what animals and plants give us. What do we give back to them?' Write down every answer your child thinks of. Some families say thank you before a meal; some leave water for birds in summer. Ask: 'Is that enough?'"
+    }
+   ],
+   "need": [
+    "a phone or a visit",
+    "paper"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Plants: parts, gifts and the oxygen factory",
+   "goal": "Find every part of a plant in the kitchen and watch a leaf give out oxygen.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Kitchen plant-part hunt",
+     "mins": 15,
+     "do": "Hunt in the kitchen and sort what you find by which part of the plant it is: root (carrot, radish, beetroot, sweet potato), stem (potato, ginger, sugarcane, onion is a special leaf base, so argue about it!), leaf (spinach, methi, coriander, cabbage, tea), flower (cauliflower, broccoli, banana flower, saffron), fruit (mango, tomato, brinjal, lady's finger, cucumber), seed (rajma, rice, wheat, mustard, peanut). Ask: 'Why is a potato a stem and not a root?' (It has eyes, which are buds, and it grows from the stem underground.) Ask: 'What else do plants give us that we don't eat?' (Wood, cotton, rubber, paper, medicine, shade, oxygen.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Bubbles from a leaf",
+     "mins": 15,
+     "do": "Do Experiment e2. Punch small discs from a spinach leaf with a straw, put them in a glass of water with a pinch of baking soda, and put the glass in bright sunlight. Watch for tiny bubbles on the discs over 10–15 minutes. Ask: 'What are the bubbles?' (Oxygen, made by the leaf as it makes food from sunlight, water and carbon dioxide.) Say: 'Every breath you take has oxygen that a plant or a tiny water plant made. Plants are the producers: they make food, and almost every other living thing depends on them.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws1: animals, plants and what they give. Read each question aloud if needed.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "vegetables, fruits, seeds and spices from the kitchen",
+    "a spinach leaf, a straw, a glass of water, baking soda",
+    "bright sunlight",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Who eats whom?",
+   "goal": "Build food chains and a food web, and see what happens when one strand is cut.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Plant-eaters, meat-eaters, both",
+     "mins": 8,
+     "do": "Explain: 'A food chain shows who eats whom. It always starts with a plant, the producer. Animals are consumers.' Sort animals: herbivores (cow, deer, goat, grasshopper, elephant), carnivores (tiger, frog, spider, owl, snake), omnivores (crow, bear, human, hen, monkey). Write one chain: grass → grasshopper → frog → snake → eagle. Ask: 'Why does every chain start with a plant?' (Only plants can make food from sunlight.)"
+    },
+    {
+     "kind": "act",
+     "title": "A string food web",
+     "mins": 12,
+     "do": "Do Activity a2. Write 10 living things from a forest or a garden on cards (grass, neem tree, grasshopper, caterpillar, sparrow, frog, snake, mongoose, owl, mushroom), and lay them in a circle. Join every 'is eaten by' pair with a piece of string or wool. Add the mushroom joined to everything, because decomposers eat all dead things. Then pull one string tight by lifting the frog card: everything joined to it moves. Ask: 'If all the frogs disappeared, who would be hungry? Who would have more to eat?'",
+     "ref": "a2"
+    },
+    {
+     "kind": "game",
+     "title": "Food Web Families",
+     "mins": 12,
+     "do": "Play the card game g1. Each player builds the longest correct food chain they can. Ask for the reason for every arrow.",
+     "ref": "g1"
+    },
+    {
+     "kind": "think",
+     "title": "What if the frogs vanish?",
+     "mins": 5,
+     "do": "Ask: 'If all the frogs were caught and sold, what would happen to the insects? To the snakes? To the farmers' crops?' (More insects, so more crop damage; fewer snakes, or snakes eating other things.) Then: 'Is a human part of a food web? Where?'"
+    },
+    {
+     "kind": "review",
+     "title": "Rotting bottle",
+     "mins": 3,
+     "do": "Look at Experiment e1. Is there mould on the bread or peel now? Explain: 'Mould is a fungus, a decomposer. It is eating the bread.'",
+     "ref": "e1"
+    }
+   ],
+   "need": [
+    "cards, string or wool, tape",
+    "the printed game cards"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The keepers of balance",
+   "goal": "Find out what happens when one creature is taken away: the starfish and the vultures.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "The starfish who held the shore together",
+     "mins": 12,
+     "do": "Talk about voice v1, Robert Paine. Draw the rocky shore: starfish eat mussels; mussels crowd everything else out. Ask before telling: 'What do you think happened when Paine kept pulling the starfish off?' Then tell the result and ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "talk",
+     "title": "Where did the vultures go?",
+     "mins": 12,
+     "do": "Talk about voice v2, the vulture crash, and go back to the story. Ask: 'In the story, how did a medicine for cows reach the vultures?' (The cows were given diclofenac; when they died, vultures ate the meat and the medicine damaged their kidneys.) Ask: 'Why did dogs and rabies increase?' (Without vultures, dead animals lay rotting, and more stray dogs fed on them and multiplied.) Then ask the voice question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "Deer and tigers: a running game",
+     "mins": 10,
+     "do": "Play outside or in a big room. Most players are deer, one is a tiger (a parent can be the tiger with a younger child as deer, then swap). Grass is a few cushions or chalk circles; deer must touch grass to survive a round, the tiger must catch a deer. Caught deer become tigers next round; tigers that catch nothing become grass. Count deer and tigers each round on paper. After six rounds, look at the numbers: they rise and fall, but neither disappears. Ask: 'What would happen with no tigers at all?' (Deer would multiply, eat all the grass, then starve.)"
+    },
+    {
+     "kind": "review",
+     "title": "Decomposers at work",
+     "mins": 6,
+     "do": "Look closely at Experiment e1 with a magnifying glass if you have one. Ask: 'Which things are rotting? Which haven't changed? Who is doing the rotting?' (Bacteria and fungi, tiny decomposers.) Say: 'Decomposers and scavengers like vultures close the loop: they turn dead things back into soil for the plants. In nature, nothing is waste.'",
+     "ref": "e1"
+    }
+   ],
+   "need": [
+    "chalk or cushions for the game",
+    "paper to count",
+    "a magnifying glass (optional)"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Poison that travels",
+   "goal": "See how poison climbs a food chain, and spot pollution in air, water and soil.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "The woman who listened to the birds",
+     "mins": 12,
+     "do": "Talk about voice v3, Rachel Carson. Explain: 'DDT was sprayed to kill insects. Carson showed that it didn't stay where it was sprayed.' Ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "The poison bead game",
+     "mins": 10,
+     "do": "Do Activity a3. Put 1 bead (poison) on each of 20 small paper 'plankton'. Five 'fish' each eat 4 plankton, and collect their beads. Then one 'heron' eats all 5 fish. Count the heron's beads. (20!) Ask: 'Each plankton had only one bead. Why does the heron have so many?' (Poison builds up as it goes up the chain, because each eater eats many of the ones below.) Say: 'This is why the vultures were hurt by a medicine given to cows, and why Carson's birds laid eggs with thin shells.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Pollution spotting walk",
+     "mins": 10,
+     "do": "Walk for 10 minutes and look for pollution of air (smoke from vehicles, burning rubbish, dust), water (dirty drains, foam or rubbish in a stream or pond) and soil (plastic and rubbish on the ground, spilled oil). Your child marks each on a three-column chart. Ask: 'Where does the smoke go? Where does the drain go?' (There is no away: smoke spreads into the air we all breathe; drains go to rivers.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws2: webs, balance and pollution in new places.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "60 small beads, buttons or rajma seeds",
+    "20 paper squares",
+    "a chart for the walk",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Saving soil, forests and water",
+   "goal": "Test how roots hold soil, argue about the wolves, and measure wasted water.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Bare soil or covered soil?",
+     "mins": 15,
+     "do": "Do Experiment e3. Fill two trays or cut cartons with the same soil, tilted on a brick, with a cut opening at the low end over a cup. One tray is bare soil; the other has grass sods, sprouted seeds or a thick layer of leaves. Pour a mug of water from the same height on each like rain. Compare the water in the cups. Ask: 'Which cup is muddy? Where did that mud come from?' (The bare soil washed away: erosion. Roots and leaves hold soil and slow the rain.)",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "Dance: the roots hold on",
+     "mins": 5,
+     "do": "Two or three family members stand close and link arms tightly, like roots holding soil. Your child is the rain and tries gently to pull one person away. Then the 'roots' let go of each other and stand apart, and the rain pulls one away easily. Ask: 'What happens to soil when the trees are cut?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Did the wolves change the rivers?",
+     "mins": 10,
+     "do": "Talk about voice v4, the wolves of Yellowstone. Present both sides fairly and ask the voice question. Tell your child: 'Scientists are still arguing about this. You can decide what evidence would settle it.'",
+     "ref": "v4"
+    },
+    {
+     "kind": "exp",
+     "title": "How much water does brushing take?",
+     "mins": 10,
+     "do": "Do Experiment e4. Put a bucket in the washbasin. Your child brushes their teeth with the tap running the whole time; measure the water in the bucket with a mug. Then brush again (or tomorrow morning) using one mug of water with the tap off. Compare. Multiply the difference by everyone in the family, by two brushings a day, by 365 days.",
+     "ref": "e4"
+    }
+   ],
+   "need": [
+    "two trays or cartons, soil, a brick, two cups",
+    "grass sods, sprouted seeds or leaves",
+    "a bucket and a mug"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The web, taught back",
+   "goal": "Finish the food web mural, try the challenge worksheet, and teach it back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Our food web mural",
+     "mins": 10,
+     "do": "Finish the project: your child adds the last arrows to the food web mural of your own neighbourhood, including decomposers and humans, and colours producers green, herbivores yellow, carnivores red, omnivores orange and decomposers brown. Ask: 'Which creature has the most arrows? What would happen if it disappeared?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws3. The last questions have no single right answer: ask for reasons and evidence.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud. Let your child use the mural, the rotting bottle and the erosion trays to explain."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Your child teaches the family: what a food chain is, what decomposers do, what happened to India's vultures, and one way our family will conserve soil, forests or water. Finish by asking again: 'Is a vulture useful?' and compare with the answer on Day 1."
+    }
+   ],
+   "need": [
+    "the mural",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Animals, plants and their gifts",
+   "day": 3,
+   "sections": [
+    [
+     "A. Animals",
+     [
+      {
+       "t": "sort",
+       "p": "Domestic or wild?",
+       "items": [
+        "cow",
+        "tiger",
+        "hen",
+        "sparrow",
+        "goat",
+        "snake",
+        "camel",
+        "monkey"
+       ],
+       "cats": [
+        "domestic",
+        "wild"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the animal to what people get from it.",
+       "pairs": [
+        [
+         "sheep",
+         "wool"
+        ],
+        [
+         "bee",
+         "honey"
+        ],
+        [
+         "hen",
+         "eggs"
+        ],
+        [
+         "buffalo",
+         "milk"
+        ],
+        [
+         "silkworm",
+         "silk"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A street dog scratches you. What should you do first?",
+       "opts": [
+        "Ignore it",
+        "Tell a grown-up, wash the wound with soap and running water for a long time, and see a doctor",
+        "Put a bandage on and forget it"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Plants",
+     [
+      {
+       "t": "match",
+       "p": "Match the food to the part of the plant.",
+       "pairs": [
+        [
+         "carrot",
+         "root"
+        ],
+        [
+         "potato",
+         "stem"
+        ],
+        [
+         "spinach",
+         "leaf"
+        ],
+        [
+         "cauliflower",
+         "flower"
+        ],
+        [
+         "mango",
+         "fruit"
+        ],
+        [
+         "rajma",
+         "seed"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The bubbles on the spinach discs in sunlight were the gas ____.",
+       "a": [
+        "oxygen"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Plants are called producers because…",
+       "opts": [
+        "they make their own food from sunlight",
+        "they produce noise",
+        "farmers produce them"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Name three things in your home that came from plants and are not food.",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Some people say spiders are useless. What would a spider say? What does it do?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Webs and balance",
+   "day": 6,
+   "sections": [
+    [
+     "A. Chains and webs",
+     [
+      {
+       "t": "sort",
+       "p": "Who eats what?",
+       "items": [
+        "deer",
+        "tiger",
+        "crow",
+        "goat",
+        "owl",
+        "bear",
+        "grasshopper",
+        "human"
+       ],
+       "cats": [
+        "herbivore",
+        "carnivore",
+        "omnivore"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which is a correct food chain?",
+       "opts": [
+        "grass → deer → tiger",
+        "tiger → deer → grass",
+        "deer → grass → tiger"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Living things like mushrooms and earthworms that break dead things down into soil are called ____.",
+       "a": [
+        "decomposers",
+        "decomposer"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Robert Paine kept removing starfish from a rocky shore. What happened?",
+       "opts": [
+        "More kinds of animals lived there",
+        "Mussels took over and many other kinds disappeared",
+        "Nothing changed"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Poison and pollution",
+     [
+      {
+       "t": "mcq",
+       "p": "In the bead game, why did the heron get the most poison?",
+       "opts": [
+        "It ate many fish, which each ate many plankton",
+        "Herons like poison",
+        "It was the biggest"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match the pollution to where it goes.",
+       "pairs": [
+        [
+         "smoke from burning rubbish",
+         "air"
+        ],
+        [
+         "soap and oil down the drain",
+         "water"
+        ],
+        [
+         "plastic bags in a field",
+         "soil"
+        ],
+        [
+         "pesticide sprayed on crops",
+         "soil, water and animals' bodies"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Vultures disappeared from most of India in about fifteen years. Explain, step by step, why that made more stray dogs.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A farmer says, 'Snakes are pests. Kill them all.' What might happen to the rats in his fields? What would you tell him?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Who holds the web?",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Bare soil and covered soil got the same 'rain'. Why was the bare soil's water muddier?",
+       "opts": [
+        "No roots or leaves held the soil, so rain carried it away",
+        "Bare soil is dirtier",
+        "The water was different"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which creature is a keystone species in its habitat?",
+       "opts": [
+        "a starfish that keeps mussels from taking over a shore",
+        "a single ant in a big colony",
+        "a stone"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The medicine that killed India's vultures was called ____.",
+       "a": [
+        "diclofenac"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Scientists who studied the Yellowstone wolves…",
+       "opts": [
+        "all agree the wolves saved the rivers",
+        "still argue about how much the wolves changed the plants and rivers",
+        "found the wolves had no effect on anything"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Settled by evidence, or still argued about?",
+       "items": [
+        "poison can build up along a food chain",
+        "how much the wolves changed Yellowstone's rivers",
+        "removing starfish let mussels take over Paine's shore",
+        "plants give out oxygen in sunlight"
+       ],
+       "cats": [
+        "settled",
+        "still argued about"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Weigh it up",
+     [
+      {
+       "t": "write",
+       "p": "Which animal is the most useful? Now say who it is useful to. Is 'useful' a fair way to judge an animal? Give reasons.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Is a human part of a food web? Draw or write where you would put yourself, and what eats you in the end.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "How could you test, in your own garden or balcony, whether leaving the dead leaves on the ground helps living things? What would you count?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The rotting bottle",
+   "day": 1,
+   "question": "What breaks down dead things, and what can't it break down?",
+   "need": [
+    "a clear bottle or jar",
+    "damp soil",
+    "a piece of bread",
+    "a slice of fruit or vegetable peel",
+    "a dry leaf",
+    "a small piece of plastic",
+    "a cloth and a rubber band"
+   ],
+   "steps": [
+    "Put a layer of damp soil in the jar.",
+    "Press the bread, peel, leaf and plastic against the side so they show.",
+    "Cover with a cloth and a rubber band.",
+    "Keep it in a shady spot.",
+    "Look every two days for 10 days and draw what you see.",
+    "Do not open it; throw it away sealed at the end."
+   ],
+   "predict": "Ask: 'Which will change first? Which won't change at all?'",
+   "observe": "Fuzzy mould grows on the bread and peel within days; the peel goes soft and dark; the leaf slowly breaks; the plastic stays the same.",
+   "why": "Mould is a fungus; with bacteria, it feeds on dead plant and animal matter and breaks it into simple materials that become soil. These decomposers, along with scavengers like vultures and crows, close the loop of every food web, returning what living things borrowed. They cannot digest plastic.",
+   "safety": "Keep the jar closed; don't sniff or touch the mould. Throw it away sealed and wash hands.",
+   "time": "7 min + 10 days of checking"
+  },
+  {
+   "id": "e2",
+   "title": "Bubbles from a leaf",
+   "day": 3,
+   "question": "Do leaves give out oxygen in sunlight?",
+   "need": [
+    "a fresh spinach leaf",
+    "a drinking straw",
+    "a clear glass of water",
+    "a pinch of baking soda",
+    "bright sunlight"
+   ],
+   "steps": [
+    "Stir a pinch of baking soda into the water (it gives the leaf carbon dioxide).",
+    "Push the straw through the leaf to cut 8–10 small discs.",
+    "Drop the discs into the glass.",
+    "Put the glass in bright sun.",
+    "Watch for 15 minutes with a magnifying glass if you have one.",
+    "Put a second glass in a dark cupboard and compare."
+   ],
+   "predict": "Ask: 'Will anything happen to the leaf discs? Will the dark glass be different?'",
+   "observe": "Tiny bubbles form on the discs in sunlight, and some discs may float up. Fewer or none form in the dark.",
+   "why": "In light, a leaf uses water and carbon dioxide to make sugar (its food) and gives out oxygen. This is photosynthesis. The oxygen collects as bubbles. Almost every food chain on Earth begins with this.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "Bare soil or covered soil?",
+   "day": 7,
+   "question": "Do plants and leaves protect soil from rain?",
+   "need": [
+    "two trays or cut cartons",
+    "the same soil for both",
+    "grass sods, sprouted seeds or a thick layer of leaves",
+    "a brick",
+    "two clear cups",
+    "a mug of water"
+   ],
+   "steps": [
+    "Fill both trays with soil and cut a small opening at one end.",
+    "Cover one with grass, seedlings or leaves; leave the other bare.",
+    "Tilt both on the brick with the opening over a cup.",
+    "Pour one mug of water slowly from the same height on each.",
+    "Compare the water collected in the cups."
+   ],
+   "predict": "Ask: 'Which cup will be muddier?'",
+   "observe": "The bare tray's water is brown and full of soil; the covered tray's water is much clearer and there is less of it.",
+   "why": "Raindrops hit bare soil hard and loosen it, and running water carries it away: erosion. Roots bind soil and leaves break the fall of the rain, so more water soaks in and less soil is lost. Good topsoil takes hundreds of years to form and can wash away in one season.",
+   "safety": "Do it outside; wash hands after.",
+   "time": "15 min"
+  },
+  {
+   "id": "e4",
+   "title": "How much water does brushing take?",
+   "day": 7,
+   "question": "How much water do we save by closing the tap while brushing?",
+   "need": [
+    "a bucket",
+    "a mug",
+    "a toothbrush"
+   ],
+   "steps": [
+    "Put the bucket in the washbasin.",
+    "Brush with the tap running all the time.",
+    "Measure the water with the mug.",
+    "Brush again using one mug and the tap closed.",
+    "Work out the difference for the family for a year."
+   ],
+   "predict": "Ask: 'How many mugs will run out while you brush?'",
+   "observe": "A running tap fills many mugs in two minutes; one mug is enough to brush.",
+   "why": "A tap can run several litres a minute. Small habits, repeated by many people every day, add up to huge amounts of water that came from rivers and groundwater shared with every living thing.",
+   "safety": "",
+   "time": "10 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Breakfast gift sort",
+   "day": 1,
+   "mins": 10,
+   "need": [
+    "the breakfast table and kitchen shelf",
+    "paper"
+   ],
+   "steps": [
+    "Make three columns: from animals, from plants, from neither.",
+    "Sort every food and thing you can see.",
+    "Count each column.",
+    "Add one thing we could give back to animals or plants."
+   ],
+   "outcome": "A list showing how much of our life comes from other living things."
+  },
+  {
+   "id": "a2",
+   "title": "A string food web",
+   "day": 4,
+   "mins": 12,
+   "need": [
+    "10 cards",
+    "string or wool",
+    "tape"
+   ],
+   "steps": [
+    "Write one living thing on each card.",
+    "Lay the cards in a circle.",
+    "Tape string from each eaten thing to its eater.",
+    "Join a mushroom card to everything as the decomposer.",
+    "Lift one card and see what moves."
+   ],
+   "outcome": "A web that shows how every living thing is tied to many others."
+  },
+  {
+   "id": "a3",
+   "title": "The poison bead game",
+   "day": 6,
+   "mins": 10,
+   "need": [
+    "20 paper squares",
+    "20 beads or rajma seeds"
+   ],
+   "steps": [
+    "Put one bead on each paper 'plankton'.",
+    "Five 'fish' each take four plankton and their beads.",
+    "One 'heron' takes all five fish's beads.",
+    "Count the beads at each level and draw a pyramid."
+   ],
+   "outcome": "A clear picture of how poison builds up along a food chain."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Robert Paine (1933–2016), ecologist, USA",
+   "idea": "Starting in 1963, on the rocky shore of Makah Bay in Washington State, Paine kept pulling purple starfish off one stretch of rock and throwing them back into the sea, while leaving a nearby stretch alone. Without the starfish to eat them, mussels spread and crowded out almost everything else: the number of kinds of creatures on his stretch fell from 15 to 8 within a few years. He called creatures like this starfish 'keystone species', after the stone at the top of an arch that holds the rest in place.",
+   "then": "Many ecologists at the time thought that the plants at the bottom of a food chain mattered most, and that predators at the top were not very important.",
+   "now": "Accepted. Keystone species have been found in many habitats, such as sea otters in kelp forests. Paine's way of testing, removing one creature and watching, is used all over the world.",
+   "status": "accepted",
+   "ask": "Paine kept a stretch of shore where he didn't remove the starfish. Why was that important for his test?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "Vibhu Prakash and the scientists who solved India's vulture crash (1990s–2000s)",
+   "idea": "In the 1990s Vibhu Prakash of the Bombay Natural History Society noticed that vultures in Keoladeo National Park, Bharatpur, were dying. Surveys showed that India's white-rumped vultures, once among the commonest big birds in the world, fell by more than 95% in about 15 years. In 2004 a team led by Lindsay Oaks, working in Pakistan, found the cause: diclofenac, a painkiller given to sick cattle. Vultures that ate the carcasses of treated cattle died of kidney failure.",
+   "then": "At first some people blamed a disease. Finding the real cause took years of careful testing of dead birds.",
+   "now": "Accepted. India banned diclofenac for animals in 2006. Breeding centres such as the one at Pinjore in Haryana are raising vultures to release, but numbers are still a tiny part of what they were, and other harmful animal painkillers are still being found.",
+   "status": "accepted",
+   "ask": "The medicine was meant to help cows. How could the people who made it have found out it might harm vultures? Whose job should it be to check?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Rachel Carson (1907–1964), marine biologist and writer, USA",
+   "idea": "In her book 'Silent Spring' (1962) Carson gathered evidence that pesticides such as DDT, sprayed on farms and towns to kill insects, did not stay where they were sprayed. They washed into rivers and built up in the bodies of fish and birds. Birds of prey laid eggs with shells so thin they broke. She imagined a spring with no birdsong.",
+   "then": "Chemical companies spent large sums attacking her and called her hysterical and unscientific. She was ill with cancer while she defended her work in front of the US Congress.",
+   "now": "Accepted. The USA banned DDT for farm use in 1972, and birds like the bald eagle recovered. DDT is still allowed in a few countries, including India, only to kill malaria-carrying mosquitoes, and experts still debate when that is worth it.",
+   "status": "accepted",
+   "ask": "The companies who made DDT said it was safe. Carson said it wasn't. If you were a judge, what evidence would you ask each side to show?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "The wolves of Yellowstone: William Ripple and Robert Beschta, and their critics (USA, 1995 onwards)",
+   "idea": "Wolves were brought back to Yellowstone National Park in 1995–96, about 70 years after they had been killed off there. Ripple and Beschta argued that the wolves made the elk move around more and graze less by the rivers, so willows and aspen trees grew back, beavers returned, and even the riverbanks changed shape. This chain of effects is called a trophic cascade.",
+   "then": "The story became hugely popular, with videos saying 'wolves changed rivers'.",
+   "now": "Debated. Other scientists, such as Arthur Middleton and Matthew Kauffman, found that elk were not as scared of wolves as claimed, and that hunting by people, bears and cougars, dry years, and the loss of beavers mattered too. Most agree the wolves had some effect; how big it was is still argued.",
+   "status": "debated",
+   "ask": "Why do people love a story where one hero animal fixes everything? What evidence would you need to be sure it was the wolves?",
+   "day": 7
+  }
+ ],
+ "project": {
+  "title": "Our neighbourhood food web mural",
+  "days": [
+   4,
+   7,
+   8
+  ],
+  "steps": [
+   "On a big sheet, draw every living thing you have seen near your home this week: plants, insects, birds, animals, fungi, people.",
+   "Draw an arrow from each living thing to the one that eats it.",
+   "Add decomposers (mould, mushrooms, earthworms) and join them to everything that dies.",
+   "Colour producers green, herbivores yellow, carnivores red, omnivores orange and decomposers brown.",
+   "Find the creature with the most arrows and write what would happen if it disappeared.",
+   "Put yourself somewhere in the web and explain where."
+  ],
+  "outcome": "A wall mural of your own neighbourhood's food web."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Food Web Families",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out"
+  ],
+  "rules": [
+   "Shuffle the cards and deal 5 to each player. Put the rest face down.",
+   "On your turn, take one card from the pile.",
+   "Lay down a food chain of at least 3 cards in the right order (producer first) and say why each one eats the next.",
+   "A chain scores 1 point per card. Adding a decomposer at the end scores 2 extra points.",
+   "If you can't make a chain, keep collecting. When the pile is empty, the most points wins.",
+   "Bonus round: lay all the chains together and find where they join into a web."
+  ],
+  "cards": [
+   {
+    "front": "Grass",
+    "back": "Producer. Eaten by deer, cows, grasshoppers."
+   },
+   {
+    "front": "Neem tree",
+    "back": "Producer. Leaves eaten by caterpillars and goats."
+   },
+   {
+    "front": "Algae in a pond",
+    "back": "Producer. Eaten by tadpoles and tiny water animals."
+   },
+   {
+    "front": "Mango tree",
+    "back": "Producer. Fruit eaten by parakeets, monkeys, bats, people."
+   },
+   {
+    "front": "Rice plant",
+    "back": "Producer. Eaten by rats, insects, people."
+   },
+   {
+    "front": "Grasshopper",
+    "back": "Herbivore. Eaten by frogs, birds, lizards."
+   },
+   {
+    "front": "Caterpillar",
+    "back": "Herbivore. Eaten by sparrows and wasps."
+   },
+   {
+    "front": "Deer",
+    "back": "Herbivore. Eaten by tigers, leopards, wild dogs."
+   },
+   {
+    "front": "Rat",
+    "back": "Omnivore. Eaten by snakes, owls, cats."
+   },
+   {
+    "front": "Tadpole",
+    "back": "Herbivore. Eaten by fish and water beetles."
+   },
+   {
+    "front": "Frog",
+    "back": "Carnivore. Eaten by snakes, herons."
+   },
+   {
+    "front": "Sparrow",
+    "back": "Omnivore. Eaten by hawks, cats."
+   },
+   {
+    "front": "Small fish",
+    "back": "Omnivore. Eaten by kingfishers, herons, bigger fish."
+   },
+   {
+    "front": "Snake",
+    "back": "Carnivore. Eaten by mongooses and eagles."
+   },
+   {
+    "front": "Owl",
+    "back": "Carnivore. Eats rats and mice."
+   },
+   {
+    "front": "Kingfisher",
+    "back": "Carnivore. Eats fish and tadpoles."
+   },
+   {
+    "front": "Tiger",
+    "back": "Carnivore. Top predator; when it dies, eaten by vultures and decomposers."
+   },
+   {
+    "front": "Mongoose",
+    "back": "Carnivore. Eats snakes, rats, insects."
+   },
+   {
+    "front": "Monkey",
+    "back": "Omnivore. Eats fruit, leaves, insects."
+   },
+   {
+    "front": "Human",
+    "back": "Omnivore. Eats plants and animals; eaten in the end by decomposers."
+   },
+   {
+    "front": "Vulture",
+    "back": "Scavenger. Eats dead animals and keeps the land clean."
+   },
+   {
+    "front": "Crow",
+    "back": "Omnivore and scavenger. Eats almost anything."
+   },
+   {
+    "front": "Mushroom",
+    "back": "Decomposer. Breaks down dead wood and leaves."
+   },
+   {
+    "front": "Earthworm",
+    "back": "Decomposer. Turns dead leaves into soil."
+   }
+  ]
+ },
+ "story": {
+  "title": "The Cleaners of the Sky",
+  "text": [
+   "I am an old vulture now, and I live in a very large cage at Pinjore, at the foot of the hills in Haryana. The cage is as tall as a tree and as long as a cricket ground, with branches to sit on and a pool to drink from. The people who look after me are kind. They feed me clean meat and weigh my eggs and write numbers in a book. But I remember the sky.",
+   "When I was young, the sky over Rajasthan was full of us. You could look up on any hot afternoon and see a hundred of us turning on the warm air, round and round, so high that we were only dots, with our wings spread wide and never once flapping. We are white-rumped vultures. People thought we were ugly, with our bare grey heads and our long necks. They thought we were dirty, because of what we eat. But we were the cleaners of the sky.",
+   "Here is what we did. When a cow or a buffalo or a camel died, out in the fields or by the road, the people dragged it to the edge of the village. A family there, the leather workers, took the skin to make shoes and drums. Then they stepped back and looked up. And we came. We came down out of the sky like a slow brown rain, dozens of us, and in less than an hour there was nothing left but clean white bones in the sun. The leather workers and the vultures. We were partners, though nobody ever called it that.",
+   "A boy called Kishan, whose father was one of those leather workers, used to sit on the wall and watch us. He was not afraid. He gave us names. He called me Badi Amma, because I was the biggest. 'You eat so fast,' he said to me once, 'that the flies don't even get a chance.' I think that was the nicest thing anyone ever said to a vulture.",
+   "Then something began to go wrong, and none of us understood it.",
+   "One of my sisters sat down on a branch one morning, with her head hanging low, and did not fly. In a few days she was dead. Then another. Then a whole tree of us near the village, where we had nested for as long as anyone remembered, went silent. Each year there were fewer dots in the sky. The ones who lived laid eggs, but often no chicks hatched. I flew further and further looking for my kind, and found fewer and fewer.",
+   "Kishan noticed. He was older now, nearly twelve. 'Abba,' I heard him say, 'where have the gidh gone?'",
+   "Without us, the dead animals lay at the edge of the village for days, and then weeks. The smell was terrible. The flies came in clouds. And the dogs came. Stray dogs had always been around, but now there was so much food for them that they had more and more puppies. Soon there were packs of them, thin and quick and quarrelsome, at the dump and in the lanes. Kishan's little sister, Pinky, was bitten on the leg by one of them while she was carrying water. She had to have a whole set of injections in the hospital in town, against rabies, and she cried every time. She was all right in the end. But Kishan sat on the wall that evening for a long time, looking at the empty sky.",
+   "It took the scientists years to find out what was killing us. They counted our nests in Bharatpur and found us vanishing. They cut open the bodies of dead vultures and found our kidneys had failed. At last they found the answer, and it was the strangest thing. It was a medicine. Farmers had begun giving their sick cows a painkiller called diclofenac, to help them stand and work when they were old or hurt. It was a kind thing to do for a cow. But when a cow died with the medicine still inside her, and we ate her, the medicine stayed inside us too. For a cow it was a little help. For a vulture, it was poison. A tiny bit, in every meal, from every carcass, and our bodies could not get rid of it.",
+   "Nobody had meant to hurt us. That was the hardest part to understand. Nobody had even thought about us at all.",
+   "I was one of the last ones they caught, out near Bikaner, a few of us still alive. They brought us here to Pinjore, to keep us safe and to try to raise chicks who might, one day, fly free over a cleaner land. The medicine is banned for animals now. Things are slowly changing.",
+   "Last spring, after many years, an egg of mine hatched. The chick is ugly, as all vulture chicks are, grey and fluffy and cross. I feed her and keep her warm. Sometimes, on a hot afternoon, I spread my wings in the cage, and she watches me, puzzled. I am showing her the shape of the sky.",
+   "I do not know if she will ever see it full of us again. But I know what we were for. We were not beautiful and we were not loved. We were the end of every story, the ones who came last and made everything clean, so that it could all begin again."
+  ],
+  "epiphany": "The old vulture, a creature people call ugly and dirty, shows the child a food web from its least-loved strand. The turn comes when the vultures vanish: carcasses rot, dogs multiply, and Kishan's sister is bitten. The hidden ideas: scavengers and decomposers close the loop of every food web; removing one creature changes everything else; and a poison (a medicine for cows) can travel up a food chain and harm animals no one was thinking about. The quiet lenses: the leather workers and the vultures, both doing the 'dirty' work that kept the village clean, and both rarely thanked; and the question of who is 'useful'.",
+  "ask": [
+   "What job did the vultures do? Who else did that job with them?",
+   "Why did the dogs and the sickness come when the vultures went?",
+   "How did a medicine meant to help cows harm the vultures?",
+   "'Nobody had even thought about us at all.' What does the vulture mean?",
+   "Was Badi Amma useful? Was she beautiful? Does it matter?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Everything eats and is eaten, and everything is joined.",
+   "more": "Food chains always start with plants, the producers, and end with decomposers who turn the dead back into soil. Joined together, they make a food web. Tug one strand (the string web) and everything moves."
+  },
+  {
+   "idea": "In nature, nothing is waste.",
+   "more": "Scavengers and decomposers close the loop: the rotting bottle shows mould and bacteria eating what has died. When they disappear, like India's vultures, the loop breaks and problems spread."
+  },
+  {
+   "idea": "One small creature can hold a whole habitat together.",
+   "more": "Paine's starfish, India's vultures and perhaps Yellowstone's wolves show that taking away one kind of creature can change many others, sometimes in ways no one predicted."
+  },
+  {
+   "idea": "Poison doesn't stay where you put it.",
+   "more": "It travels through soil, water and food chains, and builds up in the animals at the top. The bead game makes this visible."
+  }
+ ],
+ "unknowns": [
+  "How many kinds of creatures can a food web lose before it falls apart? Ecologists still argue about this, and the answer seems to be different in every habitat.",
+  "Will India's vultures come back? Breeding centres have raised hundreds of birds, but nobody knows yet whether released vultures can survive and multiply, because other harmful painkillers are still being given to cattle.",
+  "How much did the wolves really change Yellowstone? Scientists are still collecting evidence and disagree."
+ ],
+ "big": [
+  "Which animal is the most useful? Useful to whom?",
+  "Is a human part of the food web, or outside it?",
+  "If a vulture, a tiger and a cow could vote on how we farm, what would each one say?",
+  "Is it ever right to remove one kind of animal from a place to save another?",
+  "What do we give back to the plants and animals that give us everything?"
+ ],
+ "challenge": [
+  {
+   "q": "'Vultures are dirty, useless birds.'",
+   "hint": "Vultures clean up dead animals quickly, before germs spread and before stray dogs and rats multiply. When India lost almost all its vultures, rotting carcasses and dogs increased, and so did rabies. Ask: why do we find some animals beautiful and others ugly? Does nature care?"
+  },
+  {
+   "q": "'Survival of the fittest means the strongest animal always wins.'",
+   "hint": "Nature runs on cooperation as well as competition. Bees and flowers help each other; fungi and tree roots swap food; the vultures and the leather workers did one job together. 'Fittest' in science means best suited to a place, not strongest. Ask: can you find three living things near you that help each other?"
+  },
+  {
+   "q": "'If we leave nature alone, it stays in perfect balance and never changes.'",
+   "hint": "Nature is always changing: numbers of deer and tigers go up and down (the running game), forests grow back after fires, rivers move. 'Balance' means it keeps adjusting, not that it stays still. But humans can push changes much faster than nature can adjust. Ask: what is the difference between change and damage?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A family of leather workers",
+   "view": "For generations, leather workers took the skins of dead cattle, worked alongside the vultures, and kept villages clean, yet they were often treated badly for doing it. Ask: why are the people who do the most necessary 'dirty' work often the least respected?"
+  },
+  {
+   "who": "The Parsi community of Mumbai",
+   "view": "By tradition, Parsis lay their dead in Towers of Silence, where vultures returned the bodies to nature. When the vultures disappeared, the community had to search for new ways to keep their tradition. Ask: how does losing one bird change people's lives in ways you'd never guess?"
+  },
+  {
+   "who": "A farmer spraying pesticide",
+   "view": "Insects can destroy a whole crop and a family's income. Spraying helps this year, but can kill the frogs, birds and spiders that eat pests for free. Ask: what would help the farmer and the frogs at the same time?"
+  },
+  {
+   "who": "An earthworm",
+   "view": "Charles Darwin spent years studying earthworms and wrote that few animals have played such an important part in the history of the world. They drag leaves underground and turn them into soil. Ask: if earthworms could talk, what would they say about the swept, bare garden?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Who Eats What? Food Chains and Food Webs",
+   "author": "Patricia Lauber",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Clear pictures of chains and webs on land and sea, including what happens when one link goes."
+  },
+  {
+   "title": "The Great Kapok Tree",
+   "author": "Lynne Cherry",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A man falls asleep while trying to cut down a rainforest tree, and the animals who live in it whisper to him why it matters."
+  },
+  {
+   "title": "Rachel Carson and Her Book That Changed the World",
+   "author": "Laurie Lawlor",
+   "for": "read together",
+   "age": "6–10",
+   "why": "Carson's life and the courage it took to publish 'Silent Spring'. Read it on Day 6."
+  },
+  {
+   "title": "Silent Spring",
+   "author": "Rachel Carson",
+   "for": "parent reads",
+   "age": "adult book; read the first chapter, 'A Fable for Tomorrow', aloud",
+   "why": "The famous opening imagines a town where the birds have gone quiet. A good way into the poison bead game."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name three things we get from animals and three from plants.",
+   "a": "For example, milk, wool, honey; rice, cotton, wood."
+  },
+  {
+   "q": "What should you do if an animal bites or scratches you?",
+   "a": "Tell a grown-up, wash the wound with soap and running water for a long time, and see a doctor the same day."
+  },
+  {
+   "q": "Why are plants called producers?",
+   "a": "They make their own food from sunlight, water and carbon dioxide, and give out oxygen."
+  },
+  {
+   "q": "Give a food chain with a herbivore and a carnivore in it.",
+   "a": "For example, grass → deer → tiger, or grass → grasshopper → frog → snake."
+  },
+  {
+   "q": "What do decomposers and scavengers do?",
+   "a": "They break down or eat dead things and return them to the soil, closing the loop."
+  },
+  {
+   "q": "What happened when India's vultures disappeared, and why did they disappear?",
+   "a": "A cattle painkiller, diclofenac, poisoned them; carcasses rotted, stray dogs and rabies increased."
+  },
+  {
+   "q": "How do trees and grass protect soil?",
+   "a": "Their roots hold the soil and their leaves soften the rain, so less soil washes away."
+  }
+ ]
+}
