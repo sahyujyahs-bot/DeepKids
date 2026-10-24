@@ -65,7 +65,11 @@ export async function onRequestPost(context) {
 
     const delivered = {
       recorded: ok(db), sheet: ok(sheet), email: ok(mail),
-      whatsapp_customer: ok(waCustomer), whatsapp_seller: ok(waSeller)
+      whatsapp_customer: ok(waCustomer),
+      /* Told apart on purpose: "off" means no seller number is set, and
+         is not a failure. Reporting that as false once already sent
+         someone hunting for a broken send that was never attempted. */
+      whatsapp_seller: env.SELLER_WHATSAPP ? ok(waSeller) : 'off'
     };
     return json({ success: true, ref, status, total: priced.total, delivered });
   } catch (err) {
@@ -152,6 +156,11 @@ async function emailSeller(env, o) {
 // carries the two things worth waking up for: who ordered, and the
 // reference to look up. A template written for the seller would be
 // better and needs Meta's approval first.
+//
+// SELLER_WHATSAPP has to be the seller's own number, not the business
+// number the WhatsApp API sends FROM — Meta will not deliver a message
+// from a number to itself. The number in EG_WA_NUMBER across the site
+// is the business one, so it cannot stand in for this.
 
 async function sendTemplate(env, phone, params) {
   const token = env.WHATSAPP_ACCESS_TOKEN;
