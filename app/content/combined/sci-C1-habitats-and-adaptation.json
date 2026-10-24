@@ -1,0 +1,204 @@
+{
+ "key": "combined|sci|1|habitats-and-adaptation",
+ "board": "combined", "subj": "sci", "level": 1, "n": "habitats-and-adaptation",
+ "title": "Everybody lives somewhere: homes near our home",
+ "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology, Unit 1.2 'Local environments' (where plants and animals live near us, and why). No textbook needed.",
+ "summary": "Your child discovers that the house, the balcony, the gate and the patch of ground outside are full of homes: under stones, inside bark, in a crack in the wall, in a puddle. They find out that each living thing lives where it can get food, water and shelter, test which places tiny animals choose, compare a sunny and a shady patch, and meet the big idea that every place is somebody's home, including the places we call empty.",
+ "builds_on": "This is the first rung. It grows from the Class 1 'living and non-living' idea that living things need food, water and air. Next: Class 2 learns the word habitat properly and how plants and animals are suited to ponds, deserts and snow; Class 3 looks at how plants and animals share one place; Classes 4 and 5 travel to India's deserts, mountains, coasts and forests and learn about adaptation.",
+ "goals": [
+  "By the end your child can name five places near home where animals or plants live, and say what each place gives them.",
+  "By the end your child can say that living things live where they find food, water and shelter.",
+  "By the end your child can predict and test whether small animals like a dark, damp place or a bright, dry one.",
+  "By the end your child can compare a sunny place and a shady place and say which has more plants.",
+  "By the end your child can explain why we put stones and logs back the way we found them.",
+  "By the end your child can name a scientist who learned by watching small animals in her own garden or his own garden."
+ ],
+ "words": [
+  ["environment", "everything around a living thing: the ground, the air, the water, the light and the other living things"],
+  ["local", "near where we live"],
+  ["home", "the place where an animal or plant lives and stays safe"],
+  ["habitat", "a scientist's word for a home that gives a living thing what it needs"],
+  ["shelter", "a safe place out of the sun, the rain or the eyes of hungry animals"],
+  ["damp", "a little bit wet"],
+  ["shady", "out of the sunlight"],
+  ["minibeast", "a small animal without a backbone, like an ant, a snail, a worm or a woodlouse"],
+  ["nocturnal", "awake at night and asleep in the day"]
+ ],
+ "subconcepts": [
+  "the environment is everything around a living thing",
+  "a home (habitat) gives food, water and shelter",
+  "living things live where their needs are met",
+  "under a stone: a dark, damp small home",
+  "one tree is home to many living things",
+  "plants grow where light and water suit them",
+  "animals that share our house",
+  "comparing two local places fairly",
+  "day animals and night animals",
+  "local places change with the seasons and the rain",
+  "being a gentle visitor: look, then put it back",
+  "every place is somebody's home"
+ ],
+ "day_mins": 30,
+ "days": [
+  {"n": 1, "title": "Who else lives in our house?", "goal": "Notice that our home is also home to many other living things.",
+   "steps": [
+    {"kind": "warmup", "title": "Is anyone else here?", "mins": 5, "do": "Sit together and ask: 'Who lives in our house?' Your child will name the family. Then ask, in a whisper: 'Is anyone ELSE living here? Someone who never pays rent?' Let them think. Good answers: ants, a spider, a gecko on the wall, mosquitoes, a pigeon on the window ledge, a money plant, mould on old bread. Say: 'Our house is a home for lots of living things, not just us.'"},
+    {"kind": "do", "title": "The secret-neighbours hunt", "mins": 15, "do": "Walk slowly through every room with a torch and a notebook. Look in corners, behind the fridge (not touching wires), under the sink, on the window grill, in the balcony pots, near the bathroom drain. Each time you find a living thing or a sign of one (a web, an ant line, droppings, a nest, chewed leaves), your child draws a small picture and you write where it was. At each one ask: 'Why do you think it lives HERE?' Help them reach: food (ants near the sugar), water (the drain), shelter (the dark corner). Aim for at least six finds."},
+    {"kind": "talk", "title": "What does every home give?", "mins": 6, "do": "Look at the list. Ask: 'What does OUR home give us?' (food, water, a roof, a safe bed). 'What does the corner under the sink give the spider?' (shelter, insects to eat, quiet). Say the new word: environment means everything around a living thing. Then hold up three fingers and say together: 'Food, water, shelter.' Tell them every living thing looks for these three."},
+    {"kind": "review", "title": "Draw a secret neighbour", "mins": 4, "do": "Your child chooses one secret neighbour and draws it in its home, with its food and water nearby. Write the label your child dictates, for example: 'The gecko lives behind the tube light. It eats insects that come to the light.'"}
+   ], "need": ["a torch", "a notebook and pencils"]},
+  {"n": 2, "title": "The world under a stone", "goal": "Discover a dark, damp home and test what small animals choose.",
+   "steps": [
+    {"kind": "read", "title": "Story: The Underneath", "mins": 8, "do": "Read the story 'The Underneath' aloud (it is in this pack). It is told by a woodlouse. Don't explain it. Ask the story questions, especially: 'Why did the woodlice run into the corner of Meher's beautiful box?' Listen to their answer; you will test it today."},
+    {"kind": "outdoor", "title": "Lift and look", "mins": 10, "do": "Go outside to a garden, a building compound or a park edge. Find 3 stones, bricks, flowerpots or logs. A grown-up lifts each one slowly, towards you (so anything underneath can't sting the child, and so it is easy to put back). Look first without touching. Ask: 'Is it dark or light under here? Wet or dry? Warm or cool? Who lives here?' You might see woodlice (small grey armoured animals that roll into a ball), ants and their white eggs, earthworms, centipedes, beetles, snails, roots. Gently scoop two or three woodlice or ants onto a leaf for the test. Then put each stone back EXACTLY as it was. Say: 'We were visitors in their house. Visitors close the door.'"},
+    {"kind": "exp", "title": "Dark and damp, or bright and dry?", "mins": 10, "do": "Do Experiment e1. Your child predicts first: 'Will the minibeasts go to the dark, damp side or the bright, dry side?' Put them in the middle and wait 5 minutes without poking. Count where they are. Ask: 'Why do you think they chose that side?' (Woodlice dry out quickly in sun and dry air; under a stone they stay moist and hidden.) Then take them back and put them under their own stone.", "ref": "e1"},
+    {"kind": "review", "title": "One sentence", "mins": 2, "do": "Your child finishes the sentence aloud: 'Under a stone is a good home for a woodlouse because…' Good answers: it is dark, it is damp, it is safe from birds, there are rotting leaves to eat."}
+   ], "need": ["a shallow tray or shoebox lid", "a piece of dark cloth or card", "a damp tissue and a dry tissue", "a leaf", "a watch or phone timer"]},
+  {"n": 3, "title": "A tree is a town", "goal": "See that one tree gives homes to many living things, top to bottom.",
+   "steps": [
+    {"kind": "warmup", "title": "Recall the stone", "mins": 3, "do": "Ask: 'What lived under the stone? Why did they like it there?' (dark, damp, safe, food). Then ask: 'If a stone can be a home, what about a whole tree?'"},
+    {"kind": "outdoor", "title": "Tree survey, roots to top", "mins": 15, "do": "Choose one big tree near you: neem, peepal, banyan, mango, gulmohar or any tree. Look in four places and use Worksheet ws1, Section A. 1) The roots and the ground: ants, worms, fallen leaves, mushrooms. 2) The bark: run your fingers over the cracks; look for ant lines, spiders, beetles, moss, lichen (crusty grey-green patches). 3) The leaves: holes chewed by caterpillars, tiny insects, webs. 4) The branches and top: use your ears too: birds (crows, mynas, bulbuls, parakeets), squirrels, a nest, a hole. Ask at each level: 'What does this part of the tree give this animal: food, water, shelter or all three?'", "ref": "ws1"},
+    {"kind": "talk", "title": "Maria Sibylla Merian and the caterpillar's plant", "mins": 8, "do": "Tell your child about voice v1: over 300 years ago, Maria Sibylla Merian, a painter, kept caterpillars at home and noticed each kind ate only certain leaves. She painted every insect on its own plant, because the plant was its home and its food. Many grown-up scientists then thought insects just appeared out of mud and rotting meat. She watched carefully and showed they came from eggs. Ask the voice question.", "ref": "v1"},
+    {"kind": "review", "title": "How many homes?", "mins": 4, "do": "Count together how many different living things you found on or under ONE tree. Write the number big. Ask: 'If someone cut this tree down, how many homes would go?' Let your child answer honestly; don't push a feeling."}
+   ], "need": ["Worksheet ws1", "a magnifying glass if you have one"]},
+  {"n": 4, "title": "Sunny place, shady place", "goal": "Compare two places fairly and see how light and water decide where plants grow.",
+   "steps": [
+    {"kind": "warmup", "title": "Where would you sit?", "mins": 3, "do": "Ask: 'On a hot afternoon, would you rather sit in the sun or the shade? What about a cat? A lizard in the morning?' (Lizards bask in morning sun to warm up because their bodies don't make much heat of their own.) Say: 'Different living things like different places.'"},
+    {"kind": "act", "title": "Two-patch plant count", "mins": 15, "do": "Do Activity a1. Find one sunny patch and one shady patch of ground (under a tree, beside a wall). Make each a square the same size with 4 sticks and string (about one big step on each side). Count the plants in each, and look at how they look: tall or short, green or pale, many or few. Feel the soil: dry or damp? Your child colours one box on the tally for each plant. Ask: 'Why did we make both squares the same size?' (So the test is fair. A big square would win just by being big.)", "ref": "a1"},
+    {"kind": "ws", "title": "Core worksheet", "mins": 10, "do": "Do Worksheet ws1, Sections B and C, together. Read each question aloud. For the 'why' questions, your child says the answer and you write it down in their words.", "ref": "ws1"},
+    {"kind": "review", "title": "What did the plants tell us?", "mins": 2, "do": "Ask: 'Did one patch have more plants? Why might that be?' Accept any reason with evidence: more light, more rain reaching the ground, fewer feet stepping on it. Say: 'Plants can't walk to a better place. They grow where the seed landed and the place suited them.'"}
+   ], "need": ["8 sticks and some string", "Worksheet ws1", "crayons"]},
+  {"n": 5, "title": "Night animals and rainy days", "goal": "Notice that places change between day and night, and between dry days and rainy days.",
+   "steps": [
+    {"kind": "warmup", "title": "Who comes out at night?", "mins": 4, "do": "Ask: 'When we sleep, is the world asleep too?' Let them guess. Name night animals they may know: bats, owls, geckos, moths, crickets, cockroaches, frogs in the monsoon, jackals in some cities. Say the word nocturnal: awake at night."},
+    {"kind": "outdoor", "title": "A five-minute night listen", "mins": 7, "do": "Just after dark, go to a balcony, terrace or garden with the torch OFF. Sit very still for 5 minutes and listen. Count sounds on your fingers: crickets chirping, a frog, an owl hoot, bats squeaking (children can sometimes hear them!), a koel, the gecko's 'tik-tik-tik'. Then switch the torch on and look at the lamp: moths and insects, and maybe a gecko waiting to eat them. Ask: 'Why does the gecko live near the light?' (Its food comes to the light.)"},
+    {"kind": "talk", "title": "Why do worms come out in the rain?", "mins": 8, "do": "Ask: 'Have you seen earthworms on the road after rain?' Talk about voice v3: scientists still argue about why. Give the three ideas simply: 1) the soil gets too wet and they come up for air; 2) wet ground lets them travel far without drying out; 3) the drumming of rain feels like a mole digging, and they escape. Ask the voice question. If it is raining this week, go out and look.", "ref": "v3"},
+    {"kind": "talk", "title": "Jean-Henri Fabre's garden", "mins": 8, "do": "Tell your child about voice v2: Jean-Henri Fabre was a poor schoolteacher in France who spent his life watching insects in his own garden and wrote about them in simple words anyone could read. Some important scientists sneered that his books were too easy to be science. Ask: 'Can you be a scientist in your own garden or balcony?' Then ask the voice question.", "ref": "v2"},
+    {"kind": "review", "title": "Day and night list", "mins": 3, "do": "Make two columns: Day and Night. Your child places each animal they have met this week: crow (day), owl (night), squirrel (day), bat (night), gecko (mostly night), butterfly (day), moth (mostly night)."}
+   ], "need": ["a torch", "a balcony, terrace or garden after dark"]},
+  {"n": 6, "title": "Every place is somebody's home", "goal": "Put it all together, play the game and teach it back.",
+   "steps": [
+    {"kind": "act", "title": "Our habitat map", "mins": 8, "do": "Finish the project: on a big sheet draw your home and the ground around it. Your child draws each living thing you found this week in its spot (spider under the sink, woodlice under the stone, birds in the tree, plants in the sunny patch). Ask: 'Is there any place on our map where NOTHING lives?' Let them look hard. Then ask: 'Is the air empty? The soil? The wall crack?'"},
+    {"kind": "game", "title": "Who Lives Here? cards", "mins": 10, "do": "Play the card game g1: match each animal or plant card to the home card that gives it what it needs, and say what the home gives (food, water or shelter).", "ref": "g1"},
+    {"kind": "ws", "title": "Stretch or challenge", "mins": 6, "do": "Do Worksheet ws2 together. If your child is keen, do the two 'think' questions from Worksheet ws3 aloud and write their answers.", "ref": "ws2"},
+    {"kind": "check", "title": "Teach it back", "mins": 6, "do": "Your child shows the habitat map to someone in the family and explains: what every home gives (food, water, shelter), why woodlice live under stones, and why we put stones back. Then ask the check questions. Finish with the big question: 'Is there any place in the whole world that is nobody's home?' For more, do Worksheet ws3 another day.", "ref": "ws3"}
+   ], "need": ["a big sheet of paper and crayons", "the printed cards", "Worksheets ws2 and ws3"]}
+ ],
+ "worksheets": [
+  {"id": "ws1", "tier": "core", "title": "Homes near our home", "day": 3, "sections": [
+   ["A. The tree town", [
+    {"t": "sort", "p": "Where on the tree did you find them? (Use what you saw.)", "items": ["ant line", "earthworm", "caterpillar", "bird's nest", "moss", "squirrel", "spider web", "fallen leaves"], "cats": ["roots and ground", "bark", "leaves", "branches and top"]},
+    {"t": "mcq", "p": "A tree gives a bird…", "opts": ["only food", "only shelter", "food, shelter and a place for a nest", "nothing"], "a": 2}]],
+   ["B. What does a home give?", [
+    {"t": "fill", "p": "Every living thing needs food, water and ____.", "a": ["shelter", "a home", "a safe place"]},
+    {"t": "match", "p": "Match the animal to its home.", "pairs": [["woodlouse", "under a stone"], ["fish", "a pond"], ["pigeon", "a window ledge"], ["earthworm", "damp soil"], ["spider", "a quiet corner with a web"]]},
+    {"t": "mcq", "p": "The woodlice in our test went to…", "opts": ["the bright, dry side", "the dark, damp side", "nowhere: they stayed still"], "a": 1},
+    {"t": "mcq", "p": "Why do woodlice live under stones?", "opts": ["They like the view", "It is dark and damp, so they don't dry out, and birds can't see them", "Stones are their food"], "a": 1}]],
+   ["C. Think", [
+    {"t": "write", "p": "Why did we put the stones back exactly as they were?", "lines": 2},
+    {"t": "write", "p": "Why did we make the sunny square and the shady square the same size?", "lines": 2},
+    {"t": "draw", "p": "Draw one animal you found this week in its home. Show its food or water."}]]]},
+  {"id": "ws2", "tier": "stretch", "title": "Whose home is this?", "day": 6, "sections": [
+   ["A. New homes", [
+    {"t": "match", "p": "Who might live here?", "pairs": [["a hole in a tree trunk", "an owl or a parakeet"], ["a muddy pond edge", "a frog"], ["a crack in an old wall", "a gecko or a plant"], ["inside a rotting log", "beetles and fungi"], ["a flower", "a bee drinking nectar"]]},
+    {"t": "sort", "p": "Day animal or night animal?", "items": ["crow", "bat", "butterfly", "owl", "squirrel", "moth", "myna", "cricket (the chirping insect)"], "cats": ["mostly day", "mostly night"]}]],
+   ["B. What would happen?", [
+    {"t": "mcq", "p": "A woodlouse is put on a hot, sunny path. What will it try to do?", "opts": ["sunbathe", "hurry to a dark, damp place", "climb a tree to the top"], "a": 1},
+    {"t": "mcq", "p": "More plants grew in one patch. The best way to find out why is to…", "opts": ["guess", "look at what is different: light, water, feet stepping", "pull them all out"], "a": 1},
+    {"t": "fill", "p": "An animal that is awake at night is called ____.", "a": ["nocturnal"]},
+    {"t": "mcq", "p": "In the monsoon, a dry ditch fills with rain. Who might move in?", "opts": ["frogs and tadpoles", "nobody", "camels"], "a": 0}]],
+   ["C. Think", [
+    {"t": "write", "p": "A gecko lives near the tube light. Why there, and not in a dark cupboard?", "lines": 2},
+    {"t": "write", "p": "If our whole street had no trees, which animals would have to move away? Why?", "lines": 2}]]]},
+  {"id": "ws3", "tier": "challenge", "title": "Is anywhere empty?", "day": 6, "sections": [
+   ["A. Puzzle it out", [
+    {"t": "mcq", "p": "Meher made a clean, bright box with one leaf for the woodlice. It was…", "opts": ["a better home for them", "a worse home: too bright and dry", "the same as under the stone"], "a": 1},
+    {"t": "mcq", "p": "Which place is NOBODY's home?", "opts": ["a puddle", "the soil", "a crack in a wall", "it is hard to find one: almost everywhere is somebody's home"], "a": 3},
+    {"t": "sort", "p": "What does each living thing need most from its home?", "items": ["fish", "woodlouse", "cactus", "frog", "bee", "earthworm"], "cats": ["lots of water around it", "damp and dark", "sun and dry ground", "flowers"]},
+    {"t": "fill", "p": "Everything around a living thing is called its ____.", "a": ["environment", "surroundings"]},
+    {"t": "match", "p": "What does this place give?", "pairs": [["a pond", "water to live in"], ["a log", "shelter and food"], ["a flower", "food (nectar)"], ["a hole in a tree", "a safe nest"]]}]],
+   ["B. Think hard", [
+    {"t": "write", "p": "People sometimes call a place 'empty land' or 'waste land'. Is it really empty? Who might live there?", "lines": 3},
+    {"t": "write", "p": "How could you find out if earthworms come out in the rain to breathe or to travel? What would you watch for?", "lines": 3},
+    {"t": "write", "p": "If you were an ant, what would be the best home in our house? Why?", "lines": 2}]]]}
+ ],
+ "experiments": [
+  {"id": "e1", "title": "Dark and damp, or bright and dry?", "day": 2, "question": "Which kind of place do woodlice (or ants) choose?", "need": ["a shallow tray or shoebox lid", "a damp (not dripping) tissue and a dry tissue", "a piece of dark card or cloth", "3–6 woodlice or ants found under a stone", "a timer"], "steps": ["Lay the damp tissue on one half of the tray and the dry tissue on the other half.", "Cover the damp half with dark card, so it is dark AND damp. Leave the dry half in the light.", "Gently put the minibeasts in the middle, using a leaf, not fingers.", "Wait 5 minutes without touching or blowing.", "Count how many are on each side. Do it twice more, putting them back in the middle each time.", "Take them back to the same stone and put the stone back as it was."], "predict": "Ask: 'Which side will they go to? Why do you think so?' Write down the guess.", "observe": "Count how many are on each side each time. Most woodlice will gather on the dark, damp side, often bunched together.", "why": "Woodlice are crustaceans, cousins of crabs and prawns, that moved onto land. Their bodies lose water easily, so in dry air and sunlight they dry out and can die. They breathe through gill-like parts that must stay moist. Darkness also hides them from birds and lizards. So their habitat, under stones, logs and leaf litter, is not just where they happen to be: it is where their bodies can survive. (If you use ants, they may prefer damp and dark too, but less strongly, because their bodies hold water better.)", "safety": "A grown-up lifts the stones, tilting them towards themselves, in case of a scorpion or centipede. Children look but do not pick up centipedes or anything that stings. Use a leaf to move minibeasts. Wash hands afterwards. Return every animal within 20 minutes.", "time": "15 min"}
+ ],
+ "activities": [
+  {"id": "a1", "title": "Two-patch plant count", "day": 4, "mins": 15, "need": ["8 sticks", "string", "paper and crayons"], "steps": ["Find a sunny patch of ground and a shady one (near a wall or under a tree).", "Mark a square of the same size in each with 4 sticks and string, about one big step on each side.", "Count the plants in each square. Draw one box for each plant on a tally.", "Look at the plants: tall or short? bright green or pale? Feel the soil: dry or damp?", "Compare the two tallies. Talk about why they are different."], "outcome": "A two-column tally showing which place had more plants, and a reason your child can explain."}
+ ],
+ "project": {"title": "Our habitat map", "days": [5, 6], "steps": ["Draw your home and the ground, gate, balcony or park around it on a big sheet.", "Add every living thing you found this week, in the exact spot you found it.", "Next to each, draw a small symbol for what that spot gives it: a drop for water, a leaf or crumb for food, a roof for shelter.", "Look for any empty spot on the map and check it in real life.", "Show the map to the family and explain three of the homes."], "outcome": "A map of the secret neighbours who share your home, with what each home gives them."},
+ "game": {"id": "g1", "title": "Who Lives Here?", "kind": "cards", "players": "2–4", "need": ["scissors", "the printed page of cards"],
+  "rules": ["Cut out the cards. Put the HOME cards face up in a row. Shuffle the LIVING THING cards and put them face down in a pile.", "On your turn, take a living-thing card and put it next to a home where it could live.", "Say what the home gives it: food, water or shelter. If the others agree, keep the card.", "Some living things can live in two homes. If you can give a good reason, it counts.", "When the pile is empty, the player with the most cards wins. Then everyone says which home had the most living things."],
+  "cards": [
+   {"job": true, "front": "HOME: under a stone"}, {"job": true, "front": "HOME: a big tree"}, {"job": true, "front": "HOME: a pond"}, {"job": true, "front": "HOME: our kitchen"}, {"job": true, "front": "HOME: damp soil"}, {"job": true, "front": "HOME: a flower bed"},
+   {"front": "woodlouse", "back": "under a stone: dark and damp"}, {"front": "centipede", "back": "under a stone: hunts there"}, {"front": "squirrel", "back": "a big tree: nuts and a nest"}, {"front": "crow", "back": "a big tree: a nest high up"},
+   {"front": "parakeet", "back": "a big tree: a hole to nest in"}, {"front": "lichen", "back": "a big tree: on the bark"}, {"front": "fish", "back": "a pond: water to breathe in"}, {"front": "frog", "back": "a pond: eggs and tadpoles in water"},
+   {"front": "lotus", "back": "a pond: roots in the mud"}, {"front": "dragonfly", "back": "a pond: babies live underwater"}, {"front": "ant", "back": "our kitchen: sugar crumbs"}, {"front": "cockroach", "back": "our kitchen: dark, warm, crumbs"},
+   {"front": "gecko", "back": "our kitchen: insects near the light"}, {"front": "earthworm", "back": "damp soil: eats dead leaves"}, {"front": "mushroom", "back": "damp soil: grows on rotting things"}, {"front": "bee", "back": "a flower bed: nectar"},
+   {"front": "butterfly", "back": "a flower bed: nectar, and leaves for caterpillars"}, {"front": "snail", "back": "a flower bed: damp leaves to eat"}
+  ]},
+ "big": ["Is there anywhere in the world that is nobody's home?", "If a woodlouse could choose your bedroom, would it want to live there? What would it change?", "Who decides that a place is 'empty land'?", "Are we visitors in the garden, or do we live there too?"],
+ "challenge": [
+  {"q": "People say a clean, tidy garden with short grass and no dead leaves is the best garden. Best for whom?", "hint": "Short grass and swept paths look neat to us, but dead leaves, logs and long grass are homes and food for woodlice, worms, beetles, frogs and the birds that eat them. Studies of gardens find that 'messier' corners usually hold more kinds of life. Ask: could part of a garden be tidy for people and part be wild for others?"},
+  {"q": "Lots of people think earthworms come up in the rain because they would drown underground. Is that true?", "hint": "Earthworms breathe through their skin and can survive a long time in water that has oxygen in it, so drowning may not be the whole answer. Scientists still disagree (see voice v3). What would you need to watch to find out?"}
+ ],
+ "perspectives": [
+  {"who": "A woodlouse", "view": "To you, under a stone is dark and dirty. To a woodlouse it is the best room in the house: cool, damp, hidden, with a meal of rotting leaves on the floor. Ask: is 'dirty' a fact, or a feeling that depends on who you are?"},
+  {"who": "Families in many Indian villages", "view": "Many families leave a little water out for birds in summer, let a snake live in the cow shed to catch rats, or keep a corner of land wild as a sacred grove. Ask: why might people choose to share their home with wild living things?"},
+  {"who": "A child in a big-city flat", "view": "Even on the 12th floor there are homes: pigeons on the ledge, moss in the AC drain, ants in the wall, a spider in the corner, plants in pots. Ask: what is the highest place you think an animal lives?"}
+ ],
+ "voices": [
+  {"id": "v1", "who": "Maria Sibylla Merian (1647–1717), Germany and the Netherlands", "idea": "Merian raised caterpillars at home from childhood, fed them their own leaves, and watched them become pupae and then butterflies or moths. She painted each insect on the plant it lived on and ate, because the plant was its home. In 1699 she sailed to Suriname in South America with her daughter Dorothea to study insects there, and published a famous book of paintings in 1705.", "then": "In her time many people believed small creatures appeared by themselves out of mud or rotting matter. Some scholars saw her as 'just' a flower painter, and as a woman she could not join the scientific societies of the day. In Suriname, enslaved Africans and Indigenous people helped her find plants and insects and told her what they knew; she wrote down some of what they said.", "now": "Her careful watching is accepted as real science, and she is seen as one of the first people to study insects together with their habitats. Many insects and plants are named after her.", "status": "accepted", "ask": "Merian learned by watching the same caterpillars for weeks. What could you find out by watching one small animal every day for a week?", "day": 3},
+  {"id": "v2", "who": "Jean-Henri Fabre (1823–1915), France", "idea": "Fabre was a poor schoolteacher who watched insects in fields and later in his own garden, which he called the Harmas. He found out how wasps, beetles and spiders really live by watching them where they live, and wrote ten books about them in plain, lively words.", "then": "Some university scientists looked down on him for writing so simply, as if easy words meant easy science. Fabre also did not believe Charles Darwin's idea that living things change over very long times, and the two wrote to each other politely about it.", "now": "His observations of insect lives are still admired. On evolution, the evidence has gone firmly against him: Darwin was right that living things change over time. A person can be a brilliant watcher and still be wrong about a big idea.", "status": "accepted", "ask": "Fabre was right about wasps but wrong about evolution. Can someone be a good scientist and still be wrong sometimes? How do we find out which parts are right?", "day": 5},
+  {"id": "v3", "who": "Earthworm scientists today: why do worms come out in the rain?", "idea": "Earthworms appear on paths and roads after heavy rain. Scientists have three main ideas: the soil fills with water and they come up for air; wet ground lets them travel far to new places without drying out; or the drumming of rain feels like a mole digging, so they flee. People in some countries 'call' worms out of the ground by making vibrations, and a 2008 study by Kenneth Catania in the USA showed that worms rush up to escape the vibrations a digging mole makes.", "then": "For a long time most people simply said worms come up so they won't drown.", "now": "Worms can survive in oxygen-rich water for a long time, so drowning is not the full answer. The other ideas all have some support, and different kinds of worms may do it for different reasons. Nobody has settled it.", "status": "debated", "ask": "If worms come up to travel, what would you expect to see them doing on the path? If they come up for air, what would you see instead?", "day": 5}
+ ],
+ "story": {"title": "The Underneath", "text": [
+  "I am a woodlouse, and I have lived my whole life under the blue flowerpot by Meher's front door.",
+  "You have probably never thought about the underneath of a flowerpot. Let me tell you about it. It is the colour of cool tea. It smells of wet earth and old leaves, which is the best smell there is. A drop of water hangs from the hole in the bottom of the pot every morning after Meher's mother waters the tulsi, and it falls, plip, onto the soil, and the soil stays soft and dark all day, even in May, when the sun outside bangs on the doorstep like a drum.",
+  "There are forty-one of us. My grandmother, my aunts, my many, many cousins, and my own small ones, who are white as rice when they are born and ride on my belly for a while. We eat the brown edges of fallen leaves. We eat the soft bits of rotting stick. We tidy the underneath, quietly, all day long. When something big walks past, we feel it through our fourteen legs, and we keep very still.",
+  "On the morning of the Big Light, I felt Meher before I saw her. Small feet. A squeak of excitement. Then the whole sky lifted.",
+  "Light. Light everywhere, white and enormous, pouring onto us like hot water. Dry air rushed in. My cousins ran. My aunt rolled into a ball, which is what we do when we are frightened; we curl up so our hard back plates are outside and our soft legs are inside. I felt the wet on my back begin to disappear.",
+  "\"Amma! Amma, look! There are tiny grey armadillos!\" said a giant voice.",
+  "Meher's face hung above us like a moon. It was not a cruel face. It was a curious face, with very round eyes.",
+  "\"They're woodlice,\" said her mother, from far away. \"Put the pot back, beta.\"",
+  "But Meher had an idea. I could tell, because her face went still. Very gently, with a leaf, she scooped up six of us, me and my small ones among them, and carried us into the house.",
+  "She had made us a palace.",
+  "It was a white shoebox lid, scrubbed clean. In the middle she had placed one perfect green leaf, a fresh one, which is no use to us at all, because we cannot chew fresh leaves. The lid sat on the windowsill, where the sun came in gold and strong. \"There,\" she whispered. \"Now you have a nice clean house with a view.\"",
+  "We ran.",
+  "We ran to the one corner of the box where the edge made a thin line of shadow, and we pressed ourselves into it, all six of us, one on top of the other, as small as we could be. It was not dark enough. It was not damp at all. I could feel my body getting lighter, the way a puddle gets smaller.",
+  "Meher watched. She moved the leaf into our corner, to be kind. We stayed in the corner. She moved the box a little to turn us towards the window. We scrambled round to the new shadow.",
+  "\"They don't like it,\" she said, and her voice was puzzled and a bit hurt. \"Why don't they like it? It's so much nicer than under a dirty old pot.\"",
+  "And then she did something that nobody had ever done before. She lay down on the floor, put her cheek right next to the box, and looked at the world the way we see it.",
+  "She looked for a long time. I don't know what she saw. Perhaps she saw how high and bright the sky was. Perhaps she felt the dry, warm air on her own face. Perhaps she noticed that the only place we could bear was the thin grey strip of shade, and that we were all touching each other, the way you hold your mother's hand in a crowd.",
+  "She sat up slowly.",
+  "She did not say anything. She carried the box very carefully out of the door, down the steps, to the blue flowerpot. Her mother tilted the pot. Meher tipped the lid, and we slid off the white edge and fell into the soft, dark, beautiful dirt.",
+  "Cool. Wet. The smell of old leaves. My small ones scattered into the cracks. Above us the sky came down again, gently, and the light went out.",
+  "The next morning, after the tulsi was watered and the drop went plip, I felt small feet stop beside the pot. They stood there for a while. Then something was pushed in under the edge, through the gap where the pot does not quite touch the ground.",
+  "It was a brown leaf. An old one. Half rotten. Perfect."],
+  "epiphany": "A good home depends on who you are. Woodlice need dark, damp places because their bodies dry out in sun and dry air, so the 'nice clean box with a view' was a terrible habitat for them. The turn comes when Meher lies down and looks at the world from the woodlice's level, and then brings them a rotten leaf, which shows she has understood what THEIR home must give them.",
+  "ask": ["Why did the woodlice run into the corner of Meher's box?", "Meher thought her box was nicer than under the pot. Nicer for whom?", "Why did Meher lie down on the floor? What do you think she noticed?", "Why do you think she brought an old brown leaf, not a fresh green one?", "What would YOUR perfect home be like if you were a woodlouse?"]},
+ "ideas": [
+  {"idea": "Every place is somebody's home.", "more": "Under stones, inside bark, in a crack in the wall, in a puddle, in the soil: look closely and almost every place has life in it. Even 'empty' places usually aren't."},
+  {"idea": "Living things live where their needs are met.", "more": "Food, water and shelter decide where animals and plants are found. Woodlice under stones and geckos near lights are not there by chance; their bodies and their food bring them there."},
+  {"idea": "The best home depends on who you are.", "more": "Bright and dry is good for a cactus and a lizard and terrible for a woodlouse. There is no single 'nice' place; there are places that fit."}],
+ "unknowns": [
+  "Why exactly do earthworms come up after rain? Scientists still disagree.",
+  "Nobody knows how many kinds of tiny living things live in one handful of soil. Most of them have never been given a name.",
+  "How do city animals like pigeons, geckos and crows change as they live alongside people? Scientists are only beginning to find out."],
+ "books": [
+  {"title": "The Salamander Room", "author": "Anne Mazer", "for": "read together", "age": "4–8", "why": "A boy wants to keep a salamander in his bedroom, and each answer about what it needs turns his room into a forest. A perfect picture of what a habitat is."},
+  {"title": "Up in the Garden and Down in the Dirt", "author": "Kate Messner", "for": "read together", "age": "4–8", "why": "Above ground a garden grows; underneath, worms, beetles and roots are busy. Shows the hidden homes just under our feet."},
+  {"title": "A House for Hermit Crab", "author": "Eric Carle", "for": "read alone", "age": "3–7", "why": "A hermit crab outgrows its shell and fills its new home with neighbours. Simple, warm and about homes that change."},
+  {"title": "Hey, Little Ant", "author": "Phillip and Hannah Hoose", "for": "read together", "age": "4–8", "why": "A boy is about to squish an ant, and the ant argues back. Gives your child the ant's point of view and leaves the ending for them to decide."}
+ ],
+ "check": [
+  {"q": "What three things does every home give a living thing?", "a": "Food, water and shelter (a safe place)."},
+  {"q": "Why do woodlice live under stones?", "a": "It is dark and damp, so their bodies don't dry out, and birds and lizards can't see them. There are rotting leaves to eat."},
+  {"q": "Name three living things that can live on or around one tree.", "a": "Any three, for example: birds, squirrels, ants, caterpillars, spiders, moss or lichen, earthworms in the soil."},
+  {"q": "Which patch had more plants, the sunny or the shady one? Why might that be?", "a": "Your child's own result, with a reason about light, water or feet stepping on it."},
+  {"q": "Why do we put stones back the way we found them?", "a": "Because under the stone is someone's home; if we leave it open they dry out or get eaten."},
+  {"q": "What does nocturnal mean? Name a nocturnal animal.", "a": "Awake at night. Owl, bat, moth, gecko, many frogs."}
+ ]
+}

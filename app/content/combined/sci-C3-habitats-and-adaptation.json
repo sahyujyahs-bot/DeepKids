@@ -1,0 +1,217 @@
+{
+ "key": "combined|sci|3|habitats-and-adaptation",
+ "board": "combined", "subj": "sci", "level": 3, "n": "habitats-and-adaptation",
+ "title": "Living together: soil, trees and the day and night shifts",
+ "source": "DeepKids Combined. Covers NCERT Class 3 'Plants and Animals Live Together' (how plants and animals support each other; animals around us, their habits and habitats; soil and the life in it; bird sounds). No textbook needed.",
+ "summary": "Your child already knows that a habitat gives food, water, shelter, space and the right temperature, and that bodies fit their homes. Now they look closely at one shared place: the soil underfoot and one tree above it. They find out what soil is made of and who builds it, map who uses each layer of a tree for food, shelter, nests and rest, see how plants depend on animals too, watch an animal's habits like a scientist, and discover that a habitat works in shifts: different animals by day and by night, each calling in its own voice.",
+ "builds_on": "Class 1: every place is somebody's home. Class 2: the word habitat, microhabitats, and how cactus, lotus, fish and camel fit their homes. Next: Class 4 travels to India's deserts, mountains, plains and coasts and sees how land and climate shape plants, animals and people; Class 5 studies adaptation fully, endemic species, and predators and prey.",
+ "goals": [
+  "By the end your child can say what soil is made of and why earthworms matter.",
+  "By the end your child can map at least eight living things in the layers of one tree and say what each gets from it.",
+  "By the end your child can give three ways animals help plants and three ways plants help animals.",
+  "By the end your child can watch one animal for ten minutes and record its habits.",
+  "By the end your child can explain that many animals share a habitat in day and night 'shifts' and with different foods and voices.",
+  "By the end your child can name two scientists who learned by watching and listening patiently."
+ ],
+ "words": [
+  ["soil", "the top layer of the ground: bits of rock, humus, air, water and living things"],
+  ["humus", "the dark, crumbly part of soil made from rotted leaves and dead things"],
+  ["decomposer", "a living thing, like a worm, fungus or bacterium, that breaks dead things down into soil"],
+  ["habit", "what an animal usually does: when it eats, sleeps, rests and nests"],
+  ["diurnal", "awake in the day"],
+  ["nocturnal", "awake at night"],
+  ["canopy", "the top layer of leaves and branches of a tree or forest"],
+  ["pollinate", "to carry pollen from one flower to another so seeds can form"],
+  ["roost", "a place where birds or bats rest or sleep"],
+  ["niche", "an animal's own way of living in a habitat: what it eats, where and when"],
+  ["soundscape", "all the sounds of a place together"]
+ ],
+ "subconcepts": [
+  "soil is a habitat: rock bits, humus, air, water and living things",
+  "earthworms and other decomposers make soil",
+  "seeds hide in soil, waiting (the seed bank)",
+  "a tree has layers of homes: roots, trunk, branches, canopy",
+  "animals use plants for food, shelter, nests and rest",
+  "plants use animals: pollination and seed carrying",
+  "habits: what an animal does and when",
+  "diurnal and nocturnal: a habitat works in shifts",
+  "bird calls and songs, and the dawn chorus",
+  "a soundscape as a way to survey a habitat",
+  "sharing one habitat: each animal has its own niche",
+  "people's habits change habitats (old trees, lights at night)"
+ ],
+ "day_mins": 40,
+ "days": [
+  {"n": 1, "title": "Is this tree empty?", "goal": "Recall habitats and meet the idea that one place holds many lives, some of them hidden.",
+   "steps": [
+    {"kind": "warmup", "title": "Habitat recall", "mins": 6, "do": "Ask: 'What five things does a habitat give?' (food, water, shelter, space, the right temperature.) 'How is a cactus suited to the desert? A lotus to the pond?' (water-storing stem and spines; floating waxy leaves.) Then say: 'This year we will stay in ONE place and find out how everyone in it lives together.'"},
+    {"kind": "outdoor", "title": "The two-minute look", "mins": 9, "do": "Go to a tree near your home in the hot middle of the day if you can. Stand in front of it for exactly two minutes, just looking. Then ask: 'How many animals did you see?' Write the number. (Often very few at midday.) Ask: 'Does that mean nothing lives here?' Write your child's answer. Keep it: you will come back."},
+    {"kind": "read", "title": "Story: The Night Tree", "mins": 15, "do": "Read the story 'The Night Tree' aloud. Don't explain it. Ask the story questions, especially: 'Why did the grown-ups think the tamarind was empty?' and 'How did Kabir know it wasn't?'"},
+    {"kind": "talk", "title": "Plan the tree diary", "mins": 10, "do": "Start the project: choose ONE tree you can visit at different times of day this week. Give it a name. Make a diary page with four times: early morning, midday, sunset and after dark. Ask: 'Who do you think we'll meet at each time?' Write the guesses. You'll check them over the week."}
+   ], "need": ["a tree near home", "a notebook"]},
+  {"n": 2, "title": "What is soil made of?", "goal": "Find out what soil is made of, who makes it, and what is waiting inside it.",
+   "steps": [
+    {"kind": "do", "title": "Feel, smell, look", "mins": 8, "do": "Collect three handfuls of soil: from under a tree, from a garden bed, and from a bare path. Spread each on newspaper. Your child feels each (gritty? sticky? soft?), smells it (the earthy smell of healthy soil is made by tiny living things called bacteria), and looks with a magnifying glass for bits of leaf, root, stone and tiny animals. Ask: 'Which soil looks most alive? Why?'"},
+    {"kind": "exp", "title": "Soil jar test", "mins": 10, "do": "Do Experiment e1 with the soil from under the tree. Shake it in a jar of water and leave it to settle until tomorrow. Ask your child to predict: 'What will happen when it settles?'", "ref": "e1"},
+    {"kind": "exp", "title": "Seeds hiding in the soil", "mins": 7, "do": "Do Experiment e2: spread soil from under the tree (no seeds added!) in a tray, water it and put it in light. Ask: 'Will anything grow, if we don't plant anything?' Write down the guess. This takes two weeks; check every few days.", "ref": "e2"},
+    {"kind": "talk", "title": "Charles Darwin's worms", "mins": 12, "do": "Tell your child about voice v1. Darwin spent about 40 years on worms. He measured how much soil they pushed up, watched stones slowly sink as worms worked underneath them, and even played a bassoon to worms in pots on the piano to see if they could hear (they couldn't hear the sound, but they felt the piano's vibration when he played the keys). Ask: 'Why would a famous scientist spend 40 years on worms?' Then ask the voice question.", "ref": "v1"},
+    {"kind": "review", "title": "Soil is…", "mins": 3, "do": "Your child finishes: 'Soil is made of…' (tiny bits of rock, humus from rotted leaves, air, water, and living things). Say: 'Soil is not dead dirt. It is a habitat.'"}
+   ], "need": ["soil from three places", "newspaper", "a magnifying glass", "a tall clear jar with a lid", "a shallow tray"]},
+  {"n": 3, "title": "Who lives in the soil?", "goal": "Meet the soil animals and see how they turn dead things into new soil.",
+   "steps": [
+    {"kind": "warmup", "title": "Read the soil jar", "mins": 6, "do": "Look at the jar from Experiment e1. Your child draws the layers: stones at the bottom, then sand, then silt, then clay, with bits of leaf (humus) floating on top. Ask: 'Why did the heavy bits sink first?' (Bigger, heavier pieces fall faster through water.)", "ref": "e1"},
+    {"kind": "outdoor", "title": "Soil animal count", "mins": 16, "do": "Under a tree or a hedge, scrape up two handfuls of leaf litter and the soil just below it onto a white sheet or newspaper. Spread it slowly with a spoon. Count and sort what you find: earthworms, ants, beetles, woodlice, millipedes (many legs, slow, curl up), centipedes (fast, flat; don't touch, they can nip), springtails (tiny jumping specks), white fungus threads, roots. Ask for each: 'Is it eating leaves, eating other animals, or both?' Put everything back where it came from."},
+    {"kind": "do", "title": "Where do leaves go?", "mins": 12, "do": "Find leaves at different stages: fresh green, dry brown, holey and lacy, almost gone. Lay them in a line from fresh to almost soil. Ask: 'Who made the holes? Where does the leaf go?' Explain: worms pull leaves underground and eat them; woodlice and millipedes chew them; fungi and bacteria, too small to see, finish the job. What comes out is humus, which feeds new plants. Say the word decomposer. Ask: 'If there were no decomposers, what would the forest floor look like after 100 years?'"},
+    {"kind": "review", "title": "The circle", "mins": 6, "do": "Your child draws a circle with arrows: tree drops leaf, worm eats leaf, worm makes soil, soil feeds tree. Ask: 'Where does the circle start?' (It doesn't. It goes round.) Check the seed tray from Experiment e2 and water it lightly if dry.", "ref": "e2"}
+   ], "need": ["a white sheet or newspaper", "a spoon", "a magnifying glass", "leaves at different stages of rotting", "the soil jar", "the seed tray"]},
+  {"n": 4, "title": "The tree town", "goal": "Map who uses each layer of a tree for food, shelter, nests and rest.",
+   "steps": [
+    {"kind": "outdoor", "title": "Tree layer survey", "mins": 20, "do": "Go to your diary tree in the early morning (best before 8 am). Survey four layers with Worksheet ws1, Section A: roots and the ground beneath; the trunk and bark; the branches; the canopy and any flowers or fruit. Use eyes AND ears. For each living thing, write what it is using the tree for: food (leaves, fruit, nectar, insects), shelter (from sun and rain), nest, or rest. Look for: ant trails up the bark, a hole in the trunk, a squirrel's untidy nest of twigs, a crow's nest, caterpillars, spiders, lichen, bird droppings under a favourite branch (a roost!).", "ref": "ws1"},
+    {"kind": "ws", "title": "Core worksheet", "mins": 12, "do": "Back home, finish Worksheet ws1, Sections B and C. Read the questions aloud and let your child write or say answers. For the written 'why' questions, help them write one full sentence each.", "ref": "ws1"},
+    {"kind": "review", "title": "Diary: early morning", "mins": 8, "do": "Fill in the 'early morning' row of the tree diary project. Compare with the midday count from Day 1. Ask: 'Why were there more animals this morning?' (Many birds feed in the cool early hours and rest in the hot middle of the day.)"}
+   ], "need": ["Worksheet ws1", "the tree diary", "binoculars if you have them"]},
+  {"n": 5, "title": "Plants need animals too", "goal": "See how plants depend on animals, and watch one animal's habits like a scientist.",
+   "steps": [
+    {"kind": "outdoor", "title": "Flower watch", "mins": 10, "do": "Sit by a flowering plant (hibiscus, lantana, ixora, marigold, a drumstick or a mango in flower) for 8 minutes. Count every visitor: bees, butterflies, wasps, flies, sunbirds, ants. Look for yellow pollen on their bodies. Explain: as they drink nectar, pollen sticks to them and they carry it to the next flower, so seeds can form. That is pollination. Ask: 'What does the flower give the bee? What does the bee give the flower?'"},
+    {"kind": "talk", "title": "Who plants the trees?", "mins": 7, "do": "Show a mango stone, a ber seed, a fig or a tamarind pod. Ask: 'How might this seed travel away from its parent tree?' Good answers: a bird or bat eats the fruit and drops the seed far away; a monkey throws the stone; a squirrel buries a seed and forgets it. Say: 'Many trees in our cities were planted by birds, not people.' Check Experiment e2: has anything sprouted? Count the seedlings.", "ref": "e2"},
+    {"kind": "act", "title": "Animal habit watch", "mins": 15, "do": "Do Activity a1. Choose one animal you can watch for 10 minutes without disturbing it: a squirrel, a myna, a crow, a line of ants, a pigeon, a street dog resting. Every minute, your child writes or draws what it is doing: eating, looking around, cleaning, resting, calling, chasing. Then ask: 'What does it do most? What does it seem to be watching for?'", "ref": "a1"},
+    {"kind": "talk", "title": "Jane Goodall watches", "mins": 8, "do": "Tell your child about voice v2: Jane Goodall had no university degree when she went to watch chimpanzees in Tanzania in 1960. For months they ran away. She kept coming back, sitting quietly. One day she saw a chimpanzee she called David Greybeard poke a grass stem into a termite mound and pull it out covered in termites, a tool. Ask the voice question. Then compare: what did your 10 minutes of watching teach you that a quick look wouldn't?", "ref": "v2"}
+   ], "need": ["a flowering plant nearby", "a fruit with a seed (mango, ber, fig or tamarind)", "a timer", "the seed tray"]},
+  {"n": 6, "title": "Listening to a habitat", "goal": "Use sound to find out who lives in a place and see how they share it.",
+   "steps": [
+    {"kind": "outdoor", "title": "Sound map at dusk", "mins": 12, "do": "Go to your diary tree around sunset. Your child sits with a paper, puts an X in the middle (that's them) and closes their eyes for 5 minutes. Every time they hear a sound, they draw a small mark in the direction it came from: a bird call, a cricket, a dog, a horn, wind in leaves. Then open eyes and talk: which sounds were animals? Which were people or machines? Listen for parakeets and crows flying back to roost, mynas chattering, a koel, bats. Fill in the 'sunset' row of the tree diary."},
+    {"kind": "talk", "title": "Why do birds call?", "mins": 8, "do": "Explain that birds make two main kinds of sound. Calls are short: 'danger!', 'here I am', 'food here'. Songs are longer, often by males in the breeding season, to say 'this is my place' and to attract a mate. Many birds sing hardest at dawn: the dawn chorus. Copy three calls together: the crow's 'kaa', the koel's rising 'ku-OO', the myna's chatter, the coppersmith barbet's 'tuk-tuk-tuk'. Ask: 'Why might a bird sing loudest at dawn?' (Air is still and sound travels far; it is too dark to feed yet.)"},
+    {"kind": "talk", "title": "The animal orchestra", "mins": 10, "do": "Tell your child about voice v3, Bernie Krause, who recorded wild places for 50 years and believes animals in a healthy habitat share the sound space like an orchestra, each in its own pitch and time so they can be heard. Play a recording of your dusk sounds if you made one, or listen again tomorrow morning. Ask the voice question.", "ref": "v3"},
+    {"kind": "ws", "title": "Stretch worksheet", "mins": 10, "do": "Do Worksheet ws2 together, reading each item aloud.", "ref": "ws2"}
+   ], "need": ["paper and pencil", "a phone to record sounds (optional)", "Worksheet ws2"]},
+  {"n": 7, "title": "The night shift, and teach it back", "goal": "Meet the night animals, play the game and teach it all back.",
+   "steps": [
+    {"kind": "outdoor", "title": "Night visit to the tree", "mins": 10, "do": "After dark, visit your diary tree with a torch covered in red cellophane or a thin cloth (dim light disturbs animals less). First stand 3 minutes in the dark and listen. Then shine the dim torch on the bark and leaves. Look for: geckos, moths, spiders weaving, crickets, a frog, an owlet's eyes, bats flying past. Fill in the 'after dark' row of the tree diary. Ask: 'Who was here at night that we never saw in the day?'"},
+    {"kind": "game", "title": "Tree Town Shifts card game", "mins": 12, "do": "Play the card game g1. Collect families of animals that live in the same layer of the tree, and say whether each works the day shift or the night shift.", "ref": "g1"},
+    {"kind": "talk", "title": "What changes a habitat?", "mins": 6, "do": "Ask: 'What happens to the tree town if the tree is cut? If bright lights are put up all night? If the leaves under it are swept and burned?' Let your child reason: homes go, night animals get confused, the decomposers lose their food. Then ask: 'What could our family do to help our tree town?'"},
+    {"kind": "check", "title": "Teach it back", "mins": 12, "do": "Your child shows the tree diary to the family and explains: what soil is made of, how worms make soil, who lives in each layer of the tree, how plants and animals help each other, and the day and night shifts. Ask the check questions. Compare with the Day 1 answer to 'Does nothing live here?' For extra thinking, do Worksheet ws3.", "ref": "ws3"}
+   ], "need": ["a torch with red cellophane or cloth", "the printed cards", "the tree diary", "Worksheet ws3"]}
+ ],
+ "worksheets": [
+  {"id": "ws1", "tier": "core", "title": "The tree town and the soil", "day": 4, "sections": [
+   ["A. Layers of the tree", [
+    {"t": "table", "p": "Write what you found in each layer and what it uses the tree for (food, shelter, nest or rest).", "cols": ["Layer", "Who lives or visits", "Uses it for"], "rows": 4, "prefill": ["roots and ground", "trunk and bark", "branches", "canopy, flowers, fruit"]},
+    {"t": "sort", "p": "What is each animal using the tree for?", "items": ["caterpillar eating a leaf", "crow on its nest", "bee at a flower", "pigeon sleeping on a branch", "squirrel in its twig nest", "cow lying in the shade"], "cats": ["food", "nest", "rest or shelter"]}]],
+   ["B. Soil", [
+    {"t": "fill", "p": "The dark, crumbly part of soil made from rotted leaves is called ____.", "a": ["humus"]},
+    {"t": "mcq", "p": "In the soil jar, which part settled at the very bottom?", "opts": ["clay", "stones and gravel", "bits of leaf"], "a": 1},
+    {"t": "mcq", "p": "Earthworms help soil by…", "opts": ["eating plant roots", "pulling leaves underground and mixing the soil, leaving air tunnels", "making it hard and dry"], "a": 1},
+    {"t": "match", "p": "Match the soil animal to what it does.", "pairs": [["earthworm", "eats dead leaves and makes soil"], ["centipede", "hunts small animals"], ["fungus threads", "break down dead wood and leaves"], ["ant", "carries food back to its nest"]]}]],
+   ["C. Think", [
+    {"t": "write", "p": "Why did we see more animals on the tree in the early morning than at midday?", "lines": 2},
+    {"t": "write", "p": "Give one way the tree helps animals and one way animals help the tree.", "lines": 3}]]]},
+  {"id": "ws2", "tier": "stretch", "title": "Shifts, songs and sharing", "day": 6, "sections": [
+   ["A. Day or night?", [
+    {"t": "sort", "p": "Which shift does each animal mostly work?", "items": ["owl", "myna", "fruit bat", "butterfly", "moth", "squirrel", "gecko", "sunbird"], "cats": ["diurnal (day)", "nocturnal (night)"]},
+    {"t": "fill", "p": "An animal that is awake at night is called ____.", "a": ["nocturnal"]},
+    {"t": "mcq", "p": "The dawn chorus is…", "opts": ["birds singing a lot at sunrise", "people singing in the morning", "the sound of rain"], "a": 0}]],
+   ["B. Sharing one tree", [
+    {"t": "mcq", "p": "A crow, a bee and a caterpillar all live on one mango tree without fighting much because…", "opts": ["they are friends", "each uses a different part and food", "there is plenty of everything"], "a": 1},
+    {"t": "match", "p": "Match each animal to its way of living on the tree (its niche).", "pairs": [["bee", "drinks nectar from the flowers"], ["owlet", "hunts insects and mice at night"], ["caterpillar", "eats leaves"], ["woodpecker", "digs insects out of the bark"], ["fruit bat", "eats fruit at night and drops the seeds"]]},
+    {"t": "mcq", "p": "A bird singing a long song in the breeding season is probably saying…", "opts": ["'I'm hungry'", "'this is my place' and 'choose me'", "'it's going to rain'"], "a": 1}]],
+   ["C. Think", [
+    {"t": "write", "p": "A city puts bright lights around a park all night. Which animals might be affected, and how?", "lines": 3},
+    {"t": "write", "p": "Many trees in cities were 'planted' by birds. How could you test this in your own street?", "lines": 3}]]]},
+  {"id": "ws3", "tier": "challenge", "title": "Is this place empty?", "day": 7, "sections": [
+   ["A. Puzzles", [
+    {"t": "mcq", "p": "The seed tray of plain soil grew seedlings. This shows that…", "opts": ["soil makes seeds from nothing", "soil holds hidden seeds waiting for the right conditions", "we planted them by mistake"], "a": 1},
+    {"t": "mcq", "p": "If all the decomposers on Earth disappeared, the biggest problem would be…", "opts": ["too much noise", "dead leaves and bodies piling up and plants running out of food from the soil", "there would be no problem"], "a": 1},
+    {"t": "mcq", "p": "Darwin found worms reacted when a pot was on a piano being played, but not to a bassoon played nearby. So worms…", "opts": ["hear sound through the air", "feel vibrations through what they touch", "like music"], "a": 1},
+    {"t": "sort", "p": "Who gives what? Sort into the right box.", "items": ["bee", "fig tree", "earthworm", "bird that eats fruit", "tree hole", "flower"], "cats": ["an animal that helps plants", "a plant (or part) that helps animals"]},
+    {"t": "fill", "p": "All the sounds of a place together are called its ____.", "a": ["soundscape"]}]],
+   ["B. Argue and imagine", [
+    {"t": "write", "p": "In the story, the grown-ups looked at the tree at midday and said it was empty. What mistake did they make? How could a scientist make the same mistake?", "lines": 3},
+    {"t": "write", "p": "Jane Goodall gave the chimpanzees names, not numbers. Some scientists said this was wrong. What do you think, and why?", "lines": 3},
+    {"t": "write", "p": "Imagine you are an earthworm. Describe one day in your life, from what you eat to where you go.", "lines": 4}]]]}
+ ],
+ "experiments": [
+  {"id": "e1", "title": "Soil jar test: what is soil made of?", "day": 2, "question": "What different parts is soil made of?", "need": ["a tall clear jar with a lid", "soil from under a tree (enough to fill a third of the jar)", "water", "a pinch of salt (helps clay settle)"], "steps": ["Fill the jar one third with soil.", "Add water until it is nearly full, and the pinch of salt.", "Close the lid tightly and shake hard for one minute.", "Put it down where it won't be moved. Look after 1 minute, 1 hour and the next morning.", "Draw the layers and label them."], "predict": "Ask: 'When we stop shaking, will the soil all sink together or in layers? What will be at the bottom?'", "observe": "Stones and gravel sink at once, then sand within a minute, then finer silt over an hour, then clay slowly overnight. Bits of leaf and twig (humus) float on top. The water may stay cloudy for a day.", "why": "Soil is a mixture of rock broken into pieces of different sizes, plus humus from dead plants and animals, plus air and water in the gaps. Bigger, heavier pieces fall through water fastest. Clay pieces are so tiny they settle very slowly. Different soils have different amounts of each: sandy soil drains fast; clay soil holds water and gets sticky; soil rich in humus is dark and full of life.", "safety": "", "time": "10 min + overnight"},
+  {"id": "e2", "title": "Seeds hiding in the soil", "day": 2, "question": "Are there seeds hiding in ordinary soil?", "need": ["a shallow tray or old plate with a few holes", "soil from under a tree or a garden corner", "water"], "steps": ["Spread the soil about 2 cm deep in the tray. Do NOT add any seeds.", "Water it gently until damp.", "Put it in a light place, and keep it damp.", "Check every 2–3 days for two weeks. Count the seedlings and draw them."], "predict": "Ask: 'If we plant nothing, will anything grow?'", "observe": "Usually several kinds of seedlings appear within a week or two, often grasses and small weeds, sometimes a tree seedling dropped by a bird.", "why": "Soil holds a 'seed bank': seeds dropped by plants, carried by wind or left in bird droppings, some lying still for years until they get water, warmth and light. When a patch of ground is cleared or turned over, these hidden seeds sprout. This is one reason forests can grow back. It also shows that the soil is not just a place where things live now; it is a store of lives waiting to begin.", "safety": "Wash hands after handling soil.", "time": "10 min + 2 weeks"}
+ ],
+ "activities": [
+  {"id": "a1", "title": "Animal habit watch", "day": 5, "mins": 15, "need": ["a timer", "paper and pencil"], "steps": ["Choose one animal you can watch for 10 minutes without scaring it.", "Make a table with ten rows, one for each minute.", "Each minute, write or draw what it is doing: eating, resting, cleaning, looking around, calling, chasing, moving.", "Count which behaviour came up most.", "Write two sentences: what it does most, and what it seemed to be watching or listening for."], "outcome": "A minute-by-minute record of one animal's habits, and two sentences about what it showed."}
+ ],
+ "project": {"title": "A day in the life of one tree", "days": [1, 4, 6, 7], "steps": ["Choose and name one tree on Day 1. Make a diary page with four times: early morning, midday, sunset, after dark.", "Write your guesses of who you'll meet at each time.", "Visit at each time this week. Write and draw every living thing you see or hear, and what it is doing.", "Compare the four times: which was busiest? Who was only there at night?", "Present the diary to the family on Day 7."], "outcome": "A four-time diary of one tree, showing its day shift and night shift."},
+ "game": {"id": "g1", "title": "Tree Town Shifts", "kind": "cards", "players": "2–4", "need": ["scissors", "the printed page of cards"],
+  "rules": ["Cut out the 24 cards and shuffle. Deal 5 cards to each player; the rest is the pile.", "A family is 4 cards from the same layer of the tree: ROOTS AND SOIL, TRUNK, BRANCHES, FLOWERS AND FRUIT, CANOPY, NIGHT SHIFT.", "On your turn, ask any player for a card from a layer: 'Do you have someone from the TRUNK?' If they have one, they give it to you. If not, take a card from the pile.", "When you collect a family of 4, lay it down and say for each card whether it works the day shift or night shift, and what it uses the tree for.", "When the pile runs out, the player with the most families wins."],
+  "cards": [
+   {"front": "ROOTS AND SOIL: earthworm", "back": "day and night: eats dead leaves"}, {"front": "ROOTS AND SOIL: ant", "back": "day: nests at the roots"}, {"front": "ROOTS AND SOIL: mushroom", "back": "breaks down dead wood"}, {"front": "ROOTS AND SOIL: millipede", "back": "night: eats rotting leaves"},
+   {"front": "TRUNK: lichen", "back": "lives on the bark"}, {"front": "TRUNK: woodpecker", "back": "day: digs insects from bark"}, {"front": "TRUNK: beetle", "back": "lives under the bark"}, {"front": "TRUNK: garden lizard", "back": "day: hunts insects on the trunk"},
+   {"front": "BRANCHES: crow", "back": "day: nests in a fork"}, {"front": "BRANCHES: squirrel", "back": "day: builds a twig nest"}, {"front": "BRANCHES: weaver ant", "back": "day: sews leaves into a nest"}, {"front": "BRANCHES: spider", "back": "day and night: webs between twigs"},
+   {"front": "FLOWERS AND FRUIT: bee", "back": "day: nectar and pollen"}, {"front": "FLOWERS AND FRUIT: sunbird", "back": "day: drinks nectar"}, {"front": "FLOWERS AND FRUIT: butterfly", "back": "day: drinks nectar"}, {"front": "FLOWERS AND FRUIT: monkey", "back": "day: eats fruit, drops seeds"},
+   {"front": "CANOPY: parakeet", "back": "day: eats fruit, nests in holes"}, {"front": "CANOPY: caterpillar", "back": "day and night: eats leaves"}, {"front": "CANOPY: koel", "back": "day: calls and eats fruit"}, {"front": "CANOPY: coppersmith barbet", "back": "day: eats figs, calls tuk-tuk"},
+   {"front": "NIGHT SHIFT: spotted owlet", "back": "night: hunts insects and mice"}, {"front": "NIGHT SHIFT: fruit bat", "back": "night: eats fruit, carries seeds"}, {"front": "NIGHT SHIFT: moth", "back": "night: drinks nectar"}, {"front": "NIGHT SHIFT: gecko", "back": "night: hunts moths"}
+  ]},
+ "big": ["If a place looks empty, how can we be sure it is?", "Does a tree belong to the people who own the land, or to everyone who lives in it?", "Who works harder for the forest: the tiger or the earthworm?", "If you could only use your ears, what would you know about the world that you don't know now?", "Should animals be given names by scientists, or numbers?"],
+ "challenge": [
+  {"q": "People often say 'dirt' as if soil were dead and dirty. Is it?", "hint": "A single teaspoon of healthy soil holds more living things than there are people in India, most of them bacteria and fungi too small to see. The earthy smell after rain comes partly from a chemical called geosmin made by soil bacteria. Is 'dirt' the right word?"},
+  {"q": "Many people believe a tree is just a thing that stands there. Is a tree only a tree?", "hint": "A single big tree may host hundreds of kinds of insects, spiders, birds, mammals, lichens and fungi, plus a whole world in the soil beneath it. Scientists counting animals on single tropical trees found many kinds that were new to science. How would you count everything that lives on one tree?"},
+  {"q": "We often hear that earthworms cut in half become two worms. True?", "hint": "Mostly not. Sometimes the front part, with the head, can survive and regrow a tail, but the back part usually dies. Only some kinds of worms can regrow much. Why do you think this myth spread?"}
+ ],
+ "perspectives": [
+  {"who": "An earthworm", "view": "You walk on the ground; I am the ground being made. Every day I swallow soil and dead leaves and leave behind richer soil and tunnels for air and rain. Ask: who is more important for growing your food, a farmer or a worm? Can you choose?"},
+  {"who": "Farmers in many Indian villages", "view": "Many farmers leave old trees like neem, mahua and banyan standing in their fields because they give shade, fodder, fruit and homes for birds that eat crop pests. Ask: what does a tree in a field give that a farmer cannot buy?"},
+  {"who": "A child who cannot see", "view": "People who are blind often know a place by its sounds, smells and the feel of the air. Ask: what can be learned about a habitat by listening that cannot be learned by looking?"}
+ ],
+ "voices": [
+  {"id": "v1", "who": "Charles Darwin (1809–1882), England", "idea": "Darwin's last book, The Formation of Vegetable Mould through the Action of Worms (1881), showed that earthworms make and mix soil. He measured how much soil worms bring to the surface, watched how stones and old ruins slowly sink as worms work beneath them, and tested worms' senses: they ignored a bassoon and shouting, but reacted when their pots were placed on a piano and a note was struck.", "then": "Many people thought worms were just pests or too small to matter, and some doubted Darwin's estimates of how much soil they moved. The book was nevertheless a bestseller in its time.", "now": "Darwin was right that earthworms are among the most important builders of soil in many places. Scientists still argue about the exact numbers, which vary from soil to soil.", "status": "accepted", "ask": "Darwin was famous, but he chose to study something everyone ignored. What small living thing near you do you think deserves 40 years of study?", "day": 2},
+  {"id": "v2", "who": "Jane Goodall (born 1934), England", "idea": "In 1960 Jane Goodall, a young woman with no university degree, began watching chimpanzees at Gombe in Tanzania. After months of patient sitting, she saw a chimpanzee she named David Greybeard strip a grass stem and use it to fish termites out of a mound. She showed chimpanzees make and use tools, hunt, and have strong family bonds and individual personalities.", "then": "Many scientists said only humans made tools, and some criticised her for naming the chimpanzees instead of numbering them and for describing their feelings. Her mentor Louis Leakey said the finding meant humans would have to rethink what makes us special.", "now": "Her findings are accepted. Many animals, including crows, elephants and octopuses, are now known to use tools, and studying animals as individuals is normal science.", "status": "accepted", "ask": "Why do you think it took a person who sat quietly for months, rather than someone who visited for a day, to see the chimpanzees use tools?", "day": 5},
+  {"id": "v3", "who": "Bernie Krause (born 1938), USA", "idea": "Krause, a musician who became a recorder of wild sounds, spent decades recording habitats around the world. He noticed that in healthy, undisturbed places the animals seemed to call in separate pitches and at separate times, like instruments in an orchestra, so each could be heard. He called the sounds of living things 'biophony' and suggested this 'acoustic niche' idea in the 1990s.", "then": "Some ecologists liked the idea and began to use sound recordings to check the health of forests and reefs. Others found that in some places many animals do call in the same pitches and at the same times, so the orchestra pattern is not always there.", "now": "Listening to habitats ('soundscape ecology') is now a real tool for scientists. Whether animals truly divide up the sound space the way Krause suggested is still argued; it seems to happen in some places and not others.", "status": "debated", "ask": "If you recorded your street at dawn now and again in ten years, what might the difference tell you?", "day": 6}
+ ],
+ "story": {"title": "The Night Tree", "text": [
+  "Kabir had never seen the old tamarind tree in the corner of the colony park, but he knew it better than anyone.",
+  "He had been blind since he was born. He knew the park by its edges: the cool damp under the hand pump, the hot iron of the swing chain, the rough bark of the tamarind, cracked into deep ridges like the skin of an elephant's knee. He knew it by smell: in March, the sour-sweet of tamarind pods; after rain, the wet earth under its roots. And he knew it by its sounds.",
+  "That was why he sat very still on the bench when the uncles from the residents' committee came to stand under it, one hot Sunday afternoon.",
+  "\"It's dead, practically,\" said Gupta Uncle. \"Look at it. No birds. Nothing. Just drops leaves all over the cars.\"",
+  "\"And the roots are cracking the path,\" said someone else.",
+  "\"Cut it,\" said Gupta Uncle. \"We'll get four more parking spots. We'll vote on it next Sunday.\"",
+  "Kabir's mother, beside him, said nothing, but he felt her hand go tight on his.",
+  "It was true that the tree was quiet. It was two o'clock, and the heat lay on the park like a blanket. Kabir listened hard. A car horn, far away. A fan in somebody's window. The dry tick of a leaf landing. That was all.",
+  "But Kabir had heard the tree at other times.",
+  "That night he asked his mother for her old phone, the one with the voice recorder. \"I need to make a recording,\" he said. \"Four recordings.\"",
+  "At half past five the next morning, before the milkman, he sat on the bench under the tamarind with the phone on his knee. The dark was cool and blue-smelling. And then, as if someone had switched it on, the tree woke up. First one bird, a loud sweet whistle that rose and fell, over and over: a magpie robin, his mother said later. Then a chattering, bossy noise, many voices at once: mynas. Then a sound like a tiny hammer on metal, tuk, tuk, tuk, tuk, so regular he could count it: the coppersmith barbet. A squirrel scolding. A koel, far up, calling higher and higher as if climbing stairs. The air was so full of voices that Kabir laughed out loud.",
+  "At two in the afternoon, he recorded again. The tree was silent, as the uncles had said. He sat there anyway. After a long time he heard, very close to his ear on the trunk, the faintest scratching. He put out a finger and felt a line of tiny moving bodies going up the bark. Ants. Hundreds of them. Going somewhere, coming back. Working.",
+  "At sunset he recorded a third time, and the tree went mad. The parakeets came back. They came back in shrieking green gangs from wherever they had spent the day, and they argued and squabbled and rearranged themselves in the branches until the whole tree seemed to shake. Crows came in with heavy flaps. Then, slowly, the shrieks became mutters, and the mutters became rustles.",
+  "And then it was the night shift.",
+  "Kabir loved the night shift best. At ten o'clock, with his mother beside him, he sat under the tree in the dark, which for him was no different from the day, except that the air was softer. Crickets started up in the roots, a thin silver ringing. A gecko went tik-tik-tik somewhere on the trunk. Something leathery whooshed past his face, big and soft and sudden, and his mother whispered, \"Bat,\" and then two more went past, heading for the fig trees on the main road. And then, from a hole high in the trunk that he had touched once, years ago, standing on his father's shoulders, there came a sharp, squabbling, chattering screech, two voices at once, like an argument between two very small, very cross grandmothers.",
+  "\"Owls,\" said his mother, amazed. \"Little owls. Kabir, there are owls living in that hole.\"",
+  "\"I know,\" said Kabir. \"They live there every year.\"",
+  "On Sunday the committee met under the tree at two o'clock, because that was when Gupta Uncle was free. It was hot and still and silent. Kabir stood up, and his voice shook, but he held up the phone.",
+  "\"You came at the wrong time,\" he said. \"Everybody's sleeping now. You have to listen at the other times.\"",
+  "He pressed play.",
+  "The magpie robin. The mynas. The tuk-tuk-tuk. Then a long silence, with the faint scratch of ants. Then the roaring green racket of the parakeets coming home. Then the crickets, and the gecko, and the soft rush of bats, and the two little owls screeching from their hole, right above the heads of the people standing there.",
+  "Nobody said anything for a while. Gupta Uncle looked up into the branches, squinting, as if he could see the sounds.",
+  "\"Play the owls again,\" he said."],
+  "epiphany": "A habitat works in shifts. Many birds are busiest at dawn and dusk, rest in the midday heat, and are replaced at night by nocturnal animals like owlets, bats, crickets and geckos, while ants and decomposers work all the time. One tree is home to many animals, each using it differently. The grown-ups judged the tree empty because they looked at the wrong time and only with their eyes; Kabir, who knows it through sound across a whole day, can show it is full. The turn is Kabir's line 'You came at the wrong time'. The story doesn't say what the committee decides.",
+  "ask": ["Why did the grown-ups think the tamarind tree was empty?", "What did Kabir hear at dawn, at midday, at sunset and at night?", "Why do you think the birds were quiet at two in the afternoon?", "What did Kabir know about the tree that people with eyes didn't?", "What do you think the committee decided? Why did Gupta Uncle want to hear the owls again?"]},
+ "ideas": [
+  {"idea": "A habitat works in shifts.", "more": "Day animals (diurnal) and night animals (nocturnal) can share one tree without meeting. To know who lives somewhere, you must look and listen at different times."},
+  {"idea": "Soil is alive and is made by living things.", "more": "Worms, millipedes, fungi and bacteria turn dead leaves into humus, which feeds new plants, which drop new leaves. There is no start or end to the circle."},
+  {"idea": "Plants and animals need each other.", "more": "Plants give food, shelter, nests and rest. Animals pollinate flowers, carry seeds far away and make soil. Many city trees were planted by birds."},
+  {"idea": "Sharing works because everyone lives differently.", "more": "On one tree, the bee drinks nectar, the caterpillar eats leaves, the woodpecker digs bark and the owlet hunts at night. Each has its own niche, so they don't all compete for the same thing."}],
+ "unknowns": [
+  "Nobody knows how many kinds of tiny living things live in a handful of soil. Most soil bacteria and fungi have never been named.",
+  "Do animals in a healthy habitat really divide up the sound space like an orchestra? Scientists are still testing this idea.",
+  "How do bright lights at night change the lives of moths, bats, frogs and owls in our cities? Research is only beginning, and the full effects are not known."],
+ "books": [
+  {"title": "A Log's Life", "author": "Wendy Pfeffer", "for": "read together", "age": "5–9", "why": "An oak falls and becomes a home and food for beetles, fungi, porcupines and more, until it turns to soil and feeds a new tree. Decomposers and shared homes, beautifully told."},
+  {"title": "Diary of a Worm", "author": "Doreen Cronin", "for": "read alone", "age": "5–9", "why": "A funny worm's-eye diary of life underground, with real worm facts tucked inside."},
+  {"title": "The Great Kapok Tree", "author": "Lynne Cherry", "for": "read together", "age": "5–9", "why": "A man falls asleep while cutting a rainforest tree, and the animals who live in it whisper to him why it matters. Shows the layers and lives of one tree."},
+  {"title": "Me... Jane", "author": "Patrick McDonnell", "for": "read alone", "age": "4–8", "why": "Jane Goodall as a little girl, watching animals with her toy chimpanzee, dreaming of Africa."},
+  {"title": "The Formation of Vegetable Mould through the Action of Worms", "author": "Charles Darwin", "for": "parent reads", "age": "adult (read the bits about the piano and the sinking stones aloud)", "why": "Darwin's last book, still readable and full of patient, funny experiments with worms."}
+ ],
+ "check": [
+  {"q": "What is soil made of?", "a": "Tiny bits of rock (sand, silt, clay), humus from rotted leaves and dead things, air, water and living things."},
+  {"q": "What do earthworms and other decomposers do?", "a": "They break down dead leaves and other dead things into humus, mix the soil and make tunnels for air and water, so plants can grow."},
+  {"q": "Name four ways animals use a tree.", "a": "Food (leaves, fruit, nectar, insects on it), shelter, nests, rest or roost."},
+  {"q": "Name two ways animals help plants.", "a": "Pollinating flowers (bees, butterflies, sunbirds) and carrying seeds far away (birds, bats, monkeys, squirrels); worms make soil."},
+  {"q": "What do diurnal and nocturnal mean? Give an example of each.", "a": "Diurnal: awake in the day (myna, squirrel, butterfly). Nocturnal: awake at night (owl, bat, moth, gecko)."},
+  {"q": "Why do birds sing?", "a": "Calls warn, keep in touch or say 'food here'; songs, often at dawn, say 'this is my place' and attract a mate."},
+  {"q": "Why can a crow, a bee and an owlet all live on one tree?", "a": "Each uses a different part, eats a different food or is busy at a different time: each has its own niche."}
+ ]
+}

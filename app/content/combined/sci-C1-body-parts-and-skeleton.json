@@ -1,0 +1,968 @@
+{
+ "key": "combined|sci|1|body-parts-and-skeleton",
+ "board": "combined",
+ "subj": "sci",
+ "level": 1,
+ "n": "body-parts-and-skeleton",
+ "day_mins": 30,
+ "title": "My body: the parts outside, the bones inside, and the strings that move them",
+ "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology, Unit 3.3 'Our bodies' (naming the main parts of the body), and goes further into bones, joints, muscles and skin. No textbook needed.",
+ "summary": "Your child learns the real names of the parts of their body, finds that most come in pairs and that each one has a job, and then discovers what is hidden inside: a skeleton of bones, joints where it bends, and muscles that pull the bones like the strings of a puppet. They trace a life-size picture of themselves, spend a morning without thumbs, try to eat with a stiff elbow, and find out that a newborn baby has more bones than a grown-up.",
+ "builds_on": "This is the first rung. In Class 4 your child comes back to the skeleton: the four jobs of bones, muscles working in pairs, and animals with backbones, shells and no bones at all. In Class 5 they go inside the body to the organs: heart, lungs, stomach, kidneys and brain.",
+ "subconcepts": [
+  "naming the main parts of the body",
+  "left and right: body parts that come in pairs",
+  "every body part has a job",
+  "the thumb that can touch every finger",
+  "bones and the skeleton inside us",
+  "joints: the places where we bend",
+  "muscles pull bones to move us",
+  "skin: the covering that keeps us in and feels the world",
+  "a baby has more bones than a grown-up",
+  "every body is different, and every body is a human body",
+  "other animals have the same parts used for different jobs",
+  "looking after our body: moving, resting, washing"
+ ],
+ "goals": [
+  "By the end your child can point to and name at least 15 parts of the body, including elbow, wrist, shoulder, hip, knee, ankle and heel.",
+  "By the end your child can say which body parts come in pairs and which come one at a time.",
+  "By the end your child can say what a bone is, what a joint is and what a muscle does, and feel each on their own body.",
+  "By the end your child can explain, from their own test, why a thumb or an elbow matters.",
+  "By the end your child can say that a bird's wing, a whale's flipper and their own arm are built from the same kinds of bones.",
+  "By the end your child can say that bodies are all different and all work in the same way."
+ ],
+ "words": [
+  [
+   "joint",
+   "a place where two bones meet and the body can bend, like the elbow or knee"
+  ],
+  [
+   "bone",
+   "a hard, strong, living part inside the body that holds it up"
+  ],
+  [
+   "skeleton",
+   "all the bones of the body together"
+  ],
+  [
+   "muscle",
+   "the soft, strong part under the skin that pulls on bones to move them"
+  ],
+  [
+   "skin",
+   "the stretchy covering of the whole body that keeps germs out and feels touch"
+  ],
+  [
+   "skull",
+   "the hard bony box that keeps the brain safe"
+  ],
+  [
+   "ribs",
+   "the curved bones round the chest that guard the heart and lungs"
+  ],
+  [
+   "spine",
+   "the backbone: a chain of small bones down the middle of the back"
+  ],
+  [
+   "thumb",
+   "the short, strong finger that can touch every other finger"
+  ],
+  [
+   "pair",
+   "two of the same kind, like two eyes or two ears"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "Life-size me",
+   "goal": "Name the parts of the body on a life-size picture of your child.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Touch and say",
+     "mins": 6,
+     "do": "Play 'Touch and say'. Call out a body part and your child touches it on their own body as fast as they can: head, nose, chin, neck, shoulder, elbow, wrist, tummy, hip, knee, ankle, heel, toes. Then swap: your child calls and you touch, and make one deliberate mistake (touch your knee for 'elbow') to see if they catch you. Ask: 'Which part did you not know the name of?' Most children have never been told the names wrist, ankle, heel or hip; say them clearly."
+    },
+    {
+     "kind": "act",
+     "title": "Trace yourself",
+     "mins": 17,
+     "do": "Do Activity a1. Your child lies on a big sheet of paper (or old newspaper sheets taped together) on the floor while you draw round them with a crayon. Together, write labels with arrows: head, neck, shoulder, chest, tummy, arm, elbow, wrist, hand, fingers, thumb, hip, leg, knee, ankle, foot, heel, toes. Ask your child to say each word as they write or stick it. If they cannot write yet, you write and they point.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Two of these, one of those",
+     "mins": 7,
+     "do": "Look at the picture together. Ask: 'Which parts do you have two of?' (eyes, ears, arms, hands, legs, feet, knees, elbows, shoulders, nostrils). 'Which do you have only one of?' (nose, mouth, head, neck, tummy, belly button). Fold the picture down the middle along the nose and tummy: 'Is the left side the same as the right?' Nearly. Say: 'Our bodies come in a left half and a right half, almost like a mirror. Scientists call that symmetry.'"
+    }
+   ],
+   "need": [
+    "a big sheet of paper or old newspapers taped together",
+    "crayons or a thick marker",
+    "small paper labels and tape"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Every part has a job",
+   "goal": "Find out, by losing it for a morning, what the thumb does, and give each body part a job.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Thumb check",
+     "mins": 5,
+     "do": "Ask your child to touch the tip of the thumb to the tip of each finger in turn, then try to touch the tip of the little finger to each other finger. 'Which one can reach all the others?' Only the thumb. Say: 'This thumb that can turn round to face your fingers is one of the most useful things a human body has.'"
+    },
+    {
+     "kind": "exp",
+     "title": "A morning without thumbs",
+     "mins": 14,
+     "do": "Do Experiment e1. Tape your child's thumbs gently against the side of their hands with soft cloth tape (or tie them with a soft hair band). Give them five jobs: do up a button, pick up five grains of rice, hold a pencil and write their name, open a water bottle, eat a piece of roti. Ask after each: 'Easy, hard or impossible?' and record it with a tick, a wavy line or a cross. Take the tape off straight away if anything hurts.",
+     "ref": "e1"
+    },
+    {
+     "kind": "ws",
+     "title": "What does it do?",
+     "mins": 11,
+     "do": "Do Worksheet ws1 together. Read each question aloud. For the matching section, act each one out first: 'Show me what your knee is for' (bending the leg to walk, sit, jump). Good answers name an action, not just a place.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "soft cloth tape or soft hair bands",
+    "a shirt with buttons, rice grains, a pencil, a water bottle, a roti",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The hard parts inside",
+   "goal": "Feel the bones under the skin and meet the skeleton.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Bone hunt",
+     "mins": 7,
+     "do": "Ask your child to press gently all over themselves and find places where something hard is just under the skin: the knee cap, the elbow tip, the knuckles, the shin, the collarbone, the ribs, the skull at the top of the head, the jaw. Each time, say: 'That hard thing is a bone.' Ask: 'Is there bone in your ear? In the tip of your nose?' (No: those are bendy cartilage. Let them wobble it.)"
+    },
+    {
+     "kind": "read",
+     "title": "Read the story",
+     "mins": 12,
+     "do": "Read aloud 'Gulabo and the Strings Inside' (the story in this rung). Read it slowly and do the puppet voice a little stiffly. Stop once, after Gulabo asks where Roshni's strings are, and ask: 'Where do you think Roshni's strings are?' Accept any guess and carry on reading."
+    },
+    {
+     "kind": "talk",
+     "title": "Talk about the story",
+     "mins": 7,
+     "do": "Ask the story questions: 'How is Gulabo's knee like Roshni's knee?' (both bend in one place, at a joint). 'What did Roshni feel in her arm when she lifted it?' (something hard, the bone, and something that went fat and hard, the muscle). 'Who pulls Roshni's strings?' (she does, from inside). Let your child feel their own upper arm while they bend the elbow."
+    },
+    {
+     "kind": "talk",
+     "title": "A skeleton inside",
+     "mins": 4,
+     "do": "Say: 'All your bones together are called your skeleton. A grown-up has 206 bones. More than half of them are in the hands and feet.' Hold up both hands: 'Each hand has 27 bones.' Ask: 'Why do you think hands need so many small bones?' (so they can bend in many places and do fiddly jobs)."
+    }
+   ],
+   "need": [
+    "the story text"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Joints: where we bend",
+   "goal": "Find out what joints do by stopping one, and sort the joints by how they move.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Bend count",
+     "mins": 6,
+     "do": "Ask your child to bend every place on their body that bends, one at a time, saying the name: neck, shoulder, elbow, wrist, each finger knuckle, back, hip, knee, ankle, toes. Say: 'Every place you can bend is a joint, where two bones meet.' Count them together for one finger: how many bends? (three on a finger, two on the thumb)."
+    },
+    {
+     "kind": "exp",
+     "title": "The stiff elbow",
+     "mins": 12,
+     "do": "Do Experiment e2. Roll a newspaper into a tube and tape it loosely round your child's arm over the elbow so the arm stays straight. Put a biscuit on the table. Ask: 'Can you eat the biscuit with this hand?' Let them try. Then ask: 'How could you do it?' (bend at the shoulder and lean the head down, or get a friend to feed you). Take it off and try again. Ask: 'What does the elbow joint let you do?'",
+     "ref": "e2"
+    },
+    {
+     "kind": "do",
+     "title": "Door joint, ball joint",
+     "mins": 7,
+     "do": "Open and close a door: 'The door swings one way on its hinge. Your elbow and knee are like that: they are hinge joints.' Now have your child swing the arm round in a big circle at the shoulder: 'Your shoulder can go round and round. It is a ball joint: a round end of bone sitting in a cup.' Show with your fist (the ball) inside your other cupped hand (the cup), turning it."
+    },
+    {
+     "kind": "talk",
+     "title": "Sushruta's 300 bones",
+     "mins": 5,
+     "do": "Tell your child about voice v1. Say: 'Long ago in India, a book of surgery named after the teacher Sushruta told doctors to learn the body by looking very carefully inside it, layer by layer. It counted about 300 bones. Doctors today count 206 in a grown-up.' Ask: 'Why might two careful people get different numbers?' (they counted different things: Sushruta's book counted teeth, nails and soft bendy cartilage as bones too).",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "a newspaper and tape",
+    "a biscuit"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Muscles: the strings inside",
+   "goal": "Feel muscles pull on bones and build a card arm that moves when you pull a string.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Feel the pull",
+     "mins": 6,
+     "do": "Your child puts one hand on the front of the other upper arm and slowly bends that elbow, bringing the hand up to the shoulder. Ask: 'What happened under your hand?' (it got fat and hard). Then straighten it: 'Now?' (soft again, and the back of the arm goes hard). Say: 'That is a muscle. Muscles can only pull, never push. So you need one to pull your arm up and another to pull it back down.'"
+    },
+    {
+     "kind": "act",
+     "title": "The card arm",
+     "mins": 14,
+     "do": "Do Activity a2. Cut two strips of card for the upper arm and lower arm, join them with a split pin as the elbow, and tape a string to the lower arm near the elbow. Thread it up through a loop of tape on the upper arm. Pull the string: the arm bends. Ask: 'Which part is the bone? Which is the joint? What is the string pretending to be?' (the muscle).",
+     "ref": "a2"
+    },
+    {
+     "kind": "game",
+     "title": "Bone Builder board game",
+     "mins": 10,
+     "do": "Play the board game g1, 'Bone Builder'. Each square asks your child to move a joint, name a body part or answer a question. Play to the end once.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "two strips of thin card, a split pin (paper fastener), string, tape, scissors (a grown-up cuts)",
+    "the printed board game, a die and a counter each"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Skin, sameness and animals",
+   "goal": "Look closely at skin, see that all bodies differ but share one plan, and find our bones in other animals.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Skin detective",
+     "mins": 5,
+     "do": "Look at the skin on the back of your child's hand with a magnifying glass, or with your phone camera zoomed in. Ask: 'What can you see?' (lines, tiny hairs, little holes where sweat comes out). Press the fingertip on a dusty mirror and look at the fingerprint. Say: 'Skin keeps germs out, keeps water in, and feels everything you touch. It is the biggest part of your body.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Every body is different",
+     "mins": 7,
+     "do": "Stand together in front of a mirror, or look at a family photo. Ask: 'How are our bodies different?' (height, skin colour, hair, size of hands, some people use a wheelchair or have one hand). 'How are they the same?' (same bones, same joints, all can feel, all need food and sleep). Tell your child about voice v2: 'A doctor called Vesalius found that the old books about the body were wrong in places, because the writer had cut open monkeys, not people. He said: look at real bodies yourself.' Ask: 'Why is it better to look than to just believe a book?'",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Bones in other animals",
+     "mins": 9,
+     "do": "Do Worksheet ws2. First show your child the drawings below from memory: draw a quick human arm (one bone, then two bones, then lots of little hand bones), and say a bird's wing, a whale's flipper and a bat's wing have this same pattern inside. Then do the sheet together.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "exp",
+     "title": "Foot and forearm",
+     "mins": 6,
+     "do": "Do Experiment e3. Measure your child's foot with string, then hold the string along their forearm from wrist crease to elbow crease. Do the same for everyone at home. Ask: 'Are they nearly the same? Is anyone different?' Say: 'Bodies grow in a pattern, but every body is a little different.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Looking after my body",
+     "mins": 5,
+     "do": "Ask: 'What does your body need from you every day?' Listen for: moving and playing, sleep, food and water, washing, being careful with the bones (helmets, not jumping from high walls). Write your child's three favourite answers on the life-size picture from Day 1."
+    }
+   ],
+   "need": [
+    "a magnifying glass or a phone camera",
+    "a mirror",
+    "a piece of string or wool",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Teach it back",
+   "goal": "Review the whole rung, try the challenge puzzles and teach it back.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Picture tour",
+     "mins": 8,
+     "do": "Bring out the life-size picture from Day 1. Ask your child to add three things they now know are inside: draw the skull in the head, the ribs in the chest and a line of beads for the spine. Mark the joints with red dots. Ask: 'Which part was hardest to live without this week, the thumb or the elbow?'"
+    },
+    {
+     "kind": "think",
+     "title": "Big questions",
+     "mins": 6,
+     "do": "Ask one big question and really listen: 'A puppet needs someone to pull its strings. Who pulls yours?' Then the challenge question: 'Is a skeleton something dead and spooky?' (No: your bones are alive and growing right now; they have blood in them and mend when they break.)"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 16,
+     "do": "Your child is the teacher. They teach a grown-up or a toy: the names of ten parts, one joint and how it moves, how a muscle pulls, and why a thumb is special. Then ask the check questions. If they want more, do Worksheet ws3 together.",
+     "ref": "ws3"
+    }
+   ],
+   "need": [
+    "the life-size picture",
+    "red crayon",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Parts and their jobs",
+   "day": 2,
+   "sections": [
+    [
+     "A. Name it",
+     [
+      {
+       "t": "fill",
+       "p": "The place where your leg bends is your ____.",
+       "a": [
+        "knee"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The place where your arm bends is your ____.",
+       "a": [
+        "elbow"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Your hand joins your arm at your ____.",
+       "a": [
+        "wrist"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Your foot joins your leg at your ____.",
+       "a": [
+        "ankle"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these do you have two of?",
+       "opts": [
+        "nose",
+        "ears",
+        "mouth"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these do you have only one of?",
+       "opts": [
+        "eyes",
+        "hands",
+        "neck"
+       ],
+       "a": 2
+      }
+     ]
+    ],
+    [
+     "B. Match the job",
+     [
+      {
+       "t": "match",
+       "p": "Match each body part to its job.",
+       "pairs": [
+        [
+         "eyes",
+         "see"
+        ],
+        [
+         "ears",
+         "hear"
+        ],
+        [
+         "knees",
+         "bend the legs"
+        ],
+        [
+         "thumb",
+         "grip and hold"
+        ],
+        [
+         "skin",
+         "cover and feel"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Which job was hardest without your thumbs? Why do you think so?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "If you had no knees, how would you climb the stairs?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Inside and outside",
+   "day": 6,
+   "sections": [
+    [
+     "A. Hard or soft?",
+     [
+      {
+       "t": "sort",
+       "p": "Is it bone or not bone?",
+       "items": [
+        "skull",
+        "ear flap",
+        "rib",
+        "tip of the nose",
+        "shin",
+        "tongue"
+       ],
+       "cats": [
+        "bone",
+        "not bone"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "What do muscles do?",
+       "opts": [
+        "push bones",
+        "pull bones",
+        "make bones hard"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Where do two bones meet so you can bend?",
+       "opts": [
+        "at a joint",
+        "at a muscle",
+        "at the skin"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "All your bones together are called your ____.",
+       "a": [
+        "skeleton"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Animals too",
+     [
+      {
+       "t": "match",
+       "p": "Match the animal to the body part it uses like our arm.",
+       "pairs": [
+        [
+         "bird",
+         "wing"
+        ],
+        [
+         "whale",
+         "flipper"
+        ],
+        [
+         "bat",
+         "wing of skin"
+        ],
+        [
+         "elephant",
+         "front leg"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A bird's wing has bones inside like…",
+       "opts": [
+        "our arm and hand",
+        "a stick of wood",
+        "nothing, it is all feathers"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "A baby has about 300 bones and you will have 206 when you are grown up. Where could the extra bones go?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why do you think your fingers have so many joints but your arm has only one between shoulder and wrist?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Body puzzles",
+   "day": 7,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "You can only pull with muscles. So to bend AND straighten your arm you need…",
+       "opts": [
+        "one muscle",
+        "two muscles",
+        "no muscles"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which joint can go round in a circle?",
+       "opts": [
+        "shoulder",
+        "elbow",
+        "knee"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Hinge joint (one way, like a door) or ball joint (round and round)?",
+       "items": [
+        "elbow",
+        "hip",
+        "knee",
+        "shoulder",
+        "finger knuckle"
+       ],
+       "cats": [
+        "hinge joint",
+        "ball joint"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A joint like a door is a ____ joint.",
+       "a": [
+        "hinge"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Your skin is…",
+       "opts": [
+        "the smallest part of your body",
+        "the biggest part of your body",
+        "not a part of your body"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Is your skeleton alive?",
+       "opts": [
+        "yes, bones grow and mend",
+        "no, bones are like stones",
+        "only at night"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What if your skeleton were made of jelly? What could you not do?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A puppet needs a puppeteer. A robot needs a battery. What does your body need to move? Think of three things.",
+       "lines": 3
+      },
+      {
+       "t": "draw",
+       "p": "Draw your arm with the bone inside it and the muscle that pulls it up."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "A morning without thumbs",
+   "day": 2,
+   "question": "What does the thumb do for us?",
+   "need": [
+    "soft cloth tape or soft hair bands",
+    "a shirt with buttons",
+    "five grains of rice",
+    "a pencil and paper",
+    "a water bottle with a screw lid",
+    "a roti"
+   ],
+   "steps": [
+    "Gently tape or tie each thumb flat against the side of the hand. Not tight.",
+    "Try five jobs: do up a button, pick up five rice grains, write your name, open the bottle, tear and eat a piece of roti.",
+    "Mark each job: tick (easy), wavy line (hard), cross (impossible).",
+    "Take the tape off and do the same jobs again. Notice how the thumb moves."
+   ],
+   "predict": "Ask: 'Which job do you think will be impossible without thumbs?'",
+   "observe": "Which jobs became hard or impossible, and how the child tried to manage (using two hands, using teeth, giving up).",
+   "why": "The human thumb can turn and press against the tips of all the other fingers. Scientists call this an opposable thumb. It lets us pinch tiny things and grip tools firmly. Monkeys and apes have thumbs that can do some of this, but ours is longer and stronger compared with our fingers, which is part of why we can hold a pencil so finely.",
+   "safety": "Use soft tape, never tight, and take it off at once if your child's hand feels tingly or hurts. A grown-up opens anything hot or sharp.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "The stiff elbow",
+   "day": 4,
+   "question": "What does a joint let us do?",
+   "need": [
+    "a newspaper",
+    "tape",
+    "a biscuit"
+   ],
+   "steps": [
+    "Roll a newspaper into a tube big enough to slide over your child's arm.",
+    "Slide it over the elbow and tape it loosely so the arm stays straight.",
+    "Ask your child to pick up a biscuit and eat it with that hand.",
+    "Then try touching the top of the head, and scratching the nose.",
+    "Take the tube off and do it again."
+   ],
+   "predict": "Ask: 'Will you be able to eat the biscuit with a straight arm?'",
+   "observe": "Which jobs needed the elbow to bend, and the clever tricks your child used instead.",
+   "why": "The elbow is a hinge joint where the upper arm bone meets the two bones of the lower arm. A muscle at the front of the upper arm pulls the lower arm up, folding the arm at the joint. Without that bend, the hand cannot reach the mouth. Every joint lets the skeleton move in its own way: a hinge goes one way, a ball joint goes round.",
+   "safety": "Keep the tube loose and take it off after a few minutes.",
+   "time": "10 min"
+  },
+  {
+   "id": "e3",
+   "title": "Foot and forearm",
+   "day": 6,
+   "question": "Are some parts of our body the same length as others?",
+   "need": [
+    "a piece of string or wool",
+    "scissors (for a grown-up)"
+   ],
+   "steps": [
+    "Measure your child's foot from heel to big toe with string and cut it.",
+    "Hold the string along the inside of the forearm, from the wrist crease to the elbow crease.",
+    "Do the same for every person at home.",
+    "Compare: is the foot string about the same as the forearm?"
+   ],
+   "predict": "Ask: 'Is your foot longer, shorter or the same as your arm from wrist to elbow?'",
+   "observe": "In most people the two are close to the same. Note who is different.",
+   "why": "Human bodies grow in a pattern, so some lengths come out roughly matched, like foot and forearm, or arm span and height. They are never exactly the same, and every person is a little different. Bodies are alike in plan and different in detail.",
+   "safety": "",
+   "time": "10 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Life-size me",
+   "day": 1,
+   "mins": 17,
+   "need": [
+    "a big sheet of paper or newspapers taped together",
+    "crayons",
+    "labels and tape"
+   ],
+   "steps": [
+    "Your child lies on the paper with arms and legs a little apart.",
+    "Draw round them with a crayon.",
+    "Your child colours in the face and clothes.",
+    "Write and stick labels with arrows for 18 body parts.",
+    "Keep it on the wall: you will add bones and joints later."
+   ],
+   "outcome": "A life-size labelled picture of your child, which grows during the week as bones, joints and care rules are added."
+  },
+  {
+   "id": "a2",
+   "title": "The card arm",
+   "day": 5,
+   "mins": 14,
+   "need": [
+    "two strips of card about 15 cm by 3 cm",
+    "a split pin",
+    "a piece of string 30 cm long",
+    "tape",
+    "scissors (a grown-up cuts)"
+   ],
+   "steps": [
+    "Cut two strips of card: one is the upper arm, one the lower arm.",
+    "Overlap their ends and push a split pin through to make the elbow.",
+    "Tape one end of the string to the lower arm, about 2 cm past the elbow.",
+    "Make a small tape loop on the upper arm near the shoulder end and thread the string through it.",
+    "Hold the upper arm still and pull the string: the lower arm lifts."
+   ],
+   "outcome": "A model arm that bends when the 'muscle' string pulls, showing bone, joint and muscle working together."
+  }
+ ],
+ "project": {
+  "title": "My body book",
+  "days": [
+   6,
+   7
+  ],
+  "steps": [
+   "Draw round your hand and label the thumb and every finger joint.",
+   "Draw your skeleton inside the outline of your body, using the life-size picture as a guide.",
+   "Add a page of 'things my body did today' (ran, jumped, held a pencil, smelled food).",
+   "Add a page of 'my body is different because…' and 'my body is the same because…'.",
+   "Show the book to someone at home and explain one page."
+  ],
+  "outcome": "A small book of four pages about your child's own body, inside and out."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Bone Builder",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "a die",
+   "a counter for each player"
+  ],
+  "rules": [
+   "Everyone starts on START.",
+   "Roll the die and move.",
+   "Do what the square says. If you cannot, move back one square.",
+   "If you land on a question square and answer well, move forward one more.",
+   "The first to reach DANCE wins, and everyone does a dance using as many joints as they can."
+  ],
+  "squares": [
+   "START: stand up straight",
+   "Touch your elbow to your knee: +1",
+   "Name two bones you can feel",
+   "Wiggle every finger joint",
+   "Tape your thumb in your mind: name a job you could not do",
+   "Bend your hip and your knee: which is the hinge?",
+   "Pull like a muscle: flex your arm",
+   "Your skull keeps what safe?",
+   "Spin your shoulder round: it is a ball joint! +2",
+   "Fell off the wall: back 2 and wear a helmet next time",
+   "Count your pairs: eyes, ears, hands…",
+   "Skin is the biggest part: +1",
+   "Feel your ribs: what do they guard?",
+   "Babies have more bones: why?",
+   "Sat still all day: miss a turn",
+   "Ran and played: +2",
+   "Name a body part a bird and you both have",
+   "DANCE!"
+  ]
+ },
+ "big": [
+  "A puppet needs someone to pull its strings. Who pulls yours?",
+  "Your bones are inside you all the time, but you have never seen them. How do you know they are there?",
+  "A bird, a bat, a whale and you all have the same bones in your arms. Why would that be?",
+  "Is a person with one hand, or who uses a wheelchair, any less a human body?",
+  "What is the most important part of your body? Can you choose just one?"
+ ],
+ "challenge": [
+  {
+   "q": "People say skeletons are dead, spooky things.",
+   "hint": "The skeleton in your body is alive. Bones have blood flowing through them, they grow, they get stronger when you run and jump, and they mend themselves when they break. A skeleton only looks dead after a body has died. Ask: what in your body is not alive?"
+  },
+  {
+   "q": "People say grown-ups have more of everything than children.",
+   "hint": "A newborn baby has about 300 bones and soft pieces that will become bone. As the child grows, many of them join together, so a grown-up has 206. Ask: where do you think some of your bones will join? (The skull starts as several pieces with soft gaps that close.)"
+  },
+  {
+   "q": "A book says it, so it must be true.",
+   "hint": "For over a thousand years doctors in Europe trusted the book of Galen about the body. Andreas Vesalius looked at real human bodies and found Galen had made mistakes because he had studied monkeys and other animals. Ask: how can you check a book?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A kathputli puppeteer from Rajasthan",
+   "view": "Puppeteers know that a puppet only looks alive if its strings are tied at the right places: at the joints. A puppet with no joints cannot dance. Ask: where would you tie the strings on a puppet of yourself?"
+  },
+  {
+   "who": "A child who was born without one hand",
+   "view": "Many children born without a hand learn to do almost everything, using the other hand, the arm, the chin and feet in clever ways. Ask: what does that tell you about how bodies and brains learn?"
+  },
+  {
+   "who": "A bat",
+   "view": "A bat's wing is its hand: long finger bones with skin stretched between them. If a bat drew a body chart, the hand would be the biggest part. Ask: would a bat think our hands are strange and small?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Sushruta and the Sushruta Samhita, ancient India (historians date the text to between about the 6th century BCE and the early centuries CE)",
+   "idea": "The Sushruta Samhita, a Sanskrit book of surgery named after the teacher Sushruta, says that a surgeon must not rely only on books but must learn the body by looking carefully inside it, layer by layer. It counts about 300 bones.",
+   "then": "The book was studied and copied in India for centuries and later translated into Arabic.",
+   "now": "Historians agree the text teaches careful observation of the body. Its count of about 300 differs from today's 206 for an adult mainly because it counted things we now call cartilage, teeth and nails. The exact dates of the text and how much was added later are still debated.",
+   "status": "accepted",
+   "ask": "If you and a friend counted the bones in your hand, how could you make sure you both counted the same things?",
+   "day": 4
+  },
+  {
+   "id": "v2",
+   "who": "Andreas Vesalius (1514–1564), Belgium and Italy, and the artists who drew his book",
+   "idea": "In 1543 Vesalius published a huge book about the human body, 'De humani corporis fabrica' (On the Fabric of the Human Body). He had looked inside human bodies himself and showed that the famous Greek doctor Galen had made mistakes, because Galen had mostly studied animals such as monkeys.",
+   "then": "Some doctors were angry: Galen had been trusted for about 1,300 years. Vesalius's own teacher Jacobus Sylvius attacked him.",
+   "now": "Vesalius was right, and his book changed medicine. Its wonderful drawings were made by artists, probably from the workshop of the painter Titian; one may have been Jan van Calcar. Their names are not on the pictures, so we cannot be sure who drew them.",
+   "status": "accepted",
+   "ask": "The drawings made the book famous, but we don't know for sure who drew them. Should the artist's name be on the book too?",
+   "day": 6
+  }
+ ],
+ "books": [
+  {
+   "title": "From Head to Toe",
+   "author": "Eric Carle",
+   "for": "read together",
+   "age": "3–6",
+   "why": "Animals show off their body parts, and the child copies each move: a happy way to name parts and joints."
+  },
+  {
+   "title": "Funnybones",
+   "author": "Janet and Allan Ahlberg",
+   "for": "read together",
+   "age": "4–7",
+   "why": "A gentle, funny story of skeletons who fall apart and put themselves back together, good for naming bones."
+  },
+  {
+   "title": "The Skeleton Inside You",
+   "author": "Philip Balestrino",
+   "for": "read together",
+   "age": "5–8",
+   "why": "A clear, simple first science book about what bones do and how they grow."
+  },
+  {
+   "title": "Here Are My Hands",
+   "author": "Bill Martin Jr and John Archambault",
+   "for": "read together",
+   "age": "3–6",
+   "why": "A rhyming book about what each body part is for, with children of many backgrounds."
+  }
+ ],
+ "check": [
+  {
+   "q": "Show me your wrist, ankle, hip, elbow and heel.",
+   "a": "Points to each correctly."
+  },
+  {
+   "q": "Name three parts you have two of.",
+   "a": "Any three of: eyes, ears, hands, arms, legs, feet, knees, elbows, nostrils."
+  },
+  {
+   "q": "What is a joint?",
+   "a": "A place where two bones meet so the body can bend, like a knee or elbow."
+  },
+  {
+   "q": "What do muscles do?",
+   "a": "They pull on bones to move them. They can only pull, not push."
+  },
+  {
+   "q": "Why is your thumb special?",
+   "a": "It can touch every other finger, so we can pinch, grip and hold a pencil."
+  },
+  {
+   "q": "Does a baby have more bones or fewer than a grown-up?",
+   "a": "More, about 300; many join together as the child grows, leaving 206."
+  },
+  {
+   "q": "What does a bird's wing have inside it that is like your arm?",
+   "a": "The same kinds of bones: one upper arm bone, two lower arm bones and hand bones."
+  }
+ ],
+ "story": {
+  "title": "Gulabo and the Strings Inside",
+  "text": [
+   "I am Gulabo. I am a kathputli, a string puppet, and I was carved from mango wood in a village near Udaipur forty years ago. My face is painted pink and white, my eyes are big and black, and my skirt is red with tiny mirrors sewn into it, so that when I spin, I flash like a fistful of stars.",
+   "I cannot spin by myself. I want you to know that at the start. I have a wooden head, a wooden body and soft cloth arms, and at my wrists and my waist and the top of my head there are black strings. The strings go up, up, into the hands of Bhanwar Lal, who has worked me since he was a boy. When he moves a finger, I dance. When he sleeps, I lie in the tin box with the other puppets, the king and the snake-charmer and the horse, and I do not move at all.",
+   "For forty years this did not trouble me. Then Roshni was born.",
+   "Roshni is Bhanwar Lal's granddaughter. When she was very small, she lay on a mat beside the puppet stage at the fair and waved her arms and kicked her legs while I danced. I watched her through the gap in the curtain. Nobody was pulling her strings. Her arms went up, all by themselves. Her legs went round, all by themselves. How?",
+   "I looked very hard for her strings. I looked above her head. Nothing. I looked at the ceiling of the tent. Nothing. I decided that perhaps her strings were invisible, very thin, like the threads a spider lets down from a roof.",
+   "Roshni grew. She learned to sit, and stand, and walk, and then, one winter, she learned to dance. She danced beside the stage while I danced on it, and she copied me. When I lifted my arms, she lifted hers. When I spun, she spun, and the mirrors on her own small skirt flashed too.",
+   "And I noticed something. When she bent her knee, it bent in one place only, in the middle of her leg. My knee bends in the middle of my leg too, at the place where Bhanwar Lal's father carved two pieces of wood and joined them with a little peg. When she bent her elbow, it bent in one place only. So does mine. Her wrist turned. So does mine. Where she bent, I bent.",
+   "So you are a puppet too, I thought. A puppet with pegs inside you. But where, where were her strings?",
+   "One evening, after the show, Roshni sat on the tin box with her grandfather, swinging her legs. He was rubbing his hands, which had grown old and stiff.",
+   "“Dadaji,” she said, “who pulls my strings?”",
+   "Bhanwar Lal laughed. “Put your hand here,” he said, and he laid her left hand flat on the front of her right arm, above the elbow. “Now lift your hand up to your shoulder. Slowly.”",
+   "Roshni lifted it. Her eyes went wide.",
+   "“It's going fat!” she said. “Something under my skin is going fat and hard!”",
+   "“That is your muscle,” said her grandfather. “And under it, feel, there is something hard that does not change. That is your bone. The bone is like Gulabo's wood. The place where it bends is like Gulabo's peg. And the muscle is your string. It is tied to the bone, inside you, and when it pulls, the bone moves.”",
+   "“So I have strings,” said Roshni slowly. “Inside.”",
+   "“Hundreds,” said Bhanwar Lal. “Strings for your fingers and your toes and your eyes and your tongue. More strings than any puppet in Rajasthan.”",
+   "“And who pulls them?”",
+   "Her grandfather tapped her gently on the forehead. “You do.”",
+   "From the tin box, I heard all of this. I lay very still, as I always do, and I thought about it all night. Her strings were inside her. Mine were outside me. That was the whole difference. She was wood and pegs and strings, like me, only soft and warm, and the hand that pulled her strings was her own.",
+   "I was jealous, a little. Then I was not.",
+   "Because the next spring, at the Pushkar fair, Bhanwar Lal's hands hurt too much to hold the wooden bar that my strings hang from. He sat on a stool and sighed. The crowd was waiting. The drum was ready.",
+   "Roshni climbed onto the stool beside him. She took my bar in her two small hands. I felt it at once: a new hand, lighter, a little shaky. Her fingers bent at their little joints. The muscles in her arms pulled her bones, and her bones lifted the bar, and the bar pulled my strings, and my strings lifted my arms.",
+   "And I danced. I spun, and my mirrors flashed like a fistful of stars, and the crowd clapped, and Bhanwar Lal on his stool clapped loudest of all.",
+   "Her strings pulled my strings. That is how it is now. I do not dance by myself, and I find I do not mind. Nobody, it turns out, dances completely by themselves."
+  ],
+  "epiphany": "We move because muscles inside us pull on bones, and the bones bend at joints: the body is like a puppet whose strings are inside and pulled by itself. The turn comes when Roshni feels her own muscle go fat and hard over the bone and her grandfather says 'You do'. Underneath, gently: Gulabo, Roshni and her grandfather move one another, so no one dances entirely alone.",
+  "ask": [
+   "How were Gulabo and Roshni the same? How were they different?",
+   "What did Roshni feel when she lifted her hand to her shoulder?",
+   "What are Roshni's 'strings' really, and where are her 'pegs'?",
+   "At the end, whose strings pulled whose?",
+   "Gulabo says nobody dances completely by themselves. What do you think she means?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "You are a puppet that pulls its own strings.",
+   "more": "Bones are the frame, joints are the bends and muscles are the strings that pull. Your brain sends the message to pull. Feel it every time you bend your arm."
+  },
+  {
+   "idea": "Your bones are alive.",
+   "more": "They grow, they have blood in them and they mend when broken. A baby has about 300 bones and pieces that join into 206."
+  },
+  {
+   "idea": "Every animal with a backbone shares your plan.",
+   "more": "A bird's wing, a whale's flipper, a bat's wing and your arm have the same bones, shaped for different jobs. We are related to them all."
+  }
+ ],
+ "unknowns": [
+  "Why did the human thumb become so long and strong? Scientists argue about whether it was for making tools, throwing, or something else; nobody knows for sure.",
+  "How does your brain know exactly where your arm is, even with your eyes shut? Scientists understand part of it but are still finding out how all the signals are put together."
+ ]
+}

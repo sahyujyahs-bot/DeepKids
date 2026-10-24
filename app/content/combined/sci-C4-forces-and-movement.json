@@ -1,913 +1,232 @@
 {
  "key": "combined|sci|4|forces-and-movement",
- "board": "combined",
- "subj": "sci",
- "level": 4,
- "n": "forces-and-movement",
- "title": "Spinning, floating and sinking",
- "source": "DeepKids Combined. Covers NCERT Class 4 'How Things Work' (spinning, balance, floating and sinking, designing a boat). No textbook needed; if you have Our Wondrous World Class 4, Chapter 7 goes with this.",
- "summary": "Forces at work in two puzzles every child meets: why some things spin smoothly while others wobble, and why a heavy steel katori floats while a tiny nail sinks. Your child builds spinners, finds the balance point, discovers the upward push of water, and designs, tests and improves a boat that carries the most coins.",
- "builds_on": "Classes 1–3: forces start, stop and turn things, change their shape, can be measured in newtons, and friction slows things down. Next, in Class 5: air resistance, water resistance, upthrust and many forces acting at once.",
+ "board": "combined", "subj": "sci", "level": 4, "n": "forces-and-movement",
+ "title": "How things work: spinning, balance, machines, pressure and floating",
+ "source": "DeepKids Combined. Covers NCERT Class 4 'How Things Work' (spinning, balance, floating and sinking, designing a boat), and goes further into levers and simple machines, centre of mass and pressure. No textbook needed.",
+ "summary": "Forces at work in the puzzles every child meets: why a lattu spins and a stone wobbles, why a tall bottle topples, how a small child can lift a heavy grown-up with a see-saw, why a knife cuts and a camel doesn't sink in sand, and why a heavy bronze uruli floats while a tiny nail sinks. Your child finds balance points, builds levers and ramps, meets the six simple machines and the rule that no machine gives free work, measures the upward push of water, and designs, tests and improves a boat.",
+ "builds_on": "Class 1: pushes and pulls, push backs, gravity pulls down. Class 2: forces change speed, direction and shape; heavy things need bigger forces. Class 3: arrows with size and direction, balanced forces, newtons and forcemeters, mass and weight, friction and rolling. Next, in Class 5: full force diagrams with resultant forces, air and water resistance, streamlining, terminal speed, momentum and rockets; gravity and magnets get their own rungs.",
+ "subconcepts": [
+  "spinning about an axis, and why spinners wobble",
+  "the balance point (centre of mass)",
+  "stable and toppling: a low centre of mass and a wide base",
+  "colours on a fast spinner: the eye holds on to what it sees",
+  "levers: pivot, effort and load, and the see-saw rule",
+  "wheel and axle, and pulleys",
+  "the ramp (inclined plane), the wedge and the screw",
+  "no free work: a machine makes the force smaller but the distance longer",
+  "pressure: the same force on a small area presses harder",
+  "float or sink depends on how heavy something is for its size, and its shape",
+  "upthrust: water pushes up on anything in it",
+  "Archimedes' rule: the upthrust equals the weight of water pushed aside",
+  "salty water pushes up harder",
+  "the water's skin (surface tension) can hold up light things",
+  "design, test, improve"
+ ],
  "goals": [
-  "By the end your child can explain that a spinner spins smoothly when its weight is spread evenly around its centre, and find the balance point of a ruler or a card shape.",
-  "By the end your child can show that water pushes up on things (upthrust), and feel that push with their hand.",
-  "By the end your child can show that floating depends on shape and material, not only on weight: the same foil floats as a cup and sinks as a tight ball.",
-  "By the end your child can make a sinker float and a floater sink, and explain how.",
-  "By the end your child can design, test, improve and re-test a boat, keeping a record of each change."
+  "By the end your child can explain why a spinner spins smoothly when its stick goes through the balance point, and find the balance point of an odd shape.",
+  "By the end your child can make a bottle harder to topple and explain why, using the centre of mass and the base.",
+  "By the end your child can find levers, wheels and axles, pulleys, ramps, wedges and screws at home, and explain that a machine trades a smaller force for a longer distance.",
+  "By the end your child can explain pressure with a knife, a drawing pin and a camel's foot.",
+  "By the end your child can show that floating depends on shape and on how heavy something is for its size, and measure upthrust with a forcemeter.",
+  "By the end your child can design, build, test and improve a boat, changing one thing at a time."
  ],
  "words": [
-  [
-   "spin",
-   "to turn round and round about a line through the middle"
-  ],
-  [
-   "axis",
-   "the line, real or imaginary, that something spins around"
-  ],
-  [
-   "balance point",
-   "the point where an object balances because its weight is equal on all sides"
-  ],
-  [
-   "float",
-   "to stay at the top of a liquid"
-  ],
-  [
-   "sink",
-   "to go down to the bottom of a liquid"
-  ],
-  [
-   "upthrust",
-   "the upward push of water (or air) on anything in it"
-  ],
-  [
-   "displace",
-   "to push aside; a floating boat pushes aside water"
-  ],
-  [
-   "design",
-   "to plan how to make something before you make it"
-  ],
-  [
-   "improve",
-   "to change a design to make it work better"
-  ]
+  ["axis", "the line, real or imaginary, that something spins around"],
+  ["centre of mass", "the balance point, where all of an object's weight seems to act"],
+  ["stable", "hard to topple over"],
+  ["lever", "a bar that turns on a pivot to lift or move a load"],
+  ["pivot", "the point a lever turns on (also called the fulcrum)"],
+  ["simple machine", "a lever, wheel and axle, pulley, ramp, wedge or screw: a tool that changes the size or direction of a force"],
+  ["pressure", "how much a force is squeezed onto each bit of area"],
+  ["float", "to stay at the top of a liquid"],
+  ["upthrust", "the upward push of water (or air) on anything in it"],
+  ["density", "how heavy something is for its size"],
+  ["design", "to plan how to make something before you make it"]
  ],
  "day_mins": 45,
  "days": [
-  {
-   "n": 1,
-   "title": "Spinning things",
-   "goal": "Explore what spins well and what wobbles.",
+  {"n": 1, "title": "Spinning things", "goal": "Explore what spins well and what wobbles, and see colours blend on a spinner.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Forces so far",
-     "mins": 7,
-     "do": "Quick quiz from last year: 'What's friction? What's a newton? Draw a balanced force.' Then spin a ₹5 coin on its edge on a smooth table. Ask: 'What happens just before it stops?' (It wobbles, rattles faster and falls.) 'Which force slows it?' (Friction with the table and air.)"
-    },
-    {
-     "kind": "exp",
-     "title": "What can spin?",
-     "mins": 20,
-     "do": "Do Experiment e1. Your child predicts, spins and records each object in a table: Object / I observe / I wonder / I think.",
-     "ref": "e1"
-    },
-    {
-     "kind": "act",
-     "title": "Build card spinners",
-     "mins": 15,
-     "do": "Do Activity a1: four spinners with the stick in different places. Test them on Day 2 too.",
-     "ref": "a1"
-    },
-    {
-     "kind": "review",
-     "title": "Spot the pattern",
-     "mins": 3,
-     "do": "Ask: 'Which spinners spun longest? What do good spinners have in common?' (Round, flat, and the stick right in the middle.)"
-    }
-   ],
-   "need": [
-    "a ₹5 coin",
-    "a bangle",
-    "a pencil",
-    "a stone",
-    "a lattu if you have one",
-    "an eraser",
-    "a steel thali",
-    "thin card, scissors, toothpicks, a katori to trace round"
-   ]
-  },
-  {
-   "n": 2,
-   "title": "Balance and the centre",
-   "goal": "Find balance points and connect them to smooth spinning.",
+    {"kind": "warmup", "title": "Forces so far", "mins": 7, "do": "Quick quiz from last year: 'What's friction? What's a newton? Draw a balanced force on a book on a table. Why is rolling easier than sliding?' Then spin a ₹5 coin on its edge on a smooth table. Ask: 'What happens just before it stops?' (It wobbles, rattles faster and falls.) 'Which force slows it?' (Friction with the table and the air.)"},
+    {"kind": "exp", "title": "What can spin?", "mins": 15, "do": "Do Experiment e1. Your child predicts, spins and records each object in a table with four columns: Object / I observe / I wonder / I think.", "ref": "e1"},
+    {"kind": "act", "title": "Build card spinners", "mins": 15, "do": "Do Activity a1: four card spinners with the stick in different places, one of them coloured in two halves. Test them now and again on Day 2. Ask: 'Which spinner spun longest? What do good spinners have in common?' (Round, flat, and the stick right in the middle.)", "ref": "a1"},
+    {"kind": "think", "title": "Where did the colours go?", "mins": 8, "do": "Spin the two-colour spinner (blue and yellow) fast. Ask: 'What colour do you see?' (A greenish blur.) Say: 'Your eye holds on to each picture for a tiny moment, about a tenth of a second. When the colours swap faster than that, your eye mixes them.' Tell them Isaac Newton painted a disc with the colours of the rainbow; spun fast, it looks whitish-grey, because white light is all the colours mixed. Ask: 'Why does a fan look like a see-through circle when it's on?'"}
+   ], "need": ["₹5 coin", "bangle, pencil, stone, lattu, eraser, steel thali", "thin card, a katori to trace, scissors, toothpicks, glue, crayons"]},
+  {"n": 2, "title": "Balance, and why things topple", "goal": "Find balance points, connect them to smooth spinning, and make things stable.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Finger balance",
-     "mins": 5,
-     "do": "Balance a ruler on one finger. Ask: 'Where did your finger have to be?' (In the middle.) Now stick two coins on one end with tape. 'Where now?' (Closer to the heavy end.)"
-    },
-    {
-     "kind": "exp",
-     "title": "Find the balance point",
-     "mins": 20,
-     "do": "Do Experiment e2: find the balance point of a ruler with coins, and of an odd card shape by hanging it from a pin.",
-     "ref": "e2"
-    },
-    {
-     "kind": "do",
-     "title": "Make a perfect spinner",
-     "mins": 15,
-     "do": "Use the odd card shape from e2. Push the toothpick through the balance point you found. Does it spin smoothly, even though it isn't round? (Yes, if the stick goes through the balance point.) Now try one stick away from it: it wobbles. Say: 'A spinner spins well when its weight is spread evenly around the stick.'"
-    },
-    {
-     "kind": "talk",
-     "title": "Spinners in India",
-     "mins": 5,
-     "do": "Talk about the charkha and the lattu. Ask: 'Why is a charkha wheel round, with the axle in the centre?' and 'Why does a lattu have a point at the bottom?' (Less friction, so it spins longer.)"
-    }
-   ],
-   "need": [
-    "a ruler",
-    "coins and tape",
-    "an odd card shape",
-    "a pin and thread",
-    "toothpicks"
-   ]
-  },
-  {
-   "n": 3,
-   "title": "Float or sink?",
-   "goal": "Test what floats, and find it isn't just about weight.",
+    {"kind": "warmup", "title": "Finger balance", "mins": 5, "do": "Balance a ruler on one finger. Ask: 'Where did your finger have to be?' (In the middle.) Now tape two coins to one end. 'Where now?' (Closer to the heavy end.)"},
+    {"kind": "exp", "title": "Find the balance point", "mins": 15, "do": "Do Experiment e2: find the balance point of a ruler with coins, and of an odd card shape by hanging it from a pin. Then push a toothpick through the odd shape's balance point and spin it: it spins smoothly, even though it isn't round. Say: 'A spinner spins well when its weight is spread evenly around the stick. Scientists call the balance point the centre of mass.'", "ref": "e2"},
+    {"kind": "exp", "title": "Topple test", "mins": 15, "do": "Do Experiment e7: tilt an empty bottle, a bottle with sand at the bottom and a bottle with a sand-filled cap taped on top, and see how far each tilts before it falls. Ask: 'Which was most stable? Why?' (Weight low down: the centre of mass stays over the base for longer.) Then your child stands on one foot, then with feet wide apart, while you give a gentle push on the shoulder. 'Which is harder to topple?'", "ref": "e7"},
+    {"kind": "talk", "title": "Lattus, charkhas and heads", "mins": 10, "do": "Ask: 'Why is a charkha wheel round, with the axle in the centre?' (Even weight all round, so it turns smoothly.) 'Why does a lattu have a point at the bottom?' (Less friction, so it spins longer.) 'Why do trucks carry heavy loads at the bottom and light ones on top?' Then read the 'women who carry loads' perspective and ask its question."}
+   ], "need": ["ruler, coins and tape", "an odd card shape, a pin, thread and a key", "toothpicks", "three plastic bottles, sand"]},
+  {"n": 3, "title": "Levers: lifting the heavy with the light", "goal": "Build a lever and find the see-saw rule.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Guess the float",
-     "mins": 5,
-     "do": "Show a big steel katori and a small iron nail. Ask: 'Which is heavier? Which will float?' Most children say the nail floats because it's light. Write the guess."
-    },
-    {
-     "kind": "exp",
-     "title": "Float or sink test",
-     "mins": 22,
-     "do": "Do Experiment e3 with a bucket of water and 10 objects. Record guesses and results.",
-     "ref": "e3"
-    },
-    {
-     "kind": "ws",
-     "title": "Record and sort",
-     "mins": 10,
-     "do": "Do Worksheet ws1 using the results. Your child copies their table, then answers the two questions. Ask: 'Which surprised you most?'",
-     "ref": "ws1"
-    },
-    {
-     "kind": "think",
-     "title": "The katori surprise",
-     "mins": 8,
-     "do": "Ask: 'The katori is heavier than the nail but floats. What's different about it?' Accept 'it's hollow', 'it's wide', 'it's got air inside'. Say: 'Shape matters. Tomorrow we'll find out why.'"
-    }
-   ],
-   "need": [
-    "a bucket of water",
-    "a steel katori",
-    "an iron nail",
-    "a coin",
-    "a wooden peg",
-    "a plastic lid",
-    "an apple",
-    "a potato",
-    "a key",
-    "a candle",
-    "a ball of clay or atta dough",
-    "worksheet ws1"
-   ]
-  },
-  {
-   "n": 4,
-   "title": "Water pushes up",
-   "goal": "Feel upthrust and see how shape changes floating.",
+    {"kind": "warmup", "title": "See-saw puzzle", "mins": 5, "do": "Ask: 'You sit on one end of a see-saw and a grown-up sits on the other. How could you lift the grown-up?' (They move closer to the middle, or you sit further out.) Draw it: a plank, a pivot in the middle, a load on one side and a push (effort) on the other."},
+    {"kind": "exp", "title": "Ruler lever", "mins": 20, "do": "Do Experiment e8: balance a ruler on a pencil, put a stack of coins on one side and find how many coins balance it at different distances on the other side. Write a table. Then use a long ruler and a short ruler over the pencil to lift a heavy book, and ask: 'Which lever made it easier? Which end did you have to push down further?'", "ref": "e8"},
+    {"kind": "do", "title": "Lever hunt", "mins": 12, "do": "Your child finds levers at home and says where the pivot, the effort and the load are: scissors (pivot at the screw), a bottle opener, a nutcracker or supari cutter (sarota), tongs, a spoon prising open a tin lid, a hand pump handle, a door on its hinges, their own forearm (pivot at the elbow). Ask: 'Why are scissors for cutting cardboard long-handled?'"},
+    {"kind": "think", "title": "Could Archimedes move the Earth?", "mins": 8, "do": "Do the first challenge question. Read the quote 'Give me a place to stand and I will move the Earth.' Ask: 'Is he right in theory? What would the problem be?' Then read the hint and ask: 'If a long lever lets you lift something heavy, what do you have to give up?' (You have to push your end a much longer way.)"}
+   ], "need": ["a 30 cm ruler, a long ruler or plank strip and a pencil", "₹1 coins", "a heavy book", "household levers"]},
+  {"n": 4, "title": "Wheels, pulleys, ramps, wedges and screws", "goal": "Meet the six simple machines and the rule that there is no free work.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Push the ball down",
-     "mins": 6,
-     "do": "Push a plastic ball or empty bottle down into a bucket of water with your hand. Ask: 'What do you feel?' (The water pushes back up.) 'What happens when you let go?' (It shoots up.) Say: 'That upward push of water is called upthrust.'"
-    },
-    {
-     "kind": "exp",
-     "title": "Weigh it in water",
-     "mins": 15,
-     "do": "Do Experiment e4: hang a stone from the home-made forcemeter (from Class 3) or a rubber band, measure it in air, then in water.",
-     "ref": "e4"
-    },
-    {
-     "kind": "exp",
-     "title": "Foil and clay shapes",
-     "mins": 16,
-     "do": "Do Experiment e5: the same foil sheet as a tight ball and as a boat; the same clay as a ball and as a bowl.",
-     "ref": "e5"
-    },
-    {
-     "kind": "talk",
-     "title": "Archimedes",
-     "mins": 8,
-     "do": "Talk about voice v1 and the bath-tub story. Then the challenge question: 'Did Archimedes really run naked through the streets shouting Eureka?' (see the hint).",
-     "ref": "v1"
-    }
-   ],
-   "need": [
-    "a plastic ball or empty bottle",
-    "a bucket of water",
-    "a stone tied with thread",
-    "the forcemeter or a rubber band and ruler",
-    "kitchen foil",
-    "clay or atta dough"
-   ]
-  },
-  {
-   "n": 5,
-   "title": "Sinkers that float, floaters that sink",
-   "goal": "Change things to make them float or sink, and explain why.",
+    {"kind": "act", "title": "Simple machine hunt", "mins": 15, "do": "Do Activity a2: hunt for the six simple machines at home and on the street and fill in the table. Ask for each: 'Does it make the force smaller, change its direction, or both?'", "ref": "a2"},
+    {"kind": "exp", "title": "Ramp test", "mins": 20, "do": "Do Experiment e9: lift a loaded toy truck straight up with the forcemeter, then pull it up a ramp to the same height. Measure the force and the distance each way. Ask: 'Which needed less force? Which went further?' Then say: 'A machine never gives you something for nothing. It lets you use a smaller force, but you must push for a longer distance. Scientists say the work stays the same, or a bit more because of friction.'", "ref": "e9"},
+    {"kind": "talk", "title": "Al-Jazari's machines", "mins": 10, "do": "Talk about voice v3: an engineer who wrote a book of machines over 800 years ago. Ask the voice's question. Then ask: 'Who do you think built the stepwells of Gujarat and Rajasthan, and lifted water with pulleys and bullocks for centuries? Are their names in books?'", "ref": "v3"}
+   ], "need": ["the table from Activity a2", "a toy truck, books as load, a board for a ramp, the forcemeter from Class 3, a measuring tape"]},
+  {"n": 5, "title": "Pressure: knives, pins and camels", "goal": "Find out why the same force can press gently or cut, and apply simple machines to new cases.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Sinker challenge",
-     "mins": 5,
-     "do": "Give your child a clay ball that sinks. Challenge: make it float without adding anything. (Make it a hollow boat shape.)"
-    },
-    {
-     "kind": "exp",
-     "title": "The floating potato",
-     "mins": 15,
-     "do": "Do Experiment e6: a potato sinks in tap water but floats when you stir in lots of salt.",
-     "ref": "e6"
-    },
-    {
-     "kind": "act",
-     "title": "Make a floater sink",
-     "mins": 15,
-     "do": "Give a floating plastic bottle with the cap on. Challenge: make it sink using things at home (fill it with water or sand). Then make it float just halfway (add a little at a time). Ask: 'What did you change?' (How heavy it is for its size.)"
-    },
-    {
-     "kind": "talk",
-     "title": "Galileo's ice debate",
-     "mins": 10,
-     "do": "Talk about voice v2: in 1611 Galileo argued with Lodovico delle Colombe about why ice floats. Ask the voice's question.",
-     "ref": "v2"
-    }
-   ],
-   "need": [
-    "clay",
-    "a potato",
-    "a big glass of water",
-    "salt and a spoon",
-    "a plastic bottle with a cap",
-    "sand or water"
-   ]
-  },
-  {
-   "n": 6,
-   "title": "The great boat challenge",
-   "goal": "Design, build, test and improve a boat that carries the most coins.",
+    {"kind": "warmup", "title": "Finger and pencil", "mins": 5, "do": "Your child presses the flat end of a pencil gently into their palm, then the pointed end with the same gentle push (carefully). Ask: 'Same push. Why did the point feel so much sharper?' (The push is squeezed onto a tiny area.)"},
+    {"kind": "exp", "title": "Pressure in dough", "mins": 15, "do": "Do Experiment e10: press the flat end and the point of a pencil, a coin flat and a coin on its edge, into a slab of dough with the same weight on top, and measure how deep each goes. Then stand in a sand tray or wet soil flat-footed and on tiptoe and compare the footprints.", "ref": "e10"},
+    {"kind": "talk", "title": "Camels, elephants, knives and pins", "mins": 10, "do": "Ask: 'Why does a camel have wide, padded feet?' (Its weight is spread over a big area so it doesn't sink into sand.) 'Why is a knife sharpened?' (A thin edge puts the push on a tiny area, so it cuts.) 'Why does a drawing pin have a wide head and a sharp point?' (Wide for your thumb, sharp for the board.) 'Why do tractors on muddy fields have wide tyres?' 'Why does it hurt to stand on one Lego brick but not on a flat floor?'"},
+    {"kind": "ws", "title": "Stretch worksheet: machines and pressure", "mins": 15, "do": "Do Worksheet ws2: levers, machines and pressure in new cases, with force diagrams. Ask your child to say the 'why' answers aloud before writing.", "ref": "ws2"}
+   ], "need": ["a pencil", "a slab of dough 3 cm thick", "two ₹1 coins", "a book as a weight", "a sand tray or patch of wet soil", "worksheet ws2"]},
+  {"n": 6, "title": "Float or sink?", "goal": "Hear the story, test what floats, and find it isn't just about weight.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "The challenge",
-     "mins": 5,
-     "do": "Say: 'You have one sheet of foil (20 cm × 20 cm). Design a boat that carries the most ₹1 coins without sinking.' Your child draws a design first and predicts how many coins it will hold."
-    },
-    {
-     "kind": "do",
-     "title": "Build and test",
-     "mins": 25,
-     "do": "Do the project, Round 1: build, float, add coins one at a time, gently, spread out. Record the number when it sinks. Then Round 2: change ONE thing (taller sides, wider base, flatter) and test again."
-    },
-    {
-     "kind": "game",
-     "title": "Float or Sink? card game",
-     "mins": 15,
-     "do": "Play the Float or Sink? card game (g1). Each card names an object; players predict, explain, and can test with the bucket.",
-     "ref": "g1"
-    }
-   ],
-   "need": [
-    "kitchen foil, several 20 cm squares",
-    "a tub of water",
-    "30 ₹1 coins",
-    "a pencil and paper",
-    "the printed cards"
-   ]
-  },
-  {
-   "n": 7,
-   "title": "Review and boat show",
-   "goal": "Explain everything and show the best boat.",
+    {"kind": "read", "title": "Story: Ammachi's Uruli", "mins": 12, "do": "Read the story aloud. Don't explain it. Ask: 'Why did the steel tumbler sink but the much heavier uruli float?' and 'What did Appa mean by \"make room\"?' Accept any answers today; you'll test them."},
+    {"kind": "warmup", "title": "Push the ball down", "mins": 7, "do": "Push a plastic ball or empty bottle down into a bucket of water with your hand. Ask: 'What do you feel?' (The water pushes back up.) 'What happens when you let go?' (It shoots up.) Say: 'That upward push of water is called upthrust.'"},
+    {"kind": "exp", "title": "Float or sink test", "mins": 18, "do": "Do Experiment e3 with a bucket of water and 10 objects, including a big steel katori and a small iron nail. Record guesses and results. Ask: 'Find the heaviest thing that floats and the lightest thing that sinks.'", "ref": "e3"},
+    {"kind": "think", "title": "The katori surprise", "mins": 8, "do": "Ask: 'The katori is heavier than the nail but floats. What's different about it?' Accept 'it's hollow', 'it's wide', 'it's got air inside'. Say: 'Whether something floats depends on how heavy it is for its size, which scientists call density, and on its shape. Tomorrow we measure the water's push.'"}
+   ], "need": ["a bucket of water", "a plastic ball or empty bottle", "10 objects including a steel katori and an iron nail"]},
+  {"n": 7, "title": "Water pushes up", "goal": "Measure upthrust and see how shape and salt change floating.",
    "steps": [
-    {
-     "kind": "ws",
-     "title": "Think it through",
-     "mins": 12,
-     "do": "Do Worksheet ws2 (stretch) and, if there's time, ws3 (challenge).",
-     "ref": "ws2"
-    },
-    {
-     "kind": "think",
-     "title": "Big questions",
-     "mins": 10,
-     "do": "Talk about two big questions: 'How does a ship made of thousands of tonnes of steel float?' (It's hollow, so it pushes aside a huge amount of water, and the upthrust equals its weight.) 'Why can you float more easily in the sea than in a pool?' (Salty water pushes up harder.) Then try the puzzles on ws3.",
-     "ref": "ws3"
-    },
-    {
-     "kind": "check",
-     "title": "Boat show and teach it back",
-     "mins": 23,
-     "do": "Your child presents the best boat to the family: the design, the changes and the results. Then ask the check questions. Finish with: 'Show me how to make the clay float, and tell me why it works.'"
-    }
-   ],
-   "need": [
-    "worksheets ws2 and ws3",
-    "the boats",
-    "a tub of water"
-   ]
-  }
+    {"kind": "exp", "title": "Weigh it in water", "mins": 12, "do": "Do Experiment e4: hang a stone from the forcemeter, measure it in air, then in water. Ask: 'Did the stone get lighter?' (No, the water is helping hold it up.)", "ref": "e4"},
+    {"kind": "exp", "title": "Foil and clay shapes", "mins": 13, "do": "Do Experiment e5: the same foil sheet as a tight ball and as a boat; the same clay as a ball and as a thin bowl. Ask: 'Same stuff, same weight. Why does the bowl float?' (It pushes aside more water, so the upthrust is bigger.)", "ref": "e5"},
+    {"kind": "exp", "title": "The floating potato", "mins": 10, "do": "Do Experiment e6: a potato sinks in tap water but floats when you stir in lots of salt. Ask: 'Why is it easier to float in the sea than in a pool?'", "ref": "e6"},
+    {"kind": "talk", "title": "Galileo's ice debate", "mins": 10, "do": "Talk about voice v2: in 1611 Galileo argued with Lodovico delle Colombe about why ice floats. Then try the voice's test: lay a steel needle very gently on water on a small piece of tissue; the tissue sinks and the needle stays on top. Ask the voice's question.", "ref": "v2"}
+   ], "need": ["a stone on a thread", "the forcemeter", "a bucket of water", "foil", "clay", "a potato, a big glass, salt and a spoon", "a steel needle and tissue paper"]},
+  {"n": 8, "title": "The great boat challenge", "goal": "Design, build, test and improve a boat that carries the most coins.",
+   "steps": [
+    {"kind": "do", "title": "Build and test", "mins": 25, "do": "Do the project. Say: 'You have one sheet of foil, 20 cm by 20 cm. Design a boat that carries the most ₹1 coins without sinking.' Your child draws a design first and predicts how many coins it will hold. Round 1: build, float, add coins one at a time, gently, spread out. Record the number when it sinks. Round 2: change ONE thing (taller sides, wider base, flatter bottom) and test again. Ask: 'Where did you put the coins? Why does spreading them help?' (Keeps the boat level, centre of mass in the middle.)"},
+    {"kind": "game", "title": "Float or Sink? card game", "mins": 12, "do": "Play the Float or Sink? card game (g1). Each card names an object; players predict, explain, and can test with the bucket.", "ref": "g1"},
+    {"kind": "talk", "title": "Archimedes and the weight of water", "mins": 8, "do": "Talk about voice v1. Ask: 'When you added coins, the boat sank lower. What was happening to the water it pushed aside?' (More water was pushed aside, so the upthrust grew, until the sides went under.) Then do the second challenge question: did the bathtub 'Eureka!' story really happen?", "ref": "v1"}
+   ], "need": ["foil squares 20 cm × 20 cm", "₹1 coins", "a tub of water", "the printed Float or Sink? cards"]},
+  {"n": 9, "title": "Review and boat show", "goal": "Explain everything and show the best boat.",
+   "steps": [
+    {"kind": "ws", "title": "Core worksheet", "mins": 12, "do": "Do Worksheet ws1: spinning, balance, levers, pressure and floating. Your child builds each force diagram and explains the 'why' answers aloud before writing.", "ref": "ws1"},
+    {"kind": "think", "title": "Challenge sheet", "mins": 10, "do": "Do two or three items from Worksheet ws3 together, including 'how does a steel ship float?' Leave the rest for another day.", "ref": "ws3"},
+    {"kind": "check", "title": "Boat show and teach it back", "mins": 23, "do": "Your child presents the best boat to the family: the design, the changes and the results. Then ask the check questions. Finish with: 'Show me how to make the clay float, and tell me why it works,' and 'Lift this heavy book with a ruler and a pencil, and tell me what you gave up.'"}
+   ], "need": ["worksheets ws1 and ws3", "the boats", "clay, a ruler and a pencil"]}
  ],
  "worksheets": [
-  {
-   "id": "ws1",
-   "tier": "core",
-   "title": "Float or sink?",
-   "day": 3,
-   "sections": [
-    [
-     "A. Record",
-     [
-      {
-       "t": "table",
-       "p": "Your test.",
-       "cols": [
-        "Object",
-        "My guess",
-        "Floats or sinks?",
-        "Made of"
-       ],
-       "rows": 6,
-       "prefill": [
-        "katori",
-        "nail",
-        "coin",
-        "wooden peg",
-        "apple",
-        "potato"
-       ]
-      }
-     ]
-    ],
-    [
-     "B. Choose",
-     [
-      {
-       "t": "mcq",
-       "p": "The steel katori floats but the nail sinks. So floating depends on:",
-       "opts": [
-        "only weight",
-        "shape and material, not only weight",
-        "colour"
-       ],
-       "a": 1
-      },
-      {
-       "t": "fill",
-       "p": "The upward push of water is called ____.",
-       "a": [
-        "upthrust",
-        "buoyancy"
-       ]
-      }
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "ws2",
-   "tier": "stretch",
-   "title": "Spin and float",
-   "day": 7,
-   "sections": [
-    [
-     "A. Spinners",
-     [
-      {
-       "t": "mcq",
-       "p": "Which spinner spins best?",
-       "opts": [
-        "stick through the balance point",
-        "stick near the edge",
-        "stick at a slant"
-       ],
-       "a": 0
-      },
-      {
-       "t": "write",
-       "p": "Why does a lattu have a sharp point at the bottom?",
-       "lines": 2
-      }
-     ]
-    ],
-    [
-     "B. Floating",
-     [
-      {
-       "t": "match",
-       "p": "How did we change it?",
-       "pairs": [
-        [
-         "clay ball to bowl",
-         "it floats"
-        ],
-        [
-         "foil boat to tight ball",
-         "it sinks"
-        ],
-        [
-         "potato in salty water",
-         "it floats"
-        ],
-        [
-         "bottle filled with sand",
-         "it sinks"
-        ]
-       ]
-      },
-      {
-       "t": "write",
-       "p": "A stone weighed 3 N in air and 2 N in water. Why is it less in water?",
-       "lines": 2
-      }
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "ws3",
-   "tier": "challenge",
-   "title": "Shipbuilder's puzzles",
-   "day": 7,
-   "sections": [
-    [
-     "A. Reason",
-     [
-      {
-       "t": "write",
-       "p": "A huge steel ship floats but a small steel nail sinks. Explain.",
-       "lines": 3
-      },
-      {
-       "t": "write",
-       "p": "Your foil boat sank when all the coins were in one corner but not when they were spread out. Why?",
-       "lines": 3
-      },
-      {
-       "t": "write",
-       "p": "Ice floats on water. What does that tell you about ice compared with water?",
-       "lines": 2
-      }
-     ]
-    ]
-   ]
-  }
+  {"id": "ws1", "tier": "core", "title": "How things work", "day": 9, "sections": [
+   ["A. Spinning and balance", [
+    {"t": "mcq", "p": "Where should the stick go for a card spinner to spin smoothly?", "opts": ["near the edge", "through the balance point", "anywhere"], "a": 1},
+    {"t": "mcq", "p": "Which bottle is hardest to topple?", "opts": ["empty", "sand at the bottom", "sand at the top"], "a": 1},
+    {"t": "fill", "p": "The balance point of an object is also called its centre of ____.", "a": ["mass", "gravity"]}]],
+   ["B. Machines and pressure", [
+    {"t": "match", "p": "Match each tool to its simple machine.", "pairs": [["scissors", "lever"], ["a well rope over a wheel", "pulley"], ["an axe", "wedge"], ["a jar lid", "screw"], ["a ramp for a wheelchair", "inclined plane"], ["a door knob", "wheel and axle"]]},
+    {"t": "mcq", "p": "A ramp lets you push a heavy trolley up with a smaller force. What do you give up?", "opts": ["nothing at all", "you have to push it a longer distance", "the trolley gets lighter"], "a": 1},
+    {"t": "mcq", "p": "Why does a sharp knife cut better than a blunt one?", "opts": ["it is heavier", "the push is squeezed onto a tiny area", "it has less friction"], "a": 1}]],
+   ["C. Floating", [
+    {"t": "forces", "p": "A boat floats still on a pond. Show the two forces.", "obj": "a floating boat", "options": ["gravity", "upthrust", "friction", "push"], "a": [{"name": "gravity", "dir": "down", "size": "equal"}, {"name": "upthrust", "dir": "up", "size": "equal"}]},
+    {"t": "forces", "p": "A stone sinks to the bottom of a bucket. Show the forces while it is sinking.", "obj": "a sinking stone", "options": ["gravity", "upthrust", "friction", "push"], "a": [{"name": "gravity", "dir": "down", "size": "big"}, {"name": "upthrust", "dir": "up", "size": "small"}]},
+    {"t": "sort", "p": "Float or sink in tap water?", "items": ["steel katori", "iron nail", "foil boat", "same foil, tight ball", "potato", "apple", "ice cube", "₹1 coin"], "cats": ["floats", "sinks"]},
+    {"t": "write", "p": "Why does a heavy steel katori float but a small nail sink?", "lines": 3},
+    {"t": "write", "p": "Why does a camel walk on sand more easily than a horse?", "lines": 2}]]]},
+  {"id": "ws2", "tier": "stretch", "title": "Machines and pressure in new places", "day": 5, "sections": [
+   ["A. Levers and balance", [
+    {"t": "mcq", "p": "On a ruler lever, 4 coins sit 5 cm from the pivot. How many coins balance them 10 cm away on the other side?", "opts": ["1", "2", "4", "8"], "a": 1},
+    {"t": "forces", "p": "A ruler lever: you push down on the left end, a book sits on the right end, the pencil pivot is in the middle. Show the three forces on the ruler.", "obj": "a ruler lever on a pencil", "options": ["your push", "book presses down", "pivot pushes up", "friction"], "a": [{"name": "your push", "dir": "down"}, {"name": "book presses down", "dir": "down"}, {"name": "pivot pushes up", "dir": "up"}]},
+    {"t": "mcq", "p": "Why is a door handle put far from the hinges?", "opts": ["it looks nicer", "a push far from the pivot turns the door more easily", "it stops the door locking"], "a": 1}]],
+   ["B. Machines everywhere", [
+    {"t": "sort", "p": "Which simple machine is it?", "items": ["hand pump handle", "flagpole rope", "staircase ramp", "nail point", "screw-top bottle", "cycle wheel", "sarota (supari cutter)", "kite reel"], "cats": ["lever", "pulley", "inclined plane", "wedge", "screw", "wheel and axle"]},
+    {"t": "fill", "p": "A machine can make a force smaller, but then you must move it a ____ distance.", "a": ["longer", "bigger", "greater"]}]],
+   ["C. Pressure", [
+    {"t": "forces", "p": "A knife presses down on a carrot on a board. Show the push of the knife and the board's push.", "obj": "a carrot being cut on a board", "options": ["knife pushes down", "board pushes up", "gravity", "friction"], "a": [{"name": "knife pushes down", "dir": "down"}, {"name": "board pushes up", "dir": "up"}]},
+    {"t": "mcq", "p": "Which presses hardest into soft mud?", "opts": ["an elephant's wide foot", "a woman in high heels", "a tractor with wide tyres"], "a": 1},
+    {"t": "write", "p": "Why does a drawing pin have a wide head and a sharp point?", "lines": 2},
+    {"t": "write", "p": "The ramp needed a smaller force but a longer pull. Why can't a machine give you free work? What would happen if it could?", "lines": 3}]]]},
+  {"id": "ws3", "tier": "challenge", "title": "Think like an engineer", "day": 9, "sections": [
+   ["A. Big puzzles", [
+    {"t": "write", "p": "A steel ship weighs thousands of tonnes. How can it float? Use the words upthrust and 'pushes aside'.", "lines": 3},
+    {"t": "write", "p": "Plan a fair test to find out whether a lattu spins longer on a steel plate or on a wooden board. What will you keep the same?", "lines": 3},
+    {"t": "write", "p": "Archimedes said that with a long enough lever he could move the Earth. What would be the problem in real life?", "lines": 3},
+    {"t": "mcq", "p": "A ship sails from a river into the salty sea. What happens?", "opts": ["it floats a little higher", "it floats a little lower", "it sinks"], "a": 0}]],
+   ["B. Tricky diagrams and choices", [
+    {"t": "forces", "p": "A stone hangs from a forcemeter, under water, not touching the bottom. Show all three forces.", "obj": "a stone hanging under water", "options": ["spring pulls up", "upthrust", "gravity", "friction"], "a": [{"name": "spring pulls up", "dir": "up"}, {"name": "upthrust", "dir": "up"}, {"name": "gravity", "dir": "down"}]},
+    {"t": "forces", "p": "A camel stands still on sand. Show the two forces on the camel.", "obj": "a camel standing on sand", "options": ["gravity", "sand pushes up", "friction", "upthrust"], "a": [{"name": "gravity", "dir": "down", "size": "equal"}, {"name": "sand pushes up", "dir": "up", "size": "equal"}]},
+    {"t": "mcq", "p": "Why does a tightrope walker carry a long pole?", "opts": ["to hit the rope", "it lowers their centre of mass and slows any tipping", "it makes them lighter"], "a": 1},
+    {"t": "mcq", "p": "A needle can rest on water but a nail cannot. What holds the needle up?", "opts": ["upthrust only", "the water's surface skin", "magnetism"], "a": 1}]]]}
  ],
  "experiments": [
-  {
-   "id": "e1",
-   "title": "What can spin?",
-   "day": 1,
-   "question": "Which everyday things spin well, and what happens as they slow down?",
-   "need": [
-    "coin",
-    "bangle",
-    "pencil",
-    "stone",
-    "lattu",
-    "eraser",
-    "steel thali"
-   ],
-   "steps": [
-    "Draw a table: Object / I observe / I wonder / I think.",
-    "Guess if each object will spin well.",
-    "Spin each on the thali or a smooth floor.",
-    "Fill one row per object.",
-    "Add two objects of your own."
-   ],
-   "predict": "Ask before each: 'Will it spin well?'",
-   "observe": "How long each spins and how it moves as it slows.",
-   "why": "Things that are round and evenly balanced around their middle spin smoothly. Friction with the surface and the air slowly takes away their spin, so they wobble and fall.",
-   "safety": "",
-   "time": "20 min"
-  },
-  {
-   "id": "e2",
-   "title": "Find the balance point",
-   "day": 2,
-   "question": "Where is the balance point, and does it move when we add weight?",
-   "need": [
-    "ruler",
-    "coins and tape",
-    "an odd card shape",
-    "a pin",
-    "thread with a small weight (a key)"
-   ],
-   "steps": [
-    "Balance the ruler on your finger; mark the point.",
-    "Tape 2 coins to one end; find and mark the new point.",
-    "Make 3 small holes near the edges of the card shape.",
-    "Hang it from a pin through one hole, with the thread and key hanging from the same pin. Draw a line along the thread.",
-    "Do the same from another hole. Where the lines cross is the balance point.",
-    "Check: balance the shape on a pencil tip at that point."
-   ],
-   "predict": "Ask: 'When we add coins, will the balance point move towards or away from them?'",
-   "observe": "Where the balance points are.",
-   "why": "An object balances where its weight is equal on all sides. Adding weight on one side moves that point towards the heavier side. A hanging shape always swings until its balance point is directly under the pin.",
-   "safety": "Adults handle the pin.",
-   "time": "20 min"
-  },
-  {
-   "id": "e3",
-   "title": "Float or sink test",
-   "day": 3,
-   "question": "Which things float, and is it only about weight?",
-   "need": [
-    "bucket of water",
-    "10 objects"
-   ],
-   "steps": [
-    "Hold each object; guess if it floats.",
-    "Put it gently on the water.",
-    "Record floats or sinks.",
-    "Sort the objects: floats and sinks.",
-    "Find the heaviest thing that floats and the lightest thing that sinks."
-   ],
-   "predict": "Write all guesses before testing.",
-   "observe": "Float or sink for each.",
-   "why": "Whether something floats depends on how heavy it is for its size, and on its shape. A hollow katori pushes aside a lot of water for its weight, so the water's upward push is strong enough to hold it up. A nail is small and solid, so it can't push aside enough water.",
-   "safety": "",
-   "time": "20 min"
-  },
-  {
-   "id": "e4",
-   "title": "Weigh it in water",
-   "day": 4,
-   "question": "Does a stone weigh less in water?",
-   "need": [
-    "stone on a thread",
-    "forcemeter or rubber band and ruler",
-    "bucket of water"
-   ],
-   "steps": [
-    "Hang the stone from the forcemeter in the air; read the force.",
-    "Lower it into the water until it is fully under but not touching the bottom.",
-    "Read the force again.",
-    "Compare."
-   ],
-   "predict": "Ask: 'Will the reading be more, less or the same in water?'",
-   "observe": "Both readings.",
-   "why": "The water pushes up on the stone (upthrust), so the forcemeter has less to hold up. The stone isn't lighter; it's being helped.",
-   "safety": "",
-   "time": "15 min"
-  },
-  {
-   "id": "e5",
-   "title": "Foil and clay shapes",
-   "day": 4,
-   "question": "Can the same material float or sink depending on its shape?",
-   "need": [
-    "foil",
-    "clay or dough",
-    "tub of water"
-   ],
-   "steps": [
-    "Scrunch a foil sheet into a tight ball; put it in water.",
-    "Take another sheet the same size and make a boat; put it in water.",
-    "Make a clay ball; test it.",
-    "Reshape the same clay into a thin bowl; test it."
-   ],
-   "predict": "Ask: 'Same foil, same clay. Will shape change anything?'",
-   "observe": "Which shapes float.",
-   "why": "A boat shape pushes aside much more water than a tight ball of the same material, so the upthrust is bigger. When the upthrust is as big as the object's weight, it floats.",
-   "safety": "",
-   "time": "15 min"
-  },
-  {
-   "id": "e6",
-   "title": "The floating potato",
-   "day": 5,
-   "question": "Can salt make a potato float?",
-   "need": [
-    "a potato",
-    "a big glass of water",
-    "salt",
-    "a spoon"
-   ],
-   "steps": [
-    "Put the potato in tap water. It sinks.",
-    "Take it out. Stir in 4 big spoons of salt until it dissolves.",
-    "Put the potato back. If it sinks, add more salt.",
-    "Keep going until it floats."
-   ],
-   "predict": "Ask: 'What will salt do?'",
-   "observe": "How much salt it takes.",
-   "why": "Salt makes water heavier for the same amount of water (denser), so it pushes up harder. That's why it's easier to float in the sea.",
-   "safety": "",
-   "time": "15 min"
-  }
+  {"id": "e1", "title": "What can spin?", "day": 1, "question": "Which everyday things spin well, and what happens as they slow down?", "need": ["coin", "bangle", "pencil", "stone", "lattu", "eraser", "steel thali"], "steps": ["Draw a table: Object / I observe / I wonder / I think.", "Guess if each object will spin well.", "Spin each on the thali or a smooth floor.", "Fill one row per object.", "Add two objects of your own."], "predict": "Ask before each: 'Will it spin well?'", "observe": "How long each spins and how it moves as it slows.", "why": "Things that are round and evenly balanced around their middle spin smoothly. Friction with the surface and the air slowly takes away their spin, so they wobble and fall.", "safety": "", "time": "15 min"},
+  {"id": "e2", "title": "Find the balance point", "day": 2, "question": "Where is the balance point, and does it move when we add weight?", "need": ["ruler", "coins and tape", "an odd card shape", "a pin", "thread with a small weight (a key)"], "steps": ["Balance the ruler on your finger; mark the point.", "Tape 2 coins to one end; find and mark the new point.", "Make 3 small holes near the edges of the card shape.", "Hang it from a pin through one hole, with the thread and key hanging from the same pin. Draw a line along the thread.", "Do the same from another hole. Where the lines cross is the balance point.", "Check: balance the shape on a pencil tip at that point."], "predict": "Ask: 'When we add coins, will the balance point move towards or away from them?'", "observe": "Where the balance points are.", "why": "An object balances where its weight is equal on all sides: its centre of mass. Adding weight on one side moves that point towards the heavier side. A hanging shape always swings until its centre of mass is directly under the pin.", "safety": "Adults handle the pin.", "time": "15 min"},
+  {"id": "e3", "title": "Float or sink test", "day": 6, "question": "Which things float, and is it only about weight?", "need": ["bucket of water", "10 objects: steel katori, iron nail, ₹1 coin, wooden peg, apple, potato, candle, plastic lid, steel spoon, key"], "steps": ["Hold each object; guess if it floats.", "Put it gently on the water.", "Record floats or sinks.", "Sort the objects: floats and sinks.", "Find the heaviest thing that floats and the lightest thing that sinks."], "predict": "Write all guesses before testing.", "observe": "Float or sink for each.", "why": "Whether something floats depends on how heavy it is for its size (density), and on its shape. A hollow katori pushes aside a lot of water for its weight, so the water's upward push is strong enough to hold it up. A nail is small and solid, so it can't push aside enough water.", "safety": "", "time": "18 min"},
+  {"id": "e4", "title": "Weigh it in water", "day": 7, "question": "Does a stone weigh less in water?", "need": ["stone on a thread", "forcemeter or rubber band and ruler", "bucket of water"], "steps": ["Hang the stone from the forcemeter in the air; read the force.", "Lower it into the water until it is fully under but not touching the bottom.", "Read the force again.", "Compare. The difference is the upthrust."], "predict": "Ask: 'Will the reading be more, less or the same in water?'", "observe": "Both readings.", "why": "The water pushes up on the stone (upthrust), so the forcemeter has less to hold up. The stone isn't lighter; it's being helped.", "safety": "", "time": "12 min"},
+  {"id": "e5", "title": "Foil and clay shapes", "day": 7, "question": "Can the same material float or sink depending on its shape?", "need": ["foil", "clay or dough", "tub of water"], "steps": ["Scrunch a foil sheet into a tight ball; put it in water.", "Take another sheet the same size and make a boat; put it in water.", "Make a clay ball; test it.", "Reshape the same clay into a thin bowl; test it."], "predict": "Ask: 'Same foil, same clay. Will shape change anything?'", "observe": "Which shapes float.", "why": "A boat shape pushes aside much more water than a tight ball of the same material, so the upthrust is bigger. When the upthrust is as big as the object's weight, it floats.", "safety": "", "time": "13 min"},
+  {"id": "e6", "title": "The floating potato", "day": 7, "question": "Can salt make a potato float?", "need": ["a potato", "a big glass of water", "salt", "a spoon"], "steps": ["Put the potato in tap water. It sinks.", "Take it out. Stir in 4 big spoons of salt until it dissolves.", "Put the potato back. If it sinks, add more salt.", "Keep going until it floats."], "predict": "Ask: 'What will salt do?'", "observe": "How much salt it takes.", "why": "Salt makes water heavier for the same amount of water (denser), so it pushes up harder. That's why it's easier to float in the sea.", "safety": "", "time": "10 min"},
+  {"id": "e7", "title": "Topple test", "day": 2, "question": "What makes something hard to topple?", "need": ["three identical plastic bottles", "sand", "tape", "a protractor or a book to rest against"], "steps": ["Bottle A: empty. Bottle B: a cup of sand inside, at the bottom. Bottle C: empty, with a small bag of sand taped on top.", "Stand each on the table and slowly tilt it with one finger until it falls.", "Notice how far each one tilts before falling (rest it against a book to compare).", "Try each bottle on its side and upright: which base is wider?"], "predict": "Ask: 'Which bottle can lean furthest without falling?'", "observe": "How far each bottle tilts before it topples.", "why": "Something topples when its centre of mass moves outside its base. Weight low down (bottle B) keeps the centre of mass low, so it can tilt a long way and still have its centre over the base. Weight on top (bottle C) raises the centre of mass, so a small tilt tips it over. A wide base helps too. That's why buses carry luggage low and why you stand with feet apart on a moving train.", "safety": "", "time": "15 min"},
+  {"id": "e8", "title": "Ruler lever", "day": 3, "question": "How can a small push lift a big load?", "need": ["a 30 cm ruler", "a round pencil as the pivot", "₹1 coins", "a heavy book", "a longer ruler or a strip of wood"], "steps": ["Balance the ruler on the pencil at the 15 cm mark.", "Stack 4 coins on the 10 cm mark (5 cm from the pivot).", "On the other side, find how many coins balance them at 20 cm (5 cm away), then at 25 cm (10 cm away).", "Write a table: coins, distance from pivot on each side.", "Now put the heavy book on one end of the long ruler with the pencil close to the book. Push down the far end with one finger.", "Move the pencil away from the book and try again."], "predict": "Ask: 'Will you need more or fewer coins further from the pivot?'", "observe": "The coins needed at each distance, and how hard it is to lift the book with the pivot in different places.", "why": "A lever turns on a pivot. A force far from the pivot has more turning effect than the same force close to it. 4 coins at 5 cm balance 2 coins at 10 cm: coins times distance match on each side. With the pivot near the book, a small push far away lifts it, but your end has to move much further down than the book moves up.", "safety": "", "time": "20 min"},
+  {"id": "e9", "title": "Ramp test", "day": 4, "question": "Does a ramp make lifting easier, and what does it cost?", "need": ["a toy truck loaded with a book or packets", "the forcemeter", "a board about 60–80 cm long", "books to raise one end 20 cm", "a measuring tape"], "steps": ["Hook the forcemeter to the truck and lift it straight up 20 cm. Read the force and write the distance (20 cm).", "Make a ramp from the board, its top end on books 20 cm high.", "Pull the truck slowly up the ramp to the top. Read the force and measure the distance along the ramp.", "Make the ramp longer and less steep (more books spread out, or a longer board) and try again.", "Make a table: force, distance."], "predict": "Ask: 'Which way will need the smaller force? Which way will the truck travel further?'", "observe": "The force and the distance for each way of raising the truck.", "why": "The ramp lets you use a smaller force, but you pull the truck a longer way to reach the same height. Force times distance comes out about the same (a little more on the ramp, because of friction). Every simple machine works like this: it trades force for distance, or changes direction, but never gives free work. Scientists call this the conservation of energy.", "safety": "Keep the books stacked firmly.", "time": "20 min"},
+  {"id": "e10", "title": "Pressure in dough", "day": 5, "question": "Does the same force press deeper when it's on a smaller area?", "need": ["a slab of dough about 3 cm thick", "a pencil", "two ₹1 coins", "a small book as a weight", "a ruler", "a sand tray or patch of wet soil"], "steps": ["Stand the pencil flat end down on the dough and rest the book on top for 10 seconds. Measure how deep it went.", "Smooth the dough. Do the same with the pencil point down (an adult holds the book steady).", "Press a coin flat into the dough with the book, then a coin on its edge.", "Stand in the sand flat-footed, then on tiptoe, and compare the footprints."], "predict": "Ask: 'Same book, same push. Which will sink deepest?'", "observe": "How deep each mark is.", "why": "Pressure is how much force falls on each bit of area. The same push on a tiny point is squeezed into a small space, so it presses much harder and sinks in further. Spread over a big area, the same push presses gently. Knives, pins and needles use small areas; camels, snowshoes and tractor tyres use big ones.", "safety": "An adult holds the book over the pencil point; keep fingers away from the point.", "time": "15 min"}
  ],
  "activities": [
-  {
-   "id": "a1",
-   "title": "Four card spinners",
-   "day": 1,
-   "mins": 15,
-   "need": [
-    "thin card",
-    "a katori to trace",
-    "scissors",
-    "toothpicks",
-    "glue"
-   ],
-   "steps": [
-    "Trace and cut three circles and one square.",
-    "Find the centre by folding a paper copy twice.",
-    "Spinner 1: stick through the centre.",
-    "Spinner 2: stick 1.5 cm from the centre.",
-    "Spinner 3: square, stick through the centre.",
-    "Spinner 4: circle with two colours, stick through the centre.",
-    "Spin each and compare."
-   ],
-   "outcome": "Four spinners showing that the stick must go through the centre."
-  }
+  {"id": "a1", "title": "Four card spinners", "day": 1, "mins": 15, "need": ["thin card", "a katori to trace", "scissors", "toothpicks", "glue", "blue and yellow crayons"], "steps": ["Trace and cut three circles and one square.", "Find the centre by folding a paper copy twice.", "Spinner 1: stick through the centre.", "Spinner 2: stick 1.5 cm from the centre.", "Spinner 3: square, stick through the centre.", "Spinner 4: circle coloured half blue and half yellow, stick through the centre.", "Spin each and compare."], "outcome": "Four spinners showing that the stick must go through the centre, and a colour spinner that blends colours."},
+  {"id": "a2", "title": "Simple machine hunt", "day": 4, "mins": 15, "need": ["a table with six rows: lever, wheel and axle, pulley, inclined plane, wedge, screw", "a pencil"], "steps": ["Read the six names and what each does: a lever turns on a pivot; a wheel and axle is a big wheel fixed to a thin rod; a pulley is a wheel with a rope that changes the direction of a pull; an inclined plane is a ramp; a wedge is two ramps back to back that split things; a screw is a ramp wrapped round a rod.", "Hunt at home and from the window: scissors, a tap, a door knob, a rolling pin, a curtain rope, a well or flagpole, a ramp, stairs, a knife, an axe, a zip, a jar lid, a bottle cap, a pressure cooker lid.", "Write at least two things in each row.", "For each, say whether it makes the force smaller, changes its direction, or both."], "outcome": "A table of at least twelve simple machines found at home, with what each one does to a force."}
  ],
- "project": {
-  "title": "The great boat challenge",
-  "days": [
-   6,
-   7
-  ],
-  "steps": [
-   "Draw a boat design for a 20 cm foil square and predict how many ₹1 coins it will hold.",
-   "Build it and test: add coins one at a time, spread out.",
-   "Record the number when it sinks.",
-   "Change one thing: higher sides, wider base, flatter bottom.",
-   "Test again and record.",
-   "Try one more improvement.",
-   "Show the family your best design, your record sheet and why it worked."
-  ],
-  "outcome": "A tested and improved boat, and a record of every change."
- },
- "game": {
-  "id": "g1",
-  "title": "Float or Sink?",
-  "kind": "cards",
-  "players": "2–5",
-  "need": [
-   "scissors",
-   "a bucket of water to check"
-  ],
-  "rules": [
-   "Cut out the cards and shuffle them face down.",
-   "Turn one over. Everyone says 'float' or 'sink' and gives a reason.",
-   "Test it if you can, or read the answer on the back.",
-   "Right with a good reason: 2 points. Right without a reason: 1 point.",
-   "Most points after all cards wins."
-  ],
-  "cards": [
-   {
-    "front": "Steel katori",
-    "back": "floats: hollow shape"
-   },
-   {
-    "front": "Iron nail",
-    "back": "sinks"
-   },
-   {
-    "front": "₹1 coin",
-    "back": "sinks"
-   },
-   {
-    "front": "Wooden peg",
-    "back": "floats"
-   },
-   {
-    "front": "Apple",
-    "back": "floats: has air inside"
-   },
-   {
-    "front": "Potato",
-    "back": "sinks in tap water"
-   },
-   {
-    "front": "Potato in very salty water",
-    "back": "floats"
-   },
-   {
-    "front": "Ice cube",
-    "back": "floats"
-   },
-   {
-    "front": "Foil boat",
-    "back": "floats"
-   },
-   {
-    "front": "Same foil, tight ball",
-    "back": "sinks"
-   },
-   {
-    "front": "Clay ball",
-    "back": "sinks"
-   },
-   {
-    "front": "Same clay, bowl shape",
-    "back": "floats"
-   },
-   {
-    "front": "Candle",
-    "back": "floats"
-   },
-   {
-    "front": "Key",
-    "back": "sinks"
-   },
-   {
-    "front": "Empty bottle, cap on",
-    "back": "floats"
-   },
-   {
-    "front": "Bottle full of sand",
-    "back": "sinks"
-   },
-   {
-    "front": "Coconut",
-    "back": "floats"
-   },
-   {
-    "front": "Egg in tap water",
-    "back": "sinks (a fresh egg)"
-   },
-   {
-    "front": "Plastic lid",
-    "back": "floats"
-   },
-   {
-    "front": "Steel spoon",
-    "back": "sinks"
-   }
-  ]
- },
- "big": [
-  "How does a steel ship weighing thousands of tonnes float?",
-  "Why does ice float when it's made of water?",
-  "Why is it easier to float in the sea than in a pool?",
-  "Why does the Earth keep spinning?",
-  "Could a boat float on air?"
- ],
+ "project": {"title": "The great boat challenge", "days": [8, 9], "steps": ["Draw a boat design for a 20 cm foil square and predict how many ₹1 coins it will hold.", "Build it and test: add coins one at a time, spread out.", "Record the number when it sinks.", "Change one thing: higher sides, wider base, flatter bottom.", "Test again and record.", "Try one more improvement.", "Show the family your best design, your record sheet and why it worked."], "outcome": "A tested and improved boat, and a record of every change."},
+ "game": {"id": "g1", "title": "Float or Sink?", "kind": "cards", "players": "2–5", "need": ["scissors", "a bucket of water to check"],
+  "rules": ["Cut out the cards and shuffle them face down.", "Turn one over. Everyone says 'float' or 'sink' and gives a reason.", "Test it if you can, or read the answer on the back.", "Right with a good reason: 2 points. Right without a reason: 1 point.", "Most points after all cards wins."],
+  "cards": [{"front": "Steel katori", "back": "floats: hollow shape"}, {"front": "Iron nail", "back": "sinks"}, {"front": "₹1 coin", "back": "sinks"}, {"front": "Wooden peg", "back": "floats"}, {"front": "Apple", "back": "floats: has air inside"}, {"front": "Potato", "back": "sinks in tap water"}, {"front": "Potato in very salty water", "back": "floats"}, {"front": "Ice cube", "back": "floats"}, {"front": "Foil boat", "back": "floats"}, {"front": "Same foil, tight ball", "back": "sinks"}, {"front": "Clay ball", "back": "sinks"}, {"front": "Same clay, bowl shape", "back": "floats"}, {"front": "Candle", "back": "floats"}, {"front": "Key", "back": "sinks"}, {"front": "Empty bottle, cap on", "back": "floats"}, {"front": "Bottle full of sand", "back": "sinks"}, {"front": "Coconut", "back": "floats"}, {"front": "Egg in tap water", "back": "sinks (a fresh egg)"}, {"front": "Plastic lid", "back": "floats"}, {"front": "Steel spoon", "back": "sinks"}, {"front": "Steel needle laid very gently", "back": "can float on the water's skin"}, {"front": "Bronze uruli", "back": "floats: wide and hollow"}]},
+ "big": ["How does a ship made of thousands of tonnes of steel float?", "If machines never give free work, why are they so useful?", "Why are so many sacred and useful things in India round and spinning: the charkha, the potter's wheel, the prayer wheel, the lattu?", "Who should get the credit for a machine: the person who wrote it down, or the many people who built and improved it?", "Why can you float more easily in the sea than in a pool?"],
  "challenge": [
-  {
-   "q": "The story says Archimedes jumped into his bath, saw the water rise, and ran naked through the streets shouting 'Eureka!' Did that happen?",
-   "hint": "The story was written by a Roman, Vitruvius, about 200 years after Archimedes died. Archimedes' own books don't mention it. Galileo later argued the bath method wouldn't even be accurate enough to catch a cheating goldsmith. What Archimedes certainly did was write the rule of floating in his book On Floating Bodies. Ask: why might a story survive longer than the real work?"
-  },
-  {
-   "q": "'Heavy things sink, light things float.' Is that true?",
-   "hint": "A steel ship is heavy and floats; a grain of sand is light and sinks. What matters is how heavy something is for its size, and its shape."
-  }
+  {"q": "Archimedes is supposed to have said: 'Give me a place to stand and I will move the Earth.' Could he?", "hint": "The saying comes from writers centuries after him, such as Pappus of Alexandria. In theory a long enough lever could do it, but the lever would have to be unimaginably long, and Archimedes would have to push his end through an enormous distance to move the Earth a tiny bit. That's the rule of every machine: a smaller force, but a much longer push. Ask: what is the saying really telling us?"},
+  {"q": "The story says Archimedes jumped into his bath, saw the water rise, and ran naked through the streets shouting 'Eureka!' Did that happen?", "hint": "The story was written by a Roman, Vitruvius, about 200 years after Archimedes died. Archimedes' own books don't mention it. Galileo later argued the bath method wouldn't even be accurate enough to catch a cheating goldsmith. What Archimedes certainly did was write the rule of floating in his book On Floating Bodies. Ask: why might a story survive longer than the real work?"},
+  {"q": "'Heavy things sink, light things float.' Is that true?", "hint": "A steel ship is heavy and floats; a grain of sand is light and sinks. What matters is how heavy something is for its size, and its shape."}
  ],
  "perspectives": [
-  {
-   "who": "Fisherfolk in Kerala",
-   "view": "Traditional fishing boats like the vallam are made of wood and shaped long and narrow. Ask: why might a narrow boat be faster but a wide one safer?"
-  },
-  {
-   "who": "Harappan traders of Lothal, Gujarat",
-   "view": "Over 4,000 years ago, Lothal may have had one of the oldest docks in the world, where boats came in with goods. Archaeologists still debate whether a big basin there was a dockyard or a water tank. Ask: what clues would tell you?"
-  },
-  {
-   "who": "A fish",
-   "view": "Many fish have a gas bag inside them (a swim bladder). They let in gas to rise and squeeze it out to sink, without moving a fin. Ask: how is a fish like a submarine? Who had the idea first?"
-  }
+  {"who": "Women who carry loads on their heads", "view": "Across India, women carry pots, bricks and bundles of firewood on their heads, often with a coiled cloth ring. A load kept right above the spine keeps the centre of mass over the feet. Ask: who taught them this, and why is their skill rarely called science?"},
+  {"who": "Fisherfolk in Kerala", "view": "Traditional fishing boats like the vallam are made of wood and shaped long and narrow. Ask: why might a narrow boat be faster but a wide one safer?"},
+  {"who": "Harappan traders of Lothal, Gujarat", "view": "Over 4,000 years ago, Lothal may have had one of the oldest docks in the world, where boats came in with goods. Archaeologists still debate whether a big basin there was a dockyard or a water tank. Ask: what clues would tell you?"},
+  {"who": "A camel", "view": "A camel's wide, padded feet spread its weight so it doesn't sink into sand; its long legs keep its body away from the hot ground. Ask: what would a camel think of our narrow shoes?"},
+  {"who": "A fish", "view": "Many fish have a gas bag inside them (a swim bladder). They let in gas to rise and squeeze it out to sink, without moving a fin. Ask: how is a fish like a submarine? Who had the idea first?"}
  ],
  "voices": [
-  {
-   "id": "v1",
-   "who": "Archimedes (about 287–212 BCE), Syracuse, Sicily",
-   "idea": "In his book On Floating Bodies, Archimedes wrote that anything in water is pushed up by a force equal to the weight of the water it pushes aside. A floating object pushes aside its own weight of water.",
-   "then": "His work was copied and studied for centuries by Greek, Arab and later European scholars.",
-   "now": "Accepted. Archimedes' principle is still used to design every ship and submarine.",
-   "status": "accepted",
-   "ask": "Our stone seemed lighter in water. Can you use Archimedes' idea to explain why?",
-   "day": 4
-  },
-  {
-   "id": "v2",
-   "who": "Galileo Galilei (1564–1642) and Lodovico delle Colombe, Italy (debate of 1611)",
-   "idea": "Delle Colombe and others said ice floats because of its flat shape. Galileo said ice floats because it is lighter than the same amount of water (ice takes up more space than the water it froze from).",
-   "then": "They held a public contest in Florence. Delle Colombe showed that a thin chip of ebony wood floats but a ball of ebony sinks, to argue that shape decides. Galileo replied that the chip floated because it wasn't fully wet: the water's surface held it up.",
-   "now": "Galileo was right about ice: it is less dense than water, whatever its shape. But delle Colombe's chip shows something real too: the surface of water can hold up very light, flat things (surface tension), the way a pond skater stands on water.",
-   "status": "accepted",
-   "ask": "Can a steel needle float? Try laying one very gently on water on a piece of tissue paper. Who does this help, Galileo or delle Colombe?",
-   "day": 5
-  }
+  {"id": "v1", "who": "Archimedes (about 287–212 BCE), Syracuse, Sicily", "idea": "In his book On Floating Bodies, Archimedes wrote that anything in water is pushed up by a force equal to the weight of the water it pushes aside. A floating object pushes aside its own weight of water. In other work he worked out the law of the lever: weights balance when weight times distance from the pivot are equal on both sides.", "then": "His work was copied and studied for centuries by Greek, Arab and later European scholars.", "now": "Accepted. Archimedes' principle is still used to design every ship and submarine, and his law of the lever is in every physics book.", "status": "accepted", "ask": "Our stone seemed lighter in water and our boat sank lower with each coin. Can you use Archimedes' idea to explain both?", "day": 8},
+  {"id": "v2", "who": "Galileo Galilei (1564–1642) and Lodovico delle Colombe, Italy (debate of 1611)", "idea": "Delle Colombe and others said ice floats because of its flat shape. Galileo said ice floats because it is lighter than the same amount of water (ice takes up more space than the water it froze from).", "then": "They held a public contest in Florence. Delle Colombe showed that a thin chip of ebony wood floats but a ball of ebony sinks, to argue that shape decides. Galileo replied that the chip floated because it wasn't fully wet: the water's surface held it up.", "now": "Galileo was right about ice: it is less dense than water, whatever its shape. But delle Colombe's chip shows something real too: the surface of water can hold up very light, flat things (surface tension), the way a pond skater stands on water.", "status": "accepted", "ask": "Our needle rested on the water's skin. Who does this help, Galileo or delle Colombe? Can two people in an argument both be partly right?", "day": 7},
+  {"id": "v3", "who": "Ismail al-Jazari (1136–1206), engineer at the Artuqid court in Diyarbakır (now in Turkey)", "idea": "In 1206 al-Jazari finished The Book of Knowledge of Ingenious Mechanical Devices, with drawings and instructions for about fifty machines: water-raising machines worked by animals and water wheels, clocks such as the famous elephant clock, and pumps and automata. He described how to build them so others could copy them.", "then": "The book was copied by hand for centuries in the Islamic world. For a long time European histories of engineering hardly mentioned it.", "now": "Historians of technology now recognise him as one of the great engineers of the Middle Ages. They still debate which of his parts were truly first (for example his use of a crank and connecting rod in a pump) and which he improved from older engineers in Persia, India, Greece and China.", "status": "accepted", "ask": "Al-Jazari wrote his machines down; the builders of India's stepwells and water lifts mostly didn't. Whose work do we remember, and why?", "day": 4}
  ],
  "books": [
-  {
-   "title": "Who Sank the Boat?",
-   "author": "Pamela Allen",
-   "for": "read together",
-   "age": "4–8",
-   "why": "A cow, a donkey, a sheep, a pig and a tiny mouse get into a boat. Who really sank it? Great for talking about balance and load."
-  },
-  {
-   "title": "Mr Archimedes' Bath",
-   "author": "Pamela Allen",
-   "for": "read together",
-   "age": "4–8",
-   "why": "A funny take on why the bath overflows. Read it, then do the upthrust test."
-  },
-  {
-   "title": "The Way Things Work Now",
-   "author": "David Macaulay",
-   "for": "parent reads",
-   "age": "9+ (adult book, great to share)",
-   "why": "The pages on floating, ships and spinning wheels."
-  }
+  {"title": "Who Sank the Boat?", "author": "Pamela Allen", "for": "read together", "age": "4–8", "why": "A cow, a donkey, a sheep, a pig and a tiny mouse get into a boat. Who really sank it? Great for talking about balance and load."},
+  {"title": "Mr Archimedes' Bath", "author": "Pamela Allen", "for": "read together", "age": "4–8", "why": "A funny take on why the bath overflows. Read it, then do the upthrust test."},
+  {"title": "Simple Machines", "author": "David A. Adler", "for": "read together", "age": "6–9", "why": "A clear picture book on levers, wheels, ramps, wedges and screws."},
+  {"title": "The Way Things Work Now", "author": "David Macaulay", "for": "parent reads", "age": "9+ (adult book, great to share)", "why": "The pages on levers, pulleys, floating, ships and spinning wheels, with the famous woolly mammoth."}
  ],
  "check": [
-  {
-   "q": "Why does a spinner with the stick at its centre spin better?",
-   "a": "Its weight is spread evenly round the stick, so it doesn't wobble."
-  },
-  {
-   "q": "How do you find the balance point of an odd shape?",
-   "a": "Hang it from two points with a thread; where the lines cross is the balance point."
-  },
-  {
-   "q": "What is upthrust?",
-   "a": "The upward push of water on anything in it."
-  },
-  {
-   "q": "Why does a steel katori float but a nail sink?",
-   "a": "The hollow katori pushes aside lots of water, so the upthrust is big enough to hold it up; the solid nail can't."
-  },
-  {
-   "q": "How did we make the potato float?",
-   "a": "By adding lots of salt to the water, which makes it push up harder."
-  },
-  {
-   "q": "In the boat challenge, why did we change only one thing each time?",
-   "a": "So we knew which change made the difference."
-  }
+  {"q": "Why does a spinner with the stick at its centre spin better?", "a": "Its weight is spread evenly round the stick, so it doesn't wobble."},
+  {"q": "How can you make a bottle harder to topple?", "a": "Put weight low down and give it a wide base, so its centre of mass stays over the base."},
+  {"q": "On a lever, how can a small push lift a big load?", "a": "Push far from the pivot with the load close to it; your end moves further than the load does."},
+  {"q": "What is the rule about machines and free work?", "a": "A machine can make the force smaller, but you must push for a longer distance; it never gives free work."},
+  {"q": "Why does a sharp knife cut, and why do camels have wide feet?", "a": "A thin edge puts the force on a tiny area, so the pressure is big; wide feet spread the weight, so the pressure is small."},
+  {"q": "What is upthrust, and why does a steel katori float but a nail sink?", "a": "The upward push of water; the hollow katori pushes aside lots of water so the upthrust is big enough; the solid nail can't."},
+  {"q": "In the boat challenge, why did we change only one thing each time?", "a": "So we knew which change made the difference."}
  ],
- "story": {
-  "title": "Ammachi's Uruli",
-  "text": [
-   "In August the rain came to Ammu's village in Kerala and did not stop. It rained on the coconut palms and the paddy fields and the red-tiled roofs, and the river, which had always been a friendly brown ribbon at the end of the lane, began to rise.",
-   "Ammu's father was a fisherman. Some of the people in the big houses on the hill didn't think much of fishermen. They wrinkled their noses at the smell of fish and the salt-cracked hands. But Ammu loved her father's boat, the long narrow vallam, and the way it sat on the water as lightly as a leaf.",
-   "\"How does it float, Appa?\" she had asked once. \"It's made of heavy wood and iron nails.\"",
-   "\"It floats because it makes room,\" he had said. \"It pushes the water out of the way, and the water pushes back up. Make enough room, and the water will hold up anything.\"",
-   "Ammu hadn't understood. She did now, on the night the river came into the house.",
-   "It came quietly, under the door, across the floor, up past her ankles and then her knees. Her father had gone out with his boat to fetch the neighbours from the low fields. Her mother was lifting the rice sacks onto the cupboard. And Ammu's baby cousin, Kunju, was asleep in his basket, and the water was rising towards him.",
-   "Ammu looked around. Everything heavy was sinking: the steel tumbler, the iron ladle, Amma's grinding stone. But there, on the kitchen shelf, was Ammachi's uruli: the great round bronze cooking pot, wide and shallow, so heavy that it took two people to lift it when it was full of payasam on Onam.",
-   "It's so heavy, Ammu thought. It will sink like a stone.",
-   "But then she remembered: make enough room.",
-   "She and her mother slid the uruli off the shelf. It splashed down and wobbled, and then it sat on the water. It floated! It was heavier than Kunju, heavier than Ammu, and it floated, because it was wide and hollow and pushed aside a great deal of water. Very gently, they lifted the sleeping baby and laid him, blanket and all, in the middle of the uruli. It sank a little lower, and then it stayed.",
-   "All night they waited on the cupboard, Ammu and her mother, with one hand each on the rim of the uruli, holding Kunju steady on the black water. He never woke up.",
-   "In the grey morning they heard the splash of oars. Her father's boat came through the doorway, and behind it came other boats, the fishing boats from all along the coast. The fishermen had come with their vallams from the sea to the flooded villages, and they took everyone to safety: the people from the low fields, and the people from the big houses on the hill too. The water lifted every boat the same, and the fishermen saved everyone the same.",
-   "Later, much later, when the river was a brown ribbon again, people came to thank the fishermen. Someone called them 'Kerala's own army'. Ammu's father just shrugged.",
-   "\"It wasn't me,\" he said. \"It was the water. The water holds up anyone who makes room.\""
-  ],
-  "epiphany": "Floating depends on shape, not only weight: a hollow, wide object pushes aside a lot of water, and the water's upward push (upthrust) equals the weight of the water pushed aside. The turn is the heavy bronze uruli floating with the baby in it. Underneath: the water lifts everyone equally, and the people some looked down on were the ones who knew how to save everyone. (Inspired by the 2018 Kerala floods, when fishermen rescued thousands of people.)",
-  "ask": [
-   "Why did the steel tumbler sink but the much heavier uruli float?",
-   "What did Appa mean by 'make room'?",
-   "Why did the uruli sink a little lower when they put Kunju in?",
-   "Why do you think some people looked down on fishermen? Were they right?",
-   "What does 'the water holds up anyone who makes room' make you think of?"
-  ]
- },
+ "story": {"title": "Ammachi's Uruli", "text": [
+  "In August the rain came to Ammu's village in Kerala and did not stop. It rained on the coconut palms and the paddy fields and the red-tiled roofs, and the river, which had always been a friendly brown ribbon at the end of the lane, began to rise.",
+  "Ammu's father was a fisherman. Some of the people in the big houses on the hill didn't think much of fishermen. They wrinkled their noses at the smell of fish and the salt-cracked hands. But Ammu loved her father's boat, the long narrow vallam, and the way it sat on the water as lightly as a leaf.",
+  "\"How does it float, Appa?\" she had asked once. \"It's made of heavy wood and iron nails.\"",
+  "\"It floats because it makes room,\" he had said. \"It pushes the water out of the way, and the water pushes back up. Make enough room, and the water will hold up anything.\"",
+  "Ammu hadn't understood. She had thrown a pebble into the river to test it, and the pebble had gone straight to the bottom. \"The pebble didn't make room,\" she said. Appa had laughed and folded a leaf into a little cup and set it on the water, and dropped the pebble inside. The leaf cup bobbed and floated, pebble and all. \"Now it makes room,\" he said. Ammu had stared at it until it drifted round the bend.",
+  "She understood it properly on the night the river came into the house.",
+  "It came quietly, under the door, across the floor, up past her ankles and then her knees. Her father had gone out with his boat to fetch the neighbours from the low fields. Her mother was lifting the rice sacks onto the cupboard. And Ammu's baby cousin, Kunju, was asleep in his basket, and the water was rising towards him.",
+  "Ammu looked around. Everything heavy was sinking: the steel tumbler, the iron ladle, Amma's grinding stone. But there, on the kitchen shelf, was Ammachi's uruli: the great round bronze cooking pot, wide and shallow, so heavy that it took two people to lift it when it was full of payasam on Onam.",
+  "It's so heavy, Ammu thought. It will sink like a stone.",
+  "But then she remembered the leaf cup: make enough room.",
+  "She and her mother slid the uruli off the shelf. It splashed down and wobbled, and then it sat on the water. It floated! It was heavier than Kunju, heavier than Ammu, and it floated, because it was wide and hollow and pushed aside a great deal of water. Very gently, they lifted the sleeping baby and laid him, blanket and all, in the middle of the uruli, right in the centre so it would not tip. It sank a little lower, and then it stayed.",
+  "All night they waited on the cupboard, Ammu and her mother, with one hand each on the rim of the uruli, holding Kunju steady on the black water. He never woke up.",
+  "In the grey morning they heard the splash of oars. Her father's boat came through the doorway, and behind it came other boats, the fishing boats from all along the coast. The fishermen had come with their vallams from the sea to the flooded villages, and they took everyone to safety: the people from the low fields, and the people from the big houses on the hill too. The water lifted every boat the same, and the fishermen saved everyone the same.",
+  "Later, much later, when the river was a brown ribbon again, people came to thank the fishermen. Someone called them 'Kerala's own army'. Ammu's father just shrugged.",
+  "\"It wasn't me,\" he said. \"It was the water. The water holds up anyone who makes room.\""],
+  "epiphany": "Floating depends on shape, not only weight: a hollow, wide object pushes aside a lot of water, and the water's upward push (upthrust) equals the weight of the water pushed aside. The turn is the heavy bronze uruli floating with the baby in it, placed in the centre so it stays balanced. Underneath: the water lifts everyone equally, and the people some looked down on were the ones who knew how to save everyone. (Inspired by the 2018 Kerala floods, when fishermen rescued thousands of people.)",
+  "ask": ["Why did the steel tumbler sink but the much heavier uruli float?", "Why did the pebble float in the leaf cup but not on its own?", "Why did they put Kunju right in the middle of the uruli?", "Why do you think some people looked down on fishermen? Were they right?", "What does 'the water holds up anyone who makes room' make you think of?"]},
  "ideas": [
-  {
-   "idea": "What holds you up is the water you make room for.",
-   "more": "Anything in water is pushed up by a force equal to the weight of the water it pushes aside (Archimedes). Hollow, wide shapes push aside more water, so huge steel ships float."
-  },
-  {
-   "idea": "Every object has a balance point.",
-   "more": "All of an object's weight acts as if it were at one point. Put the support there, or spin it around that point, and it is steady."
-  },
-  {
-   "idea": "The sea knows exactly how heavy every ship is.",
-   "more": "A floating ship pushes aside exactly its own weight of water. Load it, and it sinks lower until it has pushed aside more. That's how port officers can tell how much cargo a ship carries just from the marks on its side."
-  }
+  {"idea": "What holds you up is the water you make room for.", "more": "Anything in water is pushed up by a force equal to the weight of the water it pushes aside (Archimedes). Hollow, wide shapes push aside more water, so huge steel ships float."},
+  {"idea": "No machine gives something for nothing.", "more": "A lever, a ramp or a pulley lets a small force do a big job, but you always pay with distance. This is one of the deepest rules in physics: energy is never made from nothing."},
+  {"idea": "Where a force lands matters as much as how big it is.", "more": "Far from a pivot, a force turns more. On a tiny area, a force presses harder. The same push can lift a grown-up, cut a carrot or let a camel cross a desert."},
+  {"idea": "Every object has a balance point.", "more": "All of an object's weight acts as if it were at one point. Put the support there, or spin it around that point, and it is steady; let it move outside the base, and it topples."}
  ],
  "unknowns": [
-  "Who made the first boat, and how? The oldest boat ever found is a canoe about 10,000 years old, but people reached Australia across the sea at least 50,000 years ago. So boats are much older than any we've found, and nobody knows what they were like.",
-  "Why does ice float? Almost every other solid sinks in its own liquid. We know it's because water molecules lock into an open pattern when they freeze, but water has dozens of strange behaviours that scientists still argue about."
+  "Who made the first boat, and how? The oldest boat ever found is a dugout canoe about 10,000 years old, but people reached Australia across the sea at least 50,000 years ago. So boats are much older than any we've found, and nobody knows what they were like.",
+  "Why does ice float? Almost every other solid sinks in its own liquid. We know it's because water molecules lock into an open pattern when they freeze, but water has dozens of strange behaviours that scientists still argue about.",
+  "How did the builders of ancient temples and stepwells in India lift and place stones weighing many tonnes? Historians have good guesses (ramps, levers, rollers, ropes and huge teams), but for many buildings nobody knows exactly how it was done."
  ]
 }

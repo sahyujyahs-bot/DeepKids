@@ -1,0 +1,1276 @@
+{
+ "key": "combined|sci|5|water",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "water",
+ "title": "Water: the great round journey",
+ "source": "DeepKids Combined. Covers NCERT Class 5 'Water — The Essence of Life' (forms and sources of water, fresh and salt; uses; the water cycle; water shaping land; freshwater habitats; conservation). No textbook needed.",
+ "summary": "Your child finds out how little of Earth's water is fresh, watches water change between ice, liquid and vapour, builds a water cycle in a bag, catches a leaf breathing out water, measures which ground drinks rain, carves a river with a tray of sand, and meets the creatures of a pond. They discover that the water cycle has no beginning and no end, that the water in their glass is billions of years old, and that rivers, forests, villages and frogs all share one water. It ends with designing a home that catches its own rain.",
+ "builds_on": "Class 3 water rung: rain soaks in, runs off or evaporates; groundwater fills wells; a matka cools by evaporation; clear is not clean; water is shared. This rung adds condensation, transpiration, the full water cycle, fresh and salt water, how rivers carve land and where they drain, freshwater habitats, and how communities catch and share water. Later (middle school): water as a solvent, the science of clouds and monsoons, and water treatment.",
+ "goals": [
+  "By the end your child can show how little of Earth's water is fresh and easy to reach, and why sea water can't simply be drunk.",
+  "By the end your child can name the three forms of water and the changes between them: melting, freezing, evaporation and condensation.",
+  "By the end your child can draw and explain the water cycle, including transpiration from plants and water soaking into the ground.",
+  "By the end your child can show how flowing water wears away land and builds new land, and say which sea their local rain ends up in.",
+  "By the end your child can describe a freshwater habitat and a pond food chain, and explain one way a water plant or animal is suited to its home.",
+  "By the end your child can explain how villages catch and share water, and argue about who a river belongs to."
+ ],
+ "subconcepts": [
+  "three forms of water: ice, liquid and vapour",
+  "melting, freezing, evaporation and condensation",
+  "salt water and fresh water: how little is fresh and reachable",
+  "evaporation leaves salt behind (salt pans)",
+  "clouds are tiny drops, not vapour",
+  "the water cycle has no start or end",
+  "transpiration: plants put water into the air",
+  "infiltration and groundwater recharge",
+  "water shapes land: erosion and deposition, valleys and deltas",
+  "river basins: which sea our rain flows to",
+  "freshwater habitats and pond food chains",
+  "adaptations for life in water: lotus leaf, water strider, fish gills",
+  "catching and sharing water: johads, rain harvesting, water budgets",
+  "hidden water in food and things"
+ ],
+ "words": [
+  [
+   "water vapour",
+   "water as an invisible gas in the air"
+  ],
+  [
+   "evaporation",
+   "liquid water turning into water vapour"
+  ],
+  [
+   "condensation",
+   "water vapour cooling and turning back into tiny drops of liquid"
+  ],
+  [
+   "precipitation",
+   "water falling from clouds as rain, hail or snow"
+  ],
+  [
+   "transpiration",
+   "water leaving a plant through tiny holes in its leaves"
+  ],
+  [
+   "infiltration",
+   "water soaking down into the ground"
+  ],
+  [
+   "recharge",
+   "refilling groundwater with rain that soaks in"
+  ],
+  [
+   "erosion",
+   "wearing away and carrying off soil and rock, by water or wind"
+  ],
+  [
+   "deposition",
+   "dropping the carried soil and sand somewhere else"
+  ],
+  [
+   "delta",
+   "new land built where a river drops its mud as it reaches the sea"
+  ],
+  [
+   "river basin",
+   "all the land whose rain drains into one river"
+  ],
+  [
+   "aquatic",
+   "living in water"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "All the water in the world",
+   "goal": "Climb up from Class 3, meet the story, and see how little of Earth's water we can use.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do we already know?",
+     "mins": 8,
+     "do": "Recall the Class 3 water rung in one quick round. Ask: 'What three things can rain do when it lands?' (Soak in, run off, evaporate.) 'Where does a well get its water?' (Groundwater seeping in from all around.) 'Why is matka water cool?' (Evaporation from the outside takes heat away.) Say: 'This time we are going to follow water all the way round the world, and find out that it never stops moving.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: What the River Remembers",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask: 'Why did the river stop flowing in summer?' and 'What did Ruchi find in the sacred grove?' Write down the answers and keep them for Day 4."
+    },
+    {
+     "kind": "act",
+     "title": "The bucket and the teaspoon",
+     "mins": 15,
+     "do": "Do Activity a1. Fill a bucket with 10 litres of water (10 one-litre bottles): this is all the water on Earth. Take out one glass (250 ml): this is all the fresh water. The rest of the bucket is salty sea. From the glass, pour about two-thirds into a bowl and put it in the freezer: that's the fresh water locked in ice at the poles and in glaciers. Pour most of the rest into a cup of sand: that's groundwater. What's left in the glass, about half a teaspoon, is all the water in every lake, river, swamp and cloud, and in every living thing. Ask: 'What surprised you?' Then: 'Why can't we just drink the sea?' (The salt would dry us out: our kidneys would need more water to get rid of the salt than the sea water gives.)",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up: make salt like the salt pans",
+     "mins": 10,
+     "do": "Set up Experiment e1: dissolve two spoons of salt in half a glass of water, pour a thin layer onto a dark plate and put it in the sun. Ask your child to predict what will be left when the water has gone. Tell them that in the Rann of Kutch and along the coasts of Gujarat and Tamil Nadu, salt workers make most of India's salt exactly like this, in huge shallow pans.",
+     "ref": "e1"
+    }
+   ],
+   "need": [
+    "a bucket and a 1-litre bottle",
+    "a glass, a bowl, a cup of sand, a teaspoon",
+    "salt, a dark plate"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ice, water, vapour",
+   "goal": "See water change between its three forms, and find out what a cloud really is.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Salt plate",
+     "mins": 5,
+     "do": "Look at the salt plate from Experiment e1. Ask: 'Where did the water go? Why didn't the salt go with it?' (Water evaporated into the air; salt can't evaporate, so it stays behind. That's why the sea is salty but rain is fresh.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "exp",
+     "title": "The sweating steel glass",
+     "mins": 12,
+     "do": "Do Experiment e2: put ice and a little water in a dry steel glass and wipe the outside dry. Wait 5 minutes. Ask: 'Where did the drops on the outside come from? Did they leak through the steel?' (No. Invisible water vapour in the air touched the cold glass, cooled and turned back into liquid drops. That is condensation.) Taste a drop from the outside: it isn't salty or sweet even if you put salt or sugar in the water inside.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "What is a cloud made of?",
+     "mins": 8,
+     "do": "Breathe on a cold mirror or a steel spoon from the fridge. Ask: 'What do you see? What made it?' Then hold a steel plate (a grown-up holds it) over the steam from a kettle or a pot of boiling water and watch drops form underneath. Explain: 'Water vapour is invisible. The white mist you see above a kettle, and the clouds in the sky, are not vapour. They are billions of tiny liquid drops that have already condensed.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up: a water cycle in a bag",
+     "mins": 10,
+     "do": "Set up Experiment e3: put a few spoons of water with a drop of blue colour into a zip bag, draw the sun, a cloud, a hill and the sea on the bag with a marker, seal it and tape it to a sunny window. Ask your child to predict what will happen by tomorrow.",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "Forms hunt",
+     "mins": 10,
+     "do": "Hunt around the house for water in each form and add them to a three-column chart (solid, liquid, gas): ice in the freezer, frost on the freezer wall, tap water, dew on grass in the morning, sweat, steam rising from tea, a wet cloth drying. Label each change: melting (solid to liquid), freezing (liquid to solid), evaporation (liquid to gas), condensation (gas to liquid)."
+    }
+   ],
+   "need": [
+    "a steel glass and ice",
+    "a mirror or a cold steel spoon",
+    "a kettle or pot (grown-up)",
+    "a zip bag, blue food colour, a marker and tape"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The water cycle, and the leaves' secret",
+   "goal": "Watch the cycle in the bag, catch a plant breathing out water, and meet the people who worked out where rivers come from.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Read the bag",
+     "mins": 8,
+     "do": "Look at Experiment e3. Ask: 'What happened at the top of the bag? Where did the drops come from? What happens when they get big?' (Water evaporated in the warm sun, condensed on the cooler plastic at the top like a cloud, then ran down like rain into the 'sea' at the bottom.) Say: 'This bag is a tiny Earth. The same water goes round and round; none is added and none leaves.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "exp",
+     "title": "A leaf breathes out water",
+     "mins": 12,
+     "do": "Look at Experiment e4, which you set up this morning. Carefully untie the clear plastic bag from the leafy branch and look at the drops inside. Ask: 'Where did this water come from? It didn't rain inside the bag.' (Water travelled up from the roots and out through tiny holes in the leaves, called stomata. This is transpiration.) Tell your child: 'A big tree can give off hundreds of litres of water into the air on a hot day. Much of the rain over forests is water the trees breathed out.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "act",
+     "title": "Draw the whole cycle",
+     "mins": 12,
+     "do": "Your child draws their own water cycle on a big sheet: sea, sun, evaporation, cloud, condensation, rain (precipitation), a forest giving off water (transpiration), rain soaking in (infiltration) to groundwater, a river running back to the sea, and a well. Ask: 'Where does the cycle start?' (It has no start. Every part is fed by another.) Add: 'The water in your glass has been going round like this for more than four billion years. It has been sea, cloud, ice and the inside of a dinosaur.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Where do rivers come from?",
+     "mins": 13,
+     "do": "Talk about voice v1, Palissy and Perrault. Ask first: 'Rivers flow all year, even when it hasn't rained for months. Where do you think the water comes from?' Let your child guess. Then tell the story of the potter and the lawyer who measured the rain. Ask the voice question.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "the water cycle bag",
+    "the plant bag from this morning",
+    "a big sheet of paper and colours"
+   ],
+   "prep": [
+    {
+     "task": "Tie a clear plastic bag tightly over a leafy branch of a plant in the sun (keep the leaves on the plant)",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Water under our feet",
+   "goal": "Measure which ground drinks rain, and see how villages brought their wells back.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Which ground drinks the rain?",
+     "mins": 20,
+     "do": "Do Experiment e5. Cut four bottles and turn the tops upside down as funnels with a bit of cloth in the neck. Fill each with the same amount of: sandy soil, garden soil with leaves, clay or hard-packed soil, and garden soil with a patch of grass or leaf litter on top. Pour the same cup of water on each and time how long it takes to soak in, then measure how much drips out in 5 minutes. Ask: 'Which would refill a well best? Which would flood a road?' Write the results in a table.",
+     "ref": "e5"
+    },
+    {
+     "kind": "talk",
+     "title": "Too many straws in one glass",
+     "mins": 10,
+     "do": "Remind your child of the jar well from Class 3. Then say: 'India pumps up more groundwater than any other country in the world. In some parts of Punjab, Haryana and Rajasthan the water level is falling by about a metre every few years, because more is pumped out than the rain puts back.' Draw a glass with five straws. Ask: 'What happens when everyone sucks at once? Who runs out first, the person with the longest straw or the shortest?' (The shortest: poorer families with shallow wells go dry first.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The johads of Alwar",
+     "mins": 15,
+     "do": "Talk about voice v2, Rajendra Singh and the villagers of Alwar. Connect it to the story: ask 'How is a johad like the sacred grove in Ruchi's story?' (Both slow rain down so it can soak in and keep the river and the wells alive in the dry months.) Ask the voice question.",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "four plastic bottles, scissors (grown-up), cloth",
+    "sandy soil, garden soil, clay or packed soil, grass or leaf litter",
+    "a cup, a timer, a measuring cup"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Rivers carve the land",
+   "goal": "Make a river in a tray and follow your own rain to the sea.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "A river in a tray",
+     "mins": 20,
+     "do": "Do Experiment e6 outside. Fill a tray with damp sand and soil and prop one end up on a brick. Make a small hole in a bottle cap and let water trickle out at the top end. Watch for 10 minutes. Ask: 'What does the water do to the sand at the top? Where does the sand go? What shape does the river make at the bottom?' (It cuts a channel at the top: erosion. It drops sand where it slows down at the bottom, building a fan of new land: deposition, like a delta.) Put a few small stones in the river and see how it bends around them.",
+     "ref": "e6"
+    },
+    {
+     "kind": "think",
+     "title": "Which sea does our rain go to?",
+     "mins": 15,
+     "do": "Look at a map of India together (an atlas or a phone map). Find your town, the nearest river, and follow it to the sea. Ask: 'Does our rain end up in the Bay of Bengal or the Arabian Sea?' Then the puzzle: point out that the Godavari, Krishna and Kaveri all begin in the Western Ghats, very close to the Arabian Sea, but flow all the way east to the Bay of Bengal. Ask why. (The land of the Deccan tilts downwards to the east, and water always flows downhill.) Explain: all the land that drains into one river is its river basin. The Ganga's basin covers about a quarter of India."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws1: forms of water, the cycle, and rivers. Read each question aloud if needed. For the two written questions, ask your child to use the salt plate and the cycle drawing as evidence.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a tray or a cut cardboard box lined with plastic",
+    "sand and soil",
+    "a brick",
+    "a bottle with a pierced cap",
+    "an atlas or a map on a phone",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Life in fresh water",
+   "goal": "Watch a pond, test the lotus leaf, and build a pond food chain.",
+   "steps": [
+    {
+     "kind": "outdoor",
+     "title": "Pond watch",
+     "mins": 20,
+     "do": "Visit a pond, a lake edge, a temple tank or a stream with a grown-up (or, if there is none nearby, watch a pond video and use a bucket of tap water left out for a week as a mini pond). Sit quietly for 10 minutes and list everything living: plants floating, plants rooted at the edge, insects on the surface (water striders), under the surface (mosquito larvae wriggling, dragonfly nymphs), fish, frogs, snails, birds. Ask: 'Who lives on the surface, who in the water, who at the bottom, who at the edge?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Why doesn't a lotus leaf get wet?",
+     "mins": 10,
+     "do": "Do Experiment e7 with a lotus leaf or a colocasia (arbi) leaf: drip water on it and watch it roll off in balls, taking dust with it. Compare a plain paper and a paper rubbed with a candle. Explain: the leaf is covered in tiny bumps and wax, so water can't spread. A floating leaf must keep its top dry to breathe through its upper surface. Tell your child that engineers now copy this 'lotus effect' to make self-cleaning paint and glass.",
+     "ref": "e7"
+    },
+    {
+     "kind": "talk",
+     "title": "Who eats whom in the pond?",
+     "mins": 15,
+     "do": "Build a pond food chain together from your list: tiny green algae and water plants (producers, made from sunlight) → mosquito larvae and snails → small fish and dragonfly nymphs → frogs → a kingfisher or a heron. Then link several chains into a web with string or arrows. Ask: 'What would happen if all the frogs were caught?' (More mosquito larvae, fewer food for herons.) Ask: 'Why do so many animals live near water, even the ones that live on land?'"
+    }
+   ],
+   "need": [
+    "a grown-up, a notebook",
+    "a lotus or colocasia leaf, a candle, paper",
+    "string or coloured pencils"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Hidden water and who it belongs to",
+   "goal": "Find the water hidden in food and clothes, play the water game, and wonder where all Earth's water came from.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "The hidden water hunt",
+     "mins": 12,
+     "do": "Do Activity a2. Tell your child: 'Scientists have estimated how much water it takes to grow or make things.' Share these rough numbers (they vary a lot from place to place): one cup of tea about 30 litres (to grow the tea leaves), one kilogram of rice about 2,500 litres, one cotton T-shirt about 2,700 litres. Ask your child to pick five things in the house and guess which needed the most water. Ask: 'When India sells rice to other countries, what else is it sending away?' (The water used to grow it.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "game",
+     "title": "Water's Many Lives card game",
+     "mins": 15,
+     "do": "Play the card game g1. Each card names a place or a change; the player says what happens to the water next. Play twice.",
+     "ref": "g1"
+    },
+    {
+     "kind": "talk",
+     "title": "Where did Earth's water come from?",
+     "mins": 10,
+     "do": "Talk about voice v3. Ask: 'If no new water is ever made, where did all of it come from in the first place?' Explain the three ideas: comets, asteroids, or the rocks Earth was built from. Ask the voice question. Say: 'Nobody knows yet. Maybe you'll find out.'",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws2: water in new places. Your child uses the week's ideas on new cases: foggy glasses, a city built over its lakes, and the pond creatures from Day 6.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "printed game cards",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Design a water-wise home",
+   "goal": "Build a model of a home that catches its own rain, and tackle the challenge worksheet.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Rain-harvest model",
+     "mins": 30,
+     "do": "Start the project. With a shoebox for a house, a folded cardboard roof, a cut straw or half a plastic pipe as the gutter, a bottle-top filter of cloth and sand, and a plastic bottle as the tank, your child builds a house that catches rain. Add a 'recharge pit': a cup of gravel buried in a tray of soil where the overflow goes. Pour a mug of water on the roof and see where it goes. Ask: 'If our roof is 50 square metres and it rains 10 millimetres, how much water could we catch?' (50 × 10 = 500 litres. Every square metre of roof catches one litre for every millimetre of rain.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 15,
+     "do": "Do Worksheet ws3. The last questions have no single right answer; ask for reasons.",
+     "ref": "ws3"
+    }
+   ],
+   "need": [
+    "a shoebox, cardboard, tape",
+    "a straw or half pipe",
+    "a plastic bottle, cloth, sand, gravel",
+    "a tray of soil",
+    "worksheet ws3"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Check and teach it back",
+   "goal": "Present the water-wise home, answer the check questions and teach the whole cycle back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Present the water-wise home",
+     "mins": 10,
+     "do": "Your child shows the family the model and explains where every drop goes: roof, gutter, filter, tank, overflow, recharge pit. Ask: 'What would happen to this rain if we had no tank and a cement yard?'"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 15,
+     "do": "Ask the check questions aloud. Let your child point at the water cycle drawing to explain."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child teaches the water cycle to a family member using the drawing from Day 3, and must include: evaporation, condensation, precipitation, transpiration, infiltration, a river and the sea. The listener asks one hard question: 'Where does it start?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Who does a river belong to?",
+     "mins": 10,
+     "do": "Tell your child: 'In 2017 New Zealand's Parliament declared the Whanganui River a legal person with its own rights, after a long struggle by the Māori people who live along it. In the same year an Indian high court said the Ganga and Yamuna were living persons, though the Supreme Court later put that on hold.' Ask: 'Should a river have rights? Who would speak for it?' Let your child argue both sides."
+    }
+   ],
+   "need": [
+    "the model and the water cycle drawing"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Forms, cycle and rivers",
+   "day": 5,
+   "sections": [
+    [
+     "A. Forms and changes",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these by the form the water is in.",
+       "items": [
+        "ice in a tray",
+        "steam you can't see just above a kettle spout",
+        "dew on grass",
+        "frost in a freezer",
+        "a river",
+        "water vapour in the air"
+       ],
+       "cats": [
+        "solid",
+        "liquid",
+        "gas"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the change to what happens.",
+       "pairs": [
+        [
+         "melting",
+         "solid to liquid"
+        ],
+        [
+         "freezing",
+         "liquid to solid"
+        ],
+        [
+         "evaporation",
+         "liquid to gas"
+        ],
+        [
+         "condensation",
+         "gas to liquid"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Drops form on the outside of a cold steel glass. Where do they come from?",
+       "opts": [
+        "They leak through the steel",
+        "Water vapour in the air condenses on the cold glass",
+        "The ice melts through the glass"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Clouds are made of…",
+       "opts": [
+        "invisible water vapour",
+        "tiny drops of liquid water or ice",
+        "smoke"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. The cycle and the Earth",
+     [
+      {
+       "t": "fill",
+       "p": "Water leaving a plant through tiny holes in its leaves is called ____.",
+       "a": [
+        "transpiration"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Rain, hail and snow falling from clouds are called ____.",
+       "a": [
+        "precipitation"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "If all Earth's water were a 10-litre bucket, the fresh water would be about…",
+       "opts": [
+        "half the bucket",
+        "one glass",
+        "one drop"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "When a river drops its mud where it meets the sea, it builds new land called a ____.",
+       "a": [
+        "delta"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "The salt plate was left with salt but no water. Explain why rain is not salty even though most of it evaporates from the sea.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Where does the water cycle begin? Explain your answer.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Water in new places",
+   "day": 7,
+   "sections": [
+    [
+     "A. Explain it",
+     [
+      {
+       "t": "mcq",
+       "p": "Your glasses fog up when you walk from an air-conditioned room into a hot, humid street. Why?",
+       "opts": [
+        "The hot air is dirty",
+        "Water vapour in the warm air condenses on the cold lenses",
+        "The lenses are sweating"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Why are fields of crops greener near a forest even in a dry month?",
+       "opts": [
+        "The forest soaks up rain and lets it out slowly as groundwater and streams",
+        "Forests make new water",
+        "Trees push rain away from themselves"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Which helps rain soak in, and which makes it run off?",
+       "items": [
+        "a grass strip",
+        "a concrete car park",
+        "leaf litter",
+        "a johad",
+        "a tiled roof with no tank",
+        "a recharge pit"
+       ],
+       "cats": [
+        "soaks in",
+        "runs off"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the pond creature to where it lives.",
+       "pairs": [
+        [
+         "water strider",
+         "on the surface"
+        ],
+        [
+         "mosquito larva",
+         "hanging just under the surface"
+        ],
+        [
+         "snail",
+         "on plants and the bottom"
+        ],
+        [
+         "lotus",
+         "rooted in mud with leaves floating"
+        ],
+        [
+         "heron",
+         "at the edge, wading"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Food chains and hidden water",
+     [
+      {
+       "t": "fill",
+       "p": "In a pond food chain, algae and water plants are the ____, because they make food from sunlight.",
+       "a": [
+        "producers",
+        "producer"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which needs the most water to make?",
+       "opts": [
+        "one cup of tea",
+        "one cotton T-shirt",
+        "one glass of drinking water"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "A city builds roads and buildings over all its lakes and fields. Give two things that might happen to its water, and why.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "The tray river carried sand from the top and dropped it at the bottom. Where in India does a real river do this? What happens to the land there?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Water puzzles and arguments",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "The Godavari begins in the Western Ghats, about 80 km from the Arabian Sea, but flows into the Bay of Bengal. Why?",
+       "opts": [
+        "The land tilts down towards the east",
+        "The wind blows it east",
+        "The Arabian Sea is too salty"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A roof of 40 square metres catches rain of 20 mm. It collects about ____ litres.",
+       "a": [
+        "800"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Pierre Perrault measured rain over the upper Seine for three years. What did he show?",
+       "opts": [
+        "Rain was much more than enough to keep the river flowing",
+        "Rivers are fed by the sea through tunnels",
+        "Rain is too little to matter"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Most of Earth's fresh water is…",
+       "opts": [
+        "in rivers and lakes",
+        "frozen in ice and glaciers",
+        "in clouds"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Is it a fact scientists agree on, or still an open question?",
+       "items": [
+        "water vapour is invisible",
+        "how Earth first got its water",
+        "plants give off water from their leaves",
+        "exactly how the monsoon will change in 50 years",
+        "sea water is salty because salt stays behind when water evaporates"
+       ],
+       "cats": [
+        "agreed",
+        "open question"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Weigh it up",
+     [
+      {
+       "t": "write",
+       "p": "Villages upstream build many small dams to catch rain. A village downstream says its river now has less water. Both villages need water. How could they decide fairly? Give at least two ideas.",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "Should a river have rights, like a person? Give one reason for and one against.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Plan a fair test to find out whether a pot plant gives off more water in the sun or in the shade. What will you change, what will you keep the same, and what will you measure?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Make salt like the salt pans",
+   "day": 1,
+   "question": "When salty water evaporates, does the salt go too?",
+   "need": [
+    "two spoons of salt",
+    "half a glass of water",
+    "a dark plate",
+    "sunshine"
+   ],
+   "steps": [
+    "Stir the salt into the water until it disappears.",
+    "Pour a thin layer onto the plate.",
+    "Leave it in the sun for a day.",
+    "Look at it with a magnifying glass if you have one."
+   ],
+   "predict": "Ask: 'When the water has gone, will anything be left?'",
+   "observe": "White salt crystals are left on the plate.",
+   "why": "Only the water evaporates. Salt can't turn into a gas at this temperature, so it is left behind. This is why the sea is salty and rain is fresh: the sun lifts pure water out of the sea and leaves the salt. Rivers have been carrying tiny amounts of salt from rocks into the sea for millions of years.",
+   "safety": "",
+   "time": "5 min + a day in the sun"
+  },
+  {
+   "id": "e2",
+   "title": "The sweating steel glass",
+   "day": 2,
+   "question": "Where do the drops on a cold glass come from?",
+   "need": [
+    "a steel glass",
+    "ice",
+    "a cloth",
+    "salt or sugar (optional)"
+   ],
+   "steps": [
+    "Wipe the glass dry.",
+    "Fill it with ice and a little water (add salt if you like).",
+    "Wait 5 minutes.",
+    "Touch and look at the outside.",
+    "Taste a drop from the outside."
+   ],
+   "predict": "Ask: 'Will the outside get wet? Will it taste of salt?'",
+   "observe": "Drops form all over the outside. They are not salty.",
+   "why": "Air always holds invisible water vapour. When it touches the cold glass it cools and turns back into liquid: condensation. The drops came from the air, not from inside, so they don't taste of what's inside. Dew on grass forms the same way on cool nights.",
+   "safety": "",
+   "time": "10 min"
+  },
+  {
+   "id": "e3",
+   "title": "A water cycle in a bag",
+   "day": 2,
+   "question": "Can we watch the water cycle happen?",
+   "need": [
+    "a zip bag",
+    "a few spoons of water",
+    "blue food colour",
+    "a marker",
+    "tape",
+    "a sunny window"
+   ],
+   "steps": [
+    "Draw a sun, a cloud, a hill and a sea on the bag.",
+    "Put a few spoons of coloured water in the bottom.",
+    "Seal it and tape it to a sunny window.",
+    "Check after a few hours and the next day."
+   ],
+   "predict": "Ask: 'What will happen to the water in the sun?'",
+   "observe": "Mist and drops gather at the top of the bag, grow, and run down the sides back to the bottom. The drops at the top are clear, not blue.",
+   "why": "Sunlight warms the water so it evaporates. The vapour cools on the plastic and condenses into drops (a cloud), and when they get heavy they fall (rain) back to the 'sea'. The colour stays behind, just like salt. No water enters or leaves the bag: it just goes round, the way Earth's water does.",
+   "safety": "",
+   "time": "5 min + a day"
+  },
+  {
+   "id": "e4",
+   "title": "A leaf breathes out water",
+   "day": 3,
+   "question": "Do plants put water into the air?",
+   "need": [
+    "a clear plastic bag",
+    "string",
+    "a leafy plant or bush in the sun"
+   ],
+   "steps": [
+    "In the morning, put the bag over a leafy branch.",
+    "Tie it tightly round the stem.",
+    "Leave it in the sun for a few hours.",
+    "Untie it carefully and look inside."
+   ],
+   "predict": "Ask: 'Will there be water inside the bag? Where could it come from?'",
+   "observe": "Drops and mist inside the bag.",
+   "why": "Plants pull water up from their roots, and most of it escapes through tiny holes (stomata) under their leaves as vapour: transpiration. This pulling is what lifts water up a tall tree. Over forests, a large share of the rain is water that the trees themselves breathed out, so cutting forests can mean less rain.",
+   "safety": "Use a sturdy plant and remove the bag the same day.",
+   "time": "5 min + a few hours"
+  },
+  {
+   "id": "e5",
+   "title": "Which ground drinks the rain?",
+   "day": 4,
+   "question": "Which kind of ground lets rain soak in best?",
+   "need": [
+    "four plastic bottles",
+    "cloth pieces",
+    "sandy soil",
+    "garden soil",
+    "clay or packed soil",
+    "grass or leaf litter",
+    "a cup",
+    "a timer",
+    "a measuring cup"
+   ],
+   "steps": [
+    "A grown-up cuts each bottle in two; turn the top upside down into the bottom.",
+    "Put cloth in each neck.",
+    "Fill each top with the same amount of one kind of ground; press the clay one hard.",
+    "Put leaf litter or grass on top of one garden soil.",
+    "Pour one cup of water on each at the same time.",
+    "Time how long until no water is left on top.",
+    "Measure how much drips through in 5 minutes."
+   ],
+   "predict": "Ask: 'Which will soak up the water fastest? Which will let the most through?'",
+   "observe": "Sandy soil drains fast, garden soil with litter soaks in well and holds some, packed clay leaves water sitting on top.",
+   "why": "Water soaks in through the gaps between grains. Sand has big gaps; clay has tiny ones that block easily, especially when packed. Leaf litter and roots slow water down and open channels, so more soaks in instead of running off. That is how forests and grass recharge groundwater, and why trampled or paved ground floods.",
+   "safety": "A grown-up does the cutting.",
+   "time": "20 min"
+  },
+  {
+   "id": "e6",
+   "title": "A river in a tray",
+   "day": 5,
+   "question": "How does flowing water change the shape of the land?",
+   "need": [
+    "a tray or plastic-lined box",
+    "damp sand and soil",
+    "a brick",
+    "a bottle with a small hole in the cap",
+    "a few small stones"
+   ],
+   "steps": [
+    "Fill the tray with damp sand and soil and smooth it.",
+    "Prop one end on the brick.",
+    "Let water trickle from the bottle at the top end.",
+    "Watch for 10 minutes and draw what you see.",
+    "Add small stones in the path and watch again."
+   ],
+   "predict": "Ask: 'What will the water do to the sand?'",
+   "observe": "A channel is cut at the top, the river bends round stones and wanders, and a fan of sand builds up at the bottom.",
+   "why": "Moving water picks up soil and sand (erosion) and carries it. When it slows down, at the bottom of a slope or where it meets the sea, it drops it (deposition). Over thousands of years this carves valleys, like the deep gorges of the Himalaya, and builds deltas, like the huge Ganga–Brahmaputra delta of the Sundarbans.",
+   "safety": "Do it outside; wash hands after.",
+   "time": "20 min"
+  },
+  {
+   "id": "e7",
+   "title": "Why doesn't a lotus leaf get wet?",
+   "day": 6,
+   "question": "How does a water plant keep its leaves dry?",
+   "need": [
+    "a lotus or colocasia (arbi) leaf",
+    "plain paper",
+    "a candle",
+    "a dropper or spoon of water",
+    "a pinch of dust"
+   ],
+   "steps": [
+    "Sprinkle a little dust on the leaf.",
+    "Drip water on it and tilt it.",
+    "Drip water on plain paper.",
+    "Rub a candle hard over another paper and drip water on it."
+   ],
+   "predict": "Ask: 'Which will get wet? What will happen to the dust?'",
+   "observe": "Water forms round balls on the leaf and rolls off, picking up dust. Plain paper soaks; waxed paper beads a little.",
+   "why": "The leaf is covered in microscopic bumps topped with wax, so a drop touches almost nothing and can't spread. This keeps the floating leaf's upper surface, where its breathing holes are, clean and dry. The botanist Wilhelm Barthlott studied this in the 1970s and called it the 'lotus effect'.",
+   "safety": "",
+   "time": "10 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The bucket and the teaspoon",
+   "day": 1,
+   "mins": 15,
+   "need": [
+    "a bucket",
+    "a 1-litre bottle",
+    "a glass",
+    "a bowl",
+    "a cup of sand",
+    "a teaspoon"
+   ],
+   "steps": [
+    "Fill the bucket with 10 litres: all Earth's water.",
+    "Take out one glass (250 ml): all the fresh water.",
+    "Pour about two-thirds of the glass into a bowl for the freezer: ice caps and glaciers.",
+    "Pour most of the rest into the sand: groundwater.",
+    "What's left, about half a teaspoon: every lake, river, swamp and cloud and all living things.",
+    "Talk about what this means."
+   ],
+   "outcome": "A picture your child won't forget of how little fresh water is easy to reach."
+  },
+  {
+   "id": "a2",
+   "title": "The hidden water hunt",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "paper",
+    "five household things or foods"
+   ],
+   "steps": [
+    "Learn three rough numbers: cup of tea about 30 litres, 1 kg rice about 2,500 litres, a cotton T-shirt about 2,700 litres.",
+    "Pick five things in the house.",
+    "Guess and rank them from least to most hidden water.",
+    "Talk about what would change if we wasted less food or bought fewer clothes."
+   ],
+   "outcome": "A ranked list of hidden water in your home."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Bernard Palissy (about 1510–1590) and Pierre Perrault (1611–1680), France",
+   "idea": "For about two thousand years, many learned people believed rain was far too little to keep rivers running all year, and that springs were fed by sea water rising through underground passages, or by air turning into water inside mountains. Palissy, a potter with no university education, wrote in 1580 that springs and rivers come only from rain that soaks into the ground. About a hundred years later, Perrault, a lawyer, measured the rain falling on the upper part of the Seine river for three years and compared it with the river's flow. In 1674 he showed that the rain was about six times more than the river carried.",
+   "then": "Palissy wrote in everyday French, not Latin, and scholars took little notice; he was later imprisoned for his religion and died in the Bastille prison in Paris. Perrault's measurements were quickly checked and supported by Edme Mariotte, and Edmond Halley in England showed that the sun evaporates enough water from the sea to supply all the rain.",
+   "now": "Accepted. This was one of the first times anyone used measurements to understand the water cycle. Perrault's work is often called the beginning of hydrology, the science of water.",
+   "status": "accepted",
+   "ask": "Palissy was right, but he had no measurements. Perrault had numbers. Which would convince you more, and why? How could you measure whether rain is enough to feed your nearest river?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Rajendra Singh (born 1959), Tarun Bharat Sangh and the villagers of Alwar, Rajasthan, India",
+   "idea": "In 1985 Rajendra Singh came to the dry Alwar district. Village elders told him the real problem was not illness but water: the wells were dry and the forests on the hills had been cut. With the villagers, especially women, he helped rebuild johads, curved earth banks that hold rainwater so it soaks into the ground. Over the next years villages built thousands of them. Wells filled again, and the Arvari river, which had stopped flowing in the dry season, began flowing all year. The villages set up the Arvari River Parliament to share its water fairly.",
+   "then": "At first some officials said the johads were built without permission. Many engineers thought small earth banks could not matter compared with big dams.",
+   "now": "Accepted that the johads raised groundwater and brought rivers back; Rajendra Singh won the Stockholm Water Prize in 2015. Scientists still study how much of the change came from the johads and how much from rainy years, and they warn that too many small dams upstream can leave less water for villages downstream.",
+   "status": "accepted",
+   "ask": "The old woman in the village remembered the johad. Why do you think older people's memories are useful to scientists? What could they get wrong?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Where did Earth's water come from? Comets, asteroids, or Earth's own rocks (the Rosetta comet mission, 2014, and Laurette Piani and colleagues, 2020)",
+   "idea": "One idea is that icy comets crashed into the young Earth and brought the oceans. Another is that water-rich asteroids did. A third is that the rocks Earth was built from already held enough water. In 2020 Laurette Piani and her team, studying meteorites similar to the stuff Earth formed from, found they hold enough hydrogen to have made several oceans' worth of water.",
+   "then": "In 2014 the European spacecraft Rosetta tasted the water of comet 67P and found it had much more 'heavy' hydrogen than Earth's oceans, so comets like that one probably didn't bring most of our water.",
+   "now": "Debated. Most scientists think asteroids or Earth's own rocks, or a mix, gave us most of our water, but there is no agreement. Some studies also suggest that part of the water on Earth is older than the Sun itself.",
+   "status": "debated",
+   "ask": "Scientists compared the 'fingerprint' of comet water and sea water. What other clue would help you decide where our water came from?",
+   "day": 7
+  }
+ ],
+ "project": {
+  "title": "A water-wise home",
+  "days": [
+   8,
+   9
+  ],
+  "steps": [
+   "Build a shoebox house with a sloping cardboard roof.",
+   "Add a gutter from a cut straw or half a pipe.",
+   "Make a filter from a bottle top with cloth and sand.",
+   "Use a plastic bottle as the storage tank.",
+   "Add an overflow to a recharge pit (a cup of gravel buried in a tray of soil).",
+   "Test it with a mug of 'rain' and fix leaks.",
+   "Work out how many litres your real roof could catch in a 10 mm rain (roof area in square metres × 10).",
+   "Present the model to the family and explain every drop's path."
+  ],
+  "outcome": "A working rain-harvesting model and a calculation for your own home."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Water's Many Lives",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out",
+   "a pencil to keep score"
+  ],
+  "rules": [
+   "Shuffle the cards and put them face down.",
+   "Take turns to turn one over and read the front aloud.",
+   "Say what happens to the water next, and name the change if there is one (evaporation, condensation, precipitation, transpiration, infiltration, melting, freezing).",
+   "Check the back. A right answer with the right word scores 2 points; right idea without the word scores 1.",
+   "When all cards are used, the highest score wins. Then lay all the cards out and join them into one big water cycle."
+  ],
+  "cards": [
+   {
+    "front": "A puddle on a hot afternoon",
+    "back": "Evaporates into the air as water vapour"
+   },
+   {
+    "front": "Warm, wet air rising up a mountain",
+    "back": "Cools and condenses into cloud drops"
+   },
+   {
+    "front": "Cloud drops bumping and growing heavy",
+    "back": "Fall as rain: precipitation"
+   },
+   {
+    "front": "Rain on a forest floor",
+    "back": "Soaks in: infiltration, then groundwater"
+   },
+   {
+    "front": "Rain on a tarred road",
+    "back": "Runs off into a drain and a river"
+   },
+   {
+    "front": "A neem tree on a sunny day",
+    "back": "Gives off water from its leaves: transpiration"
+   },
+   {
+    "front": "Snow on a Himalayan peak in spring",
+    "back": "Melts and flows into a river"
+   },
+   {
+    "front": "A river reaching the sea",
+    "back": "Drops its mud (a delta) and joins the salty sea"
+   },
+   {
+    "front": "The sea under the hot sun",
+    "back": "Evaporates; the salt stays behind"
+   },
+   {
+    "front": "A cold steel glass on a humid day",
+    "back": "Vapour condenses into drops on the outside"
+   },
+   {
+    "front": "Water in a freezer tray",
+    "back": "Freezes into ice"
+   },
+   {
+    "front": "Groundwater under a hill",
+    "back": "Seeps out as a spring or into a well"
+   },
+   {
+    "front": "A johad after the monsoon",
+    "back": "Holds water so it soaks in and recharges wells"
+   },
+   {
+    "front": "Water a buffalo drinks",
+    "back": "Leaves as breath, sweat and urine, back to the cycle"
+   },
+   {
+    "front": "A drop inside a glacier",
+    "back": "Can stay frozen for thousands of years, then melt"
+   },
+   {
+    "front": "Dew on grass at dawn",
+    "back": "Formed by condensation; evaporates when the sun rises"
+   },
+   {
+    "front": "A borewell pumping all day",
+    "back": "Takes groundwater faster than rain may refill it"
+   },
+   {
+    "front": "Rain on a rooftop with a gutter and tank",
+    "back": "Collected and stored: rain harvesting"
+   },
+   {
+    "front": "Steam from a pressure cooker",
+    "back": "Invisible vapour, then a white mist of tiny drops"
+   },
+   {
+    "front": "A drop in a pond with a lotus",
+    "back": "May be drunk by the lotus and transpired from its leaf"
+   },
+   {
+    "front": "Hail falling in a storm",
+    "back": "Ice; melts into water on the ground"
+   },
+   {
+    "front": "A drop you drank this morning",
+    "back": "Has been round the cycle for billions of years"
+   },
+   {
+    "front": "WILD CARD: a dinosaur's drink",
+    "back": "Name three places that water could be today"
+   },
+   {
+    "front": "WILD CARD: your own idea",
+    "back": "Invent a water journey with three changes"
+   }
+  ]
+ },
+ "story": {
+  "title": "What the River Remembers",
+  "text": [
+   "I am a small river. You will not find me on most maps. I begin in the hills of the Western Ghats in Maharashtra and I run for only forty kilometres before I lose myself in a bigger river, which loses itself in a bigger one still, which, after many days, loses itself in the Bay of Bengal. That is where I came from in the first place, though nobody in the villages along my banks would believe it.",
+   "I remember everything. I remember being sea, warm and green and salty, rocking under the sun. I remember the moment I was lifted, one invisible piece at a time, leaving my salt behind, rising so high that the air turned cold and I gathered myself into a cloud. I remember being blown by the monsoon wind for a thousand kilometres across the land, and falling. I have done this more times than there are grains of sand in my bed. Once, a long time ago, I was ice. Once I was inside an elephant. Once, I think, inside a dinosaur. Water does not get used up. It only moves.",
+   "Two villages live along me. Up in the hills is Dongarwadi, with its terraced fields and its small temple in a grove of old trees. Down in the plain is Nadikinara, where the fields are wide and flat and the people grow vegetables to sell in the town.",
+   "For as long as anyone remembered, I flowed all year. In the monsoon I was wide and brown and loud. In the dry months, from January to May, I was thin and clear and quiet, but I never stopped. The women of Nadikinara washed clothes on my stones in April. The buffaloes stood in me up to their bellies in May. A kingfisher lived in a hole in my bank and fished in me every single day.",
+   "Then, over a few years, things changed. The hills above Dongarwadi had been covered with forest. People needed firewood, and a contractor came with saws, and the slopes were cleared for fields and for timber. When the monsoon came, I was no longer wide and brown. I was wild. The rain hit the bare slopes and raced straight down into me, carrying the red soil with it, and I flooded Nadikinara's fields and drowned the young plants. And then, by February, I was gone. Just dry stones, and a smell of mud, and the kingfisher sitting on a dead branch looking at nothing.",
+   "In Nadikinara people were angry. 'Dongarwadi is taking our river,' they said. 'They must have built a dam up there. They must be pumping it all out.'",
+   "A girl called Ruchi, who was ten, decided to find out for herself. One morning in March, with her cousin and a bottle of water and a packet of chikki, she walked up my dry bed towards the hills. It took most of the day. She saw no dam. She saw no pumps. The people of Dongarwadi were as worried as hers: their own wells were low, and their own fields were cracking. A boy called Somu, who was looking after his family's goats, walked with her the last part of the way.",
+   "'There's no dam,' he said. 'The river just stops. Come and see.'",
+   "They climbed to where I begin. There was nothing there, just a gully of bare red rock, dry as a brick, with a few thorny bushes. Ruchi sat down on a stone and nearly cried. Where was the river? Where had all that water gone, the water that once flowed all year?",
+   "'There's one more place,' said Somu. 'The devrai. The sacred grove. Nobody cuts the trees there. It belongs to the goddess.'",
+   "The grove was just a small patch of forest around the old temple, a few hundred trees that nobody had touched for hundreds of years. Inside it was dark and cool. The ground was soft, deep with fallen leaves, and it gave under their feet like a mattress. There were ferns. There was moss on the roots. And in the deepest part, under a huge old tree whose roots ran down between the stones, there was a sound Ruchi had not heard for months: a trickle.",
+   "She knelt and put her hand in it. Cold water was coming out of the ground. Not much, a thin silver thread no wider than her finger, but in March, in a dry year, when every other part of the hill was bare rock and dust, here I was.",
+   "Ruchi looked at the soft, deep ground and the thick leaves and the roots. She looked back down at the bare hillside. And she understood something that the people who cut the forest had never thought about. The forest had never made the water. The rain made the water. But the forest held it. All that thick leaf litter, all those roots, the soft spongy soil: they caught the monsoon rain and let it sink slowly into the ground, and then, for months and months afterwards, they let it out again, drop by drop, into me. The forest was where I kept my water between the rains. When the forest went, the rain had nowhere to wait.",
+   "It took a long time after that. There were meetings, and arguments, and more arguments. But in the end the two villages, the hill village and the plain village, agreed to do it together. They planted trees on the bare slopes, thousands of them. They dug long trenches along the hillside to slow the rain. They let the grass grow back and kept the goats off it for a few years. Somu and Ruchi planted forty saplings each, and watered them by hand through the first dry season.",
+   "I did not come back the next year, or the year after that. Trees grow slowly, and soil grows more slowly still. But in the fourth year, in April, a thin clear thread of me ran past Nadikinara for the first time in a long while. In the fifth year I reached the bigger river in May.",
+   "And this morning, as I write this, the kingfisher dived into me, and came up with a fish, and I felt the small cold splash of it, and thought: I was the sea once. I was a cloud. I will be the sea again. But for these few months, I am this, and I am here."
+  ],
+  "epiphany": "The river narrates the water cycle from the inside (sea, cloud, rain, river, sea) so the child meets the idea that water is never used up, only moved. The turn comes in the sacred grove: Ruchi sees that the forest doesn't make water but holds it, letting rain soak in and releasing it slowly as groundwater and springs. Without the forest, rain runs straight off (floods, erosion) and the river dries in summer. The quiet lenses: the two villages blame each other until they share the problem; a sacred grove, a commons that nobody owned, is what saved the river.",
+  "ask": [
+   "Why did the river flood in the monsoon and then dry up in February?",
+   "What did Ruchi understand when she put her hand in the trickle?",
+   "Nadikinara thought Dongarwadi had taken their river. Were they right? What was really happening?",
+   "The sacred grove belonged to the goddess, so nobody cut it. What do you think about that?",
+   "The river says, 'I was the sea once. I will be the sea again.' What does it mean?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "The water cycle has no beginning and no end, and no water is ever new.",
+   "more": "Every drop has been sea, cloud, ice and living things many times over. The water cycle bag shows this: nothing enters or leaves, it only goes round."
+  },
+  {
+   "idea": "Almost all of Earth's water is out of reach.",
+   "more": "About 97 drops in every 100 are salty sea, and most of the fresh water is ice or deep underground. The bucket and the teaspoon makes this real."
+  },
+  {
+   "idea": "Forests and soil are where rivers keep their water.",
+   "more": "Leaf litter, roots and soil soak up rain and release it slowly as groundwater and springs. Cut them and you get floods in the monsoon and dry riverbeds in summer."
+  },
+  {
+   "idea": "Water carves the Earth.",
+   "more": "Every valley, gorge and delta was shaped by flowing water carrying soil from one place to another, grain by grain, over thousands of years."
+  }
+ ],
+ "unknowns": [
+  "Where did Earth's water come from in the first place: comets, asteroids, or the rocks the Earth was made from? Scientists disagree.",
+  "How will a warming world change the Indian monsoon? Scientists have found that very heavy rain days have become more common in central India since the 1950s, but how the whole monsoon will behave in 50 years is still uncertain.",
+  "How much water is hidden deep inside the Earth, hundreds of kilometres down in the rocks of the mantle? A tiny crystal found inside a diamond in 2014 suggested there might be as much as in all the oceans, but nobody knows for sure."
+ ],
+ "big": [
+  "If water keeps going round and round, why do people say we are running out of it?",
+  "Who owns a river that flows through many villages, states or countries?",
+  "Should a river have rights, like a person? Who would speak for it?",
+  "Would you rather live upstream or downstream? Why?",
+  "The water in your body was once in a cloud, a fish and a dinosaur. Where are you, and where is the world?"
+ ],
+ "challenge": [
+  {
+   "q": "'Clouds are made of water vapour.'",
+   "hint": "Water vapour is an invisible gas. Clouds and the white mist above a kettle are made of billions of tiny liquid drops (or ice crystals) that have already condensed. You can see them because they scatter light. Ask: if vapour is invisible, how do we know it's in the air? (The sweating glass.)"
+  },
+  {
+   "q": "'Water is renewable, so we can never run out.'",
+   "hint": "The total amount of water on Earth stays the same, but water in one place can run out. Groundwater that took thousands of years to collect can be pumped out in a few decades. Satellites have measured groundwater falling fast under north-west India. Ask: is a bank account 'renewable' if you take out more than you put in?"
+  },
+  {
+   "q": "'Rivers start at a spring.'",
+   "hint": "A spring is only where groundwater comes out of the ground. That groundwater came from rain or melting snow that soaked in earlier. So every river really starts as rain. Palissy and Perrault had to fight for this idea for a long time. Ask: where does the water of the Ganga come from in May, when it hasn't rained for months? (Mostly melting snow and ice, plus groundwater.)"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A farmer in Ladakh",
+   "view": "In this cold desert, farming depends on meltwater from glaciers and snow in spring. If the ice melts too early or too little, fields go dry just when seeds need water. Ask: how is a glacier like a water tank?"
+  },
+  {
+   "who": "Fisherfolk in the Sundarbans",
+   "view": "The Ganga and Brahmaputra carry mud from the Himalaya and build the islands where they live. When dams upstream hold back the mud, some islands begin to wash away. Ask: can a dam be good for one place and bad for another?"
+  },
+  {
+   "who": "A dragonfly",
+   "view": "A dragonfly spends most of its life, often many months or more, as a nymph under the water of a pond, hunting tadpoles and larvae, before it climbs a reed and flies. Ask: is a dragonfly a water animal or an air animal?"
+  },
+  {
+   "who": "The village of Hiware Bazar, Maharashtra",
+   "view": "After years of drought, the villagers built check dams and planted trees, and now they measure their water every year after the monsoon and decide together which crops to grow so they don't take more than the rain gives. Ask: what would a 'water budget' for your home look like?"
+  }
+ ],
+ "books": [
+  {
+   "title": "A Drop of Water: A Book of Science and Wonder",
+   "author": "Walter Wick",
+   "for": "read together",
+   "age": "6–10",
+   "why": "Astonishing close-up photographs of drops, snowflakes, frost and steam that make evaporation and condensation visible."
+  },
+  {
+   "title": "All the Water in the World",
+   "author": "George Ella Lyon (illustrated by Katherine Tillotson)",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A poem about how all the water there is keeps moving round: 'that rain that soaked your hair'."
+  },
+  {
+   "title": "Pond Circle",
+   "author": "Betsy Franco (illustrated by Stefano Vitale)",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A pond food chain told as a cumulative rhyme, from algae to the raccoon. Use it on Day 6."
+  },
+  {
+   "title": "Aaj Bhi Khare Hain Talab (The Ponds Are Still Standing)",
+   "author": "Anupam Mishra",
+   "for": "parent reads",
+   "age": "adult book (Hindi; English translations exist); read parts aloud",
+   "why": "The stories of the people who built India's ponds and tanks, and the knowledge they carried."
+  }
+ ],
+ "check": [
+  {
+   "q": "If all Earth's water were a bucket, how much would be fresh and easy to reach?",
+   "a": "Fresh water is about one glass; the water in lakes, rivers and the air is only about half a teaspoon."
+  },
+  {
+   "q": "What is condensation? Give an example.",
+   "a": "Water vapour cooling and turning into liquid drops, such as drops on a cold glass, dew, or clouds."
+  },
+  {
+   "q": "Explain the water cycle using these words: evaporation, condensation, precipitation, transpiration, infiltration.",
+   "a": "Sun evaporates water from the sea and land and plants transpire it; it condenses into clouds; falls as precipitation; soaks in by infiltration or runs into rivers back to the sea."
+  },
+  {
+   "q": "Why is rain fresh even though most of it comes from the salty sea?",
+   "a": "Only the water evaporates; the salt is left behind."
+  },
+  {
+   "q": "How does a river change the land?",
+   "a": "It wears away soil and rock (erosion) and drops it where it slows down (deposition), carving valleys and building deltas."
+  },
+  {
+   "q": "Name a pond food chain.",
+   "a": "For example: algae → mosquito larva → small fish → kingfisher."
+  },
+  {
+   "q": "Why does cutting a forest make a river flood and then dry up?",
+   "a": "Without leaf litter and roots, rain runs straight off instead of soaking in, so there are floods in the rains and no slow supply of groundwater in the dry months."
+  },
+  {
+   "q": "Name one way a community can catch and share rain.",
+   "a": "Johads, check dams, rooftop rain harvesting, recharge pits, village water budgets."
+  }
+ ]
+}

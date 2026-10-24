@@ -1,156 +1,1189 @@
 {
  "key": "combined|sci|3|plants",
- "board": "combined", "subj": "sci", "level": 3, "n": "plants",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "plants",
  "title": "How plants live: kinds, needs and hidden plumbing",
- "source": "DeepKids Combined. Covers NCERT Class 3 'Getting to Know Plants' (variety, uses, needs, care) and Cambridge Stage 3 Biology (plant parts and their jobs, plants need light and water, transporting water). No textbook needed. Goes with the Plants Mission book, The Case of the Drooping Tulsi.",
- "summary": "Two years ago your child saw that plants are alive and reach for light. Now they find out how a plant really works: the five kinds of plants, everything we take from them, what a plant needs (tested fairly), how water climbs a stem, and the astonishing fact that a tree is built mostly out of air. Each day uses one station of the Plants Mission book.",
- "builds_on": "Class 1: plants are alive, have roots, stems, leaves and flowers, and grow towards light. Later: seeds, pollination and life cycles (Class 5), habitats and the web of life.",
+ "source": "DeepKids Combined. Covers NCERT Class 3 'Getting to Know Plants' (variety of plants, their features, uses and importance; what a plant needs and how to care for it) and Cambridge Stage 3 Biology (plants and their parts, plants need light and water, transporting water). No textbook needed. Goes with the Plants Mission book, The Case of the Drooping Tulsi.",
  "book": "plants|w1",
+ "summary": "Two years ago your child saw that plants are alive, reach for light and send roots down. Now they find out how a plant really works: the six kinds of plants and everything we take from them, what a plant needs (tested fairly, changing one thing), how root hairs drink and water climbs a stem and leaves the leaves, how to read a leaf's veins and a plant's roots, how to tell a sick plant from a healthy one, and the astonishing fact that a tree is built mostly out of air. Each day uses one station of the Plants Mission book.",
+ "builds_on": "Class 1: plants are alive; roots, stems, leaves and flowers each have a job; shoots grow towards light and roots grow down; plants in the dark go pale. Class 1 and Class 3 seeds rungs: how seeds sprout and how warmth changes growth. Later: flowers, pollination and life cycles (Class 5), sorting living things into groups and habitats and the web of life (Classes 3–4).",
  "goals": [
-  "By the end your child can sort plants into trees, shrubs, herbs, climbers and creepers, and give reasons.",
+  "By the end your child can sort plants into trees, shrubs, herbs, climbers, creepers and grasses, and give reasons.",
   "By the end your child can name ten things we get from plants, and say why plants matter to every animal on Earth.",
   "By the end your child can plan a fair test to show what a plant needs, changing only one thing.",
-  "By the end your child can show and explain how water travels up a stem.",
+  "By the end your child can show and explain how water enters the root hairs, travels up the stem and leaves through the leaves.",
   "By the end your child can explain photosynthesis simply: a leaf makes food from sunlight, water and carbon dioxide, and gives out oxygen, so a tree is built mostly from air.",
-  "By the end your child can name a scientist who was left out of the story, and say why."
+  "By the end your child can diagnose a sick plant, and name a scientist who was left out of the story."
  ],
- "words": [["tree", "a big plant with one thick woody trunk"], ["shrub", "a woody plant smaller than a tree, with many stems near the ground"], ["herb", "a small plant with a soft green stem"], ["climber", "a plant that needs a support to grow up"], ["creeper", "a plant that spreads along the ground"], ["photosynthesis", "how leaves make food from sunlight, water and carbon dioxide"], ["carbon dioxide", "a gas in the air that we breathe out and plants take in"], ["xylem", "tiny tubes in a stem that carry water up"], ["fair test", "a test where only one thing is changed"]],
+ "words": [
+  [
+   "tree",
+   "a big plant with one thick woody trunk"
+  ],
+  [
+   "shrub",
+   "a woody plant smaller than a tree, with many stems near the ground"
+  ],
+  [
+   "herb",
+   "a small plant with a soft green stem"
+  ],
+  [
+   "climber",
+   "a plant that needs a support to grow up"
+  ],
+  [
+   "creeper",
+   "a plant that spreads along the ground"
+  ],
+  [
+   "photosynthesis",
+   "how leaves make food from sunlight, water and carbon dioxide"
+  ],
+  [
+   "carbon dioxide",
+   "a gas in the air that we breathe out and plants take in"
+  ],
+  [
+   "xylem",
+   "tiny tubes in a stem that carry water up"
+  ],
+  [
+   "fair test",
+   "a test where only one thing is changed"
+  ],
+  [
+   "root hair",
+   "a tiny hair on a root that soaks up water from the soil"
+  ],
+  [
+   "transpiration",
+   "water leaving a plant's leaves as invisible vapour, which pulls more water up the stem"
+  ],
+  [
+   "nutrients",
+   "minerals from the soil that a plant needs in small amounts to stay healthy"
+  ]
+ ],
+ "subconcepts": [
+  "kinds of plants: trees, shrubs, herbs, climbers, creepers and grasses",
+  "what we get from plants: food, cloth, wood, rubber, medicine, paper",
+  "every food chain starts with a plant",
+  "'weed' is a word people choose, not a kind of plant",
+  "the parts of a plant and their jobs",
+  "what a plant needs: light, water, air, nutrients and space",
+  "a fair test changes only one thing",
+  "root hairs soak up water",
+  "xylem tubes carry water up the stem",
+  "transpiration: water leaves through the leaves and pulls more water up",
+  "photosynthesis: a tree is built mostly from air",
+  "net and parallel veins; tap and fibrous roots",
+  "healthy and unhealthy plants, and how to care for them",
+  "plants sense and respond: the plant intelligence debate"
+ ],
  "day_mins": 40,
  "days": [
-  {"n": 1, "title": "A day without plants?", "goal": "Discover how much of our life comes from plants, and meet the story.",
+  {
+   "n": 1,
+   "title": "A day without plants?",
+   "goal": "Discover how much of our life comes from plants, and meet the story.",
    "steps": [
-    {"kind": "warmup", "title": "Plant hunt at home", "mins": 12, "do": "Give your child 8 minutes to collect or list everything in the house that came from a plant: rice, dal, atta, vegetables, fruit, spices, tea, sugar, cotton clothes, a wooden chair, paper, a cane basket, coconut oil, rubber chappals (rubber is a tree's sap!), medicines like haldi or neem. Count them. Ask: 'What would breakfast look like with no plants?' (Even milk comes from cows that eat grass.)"},
-    {"kind": "read", "title": "Story: The Neem Who Was Made of Breath", "mins": 15, "do": "Read the story on the 'Story time' page of the Plants Mission book aloud. Don't explain it. Ask the 'Talk about it' questions at the end. Listen especially to what your child says about where wood comes from; you'll test it on Day 5."},
-    {"kind": "talk", "title": "The case begins", "mins": 13, "do": "Read the case on the Mission book cover: Dadi's drooping tulsi. Ask: 'What do you think is wrong? Write three guesses on a slip and keep it.' Then look at a real tulsi or any pot plant together and say what you notice."}
-   ], "need": ["the printed Plants Mission book", "paper slips"]},
-  {"n": 2, "title": "Kinds of plants", "goal": "Survey the plants nearby and sort them into kinds.",
+    {
+     "kind": "warmup",
+     "title": "Remember the maze bean",
+     "mins": 4,
+     "do": "Recall Class 1 in a few quick questions. 'Which way does a plant on a windowsill lean?' (Towards the light.) 'What did the roots do when the jar was turned upside down?' (Turned to grow down.) 'What happens to moong grown in a dark cupboard?' (Pale, tall and thin.) Say: 'You know plants are alive and they move. Now we'll find out how a plant really works inside, and what it is made of.'"
+    },
+    {
+     "kind": "warmup",
+     "title": "Plant hunt at home",
+     "mins": 8,
+     "do": "Give your child 6 minutes to collect or list everything in the house that came from a plant: rice, dal, atta, vegetables, fruit, spices, tea, sugar, cotton clothes, a wooden chair, paper, a cane basket, coconut oil, rubber chappals (rubber is a tree's sap!), medicines like haldi or neem. Count them. Ask: 'What would breakfast look like with no plants?' (Even milk comes from cows that eat grass, and eggs from hens that eat grain. Every food chain starts with a plant.)"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Neem Who Was Made of Breath",
+     "mins": 15,
+     "do": "Read the story on the 'Story time' page of the Plants Mission book aloud. Don't explain it. Ask the 'Talk about it' questions at the end. Listen especially to what your child says about where wood comes from; you'll test it on Day 5."
+    },
+    {
+     "kind": "talk",
+     "title": "The case begins",
+     "mins": 13,
+     "do": "Read the case on the Mission book cover: Dadi's drooping tulsi. Ask: 'What do you think is wrong? Write three guesses on a slip and keep it.' Then look at a real tulsi or any pot plant together and say what you notice."
+    }
+   ],
+   "need": [
+    "the printed Plants Mission book",
+    "paper slips"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Kinds of plants",
+   "goal": "Survey the plants nearby and sort them into kinds.",
    "steps": [
-    {"kind": "warmup", "title": "Five kinds", "mins": 8, "do": "Read the 'Five kinds of plants' box in Mission book Station 4 together. Act them out: tall and still for a tree, bushy arms for a shrub, small and soft for a herb, wrap round a chair leg for a climber, lie flat and spread for a creeper."},
-    {"kind": "outdoor", "title": "Station 4: the survey", "mins": 22, "do": "Do Mission book Station 4: the 20-minute street or park survey with the tally and the bar graph. Mark the 'weeds' with a star. For each kind, find one you can name."},
-    {"kind": "talk", "title": "Who decides what's a weed?", "mins": 10, "do": "Read the second half of the Station 4 reading together and answer its last question. Then ask: 'If a plant could choose where to grow, would it ever be a weed?'"}
-   ], "need": ["Mission book Station 4", "a pencil and clipboard"]},
-  {"n": 3, "title": "Parts and their jobs", "goal": "Know what each part does, and start testing what a plant needs.",
+    {
+     "kind": "warmup",
+     "title": "Five kinds",
+     "mins": 8,
+     "do": "Read the 'Five kinds of plants' box in Mission book Station 4 together: trees, shrubs, herbs, climbers, creepers, and a sixth group, grasses (doob, wheat, rice and bamboo, which is a giant grass). Act them out: tall and still for a tree, bushy arms for a shrub, small and soft for a herb, wrap round a chair leg for a climber, lie flat and spread for a creeper, sway in the wind for a grass."
+    },
+    {
+     "kind": "outdoor",
+     "title": "Station 4: the survey",
+     "mins": 22,
+     "do": "Do Mission book Station 4: the 20-minute street or park survey with the tally and the bar graph. Mark the 'weeds' with a star. For each kind, find one you can name."
+    },
+    {
+     "kind": "talk",
+     "title": "Who decides what's a weed?",
+     "mins": 10,
+     "do": "Read the second half of the Station 4 reading together and answer its last question. Then ask: 'If a plant could choose where to grow, would it ever be a weed? Which of the plants with a star were feeding an insect or holding soil?' (A weed is a plant growing where people don't want it. The plant is the same; only our wish changes. A few, like congress grass, really do harm to people and animals, which is a different question.)"
+    }
+   ],
+   "need": [
+    "Mission book Station 4",
+    "a pencil and clipboard"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Parts and their jobs",
+   "goal": "Know what each part does, and start testing what a plant needs.",
    "steps": [
-    {"kind": "do", "title": "Station 1", "mins": 18, "do": "Do Mission book Station 1: read 'A plant is a food factory' aloud, label the plant with the parts and their jobs, and copy Clue 1 onto the case board."},
-    {"kind": "exp", "title": "What does a plant need?", "mins": 17, "do": "Set up Experiment e1, the four-pot fair test. This runs for 10 days, so check it every two days. Also start the covered-leaf mini lab from Station 1.", "ref": "e1"},
-    {"kind": "review", "title": "Predict", "mins": 5, "do": "Your child writes a prediction for each of the four pots in the table on Worksheet ws1. Keep it to compare later.", "ref": "ws1"}
-   ], "need": ["Mission book Station 1", "4 small pots of the same soil with 3 moong or methi seedlings each", "a cardboard box to cover one pot", "black paper and clips", "worksheet ws1"],
-   "prep": [{"task": "Sow moong or methi in 4 small pots of the same soil so the seedlings are a few cm tall", "when": "1 week before"}]},
-  {"n": 4, "title": "The hidden plumbing", "goal": "See water travel up a stem.",
+    {
+     "kind": "do",
+     "title": "Station 1",
+     "mins": 18,
+     "do": "Do Mission book Station 1: read 'A plant is a food factory' aloud, label the plant with the parts and their jobs, and copy Clue 1 onto the case board."
+    },
+    {
+     "kind": "exp",
+     "title": "What does a plant need?",
+     "mins": 17,
+     "do": "Set up Experiment e1, the four-pot fair test. This runs for 10 days, so check it every two days. Also start the covered-leaf mini lab from Station 1.",
+     "ref": "e1"
+    },
+    {
+     "kind": "think",
+     "title": "Predict, and make it fair",
+     "mins": 5,
+     "do": "In a notebook, your child writes one prediction for each of the four pots. Then ask: 'What did we keep the same in all four pots?' (Same soil, same seedlings, same pot size, same place.) 'Why does that matter?' (If two things change, we can't tell which one made the difference. A fair test changes only one thing.)"
+    }
+   ],
+   "need": [
+    "Mission book Station 1",
+    "4 small pots of the same soil with 3 moong or methi seedlings each",
+    "a cardboard box to cover one pot",
+    "black paper and clips",
+    "a notebook"
+   ],
+   "prep": [
+    {
+     "task": "Sow moong or methi in 4 small pots of the same soil so the seedlings are a few cm tall",
+     "when": "1 week before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The hidden plumbing",
+   "goal": "See water travel up a stem, and catch it leaving through the leaves.",
    "steps": [
-    {"kind": "exp", "title": "Station 2: coloured water", "mins": 20, "do": "Do Mission book Station 2: put a white flower, balsam stem or celery in dark coloured water, predict, and draw at 1 hour and 6 hours. Tomorrow, cut the stem and look at the dots.", "ref": "e2"},
-    {"kind": "read", "title": "The 100-metre mystery", "mins": 10, "do": "Read 'A mystery about water' in Station 2. Ask: 'How does water get to the top of a tree as tall as a 30-storey building, with no pump?' Let your child try ideas: sucking like a straw? pushing from the roots? Then explain that the leaves let water go into the air, and that pulls the whole thin column of water up behind it, like pulling a rope."},
-    {"kind": "review", "title": "Check the four pots", "mins": 10, "do": "Check Experiment e1. Write in the table what each pot looks like on day 2."}
-   ], "need": ["Mission book Station 2", "a glass, ink or food colour, a white flower or balsam stem", "the four pots"]},
-  {"n": 5, "title": "A tree made of air", "goal": "Reach the biggest idea: plants build themselves from air.",
+    {
+     "kind": "exp",
+     "title": "Station 2: coloured water",
+     "mins": 16,
+     "do": "Do Mission book Station 2: put a white flower, balsam stem or celery in dark coloured water, predict, and draw at 1 hour and 6 hours. Tomorrow, cut the stem and look at the dots. Say: 'The tubes are called xylem. They are thinner than a hair, and there are hundreds of them in one stem.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "exp",
+     "title": "The sweating branch",
+     "mins": 8,
+     "do": "Set up Experiment e3: tie a clear plastic bag loosely over a leafy branch of a plant in the sun, and another over a branch in the shade. Ask: 'Will anything appear inside the bags?' Look in 2 hours.",
+     "ref": "e3"
+    },
+    {
+     "kind": "read",
+     "title": "The 100-metre mystery",
+     "mins": 10,
+     "do": "Read 'A mystery about water' in Station 2. Ask: 'How does water get to the top of a tree as tall as a 30-storey building, with no pump?' Let your child try ideas: sucking like a straw? pushing from the roots? Then explain: 'The leaves let water go into the air as invisible vapour. That is called transpiration. As each bit of water leaves the top, it pulls the thin thread of water behind it up the tubes, like pulling a rope up a well.' Check the bags now if two hours have passed: the water drops inside are that vapour."
+    },
+    {
+     "kind": "review",
+     "title": "Check the four pots",
+     "mins": 6,
+     "do": "Check Experiment e1. Write in the notebook what each pot looks like today: height, colour, droopy or firm."
+    }
+   ],
+   "need": [
+    "Mission book Station 2",
+    "a glass, ink or food colour, a white flower or balsam stem",
+    "2 clear plastic bags and thread",
+    "the four pots"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Leaf and root detectives",
+   "goal": "Read a plant's veins and roots, and see the root hairs that drink.",
    "steps": [
-    {"kind": "warmup", "title": "Your guess from Day 1", "mins": 5, "do": "Ask again: 'Where does a tree's wood come from: the soil, the water or the air?' Write your child's answer."},
-    {"kind": "think", "title": "Station 3: the willow puzzle", "mins": 20, "do": "Do Mission book Station 3: read van Helmont's willow experiment, answer the 'Be the scientist' questions, read 'The breath we share', and do the breath count. Let your child be truly surprised."},
-    {"kind": "talk", "title": "The Darwins and the small letters", "mins": 15, "do": "Read this rung's story, 'The Small Letters', aloud. Then talk about voice v1. Ask: 'Who did the work? Whose name was big on the book? Is that fair?'", "ref": "v1"}
-   ], "need": ["Mission book Station 3", "a stopwatch"]},
-  {"n": 6, "title": "Results, and are plants clever?", "goal": "Read the fair test results and argue about plant intelligence.",
+    {
+     "kind": "warmup",
+     "title": "Cut the blue stem",
+     "mins": 6,
+     "do": "A grown-up cuts across yesterday's coloured stem. Look at the cut end with a hand lens: a ring or a scatter of coloured dots, the xylem tubes. Ask: 'Why are the tubes in the stem and not just in the root?' (They must carry water all the way to the top.)"
+    },
+    {
+     "kind": "do",
+     "title": "Station 5",
+     "mins": 22,
+     "do": "Do Mission book Station 5: the leaf rubbings (net or parallel veins), the two kinds of roots (tap root and fibrous roots), and 'Find the secret rule'. Let your child find the pattern before you say it: net veins usually go with a tap root (bean, mustard, mango), parallel veins with fibrous roots (grass, wheat, maize, banana). Say: 'These are two great families of flowering plants that split apart over 100 million years ago.'"
+    },
+    {
+     "kind": "do",
+     "title": "Root hairs",
+     "mins": 8,
+     "do": "Take a moong sprout from a damp cloth (sprout a few the day before) and look at the root through a hand lens against black paper. Ask: 'What is the white fuzz?' (Root hairs: each one is a single long cell that pushes between the soil grains and soaks up water and minerals.) Say: 'One plant can have millions of them. That's why when we pull a plant up roughly, it wilts: we tear off the root hairs.' Then ask: 'So how should we move a plant to a new pot?' (Gently, with its soil around the roots.)"
+    },
+    {
+     "kind": "review",
+     "title": "Pots check",
+     "mins": 4,
+     "do": "Check Experiment e1 and write today's notes. Ask: 'Is any pot starting to look different?'"
+    }
+   ],
+   "need": [
+    "Mission book Station 5",
+    "6 different leaves, crayons, thin paper",
+    "a grass plant and a coriander or mustard plant with roots",
+    "a hand lens",
+    "moong sprouts",
+    "black paper"
+   ],
+   "prep": [
+    {
+     "task": "Soak and sprout a few moong seeds on a damp cloth",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "A tree made of air",
+   "goal": "Reach the biggest idea: plants build themselves from air.",
    "steps": [
-    {"kind": "review", "title": "The four pots", "mins": 12, "do": "Look at all four pots in Experiment e1 and fill in Worksheet ws1's results. Ask: 'Which pot did best? What did the dark pot look like? The dry pot? What does that tell us a plant needs?' Then do Worksheet ws2.", "ref": "ws2"},
-    {"kind": "think", "title": "Station 6: are plants clever?", "mins": 22, "do": "Do Mission book Station 6: read about Monica Gagliano's touch-me-not experiment, do the touch-me-not lab if you have the plant, and do the debate. Then talk about voice v3.", "ref": "v3"},
-    {"kind": "talk", "title": "Janaki Ammal", "mins": 6, "do": "Talk about voice v2: Janaki Ammal, who made India's sugarcane sweeter. Ask the voice's question.", "ref": "v2"}
-   ], "need": ["the four pots", "Mission book Station 6", "a touch-me-not plant if you can find one", "worksheet ws2"]},
-  {"n": 7, "title": "Solve the case, teach it back", "goal": "Use everything to save the tulsi and explain plants.",
+    {
+     "kind": "warmup",
+     "title": "Your guess from Day 1",
+     "mins": 5,
+     "do": "Ask again: 'Where does a tree's wood come from: the soil, the water or the air?' Write your child's answer."
+    },
+    {
+     "kind": "think",
+     "title": "Station 3: the willow puzzle",
+     "mins": 20,
+     "do": "Do Mission book Station 3: read van Helmont's willow experiment, answer the 'Be the scientist' questions, read 'The breath we share', and do the breath count. Let your child be truly surprised."
+    },
+    {
+     "kind": "talk",
+     "title": "The Darwins and the small letters",
+     "mins": 15,
+     "do": "Read this rung's story, 'The Small Letters', aloud. Then talk about voice v1. Ask: 'Who did the work? Whose name was big on the book? Is that fair?'",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "Mission book Station 3",
+    "a stopwatch"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Results, and the plant doctor",
+   "goal": "Read the fair test and learn to diagnose a sick plant.",
    "steps": [
-    {"kind": "do", "title": "Station 9: solve the case", "mins": 15, "do": "Do Mission book Station 9: copy the three clues, write what is wrong with the tulsi and the fix. Compare with the three guesses from Day 1. If you have a struggling plant at home, start the 14-day tracking table."},
-    {"kind": "game", "title": "Plant Families card game", "mins": 12, "do": "Play the card game (g1): collect families of plants by kind and by what we use them for.", "ref": "g1"},
-    {"kind": "check", "title": "Teach it back", "mins": 13, "do": "Your child explains to the family: the five kinds of plants, how water travels up, and where a tree's wood comes from. Ask the check questions. For extra challenge, do Worksheet ws3.", "ref": "ws3"}
-   ], "need": ["Mission book Station 9", "the printed cards", "worksheet ws3"]}
+    {
+     "kind": "review",
+     "title": "The four pots",
+     "mins": 10,
+     "do": "Look at all four pots in Experiment e1 (if 10 days have not passed yet, record today and finish later). Ask: 'Which pot did best? What did the dark pot look like? The dry pot? The soaked pot?' (A green and firm; B wilted and dry; C pale, yellow and leggy; D yellow and drooping, maybe a bad smell.) 'So what does a plant need?' (Light, water, and air at its roots; too much water drowns roots.) Ask: 'Pot D had MORE water. Why did it do worse?'"
+    },
+    {
+     "kind": "act",
+     "title": "Plant doctor walk",
+     "mins": 15,
+     "do": "Do Activity a1: walk round the house, balcony or building and examine five plants like a doctor. For each, look for the signs of health and sickness on the activity's list, and write a diagnosis and a cure. Ask at each one: 'What clue tells you that?'",
+     "ref": "a1"
+    },
+    {
+     "kind": "ws",
+     "title": "How a plant works",
+     "mins": 15,
+     "do": "Do Worksheet ws1. Fill in section A from the four pots. Read the questions aloud if needed; your child writes the two 'why' answers in full sentences.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the four pots",
+    "a notebook",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Are plants clever? And who gets the credit?",
+   "goal": "Argue about plant intelligence, meet Janaki Ammal and apply everything to new plants.",
+   "steps": [
+    {
+     "kind": "think",
+     "title": "Station 6: are plants clever?",
+     "mins": 20,
+     "do": "Do Mission book Station 6: read about Monica Gagliano's touch-me-not experiment, do the touch-me-not lab if you have the plant, and do the debate. Then talk about voice v3. Ask: 'What would a plant have to do for you to call it clever? Could a thermostat pass your test too?'",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "Janaki Ammal",
+     "mins": 7,
+     "do": "Talk about voice v2: Janaki Ammal, who helped make India's sugarcane sweeter. Ask the voice's question. Then ask: 'The farmers who first turned wild grasses into rice and wheat, thousands of years ago, have no names at all. Who should get the credit for rice?'",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Plants and us",
+     "mins": 13,
+     "do": "Do Worksheet ws2. It asks your child to use what they know on new plants. For the written answers, ask them to say 'because' at least once.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "Mission book Station 6",
+    "a touch-me-not plant if you can find one",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Solve the case, teach it back",
+   "goal": "Use everything to save the tulsi and explain plants.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Station 9: solve the case",
+     "mins": 15,
+     "do": "Do Mission book Station 9: copy the three clues, write what is wrong with the tulsi and the fix. Compare with the three guesses from Day 1. If you have a struggling plant at home, start the 14-day tracking table."
+    },
+    {
+     "kind": "game",
+     "title": "Plant Families card game",
+     "mins": 12,
+     "do": "Play the card game (g1): collect families of plants by kind and by what we use them for.",
+     "ref": "g1"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 13,
+     "do": "Your child explains to the family: the six kinds of plants, how water travels from root hairs up the stem and out of the leaves, how to tell a sick plant, and where a tree's wood comes from. Ask the check questions. For extra challenge, do Worksheet ws3.",
+     "ref": "ws3"
+    }
+   ],
+   "need": [
+    "Mission book Station 9",
+    "the printed cards",
+    "worksheet ws3"
+   ]
+  }
  ],
  "worksheets": [
-  {"id": "ws1", "tier": "core", "title": "The four-pot test", "day": 3, "sections": [
-   ["A. Predict and record", [
-    {"t": "table", "p": "Write your prediction first, then what you see on day 10.", "cols": ["Pot", "What it gets", "I predict", "Day 10"], "rows": 4, "prefill": ["A", "B", "C", "D"]}]],
-   ["B. Think", [
-    {"t": "write", "p": "What did we keep the same in all four pots? Why?", "lines": 2}]]]},
-  {"id": "ws2", "tier": "stretch", "title": "Plants and us", "day": 6, "sections": [
-   ["A. Sort", [
-    {"t": "sort", "p": "What kind of plant is it?", "items": ["neem", "hibiscus", "coriander", "money plant", "pumpkin", "mango", "rose", "mint"], "cats": ["tree", "shrub", "herb", "climber", "creeper"]}]],
-   ["B. What do we get?", [
-    {"t": "match", "p": "Match the plant to what we get from it.", "pairs": [["cotton", "cloth"], ["rubber tree", "chappals and tyres"], ["sugarcane", "sugar and jaggery"], ["haldi", "spice and medicine"], ["bamboo", "baskets and houses"]]}]],
-   ["C. Choose", [
-    {"t": "mcq", "p": "Most of a tree's weight comes from…", "opts": ["the soil", "carbon dioxide in the air", "the water only"], "a": 1}]]]},
-  {"id": "ws3", "tier": "challenge", "title": "Think like a botanist", "day": 7, "sections": [
-   ["A. Reason", [
-    {"t": "write", "p": "A plant in pot B (no water) died, and the plant in pot C (dark) went yellow. Can you say for sure that plants need light AND water? What else might have caused it?", "lines": 3},
-    {"t": "write", "p": "If all the plants on Earth disappeared, what would happen to animals? Think of food AND air.", "lines": 3},
-    {"t": "write", "p": "Francis Darwin did much of the work but his name was small on the book. Can you think of anyone today whose work is used but who doesn't get the credit?", "lines": 3}]]]}
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "How a plant works",
+   "day": 7,
+   "sections": [
+    [
+     "A. The four-pot test",
+     [
+      {
+       "t": "table",
+       "p": "Write what each pot got, your prediction from Day 3, and what you saw at the end.",
+       "cols": [
+        "Pot",
+        "What it gets",
+        "I predicted",
+        "What happened"
+       ],
+       "rows": 4,
+       "prefill": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Pot C was kept in the dark. Its seedlings were…",
+       "opts": [
+        "green and strong",
+        "pale, yellow and leggy",
+        "exactly like pot A"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Why did the plants in the soaked pot D droop?",
+       "opts": [
+        "they had too little water",
+        "their roots had no air and began to rot",
+        "they had too much light"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "What did we keep the same in all four pots? Why did that make it a fair test?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Parts and plumbing",
+     [
+      {
+       "t": "match",
+       "p": "Match the part to its job.",
+       "pairs": [
+        [
+         "root hairs",
+         "soak up water from the soil"
+        ],
+        [
+         "xylem",
+         "tubes that carry water up"
+        ],
+        [
+         "leaf",
+         "makes food using sunlight"
+        ],
+        [
+         "flower",
+         "makes seeds"
+        ],
+        [
+         "stem",
+         "holds the leaves up to the light"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Water leaving a plant's leaves as invisible vapour is called ____.",
+       "a": [
+        "transpiration"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which bag had more water drops inside?",
+       "opts": [
+        "the one on the branch in the sun",
+        "the one in the shade",
+        "both the same"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Kinds",
+     [
+      {
+       "t": "sort",
+       "p": "What kind of plant is it?",
+       "items": [
+        "peepal",
+        "hibiscus",
+        "mint",
+        "money plant",
+        "watermelon",
+        "doob grass"
+       ],
+       "cats": [
+        "tree",
+        "shrub",
+        "herb",
+        "climber",
+        "creeper",
+        "grass"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Choose one plant you saw on the plant doctor walk. Was it healthy? What clue told you, and what would you do to help it?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Plants and us: new cases",
+   "day": 8,
+   "sections": [
+    [
+     "A. Sort and match",
+     [
+      {
+       "t": "sort",
+       "p": "What kind of plant is it?",
+       "items": [
+        "neem",
+        "rose",
+        "coriander",
+        "bitter gourd",
+        "pumpkin",
+        "mango",
+        "bamboo",
+        "tulsi"
+       ],
+       "cats": [
+        "tree",
+        "shrub",
+        "herb",
+        "climber",
+        "creeper",
+        "grass"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the plant to what we get from it.",
+       "pairs": [
+        [
+         "cotton",
+         "cloth"
+        ],
+        [
+         "rubber tree",
+         "chappals and tyres"
+        ],
+        [
+         "sugarcane",
+         "sugar and jaggery"
+        ],
+        [
+         "haldi",
+         "spice and medicine"
+        ],
+        [
+         "bamboo",
+         "baskets and houses"
+        ],
+        [
+         "jute",
+         "sacks and rope"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Use what you know",
+     [
+      {
+       "t": "mcq",
+       "p": "Most of a tree's weight comes from…",
+       "opts": [
+        "the soil",
+        "carbon dioxide in the air",
+        "the water only"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A banana leaf has parallel veins. What kind of roots will a banana plant have?",
+       "opts": [
+        "one thick tap root",
+        "a bunch of fibrous roots",
+        "no roots"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Riya wants to test whether her plant needs sunlight. Which test is fair?",
+       "opts": [
+        "one pot in sun with water, one in a cupboard with no water",
+        "two pots of the same plant and soil, both watered the same, one in sun and one in a cupboard",
+        "one big plant in the sun and one tiny plant in the dark"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "A plant moved roughly to a new pot often wilts, because its tiny root ____ were torn off.",
+       "a": [
+        "hairs"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which tells you a plant needs more light?",
+       "opts": [
+        "it is tall, thin and pale, leaning one way",
+        "its soil smells bad",
+        "its leaves are dark green and firm"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "A cactus has thick stems and spines instead of wide leaves. Using what you know about transpiration, why might that help it live in a desert?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Your neighbour waters her plant every day, twice, and it is yellow and droopy. What would you tell her, and why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like a botanist",
+   "day": 9,
+   "sections": [
+    [
+     "A. Reason",
+     [
+      {
+       "t": "write",
+       "p": "A plant in pot B (no water) died, and the plant in pot C (dark) went yellow. Can you say for sure that plants need light AND water? What else might have caused it? How could you make the test better?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "If all the plants on Earth disappeared, what would happen to animals? Think of food AND air.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Francis Darwin did much of the work but his name was small on the book. Can you think of anyone today whose work is used but who doesn't get the credit?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Professor Bholu was wrong",
+     [
+      {
+       "t": "mcq",
+       "p": "Bholu says: 'Plants make oxygen, so they never need any.' The truth is…",
+       "opts": [
+        "he is right",
+        "plants use oxygen all the time, day and night, to get energy from food; they just make more than they use in the day",
+        "plants only need oxygen at night"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Bholu says: 'When a tree burns, it turns back into soil.' Where does most of it really go?",
+       "opts": [
+        "into the ground",
+        "into the air, as carbon dioxide and water vapour",
+        "it disappears into nothing"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these is NOT a plant?",
+       "opts": [
+        "bamboo",
+        "mushroom",
+        "doob grass",
+        "money plant"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Patterns",
+     [
+      {
+       "t": "sort",
+       "p": "Net veins or parallel veins?",
+       "items": [
+        "mango",
+        "wheat",
+        "hibiscus",
+        "maize",
+        "peepal",
+        "onion"
+       ],
+       "cats": [
+        "net veins",
+        "parallel veins"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the problem to the cause.",
+       "pairs": [
+        [
+         "wilting, dry soil",
+         "too little water"
+        ],
+        [
+         "yellow, soggy soil, bad smell",
+         "roots drowning, no air"
+        ],
+        [
+         "tall, pale, leaning",
+         "too little light"
+        ],
+        [
+         "roots coming out of the hole",
+         "pot too small, needs more space"
+        ]
+       ]
+      }
+     ]
+    ]
+   ]
+  }
  ],
  "experiments": [
-  {"id": "e1", "title": "The four-pot fair test", "day": 3, "question": "What does a plant need to stay healthy?", "need": ["4 small pots of the same soil, each with 3 moong or methi seedlings", "a cardboard box", "a measuring jug"], "steps": ["Label the pots A, B, C and D.", "A: light and water (normal care).", "B: light, no water.", "C: water, but covered with a box (no light).", "D: light, and so much water that the soil is always soaked (put the pot in a dish of water).", "Keep everything else the same: same soil, same place, same seedlings.", "Check every two days for 10 days. Measure and draw."], "predict": "Your child writes a prediction for each pot on Worksheet ws1.", "observe": "Height, colour and health of the seedlings in each pot.", "why": "A does best. B wilts and dries out: plants need water. C goes pale and leggy: without light the leaves can't make food or chlorophyll. D often yellows and droops: the waterlogged soil has no air, so the roots can't breathe and begin to rot (just like Dadi's tulsi). Plants need light, water, air (for roots and leaves) and nutrients from soil.", "safety": "", "time": "15 min + 10 days"},
-  {"id": "e2", "title": "Coloured water up a stem", "day": 4, "question": "How does water get from the roots to the leaves?", "need": ["a glass", "red ink or food colour", "a white flower, balsam stem or celery"], "steps": ["Follow Mission book Station 2."], "predict": "Ask where the colour will go and how fast.", "observe": "Draw at 1 hour, 6 hours and the next morning; look at the cut stem.", "why": "Water travels up through bundles of tiny tubes (xylem), pulled up as water evaporates from the leaves.", "safety": "A grown-up cuts the stem.", "time": "15 min + 1 day"}
+  {
+   "id": "e1",
+   "title": "The four-pot fair test",
+   "day": 3,
+   "question": "What does a plant need to stay healthy?",
+   "need": [
+    "4 small pots of the same soil, each with 3 moong or methi seedlings",
+    "a cardboard box",
+    "a measuring jug"
+   ],
+   "steps": [
+    "Label the pots A, B, C and D.",
+    "A: light and water (normal care).",
+    "B: light, no water.",
+    "C: water, but covered with a box (no light).",
+    "D: light, and so much water that the soil is always soaked (put the pot in a dish of water).",
+    "Keep everything else the same: same soil, same place, same seedlings.",
+    "Check every two days for 10 days. Measure and draw."
+   ],
+   "predict": "Your child writes a prediction for each pot in the notebook on Day 3, then copies it into Worksheet ws1.",
+   "observe": "Height, colour and health of the seedlings in each pot.",
+   "why": "A does best. B wilts and dries out: plants need water. C goes pale and leggy: without light the leaves can't make food or chlorophyll. D often yellows and droops: the waterlogged soil has no air, so the roots can't breathe and begin to rot (just like Dadi's tulsi). Plants need light, water, air (for roots and leaves) and nutrients from soil.",
+   "safety": "",
+   "time": "15 min + 10 days"
+  },
+  {
+   "id": "e2",
+   "title": "Coloured water up a stem",
+   "day": 4,
+   "question": "How does water get from the roots to the leaves?",
+   "need": [
+    "a glass",
+    "red ink or food colour",
+    "a white flower, balsam stem or celery"
+   ],
+   "steps": [
+    "Fill the glass halfway with water and stir in lots of colour.",
+    "A grown-up cuts the bottom of the stem at a slant.",
+    "Stand the stem in the coloured water and note the time.",
+    "Look after 1 hour, 6 hours and the next morning; draw each time.",
+    "Next day a grown-up cuts across the stem; look at the cut end with a hand lens."
+   ],
+   "predict": "Ask where the colour will go and how fast.",
+   "observe": "Draw at 1 hour, 6 hours and the next morning; look at the cut stem.",
+   "why": "Water travels up through bundles of tiny tubes (xylem), pulled up as water evaporates from the leaves.",
+   "safety": "A grown-up cuts the stem.",
+   "time": "15 min + 1 day"
+  },
+  {
+   "id": "e3",
+   "title": "The sweating branch",
+   "day": 4,
+   "question": "Does water really leave a plant through its leaves?",
+   "need": [
+    "2 clear plastic bags",
+    "thread",
+    "a leafy plant in the sun and one in the shade (or two branches of one plant)"
+   ],
+   "steps": [
+    "Slip a bag over a leafy branch without picking it.",
+    "Tie it loosely round the stem.",
+    "Do the same on a branch in the shade.",
+    "Leave both for 2 hours.",
+    "Look at the inside of each bag, then take the bags off."
+   ],
+   "predict": "Ask: 'Will anything appear inside? Which bag will have more?'",
+   "observe": "Mist and drops inside the bags, more in the sun.",
+   "why": "Leaves have tiny pores (stomata) that let carbon dioxide in and water vapour out. The vapour cools on the bag and turns back into drops. This loss of water, transpiration, is what pulls water up the xylem from the roots. Sun and warmth make it faster. A big tree can lose hundreds of litres on a hot day.",
+   "safety": "Never put plastic bags near a young child's face. Take the bags off afterwards so the plant doesn't overheat.",
+   "time": "10 min + 2 hours"
+  }
  ],
- "activities": [],
- "project": {"title": "Save a plant", "days": [7], "steps": ["Find a struggling plant at home, at school or in a neighbour's house.", "Look for clues: soil wet or dry? Light or dark? Drainage hole? Insects?", "Make a diagnosis and a care plan.", "Track it for 14 days on the Mission book table.", "Report back: did your plan work? What would you change?"], "outcome": "A plant diagnosis, a care plan and a 14-day record."},
- "game": {"id": "g1", "title": "Plant Families", "kind": "cards", "players": "2–4", "need": ["scissors"],
-  "rules": ["Cut out the cards and shuffle. Deal 5 to each player; the rest is the pile.", "A 'family' is 3 cards that share something: the same kind (3 trees) or the same use (3 foods).", "On your turn, ask another player for a card: 'Do you have a creeper?' If they do, they give it; if not, take one from the pile.", "When you have a family, lay it down and say what they share.", "Most families when the pile runs out wins."],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Plant doctor walk",
+   "day": 7,
+   "mins": 15,
+   "need": [
+    "a notebook",
+    "a hand lens if you have one"
+   ],
+   "steps": [
+    "Choose five plants at home or in your building.",
+    "For each, check: leaves (green and firm, or yellow, brown, spotted, curled?), stem (firm or floppy, leaning?), soil (dry, damp or soggy?), pot (is there a hole? are roots coming out?), visitors (insects, webs, white fluff?).",
+    "Write a diagnosis: healthy, thirsty, drowning, needs light, needs space, or has pests.",
+    "Write one cure for each sick plant, and ask the owner before doing it.",
+    "Look again in a week."
+   ],
+   "outcome": "Five plant 'doctor's notes', each with a clue, a diagnosis and a cure."
+  }
+ ],
+ "project": {
+  "title": "Save a plant",
+  "days": [
+   7,
+   9
+  ],
+  "steps": [
+   "Find a struggling plant at home, at school or in a neighbour's house.",
+   "Look for clues like a plant doctor: soil wet or dry? Light or dark? Drainage hole? Roots crowded? Insects?",
+   "Make a diagnosis and a care plan, and ask the owner's permission.",
+   "Track it for 14 days on the Mission book table.",
+   "Report back: did your plan work? What would you change?"
+  ],
+  "outcome": "A plant diagnosis, a care plan and a 14-day record."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Plant Families",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors"
+  ],
+  "rules": [
+   "Cut out the cards and shuffle. Deal 5 to each player; the rest is the pile.",
+   "A 'family' is 3 cards that share something: the same kind (3 trees, 3 grasses) or the same use (3 foods).",
+   "On your turn, ask another player for a card: 'Do you have a creeper?' If they do, they give it; if not, take one from the pile.",
+   "When you have a family, lay it down and say what they share.",
+   "Most families when the pile runs out wins."
+  ],
   "cards": [
-   {"front": "Neem: tree", "back": "medicine, shade"}, {"front": "Mango: tree", "back": "food"}, {"front": "Peepal: tree", "back": "shade, sacred"}, {"front": "Coconut: tree", "back": "food, oil, rope"},
-   {"front": "Hibiscus: shrub", "back": "flowers, hair oil"}, {"front": "Rose: shrub", "back": "flowers"}, {"front": "Cotton: shrub", "back": "cloth"}, {"front": "Tulsi: shrub/herb", "back": "medicine"},
-   {"front": "Coriander: herb", "back": "food"}, {"front": "Mint: herb", "back": "food"}, {"front": "Wheat: herb (grass)", "back": "food"}, {"front": "Rice: herb (grass)", "back": "food"},
-   {"front": "Money plant: climber", "back": "decoration"}, {"front": "Bitter gourd: climber", "back": "food"}, {"front": "Grape: climber", "back": "food"}, {"front": "Pea: climber", "back": "food"},
-   {"front": "Pumpkin: creeper", "back": "food"}, {"front": "Watermelon: creeper", "back": "food"}, {"front": "Sweet potato: creeper", "back": "food"}, {"front": "Doob grass: creeper", "back": "sacred, lawns"},
-   {"front": "Bamboo: giant grass", "back": "houses, baskets"}, {"front": "Sugarcane: grass", "back": "sugar"}, {"front": "Rubber tree", "back": "chappals, tyres"}, {"front": "Haldi: herb", "back": "spice, medicine"}
-  ]},
- "big": ["Where does a tree's wood come from?", "Could animals survive on Earth without plants? Could plants survive without animals?", "Is a plant clever in its own way?", "Who decides whether a plant is a weed?", "Why do people in so many cultures think certain trees are sacred?"],
+   {
+    "front": "Neem: tree",
+    "back": "medicine, shade"
+   },
+   {
+    "front": "Mango: tree",
+    "back": "food"
+   },
+   {
+    "front": "Peepal: tree",
+    "back": "shade, sacred"
+   },
+   {
+    "front": "Coconut: tree",
+    "back": "food, oil, rope"
+   },
+   {
+    "front": "Hibiscus: shrub",
+    "back": "flowers, hair oil"
+   },
+   {
+    "front": "Rose: shrub",
+    "back": "flowers"
+   },
+   {
+    "front": "Cotton: shrub",
+    "back": "cloth"
+   },
+   {
+    "front": "Tulsi: shrub/herb",
+    "back": "medicine"
+   },
+   {
+    "front": "Coriander: herb",
+    "back": "food"
+   },
+   {
+    "front": "Mint: herb",
+    "back": "food"
+   },
+   {
+    "front": "Wheat: herb (grass)",
+    "back": "food"
+   },
+   {
+    "front": "Rice: herb (grass)",
+    "back": "food"
+   },
+   {
+    "front": "Money plant: climber",
+    "back": "decoration"
+   },
+   {
+    "front": "Bitter gourd: climber",
+    "back": "food"
+   },
+   {
+    "front": "Grape: climber",
+    "back": "food"
+   },
+   {
+    "front": "Pea: climber",
+    "back": "food"
+   },
+   {
+    "front": "Pumpkin: creeper",
+    "back": "food"
+   },
+   {
+    "front": "Watermelon: creeper",
+    "back": "food"
+   },
+   {
+    "front": "Sweet potato: creeper",
+    "back": "food"
+   },
+   {
+    "front": "Bottle gourd: creeper or climber",
+    "back": "food"
+   },
+   {
+    "front": "Bamboo: grass",
+    "back": "houses, baskets"
+   },
+   {
+    "front": "Sugarcane: grass",
+    "back": "sugar"
+   },
+   {
+    "front": "Doob: grass",
+    "back": "sacred, lawns"
+   },
+   {
+    "front": "Haldi: herb",
+    "back": "spice, medicine"
+   },
+   {
+    "front": "Rubber tree",
+    "back": "chappals, tyres"
+   }
+  ]
+ },
+ "big": [
+  "Where does a tree's wood come from?",
+  "Could animals survive on Earth without plants? Could plants survive without animals?",
+  "Is a plant clever in its own way?",
+  "Who decides whether a plant is a weed?",
+  "Why do people in so many cultures think certain trees are sacred?"
+ ],
  "challenge": [
-  {"q": "Most people think plants get their food from the soil, like we get food from a plate. Is that right?", "hint": "Van Helmont's willow gained 164 pounds while the soil lost about 2 ounces. The soil gives water and a few minerals; the food is made in the leaves, mostly from carbon dioxide in the air. Even many grown-ups get this wrong."},
-  {"q": "The book about how plants move says 'by Charles Darwin'. Did Charles Darwin do the experiments?", "hint": "He did them together with his son Francis, who did much of the hands-on work. The title page says 'assisted by Francis Darwin' in smaller letters. Ask: whose names are big and whose are small, and why?"},
-  {"q": "We call plants that need lots of water 'thirsty'. Can a plant have too much water?", "hint": "Pot D in our test. Roots need air; waterlogged soil drowns them. More is not always better."}
+  {
+   "q": "Most people think plants get their food from the soil, like we get food from a plate. Is that right?",
+   "hint": "Van Helmont's willow gained 164 pounds while the soil lost about 2 ounces. The soil gives water and a few minerals; the food is made in the leaves, mostly from carbon dioxide in the air. Even many grown-ups get this wrong."
+  },
+  {
+   "q": "The book about how plants move says 'by Charles Darwin'. Did Charles Darwin do the experiments?",
+   "hint": "He did them together with his son Francis, who did much of the hands-on work. The title page says 'assisted by Francis Darwin' in smaller letters. Ask: whose names are big and whose are small, and why?"
+  },
+  {
+   "q": "We call plants that need lots of water 'thirsty'. Can a plant have too much water?",
+   "hint": "Pot D in our test. Roots need air; waterlogged soil drowns them. More is not always better."
+  },
+  {
+   "q": "People say 'plants give us oxygen and we give them carbon dioxide', as if plants don't breathe. Is that the whole story?",
+   "hint": "Plants breathe (respire) all the time, day and night, using oxygen to get energy from their sugar, just as we do. In light they make much more oxygen than they use, so overall they give it out. Roots need oxygen too, which is why pot D drowned. Ask: why might a room full of plants have slightly less oxygen at night?"
+  }
  ],
  "perspectives": [
-  {"who": "The women of Reni village, Uttarakhand (1974)", "view": "When loggers came to cut their forest, Gaura Devi and the women of Reni hugged the trees and would not move. The forest gave them firewood, fodder, water and food; to the contractors it was only timber. Ask: is a forest worth more alive or cut down? To whom?"},
-  {"who": "A farmer who saves seeds", "view": "Many Indian farmers keep the best seeds from each harvest to plant next year, and swap them with neighbours. Ask: why might they do this instead of buying new seeds?"},
-  {"who": "A tree", "view": "A peepal may live for hundreds of years. It saw your great-great-grandparents. Ask: what would it say about how people have changed?"}
+  {
+   "who": "The women of Reni village, Uttarakhand (1974)",
+   "view": "When loggers came to cut their forest, Gaura Devi and the women of Reni hugged the trees and would not move. The forest gave them firewood, fodder, water and food; to the contractors it was only timber. Ask: is a forest worth more alive or cut down? To whom?"
+  },
+  {
+   "who": "A farmer who saves seeds",
+   "view": "Many Indian farmers keep the best seeds from each harvest to plant next year, and swap them with neighbours. Ask: why might they do this instead of buying new seeds?"
+  },
+  {
+   "who": "A tree",
+   "view": "A peepal may live for hundreds of years. It saw your great-great-grandparents. Ask: what would it say about how people have changed?"
+  }
  ],
  "voices": [
-  {"id": "v1", "who": "Charles Darwin (1809–1882) and his son Francis Darwin (1848–1925), England", "idea": "In The Power of Movement in Plants (1880) they showed that a seedling's tip senses light and sends a signal down to the part that bends. They capped the tips of grass seedlings with tiny caps and found the seedlings stopped bending towards a dim lamp.", "then": "Some botanists, like Julius von Sachs in Germany, thought their methods were sloppy and doubted the idea of a travelling signal.", "now": "The Darwins were right; the signal was later identified as the plant hormone auxin. Francis did much of the work and went on to become a leading botanist, yet the book is remembered as Charles Darwin's.", "status": "accepted", "ask": "When two people do the work and only one is remembered, what is lost? How could the book have been written more fairly?", "day": 5},
-  {"id": "v2", "who": "E.K. Janaki Ammal (1897–1984), India", "idea": "Janaki Ammal studied plant chromosomes and, at the Sugarcane Breeding Institute in Coimbatore, helped breed sweeter, stronger sugarcane suited to India by crossing it with wild relatives. She co-wrote the Chromosome Atlas of Cultivated Plants.", "then": "As a woman, and as a woman from a community treated as 'lower' by caste, she faced discrimination in Indian science and was often the only woman in the room. She worked in England for years, where she became the first woman on the salaried staff of the Royal Horticultural Society.", "now": "She is now recognised as one of India's great botanists; she received the Padma Shri in 1977, and a magnolia is named after her. For a long time, though, few Indians knew her name.", "status": "accepted", "ask": "Every time you eat sugar, Janaki Ammal's work is part of it. Why do you think we learn about some scientists and not others?", "day": 6},
-  {"id": "v3", "who": "Monica Gagliano (born 1976), Australia, and her critics", "idea": "In 2014 Gagliano reported that touch-me-not plants dropped harmlessly again and again stopped folding their leaves, and 'remembered' this for weeks, which she called learning.", "then": "Some plant scientists praised the experiment; others said words like 'learning' and 'intelligence' should be kept for animals with nervous systems, and that other explanations had not been ruled out.", "now": "The argument continues. Scientists agree plants sense and respond in complex ways; they disagree about what to call it.", "status": "debated", "ask": "What would a plant have to do for you to call it clever?", "day": 6}
+  {
+   "id": "v1",
+   "who": "Charles Darwin (1809–1882) and his son Francis Darwin (1848–1925), England",
+   "idea": "In The Power of Movement in Plants (1880) they showed that a seedling's tip senses light and sends a signal down to the part that bends. They capped the tips of grass seedlings with tiny caps and found the seedlings stopped bending towards a dim lamp.",
+   "then": "Some botanists, like Julius von Sachs in Germany, thought their methods were sloppy and doubted the idea of a travelling signal.",
+   "now": "The Darwins were right; the signal was later identified as the plant hormone auxin. Francis did much of the work and went on to become a leading botanist, yet the book is remembered as Charles Darwin's.",
+   "status": "accepted",
+   "ask": "When two people do the work and only one is remembered, what is lost? How could the book have been written more fairly?",
+   "day": 6
+  },
+  {
+   "id": "v2",
+   "who": "E.K. Janaki Ammal (1897–1984), India",
+   "idea": "Janaki Ammal studied plant chromosomes and, at the Sugarcane Breeding Institute in Coimbatore, helped breed sweeter, stronger sugarcane suited to India by crossing it with wild relatives. She co-wrote the Chromosome Atlas of Cultivated Plants.",
+   "then": "As a woman, and as a woman from a community treated as 'lower' by caste, she faced discrimination in Indian science and was often the only woman in the room. She worked in England for years, where she became the first woman on the salaried staff of the Royal Horticultural Society.",
+   "now": "She is now recognised as one of India's great botanists; she received the Padma Shri in 1977, and a magnolia is named after her. For a long time, though, few Indians knew her name.",
+   "status": "accepted",
+   "ask": "Every time you eat sugar, Janaki Ammal's work is part of it. Why do you think we learn about some scientists and not others?",
+   "day": 8
+  },
+  {
+   "id": "v3",
+   "who": "Monica Gagliano (born 1976), Australia, and her critics",
+   "idea": "In 2014 Gagliano reported that touch-me-not plants dropped harmlessly again and again stopped folding their leaves, and 'remembered' this for weeks, which she called learning.",
+   "then": "Some plant scientists praised the experiment; others said words like 'learning' and 'intelligence' should be kept for animals with nervous systems, and that other explanations had not been ruled out.",
+   "now": "The argument continues. Scientists agree plants sense and respond in complex ways; they disagree about what to call it.",
+   "status": "debated",
+   "ask": "What would a plant have to do for you to call it clever?",
+   "day": 8
+  }
  ],
- "story": {"title": "The Small Letters", "text": [
-  "My name is Francis Darwin, and when I was a young man I spent three summers on my knees in the dark.",
-  "My father was old by then, and often ill. He could not walk far, and some days he could not work for more than an hour. But his mind was as restless as ever, and that year it had fixed itself on a question about grass.",
-  "\"Look, Frank,\" he said one evening, tapping the glass of a little pot. Inside were tiny seedlings of canary grass, each one a pale green needle no longer than my fingernail. \"We grew them in the dark. Now we light a lamp at the far end of the room, so dim that you and I can barely see it. And look what they do.\"",
-  "Every single seedling had bent towards the lamp, like a row of people turning their heads to listen.",
-  "\"They see it,\" my father said. \"They have no eyes, and they see it better than we do. But which part of them sees?\"",
-  "So we set out to find out, the two of us. Or rather, he thought and I did. My father's hands shook too much for the delicate work, so it was my hands that made the tiny caps: little hoods of tinfoil, and thin glass tubes painted black, each one small enough to fit over the very tip of a seedling. It was my eyes, bent close to the pots by candlelight, that watched and measured and wrote down every curve.",
-  "We capped the tips of some seedlings and left others bare. The bare ones bent towards the light as before. The capped ones stood straight up, as if they had been blindfolded. We buried others in fine black sand right up to their necks, so only the very tip could feel the light, and they bent just the same.",
-  "\"It's the tip,\" my father said, and his tired face lit up like a boy's. \"The tip sees the light, but the bending happens lower down. So the tip must send a message, Frank. Something travels down inside the plant and tells it which way to turn.\"",
-  "I remember thinking: a message, travelling through a plant with no nerves, no brain. It seemed impossible. And yet the grass had told us so itself.",
-  "When the book was printed, I held the first copy in my hands. The title said: The Power of Movement in Plants. Underneath, in large letters: By Charles Darwin. And underneath that, in much smaller letters: assisted by Francis Darwin.",
-  "I was not angry. He was my father, and the whole world knew his name. But I sat for a long time with the book open on my knees, looking at those small letters, and I thought about the seedlings.",
-  "The tip of the seedling does the seeing. It sits in the light and feels it, quietly, and sends its message down. And the part lower down does the bending, the part that everyone watches. Nobody looks at the tip. Everybody looks at the bend.",
-  "My father died two years later. I became a botanist myself, and I spent my life studying how plants move and grow. Long afterwards, scientists found the message we had guessed at: a chemical that travels from the tip and tells the plant cells which side to grow. They called it auxin.",
-  "Sometimes, when I tell this story, people ask me which of us really discovered it. I tell them the truth: we did it together, the old man and the young one, the one who thought and the one who watched. But I also tell them to remember the small letters. Behind almost every name in large letters, there is someone in small letters, and often many people in no letters at all: the gardener who grew the seeds, my mother who kept the house running, my sisters who copied out the pages.",
-  "Look for them. They are the tips that see the light."],
+ "story": {
+  "title": "The Small Letters",
+  "text": [
+   "My name is Francis Darwin, and when I was a young man I spent three summers on my knees in the dark.",
+   "My father was old by then, and often ill. He could not walk far, and some days he could not work for more than an hour. But his mind was as restless as ever, and that year it had fixed itself on a question about grass.",
+   "\"Look, Frank,\" he said one evening, tapping the glass of a little pot. Inside were tiny seedlings of canary grass, each one a pale green needle no longer than my fingernail. \"We grew them in the dark. Now we light a lamp at the far end of the room, so dim that you and I can barely see it. And look what they do.\"",
+   "Every single seedling had bent towards the lamp, like a row of people turning their heads to listen.",
+   "\"They see it,\" my father said. \"They have no eyes, and they see it better than we do. But which part of them sees?\"",
+   "So we set out to find out, the two of us. Or rather, he thought and I did. My father's hands shook too much for the delicate work, so it was my hands that made the tiny caps: little hoods of tinfoil, and thin glass tubes painted black, each one small enough to fit over the very tip of a seedling. It was my eyes, bent close to the pots by candlelight, that watched and measured and wrote down every curve.",
+   "We capped the tips of some seedlings and left others bare. The bare ones bent towards the light as before. The capped ones stood straight up, as if they had been blindfolded. We buried others in fine black sand right up to their necks, so only the very tip could feel the light, and they bent just the same.",
+   "\"It's the tip,\" my father said, and his tired face lit up like a boy's. \"The tip sees the light, but the bending happens lower down. So the tip must send a message, Frank. Something travels down inside the plant and tells it which way to turn.\"",
+   "I remember thinking: a message, travelling through a plant with no nerves, no brain. It seemed impossible. And yet the grass had told us so itself.",
+   "When the book was printed, I held the first copy in my hands. The title said: The Power of Movement in Plants. Underneath, in large letters: By Charles Darwin. And underneath that, in much smaller letters: assisted by Francis Darwin.",
+   "I was not angry. He was my father, and the whole world knew his name. But I sat for a long time with the book open on my knees, looking at those small letters, and I thought about the seedlings.",
+   "The tip of the seedling does the seeing. It sits in the light and feels it, quietly, and sends its message down. And the part lower down does the bending, the part that everyone watches. Nobody looks at the tip. Everybody looks at the bend.",
+   "My father died two years later. I became a botanist myself, and I spent my life studying how plants move and grow. Long afterwards, scientists found the message we had guessed at: a chemical that travels from the tip and tells the plant cells which side to grow. They called it auxin.",
+   "Sometimes, when I tell this story, people ask me which of us really discovered it. I tell them the truth: we did it together, the old man and the young one, the one who thought and the one who watched. But I also tell them to remember the small letters. Behind almost every name in large letters, there is someone in small letters, and often many people in no letters at all: the gardener who grew the seeds, my mother who kept the house running, my sisters who copied out the pages.",
+   "Look for them. They are the tips that see the light."
+  ],
   "epiphany": "The tip of a seedling senses light and sends a chemical signal (auxin) down to the growing region, which bends; plants sense and communicate without nerves. The turn is Francis's realisation that 'nobody looks at the tip, everybody looks at the bend'. Underneath: the people whose work is credited in small letters or not at all (based on real events: The Power of Movement in Plants, 1880).",
-  "ask": ["Which part of the seedling sees the light? Which part bends?", "How did the caps and the black sand help them find out?", "What did Francis mean when he said 'nobody looks at the tip'?", "Who are the people 'in no letters at all' in this story?", "Is there someone in your life whose work is like the tip?"]},
+  "ask": [
+   "Which part of the seedling sees the light? Which part bends?",
+   "How did the caps and the black sand help them find out?",
+   "What did Francis mean when he said 'nobody looks at the tip'?",
+   "Who are the people 'in no letters at all' in this story?",
+   "Is there someone in your life whose work is like the tip?"
+  ]
+ },
  "ideas": [
-  {"idea": "A tree is built mostly from air.", "more": "Leaves take carbon dioxide from the air and, with sunlight and water, make sugar, which becomes wood, leaves and fruit. The soil gives only water and a little in minerals."},
-  {"idea": "Every animal depends on plants, for food and for breath.", "more": "Almost every food chain starts with a plant, and plants and algae make the oxygen in the air. We and trees breathe each other."},
-  {"idea": "Plants sense, signal and respond, without brains.", "more": "They sense light, gravity, touch and water, and send chemical and electrical messages through their bodies."},
-  {"idea": "Behind every big name are small letters.", "more": "Science is done by many people; the record often remembers only one."}],
+  {
+   "idea": "A tree is built mostly from air.",
+   "more": "Leaves take carbon dioxide from the air and, with sunlight and water, make sugar, which becomes wood, leaves and fruit. The soil gives only water and a little in minerals. When wood burns, most of it goes back into the air."
+  },
+  {
+   "idea": "Every animal depends on plants, for food and for breath.",
+   "more": "Almost every food chain starts with a plant, and plants and algae make the oxygen in the air. We and trees breathe each other."
+  },
+  {
+   "idea": "Plants sense, signal and respond, without brains.",
+   "more": "They sense light, gravity, touch and water, and send chemical and electrical messages through their bodies."
+  },
+  {
+   "idea": "Behind every big name are small letters.",
+   "more": "Science is done by many people; the record often remembers only one."
+  }
+ ],
  "unknowns": [
   "Exactly how do the thin water columns in a 100-metre tree keep from snapping, and how do trees repair them? Scientists are still working it out.",
   "Can plants learn, remember or even feel? Scientists disagree about what the experiments mean.",
-  "How do trees in a forest affect each other underground through fungi? The popular 'wood-wide web' story may be bigger than the evidence; research continues."],
+  "How do trees in a forest affect each other underground through fungi? The popular 'wood-wide web' story may be bigger than the evidence; research continues."
+ ],
  "books": [
-  {"title": "Wangari's Trees of Peace", "author": "Jeanette Winter", "for": "read together", "age": "5–9", "why": "Wangari Maathai, who started a movement of Kenyan women planting millions of trees, and won the Nobel Peace Prize."},
-  {"title": "Plants Can't Sit Still", "author": "Rebecca E. Hirsch", "for": "read together", "age": "4–8", "why": "Lively proof that plants move: they climb, twist, close and travel."},
-  {"title": "From Seed to Plant", "author": "Gail Gibbons", "for": "read alone", "age": "6–9", "why": "Clear, accurate pictures of how plants grow and make seeds."},
-  {"title": "Braiding Sweetgrass for Young Adults", "author": "Robin Wall Kimmerer, adapted by Monique Gray Smith", "for": "parent reads", "age": "10+ (read parts aloud)", "why": "A botanist from the Potawatomi Nation on seeing plants as relatives and teachers. Read short sections aloud and talk."}
+  {
+   "title": "Wangari's Trees of Peace",
+   "author": "Jeanette Winter",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Wangari Maathai, who started a movement of Kenyan women planting millions of trees, and won the Nobel Peace Prize."
+  },
+  {
+   "title": "Plants Can't Sit Still",
+   "author": "Rebecca E. Hirsch",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Lively proof that plants move: they climb, twist, close and travel."
+  },
+  {
+   "title": "From Seed to Plant",
+   "author": "Gail Gibbons",
+   "for": "read alone",
+   "age": "6–9",
+   "why": "Clear, accurate pictures of how plants grow and make seeds."
+  },
+  {
+   "title": "Braiding Sweetgrass for Young Adults",
+   "author": "Robin Wall Kimmerer, adapted by Monique Gray Smith",
+   "for": "parent reads",
+   "age": "10+ (read parts aloud)",
+   "why": "A botanist from the Potawatomi Nation on seeing plants as relatives and teachers. Read short sections aloud and talk."
+  }
  ],
  "check": [
-  {"q": "Name the five kinds of plants with an example of each.", "a": "Tree (neem), shrub (hibiscus), herb (coriander), climber (money plant), creeper (pumpkin)."},
-  {"q": "What does a plant need to stay healthy?", "a": "Light, water, air (for roots too) and nutrients from soil."},
-  {"q": "How did we know water travels up the stem?", "a": "The coloured water rose up into the flower or leaves, and the cut stem showed coloured dots, the tubes."},
-  {"q": "Where does most of a tree's weight come from?", "a": "Carbon dioxide from the air, joined with water using sunlight."},
-  {"q": "Why did the plant in the waterlogged pot droop?", "a": "Its roots had no air and began to rot."},
-  {"q": "Who was Janaki Ammal?", "a": "An Indian botanist who bred sweeter sugarcane and studied plant chromosomes, and faced discrimination as a woman."}
+  {
+   "q": "Name the six kinds of plants with an example of each.",
+   "a": "Tree (neem), shrub (hibiscus), herb (coriander), climber (money plant), creeper (pumpkin), grass (doob, wheat, bamboo)."
+  },
+  {
+   "q": "What does a plant need to stay healthy?",
+   "a": "Light, water, air (for roots too), nutrients from soil and space to grow."
+  },
+  {
+   "q": "How does water get from the soil to the top of a plant and out?",
+   "a": "Root hairs soak it up, xylem tubes in the stem carry it up, and it leaves through tiny pores in the leaves as vapour (transpiration), which pulls more water up."
+  },
+  {
+   "q": "Where does most of a tree's weight come from?",
+   "a": "Carbon dioxide from the air, joined with water using sunlight."
+  },
+  {
+   "q": "Why did the plant in the waterlogged pot droop?",
+   "a": "Its roots had no air and began to rot."
+  },
+  {
+   "q": "A plant is tall, pale and leaning. What is wrong?",
+   "a": "It isn't getting enough light."
+  },
+  {
+   "q": "What makes a test fair?",
+   "a": "You change only one thing and keep everything else the same."
+  },
+  {
+   "q": "Who was Janaki Ammal?",
+   "a": "An Indian botanist who helped breed sweeter sugarcane and studied plant chromosomes, and faced discrimination as a woman."
+  }
  ]
 }

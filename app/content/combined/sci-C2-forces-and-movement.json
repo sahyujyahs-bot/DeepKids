@@ -1,774 +1,207 @@
 {
  "key": "combined|sci|2|forces-and-movement",
- "board": "combined",
- "subj": "sci",
- "level": 2,
- "n": "forces-and-movement",
+ "board": "combined", "subj": "sci", "level": 2, "n": "forces-and-movement",
  "title": "Forces change speed, direction and shape",
- "source": "DeepKids Combined. Covers Cambridge Stage 2 Physics (forces around us, changing shape, speed and direction). No textbook needed.",
- "summary": "Last year your child learned that pushes and pulls make things move. Now they find that forces can do three more jobs: change how fast something goes, change the way it is going, and change its shape by squashing, stretching, bending and twisting.",
- "builds_on": "Class 1: a push or pull starts things moving, and a bigger push makes things go further. Next, in Class 3, your child will measure how big a force is and meet friction properly.",
+ "source": "DeepKids Combined. Covers Cambridge Stage 2 Physics: forces around us, changing shape, changing speed, changing direction. No textbook needed.",
+ "summary": "Last year your child learned that pushes and pulls make things move, and that every push gets a push back. Now they find the four jobs a force can do: start or stop, speed up or slow down, turn, and change shape. They squash, stretch, bend and twist, discover springy (elastic) and stay-put (plastic) materials, measure a rubber band's stretch, time races to measure speed, find that heavier things need bigger forces to change, and test the oldest argument in physics: do heavy things fall faster?",
+ "builds_on": "Class 1: a force is a push or a pull; things don't start or stop by themselves; every push gets a push back; the Earth pulls things down; rubbing slows things. Next: Class 3 measures forces in newtons with a forcemeter, separates mass from weight and studies friction; Class 4 explores balance, simple machines, pressure and floating; Class 5 draws full force diagrams, with air and water resistance and rockets.",
+ "subconcepts": [
+  "the four jobs of a force: start or stop, speed up or slow down, turn, change shape",
+  "squash, stretch, bend and twist",
+  "elastic materials spring back; plastic materials keep the new shape",
+  "springs: a bigger pull makes a bigger stretch, up to a limit",
+  "a bounce is a squash and a spring back",
+  "speed: how far something goes in a certain time",
+  "measuring speed by timing a race over the same distance",
+  "changing direction needs a force",
+  "heavier things need a bigger force to speed up, slow down or turn",
+  "the Earth pulls everything down, and without air everything falls together",
+  "air pushes back on falling and moving things",
+  "pairs of forces: push off and you are pushed back",
+  "nature's forces shape the land: wind, water, ice"
+ ],
  "goals": [
-  "By the end your child can name the four things a force can do to an object: start it, speed it up or slow it down, change its direction, change its shape.",
-  "By the end your child can show squashing, stretching, bending and twisting, and say which materials spring back and which stay changed.",
-  "By the end your child can show that a bigger force makes a bigger change in speed or shape.",
-  "By the end your child can draw arrows to show which way a force pushes or pulls.",
-  "By the end your child can do a fair test by changing only one thing."
+  "By the end your child can name the four jobs a force can do and show each one with a ball.",
+  "By the end your child can squash, stretch, bend and twist things and sort materials into elastic and plastic.",
+  "By the end your child can show with a rubber band that a bigger pull makes a bigger stretch, and say what happens near the limit.",
+  "By the end your child can time a race over a fixed distance and say who was faster and how they know.",
+  "By the end your child can explain that heavy things are harder to speed up, slow down and turn.",
+  "By the end your child can explain why a coin and a sheet of paper fall differently, and why a scrunched paper ball falls with the coin."
  ],
  "words": [
-  [
-   "force",
-   "a push or a pull"
-  ],
-  [
-   "squash",
-   "to press something so it gets flatter or smaller"
-  ],
-  [
-   "stretch",
-   "to pull something so it gets longer"
-  ],
-  [
-   "bend",
-   "to make something curve"
-  ],
-  [
-   "twist",
-   "to turn the two ends of something opposite ways"
-  ],
-  [
-   "speed",
-   "how fast something moves"
-  ],
-  [
-   "direction",
-   "the way something is moving"
-  ],
-  [
-   "spring back",
-   "to go back to its own shape after you stop pushing or pulling"
-  ],
-  [
-   "fair test",
-   "a test where you change only one thing so you know what made the difference"
-  ]
+  ["force", "a push or a pull"],
+  ["squash", "to press something so it gets flatter or smaller"],
+  ["stretch", "to pull something so it gets longer"],
+  ["bend", "to make something curve"],
+  ["twist", "to turn the two ends of something opposite ways"],
+  ["elastic", "springs back to its own shape when you let go, like rubber"],
+  ["plastic (in science)", "stays in its new shape when you let go, like wet clay"],
+  ["speed", "how fast something moves: how far it goes in a certain time"],
+  ["direction", "the way something is moving"],
+  ["air resistance", "the push of air against something moving through it"],
+  ["fair test", "a test where you change only one thing so you know what made the difference"]
  ],
  "day_mins": 35,
  "days": [
-  {
-   "n": 1,
-   "title": "What can a force do?",
-   "goal": "Remember pushes and pulls, then find the new jobs a force can do.",
+  {"n": 1, "title": "What can a force do?", "goal": "Remember pushes and pulls, then find the four jobs a force can do.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Remember last year",
-     "mins": 6,
-     "do": "Ask: 'What is a force?' (A push or a pull.) Ask your child to show you three pushes and three pulls in the room in one minute. If they've forgotten, play one quick round of Simon Says push/pull."
-    },
-    {
-     "kind": "do",
-     "title": "One ball, four jobs",
-     "mins": 14,
-     "do": "Use a soft ball. Ask your child to use a force to: (1) make the still ball move (start), (2) make the rolling ball go faster (a push from behind), (3) make it turn left (a tap from the side), (4) change its shape (squeeze it). For each, draw a quick picture on a big sheet with an arrow for the force. Say: 'So a force can start something, change its speed, change its direction, and change its shape.' Write those four on the sheet as a poster."
-    },
-    {
-     "kind": "game",
-     "title": "Force Cards",
-     "mins": 15,
-     "do": "Print and cut out the Force Cards game (g1). Play the 'act it out' round: each player draws a card, does the action, and says which of the four jobs the force did. Keep the cards for Day 6.",
-     "ref": "g1"
-    }
-   ],
-   "need": [
-    "a soft ball",
-    "a big sheet of paper and a marker",
-    "the printed Force Cards"
-   ]
-  },
-  {
-   "n": 2,
-   "title": "Squash, stretch, bend, twist",
-   "goal": "Change the shape of things with forces and see which ones spring back.",
+    {"kind": "warmup", "title": "Remember last year", "mins": 6, "do": "Ask: 'What is a force?' (A push or a pull.) 'What happens when you push a wall?' (It pushes back.) 'Can a ball start rolling by itself?' (No.) Ask your child to show you three pushes and three pulls in the room in one minute. If they've forgotten, play one quick round of Simon Says push/pull."},
+    {"kind": "do", "title": "One ball, four jobs", "mins": 14, "do": "Use a soft ball and a big sheet of paper. Ask your child to use a force to: (1) make the still ball move (start), then stop it with a hand (stop); (2) make the rolling ball go faster with a push from behind, and slower with a gentle push from in front (speed up, slow down); (3) make it turn left with a tap from the side (change direction); (4) squeeze it (change shape). For each, draw a quick picture with an arrow for the force and write the job. Pin the sheet up: it's the class poster for the week."},
+    {"kind": "game", "title": "Force Cards: act it out", "mins": 15, "do": "Print and cut out the Force Cards game (g1). Play the act-it-out round: each player draws an action card, does the action (or mimes it), and says which of the jobs the force did. Ask after a few: 'Can one force do two jobs at once?' (Yes: kicking a rolling ball sideways changes its direction and its speed.) Keep the cards for Day 7.", "ref": "g1"}
+   ], "need": ["a soft ball", "a big sheet of paper and crayons", "the printed Force Cards and scissors"]},
+  {"n": 2, "title": "Squash, stretch, bend, twist", "goal": "Change the shape of things with forces, find which spring back, and hear the story.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Body shapes",
-     "mins": 5,
-     "do": "Your child makes their body squash (curl up small), stretch (reach tall), bend (touch toes) and twist (turn their top half while feet stay still). Each time say the word together."
-    },
-    {
-     "kind": "exp",
-     "title": "Spring back or stay?",
-     "mins": 20,
-     "do": "Do Experiment e1. Your child tests each object, then sorts it on Worksheet ws1.",
-     "ref": "e1"
-    },
-    {
-     "kind": "ws",
-     "title": "Sort the shapes",
-     "mins": 10,
-     "do": "Fill in Worksheet ws1 from the test. Ask: 'Why do you think a sponge springs back but atta dough stays squashed?' Accept any idea. Say: 'Some materials are springy. Their tiny parts pull back into place. Others are like a crowd that moves and stays where it is pushed.'",
-     "ref": "ws1"
-    }
-   ],
-   "need": [
-    "a sponge",
-    "a ball of atta dough or play dough",
-    "a rubber band",
-    "a pipe cleaner or soft wire",
-    "a plastic ruler",
-    "a paper strip",
-    "a spring from an old pen",
-    "a cotton towel"
-   ]
-  },
-  {
-   "n": 3,
-   "title": "Bigger force, bigger change",
-   "goal": "Show that a bigger force makes a bigger change in shape.",
+    {"kind": "warmup", "title": "Body shapes", "mins": 4, "do": "Your child makes their body squash (curl up small), stretch (reach tall), bend (touch toes) and twist (turn their top half while feet stay still). Each time say the word together."},
+    {"kind": "exp", "title": "Spring back or stay?", "mins": 15, "do": "Do Experiment e1. Your child tests each object, says which shape-change they used, and puts it in one of two piles: springs back, or stays changed. Say: 'Things that spring back are called elastic. Things that stay changed are called plastic. In science, plastic means stays-put, not the stuff bottles are made of.' Ask: 'Why do you think a sponge springs back but atta dough stays squashed?' Accept any idea, then say: 'In springy things the tiny parts pull back into place, like children holding hands in a ring. In dough they slide past each other and stay where they're pushed.'", "ref": "e1"},
+    {"kind": "read", "title": "Story: The Clay That Remembers", "mins": 12, "do": "Read the story aloud. Don't explain it. Ask: 'What's the difference between the clay and the rubber ball?' and 'Why was Baba's handprint still there after sixty years?' (The clay was plastic and kept the shape; the fire made it hard so it couldn't change any more.) This story touches on a grandparent dying; give your child time if it brings up feelings."},
+    {"kind": "review", "title": "Shape spotting", "mins": 4, "do": "Ask your child to find four things at home that change shape when a force is used: a pillow (squash), a hair band (stretch), a toothbrush bristle (bend), a wet cloth being wrung (twist). For each ask: 'Elastic or plastic?'"}
+   ], "need": ["sponge", "atta dough or clay", "rubber band", "pipe cleaner or soft wire", "plastic ruler", "paper strip", "a pen spring", "a towel"]},
+  {"n": 3, "title": "Springs and bounces", "goal": "Show that a bigger pull makes a bigger stretch, find the limit, and see that a bounce is a squash and spring back.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Gentle squeeze, hard squeeze",
-     "mins": 5,
-     "do": "Give your child a ball of dough. Squeeze it gently with one finger, then press with the whole palm. Ask: 'Which made the dough change more?' (The bigger push.)"
-    },
-    {
-     "kind": "exp",
-     "title": "Rubber band stretch",
-     "mins": 18,
-     "do": "Do Experiment e2: hang a small bag from a rubber band and add things one by one, measuring the stretch each time.",
-     "ref": "e2"
-    },
-    {
-     "kind": "think",
-     "title": "Spot the pattern",
-     "mins": 7,
-     "do": "Look at the table together. Ask: 'What happened each time we added something?' (It stretched more.) 'What would happen if we added 20 things?' (It would stretch a lot, and maybe snap.) Then talk about voice v1: Robert Hooke found the same pattern with springs more than 300 years ago.",
-     "ref": "v1"
-    },
-    {
-     "kind": "review",
-     "title": "Shape spotting",
-     "mins": 5,
-     "do": "Ask your child to find three things at home that change shape when a force is used: a pillow (squash), a hair band (stretch), a toothbrush bristle (bend), a wet cloth being wrung (twist). Which spring back?"
-    }
-   ],
-   "need": [
-    "play dough or atta dough",
-    "a rubber band",
-    "a small plastic bag or cup with a string handle",
-    "10 coins or marbles",
-    "a ruler",
-    "a pencil and a hook or door knob to hang from"
-   ]
-  },
-  {
-   "n": 4,
-   "title": "Faster and slower",
-   "goal": "Change the speed of moving things with pushes and pulls.",
+    {"kind": "exp", "title": "Rubber band stretch", "mins": 15, "do": "Do Experiment e2: hang a small bag from a rubber band and add coins two at a time, measuring the length of the band each time. Write the numbers in a two-column table (coins, length in cm). Ask: 'What happened each time we added coins?' (It stretched more.) 'Did it stretch the same extra amount each time?' (About the same, until near the end.) 'What would happen with 50 coins?' (It might stay stretched or snap: that's its limit.)", "ref": "e2"},
+    {"kind": "talk", "title": "Robert Hooke's spring rule", "mins": 6, "do": "Talk about voice v1: Robert Hooke found the same pattern with springs more than 300 years ago and hid it in a secret code first. Ask the voice's question. Then show a click pen's spring: squash it with a finger and feel it push back. Ask: 'Where else are springs hiding?' (Mattress, sofa, cycle seat, stapler, a clothes peg, a pull-back car.)", "ref": "v1"},
+    {"kind": "do", "title": "What happens in a bounce?", "mins": 9, "do": "Wet the bottom of a rubber ball lightly and drop it on a dry tile from knee height, then from shoulder height. Look at the wet mark it leaves. Ask: 'Which drop made the bigger wet circle?' (The higher one.) Say: 'When the ball hits the floor it squashes flat for a tiny moment, then springs back and pushes itself up. A bigger drop, a bigger squash.' Then drop a ball of dough: 'Why doesn't the dough bounce?' (It's plastic: it squashes but doesn't spring back.)"},
+    {"kind": "act", "title": "Start the catapult project", "mins": 5, "do": "Start the project: tie a plastic spoon to a block or stack of ice-cream sticks with rubber bands, as in the project steps. Ask: 'Which part bends and springs back to throw the ball?' Test it once and leave it for Day 6."}
+   ], "need": ["a rubber band", "a small bag or cup with a string handle", "10 coins or marbles", "a ruler", "a hook or door knob", "a click pen", "a rubber ball, water", "dough", "a plastic spoon, ice-cream sticks, rubber bands"]},
+  {"n": 4, "title": "How fast? Measuring speed", "goal": "Measure speed by timing the same distance, and feel that heavy things are harder to speed up and slow down.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Speed walk",
-     "mins": 5,
-     "do": "Play 'traffic light' walking: green means walk fast, yellow walk slowly, red stop. After a few rounds ask: 'What did your legs have to do to speed up? To stop?' (Push harder against the floor to go faster; push the other way to stop.)"
-    },
-    {
-     "kind": "exp",
-     "title": "Paper-boat racing with a straw",
-     "mins": 15,
-     "do": "Do Experiment e3: blow a paper boat or a ping-pong ball across a tray of water or a smooth floor with a straw, softly and then harder.",
-     "ref": "e3"
-    },
-    {
-     "kind": "talk",
-     "title": "Heavy and light",
-     "mins": 10,
-     "do": "Ask: 'If I drop a steel spoon and a plastic spoon at the same time, which lands first?' Let them predict, then try it from your shoulder height onto a cushion. They land at almost the same time. Talk about voice v2: people believed for about 2,000 years that heavy things fall faster, until Galileo tested it. Ask: 'What about a feather? Why does it come down slowly?' (The air pushes up against it.)",
-     "ref": "v2"
-    },
-    {
-     "kind": "review",
-     "title": "Speed words",
-     "mins": 5,
-     "do": "Say a situation and your child says 'speed up', 'slow down' or 'stop': a cycle going downhill (speed up), a cycle braking (slow down), catching a ball (stop), kicking a rolling ball forward (speed up)."
-    }
-   ],
-   "need": [
-    "a paper boat or ping-pong ball",
-    "a straw",
-    "a big tray with water, or a smooth floor",
-    "a steel spoon and a plastic spoon",
-    "a cushion",
-    "a feather if you have one"
-   ]
-  },
-  {
-   "n": 5,
-   "title": "Changing direction",
-   "goal": "Use forces to turn moving things, and draw where they go.",
+    {"kind": "warmup", "title": "Traffic light walk", "mins": 4, "do": "Play traffic light: green means walk fast, yellow slowly, red stop. Ask: 'What did your feet do to speed up? To stop?' (Push harder back on the floor to go faster; push forwards on the floor to stop.)"},
+    {"kind": "exp", "title": "Who is faster?", "mins": 14, "do": "Do Experiment e3. Mark a 10-step track with two slippers. Time your child walking, hopping, crawling and running it, counting seconds aloud or with a phone stopwatch. Write the times in a table. Ask: 'Which was the fastest way? How do you know?' (It took the fewest seconds for the same distance.) Then say: 'Speed means how far you go in a certain time. If two people go the same distance, the one who takes less time is faster.'", "ref": "e3"},
+    {"kind": "exp", "title": "Light cart, heavy cart", "mins": 12, "do": "Do Experiment e4: give the same flick to an empty shoe box and a shoe box with two books in it, on a smooth floor. Then roll a heavy ball and a light ball of the same size at your child, slowly, and let them turn each one with a tap. Ask: 'Which was harder to speed up? Which was harder to turn?' (The heavy one, both times.) Say: 'The more stuff in a thing, the bigger the force you need to change how it moves.'", "ref": "e4"},
+    {"kind": "review", "title": "Speed words", "mins": 5, "do": "Say a situation and your child says 'speed up', 'slow down', 'stop' or 'turn': a cycle going downhill (speed up), braking (slow down), catching a ball (stop), a bus going round a corner (turn), a bowler's ball hitting the bat (turn and slow or speed). Ask: 'Why does a loaded truck need stronger brakes than a scooter?'"}
+   ], "need": ["two slippers", "a phone stopwatch or a clock with a second hand", "a shoe box and two books", "a heavy ball and a light ball"]},
+  {"n": 5, "title": "Falling and the push of air", "goal": "Test whether heavy things fall faster, and find the push of air.",
    "steps": [
-    {
-     "kind": "warmup",
-     "title": "Bounce",
-     "mins": 5,
-     "do": "Throw a ball against a wall and catch it. Ask: 'Which way did the ball go after it hit the wall? What turned it round?' (The wall pushed back on it.)"
-    },
-    {
-     "kind": "act",
-     "title": "Marble maze",
-     "mins": 20,
-     "do": "Do Activity a1: build a marble run in a shoe-box lid with straws or cardboard walls. Each wall gives the marble a push that changes its direction.",
-     "ref": "a1"
-    },
-    {
-     "kind": "ws",
-     "title": "Arrows",
-     "mins": 10,
-     "do": "Do Worksheet ws2 (Where will it go?). Your child draws arrows to show where a ball goes after each push.",
-     "ref": "ws2"
-    }
-   ],
-   "need": [
-    "a ball",
-    "a shoe-box lid",
-    "straws or strips of cardboard",
-    "tape or glue",
-    "a marble or small ball"
-   ]
-  },
-  {
-   "n": 6,
-   "title": "Show and teach",
-   "goal": "Use everything: play the full card game, talk about big questions, teach it back.",
+    {"kind": "warmup", "title": "Which falls first?", "mins": 4, "do": "Ask: 'If I drop a steel spoon and a plastic spoon at the same time, which lands first?' Let them predict and write the guess."},
+    {"kind": "exp", "title": "The great drop test", "mins": 14, "do": "Do Experiment e5. Drop pairs from your shoulder height onto a cushion, at exactly the same moment: steel spoon and plastic spoon; a ₹5 coin and an eraser; a flat sheet of paper and a coin; then the same sheet scrunched into a tight ball and the coin. Your child watches and listens for the thuds. Ask: 'When did the heavy one win? When did they land together? What changed when we scrunched the paper?' (The flat paper was slowed by air pushing up on it.)", "ref": "e5"},
+    {"kind": "talk", "title": "Aristotle, Galileo and a feather on the Moon", "mins": 9, "do": "Talk about voice v2: people believed for about 2,000 years that heavy things fall faster, until Galileo thought it through and tested it. Tell them that in 1971 an astronaut, David Scott, dropped a hammer and a feather on the Moon, where there is no air, and they landed together. If you can, watch the short NASA video of it together (search 'Apollo 15 hammer feather'). Ask the voice's question.", "ref": "v2"},
+    {"kind": "do", "title": "Feel the air push", "mins": 8, "do": "Your child runs across the room holding a big sheet of cardboard flat in front of them, then holding it edge-on. Ask: 'Which was harder? Why?' (The flat card pushes against more air, so more air pushes back.) Then drop a paper helicopter or a leaf and watch it float down. Say: 'Air is real stuff. It pushes back on anything moving through it. Scientists call this air resistance.'"}
+   ], "need": ["a steel spoon and a plastic spoon", "a ₹5 coin and an eraser", "sheets of paper", "a cushion", "a big piece of cardboard", "a phone for the video (optional)"]},
+  {"n": 6, "title": "Changing direction", "goal": "Use forces to turn moving things, push off to move, and see nature's forces shape the land.",
    "steps": [
-    {
-     "kind": "game",
-     "title": "Force Cards: the matching round",
-     "mins": 12,
-     "do": "Play the full Force Cards game (g1) with the matching rules: lay the job cards face up and race to match each action card to the job. Explain each match out loud.",
-     "ref": "g1"
-    },
-    {
-     "kind": "think",
-     "title": "Big questions and puzzles",
-     "mins": 10,
-     "do": "Ask one big question: 'When you sit on a chair, are you pushing it? Is it pushing you?' (Both. The chair pushes up; that's why you don't fall through it.) Then try the puzzles on Worksheet ws3 together.",
-     "ref": "ws3"
-    },
-    {
-     "kind": "check",
-     "title": "Teach it back",
-     "mins": 13,
-     "do": "Your child is the teacher, using the poster from Day 1. Ask the check questions as a confused student. Finish with: 'Show me a force changing shape AND direction at the same time' (a ball squashing as it bounces off a wall)."
-    }
-   ],
-   "need": [
-    "the Force Cards",
-    "worksheet ws3",
-    "the poster from Day 1"
-   ]
-  }
+    {"kind": "warmup", "title": "Bounce off a wall", "mins": 4, "do": "Throw a ball against a wall and catch it. Ask: 'Which way did the ball go after it hit the wall? What turned it round?' (The wall pushed back on it.)"},
+    {"kind": "act", "title": "Marble maze", "mins": 14, "do": "Do Activity a1: build a marble run in a shoe-box lid with straws or card walls. Each time the marble hits a wall, your child says 'direction change!' and points to which way the wall pushed it.", "ref": "a1"},
+    {"kind": "ws", "title": "Where will it go?", "mins": 10, "do": "Do Worksheet ws2. Your child builds the force arrows in the app or shows them with a finger, then answers the 'why' questions out loud before you write them.", "ref": "ws2"},
+    {"kind": "talk", "title": "Rivers and the wind", "mins": 7, "do": "Show a photo of a river valley or a sand dune, or draw a winding river. Ask: 'What pushed the land into this shape?' (Water pushing on the banks every second for thousands of years; wind pushing sand.) Read the 'river' perspective and ask its question. Then test the catapult from the project once more: press the spoon down a little, then a lot. Which throws further? (The bigger bend, because it springs back with a bigger push.)"}
+   ], "need": ["a ball", "a shoe-box lid, straws or card strips, tape, a marble", "worksheet ws2", "the catapult from Day 3"]},
+  {"n": 7, "title": "Show and teach", "goal": "Use everything: the core sheet, the card game, a puzzle sheet and teaching it back.",
+   "steps": [
+    {"kind": "ws", "title": "Core worksheet", "mins": 9, "do": "Do Worksheet ws1. Read each item aloud. For the arrow items your child chooses the forces and their directions. Talk through any wrong answers using the poster from Day 1.", "ref": "ws1"},
+    {"kind": "game", "title": "Force Cards: the matching round", "mins": 8, "do": "Play the Force Cards game (g1) with the matching rules: lay the job cards face up and race to match each action card to its job. Explain each match out loud.", "ref": "g1"},
+    {"kind": "think", "title": "Puzzles", "mins": 6, "do": "Try two puzzles from Worksheet ws3 together: the one about jumping off a boat and the one about the bouncing clay. Ask: 'How could you test it?' Keep the rest of ws3 for another day.", "ref": "ws3"},
+    {"kind": "check", "title": "Teach it back", "mins": 12, "do": "Your child is the teacher, using the poster from Day 1 and the catapult. Ask the check questions as a confused student. Finish with: 'Show me a force changing shape AND direction at the same time.' (A ball squashing as it bounces off a wall.)"}
+   ], "need": ["worksheets ws1 and ws3", "the Force Cards", "the poster and the catapult"]}
  ],
  "worksheets": [
-  {
-   "id": "ws1",
-   "tier": "core",
-   "title": "Squash, stretch, bend, twist",
-   "day": 2,
-   "sections": [
-    [
-     "A. Sort",
-     [
-      {
-       "t": "sort",
-       "p": "Sort by the force you used.",
-       "items": [
-        "sponge",
-        "rubber band",
-        "pipe cleaner",
-        "dough",
-        "ruler",
-        "wet towel"
-       ],
-       "cats": [
-        "squash",
-        "stretch",
-        "bend",
-        "twist"
-       ]
-      }
-     ]
-    ],
-    [
-     "B. Springs back?",
-     [
-      {
-       "t": "table",
-       "p": "Write yes or no.",
-       "cols": [
-        "Thing",
-        "Springs back?"
-       ],
-       "rows": 5,
-       "prefill": [
-        "sponge",
-        "dough",
-        "rubber band",
-        "pipe cleaner",
-        "ruler"
-       ]
-      }
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "ws2",
-   "tier": "stretch",
-   "title": "Where will it go?",
-   "day": 5,
-   "sections": [
-    [
-     "A. Draw the arrow",
-     [
-      {
-       "t": "draw",
-       "p": "A ball rolls towards a wall. Draw where it goes after it hits."
-      },
-      {
-       "t": "draw",
-       "p": "A ball is rolling forward. You tap it from the left. Draw the new direction."
-      }
-     ]
-    ],
-    [
-     "B. Choose",
-     [
-      {
-       "t": "mcq",
-       "p": "What changes the direction of a cricket ball when the batter hits it?",
-       "opts": [
-        "the bat's push",
-        "the sky",
-        "nothing"
-       ],
-       "a": 0
-      },
-      {
-       "t": "mcq",
-       "p": "What makes a cycle slow down?",
-       "opts": [
-        "pedalling harder",
-        "the brakes rubbing",
-        "ringing the bell"
-       ],
-       "a": 1
-      },
-      {
-       "t": "fill",
-       "p": "A force can start, stop, speed up, slow down, change direction or change ____.",
-       "a": [
-        "shape"
-       ]
-      }
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "ws3",
-   "tier": "challenge",
-   "title": "Force puzzles",
-   "day": 6,
-   "sections": [
-    [
-     "A. Think",
-     [
-      {
-       "t": "write",
-       "p": "A rubber band and a dough ball are both stretched. One goes back, one doesn't. Which is better for a catapult? Why?",
-       "lines": 2
-      },
-      {
-       "t": "write",
-       "p": "You drop a big stone and a small stone together. What happens? How could you check?",
-       "lines": 2
-      },
-      {
-       "t": "write",
-       "p": "A ball bounces off the wall. Name two things the wall's push did to the ball.",
-       "lines": 2
-      }
-     ]
-    ]
-   ]
-  }
+  {"id": "ws1", "tier": "core", "title": "Four jobs of a force", "day": 7, "sections": [
+   ["A. What did the force do?", [
+    {"t": "match", "p": "Match each action to the job the force did.", "pairs": [["squeezing a sponge", "changed its shape"], ["braking a cycle", "slowed it down"], ["a bat hitting a ball", "changed its direction"], ["pushing a still pram", "started it moving"], ["catching a ball", "stopped it"]]},
+    {"t": "sort", "p": "Elastic (springs back) or plastic (stays changed)?", "items": ["rubber band", "wet clay", "sponge", "atta dough", "hair band", "crumpled foil", "pen spring", "chewed gum"], "cats": ["elastic", "plastic"]},
+    {"t": "mcq", "p": "We added more coins to the rubber band. What happened?", "opts": ["it got shorter", "it stretched more", "nothing changed"], "a": 1}]],
+   ["B. Speed and falling", [
+    {"t": "mcq", "p": "Riya walks 10 steps in 8 seconds. Sam walks 10 steps in 5 seconds. Who is faster?", "opts": ["Riya", "Sam", "they are the same"], "a": 1},
+    {"t": "fill", "p": "A flat sheet of paper falls slowly because the ____ pushes up on it.", "a": ["air", "air resistance"]},
+    {"t": "forces", "p": "A ball is falling. Which force pulls it, and which way?", "obj": "a falling ball", "options": ["gravity", "push", "pull"], "a": [{"name": "gravity", "dir": "down"}]},
+    {"t": "forces", "p": "Two hands stretch a rubber band, one pulling left and one pulling right.", "obj": "a stretched rubber band", "options": ["pull", "push", "gravity"], "a": [{"name": "pull", "dir": "left", "size": "equal"}, {"name": "pull", "dir": "right", "size": "equal"}]}]],
+   ["C. Why?", [
+    {"t": "write", "p": "Why does a sponge spring back but dough stays squashed?", "lines": 2},
+    {"t": "write", "p": "Why does a scrunched paper ball fall faster than the same paper flat?", "lines": 2}]]]},
+  {"id": "ws2", "tier": "stretch", "title": "Where will it go?", "day": 6, "sections": [
+   ["A. Turning forces", [
+    {"t": "forces", "p": "A marble rolls right and hits a wall. Which way does the wall push it?", "obj": "a marble hitting a wall", "options": ["wall pushes", "gravity", "pull"], "a": [{"name": "wall pushes", "dir": "left"}]},
+    {"t": "forces", "p": "A ball rolls to the right. You tap it from below so it turns upwards on the page. Show your tap.", "obj": "a rolling ball tapped from the side", "options": ["push", "pull", "gravity"], "a": [{"name": "push", "dir": "up"}]},
+    {"t": "mcq", "p": "A bus goes round a corner. What turns it?", "opts": ["nothing, it turns by itself", "the push of the road on its turned wheels", "the passengers"], "a": 1}]],
+   ["B. Speed and heavy things", [
+    {"t": "table", "p": "Write your race times from Day 4.", "cols": ["How I moved", "Seconds for 10 steps", "Fastest or slowest?"], "rows": 4, "prefill": ["walking", "hopping", "crawling", "running"]},
+    {"t": "mcq", "p": "Same flick, two boxes. Which goes further?", "opts": ["the empty box", "the box full of books"], "a": 0},
+    {"t": "fill", "p": "A heavy thing needs a ____ force to speed it up or turn it.", "a": ["bigger", "big", "larger"]},
+    {"t": "sort", "p": "Which way of measuring speed is fair?", "items": ["same distance, count the seconds", "different distances, count the seconds", "same time, see who went furthest", "guess by looking"], "cats": ["fair", "not fair"]}]],
+   ["C. Think", [
+    {"t": "write", "p": "Why does a loaded truck need stronger brakes than a scooter?", "lines": 2},
+    {"t": "write", "p": "When the ball hit the floor it left a bigger wet circle from higher up. What does that tell you about the bounce?", "lines": 2}]]]},
+  {"id": "ws3", "tier": "challenge", "title": "Shape and speed puzzles", "day": 7, "sections": [
+   ["A. What if?", [
+    {"t": "write", "p": "You jump forwards off a small boat onto the bank. What happens to the boat? Why? (Remember Tara on her skates.)", "lines": 3},
+    {"t": "write", "p": "A ball of dough doesn't bounce. Could you make a bouncy ball out of dough? What would you need to change?", "lines": 3},
+    {"t": "write", "p": "A feather and a hammer landed together on the Moon. Would they land together on Earth? Why not?", "lines": 2},
+    {"t": "mcq", "p": "A spring is stretched far past its limit. What happens?", "opts": ["it springs back perfectly", "it stays stretched or snaps", "it gets shorter"], "a": 1}]],
+   ["B. Tricky arrows", [
+    {"t": "forces", "p": "A sheet of paper falls slowly. Show both forces: one big and one nearly as big.", "obj": "a sheet of paper falling slowly", "options": ["gravity", "air pushes up", "push", "pull"], "a": [{"name": "gravity", "dir": "down"}, {"name": "air pushes up", "dir": "up"}]},
+    {"t": "forces", "p": "A sponge is squeezed between two hands. Show both pushes.", "obj": "a sponge being squeezed", "options": ["push", "pull", "gravity"], "a": [{"name": "push", "dir": "left", "size": "equal"}, {"name": "push", "dir": "right", "size": "equal"}]},
+    {"t": "mcq", "p": "Which takes the most force to stop?", "opts": ["a cycle going slowly", "a lorry going slowly", "a lorry going fast"], "a": 2},
+    {"t": "match", "p": "Which force of nature made it?", "pairs": [["a deep river valley", "flowing water"], ["sand dunes in Rajasthan", "wind"], ["a smooth round pebble", "water rolling it for years"], ["a mountain valley in the Himalaya", "slow moving ice (glaciers)"]]}]]]}
  ],
  "experiments": [
-  {
-   "id": "e1",
-   "title": "Spring back or stay?",
-   "day": 2,
-   "question": "When we change a thing's shape, does it go back?",
-   "need": [
-    "sponge",
-    "atta dough",
-    "rubber band",
-    "pipe cleaner",
-    "plastic ruler",
-    "paper strip",
-    "pen spring",
-    "towel"
-   ],
-   "steps": [
-    "Pick up one thing.",
-    "Choose the right force: squash, stretch, bend or twist.",
-    "Let go. Watch carefully.",
-    "Say whether it sprang back, stayed changed, or did a bit of both.",
-    "Do all the things."
-   ],
-   "predict": "Before each one, ask: 'Will it spring back?'",
-   "observe": "Which things go back to their shape and which stay changed.",
-   "why": "Springy (elastic) materials like rubber and sponge pull back into shape when the force stops. Soft materials like dough (plastic materials) stay in their new shape. Paper bends and stays a bit creased. A ruler springs back if you bend it a little, but snaps if you bend too far.",
-   "safety": "Don't bend the ruler until it snaps; pieces can fly.",
-   "time": "20 min"
-  },
-  {
-   "id": "e2",
-   "title": "Rubber band stretch",
-   "day": 3,
-   "question": "Does a bigger pull stretch a rubber band more?",
-   "need": [
-    "a rubber band",
-    "a small bag or cup with a string handle",
-    "10 coins or marbles",
-    "a ruler",
-    "a hook or door knob"
-   ],
-   "steps": [
-    "Hang the rubber band from the hook and the bag from the band.",
-    "Measure the length of the band with the ruler.",
-    "Add 2 coins. Measure again.",
-    "Keep adding 2 coins and measuring, up to 10.",
-    "Write the lengths in a table: coins and length."
-   ],
-   "predict": "Ask: 'What will happen to the band as we add coins?'",
-   "observe": "The band's length after each 2 coins.",
-   "why": "The Earth pulls the coins down. More coins mean a bigger pull, so the band stretches more. With a good rubber band, the stretch goes up by about the same amount for each 2 coins, until the band gets near its limit.",
-   "safety": "Stand to the side in case the band snaps.",
-   "time": "15 min"
-  },
-  {
-   "id": "e3",
-   "title": "Straw boat race",
-   "day": 4,
-   "question": "Does a bigger blow make the boat go faster?",
-   "need": [
-    "a paper boat or ping-pong ball",
-    "a straw",
-    "a tray of water or smooth floor"
-   ],
-   "steps": [
-    "Put the boat at one end.",
-    "Blow gently through the straw at the back of the boat. Count how long it takes to reach the other end.",
-    "Blow harder and count again.",
-    "Try blowing from the side. What happens?"
-   ],
-   "predict": "Ask: 'Will a hard blow be faster or slower?'",
-   "observe": "The time taken, and the direction it goes when blown from the side.",
-   "why": "Blowing pushes air against the boat. A harder blow is a bigger push, so the boat speeds up more. A push from the side changes its direction.",
-   "safety": "",
-   "time": "15 min"
-  }
+  {"id": "e1", "title": "Spring back or stay?", "day": 2, "question": "When we change a thing's shape, does it go back?", "need": ["sponge", "atta dough", "rubber band", "pipe cleaner", "plastic ruler", "paper strip", "pen spring", "towel"], "steps": ["Pick up one thing.", "Choose the right force: squash, stretch, bend or twist.", "Let go. Watch carefully.", "Say whether it sprang back, stayed changed, or did a bit of both.", "Do all the things and make two piles."], "predict": "Before each one, ask: 'Will it spring back?'", "observe": "Which things go back to their shape and which stay changed.", "why": "Springy (elastic) materials like rubber and sponge pull back into shape when the force stops. Stay-put (plastic) materials like dough keep their new shape. Paper bends and stays a bit creased. A ruler springs back if you bend it a little, but snaps if you bend too far: even elastic things have a limit.", "safety": "Don't bend the ruler until it snaps; pieces can fly.", "time": "15 min"},
+  {"id": "e2", "title": "Rubber band stretch", "day": 3, "question": "Does a bigger pull stretch a rubber band more?", "need": ["a rubber band", "a small bag or cup with a string handle", "10 coins or marbles", "a ruler", "a hook or door knob"], "steps": ["Hang the rubber band from the hook and the bag from the band.", "Measure the length of the band with the ruler.", "Add 2 coins. Measure again.", "Keep adding 2 coins and measuring, up to 10.", "Write the lengths in a table: coins and length."], "predict": "Ask: 'What will happen to the band as we add coins?'", "observe": "The band's length after each 2 coins.", "why": "The Earth pulls the coins down. More coins mean a bigger pull, so the band stretches more. With a good rubber band, the stretch goes up by about the same amount for each 2 coins, until the band gets near its limit. This is how spring scales and forcemeters work, which your child will build next year.", "safety": "Stand to the side in case the band snaps.", "time": "15 min"},
+  {"id": "e3", "title": "Who is faster?", "day": 4, "question": "How can we tell, with numbers, who or what is faster?", "need": ["two slippers to mark a track of 10 steps", "a phone stopwatch or clock with a second hand", "paper and pencil"], "steps": ["Mark a start and a finish 10 big steps apart.", "Your child walks from start to finish while you time them. Write the seconds.", "Repeat for hopping, crawling and running.", "Then time a toy car rolled from a ramp over the same track, if it reaches.", "Put the ways of moving in order from fastest to slowest."], "predict": "Ask: 'Which way of moving will take the least time?'", "observe": "The seconds for each way of moving the same distance.", "why": "Speed is how far something goes in a certain time. If the distance is the same, the shorter the time, the faster. Keeping the distance the same makes it a fair test. Scientists and cricket commentators measure speed in metres per second or kilometres per hour.", "safety": "Run only on a clear, non-slippery floor or outside.", "time": "14 min"},
+  {"id": "e4", "title": "Light cart, heavy cart", "day": 4, "question": "Does a heavier thing need a bigger force to speed it up?", "need": ["a shoe box", "two books", "a smooth floor", "a heavy ball (cricket or wet tennis ball) and a light ball of the same size (plastic)"], "steps": ["Put the empty shoe box on the floor and give it one flick with your finger. Mark where it stops.", "Put two books in the box. Give it the same flick. Mark where it stops.", "Roll the light ball slowly past your child; they tap it to turn it.", "Roll the heavy ball at the same speed; they tap it the same way."], "predict": "Ask: 'Same flick: which box will go further? Same tap: which ball will turn more?'", "observe": "How far each box goes and how much each ball turns.", "why": "The more stuff (mass) something has, the more force it takes to change its speed or direction. That's why a heavy ball hardly turns when tapped and a light one swerves. Scientists call this laziness inertia.", "safety": "Roll the heavy ball slowly and keep feet clear.", "time": "12 min"},
+  {"id": "e5", "title": "The great drop test", "day": 5, "question": "Do heavy things fall faster than light things?", "need": ["a steel spoon and a plastic spoon", "a ₹5 coin and an eraser", "two sheets of the same paper", "a cushion"], "steps": ["Hold two things at exactly the same height, at your shoulder.", "Let go at exactly the same moment. Your child watches and listens for the thuds.", "Do steel spoon and plastic spoon; coin and eraser.", "Do a flat sheet of paper and the coin.", "Scrunch one sheet into a tight ball and drop it with the coin.", "Repeat each pair twice."], "predict": "Ask before each pair: 'Which will land first?'", "observe": "Which lands first, or whether they land together.", "why": "Without air, everything falls at the same rate, whatever it weighs. Spoons, coins and erasers are small and compact, so air hardly slows them, and they land almost together. A flat sheet has a big surface for the air to push up on, so it falls slowly. Scrunching the same paper gives the air much less to push on, so it falls almost as fast as the coin. It's the air, not the weight.", "safety": "", "time": "14 min"}
  ],
  "activities": [
-  {
-   "id": "a1",
-   "title": "Marble maze",
-   "day": 5,
-   "mins": 20,
-   "need": [
-    "a shoe-box lid",
-    "straws or card strips",
-    "tape or glue",
-    "a marble"
-   ],
-   "steps": [
-    "Draw a start and a finish on the lid.",
-    "Glue straws or card strips as walls to make a twisting path.",
-    "Tilt the lid to roll the marble from start to finish.",
-    "Each time the marble hits a wall, say 'direction change!'",
-    "Make it harder with more turns."
-   ],
-   "outcome": "A working maze, and a child who can explain that each wall pushes the marble a new way."
-  }
+  {"id": "a1", "title": "Marble maze", "day": 6, "mins": 14, "need": ["a shoe-box lid", "straws or card strips", "tape or glue", "a marble"], "steps": ["Draw a start and a finish on the lid.", "Glue straws or card strips as walls to make a twisting path.", "Tilt the lid to roll the marble from start to finish.", "Each time the marble hits a wall, say 'direction change!'", "Make it harder with more turns."], "outcome": "A working maze, and a child who can explain that each wall pushes the marble a new way."}
  ],
- "project": {
-  "title": "Design a catapult",
-  "days": [
-   3,
-   6
-  ],
-  "steps": [
-   "Make a spoon catapult: tie a plastic spoon to a block or a stack of ice-cream sticks with rubber bands.",
-   "Load a paper ball and press down the spoon. Let go.",
-   "Change one thing: press further down, or use two rubber bands.",
-   "Measure how far the ball goes each time.",
-   "Explain which force is stretching or bending, and why the ball flies."
-  ],
-  "outcome": "A working catapult and a chart of what made it shoot further."
- },
- "game": {
-  "id": "g1",
-  "title": "Force Cards",
-  "kind": "cards",
-  "players": "2–4",
-  "need": [
-   "scissors to cut the cards"
-  ],
-  "rules": [
-   "Cut out the cards. There are action cards (white) and job cards (coloured).",
-   "Act-it-out round: shuffle the action cards. Take one, do the action, and say what the force did. Right: keep the card.",
-   "Matching round: lay the 6 job cards face up. Turn over action cards one at a time; the first to slap the right job card and explain wins the action card.",
-   "Most cards wins."
-  ],
-  "cards": [
-   {
-    "front": "Kick a still ball",
-    "back": "start"
-   },
-   {
-    "front": "Push a swing higher",
-    "back": "speed up"
-   },
-   {
-    "front": "Brake a cycle",
-    "back": "slow down"
-   },
-   {
-    "front": "Catch a ball",
-    "back": "stop"
-   },
-   {
-    "front": "Tap a rolling marble sideways",
-    "back": "change direction"
-   },
-   {
-    "front": "Squeeze a sponge",
-    "back": "change shape"
-   },
-   {
-    "front": "Stretch a hair band",
-    "back": "change shape"
-   },
-   {
-    "front": "Bat hits a ball",
-    "back": "change direction"
-   },
-   {
-    "front": "Pull a toy car",
-    "back": "start"
-   },
-   {
-    "front": "Car rolls onto a towel",
-    "back": "slow down"
-   },
-   {
-    "front": "Wring a wet cloth",
-    "back": "change shape"
-   },
-   {
-    "front": "Ball bounces off a wall",
-    "back": "change direction"
-   },
-   {
-    "front": "Blow a paper boat harder",
-    "back": "speed up"
-   },
-   {
-    "front": "Goalkeeper saves",
-    "back": "stop"
-   },
-   {
-    "front": "Press dough flat",
-    "back": "change shape"
-   },
-   {
-    "front": "Push a still pram",
-    "back": "start"
-   },
-   {
-    "job": true,
-    "front": "START"
-   },
-   {
-    "job": true,
-    "front": "SPEED UP"
-   },
-   {
-    "job": true,
-    "front": "SLOW DOWN"
-   },
-   {
-    "job": true,
-    "front": "STOP"
-   },
-   {
-    "job": true,
-    "front": "CHANGE DIRECTION"
-   },
-   {
-    "job": true,
-    "front": "CHANGE SHAPE"
-   }
-  ]
- },
- "big": [
-  "When you sit on a chair, is the chair pushing you?",
-  "Why do some things spring back and others don't?",
-  "If there were no air, would a feather and a stone fall together?",
-  "Can you change something's shape without touching it?"
- ],
+ "project": {"title": "Design a catapult", "days": [3, 6, 7], "steps": ["Make a spoon catapult: tie a plastic spoon to a block or a stack of ice-cream sticks with rubber bands.", "Load a paper ball and press down the spoon. Let go.", "Change one thing at a time: press further down, or use two rubber bands.", "Measure how far the ball goes each time in steps.", "Explain which part is bending and springing back, and why a bigger bend throws further."], "outcome": "A working catapult and a chart of what made it shoot further."},
+ "game": {"id": "g1", "title": "Force Cards", "kind": "cards", "players": "2–4", "need": ["scissors to cut the cards"],
+  "rules": ["Cut out the cards. There are action cards (white) and job cards (coloured).", "Act-it-out round: shuffle the action cards. Take one, do the action, and say what the force did. Right: keep the card.", "Matching round: lay the 6 job cards face up. Turn over action cards one at a time; the first to slap the right job card and explain wins the action card.", "Some actions do two jobs. If you can name both, take a bonus card.", "Most cards wins."],
+  "cards": [{"front": "Kick a still ball", "back": "start"}, {"front": "Push a swing higher", "back": "speed up"}, {"front": "Brake a cycle", "back": "slow down"}, {"front": "Catch a ball", "back": "stop"}, {"front": "Tap a rolling marble sideways", "back": "change direction"}, {"front": "Squeeze a sponge", "back": "change shape"}, {"front": "Stretch a hair band", "back": "change shape"}, {"front": "Bat hits a ball", "back": "change direction"}, {"front": "Pull a toy car", "back": "start"}, {"front": "Car rolls onto a towel", "back": "slow down"}, {"front": "Wring a wet cloth", "back": "change shape"}, {"front": "Ball bounces off a wall", "back": "change direction (and shape for a moment)"}, {"front": "Blow a paper boat harder", "back": "speed up"}, {"front": "Goalkeeper saves", "back": "stop"}, {"front": "Press dough flat", "back": "change shape"}, {"front": "Push a still pram", "back": "start"}, {"front": "Paper falls slowly", "back": "slow down (air pushes up)"}, {"front": "Bus turns a corner", "back": "change direction"}, {"job": true, "front": "START"}, {"job": true, "front": "SPEED UP"}, {"job": true, "front": "SLOW DOWN"}, {"job": true, "front": "STOP"}, {"job": true, "front": "CHANGE DIRECTION"}, {"job": true, "front": "CHANGE SHAPE"}]},
+ "big": ["When you sit on a chair, are you pushing it? Is it pushing you?", "Why do some things remember a push and others forget it?", "Is a river strong or gentle?", "If there were no air, how would a feather fall?", "Is faster always better? When is slow better?"],
  "challenge": [
-  {
-   "q": "There's a famous story that Galileo dropped two balls from the Leaning Tower of Pisa. Did that really happen?",
-   "hint": "The only record is from his student, written many years later, and Galileo never wrote about it himself. Many historians doubt it. What we do know: he did careful tests with balls rolling down ramps. Ask: why might a story be remembered even if it isn't true?"
-  },
-  {
-   "q": "People say 'heavy things fall faster'. Is that always wrong?",
-   "hint": "Drop a sheet of paper and a coin: the coin wins. Now scrunch the paper into a tight ball and try again. What changed? It's the air, not the weight."
-  }
+  {"q": "There's a famous story that Galileo dropped two balls from the Leaning Tower of Pisa. Did that really happen?", "hint": "The only record is from his student and first biographer, Vincenzo Viviani, written many years later, and Galileo never wrote about it himself. Many historians doubt it. What we do know: he did careful tests with balls rolling down ramps. Ask: why might a story be remembered even if it isn't true?"},
+  {"q": "People say 'heavy things fall faster'. Is that always wrong?", "hint": "Drop a sheet of paper and a coin: the coin wins. Now scrunch the paper into a tight ball and try again. What changed? It's the air, not the weight. In everyday life, heavy compact things often do land first, which is why the idea lasted so long."},
+  {"q": "We say rubber is 'stretchy' and steel is 'stiff'. Is steel elastic?", "hint": "Yes! Steel springs back too, it just needs a much bigger force to stretch or bend it. That's why springs and the spokes of a cycle wheel are made of steel. Scientists call a material elastic if it returns to its shape, however hard it is to bend."}
  ],
  "perspectives": [
-  {
-   "who": "A potter at the wheel",
-   "view": "A potter uses squashing, pulling and bending forces to shape clay, and the clay stays in shape because it is soft and wet. Ask: why can't you shape a dry pot?"
-  },
-  {
-   "who": "A cricket bowler",
-   "view": "A spin bowler twists the ball so it changes direction when it bounces. Ask: which force did the bowler use?"
-  },
-  {
-   "who": "A river",
-   "view": "A river pushes on its banks every second of every day. Over thousands of years, that push carves valleys and canyons. Ask: is a river strong or weak? What would a riverbank say about the river?"
-  }
+  {"who": "A potter at the wheel", "view": "A potter uses squashing, pulling and bending forces to shape clay, and the clay stays in shape because it is soft and wet. Ask: why can't you shape a dry pot? What does the kiln do to the clay?"},
+  {"who": "A cricket bowler", "view": "A spin bowler twists the ball as it leaves the hand, so it changes direction when it bounces. A fast bowler uses speed. Ask: which forces did the bowler use, and which did the pitch use?"},
+  {"who": "A river", "view": "A river pushes on its banks every second of every day. Over thousands of years, that push carves valleys and canyons. Ask: is a river strong or weak? What would a riverbank say about the river?"},
+  {"who": "A spider", "view": "A spider's web stretches when an insect flies into it and springs back without breaking. Ask: why would a web that didn't stretch be useless to a spider?"}
  ],
  "voices": [
-  {
-   "id": "v1",
-   "who": "Robert Hooke (1635–1703), England",
-   "idea": "Hooke found that a spring stretches more when you hang more weight on it, and that the stretch grows in step with the weight. He first published it as a Latin anagram in 1676 so nobody could steal it, and explained it in 1678: 'as the extension, so the force'.",
-   "then": "It was accepted, and became known as Hooke's law. Hooke used it to design springs for watches.",
-   "now": "Still accepted, with a limit: stretch a spring or band too far and it stops following the rule, stays stretched or snaps.",
-   "status": "accepted",
-   "ask": "Our rubber band followed the pattern for a while. What happened near the end? Why do you think a rule might stop working?",
-   "day": 3
-  },
-  {
-   "id": "v2",
-   "who": "Aristotle (384–322 BCE), Greece, and Galileo Galilei (1564–1642), Italy",
-   "idea": "Aristotle taught that heavier things fall faster than light ones, in proportion to their weight.",
-   "then": "Galileo argued against it. He imagined tying a heavy stone to a light stone: would the pair fall faster (it's heavier) or slower (the light one holds it back)? Both can't be true, so the idea must be wrong. He then tested balls on ramps.",
-   "now": "Galileo was right: without air, everything falls at the same rate. In 1971 astronaut David Scott dropped a hammer and a feather on the Moon, where there's no air, and they landed together.",
-   "status": "accepted",
-   "ask": "Our spoons landed together but a feather didn't. Does that mean Galileo was wrong, or is something else going on?",
-   "day": 4
-  }
+  {"id": "v1", "who": "Robert Hooke (1635–1703), England", "idea": "Hooke found that a spring stretches more when you hang more weight on it, and that the stretch grows in step with the weight. He first published it as a Latin anagram in 1676 so nobody could steal it, and explained it in 1678: 'as the extension, so the force'.", "then": "It was accepted, and became known as Hooke's law. Hooke used it to design springs for watches.", "now": "Still accepted, with a limit: stretch a spring or band too far and it stops following the rule, stays stretched or snaps. Hooke was a brilliant, poor-born experimenter who argued bitterly with Isaac Newton, and no portrait of him survives.", "status": "accepted", "ask": "Our rubber band followed the pattern for a while. What happened near the end? Why do you think a rule might stop working?", "day": 3},
+  {"id": "v2", "who": "Aristotle (384–322 BCE), Greece, and Galileo Galilei (1564–1642), Italy", "idea": "Aristotle taught that heavier things fall faster than light ones, in proportion to their weight.", "then": "Galileo argued against it. He imagined tying a heavy stone to a light stone: would the pair fall faster (it's heavier) or slower (the light one holds it back)? Both can't be true, so the idea must be wrong. He then tested balls on ramps.", "now": "Galileo was right: without air, everything falls at the same rate. In 1971 astronaut David Scott dropped a hammer and a feather on the Moon, where there's no air, and they landed together.", "status": "accepted", "ask": "Our spoons landed together but the flat paper didn't. Does that mean Galileo was wrong, or is something else going on? How did scrunching the paper help us decide?", "day": 5}
  ],
  "books": [
-  {
-   "title": "Forces Make Things Move",
-   "author": "Kimberly Brubaker Bradley",
-   "for": "read together",
-   "age": "5–8",
-   "why": "A good refresher on what forces do."
-  },
-  {
-   "title": "Rosie Revere, Engineer",
-   "author": "Andrea Beaty",
-   "for": "read together",
-   "age": "5–8",
-   "why": "Building, failing and trying again, perfect with the catapult project."
-  },
-  {
-   "title": "Who Was Galileo?",
-   "author": "Patricia Brennan Demuth",
-   "for": "parent reads",
-   "age": "7–10",
-   "why": "The real story of Galileo, to read aloud a chapter at a time."
-  }
+  {"title": "Forces Make Things Move", "author": "Kimberly Brubaker Bradley", "for": "read together", "age": "5–8", "why": "A good refresher on what forces do."},
+  {"title": "Rosie Revere, Engineer", "author": "Andrea Beaty", "for": "read together", "age": "5–8", "why": "Building, failing and trying again, perfect with the catapult project."},
+  {"title": "Who Was Galileo?", "author": "Patricia Brennan Demuth", "for": "parent reads", "age": "7–10", "why": "The real story of Galileo, to read aloud a chapter at a time."}
  ],
  "check": [
-  {
-   "q": "Name four things a force can do.",
-   "a": "Start or stop something, speed it up or slow it down, change its direction, change its shape."
-  },
-  {
-   "q": "Show me squash, stretch, bend and twist.",
-   "a": "Any correct action for each."
-  },
-  {
-   "q": "Which springs back: a sponge or dough?",
-   "a": "The sponge."
-  },
-  {
-   "q": "What happened when we added more coins to the rubber band?",
-   "a": "It stretched more, because the pull was bigger."
-  },
-  {
-   "q": "What turns a ball round when it hits a wall?",
-   "a": "The wall pushes back on it."
-  },
-  {
-   "q": "Do heavy things always fall faster?",
-   "a": "No. Without air they fall together; air slows down light, spread-out things like feathers and paper."
-  }
+  {"q": "Name four things a force can do.", "a": "Start or stop something, speed it up or slow it down, change its direction, change its shape."},
+  {"q": "Show me squash, stretch, bend and twist. Which things spring back?", "a": "Any correct action for each; elastic things like rubber and sponge spring back, plastic things like dough stay changed."},
+  {"q": "What happened when we added more coins to the rubber band?", "a": "It stretched more, because the pull was bigger, until it got near its limit."},
+  {"q": "Two children walk the same 10 steps. One takes 6 seconds and one takes 9. Who is faster?", "a": "The one who took 6 seconds: less time for the same distance."},
+  {"q": "Why is a heavy ball harder to turn than a light one?", "a": "It has more stuff in it, so it needs a bigger force to change how it moves."},
+  {"q": "Do heavy things always fall faster?", "a": "No. Without air they fall together; air slows down light, spread-out things like feathers and flat paper."},
+  {"q": "What turns a ball round when it hits a wall?", "a": "The wall pushes back on it."}
  ],
- "story": {
-  "title": "The Clay That Remembers",
-  "text": [
-   "In the town of Khurja, where the potters' wheels hum from morning till night, there lived a girl called Lakshmi and her grandfather, whom everyone called Baba. Baba's hands were brown and cracked, like the dry riverbed in May, and they could do magic. Lakshmi had watched them a thousand times: a lump of wet grey clay on the spinning wheel, Baba's thumbs pressing down into its middle, his fingers pulling up its sides, and a pot rising out of nothing like a flower opening.",
-   "\"How does the clay know what to become?\" Lakshmi asked.",
-   "\"It doesn't know anything,\" said Baba. \"It only remembers. Every push and every pull my hands give it, it keeps. That's the gift of clay. A rubber ball forgets: squeeze it, let go, and it jumps back, as if nothing happened. But clay remembers every touch.\"",
-   "Lakshmi tried it. She pressed her thumb into a soft lump of clay. When she lifted it, her thumbprint was still there, with every tiny swirl. She squeezed a rubber ball in her other hand and let go. Pop, back to round. The ball had forgotten her already.",
-   "That winter Baba grew tired, and then he grew ill. He stopped going to the wheel. The house was quiet in a way Lakshmi didn't like. In the spring, when the mustard fields were yellow, Baba died.",
-   "Lakshmi didn't want to go near the wheel after that. For weeks it stood still under its cloth. One day her mother asked her to fetch the big old water pot from the storeroom, the one that had been in the family longer than anyone could say. It was heavy and cool, and as Lakshmi carried it into the light, she saw something on its side, near the bottom, that she had never noticed before.",
-   "A handprint. A small one, pressed into the clay before it was baked, a long, long time ago. And next to it, a bigger one.",
-   "\"Whose hands are these?\" she whispered.",
-   "Her mother knelt beside her and put her finger in the small handprint. \"That,\" she said, \"is Baba's hand, when he was about your age. And that big one is his mother's. She was teaching him, like he taught you.\"",
-   "Lakshmi put her own hand next to the small one. It was almost exactly the same size. The clay had remembered Baba's push for sixty years. The fire had made the memory hard, so it could never be squashed out again.",
-   "The next morning Lakshmi took the cloth off the wheel. She wet the clay the way Baba had shown her, and she pushed her thumbs into its middle, and pulled its walls up, slowly, wobbly, a little lopsided. It wasn't a good pot. But before it went into the kiln, she pressed her hand into its side, and her mother pressed hers next to it.",
-   "\"Some things spring back and forget,\" Lakshmi said, looking at the two handprints. \"And some things remember.\"",
-   "Her mother didn't answer. She just held Lakshmi's clay-covered hand for a long time."
-  ],
-  "epiphany": "Forces change shape. Elastic things (rubber) spring back and 'forget' the force; plastic things (wet clay) keep the new shape and 'remember' it; and firing makes the change permanent. The turn is the handprint on the old pot. Underneath: every push leaves a trace somewhere, and the people who taught us live on in what they shaped.",
-  "ask": [
-   "What's the difference between the clay and the rubber ball?",
-   "Why was Baba's handprint still there after sixty years?",
-   "Find three things at home that 'remember' a push and three that 'forget' it.",
-   "What do you think Lakshmi meant at the end?",
-   "Is there anything a person you love has shaped in you?"
-  ]
- },
+ "story": {"title": "The Clay That Remembers", "text": [
+  "In the town of Khurja, where the potters' wheels hum from morning till night, there lived a girl called Lakshmi and her grandfather, whom everyone called Baba. Baba's hands were brown and cracked, like the dry riverbed in May, and they could do magic. Lakshmi had watched them a thousand times: a lump of wet grey clay on the spinning wheel, Baba's thumbs pressing down into its middle, his fingers pulling up its sides, and a pot rising out of nothing like a flower opening.",
+  "\"How does the clay know what to become?\" Lakshmi asked.",
+  "\"It doesn't know anything,\" said Baba. \"It only remembers. Every push and every pull my hands give it, it keeps. That's the gift of clay. A rubber ball forgets: squeeze it, let go, and it jumps back, as if nothing happened. But clay remembers every touch.\"",
+  "Lakshmi tried it. She pressed her thumb into a soft lump of clay. When she lifted it, her thumbprint was still there, with every tiny swirl. She squeezed a rubber ball in her other hand and let go. Pop, back to round. The ball had forgotten her already.",
+  "After that she tested everything. The rope of the well bucket stretched when the bucket was full and shortened again when it was empty: it forgot. The tin lid she sat on by mistake stayed bent: it remembered. Her own cheek, when Baba pinched it, sprang back at once, which made him laugh. \"You are made of rubber,\" he said. \"Good. Children should spring back.\"",
+  "\"Can clay forget, if I want it to?\" she asked.",
+  "\"Only while it's wet,\" said Baba. He squashed her thumbprint flat with the heel of his hand, and it was gone. \"Push it gently and it changes a little. Push it hard and it changes a lot. But once it goes into the fire, it remembers for ever. Fire turns soft memory into stone.\"",
+  "That winter Baba grew tired, and then he grew ill. He stopped going to the wheel. The house was quiet in a way Lakshmi didn't like. In the spring, when the mustard fields were yellow, Baba died.",
+  "Lakshmi didn't want to go near the wheel after that. For weeks it stood still under its cloth. One day her mother asked her to fetch the big old water pot from the storeroom, the one that had been in the family longer than anyone could say. It was heavy and cool, and as Lakshmi carried it into the light, she saw something on its side, near the bottom, that she had never noticed before.",
+  "A handprint. A small one, pressed into the clay before it was baked, a long, long time ago. And next to it, a bigger one.",
+  "\"Whose hands are these?\" she whispered.",
+  "Her mother knelt beside her and put her finger in the small handprint. \"That,\" she said, \"is Baba's hand, when he was about your age. And that big one is his mother's. She was teaching him, like he taught you.\"",
+  "Lakshmi put her own hand next to the small one. It was almost exactly the same size. The clay had remembered Baba's push for sixty years. The fire had made the memory hard, so it could never be squashed out again.",
+  "The next morning Lakshmi took the cloth off the wheel. She wet the clay the way Baba had shown her, and she pushed her thumbs into its middle, and pulled its walls up, slowly, wobbly, a little lopsided. It wasn't a good pot. But before it went into the kiln, she pressed her hand into its side, and her mother pressed hers next to it.",
+  "\"Some things spring back and forget,\" Lakshmi said, looking at the two handprints. \"And some things remember.\"",
+  "Her mother didn't answer. She just held Lakshmi's clay-covered hand for a long time."],
+  "epiphany": "Forces change shape. Elastic things (rubber, rope, a child's cheek) spring back and 'forget' the force; plastic things (wet clay, a bent tin lid) keep the new shape and 'remember' it; a bigger push makes a bigger change; and firing makes the change permanent. The turn is the handprint on the old pot. Underneath: every push leaves a trace somewhere, and the people who taught us live on in what they shaped.",
+  "ask": ["What's the difference between the clay and the rubber ball?", "Why was Baba's handprint still there after sixty years?", "Find three things at home that 'remember' a push and three that 'forget' it.", "What did Baba mean when he said children should spring back?", "Is there anything a person you love has shaped in you?"]},
  "ideas": [
-  {
-   "idea": "Forces can change the shape of things, and some things keep the new shape.",
-   "more": "Rubber, sponges and springs are elastic: they bounce back. Clay, dough and soft metals are plastic: they stay changed. A river's push, over thousands of years, can carve a whole valley."
-  },
-  {
-   "idea": "Changing direction needs a force, even without speeding up or slowing down.",
-   "more": "A ball going round a bend, a bus turning a corner, the Moon going round the Earth: something is always pulling them sideways."
-  },
-  {
-   "idea": "Everything falls at the same rate when there's no air.",
-   "more": "A hammer and a feather landed together on the Moon in 1971. Heavy things don't fall faster; air is what slows the light, spread-out ones."
-  }
+  {"idea": "Forces can change the shape of things, and some things keep the new shape.", "more": "Rubber, sponges and springs are elastic: they bounce back. Clay, dough and soft metals are plastic: they stay changed. A river's push, over thousands of years, can carve a whole valley."},
+  {"idea": "Changing speed or direction always needs a force, and heavy things need bigger ones.", "more": "A ball going round a bend, a bus turning a corner, a loaded truck braking: something is always pushing or pulling them. The more stuff in a thing, the harder it is to change how it moves."},
+  {"idea": "Everything falls at the same rate when there's no air.", "more": "A hammer and a feather landed together on the Moon in 1971. Heavy things don't fall faster; air is what slows the light, spread-out ones."}
  ],
  "unknowns": [
-  "How is spider silk so strong and so stretchy at the same time? For its weight, it is tougher than steel. Scientists are still working out how spiders make it, and nobody can yet make anything as good.",
-  "Why does all matter fall at the same rate? Einstein explained it by saying that falling things follow curves in space and time, but why mass curves space at all, nobody knows."
+  "How is spider silk so strong and so stretchy at the same time? For its weight, it is tougher than steel. Scientists are still working out exactly how spiders spin it, and nobody can yet make anything as good.",
+  "Why does all matter fall at the same rate? Einstein explained it by saying that falling things follow curves in space and time, but why mass curves space at all, nobody knows.",
+  "Why do some materials spring back and others stay put? Scientists understand a lot about atoms sliding or holding on, but they still can't fully predict how a new material will stretch, bend or break without testing it."
  ]
 }

@@ -1,0 +1,1139 @@
+{
+ "key": "combined|sci|5|the-universe-sun-moon-stars-and-planets",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "the-universe-sun-moon-stars-and-planets",
+ "title": "Orbits, satellites and the lines on the globe",
+ "source": "DeepKids Combined. Covers NIOS Class 5, Lesson 11 'Solar System and Earth' (the planets and the Earth; planets and satellites; phases of the Moon; natural and man-made satellites; latitude and longitude; time zones). No textbook needed.",
+ "summary": "Your child discovers that an orbit is a never-ending fall, swings a sock on a string to feel it, and works out why the Moon always shows us the same face and which phase rises at which hour. They meet the moons of other worlds and the satellites humans have launched, including India's first, Aryabhata. Then they put an imaginary grid on the Earth: they find their own latitude from the height of the Pole Star, learn how a carpenter's clock solved the longitude problem, and see why India has one clock time even though the Sun rises nearly two hours earlier in Arunachal than in Kutch.",
+ "builds_on": "In Class 3 your child met the Sun, planets, Moon and stars; in Class 4 they kept a Moon diary, made eclipses with a lamp and read shadows. In Class 4 (Day, night and rhythms of nature) they spun a globe to see day and night. In Class 5 (Day, night and rhythms) they will also see how the Earth's tilt and orbit make seasons. Later, in middle school, they will meet gravity and the life of stars in more detail.",
+ "goals": [
+  "By the end your child can explain the difference between a planet and a satellite, and give examples of natural and artificial satellites.",
+  "By the end your child can explain that an orbit is falling round and round, and why satellites don't fall down.",
+  "By the end your child can predict when each phase of the Moon rises, and explain why we always see the same face.",
+  "By the end your child can find a place using latitude and longitude, and estimate their own latitude from the Pole Star.",
+  "By the end your child can explain time zones (15 degrees for each hour) and Indian Standard Time, and argue for or against a second time zone for India."
+ ],
+ "subconcepts": [
+  "what makes a planet and what makes a satellite",
+  "an orbit is a never-ending fall",
+  "the Moon always shows the same face",
+  "which phase rises when",
+  "natural satellites: the moons of other worlds",
+  "artificial satellites and what they do",
+  "space junk",
+  "the equator, the tropics and the poles",
+  "latitude, and finding it from the Pole Star",
+  "longitude and the prime meridian",
+  "the longitude problem and John Harrison's clock",
+  "time zones: 15 degrees for each hour",
+  "Indian Standard Time and the one-time-zone debate",
+  "light-years and the size of space"
+ ],
+ "words": [
+  [
+   "satellite",
+   "anything that orbits a planet; the Moon is natural, a weather satellite is artificial"
+  ],
+  [
+   "orbit",
+   "the curved path of something falling round and round a bigger body"
+  ],
+  [
+   "gravity",
+   "the pull that every object has on every other; the Earth's gravity keeps the Moon and satellites in orbit"
+  ],
+  [
+   "equator",
+   "the imaginary line round the middle of the Earth, halfway between the poles"
+  ],
+  [
+   "latitude",
+   "how far north or south of the equator a place is, measured in degrees"
+  ],
+  [
+   "longitude",
+   "how far east or west of the prime meridian a place is, measured in degrees"
+  ],
+  [
+   "prime meridian",
+   "the line of 0 degrees longitude, which runs through Greenwich in London"
+  ],
+  [
+   "tropic",
+   "one of two lines of latitude (about 23.4 degrees north and south) where the Sun can be overhead"
+  ],
+  [
+   "time zone",
+   "a region that keeps the same clock time"
+  ],
+  [
+   "chronometer",
+   "a very accurate clock that keeps time even on a rolling ship"
+  ],
+  [
+   "light-year",
+   "the distance light travels in a year, about 9.5 lakh crore kilometres"
+  ],
+  [
+   "space debris",
+   "dead satellites and broken pieces of rockets left circling the Earth"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Planets and the things that circle them",
+   "goal": "Recall Class 4 and sort the solar system into planets, dwarf planets and satellites.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "From the Moon diary to the Moon's path",
+     "mins": 7,
+     "do": "Ask: 'Last year you kept a Moon diary and made an eclipse with a lamp and a bead. What did you find?' Good answers: 'the Moon rises about 50 minutes later each night'; 'a solar eclipse is the Moon's shadow on Earth'. Ask: 'What is the Moon doing that makes it rise later each night?' (Moving along its orbit round the Earth.) Say: 'This year we find out what an orbit really is.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Satellite That Kept Falling",
+     "mins": 15,
+     "do": "Read the story aloud. Stop after the satellite's radio goes quiet and ask: 'If it has no engine and nobody can talk to it, why doesn't it fall down?' Let your child guess, then finish the story and ask the story questions."
+    },
+    {
+     "kind": "talk",
+     "title": "Planet or satellite?",
+     "mins": 10,
+     "do": "Say: 'A planet goes round a star. A satellite goes round a planet.' Name these and your child says planet, dwarf planet or satellite: Earth, the Moon, Pluto, Titan, Mars, Phobos, Jupiter, the International Space Station, Aryabhata (the satellite), Ceres. Ask: 'Is the Earth a satellite of anything?' (It is a planet of the Sun; some would say the Sun's satellite. Words are tools; the movement is what matters.)"
+    },
+    {
+     "kind": "think",
+     "title": "How far is far?",
+     "mins": 10,
+     "do": "Say: 'Light is the fastest thing there is. It goes round the Earth more than seven times in one second. It reaches the Moon in just over 1 second, the Sun in about 8 minutes, Neptune in about 4 hours, and the next nearest star in more than 4 years. That distance, the distance light goes in a year, is a light-year.' Ask: 'When you look at a star that is 100 light-years away, are you seeing it as it is now?' (No, as it was 100 years ago: the light left before your great-grandparents were born.)"
+    },
+    {
+     "kind": "review",
+     "title": "One line",
+     "mins": 3,
+     "do": "Your child writes in their notebook: 'A satellite is ____. My favourite satellite is ____ because ____.'"
+    }
+   ],
+   "need": [
+    "a notebook"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Falling round the world",
+   "goal": "Feel that an orbit is a fall that keeps missing.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Throwing harder",
+     "mins": 6,
+     "do": "Outside, throw a soft ball gently forwards: it curves down and lands near. Throw harder: it lands further. Ask: 'What if you could throw it so hard that the ground curved away underneath it before it landed?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Newton's cannon",
+     "mins": 10,
+     "do": "Draw a big circle (the Earth) with a mountain on top and a cannon on it. Draw shots: a slow one that lands close; a faster one that lands far; a very fast one that falls all the way round and comes back. Say: 'Isaac Newton drew this in the 1680s. A satellite is falling all the time, but it is going sideways so fast (about 8 km every second for a low satellite) that the Earth's curve falls away underneath it. It keeps falling and keeps missing.' Ask: 'Why do astronauts float in the space station?' (They and the station are falling together.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Sock on a string",
+     "mins": 15,
+     "do": "Do Experiment e1 outdoors.",
+     "ref": "e1"
+    },
+    {
+     "kind": "act",
+     "title": "Why we always see the same face",
+     "mins": 10,
+     "do": "Put a chair in the middle (the Earth). Your child is the Moon and must always face the chair while walking once round it. Ask a helper to watch: 'Did the Moon spin?' (Yes, once, because it faced every wall of the room in turn.) Say: 'The Moon spins exactly once each time it goes round us, so the same face always points at Earth. The Earth's pull slowed its spin down to match, long ago.'"
+    },
+    {
+     "kind": "review",
+     "title": "Orbit in a sentence",
+     "mins": 4,
+     "do": "Ask: 'What two things make an orbit?' Good answer: 'a pull towards the middle and a fast sideways movement'."
+    }
+   ],
+   "need": [
+    "a soft ball",
+    "an old sock with a small ball or folded cloth inside, tied to 1 metre of string",
+    "a chair",
+    "paper"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Which Moon rises when?",
+   "goal": "Use the lamp-and-ball model to predict when each phase rises and sets.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do you remember?",
+     "mins": 5,
+     "do": "Ask your child to draw the eight phases in order from Amavasya to Amavasya, from memory or from the Class 4 Moon diary. Correct gently with the model if needed."
+    },
+    {
+     "kind": "exp",
+     "title": "The Moon clock",
+     "mins": 20,
+     "do": "Do Experiment e2.",
+     "ref": "e2"
+    },
+    {
+     "kind": "think",
+     "title": "Two Moon months",
+     "mins": 10,
+     "do": "Say: 'The Moon goes round the Earth in about 27 and a third days. But from full Moon to full Moon takes about 29 and a half days. Why the extra two days?' Use the lamp and ball: walk the Earth a little way round the lamp while the Moon goes round once. Show that the Moon has to go a little further to line up with the Sun again. Ask: 'So which month do calendars use?' (The 29 and a half day one, from phase to phase.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Your child does the core worksheet ws1.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a lamp",
+    "a white ball on a stick",
+    "the core worksheet"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Moons and machines",
+   "goal": "Meet natural and artificial satellites, and the junk around the Earth.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Moons of other worlds",
+     "mins": 8,
+     "do": "Say: 'Our solar system has hundreds of known moons. Jupiter's moon Europa has a salty ocean under its ice. Saturn's moon Titan has rivers and lakes, but of liquid methane, not water, and a thick orange sky. Mars has two tiny potato-shaped moons, Phobos and Deimos.' Ask: 'Which would you visit, and why?'"
+    },
+    {
+     "kind": "talk",
+     "title": "What do artificial satellites do?",
+     "mins": 10,
+     "do": "Ask your child to guess before you tell. Weather satellites (like India's INSAT series) watch clouds and cyclones; communication satellites carry TV and phone signals; navigation satellites (India's NavIC, the American GPS) tell your phone where it is; Earth-watching satellites map crops, forests and floods; telescopes in space look far away. India's first satellite, Aryabhata, went up in 1975 and was on the back of the old ₹2 note. Ask: 'Which of these did you use today without knowing?'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Spot a satellite",
+     "mins": 12,
+     "do": "Look up in a free satellite-tracking site or app when the International Space Station will pass over your town (it is visible about an hour after sunset or before sunrise). Go out together: it looks like a bright, steady star moving smoothly across the sky in a few minutes, with no blinking lights. If there is no pass this week, watch for any slow, steady moving dot after dusk; many are satellites catching sunlight."
+    },
+    {
+     "kind": "talk",
+     "title": "Space junk",
+     "mins": 15,
+     "do": "Tell your child about Voice v2, Donald Kessler and space debris. Ask the voice question and talk about who should clean up.",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "a phone or computer to check satellite passes",
+    "a dark place after sunset"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Lines of latitude",
+   "goal": "Learn the equator, tropics and poles, and find your latitude from the Pole Star.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Where are you?",
+     "mins": 5,
+     "do": "Ask: 'If you had to tell a friend on the other side of the world exactly where your house is on Earth, with no names of places, how would you do it?' Let them invent a system."
+    },
+    {
+     "kind": "act",
+     "title": "Draw the grid on a ball",
+     "mins": 15,
+     "do": "Do Activity a1: draw the equator, tropics, poles and a few lines of latitude and longitude on a ball or balloon, and mark India.",
+     "ref": "a1"
+    },
+    {
+     "kind": "act",
+     "title": "Find your latitude from the Pole Star",
+     "mins": 15,
+     "do": "Do Activity a2 after dark on a clear night (or plan it for the next clear night).",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "The Tropic of Cancer across India",
+     "mins": 10,
+     "do": "Say: 'The Tropic of Cancer, at about 23.4 degrees north, crosses eight Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. South of it, the noon Sun can be straight overhead on two days a year (remember Zero Shadow Day). North of it, never.' Find the line on a map of India. Ask: 'Is your home north or south of it?'"
+    }
+   ],
+   "need": [
+    "a ball or round balloon",
+    "a marker pen",
+    "a map of India",
+    "a clear night and a view to the north"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The longitude problem",
+   "goal": "Find out why east and west were so hard to measure, and how a clock solved it.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Latitude results",
+     "mins": 5,
+     "do": "Look at last night's Pole Star measurement. Compare with your town's real latitude (look it up). Ask: 'How close were you? What made it hard?'",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "A clock that saved sailors",
+     "mins": 15,
+     "do": "Tell your child about Voice v1, John Harrison and the longitude problem. Explain the idea: the Earth turns 15 degrees every hour, so if you know the time at home and the time where you are (from the noon Sun), the difference tells you how far east or west you have gone. Ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "Coordinate treasure hunt",
+     "mins": 15,
+     "do": "Do Activity a3 with an atlas or online map.",
+     "ref": "a3"
+    },
+    {
+     "kind": "think",
+     "title": "Who drew the zero line?",
+     "mins": 10,
+     "do": "Say: 'Latitude has a natural zero: the equator, halfway between the poles. Longitude has no natural zero. In 1884, at a meeting in Washington, delegates from 25 countries chose the line through Greenwich, in London, because Britain had the most ships and sea charts. France did not vote for it and used its own line through Paris for many more years.' Ask: 'If India had chosen, where might the zero line have gone?' (Ujjain was the zero line of many old Indian astronomy books.)"
+    }
+   ],
+   "need": [
+    "an atlas or a map app",
+    "the treasure hunt list"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "One country, one clock?",
+   "goal": "Understand time zones and weigh up the debate about Indian Standard Time.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Calling a cousin",
+     "mins": 5,
+     "do": "Ask: 'If it is 8 pm here, what time is it for someone in London? In New York? In Tokyo?' Look it up together, or call a relative abroad and ask. (London is 4½ or 5½ hours behind India, depending on the season.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Torch, globe and clocks",
+     "mins": 15,
+     "do": "Do Experiment e3 with stickers for India, London, New York and Tokyo.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Indian Standard Time",
+     "mins": 7,
+     "do": "Say: 'India stretches from about 68 degrees east to about 97 degrees east: about 29 degrees, nearly two hours of the Sun's time. But we use one clock, Indian Standard Time, set by the line at 82.5 degrees east near Mirzapur in Uttar Pradesh: 5 and a half hours ahead of Greenwich.' Ask: 'In June the Sun rises around 4:30 am in parts of Arunachal Pradesh and after 6 am in western Gujarat. What problems might that cause?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Should India have two time zones?",
+     "mins": 10,
+     "do": "Tell your child about Voice v3, the time-zone debate. Ask the voice question and have a short debate: your child argues one side, you argue the other, then swap.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 8,
+     "do": "Your child does the stretch worksheet ws2, using the 15-degrees-an-hour rule.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "a ball or globe",
+    "a torch",
+    "4 small stickers",
+    "the stretch worksheet"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Grid Quest, check and teach it back",
+   "goal": "Put it all together and teach it back.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Grid Quest",
+     "mins": 12,
+     "do": "Play the card game g1.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Your child tries the challenge worksheet ws3.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "End check",
+     "mins": 9,
+     "do": "Ask the check questions aloud."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 12,
+     "do": "Your child teaches a family member with the sock-on-a-string and the gridded ball: what an orbit is, what satellites do, how latitude and longitude find a place, and why the clock is different in London. Finish the project: the 'Postcard from orbit'. The listener asks one hard question."
+    }
+   ],
+   "need": [
+    "the Grid Quest cards",
+    "the challenge worksheet",
+    "the sock-on-a-string",
+    "the gridded ball"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Satellites and the Moon",
+   "day": 3,
+   "sections": [
+    [
+     "A. Planet or satellite?",
+     [
+      {
+       "t": "sort",
+       "p": "Sort them.",
+       "items": [
+        "Earth",
+        "the Moon",
+        "Titan",
+        "Mars",
+        "NavIC",
+        "Jupiter",
+        "Phobos",
+        "the International Space Station"
+       ],
+       "cats": [
+        "planet",
+        "natural satellite",
+        "artificial satellite"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A satellite stays in orbit because it is always ____ but moving sideways fast enough to miss.",
+       "a": [
+        "falling"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. The Moon",
+     [
+      {
+       "t": "mcq",
+       "p": "Why do we always see the same face of the Moon?",
+       "opts": [
+        "the Moon doesn't spin",
+        "it spins once each time it goes round the Earth",
+        "the other side is dark"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which Moon rises at sunset?",
+       "opts": [
+        "new Moon",
+        "full Moon",
+        "half Moon"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "From one full Moon to the next takes about...",
+       "opts": [
+        "7 days",
+        "27 days",
+        "29 and a half days"
+       ],
+       "a": 2
+      },
+      {
+       "t": "match",
+       "p": "Match.",
+       "pairs": [
+        [
+         "weather satellite",
+         "watches clouds and cyclones"
+        ],
+        [
+         "navigation satellite",
+         "tells your phone where it is"
+        ],
+        [
+         "communication satellite",
+         "carries TV and phone signals"
+        ],
+        [
+         "space telescope",
+         "looks far into space"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Why do astronauts float in the space station, even though the Earth's gravity is still pulling on them?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "When you let go of the spinning sock, it flew off in a straight line. What does this tell you about what keeps the Moon going round?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "The grid and the clock",
+   "day": 7,
+   "sections": [
+    [
+     "A. Latitude and longitude",
+     [
+      {
+       "t": "fill",
+       "p": "The equator is at ____ degrees latitude.",
+       "a": [
+        "0",
+        "zero"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "The Pole Star is about 28 degrees above the horizon. Your latitude is about...",
+       "opts": [
+        "28 degrees north",
+        "28 degrees east",
+        "62 degrees north"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which line of longitude is 0 degrees?",
+       "opts": [
+        "the equator",
+        "the prime meridian through Greenwich",
+        "the Tropic of Cancer"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match the place to its rough location.",
+       "pairs": [
+        [
+         "Delhi",
+         "28.6°N, 77.2°E"
+        ],
+        [
+         "Chennai",
+         "13.1°N, 80.3°E"
+        ],
+        [
+         "Srinagar",
+         "34.1°N, 74.8°E"
+        ],
+        [
+         "Kanyakumari",
+         "8.1°N, 77.5°E"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Time zones",
+     [
+      {
+       "t": "fill",
+       "p": "The Earth turns ____ degrees every hour.",
+       "a": [
+        "15",
+        "fifteen"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Place A is 30 degrees east of place B. Its Sun time is...",
+       "opts": [
+        "2 hours ahead",
+        "2 hours behind",
+        "the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Indian Standard Time is set at...",
+       "opts": [
+        "82.5°E, near Mirzapur",
+        "0°, Greenwich",
+        "77°E, Delhi"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Why couldn't sailors in the 1700s find their longitude from the stars alone, the way they found latitude from the Pole Star?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Give one reason for and one reason against India having two time zones.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking in orbits",
+   "day": 8,
+   "sections": [
+    [
+     "A. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What would happen to the Moon if the Earth's gravity suddenly switched off? Use the sock-on-a-string to explain.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A satellite is moving too slowly. What will happen to it? What if it moves much faster than it needs to?",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "You are on the equator. Where in the sky is the Pole Star?",
+       "opts": [
+        "overhead",
+        "on the northern horizon",
+        "it can't be seen at all"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "You fly from Delhi to London, leaving at 2 am India time. The flight takes 9 hours. What is the London clock time when you land? (London is 4½ hours behind India in summer.)",
+       "opts": [
+        "11 am",
+        "6:30 am",
+        "1:30 pm"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Who decides?",
+     [
+      {
+       "t": "sort",
+       "p": "Natural or made by people?",
+       "items": [
+        "the equator",
+        "the prime meridian at Greenwich",
+        "the poles",
+        "Indian Standard Time",
+        "the Tropic of Cancer",
+        "time zones"
+       ],
+       "cats": [
+        "set by nature (the Earth's shape, spin and tilt)",
+        "chosen by people"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why was the prime meridian put through Greenwich in 1884?",
+       "opts": [
+        "it is the centre of the Earth",
+        "Britain had the most ships and sea charts using it",
+        "it is on the equator"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "India's first satellite, launched in 1975, was named after the astronomer ____.",
+       "a": [
+        "Aryabhata",
+        "Aryabhatta"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Thousands of new satellites are being launched to bring internet everywhere. Astronomers say their trails spoil telescope pictures of the sky. Who should decide what goes into orbit? Give your view and one fair point for the other side.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Sock on a string",
+   "day": 2,
+   "question": "What keeps something moving in a circle?",
+   "need": [
+    "an old sock with a soft ball or folded cloth inside",
+    "1 metre of string tied tightly round the sock's neck",
+    "an open space with nobody nearby"
+   ],
+   "steps": [
+    "Hold the end of the string and swing the sock in a flat circle over your head, slowly at first.",
+    "Feel the pull on your hand.",
+    "Swing faster. Does the pull change?",
+    "In a safe direction, let go of the string at one point in the circle. Watch which way the sock flies."
+   ],
+   "predict": "Ask: 'When I let go, will the sock fly straight out away from me, or straight ahead along the circle?'",
+   "observe": "The pull on your hand gets stronger as you swing faster. When you let go, the sock flies off in a straight line in the direction it was moving at that moment, not straight outwards.",
+   "why": "Anything moving keeps going in a straight line unless something pulls or pushes it. The string pulls the sock towards your hand, bending its path into a circle. For the Moon and satellites, gravity is the string: it pulls them towards the Earth all the time, bending their straight path into an orbit. If gravity vanished, the Moon would fly off in a straight line.",
+   "safety": "Use only a soft sock. Swing it outdoors, away from people, windows and faces; a grown-up chooses when and where to let go.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "The Moon clock",
+   "day": 3,
+   "question": "At what time of day does each phase of the Moon rise?",
+   "need": [
+    "a lamp (the Sun)",
+    "a white ball on a stick (the Moon)",
+    "your child's head (the Earth)"
+   ],
+   "steps": [
+    "Your child stands facing the lamp. Say: 'Your nose is your home. Facing the lamp is noon. Facing away is midnight. Turning left (anticlockwise), the lamp disappearing on your right is sunset; appearing on your left is sunrise.'",
+    "Hold the ball in the full Moon position (opposite the lamp, a little above the head). Your child turns slowly. Ask: 'When does the full Moon come into view on your left (rise)?' (At sunset.) 'When is it highest?' (Midnight.)",
+    "Repeat with the ball at first quarter (90 degrees to the left of the lamp), new Moon (towards the lamp) and last quarter.",
+    "Record in a table: phase / rises / highest / sets."
+   ],
+   "predict": "Ask your child to guess first: 'Can you see a full Moon at noon? When does the half Moon rise?'",
+   "observe": "Full Moon rises at sunset and sets at sunrise. New Moon rises and sets with the Sun, so it is lost in the glare. First quarter rises around noon and is high at sunset. Last quarter rises around midnight and is high at sunrise.",
+   "why": "Each phase is a different angle between the Sun, Earth and Moon, so each phase is on a different side of the Earth from the Sun and rises at a different time. That is why you can see a half Moon in the afternoon sky, and why the full Moon is up all night.",
+   "safety": "Don't touch the hot bulb.",
+   "time": "20 min"
+  },
+  {
+   "id": "e3",
+   "title": "Torch, globe and clocks",
+   "day": 7,
+   "question": "Why is it a different time in different places?",
+   "need": [
+    "a ball or globe",
+    "a torch",
+    "4 stickers: India, London, New York, Tokyo",
+    "a sheet of paper and pen"
+   ],
+   "steps": [
+    "Stick the four labels in the right places (a globe or atlas helps).",
+    "Shine the torch at the ball from one side. Turn the ball so the torch shines straight at India: noon in India.",
+    "Ask: 'Where is it sunset? Midnight? Sunrise?' (Tokyo is in the afternoon, London in the early morning, New York in the night.)",
+    "Turn the ball anticlockwise (seen from the North Pole) a little at a time. Count how long until London reaches noon (about 4½–5½ hours of turning)."
+   ],
+   "predict": "Ask: 'When it is noon in India, is it morning or evening in London?'",
+   "observe": "Places to the east of India (Tokyo) reach noon earlier; places to the west (London, New York) later. Only half the globe is lit at any moment.",
+   "why": "The Earth turns 360 degrees in 24 hours, which is 15 degrees every hour. A place 15 degrees east of you sees noon one hour earlier. Countries set their clocks to match their part of the turning world, giving us time zones.",
+   "safety": "",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Draw the grid on a ball",
+   "day": 5,
+   "mins": 15,
+   "need": [
+    "a ball or round balloon",
+    "a marker",
+    "a strip of paper to measure halfway"
+   ],
+   "steps": [
+    "Mark a North Pole and a South Pole at the top and bottom.",
+    "Draw the equator round the middle, halfway between them. Label it 0°.",
+    "Draw the Tropic of Cancer a quarter of the way from the equator to the North Pole (about 23°), and the Tropic of Capricorn the same distance south.",
+    "Draw a line from pole to pole: the prime meridian (0° longitude). Draw three more from pole to pole, a quarter of the way round each time: 90°E, 180°, 90°W.",
+    "Mark India just above the Tropic of Cancer's southern side, about 80°E, near the 90°E line."
+   ],
+   "outcome": "A home-made globe with the main lines of latitude and longitude, and India in its place."
+  },
+  {
+   "id": "a2",
+   "title": "Find your latitude from the Pole Star",
+   "day": 5,
+   "mins": 15,
+   "need": [
+    "a clear night",
+    "a view to the north",
+    "your fist"
+   ],
+   "steps": [
+    "Find the Saptarishi and follow the two pointer stars to Dhruva Tara, the Pole Star (as in Class 3).",
+    "Stretch your arm out straight and make a fist. One fist at arm's length covers about 10 degrees of sky.",
+    "Starting from the horizon directly below the Pole Star, stack fists one above the other until you reach it. Count.",
+    "Multiply by 10: that is roughly your latitude in degrees north.",
+    "Write it down and compare it with the real latitude of your town tomorrow."
+   ],
+   "outcome": "Your child measures their own latitude with nothing but a fist and a star, as sailors did for centuries."
+  },
+  {
+   "id": "a3",
+   "title": "Coordinate treasure hunt",
+   "day": 6,
+   "mins": 15,
+   "need": [
+    "an atlas or a map app that shows latitude and longitude"
+   ],
+   "steps": [
+    "Give your child these coordinates and ask them to find each place: 27.2°N 78.0°E (Agra); 9.9°N 76.3°E (Kochi); 25.6°N 85.1°E (Patna, near Aryabhata's Kusumapura); 51.5°N 0.0° (Greenwich); 0.0° 78.5°W (near Quito, on the equator); 90°N (the North Pole).",
+    "Then your child writes the coordinates of your own town, and of a place a relative lives.",
+    "Ask: 'Which places are east of Greenwich and which west? North of the equator or south?'"
+   ],
+   "outcome": "Your child can read and write a place's latitude and longitude."
+  }
+ ],
+ "project": {
+  "title": "A postcard from orbit",
+  "days": [
+   1,
+   4,
+   7,
+   8
+  ],
+  "steps": [
+   "Imagine you are a satellite, like Aryabhata, orbiting the Earth.",
+   "On a card, draw the Earth from space with the line between day and night across it.",
+   "On the back, write a postcard home: what kind of satellite you are, how fast you are going, why you don't fall, and what time it is in three places you can see below.",
+   "Add your home's latitude and longitude as the 'address'."
+  ],
+  "outcome": "A postcard that shows your child understands orbits, satellites, latitude, longitude and time zones."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Grid Quest",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors",
+   "an atlas or map app to check"
+  ],
+  "rules": [
+   "Cut out and shuffle the cards. Place them face down.",
+   "Take turns to turn one over and read it aloud.",
+   "For a place card, everyone guesses the place. Closest guess wins the card; check in an atlas.",
+   "For a question card, the reader's left-hand neighbour answers first. Right answer wins the card.",
+   "Most cards at the end wins."
+  ],
+  "cards": [
+   {
+    "front": "28.6°N, 77.2°E",
+    "back": "Delhi"
+   },
+   {
+    "front": "19.1°N, 72.9°E",
+    "back": "Mumbai"
+   },
+   {
+    "front": "22.6°N, 88.4°E",
+    "back": "Kolkata"
+   },
+   {
+    "front": "13.1°N, 80.3°E",
+    "back": "Chennai"
+   },
+   {
+    "front": "34.1°N, 74.8°E",
+    "back": "Srinagar"
+   },
+   {
+    "front": "8.1°N, 77.5°E",
+    "back": "Kanyakumari"
+   },
+   {
+    "front": "26.1°N, 91.7°E",
+    "back": "Guwahati"
+   },
+   {
+    "front": "11.6°N, 92.7°E",
+    "back": "Port Blair"
+   },
+   {
+    "front": "51.5°N, 0°",
+    "back": "Greenwich, London"
+   },
+   {
+    "front": "35.7°N, 139.7°E",
+    "back": "Tokyo"
+   },
+   {
+    "front": "40.7°N, 74.0°W",
+    "back": "New York"
+   },
+   {
+    "front": "33.9°S, 151.2°E",
+    "back": "Sydney"
+   },
+   {
+    "front": "1.3°S, 36.8°E",
+    "back": "Nairobi"
+   },
+   {
+    "front": "90°N",
+    "back": "the North Pole"
+   },
+   {
+    "front": "How many degrees does the Earth turn in one hour?",
+    "back": "15"
+   },
+   {
+    "front": "What keeps a satellite in orbit?",
+    "back": "gravity pulling it while it moves sideways fast"
+   },
+   {
+    "front": "Which phase of the Moon rises at sunset?",
+    "back": "full Moon"
+   },
+   {
+    "front": "Name India's navigation satellite system.",
+    "back": "NavIC"
+   },
+   {
+    "front": "Name a moon with an ocean under its ice.",
+    "back": "Europa (also Enceladus)"
+   },
+   {
+    "front": "How long does sunlight take to reach Earth?",
+    "back": "about 8 minutes"
+   },
+   {
+    "front": "Who built the clock that solved the longitude problem?",
+    "back": "John Harrison"
+   },
+   {
+    "front": "What is Indian Standard Time ahead of Greenwich?",
+    "back": "5 hours 30 minutes"
+   },
+   {
+    "front": "Why do we always see the same side of the Moon?",
+    "back": "it spins once each orbit"
+   },
+   {
+    "front": "What was India's first satellite called?",
+    "back": "Aryabhata (1975)"
+   }
+  ]
+ },
+ "big": [
+  "Space is shared by everyone. Should anyone be allowed to fill it with satellites?",
+  "Is time something nature gives us or something people make up?",
+  "The zero line of longitude runs through London because of who had the most ships. Should we keep it?",
+  "When you look at the stars you are seeing the past. Is there any way to see the present?"
+ ],
+ "challenge": [
+  {
+   "q": "'There is no gravity in space; that's why astronauts float.' Is that right?",
+   "hint": "At the height of the space station, the Earth's gravity is about nine-tenths as strong as on the ground. Astronauts float because they and the station are falling round the Earth together, like you would float inside a falling lift. Without gravity, the station would fly off in a straight line."
+  },
+  {
+   "q": "'You can see the Great Wall of China from the Moon.' Can you?",
+   "hint": "No. From the Moon, the whole Earth is about the size of a coin held at arm's length; no single building can be seen. Even from the space station, the Wall is very hard to see because it is narrow and the same colour as the land around it. Astronauts, including China's first, Yang Liwei, have said they could not see it."
+  },
+  {
+   "q": "'Greenwich is at 0° because it is the middle of the world.' Is it?",
+   "hint": "There is no natural middle for east and west. The line was chosen at a 1884 meeting in Washington, mainly because most of the world's ships already used British charts. France kept using Paris for decades. Every line of longitude is just as good a place to start."
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Tea garden workers in Assam",
+   "view": "For about 150 years many tea gardens in Assam kept 'chai bagaan time', an hour ahead of IST, to make use of the early sunrise. Ask: who should a clock be set for, the capital or the people who live by the light?"
+  },
+  {
+   "who": "Astronomers",
+   "view": "Many astronomers worry that thousands of new internet satellites leave bright streaks across telescope pictures and radio signals that drown out faint ones from space. Ask: is a dark, quiet sky a shared treasure, like clean air? Who speaks for it?"
+  },
+  {
+   "who": "Fisherfolk on India's coasts",
+   "view": "Many fishers now use NavIC or GPS on their phones to find fishing spots and get cyclone warnings sent by satellite, while older fishers still read the stars, waves and birds. Ask: what might each kind of knowledge notice that the other misses?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "John Harrison (1693–1776), England",
+   "idea": "A self-taught carpenter and clockmaker, he spent over 40 years building sea clocks accurate enough to keep home time on a rolling ship. On a 1761–1762 test voyage to Jamaica, his watch H4 lost only about 5 seconds in 81 days. Comparing the clock's home time with local noon gave a ship's longitude.",
+   "then": "The Board of Longitude, run by astronomers and mathematicians, favoured a method using the Moon's position among the stars and doubted a mere clockmaker. They kept asking for more tests and paid him the full prize money only slowly; King George III himself helped Harrison win most of it in 1773.",
+   "now": "Harrison's idea won: the marine chronometer became the standard way to find longitude until radio and satellites. His clocks are in the Royal Observatory at Greenwich.",
+   "status": "accepted",
+   "ask": "The experts favoured the method that used their own skills. Why might experts find it hard to accept a solution from an outsider? How should a new idea be tested fairly?",
+   "day": 6
+  },
+  {
+   "id": "v2",
+   "who": "Donald Kessler (born 1940), NASA, USA",
+   "idea": "In 1978 he and Burton Cour-Palais warned that if there were enough objects in low orbit, collisions would make pieces that cause more collisions, in a chain reaction that could make some orbits unusable. This is now called the Kessler syndrome.",
+   "then": "Many thought it was a far-off worry.",
+   "now": "Today, tens of thousands of tracked pieces of debris circle the Earth, and the space station sometimes has to move to dodge them. Scientists agree debris is a serious problem; they debate how close we are to a runaway chain reaction and how to clean up. India's own 2019 anti-satellite test, Mission Shakti, also created debris, most of which has since fallen and burned up.",
+   "status": "debated",
+   "ask": "Space has no owner and no rubbish collector. Who should pay to clean up a mess that many countries made?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Scientists at India's National Physical Laboratory, who keep Indian Standard Time, and their critics",
+   "idea": "In 2018, scientists at CSIR–National Physical Laboratory, which keeps India's official time, published a proposal for two time zones: one for most of India and one, an hour ahead, for the Northeast, to match the early sunrise there and save electricity.",
+   "then": "Others, including government committees over the years, have argued that one time zone keeps the country together and avoids confusion for trains, flights and offices; China, which is even wider, uses a single time zone.",
+   "now": "India still has one time zone. The argument is not about the science, which everyone agrees on (the Sun rises nearly two hours earlier in the far east), but about what matters most.",
+   "status": "debated",
+   "ask": "Should clocks follow the Sun where people live, or be the same for the whole country? Who gains and who loses each way?",
+   "day": 7
+  }
+ ],
+ "books": [
+  {
+   "title": "Longitude",
+   "author": "Dava Sobel",
+   "for": "parent reads",
+   "age": "adult; read parts aloud to 9+",
+   "why": "The true story of John Harrison and the longitude prize, short and gripping; read the chapter about H4's voyage aloud."
+  },
+  {
+   "title": "Hidden Figures Young Readers' Edition",
+   "author": "Margot Lee Shetterly",
+   "for": "parent reads",
+   "age": "8–12",
+   "why": "The Black women mathematicians whose calculations sent American astronauts into orbit and back, and who were long left out of the story."
+  },
+  {
+   "title": "Space Encyclopedia",
+   "author": "David A. Aguilar",
+   "for": "read together",
+   "age": "8–12",
+   "why": "A National Geographic book with rich pictures of moons, planets, satellites and the scale of space."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is the difference between a planet and a satellite?",
+   "a": "A planet goes round a star; a satellite goes round a planet."
+  },
+  {
+   "q": "Why doesn't a satellite fall to Earth?",
+   "a": "It is falling, but it is moving sideways so fast that the Earth curves away beneath it, so it keeps missing."
+  },
+  {
+   "q": "Give two uses of artificial satellites.",
+   "a": "For example: weather forecasting, phones and TV, navigation (NavIC, GPS), mapping crops and floods, telescopes."
+  },
+  {
+   "q": "When does a full Moon rise?",
+   "a": "At about sunset."
+  },
+  {
+   "q": "What is latitude? How could you find yours at night?",
+   "a": "How far north or south of the equator you are. Measure how high the Pole Star is above the horizon."
+  },
+  {
+   "q": "What is the prime meridian?",
+   "a": "The line of 0 degrees longitude, through Greenwich in London."
+  },
+  {
+   "q": "Why do places have different times?",
+   "a": "The Earth turns 15 degrees every hour, so places to the east see the Sun earlier."
+  },
+  {
+   "q": "Where is Indian Standard Time set, and how far ahead of Greenwich is it?",
+   "a": "82.5°E, near Mirzapur; 5 hours 30 minutes ahead."
+  }
+ ],
+ "story": {
+  "title": "The Satellite That Kept Falling",
+  "text": [
+   "I was born in a shed in Bangalore. Not a grand laboratory, just a set of low buildings in an industrial area at Peenya, where young engineers in short-sleeved shirts worked late into the night, drinking strong coffee out of steel tumblers, building me piece by piece. I had twenty-six sides, like a cut jewel, and almost every side was covered in tiny blue solar cells. I weighed about as much as five grown men. They called me Aryabhata, after the astronomer who said, fifteen hundred years ago, that the Earth turns.",
+   "In April 1975, they packed me up and flew me to a launch site far away in the Soviet Union, because India did not yet have a rocket big enough. On the nineteenth, the rocket roared, and I was shaken and squeezed and flung upwards, and then, quite suddenly, everything was silent, and I was alone above the world.",
+   "I want to tell you what I saw.",
+   "The Earth was not below me, the way a floor is below you. It was beside me, enormous, filling half of everything, blue and white and brown and impossibly bright. And there was a line across it. On one side was day, and on the other side was night, and the line between them was soft, like the edge of a shadow on a wall. As I went round, I saw that line move. Very slowly, it swept across the land. I watched it cross Arunachal and Assam, and the forests there lit up gold, and it was morning. Then it crossed the plains of the Ganga, and then, almost two hours later, it reached the salt flats of Kutch. The whole of India had one clock, but the Sun did not care about clocks. It woke the east first.",
+   "I went round the world in about an hour and a half. That meant I saw a sunrise and a sunset roughly every hour and a half: fifteen sunrises a day. I counted them. It was the kind of thing you could count, up there, with nothing to do but go round.",
+   "At first I was busy. I talked to the engineers below by radio, sending them numbers about the Sun and the sky and the air at the top of the world. They were so happy. I could hear it in the way they talked back.",
+   "Then, after only a few days, something went wrong with my power. My voice grew weak, and then it stopped. I could not hear them any more, and they could not hear me.",
+   "I thought: now I will fall. I had no engine. I had no wings. I had no one to talk to. Surely I would come crashing down onto the Earth, which was right there, pulling at me every moment. I could feel it, the Earth's pull, never stopping, like a hand on my sleeve.",
+   "But I did not crash. I went round. And round. And round.",
+   "It took me a long time to understand. I was falling. I had been falling from the very first moment. The Earth was pulling me down, and I was falling towards it, all the time, every second. But I was also moving sideways, fast, eight kilometres every second, and the Earth is round, so as I fell, the ground curved away beneath me. I fell, and missed. Fell, and missed. That is what an orbit is. Not floating. Not resting. Falling, for ever, and never quite arriving.",
+   "I was not alone for long. Others came. A small one from India in 1979, then more, then many, then a sky full of them: weather satellites that watched the great spiral cyclones forming over the Bay of Bengal, so people on the coast could be warned; communication satellites that carried voices from one side of the world to the other. Even the Moon, I realised, was doing what I did. It had been falling round the Earth for four and a half billion years. I was in good company.",
+   "Down below, I knew, they had put my picture on the two-rupee note. Children folded me into their pockets and bought sweets with me. I liked to think of that.",
+   "I fell round the Earth for nearly seventeen years. More than ninety thousand times round. And all that time, very slowly, the thin, thin air at the top of the sky was rubbing against me, stealing a little of my speed. Each orbit I was a tiny bit lower. Each orbit, the falling won a little more than the missing.",
+   "In February 1992, I came home.",
+   "The air grew thick around me and hot, hotter than anything, and I began to glow. I broke apart into a hundred bright sparks streaking across the dark. I do not know who saw me. Maybe nobody. Maybe a fisherman far out at sea, looking up from his boat, or a child on a roof who could not sleep, who saw a shooting star and made a wish.",
+   "If you were that child: hello. It was me. I fell for seventeen years, and I never once stopped falling, and that is the only reason I could stay up so long."
+  ],
+  "epiphany": "An orbit is not floating: it is a never-ending fall. A satellite is pulled down by gravity all the time, but it moves sideways so fast that the round Earth curves away beneath it. The turn comes when the silent, powerless satellite expects to crash and instead realises it has been falling all along. Along the way it sees the day-night line sweep across India, waking the east almost two hours before the west: the reason for time zones.",
+  "ask": [
+   "Why didn't Aryabhata fall down when its power stopped?",
+   "What did Aryabhata mean by 'Fell, and missed'?",
+   "Why did it see so many sunrises every day?",
+   "What made it come down in the end?",
+   "The satellite watched morning cross India from Arunachal to Kutch. What does that tell you about time?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "An orbit is falling and missing, for ever.",
+   "more": "The Moon, the space station and every satellite are falling towards the Earth all the time; they move sideways so fast that they keep missing. The sock on a string shows that without the pull, they would fly off straight."
+  },
+  {
+   "idea": "The lines on the globe are partly nature's and partly ours.",
+   "more": "The poles, the equator and the tropics come from the Earth's spin and tilt. The prime meridian and time zones were chosen by people, in rooms, for reasons of power and convenience."
+  },
+  {
+   "idea": "Looking far is looking back in time.",
+   "more": "Sunlight is 8 minutes old when it reaches you; starlight can be hundreds or thousands of years old. The night sky is a picture of the past."
+  }
+ ],
+ "unknowns": [
+  "Is there life in the hidden oceans of Europa or Saturn's moon Enceladus? Spacecraft are on their way to look, but nobody knows.",
+  "How can we clean up space debris? Several ideas are being tested, such as nets and harpoons, but nobody has yet cleaned up orbit at a large scale.",
+  "How did the Moon form? Most scientists think a Mars-sized world crashed into the young Earth, but the details are still argued about."
+ ]
+}

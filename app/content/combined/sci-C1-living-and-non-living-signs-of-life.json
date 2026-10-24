@@ -5,44 +5,67 @@
  "level": 1,
  "n": "living-and-non-living-signs-of-life",
  "title": "What is alive?",
- "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology (animals and plants are alive; living, once living and never living). No textbook needed.",
- "summary": "Your child sorts the world into things that are alive, things that were once alive and things that were never alive, and discovers that it's harder than it looks. A seed looks dead but is alive and sleeping; a wooden chair was once a tree. They test seeds, watch yeast wake up, and meet a palm tree that grew from a seed 2,000 years old.",
- "builds_on": "This is the first time. In Class 3 your child comes back to the question with harder cases (fire, viruses, robots) and the signs that scientists use.",
+ "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology Unit 1.1 'Animals and plants alive!' (living, once living and never living; animals and plants are both alive). No textbook needed.",
+ "summary": "Your child sorts the world into things that are alive, things that were once alive and things that were never alive, and discovers that it's harder than it looks. A seed looks dead but is alive and sleeping; a wooden chair was once a tree; a lump of yeast wakes up and blows up a balloon. They find the signs living things show, see that plants are as alive as animals, notice that every living thing needs water, air and food, and meet a palm tree that grew from a seed 2,000 years old.",
+ "subconcepts": [
+  "alive, once alive and never alive",
+  "signs living things show: growing, feeding, drinking, breathing, moving or responding, making young",
+  "plants are alive too, in a slower way",
+  "a seed is a sleeping baby plant (dormant)",
+  "waking a seed needs water and warmth (germination)",
+  "living things can die and then can't wake again",
+  "tiny living things too small to see (yeast, microbes)",
+  "once-alive materials at home: wood, cotton, paper, silk, wool, leather",
+  "all living things need water, air and food",
+  "living things make young like themselves",
+  "living things depend on non-living things (sun, water, soil, air)",
+  "humans are one kind of living thing among millions"
+ ],
+ "builds_on": "This is the first time. In Class 3 your child comes back to the question with the seven signs scientists use (MRS GREN), cells, harder cases (fire, crystals, viruses, robots) and the environment. In Class 5, microorganisms and how life began.",
  "goals": [
-  "By the end your child can sort things into alive, once alive and never alive, and give reasons.",
-  "By the end your child can say what living things do: grow, need food and water, breathe, move or respond, and make young ones.",
-  "By the end your child can show that a seed is alive even though it looks dead, by making it grow.",
+  "By the end your child can sort things into alive, once alive and never alive, and give a reason for each.",
+  "By the end your child can name what living things do: grow, need food, water and air, breathe, move or respond, and make young.",
+  "By the end your child can show that a seed is alive even though it looks dead, by making it grow, and say what wakes it.",
   "By the end your child can say that animals and plants are both alive, even though plants don't walk.",
+  "By the end your child can find once-alive things in their own home and say what living thing they came from.",
   "By the end your child can ask 'how do you know?' about whether something is alive."
  ],
  "words": [
   [
    "alive",
-   "growing, needing food and water, and responding to the world"
+   "growing, needing food, water and air, and responding to the world"
   ],
   [
    "once alive",
-   "was alive but isn't any more, like wood or a dry leaf"
+   "was part of something alive but isn't any more, like wood or a dry leaf"
   ],
   [
    "never alive",
-   "was never alive, like a stone or plastic"
+   "was never alive, like a stone, glass or steel"
   ],
   [
    "seed",
    "a baby plant sleeping inside a coat, with its packed lunch"
   ],
   [
-   "grow",
-   "get bigger"
+   "dormant",
+   "alive but asleep and waiting, like a dry seed"
   ],
   [
-   "breathe",
-   "take in air"
+   "germinate",
+   "when a seed wakes up and starts to grow"
   ],
   [
-   "sleeping seed",
-   "a seed waiting for water and warmth before it wakes up"
+   "yeast",
+   "tiny living things, too small to see one by one, that make dough and idli batter rise"
+  ],
+  [
+   "young",
+   "the babies of a living thing"
+  ],
+  [
+   "needs",
+   "the things a living thing must have to stay alive: water, air, food"
   ]
  ],
  "day_mins": 30,
@@ -56,24 +79,24 @@
      "kind": "warmup",
      "title": "The mystery bag",
      "mins": 6,
-     "do": "Put in a bag: a stone, a seed (a rajma bean), a leaf, a wooden spoon, a toy car, an apple, a shell and a pinch of yeast in a small packet. Pull out one at a time. Your child says 'alive!', 'not alive!' or 'I'm not sure!' and why."
+     "do": "Put in a bag: a stone, a seed (a rajma bean), a leaf, a wooden spoon, a toy car, an apple, a shell and a pinch of yeast in a small packet. Pull out one at a time. Your child says 'alive!', 'not alive!' or 'I'm not sure!' and why. Don't correct anything yet; just say 'Interesting! Let's find out.'"
     },
     {
      "kind": "do",
      "title": "Sort into three",
      "mins": 14,
-     "do": "Make three circles on the floor with string or chalk: 'alive', 'once alive', 'never alive'. Sort the things. Give the hint for 'once alive': 'it was part of something alive, but isn't now' (the wooden spoon was a tree; the shell was a snail's house; the leaf fell off a tree). Leave the seed and the yeast in an 'I'm not sure' pile. Do Worksheet ws1.",
+     "do": "Make three circles on the floor with string or chalk: 'alive', 'once alive', 'never alive'. Sort the things. Give the hint for 'once alive': 'it was part of something alive, but isn't now' (the wooden spoon was a tree; the shell was a snail's house; the leaf fell off a tree). Leave the seed and the yeast in an 'I'm not sure' pile; this week we will test them. Then do sections A and B of Worksheet ws1 together: read each word aloud and your child taps the right box.",
      "ref": "ws1"
     },
     {
      "kind": "talk",
      "title": "How do you know?",
      "mins": 10,
-     "do": "For each thing in 'alive', ask: 'How do you know it's alive?' Write the reasons on a big sheet: it grows, it eats, it drinks, it breathes, it moves, it has babies. This is your 'signs of life' list. Keep it for the week."
+     "do": "For each thing in 'alive', ask: 'How do you know it's alive?' Write the reasons on a big sheet as your child says them: it grows, it eats, it drinks, it breathes, it moves by itself, it has babies. Read the list back. This is your 'signs of life' sheet; stick it on the wall for the week. Ask: 'Do you show these signs?' (Yes! You grow, eat, drink, breathe, move.) Say: 'So you are a living thing, one of millions of kinds of living things on Earth.'"
     }
    ],
    "need": [
-    "a bag with a stone, a rajma bean, a leaf, a wooden spoon, a toy, an apple, a shell, a packet of yeast",
+    "a bag with a stone, a rajma bean, a leaf, a wooden spoon, a toy car, an apple, a shell, a packet of yeast",
     "string or chalk",
     "a big sheet of paper",
     "worksheet ws1"
@@ -88,57 +111,64 @@
      "kind": "warmup",
      "title": "Seed detectives",
      "mins": 5,
-     "do": "Look closely at a dry rajma bean with a hand lens. Does it breathe? Move? Eat? Ask: 'Is it alive?' Most children say no."
+     "do": "Look closely at a dry rajma bean with a hand lens. Ask: 'Does it breathe? Move? Eat? Grow?' Most children say no. Ask: 'So is it alive?' Write down your child's answer on the signs sheet with today's date, so you can check it later."
     },
     {
      "kind": "exp",
      "title": "Wake the seeds",
      "mins": 15,
-     "do": "Do Experiment e1: soak some beans, leave some dry, and boil a few. Put each on damp cotton and watch for a week.",
+     "do": "Do Experiment e1: soaked beans on damp cotton, dry beans on dry cotton, and beans a grown-up has boiled, on damp cotton. Ask your child to predict first and draw the three cups. Say the new word: 'A seed that is alive but asleep is called dormant. When it wakes up and grows, we say it germinates.'",
      "ref": "e1"
     },
     {
      "kind": "read",
      "title": "Story: The Seed That Slept for Two Thousand Years",
      "mins": 10,
-     "do": "Read the story aloud (Story tab). Ask the 'Talk about it' questions."
+     "do": "Read the story aloud (Story tab). Then ask the 'Talk about it' questions. Listen especially for: 'The baby palm was inside the seed all along' and 'The water woke it up.'"
     }
    ],
    "need": [
     "rajma or big beans",
-    "three cups with damp cotton",
+    "three cups with cotton",
     "a hand lens if you have one",
     "a few beans boiled by a grown-up"
    ],
    "prep": [
     {
-     "task": "Boil a few beans for 10 minutes and let them cool",
-     "when": "morning"
+     "task": "Soak 3 beans in water overnight; boil 3 more for 10 minutes and let them cool",
+     "when": "night before"
     }
    ]
   },
   {
    "n": 3,
-   "title": "Living things hunt",
-   "goal": "Find living things and their signs outdoors.",
+   "title": "Plants are alive too",
+   "goal": "Find living things and their signs outdoors, and see that plants are alive.",
    "steps": [
     {
+     "kind": "warmup",
+     "title": "Seed check",
+     "mins": 4,
+     "do": "Look at the three seed cups. Are the soaked beans fatter? Has a skin split? Your child draws what they see. Keep cup A and cup C damp."
+    },
+    {
      "kind": "outdoor",
-     "title": "Hunt",
-     "mins": 20,
-     "do": "Go outside for 20 minutes with the hunt list in Worksheet ws2: something growing, something breathing, something eating, something moving by itself, something that has babies, something once alive, something never alive. Lift a stone gently to look for minibeasts, then put it back exactly as it was. Look at ants carrying food, a bird pecking, a pigeon's nest, moss on a wall.",
+     "title": "Living things hunt",
+     "mins": 16,
+     "do": "Go outside for 15 minutes with the hunt list in Worksheet ws2: something growing, something breathing, something eating, something moving by itself, something with babies or eggs, something once alive, something never alive. Lift a stone gently to look for minibeasts, then put it back exactly as it was. Look at ants carrying food, a bird pecking, a pigeon's nest (look, never touch), moss on a wall, a new leaf on a plant. Your child ticks or draws on the clipboard.",
      "ref": "ws2"
     },
     {
      "kind": "talk",
-     "title": "Plants and animals",
+     "title": "Is a tree alive?",
      "mins": 10,
-     "do": "Ask: 'Is a tree alive? It doesn't walk or eat food like us.' Look at the 'signs of life' list: which signs does a tree show? (It grows, drinks water, makes its own food, breathes through its leaves, makes seeds, and turns slowly towards light.) Say: 'Plants and animals are both alive. They just do it differently.'"
+     "do": "Stand by a tree or a pot plant. Ask: 'Is it alive? It doesn't walk or eat food like us.' Go through the signs sheet: does it grow? (Yes: new leaves, it gets taller.) Drink? (Its roots drink water from the soil.) Eat? (It makes its own food in its green leaves, using sunlight.) Breathe? (Through tiny holes in its leaves.) Move? (Slowly: leaves turn towards the light, flowers open and close.) Make young? (Seeds.) Say: 'Plants and animals are both alive. Plants just do it more slowly and quietly.' Ask: 'What would a tree say about how fast we rush around?'"
     }
    ],
    "need": [
     "worksheet ws2 on a clipboard",
-    "a hand lens"
+    "a hand lens",
+    "the seed cups"
    ]
   },
   {
@@ -148,23 +178,23 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "Check the seeds",
-     "mins": 5,
-     "do": "Look at the three cups from Day 2. Has anything changed? Draw what you see. Tell your child about voice v2: a cloth-seller with no degree who was the first to see tiny living things like yeast.",
+     "title": "Seed check and the cloth-seller",
+     "mins": 6,
+     "do": "Look at the seed cups and draw them. Then tell your child about voice v2: a cloth-seller with no degree who made his own tiny glass lenses and was the first person to see living things too small for our eyes. Ask its question.",
      "ref": "v2"
     },
     {
      "kind": "exp",
      "title": "The balloon that blows itself up",
-     "mins": 15,
-     "do": "Do Experiment e2 with yeast, sugar, warm water and a balloon.",
+     "mins": 14,
+     "do": "Do Experiment e2 with yeast, sugar, warm water and a balloon. While you wait, ask: 'Yeast looks like brown sand. Is sand alive? What would yeast need to do to show us it is alive?' (Grow, eat, breathe, make more.) When the balloon fills, say: 'Yeast is millions of tiny living things. They were dormant, like the seeds. Warm water and sugar woke them up, they ate, and they breathed out a gas.' Move yeast from 'not sure' to 'alive'.",
      "ref": "e2"
     },
     {
      "kind": "game",
      "title": "Alive or Not? card game",
      "mins": 10,
-     "do": "Play the card game (g1): sort cards into alive, once alive and never alive, and argue about the tricky ones.",
+     "do": "Play the card game (g1): sort cards into alive, once alive and never alive, and argue about the tricky ones. Every time someone places a card, the others may say 'How do you know?'",
      "ref": "g1"
     }
    ],
@@ -179,58 +209,91 @@
   },
   {
    "n": 5,
-   "title": "Animals and their young",
-   "goal": "See that living things make more living things.",
+   "title": "Once alive, all around the house",
+   "goal": "Find things in the home that were once part of living things.",
    "steps": [
     {
      "kind": "warmup",
-     "title": "Baby match",
-     "mins": 8,
-     "do": "Name a mother and your child names the baby: cow–calf, hen–chick, dog–puppy, cat–kitten, frog–tadpole, butterfly–caterpillar, human–baby. Ask: 'Does a stone have babies? Does a toy?'"
+     "title": "Seed check",
+     "mins": 4,
+     "do": "Look at the seed cups. Often a white root has come out of the soaked seeds by now. Ask: 'Which way is the root going?' (Down.) 'Have the boiled seeds done anything?' (No.) Draw it."
     },
     {
-     "kind": "do",
-     "title": "Project: my alive museum",
-     "mins": 17,
-     "do": "Start the project: make a small museum on a tray with three sections, alive, once alive and never alive, using things from the house and garden. Your child writes or dictates a label for each, saying how they know."
+     "kind": "act",
+     "title": "Once-alive treasure hunt",
+     "mins": 16,
+     "do": "Do Activity a1, the once-alive treasure hunt. Your child finds 10 things in the house that were once part of something alive and, for each, says which living thing it came from: a wooden chair (a tree), a cotton kurta (a cotton plant), a newspaper (trees), a silk dupatta (silkworms), a woollen shawl (sheep or goats), a leather belt (a cow or goat), a jute bag (a jute plant), a coconut shell, honey (made by bees from flowers), rice and dal (plants). Ask: 'Is most of our food once alive?' (Yes, nearly all of it, except salt and water.)",
+     "ref": "a1"
     },
     {
      "kind": "talk",
-     "title": "Voice v1",
-     "mins": 5,
-     "do": "Talk about voice v1: a scientist named Elaine Solowey woke up a seed that had slept for 2,000 years. Ask its question.",
-     "ref": "v1"
+     "title": "Babies like their parents",
+     "mins": 10,
+     "do": "Name a mother and your child names the baby: cow–calf, hen–chick, dog–puppy, cat–kitten, goat–kid, frog–tadpole, butterfly–caterpillar, human–baby. Ask: 'Does a mango seed grow into a coconut tree?' (No, a mango tree.) 'Does a stone have babies? Does a toy?' Say: 'Living things make young like themselves. Never-alive things can't.' Do section C of Worksheet ws1.",
+     "ref": "ws1"
     }
    ],
    "need": [
-    "a tray",
-    "small things from home and garden",
-    "paper and pens for labels"
+    "the seed cups",
+    "a basket for the treasure hunt",
+    "worksheet ws1"
    ]
   },
   {
    "n": 6,
+   "title": "What every living thing needs",
+   "goal": "See that living things need water, air and food, and depend on non-living things.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The boiled seeds",
+     "mins": 5,
+     "do": "Look at the seed cups. The soaked seeds have roots and maybe a shoot; the dry seeds haven't changed (they are still asleep); the boiled seeds never grew. Ask gently: 'Why didn't the boiled seeds grow?' (Boiling killed the baby plant inside. Living things can die, and then they can't wake up again. That's why we look after living things carefully.) Now put the dry seeds on damp cotton too, and watch them wake up tomorrow."
+    },
+    {
+     "kind": "talk",
+     "title": "Needs, not wants",
+     "mins": 12,
+     "do": "Ask: 'What do you need to stay alive?' Help your child sort ideas into needs (water, air, food, a safe place, sleep) and wants (a toy, TV, sweets). Then ask the same for a crow, a tulsi plant and the yeast: crow (water, air, food, a tree to nest in), plant (water, air, sunlight, soil), yeast (water, warmth, sugar). Say: 'Every living thing needs water, air and food. And look: water, air, sunlight and soil are not alive. Living things need non-living things to live.' Draw a big tree in the middle of a page, and your child draws arrows from the sun, a cloud, the air and the soil to it."
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v1 and the project",
+     "mins": 13,
+     "do": "Talk about voice v1: a scientist named Elaine Solowey woke up a seed that had slept for 2,000 years, after her friend Sarah Sallon asked the question others laughed at. Ask its question. Then start the project: your child puts a tray on the table, divides it into three with paper strips, and begins to collect things for the 'alive museum' (a seedling from the cups, a feather, a shell, a stone, a coin).",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "the seed cups",
+    "paper and crayons",
+    "a tray and paper strips",
+    "small things from home and garden"
+   ]
+  },
+  {
+   "n": 7,
    "title": "The museum opens",
-   "goal": "Show what you know and wonder about hard cases.",
+   "goal": "Show what you know and wonder about the hard cases.",
    "steps": [
     {
      "kind": "review",
-     "title": "Seed results",
-     "mins": 6,
-     "do": "Look at the three seed cups. The soaked seeds sprouted; the dry ones didn't (yet); the boiled ones never will. Ask: 'Was the dry seed alive? Was the boiled seed alive?' (The dry seed was alive and asleep; boiling killed the boiled seeds.)"
+     "title": "Finish the museum",
+     "mins": 8,
+     "do": "Finish the project tray: alive, once alive and never alive, 3–5 things each. Your child says (and you write) a label for each: 'Feather. Once alive. It came from a pigeon.' Put a sprouting seed from the cups in the 'alive' section."
     },
     {
      "kind": "think",
      "title": "Hard cases",
-     "mins": 9,
-     "do": "Ask the big questions: 'Is fire alive? It eats wood, grows, moves and needs air.' 'Is the Sun alive?' 'Is a cloud alive?' There's no wrong answer; ask 'how could we decide?' Then do Worksheet ws3 together.",
+     "mins": 10,
+     "do": "Do Worksheet ws3 together, reading each question aloud and writing your child's words. Then ask the big questions: 'Is fire alive? It eats wood, grows, moves and needs air.' 'Is the Sun alive?' 'Is a cloud alive?' There's no wrong answer; ask 'How could we find out?' each time. Say: 'Scientists still argue about some tricky cases. You'll meet them again in Class 3.'",
      "ref": "ws3"
     },
     {
      "kind": "check",
-     "title": "Museum tour",
-     "mins": 15,
-     "do": "Your child is the museum guide for the family, explaining each section. Ask the check questions as visitors."
+     "title": "Museum tour and teach it back",
+     "mins": 12,
+     "do": "Your child is the museum guide for the family, explaining each section and how they know. Visitors ask the check questions. Finish with your child teaching back: 'How can you tell if something is alive?' and 'Was the dry seed alive?'"
     }
    ],
    "need": [
@@ -252,7 +315,7 @@
      [
       {
        "t": "sort",
-       "p": "Sort them.",
+       "p": "Sort them into three groups.",
        "items": [
         "dog",
         "stone",
@@ -270,15 +333,95 @@
         "once alive",
         "never alive"
        ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which one is alive?",
+       "opts": [
+        "a toy car",
+        "a tulsi plant",
+        "a stone"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which one was once alive?",
+       "opts": [
+        "a paper book",
+        "a glass marble",
+        "a steel spoon"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A wooden table was once part of…",
+       "opts": [
+        "a rock",
+        "a tree",
+        "a cloud"
+       ],
+       "a": 1
       }
      ]
     ],
     [
-     "B. Draw",
+     "B. What living things do",
      [
       {
-       "t": "draw",
-       "p": "Draw one thing that is alive and one thing that was once alive."
+       "t": "mcq",
+       "p": "Which of these can a living thing do, but a stone can't?",
+       "opts": [
+        "be heavy",
+        "grow",
+        "be round"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Living things need water, air and ____.",
+       "a": [
+        "food"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Babies",
+     [
+      {
+       "t": "match",
+       "p": "Match the mother to her baby.",
+       "pairs": [
+        [
+         "cow",
+         "calf"
+        ],
+        [
+         "hen",
+         "chick"
+        ],
+        [
+         "dog",
+         "puppy"
+        ],
+        [
+         "frog",
+         "tadpole"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Your child says, you write: How do you know a dog is alive? Give two clues.",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Your child says, you write: Is a tree alive? Why, even though it can't walk?",
+       "lines": 2
       }
      ]
     ]
@@ -295,7 +438,7 @@
      [
       {
        "t": "table",
-       "p": "Draw or write what you found.",
+       "p": "Draw or write what you found outside.",
        "cols": [
         "Find something…",
         "What I found"
@@ -312,6 +455,94 @@
        ]
       }
      ]
+    ],
+    [
+     "B. Which sign?",
+     [
+      {
+       "t": "match",
+       "p": "Match each living thing to a sign of life you saw.",
+       "pairs": [
+        [
+         "ant carrying a crumb",
+         "eating"
+        ],
+        [
+         "new leaf on a plant",
+         "growing"
+        ],
+        [
+         "bird on a nest",
+         "making young"
+        ],
+        [
+         "dog panting",
+         "breathing"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "How does a plant move?",
+       "opts": [
+        "it walks",
+        "its leaves turn slowly towards the light",
+        "it never moves at all"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "How does a plant get its food?",
+       "opts": [
+        "it makes it in its green leaves using sunlight",
+        "it eats insects every day",
+        "it doesn't need food"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Plant or animal? Both are alive.",
+       "items": [
+        "neem tree",
+        "crow",
+        "grass",
+        "earthworm",
+        "moss",
+        "butterfly"
+       ],
+       "cats": [
+        "plant",
+        "animal"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A pigeon is sitting on eggs on a ledge. Which sign of life is that?",
+       "opts": [
+        "making young",
+        "growing",
+        "feeling cold"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Your child says, you write: What did you find that was once alive? What living thing did it come from?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Your child says, you write: A toy car moves. Is it alive? Why not?",
+       "lines": 2
+      }
+     ]
     ]
    ]
   },
@@ -319,30 +550,98 @@
    "id": "ws3",
    "tier": "challenge",
    "title": "Tricky cases",
-   "day": 6,
+   "day": 7,
    "sections": [
     [
-     "A. Decide and explain",
+     "A. Seeds and yeast",
      [
       {
-       "t": "write",
-       "p": "Is fire alive? Give one reason for yes and one for no.",
-       "lines": 2
-      },
-      {
-       "t": "write",
-       "p": "A dry seed doesn't move, eat or grow. Why do we say it's alive?",
-       "lines": 2
+       "t": "mcq",
+       "p": "A dry seed doesn't move or eat. Is it alive?",
+       "opts": [
+        "No, it's like a stone",
+        "Yes, it is asleep (dormant)",
+        "Only on Sundays"
+       ],
+       "a": 1
       },
       {
        "t": "mcq",
-       "p": "Which one was once alive?",
+       "p": "What woke up our seeds?",
        "opts": [
-        "a paper book",
-        "a glass marble",
-        "a steel spoon"
+        "water and warmth",
+        "music",
+        "darkness"
        ],
        "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why didn't the boiled seeds grow?",
+       "opts": [
+        "they were too wet",
+        "boiling killed the baby plant inside",
+        "they were shy"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The balloon filled up because the ____ was alive and breathed out gas.",
+       "a": [
+        "yeast"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Needs",
+     [
+      {
+       "t": "sort",
+       "p": "Is it alive, or a non-living thing that living things need?",
+       "items": [
+        "sunlight",
+        "sparrow",
+        "rain water",
+        "air",
+        "rose bush",
+        "soil"
+       ],
+       "cats": [
+        "alive",
+        "non-living, but life needs it"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Plastic is made from oil, and oil came from tiny sea creatures that lived millions of years ago. So plastic is…",
+       "opts": [
+        "alive",
+        "made from something that was once alive, long ago",
+        "a kind of animal"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think hard",
+     [
+      {
+       "t": "write",
+       "p": "Your child says, you write: Is fire alive? Give one reason for yes and one for no.",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Your child says, you write: How could you find out if a tiny brown seed in an old box is still alive?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Your child says, you write: Are you more important than an ant? Why do you think so?",
+       "lines": 2
       }
      ]
     ]
@@ -357,7 +656,7 @@
    "question": "Is a dry seed alive?",
    "need": [
     "9 rajma beans",
-    "three cups with damp cotton",
+    "three cups with cotton",
     "3 beans boiled for 10 minutes by a grown-up"
    ],
    "steps": [
@@ -365,12 +664,13 @@
     "Cup A: the 3 soaked beans on damp cotton.",
     "Cup B: 3 dry beans on dry cotton.",
     "Cup C: the 3 boiled beans on damp cotton.",
-    "Keep A and C damp. Look every day for a week and draw."
+    "Keep A and C damp. Look every day for a week and draw.",
+    "On Day 6, move the dry beans onto damp cotton and watch them wake too."
    ],
    "predict": "Ask: 'Which beans will grow?'",
-   "observe": "Which cups sprout.",
-   "why": "A seed is a baby plant, alive but resting, with stored food. Water and warmth wake it up (germination). Dry seeds stay asleep; boiling kills the baby plant inside, so it can never grow.",
-   "safety": "A grown-up boils the beans.",
+   "observe": "Which cups sprout; the white root pushing out and turning down; the boiled beans going soft and never sprouting.",
+   "why": "A seed is a baby plant, alive but resting (dormant), with stored food. Water and warmth wake it up and it germinates, using its stored food to grow a root and shoot. Dry seeds stay asleep until they get water; boiling kills the baby plant inside, so it can never grow.",
+   "safety": "A grown-up boils the beans and lets them cool.",
    "time": "15 min + 1 week"
   },
   {
@@ -394,21 +694,40 @@
    "predict": "Ask: 'What will happen to the balloon?'",
    "observe": "The bubbles in the bottle and the balloon slowly filling.",
    "why": "Yeast is made of millions of tiny living things (a kind of fungus). Dry yeast is asleep; warm water wakes it up, and it eats the sugar and breathes out a gas (carbon dioxide) that fills the balloon. That's also why idli batter and bread dough rise.",
-   "safety": "Use warm, not hot, water.",
+   "safety": "Use warm, not hot, water. Don't drink the mixture.",
    "time": "30 min"
   }
  ],
- "activities": [],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Once-alive treasure hunt",
+   "day": 5,
+   "mins": 16,
+   "need": [
+    "a basket",
+    "paper for labels"
+   ],
+   "steps": [
+    "Your child walks round the house with a basket and collects (or names) 10 things that were once part of a living thing.",
+    "For each, they say which living thing it came from: tree, cotton plant, sheep, silkworm, bee, cow, coconut palm, rice plant.",
+    "Lay them in a row with a paper label: 'from a tree', 'from a sheep'.",
+    "Count: how many came from plants? How many from animals?",
+    "Look round the room: is anything never alive? (glass, steel, stone, plastic)"
+   ],
+   "outcome": "A row of once-alive things and the surprise that much of a home, and nearly all our food, was once alive."
+  }
+ ],
  "project": {
   "title": "My alive museum",
   "days": [
-   5,
-   6
+   6,
+   7
   ],
   "steps": [
-   "Find a tray and divide it into three sections.",
-   "Collect 3–5 things for each: alive (a seedling, a snail visitor you return later), once alive (a feather, a shell, a dry leaf, a wooden peg), never alive (a stone, a coin, a plastic toy).",
-   "Write a label for each saying how you know.",
+   "Find a tray and divide it into three sections with paper strips.",
+   "Collect 3–5 things for each: alive (a seedling from the seed cups, a small pot plant), once alive (a feather, a shell, a dry leaf, a wooden peg), never alive (a stone, a coin, a plastic toy).",
+   "Write (or dictate) a label for each saying how you know.",
    "Give the family a museum tour."
   ],
   "outcome": "A small museum and a child who can explain each object."
@@ -526,7 +845,8 @@
   "Is fire alive?",
   "How can a seed be alive if it doesn't move or eat?",
   "Is a robot alive if it can move and talk?",
-  "Plastic is made from oil, and oil came from creatures that lived millions of years ago. So was plastic once alive?"
+  "Plastic is made from oil, and oil came from creatures that lived millions of years ago. So was plastic once alive?",
+  "Is a person more important than an ant, or a tree? Who decides?"
  ],
  "challenge": [
   {
@@ -536,6 +856,10 @@
   {
    "q": "Is it easy to tell what's alive?",
    "hint": "Scientists still argue about it! Some say viruses are alive, some say they're not. Even NASA had to write down a definition to know what to look for on other planets."
+  },
+  {
+   "q": "We call some plants 'weeds'. Are they less alive than the plants we grow?",
+   "hint": "A weed is just a plant growing where a person doesn't want it. It grows, drinks, makes food and makes seeds like any other plant. The word tells you about us, not about the plant."
   }
  ],
  "perspectives": [
@@ -545,7 +869,11 @@
   },
   {
    "who": "Many Adivasi and Indigenous communities",
-   "view": "Many communities in India and around the world treat rivers, hills and forests as living beings to be respected, and in 2017 a court in New Zealand gave the Whanganui River the rights of a legal person. Ask: is a river alive? Why might people say so?"
+   "view": "Many communities in India and around the world treat rivers, hills and forests as living beings to be respected, and in 2017 a law in New Zealand gave the Whanganui River the rights of a legal person. Ask: is a river alive? Why might people say so?"
+  },
+  {
+   "who": "An earthworm",
+   "view": "Earthworms eat dead leaves and turn them into soil that plants need. To a worm, a fallen leaf isn't rubbish, it's dinner. Ask: what would the garden be like with no worms?"
   }
  ],
  "voices": [
@@ -557,7 +885,7 @@
    "now": "Methuselah is now a tall palm that has made pollen, and the team has woken more ancient seeds. Seeds can sleep, alive, for centuries.",
    "status": "accepted",
    "ask": "The seed was alive the whole 2,000 years, just asleep. Can something be alive and look completely dead? What else might be like that?",
-   "day": 5
+   "day": 6
   },
   {
    "id": "v2",
@@ -603,20 +931,21 @@
  "ideas": [
   {
    "idea": "Alive, once alive, never alive.",
-   "more": "Wood, cotton, paper, leather and shells were once part of living things. Look around: much of a house was once alive."
+   "more": "Wood, cotton, paper, silk, wool, leather and shells were once part of living things. Look around: much of a house, and nearly all our food, was once alive."
   },
   {
    "idea": "Life can sleep.",
    "more": "Seeds, yeast and even some tiny animals can stay alive for years without eating, waiting for water."
   },
   {
-   "idea": "Plants and animals are both alive, in different ways.",
-   "more": "Animals eat food and move about; plants make their own food and move slowly towards light. Both grow, breathe and make young."
+   "idea": "Plants and animals are both alive, and all life needs non-living things.",
+   "more": "Animals eat food and move about; plants make their own food and move slowly towards light. Both grow, breathe and make young, and both need water, air and sunlight, which are not alive."
   }
  ],
  "unknowns": [
   "How long can a seed sleep and still wake up? The oldest we know is about 2,000 years; nobody knows the limit.",
-  "What exactly makes something alive? Scientists still argue, especially about viruses."
+  "What exactly makes something alive? Scientists still argue, especially about viruses.",
+  "How many kinds of living things are there on Earth? Nobody knows; most tiny ones have never been named."
  ],
  "books": [
   {
@@ -648,11 +977,11 @@
   },
   {
    "q": "What do living things do?",
-   "a": "Grow, need food and water, breathe, move or respond, and make young."
+   "a": "Grow, need food, water and air, breathe, move or respond, and make young."
   },
   {
    "q": "Is a dry seed alive? How do we know?",
-   "a": "Yes; when we gave it water, it grew."
+   "a": "Yes, it was dormant (asleep); when we gave it water, it germinated and grew."
   },
   {
    "q": "Why did the balloon fill up?",
@@ -661,6 +990,14 @@
   {
    "q": "Is a tree alive even though it can't walk?",
    "a": "Yes; it grows, drinks, makes food, breathes and makes seeds."
+  },
+  {
+   "q": "Name two things in your house that were once alive, and what they came from.",
+   "a": "e.g. a cotton shirt from a cotton plant, a wooden door from a tree."
+  },
+  {
+   "q": "What do all living things need?",
+   "a": "Water, air and food (plants make theirs using sunlight)."
   }
  ]
 }

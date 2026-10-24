@@ -1,0 +1,1184 @@
+{
+ "key": "combined|sci|3|health-hygiene-exercise-and-illness",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "health-hygiene-exercise-and-illness",
+ "title": "Caring for the body you live in: organs, clean habits, moving, sleep and feelings",
+ "source": "DeepKids Combined. Covers NCERT Class 3 Chapter 9 'Staying Healthy and Happy' (hygiene and cleanliness at home and around us; regular exercise and yoga; physical and emotional well-being), Cambridge Stage 3 Biology Unit 2.4 'Exercise and sleep', and NIOS Level B Lesson 9 'Care and cleanliness of external organs' (external organs and their jobs; cleanliness and care, including private parts). No textbook needed.",
+ "summary": "Your child tours the outside of their body, organ by organ, learning what each part does to protect them and how to care for it, including keeping private parts clean and private and knowing that their body belongs to them. They find out that the body gets stronger not while it exercises but while it rests and sleeps, test their own fitness at the start and end of the rung, learn a short yoga sequence, and discover that feelings are something the body does too. Along the way they meet the nurses who cleaned up a war hospital and the student who discovered dreaming sleep.",
+ "builds_on": "Class 2: food becomes the body, germs are tiny living things and soap breaks them up, exercise speeds up the heart, three kinds of teeth and how sugar makes holes. Here: every outer organ, clean surroundings, three kinds of fitness, yoga, sleep and feelings. Class 4 adds medicines, vaccines, mindful eating and the journey of our food; Class 5 adds how diseases spread through whole towns. 'Thinking and memory' (Class 3) goes deeper into sleep and feelings in the brain.",
+ "goals": [
+  "By the end your child can name the external organs and explain how each protects the body and how to care for it.",
+  "By the end your child can explain that private parts are kept clean and private, that their body belongs to them, and who their trusted adults are.",
+  "By the end your child can explain how clean surroundings stop disease, and spot places where mosquitoes could breed.",
+  "By the end your child can name three kinds of fitness (strength, stamina, flexibility), measure their own, and explain why muscles get stronger during rest.",
+  "By the end your child can do a short yoga sequence, say how much sleep they need, and name feelings and where they feel them in the body."
+ ],
+ "subconcepts": [
+  "external and internal organs",
+  "skin: the body's biggest organ, which sweats, feels and renews itself",
+  "eyes: the pupil, tears and eyelashes protect them",
+  "ears and earwax; nose hairs and mucus trap dust and germs",
+  "hair, nails, hands and feet: daily care, lice and nail germs",
+  "private parts: clean and private; my body belongs to me; trusted adults",
+  "clean surroundings: waste, drains and standing water",
+  "three kinds of fitness: strength, stamina and flexibility",
+  "muscles grow stronger during rest after exercise",
+  "yoga: stretching, balance and slow breathing",
+  "sleep: how much children need, and what happens in sleep",
+  "REM (dreaming) sleep",
+  "feelings live in the body too; naming feelings helps",
+  "clean but not too clean: the 'old friends' idea"
+ ],
+ "words": [
+  [
+   "organ",
+   "a body part that does a special job, like the heart, skin or eyes"
+  ],
+  [
+   "external organ",
+   "an organ we can see from outside, like skin, eyes and ears"
+  ],
+  [
+   "internal organ",
+   "an organ inside the body, like the heart, lungs and stomach"
+  ],
+  [
+   "pupil",
+   "the black hole in the middle of the eye that lets light in"
+  ],
+  [
+   "pores",
+   "tiny holes in the skin where sweat comes out"
+  ],
+  [
+   "hygiene",
+   "keeping ourselves and our surroundings clean to stay healthy"
+  ],
+  [
+   "stamina",
+   "being able to keep moving for a long time without getting tired"
+  ],
+  [
+   "flexibility",
+   "being able to bend and stretch easily"
+  ],
+  [
+   "strength",
+   "how much force our muscles can make"
+  ],
+  [
+   "REM sleep",
+   "the part of sleep when our eyes move quickly and we have most of our dreams"
+  ],
+  [
+   "emotion",
+   "a feeling, like joy, fear, anger or sadness, that shows up in the body and mind"
+  ],
+  [
+   "trusted adult",
+   "a grown-up you know well who will listen and help keep you safe"
+  ]
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "The outside of you",
+   "goal": "Remember last year, and sort the body into outside and inside organs.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the healthy-body book",
+     "mins": 6,
+     "do": "Ask: 'Last year we found out four big things about staying healthy. Can you remember them?' Good answers: food becomes our body; germs are tiny living things and soap washes them off; exercise makes the heart beat faster and stronger; we get only two sets of teeth and sugar plus bacteria make acid. If you made the healthy-body book, read it together. Then say: 'This year we'll go all over the outside of the body, and find out the strange thing about how muscles get strong.'"
+    },
+    {
+     "kind": "do",
+     "title": "Inside and outside",
+     "mins": 12,
+     "do": "Say: 'An organ is a body part with a special job.' Your child lies on a big sheet of newspaper or chart paper while you draw round them (this is the start of Activity a1; you'll add to it all week). Ask them to name every part they can see from the outside: skin, hair, eyes, ears, nose, mouth, hands, nails, feet, and the private parts covered by underwear. These are external organs. Then ask: 'What organs are hidden inside?' (Heart, lungs, stomach, brain, bones, muscles.) These are internal organs. Ask: 'Which is the biggest organ of all?' (The skin! It covers everything and does many jobs.)",
+     "ref": "a1"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Night Legs",
+     "mins": 14,
+     "do": "Read the story aloud (Story tab). Ask the story questions. Don't explain why Kiran got faster; ask your child to guess, and say: 'We'll find out this week.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Start the family health week",
+     "mins": 8,
+     "do": "Explain the project: for the next 8 days, your child will keep a chart for themselves (and one grown-up, if they like) with columns: hours slept, minutes of active play, hands washed before meals (tick), and one word for 'how I felt today'. Draw it now on paper and fill in today. At the end, look for patterns."
+    }
+   ],
+   "need": [
+    "a big sheet of chart paper or newspaper",
+    "crayons or markers",
+    "paper for the health chart"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Skin, hair and nails",
+   "goal": "Learn how skin protects us and renews itself, and test our fitness.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Feel your skin",
+     "mins": 5,
+     "do": "Your child touches their own skin in five places: the palm, the elbow, the cheek, the sole of the foot, the back of the neck. Ask: 'Is it the same everywhere?' (Thick and tough on the soles, thin on the eyelids, wrinkly at the elbow so it can stretch.) Say: 'Skin is a living raincoat. It keeps water in, germs out and lets you feel the world.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Your skin is falling off",
+     "mins": 10,
+     "do": "Do Experiment e2: sticky tape on the forearm shows flakes of dead skin.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Hair, nails, hands and feet",
+     "mins": 10,
+     "do": "Ask your child to look at their nails. Ask: 'What could hide under long nails?' (Dirt and germs, which go into our mouth when we eat with our hands.) Say: 'That's why we cut nails short and scrub under them.' Hair: 'Combing and washing keep hair clean. Lice are tiny insects that live in hair and drink a little blood. They spread by heads touching or sharing combs. Having lice isn't about being dirty; anyone can get them.' Feet: 'Wash between the toes and dry them; damp skin there lets fungus grow.' On the body poster, write one care rule next to hair, nails, hands and feet.",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Fitness test: day 1",
+     "mins": 15,
+     "do": "Start Experiment e3: three fitness tests now. You'll practise a little every day and test again on Day 9.",
+     "ref": "e3"
+    }
+   ],
+   "need": [
+    "clear sticky tape",
+    "black paper",
+    "a magnifying glass if you have one",
+    "a ruler",
+    "a timer",
+    "the body poster"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Eyes, ears and nose",
+   "goal": "Find out how the face's organs protect themselves.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The pupil that changes size",
+     "mins": 10,
+     "do": "Do Experiment e1 with a mirror and your hands. Before you start, ask your child to predict what the pupils will do after 30 seconds of darkness, and write the guess down. Afterwards ask: 'Did you decide to make your pupils shrink?' (No: it's a reflex.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Ears and nose",
+     "mins": 10,
+     "do": "Ears: 'The wax in your ears isn't dirt. It traps dust and germs and slowly moves out by itself. Never poke anything into your ear: not a pin, not a matchstick, not even a cotton bud deep in. The eardrum inside is as thin as paper.' Wipe only the outer ear with a cloth. Loud sounds can harm hearing, so turn headphones down. Nose: your child looks in a mirror at the hairs just inside the nose. Say: 'Those hairs and the sticky mucus catch dust and germs before they reach your lungs. That's why we blow into a handkerchief or tissue, then wash hands, and never pick the nose with dirty fingers.' Add a rule next to eyes, ears and nose on the poster.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Is very clean always better?",
+     "mins": 8,
+     "do": "Tell voice v3: some scientists think children who meet lots of harmless microbes, from playing in mud, animals and brothers and sisters, may get fewer allergies. Ask the voice question. Say: 'So we wash our hands before eating and after the toilet, when it really matters. We don't have to be scared of all dirt.'",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: organs and care (core)",
+     "mins": 12,
+     "do": "Do Worksheet ws1. Your child reads each item aloud and answers; for every answer ask 'How do you know?' For the two written items, let them say the answer first, then write it. Check against the body poster if stuck.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a mirror",
+    "the body poster",
+    "a handkerchief",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Mouth, private parts and my body",
+   "goal": "Learn to care for the mouth and private parts, and that my body belongs to me.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Fitness practice",
+     "mins": 5,
+     "do": "Do the daily fitness practice from Experiment e3 (2 minutes each: skipping or running on the spot, a wall-sit, and a slow forward stretch). Fill in the health chart.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Mouth and teeth, one level up",
+     "mins": 8,
+     "do": "Ask: 'What did we find out last year about sugar and teeth?' (Bacteria make acid from sugar.) Add: 'Rinse your mouth with water after every meal. Brush in the morning and, most important, at night, because at night you make less saliva, and saliva washes and protects teeth. Clean your tongue too.' Add rules for the mouth to the poster."
+    },
+    {
+     "kind": "talk",
+     "title": "Private parts: clean and private",
+     "mins": 14,
+     "do": "Say calmly and simply: 'Private parts are the parts covered by your underwear. We wash them every day when we bathe, and after using the toilet we clean ourselves (with water, washing front to back), then wash our hands with soap. We wear clean underwear every day.' Then: 'Your body belongs to you. Private parts are private. Nobody should touch them, or ask you to touch theirs, or show you pictures of them, except a parent or a doctor helping to keep you clean or healthy, and then a trusted grown-up should be there. If anyone does, or if any touch makes you feel uncomfortable, it is never your fault. You can say No, go away, and tell a trusted adult. If they don't listen, tell another one. Secrets about touching are never kept.' Ask: 'What would you do if someone said, this is our secret?' (Say no, get away, tell a trusted grown-up.) Keep your tone warm and ordinary."
+    },
+    {
+     "kind": "act",
+     "title": "My five trusted adults",
+     "mins": 13,
+     "do": "Your child traces their hand on paper. On each finger, they write or draw one grown-up they trust and could tell anything: perhaps you, the other parent, a grandparent, a teacher, an aunt. Talk about each one: 'Would they listen? Could you reach them?' On the palm, write: 'My body belongs to me.' Stick it near the body poster. Also practise saying 'No!' firmly and loudly, standing tall. Children often find this funny; that's fine."
+    }
+   ],
+   "need": [
+    "paper and pencil for the hand tracing",
+    "the body poster"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Clean surroundings",
+   "goal": "See how clean homes and streets keep a whole town healthy.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Fitness practice",
+     "mins": 5,
+     "do": "Do the daily fitness practice from Experiment e3. Fill in the health chart.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "The nurses who cleaned a war hospital",
+     "mins": 12,
+     "do": "Tell voice v1 in your own words: in the 1850s, in a war far from home, more soldiers died of diseases in dirty hospitals than of their wounds. Florence Nightingale's nurses cleaned the wards, washed the bedding and fixed the drains; Mary Seacole, a Jamaican nurse, cared for soldiers near the battlefield after being turned away. Ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Clean-surroundings survey",
+     "mins": 17,
+     "do": "Do Activity a2: walk around your home, building and street looking for spots where germs or mosquitoes could breed, and good spots that keep things clean.",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Who keeps the street clean?",
+     "mins": 6,
+     "do": "Ask: 'Who cleans our street? Who takes away our rubbish? Who cleans the drains?' Talk about the sanitation workers, sweepers and waste-pickers. Ask: 'What would happen in a week if they stopped?' (Rubbish piles up, flies, smells, illness.) 'Do they get thanked enough?' Your child might draw a thank-you card for someone who cleans near your home."
+    }
+   ],
+   "need": [
+    "a notebook and pencil",
+    "slippers",
+    "card paper for a thank-you card"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Moving and stretching: exercise and yoga",
+   "goal": "Learn the three kinds of fitness and a short yoga sequence.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Fitness practice",
+     "mins": 5,
+     "do": "Do the daily fitness practice from Experiment e3. Ask: 'Is it getting any easier?' Fill in the health chart.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Three kinds of fitness",
+     "mins": 8,
+     "do": "Explain with the fitness tests: 'Stamina is going on for a long time: running, swimming, cycling, skipping. It makes the heart and lungs strong. Strength is how hard muscles can push or pull: climbing, carrying, wall-sits. Flexibility is how far you can bend and stretch: yoga, gymnastics, dance.' Ask: 'Which games use each?' (Kabaddi: strength and stamina; kho-kho: stamina and quick turns; hopscotch: balance and strength; dance: all three.) Ask: 'Which do you think you're best at? Which do you want to grow?'"
+    },
+    {
+     "kind": "do",
+     "title": "A five-pose yoga sequence",
+     "mins": 17,
+     "do": "Do Activity a3 together, slowly, on a mat or folded bedsheet.",
+     "ref": "a3"
+    },
+    {
+     "kind": "think",
+     "title": "Why yoga and exercise help the mind too",
+     "mins": 10,
+     "do": "Ask: 'How do you feel after the yoga? After running around?' (Calm, happy, a bit tired, fresh.) Say: 'Moving the body helps the brain too: many people feel calmer and happier and sleep better after exercise.' Then ask: 'Kiran in the story ran more and more and got slower. Why might that be?' Collect guesses on paper for tomorrow."
+    }
+   ],
+   "need": [
+    "a mat or folded bedsheet",
+    "the health chart"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "What happens when we sleep",
+   "goal": "Find out why sleep is when the body mends and grows, and meet dreaming sleep.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Fitness practice",
+     "mins": 5,
+     "do": "Do the daily fitness practice from Experiment e3. Fill in the health chart.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Muscles grow at night",
+     "mins": 10,
+     "do": "Read yesterday's guesses about Kiran. Then explain: 'When you exercise hard, you make tiny bits of wear and tear in your muscles. While you rest, and especially while you sleep, your body repairs them and builds them back a little stronger than before. Growing children's bodies also release a growing hormone mostly in deep sleep. So exercise is the question, and rest is when the body answers it.' Ask: 'So why did Kiran get slower?' (She trained too much and slept too little, so her body never got time to repair.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The student who found dreaming sleep",
+     "mins": 10,
+     "do": "Tell voice v2: in 1953, a student called Eugene Aserinsky watched his sleeping son's eyes darting under the lids and discovered REM sleep, when we dream most. Ask the voice question. Then ask: 'Do you remember any dreams?' Let them tell one.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "My 24-hour circle",
+     "mins": 15,
+     "do": "Do Activity a4: your child makes a 24-hour clock circle of their day, colouring sleep, school, play, meals and screens. Compare their sleep hours with how much children their age need (about 9–12 hours). Then do Worksheet ws2 section A if time allows; finish the rest tomorrow.",
+     "ref": "a4"
+    }
+   ],
+   "need": [
+    "paper plate or a circle drawn on paper",
+    "colours",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Feelings are in the body too",
+   "goal": "Name feelings, find where they live in the body, and learn what helps.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Finish ws2",
+     "mins": 8,
+     "do": "Finish Worksheet ws2 (stretch). Then do the fitness practice (e3) quickly.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "do",
+     "title": "Where do feelings live?",
+     "mins": 14,
+     "do": "Draw a small outline of a person. Ask your child to remember a time they felt scared. 'Where did you feel it in your body?' (Tummy flutters, fast heart, cold hands, wanting to run.) Colour that place. Do the same for angry (hot face, tight fists, clenched jaw), sad (heavy chest, tears, tired), happy (light, bouncy, smiling) and worried (tight tummy). Say: 'Feelings aren't only in your head. The brain and body make them together. Your heart speeds up when you're scared just like when you exercise.' Ask: 'Are any feelings bad?' (No: all feelings are normal and tell us something. Some actions are not okay, like hitting when angry.)"
+    },
+    {
+     "kind": "talk",
+     "title": "What helps a big feeling",
+     "mins": 10,
+     "do": "Make a list with your child of things that help when a feeling is too big: slow breathing (in for 4, out for 6), telling someone, drawing it, running around, a hug, sleep, being with an animal, crying. Practise the slow breathing from the yoga for 1 minute. Ask: 'Which works best for you?' Say: 'Talking to a trusted adult about feelings is as much a part of staying healthy as washing hands.'"
+    },
+    {
+     "kind": "think",
+     "title": "Worksheet: harder thinking (challenge)",
+     "mins": 8,
+     "do": "Start Worksheet ws3 (challenge). Read each puzzle together and let your child argue both ways before choosing. Finish the written items tomorrow before the game if time runs out.",
+     "ref": "ws3"
+    }
+   ],
+   "need": [
+    "paper and colours",
+    "worksheet ws3"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Fitness results, game and teach it back",
+   "goal": "See what changed in a week, look for patterns, and teach someone else.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Fitness test: day 9",
+     "mins": 10,
+     "do": "Repeat the three tests from Experiment e3 exactly as on Day 2 and compare. Ask: 'Did anything improve? Why might it, after only a week?' (Practice; muscles and body learn; better sleep.) 'If nothing changed, does that mean it didn't help?' (Not necessarily; a week is short. Bodies change over weeks and months.)",
+     "ref": "e3"
+    },
+    {
+     "kind": "think",
+     "title": "Patterns in the health chart",
+     "mins": 8,
+     "do": "Look at the 8-day health chart. Ask: 'On days you slept more, how did you feel? On days you played outside more?' Your child writes one pattern they notice, and one change they want to keep. Remind them: one week of one person is not proof; scientists would want many people and many weeks."
+    },
+    {
+     "kind": "game",
+     "title": "Body Care Detectives",
+     "mins": 12,
+     "do": "Play the card game g1 (print and cut the cards). When a player answers, ask 'Why?' before turning the card. Put cards nobody got right in a pile and go over them together at the end.",
+     "ref": "g1"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child uses the body poster to teach a family member about each external organ and its care, then shows the yoga sequence. Then ask the check questions."
+    }
+   ],
+   "need": [
+    "the health chart and fitness record",
+    "the printed cards",
+    "the body poster"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Organs and their care",
+   "day": 3,
+   "sections": [
+    [
+     "A. Outside and inside",
+     [
+      {
+       "t": "sort",
+       "p": "Sort the organs.",
+       "items": [
+        "skin",
+        "heart",
+        "eyes",
+        "lungs",
+        "ears",
+        "stomach",
+        "nose",
+        "brain"
+       ],
+       "cats": [
+        "external organ",
+        "internal organ"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The biggest organ of the body is the ____ .",
+       "a": [
+        "skin"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each organ to how it protects itself.",
+       "pairs": [
+        [
+         "eye",
+         "eyelashes, tears and blinking"
+        ],
+        [
+         "nose",
+         "hairs and mucus trap dust"
+        ],
+        [
+         "ear",
+         "wax traps dust and germs"
+        ],
+        [
+         "skin",
+         "keeps germs and water out"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which is the safe way to clean your ears?",
+       "opts": [
+        "poke a matchstick inside",
+        "wipe the outer ear with a cloth",
+        "pour oil in every day"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Care",
+     [
+      {
+       "t": "mcq",
+       "p": "Why do we cut our nails short?",
+       "opts": [
+        "so germs and dirt can't hide under them",
+        "to make our hands look smaller",
+        "nails are bad"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Private parts are…",
+       "opts": [
+        "kept clean and private; my body belongs to me",
+        "something nobody can ever talk about",
+        "not organs"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "If any touch makes me uncomfortable, I say No, go away, and tell a ____ adult.",
+       "a": [
+        "trusted"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Your eyes have three ways to protect themselves. Which one do you think is most important, and why?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why is earwax not just dirt? What does it do?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Fitness, sleep and clean surroundings",
+   "day": 7,
+   "sections": [
+    [
+     "A. Fitness and sleep",
+     [
+      {
+       "t": "sort",
+       "p": "Which kind of fitness does each mostly build?",
+       "items": [
+        "skipping for 5 minutes",
+        "wall-sit",
+        "touching your toes",
+        "swimming",
+        "climbing a rope",
+        "yoga stretches"
+       ],
+       "cats": [
+        "stamina",
+        "strength",
+        "flexibility"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "When do muscles get stronger after exercise?",
+       "opts": [
+        "only while you exercise",
+        "while you rest and sleep afterwards",
+        "never"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Children aged 6 to 12 need about ____ to 12 hours of sleep a night.",
+       "a": [
+        "9",
+        "nine"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "During REM sleep…",
+       "opts": [
+        "the eyes move quickly and we dream most",
+        "the heart stops",
+        "we are awake"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Apply it",
+     [
+      {
+       "t": "sort",
+       "p": "Which places help mosquitoes breed?",
+       "items": [
+        "water left in an old tyre",
+        "a covered water tank",
+        "a flowerpot tray full of water",
+        "a dry, clean courtyard",
+        "a blocked drain",
+        "a cooler emptied every week"
+       ],
+       "cats": [
+        "helps mosquitoes",
+        "stops mosquitoes"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A child trains every day, sleeps 6 hours and gets slower. The best advice is…",
+       "opts": [
+        "train even harder",
+        "sleep more and take rest days",
+        "stop exercising forever"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Kiran's friend says sleep is wasted time. Using what you learned, what would you tell her?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Look at your 24-hour circle. What would you change, and why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like a health scientist",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Your pupils got big in the dark. Why?",
+       "opts": [
+        "to let in more light so you can see",
+        "because they were scared",
+        "because eyes get tired"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Florence Nightingale's nurses made hospitals cleaner and fewer soldiers died. What else might have helped?",
+       "opts": [
+        "better food, fresh air and fixed drains",
+        "nothing else",
+        "more soldiers"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Settled or still argued about?",
+       "items": [
+        "germs can cause disease",
+        "soap removes germs",
+        "meeting harmless microbes early may prevent some allergies",
+        "sleep helps the body mend",
+        "exactly how much exercise each child needs"
+       ],
+       "cats": [
+        "settled",
+        "still argued about"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each person to what they did.",
+       "pairs": [
+        [
+         "Florence Nightingale",
+         "cleaned up war hospitals and counted the deaths"
+        ],
+        [
+         "Mary Seacole",
+         "nursed soldiers near the battlefield after being turned away"
+        ],
+        [
+         "Eugene Aserinsky",
+         "discovered REM sleep"
+        ],
+        [
+         "David Strachan",
+         "noticed children with more older siblings had fewer allergies"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Reason it out",
+     [
+      {
+       "t": "write",
+       "p": "Your fitness improved in a week. Can you be sure it was the practice? What else could explain it? How could you test it fairly?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Is it possible to be too clean? Give one reason for and one reason against.",
+       "lines": 4
+      },
+      {
+       "t": "fill",
+       "p": "Feelings are made by the brain and the ____ together.",
+       "a": [
+        "body"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Why do you think the Mary Seacole story was forgotten for so long, while Florence Nightingale became famous?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The pupil that changes size",
+   "day": 3,
+   "question": "How does the eye protect itself from too much or too little light?",
+   "need": [
+    "a mirror",
+    "a well-lit room or a window"
+   ],
+   "steps": [
+    "Your child stands near a window (not looking at the sun) and looks at their eyes in a mirror. Look at the black circle in the middle: the pupil. Notice its size.",
+    "Now your child closes their eyes and covers them with their palms for 30 seconds.",
+    "They take their hands away, open their eyes and look in the mirror at once.",
+    "Watch the pupils closely for a few seconds.",
+    "Swap: you do it while your child watches your eyes."
+   ],
+   "predict": "Ask: 'Will the pupils look the same, bigger or smaller when you open your eyes after the dark?'",
+   "observe": "Just after the dark the pupils are big, and within a second or two they shrink in the bright light.",
+   "why": "The pupil is a hole that lets light into the eye. The coloured ring around it, the iris, is a muscle that makes the hole bigger in dim light (to let more in so we can see) and smaller in bright light (to protect the inside of the eye). It does it by itself, without you deciding: this is a reflex. That's why we must never look at the sun: the light is too strong even for a tiny pupil. Many animals have different pupils: cats have slits, goats have sideways bars.",
+   "safety": "Never shine a torch into anyone's eyes, and never look at the sun.",
+   "time": "10 min"
+  },
+  {
+   "id": "e2",
+   "title": "Your skin is falling off",
+   "day": 2,
+   "question": "Is skin always being replaced?",
+   "need": [
+    "clear sticky tape",
+    "a piece of black or dark paper",
+    "a magnifying glass if you have one"
+   ],
+   "steps": [
+    "Press a strip of clear tape firmly onto the inside of your child's forearm (or elbow).",
+    "Peel it off slowly and stick it onto the dark paper.",
+    "Look closely, with the magnifier if you have one.",
+    "Try a second strip on a different spot, like the back of the hand."
+   ],
+   "predict": "Ask: 'Will anything come off on the tape?'",
+   "observe": "Tiny white flakes stuck to the tape.",
+   "why": "Those flakes are dead skin cells. The outer layer of your skin is made of flat, dead cells that act like armour. New cells are always being made underneath and pushed up, and the old ones flake off. Your whole outer skin is replaced about every month or so. A lot of the dust in a house is actually made of tiny flakes of the people who live there! Bathing washes the dead cells, sweat and germs away.",
+   "safety": "Use gentle tape. Don't do it on cuts, rashes or sore skin.",
+   "time": "10 min"
+  },
+  {
+   "id": "e3",
+   "title": "A week of fitness",
+   "day": 2,
+   "question": "Can a little practice every day make us fitter in a week?",
+   "need": [
+    "a timer",
+    "a ruler or measuring tape",
+    "a wall",
+    "a skipping rope (or run on the spot)",
+    "the health chart"
+   ],
+   "steps": [
+    "Stamina test: count how many skips (or steps running on the spot, counting each right foot) your child does in 1 minute.",
+    "Strength test: your child leans their back against a wall and slides down until their knees are bent like a chair (a wall-sit). Time how long they hold it, up to 2 minutes.",
+    "Flexibility test: your child sits on the floor, legs straight, and reaches slowly towards their toes. Measure from fingertips to toes with a ruler (count past the toes as plus, short of them as minus). No bouncing.",
+    "Write the three results down.",
+    "Every day for a week, practise for about 5 minutes: a minute of skipping, a wall-sit, a slow stretch.",
+    "On Day 9, repeat the tests exactly the same way: same time of day, same wall, same ruler."
+   ],
+   "predict": "Ask: 'Which test will improve most after a week? Will any get worse?'",
+   "observe": "Most children improve in at least one test, often stamina or flexibility, though one week is short and results vary.",
+   "why": "When you use muscles, heart and lungs a little more than usual, the body adapts: the muscles and the nerves that control them learn to work together, and with rest they repair and get stronger. Flexibility improves as muscles get used to stretching. Some of the change after one week is also just practice: knowing how to do the test. A fair scientist would ask whether practice or getting fitter caused the change, and test many children over many weeks.",
+   "safety": "Never force a stretch; it should feel like a pull, not pain. Stop if your child feels dizzy or unwell.",
+   "time": "15 min on Day 2, 5 min a day, 10 min on Day 9"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Life-size body map of care",
+   "day": 1,
+   "mins": 12,
+   "need": [
+    "a big sheet of chart paper or joined newspaper",
+    "markers"
+   ],
+   "steps": [
+    "Draw round your child lying on the paper.",
+    "Label every external organ: skin, hair, eyes, ears, nose, mouth, hands, nails, feet, private parts.",
+    "Day by day, add one care rule next to each organ (e.g. eyes: never rub with dirty hands, don't look at the sun; ears: never poke inside).",
+    "Add one 'what it does for me' fact next to each (skin: keeps germs out and lets me feel).",
+    "Stick it on the wall and use it for teaching back on the last day."
+   ],
+   "outcome": "A life-size poster of your child's outer body and how to care for it."
+  },
+  {
+   "id": "a2",
+   "title": "Clean-surroundings survey",
+   "day": 5,
+   "mins": 17,
+   "need": [
+    "a notebook and pencil",
+    "slippers"
+   ],
+   "steps": [
+    "Walk around your home first: kitchen, bathroom, balcony, roof. Then the building or street outside.",
+    "Look for places where water stands still (old tyres, coconut shells, flowerpot trays, coolers, blocked drains). Mosquitoes lay eggs in still water, and their wrigglers grow there in about a week.",
+    "Look for open rubbish, flies, uncovered food and dirty drains.",
+    "Also notice the good things: covered bins, swept steps, a clean water tank lid.",
+    "Make a two-column list: 'germ spots' and 'clean spots'.",
+    "With a grown-up, fix one germ spot at home today, for example tip out the water in a flowerpot tray."
+   ],
+   "outcome": "A survey of your surroundings and one germ spot fixed."
+  },
+  {
+   "id": "a3",
+   "title": "A five-pose yoga sequence",
+   "day": 6,
+   "mins": 17,
+   "need": [
+    "a mat or folded sheet"
+   ],
+   "steps": [
+    "Tadasana (mountain pose): stand tall, feet together, arms by your sides, breathe slowly 5 times. Feel the floor push up.",
+    "Vrikshasana (tree pose): stand on one leg, put the other foot on the inside of your calf or thigh (not the knee), hands together. Hold for 5 breaths, then swap. Wobbling is fine: that's your balance muscles learning.",
+    "Bhujangasana (cobra pose): lie on your tummy, hands under shoulders, gently lift your head and chest, keeping hips down. Hold for 3 breaths.",
+    "Balasana (child's pose): kneel, sit back on your heels, stretch arms forward and rest your forehead on the floor. Breathe 5 times.",
+    "Slow breathing: sit cross-legged, breathe in through the nose counting 4, out counting 6, for 1 minute. Ask: 'What do you notice in your body?'"
+   ],
+   "outcome": "A short calm routine your child can do each morning, and the feeling of balance, stretch and slow breath."
+  },
+  {
+   "id": "a4",
+   "title": "My 24-hour circle",
+   "day": 7,
+   "mins": 15,
+   "need": [
+    "a paper plate or a circle on paper",
+    "colours"
+   ],
+   "steps": [
+    "Divide the circle into 24 slices like a clock for a whole day and night.",
+    "Colour each hour by what your child usually does: sleep (dark blue), school or lessons, play, meals, screens, travel.",
+    "Count the sleep slices. Compare with 9–12 hours.",
+    "Count the active play slices. (Children need at least 1 hour of active play every day.)",
+    "Ask: 'What would you change? What would you need to give up to sleep more?'"
+   ],
+   "outcome": "A picture of your child's day, and one change to try."
+  }
+ ],
+ "project": {
+  "title": "Our family health week",
+  "days": [
+   1,
+   9
+  ],
+  "steps": [
+   "On Day 1, draw a chart with 8 rows (days) and columns: hours slept, minutes of active play, hands washed before meals, yoga or fitness practice, one feeling word.",
+   "Fill it in every evening (2 minutes). A grown-up can do one too.",
+   "On Day 9, look for patterns: did more sleep go with better feelings? Did play days feel different?",
+   "Write one pattern and one question it raises ('Was I happier because I slept more, or did I sleep more because I was happy?').",
+   "Present it to the family with the body map poster."
+  ],
+  "outcome": "A week of real data about your own health, a pattern, and a good question."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Body Care Detectives",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors",
+   "a paper with the cards printed on it"
+  ],
+  "rules": [
+   "Cut out the cards and shuffle them face down.",
+   "Take turns to pick a card and read the front aloud to the others.",
+   "The player to your left answers. A right answer with a reason wins the card.",
+   "If they're stuck, anyone can answer for the card.",
+   "When the cards run out, the player with the most cards teaches one rule to the others."
+  ],
+  "cards": [
+   {
+    "front": "I trap dust with hairs and sticky mucus. Who am I, and how do you care for me?",
+    "back": "The nose: blow into a handkerchief or tissue, then wash hands."
+   },
+   {
+    "front": "I get bigger in the dark and smaller in the light.",
+    "back": "The pupil of the eye."
+   },
+   {
+    "front": "I am the biggest organ, and I'm replaced about every month.",
+    "back": "The skin."
+   },
+   {
+    "front": "I'm yellowish and sticky, and I'm not dirt. I catch dust in your ears.",
+    "back": "Earwax. Never poke inside the ear."
+   },
+   {
+    "front": "Germs love to hide under me if I'm long.",
+    "back": "Nails: keep them short and scrub under them."
+   },
+   {
+    "front": "Tiny insects that live in hair and spread by heads touching.",
+    "back": "Lice. Anyone can get them; a fine comb and treatment get rid of them."
+   },
+   {
+    "front": "Which kind of fitness is touching your toes?",
+    "back": "Flexibility."
+   },
+   {
+    "front": "Which kind of fitness is skipping for five minutes?",
+    "back": "Stamina."
+   },
+   {
+    "front": "When do your muscles actually get stronger?",
+    "back": "While you rest and sleep after exercise."
+   },
+   {
+    "front": "How many hours of sleep does a child your age need?",
+    "back": "About 9 to 12."
+   },
+   {
+    "front": "What is REM sleep?",
+    "back": "Sleep when the eyes move quickly and we dream most."
+   },
+   {
+    "front": "Someone says 'This touch is our secret.' What do you do?",
+    "back": "Say no, get away, and tell a trusted adult. Secrets about touching are never kept."
+   },
+   {
+    "front": "Name a place where mosquitoes could breed at home.",
+    "back": "Any still water: flowerpot trays, coolers, old tyres, buckets."
+   },
+   {
+    "front": "Name a yoga pose for balance.",
+    "back": "Vrikshasana, tree pose."
+   },
+   {
+    "front": "Where might you feel fear in your body?",
+    "back": "Fast heart, fluttery tummy, cold hands (any honest answer)."
+   },
+   {
+    "front": "Who cleaned up the war hospitals in the 1850s?",
+    "back": "Florence Nightingale's nurses; Mary Seacole also nursed soldiers near the front."
+   },
+   {
+    "front": "Why do we brush at night most of all?",
+    "back": "We make less saliva while we sleep, so acid can do more harm."
+   },
+   {
+    "front": "A friend has a big angry feeling. Name two things that help.",
+    "back": "Slow breathing, talking, running, drawing, a hug (any good answer)."
+   }
+  ]
+ },
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Florence Nightingale (1820–1910), England, and Mary Seacole (1805–1881), Jamaica",
+   "idea": "During the Crimean War (1853–1856), far more British soldiers died of diseases like cholera, typhus and dysentery than of wounds. Nightingale led a team of nurses at the army hospital at Scutari, where they cleaned wards, washed linen and organised food. Back in Britain she used careful counts of deaths, drawn as a new kind of chart, to persuade the army and government to improve drains, fresh air and cleanliness in hospitals. Mary Seacole, a Jamaican nurse skilled in treating fevers, offered to join the nurses and was turned down; she paid her own way to the war and ran a 'British Hotel' near the front, feeding and nursing soldiers.",
+   "then": "Nightingale became a national hero. Seacole was popular with soldiers and wrote a best-selling book about her life in 1857, but she was then largely forgotten for over a hundred years.",
+   "now": "Historians agree that Nightingale's work on cleanliness and her statistics changed hospitals for ever, though they note that the death rate at Scutari fell most after a government Sanitary Commission flushed the sewers in 1855. Seacole's story has been recovered, and in 2016 a statue of her was put up outside a London hospital. Many say both should be remembered, and the ordinary nurses and cleaners too.",
+   "status": "accepted",
+   "ask": "Why do you think one nurse became world-famous and the other was forgotten for a century? Who decides which stories get told?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "Eugene Aserinsky (1921–1998) and Nathaniel Kleitman (1895–1999), USA",
+   "idea": "In 1951–1953, Aserinsky was a poor graduate student in Kleitman's sleep laboratory in Chicago. Watching sleeping people, including his own 8-year-old son Armond, with wires recording their eye movements, he noticed that several times a night the eyes darted quickly under the lids, the brain became very active, and people woken then usually said they had been dreaming. In 1953 they published the discovery of REM (rapid eye movement) sleep.",
+   "then": "At first even Aserinsky doubted his recordings, thinking his old machine was faulty. Kleitman, the famous professor, became known as the father of sleep research, and Aserinsky left the field for years.",
+   "now": "REM sleep is accepted everywhere. Scientists now know sleep comes in cycles of deep sleep and REM sleep through the night, and that both matter for the body and the brain. Aserinsky's role as the one who actually found it is now better recognised. Exactly why we dream is still unknown.",
+   "status": "accepted",
+   "ask": "Aserinsky first thought his machine was broken. How could he check whether it was the machine or a real discovery?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "David Strachan (1989, Britain) and Graham Rook (2003, Britain): the 'hygiene hypothesis' and the 'old friends' idea",
+   "idea": "In 1989 Strachan studied over 17,000 British children and found that those with more older brothers and sisters were less likely to get hay fever. He suggested that catching more infections from siblings in early childhood might protect against allergies. Later, Rook suggested a change: it isn't catching illnesses that helps, but meeting the harmless 'old friends' microbes that humans evolved with, in soil, animals, plants and other people.",
+   "then": "The idea became popular, and some people took it to mean that washing and cleaning are bad for children, which Strachan never said.",
+   "now": "Scientists still debate it. Many studies find that children who grow up on farms with animals have fewer allergies, which fits the 'old friends' idea. But no one has shown that handwashing or keeping a clean kitchen causes allergies, and hygiene still saves millions of lives. Most experts now say: wash hands when it matters (before eating, after the toilet), and let children play outside, in mud and with animals.",
+   "status": "debated",
+   "ask": "If being in the mud is good for you but germs on your hands can make you ill, how would you decide when to wash?",
+   "day": 3
+  }
+ ],
+ "story": {
+  "title": "The Night Legs",
+  "text": [
+   "I am a dog, and my name is Kalu, and I live under the neem tree at the edge of the village where the road turns to dust. I belong to nobody and everybody, which suits me. I know every smell in the village. I know who throws rotis and who throws stones. And I know Kiran.",
+   "Kiran runs. Every morning, before the sun is properly up, before even the buffaloes have finished complaining, she comes down the lane in her school shoes with the laces tied twice, and she runs. Out past the pond, along the canal bank, round the big peepal and back. I run with her. Nobody asked me to. It just seemed the right thing to do.",
+   "This winter there was going to be a race at the block school: all the girls of nine and ten from eleven villages. Kiran wanted to win it more than she had ever wanted anything. She told me so, out by the canal, puffing. \"I'm going to run every morning and every evening, Kalu,\" she said. \"Twice as much as anyone.\"",
+   "And she did. Morning and evening. And at night, from under the neem, I could see the blue light of the phone in her window, late, late, while she watched videos of runners from far-away places with long legs and shiny shoes.",
+   "Here is the strange thing. She got slower.",
+   "I noticed before she did. Dogs notice. In the first weeks I had to stretch out properly to keep up with her on the canal bank. By the fifth week I was trotting. Her feet sounded heavy. She breathed in a ragged way. One evening she stopped at the peepal tree and sat down in the dust and cried, very angrily, as if the crying were something else she had to beat.",
+   "\"I'm doing everything,\" she said to me. \"Everything! And I'm getting worse.\"",
+   "I put my head on her knee. It was all I had.",
+   "The next morning Kiran didn't run. Instead she went to see Santosh Tai, who sells milk from the big steel cans on the back of her cycle. Everybody knew that Tai had once run for the state, a long time ago, and had a photograph in a frame with a medal round her neck, but she never talked about it. I followed, because Tai sometimes has a bit of something for me.",
+   "Tai listened while Kiran told her everything: the mornings, the evenings, the race. Then Tai asked a question nobody had asked. \"And when do you sleep?\"",
+   "Kiran shrugged. \"Late. Eleven. Twelve, sometimes.\"",
+   "\"And you're up at five.\"",
+   "\"Yes.\"",
+   "Tai poured the milk, slowly, measuring. \"When you run,\" she said, \"you don't get stronger. Did you know that? When you run, you make your legs a little bit tired and a little bit torn, like a kurta that has been worn too many times. Tiny tears, too small to see. You get stronger afterwards. When you rest. When you sleep. That's when your body sews the tears up, and it sews them up a bit thicker than before, in case you ask again tomorrow.\"",
+   "Kiran stared at her.",
+   "\"The running asks the question,\" said Tai. \"The sleeping answers it. You've been asking and asking and never letting your legs answer.\"",
+   "\"So I should run less?\"",
+   "\"You should sleep more. And rest one day a week. Let the night legs do their work.\"",
+   "Kiran went home looking as if somebody had told her the sky was green. But that night, for the first time in weeks, the blue light went off early. And on Sunday she didn't run at all. She sat on the step and shelled peas with her mother, and threw me the empty pods, which I don't eat, but I appreciated the thought.",
+   "I watched her for three weeks. She ran in the mornings only. She went to sleep when the village went to sleep. She rested on Sundays. And by the third week, out on the canal bank, I had to stretch out properly again to keep up with her. Then I had to stretch out more than properly. Her feet were light. She breathed the way the wind blows across the fields, steady and sure.",
+   "On race day there were a hundred and twenty girls on the school ground and a man with a whistle and a lot of people shouting. Dogs weren't allowed. I went anyway and watched from behind the water tank.",
+   "Kiran didn't win. A tall girl from Bhiwani won, and Kiran came fourth, which out of a hundred and twenty is a great many girls behind you. But when the teacher read out the times, Kiran's was the fastest she had ever run, by a long way.",
+   "She found me behind the water tank afterwards and sat down in the dust with her medal-less neck and her red face, and she laughed, the opposite of that crying by the peepal.",
+   "\"Fourth, Kalu,\" she said. \"And next year—\"",
+   "She didn't finish. She yawned, a huge yawn, the kind dogs do. Then she put her head down on my side, right there behind the water tank with the whole sports day going on, and fell asleep.",
+   "I didn't move. I know what happens while you sleep."
+  ],
+  "epiphany": "Exercise doesn't make muscles stronger by itself: it causes tiny wear and tear, and the body repairs and strengthens them during rest and sleep. The turn is Santosh Tai's question, 'And when do you sleep?', and her line that the running asks the question and the sleeping answers it. Underneath: more is not always better, a forgotten woman athlete holds the knowledge, and a stray dog who belongs to nobody understands it best.",
+  "ask": [
+   "Why did Kiran get slower even though she was running twice as much?",
+   "What did Santosh Tai mean by 'the running asks the question, the sleeping answers it'?",
+   "What changed in Kiran's day after she talked to Tai?",
+   "Kiran came fourth. Was that a good result? Why?",
+   "Why do you think Kalu didn't move at the end?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "You get stronger while you rest, not while you exercise.",
+   "more": "Exercise is a signal; rest and sleep are when the body repairs and builds. That's why athletes plan rest days, and why growing children need so much sleep. Use the fitness test results and the story to show it."
+  },
+  {
+   "idea": "Your body protects itself all the time, mostly without asking you.",
+   "more": "Pupils shrink in bright light, tears wash the eyes, earwax and nose hairs trap dust, skin replaces itself, sweat cools you. Hygiene helps the body do what it's already doing."
+  },
+  {
+   "idea": "Health belongs to the whole street, not just one person.",
+   "more": "Clean water, drains and taking away rubbish stop disease for everyone. The people who do this work keep a town healthy. One stagnant pot can breed mosquitoes for a whole building."
+  }
+ ],
+ "unknowns": [
+  "Why do we sleep at all? Scientists know sleep helps the body mend and the brain sort memories, but why animals need to switch off for so long, at such risk, is still not fully understood.",
+  "Why do we dream? There are many ideas, and nobody has proved any of them.",
+  "Exactly how much meeting harmless microbes in early childhood protects against allergies is still being studied and argued about."
+ ],
+ "big": [
+  "If your body is replacing its skin every month, are you the same person you were last year?",
+  "Is more exercise always better? When is 'more' too much?",
+  "Who keeps a whole town healthy? Do they get enough credit?",
+  "Are any feelings bad, or only some things we do with them?",
+  "Why do you think animals sleep, even when sleeping is dangerous for them?"
+ ],
+ "challenge": [
+  {
+   "q": "'No pain, no gain.' Do you have to hurt to get fitter?",
+   "hint": "No. Muscles feeling tired and a bit stiff the next day is normal, but sharp pain means stop. Bodies get fitter with steady practice and enough rest; pushing through pain often causes injury. Ask: why might people like the saying anyway?"
+  },
+  {
+   "q": "'Earwax is dirt and must be cleaned out.'",
+   "hint": "Doctors say no: earwax traps dust and germs and moves out by itself. Poking cotton buds into the ear can push wax deeper or damage the eardrum. Only the outer ear needs wiping. Ask: why do you think so many people believe ears must be cleaned inside?"
+  },
+  {
+   "q": "'Yoga is thousands of years old, exactly as we do it today.'",
+   "hint": "Yoga as a practice of breath, attention and meditation is very old in India, described in texts like Patanjali's Yoga Sutras. But many of the standing postures done in classes today were developed or became popular in the 20th century, for example by teachers like T. Krishnamacharya in Mysore. Historians still discuss how old each pose is. Ask: does a practice have to be ancient to be good?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A cat",
+   "view": "A cat spends a lot of each day licking itself clean, and sleeps 12 to 16 hours a day. Its rough tongue works like a comb. Ask: why might a hunter that sleeps so much need to stay so clean? (Smell: prey and enemies can smell a dirty cat.)"
+  },
+  {
+   "who": "A sanitation worker",
+   "view": "Sanitation workers clean drains, sewers and streets so that whole towns stay healthy, often with too little protection and too little thanks. Ask: who is the real hero of a town's health, the doctor or the drain-cleaner? Can it be both?"
+  },
+  {
+   "who": "An ASHA worker (Accredited Social Health Activist)",
+   "view": "In villages across India, ASHA workers, all women, visit families to talk about clean water, vaccines, babies' health and mosquitoes. Ask: why might a neighbour you know be listened to more than a poster?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Sleep Is for Everyone",
+   "author": "Paul Showers",
+   "for": "read together",
+   "age": "5–8",
+   "why": "Why people and animals sleep, from the 'Let's-Read-and-Find-Out Science' series."
+  },
+  {
+   "title": "Your Skin and Mine",
+   "author": "Paul Showers",
+   "for": "read together",
+   "age": "5–8",
+   "why": "What skin does, and why skin comes in different colours."
+  },
+  {
+   "title": "Florence Nightingale",
+   "author": "Demi",
+   "for": "read together",
+   "age": "6–10",
+   "why": "A beautifully illustrated life of the nurse who used cleanliness and numbers to save lives."
+  },
+  {
+   "title": "The Way I Feel",
+   "author": "Janan Cain",
+   "for": "read together",
+   "age": "3–7",
+   "why": "Bright pictures and simple words for many feelings, good for the feelings day."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name four external organs and one way to care for each.",
+   "a": "e.g. skin: bathe; eyes: don't rub with dirty hands or look at the sun; ears: never poke inside; nails: keep short and clean."
+  },
+  {
+   "q": "Why do pupils get bigger in the dark?",
+   "a": "To let in more light so we can see; the iris muscle does it by itself."
+  },
+  {
+   "q": "What do you do if someone touches you in a way that feels wrong, or asks you to keep a touching secret?",
+   "a": "Say no, get away, and tell a trusted adult; keep telling until someone helps. It is never your fault."
+  },
+  {
+   "q": "How do clean surroundings keep people healthy?",
+   "a": "No still water for mosquitoes, no rubbish for flies and germs, clean drains and water."
+  },
+  {
+   "q": "Name three kinds of fitness and an activity for each.",
+   "a": "Stamina (skipping, running), strength (climbing, wall-sit), flexibility (yoga, stretching)."
+  },
+  {
+   "q": "When do muscles get stronger, and why does that matter?",
+   "a": "During rest and sleep after exercise, so rest and enough sleep are part of getting fit."
+  },
+  {
+   "q": "How much sleep does a child your age need, and what is REM sleep?",
+   "a": "About 9–12 hours; REM is the part of sleep with quick eye movements and most dreams."
+  },
+  {
+   "q": "Where do you feel a big feeling in your body, and what helps?",
+   "a": "Any honest answer, e.g. fast heart when scared; slow breathing, talking to someone."
+  }
+ ]
+}

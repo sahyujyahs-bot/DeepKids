@@ -5,15 +5,33 @@
  "level": 3,
  "n": "forces-and-movement",
  "title": "Measuring forces and friction",
- "source": "DeepKids Combined. Covers Cambridge Stage 3 Physics (push and pull, changing shape, how big is a force, forcemeters, friction). No textbook needed.",
- "summary": "Your child already knows what forces do. Now they learn to measure them. They build their own forcemeter, measure pushes and pulls in newtons, and investigate friction: the force that slows things down, which we fight with oil and wheels but also need to walk, write and brake.",
- "builds_on": "Class 1: pushes and pulls start things moving. Class 2: forces change speed, direction and shape. Next, in Class 4, your child explores spinning, floating and sinking; in Class 5, air and water resistance and many forces at once.",
+ "source": "DeepKids Combined. Covers Cambridge Stage 3 Physics: push and pull, changing shape, how big is that force?, forcemeters, friction. No textbook needed.",
+ "summary": "Your child already knows what forces do. Now they learn to measure them. They draw forces as arrows with size and direction, decide when forces are balanced, build their own forcemeter and measure in newtons, find the difference between mass (how much stuff) and weight (how hard the Earth pulls), test how big forces change shapes, and investigate friction: the force that slows things, makes heat and wears things out, but also lets us walk, write and hold hands. They discover why rolling beats sliding, and why the wheel mattered so much.",
+ "builds_on": "Class 1: pushes and pulls; things don't start or stop by themselves; every push gets a push back; rubbing slows things. Class 2: the four jobs of a force, elastic and plastic, a bigger pull makes a bigger stretch, speed, falling and air resistance. Next: Class 4 uses forces in balance, simple machines, pressure and floating; Class 5 adds them all up in force diagrams, with air and water resistance, terminal speed and rockets.",
+ "subconcepts": [
+  "forces have a size and a direction, drawn as arrows",
+  "balanced and unbalanced forces",
+  "the support force: a table pushes up on a book",
+  "small, medium and large forces, put in order",
+  "the newton (N), and how a forcemeter measures it",
+  "springs stretch in step with the pull (why forcemeters work)",
+  "mass and weight: kilograms of stuff, newtons of pull",
+  "your weight on the Moon",
+  "forces change shape: a bigger force, a bigger change",
+  "friction acts where two surfaces rub, against the movement",
+  "rough and smooth surfaces, and heavier things pressing harder",
+  "friction makes heat and wears things away",
+  "rolling friction is much smaller than sliding friction: wheels, rollers, ball bearings",
+  "making friction bigger (treads, grip, sand) or smaller (oil, polish, water)",
+  "fair tests and repeated measurements"
+ ],
  "goals": [
-  "By the end your child can explain that forces have a size and a direction, and show both with an arrow (longer arrow for a bigger force).",
-  "By the end your child can use a forcemeter to measure a pull in newtons, and make a simple forcemeter themselves.",
-  "By the end your child can explain friction as a force between two surfaces that slows movement, and say how rough and smooth surfaces change it.",
-  "By the end your child can plan a fair test: change one thing, keep everything else the same, measure, and repeat.",
-  "By the end your child can give examples of friction being useful and of friction being a problem, and ways people increase or reduce it."
+  "By the end your child can draw forces as arrows showing size and direction, and say whether forces are balanced or unbalanced.",
+  "By the end your child can build and read a forcemeter, measure forces in newtons, and put forces in order of size.",
+  "By the end your child can explain the difference between mass and weight, and say what would happen to their weight on the Moon.",
+  "By the end your child can plan and carry out a fair test of friction on different surfaces, repeat measurements and say what they found.",
+  "By the end your child can explain why rolling is easier than sliding, and give ways to make friction bigger and smaller.",
+  "By the end your child can give examples of friction as a help and as a problem, and name people whose knowledge of friction was left out of the books."
  ],
  "words": [
   [
@@ -21,28 +39,40 @@
    "a push or a pull; it has a size and a direction"
   ],
   [
+   "balanced forces",
+   "forces that cancel each other out, so nothing changes"
+  ],
+  [
+   "support force",
+   "the push up from a surface on whatever rests on it"
+  ],
+  [
    "newton (N)",
-   "the unit we measure force in, named after Isaac Newton; a 100 g packet of salt pulls down with about 1 newton"
+   "the unit we measure force in; a 100 g packet of salt pulls down with about 1 newton"
   ],
   [
    "forcemeter",
    "a tool with a spring that measures forces in newtons"
   ],
   [
+   "mass",
+   "how much stuff something is made of, measured in grams and kilograms"
+  ],
+  [
+   "weight",
+   "how hard gravity pulls on something, measured in newtons"
+  ],
+  [
    "friction",
-   "a force between two surfaces rubbing together that slows things down"
-  ],
-  [
-   "surface",
-   "the outside or top layer of something"
-  ],
-  [
-   "grip",
-   "how well something holds on without slipping"
+   "a force between two surfaces rubbing together that acts against the movement"
   ],
   [
    "lubricant",
    "something slippery, like oil, that reduces friction"
+  ],
+  [
+   "ball bearing",
+   "small steel balls that let wheels roll instead of rub"
   ],
   [
    "fair test",
@@ -58,40 +88,41 @@
   {
    "n": 1,
    "title": "Forces have size and direction",
-   "goal": "Recall what forces do, then show their size and direction with arrows.",
+   "goal": "Recall what forces do, then show their size and direction with arrows and decide when they balance.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Four jobs quiz",
      "mins": 6,
-     "do": "Ask: 'What can a force do?' (Start or stop, speed up or slow down, change direction, change shape.) Then ask your child to show you a force that does two jobs at once (kicking a rolling ball sideways: changes direction and speed)."
+     "do": "Ask: 'What can a force do?' (Start or stop, speed up or slow down, change direction, change shape.) 'What is elastic? Plastic?' Then ask your child to show you a force that does two jobs at once (kicking a rolling ball sideways: changes direction and speed). Ask: 'Last year we found you can push without being pushed back. True?' (False! Every push has a push back.)"
     },
     {
      "kind": "do",
      "title": "Arrow drawings",
-     "mins": 14,
-     "do": "Draw a box on a sheet. Ask your child to push a real box gently, then hard. Draw a short arrow for the gentle push and a long arrow for the hard push, pointing the way the push went. Then draw tug of war: two arrows pointing opposite ways. Ask: 'If the arrows are the same length, what happens?' (Nothing moves; the forces are balanced.) 'If one is longer?' (It moves that way.)"
+     "mins": 12,
+     "do": "Draw a box on a sheet. Ask your child to push a real box gently, then hard. Draw a short arrow for the gentle push and a long arrow for the hard push, starting on the box and pointing the way the push went. Then draw tug of war: two arrows pointing opposite ways. Ask: 'If the arrows are the same length, what happens?' (Nothing moves: the forces are balanced.) 'If one is longer?' (The rope moves that way: unbalanced.) Say: 'Every force has two things: how big it is and which way it goes. An arrow shows both.'"
     },
     {
      "kind": "act",
-     "title": "Balanced and unbalanced",
+     "title": "Balanced or unbalanced?",
      "mins": 12,
-     "do": "Do Activity a1: a book on a table pushed from both sides with fingers, a hanging bag, and a tug of war, deciding each time whether the forces are balanced.",
+     "do": "Do Activity a1: a book pushed from both sides with one finger each, a hanging bag, and a tug of war. Each time your child decides: balanced (nothing changes) or unbalanced (something starts, stops, speeds up, slows or turns), and draws the arrows.",
      "ref": "a1"
     },
     {
      "kind": "think",
      "title": "Are there forces when nothing moves?",
-     "mins": 8,
-     "do": "Point at a book lying still on the table. Ask: 'Are there any forces on this book?' Many children say no. Hint: 'Why doesn't it fall?' The Earth pulls it down (gravity) and the table pushes it up. The forces are balanced, so it stays still. Draw it with two arrows."
+     "mins": 10,
+     "do": "Point at a book lying still on the table. Ask: 'Are there any forces on this book?' Many children say no. Hint: 'Why doesn't it fall?' The Earth pulls it down (gravity) and the table pushes it up (the support force). Show it: put the book on a thin plastic ruler bridged between two tins, and watch the ruler bend. Say: 'The table bends too, a tiny bit, too little to see, and pushes back up like a squashed spring.' Draw the book with two equal arrows, one up and one down."
     }
    ],
    "need": [
-    "a cardboard box",
-    "paper and coloured pens",
+    "a box",
     "a book",
-    "a bag with a handle",
-    "a dupatta"
+    "a bag",
+    "a dupatta",
+    "a thin plastic ruler and two tins",
+    "paper and pencil"
    ]
   },
   {
@@ -103,210 +134,288 @@
      "kind": "warmup",
      "title": "Guess the pull",
      "mins": 5,
-     "do": "Hand your child a 100 g packet (salt, dal), then a 1 kg packet of atta. Ask: 'How much harder does the big one pull down on your hand?' Let them guess."
+     "do": "Hand your child a 100 g packet (salt or dal), then a 1 kg packet of atta. Ask: 'How many times harder does the big one pull down on your hand?' Let them guess. (Ten times.) Ask: 'How could we measure a pull instead of guessing?' Remind them of last year's rubber band: more coins, more stretch."
     },
     {
      "kind": "act",
      "title": "Build the forcemeter",
      "mins": 22,
-     "do": "Do Activity a2. Use a 100 g packet to mark 1 N, two packets for 2 N, and so on. A 100 g packet pulls down with very nearly 1 newton.",
+     "do": "Do Activity a2. Use a 100 g packet to mark 1 N, two packets for 2 N, and so on. A 100 g packet pulls down with very nearly 1 newton. Ask as you go: 'Are the marks evenly spaced?' (Nearly, because the band stretches in step with the pull, as Hooke found.)",
      "ref": "a2"
     },
     {
      "kind": "talk",
-     "title": "Meet Isaac Newton",
+     "title": "Meet Isaac Newton, and the apple",
      "mins": 8,
-     "do": "Say: 'The newton is named after Isaac Newton, who explained how forces make things move.' Then try the challenge question about the apple story. Ask: 'Did an apple really fall on his head?' Listen, then share what we actually know (see the challenge hint)."
+     "do": "Say: 'The newton is named after Isaac Newton, who explained how forces make things move.' Then try the first challenge question: 'Did an apple really fall on his head?' Listen, then share what we actually know from the challenge hint. Ask: 'Who else's work did Newton build on?' (Galileo, Hooke and many others.)"
     },
     {
      "kind": "review",
      "title": "Try it",
      "mins": 5,
-     "do": "Your child measures the pull of three things with their forcemeter: a pencil box, a water bottle, a shoe. Write each in newtons."
+     "do": "Your child measures the pull of three things with their forcemeter: a pencil box, a water bottle, a shoe. Write each in newtons. Ask: 'Which pulls down hardest?'"
     }
    ],
    "need": [
-    "a long thick rubber band",
-    "a strip of card about 25 cm long",
-    "a paper clip",
-    "a small plastic bag or cup with string",
-    "several 100 g packets of salt or dal (or 100 g of rice in bags)",
-    "a ruler and pen",
-    "tape"
+    "thick rubber band",
+    "card strip 25 cm",
+    "paper clip",
+    "small bag or cup with string",
+    "four 100 g packets",
+    "a 1 kg packet",
+    "ruler, pen, tape"
    ]
   },
   {
    "n": 3,
-   "title": "Measuring pulls",
-   "goal": "Use the forcemeter to measure the force needed to drag things.",
+   "title": "Mass and weight",
+   "goal": "Tell apart how much stuff something has (mass) from how hard the Earth pulls it (weight).",
    "steps": [
     {
      "kind": "warmup",
-     "title": "Predict and measure",
+     "title": "Kilograms or newtons?",
      "mins": 5,
-     "do": "Ask: 'Will it take a bigger force to drag a full bag or an empty bag across the floor?' Write the prediction."
+     "do": "Ask: 'When we buy 1 kg of rice, are we buying a pull?' Let them think. Say: 'Kilograms tell us how much stuff there is. Scientists call that mass. Newtons tell us how hard the Earth pulls it. That pull is called weight. In daily life we mix them up, and that's OK at the shop, but scientists keep them apart.'"
     },
     {
      "kind": "exp",
-     "title": "Drag test",
-     "mins": 20,
-     "do": "Do Experiment e1. Hook the forcemeter to a shoe and drag it slowly and steadily across the floor. Read the force while it's moving, not at the start.",
-     "ref": "e1"
+     "title": "Weigh and pull",
+     "mins": 15,
+     "do": "Do Experiment e3: put five things on a kitchen scale and write their mass in grams, then hang each from the forcemeter and write the pull in newtons. Ask: 'Do you see a pattern?' (About 1 N for every 100 g.) 'So what would 1 kg of atta pull with?' (About 10 N.)",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Your weight on the Moon",
+     "mins": 10,
+     "do": "Ask: 'If you went to the Moon, would there be less of you?' (No, your mass stays the same.) 'Would the Moon pull you as hard as the Earth?' (No, the Moon is much smaller, so it pulls about one sixth as hard.) Work it out: a 30 kg child pulls down on Earth with about 300 N; on the Moon about 50 N. Ask: 'How high could you jump on the Moon?' (About six times higher.) Say: 'Your mass goes everywhere with you. Your weight depends on where you are.'"
     },
     {
      "kind": "ws",
-     "title": "Read the forcemeter",
+     "title": "Core worksheet",
      "mins": 10,
-     "do": "Do Worksheet ws1. Your child reads pictured forcemeters and draws force arrows.",
+     "do": "Do Worksheet ws1 sections A and B: arrows, balanced forces, reading forcemeters and mass versus weight. Section C is for Day 5.",
      "ref": "ws1"
-    },
-    {
-     "kind": "review",
-     "title": "Why repeat?",
-     "mins": 5,
-     "do": "Ask: 'We dragged each shoe three times. Were the numbers exactly the same?' (Probably not.) 'Why do scientists repeat tests?' (To check the result wasn't an accident, and to take the middle value.)"
     }
    ],
    "need": [
-    "the home-made forcemeter",
-    "a shoe",
-    "small weights to put in it (coins, a packet)",
+    "a kitchen scale",
+    "the forcemeter",
+    "five small things with handles or in a bag",
     "worksheet ws1"
    ]
   },
   {
    "n": 4,
+   "title": "Small forces, big forces, new shapes",
+   "goal": "Put forces in order of size and do a fair test of how a bigger force changes a shape more.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Put forces in order",
+     "mins": 8,
+     "do": "Write on slips: pressing a phone screen, lifting a school bag, opening a fridge, pushing a car, an ant pulling a crumb, kicking a football, a crane lifting a lorry. Your child lays them in a line from smallest to biggest force. Ask: 'Which ones could we measure with our forcemeter? Which are too big?' (Pushing a car would need a forcemeter of hundreds of newtons.)"
+    },
+    {
+     "kind": "exp",
+     "title": "The clay drop test",
+     "mins": 22,
+     "do": "Do Experiment e4: drop equal clay balls from three heights onto a tile and measure the flat patch each makes. Before testing, ask: 'What must we keep the same?' (Same size ball, same clay, same tile, drop not throw.) 'What do we change?' (Only the height.) Record in a table.",
+     "ref": "e4"
+    },
+    {
+     "kind": "think",
+     "title": "What did we find?",
+     "mins": 5,
+     "do": "Ask: 'Which drop made the biggest flat patch? Why?' (From higher up it was going faster when it hit, so the tile pushed back harder to stop it, and squashed it more.) 'Would a rubber ball keep the flat patch?' (No, it's elastic.)"
+    },
+    {
+     "kind": "review",
+     "title": "Shapes in the kitchen",
+     "mins": 5,
+     "do": "Ask your child to show three shape-changing forces in the kitchen and say whether each is small or big: rolling a roti (medium), squeezing a lemon (medium), crushing garlic with a stone (big), tearing a tissue (small)."
+    }
+   ],
+   "need": [
+    "paper slips",
+    "clay or firm atta dough",
+    "a tile or plate",
+    "a ruler",
+    "a measuring tape"
+   ]
+  },
+  {
+   "n": 5,
    "title": "What is friction?",
-   "goal": "Feel friction and find out how surfaces change it.",
+   "goal": "Feel friction, measure it, and find that it makes heat and wears things away.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Rub your hands",
      "mins": 5,
-     "do": "Rub your palms together fast for 10 seconds. Ask: 'What do you feel?' (Warm.) 'Now rub with soap and water. Easier or harder?' (Easier.) Say: 'The force that fights rubbing is called friction. It slows things down and makes heat.'"
+     "do": "Rub your palms together fast for 10 seconds. Ask: 'What do you feel?' (Warm.) 'Now rub with soap and water. Easier or harder?' (Easier.) Say: 'The force that acts when surfaces rub is called friction. It always pushes against the way things are moving. It slows things down and makes heat.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Drag test",
+     "mins": 18,
+     "do": "Do Experiment e1. Hook the forcemeter to a shoe and drag it slowly and steadily across the floor. Read the force while it's moving, not at the jerk at the start. Do it three times each with 0, 1 and 2 packets in the shoe.",
+     "ref": "e1"
+    },
+    {
+     "kind": "review",
+     "title": "Why repeat?",
+     "mins": 5,
+     "do": "Ask: 'We dragged each shoe three times. Were the numbers exactly the same?' (Probably not.) 'Why do scientists repeat tests?' (To check the result wasn't an accident, and to take the middle value.) Circle the middle value in each row."
+    },
+    {
+     "kind": "ws",
+     "title": "Friction makes heat and wear",
+     "mins": 12,
+     "do": "Rub an eraser hard on paper 20 times and touch it: warm. Look at the soles of old chappals, a worn step, a pencil tip. Ask: 'Where did the missing rubber, stone and lead go?' (Rubbed off in tiny bits by friction.) Then do section C of Worksheet ws1 together.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "soap and water",
+    "the forcemeter",
+    "a shoe",
+    "two 100 g packets",
+    "an eraser and paper",
+    "an old pair of chappals"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Rough and smooth",
+   "goal": "Do a fair test of friction on different surfaces, test Leonardo's surprise, and hear the story.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: Arjun's Wish",
+     "mins": 11,
+     "do": "Read the story aloud. Don't explain it. Ask: 'List everything that went wrong without friction' and 'What did Arjun mean, friction was also what let him hold on?'"
     },
     {
      "kind": "exp",
      "title": "Surface test",
-     "mins": 25,
-     "do": "Do Experiment e2: drag the same shoe across tiles, a durrie, a towel, sandpaper or a doormat, and a steel plate, measuring the force each time. This is a fair test: same shoe, same weight inside, only the surface changes.",
+     "mins": 20,
+     "do": "Do Experiment e2: drag the same shoe with one packet inside across tiles, a durrie, a towel, a doormat and a steel plate, measuring the force three times on each. Ask: 'What did we keep the same?' (Shoe, weight, pulling slowly.) 'Which surface needed the biggest force? Why?' (Rough surfaces have more bumps that catch on each other.)",
      "ref": "e2"
     },
     {
-     "kind": "think",
-     "title": "What did we find?",
-     "mins": 10,
-     "do": "Ask: 'Which surface needed the biggest force? Why?' (Rough surfaces have more bumps that catch on each other.) 'What did we keep the same? Why does that matter?' Then talk about voice v1: Leonardo and Amontons discovered surprising rules about friction.",
+     "kind": "talk",
+     "title": "Leonardo's surprise",
+     "mins": 9,
+     "do": "Talk about voice v1. Then test Leonardo's claim: drag a brick-shaped box of books on its big face, then on its thin side, with the forcemeter. Ask: 'Did the touching area change the friction?' (Usually hardly at all.) Ask the voice's question.",
      "ref": "v1"
     }
    ],
    "need": [
     "the forcemeter",
-    "a shoe with a packet inside",
-    "tiles, a durrie, a towel, a doormat or sandpaper, a steel plate or tray"
-   ]
-  },
-  {
-   "n": 5,
-   "title": "Friction: friend or foe?",
-   "goal": "Find where friction helps us and where it gets in our way.",
-   "steps": [
-    {
-     "kind": "warmup",
-     "title": "Slippery socks",
-     "mins": 5,
-     "do": "On a smooth floor, your child slides in socks, then tries in rubber chappals. Ask: 'Which gave more grip? Why?' (Rubber has more friction.)"
-    },
-    {
-     "kind": "game",
-     "title": "Friction Rally",
-     "mins": 15,
-     "do": "Play the Friction Rally board game (g1). Each square says whether friction is helping or causing trouble; your child must explain why before moving on.",
-     "ref": "g1"
-    },
-    {
-     "kind": "talk",
-     "title": "Ancient builders",
-     "mins": 10,
-     "do": "Talk about voice v2. A tomb painting in Egypt shows a giant statue on a sledge being pulled over sand while someone pours water in front. Ask: 'Why would you pour water on sand?' Then try it: drag a small box over dry sand and slightly wet sand, using the forcemeter.",
-     "ref": "v2"
-    },
-    {
-     "kind": "ws",
-     "title": "Friend or foe sort",
-     "mins": 10,
-     "do": "Do Worksheet ws2: sort where friction helps and where it is a problem, and say how people increase or reduce it.",
-     "ref": "ws2"
-    }
-   ],
-   "need": [
-    "socks and rubber chappals",
-    "the printed Friction Rally game, a die and coins",
-    "a tray of sand, a little water",
-    "a small box",
-    "worksheet ws2"
-   ]
-  },
-  {
-   "n": 6,
-   "title": "Design challenge",
-   "goal": "Use what we learned to solve a real friction problem.",
-   "steps": [
-    {
-     "kind": "warmup",
-     "title": "The problem",
-     "mins": 5,
-     "do": "Say: 'Nani's heavy trunk needs to move across the room, and she can't lift it. How can we make it easier using friction?' List ideas: wheels, rollers (pencils or round sticks underneath), a cloth underneath on a smooth floor, oil (messy!)."
-    },
-    {
-     "kind": "do",
-     "title": "Project: Move the load",
-     "mins": 30,
-     "do": "Do the project. Your child tests at least three ideas with a heavy book box and the forcemeter, and records the force for each. Help them keep it fair: same box, same distance, pull slowly."
-    },
-    {
-     "kind": "review",
-     "title": "Best design",
-     "mins": 5,
-     "do": "Ask: 'Which idea needed the smallest force? Why do you think rollers work so well?' (Rolling has much less friction than sliding. That's why the wheel was such a big invention.)"
-    }
-   ],
-   "need": [
-    "a box with books in it",
-    "round pencils or sticks for rollers",
-    "a toy car's wheels or a skateboard if you have one",
-    "a cloth",
-    "the forcemeter"
+    "the same shoe with one packet",
+    "tiles, a durrie, a towel, a doormat, a steel plate",
+    "a brick-shaped box of books"
    ]
   },
   {
    "n": 7,
+   "title": "Rolling beats sliding",
+   "goal": "Discover that rolling has far less friction than sliding, and use it to move a heavy load.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Socks and chappals",
+     "mins": 5,
+     "do": "On a smooth floor, your child slides in socks, then tries in rubber chappals. Ask: 'Which gave more grip? Why?' (Rubber has more friction.) 'Why do chappal soles have a pattern?' (Treads grip the ground and push water out of the way.)"
+    },
+    {
+     "kind": "do",
+     "title": "Marble bearings",
+     "mins": 10,
+     "do": "Put a heavy book flat on the table and try to spin it with one finger: hard. Now put a tin lid upside down, fill it with marbles, put the book on top and spin again: it whirls round. Ask: 'What changed?' (The marbles roll instead of the book rubbing.) Say: 'This is how ball bearings work, in cycles, fans and car wheels. Rolling has much less friction than sliding.'"
+    },
+    {
+     "kind": "do",
+     "title": "Project: move Nani's trunk",
+     "mins": 25,
+     "do": "Say: 'Nani's heavy trunk needs to move across the room and she can't lift it.' Do the project: your child tests sliding, rollers (round pencils or rolling pins), a cloth underneath and toy-car wheels, measuring the force for each three times with the forcemeter. Help them keep it fair: same box, same floor, pull slowly. Ask: 'Which needed the smallest force? Why was the wheel such a big invention?'"
+    }
+   ],
+   "need": [
+    "socks and rubber chappals",
+    "a heavy book",
+    "a tin lid and 15 marbles",
+    "a box loaded with books",
+    "round pencils or two rolling pins",
+    "a cloth",
+    "a toy truck or skateboard",
+    "the forcemeter"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Friction: friend or foe?",
+   "goal": "Find where friction helps and where it gets in the way, and weigh up an ancient puzzle.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Friction Rally",
+     "mins": 14,
+     "do": "Play the Friction Rally board game (g1). On each square your child must say whether friction is helping or causing trouble, and why, before following the square.",
+     "ref": "g1"
+    },
+    {
+     "kind": "talk",
+     "title": "Pouring water on sand",
+     "mins": 12,
+     "do": "Talk about voice v2. A tomb painting in Egypt shows a giant statue on a sledge being pulled over sand while someone pours liquid in front. Ask: 'Why would you pour water on sand?' Then try it: drag a small box over dry sand and over slightly damp sand in a tray, using the forcemeter. Ask the voice's question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Friend or foe sheet",
+     "mins": 14,
+     "do": "Do Worksheet ws2: sort where friction helps and where it is a problem, choose how people increase or reduce it, and build the force diagrams.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "the printed board game, a die and counters",
+    "a tray of dry sand and a cup of water",
+    "a small box",
+    "the forcemeter",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 9,
    "title": "Review and teach it back",
-   "goal": "Pull it together: forces, measuring, friction.",
+   "goal": "Pull it all together: arrows, newtons, mass and weight, friction.",
    "steps": [
     {
      "kind": "ws",
      "title": "Challenge sheet",
      "mins": 12,
-     "do": "Do Worksheet ws3 together. Read aloud and let your child reason out loud.",
+     "do": "Do Worksheet ws3 together. Read aloud and let your child reason out loud before writing.",
      "ref": "ws3"
     },
     {
      "kind": "think",
      "title": "Big questions",
      "mins": 10,
-     "do": "Pick two big questions to talk about: 'What would the world be like with no friction at all?' (You couldn't walk, write, tie a knot or stop a car; things would slide for ever.) 'Is there friction in space?' Listen for their reasons."
+     "do": "Pick two big questions: 'What would the world be like with no friction at all?' (You couldn't walk, write, tie a knot or stop a car; things would slide for ever.) 'Is there friction in space?' (Not between a spacecraft and empty space, but there is inside its machines.) Read the 'women who carry water' perspective and ask its question."
     },
     {
      "kind": "check",
      "title": "Teach it back",
      "mins": 18,
-     "do": "Your child teaches you how to use the forcemeter and what friction is, using the things from this week. Ask the check questions as a curious student. Finish: 'Show me one way to make more friction and one way to make less.'"
+     "do": "Your child teaches you how to use the forcemeter, the difference between mass and weight, and what friction is, using the things from this week. Ask the check questions as a curious student. Finish: 'Show me one way to make more friction and one way to make less.'"
     }
    ],
    "need": [
     "worksheet ws3",
-    "the forcemeter"
+    "the forcemeter, shoe and box from this week"
    ]
   }
  ],
@@ -314,61 +423,152 @@
   {
    "id": "ws1",
    "tier": "core",
-   "title": "Measuring forces",
+   "title": "Arrows, newtons and friction",
    "day": 3,
    "sections": [
     [
-     "A. Read it",
+     "A. Arrows and balance",
      [
       {
-       "t": "fill",
-       "p": "The unit of force is the ____.",
+       "t": "forces",
+       "p": "A book lies still on a table. Show both forces.",
+       "obj": "a book on a table",
+       "options": [
+        "gravity",
+        "table pushes up",
+        "push",
+        "friction"
+       ],
        "a": [
-        "newton",
-        "newtons",
-        "N"
+        {
+         "name": "gravity",
+         "dir": "down",
+         "size": "equal"
+        },
+        {
+         "name": "table pushes up",
+         "dir": "up",
+         "size": "equal"
+        }
+       ]
+      },
+      {
+       "t": "forces",
+       "p": "A bag hangs still from the forcemeter. Show both forces.",
+       "obj": "a bag hanging from a forcemeter",
+       "options": [
+        "spring pulls up",
+        "gravity",
+        "push",
+        "friction"
+       ],
+       "a": [
+        {
+         "name": "spring pulls up",
+         "dir": "up",
+         "size": "equal"
+        },
+        {
+         "name": "gravity",
+         "dir": "down",
+         "size": "equal"
+        }
        ]
       },
       {
        "t": "mcq",
-       "p": "A 100 g packet hangs on a forcemeter. About what does it read?",
+       "p": "In a tug of war, team A pulls with a long arrow and team B with a short arrow. What happens?",
        "opts": [
-        "1 N",
-        "10 N",
-        "100 N"
+        "nothing moves",
+        "the rope moves towards team A",
+        "the rope moves towards team B"
        ],
-       "a": 0
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Balanced or unbalanced?",
+       "items": [
+        "a book lying on a shelf",
+        "a ball speeding down a slope",
+        "a cycle braking",
+        "a fan hanging from the ceiling",
+        "a car turning a corner",
+        "a tug of war where nobody moves"
+       ],
+       "cats": [
+        "balanced",
+        "unbalanced"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Newtons, mass and weight",
+     [
+      {
+       "t": "fill",
+       "p": "Forces are measured in ____.",
+       "a": [
+        "newtons",
+        "newton",
+        "N"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A 100 g packet pulls down with about ____ newton.",
+       "a": [
+        "1",
+        "one"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each word to its meaning.",
+       "pairs": [
+        [
+         "mass",
+         "how much stuff, in kilograms"
+        ],
+        [
+         "weight",
+         "how hard gravity pulls, in newtons"
+        ],
+        [
+         "forcemeter",
+         "measures forces with a spring"
+        ],
+        [
+         "support force",
+         "a surface pushing up"
+        ]
+       ]
       },
       {
        "t": "mcq",
-       "p": "Which arrow shows the biggest push?",
+       "p": "On the Moon, what happens to you?",
        "opts": [
-        "a short arrow",
-        "a long arrow",
-        "a dotted line"
+        "your mass and weight both stay the same",
+        "your mass stays the same but your weight is about one sixth",
+        "you have no mass at all"
        ],
        "a": 1
       }
      ]
     ],
     [
-     "B. Record",
+     "C. Why?",
      [
       {
-       "t": "table",
-       "p": "Your drag test.",
-       "cols": [
-        "Shoe",
-        "Try 1 (N)",
-        "Try 2 (N)",
-        "Try 3 (N)"
-       ],
-       "rows": 3,
-       "prefill": [
-        "empty",
-        "1 packet",
-        "2 packets"
-       ]
+       "t": "write",
+       "p": "A book on a table isn't moving. Why doesn't it fall through the table?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why do we repeat each measurement three times?",
+       "lines": 2
       }
      ]
     ]
@@ -377,60 +577,140 @@
   {
    "id": "ws2",
    "tier": "stretch",
-   "title": "Friction: friend or foe?",
-   "day": 5,
+   "title": "Friction: friend or foe",
+   "day": 8,
    "sections": [
     [
      "A. Sort",
      [
       {
        "t": "sort",
-       "p": "Is friction helping or a problem?",
+       "p": "Is friction helping or causing a problem?",
        "items": [
-        "shoes gripping the floor",
         "brakes stopping a cycle",
-        "a squeaky door hinge",
-        "writing with a pencil",
-        "a rusty cycle chain",
-        "matchstick lighting",
         "shoes wearing out",
-        "a sledge on sand"
+        "writing with a pencil",
+        "a squeaky door",
+        "striking a match",
+        "a hot rubbing rope",
+        "walking on a road",
+        "a stiff cycle chain"
        ],
        "cats": [
         "helps",
         "problem"
        ]
+      },
+      {
+       "t": "sort",
+       "p": "Does it make friction bigger or smaller?",
+       "items": [
+        "oil on a hinge",
+        "treads on tyres",
+        "sand on an icy path",
+        "wheels under a trunk",
+        "chalk on a climber's hands",
+        "polishing a floor",
+        "ball bearings in a fan",
+        "rubber soles"
+       ],
+       "cats": [
+        "more friction",
+        "less friction"
+       ]
       }
      ]
     ],
     [
-     "B. More or less?",
+     "B. Force diagrams",
      [
       {
-       "t": "match",
-       "p": "What does each do to friction?",
-       "pairs": [
-        [
-         "oil on a hinge",
-         "less"
-        ],
-        [
-         "treads on tyres",
-         "more"
-        ],
-        [
-         "wheels",
-         "much less"
-        ],
-        [
-         "sand on an icy path",
-         "more"
-        ],
-        [
-         "water on a slide",
-         "less"
-        ]
+       "t": "forces",
+       "p": "You drag a shoe to the right at a steady speed. Show the pull and the friction.",
+       "obj": "a shoe dragged across the floor at steady speed",
+       "options": [
+        "pull",
+        "friction",
+        "gravity",
+        "push"
+       ],
+       "a": [
+        {
+         "name": "pull",
+         "dir": "right",
+         "size": "equal"
+        },
+        {
+         "name": "friction",
+         "dir": "left",
+         "size": "equal"
+        }
        ]
+      },
+      {
+       "t": "forces",
+       "p": "A cycle rolls to the right and brakes. Which way does the friction from the brakes act?",
+       "obj": "a braking cycle moving right",
+       "options": [
+        "friction",
+        "push",
+        "gravity",
+        "pull"
+       ],
+       "a": [
+        {
+         "name": "friction",
+         "dir": "left"
+        }
+       ]
+      },
+      {
+       "t": "forces",
+       "p": "A box is pushed hard to the right and speeds up. Show the push and the friction.",
+       "obj": "a box being pushed and speeding up",
+       "options": [
+        "push",
+        "friction",
+        "gravity",
+        "pull"
+       ],
+       "a": [
+        {
+         "name": "push",
+         "dir": "right",
+         "size": "big"
+        },
+        {
+         "name": "friction",
+         "dir": "left",
+         "size": "small"
+        }
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Reason",
+     [
+      {
+       "t": "mcq",
+       "p": "Moving Nani's trunk, which needed the smallest force?",
+       "opts": [
+        "sliding it on the floor",
+        "rolling it on wheels or rollers",
+        "pushing it on a towel"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Why do ball bearings make a fan or a cycle wheel turn more easily?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Rajasthani camel carts and old bullock carts were greased with oil. What would happen to the axle if they weren't?",
+       "lines": 2
       }
      ]
     ]
@@ -439,31 +719,95 @@
   {
    "id": "ws3",
    "tier": "challenge",
-   "title": "Think like a scientist",
-   "day": 7,
+   "title": "Think like a friction scientist",
+   "day": 9,
    "sections": [
     [
-     "A. Plan",
+     "A. What if?",
      [
       {
        "t": "write",
-       "p": "You want to find out which shoe sole has the best grip. What will you change? What will you keep the same? What will you measure?",
+       "p": "Arjun wished for no friction. Write three things that would go wrong in your house, and one thing that would be better.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Plan a fair test: do new chappals grip a wet floor better than old, worn ones? Say what you would change, what you would keep the same and what you would measure.",
        "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Your forcemeter reads 5 N on Earth for a bag of rice. What would it read on the Moon? Is there less rice?",
+       "lines": 2
+      },
+      {
+       "t": "mcq",
+       "p": "When you start to drag a heavy box, the forcemeter jumps up, then drops a little while it slides. What does that tell you?",
+       "opts": [
+        "starting to slide takes more force than keeping it sliding",
+        "the box got lighter",
+        "the forcemeter is broken"
+       ],
+       "a": 0
       }
      ]
     ],
     [
-     "B. Reason",
+     "B. Tricky diagrams",
      [
       {
-       "t": "write",
-       "p": "A book lies still on a table. Draw the forces on it with arrows. Why doesn't it move?",
-       "lines": 2
+       "t": "forces",
+       "p": "A child walks to the right. Which way does the floor's friction push the child's foot? (Think: the foot pushes back on the floor.)",
+       "obj": "a walking child's foot on the floor",
+       "options": [
+        "friction",
+        "gravity",
+        "pull",
+        "air resistance"
+       ],
+       "a": [
+        {
+         "name": "friction",
+         "dir": "right"
+        }
+       ]
       },
       {
-       "t": "write",
-       "p": "Why do rubbing your hands and a car's brakes both get warm?",
-       "lines": 2
+       "t": "forces",
+       "p": "A book sits still on a sloping board. It doesn't slide down to the left. Which way does friction act?",
+       "obj": "a book resting on a ramp that slopes down to the left",
+       "options": [
+        "friction",
+        "push",
+        "pull",
+        "air resistance"
+       ],
+       "a": [
+        {
+         "name": "friction",
+         "dir": "right"
+        }
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Leonardo da Vinci said friction mostly depends on…",
+       "opts": [
+        "how big the touching face is",
+        "how hard the surfaces press together",
+        "the colour of the surface"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Why do two very flat, smooth sheets of glass with a little water between them stick hard?",
+       "opts": [
+        "smooth always means slippery",
+        "very smooth surfaces touch in many more places, so they grip",
+        "glass is magnetic"
+       ],
+       "a": 1
       }
      ]
     ]
@@ -474,12 +818,12 @@
   {
    "id": "e1",
    "title": "Drag test",
-   "day": 3,
+   "day": 5,
    "question": "Does a heavier shoe need a bigger force to drag?",
    "need": [
-    "forcemeter",
+    "the forcemeter",
     "a shoe",
-    "packets or coins to add"
+    "two 100 g packets"
    ],
    "steps": [
     "Hook the forcemeter to the shoe's lace or heel.",
@@ -489,20 +833,20 @@
     "Add a second packet. Repeat."
    ],
    "predict": "Ask: 'Will the heavier shoe need more, less or the same force?'",
-   "observe": "The force in newtons for each try.",
-   "why": "A heavier shoe presses down on the floor harder, so the bumps of the two surfaces dig in more and friction is bigger. You need a bigger pull to keep it moving.",
+   "observe": "The force in newtons for each try. Notice too that the reading jumps higher just as the shoe starts to move.",
+   "why": "A heavier shoe presses down on the floor harder, so the bumps of the two surfaces dig in more and friction is bigger. You need a bigger pull to keep it moving. Getting it started takes a little more force than keeping it going, because still surfaces settle into each other.",
    "safety": "",
-   "time": "20 min"
+   "time": "18 min"
   },
   {
    "id": "e2",
    "title": "Surface test",
-   "day": 4,
+   "day": 6,
    "question": "Which surface has the most friction?",
    "need": [
-    "forcemeter",
+    "the forcemeter",
     "the same shoe with one packet",
-    "4–5 surfaces"
+    "4–5 surfaces: tiles, a durrie, a towel, a doormat, a steel plate"
    ],
    "steps": [
     "Put the shoe on the first surface.",
@@ -515,7 +859,54 @@
    "observe": "The force for each surface.",
    "why": "Every surface has tiny bumps, even ones that feel smooth. When two surfaces rub, the bumps catch and grip. Rough surfaces like a doormat catch more; smooth ones like steel catch less.",
    "safety": "",
-   "time": "25 min"
+   "time": "20 min"
+  },
+  {
+   "id": "e3",
+   "title": "Weigh and pull",
+   "day": 3,
+   "question": "How is a mass in grams linked to a pull in newtons?",
+   "need": [
+    "a kitchen scale",
+    "the forcemeter",
+    "five things: a 100 g packet, a 200 g packet, a small water bottle, a shoe, a pencil box",
+    "a bag to hang them in"
+   ],
+   "steps": [
+    "Put each thing on the kitchen scale and write its mass in grams.",
+    "Hang the same thing from the forcemeter in the bag and write the pull in newtons.",
+    "Make a table: thing, grams, newtons.",
+    "Look for a pattern."
+   ],
+   "predict": "Ask: 'If 100 g pulls with 1 N, what will 200 g pull with?'",
+   "observe": "Grams and newtons for each thing.",
+   "why": "On Earth, every 100 g of stuff is pulled down with about 1 newton (more exactly 0.98 N). The scale is set up to tell you how much stuff (mass); the forcemeter tells you how hard the Earth pulls it (weight). On the Moon there would be just as much stuff, but the forcemeter would read only about a sixth as much, because the Moon pulls more weakly.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e4",
+   "title": "The clay drop test",
+   "day": 4,
+   "question": "Does a bigger force change a shape more?",
+   "need": [
+    "clay or firm dough",
+    "a tile or steel plate",
+    "a measuring tape",
+    "a ruler"
+   ],
+   "steps": [
+    "Make three balls of clay exactly the same size (weigh them or use the same spoonful).",
+    "Drop the first from 25 cm above the tile. Don't throw it.",
+    "Drop the second from 50 cm, and the third from 100 cm.",
+    "Measure across the flat patch on each ball in millimetres.",
+    "Write a table and repeat once with new balls."
+   ],
+   "predict": "Ask: 'Which ball will have the biggest flat patch?'",
+   "observe": "The width of the flattened patch on each ball.",
+   "why": "A ball dropped from higher is moving faster when it hits, so the tile has to push harder to stop it. That bigger push squashes the clay more. Clay is plastic, so it keeps the squashed shape for us to measure; a rubber ball would squash too, but spring back.",
+   "safety": "",
+   "time": "22 min"
   }
  ],
  "activities": [
@@ -548,7 +939,7 @@
     "card strip 25 cm",
     "paper clip",
     "small bag or cup with string",
-    "100 g packets",
+    "four 100 g packets",
     "ruler, pen, tape"
    ],
    "steps": [
@@ -565,13 +956,13 @@
  "project": {
   "title": "Move Nani's trunk",
   "days": [
-   6
+   7
   ],
   "steps": [
    "Load a box with books so it's heavy.",
-   "Measure the force to drag it on the floor.",
+   "Measure the force to drag it on the floor, three times.",
    "Try three ways to reduce friction: rollers, a cloth on a smooth floor, wheels.",
-   "Measure each, three times.",
+   "Measure each, three times, and circle the middle value.",
    "Make a bar chart of the results and choose the best design.",
    "Present it to the family: what worked, and why?"
   ],
@@ -617,18 +1008,22 @@
  "big": [
   "What would the world be like with no friction at all?",
   "Is there friction in space?",
-  "Why was the wheel such a big invention?",
-  "Can you measure a force you can't see, like a magnet's pull?",
-  "Why does sliding make things hot?"
+  "Why did it take people so long to invent the wheel, and why did some great civilisations not use it much?",
+  "If your weight changes from planet to planet, what is the real 'you' that stays the same?",
+  "Should the people who carry heavy loads every day be called experts in forces?"
  ],
  "challenge": [
   {
    "q": "The famous story says an apple fell on Isaac Newton's head and he discovered gravity. Is that true?",
-   "hint": "Newton told a friend, William Stukeley, many years later, that seeing an apple fall in his garden got him thinking about why things always fall straight down. Nobody recorded it hitting his head; that part was added later. And his ideas took about 20 years of hard work, not one moment. Ask: why do people like 'one big moment' stories?"
+   "hint": "Newton told a friend, William Stukeley, many years later, that seeing an apple fall in his garden got him thinking about why things always fall straight down. Nobody recorded it hitting his head; that part was added later. And his ideas took about 20 years of hard work, building on Galileo, Kepler, Hooke and others, not one moment. Ask: why do people like 'one big moment' stories?"
   },
   {
    "q": "We say smooth surfaces have less friction. Is that always true?",
    "hint": "Two very smooth, flat pieces of glass or steel can stick together surprisingly hard. Very smooth isn't always slippery. Try two smooth plastic rulers pressed together with a drop of water."
+  },
+  {
+   "q": "People say 'I weigh 30 kilograms'. Is that right?",
+   "hint": "Strictly, kilograms measure mass (how much of you there is). Your weight is the pull of gravity on you, about 300 newtons on Earth. Everyone says kilograms in daily life, and that's fine; but on the Moon your kilograms stay the same and your newtons drop to about 50."
   }
  ],
  "perspectives": [
@@ -638,15 +1033,15 @@
   },
   {
    "who": "A rock climber",
-   "view": "Climbers rub chalk on their hands to get more grip. Ask: why would a dry, rough hand hold better than a sweaty one?"
+   "view": "Climbers rub chalk on their hands to get more grip. Ask: why would a dry hand hold better than a sweaty one?"
   },
   {
    "who": "Women who carry water on their heads",
-   "view": "In many villages in India and Africa, women carry heavy pots of water on their heads, balanced on a cloth ring. In 1986, scientists studying women in Kenya found they could carry loads of up to a fifth of their body weight using almost no extra energy, something trained soldiers with backpacks could not do. Nobody wrote a textbook about how they learned it. Ask: who taught them? Should they be called scientists?"
+   "view": "In many villages in India and Africa, women carry heavy pots of water on their heads, balanced on a cloth ring. In 1986, scientists studying women in Kenya found they could carry loads of up to a fifth of their body weight using almost no extra energy, something soldiers with backpacks could not do. Nobody wrote a textbook about how they learned it. Ask: who taught them? Should they be called scientists?"
   },
   {
    "who": "A gecko",
-   "view": "A gecko can run up glass and across a ceiling. Its toes have millions of tiny hairs that get so close to a surface that tiny attractive forces hold it on. Ask: what could people learn from a gecko?"
+   "view": "A gecko can run up glass and across a ceiling. Its toes have millions of tiny hairs that get so close to a surface that tiny attractive forces between atoms hold it on. Ask: what could people learn from a gecko?"
   }
  ],
  "voices": [
@@ -655,20 +1050,20 @@
    "who": "Leonardo da Vinci (1452–1519), Italy, and Guillaume Amontons (1663–1705), France",
    "idea": "Leonardo wrote in his notebooks that the friction on a block doesn't depend on how much of it touches the surface, only on how heavy it is. His notebooks weren't published, so the idea was lost. About 200 years later, Amontons found the same rules again and published them in 1699.",
    "then": "Many scientists didn't believe it at first. Surely a bigger touching area means more rubbing? Charles-Augustin de Coulomb tested it carefully in 1781 and confirmed it.",
-   "now": "Accepted for most everyday solid things. Scientists now know why: surfaces only really touch at their tiny bumps, and the true touching area depends on the weight, not the size of the face.",
+   "now": "Accepted for most everyday solid things. Scientists now know why: surfaces only really touch at their tiny bumps, and the true touching area depends on the weight, not the size of the face. The rules are still called Amontons' laws, though Leonardo found them first.",
    "status": "accepted",
-   "ask": "Test it: drag a brick-shaped box on its big face, then on its thin side, with the forcemeter. Is Leonardo right?",
-   "day": 4
+   "ask": "We dragged the box on its big face and its thin side. Is Leonardo right? Who should the rules be named after: the first to find them, or the first to publish?",
+   "day": 6
   },
   {
    "id": "v2",
    "who": "Daniel Bonn and colleagues (2014), University of Amsterdam, about ancient Egypt",
    "idea": "A wall painting in the tomb of Djehutihotep (about 1900 BCE) shows workers pulling a huge statue on a sledge over sand, with one person pouring liquid in front. In 2014 Bonn's team showed in the lab that sand wet with the right amount of water needs about half the pulling force of dry sand, because the water makes sand grains stick together into a firmer surface.",
    "then": "Some scholars had thought the pouring was a religious ritual. The new study gave a physical reason.",
-   "now": "The physics of wet sand is well accepted. Whether the Egyptians poured water for this reason, for ritual, or both, can't be proved from one painting.",
+   "now": "The physics of wet sand is well accepted. Whether the Egyptians poured water for this reason, for ritual, or both, can't be proved from one painting. Either way, the workers who learned the trick by doing it are not named anywhere.",
    "status": "debated",
    "ask": "What evidence would you need to be sure why the person in the painting was pouring water?",
-   "day": 5
+   "day": 8
   }
  ],
  "books": [
@@ -696,27 +1091,31 @@
  ],
  "check": [
   {
-   "q": "What does a longer force arrow mean?",
-   "a": "A bigger force."
+   "q": "What does a longer force arrow mean? What does it mean when two arrows are equal and opposite?",
+   "a": "A bigger force; the forces are balanced, so nothing changes."
   },
   {
    "q": "What do we measure forces in, and with what?",
    "a": "Newtons, with a forcemeter."
   },
   {
-   "q": "What is friction?",
-   "a": "A force between two surfaces rubbing together that slows things down."
+   "q": "What's the difference between mass and weight?",
+   "a": "Mass is how much stuff (kg); weight is how hard gravity pulls it (N). On the Moon mass stays the same and weight is about a sixth."
+  },
+  {
+   "q": "What is friction, and which way does it act?",
+   "a": "A force between surfaces rubbing together; it acts against the movement."
   },
   {
    "q": "Which has more friction: a doormat or a steel plate? Why?",
    "a": "The doormat; its rough bumps catch more."
   },
   {
-   "q": "Give one way friction helps and one way it's a problem.",
-   "a": "Helps: walking, braking, writing. Problem: wear, squeaks, heat, harder to move things."
+   "q": "Why is rolling easier than sliding?",
+   "a": "Rolling things don't rub along the surface, so there's much less friction."
   },
   {
-   "q": "In our drag test, what did we keep the same and what did we change?",
+   "q": "In our surface test, what did we keep the same and what did we change?",
    "a": "Same shoe, same weight, same pulling; we changed only the surface."
   },
   {
@@ -733,6 +1132,7 @@
    "\"Then sleep,\" said the gecko, \"and in the morning, we shall see.\"",
    "In the morning Arjun swung his legs out of bed, stood up, and immediately fell flat on his back. His feet had shot out from under him as if the floor were made of ice. He tried to crawl, but his hands slid. He grabbed the bed, but his fingers slipped off it like wet soap. Everything was slippery. Everything.",
    "From the kitchen came a clatter and a cry: Amma's steel plate had slid off the counter, and the rotis were skating across the floor. His little sister's hair ribbons slithered out of their knots and floated to the ground. Downstairs, a scooter that tried to brake simply kept going, sliding gently and helplessly down the lane.",
+   "Arjun lay on the floor and tried to think. He reached for his school notebook to write down what was happening, the way his teacher said scientists do. But the pencil slid across the page and left no mark at all, not a single grey line. Without rubbing, the pencil couldn't leave any of itself behind. His shoelaces had untied themselves and lay like two limp worms. Even the knot in the clothes line on the balcony had slipped apart, and all the washing lay in a heap below.",
    "Outside, the women at the tap were trying to carry their water pots home. Arjun had seen them every day of his life, walking tall and straight with the pots on their heads, on a little cloth ring that held them steady. But this morning the pots slid off the rings, and the rings slid off their heads, and water went everywhere.",
    "Arjun's Nani was the worst. She was old and her legs were weak, and every day he held her hand to help her down the stairs. Now he reached for her hand, and it slid out of his. He tried again, and again it slipped, like trying to hold a fish. Nani was standing at the top of the stairs, frightened, and he could not hold on to her.",
    "\"Gecko!\" Arjun shouted. \"Gecko, I take it back! I take it all back!\"",
@@ -742,10 +1142,10 @@
    "Arjun ran to the stairs and took Nani's hand, and her dry, wrinkled fingers held his, and his held hers, and they did not slip. They went down the stairs together, one step at a time.",
    "That morning he pushed his heavy cycle up the hill, and his legs burned, and he did not complain once. At the top, he stopped and put his hand on the warm road and said, very quietly, so nobody would hear: \"Thank you.\""
   ],
-  "epiphany": "Friction is a force between surfaces that slows things down, and it is also what lets us walk, grip, tie knots, brake, carry loads and hold hands. The turn is the moment Nani's hand slips. The idea under it: the same force that makes life hard is what lets us hold on to each other.",
+  "epiphany": "Friction is a force between surfaces that slows things down, and it is also what lets us walk, grip, write, tie knots, brake, carry loads and hold hands. The turn is the moment Nani's hand slips. The idea under it: the same force that makes life hard is what lets us hold on to each other.",
   "ask": [
    "List everything that went wrong without friction. Can you add more?",
-   "Why could the gecko stay on the ceiling?",
+   "Why couldn't the pencil write?",
    "Why did the women's water pots slide off?",
    "Arjun said friction 'was also what let me hold on'. What did he mean?",
    "Is there anything in your life that is hard but also helps you?"
@@ -754,11 +1154,15 @@
  "ideas": [
   {
    "idea": "The force that slows us is also the force that lets us hold on.",
-   "more": "Without friction you couldn't walk, write, tie a knot, hold a cup, or play a violin. It wears things out, and it holds the world together."
+   "more": "Without friction you couldn't walk, write, tie a knot, hold a cup, or play a violin. It wears things out and turns movement into heat, and it holds the world together."
   },
   {
    "idea": "A feeling can become a number.",
    "more": "People always knew a push could be big or small. Measuring it in newtons let scientists compare, predict and build. Turning what we feel into what we can measure is one of science's great tricks."
+  },
+  {
+   "idea": "You are the same stuff everywhere, but your weight depends on where you stand.",
+   "more": "Your mass is how much of you there is; your weight is a pull between you and a planet. On the Moon you'd weigh a sixth as much without losing a single gram."
   },
   {
    "idea": "Balanced forces are everywhere, even when nothing moves.",
@@ -767,6 +1171,7 @@
  ],
  "unknowns": [
   "Why is ice so slippery? It sounds simple, but scientists are still arguing: is it a thin layer of water on top, is it melting from the pressure or the heat of rubbing, or something about the ice's surface itself? Nobody is sure.",
-  "Scientists still cannot fully predict how much friction two surfaces will have just from what they're made of. Friction is one of the oldest puzzles in physics, and it isn't solved."
+  "Scientists still cannot fully predict how much friction two surfaces will have just from what they're made of. Friction is one of the oldest puzzles in physics, and it isn't solved.",
+  "Who invented the wheel? The oldest wheels found are about 5,000 years old, from Europe and western Asia, but rollers and potter's wheels may be older, and nobody knows who first had the idea, or whether different people had it separately."
  ]
 }

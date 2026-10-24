@@ -1,0 +1,1026 @@
+{
+ "key": "combined|sci|2|day-night-seasons-and-rhythms-of-nature",
+ "board": "combined",
+ "subj": "sci",
+ "level": 2,
+ "n": "day-night-seasons-and-rhythms-of-nature",
+ "title": "The Sun's walk across the sky",
+ "source": "DeepKids Combined. Covers Cambridge Primary Science Stage 2, Unit 5.3 'The Sun appears to move!' (the Sun as our light source, its apparent path from east to west, shadows through the day). No textbook needed.",
+ "summary": "Your child watches the Sun rise in the east, climb high at midday and sink in the west, and finds out that it only appears to move: it is really our Earth turning. They chase their own shadows, track a shadow stick through a whole day, make a paper-plate sundial, and meet the plants and animals that keep time by the Sun: flowers that open and close, leaves that 'sleep', owls and bats that wake when we go to bed.",
+ "builds_on": "This is the first rung. In Class 4 your child will spin a globe in front of a lamp to see exactly why day and night happen and why sunrise comes earlier in Arunachal than in Gujarat. In Class 5 they will tilt the globe to find out why we have seasons, and meet the body clocks of birds, plants and people.",
+ "goals": [
+  "By the end your child can say that the Sun rises in the east, is highest around midday and sets in the west, and point to these directions from home.",
+  "By the end your child can explain that the Sun only appears to move, because the Earth is turning, using their own body as a model.",
+  "By the end your child can predict where a shadow will fall and say why shadows are long in the morning and evening and short at midday.",
+  "By the end your child can use a shadow to tell roughly what time of day it is, and make a simple sundial.",
+  "By the end your child can name animals and plants that are active by day and by night, and say how they 'know' the time."
+ ],
+ "subconcepts": [
+  "the Sun is a star and our source of light",
+  "never look straight at the Sun",
+  "sunrise in the east, sunset in the west",
+  "the Sun is highest at midday",
+  "the Sun only appears to move: the Earth turns",
+  "a shadow forms where light is blocked",
+  "a shadow falls on the side away from the light",
+  "long shadows morning and evening, short at midday",
+  "telling time with a sundial",
+  "day and night",
+  "day animals and night animals (diurnal and nocturnal)",
+  "plants that open, close and 'sleep' (a flower clock)",
+  "our own body clock",
+  "seeing a pattern and making a prediction"
+ ],
+ "words": [
+  [
+   "sunrise",
+   "the time when the Sun first appears at the edge of the sky in the morning"
+  ],
+  [
+   "sunset",
+   "the time when the Sun disappears at the edge of the sky in the evening"
+  ],
+  [
+   "east",
+   "the direction where the Sun rises"
+  ],
+  [
+   "west",
+   "the direction where the Sun sets"
+  ],
+  [
+   "midday",
+   "the middle of the day, when the Sun is highest in the sky"
+  ],
+  [
+   "shadow",
+   "a dark shape made when something blocks light"
+  ],
+  [
+   "appears",
+   "seems to be, even if it really isn't"
+  ],
+  [
+   "sundial",
+   "a clock that tells the time with a shadow"
+  ],
+  [
+   "nocturnal",
+   "awake and active at night, like an owl"
+  ],
+  [
+   "diurnal",
+   "awake and active in the daytime, like a sparrow"
+  ],
+  [
+   "horizon",
+   "the line far away where the land or sea seems to meet the sky"
+  ],
+  [
+   "pattern",
+   "something that happens again and again in the same way"
+  ]
+ ],
+ "day_mins": 35,
+ "days": [
+  {
+   "n": 1,
+   "title": "Where is the Sun right now?",
+   "goal": "Notice the Sun's place in the sky and learn the safe way to watch it.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Sunlight in our home",
+     "mins": 6,
+     "do": "Ask: 'In the morning, which room does the sunlight come into first? Which window gets the evening sun?' Walk to those windows together. Good answers: 'the kitchen gets morning sun', 'the balcony gets evening sun'. Say: 'That is a clue. The Sun is in a different place in the morning and the evening. This week we are going to find out where it goes.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The one big safety rule",
+     "mins": 5,
+     "do": "Say firmly but calmly: 'The Sun is so bright it can hurt your eyes for ever, even if you look for a few seconds. We never look straight at it, not even with sunglasses. We look at where it is by looking at the sky near it, or at shadows.' Ask your child to repeat the rule back. Show the safe way: stand with your back to the Sun and look at your shadow, or hold up a hand to block the Sun and look at the sky beside it."
+    },
+    {
+     "kind": "outdoor",
+     "title": "Mark the morning Sun",
+     "mins": 10,
+     "do": "Do Activity a1, part 1. Go outside or to a window between 8 and 9 am. Choose a fixed spot to stand on (mark it with chalk). Ask your child to point (without looking straight at it) to the Sun and say which tree, building or water tank it is above. Draw the view and a small Sun in its place. Use a phone compass or ask a neighbour to find east. Write 'EAST' on the chalk mark side the Sun is on.",
+     "ref": "a1"
+    },
+    {
+     "kind": "read",
+     "title": "Story: Mitali's Shadow Knows the Way",
+     "mins": 10,
+     "do": "Read the story aloud. Stop after Mitali loses sight of the herd and ask: 'How could she find her way home with nobody to ask?' Let them guess. Finish the story. Ask the story questions about why Mitali walked towards the setting Sun."
+    },
+    {
+     "kind": "review",
+     "title": "Make a prediction",
+     "mins": 4,
+     "do": "Ask: 'Where do you think the Sun will be at lunchtime? And just before dark?' Write down their guess on the a1 sheet. Good answers: 'higher up', 'over the other side'. Do not correct yet: we will test it."
+    }
+   ],
+   "need": [
+    "chalk",
+    "paper and crayons",
+    "a phone compass if you have one"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Making shadows",
+   "goal": "Find out what a shadow is and how the light's place changes it.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check yesterday's guess",
+     "mins": 5,
+     "do": "At lunchtime (or as near as you can), go back to the chalk spot. Is the Sun higher? Is it above a different thing? Add the midday Sun to the a1 drawing. Ask: 'Was your guess right?'",
+     "ref": "a1"
+    },
+    {
+     "kind": "do",
+     "title": "What is a shadow?",
+     "mins": 7,
+     "do": "In a dim room, shine a torch at a wall and put your hand in the beam. Ask: 'Why is there a dark shape?' Good answer: 'My hand stops the light, so no light reaches the wall there.' Try a steel glass, a plastic bottle of water and a sheet of paper. Ask: 'Which one lets some light through?' Say: 'A shadow is just the place where light can't get to.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Torch high, torch low",
+     "mins": 15,
+     "do": "Do Experiment e1. Your child moves the torch like the Sun from 'sunrise' (low on one side) over the top to 'sunset' (low on the other side), while you trace the shadow of a toy at each place.",
+     "ref": "e1"
+    },
+    {
+     "kind": "game",
+     "title": "Shadow tag",
+     "mins": 6,
+     "do": "Go outside in the sun. Play shadow tag: you are 'out' if someone steps on your shadow. Afterwards ask: 'How did you keep your shadow safe?' Good answers: 'I stood in the shade of the tree so I had no shadow', 'I faced the Sun so my shadow was behind me'."
+    },
+    {
+     "kind": "review",
+     "title": "Shadow rule",
+     "mins": 2,
+     "do": "Ask your child to finish the sentence: 'My shadow is always on the side ____ from the Sun.' (away)"
+    }
+   ],
+   "need": [
+    "a torch",
+    "a small toy or figure",
+    "a large sheet of paper",
+    "pencil",
+    "a steel glass, a water bottle, paper"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "A day of shadows",
+   "goal": "Track one shadow through a whole day and find the pattern.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Set up the shadow stick",
+     "mins": 10,
+     "do": "Do Experiment e2 in the morning: push a stick upright into a pot of soil or a lump of clay on a sunny spot that stays sunny all day. Mark the end of the shadow with a stone or chalk and write the time.",
+     "ref": "e2"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Shadow checks through the day",
+     "mins": 12,
+     "do": "Every two hours (about 9, 11, 1, 3, 5) go out for two minutes. Mark the end of the shadow and write the time beside it. Each time ask: 'Is the shadow longer or shorter than last time? Which way did it move?' Also add the afternoon Sun to the a1 drawing at about 4 pm.",
+     "ref": "a1"
+    },
+    {
+     "kind": "think",
+     "title": "Read the shadow pattern",
+     "mins": 8,
+     "do": "At the end of the day, look at the chalk marks together. Ask: 'When was the shadow longest? Shortest? Which way did it point in the morning, and in the evening?' Good answers: 'long in the morning and evening, short at lunchtime', 'it pointed west in the morning and east in the evening'. Ask: 'Why?' Good answer: 'The Sun was low then, and high at midday', 'The shadow is always on the side away from the Sun.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "review",
+     "title": "Draw it",
+     "mins": 5,
+     "do": "Your child draws the stick with three shadows: morning, midday, evening, and a little Sun in the right place for each. Check: the Sun and its shadow must be on opposite sides of the stick."
+    }
+   ],
+   "need": [
+    "a stick about 30 cm long",
+    "a pot of soil or a lump of clay",
+    "chalk or small stones",
+    "a clock or phone"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Is the Sun moving, or are we?",
+   "goal": "Use our own bodies to see that the Earth turns and the Sun only seems to move.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Trees that run backwards",
+     "mins": 6,
+     "do": "Ask: 'When you are in a bus or train, and you look out of the window, what do the trees seem to do?' Good answer: 'They seem to rush backwards.' Ask: 'Are the trees really moving?' (No, we are.) Say: 'Hold on to that idea. Today it will help us with the Sun.'"
+    },
+    {
+     "kind": "act",
+     "title": "Be the Earth",
+     "mins": 12,
+     "do": "Do Activity a2. Put a lamp (the Sun) in the middle of the room. Your child is the Earth and their nose is their home. They turn slowly on the spot, anticlockwise, and call out 'sunrise!', 'midday!', 'sunset!' and 'night!' as the lamp comes into view, is in front of them, goes out of view, and is behind them.",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Aryabhata and the boat",
+     "mins": 10,
+     "do": "Tell your child about Voice v1, Aryabhata, who said about 1,500 years ago that the Earth turns. Read his boat idea slowly: 'A person in a moving boat sees the trees on the bank moving backwards. In the same way the stars, which do not move, seem to move west.' Ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "review",
+     "title": "Say it in one line",
+     "mins": 7,
+     "do": "Ask: 'Why does the Sun seem to walk across the sky?' Help your child make one sentence: 'The Sun stays still; our Earth turns, so the Sun seems to move from east to west.' Ask them to teach this to someone else at home tonight, using the lamp."
+    }
+   ],
+   "need": [
+    "a lamp without its shade, or a bright torch on a table"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Who wakes at night?",
+   "goal": "Find out that animals, plants and our own bodies follow the rhythm of day and night.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Day jobs and night jobs",
+     "mins": 6,
+     "do": "Ask: 'Which people in our town work at night?' (watchman, nurse, baker, train driver). 'Which animals do you hear at night?' (crickets, owls, dogs, frogs, geckos). Say: 'Some animals are diurnal, awake in the day. Some are nocturnal, awake at night.'"
+    },
+    {
+     "kind": "do",
+     "title": "Day or night animal sort",
+     "mins": 8,
+     "do": "Do section A of the core worksheet ws1 together: sort sparrow, owl, bat, butterfly, cow, firefly, squirrel, gecko into day and night. For each night animal ask: 'How does it find its way in the dark?' (Owls have huge eyes and sharp ears; bats send out squeaks and listen for the echo; fireflies make their own light.)",
+     "ref": "ws1"
+    },
+    {
+     "kind": "talk",
+     "title": "Flowers that keep time",
+     "mins": 8,
+     "do": "Tell your child about Voice v2, Carl Linnaeus and his flower clock. Talk about flowers they may know: parijat (harsingar) opens at night and drops its flowers at dawn; the four o'clock flower (gulbas) opens in the late afternoon; lotus opens in the morning. Ask the voice question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "exp",
+     "title": "Do leaves sleep?",
+     "mins": 10,
+     "do": "Do Experiment e3. Find a plant whose leaves fold at night: tamarind (imli), touch-me-not (chhui-mui), a rain tree, or a bean plant. Look at it in daylight and photograph or draw it. Look again after dark with a torch.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "My body clock",
+     "mins": 3,
+     "do": "Ask: 'When do you start feeling sleepy? Do you wake up at the same time even without an alarm?' Say: 'Inside you there is a body clock that knows day from night, just like the plants and owls.'"
+    }
+   ],
+   "need": [
+    "the core worksheet",
+    "a plant whose leaves fold at night",
+    "a torch",
+    "crayons"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Telling time by the Sun",
+   "goal": "Make a sundial and use shadows as a clock.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the sleepy leaves",
+     "mins": 5,
+     "do": "Look at the e3 drawings. Ask: 'Were the leaves folded at night? Why might a plant fold its leaves?' Ideas to listen for: 'to keep warm', 'to keep dew off', 'to rest'. Say: 'Scientists still argue about why. Nobody is sure.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "Make a paper-plate sundial",
+     "mins": 15,
+     "do": "Do Activity a3. Push a pencil through the middle of a paper plate, set it on a sunny spot, and mark the shadow every hour that you can today, writing the time on each line.",
+     "ref": "a3"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Your child does the stretch worksheet ws2. Read each question aloud if needed. For the 'why' questions, let them talk first, then write one sentence.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "game",
+     "title": "The Sun's Journey",
+     "mins": 5,
+     "do": "Play a first round of the board game g1 (the Sun's Journey). Keep the board for Day 7.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "a paper plate",
+    "a pencil",
+    "a ruler",
+    "a felt pen",
+    "a lump of clay to hold the plate down",
+    "the stretch worksheet",
+    "the printed game board, a die and counters"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Sun diary poster, check and teach it back",
+   "goal": "Put the week together and teach it to someone else.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Finish the Sun-path poster",
+     "mins": 10,
+     "do": "Finish the project: stick the three Sun drawings from a1 on one big sheet in a curve from east to west, with the sundial marks and shadow-stick drawing below. Your child labels sunrise, midday and sunset, and draws an arrow saying 'The Earth turns this way.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "do": "Your child tries the challenge worksheet ws3. Talk through the 'what if' questions together: there is no single right answer to some of them; listen for reasons.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "End check",
+     "mins": 8,
+     "do": "Ask the check questions aloud. Praise reasons, not just answers. For any wrong answer, go back to the lamp and spin again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 7,
+     "do": "Your child teaches a grandparent or sibling, using the lamp and their own body: 'The Sun stays still. The Earth turns. That's why the Sun seems to walk across the sky, and why my shadow moves.' The listener asks one question and your child answers it."
+    }
+   ],
+   "need": [
+    "the a1 drawings",
+    "a big sheet of paper",
+    "glue",
+    "the challenge worksheet",
+    "the lamp"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "The Sun, shadows and day and night",
+   "day": 5,
+   "sections": [
+    [
+     "A. Day or night?",
+     [
+      {
+       "t": "sort",
+       "p": "Sort the animals: awake in the day or awake at night?",
+       "items": [
+        "sparrow",
+        "owl",
+        "bat",
+        "butterfly",
+        "cow",
+        "firefly",
+        "squirrel",
+        "house gecko"
+       ],
+       "cats": [
+        "day (diurnal)",
+        "night (nocturnal)"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. The Sun's walk",
+     [
+      {
+       "t": "fill",
+       "p": "The Sun rises in the ____.",
+       "a": [
+        "east",
+        "East"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The Sun sets in the ____.",
+       "a": [
+        "west",
+        "West"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "When is the Sun highest in the sky?",
+       "opts": [
+        "early morning",
+        "around midday",
+        "just before sunset"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Is the Sun really walking across the sky?",
+       "opts": [
+        "yes, it goes round us",
+        "no, the Earth is turning",
+        "no, clouds carry it"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Shadows",
+     [
+      {
+       "t": "mcq",
+       "p": "Your shadow is longest...",
+       "opts": [
+        "at midday",
+        "in the early morning or evening",
+        "it is always the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "The Sun is in the east. Where does your shadow point?",
+       "opts": [
+        "east",
+        "west",
+        "straight up"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Why must we never look straight at the Sun?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why is your shadow short at lunchtime?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Shadow puzzles",
+   "day": 6,
+   "sections": [
+    [
+     "A. Read the shadows",
+     [
+      {
+       "t": "match",
+       "p": "Match the shadow to the time of day.",
+       "pairs": [
+        [
+         "very long shadow pointing west",
+         "morning"
+        ],
+        [
+         "tiny shadow under your feet",
+         "midday"
+        ],
+        [
+         "very long shadow pointing east",
+         "evening"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A shadow is short and the Sun is high. What time is it most likely to be?",
+       "opts": [
+        "7 am",
+        "12 noon",
+        "6 pm"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Your sundial shadow points east. Is it morning or afternoon?",
+       "opts": [
+        "morning",
+        "afternoon"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "A shadow is a place where ____ cannot reach.",
+       "a": [
+        "light"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Day and night",
+     [
+      {
+       "t": "sort",
+       "p": "Sort: when does it open or wake up?",
+       "items": [
+        "lotus flower",
+        "parijat flower",
+        "owl",
+        "rooster",
+        "four o'clock flower",
+        "bat"
+       ],
+       "cats": [
+        "morning",
+        "evening or night"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In a moving train the trees seem to rush backwards. Why?",
+       "opts": [
+        "the trees are running",
+        "the train is moving",
+        "the wind blows them"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "On a cloudy day there are no shadows. Why can't a sundial work then?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Aryabhata said the sky only seems to turn because the Earth turns. How does the train window help you understand him?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like a sky-watcher",
+   "day": 7,
+   "sections": [
+    [
+     "A. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What if the Earth stopped turning? What would happen to day and night where you live?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "You are lost in the evening and you know home is to the west. How could the Sun help you?",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "At the North Pole in June, the Sun goes round and round the sky and never sets. What would a shadow stick show?",
+       "opts": [
+        "a shadow that goes all the way round in a day",
+        "no shadow at all",
+        "a shadow that never moves"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Two stones mark a shadow at 9 am and at 3 pm. The 3 pm mark is on the other side of the stick. Why?",
+       "opts": [
+        "the stick moved",
+        "the Sun is now on the other side of the sky",
+        "the stones rolled"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "If you face the Sun at sunrise, the west is ____ you.",
+       "a": [
+        "behind"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which is a good test to find out if a flower opens because of light or because of its own clock?",
+       "opts": [
+        "keep it in the dark all day and watch whether it still opens",
+        "water it more",
+        "pick it"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "True or not true?",
+       "items": [
+        "the Sun is a star",
+        "the Moon makes its own light",
+        "shadows point away from the light",
+        "night is when the Sun switches off"
+       ],
+       "cats": [
+        "true",
+        "not true"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "We call some plants 'weeds' and some animals 'pests'. An owl hunts rats at night. Do you think the owl would call itself useful? What would it say about our day?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Torch high, torch low",
+   "day": 2,
+   "question": "How does the place of the light change a shadow?",
+   "need": [
+    "a torch",
+    "a small toy",
+    "a big sheet of paper",
+    "pencil"
+   ],
+   "steps": [
+    "Stand the toy on the paper in a dim room.",
+    "Hold the torch low on the right side (sunrise). Trace the shadow.",
+    "Hold it halfway up, then straight above (midday). Trace each shadow.",
+    "Move it halfway down and then low on the left (sunset). Trace each shadow.",
+    "Number the shadows 1 to 5."
+   ],
+   "predict": "Ask your child to guess first: 'Will the shadow be longer when the torch is low or high? Which way will it point?'",
+   "observe": "Low torch: long shadow pointing away from the torch. Torch overhead: tiny shadow right under the toy. The shadow swings round from one side to the other.",
+   "why": "Light travels in straight lines. When the light comes from low down, the toy blocks a long strip of it, so the shadow is long. When the light comes from above, the toy blocks only a little patch under itself. The real Sun does the same: low in the morning and evening, high at midday.",
+   "safety": "Do not shine the torch into anyone's eyes.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "A day of shadows",
+   "day": 3,
+   "question": "How does a shadow change through a whole day?",
+   "need": [
+    "a stick about 30 cm long",
+    "a pot of soil or lump of clay",
+    "chalk or small stones",
+    "a clock"
+   ],
+   "steps": [
+    "In the morning, push the stick straight up into the soil on a spot that stays sunny all day.",
+    "Mark the tip of the shadow with chalk or a stone and write the time.",
+    "Repeat every two hours until late afternoon.",
+    "Do not move the stick or the pot."
+   ],
+   "predict": "Ask: 'Where will the shadow be at lunchtime? Will it be longer or shorter?'",
+   "observe": "The shadow starts long and pointing west, gets shorter until around midday, then grows long again pointing east. The marks make a curve.",
+   "why": "The Sun seems to move from east to west, so the shadow, which is always on the side away from the Sun, swings from west to east. The Sun is highest around midday, so the shadow is shortest then. The real reason the Sun 'moves' is that the Earth is turning.",
+   "safety": "Never look straight at the Sun while you do this.",
+   "time": "10 min to set up + 2 min every 2 hours"
+  },
+  {
+   "id": "e3",
+   "title": "Do leaves sleep?",
+   "day": 5,
+   "question": "Do some plants change their leaves between day and night?",
+   "need": [
+    "a tamarind, touch-me-not, rain tree or bean plant",
+    "a torch",
+    "paper and crayons or a phone camera"
+   ],
+   "steps": [
+    "In daylight, draw or photograph a few leaves of the plant.",
+    "After dark, go back with a grown-up and a torch. Look at the same leaves.",
+    "Draw or photograph them again.",
+    "If you can, look once more early next morning."
+   ],
+   "predict": "Ask: 'Will the leaves look the same at night?'",
+   "observe": "Many of these plants fold their small leaflets together at night, like hands closed in prayer, and open them in the morning.",
+   "why": "Plants that fold their leaves at night are showing 'sleep movements'. They are partly answering the light and partly following their own inner clock: in 1729 a French scientist kept a mimosa in a dark cupboard and its leaves still opened and closed on time. Why plants do it is still debated: it may save heat or keep water off the leaves.",
+   "safety": "A grown-up must come along after dark. Touch-me-not has small prickles: look, don't grab.",
+   "time": "5 min in the day + 5 min after dark"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Where is the Sun? A sky diary",
+   "day": 1,
+   "mins": 25,
+   "need": [
+    "chalk",
+    "3 sheets of paper",
+    "crayons"
+   ],
+   "steps": [
+    "Choose one spot to stand on and mark it with chalk.",
+    "In the morning, draw the view in front of you and a small Sun where it is (don't look at it directly).",
+    "At lunchtime and in the late afternoon, stand on the same spot and draw the Sun again.",
+    "Write the time under each drawing.",
+    "Join the three Suns with a curved line."
+   ],
+   "outcome": "Three drawings showing the Sun low in the east, high at midday and low in the west: the path the Sun seems to walk every day."
+  },
+  {
+   "id": "a2",
+   "title": "Be the Earth",
+   "day": 4,
+   "mins": 12,
+   "need": [
+    "a lamp or torch in the middle of the room"
+   ],
+   "steps": [
+    "The lamp is the Sun. Your child is the Earth; their nose is their home.",
+    "They turn slowly on the spot, anticlockwise (to their left).",
+    "When the lamp first comes into the corner of their eye, they call 'sunrise!'",
+    "When it is right in front of them: 'midday!' When it disappears: 'sunset!' When it is behind them: 'night!'",
+    "Ask: 'Did the lamp move? What moved?'"
+   ],
+   "outcome": "Your child feels in their own body that turning makes the Sun seem to rise, cross and set."
+  },
+  {
+   "id": "a3",
+   "title": "Paper-plate sundial",
+   "day": 6,
+   "mins": 15,
+   "need": [
+    "a paper plate",
+    "a pencil",
+    "a felt pen",
+    "clay",
+    "a ruler"
+   ],
+   "steps": [
+    "Push the pencil through the centre of the plate so it stands up straight.",
+    "Stick the plate on a flat sunny spot with clay so it can't move.",
+    "On the hour, draw a line along the pencil's shadow and write the time.",
+    "Next sunny day, put it in the same place and the same way round: now it tells the time."
+   ],
+   "outcome": "A working sundial, and the idea that people told time by shadows long before clocks."
+  }
+ ],
+ "project": {
+  "title": "My Sun-path poster",
+  "days": [
+   1,
+   3,
+   6,
+   7
+  ],
+  "steps": [
+   "Keep the three a1 drawings of the Sun in the morning, midday and evening.",
+   "Add the drawing of the shadow stick with its marks from Day 3.",
+   "Add the sundial times from Day 6.",
+   "Stick them in order on one big sheet in a curve from east to west.",
+   "Label east, west, sunrise, midday, sunset, and draw an arrow: 'The Earth turns this way'."
+  ],
+  "outcome": "A poster that shows the Sun's daily path and the shadows it makes, made from your child's own observations."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Sun's Journey",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player"
+  ],
+  "rules": [
+   "Everyone starts at SUNRISE.",
+   "Roll and move. If you land on a question square, answer it; a right answer moves you on 1 more.",
+   "If you land on 'Looked at the Sun!', go back to START.",
+   "The first to reach NIGHT wins, and must say why it is night."
+  ],
+  "squares": [
+   "SUNRISE (start)",
+   "Which way does the Sun rise?",
+   "Morning: shadow long",
+   "Rooster crows: move on 1",
+   "Where does your shadow point now?",
+   "Looked at the Sun! Back to start",
+   "Lotus opens: move on 2",
+   "What makes a shadow?",
+   "MIDDAY: shortest shadow",
+   "Is the Sun moving? What is?",
+   "Tiny shadow: hide under it, miss a turn",
+   "Afternoon: shadow grows",
+   "Four o'clock flower opens: move on 1",
+   "Name a night animal",
+   "Clouds! No shadow, miss a turn",
+   "Sundial time: say the time of day",
+   "Evening: shadow long, pointing east",
+   "Sunset in the west: move on 1",
+   "Owl wakes up",
+   "Parijat opens",
+   "NIGHT (home)"
+  ]
+ },
+ "big": [
+  "If you lived on a planet that never turned, what would your life be like?",
+  "Is it 'morning' for the whole world at the same time?",
+  "Why do you think some animals chose the night?",
+  "Before clocks, people told time by the Sun. Was that better or worse than a clock?"
+ ],
+ "challenge": [
+  {
+   "q": "Everyone says 'The Sun rises in the east.' Does it rise exactly in the east every day?",
+   "hint": "Only on two days a year (around 21 March and 23 September). In June, in India, it rises a little to the north of east; in December, a little to the south. Mark where the Sun rises from your window once a month and see for yourself."
+  },
+  {
+   "q": "'Sunflowers follow the Sun all day.' Is that true?",
+   "hint": "Partly. Young sunflower plants do turn east to west during the day and swing back at night; scientists showed in 2016 that their own inner clock helps. But once the flower is fully open, it stops and faces east. What would you need to watch to check this yourself?"
+  },
+  {
+   "q": "'At midday the Sun is right above your head.' Is it?",
+   "hint": "Not usually. In most of India the midday Sun is only exactly overhead on one or two days a year, called Zero Shadow Day (for example, around late April and mid August in Bengaluru). On those days, for a moment, an upright stick has no shadow. On other days there is always a small shadow at midday."
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "An owl",
+   "view": "For an owl, our 'day' is the quiet sleeping time and the dark is the busy time for hunting mice. Ask: whose clock is the 'right' one, ours or the owl's?"
+  },
+  {
+   "who": "Farmers and shepherds in the Thar",
+   "view": "Many people who work outdoors still tell the time by the length of their shadow and plan their walks by the Sun. Ask: what can they see that someone indoors with a clock might miss?"
+  },
+  {
+   "who": "Prayer times",
+   "view": "In many traditions, prayers follow the Sun: the Sandhya prayers at dawn and dusk, and the five Muslim prayers, one of which (Asr) begins when a shadow has grown to a set length. Ask: why might people want to pause at the same moments the Sun 'turns'?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Aryabhata (476–about 550 CE), Kusumapura, near present-day Patna, India",
+   "idea": "In his book the Aryabhatiya (499 CE) he wrote that the Earth turns on its own, and that the stars only seem to move west, just as trees on a river bank seem to move backwards to a person in a moving boat.",
+   "then": "Many later Indian astronomers, including the great Brahmagupta, did not accept that the Earth turns; they thought things would fly off a spinning Earth.",
+   "now": "Aryabhata was right: the Earth turns once a day. This was finally proved beyond doubt in 1851 by Léon Foucault's swinging pendulum in Paris.",
+   "status": "accepted",
+   "ask": "If the Earth is spinning, why don't we feel it? What could you look for to show that it really turns?",
+   "day": 4
+  },
+  {
+   "id": "v2",
+   "who": "Carl Linnaeus (1707–1778), Sweden",
+   "idea": "In 1751 he described a 'flower clock': a garden planted with flowers that open and close at different hours, so you could tell the time by which ones were open.",
+   "then": "People loved the idea and tried planting such clocks.",
+   "now": "It is true that many flowers open and close at regular times, partly because of light and partly because of their own inner clocks. But his clock never worked well: flowers change their times with weather, season and place, so it only roughly worked even in his own town of Uppsala.",
+   "status": "accepted",
+   "ask": "If a flower opens at 6 am in Sweden, would it open at 6 am in Chennai too? How could you find out?",
+   "day": 5
+  }
+ ],
+ "books": [
+  {
+   "title": "Sun Up, Sun Down",
+   "author": "Gail Gibbons",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A girl follows the Sun from sunrise to sunset, with shadows, clouds and the turning Earth explained in simple pictures."
+  },
+  {
+   "title": "What Makes Day and Night",
+   "author": "Franklyn M. Branley",
+   "for": "read together",
+   "age": "5–8",
+   "why": "A classic Let's-Read-and-Find-Out book that uses a lamp and a ball, just like our Activity a2."
+  },
+  {
+   "title": "Moonbear's Shadow",
+   "author": "Frank Asch",
+   "for": "read alone",
+   "age": "4–7",
+   "why": "A bear tries to get rid of his shadow, and finds that it changes with the time of day: funny, and good science."
+  },
+  {
+   "title": "Shadow",
+   "author": "Suzy Lee",
+   "for": "read together",
+   "age": "4–7",
+   "why": "A wordless book in which a girl's shadow play in an attic comes alive; good for talking about how shadows are made."
+  }
+ ],
+ "check": [
+  {
+   "q": "Where does the Sun rise and where does it set?",
+   "a": "It rises in the east and sets in the west."
+  },
+  {
+   "q": "Does the Sun really move across the sky?",
+   "a": "No. The Earth turns, so the Sun only seems to move."
+  },
+  {
+   "q": "When is your shadow shortest, and why?",
+   "a": "Around midday, because the Sun is highest in the sky."
+  },
+  {
+   "q": "In the morning, which way does your shadow point?",
+   "a": "West, away from the Sun in the east."
+  },
+  {
+   "q": "How does a sundial tell the time?",
+   "a": "The shadow of its stick moves round as the Sun seems to move, so where the shadow falls shows the time."
+  },
+  {
+   "q": "Name one animal that is awake at night, and one plant that changes at night.",
+   "a": "For example, owl, bat, gecko or firefly; parijat flowers open at night, tamarind leaves fold up."
+  },
+  {
+   "q": "What is the most important safety rule for watching the Sun?",
+   "a": "Never look straight at it, not even with sunglasses."
+  }
+ ],
+ "story": {
+  "title": "Mitali's Shadow Knows the Way",
+  "text": [
+   "I am Mitali's shadow. I have been with her since the day she was born, though she did not notice me until she was four. Now she is six, and most days she wishes I would go away.",
+   "\"Stop copying me,\" she says, when I lift my arm as she lifts hers. \"Stop following me,\" she says, when I run along the sand behind her. But I cannot stop. I go where the light cannot go. Wherever Mitali blocks the Sun, there I am.",
+   "Mitali lives in a village of mud houses at the edge of the Thar, where the sand is the colour of ghee and the sky is so big it makes you feel very small. Her family keeps goats. Every morning, when the Sun has just climbed out of the earth, Mitali and her grandfather and their dog Kalu take the goats east to the grazing ground beyond the dunes, where the khejri trees grow.",
+   "In the mornings I am very long. Mitali walks towards the Sun, and I stretch out behind her all the way back towards the village, thin as a rope, longer than three Mitalis. \"Look, Dada,\" she says, \"my shadow is holding on to the house.\"",
+   "\"Then it knows the way home,\" says Dada, and laughs his crackly laugh.",
+   "By the middle of the day, the Sun is high up over our heads, white and fierce. Then I shrink. I curl up into a small dark puddle around Mitali's feet, and she has to look down to find me. The goats lie in the thin shade of the khejri trees, and Mitali sits with Dada eating bajra roti and onion, and I hide under her, keeping cool.",
+   "\"Where did you go?\" she asks me, poking at the dark patch with her toe. \"Are you scared of the Sun?\"",
+   "I am not scared of the Sun. I simply go to the other side of things from it. When it is low, I am long. When it is high, I am small. This is all I know, and all I do. But Mitali does not know it yet.",
+   "One afternoon, a goat called Chhoti went missing. She was the youngest, a brown kid with one white ear, and she had wandered off over a dune after a juicy bush. Dada's knees were bad, so Mitali said, \"I'll get her!\" and ran off with Kalu before he could say no.",
+   "She found Chhoti quickly, chewing on a ker bush in a little hollow between two dunes. Mitali hugged her and picked her up. And then she turned round, and her heart gave a jump.",
+   "Every dune looked the same. Smooth, golden, rippled, curving away on every side. She could not see the khejri trees. She could not see Dada. She called, and the wind took her voice away. Kalu sat down and looked at her, as if to say, \"Well? You're the one in charge.\"",
+   "Mitali's lip began to shake. She put Chhoti down and sat on the warm sand. And that is when she noticed me.",
+   "I was long again. The Sun had travelled all the way across the sky while she was chasing goats, and now it was sinking in the west, big and orange, and I was stretching out in front of her, pointing the other way from the morning. In the morning I had pointed back towards the village. Now I was pointing towards the grazing ground, the khejri trees, the east.",
+   "Mitali looked at me for a long time. Then she looked at the Sun, squinting, not straight at it, the way Dada had taught her, just at the bright sky beside it.",
+   "\"In the morning we walked towards the Sun to come here,\" she said slowly to Kalu. \"So the village is on the other side. And now the Sun is on the other side.\" She stood up. \"The Sun is going to bed over our house.\"",
+   "She turned her back on me. I fell in behind her, long and thin, the way I had been in the morning, only the other way round. She picked up Chhoti, and she walked towards the setting Sun, and Kalu trotted beside her, and the dunes were orange and then pink.",
+   "She walked until she reached the top of a high dune, and there below was her village, with smoke rising from the chulhas and the first lamps being lit. And there, coming up the path with his stick, shouting her name, was Dada.",
+   "That night, when the Sun had gone, I went away too. I always do. In the dark there is no light to block, so there is no me. Mitali lay on her charpai under the stars, with Chhoti asleep against her legs.",
+   "\"Dada,\" she said, \"the Sun walks across the sky every day. From there to there.\" She pointed east, and then west.",
+   "\"It seems to,\" said Dada. \"Or perhaps it is us who are turning.\"",
+   "Mitali thought about this. Then she said, \"Tomorrow I won't tell my shadow to go away.\" And she fell asleep. In the morning, when the Sun came up, I was there again, stretching out towards home."
+  ],
+  "epiphany": "The Sun seems to move from east to west across the sky, and a shadow always falls on the side away from it: long and pointing west in the morning, small at midday, long and pointing east in the evening. The turn comes when Mitali, lost, sees her evening shadow pointing the opposite way to the morning, and works out that home must be towards the setting Sun. The shadow that annoyed her is the thing that gets her home.",
+  "ask": [
+   "Why was the shadow so long in the morning and so small at lunchtime?",
+   "How did the shadow help Mitali find the village?",
+   "If Mitali had got lost at midday, could her shadow have helped her? Why or why not?",
+   "Where did the shadow go at night?",
+   "Dada said, 'Perhaps it is us who are turning.' What did he mean?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "The Sun does not move across our sky; we turn under it.",
+   "more": "Use the 'Be the Earth' spin. Every sunrise is really your part of the Earth turning to face the Sun; every sunset is it turning away."
+  },
+  {
+   "idea": "A shadow is a map of where the light is coming from.",
+   "more": "Shadows always point away from the light. That is how a sundial tells the time and how Mitali found her way home."
+  },
+  {
+   "idea": "All life keeps time with the Sun.",
+   "more": "Flowers that open at dawn, leaves that fold at night, owls that wake at dusk, and your own sleepy feeling at bedtime are all following the same daily rhythm."
+  }
+ ],
+ "unknowns": [
+  "Why do plants like tamarind fold their leaves at night? Scientists have ideas (to keep warm, to keep dew off, to hide from hungry animals) but nobody is sure.",
+  "Why do we need to sleep at all? Every animal with a brain seems to sleep, but scientists are still working out exactly what sleep is for."
+ ]
+}

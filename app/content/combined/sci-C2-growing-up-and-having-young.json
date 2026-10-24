@@ -1,0 +1,1060 @@
+{
+ "key": "combined|sci|2|growing-up-and-having-young",
+ "board": "combined",
+ "subj": "sci",
+ "level": 2,
+ "n": "growing-up-and-having-young",
+ "title": "How living things grow",
+ "source": "DeepKids Combined. Covers Cambridge Stage 2 Biology Unit 4.2 'Growing' (young animals and humans change as they grow into adults; stages of human growth; measuring height). No textbook needed.",
+ "summary": "Your child measures their own growth with bottles, hand spans and centimetres, finds out they are taller in the morning than at bedtime, and learns where in their bones growing happens. They follow life cycles with big changes (butterflies) and small ones (grasshoppers), discover that crabs and snakes must shed their skin to grow, compare how long animals live (a mayfly's day, a shark's centuries), and ask why human children stay children for so long, and who helps raise them.",
+ "subconcepts": [
+  "growing means getting bigger and changing shape",
+  "life cycles: birth, growth, adulthood, young of their own, and the end of life",
+  "complete metamorphosis: egg, larva, pupa, adult",
+  "incomplete metamorphosis: egg, nymph, adult (grasshoppers, cockroaches, dragonflies)",
+  "moulting: animals with hard outsides shed them to grow",
+  "stages of human growth and growth spurts",
+  "measuring growth fairly: non-standard units and centimetres",
+  "bones grow at growth plates, then stop",
+  "body proportions change as we grow",
+  "milk teeth and adult teeth",
+  "what growing needs: food, water, sleep, exercise and care",
+  "some living things keep growing all their lives",
+  "lifespans differ hugely, from a day to centuries",
+  "the long human childhood and shared care (the grandmother idea)"
+ ],
+ "builds_on": "Class 1: all animals have young; baby names; eggs or born alive; babies that look different (tadpoles, caterpillars); many ways of caring. This rung adds measuring, growth plates, two kinds of metamorphosis, moulting, lifespans and the long human childhood. Genes and inheriting features (also Class 2) explain why young look like their parents. Later: the human body, and how life changes over very long times.",
+ "goals": [
+  "By the end your child can measure a person's height fairly with non-standard units and in centimetres, and record it in a block graph.",
+  "By the end your child can describe the stages of a human life and say how a body changes as it grows (height, proportions, teeth).",
+  "By the end your child can compare a butterfly's life cycle with a grasshopper's, and explain why some animals moult.",
+  "By the end your child can name what a body needs to grow well, including sleep.",
+  "By the end your child can give examples of animals with very short and very long lives, and of living things that never stop growing.",
+  "By the end your child can give a reason why human children need looking after for so long."
+ ],
+ "words": [
+  [
+   "life cycle",
+   "the stages a living thing goes through, from egg, seed or baby to adult, making young of its own"
+  ],
+  [
+   "larva",
+   "the young stage of an insect that looks nothing like the adult, like a caterpillar or a maggot"
+  ],
+  [
+   "pupa",
+   "the resting stage when a larva changes into an adult; a butterfly's pupa is a chrysalis"
+  ],
+  [
+   "nymph",
+   "a young insect that looks like a small adult without wings, like a baby grasshopper"
+  ],
+  [
+   "moult",
+   "to shed an old hard skin or shell so you can grow bigger"
+  ],
+  [
+   "growth plate",
+   "the soft growing zone near the end of a bone in children"
+  ],
+  [
+   "centimetre",
+   "a small standard unit for measuring length, written cm"
+  ],
+  [
+   "lifespan",
+   "how long a living thing usually lives"
+  ],
+  [
+   "growth spurt",
+   "a time of growing very fast, as in the teenage years"
+  ]
+ ],
+ "day_mins": 35,
+ "days": [
+  {
+   "n": 1,
+   "title": "How tall am I?",
+   "goal": "Remember Class 1, then measure height in different ways.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 5,
+     "do": "Quick-fire: 'Baby of a goat?' (kid) 'A frog?' (tadpole) 'Which hatch from eggs: a crocodile or a cow?' (crocodile) 'What are the four stages of a butterfly?' (egg, caterpillar, chrysalis, butterfly). If you made the Class 1 Growing-Up Book, look at it and at the height mark on the door frame. Say: 'This year we become growth scientists: we measure growing.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Bottles, hands and centimetres",
+     "mins": 18,
+     "do": "Do Experiment e1. Measure your child lying down with feet against a wall using identical water bottles laid end to end, then with your hand spans, then with their hand spans. Write each answer. Ask: 'Why did we get two different hand-span answers for the same height?' (Your hands are different sizes.) 'What do we need so everyone in the world gets the same answer?' (A unit that is the same for everyone.) Then measure with a tape in centimetres. Say: 'The centimetre is the same everywhere: in Delhi, in Ghana, in Norway.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "do",
+     "title": "Height and age",
+     "mins": 12,
+     "do": "Measure 3–5 family members or neighbours in centimetres, standing against a wall with a book flat on their head. Your child writes name, age and height in a table, and makes a block graph on squared paper, one column per person, 1 square for 10 cm. Ask: 'What pattern do you see?' (Older children are taller; grown-ups stop getting taller.) 'Is the oldest person the tallest?' (Not always: grown-ups stop growing, and some older people even get a little shorter.)"
+    }
+   ],
+   "need": [
+    "two identical 1-litre bottles",
+    "a measuring tape",
+    "a book",
+    "squared paper",
+    "pencils"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Where growing happens",
+   "goal": "Find out how bones grow and how body shapes change.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Morning height",
+     "mins": 7,
+     "do": "Experiment e2: measure your child's height first thing this morning, before breakfast, against the wall with a book on their head, and mark it. Ask: 'Do you think you will be the same height at bedtime?' Write their guess. You'll measure again tonight.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Growth plates",
+     "mins": 13,
+     "do": "Show a picture of a child's hand X-ray (search 'child hand X-ray growth plate') or draw a long bone. Say: 'Near the ends of your bones are soft growing zones called growth plates. They keep making new bone, so your legs and arms get longer. In the late teens or early twenties the plates turn hard and close, and you stop getting taller.' Ask: 'Which bones do you think grow most to make you taller?' (Leg bones and the spine.) 'Do grown-ups' bones still grow?' (Not longer, but they keep repairing themselves.)"
+    },
+    {
+     "kind": "act",
+     "title": "Heads and bodies",
+     "mins": 15,
+     "do": "Do Activity a1: count how many 'heads' tall a baby, your child and a grown-up are, using photos or real people and a paper strip the length of each one's head. A newborn is about 4 heads tall; a 7-year-old about 6; a grown-up about 7 to 8. Ask: 'So which part grows fastest after you're born?' (The legs and body; the head is already big at birth because the brain grows so early.)",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "measuring tape",
+    "a book",
+    "paper strips",
+    "photos of a baby, your child and a grown-up"
+   ],
+   "prep": [
+    {
+     "task": "Measure your child's height at bedtime the night before, as well, if you can; then again this morning",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Big changes and small changes",
+   "goal": "Compare complete and incomplete metamorphosis, and find out why animals moult.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Morning or bedtime?",
+     "mins": 5,
+     "do": "Look at e2. Most children are about 1 cm shorter at bedtime than in the morning. Ask: 'Did you shrink?' (Only a little, for a while: all day, gravity squashes the soft pads between the bones of your spine, and at night, lying down, they spring back.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Two ways to grow up",
+     "mins": 15,
+     "do": "Draw two life cycles side by side. Butterfly: egg, larva (caterpillar), pupa (chrysalis), adult. Grasshopper: egg, nymph, bigger nymph, adult with wings. Say: 'The butterfly changes completely: this is complete metamorphosis. A baby grasshopper, a nymph, already looks like a small grasshopper without wings: incomplete metamorphosis.' Sort aloud: mosquito (larva wrigglers in water, pupa, adult: complete), housefly (maggot, pupa: complete), ladybird (complete), cockroach (nymph: incomplete), dragonfly (nymph lives underwater: incomplete). Ask: 'Why might it help a caterpillar and a butterfly to eat different foods?' (They don't compete with each other.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The skin that gets too tight",
+     "mins": 15,
+     "do": "Say: 'Insects, crabs, spiders and snakes wear their hard skin on the outside. It can't stretch. So to grow, they moult: they grow a new soft skin underneath, split the old one, crawl out, swell up and harden.' If you can, find a shed cicada or cockroach skin on a tree trunk or a wall, or a snake's shed skin in a picture. Ask: 'Do you moult?' (Not all at once, but you lose tiny flakes of skin every day, and you grow out of clothes and shoes.) 'Why must a crab hide just after it moults?' (Its new shell is soft and it can be eaten.)"
+    }
+   ],
+   "need": [
+    "paper and pencils",
+    "a shed insect skin if you can find one, or a picture"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Teeth, and the crab who had to be soft",
+   "goal": "Count teeth, read the story and check the main ideas.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Count your teeth",
+     "mins": 6,
+     "do": "Your child counts their teeth in a mirror, top and bottom. Say: 'Children have 20 milk teeth. From about age 6 they fall out one by one, and bigger adult teeth push up. Grown-ups can have 32.' Ask: 'Why can't you keep your milk teeth?' (Your jaw grows bigger and needs bigger, stronger teeth.) 'Is a lost tooth a sign of growing?' (Yes!)"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Crab Who Had to Be Soft",
+     "mins": 13,
+     "do": "Read the story aloud (Story tab). Ask the questions after. Listen for: 'The shell wasn't the crab. It was its old coat.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 16,
+     "do": "Your child does Worksheet ws1 (core). Read each item aloud if needed. Mark it together; for each slip, go back to the day it came from and look again.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a mirror",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "What growing needs",
+   "goal": "Find out what a body needs to grow well, and how scientists check growth.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Growing foods",
+     "mins": 8,
+     "do": "Ask your child to name what they ate yesterday. Say: 'Your body builds new bone, muscle and blood out of your food.' Sort the foods: body-building foods with protein (dal, rajma, chana, milk, curd, paneer, eggs, fish, meat, nuts), energy foods (rice, roti, potato), and protective foods (fruit and vegetables). Ask: 'Which builds your bones?' (Milk, curd, ragi, green leaves have calcium.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Sleep and play",
+     "mins": 10,
+     "do": "Say: 'Here is a surprise. Much of your growing happens while you sleep. In deep sleep your body sends out a growth messenger (growth hormone).' Ask: 'How many hours did you sleep last night?' Children your age need about 9 to 12 hours. Add: running, jumping and playing make bones and muscles strong. And water: your body is more than half water. And care: children who are loved and looked after grow better."
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v2: who was measured?",
+     "mins": 17,
+     "do": "Talk about voice v2: the World Health Organization's growth charts, made by measuring healthy children in six countries, including India, and the argument about whether one chart fits every child. Show a growth chart if your child's health card has one. Ask its question. Then ask: 'If you only measured rich children, or only children from one country, would the chart be fair?'",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "your child's health card or growth chart, if you have one"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "A day or four hundred years",
+   "goal": "Compare lifespans and meet living things that never stop growing.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Who lives longest?",
+     "mins": 5,
+     "do": "Ask your child to guess and put in order, shortest life to longest: a mouse, a dog, a human, an elephant, a tortoise. Write the guesses."
+    },
+    {
+     "kind": "talk",
+     "title": "Lifespans",
+     "mins": 12,
+     "do": "Give the real numbers (roughly): a mouse 2 years, a dog 10–15, an elephant 60–70, a human 70–80 or more, a giant tortoise more than 150. Then the surprises: an adult mayfly lives about a day, but first it spent a year or more as a nymph underwater; a bristlecone pine tree in America is more than 4,000 years old; and the Greenland shark (voice v3). Ask its question. Say: 'Crocodiles, many fish, sharks and trees keep growing slowly all their lives. People and dogs stop.'",
+     "ref": "v3"
+    },
+    {
+     "kind": "game",
+     "title": "Life Cycle Families",
+     "mins": 18,
+     "do": "Play the card game (g1): collect complete life cycles (butterfly, frog, grasshopper, human, mango, hen). Each time someone completes a family, they say the stages aloud in order.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "the printed cards"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Why such a long childhood?",
+   "goal": "Ask why human children grow so slowly, and who helps them.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Who looked after you?",
+     "mins": 7,
+     "do": "Ask: 'Who has looked after you since you were born?' Write every name your child can think of: parents, grandparents, aunts and uncles, older cousins, neighbours, a teacher, the doctor, the vegetable seller who gives you a free carrot. Count them. Say: 'A whole crowd of people helped you grow.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v1: the grandmothers",
+     "mins": 14,
+     "do": "Compare: a calf walks within an hour; a baby turtle swims alone on its first night; a human baby can't walk for about a year and needs looking after for more than 10 years. Ask: 'Why do you think human children grow up so slowly?' (A big brain takes years to grow and fill with learning: language, skills, stories.) Then talk about voice v1, Kristen Hawkes and the grandmother idea, and the scientists who disagree. Ask its question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 14,
+     "do": "Your child does Worksheet ws2 (stretch). Let them think aloud. Praise any answer with a reason.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "paper",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Family growth wall and teach it back",
+   "goal": "Finish the project, try the challenge and teach what you know.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Project: Family Growth Wall",
+     "mins": 14,
+     "do": "Finish the project: a strip of chart paper on the wall from the floor up, with a line and name for each person measured on Day 1, the Class 1 door-frame mark if you have it, and a drawing of each person's life stage. Add today's height for your child. Ask: 'How much have you grown since the Class 1 mark?'"
+    },
+    {
+     "kind": "think",
+     "title": "Challenge worksheet",
+     "mins": 11,
+     "do": "Do Worksheet ws3 (challenge) together. Scribe the long answers. There is no single right answer for the last questions; ask 'What is your evidence?'",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child stands by the growth wall and teaches the family: how to measure fairly, where bones grow, two kinds of metamorphosis, why crabs moult, what growing needs, and why humans have a long childhood. Ask the check questions."
+    }
+   ],
+   "need": [
+    "chart paper",
+    "measuring tape",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Growing and measuring",
+   "day": 4,
+   "sections": [
+    [
+     "A. Stages",
+     [
+      {
+       "t": "mcq",
+       "p": "Which is the right order for a human life?",
+       "opts": [
+        "baby, toddler, child, teenager, adult",
+        "child, baby, adult, toddler",
+        "baby, adult, teenager"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match the young to the adult.",
+       "pairs": [
+        [
+         "caterpillar",
+         "butterfly"
+        ],
+        [
+         "nymph",
+         "grasshopper"
+        ],
+        [
+         "tadpole",
+         "frog"
+        ],
+        [
+         "maggot",
+         "housefly"
+        ],
+        [
+         "wriggler in water",
+         "mosquito"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A butterfly's pupa is called a ____.",
+       "a": [
+        "chrysalis"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Measuring",
+     [
+      {
+       "t": "mcq",
+       "p": "Why is a centimetre better than a hand span for measuring?",
+       "opts": [
+        "it is bigger",
+        "it is the same for everyone",
+        "it is prettier"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Rohan is 118 cm tall. Meena is 124 cm tall. Who is taller, and by how much?",
+       "opts": [
+        "Rohan, by 6 cm",
+        "Meena, by 6 cm",
+        "they are the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "You measured in the morning and again at bedtime. At bedtime you were…",
+       "opts": [
+        "about 1 cm shorter",
+        "10 cm taller",
+        "exactly the same"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Bodies grow",
+     [
+      {
+       "t": "fill",
+       "p": "Children have ____ milk teeth.",
+       "a": [
+        "20",
+        "twenty"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Where in your bones does growing happen?",
+       "opts": [
+        "in the growth plates near the ends",
+        "in your hair",
+        "nowhere; bones don't grow"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Why does a crab have to moult to grow, when you don't?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Name three things your body needs to grow well, and say why one of them matters.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Life cycles and lifespans",
+   "day": 7,
+   "sections": [
+    [
+     "A. Complete or incomplete?",
+     [
+      {
+       "t": "sort",
+       "p": "Does the young look nothing like the adult (complete), or like a small adult without wings (incomplete)?",
+       "items": [
+        "butterfly",
+        "grasshopper",
+        "mosquito",
+        "cockroach",
+        "housefly",
+        "dragonfly",
+        "ladybird"
+       ],
+       "cats": [
+        "complete: larva and pupa",
+        "incomplete: nymph"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these must moult to grow?",
+       "opts": [
+        "a cow",
+        "a snake",
+        "a mango tree"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Lifespans",
+     [
+      {
+       "t": "sort",
+       "p": "Short life or long life?",
+       "items": [
+        "adult mayfly",
+        "mouse",
+        "giant tortoise",
+        "Greenland shark",
+        "bristlecone pine",
+        "house fly"
+       ],
+       "cats": [
+        "short: days to a few years",
+        "long: more than 100 years"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Stops growing when grown up, or keeps growing slowly all its life?",
+       "items": [
+        "human",
+        "crocodile",
+        "dog",
+        "neem tree",
+        "shark",
+        "cat"
+       ],
+       "cats": [
+        "stops growing",
+        "keeps growing"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "How long a living thing usually lives is its ____.",
+       "a": [
+        "lifespan",
+        "life span"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Use it",
+     [
+      {
+       "t": "mcq",
+       "p": "A newborn is about 4 heads tall; a grown-up about 7 or 8. So as you grow…",
+       "opts": [
+        "your head grows fastest",
+        "your legs and body grow more than your head",
+        "everything grows the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A family measured only the children in one rich school to make a growth chart for all children. What's the problem?",
+       "opts": [
+        "nothing",
+        "those children might not be like all children",
+        "rich children are not children"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "A calf walks an hour after it is born. A human baby takes about a year. Give one reason why.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Plan a fair test: does your little cousin grow more in a year than you do? What will you measure, how, and when?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Growing puzzles",
+   "day": 8,
+   "sections": [
+    [
+     "A. Think it through",
+     [
+      {
+       "t": "mcq",
+       "p": "An astronaut comes back from months in space a few centimetres taller. Why?",
+       "opts": [
+        "space food",
+        "with no gravity squashing them, the pads in the spine spread out",
+        "they grew new bones"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A mayfly lives only a day as an adult. Does it have a short life?",
+       "opts": [
+        "yes, one day in all",
+        "no, it lived a year or more as a nymph first",
+        "mayflies never die"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Scientists worked out a Greenland shark's age from…",
+       "opts": [
+        "counting its teeth",
+        "the lens of its eye, which keeps the same centre from birth",
+        "asking other sharks"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match the puzzle to its answer.",
+       "pairs": [
+        [
+         "a crab hides after moulting",
+         "its new shell is still soft"
+        ],
+        [
+         "milk teeth fall out",
+         "the jaw grows and needs bigger teeth"
+        ],
+        [
+         "grown-ups stop getting taller",
+         "their growth plates have closed"
+        ],
+        [
+         "you grow while you sleep",
+         "growth hormone is sent out in deep sleep"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Order it",
+     [
+      {
+       "t": "mcq",
+       "p": "Put these in order from shortest to longest lifespan: dog, elephant, mouse, giant tortoise.",
+       "opts": [
+        "mouse, dog, elephant, giant tortoise",
+        "dog, mouse, tortoise, elephant",
+        "elephant, tortoise, dog, mouse"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "An insect that hatches looking like a small wingless adult is called a ____.",
+       "a": [
+        "nymph"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Big questions",
+     [
+      {
+       "t": "write",
+       "p": "Some scientists think grandmothers helped humans have long childhoods. Others think big brains and learning matter more. What evidence would help you decide?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Would you like to stay a child for longer, or grow up faster, like a calf? What would you gain and lose?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A tree keeps growing all its life. Is there anything in you that keeps growing even after you stop getting taller?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Bottles, hands and centimetres",
+   "day": 1,
+   "question": "How can we measure height so everyone gets the same answer?",
+   "need": [
+    "two identical 1-litre bottles",
+    "a measuring tape in cm",
+    "a wall and a flat floor"
+   ],
+   "steps": [
+    "Your child lies flat on the floor with feet against the wall.",
+    "Lay a bottle on its side with its base at the wall, then 'walk' the two bottles end over end along to the top of the head, counting, with no gaps.",
+    "Write: 'I am __ bottles long.'",
+    "Now measure the same length with your hand spans, then with your child's hand spans. Write both.",
+    "Finally measure with the tape in centimetres."
+   ],
+   "predict": "Ask: 'Will hand spans give the same number for your hands and mine?'",
+   "observe": "The bottle count is the same each time if done carefully; the two hand-span counts are different; the tape gives one exact number in cm.",
+   "why": "A measurement is a count of units. If the unit changes size (different hands), the count changes. Bottles work if everyone uses the same bottle, which is why the world agreed on standard units like the centimetre. Measuring carefully means no gaps, no overlaps, starting at zero, and checking twice.",
+   "safety": "",
+   "time": "18 min"
+  },
+  {
+   "id": "e2",
+   "title": "Taller in the morning",
+   "day": 2,
+   "question": "Are you the same height all day?",
+   "need": [
+    "a measuring tape",
+    "a hardback book",
+    "a pencil and a wall you can mark lightly (or a paper strip stuck to it)"
+   ],
+   "steps": [
+    "At bedtime, your child stands barefoot against the wall, heels touching it, looking straight ahead.",
+    "Lay the book flat on their head against the wall and mark the wall. Measure in cm.",
+    "Next morning, before breakfast and before walking around much, do exactly the same.",
+    "Compare the two marks."
+   ],
+   "predict": "Ask: 'Will you be taller, shorter or the same in the morning?'",
+   "observe": "Usually about 1 cm taller in the morning.",
+   "why": "Between the bones of your spine are soft, springy pads (discs). All day, standing and sitting, gravity squashes them a little and you lose a little height. Lying down at night they soak up fluid and spring back. Astronauts in space, with no squashing, grow a few centimetres taller for a while. It's a good lesson for scientists too: when you measure can change your answer.",
+   "safety": "",
+   "time": "7 min at bedtime + 7 min next morning"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Heads and bodies",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "photos of a baby, your child and a grown-up, or the real people",
+    "paper strips",
+    "a pencil"
+   ],
+   "steps": [
+    "Cut a paper strip as long as the person's head (chin to top).",
+    "Lay the strip again and again from the top of the head to the feet, counting how many 'heads' tall they are.",
+    "Do it for a baby (a photo works), your child and a grown-up.",
+    "Write the three numbers and draw three stick people with the right number of heads.",
+    "Talk about which parts grew most."
+   ],
+   "outcome": "Three stick people showing that a baby is about 4 heads tall and a grown-up about 7 to 8: bodies don't just get bigger, they change shape."
+  }
+ ],
+ "project": {
+  "title": "Family Growth Wall",
+  "days": [
+   1,
+   8
+  ],
+  "steps": [
+   "Day 1: measure 3–5 people in cm and write the results in a table.",
+   "Day 8: stick a long strip of chart paper on the wall from the floor.",
+   "Mark each person's height with a line, their name and age.",
+   "Draw each one's life stage next to their line (child, teenager, adult, older person).",
+   "Add your child's Class 1 height mark if you have it, and today's height, and work out how much they have grown.",
+   "Leave room to add next year's mark."
+  ],
+  "outcome": "A wall chart of growth in centimetres that the family can add to every year."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Life Cycle Families",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors"
+  ],
+  "rules": [
+   "Cut out the 24 cards: six families of four. Shuffle and deal 4 cards to each player; put the rest face down.",
+   "On your turn, ask any player for a card you need: 'Do you have the frog's tadpole?' If they have it, they give it to you and you ask again. If not, take a card from the pile.",
+   "When you have all four cards of a family, lay them down in order and say the stages aloud.",
+   "The player with the most families when the cards run out wins."
+  ],
+  "cards": [
+   {
+    "front": "Butterfly 1: egg on a leaf",
+    "back": "butterfly family"
+   },
+   {
+    "front": "Butterfly 2: caterpillar (larva)",
+    "back": "butterfly family"
+   },
+   {
+    "front": "Butterfly 3: chrysalis (pupa)",
+    "back": "butterfly family"
+   },
+   {
+    "front": "Butterfly 4: butterfly",
+    "back": "butterfly family"
+   },
+   {
+    "front": "Frog 1: frogspawn",
+    "back": "frog family"
+   },
+   {
+    "front": "Frog 2: tadpole",
+    "back": "frog family"
+   },
+   {
+    "front": "Frog 3: froglet with a little tail",
+    "back": "frog family"
+   },
+   {
+    "front": "Frog 4: frog",
+    "back": "frog family"
+   },
+   {
+    "front": "Grasshopper 1: eggs in the soil",
+    "back": "grasshopper family"
+   },
+   {
+    "front": "Grasshopper 2: small nymph",
+    "back": "grasshopper family"
+   },
+   {
+    "front": "Grasshopper 3: bigger nymph after moulting",
+    "back": "grasshopper family"
+   },
+   {
+    "front": "Grasshopper 4: adult with wings",
+    "back": "grasshopper family"
+   },
+   {
+    "front": "Human 1: baby",
+    "back": "human family"
+   },
+   {
+    "front": "Human 2: child",
+    "back": "human family"
+   },
+   {
+    "front": "Human 3: teenager",
+    "back": "human family"
+   },
+   {
+    "front": "Human 4: adult",
+    "back": "human family"
+   },
+   {
+    "front": "Mango 1: seed",
+    "back": "mango family"
+   },
+   {
+    "front": "Mango 2: seedling",
+    "back": "mango family"
+   },
+   {
+    "front": "Mango 3: young tree",
+    "back": "mango family"
+   },
+   {
+    "front": "Mango 4: tree with flowers and fruit",
+    "back": "mango family"
+   },
+   {
+    "front": "Hen 1: egg",
+    "back": "hen family"
+   },
+   {
+    "front": "Hen 2: fluffy chick",
+    "back": "hen family"
+   },
+   {
+    "front": "Hen 3: young hen growing feathers",
+    "back": "hen family"
+   },
+   {
+    "front": "Hen 4: hen laying eggs",
+    "back": "hen family"
+   }
+  ]
+ },
+ "big": [
+  "Why do humans have such a long childhood, when a calf walks in an hour?",
+  "If a crab sheds its whole shell, is the new crab the same crab?",
+  "Is it better to live a short, busy life like a mayfly or a long, slow one like a Greenland shark?",
+  "When do you stop growing? Do you ever stop growing in your mind?",
+  "Who should decide what 'normal' growth is for a child?"
+ ],
+ "challenge": [
+  {
+   "q": "'Grown-ups don't grow.' True?",
+   "hint": "They stop getting taller when their growth plates close, but their bodies keep making new skin, blood and bone to repair themselves every day, hair and nails keep growing, and their brains keep learning. What does 'grow' mean to you?"
+  },
+  {
+   "q": "'Eat your vegetables and you'll grow tall like your uncle.' Does food decide how tall you get?",
+   "hint": "Partly. Children who don't get enough food grow less, and that is a big problem in the world. But how tall you can grow also depends on what you inherit from your parents. Food and family both matter. How could you find out which matters more?"
+  },
+  {
+   "q": "'Survival of the fittest' means animals must compete to survive. Is that how children grow up?",
+   "hint": "Growing up is mostly about care and cooperation: parents, grandparents, aunts, older siblings and neighbours sharing the work, in humans, elephants and many birds. Competition is real too, but it is not the whole story."
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A crab in a mangrove",
+   "view": "To grow, a crab must leave its old shell and be soft and in danger for a while. Ask: is there anything you had to leave behind to grow up?"
+  },
+  {
+   "who": "An Anganwadi worker in an Indian village",
+   "view": "Anganwadi workers weigh and measure small children every month and mark their growth charts, to spot early when a child is not getting enough food. Ask: why might measuring help a child? What else would you need besides a chart?"
+  },
+  {
+   "who": "A grandmother",
+   "view": "In many Indian families grandparents help raise children: oiling hair, telling stories, cooking, teaching songs. Ask an older person in your family: who helped raise you, and what did they teach you?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Kristen Hawkes (born 1944), USA, and the 'grandmother hypothesis'",
+   "idea": "Hawkes and her colleagues studied the Hadza, a people in Tanzania who gather wild foods. They saw that older women spent hours digging up tubers, and that their grandchildren grew better with this help. In the late 1990s they proposed that grandmothers helping to feed grandchildren may be part of why humans live long after having children and why human mothers can have babies closer together, with long childhoods.",
+   "then": "Many scientists found the idea exciting; others argued that hunting by men, or the need for big brains and long learning, explains our long childhood better.",
+   "now": "It is still debated. Most agree that humans raise children cooperatively, with many helpers, far more than other apes do. How much grandmothers in particular shaped human evolution is not settled.",
+   "status": "debated",
+   "ask": "How would you test whether grandmothers help children grow? What would you measure, and in whom?",
+   "day": 7
+  },
+  {
+   "id": "v2",
+   "who": "The World Health Organization's growth study (1997–2003), with children in Brazil, Ghana, India, Norway, Oman and the USA",
+   "idea": "Scientists measured thousands of healthy, well-fed young children in six very different countries, including children in Delhi. They found that babies and toddlers everywhere grow in a very similar way when they are healthy and well fed. In 2006 the WHO turned the results into growth charts for children under five, now used in India too.",
+   "then": "Some doctors argued that children from different places naturally grow differently, so one chart cannot fit all; others said the study showed that most differences come from food and health, not from where you are born.",
+   "now": "Most experts accept the charts for young children. For older children and teenagers there is more argument, and Indian doctors made separate Indian charts for ages 5 to 18 in 2015. Who is measured shapes what 'normal' looks like.",
+   "status": "debated",
+   "ask": "If you were making a growth chart, which children would you measure, and why? Who might be left out?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Julius Nielsen and colleagues (2016), Denmark, and the Greenland shark",
+   "idea": "Greenland sharks grow about 1 cm a year in the cold, dark Arctic sea. Nobody knew their age, so the team measured the lens of the shark's eye, whose centre forms before birth and never changes, using carbon dating. They estimated that the largest shark they studied was at least 272 years old, and probably around 400.",
+   "then": "It made the Greenland shark the longest-lived animal with a backbone known. Some scientists pointed out that the range of possible ages is very wide.",
+   "now": "Scientists accept that these sharks live for centuries, though the exact ages are uncertain and more work is being done.",
+   "status": "accepted",
+   "ask": "The scientists couldn't watch a shark for 400 years. How did they work out its age? What makes you trust (or doubt) a clever method like that?",
+   "day": 6
+  }
+ ],
+ "story": {
+  "title": "The Crab Who Had to Be Soft",
+  "text": [
+   "I live in the mud of a mangrove creek in the Sundarbans, where the river is so wide and brown that it looks like the sea, and the trees stand on tiptoe on their roots. Twice a day the tide comes in and covers my home, and twice a day it goes out and leaves the mud shining. I am a mud crab. I have ten legs, two strong claws, and a shell as hard as a pot.",
+   "For a long time my shell was my whole world. Inside it I was safe from the herons with their spear beaks, and the fish that snap, and the monitor lizards that dig. I loved my shell.",
+   "But I was growing. Every day I ate, little snails, dead fish, bits of whatever the tide brought, and every day there was more of me. And my shell did not grow. It cannot. It is not alive in the way my soft body is. It is a hard coat that my body made, and once it is made, it stays the size it is.",
+   "So my shell began to pinch. First at the edges, then everywhere. I felt squeezed when I walked. I felt squeezed when I rested in my burrow.",
+   "On the bank above the creek lived a girl called Rumi. She came down to the water most afternoons, to wash pots, or to look for crabs' holes with a stick, or just to sit. Her school shoes were tied around her neck by their laces because they were too small now, and they hurt her feet, and her mother had said there would be new ones after the harvest.",
+   "One afternoon I felt it: the time had come. Underneath my old shell, slowly, over many days, my body had already made a new one, soft and folded and wrinkled like a wet cloth. Now I drank in water until I swelled. There was a crack along the back of my old shell. The crack widened.",
+   "And I backed out.",
+   "It is the hardest thing a crab ever does. I pulled my legs out of my old legs, every one, ten of them. I pulled my claws out through the narrow joints of my old claws. I even pulled out the thin coverings of my eyes and the linings of my gills. It took a long time. When I was finally out, I was soft. Soft all over, like a ripe mango. I couldn't pinch. I couldn't run fast. Anything could have eaten me.",
+   "I crept into the deepest corner of my burrow, under a mangrove root, and waited, and swelled, and was afraid.",
+   "Rumi found my old shell the next day.",
+   "She found it lying on the mud at low tide: a whole crab, perfect, with all ten legs and both claws and even little eye cups. She picked it up and it was so light. She looked inside and it was empty.",
+   "\"Ma!\" she cried, running up the bank with it held out in both hands. \"Ma, a crab has died! There's nothing left of it!\"",
+   "Her mother was spreading rice to dry on a mat. She wiped her hands on her sari and took the shell and turned it over, very carefully.",
+   "\"Look,\" she said. \"Look here, at the back.\" There was the long split where I had climbed out. \"And look, it's not broken anywhere else. Nothing ate this crab. It's not a dead crab, Rumi. It's an empty coat.\"",
+   "Rumi stared at it. \"A coat?\"",
+   "\"The crab grew too big for it,\" said her mother. \"So it climbed out. Somewhere down there it is hiding, soft and new and bigger, waiting for its new shell to harden.\"",
+   "\"It came out of all of it? Even the legs?\"",
+   "\"Even the legs.\"",
+   "Rumi held the empty shell for a long time. Then she looked down at the school shoes hanging round her neck. Last year they had been too big, and she had stuffed paper in the toes.",
+   "She didn't say anything. She just went back down to the creek, and put my old shell on a flat stone by the water, carefully, the right way up, and sat beside it until the tide began to come in.",
+   "Down in my burrow, I was hardening. It took days. My new shell turned from soft to leathery to hard, and it was bigger, so much bigger, with room inside to grow. One evening I came out into the low tide light and walked across the mud, slowly, then faster, and nothing pinched at all.",
+   "On a flat stone at the edge of the water there was an old crab shell, just my size, the size I used to be. A girl was sitting next to it with her chin on her knees, watching the water come in.",
+   "She saw me. She didn't move. And I didn't run."
+  ],
+  "epiphany": "Animals with a hard outside (crabs, insects, spiders) must moult to grow: the shell can't grow, so the animal makes a new soft one underneath, climbs out of the old one, swells and hardens. The turn is Rumi's mother saying 'It's not a dead crab. It's an empty coat.' Growing means outgrowing things, and there is a soft, risky time in between. Rumi's too-small shoes echo the idea without anyone saying it.",
+  "ask": [
+   "Why couldn't the crab's shell grow with it?",
+   "Why did Rumi think the crab had died? What showed her mother it hadn't?",
+   "Why did the crab hide after moulting?",
+   "What was the same about the crab's shell and Rumi's shoes?",
+   "Why do you think Rumi put the shell on the stone and waited?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Growing is changing, not just getting bigger.",
+   "more": "Bodies change shape (a baby is 4 heads tall, a grown-up 8), teeth are replaced, caterpillars become butterflies. Show the heads-and-bodies stick people next to the life-cycle cards."
+  },
+  {
+   "idea": "Things with a hard outside must leave it to grow.",
+   "more": "Crabs, insects, spiders and snakes moult. Find a shed skin on a tree or wall; it is a perfect empty copy of the animal."
+  },
+  {
+   "idea": "No one grows up alone.",
+   "more": "Human children grow slowly and need years of care from many people. Count the people who helped your child grow, and ask who the child helps."
+  }
+ ],
+ "unknowns": [
+  "What exactly tells growth plates when to stop? Scientists know many of the messengers involved, but not the whole story of why one person stops at 150 cm and another at 190 cm.",
+  "Why do some animals, like the Greenland shark or some tortoises, live for centuries while others live a few years? Nobody fully knows.",
+  "Why did humans evolve such a long childhood? Grandmothers, big brains, learning and cooperation are all ideas, and the argument is not finished."
+ ],
+ "books": [
+  {
+   "title": "From Tadpole to Frog",
+   "author": "Wendy Pfeffer",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A Let's-Read-and-Find-Out book following a frog's whole life cycle in clear steps."
+  },
+  {
+   "title": "A Butterfly Is Patient",
+   "author": "Dianna Hutts Aston and Sylvia Long",
+   "for": "read together",
+   "age": "4–9",
+   "why": "Beautiful, accurate paintings of caterpillars, chrysalises and butterflies, from the makers of 'An Egg Is Quiet'."
+  },
+  {
+   "title": "Summer Birds: The Butterflies of Maria Merian",
+   "author": "Margarita Engle",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The girl who raised caterpillars and proved that insects come from eggs, not mud."
+  },
+  {
+   "title": "Mothers and Others: The Evolutionary Origins of Mutual Understanding",
+   "author": "Sarah Blaffer Hrdy",
+   "for": "parent reads",
+   "age": "adult (share ideas aloud)",
+   "why": "A scientist's case that humans evolved to raise children together, with grandmothers and many helpers."
+  }
+ ],
+ "check": [
+  {
+   "q": "Why do we measure height in centimetres and not hand spans?",
+   "a": "A centimetre is the same for everyone; hand spans are different sizes."
+  },
+  {
+   "q": "Where in your bones does growing happen, and when does it stop?",
+   "a": "At the growth plates near the ends of the bones; they close in the late teens or early twenties."
+  },
+  {
+   "q": "How is a grasshopper's life cycle different from a butterfly's?",
+   "a": "A baby grasshopper is a nymph that looks like a small adult (incomplete); a caterpillar changes completely in a pupa (complete metamorphosis)."
+  },
+  {
+   "q": "Why must a crab moult?",
+   "a": "Its hard shell can't grow, so it climbs out and makes a bigger one."
+  },
+  {
+   "q": "Name three things your body needs to grow well.",
+   "a": "e.g. food (with protein and calcium), water, sleep, exercise, care."
+  },
+  {
+   "q": "Name a living thing that keeps growing all its life, and one with a very long lifespan.",
+   "a": "e.g. a crocodile or a tree; a Greenland shark or a giant tortoise."
+  },
+  {
+   "q": "Give one reason human children need looking after for so long.",
+   "a": "e.g. a big brain takes years to grow and learn; humans raise children with many helpers."
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "key": "combined|sci|1|sound",
+ "board": "combined", "subj": "sci", "level": 1, "n": "sound",
+ "title": "Sound: shakes you can hear",
+ "source": "DeepKids Combined. Covers Cambridge Stage 1 Physics: Where do sounds come from? (Unit 6.1) and Sounds move (Unit 6.3), plus hearing, ears, echoes and animal hearing. No textbook needed.",
+ "summary": "Your child finds out that every sound starts with something shaking (vibrating), that the shake travels through air, water, wood and string to our ears, and that sounds get quieter as they travel further away. They feel their own voice box buzz, make rice dance on a drum, build a string telephone, and meet elephants who listen with their feet and plants that click when they are thirsty.",
+ "builds_on": "This is the first rung on sound. In Class 5 your child comes back to it to measure loudness (volume) and explain high and low sounds (pitch), and to plan fair tests about how sound travels.",
+ "subconcepts": [
+  "sound sources",
+  "every sound is a vibration (a fast shake)",
+  "our voice box vibrates when we talk and sing",
+  "how the ear catches sound: outer ear, eardrum, brain",
+  "loud and quiet sounds",
+  "sounds get quieter as they travel away from the source",
+  "sound travels through air, water, wood and string",
+  "no air, no sound: sound needs something to travel through",
+  "echoes: sound bouncing back",
+  "protecting our ears from very loud sounds",
+  "animals hear sounds we can't (elephant rumbles, bat squeaks)",
+  "listening with the body: feeling sound through feet and hands"
+ ],
+ "goals": [
+  "By the end your child can name ten sound sources at home and outside, made by people, animals, machines and nature.",
+  "By the end your child can show that a sound comes from something shaking, using rice on a drum or a hand on their throat.",
+  "By the end your child can say that sound travels to our ears, and gets quieter the further it goes.",
+  "By the end your child can show that sound travels through string and wood as well as air.",
+  "By the end your child can say why we cover our ears for very loud sounds, and how some animals hear sounds we cannot.",
+  "By the end your child can say one thing scientists still do not know about sound and animals."
+ ],
+ "words": [
+  ["sound", "what we hear with our ears"],
+  ["source", "the thing that makes a sound"],
+  ["vibrate", "to shake very fast, backwards and forwards"],
+  ["vibration", "a fast shake"],
+  ["loud", "a big sound that is easy to hear"],
+  ["quiet", "a small, soft sound that is hard to hear"],
+  ["ear", "the part of our body that catches sound"],
+  ["eardrum", "a thin skin inside the ear that shakes when sound arrives"],
+  ["echo", "a sound that bounces off a wall or hill and comes back"],
+  ["voice box", "the part in your throat that buzzes when you talk"]
+ ],
+ "day_mins": 30,
+ "days": [
+  {"n": 1, "title": "Sounds all around us", "goal": "Notice sounds and their sources, and meet the story.",
+   "steps": [
+    {"kind": "warmup", "title": "One minute of listening", "mins": 6, "do": "Sit together with eyes closed for one whole minute (use a phone timer). Say: 'Count every different sound you hear on your fingers.' Afterwards ask: 'What did you hear? Where was it coming from?' Good answers: a fan, a pressure cooker, a crow, a scooter horn, a neighbour talking, your own breathing. Say: 'Everything that makes a sound is called a sound source.'"},
+    {"kind": "read", "title": "Story: Lakhi Listens with Her Feet", "mins": 12, "do": "Read the story aloud slowly, using a low rumbly voice for the grandmother elephant. Do not explain it. Ask two of the story questions: 'How did Lakhi find her family when she could not see them?' and 'Why did Grandmother say stand still?' Keep your child's answers in mind; you will come back to them on Day 3."},
+    {"kind": "outdoor", "title": "Sound source hunt", "mins": 12, "do": "Walk around the house and just outside (balcony, gate or garden) with a sheet of paper folded into four boxes: People, Animals, Machines, Nature (wind, rain, leaves, water). Your child draws or you write each sound source they hear in the right box. Aim for at least ten. Ask: 'Which sound was loudest? Which was quietest? Which source could you not see?' Start the Sound diary (activity a1) on the back of the sheet.", "ref": "a1"}
+   ], "need": ["a phone timer", "a sheet of paper and a pencil"]},
+  {"n": 2, "title": "Every sound is a shake", "goal": "Feel and see that sounds come from vibrations.",
+   "steps": [
+    {"kind": "warmup", "title": "Buzzing throat", "mins": 7, "do": "Ask your child to put their fingertips gently on the front of their throat and say 'aaaah', then hum 'mmmm', then whisper, then stay silent. Ask: 'What did your fingers feel?' Good answer: a buzz or tickle when talking or humming, almost nothing when whispering, nothing when silent. Say: 'Inside your throat is your voice box. When you talk, it shakes very fast. A fast shake is called a vibration. Every sound in the world starts with a vibration.'"},
+    {"kind": "exp", "title": "Dancing rice", "mins": 15, "do": "Do experiment e1. Stretch cling film tightly over a steel bowl and put on a pinch of uncooked rice. Ask your child to guess first: 'What will happen to the rice if we bang a thali near it?' Bang a steel plate with a spoon near the bowl, then tap the cling film itself. Watch the rice jump. Then twang a rubber band stretched over an open box and watch it blur. Say: 'When something shakes fast, it pushes the air, and the air pushes the next bit of air, all the way to your ear.'", "ref": "e1"},
+    {"kind": "talk", "title": "What's shaking?", "mins": 8, "do": "Go back to the sound hunt sheet from Day 1. For each source, ask: 'What is shaking to make that sound?' Help with answers: the horn has a thin metal piece inside that shakes; the crow's voice box shakes; leaves shake against each other; the fan blades push air in fast puffs; a drum skin shakes when it is hit. If stuck, say: 'Let's find out by touching it gently', and touch a ringing steel glass to feel it buzz, then hold it still to stop the sound."}
+   ], "need": ["a steel bowl", "cling film", "a pinch of uncooked rice", "a steel plate and spoon", "a rubber band and an open box or tiffin", "a steel glass"]},
+  {"n": 3, "title": "How we hear", "goal": "Understand that the ear catches the shaking air, and that other animals hear differently.",
+   "steps": [
+    {"kind": "exp", "title": "Bigger ears", "mins": 12, "do": "Do experiment e2. Your child stands three big steps away while you rub your fingers together or crinkle a paper softly. Then they cup their hands behind their ears and listen again. Then they try a paper cone (wide end out, narrow end near, not inside, the ear). Ask: 'When was it easiest to hear? Why do you think a rabbit or an elephant has such big ears?' Good answer: big ears catch more of the sound and send it into the ear.", "ref": "e2"},
+    {"kind": "talk", "title": "Inside the ear", "mins": 8, "do": "Draw a simple ear on paper: the outside ear like a funnel, a tube going in, and a thin skin across the tube. Say: 'This thin skin is the eardrum. When the shaking air reaches it, it shakes too, just like the rice on our drum. Tiny bones pass the shake on, and a nerve tells the brain. So we really hear with our ears and our brain together.' Say clearly: 'We never put anything inside our ears, not even a finger or a cotton bud, because the eardrum is thin and can be hurt.'"},
+    {"kind": "talk", "title": "Elephants who hear low", "mins": 10, "do": "Tell your child about voice v1: Katy Payne felt a throbbing in the air at a zoo and found that elephants talk in rumbles too low for people to hear. Remind them of Lakhi in the story. Ask the voice question: 'How could you find out if an animal can hear a sound that you can't hear?' Good answers: watch whether the animal turns its head or comes when the sound is played; use a machine that can 'hear' the sound. Then ask: 'Who do you think hears better, people or dogs? Why might a dog need to?'", "ref": "v1"}
+   ], "need": ["a sheet of paper for a cone", "a pencil", "tape"]},
+  {"n": 4, "title": "Loud and quiet, near and far", "goal": "Find out that sounds get quieter as they travel away, and learn to protect our ears.",
+   "steps": [
+    {"kind": "exp", "title": "Walk-away test", "mins": 14, "do": "Do experiment e3 outdoors or in a long corridor. You stand still and ring a steel bell or tap a spoon on a glass at the same strength each time. Your child walks away one big step at a time and says 'still hear it' after each step. Mark where they can no longer hear it with a chappal. Then try a louder sound (two spoons on a thali) and mark again. Ask: 'Which sound went further? What happened to the sound as you walked away?' Good answer: it got quieter and quieter, because the shake spreads out and gets weaker as it travels.", "ref": "e3"},
+    {"kind": "talk", "title": "Too loud!", "mins": 6, "do": "Ask: 'Which sounds are so loud they hurt? What do you do?' Good answers: crackers, a DJ speaker at a wedding, a pressure horn. Say: 'Very loud sounds can harm the tiny parts inside the ear, and the harm does not get better. So we cover our ears, move away, and keep music on headphones low.' Ask: 'How do you think a dog or a bird feels on a cracker night?'"},
+    {"kind": "ws", "title": "Core worksheet", "mins": 10, "do": "Do Worksheet ws1 together. Read each item aloud and let your child point or say the answer while you mark it. For the two 'why' items, write down exactly what your child says.", "ref": "ws1"}
+   ], "need": ["a steel bell or a spoon and a steel glass", "two spoons and a thali", "a chappal to mark the spot", "worksheet ws1"]},
+  {"n": 5, "title": "Sound travels through things", "goal": "Show that sound travels through string, wood and water, but not through empty space.",
+   "steps": [
+    {"kind": "act", "title": "String telephone", "mins": 14, "do": "Do activity a2. Make two holes in the bottoms of two paper cups, push a long string (about 5 metres) through and tie a knot inside each. Pull the string tight and talk softly into one cup while your child listens. Then let the string go slack and try again. Then let someone pinch the string in the middle. Ask: 'When did it work best? What happened when we pinched it?' Good answer: tight string carries the shake; pinching stops the shake, so the sound stops.", "ref": "a2"},
+    {"kind": "exp", "title": "Ear on the table", "mins": 6, "do": "Your child puts one ear flat on a wooden table while you scratch the far end very lightly with a fingernail. Then they lift their head and listen again while you scratch the same way. Ask: 'When was the scratch louder?' Good answer: with the ear on the table. Say: 'Sound travels through wood and string even better than through air.' Mention that a mother cow can hear her calf and fish can hear underwater, because sound travels through water too."},
+    {"kind": "talk", "title": "A bell in a jar with no air", "mins": 10, "do": "Tell your child about voice v2: Robert Boyle and Robert Hooke, who pumped the air out of a glass jar with a ticking watch inside and found the ticking grew fainter and fainter. Ask: 'If sound is shaking air, what happens when there is no air?' Good answer: no sound. Ask: 'Space has no air. So would an explosion in space make a bang?' Then ask the voice question.", "ref": "v2"}
+   ], "need": ["two paper cups", "5 metres of thin string", "a pencil to make holes", "a wooden table"]},
+  {"n": 6, "title": "Echoes and secret listeners", "goal": "Hear echoes, think about plants that click, and play the sound game.",
+   "steps": [
+    {"kind": "outdoor", "title": "Echo hunt", "mins": 8, "do": "Go to a staircase, an empty water tank, a big empty room, a well or a wall in an open ground. Clap once, sharply, and listen. Ask: 'Did the clap come back?' Say: 'That is an echo, the sound bouncing off a hard wall and coming back to you, like a ball bouncing off a wall.' Ask: 'Does a clap echo in a room full of cushions and curtains?' (Much less: soft things soak up sound.) Mention that bats find their way in the dark by shouting tiny squeaks and listening to the echoes."},
+    {"kind": "talk", "title": "Do plants make sounds?", "mins": 8, "do": "Tell your child about voice v3: scientists in Israel recorded tomato plants making tiny clicks, too high for us to hear, when they were thirsty. Ask: 'Who might be listening to a thirsty plant? A moth? Another plant?' Then ask the voice question. Say honestly: 'Nobody knows yet whether any animal listens to those clicks. Maybe you will find out.'", "ref": "v3"},
+    {"kind": "game", "title": "Sound Trail board game", "mins": 14, "do": "Play the board game g1. Before starting, read the rules aloud. When a player lands on a sound square, they must make that sound or say what is vibrating. Play until someone reaches HOME, or for 14 minutes.", "ref": "g1"}
+   ], "need": ["the printed Sound Trail board", "a die", "a counter for each player"]},
+  {"n": 7, "title": "Sound map, check and teach it back", "goal": "Finish the sound map project, review and teach the family.",
+   "steps": [
+    {"kind": "ws", "title": "Stretch worksheet", "mins": 9, "do": "Do Worksheet ws2 together. Read each item aloud. For the 'why' and 'how could you test' items, ask your child to explain while you write their words.", "ref": "ws2"},
+    {"kind": "do", "title": "Finish the sound map", "mins": 6, "do": "Finish the project: on the drawing of your home, your child adds a small picture for each sound source in each room (the cooker in the kitchen, the fan in the bedroom), coloured red for loud and blue for quiet. Ask: 'Which room is the noisiest? Which is the quietest place to read?'"},
+    {"kind": "check", "title": "Teach it back", "mins": 10, "do": "Your child shows the family the dancing rice and the string telephone and explains: sounds come from shaking; the shake travels through air, string and wood to our ears; sounds get quieter far away. Then ask the check questions aloud. Praise every answer that uses the word 'vibrate'."},
+    {"kind": "ws", "title": "Challenge worksheet", "mins": 5, "do": "Try three items from Worksheet ws3 today, especially 'Would a drum make a sound on the Moon?' Do the rest tomorrow if your child enjoys it. Write down exactly what your child says.", "ref": "ws3"}
+   ], "need": ["worksheets ws2 and ws3", "the sound map drawing", "colour pencils", "the dancing rice bowl and string telephone"]}
+ ],
+ "worksheets": [
+  {"id": "ws1", "tier": "core", "title": "Where do sounds come from?", "day": 4, "sections": [
+   ["A. Sound sources", [
+    {"t": "sort", "p": "Who or what made the sound?", "items": ["a crow cawing", "a pressure cooker whistle", "rain on the roof", "Amma singing", "a dog barking", "a mixer grinder", "thunder", "a baby crying"], "cats": ["people", "animals", "machines", "nature"]},
+    {"t": "mcq", "p": "Every sound starts when something…", "opts": ["goes dark", "vibrates (shakes fast)", "gets cold"], "a": 1},
+    {"t": "fill", "p": "We hear sounds with our ____.", "a": ["ears", "ear"]},
+    {"t": "mcq", "p": "When you hum, what can your fingers feel on your throat?", "opts": ["nothing", "a buzz", "something cold"], "a": 1}]],
+   ["B. Loud and quiet", [
+    {"t": "sort", "p": "Is it loud or quiet?", "items": ["a whisper", "a firecracker", "a ticking clock", "a train horn", "a cat walking", "a drum at a wedding"], "cats": ["loud", "quiet"]},
+    {"t": "mcq", "p": "You walk away from a ringing bell. The sound gets…", "opts": ["louder", "quieter", "the same"], "a": 1},
+    {"t": "mcq", "p": "A very loud cracker goes off near you. What should you do?", "opts": ["put a finger inside your ear", "cover your ears with your hands and move away", "go closer to see"], "a": 1}]],
+   ["C. Think", [
+    {"t": "write", "p": "Why did the rice jump on the drum?", "lines": 2},
+    {"t": "write", "p": "Why do you think a rabbit has such big ears?", "lines": 2}]]]},
+  {"id": "ws2", "tier": "stretch", "title": "Sound on the move", "day": 7, "sections": [
+   ["A. What is shaking?", [
+    {"t": "match", "p": "Match the sound to the part that vibrates.", "pairs": [["a dholak", "the skin on top"], ["a guitar or veena", "the strings"], ["your voice", "your voice box"], ["a bee's buzz", "its wings"], ["a flute", "the air inside it"]]}]],
+   ["B. Through what?", [
+    {"t": "mcq", "p": "Our string telephone works best when the string is…", "opts": ["loose and floppy", "pulled tight", "wet"], "a": 1},
+    {"t": "mcq", "p": "You put your ear on a table and someone scratches the far end. The scratch sounds…", "opts": ["louder than in air", "quieter than in air", "you can't hear it at all"], "a": 0},
+    {"t": "fill", "p": "A sound that bounces off a wall and comes back is an ____.", "a": ["echo"]},
+    {"t": "sort", "p": "Can sound travel through it?", "items": ["air", "water", "string", "wood", "a wall", "empty space with no air"], "cats": ["yes", "no"]},
+    {"t": "mcq", "p": "Elephants can talk in rumbles that are…", "opts": ["too low for people to hear", "too bright to see", "only made with their trunks"], "a": 0}]],
+   ["C. Think", [
+    {"t": "write", "p": "Why did the string telephone stop working when someone pinched the string?", "lines": 2},
+    {"t": "write", "p": "How could you test whether your dog (or a neighbour's cat) can hear a very quiet sound?", "lines": 3}]]]},
+  {"id": "ws3", "tier": "challenge", "title": "Sound puzzles", "day": 7, "sections": [
+   ["A. Puzzles", [
+    {"t": "mcq", "p": "Astronauts on the Moon, where there is no air, talk to each other…", "opts": ["by shouting", "by radio", "by whistling"], "a": 1},
+    {"t": "mcq", "p": "A clap echoes best in…", "opts": ["a bedroom full of pillows", "an empty hall with hard walls", "a field of soft grass"], "a": 1},
+    {"t": "mcq", "p": "Bats find insects in the dark by…", "opts": ["listening for echoes of their own squeaks", "smelling the moon", "seeing in the dark only"], "a": 0},
+    {"t": "fill", "p": "The thin skin inside your ear that shakes is called the ____.", "a": ["eardrum", "ear drum"]},
+    {"t": "sort", "p": "Which sounds might harm your ears if you are close for a long time?", "items": ["a loud speaker at a party", "birds singing", "a firecracker", "a friend talking", "a drill on a road", "rain"], "cats": ["could harm my ears", "safe for my ears"]},
+    {"t": "match", "p": "Which animal listens how?", "pairs": [["elephant", "feels rumbles with its feet"], ["bat", "listens to echoes"], ["fish", "hears in water"], ["owl", "listens for mice in the dark"]]}]],
+   ["B. What if?", [
+    {"t": "write", "p": "Would a drum make a sound on the Moon, where there is no air? Why do you think so?", "lines": 3},
+    {"t": "write", "p": "A tomato plant clicks when it is thirsty, but we can't hear it. Who might want to listen to it, and why?", "lines": 3},
+    {"t": "write", "p": "If you could hear everything a dog hears, would that be fun or too much? Why?", "lines": 3}]]]}
+ ],
+ "experiments": [
+  {"id": "e1", "title": "Dancing rice", "day": 2, "question": "Do sounds come from something shaking?", "need": ["a steel bowl", "cling film", "a pinch of uncooked rice", "a steel plate and spoon", "a rubber band and an open tiffin or box"], "steps": ["Stretch cling film tightly over the bowl like a drum skin.", "Sprinkle a few grains of rice on top.", "Tap the cling film gently with a finger. Watch the rice.", "Hold the steel plate close to the bowl and bang it with the spoon. Watch the rice.", "Stretch the rubber band over the open tiffin and twang it. Look at the band closely: does it look blurry?", "Touch the twanging band. What happens to the sound?"], "predict": "Ask your child to guess first: 'Will the rice move if we bang the plate without touching the bowl?'", "observe": "The rice jumps when the cling film is tapped and also, a little, when the plate is banged nearby. The rubber band blurs as it shakes; touching it stops the shaking and the sound together.", "why": "Sound is made when something vibrates. The banged plate shakes and pushes the air next to it back and forth; that air pushes the next air, and the push travels through the air to the cling film, which shakes too and throws the rice up. Stop the shaking and you stop the sound.", "safety": "Bang gently so the noise does not hurt anyone's ears. Keep the rice away from very young siblings.", "time": "15 min"},
+  {"id": "e2", "title": "Bigger ears", "day": 3, "question": "Do bigger ears help us hear quiet sounds?", "need": ["a sheet of paper rolled into a cone and taped", "a quiet room"], "steps": ["Your child stands three big steps away with their back to you.", "Rub your fingers together or crinkle a paper softly. Ask: 'Can you hear it?'", "Now your child cups their hands behind their ears, palms forward. Make the same sound.", "Now they hold the cone with the narrow end near their ear (not inside it). Make the same sound.", "Swap: you listen while your child makes the sound."], "predict": "Ask: 'Which will help most: nothing, cupped hands or the cone?'", "observe": "The sound seems louder with cupped hands, and often louder still with the cone pointed at the sound.", "why": "The outer ear is a funnel that catches the shaking air and sends it into the ear. A bigger funnel catches more, so the quiet sound seems louder. Animals that must hear far or quiet sounds, like rabbits, foxes and elephants, often have big ears they can turn.", "safety": "Never push the cone or anything else into the ear.", "time": "12 min"},
+  {"id": "e3", "title": "Walk-away test", "day": 4, "question": "What happens to a sound as it travels further away?", "need": ["a steel glass and a spoon (or a small bell)", "a thali and two spoons", "two chappals to mark spots"], "steps": ["Stand still in an open space or long corridor.", "Tap the glass with the spoon, the same strength each time.", "Your child walks away one big step at a time, saying 'still hear it' after each tap.", "Where they can't hear it any more, put a chappal.", "Now bang the thali with two spoons and repeat. Mark with the second chappal.", "Count the steps to each chappal."], "predict": "Ask: 'Which sound will you hear from further away: the glass or the thali?'", "observe": "Both sounds get quieter as your child walks away. The louder thali can be heard from more steps away.", "why": "A sound's shake spreads out in every direction, like ripples spreading from a stone in a pond. The further it goes, the more it spreads and the weaker it gets, so it sounds quieter. A bigger shake (a louder sound) can travel further before it is too weak to hear.", "safety": "Do this away from roads. Bang the thali only a few times.", "time": "14 min"}
+ ],
+ "activities": [
+  {"id": "a1", "title": "Sound diary", "day": 1, "mins": 5, "need": ["the back of the sound hunt sheet", "a pencil"], "steps": ["Each evening this week, sit quietly for one minute.", "Draw or say one new sound you heard that day and what made it.", "Put a star next to sounds made by animals and a circle next to sounds made by machines.", "At the end of the week, count: more stars or more circles?"], "outcome": "A week's diary of sounds, and a question: is our home full of animal sounds or machine sounds?"},
+  {"id": "a2", "title": "String telephone", "day": 5, "mins": 14, "need": ["two paper cups", "5 metres of thin string", "a pencil to make the holes"], "steps": ["A grown-up makes a small hole in the bottom of each cup with a pencil.", "Push the string through each hole and tie a big knot inside.", "Walk apart until the string is tight.", "One person talks softly into a cup; the other holds their cup to their ear.", "Try with the string loose, then tight, then pinched in the middle, then wrapped round a chair leg."], "outcome": "A working telephone, and the discovery that sound travels along a tight string."}
+ ],
+ "voices": [
+  {"id": "v1", "who": "Katy Payne (born 1937), USA", "idea": "In 1984, standing near the elephant enclosure at a zoo in Portland, Oregon, Katy Payne felt a throbbing in the air, like the feeling near a big organ pipe, but heard nothing. She and her colleagues recorded the elephants and found they were calling to each other with rumbles too low for human ears to hear (called infrasound), which can travel for kilometres.", "then": "Katy Payne had already studied whale songs with her husband Roger Payne. Many people were surprised that such a big discovery came from a feeling rather than a sound. Recordings soon convinced other scientists.", "now": "It is accepted: elephants talk in very low rumbles, and later scientists such as Caitlin O'Connell-Rodwell found that they may also feel these rumbles through the ground with their feet and trunks.", "status": "accepted", "ask": "Katy Payne noticed a feeling that no one else had paid attention to. How could you find out if an animal can hear a sound you can't hear?", "day": 3},
+  {"id": "v2", "who": "Robert Boyle (1627–1691) and Robert Hooke (1635–1703), England", "idea": "In 1660 Boyle reported putting a ticking watch inside a glass jar and pumping the air out. The ticking grew fainter and fainter, and came back when air was let in. The air pump that made this possible was built by his assistant, Robert Hooke.", "then": "Some twenty years earlier in Rome, Gasparo Berti, with Athanasius Kircher watching, had rung a bell in a glass with the air taken out and still heard it, so Kircher said sound did not need air. The sound had probably travelled out through the metal that held the bell, and some air may have been left. Boyle's careful test convinced most people that sound needs air (or something) to travel through.", "now": "It is accepted: sound needs something to travel through (air, water, wood). In empty space there is no sound. Hooke, the skilled builder whose pump made the test possible, became a great scientist himself but is often left out of the story.", "status": "accepted", "ask": "Kircher said one thing and Boyle said the opposite. Why might two careful people get different results? What would you need to check?", "day": 5},
+  {"id": "v3", "who": "Itzhak Khait, Lilach Hadany and colleagues, Tel Aviv University, Israel (published 2023)", "idea": "They put tomato and tobacco plants in quiet boxes with special microphones and recorded tiny clicking sounds, too high for people to hear, which became much more frequent when the plants were thirsty or their stems were cut. A computer could tell a thirsty plant from a cut one by its clicks.", "then": "Many scientists were amazed. Others pointed out that the clicks are probably caused by tiny air bubbles in the plant's water tubes, so the plant may not be 'talking' on purpose.", "now": "The recordings are accepted, but what they mean is debated. Nobody knows yet whether any animal, such as a moth looking for a healthy plant to lay eggs on, actually listens to them.", "status": "debated", "ask": "If a plant makes a sound by accident, is it still a kind of message? What experiment would show whether a moth listens to it?", "day": 6}
+ ],
+ "project": {"title": "Sound map of my home", "days": [6, 7], "steps": ["Draw a simple map of your home: one box for each room, plus the balcony or yard.", "Spend a few minutes in each room and listen.", "Draw a small picture of each sound source in the room where you heard it.", "Colour loud sounds red and quiet sounds blue.", "Find the quietest spot in the home and mark it with a star: that is your listening spot."], "outcome": "A coloured sound map of the home, with the noisiest and quietest places found."},
+ "game": {"id": "g1", "title": "Sound Trail", "kind": "board", "players": "2–4", "need": ["a die", "a counter for each player"],
+  "rules": ["Put all counters on START. Take turns to roll the die and move.", "If you land on a sound square, make that sound and say what is vibrating to make it. If you can, move on 1 square.", "If you land on a 'forward' or 'back' square, do what it says.", "The first player to reach HOME wins, but everyone must give a big quiet clap (no sound!) at the end."],
+  "squares": ["START", "Hum like a bee: what is shaking?", "Whisper your name", "Echo in a cave: go forward 2", "Bark like a dog", "Too loud! Cover your ears: miss a turn", "Tap a table: does wood carry sound?", "Roar like a tiger", "Elephant rumble: say it as low as you can", "Fireworks scared the birds: go back 2", "Clap twice", "String telephone works: go forward 2", "Hiss like a snake", "Name 3 sound sources in this room", "No air in space: no sound! Mime a word", "Click like a thirsty tomato plant", "Drum on your knees", "A loud speaker hurt your ears: go back 1", "Sing one line of a song", "Bat in the dark: squeak and go forward 1", "Ring like a bicycle bell", "HOME"]},
+ "big": [
+  "Is there any place in the world that is completely silent?",
+  "If a tree falls in a forest and no one is there, does it make a sound?",
+  "Do animals hear the world the same way we do?",
+  "Which sounds do you love, and which sounds belong to the animals more than to us?"
+ ],
+ "challenge": [
+  {"q": "In space films, spaceships blow up with a huge BANG. Is that true?", "hint": "Space has almost no air, so there is nothing to carry the shake. A real explosion in space would be silent. Astronauts talk by radio. Ask: why do you think film makers add the bang?"},
+  {"q": "People say 'blind as a bat'. Are bats blind?", "hint": "No bat is blind. Many see well, and fruit bats see very well. Insect-eating bats also use echoes of their own squeaks to find food in the dark. Ask: why might people have thought bats could not see?"},
+  {"q": "If you shout, does your voice travel faster than if you whisper?", "hint": "No. A shout is louder, so it can be heard further away, but loud and quiet sounds travel through air at the same speed. Ask: how could you test this with a friend far away?"}
+ ],
+ "perspectives": [
+  {"who": "A blind or visually impaired person", "view": "Many blind people know a great deal from sound: how big a room is, where a wall is, whether a road is busy. Some click their tongues and listen to the echoes, like bats. Ask: close your eyes in a room and clap. Can you tell if it is big or small?"},
+  {"who": "A dog on a cracker night", "view": "Dogs hear quiet and high sounds we cannot, so crackers may sound even more frightening to them. Many dogs hide under beds during Diwali crackers. Ask: whose festival is it, and could we celebrate in a way that is kind to the animals too?"},
+  {"who": "A tabla or dholak player", "view": "A drummer tightens and loosens the skin to change the sound and listens very carefully. Ask: can you make a high and a low sound on your dancing-rice drum by pulling the cling film tighter or looser?"}
+ ],
+ "story": {"title": "Lakhi Listens with Her Feet", "text": [
+  "I am Lakhi, and I am an elephant, and when this happened I was very small: only as tall as a buffalo, with a trunk that still got in my way.",
+  "My family lived where the grass grows taller than a house. In the mornings the mist lies on it like a white blanket, and the grass stalks are wet and sharp and smell of rain. My mother walked in front of me, and my aunts walked around me, and my grandmother, who was the oldest and the biggest and knew every path, walked in front of us all.",
+  "That morning I saw a butterfly. It was yellow, as yellow as a ripe mango, and it floated just in front of my trunk. I reached for it. It floated away. I followed it. I reached again. It floated further, between the grass stalks, and I pushed after it, and it went up and up into the sky, and it was gone.",
+  "When I turned round, there was only grass.",
+  "Grass in front of me. Grass behind me. Grass on both sides, tall and green and swaying, so that I could not see anything but grass and a little piece of grey sky. I could not see my mother's big grey legs. I could not see my aunts. I could not see my grandmother.",
+  "I lifted my trunk and trumpeted as loud as I could. My trumpet was small and squeaky, and the grass swallowed it up.",
+  "I listened. A bird called, far away. The grass hissed in the wind. Somewhere, water was running. But no elephant called back.",
+  "My heart beat very fast. I started to run, this way, then that way, and the sharp grass scratched my sides, and every way looked the same. I stopped, and my legs shook.",
+  "And then I remembered something my grandmother had told me.",
+  "It was on a quiet evening by the river. I had asked her, “Grandmother, how do you always know where everyone is, even when they are far away behind the trees?”",
+  "She had rumbled, low and slow, so low that I felt it more than I heard it. It tickled the inside of my chest. “Little one,” she said, “we elephants talk with a voice so deep that it goes a long, long way. It goes through the air, and it goes through the ground too. Your ears hear some of it. But your feet hear the rest.”",
+  "“My feet?” I had laughed. “Feet can't hear!”",
+  "“Try,” said Grandmother. “When you are lost, do not run. Running makes your feet noisy. Stand still. Put your feet flat. Lay your trunk on the ground. And wait.”",
+  "So now, in the tall grass, with my heart beating like a drum, I made myself stop.",
+  "I stood still. I pressed my four feet flat into the soft wet earth. I laid the tip of my trunk on the ground. I waited. The bird called. The grass hissed. I waited.",
+  "And then I felt it.",
+  "It was not a sound, not exactly. It was a shiver in the ground. It came up through the soles of my feet, a slow, deep trembling, like the ground itself was humming. It came again. It was stronger in my front left foot than my back right foot, so I turned a little that way, and then it was the same in both front feet.",
+  "I knew that trembling. It was my grandmother's rumble, the one that tickled my chest by the river. She was calling me, low and deep, and her call was shaking the earth all the way from where she stood to where I stood.",
+  "I walked towards it. Every few steps I stopped, stood still and felt again, and every time the trembling was a little bigger. The grass was still tall. I still could not see. But I was not lost any more, because I could feel which way my family was.",
+  "Then the grass opened, and there was a great grey leg, and another, and my mother's trunk came down and wrapped around me, and my aunts were rumbling and flapping their ears, and the ground was full of their voices.",
+  "My grandmother did not say anything at first. She just touched the top of my head with the tip of her trunk.",
+  "Then she rumbled, very softly, so that I felt it in my feet: “You stood still.”",
+  "Now I am big, and I have a little one of my own, who also chases butterflies. And on quiet evenings by the river, I tell her what my grandmother told me. She laughs, just like I did.",
+  "But one day, I think, she will stand still in the tall grass, and press her feet into the earth, and feel the ground hum."],
+  "epiphany": "A sound is a shake that travels, through the air and also through the ground. Elephants make very low rumbles that travel far and can be felt through their feet and trunks. The turn comes when Lakhi stops running, stands still and feels the trembling, and uses which foot feels it most to find the way.",
+  "ask": [
+   "How did Lakhi find her family when she could not see them or hear them?",
+   "Why did Grandmother say 'do not run, stand still'?",
+   "Can you feel a sound with your body? When have you felt one?",
+   "Why do you think Lakhi's squeaky trumpet did not reach her family, but Grandmother's low rumble did?",
+   "How do you think Lakhi felt when she was lost, and when she was found?"]},
+ "ideas": [
+  {"idea": "Every sound in the world starts with a shake.", "more": "A voice box, a drum skin, a guitar string, a bee's wings: something always vibrates. Stop the shake and the sound stops. Touch a ringing steel glass to show it."},
+  {"idea": "Sound is a shake passed along, not a thing that flies.", "more": "The air near the drum pushes the next bit of air, which pushes the next, all the way to your ear, like a push passing along a line of people. That is why sound needs air, water, wood or string: something to pass the push along."},
+  {"idea": "Other animals live in a different world of sound.", "more": "Elephants talk below what we can hear, bats and dolphins far above it, and dogs hear quiet sounds we miss. Our ears catch only a small part of all the sounds there are."}
+ ],
+ "unknowns": [
+  "Do any animals listen to the tiny clicks that thirsty plants make? Nobody knows yet.",
+  "How much do elephants understand from the rumbles they feel in the ground? Can they tell who is calling, and what they are saying? Scientists are still finding out.",
+  "Why do some sounds, like a lullaby or rain, make us feel calm, while others make us feel scared? Scientists do not fully understand how the brain does this."
+ ],
+ "books": [
+  {"title": "The Listening Walk", "author": "Paul Showers, illustrated by Aliki", "for": "read together", "age": "4–7", "why": "A child and her father go for a walk and do nothing but listen. Perfect before the sound hunt and the sound map."},
+  {"title": "Sounds All Around", "author": "Wendy Pfeffer", "for": "read together", "age": "4–8", "why": "A clear, accurate picture book about vibrations, ears and how animals use sound."},
+  {"title": "Mr. Brown Can Moo! Can You?", "author": "Dr. Seuss", "for": "read together", "age": "3–6", "why": "A funny book full of sounds to make together: a good warm-up for the Sound Trail game."}
+ ],
+ "check": [
+  {"q": "What is a sound source? Name three.", "a": "Anything that makes a sound, for example a crow, a pressure cooker and rain on the roof."},
+  {"q": "What happens to something when it makes a sound?", "a": "It vibrates: it shakes very fast."},
+  {"q": "What happens to a sound as you walk away from it?", "a": "It gets quieter, because the shake spreads out and gets weaker."},
+  {"q": "Name three things sound can travel through.", "a": "Air, water, wood, string (any three)."},
+  {"q": "Why should we never put anything inside our ears?", "a": "The eardrum is thin and can be hurt."},
+  {"q": "How did Lakhi find her family?", "a": "She stood still and felt her grandmother's low rumble coming through the ground into her feet."},
+  {"q": "What is an echo?", "a": "A sound that bounces off a hard wall or hill and comes back."}
+ ]
+}
