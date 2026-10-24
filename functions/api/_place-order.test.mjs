@@ -76,3 +76,20 @@ console.log('  delivered  ', JSON.stringify(r.delivered));
 head('Empty cart is refused');
 const res = await post({ ...customer, payment: 'cod', items: [] });
 console.log('  http       ', res.status, await res.json().then(j => j.error));
+
+/* 7. A refused email must say why, not just fail quietly */
+head('FormSubmit refuses: the reason comes back');
+globalThis.fetch = async (url) => String(url).includes('formsubmit.co')
+  ? { ok: false, status: 403, text: async () => '{"message":"Form not activated"}', json: async () => ({}) }
+  : { ok: true, status: 200, text: async () => '', json: async () => ({}) };
+r = await (await post({ ...customer, payment: 'cod', items: [{ sku: 'EG-001', qty: 1 }] })).json();
+console.log('  success    ', r.success, '(order still placed)');
+console.log('  delivered  ', JSON.stringify(r.delivered));
+console.log('  why        ', JSON.stringify(r.why));
+
+/* 8. No seller number configured reads as off, not as a failure */
+head('No SELLER_WHATSAPP set');
+globalThis.fetch = async () => ({ ok: true, status: 200, text: async () => '', json: async () => ({}) });
+delete env.SELLER_WHATSAPP;
+r = await (await post({ ...customer, payment: 'cod', items: [{ sku: 'EG-001', qty: 1 }] })).json();
+console.log('  delivered  ', JSON.stringify(r.delivered));

@@ -63,6 +63,14 @@ export async function onRequestPost(context) {
       whatsappSeller(env, { name, ref })
     ]);
 
+    /* Why a channel failed, not just that it did. Worth carrying back:
+       the first failure here was a seller email that simply never
+       arrived, with nothing anywhere to say what had refused it. */
+    const why = {};
+    const note = (k, r) => { if (r.status === 'rejected') why[k] = String(r.reason).slice(0, 200); };
+    note('recorded', db); note('sheet', sheet); note('email', mail);
+    note('whatsapp_customer', waCustomer); note('whatsapp_seller', waSeller);
+
     const delivered = {
       recorded: ok(db), sheet: ok(sheet), email: ok(mail),
       whatsapp_customer: ok(waCustomer),
@@ -71,7 +79,17 @@ export async function onRequestPost(context) {
          someone hunting for a broken send that was never attempted. */
       whatsapp_seller: env.SELLER_WHATSAPP ? ok(waSeller) : 'off'
     };
-    return json({ success: true, ref, status, total: priced.total, delivered });
+    /* Kept as well as returned, because the browser throws the response
+       away and the next question is always "which bit failed?". */
+    if (Object.keys(why).length && env.DB) {
+      try {
+        await env.DB.prepare(
+          'INSERT INTO messages (phone, direction, body, template, status) VALUES (?, ?, ?, ?, ?)'
+        ).bind(phone, 'out', 'order ' + ref + ' delivery: ' + JSON.stringify(why),
+               'place-order', 'error').run();
+      } catch (e) {}
+    }
+    return json({ success: true, ref, status, total: priced.total, delivered, why });
   } catch (err) {
     return json({ error: 'Unexpected server error', details: String(err) }, 500);
   }
@@ -124,10 +142,20 @@ async function pushToSheet(env, o) {
       body: form.toString() });
   // Google answers a form post with a redirect or a 200; either means
   // the row went in. Only a 4xx/5xx is a real failure.
-  return res.status < 400;
+  if (res.status < 400) return true;
+  throw new Error('google form ' + res.status);
 }
 
 /* ── The seller's email ──────────────────────────────────────── */
+
+// FormSubmit is built for a browser posting a form, and the old
+// EscapeGravity flow did exactly that — from deepkids.in, with a real
+// Origin on the request. This runs in a Worker, where there is no
+// Origin at all unless one is set, and an address activated for one
+// site is not necessarily honoured for a bare server-to-server post.
+// Hence the explicit Origin and Referer. If it still refuses, it says
+// why in the body, and that is carried back rather than swallowed —
+// the failure was invisible the first time round.
 
 async function emailSeller(env, o) {
   const to = env.ORDER_EMAIL || 'sahyujyahs@gmail.com';
@@ -144,9 +172,14 @@ async function emailSeller(env, o) {
   form.append('_template', 'table');
   form.append('_captcha', 'false');
 
+  const site = env.SITE_ORIGIN || 'https://deepkids.in';
   const res = await fetch('https://formsubmit.co/ajax/' + encodeURIComponent(to), {
-    method: 'POST', headers: { Accept: 'application/json' }, body: form });
-  return res.ok;
+    method: 'POST',
+    headers: { Accept: 'application/json', Origin: site, Referer: site + '/' },
+    body: form });
+  if (res.ok) return true;
+  const why = await res.text().catch(() => '');
+  throw new Error('formsubmit ' + res.status + ' ' + why.slice(0, 160));
 }
 
 /* ── The messages ────────────────────────────────────────────── */
@@ -181,14 +214,16 @@ async function sendTemplate(env, phone, params) {
       }
     })
   });
-  return res.ok;
+  if (res.ok) return true;
+  const why = await res.text().catch(() => '');
+  throw new Error('whatsapp ' + res.status + ' ' + why.slice(0, 160));
 }
 
 function whatsappCustomer(env, o) { return sendTemplate(env, o.phone, [o.name, o.ref]); }
 
 function whatsappSeller(env, o) {
   const seller = env.SELLER_WHATSAPP;
-  if (!seller) return false;          // opt-in: set it in the Pages dashboard
+  if (!seller) return false;          // reported as 'off', not as a failure
   return sendTemplate(env, seller, [o.name, o.ref]);
 }
 
