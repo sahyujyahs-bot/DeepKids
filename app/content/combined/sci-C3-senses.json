@@ -1,0 +1,1163 @@
+{
+ "key": "combined|sci|3|senses",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "senses",
+ "day_mins": 40,
+ "title": "Senses: how the body turns the world into messages, and how the brain builds what we perceive",
+ "source": "DeepKids Combined. Covers Cambridge Stage 3 Biology Units 4.1 'Hearing and touch', 4.2 'Taste and smell' and 4.3 'Sight', and goes beyond the five senses to balance, body position, inner senses and the senses of other animals. No textbook needed.",
+ "summary": "In Class 1 your child met the five sense organs and a dog who sees with his nose. Now they find out how each sense really works: tiny receptors that turn sound, touch, chemicals and light into nerve messages, and a brain that builds the world out of those messages, filling gaps and sometimes getting it wrong. They point at hidden sounds, map the touch on their skin, bust the tongue-map myth, make a pinhole camera like Ibn al-Haytham's, find their own blind spot, and discover senses beyond the five: balance, body position and the senses that watch the inside of the body. Then they meet animals that sense what we cannot: magnetism, electricity, heat and ultraviolet light.",
+ "builds_on": "Class 1: the five sense organs, hearing and protecting our ears, taste needing smell, illusions, and animals in different sense-worlds (Bhulu the dog). Here: how each organ works, receptors and the brain, the five basic tastes, the eye and the blind spot, balance and body position, and animal senses we lack. Later rungs on light and sound go into the physics of what the eye and ear catch.",
+ "subconcepts": [
+  "receptors turn the world into nerve messages for the brain",
+  "hearing: eardrum, the three tiny bones, the cochlea, and finding direction with two ears",
+  "touch: receptors for pressure, vibration, hot, cold and pain, and where touch is sharpest",
+  "taste buds and the five basic tastes, including umami",
+  "chilli 'heat' and mint 'cool' are touch and pain, not taste",
+  "smell, flavour, and why humans smell better than we think",
+  "sight: light comes into the eye; pupil, lens and retina",
+  "the blind spot and the brain filling in the gaps",
+  "perception is built by the brain: illusions",
+  "balance: the inner ear's fluid-filled canals",
+  "proprioception: the sense of where your body is",
+  "inner senses: hunger, thirst, heartbeat and pain",
+  "animal senses we do not have: magnetic, electric, infrared and ultraviolet",
+  "every animal's own sense-world (Umwelt)",
+  "caring for our senses, and living fully without one"
+ ],
+ "goals": [
+  "By the end your child can explain how sound gets from the air to the brain, and why two ears help find where a sound is.",
+  "By the end your child can show, from their own two-point test, where the skin is most sensitive, and explain why.",
+  "By the end your child can name the five basic tastes, explain why the 'tongue map' is wrong, and say why chilli is not a taste.",
+  "By the end your child can explain that we see because light comes into the eye, and show the image a pinhole camera makes.",
+  "By the end your child can find their blind spot and explain that the brain fills in what the eye misses.",
+  "By the end your child can name at least four senses beyond the five and say what each does.",
+  "By the end your child can describe two animal senses that humans do not have."
+ ],
+ "words": [
+  [
+   "receptor",
+   "a special cell that senses one kind of thing (light, sound, touch, a chemical) and sends a nerve message"
+  ],
+  [
+   "nerve",
+   "a long thread of cells that carries messages to and from the brain"
+  ],
+  [
+   "eardrum",
+   "a thin skin inside the ear that shakes when sound hits it"
+  ],
+  [
+   "cochlea",
+   "the snail-shaped tube deep in the ear where sound shakes tiny hair cells"
+  ],
+  [
+   "taste bud",
+   "a tiny bunch of taste receptors, mostly on the bumps of the tongue"
+  ],
+  [
+   "umami",
+   "the savoury, meaty basic taste, found in tomatoes, mushrooms, cheese and dal"
+  ],
+  [
+   "pupil",
+   "the black hole in the middle of the eye that lets light in"
+  ],
+  [
+   "retina",
+   "the layer at the back of the eye that catches light and sends messages to the brain"
+  ],
+  [
+   "blind spot",
+   "the place on the retina with no light receptors, where the nerve leaves the eye"
+  ],
+  [
+   "perception",
+   "what the brain makes of the messages from the senses"
+  ],
+  [
+   "proprioception",
+   "the sense of where the parts of your body are, without looking"
+  ],
+  [
+   "Umwelt",
+   "a German word for the world as one animal senses it"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "From air to brain: hearing",
+   "goal": "Recall Class 1, then find out how the ear works and why we have two.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember Bhulu",
+     "mins": 6,
+     "do": "Ask your child: 'Do you remember Bhulu the dog? How did he find Tuktuki? How did she know him in the dark?' (his nose followed her smell; her fingers found his torn ear). 'How many senses did we find we have?' (more than five). Say: 'This time we find out how the senses actually work, and that your brain is doing much more than you think.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Pointing at sounds",
+     "mins": 14,
+     "do": "Do Experiment e1. Your child sits blindfolded in the middle of a room. You move quietly to different places and make a small sound (click two spoons). They point to where they think it came from. Do ten sounds and score them. Then do ten more with one ear gently covered with a hand. Ask: 'When were you better? Why?' (with two ears). Then try sounds exactly in front and exactly behind: these are the hardest.",
+     "ref": "e1"
+    },
+    {
+     "kind": "do",
+     "title": "The drum inside your ear",
+     "mins": 13,
+     "do": "Stretch cling film tightly over a bowl and hold it with a rubber band. Sprinkle a few grains of rice on top. Bang a steel plate with a spoon near the bowl: the rice jumps. Say: 'That film is like your eardrum. Sound waves in the air make it shake. Behind your eardrum are the three smallest bones in your body, the hammer, anvil and stirrup, which pass the shake to a snail-shaped tube called the cochlea. Inside it, rows of tiny hair cells bend, and each bend makes a nerve message to the brain.' Draw the path together: air, ear flap, ear canal, eardrum, three bones, cochlea, nerve, brain."
+    },
+    {
+     "kind": "talk",
+     "title": "Why two ears?",
+     "mins": 7,
+     "do": "Ask: 'A sound on your left reaches which ear first?' (the left, a tiny bit sooner and a little louder). Say: 'Your brain compares the two ears and works out direction from a difference of less than a thousandth of a second.' Then: 'Those hair cells in the cochlea do not grow back if very loud sounds break them. That is why loud music in earphones, firecrackers and horns can slowly take away hearing.' Ask: 'How loud do you keep earphones? How could you check?' (if someone next to you can hear it, it is too loud)."
+    }
+   ],
+   "need": [
+    "a cloth blindfold, two spoons",
+    "a bowl, cling film, a rubber band, a few rice grains, a steel plate and spoon"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Touch, and the sense with no organ",
+   "goal": "Map where the skin is most sensitive, and find the sense that tells you where your body is.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The two-point test",
+     "mins": 14,
+     "do": "Do Experiment e2. With two toothpicks (blunt ends) held 1 cm apart, touch your child gently on the fingertip, palm, back of hand, forearm and back, sometimes with one point and sometimes with two. Eyes shut, they say 'one' or 'two'. Then try 3 cm apart. Record which places can feel two points close together. Ask: 'Why would fingertips need to be so sharp?' (to feel tiny things, to read Braille, to use tools).",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Many kinds of touch",
+     "mins": 8,
+     "do": "Say: 'Your skin is not one sense but several. There are receptors for light touch, for pressure, for buzzing vibration, for hot, for cold, and for pain, each sending its own message. Fingertips and lips have thousands packed close, so they feel the most detail.' Ask your child to find one thing at home for each receptor: something cold (a steel glass), something rough (a coconut shell), something buzzing (a phone on vibrate), something pressing (a heavy book on the hand)."
+    },
+    {
+     "kind": "do",
+     "title": "Where is my body?",
+     "mins": 10,
+     "do": "Eyes shut, your child touches their nose with one finger, then touches the tips of both pointing fingers together in front of their face, then copies a pose you put their other arm into without looking. Ask: 'How did you know where your hand was?' Say: 'Your muscles and joints have their own receptors that tell your brain how stretched and bent they are. This sense is called proprioception. It has no organ you can point to.' Then tell your child about voice v2, Ian Waterman, the man who lost this sense. Ask the voice question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "Mirror dance",
+     "mins": 8,
+     "do": "Do Activity a3, the mirror dance. Face each other. Your child leads with slow movements and you copy like a mirror; then swap. Then your child shuts their eyes and you move their arm gently into a shape; they copy that shape with the other arm. Ask: 'What did your body know without your eyes?'",
+     "ref": "a3"
+    }
+   ],
+   "need": [
+    "two toothpicks or two hairpins, a ruler",
+    "a steel glass, a coconut shell, a phone, a book",
+    "music for the dance"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Taste, smell and the tongue map",
+   "goal": "Bust a famous myth, meet the fifth taste, and find out why chilli is not a taste.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Test the tongue map",
+     "mins": 14,
+     "do": "Do Experiment e3. Make four tastes in small cups: sugar water (sweet), salt water (salty), lemon juice in water (sour) and strong coffee or a little karela juice (bitter). With a clean cotton bud for each, dab each taste on the tip, the sides and the back of your child's tongue, rinsing between. They say what they taste and how strong. Ask: 'Can the tip taste bitter? Can the back taste sweet?' (yes: every part with taste buds can taste every taste).",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "The map that was never true",
+     "mins": 6,
+     "do": "Tell your child about voice v3, how a small difference in a 1901 experiment became a famous wrong map. Ask its question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "Umami and chilli",
+     "mins": 10,
+     "do": "Say: 'Scientists count five basic tastes: sweet, sour, salty, bitter and umami. Umami is the savoury taste in tomatoes, mushrooms, cheese and a good dal. A Japanese chemist, Kikunae Ikeda, named it in 1908 after tasting a seaweed soup.' Then: 'But what about chilli? Chilli has no taste at all. A chemical in it, capsaicin, switches on the same receptors that feel heat, the ones that would warn you of a burn. Mint does the opposite: it switches on the cold receptors. That is why chilli feels hot and mint feels cool.' Say: 'In 2021 two scientists, David Julius and Ardem Patapoutian, won the Nobel Prize for finding the receptors for heat, cold and touch. Julius used chilli to find the heat one.' Ask: 'Ayurveda counts six tastes, including pungent and astringent. Which of the six would a scientist today call touch, not taste?' (pungent like chilli, and astringent like raw banana or strong tea, which makes the mouth feel dry)."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws1 on hearing, touch, taste and smell. Ask your child to explain one answer aloud before writing.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "four small cups, sugar, salt, lemon, coffee or karela, water, cotton buds",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Light comes in: sight",
+   "goal": "Find out that we see because light enters the eye, make a pinhole camera, and watch the pupil change.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Do eyes shoot rays?",
+     "mins": 5,
+     "do": "Ask: 'When you look at a tree, does something go out of your eyes to the tree, or does something come from the tree into your eyes?' Many children, and many grown-ups in history, say the eyes send something out. Listen to the reasons."
+    },
+    {
+     "kind": "talk",
+     "title": "Ibn al-Haytham",
+     "mins": 7,
+     "do": "Tell your child about voice v1, Ibn al-Haytham, who settled the question by testing it. Ask its question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "Pinhole camera",
+     "mins": 16,
+     "do": "Do Activity a1. Make a pinhole camera from a box or a tube: a tiny hole at one end, tracing paper at the other, and a cloth over your child's head to keep it dark. Point it at a bright window or a lamp. Ask: 'What do you see on the paper?' (the window, upside down). Say: 'Your eye is like this. Light comes in through the small hole in the front, the pupil. A clear lens behind it focuses the light onto the back of the eye, the retina, where millions of light receptors catch it. The picture on your retina is upside down too. Your brain turns it the right way up.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "Watch the pupil",
+     "mins": 12,
+     "do": "Do Experiment e4. In a dim room, your child looks into a mirror at their own eyes, then you switch on a bright light or open the curtains. Ask: 'What happened to the black circle?' (it shrank). Turn the light off: it grows again. Say: 'The coloured ring, the iris, is a muscle that makes the pupil smaller in bright light to protect the retina, and bigger in the dark to catch every bit of light. It works by itself, without you choosing.' Ask: 'Why do a cat's pupils become thin slits in bright sun?'",
+     "ref": "e4"
+    }
+   ],
+   "need": [
+    "a shoebox or tube, foil, a pin, tracing paper or butter paper, tape, a dark cloth",
+    "a mirror and a torch or lamp"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The brain fills the gaps",
+   "goal": "Find the blind spot, see how illusions fool the brain, and read the story.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Find your blind spot",
+     "mins": 10,
+     "do": "On a card, draw a small cross on the left and a dot 8 cm to the right. Your child covers the left eye, holds the card at arm's length and stares at the cross with the right eye. Slowly bring the card closer. At one distance the dot vanishes! Say: 'At the back of each eye is a spot where the nerve leaves for the brain, and there are no light receptors there. Everyone has a hole in their vision in each eye. You never notice because your brain fills it in with whatever is around it.' Ask: 'What else might your brain be filling in without telling you?'"
+    },
+    {
+     "kind": "act",
+     "title": "Illusion journal page",
+     "mins": 12,
+     "do": "Do Activity a2. On the journal page 'Optical illusions', your child draws three illusions: a 'ghost triangle' (three black circles each with a wedge cut out, pointing inwards: a white triangle appears that is not drawn), two equal circles, one surrounded by big circles and one by small ones (the middle circles look different sizes), and a 'checkerboard shadow' if you have a printout. In the observation box they write: 'My eyes said…', 'The ruler said…', 'So my brain…'. Say: 'Your brain does not just record the world like a camera. It builds a picture from clues and its best guess. Usually it is right. Illusions are where it guesses wrong.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "read",
+     "title": "Read the story",
+     "mins": 18,
+     "do": "Read aloud 'Siddhesh in the Dark', the story in this rung. Stop when the lights go out and ask: 'What do you think will happen? How can he keep his balance without seeing?' Then read to the end and ask the story questions."
+    }
+   ],
+   "need": [
+    "a card and a marker",
+    "paper, a black crayon, a ruler, a coin to draw circles",
+    "the story text"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Balance and the inner senses",
+   "goal": "Find out how the inner ear keeps us balanced, and notice the senses that watch the inside of the body.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Dizzy water",
+     "mins": 7,
+     "do": "Fill a round glass with water and drop in a few rice grains or a little dust. Spin the glass quickly, then stop it suddenly. Ask: 'Did the water stop when the glass stopped?' (no, it kept swirling). Say: 'Inside your inner ear are three tiny curved tubes full of liquid, at right angles to each other. When you spin, the liquid swirls and bends tiny hairs, which tell your brain which way you are turning. When you stop spinning, the liquid keeps going for a moment, so your brain thinks you are still turning. That is why you feel dizzy.'"
+    },
+    {
+     "kind": "act",
+     "title": "Balance poses, eyes open and shut",
+     "mins": 12,
+     "do": "Do three balance poses, each first with eyes open, then shut, counting how long your child holds it: tree (vrikshasana), standing on one leg with the other knee lifted, and the airplane (lean forward on one leg, arms out). Ask: 'Which senses keep you up?' (eyes, inner ear balance, and proprioception from the feet and legs). 'Which is lost when you shut your eyes?' Say: 'Mallakhamb gymnasts and dancers train these senses until they can balance in the dark, like Siddhesh in the story.'"
+    },
+    {
+     "kind": "do",
+     "title": "Feel your heartbeat without touching",
+     "mins": 9,
+     "do": "Your child sits still, eyes shut, and tries to count their own heartbeats for 30 seconds without touching their chest or wrist. Then count the real pulse at the wrist for the same 30 seconds. Compare. Say: 'Your body has senses that watch the inside: your heartbeat, hunger, thirst, a full bladder, tiredness, pain. Scientists call this interoception. Some people feel their heartbeat easily; others cannot at all.' Ask: 'How do you know when you are hungry? Where in your body do you feel it?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Pain: a guard, not an enemy",
+     "mins": 12,
+     "do": "Ask: 'Is pain good or bad?' Listen. Say: 'Pain receptors warn you of damage. There are a very few people who are born unable to feel pain at all, and they are in danger, because they can burn or break a bone without noticing.' Then make your list of all the senses on a big sheet: sight, hearing, smell, taste, touch, hot, cold, pain, balance, body position, hunger, thirst, heartbeat. Ask: 'How many did we find? Is anything missing?'"
+    }
+   ],
+   "need": [
+    "a round glass, water, rice grains",
+    "a clock with seconds",
+    "a big sheet of paper"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Senses we do not have",
+   "goal": "Meet animals that sense magnetism, electricity, heat and ultraviolet light, and think about every animal's own world.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Super senses",
+     "mins": 12,
+     "do": "Tell your child about four animals. A shark has little jelly-filled pores on its snout that feel the tiny electricity made by the muscles of a fish hiding under the sand. A pit viper, like the Malabar pit viper of the Western Ghats, has two small pits on its face that sense the heat of a warm mouse in total darkness. A honeybee sees ultraviolet light, and many flowers have ultraviolet patterns pointing to the nectar that we cannot see. A star-nosed mole feels its way through dark tunnels with 22 fleshy fingers on its nose. Ask: 'Which would you like most? Why?' Say: 'A German scientist, Jakob von Uexküll, gave a name to the world as one animal senses it: its Umwelt. Every animal lives inside its own Umwelt, and so do we.'"
+    },
+    {
+     "kind": "think",
+     "title": "Do birds feel the Earth's magnetism?",
+     "mins": 8,
+     "do": "Tell your child about voice v4, the robins and the magnetic sense. Ask the voice question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "game",
+     "title": "The Umwelt Trail",
+     "mins": 12,
+     "do": "Play the board game g1. Each animal square asks you to say how that animal would sense something in your home.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws2 on sight, balance, inner senses and animal senses. Encourage your child to use the senses list from Day 6.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "the printed board game, a die and counters",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Caring for our senses, and teach it back",
+   "goal": "Make an eye test, think about living without a sense, and teach the rung back.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Make an eye test",
+     "mins": 12,
+     "do": "Do Activity a4. Draw a chart of rows of letters (or the letter E pointing different ways), big at the top and smaller at the bottom. Stick it on a wall in good light. Stand your child 3 metres away, cover one eye with a cupped hand and read down until they cannot. Then the other eye. Test everyone at home. Say: 'If one row is much harder for one eye, an eye doctor should check. Many children need glasses and do not know it.' Ask: 'Why should you never look straight at the Sun?' (its light can burn the retina, and it does not heal).",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "Living fully without a sense",
+     "mins": 6,
+     "do": "Tell your child about Dr Venkataswamy (see perspectives), who started a hospital in Madurai to cure cataract blindness for people who could not pay. Then ask: 'People who are blind read with their fingertips using Braille. People who are deaf talk in sign language. What does that show about the brain?' (it can learn to use other senses for the job). 'Is a person who is blind missing a world, or living in a different one?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws3. Let your child argue with the questions; for the written ones, ask them to say their reason aloud first and to give one piece of evidence from this week.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 12,
+     "do": "Your child teaches a grown-up: the path of sound to the brain, the two-point test, the five tastes and why chilli is not one, the pinhole camera and blind spot, three senses beyond five, and one animal super sense. Then ask the check questions."
+    }
+   ],
+   "need": [
+    "paper and a thick marker for the eye chart",
+    "a measuring tape",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Hearing, touch, taste and smell",
+   "day": 3,
+   "sections": [
+    [
+     "A. Parts and paths",
+     [
+      {
+       "t": "mcq",
+       "p": "Which is the right order for a sound?",
+       "opts": [
+        "eardrum, three tiny bones, cochlea, nerve, brain",
+        "cochlea, brain, eardrum, bones",
+        "brain, nerve, eardrum, cochlea"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The snail-shaped tube deep in the ear is called the ____.",
+       "a": [
+        "cochlea"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why do two ears help you find a sound?",
+       "opts": [
+        "the sound reaches one ear slightly sooner and louder",
+        "one ear hears high sounds and one hears low",
+        "they don't help"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which part of the body felt two points closest together?",
+       "opts": [
+        "fingertip",
+        "back",
+        "forearm"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Tastes",
+     [
+      {
+       "t": "sort",
+       "p": "Sort each food by its main basic taste.",
+       "items": [
+        "jaggery",
+        "lemon",
+        "karela",
+        "sea water",
+        "tomato soup",
+        "tamarind"
+       ],
+       "cats": [
+        "sweet",
+        "sour",
+        "bitter",
+        "salty",
+        "umami"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Chilli feels hot because…",
+       "opts": [
+        "it switches on heat and pain receptors",
+        "it is a sixth taste bud",
+        "it is warm"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "The tongue map says the tip tastes only sweet. Your test showed…",
+       "opts": [
+        "every part with taste buds can taste every taste",
+        "the map is right",
+        "the back tastes nothing"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The savoury fifth basic taste is called ____.",
+       "a": [
+        "umami"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Why does food taste dull when you have a blocked nose?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Fingertips can feel two points very close together, but your back cannot. Why might that be useful?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Eyes, balance and other worlds",
+   "day": 7,
+   "sections": [
+    [
+     "A. Sight and the brain",
+     [
+      {
+       "t": "mcq",
+       "p": "We see a tree because…",
+       "opts": [
+        "light from the tree comes into our eyes",
+        "our eyes send rays to the tree",
+        "the tree sends sound"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In bright light the pupil…",
+       "opts": [
+        "gets smaller",
+        "gets bigger",
+        "stays the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why don't we notice the blind spot?",
+       "opts": [
+        "the brain fills it in",
+        "it is very small and harmless",
+        "we blink"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The layer at the back of the eye that catches light is the ____.",
+       "a": [
+        "retina"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Senses beyond five",
+     [
+      {
+       "t": "match",
+       "p": "Match the sense to what it tells you.",
+       "pairs": [
+        [
+         "balance",
+         "if you are tipping or turning"
+        ],
+        [
+         "proprioception",
+         "where your arms and legs are"
+        ],
+        [
+         "interoception",
+         "hunger, thirst, heartbeat"
+        ],
+        [
+         "pain",
+         "that something is damaging you"
+        ]
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the animal to the sense we do not have.",
+       "pairs": [
+        [
+         "shark",
+         "feels electricity from hidden fish"
+        ],
+        [
+         "pit viper",
+         "senses the heat of a mouse in the dark"
+        ],
+        [
+         "honeybee",
+         "sees ultraviolet patterns on flowers"
+        ],
+        [
+         "robin",
+         "may sense the Earth's magnetism"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why do you feel dizzy after spinning?",
+       "opts": [
+        "the liquid in your inner ear keeps swirling",
+        "your eyes fall asleep",
+        "your heart stops"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Ian Waterman lost his sense of where his body is. How did he learn to walk again, and what happens when the lights go out?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Pick one animal. Describe your bedroom as that animal would sense it.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Is the world what we sense?",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "The picture on your retina is upside down. Why do you see the world the right way up?",
+       "opts": [
+        "the brain turns it",
+        "the lens flips it again",
+        "it isn't really upside down"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "You see a white triangle that nobody drew. Where is the triangle?",
+       "opts": [
+        "made by your brain",
+        "on the paper",
+        "in the light"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why might the tongue-map myth have lasted so long?",
+       "opts": [
+        "people copied a book without testing it",
+        "it was true until 1974",
+        "tongues changed"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which is the best way to test if robins use a magnetic sense?",
+       "opts": [
+        "change the magnetic field around them and see if their direction changes",
+        "ask them",
+        "watch one robin once"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Settled or still argued about?",
+       "items": [
+        "light comes into the eye",
+        "there are exactly five senses",
+        "how birds sense magnetism",
+        "chilli switches on heat receptors",
+        "the tongue map"
+       ],
+       "cats": [
+        "settled",
+        "still argued about",
+        "shown to be wrong"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The world as one animal senses it is called its ____.",
+       "a": [
+        "Umwelt"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Arguments",
+     [
+      {
+       "t": "write",
+       "p": "Your brain fills in your blind spot and makes up triangles that are not there. Can you trust your senses? When, and when not?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A bee sees ultraviolet patterns on a flower that you cannot see. Is the pattern really there? What does 'really there' mean?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Ibn al-Haytham said we should test ideas, not just trust famous books. Think of something people say about the senses. How could you test it at home?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Pointing at sounds",
+   "day": 1,
+   "question": "How do we know where a sound comes from?",
+   "need": [
+    "a blindfold",
+    "two spoons",
+    "paper to score"
+   ],
+   "steps": [
+    "Your child sits blindfolded on a chair in the middle of a room.",
+    "Move quietly to a spot and click the spoons once.",
+    "Your child points. Score 1 if they point within about an arm's width of you.",
+    "Do ten sounds from all around: left, right, front, behind, high, low.",
+    "Repeat ten more with one ear covered by a hand.",
+    "Compare scores."
+   ],
+   "predict": "Ask: 'Will you find the sounds better with two ears or one?'",
+   "observe": "With two ears scores are usually high. With one ear covered they fall. Front and behind are often mixed up even with two ears.",
+   "why": "The brain compares the timing and loudness of the sound in the two ears. A sound on the left arrives at the left ear a fraction of a millisecond earlier and a little louder, because the head is in the way. A sound straight in front or straight behind reaches both ears at the same time, so it is harder to place; the shape of the ear flap helps a little.",
+   "safety": "Clear the floor so nobody trips; never make loud sounds near the ears.",
+   "time": "14 min"
+  },
+  {
+   "id": "e2",
+   "title": "The two-point test",
+   "day": 2,
+   "question": "Where is our sense of touch sharpest?",
+   "need": [
+    "two toothpicks or hairpins",
+    "a ruler",
+    "a table to record"
+   ],
+   "steps": [
+    "Hold the two toothpick points 1 cm apart.",
+    "Your child shuts their eyes.",
+    "Touch gently, sometimes with both points, sometimes with one, on the fingertip, palm, back of hand, forearm and upper back.",
+    "They say 'one' or 'two' each time. Record right or wrong.",
+    "Repeat at 3 cm apart.",
+    "Find, for each place, the smallest gap where they can feel two."
+   ],
+   "predict": "Ask: 'Where will you feel two points most easily?'",
+   "observe": "Fingertips can usually tell two points 2–3 mm apart; the back may feel points 4 cm apart as one.",
+   "why": "Touch receptors are packed very closely in the fingertips, lips and tongue and spread out on the back. More receptors in a patch of skin, and more brain space for that patch, means finer detail. Braille readers use the fingertips for this reason.",
+   "safety": "Use the blunt ends and touch gently. Never near the eyes.",
+   "time": "14 min"
+  },
+  {
+   "id": "e3",
+   "title": "Test the tongue map",
+   "day": 3,
+   "question": "Do different parts of the tongue taste different tastes?",
+   "need": [
+    "four small cups",
+    "sugar, salt, lemon juice, strong coffee or karela juice",
+    "water",
+    "cotton buds (a fresh one for each dab)",
+    "a glass of water for rinsing"
+   ],
+   "steps": [
+    "Make four solutions: sweet (sugar water), salty (salt water), sour (lemon water), bitter (coffee or karela).",
+    "Your child rinses their mouth with water.",
+    "Dip a fresh bud in one taste and dab the tip of the tongue. They say what they taste and give it a score from 0 to 3.",
+    "Rinse. Dab the side, then the back.",
+    "Repeat for each taste.",
+    "Fill in a table: taste by place."
+   ],
+   "predict": "Ask: 'The old map says sweet is only at the tip and bitter only at the back. Is it true?'",
+   "observe": "Every taste can be tasted on every part of the tongue that has taste buds. Some places may be a little stronger for some tastes, but there are no 'only' zones.",
+   "why": "Taste buds all over the tongue contain receptors for all five basic tastes. The famous map came from a misreading of a 1901 study that found only small differences in sensitivity. It was tested and found wrong in 1974.",
+   "safety": "Use a fresh cotton bud each time; check allergies; use only small amounts.",
+   "time": "14 min"
+  },
+  {
+   "id": "e4",
+   "title": "Watch the pupil",
+   "day": 4,
+   "question": "How does the eye control how much light gets in?",
+   "need": [
+    "a mirror",
+    "a lamp or a curtain to open",
+    "a dim room"
+   ],
+   "steps": [
+    "Sit in a dim room for one minute.",
+    "Your child looks closely into the mirror at the black pupils.",
+    "Switch on the lamp or open the curtain. Watch.",
+    "Switch off again and wait 30 seconds. Watch.",
+    "Draw the pupil in dim and bright light."
+   ],
+   "predict": "Ask: 'What will the black circle do when the light comes on?'",
+   "observe": "The pupils shrink quickly in bright light and slowly widen in the dark.",
+   "why": "The iris is a ring of muscle. In bright light it shrinks the pupil to protect the retina; in dim light it widens to let more light in. This is a reflex that happens without choosing. Animals that hunt at night, like cats and owls, can open their pupils very wide.",
+   "safety": "Never shine a torch straight into anyone's eyes and never look at the Sun.",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Pinhole camera",
+   "day": 4,
+   "mins": 16,
+   "need": [
+    "a shoebox or a long cardboard tube",
+    "aluminium foil",
+    "a pin",
+    "tracing paper or butter paper",
+    "tape",
+    "a dark cloth or towel"
+   ],
+   "steps": [
+    "Cut a 2 cm hole in one end of the box and tape foil over it.",
+    "Make one tiny hole in the foil with a pin.",
+    "Cut out the other end and tape tracing paper across it as a screen.",
+    "Your child puts the dark cloth over their head and the screen end, and points the pinhole at a bright window or lamp.",
+    "Look at the screen: an upside-down picture of the window appears.",
+    "Try making the hole bigger: the picture gets brighter but blurrier."
+   ],
+   "outcome": "A working pinhole camera that shows how light travels in straight lines into a small hole and makes an upside-down image, as in the eye."
+  },
+  {
+   "id": "a2",
+   "title": "Illusions journal page",
+   "day": 5,
+   "mins": 12,
+   "need": [
+    "paper",
+    "a black crayon",
+    "a coin or bottle cap to draw circles",
+    "a ruler"
+   ],
+   "steps": [
+    "Draw three black circles in a triangle and cut a wedge (like a pizza slice) from each, pointing inwards. Look for the ghost triangle.",
+    "Draw a circle surrounded by six big circles and an equal circle surrounded by small ones. Ask which middle circle looks bigger, then measure.",
+    "Draw two equal lines with arrow ends pointing in and out.",
+    "In an observation box, write: 'My eyes said…', 'The ruler said…', 'So my brain…'."
+   ],
+   "outcome": "A journal page of three illusions with the child's own observations of where perception and measurement disagree."
+  },
+  {
+   "id": "a3",
+   "title": "Mirror dance",
+   "day": 2,
+   "mins": 8,
+   "need": [
+    "some slow music",
+    "space to move"
+   ],
+   "steps": [
+    "Stand facing each other.",
+    "Your child moves slowly; you copy like a mirror.",
+    "Swap leaders.",
+    "Your child shuts their eyes. You gently place one of their arms in a shape.",
+    "They copy that shape with the other arm, eyes still shut. Then open and check."
+   ],
+   "outcome": "A felt experience of proprioception: the body knows its shape without the eyes."
+  },
+  {
+   "id": "a4",
+   "title": "Home eye test",
+   "day": 8,
+   "mins": 12,
+   "need": [
+    "a large sheet of paper",
+    "a thick marker",
+    "a measuring tape"
+   ],
+   "steps": [
+    "Write rows of letters or the letter E pointing in different directions, from 6 cm tall at the top to 1 cm at the bottom.",
+    "Stick it on a well-lit wall.",
+    "Stand 3 metres away and cover one eye with a cupped hand (no pressing).",
+    "Read down until you cannot. Mark the row. Repeat for the other eye.",
+    "Test everyone at home and make a table."
+   ],
+   "outcome": "A family eye-test table, and a reason to visit an eye doctor if one eye reads much less than the other."
+  }
+ ],
+ "project": {
+  "title": "My book of sense-worlds",
+  "days": [
+   5,
+   7,
+   8
+  ],
+  "steps": [
+   "Make one page for each human sense, including the ones beyond five, with a drawing of how it works.",
+   "Make four pages for animals with senses we do not have, each drawn as that animal would sense a room.",
+   "Add the illusions page and the blind-spot card.",
+   "Write a last page: 'What I sense, and what is really there'.",
+   "Read it to the family on the last day."
+  ],
+  "outcome": "A small book that shows how humans and other animals each build their own world from their senses."
+ },
+ "game": {
+  "id": "g1",
+  "title": "The Umwelt Trail",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "a die",
+   "a counter for each player"
+  ],
+  "rules": [
+   "Start on START.",
+   "Roll and move.",
+   "On an animal square, say in one sentence how that animal would sense your kitchen. If the others agree it fits, move forward one.",
+   "On a human-sense square, do what it says.",
+   "On a trick square, follow the instruction.",
+   "First to reach WHOLE WORLD wins, but you must then name three senses you used in the game."
+  ],
+  "squares": [
+   "START",
+   "Dog: smell the kitchen",
+   "Point at a sound with eyes shut: +1",
+   "Bat: echo the kitchen",
+   "Your blind spot hid a square: back 1",
+   "Bee: see ultraviolet on the flowers",
+   "Taste a lemon in your mind: which basic taste?",
+   "Shark: feel electricity in the sink pipes?",
+   "Spin round: dizzy, miss a turn",
+   "Pit viper: find the warm stove in the dark",
+   "Touch your nose with eyes shut: +2",
+   "Star-nosed mole: feel the floor",
+   "Chilli! Is it a taste? Explain or back 1",
+   "Robin: which way is north?",
+   "Hungry: an inner sense, +1",
+   "Fly: taste the floor with your feet",
+   "Ghost triangle: it isn't there, back 2",
+   "Elephant: hear rumbles through your feet",
+   "Loud music: protect your ears, miss a turn",
+   "Owl: hear a mouse under leaves",
+   "Count your heartbeat without touching: +1",
+   "Octopus: taste with your arms",
+   "WHOLE WORLD"
+  ]
+ },
+ "big": [
+  "Your brain builds the world from messages. Is the world you see the world as it really is?",
+  "If a bee sees colours you cannot, which colours does the flower 'really' have?",
+  "Does a person who is blind live in a smaller world, or a different one?",
+  "Could there be things all around us right now that no animal on Earth can sense?",
+  "Who am I: the one who senses, or the senses themselves?"
+ ],
+ "challenge": [
+  {
+   "q": "The tongue has zones: sweet at the tip, bitter at the back.",
+   "hint": "This 'tongue map' was in school books for decades. It came from a 1901 German study that found only tiny differences in sensitivity; it was redrawn wrongly in a 1942 book; and in 1974 Virginia Collings tested it and found every taste can be sensed wherever there are taste buds. Ask: why do wrong ideas get copied from book to book?"
+  },
+  {
+   "q": "Humans have a terrible sense of smell compared to dogs.",
+   "hint": "Dogs are far better at some smells, but in 2017 the neuroscientist John McGann argued that the human nose is much better than its reputation, and that we can tell apart a huge number of smells; some humans can even follow a scent trail across grass. He traced the bad reputation to a 19th-century brain scientist, Paul Broca, who guessed from the small size of the smell part of our brain. Scientists still argue how good we are. Ask: how could you test your own nose?"
+  },
+  {
+   "q": "Carrots give you night vision.",
+   "hint": "Carrots have a substance the body turns into vitamin A, and lacking vitamin A really does cause night blindness. But eating extra carrots does not give a healthy person super night vision. The story was spread by the British in the Second World War, reportedly to hide the fact that their pilots were using radar. Ask: why might someone spread a story that is half true?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Dr Govindappa Venkataswamy (1918–2006), founder of Aravind Eye Hospital, Madurai",
+   "view": "Dr V started an eye hospital in 1976 with 11 beds, to cure cataract blindness for poor people who could not pay, by making the surgery fast and organised so that paying patients helped cover free ones. Aravind has since done millions of eye operations. Ask: should being able to see depend on having money?"
+  },
+  {
+   "who": "A Braille reader",
+   "view": "People who read Braille feel raised dots with their fingertips, often as fast as many sighted people read. Brain scans show that in people blind from birth, parts of the brain used for seeing help with touch and hearing. Ask: what does it mean that the brain can give a job to a different sense?"
+  },
+  {
+   "who": "A mallakhamb coach in Maharashtra",
+   "view": "Mallakhamb, an old Indian sport of yoga-like poses on a wooden pole or a hanging rope, trains balance and body sense so finely that some performers can do poses with their eyes covered. Ask: can a sense be trained like a muscle?"
+  },
+  {
+   "who": "A bat",
+   "view": "To a bat, a dark cave is bright with echoes. Ask: would a bat call us 'blind' at night? Would it be right?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Ibn al-Haytham, also called Alhazen (about 965–about 1040), born in Basra (now Iraq), worked in Cairo",
+   "idea": "Many Greek scholars, including Euclid and Ptolemy, taught that the eye sends out rays that touch what we see. In his 'Book of Optics', Ibn al-Haytham argued from experiments that it is the other way round: light travels in straight lines from objects into the eye. He studied the camera obscura, a dark room with a small hole that shows an upside-down picture of the outside, and insisted that ideas must be tested, not just accepted from famous books.",
+   "then": "According to the story told by later writers, he had been placed under house arrest in Cairo after failing to control the Nile's floods for the Caliph, and did much of his work then. His book was translated into Latin and read by European scholars for centuries.",
+   "now": "He was right that light enters the eye, and he is honoured as one of the founders of testing ideas by experiment. Some of his ideas about how the eye works in detail were later corrected. Many school books still begin the story of optics with Europeans.",
+   "status": "accepted",
+   "ask": "Ibn al-Haytham said: don't believe it just because a famous person wrote it. How could you test whether eyes send out rays?",
+   "day": 4
+  },
+  {
+   "id": "v2",
+   "who": "Charles Sherrington (1857–1952), England, and Ian Waterman (born about 1952), England",
+   "idea": "In 1906 Sherrington named 'proprioception', the sense of where our body parts are, coming from receptors in muscles and joints. In 1971, at 19, Ian Waterman had an illness that destroyed the nerves carrying this sense and light touch from his neck down. He could move his muscles but had no idea where his limbs were. Doctors said he would never walk again.",
+   "then": "Over many months he taught himself to walk, dress and write by watching every movement with his eyes and thinking about it. If the lights went out, he would collapse.",
+   "now": "He has lived for decades this way and been studied by the doctor Jonathan Cole, who wrote a book about him. His story shows how much work proprioception does for us without our noticing.",
+   "status": "accepted",
+   "ask": "Ian Waterman used his eyes to do the job of a sense he had lost. What does that tell us about how many senses are working right now while you sit still?",
+   "day": 2
+  },
+  {
+   "id": "v3",
+   "who": "The 'tongue map': David Hänig (Germany, 1901), Edwin Boring (USA, 1942) and Virginia Collings (USA, 1974)",
+   "idea": "In 1901 Hänig found that the edges of the tongue were very slightly more sensitive to some tastes in some places. In 1942 Boring redrew his results in a book in a way that made the small differences look like separate zones: sweet at the tip, bitter at the back. This 'tongue map' was copied into school books around the world.",
+   "then": "For decades almost nobody checked it.",
+   "now": "In 1974 Virginia Collings repeated the tests and confirmed that all tastes can be sensed on all parts of the tongue that have taste buds. Later scientists found the receptors for each taste spread across the whole tongue. The map is wrong.",
+   "status": "rejected",
+   "ask": "A wrong map stayed in books for over 30 years. What could you do to avoid believing something just because it is printed?",
+   "day": 3
+  },
+  {
+   "id": "v4",
+   "who": "Wolfgang Wiltschko and Roswitha Wiltschko (Germany), Klaus Schulten and Henrik Mouritsen",
+   "idea": "From the 1960s and 70s Wolfgang Wiltschko, later working with his wife Roswitha Wiltschko, showed that European robins kept in cages with no view of the sky still try to fly in the right direction to migrate, and change direction when the magnetic field around them is changed with coils. So birds have a magnetic compass. In 2000 Klaus Schulten and colleagues suggested the compass might be in the eye, using a light-sensitive protein called cryptochrome.",
+   "then": "At first many scientists doubted that any animal could sense magnetism.",
+   "now": "That birds have a magnetic sense is now widely accepted. How it works is still debated: the cryptochrome-in-the-eye idea has growing evidence (Mouritsen's team and others), but other ideas, such as tiny magnetic particles, are also studied. Roswitha's long partnership in the work is often less mentioned.",
+   "status": "debated",
+   "ask": "We can't feel magnetism ourselves. How could we ever be sure a bird does? What test would convince you?",
+   "day": 7
+  }
+ ],
+ "books": [
+  {
+   "title": "An Immense World: How Animal Senses Reveal the Hidden Realms Around Us",
+   "author": "Ed Yong",
+   "for": "parent reads",
+   "age": "adult; read short passages aloud",
+   "why": "A wonderful tour of animal senses and the idea of the Umwelt. Read the chapters on electric fish, echoes and magnetism aloud."
+  },
+  {
+   "title": "What If You Had Animal Eyes?",
+   "author": "Sandra Markle",
+   "for": "read together",
+   "age": "5–9",
+   "why": "What you could see with the eyes of a chameleon, a mantis shrimp or an owl, with true facts."
+  },
+  {
+   "title": "The Man Who Mistook His Wife for a Hat",
+   "author": "Oliver Sacks",
+   "for": "parent reads",
+   "age": "adult; retell one chapter",
+   "why": "The chapter 'The Disembodied Lady' tells of a woman who, like Ian Waterman, lost her body-position sense. Retell it simply."
+  },
+  {
+   "title": "The Story of My Life",
+   "author": "Helen Keller",
+   "for": "parent reads",
+   "age": "8–adult; read the water-pump chapter aloud",
+   "why": "Helen Keller's own account of learning language through touch."
+  }
+ ],
+ "check": [
+  {
+   "q": "How does a sound get from the air to your brain?",
+   "a": "It shakes the eardrum, the three tiny bones pass it on to the cochlea, hair cells there bend and send nerve messages to the brain."
+  },
+  {
+   "q": "Where was your touch sharpest, and why?",
+   "a": "Fingertips (and lips), because touch receptors are packed close together there."
+  },
+  {
+   "q": "Name the five basic tastes. Is chilli one of them?",
+   "a": "Sweet, sour, salty, bitter, umami. No, chilli switches on heat and pain receptors."
+  },
+  {
+   "q": "Why is the tongue map wrong?",
+   "a": "Every part of the tongue with taste buds can taste all tastes; the map came from misreading a small difference, and was tested and found wrong."
+  },
+  {
+   "q": "How do we see, and what is the blind spot?",
+   "a": "Light comes into the eye through the pupil, the lens focuses it on the retina, and messages go to the brain. The blind spot is where the nerve leaves the eye and there are no receptors; the brain fills it in."
+  },
+  {
+   "q": "Name three senses beyond the five.",
+   "a": "Any three of: balance, proprioception (body position), hot, cold, pain, hunger, thirst, heartbeat."
+  },
+  {
+   "q": "Name two senses some animals have that we do not.",
+   "a": "For example electric sense (sharks), heat sense (pit vipers), ultraviolet sight (bees), magnetic sense (robins)."
+  }
+ ],
+ "story": {
+  "title": "Siddhesh in the Dark",
+  "text": [
+   "My brother Siddhesh is eleven and he can do things on a wooden pole that would make a monkey nervous. The pole is called a mallakhamb. It stands in the sand pit behind a gymnasium near Shivaji Park in Dadar, taller than our father, smooth and oiled and shining, and every evening for three years Siddhesh has climbed it, wrapped himself round it, hung from it by one foot, and made shapes on it like a peacock, a bow, a flag in the wind.",
+   "I am seven. I sit on the bench with our coach's water bottle and watch.",
+   "Our coach is called Tai. She is small and grey-haired and she has been training mallakhamb children since before our parents were born. Tai never shouts. She just says, “Again,” and you do it again.",
+   "Last winter, at the district competition, Siddhesh fell.",
+   "It wasn't a big fall. He was halfway through the peacock, where you hold yourself out sideways from the pole with your legs, and he looked down at the crowd. There were hundreds of people on the benches, waving and moving and clapping, and the lights were in his eyes. He told me later that the whole crowd seemed to slide sideways, like the sea. His body thought it was falling. So it fell.",
+   "He landed on his feet in the sand, but he lost. And after that, every time he climbed the pole, he looked down and froze.",
+   "One evening Tai took the cloth she wipes the pole with, folded it, and tied it over his eyes.",
+   "“How can I do it if I can't see?” he said.",
+   "“Your eyes lied to you,” said Tai. “The crowd moved and your eyes told you that you were moving. Your eyes are good for many things. But up there you have two other friends who never lie.”",
+   "She tapped him behind his ear. “One lives in here. Three small tubes of water inside your ear. When you tip, the water tips. It tells you which way is down even in the dark.”",
+   "She tapped his arm, his knee, his ankle. “The other lives everywhere. In every muscle and every joint. It tells you where your arm is, and how bent your knee is, without looking. Shut your eyes and touch your nose.”",
+   "He did, easily.",
+   "“How did you find your nose?” said Tai. “You did not see it.”",
+   "Siddhesh didn't answer. I could see him thinking.",
+   "“Again,” said Tai.",
+   "That first evening blindfolded, he could hardly get off the ground. He felt for the pole with his hands like an old man feeling for a door in the dark. He slipped and slid and banged his chin. I wanted to take the cloth off him. Tai shook her head at me.",
+   "But the next week he could climb. The week after, he could hold the bow. By spring he could do the whole routine with his eyes covered, slowly, every shape, and when he came down he was smiling in a way he hadn't smiled since the fall.",
+   "“What does it feel like?” I asked him on the way home.",
+   "He thought about it. “Like the pole is part of me,” he said. “Like I'm listening to my arms.”",
+   "This year, at the district competition, it was very hot and there were even more people. Siddhesh was the last to go. He chalked his hands, climbed up, and began.",
+   "He was halfway through the peacock when every light in the hall went out.",
+   "It was a power cut, the kind we have all the time in summer, but in the middle of a crowd it was terrifying. Total dark. People screamed. Somewhere a baby cried. I grabbed the edge of the bench and thought of my brother, three metres up a pole, sideways, in the black.",
+   "Then people began to switch on their phone torches, one by one, and pointed them at the pole.",
+   "Siddhesh was still there.",
+   "He was holding the peacock, his body out flat from the pole, perfectly still, as if nothing had happened. In the shaky light of a hundred phones, he came out of the peacock and moved into the bow, and then the flag, every shape in order, slowly, the way he had done it in the evenings with Tai's cloth over his eyes. The crowd went completely quiet. The only sound was the wood creaking under his hands.",
+   "When he slid down into the sand, the lights came back on, and the noise was so loud I had to cover my ears.",
+   "He didn't win, actually. He came second, because the judges said they couldn't see his first shape properly. He didn't mind. On the way home I asked him if he'd been scared when the lights went out.",
+   "“For one second,” he said. “Then I remembered I wasn't using them.”",
+   "Tai was walking with us. She didn't say anything. She just put her hand on top of his head for a moment, and then took it away."
+  ],
+  "epiphany": "We have senses beyond the five: balance (from the fluid in the inner ear) and proprioception (from receptors in muscles and joints, telling us where our body is), and the eyes can even mislead them, as when the moving crowd makes Siddhesh feel he is falling. The turn is the power cut: everyone else is blind, but Siddhesh carries on because he has trained to use the senses that do not need light.",
+  "ask": [
+   "Why did Siddhesh fall the first time?",
+   "What were the 'two friends who never lie' that Tai talked about? What are their real names?",
+   "How did Siddhesh touch his nose without seeing it?",
+   "Why could he keep going when the lights went out?",
+   "Siddhesh said he was 'listening to his arms'. What do you think he meant? Try it."
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Your brain builds the world.",
+   "more": "Sense organs send only nerve messages. The brain puts them together into colours, sounds and tastes, fills in gaps like the blind spot, and makes its best guess. Illusions show the guessing."
+  },
+  {
+   "idea": "You have far more than five senses.",
+   "more": "Balance, body position, hot, cold, pain, hunger, thirst and the feeling of your heartbeat are senses too. The 'five senses' is a 2,400-year-old list, not a scientific count."
+  },
+  {
+   "idea": "Every animal lives in its own world.",
+   "more": "Sharks feel electricity, vipers see heat, bees see ultraviolet, robins may feel the Earth's magnetism. Our world is one Umwelt among millions, and no animal senses everything."
+  }
+ ],
+ "unknowns": [
+  "How exactly do birds sense the Earth's magnetism? Scientists have strong clues but no final answer.",
+  "How does the brain turn nerve messages into the experience of red, or the taste of mango? Nobody knows.",
+  "How many senses do we really have? Scientists disagree, from about a dozen to over thirty, depending on how they count."
+ ]
+}

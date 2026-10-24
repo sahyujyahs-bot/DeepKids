@@ -47,12 +47,7 @@ for subj in plan:
                 if q: out.append(q.pop(0))
         plan[subj][cls] = out
 data['combined'] = plan
-# the founder's notebook (app/build/ideas/notebook.json) and which topic each board chapter belongs to
-NB = os.path.join(BUILD, 'ideas', 'notebook.json')
-if os.path.exists(NB):
-    data['notebook'] = json.load(open(NB))
-    data['notebook']['chap'] = {k: t['id'] for t in U for r in t['rungs'] for k in r['chapters']}
-    data['notebook']['titles'] = {t['id']: t['title'] for t in U}
+data.pop('notebook', None)
 json.dump(data, open(DATA, 'w'), ensure_ascii=False, separators=(",", ":"))
 tot = sum(len(L) for s in plan.values() for L in s.values())
 print(f"combined: {tot} topic rungs, {written} with Combined lessons, the rest use board chapters for now")

@@ -2,7 +2,6 @@
 
 Writes:
   app/content/ideas/by_topic/<topic>.md  full digest per topic, read by lesson writers
-  app/build/ideas/notebook.json          compact data for the app's "From the DeepKids notebook" tab
 Run: python3 app/build/ideas/build.py
 """
 import json, os, re
@@ -168,17 +167,4 @@ for tid, t in topics.items():
             md.append(f"### Week {x.get('week', '')}: {x.get('title', '')}\n{x.get('activities', '')}\n\n{x.get('execution', '')[:1500]}\n\nStory seed: {x.get('story', '')[:1200]}\n")
     open(os.path.join(os_by, tid + ".md"), "w").write("\n".join(md))
 
-used_acts = {i for r in nb.values() for i in r["acts"]}
-used_sci = {i for r in nb.values() for i in r["sci"]}
-out = {"topics": nb,
-       "acts": {x["id"]: {k: v for k, v in x.items() if k not in ("src",)} for x in acts if x["id"] in used_acts},
-       "sci": {c["card_id"]: {k: c.get(k) for k in ("scientist_name", "pack", "rarity", "born", "died", "gender", "nationality", "fields",
-                                                   "key_contribution", "fundamental_truth_what_it_whispers", "special_tags", "story",
-                                                   "spotted_in_everyday_life", "field_impact", "global_impact", "odds_defied", "counterintuitive_factor")
-                               if c.get(k) not in (None, "")} for c in sci},
-       "journal": {p["page"]: {"content": p["content"], "todo": p["todo"], "concept": p["concept"]} for p in jp}}
-json.dump(out, open(os.path.join(HERE, "notebook.json"), "w"), ensure_ascii=False, separators=(",", ":"))
-print(f"{len(nb)} topics; {len(used_acts)}/{len(acts)} activity concepts and {len(used_sci)}/{len(sci)} scientists placed; "
-      f"notebook.json {os.path.getsize(os.path.join(HERE, 'notebook.json')) // 1024} KB")
-for tid, r in nb.items():
-    print(f"  {tid}: grid {len(r['grid'])}, acts {len(r['acts'])}, sci {len(r['sci'])}, journal {len(r['journal'])}")
+print(f"{len(nb)} topic digests written to app/content/ideas/by_topic/")

@@ -1,0 +1,234 @@
+{
+ "key": "combined|sci|2|kinds-of-living-things-and-sorting-them",
+ "board": "combined", "subj": "sci", "level": 2, "n": "kinds-of-living-things-and-sorting-them",
+ "title": "Comparing animals: fur, feathers, scales and legs",
+ "source": "DeepKids Combined. Covers Cambridge Stage 2 Biology, Comparing animals (Unit 4.1): how animals are similar and different, what makes a mammal or a bird, counting legs. Goes wider: fish, reptiles, amphibians and minibeasts, backbones, animals that break the rules, and many ways to sort. No textbook needed.",
+ "summary": "Your child looks closely at the animals around them, a crow, a dog, an ant, a gecko, a fish, and asks what makes them alike and different. They feel their own hair and spine, examine a feather with a hand lens, count minibeast legs and make a block graph, and learn what makes a mammal, a bird, a fish, a reptile, an amphibian and an insect. Then they meet the animals that break the rules (a bird that can't fly, a mammal that lays eggs, a 'flying fox' that is not a bird) and find out that every animal is also one of a kind.",
+ "builds_on": "Class 1: living and non-living things and the signs of life. Class 1 and 3 plants rungs: plants are living things too. In Class 3 your child learns to sort all living things, plants and animals, into groups using questions and keys, meets the tree of life and finds out why scientists keep changing the groups. In Class 4 they go on a nature trail to study how animals' features suit their lives and how all living things depend on each other.",
+ "goals": [
+  "By the end your child can say two ways two animals are alike and two ways they are different.",
+  "By the end your child can name the features of mammals (hair, milk) and birds (feathers, beaks, eggs with hard shells).",
+  "By the end your child can sort animals into mammals, birds, fish, reptiles, amphibians and insects, and say one feature of each.",
+  "By the end your child can count the legs of minibeasts and show the results on a block graph.",
+  "By the end your child can explain why a bat is a mammal and a penguin is a bird.",
+  "By the end your child can sort the same animals in two different ways and say that each animal is also unique."
+ ],
+ "words": [
+  ["similar", "alike in some way"],
+  ["different", "not the same"],
+  ["feature", "a part or quality of an animal you can notice, like fur, wings or six legs"],
+  ["mammal", "an animal with hair or fur that feeds its babies on milk; you are one"],
+  ["bird", "an animal with feathers, a beak and wings, which lays eggs with hard shells"],
+  ["fish", "an animal that lives in water, breathes with gills and usually has scales and fins"],
+  ["reptile", "an animal with dry, scaly skin, like a lizard, snake, turtle or crocodile"],
+  ["amphibian", "an animal like a frog that starts life in water and has soft, damp skin"],
+  ["insect", "a small animal with six legs and three body parts"],
+  ["backbone", "the row of bones down the middle of your back"],
+  ["block graph", "a chart made of blocks, one block for each thing counted"]
+ ],
+ "subconcepts": [
+  "comparing animals: alike and different",
+  "features we can observe: body covering, legs, wings, how babies begin",
+  "mammals: hair or fur, and milk for babies",
+  "birds: feathers, beaks, wings and hard-shelled eggs",
+  "fish: gills, fins and scales",
+  "reptiles and amphibians",
+  "minibeasts: insects have 6 legs, spiders 8",
+  "counting legs and making a block graph",
+  "animals with and without a backbone",
+  "groups depend on bodies, not on what animals do (bats, whales, penguins)",
+  "humans are mammals",
+  "animals that break the rules (the platypus)",
+  "the same animals can be sorted in many ways",
+  "every animal is also unique"
+ ],
+ "day_mins": 35,
+ "days": [
+  {"n": 1, "title": "Crow, dog, ant", "goal": "Notice how animals are alike and different, and sort them the child's own way.",
+   "steps": [
+    {"kind": "warmup", "title": "Who did you see today?", "mins": 6, "do": "Ask your child to name every animal they have seen today or this week: crows, pigeons, dogs, cats, cows, ants, flies, mosquitoes, geckos on the wall, fish in a pond or a fish shop, a cockroach. Write each on a slip of paper (or use Activity a1's picture cards). Then ask: 'Is a person an animal?' Accept any answer; you'll come back to it."},
+    {"kind": "outdoor", "title": "Compare a crow and a dog", "mins": 12, "do": "Go outside and find a crow (or pigeon) and a dog (or cat or cow). Watch each for a few minutes from a safe distance. Ask: 'How are they alike?' (Both have eyes, a mouth, legs; both breathe, eat and move; both have a backbone.) 'How are they different?' (Feathers or fur; two legs or four; beak or mouth with teeth; wings; one lays eggs, one has puppies.) Write two alike and two different in a notebook in your child's words."},
+    {"kind": "act", "title": "Sort them your way", "mins": 12, "do": "Do Activity a1: spread out the animal slips or cards. Ask your child to sort them into groups any way they like. There is no wrong answer. They might choose 'flies or doesn't', 'big or small', 'lives with us or wild', 'scary or friendly'. Ask them to name each group. Then mix them up and ask: 'Can you sort them a different way?' Say: 'Scientists sort animals too. Let's find out which way they chose, and why.'", "ref": "a1"},
+    {"kind": "talk", "title": "One of a kind", "mins": 5, "do": "Ask: 'Are all the crows on our street the same?' Look at two if you can. Say: 'Crows can tell different people's faces apart. To a crow, every person is different. Every crow is different too, if we look closely enough. A group is a useful name, but each animal is still itself.'"}
+   ],
+   "need": ["paper slips or the printed animal cards", "a notebook"]},
+  {"n": 2, "title": "Mammals: fur and milk", "goal": "Find out what makes a mammal, and that we are mammals too.",
+   "steps": [
+    {"kind": "warmup", "title": "Your own fur", "mins": 5, "do": "Ask your child to find hair on their own body: head, eyebrows, eyelashes, and the tiny hairs on their arms (look with a hand lens). Ask: 'Who else has hair or fur?' (Dogs, cats, cows, goats, monkeys, rats, squirrels, elephants have a few, even whales have a few bristles when born.) 'What did you drink when you were a tiny baby?' (Milk.)"},
+    {"kind": "talk", "title": "What is a mammal?", "mins": 6, "do": "Say: 'Animals with hair or fur that feed their babies on milk are called mammals. The word comes from the old word for the part of the body that makes milk. You are a mammal. So is a cow, a goat, a dog, a squirrel, a bat, an elephant and a whale.' Ask: 'Which mammals give us milk?' (Cows, buffaloes, goats, camels, even yaks.) 'Who is that milk really for?' (Their own babies.)"},
+    {"kind": "read", "title": "Story: The Flying Fox's Daughter", "mins": 12, "do": "Read the story aloud. Don't explain it. Ask the story's questions, especially: 'Why did Ruksana think the bats were birds? What made her change her mind?'"},
+    {"kind": "act", "title": "Mammal mime", "mins": 7, "do": "Play mammal mime: take turns acting a mammal (a cow chewing, a monkey swinging, a bat hanging upside down, an elephant drinking with its trunk, a whale blowing) while the other guesses. After each, the guesser says how they know it is a mammal. Include a trick one: act a hen. 'Is it a mammal?' (No: feathers, eggs.)"},
+    {"kind": "talk", "title": "Mammals that fly and swim", "mins": 5, "do": "Ask: 'A bat flies. Is it a bird?' (No: fur, milk, babies born alive. It's a flying mammal.) 'A whale swims. Is it a fish?' (No: it breathes air, feeds its baby milk and has a few hairs. A swimming mammal.) Say: 'What an animal does doesn't decide its group. Its body does.'"}
+   ],
+   "need": ["a hand lens if you have one"]},
+  {"n": 3, "title": "Birds: feathers, beaks and eggs", "goal": "Investigate a feather and find out what makes a bird.",
+   "steps": [
+    {"kind": "exp", "title": "Feather lab", "mins": 13, "do": "Do Experiment e1 with a clean feather (from a pigeon, crow or chicken, washed in soapy water and dried, or a craft feather): look at it with a hand lens, 'unzip' and 'zip' the barbs with your fingers, wave it to feel it push the air, and drip water on it. Ask: 'What do you notice? What do you think feathers are for?'", "ref": "e1"},
+    {"kind": "talk", "title": "What is a bird?", "mins": 6, "do": "Say: 'Only birds have feathers. Every bird has feathers, a beak with no teeth, two legs, two wings and lays eggs with hard shells.' Ask: 'Do all birds fly?' (No: ostriches, emus, penguins and kiwis can't. A penguin uses its wings to 'fly' underwater.) Look at the beaks of birds you know: a parrot's hook for cracking, a sunbird's needle for nectar, a crow's all-purpose beak, a duck's flat scoop."},
+    {"kind": "talk", "title": "Salim Ali's sparrow", "mins": 6, "do": "Tell your child about voice v2: a boy in Mumbai about 120 years ago shot a sparrow with a yellow mark on its throat and wanted to know what it was. He grew up to be India's great bird scientist. Ask the voice's question.", "ref": "v2"},
+    {"kind": "talk", "title": "Birds are dinosaurs", "mins": 6, "do": "Tell your child about voice v3. Say: 'Scientists now think birds are the last living dinosaurs. The pigeon on your balcony is a cousin of Tyrannosaurus.' Look at a pigeon's feet: scaly, like a reptile's. Ask the voice's question.", "ref": "v3"},
+    {"kind": "do", "title": "Bird walk", "mins": 4, "do": "Step outside for a few minutes and name or describe every bird you see or hear. For each, say one feature: beak shape, colour, size, how it moves (hop, walk, waddle)."}
+   ],
+   "need": ["a clean feather (washed and dried) or a craft feather", "a hand lens", "a dropper or spoon of water"]},
+  {"n": 4, "title": "Scales, gills and slimy skin", "goal": "Meet fish, reptiles and amphibians, and compare body coverings.",
+   "steps": [
+    {"kind": "warmup", "title": "Feel the coverings", "mins": 5, "do": "Ask your child to close their eyes. Let them touch: a piece of wool or fur (a mammal's covering), a feather (bird), and, if you have them, a fish scale from the kitchen, a snake-skin pattern bag, or the skin of a bitter gourd (like a crocodile's bumps). Ask them to guess and describe: 'soft, smooth, rough, slimy?'"},
+    {"kind": "outdoor", "title": "Fish watch", "mins": 9, "do": "Visit a fish tank, a pond, a temple tank or the fish market with a grown-up. Look at a fish: fins for steering, a tail for pushing, scales, and the flaps on its sides (gills) that open and close. Say: 'Fish breathe the air that is dissolved in the water, through their gills.' Ask: 'Does a fish have a backbone?' (Yes: think of the bones in a cooked fish.)"},
+    {"kind": "talk", "title": "Reptiles and amphibians", "mins": 8, "do": "Look at a gecko (chhipkali) on the wall. Say: 'Lizards, snakes, turtles and crocodiles are reptiles: dry, scaly skin, and most lay eggs with leathery shells.' Then talk about frogs: 'A frog is an amphibian, a word that means two lives. It starts as an egg in water, becomes a tadpole that breathes with gills, then grows legs, loses its tail and lives on land and in water, with soft, damp skin.' If it's the monsoon, look for frogspawn or tadpoles in a puddle or pond (look, don't take)."},
+    {"kind": "ws", "title": "Animal groups", "mins": 13, "do": "Do Worksheet ws1. Read each question aloud; your child answers, and you write the 'why' answers in their words.", "ref": "ws1"}
+   ],
+   "need": ["wool, a feather, a fish scale or bitter gourd", "worksheet ws1"]},
+  {"n": 5, "title": "How many legs?", "goal": "Hunt minibeasts, count their legs and make a block graph.",
+   "steps": [
+    {"kind": "warmup", "title": "Feel your backbone", "mins": 5, "do": "Your child bends forward while you run a finger gently down their back: 'Feel the bumps? That's your backbone.' Say: 'Mammals, birds, fish, reptiles and amphibians all have a backbone. Most animals in the world don't: insects, spiders, worms, snails, crabs.' Ask: 'How does an ant stay in shape without bones inside?' (It has a hard outside, like armour.)"},
+    {"kind": "outdoor", "title": "Minibeast hunt", "mins": 14, "do": "Do Activity a2: hunt for small animals under stones, flowerpots, leaves and bark for 10 minutes. Look, don't touch: use a leaf or paper to move them, and put every stone back the way it was. For each animal, count its legs (use a hand lens) and make a mark in the tally: 0, 6, 8, 14, many. Ants, beetles, flies, bugs and grasshoppers have 6 (insects); spiders have 8; woodlice have 14; centipedes and millipedes many; worms and snails none.", "ref": "a2"},
+    {"kind": "do", "title": "Make a block graph", "mins": 10, "do": "On squared paper, your child colours one square for each animal counted, in columns: no legs, 6 legs, 8 legs, 14 legs, many legs. Ask: 'Which column is tallest? Why do you think we found so many six-legged animals?' (Insects are the largest group of animals on Earth; there are more kinds of beetle than of all mammals put together.)"},
+    {"kind": "think", "title": "Is a spider an insect?", "mins": 6, "do": "Ask: 'A spider is small and creepy-crawly. Is it an insect?' (No: 8 legs, 2 body parts, no wings or feelers. It's an arachnid, like scorpions and ticks.) Draw an ant and a spider side by side and count body parts and legs together."}
+   ],
+   "need": ["a hand lens", "a paper or leaf for moving minibeasts", "a notebook for the tally", "squared paper and crayons"]},
+  {"n": 6, "title": "Animals that break the rules", "goal": "Meet animals that don't fit the boxes, and see that every animal is one of a kind.",
+   "steps": [
+    {"kind": "talk", "title": "The platypus puzzle", "mins": 8, "do": "Tell your child about voice v1: an animal with fur and milk, a duck-like bill and webbed feet, that lays eggs. Show a picture. Ask: 'Is it a mammal, a bird or something else?' (A mammal: fur and milk; it's one of the very few mammals that lay eggs.) Ask the voice's question.", "ref": "v1"},
+    {"kind": "game", "title": "Animal Families", "mins": 12, "do": "Play the card game (g1). When someone asks for a card, they must say one feature of that group. Watch out for the trick cards (bat, whale, penguin, platypus, spider).", "ref": "g1"},
+    {"kind": "act", "title": "Ten crows, all different", "mins": 8, "do": "Ask your child to draw ten crows (or ten ants, or ten cats), and make every single one different from the others: in pose, mood, size, what it's doing, where it is. Ask: 'They are all crows. Are they all the same?' Then: 'Are you the same as every other child? Is any group of animals really all the same?'"},
+    {"kind": "ws", "title": "Tricky animals", "mins": 7, "do": "Do Worksheet ws2 together. Your child explains the tricky ones out loud before choosing.", "ref": "ws2"}
+   ],
+   "need": ["a picture of a platypus (a book or a phone)", "the printed card game", "paper and crayons", "worksheet ws2"]},
+  {"n": 7, "title": "Animal museum and teach it back", "goal": "Show and explain what makes each animal group.",
+   "steps": [
+    {"kind": "do", "title": "Set up the museum", "mins": 10, "do": "Start the project: make an animal museum on a table: the feather, a fish scale, a photo or drawing for each group (mammal, bird, fish, reptile, amphibian, insect, spider), the block graph and the ten-crows drawing. Your child writes or dictates a label for each: 'Mammals have…'"},
+    {"kind": "check", "title": "Teach it back", "mins": 13, "do": "Your child gives a museum tour to the family and explains the features of each group, why a bat is a mammal and a penguin is a bird, and what the block graph shows. Then ask the check questions."},
+    {"kind": "think", "title": "Is a person an animal?", "mins": 5, "do": "Go back to the question from Day 1. Ask: 'Is a person an animal? Which group are we in? What do we share with a crow, a fish, an ant?' (We are mammals; we share a backbone with the crow and fish, and with the ant we share breathing, eating, growing and having young.) Then ask a big question: 'If an ant sorted animals, what groups would it make?'"},
+    {"kind": "ws", "title": "Animal puzzles", "mins": 7, "do": "Try Worksheet ws3 if your child wants more. Read each puzzle aloud.", "ref": "ws3"}
+   ],
+   "need": ["everything made this week", "card for labels", "worksheet ws3"]}
+ ],
+ "worksheets": [
+  {"id": "ws1", "tier": "core", "title": "Animal groups", "day": 4, "sections": [
+   ["A. Features", [
+    {"t": "match", "p": "Match the group to its feature.", "pairs": [["mammal", "hair or fur, and milk for babies"], ["bird", "feathers and a beak"], ["fish", "gills and fins"], ["reptile", "dry, scaly skin"], ["amphibian", "starts life in water, soft damp skin"], ["insect", "six legs"]]},
+    {"t": "mcq", "p": "Which animal has feathers?", "opts": ["cat", "crow", "gecko"], "a": 1},
+    {"t": "mcq", "p": "Which animal feeds its babies on milk?", "opts": ["goat", "hen", "frog"], "a": 0},
+    {"t": "fill", "p": "A frog starts life as a ____ that lives in water.", "a": ["tadpole", "egg"]}]],
+   ["B. Sort", [
+    {"t": "sort", "p": "Which group?", "items": ["cow", "pigeon", "rohu fish", "gecko", "frog", "ant", "dog", "parrot"], "cats": ["mammal", "bird", "fish", "reptile", "amphibian", "insect"]},
+    {"t": "mcq", "p": "Do you have a backbone?", "opts": ["yes", "no"], "a": 0}]],
+   ["C. Think", [
+    {"t": "write", "p": "Write two ways a crow and a dog are alike, and two ways they are different.", "lines": 3},
+    {"t": "write", "p": "Why do you think a fish doesn't need fur?", "lines": 2}]]]},
+  {"id": "ws2", "tier": "stretch", "title": "Tricky animals", "day": 6, "sections": [
+   ["A. Which group?", [
+    {"t": "mcq", "p": "A bat flies. A bat is a…", "opts": ["bird", "mammal", "insect"], "a": 1},
+    {"t": "mcq", "p": "A whale lives in the sea. A whale is a…", "opts": ["fish", "mammal", "reptile"], "a": 1},
+    {"t": "mcq", "p": "A penguin can't fly. A penguin is a…", "opts": ["bird", "fish", "mammal"], "a": 0},
+    {"t": "mcq", "p": "A spider has 8 legs. A spider is…", "opts": ["an insect", "not an insect", "a mammal"], "a": 1},
+    {"t": "mcq", "p": "A platypus lays eggs but has fur and makes milk. It is a…", "opts": ["bird", "mammal", "reptile"], "a": 1}]],
+   ["B. Legs", [
+    {"t": "match", "p": "How many legs?", "pairs": [["ant", "6"], ["spider", "8"], ["woodlouse", "14"], ["earthworm", "0"], ["pigeon", "2"], ["cow", "4"]]},
+    {"t": "fill", "p": "On our block graph, the tallest column was the animals with ____ legs.", "a": ["6", "six", "0", "8", "many"]}]],
+   ["C. Think", [
+    {"t": "write", "p": "Why is a bat not a bird, even though it flies?", "lines": 2},
+    {"t": "write", "p": "Sort these in your own way, not by scientists' groups: crow, cow, ant, fish, bat, snake. What are your groups? Why?", "lines": 3}]]]},
+  {"id": "ws3", "tier": "challenge", "title": "Animal puzzles", "day": 7, "sections": [
+   ["A. Puzzles", [
+    {"t": "write", "p": "You find a new animal. It has feathers but no wings. Which group would you put it in? Why?", "lines": 2},
+    {"t": "write", "p": "A crocodile and a bird are closer cousins than a crocodile and a lizard. Does that surprise you? What might they share?", "lines": 3},
+    {"t": "write", "p": "An ant might sort animals into 'things that step on us' and 'things that don't'. What groups would a crow make? Why?", "lines": 3}]],
+   ["B. Odd one out", [
+    {"t": "mcq", "p": "Which is the odd one out?", "opts": ["dog", "goat", "pigeon", "monkey"], "a": 2},
+    {"t": "mcq", "p": "Which is the odd one out?", "opts": ["ant", "beetle", "spider", "fly"], "a": 2},
+    {"t": "mcq", "p": "Which is the odd one out?", "opts": ["shark", "rohu", "dolphin", "catfish"], "a": 2}]],
+   ["C. Sort", [
+    {"t": "sort", "p": "Backbone or no backbone?", "items": ["crow", "earthworm", "snake", "snail", "frog", "ant", "you", "spider"], "cats": ["backbone", "no backbone"]},
+    {"t": "match", "p": "Match the animal to how its life begins.", "pairs": [["hen", "egg with a hard shell"], ["cow", "born alive, drinks milk"], ["frog", "egg in water, then tadpole"], ["platypus", "egg, then drinks milk"]]}]]]}
+ ],
+ "experiments": [
+  {"id": "e1", "title": "Feather lab", "day": 3, "question": "What is a feather like, and what can it do?", "need": ["a clean feather (washed in soapy water and dried) or a craft feather", "a hand lens", "a dropper or spoon of water"], "steps": ["Look at the feather with the hand lens: the stiff middle shaft, and the hundreds of thin barbs on each side.", "Gently pull two barbs apart: a gap appears. Stroke the feather from the bottom to the top between finger and thumb: the gap 'zips' shut.", "Wave the feather fast through the air. Then wave a strip of paper the same size. Which pushes more air?", "Drip a few drops of water on the feather. Watch where they go.", "If you have a soft, fluffy feather too, compare it: which would keep a bird warm and which would help it fly?"], "predict": "Ask: 'What will happen to the water? Can you break a feather by pulling it apart?'", "observe": "The barbs hook back together; the feather pushes air; water often beads and rolls off.", "why": "The barbs have even tinier hooks (barbules) that lock together like a zip, so the feather makes a light, strong surface to push on the air. Birds 'zip' their feathers back by preening. Many birds spread oil from a gland near the tail onto their feathers, which helps water roll off. Fluffy down feathers trap warm air close to the body. Only birds have feathers (and, long ago, some dinosaurs).", "safety": "Use a washed feather or a craft feather, and wash hands afterwards. Don't pick up feathers near sick or dead birds.", "time": "15 min"}
+ ],
+ "activities": [
+  {"id": "a1", "title": "Sort them your way", "day": 1, "mins": 12, "need": ["animal cards (the printed ones from the game, or slips with names or drawings)", "a large space on the floor"], "steps": ["Spread the cards out face up.", "Your child sorts them into groups however they like and names each group.", "Ask why each animal went where it did.", "Mix them up and ask for a completely different way of sorting.", "Write down both ways. Compare them with the scientists' groups on Day 4."], "outcome": "Two or more ways of sorting the same animals, made by your child, showing that sorting depends on what you choose to look at."},
+  {"id": "a2", "title": "Minibeast hunt", "day": 5, "mins": 14, "need": ["a hand lens", "a leaf or piece of card for moving animals gently", "a notebook for the tally"], "steps": ["Look under stones, flowerpots, logs and leaves; along walls and in grass.", "Use the leaf or card to move an animal gently onto a light surface to count its legs; never pick it up by its legs.", "Make a tally mark in the right column: 0, 6, 8, 14 or many legs.", "Put every animal back where you found it and turn stones back the way they were.", "Count the tally marks in each column."], "outcome": "A tally of minibeasts by number of legs, ready to turn into a block graph."}
+ ],
+ "project": {"title": "Our animal museum", "days": [6, 7], "steps": ["Collect one object or picture for each group: mammal, bird, fish, reptile, amphibian, insect, spider.", "Make a label for each: the group name and two features.", "Add the trick animals: bat, whale, penguin, platypus, with a label saying why they belong where they do.", "Add the block graph and the ten-crows drawing.", "Give a tour to the family."], "outcome": "A table-top museum of animal groups, with labels written by your child."},
+ "game": {"id": "g1", "title": "Animal Families", "kind": "cards", "players": "2–4", "need": ["scissors", "crayons"], "rules": ["Cut out the cards. There are families of four: mammals, birds, fish, reptiles, amphibians, insects and spiders.", "Shuffle and deal 5 cards each. Put the rest face down as a pile.", "On your turn, ask another player for a card from a family you're collecting, and say one feature of that family: 'Do you have a mammal? Mammals have fur and milk.'", "If they have one, they must give it to you. If not, take one from the pile.", "When you have all four of a family, put them down. The player with the most families when the cards run out wins.", "Trick cards (bat, whale, penguin, platypus, spider) belong to a family: you must say why when you put them down."],
+  "cards": [
+   {"front": "Cow", "back": "mammal: fur, milk"}, {"front": "Bat", "back": "mammal (trick!): fur, milk, flies"}, {"front": "Whale", "back": "mammal (trick!): breathes air, milk"}, {"front": "Platypus", "back": "mammal (trick!): fur, milk, lays eggs"},
+   {"front": "Crow", "back": "bird: feathers, beak"}, {"front": "Penguin", "back": "bird (trick!): feathers, can't fly"}, {"front": "Peacock", "back": "bird: feathers, eggs"}, {"front": "Ostrich", "back": "bird: feathers, can't fly"},
+   {"front": "Rohu", "back": "fish: gills, fins, scales"}, {"front": "Shark", "back": "fish: gills, fins"}, {"front": "Seahorse", "back": "fish: gills, fins"}, {"front": "Catfish", "back": "fish: gills, no scales"},
+   {"front": "Gecko", "back": "reptile: dry scaly skin"}, {"front": "Cobra", "back": "reptile: scaly skin, eggs"}, {"front": "Turtle", "back": "reptile: scales, shell"}, {"front": "Crocodile", "back": "reptile: scaly skin"},
+   {"front": "Frog", "back": "amphibian: tadpole first"}, {"front": "Toad", "back": "amphibian: damp skin"}, {"front": "Salamander", "back": "amphibian: damp skin"}, {"front": "Caecilian", "back": "amphibian: no legs! lives in soil"},
+   {"front": "Ant", "back": "insect: 6 legs"}, {"front": "Butterfly", "back": "insect: 6 legs, wings"}, {"front": "Beetle", "back": "insect: 6 legs"}, {"front": "Honeybee", "back": "insect: 6 legs"},
+   {"front": "Garden spider", "back": "spider (trick! not an insect): 8 legs"}, {"front": "Scorpion", "back": "spider family: 8 legs"}, {"front": "Tick", "back": "spider family: 8 legs"}, {"front": "Jumping spider", "back": "spider: 8 legs, 8 eyes"}
+  ]},
+ "big": [
+  "Is a person an animal?",
+  "Who decided which groups animals go into? Could we have chosen different groups?",
+  "If every crow is different, what does it mean to call them all 'crows'?",
+  "What would an ant's way of sorting animals look like?"
+ ],
+ "challenge": [
+  {"q": "Bats are birds because they fly.", "hint": "No: bats have fur, give birth to live babies and feed them milk, so they are mammals. Flying doesn't decide a group; many insects fly too, and some birds can't. Ask: what is a group really based on?"},
+  {"q": "Whales and dolphins are fish because they live in the sea.", "hint": "No: they breathe air through a blowhole, feed their babies milk and have a few hairs when young. They are mammals whose ancestors lived on land millions of years ago. Their closest living land cousin is the hippo."},
+  {"q": "All mammals give birth to live babies.", "hint": "Almost all. The platypus and the echidnas of Australia and New Guinea lay eggs, then feed their young milk. When the first platypus reached Britain in 1799, some scientists thought it was a fake. Ask: when an animal breaks a rule, should we change the animal's group or the rule?"}
+ ],
+ "perspectives": [
+  {"who": "A crow", "view": "Scientists have found that crows can recognise individual human faces and remember people who were unkind to them for years. To a crow, we are not 'humans', we are this person and that person. Ask: how do you think the crows on your street sort the people they see?"},
+  {"who": "A goatherd", "view": "A goatherd with fifty goats knows every one by its face, voice and habits, and has a name for each. To a visitor they are 'goats'. Ask: when is it useful to see a group, and when is it better to see each one?"},
+  {"who": "A flying fox", "view": "It hangs upside down all day, flies many kilometres at night to eat fruit and carries seeds and pollen for the forest. People often fear bats. Ask: what would a bat want people to know about it?"}
+ ],
+ "voices": [
+  {"id": "v1", "who": "The platypus puzzle: George Shaw (1751–1813) in London, and the Aboriginal peoples of Australia", "idea": "In 1799 Shaw described a dried platypus skin sent from Australia: fur like an otter, a bill like a duck, webbed feet. He wrote that it was hard not to suspect a trick, and some say he looked for stitches where a bill might have been sewn on. Later, scientists argued for decades over whether it laid eggs.", "then": "Aboriginal Australians had known the animal, and that it laid eggs, for thousands of years, but European scientists didn't ask them or didn't believe them. In 1884 a scientist, William Caldwell, finally confirmed the eggs.", "now": "The platypus is accepted as a real mammal (it has fur and makes milk) that lays eggs. It belongs to a small, ancient group of mammals called monotremes.", "status": "accepted", "ask": "The people who lived alongside the platypus already knew it laid eggs. Why do you think the scientists in faraway Britain took so long to find out? Who should they have asked?", "day": 6},
+  {"id": "v2", "who": "Salim Ali (1896–1987), Mumbai, India", "idea": "As a boy, Salim Ali shot a sparrow with an air gun and noticed a yellow patch on its throat. Curious, he took it to the Bombay Natural History Society, where W.S. Millard identified it as a yellow-throated sparrow and showed him the Society's collections of birds. Salim Ali went on to spend his life studying India's birds and wrote 'The Book of Indian Birds'.", "then": "Few Indians worked as bird scientists then; he had no university degree in zoology and struggled to find a job for years.", "now": "He is honoured as 'the Birdman of India'. His careful observations of how birds live, not just what they look like, are accepted. He later worked to protect birds and their homes, such as Bharatpur's wetlands.", "status": "accepted", "ask": "Salim Ali began by shooting a bird and ended by protecting birds. Can a person change what they care about? What did his curiosity notice that others might have missed?", "day": 3},
+  {"id": "v3", "who": "John Ostrom (1928–2005), USA, and the idea that birds are dinosaurs", "idea": "In 1969 Ostrom described Deinonychus, a fast, light dinosaur, and pointed out how much its skeleton was like a bird's. He argued that birds evolved from small meat-eating dinosaurs.", "then": "Many scientists had thought dinosaurs were slow, cold-blooded lizards and that birds came from some other reptile. His idea was doubted.", "now": "Since the 1990s, many fossils of dinosaurs with feathers have been found, especially in China. Scientists now accept that birds are living dinosaurs. Exactly which dinosaurs could fly or glide, and how flight began, is still debated.", "status": "accepted", "ask": "If birds are dinosaurs, are dinosaurs really extinct? Which is the right group for a pigeon: 'bird', 'dinosaur', or both?", "day": 3}
+ ],
+ "story": {"title": "The Flying Fox's Daughter", "text": [
+  "My family lives in the great banyan tree beside the old tank in the middle of the town. There are four hundred of us, maybe more. By day we hang from the branches, upside down, wrapped in our wings like folded umbrellas, and we squabble and doze and lick our fur clean. By night we fly. We are flying foxes, which is a funny name, because we are not foxes and we do fly. Some people call us bats. Some call us birds. That is where my story begins.",
+  "The girl who called us birds was named Ruksana. She was eight, and she walked under our tree every day with her grandfather, who sold peanuts from a cart at the edge of the tank. She would stand with her head tipped back and her mouth open, looking up at us.",
+  "\"Look at the big black birds, Nana,\" she would say. \"Why do they sleep upside down?\"",
+  "\"They're not birds, beta,\" her grandfather would say, counting change.",
+  "\"They have wings,\" said Ruksana. \"They fly. They live in a tree. So they're birds.\" And she was so sure that he only laughed.",
+  "I had a daughter that spring. She was born in the tree, in the middle of the day, and she came out of me already holding on: her tiny claws gripped my fur, and her mouth found my milk at once, under my wing. She was the size of a small mango, with soft grey fur and eyes that were not yet quite open. For the first weeks of her life she went everywhere with me, clinging to my chest as I flew out over the town each night to the fig and jamun trees by the river, and back again before dawn.",
+  "But babies grow heavy. One morning, as I landed in the banyan after a long night's flying, my daughter's grip slipped. She fell. She tumbled down through the leaves and the air roots, past my sisters and my aunts, and landed with a small thump on the ground beside the peanut cart, and lay there squeaking.",
+  "I screamed. All four hundred of us screamed. We do that, when one of us is in trouble; the noise is terrible. People ran out of the shops. Ruksana dropped the bag of peanuts she was holding.",
+  "\"A baby bird!\" she cried, and she reached for it.",
+  "\"No!\" said her grandfather, and he caught her hand. \"Don't touch. Never touch a bat with your hands. It is frightened, it may bite, and bats can carry sicknesses. And its mother is up there, watching. If we help, we help the right way.\"",
+  "He knew a woman who rescued animals; everyone in the town did. He telephoned her, and while they waited, he put an upturned basket gently over my daughter so that the crows could not get her, and he and Ruksana sat beside it, very still.",
+  "The rescuer came on a scooter with thick gloves and a soft towel. She lifted the basket and picked up my daughter in the towel, carefully, and held her up so that Ruksana could see.",
+  "Ruksana leaned closer. And I saw her face change.",
+  "Because my daughter was not a bird. Anyone who looked at her properly could see it. She had no feathers at all: she was furry, soft grey fur all over, like a kitten. She had no beak: she had a little fox-like face with a wet nose and a mouth full of tiny teeth, and she was opening it to call for me. Her wings were not made of feathers either; they were made of skin, thin and warm, stretched between long, long fingers, like a hand with an umbrella built into it. And on the tip of each wing was a thumb with a claw, gripping the towel.",
+  "\"She's got fur,\" said Ruksana slowly. \"She's got teeth. She's got hands.\"",
+  "\"She drinks milk from her mother,\" said the rescuer. \"Just like a calf. Just like you did. She's a mammal, like you and me. Not a bird at all. A mammal that learned to fly.\"",
+  "Ruksana was quiet for a long time. Then she said, \"So she's more like me than like a crow?\"",
+  "\"In lots of ways,\" said the rescuer, \"yes.\"",
+  "The rescuer did what good rescuers do. She did not take my daughter away. She climbed a little way up the banyan's great trunk on the grandfather's ladder, and wrapped the towel loosely around a low branch, with my daughter clinging to it, high enough to be safe from dogs. Then everyone went away and stood at the far side of the tank and waited.",
+  "I came down. I crept along the branch, upside down, the way we do, and my daughter smelled me and called, and I folded her into my wing, and she found my milk at once, and held on, and this time she did not let go.",
+  "Every day after that, Ruksana stood under our tree and looked up. She didn't call us birds again. She called us by our proper name, flying foxes, and she told everyone who would listen that we had fur and milk and fingers in our wings, and that we were more like her than like a crow. Sometimes she even told them that every night we fly out over the town and come back with our faces dusted with pollen and our bellies full of figs, and drop the seeds of new trees wherever we go.",
+  "She was right about all of it. And I, who hang upside down in the banyan tree, I liked her very much for looking properly."],
+  "epiphany": "A bat is not a bird: it has fur, teeth and finger-bones in its skin wings, gives birth to live young and feeds them milk, so it is a mammal. Groups are decided by bodies, not by what an animal does (flying). The turn is Ruksana looking closely at the fallen pup in the towel and seeing fur, teeth and hands instead of feathers and a beak. Underneath: looking properly changes how we see a creature; we are more like a bat than a bat is like a crow.",
+  "ask": ["Why did Ruksana think the flying foxes were birds?", "What did she notice when she looked closely at the baby?", "Why did her grandfather stop her from touching it? What did they do instead?", "How is a flying fox like you?", "What does the mother bat mean when she says she liked Ruksana 'for looking properly'?"]},
+ "ideas": [
+  {"idea": "Groups are about bodies, not about what animals do.", "more": "A bat flies but is a mammal; a penguin can't fly but is a bird; a whale swims but breathes air and makes milk. Scientists group animals by features they share because they share ancestors. Ask your child to find a flying animal in every group they know."},
+  {"idea": "You are an animal, and a mammal.", "more": "You have hair, you drank milk, you have a backbone. You share these with cows, bats and whales, and you share breathing, eating and growing with every animal, even an ant."},
+  {"idea": "A group is a tool; each animal is itself.", "more": "Calling something 'a crow' helps us talk and think. But every crow is a particular crow, and crows can tell every human apart. Use the groups, then look past them."}
+ ],
+ "unknowns": [
+  "How many kinds of animals are there on Earth? Scientists have named about one and a half million kinds, mostly insects, but there may be several times more that nobody has named yet.",
+  "What is it like to be a bat, finding your way by the echoes of your own voice? A philosopher, Thomas Nagel, asked this in 1974, and nobody can answer it, because we can't get inside a bat's experience.",
+  "Why did the platypus and echidnas keep laying eggs when almost all other mammals stopped? Scientists have ideas but no certain answer."
+ ],
+ "books": [
+  {"title": "What Do You Do With a Tail Like This?", "author": "Steve Jenkins and Robin Page", "for": "read together", "age": "4–8", "why": "Close-up pictures of noses, ears, tails, eyes and feet: a guessing game about how different animals' features work."},
+  {"title": "Feathers: Not Just for Flying", "author": "Melissa Stewart, illustrated by Sarah S. Brannen", "for": "read together", "age": "5–9", "why": "Sixteen birds and the surprising things their feathers do, from keeping warm to carrying water."},
+  {"title": "Actual Size", "author": "Steve Jenkins", "for": "read alone", "age": "4–8", "why": "Animals and parts of animals shown at their real size, from the smallest fish to a gorilla's hand: great for comparing."},
+  {"title": "The Book of Indian Birds", "author": "Salim Ali", "for": "parent reads", "age": "all ages (a field guide to browse together)", "why": "Salim Ali's own classic guide: look up the birds you saw on your walk."}
+ ],
+ "check": [
+  {"q": "Tell me two ways a crow and a dog are alike and two ways they are different.", "a": "Alike: both have a backbone, eyes, legs, breathe and eat. Different: feathers or fur, two or four legs, beak or teeth, eggs or puppies."},
+  {"q": "What makes an animal a mammal?", "a": "Hair or fur, and feeding its babies on milk."},
+  {"q": "What makes an animal a bird?", "a": "Feathers, a beak, wings, and eggs with hard shells."},
+  {"q": "How many legs does an insect have? A spider?", "a": "Six; eight. A spider is not an insect."},
+  {"q": "Why is a bat a mammal and not a bird?", "a": "It has fur and feeds its babies milk; flying doesn't decide the group."},
+  {"q": "Name one fish, one reptile and one amphibian.", "a": "For example: rohu (fish), gecko (reptile), frog (amphibian)."},
+  {"q": "Are you an animal? Which group?", "a": "Yes, a mammal."}
+ ]
+}

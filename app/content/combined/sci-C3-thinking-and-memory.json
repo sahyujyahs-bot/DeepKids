@@ -1,0 +1,1094 @@
+{
+ "key": "combined|sci|3|thinking-and-memory",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "thinking-and-memory",
+ "title": "The brain, the mind, and the paths that memories make",
+ "source": "DeepKids Combined. A DeepKids topic beyond the boards (the brain, nerves and reflexes, perception, attention, memory, sleep, feelings, and other minds), linking to the senses and body chapters of NCERT, Cambridge and NIOS. No textbook needed.",
+ "summary": "Your child meets the three-pound organ that makes their whole world: its 86 billion neurons, the nerves that carry messages, and the reflexes that act before we think. They catch their brain guessing (a blind spot, illusions, a gorilla nobody sees), measure their own forgetting, and find out that memories are paths made by walking them again and again, and that sleep helps lay them down. They ask what it feels like to be them, whether anyone else can know, and whether thinking needs a brain at all, from crows and octopuses to a slime mould that solves a maze.",
+ "builds_on": "Class 1 and 2 senses work (five senses and more, the body's parts) and Class 3 health (sleep, feelings in the body). Class 5 goes much further: the parts of the brain, how memory rebuilds the past, the debate about why we sleep, emotions, and the deepest question of all, consciousness. 'Our closest cousins' asks what apes' minds are like.",
+ "goals": [
+  "By the end your child can explain that the brain is made of billions of neurons that pass electrical and chemical signals, and that nerves carry messages to and from it.",
+  "By the end your child can show a reflex and measure their own reaction time.",
+  "By the end your child can show, with the blind spot and illusions, that the brain builds what we see as a best guess.",
+  "By the end your child can explain how attention works like a spotlight, and why we miss things outside it.",
+  "By the end your child can explain how practice and sleep turn short-term memories into long-term ones, using their own forgetting test.",
+  "By the end your child can discuss whether other animals, and things without brains, think."
+ ],
+ "subconcepts": [
+  "the brain: where it is, what it weighs, how much energy it uses",
+  "neurons and their connections (synapses)",
+  "nerves: messages from senses to brain, and brain to muscles",
+  "reflexes act before we think; reaction time",
+  "the brain builds what we see: the blind spot and illusions",
+  "attention is a spotlight: we miss what's outside it",
+  "short-term and long-term memory",
+  "practice strengthens connections, like a path in grass",
+  "forgetting, and spaced practice",
+  "sleep helps lay down memories",
+  "feelings are made by brain and body together",
+  "what it feels like to be you (subjective experience)",
+  "other animals' minds: crows, octopuses, bees",
+  "thinking without a brain? single cells and slime moulds"
+ ],
+ "words": [
+  [
+   "brain",
+   "the organ in your head that controls the body and makes thoughts, feelings and memories"
+  ],
+  [
+   "neuron",
+   "a nerve cell that passes messages using electricity and chemicals"
+  ],
+  [
+   "synapse",
+   "the tiny gap where one neuron passes its message to the next"
+  ],
+  [
+   "nerve",
+   "a bundle of long neurons that carries messages around the body"
+  ],
+  [
+   "reflex",
+   "a quick action the body does without you deciding, like blinking"
+  ],
+  [
+   "perception",
+   "the brain's way of making sense of what the senses send it"
+  ],
+  [
+   "illusion",
+   "something that tricks the brain into seeing what isn't there"
+  ],
+  [
+   "attention",
+   "choosing what to notice, like a spotlight"
+  ],
+  [
+   "memory",
+   "what the brain keeps from the past"
+  ],
+  [
+   "mind",
+   "our thoughts, feelings and awareness: what it's like to be us"
+  ]
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Where are you?",
+   "goal": "Wonder where 'you' are, start a time journal, and hear the story.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Point to yourself",
+     "mins": 6,
+     "do": "Ask your child: 'Point to yourself.' Most children point to their chest. Ask: 'Is that where you are? Where do your thoughts happen?' Many will now point to their head. Ask: 'If you lost a finger, would you still be you? A leg? What part could you not lose and still be you?' Don't settle it. Say: 'Scientists and thinkers have argued about this for thousands of years. This week we explore the organ that has a lot to do with it: the brain.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Path Through the Long Grass",
+     "mins": 13,
+     "do": "Read the story aloud (Story tab). Ask the story questions. Don't explain what the path has to do with Noor's flute; your child will find out this week."
+    },
+    {
+     "kind": "do",
+     "title": "Thought clouds",
+     "mins": 9,
+     "do": "Sit together quietly, eyes closed, for one minute. Say: 'Just watch your thoughts, like clouds going past. Don't chase them.' Then your child draws a cloud for each thought they noticed, with a picture or a word inside (a sound, a worry, a food, a song). Ask: 'Did you choose those thoughts, or did they just come?' 'Who was watching them?' Keep the drawing; you'll do it again on Day 8."
+    },
+    {
+     "kind": "act",
+     "title": "Start the time journal",
+     "mins": 12,
+     "do": "Start Activity a1: a time journal your child keeps every evening this week: three things that happened today, one thing they felt, and one small object, drawing or ticket stuck in.",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "paper and crayons",
+    "a small notebook for the time journal",
+    "glue"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "86 billion messengers",
+   "goal": "Find out what the brain is made of, and start a forgetting test.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "How heavy is a brain?",
+     "mins": 5,
+     "do": "Fill a plastic bag with about 1.3 kg of atta or rice (weigh it). Your child holds it. Say: 'A grown-up's brain weighs about this much, about 2% of the body's weight, but it uses about one-fifth of all the energy from your food, even when you're asleep.' Ask: 'Why would something so small need so much food?' (It's always working: billions of cells sending messages.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Counting the neurons",
+     "mins": 10,
+     "do": "Say: 'The brain is made of nerve cells called neurons. Each one looks like a tiny tree, with branches to receive messages and a long tail to send them. They pass messages as tiny electric pulses, and between one neuron and the next is a gap, a synapse, where chemicals carry the message across.' Draw one together. Then tell voice v1: for years books said humans had 100 billion neurons, but nobody had counted. Suzana Herculano-Houzel found a way: she turned brains into soup. Ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "The neuron squeeze",
+     "mins": 10,
+     "do": "Do Activity a2: the family becomes a chain of neurons passing a squeeze, and you time how fast a message travels.",
+     "ref": "a2"
+    },
+    {
+     "kind": "exp",
+     "title": "Start the forgetting test",
+     "mins": 15,
+     "do": "Start Experiment e2: your child learns 10 made-up word pairs. You'll test them over the next days.",
+     "ref": "e2"
+    }
+   ],
+   "need": [
+    "a plastic bag and 1.3 kg of atta or rice",
+    "paper",
+    "a timer with seconds",
+    "the word-pair list from Experiment e2"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Nerves, reflexes and reaction time",
+   "goal": "Feel reflexes that act before you think, and measure your reaction time.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Forgetting test: 1 day later",
+     "mins": 6,
+     "do": "Without looking at the list, test the word pairs from Experiment e2 (say the first word; your child gives the partner). Record the score. Don't show the answers.",
+     "ref": "e2"
+    },
+    {
+     "kind": "exp",
+     "title": "Reflexes and the ruler drop",
+     "mins": 20,
+     "do": "Do Experiment e1: the knee-jerk, the blink and the ruler drop.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "The roads of the body",
+     "mins": 9,
+     "do": "Draw the brain and spinal cord (a long cable running down the backbone) on the body poster or a fresh outline, then nerves branching out to the fingers and toes. Say: 'Your senses send messages up the nerves to the brain; the brain sends messages down to the muscles. A reflex is a short-cut: the message goes to the spinal cord and straight back, so you pull your hand off a hot pan before your brain even feels the pain.' Ask: 'Why is that useful?' (It's faster, and saves you from harm.)"
+    },
+    {
+     "kind": "do",
+     "title": "One toe, one eyebrow",
+     "mins": 5,
+     "do": "Try the body challenge: move only your right big toe; now only your left little finger; now only one eyebrow. Ask: 'Which was hardest? Why might your brain have fewer clear roads to some muscles?' (We practise some movements far more than others.)"
+    }
+   ],
+   "need": [
+    "a 30 cm ruler",
+    "a chair",
+    "the forgetting-test list",
+    "paper for the nerve drawing"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Your brain is guessing",
+   "goal": "Catch the brain filling in and being fooled.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Time journal: yesterday",
+     "mins": 5,
+     "do": "Your child reads yesterday's time journal entry. Ask: 'What do you remember about yesterday that you didn't write down? Is your memory of it the same as mine?' Compare one moment you both remember."
+    },
+    {
+     "kind": "exp",
+     "title": "Find your blind spot",
+     "mins": 12,
+     "do": "Do Experiment e3: the blind-spot card. Your child predicts first, then tries with each eye. Ask afterwards: 'When the dot vanished, what did you see in its place?' (Plain white card: the brain painted in the background.) 'Why don't you notice your blind spot in daily life?'",
+     "ref": "e3"
+    },
+    {
+     "kind": "do",
+     "title": "Illusions",
+     "mins": 12,
+     "do": "Draw two lines of equal length, 10 cm each. On the ends of one draw arrowheads pointing in (like >—<), on the other arrowheads pointing out (<—>). Ask: 'Which line is longer?' Most people say the one with outward fins (the >—< one). Measure: they're the same. Then: 'Even now you know, does it still look longer?' (Yes!) Say: 'Your brain doesn't show you the world like a camera. It makes a best guess from what your eyes send, using what it's seen before. Usually the guess is brilliant. Sometimes it's fooled. That's an illusion.' Ask: 'If the brain is always guessing, how can we ever be sure what's real?' (We check: we measure, we ask others, we test.)"
+    },
+    {
+     "kind": "talk",
+     "title": "What does red look like to you?",
+     "mins": 11,
+     "do": "Hold up something red. Ask: 'What colour is this?' 'How do you know that what you see as red is what I see as red?' Let them puzzle. Say: 'Nobody can climb inside your head and see your red. What it feels like to be you, to taste mango, to feel happy, is called subjective experience, and scientists still don't know how a brain makes it.' Then do a painting: your child paints how today feels, using only colours and shapes, no people or things (abstract art). Ask: 'Would someone else know what you felt by looking?'"
+    }
+   ],
+   "need": [
+    "a white card and a black pen",
+    "a ruler and pencil",
+    "something red",
+    "paints or crayons"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The spotlight of attention",
+   "goal": "Find out how attention works, and what we miss.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Forgetting test: 3 days later",
+     "mins": 5,
+     "do": "Test the word pairs from Experiment e2 again and record the score. Then show the list once (this is the 'review'). Ask: 'Are you remembering more or fewer than on Day 3?'",
+     "ref": "e2"
+    },
+    {
+     "kind": "watch",
+     "title": "The invisible gorilla",
+     "mins": 10,
+     "do": "Tell voice v4, then, if you can, watch the short 'selective attention test' video by Daniel Simons together (search for it on YouTube): count how many times the players in white pass the ball. Don't tell your child what to look for. Afterwards ask: 'How many passes? Did you see anything unusual?' Many people miss a person in a gorilla suit walking right through. Ask the voice question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "game",
+     "title": "What changed?",
+     "mins": 10,
+     "do": "Change blindness game: your child looks around a room for 30 seconds, then goes outside. You change three small things (move a cup, turn a photo, take a pen off the table). They come back and try to find all three. Swap roles. Ask: 'Why was it so hard, when it was right in front of you?' (Our brain doesn't store every detail; it keeps the gist and fills in the rest.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: brain basics (core)",
+     "mins": 15,
+     "do": "Do Worksheet ws1. Your child explains each answer aloud before marking it.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a phone or computer to watch the video (optional)",
+    "three small objects to move",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Memory paths, and sleep",
+   "goal": "Learn how memories are made, kept and lost, and how sleep helps.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Forgetting test results",
+     "mins": 8,
+     "do": "Do the last test of Experiment e2 (or the next if days are short). Draw a graph: test number along the bottom, score up the side. Ask: 'When did you forget fastest?' (Usually soon after learning.) 'Did the review help?'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Short-term and long-term memory",
+     "mins": 10,
+     "do": "Say a phone number of 7 digits once; ask your child to repeat it now (usually fine), then after a minute of talking about something else (often lost). Say: 'That's short-term memory, like writing on a slate: it holds a few things for a little while. Long-term memory is like the path in the story: the more you walk it, the deeper it gets. Each time you practise, the connections between the same neurons get stronger.' Then: 'Scientists have found that during sleep, the brain replays and sorts the day, and memories become stronger. That's how Noor woke up able to play.' Ask: 'What does that tell you about studying late at night instead of sleeping?'"
+    },
+    {
+     "kind": "game",
+     "title": "Calkins' pairs game",
+     "mins": 10,
+     "do": "Tell voice v2 (Mary Whiton Calkins, who invented the word-pairs method you've been using). Then play: you make 8 pairs of a colour and a number ('blue 7, red 3…'), say them once, then test. Next, make a silly picture for each pair ('a blue whale with 7 legs') and try a new list. Ask: 'Which way worked better?' (Pictures and stories usually help, because they connect new things to old paths.) Ask the voice question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "do",
+     "title": "The story of yesterday, backwards",
+     "mins": 12,
+     "do": "Your child reads their time journal from Day 1 to today, then tells the story of the week backwards, starting from today and ending at Day 1. Ask: 'What did you remember only because you wrote it down? What did you remember without it? Which days are already fading?' Say: 'Writing things down is how humans made a memory outside their heads. That's what history is.'"
+    }
+   ],
+   "need": [
+    "the forgetting-test scores and graph paper",
+    "the time journal"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Other minds: feelings, animals and brainless thinkers",
+   "goal": "Explore feelings, other animals' minds, and whether thinking needs a brain.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Feelings in the brain and body",
+     "mins": 8,
+     "do": "Ask: 'Where did you feel your last big feeling?' (Remember last year: fear in the tummy, anger in the face.) Say: 'Feelings are made by the brain and body together. Your brain notices your fast heart and tight tummy, and what's happening, and puts it together as \"scared\" or \"excited\". That's why being scared and being excited can feel almost the same.' Ask: 'Have you ever been both at once?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Clever animals",
+     "mins": 12,
+     "do": "Tell three true animal minds: 'New Caledonian crows bend wire and twigs into hooks to fish food out of holes. An octopus has about 500 million neurons, and about two-thirds of them are in its arms, so each arm can explore and taste on its own. Bumblebees can learn to roll a little ball to get a reward, and in one experiment they rolled balls even when there was no reward, as if playing.' Ask: 'Do you think the octopus's arms think? Does a bee feel anything?' Say: 'Nobody knows for sure what it feels like to be an octopus. That's one of the great unknowns.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Thinking without a brain?",
+     "mins": 10,
+     "do": "Tell voice v3: J.C. Bose showed plants respond with electrical signals; a century later Toshiyuki Nakagaki showed a slime mould with no brain or neurons finding the shortest way through a maze to food. Ask the voice question. Say: 'Some scientists think the first kinds of sensing, deciding and remembering happened in single cells billions of years ago, long before neurons, and brains were built later to do it faster. Others say we shouldn't call that thinking. What do you think?'",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: apply it (stretch)",
+     "mins": 10,
+     "do": "Do Worksheet ws2. Let your child use the forgetting graph and the time journal.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "worksheet ws2",
+    "pictures of a crow, an octopus and a bee if you have them"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Brain Detectives: game and teach it back",
+   "goal": "Put it together, play, and teach it back.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Thought clouds again",
+     "mins": 7,
+     "do": "Repeat Day 1's thought clouds: one minute of quiet watching, then draw the clouds. Compare with Day 1. Ask: 'Were there more thoughts, or fewer? Was it easier to watch them? Are you your thoughts, or the one watching them?' There's no right answer."
+    },
+    {
+     "kind": "game",
+     "title": "Brain Detectives",
+     "mins": 12,
+     "do": "Play the card game g1. For each card, the answerer must also say how they know.",
+     "ref": "g1"
+    },
+    {
+     "kind": "think",
+     "title": "Challenge worksheet",
+     "mins": 11,
+     "do": "Do Worksheet ws3 (challenge). Discuss the written answers: there are good arguments on more than one side.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child shows a family member the blind spot and the ruler drop, then explains how memories are made using the path in the story. Ask the check questions. Ask what surprised them most, not whether they were 'clever'."
+    }
+   ],
+   "need": [
+    "the printed cards",
+    "worksheet ws3",
+    "the blind-spot card and a ruler"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Brain basics",
+   "day": 5,
+   "sections": [
+    [
+     "A. Parts and messages",
+     [
+      {
+       "t": "fill",
+       "p": "The brain is made of nerve cells called ____ .",
+       "a": [
+        "neurons",
+        "neuron"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "The tiny gap where one neuron passes a message to the next is a…",
+       "opts": [
+        "synapse",
+        "bone",
+        "vein"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A reflex is…",
+       "opts": [
+        "a quick action your body does without you deciding",
+        "a kind of memory",
+        "a dream"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each to its job.",
+       "pairs": [
+        [
+         "nerves",
+         "carry messages around the body"
+        ],
+        [
+         "spinal cord",
+         "the main cable down the back"
+        ],
+        [
+         "brain",
+         "makes sense of messages and decides"
+        ],
+        [
+         "muscles",
+         "move when a message arrives"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "About how much of the body's energy does the brain use?",
+       "opts": [
+        "almost none",
+        "about one-fifth",
+        "all of it"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Guessing and noticing",
+     [
+      {
+       "t": "mcq",
+       "p": "Why couldn't you see the X at one point on the blind-spot card?",
+       "opts": [
+        "the eye has a spot with no light sensors, and the brain fills in the gap",
+        "your eye was closed",
+        "the X disappeared"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Attention is most like…",
+       "opts": [
+        "a spotlight",
+        "a camera that sees everything",
+        "a bucket"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "You knew the two lines were equal, but one still looked longer. What does that tell you about seeing?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why do you think many people miss the gorilla in the video?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Memory and minds",
+   "day": 7,
+   "sections": [
+    [
+     "A. Memory",
+     [
+      {
+       "t": "sort",
+       "p": "Short-term or long-term memory?",
+       "items": [
+        "a phone number you just heard",
+        "your name",
+        "how to ride a cycle",
+        "what someone said a second ago",
+        "your best friend's face",
+        "a list you read once"
+       ],
+       "cats": [
+        "short-term",
+        "long-term"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "When did you forget fastest in the forgetting test?",
+       "opts": [
+        "soon after learning",
+        "after a week",
+        "never"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "What helps a memory last?",
+       "opts": [
+        "practising it again after a gap, and sleeping",
+        "learning it once very fast",
+        "never thinking about it"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "During ____ , the brain replays and strengthens the day's memories.",
+       "a": [
+        "sleep"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Use the story of the path to explain why practising a little every day works better than practising a lot once.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Other minds",
+     [
+      {
+       "t": "match",
+       "p": "Match the animal to its clever trick.",
+       "pairs": [
+        [
+         "New Caledonian crow",
+         "bends twigs into hooks"
+        ],
+        [
+         "octopus",
+         "most of its neurons are in its arms"
+        ],
+        [
+         "bumblebee",
+         "rolls balls, perhaps for play"
+        ],
+        [
+         "slime mould",
+         "finds the shortest path through a maze, with no brain"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Do we know for sure?",
+       "items": [
+        "octopuses have neurons in their arms",
+        "crows make tools",
+        "what it feels like to be a bee",
+        "whether a slime mould 'thinks'",
+        "the brain uses a lot of energy"
+       ],
+       "cats": [
+        "known",
+        "still unknown or argued"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Do you think a bee can feel happy? What evidence would help you decide?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Big brain puzzles",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "The ruler-drop test: catching at 10 cm is faster than catching at 20 cm. Who has the faster reaction time?",
+       "opts": [
+        "the one who caught at 10 cm",
+        "the one who caught at 20 cm",
+        "they're the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Herculano-Houzel counted about 86 billion neurons. What did that show about the old '100 billion' figure?",
+       "opts": [
+        "it had never been properly counted",
+        "it was exactly right",
+        "brains shrink"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Something good that is also bad: what's a downside of the brain's 'best guesses'?",
+       "opts": [
+        "they can fool us, as in illusions and the gorilla video",
+        "they make us slower than a computer at everything",
+        "there is no downside"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Brain fact or myth?",
+       "items": [
+        "we only use 10% of our brains",
+        "sleep helps memory",
+        "the brain builds what we see",
+        "attention is limited",
+        "some people are 'left-brained' and others 'right-brained'"
+       ],
+       "cats": [
+        "fact",
+        "myth"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Think it through",
+     [
+      {
+       "t": "write",
+       "p": "If your brain is always guessing, how could you check whether a memory is true?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Could a robot ever feel happy, or only act happy? How would we tell the difference?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Mary Calkins did all the work for a Harvard PhD but was refused the degree because she was a woman. She refused a 'second-best' degree instead. What would you have done, and why?",
+       "lines": 4
+      },
+      {
+       "t": "fill",
+       "p": "A thought, a feeling, a memory: none of them can be seen from outside. What it feels like to be you is called ____ experience.",
+       "a": [
+        "subjective"
+       ]
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Reflexes and the ruler drop",
+   "day": 3,
+   "question": "Which actions happen without deciding, and how fast can we react when we do decide?",
+   "need": [
+    "a 30 cm ruler",
+    "a chair",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Knee-jerk: your child sits on a high chair or table edge with legs dangling freely. Gently tap just below the kneecap with the side of your hand. Watch the lower leg kick. Ask: 'Did you decide to kick?'",
+    "Blink: hold a clear plastic sheet (or a clean window) in front of your child's face and gently toss a soft cotton ball at it. Do they blink, even knowing it can't touch them?",
+    "Ruler drop: hold a 30 cm ruler vertically, with the 0 cm end just between your child's open thumb and finger (not touching). Without warning, drop it. They catch it as fast as they can. Read the number where they caught it.",
+    "Do the ruler drop 5 times and write each number. Then swap roles.",
+    "Try once with eyes closed while you say 'now' as you drop (testing hearing instead of seeing)."
+   ],
+   "predict": "Ask: 'Will you be able to stop your leg kicking? How far will the ruler fall before you catch it?'",
+   "observe": "The leg kicks and the eyes blink without deciding. In the ruler drop, children typically catch it somewhere around 10–25 cm; scores often improve with practice.",
+   "why": "The knee-jerk and blink are reflexes: the message goes from the sense to the spinal cord or lower brain and straight back to the muscle, without waiting for the thinking brain. The ruler drop is a reaction: your eye sees the ruler move, the message travels to the brain, the brain decides and sends a message down to the fingers. The further the ruler falls, the longer it took (about 15 cm is about one-sixth of a second). Messages in neurons are fast, but not instant.",
+   "safety": "Tap the knee gently with the side of the hand only. Use only a soft cotton ball for the blink test, never anything hard.",
+   "time": "20 min"
+  },
+  {
+   "id": "e2",
+   "title": "The forgetting test",
+   "day": 2,
+   "question": "How fast do we forget, and does reviewing help?",
+   "need": [
+    "paper",
+    "the 10 word pairs below, written on a card"
+   ],
+   "steps": [
+    "Write 10 pairs of made-up words, for example: bim–tolo, zak–mepu, raf–siku, dov–lati, kep–yuno, mib–rasa, tuz–polo, gan–weki, lor–famu, vix–dobe.",
+    "Your child studies the list for 5 minutes, saying each pair aloud.",
+    "Test after 10 minutes: say the first word, your child says the partner. Write the score out of 10.",
+    "Test again on Day 3 (1 day later) without showing the list.",
+    "Test on Day 5 (3 days later), then show the list once to review.",
+    "Test once more on Day 6. Draw a graph of all the scores."
+   ],
+   "predict": "Ask: 'How many will you remember tomorrow? In three days?'",
+   "observe": "Most children remember many pairs at first, forget a lot by the next day, and forget more slowly after that. The review usually brings the score back up and makes it last longer.",
+   "why": "In 1885, Hermann Ebbinghaus tested himself with nonsense syllables and found the 'forgetting curve': we forget fastest soon after learning, then more slowly. Each time we review after a gap, the memory gets stronger and fades more slowly. This is called spaced practice, and it works for spellings, tables and music. Made-up words are used so that nobody has an advantage from already knowing them.",
+   "safety": "",
+   "time": "15 min, then 5 min on four later days"
+  },
+  {
+   "id": "e3",
+   "title": "Find your blind spot",
+   "day": 4,
+   "question": "Can we see everything in front of us?",
+   "need": [
+    "a white card about 15 cm long",
+    "a black pen"
+   ],
+   "steps": [
+    "Draw a small X on the left of the card and a dot about 8 cm to its right.",
+    "Hold the card at arm's length. Close your left eye and look at the X with your right eye.",
+    "Keep looking at the X and slowly bring the card towards your face.",
+    "At one point, the dot vanishes! Keep going and it comes back.",
+    "Try drawing a line across the card through the dot. When the dot vanishes, what does the line look like where it was?"
+   ],
+   "predict": "Ask: 'Will you see the dot the whole time?'",
+   "observe": "The dot disappears at about 20–30 cm from the face. The line looks unbroken, as if the brain painted it in.",
+   "why": "At the back of each eye, where the nerve to the brain leaves, there are no light sensors, so you are blind to a small patch. You never notice because your other eye covers it and, even with one eye, your brain fills the gap with whatever is around it. What you 'see' is partly built by your brain. Octopuses don't have this blind spot, because their eyes are wired the other way round.",
+   "safety": "",
+   "time": "10 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Time journal",
+   "day": 1,
+   "mins": 12,
+   "need": [
+    "a small notebook",
+    "pencil and glue"
+   ],
+   "steps": [
+    "Every evening, your child writes or draws three things that happened today.",
+    "They add one feeling from the day and what caused it.",
+    "They stick in one small thing: a ticket, a leaf, a sweet wrapper, a tiny drawing.",
+    "They write the time and the weather.",
+    "On Day 6, they read the whole week and tell it backwards as 'the story of yesterday'."
+   ],
+   "outcome": "A week of memories kept outside the head, and a sense of how quickly memories fade without them."
+  },
+  {
+   "id": "a2",
+   "title": "The neuron squeeze",
+   "day": 2,
+   "mins": 10,
+   "need": [
+    "at least 3 people (more is better)",
+    "a timer with seconds"
+   ],
+   "steps": [
+    "Everyone sits in a line or circle holding hands. Each person is a neuron; the hands are synapses.",
+    "The first person starts the timer and squeezes the next person's hand. Each person squeezes the next as soon as they feel it. The last person says 'Done!'.",
+    "Time it. Do it three times. Does it get faster with practice?",
+    "Now try passing the message by saying 'go' instead of squeezing. Faster or slower?",
+    "Ask: 'In the real body, messages travel up to about 100 metres a second in the fastest nerves. How long would our message take if each of us was a real neuron?' (A tiny fraction of a second.)"
+   ],
+   "outcome": "A felt sense that messages travel from neuron to neuron, and that practice makes the chain faster."
+  }
+ ],
+ "project": {
+  "title": "My time journal and memory graph",
+  "days": [
+   1,
+   6
+  ],
+  "steps": [
+   "Keep the time journal every evening from Day 1 to Day 6.",
+   "Keep the forgetting-test scores and draw the graph on Day 6.",
+   "On Day 6, tell the story of the week backwards.",
+   "Make a small poster: 'How my memory works', with the forgetting graph, one page of the journal, and three tips for remembering (practise after a gap, make a picture or story, sleep).",
+   "Show it to the family on Day 8."
+  ],
+  "outcome": "A week of real memory data about your own brain, and three tips you discovered yourself."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Brain Detectives",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors",
+   "the printed cards"
+  ],
+  "rules": [
+   "Cut out and shuffle the cards; put them face down.",
+   "Take turns: pick a card, read it aloud, and answer it. Say how you know.",
+   "A right answer with a reason wins the card.",
+   "'DO IT' cards are challenges: do them and win the card if the others agree.",
+   "Most cards at the end wins, but the winner must teach one card to everyone."
+  ],
+  "cards": [
+   {
+    "front": "What are the brain's message-carrying cells called?",
+    "back": "Neurons."
+   },
+   {
+    "front": "About how many neurons are in a human brain?",
+    "back": "About 86 billion."
+   },
+   {
+    "front": "What is a synapse?",
+    "back": "The tiny gap where one neuron passes its message to the next."
+   },
+   {
+    "front": "DO IT: show a reflex.",
+    "back": "Blink at a cotton ball or the knee-jerk."
+   },
+   {
+    "front": "Why do you have a blind spot?",
+    "back": "Where the nerve leaves the eye there are no light sensors; the brain fills in the gap."
+   },
+   {
+    "front": "What is an illusion?",
+    "back": "When the brain's best guess is fooled, like two equal lines that look different."
+   },
+   {
+    "front": "What is attention like?",
+    "back": "A spotlight: we notice what's in it and miss much outside it."
+   },
+   {
+    "front": "Name the difference between short-term and long-term memory.",
+    "back": "Short-term holds a few things briefly; long-term keeps things for years, made stronger by practice."
+   },
+   {
+    "front": "When do we forget fastest?",
+    "back": "Soon after learning (the forgetting curve)."
+   },
+   {
+    "front": "How does sleep help memory?",
+    "back": "The brain replays and strengthens the day's memories while we sleep."
+   },
+   {
+    "front": "DO IT: remember these four in order: mango, kite, seven, blue. (Another player checks after the next card.)",
+    "back": "Use a silly picture to help."
+   },
+   {
+    "front": "Where are most of an octopus's neurons?",
+    "back": "In its arms."
+   },
+   {
+    "front": "Which bird bends twigs into hooks?",
+    "back": "The New Caledonian crow."
+   },
+   {
+    "front": "What found the shortest path through a maze with no brain at all?",
+    "back": "A slime mould (Nakagaki, 2000)."
+   },
+   {
+    "front": "Who invented the word-pairs memory test and was refused a Harvard PhD?",
+    "back": "Mary Whiton Calkins."
+   },
+   {
+    "front": "True or false: we use only 10% of our brains.",
+    "back": "False: brain scans show we use all of it, just not all at once."
+   },
+   {
+    "front": "DO IT: move only your left big toe.",
+    "back": "Done if nothing else moves!"
+   },
+   {
+    "front": "Can anyone else see your 'red'?",
+    "back": "No: what it feels like to be you is subjective experience, and nobody knows how the brain makes it."
+   }
+  ]
+ },
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Suzana Herculano-Houzel (born 1972), Brazil",
+   "idea": "Textbooks long said the human brain has 100 billion neurons, but nobody had actually counted them. Herculano-Houzel invented a way: she dissolved brain tissue into a 'soup' in which the cell nuclei float free, mixed it well, and counted the nuclei in tiny samples under a microscope. In 2009 she and colleagues reported that an adult human brain has about 86 billion neurons.",
+   "then": "Her method was new and some scientists were doubtful at first, but it was checked and adopted by other labs.",
+   "now": "Her count is now widely used. She also found that the human brain is in many ways a scaled-up primate brain, not a strange exception, and that cooking food may have helped our ancestors afford such an energy-hungry organ. The 100 billion figure is still repeated in many books.",
+   "status": "accepted",
+   "ask": "Everyone repeated '100 billion' for years without checking. What else might 'everybody knows' that nobody ever counted?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Mary Whiton Calkins (1863–1930), USA",
+   "idea": "Calkins studied psychology at Harvard in the 1890s but, as a woman, was only allowed to attend as a guest. She invented the 'paired associates' method: learning pairs like a colour and a number and testing recall, which became one of the basic tools of memory research. She passed all the requirements for a Harvard PhD in 1895, and her examiners, including the famous William James, praised her highly.",
+   "then": "Harvard refused to give her the degree because she was a woman. It later offered her a degree from Radcliffe, its women's college, which she refused, as she had not studied there.",
+   "now": "She became the first woman president of the American Psychological Association (1905) and of the American Philosophical Association (1918). She never received the PhD. Her paired-associates method is still used. Some people have asked Harvard to award her degree after her death; it has not done so.",
+   "status": "accepted",
+   "ask": "Calkins refused the 'second-best' degree. Was that brave, stubborn, or both? What would you have done?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Jagadish Chandra Bose (1858–1937), India, and Toshiyuki Nakagaki, Japan: does thinking need a brain?",
+   "idea": "Around 1900–1920, Bose built very sensitive instruments, like his crescograph, and showed that plants respond to touch, heat and chemicals with electrical signals, and that anaesthetics dampen those responses, much as in animals. In 2000, Nakagaki and colleagues put a slime mould, a single giant cell with no brain or neurons, in a maze with food at two exits; it grew along the shortest route between them.",
+   "then": "Bose's electrical measurements impressed scientists, but his claims that plants have something like feelings or a nervous system were widely doubted. Nakagaki's maze result was published in the journal Nature and was widely reported.",
+   "now": "Both findings are accepted: plants do signal electrically, and slime moulds do solve such problems. Whether to call it 'thinking', 'feeling' or 'memory' is a live debate. Scientists like Michael Levin and Pamela Lyon argue that sensing, deciding and remembering began in single cells long before neurons ('basal cognition'); others say those words should be kept for animals with nervous systems. Note: a slime mould is not a bacterium.",
+   "status": "debated",
+   "ask": "If something with no brain can solve a maze, is it thinking? What would you need to see to decide?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Daniel Simons and Christopher Chabris, USA (1999): the invisible gorilla",
+   "idea": "In 1999 Simons and Chabris asked people to watch a short film of players passing basketballs and count the passes made by one team. Partway through, a person in a gorilla suit walks into the middle, thumps their chest and walks off. About half the viewers didn't notice the gorilla at all.",
+   "then": "The result surprised many people, including psychologists, and became one of the most famous experiments about attention, called 'inattentional blindness'.",
+   "now": "It has been repeated many times, in many versions. It shows that attention is limited and that we are often unaware of what we miss, and it matters for things like road safety (drivers who are busy with phones miss people crossing). How many people miss it depends on how hard the task is.",
+   "status": "accepted",
+   "ask": "If you can miss a gorilla, what else might you be missing right now? How would you ever find out?",
+   "day": 5
+  }
+ ],
+ "story": {
+  "title": "The Path Through the Long Grass",
+  "text": [
+   "I am a path. I wasn't always one. Two years ago I was only grass, a field of tall grass behind the village in the hills, between Noor's house and her uncle Ghulam's house on the other side. Then Noor started walking across me.",
+   "The first time she came, the grass stood up tall all around her, up to her shoulders, and she pushed through it, and behind her the grass sprang back up as if she had never been. The second time, a few blades stayed bent. The third time, a few more. You can't see a path being made, not on one day. But every time a foot comes the same way, a little more of the grass forgets how to stand up, and a little more of the earth gets pressed flat and hard.",
+   "By the end of that first summer, I was there. A thin brown line through the green, from Noor's back door to Ghulam Chacha's gate. I was quite proud of myself. Paths are made by walking, and I had been well walked.",
+   "Ghulam Chacha played the flute. Every evening when the light went gold, you could hear it from the field, a long, wavering sound like water running over stones. Noor wanted to play it more than she had ever wanted anything. So that winter he cut her a small flute from a piece of bamboo and showed her where to put her fingers, and every evening she came across me to learn.",
+   "She was very bad at it. I say that kindly. Paths are patient and we don't mind slowness. But at first the flute only made a sound like a kettle, or no sound at all, and Noor stamped her feet on me on the way home and said she would never learn.",
+   "Then she learned one note. Then three. Then Ghulam Chacha taught her a tune his own father used to play at weddings, a tune with a hard part in the middle where the fingers had to move quickly, lift, lift, press, lift, all in a row. And there she got stuck.",
+   "Every evening she tried the hard part, and every evening her fingers tangled. She came home across me muttering, \"lift, lift, press, lift,\" in the dark. I could feel her feet getting heavier every night.",
+   "One evening in spring she came out of Chacha's gate crying. She sat down right in the middle of me, in the dark, with the flute in her lap.",
+   "\"My fingers won't remember,\" she said to nobody. \"I do it right once, and then it's gone.\"",
+   "I wished I could tell her. I know about remembering. I'm made of it.",
+   "Here is the thing about a path. The first walk doesn't make it. The tenth doesn't. A path is made by walking the same way again and again, with a little time between, so the grass has time to bend and the earth has time to settle. And the strange part, the part nobody sees, is that a lot of the path-making happens when nobody is walking at all. At night. When the field is quiet and the dew comes down and the earth sinks into the shape the feet have pressed.",
+   "Noor sat on me for a long time. Then she wiped her face, got up and went home, and the light went off in her window, and she slept.",
+   "I lay in the dark with the shape of her footsteps on me, settling.",
+   "The next morning she didn't take the flute to Chacha's. She sat on her back step in the early sun and, without really thinking, the way you hum when you're not trying, she put the flute to her lips and began the tune. She came to the hard part. And her fingers went lift, lift, press, lift, all in a row, as if they had always known.",
+   "She stopped. She stared at her fingers as if they belonged to somebody else.",
+   "Then she played it again. Lift, lift, press, lift.",
+   "Then she ran. She ran across me so fast her feet hardly touched, all the way to Ghulam Chacha's gate, shouting his name, and he came out with his tea in his hand, and she played it for him, the whole tune, hard part and all, standing at the gate in the morning light.",
+   "Chacha didn't say anything for a while. Then he said, \"Where did you learn that? Last night you couldn't do it.\"",
+   "\"I don't know,\" said Noor. \"I just woke up and it was there.\"",
+   "\"Ah,\" said Chacha, and he smiled, and drank his tea. \"Then you learned it last night.\"",
+   "I didn't say anything. Paths can't. But I knew exactly what he meant.",
+   "Noor plays at weddings now. When she comes across me in the evenings I can feel how sure her feet are. The grass on either side of me is tall again, and there are other paths now in the field, thin new ones, where other children walk to other places.",
+   "Some of them are only a few blades bent. They'll get there."
+  ],
+  "epiphany": "Memories are made like paths: the same connections between neurons are used again and again, with time in between, until they become strong; and much of the strengthening happens during sleep. The turn is Noor waking up able to play the hard part, and Ghulam Chacha's line: 'Then you learned it last night.' Underneath: patience with slowness, and the idea that a mind, like a field, is shaped by what we do with it every day.",
+  "ask": [
+   "How did the path get made? Could one walk make it?",
+   "Why did Noor think her fingers wouldn't remember?",
+   "What happened while Noor slept?",
+   "What did Ghulam Chacha mean when he said 'Then you learned it last night'?",
+   "What 'paths' are you making in your brain right now?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Your brain builds your world; it doesn't just record it.",
+   "more": "The blind spot, illusions and the invisible gorilla show the brain filling in, guessing and leaving out. What you see is a brilliant best guess. So checking, measuring and asking others matter."
+  },
+  {
+   "idea": "Memories are paths made by walking them.",
+   "more": "Each time you practise, the same neurons fire together and their connections strengthen. Practice after a gap and sleep make the path deep. Use the forgetting graph and the story."
+  },
+  {
+   "idea": "Minds may be everywhere in nature, in many forms.",
+   "more": "Crows make tools, octopuses think with their arms, bees may play, and even a brainless slime mould solves a maze. Whether all of this counts as 'thinking' is a real debate, and a question humans may have been too quick to answer in our own favour."
+  }
+ ],
+ "unknowns": [
+  "How does a brain, made of cells and chemicals, produce what it feels like to be you? This is sometimes called the 'hard problem', and nobody has solved it.",
+  "Exactly how and where memories are stored, and why some last a lifetime while others vanish, is still being worked out.",
+  "Do insects, octopuses or fish feel anything? Scientists are finding more and more signs that they might, but nobody knows for sure."
+ ],
+ "big": [
+  "Are you your brain, or something more?",
+  "If your brain is always guessing, what is real?",
+  "Can something without a brain think?",
+  "Could a computer ever feel?",
+  "If you forgot everything that ever happened to you, would you still be you?"
+ ],
+ "challenge": [
+  {
+   "q": "'We only use 10% of our brains.'",
+   "hint": "False. Brain scans show activity all over the brain; different parts are busy at different times, and even in sleep the whole brain is active. Nobody knows exactly where the myth came from. Ask: why do people like to believe we have a hidden 90%?"
+  },
+  {
+   "q": "'Some people are left-brained (logical) and some are right-brained (creative).'",
+   "hint": "The two halves of the brain do have some different specialities (for most people, language is mostly on the left), but large studies have not found that people use one side more than the other. Logic and creativity use both. Ask: what's good and bad about sorting people into two kinds?"
+  },
+  {
+   "q": "'Humans have the biggest brains, so we're the smartest animals.'",
+   "hint": "Elephants and sperm whales have much bigger brains than ours. Crows, with brains the size of a walnut, make tools. Herculano-Houzel found that what matters is more like how many neurons, and where, than size; and 'smart' means different things for different lives. Ask: smart at what?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "An octopus",
+   "view": "With most of its neurons in its arms, an octopus may experience the world through eight semi-independent explorers that taste what they touch. Ask: what would it be like to think with your fingers?"
+  },
+  {
+   "who": "A meditating monk, or anyone practising dharana (attention) in yoga",
+   "view": "Patanjali's Yoga Sutras, an old Indian text, describe training attention to rest on one thing. Today scientists study whether such practice changes attention; results are promising but still debated. Ask: can you train your spotlight?"
+  },
+  {
+   "who": "A grandparent with fading memory",
+   "view": "When someone loses memories, are they still the same person? Families often say the person is still there in their laugh, their kindness, their songs. Ask: what part of a person is not in their memories?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Your Fantastic Elastic Brain: Stretch It, Shape It",
+   "author": "JoAnn Deak",
+   "for": "read together",
+   "age": "5–9",
+   "why": "How the brain changes as we learn and make mistakes."
+  },
+  {
+   "title": "The Brain Is Kind of a Big Deal",
+   "author": "Nick Seluk",
+   "for": "read together",
+   "age": "6–10",
+   "why": "A funny comic tour of the brain and what it does."
+  },
+  {
+   "title": "Wilfrid Gordon McDonald Partridge",
+   "author": "Mem Fox",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A small boy helps an old friend find her lost memories through objects."
+  },
+  {
+   "title": "Other Minds: The Octopus and the Evolution of Intelligent Life",
+   "author": "Peter Godfrey-Smith",
+   "for": "parent reads",
+   "age": "adult; read parts aloud",
+   "why": "A philosopher-diver on what it might be like to be an octopus."
+  }
+ ],
+ "check": [
+  {
+   "q": "What are neurons and how do they send messages?",
+   "a": "Nerve cells that pass tiny electric pulses along themselves and chemicals across the gaps (synapses)."
+  },
+  {
+   "q": "What is a reflex? Give an example.",
+   "a": "A quick action without deciding, e.g. the knee-jerk or blinking."
+  },
+  {
+   "q": "What does the blind spot show about seeing?",
+   "a": "The brain fills in gaps: what we see is partly built by the brain."
+  },
+  {
+   "q": "Why did many people miss the gorilla?",
+   "a": "Attention is like a spotlight; we miss what's outside it."
+  },
+  {
+   "q": "What did your forgetting test show, and how can you remember better?",
+   "a": "We forget fastest soon after learning; practise after a gap, make pictures, and sleep."
+  },
+  {
+   "q": "Name an animal with a surprising mind, and what it does.",
+   "a": "e.g. crows make hooks; octopus thinks with its arms; bees roll balls."
+  },
+  {
+   "q": "Does thinking need a brain? Give one reason for and one against.",
+   "a": "For: slime moulds solve mazes, cells sense and decide. Against: maybe 'thinking' should mean something only nervous systems do."
+  }
+ ]
+}

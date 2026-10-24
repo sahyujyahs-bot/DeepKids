@@ -1,0 +1,244 @@
+{
+ "key": "combined|sci|3|kinds-of-living-things-and-sorting-them",
+ "board": "combined", "subj": "sci", "level": 3, "n": "kinds-of-living-things-and-sorting-them",
+ "title": "Sorting living things: questions, keys and the tree of life",
+ "source": "DeepKids Combined. Covers Cambridge Stage 3 Biology, Sorting living things (Unit 3.5): sorting living things into groups using questions, keys for minibeasts and leaves. Goes wider: vertebrates and invertebrates, the kingdoms (plants, animals, fungi, microbes), scientific names, other cultures' ways of sorting, why sorting is a human choice, and the tree of life. No textbook needed.",
+ "summary": "Your child already knows mammals, birds, fish, reptiles, amphibians and insects. Now they learn how scientists sort any living thing: by asking good yes-or-no questions about features you can see, and building branching keys that let anyone name a minibeast or a leaf. They grow bread mould beside a seed to prove that fungi are not plants, meet the two-part scientific names, compare the scientists' groups with a 2,000-year-old Tamil way of sorting life by its senses, and discover that all the groups are branches of one family tree, a tree that scientists keep redrawing as they learn more.",
+ "builds_on": "Class 2: comparing animals; mammals, birds, fish, reptiles, amphibians, insects and spiders; animals that break the rules; every animal is unique. Class 1 and 3: living and non-living things, plants and their parts. In Class 4 your child goes on a nature trail to study the variety of plants and animals, how their features fit their lives, and the web of life that connects them. Later: evolution and the tree of life in more depth.",
+ "goals": [
+  "By the end your child can sort living things into groups using features they can observe, and explain their groups.",
+  "By the end your child can write good yes-or-no sorting questions and use and build a branching key for minibeasts and leaves.",
+  "By the end your child can name the main groups of living things (plants, animals, fungi, microbes) and say why a mushroom is not a plant.",
+  "By the end your child can sort animals into vertebrates and invertebrates.",
+  "By the end your child can explain that groups are chosen by people for a purpose, and give two different ways of sorting the same living things.",
+  "By the end your child can explain that all living things are related, like branches of one tree, and that scientists change the tree as they learn."
+ ],
+ "words": [
+  ["classify", "to sort things into groups by what they share"],
+  ["feature", "something you can observe about a living thing, like six legs or net veins"],
+  ["key", "a set of yes-or-no questions that leads you to the name of a living thing"],
+  ["vertebrate", "an animal with a backbone"],
+  ["invertebrate", "an animal without a backbone"],
+  ["kingdom", "one of the biggest groups of living things, like plants, animals or fungi"],
+  ["fungi", "mushrooms, moulds and yeasts: living things that feed by breaking down food outside their bodies"],
+  ["microbe", "a living thing too small to see without a microscope"],
+  ["species", "one kind of living thing, whose members can have young together"],
+  ["scientific name", "a two-part name used by scientists everywhere, like Panthera tigris for the tiger"],
+  ["tree of life", "a family tree showing how all living things are related"]
+ ],
+ "subconcepts": [
+  "why we sort: to find, name, share and understand",
+  "sorting by features you can observe",
+  "good sorting questions: yes-or-no, about features anyone can check",
+  "branching keys for minibeasts",
+  "sorting leaves by shape, edge and veins",
+  "vertebrates and invertebrates",
+  "the kingdoms: plants, animals, fungi, microbes",
+  "fungi are not plants",
+  "species and two-part scientific names",
+  "other ways of sorting: by use, by taste, by number of senses",
+  "sorting is a human choice; nature has blurry edges",
+  "the tree of life: all living things are related",
+  "three domains: bacteria, archaea and us",
+  "branches that joined: mitochondria and chloroplasts were once bacteria"
+ ],
+ "day_mins": 40,
+ "days": [
+  {"n": 1, "title": "Why do we sort?", "goal": "Recall animal groups, find out why people sort, and start the mould test.",
+   "steps": [
+    {"kind": "warmup", "title": "Remember the museum", "mins": 5, "do": "Recall Class 2 quickly. Ask: 'What makes a mammal? A bird? An insect?' (Fur and milk; feathers and beak; six legs.) 'Why is a bat a mammal?' (Fur and milk, even though it flies.) Then ask: 'If you found an animal nobody had ever seen, how would you decide its group?' Say: 'Today we learn how scientists sort anything alive.'"},
+    {"kind": "act", "title": "Sort the button tin", "mins": 12, "do": "Do Activity a1: tip out a box of mixed buttons, bottle caps or bindis. Your child sorts them, then sorts them again a different way. Ask: 'Which way would help if you needed a button for a shirt? Which way would help if you were counting colours for a painting?' Say: 'The best way to sort depends on why you're sorting.' Then ask: 'Why do you think shops sort things into sections? Why would scientists sort living things?' (To find them, name them, talk about them, and understand how they're related.)", "ref": "a1"},
+    {"kind": "exp", "title": "Set up the mould test", "mins": 15, "do": "Set up Experiment e1: a piece of damp bread in one sealed bag and a soaked moong seed on damp cotton in another, both in a dark cupboard. Ask: 'Mould grows on old bread, and plants grow from seeds. In the dark, which will grow? What does each one eat?' Your child writes a prediction.", "ref": "e1"},
+    {"kind": "talk", "title": "Good and bad questions", "mins": 8, "do": "Play a quick game: think of an animal; your child asks yes-or-no questions to find it. Afterwards, sort the questions they used: good ones are about features anyone can check ('Does it have six legs?', 'Does it have feathers?'); weak ones depend on opinion ('Is it pretty?', 'Is it big?' Big compared to what?). Say: 'Scientists use questions anyone in the world would answer the same way.'"}
+   ],
+   "need": ["a box of mixed buttons, caps or bindis", "2 sealed food bags or jars with lids, a slice of bread, a soaked moong seed, cotton", "a notebook"],
+   "prep": [{"task": "Soak a few moong seeds overnight", "when": "night before"}]},
+  {"n": 2, "title": "Two ways to sort a forest", "goal": "Hear the story and compare sorting by use with sorting by flowers.",
+   "steps": [
+    {"kind": "read", "title": "Story: The Boy Who Sorted in the Dark", "mins": 12, "do": "Read the story aloud. Don't explain it. Ask the story's questions, especially: 'How did Unni find the right plants when the labels were gone?'"},
+    {"kind": "talk", "title": "Itty Achuden and the great book", "mins": 10, "do": "Tell your child about voice v1: a Kerala healer whose knowledge of hundreds of plants went into a huge book printed in Amsterdam over 300 years ago. Ask: 'The healer sorted plants by what they do for the body. The Dutch artist sorted them by their flowers. Who was right?' (Both, for different purposes.) Then ask the voice's question.", "ref": "v1"},
+    {"kind": "do", "title": "Kitchen herbs, two ways", "mins": 13, "do": "Lay out leaves or spices from the kitchen: tulsi, mint, curry leaves, coriander, methi, ginger, haldi, ajwain, a chilli. First sort them by use, the way a cook or a vaidya might: for cough, for digestion, for flavour, for colour. Then sort them by what the plant looks like: leaf shape, smell, whether it is a leaf, root or seed. Ask: 'Did any two plants end up together both times?' (Tulsi and mint are both in the mint family and both used for coughs and flavour: sometimes uses follow family.)"},
+    {"kind": "review", "title": "Mould check", "mins": 5, "do": "Peep at the two bags of Experiment e1 without opening them. Write what you see. Ask: 'Has anything grown yet?'"}
+   ],
+   "need": ["kitchen leaves and spices", "the two bags"]},
+  {"n": 3, "title": "Keys: twenty questions on paper", "goal": "Use and build a branching key.",
+   "steps": [
+    {"kind": "act", "title": "A family key", "mins": 10, "do": "Make a key for the people in your home (or six toys). Start with one question that splits them into two groups ('Does this person wear glasses?'). Then ask a new question for each group, until every person is alone at the end of a branch. Draw it like an upside-down tree. Let another family member use the key to 'find' someone. Ask: 'Did the key work? Was any question unfair or unclear?'"},
+    {"kind": "act", "title": "Minibeast key", "mins": 15, "do": "Do Activity a2: use a ready key to name minibeasts, then build your own. Start with 'Does it have legs?' and 'Does it have more than six legs?' Ask your child to think of a question that splits ants from beetles, or spiders from woodlice.", "ref": "a2"},
+    {"kind": "ws", "title": "Groups and keys", "mins": 15, "do": "Do Worksheet ws1. Your child works through the key question on their own; help only with reading.", "ref": "ws1"}
+   ],
+   "need": ["paper and pens", "minibeast pictures or the cards from the game", "worksheet ws1"]},
+  {"n": 4, "title": "Sorting leaves", "goal": "Collect leaves, sort them by their features and make a leaf key.",
+   "steps": [
+    {"kind": "outdoor", "title": "Leaf collection", "mins": 12, "do": "Collect 10 different leaves from the ground or from common plants, with permission: neem, peepal, mango, banyan, hibiscus, bougainvillea, grass, banana (a strip), tulsi, a fern frond, a curry leaf. Look for differences: simple (one blade) or compound (many leaflets on one stalk, like neem and curry leaves); edges smooth, toothed or wavy; veins net or parallel; tip pointed or round."},
+    {"kind": "act", "title": "Leaf key", "mins": 18, "do": "Do Activity a3: spread the leaves out and sort them with yes-or-no questions: 'Is it made of many leaflets?', 'Are the veins parallel?', 'Is the edge toothed?', 'Does it have a long pointed tip?' (The peepal's 'drip tip' is famous.) Build a branching key on a big sheet, sticking each leaf at the end of its branch. Test it: someone else picks a leaf and uses only the key to find its name.", "ref": "a3"},
+    {"kind": "think", "title": "One leaf, many shapes", "mins": 5, "do": "Look at two leaves from the same tree: are they exactly the same? (No: size, shape and colour vary.) Ask: 'If no two leaves are the same, how can a key work?' (Keys use features that stay the same across a kind, like compound or parallel veins, not size.) 'Can you find a leaf the key can't sort?'"},
+    {"kind": "review", "title": "Mould check", "mins": 5, "do": "Look at the two bags of Experiment e1 without opening them, and draw what you see: the bread may have fuzzy spots; the moong has a pale shoot."}
+   ],
+   "need": ["10 different leaves", "a big sheet of paper and tape", "a hand lens"]},
+  {"n": 5, "title": "The big groups: kingdoms", "goal": "Meet the kingdoms, find out why fungi are not plants, and learn scientific names.",
+   "steps": [
+    {"kind": "review", "title": "Mould results", "mins": 8, "do": "Look at Experiment e1 through the sealed bags (never open the mould bag). Ask: 'Did the mould need light to grow?' (No.) 'What did it eat?' (The bread.) 'The moong grew in the dark too: what did it eat?' (Its own packed lunch, and it is pale and will die without light, because a plant must make its own food.) Say: 'Mould is a fungus. Fungi can't make food from sunlight. They grow threads into their food and digest it from outside. That's why fungi are a kingdom of their own, not plants.'"},
+    {"kind": "talk", "title": "The kingdoms", "mins": 10, "do": "Draw four big circles: plants (make their own food from sunlight; most are green; don't move about), animals (eat other living things; most move; most have senses and nerves), fungi (mushrooms, moulds, yeast: feed on dead or living things by digesting outside the body), microbes (bacteria and other tiny single-celled life, everywhere, including billions in and on you). Your child sorts picture cards or names into them: neem, cow, ant, mushroom, curd bacteria, yeast in idli batter, moss, you. Ask: 'Which circle has the most kinds?' (Microbes, by far; nobody knows how many.) Then split the animal circle: vertebrates (backbone) and invertebrates (no backbone). Ask: 'Which is bigger?' (Invertebrates: about 95 of every 100 kinds of animal.)"},
+    {"kind": "talk", "title": "Names that work everywhere", "mins": 8, "do": "Say: 'A tiger is bagh in Hindi, puli in Tamil and Malayalam, wagh in Marathi. A scientist in Japan or Brazil calls it Panthera tigris. Each living thing has a two-part name: the first part is its genus, a small family, and the second is its species. Lions are Panthera leo, close cousins. You are Homo sapiens.' Ask: 'Why might scientists want one name for everyone? What might be lost if we forgot the local names?' (Local names often carry knowledge: what the plant is for, where it grows.)"},
+    {"kind": "think", "title": "Sorting by senses", "mins": 14, "do": "Say: 'About 2,000 years ago, a Tamil book of grammar called the Tolkappiyam sorted living beings in a completely different way: by how many senses they have. Plants and grass have one sense, touch. Snails have two, touch and taste. Ants have three, adding smell. Crabs and bees four, adding sight. Larger animals five, adding hearing. And humans six, adding the mind. Jain thinkers in India sorted life by senses too, and tried to harm as few beings as possible.' Make the six groups on paper and let your child sort animals into them. Ask: 'What does this way of sorting help people notice that the kingdoms don't?' (That every being senses its world.) 'Do you agree that plants have only one sense?' (Plants also sense light, gravity and chemicals; scientists might add more.)"}
+   ],
+   "need": ["the two bags", "paper and pens", "picture cards or names of living things"]},
+  {"n": 6, "title": "The tree of life", "goal": "See that all the groups are branches of one family tree.",
+   "steps": [
+    {"kind": "warmup", "title": "Your family tree", "mins": 6, "do": "Draw a quick family tree: your child, their siblings or cousins, parents, grandparents. Ask: 'You and your cousin share grandparents. Where on the tree do your branches join?' Say: 'Scientists think every living thing on Earth has a family tree too, all joined if you go back far enough.'"},
+    {"kind": "act", "title": "Draw the tree of life", "mins": 14, "do": "Do Activity a4: draw a big tree. Near the bottom, the trunk splits three ways: bacteria, archaea, and the branch with nuclei in their cells (which grows into plants, fungi and animals, and many tiny single-celled beings). Along the animal branch, mark where backbones begin, then fish, amphibians, reptiles and birds, mammals and, on one small twig at the tip, humans. Ask: 'Are fungi closer to plants or to animals?' (To animals!) 'Which branch is at the top?' (None: every branch alive today has been growing just as long. The tree has no top.)", "ref": "a4"},
+    {"kind": "talk", "title": "Carl Woese's new branch", "mins": 8, "do": "Tell your child about voice v2. Ask: 'Woese found a whole branch of life by reading the chemistry inside cells instead of looking at their shapes. What does that tell us about sorting by what we can see?' Then ask the voice's question.", "ref": "v2"},
+    {"kind": "act", "title": "The swallowed bacterium", "mins": 12, "do": "Tell your child about voice v3, then act it out. One person is a big cell (arms out in a circle); another is a small bacterium that is good at using oxygen. The big cell 'swallows' the bacterium (it steps inside the arms) but doesn't digest it; they make a deal: shelter for energy. Say: 'Lynn Margulis argued that this really happened, about two billion years ago. The bacterium became the mitochondria in every one of your cells. Another swallowed bacterium, one that used sunlight, became the green chloroplasts in every leaf.' Ask: 'So is the tree of life only branching apart, or do branches sometimes grow together?'", "ref": "v3"}
+   ],
+   "need": ["a big sheet of paper and crayons"]},
+  {"n": 7, "title": "When nature won't fit the boxes", "goal": "Meet living things that break the groups, and decide whether sorting is a fact or a choice.",
+   "steps": [
+    {"kind": "talk", "title": "Rule breakers", "mins": 10, "do": "Show or describe: Euglena, a single cell in pond water that swims like an animal and makes food from sunlight like a plant; a lichen on a wall or tree bark, which is a fungus and an alga (or a bacterium) living as one; a sea anemone that looks like a flower but is an animal; a virus, which can't do anything at all outside a living cell. Look for lichens (crusty grey-green or orange patches) on walls and trees. Ask for each: 'Which box does it go in? Do we need a new box, or a different way of thinking about boxes?'"},
+    {"kind": "game", "title": "Key Detectives", "mins": 13, "do": "Play the card game (g1). The asker must use only good yes-or-no questions about features; if a question depends on opinion, it doesn't count.", "ref": "g1"},
+    {"kind": "ws", "title": "Sort it, key it", "mins": 12, "do": "Do Worksheet ws2. It asks your child to use keys and groups on new living things.", "ref": "ws2"},
+    {"kind": "think", "title": "Fact or choice?", "mins": 5, "do": "Ask: 'Is it a fact that a bat is a mammal, or a choice?' Help your child see both: that the bat has fur and milk is a fact; that we decided to make 'fur and milk' the rule for a group is a choice, a very useful one, because it matches the family tree. Then ask: 'What groups do people put other people into? Are those facts or choices?' Leave it open."}
+   ],
+   "need": ["a hand lens", "the printed cards", "worksheet ws2"]},
+  {"n": 8, "title": "Teach it back", "goal": "Show the keys and the tree, and explain how and why we sort living things.",
+   "steps": [
+    {"kind": "do", "title": "Project: our key book", "mins": 12, "do": "Finish the project: put together the family key, the minibeast key, the leaf key and the tree of life into a small 'key book' with a cover. Your child writes one page: 'Sorting is useful because… but nature…'"},
+    {"kind": "check", "title": "Teach it back", "mins": 15, "do": "Your child teaches the family: what makes a good sorting question, how to use the leaf key (a family member tries it), the kingdoms and why a mushroom is not a plant, and the tree of life. Then ask the check questions."},
+    {"kind": "ws", "title": "Think like a taxonomist", "mins": 13, "do": "Do Worksheet ws3. Give time for the written answers: there are no single right answers to some of them, only good reasons.", "ref": "ws3"}
+   ],
+   "need": ["all the keys and the tree", "a stapler or string", "worksheet ws3"]}
+ ],
+ "worksheets": [
+  {"id": "ws1", "tier": "core", "title": "Groups and keys", "day": 3, "sections": [
+   ["A. Good questions", [
+    {"t": "sort", "p": "Is it a good sorting question (anyone would answer it the same way) or a weak one?", "items": ["Does it have six legs?", "Is it pretty?", "Does it have feathers?", "Is it scary?", "Does it have a backbone?", "Is it big?"], "cats": ["good question", "weak question"]},
+    {"t": "mcq", "p": "Which question splits a crow from a cow?", "opts": ["Does it have eyes?", "Does it have feathers?", "Is it alive?"], "a": 1}]],
+   ["B. Use the key", [
+    {"t": "table", "p": "Use this key. 1: Does it have legs? No: earthworm. Yes: go to 2. 2: Does it have more than 6 legs? No: go to 3. Yes: go to 4. 3: Does it have hard wing cases? Yes: beetle. No: ant. 4: Does it have 8 legs? Yes: spider. No: woodlouse. Write the questions you answered for each animal.", "cols": ["Animal", "Questions answered", "Name"], "rows": 4, "prefill": ["no legs", "6 legs, hard wing cases", "6 legs, no wing cases", "8 legs"]},
+    {"t": "mcq", "p": "Using the key above, an animal with 14 legs is a…", "opts": ["spider", "woodlouse", "beetle"], "a": 1}]],
+   ["C. Vertebrate or invertebrate?", [
+    {"t": "sort", "p": "Backbone or no backbone?", "items": ["frog", "snail", "parrot", "spider", "rohu fish", "earthworm", "cobra", "butterfly"], "cats": ["vertebrate", "invertebrate"]},
+    {"t": "fill", "p": "An animal without a backbone is called an ____.", "a": ["invertebrate"]},
+    {"t": "write", "p": "Write a good question that would split a spider from an ant. Why is it a good question?", "lines": 2},
+    {"t": "write", "p": "Why do scientists use questions about features, and not about whether an animal is useful to us?", "lines": 3}]]]},
+  {"id": "ws2", "tier": "stretch", "title": "Sort it, key it", "day": 7, "sections": [
+   ["A. Kingdoms", [
+    {"t": "sort", "p": "Which kingdom?", "items": ["mushroom", "neem tree", "ant", "yeast", "moss", "cow", "bread mould", "fern"], "cats": ["plant", "animal", "fungus"]},
+    {"t": "mcq", "p": "Why is a mushroom not a plant?", "opts": ["it is not green enough", "it can't make food from sunlight; it digests food from outside", "it is too small"], "a": 1},
+    {"t": "mcq", "p": "In our test, the mould grew in the dark. This shows that…", "opts": ["fungi need light", "fungi don't need light to feed", "mould is a plant"], "a": 1}]],
+   ["B. Names and trees", [
+    {"t": "match", "p": "Match the scientific name to the living thing.", "pairs": [["Homo sapiens", "human"], ["Panthera tigris", "tiger"], ["Panthera leo", "lion"], ["Mangifera indica", "mango"]]},
+    {"t": "mcq", "p": "Panthera tigris and Panthera leo share the first part of their names. This tells us…", "opts": ["they live in the same place", "they are close cousins in the same genus", "they are the same species"], "a": 1},
+    {"t": "mcq", "p": "On the tree of life, fungi are closer cousins of…", "opts": ["plants", "animals", "bacteria"], "a": 1}]],
+   ["C. Make a key", [
+    {"t": "write", "p": "Write a key with three questions that sorts these four: neem leaf (compound, net veins), grass (simple, parallel veins), mango leaf (simple, net veins, smooth edge), hibiscus leaf (simple, net veins, toothed edge).", "lines": 5},
+    {"t": "write", "p": "Euglena swims and also makes food from sunlight. Would you call it a plant, an animal or something else? Give your reason.", "lines": 3}]]]},
+  {"id": "ws3", "tier": "challenge", "title": "Think like a taxonomist", "day": 8, "sections": [
+   ["A. Big questions", [
+    {"t": "write", "p": "The Tolkappiyam sorted beings by how many senses they have. The scientists' tree sorts them by family. Choose one animal and say where it goes in each. What does each way of sorting help you notice?", "lines": 4},
+    {"t": "write", "p": "A lichen is a fungus and an alga living together as one. Which box should it go in? Is there a problem with the boxes, or with the lichen?", "lines": 3},
+    {"t": "write", "p": "Woese found a whole new branch of life that nobody had noticed because the cells looked like bacteria. What does this tell you about sorting only by what we can see?", "lines": 3}]],
+   ["B. Choose", [
+    {"t": "mcq", "p": "Which is the best reason a key uses 'Are the veins parallel?' instead of 'Is the leaf big?'", "opts": ["parallel veins look nicer", "vein pattern stays the same for a kind of plant, while size changes from leaf to leaf", "big leaves are rare"], "a": 1},
+    {"t": "mcq", "p": "Your mitochondria were once…", "opts": ["free-living bacteria", "tiny plants", "parts of a virus"], "a": 0},
+    {"t": "mcq", "p": "On the tree of life, which group is at the top?", "opts": ["humans", "mammals", "none: every living branch has been growing for the same length of time"], "a": 2}]],
+   ["C. Sort two ways", [
+    {"t": "sort", "p": "Sort by the Tolkappiyam's number of senses.", "items": ["grass", "snail", "ant", "bee", "cow", "human"], "cats": ["one", "two", "three", "four", "five", "six"]},
+    {"t": "match", "p": "Match the living thing to the box it breaks.", "pairs": [["bat", "flies, but is not a bird"], ["Euglena", "makes food like a plant, swims like an animal"], ["lichen", "two living things as one"], ["platypus", "a mammal that lays eggs"]]}]]]}
+ ],
+ "experiments": [
+  {"id": "e1", "title": "Mould or seed: who needs light?", "day": 1, "question": "Is a fungus a kind of plant? Does it need light to grow and feed?", "need": ["2 food bags that seal, or 2 jars with lids", "a slice of bread", "a soaked moong seed", "cotton wool", "a dark cupboard", "sticky tape"], "steps": ["Sprinkle a few drops of water on the bread and wipe it once across a kitchen surface (mould spores are everywhere).", "Put the bread in one bag, seal it and tape it shut. Label it 'MOULD: DO NOT OPEN'.", "Put the soaked moong on damp cotton in the second bag or jar.", "Put both in a dark cupboard.", "Look through the bags every day or two for a week, without opening the mould bag. Draw what you see."], "predict": "Ask: 'Which will grow in the dark? Will they grow the same way?'", "observe": "Fuzzy mould spreading over the bread in the dark; the moong sprouting into a pale, thin seedling.", "why": "The mould is a fungus. Its threads grow into the bread and release chemicals that digest it outside the fungus's body, then soak up the food; it never needs light. The moong uses the food stored in its seed to sprout, but it is pale because it can't make chlorophyll without light, and once its stored food is gone it would die: a plant must make its own food from sunlight. Different ways of feeding are one reason fungi are a separate kingdom.", "safety": "Never open the mould bag or sniff mould; some people are allergic to the spores. When finished, throw the sealed bag away in the bin and wash hands.", "time": "15 min + 1 week"}
+ ],
+ "activities": [
+  {"id": "a1", "title": "Sort the button tin", "day": 1, "mins": 12, "need": ["a box of mixed buttons, bottle caps, bindis or beads"], "steps": ["Tip everything onto a tray.", "Your child sorts them into groups and names each group.", "Ask for a second, different way of sorting.", "Ask for a way that would help you find a button for a particular shirt.", "Talk about which way was 'right' (each was right for a different purpose)."], "outcome": "Three ways of sorting the same things, and the idea that the purpose decides the method."},
+  {"id": "a2", "title": "Minibeast key", "day": 3, "mins": 15, "need": ["pictures or drawings of: ant, beetle, spider, woodlouse, earthworm, snail, butterfly, centipede", "paper and pens"], "steps": ["Use this key first. 1: Does it have legs? No: go to 2. Yes: go to 3. 2: Does it have a shell? Yes: snail. No: earthworm. 3: Does it have more than 8 legs? Yes: go to 4. No: go to 5. 4: Does it have a long thin body with one pair of legs on each segment? Yes: centipede. No: woodlouse. 5: Does it have 8 legs? Yes: spider. No: go to 6. 6: Does it have large coloured wings? Yes: butterfly. No: go to 7. 7: Does it have hard wing cases? Yes: beetle. No: ant.", "Name each picture using the key.", "Now your child makes their own key for four minibeasts they found on a hunt, with different questions.", "Test the key on someone else."], "outcome": "A key your child has used, and one they have made and tested."},
+  {"id": "a3", "title": "Leaf key", "day": 4, "mins": 18, "need": ["10 different leaves", "a big sheet of paper", "tape", "a pen"], "steps": ["Spread the leaves out.", "Choose a first question that splits them into two groups (for example, 'Is it made of many leaflets?').", "For each group, choose a new question, until every leaf is alone.", "Draw the key as a branching tree and tape each leaf at the end of its branch, with its name.", "Ask someone else to choose a leaf and find its name using only the key."], "outcome": "A tested branching key for the leaves of your area."},
+  {"id": "a4", "title": "Draw the tree of life", "day": 6, "mins": 14, "need": ["a big sheet of paper", "crayons"], "steps": ["Draw a trunk. Near the bottom, split it into three: bacteria, archaea, and life with a nucleus in its cells.", "Split the nucleus branch into plants, fungi and animals (and leave twigs for many tiny single-celled beings).", "On the animal branch: invertebrates (insects, spiders, worms, snails), then a branch for backbones.", "On the backbone branch: fish, then amphibians, then reptiles with birds next to crocodiles, then mammals.", "Add humans as one small twig among the mammals, next to the other apes.", "Write 'about 3.5 billion years ago' near the bottom and 'today' along the tips: every tip is today."], "outcome": "A tree of life your child has drawn, showing that all groups are related and none is 'at the top'."}
+ ],
+ "project": {"title": "Our key book", "days": [3, 4, 8], "steps": ["Keep the family key from Day 3.", "Add the minibeast key and the leaf key, with the leaves taped in.", "Add the tree of life drawing.", "Add the six-senses sorting from Day 5.", "Write a last page: 'Sorting is useful because… but nature…'", "Make a cover and staple or tie it together."], "outcome": "A home-made book of keys and trees that someone else can use to name living things nearby."},
+ "game": {"id": "g1", "title": "Key Detectives", "kind": "cards", "players": "2–4", "need": ["scissors", "a pencil and paper for each player"], "rules": ["Cut out the 24 living-thing cards and shuffle them. Lay 8 face up on the table.", "One player secretly chooses one of the 8 and writes it down.", "The others take turns asking yes-or-no questions about features ('Does it have a backbone?'). Opinion questions ('Is it cute?') don't count.", "After each answer, turn over the cards it rules out.", "Whoever names the secret card wins it. Count how many questions it took: fewer is better.", "Swap roles and lay out 8 new cards."],
+  "cards": [
+   {"front": "Tiger", "back": "animal, vertebrate, mammal"}, {"front": "Flying fox", "back": "animal, vertebrate, mammal, flies"}, {"front": "Peacock", "back": "animal, vertebrate, bird"}, {"front": "Penguin", "back": "animal, vertebrate, bird, can't fly"},
+   {"front": "Rohu", "back": "animal, vertebrate, fish"}, {"front": "Cobra", "back": "animal, vertebrate, reptile"}, {"front": "Frog", "back": "animal, vertebrate, amphibian"}, {"front": "Human", "back": "animal, vertebrate, mammal"},
+   {"front": "Ant", "back": "animal, invertebrate, insect, 6 legs"}, {"front": "Butterfly", "back": "animal, invertebrate, insect, wings"}, {"front": "Spider", "back": "animal, invertebrate, 8 legs"}, {"front": "Earthworm", "back": "animal, invertebrate, no legs"},
+   {"front": "Snail", "back": "animal, invertebrate, shell"}, {"front": "Starfish", "back": "animal, invertebrate, lives in the sea"}, {"front": "Neem", "back": "plant, flowering, compound leaves"}, {"front": "Grass", "back": "plant, flowering, parallel veins"},
+   {"front": "Fern", "back": "plant, no flowers, spores"}, {"front": "Moss", "back": "plant, no flowers, spores"}, {"front": "Mushroom", "back": "fungus, spores"}, {"front": "Bread mould", "back": "fungus"},
+   {"front": "Yeast", "back": "fungus, single cell"}, {"front": "Curd bacteria", "back": "microbe, bacterium"}, {"front": "Lichen", "back": "fungus + alga together"}, {"front": "Euglena", "back": "single cell, swims and makes food from light"}
+  ]},
+ "big": [
+  "Is a group something real in nature, or something we make up to help us think?",
+  "Who should decide the names of living things: scientists, local people, or both?",
+  "If every living thing is related, is a mushroom your cousin?",
+  "What groups do people sort other people into? Which are useful, and which might be unfair?",
+  "Does the tree of life have a top?"
+ ],
+ "challenge": [
+  {"q": "Mushrooms are plants without leaves.", "hint": "No. Fungi can't make food from sunlight; they digest food outside their bodies, their cell walls are made of a different material (chitin, the same stuff as an insect's shell), and on the tree of life they sit closer to animals than to plants. Ask: what did our mould test show?"},
+  {"q": "Scientists' groups are fixed facts that never change.", "hint": "They change as we learn. Whales were once sorted with fish; birds are now counted as dinosaurs; in 1977 Carl Woese found a whole branch of life, the archaea; and today scientists argue whether there are three domains or two. The features are facts; the boxes are our best current choices."},
+  {"q": "Carl Linnaeus invented the sorting of living things.", "hint": "Linnaeus (1707–1778) invented the two-part naming system scientists use. But people everywhere sorted living things long before: Aristotle in Greece, the Tolkappiyam in Tamil Nadu, Ayurvedic healers, farmers and forest peoples. Linnaeus himself used the Hortus Malabaricus, built on the knowledge of Kerala healers. Ask: whose knowledge goes into a 'new' system?"}
+ ],
+ "perspectives": [
+  {"who": "A vaidya (Ayurvedic healer)", "view": "Ayurveda describes plants by their taste (sweet, sour, salty, pungent, bitter, astringent) and what they do to the body. Ask: is this a sorting system? What is it good for, and what can't it tell you?"},
+  {"who": "A Jain monk", "view": "Some Jain monks sweep the path softly before they step and cover their mouths, so as not to harm even tiny beings, because they count every creature with even one sense as a life. Ask: if you sorted life by 'who can be hurt', what would be in your groups?"},
+  {"who": "A fungus under the forest floor", "view": "Its threads run through the soil for metres, breaking down dead leaves and wrapping round tree roots. People called fungi 'plants' for centuries because they didn't move. Ask: how would you feel if you were put in the wrong group for 2,000 years?"},
+  {"who": "A shopkeeper", "view": "A kirana shop sorts rice next to dal and soap far from food. A supermarket might sort by brand. Ask: who is a shop's sorting for? Who is a scientist's sorting for?"}
+ ],
+ "voices": [
+  {"id": "v1", "who": "Itty Achuden, a Kerala healer, and the Hortus Malabaricus (Amsterdam, 1678–1693)", "idea": "The Hortus Malabaricus ('Garden of Malabar') is a 12-volume book describing about 740 plants of the Kerala coast, with large engravings. It was made under the Dutch governor of Malabar, Hendrik van Rheede. Much of its knowledge came from Itty Achuden, an Ezhava physician from a family of traditional healers, who described the plants and their uses from his family's palm-leaf manuscripts, and from three Konkani scholars, Ranga Bhat, Vinayaka Pandit and Appu Bhat.", "then": "The book carries van Rheede's name. Itty Achuden's contribution appears in a signed certificate in Malayalam in the first volume: one of the first times Malayalam was printed in a European book. The plants were given Malayalam names alongside Latin ones.", "now": "Historians agree the book could not have been made without Kerala's healers and scholars. Linnaeus used it when he named plants, so some scientific names today trace back to Itty Achuden's knowledge.", "status": "accepted", "ask": "Itty Achuden knew the plants; the governor paid for the book; the artists drew the pictures. Whose name should be on the cover? Why?", "day": 2},
+  {"id": "v2", "who": "Carl Woese (1928–2012), USA", "idea": "In 1977 Woese and George Fox compared a molecule found inside every living cell (ribosomal RNA). They found that some microbes that looked just like bacteria were as different from bacteria as bacteria are from us. He called them archaea and redrew the tree of life with three great branches, or domains: bacteria, archaea and eukaryotes (living things whose cells have a nucleus, like plants, fungi and animals).", "then": "Many famous biologists rejected the idea for years. Woese was mocked, and some called him a crank.", "now": "Archaea and the three domains are accepted. Newer discoveries suggest eukaryotes may have grown out of a branch of the archaea, so some scientists now draw two domains instead of three. The tree is still being redrawn.", "status": "accepted", "ask": "Woese found a new branch of life by looking inside cells instead of at their shapes. What else might we be sorting wrongly because we only look at the outside?", "day": 6},
+  {"id": "v3", "who": "Lynn Margulis (1938–2011), USA", "idea": "Margulis argued that the mitochondria in our cells and the chloroplasts in plant cells were once free-living bacteria that were swallowed by bigger cells and stayed, working together. So the tree of life doesn't only branch apart; sometimes branches join.", "then": "Her 1967 paper was turned down by about fifteen journals before it was published. Many scientists thought the idea was absurd.", "now": "It is accepted: mitochondria and chloroplasts have their own DNA, like bacteria's. Margulis was right about this and also held some later ideas that most scientists reject. Real scientists, like everyone, can be right and wrong.", "status": "accepted", "ask": "Every cell in your body is a partnership of two ancient kinds of life. Are you one living thing, or many?", "day": 6}
+ ],
+ "story": {"title": "The Boy Who Sorted in the Dark", "text": [
+  "In the year the Dutch painters came to Kochi, I was ten, and I was the boy who ground the medicines.",
+  "My master was a vaidyan named Achuden, a quiet, tall man with grey in his beard, whose family had healed the people of Karappuram for longer than anyone could remember. In his house there were bundles of palm leaves, tied with string, written over in tiny letters by his father and his grandfather and theirs: the names of plants, and what each one does. Bitter ones for fever. Sour ones to wake the stomach. Some to be crushed, some to be boiled, some never to be touched. He knew hundreds of plants the way you know the faces of your family, and he was teaching me, a few at a time.",
+  "\"First,\" he told me, \"you smell. Then you taste, just a little, on the tip of your tongue. Then you look. Then you remember what it does.\"",
+  "Then the Dutch governor sent for him.",
+  "The governor wanted a book. A great book of all the plants of Malabar, with pictures, to be printed far away in Amsterdam, across the sea. He had brought painters who sat all day in the shade drawing leaves and flowers with fine pens, and learned men who wrote in Latin. And every week, men and boys went into the forests and came back with baskets of plants, and my master sat with the painters and told them, through a man who could speak both tongues, what each plant was called and what it was for.",
+  "I carried the baskets. I wrote the tags, small slips of palm leaf tied to each bundle, with the plant's name in our letters.",
+  "One of the Dutch painters, a young man with red ears who was always sunburnt, liked me. He would show me his drawings. But he and my master did not agree about anything.",
+  "\"These two,\" said the painter, holding up two bundles, \"go together. Look at the flowers: the same number of petals, the same shape. They are cousins.\"",
+  "\"Those two,\" said my master, through the speaker, \"are nothing alike. One cools a fever. The other would make a man sick. Put this one,\" and he lifted a third, \"with the fever plant. They do the same work.\"",
+  "The painter shook his head. My master shook his. I stood between them holding the baskets and thought that grown-ups were very strange.",
+  "Then came the night of the storm.",
+  "It was the beginning of the monsoon, and the wind came off the sea in the dark like a buffalo, and tore half the roof off the shed where the plants were kept. By the time we got there with a lamp, the rain had poured through, and the bundles were scattered over the floor, wet and muddy, and all my little palm-leaf tags had come loose and floated off into the puddles.",
+  "Two hundred plants, and no names.",
+  "The painters were to send the next set of drawings on a ship that left in three days. The painter with the red ears sat down on an upturned basket and put his head in his hands.",
+  "I looked at the heap. I couldn't read the plants the way my master could. But I thought of what he always said: first smell, then taste, then look. And I thought of the painter's flowers, and of my master's fevers, and something in my head turned over.",
+  "You don't need to know a plant's name to begin. You only need to ask it the right questions, one at a time.",
+  "I took a plant from the heap and broke a leaf. Does it bleed white milk? No. Into that corner. The next one: does it bleed white milk? Yes. Into the other corner. Then, in the no-milk corner: are the leaves in pairs, facing each other on the stem? Yes, this side. No, that side. Does it smell of anything when crushed? Is the stem square? Are the veins running side by side, like the lines on a palm leaf, or branching like a net? With every question, the heap split in two, and then in two again, until the piles were so small that each one held only one kind of plant. Then I could find its name: I could ask my master, or I could find its picture in the painter's drawings, because the drawings showed the same things I had been asking about.",
+  "I worked all night by the lamp. My master found me in the morning, asleep on the floor, among a hundred and ninety small piles.",
+  "He walked slowly between them. He picked one up and smelled it and put it back. Then he looked at the painter, who had come in behind him, and for the first time I saw the two of them smile at the same thing.",
+  "\"He sorted by questions,\" said the painter, through the speaker. \"Not by my flowers. Not by your medicines. By questions anyone can answer.\"",
+  "\"Milk, pairs, smell, veins,\" said my master. \"Yes. A blind man could do it, with his fingers and his nose.\"",
+  "The book was finished many years later. I was a grown man and a vaidyan myself by the time a copy came to Kochi, a book so big it took two people to lift it. Inside were the pictures, beautiful and exact, and the names in Latin, and, beside them, in our own letters, printed for the first time in a book from across the sea, the Malayalam names my master had given them. On one page, in his own words, was the promise he had signed: that what he had told them was true.",
+  "I turned the pages for a long time. The painter had sorted the plants by their flowers. My master had sorted them by what they do. I had sorted them, one wet night, by questions. And the plants themselves, I thought, had never sorted themselves at all. They just grew, each one its own way, and let us make of them what we needed."],
+  "epiphany": "A key works by asking simple yes-or-no questions about features anyone can check (milky sap, paired leaves, vein pattern), splitting a group in two again and again until each kind stands alone. The turn is Unni, faced with two hundred unlabelled plants, realising 'You don't need to know a plant's name to begin. You only need to ask it the right questions.' Underneath: the painter sorted by flowers and the healer by use, and both were right for their purposes; sorting is a human tool, and the plants 'never sorted themselves'. The Hortus Malabaricus, Itty Achuden and his signed certificate in Malayalam are real; Unni, the painter and the storm are made up.",
+  "ask": ["How did the painter want to sort plants? How did Achuden?", "What happened on the night of the storm?", "What questions did Unni ask the plants? Why did they work?", "Who do you think was right, the painter or Achuden?", "What did Unni mean when he said the plants 'had never sorted themselves at all'?"]},
+ "ideas": [
+  {"idea": "A key is a ladder of good questions.", "more": "Ask one yes-or-no question about a feature anyone can check, split the group, and ask again. With enough good questions you can name any living thing, even one you've never seen. Build one for your leaves and test it on a visitor."},
+  {"idea": "Sorting is a tool we make for a purpose.", "more": "A cook, a healer, a Tamil grammarian and a biologist sort the same living things differently, and each way helps them notice something. The features are real; the groups are our choices. Nature often has blurry edges: Euglena, lichens, the platypus."},
+  {"idea": "All life is one family tree.", "more": "Every living thing, from curd bacteria to the neem to you, shares ancestors if you go back far enough. Mushrooms are closer cousins to you than to the neem. And sometimes branches joined: the mitochondria in your cells were once free-living bacteria."}
+ ],
+ "unknowns": [
+  "Is the tree of life split into three domains or two? Recent discoveries of microbes called Asgard archaea suggest that our own branch grew out of the archaea. Scientists are still arguing.",
+  "Which animals branched off first: sponges or comb jellies? Different studies give different answers.",
+  "How many kinds of living things are there? Scientists have named about two million, but estimates of the true number run to many millions more, and for microbes nobody even knows how to count.",
+  "Where do viruses belong on the tree of life, if anywhere? They can't live on their own, yet they have genes and they evolve."
+ ],
+ "books": [
+  {"title": "Grandmother Fish: A Child's First Book of Evolution", "author": "Jonathan Tweet, illustrated by Karen Lewis", "for": "read together", "age": "3–7", "why": "A playful picture book that walks back through our ancestors (fish, reptile, mammal, ape) with actions to copy: the tree of life you can wiggle and crawl."},
+  {"title": "The Story of Life: A First Book about Evolution", "author": "Catherine Barr and Steve Williams, illustrated by Amy Husband", "for": "read together", "age": "5–9", "why": "From the first cells to today, simply and accurately: how all living things are related."},
+  {"title": "Tree of Life: The Incredible Biodiversity of Life on Earth", "author": "Rochelle Strauss, illustrated by Margot Thompson", "for": "read together", "age": "7–11", "why": "Imagines all living things as one huge tree, with branches for each kingdom and group, and how many species each holds."},
+  {"title": "The Big Book of Bugs", "author": "Yuval Zommer", "for": "read alone", "age": "5–9", "why": "Beautiful pages on insects, spiders and other minibeasts: good for practising keys and counting legs."}
+ ],
+ "check": [
+  {"q": "What makes a good sorting question?", "a": "A yes-or-no question about a feature anyone can check, like 'Does it have six legs?', not an opinion like 'Is it pretty?'."},
+  {"q": "How does a key work?", "a": "Each question splits the group in two; you follow the answers until you reach the name of one living thing."},
+  {"q": "What is the difference between a vertebrate and an invertebrate? Give one of each.", "a": "Vertebrates have a backbone (frog); invertebrates don't (snail)."},
+  {"q": "Name the kingdoms we met.", "a": "Plants, animals, fungi and microbes (bacteria and other single-celled life)."},
+  {"q": "Why is a mushroom not a plant?", "a": "It can't make food from sunlight; it digests food outside its body, like the mould on our bread."},
+  {"q": "Give two different ways people have sorted living things.", "a": "For example: by family tree (scientists), by use (healers, cooks), by number of senses (the Tolkappiyam)."},
+  {"q": "What does the tree of life show?", "a": "That all living things are related, with shared ancestors; no branch is at the top."},
+  {"q": "What did Lynn Margulis discover about our cells?", "a": "Mitochondria (and chloroplasts in plants) were once free-living bacteria that became partners inside bigger cells."}
+ ]
+}

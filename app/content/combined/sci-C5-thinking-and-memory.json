@@ -1,0 +1,1129 @@
+{
+ "key": "combined|sci|5|thinking-and-memory",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "thinking-and-memory",
+ "title": "The mind that rebuilds the world: brain parts, memory, sleep, feelings and consciousness",
+ "source": "DeepKids Combined. A DeepKids topic beyond the boards (the parts of the brain, kinds of memory, how memory is rebuilt, attention, sleep and dreams, emotions, animal minds and consciousness), building on the senses and body chapters of NCERT, Cambridge and NIOS. No textbook needed.",
+ "summary": "Your child maps the brain's main parts on a paper hat and meets the man who couldn't make new memories and the woman scientist who learned from him. They catch their own memory inventing a word that was never said, find out why eyewitnesses can be honestly wrong, and ask whose memories become history. They train a new skill in a mirror, look at the live debates about why we sleep and what emotions are, and end at the deepest open question in science: what consciousness is, who has it, and whether it needs a brain at all.",
+ "builds_on": "Class 3: neurons and synapses, nerves and reflexes, the blind spot and illusions, attention as a spotlight, the forgetting curve, memories as paths strengthened by practice and sleep, other animals' minds, and thinking without a brain. Here: the parts of the brain, kinds of memory, reconstructive memory, sleep science and its debates, emotions and consciousness. Links to 'Our closest cousins' (Class 5: do apes know themselves?) and 'Health' (Class 3: sleep and feelings).",
+ "goals": [
+  "By the end your child can name the main parts of the brain and say what each mostly does, and explain that the brain changes as we learn.",
+  "By the end your child can name three kinds of memory and explain what Henry Molaison's story taught scientists.",
+  "By the end your child can show that memories are rebuilt each time, using a false-memory test, and explain why that matters for eyewitnesses and for history.",
+  "By the end your child can describe what happens in sleep and explain one live debate about why we sleep.",
+  "By the end your child can compare two scientific views of what emotions are, and discuss which animals might be conscious.",
+  "By the end your child can explain why consciousness is still an open question, and weigh more than one view of it."
+ ],
+ "subconcepts": [
+  "parts of the brain: cortex and its lobes, cerebellum, brainstem",
+  "hippocampus and amygdala: memory-making and alarm",
+  "two hemispheres and split-brain cases",
+  "neuroplasticity: the brain changes with use",
+  "kinds of memory: events, facts and skills",
+  "memory is rebuilt each time we remember (reconstructive memory)",
+  "false memories and eyewitnesses",
+  "memory and history: whose memories are kept",
+  "automatic thinking and attention: the Stroop effect; multitasking is switching",
+  "sleep stages and dreams; why we sleep is debated",
+  "emotions: built-in basic emotions or constructed by the brain?",
+  "animal consciousness: the mirror test and its limits",
+  "what is consciousness? emergence, panpsychism and other views",
+  "can machines be conscious?",
+  "thinking before neurons (basal cognition), recalled"
+ ],
+ "words": [
+  [
+   "cortex",
+   "the wrinkly outer layer of the brain, used for thinking, sensing and moving"
+  ],
+  [
+   "cerebellum",
+   "the 'little brain' at the back that coordinates balance and skilled movement"
+  ],
+  [
+   "brainstem",
+   "the part joining brain and spinal cord that runs breathing and heartbeat"
+  ],
+  [
+   "hippocampus",
+   "a seahorse-shaped part deep in the brain needed to form new memories of events"
+  ],
+  [
+   "amygdala",
+   "an almond-shaped part involved in fear, alarm and emotional memories"
+  ],
+  [
+   "hemisphere",
+   "one half, left or right, of the brain"
+  ],
+  [
+   "neuroplasticity",
+   "the brain's ability to change its connections as we learn"
+  ],
+  [
+   "reconstructive memory",
+   "the idea that we rebuild a memory each time we recall it"
+  ],
+  [
+   "consciousness",
+   "being aware: having experiences, a 'what it is like' to be you"
+  ],
+  [
+   "emergence",
+   "when something new appears from many simple parts working together"
+  ],
+  [
+   "panpsychism",
+   "the idea that some simple form of experience is part of everything"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Your earliest memory",
+   "goal": "Remember Class 3, find your earliest memory, and hear the story.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Paths in the grass",
+     "mins": 6,
+     "do": "Ask: 'Two years ago, what did we find out about the brain?' Good answers: it's made of about 86 billion neurons that pass messages across synapses; reflexes act before we think; the blind spot shows the brain fills in what we see; attention is a spotlight (the gorilla!); we forget fastest soon after learning; memories are like paths made by walking them, and sleep helps. Say: 'This year we find out that memory is even stranger: it isn't a recording at all.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Your earliest memory",
+     "mins": 9,
+     "do": "Ask your child: 'What's the very first thing you remember?' Listen fully. Then ask: 'Are you seeing it through your own eyes, or can you see yourself in it?' (Many people see themselves from outside, which can't be how they first saw it!) 'Could some of it come from photos or from being told the story?' Share your own earliest memory. Say: 'Most people remember almost nothing from before about age 3 or 4. Scientists call this childhood amnesia, and nobody fully knows why.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: What the Handycam Saw",
+     "mins": 13,
+     "do": "Read the story aloud (Story tab). Ask the story questions. Don't explain why both cousins were sure; your child will test their own memory on Day 4."
+    },
+    {
+     "kind": "exp",
+     "title": "Start mirror drawing",
+     "mins": 17,
+     "do": "Start Experiment e2: draw a star while looking only in a mirror. Five tries today, five tomorrow, five the day after.",
+     "ref": "e2"
+    }
+   ],
+   "need": [
+    "a mirror that can stand up",
+    "a book or card to hide the hand",
+    "copies of a double-lined star (draw 15)",
+    "a pencil and a timer"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "A map of the brain",
+   "goal": "Learn the brain's main parts, and that the brain changes.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Mirror drawing: day 2",
+     "mins": 8,
+     "do": "Do today's five mirror-drawing tries (Experiment e2). Record time and number of errors each time. Ask: 'Is it easier than yesterday?'",
+     "ref": "e2"
+    },
+    {
+     "kind": "act",
+     "title": "The brain hat",
+     "mins": 17,
+     "do": "Do Activity a3: make a paper brain hat and label the parts.",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Two halves, and the people with split brains",
+     "mins": 10,
+     "do": "Say: 'The brain has two halves, left and right, joined by a thick bridge of nerves. Strangely, the left half controls the right side of the body, and the right half the left side. For most people, the left half does more of the work of language.' Then the exception: 'In the 1960s, some people with very bad epilepsy had the bridge cut to stop seizures spreading. Roger Sperry and Michael Gazzaniga studied them. If a word was shown only to the right half, the person couldn't say it, but their left hand could pick out the matching object. Sometimes the talking half even made up a reason for what the left hand did, without knowing it was making it up.' Ask: 'Was there one person inside, or two? What does it mean that the brain invents explanations?' (Don't settle it.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The brain changes",
+     "mins": 10,
+     "do": "Say: 'Your brain isn't fixed. Every time you learn, connections change. In 2000, Eleanor Maguire and colleagues found that London taxi drivers, who spend years learning every street, had a larger back part of the hippocampus, the memory-for-places part, than other people, and the longer they'd driven, the bigger it was. This is called neuroplasticity.' Ask: 'What part of your brain do you think is growing from what you practise?' (Music, maths, a sport, a language.) Say: 'Mistakes are part of how the brain rewires.'"
+    }
+   ],
+   "need": [
+    "a large sheet of paper or an old cap, scissors, tape, markers",
+    "the mirror-drawing kit"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Three kinds of memory, and a man who lived in the present",
+   "goal": "Learn the kinds of memory, meet Henry Molaison, and build a memory palace.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Mirror drawing: day 3",
+     "mins": 8,
+     "do": "Do the last five mirror-drawing tries (e2). Draw a graph of time against try number. Ask: 'When did it get easier? Do you remember how you did it, or do your hands just know?'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Henry, Brenda and the mirror",
+     "mins": 14,
+     "do": "Tell voice v1: in 1953 a young man, Henry Molaison, had parts of both hippocampi removed to stop his seizures. Afterwards he couldn't form new memories of events. Brenda Milner studied him and found he could still learn a skill: mirror drawing, the very thing you've been doing. He got better every day, yet each day said he'd never done it before. Ask the voice question. Then explain three kinds of memory: event memory ('my birthday last year'), fact memory ('Delhi is India's capital') and skill memory ('how to ride a cycle'). Ask your child to give one of each from their own life.",
+     "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "A memory palace",
+     "mins": 15,
+     "do": "Do Activity a1: the method of loci.",
+     "ref": "a1"
+    },
+    {
+     "kind": "think",
+     "title": "What if you couldn't make new memories?",
+     "mins": 8,
+     "do": "Ask: 'If, like Henry, you couldn't remember anything new, what would still be you?' (Your skills, your old memories, your kindness, your laugh, your ways.) 'Henry spent his whole life helping scientists understand memory. He never knew how much he gave. Should people like Henry get credit in science books?' Ask your child to write one sentence they'd want Henry to know."
+    }
+   ],
+   "need": [
+    "the mirror-drawing results",
+    "the 10-item list for Activity a1",
+    "paper"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Your memory is a storyteller",
+   "goal": "Catch your memory inventing, and see why eyewitnesses can be honestly wrong.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The word that was never said",
+     "mins": 15,
+     "do": "Do Experiment e1: the false-memory word list.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Smashed or hit?",
+     "mins": 12,
+     "do": "Tell voice v2: in 1974 Elizabeth Loftus and John Palmer showed people a film of a car crash, then asked how fast the cars were going when they 'hit' or when they 'smashed into' each other. The 'smashed' group guessed faster speeds, and a week later more of them remembered broken glass that wasn't there. Ask the voice question. Say: 'Every time we remember, we rebuild the memory from pieces, and new information can creep in. That's why it's called reconstructive memory. It doesn't mean people lie; it means memory is a storyteller, not a camera.'",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: the brain and memory (core)",
+     "mins": 18,
+     "do": "Do Worksheet ws1. Your child explains each answer aloud. For the written items, ask them to give an example from their own life.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the word list from Experiment e1",
+    "paper",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Memory, history and attention",
+   "goal": "Ask whose memories become history, and test what your brain does automatically.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "The story of one day, told three ways",
+     "mins": 17,
+     "do": "Do Activity a2: ask three family members to tell the story of the same family event, and compare.",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Whose memories become history?",
+     "mins": 10,
+     "do": "Ask: 'If only one person's version of that day were written in a book, would it be the whole truth?' Say: 'History is memory written down. For most of the past, the people who could write, or who were powerful, chose what was kept. The memories of women, workers, enslaved people, tribal communities and children were often not written at all. Today historians also record oral history: people's own spoken memories.' Ask: 'Whose memory of our family should be recorded before it's lost?' (Plan to record one older relative's story this month.)"
+    },
+    {
+     "kind": "exp",
+     "title": "The Stroop test",
+     "mins": 13,
+     "do": "Do Experiment e3: say the ink colour of colour words that are printed in the wrong colours.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Can you really multitask?",
+     "mins": 5,
+     "do": "Say: 'Reading was so practised that your brain did it automatically, even when you didn't want to. Attention can't really do two hard things at once; it switches fast between them, and each switch costs time and mistakes.' Ask: 'What happens to homework with a phone buzzing next to it?'"
+    }
+   ],
+   "need": [
+    "three family members (in person or on the phone)",
+    "coloured pens (red, blue, green, yellow) and paper for the Stroop cards",
+    "a timer"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Why do we sleep?",
+   "goal": "Learn what happens in sleep and meet a live debate.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "A night of sleep",
+     "mins": 12,
+     "do": "Draw a 'night graph' with your child: from going to sleep to waking, the brain goes through cycles of about 90 minutes: light sleep, deep sleep (slow brain waves, body repairing, growth hormone), then REM sleep (eyes darting, brain very active, most vivid dreams), and round again, with more deep sleep early in the night and more REM near morning. Ask: 'Why might waking from REM mean you remember a dream?' (You were in the middle of it.) Say: 'In deep sleep, the hippocampus replays the day's memories and helps move them into long-term storage in the cortex. Scientists have watched this replay in rats running mazes.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Washing the brain at night?",
+     "mins": 12,
+     "do": "Tell voice v4: in 2013, Maiken Nedergaard's team reported that in sleeping mice, fluid flows through the brain much faster, washing out waste. In 2024 another team, led by Nicholas Franks, found the opposite in their mice. Ask the voice question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "talk",
+     "title": "Strange sleepers",
+     "mins": 8,
+     "do": "Say: 'Dolphins can sleep with one half of their brain at a time, keeping one eye open and still swimming and surfacing to breathe. Some birds do this too; frigatebirds have been recorded sleeping in short bursts while flying over the sea. Every animal studied so far seems to need some kind of rest, even fruit flies and jellyfish.' Ask: 'If sleep is dangerous for animals in the wild, why hasn't evolution got rid of it?' (It must do something too important to lose.)"
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: apply it (stretch)",
+     "mins": 13,
+     "do": "Do Worksheet ws2. Let your child use the night graph and the results of e1, e2 and e3.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "paper for the night graph",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Feelings and consciousness",
+   "goal": "Compare two views of emotions, ask which animals are conscious, and face the hardest question.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Emotion charades",
+     "mins": 8,
+     "do": "Each player acts an emotion with face and body only, no words: joy, fear, anger, disgust, surprise, sadness, then harder ones: jealousy, pride, embarrassment, relief, nostalgia. Others guess. Ask: 'Which were easy to guess? Which were hard? Would someone from a very different culture guess the same?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Are emotions built in or built?",
+     "mins": 10,
+     "do": "Tell voice v3: Paul Ekman argued there are a few basic emotions with faces recognised everywhere; Lisa Feldman Barrett argues the brain builds each emotion from body feelings, past experience and culture. Ask the voice question. Then: 'Either way, you are not your emotions. You are not \"an angry person\"; you are a person who sometimes feels anger, and you can notice it and choose what to do.'",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "Who else is conscious?",
+     "mins": 12,
+     "do": "Say: 'In 1970 Gordon Gallup put a mark on chimpanzees' faces while they slept; when they woke and saw a mirror, they touched the mark on themselves: the mirror test. Great apes, dolphins, elephants and magpies have passed versions of it. In 2019 scientists reported that a small fish, the cleaner wrasse, seemed to pass too, and others argued about what that means. Many animals, like dogs, rely more on smell than sight, so a mirror may be the wrong test.' Then: 'In 2024, a group of scientists signed the New York Declaration on Animal Consciousness, saying there is strong evidence for conscious experience in mammals and birds, and a realistic possibility of it in all vertebrates and many invertebrates, like octopuses and bees.' Ask: 'If a bee might feel something, does that change how we should treat bees?'"
+    },
+    {
+     "kind": "think",
+     "title": "What is consciousness?",
+     "mins": 15,
+     "do": "Say: 'Here is the biggest open question in science. Being awake and aware, having a \"what it is like\" to be you: nobody knows how it happens.' Lay out views, each on a card: 1. Emergence: consciousness appears when enough neurons work together, like a traffic jam appears from many cars, though no car is a jam. 2. Panpsychism: some tiny form of experience is part of everything, and brains combine it; a few philosophers and scientists hold this, most don't. 3. Some thinkers, including DeepKids' founder, wonder whether awareness might be more basic than matter, a kind of field, and that life has had a sense of self since the first cells kept 'me' in and 'not me' out. Most scientists would say there's no evidence for that, but it is a question worth asking. 4. Some say the word is so muddled that we should study the brain and leave the word alone. Remind them of Class 3's slime mould. Ask: 'Which view seems most likely to you? What evidence would change your mind? Could a computer that talks like a person be conscious?' Then your child draws a self-portrait as a question: their face, and inside it, whatever they think they really are."
+    }
+   ],
+   "need": [
+    "paper and cards for the four views",
+    "crayons for the self-portrait"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Mind or Myth: game, challenge and teach it back",
+   "goal": "Put it all together and teach it back.",
+   "steps": [
+    {
+     "kind": "think",
+     "title": "Challenge worksheet",
+     "mins": 15,
+     "do": "Do Worksheet ws3 (challenge). The written answers are the heart of it; let your child argue both sides before writing.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "game",
+     "title": "Mind or Myth?",
+     "mins": 15,
+     "do": "Play the card game g1. For each card, the player says 'mind fact', 'myth' or 'still argued', and why.",
+     "ref": "g1"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 15,
+     "do": "Your child wears the brain hat and teaches a family member the main parts, then runs the false-memory word test on them (e1) and explains what happened. Ask the check questions. Ask what changed in how they think about their own memory."
+    }
+   ],
+   "need": [
+    "worksheet ws3",
+    "the printed cards",
+    "the brain hat",
+    "the word list from e1"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Brain parts and memory",
+   "day": 4,
+   "sections": [
+    [
+     "A. Parts",
+     [
+      {
+       "t": "match",
+       "p": "Match each part to its main job.",
+       "pairs": [
+        [
+         "brainstem",
+         "breathing and heartbeat"
+        ],
+        [
+         "cerebellum",
+         "balance and skilled movement"
+        ],
+        [
+         "hippocampus",
+         "forming new memories of events"
+        ],
+        [
+         "amygdala",
+         "alarm and fear"
+        ],
+        [
+         "cortex",
+         "thinking, sensing and planning"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "The left half of the brain mostly controls…",
+       "opts": [
+        "the left side of the body",
+        "the right side of the body",
+        "only the eyes"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The brain's ability to change its connections as we learn is called neuro____ .",
+       "a": [
+        "plasticity"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "London taxi drivers had a bigger part of their…",
+       "opts": [
+        "hippocampus",
+        "stomach",
+        "cerebellum only"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Memory",
+     [
+      {
+       "t": "sort",
+       "p": "Which kind of memory?",
+       "items": [
+        "riding a cycle",
+        "your last birthday",
+        "Delhi is India's capital",
+        "tying shoelaces",
+        "the day you lost a tooth",
+        "2 × 5 = 10"
+       ],
+       "cats": [
+        "skill",
+        "event",
+        "fact"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Henry Molaison could not form new event memories, but he could…",
+       "opts": [
+        "learn mirror drawing",
+        "remember new faces",
+        "remember what he had for lunch"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the word test, many people 'remembered' a word that was never said because…",
+       "opts": [
+        "the brain rebuilds memories from the gist",
+        "they weren't listening",
+        "the word was hidden"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Two honest people remember the same day differently. How can both be telling the truth as they remember it?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why might an eyewitness in a courtroom be wrong without lying?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Apply it",
+   "day": 6,
+   "sections": [
+    [
+     "A. Results",
+     [
+      {
+       "t": "mcq",
+       "p": "Your mirror drawing got faster each day. Which kind of memory was that?",
+       "opts": [
+        "skill memory",
+        "event memory",
+        "no memory"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the Stroop test, colour words in the wrong ink were slower because…",
+       "opts": [
+        "reading is so automatic it gets in the way",
+        "the colours were faded",
+        "you were tired"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Light sleep, deep sleep or REM?",
+       "items": [
+        "eyes darting under the lids",
+        "slow brain waves and body repair",
+        "most vivid dreams",
+        "easy to wake",
+        "more of it early in the night"
+       ],
+       "cats": [
+        "deep sleep",
+        "REM sleep",
+        "light sleep"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Dolphins can sleep with one ____ of the brain at a time.",
+       "a": [
+        "half",
+        "hemisphere"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Multitasking is really…",
+       "opts": [
+        "doing two hard things at once perfectly",
+        "switching attention quickly, with a cost",
+        "impossible for children only"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Think",
+     [
+      {
+       "t": "write",
+       "p": "Your family told one event three ways. Which version should go in the family history? Or should all three? Why?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Nedergaard's mice and Franks's mice gave opposite results. How could scientists find out who is right?",
+       "lines": 3
+      },
+      {
+       "t": "match",
+       "p": "Match the scientist to the finding.",
+       "pairs": [
+        [
+         "Brenda Milner",
+         "Henry learned mirror drawing without remembering learning it"
+        ],
+        [
+         "Elizabeth Loftus",
+         "the words in a question can change a memory"
+        ],
+        [
+         "Eleanor Maguire",
+         "taxi drivers' brains changed with learning"
+        ],
+        [
+         "Gordon Gallup",
+         "chimpanzees recognise themselves in a mirror"
+        ]
+       ]
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "The hardest questions",
+   "day": 8,
+   "sections": [
+    [
+     "A. Weigh it",
+     [
+      {
+       "t": "sort",
+       "p": "Settled or still argued?",
+       "items": [
+        "the hippocampus is needed to form new event memories",
+        "memories are rebuilt each time",
+        "exactly why we sleep",
+        "whether emotions are built in or built by each brain",
+        "whether bees are conscious",
+        "the brain changes as we learn"
+       ],
+       "cats": [
+        "settled",
+        "still argued"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A split-brain patient's talking half invented a reason for what the left hand did. What does that suggest?",
+       "opts": [
+        "the brain can make up explanations without knowing it",
+        "the patient was lying",
+        "the left hand was conscious and the rest wasn't"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which is the best reason the mirror test may be unfair to dogs?",
+       "opts": [
+        "dogs rely more on smell than sight",
+        "dogs are not clever",
+        "mirrors scare everyone"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Myth or supported by evidence?",
+       "items": [
+        "people learn best only in their own 'learning style'",
+        "we use only 10% of our brain",
+        "sleep helps memory",
+        "practice changes the brain",
+        "listening to Mozart makes babies cleverer"
+       ],
+       "cats": [
+        "myth",
+        "supported by evidence"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Your view",
+     [
+      {
+       "t": "write",
+       "p": "Something good that is bad: rebuilding memories lets us imagine and plan, but it also makes us wrong. Is our storytelling memory more a gift or a problem? Argue both sides.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Which view of consciousness do you find most convincing, and what evidence would change your mind?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Could a computer program that talks like a person be conscious? How could anyone tell?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "If animals like bees and octopuses might feel, what should change in how humans treat them?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The word that was never said",
+   "day": 4,
+   "question": "Does memory record what happened, or rebuild it?",
+   "need": [
+    "the word list below",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Tell your child: 'I'll read some words. Listen carefully; afterwards, write down as many as you can.'",
+    "Read slowly, one word a second: bed, rest, awake, tired, dream, wake, snooze, blanket, doze, slumber, snore, nap, peace, yawn, drowsy.",
+    "Wait 1 minute (count backwards from 60 together), then your child writes every word they remember.",
+    "Ask: 'Are you sure every word you wrote was on the list?' Then ask: 'Was the word \"sleep\" on the list?'",
+    "Show the list. 'Sleep' was never said. Try it on other family members."
+   ],
+   "predict": "Ask: 'Will you remember the words exactly? Will you add any that weren't there?'",
+   "observe": "Many people, children and adults, write or confidently 'remember' the word 'sleep', which was never read out.",
+   "why": "This is the Deese–Roediger–McDermott test, published by Henry Roediger and Kathleen McDermott in 1995, building on James Deese's work in 1959. The brain doesn't store each word separately; it stores the gist ('words about sleep') and rebuilds the details when you recall. The gist suggests 'sleep', so memory adds it, and it can feel just as real as the true words. This is the same storytelling that lets us plan and imagine. Memory is useful, but not a recording.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Mirror drawing",
+   "day": 1,
+   "question": "Can you learn a skill without remembering learning it?",
+   "need": [
+    "a mirror that can stand up",
+    "a book or card held to hide the drawing hand from direct view",
+    "15 copies of a star drawn with a double outline (two lines about 5 mm apart)",
+    "a pencil",
+    "a timer"
+   ],
+   "steps": [
+    "Stand the mirror upright behind the paper. Prop the book so your child can see the paper only in the mirror, not directly.",
+    "Your child traces around the star between the two lines, looking only in the mirror.",
+    "Time each try and count how many times the pencil goes outside the lines.",
+    "Five tries on Day 1, five on Day 2, five on Day 3. Record all times and errors.",
+    "On Day 3 draw a graph: try number along the bottom, time up the side."
+   ],
+   "predict": "Ask: 'How hard will it be? Will you get better? How fast?'",
+   "observe": "The first tries are slow and wobbly, with many errors. Most children get much faster and more accurate over the three days, often with a big jump after a night's sleep.",
+   "why": "This is the test Brenda Milner gave Henry Molaison in the 1950s and 60s. Henry improved over days like you did, though he never remembered doing it before. It showed that skill memory uses different parts of the brain (including the cerebellum and deep areas called the basal ganglia) from event memory (which needs the hippocampus). Your hands 'know' before you can explain how.",
+   "safety": "",
+   "time": "15 min a day for 3 days"
+  },
+  {
+   "id": "e3",
+   "title": "The Stroop test",
+   "day": 5,
+   "question": "Can your brain stop itself from reading?",
+   "need": [
+    "paper",
+    "red, blue, green and yellow pens",
+    "a timer"
+   ],
+   "steps": [
+    "Card A: write 20 rows of coloured blobs (XXXX) in red, blue, green and yellow, mixed up.",
+    "Card B: write 20 colour words, each written in a DIFFERENT colour ink from what it says (the word 'red' written in blue ink, and so on).",
+    "Your child names the INK colour of each row of Card A, as fast as possible. Time it.",
+    "Then names the INK colour (not the word) of each word on Card B. Time it and count mistakes.",
+    "Try it on a younger child who can't read yet, if you can."
+   ],
+   "predict": "Ask: 'Which card will be harder? Why?'",
+   "observe": "Card B takes longer and causes more mistakes; readers often blurt out the word instead of the colour. Non-readers find both cards about equally easy.",
+   "why": "John Ridley Stroop described this in 1935. Reading is so practised that the brain does it automatically, even when you're trying to name the colour. Your attention has to fight the automatic habit, which takes time. It shows that much of what the brain does happens without our choosing, and that practice turns slow, careful skills into fast automatic ones.",
+   "safety": "",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "A memory palace",
+   "day": 3,
+   "mins": 15,
+   "need": [
+    "a list of 10 items",
+    "a quiet room"
+   ],
+   "steps": [
+    "Read this shopping list once: onions, ladder, umbrella, coconut, toothbrush, kite, bangles, a goat, glue, a drum.",
+    "Your child chooses a walk they know very well, like from the front door to their bed, and picks 10 places along it (the door, the shoe rack, the sofa, the fridge…).",
+    "Put each item in a place with a silly, vivid picture: onions piled on the doormat making the door cry; a ladder lying across the shoe rack; an umbrella opening inside the fridge.",
+    "Your child walks the route in their mind and says each item.",
+    "Test after 10 minutes and again tomorrow. Compare with a plain list of 10 different words learned without the palace.",
+    "Tell them: this method is said to go back to ancient Greek speakers, and memory champions still use it."
+   ],
+   "outcome": "Your child can remember 10 items in order using places, and knows why connecting new things to an old path works."
+  },
+  {
+   "id": "a2",
+   "title": "One day, told three ways",
+   "day": 5,
+   "mins": 17,
+   "need": [
+    "three family members",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Choose a family event that several people were at: a wedding, a trip, a festival, a power cut.",
+    "Your child asks each person separately (in person or on the phone): 'What happened? Who was there? What was the weather? What did you eat? What was the funniest or most important moment?'",
+    "Write each answer in its own column.",
+    "Circle what everyone agrees on and underline what they disagree on.",
+    "Ask: 'Who do you think is right about the disagreements? Is there a photo or video to check? Does a photo show everything?'"
+   ],
+   "outcome": "Three versions of one day, and an understanding that memories differ honestly and history needs many voices."
+  },
+  {
+   "id": "a3",
+   "title": "The brain hat",
+   "day": 2,
+   "mins": 17,
+   "need": [
+    "a large sheet of paper or an old cap",
+    "scissors and tape",
+    "markers"
+   ],
+   "steps": [
+    "Make a paper cap that fits your child's head (a strip round the head and two strips crossing over the top).",
+    "Draw the lobes of the cortex on it: frontal at the forehead (planning, choosing, controlling yourself), parietal on top (touch and knowing where your body is), temporal by the ears (hearing, language and memory), occipital at the back (seeing).",
+    "On a tail of paper hanging at the back of the neck, draw the cerebellum (balance and skilled movement) and the brainstem (breathing, heartbeat, waking and sleeping).",
+    "Explain that, deep inside where we can't draw on a hat, are the hippocampus (making new event memories) and the amygdala (alarm and fear).",
+    "Say: 'These are main jobs, not the whole story. Almost everything you do uses many parts working together.'"
+   ],
+   "outcome": "A wearable map of the brain your child made and can teach from."
+  }
+ ],
+ "project": {
+  "title": "My mind lab notebook",
+  "days": [
+   1,
+   8
+  ],
+  "steps": [
+   "Record your mirror-drawing times and errors (Days 1–3) and draw the graph.",
+   "Record your memory palace results and the plain-list results (Day 3–4).",
+   "Record the false-memory test on yourself and on two family members (Day 4).",
+   "Record the Stroop times and mistakes (Day 5).",
+   "Write the three versions of one family day (Day 5).",
+   "On Day 8, write one page: 'What I found out about my own mind', with your best graph and one question you still have."
+  ],
+  "outcome": "A notebook of real experiments on your own mind, with graphs and a question to keep exploring."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Mind or Myth?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors",
+   "the printed cards"
+  ],
+  "rules": [
+   "Shuffle the cards face down.",
+   "On your turn, read a card aloud and say: 'mind fact', 'myth' or 'still argued'.",
+   "Turn it over. Right, with a good reason: keep the card. For 'still argued' cards, you keep it if you can give one argument on each side.",
+   "Anyone can challenge an answer by giving evidence; the group decides.",
+   "Most cards wins."
+  ],
+  "cards": [
+   {
+    "front": "We only use 10% of our brain.",
+    "back": "Myth: scans show activity all over the brain."
+   },
+   {
+    "front": "Memories are rebuilt each time we remember.",
+    "back": "Mind fact (reconstructive memory)."
+   },
+   {
+    "front": "People learn best when teaching matches their 'learning style'.",
+    "back": "Myth: careful tests haven't found this."
+   },
+   {
+    "front": "Exactly why we need to sleep.",
+    "back": "Still argued: memory, repair and brain-cleaning ideas are all debated."
+   },
+   {
+    "front": "The hippocampus is needed to form new event memories.",
+    "back": "Mind fact (Henry Molaison)."
+   },
+   {
+    "front": "Listening to Mozart makes children cleverer.",
+    "back": "Myth: the 1993 'Mozart effect' was small, short and often didn't repeat."
+   },
+   {
+    "front": "London taxi drivers' brains changed with learning.",
+    "back": "Mind fact (Maguire, 2000)."
+   },
+   {
+    "front": "Emotions are built in, with the same faces everywhere.",
+    "back": "Still argued (Ekman versus Feldman Barrett)."
+   },
+   {
+    "front": "Dolphins can sleep with half their brain.",
+    "back": "Mind fact."
+   },
+   {
+    "front": "A fish can pass the mirror test.",
+    "back": "Still argued (cleaner wrasse, 2019)."
+   },
+   {
+    "front": "Some people are left-brained and some are right-brained.",
+    "back": "Myth: both halves work together in everyone."
+   },
+   {
+    "front": "Multitasking is really fast switching.",
+    "back": "Mind fact: and each switch costs time."
+   },
+   {
+    "front": "An eyewitness who is sure must be right.",
+    "back": "Myth: confident memories can still be wrong."
+   },
+   {
+    "front": "Whether a computer can be conscious.",
+    "back": "Still argued."
+   },
+   {
+    "front": "Skills can be learned without remembering learning them.",
+    "back": "Mind fact (mirror drawing)."
+   },
+   {
+    "front": "Sleep helps memories last.",
+    "back": "Mind fact."
+   },
+   {
+    "front": "Whether bees feel anything.",
+    "back": "Still argued: there is growing evidence they might."
+   },
+   {
+    "front": "Consciousness is made only by brains.",
+    "back": "Still argued: most scientists think so; some philosophers disagree."
+   }
+  ]
+ },
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Brenda Milner (born 1918), Britain and Canada, and Henry Molaison (1926–2008), USA",
+   "idea": "In 1953 Henry Molaison, a young man with severe epilepsy, had surgery that removed parts of both sides of his brain, including most of the hippocampus. His seizures improved, but he could no longer form new memories of events: he would meet someone, and minutes later not know them. Brenda Milner, a psychologist in Montreal, studied him from 1955. She showed that he could still learn a skill, mirror drawing, getting better day after day while never remembering having done it.",
+   "then": "Many scientists then thought memory was spread evenly through the brain. Milner's work showed that a particular part, the hippocampus, is needed to form new event memories, and that skill memory works separately.",
+   "now": "Her findings are the foundation of memory science; she kept working past the age of 100. Henry, known for decades only as 'H.M.' to protect his privacy, was studied by over 100 scientists. His name was revealed after his death in 2008. Many now say he is one of the most important people in the history of brain science, though he never knew it.",
+   "status": "accepted",
+   "ask": "Henry gave science more than almost anyone, but never chose to and never knew. How should science thank people like him?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Elizabeth Loftus (born 1944), USA",
+   "idea": "In 1974, with John Palmer, Loftus showed people a film of a car crash and asked how fast the cars were going when they 'hit' or 'smashed into' each other. The 'smashed' group estimated higher speeds and, a week later, were more likely to remember broken glass that wasn't in the film. In later studies, her team found that some people could be led to 'remember' whole childhood events that never happened, such as being lost in a shopping mall.",
+   "then": "Her work was controversial, especially when she gave evidence in court that witnesses' memories could be wrong. Some people felt she cast doubt on real victims.",
+   "now": "That memory is reconstructive and can be changed by questions is well accepted, and it has changed how police in many countries question witnesses. How often whole false memories can be created, and how far her lab results apply to real life, are still debated.",
+   "status": "accepted",
+   "ask": "If memories can change, should a court ever convict someone on one eyewitness alone? What else would you want?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Paul Ekman (born 1934), USA, and Lisa Feldman Barrett (born 1963), USA: what are emotions?",
+   "idea": "From the 1960s, Ekman showed photos of faces to people in many countries, including a remote group in Papua New Guinea, and found that many matched faces to the same emotions. He argued there are a few basic emotions, such as happiness, sadness, anger, fear, surprise and disgust, built into all humans. Barrett argues instead that the brain constructs each emotion, each time, from body feelings, the situation, past experience and the words and culture we've learned; she points out that the same emotion can look very different in different people.",
+   "then": "Ekman's view became the standard one and is used in many textbooks and computer programs that try to read faces.",
+   "now": "Scientists still disagree. Studies show faces are recognised above chance across cultures, but much less reliably than once thought, and that context changes how we read a face. Many researchers now take a middle view. Programs that claim to read emotions from faces are widely criticised.",
+   "status": "debated",
+   "ask": "If emotions are built from body feelings plus words, could learning more emotion words change how you feel?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Maiken Nedergaard (born 1957), Denmark and USA, and Nicholas Franks, Britain: does sleep wash the brain?",
+   "idea": "In 2013, Nedergaard's team reported that in sleeping mice the spaces between brain cells widen and fluid flows through much faster, washing away waste, including a protein linked to Alzheimer's disease. They called it the glymphatic system. The idea that sleep 'cleans the brain' became very popular.",
+   "then": "Many scientists were excited; some questioned the methods, such as the use of anaesthesia and dyes.",
+   "now": "In 2024, a team led by Nicholas Franks and William Wisden reported in their experiments with mice that clearance of a dye from the brain was actually lower during sleep and anaesthesia. Both teams stand by their results. Whether, and how much, sleep cleans the human brain is now a live debate, and why we sleep is still not fully known.",
+   "status": "debated",
+   "ask": "Two careful teams found opposite results with mice. What would you need to know about each experiment to decide whom to believe?",
+   "day": 6
+  }
+ ],
+ "story": {
+  "title": "What the Handycam Saw",
+  "text": [
+   "I am a video camera, a small silver Handycam, and I live in a shoebox on the top shelf of a cupboard in a flat in Patna, under three folded quilts and a bag of old school certificates. I haven't been switched on for eight years. My battery is dead. But inside me, on a tiny tape, I still have everything I ever saw.",
+   "I saw a lot of weddings. That was my main job. Ritwik's father bought me when Ritwik was born, and I was there at every naming ceremony, every birthday, every mundan, every wedding in the family. I saw a great many plates of food and a great many uncles dancing badly.",
+   "Last Diwali, the cousins came. Ritwik is eleven now, and his cousin Anu is ten, and they had not seen each other for a year. They sat on the floor eating kaju katli and arguing.",
+   "\"I didn't fall in,\" said Anu. \"You fell in.\"",
+   "\"I did not!\" said Ritwik. \"You fell in the pond at Moni Didi's wedding. I remember it exactly. You were wearing a yellow frock and you were trying to catch a duck and you slipped on the steps and splash! Everyone came running. Your frock was all green with weeds.\"",
+   "Anu's face went red. \"That's not what happened. I remember it. You were trying to catch the duck. You were wearing that silly kurta with the mirrors on it. You slipped and went in up to your neck, and Bade Mama pulled you out and you cried and cried.\"",
+   "\"I never cry.\"",
+   "\"You cried so much they had to give you three rasgullas.\"",
+   "They were both sure. I could hear it in their voices. They weren't lying, either of them. Each of them could see it, the pond and the steps and the duck and the splash, as clearly as I could have shown it.",
+   "\"Ask Ma,\" said Ritwik.",
+   "Ritwik's mother was frying puris in the kitchen. She said, \"Oh, that wedding! Somebody fell in, I remember that. I think it was one of you. Or was it Pinky? Ask your father, he filmed everything.\"",
+   "And that is how, after eight years, I was taken down from the cupboard.",
+   "It took a whole evening to find a charger and a cable and an old television that would take me. The whole family crowded round: the cousins, the parents, Bade Mama, the neighbour's boy. Ritwik's father pressed play, and there it was: Moni Didi's wedding, 2016, in a garden in Hajipur, with marigolds and a shamiana and a green pond at the end with steps going down into it. I had been pointed at the pond for most of the afternoon, because there were ducks and the light was nice.",
+   "There were the ducks. There was a little girl in a yellow frock, Anu, about two years old, toddling on the bank with a piece of puri. There was a little boy in a mirror-work kurta, Ritwik, about three, holding his mother's hand. Nobody fell in.",
+   "\"Wait,\" said Ritwik. \"Fast forward.\"",
+   "We watched the whole afternoon. The ducks. The steps. The shamiana. A long, boring piece where I was pointed at the ground because somebody forgot to switch me off. And then, near sunset, a man came down the steps to wash his hands, slipped on the green weed, waved his arms like a windmill, and sat down in the pond with an enormous splash. Everyone ran. Somebody pulled him out. He was laughing and dripping, with weeds on his head.",
+   "It was Bade Mama.",
+   "The room went completely silent. Then Bade Mama, who was sitting on the sofa with his tea, began to laugh so hard that he spilled it.",
+   "\"I'd forgotten!\" he said. \"I'd completely forgotten! I told that story at every family function for years. 'Remember when I fell in the pond?' I used to say it to the children. 'You were there, you saw it!'\"",
+   "Anu and Ritwik looked at each other.",
+   "\"But I remember it,\" said Anu, slowly. \"I remember the duck. I remember the cold water.\"",
+   "\"So do I,\" said Ritwik. \"I can see it.\"",
+   "And they could. That's the strange thing. They had heard the story so many times, at so many weddings, that their brains had taken the pieces, the pond, the duck, the steps, the splash, and built a memory out of them, the way you build a house from bricks. And each of them, without knowing, had put themselves into it. Or had put the other one in. Every time they remembered it, they built it again, and every time it felt more real.",
+   "Anu was quiet for a while. Then she said, \"Is anything I remember real?\"",
+   "Ritwik's father switched me off. He thought about it.",
+   "\"Most of it, probably,\" he said. \"The important bits. But a memory is not a video. It's a story you tell yourself. You have to hold it a little bit loosely.\"",
+   "\"And the camera?\" said Ritwik. \"The camera's always right.\"",
+   "I would like to say yes. I would like to be the one who knows the truth. But I only saw what I was pointed at. I didn't see the kitchen, or the dancing, or what anybody was thinking. Half the wedding happened behind me. If somebody had fallen in on the other side of the garden, I would never have known.",
+   "They put me back in my shoebox that night, but not on the top shelf. Anu asked if she could keep me in her bag till the end of the holidays.",
+   "I think she wanted to film something. I think she wanted to remember it properly this time, and then I think she understood that she would have to remember it anyway, the way everyone does: a little bit right, a little bit wrong, and her own."
+  ],
+  "epiphany": "Memory is reconstructive: each time we remember, the brain rebuilds the event from pieces, and stories we've heard can become memories that feel completely real, with ourselves placed inside them. The turn is the tape showing Bade Mama, not either child, falling in. A second turn questions the evidence too: the camera only saw what it was pointed at. Underneath: honesty without certainty, and holding memories 'a little bit loosely'.",
+  "ask": [
+   "Why were both Anu and Ritwik so sure?",
+   "Was either of them lying? How can you be honest and wrong at the same time?",
+   "Where did their memories come from?",
+   "The camera says it 'only saw what I was pointed at'. Why does that matter?",
+   "Is there a family story you 'remember' that you might only have heard?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Memory is a storyteller, not a camera.",
+   "more": "Each recall rebuilds the memory from pieces, and new information slips in. Use the false-memory word test and the family-story activity. It's the same power that lets us imagine and plan."
+  },
+  {
+   "idea": "Much of the mind runs without us.",
+   "more": "Reflexes, the Stroop effect, skills learned without remembering, the split-brain patients' invented reasons: a great deal happens below awareness. Ask: who is 'you', then?"
+  },
+  {
+   "idea": "Consciousness is the biggest open question.",
+   "more": "Nobody knows how experience arises, which beings have it, or whether a machine could. Emergence, panpsychism and other views are all on the table. This is a frontier a child could one day explore."
+  }
+ ],
+ "unknowns": [
+  "What is consciousness, and how does a brain (or anything) produce experience? Nobody knows.",
+  "Why do we need sleep? Memory, repair and brain-cleaning ideas all have evidence, and the cleaning idea is now hotly debated.",
+  "Which animals feel things, and what is it like to be them? The 2024 New York Declaration says it's a realistic possibility for many, but there is no test that settles it."
+ ],
+ "big": [
+  "If memories are rebuilt every time, is your past real?",
+  "Are you the one thinking your thoughts, or the one watching them?",
+  "Could consciousness exist without a brain, or without matter at all?",
+  "If a robot said it felt sad, should we believe it?",
+  "Whose memories become history, and who decides?"
+ ],
+ "challenge": [
+  {
+   "q": "'Everyone has a learning style (visual, auditory or kinaesthetic), and teaching should match it.'",
+   "hint": "Many people prefer certain ways of learning, but when scientists (for example Harold Pashler and colleagues, 2008) looked for careful tests showing that matching teaching to a style improves learning, they found almost no good evidence. What helps most people: spaced practice, testing yourself, connecting to what you know, and using several senses together. Ask: why might a popular idea spread without evidence?"
+  },
+  {
+   "q": "'I'm sure of it, so it must be true.'",
+   "hint": "Confidence and accuracy are not the same. The false-memory test and the Loftus studies show people can be completely sure of things that never happened. Ask: what can you do when you feel sure?"
+  },
+  {
+   "q": "'Humans have the most advanced mind of all animals because our brains are special.'",
+   "hint": "Our brains have many neurons in the cortex for our size, and we use language and build cultures. But crows, octopuses and bees solve problems with very different brains, and a slime mould with none. Scientists like Herculano-Houzel suggest our brain is a scaled-up primate brain, not a different kind. There's no evidence that humans have the 'most' of every brain feature. Ask: what is a mind for, if not to fit a life?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Candace Pert (1946–2013), neuroscientist",
+   "view": "As a graduate student in 1973, Pert designed and carried out the experiment that found the opiate receptor, a molecular 'lock' in the brain for painkilling chemicals. When a major prize was given for the work in 1978, it went to her supervisor and others, not to her; she protested publicly. Ask: who should get credit, the person with the plan, the one who does the work, or both?"
+  },
+  {
+   "who": "A storyteller in an oral tradition",
+   "view": "Before writing, and still today in many communities, epics, genealogies and songs are carried in memory and passed on aloud, often with help from rhythm, music and place. Ask: what does an oral tradition keep that a book might lose, and what might change each time it's told?"
+  },
+  {
+   "who": "A dolphin",
+   "view": "A dolphin sleeps one half of its brain at a time so that it can keep swimming and breathing. Ask: what would it be like never to be fully asleep, or fully 'off'?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Your Fantastic Elastic Brain: Stretch It, Shape It",
+   "author": "JoAnn Deak",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A gentle recap of neuroplasticity and learning from mistakes."
+  },
+  {
+   "title": "Moonwalking with Einstein",
+   "author": "Joshua Foer",
+   "for": "parent reads",
+   "age": "adult; read parts aloud",
+   "why": "A journalist trains his memory with memory palaces and meets Henry Molaison's story along the way."
+  },
+  {
+   "title": "The Seven Sins of Memory",
+   "author": "Daniel L. Schacter",
+   "for": "parent reads",
+   "age": "adult; read parts aloud",
+   "why": "How and why memory goes wrong, by a leading memory scientist."
+  },
+  {
+   "title": "Are We Smart Enough to Know How Smart Animals Are?",
+   "author": "Frans de Waal",
+   "for": "parent reads",
+   "age": "adult; read parts aloud",
+   "why": "A primatologist on animal minds, mirror tests and how we test other species unfairly."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name four parts of the brain and their main jobs.",
+   "a": "e.g. brainstem: breathing and heartbeat; cerebellum: balance and skilled movement; hippocampus: new event memories; cortex: thinking, sensing, planning; amygdala: alarm."
+  },
+  {
+   "q": "What did Henry Molaison's story teach scientists?",
+   "a": "The hippocampus is needed to form new event memories, and skill memory works separately."
+  },
+  {
+   "q": "What happened in the false-memory word test, and why?",
+   "a": "Many people 'remembered' sleep, which was never said, because memory stores the gist and rebuilds details."
+  },
+  {
+   "q": "Why might an honest eyewitness be wrong?",
+   "a": "Memory is reconstructive; questions and later information can change it."
+  },
+  {
+   "q": "What happens during a night's sleep?",
+   "a": "Cycles of light, deep and REM sleep; deep sleep for repair and memory replay, REM for vivid dreams."
+  },
+  {
+   "q": "What are the two views of emotions?",
+   "a": "Ekman: a few basic built-in emotions; Feldman Barrett: the brain builds each emotion from body feelings, context and culture."
+  },
+  {
+   "q": "Give two views of what consciousness is, and say which you find most convincing.",
+   "a": "e.g. emergence from many neurons; panpsychism; the child's own reasoned view."
+  },
+  {
+   "q": "Is a strong feeling of being sure enough to know a memory is true?",
+   "a": "No: confident memories can be wrong; check with other evidence."
+  }
+ ]
+}

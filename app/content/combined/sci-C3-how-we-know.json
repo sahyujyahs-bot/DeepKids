@@ -1,0 +1,606 @@
+{
+  "key": "combined|sci|3|how-we-know",
+  "board": "combined",
+  "subj": "sci",
+  "level": 3,
+  "n": "how-we-know",
+  "title": "Can it be wrong? Tests, controls and the people science forgot",
+  "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's Grade 3 concept grid (Fringe Science: science is testable; a claim that can't be wrong can't be known right; extraordinary claims need extraordinary evidence; cold fusion as a warning and plate tectonics as an outlier proved right). No board teaches it at this class, so there are no board subtopics to cover. No textbook needed.",
+  "summary": "In Class 1 your child learned to notice, guess, test fairly and ask 'Says who?'. Now they learn what makes a claim scientific: it must be testable, which means it must be possible to show it wrong. They run tests with a control, a blind taste test and a replication, solve a mystery box they may never open, and meet the rule that extraordinary claims need extraordinary evidence. They follow cold fusion, a famous claim that fell apart, and plate tectonics, a laughed-at idea that won when Marie Tharp mapped the ocean floor. They hear about happy accidents (X-rays, Teflon) and the 'prepared mind', old knowledge tested by Tu Youyou, and Cecilia Payne, who found what stars are made of and was told to call it 'not real'.",
+  "builds_on": "Class 1: notice, wonder, make a hypothesis, test fairly, repeat; Says who? How do they know? Who's missing?; Mary Anning, Wegener, Raman, Fleming's mould. This rung adds falsifiability, controls, blinding, replication, peer review, extraordinary claims, paradigm shifts, and fringe versus science. Class 5 goes on to bias, pre-registration, the replication crisis, perpetual motion and other unhealthy fringe, and how big discoveries are checked.",
+  "subconcepts": [
+    "testable claims: a claim must be able to be shown wrong (falsifiable)",
+    "a claim that can't be wrong can't be known right",
+    "variables: change one thing, measure one thing, keep the rest the same",
+    "a control: the comparison that shows what would happen anyway",
+    "blind tests: hiding which is which so wishes don't change results",
+    "replication: other people must get the same result",
+    "peer review: other scientists check work before it is published",
+    "extraordinary claims need extraordinary evidence",
+    "correlation is not causation: happening together doesn't mean one causes the other",
+    "science versus fringe science and pseudoscience",
+    "paradigm shifts: when a whole way of seeing changes",
+    "happy accidents and the prepared mind",
+    "old knowledge, tested",
+    "who did the work and who got the credit"
+  ],
+  "goals": [
+    "By the end your child can say whether a claim is testable, and turn an untestable claim into a testable one.",
+    "By the end your child can plan a test with a control, name what is changed, what is measured and what is kept the same.",
+    "By the end your child can explain why blind tests and replication matter, using their own taste test and helicopter test.",
+    "By the end your child can explain 'extraordinary claims need extraordinary evidence' with the story of cold fusion.",
+    "By the end your child can tell how plate tectonics went from a joke to accepted science, and Marie Tharp's part in it.",
+    "By the end your child can name a happy accident and say why noticing mattered more than luck."
+  ],
+  "words": [
+    ["testable", "a claim you can check with an experiment or observation"],
+    ["falsifiable", "a claim that could be shown wrong if it were wrong"],
+    ["variable", "anything in a test that can change"],
+    ["control", "the part of a test where you change nothing, to compare with"],
+    ["blind test", "a test where the tester doesn't know which is which"],
+    ["replicate", "to repeat someone's experiment and see if you get the same result"],
+    ["peer review", "when other scientists check a piece of work before it is published"],
+    ["correlation", "when two things happen together"],
+    ["pseudoscience", "something that looks like science but isn't tested the way science is"],
+    ["paradigm", "the big picture of how scientists think the world works at a time"],
+    ["spectrum", "the band of colours that light splits into"],
+    ["rift valley", "a long valley where the Earth's crust is pulling apart"]
+  ],
+  "day_mins": 40,
+  "days": [
+    {
+      "n": 1,
+      "title": "Can it be wrong?",
+      "goal": "Recall Class 1, then meet the test of a scientific claim.",
+      "steps": [
+        {
+          "kind": "warmup",
+          "title": "Remember the dice",
+          "mins": 6,
+          "do": "Ask: 'In Class 1 we tested whether blowing on a die brings a six. What did we do, and what did we find?' Good answers: we threw it many times each way and kept everything else the same; blowing made no difference. 'What were the three questions?' (Says who? How do they know? Who's missing?) Say: 'This time we'll find out what makes a claim scientific in the first place.'"
+        },
+        {
+          "kind": "read",
+          "title": "Story: The Stone That Could Not Be Wrong",
+          "mins": 14,
+          "do": "Read the story aloud (Story tab) and ask its questions. Focus on: 'The man said, if it rains, the stone worked; if it doesn't, your heart wasn't pure. Could his stone ever be shown not to work?' (No. Whatever happens, he wins.) 'And Dhapu Kaki?' (She said exactly when, and that she might be wrong. Her claim could fail, so it could be tested.)"
+        },
+        {
+          "kind": "think",
+          "title": "Could it be wrong? sorting",
+          "mins": 20,
+          "do": "Say: 'A philosopher called Karl Popper said a claim is scientific only if it could be shown wrong. A claim that can't be wrong can't be known right either.' Read out these claims; for each your child says 'testable' or 'can never be shown wrong', and why: 'Water boils at 100 degrees at sea level' (testable). 'Something good will happen to you soon' (can't be wrong: anything counts). 'This cream makes pimples go in 3 days' (testable). 'Invisible fairies live in the garden but leave no trace' (can't be wrong). 'Ants prefer sugar to salt' (testable: do it!). 'Mangoes ripen faster in a paper bag' (testable). Then the hard part: turn two untestable claims into testable ones ('Something good will happen' becomes 'You'll find a coin on the road this week', which can fail). Ask: 'Why do people like claims that can't be wrong?' (They feel safe; they can't lose.)"
+        }
+      ],
+      "need": ["paper and pencil"]
+    },
+    {
+      "n": 2,
+      "title": "The mystery box and the control",
+      "goal": "Find out about something you can never see directly, and set up a test with a control.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "The mystery box",
+          "mins": 18,
+          "do": "Do Activity a1. Hand your child the taped box. They may shake, tilt, weigh, listen and roll, but never open it. They write a guess, then do one test that could prove the guess wrong. ('If it's a marble, it will roll when I tilt the box slowly.') Each time a test rules something out, cross it off. Ask: 'Can you ever be completely sure without opening it?' (No, but you can rule out a lot, and get more and more confident.) Say: 'This is how scientists study atoms, the inside of the Earth and faraway stars. Nobody can open those boxes either.' Don't open it until Day 8.",
+          "ref": "a1"
+        },
+        {
+          "kind": "exp",
+          "title": "Salty seeds with a control",
+          "mins": 15,
+          "do": "Set up Experiment e2. Ask: 'Does salty water stop moong seeds sprouting?' Set up three dishes with salty water and three with plain water. Ask: 'Why do we need the plain-water dishes?' (That's the control: it shows what the seeds do anyway. Without it, if salty seeds don't sprout, we'd never know if they were just bad seeds.) 'Why three of each, not one?' (One dish could be unlucky.) Your child writes: what we change (salt), what we measure (how many sprout), what we keep the same (number of seeds, amount of water, place, dish).",
+          "ref": "e2"
+        },
+        {
+          "kind": "talk",
+          "title": "Three kinds of variable",
+          "mins": 7,
+          "do": "Draw three boxes: CHANGE (one thing), MEASURE (one thing), KEEP THE SAME (everything else). Fill them in for the seed test, then for 'Does a heavier ball roll further down a slope?' (Change: weight of ball. Measure: how far it rolls. Keep the same: slope, size of ball, starting point, floor.) Ask: 'What would go wrong if we changed two things at once?' (We wouldn't know which one made the difference.)"
+        }
+      ],
+      "need": ["a shoebox or tiffin with one hidden object inside, taped shut", "a kitchen scale (optional)", "40 moong seeds", "6 small dishes or bottle caps", "cotton wool or tissue", "salt and water", "labels"],
+      "prep": [{"task": "Put one object (a marble, a key, a rubber, a coin or a small ball) inside a box with something to make it interesting (a cardboard wall glued inside), and tape it shut. Don't let your child see.", "when": "night before"}]
+    },
+    {
+      "n": 3,
+      "title": "The blind test",
+      "goal": "See how our wishes can change results, and how scientists stop that.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "Can you really taste the difference?",
+          "mins": 18,
+          "do": "Do Experiment e1. First, open: show your child a fancy biscuit and a plain one and ask which is tastier; let them taste both knowing which is which. Then blind: your child is blindfolded (or turns away) and you give them small pieces, in a mixed order you've written down, 6 times. They say which is which and which they like. Compare. Ask: 'Did you guess right every time? Did you still like the fancy one best when you couldn't see it?' Say: 'In a blind test, the person doesn't know which is which, so their wishes can't change the answer. Medicines are tested this way.'",
+          "ref": "e1"
+        },
+        {
+          "kind": "exp",
+          "title": "Seed check",
+          "mins": 5,
+          "do": "Look at the six dishes from Experiment e2. Ask: 'Any sprouts yet? In which dishes?' Your child records the number sprouting in each dish in a table. Add a few drops of the right water (salty or plain) if they are drying.",
+          "ref": "e2"
+        },
+        {
+          "kind": "think",
+          "title": "Extraordinary claims, and things that happen together",
+          "mins": 17,
+          "do": "Say: 'The astronomer Carl Sagan said: extraordinary claims require extraordinary evidence.' Ask: 'If your friend says she had idli for breakfast, do you need proof?' (No, it's ordinary.) 'If she says she flew to school, what would you need?' (A lot: a video, other people who saw, and more than once.) Then correlation: 'On days when lots of ice-cream is sold, more people go swimming. Does ice-cream make people swim?' (No: hot days cause both.) 'Children with bigger feet read better. Do big feet help reading?' (No: older children have bigger feet and have learned to read.) Ask your child to invent one silly 'happen together' pair and find the hidden cause."
+        }
+      ],
+      "need": ["two kinds of biscuit (one fancy, one plain) or two kinds of juice", "a blindfold or dupatta", "paper to record", "the seed dishes"]
+    },
+    {
+      "n": 4,
+      "title": "Do it again: replication and peer review",
+      "goal": "See why other people must be able to repeat a result, and meet a famous claim that failed.",
+      "steps": [
+        {
+          "kind": "exp",
+          "title": "The helicopter replication",
+          "mins": 18,
+          "do": "Do Experiment e3. Your child makes a paper helicopter with long wings and one with short wings, drops each from the same height 5 times while you time it, and writes their result ('Long wings fall slower'). Then a second person (another grown-up, sibling or you) follows their written instructions without help and repeats it. Ask: 'Did they get the same result? If not, why?' (Different drop height? Different paper? Unclear instructions?) Say: 'This is replication. A result that only one person can get is not trusted yet.'",
+          "ref": "e3"
+        },
+        {
+          "kind": "talk",
+          "title": "Cold fusion",
+          "mins": 12,
+          "do": "Talk about voice v3, Fleischmann and Pons, and ask its question. Explain peer review: 'Before a scientist's work is published in a journal, other scientists read it and look for mistakes. Fleischmann and Pons told the news to reporters before that check.' Ask: 'How was their claim extraordinary? What evidence would have been extraordinary enough?' (Lots of labs getting the same heat, and the particles that fusion must make.)",
+          "ref": "v3"
+        },
+        {
+          "kind": "exp",
+          "title": "Seed results",
+          "mins": 10,
+          "do": "Count the sprouts in all six dishes of Experiment e2 and finish the table. Work out the total sprouted out of 18 (or your number) for salty and for plain. Ask: 'What does the control tell us? Was your guess right? Did all three dishes in each group agree? Why might one dish be different?' Then ask: 'Is this result testable by someone else? What would they need to know from us?' (How much salt, how many seeds, what temperature.)",
+          "ref": "e2"
+        }
+      ],
+      "need": ["paper", "scissors", "2 paper clips", "a phone stopwatch", "the seed dishes"]
+    },
+    {
+      "n": 5,
+      "title": "Happy accidents and old knowledge",
+      "goal": "See how accidents became discoveries in prepared minds, and how old remedies are tested.",
+      "steps": [
+        {
+          "kind": "talk",
+          "title": "The prepared mind",
+          "mins": 10,
+          "do": "Tell three true accidents. 'In 1895 Wilhelm Röntgen was testing a glass tube in a dark room, covered in black card. A screen across the room began to glow. Something invisible was coming through the card. He called it X-rays.' 'In 1938 Roy Plunkett opened a gas cylinder for a fridge experiment and nothing came out. He cut it open and found a slippery white powder: Teflon, now on non-stick pans.' 'In 1945 Percy Spencer was working on radar machines and the sweet in his pocket melted. That led to the microwave oven.' Say: 'Louis Pasteur said chance favours the prepared mind.' Ask: 'What did each person do that someone else might not have?' (Noticed, didn't ignore it, asked why, tested it.)"
+        },
+        {
+          "kind": "act",
+          "title": "Act it out: the glowing screen",
+          "mins": 6,
+          "do": "Make the room dark. One person is Röntgen, one is the glowing screen (holding a torch under a dupatta that 'lights up' when the tube is 'switched on'). Röntgen must test: does it still glow when I put a book in between? A hand? (A hand lets X-rays through but bones block more: in his first famous X-ray picture he saw the bones of his wife Anna Bertha's hand.) Your child says Röntgen's thoughts aloud as he tests."
+        },
+        {
+          "kind": "talk",
+          "title": "Tu Youyou and the ancient recipe",
+          "mins": 12,
+          "do": "Talk about voice v4, Tu Youyou, and ask its question. Point out what she did not do: she did not just believe the old book, and she did not just throw it away. She tested it, and found the clue (cold water, not heat) that made it work. Ask: 'Is there a home remedy in our family? How could we test whether it works? What would be our control?'",
+          "ref": "v4"
+        },
+        {
+          "kind": "ws",
+          "title": "Core worksheet",
+          "mins": 12,
+          "do": "Your child does Worksheet ws1 (core). For each 'testable?' item, ask how they'd test it. For the written items, ask 'How do you know?' and take any well-reasoned answer.",
+          "ref": "ws1"
+        }
+      ],
+      "need": ["a torch", "a dupatta", "a book", "worksheet ws1"]
+    },
+    {
+      "n": 6,
+      "title": "What are the stars made of? Who's missing?",
+      "goal": "Learn how light tells us what stars are made of, and the story of who found it.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Split the light",
+          "mins": 12,
+          "do": "Do Activity a2. Tilt an old CD or DVD in sunlight (never look at the Sun) or under a bright tube light, until a rainbow band appears on it. Say: 'This band is a spectrum. When scientists split starlight this way, they see thin dark lines in it, like a barcode. Each kind of atom makes its own lines. So a star's light tells us what it is made of, without going there.' Your child draws the spectrum and adds some 'barcode' lines.",
+          "ref": "a2"
+        },
+        {
+          "kind": "talk",
+          "title": "Cecilia Payne",
+          "mins": 13,
+          "do": "Talk about voice v1, Cecilia Payne, and ask its question. Ask: 'Russell said her result was impossible because it went against what everyone believed. Was that a good reason?' (A good scientist checks the evidence; what everyone believes can be wrong.) 'Who's missing from the usual story?' Say: 'You are made of rare stuff. Most of the universe is hydrogen; the carbon and oxygen in you are the unusual bits.'",
+          "ref": "v1"
+        },
+        {
+          "kind": "game",
+          "title": "The Road to Knowing",
+          "mins": 15,
+          "do": "Play the board game (g1). Each square is something that happens to a claim on its way to being accepted: replicated, rejected, peer-reviewed, laughed at, proved right. When you land on a square, read it aloud and say why that helps or hurts the claim.",
+          "ref": "g1"
+        }
+      ],
+      "need": ["an old CD or DVD", "sunlight or a bright light", "paper and colours", "the printed board, a die and counters"],
+      "prep": [{"task": "Print the board game and find a die and counters", "when": "night before"}]
+    },
+    {
+      "n": 7,
+      "title": "The map under the sea",
+      "goal": "See how a laughed-at idea won, and what a paradigm shift is.",
+      "steps": [
+        {
+          "kind": "do",
+          "title": "Map the hidden ocean floor",
+          "mins": 18,
+          "do": "Do Activity a3. Your child pushes a marked skewer through each hole in the box lid and records how deep it goes. Then they plot the depths as dots on squared paper and join them: a profile of the hidden 'sea floor'. Ask: 'What shape is it? Is there a valley in the middle of a mountain ridge?' Open the box and compare. Say: 'Ships did this with sound echoes, and Marie Tharp drew the map.'",
+          "ref": "a3"
+        },
+        {
+          "kind": "talk",
+          "title": "Marie Tharp and the crack in the world",
+          "mins": 12,
+          "do": "Talk about voice v2, Marie Tharp, and ask its question. Remind your child of Wegener from Class 1: 'He had clues but no explanation of how continents could move. What did Tharp's map add?' (A crack where the sea floor is pulling apart: the how.)",
+          "ref": "v2"
+        },
+        {
+          "kind": "think",
+          "title": "When the whole picture flips",
+          "mins": 10,
+          "do": "Draw (or show) the famous duck-rabbit picture: a head that is a duck facing left or a rabbit facing right. Ask: 'Which is it?' Once your child sees both, ask: 'Did the lines change, or did your seeing change?' Say: 'A thinker called Thomas Kuhn said science sometimes works like this. Scientists share a big picture, a paradigm. Small puzzles that don't fit pile up, until one day the whole picture flips. Fixed continents flipped to moving plates.' Ask: 'Which is better for science: changing your mind too easily, or too slowly?' (Both are problems: too easily and you believe every wild claim, like cold fusion; too slowly and you miss truths, like Wegener's.)"
+        }
+      ],
+      "need": ["the sea-floor box (see Activity a3)", "a wooden skewer marked every centimetre", "squared paper", "a pencil"],
+      "prep": [{"task": "Build the hidden sea floor: in a shoebox, shape clay or atta dough into a long ridge with a valley down the middle; make a row of 10 holes along the lid; tape the lid on", "when": "night before"}]
+    },
+    {
+      "n": 8,
+      "title": "Detective of claims",
+      "goal": "Review, open the mystery box, share the project and teach it back.",
+      "steps": [
+        {
+          "kind": "ws",
+          "title": "Stretch worksheet",
+          "mins": 10,
+          "do": "Your child does Worksheet ws2 (stretch). For each claim, ask which question (Says who? How do they know? Who's missing? Can it be wrong?) helped most.",
+          "ref": "ws2"
+        },
+        {
+          "kind": "ws",
+          "title": "Challenge worksheet",
+          "mins": 8,
+          "do": "Your child chooses at least four items from Worksheet ws3 (challenge), including one 'what if'. Talk through them; there may be more than one good answer.",
+          "ref": "ws3"
+        },
+        {
+          "kind": "review",
+          "title": "Open the box, share the project",
+          "mins": 10,
+          "do": "Before opening the mystery box from Day 2, your child gives their final guess and how sure they are (from 1 to 10). Open it. Ask: 'Which test helped most? Did any test fool you?' Then your child presents their project: the claim from an advert or packet, the three questions, whether it's testable, and their test plan."
+        },
+        {
+          "kind": "check",
+          "title": "Check and teach it back",
+          "mins": 12,
+          "do": "Ask the check questions. Then your child teaches it back: they explain to a family member what makes a claim scientific, using the stone story, and what a control is, using the seed test. They finish by asking the family member to name one claim they believe and say how it could be shown wrong."
+        }
+      ],
+      "need": ["worksheets ws2 and ws3", "the mystery box", "the project sheet"]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws1",
+      "tier": "core",
+      "title": "Testable claims and fair tests",
+      "day": 5,
+      "sections": [
+        ["A. Can it be wrong?", [
+          {"t": "sort", "p": "Is the claim testable, or can it never be shown wrong?", "items": ["water boils at 100 °C at sea level", "something good will happen to you one day", "this cream clears pimples in 3 days", "invisible fairies that leave no trace live here", "ants prefer sugar to salt", "the stone works if your heart is pure"], "cats": ["testable", "can never be shown wrong"]},
+          {"t": "mcq", "p": "Karl Popper said a claim is scientific if…", "opts": ["a famous person says it", "it could be shown wrong if it were wrong", "lots of people believe it"], "a": 1},
+          {"t": "fill", "p": "The part of a test where you change nothing, so you can compare, is called the ____.", "a": ["control"]}
+        ]],
+        ["B. Inside a test", [
+          {"t": "match", "p": "In the salty seed test, match each part.", "pairs": [["what we change", "salt or no salt in the water"], ["what we measure", "how many seeds sprout"], ["what we keep the same", "number of seeds, amount of water, place"], ["the control", "the dishes with plain water"]]},
+          {"t": "mcq", "p": "Why did we use three dishes of each kind, not one?", "opts": ["to use up the seeds", "one dish could be unlucky, so more dishes make the result more trustworthy", "it looks nicer"], "a": 1},
+          {"t": "mcq", "p": "In a blind taste test, the taster…", "opts": ["closes their eyes and doesn't know which is which", "is told which is the expensive one", "doesn't taste anything"], "a": 0},
+          {"t": "mcq", "p": "A result is replicated when…", "opts": ["the same scientist says it again louder", "other people do the test and get the same result", "it is printed in a newspaper"], "a": 1}
+        ]],
+        ["C. Think", [
+          {"t": "write", "p": "Why can't you ever prove the rain-stone man wrong? How could you change his claim so it can be tested?", "lines": 3},
+          {"t": "write", "p": "Röntgen saw a screen glow when it shouldn't have. Why did his accident become a discovery?", "lines": 2}
+        ]]
+      ]
+    },
+    {
+      "id": "ws2",
+      "tier": "stretch",
+      "title": "Claims in the wild",
+      "day": 8,
+      "sections": [
+        ["A. Extraordinary claims", [
+          {"t": "sort", "p": "Ordinary claim or extraordinary claim?", "items": ["I had poha for breakfast", "I can talk to the dead", "my uncle grew a 2 kg mango", "this bracelet cures all illnesses", "it rained in Chennai today", "a machine makes energy out of nothing"], "cats": ["ordinary", "extraordinary"]},
+          {"t": "mcq", "p": "Cold fusion was rejected mainly because…", "opts": ["the scientists were not famous", "other labs could not get the same result", "it was too expensive"], "a": 1},
+          {"t": "mcq", "p": "More umbrellas are sold on days when more people slip on roads. The hidden cause is…", "opts": ["umbrellas make roads slippery", "rain", "slipping makes people buy umbrellas"], "a": 1},
+          {"t": "fill", "p": "When other scientists check work before it is published, it is called ____ review.", "a": ["peer"]}
+        ]],
+        ["B. Stories of discovery", [
+          {"t": "match", "p": "Match the person to the discovery.", "pairs": [["Cecilia Payne", "stars are mostly hydrogen"], ["Marie Tharp", "a rift valley down the middle of the Atlantic floor"], ["Tu Youyou", "a malaria medicine from sweet wormwood"], ["Wilhelm Röntgen", "X-rays"], ["Roy Plunkett", "Teflon"]]},
+          {"t": "mcq", "p": "When Tharp first showed the rift valley, her colleague…", "opts": ["gave her a prize", "dismissed it as 'girl talk'", "agreed straight away"], "a": 1},
+          {"t": "mcq", "p": "Tu Youyou's key clue from the 1,700-year-old book was to…", "opts": ["boil the plant for hours", "soak it in cold water", "dry it in the sun"], "a": 1}
+        ]],
+        ["C. Think", [
+          {"t": "write", "p": "A packet says 'Clinically proven to make children taller!'. Ask the three questions and 'Can it be wrong?'. What would you want to know?", "lines": 4},
+          {"t": "write", "p": "Plan a test with a control: Does a fan make wet clothes dry faster? Say what you change, what you measure, what you keep the same.", "lines": 4}
+        ]]
+      ]
+    },
+    {
+      "id": "ws3",
+      "tier": "challenge",
+      "title": "Hard cases",
+      "day": 8,
+      "sections": [
+        ["A. Puzzles", [
+          {"t": "mcq", "p": "A doctor gives a new medicine to 10 people with colds, and in a week they are all better. What's missing?", "opts": ["nothing, it works", "a control group who didn't get it: colds get better by themselves in a week", "more medicine"], "a": 1},
+          {"t": "mcq", "p": "In a medicine test, why might the doctor also not know who got the real pill?", "opts": ["so the doctor's hopes don't change how they judge the patients", "to save time", "doctors don't need to know anything"], "a": 0},
+          {"t": "sort", "p": "Was the idea accepted, rejected, or is it still argued about?", "items": ["continents move", "cold fusion in a jar at room temperature", "stars are mostly hydrogen", "trees share food through fungi", "the Earth is flat"], "cats": ["accepted", "rejected", "still argued about"]},
+          {"t": "mcq", "p": "Wegener was right but doubted for 50 years. Cold fusion was wrong and doubted within months. What decided both?", "opts": ["how famous the scientists were", "evidence that others could check", "a vote"], "a": 1}
+        ]],
+        ["B. What if?", [
+          {"t": "write", "p": "What if scientists believed every new claim straight away? What if they never believed anything new? Which is worse?", "lines": 4},
+          {"t": "write", "p": "Your Dadi says haldi milk helps a sore throat. Design a fair, blind test. What is the control? What is hard about it?", "lines": 4},
+          {"t": "write", "p": "Cecilia Payne was told to call her result 'almost certainly not real'. What would you have done? Why?", "lines": 3},
+          {"t": "write", "p": "Is 'Love makes people happy' a testable claim? How could a scientist try to test it? What might they miss?", "lines": 3}
+        ]]
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": "e1",
+      "title": "The blind taste test",
+      "day": 3,
+      "question": "Can we really taste the difference, or do we taste what we expect?",
+      "need": ["a fancy biscuit and a plain biscuit (or two kinds of juice)", "a blindfold or dupatta", "a plate", "paper to record"],
+      "steps": ["Open test: show both, let your child taste each knowing which is which, and say which is tastier.", "Write down a mixed order for 6 tastes, for example fancy, plain, plain, fancy, plain, fancy.", "Blindfold your child (or they turn away). Give small pieces in your written order.", "After each, they say 'fancy' or 'plain', and score how tasty it is from 1 to 5.", "Compare: how many did they name right? Were the scores different when they couldn't see?"],
+      "predict": "Ask: 'Will you name every one right? Will you still like the fancy one best when you can't see it?'",
+      "observe": "Many children name some right and some wrong, and their liking often changes when they can't see the packet. With 6 tastes, getting 3 right is what pure guessing would give.",
+      "why": "What we expect changes what we experience: a famous name or a pretty packet can make food seem tastier. A blind test hides which is which, so expectations can't change the result. Medicines are tested 'double blind': neither the patients nor the doctors judging them know who got the real medicine, so nobody's hopes can colour the results.",
+      "safety": "Check for food allergies first. Use small pieces.",
+      "time": "18 min"
+    },
+    {
+      "id": "e2",
+      "title": "Salty seeds, with a control",
+      "day": 2,
+      "question": "Does salty water stop moong seeds sprouting?",
+      "need": ["36 to 40 moong seeds", "6 small dishes or bottle caps", "cotton wool or folded tissue", "salt", "two cups of water", "labels"],
+      "steps": ["Stir 2 teaspoons of salt into one cup of water. Leave the other cup plain.", "Line all 6 dishes with cotton wool. Label 3 'salty' and 3 'plain'.", "Put 6 seeds on each dish.", "Wet the salty dishes with salty water and the plain dishes with plain water, the same amount each.", "Keep them side by side in the same place.", "Check and count sprouts on Days 3 and 4. Keep the cotton damp with the same water."],
+      "predict": "Ask: 'How many seeds will sprout in salty water? In plain water? Why do we need the plain ones at all?'",
+      "observe": "Most seeds in plain water sprout within one to two days. Seeds in strong salty water sprout less, later, or not at all. The three dishes of one kind may not agree exactly.",
+      "why": "Water moves from less salty to more salty places through a seed's coat. Salty water around the seed pulls water out instead of letting it in, so the seed can't swell and wake up. The plain dishes are the control: they show that the seeds were good and would have sprouted. This is why farmers whose fields become salty, for example near the sea or from too much irrigation, struggle to grow crops.",
+      "safety": "Don't eat the seeds afterwards. Wash hands.",
+      "time": "15 min to set up, then two short checks"
+    },
+    {
+      "id": "e3",
+      "title": "The helicopter replication",
+      "day": 4,
+      "question": "Do paper helicopters with longer wings fall more slowly, and can someone else get the same result?",
+      "need": ["paper", "scissors", "2 paper clips", "a phone stopwatch", "a ruler"],
+      "steps": ["Cut two strips of paper the same width. Make one helicopter with long wings (8 cm) and one with short wings (4 cm): cut down the middle of the top to make two wings, fold them in opposite directions, fold the bottom up and add a paper clip.", "Stand and hold each one at the same height above the floor, wings level. Drop it and time how long it takes to land.", "Drop each 5 times. Write down all the times.", "Your child writes a short instruction sheet: how to make it, how high, how to time.", "A second person follows only the written sheet, makes their own helicopters and repeats the test.", "Compare the two sets of results."],
+      "predict": "Ask: 'Which will fall more slowly? Will the second person get the same answer?'",
+      "observe": "Long-winged helicopters usually spin and fall more slowly. The second person usually finds the same pattern, but their exact times differ. If their result is different, look at the instructions: what was unclear?",
+      "why": "Longer wings push against more air as they spin, so air resistance slows them more. Exact times change with the paper, the drop height and the timer's reactions, which is why scientists repeat tests and why their methods must be written clearly enough for others to copy. A pattern that holds when someone else repeats it has been replicated, and can be trusted much more.",
+      "safety": "Drop from standing height, not from furniture. Take care with scissors.",
+      "time": "18 min"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "title": "The mystery box",
+      "day": 2,
+      "mins": 18,
+      "need": ["a box with a hidden object and a cardboard wall inside, taped shut", "paper and pencil", "a kitchen scale (optional)"],
+      "steps": ["Your child writes three guesses about what's inside.", "For each guess, they think of a test that could prove it wrong (if it's a coin, it will slide, not roll).", "They do the tests: tilt, shake, listen, weigh, roll.", "Cross off guesses the tests rule out.", "Record a final guess and how sure they are from 1 to 10.", "Leave the box shut until Day 8."],
+      "outcome": "A list of guesses, tests and crossed-out ideas, and the feeling of knowing something you can't see."
+    },
+    {
+      "id": "a2",
+      "title": "Starlight barcode",
+      "day": 6,
+      "mins": 12,
+      "need": ["an old CD or DVD", "sunlight or a bright tube light", "white paper", "colours"],
+      "steps": ["Hold the shiny side of the CD in light and tilt it until a band of rainbow colours appears.", "Try to catch the band on white paper.", "Name the colours in order.", "Draw the spectrum on paper as a long strip.", "Add a few thin black lines across it, like a barcode, and say: 'each kind of atom makes its own lines'."],
+      "outcome": "A drawn spectrum and the idea that light carries a fingerprint of what made it."
+    },
+    {
+      "id": "a3",
+      "title": "Map the hidden sea floor",
+      "day": 7,
+      "mins": 18,
+      "need": ["a shoebox with a clay ridge and central valley inside, and 10 holes in a line on the lid", "a skewer marked every centimetre", "squared paper", "a pencil"],
+      "steps": ["Number the holes 1 to 10.", "Push the skewer gently down through hole 1 until it touches. Read the depth in centimetres.", "Record the depth for every hole.", "On squared paper, put the hole numbers along the bottom and mark each depth downwards as a dot.", "Join the dots to make a profile of the hidden floor.", "Open the box and compare."],
+      "outcome": "A depth profile showing a ridge with a valley in the middle, made the way Marie Tharp worked from depth soundings."
+    }
+  ],
+  "voices": [
+    {
+      "id": "v1",
+      "who": "Cecilia Payne-Gaposchkin (1900–1979), England and USA",
+      "idea": "In her 1925 PhD thesis at Harvard, Payne used the spectra of starlight and new atomic physics to work out that stars are made mostly of hydrogen and helium, very unlike the Earth.",
+      "then": "Most astronomers believed stars were made of much the same stuff as Earth. The leading astronomer Henry Norris Russell told her the result was impossible, and she wrote in her thesis that it was 'almost certainly not real'. In 1929 Russell reached the same answer by another method; he mentioned her work, but for years he was the one remembered for it.",
+      "now": "She was right: hydrogen and helium make up almost all the ordinary matter in stars and in the universe. Her thesis is now called one of the most brilliant in astronomy. She later became the first woman to be a full professor at Harvard in its Faculty of Arts and Sciences, in 1956.",
+      "status": "accepted",
+      "ask": "Payne's evidence was good, but it went against what everyone believed. When should a young scientist stand by her result, and when should she doubt it?",
+      "day": 6
+    },
+    {
+      "id": "v2",
+      "who": "Marie Tharp (1920–2006), USA",
+      "idea": "Working with Bruce Heezen at Columbia University from the early 1950s, Tharp turned thousands of ships' echo-depth readings into maps of the ocean floor. In 1952–53 she found a deep rift valley running down the middle of the Mid-Atlantic Ridge, a sign that the sea floor was splitting apart.",
+      "then": "Heezen at first dismissed it as 'girl talk', she later said, because it seemed to support Wegener's moving continents, which most geologists still rejected. Women were not allowed on the research ships, so she worked only from the data the men collected; she first went to sea in 1968.",
+      "now": "The rift turned out to run through all the oceans, matching lines of earthquakes. Along with other evidence, it helped prove plate tectonics in the 1960s. Her world ocean floor map, painted with Heinrich Berann and published in 1977, is famous.",
+      "status": "accepted",
+      "ask": "Tharp never went to sea for 16 years, yet she saw what the men on the ships missed. How could someone who wasn't there see more clearly?",
+      "day": 7
+    },
+    {
+      "id": "v3",
+      "who": "Martin Fleischmann (1927–2012) and Stanley Pons (born 1943), England and USA",
+      "idea": "In March 1989, at a press conference at the University of Utah, they announced 'cold fusion': nuclear fusion, the energy of the Sun, happening in a jar of heavy water at room temperature, which would have meant almost endless cheap energy.",
+      "then": "The news went round the world. Hundreds of labs rushed to repeat it. A few reported extra heat, but most found nothing, and the particles that fusion must produce were missing. Within months most scientists concluded the result was a mistake.",
+      "now": "Cold fusion as claimed is rejected. A small number of researchers still study related effects, without convincing results so far. It is remembered as a warning: announce to the press before peer review, and with an extraordinary claim, and you need extraordinary evidence.",
+      "status": "rejected",
+      "ask": "Fleischmann and Pons were respected scientists who believed what they saw. What should they have done before telling the world?",
+      "day": 4
+    },
+    {
+      "id": "v4",
+      "who": "Tu Youyou (born 1930), China",
+      "idea": "In a secret government project to find a malaria cure (Project 523), Tu and her team searched over 2,000 old Chinese remedies and tested hundreds of plant extracts. A text by Ge Hong from about 340 CE said to soak sweet wormwood (qinghao) in cold water and drink the juice. Realising heat might be destroying the medicine, she extracted it at low temperature, and in 1971 her extract cured malaria in mice and monkeys. She and colleagues tested it on themselves first.",
+      "then": "The work was kept secret for years, and many people in the project contributed, so there were arguments in China about who deserved credit. She had no PhD and no overseas training.",
+      "now": "The medicine, artemisinin, is the basis of the main malaria treatments today and has saved millions of lives, especially in Africa and Asia. In 2015 she became the first Chinese woman to win a Nobel Prize in science.",
+      "status": "accepted",
+      "ask": "The old book had the clue, but a modern test proved it. Who should get credit for the medicine: Ge Hong, Tu Youyou, her team, or the healers who first used the plant?",
+      "day": 5
+    }
+  ],
+  "check": [
+    {"q": "What makes a claim scientific, according to Karl Popper?", "a": "It can be tested, and it could be shown wrong if it were wrong."},
+    {"q": "Why can't the rain-stone claim ever be shown wrong?", "a": "Whatever happens he has an answer: rain means the stone worked, no rain means your heart wasn't pure."},
+    {"q": "What was the control in the salty seed test, and why did we need it?", "a": "The dishes with plain water; they show what the seeds do anyway, so we know any difference comes from the salt."},
+    {"q": "Why do scientists do blind tests?", "a": "So what people expect or hope can't change the result."},
+    {"q": "What does 'extraordinary claims need extraordinary evidence' mean? Give an example.", "a": "An amazing claim needs very strong evidence that others can check. Cold fusion was amazing, but other labs couldn't repeat it, so it was rejected."},
+    {"q": "Ice-cream sales and swimming go up together. Does ice-cream cause swimming?", "a": "No: hot weather causes both. Happening together (correlation) is not the same as causing."},
+    {"q": "How did Marie Tharp help prove that continents move?", "a": "She mapped the ocean floor from depth readings and found a rift valley where the sea floor is pulling apart."},
+    {"q": "What does 'chance favours the prepared mind' mean?", "a": "Accidents only become discoveries when someone notices them, asks why, and tests, like Röntgen with X-rays."}
+  ],
+  "project": {
+    "title": "Claim detective",
+    "days": [3, 8],
+    "steps": [
+      "On Day 3, find three claims on packets, adverts or posters at home or in the market ('kills 99.9% of germs', 'makes you stronger', 'India's No. 1').",
+      "For each, ask: Says who? How do they know? Who's missing? Can it be wrong?",
+      "Sort them: testable, untestable, or testable but we can't test it at home.",
+      "Choose one testable claim and plan a fair test: what you change, what you measure, what you keep the same, and what your control is.",
+      "If it is safe and simple, do the test (for example, 'This detergent removes haldi stains better' with two cloths and two detergents).",
+      "On Day 8, present your claims, your questions and your test plan or result."
+    ],
+    "outcome": "A claim detective sheet with three real claims questioned, and one fair test designed with a control."
+  },
+  "game": {
+    "id": "g1",
+    "title": "The Road to Knowing",
+    "kind": "board",
+    "players": "2–4",
+    "need": ["the printed board", "a die", "a counter for each player"],
+    "rules": [
+      "Each player is a new scientific claim trying to become accepted knowledge. Put your counters on START.",
+      "Take turns to roll the die and move forward.",
+      "Read your square aloud and do what it says. Before you move, say in one sentence why that event helps or hurts a claim.",
+      "If two claims land on the same square, the second one says 'replicated!' and both move forward 1.",
+      "The first claim to reach ACCEPTED, FOR NOW wins. Remember: even accepted knowledge can change with new evidence."
+    ],
+    "squares": [
+      "START: you have a wild idea",
+      "You write a guess that could be wrong: move forward 2",
+      "Your claim can't be wrong whatever happens: go back to START",
+      "You set up a control: move forward 1",
+      "You changed two things at once: go back 2",
+      "Laughed at by famous scientists: miss a turn (keep your evidence!)",
+      "You do a blind test: move forward 2",
+      "You told the newspapers before checking: go back 3",
+      "Peer reviewers find a mistake; you fix it: move forward 1",
+      "You only tried once: go back 1",
+      "Another lab gets the same result: move forward 3",
+      "Your result was an accident and you noticed it: move forward 2",
+      "Two things happened together; you assumed one caused the other: go back 2",
+      "You share your data so anyone can check: move forward 2",
+      "A woman on your team did the key work; you name her: move forward 1",
+      "Your hopes made you see what you wanted: go back 2",
+      "New evidence from the ocean floor: move forward 3",
+      "You change your mind when the evidence changes: move forward 2",
+      "Nobody can repeat your result: go back to the 'set up a control' square",
+      "The whole picture flips: a paradigm shift! Move forward 2",
+      "ACCEPTED, FOR NOW"
+    ]
+  },
+  "big": [
+    "Is there anything you believe that could never be shown wrong? Is that belief worth less, or is it just a different kind of thing?",
+    "Should scientists be strict gatekeepers, or open to every wild idea? What gets lost each way?",
+    "If a grandmother's remedy works but nobody has written it in a journal, is it knowledge?",
+    "Why do you think the people who did the work were so often not the ones remembered?",
+    "Can you ever be completely sure about something you can't see, like the inside of the mystery box or the inside of the Earth?"
+  ],
+  "challenge": [
+    {"q": "People say Archimedes jumped out of his bath shouting 'Eureka!' when he worked out how to test the king's crown. Did it happen?", "hint": "The story was first written down by the Roman writer Vitruvius about 200 years after Archimedes died, and Archimedes never described it himself. Archimedes did write a real book on floating, with the principle of upthrust. Historians think the bath story is probably made up or exaggerated. Ask: why do we love stories of sudden genius more than stories of slow, careful work?"},
+    {"q": "Newton is said to have discovered gravity when an apple fell on his head. True?", "hint": "Newton himself told a friend, William Stukeley, late in his life that seeing an apple fall in his garden made him wonder about gravity. But nothing fell on his head, and working out the law of gravity took him about 20 years of hard mathematics. People knew things fall long before Newton; in India, Brahmagupta wrote in the 7th century that the Earth attracts objects. Ask: what is the difference between noticing something and explaining it?"},
+    {"q": "Wegener was laughed at, so every scientist who is laughed at must be right. Is that true?", "hint": "No. For every Wegener there are many people with wild ideas who really were wrong, like cold fusion. Being laughed at proves nothing either way. What made Wegener right in the end was evidence that others could check. Ask: how can you tell a misunderstood genius from someone who is simply mistaken?"}
+  ],
+  "perspectives": [
+    {"who": "An Ayurveda practitioner", "view": "Ayurveda is a very old Indian system of healing. Some of its plants contain chemicals that modern tests have found useful, while many of its claims have never been tested in fair trials, and some have been tested and not supported. Ask: should old remedies be tested the same way as new medicines? Who should pay for the testing?"},
+    {"who": "A judge in a courtroom", "view": "A judge listens to evidence from both sides, asks who saw what, and how they know. A court decides 'beyond reasonable doubt', not with total certainty. Ask: how is a court like a science lab? How is it different?"},
+    {"who": "A malaria mosquito", "view": "To a mosquito, artemisinin is a disaster. Some malaria parasites are slowly becoming resistant to it, so scientists must keep watching and testing. Ask: is a discovery ever finished?"},
+    {"who": "A woman 'computer' at Harvard Observatory in 1900", "view": "Women were paid to measure thousands of star photographs, often less than men, and their names rarely appeared on the discoveries. Cecilia Payne worked among them. Ask: if you did the measuring but someone else wrote the paper, whose discovery is it?"}
+  ],
+  "story": {
+    "title": "The Stone That Could Not Be Wrong",
+    "text": [
+      "I am a crow, and I have lived in the neem tree beside the well in Sanwara for eleven summers, which is old for a crow and young for a tree. From up here I see everything: who takes too much water, who feeds the dogs, who is kind to crows. Very few, in that last list.",
+      "That year the rain was late. The sky over the Aravalli hills was white and hard, like the inside of a shell. The fields were cracked into shapes, and the farmers walked out every morning, looked up, and walked back with their shoulders lower.",
+      "On the ninth day of waiting, a man came on a bicycle with a tin box tied to the back. He wore a clean white kurta, which is how I knew he was not from here, because nobody here had clean anything that summer. He set up a cloth under my tree and opened the box, and inside, on red velvet, was a smooth black stone.",
+      "'The rain stone,' he called, 'from a holy mountain far to the north! Buy a chip of it, bury it at the edge of your field, and the rain will come to you!'",
+      "A small crowd gathered. Old Sumer Singh, who had four fields and seven grandchildren, asked how much. The price was large. People murmured.",
+      "'But does it work?' asked a girl at the front. Her name was Meera. She was eight and had a scab on her knee and a way of standing with her chin forward that I liked. I have seen her share her roti with the black dog that nobody owns.",
+      "'Of course it works,' said the man, smiling. 'If it rains on your field, the stone has worked.'",
+      "'And if it doesn't rain?'",
+      "'Then,' said the man, still smiling, 'your heart was not pure enough. The stone only helps the pure.'",
+      "Some people nodded. Sumer Singh was already untying the knot in his dhoti where he kept his money.",
+      "Meera frowned. She frowned for a long time. Then she said, 'So if it rains, the stone is good. And if it doesn't rain, the stone is still good, and it's our fault.'",
+      "'Exactly,' said the man.",
+      "'Then what would happen,' said Meera slowly, 'if the stone didn't work at all? What would we see?'",
+      "The man opened his mouth. He closed it. He opened it again. 'It always works,' he said.",
+      "'But if it didn't,' said Meera. 'What would be different?'",
+      "Nobody had an answer, not even the man. I hopped down a branch to see better. A crow notices when a human runs out of words; it doesn't happen often.",
+      "Then old Dhapu Kaki pushed through the crowd. She was the oldest woman in Sanwara, older than my tree, with silver rings on her toes and a voice like a dry branch. She did not look at the stone. She looked at the sky over the hills, and at the ants marching up the wall of the well with their white eggs in their jaws, and at me.",
+      "'I'll tell you something for free,' she said. 'The wind has turned. It's coming from the south-west since last night. The ants are carrying their eggs up high. The crows are building on the east side of the trees.' (This was true. I had moved my nest. I don't know why. My feathers told me.) 'Rain in three days,' said Dhapu Kaki. 'Maybe four. If it doesn't come by the fifth day, I was wrong, and you can laugh at me at the well.'",
+      "Meera turned and stared at her. 'You could be wrong,' she said. It wasn't rude. It was wonder.",
+      "'Of course I could,' said Dhapu Kaki. 'That's how you know I've said something.'",
+      "The man with the stone packed his box very quickly after that. Nobody bought a chip. Sumer Singh tied his money back into his dhoti, looking embarrassed, and then looking relieved. The man pushed his bicycle up the road, and I will tell you a secret: I felt a little sorry for him. His kurta was clean but his bicycle tyres were patched in five places. He was hungry too, in his way. The drought made everyone into something.",
+      "That evening Meera came to the well with a slate and a piece of chalk. She drew five lines on the slate. 'Day one,' she said to the black dog, and crossed off a line.",
+      "Day two, she crossed off another. The sky stayed white. The men at the well began to make jokes about Dhapu Kaki, and Meera stood with her chin forward and said nothing, and crossed off a line.",
+      "On day three the sky over the hills turned the colour of a bruise. The air smelled of iron and dust. I flew up high, higher than I usually bother, and from up there I could see it: a grey curtain dragging itself across the hills, towards us, slow as an old buffalo.",
+      "It reached Sanwara just after dark. It rained on Sumer Singh's four fields and on Dhapu Kaki's roof and on the patched road the man had gone up. It rained on the field of the family whose hearts were said to be not pure, and on the field of the family that thought theirs were. It rained on the neem tree, and on me, and on a small girl standing in the middle of the lane with her face turned up and her slate held over her head, laughing.",
+      "The next morning I saw her at the well, rubbing out the chalk lines. Then she drew something new on the slate, very carefully, and showed it to the dog. It was a question mark. Underneath it she had written: How can I be wrong?",
+      "I don't read, of course. Dhapu Kaki told me later what it said. I think she was making it up. I think she was very pleased."
+    ],
+    "epiphany": "For the parent: the rain stone's claim can never fail: rain proves it works, and no rain proves your heart was impure. A claim that can't be wrong tells you nothing, so it can't be known right. Dhapu Kaki's claim is the opposite: it is based on evidence (wind, ants, crows), it says exactly what will happen and when, and she says how it could fail. The turn comes when Meera asks 'What would we see if the stone didn't work?' and nobody can answer. Note too that the rain falls on every field, pure or not.",
+    "ask": [
+      "Why couldn't anyone ever prove the rain stone didn't work?",
+      "Dhapu Kaki said, 'Of course I could be wrong. That's how you know I've said something.' What did she mean?",
+      "What evidence did Dhapu Kaki use? Was it science, even though she never went to school for it?",
+      "The crow felt sorry for the man with the stone. Do you? Why might someone sell a stone like that?",
+      "Meera wrote 'How can I be wrong?' Why is that a good question to ask about your own ideas?"
+    ]
+  },
+  "ideas": [
+    {"idea": "A claim that can't be wrong can't be known right.", "more": "The rain stone wins whatever happens, so it tells us nothing. Scientific claims stick their necks out: they say what would prove them wrong. Practise turning 'something good will happen' into 'you'll find a coin this week'."},
+    {"idea": "To know if something works, you must compare it with what happens anyway.", "more": "The plain-water seeds (the control) and the blind taste test show that our wishes and chance can fool us. Colds get better in a week with or without medicine: only a control shows the difference."},
+    {"idea": "Science is a crowd, not a genius: results count when others can check them.", "more": "Cold fusion fell when others couldn't repeat it; plate tectonics won when the evidence piled up from many people, including Marie Tharp, who was not allowed on the ships."},
+    {"idea": "Discovery stories leave people out.", "more": "Payne, Tharp and the team around Tu Youyou did the work while others were remembered. Ask 'Who's missing?' every time, including about the stories in this pack."}
+  ],
+  "unknowns": [
+    "How can we tell a misunderstood genius from someone who is simply wrong, before the evidence is in? Nobody has a perfect rule, and philosophers still argue about what makes something science.",
+    "Many old remedies from India, China and Africa have never been fairly tested. Which ones work? Nobody knows yet, and testing them all would take a very long time.",
+    "Why do some people trust science and others don't? Scientists who study people are still finding out."
+  ],
+  "books": [
+    {"title": "Solving the Puzzle Under the Sea: Marie Tharp Maps the Ocean Floor", "author": "Robert Burleigh", "for": "read together", "age": "5–9", "why": "A beautiful picture book of Tharp's life and her map, to read after Day 7."},
+    {"title": "Mistakes That Worked", "author": "Charlotte Foltz Jones", "for": "read alone", "age": "8–12", "why": "Short true stories of inventions that started as accidents, for the day on the prepared mind."},
+    {"title": "Women in Science: 50 Fearless Pioneers Who Changed the World", "author": "Rachel Ignotofsky", "for": "read together", "age": "8–12", "why": "One illustrated page per scientist, including several from this week. Use it to ask 'Who's missing?'"},
+    {"title": "The Demon-Haunted World: Science as a Candle in the Dark", "author": "Carl Sagan", "for": "parent reads", "age": "adult (read parts aloud)", "why": "Sagan's book on telling science from pseudoscience, with his 'baloney detection kit'. Read the chapter about the dragon in the garage aloud: it is the rain stone in another form."}
+  ]
+}

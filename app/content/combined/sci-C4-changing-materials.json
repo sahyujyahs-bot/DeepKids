@@ -1,11 +1,29 @@
 {
  "key": "combined|sci|4|changing-materials",
- "board": "combined", "subj": "sci", "level": 4, "n": "changing-materials",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "changing-materials",
  "title": "Hidden heat: how solids and liquids behave, melt, set and react",
  "source": "DeepKids Combined. Covers Cambridge Stage 4 Chemistry: Unit 3.2 'How do solids and liquids behave?', Unit 3.3 'Melting and solidifying' and Unit 3.4 'Chemical reactions'. No textbook needed. Goes with the Matter and particles rung (Class 4), which builds the particle model this rung uses.",
  "summary": "In Class 2 your child sorted changes into reversible and irreversible and watched a candle melt and burn. Now they find out why. They test how solids and liquids behave (including solids that pour and a liquid that turns hard when punched), race syrups to measure viscosity, find melting points and use salt to make ice colder, follow heat as it flows from hot to cold and makes things expand, and discover that melting soaks up hidden heat. Then they make real chemical reactions in the kitchen (fizz, paneer, a colour-changing haldi) and test what makes iron rust. They meet a ship full of ice that sailed to Calcutta in 1833, and the people who made ice from the night sky long before it arrived.",
  "builds_on": "Class 2: shape changes; melting and freezing; reversible and irreversible changes; cooking and burning; the candle that melts and burns; Lavoisier and phlogiston. Matter and particles (Class 4) gives the particle model used here. Next: Gases, evaporation, condensation and solutions (Class 5) adds boiling, evaporation, condensation and dissolving.",
- "subconcepts": ["solids keep their shape and volume; liquids keep volume but take the container's shape", "powders and grains: solids that pour", "viscosity: thick and runny liquids", "a liquid that acts like a solid when struck (cornflour oobleck)", "melting point and freezing point: each substance has its own", "salt lowers the freezing point of water", "change of state: the particles stay the same, only their arrangement and movement change", "melting soaks up heat; freezing gives it out (hidden heat)", "heat flows from hot to cold: conductors and insulators", "thermal expansion: most things grow a little when heated", "water expands when it freezes", "chemical reactions make new substances: signs to look for", "rusting needs iron, water and air, and how to prevent it", "physical change versus chemical change"],
+ "subconcepts": [
+  "solids keep their shape and volume; liquids keep volume but take the container's shape",
+  "powders and grains: solids that pour",
+  "viscosity: thick and runny liquids",
+  "a liquid that acts like a solid when struck (cornflour oobleck)",
+  "melting point and freezing point: each substance has its own",
+  "salt lowers the freezing point of water",
+  "change of state: the particles stay the same, only their arrangement and movement change",
+  "melting soaks up heat; freezing gives it out (hidden heat)",
+  "heat flows from hot to cold: conductors and insulators",
+  "thermal expansion: most things grow a little when heated",
+  "water expands when it freezes",
+  "chemical reactions make new substances: signs to look for",
+  "rusting needs iron, water and air, and how to prevent it",
+  "physical change versus chemical change"
+ ],
  "goals": [
   "By the end your child can describe how solids and liquids behave, including tricky cases like powders, honey and oobleck.",
   "By the end your child can carry out a fair test of viscosity and explain the effect of temperature on it.",
@@ -14,186 +32,1174 @@
   "By the end your child can name the signs of a chemical reaction and tell a physical change from a chemical one.",
   "By the end your child can explain what makes iron rust and three ways to stop it."
  ],
- "words": [["state of matter", "whether something is a solid, a liquid or a gas"], ["viscosity", "how thick and slow a liquid is to flow; honey has high viscosity, water low"], ["melting point", "the temperature at which a solid melts"], ["freezing point", "the temperature at which a liquid becomes solid; for pure water, 0 °C"], ["solidify", "to change from liquid to solid"], ["conductor", "a material that lets heat (or electricity) pass through it easily, like steel"], ["insulator", "a material that slows heat down, like wool, wood, sawdust or air"], ["expand", "to get bigger; most things expand when heated"], ["contract", "to get smaller; most things contract when cooled"], ["physical change", "a change in shape or state where no new substance is made"], ["chemical reaction", "a change in which new substances are made"], ["rust", "the flaky brown new substance made when iron reacts with water and oxygen"]],
+ "words": [
+  [
+   "state of matter",
+   "whether something is a solid, a liquid or a gas"
+  ],
+  [
+   "viscosity",
+   "how thick and slow a liquid is to flow; honey has high viscosity, water low"
+  ],
+  [
+   "melting point",
+   "the temperature at which a solid melts"
+  ],
+  [
+   "freezing point",
+   "the temperature at which a liquid becomes solid; for pure water, 0 °C"
+  ],
+  [
+   "solidify",
+   "to change from liquid to solid"
+  ],
+  [
+   "conductor",
+   "a material that lets heat (or electricity) pass through it easily, like steel"
+  ],
+  [
+   "insulator",
+   "a material that slows heat down, like wool, wood, sawdust or air"
+  ],
+  [
+   "expand",
+   "to get bigger; most things expand when heated"
+  ],
+  [
+   "contract",
+   "to get smaller; most things contract when cooled"
+  ],
+  [
+   "physical change",
+   "a change in shape or state where no new substance is made"
+  ],
+  [
+   "chemical reaction",
+   "a change in which new substances are made"
+  ],
+  [
+   "rust",
+   "the flaky brown new substance made when iron reacts with water and oxygen"
+  ]
+ ],
  "day_mins": 45,
  "days": [
-  {"n": 1, "title": "Solid or liquid? The tricky ones", "goal": "Recall reversible and irreversible changes and test how solids and liquids behave.",
+  {
+   "n": 1,
+   "title": "Solid or liquid? The tricky ones",
+   "goal": "Recall reversible and irreversible changes and test how solids and liquids behave.",
    "steps": [
-    {"kind": "warmup", "title": "Noor's candle, remembered", "mins": 7, "do": "Ask: 'In Class 2, Noor's candle melted and burned. Which change could she undo?' (the melting: the drips set and made a new candle). 'Which couldn't she undo, and where did that wax go?' (the burning: it became invisible gases in the air). Say: 'This year we find out WHY things melt, and what is really happening when a new substance is made.'"},
-    {"kind": "do", "title": "Shape and volume tests", "mins": 13, "do": "Put out: a stone, a wooden block, water, coconut oil (liquid if warm), honey, a heap of sugar, flour, a spoon of ghee, toothpaste and a jelly or a cube of paneer. For each, your child does two tests. SHAPE: put it in a cup, then tip it into a bowl. Does it keep its own shape or take the shape of the container? VOLUME: pour a measured 50 ml of water from cup to bowl to bottle and back into the measuring cup: still 50 ml? Ask: 'Sugar poured into the bowl and took its shape. Is sugar a liquid?' Let your child look at sugar with a magnifier: each grain is a tiny solid with its own shape and flat faces. Say: 'Powders pour because they are many small solids sliding past each other. A solid keeps its shape and volume; a liquid keeps its volume but takes the shape of its container.'"},
-    {"kind": "exp", "title": "Oobleck: the liquid that punches back", "mins": 18, "do": "Do Experiment e1. Mix cornflour and water to make oobleck. Your child stirs it slowly (it flows like a thick liquid), then stabs it fast with a finger (it goes hard), squeezes a handful into a ball (solid while squeezed) and opens the hand (it melts and drips away). Ask: 'Solid or liquid?' Let them argue both. Say: 'Scientists call it a non-Newtonian fluid. Our tidy boxes, solid and liquid, don't always fit nature.'", "ref": "e1"},
-    {"kind": "exp", "title": "Start the rust jars", "mins": 7, "do": "Set up Experiment e7 now; it needs a week. Four jars, each with a clean iron nail: A open to air, dry (with a spoon of dry rice to soak up damp); B half in tap water, open to air; C in boiled, cooled water with a layer of oil on top (little air can get in); D half in salt water. Label them. Your child predicts which will rust most.", "ref": "e7"}
-   ], "need": ["a stone, wooden block, water, coconut oil, honey, sugar, flour, ghee, toothpaste, jelly or paneer", "a measuring cup, a bowl, a bottle, a magnifying glass", "1 cup cornflour, half a cup of water, a tray", "4 jars, 4 iron nails, dry rice, salt, oil, boiled water"]},
-  {"n": 2, "title": "The syrup race", "goal": "Measure viscosity fairly and see how heat changes it.",
+    {
+     "kind": "warmup",
+     "title": "Noor's candle, remembered",
+     "mins": 7,
+     "do": "Ask: 'In Class 2, Noor's candle melted and burned. Which change could she undo?' (the melting: the drips set and made a new candle). 'Which couldn't she undo, and where did that wax go?' (the burning: it became invisible gases in the air). Say: 'This year we find out WHY things melt, and what is really happening when a new substance is made.'"
+    },
+    {
+     "kind": "do",
+     "title": "Shape and volume tests",
+     "mins": 13,
+     "do": "Put out: a stone, a wooden block, water, coconut oil (liquid if warm), honey, a heap of sugar, flour, a spoon of ghee, toothpaste and a jelly or a cube of paneer. For each, your child does two tests. SHAPE: put it in a cup, then tip it into a bowl. Does it keep its own shape or take the shape of the container? VOLUME: pour a measured 50 ml of water from cup to bowl to bottle and back into the measuring cup: still 50 ml? Ask: 'Sugar poured into the bowl and took its shape. Is sugar a liquid?' Let your child look at sugar with a magnifier: each grain is a tiny solid with its own shape and flat faces. Say: 'Powders pour because they are many small solids sliding past each other. A solid keeps its shape and volume; a liquid keeps its volume but takes the shape of its container.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Oobleck: the liquid that punches back",
+     "mins": 18,
+     "do": "Do Experiment e1. Mix cornflour and water to make oobleck. Your child stirs it slowly (it flows like a thick liquid), then stabs it fast with a finger (it goes hard), squeezes a handful into a ball (solid while squeezed) and opens the hand (it melts and drips away). Ask: 'Solid or liquid?' Let them argue both. Say: 'Scientists call it a non-Newtonian fluid. Our tidy boxes, solid and liquid, don't always fit nature.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "exp",
+     "title": "Start the rust jars",
+     "mins": 7,
+     "do": "Set up Experiment e7 now; it needs a week. Four jars, each with a clean iron nail: A open to air, dry (with a spoon of dry rice to soak up damp); B half in tap water, open to air; C in boiled, cooled water with a layer of oil on top (little air can get in); D half in salt water. Label them. Your child predicts which will rust most.",
+     "ref": "e7"
+    }
+   ],
+   "need": [
+    "a stone, wooden block, water, coconut oil, honey, sugar, flour, ghee, toothpaste, jelly or paneer",
+    "a measuring cup, a bowl, a bottle, a magnifying glass",
+    "1 cup cornflour, half a cup of water, a tray",
+    "4 jars, 4 iron nails, dry rice, salt, oil, boiled water"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The syrup race",
+   "goal": "Measure viscosity fairly and see how heat changes it.",
    "steps": [
-    {"kind": "exp", "title": "The syrup race", "mins": 22, "do": "Do Experiment e2, the syrup race. Prop a smooth tray or a steel plate at a slope on two books. At the top, draw a start line; at the bottom, a finish line. Your child puts ONE teaspoon each of water, coconut oil, honey, shampoo and jaggery syrup (or ketchup) on the start line at the same moment, with a helper, and times each one to the finish. Record in Worksheet ws1's table. Ask: 'Which liquid had the highest viscosity? How did we make the race fair?' (same amount, same slope, same start line and time).", "ref": "e2"},
-    {"kind": "exp", "title": "Warm honey, cold honey", "mins": 10, "do": "Put one spoon of honey in a small steel bowl standing in warm water for 5 minutes, and one in the fridge. Race them down the slope. Ask: 'What did heat do to the honey's viscosity?' (made it runnier). Say: 'Heating makes the particles of a liquid move faster and slide past each other more easily. That's why a halwai warms jaggery syrup, and why glassblowers heat glass until it flows like very thick honey.'"},
-    {"kind": "act", "title": "Dance the liquids", "mins": 13, "do": "Put on music. Call a liquid and your child moves like it: WATER (quick, flowing, splashing), OIL (smooth and slippery), HONEY (very slow, stretchy, sticky), OOBLECK (slow, but freeze rock-hard when you clap). Then ICE (stiff, still, only trembling on the spot) and STEAM (fast, wild, spreading to every corner of the room). Ask: 'In which dance did you move most? Least?' Say: 'That is roughly what the tiny particles are doing in each state.'"}
-   ], "need": ["a tray or steel plate, two books, a timer", "water, coconut oil, honey, shampoo, jaggery syrup or ketchup, teaspoons", "a bowl of warm water and a fridge", "music", "worksheet ws1"]},
-  {"n": 3, "title": "Melting points, and the ice ship", "goal": "Find that each substance melts at its own temperature, and meet the story.",
+    {
+     "kind": "exp",
+     "title": "The syrup race",
+     "mins": 22,
+     "do": "Do Experiment e2, the syrup race. Prop a smooth tray or a steel plate at a slope on two books. At the top, draw a start line; at the bottom, a finish line. Your child puts ONE teaspoon each of water, coconut oil, honey, shampoo and jaggery syrup (or ketchup) on the start line at the same moment, with a helper, and times each one to the finish. Record in Worksheet ws1's table. Ask: 'Which liquid had the highest viscosity? How did we make the race fair?' (same amount, same slope, same start line and time).",
+     "ref": "e2"
+    },
+    {
+     "kind": "exp",
+     "title": "Warm honey, cold honey",
+     "mins": 10,
+     "do": "Put one spoon of honey in a small steel bowl standing in warm water for 5 minutes, and one in the fridge. Race them down the slope. Ask: 'What did heat do to the honey's viscosity?' (made it runnier). Say: 'Heating makes the particles of a liquid move faster and slide past each other more easily. That's why a halwai warms jaggery syrup, and why glassblowers heat glass until it flows like very thick honey.'"
+    },
+    {
+     "kind": "act",
+     "title": "Dance the liquids",
+     "mins": 13,
+     "do": "Put on music. Call a liquid and your child moves like it: WATER (quick, flowing, splashing), OIL (smooth and slippery), HONEY (very slow, stretchy, sticky), OOBLECK (slow, but freeze rock-hard when you clap). Then ICE (stiff, still, only trembling on the spot) and STEAM (fast, wild, spreading to every corner of the room). Ask: 'In which dance did you move most? Least?' Say: 'That is roughly what the tiny particles are doing in each state.'"
+    }
+   ],
+   "need": [
+    "a tray or steel plate, two books, a timer",
+    "water, coconut oil, honey, shampoo, jaggery syrup or ketchup, teaspoons",
+    "a bowl of warm water and a fridge",
+    "music",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Melting points, and the ice ship",
+   "goal": "Find that each substance melts at its own temperature, and meet the story.",
    "steps": [
-    {"kind": "read", "title": "Story: The Ice That Crossed the Ocean", "mins": 12, "do": "Read the story aloud. Don't explain. Ask: 'Why did the ice survive the long voyage?' (the sawdust and straw kept the heat out). 'How did Gopal's family make ice without a freezer?' (in shallow pans on cold, clear winter nights; the water's heat escaped into the sky). Keep the other questions for later."},
-    {"kind": "exp", "title": "Melting point hunt", "mins": 20, "do": "Do Experiment e3. With a kitchen or aquarium thermometer, your child measures: crushed ice in a glass (it stays near 0 °C while it melts, even as the room is warm); a bowl of warm water (about 40 °C) in which small foil cups of ghee, butter, chocolate, coconut oil (solid from the fridge) and candle wax float. Watch which melt and which don't. Write a melting-point line: ice 0 °C, coconut oil about 24 °C, butter about 30 to 35 °C, chocolate about 34 °C, ghee a little higher, candle wax about 50 to 60 °C. Ask: 'Which would melt on a hot May afternoon in Nagpur?' (all but the wax, and maybe even the wax in the sun on a car dashboard).", "ref": "e3"},
-    {"kind": "think", "title": "Why hold still at 0 °C?", "mins": 8, "do": "Ask: 'The room was warm, so heat was going into the ice. Why didn't the thermometer go up until the ice had all melted?' Explain: 'All the heat going in is being used to break the ice apart into water, not to warm it. Scientists once called this hidden heat.' Ask: 'So is melting ice taking heat in, or giving it out?' (taking it in: that's why ice cools your drink)."},
-    {"kind": "review", "title": "Rust jars: first look", "mins": 5, "do": "Look at the four rust jars from Day 1. Note any colour on each nail in the rust table. Don't disturb them."}
-   ], "need": ["a kitchen or aquarium thermometer", "crushed ice", "a bowl of warm water, small foil cups", "ghee, butter, chocolate, coconut oil from the fridge, a bit of candle wax"]},
-  {"n": 4, "title": "Salt, ice and kulfi", "goal": "Use salt to lower the freezing point, solidify a liquid, and weigh an argument about hot water freezing faster.",
+    {
+     "kind": "read",
+     "title": "Story: The Ice That Crossed the Ocean",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain. Ask: 'Why did the ice survive the long voyage?' (the sawdust and straw kept the heat out). 'How did Gopal's family make ice without a freezer?' (in shallow pans on cold, clear winter nights; the water's heat escaped into the sky). Keep the other questions for later."
+    },
+    {
+     "kind": "exp",
+     "title": "Melting point hunt",
+     "mins": 20,
+     "do": "Do Experiment e3. With a kitchen or aquarium thermometer, your child measures: crushed ice in a glass (it stays near 0 °C while it melts, even as the room is warm); a bowl of warm water (about 40 °C) in which small foil cups of ghee, butter, chocolate, coconut oil (solid from the fridge) and candle wax float. Watch which melt and which don't. Write a melting-point line: ice 0 °C, coconut oil about 24 °C, butter about 30 to 35 °C, chocolate about 34 °C, ghee a little higher, candle wax about 50 to 60 °C. Ask: 'Which would melt on a hot May afternoon in Nagpur?' (all but the wax, and maybe even the wax in the sun on a car dashboard).",
+     "ref": "e3"
+    },
+    {
+     "kind": "think",
+     "title": "Why hold still at 0 °C?",
+     "mins": 8,
+     "do": "Ask: 'The room was warm, so heat was going into the ice. Why didn't the thermometer go up until the ice had all melted?' Explain: 'All the heat going in is being used to break the ice apart into water, not to warm it. Scientists once called this hidden heat.' Ask: 'So is melting ice taking heat in, or giving it out?' (taking it in: that's why ice cools your drink)."
+    },
+    {
+     "kind": "review",
+     "title": "Rust jars: first look",
+     "mins": 5,
+     "do": "Look at the four rust jars from Day 1. Note any colour on each nail in the rust table. Don't disturb them."
+    }
+   ],
+   "need": [
+    "a kitchen or aquarium thermometer",
+    "crushed ice",
+    "a bowl of warm water, small foil cups",
+    "ghee, butter, chocolate, coconut oil from the fridge, a bit of candle wax"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Salt, ice and kulfi",
+   "goal": "Use salt to lower the freezing point, solidify a liquid, and weigh an argument about hot water freezing faster.",
    "steps": [
-    {"kind": "exp", "title": "Kulfi in a bag", "mins": 20, "do": "Do Experiment e4. Put sweetened milk (with a pinch of elaichi) in a small zip bag and seal it. Put it inside a bigger bag full of crushed ice and four big spoons of salt, seal, wrap in a towel and shake for 10 minutes. Put a thermometer in the salty ice: it goes BELOW 0 °C, often to minus 10 °C or colder. The milk solidifies. Ask: 'Why did we need salt? Ice alone is 0 °C. What did the salt do?' (salt lowers the temperature at which water freezes and melts, so the salty ice melts while getting colder, taking heat from the milk). Mention that old kulfi-makers in Indian bazaars used ice and salt around their matkas in just this way.", "ref": "e4"},
-    {"kind": "talk", "title": "Ice from the night sky", "mins": 10, "do": "Tell voice v2, the ice-makers of 18th-century North India who made ice in shallow pans on winter nights, and how an English officer wrote it up. Ask: 'The air wasn't below freezing. How could water freeze?' (on a clear, still night the water's heat radiates up into the cold sky, and some water evaporates, which cools it further). Ask the voice's question.", "ref": "v2"},
-    {"kind": "talk", "title": "Does hot water freeze faster?", "mins": 10, "do": "Tell voice v3, Erasto Mpemba's kitchen discovery. Ask your child to design a fair test: same cups, same amount of water, same place in the freezer, one hot and one cold, checked every 15 minutes. Then explain why scientists still argue: the results change with tiny details (the cup, the freezer, how you decide something is 'frozen'). Ask: 'If you got hot-first once, would you believe it? How many times would you test?' If you like, try it this evening with two steel cups (a grown-up pours the hot water).", "ref": "v3"},
-    {"kind": "review", "title": "Melting or freezing?", "mins": 5, "do": "Ask: 'In the kulfi bag, which thing melted and which thing froze?' (the salty ice melted, the milk froze). 'Where did the heat go?' (from the milk into the ice). Say: 'Heat always flows from hot to cold. Tomorrow we follow it.'"}
-   ], "need": ["half a cup of sweetened milk with elaichi, a small and a big zip bag", "crushed ice, salt, a towel, a thermometer", "two steel cups (optional evening test)"]},
-  {"n": 5, "title": "Following heat: flow and expansion", "goal": "See heat flow from hot to cold, compare conductors and insulators, and watch things expand.",
+    {
+     "kind": "exp",
+     "title": "Kulfi in a bag",
+     "mins": 20,
+     "do": "Do Experiment e4. Put sweetened milk (with a pinch of elaichi) in a small zip bag and seal it. Put it inside a bigger bag full of crushed ice and four big spoons of salt, seal, wrap in a towel and shake for 10 minutes. Put a thermometer in the salty ice: it goes BELOW 0 °C, often to minus 10 °C or colder. The milk solidifies. Ask: 'Why did we need salt? Ice alone is 0 °C. What did the salt do?' (salt lowers the temperature at which water freezes and melts, so the salty ice melts while getting colder, taking heat from the milk). Mention that old kulfi-makers in Indian bazaars used ice and salt around their matkas in just this way.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Ice from the night sky",
+     "mins": 10,
+     "do": "Tell voice v2, the ice-makers of 18th-century North India who made ice in shallow pans on winter nights, and how an English officer wrote it up. Ask: 'The air wasn't below freezing. How could water freeze?' (on a clear, still night the water's heat radiates up into the cold sky, and some water evaporates, which cools it further). Ask the voice's question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "Does hot water freeze faster?",
+     "mins": 10,
+     "do": "Tell voice v3, Erasto Mpemba's kitchen discovery. Ask your child to design a fair test: same cups, same amount of water, same place in the freezer, one hot and one cold, checked every 15 minutes. Then explain why scientists still argue: the results change with tiny details (the cup, the freezer, how you decide something is 'frozen'). Ask: 'If you got hot-first once, would you believe it? How many times would you test?' If you like, try it this evening with two steel cups (a grown-up pours the hot water).",
+     "ref": "v3"
+    },
+    {
+     "kind": "review",
+     "title": "Melting or freezing?",
+     "mins": 5,
+     "do": "Ask: 'In the kulfi bag, which thing melted and which thing froze?' (the salty ice melted, the milk froze). 'Where did the heat go?' (from the milk into the ice). Say: 'Heat always flows from hot to cold. Tomorrow we follow it.'"
+    }
+   ],
+   "need": [
+    "half a cup of sweetened milk with elaichi, a small and a big zip bag",
+    "crushed ice, salt, a towel, a thermometer",
+    "two steel cups (optional evening test)"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Following heat: flow and expansion",
+   "goal": "See heat flow from hot to cold, compare conductors and insulators, and watch things expand.",
    "steps": [
-    {"kind": "exp", "title": "Spoon race", "mins": 10, "do": "A grown-up pours hot (not boiling) water into a mug. Stand a steel spoon, a wooden spoon and a plastic spoon in it, each with a small blob of butter stuck near the top with a dried pea pressed into it. Your child watches: which pea drops first? (steel). Say: 'Steel is a good conductor of heat; wood and plastic are insulators.' Ask: 'Why do kadhai handles and pressure cooker handles use wood or plastic?'"},
-    {"kind": "exp", "title": "The ice-saving challenge", "mins": 15, "do": "Start the project. Each person gets one ice cube in a small steel cup and must build a 'cooler' from home materials to keep it from melting longest: wool, newspaper, sawdust or rice husk, foil, cotton wool, a thermocol box, a matka. Remind your child of the ice ship's sawdust. Leave them for one hour and note the time. Ask: 'Are we keeping the cold in, or keeping the heat out?' (keeping heat out: cold is just less heat).", "ref": "e5"},
-    {"kind": "exp", "title": "The balloon that breathes", "mins": 12, "do": "Do Experiment e6. Stretch a balloon over the neck of an empty glass bottle. Stand the bottle in a bowl of hot water: the balloon slowly lifts and fills. Move it to a bowl of ice water: the balloon droops and may be sucked inwards. Then try the jar-lid trick: a stuck metal lid on a glass jar loosens after a grown-up runs hot water over the lid, because the metal expands more than the glass. Ask: 'Why do railway tracks and long bridges have small gaps?' (so the steel has room to expand on hot days without buckling).", "ref": "e6"},
-    {"kind": "act", "title": "Breathe hot, breathe cool", "mins": 8, "do": "A gentle yoga moment. Your child sits tall. Five slow rounds of sheetali breath: curl the tongue (or purse the lips if they can't) and breathe in slowly through it, feeling cool air, then out through the nose. Then stretch slowly: arms up and wide on each in-breath ('expand, like the warm air in the bottle'), hug the knees on each out-breath ('contract, like the cold air'). Ask: 'Why does the air you breathe out feel warmer than the air you breathe in?' (your body warmed it: heat flowed from you to the air)."}
-   ], "need": ["a mug of hot water (a grown-up pours)", "steel, wooden and plastic spoons, butter, dried peas", "ice cubes and small steel cups, insulating materials", "a balloon, an empty glass bottle, bowls of hot and ice water, a jar with a metal lid"]},
-  {"n": 6, "title": "Water breaks the rules, and the Sun Queen", "goal": "See water expand when it freezes, check the ice-saving challenge, and meet Mária Telkes.",
+    {
+     "kind": "exp",
+     "title": "Spoon race",
+     "mins": 10,
+     "do": "A grown-up pours hot (not boiling) water into a mug. Stand a steel spoon, a wooden spoon and a plastic spoon in it, each with a small blob of butter stuck near the top with a dried pea pressed into it. Your child watches: which pea drops first? (steel). Say: 'Steel is a good conductor of heat; wood and plastic are insulators.' Ask: 'Why do kadhai handles and pressure cooker handles use wood or plastic?'"
+    },
+    {
+     "kind": "exp",
+     "title": "The ice-saving challenge",
+     "mins": 15,
+     "do": "Start the project. Each person gets one ice cube in a small steel cup and must build a 'cooler' from home materials to keep it from melting longest: wool, newspaper, sawdust or rice husk, foil, cotton wool, a thermocol box, a matka. Remind your child of the ice ship's sawdust. Leave them for one hour and note the time. Ask: 'Are we keeping the cold in, or keeping the heat out?' (keeping heat out: cold is just less heat). At the end of the hour (after today's lesson), open each cooler and write down how much ice is left; you'll compare them tomorrow.",
+     "ref": "e5"
+    },
+    {
+     "kind": "exp",
+     "title": "The balloon that breathes",
+     "mins": 12,
+     "do": "Do Experiment e6. Stretch a balloon over the neck of an empty glass bottle. Stand the bottle in a bowl of hot water: the balloon slowly lifts and fills. Move it to a bowl of ice water: the balloon droops and may be sucked inwards. Then try the jar-lid trick: a stuck metal lid on a glass jar loosens after a grown-up runs hot water over the lid, because the metal expands more than the glass. Ask: 'Why do railway tracks and long bridges have small gaps?' (so the steel has room to expand on hot days without buckling).",
+     "ref": "e6"
+    },
+    {
+     "kind": "act",
+     "title": "Breathe hot, breathe cool",
+     "mins": 8,
+     "do": "A gentle yoga moment. Your child sits tall. Five slow rounds of sheetali breath: curl the tongue (or purse the lips if they can't) and breathe in slowly through it, feeling cool air, then out through the nose. Then stretch slowly: arms up and wide on each in-breath ('expand, like the warm air in the bottle'), hug the knees on each out-breath ('contract, like the cold air'). Ask: 'Why does the air you breathe out feel warmer than the air you breathe in?' (your body warmed it: heat flowed from you to the air)."
+    }
+   ],
+   "need": [
+    "a mug of hot water (a grown-up pours)",
+    "steel, wooden and plastic spoons, butter, dried peas",
+    "ice cubes and small steel cups, insulating materials",
+    "a balloon, an empty glass bottle, bowls of hot and ice water, a jar with a metal lid"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Water breaks the rules, and the Sun Queen",
+   "goal": "See water expand when it freezes, check the ice-saving challenge, and meet Mária Telkes.",
    "steps": [
-    {"kind": "review", "title": "Who saved the ice?", "mins": 10, "do": "Check the ice-saving challenge (it ran overnight in the freezer for the bottle test below, but the ice cubes were checked yesterday after one hour; if you didn't, do the challenge again now, for 30 minutes). Rank the coolers by how much water is in each cup. Ask: 'Which material was the best insulator? What do the best ones have in common?' (lots of trapped air: wool, sawdust, thermocol, cotton wool). Say: 'Still air is one of the best insulators there is.'"},
-    {"kind": "exp", "title": "The bulging bottle", "mins": 10, "do": "Last night, fill a small plastic bottle right to the brim with water, screw the lid on, and stand it in the freezer. (Never use glass: it can crack.) Now look: the bottle bulges, or the lid has pushed up. Ask: 'Most things contract when they get cold. What did water do?' (it expanded as it froze). Say: 'That's why ice floats: the same water takes more space as ice, so it is less dense. Lakes freeze from the top, and the fish live on in the water underneath.' Ask: 'Why can water pipes burst in a Himalayan winter?'"},
-    {"kind": "talk", "title": "The Sun Queen", "mins": 15, "do": "Tell voice v1, Mária Telkes. Explain her idea simply: when a special salt melts, it soaks up heat; when it sets again, it gives that heat back. So you can store the Sun's heat by day in melting salt and get it back at night. Connect it to Day 3: 'Remember how melting ice took in hidden heat without getting warmer? Telkes used the same trick backwards to keep a house warm.' Ask the voice's question.", "ref": "v1"},
-    {"kind": "ws", "title": "Core worksheet", "mins": 10, "do": "Do Worksheet ws1 (the syrup-race table should already be filled in). For the written items, ask your child to use the words conductor, insulator, expand or melting point.", "ref": "ws1"}
-   ], "need": ["a small plastic bottle, filled to the brim and frozen the night before", "the coolers and cups from Day 5", "worksheet ws1"], "prep": [{"task": "Fill a small plastic bottle to the brim with water, close it and put it in the freezer", "when": "night before"}]},
-  {"n": 7, "title": "New substances: kitchen reactions", "goal": "Make chemical reactions and learn the signs that a new substance has formed.",
+    {
+     "kind": "review",
+     "title": "Who saved the ice?",
+     "mins": 10,
+     "do": "Bring out the results of yesterday's ice-saving challenge (you checked the coolers after one hour and noted how much ice was left; if you didn't manage it, run the challenge again now for 30 minutes while you do the next step). Rank the coolers by how much water is in each cup. Ask: 'Which material was the best insulator? What do the best ones have in common?' (lots of trapped air: wool, sawdust, thermocol, cotton wool). Say: 'Still air is one of the best insulators there is.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The bulging bottle",
+     "mins": 10,
+     "do": "Last night, fill a small plastic bottle right to the brim with water, screw the lid on, and stand it in the freezer. (Never use glass: it can crack.) Now look: the bottle bulges, or the lid has pushed up. Ask: 'Most things contract when they get cold. What did water do?' (it expanded as it froze). Say: 'That's why ice floats: the same water takes more space as ice, so it is less dense. Lakes freeze from the top, and the fish live on in the water underneath.' Ask: 'Why can water pipes burst in a Himalayan winter?'"
+    },
+    {
+     "kind": "talk",
+     "title": "The Sun Queen",
+     "mins": 15,
+     "do": "Tell voice v1, Mária Telkes. Explain her idea simply: when a special salt melts, it soaks up heat; when it sets again, it gives that heat back. So you can store the Sun's heat by day in melting salt and get it back at night. Connect it to Day 3: 'Remember how melting ice took in hidden heat without getting warmer? Telkes used the same trick backwards to keep a house warm.' Ask the voice's question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws1 (the syrup-race table should already be filled in). For the written items, ask your child to use the words conductor, insulator, expand or melting point.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a small plastic bottle, filled to the brim and frozen the night before",
+    "the coolers and cups from Day 5",
+    "worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Fill a small plastic bottle to the brim with water, close it and put it in the freezer",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "New substances: kitchen reactions",
+   "goal": "Make chemical reactions and learn the signs that a new substance has formed.",
    "steps": [
-    {"kind": "exp", "title": "Three kitchen reactions", "mins": 25, "do": "Do Experiment e8 with a grown-up. REACTION 1: in a cup, add a spoon of baking soda to lemon juice. Your child feels the cup (it gets slightly colder) and watches the fizz: a new gas, carbon dioxide. REACTION 2: a grown-up heats a cup of milk until hot, then stirs in the juice of half a lemon: the milk splits into white lumps (paneer, or chhena) and a greenish liquid (whey). Strain through a cloth. REACTION 3: dissolve a pinch of haldi in a little water to make yellow paint and paint a stripe on paper. When dry, dab it with soapy water or baking-soda water: it turns red-brown. Ask after each: 'Is this a new substance? How can you tell?' Write the signs: gas bubbles, colour change, temperature change, a new solid appearing, a new smell, light or flame (as in burning).", "ref": "e8"},
-    {"kind": "think", "title": "Physical or chemical?", "mins": 10, "do": "Sort these aloud with reasons: ice melting (physical: still water), paneer forming (chemical: new substances), sugar dissolving in tea (physical: the sugar is still there, Class 5 will get it back), roti browning (chemical), wax setting (physical), a matchstick burning (chemical), a nail rusting (chemical, we'll see). Ask: 'Is every chemical change irreversible?' (most everyday ones are hard to reverse; chemists can reverse some, but usually not in a kitchen)."},
-    {"kind": "talk", "title": "The chemist who fought for his country's chemistry", "mins": 10, "do": "Tell voice v4, Prafulla Chandra Ray. Ask: 'Ray wrote that ancient Indian craftspeople knew a great deal of practical chemistry, making medicines, dyes and metals. Who in your family or town does practical chemistry every day without calling it that?' (a cook, a dyer, a halwai, a blacksmith, a soap-maker). Ask the voice's question.", "ref": "v4"}
-   ], "need": ["baking soda, lemons, a cup of milk, a pan and stove (grown-up), a muslin cloth or strainer", "haldi, paper, a brush, soapy water", "worksheet ws2 for tomorrow"]},
-  {"n": 8, "title": "Rust, and the race to the ice house", "goal": "Read the rust experiment and play the board game.",
+    {
+     "kind": "exp",
+     "title": "Three kitchen reactions",
+     "mins": 25,
+     "do": "Do Experiment e8 with a grown-up. REACTION 1: in a cup, add a spoon of baking soda to lemon juice. Your child feels the cup (it gets slightly colder) and watches the fizz: a new gas, carbon dioxide. REACTION 2: a grown-up heats a cup of milk until hot, then stirs in the juice of half a lemon: the milk splits into white lumps (paneer, or chhena) and a greenish liquid (whey). Strain through a cloth. REACTION 3: dissolve a pinch of haldi in a little water to make yellow paint and paint a stripe on paper. When dry, dab it with soapy water or baking-soda water: it turns red-brown. Ask after each: 'Is this a new substance? How can you tell?' Write the signs: gas bubbles, colour change, temperature change, a new solid appearing, a new smell, light or flame (as in burning).",
+     "ref": "e8"
+    },
+    {
+     "kind": "think",
+     "title": "Physical or chemical?",
+     "mins": 10,
+     "do": "Sort these aloud with reasons: ice melting (physical: still water), paneer forming (chemical: new substances), sugar dissolving in tea (physical: the sugar is still there, Class 5 will get it back), roti browning (chemical), wax setting (physical), a matchstick burning (chemical), a nail rusting (chemical, we'll see). Ask: 'Is every chemical change irreversible?' (most everyday ones are hard to reverse; chemists can reverse some, but usually not in a kitchen)."
+    },
+    {
+     "kind": "talk",
+     "title": "The chemist who fought for his country's chemistry",
+     "mins": 10,
+     "do": "Tell voice v4, Prafulla Chandra Ray. Ask: 'Ray wrote that ancient Indian craftspeople knew a great deal of practical chemistry, making medicines, dyes and metals. Who in your family or town does practical chemistry every day without calling it that?' (a cook, a dyer, a halwai, a blacksmith, a soap-maker). Ask the voice's question.",
+     "ref": "v4"
+    }
+   ],
+   "need": [
+    "baking soda, lemons, a cup of milk, a pan and stove (grown-up), a muslin cloth or strainer",
+    "haldi, paper, a brush, soapy water",
+    "worksheet ws2 for tomorrow"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Rust, and the race to the ice house",
+   "goal": "Read the rust experiment and play the board game.",
    "steps": [
-    {"kind": "exp", "title": "Read the rust jars", "mins": 15, "do": "Take the nails out of the four jars from Experiment e7 and lay them on newspaper. Your child scores each for rust from 0 (none) to 5 (covered). Ask: 'Which rusted most?' (usually D, salt water, then B). 'Which hardly rusted?' (A, dry air, and C, water with no air). 'So what does iron need to rust?' (BOTH water and oxygen from air; salt speeds it up). Say: 'Rust is a new substance, iron oxide; it is flaky and weak, not shiny and strong.' Then ask for three ways to stop rust: paint, oil or grease, a coat of another metal (galvanising with zinc), keeping things dry. Mention the Iron Pillar in Delhi, which a rich phosphorus content helps protect.", "ref": "e7"},
-    {"kind": "ws", "title": "Stretch worksheet", "mins": 12, "do": "Do Worksheet ws2. The rust sort and the reaction signs should come quickly after today's jars.", "ref": "ws2"},
-    {"kind": "game", "title": "Race to the Ice House", "mins": 18, "do": "Play the board game g1. Each player is a block of ice on the voyage from Boston to Calcutta. Heat squares melt you (move back); insulation squares protect you. Whoever reaches the ice house with the most ice left wins. On every square, the player must say whether heat is flowing in or out.", "ref": "g1"}
-   ], "need": ["the four rust jars, newspaper", "worksheet ws2", "the printed board, a die, counters and 10 'ice tokens' each (small paper squares)"]},
-  {"n": 9, "title": "Teach it back", "goal": "Present the project, take on the challenge worksheet and explain the whole rung.",
+    {
+     "kind": "exp",
+     "title": "Read the rust jars",
+     "mins": 15,
+     "do": "Take the nails out of the four jars from Experiment e7 and lay them on newspaper. Your child scores each for rust from 0 (none) to 5 (covered). Ask: 'Which rusted most?' (usually D, salt water, then B). 'Which hardly rusted?' (A, dry air, and C, water with no air). 'So what does iron need to rust?' (BOTH water and oxygen from air; salt speeds it up). Say: 'Rust is a new substance, iron oxide; it is flaky and weak, not shiny and strong.' Then ask for three ways to stop rust: paint, oil or grease, a coat of another metal (galvanising with zinc), keeping things dry. Mention the Iron Pillar in Delhi, which a rich phosphorus content helps protect.",
+     "ref": "e7"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws2. The rust sort and the reaction signs should come quickly after today's jars.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "game",
+     "title": "Race to the Ice House",
+     "mins": 18,
+     "do": "Play the board game g1. Each player is a block of ice on the voyage from Boston to Calcutta. Heat squares melt you (move back); insulation squares protect you. Whoever reaches the ice house with the most ice left wins. On every square, the player must say whether heat is flowing in or out.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "the four rust jars, newspaper",
+    "worksheet ws2",
+    "the printed board, a die, counters and 10 'ice tokens' each (small paper squares)"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Teach it back",
+   "goal": "Present the project, take on the challenge worksheet and explain the whole rung.",
    "steps": [
-    {"kind": "act", "title": "The ice-saving report", "mins": 13, "do": "Finish the project. Your child writes or tells a short report: the question, the materials tried, what was kept the same, the results (ranked), and the reason the winner worked (trapped air, keeping heat out). Then they design a better cooler using what they learned and say how they would test it. If you can, build it and test it once more."},
-    {"kind": "ws", "title": "Challenge worksheet", "mins": 14, "do": "Do Worksheet ws3. Encourage your child to argue the debate questions both ways before deciding.", "ref": "ws3"},
-    {"kind": "check", "title": "Teach it back", "mins": 18, "do": "Your child teaches a family member: how solids, liquids and powders behave, the syrup race and viscosity, melting points and salt ice, heat flow and expansion, why water is strange when it freezes, the signs of a chemical reaction, and how to stop rust. They finish by retelling the ice ship story in one minute. Then ask the check questions."}
-   ], "need": ["the project results", "worksheet ws3"]}
+    {
+     "kind": "act",
+     "title": "The ice-saving report",
+     "mins": 13,
+     "do": "Finish the project. Your child writes or tells a short report: the question, the materials tried, what was kept the same, the results (ranked), and the reason the winner worked (trapped air, keeping heat out). Then they design a better cooler using what they learned and say how they would test it. If you can, build it and test it once more."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 14,
+     "do": "Do Worksheet ws3. Encourage your child to argue the debate questions both ways before deciding.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 18,
+     "do": "Your child teaches a family member: how solids, liquids and powders behave, the syrup race and viscosity, melting points and salt ice, heat flow and expansion, why water is strange when it freezes, the signs of a chemical reaction, and how to stop rust. They finish by retelling the ice ship story in one minute. Then ask the check questions."
+    }
+   ],
+   "need": [
+    "the project results",
+    "worksheet ws3"
+   ]
+  }
  ],
  "worksheets": [
-  {"id": "ws1", "tier": "core", "title": "Solids, liquids and heat", "day": 6, "sections": [
-   ["A. The syrup race", [
-    {"t": "table", "p": "Record the syrup race.", "cols": ["Liquid", "Time to finish (seconds)", "Rank (1 = fastest)"], "rows": 5, "prefill": ["water", "coconut oil", "honey", "shampoo", "jaggery syrup or ketchup"]},
-    {"t": "fill", "p": "A thick, slow liquid like honey has a high ____.", "a": ["viscosity"]},
-    {"t": "mcq", "p": "Warming honey makes it…", "opts": ["thicker", "runnier", "turn into gas"], "a": 1}]],
-   ["B. States and melting", [
-    {"t": "sort", "p": "Keeps its own shape, or takes the container's shape?", "items": ["stone", "milk", "a sugar grain", "honey", "a wooden block", "coconut oil (warm)"], "cats": ["keeps its own shape", "takes the container's shape"]},
-    {"t": "fill", "p": "Pure ice melts at ____ °C.", "a": ["0", "zero"]},
-    {"t": "mcq", "p": "Which melts at the lowest temperature?", "opts": ["candle wax", "ice", "butter"], "a": 1}]],
-   ["C. Heat", [
-    {"t": "sort", "p": "Conductor or insulator?", "items": ["steel spoon", "wool", "wooden spoon", "aluminium pan", "thermocol", "copper wire"], "cats": ["conductor", "insulator"]},
-    {"t": "write", "p": "Why did the ice ship pack its ice in sawdust? Use the word insulator.", "lines": 2},
-    {"t": "write", "p": "Why do railway tracks have small gaps between the rails?", "lines": 2}]]]},
-  {"id": "ws2", "tier": "stretch", "title": "Reactions and rust", "day": 8, "sections": [
-   ["A. Signs of a reaction", [
-    {"t": "mcq", "p": "Which is a sign that a new substance has formed?", "opts": ["the shape changed", "bubbles of a new gas appeared", "it got cut in half"], "a": 1},
-    {"t": "match", "p": "Match the reaction to its sign.", "pairs": [["baking soda in lemon juice", "fizzing and getting colder"], ["lemon in hot milk", "new white lumps (paneer)"], ["haldi with soap", "yellow turns red-brown"], ["matchstick", "light, heat and smoke"]]},
-    {"t": "sort", "p": "Physical change or chemical reaction?", "items": ["ice melting", "paneer forming", "sugar dissolving in tea", "roti browning", "wax setting", "a nail rusting"], "cats": ["physical change", "chemical reaction"]}]],
-   ["B. Rust", [
-    {"t": "mcq", "p": "In our jars, iron rusted most when it had…", "opts": ["only dry air", "water and air (and salt)", "water with oil on top"], "a": 1},
-    {"t": "fill", "p": "Iron needs water and ____ to rust.", "a": ["air", "oxygen"]},
-    {"t": "sort", "p": "Does it help stop rust?", "items": ["painting a gate", "leaving a cycle out in the monsoon", "oiling a chain", "coating steel with zinc", "putting a nail in salt water", "keeping tools dry"], "cats": ["stops rust", "speeds up rust"]}]],
-   ["C. Explain", [
-    {"t": "write", "p": "Ice in the kulfi bag went below 0 °C when we added salt. Explain what the salt did and where the milk's heat went.", "lines": 3},
-    {"t": "write", "p": "A plastic bottle full of water bulged in the freezer. Why is this strange, and why does it matter for fish in a frozen lake?", "lines": 3}]]]},
-  {"id": "ws3", "tier": "challenge", "title": "Think like Telkes", "day": 9, "sections": [
-   ["A. Puzzles", [
-    {"t": "mcq", "p": "While ice is melting in a warm room, its temperature…", "opts": ["rises steadily", "stays near 0 °C until it has all melted", "drops below 0 °C"], "a": 1},
-    {"t": "mcq", "p": "Oobleck goes hard when punched. It is…", "opts": ["a solid", "a liquid", "a non-Newtonian fluid that behaves like both"], "a": 2},
-    {"t": "mcq", "p": "Telkes stored the Sun's heat by…", "opts": ["melting a salt by day and letting it set at night", "freezing water", "burning coal"], "a": 0},
-    {"t": "fill", "p": "Most things ____ when heated and contract when cooled.", "a": ["expand"]},
-    {"t": "match", "p": "Match the observation to the idea.", "pairs": [["a jar lid loosens under hot water", "metal expands more than glass"], ["ice floats", "water expands when it freezes"], ["a steel spoon gets hot fast", "steel is a good conductor"], ["kulfi freezes in salty ice", "salt lowers the freezing point"]]},
-    {"t": "sort", "p": "Taking heat in or giving heat out?", "items": ["ice melting", "water freezing", "a hot cup of chai cooling", "wax setting", "chocolate melting in your hand"], "cats": ["taking heat in", "giving heat out"]}]],
-   ["B. Harder thinking", [
-    {"t": "write", "p": "Mpemba said hot water can freeze before cold water. Some scientists say yes, sometimes; some say it's a trick of how we measure. Design a test that would convince you either way.", "lines": 4},
-    {"t": "write", "p": "The ice ship brought ice for rich people in Calcutta. The ice-makers of Allahabad made ice from the night sky. Which do you find more clever, and why? Who got the credit?", "lines": 3},
-    {"t": "write", "p": "We say 'cold gets in' when a door is left open in winter. Is that what really happens? Explain using heat flow.", "lines": 3}]]]}
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Solids, liquids and heat",
+   "day": 6,
+   "sections": [
+    [
+     "A. The syrup race",
+     [
+      {
+       "t": "table",
+       "p": "Record the syrup race.",
+       "cols": [
+        "Liquid",
+        "Time to finish (seconds)",
+        "Rank (1 = fastest)"
+       ],
+       "rows": 5,
+       "prefill": [
+        "water",
+        "coconut oil",
+        "honey",
+        "shampoo",
+        "jaggery syrup or ketchup"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A thick, slow liquid like honey has a high ____.",
+       "a": [
+        "viscosity"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Warming honey makes it…",
+       "opts": [
+        "thicker",
+        "runnier",
+        "turn into gas"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. States and melting",
+     [
+      {
+       "t": "sort",
+       "p": "Keeps its own shape, or takes the container's shape?",
+       "items": [
+        "stone",
+        "milk",
+        "a sugar grain",
+        "honey",
+        "a wooden block",
+        "coconut oil (warm)"
+       ],
+       "cats": [
+        "keeps its own shape",
+        "takes the container's shape"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Pure ice melts at ____ °C.",
+       "a": [
+        "0",
+        "zero"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which melts at the lowest temperature?",
+       "opts": [
+        "candle wax",
+        "ice",
+        "butter"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Heat",
+     [
+      {
+       "t": "sort",
+       "p": "Conductor or insulator?",
+       "items": [
+        "steel spoon",
+        "wool",
+        "wooden spoon",
+        "aluminium pan",
+        "thermocol",
+        "copper wire"
+       ],
+       "cats": [
+        "conductor",
+        "insulator"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Why did the ice ship pack its ice in sawdust? Use the word insulator.",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why do railway tracks have small gaps between the rails?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Reactions and rust",
+   "day": 8,
+   "sections": [
+    [
+     "A. Signs of a reaction",
+     [
+      {
+       "t": "mcq",
+       "p": "Which is a sign that a new substance has formed?",
+       "opts": [
+        "the shape changed",
+        "bubbles of a new gas appeared",
+        "it got cut in half"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match the reaction to its sign.",
+       "pairs": [
+        [
+         "baking soda in lemon juice",
+         "fizzing and getting colder"
+        ],
+        [
+         "lemon in hot milk",
+         "new white lumps (paneer)"
+        ],
+        [
+         "haldi with soap",
+         "yellow turns red-brown"
+        ],
+        [
+         "matchstick",
+         "light, heat and smoke"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Physical change or chemical reaction?",
+       "items": [
+        "ice melting",
+        "paneer forming",
+        "sugar dissolving in tea",
+        "roti browning",
+        "wax setting",
+        "a nail rusting"
+       ],
+       "cats": [
+        "physical change",
+        "chemical reaction"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Rust",
+     [
+      {
+       "t": "mcq",
+       "p": "In our jars, iron rusted most when it had…",
+       "opts": [
+        "only dry air",
+        "water and air (and salt)",
+        "water with oil on top"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Iron needs water and ____ to rust.",
+       "a": [
+        "air",
+        "oxygen"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Does it help stop rust?",
+       "items": [
+        "painting a gate",
+        "leaving a cycle out in the monsoon",
+        "oiling a chain",
+        "coating steel with zinc",
+        "putting a nail in salt water",
+        "keeping tools dry"
+       ],
+       "cats": [
+        "stops rust",
+        "speeds up rust"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Ice in the kulfi bag went below 0 °C when we added salt. Explain what the salt did and where the milk's heat went.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A plastic bottle full of water bulged in the freezer. Why is this strange, and why does it matter for fish in a frozen lake?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like Telkes",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "While ice is melting in a warm room, its temperature…",
+       "opts": [
+        "rises steadily",
+        "stays near 0 °C until it has all melted",
+        "drops below 0 °C"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Oobleck goes hard when punched. It is…",
+       "opts": [
+        "a solid",
+        "a liquid",
+        "a non-Newtonian fluid that behaves like both"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "Telkes stored the Sun's heat by…",
+       "opts": [
+        "melting a salt by day and letting it set at night",
+        "freezing water",
+        "burning coal"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Most things ____ when heated and contract when cooled.",
+       "a": [
+        "expand"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the observation to the idea.",
+       "pairs": [
+        [
+         "a jar lid loosens under hot water",
+         "metal expands more than glass"
+        ],
+        [
+         "ice floats",
+         "water expands when it freezes"
+        ],
+        [
+         "a steel spoon gets hot fast",
+         "steel is a good conductor"
+        ],
+        [
+         "kulfi freezes in salty ice",
+         "salt lowers the freezing point"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Taking heat in or giving heat out?",
+       "items": [
+        "ice melting",
+        "water freezing",
+        "a hot cup of chai cooling",
+        "wax setting",
+        "chocolate melting in your hand"
+       ],
+       "cats": [
+        "taking heat in",
+        "giving heat out"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Harder thinking",
+     [
+      {
+       "t": "write",
+       "p": "Mpemba said hot water can freeze before cold water. Some scientists say yes, sometimes; some say it's a trick of how we measure. Design a test that would convince you either way.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "The ice ship brought ice for rich people in Calcutta. The ice-makers of Allahabad made ice from the night sky. Which do you find more clever, and why? Who got the credit?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "We say 'cold gets in' when a door is left open in winter. Is that what really happens? Explain using heat flow.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
  ],
  "experiments": [
-  {"id": "e1", "title": "Oobleck", "day": 1, "question": "Is cornflour slime a solid or a liquid?", "need": ["1 cup cornflour", "about half a cup of water", "a tray or wide bowl", "food colour (optional)"], "steps": ["Put the cornflour in the tray.", "Add water slowly, mixing with fingers, until it feels like thick cream when stirred slowly.", "Stir slowly. Then stab it fast with a finger.", "Scoop a handful and squeeze it into a ball; then open your hand.", "Try slapping the surface with a flat hand."], "predict": "Ask: 'What will happen if you punch it?'", "observe": "It flows when moved gently and turns hard and firm when struck or squeezed quickly; the ball melts in an open hand.", "why": "The cornflour grains are suspended in water. Moved slowly, the water lets the grains slide past each other, so it flows. Hit hard, the grains jam together and can't move out of the way, so it acts like a solid. Liquids like this, whose 'thickness' changes with force, are called non-Newtonian fluids. Ketchup is the opposite: it gets runnier when shaken.", "safety": "Don't pour oobleck down the drain; let it dry and throw the powder in the bin.", "time": "18 min"},
-  {"id": "e2", "title": "The syrup race", "day": 2, "question": "Which liquid flows slowest, and does temperature change it?", "need": ["a tray or steel plate", "two books", "a timer", "teaspoons", "water, coconut oil, honey, shampoo, jaggery syrup or ketchup", "a bowl of warm water and a fridge"], "steps": ["Prop the tray on two books to make a slope.", "Mark a start and finish line.", "Put one teaspoon of each liquid on the start line at the same moment.", "Time each one to the finish line and record it.", "Repeat with warmed honey and chilled honey."], "predict": "Ask your child to rank the liquids from fastest to slowest.", "observe": "Water wins easily; oil next; shampoo, syrup and honey crawl. Warm honey runs much faster than cold honey.", "why": "Viscosity is a liquid's resistance to flowing. In thick liquids, the particles (often long molecules, as in honey's sugars) hold on to and tangle with each other, so they slide past each other slowly. Heating gives the particles more energy, so they slip past each other more easily: viscosity falls. A fair test uses the same amount, slope and start time.", "safety": "Wipe up oil and honey spills so nobody slips.", "time": "22 min + 10 min"},
-  {"id": "e3", "title": "Melting point hunt", "day": 3, "question": "Does every substance melt at the same temperature?", "need": ["a kitchen or aquarium thermometer", "crushed ice in a glass", "a bowl of warm water (about 40 °C)", "small foil cups", "ghee, butter, chocolate, coconut oil from the fridge, a bit of candle wax"], "steps": ["Put the thermometer in the crushed ice. Read it every 2 minutes while the ice melts.", "Float a foil cup of each solid in the warm water.", "Watch which melt and in what order.", "Make a melting-point line on paper from coldest to hottest."], "predict": "Ask: 'Will the ice get warmer as it melts? Which solid will melt first in the warm water?'", "observe": "The ice stays near 0 °C until almost all of it has melted. Coconut oil melts first, then butter and chocolate, then ghee; candle wax stays solid.", "why": "Each substance has its own melting point because its particles hold on to each other with different strength. While a solid is melting, the heat going in is used to loosen the particles from their fixed places, not to make them move faster, so the temperature stays the same until melting is finished. This 'hidden' heat is called latent heat. Mixtures like butter and chocolate melt over a range of temperatures rather than at one exact point.", "safety": "Use warm, not boiling, water. A grown-up handles hot water.", "time": "20 min"},
-  {"id": "e4", "title": "Kulfi in a bag", "day": 4, "question": "How can ice make something colder than ice?", "need": ["half a cup of sweetened milk with a pinch of elaichi", "a small zip bag and a large zip bag", "crushed ice to fill half the large bag", "4 big spoons of salt", "a towel", "a thermometer"], "steps": ["Pour the milk into the small bag and seal it well.", "Fill the large bag halfway with crushed ice and add the salt.", "Measure the temperature of the ice before and after adding salt.", "Put the small bag in the large bag, seal, wrap in the towel and shake for 10 minutes.", "Open and check the milk."], "predict": "Ask: 'Will the salty ice be colder or warmer than plain ice?'", "observe": "Plain ice reads about 0 °C; salty ice drops well below 0 °C. The milk thickens and freezes into soft kulfi.", "why": "Salt dissolves in the thin layer of water on the ice and lowers its freezing point, so the ice keeps melting even below 0 °C. Melting soaks up heat, and that heat comes from the surroundings: the milk. So the milk loses heat and solidifies. This is why salt is spread on icy roads in cold countries, and how kulfi was frozen before electric freezers.", "safety": "Salty ice gets cold enough to hurt skin: hold the bag in a towel or gloves.", "time": "20 min"},
-  {"id": "e5", "title": "The ice-saving challenge", "day": 5, "question": "Which material keeps an ice cube from melting longest?", "need": ["equal ice cubes in identical small steel cups", "wool, newspaper, sawdust or rice husk, foil, cotton wool, a thermocol box, a cloth", "a timer"], "steps": ["Each person builds a cooler around one cup, using one material or a mix.", "Leave one cup uncovered as the comparison (the control).", "Put all coolers in the same place.", "After one hour, open them and compare how much ice is left (or pour off and measure the water).", "Rank them."], "predict": "Ask: 'Which material will save the most ice? Will foil be good or bad?'", "observe": "The uncovered cup melts most. Wool, sawdust, cotton wool and thermocol save the most ice. Shiny foil helps a little in sunlight but not much on its own.", "why": "Heat flows from the warm room into the cold ice. Insulators slow that flow. The best ones trap lots of still air in tiny pockets, because air is a poor conductor and trapped air can't carry heat away by moving. Sawdust kept the ice alive on the ships to India for the same reason. Cold doesn't 'stay in'; heat is kept out.", "safety": "", "time": "15 min + 1 hour"},
-  {"id": "e6", "title": "The balloon that breathes", "day": 5, "question": "Does air expand when it is heated?", "need": ["an empty glass bottle", "a balloon", "a bowl of hot water (a grown-up pours)", "a bowl of ice water", "a glass jar with a metal screw lid"], "steps": ["Stretch the balloon over the bottle's neck.", "Stand the bottle in hot water for 2 minutes and watch the balloon.", "Move it to the ice water and watch.", "A grown-up runs hot tap water over a tight jar lid for 30 seconds and then tries to open it."], "predict": "Ask: 'What will the balloon do in hot water? In cold?'", "observe": "The balloon lifts and swells in hot water and droops, even pulls in, in ice water. The jar lid opens more easily after warming.", "why": "Heating makes the particles of the air move faster and push harder and further apart, so the air expands into the balloon; cooling makes it contract. Solids expand too, by tiny amounts: the metal lid expands more than the glass, so it loosens. Engineers leave expansion gaps in rails, bridges and concrete roads for this reason.", "safety": "A grown-up handles hot water. Use hot tap water, not boiling.", "time": "12 min"},
-  {"id": "e7", "title": "The rust jars", "day": 1, "question": "What does iron need to rust?", "need": ["4 clean iron nails (not galvanised; sand them shiny if needed)", "4 jars", "dry rice", "tap water", "water boiled and cooled (to remove air) with a spoon of cooking oil", "salt"], "steps": ["Jar A: a nail on a spoon of dry rice, lid on (dry air).", "Jar B: a nail half in tap water, lid off (water and air).", "Jar C: a nail fully covered in boiled, cooled water, with a layer of oil on top (water, little air).", "Jar D: a nail half in salty water, lid off.", "Label the jars. Look on Day 3, and read the results on Day 8."], "predict": "Ask your child to rank the jars from 'most rust' to 'least rust'.", "observe": "B and especially D rust orange-brown; A and C barely change.", "why": "Rusting is a chemical reaction: iron joins with oxygen from the air and with water to make a new substance, hydrated iron oxide, which is flaky and weak. Without water (A) or without much oxygen (C), it is very slow. Salt helps the reaction go faster, which is why cars and ships rust quickly near the sea. Paint, oil and a coating of zinc keep water and air away.", "safety": "A grown-up boils the water. Wash hands after handling rusty nails; don't use sharp, rusty old nails.", "time": "7 min + 1 week"},
-  {"id": "e8", "title": "Three kitchen reactions", "day": 7, "question": "How can we tell that a new substance has been made?", "need": ["baking soda", "2 lemons", "a cup of milk, a pan and stove (a grown-up)", "a muslin cloth or strainer", "haldi, water, paper, a brush", "soapy water or baking-soda water"], "steps": ["Reaction 1: add a teaspoon of baking soda to 3 spoons of lemon juice in a cup. Feel the cup and watch.", "Reaction 2: a grown-up heats the milk until steaming and stirs in the juice of half a lemon. Watch it split. Strain through the cloth.", "Reaction 3: paint a stripe of haldi water on paper and let it dry. Dab it with soapy water.", "For each, list the signs you saw."], "predict": "Ask before each one: 'What do you think will happen?'", "observe": "Fizzing and a slight cooling; white curds (chhena or paneer) and greenish whey; yellow haldi turning red-brown.", "why": "In each, the starting substances change into new ones. Lemon juice (an acid) reacts with baking soda (a base) to make carbon dioxide gas, water and a salt, taking in a little heat. Lemon's acid makes milk proteins clump together into curds. Curcumin, the yellow substance in haldi, changes its structure and colour in soapy, alkaline water. Signs of a chemical reaction include a gas, a colour change, a temperature change, a new solid, or light and heat.", "safety": "A grown-up heats the milk. Keep the fizzing cup away from eyes.", "time": "25 min"}
+  {
+   "id": "e1",
+   "title": "Oobleck",
+   "day": 1,
+   "question": "Is cornflour slime a solid or a liquid?",
+   "need": [
+    "1 cup cornflour",
+    "about half a cup of water",
+    "a tray or wide bowl",
+    "food colour (optional)"
+   ],
+   "steps": [
+    "Put the cornflour in the tray.",
+    "Add water slowly, mixing with fingers, until it feels like thick cream when stirred slowly.",
+    "Stir slowly. Then stab it fast with a finger.",
+    "Scoop a handful and squeeze it into a ball; then open your hand.",
+    "Try slapping the surface with a flat hand."
+   ],
+   "predict": "Ask: 'What will happen if you punch it?'",
+   "observe": "It flows when moved gently and turns hard and firm when struck or squeezed quickly; the ball melts in an open hand.",
+   "why": "The cornflour grains are suspended in water. Moved slowly, the water lets the grains slide past each other, so it flows. Hit hard, the grains jam together and can't move out of the way, so it acts like a solid. Liquids like this, whose 'thickness' changes with force, are called non-Newtonian fluids. Ketchup is the opposite: it gets runnier when shaken.",
+   "safety": "Don't pour oobleck down the drain; let it dry and throw the powder in the bin.",
+   "time": "18 min"
+  },
+  {
+   "id": "e2",
+   "title": "The syrup race",
+   "day": 2,
+   "question": "Which liquid flows slowest, and does temperature change it?",
+   "need": [
+    "a tray or steel plate",
+    "two books",
+    "a timer",
+    "teaspoons",
+    "water, coconut oil, honey, shampoo, jaggery syrup or ketchup",
+    "a bowl of warm water and a fridge"
+   ],
+   "steps": [
+    "Prop the tray on two books to make a slope.",
+    "Mark a start and finish line.",
+    "Put one teaspoon of each liquid on the start line at the same moment.",
+    "Time each one to the finish line and record it.",
+    "Repeat with warmed honey and chilled honey."
+   ],
+   "predict": "Ask your child to rank the liquids from fastest to slowest.",
+   "observe": "Water wins easily; oil next; shampoo, syrup and honey crawl. Warm honey runs much faster than cold honey.",
+   "why": "Viscosity is a liquid's resistance to flowing. In thick liquids, the particles (often long molecules, as in honey's sugars) hold on to and tangle with each other, so they slide past each other slowly. Heating gives the particles more energy, so they slip past each other more easily: viscosity falls. A fair test uses the same amount, slope and start time.",
+   "safety": "Wipe up oil and honey spills so nobody slips.",
+   "time": "22 min + 10 min"
+  },
+  {
+   "id": "e3",
+   "title": "Melting point hunt",
+   "day": 3,
+   "question": "Does every substance melt at the same temperature?",
+   "need": [
+    "a kitchen or aquarium thermometer",
+    "crushed ice in a glass",
+    "a bowl of warm water (about 40 °C)",
+    "small foil cups",
+    "ghee, butter, chocolate, coconut oil from the fridge, a bit of candle wax"
+   ],
+   "steps": [
+    "Put the thermometer in the crushed ice. Read it every 2 minutes while the ice melts.",
+    "Float a foil cup of each solid in the warm water.",
+    "Watch which melt and in what order.",
+    "Make a melting-point line on paper from coldest to hottest."
+   ],
+   "predict": "Ask: 'Will the ice get warmer as it melts? Which solid will melt first in the warm water?'",
+   "observe": "The ice stays near 0 °C until almost all of it has melted. Coconut oil melts first, then butter and chocolate, then ghee; candle wax stays solid.",
+   "why": "Each substance has its own melting point because its particles hold on to each other with different strength. While a solid is melting, the heat going in is used to loosen the particles from their fixed places, not to make them move faster, so the temperature stays the same until melting is finished. This 'hidden' heat is called latent heat. Mixtures like butter and chocolate melt over a range of temperatures rather than at one exact point.",
+   "safety": "Use warm, not boiling, water. A grown-up handles hot water.",
+   "time": "20 min"
+  },
+  {
+   "id": "e4",
+   "title": "Kulfi in a bag",
+   "day": 4,
+   "question": "How can ice make something colder than ice?",
+   "need": [
+    "half a cup of sweetened milk with a pinch of elaichi",
+    "a small zip bag and a large zip bag",
+    "crushed ice to fill half the large bag",
+    "4 big spoons of salt",
+    "a towel",
+    "a thermometer"
+   ],
+   "steps": [
+    "Pour the milk into the small bag and seal it well.",
+    "Fill the large bag halfway with crushed ice and add the salt.",
+    "Measure the temperature of the ice before and after adding salt.",
+    "Put the small bag in the large bag, seal, wrap in the towel and shake for 10 minutes.",
+    "Open and check the milk."
+   ],
+   "predict": "Ask: 'Will the salty ice be colder or warmer than plain ice?'",
+   "observe": "Plain ice reads about 0 °C; salty ice drops well below 0 °C. The milk thickens and freezes into soft kulfi.",
+   "why": "Salt dissolves in the thin layer of water on the ice and lowers its freezing point, so the ice keeps melting even below 0 °C. Melting soaks up heat, and that heat comes from the surroundings: the milk. So the milk loses heat and solidifies. This is why salt is spread on icy roads in cold countries, and how kulfi was frozen before electric freezers.",
+   "safety": "Salty ice gets cold enough to hurt skin: hold the bag in a towel or gloves.",
+   "time": "20 min"
+  },
+  {
+   "id": "e5",
+   "title": "The ice-saving challenge",
+   "day": 5,
+   "question": "Which material keeps an ice cube from melting longest?",
+   "need": [
+    "equal ice cubes in identical small steel cups",
+    "wool, newspaper, sawdust or rice husk, foil, cotton wool, a thermocol box, a cloth",
+    "a timer"
+   ],
+   "steps": [
+    "Each person builds a cooler around one cup, using one material or a mix.",
+    "Leave one cup uncovered as the comparison (the control).",
+    "Put all coolers in the same place.",
+    "After one hour, open them and compare how much ice is left (or pour off and measure the water).",
+    "Rank them."
+   ],
+   "predict": "Ask: 'Which material will save the most ice? Will foil be good or bad?'",
+   "observe": "The uncovered cup melts most. Wool, sawdust, cotton wool and thermocol save the most ice. Shiny foil helps a little in sunlight but not much on its own.",
+   "why": "Heat flows from the warm room into the cold ice. Insulators slow that flow. The best ones trap lots of still air in tiny pockets, because air is a poor conductor and trapped air can't carry heat away by moving. Sawdust kept the ice alive on the ships to India for the same reason. Cold doesn't 'stay in'; heat is kept out.",
+   "safety": "",
+   "time": "15 min + 1 hour"
+  },
+  {
+   "id": "e6",
+   "title": "The balloon that breathes",
+   "day": 5,
+   "question": "Does air expand when it is heated?",
+   "need": [
+    "an empty glass bottle",
+    "a balloon",
+    "a bowl of hot water (a grown-up pours)",
+    "a bowl of ice water",
+    "a glass jar with a metal screw lid"
+   ],
+   "steps": [
+    "Stretch the balloon over the bottle's neck.",
+    "Stand the bottle in hot water for 2 minutes and watch the balloon.",
+    "Move it to the ice water and watch.",
+    "A grown-up runs hot tap water over a tight jar lid for 30 seconds and then tries to open it."
+   ],
+   "predict": "Ask: 'What will the balloon do in hot water? In cold?'",
+   "observe": "The balloon lifts and swells in hot water and droops, even pulls in, in ice water. The jar lid opens more easily after warming.",
+   "why": "Heating makes the particles of the air move faster and push harder and further apart, so the air expands into the balloon; cooling makes it contract. Solids expand too, by tiny amounts: the metal lid expands more than the glass, so it loosens. Engineers leave expansion gaps in rails, bridges and concrete roads for this reason.",
+   "safety": "A grown-up handles hot water. Use hot tap water, not boiling.",
+   "time": "12 min"
+  },
+  {
+   "id": "e7",
+   "title": "The rust jars",
+   "day": 1,
+   "question": "What does iron need to rust?",
+   "need": [
+    "4 clean iron nails (not galvanised; sand them shiny if needed)",
+    "4 jars",
+    "dry rice",
+    "tap water",
+    "water boiled and cooled (to remove air) with a spoon of cooking oil",
+    "salt"
+   ],
+   "steps": [
+    "Jar A: a nail on a spoon of dry rice, lid on (dry air).",
+    "Jar B: a nail half in tap water, lid off (water and air).",
+    "Jar C: a nail fully covered in boiled, cooled water, with a layer of oil on top (water, little air).",
+    "Jar D: a nail half in salty water, lid off.",
+    "Label the jars. Look on Day 3, and read the results on Day 8."
+   ],
+   "predict": "Ask your child to rank the jars from 'most rust' to 'least rust'.",
+   "observe": "B and especially D rust orange-brown; A and C barely change.",
+   "why": "Rusting is a chemical reaction: iron joins with oxygen from the air and with water to make a new substance, hydrated iron oxide, which is flaky and weak. Without water (A) or without much oxygen (C), it is very slow. Salt helps the reaction go faster, which is why cars and ships rust quickly near the sea. Paint, oil and a coating of zinc keep water and air away.",
+   "safety": "A grown-up boils the water. Wash hands after handling rusty nails; don't use sharp, rusty old nails.",
+   "time": "7 min + 1 week"
+  },
+  {
+   "id": "e8",
+   "title": "Three kitchen reactions",
+   "day": 7,
+   "question": "How can we tell that a new substance has been made?",
+   "need": [
+    "baking soda",
+    "2 lemons",
+    "a cup of milk, a pan and stove (a grown-up)",
+    "a muslin cloth or strainer",
+    "haldi, water, paper, a brush",
+    "soapy water or baking-soda water"
+   ],
+   "steps": [
+    "Reaction 1: add a teaspoon of baking soda to 3 spoons of lemon juice in a cup. Feel the cup and watch.",
+    "Reaction 2: a grown-up heats the milk until steaming and stirs in the juice of half a lemon. Watch it split. Strain through the cloth.",
+    "Reaction 3: paint a stripe of haldi water on paper and let it dry. Dab it with soapy water.",
+    "For each, list the signs you saw."
+   ],
+   "predict": "Ask before each one: 'What do you think will happen?'",
+   "observe": "Fizzing and a slight cooling; white curds (chhena or paneer) and greenish whey; yellow haldi turning red-brown.",
+   "why": "In each, the starting substances change into new ones. Lemon juice (an acid) reacts with baking soda (a base) to make carbon dioxide gas, water and a salt, taking in a little heat. Lemon's acid makes milk proteins clump together into curds. Curcumin, the yellow substance in haldi, changes its structure and colour in soapy, alkaline water. Signs of a chemical reaction include a gas, a colour change, a temperature change, a new solid, or light and heat.",
+   "safety": "A grown-up heats the milk. Keep the fizzing cup away from eyes.",
+   "time": "25 min"
+  }
  ],
  "activities": [],
- "project": {"title": "The ice-saving challenge", "days": [5, 9], "steps": ["Ask the question: which home material keeps an ice cube from melting longest?", "Choose materials and build one cooler each; keep one uncovered cup as the control.", "Keep everything else the same: same ice cubes, same cups, same place, same time.", "After one hour, rank the coolers by the ice left.", "Explain the winner using the words insulator, heat flow and trapped air.", "Design and test a better cooler."], "outcome": "A fair test, a ranked result, an explanation, and an improved cooler: the same problem the ice ships to India had to solve."},
- "game": {"id": "g1", "title": "Race to the Ice House", "kind": "board", "players": "2–4", "need": ["a die", "a counter for each player", "10 small paper 'ice tokens' each"],
-  "rules": ["Each player is a block of ice. Start at the frozen pond with 10 ice tokens.", "Roll and move. Read the square and say whether heat is flowing into your ice or being kept out.", "A heat square makes you give up the tokens it says. An insulation square lets you take back 1 token (never above 10).", "If you run out of ice, you have melted: go back to the pond and freeze again with 5 tokens (freezing is reversible!).", "Reaching the ice house ends the game for you. When everyone has arrived, the player with the most ice wins."],
-  "squares": ["FROZEN POND (start)", "Cut into blocks by workers with saws", "Packed in sawdust: take 1 token", "Loaded onto the ship", "Sunny deck: lose 1", "Straw-packed hold: take 1", "Crossing the warm equator: lose 2", "A storm: the sawdust gets wet (wet sawdust conducts heat better): lose 1", "Extra sawdust layer: take 1", "Round the Cape of Good Hope: cold winds, no loss", "Long calm in the tropics: lose 2", "A sailor opens the hold: lose 1", "Hold sealed tight: take 1", "Indian Ocean summer: lose 2", "Monsoon clouds, shade: no loss", "Sighting the Hooghly river", "Unloaded at noon on a hot dock: lose 2", "Carried quickly at dawn: take 1", "Wrapped in blankets: take 1", "Meet the Allahabad ice-makers' night ice: swap stories, roll again", "ICE HOUSE: thick walls, double doors, the end"]},
- "big": ["Is cold a thing, or just less heat?", "If ice can travel halfway round the world, what else that we think is 'local' comes from far away, and who carries it?", "Our boxes (solid, liquid, gas) don't fit oobleck or honey or glass. Are categories in nature real, or are they something we make up to think more easily?", "Is it better to buy ice from far away, or to learn to make it from the sky where you live?", "Iron rusts back towards the ore it came from. Is rust iron 'going home'?"],
+ "project": {
+  "title": "The ice-saving challenge",
+  "days": [
+   5,
+   9
+  ],
+  "steps": [
+   "Ask the question: which home material keeps an ice cube from melting longest?",
+   "Choose materials and build one cooler each; keep one uncovered cup as the control.",
+   "Keep everything else the same: same ice cubes, same cups, same place, same time.",
+   "After one hour, rank the coolers by the ice left.",
+   "Explain the winner using the words insulator, heat flow and trapped air.",
+   "Design and test a better cooler."
+  ],
+  "outcome": "A fair test, a ranked result, an explanation, and an improved cooler: the same problem the ice ships to India had to solve."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Race to the Ice House",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "a die",
+   "a counter for each player",
+   "10 small paper 'ice tokens' each"
+  ],
+  "rules": [
+   "Each player is a block of ice. Start at the frozen pond with 10 ice tokens.",
+   "Roll and move. Read the square and say whether heat is flowing into your ice or being kept out.",
+   "A heat square makes you give up the tokens it says. An insulation square lets you take back 1 token (never above 10).",
+   "If you run out of ice, you have melted: go back to the pond and freeze again with 5 tokens (freezing is reversible!).",
+   "Reaching the ice house ends the game for you. When everyone has arrived, the player with the most ice wins."
+  ],
+  "squares": [
+   "FROZEN POND (start)",
+   "Cut into blocks by workers with saws",
+   "Packed in sawdust: take 1 token",
+   "Loaded onto the ship",
+   "Sunny deck: lose 1",
+   "Straw-packed hold: take 1",
+   "Crossing the warm equator: lose 2",
+   "A storm: the sawdust gets wet (wet sawdust conducts heat better): lose 1",
+   "Extra sawdust layer: take 1",
+   "Round the Cape of Good Hope: cold winds, no loss",
+   "Long calm in the tropics: lose 2",
+   "A sailor opens the hold: lose 1",
+   "Hold sealed tight: take 1",
+   "Indian Ocean summer: lose 2",
+   "Monsoon clouds, shade: no loss",
+   "Sighting the Hooghly river",
+   "Unloaded at noon on a hot dock: lose 2",
+   "Carried quickly at dawn: take 1",
+   "Wrapped in blankets: take 1",
+   "Meet the Allahabad ice-makers' night ice: swap stories, roll again",
+   "ICE HOUSE: thick walls, double doors, the end"
+  ]
+ },
+ "big": [
+  "Is cold a thing, or just less heat?",
+  "If ice can travel halfway round the world, what else that we think is 'local' comes from far away, and who carries it?",
+  "Our boxes (solid, liquid, gas) don't fit oobleck or honey or glass. Are categories in nature real, or are they something we make up to think more easily?",
+  "Is it better to buy ice from far away, or to learn to make it from the sky where you live?",
+  "Iron rusts back towards the ore it came from. Is rust iron 'going home'?"
+ ],
  "challenge": [
-  {"q": "People say 'close the door, you're letting the cold in!' Does cold come in?", "hint": "Physicists would say heat goes out: heat always flows from warmer to cooler, and 'cold' is just less heat. The warm air of the room escapes and is replaced by cooler air. Ask: does it matter how we say it, if we all know what we mean?"},
-  {"q": "Does hot water really freeze faster than cold water?", "hint": "Sometimes, in some experiments, it seems to; in others it doesn't. A 2016 study by Henry Burridge and Paul Linden in Cambridge found no real effect when the measurements were done very carefully, while other scientists still report it under some conditions. It depends on evaporation, dissolved gases, the container and what 'frozen' means. It's a real, unsettled question."},
-  {"q": "Ice in India before refrigerators came only from America, didn't it?", "hint": "No. Ice came by ship from New England from 1833, but for centuries before that, ice was made in North India on clear winter nights in shallow pans, and Mughal rulers had snow and ice carried down from the hills. Ask: why might the ship story be the one most people remember?"}
+  {
+   "q": "People say 'close the door, you're letting the cold in!' Does cold come in?",
+   "hint": "Physicists would say heat goes out: heat always flows from warmer to cooler, and 'cold' is just less heat. The warm air of the room escapes and is replaced by cooler air. Ask: does it matter how we say it, if we all know what we mean?"
+  },
+  {
+   "q": "Does hot water really freeze faster than cold water?",
+   "hint": "Sometimes, in some experiments, it seems to; in others it doesn't. A 2016 study by Henry Burridge and Paul Linden in Cambridge found no real effect when the measurements were done very carefully, while other scientists still report it under some conditions. It depends on evaporation, dissolved gases, the container and what 'frozen' means. It's a real, unsettled question."
+  },
+  {
+   "q": "Ice in India before refrigerators came only from America, didn't it?",
+   "hint": "No. Ice came by ship from New England from 1833, but for centuries before that, ice was made in North India on clear winter nights in shallow pans, and Mughal rulers had snow and ice carried down from the hills. Ask: why might the ship story be the one most people remember?"
+  }
  ],
  "perspectives": [
-  {"who": "A halwai", "view": "A halwai reads a sugar syrup's viscosity by dropping it between finger and thumb: 'one thread', 'two threads', 'soft ball', 'hard crack'. Each stage is a higher temperature and a thicker syrup. Ask: is that a measurement? How is it like a scientist's thermometer, and how is it different?"},
-  {"who": "A fish under a frozen lake in Ladakh", "view": "Because ice floats and is a good insulator, the water underneath stays liquid all winter, near 4 °C at the bottom. Ask: if water behaved like most liquids and its solid sank, what would happen to the fish?"},
-  {"who": "A blacksmith (lohar)", "view": "A lohar heats iron until it glows and goes soft, shapes it, and then plunges it into water to harden it. They judge temperature by colour: dull red, cherry, orange, yellow. Ask: what does a lohar know about heat that a book might miss?"}
+  {
+   "who": "A halwai",
+   "view": "A halwai reads a sugar syrup's viscosity by dropping it between finger and thumb: 'one thread', 'two threads', 'soft ball', 'hard crack'. Each stage is a higher temperature and a thicker syrup. Ask: is that a measurement? How is it like a scientist's thermometer, and how is it different?"
+  },
+  {
+   "who": "A fish under a frozen lake in Ladakh",
+   "view": "Because ice floats and is a good insulator, the water underneath stays liquid all winter, near 4 °C at the bottom. Ask: if water behaved like most liquids and its solid sank, what would happen to the fish?"
+  },
+  {
+   "who": "A blacksmith (lohar)",
+   "view": "A lohar heats iron until it glows and goes soft, shapes it, and then plunges it into water to harden it. They judge temperature by colour: dull red, cherry, orange, yellow. Ask: what does a lohar know about heat that a book might miss?"
+  }
  ],
  "voices": [
-  {"id": "v1", "who": "Mária Telkes (1900–1995), Hungarian-American scientist, 'the Sun Queen'", "idea": "Telkes stored the Sun's heat using a salt (Glauber's salt) that melts at about 32 °C. In the day, sunshine melted it, soaking up heat; at night, as it set again, it gave the heat back. She designed the heating for the Dover Sun House in Massachusetts (1948), one of the first homes heated by the Sun, with the architect Eleanor Raymond and the sculptor-patron Amelia Peabody, a team of three women. She also invented a solar still that turned seawater into drinking water for lifeboats in the Second World War, and a cheap solar oven.", "then": "Her work was often doubted. She clashed with the men leading MIT's solar research and was pushed out of that project. When the Sun House's salt began to separate and the heating stopped working well after a few winters, critics used it to dismiss her whole approach.", "now": "Storing heat in melting and setting materials (called phase-change materials) is now a serious, growing technology. Telkes was inducted into the US National Inventors Hall of Fame in 2022.", "status": "accepted", "ask": "Telkes's first house had a problem after a few winters. Does one failure mean an idea is wrong? What would you have done next?", "day": 6},
-  {"id": "v2", "who": "The ice-makers of North India, and Sir Robert Barker's report (1775)", "idea": "In the 1700s, workers near Allahabad and elsewhere made ice on clear winter nights. They filled shallow, porous clay pans with water and set them on beds of straw or dry sugarcane stalks in shallow pits. By morning a thin layer of ice had formed, though the air itself was above freezing. The ice was collected at dawn and stored in insulated pits. Robert Barker, an English officer, described the method in a paper for the Royal Society in London in 1775.", "then": "European scientists were fascinated, and the Indian method was discussed in debates about how cold is produced.", "now": "Scientists explain it by two kinds of cooling: on a clear, still night, the water radiates its heat up into the cold sky, and some water evaporates through the porous clay, which cools it more. The straw insulates the pans from the warmer ground. The method is real and well documented; the names of the workers were not recorded.", "status": "accepted", "ask": "The workers knew how to make ice; the officer wrote it down and his name is remembered. Who do you think 'discovered' it?", "day": 4},
-  {"id": "v3", "who": "Erasto Mpemba (1950–2023), Tanzania, and the 'Mpemba effect'", "idea": "As a schoolboy in Tanzania in 1963, Mpemba noticed that his hot ice-cream mixture froze before his friends' cooled mixture. His teacher and classmates laughed. With the physicist Denis Osborne, he published experiments in 1969 suggesting that hot water can sometimes freeze faster than cold.", "then": "Many scientists doubted it; others said similar claims were made long before, by Aristotle and by Francis Bacon.", "now": "It is still argued over. Some experiments show the effect under certain conditions; careful studies, such as one by Burridge and Linden in 2016, found no reliable effect. Possible causes include evaporation, dissolved gases, frost under the cup and how 'frozen' is measured.", "status": "debated", "ask": "A schoolboy was laughed at for a kitchen observation. What should a scientist do when a child reports something strange?", "day": 4},
-  {"id": "v4", "who": "Prafulla Chandra Ray (1861–1944), Bengal, India", "idea": "Ray was a chemist at Presidency College, Calcutta. In 1896 he made and described a new compound, mercurous nitrite. In 1901 he founded Bengal Chemicals and Pharmaceutical Works, one of India's first modern chemical companies, to make medicines and chemicals in India. He also wrote A History of Hindu Chemistry, describing the practical chemistry of old Indian texts on metals, alloys, dyes and medicines.", "then": "Under colonial rule, Indian scientists were paid less than British ones and given poorer laboratories. Ray worked anyway, trained a generation of Indian chemists, and spoke against caste discrimination.", "now": "He is remembered as a founder of modern chemistry in India. Historians still debate how much of the old texts reflects real experiment, but agree that Indian metalworkers, dyers and healers practised a great deal of chemistry.", "status": "accepted", "ask": "Ray believed chemistry should make useful things for his own country, not only papers. Is science for knowing, for making, or both?", "day": 7}
+  {
+   "id": "v1",
+   "who": "Mária Telkes (1900–1995), Hungarian-American scientist, 'the Sun Queen'",
+   "idea": "Telkes stored the Sun's heat using a salt (Glauber's salt) that melts at about 32 °C. In the day, sunshine melted it, soaking up heat; at night, as it set again, it gave the heat back. She designed the heating for the Dover Sun House in Massachusetts (1948), one of the first homes heated by the Sun, with the architect Eleanor Raymond and the sculptor-patron Amelia Peabody, a team of three women. She also invented a solar still that turned seawater into drinking water for lifeboats in the Second World War, and a cheap solar oven.",
+   "then": "Her work was often doubted. She clashed with the men leading MIT's solar research and was pushed out of that project. When the Sun House's salt began to separate and the heating stopped working well after a few winters, critics used it to dismiss her whole approach.",
+   "now": "Storing heat in melting and setting materials (called phase-change materials) is now a serious, growing technology. Telkes was inducted into the US National Inventors Hall of Fame in 2022.",
+   "status": "accepted",
+   "ask": "Telkes's first house had a problem after a few winters. Does one failure mean an idea is wrong? What would you have done next?",
+   "day": 6
+  },
+  {
+   "id": "v2",
+   "who": "The ice-makers of North India, and Sir Robert Barker's report (1775)",
+   "idea": "In the 1700s, workers near Allahabad and elsewhere made ice on clear winter nights. They filled shallow, porous clay pans with water and set them on beds of straw or dry sugarcane stalks in shallow pits. By morning a thin layer of ice had formed, though the air itself was above freezing. The ice was collected at dawn and stored in insulated pits. Robert Barker, an English officer, described the method in a paper for the Royal Society in London in 1775.",
+   "then": "European scientists were fascinated, and the Indian method was discussed in debates about how cold is produced.",
+   "now": "Scientists explain it by two kinds of cooling: on a clear, still night, the water radiates its heat up into the cold sky, and some water evaporates through the porous clay, which cools it more. The straw insulates the pans from the warmer ground. The method is real and well documented; the names of the workers were not recorded.",
+   "status": "accepted",
+   "ask": "The workers knew how to make ice; the officer wrote it down and his name is remembered. Who do you think 'discovered' it?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Erasto Mpemba (born about 1950), Tanzania, and the 'Mpemba effect'",
+   "idea": "As a schoolboy in Tanzania in 1963, Mpemba noticed that his hot ice-cream mixture froze before his friends' cooled mixture. His teacher and classmates laughed. With the physicist Denis Osborne, he published experiments in 1969 suggesting that hot water can sometimes freeze faster than cold.",
+   "then": "Many scientists doubted it; others said similar claims were made long before, by Aristotle and by Francis Bacon.",
+   "now": "It is still argued over. Some experiments show the effect under certain conditions; careful studies, such as one by Burridge and Linden in 2016, found no reliable effect. Possible causes include evaporation, dissolved gases, frost under the cup and how 'frozen' is measured.",
+   "status": "debated",
+   "ask": "A schoolboy was laughed at for a kitchen observation. What should a scientist do when a child reports something strange?",
+   "day": 4
+  },
+  {
+   "id": "v4",
+   "who": "Prafulla Chandra Ray (1861–1944), Bengal, India",
+   "idea": "Ray was a chemist at Presidency College, Calcutta. In 1896 he made and described a new compound, mercurous nitrite. In 1901 he founded Bengal Chemicals and Pharmaceutical Works, one of India's first modern chemical companies, to make medicines and chemicals in India. He also wrote A History of Hindu Chemistry, describing the practical chemistry of old Indian texts on metals, alloys, dyes and medicines.",
+   "then": "Under colonial rule, Indian scientists were paid less than British ones and given poorer laboratories. Ray worked anyway, trained a generation of Indian chemists, and spoke against caste discrimination.",
+   "now": "He is remembered as a founder of modern chemistry in India. Historians still debate how much of the old texts reflects real experiment, but agree that Indian metalworkers, dyers and healers practised a great deal of chemistry.",
+   "status": "accepted",
+   "ask": "Ray believed chemistry should make useful things for his own country, not only papers. Is science for knowing, for making, or both?",
+   "day": 7
+  }
  ],
- "story": {"title": "The Ice That Crossed the Ocean", "text": [
-  "I was born in the winter of 1833, on a pond near Boston, in America. Before that I was rain, and before that a cloud, and before that the sea, but I don't remember those lives very well. Ice has a short memory and a long patience.",
-  "Men came across the pond with horses and saws and cut me out in a block as heavy as a buffalo. They slid me into a dark wooden ice house and covered me with sawdust. Then, in the spring, they carried me to a ship called the Tuscany and packed me deep in the hold with a hundred and eighty tons of my brothers and sisters, with sawdust between us and straw around us and thick planks over our heads.",
-  "'Where are we going?' I asked the block beside me.",
-  "'Calcutta,' it said. 'In India. Where it is hot.'",
-  "I did not know what hot was. I learned.",
-  "For the first weeks the sea was grey and cold, and we slept. Then the ship turned south, and something began to press on us from outside. It came through the planks, slowly, through the straw, slower still, and through the sawdust slowest of all. It was heat, looking for us. Heat, I discovered, is always looking for whatever is colder than itself. It cannot help it. It flows from warm to cool the way water flows downhill.",
-  "Wherever it reached me, I loosened. My edges softened. A few drops of me ran down into the sawdust and soaked it, and the wet sawdust let the heat in faster, so I learned to fear the leaks. But wherever the sawdust stayed dry and fluffy, full of tiny pockets of still air, the heat could barely move. The sawdust was not cold. It was not making cold. It was only standing in the way, patiently, like a crowd at a door.",
-  "We crossed the equator, where the sun stood straight overhead and the tar on the deck went soft. We rounded the bottom of Africa, where the wind blew icy and we rested. Then we crossed the Indian Ocean in the summer heat, and every day I was a little smaller. Every day the bilge pumps sent some of my brothers and sisters, now water, back into the sea.",
-  "After four months, we sailed up a wide brown river, the Hooghly, into Calcutta. When the planks above us were lifted, a wave of air poured in so thick and warm I thought I would melt in an instant. About a hundred tons of us were left.",
-  "Crowds had come to the dock to see. Men in white coats and hats, ladies with parasols, and behind them, kept back, the porters and boatmen and children of the city. They had heard that ice was coming from across the world. Some of them did not believe ice was real.",
-  "They carried me in a hurry to a cool storehouse, and that is where I met Gopal.",
-  "Gopal was perhaps ten years old, thin and quick, and he worked carrying blocks from the storehouse to the big houses of the Englishmen, wrapped in blankets. On the first day he touched me with one finger, and pulled it back, and laughed.",
-  "'You are like our ice,' he said, 'but much bigger, and much more tired.'",
-  "'Your ice?' I said. I did not know that ice could understand people, but this boy seemed to understand me.",
-  "'In my grandfather's village, up the river near Allahabad,' he said, 'in the winter, we make ice. Not from a pond. From the sky.'",
-  "He told me how, on the coldest, clearest nights of winter, when no cloud covered the stars and no wind blew, the villagers set out hundreds of shallow clay pans, no deeper than a hand, on beds of dry straw in long pits. They poured a little water into each pan and went to sleep. In the night, the water's warmth rose straight up into the dark, clear sky, and some of it seeped through the clay and drifted away into the dry air, and the water grew colder and colder until, before dawn, a thin skin of ice formed on every pan, even though the air itself was not freezing.",
-  "'Before the sun comes up, we run along the pits and scoop it out,' he said, 'and pack it in a deep hole lined with straw and blankets, so the heat cannot find it. Like you, in your sawdust.'",
-  "I thought about that for a long time, in the dark of the storehouse. On my ship, men had fought to keep heat out. In Gopal's village, people had let heat go: out of the water, up into the sky, and away. It was the same rule both times. Heat flows from warm to cold. If you stand in its way, you keep ice. If you give it a clear road upward, you make ice.",
-  "The Englishmen paid a great deal for me. They put me in their drinks and their puddings. Nobody wrote down the names of the men who cut me, or the sailors, or Gopal, or his grandfather's village.",
-  "I did not last long in Calcutta. Ice never does. One afternoon in October, the last of me ran out of the storehouse drain, into a ditch, into the Hooghly, and down towards the sea where I had once begun.",
-  "I was not sad. I had been rain, and pond, and block, and drink, and river, and I will be cloud again, and one winter night, if the sky is clear over a village near Allahabad, I may lie in a small clay pan on a bed of straw, and let my warmth rise up to the stars, and become ice once more. A boy may come running along the pit before dawn to find me."],
+ "story": {
+  "title": "The Ice That Crossed the Ocean",
+  "text": [
+   "I was born in the winter of 1833, on a pond near Boston, in America. Before that I was rain, and before that a cloud, and before that the sea, but I don't remember those lives very well. Ice has a short memory and a long patience.",
+   "Men came across the pond with horses and saws and cut me out in a block as heavy as a buffalo. They slid me into a dark wooden ice house and covered me with sawdust. Then, in the spring, they carried me to a ship called the Tuscany and packed me deep in the hold with a hundred and eighty tons of my brothers and sisters, with sawdust between us and straw around us and thick planks over our heads.",
+   "'Where are we going?' I asked the block beside me.",
+   "'Calcutta,' it said. 'In India. Where it is hot.'",
+   "I did not know what hot was. I learned.",
+   "For the first weeks the sea was grey and cold, and we slept. Then the ship turned south, and something began to press on us from outside. It came through the planks, slowly, through the straw, slower still, and through the sawdust slowest of all. It was heat, looking for us. Heat, I discovered, is always looking for whatever is colder than itself. It cannot help it. It flows from warm to cool the way water flows downhill.",
+   "Wherever it reached me, I loosened. My edges softened. A few drops of me ran down into the sawdust and soaked it, and the wet sawdust let the heat in faster, so I learned to fear the leaks. But wherever the sawdust stayed dry and fluffy, full of tiny pockets of still air, the heat could barely move. The sawdust was not cold. It was not making cold. It was only standing in the way, patiently, like a crowd at a door.",
+   "We crossed the equator, where the sun stood straight overhead and the tar on the deck went soft. We rounded the bottom of Africa, where the wind blew icy and we rested. Then we crossed the Indian Ocean in the summer heat, and every day I was a little smaller. Every day the bilge pumps sent some of my brothers and sisters, now water, back into the sea.",
+   "After four months, we sailed up a wide brown river, the Hooghly, into Calcutta. When the planks above us were lifted, a wave of air poured in so thick and warm I thought I would melt in an instant. About a hundred tons of us were left.",
+   "Crowds had come to the dock to see. Men in white coats and hats, ladies with parasols, and behind them, kept back, the porters and boatmen and children of the city. They had heard that ice was coming from across the world. Some of them did not believe ice was real.",
+   "They carried me in a hurry to a cool storehouse, and that is where I met Gopal.",
+   "Gopal was perhaps ten years old, thin and quick, and he worked carrying blocks from the storehouse to the big houses of the Englishmen, wrapped in blankets. On the first day he touched me with one finger, and pulled it back, and laughed.",
+   "'You are like our ice,' he said, 'but much bigger, and much more tired.'",
+   "'Your ice?' I said. I did not know that ice could understand people, but this boy seemed to understand me.",
+   "'In my grandfather's village, up the river near Allahabad,' he said, 'in the winter, we make ice. Not from a pond. From the sky.'",
+   "He told me how, on the coldest, clearest nights of winter, when no cloud covered the stars and no wind blew, the villagers set out hundreds of shallow clay pans, no deeper than a hand, on beds of dry straw in long pits. They poured a little water into each pan and went to sleep. In the night, the water's warmth rose straight up into the dark, clear sky, and some of it seeped through the clay and drifted away into the dry air, and the water grew colder and colder until, before dawn, a thin skin of ice formed on every pan, even though the air itself was not freezing.",
+   "'Before the sun comes up, we run along the pits and scoop it out,' he said, 'and pack it in a deep hole lined with straw and blankets, so the heat cannot find it. Like you, in your sawdust.'",
+   "I thought about that for a long time, in the dark of the storehouse. On my ship, men had fought to keep heat out. In Gopal's village, people had let heat go: out of the water, up into the sky, and away. It was the same rule both times. Heat flows from warm to cold. If you stand in its way, you keep ice. If you give it a clear road upward, you make ice.",
+   "The Englishmen paid a great deal for me. They put me in their drinks and their puddings. Nobody wrote down the names of the men who cut me, or the sailors, or Gopal, or his grandfather's village.",
+   "I did not last long in Calcutta. Ice never does. One afternoon in October, the last of me ran out of the storehouse drain, into a ditch, into the Hooghly, and down towards the sea where I had once begun.",
+   "I was not sad. I had been rain, and pond, and block, and drink, and river, and I will be cloud again, and one winter night, if the sky is clear over a village near Allahabad, I may lie in a small clay pan on a bed of straw, and let my warmth rise up to the stars, and become ice once more. A boy may come running along the pit before dawn to find me."
+  ],
   "epiphany": "Heat always flows from warmer to cooler. Insulators (dry sawdust full of still air) don't make cold; they slow heat getting in. The night-sky ice-makers made ice by letting heat flow out to the clear sky. The turn is the ice's realisation that 'it was the same rule both times': block the heat to keep ice, give it a road out to make ice. Melting and freezing are reversible, and water cycles from sea to cloud to ice and back. Underneath: whose knowledge and work are remembered. Based on real history: Frederic Tudor's ship Tuscany brought ice from Massachusetts to Calcutta in 1833, and night-ice making near Allahabad was described in 1775. Gopal is an imagined character.",
-  "ask": ["Why did wet sawdust frighten the ice?", "Was the sawdust cold? What was it doing?", "How did Gopal's village make ice without a freezer?", "What was 'the same rule both times'?", "Who was remembered for the ice in Calcutta, and who wasn't?"]},
+  "ask": [
+   "Why did wet sawdust frighten the ice?",
+   "Was the sawdust cold? What was it doing?",
+   "How did Gopal's village make ice without a freezer?",
+   "What was 'the same rule both times'?",
+   "Who was remembered for the ice in Calcutta, and who wasn't?"
+  ]
+ },
  "ideas": [
-  {"idea": "Cold is not a thing; heat is, and it always flows from hot to cold.", "more": "An insulator doesn't keep the cold in; it keeps the heat out. A fridge doesn't make cold; it pumps heat out of its inside and lets it go at the back (feel the warm coils)."},
-  {"idea": "Changing state is the same stuff moving differently.", "more": "Ice, water and steam are the same particles, packed and still, close and sliding, or far apart and racing. Melting needs heat to loosen them; freezing gives that heat back out. That 'hidden heat' can even warm a house, as Mária Telkes showed."},
-  {"idea": "A chemical reaction makes something that wasn't there before, from what was.", "more": "Milk and lemon make paneer and whey; iron, water and air make rust; baking soda and lemon make a gas. The atoms are rearranged, not created or destroyed, as Lavoisier showed in Class 2."},
-  {"idea": "Nature doesn't always fit our boxes.", "more": "Powders pour, oobleck goes hard when struck, glass is a jammed liquid-like solid, and water expands as it freezes. Categories are tools for thinking, not walls in nature."}],
+  {
+   "idea": "Cold is not a thing; heat is, and it always flows from hot to cold.",
+   "more": "An insulator doesn't keep the cold in; it keeps the heat out. A fridge doesn't make cold; it pumps heat out of its inside and lets it go at the back (feel the warm coils)."
+  },
+  {
+   "idea": "Changing state is the same stuff moving differently.",
+   "more": "Ice, water and steam are the same particles, packed and still, close and sliding, or far apart and racing. Melting needs heat to loosen them; freezing gives that heat back out. That 'hidden heat' can even warm a house, as Mária Telkes showed."
+  },
+  {
+   "idea": "A chemical reaction makes something that wasn't there before, from what was.",
+   "more": "Milk and lemon make paneer and whey; iron, water and air make rust; baking soda and lemon make a gas. The atoms are rearranged, not created or destroyed, as Lavoisier showed in Class 2."
+  },
+  {
+   "idea": "Nature doesn't always fit our boxes.",
+   "more": "Powders pour, oobleck goes hard when struck, glass is a jammed liquid-like solid, and water expands as it freezes. Categories are tools for thinking, not walls in nature."
+  }
+ ],
  "unknowns": [
   "Does hot water ever really freeze faster than cold? Careful experiments disagree, and scientists are still arguing about what the 'Mpemba effect' is, or whether it exists at all.",
   "Why does water, unlike almost every other liquid, become lighter (less dense) when it freezes, and behave so strangely near 4 °C? Scientists can describe it, but they are still debating the full explanation of water's many odd properties.",
-  "Exactly how do the particles in a liquid organise themselves as it freezes into a crystal? The first moment of freezing (called nucleation) is very hard to watch, and is still being researched."],
+  "Exactly how do the particles in a liquid organise themselves as it freezes into a crystal? The first moment of freezing (called nucleation) is very hard to watch, and is still being researched."
+ ],
  "books": [
-  {"title": "Stuff Matters", "author": "Mark Miodownik", "for": "parent reads", "age": "adult (read parts aloud)", "why": "The chapters on steel and chocolate explain melting, crystals and rust in a way you can retell at the dinner table."},
-  {"title": "Liquid Rules", "author": "Mark Miodownik", "for": "parent reads", "age": "adult (read parts aloud)", "why": "A whole book about liquids: why honey is thick, how oobleck-like liquids behave, and the strange properties of water."},
-  {"title": "Kitchen Science Lab for Kids", "author": "Liz Lee Heinecke", "for": "read together", "age": "6–10", "why": "More safe kitchen reactions and changes of state to try after this rung."}
+  {
+   "title": "Stuff Matters",
+   "author": "Mark Miodownik",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "The chapters on steel and chocolate explain melting, crystals and rust in a way you can retell at the dinner table."
+  },
+  {
+   "title": "Liquid Rules",
+   "author": "Mark Miodownik",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "A whole book about liquids: why honey is thick, how oobleck-like liquids behave, and the strange properties of water."
+  },
+  {
+   "title": "Kitchen Science Lab for Kids",
+   "author": "Liz Lee Heinecke",
+   "for": "read together",
+   "age": "6–10",
+   "why": "More safe kitchen reactions and changes of state to try after this rung."
+  }
  ],
  "check": [
-  {"q": "How do solids and liquids behave differently? Why does sugar pour if it's a solid?", "a": "Solids keep their shape and volume; liquids keep their volume but take their container's shape. Sugar pours because it's many tiny solid grains sliding past each other."},
-  {"q": "What is viscosity? What does heating do to it?", "a": "How thick and slow a liquid is to flow. Heating usually lowers it: warm honey runs faster."},
-  {"q": "Why does ice stay at 0 °C while it is melting?", "a": "The heat going in is used to break the ice apart into water (latent heat), not to warm it."},
-  {"q": "Why does salt help freeze kulfi?", "a": "Salt lowers the freezing point, so the salty ice melts below 0 °C, taking heat from the milk."},
-  {"q": "Name a good conductor and a good insulator of heat, and say where each is used.", "a": "Conductor: steel or aluminium (pans). Insulator: wood, plastic, wool, thermocol, trapped air (handles, coolers, sweaters)."},
-  {"q": "What happens to most things when heated? What is strange about water?", "a": "They expand. Water expands when it freezes, so ice floats and full bottles bulge in the freezer."},
-  {"q": "Name three signs of a chemical reaction.", "a": "Gas bubbles, colour change, temperature change, a new solid, light or a new smell."},
-  {"q": "What does iron need to rust, and how can we stop it?", "a": "Water and oxygen (air); salt speeds it up. Paint, oil, a zinc coating, or keeping it dry."}
+  {
+   "q": "How do solids and liquids behave differently? Why does sugar pour if it's a solid?",
+   "a": "Solids keep their shape and volume; liquids keep their volume but take their container's shape. Sugar pours because it's many tiny solid grains sliding past each other."
+  },
+  {
+   "q": "What is viscosity? What does heating do to it?",
+   "a": "How thick and slow a liquid is to flow. Heating usually lowers it: warm honey runs faster."
+  },
+  {
+   "q": "Why does ice stay at 0 °C while it is melting?",
+   "a": "The heat going in is used to break the ice apart into water (latent heat), not to warm it."
+  },
+  {
+   "q": "Why does salt help freeze kulfi?",
+   "a": "Salt lowers the freezing point, so the salty ice melts below 0 °C, taking heat from the milk."
+  },
+  {
+   "q": "Name a good conductor and a good insulator of heat, and say where each is used.",
+   "a": "Conductor: steel or aluminium (pans). Insulator: wood, plastic, wool, thermocol, trapped air (handles, coolers, sweaters)."
+  },
+  {
+   "q": "What happens to most things when heated? What is strange about water?",
+   "a": "They expand. Water expands when it freezes, so ice floats and full bottles bulge in the freezer."
+  },
+  {
+   "q": "Name three signs of a chemical reaction.",
+   "a": "Gas bubbles, colour change, temperature change, a new solid, light or a new smell."
+  },
+  {
+   "q": "What does iron need to rust, and how can we stop it?",
+   "a": "Water and oxygen (air); salt speeds it up. Paint, oil, a zinc coating, or keeping it dry."
+  }
  ]
 }
