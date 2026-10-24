@@ -99,6 +99,14 @@
     async list(){const {data}=await bucket().list(uid,{limit:1000});return {assets:(data||[]).map(f=>({id:uid+"/"+f.name,url:"/_blob/"+uid+"/"+f.name,sizeBytes:f.metadata?.size||0,contentType:f.metadata?.mimetype||""})),usage:{}}},
     async delete(id){if(!String(id).startsWith(uid+"/"))throw err("bad_request");const {error}=await bucket().remove([id]);if(error)throw err("delete_failed",error.message)}})}
 
+  /* ---------- content edits: the owner rewrites any text in the app; every family sees the new text ---------- */
+  /* table content_edits (k = the original text, t = the new text), writable only by emails listed in table editors */
+  function makeEdits(){const t=()=>sb.from("content_edits");return Object.freeze({
+    async list(){const {data,error}=await t().select("k,t");if(error)throw err("db_error",error.message);return data||[]},
+    async put(k,text){const {error}=await t().upsert({k,t:text,updated_at:new Date().toISOString()});if(error)throw err("db_error",error.message)},
+    async del(k){const {error}=await t().delete().eq("k",k);if(error)throw err("db_error",error.message)},
+    async canEdit(){try{const e=(session?.user?.email||"").toLowerCase();if(!e)return false;const {data}=await sb.from("editors").select("email").eq("email",e).maybeSingle();return !!data}catch(x){return false}}})}
+
   /* ---------- downloads ---------- */
   const downloads=Object.freeze({async save({filename,data}){const blob=data instanceof Blob?data:new Blob([data]);const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=filename||"download";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),30000);return "saved"}});
 
@@ -106,7 +114,7 @@
   const caps={};
   function install(){Object.assign(caps,{db:makeDb(),user:makeUser(),sample:(AI===true||(AI&&plusOn()))?makeSample():null,assets:makeAssets(),downloads});
     window.claude=Object.freeze({use:async name=>caps[name]||null});
-    window.DK_PLATFORM={name:"web",signOut:async()=>{await sb.auth.signOut();location.reload()},user:()=>session?.user||null,plus:()=>({...plus,on:plusOn()})};
+    window.DK_PLATFORM={name:"web",edits:makeEdits(),signOut:async()=>{await sb.auth.signOut();location.reload()},user:()=>session?.user||null,plus:()=>({...plus,on:plusOn()})};
     if(AI==="plus"&&plus.payments)window.DK_PLATFORM.upgrade=upgrade}
 
   /* ---------- DeepKids Plus: status and Razorpay checkout ---------- */

@@ -110,3 +110,27 @@ create table if not exists public.payments (
 );
 alter table public.payments enable row level security;   -- no policies: the app can't read or write it
 revoke all on public.payments from anon, authenticated;
+
+-- ---------- content edits: the owner rewrites any text in the app ----------
+-- After running this, add yourself as an editor (use the Google email you sign in with):
+--   insert into public.editors (email) values ('you@example.com');
+create table if not exists public.editors (
+  email text primary key
+);
+alter table public.editors enable row level security;
+drop policy if exists "see own editor row" on public.editors;
+create policy "see own editor row" on public.editors for select to authenticated
+  using (lower(email) = lower(auth.jwt() ->> 'email'));
+
+create table if not exists public.content_edits (
+  k text primary key,           -- the original text as the app shows it
+  t text not null,              -- the replacement text
+  updated_at timestamptz not null default now()
+);
+alter table public.content_edits enable row level security;
+drop policy if exists "everyone reads edits" on public.content_edits;
+drop policy if exists "editors write edits" on public.content_edits;
+create policy "everyone reads edits" on public.content_edits for select to authenticated using (true);
+create policy "editors write edits" on public.content_edits for all to authenticated
+  using (exists (select 1 from public.editors e where lower(e.email) = lower(auth.jwt() ->> 'email')))
+  with check (exists (select 1 from public.editors e where lower(e.email) = lower(auth.jwt() ->> 'email')));

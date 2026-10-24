@@ -1,0 +1,1133 @@
+{
+ "key": "combined|sci|5|caring-for-the-environment",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "caring-for-the-environment",
+ "title": "Caring for the environment: soil, forests and one shared home",
+ "source": "DeepKids Combined. Covers NCERT Class 5 'Our School — A Happy Place' (a green school: waste, water, trees; kindness, respect and positive behaviour), NCERT Class 5 'Earth — Our Shared Home' (Earth as a connected living planet; sharing nature, knowledge and culture; Vasudhaiva Kutumbakam) and NIOS Class 5 'Conservation of Soil and Forests' (soil erosion, its harm and prevention; soil pollution; why forests must be protected). No textbook needed.",
+ "summary": "Your child starts with the Earth seen from space, then goes down to the thin skin of soil that feeds us all: how slowly it forms, how wind and water carry it off, and how farmers hold it with terraces, check dams and trees. They count the life in a handful of soil, weigh up organic and chemical farming, measure how shade and white roofs cool a place, audit their own home or school as a 'green explorer', and trap heat in a jar as Eunice Foote did in 1856. Falcons from Mongolia, chillies from Mexico and ideas from India show that nature and knowledge have no borders, and the rung ends with the old idea that the whole Earth is one family.",
+ "builds_on": "Class 2: habitats, litter, the three Rs, nature reserves. Class 3: food chains and webs, decomposers, keystone species, pollution, roots holding soil, saving water. This rung goes into soil erosion and soil pollution properly, forests, heat islands, the greenhouse effect, a green audit, and the Earth as one connected home. Later: climate change, ecosystems and the carbon cycle in middle school.",
+ "goals": [
+  "By the end your child can explain what topsoil is, why it takes so long to form, and how water and wind erode it.",
+  "By the end your child can show at least four ways farmers prevent erosion, using a model.",
+  "By the end your child can name causes of soil pollution and explain how compost and living soil keep it healthy, and give both sides of the organic farming debate.",
+  "By the end your child can give several reasons forests must be protected, and say whose lives depend on them.",
+  "By the end your child can carry out a green audit of their home or school and make one real change.",
+  "By the end your child can explain the greenhouse effect with the jar experiment, and give examples of how birds, seeds, air and ideas cross borders."
+ ],
+ "subconcepts": [
+  "topsoil forms very slowly and feeds almost all land life",
+  "soil erosion by water and wind",
+  "harm from erosion: poor farms, muddy rivers, landslides",
+  "preventing erosion: terraces, bunds, check dams, cover crops, trees",
+  "soil pollution: plastic, pesticides, too much fertiliser, factory waste",
+  "healthy soil is alive: compost and soil creatures",
+  "why forests matter: water, soil, climate, homes and people",
+  "shade and white roofs cool places (heat islands)",
+  "a green audit: waste, water, energy, trees and kindness",
+  "the greenhouse effect",
+  "nature has no borders: migrating birds, travelling seeds and air",
+  "foods, ideas and knowledge travel and are shared",
+  "Vasudhaiva Kutumbakam: the Earth as one family",
+  "dignity of labour: respecting the people who care for our places"
+ ],
+ "words": [
+  [
+   "topsoil",
+   "the dark, crumbly top layer of soil, full of life and nutrients, where plants grow"
+  ],
+  [
+   "soil erosion",
+   "topsoil being carried away by water or wind"
+  ],
+  [
+   "terrace",
+   "a flat step cut into a hillside for farming, so rain can't wash the soil down"
+  ],
+  [
+   "check dam",
+   "a small wall across a stream that slows water and catches soil"
+  ],
+  [
+   "soil pollution",
+   "harmful things in soil, like plastic, poisons or too much chemical fertiliser"
+  ],
+  [
+   "compost",
+   "rotted plant and food waste that makes soil rich"
+  ],
+  [
+   "heat island",
+   "a city area that is much hotter than the land around it because of roads, roofs and few trees"
+  ],
+  [
+   "greenhouse effect",
+   "gases in the air trapping the Sun's heat and warming the Earth"
+  ],
+  [
+   "migrate",
+   "to travel a long way at the same time each year"
+  ],
+  [
+   "audit",
+   "a careful check and count of how something is used"
+  ],
+  [
+   "Vasudhaiva Kutumbakam",
+   "Sanskrit for 'the whole Earth is one family'"
+  ],
+  [
+   "dignity of labour",
+   "the idea that every kind of honest work deserves respect"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Our address in the universe",
+   "goal": "Climb up from Class 3, see the Earth from space, meet the story, and dig into topsoil.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do we remember?",
+     "mins": 6,
+     "do": "Recall the Class 3 rung in one quick round. Ask: 'What do decomposers do?' (Turn dead things back into soil.) 'What happened when India's vultures disappeared?' (Carcasses rotted, stray dogs and rabies increased.) 'What did the bare soil tray show?' (Without roots and leaves, rain washes soil away.) Say: 'This time we start in space and end in a handful of soil.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The Earth from space",
+     "mins": 9,
+     "do": "Show a photo of the Earth from space (in an atlas or on a phone; the 1972 'Blue Marble' photo is a good one). Tell your child: 'In 1984 Rakesh Sharma became the first Indian in space. When Prime Minister Indira Gandhi asked him how India looked from up there, he answered: Saare jahan se achha, better than the whole world.' Ask: 'Can you see any borders between countries in the photo? What can you see?' (Oceans, clouds, deserts, forests, ice; no lines.) Then help your child write their full address, adding after the country: Asia, Earth, the Solar System, the Milky Way."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Sky Over Doyang",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask: 'Whose bird was the falcon?' and 'What changed Achumi's mind?' Keep the answers for Day 7."
+    },
+    {
+     "kind": "outdoor",
+     "title": "Dig and look: topsoil",
+     "mins": 12,
+     "do": "In a garden, park or field (with permission), dig a small hole about 30 cm deep with a trowel, and look at the side of the hole. Your child draws the layers: dark crumbly topsoil with roots and creatures at the top, then lighter, harder subsoil, maybe stones or rock below. Ask: 'Which layer would a seed like? Why is the top dark?' (It is full of rotted leaves, called humus, and living things.) Fill the hole back in."
+    },
+    {
+     "kind": "talk",
+     "title": "How long does soil take?",
+     "mins": 6,
+     "do": "Tell your child: 'Soil is made when rocks are slowly broken by heat, cold, water and roots, and mixed with the rotted bodies of plants and animals. Scientists estimate it often takes hundreds of years, even a thousand, to make just a few centimetres of topsoil, about the height of your little finger.' Ask: 'If a heavy rain washes away 2 cm of bare soil in one monsoon, how long would it take to make it again?' Let your child feel the unfairness of that."
+    }
+   ],
+   "need": [
+    "a photo of the Earth from space (atlas or phone)",
+    "a trowel",
+    "paper and pencil"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Wind and water carry soil away",
+   "goal": "Watch wind erode soil, build a hill farm that holds it, and meet the man who warned about the dust.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Wind on dry, damp and covered soil",
+     "mins": 12,
+     "do": "Do Experiment e1. Put three small heaps of soil on three trays: dry, damp, and dry covered with dry grass or leaves. Spread newspaper around each. Your child blows hard through a straw at each heap for 10 seconds (or a grown-up uses a hairdryer on cool). Compare how far the soil spreads. Ask: 'Which soil blew away most? Where in India might wind carry soil away?' (Dry, bare places such as parts of Rajasthan, especially in the hot, windy months before the monsoon.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "act",
+     "title": "A hill farm that holds its soil",
+     "mins": 20,
+     "do": "Do Activity a1. Build two hills of damp soil or sand on trays. Leave one smooth and bare. On the other, press steps into the side with a ruler (terraces), add small walls of pebbles across the slope (bunds), a stone wall across the gully (a check dam), and twigs and grass for trees and cover. Sprinkle the same 'rain' on both from a watering can or a bottle with holes. Compare the mud that runs off. Ask: 'What did each thing do?' (Terraces make the water stop on flat steps and soak in; bunds and check dams slow it and catch soil; plants hold soil with roots.) Tell your child that farmers in the Himalaya, the Western Ghats and the Nilgiris have farmed on terraces for centuries.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "The man who brought the dust to Washington",
+     "mins": 13,
+     "do": "Talk about voice v1, Hugh Hammond Bennett and the Dust Bowl. Ask first: 'What do you think happens when grasslands are ploughed up and then a drought comes?' Then tell the story and ask the voice question.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "three trays, soil, dry grass or leaves, newspaper, a straw",
+    "two more trays, damp soil or sand, a ruler, pebbles, twigs and grass",
+    "a watering can or a bottle with holes"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Poisoned soil and living soil",
+   "goal": "Count the life in soil, find out what pollutes it, and weigh up organic and chemical farming.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "How much life is in a handful of soil?",
+     "mins": 15,
+     "do": "Do Experiment e2. Take one handful of soil from under a tree or a compost heap with leaf litter, and one from a bare, swept or roadside patch. Spread each on white paper and look carefully with a magnifying glass for 5 minutes each. Count every living thing: earthworms, ants, beetles, springtails (tiny jumping specks), mites, centipedes, white fungus threads. Ask: 'Which soil is more alive? Why?' Tell your child: 'A teaspoon of healthy soil can hold more tiny living things, mostly bacteria, than there are people on Earth.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "What poisons soil?",
+     "mins": 10,
+     "do": "Make a list together: plastic bags and wrappers that never rot and stop water and air getting in; pesticides that kill soil creatures as well as pests; too much chemical fertiliser, which can make soil hard and salty and run off into rivers; oil, paint and battery waste; and factory waste dumped on land. Then the good list: compost, cow-dung manure, green manure (plants grown and dug back in), crop rotation, and leaving leaf litter. Ask: 'Why do earthworms matter to a farmer?' (They mix the soil, make tunnels for air and water, and turn leaves into rich soil.)"
+    },
+    {
+     "kind": "think",
+     "title": "Organic or chemical? A real debate",
+     "mins": 12,
+     "do": "Talk about voice v2. Set it up as a debate: your child argues for organic farming for 2 minutes, then for chemical fertilisers for 2 minutes. Then tell the true stories of Sikkim and Sri Lanka and ask the voice question. Say: 'Experts still disagree. What would you want to measure?'",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws1: soil, erosion and soil pollution. Read each question aloud if needed.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a trowel",
+    "two handfuls of soil from different places",
+    "white paper and a magnifying glass",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Forests and the cool shade",
+   "goal": "Measure how trees and white roofs cool a place, and find out whose lives depend on forests.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Black tile, white tile, tree shade",
+     "mins": 15,
+     "do": "Do Experiment e3. In the late morning, put a black and a white piece of paper or tile in full sun and a third piece of black paper in the shade of a tree. After 15 minutes, your child feels each with the back of the hand (or uses a thermometer). Also feel the ground: a tarred road in sun, grass in sun, soil under a tree. Ask: 'Which is hottest? Coolest?' Explain: dark surfaces absorb more sunlight and get hot; white ones reflect it; trees give shade and also cool the air by giving off water from their leaves. 'That's why cities with lots of roads and few trees become heat islands, sometimes several degrees hotter than the countryside around them.' Tell your child that Ahmedabad has painted thousands of poor families' roofs white to keep homes cooler in heat waves.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Lungs, sponge or home?",
+     "mins": 10,
+     "do": "Ask: 'Why do forests matter?' Make a big list: they hold soil with roots, soak up rain and feed springs and rivers, cool the air and make rain nearby, store carbon in their wood, give fruit, honey, medicine and wood, and are home to most land animals and plants. Then the challenge: 'People call the Amazon the lungs of the Earth, making 20% of our oxygen. Is that true?' Discuss the challenge hint."
+    },
+    {
+     "kind": "act",
+     "title": "Tree pose and the shared breath",
+     "mins": 5,
+     "do": "Stand in vrikshasana, tree pose: one foot pressed against the other leg, palms together over the head. Hold it for five slow breaths. On each breath out, say together: 'This goes to the trees.' On each breath in: 'This comes from the trees and the sea.' Ask: 'Whose breath are you breathing?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Forest people",
+     "mins": 15,
+     "do": "Tell your child: 'Millions of people in India, many of them Adivasi communities, live in or beside forests and have looked after them for generations: the Bishnois of Rajasthan who protect khejri trees and blackbuck, the Khasi people of Meghalaya with their sacred groves, the Gond and Baiga people of central India. In 2006 India passed the Forest Rights Act, which says forest communities have rights to the land and forest they have always used.' Ask: 'Who should decide what happens to a forest: the government, a company, the people who live in it, or the animals?' Listen, and add: 'In 1730, according to Bishnoi tradition, Amrita Devi and hundreds of Bishnois gave their lives at Khejarli trying to stop the king's men cutting their trees.' Ask: 'Is a tree worth that much?'"
+    }
+   ],
+   "need": [
+    "black and white paper or tiles",
+    "a thermometer (optional)",
+    "a sunny morning and a tree"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Green explorers: auditing our place",
+   "goal": "Audit your home or school for waste, water, energy, greenery and kindness, and choose one real change.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "The green audit",
+     "mins": 25,
+     "do": "Do Activity a2, the project's first step. Your child is the Green Explorer of your home, building or school. With a clipboard, they check and score five things: waste (are wet and dry bins separate? how full?), water (any drips? is rainwater caught?), energy (lights and fans left on in empty rooms? old bulbs?), greenery (how many trees and plants? any bare soil?), and people (who cleans? who repairs? does everyone have a safe, shady place?). They give each a score from 1 to 5 and write one problem for each.",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Who keeps this place clean?",
+     "mins": 10,
+     "do": "Ask: 'In your audit, who does the cleaning, the sweeping, the repairs, the waste collection? Do we know their names?' If possible, go and talk with one of them: the sweeper, the guard, the gardener, the waste collector. Ask what makes their work harder (mixed waste, litter, rudeness) and easier. Afterwards ask: 'Is a place green if it is clean for some people because others work hard for little thanks?' Introduce the words 'dignity of labour'."
+    },
+    {
+     "kind": "think",
+     "title": "Choose one real change",
+     "mins": 10,
+     "do": "From the audit, your child chooses one problem to really fix this week (for example: separate the bins, fix a drip, plant three saplings, switch off unused fans, thank and learn the name of the person who cleans). Write a simple plan: what, who, how we'll measure it, and a date to check. This is the heart of the project."
+    }
+   ],
+   "need": [
+    "a clipboard and audit sheet",
+    "a pencil"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The warm jar",
+   "goal": "Trap heat in a jar, meet Eunice Foote, and see why white ice melts slower.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Greenhouse in a jar",
+     "mins": 20,
+     "do": "Do Experiment e4. Take two identical clear jars or bottles with a thermometer in each (or a strip thermometer stuck inside). In one jar, a grown-up mixes a spoon of baking soda with a little vinegar at the bottom and lets it fizz for a minute: this fills the jar with carbon dioxide. Close both jars (or cover with cling film), put them side by side in the same strong sunlight, and read both thermometers every 5 minutes for 15 minutes. Ask: 'Which got warmer?' (Usually the carbon dioxide jar warms a little faster.) Explain honestly: 'The difference in a jar is small and can be tricky to measure. But the same thing, on the scale of the whole Earth's air, keeps our planet warm, and adding more carbon dioxide by burning coal, oil and wood makes it warmer.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "The woman who got there first",
+     "mins": 12,
+     "do": "Talk about voice v3, Eunice Foote. Ask: 'Why do you think her paper was read by a man? Why might a later scientist get the credit?' Then ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "A prediction made with pencil and paper",
+     "mins": 8,
+     "do": "Tell your child: 'In 1896 a Swedish scientist, Svante Arrhenius, spent many months doing sums by hand and predicted that burning coal would slowly warm the whole Earth. He got the direction right. But he thought it would take thousands of years, and might even be pleasant for cold Sweden. It has happened much faster, because we burn far more than he imagined.' Ask: 'Can a scientist be right and wrong at the same time?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Ice on black and white",
+     "mins": 5,
+     "do": "Put an ice cube on a black cloth and one on a white cloth in the sun. Check after 5 minutes (and again later). Ask: 'Which melts first? What happens to the Earth when white ice and snow melt and leave dark sea and rock?' (The dark surfaces soak up more sunlight, so it warms more, so more ice melts: a loop that feeds itself.)"
+    }
+   ],
+   "need": [
+    "two clear jars or bottles",
+    "two thermometers",
+    "baking soda, vinegar, a spoon",
+    "two ice cubes, a black cloth and a white cloth"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Nature has no borders",
+   "goal": "Follow the falcons, the seeds and the food that cross the world.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Back to Doyang",
+     "mins": 10,
+     "do": "Go back to the story. Ask: 'Which countries does an Amur falcon depend on in one year?' (Mongolia, China or Russia where it nests; India where it rests and feeds; countries of southern Africa where it spends the winter; and the sea in between.) Ask: 'If one country protects it and another doesn't, what happens?'"
+    },
+    {
+     "kind": "act",
+     "title": "The falcon's map",
+     "mins": 12,
+     "do": "On a world map (an atlas page or one you draw), your child draws the Amur falcon's journey: from north-east Asia, south to Nagaland, then across the Arabian Sea to Africa, and back in spring. Add other travellers: rosy starlings that fly from Central Asia and eat locusts in Indian fields, bar-headed geese that fly over the Himalaya, and the winds that carry dust from the Thar desert across the land. Ask: 'Which of these needs a passport?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Foods and ideas that travelled",
+     "mins": 10,
+     "do": "Ask: 'Which of these foods is Indian: chilli, potato, tomato, tea, sugar, rice?' Tell them: chilli, potato and tomato came from the Americas only about 500 years ago; tea was brought from China in the 1800s by the British for plantations, though some wild tea also grew in Assam; sugar from sugarcane was first made into crystals in India and travelled the world; and rice was first grown in Asia. Then ideas: yoga and the way of writing numbers with a zero spread from India; paper came from China. Ask: 'Is anything only one country's?'"
+    },
+    {
+     "kind": "game",
+     "title": "Planet Keepers",
+     "mins": 13,
+     "do": "Play the cooperative board game g1. Everyone wins or loses together.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "a world map or atlas",
+    "the printed game board, a die, counters"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "One family",
+   "goal": "Meet the old idea that the whole Earth is one family, and a modern scientific idea that Earth behaves like one living system.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Vasudhaiva Kutumbakam",
+     "mins": 10,
+     "do": "Tell your child the old Sanskrit verse from the Maha Upanishad, in meaning: 'This is mine, that is a stranger's: so count the small-minded. For the large-hearted, the whole Earth is one family.' Explain that 'vasudha' means the Earth and 'kutumbakam' means family. Ask: 'Does the family include only people? Who else would you put in it?' (Falcons, rivers, soil creatures, trees.) Ask: 'What does a family do when one member is in trouble?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Is the Earth alive?",
+     "mins": 12,
+     "do": "Talk about voice v4, Lovelock and Margulis and the Gaia idea. Ask: 'Is the Earth alive? What would it need to do to count as alive?' (Use the signs of life from earlier classes: does it grow, take in energy, keep itself steady, reproduce?) Then ask the voice question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "act",
+     "title": "Drama: the Earth council",
+     "mins": 13,
+     "do": "Hold a council. Each person plays a part of the Earth system: the Sun, the sea, the forests, the soil, the ice, the air, the falcons, and the people. The question: 'The people want to burn more coal to make more things. What does each of you say?' Each speaker says what they give, what they need, and what happens to them if the people burn more coal. Then the people must reply. Ask afterwards: 'Did anyone change their mind?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws2: forests, heat and the shared Earth in new places.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Pledge, check and teach it back",
+   "goal": "Report on the real change, try the challenge worksheet, and write a letter to the future.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "What did we change?",
+     "mins": 10,
+     "do": "Your child reports on the one real change from Day 5: what we did, what we measured, whether it worked, and what we'd do next. Ask: 'What was harder than you expected? Who helped?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws3. The last questions have no single right answer: ask for evidence and reasons.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 12,
+     "do": "Ask the check questions aloud. Let your child use the hill model, the soil drawings and the falcon map to explain."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back, and a letter to 2075",
+     "mins": 11,
+     "do": "Your child teaches the family in five minutes: how soil is lost and saved, why forests matter, and what the greenhouse jar showed. Then they write a short letter to a child living in 2075, saying what the Earth is like now, one thing their family did, and one question they would like to ask that child."
+    }
+   ],
+   "need": [
+    "the models, drawings and map",
+    "worksheet ws3",
+    "paper for the letter"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Soil: lost and saved",
+   "day": 3,
+   "sections": [
+    [
+     "A. Soil and erosion",
+     [
+      {
+       "t": "mcq",
+       "p": "Topsoil is dark because it is full of…",
+       "opts": [
+        "rotted plants and animals (humus) and living things",
+        "coal",
+        "paint"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "About how long can it take nature to make a few centimetres of topsoil?",
+       "opts": [
+        "a week",
+        "a year",
+        "hundreds of years or more"
+       ],
+       "a": 2
+      },
+      {
+       "t": "sort",
+       "p": "Is it erosion by water or by wind?",
+       "items": [
+        "a gully cut in a hillside after the monsoon",
+        "dust blown off a dry field in May",
+        "a muddy river after heavy rain",
+        "sand piled against a desert wall",
+        "a landslide on a bare slope"
+       ],
+       "cats": [
+        "water",
+        "wind"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the way to save soil to how it works.",
+       "pairs": [
+        [
+         "terraces",
+         "flat steps that stop water rushing down a slope"
+        ],
+        [
+         "check dam",
+         "a small wall that slows a stream and catches soil"
+        ],
+        [
+         "trees and grass",
+         "roots that hold soil together"
+        ],
+        [
+         "mulch or leaf cover",
+         "a blanket that softens rain and keeps soil damp"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Soil pollution",
+     [
+      {
+       "t": "sort",
+       "p": "Does it harm soil or help it?",
+       "items": [
+        "plastic bags",
+        "compost",
+        "too much chemical fertiliser",
+        "earthworms",
+        "pesticide spray",
+        "cow-dung manure"
+       ],
+       "cats": [
+        "harms",
+        "helps"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The handful of soil from under a tree had more living things because it had more dead ____ for them to eat.",
+       "a": [
+        "leaves",
+        "leaf litter",
+        "plants"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Your hill model with terraces lost less mud than the bare hill. Explain why, using the word erosion.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A farmer's field is next to a river. After many years of bare fields in the monsoon, the river gets shallower. Why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Forests, heat and the shared Earth",
+   "day": 8,
+   "sections": [
+    [
+     "A. Heat and shade",
+     [
+      {
+       "t": "mcq",
+       "p": "Why is a tarred road hotter than grass in the sun?",
+       "opts": [
+        "Dark surfaces absorb more sunlight, and grass gives off water that cools it",
+        "Roads are closer to the Sun",
+        "Grass is made of ice"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Ahmedabad painted roofs white in poor neighbourhoods. Why?",
+       "opts": [
+        "White reflects sunlight, so the rooms below stay cooler",
+        "White paint is cheaper than food",
+        "To make the roofs waterproof only"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A city that is much hotter than the countryside around it because of roads, roofs and few trees is called a heat ____.",
+       "a": [
+        "island"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the greenhouse jar experiment, the jar with extra carbon dioxide…",
+       "opts": [
+        "usually warmed a little faster",
+        "froze",
+        "had no air in it"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. No borders",
+     [
+      {
+       "t": "match",
+       "p": "Match the traveller to its journey.",
+       "pairs": [
+        [
+         "Amur falcon",
+         "north-east Asia to Africa, resting in Nagaland"
+        ],
+        [
+         "chilli",
+         "from the Americas to India about 500 years ago"
+        ],
+        [
+         "rosy starling",
+         "from Central Asia to Indian fields, eating locusts"
+        ],
+        [
+         "the numeral zero",
+         "written in India and spread across the world"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Is it shared by everyone, or can it be owned by one person?",
+       "items": [
+        "the air",
+        "a pair of shoes",
+        "the migrating falcons",
+        "the sea",
+        "a bicycle",
+        "the monsoon rain"
+       ],
+       "cats": [
+        "shared by everyone",
+        "can be owned"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Your audit found someone cleaning the building for little thanks. Is that place 'green'? What would make it a happy place for everyone?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "If one country protects the Amur falcon and another country on its route does not, what could happen? What could the two countries do?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Who decides for the Earth?",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Hugh Bennett said the Dust Bowl was caused mainly by…",
+       "opts": [
+        "ploughing up grassland and leaving soil bare in a drought",
+        "earthquakes",
+        "too many trees"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Sri Lanka banned chemical fertilisers suddenly in 2021. What happened?",
+       "opts": [
+        "Harvests of rice and tea fell sharply and the ban was soon reversed",
+        "Harvests doubled",
+        "Nothing changed"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Who first showed, in 1856, that carbon dioxide traps the Sun's heat?",
+       "opts": [
+        "Eunice Foote",
+        "John Tyndall",
+        "Svante Arrhenius"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Ice and snow reflect sunlight. When they melt, the dark sea and rock underneath absorb more heat, which melts more ice. This kind of loop is called a ____ loop.",
+       "a": [
+        "feedback"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Agreed by almost all scientists, or still argued about?",
+       "items": [
+        "burning coal and oil adds carbon dioxide that warms the Earth",
+        "whether the Earth is a kind of living thing (Gaia)",
+        "bare soil erodes faster than covered soil",
+        "exactly how much organic farming can feed the world"
+       ],
+       "cats": [
+        "agreed",
+        "still argued about"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Weigh it up",
+     [
+      {
+       "t": "write",
+       "p": "'This is mine, that is a stranger's: so count the small-minded.' Do you agree that the whole Earth is one family? Does the family include rivers and soil? Give reasons.",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "A company wants to dig a mine in a forest. It will give jobs to the town but the forest people and animals will lose their home. Who should decide, and how?",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "Design a fair test to find out whether mulch (a layer of dry leaves) keeps a pot plant's soil damp for longer. What will you change, keep the same and measure?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Wind on dry, damp and covered soil",
+   "day": 2,
+   "question": "Which soil does the wind carry away most easily?",
+   "need": [
+    "three trays",
+    "soil",
+    "water",
+    "dry grass or leaves",
+    "newspaper",
+    "a straw (or a hairdryer on cool, used by a grown-up)"
+   ],
+   "steps": [
+    "Make three equal heaps: dry soil, damp soil, and dry soil covered with grass or leaves.",
+    "Spread newspaper around each tray.",
+    "Blow through the straw at each heap for 10 seconds from the same distance.",
+    "Look at how far soil has spread on the paper.",
+    "Compare and record."
+   ],
+   "predict": "Ask: 'Which heap will lose the most soil?'",
+   "observe": "The dry bare heap spreads widely; the damp and covered heaps lose little.",
+   "why": "Dry, loose soil grains have nothing holding them, so wind lifts them. Water sticks grains together, and plants and leaf litter shield the surface. That is why ploughed, bare fields in dry, windy seasons lose so much topsoil, and why windbreaks of trees and cover crops protect farms.",
+   "safety": "Blow away from faces; a grown-up handles the hairdryer. Wash hands after.",
+   "time": "12 min"
+  },
+  {
+   "id": "e2",
+   "title": "How much life is in a handful of soil?",
+   "day": 3,
+   "question": "Is soil under trees more alive than bare soil?",
+   "need": [
+    "a trowel",
+    "two handfuls of soil: one from under a tree or compost, one from a bare or swept patch",
+    "white paper",
+    "a magnifying glass"
+   ],
+   "steps": [
+    "Spread each handful on its own white paper.",
+    "Look for 5 minutes each, gently moving soil with a stick.",
+    "Count and draw every living thing.",
+    "Put the soil and creatures back where they came from."
+   ],
+   "predict": "Ask: 'Which handful will have more living things?'",
+   "observe": "The soil from under the tree or compost has worms, ants, springtails, mites and fungus threads; the bare soil has few.",
+   "why": "Soil creatures live on dead leaves and each other. Where leaves are left to rot, there is food, and the creatures mix the soil, make tunnels for air and water, and release nutrients for plants. Bare, swept or poisoned soil has little food and few creatures, so it gets hard and poor.",
+   "safety": "Use a stick or trowel, not bare hands, and wash hands after. Don't touch centipedes.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "Black tile, white tile, tree shade",
+   "day": 4,
+   "question": "How do colour and shade change how hot a surface gets?",
+   "need": [
+    "black paper or tile",
+    "white paper or tile",
+    "a second black paper",
+    "a sunny late morning",
+    "a tree",
+    "a thermometer (optional)"
+   ],
+   "steps": [
+    "Put the black and white papers in full sun.",
+    "Put the second black paper in deep tree shade.",
+    "Wait 15 minutes.",
+    "Feel each with the back of your hand, or measure.",
+    "Also feel a road, grass and soil in the sun and in shade."
+   ],
+   "predict": "Ask: 'Which will be hottest? Will the black paper in shade be hot?'",
+   "observe": "Black in sun is hottest, white in sun is cooler, black in shade is coolest. Road in sun is hotter than grass.",
+   "why": "Dark surfaces absorb most of the sunlight that falls on them and turn it into heat; white surfaces reflect most of it. Trees block sunlight and also cool the air by giving off water vapour from their leaves (evaporation takes heat away). Cities full of dark roads and roofs and few trees become heat islands.",
+   "safety": "Don't touch very hot surfaces with your palm; test with the back of your hand quickly.",
+   "time": "15 min + 15 min waiting"
+  },
+  {
+   "id": "e4",
+   "title": "Greenhouse in a jar",
+   "day": 6,
+   "question": "Does air with more carbon dioxide warm up faster in sunlight?",
+   "need": [
+    "two identical clear jars or bottles",
+    "two thermometers",
+    "baking soda",
+    "vinegar",
+    "a spoon",
+    "cling film or lids"
+   ],
+   "steps": [
+    "Put a thermometer in each jar, facing out so you can read it.",
+    "In one jar, a grown-up adds a spoon of baking soda and a little vinegar and lets it fizz for a minute.",
+    "Close both jars.",
+    "Place them side by side in the same strong sunlight.",
+    "Read both every 5 minutes for 15 minutes and record."
+   ],
+   "predict": "Ask: 'Will one jar get warmer than the other?'",
+   "observe": "Both warm up; the carbon dioxide jar often warms a little more. The difference is small and the test is easily upset by shade or wind.",
+   "why": "Sunlight passes through air and warms the ground; the warm ground gives off invisible heat (infrared). Carbon dioxide and water vapour absorb some of that heat and keep it in. This is the greenhouse effect, and without it the Earth would be frozen. Adding more carbon dioxide by burning fuels traps more heat. Eunice Foote showed the first hint of this in 1856 with jars much like these.",
+   "safety": "Vinegar and baking soda only; no flames. Don't drink from the jars.",
+   "time": "20 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "A hill farm that holds its soil",
+   "day": 2,
+   "mins": 20,
+   "need": [
+    "two trays",
+    "damp soil or sand",
+    "a ruler",
+    "pebbles",
+    "twigs and grass",
+    "a watering can or a bottle with holes"
+   ],
+   "steps": [
+    "Build two hills the same size.",
+    "Leave one smooth and bare.",
+    "On the other, press in terraces with the ruler.",
+    "Add pebble bunds across the slope and a stone check dam in the gully.",
+    "Stick in twigs and grass as trees and cover.",
+    "'Rain' the same amount on both.",
+    "Compare the mud that runs off each."
+   ],
+   "outcome": "Two models that show how terraces, bunds, check dams and plants hold soil."
+  },
+  {
+   "id": "a2",
+   "title": "The green audit",
+   "day": 5,
+   "mins": 25,
+   "need": [
+    "a clipboard",
+    "an audit sheet with five sections",
+    "a pencil"
+   ],
+   "steps": [
+    "Waste: count bins, check if wet and dry are separate.",
+    "Water: look for drips and see if rain is caught.",
+    "Energy: count lights and fans on in empty rooms; check bulb types.",
+    "Greenery: count trees and plants; note bare soil.",
+    "People: find out who cleans and repairs, and whether everyone has a safe, shady place.",
+    "Score each section 1–5 and write one problem for each."
+   ],
+   "outcome": "A scored audit of your place and a list of problems to fix."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Hugh Hammond Bennett (1881–1960), soil scientist, USA",
+   "idea": "Bennett studied farms all over the USA and saw that ploughed, bare fields were losing their topsoil to rain and wind. In 1928 he wrote a report called 'Soil Erosion: A National Menace'. In the 1930s, after the grasslands of the Great Plains had been ploughed up for wheat, a long drought came, and the bare soil blew away in enormous dust storms: the Dust Bowl. Bennett argued that farmers must keep soil covered, plough along the slopes, and plant windbreaks of trees.",
+   "then": "Many people believed soil was endless and that erosion didn't matter much. It is told that in 1935, while Bennett was speaking to the US Congress, a dust storm from the Great Plains, more than 2,000 km away, darkened the sky over Washington. Soon after, the government set up a Soil Conservation Service with Bennett as its head.",
+   "now": "Accepted. Soil erosion is now known as one of the biggest threats to farming worldwide, and the methods Bennett pushed for are used everywhere.",
+   "status": "accepted",
+   "ask": "Before the dust storm, many people didn't believe Bennett. Why is it hard to believe a warning about something that happens slowly? What would convince you?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "The organic versus chemical farming debate: the Green Revolution, Sikkim (2016) and Sri Lanka (2021)",
+   "idea": "From the 1960s, India's Green Revolution, led by scientists such as M.S. Swaminathan, used new seeds, chemical fertilisers, pesticides and irrigation, and India went from food shortages to growing enough grain to feed itself. But in places like Punjab, years of heavy chemical use and pumping have harmed soil, polluted water and lowered groundwater. Organic farming uses compost, manure and natural pest control instead. In 2016 Sikkim became India's first fully organic state, changing slowly over more than ten years. In 2021 Sri Lanka banned chemical fertilisers suddenly, almost overnight.",
+   "then": "Supporters of chemicals say the world can't be fed without them. Supporters of organic farming say chemicals are killing the soil we depend on.",
+   "now": "Debated. In Sri Lanka, harvests of rice and tea fell sharply and the ban was reversed within months. Sikkim's slower change has kept going, but its yields and farmers' incomes are still being studied. Many scientists now argue for a mix: using much less chemical, carefully, with more compost and soil life.",
+   "status": "debated",
+   "ask": "Sikkim changed slowly and Sri Lanka changed suddenly. Why might the speed of a change matter as much as the change itself?",
+   "day": 3
+  },
+  {
+   "id": "v3",
+   "who": "Eunice Newton Foote (1819–1888), scientist and women's rights campaigner, USA",
+   "idea": "In 1856 Foote put thermometers in glass cylinders filled with different gases (ordinary air, damp air, dry air, carbon dioxide) and set them in sunlight. The cylinder with carbon dioxide got the hottest and stayed hot longest. She wrote that an atmosphere with more of that gas would give the Earth a higher temperature. This was the first written hint of the greenhouse effect and of climate change.",
+   "then": "Her paper was read aloud at a big science meeting by a man, Joseph Henry, and was soon forgotten. Three years later, in 1859, the Irish scientist John Tyndall did more detailed experiments on how gases absorb heat and was credited for over a century. There is no evidence he knew of her work.",
+   "now": "Accepted, and her credit is being restored. Her paper was rediscovered around 2010, and she is now often called the first person to show that carbon dioxide traps heat. Tyndall's careful work was also important: it showed it was invisible heat from the ground, not sunlight itself, that the gases trap.",
+   "status": "accepted",
+   "ask": "Foote's paper was read by a man and then forgotten. How many other discoveries might be lost like that? How could we find them?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "James Lovelock (1919–2022) and Lynn Margulis (1938–2011): the Gaia idea",
+   "idea": "In the 1970s the British scientist James Lovelock, working with the American biologist Lynn Margulis, proposed that living things and the rocks, air and oceans together act like one huge self-regulating system that keeps the Earth suitable for life, for example by keeping the oxygen in the air and the saltiness of the sea fairly steady. Lovelock named it Gaia, after the Greek Earth goddess. Margulis brought the knowledge of microbes and how they change the air and soil.",
+   "then": "Many biologists attacked it, saying that evolution could not make the whole planet work 'on purpose', and that it sounded more like a religion than science.",
+   "now": "Debated. The strong version (the Earth is a living thing that keeps itself in balance on purpose) is not accepted by most scientists. But the weaker version, that life and the planet shape each other in loops (microbes made the oxygen in our air; forests make rain), is now the basis of a whole field called Earth system science.",
+   "status": "debated",
+   "ask": "What would the Earth need to do for you to call it alive? Is it enough that it keeps itself steady?",
+   "day": 8
+  }
+ ],
+ "project": {
+  "title": "Green explorers: one real change",
+  "days": [
+   5,
+   8,
+   9
+  ],
+  "steps": [
+   "Audit your home, building or school for waste, water, energy, greenery and people (Day 5).",
+   "Score each section and write one problem for each.",
+   "Choose one problem to fix this week and write a plan: what, who, how we'll measure it, a date to check.",
+   "Do it every day for at least four days, and measure (litres saved, bags separated, saplings watered, units on the meter).",
+   "Talk to the people affected, including the person who cleans.",
+   "Report: what you did, what you measured, what worked, what you'd do next (Day 9)."
+  ],
+  "outcome": "A real, measured change to your own place, and a report on it."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Planet Keepers",
+  "kind": "board",
+  "players": "2–4 (everyone plays together against the board)",
+  "need": [
+   "the printed board",
+   "a die",
+   "one counter for the team",
+   "10 'soil tokens' (buttons or beans)"
+  ],
+  "rules": [
+   "This is a cooperative game: everyone plays as one team and wins or loses together.",
+   "Start with 10 soil tokens in the 'healthy Earth' pile.",
+   "Take turns to roll the die and move the team counter.",
+   "Read the square aloud. A harm square takes away tokens; a care square gives them back. Before acting, the player must say why the square helps or harms.",
+   "On a harm square, the team may spend one turn to 'fix it' instead of moving, if someone can explain a real way to prevent it: then no tokens are lost.",
+   "The team wins by reaching ONE FAMILY with at least 5 tokens. If the tokens run out, everyone loses and starts again."
+  ],
+  "squares": [
+   "START: the blue planet",
+   "A forest is cut on a steep hill: lose 2",
+   "Farmers build terraces: gain 1",
+   "Plastic dumped in a field: lose 1",
+   "A village builds a check dam: gain 1",
+   "Bare fields in a dust storm: lose 2",
+   "Compost instead of too much fertiliser: gain 1",
+   "Falcons netted on their journey: lose 1",
+   "A village protects the falcons: gain 2",
+   "A city paints roofs white: gain 1",
+   "Coal smoke fills the air: lose 2",
+   "Forest people keep their sacred grove: gain 1",
+   "Pesticide kills the soil creatures: lose 1",
+   "Leaves left to rot under trees: gain 1",
+   "A heat wave in a treeless city: lose 1",
+   "Neighbours plant shade trees: gain 1",
+   "Someone thanks the person who cleans: gain 1",
+   "Ice melts and the sea warms: lose 1",
+   "Two countries agree to share a river: gain 2",
+   "ONE FAMILY: the whole Earth"
+  ]
+ },
+ "story": {
+  "title": "The Sky Over Doyang",
+  "text": [
+   "Every October, the sky over Achumi's village filled with falcons.",
+   "They came from nowhere, it seemed. One evening the sky above the Doyang reservoir was empty and blue, and the next it was full of small grey birds, more than anyone could count, swirling over the water and the forest like smoke, settling on the trees until the branches bent. They were Amur falcons, though nobody in Pangti called them that. They called them the October birds. Their wings made a sound like rain.",
+   "Achumi was ten, and she lived in Pangti, a village of the Lotha Naga people on the hills of Wokha in Nagaland. Her uncle Yanbemo set nets for the falcons. Most families did. The nets were long and fine, strung between bamboo poles near the roosting trees, and in the morning they were heavy with birds. The birds went to the market in sacks. For a few weeks every year, the falcons brought more money into the village than anything else. Achumi's school fees came from the falcons. So did her new red sweater.",
+   "She had never thought much about it. The falcons came, the nets went up, the money came. It was like the rain.",
+   "But that year, early one morning, she went with her uncle to the nets, and in a corner where the net had sagged into a bush she found one bird that was still alive, caught by one wing, struggling. It was smaller than she expected, smaller than a pigeon, with a grey back and orange legs and an orange ring around each eye. It stopped struggling when she touched it. It looked at her with a stillness that was not quite fear.",
+   "Without quite knowing why, she slipped it inside her red sweater and carried it home.",
+   "She kept it for three days in an old basket in the cowshed. She gave it rice, which it ignored, and water, which it drank. On the second day, there was a swarm of winged termites rising from the ground after a rain shower, and she held the basket open, and the falcon caught them one after another out of the air, faster than she could see, and ate them. So that was what it lived on. Not rice. Insects caught on the wing.",
+   "On the third day a visitor came to the village school: a young man from a wildlife group, with a laptop and a map. He talked to the children about the October birds, and some of the children giggled and some of the older ones looked angry, because they knew what he was going to say. But Achumi listened.",
+   "He showed them a map of the world. He put his finger on Mongolia, and China, and the far east of Russia. 'This is where your October birds are born,' he said. 'In summer, up here, they nest and raise their chicks.' Then he drew a line, down across China, across Burma, to a tiny dot that was Nagaland. 'In autumn they come here. They rest in your forests for a few weeks and eat the insects, and get fat and strong.' Then he drew the line on, out over India, and out over the sea, the whole wide blue of the Arabian Sea, all the way to Africa. 'They cross that sea without stopping,' he said. 'Day and night, for days. No land. Nowhere to rest. Then they spend the winter in southern Africa, and in spring they fly all the way back.'",
+   "'Why do they come to us?' a boy asked.",
+   "'Because you have what they need,' the young man said. 'Forests to sleep in, water, and insects to eat, at just the right time, just before the hardest part of the journey.'",
+   "Achumi went home and sat beside the basket and looked at the falcon for a long time. She thought about the line on the map. She thought about the nest in Mongolia, which she would never see, and the chicks in it. She thought about a boy in Africa, somewhere, who would look up in December and see these same birds and maybe call them something else, the December birds. She thought about the sea, so big that the falcon must fly for days over it without a single branch to sit on. This little grey bird, that fitted inside her sweater, belonged to Mongolia, and to Nagaland, and to Africa, and to the sea. It belonged to everyone along the line. It did not belong to her uncle's net.",
+   "She took the basket to the edge of the forest above the reservoir that evening, when the sky was full of swirling falcons. She opened it. The falcon did not move for a moment. Then it was gone, so fast she didn't see it go, and she couldn't tell which one it was among the thousands.",
+   "She told her uncle what she had done. She thought he would be angry. He was quiet for a long time.",
+   "That winter there were meetings in the village, long ones, with arguments and shouting. Some people said the falcons were a gift and the money was needed. Some said the whole country was ashamed of Pangti. Some said the falcons were guests, and that in Naga tradition you do not kill a guest. In the end the village councils of Pangti and the villages around it made a rule: no more nets. Some of the men who had been the best trappers became the falcon guards.",
+   "The next October, the sky over Doyang filled with falcons again, and the nets did not go up. People came from all over India, and from other countries, to see them. The village earned money from the visitors instead.",
+   "And that year, the scientists fitted a few of the falcons with tiny satellite tags, as light as a coin, and named them after the places that had protected them. On the school laptop, Achumi watched a little dot leave Nagaland, cross India, and set out over the blue of the Arabian Sea, and she watched it all day, and all the next day, until it touched the coast of Africa, and she let out her breath."
+  ],
+  "epiphany": "Achumi sees the falcon as a village resource, something that comes like the rain and brings money. The turn comes with the map: the bird is born in Mongolia, rests in Nagaland, crosses the sea to Africa. She understands that it belongs to everyone along its route, and to no one's net. The hidden idea is that nature has no borders: one bird joins many countries and depends on habitats in all of them (forests, insects, water), so the Earth is one shared home. The quiet lenses: the falcons are 'guests'; the trappers become guards; the village finds another way to earn; nobody is turned into a villain.",
+  "ask": [
+   "Why did the falcons stop in Achumi's village?",
+   "Whose bird was the falcon? Why did Achumi decide it didn't belong to the net?",
+   "Why might the village have needed the falcon money? Was it fair to ask them to stop?",
+   "What changed the uncle's mind, do you think?",
+   "Why did Achumi hold her breath while she watched the dot cross the sea?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "The soil under our feet is a thin, living skin that took ages to make.",
+   "more": "A few centimetres of topsoil can take hundreds of years to form and can wash or blow away in a season. The hill models and the handful-of-soil count show how plants and soil creatures keep it in place and alive."
+  },
+  {
+   "idea": "Nature has no borders.",
+   "more": "Falcons, starlings, winds, dust, rain and seeds cross every border on Earth. A bird can depend on forests in three continents. What one country does to its air or its forests reaches everyone."
+  },
+  {
+   "idea": "Air we can't see keeps the Earth warm.",
+   "more": "Carbon dioxide and water vapour trap heat, as Eunice Foote's jars showed. Without them Earth would freeze; with too much added, it warms."
+  },
+  {
+   "idea": "A place is only green if it is good for everyone in it.",
+   "more": "The green audit includes the people who clean and repair, the trees and the creatures. Kindness, respect and dignity of labour are part of caring for a place, not separate from it."
+  }
+ ],
+ "unknowns": [
+  "How much topsoil is the world really losing each year, and how fast is new soil forming? Estimates vary widely, because soil is hard to measure over large areas and long times.",
+  "How does an Amur falcon find its way across the open sea, thousands of kilometres with no land in sight? Scientists think birds may use the Sun, the stars and the Earth's magnetism, but nobody fully understands how.",
+  "Is the Earth in some sense a living system that keeps itself in balance? Scientists still argue about how far the Gaia idea is true."
+ ],
+ "big": [
+  "If the whole Earth is one family, who is in the family?",
+  "Who should decide what happens to a forest: the people who live in it, the government, a company, or the animals?",
+  "Is a place green if it is clean for some people because others work hard for little thanks?",
+  "Should a country be allowed to do whatever it wants with its own air, if the air flows to everyone?",
+  "Can a scientist be right and wrong at the same time?"
+ ],
+ "challenge": [
+  {
+   "q": "'The Amazon rainforest is the lungs of the Earth and makes 20% of our oxygen.'",
+   "hint": "The Amazon's plants do make huge amounts of oxygen, but the forest's animals, fungi and microbes use up almost all of it again, so its overall gift of oxygen is close to zero. Most of the oxygen built up in our air over millions of years came from tiny plants in the ocean. The Amazon matters enormously for other reasons: it stores vast carbon, makes much of South America's rain and is home to millions of kinds of life. Ask: why do people like simple slogans? Does the real reason matter?"
+  },
+  {
+   "q": "'Planting a trillion trees will solve climate change.'",
+   "hint": "A famous 2019 study suggested the world had room for about a trillion more trees, which could store a large amount of carbon. Other scientists replied that it had overestimated the space and the carbon, that trees in the wrong places (grasslands, snowy lands) can harm wildlife or even warm the Earth, and that trees take decades to grow. Protecting the forests we already have, and burning less coal and oil, matter most. Ask: why might a big, simple solution be attractive?"
+  },
+  {
+   "q": "'Chillies, potatoes and tomatoes are traditional Indian foods.'",
+   "hint": "They are deeply Indian now, but they all came from the Americas, carried by Portuguese and other traders only about 500 years ago. Before that, Indian food got its heat from black pepper and long pepper. Ask: how long does something have to be here to belong here?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Bishnoi communities of Rajasthan",
+   "view": "For over 500 years the Bishnois have followed rules that forbid cutting green trees and harming animals, and the blackbuck and chinkara still roam near their villages. Ask: what makes a rule last 500 years?"
+  },
+  {
+   "who": "A tea or cardamom farmer in the Western Ghats",
+   "view": "On steep hills, the forest above the farm holds the soil and keeps springs flowing; when it is cleared, landslides come in heavy monsoons. Ask: is the forest above the farm part of the farm?"
+  },
+  {
+   "who": "An earthworm",
+   "view": "An earthworm swallows soil and leaves and leaves behind rich casts, tunnelling so air and rain can get in. A farm field with many earthworms needs less ploughing. Ask: if earthworms could audit our garden, what would they score it?"
+  },
+  {
+   "who": "Astronaut Rakesh Sharma",
+   "view": "From space, he saw no borders, only one blue planet. Ask: why might seeing the whole Earth at once change how a person feels about it?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Seeds of Change: Wangari's Gift to the World",
+   "author": "Jen Cullerton Johnson",
+   "for": "read together",
+   "age": "6–10",
+   "why": "Wangari Maathai's life, from a girl in Kenya to the woman whose tree-planters fought soil erosion and won the Nobel Peace Prize."
+  },
+  {
+   "title": "The Great Kapok Tree",
+   "author": "Lynne Cherry",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The animals of the rainforest each explain to a sleeping woodcutter why their tree matters: a gentle way into 'why forests matter'."
+  },
+  {
+   "title": "Dirt: The Scoop on Soil",
+   "author": "Natalie Myra Rosinsky",
+   "for": "read together",
+   "age": "5–9",
+   "why": "How soil is made, its layers, and the creatures in it. Good before the handful-of-soil count."
+  },
+  {
+   "title": "Silent Spring",
+   "author": "Rachel Carson",
+   "for": "parent reads",
+   "age": "adult book; read short parts aloud",
+   "why": "The book that showed how poisons spread through soil, water and living things."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is topsoil and why is it precious?",
+   "a": "The dark top layer of soil full of humus and life where plants grow; it takes hundreds of years to form and can be lost quickly."
+  },
+  {
+   "q": "How do water and wind cause soil erosion?",
+   "a": "Rain and running water wash loose soil down slopes and into rivers; wind blows dry, bare soil away."
+  },
+  {
+   "q": "Name four ways to prevent soil erosion.",
+   "a": "Terraces, bunds, check dams, keeping soil covered with plants or mulch, planting trees and windbreaks."
+  },
+  {
+   "q": "What pollutes soil, and what keeps it healthy?",
+   "a": "Plastic, pesticides, too much chemical fertiliser, factory waste; compost, manure, leaf litter and soil creatures keep it healthy."
+  },
+  {
+   "q": "Give three reasons forests must be protected.",
+   "a": "For example: they hold soil, feed springs and rivers, cool the air, store carbon, and are home to animals and forest people."
+  },
+  {
+   "q": "What did Eunice Foote's experiment show?",
+   "a": "That air with carbon dioxide heats up more in sunlight: the greenhouse effect."
+  },
+  {
+   "q": "Why does the Amur falcon show that nature has no borders?",
+   "a": "It nests in north-east Asia, rests in Nagaland and winters in Africa, depending on habitats in many countries."
+  },
+  {
+   "q": "What does Vasudhaiva Kutumbakam mean?",
+   "a": "The whole Earth is one family."
+  }
+ ]
+}

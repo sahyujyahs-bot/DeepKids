@@ -136,3 +136,11 @@ Do this in **Test Mode** first: test payments use test cards and UPI, and no mon
 - **Live Google Calendar linking.** The calendar file import and the calendar reminders work.
 - **Phone notifications when the app is closed.** These need push messages; the calendar reminders cover this for now.
 - **Phone-number sign-in by SMS.** This needs a paid SMS provider; Google sign-in is used instead.
+
+## Editing any text in the app (owner only)
+
+1. **Database (once):** Supabase → SQL Editor → New query. Paste the part of [`supabase/schema.sql`](supabase/schema.sql) from `-- ---------- content edits` to the end, and **Run**.
+2. **Make yourself an editor:** in a new query, run this with the Google email you sign in with:
+   `insert into public.editors (email) values ('your-email@gmail.com');`
+3. Reload the app. A **✏️** button appears at the bottom left, and in the top bar of every lesson. Tap it to start editing, tap any text, rewrite it and **Save**. The new text replaces that exact text everywhere it appears, for every family, straight away. **Back to original** undoes an edit. Tap **✓ Done editing** to use the app normally again.
+4. **To keep edits in the source files** as well, open any text in edit mode, tap **All my edits · download**, and add the file to the repository (or send it to Claude). Then run `python3 app/build/apply_edits.py deepkids-text-edits.json`, which writes the edits into the content files.
