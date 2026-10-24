@@ -132,8 +132,23 @@
         address: addr, city: city, pincode: pin, state: state })
     }).catch(function(){});
 
+    /* Cash on delivery has no payment step, so this is the only moment
+       the order exists at all. It is recorded before the confirmation
+       screen, not after and not in the background: if we cannot write
+       it down, the customer has not placed an order and should be told
+       so rather than shown a tick. */
     if (CO.pay === 'cod') {
-      dkOrderDone('cod', total, null);
+      fetch('/api/place-order', {
+        method:'POST', headers:{'Content-Type':'application/json'},
+        body: JSON.stringify({ items: items, payment: 'cod', name: name, phone: phone,
+          address: addr, city: city, pincode: pin, state: state })
+      }).then(function(r){ return r.json(); }).then(function(res){
+        if (!res || !res.success) throw new Error((res && res.error) || 'Could not place order');
+        dkOrderDone('cod', res.total || total, null, res.ref);
+      }).catch(function(){
+        CO.busy = false; document.getElementById('co-go').disabled = false;
+        bad('We could not place that order. Please try again, or message us on WhatsApp.');
+      });
       return;
     }
 
@@ -154,6 +169,20 @@
             fetch('/api/verify-payment', {
               method:'POST', headers:{'Content-Type':'application/json'},
               body: JSON.stringify(res)
+            }).catch(function(){});
+            /* The money is already taken, so the confirmation shows
+               whatever happens here — but the order still has to be
+               written down and the messages still have to go out, and
+               the server re-checks the signature before calling it
+               paid. keepalive, because this fires while the Razorpay
+               overlay is closing. */
+            fetch('/api/place-order', {
+              method:'POST', headers:{'Content-Type':'application/json'}, keepalive:true,
+              body: JSON.stringify({ items: items, payment: 'online', name: name, phone: phone,
+                address: addr, city: city, pincode: pin, state: state,
+                razorpay_order_id: res.razorpay_order_id,
+                razorpay_payment_id: res.razorpay_payment_id,
+                razorpay_signature: res.razorpay_signature })
             }).catch(function(){});
             dkOrderDone('paid', order.amount, res.razorpay_payment_id);
           },
@@ -177,17 +206,18 @@
       document.head.appendChild(sc);
     });
   }
-  function dkOrderDone(kind, paise, paymentId) {
+  function dkOrderDone(kind, paise, paymentId, ref) {
     var items = DK.read();
     document.getElementById('co-form-wrap').style.display = 'none';
     document.getElementById('co-done').style.display = 'block';
-    document.getElementById('co-done-b').textContent = (kind === 'cod')
+    document.getElementById('co-done-b').textContent = ((kind === 'cod')
       ? 'We\'ll WhatsApp you to confirm, and you pay ' + DK.rs(paise) + ' in cash when it arrives.'
-      : 'Payment received. We\'ll WhatsApp you the tracking details shortly.';
+      : 'Payment received. We\'ll WhatsApp you the tracking details shortly.')
+      + (ref ? ' Your order reference is ' + ref + '.' : '');
     dkSnd('checkout');
     var value = paise / 100;
     track('purchase', linesOf(items), {
-      transaction_id: paymentId || ('cod_' + Date.now()),
+      transaction_id: paymentId || ref || ('cod_' + Date.now()),
       value: value, payment_type: kind, event_id: paymentId || undefined, pagetype: 'purchase' });
     DK.write([]);
   }

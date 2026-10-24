@@ -1,4 +1,5 @@
 import { sendMetaEvent } from './_meta.js';
+import { CATALOG, COUPONS, unitPaise } from './_catalog.js';
 
 // Cloudflare Pages Function — POST /api/create-order
 // Creates a Razorpay order server-side. The KEY_SECRET never leaves this
@@ -20,16 +21,9 @@ export async function onRequestPost(context) {
     // Price is computed server-side so the charged amount can never be
     // tampered with from the browser. The client's `amount` is ignored,
     // and so is any price it sends per line — only the SKU is trusted.
-    // `off` is the discount, and it is the only thing here that moves
-    // money. Must stay identical to the CATALOG in /cart.js or the
-    // charge will not match the cart the visitor was shown.
-    const CATALOG = {
-      'EG-001':  { name: 'EscapeGravity',           paise: 499900, off: 0.15 },
-      'SCI-001': { name: 'SCI. Trading Cards',      paise: 119900, off: 0.15 },
-      'EVO-001': { name: 'The Story Of Evolution',  paise: 249900, off: 0.15 }
-    };
+    // The catalogue lives in _catalog.js, shared with place-order so a
+    // charge and the order recorded for it cannot disagree.
     const BASE_AMOUNT = CATALOG['EG-001'].paise;
-    const COUPONS = { 'EG200': 20000 };      // code (UPPERCASE) -> paise off
     const coupon = String(body.coupon || '').trim().toUpperCase();
     const discount = (coupon && COUPONS[coupon]) ? COUPONS[coupon] : 0;
     const couponApplied = discount ? coupon : '';
@@ -46,9 +40,7 @@ export async function onRequestPost(context) {
         const item = CATALOG[sku];
         if (!item) continue;                                   // unknown SKU: ignored, never charged
         const qty = Math.min(Math.max(parseInt(raw.qty, 10) || 1, 1), 10);
-        // Rounded to whole rupees so the charged total matches the cart
-        // the visitor was shown, to the paisa.
-        const unit = Math.round(item.paise * (1 - (item.off || 0)) / 100) * 100;
+        const unit = unitPaise(item);
         subtotal += unit * qty;
         lines.push({ sku, name: item.name, qty, paise: unit });
       }
