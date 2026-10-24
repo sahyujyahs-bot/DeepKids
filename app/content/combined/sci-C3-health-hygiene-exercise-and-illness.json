@@ -129,7 +129,7 @@
      "kind": "warmup",
      "title": "Feel your skin",
      "mins": 5,
-     "do": "Your child touches their own skin in five places: the palm, the elbow, the cheek, the sole of the foot, the back of the neck. Ask: 'Is it the same everywhere?' (Thick and tough on the soles, thin on the eyelids, wrinkly at the elbow so it can stretch.) Say: 'Skin is a living raincoat. It keeps water in, germs out and lets you feel the world.'"
+     "do": "Say: 'Every living thing, even a single bacterium, has a skin of some kind that keeps itself in and the rest of the world out. Yours is the outside wall of you.' Then your child touches their own skin in five places: the palm, the elbow, the cheek, the sole of the foot, the back of the neck. Ask: 'Is it the same everywhere?' (Thick and tough on the soles, thin on the eyelids, wrinkly at the elbow so it can stretch.) Say: 'Skin is a living raincoat. It keeps water in, germs out and lets you feel the world.'"
     },
     {
      "kind": "exp",
@@ -211,7 +211,7 @@
     {
      "kind": "warmup",
      "title": "Fitness practice",
-     "mins": 5,
+     "mins": 4,
      "do": "Do the daily fitness practice from Experiment e3 (2 minutes each: skipping or running on the spot, a wall-sit, and a slow forward stretch). Fill in the health chart.",
      "ref": "e3"
     },
@@ -223,14 +223,21 @@
     },
     {
      "kind": "talk",
+     "title": "Why women doctors mattered",
+     "mins": 5,
+     "do": "Tell voice v4: in the 1880s, many Indian women would not let a male doctor examine them, and there were almost no women doctors. Kadambini Ganguly and Anandibai Joshi became two of India's first women doctors, against fierce opposition. Ask the voice question. Say: 'You can always ask for a doctor or nurse you feel comfortable with, and a grown-up you trust should be with you.'",
+     "ref": "v4"
+    },
+    {
+     "kind": "talk",
      "title": "Private parts: clean and private",
-     "mins": 14,
+     "mins": 11,
      "do": "Say calmly and simply: 'Private parts are the parts covered by your underwear. We wash them every day when we bathe, and after using the toilet we clean ourselves (with water, washing front to back), then wash our hands with soap. We wear clean underwear every day.' Then: 'Your body belongs to you. Private parts are private. Nobody should touch them, or ask you to touch theirs, or show you pictures of them, except a parent or a doctor helping to keep you clean or healthy, and then a trusted grown-up should be there. If anyone does, or if any touch makes you feel uncomfortable, it is never your fault. You can say No, go away, and tell a trusted adult. If they don't listen, tell another one. Secrets about touching are never kept.' Ask: 'What would you do if someone said, this is our secret?' (Say no, get away, tell a trusted grown-up.) Keep your tone warm and ordinary."
     },
     {
      "kind": "act",
      "title": "My five trusted adults",
-     "mins": 13,
+     "mins": 12,
      "do": "Your child traces their hand on paper. On each finger, they write or draw one grown-up they trust and could tell anything: perhaps you, the other parent, a grandparent, a teacher, an aunt. Talk about each one: 'Would they listen? Could you reach them?' On the palm, write: 'My body belongs to me.' Stick it near the body poster. Also practise saying 'No!' firmly and loudly, standing tall. Children often find this funny; that's fine."
     }
    ],
@@ -370,7 +377,7 @@
      "kind": "do",
      "title": "Where do feelings live?",
      "mins": 14,
-     "do": "Draw a small outline of a person. Ask your child to remember a time they felt scared. 'Where did you feel it in your body?' (Tummy flutters, fast heart, cold hands, wanting to run.) Colour that place. Do the same for angry (hot face, tight fists, clenched jaw), sad (heavy chest, tears, tired), happy (light, bouncy, smiling) and worried (tight tummy). Say: 'Feelings aren't only in your head. The brain and body make them together. Your heart speeds up when you're scared just like when you exercise.' Ask: 'Are any feelings bad?' (No: all feelings are normal and tell us something. Some actions are not okay, like hitting when angry.)"
+     "do": "First ask: 'How many feelings can you name?' Write every one (most children find 10 or more: happy, sad, angry, scared, jealous, proud, shy, bored, excited, lonely, embarrassed, calm…). Your child draws a quick face or colour for each. Then draw a small outline of a person. Ask your child to remember a time they felt scared. 'Where did you feel it in your body?' (Tummy flutters, fast heart, cold hands, wanting to run.) Colour that place. Do the same for angry (hot face, tight fists, clenched jaw), sad (heavy chest, tears, tired), happy (light, bouncy, smiling) and worried (tight tummy). Say: 'Feelings aren't only in your head. The brain and body make them together. Your heart speeds up when you're scared just like when you exercise.' Ask: 'Are any feelings bad?' (No: all feelings are normal and tell us something. Some actions are not okay, like hitting when angry.) Then say: 'When you're angry, you are not an angry person. You are a person having an angry moment. Feelings come and go like weather, and each moment you can choose again what to do.' To finish, your child dances or moves one feeling for 30 seconds, with no words, and you guess which it is."
     },
     {
      "kind": "talk",
@@ -732,6 +739,11 @@
       },
       {
        "t": "write",
+       "p": "Something good can be bad: exercise is good, but Kiran's exercise made her slower. Find one more thing about health that is good and also bad, and explain.",
+       "lines": 3
+      },
+      {
+       "t": "write",
        "p": "Why do you think the Mary Seacole story was forgotten for so long, while Florence Nightingale became famous?",
        "lines": 4
       }
@@ -859,6 +871,7 @@
     "a mat or folded sheet"
    ],
    "steps": [
+    "Body-control warm-up: move only your right big toe; then only your right eyebrow; then, without moving your head, look up at the point between your eyebrows for 5 seconds. Laugh if it's hard: everyone's brain is still learning which nerve goes where.",
     "Tadasana (mountain pose): stand tall, feet together, arms by your sides, breathe slowly 5 times. Feel the floor push up.",
     "Vrikshasana (tree pose): stand on one leg, put the other foot on the inside of your calf or thigh (not the knee), hands together. Hold for 5 breaths, then swap. Wobbling is fine: that's your balance muscles learning.",
     "Bhujangasana (cobra pose): lie on your tummy, hands under shoulders, gently lift your head and chest, keeping hips down. Hold for 3 breaths.",
@@ -1022,6 +1035,16 @@
    "status": "debated",
    "ask": "If being in the mud is good for you but germs on your hands can make you ill, how would you decide when to wash?",
    "day": 3
+  },
+  {
+   "id": "v4",
+   "who": "Kadambini Ganguly (1861–1923), Bengal, and Anandibai Joshi (1865–1887), Maharashtra",
+   "idea": "In 1883 Kadambini Ganguly became one of the first two women to graduate from Calcutta University, and in 1886 she qualified in medicine and began to practise in Calcutta. Later she went to Britain and gained further medical qualifications in Scotland. In the same years, Anandibai Joshi, who had lost a baby when she was 14, sailed to America and in 1886 graduated in medicine from the Woman's Medical College of Pennsylvania, so that Indian women who would not see male doctors could be treated by a woman.",
+   "then": "Both faced harsh attacks. A Bengali magazine insulted Ganguly in print for practising medicine; Joshi was criticised for crossing the ocean. Many people believed medicine was not work for women.",
+   "now": "Both are now honoured as pioneers who opened medicine to Indian women. Anandibai Joshi died of tuberculosis in 1887, aged 21, soon after coming home. Today India has hundreds of thousands of women doctors and nurses.",
+   "status": "accepted",
+   "ask": "Why might it matter, for health, who the doctors are? What changes when the people who need care can see someone like themselves?",
+   "day": 4
   }
  ],
  "story": {

@@ -121,7 +121,8 @@
      "kind": "talk",
      "title": "Growth plates",
      "mins": 13,
-     "do": "Show a picture of a child's hand X-ray (search 'child hand X-ray growth plate') or draw a long bone. Say: 'Near the ends of your bones are soft growing zones called growth plates. They keep making new bone, so your legs and arms get longer. In the late teens or early twenties the plates turn hard and close, and you stop getting taller.' Ask: 'Which bones do you think grow most to make you taller?' (Leg bones and the spine.) 'Do grown-ups' bones still grow?' (Not longer, but they keep repairing themselves.)"
+     "do": "Show a picture of a child's hand X-ray (search 'child hand X-ray growth plate') or draw a long bone. Say: 'Near the ends of your bones are soft growing zones called growth plates. They keep making new bone, so your legs and arms get longer. In the late teens or early twenties the plates turn hard and close, and you stop getting taller.' Ask: 'Which bones do you think grow most to make you taller?' (Leg bones and the spine.) 'Do grown-ups' bones still grow?' (Not longer, but they keep repairing themselves.)' Then tell your child about voice v4, Rita Levi-Montalcini, who found one of the body's growth messengers in a laboratory she built in her bedroom. Ask its question.",
+     "ref": "v4"
     },
     {
      "kind": "act",
@@ -165,7 +166,7 @@
      "kind": "talk",
      "title": "The skin that gets too tight",
      "mins": 15,
-     "do": "Say: 'Insects, crabs, spiders and snakes wear their hard skin on the outside. It can't stretch. So to grow, they moult: they grow a new soft skin underneath, split the old one, crawl out, swell up and harden.' If you can, find a shed cicada or cockroach skin on a tree trunk or a wall, or a snake's shed skin in a picture. Ask: 'Do you moult?' (Not all at once, but you lose tiny flakes of skin every day, and you grow out of clothes and shoes.) 'Why must a crab hide just after it moults?' (Its new shell is soft and it can be eaten.)"
+     "do": "Say: 'Insects, crabs, spiders and snakes wear their hard skin on the outside. It can't stretch. So to grow, they moult: they grow a new soft skin underneath, split the old one, crawl out, swell up and harden.' If you can, find a shed cicada or cockroach skin on a tree trunk or a wall, or a snake's shed skin in a picture. Ask: 'Do you moult?' (Not all at once, but you lose tiny flakes of skin every day, and you grow out of clothes and shoes.) 'Why must a crab hide just after it moults?' (Its new shell is soft and it can be eaten.) Then act it out: your child squeezes into a 'shell' (a pillowcase or a tight cardboard box), wriggles slowly backwards out of it, then 'swells' with big breaths and stands tall and still while the new shell 'hardens'."
     }
    ],
    "need": [
@@ -940,6 +941,16 @@
    "status": "accepted",
    "ask": "The scientists couldn't watch a shark for 400 years. How did they work out its age? What makes you trust (or doubt) a clever method like that?",
    "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Rita Levi-Montalcini (1909–2012), Italy and the USA",
+   "idea": "When Mussolini's 1938 racial laws barred Jewish scientists from universities, Levi-Montalcini set up a laboratory in her bedroom and studied how nerves grow in chick embryos, using sewing needles as tools. Later, in the USA in the 1950s, she and Stanley Cohen discovered nerve growth factor (NGF), a chemical messenger that tells nerve cells to grow and where to go.",
+   "then": "Many scientists doubted for years that a single chemical could guide growth like this; some thought her results were a mistake.",
+   "now": "Accepted. She and Cohen shared the Nobel Prize in 1986, and many other growth factors, the body's 'grow here' messages, are now known. She kept working until she was over 100.",
+   "status": "accepted",
+   "ask": "She did important science in a bedroom, with sewing needles, when she was banned from universities. What do you think a scientist really needs?",
+   "day": 2
   }
  ],
  "story": {

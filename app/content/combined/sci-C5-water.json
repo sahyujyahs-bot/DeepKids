@@ -21,7 +21,7 @@
   "melting, freezing, evaporation and condensation",
   "salt water and fresh water: how little is fresh and reachable",
   "evaporation leaves salt behind (salt pans)",
-  "clouds are tiny drops, not vapour",
+  "clouds are tiny drops formed on specks of dust, not vapour",
   "the water cycle has no start or end",
   "transpiration: plants put water into the air",
   "infiltration and groundwater recharge",
@@ -142,10 +142,11 @@
      "ref": "e2"
     },
     {
-     "kind": "talk",
-     "title": "What is a cloud made of?",
+     "kind": "exp",
+     "title": "A cloud in a bottle",
      "mins": 8,
-     "do": "Breathe on a cold mirror or a steel spoon from the fridge. Ask: 'What do you see? What made it?' Then hold a steel plate (a grown-up holds it) over the steam from a kettle or a pot of boiling water and watch drops form underneath. Explain: 'Water vapour is invisible. The white mist you see above a kettle, and the clouds in the sky, are not vapour. They are billions of tiny liquid drops that have already condensed.'"
+     "do": "Do Experiment e8. Breathe on a cold steel spoon first and ask: 'What made the mist?' Then make a cloud: put a little warm water in a clear plastic bottle, let a grown-up drop in a wisp of smoke from an incense stick, cap it, squeeze hard and let go. A cloud appears when you let go and vanishes when you squeeze. Try again without smoke: the cloud is much fainter. Explain: 'Water vapour needs a tiny speck of dust, smoke or salt to condense onto. Every raindrop began around a speck.' Then say: 'Water vapour itself is invisible. The white mist above a kettle and the clouds in the sky are billions of tiny liquid drops that have already condensed.'",
+     "ref": "e8"
     },
     {
      "kind": "exp",
@@ -189,9 +190,9 @@
     },
     {
      "kind": "act",
-     "title": "Draw the whole cycle",
+     "title": "Draw and dance the whole cycle",
      "mins": 12,
-     "do": "Your child draws their own water cycle on a big sheet: sea, sun, evaporation, cloud, condensation, rain (precipitation), a forest giving off water (transpiration), rain soaking in (infiltration) to groundwater, a river running back to the sea, and a well. Ask: 'Where does the cycle start?' (It has no start. Every part is fed by another.) Add: 'The water in your glass has been going round like this for more than four billion years. It has been sea, cloud, ice and the inside of a dinosaur.'"
+     "do": "First dance it (3 minutes): your child lies curled on the floor as sea water, rises slowly with wriggling fingers as invisible vapour when you say 'sun', drifts and floats as a cloud, gathers into a tight ball, then leaps down as a raindrop and flows along the floor back to the 'sea'. Then your child draws their own water cycle on a big sheet: sea, sun, evaporation, cloud, condensation, rain (precipitation), a forest giving off water (transpiration), rain soaking in (infiltration) to groundwater, a river running back to the sea, and a well. Ask: 'Where does the cycle start?' (It has no start. Every part is fed by another.) Add: 'The water in your glass has been going round like this for more than four billion years. It has been sea, cloud, ice and the inside of a dinosaur.'"
     },
     {
      "kind": "talk",
@@ -288,8 +289,14 @@
     {
      "kind": "outdoor",
      "title": "Pond watch",
-     "mins": 20,
+     "mins": 16,
      "do": "Visit a pond, a lake edge, a temple tank or a stream with a grown-up (or, if there is none nearby, watch a pond video and use a bucket of tap water left out for a week as a mini pond). Sit quietly for 10 minutes and list everything living: plants floating, plants rooted at the edge, insects on the surface (water striders), under the surface (mosquito larvae wriggling, dragonfly nymphs), fish, frogs, snails, birds. Ask: 'Who lives on the surface, who in the water, who at the bottom, who at the edge?'"
+    },
+    {
+     "kind": "act",
+     "title": "Listening under water",
+     "mins": 4,
+     "do": "Back home, fill a bucket with water. Your child presses one ear against the outside of the bucket while you tap two stones together under the water, then tap them in the air at the same strength. Ask: 'Which sounded louder and sharper?' (Under water. Sound travels about four times faster in water than in air and carries far, which is why fish, frogs and dolphins use sound so much.)"
     },
     {
      "kind": "exp",
@@ -319,14 +326,20 @@
     {
      "kind": "act",
      "title": "The hidden water hunt",
-     "mins": 12,
+     "mins": 10,
      "do": "Do Activity a2. Tell your child: 'Scientists have estimated how much water it takes to grow or make things.' Share these rough numbers (they vary a lot from place to place): one cup of tea about 30 litres (to grow the tea leaves), one kilogram of rice about 2,500 litres, one cotton T-shirt about 2,700 litres. Ask your child to pick five things in the house and guess which needed the most water. Ask: 'When India sells rice to other countries, what else is it sending away?' (The water used to grow it.)",
      "ref": "a2"
     },
     {
+     "kind": "act",
+     "title": "Drama: the Sea and the Sky argue",
+     "mins": 5,
+     "do": "Your child plays the Arabian Sea, you play the hot land of India in May (or swap). The Sea boasts: 'All your rain comes from me!' The Land replies: 'But I pull it in! When I get hot in summer, the air over me rises, and your wet wind rushes in to fill the gap.' Then both say together: 'Neither of us can make the monsoon alone.' Ask your child to add one more character (a mountain that squeezes the rain out, or a forest that breathes water back up)."
+    },
+    {
      "kind": "game",
      "title": "Water's Many Lives card game",
-     "mins": 15,
+     "mins": 12,
      "do": "Play the card game g1. Each card names a place or a change; the player says what happens to the water next. Play twice.",
      "ref": "g1"
     },
@@ -887,6 +900,30 @@
    "time": "20 min"
   },
   {
+   "id": "e8",
+   "title": "A cloud in a bottle",
+   "day": 2,
+   "question": "What does water vapour need to turn into a cloud?",
+   "need": [
+    "a clear plastic bottle with a cap",
+    "a little warm water",
+    "an incense stick and matches (grown-up only)"
+   ],
+   "steps": [
+    "Pour a little warm water into the bottle and swirl it.",
+    "A grown-up lights the incense stick, blows it out and lets a wisp of smoke into the bottle.",
+    "Cap it tightly.",
+    "Squeeze the bottle hard for a few seconds, then let go quickly.",
+    "Watch for a cloud. Squeeze again and watch it disappear.",
+    "Try again with a fresh bottle and no smoke and compare."
+   ],
+   "predict": "Ask: 'Will a cloud appear when I squeeze, or when I let go? Does the smoke matter?'",
+   "observe": "A misty cloud appears when you let go and clears when you squeeze. Without smoke it is much fainter.",
+   "why": "Letting go lets the air expand and cool, so vapour condenses. But vapour needs something to condense on: tiny specks of dust, smoke or sea salt called condensation nuclei. Every cloud drop and raindrop in the sky formed around such a speck. That is one reason smoke and dust from cities can change clouds and rain.",
+   "safety": "Only a grown-up handles the match and incense. Do it on a steel plate away from curtains.",
+   "time": "10 min"
+  },
+  {
    "id": "e7",
    "title": "Why doesn't a lotus leaf get wet?",
    "day": 6,
@@ -1201,6 +1238,10 @@
    "view": "The Ganga and Brahmaputra carry mud from the Himalaya and build the islands where they live. When dams upstream hold back the mud, some islands begin to wash away. Ask: can a dam be good for one place and bad for another?"
   },
   {
+   "who": "Aditi Pant, oceanographer (born 1943), Pune",
+   "view": "In 1983 she was one of the first two Indian women to go to Antarctica, with India's third expedition, to study the chemistry of the icy Southern Ocean. Most of Earth's fresh water is locked in that ice. Ask: why would a scientist travel to the coldest place on Earth to understand India's rain?"
+  },
+  {
    "who": "A dragonfly",
    "view": "A dragonfly spends most of its life, often many months or more, as a nymph under the water of a pond, hunting tadpoles and larvae, before it climbs a reed and flies. Ask: is a dragonfly a water animal or an air animal?"
   },
@@ -1223,6 +1264,13 @@
    "for": "read together",
    "age": "4–8",
    "why": "A poem about how all the water there is keeps moving round: 'that rain that soaked your hair'."
+  },
+  {
+   "title": "The Cloud Book",
+   "author": "Tomie dePaola",
+   "for": "read together",
+   "age": "4–8",
+   "why": "The main kinds of clouds, what they tell you about the weather, and some old cloud sayings to test. Use it with the cloud in a bottle."
   },
   {
    "title": "Pond Circle",

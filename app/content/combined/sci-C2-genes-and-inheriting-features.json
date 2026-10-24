@@ -1,0 +1,1071 @@
+{
+ "key": "combined|sci|2|genes-and-inheriting-features",
+ "board": "combined",
+ "subj": "sci",
+ "level": 2,
+ "n": "genes-and-inheriting-features",
+ "title": "Why we look like our family, and why we don't",
+ "source": "DeepKids Combined. Covers Cambridge Stage 2 Biology Unit 4.3 'Inheriting characteristics' (young inherit characteristics from their parents; we are similar to and different from our parents and each other). No textbook needed.",
+ "summary": "Your child finds out why a mango seed always grows a mango tree, why kittens from one mother can be four different colours, and why brothers and sisters never look exactly alike. They map features across their family, make 'coin-toss creatures' to see how two parents' instructions shuffle, take their fingerprints, and grow the same seeds in light and dark to see that surroundings shape us too. They meet the instructions inside every cell (genes, written in a four-letter code), the monk who counted peas, the Indian botanist who bred sweeter sugarcane, and a schoolbook 'fact' about tongue rolling that turned out to be wrong.",
+ "subconcepts": [
+  "characteristics (features) of living things",
+  "young inherit characteristics from their parents",
+  "a mix from both parents",
+  "brothers and sisters get different mixes",
+  "variation: no two living things are exactly alike",
+  "identical twins: the same inherited instructions, still different people",
+  "inherited, learned or caused by surroundings",
+  "surroundings shape features too (food, light, warmth)",
+  "genes: instructions in every cell, written in DNA's four letters",
+  "copies are never perfect: small changes bring new variety",
+  "hidden features can skip a generation (Mendel's peas)",
+  "fingerprints: partly inherited, partly unique",
+  "farmers choosing parents: selective breeding of crops and animals",
+  "checking 'facts': tongue rolling is not simply inherited"
+ ],
+ "builds_on": "Class 1 (growing up): all animals have young; some babies look like their parents and some change completely as they grow. This rung asks why young look like their parents at all. Class 2 also has growing and the tree of life (how small changes add up over many generations). Later: cells, DNA and how living things change over long times.",
+ "goals": [
+  "By the end your child can say that young inherit characteristics from both parents, and give examples from animals, plants and their own family.",
+  "By the end your child can explain why brothers and sisters look different even with the same parents.",
+  "By the end your child can sort features into inherited, learned and shaped by surroundings, and explain one that is a mix.",
+  "By the end your child can say that every cell carries instructions called genes, and that copies are never perfectly the same.",
+  "By the end your child can describe how farmers choose parent plants and animals to get the features they want.",
+  "By the end your child can ask 'How do we know?' about a 'fact' in a book, using tongue rolling as the example."
+ ],
+ "words": [
+  [
+   "characteristic",
+   "a feature of a living thing, like eye colour, leaf shape or fur colour"
+  ],
+  [
+   "inherit",
+   "to get something from your parents, like a feature"
+  ],
+  [
+   "offspring",
+   "the young of a living thing"
+  ],
+  [
+   "variation",
+   "the differences between living things of the same kind"
+  ],
+  [
+   "gene",
+   "one instruction, passed from parents to young, inside every cell"
+  ],
+  [
+   "DNA",
+   "the long, thin molecule in every cell that holds the genes, written in four 'letters': A, T, C and G"
+  ],
+  [
+   "identical twins",
+   "two babies who grew from the same tiny first cell, so they have the same genes"
+  ],
+  [
+   "learned",
+   "something you can do because you practised it, not because you were born with it"
+  ],
+  [
+   "breed",
+   "to choose which plants or animals become parents, to get the features you want"
+  ]
+ ],
+ "day_mins": 35,
+ "days": [
+  {
+   "n": 1,
+   "title": "Like parent, like child",
+   "goal": "Remember Class 1 and find family likeness.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember",
+     "mins": 5,
+     "do": "Ask: 'Does a kitten look like its mother? Does a tadpole look like a frog?' (Kittens yes; tadpoles no, but they grow into frogs.) 'Does a hen ever hatch a duckling?' (No!) Say: 'This week we find out why young turn into the same kind as their parents, and why they're never exact copies.'"
+    },
+    {
+     "kind": "do",
+     "title": "Family likeness chart",
+     "mins": 18,
+     "do": "Make a chart (a family tree with boxes): your child in the middle, parents above, brothers and sisters beside, grandparents at the top if you can. With a mirror and photos, fill in for each person: hair (straight, wavy, curly), eye colour, dimples (yes or no), earlobes (hanging free or joined to the cheek), and one more your child chooses (nose shape, laugh, height). Ask: 'Which features did you get from whom? Is there anything that came from both? Anything that's from neither?' Say: 'These features are called characteristics. Getting them from your parents is called inheriting them.' If your child is adopted or lives with relatives, say: 'Some features come from the people who made you; many more things, like how you speak and what you love, come from the family who raises you. Both are real.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why a mango, not a coconut?",
+     "mins": 12,
+     "do": "Hold a mango seed (or any seed) and an egg. Ask: 'What will this seed grow into? Why not a coconut tree?' Let your child guess. Say: 'Inside every cell of every living thing is a set of instructions, passed down from the parents. Each instruction is called a gene. The mango seed has mango instructions; the chick in an egg has hen instructions. That's why the young grow into the same kind as their parents.' Ask: 'Where are your instructions?' (In every cell of your body.)"
+    }
+   ],
+   "need": [
+    "a mirror",
+    "family photos",
+    "paper and pencils",
+    "a mango seed or any seed",
+    "an egg"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "A mix from two",
+   "goal": "See how two parents' instructions shuffle into a new mix.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Who's who?",
+     "mins": 5,
+     "do": "Show a photo of a family (yours or friends'). Ask your child to point to a feature in a child that matches the mother, and one that matches the father. Ask: 'Did the child get everything from one parent?' (No, a mix.)"
+    },
+    {
+     "kind": "act",
+     "title": "Coin-toss creatures",
+     "mins": 18,
+     "do": "Do Activity a1: two parent 'creatures' and coin tosses decide which parent each baby gets each feature from. Make three babies. Ask: 'Are the three babies the same?' (No!) 'Did any baby get everything from one parent?' 'Why are they different if they have the same parents?' (Each baby got a different mix, by chance.)",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Brothers and sisters",
+     "mins": 12,
+     "do": "Ask: 'Do you know any brothers and sisters who look very different? Or very alike?' Say: 'Each parent has two copies of each instruction, one from each of their own parents. Each baby gets one copy from the mother and one from the father, picked by chance, like the coin toss. So every brother and sister gets a different mix.' Shuffle two decks of cards (one red, one blue) and deal two hands of 5 from both: 'Same two decks, different hands.' Ask: 'Is there anyone in the world with exactly your mix?' (No, unless you have an identical twin.)"
+    }
+   ],
+   "need": [
+    "two coins",
+    "paper and crayons",
+    "two decks of cards (or red and blue paper slips)"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "No two alike",
+   "goal": "Read the story and find variation in nature.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: Four Kittens, One Mother",
+     "mins": 12,
+     "do": "Read the story aloud (Story tab). It is told by a mother cat in a Kolkata lane. Ask the questions after. Listen for: 'Each kitten is a different shuffle of the same two.'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Variation hunt",
+     "mins": 15,
+     "do": "Collect 10 leaves from one neem (or any) tree, or 10 pea pods, or 10 peanuts in shells. Your child lines them up and checks: 'Are any two exactly the same?' Measure the length of each leaf with a ruler and write the numbers. Count the leaflets on each neem leaf. Say: 'Differences between living things of the same kind are called variation. Even leaves from one tree, made from the same instructions, are not the same.' Ask: 'Why might variation be useful?' (If the weather changes or a disease comes, some may cope better.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Copies are never perfect",
+     "mins": 8,
+     "do": "Say: 'Every time a cell copies its instructions, it copies them very, very carefully. But once in a while there's a tiny change, like a spelling slip. Most slips do nothing. Some make a new feature: a white tiger, a brown-eyed baby in a blue-eyed family, a seedless grape.' Ask: 'Could a tiny slip ever be useful?' (Yes, sometimes, and that is one way new kinds of living things slowly come about.)"
+    }
+   ],
+   "need": [
+    "10 leaves from one tree, or pea pods, or peanuts",
+    "a ruler"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Twins and fingerprints",
+   "goal": "Discover what twins and fingerprints show about inheriting.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Fingerprint detectives",
+     "mins": 15,
+     "do": "Do Experiment e1: take fingerprints of everyone at home with pencil and sticky tape, then find the patterns (loop, whorl, arch). Ask: 'Does anyone have the same print as you?' (No.) 'Do people in the family have the same type of pattern more often?' (Often, because pattern types run in families.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Identical twins",
+     "mins": 8,
+     "do": "Say: 'Identical twins grew from one tiny first cell that split in two. So they have the same genes. But do they have the same fingerprints?' (No! Fingerprints also depend on tiny differences in how each baby lay and moved before birth.) 'Do they always like the same food, or become the same person?' (No: they can choose different things, learn different skills, have different friends.) Ask: 'So are you only your genes?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 12,
+     "do": "Your child does Worksheet ws1 (core). Read each item aloud if needed. Mark it together; for each slip, go back to the chart, the coin-toss creatures or the leaves.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a soft pencil (2B or darker)",
+    "clear sticky tape",
+    "white paper",
+    "a magnifying glass",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Born with it, or not?",
+   "goal": "Sort inherited, learned and surroundings, and test a famous 'fact'.",
+   "steps": [
+    {
+     "kind": "think",
+     "title": "Born, learned or surroundings?",
+     "mins": 12,
+     "do": "Say a feature; your child shows one finger for 'born with it (inherited)', two for 'learned', three for 'caused by surroundings', and can show more than one. Natural hair colour (1); speaking Bengali or Tamil (2); a scar (3); eye colour (1); riding a cycle (2); a suntan (3); height (1 and 3: genes and food); a flamingo's pink colour (3: it comes from the shrimps and algae it eats; a flamingo on other food goes pale); a cricket batting style (2); being a boy or a girl turtle (3: in many turtles it depends on how warm the sand is around the egg). Ask: 'Which was hardest? Why?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Same seeds, different places",
+     "mins": 10,
+     "do": "Start Experiment e2: two cups of the same methi seeds, one by a sunny window, one in a dark cupboard. Ask your child to predict: 'They have the same kind of instructions. Will they grow the same?'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Can you roll your tongue?",
+     "mins": 13,
+     "do": "Everyone tries to roll their tongue into a tube. Tell your child about voice v3: for years schoolbooks said tongue rolling was passed down by one simple instruction, until scientists found identical twins where one could and one couldn't. Ask its question. Say: 'Even a fact in a book can be wrong. Good scientists ask: how do we know?'",
+     "ref": "v3"
+    }
+   ],
+   "need": [
+    "two cups of soil",
+    "methi seeds",
+    "a sunny window and a dark cupboard"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Hidden features and the four-letter code",
+   "goal": "Meet Mendel's peas and the alphabet of DNA.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Voice v1: the monk and the peas",
+     "mins": 12,
+     "do": "Open some fresh matar pods and look at the peas: sizes, colours, smooth or wrinkly. Tell your child about voice v1, Gregor Mendel, who grew thousands of pea plants and counted their features. Explain his surprise: 'When he crossed tall plants with short ones, all the babies were tall. But when those babies had babies, about one in four was short again! The short instruction had been hiding.' Ask its question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "game",
+     "title": "Hidden feature cards",
+     "mins": 11,
+     "do": "Cut 4 cards: 2 say 'B' (brown eyes, the strong instruction) and 2 say 'b' (blue eyes, the hidden instruction). Mother has B and b; father has B and b; both have brown eyes, because B hides b. Each parent puts their two cards face down; your child picks one from each. Write the baby: BB, Bb or bb. Only bb has blue eyes. Play 12 times and count. Ask: 'Can two brown-eyed parents have a blue-eyed baby?' (Yes, sometimes: about 1 time in 4.) Say: 'Real eye colour depends on many genes, so it's messier than this, but the hiding idea is real.'"
+    },
+    {
+     "kind": "act",
+     "title": "Write in DNA",
+     "mins": 12,
+     "do": "Do Activity a2: write a secret message in DNA's four letters, A, T, C and G, using a code, as beads on a string or coloured squares on paper. Say: 'Your instructions are written in just these four letters, and one set of your instructions is about 3 billion letters long (each cell carries two sets, one from each parent). If we read one letter a second without stopping, one set would take nearly 100 years.' Ask: 'How can four letters make a mango, a cat and you?' (By putting them in different orders, like 26 letters make every story.)",
+     "ref": "a2"
+    }
+   ],
+   "need": [
+    "fresh pea pods",
+    "paper cards",
+    "beads or coloured paper in 4 colours, string"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Farmers who chose",
+   "goal": "See how people breed plants and animals by choosing parents.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Seed check",
+     "mins": 4,
+     "do": "Look at Experiment e2. The cupboard seedlings are pale yellow, thin and tall; the window seedlings are green and sturdy. Ask: 'Same kind of instructions, different plants. Why?' (Light changes how they grow: surroundings shape features too.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v2: sweeter sugarcane",
+     "mins": 12,
+     "do": "Say: 'For thousands of years, farmers have chosen the best plants and animals to be parents: the sweetest mango, the rice that survives floods, the cow that gives milk in hot weather. This is called breeding. Indian farmers bred thousands of rice varieties, and breeds like the Gir cow and the black Kadaknath hen.' Then tell your child about voice v2, Janaki Ammal, who bred sugarcane to grow well in India. Ask its question. Then ask: 'Who owns a rice variety that a village bred over 500 years: the village, a company, or nobody?'",
+     "ref": "v2"
+    },
+    {
+     "kind": "game",
+     "title": "Born or Learned? card game",
+     "mins": 12,
+     "do": "Play the card game (g1). Players sort cards into inherited, learned, surroundings or a mix, and argue about the tricky ones.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 7,
+     "do": "Your child does Worksheet ws2 (stretch). Let them answer aloud while you scribe the written answers.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "the e2 seed cups",
+    "the printed cards",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Who decides? And teach it back",
+   "goal": "Meet Nettie Stevens, try the challenge and teach what you know.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Voice v4: the packets called X and Y",
+     "mins": 8,
+     "do": "Tell your child about voice v4, Nettie Stevens, who found that whether a baby is male or female usually depends on one pair of inherited instruction packets, and who was left out of the credit for a long time. Remind them: in many turtles, it's the warmth of the sand instead. Ask its question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "think",
+     "title": "Challenge worksheet",
+     "mins": 11,
+     "do": "Do Worksheet ws3 (challenge) together. Scribe the long answers; ask 'What is your evidence?'",
+     "ref": "ws3"
+    },
+    {
+     "kind": "do",
+     "title": "Project: Family Trait Tree",
+     "mins": 9,
+     "do": "Finish the project: copy the Day 1 chart neatly onto chart paper as a tree, add the fingerprints from Day 4 under each name, and colour each feature: blue if inherited, green if learned, yellow if shaped by surroundings. Add one 'learned' gift each person passed on (a recipe, a song, a way of laughing)."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 7,
+     "do": "Your child teaches the family with the Trait Tree: why young look like their parents, why siblings differ, what genes are, and one thing that is learned, not inherited. Ask the check questions."
+    }
+   ],
+   "need": [
+    "chart paper",
+    "the Day 1 chart and Day 4 fingerprints",
+    "crayons",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Inheriting features",
+   "day": 4,
+   "sections": [
+    [
+     "A. Parents and young",
+     [
+      {
+       "t": "mcq",
+       "p": "A mango seed grows into…",
+       "opts": [
+        "a coconut tree",
+        "a mango tree",
+        "any tree it likes"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Young get their characteristics from…",
+       "opts": [
+        "only the mother",
+        "only the father",
+        "both parents"
+       ],
+       "a": 2
+      },
+      {
+       "t": "fill",
+       "p": "Getting features from your parents is called ____ them.",
+       "a": [
+        "inheriting",
+        "inherit"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Where are your genes?",
+       "opts": [
+        "only in your hair",
+        "in every cell of your body",
+        "in your shoes"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Different",
+     [
+      {
+       "t": "mcq",
+       "p": "Why do brothers and sisters look different?",
+       "opts": [
+        "they have different parents",
+        "each got a different mix from the same two parents",
+        "they ate different food"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Differences between living things of the same kind are called…",
+       "opts": [
+        "variation",
+        "weather",
+        "inheriting"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Do identical twins have the same fingerprints?",
+       "opts": [
+        "yes, exactly",
+        "no, each print is unique",
+        "they have no fingerprints"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match the fingerprint pattern to its picture.",
+       "pairs": [
+        [
+         "loop",
+         "lines curve in and back out one side"
+        ],
+        [
+         "whorl",
+         "lines go round in circles"
+        ],
+        [
+         "arch",
+         "lines rise in a hill and go out the other side"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Name one feature you got from your family. How do you know?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why can't a hen hatch a duckling?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Born, learned or surroundings?",
+   "day": 7,
+   "sections": [
+    [
+     "A. Sort",
+     [
+      {
+       "t": "sort",
+       "p": "Inherited, learned or caused by surroundings?",
+       "items": [
+        "natural eye colour",
+        "speaking Hindi",
+        "a scar on the knee",
+        "natural hair colour",
+        "swimming",
+        "a flamingo's pink colour",
+        "a suntan",
+        "dimples"
+       ],
+       "cats": [
+        "inherited",
+        "learned",
+        "surroundings"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A boy is very tall. His parents are tall and he eats well. His height is…",
+       "opts": [
+        "only inherited",
+        "only from food",
+        "a mix of inheriting and surroundings"
+       ],
+       "a": 2
+      }
+     ]
+    ],
+    [
+     "B. Seeds and farmers",
+     [
+      {
+       "t": "mcq",
+       "p": "Methi seeds grew pale and thin in the cupboard but green by the window. This shows…",
+       "opts": [
+        "the seeds had different genes",
+        "surroundings change how living things grow",
+        "cupboards are alive"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A farmer saves seeds only from her sweetest melons for many years. What happens?",
+       "opts": [
+        "her melons slowly get sweeter",
+        "nothing ever changes",
+        "the melons turn into mangoes"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Choosing which plants or animals become parents is called ____.",
+       "a": [
+        "breeding",
+        "selective breeding"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In many turtles, what decides if a baby is male or female?",
+       "opts": [
+        "the colour of the mother",
+        "how warm the sand around the egg is",
+        "the Moon"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Two brown-eyed parents have a blue-eyed baby. How can that happen?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Identical twins have the same genes. Give two ways they can still be different, and say why.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Gene puzzles",
+   "day": 8,
+   "sections": [
+    [
+     "A. Think it through",
+     [
+      {
+       "t": "mcq",
+       "p": "A dog's puppies: one black, one brown, one spotted. The best explanation is…",
+       "opts": [
+        "each puppy got a different mix of instructions",
+        "the puppies chose their colours",
+        "one puppy is not a dog"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Mendel crossed tall and short pea plants. All the babies were tall. Then their babies were about 3 tall to 1 short. What does that show?",
+       "opts": [
+        "the short instruction was hiding, not lost",
+        "short plants are weaker",
+        "peas cannot be counted"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Schoolbooks once said tongue rolling is passed down by one simple instruction. What showed this was wrong?",
+       "opts": [
+        "identical twins where one could and one couldn't",
+        "a vote",
+        "nobody could roll their tongue"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "DNA is written with how many 'letters'?",
+       "opts": [
+        "2",
+        "4",
+        "26"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Does it change the genes, or not?",
+       "items": [
+        "dyeing your hair",
+        "a tiny copying slip in a cell",
+        "learning to dance",
+        "a cut that heals into a scar"
+       ],
+       "cats": [
+        "can change genes",
+        "does not change genes"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Big questions",
+     [
+      {
+       "t": "write",
+       "p": "If you are partly your genes and partly what you learn and choose, which part is the 'real you'? Give a reason.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A company says it owns a rice variety because it changed one gene. The village that bred the rice for 500 years says it is theirs. Who should own it, if anyone? Why?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Plan an investigation: do children who play an instrument have musical parents because of genes, or because of what they hear at home? What could you compare?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Fingerprint detectives",
+   "day": 4,
+   "question": "Is anyone's fingerprint the same as yours? Do patterns run in families?",
+   "need": [
+    "a soft pencil (2B or darker)",
+    "clear sticky tape",
+    "white paper",
+    "a magnifying glass"
+   ],
+   "steps": [
+    "Rub the pencil hard on scrap paper to make a dark patch.",
+    "Rub your fingertip (right index finger) on the patch until it is grey.",
+    "Press a piece of sticky tape firmly on the fingertip, peel it off and stick it on white paper. Label it with the name.",
+    "Do the same for everyone at home.",
+    "Look with the magnifying glass: is it a loop, a whorl or an arch? Write it down.",
+    "Compare: any two the same? Do family members share pattern types?"
+   ],
+   "predict": "Ask: 'Will anyone's print match yours exactly?'",
+   "observe": "Every print is different in its tiny details, but family members often share the same type (loop, whorl or arch).",
+   "why": "The ridges on your fingertips form before you are born. The overall type tends to run in families, so it is partly inherited. But the exact pattern of every ridge also depends on tiny differences in pressure, position and growth in the womb, which is why even identical twins, with the same genes, have different fingerprints. Police in India helped invent the way of sorting prints (Azizul Haque and Hem Chandra Bose in Kolkata, in the 1890s).",
+   "safety": "Wash the pencil off your fingers afterwards.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Same seeds, different places",
+   "day": 5,
+   "question": "If two plants have the same kind of instructions, will they grow the same?",
+   "need": [
+    "two cups of soil",
+    "a spoon of methi seeds",
+    "water",
+    "a sunny window and a dark cupboard"
+   ],
+   "steps": [
+    "Sprinkle the same number of methi seeds in each cup and cover lightly with soil.",
+    "Water both the same amount.",
+    "Put one cup by a sunny window and one in a dark cupboard.",
+    "Water both the same every day.",
+    "After 2 days look, and again on Day 7. Draw both."
+   ],
+   "predict": "Ask: 'Will the two cups look the same?'",
+   "observe": "Cupboard seedlings: pale yellow, thin, very tall and floppy. Window seedlings: green, shorter, sturdy.",
+   "why": "The seeds came from the same kind of plant, with the same kind of instructions. But genes are instructions that switch on and off depending on surroundings. In the dark, the seedling uses its stored food to grow tall fast, hunting for light, and doesn't make much green chlorophyll. Features come from genes and surroundings together.",
+   "safety": "",
+   "time": "10 min + checks over a week"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Coin-toss creatures",
+   "day": 2,
+   "mins": 18,
+   "need": [
+    "two coins",
+    "paper",
+    "crayons"
+   ],
+   "steps": [
+    "Draw two parent creatures. Mother: long ears, spots, 3 eyes, a curly tail, green. Father: short ears, stripes, 1 eye, a straight tail, orange.",
+    "For the first baby, toss a coin for each feature: heads, it gets the mother's; tails, the father's. Write each result.",
+    "Draw the baby.",
+    "Make two more babies the same way.",
+    "Line up the three babies with the parents and compare."
+   ],
+   "outcome": "Three different babies from the same two parents, showing that each young gets a chance mix of features from both."
+  },
+  {
+   "id": "a2",
+   "title": "Write in DNA",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "beads or paper squares in 4 colours",
+    "string or glue"
+   ],
+   "steps": [
+    "Choose a colour for each DNA letter: A red, T yellow, C blue, G green.",
+    "Use a simple code: each letter of the alphabet becomes three DNA letters (for example H = ACT, I = AGG). Write a short code table together.",
+    "Write a word (your name, or 'HI') as a string of beads or a row of squares.",
+    "Swap with someone and decode each other's message.",
+    "Change one bead in the middle and decode again: what happened to the message?"
+   ],
+   "outcome": "A bead or paper strand showing that four letters in different orders can carry a message, and that one changed letter can change it."
+  }
+ ],
+ "project": {
+  "title": "Family Trait Tree",
+  "days": [
+   1,
+   8
+  ],
+  "steps": [
+   "Day 1: make the family likeness chart (with whoever is family to you: birth, adoptive, grandparents, those who raise you).",
+   "Day 4: add everyone's fingerprints under their names.",
+   "Day 8: copy it as a tree on chart paper.",
+   "Colour each feature: blue for inherited, green for learned, yellow for shaped by surroundings.",
+   "Add one learned gift each person passed on: a recipe, a song, a saying, a skill."
+  ],
+  "outcome": "A family tree showing both what is passed on in genes and what is passed on by living together."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Born or Learned?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors"
+  ],
+  "rules": [
+   "Lay out the four heading cards: INHERITED, LEARNED, SURROUNDINGS, A MIX.",
+   "Shuffle the other cards face down. Take turns to turn one over and place it under a heading, saying why.",
+   "Anyone may challenge. If you can't agree, check the answer on the back.",
+   "Score 1 point for each card placed right with a reason, and 2 for a 'mix' card explained well."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "INHERITED"
+   },
+   {
+    "job": true,
+    "front": "LEARNED"
+   },
+   {
+    "job": true,
+    "front": "SURROUNDINGS"
+   },
+   {
+    "job": true,
+    "front": "A MIX"
+   },
+   {
+    "front": "natural eye colour",
+    "back": "inherited"
+   },
+   {
+    "front": "dimples",
+    "back": "inherited"
+   },
+   {
+    "front": "a calf's spots",
+    "back": "inherited"
+   },
+   {
+    "front": "a mango tree's fruit shape",
+    "back": "inherited"
+   },
+   {
+    "front": "blood group",
+    "back": "inherited"
+   },
+   {
+    "front": "speaking Tamil",
+    "back": "learned"
+   },
+   {
+    "front": "riding a cycle",
+    "back": "learned"
+   },
+   {
+    "front": "a parrot saying 'hello'",
+    "back": "learned"
+   },
+   {
+    "front": "cooking dal",
+    "back": "learned"
+   },
+   {
+    "front": "a dog sitting on command",
+    "back": "learned"
+   },
+   {
+    "front": "a scar",
+    "back": "surroundings"
+   },
+   {
+    "front": "a suntan",
+    "back": "surroundings"
+   },
+   {
+    "front": "a flamingo's pink colour",
+    "back": "surroundings (its food)"
+   },
+   {
+    "front": "a pale seedling grown in the dark",
+    "back": "surroundings"
+   },
+   {
+    "front": "a girl or boy turtle",
+    "back": "surroundings (warmth of the sand)"
+   },
+   {
+    "front": "how tall you grow",
+    "back": "a mix: genes and food"
+   },
+   {
+    "front": "fingerprints",
+    "back": "a mix: pattern type inherited, details from the womb"
+   },
+   {
+    "front": "a singing voice",
+    "back": "a mix: born with a voice, practice shapes it"
+   },
+   {
+    "front": "a weaver bird's nest",
+    "back": "a mix: born knowing roughly how, better with practice"
+   },
+   {
+    "front": "a big strong ox",
+    "back": "a mix: breed, food and work"
+   }
+  ]
+ },
+ "big": [
+  "If you are partly your genes and partly what you learn and choose, what is the 'real you'?",
+  "Is anyone exactly like you? Could anyone ever be?",
+  "Who should own a seed that farmers bred over hundreds of years?",
+  "If tiny copying slips make new features, is a 'mistake' always bad?",
+  "Do families come only from genes?"
+ ],
+ "challenge": [
+  {
+   "q": "Schoolbooks say you can roll your tongue only if you inherited it. True?",
+   "hint": "No. Identical twins have been found where one can and one can't, and some people learn to do it. Even the scientist who first proposed the simple rule later said it was wrong. Ask: how many 'facts' in your books have been checked?"
+  },
+  {
+   "q": "'You got your brains from your father and your looks from your mother.' Is that how it works?",
+   "hint": "No. Every child gets a chance mix of genes from both parents for every feature, and most features, like how we think, depend on many genes plus learning, food and love. Sayings like this are guesses, not science."
+  },
+  {
+   "q": "'Strong, fit animals win; weak ones lose. That's nature.' Is that the whole story of inheriting?",
+   "hint": "Variation is the raw material, but who does well depends on surroundings, luck and cooperation too. Farmers kept the rice that survived floods, not the 'strongest'. Many animals live in groups that share food and care. Competition is one part of the story, not all of it."
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A farmer who saves seeds",
+   "view": "Many Indian farmers save seeds from their best plants every year and swap them with neighbours, keeping hundreds of local rice and millet varieties alive. Ask: what is lost when everyone buys the same seed from a shop?"
+  },
+  {
+   "who": "A mother cat",
+   "view": "A cat may have kittens of four different colours in one litter, sometimes with more than one father. She feeds and licks them all the same. Ask: does looking alike make a family?"
+  },
+  {
+   "who": "A child who is adopted",
+   "view": "An adopted child may have her birth parents' dimples and her adoptive mother's laugh, her accent, her love of music. Ask: which things are passed on in genes, and which by living together? Are both 'inheriting'?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Gregor Mendel (1822–1884), a monk in Brno (now in the Czech Republic)",
+   "idea": "Between about 1856 and 1863 Mendel grew and carefully crossed thousands of pea plants in his monastery garden. He followed simple features (tall or short, smooth or wrinkly peas, yellow or green) and counted the young. He found that features are passed on as separate 'factors' (we now say genes), one from each parent, and that some can hide for a generation and reappear.",
+   "then": "He presented his work in 1865 and published it in 1866, but almost nobody understood its importance. It was ignored for about 35 years.",
+   "now": "In 1900 three other scientists rediscovered his results. He is now called the father of genetics. Real features are often controlled by many genes, so they are messier than his peas, but his rules are the foundation.",
+   "status": "accepted",
+   "ask": "Mendel counted thousands of peas. Why would counting so many help him see a pattern that one or two plants would hide?",
+   "day": 6
+  },
+  {
+   "id": "v2",
+   "who": "Janaki Ammal (1897–1984), from Thalassery, Kerala",
+   "idea": "A botanist who studied the chromosomes (packets of genes) of plants. At the Sugarcane Breeding Institute in Coimbatore in the 1930s she crossed sugarcane with wild Indian grasses to breed sweet varieties that grew well in India, so India did not have to depend on imported sugarcane. She later co-wrote a great atlas of the chromosomes of crop plants and worked to save India's plants and forests.",
+   "then": "She faced unfair treatment as a woman and because of caste, and left her post in Coimbatore. Much of her work was little known for decades.",
+   "now": "Accepted and honoured: she received the Padma Shri in 1977, and a magnolia and an Indian award for plant scientists are named after her.",
+   "status": "accepted",
+   "ask": "She chose which plants would be parents to get sweeter sugarcane. What would you choose if you were breeding a mango tree? What might you lose?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "Alfred Sturtevant (1891–1970), USA, and the tongue-rolling rule",
+   "idea": "In 1940 Sturtevant, a respected geneticist, reported that being able to roll your tongue into a tube seemed to be inherited by one simple gene, with 'roller' winning over 'non-roller'. It went into many schoolbooks as the classic example.",
+   "then": "In the 1950s other scientists studied identical twins and found pairs where one twin could roll and the other couldn't, which a single simple gene can't explain. Some people also learned to do it.",
+   "now": "Rejected as a simple one-gene rule. Tongue rolling may be partly influenced by genes but is not the simple example books claimed, yet you can still find it in textbooks.",
+   "status": "rejected",
+   "ask": "If identical twins have the same genes, what does it tell you when one can do something and the other can't?",
+   "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "Nettie Stevens (1861–1912), USA",
+   "idea": "In 1905, studying mealworms, Stevens showed that whether an animal is male or female can depend on one pair of chromosomes (inherited instruction packets): females had two large ones (later called X and X), males one large and one small (X and Y). This was the first clear proof that chromosomes carry features.",
+   "then": "A more famous scientist, Edmund Wilson, published similar findings the same year, and for decades textbooks gave him most of the credit. Stevens, who started her scientific career late after years as a teacher, never got a permanent professorship.",
+   "now": "Her discovery is accepted, and historians now name her as the discoverer. We also know nature has other ways: in many turtles and crocodiles the warmth of the egg decides.",
+   "status": "accepted",
+   "ask": "Two people found the same thing in the same year, and the famous man got the credit. Why do you think that happened? How could we make credit fairer?",
+   "day": 8
+  }
+ ],
+ "story": {
+  "title": "Four Kittens, One Mother",
+  "text": [
+   "I am a cat of the lanes of north Kolkata. I have no name that I would tell you, but the children of the yellow house call me Billi, and I let them. My coat is a patchwork: black, orange and cream, splashed about as if someone shook three paint pots over me. I have white socks on my front paws. I am rather proud of them.",
+   "This monsoon I had my kittens behind the yellow house, in a dry box under the stairs, while the rain drummed on the tin roof. Four of them. I licked each one clean and they found my milk with their eyes still shut, and they pushed and squeaked and fed, and I lay there and purred.",
+   "When their eyes opened, the boy of the house came to look. His name is Rohan. He is seven, and he thinks he knows everything about cats.",
+   "He knelt down by the box and his face fell.",
+   "\"Didi!\" he shouted. \"Come and look! Billi's kittens are all wrong!\"",
+   "His sister Mitali came down the stairs, two at a time. She is eleven and wears her hair in a long plait, and she does not think she knows everything, which is why she knows a great deal.",
+   "\"What do you mean, wrong?\"",
+   "\"Look!\" Rohan pointed. \"That one's black and white. That one's stripy grey. That one's all orange. Only the little one looks like Billi.\"",
+   "It was true. My first-born was black with a white chest, like a tiny lawyer. My second was a grey tabby with stripes like the shadows of a window grille. My third was orange from nose to tail, the colour of marigolds. And my smallest, the last to come and the loudest, was a patchwork like me: black, orange and cream.",
+   "\"Kittens are supposed to look like their mother,\" said Rohan. \"Those three can't be hers.\"",
+   "I gave him a long look. They were mine. I had carried them and borne them and licked them and fed them. I knew their smell from every other smell in Kolkata.",
+   "Mitali sat down on the bottom step. \"Have you seen the big orange tom who sits on the wall by the sweet shop?\" she asked.",
+   "Rohan's mouth fell open. He looked at the orange kitten. \"So that one's his?\"",
+   "\"Maybe. Kittens get half their instructions from the mother and half from the father. And a mother cat can even have kittens from more than one father in the same litter.\"",
+   "\"But the stripy one doesn't look like the orange tom either!\"",
+   "Mitali thought for a moment. Then she went upstairs and came back with two packs of cards, one with red backs and one with blue.",
+   "\"Red is Billi,\" she said. \"Blue is the father. Every cat has two copies of each instruction, one from its own mother and one from its own father. So Billi's pack has some cards she's never even shown on her own coat: hidden ones, from her own parents.\" She shuffled the red pack and the blue pack and dealt Rohan five red cards and five blue. Then she shuffled again and dealt him another hand. \"Same two packs. Is it the same hand?\"",
+   "\"No.\"",
+   "\"That's each kitten. A different shuffle of the same two.\"",
+   "Rohan frowned at the cards, and then at the kittens, and I could see the idea going in, the way water goes into dry soil. He crouched down closer and looked at the orange kitten. \"It's got white socks,\" he said slowly. \"On its front paws. Like Billi.\"",
+   "I purred. Of course it had.",
+   "\"And the stripy one has Billi's green eyes. And the black one's got her tail with the bend in it.\" He looked at me. \"They've all got bits of her. Just different bits.\"",
+   "\"And bits of someone else,\" said Mitali. \"And maybe bits of their grandmothers that Billi kept hidden.\"",
+   "Rohan was quiet for a long time. Then he looked up at his sister. He looked at her long plait, which was straight and black. His own hair was wavy and stuck up at the back like a crow's nest. She had their mother's long fingers. He had their father's round chin and his short thumbs, which he hated.",
+   "\"We don't look the same either,\" he said.",
+   "\"No,\" said Mitali. \"Different shuffles.\"",
+   "\"Of the same two packs.\"",
+   "\"Of the same two packs.\"",
+   "Just then the orange kitten, who had been lying on its back, rolled over and blundered into the patchwork one, and they tumbled together into the black one, and the grey one pounced on all three, and they became one squeaking heap of four colours. I stepped into the box, and they found me, all of them, the way they always did, by smell and by warmth, and settled against my belly to feed.",
+   "Rohan watched them. \"She doesn't care what colour they are,\" he said.",
+   "I closed my eyes. The rain had stopped. Somewhere a pressure cooker whistled, and the smell of mustard oil came down the stairs.",
+   "\"No,\" said Mitali. \"She doesn't.\""
+  ],
+  "epiphany": "Young inherit characteristics from both parents, and each one gets a different chance mix (including hidden instructions from grandparents), so brothers and sisters differ. The turn is Mitali's two packs of cards, 'a different shuffle of the same two', and Rohan noticing that every kitten has some of Billi (white socks, green eyes, bent tail), and then seeing the same in himself and his sister. Underneath: a mother who loves all her young alike, whatever they look like.",
+  "ask": [
+   "Why did Rohan think three kittens weren't Billi's?",
+   "What did Mitali's two packs of cards show?",
+   "Which bits of Billi did each kitten have?",
+   "Why do Rohan and Mitali look different if they have the same parents?",
+   "Billi didn't care what colour her kittens were. What makes a family a family?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Every child is a new shuffle of two old packs.",
+   "more": "Young inherit a chance mix of instructions (genes) from both parents, including hidden ones from grandparents. Show it with the coin-toss creatures and two decks of cards."
+  },
+  {
+   "idea": "You are genes and surroundings and choices together.",
+   "more": "Identical twins share genes but not fingerprints or lives; seeds with the same genes grow differently in light and dark. Ask your child which of their features came from genes, which from the people around them, and which they chose."
+  },
+  {
+   "idea": "Variation is a gift.",
+   "more": "No two leaves on a tree are the same. Variation lets living things cope with change, gives farmers something to choose from, and is the raw material for life slowly changing over many generations."
+  }
+ ],
+ "unknowns": [
+  "How do genes and surroundings together make a feature like height or musical talent? Scientists know hundreds of genes are involved in height alone, and still can't predict a child's height exactly.",
+  "Why are some instructions strong and others hidden? For many features nobody yet knows exactly how this works.",
+  "How much of who we are (kind, curious, brave) comes from genes, and how much from life? Scientists still argue, and the honest answer is: both, mixed in ways we don't fully understand."
+ ],
+ "books": [
+  {
+   "title": "A Mother for Choco",
+   "author": "Keiko Kasza",
+   "for": "read together",
+   "age": "3–7",
+   "why": "A little bird looks for a mother who looks like him, and finds one who doesn't. Lovely for 'what makes a family' alongside inheriting."
+  },
+  {
+   "title": "Gregor Mendel: The Friar Who Grew Peas",
+   "author": "Cheryl Bardoe",
+   "for": "read together",
+   "age": "6–10",
+   "why": "The true story of Mendel's patient counting, beautifully illustrated."
+  },
+  {
+   "title": "Same, Same but Different",
+   "author": "Jenny Sue Kostecki-Shaw",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Pen pals in the USA and India find they are alike and different: a gentle way into variation among people."
+  },
+  {
+   "title": "She Has Her Mother's Laugh",
+   "author": "Carl Zimmer",
+   "for": "parent reads",
+   "age": "adult (share stories aloud)",
+   "why": "A science writer's rich, honest account of heredity: what genes do and don't explain."
+  }
+ ],
+ "check": [
+  {
+   "q": "Why does a mango seed grow into a mango tree?",
+   "a": "It inherited mango instructions (genes) from its parent tree."
+  },
+  {
+   "q": "Where do you get your characteristics from?",
+   "a": "From both parents: a mix."
+  },
+  {
+   "q": "Why do brothers and sisters look different?",
+   "a": "Each one gets a different chance mix of the two parents' instructions."
+  },
+  {
+   "q": "Name one inherited feature, one learned one and one caused by surroundings.",
+   "a": "e.g. eye colour; speaking a language; a scar or suntan."
+  },
+  {
+   "q": "What did the methi seeds in the dark show?",
+   "a": "Surroundings change how living things grow, even with the same kind of genes."
+  },
+  {
+   "q": "What did Mendel find with his peas?",
+   "a": "Features are passed on separately from each parent, and some can hide for a generation."
+  },
+  {
+   "q": "Why is tongue rolling not a good example of a simple inherited feature?",
+   "a": "Some identical twins differ in it, and some people learn it."
+  }
+ ]
+}

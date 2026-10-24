@@ -118,6 +118,12 @@
      "title": "Make a prediction",
      "mins": 4,
      "do": "Ask: 'Where do you think the Sun will be at lunchtime? And just before dark?' Write down their guess on the a1 sheet. Good answers: 'higher up', 'over the other side'. Do not correct yet: we will test it."
+    },
+    {
+     "kind": "act",
+     "title": "Sunrise and sunset song",
+     "mins": 4,
+     "do": "Make up a call-and-response song together. You sing 'Where is the Sun in the morning?' and your child sings back 'Low in the east, low in the east!'; then 'Where is the Sun at midday?' ('High up above!') and 'Where is the Sun in the evening?' ('Low in the west!'). Your child points the right way each time. Sing it again on later days."
     }
    ],
    "need": [
@@ -153,9 +159,9 @@
     },
     {
      "kind": "game",
-     "title": "Shadow tag",
-     "mins": 6,
-     "do": "Go outside in the sun. Play shadow tag: you are 'out' if someone steps on your shadow. Afterwards ask: 'How did you keep your shadow safe?' Good answers: 'I stood in the shade of the tree so I had no shadow', 'I faced the Sun so my shadow was behind me'."
+     "title": "Shadow tag and shadow dance",
+     "mins": 9,
+     "do": "Go outside in the sun. Play shadow tag: you are 'out' if someone steps on your shadow. Afterwards ask: 'How did you keep your shadow safe?' Good answers: 'I stood in the shade of the tree so I had no shadow', 'I faced the Sun so my shadow was behind me'. Then put on music and let your child dance with their shadow: make it tall (arms up), tiny (curl into a ball), and make it touch a friend's shadow without your bodies touching."
     },
     {
      "kind": "review",
@@ -242,6 +248,12 @@
      "title": "Say it in one line",
      "mins": 7,
      "do": "Ask: 'Why does the Sun seem to walk across the sky?' Help your child make one sentence: 'The Sun stays still; our Earth turns, so the Sun seems to move from east to west.' Ask them to teach this to someone else at home tonight, using the lamp."
+    },
+    {
+     "kind": "act",
+     "title": "Drama: who is moving?",
+     "mins": 5,
+     "do": "Act a two-minute play. You are the Sun, standing proudly still with a torch. Your child is the Earth, spinning slowly. The Earth says: 'Sun, why do you keep walking across my sky?' The Sun says: 'I haven't moved a step! Look at your own feet.' The Earth spins, notices, and says the last line in their own words. Swap parts and play it again."
     }
    ],
    "need": [
@@ -299,6 +311,12 @@
    "title": "Telling time by the Sun",
    "goal": "Make a sundial and use shadows as a clock.",
    "steps": [
+    {
+     "kind": "act",
+     "title": "Surya Namaskar facing east",
+     "mins": 5,
+     "do": "If you can, do this at sunrise; otherwise in the morning. Stand facing east (find it from your chalk mark) and do three slow rounds of Surya Namaskar together, breathing in as you stretch up and out as you bend. Remind your child to look at the ground and the sky near the Sun, never at the Sun itself. Ask: 'Which way are you facing? Where will the Sun be when you do this in the evening?' (Behind you, in the west.)"
+    },
     {
      "kind": "warmup",
      "title": "Check the sleepy leaves",

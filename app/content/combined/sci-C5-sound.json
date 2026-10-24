@@ -1,21 +1,24 @@
 {
  "key": "combined|sci|5|sound",
- "board": "combined", "subj": "sci", "level": 5, "n": "sound",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "sound",
  "title": "Sound: volume, pitch and the shake that travels",
  "source": "DeepKids Combined. Covers Cambridge Stage 5 Physics: How are sounds made? (2.1), Volume and pitch (2.2), Changing the volume of sound (2.3) and Changing the pitch of sound (2.4), plus the speed of sound, hearing ranges, noise and fair-test variables. No textbook needed.",
- "summary": "In Class 1 your child found that every sound is a shake that travels. Now they find out how the shake travels (a push passed from particle to particle), why it is fastest through solids, and how to describe and change a sound: volume (loud or quiet, measured in decibels, set by how big the vibration is) and pitch (high or low, measured in hertz, set by how fast it vibrates). They run proper fair tests with named variables, tune a rubber-band guitar, solve the puzzle of the bottle jal tarang, survey noise in their street, and meet bats, whales, tabla makers and flowers that may listen to bees.",
+ "summary": "In Class 1 your child found that every sound is a shake that travels. Now they find out how the shake travels (a push passed from particle to particle), why it is fastest through solids, and how to describe and change a sound: volume (loud or quiet, measured in decibels, set by how big the vibration is) and pitch (high or low, measured in hertz, set by how fast it vibrates). They run proper fair tests with named variables, tune a rubber-band guitar, solve the puzzle of the bottle jal tarang, dance a compression wave, hear the Doppler effect in passing traffic, feel Om resonate in their chest, survey noise in their street, and meet bats, whales, tabla makers and flowers that may listen to bees.",
  "builds_on": "Class 1: sounds come from vibrations, travel through air, water, wood and string, get quieter with distance; echoes; elephant rumbles. Later classes: sound as a wave, wavelength and frequency, the ear in detail, and noise pollution and the law.",
  "subconcepts": [
   "every sound comes from a vibration",
-  "sound travels as a push passed from particle to particle",
+  "sound is a wave: squashes and stretches (compressions and rarefactions) passed from particle to particle",
   "sound travels through solids, liquids and gases, best through solids",
   "the speed of sound: about 340 metres a second in air",
   "no particles, no sound: the vacuum",
   "volume: loudness depends on the size of the vibration (amplitude)",
   "the decibel scale and safe hearing",
   "pitch: high and low depends on how fast the vibration is (frequency)",
-  "frequency is measured in hertz; our hearing range is about 20 to 20,000 hertz",
-  "infrasound and ultrasound: animals that hear beyond us",
+  "frequency in hertz; our hearing range (about 20 to 20,000 Hz), infrasound and ultrasound",
+  "the Doppler effect: a moving source sounds higher coming and lower going",
   "strings: shorter, tighter and thinner strings give a higher pitch",
   "air columns: a shorter column of air gives a higher pitch",
   "making sounds louder: sounding boxes, resonance and megaphones",
@@ -31,224 +34,1252 @@
   "By the end your child can say what noise does to people and animals, and name a real debate about whether plants respond to sound."
  ],
  "words": [
-  ["vibration", "a fast back-and-forth movement"],
-  ["particles", "the tiny bits that everything (solids, liquids and gases) is made of"],
-  ["vacuum", "a space with no particles in it, not even air"],
-  ["volume", "how loud or quiet a sound is"],
-  ["amplitude", "how big a vibration is: how far it moves back and forth"],
-  ["decibel (dB)", "the unit for measuring how loud a sound is"],
-  ["pitch", "how high or low a sound is"],
-  ["frequency", "how many vibrations happen in one second"],
-  ["hertz (Hz)", "the unit of frequency: one vibration a second"],
-  ["ultrasound", "sound too high for people to hear"],
-  ["infrasound", "sound too low for people to hear"],
-  ["resonance", "when one thing makes another vibrate strongly along with it"],
-  ["independent variable", "the one thing you change on purpose in a test"],
-  ["dependent variable", "the thing you measure to see what happened"],
-  ["control variables", "everything you keep the same so the test is fair"]
+  [
+   "vibration",
+   "a fast back-and-forth movement"
+  ],
+  [
+   "particles",
+   "the tiny bits that everything (solids, liquids and gases) is made of"
+  ],
+  [
+   "vacuum",
+   "a space with no particles in it, not even air"
+  ],
+  [
+   "volume",
+   "how loud or quiet a sound is"
+  ],
+  [
+   "amplitude",
+   "how big a vibration is: how far it moves back and forth"
+  ],
+  [
+   "decibel (dB)",
+   "the unit for measuring how loud a sound is"
+  ],
+  [
+   "pitch",
+   "how high or low a sound is"
+  ],
+  [
+   "frequency",
+   "how many vibrations happen in one second"
+  ],
+  [
+   "hertz (Hz)",
+   "the unit of frequency: one vibration a second"
+  ],
+  [
+   "ultrasound",
+   "sound too high for people to hear"
+  ],
+  [
+   "infrasound",
+   "sound too low for people to hear"
+  ],
+  [
+   "resonance",
+   "when one thing makes another vibrate strongly along with it"
+  ],
+  [
+   "independent variable",
+   "the one thing you change on purpose in a test"
+  ],
+  [
+   "dependent variable",
+   "the thing you measure to see what happened"
+  ],
+  [
+   "control variables",
+   "everything you keep the same so the test is fair"
+  ],
+  [
+   "Doppler effect",
+   "the change in pitch you hear when a sound source moves towards or away from you"
+  ],
+  [
+   "compression",
+   "a squashed-together part of a sound wave"
+  ]
  ],
  "day_mins": 45,
  "days": [
-  {"n": 1, "title": "Back to the wobble", "goal": "Recall that sound is vibration, and discover how it travels.",
+  {
+   "n": 1,
+   "title": "Back to the wobble",
+   "goal": "Recall that sound is vibration, and discover how it travels.",
    "steps": [
-    {"kind": "warmup", "title": "What do you remember?", "mins": 7, "do": "Ask: 'In Class 1 you made rice dance on a drum and built a string telephone. What did they show?' Good answers: every sound is a vibration; sound travels through air, string and wood; sounds get quieter further away. Ask your child to put fingers on their throat and sing a high note, then a low note. 'Does the buzz feel different?' (Many children feel the low note buzz more slowly or more strongly.) Say: 'This time we'll find out what makes a sound high or low, loud or quiet, and how it actually travels.'"},
-    {"kind": "read", "title": "Story: The Bottle That Was Too Low", "mins": 12, "do": "Read the story aloud. Don't explain the puzzle in it: your child will solve it on Day 5. Ask: 'Parvathi said take water out. Arul added water. Why were they both right?' Write your child's guess on a slip and keep it."},
-    {"kind": "exp", "title": "The spoon bell", "mins": 14, "do": "Do experiment e1. Tie a steel spoon to the middle of a 1-metre string. Your child wraps the string ends round their index fingers, swings the spoon gently against a table edge, and listens. Then they put their fingertips (with the string) gently against the openings of their ears and do it again. Ask: 'Why is it so much louder and richer the second time?' Then tap a steel glass and dip its rim into a bowl of water: look at the ripples.", "ref": "e1"},
-    {"kind": "talk", "title": "The pass-it-on line", "mins": 12, "do": "Model how sound travels. Stand three or four family members in a line, shoulders nearly touching. Gently push the first one; each passes the push on to the next and then sways back to their place. Ask: 'Did anyone walk from the start to the end? What travelled?' Good answer: only the push travelled; each person stayed in place. Say: 'Air is made of tiny particles. A vibrating thing pushes the particles next to it, which push the next ones. Sound is a push passed along. In a solid the particles are packed tightly, like people holding hands, so the push passes fast and well. In a gas they are far apart. In a vacuum there are no particles, so there is nothing to pass the push.' Draw dots close together (solid), less close (liquid) and far apart (gas)."}
-   ], "need": ["a steel spoon", "1 metre of string", "a steel glass", "a bowl of water", "a paper slip"]},
-  {"n": 2, "title": "Through solids, liquids and gases", "goal": "Run a fair test on which materials carry sound, and find how fast sound travels.",
+    {
+     "kind": "warmup",
+     "title": "What do you remember?",
+     "mins": 7,
+     "do": "Ask: 'In Class 1 you made rice dance on a drum and built a string telephone. What did they show?' Good answers: every sound is a vibration; sound travels through air, string and wood; sounds get quieter further away. Ask your child to put fingers on their throat and sing a high note, then a low note. 'Does the buzz feel different?' (Many children feel the low note buzz more slowly or more strongly.) Say: 'This time we'll find out what makes a sound high or low, loud or quiet, and how it actually travels.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Bottle That Was Too Low",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain the puzzle in it: your child will solve it on Day 5. Ask: 'Parvathi said take water out. Arul added water. Why were they both right?' Write your child's guess on a slip and keep it."
+    },
+    {
+     "kind": "exp",
+     "title": "The spoon bell",
+     "mins": 14,
+     "do": "Do experiment e1. Tie a steel spoon to the middle of a 1-metre string. Your child wraps the string ends round their index fingers, swings the spoon gently against a table edge, and listens. Then they put their fingertips (with the string) gently against the openings of their ears and do it again. Ask: 'Why is it so much louder and richer the second time?' Then tap a steel glass and dip its rim into a bowl of water: look at the ripples.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "The pass-it-on line",
+     "mins": 12,
+     "do": "Model how sound travels. Stand three or four family members in a line, shoulders nearly touching. Gently push the first one; each passes the push on to the next and then sways back to their place. Ask: 'Did anyone walk from the start to the end? What travelled?' Good answer: only the push travelled; each person stayed in place. Say: 'Air is made of tiny particles. A vibrating thing pushes the particles next to it, which push the next ones. Sound is a push passed along. In a solid the particles are packed tightly, like people holding hands, so the push passes fast and well. In a gas they are far apart. In a vacuum there are no particles, so there is nothing to pass the push.' Draw dots close together (solid), less close (liquid) and far apart (gas)."
+    }
+   ],
+   "need": [
+    "a steel spoon",
+    "1 metre of string",
+    "a steel glass",
+    "a bowl of water",
+    "a paper slip"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Through solids, liquids and gases",
+   "goal": "Run a fair test on which materials carry sound, and find how fast sound travels.",
    "steps": [
-    {"kind": "exp", "title": "Fair test: what carries sound best?", "mins": 20, "do": "Do experiment e2. First plan it with your child using three questions, and write the answers: 'What will we change?' (the material: air, wood, water, string: the independent variable). 'What will we measure?' (how loud the tap sounds, on a scale of 0 to 5, or with a sound-meter app: the dependent variable). 'What must we keep the same?' (the same tap, the same distance, the same listener, the same ear: the control variables). Then run it and record in a table.", "ref": "e2"},
-    {"kind": "talk", "title": "How fast is sound?", "mins": 10, "do": "Say: 'Sound in air travels about 340 metres every second. That's about three football fields in one second. Light is almost a million times faster.' Ask: 'Why do we see lightning before we hear thunder?' Good answer: the light reaches us almost at once; the sound takes longer. Teach the rule: count the seconds from the flash to the thunder and divide by 3 to get roughly how many kilometres away the storm is. Ask: 'If you count 9 seconds, how far is the storm?' (About 3 km.) Add: 'In water sound travels about four times faster, and in steel about fifteen times faster.'"},
-    {"kind": "talk", "title": "The bats who saw with their ears", "mins": 15, "do": "Tell the story of voice v1: Spallanzani's blindfolded bats, Jurine's ear-plugged bats, and how Donald Griffin finally heard their ultrasound with a special microphone 140 years later. Ask: 'Spallanzani was mocked. What evidence did he have? What was missing?' Good answer: he had the result (bats crash without hearing) but no way to detect the sounds. Ask the voice question. Then ask: 'Some of these early experiments hurt the bats. Is it fair to harm an animal to find something out? Could you have found out another way?'", "ref": "v1"}
-   ], "need": ["a wooden table or a long wooden plank", "a balloon filled with water", "a 3-metre string and two paper cups", "a phone with a free sound-meter app if you have one", "a pencil and notebook"]},
-  {"n": 3, "title": "Loud and quiet: volume", "goal": "Find that a bigger vibration makes a louder sound, and measure volume in decibels.",
+    {
+     "kind": "exp",
+     "title": "Fair test: what carries sound best?",
+     "mins": 20,
+     "do": "Do experiment e2. First plan it with your child using three questions, and write the answers: 'What will we change?' (the material: air, wood, water, string: the independent variable). 'What will we measure?' (how loud the tap sounds, on a scale of 0 to 5, or with a sound-meter app: the dependent variable). 'What must we keep the same?' (the same tap, the same distance, the same listener, the same ear: the control variables). Then run it and record in a table.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "How fast is sound?",
+     "mins": 10,
+     "do": "Say: 'Sound in air travels about 340 metres every second. That's about three football fields in one second. Light is almost a million times faster.' Ask: 'Why do we see lightning before we hear thunder?' Good answer: the light reaches us almost at once; the sound takes longer. Teach the rule: count the seconds from the flash to the thunder and divide by 3 to get roughly how many kilometres away the storm is. Ask: 'If you count 9 seconds, how far is the storm?' (About 3 km.) Add: 'In water sound travels about four times faster, and in steel about fifteen times faster.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The bats who saw with their ears",
+     "mins": 15,
+     "do": "Tell the story of voice v1: Spallanzani's blindfolded bats, Jurine's ear-plugged bats, and how Donald Griffin finally heard their ultrasound with a special microphone 140 years later. Ask: 'Spallanzani was mocked. What evidence did he have? What was missing?' Good answer: he had the result (bats crash without hearing) but no way to detect the sounds. Ask the voice question. Then ask: 'Some of these early experiments hurt the bats. Is it fair to harm an animal to find something out? Could you have found out another way?'",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "a wooden table or a long wooden plank",
+    "a balloon filled with water",
+    "a 3-metre string and two paper cups",
+    "a phone with a free sound-meter app if you have one",
+    "a pencil and notebook"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Loud and quiet: volume",
+   "goal": "Find that a bigger vibration makes a louder sound, and measure volume in decibels.",
    "steps": [
-    {"kind": "exp", "title": "Bigger shake, louder sound", "mins": 12, "do": "Do experiment e3. Use the cling-film drum with a pinch of rice. Tap gently, then harder, then hardest. Your child watches how high the rice jumps and says how loud it sounds. Then pluck a rubber band gently, then pull it further and let go. Ask: 'What changes when the sound is louder?' Good answer: the drum skin or band moves further back and forth. Say: 'How far a vibration moves is called its amplitude. Bigger amplitude, louder sound. The pitch doesn't change, only the volume.'", "ref": "e3"},
-    {"kind": "act", "title": "Decibel detectives", "mins": 15, "do": "Do activity a1. Use a free sound-meter app (or, without one, a 0 to 5 loudness scale by ear). Measure: a whisper, normal talking, the mixer grinder, the television at your usual volume, the road outside, a pressure cooker whistle. Record each in a table. Say: 'Decibels go up strangely: every 10 decibels more means about ten times more sound energy. A pressure cooker whistle is far more than twice a conversation.'", "ref": "a1"},
-    {"kind": "talk", "title": "How loud is too loud?", "mins": 10, "do": "Show this ladder: rustling leaves about 20 dB; whisper 30; talking 60; busy traffic 80; long hours above 85 can slowly damage hearing; a loud wedding speaker up close 100 to 110; a big cracker close up over 140, which can harm the ear at once. Ask: 'Which of the sounds we measured were above 85?' Say: 'Hearing lost from loud noise does not come back, because the tiny hair cells in the inner ear that detect sound don't regrow.' Ask: 'What could a family do to protect their ears?' (Lower the volume, keep away from speakers, cover ears, use earplugs.)"},
-    {"kind": "think", "title": "Volume and distance", "mins": 8, "do": "Ask: 'In Class 1 the bell got quieter as you walked away. Is that because the vibration changed, or because the push spread out?' Good answer: the push spreads out in all directions, so less of it reaches your ear. Draw a dot with circles spreading out, like ripples in a pond. Ask: 'Why do people cup their hands round their mouth to shout?' (It sends more of the sound one way instead of spreading it everywhere.)"}
-   ], "need": ["the cling-film drum and rice", "a rubber band", "a phone with a free sound-meter app (optional)", "a notebook"]},
-  {"n": 4, "title": "High and low: pitch", "goal": "Find that faster vibrations make higher sounds, and meet hearing ranges and Raman's drums.",
+    {
+     "kind": "exp",
+     "title": "Bigger shake, louder sound",
+     "mins": 12,
+     "do": "Do experiment e3. Use the cling-film drum with a pinch of rice. Tap gently, then harder, then hardest. Your child watches how high the rice jumps and says how loud it sounds. Then pluck a rubber band gently, then pull it further and let go. Ask: 'What changes when the sound is louder?' Good answer: the drum skin or band moves further back and forth. Say: 'How far a vibration moves is called its amplitude. Bigger amplitude, louder sound. The pitch doesn't change, only the volume.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "Decibel detectives",
+     "mins": 15,
+     "do": "Do activity a1. Use a free sound-meter app (or, without one, a 0 to 5 loudness scale by ear). Measure: a whisper, normal talking, the mixer grinder, the television at your usual volume, the road outside, a pressure cooker whistle. Record each in a table. Say: 'Decibels go up strangely: every 10 decibels more means about ten times more sound energy. A pressure cooker whistle is far more than twice a conversation.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "How loud is too loud?",
+     "mins": 10,
+     "do": "Show this ladder: rustling leaves about 20 dB; whisper 30; talking 60; busy traffic 80; long hours above 85 can slowly damage hearing; a loud wedding speaker up close 100 to 110; a big cracker close up over 140, which can harm the ear at once. Ask: 'Which of the sounds we measured were above 85?' Say: 'Hearing lost from loud noise does not come back, because the tiny hair cells in the inner ear that detect sound don't regrow.' Ask: 'What could a family do to protect their ears?' (Lower the volume, keep away from speakers, cover ears, use earplugs.)"
+    },
+    {
+     "kind": "think",
+     "title": "Volume and distance",
+     "mins": 8,
+     "do": "Ask: 'In Class 1 the bell got quieter as you walked away. Is that because the vibration changed, or because the push spread out?' Good answer: the push spreads out in all directions, so less of it reaches your ear. Draw a dot with circles spreading out, like ripples in a pond. Ask: 'Why do people cup their hands round their mouth to shout?' (It sends more of the sound one way instead of spreading it everywhere.)"
+    }
+   ],
+   "need": [
+    "the cling-film drum and rice",
+    "a rubber band",
+    "a phone with a free sound-meter app (optional)",
+    "a notebook"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "High and low: pitch",
+   "goal": "Find that faster vibrations make higher sounds, and meet hearing ranges and Raman's drums.",
    "steps": [
-    {"kind": "exp", "title": "The ruler twang", "mins": 14, "do": "Do experiment e4. Hold a plastic or wooden ruler flat on a table with 25 cm hanging over the edge. Twang the free end. Then try 20, 15 and 10 cm. Your child records whether the pitch goes up or down and watches how fast the ruler moves. Ask: 'When the ruler is short, does it shake faster or slower?' Good answer: faster. Say: 'How many times something vibrates each second is its frequency, measured in hertz. Faster vibration, higher frequency, higher pitch.'", "ref": "e4"},
-    {"kind": "talk", "title": "What we can and cannot hear", "mins": 10, "do": "Say: 'Young people hear from about 20 vibrations a second (very low) to about 20,000 a second (very high). Below that is infrasound: elephants, whales and earthquakes make it. Above that is ultrasound: bats, dolphins and some insects use it. Dogs hear up to about 45,000 hertz.' Ask: 'Why might a dog whistle be silent to you but not to the dog?' Add: 'As people get older, they usually lose the highest sounds first.' If you have a phone, play a 'hearing range test' sound from about 8,000 to 17,000 hertz at LOW volume and see who in the family stops hearing it first."},
-    {"kind": "talk", "title": "Raman and the tabla", "mins": 13, "do": "Show a tabla or mridangam if you have one, or a picture. Point at the black circle (syahi) on the skin. Tell your child about voice v2: C.V. Raman showed that this loaded black patch is why Indian drums give a clear musical note, which most drums cannot. Ask the voice question. Ask: 'Who knew how to make the syahi long before Raman measured it?' Good answer: generations of drum makers, who learned by ear and passed it on.", "ref": "v2"},
-    {"kind": "ws", "title": "Core worksheet", "mins": 8, "do": "Do Worksheet ws1. Your child does it alone; you read any item they ask about. Check the answers together and talk about any mistakes.", "ref": "ws1"}
-   ], "need": ["a 30 cm ruler", "a table edge", "a tabla, mridangam or picture of one", "a phone (optional)", "worksheet ws1"]},
-  {"n": 5, "title": "Changing pitch: strings and air", "goal": "Change the pitch of strings in three ways, and solve the bottle puzzle from the story.",
+    {
+     "kind": "exp",
+     "title": "The ruler twang",
+     "mins": 14,
+     "do": "Do experiment e4. Hold a plastic or wooden ruler flat on a table with 25 cm hanging over the edge. Twang the free end. Then try 20, 15 and 10 cm. Your child records whether the pitch goes up or down and watches how fast the ruler moves. Ask: 'When the ruler is short, does it shake faster or slower?' Good answer: faster. Say: 'How many times something vibrates each second is its frequency, measured in hertz. Faster vibration, higher frequency, higher pitch.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "What we can and cannot hear",
+     "mins": 10,
+     "do": "Say: 'Young people hear from about 20 vibrations a second (very low) to about 20,000 a second (very high). Below that is infrasound: elephants, whales and earthquakes make it. Above that is ultrasound: bats, dolphins and some insects use it. Dogs hear up to about 45,000 hertz.' Ask: 'Why might a dog whistle be silent to you but not to the dog?' Add: 'As people get older, they usually lose the highest sounds first.' If you have a phone, play a 'hearing range test' sound from about 8,000 to 17,000 hertz at LOW volume and see who in the family stops hearing it first."
+    },
+    {
+     "kind": "talk",
+     "title": "Raman and the tabla",
+     "mins": 13,
+     "do": "Show a tabla or mridangam if you have one, or a picture. Point at the black circle (syahi) on the skin. Tell your child about voice v2: C.V. Raman showed that this loaded black patch is why Indian drums give a clear musical note, which most drums cannot. Ask the voice question. Ask: 'Who knew how to make the syahi long before Raman measured it?' Good answer: generations of drum makers, who learned by ear and passed it on.",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws1. Your child does it alone; you read any item they ask about. Check the answers together and talk about any mistakes.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a 30 cm ruler",
+    "a table edge",
+    "a tabla, mridangam or picture of one",
+    "a phone (optional)",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Changing pitch: strings and air",
+   "goal": "Change the pitch of strings in three ways, and solve the bottle puzzle from the story.",
    "steps": [
-    {"kind": "act", "title": "Rubber-band box guitar", "mins": 18, "do": "Do activity a2. Stretch rubber bands of different thicknesses over an open shoebox or tiffin, with a pencil underneath as a bridge. Test one thing at a time: (1) thick versus thin band at the same tightness; (2) the same band stretched tighter; (3) the same band with a finger pressing it shorter. After each, your child writes the rule: shorter, tighter or thinner gives a higher pitch. Ask: 'How does a veena or sitar player change the note?' (Pressing the string on a fret makes it shorter; turning the peg makes it tighter.)", "ref": "a2"},
-    {"kind": "exp", "title": "The bottle jal tarang puzzle", "mins": 17, "do": "Do experiment e5. Fill four identical glass bottles with different amounts of water. First, tap each gently with a steel spoon and put them in order from low to high. Then blow across the top of each and order them again. Ask: 'What happened? Is it the same order?' It is the opposite. Now go back to your child's guess about the story, written on Day 1.", "ref": "e5"},
-    {"kind": "think", "title": "Why opposite?", "mins": 10, "do": "Ask: 'When you tap, what vibrates?' (The glass and the water in it.) 'More water makes it heavier, so it vibrates more slowly: lower pitch.' 'When you blow, what vibrates?' (The column of air above the water.) 'More water leaves a shorter column of air, which vibrates faster: higher pitch.' Ask: 'So were Parvathi and Arul both right?' (Yes: Parvathi's bowls are struck, Arul's bottles are blown.) Ask: 'In a flute, how do the holes change the pitch?' (Opening a hole makes the vibrating column of air shorter, so the note goes higher.)"}
-   ], "need": ["an open shoebox or tiffin", "5 rubber bands of different thicknesses", "a pencil", "4 identical glass bottles", "water", "a steel spoon"]},
-  {"n": 6, "title": "Louder and quieter: amplifying and muffling", "goal": "Test which materials muffle sound, see how instruments amplify, and hear whale songs change.",
+    {
+     "kind": "act",
+     "title": "Rubber-band box guitar",
+     "mins": 18,
+     "do": "Do activity a2. Stretch rubber bands of different thicknesses over an open shoebox or tiffin, with a pencil underneath as a bridge. Test one thing at a time: (1) thick versus thin band at the same tightness; (2) the same band stretched tighter; (3) the same band with a finger pressing it shorter. After each, your child writes the rule: shorter, tighter or thinner gives a higher pitch. Ask: 'How does a veena or sitar player change the note?' (Pressing the string on a fret makes it shorter; turning the peg makes it tighter.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "exp",
+     "title": "The bottle jal tarang puzzle",
+     "mins": 17,
+     "do": "Do experiment e5. Fill four identical glass bottles with different amounts of water. First, tap each gently with a steel spoon and put them in order from low to high. Then blow across the top of each and order them again. Ask: 'What happened? Is it the same order?' It is the opposite. Now go back to your child's guess about the story, written on Day 1.",
+     "ref": "e5"
+    },
+    {
+     "kind": "think",
+     "title": "Why opposite?",
+     "mins": 10,
+     "do": "Ask: 'When you tap, what vibrates?' (The glass and the water in it.) 'More water makes it heavier, so it vibrates more slowly: lower pitch.' 'When you blow, what vibrates?' (The column of air above the water.) 'More water leaves a shorter column of air, which vibrates faster: higher pitch.' Ask: 'So were Parvathi and Arul both right?' (Yes: Parvathi's bowls are struck, Arul's bottles are blown.) Ask: 'In a flute, how do the holes change the pitch?' (Opening a hole makes the vibrating column of air shorter, so the note goes higher.)"
+    }
+   ],
+   "need": [
+    "an open shoebox or tiffin",
+    "5 rubber bands of different thicknesses",
+    "a pencil",
+    "4 identical glass bottles",
+    "water",
+    "a steel spoon"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Louder and quieter: amplifying and muffling",
+   "goal": "Test which materials muffle sound, see how instruments amplify, and hear whale songs change.",
    "steps": [
-    {"kind": "exp", "title": "Fair test: the best muffler", "mins": 20, "do": "Do experiment e6. A phone alarm goes in a small box; you wrap it in one material at a time: nothing, a cotton towel, newspaper, aluminium foil, a woollen sweater, bubble wrap. Your child measures the loudness from the same spot with the sound-meter app (or by walking away until they can't hear it, counting steps). Before starting, your child writes the independent, dependent and control variables. Ask: 'Which materials muffled best? What do they have in common?' Good answer: soft, thick, fluffy materials with trapped air soak up sound.", "ref": "e6"},
-    {"kind": "talk", "title": "How instruments get louder", "mins": 10, "do": "Pluck a rubber band stretched between two fingers in the air: very quiet. Now stretch it over the open box: much louder. Ask: 'Why?' Say: 'The band makes the box and the air inside it vibrate too. This is called resonance. The big hollow body of a veena, guitar or tanpura is a sounding box that makes the string's sound louder.' Roll paper into a megaphone and talk through it. Ask: 'Why does a megaphone make your voice louder in one direction?' (It stops the sound spreading out everywhere.)"},
-    {"kind": "talk", "title": "Songs that change", "mins": 15, "do": "Tell your child about voice v3: the humpback whale songs, the engineer Frank Watlington who first recorded them, and Katy Payne's discovery that all the whales in a group slowly change their song together, year by year. If you can, play a short recording of humpback song from a museum or nature website. Ask: 'Why does sound suit whales better than light in the deep sea?' (Light fades within a few hundred metres in seawater; low sounds can travel hundreds of kilometres.) Then ask the voice question.", "ref": "v3"}
-   ], "need": ["a phone with an alarm", "a small box", "a cotton towel, newspaper, foil, a woollen sweater and bubble wrap", "a rubber band", "paper and tape for a megaphone"]},
-  {"n": 7, "title": "Noise in my community", "goal": "Survey the noise around home, think about who it harms, and weigh a debate about listening plants.",
+    {
+     "kind": "exp",
+     "title": "Fair test: the best muffler",
+     "mins": 20,
+     "do": "Do experiment e6. A phone alarm goes in a small box; you wrap it in one material at a time: nothing, a cotton towel, newspaper, aluminium foil, a woollen sweater, bubble wrap. Your child measures the loudness from the same spot with the sound-meter app (or by walking away until they can't hear it, counting steps). Before starting, your child writes the independent, dependent and control variables. Ask: 'Which materials muffled best? What do they have in common?' Good answer: soft, thick, fluffy materials with trapped air soak up sound.",
+     "ref": "e6"
+    },
+    {
+     "kind": "talk",
+     "title": "How instruments get louder",
+     "mins": 10,
+     "do": "Pluck a rubber band stretched between two fingers in the air: very quiet. Now stretch it over the open box: much louder. Ask: 'Why?' Say: 'The band makes the box and the air inside it vibrate too. This is called resonance. The big hollow body of a veena, guitar or tanpura is a sounding box that makes the string's sound louder.' Roll paper into a megaphone and talk through it. Ask: 'Why does a megaphone make your voice louder in one direction?' (It stops the sound spreading out everywhere.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Songs that change",
+     "mins": 15,
+     "do": "Tell your child about voice v3: the humpback whale songs, the engineer Frank Watlington who first recorded them, and Katy Payne's discovery that all the whales in a group slowly change their song together, year by year. If you can, play a short recording of humpback song from a museum or nature website. Ask: 'Why does sound suit whales better than light in the deep sea?' (Light fades within a few hundred metres in seawater; low sounds can travel hundreds of kilometres.) Then ask the voice question.",
+     "ref": "v3"
+    }
+   ],
+   "need": [
+    "a phone with an alarm",
+    "a small box",
+    "a cotton towel, newspaper, foil, a woollen sweater and bubble wrap",
+    "a rubber band",
+    "paper and tape for a megaphone"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Waves you can dance: Doppler and Om",
+   "goal": "See sound as a wave of squashes and stretches, hear the Doppler effect, and feel resonance in your own body.",
    "steps": [
-    {"kind": "outdoor", "title": "Project: noise survey", "mins": 20, "do": "Start the project. With a grown-up, measure the sound level for one minute at four places: inside your home, at the gate, beside the main road, and in the quietest place you can find (a park, a temple courtyard, a terrace). Use the sound-meter app or the 0 to 5 scale. Record the time and what made the sound (horns, construction, birds). Ask: 'Who lives or works in the loudest place all day?' Good answers: traffic police, street vendors, guards, birds and street dogs.", "ref": "a1"},
-    {"kind": "talk", "title": "Do flowers listen?", "mins": 12, "do": "Tell your child about voice v4: the evening primrose flowers that made sweeter nectar within minutes of hearing the hum of a bee. Ask: 'What would you need to see before you believed it?' Good answers: other scientists repeating the test; a control where the flowers hear a different sound; checking it isn't the heat or a smell. Then ask the voice question. Say honestly: 'Scientists are still arguing about this. It's an open question.'", "ref": "v4"},
-    {"kind": "ws", "title": "Stretch worksheet", "mins": 13, "do": "Do Worksheet ws2 alone. Afterwards, ask your child to read out their answers to the two written items, and ask one follow-up question for each: 'How do you know?'", "ref": "ws2"}
-   ], "need": ["a phone with a sound-meter app (optional)", "a notebook", "a grown-up to walk with", "worksheet ws2"]},
-  {"n": 8, "title": "Check, challenge and teach it back", "goal": "Play the pitch-and-volume game, tackle the challenge sheet and teach the family.",
+    {
+     "kind": "act",
+     "title": "The compression dance",
+     "mins": 10,
+     "do": "Stretch a slinky (or a long soft spring, or a 2-metre rope of rubber bands knotted together) along the floor and give one end a sharp push forward. Watch a bunched-up part travel along it. Say: 'The squashed part is a compression; the spread-out part behind it is a rarefaction. Sound in air is just this: squash, stretch, squash, stretch, passed from particle to particle. The distance from one squash to the next is the wavelength. High notes have short wavelengths; low notes have long ones.' Then dance it: family members stand in a line an arm apart. Clap a slow beat; on each clap the first person steps forward and back, and each person copies the person before them a moment later. Ask: 'Where are the squashes now? Did anyone travel to the end?'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "The Doppler effect",
+     "mins": 15,
+     "do": "Stand safely on a footpath well back from the road (a grown-up holds your hand) and listen to vehicles that honk or whine as they pass, or to a train horn from a platform or a bridge. Ask: 'Does the sound change as it goes past you?' Good answer: higher as it comes towards you, then suddenly lower as it goes away. Then try it at home or in a park: a grown-up cycles past at speed ringing a bicycle bell, or walks fast past you holding a phone playing a steady beep. Explain with a drawing of circles: 'A moving source squashes its sound waves together in front of it (shorter waves, higher pitch) and stretches them out behind (longer waves, lower pitch). The bell does not change at all; only what you hear changes.' Add: 'Astronomers use the same idea with light to tell whether a star or galaxy is moving towards us or away. This is called the Doppler effect, after Christian Doppler, who described it in 1842.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Om, the bathroom and the bowl",
+     "mins": 12,
+     "do": "Chant one long, low 'Om' (aaa-ooo-mmm) together, first on the balcony or in an open room, then in the bathroom with the door shut. Put a hand flat on the chest and one on top of the head. Ask: 'Where is it louder and fuller? Where do you feel it in your body?' Good answers: the bathroom; the chest buzzes on 'aaa' and 'ooo', the head and lips on 'mmm'. Say: 'Your chest, throat, mouth and nose are hollow spaces that resonate like the body of a veena. Hard tiled walls reflect the sound back so it builds up, which is why everyone sounds like a singer in the bathroom.' Then hum close to a steel bowl half full of water and slide your note slowly up and down until you find the note that makes the water shiver most: that is the bowl's own resonant note. Ask: 'Why do you think so many traditions (Om in India, Tibetan singing bowls, church bells, Sufi chanting) use long, low, ringing sounds?' Let your child give their own ideas; there is no single answer."
+    },
+    {
+     "kind": "do",
+     "title": "Draw the wave",
+     "mins": 8,
+     "do": "Your child draws three pictures of sound as lines packed close (compressions) and far apart (rarefactions): a low drum (lines far apart), a high whistle (lines close together), and an ambulance driving past a child (lines squashed in front, stretched behind). Label one wavelength on each. Ask: 'Which drawing shows a sound that is loud? How could you show loudness in a drawing?' (Darker, thicker lines for bigger squashes: bigger amplitude.)"
+    }
+   ],
+   "need": [
+    "a slinky, a long soft spring or a rope of rubber bands",
+    "a grown-up to stand with you near a road, safely back from traffic",
+    "a bicycle with a bell or a phone playing a beep",
+    "a steel bowl half full of water",
+    "paper and pencils"
+   ],
+   "prep": [
+    {
+     "task": "Find a safe spot on a footpath or bridge to listen to passing traffic or trains",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Noise in my community",
+   "goal": "Survey the noise around home, think about who it harms, and weigh a debate about listening plants.",
    "steps": [
-    {"kind": "game", "title": "Higher or Louder? card game", "mins": 15, "do": "Play the card game g1. Read the rules aloud first. When a player gets one wrong, they must test it if possible (with the ruler, rubber bands or bottles) before the next turn.", "ref": "g1"},
-    {"kind": "ws", "title": "Challenge worksheet", "mins": 15, "do": "Do Worksheet ws3. Encourage your child to draw diagrams for the written items. Discuss the Pythagoras item together afterwards and compare with the challenge in this rung.", "ref": "ws3"},
-    {"kind": "check", "title": "Teach it back", "mins": 15, "do": "Your child gives a 5-minute 'sound show' for the family: the spoon bell, the ruler twang, the bottle puzzle and the noise survey results. They must use the words vibration, particles, volume, amplitude, pitch and frequency. Then ask the check questions. Finish with: 'What is one thing about sound that nobody knows yet?'"}
-   ], "need": ["the printed cards", "the ruler, rubber-band guitar and bottles", "worksheet ws3", "the noise survey results"]}
+    {
+     "kind": "outdoor",
+     "title": "Project: noise survey",
+     "mins": 20,
+     "do": "Start the project. With a grown-up, measure the sound level for one minute at four places: inside your home, at the gate, beside the main road, and in the quietest place you can find (a park, a temple courtyard, a terrace). Use the sound-meter app or the 0 to 5 scale. Record the time and what made the sound (horns, construction, birds). Ask: 'Who lives or works in the loudest place all day?' Good answers: traffic police, street vendors, guards, birds and street dogs.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Do flowers listen?",
+     "mins": 12,
+     "do": "Tell your child about voice v4: the evening primrose flowers that made sweeter nectar within minutes of hearing the hum of a bee. Ask: 'What would you need to see before you believed it?' Good answers: other scientists repeating the test; a control where the flowers hear a different sound; checking it isn't the heat or a smell. Then ask the voice question. Say honestly: 'Scientists are still arguing about this. It's an open question.'",
+     "ref": "v4"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 13,
+     "do": "Do Worksheet ws2 alone. Afterwards, ask your child to read out their answers to the two written items, and ask one follow-up question for each: 'How do you know?'",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "a phone with a sound-meter app (optional)",
+    "a notebook",
+    "a grown-up to walk with",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Check, challenge and teach it back",
+   "goal": "Play the pitch-and-volume game, tackle the challenge sheet and teach the family.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Higher or Louder? card game",
+     "mins": 15,
+     "do": "Play the card game g1. Read the rules aloud first. When a player gets one wrong, they must test it if possible (with the ruler, rubber bands or bottles) before the next turn.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 15,
+     "do": "Do Worksheet ws3. Encourage your child to draw diagrams for the written items. Discuss the Pythagoras item together afterwards and compare with the challenge in this rung.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 15,
+     "do": "Your child gives a 5-minute 'sound show' for the family: the spoon bell, the ruler twang, the bottle puzzle and the noise survey results. They must use the words vibration, particles, volume, amplitude, pitch and frequency. Then ask the check questions. Finish with: 'What is one thing about sound that nobody knows yet?'"
+    }
+   ],
+   "need": [
+    "the printed cards",
+    "the ruler, rubber-band guitar and bottles",
+    "worksheet ws3",
+    "the noise survey results"
+   ]
+  }
  ],
  "worksheets": [
-  {"id": "ws1", "tier": "core", "title": "Volume, pitch and how sound travels", "day": 4, "sections": [
-   ["A. How sound travels", [
-    {"t": "mcq", "p": "Sound travels from a drum to your ear because…", "opts": ["tiny bits of drum fly into your ear", "the vibration is passed from particle to particle in the air", "light carries it"], "a": 1},
-    {"t": "sort", "p": "Where does sound travel fastest?", "items": ["steel", "air", "water"], "cats": ["fastest", "middle", "slowest"]},
-    {"t": "fill", "p": "A space with no particles at all, where sound cannot travel, is called a ____.", "a": ["vacuum"]},
-    {"t": "mcq", "p": "You see lightning and hear thunder 6 seconds later. The storm is about…", "opts": ["6 km away", "2 km away", "right overhead"], "a": 1}]],
-   ["B. Volume and pitch", [
-    {"t": "match", "p": "Match the word to its meaning.", "pairs": [["volume", "how loud or quiet"], ["pitch", "how high or low"], ["amplitude", "how big the vibration is"], ["frequency", "how many vibrations each second"], ["decibel", "unit of loudness"], ["hertz", "unit of frequency"]]},
-    {"t": "mcq", "p": "You hit a drum harder. The sound gets…", "opts": ["louder, same pitch", "higher, same volume", "quieter and lower"], "a": 0},
-    {"t": "mcq", "p": "A shorter ruler twanged over a table edge vibrates…", "opts": ["slower, so lower pitch", "faster, so higher pitch", "the same"], "a": 1},
-    {"t": "sort", "p": "High pitch or low pitch?", "items": ["a mosquito's whine", "a lion's roar", "a whistle", "a tuba", "a baby bird cheeping", "thunder"], "cats": ["high pitch", "low pitch"]}]],
-   ["C. Explain", [
-    {"t": "write", "p": "Why does sound travel better through a wooden table than through air? Use the word 'particles'.", "lines": 3},
-    {"t": "write", "p": "Why can astronauts on a spacewalk not hear each other without a radio?", "lines": 2}]]]},
-  {"id": "ws2", "tier": "stretch", "title": "Changing sounds", "day": 7, "sections": [
-   ["A. Strings and air", [
-    {"t": "sort", "p": "Does it make the pitch higher or lower?", "items": ["make the string shorter", "use a thicker string", "make the string tighter", "make the flute's air column longer", "use a thinner string", "loosen the string"], "cats": ["higher", "lower"]},
-    {"t": "mcq", "p": "You tap four bottles with different amounts of water. The fullest bottle sounds…", "opts": ["highest", "lowest", "the same as the rest"], "a": 1},
-    {"t": "mcq", "p": "You blow across the same four bottles. Now the fullest bottle sounds…", "opts": ["highest", "lowest", "silent"], "a": 0},
-    {"t": "fill", "p": "The hollow body of a veena makes the string's sound louder. This is called ____.", "a": ["resonance"]}]],
-   ["B. Muffling and fair tests", [
-    {"t": "match", "p": "In our muffler test, name each variable.", "pairs": [["the material wrapped round the phone", "independent variable"], ["the loudness we measured", "dependent variable"], ["the same phone, alarm and distance", "control variables"]]},
-    {"t": "sort", "p": "Good muffler or poor muffler?", "items": ["woollen sweater", "steel plate", "egg tray", "glass", "thick curtain", "cushion"], "cats": ["good muffler", "poor muffler"]},
-    {"t": "mcq", "p": "Noise over about 85 dB for many hours can…", "opts": ["make your hearing better", "slowly damage your hearing for good", "only bother animals"], "a": 1},
-    {"t": "mcq", "p": "A bat finds a moth in the dark by…", "opts": ["infrasound", "ultrasound echoes", "light from its eyes"], "a": 1}]],
-   ["C. Reason", [
-    {"t": "write", "p": "Rina says her muffler test was not fair because she stood closer to the phone for the towel test. Why does that matter? How would you fix it?", "lines": 3},
-    {"t": "write", "p": "Explain the bottle puzzle: why does adding water make the tapped note lower but the blown note higher?", "lines": 4}]]]},
-  {"id": "ws3", "tier": "challenge", "title": "Think like an acoustic scientist", "day": 8, "sections": [
-   ["A. Puzzles", [
-    {"t": "mcq", "p": "Why do you hear a train coming sooner with your ear on the rail? (Never try this on a real railway!)", "opts": ["sound travels faster and fades less in steel", "the rail is warmer", "trains are louder underground"], "a": 0},
-    {"t": "mcq", "p": "A sitar player presses a string halfway along its length. The note…", "opts": ["goes higher", "goes lower", "gets louder only"], "a": 0},
-    {"t": "mcq", "p": "Why does a helium balloon voice sound squeaky? (Helium is a gas much lighter than air.)", "opts": ["sound travels faster in helium, so the air spaces in your throat and mouth resonate at higher notes", "helium makes your voice box smaller", "helium is louder"], "a": 0},
-    {"t": "fill", "p": "Elephants call to each other with sounds too low for us to hear, called ____.", "a": ["infrasound"]},
-    {"t": "sort", "p": "Could this sound be heard on the Moon, where there is no air?", "items": ["a hammer tapped while touching your helmet", "a shout across 10 metres", "a radio message", "a rock falling 50 metres away"], "cats": ["yes", "no"]},
-    {"t": "mcq", "p": "Pythagoras is said to have heard hammers of different weights giving different notes. Experiments show that…", "opts": ["the story works exactly as told", "hammer weight hardly changes the note like that, but string length does", "hammers make no sound"], "a": 1}]],
-   ["B. What if and why", [
-    {"t": "write", "p": "Design a fair test to find out whether a tighter cling-film drum gives a higher pitch. Name the independent, dependent and control variables.", "lines": 5},
-    {"t": "write", "p": "A city wants to build a road through a forest. A bat scientist says the noise could harm the bats even if no trees are cut. Why might she say that? What evidence would you want?", "lines": 4},
-    {"t": "write", "p": "The tabla makers knew how to make a perfect syahi long before Raman measured it. Whose knowledge is it? How should a book about the science of drums give credit?", "lines": 4}]]]}
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Volume, pitch and how sound travels",
+   "day": 4,
+   "sections": [
+    [
+     "A. How sound travels",
+     [
+      {
+       "t": "mcq",
+       "p": "Sound travels from a drum to your ear because…",
+       "opts": [
+        "tiny bits of drum fly into your ear",
+        "the vibration is passed from particle to particle in the air",
+        "light carries it"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Where does sound travel fastest?",
+       "items": [
+        "steel",
+        "air",
+        "water"
+       ],
+       "cats": [
+        "fastest",
+        "middle",
+        "slowest"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A space with no particles at all, where sound cannot travel, is called a ____.",
+       "a": [
+        "vacuum"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "You see lightning and hear thunder 6 seconds later. The storm is about…",
+       "opts": [
+        "6 km away",
+        "2 km away",
+        "right overhead"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Volume and pitch",
+     [
+      {
+       "t": "match",
+       "p": "Match the word to its meaning.",
+       "pairs": [
+        [
+         "volume",
+         "how loud or quiet"
+        ],
+        [
+         "pitch",
+         "how high or low"
+        ],
+        [
+         "amplitude",
+         "how big the vibration is"
+        ],
+        [
+         "frequency",
+         "how many vibrations each second"
+        ],
+        [
+         "decibel",
+         "unit of loudness"
+        ],
+        [
+         "hertz",
+         "unit of frequency"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "You hit a drum harder. The sound gets…",
+       "opts": [
+        "louder, same pitch",
+        "higher, same volume",
+        "quieter and lower"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A shorter ruler twanged over a table edge vibrates…",
+       "opts": [
+        "slower, so lower pitch",
+        "faster, so higher pitch",
+        "the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "High pitch or low pitch?",
+       "items": [
+        "a mosquito's whine",
+        "a lion's roar",
+        "a whistle",
+        "a tuba",
+        "a baby bird cheeping",
+        "thunder"
+       ],
+       "cats": [
+        "high pitch",
+        "low pitch"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Why does sound travel better through a wooden table than through air? Use the word 'particles'.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why can astronauts on a spacewalk not hear each other without a radio?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Changing sounds",
+   "day": 8,
+   "sections": [
+    [
+     "A. Strings and air",
+     [
+      {
+       "t": "sort",
+       "p": "Does it make the pitch higher or lower?",
+       "items": [
+        "make the string shorter",
+        "use a thicker string",
+        "make the string tighter",
+        "make the flute's air column longer",
+        "use a thinner string",
+        "loosen the string"
+       ],
+       "cats": [
+        "higher",
+        "lower"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "You tap four bottles with different amounts of water. The fullest bottle sounds…",
+       "opts": [
+        "highest",
+        "lowest",
+        "the same as the rest"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "You blow across the same four bottles. Now the fullest bottle sounds…",
+       "opts": [
+        "highest",
+        "lowest",
+        "silent"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The hollow body of a veena makes the string's sound louder. This is called ____.",
+       "a": [
+        "resonance"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Muffling and fair tests",
+     [
+      {
+       "t": "match",
+       "p": "In our muffler test, name each variable.",
+       "pairs": [
+        [
+         "the material wrapped round the phone",
+         "independent variable"
+        ],
+        [
+         "the loudness we measured",
+         "dependent variable"
+        ],
+        [
+         "the same phone, alarm and distance",
+         "control variables"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Good muffler or poor muffler?",
+       "items": [
+        "woollen sweater",
+        "steel plate",
+        "egg tray",
+        "glass",
+        "thick curtain",
+        "cushion"
+       ],
+       "cats": [
+        "good muffler",
+        "poor muffler"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Noise over about 85 dB for many hours can…",
+       "opts": [
+        "make your hearing better",
+        "slowly damage your hearing for good",
+        "only bother animals"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A bat finds a moth in the dark by…",
+       "opts": [
+        "infrasound",
+        "ultrasound echoes",
+        "light from its eyes"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Reason",
+     [
+      {
+       "t": "write",
+       "p": "Rina says her muffler test was not fair because she stood closer to the phone for the towel test. Why does that matter? How would you fix it?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Explain the bottle puzzle: why does adding water make the tapped note lower but the blown note higher?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like an acoustic scientist",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Why do you hear a train coming sooner with your ear on the rail? (Never try this on a real railway!)",
+       "opts": [
+        "sound travels faster and fades less in steel",
+        "the rail is warmer",
+        "trains are louder underground"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A sitar player presses a string halfway along its length. The note…",
+       "opts": [
+        "goes higher",
+        "goes lower",
+        "gets louder only"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why does a helium balloon voice sound squeaky? (Helium is a gas much lighter than air.)",
+       "opts": [
+        "sound travels faster in helium, so the air spaces in your throat and mouth resonate at higher notes",
+        "helium makes your voice box smaller",
+        "helium is louder"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Elephants call to each other with sounds too low for us to hear, called ____.",
+       "a": [
+        "infrasound"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Could this sound be heard on the Moon, where there is no air?",
+       "items": [
+        "a hammer tapped while touching your helmet",
+        "a shout across 10 metres",
+        "a radio message",
+        "a rock falling 50 metres away"
+       ],
+       "cats": [
+        "yes",
+        "no"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Pythagoras is said to have heard hammers of different weights giving different notes. Experiments show that…",
+       "opts": [
+        "the story works exactly as told",
+        "hammer weight hardly changes the note like that, but string length does",
+        "hammers make no sound"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. What if and why",
+     [
+      {
+       "t": "write",
+       "p": "Design a fair test to find out whether a tighter cling-film drum gives a higher pitch. Name the independent, dependent and control variables.",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "A city wants to build a road through a forest. A bat scientist says the noise could harm the bats even if no trees are cut. Why might she say that? What evidence would you want?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "The tabla makers knew how to make a perfect syahi long before Raman measured it. Whose knowledge is it? How should a book about the science of drums give credit?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
  ],
  "experiments": [
-  {"id": "e1", "title": "The spoon bell and the rippling glass", "day": 1, "question": "Does sound travel better through string than through air?", "need": ["a steel spoon", "1 metre of string", "a steel glass", "a bowl of water", "a spoon to tap with"], "steps": ["Tie the spoon to the middle of the string.", "Wrap the string ends round your index fingers and let the spoon hang.", "Swing it gently against a table edge and listen.", "Now press your fingertips gently against the openings of your ears (not inside) and swing it again.", "Tap the steel glass hard, then dip the rim into a bowl of water at once. Watch the surface."], "predict": "Ask: 'Will the spoon sound different when the string touches your ears?'", "observe": "Through the string the spoon sounds loud and deep, like a temple bell. The ringing glass makes ripples or tiny splashes on the water.", "why": "The string's particles are packed closely, so they pass on the spoon's vibration with little loss, straight to the bones around your ears. Through the air much of the vibration spreads out. The ripples show that a ringing glass is really vibrating, even when it looks still.", "safety": "Swing the spoon gently; keep it away from faces.", "time": "14 min"},
-  {"id": "e2", "title": "Fair test: what carries sound best?", "day": 2, "question": "Does sound travel better through solids, liquids or gases?", "need": ["a wooden table or plank", "a balloon filled with water and tied", "a string telephone (two cups, 3 metres of string)", "a coin", "a sound-meter app or a 0–5 loudness scale"], "steps": ["Agree the variables and write them down: independent (the material), dependent (loudness heard), control (same coin tap, same strength, same distance of 1 metre, same listener and ear).", "Air: your child listens 1 metre from where you tap the coin on a small block.", "Wood: your child puts their ear on the table 1 metre from where you tap the table.", "Water: your child holds the water balloon against their ear while you tap the far side of the balloon with the coin at the same strength.", "String: your child listens through the tight string telephone while you tap your cup.", "Repeat each test three times and record the scores in a table."], "predict": "Ask your child to rank the four before testing.", "observe": "Wood and water usually sound much louder than air; the tight string is loud too. Repeating shows whether the results are reliable.", "why": "In solids and liquids the particles are much closer together than in a gas, so they pass on the vibration more easily and with less loss. Sound also travels faster in them: about 340 m/s in air, about 1,500 m/s in water, and several thousand m/s in wood or steel.", "safety": "Tap gently; nothing goes inside the ear.", "time": "20 min"},
-  {"id": "e3", "title": "Bigger shake, louder sound", "day": 3, "question": "What changes about a vibration when a sound gets louder?", "need": ["a steel bowl with cling film stretched tight", "a pinch of rice", "a rubber band"], "steps": ["Put the rice on the cling-film drum.", "Tap gently, then harder, then hardest. Watch how high the rice jumps.", "Stretch a rubber band over a box and pluck it gently, then pull it further before letting go.", "Listen to both the loudness and the pitch each time."], "predict": "Ask: 'If we hit harder, will the sound be louder, higher, or both?'", "observe": "Harder taps make the rice jump higher and the sound louder. The pitch stays about the same.", "why": "Hitting harder makes the drum skin move further back and forth: a bigger amplitude. That pushes the air particles harder, so more energy reaches your ear and the sound is louder. How fast it vibrates (and so the pitch) depends on the drum, not on how hard you hit it.", "safety": "", "time": "12 min"},
-  {"id": "e4", "title": "The ruler twang", "day": 4, "question": "How does the length of a vibrating object change its pitch?", "need": ["a 30 cm ruler", "a table"], "steps": ["Hold the ruler firmly flat on the table edge with 25 cm hanging over.", "Push the free end down and let go. Listen and watch.", "Repeat with 20 cm, 15 cm, 10 cm and 5 cm over the edge.", "Record: pitch (higher or lower than the last) and how fast the end moved."], "predict": "Ask: 'Will a shorter ruler sound higher or lower?'", "observe": "The shorter the free part, the faster it vibrates (it becomes a blur) and the higher the pitch. A very long overhang wobbles slowly and you may not hear a note at all.", "why": "A shorter, stiffer piece springs back more quickly, so it vibrates more times each second: a higher frequency. Our ears hear a higher frequency as a higher pitch. Very slow wobbles (below about 20 a second) are too low for us to hear at all.", "safety": "Hold the ruler firmly so it doesn't fly up; keep faces back.", "time": "14 min"},
-  {"id": "e5", "title": "The bottle jal tarang puzzle", "day": 5, "question": "Does adding water make a bottle's note higher or lower?", "need": ["4 identical glass bottles", "water", "a steel spoon", "a jug"], "steps": ["Put a little water in bottle 1, a quarter in bottle 2, half in bottle 3 and three-quarters in bottle 4.", "Tap each bottle gently on the side with the spoon. Put them in order from lowest to highest note.", "Now blow gently across the top of each bottle until it hoots. Put them in order again.", "Add or pour out water to tune the blown bottles to a simple tune, such as the first notes of 'Sa Re Ga Ma'."], "predict": "Ask: 'Which bottle will have the highest note when you tap? When you blow?'", "observe": "When tapped, the fullest bottle is lowest. When blown, the fullest bottle is highest. The orders are opposite.", "why": "Different things vibrate. Tapping makes the glass and water vibrate: more water means more mass to move, so slower vibrations and a lower pitch. Blowing makes the column of air above the water vibrate: more water leaves a shorter air column, which vibrates faster and gives a higher pitch, just as in a flute or a bansuri.", "safety": "Tap gently so the glass doesn't crack; a grown-up handles any broken glass.", "time": "17 min"},
-  {"id": "e6", "title": "Fair test: the best muffler", "day": 6, "question": "Which material is best at muffling sound?", "need": ["a phone with an alarm", "a small cardboard box", "a cotton towel, newspaper, aluminium foil, a woollen sweater, bubble wrap", "a sound-meter app or a measuring tape"], "steps": ["Write the variables: independent (the wrapping material), dependent (loudness, in dB, from 1 metre away, or the number of steps away before you can't hear it), control (same phone, same alarm, same volume, same box, same distance, same amount of material).", "Measure the alarm in the open box first, with nothing round it.", "Wrap the box in each material in turn, using two layers each time, and measure again.", "Repeat each one twice and record in a table.", "Rank the materials from best to worst muffler."], "predict": "Ask your child to rank the materials before testing.", "observe": "Thick, soft, fluffy materials such as the sweater and towel muffle best. Foil and newspaper muffle less.", "why": "Soft, fluffy materials are full of tiny pockets of air and loose fibres. When sound hits them, the vibration makes the fibres rub and bend, which turns the sound energy into a tiny amount of heat instead of passing it on. Hard, smooth surfaces reflect sound instead, which is why empty rooms echo.", "safety": "", "time": "20 min"}
+  {
+   "id": "e1",
+   "title": "The spoon bell and the rippling glass",
+   "day": 1,
+   "question": "Does sound travel better through string than through air?",
+   "need": [
+    "a steel spoon",
+    "1 metre of string",
+    "a steel glass",
+    "a bowl of water",
+    "a spoon to tap with"
+   ],
+   "steps": [
+    "Tie the spoon to the middle of the string.",
+    "Wrap the string ends round your index fingers and let the spoon hang.",
+    "Swing it gently against a table edge and listen.",
+    "Now press your fingertips gently against the openings of your ears (not inside) and swing it again.",
+    "Tap the steel glass hard, then dip the rim into a bowl of water at once. Watch the surface."
+   ],
+   "predict": "Ask: 'Will the spoon sound different when the string touches your ears?'",
+   "observe": "Through the string the spoon sounds loud and deep, like a temple bell. The ringing glass makes ripples or tiny splashes on the water.",
+   "why": "The string's particles are packed closely, so they pass on the spoon's vibration with little loss, straight to the bones around your ears. Through the air much of the vibration spreads out. The ripples show that a ringing glass is really vibrating, even when it looks still.",
+   "safety": "Swing the spoon gently; keep it away from faces.",
+   "time": "14 min"
+  },
+  {
+   "id": "e2",
+   "title": "Fair test: what carries sound best?",
+   "day": 2,
+   "question": "Does sound travel better through solids, liquids or gases?",
+   "need": [
+    "a wooden table or plank",
+    "a balloon filled with water and tied",
+    "a string telephone (two cups, 3 metres of string)",
+    "a coin",
+    "a sound-meter app or a 0–5 loudness scale"
+   ],
+   "steps": [
+    "Agree the variables and write them down: independent (the material), dependent (loudness heard), control (same coin tap, same strength, same distance of 1 metre, same listener and ear).",
+    "Air: your child listens 1 metre from where you tap the coin on a small block.",
+    "Wood: your child puts their ear on the table 1 metre from where you tap the table.",
+    "Water: your child holds the water balloon against their ear while you tap the far side of the balloon with the coin at the same strength.",
+    "String: your child listens through the tight string telephone while you tap your cup.",
+    "Repeat each test three times and record the scores in a table."
+   ],
+   "predict": "Ask your child to rank the four before testing.",
+   "observe": "Wood and water usually sound much louder than air; the tight string is loud too. Repeating shows whether the results are reliable.",
+   "why": "In solids and liquids the particles are much closer together than in a gas, so they pass on the vibration more easily and with less loss. Sound also travels faster in them: about 340 m/s in air, about 1,500 m/s in water, and several thousand m/s in wood or steel.",
+   "safety": "Tap gently; nothing goes inside the ear.",
+   "time": "20 min"
+  },
+  {
+   "id": "e3",
+   "title": "Bigger shake, louder sound",
+   "day": 3,
+   "question": "What changes about a vibration when a sound gets louder?",
+   "need": [
+    "a steel bowl with cling film stretched tight",
+    "a pinch of rice",
+    "a rubber band"
+   ],
+   "steps": [
+    "Put the rice on the cling-film drum.",
+    "Tap gently, then harder, then hardest. Watch how high the rice jumps.",
+    "Stretch a rubber band over a box and pluck it gently, then pull it further before letting go.",
+    "Listen to both the loudness and the pitch each time."
+   ],
+   "predict": "Ask: 'If we hit harder, will the sound be louder, higher, or both?'",
+   "observe": "Harder taps make the rice jump higher and the sound louder. The pitch stays about the same.",
+   "why": "Hitting harder makes the drum skin move further back and forth: a bigger amplitude. That pushes the air particles harder, so more energy reaches your ear and the sound is louder. How fast it vibrates (and so the pitch) depends on the drum, not on how hard you hit it.",
+   "safety": "",
+   "time": "12 min"
+  },
+  {
+   "id": "e4",
+   "title": "The ruler twang",
+   "day": 4,
+   "question": "How does the length of a vibrating object change its pitch?",
+   "need": [
+    "a 30 cm ruler",
+    "a table"
+   ],
+   "steps": [
+    "Hold the ruler firmly flat on the table edge with 25 cm hanging over.",
+    "Push the free end down and let go. Listen and watch.",
+    "Repeat with 20 cm, 15 cm, 10 cm and 5 cm over the edge.",
+    "Record: pitch (higher or lower than the last) and how fast the end moved."
+   ],
+   "predict": "Ask: 'Will a shorter ruler sound higher or lower?'",
+   "observe": "The shorter the free part, the faster it vibrates (it becomes a blur) and the higher the pitch. A very long overhang wobbles slowly and you may not hear a note at all.",
+   "why": "A shorter, stiffer piece springs back more quickly, so it vibrates more times each second: a higher frequency. Our ears hear a higher frequency as a higher pitch. Very slow wobbles (below about 20 a second) are too low for us to hear at all.",
+   "safety": "Hold the ruler firmly so it doesn't fly up; keep faces back.",
+   "time": "14 min"
+  },
+  {
+   "id": "e5",
+   "title": "The bottle jal tarang puzzle",
+   "day": 5,
+   "question": "Does adding water make a bottle's note higher or lower?",
+   "need": [
+    "4 identical glass bottles",
+    "water",
+    "a steel spoon",
+    "a jug"
+   ],
+   "steps": [
+    "Put a little water in bottle 1, a quarter in bottle 2, half in bottle 3 and three-quarters in bottle 4.",
+    "Tap each bottle gently on the side with the spoon. Put them in order from lowest to highest note.",
+    "Now blow gently across the top of each bottle until it hoots. Put them in order again.",
+    "Add or pour out water to tune the blown bottles to a simple tune, such as the first notes of 'Sa Re Ga Ma'."
+   ],
+   "predict": "Ask: 'Which bottle will have the highest note when you tap? When you blow?'",
+   "observe": "When tapped, the fullest bottle is lowest. When blown, the fullest bottle is highest. The orders are opposite.",
+   "why": "Different things vibrate. Tapping makes the glass and water vibrate: more water means more mass to move, so slower vibrations and a lower pitch. Blowing makes the column of air above the water vibrate: more water leaves a shorter air column, which vibrates faster and gives a higher pitch, just as in a flute or a bansuri.",
+   "safety": "Tap gently so the glass doesn't crack; a grown-up handles any broken glass.",
+   "time": "17 min"
+  },
+  {
+   "id": "e6",
+   "title": "Fair test: the best muffler",
+   "day": 6,
+   "question": "Which material is best at muffling sound?",
+   "need": [
+    "a phone with an alarm",
+    "a small cardboard box",
+    "a cotton towel, newspaper, aluminium foil, a woollen sweater, bubble wrap",
+    "a sound-meter app or a measuring tape"
+   ],
+   "steps": [
+    "Write the variables: independent (the wrapping material), dependent (loudness, in dB, from 1 metre away, or the number of steps away before you can't hear it), control (same phone, same alarm, same volume, same box, same distance, same amount of material).",
+    "Measure the alarm in the open box first, with nothing round it.",
+    "Wrap the box in each material in turn, using two layers each time, and measure again.",
+    "Repeat each one twice and record in a table.",
+    "Rank the materials from best to worst muffler."
+   ],
+   "predict": "Ask your child to rank the materials before testing.",
+   "observe": "Thick, soft, fluffy materials such as the sweater and towel muffle best. Foil and newspaper muffle less.",
+   "why": "Soft, fluffy materials are full of tiny pockets of air and loose fibres. When sound hits them, the vibration makes the fibres rub and bend, which turns the sound energy into a tiny amount of heat instead of passing it on. Hard, smooth surfaces reflect sound instead, which is why empty rooms echo.",
+   "safety": "",
+   "time": "20 min"
+  }
  ],
  "activities": [
-  {"id": "a1", "title": "Decibel detectives and the noise survey", "day": 3, "mins": 15, "need": ["a phone with a free sound-meter app, or a 0–5 loudness scale", "a notebook"], "steps": ["Make a table: sound, place, time, loudness (dB or 0–5).", "At home, measure a whisper, talking, the mixer, the TV and a pressure cooker whistle.", "On Day 7, use the same table outdoors: inside the home, at the gate, beside the main road and in a quiet place.", "Mark every reading above 85 dB in red.", "Draw a bar chart of the outdoor readings."], "outcome": "A table and bar chart of real noise levels, and a list of who is exposed to the loudest ones."},
-  {"id": "a2", "title": "Rubber-band box guitar", "day": 5, "mins": 18, "need": ["an open shoebox or tiffin", "5 rubber bands of different thicknesses", "a pencil"], "steps": ["Stretch the rubber bands across the open box, thinnest to thickest.", "Slide a pencil under them near one end as a bridge.", "Pluck each band. Which is highest?", "Pull one band tighter by wrapping it round the box once more. Pluck again.", "Press one band down on the pencil with a finger at different places to make it shorter. Pluck.", "Write three rules for pitch: length, tightness and thickness."], "outcome": "A playable guitar and three tested rules for changing pitch."}
+  {
+   "id": "a1",
+   "title": "Decibel detectives and the noise survey",
+   "day": 3,
+   "mins": 15,
+   "need": [
+    "a phone with a free sound-meter app, or a 0–5 loudness scale",
+    "a notebook"
+   ],
+   "steps": [
+    "Make a table: sound, place, time, loudness (dB or 0–5).",
+    "At home, measure a whisper, talking, the mixer, the TV and a pressure cooker whistle.",
+    "On Day 8, use the same table outdoors: inside the home, at the gate, beside the main road and in a quiet place.",
+    "Mark every reading above 85 dB in red.",
+    "Draw a bar chart of the outdoor readings."
+   ],
+   "outcome": "A table and bar chart of real noise levels, and a list of who is exposed to the loudest ones."
+  },
+  {
+   "id": "a2",
+   "title": "Rubber-band box guitar",
+   "day": 5,
+   "mins": 18,
+   "need": [
+    "an open shoebox or tiffin",
+    "5 rubber bands of different thicknesses",
+    "a pencil"
+   ],
+   "steps": [
+    "Stretch the rubber bands across the open box, thinnest to thickest.",
+    "Slide a pencil under them near one end as a bridge.",
+    "Pluck each band. Which is highest?",
+    "Pull one band tighter by wrapping it round the box once more. Pluck again.",
+    "Press one band down on the pencil with a finger at different places to make it shorter. Pluck.",
+    "Write three rules for pitch: length, tightness and thickness."
+   ],
+   "outcome": "A playable guitar and three tested rules for changing pitch."
+  }
  ],
  "voices": [
-  {"id": "v1", "who": "Lazzaro Spallanzani (1729–1799), Italy, Louis Jurine (1751–1819), Switzerland, and Donald Griffin (1915–2003), USA", "idea": "In the 1790s Spallanzani found that bats that could not see still flew through a room strung with threads without hitting them. Jurine, a surgeon in Geneva, then plugged bats' ears, and they crashed. Spallanzani confirmed it and concluded that bats find their way with their ears.", "then": "Most scientists mocked the idea, because no one could hear bats making any sound. The famous naturalist Georges Cuvier argued that bats used a fine sense of touch in their wings. For almost 140 years the 'ear' idea was largely ignored.", "now": "In 1938 Donald Griffin, with a special microphone built by the physicist G.W. Pierce, detected the bats' ultrasound calls, and with Robert Galambos proved that bats find their way by echoes. He named it echolocation. Spallanzani and Jurine were right; they just lacked a way to detect the sound.", "status": "accepted", "ask": "Spallanzani had strong evidence but no one could hear the sounds. Should scientists believe a result before they understand how it works? What would have convinced you?", "day": 2},
-  {"id": "v2", "who": "C.V. Raman (1888–1970), India", "idea": "Raman, who later won the Nobel Prize for his work on light, also studied the physics of musical instruments. In papers from 1920 onwards he showed that the tabla and mridangam are unusual: most drums give a muddle of unrelated vibrations, but the black loaded patch (syahi) in the centre of the skin tunes the vibrations so that they ring together like a musical note with harmonics.", "then": "Many European scientists of the time thought of drums as noise-makers, not true musical instruments. Raman showed with careful experiments that Indian drum makers had solved a hard physics problem.", "now": "It is accepted, and scientists still use mathematics and computers to study exactly how the syahi works. The drum makers who developed the syahi over centuries, mostly unnamed craftspeople, never wrote it down as physics but knew it by ear and hand.", "status": "accepted", "ask": "The drum makers knew how to make the syahi; Raman explained why it works. Which is the bigger discovery? Can you discover something without writing it down?", "day": 4},
-  {"id": "v3", "who": "Katy Payne (born 1937) and Roger Payne (1935–2023), USA, and Frank Watlington", "idea": "In the 1950s and 60s Frank Watlington, an engineer working on underwater microphones for the US Navy off Bermuda, recorded strange long sounds from humpback whales and shared them with the Paynes. Roger Payne and Scott McVay showed in 1971 that the sounds were songs, with themes that repeat. Katy Payne discovered that the songs slowly change, and all the whales in an area change their song together, year after year.", "then": "Many scientists doubted that animals other than birds and people could have changing songs that are passed on. The recordings, released as an album in 1970, became famous and helped the campaign to stop the hunting of whales.", "now": "It is accepted. Later research has found that new songs can spread from one ocean population to another over a few years, like a fashion. Why the whales sing and why the songs change is still debated.", "status": "accepted", "ask": "The whale songs were first recorded by someone who was looking for submarines. How often do you think big discoveries come from people who were looking for something else?", "day": 6},
-  {"id": "v4", "who": "Lilach Hadany and colleagues, Tel Aviv University, Israel (published 2019)", "idea": "Marine Veits, Lilach Hadany and colleagues played the sound of a flying bee to beach evening primrose flowers. Within about three minutes the flowers' nectar became sweeter, while flowers played silence or high-pitched sounds did not change. The bowl-shaped petals vibrated at the bee's frequency, like an ear.", "then": "Some scientists were excited: plants might 'hear' their pollinators. Others asked for the test to be repeated by other teams, with more flowers and more careful controls.", "now": "It is debated. The result is intriguing but has not yet been widely repeated, and nobody knows how many plants might respond to sound, or how.", "status": "debated", "ask": "One study found an exciting result. What would you need to see before you believed that flowers can hear bees?", "day": 7}
+  {
+   "id": "v1",
+   "who": "Lazzaro Spallanzani (1729–1799), Italy, Louis Jurine (1751–1819), Switzerland, and Donald Griffin (1915–2003), USA",
+   "idea": "In the 1790s Spallanzani found that bats that could not see still flew through a room strung with threads without hitting them. Jurine, a surgeon in Geneva, then plugged bats' ears, and they crashed. Spallanzani confirmed it and concluded that bats find their way with their ears.",
+   "then": "Most scientists mocked the idea, because no one could hear bats making any sound. The famous naturalist Georges Cuvier argued that bats used a fine sense of touch in their wings. For almost 140 years the 'ear' idea was largely ignored.",
+   "now": "In 1938 Donald Griffin, with a special microphone built by the physicist G.W. Pierce, detected the bats' ultrasound calls, and with Robert Galambos proved that bats find their way by echoes. He named it echolocation. Spallanzani and Jurine were right; they just lacked a way to detect the sound.",
+   "status": "accepted",
+   "ask": "Spallanzani had strong evidence but no one could hear the sounds. Should scientists believe a result before they understand how it works? What would have convinced you?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "C.V. Raman (1888–1970), India",
+   "idea": "Raman, who later won the Nobel Prize for his work on light, also studied the physics of musical instruments. In papers from 1920 onwards he showed that the tabla and mridangam are unusual: most drums give a muddle of unrelated vibrations, but the black loaded patch (syahi) in the centre of the skin tunes the vibrations so that they ring together like a musical note with harmonics.",
+   "then": "Many European scientists of the time thought of drums as noise-makers, not true musical instruments. Raman showed with careful experiments that Indian drum makers had solved a hard physics problem.",
+   "now": "It is accepted, and scientists still use mathematics and computers to study exactly how the syahi works. The drum makers who developed the syahi over centuries, mostly unnamed craftspeople, never wrote it down as physics but knew it by ear and hand.",
+   "status": "accepted",
+   "ask": "The drum makers knew how to make the syahi; Raman explained why it works. Which is the bigger discovery? Can you discover something without writing it down?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Katy Payne (born 1937) and Roger Payne (1935–2023), USA, and Frank Watlington",
+   "idea": "In the 1950s and 60s Frank Watlington, an engineer working on underwater microphones for the US Navy off Bermuda, recorded strange long sounds from humpback whales and shared them with the Paynes. Roger Payne and Scott McVay showed in 1971 that the sounds were songs, with themes that repeat. Katy Payne discovered that the songs slowly change, and all the whales in an area change their song together, year after year.",
+   "then": "Many scientists doubted that animals other than birds and people could have changing songs that are passed on. The recordings, released as an album in 1970, became famous and helped the campaign to stop the hunting of whales.",
+   "now": "It is accepted. Later research has found that new songs can spread from one ocean population to another over a few years, like a fashion. Why the whales sing and why the songs change is still debated.",
+   "status": "accepted",
+   "ask": "The whale songs were first recorded by someone who was looking for submarines. How often do you think big discoveries come from people who were looking for something else?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Lilach Hadany and colleagues, Tel Aviv University, Israel (published 2019)",
+   "idea": "Marine Veits, Lilach Hadany and colleagues played the sound of a flying bee to beach evening primrose flowers. Within about three minutes the flowers' nectar became sweeter, while flowers played silence or high-pitched sounds did not change. The bowl-shaped petals vibrated at the bee's frequency, like an ear.",
+   "then": "Some scientists were excited: plants might 'hear' their pollinators. Others asked for the test to be repeated by other teams, with more flowers and more careful controls.",
+   "now": "It is debated. The result is intriguing but has not yet been widely repeated, and nobody knows how many plants might respond to sound, or how.",
+   "status": "debated",
+   "ask": "One study found an exciting result. What would you need to see before you believed that flowers can hear bees?",
+   "day": 8
+  }
  ],
- "project": {"title": "Noise in my community", "days": [3, 7], "steps": ["On Day 3, measure sounds at home and learn the decibel ladder.", "On Day 7, with a grown-up, measure for one minute in four places: inside your home, at the gate, beside the main road and in the quietest place you can find.", "Record what made the sound in each place and the time of day.", "Make a bar chart and mark readings above 85 dB in red.", "Write three sentences: Who is exposed to the loudest noise, and for how long? Which animals live there? What is one change that would make the loudest place quieter?", "Share your chart with a neighbour, your residents' association or your school."], "outcome": "A noise chart of your neighbourhood, a list of who and what it affects, and one suggestion for making it quieter."},
- "game": {"id": "g1", "title": "Higher or Louder?", "kind": "cards", "players": "2–4", "need": ["scissors", "the printed cards"],
-  "rules": ["Cut out the question cards and shuffle them face down. Put the four category cards face up.", "On your turn, take the top card and read the front aloud.", "Say your answer and which category it belongs to: PITCH, VOLUME, TRAVEL or HEARING.", "Turn the card over. If you are right, keep it. If you are wrong, put it at the bottom of the pile, and test it with the ruler, bands or bottles if you can.", "When the pile is finished, the player with the most cards wins."],
+ "project": {
+  "title": "Noise in my community",
+  "days": [
+   3,
+   8
+  ],
+  "steps": [
+   "On Day 3, measure sounds at home and learn the decibel ladder.",
+   "On Day 8, with a grown-up, measure for one minute in four places: inside your home, at the gate, beside the main road and in the quietest place you can find.",
+   "Record what made the sound in each place and the time of day.",
+   "Make a bar chart and mark readings above 85 dB in red.",
+   "Write three sentences: Who is exposed to the loudest noise, and for how long? Which animals live there? What is one change that would make the loudest place quieter?",
+   "Share your chart with a neighbour, your residents' association or your school."
+  ],
+  "outcome": "A noise chart of your neighbourhood, a list of who and what it affects, and one suggestion for making it quieter."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Higher or Louder?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors",
+   "the printed cards"
+  ],
+  "rules": [
+   "Cut out the question cards and shuffle them face down. Put the four category cards face up.",
+   "On your turn, take the top card and read the front aloud.",
+   "Say your answer and which category it belongs to: PITCH, VOLUME, TRAVEL or HEARING.",
+   "Turn the card over. If you are right, keep it. If you are wrong, put it at the bottom of the pile, and test it with the ruler, bands or bottles if you can.",
+   "When the pile is finished, the player with the most cards wins."
+  ],
   "cards": [
-   {"job": true, "front": "PITCH"}, {"job": true, "front": "VOLUME"}, {"job": true, "front": "TRAVEL"}, {"job": true, "front": "HEARING"},
-   {"front": "You make a guitar string shorter. Higher or lower?", "back": "Higher (PITCH)"},
-   {"front": "You loosen a veena string. Higher or lower?", "back": "Lower (PITCH)"},
-   {"front": "Thick rubber band or thin one: which is higher?", "back": "Thin (PITCH)"},
-   {"front": "You blow across a bottle that is nearly full. High or low?", "back": "High: short air column (PITCH)"},
-   {"front": "You tap a bottle that is nearly full. High or low?", "back": "Low: more mass to move (PITCH)"},
-   {"front": "A long flute or a short flute: which plays lower?", "back": "Long (PITCH)"},
-   {"front": "You hit a drum harder. What changes?", "back": "Volume goes up; amplitude is bigger (VOLUME)"},
-   {"front": "Roughly how loud is normal talking?", "back": "About 60 dB (VOLUME)"},
-   {"front": "Above about how many dB, for many hours, can noise damage hearing?", "back": "About 85 dB (VOLUME)"},
-   {"front": "Why does a veena have a big hollow body?", "back": "Resonance makes the sound louder (VOLUME)"},
-   {"front": "Woollen sweater or steel plate: which muffles better?", "back": "Sweater (VOLUME)"},
-   {"front": "Does sound travel fastest in air, water or steel?", "back": "Steel (TRAVEL)"},
-   {"front": "Can sound travel through a vacuum?", "back": "No: no particles to pass it on (TRAVEL)"},
-   {"front": "Thunder comes 9 seconds after lightning. How far away?", "back": "About 3 km (TRAVEL)"},
-   {"front": "How fast is sound in air, roughly?", "back": "About 340 metres a second (TRAVEL)"},
-   {"front": "Why does sound get quieter far away?", "back": "It spreads out in all directions (TRAVEL)"},
-   {"front": "Can young people hear 30,000 hertz?", "back": "No, that's ultrasound (HEARING)"},
-   {"front": "What do bats use to find moths?", "back": "Ultrasound echoes: echolocation (HEARING)"},
-   {"front": "What is sound too low for us to hear called?", "back": "Infrasound (HEARING)"},
-   {"front": "Who usually loses the highest sounds first: children or grandparents?", "back": "Grandparents (HEARING)"},
-   {"front": "Which animals sing songs that change every year?", "back": "Humpback whales (HEARING)"},
-   {"front": "Which flowers may make sweeter nectar when they hear a bee?", "back": "Evening primrose: still debated (HEARING)"}
-  ]},
+   {
+    "job": true,
+    "front": "PITCH"
+   },
+   {
+    "job": true,
+    "front": "VOLUME"
+   },
+   {
+    "job": true,
+    "front": "TRAVEL"
+   },
+   {
+    "job": true,
+    "front": "HEARING"
+   },
+   {
+    "front": "You make a guitar string shorter. Higher or lower?",
+    "back": "Higher (PITCH)"
+   },
+   {
+    "front": "You loosen a veena string. Higher or lower?",
+    "back": "Lower (PITCH)"
+   },
+   {
+    "front": "Thick rubber band or thin one: which is higher?",
+    "back": "Thin (PITCH)"
+   },
+   {
+    "front": "You blow across a bottle that is nearly full. High or low?",
+    "back": "High: short air column (PITCH)"
+   },
+   {
+    "front": "You tap a bottle that is nearly full. High or low?",
+    "back": "Low: more mass to move (PITCH)"
+   },
+   {
+    "front": "A long flute or a short flute: which plays lower?",
+    "back": "Long (PITCH)"
+   },
+   {
+    "front": "You hit a drum harder. What changes?",
+    "back": "Volume goes up; amplitude is bigger (VOLUME)"
+   },
+   {
+    "front": "Roughly how loud is normal talking?",
+    "back": "About 60 dB (VOLUME)"
+   },
+   {
+    "front": "Above about how many dB, for many hours, can noise damage hearing?",
+    "back": "About 85 dB (VOLUME)"
+   },
+   {
+    "front": "Why does a veena have a big hollow body?",
+    "back": "Resonance makes the sound louder (VOLUME)"
+   },
+   {
+    "front": "Woollen sweater or steel plate: which muffles better?",
+    "back": "Sweater (VOLUME)"
+   },
+   {
+    "front": "Does sound travel fastest in air, water or steel?",
+    "back": "Steel (TRAVEL)"
+   },
+   {
+    "front": "Can sound travel through a vacuum?",
+    "back": "No: no particles to pass it on (TRAVEL)"
+   },
+   {
+    "front": "Thunder comes 9 seconds after lightning. How far away?",
+    "back": "About 3 km (TRAVEL)"
+   },
+   {
+    "front": "How fast is sound in air, roughly?",
+    "back": "About 340 metres a second (TRAVEL)"
+   },
+   {
+    "front": "Why does sound get quieter far away?",
+    "back": "It spreads out in all directions (TRAVEL)"
+   },
+   {
+    "front": "Can young people hear 30,000 hertz?",
+    "back": "No, that's ultrasound (HEARING)"
+   },
+   {
+    "front": "What do bats use to find moths?",
+    "back": "Ultrasound echoes: echolocation (HEARING)"
+   },
+   {
+    "front": "What is sound too low for us to hear called?",
+    "back": "Infrasound (HEARING)"
+   },
+   {
+    "front": "Who usually loses the highest sounds first: children or grandparents?",
+    "back": "Grandparents (HEARING)"
+   },
+   {
+    "front": "Which animals sing songs that change every year?",
+    "back": "Humpback whales (HEARING)"
+   },
+   {
+    "front": "Which flowers may make sweeter nectar when they hear a bee?",
+    "back": "Evening primrose: still debated (HEARING)"
+   },
+   {
+    "front": "An ambulance drives towards you, then away. What happens to the siren's pitch?",
+    "back": "Higher coming, lower going: the Doppler effect (PITCH)"
+   },
+   {
+    "front": "Why do people sound better singing in a tiled bathroom?",
+    "back": "Hard walls reflect the sound and it resonates (VOLUME)"
+   }
+  ]
+ },
  "big": [
   "Is noise a kind of pollution, even though you can't see it or touch it? Who should decide how loud a festival or a road can be?",
   "Is music something only humans make, or do whales and birds make music too?",
   "If a flower can respond to a bee's hum, does it 'hear'? What does hearing really mean?",
   "Who owns silence? Is quiet a shared thing, like clean air?",
-  "Would the world be better or worse if we could hear everything a bat or an elephant hears?"
+  "Would the world be better or worse if we could hear everything a bat or an elephant hears?",
+  "When an ambulance passes, its siren sounds higher then lower, but the siren never changes. So which pitch is the real one?"
  ],
  "challenge": [
-  {"q": "An old story says Pythagoras discovered musical notes by hearing blacksmiths' hammers of different weights. Is it true?", "hint": "The story has been told for about 2,000 years, but when people tried it, hammers of different weights do not give notes in the neat way the story says. What is true is that strings whose lengths are in simple ratios (like 2 to 1) sound pleasant together, and the Pythagoreans studied this. Musicians in Babylon, India and China also worked with these ratios. Ask: why might a story stay popular even when it doesn't work?"},
-  {"q": "People say you can hear the sea when you hold a big shell to your ear. Is it the sea?", "hint": "No. The hollow shell resonates with the quiet sounds already around you (and the sound of your own blood flowing) and makes some of them louder, which sounds like waves. Try it with a cupped hand or a steel glass, far from any sea. Ask: how could you test it in a really silent room?"},
-  {"q": "Many people think louder sounds travel faster. Do they?", "hint": "No. In the same air, a whisper and a shout travel at the same speed, about 340 metres a second. Loudness changes how far a sound can be heard, not how fast it goes. Pitch doesn't change the speed either, which is why music played far away still sounds in tune."}
+  {
+   "q": "An old story says Pythagoras discovered musical notes by hearing blacksmiths' hammers of different weights. Is it true?",
+   "hint": "The story has been told for about 2,000 years, but when people tried it, hammers of different weights do not give notes in the neat way the story says. What is true is that strings whose lengths are in simple ratios (like 2 to 1) sound pleasant together, and the Pythagoreans studied this. Musicians in Babylon, India and China also worked with these ratios. Ask: why might a story stay popular even when it doesn't work?"
+  },
+  {
+   "q": "People say you can hear the sea when you hold a big shell to your ear. Is it the sea?",
+   "hint": "No. The hollow shell resonates with the quiet sounds already around you (and the sound of your own blood flowing) and makes some of them louder, which sounds like waves. Try it with a cupped hand or a steel glass, far from any sea. Ask: how could you test it in a really silent room?"
+  },
+  {
+   "q": "Many people think louder sounds travel faster. Do they?",
+   "hint": "No. In the same air, a whisper and a shout travel at the same speed, about 340 metres a second. Loudness changes how far a sound can be heard, not how fast it goes. Pitch doesn't change the speed either, which is why music played far away still sounds in tune."
+  }
  ],
  "perspectives": [
-  {"who": "Evelyn Glennie (born 1965), a Scottish percussionist who is profoundly deaf", "view": "She lost most of her hearing by the age of 12 but became one of the world's great drummers, often performing barefoot to feel the vibrations through the floor. She says hearing is a kind of touch. Ask: is she hearing the music? What does 'hearing' mean?"},
-  {"who": "A traffic police officer at a busy junction", "view": "They stand for hours in noise often above 85 dB, breathing traffic fumes. Ask: who chooses the noise of a city, and who has to live inside it?"},
-  {"who": "A bird in a city", "view": "Scientists have found that some city birds sing louder or at a higher pitch than birds of the same kind in the countryside, so that their songs can be heard over traffic. Ask: how else might noise change the lives of animals that need to hear each other?"},
-  {"who": "A tabla maker in Varanasi or Kolkata", "view": "The craft of making syahi is passed from parent to child, by touch and by ear, and takes years to learn. Ask: is this science? What would be lost if no one learned it?"}
+  {
+   "who": "Evelyn Glennie (born 1965), a Scottish percussionist who is profoundly deaf",
+   "view": "She lost most of her hearing by the age of 12 but became one of the world's great drummers, often performing barefoot to feel the vibrations through the floor. She says hearing is a kind of touch. Ask: is she hearing the music? What does 'hearing' mean?"
+  },
+  {
+   "who": "A traffic police officer at a busy junction",
+   "view": "They stand for hours in noise often above 85 dB, breathing traffic fumes. Ask: who chooses the noise of a city, and who has to live inside it?"
+  },
+  {
+   "who": "A bird in a city",
+   "view": "Scientists have found that some city birds sing louder or at a higher pitch than birds of the same kind in the countryside, so that their songs can be heard over traffic. Ask: how else might noise change the lives of animals that need to hear each other?"
+  },
+  {
+   "who": "A tabla maker in Varanasi or Kolkata",
+   "view": "The craft of making syahi is passed from parent to child, by touch and by ear, and takes years to learn. Ask: is this science? What would be lost if no one learned it?"
+  },
+  {
+   "who": "Al-Jazari (1136–1206), an engineer in the Artuqid kingdom (in today's Turkey)",
+   "view": "In his Book of Knowledge of Ingenious Mechanical Devices (1206) he described a boat of mechanical musicians for royal parties, and later writers say its drummer's rhythm could be changed by moving pegs on a turning wheel, which is why some historians call it an early programmable machine (others say that goes too far). Ask: if a machine plays music, who is the musician: the machine, its builder, or the one who set the pegs?"
+  }
  ],
- "story": {"title": "The Bottle That Was Too Low", "text": [
-  "My Appa collects bottles. Not because he likes them, but because that is his work. Every morning he pushes his cart through the lanes of Mylapore calling 'Paper, bottle, iron, plastic!', and every evening he comes home with the cart rattling, and the bottles go in sacks behind our house: green ones, brown ones, clear ones, tall soda bottles and short fat jam jars.",
-  "I always thought they sounded like nothing. Then, the week before Music Day at school, I heard Parvathi play the jal tarang.",
-  "Parvathi lives three houses down. Her family has a real jal tarang: sixteen white porcelain bowls, each with a different amount of water, arranged in a half-moon on a cloth. She sits cross-legged in the middle and strikes the rims with two thin bamboo sticks, and the notes come out round and clear, like drops of water that have learned to sing.",
-  "“I want to play in the Music Day too,” I said.",
-  "Parvathi looked at me, and then at the sacks of bottles over our wall. She did not laugh. She said, “Then make one.”",
-  "So I did. I took eight bottles, all the same, the tall clear kind from the soda shop. I washed them. I did not tap them, because I did not have proper sticks. Instead I blew across the top of one, the way my cousin had once shown me, and it made a sound like a far-off ship. Hoooo.",
-  "I poured water into each bottle and blew, and listened, and poured a little more, and blew again. It took me four evenings. My lips went numb. Amma said I sounded like a train station. But by Thursday I had eight bottles that went up like the steps of a staircase: Sa, Re, Ga, Ma, Pa, Dha, Ni, Sa.",
-  "On Music Day morning I carried them to school in Appa's cart, wrapped in old newspaper so they would not knock together. When I unwrapped them backstage, the hall was already filling up. I could hear the fans whirring and the parents talking and the headmaster tapping the microphone.",
-  "I blew a quick scale to check. Sa, Re, Ga, Ma, Pa, Dha, Ni… and the last Sa was wrong. It was flat, too low, a sad droopy sound that did not belong at the top of the staircase. Some of the water must have spilled in the cart.",
-  "My stomach went cold. I had one minute, perhaps two.",
-  "Parvathi was next to me, holding her bamboo sticks. She heard it too. “It's too low,” she said quickly. “Take some water out. Quick! When my bowls are too low, I pour a little out.”",
-  "I picked up the bottle to tip it. And then I stopped.",
-  "Because I remembered the four evenings. Every time I had added water, the note had gone up, not down. More water, higher. Less water, lower. I had learned it with my own sore lips.",
-  "“No,” I said. “I have to add water.”",
-  "“That will make it lower!” Parvathi whispered. “I know it does. I've been playing since I was five!”",
-  "There was no time to argue. I grabbed her water jug, poured in a little, a thumb's width, and blew. Higher. A little more. Higher. There: Sa. Clean and bright at the top of the staircase.",
-  "Parvathi stared at me. Then at the bottle. Then at her bowls.",
-  "“Tap it,” she said suddenly, and held out a stick.",
-  "I tapped the side of my bottle. It made a dull plink. I tapped the bottle next to it, with less water. Its plink was higher.",
-  "We looked at each other.",
-  "“When you hit it, the glass and the water shake,” Parvathi said slowly. “More water, heavier, slower shaking. Lower.”",
-  "“When I blow it,” I said, “it's the air that shakes. The air on top of the water. More water, less air. Shorter air. Faster. Higher.”",
-  "“So we're both right,” she said.",
-  "“We're both right because we're shaking different things.”",
-  "Then the teacher called my name, and I walked out on to the stage with my eight soda bottles, and I could see Appa at the very back of the hall, standing, because he had come straight from his rounds and did not want to sit down in his work clothes. I blew Sa, and the whole hall went quiet.",
-  "I played 'Raghupati Raghava', which was the only full song I knew. Halfway through, I heard something behind me: a clear round note, like a drop of water singing. Parvathi had carried her bowls on to the stage and sat down beside me, and she was playing along, her sticks on the rims, my breath across the tops: her water shaking, my air shaking, the same tune.",
-  "Afterwards, the headmaster asked us what the instrument was called. Parvathi looked at me.",
-  "“It doesn't have a name yet,” I said.",
-  "Appa took the bottles home in the cart that evening. But he didn't put them in the sacks. He put them on the shelf by the door, all eight, in a row from Sa to Sa, where the evening light comes through them green and gold."],
+ "story": {
+  "title": "The Bottle That Was Too Low",
+  "text": [
+   "My Appa collects bottles. Not because he likes them, but because that is his work. Every morning he pushes his cart through the lanes of Mylapore calling 'Paper, bottle, iron, plastic!', and every evening he comes home with the cart rattling, and the bottles go in sacks behind our house: green ones, brown ones, clear ones, tall soda bottles and short fat jam jars.",
+   "I always thought they sounded like nothing. Then, the week before Music Day at school, I heard Parvathi play the jal tarang.",
+   "Parvathi lives three houses down. Her family has a real jal tarang: sixteen white porcelain bowls, each with a different amount of water, arranged in a half-moon on a cloth. She sits cross-legged in the middle and strikes the rims with two thin bamboo sticks, and the notes come out round and clear, like drops of water that have learned to sing.",
+   "“I want to play in the Music Day too,” I said.",
+   "Parvathi looked at me, and then at the sacks of bottles over our wall. She did not laugh. She said, “Then make one.”",
+   "So I did. I took eight bottles, all the same, the tall clear kind from the soda shop. I washed them. I did not tap them, because I did not have proper sticks. Instead I blew across the top of one, the way my cousin had once shown me, and it made a sound like a far-off ship. Hoooo.",
+   "I poured water into each bottle and blew, and listened, and poured a little more, and blew again. It took me four evenings. My lips went numb. Amma said I sounded like a train station. But by Thursday I had eight bottles that went up like the steps of a staircase: Sa, Re, Ga, Ma, Pa, Dha, Ni, Sa.",
+   "On Music Day morning I carried them to school in Appa's cart, wrapped in old newspaper so they would not knock together. When I unwrapped them backstage, the hall was already filling up. I could hear the fans whirring and the parents talking and the headmaster tapping the microphone.",
+   "I blew a quick scale to check. Sa, Re, Ga, Ma, Pa, Dha, Ni… and the last Sa was wrong. It was flat, too low, a sad droopy sound that did not belong at the top of the staircase. Some of the water must have spilled in the cart.",
+   "My stomach went cold. I had one minute, perhaps two.",
+   "Parvathi was next to me, holding her bamboo sticks. She heard it too. “It's too low,” she said quickly. “Take some water out. Quick! When my bowls are too low, I pour a little out.”",
+   "I picked up the bottle to tip it. And then I stopped.",
+   "Because I remembered the four evenings. Every time I had added water, the note had gone up, not down. More water, higher. Less water, lower. I had learned it with my own sore lips.",
+   "“No,” I said. “I have to add water.”",
+   "“That will make it lower!” Parvathi whispered. “I know it does. I've been playing since I was five!”",
+   "There was no time to argue. I grabbed her water jug, poured in a little, a thumb's width, and blew. Higher. A little more. Higher. There: Sa. Clean and bright at the top of the staircase.",
+   "Parvathi stared at me. Then at the bottle. Then at her bowls.",
+   "“Tap it,” she said suddenly, and held out a stick.",
+   "I tapped the side of my bottle. It made a dull plink. I tapped the bottle next to it, with less water. Its plink was higher.",
+   "We looked at each other.",
+   "“When you hit it, the glass and the water shake,” Parvathi said slowly. “More water, heavier, slower shaking. Lower.”",
+   "“When I blow it,” I said, “it's the air that shakes. The air on top of the water. More water, less air. Shorter air. Faster. Higher.”",
+   "“So we're both right,” she said.",
+   "“We're both right because we're shaking different things.”",
+   "Then the teacher called my name, and I walked out on to the stage with my eight soda bottles, and I could see Appa at the very back of the hall, standing, because he had come straight from his rounds and did not want to sit down in his work clothes. I blew Sa, and the whole hall went quiet.",
+   "I played 'Raghupati Raghava', which was the only full song I knew. Halfway through, I heard something behind me: a clear round note, like a drop of water singing. Parvathi had carried her bowls on to the stage and sat down beside me, and she was playing along, her sticks on the rims, my breath across the tops: her water shaking, my air shaking, the same tune.",
+   "Afterwards, the headmaster asked us what the instrument was called. Parvathi looked at me.",
+   "“It doesn't have a name yet,” I said.",
+   "Appa took the bottles home in the cart that evening. But he didn't put them in the sacks. He put them on the shelf by the door, all eight, in a row from Sa to Sa, where the evening light comes through them green and gold."
+  ],
   "epiphany": "Pitch depends on what is vibrating and how fast. When you tap a bottle, the glass and water vibrate: more water means more mass and a lower note. When you blow, the air column above the water vibrates: more water means a shorter column, faster vibration and a higher note. The turn comes when Arul trusts what he learned with his own lips over Parvathi's advice, and then the two children discover together that they were shaking different things.",
   "ask": [
    "Why did Parvathi tell Arul to take water out? Was she wrong?",
    "What was really vibrating when Arul blew? When Parvathi tapped?",
    "How did Arul know to add water? Where did his knowledge come from?",
    "Why do you think Appa stood at the back of the hall, and why did he put the bottles on the shelf?",
-   "What would you call their new instrument?"]},
+   "What would you call their new instrument?"
+  ]
+ },
  "ideas": [
-  {"idea": "Sound is not a thing that travels; it is a push that travels.", "more": "No air moves from the drum to your ear. Each particle pushes the next and swings back. Show it with the pass-it-on line and with the spoon bell."},
-  {"idea": "Two numbers describe every simple sound: how big the shake is and how fast it is.", "more": "Amplitude sets the volume and frequency sets the pitch. A tabla, a whale and a mosquito all follow the same two rules. Use the drum (harder, louder) and the ruler (shorter, higher) to show both."},
-  {"idea": "Our ears hear only a small slice of all the sounds in the world.", "more": "Below 20 hertz elephants and whales talk across great distances; above 20,000 hertz bats hunt and plants may click. The world is far noisier and more full of conversation than we can tell."},
-  {"idea": "Noise is shared, like air.", "more": "One loud speaker fills a whole street, and the people and animals who live there cannot switch it off. Who gets to make noise, and who has to hear it, is a fairness question as well as a science one."}
+  {
+   "idea": "Sound is not a thing that travels; it is a push that travels.",
+   "more": "No air moves from the drum to your ear. Each particle pushes the next and swings back. Show it with the pass-it-on line and with the spoon bell."
+  },
+  {
+   "idea": "Two numbers describe every simple sound: how big the shake is and how fast it is.",
+   "more": "Amplitude sets the volume and frequency sets the pitch. A tabla, a whale and a mosquito all follow the same two rules. Use the drum (harder, louder) and the ruler (shorter, higher) to show both. Even the pitch you hear is not fixed: a moving siren sounds higher coming and lower going (the Doppler effect), though the siren itself never changes. What you hear depends on where you stand and how you move."
+  },
+  {
+   "idea": "Our ears hear only a small slice of all the sounds in the world.",
+   "more": "Below 20 hertz elephants and whales talk across great distances; above 20,000 hertz bats hunt and plants may click. The world is far noisier and more full of conversation than we can tell."
+  },
+  {
+   "idea": "Noise is shared, like air.",
+   "more": "One loud speaker fills a whole street, and the people and animals who live there cannot switch it off. Who gets to make noise, and who has to hear it, is a fairness question as well as a science one."
+  }
  ],
  "unknowns": [
   "Why do humpback whales sing, and why do whole populations change their song together? Scientists have ideas, but nobody knows for sure.",
@@ -256,18 +1287,64 @@
   "Why do some combinations of notes sound pleasant and others clash? Part of the answer is physics, but part seems to depend on what music people grew up with, and scientists still argue about how much."
  ],
  "books": [
-  {"title": "Sound: Loud, Soft, High, and Low", "author": "Natalie M. Rosinsky", "for": "read alone", "age": "6–9", "why": "A short, clear picture book on vibration, volume and pitch: a good review before teaching it back."},
-  {"title": "Silent Thunder: In the Presence of Elephants", "author": "Katy Payne", "for": "parent reads", "age": "adult (read parts aloud)", "why": "The scientist who discovered elephant infrasound tells how it happened. Read aloud the part about the zoo in Portland."},
-  {"title": "Good Vibrations", "author": "Evelyn Glennie", "for": "parent reads", "age": "adult (read parts aloud)", "why": "The deaf percussionist's own story of feeling music through her body. Read a few pages to start a talk about what hearing means."}
+  {
+   "title": "Sound: Loud, Soft, High, and Low",
+   "author": "Natalie M. Rosinsky",
+   "for": "read alone",
+   "age": "6–9",
+   "why": "A short, clear picture book on vibration, volume and pitch: a good review before teaching it back."
+  },
+  {
+   "title": "Silent Thunder: In the Presence of Elephants",
+   "author": "Katy Payne",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "The scientist who discovered elephant infrasound tells how it happened. Read aloud the part about the zoo in Portland."
+  },
+  {
+   "title": "Good Vibrations",
+   "author": "Evelyn Glennie",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "The deaf percussionist's own story of feeling music through her body. Read a few pages to start a talk about what hearing means."
+  }
  ],
  "check": [
-  {"q": "How does sound get from a drum to your ear?", "a": "The drum skin vibrates and pushes the air particles next to it, which push the next ones, passing the vibration along until it reaches the eardrum."},
-  {"q": "Why does sound travel better through steel than air, and why not at all in a vacuum?", "a": "In steel the particles are packed closely so they pass on the vibration easily and fast; a vacuum has no particles to pass it on."},
-  {"q": "What is the difference between volume and pitch, and what about the vibration controls each?", "a": "Volume is how loud; it depends on amplitude (how big the vibration is). Pitch is how high or low; it depends on frequency (how fast it vibrates)."},
-  {"q": "Give three ways to make a string's pitch higher.", "a": "Make it shorter, tighter or thinner."},
-  {"q": "Why does adding water make a blown bottle higher but a tapped bottle lower?", "a": "Blowing vibrates the air column, which gets shorter (faster, higher). Tapping vibrates the glass and water, which gets heavier (slower, lower)."},
-  {"q": "In the muffler test, what were the independent, dependent and control variables?", "a": "Independent: the material. Dependent: the loudness measured. Control: same phone, alarm volume, distance, box and amount of material."},
-  {"q": "How did Spallanzani and Jurine find out that bats use their ears to fly in the dark, and why were they doubted?", "a": "Bats that could not see still dodged threads, but bats with plugged ears crashed. People doubted it because no one could hear the bats' sounds, which are ultrasound; Griffin detected them in 1938."},
-  {"q": "Lightning flashes and thunder comes 12 seconds later. How far away is the storm?", "a": "About 4 km."}
+  {
+   "q": "How does sound get from a drum to your ear?",
+   "a": "The drum skin vibrates and pushes the air particles next to it, which push the next ones, passing the vibration along until it reaches the eardrum."
+  },
+  {
+   "q": "Why does sound travel better through steel than air, and why not at all in a vacuum?",
+   "a": "In steel the particles are packed closely so they pass on the vibration easily and fast; a vacuum has no particles to pass it on."
+  },
+  {
+   "q": "What is the difference between volume and pitch, and what about the vibration controls each?",
+   "a": "Volume is how loud; it depends on amplitude (how big the vibration is). Pitch is how high or low; it depends on frequency (how fast it vibrates)."
+  },
+  {
+   "q": "Give three ways to make a string's pitch higher.",
+   "a": "Make it shorter, tighter or thinner."
+  },
+  {
+   "q": "Why does adding water make a blown bottle higher but a tapped bottle lower?",
+   "a": "Blowing vibrates the air column, which gets shorter (faster, higher). Tapping vibrates the glass and water, which gets heavier (slower, lower)."
+  },
+  {
+   "q": "In the muffler test, what were the independent, dependent and control variables?",
+   "a": "Independent: the material. Dependent: the loudness measured. Control: same phone, alarm volume, distance, box and amount of material."
+  },
+  {
+   "q": "How did Spallanzani and Jurine find out that bats use their ears to fly in the dark, and why were they doubted?",
+   "a": "Bats that could not see still dodged threads, but bats with plugged ears crashed. People doubted it because no one could hear the bats' sounds, which are ultrasound; Griffin detected them in 1938."
+  },
+  {
+   "q": "Lightning flashes and thunder comes 12 seconds later. How far away is the storm?",
+   "a": "About 4 km."
+  },
+  {
+   "q": "A train horn sounds higher as the train comes towards you and lower as it goes away. Why?",
+   "a": "The Doppler effect: in front of the moving train the sound waves are squashed closer together (higher pitch) and behind it they are stretched out (lower pitch)."
+  }
  ]
 }

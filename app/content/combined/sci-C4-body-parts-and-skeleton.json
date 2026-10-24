@@ -22,7 +22,7 @@
   "hydrostatic skeletons: bodies held up by water",
   "vertebrates and invertebrates: most animals have no backbone",
   "one bone plan in arm, wing, flipper and leg",
-  "fossils: skeletons tell the stories of lives long ago"
+  "fossils: skeletons tell the stories of lives long ago, and your body is a history book"
  ],
  "goals": [
   "By the end your child can name and point to at least ten bones, including skull, jaw, vertebrae, ribs, collarbone, pelvis and femur.",
@@ -111,7 +111,7 @@
      "kind": "talk",
      "title": "Count the vertebrae",
      "mins": 8,
-     "do": "Your child bends forward and you run your finger gently down the bumps of their spine. Count as many as you can feel. Say: 'Each bump is a vertebra. You have 33 in a stack, with soft cushions between them, and a thick cable of nerves runs down a tunnel through the middle, the spinal cord. That is why the spine bends but must be protected.' Ask: 'Why not one long straight bone instead?' (you could not bend or twist)."
+     "do": "Your child bends forward and you run your finger gently down the bumps of their spine. Count as many as you can feel. Say: 'Each bump is a vertebra. You have 33 in a stack, with soft cushions between them, and a thick cable of nerves runs down a tunnel through the middle, the spinal cord. That is why the spine bends but must be protected.' Ask: 'Why not one long straight bone instead?' (you could not bend or twist). Then do the yoga pose cat-cow on hands and knees, slowly: breathe in and let the tummy drop and the head lift (cow), breathe out and round the back up high (cat). Run your hand down their back in each pose and feel the vertebrae spread and close."
     }
    ],
    "need": [
@@ -252,7 +252,8 @@
      "kind": "talk",
      "title": "Bones grow and mend",
      "mins": 10,
-     "do": "Say: 'Near the ends of your long bones there are growth plates, where new bone is being made. That is how you get taller. When you are grown up they close.' Then: 'If you break a bone, cells in the bone build a bridge across the crack, first soft, then hard. A plaster just holds the pieces still while the bone heals itself.' Ask: 'What makes bones stronger?' Listen for: calcium (milk, curd, ragi, sesame, green leaves), vitamin D (which our skin makes in sunlight), and jumping, running and climbing, because bones get thicker where they are used. Astronauts in space lose bone because nothing presses on it."
+     "do": "Say: 'Near the ends of your long bones there are growth plates, where new bone is being made. That is how you get taller. When you are grown up they close.' Then: 'If you break a bone, cells in the bone build a bridge across the crack, first soft, then hard. A plaster just holds the pieces still while the bone heals itself.' Ask: 'What makes bones stronger?' Listen for: calcium (milk, curd, ragi, sesame, green leaves), vitamin D (which our skin makes in sunlight), and jumping, running and climbing, because bones get thicker where they are used. Astronauts in space lose bone because nothing presses on it.' Tell them about voice v4, Mae Jemison, and ask its question.",
+     "ref": "v4"
     },
     {
      "kind": "talk",
@@ -326,7 +327,7 @@
      "kind": "act",
      "title": "Same bones, different jobs",
      "mins": 15,
-     "do": "Do Activity a2. Draw (or print) four outlines: a human arm, a bird's wing, a whale's flipper, a bat's wing. In each, your child colours the one upper-arm bone red, the two forearm bones blue, and the wrist and finger bones yellow, following the pattern you draw first on the human arm. Ask: 'Why would a whale have finger bones hidden inside a flipper?' Good answer: whales came from land animals with legs and fingers, and the old bones were reshaped. Say: 'This is one of the clues that all animals with backbones are related.'",
+     "do": "Do Activity a2. Draw (or print) four outlines: a human arm, a bird's wing, a whale's flipper, a bat's wing. In each, your child colours the one upper-arm bone red, the two forearm bones blue, and the wrist and finger bones yellow, following the pattern you draw first on the human arm. Ask: 'Why would a whale have finger bones hidden inside a flipper?' Good answer: whales came from land animals with legs and fingers, and the old bones were reshaped. Say: 'This is one of the clues that all animals with backbones are related. Your body is a history book. Scientists think the first backbones were grown by small fish-like swimmers more than 500 million years ago, the four-limb plan of your arms and legs was handed down from fish with strong fins that crawled into the shallows around 370 million years ago, and the first hard skeletons of all were outside skeletons, on sea creatures, before any backbone.' Ask: 'Which page of the history book is your hand?'",
      "ref": "a2"
     },
     {
@@ -1046,6 +1047,16 @@
    "now": "X-rays are still used every day. Early users did not know X-rays can damage the body when used too much, and some were hurt; now doses are kept very low. Anna Bertha's hand is famous, but she is rarely named.",
    "status": "accepted",
    "ask": "Röntgen could have become very rich by owning X-rays, but he let everyone use them. Why might he have chosen that? Would you?",
+   "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "Mae Jemison (born 1956), USA",
+   "idea": "Mae Jemison is a doctor, an engineer and a dancer. In 1992, on the space shuttle Endeavour, she became the first African-American woman in space. Among the experiments on that mission was research on bone cells, because astronauts' bones lose minerals when nothing presses on them in orbit.",
+   "then": "NASA did not select her the first time she applied, after Sally Ride's flight in 1983; she was chosen in 1987. Before that she worked as a doctor in Sierra Leone and Liberia.",
+   "now": "Bone loss in space is a well-known, serious problem. Astronauts on the space station exercise for about two hours a day, on a treadmill with straps and a machine that pushes back, to keep their bones and muscles strong. She also took a poster of a dancer from the Alvin Ailey American Dance Theater with her into orbit.",
+   "status": "accepted",
+   "ask": "Mae Jemison is a doctor, an engineer and a dancer. Do you think a person should have to choose to be only one thing? What would you like to be, all at once?",
    "day": 5
   },
   {

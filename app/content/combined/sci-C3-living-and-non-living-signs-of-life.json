@@ -87,7 +87,7 @@
      "kind": "do",
      "title": "Mrs Gren",
      "mins": 18,
-     "do": "Teach the seven life processes with the memory name MRS GREN: Movement, Respiration (getting energy from food, using air), Sensitivity (noticing and responding), Growth, Reproduction (making young), Excretion (getting rid of waste), Nutrition (getting food). For each, your child acts it out and finds it in a human, a dog and a tulsi plant. Tricky ones for plants: they move slowly (leaves turn to the light, a touch-me-not folds), they take in air through tiny holes in their leaves, they get rid of waste gases and water and drop old leaves. Ask: 'Does a living thing have to do all seven at every moment?' (No: a sleeping seed does almost none, until it wakes.)"
+     "do": "Teach the seven life processes with the memory name MRS GREN: Movement, Respiration (getting energy from food, using air), Sensitivity (noticing and responding), Growth, Reproduction (making young), Excretion (getting rid of waste), Nutrition (getting food). For each, your child acts it out and finds it in a human, a dog and a tulsi plant. Tricky ones for plants: they move slowly (leaves turn to the light, a touch-me-not folds), they take in air through tiny holes in their leaves, they get rid of waste gases and water and drop old leaves. Ask: 'Does a living thing have to do all seven at every moment?' (No: a sleeping seed does almost none, until it wakes.) Then play 'MRS GREN in motion': you call a letter, your child does the movement (M: walk like an elephant; R: big slow breaths; S: freeze and listen like a deer; G: grow from a crouch to tall; R: rock a baby; E: pretend to sneeze; N: munch like a goat)."
     },
     {
      "kind": "read",
@@ -174,7 +174,7 @@
      "kind": "talk",
      "title": "The deeper test",
      "mins": 17,
-     "do": "Say: 'Every living thing we know is made of cells. You are made of about 30 trillion. And when a living thing makes young, it passes on a set of instructions (genes) inside its cells, so a mango seed grows into a mango tree, not a cat. Over very many generations the instructions slowly change, and that is how new kinds of living things come about.' Ask: 'Does a fire pass on instructions? Does a crystal?' Then talk about voice v1, van Leeuwenhoek and his tiny animals, and ask its question.",
+     "do": "Say: 'Every living thing we know is made of cells. You are made of about 30 trillion. And when a living thing makes young, it passes on a set of instructions (genes) inside its cells, so a mango seed grows into a mango tree, not a cat. Over very many generations the instructions slowly change, and that is how new kinds of living things come about.' Ask: 'Does a fire pass on instructions? Does a crystal?' Add: 'Inside every cell are tiny machines called ribosomes that read the instructions and build what the cell needs. An Indian-born scientist from Chidambaram, Venkatraman Ramakrishnan, spent decades mapping the shape of the ribosome atom by atom and shared the Nobel Prize in 2009; his map shows how some medicines stop germs by jamming their ribosomes.' Then talk about voice v1, van Leeuwenhoek and his tiny animals, and ask its question.",
      "ref": "v1"
     }
    ],
@@ -276,7 +276,7 @@
      "kind": "talk",
      "title": "NASA's definition",
      "mins": 15,
-     "do": "Talk about voice v3: NASA needed a definition of life to know what to look for on Mars. Read it slowly: 'a self-sustaining chemical system capable of Darwinian evolution', and explain: something that keeps itself going using energy and materials around it, and whose young can change slowly over many generations. Ask: 'Does fire pass that test? Does a virus? Does a sleeping seed?'",
+     "do": "Talk about voice v3: NASA needed a definition of life to know what to look for on Mars. Read it slowly: 'a self-sustaining chemical system capable of Darwinian evolution', and explain: something that keeps itself going using energy and materials around it, and whose young can change slowly over many generations. Ask: 'Does fire pass that test? Does a virus? Does a sleeping seed?' Then a last puzzle: 'A single bacterium has no brain, yet it swims towards food and away from poison, and it changes what it does as conditions change. Is it deciding? Does thinking need a brain?' Scientists genuinely argue about whether to call this 'thinking' (some call it basal cognition). Let your child argue both ways.",
      "ref": "v3"
     }
    ],
@@ -914,6 +914,7 @@
   "If we found something on Mars, how would we know if it was alive?",
   "Where does non-living end and living begin?",
   "Could a robot ever be alive?",
+  "A bacterium has no brain but swims towards food. Is it deciding? Does thinking need a brain?",
   "Is a river alive? Some countries say a river can have rights."
  ],
  "challenge": [
@@ -938,6 +939,10 @@
   {
    "who": "The Ganga, and the people who call it Mother",
    "view": "For many people the Ganga is a living goddess. In 2017 an Indian court briefly declared the Ganga and Yamuna 'living entities' with legal rights (a higher court later set this aside). Ask: what changes if we treat a river as alive?"
+  },
+  {
+   "who": "Lynn Margulis (1938–2011), a biologist",
+   "view": "Margulis showed that the energy-making parts of our cells (mitochondria) and the green parts of plant cells (chloroplasts) were once free-living bacteria that moved in with bigger cells. Fifteen journals rejected her 1967 paper; DNA evidence later proved her right. Life, she said, grows by joining up as well as by competing. Ask: is a cell one living thing, or a partnership?"
   }
  ],
  "voices": [

@@ -20,9 +20,9 @@
   "measuring rain with a rain gauge",
   "rain soaks in, runs off or evaporates",
   "groundwater, wells and borewells",
+  "reading the land for hidden water (plants, termite mounds)",
   "sources of our home water",
   "how much water a home uses (a water audit)",
-  "a dripping tap adds up",
   "storing water then and now: matka, tanka, stepwell, overhead tank",
   "a matka cools water by evaporation",
   "cleaning water: settling, filtering, boiling",
@@ -140,16 +140,22 @@
     {
      "kind": "exp",
      "title": "Rain on four surfaces",
-     "mins": 15,
+     "mins": 13,
      "do": "Do Experiment e2. Go outside with a mug of water. Pour one slow mug on each of four places: bare soil, grass, sand and a cement or tiled floor. For each one, ask: 'Did the water soak in, run away, or stay in a puddle?' Your child fills the table in the sky diary. Ask: 'In a city with roads and roofs everywhere, where does the rain go?' (Most runs off into drains, and very little soaks in.)",
      "ref": "e2"
     },
     {
      "kind": "exp",
      "title": "A well in a jar",
-     "mins": 15,
+     "mins": 12,
      "do": "Do Experiment e3: fill a clear jar or bottle with gravel, then sand, then soil, with a straw pushed down the side to the bottom before you fill it. 'Rain' on top with a cup of water. Watch it disappear into the soil and then collect in the gaps at the bottom. Say: 'This is groundwater. It isn't an underground lake. It sits in the tiny gaps between grains, like water in a sponge.' Then let your child slowly suck on the straw (a well!) or squeeze a dropper down it and see the water level at the bottom drop.",
      "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "Make a rainstorm with your hands",
+     "mins": 5,
+     "do": "Sit in a circle (even two of you is enough). The leader starts and everyone copies: rub palms together (a breeze), click fingers (first drops), pat thighs (heavy rain), stamp feet with thigh pats (a downpour), then go back down the same steps to silence. Ask: 'Where did all that rain go after the storm?' (Some soaked in, some ran off, some will go back up as vapour.) Make a rainstorm again whenever it rains on the sky diary."
     },
     {
      "kind": "talk",
@@ -192,9 +198,10 @@
     },
     {
      "kind": "think",
-     "title": "Wet places and dry places",
+     "title": "Reading the land for hidden water",
      "mins": 8,
-     "do": "Tell your child: 'Some places in India get huge rain: Mawsynram and Cherrapunji in Meghalaya get more than ten metres of rain in a year, taller than a three-storey house. Some parts of the Thar desert in Rajasthan get less than the height of your hand.' Ask: 'If you lived in the desert, how would you make sure you had water all year?' Good answers: catch every drop when it rains, store it, use it very carefully. Tell them you'll see how people did that on Day 5."
+     "do": "Talk about voice v4, Varahamihira, who wrote about how plants, termite mounds and the colour of soil can show where water hides underground. Ask the voice question. Then tell your child: 'Some places in India get huge rain: Mawsynram and Cherrapunji in Meghalaya get more than ten metres of rain in a year, taller than a three-storey house. Some parts of the Thar desert in Rajasthan get less than the height of your hand.' Ask: 'If you lived in the desert, how would you make sure you had water all year?' Good answers: catch every drop when it rains, store it, use it very carefully. Tell them you'll see how people did that on Day 5.",
+     "ref": "v4"
     }
    ],
    "need": [
@@ -257,7 +264,7 @@
     {
      "kind": "exp",
      "title": "Why is matka water cool?",
-     "mins": 15,
+     "mins": 12,
      "do": "Do Experiment e4. Fill a clay matka (or a small clay pot) and a steel or plastic bottle with water from the same tap at the same time, and leave both in the same shady, airy place. After a few hours (or at the start of the step if you set it up in the morning), let your child dip a finger in each, or use a thermometer if you have one. Then wrap a wet cloth around the steel bottle and check again an hour later. Ask: 'Why is the matka cooler?' (Water seeps through the tiny holes in the clay and evaporates from the outside. Evaporating water carries heat away with it, the same reason you feel cold when you come out of a bath.)",
      "ref": "e4"
     },
@@ -273,6 +280,12 @@
      "title": "Then and now",
      "mins": 5,
      "do": "Ask: 'How did people store water in the past? How do we store it now?' Make a two-column list: matka, tanka, stepwell, village pond, kund; and overhead tank, sump, steel drum, plastic bottle. Ask: 'Which ones need electricity? Which ones keep working if the power goes?'"
+    },
+    {
+     "kind": "act",
+     "title": "Sheetali: the matka breath",
+     "mins": 3,
+     "do": "Show your child sheetali, a cooling breath from yoga: curl the tongue into a tube (or, if they can't, breathe in through teeth held lightly together), breathe in slowly through it, then close the mouth and breathe out through the nose. Do it five times. Ask: 'Does your tongue feel cool? Why?' (Air moving over the wet tongue makes water evaporate, which takes heat away, just like the matka.)"
     }
    ],
    "need": [
@@ -383,14 +396,14 @@
     {
      "kind": "check",
      "title": "Check questions",
-     "mins": 10,
+     "mins": 8,
      "do": "Ask the check questions aloud. Let your child use the sky diary, the jar well and the audit chart to explain."
     },
     {
      "kind": "check",
      "title": "Teach it back",
-     "mins": 8,
-     "do": "Your child teaches the family in five minutes, using the jar well: where rain goes, where our tap water comes from, why clear isn't always clean, and one way we will save water. Then ask them: 'Who does the rain belong to?'"
+     "mins": 10,
+     "do": "First, your child writes or says a short poem in the voice of one raindrop: where it fell, where it hid, where it went next. Then your child teaches the family in five minutes, using the jar well: where rain goes, where our tap water comes from, why clear isn't always clean, and one way we will save water. Then ask them: 'Who does the rain belong to?'"
     }
    ],
    "need": [
@@ -930,6 +943,16 @@
    "status": "accepted",
    "ask": "The queen's name is on the stepwell. But who cut the stone, carried it and carved the figures? How could we find out?",
    "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "Varahamihira (about 505–587 CE), Ujjain, India",
+   "idea": "In his great book the Brihat Samhita, Varahamihira wrote a whole chapter on finding water under the ground (dakargala). He listed signs to look for: certain trees growing in a dry place, a termite mound near a particular tree, the colour and smell of the soil, plants that stay green when others dry up. Each sign told the well-digger how deep the water might be.",
+   "then": "For centuries, well-diggers and farmers in India used signs like these, along with their own experience, passed down by word of mouth.",
+   "now": "Debated. The basic idea is sound: deep-rooted trees that stay green in a dry place, and termites, which need damp soil for their mounds, often do point to water nearby. Some Indian geologists have tested a few of his signs and reported that they often worked; others say the tests were too small to be sure, and that the exact depths in the book can't be trusted everywhere. Today scientists use rocks, maps and instruments as well.",
+   "status": "debated",
+   "ask": "If a green tree grows in a dry field, is it a sign of water, or could there be another reason? How could you test one of Varahamihira's signs fairly?",
+   "day": 3
   }
  ],
  "project": {

@@ -234,15 +234,21 @@
     {
      "kind": "talk",
      "title": "Zero Shadow Day",
-     "mins": 8,
+     "mins": 6,
      "do": "Say: 'In the part of India south of the Tropic of Cancer (Bhopal, Mumbai, Chennai, Bengaluru), the noon Sun is exactly overhead on two days a year. For a moment, an upright pole has no shadow. In Bengaluru this happens around late April and mid August.' Look up your city's dates and put them on the family calendar. Ask: 'Why can't Delhi or Srinagar ever have a Zero Shadow Day?' (They are north of the Tropic; the Sun is never overhead there.)"
     },
     {
      "kind": "act",
      "title": "Check the noon line",
-     "mins": 10,
+     "mins": 8,
      "do": "Look at the a2 marks. The shortest one is local noon. Ask: 'What time did your clock say? Was it exactly 12?' (In most of India, local noon is not 12:00 because the whole country uses one clock time; in Gujarat it comes later, in the Northeast earlier.) Mark N on the line. Find east, south and west from it.",
      "ref": "a2"
+    },
+    {
+     "kind": "act",
+     "title": "Sun-path circle dance",
+     "mins": 4,
+     "do": "Stand on the noon line. Your child faces south and slowly 'draws' the Sun's path with both arms: rising from the east on their left, lifting high (but, in most of India, a little to the south) at noon, sinking to the west on their right. Then they crouch and stretch their arms along the ground the opposite way to show where the shadow points at each moment."
     }
    ],
    "need": [
@@ -267,16 +273,23 @@
     {
      "kind": "exp",
      "title": "Make an eclipse",
-     "mins": 18,
+     "mins": 15,
      "do": "Do Experiment e3 in a dark room. Your child holds the bead (Moon) and you hold the football (Earth). Make a solar eclipse, then a lunar eclipse, then a near miss, and ask each time: whose shadow is falling on whom?",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "Aryabhata and the shadows",
-     "mins": 12,
+     "mins": 9,
      "do": "Tell your child about Voice v2, Aryabhata, who explained eclipses as shadows. Talk gently about the old story of Rahu swallowing the Sun: 'People everywhere made stories for things they could not yet explain. Aryabhata looked at where the shadows fall and found the reason.' Ask the voice question.",
      "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "Wang Zhenyi's garden eclipse",
+     "mins": 7,
+     "do": "Tell your child about Voice v4, Wang Zhenyi, who in 18th-century China made eclipses in her garden pavilion with a round table, a hanging lamp and a mirror, just as you did with the football and bead. Ask the voice question.",
+     "ref": "v4"
     },
     {
      "kind": "talk",
@@ -287,7 +300,7 @@
     {
      "kind": "review",
      "title": "Sort the eclipses",
-     "mins": 5,
+     "mins": 4,
      "do": "Ask: 'In a solar eclipse, whose shadow falls on whom? In a lunar eclipse?' (Moon's shadow on the Earth; Earth's shadow on the Moon.) Ask: 'Which phase must the Moon be in for each?' (New Moon for solar; full Moon for lunar.)"
     }
    ],
@@ -993,6 +1006,16 @@
    "status": "accepted",
    "ask": "If you had done months of the sums and someone else's name went on the result, how would you feel? How can we find out who really did the work in the past?",
    "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Wang Zhenyi (1768–1797), China",
+   "idea": "In Qing-dynasty China, where most girls were not taught to read, she studied astronomy and mathematics from her grandfather's library. In an essay on lunar eclipses she explained them correctly as the Earth's shadow falling on the Moon, and the story told of her is that she showed it with a round table as the Earth, a lamp hanging from the roof as the Sun and a mirror as the Moon. She wrote books making mathematics easier for ordinary readers and a poem asking whether daughters could not also be heroes.",
+   "then": "Women's scholarship was rarely published or honoured; she died at 29 and much of her work survived only because a friend kept her manuscripts.",
+   "now": "Her explanation of eclipses is the accepted one. A crater on Venus is named after her. Historians note that some details of the garden model come from later retellings.",
+   "status": "accepted",
+   "ask": "Wang Zhenyi and Aryabhata, over a thousand years and thousands of kilometres apart, both explained eclipses as shadows. What does that tell you about whether science belongs to one country?",
+   "day": 5
   }
  ],
  "books": [

@@ -104,9 +104,9 @@
     },
     {
      "kind": "review",
-     "title": "The word force",
+     "title": "The word force, and the push-pull dance",
      "mins": 5,
-     "do": "Say 'push' and 'pull' in a random order, faster and faster; your child shows each with their hands, palms pushing away or fists pulling in. Then say: 'Scientists have one word for every push and every pull. They call it a force.' Let them say 'force' three times in a funny voice, then ask: 'Is opening the fridge a force?' (Yes, a pull.)"
+     "do": "Say: 'Scientists have one word for every push and every pull. They call it a force.' Let your child say 'force' three times in a funny voice. Then dance it: put on any song. Stand palm to palm with your child. When the music is loud, one of you pushes gently and the other leans back into the push; when it is soft, hold hands and lean apart, pulling. Ask after the song: 'When I pushed you, could you feel me? When you pushed me, did your hands feel anything?' (Yes, both of us felt it: a push is always shared.)"
     }
    ],
    "need": [
@@ -124,7 +124,7 @@
      "kind": "outdoor",
      "title": "Park scientists",
      "mins": 15,
-     "do": "Go to a park or open space. At the swing ask: 'How does the swing start moving? What makes it go higher?' (Someone pushes it; pushing at the right moment makes it go higher.) At the slide: 'Who pushes you down the slide?' (Nobody! The Earth pulls you down. That pull is called gravity.) At the see-saw: 'How do you make your side go up?' (Push the ground with your feet.) Sit a smaller child and a bigger person on the see-saw: 'Why does the heavier side go down?' (It pulls down harder.) Then play catch: 'Did I push or pull the ball to throw it?' (Push.)"
+     "do": "Go to a park or open space. At the swing ask: 'How does the swing start moving? What makes it go higher?' (Someone pushes it; pushing at the right moment makes it go higher.) At the slide: 'Who pushes you down the slide?' (Nobody! The Earth pulls you down. That pull is called gravity.) At the see-saw: 'How do you make your side go up?' (Push the ground with your feet.) Sit a smaller child and a bigger person on the see-saw: 'Why does the heavier side go down?' (It pulls down harder.) Then play catch: 'Did I push or pull the ball to throw it?' (Push.) Look up at a bird or a kite. Ask: 'Has the bird escaped the Earth's pull?' (No. It is pushing air down with its wings all the time, and the air pushes it up. If it stops flapping or gliding, down it comes.)"
     },
     {
      "kind": "act",
@@ -201,15 +201,15 @@
     },
     {
      "kind": "do",
-     "title": "Push the wall",
+     "title": "Push the wall, the cushion and the water",
      "mins": 8,
-     "do": "Your child puts both palms on a wall and pushes hard. Ask: 'Look at your hands. Why are they squashed and pink?' (The wall is pushing back.) Now your child stands in socks on a smooth floor and pushes the wall: they slide backwards. Then both of you stand in socks, palm to palm, and your child gives you a gentle push. Ask: 'I didn't push. Why did you move too?' (When you push, you get pushed back.) Keep it gentle and away from furniture."
+     "do": "Your child puts both palms on a wall and pushes hard. Ask: 'Look at your hands. Why are they squashed and pink?' (The wall is pushing back.) Now push a cushion, then put a hand flat on the water in a bucket and push down. Ask: 'Which pushed back the hardest? Which let your hand go in?' (The wall pushed back hardest; the water let the hand in.) Say: 'Everything is made of tiny bits too small to see, called atoms. When you press on something, its tiny bits push back on your tiny bits. In a wall they are packed tight and push back hard; in water they slide aside.' Then your child stands in socks on a smooth floor and pushes the wall: they slide backwards. Throw a ball for them to catch: 'The ball pushed your hands, and your hands pushed the ball to stop it.'"
     },
     {
      "kind": "talk",
-     "title": "Thank you, floor",
+     "title": "Mountain pose: thank you, floor",
      "mins": 6,
-     "do": "Walk across the room very slowly together, feeling each foot press down and back. Ask: 'Which way does your foot push the floor?' (Backwards.) 'Which way does the floor push you?' (Forwards.) 'What if the floor were slippery as ice?' (We couldn't walk.) Say: 'You can't push anything without being pushed back. That is one of the biggest rules in the whole universe.'"
+     "do": "Stand together in mountain pose (tadasana): feet together, arms by your sides, standing tall and still. Ask your child to close their eyes and feel their feet pressing down into the floor. Ask: 'Which way are you pushing the floor?' (Down.) 'Which way is the floor pushing you?' (Up. That's why we don't sink into it.) Then walk across the room very slowly, feeling each foot press down and back. 'Which way does the floor push you now?' (Forwards.) 'What if the floor were slippery as ice?' (We couldn't walk.) Say: 'You can't push anything without being pushed back. That is one of the biggest rules in the whole universe.'"
     },
     {
      "kind": "ws",
@@ -331,7 +331,7 @@
      "kind": "check",
      "title": "Teach it back",
      "mins": 15,
-     "do": "Your child is the teacher and you are a student who knows nothing. Ask the check questions in a confused voice ('How do I open the fridge? Do I push it?') and let them explain and show. Ask them to show the push back with a wall, and to tell you what pulls a mango down. Finish by asking them to show you one push and one pull that we did not find this week. Show the family the push-pull toy from the project.",
+     "do": "Your child is the teacher and you are a student who knows nothing. Ask the check questions in a confused voice ('How do I open the fridge? Do I push it?') and let them explain and show. Ask them to show the push back with a wall, and to tell you what pulls a mango down. Ask them to act out a short play: one of you is a door, the other pushes it, and the door must push back exactly as hard. Finish by asking them to show you one push and one pull that we did not find this week. Show the family the push-pull toy from the project.",
      "ref": "ws3"
     }
    ],
@@ -924,6 +924,10 @@
   {
    "who": "A fish and a bird",
    "view": "A fish pushes water backwards with its tail and the water pushes it forwards. A bird pushes air down with its wings and the air pushes it up. Ask: what do you push against when you walk?"
+  },
+  {
+   "who": "A dancer",
+   "view": "In a lift, one dancer pushes up and the other presses down, and both have to trust the push back. Kathak dancers stamp the floor to make their ghungroos ring: the floor pushes back each time. Ask: could you dance at all if the floor didn't push back?"
   }
  ],
  "voices": [

@@ -113,7 +113,7 @@
      "kind": "think",
      "title": "Are there forces when nothing moves?",
      "mins": 10,
-     "do": "Point at a book lying still on the table. Ask: 'Are there any forces on this book?' Many children say no. Hint: 'Why doesn't it fall?' The Earth pulls it down (gravity) and the table pushes it up (the support force). Show it: put the book on a thin plastic ruler bridged between two tins, and watch the ruler bend. Say: 'The table bends too, a tiny bit, too little to see, and pushes back up like a squashed spring.' Draw the book with two equal arrows, one up and one down."
+     "do": "Point at a book lying still on the table. Ask: 'Are there any forces on this book?' Many children say no. Hint: 'Why doesn't it fall?' The Earth pulls it down (gravity) and the table pushes it up (the support force; scientists also call it the normal force). Show it: put the book on a thin plastic ruler bridged between two tins, and watch the ruler bend. Say: 'The table bends too, a tiny bit, too little to see. Its atoms are squeezed closer to the book's atoms, and atoms that are squeezed together push each other apart. That push is the support force. Without it, gravity would pull the book, and you, right down towards the centre of the Earth.' Draw the book with two equal arrows, one up and one down."
     }
    ],
    "need": [
@@ -188,7 +188,7 @@
      "kind": "talk",
      "title": "Your weight on the Moon",
      "mins": 10,
-     "do": "Ask: 'If you went to the Moon, would there be less of you?' (No, your mass stays the same.) 'Would the Moon pull you as hard as the Earth?' (No, the Moon is much smaller, so it pulls about one sixth as hard.) Work it out: a 30 kg child pulls down on Earth with about 300 N; on the Moon about 50 N. Ask: 'How high could you jump on the Moon?' (About six times higher.) Say: 'Your mass goes everywhere with you. Your weight depends on where you are.'"
+     "do": "If you have a bathroom scale, your child stands on it and reads the number. Then they push down hard on a table beside them: the number drops. They bend their knees quickly: it jumps. Ask: 'Did you get lighter or heavier?' (No! The amount of you didn't change.) Say: 'The scale doesn't feel gravity. It feels how hard you press on it, and it pushes back the same. That push is what it shows.' Then ask: 'If you went to the Moon, would there be less of you?' (No, your mass stays the same.) 'Would the Moon pull you as hard?' (No, about one sixth as hard.) Work it out: a 30 kg child pulls down on Earth with about 300 N; on the Moon about 50 N. 'How high could you jump on the Moon?' (About six times higher.)"
     },
     {
      "kind": "ws",
@@ -362,7 +362,7 @@
      "kind": "game",
      "title": "Friction Rally",
      "mins": 14,
-     "do": "Play the Friction Rally board game (g1). On each square your child must say whether friction is helping or causing trouble, and why, before following the square.",
+     "do": "Play the Friction Rally board game (g1). On each square your child must say whether friction is helping or causing trouble, and why, before following the square. Afterwards, do a 30-second slide-and-stop dance in socks on a smooth floor and then in bare feet: glide, then freeze when you clap. 'In which could you stop on the beat? Why?'",
      "ref": "g1"
     },
     {
@@ -1042,6 +1042,10 @@
   {
    "who": "A gecko",
    "view": "A gecko can run up glass and across a ceiling. Its toes have millions of tiny hairs that get so close to a surface that tiny attractive forces between atoms hold it on. Ask: what could people learn from a gecko?"
+  },
+  {
+   "who": "An ice skater and a kabaddi player",
+   "view": "A skater wants almost no friction and glides; a kabaddi player in bare feet on mud wants lots of grip to stop and turn. Ask: is friction good or bad, or does it depend on what you want to do?"
   }
  ],
  "voices": [

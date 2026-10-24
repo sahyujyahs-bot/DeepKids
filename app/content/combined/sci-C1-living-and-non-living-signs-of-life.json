@@ -19,7 +19,8 @@
   "all living things need water, air and food",
   "living things make young like themselves",
   "living things depend on non-living things (sun, water, soil, air)",
-  "humans are one kind of living thing among millions"
+  "humans are one kind of living thing among millions",
+  "you are a team: tiny living things live in and with you"
  ],
  "builds_on": "This is the first time. In Class 3 your child comes back to the question with the seven signs scientists use (MRS GREN), cells, harder cases (fire, crystals, viruses, robots) and the environment. In Class 5, microorganisms and how life began.",
  "goals": [
@@ -110,15 +111,21 @@
     {
      "kind": "warmup",
      "title": "Seed detectives",
-     "mins": 5,
+     "mins": 4,
      "do": "Look closely at a dry rajma bean with a hand lens. Ask: 'Does it breathe? Move? Eat? Grow?' Most children say no. Ask: 'So is it alive?' Write down your child's answer on the signs sheet with today's date, so you can check it later."
     },
     {
      "kind": "exp",
      "title": "Wake the seeds",
-     "mins": 15,
+     "mins": 13,
      "do": "Do Experiment e1: soaked beans on damp cotton, dry beans on dry cotton, and beans a grown-up has boiled, on damp cotton. Ask your child to predict first and draw the three cups. Say the new word: 'A seed that is alive but asleep is called dormant. When it wakes up and grows, we say it germinates.'",
      "ref": "e1"
+    },
+    {
+     "kind": "act",
+     "title": "Dance: wake like a seed",
+     "mins": 3,
+     "do": "Your child curls up tight on the floor like a dry seed: still, quiet, 'asleep'. You are the rain: sprinkle your fingers over them and say 'water... warmth...'. Very slowly they push out one foot (the root, going down), then an arm (the shoot, going up), then uncurl and stretch tall like a seedling reaching for the Sun. Ask: 'When you were curled up, were you alive?' (Yes, just asleep.)"
     },
     {
      "kind": "read",
@@ -254,7 +261,7 @@
      "kind": "talk",
      "title": "Needs, not wants",
      "mins": 12,
-     "do": "Ask: 'What do you need to stay alive?' Help your child sort ideas into needs (water, air, food, a safe place, sleep) and wants (a toy, TV, sweets). Then ask the same for a crow, a tulsi plant and the yeast: crow (water, air, food, a tree to nest in), plant (water, air, sunlight, soil), yeast (water, warmth, sugar). Say: 'Every living thing needs water, air and food. And look: water, air, sunlight and soil are not alive. Living things need non-living things to live.' Draw a big tree in the middle of a page, and your child draws arrows from the sun, a cloud, the air and the soil to it."
+     "do": "Ask: 'What do you need to stay alive?' Help your child sort ideas into needs (water, air, food, a safe place, sleep) and wants (a toy, TV, sweets). Then ask the same for a crow, a tulsi plant and the yeast: crow (water, air, food, a tree to nest in), plant (water, air, sunlight, soil), yeast (water, warmth, sugar). Say: 'Every living thing needs water, air and food. And look: water, air, sunlight and soil are not alive. Living things need non-living things to live.' Draw a big tree in the middle of a page, and your child draws arrows from the sun, a cloud, the air and the soil to it. Finish with a surprise: 'Tiny living things live in you too: about as many bacteria live in and on your body as there are cells of you, and many help you digest food. And deep inside every cell of yours are tiny power-makers that were once free-living bacteria, long, long ago. A scientist called Lynn Margulis was laughed at for saying so, and she turned out to be right. So you are not just one living thing: you are a team.'"
     },
     {
      "kind": "talk",
@@ -846,7 +853,8 @@
   "How can a seed be alive if it doesn't move or eat?",
   "Is a robot alive if it can move and talk?",
   "Plastic is made from oil, and oil came from creatures that lived millions of years ago. So was plastic once alive?",
-  "Is a person more important than an ant, or a tree? Who decides?"
+  "Is a person more important than an ant, or a tree? Who decides?",
+  "If tiny living things live inside you and help you, are you one living thing or many?"
  ],
  "challenge": [
   {
@@ -874,6 +882,10 @@
   {
    "who": "An earthworm",
    "view": "Earthworms eat dead leaves and turn them into soil that plants need. To a worm, a fallen leaf isn't rubbish, it's dinner. Ask: what would the garden be like with no worms?"
+  },
+  {
+   "who": "Lynn Margulis (1938–2011), a biologist",
+   "view": "Margulis argued that the energy-makers inside our cells (mitochondria) were once free bacteria that came to live inside bigger cells. Fifteen journals turned her paper down before one printed it in 1967; DNA evidence later showed she was right. Ask: if parts of you were once other living things, where do 'you' begin and end?"
   }
  ],
  "voices": [

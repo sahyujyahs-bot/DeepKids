@@ -20,6 +20,8 @@
   "skin: the covering that keeps us in and feels the world",
   "a baby has more bones than a grown-up",
   "every body is different, and every body is a human body",
+  "one and many: one body made of trillions of cells, with as many microbes living with us",
+  "homeostasis: the body keeps itself just right (sweating, shivering, thirst)",
   "other animals have the same parts used for different jobs",
   "looking after our body: moving, resting, washing"
  ],
@@ -287,6 +289,36 @@
   },
   {
    "n": 7,
+   "title": "One and many, and just right",
+   "goal": "Find out that one body is made of trillions of living cells and microbes, and that it keeps itself just right.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Sweat lab",
+     "mins": 8,
+     "do": "Your child dips one hand in a bowl of warm water, takes it out, and holds both hands in front of a fan (or you wave a newspaper). Ask: 'Which hand feels cooler?' (the wet one). Say: 'When you get hot, your skin makes sweat. As the sweat dries in the air, it carries heat away and cools you. When you are cold, your muscles shiver to make heat and the little hairs on your arms stand up. Your body is always turning little dials to keep itself just right, not too hot and not too cold. Scientists call this homeostasis.' Ask: 'What does your body do when you are thirsty?' (it makes you feel thirsty, and you make less urine)."
+    },
+    {
+     "kind": "act",
+     "title": "You are One and Many",
+     "mins": 12,
+     "do": "Do the journal page 'You are One and Many'. On one half of a page your child draws themselves, whole: that is the One. On the other half they draw a big circle as if looking through a microscope, and fill it with tiny shapes: round blood cells, long muscle cells, star-shaped nerve cells, and little rod-shaped microbes. Say: 'Your one body is made of about 30 trillion tiny living cells, each one alive. And living on you and inside your tummy are about as many microbes again, tiny living things that help you digest food. You are one person, and you are also a whole crowd working together.' Ask: 'If most of your cells are always being replaced, are you still the same you as last year?' Listen; there is no right answer."
+    },
+    {
+     "kind": "act",
+     "title": "Puppet dance and body yoga",
+     "mins": 10,
+     "do": "Play music. You are the puppeteer: pretend to pull a string tied to one joint (elbow, knee, wrist, shoulder, hip) and your child moves only that joint, stiffly, like Gulabo. Then say 'Your strings are inside now!' and they dance freely, using every joint. End with three yoga poses held for five slow breaths each: mountain (stand tall, feel the spine stretch up), tree (stand on one foot, the other foot on the inside of the leg, hands together: feel the ankle muscles keep you balanced) and child's pose (kneel and fold forward: feel the back bones round). Ask: 'Which pose made which muscles work?'"
+    }
+   ],
+   "need": [
+    "a bowl of warm water, a fan or newspaper",
+    "paper and crayons",
+    "music"
+   ]
+  },
+  {
+   "n": 8,
    "title": "Teach it back",
    "goal": "Review the whole rung, try the challenge puzzles and teach it back.",
    "steps": [
@@ -537,7 +569,7 @@
    "id": "ws3",
    "tier": "challenge",
    "title": "Body puzzles",
-   "day": 7,
+   "day": 8,
    "sections": [
     [
      "A. Puzzles",
@@ -745,7 +777,7 @@
   "title": "My body book",
   "days": [
    6,
-   7
+   8
   ],
   "steps": [
    "Draw round your hand and label the thumb and every finger joint.",
@@ -794,6 +826,7 @@
   ]
  },
  "big": [
+  "About half the living things in and on your body are microbes, not you. So who are you?",
   "A puppet needs someone to pull its strings. Who pulls yours?",
   "Your bones are inside you all the time, but you have never seen them. How do you know they are there?",
   "A bird, a bat, a whale and you all have the same bones in your arms. Why would that be?",
@@ -906,6 +939,10 @@
    "a": "More, about 300; many join together as the child grows, leaving 206."
   },
   {
+   "q": "How does your body cool down when you are hot?",
+   "a": "It sweats; the sweat dries and carries heat away. (When cold, it shivers.)"
+  },
+  {
    "q": "What does a bird's wing have inside it that is like your arm?",
    "a": "The same kinds of bones: one upper arm bone, two lower arm bones and hand bones."
   }
@@ -955,6 +992,10 @@
   {
    "idea": "Your bones are alive.",
    "more": "They grow, they have blood in them and they mend when broken. A baby has about 300 bones and pieces that join into 206."
+  },
+  {
+   "idea": "You are one and many.",
+   "more": "One you, made of about 30 trillion living cells, with about as many microbes living on and in you (the best count today, from 2016, says roughly one microbe for every human cell). All of them work together, and your body keeps itself 'just right' by sweating, shivering and feeling thirsty."
   },
   {
    "idea": "Every animal with a backbone shares your plan.",

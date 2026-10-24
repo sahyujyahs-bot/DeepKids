@@ -1,0 +1,1028 @@
+{
+ "key": "combined|sci|4|day-night-seasons-and-rhythms-of-nature",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "day-night-seasons-and-rhythms-of-nature",
+ "title": "The spinning Earth: day, night and life in the dark",
+ "source": "DeepKids Combined. Covers Cambridge Primary Science Stage 4, Unit 5.5 'Day and night' (the Earth spins on its axis, causing day and night and the Sun's apparent movement). No textbook needed.",
+ "summary": "Your child models the spinning Earth with a globe and a torch, watches the line between day and night sweep across India from Arunachal to Kutch, and collects the evidence that the Earth really turns: star trails round the Pole Star, a swinging pendulum, and the shrinking spin of a swivel chair. They compare days on other planets, discover that Earth's day is slowly getting longer, and go on a night walk to meet the animals who live while we sleep.",
+ "builds_on": "In Class 2 your child tracked the Sun's walk across the sky, read a shadow stick and made a sundial, and learned that the Earth turns. Next, in Class 5, they will tilt the Earth to explain seasons and changing day length, and meet the body clocks inside plants, birds and people.",
+ "goals": [
+  "By the end your child can explain with a globe and torch how the Earth's spin on its axis causes day and night and the Sun's apparent movement.",
+  "By the end your child can say why the Sun rises earlier in the east of India than in the west.",
+  "By the end your child can describe two pieces of evidence that the Earth spins.",
+  "By the end your child can compare the length of a day on Earth with other planets, and explain that Earth's day is slowly getting longer.",
+  "By the end your child can describe how nocturnal animals are suited to the dark and how artificial light affects them."
+ ],
+ "subconcepts": [
+  "the Earth spins on its axis from west to east",
+  "one spin takes about 24 hours",
+  "half the Earth is always lit: the day–night line",
+  "sunrise travels across India from east to west",
+  "why we don't feel the Earth spinning",
+  "evidence for the spin: star trails and Foucault's pendulum",
+  "spinning speed is greatest at the equator",
+  "days on other planets",
+  "midnight sun and polar night",
+  "Earth's day is getting longer",
+  "nocturnal animals and their senses",
+  "light pollution and the living night",
+  "Aryabhata's moving-boat idea"
+ ],
+ "words": [
+  [
+   "axis",
+   "the imaginary line through the North and South Poles that the Earth spins around"
+  ],
+  [
+   "rotate",
+   "to spin round an axis"
+  ],
+  [
+   "anticlockwise",
+   "turning the opposite way to the hands of a clock; seen from above the North Pole, the Earth spins anticlockwise"
+  ],
+  [
+   "apparent movement",
+   "movement that seems to happen but is caused by our own motion"
+  ],
+  [
+   "terminator",
+   "the line on a planet between the day side and the night side"
+  ],
+  [
+   "equator",
+   "the imaginary line around the middle of the Earth"
+  ],
+  [
+   "pendulum",
+   "a weight on a string that swings freely"
+  ],
+  [
+   "star trail",
+   "the curved line a star seems to draw across the sky as the Earth turns"
+  ],
+  [
+   "polar night",
+   "a time near the poles when the Sun does not rise for days or months"
+  ],
+  [
+   "nocturnal",
+   "active at night"
+  ],
+  [
+   "echolocation",
+   "finding things by making sounds and listening for echoes, as bats do"
+  ],
+  [
+   "light pollution",
+   "too much artificial light at night, which hides the stars and confuses animals"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Is the ground beneath us moving?",
+   "goal": "Recall Class 2 and feel the strangeness of a spinning Earth.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The Sun's walk, again",
+     "mins": 7,
+     "do": "Ask: 'In Class 2, where did the Sun rise? Where was your shadow at midday? Does the Sun really move?' Good answers: 'east'; 'short, under me'; 'no, the Earth turns'. Ask: 'But how do we know? Have you ever felt the Earth move?' Accept every answer; say: 'This week we collect the evidence.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Ferry Girl of Kusumapura",
+     "mins": 15,
+     "do": "Read the story aloud. Stop when the young astronomer asks Sujata, 'Is it the bank that moves, or us?' and ask your child what they think. Finish and ask the story questions."
+    },
+    {
+     "kind": "act",
+     "title": "The spiral dance",
+     "mins": 8,
+     "do": "Play slow music. Your child stands with arms wide and turns slowly anticlockwise on the spot, like the Earth: one full turn is one day. Call out 'dawn!' as they turn to face a window, 'noon!', 'dusk!' and 'midnight!'. Then ask them to turn as slowly as they can so that a toy on their head doesn't fall off. Ask: 'If the Earth turns so smoothly, would you notice it?'"
+    },
+    {
+     "kind": "talk",
+     "title": "How fast are we going?",
+     "mins": 10,
+     "do": "Say: 'The Earth is about 40,000 km round at the equator, and it turns once a day. So a person on the equator travels about 40,000 km in 24 hours: about 1,670 km an hour, faster than a passenger jet. In India we go about 1,500 km an hour. At the North Pole you would just turn on the spot.' Ask: 'Why don't we feel it?' Good answer: 'We, the air and everything are moving together, smoothly, without bumps, like sleeping in a smooth train.'"
+    },
+    {
+     "kind": "review",
+     "title": "Questions to answer",
+     "mins": 5,
+     "do": "Write three questions on a sheet for the week: 'How could we prove the Earth spins? Why is it night somewhere right now? Who is awake while we sleep?' Stick it on the wall."
+    }
+   ],
+   "need": [
+    "music",
+    "a soft toy"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Day and night on a globe",
+   "goal": "Model the day–night line and see sunrise travel across India.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Who is asleep?",
+     "mins": 5,
+     "do": "Ask: 'When it is breakfast time in India, what are children in America doing?' (Sleeping, or going to bed.) 'How can that be?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Torch, globe and the day–night line",
+     "mins": 22,
+     "do": "Do Experiment e1 in a dark room. Your child spins the globe and calls out which sticker gets sunrise first and which gets sunset first, then traces the day–night line with a finger.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "First sunrise in India",
+     "mins": 10,
+     "do": "Say: 'Dong, a village in Arunachal Pradesh, is one of the first places in India to see the sunrise. Guhar Moti, in Kutch, Gujarat, is one of the last. In June, the Sun rises in Dong at about 4:15 am and in western Kutch after 6 am, nearly two hours later, but both use the same clock time.' Find both on a map. Ask: 'Why does the east see the Sun first?' Good answer: 'The Earth turns from west to east, so the east turns into the light first.'"
+    },
+    {
+     "kind": "act",
+     "title": "Sunrise across India",
+     "mins": 8,
+     "do": "On a map of India, your child draws five lines from north to south, about 6 degrees of longitude apart, and labels each with roughly how many minutes later the Sun rises than at the line to the east (about 24 minutes, because the Earth turns 1 degree every 4 minutes)."
+    }
+   ],
+   "need": [
+    "a globe or ball",
+    "a torch",
+    "small stickers or bindis",
+    "a map of India"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Evidence: star trails and a pendulum",
+   "goal": "Collect two pieces of evidence that the Earth turns.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What would convince you?",
+     "mins": 5,
+     "do": "Ask: 'If someone said the Earth stands still and the sky turns round it, what evidence would you need to prove them wrong?' Write down your child's ideas."
+    },
+    {
+     "kind": "act",
+     "title": "Star trails round Dhruva Tara",
+     "mins": 12,
+     "do": "Do Activity a1. Tonight, draw (or photograph) the Saptarishi and the Pole Star at two times, two hours apart.",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "A pendulum that keeps its swing",
+     "mins": 15,
+     "do": "Do Experiment e2 with a pendulum hung over a turning stool or lazy Susan.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Foucault's pendulum",
+     "mins": 8,
+     "do": "Tell your child about Voice v2, Léon Foucault, and his giant pendulum in Paris. Ask the voice question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "Aryabhata's boat",
+     "mins": 5,
+     "do": "Tell your child about Voice v1, Aryabhata, whose moving-boat idea you met in the story. Ask the voice question.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "string 1 metre long",
+    "a heavy nut, bolt or small stone",
+    "a swivel stool or a lazy Susan or a plate on a marble",
+    "a chair to hang the string from",
+    "chalk",
+    "paper"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Spin, speed and other worlds",
+   "goal": "Feel spin with your body and compare days on other planets.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Star trail results",
+     "mins": 6,
+     "do": "Look at last night's two drawings. Ask: 'Which star stayed still? Which way did the Saptarishi move round it?' (Anticlockwise round the Pole Star.) 'If the stars were stuck on a turning sky, or if we were turning beneath them, would it look different?' (No; that's why it needed thinking, like Aryabhata's.)",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "The swivel-chair spin",
+     "mins": 12,
+     "do": "Do Experiment e3 on a swivel chair. Your child predicts first, then spins with arms out, pulls the books in, and describes what happened to their speed.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Days on other planets",
+     "mins": 12,
+     "do": "Show this table and ask your child to make it into a bar chart: Mercury: one sunrise to the next takes about 176 Earth days. Venus: about 117 Earth days, and it spins backwards, so the Sun rises in the west; one spin of Venus (243 days) is longer than its year (225 days). Earth: 24 hours. Mars: 24 hours 40 minutes. Jupiter: about 10 hours. Saturn: about 10 and a half hours. Ask: 'Where would you have the longest school day? Where could you live for months in one afternoon?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 15,
+     "do": "Your child does the core worksheet ws1. Let them use the globe and torch.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a swivel chair",
+    "two heavy books",
+    "squared paper",
+    "the core worksheet"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Midnight sun and the lengthening day",
+   "goal": "Discover that day and night are not the same everywhere, or in every age.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The longest day",
+     "mins": 5,
+     "do": "Ask: 'Is a day 24 hours everywhere on Earth?' Accept guesses."
+    },
+    {
+     "kind": "talk",
+     "title": "Midnight sun and polar night",
+     "mins": 12,
+     "do": "Tilt the globe so the North Pole leans towards the torch and spin it. Ask: 'Does the North Pole ever go into the dark?' (No: in June, near the North Pole, the Sun goes round the sky and never sets: the midnight sun.) Tilt it away: the North Pole never comes into the light (polar night). Say: 'India's Himadri research station in Svalbard, Norway, and our Antarctic stations Maitri and Bharati have months of daylight and months of darkness.' Ask: 'How would you know when to sleep?'"
+    },
+    {
+     "kind": "talk",
+     "title": "The day is getting longer",
+     "mins": 13,
+     "do": "Tell your child about Voice v3, the corals and shells that keep a diary of ancient days. Say: 'The Moon's pull on our oceans acts like a gentle brake on the Earth. Each century the day gets about 2 thousandths of a second longer. It doesn't sound like much, but over hundreds of millions of years it adds up.' Ask the voice question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "Count the rings",
+     "mins": 10,
+     "do": "Look at the end of a log, a cut tree stump or a picture of tree rings. Each ring is one year. Say: 'Some corals and shells grow a tiny line every day and a band every year, so you can count how many days were in a year long ago.' Your child draws a pretend shell with 400 thin lines in one band (a coral year 400 million years ago) and writes: 'A year then had about 400 days, each about 22 hours long.'"
+    },
+    {
+     "kind": "review",
+     "title": "Explain to a friend",
+     "mins": 5,
+     "do": "Ask: 'If a year had more days long ago, did the year get shorter or did the days get longer?' (The year stayed about the same; the days got longer, so fewer fit in a year.)"
+    }
+   ],
+   "need": [
+    "the globe and torch",
+    "a picture of tree rings or a log"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "While we sleep",
+   "goal": "Meet the animals of the night and think about the light we add to it.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Night sounds",
+     "mins": 5,
+     "do": "Sit in a dark room for one minute, silent. Then list every sound heard. Ask: 'Who makes these sounds at night? Why at night?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Senses for the dark",
+     "mins": 12,
+     "do": "Talk through these night animals and how they are suited to the dark. Owls: huge eyes and ears placed at different heights, so they can find a mouse by sound alone. Bats: they echolocate, sending out squeaks and listening to the echoes; India has over 100 kinds of bats, many of which eat insects or spread seeds and pollinate trees. Slender loris: enormous eyes. Fireflies: make their own light to find a mate. Cockroaches and geckos: hunt when it is cool and safe. Ask: 'Why might it be safer, or easier, to live at night?' (Cooler, fewer predators, less competition for food.)"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Night walk",
+     "mins": 15,
+     "do": "Do Activity a2, a short night walk with a torch covered in red cellophane.",
+     "ref": "a2"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 13,
+     "do": "Your child does the stretch worksheet ws2. For the turtle question, talk first about what the beach looked like before electric lights.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "a torch",
+    "red cellophane or a red plastic bag",
+    "a rubber band",
+    "the stretch worksheet"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Sunrise Race, check and teach it back",
+   "goal": "Put it all together.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Sunrise Race",
+     "mins": 12,
+     "do": "Play the board game g1. Players must explain each 'spin' square they land on.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Your child tries the challenge worksheet ws3. Use the globe for the time puzzles.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "End check",
+     "mins": 8,
+     "do": "Ask the check questions. Go back to the globe and torch for any muddle."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 13,
+     "do": "Your child finishes the project 'Proof the Earth spins' poster and uses it to teach a family member: how the spin makes day, night and the Sun's walk; the star trails; the pendulum; why we don't feel it; and one night animal. The listener plays the doubter and asks 'How do you know?' for each point."
+    }
+   ],
+   "need": [
+    "the game board, die and counters",
+    "the challenge worksheet",
+    "the globe and torch",
+    "poster paper"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "The spinning Earth",
+   "day": 4,
+   "sections": [
+    [
+     "A. Spin and the Sun",
+     [
+      {
+       "t": "fill",
+       "p": "The Earth spins on its ____.",
+       "a": [
+        "axis"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "One full spin of the Earth takes about...",
+       "opts": [
+        "1 hour",
+        "24 hours",
+        "365 days"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Seen from above the North Pole, the Earth spins...",
+       "opts": [
+        "clockwise",
+        "anticlockwise",
+        "it doesn't spin"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which place in India sees sunrise first?",
+       "opts": [
+        "Kutch, Gujarat",
+        "Dong, Arunachal Pradesh",
+        "Mumbai"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "At any moment, ____ of the Earth is in daylight.",
+       "a": [
+        "half"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Evidence",
+     [
+      {
+       "t": "match",
+       "p": "Match the evidence to what it shows.",
+       "pairs": [
+        [
+         "stars circle the Pole Star",
+         "the Earth turns under the sky"
+        ],
+        [
+         "Foucault's pendulum slowly changes direction",
+         "the floor turns beneath it"
+        ],
+        [
+         "the Sun rises in the east",
+         "the Earth spins west to east"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Day animal or night animal?",
+       "items": [
+        "owl",
+        "bat",
+        "sparrow",
+        "slender loris",
+        "butterfly",
+        "firefly"
+       ],
+       "cats": [
+        "mostly active by day",
+        "mostly active at night"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Why does the Sun seem to move across the sky from east to west?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "We are moving at about 1,500 km an hour. Why don't we feel it?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Days and nights everywhere",
+   "day": 6,
+   "sections": [
+    [
+     "A. Other places, other worlds",
+     [
+      {
+       "t": "mcq",
+       "p": "Where is a day (sunrise to sunrise) longest?",
+       "opts": [
+        "Jupiter",
+        "Earth",
+        "Mercury"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "On Venus the Sun rises in the...",
+       "opts": [
+        "east",
+        "west",
+        "north"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "In June, near the North Pole, the Sun...",
+       "opts": [
+        "never sets",
+        "never rises",
+        "rises and sets every hour"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Two places are 15 degrees of longitude apart. Sunrise at the eastern place comes about ____ hour earlier.",
+       "a": [
+        "1",
+        "one"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the night animal to its trick.",
+       "pairs": [
+        [
+         "bat",
+         "echolocation"
+        ],
+        [
+         "owl",
+         "ears at different heights"
+        ],
+        [
+         "firefly",
+         "makes its own light"
+        ],
+        [
+         "slender loris",
+         "huge eyes"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Think",
+     [
+      {
+       "t": "sort",
+       "p": "Does it help or harm night life?",
+       "items": [
+        "streetlights left on all night",
+        "lights pointing down with shades",
+        "turning off garden lights at bedtime",
+        "bright light shining on a beach",
+        "planting trees for bats to roost"
+       ],
+       "cats": [
+        "helps",
+        "harms"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "When you pulled the books in on the swivel chair, you spun faster. What does that tell you about why the Earth keeps spinning without an engine?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Sea turtle hatchlings crawl towards the brightest light, which used to be the moonlit sea. What happens on a beach with bright hotels? What could people do?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Spin puzzles",
+   "day": 7,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "If the Earth spun twice as fast, a day would be...",
+       "opts": [
+        "12 hours",
+        "48 hours",
+        "the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "70 million years ago, a year had about 372 days. Were the days then longer or shorter than now?",
+       "opts": [
+        "longer",
+        "shorter",
+        "the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "You throw a ball straight up in a smoothly moving train. Where does it land?",
+       "opts": [
+        "behind you",
+        "in your hand",
+        "in front of you"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Use the train ball to explain why a ball thrown up on the spinning Earth doesn't land far behind you.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Bigger questions",
+     [
+      {
+       "t": "fill",
+       "p": "Aryabhata compared the turning sky to the bank seen from a moving ____.",
+       "a": [
+        "boat"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Aryabhata reasoned that the Earth spins about 1,350 years before Foucault's pendulum proved it. Was he right to believe it before there was proof? What makes a good reason to believe something?",
+       "lines": 3
+      },
+      {
+       "t": "sort",
+       "p": "Which can be explained by the Earth's spin?",
+       "items": [
+        "day and night",
+        "the Sun's walk across the sky",
+        "star trails",
+        "the seasons",
+        "the phases of the Moon",
+        "sunrise earlier in Arunachal than Gujarat"
+       ],
+       "cats": [
+        "the spin explains it",
+        "something else explains it"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "An owl might say our 'day' is the wrong time to be awake. Who decides what is the 'normal' time to be awake? What would the night be like with no humans at all?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Torch, globe and the day–night line",
+   "day": 2,
+   "question": "How does the spinning Earth make day and night, and why do different places get sunrise at different times?",
+   "need": [
+    "a globe or ball with a pencil through it",
+    "a torch",
+    "3 stickers: Dong (Arunachal), Delhi, Kutch",
+    "a dark room"
+   ],
+   "steps": [
+    "Put the three stickers in the right places on the globe or ball.",
+    "Shine the torch steadily at the globe from one side. Point out the line between light and dark: the terminator.",
+    "Spin the globe slowly anticlockwise, seen from the North Pole.",
+    "Stop each time one sticker crosses into the light. Which sticker reaches the light first?",
+    "Keep spinning: which sticker goes into the dark first in the evening?"
+   ],
+   "predict": "Ask your child to guess first: 'Which of the three places will get sunrise first?'",
+   "observe": "Exactly half the globe is lit at any moment. Dong crosses into the light first, then Delhi, then Kutch; in the evening, Dong goes into the dark first too.",
+   "why": "The Earth spins from west to east, so places further east turn into the sunlight first. The Sun does not move round us; the spinning Earth carries us into the light (sunrise), under it (noon) and away from it (sunset). This is the Sun's apparent movement.",
+   "safety": "Don't shine the torch in anyone's eyes.",
+   "time": "20 min"
+  },
+  {
+   "id": "e2",
+   "title": "A pendulum that keeps its swing",
+   "day": 3,
+   "question": "If the floor turns under a swinging pendulum, what happens to the swing?",
+   "need": [
+    "a 1 metre string with a heavy nut or stone tied on",
+    "a chair or table to hang it from so it swings over a stool",
+    "a swivel stool, lazy Susan, or a stiff card on a marble",
+    "a sheet of paper with a chalk line on it, taped to the stool's seat"
+   ],
+   "steps": [
+    "Hang the pendulum so it swings just above the paper on the stool.",
+    "Start it swinging along the chalk line.",
+    "Very slowly and smoothly turn the stool a quarter turn while it swings.",
+    "Watch: does the pendulum change the direction of its swing, or does the line turn under it?"
+   ],
+   "predict": "Ask: 'When I turn the stool, will the pendulum turn with it?'",
+   "observe": "The pendulum keeps swinging in the same direction. The chalk line turns away underneath it, so from the stool's point of view the swing seems to turn.",
+   "why": "A swinging pendulum keeps swinging the same way unless something pushes it sideways. In 1851 Léon Foucault hung a 67-metre pendulum in Paris. Over hours, its swing seemed to turn slowly round the floor. Nothing pushed it: the floor, with the whole Earth, was turning underneath. It was the first direct proof you could watch.",
+   "safety": "Keep fingers and faces away from the swinging weight; a grown-up hangs it securely.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "The swivel-chair spin",
+   "day": 4,
+   "question": "Why does a spinning thing keep spinning, and spin faster when it pulls in?",
+   "need": [
+    "a stable swivel chair",
+    "two heavy books",
+    "a grown-up to give the push"
+   ],
+   "steps": [
+    "Your child sits on the swivel chair holding a book in each hand, arms stretched out wide.",
+    "Give a gentle push to start them spinning slowly.",
+    "Your child pulls the books in to their chest. Then stretches them out again.",
+    "Swap and let your child push you."
+   ],
+   "predict": "Ask: 'When you pull your arms in, will you spin faster, slower or the same?'",
+   "observe": "Pulling the books in makes you spin faster; stretching them out slows you down. Once spinning, you keep going for a while without being pushed again.",
+   "why": "Spinning things keep their 'spin' (scientists call it angular momentum) unless something slows them. Pull in your mass and you spin faster, like an ice-skater. The Earth got its spin when it formed from a spinning cloud of gas and dust about 4.5 billion years ago, and space has almost nothing to slow it, so it is still spinning. Only the Moon's gentle pull on the tides is slowing it, very, very slowly.",
+   "safety": "Spin gently; stop if your child feels dizzy. Keep the chair on a flat floor away from furniture.",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Star trails round Dhruva Tara",
+   "day": 3,
+   "mins": 12,
+   "need": [
+    "a clear night with a view north",
+    "paper and pencil, or a phone camera on a steady surface",
+    "a watch"
+   ],
+   "steps": [
+    "After dark, find the Saptarishi and follow the pointer stars to Dhruva Tara (as in Class 3).",
+    "Draw the Pole Star, the Saptarishi and a fixed rooftop or tree on the paper. Write the time.",
+    "Two hours later, from exactly the same spot, draw them again on the same paper in a different colour.",
+    "If you have a phone with a night or long-exposure mode, take a photo pointing at the Pole Star; a long exposure shows curved trails."
+   ],
+   "outcome": "Two drawings showing the Saptarishi has swung round the Pole Star anticlockwise, about 30 degrees in two hours, while the rooftop stayed still."
+  },
+  {
+   "id": "a2",
+   "title": "A night walk",
+   "day": 6,
+   "mins": 15,
+   "need": [
+    "a torch covered with red cellophane held by a rubber band",
+    "a grown-up",
+    "a notebook"
+   ],
+   "steps": [
+    "Go out just after dark into your garden, colony park or the edge of a field, with a grown-up.",
+    "Switch off the torch and stand still for two minutes to let your eyes adjust.",
+    "Listen and look: crickets, frogs, owls, bats over streetlights, moths, geckos, fireflies.",
+    "Use the red torch (which disturbs animals and your night vision less) to look at a tree trunk, a leaf or a wall.",
+    "Note what you find and which way the light comes from: the Moon, streetlights, houses."
+   ],
+   "outcome": "A short list of night beings and notes on how much artificial light is around them."
+  }
+ ],
+ "project": {
+  "title": "Proof the Earth spins: a poster",
+  "days": [
+   1,
+   3,
+   4,
+   5,
+   7
+  ],
+  "steps": [
+   "Divide a poster into five boxes.",
+   "Box 1: the day–night line on a globe, with sunrise travelling across India (Day 2).",
+   "Box 2: the star-trail drawings round the Pole Star (Day 3).",
+   "Box 3: the pendulum test and Foucault's pendulum (Day 3).",
+   "Box 4: the swivel-chair spin and why the Earth keeps spinning (Day 4).",
+   "Box 5: a coral or shell diary showing the days getting longer (Day 5).",
+   "Title it: 'How we know the Earth spins'."
+  ],
+  "outcome": "A poster of evidence your child gathered themselves, used to answer a doubter."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Sunrise Race",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "counters"
+  ],
+  "rules": [
+   "Everyone starts at MIDNIGHT. The aim is to spin round to NEXT MIDNIGHT.",
+   "Roll and move. On a 'Spin' square, explain the thing written there in one sentence; if the others agree, move on 2.",
+   "Follow the instructions on other squares.",
+   "First to NEXT MIDNIGHT wins."
+  ],
+  "squares": [
+   "MIDNIGHT (start)",
+   "Owl hunting: move on 1",
+   "Spin: why is it dark now?",
+   "Dong sees sunrise first: move on 2",
+   "DAWN",
+   "Spin: why does the Sun rise in the east?",
+   "Shadow long: what time is it?",
+   "You felt the Earth move? No! Miss a turn",
+   "Spin: how fast are we going?",
+   "NOON",
+   "Spin: why is half the Earth always lit?",
+   "Venus day: wait, miss a turn",
+   "Jupiter day: so short, move on 2",
+   "Spin: what did Foucault's pendulum show?",
+   "Kutch sees the sunset last",
+   "DUSK",
+   "Spin: why do stars circle the Pole Star?",
+   "Bats come out: move on 1",
+   "Bright lights confuse a turtle: back 2",
+   "Spin: why is the day getting longer?",
+   "Midnight sun in Svalbard: move on 1",
+   "NEXT MIDNIGHT"
+  ]
+ },
+ "big": [
+  "If you had never been told, would you have guessed that the ground is spinning? What else might be true that we can't feel?",
+  "Night is the busy time for many beings. Do we have the right to light it up?",
+  "If one day lasted a year, as it nearly does on Mercury, how would life be different?",
+  "Aryabhata believed something for good reasons long before it was proved. When is it right to believe without proof?"
+ ],
+ "challenge": [
+  {
+   "q": "'The Earth takes exactly 24 hours to spin once.' Does it?",
+   "hint": "Not quite. Measured against the far stars, one spin takes about 23 hours 56 minutes. But the Earth also moves along its path round the Sun, so it must turn a little extra to bring the Sun back to the same place: that makes the 24-hour solar day we use for clocks. Day lengths also wobble by tiny fractions of a second."
+  },
+  {
+   "q": "'If the Earth were spinning, a ball thrown up would land far behind you.' Would it?",
+   "hint": "No. Galileo pointed out that a stone dropped from the mast of a smoothly moving ship lands at the foot of the mast, because the stone is already moving with the ship. The ball, the air and you all move with the spinning Earth. That is why it took careful thinking, and later experiments like Foucault's, to prove the spin."
+  },
+  {
+   "q": "'Nocturnal animals can see in complete darkness.' Can they?",
+   "hint": "No animal can see with no light at all. Owls and cats need far less light than we do, and bats use sound (echolocation) instead of sight. Some snakes 'see' the warmth of their prey. What does an animal use when there is truly no light?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Astronauts on the International Space Station",
+   "view": "Going round the Earth about 15 and a half times a day, astronauts see about 16 sunrises and sunsets every 24 hours, so they live by a clock, not by the Sun. Ask: what would happen to your sleep with 16 sunsets a day?"
+  },
+  {
+   "who": "Night-shift workers",
+   "view": "Nurses, police officers, bakers, drivers and call-centre workers keep the world running while others sleep. Doctors find that working at night for years can upset the body's clock. Ask: who works at night so that we can live as we do in the day? Do we notice them?"
+  },
+  {
+   "who": "A moth",
+   "view": "Moths fly under the stars and Moon. Around a streetlight, many circle until they are exhausted or eaten. Scientists in 2024 suggested that insects try to keep their backs towards the brightest light, which used to be the sky. Ask: what does our light look like from a moth's point of view?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Aryabhata (476–about 550 CE), Kusumapura, India",
+   "idea": "In the Aryabhatiya (499 CE) he wrote that it is the Earth that turns, and compared it to a man in a moving boat who sees the trees on the bank moving backwards: in the same way the fixed stars seem to move west.",
+   "then": "Most astronomers of his time, in India and elsewhere, believed the Earth stood still. Later Indian astronomers, including Brahmagupta, argued against him.",
+   "now": "He was right: the Earth spins once a day. He had no way to prove it, but his reasoning was sound.",
+   "status": "accepted",
+   "ask": "Aryabhata could not feel the Earth move or prove it. Why do you think he believed it anyway? Is a good argument enough without proof?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Léon Foucault (1819–1868), France",
+   "idea": "In 1851 he hung a heavy ball on a 67-metre wire from the dome of the Panthéon in Paris. As it swung for hours, the direction of its swing slowly turned round, knocking over little markers on the floor. Nothing was pushing it: the Earth was turning beneath it.",
+   "then": "Crowds came to watch. It was the first experiment that let ordinary people see the Earth's spin with their own eyes, though the idea itself had been accepted by scientists for a long time.",
+   "now": "Foucault pendulums now swing in science museums all over the world, including in India, and still show the Earth turning.",
+   "status": "accepted",
+   "ask": "Scientists already believed the Earth spins before 1851. Why was it still important to show it in a way anyone could see?",
+   "day": 3
+  },
+  {
+   "id": "v3",
+   "who": "John W. Wells (1907–1994), USA, and Niels de Winter and colleagues (2020), Belgium",
+   "idea": "In 1963 Wells counted the daily growth lines on fossil corals about 400 million years old and found that a year then had about 400 days. In 2020 de Winter's team studied a fossil shell from 70 million years ago, the age of the dinosaurs, and found a year had about 372 days, each about half an hour shorter than ours.",
+   "then": "Wells's idea that corals record days was new and surprising; scientists checked it against what was known about the Moon slowly slowing the Earth.",
+   "now": "It is accepted that the Earth's spin is slowing and days are getting longer, mainly because of the Moon's pull on the tides. The exact numbers for the deep past are still being refined.",
+   "status": "accepted",
+   "ask": "A coral that died 400 million years ago kept a diary without knowing it. What things around you are keeping records of time without meaning to?",
+   "day": 5
+  }
+ ],
+ "books": [
+  {
+   "title": "Night Animals",
+   "author": "Gianna Marino",
+   "for": "read together",
+   "age": "3–7",
+   "why": "A funny picture book in which night animals are scared of each other, until they meet the scariest thing of all: a boy with a torch."
+  },
+  {
+   "title": "Owl Moon",
+   "author": "Jane Yolen",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A quiet, beautiful story of a child going out on a winter night to look for an owl; perfect before the night walk."
+  },
+  {
+   "title": "The Sun Is Kind of a Big Deal",
+   "author": "Nick Seluk",
+   "for": "read alone",
+   "age": "5–9",
+   "why": "A cheerful comic-style book about the Sun and how the Earth's spin gives us day and night."
+  }
+ ],
+ "check": [
+  {
+   "q": "What causes day and night?",
+   "a": "The Earth spins on its axis. The half facing the Sun has day; the other half has night."
+  },
+  {
+   "q": "Why does the Sun seem to move from east to west?",
+   "a": "Because the Earth spins from west to east, carrying us towards and away from the Sun."
+  },
+  {
+   "q": "Why does the Sun rise earlier in Arunachal Pradesh than in Gujarat?",
+   "a": "It is further east, so it turns into the sunlight first."
+  },
+  {
+   "q": "Give one piece of evidence that the Earth spins.",
+   "a": "Stars circle the Pole Star through the night; Foucault's pendulum changes the direction of its swing."
+  },
+  {
+   "q": "Why don't we feel the Earth spinning?",
+   "a": "We, the air and everything around us move together smoothly at the same speed."
+  },
+  {
+   "q": "Is a day the same length on every planet?",
+   "a": "No. Jupiter's is about 10 hours; Venus's is longer than its year; Mercury's is about 176 Earth days."
+  },
+  {
+   "q": "Is Earth's day changing?",
+   "a": "Yes, it is very slowly getting longer, because the Moon's pull on the tides acts like a brake."
+  },
+  {
+   "q": "Name a night animal and how it is suited to the dark.",
+   "a": "For example, a bat uses echolocation; an owl has huge eyes and very sharp hearing."
+  }
+ ],
+ "story": {
+  "title": "The Ferry Girl of Kusumapura",
+  "text": [
+   "This story is imagined, but the river, the city and the young astronomer's words are real.",
+   "Fifteen hundred years ago, in the great city of Kusumapura, where the Ganga is so wide that the far bank is only a dark line, there lived a girl called Sujata who rowed a ferry. Her father had rowed it before her, until his shoulders grew stiff, and now she did it, back and forth, back and forth, from the ghats of the city to the sandbanks on the other side, carrying fishermen and washerwomen and goats and baskets of mangoes.",
+   "She knew the river better than she knew her own hands. She knew where the current pulled and where the water lay still and green. She knew that if you rowed hard against the stream you could stay exactly in one place, like a heron holding itself still in the wind.",
+   "Most of her passengers came in the day. But one came at night.",
+   "He was young, not much more than twenty, thin, with ink stains on his fingers and a cloth bag full of palm-leaf manuscripts. He paid her two copper coins to row him out to the middle of the river, where there were no lamps, and then he would lie back in the bottom of the boat and look up at the stars. Sometimes he lay there for hours, so still that Sujata thought he was asleep, until he suddenly sat up and scratched something on a palm leaf with a stylus.",
+   "\"What are you looking for?\" she asked him one night.",
+   "\"I am trying to understand why the stars move,\" he said.",
+   "Sujata looked up. It was true. If you watched long enough, the stars wheeled slowly across the sky, rising out of the east and sinking into the west, all together, as if they were painted on the inside of a great turning bowl. Only one star near the north stayed almost still.",
+   "\"Everyone knows why,\" said Sujata. \"The sky turns. The stars are fixed to it.\"",
+   "\"That is what everyone says,\" said the young man. \"The great teachers say the Earth is still and the whole sky turns around it every day. But think how fast that would be. The stars are very far away. For the whole sky to swing round in a day, they would have to rush through space faster than anything we can imagine. All of them. Together. Every day.\"",
+   "Sujata had never thought about how fast the stars would have to go. She pulled on her oars and said nothing.",
+   "The next evening he came early, before the stars, and asked her to row him downstream, along the bank, with the current. Sujata did. The river was strong after the rains, and they slid along quickly and smoothly, with hardly a ripple, the oars resting.",
+   "\"Look at the bank,\" he said.",
+   "Sujata looked. The trees on the bank were moving. The temples, the ghats, the women washing clothes, the boys diving off the steps, all were sliding backwards past them, steadily, smoothly, upstream.",
+   "\"The bank is running away,\" she said, and laughed. She had seen it every day of her life and never once thought about it.",
+   "\"Is it?\" said the young man. \"Or is it us?\"",
+   "Sujata stopped laughing. Of course the bank wasn't moving. The boat was. She could feel it if she trailed her hand in the water. But if she closed her eyes, if the river had been perfectly smooth, and she had only her eyes to go by, she would have sworn that she was still and the whole world was sliding past her.",
+   "She looked up. The first stars were appearing in the east, over the dark line of the far bank. And slowly, slowly, as she watched them, they rose, just as the trees slid backwards.",
+   "\"The stars are the bank,\" she whispered. \"And we are the boat.\"",
+   "The young man looked at her for a long moment. Then he smiled, the first time she had ever seen him smile, and took out his stylus and a palm leaf, and wrote by the light of the last of the sunset.",
+   "\"What does it say?\" she asked. She could not read.",
+   "He read it to her. \"Just as a man in a boat moving forward sees the still trees on the bank moving backwards, so the still stars are seen moving towards the west.\"",
+   "\"But the boat is the whole Earth?\" said Sujata. \"The Earth is turning? Then why don't we feel it?\"",
+   "\"Did you feel the boat just now?\" he asked.",
+   "She hadn't. Not with the oars still, and the river smooth.",
+   "Many years later, when Sujata was old and her own daughter rowed the ferry, a traveller told her that a great astronomer of Kusumapura called Aryabhata had written a famous book, and that in it he said the Earth turns, and that many learned men thought he was wrong. Sujata only nodded. She went down to the river at dusk, and sat on the steps, and watched the first stars rise over the far bank, slowly, smoothly, the way trees slide past a boat."
+  ],
+  "epiphany": "We cannot feel the Earth spinning because it turns smoothly and carries us with it, just as a smoothly gliding boat seems still while the bank slides past. The turn comes when Sujata, drifting downstream, sees the trees on the bank 'move' backwards and realises the stars rising in the east are the bank, and the Earth is the boat. The scene is imagined; Aryabhata's comparison is real, from the Aryabhatiya (499 CE).",
+  "ask": [
+   "Why did the trees on the bank seem to move?",
+   "What did Sujata mean when she said, 'The stars are the bank, and we are the boat'?",
+   "Why didn't Sujata feel the boat moving?",
+   "Why did many learned people think Aryabhata was wrong?",
+   "Sujata helped with the idea but could not read. Whose ideas do you think get written down, and whose don't?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "The ground under your feet is spinning, and you are moving at over 1,500 km an hour without feeling it.",
+   "more": "Like a smooth boat or train, the Earth carries you, the air and everything together. Only clues like star trails and Foucault's pendulum give it away."
+  },
+  {
+   "idea": "Day and night are not things that happen to the Sun; they are where you are standing on a turning ball.",
+   "more": "Right now, half the Earth is in daylight and half in night. Somewhere the Sun is rising, and somewhere it is setting, at every moment."
+  },
+  {
+   "idea": "Half the world's beings live by night.",
+   "more": "Owls, bats, moths, geckos and many others are built for the dark. Our lights change their world, so the night is something we share, not something empty."
+  }
+ ],
+ "unknowns": [
+  "Why does Venus spin backwards, so slowly that its day is longer than its year? Ideas include a giant collision long ago or the pull of the Sun on its thick air, but nobody knows for sure.",
+  "Exactly how long was a day when the Earth was young? Scientists agree it was much shorter, perhaps just a few hours at the very start, but the details are still argued about.",
+  "How do insects get trapped by lights? Scientists offered a new explanation in 2024, but are still testing it."
+ ]
+}

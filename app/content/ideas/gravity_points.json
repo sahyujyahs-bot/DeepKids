@@ -1,0 +1,716 @@
+[
+ {
+  "topic": "What is Gravity?",
+  "concept": "Mass/Energy Curves, stretches ST, & results in all objects around being dragged towards itself",
+  "activity": "- blanket stretched, balls placed 1 big, some small, another bigger, 2 equal",
+  "packaging": "Set 1 Actions, Outcomes Cards, Concept Cards\n\nSet 2 Draw 2 from Elements Cards (with energy, mass, density , distance/height deets- puller scores; Outcomes Cards distributed, extra points for the one throwing the right outcome card"
+ },
+ {
+  "topic": "What is Gravity?",
+  "concept": "Everything gets dragged towards everything else, heaviers ones succeed",
+  "activity": "- Draw cards- predict which gets pulled",
+  "packaging": ""
+ },
+ {
+  "topic": "What is Gravity?",
+  "concept": "No one is actually pulling, no energy expended by objects on gravity",
+  "activity": "Pull another, expend energy. But thats not gravity\nTug -of War",
+  "packaging": ""
+ },
+ {
+  "topic": "What is Gravity?",
+  "concept": "Lagrange Point",
+  "activity": "two pull you from either side, what point do you not get pulled at all",
+  "packaging": ""
+ },
+ {
+  "topic": "Why is center of curvature at the geometric center?",
+  "concept": "ST unlike blanket is 3+ D, so center of curvature = center of object",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Why is center of curvature at the geometric center?",
+  "concept": "End point of gravity is at geometric center, where Fg=0",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Why is center of curvature at the geometric center?",
+  "concept": "Fg is highest at surface, decreases towards core, decreases as we go up above the surface",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "G on Earth",
+  "concept": "Pulls us back down when we jump, pulls objects down",
+  "activity": "make an object float with no other material used\nhow high can you jump?\nclimb stairs, \nclimb slide",
+  "packaging": "Set 3 Draw, Do, Answer, Verify (Do, Question & Answer Cards - numbered) - arrange and follow or shuffle, play relevant cards in a circle"
+ },
+ {
+  "topic": "G on Earth",
+  "concept": "Escape velocity",
+  "activity": "Jump on Trampoline\nCan you jump into the sky? How? Extra Energy\nPick paper clip with magnet\nfeather float with dryer",
+  "packaging": ""
+ },
+ {
+  "topic": "G on Earth",
+  "concept": "CoG=CoB",
+  "activity": "Yoga Pose - One leg standing\nYoga Pose 2\nGravitational Spinner\nJenga",
+  "packaging": ""
+ },
+ {
+  "topic": "G on Earth",
+  "concept": "gravitational anamolies- density of material below surface & height less , himalayas, granite mountain, quick sand, equator<poles",
+  "activity": "Himalayas Hints \nQuick Sand g highest at surface \nOcean g high if below surface density high \"Below Surface Density\nHeight From Core\"\nGranite Mountain \nEquator \nPoles\nPhotons",
+  "packaging": "Set 4 Predict \nLocations Cards (density, height) with Q & options\nHints Sheet\nAnswers Cards"
+ },
+ {
+  "topic": "G on Earth",
+  "concept": "Tides - Sun & Moons pull on Earth",
+  "activity": "(outcome of Moon & Ocean Element cards)",
+  "packaging": "Set 2 Cards"
+ },
+ {
+  "topic": "G on Earth",
+  "concept": "Water bulges out on both sides",
+  "activity": "(Spl outcome of Moon & Ocean Element cards)",
+  "packaging": "Set 2 Cards"
+ },
+ {
+  "topic": "Earths Fg on Light",
+  "concept": "Gravitational Lensing- Photons, energy pockets, particles of the sun, coming to earth along the ST curves of the earth, so bend",
+  "activity": "(outcome of light & Earth)",
+  "packaging": "Set 2 Cards"
+ },
+ {
+  "topic": "Earths Fg on Light",
+  "concept": "Gravitational redshift - C constant, but, escaping gravity needs more energy to maintain speed c, so loses energy, frequency & wavelength increases",
+  "activity": "(outcome of light & Sun)",
+  "packaging": "Set 2 Cards"
+ },
+ {
+  "topic": "Does Photon Have Gravity?",
+  "concept": "Photon with no rest mass, but energy, also curves ST",
+  "activity": "predict g",
+  "packaging": "Set 4 Cards"
+ },
+ {
+  "topic": "Quip",
+  "concept": "Mass is a form of energy",
+  "activity": "T or F cards, Answer cards",
+  "packaging": "Set 5 Cards"
+ },
+ {
+  "topic": "Normal Force",
+  "concept": "If not for a solid ground, we would be dragged till we reach the core, along the gravity",
+  "activity": "Who gets pulled & Outcomes Empty Space, Earth,Jupiter,Uranus, Moon, Blackhole - Outcomes on a human floating",
+  "packaging": "Set 2 Cards"
+ },
+ {
+  "topic": "Normal Force",
+  "concept": "Every object, every surface, exhibits an opposite push force, against the force applied on it - press into wall, wood, cushion, water - some opp Fn is lesser so you pierce through, some larger so solid",
+  "activity": "lie down & catch another falling\nhow are you standing?\nPush on wall, push on cushion, push water. Were you be able to pierce through?",
+  "packaging": "Set 3 Cards"
+ },
+ {
+  "topic": "Normal Force",
+  "concept": "Where does this Normal Force comes from, my body e and ground e repelling. depends on density of surface - ground dense enough , high Fn, water, less dense, less Fn, air even lesser - air resistance",
+  "activity": "drop crumpled and normal paper and one over other - air resistance vs gravity",
+  "packaging": "Set 3 Cards"
+ },
+ {
+  "topic": "Normal Force",
+  "concept": "Ground keeps you from getting pulled into the core - by applying an equal and opposite push force to the gravity's pull, called the Normal Force",
+  "activity": "(outcome Human in space, Earth -Land)",
+  "packaging": "Set 2 Cards"
+ },
+ {
+  "topic": "Normal Force",
+  "concept": "Water is not dense enough to keep you from falling, which is why you sink in a pool or ocean",
+  "activity": "(outcome Human in space, Earth -Ocean",
+  "packaging": "Set 2 Cards"
+ },
+ {
+  "topic": "Normal Force",
+  "concept": "Two ways to not sink in the ocean, to kick, generate extra force against the gravity, so the push force of water surface(buoyant force + kick force = Fg, or you align your body, spread in such a way, that the buoyant force across the surface water you cover can hold you up, with Fb=Fg",
+  "activity": "not sinking in a pool? How? Why?",
+  "packaging": "Set 3 Cards"
+ },
+ {
+  "topic": "Normal Force",
+  "concept": "Trampoline , Impact force from elastic energy",
+  "activity": "Jump on a trampoline. How are you able to reach a greater height?",
+  "packaging": "Set 3 Cards"
+ },
+ {
+  "topic": "0 Gravity",
+  "concept": "When no bodies around, no gravity, no pull - so float",
+  "activity": "(outcome of empty space & human floating cards)",
+  "packaging": "Set 2 Cards"
+ },
+ {
+  "topic": "0 Gravity",
+  "concept": "But unless in deep space fully empty, 0 gravity is theoritical, lilttle bit of gravity always",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "0 Gravity",
+  "concept": "What happens in 0 Gravity - Float in the same speed & direction in which you got ejecte into deepspace. cant change speed or direction becuase no particles around",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "there are 3, true Weight =mg, W we measure = Fn, W we feel",
+  "activity": "Measure your weight on a scale. then lift up one leg in the air- what happens to the reading on the scale? Did you feel like your weight or mass changed? then why did the scale change?\nWhen you held your friend from falling, did you feel his weight?",
+  "packaging": "Set 3 Cards"
+ },
+ {
+  "topic": "Weight",
+  "concept": "in 0 G, true weightlessness , Wtrue=Fn=W we feel =0",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "W=Fn on Ground, moving elevator W=Fn+-Fa",
+  "activity": "Float in a pool",
+  "packaging": "Set 3 Cards"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Floating in Pool , Wtrue=mg, Wapparent = Fb, but we feel W=0",
+  "activity": "Measure your weight on the ground, on an elevator moving up and while moving down, Note the values. Are they same? Is your true weight changing? then why are the readings?",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Suspended in Pool, Wture=mg, Wapparent= Fb+Fkick, W we feel, lighter",
+  "activity": "Stay suspended in a pool",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Standing in a pool on a scale , Wture=mg, Wmeasured=Fn-Fb, W we feel, lighter",
+  "activity": "measure weight inside a pool",
+  "packaging": ""
+ },
+ {
+  "topic": "ISS",
+  "concept": "ISS we experience weightlessness, not 0 g becuse Wtrue=mgiss (90%g), Fn=0",
+  "activity": "T or F Cards , Answer Cards",
+  "packaging": "Set 5 Cards"
+ },
+ {
+  "topic": "ISS",
+  "concept": "if no Fn holding us, why arent we falling into g? - cos of sideways velocity - 7.6Km/s, 13-15 orbits per day",
+  "activity": "T or F Cards , Answer Cards",
+  "packaging": ""
+ },
+ {
+  "topic": "ISS",
+  "concept": "ISS surfing gravity waves just like ocean surfing",
+  "activity": "T or F Cards , Answer Cards",
+  "packaging": ""
+ },
+ {
+  "topic": "Escaping G",
+  "concept": "orbital velocity",
+  "activity": "Hoola Hoop,moon& ISS , Planets around Sun",
+  "packaging": "Set 3 Cards"
+ },
+ {
+  "topic": "Escaping G",
+  "concept": "Earth around Sun, Moon,Iss around earth",
+  "activity": "T or F Cards , Answer Cards",
+  "packaging": "Set 5 Cards"
+ },
+ {
+  "topic": "Time Dialation",
+  "concept": "Time runs slower towards the core than at the surface",
+  "activity": "Time Dialation Story of 4 Sisters",
+  "packaging": "Comic Book"
+ },
+ {
+  "topic": "Time Dialation",
+  "concept": "Time runs faster in space than at the surface",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Time Dialation",
+  "concept": "GPS corrections",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Gravitons?",
+  "concept": "Is Gravity a quantum force?",
+  "activity": "T or F Cards , Answer Cards",
+  "packaging": "Set 5 Cards"
+ },
+ {
+  "topic": "Quip",
+  "concept": "Universe a dance between dark matter expansion & attractive gravity",
+  "activity": "T or F Cards , Answer Cards",
+  "packaging": "Set 5 Cards"
+ },
+ {
+  "topic": "Centrepetal -Artificial gravity",
+  "concept": "rotate, particles gets pulled in towards the center",
+  "activity": "mom filter coffee- tumbler",
+  "packaging": "Set 3 Cards"
+ },
+ {
+  "topic": "Tides",
+  "concept": "🌕 1. Tides happen because gravity isn’t the same everywhere\n\nEarth and Moon pull on each other gravitationally.\nBut here’s the key:\n\nThe side of Earth facing the Moon feels a stronger pull than\n\nthe center of the Earth, which feels stronger than\n\nthe far side.\n\nThat gradient — not the absolute pull — stretches the planet.\n\n👉 This is why tides are caused by differential gravity, not just “the Moon pulling water.”\n\n🌊 2. The Earth bulges on both sides\n\nThis always surprises people. If the Moon pulls water toward it, why is there a high tide on the opposite side too?\n\nNear side: water gets pulled harder toward the Moon → bulge.\n\nFar side: the Moon pulls the Earth itself slightly more than the water far away → Earth moves closer to the Moon than the far-side water → bulge in the opposite direction.\n\nResult:\n\nTwo bulges of water on opposite sides of the Earth.\n\nAs the Earth rotates through these bulges, coastal regions experience two high tides and two low tides every ~24 hours.\n\n5\n☀️ 3. The Sun plays a role too\n\nThe Sun is way bigger than the Moon, but it’s also much farther away, so its tidal effect is weaker than the Moon’s but still significant.\n\nWhen Sun + Moon line up (New Moon, Full Moon):\n→ tidal forces add up → Spring Tides (biggest highs and lows).\n\nWhen Sun and Moon are at right angles (First & Third Quarter):\n→ tidal forces partially cancel → Neap Tides (smallest highs and lows).\n\n📅 Tidal patterns follow both the lunar day (~24h 50min) and the moon phases.\n\n🪨 4. Land tides are real too\n\nTides aren’t just about water.\nThe solid Earth also flexes by about 30 cm every day due to the same forces.\nWater just makes it obvious because it flows more easily.\n\n🌌 5. Tides explain a lot more than beaches\n\nTidal locking:\nThe Moon always shows the same face to Earth because over millions of years, Earth’s tidal pull slowed the Moon’s rotation until it matched its orbit. That’s how we get one “near side” forever.\n\nOrbital evolution:\nEarth’s rotation is gradually slowing down, and the Moon is slowly drifting away (about 3.8 cm/year) due to tidal energy transfer.\n\nTidal heating:\nMoons like Io (around Jupiter) experience huge tidal forces. The stretching and squeezing creates internal friction → heat → volcanic activity.\n\nTidal disruption:\nGet too close to a massive body, and tidal forces can tear things apart (e.g., Roche limit).\n\n📈 6. The math behind tides (clean version)\n\nTidal acceleration is roughly:\n\n𝑎\ntidal\n≈\n2\n𝐺\n𝑀\n𝑅\n𝑟\n3\na\ntidal\n \n\n≈2GM\nr\n3\nR\n \n\nwhere:\n\n𝑀\nM = mass of the moon (or other body)\n\n𝑅\nR = radius of the Earth\n\n𝑟\nr = distance to the Moon.\n\nNotice the \n𝑟\n3\nr\n3\n in the denominator → tidal effects drop off very fast with distance.\nThat’s why distant stars don’t give us beach tides.\n\n⚡ 7. Why tides vary from place to place\n\nShape of coastlines\n\nOcean depth\n\nLatitude and Coriolis effect\n\nLocal resonance\n\nThat’s why the Bay of Fundy has a record 16 m tidal range, while other coasts barely notice it.",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Element",
+  "activity": "Mass",
+  "packaging": "Energy"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Sun",
+  "activity": "↑↑↑↑",
+  "packaging": "↑↑↑↑"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Earth",
+  "activity": "↑↑↑",
+  "packaging": "↑↑"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Moon",
+  "activity": "↑↑",
+  "packaging": "↑"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Jupiter",
+  "activity": "↑↑↑↑",
+  "packaging": "↑↑↑"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Uranus",
+  "activity": "↑↑↑",
+  "packaging": "↑↑"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Black Hole (huge)",
+  "activity": "↑↑↑↑",
+  "packaging": "↑↑↑↑"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Black Hole (small)",
+  "activity": "↑↑↑",
+  "packaging": "↑↑↑"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Light (photons)",
+  "activity": "m₀=0",
+  "packaging": "↑↑↑↑"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Empty Deep Space",
+  "activity": "•",
+  "packaging": "•"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Element",
+  "activity": "Mass (kg)",
+  "packaging": "Energy (E) (J)"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Earth",
+  "activity": "(5.972\\times10^{24})",
+  "packaging": "(5.37\\times10^{41})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Sun",
+  "activity": "(1.9885\\times10^{30})",
+  "packaging": "(1.79\\times10^{47})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Moon",
+  "activity": "(7.342\\times10^{22})",
+  "packaging": "(6.60\\times10^{39})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Jupiter",
+  "activity": "(1.898\\times10^{27})",
+  "packaging": "(1.71\\times10^{44})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Uranus",
+  "activity": "(8.681\\times10^{25})",
+  "packaging": "(7.80\\times10^{42})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Black Hole (huge) (~10^8 M☉)",
+  "activity": "(1.99\\times10^{38})",
+  "packaging": "(1.79\\times10^{55})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Black Hole (small) (~10 M☉)",
+  "activity": "(1.99\\times10^{31})",
+  "packaging": "(1.79\\times10^{48})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Land (continental crust above sea level, rough)",
+  "activity": "(\\sim1.5\\times10^{22})",
+  "packaging": "(\\sim1.35\\times10^{39})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Ocean (all Earth’s seawater)",
+  "activity": "(1.4\\times10^{21})",
+  "packaging": "(1.26\\times10^{38})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Empty Deep Space",
+  "activity": "~0 (per card; no fixed volume)",
+  "packaging": "~0 (per card)"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Asteroid (~1 km dia., ρ≈2000 kg/m³)",
+  "activity": "(\\sim1\\times10^{12})",
+  "packaging": "(\\sim8.99\\times10^{28})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Dust Particles (~10 μm grain)",
+  "activity": "(\\sim1\\times10^{-11})",
+  "packaging": "(\\sim9\\times10^{5})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Human Floating in Space",
+  "activity": "(\\sim70)",
+  "packaging": "(\\sim6.29\\times10^{18})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Human On Land",
+  "activity": "(\\sim70)",
+  "packaging": "(\\sim6.29\\times10^{18})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Light (Photons)",
+  "activity": "(m_0=0)",
+  "packaging": "per photon (e.g., 500 nm ≈ (3.97\\times10^{-19}) J)"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Himalayas (very rough mountain-range bulk)",
+  "activity": "(\\sim5\\times10^{18})",
+  "packaging": "(\\sim4.49\\times10^{35})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Quick Sand (local patch; highly variable)",
+  "activity": "(\\sim1\\times10^{8})",
+  "packaging": "(\\sim8.99\\times10^{24})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Ocean (duplicate row in your list — same as above)",
+  "activity": "(1.4\\times10^{21})",
+  "packaging": "(1.26\\times10^{38})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Granite Mountain (single big mountain)",
+  "activity": "(\\sim1\\times10^{15})",
+  "packaging": "(\\sim8.99\\times10^{31})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Equator (regional belt; N/A without chosen size)",
+  "activity": "N/A (regional)",
+  "packaging": "N/A (regional)"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Poles (regional caps; N/A without chosen size)",
+  "activity": "N/A (regional)",
+  "packaging": "N/A (regional)"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Space (generic card like “Empty Deep Space”)",
+  "activity": "~0",
+  "packaging": "~0"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Chocolate Goo Planet (fictional, internally consistent)",
+  "activity": "(\\boxed{1\\times10^{23}})",
+  "packaging": "(\\boxed{8.99\\times10^{39}})"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Mass/Energy Curves, stretches ST, & results in all objects around being dragged towards itself",
+  "activity": "- blanket stretched, balls placed 1 big, some small, another bigger, 2 equal",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "No one is actually pulling, no energy expended by objects on gravity",
+  "activity": "Pull another, expend energy. But thats not gravity\nTug -of War",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Lagrange Point",
+  "activity": "two pull you from either side, what point do you not get pulled at all",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Pulls us back down when we jump, pulls objects down",
+  "activity": "make an object float with no other material used\nhow high can you jump?\nclimb stairs, \nclimb slide",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Escape velocity",
+  "activity": "Jump on Trampoline\nCan you jump into the sky? How? Extra Energy\nPick paper clip with magnet\nfeather float with dryer",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "CoG=CoB",
+  "activity": "Yoga Pose - One leg standing\nYoga Pose 2\nGravitational Spinner\nJenga",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Every object, every surface, exhibits an opposite push force, against the force applied on it - press into wall, wood, cushion, water - some opp Fn is lesser so you pierce through, some larger so solid",
+  "activity": "lie down & catch another falling\nhow are you standing?\nPush on wall, push on cushion, push water. Were you be able to pierce through?",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Where does this Normal Force comes from, my body e and ground e repelling. depends on density of surface - ground dense enough , high Fn, water, less dense, less Fn, air even lesser - air resistance",
+  "activity": "drop crumpled and normal paper and one over other - air resistance vs gravity",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Two ways to not sink in the ocean, to kick, generate extra force against the gravity, so the push force of water surface(buoyant force + kick force = Fg, or you align your body, spread in such a way, that the buoyant force across the surface water you cover can hold you up, with Fb=Fg",
+  "activity": "not sinking in a pool? How? Why?",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Trampoline , Impact force from elastic energy",
+  "activity": "Jump on a trampoline. How are you able to reach a greater height?",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "there are 3, true Weight =mg, W we measure = Fn, W we feel",
+  "activity": "Measure your weight on a scale. then lift up one leg in the air- what happens to the reading on the scale? Did you feel like your weight or mass changed? then why did the scale change?\nWhen you held your friend from falling, did you feel his weight?",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "in 0 G, true weightlessness , Wtrue=Fn=W we feel =0",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "W=Fn on Ground, moving elevator W=Fn+-Fa",
+  "activity": "Float in a pool",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Floating in Pool , Wtrue=mg, Wapparent = Fb, but we feel W=0",
+  "activity": "Measure your weight on the ground, on an elevator moving up and while moving down, Note the values. Are they same? Is your true weight changing? then why are the readings?",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Suspended in Pool, Wture=mg, Wapparent= Fb+Fkick, W we feel, lighter",
+  "activity": "Stay suspended in a pool",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Standing in a pool on a scale , Wture=mg, Wmeasured=Fn-Fb, W we feel, lighter",
+  "activity": "measure weight inside a pool",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "rotate, particles gets pulled in towards the center",
+  "activity": "mom filter coffee- tumbler",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "orbital velocity",
+  "activity": "Hoola Hoop,moon& ISS , Planets around Sun",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Gravity Wells",
+  "activity": "Earth - layers above, layers below",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Black Hole",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Forces Against Gravity",
+  "activity": "Normal Force",
+  "packaging": "lie down & catch another falling\n\nPush on wall, push on cushion, push water. Were you be able to pierce through?"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Buoyancy - low G mode",
+  "packaging": "Float in a pool\nStay suspended in a pool"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Sideways Velocity",
+  "packaging": "Hoola Hoop\nmoon& ISS , Planets around Sun (colouring pages)\nSurfing"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Impact Force -Elastic Energy",
+  "packaging": "Jump on Trampoline"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "CoG=CoB",
+  "packaging": "Yoga Pose - One leg standing\nYoga Pose 2\nGravitational Spinner\nJenga"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Escape Velocity",
+  "packaging": "Make rocket - chemical energy?"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Magnetic Energy",
+  "packaging": "Pick paper clip with magnet"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Air Resistance",
+  "packaging": "drop crumpled and normal paper and one over other -"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Physical Work",
+  "packaging": "how high can you jump?\nclimb stairs, \nclimb slide"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Air Lift",
+  "packaging": "feather float with dryer"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Neutral Pull",
+  "packaging": "Tug -Off War"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Wieght Loss (mass)",
+  "packaging": "\"Measure your weight on a scale. then lift up one leg in the air- what happens to the reading on the scale? Did you feel like your weight or mass changed? then why did the scale change?\nWhen you held your friend from falling, did you feel his weight? \"\n\nmeasure weight inside a pool\n\nMeasure your weight on the ground, on an elevator moving up and while moving down, Note the values. Are they same? Is your true weight changing? then why are the readings?"
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "Knowledge Points",
+  "packaging": "- blanket stretched, balls placed 1 big, some small, another bigger, 2 equal"
+ },
+ {
+  "topic": "Weight",
+  "concept": "Black Hole -> Gravity Increases ->All gets dragged down",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Increases your mass - hold weights and stand",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "",
+  "activity": "If FN drops below certain level, you start getting sucked into the Earth",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Do Activity Cards - Earn Force Cards - Use them to Move Away from earth",
+  "activity": "",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Catch a falling friend",
+  "activity": "Earn A Normal Force Card & get to roll the dice",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "move token as many tiles as the dice number",
+  "activity": "if you land on a gravity event - you move backwards as it says",
+  "packaging": ""
+ },
+ {
+  "topic": "Weight",
+  "concept": "Use The Force Cards earned to resist the Gravity Event",
+  "activity": "",
+  "packaging": ""
+ }
+]

@@ -137,21 +137,28 @@
     {
      "kind": "talk",
      "title": "Newton's cannon",
-     "mins": 10,
+     "mins": 8,
      "do": "Draw a big circle (the Earth) with a mountain on top and a cannon on it. Draw shots: a slow one that lands close; a faster one that lands far; a very fast one that falls all the way round and comes back. Say: 'Isaac Newton drew this in the 1680s. A satellite is falling all the time, but it is going sideways so fast (about 8 km every second for a low satellite) that the Earth's curve falls away underneath it. It keeps falling and keeps missing.' Ask: 'Why do astronauts float in the space station?' (They and the station are falling together.)"
     },
     {
      "kind": "exp",
      "title": "Sock on a string",
-     "mins": 15,
-     "do": "Do Experiment e1 outdoors.",
+     "mins": 13,
+     "do": "Do Experiment e1 outdoors. Your child swings the sock, feels the pull and predicts which way it will fly before you choose a safe moment to let go.",
      "ref": "e1"
     },
     {
      "kind": "act",
      "title": "Why we always see the same face",
-     "mins": 10,
+     "mins": 8,
      "do": "Put a chair in the middle (the Earth). Your child is the Moon and must always face the chair while walking once round it. Ask a helper to watch: 'Did the Moon spin?' (Yes, once, because it faced every wall of the room in turn.) Say: 'The Moon spins exactly once each time it goes round us, so the same face always points at Earth. The Earth's pull slowed its spin down to match, long ago.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Katherine Johnson checks the numbers",
+     "mins": 7,
+     "do": "Tell your child about Voice v4, Katherine Johnson, whose hand calculations of orbits an astronaut trusted with his life. Ask the voice question.",
+     "ref": "v4"
     },
     {
      "kind": "review",
@@ -182,7 +189,7 @@
      "kind": "exp",
      "title": "The Moon clock",
      "mins": 20,
-     "do": "Do Experiment e2.",
+     "do": "Do Experiment e2. Your child turns slowly in front of the lamp with the ball held at each of the four main phase positions, and fills in the table: phase / rises / highest / sets.",
      "ref": "e2"
     },
     {
@@ -195,7 +202,7 @@
      "kind": "ws",
      "title": "Core worksheet",
      "mins": 10,
-     "do": "Your child does the core worksheet ws1.",
+     "do": "Your child does the core worksheet ws1. Keep the sock and the lamp handy so they can test any answer they are unsure of.",
      "ref": "ws1"
     }
    ],
@@ -303,7 +310,7 @@
      "kind": "act",
      "title": "Coordinate treasure hunt",
      "mins": 15,
-     "do": "Do Activity a3 with an atlas or online map.",
+     "do": "Do Activity a3 with an atlas or online map. Your child finds the six coordinates, then writes the coordinates of your own town.",
      "ref": "a3"
     },
     {
@@ -373,21 +380,21 @@
      "kind": "game",
      "title": "Grid Quest",
      "mins": 12,
-     "do": "Play the card game g1.",
+     "do": "Play the card game g1. Check each place card in the atlas; for question cards, ask for a reason as well as the answer.",
      "ref": "g1"
     },
     {
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 12,
-     "do": "Your child tries the challenge worksheet ws3.",
+     "do": "Your child tries the challenge worksheet ws3. For the time-difference question, let them use the globe and torch to work it out.",
      "ref": "ws3"
     },
     {
      "kind": "check",
      "title": "End check",
      "mins": 9,
-     "do": "Ask the check questions aloud."
+     "do": "Ask the check questions aloud. For any muddled answer, go back to the sock, the lamp or the gridded ball and test it again."
     },
     {
      "kind": "review",
@@ -1029,6 +1036,16 @@
    "status": "debated",
    "ask": "Should clocks follow the Sun where people live, or be the same for the whole country? Who gains and who loses each way?",
    "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Katherine Johnson (1918–2020), USA",
+   "idea": "A mathematician in a group of Black women 'computers' at NASA's Langley centre, she calculated by hand the paths of early American spaceflights. In 1962, before John Glenn became the first American to orbit the Earth, he asked that she personally check the electronic computer's numbers; she did, and he flew. She later worked on calculations for the Apollo Moon missions.",
+   "then": "She worked in a segregated building at first and, like the other women, was long left out of the public story; engineers often got the credit for the flights.",
+   "now": "Her work is now honoured: she received the Presidential Medal of Freedom in 2015, and a NASA building is named after her. Her story reached the public through the 2016 book and film Hidden Figures.",
+   "status": "accepted",
+   "ask": "John Glenn trusted a person's careful checking over a new machine. When should we trust a machine's answer, and when should a human check it?",
+   "day": 2
   }
  ],
  "books": [

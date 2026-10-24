@@ -110,7 +110,7 @@
    "A2"
   ],
   "note": "",
-  "start": null,
+  "start": 3,
   "rungs": [
    {
     "cls": 3,
@@ -936,8 +936,14 @@
    "B6"
   ],
   "note": "",
-  "start": 5,
+  "start": 3,
   "rungs": [
+   {
+    "cls": 3,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
    {
     "cls": 5,
     "covers": [
@@ -1361,7 +1367,7 @@
    "B4"
   ],
   "note": "Boards meet birds only inside habitats and nature trails",
-  "start": null,
+  "start": 1,
   "rungs": [
    {
     "cls": 1,
@@ -1872,7 +1878,7 @@
    "C3"
   ],
   "note": "",
-  "start": null,
+  "start": 4,
   "rungs": [
    {
     "cls": 4,
@@ -1944,7 +1950,7 @@
    "C5"
   ],
   "note": "",
-  "start": null,
+  "start": 2,
   "rungs": [
    {
     "cls": 2,
@@ -2141,7 +2147,7 @@
    "C9"
   ],
   "note": "",
-  "start": null,
+  "start": 3,
   "rungs": [
    {
     "cls": 3,
@@ -2564,6 +2570,254 @@
      "ncert|sci|5|7",
      "nios|sci|5|10"
     ]
+   }
+  ]
+ },
+ {
+  "id": "how-we-know",
+  "title": "How we know: science, stories of discovery and questioning the evidence",
+  "dk": "The Deep End",
+  "note": "From the DeepKids notebook",
+  "deep": true,
+  "grid": [
+   "fringe-science"
+  ],
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 3,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 5,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
+ },
+ {
+  "id": "patterns-and-symmetry",
+  "title": "Patterns and symmetry",
+  "dk": "The Deep End",
+  "note": "From the DeepKids notebook",
+  "deep": true,
+  "grid": [
+   "symmetry"
+  ],
+  "start": 1,
+  "rungs": [
+   {
+    "cls": 1,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 3,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
+ },
+ {
+  "id": "order-chaos-and-chance",
+  "title": "Order, chaos and chance",
+  "dk": "The Deep End",
+  "note": "From the DeepKids notebook",
+  "deep": true,
+  "grid": [
+   "chaos-order-unpredictability-probability",
+   "entropy",
+   "causality-karma",
+   "zero-sum"
+  ],
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 4,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
+ },
+ {
+  "id": "what-is-real",
+  "title": "What is real? Awareness, experience and reality",
+  "dk": "The Deep End",
+  "note": "From the DeepKids notebook",
+  "deep": true,
+  "grid": [
+   "reality",
+   "consciousness-awareness-subjective-experience"
+  ],
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 4,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
+ },
+ {
+  "id": "space-time-and-dimensions",
+  "title": "Space, time and dimensions",
+  "dk": "The Deep End",
+  "note": "From the DeepKids notebook",
+  "deep": true,
+  "grid": [
+   "space",
+   "time",
+   "dimensions",
+   "twin-paradox",
+   "time-travel",
+   "worm-hole"
+  ],
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 4,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
+ },
+ {
+  "id": "nothing-and-forever",
+  "title": "Nothing and forever: zero, infinity and singularities",
+  "dk": "The Deep End",
+  "note": "From the DeepKids notebook",
+  "deep": true,
+  "grid": [
+   "zero-infinity",
+   "singularity"
+  ],
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 5,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
+ },
+ {
+  "id": "the-very-small",
+  "title": "The very small: particles, antimatter and the quantum world",
+  "dk": "The Deep End",
+  "note": "From the DeepKids notebook",
+  "deep": true,
+  "grid": [
+   "particles",
+   "matter",
+   "anti-matter",
+   "quantum-physics",
+   "quantum-entanglement",
+   "string-theory"
+  ],
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 5,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
+ },
+ {
+  "id": "story-of-the-universe",
+  "title": "The story of the universe: galaxies, the Big Bang and the expanding cosmos",
+  "dk": "The Deep End",
+  "note": "From the DeepKids notebook",
+  "deep": true,
+  "grid": [
+   "large-scale-structure-of-the-universe-filaments-voids",
+   "expansion-of-the-universe-hubble-s-law",
+   "cosmic-microwave-background",
+   "gravitational-lensing",
+   "types-of-galaxies-spiral-elliptical-irregular"
+  ],
+  "start": 3,
+  "rungs": [
+   {
+    "cls": 3,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 5,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   }
+  ]
+ },
+ {
+  "id": "evolution-the-tree-of-life",
+  "title": "Evolution: the tree of life, from RNA to us",
+  "dk": "The Deep End",
+  "note": "From the DeepKids notebook",
+  "deep": true,
+  "grid": [],
+  "start": 2,
+  "rungs": [
+   {
+    "cls": 2,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
+   },
+   {
+    "cls": 4,
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
    }
   ]
  }

@@ -1,0 +1,1207 @@
+{
+ "key": "combined|sci|5|seeds-plant-growth-and-plant-life-cycles",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "seeds-plant-growth-and-plant-life-cycles",
+ "title": "The life cycle of flowering plants: flowers, pollen, fruits and travelling seeds",
+ "source": "DeepKids Combined. Covers Cambridge Stage 5 Biology: flowering and non-flowering plants (Unit 1.1), pollination, fruits and seeds (Unit 1.2), how seeds are spread (Unit 1.3) and seed germination (Unit 1.4). Goes wider: the long history of plants before flowers, fig and fig wasp, pollinators in danger, and who owns seeds. No textbook needed.",
+ "summary": "Your child already knows that a seed is a sleeping plant and that warmth sets the pace of its growth. Now they follow the whole life cycle of a flowering plant: they find plants that never flower (mosses, ferns, conifers), walk a 5-metre rope through 500 million years of plant history, take a hibiscus apart, watch and tally real pollinators, follow pollen to fertilisation and fruit, test how seeds fly, float, hitch and burst, and run a five-jar fair test on what seeds need to germinate. Then they weigh two real arguments: are pesticides harming bees, and who should own seeds?",
+ "builds_on": "Class 1: a seed is a sleeping baby plant; it needs water and air to germinate; the root comes out first; the life cycle as a circle. Class 3: temperature changes how fast seeds sprout and plants grow; fair tests, tables and bar charts; how water climbs a stem and a tree is built from air. Here the circle is filled in properly: flower, pollination, fertilisation, fruit, dispersal, germination. Later (Class 6 and up): plant cells, photosynthesis in detail, genes and inheritance, and evolution.",
+ "goals": [
+  "By the end your child can sort plants into flowering and non-flowering, and say how mosses and ferns reproduce without seeds.",
+  "By the end your child can name and give the job of the sepals, petals, stamens (anther, filament) and carpel (stigma, style, ovary, ovules) on a real flower.",
+  "By the end your child can explain pollination by insects, birds, bats and wind, and tell from a flower's shape how it is probably pollinated.",
+  "By the end your child can explain how a pollinated flower becomes a fruit with seeds, and why a tomato is a fruit.",
+  "By the end your child can explain why seeds must be spread and sort seeds by how they travel.",
+  "By the end your child can plan and run a fair test of what seeds need to germinate, and argue both sides of a real debate about bees or seeds."
+ ],
+ "words": [
+  [
+   "flowering plant",
+   "a plant that makes flowers, then fruits with seeds inside"
+  ],
+  [
+   "spores",
+   "tiny specks, not seeds, that mosses, ferns and fungi use to make new plants"
+  ],
+  [
+   "stamen",
+   "the male part of a flower: an anther full of pollen on a stalk called a filament"
+  ],
+  [
+   "carpel",
+   "the female part of a flower: the sticky stigma, the style, and the ovary holding ovules"
+  ],
+  [
+   "pollen",
+   "the dust made in the anthers, which carries the male cells"
+  ],
+  [
+   "pollination",
+   "pollen getting from an anther to a stigma"
+  ],
+  [
+   "fertilisation",
+   "a male cell from the pollen joining an egg cell in an ovule, so a seed can begin"
+  ],
+  [
+   "fruit",
+   "the ripened ovary of a flower, which holds and protects the seeds"
+  ],
+  [
+   "seed dispersal",
+   "the ways seeds are carried away from the parent plant"
+  ],
+  [
+   "germination",
+   "a seed starting to grow into a new plant"
+  ],
+  [
+   "nectar",
+   "a sugary drink flowers make to pay their visitors"
+  ],
+  [
+   "pollinator",
+   "an animal that carries pollen from flower to flower"
+  ]
+ ],
+ "subconcepts": [
+  "flowering and non-flowering plants",
+  "spores: how mosses and ferns reproduce",
+  "plants before flowers: algae, mosses, ferns, conifers, then flowers",
+  "the parts of a flower and their jobs",
+  "pollination by insects, birds, bats and wind",
+  "flower shapes, colours, scents and nectar guides suit their pollinators",
+  "self-pollination and cross-pollination",
+  "fertilisation: from pollen tube to seed",
+  "fruits form from the ovary: botanical fruits and kitchen 'vegetables'",
+  "why seeds must be spread",
+  "seed dispersal by wind, water, animals, bursting and dropping",
+  "what seeds need to germinate: water, air, warmth (and usually not light)",
+  "inside a seed: seed coat, seed leaves and embryo; one or two seed leaves",
+  "partners: fig and fig wasp, and pollinators in danger",
+  "who owns seeds: saved seeds, high-yield seeds and the Green Revolution"
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Do all plants have flowers?",
+   "goal": "Recall Class 3, sort flowering and non-flowering plants, and start the germination fair test.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the three boxes",
+     "mins": 5,
+     "do": "Recall Class 3 in three quick questions. 'What did the fridge, room and warm boxes of moong show?' (Warmth speeds sprouting; cold slows it; too hot harms it.) 'What makes a test fair?' (Change one thing only.) 'Why is wheat sown in winter?' (It grows best in cool weather.) Say: 'This time we'll test everything a seed might need, all at once, fairly. And we'll find out where seeds come from in the first place.'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Flower or no flower?",
+     "mins": 15,
+     "do": "Walk round the building, a park or a garden for 15 minutes. Look for: plants with flowers (hibiscus, marigold, grass heads, which are flowers too); mosses (green velvet on damp walls and steps, especially after rain); ferns (feathery leaves in shady pots or walls); and, if a park has one, a pine, cypress (the 'Christmas tree' kind), araucaria or cycad with cones. Turn a fern leaf over: ask 'What are these brown dots?' (Spore cases.) Ask at each plant: 'Does it flower? How do you know? How else might it make new plants?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the five-jar test",
+     "mins": 20,
+     "do": "Do Experiment e1: five jars of moong or chana, each missing one thing a seed might need: water, air, warmth or light, plus one control jar with everything. Ask your child to fill in the plan: 'What are we changing in each jar? What are we keeping the same?' They write a prediction for each jar in the notebook.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Mushroom: plant or not?",
+     "mins": 5,
+     "do": "If you saw a mushroom or bracket fungus, ask: 'Is a mushroom a non-flowering plant?' (No! Mushrooms are fungi. They make spores too, but they can't make food from sunlight; they digest food outside their bodies. Fungi are actually more closely related to animals than to plants.) Say: 'Making spores doesn't make you a plant. Sorting living things is trickier than it looks.'"
+    }
+   ],
+   "need": [
+    "a notebook",
+    "a hand lens if you have one",
+    "5 jars, cotton wool, 50 moong or chana",
+    "boiled and cooled water, a little cooking oil, a box or cupboard, the fridge"
+   ],
+   "prep": [
+    {
+     "task": "Boil a cup of water and let it cool with a lid on (boiling drives out the air in it)",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Five hundred million years of plants",
+   "goal": "Walk through plant history and meet the plants that came before flowers.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "The time rope",
+     "mins": 15,
+     "do": "Do Activity a1: lay a 5-metre rope or string across the floor, where 1 centimetre is 1 million years. Your child pins labels along it: about 500 cm ago, the first land plants, like mosses, came out of the water from green algae; about 400 cm, ferns and the first plants with tubes; about 350 cm, the first seeds (on seed ferns and early conifers); about 130 cm, the first flowers; 6.6 cm, the dinosaurs (except birds) vanish; 0.3 cm, the first humans. Ask: 'For how much of plant history were there no flowers at all?' (Most of it.) 'Who pollinated the first flowers?' (Probably beetles and flies, since bees came later.)",
+     "ref": "a1"
+    },
+    {
+     "kind": "do",
+     "title": "Spores and seeds",
+     "mins": 10,
+     "do": "Make a spore print: lay a ripe fern leaf (with brown dots underneath) or a fresh mushroom cap gills-down on white paper, cover it with a bowl, and leave it overnight. Meanwhile compare: a moong seed is a baby plant with a packed lunch inside a coat; a spore is a single tiny cell with almost no food. Ask: 'Why might a seed be better for life on dry land?' (It carries food and a coat, so it can wait out dry times and grow even where a spore would dry up.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Birbal Sahni and the plants in the rocks",
+     "mins": 10,
+     "do": "Tell your child about voice v1. Show a picture of a plant fossil, or press a leaf into clay to make your own 'fossil'. Ask: 'How can a leaf from 150 million years ago tell us anything?' (Its shape, veins and seeds are kept in the stone.) Then ask the voice's question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "review",
+     "title": "Jar check",
+     "mins": 5,
+     "do": "Look at the five jars of Experiment e1 without disturbing them. Record anything you see. Keep the control jar's cotton damp."
+    },
+    {
+     "kind": "think",
+     "title": "Darwin's abominable mystery",
+     "mins": 5,
+     "do": "Say: 'Charles Darwin wrote that the sudden spread of flowering plants was an abominable mystery, meaning a horrible puzzle. Today about nine out of every ten kinds of plant on land have flowers. Scientists still argue about why flowers took over so fast.' Ask: 'What do you think flowers can do that ferns can't?' (Let them guess: animals carry their pollen; fruits get animals to carry their seeds.)"
+    }
+   ],
+   "need": [
+    "a 5-metre rope or string",
+    "paper labels and clothes pegs or tape",
+    "a fern leaf with brown dots or a mushroom",
+    "white paper and a bowl",
+    "a little clay or atta dough and a leaf"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Inside a flower",
+   "goal": "Take a flower apart and know every part and its job.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Lift the bowl",
+     "mins": 5,
+     "do": "Lift the bowl off yesterday's spore print. Look at the brown pattern with a hand lens: thousands of spores, each able to grow a new fern or fungus if it lands somewhere damp. Ask: 'How many do you think there are? Why make so many?'"
+    },
+    {
+     "kind": "act",
+     "title": "Take a hibiscus apart",
+     "mins": 20,
+     "do": "Do Activity a2: your child takes a hibiscus (gudhal) apart from the outside in and sticks each part on a card, labelled. Sepals (the green cup that protected the bud), petals (to attract visitors), the long central column with stamens (anthers on short filaments, dusty with pollen) and, at its tip, the five fuzzy pads of the stigma; cut the base to find the ovary with its tiny ovules. Ask at each part: 'What is it for?' Rub an anther on your finger: 'This yellow dust is pollen.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "think",
+     "title": "One flower, two jobs",
+     "mins": 8,
+     "do": "Ask: 'A hibiscus has stamens and a carpel in the same flower. Could it pollinate itself?' (Some flowers can; that's self-pollination.) 'Why might it be better to get pollen from a different hibiscus?' (Cross-pollination mixes features from two parents, so the seeds are more varied, and some may cope better with disease or drought.) Then say: 'Some plants, like pumpkin and maize, have separate male and female flowers; papaya even has separate male and female trees.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Flowers and their parts",
+     "mins": 12,
+     "do": "Do Worksheet ws1. Your child labels from memory first, then checks with the cards from the hibiscus.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "the spore print",
+    "2 or 3 hibiscus flowers (or any big flower: lily, datura (don't touch the mouth: it is poisonous), pumpkin)",
+    "card, tape or glue",
+    "a hand lens",
+    "a blade (grown-up only)",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Who carries the pollen?",
+   "goal": "Watch real pollinators and learn how flowers are built for their visitors.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Jar check",
+     "mins": 5,
+     "do": "Check the five jars of Experiment e1 and write the number of sprouted seeds in each. Ask: 'Which jars have started? Which haven't? Is the dark jar behind?'"
+    },
+    {
+     "kind": "outdoor",
+     "title": "Pollinator watch",
+     "mins": 15,
+     "do": "Do Activity a3: sit by one flowering bush or bed for 10 minutes, ideally in the morning. Your child tallies every visitor: bees, butterflies, moths, flies, beetles, wasps, ants, sunbirds. Note which flower each visits and whether it touches the stamens. Ask: 'Does the visitor leave with pollen on its body?'",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Flowers made for visitors",
+     "mins": 10,
+     "do": "Show or describe: bright, scented flowers with nectar and landing platforms are usually pollinated by insects; red, tube-shaped flowers with lots of nectar but little scent (hibiscus, coral tree, erythrina) by birds like sunbirds; large pale, strongly scented flowers that open at night (raat ki rani, many cacti, the baobab) by moths and bats; small, dull flowers with dangling anthers and feathery stigmas (grasses, maize, rice) by wind. Ask: 'Why does a wind flower make far more pollen than a bee flower?' (The wind is careless; most pollen lands nowhere.) Tell them bees see ultraviolet, so many flowers have stripes we can't see, like runway lights, leading to the nectar."
+    },
+    {
+     "kind": "act",
+     "title": "Bee and flower drama",
+     "mins": 8,
+     "do": "Act it out. One person is a flower: arms are petals, a cup of 'nectar' (a little water) in the middle, a pinch of turmeric on the hands as 'pollen'. The other is a bee who must reach the nectar, brushing the flower's hands on the way, then visit a second 'flower' and touch its 'stigma' (a paper patch). Look: did yellow get carried? Swap. Ask: 'What does the flower get? What does the bee get? Is either one using the other?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Sprengel, the flower watcher",
+     "mins": 7,
+     "do": "Tell your child about voice v2: a German schoolteacher who sat for hours watching insects in flowers, worked out what colours, scents and nectar are for, and lost his job partly because of it. Ask: 'Why does a flower bother to make sweet nectar?' (To pay its visitors.) Then ask the voice's question.",
+     "ref": "v2"
+    }
+   ],
+   "need": [
+    "the five jars",
+    "a notebook and a tally chart",
+    "a cup of water, a pinch of turmeric, a paper patch"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "From flower to fruit",
+   "goal": "Follow pollen to fertilisation, and see a flower turn into a fruit.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: The Wasp Who Was Born Inside a Flower",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask the story's questions, especially: 'Where were the fig's flowers? Why did the fig need the wasp, and the wasp need the fig?'"
+    },
+    {
+     "kind": "talk",
+     "title": "The pollen's journey",
+     "mins": 8,
+     "do": "Draw a big carpel on paper together: stigma at the top, style, ovary with ovules at the bottom. Say: 'When a pollen grain lands on the sticky stigma of the right kind of flower, it grows a tube, thinner than a hair, right down through the style into the ovary. A male cell travels down the tube and joins the egg cell inside an ovule. That joining is fertilisation. Now the ovule grows into a seed, and the ovary swells into a fruit around it.' Your child draws the tube and the journey."
+    },
+    {
+     "kind": "outdoor",
+     "title": "Flower to fruit hunt",
+     "mins": 12,
+     "do": "On a brinjal, bhindi, pumpkin, tomato, chilli or guava plant (or at the vegetable stall: look at the tips of bhindi and brinjal), find the stages: a bud, an open flower, a fallen flower with a tiny swelling, a small fruit, a ripe fruit. Look for the dried remains of the flower still stuck to the end of the fruit. Ask: 'Which part of the flower became the fruit?' (The ovary.)"
+    },
+    {
+     "kind": "act",
+     "title": "Is a tomato a fruit?",
+     "mins": 13,
+     "do": "Cut open a tomato, bhindi, cucumber, chilli, pea pod and a mango. In every one, find the seeds. Say: 'To a botanist, a fruit is any ripened ovary with seeds, so all of these are fruits. To a cook, a fruit is sweet and a vegetable is savoury.' Ask: 'So who is right?' (Both: they are sorting for different reasons. Sorting is something people do with a purpose.) Then count the seeds in the tomato and ask: 'Each seed was one ovule that met one pollen grain. How many pollen grains must have landed?'"
+    }
+   ],
+   "need": [
+    "paper and pencils",
+    "a tomato, bhindi, cucumber, chilli, pea pod and a mango or guava",
+    "a knife (grown-up only)"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Seeds on the move",
+   "goal": "Find out why seeds travel and test how they do it.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Jar check",
+     "mins": 5,
+     "do": "Count sprouted seeds in each of the five jars of Experiment e1 and add them to the table."
+    },
+    {
+     "kind": "think",
+     "title": "Why travel?",
+     "mins": 7,
+     "do": "Drop a handful of moong right under a potted plant. Ask: 'If all a tree's seeds fell straight down, what would happen?' (They would fight each other and their parent for light, water and soil; a disease or pest living on the parent could spread to them all.) 'So what must a plant that can't walk do?' (Send its seeds away.)"
+    },
+    {
+     "kind": "outdoor",
+     "title": "The sock walk",
+     "mins": 12,
+     "do": "Do Activity a4: your child pulls an old sock over one shoe and walks through long grass or a weedy patch for 5 minutes, then pulls the sock off and picks off every seed stuck to it with a hand lens. Collect other seeds on the way: winged ones (drumstick, sal, mahogany, maple-like samaras), fluffy ones (aak, semal cotton), pods that have split, a coconut if you are near the coast.",
+     "ref": "a4"
+    },
+    {
+     "kind": "exp",
+     "title": "Helicopter seeds",
+     "mins": 14,
+     "do": "Do Experiment e2: make paper helicopter seeds with long and short wings, drop each three times from the same height, and time the fall. Ask: 'What are we changing? What do we keep the same?' Then compare with a real winged seed if you found one.",
+     "ref": "e2"
+    },
+    {
+     "kind": "do",
+     "title": "Sort the travellers",
+     "mins": 7,
+     "do": "Sort all your seeds into five groups: wind (wings, parachutes, fluff), water (floats, waterproof: coconut, lotus), animals outside (hooks and burrs), animals inside (sweet fruits eaten, seeds dropped later: mango, guava, ber, fig, banyan), and bursting or dropping (balsam, beans, castor, peas). Ask: 'A mango pays a monkey with sweet flesh. A burr hitches a free ride. Which is fairer?'"
+    }
+   ],
+   "need": [
+    "the five jars",
+    "an old sock",
+    "a hand lens",
+    "paper, scissors, paper clips, a stopwatch",
+    "seeds collected on the walk"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "What seeds need, and what is inside them",
+   "goal": "Read the fair test results, open seeds, and draw the whole life cycle.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Five-jar results",
+     "mins": 12,
+     "do": "Final count for Experiment e1. Make the results table and a bar chart. Ask: 'Which jars sprouted?' (Control yes; dark jar yes, as well as or nearly as well as the control; dry jar no; no-air jar few or none; fridge jar very few or slow.) 'So what do moong seeds need to germinate?' (Water, air and warmth; not light.) 'Then why do seedlings need light?' (Once the packed lunch runs out, the leaves must make food.) Your child writes the conclusion: 'Our results show that…'"
+    },
+    {
+     "kind": "do",
+     "title": "One seed leaf or two?",
+     "mins": 12,
+     "do": "Compare a soaked rajma or chana with a soaked maize kernel or a germinating wheat grain. Split the rajma: two big seed leaves (cotyledons) with the embryo between them: a tiny root (radicle) and shoot (plumule). The maize has one seed leaf and a store of food beside it. Say: 'Flowering plants with two seed leaves usually have net veins and tap roots (mango, bean); those with one usually have parallel veins and fibrous roots (grass, banana, rice). You found that pattern in Class 3.'"
+    },
+    {
+     "kind": "act",
+     "title": "Draw the life cycle",
+     "mins": 8,
+     "do": "Your child draws the full life cycle of a flowering plant as a circle, with arrows and labels: seed, germination, seedling, adult plant, flower, pollination, fertilisation, fruit, seed dispersal, and back to seed. Ask: 'Which step needs an animal or the wind? Which needs water?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Seeds on the move",
+     "mins": 13,
+     "do": "Do Worksheet ws2. It asks your child to apply the ideas to new plants and to a new experiment.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "the five jars",
+    "squared paper",
+    "soaked rajma or chana, and soaked maize or wheat",
+    "a hand lens",
+    "worksheet ws2"
+   ],
+   "prep": [
+    {
+     "task": "Soak a few rajma and a few maize kernels (or wheat grains) in water",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Bees in danger? Seeds for sale?",
+   "goal": "Weigh two real arguments about pollinators and seeds, using evidence.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "The pesticide debate",
+     "mins": 13,
+     "do": "Talk about voice v3. Lay out the two sides on paper: a farmer who says the seed coating protects crops from pests, and a bee scientist who says it harms bees. Ask your child to list what each side would want to measure. Then ask: 'If you were in charge, what would you decide while the scientists are still arguing?'",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "Swaminathan and the seed question",
+     "mins": 12,
+     "do": "Talk about voice v4. Then hold a short debate: you argue for buying high-yield seeds every year; your child argues for saving and swapping old seeds like Rahibai Popere, the 'Seed Mother' of Maharashtra. Swap sides after three minutes. Ask: 'Is there a way to have both?'",
+     "ref": "v4"
+    },
+    {
+     "kind": "do",
+     "title": "Project: a pollinator pot and a seed packet",
+     "mins": 15,
+     "do": "Start the project. Your child plants a pot or patch of pollinator flowers (marigold, cosmos, zinnia, tulsi, sunflower) and makes a seed packet from saved seeds (dried tomato, marigold or bean seeds) with a label: name, where it came from, when to sow, and how it is pollinated and dispersed."
+    },
+    {
+     "kind": "think",
+     "title": "Who owns a seed?",
+     "mins": 5,
+     "do": "Ask: 'A rice seed comes from 10,000 years of farmers choosing and sharing. A company breeds a new kind in 10 years. Who should own it?' There is no single right answer; ask for reasons."
+    }
+   ],
+   "need": [
+    "paper",
+    "a pot, soil and flower seeds",
+    "saved seeds, an envelope or folded paper"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Play, check and teach it back",
+   "goal": "Use everything to tell the life cycle of a flowering plant.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Pollen to Seedling",
+     "mins": 15,
+     "do": "Play the board game (g1). On each square, the player says which step of the life cycle it is before moving.",
+     "ref": "g1"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 15,
+     "do": "Your child teaches the family the life cycle, using the hibiscus cards, the drawn circle, the seed sort and the five-jar chart. They must explain pollination, fertilisation, fruit, dispersal and germination, and say one thing scientists don't know yet. Then ask the check questions."
+    },
+    {
+     "kind": "ws",
+     "title": "Thinking like a plant scientist",
+     "mins": 15,
+     "do": "Do Worksheet ws3. Give time for the written questions; they want real reasons.",
+     "ref": "ws3"
+    }
+   ],
+   "need": [
+    "the printed board, a die and counters",
+    "everything made this week",
+    "worksheet ws3"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Flowers and their parts",
+   "day": 3,
+   "sections": [
+    [
+     "A. Parts and jobs",
+     [
+      {
+       "t": "match",
+       "p": "Match each part of a flower to its job.",
+       "pairs": [
+        [
+         "sepal",
+         "protects the bud"
+        ],
+        [
+         "petal",
+         "attracts pollinators"
+        ],
+        [
+         "anther",
+         "makes pollen"
+        ],
+        [
+         "stigma",
+         "sticky top that catches pollen"
+        ],
+        [
+         "ovary",
+         "holds the ovules and becomes the fruit"
+        ],
+        [
+         "ovule",
+         "becomes a seed"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The anther and filament together are called the ____.",
+       "a": [
+        "stamen"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The stigma, style and ovary together are called the ____.",
+       "a": [
+        "carpel",
+        "pistil"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Pollination is…",
+       "opts": [
+        "a seed starting to grow",
+        "pollen moving from an anther to a stigma",
+        "a fruit falling off a tree"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Flower or no flower?",
+     [
+      {
+       "t": "sort",
+       "p": "Flowering or non-flowering?",
+       "items": [
+        "mango",
+        "fern",
+        "moss",
+        "rice",
+        "pine",
+        "hibiscus",
+        "grass",
+        "cycad"
+       ],
+       "cats": [
+        "flowering",
+        "non-flowering"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "How do ferns and mosses make new plants?",
+       "opts": [
+        "with seeds in fruits",
+        "with spores",
+        "they can't"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A mushroom makes spores. Is it a plant?",
+       "opts": [
+        "yes, a non-flowering plant",
+        "no, it is a fungus",
+        "yes, a flowering plant"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Why might it be better for a flower to get pollen from another plant of the same kind, rather than from itself?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "For most of plant history there were no flowers. What do you think flowers gave plants that helped them spread so fast?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Seeds on the move",
+   "day": 7,
+   "sections": [
+    [
+     "A. How is it pollinated?",
+     [
+      {
+       "t": "match",
+       "p": "Match the flower to its most likely pollinator.",
+       "pairs": [
+        [
+         "small, dull, feathery stigmas, lots of light pollen",
+         "wind"
+        ],
+        [
+         "red tube, lots of nectar, no scent",
+         "sunbird"
+        ],
+        [
+         "big, pale, strong scent, opens at night",
+         "moth or bat"
+        ],
+        [
+         "bright, sweet-smelling, landing platform, stripes",
+         "bee"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why do wind-pollinated flowers like maize make huge amounts of pollen?",
+       "opts": [
+        "to feed bees",
+        "because most of it never reaches a stigma",
+        "to make the plant heavy"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. How does it travel?",
+     [
+      {
+       "t": "sort",
+       "p": "How does this seed travel?",
+       "items": [
+        "aak (madar) fluff",
+        "coconut",
+        "burr",
+        "guava",
+        "balsam pod",
+        "drumstick (winged seed)",
+        "lotus seed head",
+        "banyan fig"
+       ],
+       "cats": [
+        "wind",
+        "water",
+        "animal outside",
+        "animal inside",
+        "bursting"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "After fertilisation, the ovule becomes a seed and the ____ becomes the fruit.",
+       "a": [
+        "ovary"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In our five-jar test, the seeds in the dark cupboard…",
+       "opts": [
+        "did not sprout at all",
+        "sprouted, because seeds don't need light to germinate",
+        "turned green"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Seeds in jar with boiled, oil-covered water hardly sprouted. What were they missing?",
+       "opts": [
+        "water",
+        "air (oxygen)",
+        "light"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "In the helicopter test, the long-winged seeds fell more slowly. Why would falling slowly help a real seed?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Neha says: 'A tomato is a vegetable.' Her uncle, a botanist, says: 'It's a fruit.' Explain why they are both right, and what each of them is sorting by.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like a plant scientist",
+   "day": 9,
+   "sections": [
+    [
+     "A. Big puzzles",
+     [
+      {
+       "t": "write",
+       "p": "In 1862 Darwin saw an orchid from Madagascar with nectar at the bottom of a tube about 30 cm long. He predicted a moth with a tongue that long must exist. People laughed. The moth was found in 1903. What did Darwin understand about flowers and pollinators that let him predict it?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Each kind of fig has its own kind of tiny wasp, and neither can reproduce without the other. What might happen to a forest if one fig wasp species disappeared? Think about the hornbills, bats and monkeys that eat figs.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Design an experiment to test whether bees visit flowers of one colour more than another. What would you change, what would you keep the same, and what would you count?",
+       "lines": 4
+      }
+     ]
+    ],
+    [
+     "B. Choose",
+     [
+      {
+       "t": "mcq",
+       "p": "Which plant is pollinated mostly by wind?",
+       "opts": [
+        "hibiscus",
+        "wheat",
+        "raat ki rani",
+        "sunflower"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A seed has a coat, an embryo and stored food. A spore is…",
+       "opts": [
+        "the same as a seed",
+        "a single tiny cell with very little food",
+        "a kind of flower"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Scientists still argue about…",
+       "opts": [
+        "whether flowers have stamens",
+        "how much certain pesticides harm bees in real fields",
+        "whether seeds need water"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A pollen grain from a mango lands on a hibiscus stigma. What happens?",
+       "opts": [
+        "a hibiscus-mango seed grows",
+        "usually nothing: pollen only works on flowers of its own kind",
+        "the hibiscus turns into a mango"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Life cycle order",
+     [
+      {
+       "t": "match",
+       "p": "Put the life cycle in order: match the number to the step.",
+       "pairs": [
+        [
+         "1",
+         "pollen lands on a stigma"
+        ],
+        [
+         "2",
+         "a pollen tube grows down to an ovule"
+        ],
+        [
+         "3",
+         "fertilisation"
+        ],
+        [
+         "4",
+         "the ovary swells into a fruit"
+        ],
+        [
+         "5",
+         "seeds are dispersed"
+        ],
+        [
+         "6",
+         "a seed germinates"
+        ]
+       ]
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The five-jar test: what do seeds need?",
+   "day": 1,
+   "question": "Which of these do seeds need to germinate: water, air, warmth, light?",
+   "need": [
+    "5 clean jars or glasses",
+    "cotton wool",
+    "50 moong or chana (10 per jar)",
+    "tap water",
+    "boiled water cooled with a lid on",
+    "a spoon of cooking oil",
+    "a box or dark cupboard",
+    "the fridge",
+    "labels"
+   ],
+   "steps": [
+    "Label the jars A to E. Put 10 seeds on cotton in each.",
+    "A (control): damp cotton, in the room, in the light.",
+    "B (no water): dry cotton, in the room, in the light.",
+    "C (no air): seeds covered completely with boiled, cooled water, with a thin layer of oil poured on top to keep air out; in the room, in the light.",
+    "D (no warmth): damp cotton, in the fridge (it is also dark, so compare it with E as well as A).",
+    "E (no light): damp cotton, in the room, inside a box or dark cupboard.",
+    "Check every day for 5–6 days. Keep A, D and E damp with the same amount of water. Count the seeds with a root."
+   ],
+   "predict": "Your child predicts, for each jar, how many of the 10 seeds will sprout and why.",
+   "observe": "Number of seeds germinated in each jar each day.",
+   "why": "Seeds need water to swell, soften their coat and wake their enzymes; air because the embryo respires, using oxygen to release energy from its stored food; and warmth because the enzymes work slowly in the cold. They usually don't need light: they germinate in the dark soil using their stored food, so jar E does about as well as A. (A few kinds of seed, like lettuce, need some light; others need darkness.) Jar C may show a few sprouts, because some oxygen remains; it is hard to remove air completely, which is a good thing to discuss. Jar D changes two things (cold and dark), so compare it with E to see the effect of cold alone.",
+   "safety": "A grown-up boils the water. Don't eat the seeds. Throw away any jar that smells.",
+   "time": "20 min + 6 days"
+  },
+  {
+   "id": "e2",
+   "title": "Helicopter seeds",
+   "day": 6,
+   "question": "Do longer wings make a seed fall more slowly?",
+   "need": [
+    "paper",
+    "scissors",
+    "paper clips",
+    "a ruler",
+    "a stopwatch or phone timer"
+   ],
+   "steps": [
+    "Cut a paper strip 3 cm wide and 15 cm long. Cut down the middle of the top 8 cm to make two wings.",
+    "Fold one wing forward and one back. Fold the bottom in and add a paper clip.",
+    "Make a second helicopter exactly the same but with 4 cm wings.",
+    "Stand on a safe chair with a grown-up (or drop from the top of a staircase) and drop each from the same height three times. Time each fall.",
+    "Write the times in a table and work out the middle time for each."
+   ],
+   "predict": "Ask: 'Which will fall more slowly? Why?'",
+   "observe": "Fall times for long and short wings, and how they spin.",
+   "why": "Spinning wings push against the air (air resistance), slowing the fall. A slower fall gives the wind more time to carry the seed away from its parent. Real winged seeds (drumstick, sal, mahogany, many maples) work the same way.",
+   "safety": "A grown-up holds the chair or supervises the stairs.",
+   "time": "20 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The time rope",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "a 5-metre rope, string or a row of newspaper sheets",
+    "a measuring tape",
+    "paper labels, pegs or tape",
+    "crayons"
+   ],
+   "steps": [
+    "Lay the rope straight. The end where your child stands is today. Each centimetre is about 1 million years.",
+    "At 500 cm, label 'first land plants (like mosses), from green algae in water'.",
+    "At about 400 cm, 'ferns and the first plants with water tubes'.",
+    "At about 350 cm, 'first seeds'.",
+    "At about 300 cm, 'conifers and cycads spread'.",
+    "At about 130 cm, 'first flowers'.",
+    "At 6.6 cm, 'the big dinosaurs disappear'. At 0.3 cm, 'first humans'.",
+    "Walk the rope slowly from 500 cm to today. Say 'about': these dates are scientists' best estimates."
+   ],
+   "outcome": "A walkable timeline showing that flowers are recent and humans very recent in the story of plants."
+  },
+  {
+   "id": "a2",
+   "title": "Take a hibiscus apart",
+   "day": 3,
+   "mins": 20,
+   "need": [
+    "2 or 3 hibiscus flowers",
+    "a card",
+    "tape or glue",
+    "a hand lens",
+    "a blade (grown-up only)"
+   ],
+   "steps": [
+    "Remove the green sepals first and stick them on the card. Label them.",
+    "Remove the petals. Count them.",
+    "Look at the central column: the stamens with their pollen-covered anthers are along it; the stigma pads are at the tip. Stick them on.",
+    "A grown-up cuts the base of the flower across. Find the ovary and the tiny ovules inside with a hand lens.",
+    "Label every part with its job."
+   ],
+   "outcome": "A labelled flower card showing every part of a flower and its job."
+  },
+  {
+   "id": "a3",
+   "title": "Pollinator watch",
+   "day": 4,
+   "mins": 15,
+   "need": [
+    "a flowering plant or bed",
+    "a notebook with a tally chart",
+    "a timer"
+   ],
+   "steps": [
+    "Sit quietly about a metre from the flowers. Set a 10-minute timer.",
+    "Tally each visitor by type: bee, butterfly, moth, fly, beetle, wasp, ant, bird.",
+    "Note which flower colour each visits and whether it touches the anthers.",
+    "Afterwards, draw a bar chart of visitors.",
+    "Repeat at a different time of day if you can, and compare."
+   ],
+   "outcome": "A tally and bar chart of real pollinators, and a list of which flowers they chose."
+  },
+  {
+   "id": "a4",
+   "title": "The sock walk",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "an old woolly sock",
+    "a hand lens",
+    "a tray or white paper"
+   ],
+   "steps": [
+    "Pull the sock over one shoe.",
+    "Walk through long grass or a weedy patch for 5 minutes (watch out for thorns).",
+    "Take the sock off carefully over the tray.",
+    "Pick off every seed and look at it with the hand lens: hooks? spikes? sticky?",
+    "Optional: plant the whole sock in a tray of soil, keep it damp and see what grows."
+   ],
+   "outcome": "A collection of hitch-hiker seeds and proof that animals (and people) carry seeds without knowing."
+  }
+ ],
+ "project": {
+  "title": "A pollinator pot and a seed library",
+  "days": [
+   8,
+   9
+  ],
+  "steps": [
+   "Plant a pot or patch of pollinator flowers: marigold, zinnia, cosmos, tulsi or sunflower.",
+   "Watch it for 10 minutes once a week and tally the visitors.",
+   "Save seeds from a tomato, marigold, bean or chilli: dry them in the shade and store them in labelled paper packets.",
+   "Label each packet: name, where it came from, when to sow, how it is pollinated, how it disperses.",
+   "Swap packets with a friend or neighbour, and start a family seed library."
+  ],
+  "outcome": "A flowering pot that feeds pollinators, a tally of its visitors, and a small library of saved and shared seeds."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Pollen to Seedling",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "a die",
+   "a counter for each player"
+  ],
+  "rules": [
+   "Everyone starts on START as a flower bud.",
+   "Roll and move. Read the square aloud and name the life cycle step before you do what it says.",
+   "If you land on a hazard, say why it's a problem for the plant.",
+   "The first to reach NEW SEEDLING wins."
+  ],
+  "squares": [
+   "START: a flower bud",
+   "The bud opens: +1",
+   "Bright petals and sweet scent: +2",
+   "Rain washes the pollen away: back 1",
+   "A bee visits and carries pollen: +2",
+   "Pesticide on the flowers: miss a turn",
+   "Pollen lands on a stigma: +1",
+   "Wrong kind of pollen: back 2",
+   "A pollen tube grows down the style: +1",
+   "Fertilisation!",
+   "The ovary swells into a fruit: +2",
+   "A caterpillar nibbles the fruit: back 1",
+   "The fruit ripens: +1",
+   "A hornbill eats the fruit and flies away: +3",
+   "Seeds fall under the parent tree, too crowded: back 2",
+   "The wind carries a winged seed: +2",
+   "Dropped on dry rock: miss a turn",
+   "Lands on damp, warm soil: +1",
+   "The seed drinks water and swells: +1",
+   "Root comes out first and grows down: +1",
+   "Shoot pushes up into the light: +1",
+   "NEW SEEDLING!"
+  ]
+ },
+ "big": [
+  "Flowers and bees have shaped each other for over 100 million years. Who is in charge?",
+  "Is a tomato a fruit or a vegetable, and who gets to decide?",
+  "Who should own a seed that 10,000 years of farmers made?",
+  "If pollinators vanished, what would be on your plate?",
+  "A plant can't walk, yet its children travel the world. What does it mean to be still?"
+ ],
+ "challenge": [
+  {
+   "q": "Bees are the only pollinators that matter.",
+   "hint": "No. Flies, beetles, moths, butterflies, wasps, birds, bats and the wind pollinate many plants. Cocoa, for example, is pollinated mainly by tiny midges, and many wild flowers by flies and beetles. Wild bees often matter more for crops than honeybees. Ask: which visitors did your watch count?"
+  },
+  {
+   "q": "A tomato is a vegetable, full stop.",
+   "hint": "In a kitchen, yes; to a botanist it is a fruit, because it is a ripened ovary with seeds. So are bhindi, brinjal, chilli, cucumber and peas in their pod. Neither is wrong: they sort for different purposes. Ask: what other things get sorted differently by different people?"
+  },
+  {
+   "q": "When you eat a fig, you eat dead wasps.",
+   "hint": "Partly true for wild figs: the female wasp dies inside, and the fig breaks down her body with an enzyme, so nothing crunchy is left. Many figs grown for shops are kinds that ripen without any wasp at all. Ask: does knowing this make figs more wonderful or less?"
+  },
+  {
+   "q": "Darwin's moth: scientists only believe what they can see.",
+   "hint": "Darwin predicted, from an orchid's 30 cm nectar tube, that a moth with a tongue that long must exist. It was found in 1903, about 20 years after he died, and named 'praedicta', meaning predicted. Science also works by predicting what you haven't seen yet. Ask: what would you predict from a flower that opens only at night?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A fig tree in a Western Ghats forest",
+   "view": "It fruits at different times from its neighbours, so hornbills, bats, barbets and monkeys have food when little else does. Scientists call such plants 'keystone' species. Ask: if you could only save one tree in a forest, how would you choose?"
+  },
+  {
+   "who": "A beekeeper",
+   "view": "To a beekeeper, bees are partners and the farmer's spray is a danger; to the farmer, the spray protects the harvest. Ask: how could they talk to each other so that both win?"
+  },
+  {
+   "who": "A farmer who buys hybrid seeds",
+   "view": "Hybrid seeds can give a bigger harvest, but seeds saved from a hybrid crop don't grow true, so new seed must be bought every year. Ask: what does a farmer gain and lose by buying seed each year?"
+  },
+  {
+   "who": "A burr on a dog's tail",
+   "view": "The burr takes a ride and pays nothing. Ask: is every partnership in nature fair? Who decides what fair means for a plant?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Birbal Sahni (1891–1949), India",
+   "idea": "Sahni studied plant fossils from the rocks of India, especially in the Rajmahal Hills in what is now Jharkhand. There he described Pentoxylon, a group of seed plants from the age of dinosaurs that had not been known before. He also supported the then-unpopular idea that India was once joined to other southern continents, partly because the same fossil plants, like Glossopteris, are found in all of them.",
+   "then": "Many geologists in the early 1900s rejected the idea that continents could move. Sahni was among those who argued, from fossil evidence, that they had.",
+   "now": "Continental drift (plate tectonics) is accepted, and the shared fossil plants are part of the evidence. Sahni founded an institute for the study of plant fossils in Lucknow in 1946, now the Birbal Sahni Institute of Palaeosciences.",
+   "status": "accepted",
+   "ask": "The same fossil plant is found in India, Africa, Australia and Antarctica. Which explanation do you prefer: that the seeds crossed the oceans, or that the lands were once joined? What evidence would help you decide?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Christian Konrad Sprengel (1750–1816), Germany",
+   "idea": "Sprengel spent years watching insects visit flowers. In 1793 he published a book, 'The Secret of Nature Discovered in the Form and Fertilisation of Flowers', showing that flower colours, scents, nectar and markings exist to attract insects that carry pollen, that many flowers avoid pollinating themselves, and that some flowers are pollinated by the wind.",
+   "then": "Hardly anyone took his book seriously. He was a school headmaster and was dismissed from his post, partly because his flower studies took so much of his time. He died poor and almost forgotten.",
+   "now": "Fifty years later, Charles Darwin read Sprengel's book and built on it; today Sprengel is seen as a founder of pollination science. His ideas are accepted.",
+   "status": "accepted",
+   "ask": "Sprengel was right but ignored for decades. Why do you think people didn't listen? What does it take for a new idea to be believed?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "The neonicotinoid debate: bee scientists, farmers, companies and governments (2010s–today)",
+   "idea": "Neonicotinoids are insecticides that are often coated onto seeds, so the whole plant, including its pollen and nectar, carries a little of the poison that kills pests. Many lab and field studies found that even small doses can make bees worse at finding their way home and can weaken colonies.",
+   "then": "The companies that make them and many farmers argued that real-field doses were too small to matter and that losing them would cost harvests. Some field studies found harm in some countries and not in others.",
+   "now": "In 2018 the European Union banned outdoor use of three neonicotinoids to protect bees. Other countries still allow them. Most bee scientists think they are one cause of pollinator decline, along with lost habitats, disease and changing climate; how big a part they play is still argued about.",
+   "status": "debated",
+   "ask": "If scientists are not yet sure whether something is harming bees, should we stop using it now, or wait until we're sure? What are the risks each way?",
+   "day": 8
+  },
+  {
+   "id": "v4",
+   "who": "M.S. Swaminathan (1925–2023), Tamil Nadu, India",
+   "idea": "In the 1960s, when India feared famine, Swaminathan worked with the American scientist Norman Borlaug to bring short, high-yielding wheat from Mexico and adapt it to Indian fields. With irrigation and fertiliser, India's wheat harvest roughly doubled within a few years. This became known as the Green Revolution.",
+   "then": "It saved millions from hunger. Later, critics pointed to its costs: heavy use of water, fertiliser and pesticides, soils and groundwater harmed in places like Punjab, and many old local crop varieties lost.",
+   "now": "Swaminathan himself later called for an 'Evergreen Revolution': growing more without damaging soil, water and diversity. He was the first winner of the World Food Prize (1987) and was awarded the Bharat Ratna after his death. That the Green Revolution raised harvests is accepted; how to weigh its benefits against its costs, and what should come next, is debated.",
+   "status": "debated",
+   "ask": "Swaminathan helped end a famine and later warned about the harm his own revolution caused. Can someone be right and also change their mind? What would you have done in 1965?",
+   "day": 8
+  }
+ ],
+ "story": {
+  "title": "The Wasp Who Was Born Inside a Flower",
+  "text": [
+   "I was born in the dark, inside a flower, and for the first part of my life I did not know that there was anything else.",
+   "My world was round and soft and smelled of sap. Its walls were lined with hundreds of tiny flowers, all facing inwards, crowded together like the seeds in a pomegranate. You have seen my world, though you would not know it. You would call it a fig. You would think it was a fruit. But a fig is not really a fruit, not at first. A fig is a garden of flowers turned inside out, with its petals and its pollen hidden away from the sky. And in the middle of a fig there is only one small door: a tiny hole at the bottom, closed by a tight ring of scales.",
+   "I am a fig wasp. I am smaller than a grain of rice. My mother came in through that door before I was born. She squeezed through the ring of scales, and they were so tight that they tore her wings off and scraped her body as she pushed. She did not care. She had flown a long way, across the forest, following the smell of this one fig tree, the only kind of tree in the whole world where wasps like us can grow.",
+   "Inside, she walked across the flowers in the dark. She was carrying something precious: pollen, packed into little pockets on her body, from the fig where she herself had been born. As she walked, she brushed that pollen onto the flowers. And into some of the flowers she laid her eggs, one in each. Then, her work finished, she stayed. She never went out again. Wasps like her live only a day or two once they are grown. She gave the fig its pollen, and the fig gave her children a home, and that was the bargain.",
+   "The flowers that got pollen and no egg began to make seeds. The flowers that got an egg grew a little round room around it, and fed it. I was one of those eggs.",
+   "When I hatched, the brothers came out first. My brothers are strange. They have no wings and almost no eyes, because they never need them; they will never leave the fig. They crawled through the dark from flower to flower, finding the rooms where their sisters were still waiting to come out. One of them chewed a hole in the wall of my room and we met. Then my brothers did the last thing they would ever do. Together they chewed a tunnel right through the thick wall of the fig, out into the air, so that we, the sisters, could escape. They gave us the door to the sky, and then their lives were over too.",
+   "Before I left, I did what every daughter of a fig wasp does without being taught. I walked to the flowers that had made pollen, the male flowers, which had ripened just as I hatched, and I filled the pockets on my body with it, carefully, as my mother had done. Then I climbed through my brothers' tunnel and out.",
+   "Light. Wind. The roar of the forest. I had never imagined anything so big.",
+   "Below me hung my fig, which had gone soft and purple now that we were leaving it. Already a hornbill had landed on the branch, huge as a cloud, with its enormous yellow beak, and was swallowing figs whole. Further down, a troop of bonnet macaques was quarrelling over the fallen ones, and at night, I would learn, the fruit bats would come. All of them were eating the seeds that my mother's pollen had made. And all of them would fly or wander away and drop those seeds somewhere else, in a gap in the forest, in the fork of another tree, on the wall of a temple far away, where a new fig tree might one day grow.",
+   "I understood, then, what my mother had done. She had not just made me. She had made the seeds, and the seeds were the hornbill's breakfast and the macaque's quarrel and the bat's night. Without wasps like us, the fig could not make a single seed. Without the fig, there would be no wasps like us. Without figs, the hornbills and the bats would starve in the months when nothing else in the forest is ripe.",
+   "And without the hornbills and the bats, the figs would all fall in one place, and choke each other in the shade of their mother.",
+   "Nobody planned this. No one wrote the bargain down. The scientists who study us think figs and their wasps have been living like this for more than 60 million years, long before there were any people to see it, each kind of fig with its own kind of wasp, the shape of the wasp fitting the door of the fig like a key in a lock.",
+   "I am flying now, low over the trees, following a smell on the wind. It is the smell of a young fig on another tree of our kind, a fig whose flowers are ready. I am carrying pollen from my mother's tree. When I find it, I will squeeze through its tiny door, and the scales will tear my wings off, and I will not mind.",
+   "I am very small. I will live for only a few days. But I am carrying a forest."
+  ],
+  "epiphany": "A fig is really a flower garden turned inside out; it can only be pollinated by its own tiny wasp, which carries pollen from the fig where it was born. Pollination leads to seeds, the fig's fruit feeds hornbills, bats and monkeys, and they disperse the seeds. The whole life cycle (flower, pollination, fertilisation, fruit, dispersal) depends on partners. The turn is the wasp coming out into the light and seeing the hornbill eating the seeds her mother's pollen made: 'I am carrying a forest.' Underneath: cooperation, not only competition, runs nature; and the smallest life holds up the biggest.",
+  "ask": [
+   "Where are the fig's flowers? Why can't a bee pollinate them?",
+   "What did the mother wasp give the fig, and what did the fig give her?",
+   "Why did the brothers chew a tunnel? What did they get out of it?",
+   "How do the hornbills and bats help the fig?",
+   "What did the wasp mean by 'I am carrying a forest'?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "A plant's life cycle runs on partners.",
+   "more": "Most flowering plants need an animal or the wind to carry pollen, and many need animals to carry their seeds. Fig and wasp, flower and bee, mango and monkey: nature runs on bargains as well as battles. Ask your child to list every partner a mango tree needs."
+  },
+  {
+   "idea": "Flowers are recent, and they changed the world.",
+   "more": "For hundreds of millions of years there were no flowers. When they appeared, about 130 million years ago, they and their pollinators spread together, and today most land plants flower. Walk the time rope to feel it."
+  },
+  {
+   "idea": "How we sort depends on why we sort.",
+   "more": "A tomato is a fruit to a botanist and a vegetable to a cook; a mushroom makes spores like a fern but is not a plant. Sorting is a tool people make for a purpose, and nature doesn't always fit our boxes."
+  },
+  {
+   "idea": "A seed is a time machine and a traveller.",
+   "more": "It carries a baby plant, its food and its parents' mixed features, across distance (wind, water, animals) and across time (waiting until water, air and warmth are right)."
+  }
+ ],
+ "unknowns": [
+  "Why did flowering plants spread so fast and come to dominate the land? Darwin called it 'an abominable mystery'. Scientists have many ideas (pollinators, fast growth, fruits), but they still argue.",
+  "How fast are pollinating insects declining, and why? Some studies show big losses, others smaller ones; how much is due to pesticides, lost habitat, disease or climate is still being worked out.",
+  "Did each kind of fig and its wasp always evolve together, as partners splitting into new species side by side? Scientists have found that it is messier than that: sometimes one fig has two wasps, or wasps switch figs. Nobody knows the full story yet."
+ ],
+ "books": [
+  {
+   "title": "The Reason for a Flower",
+   "author": "Ruth Heller",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Bold pictures and rhyming text on what flowers are for: pollen, pollinators, seeds and fruits."
+  },
+  {
+   "title": "Flight of the Honey Bee",
+   "author": "Raymond Huber, illustrated by Brian Lovelock",
+   "for": "read together",
+   "age": "5–9",
+   "why": "Follows one honeybee scout and explains pollination accurately alongside the story."
+  },
+  {
+   "title": "Gods, Wasps and Stranglers: The Secret History and Redemptive Future of Fig Trees",
+   "author": "Mike Shanahan",
+   "for": "parent reads",
+   "age": "adult (read the fig wasp chapter aloud)",
+   "why": "The real science of figs and their wasps, and figs in Indian and world cultures, from the bodhi tree to the banyan."
+  },
+  {
+   "title": "The Triumph of Seeds",
+   "author": "Thor Hanson",
+   "for": "parent reads",
+   "age": "adult (read short sections aloud)",
+   "why": "How seeds conquered the world: their history, how they travel and wait, and why they matter to us."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name two plants that don't flower, and say how they make new plants.",
+   "a": "Ferns and mosses (spores); pines and cycads (seeds in cones, not in fruits)."
+  },
+  {
+   "q": "Name the parts of a flower and say what the stamen and carpel do.",
+   "a": "Sepals, petals, stamens (anther and filament; make pollen), carpel (stigma, style, ovary with ovules; receives pollen and makes seeds)."
+  },
+  {
+   "q": "What is pollination? Name three ways it happens.",
+   "a": "Pollen moving from an anther to a stigma; by insects, birds, bats or wind."
+  },
+  {
+   "q": "What happens after pollination?",
+   "a": "A pollen tube grows to an ovule, a male cell joins the egg (fertilisation), the ovule becomes a seed and the ovary becomes the fruit."
+  },
+  {
+   "q": "Why must seeds be spread? Give four ways.",
+   "a": "So they don't crowd the parent and each other; wind, water, animals (eaten or hitching), bursting pods."
+  },
+  {
+   "q": "What do seeds need to germinate? Did ours need light?",
+   "a": "Water, air and warmth; no, the dark jar sprouted too."
+  },
+  {
+   "q": "Why does a fig need a fig wasp?",
+   "a": "Its flowers are hidden inside the fig, and only its own tiny wasp can get in to pollinate them."
+  },
+  {
+   "q": "Give one argument on each side of the neonicotinoid debate.",
+   "a": "For: protects crops from pests; against: can harm bees' navigation and colonies."
+  }
+ ]
+}

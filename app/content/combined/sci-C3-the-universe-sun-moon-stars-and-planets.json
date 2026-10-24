@@ -140,21 +140,28 @@
     {
      "kind": "exp",
      "title": "Near torch, far torch",
-     "mins": 15,
+     "mins": 12,
      "do": "Do Experiment e1 in a long corridor, a terrace at dusk or a dark room.",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "How big is the Sun?",
-     "mins": 10,
+     "mins": 9,
      "do": "Tell your child: 'The Sun is so big that about 109 Earths would fit across it, and more than a million Earths could fit inside it. It looks small only because it is about 15 crore kilometres away. A car going at 100 km an hour, never stopping, would take about 170 years to get there.' Show this: put a mustard seed (the Earth) next to a big pumpkin or a football (the Sun). Ask: 'If the Sun is a star, what are the stars?' Good answer: 'Suns, very far away.'"
     },
     {
      "kind": "do",
      "title": "Light makers and light bouncers",
-     "mins": 8,
+     "mins": 6,
      "do": "In a dark room, shine a torch on a steel plate, a mirror and a dull cloth. Ask: 'Is the plate making light or bouncing it?' Say: 'The Sun and the stars make their own light. The Moon and the planets are like the steel plate: they shine only because sunlight bounces off them.' Add both to the sky book."
+    },
+    {
+     "kind": "talk",
+     "title": "Stars come in colours",
+     "mins": 6,
+     "do": "Tell your child about Voice v4, Annie Jump Cannon, who sorted hundreds of thousands of stars by their light. Say: 'Stars are not all white. Blue-white stars are the hottest, our yellow Sun is in the middle, and orange-red stars are the coolest.' On a clear night look for orange Betelgeuse and blue-white Rigel in Orion (winter evenings). Ask the voice question.",
+     "ref": "v4"
     },
     {
      "kind": "review",
@@ -191,7 +198,7 @@
     {
      "kind": "talk",
      "title": "Rocky and giant",
-     "mins": 7,
+     "mins": 5,
      "do": "Ask: 'Which planets were tiny and close together near the Sun?' (Mercury, Venus, Earth, Mars.) Say: 'These four are rocky, with hard ground. The next four are giants made mostly of gas and ice, with no ground to stand on. Jupiter is so big that about 1,300 Earths would fit inside.'"
     },
     {
@@ -200,6 +207,12 @@
      "mins": 8,
      "do": "Read Voice v1 together. Lay out the evidence: Pluto is smaller than our Moon, and many similar icy worlds have been found beyond Neptune. Ask the voice question and let your child vote with a reason.",
      "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "Planet music",
+     "mins": 4,
+     "do": "Play two short pieces from Gustav Holst's orchestra suite The Planets (1914–1916): 'Mars, the Bringer of War' and 'Jupiter, the Bringer of Jollity'. Ask: 'Which one sounds like a giant? Why do you think Holst made Mars sound like that?' (Mars is red, the colour of war in old stories.) Holst wrote no piece for the Earth. Ask: 'What would the Earth's music sound like?'"
     }
    ],
    "need": [
@@ -260,20 +273,20 @@
     {
      "kind": "warmup",
      "title": "Join the dots",
-     "mins": 5,
+     "mins": 4,
      "do": "Scatter dots on a page and ask your child to join some into a picture. Say: 'People everywhere have done this with stars. The pictures are ours; the stars don't know they are in them.'"
     },
     {
      "kind": "talk",
      "title": "What are stars made of?",
-     "mins": 10,
+     "mins": 9,
      "do": "Tell your child about Voice v3, Cecilia Payne, who found in 1925 that stars are made mostly of hydrogen and helium. Ask the voice question.",
      "ref": "v3"
     },
     {
      "kind": "act",
      "title": "Star-pattern viewer",
-     "mins": 12,
+     "mins": 8,
      "do": "Do Activity a2: make a star viewer of the Saptarishi with a paper cup and a pin. Shine a torch through it onto the ceiling.",
      "ref": "a2"
     },
@@ -288,6 +301,12 @@
      "title": "A star-stuff thought",
      "mins": 3,
      "do": "Say: 'Stars make new materials inside them. Some of the iron in your blood was made inside stars that exploded before the Sun was born.' Ask: 'What do you feel when you hear that?'"
+    },
+    {
+     "kind": "act",
+     "title": "Paint the cities of stars",
+     "mins": 5,
+     "do": "Say: 'The Milky Way is our galaxy, a city of more than a hundred billion stars. There are billions of other galaxies, and they come in shapes: spirals like pinwheels (ours is one), smooth round or egg-shaped ellipticals, and messy irregular ones.' Your child paints or draws one of each on black paper with white and blue paint or chalk, with a tiny dot in the spiral's arm labelled 'we are here'."
     }
    ],
    "need": [
@@ -345,13 +364,19 @@
     {
      "kind": "warmup",
      "title": "Hot and cold",
-     "mins": 5,
+     "mins": 4,
      "do": "Ask: 'Why do you think May is hotter than January in North India?' Most people say 'because we are nearer the Sun'. Write down your child's idea. Say: 'Let's test it.'"
+    },
+    {
+     "kind": "act",
+     "title": "Season dance",
+     "mins": 5,
+     "do": "Your child is the Earth, holding a pencil tilted towards one wall of the room as their axis. Walk round a lamp in four steps. At each step, play music and your child dances that season: spring (slowly growing, arms rising), summer (big, bright, wide), the monsoon (swaying, pattering fingers), winter (small, still, curled). Ask: 'Did the pencil change which way it leaned?' (No: it always leans the same way. That is the secret of seasons.)"
     },
     {
      "kind": "exp",
      "title": "Straight and slanting light",
-     "mins": 15,
+     "mins": 13,
      "do": "Do Experiment e4 with a torch and squared paper. Your child counts the squares in each patch of light and says which patch would feel warmer if it were sunlight.",
      "ref": "e4"
     },
@@ -364,7 +389,7 @@
     {
      "kind": "ws",
      "title": "Stretch worksheet",
-     "mins": 10,
+     "mins": 7,
      "do": "Your child does the stretch worksheet ws2. Read the questions aloud; for the two written items, let them explain out loud first, then write.",
      "ref": "ws2"
     }
@@ -1046,6 +1071,16 @@
    "status": "accepted",
    "ask": "Cecilia Payne doubted her own result because a famous man said it was impossible. When should you trust your own evidence over an expert?",
    "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "Annie Jump Cannon (1863–1941), USA",
+   "idea": "One of the women hired at Harvard College Observatory to study photographs of starlight for low pay, she sorted stars into types by the pattern of their light, in the order O, B, A, F, G, K, M, from hottest to coolest. She classified about 350,000 stars, more than anyone else in history, sometimes at a rate of three a minute.",
+   "then": "At first the work of these women was seen as mere 'computing' or cataloguing, and they were paid much less than men. Cannon, who was almost deaf from her twenties, became famous in her lifetime; in 1925 she was the first woman to receive an honorary doctorate from Oxford University.",
+   "now": "Her O-B-A-F-G-K-M system is still used by every astronomer. Our Sun is a G star.",
+   "status": "accepted",
+   "ask": "Sorting looks like a boring job. How can careful sorting lead to a big discovery? Can you think of something you could sort at home that might show a pattern?",
+   "day": 2
   }
  ],
  "books": [

@@ -211,14 +211,20 @@
     {
      "kind": "talk",
      "title": "Infectious diseases",
-     "mins": 10,
+     "mins": 9,
      "do": "Say: 'An infectious disease is an illness caused by germs that can spread from one person, animal or thing to another.' Name four kinds of germs: bacteria (can cause typhoid, cholera, TB), viruses (colds, flu, chickenpox, measles, COVID-19), fungi (ringworm, athlete's foot), and tiny parasites (the one that causes malaria, carried by mosquitoes). Ask: 'Which ways can germs travel?' (Air from coughs and sneezes, dirty hands, dirty water and food, insect bites, touching.) Ask: 'Is a cold infectious? Is a broken leg?' (Yes; no.)"
     },
     {
      "kind": "talk",
      "title": "The body's walls and soldiers",
-     "mins": 14,
-     "do": "Draw a castle on paper. The walls: skin (unbroken skin keeps germs out; that's why we clean cuts), mucus and nose hairs (trap germs), tears and saliva (wash and kill some germs), and stomach acid (kills many germs in food). If germs get past the walls, the soldiers come: white blood cells in the blood find germs and destroy them. Fever is part of the fight: a warmer body makes it harder for many germs to grow. Then the important part: 'After a fight, some white blood cells remember that germ. If it comes again, they recognise it at once and destroy it before you get ill. That's called immunity.' Ask: 'Why do most people get chickenpox only once?' (The body remembers it.)"
+     "mins": 11,
+     "do": "Draw a castle on paper. The walls: skin (unbroken skin keeps germs out; that's why we clean cuts), mucus and nose hairs (trap germs), tears and saliva (wash and kill some germs), and stomach acid (kills many germs in food). If germs get past the walls, the soldiers come: white blood cells in the blood find germs and destroy them. Fever is part of the fight: a warmer body makes it harder for many germs to grow. Say: 'Your immune system's first job is telling self from not-self: this is me, that is not me. Every living cell, back to the first cells, has kept itself in and the outside out.' Then the important part: 'After a fight, some white blood cells remember that germ. If it comes again, they recognise it at once and destroy it before you get ill. That's called immunity.' Ask: 'Why do most people get chickenpox only once?' (The body remembers it.)"
+    },
+    {
+     "kind": "game",
+     "title": "Castle tag",
+     "mins": 4,
+     "do": "A quick physical game, indoors or outside: one or two players are germs trying to touch a cushion (the body). The others are the defences: a wall line that can only shuffle sideways (skin), and one fast white blood cell who tags germs out. Play two rounds; in the second round the white blood cell already 'knows' the germs and starts right next to them (memory). Ask: 'Why was round two easier?'"
     },
     {
      "kind": "read",
@@ -246,14 +252,14 @@
      "kind": "talk",
      "title": "From variolation to vaccines",
      "mins": 13,
-     "do": "Tell voice v1: people in India, China, Africa and Turkey protected themselves against smallpox by variolation for centuries before Edward Jenner. Onesimus, an enslaved African man, taught it in Boston; Lady Mary Wortley Montagu brought it to England from Turkey. Jenner found a safer way using cowpox in 1796. Say: 'A vaccine shows the body a harmless form or a piece of a germ, so the white blood cells learn it and remember it, without you getting ill.' Then: 'Smallpox was wiped out completely from the Earth; the last natural case was in 1977. Polio: India's last case was a little girl in West Bengal in 2011. That was done by millions of vaccinators and health workers going door to door.' Ask the voice question.",
+     "do": "Tell voice v1: people in India, China, Africa and Turkey protected themselves against smallpox by variolation for centuries before Edward Jenner. Onesimus, an enslaved African man, taught it in Boston; Lady Mary Wortley Montagu brought it to England from Turkey. Jenner found a safer way using cowpox in 1796. Say: 'A vaccine shows the body a harmless form or a piece of a germ, so the white blood cells learn it and remember it, without you getting ill.' Then: 'Smallpox was wiped out completely from the Earth; the last natural case was in 1977. Polio: India's last case was a little girl in West Bengal in 2011. That was done by millions of vaccinators and health workers going door to door.' About 2,000 years ago, the Charaka Samhita, an Indian medical text, already had a word for the body's power to resist disease: vyadhikshamatva. Ask the voice question.",
      "ref": "v1"
     },
     {
      "kind": "exp",
      "title": "How vaccines protect everyone",
      "mins": 17,
-     "do": "Do Experiment e3, the model town with dice.",
+     "do": "Do Experiment e3, the model town with dice. Before each round, your child predicts how many of the 25 will fall ill and writes it down. After all three rounds, ask: 'Which round protected the unvaccinated people best? Why?' (Round 2: the vaccinated people broke the chains.)",
      "ref": "e3"
     },
     {
@@ -280,7 +286,7 @@
      "kind": "warmup",
      "title": "Waste count",
      "mins": 4,
-     "do": "Add last night's waste numbers. Tomorrow is the last count."
+     "do": "Add last night's waste numbers to the table. Tomorrow is the last count. Ask: 'Which column is bigger so far: could have been eaten, or couldn't?'"
     },
     {
      "kind": "act",
@@ -293,7 +299,7 @@
      "kind": "talk",
      "title": "Antibiotics and the mould on the melon",
      "mins": 15,
-     "do": "Say: 'Antibiotics are medicines that kill bacteria or stop them growing. They do nothing to viruses, so they don't cure a cold or the flu.' Tell voice v3: Alexander Fleming noticed in 1928 that a mould killed bacteria; years later Howard Florey, Ernst Chain, Norman Heatley and their team made it into a medicine, and a lab worker, Mary Hunt, found a mouldy melon whose mould made far more penicillin. Ask the voice question. Then explain resistance: 'If antibiotics are used when they're not needed, or a course is stopped too early, the few toughest bacteria survive and multiply, and the medicine stops working for everyone. Doctors call this antibiotic resistance, and it's one of the biggest worries in medicine today.' If time, draw the bacterium and virus from Activity 'antibiotics and viruses' in the voice notes: a bacterium is a living cell with a wall; a virus is a tiny coat around instructions, which an antibiotic can't attack.",
+     "do": "Say: 'Antibiotics are medicines that kill bacteria or stop them growing. They do nothing to viruses, so they don't cure a cold or the flu.' Tell voice v3: Alexander Fleming noticed in 1928 that a mould killed bacteria; years later Howard Florey, Ernst Chain, Norman Heatley and their team made it into a medicine, and a lab worker, Mary Hunt, found a mouldy melon whose mould made far more penicillin. Ask the voice question. Then explain resistance: 'If antibiotics are used when they're not needed, or a course is stopped too early, the few toughest bacteria survive and multiply, and the medicine stops working for everyone. Doctors call this antibiotic resistance, and it's one of the biggest worries in medicine today.' If time, draw a bacterium (a living cell with a wall and its own machinery) next to a virus (a much smaller coat around instructions, with no machinery of its own), and ask: 'What can an antibiotic attack in the virus?' (Nothing.)",
      "ref": "v3"
     },
     {
@@ -368,7 +374,7 @@
      "kind": "game",
      "title": "Defend the Body",
      "mins": 13,
-     "do": "Play the card game g1. Talk about each answer.",
+     "do": "Play the card game g1. After each answer, the player who read the card asks 'How do you know?' On a GERM ATTACK card, everyone stands and shows their defence with their body (a wall, a sneeze into the elbow, a white blood cell gobbling).",
      "ref": "g1"
     },
     {
@@ -1035,8 +1041,8 @@
    "more": "Soil microbes, earthworms, rain, the sun, farmers, transplanters, millers, drivers and cooks. Use the thank-you chain. Nobody grows their own dinner alone."
   },
   {
-   "idea": "Your body remembers.",
-   "more": "After beating a germ, some white blood cells remember it for years. Vaccines use this memory: they teach the body to recognise a germ without the danger of the full disease."
+   "idea": "Your body remembers, and it knows 'me' from 'not me'.",
+   "more": "The immune system's deepest skill is telling self from not-self, a skill every living cell has had in some form since the first cell membranes. After beating a germ, some white blood cells remember it for years. Vaccines use this memory: they teach the body to recognise a germ without the danger of the full disease."
   },
   {
    "idea": "Some protection is shared, not owned.",
@@ -1081,6 +1087,10 @@
   {
    "who": "A germ",
    "view": "A bacterium isn't trying to hurt you. It's trying to eat, grow and make more of itself, like every living thing. You just happen to be a good place to do it. Ask: does thinking of a germ this way change how you feel about it?"
+  },
+  {
+   "who": "Gagandeep Kang, Indian vaccine scientist",
+   "view": "Kang found that some vaccines made for rich countries worked less well in Indian children, whose guts face more infections. She helped test Rotavac, an affordable vaccine made in India against rotavirus, a germ that causes deadly diarrhoea in babies; it is now in India's national programme. In 2019 she became the first Indian woman elected a Fellow of the Royal Society. Ask: why might a medicine work differently in different places?"
   },
   {
    "who": "ASHA workers, ANMs and polio vaccinators",

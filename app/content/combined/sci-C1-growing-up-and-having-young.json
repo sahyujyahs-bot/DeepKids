@@ -246,8 +246,8 @@
     {
      "kind": "do",
      "title": "Project: My Growing-Up Book",
-     "mins": 10,
-     "do": "Start the project. Your child lays out family photos (or you draw them): a baby, a toddler, a child, a teenager, a grown-up, an older person. Put them in order and name each stage. Ask: 'Which one are you?' Then on the first pages of the book: a baby photo or drawing, their birth weight if you know it ('you weighed about as much as three packets of sugar'), and their first word. Ask: 'What could you do then? What can you do now?' Feel for a wobbly tooth or a gap: 'Milk teeth fall out and bigger teeth grow: that's growing too.' Add: 'People stop getting taller when they are grown up, but some animals, like crocodiles and many fish, keep growing slowly all their lives.'"
+     "mins": 8,
+     "do": "Start the project. Your child lays out family photos (or you draw them): a baby, a toddler, a child, a teenager, a grown-up, an older person. Put them in order and name each stage. Ask: 'Which one are you?' Then on the first pages of the book: a baby photo or drawing, their birth weight if you know it ('you weighed about as much as three packets of sugar'), and their first word. Say: 'Families are made in many ways: babies are born into them, adopted into them, fostered, raised by grandparents. All are real families.' Ask: 'What could you do then? What can you do now?' Feel for a wobbly tooth or a gap: 'Milk teeth fall out and bigger teeth grow: that's growing too.' Add: 'People stop getting taller when they are grown up, but some animals, like crocodiles and many fish, keep growing slowly all their lives.'"
     },
     {
      "kind": "talk",
@@ -257,9 +257,15 @@
      "ref": "v2"
     },
     {
+     "kind": "act",
+     "title": "Life-stage parade and lullaby",
+     "mins": 4,
+     "do": "Put on slow music. Your child acts each stage as you call it: a baby curled up and wriggling, a toddler wobbling, a child skipping, a teenager striding, a grown-up carrying a heavy bag, an older person walking slowly with a stick. Then they rock a doll or soft toy and sing it a lullaby (any one your family knows). Ask: 'Why do babies like slow, soft songs?' (They feel calm and safe; a slow beat is a bit like the heartbeat they heard before they were born.)"
+    },
+    {
      "kind": "ws",
      "title": "Stretch worksheet",
-     "mins": 8,
+     "mins": 6,
      "do": "Your child does Worksheet ws2 (stretch). Read each item aloud and let them point or answer aloud while you write.",
      "ref": "ws2"
     }

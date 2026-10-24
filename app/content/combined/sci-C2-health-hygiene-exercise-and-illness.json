@@ -171,21 +171,27 @@
     {
      "kind": "exp",
      "title": "Haldi germs",
-     "mins": 13,
+     "mins": 10,
      "do": "Do Experiment e1 with turmeric 'germs' and three kinds of washing.",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "The doctor who said wash your hands",
-     "mins": 9,
+     "mins": 8,
      "do": "Tell the story in voice v1 in your own words: about 180 years ago in Vienna, Dr Ignaz Semmelweis saw that mothers died more often in the ward where doctors worked. He made the doctors wash their hands, and far fewer mothers died. But many doctors were angry and would not believe him. Ask the voice question. Then finish Worksheet ws1 section B.",
      "ref": "v1"
     },
     {
+     "kind": "act",
+     "title": "Drama: the germ and the soap",
+     "mins": 5,
+     "do": "Act it out. One person is a germ, clinging to a hand (another person's arm) with an oily grip. The other is Soap: one hand grabs the oil, the other hand grabs Water, and together they pull the germ off and wash it away down the drain. Swap roles. Then ask: 'Why couldn't Water alone pull the germ off?' (Water slides off oil; soap holds on to both.) Children who act it remember the idea far better than ones who are told."
+    },
+    {
      "kind": "exp",
      "title": "Start the bread test",
-     "mins": 8,
+     "mins": 7,
      "do": "Start Experiment e2: one slice of bread touched with unwashed hands, one with washed hands, one not touched. You will check it on Days 5, 6 and 7.",
      "ref": "e2"
     }
@@ -222,9 +228,15 @@
      "ref": "e3"
     },
     {
+     "kind": "do",
+     "title": "Can you move just one toe?",
+     "mins": 4,
+     "do": "Try the DeepKids body challenge. Sitting still: move only your right big toe, nothing else. Now move only your right eyebrow. Now, without moving your head, look up towards the point between your eyebrows for 5 seconds. Then breathe out as slowly as you can and time it (breathing out slowly is safe; never hold the breath for long, and never in water). Ask: 'Was it easy to move just one part? Who was in charge of your toe?' Say: 'Your brain sends messages along nerves to each muscle. Practice makes the messages more exact.'"
+    },
+    {
      "kind": "talk",
      "title": "Why the body needs rest and sleep",
-     "mins": 10,
+     "mins": 6,
      "do": "Ask: 'After the jumping, what did your body want?' (To rest, breathe, drink water.) Say: 'Exercise makes muscles a little tired. While you rest and sleep, your body mends them and makes them a bit stronger than before. That's why children need about 9 to 12 hours of sleep a night.' Ask your child to count how many hours they slept last night (bedtime to waking). Ask: 'What happens to you the next day when you sleep too little?' (Grumpy, tired, can't think well.) Then sweat: 'Why do we sweat when we run?' (Sweat cools the skin as it dries. That is why we wash after exercise.)"
     }
    ],
@@ -298,7 +310,7 @@
      "kind": "do",
      "title": "Find the plaque",
      "mins": 10,
-     "do": "Plaque is the sticky, almost invisible layer of bacteria on teeth. Before brushing tonight, your child runs their tongue over their teeth and feels the fuzzy coat. If you can get disclosing tablets from a chemist, chew one and look: the plaque turns pink. Otherwise eat a few jamuns or a beetroot slice and look in the mirror: the stain sticks to the plaque. Then brush for 2 full minutes with a pea-sized blob of fluoride toothpaste: small circles on the outsides, the insides, and back-and-forth on the chewing tops. Look again. Ask: 'Where was the plaque hiding?' (Near the gums and between teeth.)"
+     "do": "Plaque is the sticky, almost invisible layer of bacteria on teeth. Before brushing tonight, your child runs their tongue over their teeth and feels the fuzzy coat. If you can get disclosing tablets from a chemist, chew one and look: the plaque turns pink. Otherwise eat a few jamuns or a beetroot slice and look in the mirror: the stain sticks to the plaque. Then brush for 2 full minutes (make up a brushing song together, one verse for top teeth and one for bottom, sung twice) with a pea-sized blob of fluoride toothpaste: small circles on the outsides, the insides, and back-and-forth on the chewing tops. Look again. Ask: 'Where was the plaque hiding?' (Near the gums and between teeth.)"
     },
     {
      "kind": "talk",
@@ -352,7 +364,7 @@
      "kind": "check",
      "title": "Teach it back",
      "mins": 8,
-     "do": "Your child teaches another family member how to wash hands properly and how to brush, and explains why. Then ask the check questions. Praise good reasons, not just right answers."
+     "do": "Your child teaches another family member how to wash hands properly and how to brush, and explains why. Then ask the check questions. Instead of labels like 'good boy' or 'clever girl', ask what they noticed and what surprised them; they are not their marks, and they can always look again."
     }
    ],
    "need": [
@@ -961,6 +973,10 @@
   }
  ],
  "perspectives": [
+  {
+   "who": "Your skin and your immune system",
+   "view": "Every living cell, from the very first ones billions of years ago, has had a skin of sorts, a membrane that keeps 'me' in and 'not me' out. Your skin and your germ-fighting cells still do that job. Ask: where do 'you' stop and the world begin, if the food on your plate becomes you tomorrow?"
+  },
   {
    "who": "A cow",
    "view": "A cow chews for up to eight hours a day with wide, flat molars and no top front teeth at all, just a hard pad. Her stomach is full of microbes that digest grass for her. Ask: who does the cow's digesting, really?"

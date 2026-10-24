@@ -1,11 +1,29 @@
 {
  "key": "combined|sci|1|materials-and-their-properties",
- "board": "combined", "subj": "sci", "level": 1, "n": "materials-and-their-properties",
+ "board": "combined",
+ "subj": "sci",
+ "level": 1,
+ "n": "materials-and-their-properties",
  "title": "What is it made of? Materials and what they can do",
  "source": "DeepKids Combined. Covers Cambridge Stage 1 Chemistry: Unit 4.1 'What is it made of?', Unit 4.2 'Using materials' and Unit 4.3 'Sorting materials'. No textbook needed.",
  "summary": "Your child learns the difference between a thing and the stuff it is made of: wood, metal, plastic, glass, rock, rubber, cloth and paper. They feel, bend, stretch, soak and shine a torch through materials to find their properties, test which material keeps a toy dry, sort materials more than one way, and discover a big idea: no material is best at everything, every material is good for something, and every single one came from the Earth.",
  "builds_on": "This is the first rung. Your child already handles materials all day. Class 2 sorts natural and made materials and tests them fairly; Class 3 names transparent, translucent and opaque, tests absorbency and strength with numbers, and finds magnetic metals. Changing materials (Class 2) and particles (Class 4) come later.",
- "subconcepts": ["an object and the material it is made of", "the common materials: wood, metal, plastic, glass, rock, rubber, cloth, paper", "materials from plants, animals and the ground", "hard and soft, rough and smooth", "bendy, stiff and stretchy", "see-through and not see-through", "waterproof and soaks up water", "one object can be made of many materials", "choosing the right material for a job", "sorting materials by more than one rule", "simple tests: changing one thing", "reusing and recycling materials"],
+ "subconcepts": [
+  "an object and the material it is made of",
+  "the common materials: wood, metal, plastic, glass, rock, rubber, cloth, paper",
+  "materials from plants, animals and the ground",
+  "hard and soft, rough and smooth",
+  "bendy, stiff and stretchy",
+  "see-through and not see-through",
+  "waterproof and soaks up water",
+  "one object can be made of many materials",
+  "choosing the right material for a job",
+  "sorting materials by more than one rule",
+  "simple tests: changing one thing",
+  "reusing and recycling materials",
+  "materials have voices: ring, thud, muffle",
+  "is air stuff? matter takes up space, shadows and warmth are not materials"
+ ],
  "goals": [
   "By the end your child can say what ten everyday objects are made of, and tell the object apart from its material.",
   "By the end your child can describe a material with property words: hard, soft, rough, smooth, bendy, stiff, stretchy, see-through, waterproof.",
@@ -14,172 +32,1139 @@
   "By the end your child can do a simple test (which material keeps teddy dry?) and say what happened.",
   "By the end your child can say where a material came from before it was a thing: a tree, a sheep, a rock or the ground."
  ],
- "words": [["object", "a thing you can pick up or point at, like a spoon or a chair"], ["material", "the stuff an object is made of, like wood or steel"], ["property", "what a material is like: hard, soft, bendy, shiny"], ["natural", "found in nature, from plants, animals or the ground"], ["metal", "a hard, shiny material that comes from rocks, like steel, iron, copper or aluminium"], ["plastic", "a material people make, mostly from oil found deep underground"], ["fabric", "cloth: threads woven or knitted together"], ["flexible", "bendy: it bends without breaking"], ["stretchy", "it gets longer when you pull it and goes back when you let go"], ["waterproof", "it does not let water through"], ["see-through", "you can see clearly through it"], ["recycle", "to break down an old thing so its material can make a new thing"]],
+ "words": [
+  [
+   "object",
+   "a thing you can pick up or point at, like a spoon or a chair"
+  ],
+  [
+   "material",
+   "the stuff an object is made of, like wood or steel"
+  ],
+  [
+   "property",
+   "what a material is like: hard, soft, bendy, shiny"
+  ],
+  [
+   "natural",
+   "found in nature, from plants, animals or the ground"
+  ],
+  [
+   "metal",
+   "a hard, shiny material that comes from rocks, like steel, iron, copper or aluminium"
+  ],
+  [
+   "plastic",
+   "a material people make, mostly from oil found deep underground"
+  ],
+  [
+   "fabric",
+   "cloth: threads woven or knitted together"
+  ],
+  [
+   "flexible",
+   "bendy: it bends without breaking"
+  ],
+  [
+   "stretchy",
+   "it gets longer when you pull it and goes back when you let go"
+  ],
+  [
+   "waterproof",
+   "it does not let water through"
+  ],
+  [
+   "see-through",
+   "you can see clearly through it"
+  ],
+  [
+   "recycle",
+   "to break down an old thing so its material can make a new thing"
+  ]
+ ],
  "day_mins": 30,
  "days": [
-  {"n": 1, "title": "The thing and the stuff", "goal": "Discover that every object is made of a material, and meet the crow who chose hers carefully.",
+  {
+   "n": 1,
+   "title": "The thing and the stuff",
+   "goal": "Discover that every object is made of a material, and meet the crow who chose hers carefully.",
    "steps": [
-    {"kind": "warmup", "title": "The tiffin table", "mins": 8, "do": "Put on the table: a steel tumbler, a wooden spoon, a plastic bottle, a cotton hanky, a glass bowl and a rubber band. Point to the tumbler and ask: 'What is this?' (a tumbler, a glass). Then ask: 'What is it made of?' (steel, a metal). Say: 'The tumbler is the object. Steel is the material, the stuff it is made of.' Do the same for every object. If your child gives the object's name again ('it's made of spoon'), laugh together and ask: 'If we chopped the spoon into tiny bits, what would the bits be?' (wood)."},
-    {"kind": "read", "title": "Story: The Crow's House of Wire", "mins": 12, "do": "Read the story aloud slowly. Don't explain it. At the end ask: 'Why did the crow use wire for the outside and soft things for the inside?' Good answer: the wire bends into shape and stays strong in the wind; soft things are comfortable for eggs. Ask: 'Was wire good or bad?' Listen for 'good for some jobs, not others'."},
-    {"kind": "act", "title": "Material detective walk", "mins": 10, "do": "Walk through two rooms together. Your child touches 8 objects and says 'This is a ___ and it is made of ___.' You write them in two columns on a sheet: OBJECT and MATERIAL. Keep the sheet for Day 2. If they don't know a material (a tile, a fan blade), say the real word: 'That's ceramic, baked clay' or 'That's aluminium, a light metal'.", "ref": "a1"}
-   ], "need": ["a steel tumbler, wooden spoon, plastic bottle, cotton hanky, glass bowl, rubber band", "paper and pencil"]},
-  {"n": 2, "title": "Where did it come from?", "goal": "Trace materials back to a plant, an animal or the ground.",
+    {
+     "kind": "warmup",
+     "title": "The tiffin table",
+     "mins": 8,
+     "do": "Put on the table: a steel tumbler, a wooden spoon, a plastic bottle, a cotton hanky, a glass bowl and a rubber band. Point to the tumbler and ask: 'What is this?' (a tumbler, a glass). Then ask: 'What is it made of?' (steel, a metal). Say: 'The tumbler is the object. Steel is the material, the stuff it is made of.' Do the same for every object. If your child gives the object's name again ('it's made of spoon'), laugh together and ask: 'If we chopped the spoon into tiny bits, what would the bits be?' (wood)."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Crow's House of Wire",
+     "mins": 12,
+     "do": "Read the story aloud slowly. Don't explain it. At the end ask: 'Why did the crow use wire for the outside and soft things for the inside?' Good answer: the wire bends into shape and stays strong in the wind; soft things are comfortable for eggs. Ask: 'Was wire good or bad?' Listen for 'good for some jobs, not others'."
+    },
+    {
+     "kind": "act",
+     "title": "Material detective walk",
+     "mins": 10,
+     "do": "Walk through two rooms together. Your child touches 8 objects and says 'This is a ___ and it is made of ___.' You write them in two columns on a sheet: OBJECT and MATERIAL. Keep the sheet for Day 2. If they don't know a material (a tile, a fan blade), say the real word: 'That's ceramic, baked clay' or 'That's aluminium, a light metal'.",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "a steel tumbler, wooden spoon, plastic bottle, cotton hanky, glass bowl, rubber band",
+    "paper and pencil"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Where did it come from?",
+   "goal": "Trace materials back to a plant, an animal or the ground.",
    "steps": [
-    {"kind": "warmup", "title": "Back to the beginning", "mins": 8, "do": "Hold up the wooden spoon. Ask: 'Before it was a spoon, what was it?' (a tree). 'And before it was a tree?' (a seed, and air, water and sunlight). Do the same with the cotton hanky (a cotton plant in a field), a woollen sweater (a sheep's coat), a steel spoon (rock dug from the ground, melted in a furnace) and a plastic bottle (oil from deep underground, made from plants and tiny sea creatures that lived millions of years ago). Say: 'Every material came from the Earth. Nothing comes from nowhere.'"},
-    {"kind": "do", "title": "Plant, animal or ground?", "mins": 12, "do": "Go back to yesterday's OBJECT and MATERIAL list. For each material your child draws a small picture next to it: a leaf (from a plant: wood, cotton, paper, jute, rubber), a paw (from an animal: wool, silk, leather), or a rock (from the ground: metal, glass from sand, stone, clay, plastic from oil). Ask: 'Paper comes from a tree. Glass comes from sand. Which surprised you most?'"},
-    {"kind": "talk", "title": "Who first made rubber bounce?", "mins": 10, "do": "Stretch a rubber band. Say: 'Rubber is the dried milky sap of a tree.' Tell voice v1 simply: long before the famous inventor in America, people in Mexico and Central America mixed the sap of the rubber tree with the juice of a climbing plant to make balls that bounced, more than 3,000 years ago. Ask: 'Why do you think the books usually name only the man from America?' Let your child guess; there is no single answer.", "ref": "v1"}
-   ], "need": ["yesterday's list", "a woollen thing, a steel spoon, a rubber band", "coloured pencils"]},
-  {"n": 3, "title": "Hard, soft, rough, smooth", "goal": "Use our hands to find and name properties.",
+    {
+     "kind": "warmup",
+     "title": "Back to the beginning",
+     "mins": 8,
+     "do": "Hold up the wooden spoon. Ask: 'Before it was a spoon, what was it?' (a tree). 'And before it was a tree?' (a seed, and air, water and sunlight). Do the same with the cotton hanky (a cotton plant in a field), a woollen sweater (a sheep's coat), a steel spoon (rock dug from the ground, melted in a furnace) and a plastic bottle (oil from deep underground, made from plants and tiny sea creatures that lived millions of years ago). Say: 'Every material came from the Earth. Nothing comes from nowhere.'"
+    },
+    {
+     "kind": "do",
+     "title": "Plant, animal or ground?",
+     "mins": 12,
+     "do": "Go back to yesterday's OBJECT and MATERIAL list. For each material your child draws a small picture next to it: a leaf (from a plant: wood, cotton, paper, jute, rubber), a paw (from an animal: wool, silk, leather), or a rock (from the ground: metal, glass from sand, stone, clay, plastic from oil). Ask: 'Paper comes from a tree. Glass comes from sand. Which surprised you most?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Who first made rubber bounce?",
+     "mins": 10,
+     "do": "Stretch a rubber band. Say: 'Rubber is the dried milky sap of a tree.' Tell voice v1 simply: long before the famous inventor in America, people in Mexico and Central America mixed the sap of the rubber tree with the juice of a climbing plant to make balls that bounced, more than 3,000 years ago. Ask: 'Why do you think the books usually name only the man from America?' Let your child guess; there is no single answer.",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "yesterday's list",
+    "a woollen thing, a steel spoon, a rubber band",
+    "coloured pencils"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Hard, soft, rough, smooth",
+   "goal": "Use our hands to find and name properties.",
    "steps": [
-    {"kind": "game", "title": "The feely bag", "mins": 10, "do": "Put 8 things in a cloth bag without your child seeing: a stone, a ball of cotton wool, a sponge, a steel spoon, sandpaper or a pumice stone, a silk or satin scrap, a wooden block, a piece of foil. Your child puts a hand in, feels one thing and must describe it using only property words before guessing: 'It's hard and smooth and cold.' Say the words they need: hard, soft, rough, smooth, cold, warm, heavy, light.", "ref": "a2"},
-    {"kind": "do", "title": "Smoothest to roughest line", "mins": 10, "do": "Take 5 of the objects out. Your child rubs each one on the back of their hand and lines them up from smoothest to roughest. Ask: 'Why is the sandpaper rough?' (it has tiny bumps of sand stuck on it). 'Why might a slide be smooth and a slipper's bottom be rough?' (smooth to slide, rough to grip and not slip)."},
-    {"kind": "ws", "title": "Worksheet: what is it made of?", "mins": 10, "do": "Do Worksheet ws1 together. Read every question aloud. For the 'tell a grown-up' questions, your child speaks and you write their words exactly. Good answer for 'why is a chair not made of jelly': jelly is too soft and wobbly to hold you up.", "ref": "ws1"}
-   ], "need": ["a cloth bag", "8 objects listed in the feely-bag step", "worksheet ws1"]},
-  {"n": 4, "title": "Bendy, stiff and stretchy", "goal": "Test which materials bend, which break and which stretch back.",
+    {
+     "kind": "game",
+     "title": "The feely bag",
+     "mins": 10,
+     "do": "Put 8 things in a cloth bag without your child seeing: a stone, a ball of cotton wool, a sponge, a steel spoon, sandpaper or a pumice stone, a silk or satin scrap, a wooden block, a piece of foil. Your child puts a hand in, feels one thing and must describe it using only property words before guessing: 'It's hard and smooth and cold.' Say the words they need: hard, soft, rough, smooth, cold, warm, heavy, light.",
+     "ref": "a2"
+    },
+    {
+     "kind": "do",
+     "title": "Smoothest to roughest line",
+     "mins": 10,
+     "do": "Take 5 of the objects out. Your child rubs each one on the back of their hand and lines them up from smoothest to roughest. Ask: 'Why is the sandpaper rough?' (it has tiny bumps of sand stuck on it). 'Why might a slide be smooth and a slipper's bottom be rough?' (smooth to slide, rough to grip and not slip)."
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: what is it made of?",
+     "mins": 10,
+     "do": "Do Worksheet ws1 together. Read every question aloud. For the 'tell a grown-up' questions, your child speaks and you write their words exactly. Good answer for 'why is a chair not made of jelly': jelly is too soft and wobbly to hold you up.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a cloth bag",
+    "8 objects listed in the feely-bag step",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Bendy, stiff and stretchy",
+   "goal": "Test which materials bend, which break and which stretch back.",
    "steps": [
-    {"kind": "exp", "title": "Bend it, stretch it", "mins": 15, "do": "Do Experiment e3. Your child gently tries to bend each thing: a plastic ruler, a wooden pencil, a steel spoon, a strip of paper, a rubber band, a dry spaghetti stick. Make three piles: BENDS (flexible), DOESN'T BEND (stiff), STRETCHES AND GOES BACK (stretchy). Ask: 'Which one snapped? Why would that be bad for a ruler?'", "ref": "e3"},
-    {"kind": "talk", "title": "Bendy is clever", "mins": 8, "do": "Ask: 'Why are chappals bendy?' (so your foot can bend when you walk). 'Why is a door stiff?' (so it stays a door shape). 'Why are hair bands stretchy?' Point out a bamboo pole or tree swaying in the wind: 'If trees were stiff like glass, a storm would snap them. Bending saves them.'"},
-    {"kind": "review", "title": "Draw one thing that must be bendy", "mins": 7, "do": "Your child draws one thing that MUST be bendy and one that MUST be stiff, and tells you why. You write the reason under the drawing. Good answers: a skipping rope (must bend to swing), a table leg (must be stiff to hold the table)."}
-   ], "need": ["plastic ruler, pencil, steel spoon, paper strip, rubber band, dry spaghetti"]},
-  {"n": 5, "title": "Keep teddy dry, and the torch test", "goal": "Test materials for waterproof and see-through, and do a simple test properly.",
+    {
+     "kind": "exp",
+     "title": "Bend it, stretch it",
+     "mins": 15,
+     "do": "Do Experiment e3. Your child gently tries to bend each thing: a plastic ruler, a wooden pencil, a steel spoon, a strip of paper, a rubber band, a dry spaghetti stick. Make three piles: BENDS (flexible), DOESN'T BEND (stiff), STRETCHES AND GOES BACK (stretchy). Ask: 'Which one snapped? Why would that be bad for a ruler?'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Bendy is clever",
+     "mins": 8,
+     "do": "Ask: 'Why are chappals bendy?' (so your foot can bend when you walk). 'Why is a door stiff?' (so it stays a door shape). 'Why are hair bands stretchy?' Point out a bamboo pole or tree swaying in the wind: 'If trees were stiff like glass, a storm would snap them. Bending saves them.' Then dance it: put on music and call out 'STIFF!' (your child moves like a steel rod, arms straight), 'BENDY!' (like a bamboo in the wind), 'STRETCHY!' (reach out slowly and spring back), 'SNAP!' (freeze and drop like dry spaghetti)."
+    },
+    {
+     "kind": "review",
+     "title": "Draw one thing that must be bendy",
+     "mins": 7,
+     "do": "Your child draws one thing that MUST be bendy and one that MUST be stiff, and tells you why. You write the reason under the drawing. Good answers: a skipping rope (must bend to swing), a table leg (must be stiff to hold the table)."
+    }
+   ],
+   "need": [
+    "plastic ruler, pencil, steel spoon, paper strip, rubber band, dry spaghetti"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Keep teddy dry, and the torch test",
+   "goal": "Test materials for waterproof and see-through, and do a simple test properly.",
    "steps": [
-    {"kind": "exp", "title": "Keep Teddy dry", "mins": 15, "do": "Do Experiment e1. Your child predicts first which material will make the best umbrella for a small toy and points to it. Then for each material in turn: put a folded tissue on a plate, lay the material over it, and pour ONE spoon of water on top. Lift and look at the tissue. Ask: 'Did we use the same amount of water each time? Why does that matter?' Good answer: so it's fair; if one got more water, it wouldn't be a real race.", "ref": "e1"},
-    {"kind": "exp", "title": "The torch test", "mins": 10, "do": "Do Experiment e2 in a dim room. Shine a torch through each material at the wall. Sort into SEE-THROUGH (you can see the torch clearly), A LITTLE (blurry light comes through) and NOT SEE-THROUGH (no light). Ask: 'Why are windows made of glass and not wood?' Then: 'Why are curtains made of cloth that light can't get through?' (to keep the room dark for sleep).", "ref": "e2"},
-    {"kind": "review", "title": "Best umbrella, best window", "mins": 5, "do": "Ask your child to say one sentence for each test: 'The best umbrella was ___ because it was waterproof.' 'The best window was ___ because it was see-through.' Write them up and stick them on the wall."}
-   ], "need": ["a small toy, 5 tissues, a plate, a tablespoon, a cup of water", "squares of: plastic bag, cotton hanky, newspaper, foil, paper towel", "a torch, a glass tumbler, butter paper, a steel plate, cardboard, a thin cloth"]},
-  {"n": 6, "title": "The right material for the job", "goal": "Explain why things are made of what they are made of, and laugh at silly choices.",
+    {
+     "kind": "exp",
+     "title": "Keep Teddy dry",
+     "mins": 15,
+     "do": "Do Experiment e1. Your child predicts first which material will make the best umbrella for a small toy and points to it. Then for each material in turn: put a folded tissue on a plate, lay the material over it, and pour ONE spoon of water on top. Lift and look at the tissue. Ask: 'Did we use the same amount of water each time? Why does that matter?' Good answer: so it's fair; if one got more water, it wouldn't be a real race.",
+     "ref": "e1"
+    },
+    {
+     "kind": "exp",
+     "title": "The torch test",
+     "mins": 10,
+     "do": "Do Experiment e2 in a dim room. Shine a torch through each material at the wall. Sort into SEE-THROUGH (you can see the torch clearly), A LITTLE (blurry light comes through) and NOT SEE-THROUGH (no light). Ask: 'Why are windows made of glass and not wood?' Then: 'Why are curtains made of cloth that light can't get through?' (to keep the room dark for sleep).",
+     "ref": "e2"
+    },
+    {
+     "kind": "review",
+     "title": "Best umbrella, best window",
+     "mins": 5,
+     "do": "Ask your child to say one sentence for each test: 'The best umbrella was ___ because it was waterproof.' 'The best window was ___ because it was see-through.' Write them up and stick them on the wall."
+    }
+   ],
+   "need": [
+    "a small toy, 5 tissues, a plate, a tablespoon, a cup of water",
+    "squares of: plastic bag, cotton hanky, newspaper, foil, paper towel",
+    "a torch, a glass tumbler, butter paper, a steel plate, cardboard, a thin cloth"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The right material for the job",
+   "goal": "Explain why things are made of what they are made of, and laugh at silly choices.",
    "steps": [
-    {"kind": "game", "title": "Silly or sensible?", "mins": 10, "do": "Say these one at a time and your child shouts 'SILLY!' or 'SENSIBLE!' and says why: a chocolate kadhai (silly, it would melt on the stove), a paper umbrella (silly, it would soak and tear), a glass pillow (silly, hard and could break), a steel kadhai (sensible, strong and doesn't melt), a woollen sweater (sensible, warm and soft), a rubber football (sensible, bouncy), a jelly chair (silly). Then your child invents two silly ones for you to answer."},
-    {"kind": "talk", "title": "The pillar that never rusted", "mins": 8, "do": "Show a picture of the Iron Pillar in Delhi if you can, or describe it: a tall iron pole, taller than two grown-ups, made by Indian ironworkers about 1,600 years ago, standing in the rain all that time and still hardly rusted. Tell voice v2 simply. Ask: 'Our iron gate gets rusty and orange. How do you think they made iron that stays shiny?' Accept any guess; say scientists studied it and found the iron had something special mixed in.", "ref": "v2"},
-    {"kind": "ws", "title": "Worksheet: the right material", "mins": 12, "do": "Do Worksheet ws2. Read each item aloud. In the 'one object, many materials' question, take a real school bag and find all its materials: cloth, plastic zip, metal buckle, foam. Ask: 'Why not make the whole bag from metal?'", "ref": "ws2"}
-   ], "need": ["a picture of the Iron Pillar if possible", "a school bag", "worksheet ws2"]},
-  {"n": 7, "title": "Sorting, and where things go next", "goal": "Sort materials in more than one way, and think about reuse and recycling.",
+    {
+     "kind": "game",
+     "title": "Silly or sensible?",
+     "mins": 10,
+     "do": "Say these one at a time and your child shouts 'SILLY!' or 'SENSIBLE!' and says why: a chocolate kadhai (silly, it would melt on the stove), a paper umbrella (silly, it would soak and tear), a glass pillow (silly, hard and could break), a steel kadhai (sensible, strong and doesn't melt), a woollen sweater (sensible, warm and soft), a rubber football (sensible, bouncy), a jelly chair (silly). Then your child invents two silly ones for you to answer."
+    },
+    {
+     "kind": "talk",
+     "title": "The pillar that never rusted",
+     "mins": 8,
+     "do": "Show a picture of the Iron Pillar in Delhi if you can, or describe it: a tall iron pole, taller than two grown-ups, made by Indian ironworkers about 1,600 years ago, standing in the rain all that time and still hardly rusted. Tell voice v2 simply. Ask: 'Our iron gate gets rusty and orange. How do you think they made iron that stays shiny?' Accept any guess; say scientists studied it and found the iron had something special mixed in.",
+     "ref": "v2"
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: the right material",
+     "mins": 12,
+     "do": "Do Worksheet ws2. Read each item aloud. In the 'one object, many materials' question, take a real school bag and find all its materials: cloth, plastic zip, metal buckle, foam. Ask: 'Why not make the whole bag from metal?'",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "a picture of the Iron Pillar if possible",
+    "a school bag",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Sorting, and where things go next",
+   "goal": "Sort materials in more than one way, and think about reuse and recycling.",
    "steps": [
-    {"kind": "do", "title": "Sort it twice", "mins": 8, "do": "Tip 12 objects onto a mat. First your child sorts them by MATERIAL (all wood together, all metal together). Then mix them and sort them a different way: by a PROPERTY (bendy or stiff, or see-through or not). Ask: 'Is there one right way to sort?' Good answer: no, it depends on the question you are asking. Let them invent a third rule."},
-    {"kind": "game", "title": "Material Snap", "mins": 10, "do": "Play the card game g1, Material Snap. Two cards snap when they show objects made of the same material. Say the material aloud each time.", "ref": "g1"},
-    {"kind": "talk", "title": "Does recycling solve it?", "mins": 7, "do": "Ask: 'What happens to our old newspapers and bottles?' Explain that the kabadiwala buys them, and they are broken down to make new things: that's recycling. Then tell voice v3 simply: scientists counted and found that most plastic ever made has NOT been recycled. Ask: 'What could be better than recycling a bottle?' Listen for: using it again, or not needing it.", "ref": "v3"},
-    {"kind": "act", "title": "Start the material museum", "mins": 5, "do": "Begin the project: your child chooses a shoebox and collects 10 small objects from around the house, each made of a different material. Don't label yet."}
-   ], "need": ["12 mixed objects", "printed Material Snap cards", "a shoebox"]},
-  {"n": 8, "title": "Our material museum, and teach it back", "goal": "Show and explain everything learned.",
+    {
+     "kind": "do",
+     "title": "Sort it twice",
+     "mins": 8,
+     "do": "Tip 12 objects onto a mat. First your child sorts them by MATERIAL (all wood together, all metal together). Then mix them and sort them a different way: by a PROPERTY (bendy or stiff, or see-through or not). Ask: 'Is there one right way to sort?' Good answer: no, it depends on the question you are asking. Let them invent a third rule."
+    },
+    {
+     "kind": "game",
+     "title": "Material Snap",
+     "mins": 10,
+     "do": "Play the card game g1, Material Snap. Two cards snap when they show objects made of the same material. Say the material aloud each time.",
+     "ref": "g1"
+    },
+    {
+     "kind": "talk",
+     "title": "Does recycling solve it?",
+     "mins": 7,
+     "do": "Ask: 'What happens to our old newspapers and bottles?' Explain that the kabadiwala buys them, and they are broken down to make new things: that's recycling. Then tell voice v3 simply: scientists counted and found that most plastic ever made has NOT been recycled. Ask: 'What could be better than recycling a bottle?' Listen for: using it again, or not needing it.",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "Start the material museum",
+     "mins": 5,
+     "do": "Begin the project: your child chooses a shoebox and collects 10 small objects from around the house, each made of a different material. Don't label yet."
+    }
+   ],
+   "need": [
+    "12 mixed objects",
+    "printed Material Snap cards",
+    "a shoebox"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Materials sing, and a superhero suit",
+   "goal": "Hear that materials have different voices, find out whether air is 'stuff', and choose materials for a suit.",
    "steps": [
-    {"kind": "act", "title": "Label the museum", "mins": 10, "do": "Finish the project: for each object in the shoebox, your child says the material, one property, and whether it came from a plant, an animal or the ground. You write a small label. Arrange the museum on a table."},
-    {"kind": "ws", "title": "Challenge worksheet", "mins": 8, "do": "Do Worksheet ws3 together. The last questions have no single right answer; write down your child's idea and ask 'how could we test it?'", "ref": "ws3"},
-    {"kind": "check", "title": "Teach it back: the museum tour", "mins": 12, "do": "Your child gives a family member a tour of the museum, explaining: what an object is and what a material is, three property words, the teddy umbrella test, and why the crow used wire. Then ask the check questions. Praise any answer that gives a reason."}
-   ], "need": ["the shoebox museum", "small paper labels", "worksheet ws3"]}
+    {
+     "kind": "do",
+     "title": "The knock orchestra",
+     "mins": 10,
+     "do": "Do Activity a4. Lay out a steel plate, a wooden board, a glass tumbler, a plastic box, a folded towel and a clay pot. Your child knocks each gently with a steel spoon and says what it sounds like: the steel rings, the glass chimes, the wood goes 'tok', the plastic clacks, the towel says almost nothing. Ask: 'Which one swallows the sound?' (the towel: soft cloth soaks up sound, like a sponge soaks up water). Then make a rhythm together: tok-tok-ring, tok-tok-ring. Finally, set a phone alarm and cover it first with the steel bowl, then with the towel: which makes it quieter?",
+     "ref": "a4"
+    },
+    {
+     "kind": "think",
+     "title": "Is air stuff?",
+     "mins": 8,
+     "do": "Give your child a plastic bag. They swish it through the air and quickly twist the top shut. Ask: 'Is the bag empty?' Let them squeeze it: it pushes back. Say: 'Air is stuff too. You can't see it, but it takes up space and pushes back.' Then ask two puzzles. 'Is a shadow made of a material?' (No. A shadow is only a place where light is blocked; you can't pick it up.) 'Is warmth from the sun a material?' (No. You feel it, but it isn't stuff; scientists call it energy.) Ask: 'So what counts as stuff?' Good answer: anything that takes up space and has weight."
+    },
+    {
+     "kind": "act",
+     "title": "Design a superhero suit",
+     "mins": 12,
+     "do": "Your child's superhero must fly through three places in one day: a monsoon storm in Mumbai, the hot sand of the Thar desert at noon, and the snow of Ladakh at night. Your child draws the hero and chooses a material for each part, saying the property it needs: a waterproof cape (plastic), soft shoes that don't burn on hot sand (thick rubber or cloth), a warm woollen layer for the snow, see-through goggles (plastic or glass), something stretchy at the elbows and knees. Ask: 'Can ONE material do all of it?' (no). Write the labels for them.",
+     "ref": "a3"
+    }
+   ],
+   "need": [
+    "a steel plate, wooden board, glass tumbler, plastic box, towel, clay pot, a steel spoon",
+    "a phone with an alarm",
+    "a plastic bag",
+    "paper and crayons"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Our material museum, and teach it back",
+   "goal": "Show and explain everything learned.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Label the museum",
+     "mins": 10,
+     "do": "Finish the project: for each object in the shoebox, your child says the material, one property, and whether it came from a plant, an animal or the ground. You write a small label. Arrange the museum on a table."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 8,
+     "do": "Do Worksheet ws3 together. The last questions have no single right answer; write down your child's idea and ask 'how could we test it?'",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back: the museum tour",
+     "mins": 12,
+     "do": "Your child gives a family member a tour of the museum, explaining: what an object is and what a material is, three property words, the teddy umbrella test, and why the crow used wire. Then ask the check questions. Praise any answer that gives a reason."
+    }
+   ],
+   "need": [
+    "the shoebox museum",
+    "small paper labels",
+    "worksheet ws3"
+   ]
+  }
  ],
  "worksheets": [
-  {"id": "ws1", "tier": "core", "title": "What is it made of?", "day": 3, "sections": [
-   ["A. Object or material?", [
-    {"t": "sort", "p": "Is it an object or a material?", "items": ["spoon", "wood", "chair", "glass", "window", "cotton", "kurta", "metal"], "cats": ["object", "material"]},
-    {"t": "match", "p": "Match the object to its material.", "pairs": [["tumbler", "steel"], ["book", "paper"], ["tyre", "rubber"], ["window", "glass"], ["chappal", "rubber or plastic"]]},
-    {"t": "mcq", "p": "A wooden spoon is made of…", "opts": ["metal", "wood", "glass"], "a": 1}]],
-   ["B. Feel it", [
-    {"t": "mcq", "p": "Which one is rough?", "opts": ["a glass marble", "sandpaper", "a silk scarf"], "a": 1},
-    {"t": "mcq", "p": "Which one is soft?", "opts": ["a stone", "cotton wool", "a steel plate"], "a": 1},
-    {"t": "fill", "p": "A rock is hard. A pillow is ____.", "a": ["soft"]}]],
-   ["C. Tell a grown-up", [
-    {"t": "write", "p": "Why is a chair not made of jelly? (Tell a grown-up, who writes it.)", "lines": 2},
-    {"t": "write", "p": "Why is the bottom of a slipper rough and not smooth?", "lines": 2}]]]},
-  {"id": "ws2", "tier": "stretch", "title": "The right material for the job", "day": 6, "sections": [
-   ["A. Why this material?", [
-    {"t": "match", "p": "Match the job to the property it needs.", "pairs": [["umbrella", "waterproof"], ["window", "see-through"], ["rubber band", "stretchy"], ["table leg", "stiff and strong"], ["towel", "soaks up water"]]},
-    {"t": "mcq", "p": "Which is the best material for a raincoat?", "opts": ["paper", "plastic", "wool"], "a": 1},
-    {"t": "mcq", "p": "Which is the best material for a kadhai on the stove?", "opts": ["chocolate", "plastic", "iron"], "a": 2},
-    {"t": "fill", "p": "A towel must soak up water. A raincoat must be ____.", "a": ["waterproof"]},
-    {"t": "sort", "p": "Silly or sensible?", "items": ["glass pillow", "steel spoon", "paper umbrella", "woollen sweater", "chocolate teapot", "rubber ball"], "cats": ["silly", "sensible"]}]],
-   ["B. Where did it come from?", [
-    {"t": "sort", "p": "Did this material come from a plant, an animal or the ground?", "items": ["wood", "wool", "cotton", "glass", "paper", "silk", "iron", "clay"], "cats": ["plant", "animal", "ground"]}]],
-   ["C. Think and tell", [
-    {"t": "write", "p": "Your school bag is made of cloth, plastic and metal. Why not make all of it from metal?", "lines": 2},
-    {"t": "write", "p": "The crow used wire for the outside of her nest. What would happen if she used paper?", "lines": 2}]]]},
-  {"id": "ws3", "tier": "challenge", "title": "Think like a materials scientist", "day": 8, "sections": [
-   ["A. Puzzles", [
-    {"t": "mcq", "p": "Glass is made from…", "opts": ["ice", "sand", "plastic"], "a": 1},
-    {"t": "mcq", "p": "Paper is made from…", "opts": ["trees and old cloth", "rocks", "milk"], "a": 0},
-    {"t": "mcq", "p": "Which is NOT a natural material?", "opts": ["wool", "plastic", "stone"], "a": 1},
-    {"t": "fill", "p": "A material that bends without breaking is called ____.", "a": ["flexible", "bendy"]},
-    {"t": "match", "p": "Match each test to what it finds out.", "pairs": [["pour water on it", "is it waterproof?"], ["shine a torch through it", "is it see-through?"], ["pull it", "is it stretchy?"]]},
-    {"t": "draw", "p": "Invent a new thing and draw it. Label two different materials you would use for its parts."}]],
-   ["B. Big thinking", [
-    {"t": "write", "p": "Is there one material that is best at everything? Why or why not?", "lines": 3},
-    {"t": "write", "p": "How could you test which cloth is warmest for a winter cap? What would you keep the same?", "lines": 3},
-    {"t": "write", "p": "If you were a crow, which material from our house would you steal for your nest, and why?", "lines": 2}]]]}
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "What is it made of?",
+   "day": 3,
+   "sections": [
+    [
+     "A. Object or material?",
+     [
+      {
+       "t": "sort",
+       "p": "Is it an object or a material?",
+       "items": [
+        "spoon",
+        "wood",
+        "chair",
+        "glass",
+        "window",
+        "cotton",
+        "kurta",
+        "metal"
+       ],
+       "cats": [
+        "object",
+        "material"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the object to its material.",
+       "pairs": [
+        [
+         "tumbler",
+         "steel"
+        ],
+        [
+         "book",
+         "paper"
+        ],
+        [
+         "tyre",
+         "rubber"
+        ],
+        [
+         "window",
+         "glass"
+        ],
+        [
+         "chappal",
+         "rubber or plastic"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A wooden spoon is made of…",
+       "opts": [
+        "metal",
+        "wood",
+        "glass"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Feel it",
+     [
+      {
+       "t": "mcq",
+       "p": "Which one is rough?",
+       "opts": [
+        "a glass marble",
+        "sandpaper",
+        "a silk scarf"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which one is soft?",
+       "opts": [
+        "a stone",
+        "cotton wool",
+        "a steel plate"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "A rock is hard. A pillow is ____.",
+       "a": [
+        "soft"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Tell a grown-up",
+     [
+      {
+       "t": "write",
+       "p": "Why is a chair not made of jelly? (Tell a grown-up, who writes it.)",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why is the bottom of a slipper rough and not smooth?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "The right material for the job",
+   "day": 6,
+   "sections": [
+    [
+     "A. Why this material?",
+     [
+      {
+       "t": "match",
+       "p": "Match the job to the property it needs.",
+       "pairs": [
+        [
+         "umbrella",
+         "waterproof"
+        ],
+        [
+         "window",
+         "see-through"
+        ],
+        [
+         "rubber band",
+         "stretchy"
+        ],
+        [
+         "table leg",
+         "stiff and strong"
+        ],
+        [
+         "towel",
+         "soaks up water"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which is the best material for a raincoat?",
+       "opts": [
+        "paper",
+        "plastic",
+        "wool"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which is the best material for a kadhai on the stove?",
+       "opts": [
+        "chocolate",
+        "plastic",
+        "iron"
+       ],
+       "a": 2
+      },
+      {
+       "t": "fill",
+       "p": "A towel must soak up water. A raincoat must be ____.",
+       "a": [
+        "waterproof"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Silly or sensible?",
+       "items": [
+        "glass pillow",
+        "steel spoon",
+        "paper umbrella",
+        "woollen sweater",
+        "chocolate teapot",
+        "rubber ball"
+       ],
+       "cats": [
+        "silly",
+        "sensible"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Where did it come from?",
+     [
+      {
+       "t": "sort",
+       "p": "Did this material come from a plant, an animal or the ground?",
+       "items": [
+        "wood",
+        "wool",
+        "cotton",
+        "glass",
+        "paper",
+        "silk",
+        "iron",
+        "clay"
+       ],
+       "cats": [
+        "plant",
+        "animal",
+        "ground"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and tell",
+     [
+      {
+       "t": "write",
+       "p": "Your school bag is made of cloth, plastic and metal. Why not make all of it from metal?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "The crow used wire for the outside of her nest. What would happen if she used paper?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like a materials scientist",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Glass is made from…",
+       "opts": [
+        "ice",
+        "sand",
+        "plastic"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Paper is made from…",
+       "opts": [
+        "trees and old cloth",
+        "rocks",
+        "milk"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which is NOT a natural material?",
+       "opts": [
+        "wool",
+        "plastic",
+        "stone"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these is NOT made of any material?",
+       "opts": [
+        "air",
+        "a shadow",
+        "a cloud"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "A material that bends without breaking is called ____.",
+       "a": [
+        "flexible",
+        "bendy"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each test to what it finds out.",
+       "pairs": [
+        [
+         "pour water on it",
+         "is it waterproof?"
+        ],
+        [
+         "shine a torch through it",
+         "is it see-through?"
+        ],
+        [
+         "pull it",
+         "is it stretchy?"
+        ]
+       ]
+      },
+      {
+       "t": "draw",
+       "p": "Invent a new thing and draw it. Label two different materials you would use for its parts."
+      }
+     ]
+    ],
+    [
+     "B. Big thinking",
+     [
+      {
+       "t": "write",
+       "p": "Is there one material that is best at everything? Why or why not?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "How could you test which cloth is warmest for a winter cap? What would you keep the same?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "If you were a crow, which material from our house would you steal for your nest, and why?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  }
  ],
  "experiments": [
-  {"id": "e1", "title": "Keep Teddy dry", "day": 5, "question": "Which material would make the best umbrella for a toy?", "need": ["a small toy", "5 tissues", "a plate", "a tablespoon", "a cup of water", "squares (about 15 cm) of plastic bag, cotton hanky, newspaper, foil, paper towel"], "steps": ["Put a folded tissue on the plate. This stands for Teddy.", "Lay one material square over the tissue.", "Pour exactly one tablespoon of water on the middle.", "Count to ten, lift the material and feel the tissue: dry, damp or soaked?", "Use a fresh tissue for each material. Keep the spoon of water the same every time.", "Put the toy under the winner to finish."], "predict": "Ask your child to point to the material they think will keep the tissue driest, and the one that will be worst.", "observe": "Which tissues stay dry (plastic, foil), which get damp (cotton) and which soak right through (newspaper, paper towel). Notice that the paper towel soaks up the water itself: absorbent, the opposite of waterproof.", "why": "Waterproof materials like plastic and foil have no gaps for water to get through. Paper and cloth are made of tiny tangled threads (fibres) with spaces between them; water creeps into the spaces and through. Keeping the amount of water the same makes the test fair, so the only thing that changes is the material.", "safety": "Wipe up spills so nobody slips.", "time": "15 min"},
-  {"id": "e2", "title": "The torch test", "day": 5, "question": "Which materials can light shine through?", "need": ["a torch", "a glass tumbler", "butter paper or tracing paper", "a steel plate", "a piece of cardboard", "a thin cotton cloth", "a plastic bag"], "steps": ["Darken the room a little.", "Shine the torch on a wall.", "Hold each material between the torch and the wall.", "Look at the wall: a bright clear spot, a blurry glow, or a shadow?", "Sort the materials into three piles."], "predict": "Before each one, ask: 'Will the light get through?'", "observe": "Glass and a clear plastic bag let light through clearly (see-through). Butter paper and thin cloth let a blurry glow through (a little see-through). Steel and cardboard block it (not see-through) and make a shadow.", "why": "Some materials let light pass straight through, so we see clearly. Some scatter it, so only a blur gets through. Some stop it completely. In Class 3 your child will learn the words transparent, translucent and opaque.", "safety": "Never shine the torch into anyone's eyes.", "time": "10 min"},
-  {"id": "e3", "title": "Bend it, stretch it", "day": 4, "question": "Which materials bend, which stay stiff and which stretch back?", "need": ["a plastic ruler", "a wooden pencil", "a steel spoon", "a strip of paper", "a rubber band", "one stick of dry spaghetti"], "steps": ["Hold each thing at both ends and bend it gently.", "Pull the rubber band and the paper strip gently.", "Put each in a pile: bends, stiff, stretches and goes back.", "Notice which one snapped."], "predict": "Ask: 'Which one will snap?'", "observe": "The ruler and paper bend; the pencil and spoon stay stiff (a strong grown-up could bend the spoon a little, and it would stay bent); the spaghetti snaps; the rubber band stretches and springs back.", "why": "Different materials hold together in different ways. Rubber is stretchy because it is made of long, tangled, curly chains that straighten when pulled and curl up again. Dry spaghetti is stiff but brittle: it can't bend at all, so it breaks.", "safety": "Pull rubber bands gently and away from faces.", "time": "15 min"}
+  {
+   "id": "e1",
+   "title": "Keep Teddy dry",
+   "day": 5,
+   "question": "Which material would make the best umbrella for a toy?",
+   "need": [
+    "a small toy",
+    "5 tissues",
+    "a plate",
+    "a tablespoon",
+    "a cup of water",
+    "squares (about 15 cm) of plastic bag, cotton hanky, newspaper, foil, paper towel"
+   ],
+   "steps": [
+    "Put a folded tissue on the plate. This stands for Teddy.",
+    "Lay one material square over the tissue.",
+    "Pour exactly one tablespoon of water on the middle.",
+    "Count to ten, lift the material and feel the tissue: dry, damp or soaked?",
+    "Use a fresh tissue for each material. Keep the spoon of water the same every time.",
+    "Put the toy under the winner to finish."
+   ],
+   "predict": "Ask your child to point to the material they think will keep the tissue driest, and the one that will be worst.",
+   "observe": "Which tissues stay dry (plastic, foil), which get damp (cotton) and which soak right through (newspaper, paper towel). Notice that the paper towel soaks up the water itself: absorbent, the opposite of waterproof.",
+   "why": "Waterproof materials like plastic and foil have no gaps for water to get through. Paper and cloth are made of tiny tangled threads (fibres) with spaces between them; water creeps into the spaces and through. Keeping the amount of water the same makes the test fair, so the only thing that changes is the material.",
+   "safety": "Wipe up spills so nobody slips.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "The torch test",
+   "day": 5,
+   "question": "Which materials can light shine through?",
+   "need": [
+    "a torch",
+    "a glass tumbler",
+    "butter paper or tracing paper",
+    "a steel plate",
+    "a piece of cardboard",
+    "a thin cotton cloth",
+    "a plastic bag"
+   ],
+   "steps": [
+    "Darken the room a little.",
+    "Shine the torch on a wall.",
+    "Hold each material between the torch and the wall.",
+    "Look at the wall: a bright clear spot, a blurry glow, or a shadow?",
+    "Sort the materials into three piles."
+   ],
+   "predict": "Before each one, ask: 'Will the light get through?'",
+   "observe": "Glass and a clear plastic bag let light through clearly (see-through). Butter paper and thin cloth let a blurry glow through (a little see-through). Steel and cardboard block it (not see-through) and make a shadow.",
+   "why": "Some materials let light pass straight through, so we see clearly. Some scatter it, so only a blur gets through. Some stop it completely. In Class 3 your child will learn the words transparent, translucent and opaque.",
+   "safety": "Never shine the torch into anyone's eyes.",
+   "time": "10 min"
+  },
+  {
+   "id": "e3",
+   "title": "Bend it, stretch it",
+   "day": 4,
+   "question": "Which materials bend, which stay stiff and which stretch back?",
+   "need": [
+    "a plastic ruler",
+    "a wooden pencil",
+    "a steel spoon",
+    "a strip of paper",
+    "a rubber band",
+    "one stick of dry spaghetti"
+   ],
+   "steps": [
+    "Hold each thing at both ends and bend it gently.",
+    "Pull the rubber band and the paper strip gently.",
+    "Put each in a pile: bends, stiff, stretches and goes back.",
+    "Notice which one snapped."
+   ],
+   "predict": "Ask: 'Which one will snap?'",
+   "observe": "The ruler and paper bend; the pencil and spoon stay stiff (a strong grown-up could bend the spoon a little, and it would stay bent); the spaghetti snaps; the rubber band stretches and springs back.",
+   "why": "Different materials hold together in different ways. Rubber is stretchy because it is made of long, tangled, curly chains that straighten when pulled and curl up again. Dry spaghetti is stiff but brittle: it can't bend at all, so it breaks.",
+   "safety": "Pull rubber bands gently and away from faces.",
+   "time": "15 min"
+  }
  ],
  "activities": [
-  {"id": "a1", "title": "Material detective walk", "day": 1, "mins": 10, "need": ["paper and pencil"], "steps": ["Walk through two rooms.", "Touch 8 objects.", "Say: 'This is a ___ and it is made of ___.'", "A grown-up writes OBJECT and MATERIAL in two columns."], "outcome": "A list of 8 objects and their materials, kept for Day 2."},
-  {"id": "a2", "title": "The feely bag", "day": 3, "mins": 10, "need": ["a cloth bag", "8 objects of different materials"], "steps": ["Hide the objects in the bag.", "The child feels one without looking.", "They describe it with property words before guessing.", "Take it out and check."], "outcome": "Your child uses property words: hard, soft, rough, smooth, warm, cold, heavy, light."}
+  {
+   "id": "a1",
+   "title": "Material detective walk",
+   "day": 1,
+   "mins": 10,
+   "need": [
+    "paper and pencil"
+   ],
+   "steps": [
+    "Walk through two rooms.",
+    "Touch 8 objects.",
+    "Say: 'This is a ___ and it is made of ___.'",
+    "A grown-up writes OBJECT and MATERIAL in two columns."
+   ],
+   "outcome": "A list of 8 objects and their materials, kept for Day 2."
+  },
+  {
+   "id": "a2",
+   "title": "The feely bag",
+   "day": 3,
+   "mins": 10,
+   "need": [
+    "a cloth bag",
+    "8 objects of different materials"
+   ],
+   "steps": [
+    "Hide the objects in the bag.",
+    "The child feels one without looking.",
+    "They describe it with property words before guessing.",
+    "Take it out and check."
+   ],
+   "outcome": "Your child uses property words: hard, soft, rough, smooth, warm, cold, heavy, light."
+  },
+  {
+   "id": "a3",
+   "title": "Design a superhero suit",
+   "day": 8,
+   "mins": 12,
+   "need": [
+    "paper and crayons"
+   ],
+   "steps": [
+    "Imagine a hero who flies through rain, desert heat and snow in one day.",
+    "Draw the hero.",
+    "Choose a material for each part and say the property it needs.",
+    "Ask whether one material could do it all."
+   ],
+   "outcome": "A labelled suit drawing, and the idea that good designs combine materials."
+  },
+  {
+   "id": "a4",
+   "title": "The knock orchestra",
+   "day": 8,
+   "mins": 10,
+   "need": [
+    "steel, wood, glass, plastic, cloth and clay objects",
+    "a steel spoon"
+   ],
+   "steps": [
+    "Knock each object gently.",
+    "Describe its sound: ring, chime, tok, clack, nothing.",
+    "Find which material swallows sound.",
+    "Make a family rhythm.",
+    "Muffle a phone alarm with steel and then cloth."
+   ],
+   "outcome": "Your child hears that materials have voices, and that soft materials absorb sound."
+  }
  ],
- "project": {"title": "Our material museum", "days": [7, 8], "steps": ["Collect 10 small objects, each made of a different material (a pebble, a cotton reel, a key, a glass bangle, a rubber, a paper boat, a wooden peg, a plastic lid, a woollen pompom, a clay diya).", "For each, say the material and one property.", "Say whether it came from a plant, an animal or the ground.", "Make a label for each.", "Give a museum tour to the family."], "outcome": "A labelled shoebox museum of ten materials, and a tour given by your child."},
- "game": {"id": "g1", "title": "Material Snap", "kind": "cards", "players": "2–4", "need": ["scissors", "the printed cards"],
-  "rules": ["Cut out the 24 cards. Each shows an object and, on the back, its material.", "Shuffle and deal all the cards face down.", "Take turns to turn over your top card onto a middle pile, saying the object's name.", "If the new card is made of the same material as the card under it, shout 'SNAP!' and say the material.", "The first to snap correctly takes the pile. Check on the back if you're unsure.", "Whoever has all the cards, or the most when time is up, wins."],
+ "project": {
+  "title": "Our material museum",
+  "days": [
+   7,
+   9
+  ],
+  "steps": [
+   "Collect 10 small objects, each made of a different material (a pebble, a cotton reel, a key, a glass bangle, a rubber, a paper boat, a wooden peg, a plastic lid, a woollen pompom, a clay diya).",
+   "For each, say the material and one property.",
+   "Say whether it came from a plant, an animal or the ground.",
+   "Make a label for each.",
+   "Give a museum tour to the family."
+  ],
+  "outcome": "A labelled shoebox museum of ten materials, and a tour given by your child."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Material Snap",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors",
+   "the printed cards"
+  ],
+  "rules": [
+   "Cut out the 24 cards. Each shows an object and, on the back, its material.",
+   "Shuffle and deal all the cards face down.",
+   "Take turns to turn over your top card onto a middle pile, saying the object's name.",
+   "If the new card is made of the same material as the card under it, shout 'SNAP!' and say the material.",
+   "The first to snap correctly takes the pile. Check on the back if you're unsure.",
+   "Whoever has all the cards, or the most when time is up, wins."
+  ],
   "cards": [
-   {"front": "steel tumbler", "back": "metal"}, {"front": "key", "back": "metal"}, {"front": "coin", "back": "metal"}, {"front": "cooker", "back": "metal"},
-   {"front": "chair", "back": "wood"}, {"front": "pencil", "back": "wood"}, {"front": "cricket bat", "back": "wood"}, {"front": "door", "back": "wood"},
-   {"front": "bucket", "back": "plastic"}, {"front": "water bottle", "back": "plastic"}, {"front": "comb", "back": "plastic"}, {"front": "toothbrush", "back": "plastic"},
-   {"front": "window", "back": "glass"}, {"front": "bangle", "back": "glass"}, {"front": "spectacles", "back": "glass"}, {"front": "mirror", "back": "glass"},
-   {"front": "kurta", "back": "cloth"}, {"front": "towel", "back": "cloth"}, {"front": "bedsheet", "back": "cloth"}, {"front": "sock", "back": "cloth"},
-   {"front": "notebook", "back": "paper"}, {"front": "kite", "back": "paper"}, {"front": "tyre", "back": "rubber"}, {"front": "balloon", "back": "rubber"}
-  ]},
- "big": ["Is there any material that did not come from the Earth?", "Is there a material that is best at everything?", "When we throw something away, where is 'away'?", "Who decides what a thing should be made of: the maker, the buyer or the Earth?", "If a crow can choose good materials, what else might animals know that we don't?"],
+   {
+    "front": "steel tumbler",
+    "back": "metal"
+   },
+   {
+    "front": "key",
+    "back": "metal"
+   },
+   {
+    "front": "coin",
+    "back": "metal"
+   },
+   {
+    "front": "cooker",
+    "back": "metal"
+   },
+   {
+    "front": "chair",
+    "back": "wood"
+   },
+   {
+    "front": "pencil",
+    "back": "wood"
+   },
+   {
+    "front": "cricket bat",
+    "back": "wood"
+   },
+   {
+    "front": "door",
+    "back": "wood"
+   },
+   {
+    "front": "bucket",
+    "back": "plastic"
+   },
+   {
+    "front": "water bottle",
+    "back": "plastic"
+   },
+   {
+    "front": "comb",
+    "back": "plastic"
+   },
+   {
+    "front": "toothbrush",
+    "back": "plastic"
+   },
+   {
+    "front": "window",
+    "back": "glass"
+   },
+   {
+    "front": "bangle",
+    "back": "glass"
+   },
+   {
+    "front": "spectacles",
+    "back": "glass"
+   },
+   {
+    "front": "mirror",
+    "back": "glass"
+   },
+   {
+    "front": "kurta",
+    "back": "cloth"
+   },
+   {
+    "front": "towel",
+    "back": "cloth"
+   },
+   {
+    "front": "bedsheet",
+    "back": "cloth"
+   },
+   {
+    "front": "sock",
+    "back": "cloth"
+   },
+   {
+    "front": "notebook",
+    "back": "paper"
+   },
+   {
+    "front": "kite",
+    "back": "paper"
+   },
+   {
+    "front": "tyre",
+    "back": "rubber"
+   },
+   {
+    "front": "balloon",
+    "back": "rubber"
+   }
+  ]
+ },
+ "big": [
+  "Is there any material that did not come from the Earth?",
+  "Is there a material that is best at everything?",
+  "When we throw something away, where is 'away'?",
+  "Who decides what a thing should be made of: the maker, the buyer or the Earth?",
+  "If a crow can choose good materials, what else might animals know that we don't?",
+  "Is a shadow something? Is air nothing?"
+ ],
  "challenge": [
-  {"q": "In 'The Three Little Pigs', the brick house is the best and the straw house is the worst. Is brick always best?", "hint": "Not always. In an earthquake, a brick wall with nothing holding it together can crack and fall, while bamboo bends and springs back. Many houses in Assam and the North-East are built of bamboo for this reason. Ask: best for what, and where?"},
-  {"q": "People often say a plastic bottle takes 450 years to break down. Is that exactly right?", "hint": "Nobody has watched a bottle for 450 years: plastic bottles have only existed for about 50 to 70 years. The numbers are estimates, and it depends on sun, heat and water. What scientists do know is that plastic breaks into smaller and smaller bits that stay around for a very long time. Ask: how could you find out without waiting 450 years?"},
-  {"q": "We say plastic is 'man-made', so it isn't natural. But where does it come from?", "hint": "Most plastic is made from oil and gas, which formed underground from tiny plants and sea creatures that lived millions of years ago. So it starts natural and is changed a lot by people. Ask: is anything completely unnatural?"}
+  {
+   "q": "In 'The Three Little Pigs', the brick house is the best and the straw house is the worst. Is brick always best?",
+   "hint": "Not always. In an earthquake, a brick wall with nothing holding it together can crack and fall, while bamboo bends and springs back. Many houses in Assam and the North-East are built of bamboo for this reason. Ask: best for what, and where?"
+  },
+  {
+   "q": "People often say a plastic bottle takes 450 years to break down. Is that exactly right?",
+   "hint": "Nobody has watched a bottle for 450 years: plastic bottles have only existed for about 50 to 70 years. The numbers are estimates, and it depends on sun, heat and water. What scientists do know is that plastic breaks into smaller and smaller bits that stay around for a very long time. Ask: how could you find out without waiting 450 years?"
+  },
+  {
+   "q": "We say plastic is 'man-made', so it isn't natural. But where does it come from?",
+   "hint": "Most plastic is made from oil and gas, which formed underground from tiny plants and sea creatures that lived millions of years ago. So it starts natural and is changed a lot by people. Ask: is anything completely unnatural?"
+  }
  ],
  "perspectives": [
-  {"who": "A city crow", "view": "Crows in cities like Tokyo and Mumbai have been seen building nests from wire coat hangers. To a crow, our rubbish is building material. Ask: if a crow saw our dustbin, what would it call treasure?"},
-  {"who": "A kabadiwala and the waste pickers", "view": "In India much of what gets recycled is collected and sorted by kabadiwalas and waste pickers, many of them women, who know more about materials than almost anyone: which plastic is which, which metal is worth more. Ask: who should we thank when something gets recycled?"},
-  {"who": "A family in Assam building with bamboo", "view": "Bamboo grows fast, bends in storms and earthquakes, and can go back into the soil when old. Ask: why might someone choose bamboo over concrete?"}
+  {
+   "who": "A city crow",
+   "view": "Crows in cities like Tokyo and Mumbai have been seen building nests from wire coat hangers. To a crow, our rubbish is building material. Ask: if a crow saw our dustbin, what would it call treasure?"
+  },
+  {
+   "who": "A kabadiwala and the waste pickers",
+   "view": "In India much of what gets recycled is collected and sorted by kabadiwalas and waste pickers, many of them women, who know more about materials than almost anyone: which plastic is which, which metal is worth more. Ask: who should we thank when something gets recycled?"
+  },
+  {
+   "who": "A family in Assam building with bamboo",
+   "view": "Bamboo grows fast, bends in storms and earthquakes, and can go back into the soil when old. Ask: why might someone choose bamboo over concrete?"
+  }
  ],
  "voices": [
-  {"id": "v1", "who": "The rubber makers of ancient Mexico and Central America, and the archaeologists Dorothy Hosler and Michael Tarkanian (MIT, 1999)", "idea": "More than 3,000 years ago, people in Mesoamerica (such as the Olmec) mixed latex, the milky sap of the rubber tree, with juice from a morning glory vine. This made rubber bouncy and strong enough for balls, sandals and bands. Hosler and Tarkanian tested the recipe in the lab and showed it really works.", "then": "For a long time the 'invention' of useful rubber was credited mainly to Charles Goodyear in the USA, who found in 1839 that heating rubber with sulphur made it strong. The older Mesoamerican knowledge was hardly mentioned.", "now": "Historians and chemists now accept that Mesoamerican peoples processed rubber thousands of years before Goodyear, with a different method. Goodyear's method is the one industry uses.", "status": "accepted", "ask": "If someone did something first but didn't write it in a book, did they still discover it? How could we find out what they knew?", "day": 2},
-  {"id": "v2", "who": "The Iron Pillar of Delhi (about 1,600 years old) and metallurgist R. Balasubramaniam (1961–2009), IIT Kanpur", "idea": "Indian ironworkers made a pillar over 7 metres tall that has stood outdoors for about 1,600 years and barely rusted. Balasubramaniam's studies showed the iron contains a lot of phosphorus, which helps a thin protective skin form on its surface and keeps rust from eating deeper.", "then": "For many years people offered all sorts of guesses, from Delhi's dry air to mysterious lost secrets.", "now": "Scientists agree the pillar's special iron and the protective layer explain most of it, and the dry climate helps. The names of the ironworkers are not known.", "status": "accepted", "ask": "The workers who made the pillar left no names. What can a material tell us about the people who made it?", "day": 6},
-  {"id": "v3", "who": "Roland Geyer, Jenna Jambeck and Kara Lavender Law (2017), USA", "idea": "They counted all the plastic made in the world since about 1950 and estimated that only about 9 out of every 100 parts of plastic waste had been recycled. Most had been buried in landfills or had ended up in the land and sea.", "then": "Many people had believed that putting plastic in the recycling bin solved the problem.", "now": "Scientists broadly agree that recycling alone cannot keep up. People still debate the best answer: better recycling, using less plastic, reusing things, or new materials.", "status": "debated", "ask": "If only a few bottles out of every hundred get recycled, what else could we do? Which idea do you think would work best, and how could we check?", "day": 7}
+  {
+   "id": "v1",
+   "who": "The rubber makers of ancient Mexico and Central America, and the archaeologists Dorothy Hosler and Michael Tarkanian (MIT, 1999)",
+   "idea": "More than 3,000 years ago, people in Mesoamerica (such as the Olmec) mixed latex, the milky sap of the rubber tree, with juice from a morning glory vine. This made rubber bouncy and strong enough for balls, sandals and bands. Hosler and Tarkanian tested the recipe in the lab and showed it really works.",
+   "then": "For a long time the 'invention' of useful rubber was credited mainly to Charles Goodyear in the USA, who found in 1839 that heating rubber with sulphur made it strong. The older Mesoamerican knowledge was hardly mentioned.",
+   "now": "Historians and chemists now accept that Mesoamerican peoples processed rubber thousands of years before Goodyear, with a different method. Goodyear's method is the one industry uses.",
+   "status": "accepted",
+   "ask": "If someone did something first but didn't write it in a book, did they still discover it? How could we find out what they knew?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "The Iron Pillar of Delhi (about 1,600 years old) and metallurgist R. Balasubramaniam (1961–2009), IIT Kanpur",
+   "idea": "Indian ironworkers made a pillar over 7 metres tall that has stood outdoors for about 1,600 years and barely rusted. Balasubramaniam's studies showed the iron contains a lot of phosphorus, which helps a thin protective skin form on its surface and keeps rust from eating deeper.",
+   "then": "For many years people offered all sorts of guesses, from Delhi's dry air to mysterious lost secrets.",
+   "now": "Scientists agree the pillar's special iron and the protective layer explain most of it, and the dry climate helps. The names of the ironworkers are not known.",
+   "status": "accepted",
+   "ask": "The workers who made the pillar left no names. What can a material tell us about the people who made it?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Roland Geyer, Jenna Jambeck and Kara Lavender Law (2017), USA",
+   "idea": "They counted all the plastic made in the world since about 1950 and estimated that only about 9 out of every 100 parts of plastic waste had been recycled. Most had been buried in landfills or had ended up in the land and sea.",
+   "then": "Many people had believed that putting plastic in the recycling bin solved the problem.",
+   "now": "Scientists broadly agree that recycling alone cannot keep up. People still debate the best answer: better recycling, using less plastic, reusing things, or new materials.",
+   "status": "debated",
+   "ask": "If only a few bottles out of every hundred get recycled, what else could we do? Which idea do you think would work best, and how could we check?",
+   "day": 7
+  }
  ],
- "story": {"title": "The Crow's House of Wire", "text": [
-  "I am a crow. My feathers are black and grey, my eyes are quick, and I live in a gulmohar tree beside a tall building in Bengaluru, where the auto-rickshaws hoot all day and the dosa smell rises every morning from the corner shop.",
-  "This spring, my mate and I needed a nest. Eggs were coming. An egg is a small, precious, breakable thing, and it needs a house that will not fall.",
-  "My mother built her nests of twigs, and her mother before her. So first I gathered twigs. I chose thin brown ones from the neem tree, and I wove them into the fork of the gulmohar branch. But the twigs were dry and stiff. When I pushed one to bend it round, snap! It broke in my beak. When I pushed another, snap! By evening I had a pile of broken twigs on the ground and a nest that looked like a bad haircut.",
-  "On the fourth floor of the building lived a small girl called Meenu. She watched me from her balcony with her chin on the railing. 'Crow,' she called, 'your house is falling down.'",
-  "I know, I said, but in crow, which sounds like 'Kaa'.",
-  "The next morning I flew over the rooftops looking for something better. I found a shiny plastic straw. It was light and bright, and I liked it. But when I put it in the nest, the wind picked it up and carried it off, rolling and bouncing down the road. Too light. Too smooth. It would not stay.",
-  "I found a piece of glass from a broken bangle. It was beautiful, green like a parrot. But its edge was sharp, and it would not bend at all. Not for building, I decided, though I kept it, because a crow likes a beautiful thing.",
-  "Then, on a rooftop where people hang their washing, I found it. A wire coat hanger, fallen from the line. I pulled at it with my beak. It bent! I pulled again, and it bent the other way, and it stayed where I put it. It did not snap like the twig. It did not blow away like the straw. It was strong and bendy at the same time.",
-  "It was very heavy for a crow to carry. I had to rest twice, once on a water tank and once on a dish antenna. But I brought it home. Over the next days I found three more. I bent them into a bowl in the fork of the branch, and wove the good twigs in between, and the wire held them all together like hands holding hands.",
-  "Meenu watched every day. 'Crow,' she said, 'you can't put eggs on wire. It's cold and hard.'",
-  "She was right. A nest must be strong on the outside, but on the inside it must be soft. So I went looking for soft. I found coconut coir by the tender-coconut cart, brown and fluffy. I found a tuft of cotton that had come out of an old pillow. And one morning, on Meenu's balcony railing, I found a little heap of red woollen threads, tied in a bow. She had left them there for me.",
-  "I lined the nest with coir and cotton and red wool. Now it was a house of many things: wire from a factory, twigs from a tree, coir from a coconut, cotton from a plant, wool from a sheep. Each one was there because it was good at one job.",
-  "In May, the first big storm came. The sky turned purple. The wind roared through the city and the gulmohar tossed like a boat on the sea. Down in the street, a tin sign blew off a shop. In the next tree, the old twig nest of another crow cracked and tumbled to the ground.",
-  "I sat on my eggs and held on. The branch swung. The wire creaked. But the wire bent and did not break, and the twigs it held did not fall, and under me the cotton and the coir and Meenu's red wool kept my eggs warm and dry.",
-  "In the morning the sun came out, washed and new. Meenu ran onto her balcony in her nightdress. 'Crow!' she shouted. 'You're still there!'",
-  "Kaa, I said. And three weeks later, when my chicks cracked out of their shells, the very first thing they ever saw was a bright red thread."],
+ "story": {
+  "title": "The Crow's House of Wire",
+  "text": [
+   "I am a crow. My feathers are black and grey, my eyes are quick, and I live in a gulmohar tree beside a tall building in Bengaluru, where the auto-rickshaws hoot all day and the dosa smell rises every morning from the corner shop.",
+   "This spring, my mate and I needed a nest. Eggs were coming. An egg is a small, precious, breakable thing, and it needs a house that will not fall.",
+   "My mother built her nests of twigs, and her mother before her. So first I gathered twigs. I chose thin brown ones from the neem tree, and I wove them into the fork of the gulmohar branch. But the twigs were dry and stiff. When I pushed one to bend it round, snap! It broke in my beak. When I pushed another, snap! By evening I had a pile of broken twigs on the ground and a nest that looked like a bad haircut.",
+   "On the fourth floor of the building lived a small girl called Meenu. She watched me from her balcony with her chin on the railing. 'Crow,' she called, 'your house is falling down.'",
+   "I know, I said, but in crow, which sounds like 'Kaa'.",
+   "The next morning I flew over the rooftops looking for something better. I found a shiny plastic straw. It was light and bright, and I liked it. But when I put it in the nest, the wind picked it up and carried it off, rolling and bouncing down the road. Too light. Too smooth. It would not stay.",
+   "I found a piece of glass from a broken bangle. It was beautiful, green like a parrot. But its edge was sharp, and it would not bend at all. Not for building, I decided, though I kept it, because a crow likes a beautiful thing.",
+   "Then, on a rooftop where people hang their washing, I found it. A wire coat hanger, fallen from the line. I pulled at it with my beak. It bent! I pulled again, and it bent the other way, and it stayed where I put it. It did not snap like the twig. It did not blow away like the straw. It was strong and bendy at the same time.",
+   "It was very heavy for a crow to carry. I had to rest twice, once on a water tank and once on a dish antenna. But I brought it home. Over the next days I found three more. I bent them into a bowl in the fork of the branch, and wove the good twigs in between, and the wire held them all together like hands holding hands.",
+   "Meenu watched every day. 'Crow,' she said, 'you can't put eggs on wire. It's cold and hard.'",
+   "She was right. A nest must be strong on the outside, but on the inside it must be soft. So I went looking for soft. I found coconut coir by the tender-coconut cart, brown and fluffy. I found a tuft of cotton that had come out of an old pillow. And one morning, on Meenu's balcony railing, I found a little heap of red woollen threads, tied in a bow. She had left them there for me.",
+   "I lined the nest with coir and cotton and red wool. Now it was a house of many things: wire from a factory, twigs from a tree, coir from a coconut, cotton from a plant, wool from a sheep. Each one was there because it was good at one job.",
+   "In May, the first big storm came. The sky turned purple. The wind roared through the city and the gulmohar tossed like a boat on the sea. Down in the street, a tin sign blew off a shop. In the next tree, the old twig nest of another crow cracked and tumbled to the ground.",
+   "I sat on my eggs and held on. The branch swung. The wire creaked. But the wire bent and did not break, and the twigs it held did not fall, and under me the cotton and the coir and Meenu's red wool kept my eggs warm and dry.",
+   "In the morning the sun came out, washed and new. Meenu ran onto her balcony in her nightdress. 'Crow!' she shouted. 'You're still there!'",
+   "Kaa, I said. And three weeks later, when my chicks cracked out of their shells, the very first thing they ever saw was a bright red thread."
+  ],
   "epiphany": "A material is not good or bad; it is good for a job. The twig was too stiff and snapped, the straw too light, the glass too sharp; the wire was strong and bendy, so it made the frame, and soft materials made the lining. The turn is the storm: the nest survives because each material was chosen for its property. The nest also shows one object made of many materials, natural and made, and a crow and a girl cooperating.",
-  "ask": ["Why did the twigs snap? Why didn't the wire?", "Why did the crow need soft things inside as well as strong things outside?", "How many different materials were in the nest? Which came from a plant, an animal, or a factory?", "Why do you think Meenu left the red wool?", "Was the wire coat hanger rubbish or treasure?"]},
+  "ask": [
+   "Why did the twigs snap? Why didn't the wire?",
+   "Why did the crow need soft things inside as well as strong things outside?",
+   "How many different materials were in the nest? Which came from a plant, an animal, or a factory?",
+   "Why do you think Meenu left the red wool?",
+   "Was the wire coat hanger rubbish or treasure?"
+  ]
+ },
  "ideas": [
-  {"idea": "Everything is made of something, and every material came from the Earth.", "more": "Wood from trees, wool from sheep, glass from sand, metal from rocks, even plastic from ancient plants and sea creatures turned to oil. Trace any object back and you always reach the Earth."},
-  {"idea": "No material is best at everything; every material is good for something.", "more": "Glass is wonderful for windows and terrible for pillows. Engineers and crows both choose by asking 'What does this job need?'"},
-  {"idea": "There is no 'away'.", "more": "When we throw something away, it goes somewhere: a dump, a river, the kabadiwala, a crow's nest. Materials keep existing; we only choose where they go next."}],
+  {
+   "idea": "Everything is made of something, and every material came from the Earth.",
+   "more": "Wood from trees, wool from sheep, glass from sand, metal from rocks, even plastic from ancient plants and sea creatures turned to oil. Trace any object back and you always reach the Earth."
+  },
+  {
+   "idea": "No material is best at everything; every material is good for something.",
+   "more": "Glass is wonderful for windows and terrible for pillows. Engineers and crows both choose by asking 'What does this job need?'"
+  },
+  {
+   "idea": "There is no 'away'.",
+   "more": "When we throw something away, it goes somewhere: a dump, a river, the kabadiwala, a crow's nest. Materials keep existing; we only choose where they go next."
+  }
+ ],
  "unknowns": [
   "How do spiders turn a liquid into silk that is, for its weight, as strong as steel? Scientists understand part of it, but nobody has yet managed to make spider silk as well as a spider, in large amounts.",
   "How long does plastic really last in the sea or soil? It has only existed for a few lifetimes, so the long numbers you hear are guesses, and scientists are still finding out.",
-  "How do crows decide which materials to pick for a nest? Scientists who study bird nests say we still know surprisingly little about how birds choose."],
+  "How do crows decide which materials to pick for a nest? Scientists who study bird nests say we still know surprisingly little about how birds choose."
+ ],
  "books": [
-  {"title": "One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia", "author": "Miranda Paul", "for": "read together", "age": "4–8", "why": "A true story of women who turned plastic rubbish into purses: materials, reuse and who does the work."},
-  {"title": "The True Story of the 3 Little Pigs!", "author": "Jon Scieszka", "for": "read together", "age": "5–9", "why": "The wolf tells his side. Great fun, and a way into this rung's challenge about straw, sticks and bricks."},
-  {"title": "Stuff Matters", "author": "Mark Miodownik", "for": "parent reads", "age": "adult (read parts aloud)", "why": "A materials scientist on why steel, paper, glass and chocolate behave as they do. Read the short glass or paper chapters aloud."}
+  {
+   "title": "One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia",
+   "author": "Miranda Paul",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A true story of women who turned plastic rubbish into purses: materials, reuse and who does the work."
+  },
+  {
+   "title": "The True Story of the 3 Little Pigs!",
+   "author": "Jon Scieszka",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The wolf tells his side. Great fun, and a way into this rung's challenge about straw, sticks and bricks."
+  },
+  {
+   "title": "Stuff Matters",
+   "author": "Mark Miodownik",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "A materials scientist on why steel, paper, glass and chocolate behave as they do. Read the short glass or paper chapters aloud."
+  }
  ],
  "check": [
-  {"q": "What is the difference between an object and a material? Give an example.", "a": "The object is the thing (a spoon); the material is what it's made of (steel or wood)."},
-  {"q": "Name three property words.", "a": "Any three: hard, soft, rough, smooth, bendy (flexible), stiff, stretchy, see-through, waterproof, shiny, heavy, light."},
-  {"q": "Which material kept Teddy dry? Why?", "a": "Plastic (or foil), because it is waterproof: water can't get through."},
-  {"q": "Why are windows made of glass?", "a": "Glass is see-through and hard, so light comes in and wind and rain stay out."},
-  {"q": "Where does glass come from? And paper?", "a": "Glass is made from sand; paper is made from trees (or old cloth)."},
-  {"q": "Why did the crow use wire for the outside of her nest?", "a": "Wire is strong and bendy: it bends into shape and doesn't snap in the storm."},
-  {"q": "Can you sort the same things in two different ways?", "a": "Yes, by material (wood, metal) or by a property (bendy, stiff); it depends on the question."}
+  {
+   "q": "What is the difference between an object and a material? Give an example.",
+   "a": "The object is the thing (a spoon); the material is what it's made of (steel or wood)."
+  },
+  {
+   "q": "Name three property words.",
+   "a": "Any three: hard, soft, rough, smooth, bendy (flexible), stiff, stretchy, see-through, waterproof, shiny, heavy, light."
+  },
+  {
+   "q": "Which material kept Teddy dry? Why?",
+   "a": "Plastic (or foil), because it is waterproof: water can't get through."
+  },
+  {
+   "q": "Why are windows made of glass?",
+   "a": "Glass is see-through and hard, so light comes in and wind and rain stay out."
+  },
+  {
+   "q": "Where does glass come from? And paper?",
+   "a": "Glass is made from sand; paper is made from trees (or old cloth)."
+  },
+  {
+   "q": "Why did the crow use wire for the outside of her nest?",
+   "a": "Wire is strong and bendy: it bends into shape and doesn't snap in the storm."
+  },
+  {
+   "q": "Can you sort the same things in two different ways?",
+   "a": "Yes, by material (wood, metal) or by a property (bendy, stiff); it depends on the question."
+  },
+  {
+   "q": "Is air a material? Is a shadow?",
+   "a": "Air is stuff: it takes up space and pushes back in a bag. A shadow is not; it is only where light is blocked."
+  }
  ]
 }

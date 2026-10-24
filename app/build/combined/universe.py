@@ -33,6 +33,31 @@ for c, (name, dk, bs, note) in zip(rc, M):
                 "start": min(rungs) if rungs else None,
                 "rungs": [{"cls": l, "covers": rungs[l], "chapters": chap.get(l, [])} for l in sorted(rungs)] or
                          [{"cls": l, "covers": [], "chapters": [], "deepkids": True} for l in DK_ONLY.get(c['id'], [])]})
+# extra DeepKids rungs on board topics (the founder's gravity track starts earlier than any board)
+DK_EXTRA = {"gravity": [3]}
+for t in out:
+    have = {r['cls'] for r in t['rungs']}
+    for l in DK_EXTRA.get(t['id'], []):
+        if l not in have: t['rungs'].append({"cls": l, "covers": [], "chapters": [], "deepkids": True})
+    t['rungs'].sort(key=lambda r: r['cls'])
+    if t['rungs']: t['start'] = t['rungs'][0]['cls']
+# The Deep End: big ideas no board teaches at primary level, from the founder's Grade 1-5 concept grid
+# (app/content/ideas/grade_concepts.json). Each lists the grid rows it draws on.
+DEEP_END = [
+    ("how-we-know", "How we know: science, stories of discovery and questioning the evidence", [1, 3, 5], ["fringe-science"]),
+    ("patterns-and-symmetry", "Patterns and symmetry", [1, 3], ["symmetry"]),
+    ("order-chaos-and-chance", "Order, chaos and chance", [2, 4], ["chaos-order-unpredictability-probability", "entropy", "causality-karma", "zero-sum"]),
+    ("what-is-real", "What is real? Awareness, experience and reality", [2, 4], ["reality", "consciousness-awareness-subjective-experience"]),
+    ("space-time-and-dimensions", "Space, time and dimensions", [2, 4], ["space", "time", "dimensions", "twin-paradox", "time-travel", "worm-hole"]),
+    ("nothing-and-forever", "Nothing and forever: zero, infinity and singularities", [3, 5], ["zero-infinity", "singularity"]),
+    ("the-very-small", "The very small: particles, antimatter and the quantum world", [3, 5], ["particles", "matter", "anti-matter", "quantum-physics", "quantum-entanglement", "string-theory"]),
+    ("story-of-the-universe", "The story of the universe: galaxies, the Big Bang and the expanding cosmos", [3, 5],
+     ["large-scale-structure-of-the-universe-filaments-voids", "expansion-of-the-universe-hubble-s-law", "cosmic-microwave-background", "gravitational-lensing", "types-of-galaxies-spiral-elliptical-irregular"]),
+    ("evolution-the-tree-of-life", "Evolution: the tree of life, from RNA to us", [2, 4], []),
+]
+for tid, name, ls, grid in DEEP_END:
+    out.append({"id": tid, "title": name, "dk": "The Deep End", "note": "From the DeepKids notebook", "deep": True, "grid": grid,
+                "start": ls[0], "rungs": [{"cls": l, "covers": [], "chapters": [], "deepkids": True} for l in ls]})
 json.dump(out, open(os.path.join(HERE, 'sci_universe.json'), 'w'), ensure_ascii=False, indent=1)
 n = sum(len(t['rungs']) for t in out)
 print(len(out), 'topics,', n, 'rungs,', sum(len(r['covers']) for t in out for r in t['rungs']), 'board subtopics;',
