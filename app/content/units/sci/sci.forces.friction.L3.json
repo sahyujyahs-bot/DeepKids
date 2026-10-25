@@ -347,7 +347,7 @@
    ],
    "perspectives": [],
    "art": "A zoom in four steps: a shoe on a floor; bumps touching; atoms at one bump; electron clouds pushing and tugging, labelled 'electric force'.",
-   "context": "This card zooms in, far past anything a microscope can show, to find out what friction really is, right at the bottom."
+   "context": "This card zooms in, far past anything a microscope can show. It finds out what friction really is, deep down."
   },
   {
    "concept": "Where the movement goes: jiggling atoms, and the arrow of time",
@@ -401,7 +401,7 @@
     }
    ],
    "art": "Two plates gliding past each other with a tiny gap, the gap filled with faint sparkles labelled 'empty space is not empty'.",
-   "context": "This card is about friction that scientists predict but have never measured: a tiny drag between two things that do not even touch."
+   "context": "This card is about a friction that scientists predict but have never measured. It is a tiny drag between two things that never touch."
   },
   {
    "concept": "Tidal friction is slowing the Earth",
@@ -528,7 +528,7 @@
    "for": "Pouring water was part of religious ceremonies in ancient Egypt.",
    "against": "In 2014, scientists in Amsterdam tested this with a small sledge on trays of sand. The right amount of water roughly halved the pull needed. So the workers seem to have known something useful. Scientists only explained it about 3,900 years later.",
    "status": "debated",
-   "context": "About 3,900 years ago, Egyptians painted workers dragging a giant statue on a wooden sledge, with one man pouring water on the sand. This card asks why he poured it."
+   "context": "About 3,900 years ago, Egyptians painted workers dragging a giant statue on a wooden sledge. One man pours water on the sand. This card asks why."
   },
   {
    "claim": "Ice is slippery because pressure melts it.",
@@ -709,7 +709,7 @@
      "do": "1. Lay the two mats on the floor, GRIP on one side and SLIP on the other. 2. Shuffle the 24 situation cards and put them face down in a pile. 3. Put the idea tokens in a bowl.",
      "say": "Friction is the grip between two things that touch. Every card shows a moment from everyday life. For each one, we decide together. Do we want more friction here, or less?",
      "kid": "Put the two mats on the floor: GRIP and SLIP. Mix up the cards. Put them face down. For each card, decide. Do we want more grip, or more slip?",
-     "context": "This is the first step of Grip or Slip?, a card game about where we want friction and where we don't. Here you set up the game."
+     "context": "This is the first step of Grip or Slip?. It is a card game about where we want friction, and where we don't. Here you set up the game."
     },
     {
      "id": "s2",
@@ -833,7 +833,7 @@
      "do": "1. Put the day board in the middle. 2. Put the twist cards face down beside it. 3. Have a dice ready.",
      "say": "Imagine you wake up tomorrow and friction has disappeared from the whole world. Everything is slippery. Not just ice-slippery. Perfectly slippery.",
      "kid": "Imagine you wake up tomorrow. Friction has vanished from the whole world. Everything is perfectly slippery. What happens? Let's find out.",
-     "context": "This is the first step of The Day the World Lost Its Grip, a game where you imagine a whole day with no friction at all. Friction is the grip between things that touch."
+     "context": "This is the first step of The Day the World Lost Its Grip. In this game, you imagine a whole day with no friction at all. Friction is the grip between things that touch."
     },
     {
      "id": "s2",
@@ -863,7 +863,7 @@
        ]
       }
      ],
-     "parent": "Science check: with no friction you could not walk at all, because your feet could not push back on the floor. Knots would come undone, and the threads in clothes would slide apart. A moving thing would never stop unless it hit something."
+     "parent": "Science check: with no friction you could not walk at all. Your feet could not push back on the floor. Knots would come undone, and the threads in clothes would slide apart. A moving thing would never stop unless it hit something."
     },
     {
      "id": "s3",
@@ -1500,7 +1500,7 @@
      ],
      "a": 1,
      "why": "Each page grips only a tiny bit. But hundreds of tiny grips add up. Pulling also squeezes the pages tighter, which adds more friction. Picking glue or magnets usually means the child expects a hidden force. The surprise is that ordinary friction, added up many times, is enough.",
-     "context": "In the Books That Won't Let Go experiment, you lay the pages of two notebooks over each other, one page from each book in turn, like shuffling cards."
+     "context": "In the Books That Won't Let Go experiment, you lay the pages of two notebooks over each other. You take one page from each book in turn, like shuffling cards."
     },
     {
      "t": "mcq",
@@ -1521,7 +1521,7 @@
      "lines": 4,
      "a": "Any thoughtful answer that names a job and says what would happen without it. For example: if nobody filled the water bottles, everyone would be thirsty and tired by lunchtime.",
      "why": "This links the science to people. In the story, a small change where sledge met sand mattered more than pulling harder. Small jobs often matter more than they look.",
-     "context": "In this unit's story, Hapu's only job was to pour water on the sand in front of a giant statue being dragged on a sledge in ancient Egypt. The men laughed, but without the water the statue would not move."
+     "context": "In this unit's story, a giant statue is dragged on a sledge in ancient Egypt. Hapu's only job was to pour water on the sand in front of it. The men laughed, but without the water the statue would not move."
     },
     {
      "t": "write",
@@ -1685,7 +1685,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the slope test, where you find out which shoe grips best by lifting a board until the shoe slides."
+     "context": "This is the first step of the slope test. You find out which shoe grips best by lifting a board until the shoe slides."
     },
     {
      "id": "s2",
@@ -1892,7 +1892,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: lots of pages laid together are almost impossible to pull apart. What I saw: with 10 pages they pulled apart easily, but with all the pages I couldn't do it. Why: every page adds a little friction, and pulling squeezes them tighter."
     }
    ],
-   "context": "In this experiment you weave the pages of two notebooks together, one page from each in turn, then try to pull them apart. It shows how many tiny frictions add up.",
+   "context": "In this experiment you weave the pages of two notebooks together, one page from each in turn. Then you try to pull them apart. It shows how many tiny frictions add up.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -2029,7 +2029,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: just-damp sand is easiest for the sledge. What I saw: dry sand needed 6 newtons and piled up in front of the box. Damp sand needed only 3 newtons. Soaked sand turned to mud. Why: a little water holds the sand grains together, so the box slides on top instead of digging in."
     }
    ],
-   "context": "In this unit's story, Hapu poured water on the sand in front of a giant stone statue being dragged on a sledge in ancient Egypt. In this experiment, you test whether wet sand really helps.",
+   "context": "In this unit's story, a giant stone statue is dragged on a sledge in ancient Egypt. Hapu pours water on the sand in front of it. In this experiment, you test whether wet sand really helps.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: pull needed on three kinds of sand",
@@ -2089,11 +2089,11 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Hunt around the home, then outside. Look at shoe soles, tyres, mats, door hinges, the gas knob, a jar lid, stairs, a bicycle chain and a slide.",
+     "do": "Hunt around the home, then outside. Look at shoe soles, tyres, mats and door hinges. Look at the gas knob, a jar lid, stairs, a bicycle chain and a slide.",
      "say": "For each one, is it built for grip or for slip? How can you tell?",
      "kid": "For each place, decide. Is it made for GRIP or for SLIP? Look for grooves, rubber, oil, wheels and powder.",
      "adult": true,
-     "parent": "Good finds: the grooved bottom of a chappal, the rubber feet under a mixer, rough tiles near the bathroom, grease on a cycle chain, old worn steps, and a doorknob polished smooth by hands."
+     "parent": "Good finds: the grooved bottom of a chappal, the rubber feet under a mixer, and rough tiles near the bathroom. Also grease on a cycle chain, old worn steps, and a doorknob polished smooth by hands."
     },
     {
      "id": "s3",
@@ -2104,7 +2104,7 @@
      "think": "Did someone design these things on purpose? Who might it have been?"
     }
    ],
-   "context": "This is a hunt around your home and street for places where friction helps, or where people have made it smaller on purpose."
+   "context": "This is a hunt around your home and street. You look for places where friction helps, or where people made it smaller on purpose."
   },
   {
    "id": "a2",
@@ -2188,7 +2188,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Help each player choose a role: the cook, the hungry eater, the roti that keeps rolling away, or the laddoo that won't stop sliding.",
+     "do": "Help each player choose a role. They can be the cook or the hungry eater. Or the roti that rolls away, or the laddoo that won't stop sliding.",
      "say": "We're going to act out making dinner in a kitchen where friction has disappeared. Everything is perfectly slippery.",
      "kid": "Pick your role. You can be the cook or the hungry eater. Or the roti that rolls away. Or the laddoo that won't stop sliding!",
      "context": "This is the first step of the Frictionless Kitchen play. Friction is the grip between things that touch. In this play, it has disappeared."
@@ -2277,7 +2277,7 @@
      }
     }
    ],
-   "context": "In this activity you test which cloth stops a sliding steel tumbler fastest, slide in socks, and look at the marks friction leaves on an old shoe."
+   "context": "In this activity you test which cloth stops a sliding steel tumbler fastest. You also slide in socks, and look at the marks friction leaves on an old shoe."
   },
   {
    "id": "a5",
@@ -2788,7 +2788,7 @@
    "a": 1,
    "why": "The tallest bar means that shoe stayed on the steepest slope. So it grips best. Picking 'slippery' often means the bar was read as 'how fast it slid'. The bar shows how high the board went before sliding.",
    "outcome": 2,
-   "context": "In the slope test, you lift one end of a board until the shoe on it slides, and measure how high the end went.",
+   "context": "In the slope test, you lift one end of a board until the shoe on it slides. Then you measure how high the end went.",
    "chart": {
     "type": "bar",
     "title": "How high the board's end went before each one slid (made-up results)",
@@ -2947,131 +2947,131 @@
   }
  ],
  "applications": [
-  "Brakes on bicycles, scooters, cars and trains",
-  "Shoe soles, tyre tread and anti-slip mats",
-  "Matches and the first fires made by rubbing sticks",
-  "Writing with pencils, chalk and crayons",
-  "Knots, threads and woven cloth (threads hold by friction)",
-  "Violin, sarangi and esraj bows (rosin makes them grip the strings)",
-  "Oil and grease in engines, cycle chains and bullock-cart axles",
-  "Ball bearings in fans, wheels and skateboards",
-  "Carrom powder, ski wax and playground slides",
-  "Sandpaper, files and grinding stones",
-  "Earthquakes: rocks stick and suddenly slip along faults",
-  "Maglev trains (like Shanghai's) float on magnets to beat wheel friction",
-  "Air hockey and hovercraft ride on a cushion of air",
-  "Hip and knee replacements, designed for very low friction",
-  "Superfluid helium cools the giant magnets of the Large Hadron Collider"
+  "Brakes on bicycles, scooters, cars and trains rub against the wheels to slow them down.",
+  "Shoe soles, tyre tread and anti-slip mats are made to grip.",
+  "Matches light by friction. The first fires were made by rubbing sticks together.",
+  "Pencils, chalk and crayons leave marks because rubbing wears a little of them off onto the paper.",
+  "Knots, threads and woven cloth hold together because of friction between the threads.",
+  "Bows for the violin, sarangi and esraj are rubbed with rosin, a sticky resin, so they grip the strings.",
+  "Oil and grease help engines, cycle chains and bullock-cart axles run smoothly.",
+  "Ball bearings, rings of tiny steel balls, help fans, wheels and skateboards spin easily.",
+  "Carrom powder, ski wax and smooth playground slides all lower friction.",
+  "Sandpaper, files and grinding stones use friction to shape and smooth things.",
+  "Earthquakes happen when rocks that were stuck together underground suddenly slip.",
+  "Maglev trains, like the one in Shanghai, float above the track on magnets, so no wheels rub.",
+  "Air hockey tables and hovercraft ride on a cushion of air, with almost no rubbing.",
+  "Doctors fit new hip and knee joints that are made to slide with very little friction.",
+  "Superfluid helium, a liquid with no friction, helps cool the giant magnets of the Large Hadron Collider, a huge science machine in Europe."
  ],
  "spotted": [
   {
-   "text": "Carrom powder sprinkled on the board so the striker glides.",
+   "text": "Carrom powder, sprinkled on the board so the striker glides.",
    "art": "A carrom board with white powder."
   },
   {
-   "text": "Old temple and fort steps with a smooth dip worn in the middle.",
+   "text": "Old temple and fort steps, with a smooth dip worn in the middle by millions of feet.",
    "art": "Worn stone steps."
   },
   {
-   "text": "Rubber bathroom mats and rough tiles near water.",
+   "text": "Rubber bathroom mats, and rough tiles near taps and showers.",
    "art": "A bathroom mat on tiles."
   },
   {
-   "text": "Treads on chappals, tyres and cricket shoes.",
+   "text": "The grooved patterns on chappals, tyres and cricket shoes.",
    "art": "Shoe soles of different patterns."
   },
   {
-   "text": "A squeaky door, gate or cycle chain that needs oil.",
+   "text": "A squeaky door, gate or cycle chain that needs a drop of oil.",
    "art": "An oil can on a hinge."
   },
   {
-   "text": "Rangoli powder: dry powder slides, but it can make a floor slippery too.",
+   "text": "Rangoli powder on a doorstep. Dry powder can make a smooth floor slippery.",
    "art": "Rangoli on a doorstep."
   },
   {
-   "text": "A smooth doorknob or railing polished shiny by thousands of hands.",
+   "text": "A doorknob or railing polished shiny by thousands of hands.",
    "art": "A shiny brass doorknob."
   },
   {
-   "text": "Sand sprinkled on a slippery path or on railway tracks in the rain.",
+   "text": "Sand sprinkled on a slippery path, or dropped on railway tracks in the rain, to add grip.",
    "art": "Sand on a wet path."
   }
  ],
  "open_questions": [
   {
    "q": "Exactly what happens between the atoms of two surfaces as they slide?",
-   "why_open": "It happens in tiny spaces we can hardly see; scientists use special microscopes and computer models and still argue."
+   "why_open": "It happens in spaces far too tiny to see. Scientists use special microscopes and computer models, and they still argue."
   },
   {
    "q": "Why is ice slippery?",
-   "why_open": "Several explanations compete: a surface layer, melting by friction, loose rolling molecules."
+   "why_open": "Several ideas compete. Maybe ice has a slippery layer on top. Maybe sliding melts a thin film. Maybe loose molecules on top roll like marbles."
   },
   {
    "q": "Can we make friction almost disappear?",
-   "why_open": "Some materials like layers of graphene slide with almost no friction (superlubricity), but only in tiny pieces so far."
+   "why_open": "Some materials slide with almost no friction. One is graphene, a sheet of carbon just one atom thick, stacked in layers. Scientists call this superlubricity. So far it only works for tiny pieces."
   },
   {
-   "q": "Can we predict earthquakes from friction on faults?",
-   "why_open": "Faults stick and slip in ways that are still too complex to predict."
+   "q": "Can we predict earthquakes by studying friction underground?",
+   "why_open": "Earthquakes happen when rocks that were stuck suddenly slip. How and when they slip is still too complicated to predict."
   },
   {
-   "q": "How do gecko and frog feet grip and let go so quickly?",
-   "why_open": "Scientists understand parts of it and keep copying it in new materials."
+   "q": "How do gecko and frog feet grip so well, and let go so fast?",
+   "why_open": "Scientists understand parts of it. They keep copying it to make new sticky materials."
   },
   {
-   "q": "Does 'quantum friction' between surfaces that never touch really exist?",
-   "why_open": "It is predicted by some calculations, argued about, and has never been measured."
+   "q": "Does 'quantum friction' really exist? It is a tiny drag predicted between surfaces that never touch.",
+   "why_open": "Some calculations predict it, others disagree, and nobody has measured it yet."
   },
   {
-   "q": "Is friction's one-way nature the reason time flows forwards?",
-   "why_open": "Physicists agree on the rule that mess grows; whether that is what time's direction really is, is still debated."
+   "q": "Is friction's one-way nature the reason time only goes forwards?",
+   "why_open": "Physicists agree that things always spread from order into mess. Whether that is what makes time go forwards is still argued about."
   },
   {
    "q": "What exactly do fingerprints do?",
-   "why_open": "Experiments show they don't simply add grip; they may help on wet surfaces or mainly help us feel."
+   "why_open": "Experiments show they do not simply add grip. They may help on wet surfaces, or mainly help us feel what we touch."
   }
  ],
  "ask_kids": [
-  "Why didn't you slip just now?",
+  "You didn't slip just now. What stopped you?",
   "What would happen to this knot if there were no friction?",
-  "Which is harder to push: a full trolley or an empty one? Why?",
-  "Why does the cycle chain need oil but the tyres don't?",
-  "Where did the ball's movement go when it stopped?",
+  "Which is harder to push, a full trolley or an empty one? Why?",
+  "Why does a cycle chain need oil, but the tyres must stay grippy?",
+  "That ball stopped rolling. Where did its movement go?",
   "Is anything we can't see holding something together right now?",
   "Whose small job today made everything else easier?",
-  "Would you rather have too much friction or too little for a day?",
+  "Would you rather have too much friction, or too little, for one day?",
   "Is the floor pushing up on you right now? Is that the same kind of force as grip?",
-  "Would you like a 25-hour day? Our great-great-great-…grandchildren might get one.",
-  "Where did the heat in your rubbed hands come from?"
+  "Days are getting very slowly longer. Would you like a 25-hour day?",
+  "You rubbed your hands and they got warm. Where did the heat come from?"
  ],
  "jokes": [
   {
    "j": "Why did the sock refuse to play on the tiles?",
-   "a": "It didn't have the grip for it."
+   "a": "It just couldn't get a grip."
   },
   {
-   "j": "What did the brake say to the wheel?",
-   "a": "Stop rubbing it in!"
+   "j": "Why did the bicycle fall over?",
+   "a": "It was two tyred."
   },
   {
-   "j": "Why are banana peels bad at friendship?",
+   "j": "Why are banana peels bad friends?",
    "a": "They always let you slip."
   },
   {
-   "j": "What do you call a well-behaved slope?",
-   "a": "A good incline-ation."
+   "j": "Why are ice rinks bad at keeping secrets?",
+   "a": "Everything slips out."
   },
   {
-   "j": "Why did the ice skater go to school?",
-   "a": "To get a little more friction in her life."
+   "j": "Why was the eraser so tired?",
+   "a": "It had been rubbing all day."
   },
   {
-   "j": "Why did the old shoe feel sad?",
-   "a": "It had lost its grip on life."
+   "j": "Why was the matchstick so happy?",
+   "a": "Someone rubbed it the right way, and it lit up!"
   },
   {
-   "j": "What's a carrom striker's favourite food?",
-   "a": "Anything with a little powder sugar."
+   "j": "What's a carrom striker's favourite sweet?",
+   "a": "Anything with powdered sugar on top."
   },
   {
    "j": "How do you know friction is shy?",
@@ -3090,16 +3090,16 @@
    "a": "Warm laughter."
   },
   {
-   "j": "Why couldn't the penguin stop telling jokes?",
-   "a": "There was no friction on the ice to slow him down."
+   "j": "Why shouldn't you tell jokes on a frozen lake?",
+   "a": "The ice might crack up!"
   },
   {
-   "j": "What's a hinge's favourite song?",
-   "a": "Oil you need is love."
+   "j": "What did the tyre say to the road?",
+   "a": "I've got a grip on you!"
   },
   {
-   "j": "Why was the slide so popular?",
-   "a": "Everyone wanted to get to the bottom of it."
+   "j": "What does a slide say when you leave?",
+   "a": "See you at the bottom!"
   },
   {
    "j": "What did the floor say to the rubber mat?",
@@ -3110,56 +3110,175 @@
    "a": "It was on a roll."
   },
   {
-   "j": "Why don't astronauts ever trip?",
-   "a": "Because there's no floor friction to trip them up, they just float off!"
+   "j": "Why is the Moon slowly moving away from Earth?",
+   "a": "It needs a little space."
   },
   {
-   "j": "What did Hapu say when the statue finally moved?",
-   "a": "Water day!"
+   "j": "Why did the brake pad go to bed early?",
+   "a": "It was all worn out."
   },
   {
-   "j": "Why did the superfluid never finish its chores?",
-   "a": "Once it started swirling, it just couldn't stop."
+   "j": "Why don't oil and sand play together?",
+   "a": "One wants to slip, and the other wants to grip."
   },
   {
-   "j": "Why is the Moon so polite?",
-   "a": "It always takes its leave slowly: 3.8 centimetres a year."
+   "j": "Why is a good knot a good friend?",
+   "a": "It never lets you go."
   },
   {
-   "j": "What did the electron say to the floor?",
-   "a": "I've got your back. And your feet."
+   "j": "Why was the old chappal sad?",
+   "a": "It had lost its grip."
   }
  ],
  "maths": [
   {
-   "problem": "The shoe started sliding when the end of the board was 12 cm high. The sock slid at 4 cm. How many times higher did the shoe go?",
-   "answer": "3 times",
-   "explain": "12 ÷ 4 = 3: the shoe stayed on a slope 3 times as high.",
-   "math_unit": "math.division.sharing-and-grouping.L3"
+   "problem": "A shoe started to slide when the end of the board was 12 cm high. A sock slid when the end was only 4 cm high. Look at the chart. How many times higher was the shoe's height than the sock's?",
+   "answer": "3 times.",
+   "explain": "The shoe stayed put until the end was 12 cm high. The sock slid at just 4 cm. 12 divided by 4 is 3. So the shoe's height was 3 times the sock's. You can check: 4 + 4 + 4 = 12.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "This is about the slope test. You put a shoe on a flat board and slowly lift one end. You measure how high the end is when the shoe starts to slide. The higher it goes first, the better the shoe grips.",
+   "chart": {
+    "type": "bar",
+    "title": "How high the board's end went before each one slid",
+    "x": "Shoe or sock",
+    "y": "Height of the raised end (cm)",
+    "data": [
+     {
+      "label": "Shoe",
+      "value": 12,
+      "emoji": "👟"
+     },
+     {
+      "label": "Sock",
+      "value": 4,
+      "emoji": "🧦"
+     }
+    ]
+   }
   },
   {
-   "problem": "Read the forcemeter scale: the pointer is 2 small marks past 4 N, and each small mark is half a newton. What is the reading?",
-   "answer": "5 N",
-   "explain": "4 + ½ + ½ = 5 N.",
-   "math_unit": "math.measurement-basics.reading-scales.L3"
+   "problem": "Look at the forcemeter in the picture. The big numbers are whole newtons. Each small mark between them is half a newton. What is the reading?",
+   "answer": "4 and a half newtons.",
+   "explain": "The pointer is past the 4, but before the 5. It sits on the small mark exactly halfway between them. Each small mark is half a newton. So the reading is 4 newtons and half a newton more. That is 4 and a half newtons.",
+   "math_unit": "math.measurement-basics.reading-scales.L3",
+   "context": "A forcemeter is a tool with a spring inside that measures how hard you pull. As you pull, a pointer moves along a scale of numbers. The numbers are newtons, the units for pushes and pulls.",
+   "chart": {
+    "type": "scale",
+    "title": "A forcemeter, measuring in newtons (N)",
+    "min": 0,
+    "max": 10,
+    "step": 0.5,
+    "value": 4.5,
+    "unit": "N",
+    "label": "Each small mark is half a newton."
+   }
   },
   {
-   "problem": "Make a bar chart: rubber chappal 14 cm, school shoe 10 cm, sock 4 cm, slipper 7 cm. Which is the second grippiest?",
-   "answer": "the school shoe",
-   "explain": "In order 14, 10, 7, 4: the school shoe (10 cm) is second.",
-   "math_unit": "math.data.bar-charts.L3"
+   "problem": "Four shoes were tested. The board's end went this high before each one slid: rubber chappal 14 cm, school shoe 10 cm, sock 4 cm, slipper 7 cm. Draw a bar chart of these heights. Then answer: which one grips second best?",
+   "answer": "The school shoe grips second best. Here is the bar chart.",
+   "explain": "Draw one bar for each, as tall as its height. Then put the heights in order, from tallest to shortest: 14, 10, 7, 4. The tallest bar is the rubber chappal, at 14 cm. The next tallest is the school shoe, at 10 cm. So the school shoe grips second best.",
+   "math_unit": "math.data.bar-charts.L3",
+   "context": "This is about the slope test. You put a shoe on a flat board and slowly lift one end. You measure how high the end is when the shoe starts to slide. The higher it goes first, the better the shoe grips.",
+   "answer_chart": {
+    "type": "bar",
+    "title": "How high the board's end went before each one slid",
+    "x": "Shoe or sock",
+    "y": "Height of the raised end (cm)",
+    "data": [
+     {
+      "label": "Rubber chappal",
+      "value": 14,
+      "emoji": "🩴"
+     },
+     {
+      "label": "School shoe",
+      "value": 10,
+      "emoji": "👞"
+     },
+     {
+      "label": "Sock",
+      "value": 4,
+      "emoji": "🧦"
+     },
+     {
+      "label": "Slipper",
+      "value": 7,
+      "emoji": "🥿"
+     }
+    ]
+   }
   },
   {
-   "problem": "Two notebooks of 40 pages each are interleaved. Each touching pair of pages adds a little friction. About how many page-to-page touching places are there?",
-   "answer": "about 79",
-   "explain": "80 pages laid alternately make 79 meeting places (one fewer than the pages).",
-   "math_unit": "math.patterns.number-patterns.L3"
+   "problem": "Two notebooks have 40 pages each. You lay all their pages over each other, one from each book in turn. How many places are there where one page touches the next?",
+   "answer": "79 places.",
+   "explain": "Altogether there are 40 + 40 = 80 pages in one pile. Between every two neighbouring pages there is one touching place. So there is always one fewer touching place than pages. 80 take away 1 is 79. Check with 3 pages: there are 2 touching places.",
+   "math_unit": "math.patterns.number-patterns.L3",
+   "context": "In the Books That Won't Let Go experiment, you lay the pages of two notebooks over each other. You take one page from each book in turn. Every place where two pages touch adds a little friction.",
+   "answer_chart": {
+    "type": "table",
+    "title": "Pages in the pile and places where pages touch",
+    "cols": [
+     "Pages in the pile",
+     "Touching places"
+    ],
+    "rows": [
+     [
+      "2",
+      "1"
+     ],
+     [
+      "3",
+      "2"
+     ],
+     [
+      "4",
+      "3"
+     ],
+     [
+      "10",
+      "9"
+     ],
+     [
+      "80",
+      "79"
+     ]
+    ]
+   }
   },
   {
-   "problem": "The Moon moves about 4 cm further from Earth every year. About how far will it move in a lifetime of 80 years? Give your answer in metres and centimetres.",
-   "answer": "about 320 cm, which is 3 m 20 cm",
-   "explain": "80 groups of 4: 4 × 80 = 320 cm; 100 cm = 1 m, so 3 m 20 cm.",
-   "math_unit": "math.multiplication.equal-groups.L3"
+   "problem": "The Moon moves about 4 cm further from Earth every year. About how far will it move in 80 years, a long human lifetime? Give your answer in metres and centimetres.",
+   "answer": "About 320 cm, which is 3 metres and 20 centimetres.",
+   "explain": "Each year adds 4 cm. In 80 years, that is 80 lots of 4 cm. 4 × 80 = 320 cm. 100 cm make 1 metre, so 300 cm is 3 metres. That leaves 20 cm. So the answer is 3 metres and 20 centimetres. The real speed is a little less, about 3.8 cm a year. We rounded it to 4 cm to make the sum easier.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "The Moon is very slowly moving away from the Earth. This happens because friction from the sea's tides is slowing the Earth's spin.",
+   "answer_chart": {
+    "type": "line",
+    "title": "How much further away the Moon moves, at about 4 cm a year",
+    "x": "Years from now",
+    "y": "Extra distance (cm)",
+    "data": [
+     {
+      "label": "0",
+      "value": 0
+     },
+     {
+      "label": "20",
+      "value": 80
+     },
+     {
+      "label": "40",
+      "value": 160
+     },
+     {
+      "label": "60",
+      "value": 240
+     },
+     {
+      "label": "80",
+      "value": 320
+     }
+    ]
+   }
   }
  ],
  "song": {
@@ -3169,83 +3288,83 @@
  },
  "links": [
   {
-   "title": "PhET: Forces and Motion: Basics (Friction screen)",
+   "title": "PhET Forces and Motion Basics, the Friction screen",
    "url": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
    "kind": "simulation",
-   "why": "Push a box and change the friction; watch the forces."
+   "why": "A free online game. Push a box, change the friction, and watch the arrows that show the forces."
   },
   {
-   "title": "PhET: Friction",
+   "title": "PhET Friction",
    "url": "https://phet.colorado.edu/en/simulations/friction",
    "kind": "simulation",
-   "why": "Rub two surfaces and watch atoms heat up and break away."
+   "why": "A free online game. Rub two surfaces together, and watch their atoms jiggle, heat up and break away."
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",
    "url": "https://www.vismuseum.gov.in",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "Machines, wheels and engines: see friction tamed."
+   "why": "A big science museum full of machines, wheels and engines. Look for all the ways people tame friction."
   },
   {
    "title": "Nehru Science Centre",
    "url": "https://www.nehrusciencecentre.gov.in",
    "kind": "place",
    "where": "Mumbai",
-   "why": "Hands-on mechanics gallery."
+   "why": "A science centre with many hands-on exhibits. Look for the ones about forces and machines."
   },
   {
    "title": "Birla Industrial and Technological Museum",
    "url": "https://www.bitm.gov.in",
    "kind": "place",
    "where": "Kolkata",
-   "why": "Motive power and machines."
+   "why": "A science museum with galleries about machines and engines."
   },
   {
    "title": "A playground slide, a carrom board and a cycle repair shop near you",
    "url": "",
    "kind": "place",
    "where": "anywhere",
-   "why": "Ask the repair person why chains need oil and brakes must not get oily."
+   "why": "You will find friction everywhere nearby. At a cycle repair shop, ask why the chain needs oil, but the brakes must never get oily."
   },
   {
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Hands-on, tested activities on friction and forces (from the founder's STEM websites list)."
+   "why": "Free, tested hands-on activities from a famous science museum in San Francisco. Search for friction and forces. It is on the founder's list of STEM websites."
   },
   {
    "title": "The Physics Aviary",
    "url": "https://www.thephysicsaviary.com/",
    "kind": "simulation",
-   "why": "Free physics simulations and games, including forces on ramps."
+   "why": "Free physics games and simulations, including things sliding down ramps."
   },
   {
    "title": "myPhysicsLab",
    "url": "https://www.myphysicslab.com/",
    "kind": "simulation",
-   "why": "Simulations of blocks, springs and collisions with friction you can switch on and off."
+   "why": "Free online simulations of blocks, springs and crashes. You can switch friction on and off."
   },
   {
    "title": "Science Buddies",
    "url": "https://www.sciencebuddies.org/",
    "kind": "interactive",
-   "why": "Step-by-step friction project ideas for older children."
+   "why": "Step-by-step science project ideas, including friction projects, for older children."
   },
   {
    "title": "Nehru Planetarium",
    "url": "https://nehruplanetarium.org/",
    "kind": "place",
    "where": "New Delhi",
-   "why": "For the tides, the Moon and the slowing Earth."
+   "why": "Shows about the Moon, the Earth and the sky. Good for the part of this unit about tides and the slowing Earth."
   }
  ],
  "buy": [
   {
    "id": "b-forcemeter",
-   "item": "Spring balance / forcemeter (0–10 N or 0–1 kg)",
+   "item": "Spring balance, also called a forcemeter (0 to 10 newtons, or 0 to 1 kg)",
    "kind": "tool",
-   "why": "Measures friction in newtons in the experiments and challenges.",
+   "why": "A forcemeter measures pulls in newtons. You use it to measure friction in the wet sand experiment and the Move the Mountain challenge.",
    "url": "https://www.amazon.in/s?k=spring+balance+newton+meter+school",
    "used_in": [
     "e3",
@@ -3257,7 +3376,7 @@
    "id": "b-ruler",
    "item": "30 cm ruler",
    "kind": "tool",
-   "why": "Measures slope height.",
+   "why": "Measures how high the board is lifted, in the slope test and the grip socks project.",
    "url": "https://www.amazon.in/s?k=30+cm+ruler",
    "used_in": [
     "e1",
@@ -3268,7 +3387,7 @@
    "id": "b-puffpaint",
    "item": "Fabric puff paint",
    "kind": "material",
-   "why": "Makes the grip dots on socks.",
+   "why": "Makes raised grip dots on the bottom of socks, in the grip socks project.",
    "url": "https://www.amazon.in/s?k=fabric+puff+paint",
    "used_in": [
     "p1"
@@ -3278,7 +3397,7 @@
    "id": "b-marbles",
    "item": "Glass marbles",
    "kind": "material",
-   "why": "Ball bearings in Move the Mountain.",
+   "why": "Used as ball bearings under the heavy box, in the Move the Mountain challenge.",
    "url": "https://www.amazon.in/s?k=glass+marbles+kids",
    "used_in": [
     "c1"
@@ -3288,7 +3407,7 @@
    "id": "b-book",
    "item": "Forces Make Things Move, by Kimberly Brubaker Bradley (Let's-Read-and-Find-Out Science)",
    "kind": "book",
-   "why": "A clear picture book on forces, friction included, for ages 5–9.",
+   "why": "A clear picture book about forces, including friction, for ages 5 to 9.",
    "url": "https://www.amazon.in/s?k=Forces+Make+Things+Move+Kimberly+Brubaker+Bradley",
    "used_in": [
     "g1"
@@ -3299,7 +3418,7 @@
    "id": "b-carrom",
    "item": "Carrom board and powder",
    "kind": "game",
-   "why": "A friction game every Indian home knows: play once without powder and once with.",
+   "why": "A friction game every Indian home knows. Play once without powder and once with it, and feel the difference.",
    "url": "https://www.amazon.in/s?k=carrom+board+with+powder",
    "used_in": [
     "g1"
@@ -3308,9 +3427,9 @@
   },
   {
    "id": "b-flexmag",
-   "item": "Flexible fridge magnet sheets (thin)",
+   "item": "Thin, bendy fridge magnet sheets",
    "kind": "material",
-   "why": "Two sliding magnets model atoms grabbing and letting go.",
+   "why": "Two of these, slid face to face, make a hand-sized model of atoms grabbing and letting go.",
    "url": "https://www.amazon.in/s?k=flexible+magnetic+sheet",
    "used_in": [
     "a5"
@@ -3323,32 +3442,32 @@
    "a": "surfaces"
   },
   {
-   "q": "Grip or slip: bicycle brakes?",
-   "a": "grip"
+   "q": "Grip or slip: what do we want for bicycle brakes?",
+   "a": "Grip. Brakes must rub the wheel to stop it."
   },
   {
-   "q": "Grip or slip: playground slide?",
-   "a": "slip"
+   "q": "Grip or slip: what do we want for a playground slide?",
+   "a": "Slip. A slide should be slippery."
   },
   {
    "q": "What does oil do to friction?",
-   "a": "lowers it"
+   "a": "It makes friction smaller."
   },
   {
-   "q": "Rubbing hands makes them…",
-   "a": "warm"
+   "q": "Rub your hands together fast. How do they feel?",
+   "a": "Warm."
   },
   {
-   "q": "Is it harder to start pushing a box or keep it going?",
-   "a": "start"
+   "q": "Which is harder: starting to push a heavy box, or keeping it moving?",
+   "a": "Starting to push it."
   },
   {
-   "q": "Who poured water in front of the Egyptian sledge?",
-   "a": "the water-pourer (in our story, Hapu)"
+   "q": "In ancient Egypt, workers dragged a giant statue on a sledge. What did one man pour on the sand to help?",
+   "a": "Water. Just-damp sand is firm, so the sledge slides more easily."
   },
   {
    "q": "Do scientists fully know why ice is slippery?",
-   "a": "no"
+   "a": "No. They are still studying it."
   },
   {
    "q": "Deep down, friction is atoms pushing and pulling with ____ force.",
@@ -3356,11 +3475,11 @@
   },
   {
    "q": "Which liquid has no friction at all?",
-   "a": "superfluid helium"
+   "a": "Superfluid helium, cooled to about 271 degrees below zero."
   },
   {
    "q": "Are Earth's days getting longer or shorter?",
-   "a": "longer"
+   "a": "Longer, very slowly, because of friction from the tides."
   }
  ],
  "plan": {
