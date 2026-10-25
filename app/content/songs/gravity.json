@@ -1,0 +1,288 @@
+{
+ "id": "gravity",
+ "title": "Gravity",
+ "lyrics_by": "the DeepKids founder",
+ "music": "DeepKids (first draft melody and chords, made in code)",
+ "key": "A minor",
+ "meter": "3/4",
+ "bpm": 88,
+ "about": "Gravity as the bending of space and time, and the question of whether a force can be good or bad.",
+ "sections": [
+  {
+   "name": "Verse",
+   "lines": [
+    "Space & Time,",
+    "A blanket fine-",
+    "Holds you & I,",
+    "The mountains high,",
+    "The planets known,",
+    "And billions more in the sky;",
+    "Curves & stretches where",
+    "Mass is high"
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "lines": [
+    "What can we do, you & I,",
+    "Against a curve so deep,",
+    "But spiral in towards",
+    "Its centre, far from sight",
+    "At the heart of the planet,",
+    "That outweighs I;",
+    "Spiral in & Spiral in,",
+    "Towards the eye,",
+    "Where comes to close,",
+    "The Gravity that had me tied."
+   ]
+  },
+  {
+   "name": "Chorus",
+   "lines": [
+    "Gravity! Oh Gravity!",
+    "Are you good or bad?",
+    "You bring the Universe together,",
+    "Keep us alive,",
+    "But you don't let me fly!",
+    "What would we do without you?",
+    "Live or die?",
+    "Or is it a moot?",
+    "Since you never leave our side!"
+   ]
+  },
+  {
+   "name": "Outro",
+   "lines": [
+    "Gravity! Oh Gravity!",
+    "Curved in Space & Time,",
+    "A blanket fine,",
+    "Gravity..."
+   ]
+  }
+ ],
+ "chords": [
+  {
+   "text": "Space & Time,",
+   "chords": [
+    "Am",
+    "F"
+   ]
+  },
+  {
+   "text": "A blanket fine-",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "Holds you & I,",
+   "chords": [
+    "Am",
+    "F"
+   ]
+  },
+  {
+   "text": "The mountains high,",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "The planets known,",
+   "chords": [
+    "Am",
+    "F"
+   ]
+  },
+  {
+   "text": "And billions more in the sky;",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "Curves & stretches where",
+   "chords": [
+    "Am",
+    "F"
+   ]
+  },
+  {
+   "text": "Mass is high",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "What can we do, you & I,",
+   "chords": [
+    "Am",
+    "F"
+   ]
+  },
+  {
+   "text": "Against a curve so deep,",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "But spiral in towards",
+   "chords": [
+    "Am",
+    "F"
+   ]
+  },
+  {
+   "text": "Its centre, far from sight",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "At the heart of the planet,",
+   "chords": [
+    "Am",
+    "F"
+   ]
+  },
+  {
+   "text": "That outweighs I;",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "Spiral in & Spiral in,",
+   "chords": [
+    "Am",
+    "F"
+   ]
+  },
+  {
+   "text": "Towards the eye,",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "Where comes to close,",
+   "chords": [
+    "Am",
+    "F"
+   ]
+  },
+  {
+   "text": "The Gravity that had me tied.",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "Gravity! Oh Gravity!",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "Are you good or bad?",
+   "chords": [
+    "Am",
+    "Am"
+   ]
+  },
+  {
+   "text": "You bring the Universe together,",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "Keep us alive,",
+   "chords": [
+    "Am",
+    "Am"
+   ]
+  },
+  {
+   "text": "But you don't let me fly!",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "What would we do without you?",
+   "chords": [
+    "Am",
+    "Am"
+   ]
+  },
+  {
+   "text": "Live or die?",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "Or is it a moot?",
+   "chords": [
+    "Am",
+    "Am"
+   ]
+  },
+  {
+   "text": "Since you never leave our side!",
+   "chords": [
+    "C",
+    "G"
+   ]
+  },
+  {
+   "text": "Gravity! Oh Gravity!",
+   "chords": [
+    "F",
+    "G"
+   ]
+  },
+  {
+   "text": "Curved in Space & Time,",
+   "chords": [
+    "Am",
+    "Am"
+   ]
+  },
+  {
+   "text": "A blanket fine,",
+   "chords": [
+    "F",
+    "G"
+   ]
+  },
+  {
+   "text": "Gravity...",
+   "chords": [
+    "Am",
+    "Am"
+   ]
+  }
+ ],
+ "seconds": 129,
+ "audio": "gravity.mp3",
+ "sheet": "gravity.abc",
+ "topics": [
+  "gravity"
+ ]
+}

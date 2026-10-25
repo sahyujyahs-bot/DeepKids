@@ -67,6 +67,15 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
             break
     else: print('no rung for unit', u['id'])
 print('units:', len(data['units']))
+# songs: lyrics, chords, sheet music (ABC) and the backing track, embedded so the artifact can play them too
+import base64
+data['songs'] = {}
+for f in sorted(glob.glob(os.path.join(APP, 'content', 'songs', '*.json'))):
+    sg = json.load(open(f)); mp3 = f[:-5] + '.mp3'; abcf = f[:-5] + '.abc'
+    if os.path.exists(mp3): sg['audio'] = 'data:audio/mpeg;base64,' + base64.b64encode(open(mp3, 'rb').read()).decode()
+    if os.path.exists(abcf): sg['abc'] = open(abcf).read()
+    data['songs'][sg['id']] = sg
+print('songs:', len(data['songs']))
 data['combined'] = plan
 data.pop('notebook', None)
 json.dump(data, open(DATA, 'w'), ensure_ascii=False, separators=(",", ":"))

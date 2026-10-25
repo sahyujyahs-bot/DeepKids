@@ -1,0 +1,166 @@
+{
+ "id": "deepkids",
+ "title": "DeepKids",
+ "lyrics_by": "the DeepKids founder",
+ "music": "DeepKids (first draft melody and chords, made in code)",
+ "key": "D major",
+ "meter": "4/4",
+ "bpm": 100,
+ "about": "The DeepKids song, for the start of the day.",
+ "sections": [
+  {
+   "name": "Verse",
+   "lines": [
+    "We feel the love in our hearts;",
+    "See the World with no chains;",
+    "Oh yeah we got all the smarts.",
+    "Whatever we do is art;",
+    "Because all comes from the heart."
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "lines": [
+    "Although we cry, we ask why;",
+    "And never let it go just with a sigh.",
+    "Oh yes we got all the smarts.",
+    "Our imaginations run wild.",
+    "Is there anyone who can dream better than a child."
+   ]
+  },
+  {
+   "name": "Bridge",
+   "lines": [
+    "With no bounds or wounds.",
+    "There is no place free-er than our minds."
+   ]
+  },
+  {
+   "name": "Chorus",
+   "lines": [
+    "DeepKids we are,",
+    "Profound everyday.",
+    "DeepKids we are,",
+    "Listen to what we have to say."
+   ]
+  }
+ ],
+ "chords": [
+  {
+   "text": "We feel the love in our hearts;",
+   "chords": [
+    "D",
+    "Bm"
+   ]
+  },
+  {
+   "text": "See the World with no chains;",
+   "chords": [
+    "G",
+    "A"
+   ]
+  },
+  {
+   "text": "Oh yeah we got all the smarts.",
+   "chords": [
+    "D",
+    "Bm"
+   ]
+  },
+  {
+   "text": "Whatever we do is art;",
+   "chords": [
+    "G",
+    "A"
+   ]
+  },
+  {
+   "text": "Because all comes from the heart.",
+   "chords": [
+    "D",
+    "Bm"
+   ]
+  },
+  {
+   "text": "Although we cry, we ask why;",
+   "chords": [
+    "D",
+    "Bm"
+   ]
+  },
+  {
+   "text": "And never let it go just with a sigh.",
+   "chords": [
+    "G",
+    "A"
+   ]
+  },
+  {
+   "text": "Oh yes we got all the smarts.",
+   "chords": [
+    "D",
+    "Bm"
+   ]
+  },
+  {
+   "text": "Our imaginations run wild.",
+   "chords": [
+    "G",
+    "A"
+   ]
+  },
+  {
+   "text": "Is there anyone who can dream better than a child.",
+   "chords": [
+    "D",
+    "Bm"
+   ]
+  },
+  {
+   "text": "With no bounds or wounds.",
+   "chords": [
+    "Bm",
+    "G"
+   ]
+  },
+  {
+   "text": "There is no place free-er than our minds.",
+   "chords": [
+    "D",
+    "A"
+   ]
+  },
+  {
+   "text": "DeepKids we are,",
+   "chords": [
+    "G",
+    "A"
+   ]
+  },
+  {
+   "text": "Profound everyday.",
+   "chords": [
+    "D",
+    "Bm"
+   ]
+  },
+  {
+   "text": "DeepKids we are,",
+   "chords": [
+    "G",
+    "A"
+   ]
+  },
+  {
+   "text": "Listen to what we have to say.",
+   "chords": [
+    "D",
+    "Bm"
+   ]
+  }
+ ],
+ "seconds": 79,
+ "audio": "deepkids.mp3",
+ "sheet": "deepkids.abc",
+ "daily": true
+}

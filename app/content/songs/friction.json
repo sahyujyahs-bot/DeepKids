@@ -1,0 +1,415 @@
+{
+ "id": "friction",
+ "title": "Friction",
+ "lyrics_by": "DeepKids, written in the style of the founder's Gravity song",
+ "music": "DeepKids (first draft melody and chords, made in code)",
+ "key": "G major",
+ "meter": "4/4",
+ "bpm": 104,
+ "about": "Friction from the grip of a chappal down to atoms, out to the tides slowing the Earth, and the open question of why ice is slippery.",
+ "sections": [
+  {
+   "name": "Verse",
+   "lines": [
+    "Hand & hand,",
+    "Shoe & ground,",
+    "Wherever two things meet,",
+    "A grip is found;",
+    "Look up close,",
+    "The smoothest floor",
+    "Is hills and dips",
+    "And mountains more;"
+   ]
+  },
+  {
+   "name": "Verse 2",
+   "lines": [
+    "Peak by peak",
+    "They catch and hold,",
+    "Atom tugging atom,",
+    "Brave and bold;",
+    "Snap and slide,",
+    "And snap again,",
+    "Every snap a little warmth",
+    "Left in the grain."
+   ]
+  },
+  {
+   "name": "Chorus",
+   "lines": [
+    "Friction! Oh Friction!",
+    "Are you friend or foe?",
+    "You hold my feet upon the road,",
+    "But slow me as I go!",
+    "You wear the temple steps away,",
+    "You stop the rolling ball,",
+    "But without you could I hold a hand?",
+    "Could I stand at all?"
+   ]
+  },
+  {
+   "name": "Verse 3",
+   "lines": [
+    "The water-pourer knew,",
+    "Out on the desert sand,",
+    "Just damp enough, the sledge would glide",
+    "Across the land;",
+    "And far out in the sea,",
+    "The tides rub on the floor,",
+    "Slowing down our spinning Earth,",
+    "Each day a little more."
+   ]
+  },
+  {
+   "name": "Bridge",
+   "lines": [
+    "Even ice, so slippery,",
+    "Keeps a secret still:",
+    "Why it slides, nobody knows,",
+    "Maybe one day you will."
+   ]
+  },
+  {
+   "name": "Chorus",
+   "lines": [
+    "Friction! Oh Friction!",
+    "Are you friend or foe?",
+    "You hold my feet upon the road,",
+    "But slow me as I go!"
+   ]
+  },
+  {
+   "name": "Outro",
+   "lines": [
+    "Friction! Oh Friction!",
+    "Rough & smooth & fine,",
+    "Holding on to all we touch,",
+    "Through space & time,",
+    "Friction..."
+   ]
+  }
+ ],
+ "chords": [
+  {
+   "text": "Hand & hand,",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "Shoe & ground,",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Wherever two things meet,",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "A grip is found;",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Look up close,",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "The smoothest floor",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Is hills and dips",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "And mountains more;",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Peak by peak",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "They catch and hold,",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Atom tugging atom,",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "Brave and bold;",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Snap and slide,",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "And snap again,",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Every snap a little warmth",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "Left in the grain.",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Friction! Oh Friction!",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Are you friend or foe?",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "You hold my feet upon the road,",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "But slow me as I go!",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "You wear the temple steps away,",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "You stop the rolling ball,",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "But without you could I hold a hand?",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Could I stand at all?",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "The water-pourer knew,",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "Out on the desert sand,",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Just damp enough, the sledge would glide",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "Across the land;",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "And far out in the sea,",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "The tides rub on the floor,",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Slowing down our spinning Earth,",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "Each day a little more.",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Even ice, so slippery,",
+   "chords": [
+    "Em",
+    "C"
+   ]
+  },
+  {
+   "text": "Keeps a secret still:",
+   "chords": [
+    "G",
+    "D"
+   ]
+  },
+  {
+   "text": "Why it slides, nobody knows,",
+   "chords": [
+    "Em",
+    "C"
+   ]
+  },
+  {
+   "text": "Maybe one day you will.",
+   "chords": [
+    "G",
+    "D"
+   ]
+  },
+  {
+   "text": "Friction! Oh Friction!",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Are you friend or foe?",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "You hold my feet upon the road,",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "But slow me as I go!",
+   "chords": [
+    "G",
+    "Em"
+   ]
+  },
+  {
+   "text": "Friction! Oh Friction!",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Rough & smooth & fine,",
+   "chords": [
+    "G",
+    "G"
+   ]
+  },
+  {
+   "text": "Holding on to all we touch,",
+   "chords": [
+    "C",
+    "D"
+   ]
+  },
+  {
+   "text": "Through space & time,",
+   "chords": [
+    "G",
+    "G"
+   ]
+  },
+  {
+   "text": "Friction...",
+   "chords": [
+    "C",
+    "D"
+   ]
+  }
+ ],
+ "seconds": 210,
+ "audio": "friction.mp3",
+ "sheet": "friction.abc",
+ "units": [
+  "sci.forces.friction.L3"
+ ]
+}
