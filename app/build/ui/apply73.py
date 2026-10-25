@@ -11,6 +11,11 @@ for x,y in (('const sessionsFor=u=>u.c?.p?','const sessionsFor=u=>u.board==="uni
     assert x in rest or y in rest,x
     if y in rest: continue
     rest=rest.replace(x,y,1)
+_L=rest.split('\n');_o=[];_seen=set()
+for _l in _L:
+    if len(_l)>60 and _l.lstrip().startswith('if(') and _l in _seen: continue   # never repeat a planner line (an old build step used to stack them)
+    _seen.add(_l);_o.append(_l)
+rest='\n'.join(_o)
 head=head.replace('</style>',open('fx73.css').read()+'\n</style>',1)
 open(T,'w').write(head+'<script>'+rest+'\n'+P+'</script>\n')
 d=open('/home/user/DeepKids/app/build/data.json').read();out=open(T).read().replace('/*DATA*/',d)
