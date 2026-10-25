@@ -9,13 +9,13 @@ Tested in Chromium (Playwright) against `app_prev.html` (= `app/index.html`), pl
 3. **The DeepKids track is not built.** "DeepKids Plus first" mode = board chapters plus DK topic overviews. The 19 subtopic units never enter the plan unless a parent taps "Do next" or "Add to queue". Maths, English and Hindi have no DK content. "Only DeepKids Plus" gives an empty plan for every subject except DeepKids Science. There is no year-end board-coverage check in the scheduler, and no quarterly sprint.
 4. **No end of day or sleep in the planner.** With a class from 9:00 to 12:30 and an outing from 14:00 to 21:30, the lessons were placed from 9:30 pm to 1:15 am (t4).
 5. **Unit spine, linked-unit insertion and the buy list are missing.** `plan.spine` is never read: a unit is all 38 parts over 17 sessions. Units have no "linked unit" field. `buy[]` and `buy[].plan` only show as text inside the feed.
-6. **Sign-up is a testing stub.** There is no Google login and no OTP. "0000000000" and "1234567890" are accepted. "+91 98765 43210" is rejected because the input has `maxlength=11`. The parent can pick only one board.
+6. **Sign-up is a testing stub.** Google login exists on the website (web/src/platform.js); the audit's test preview has no website layer. There is no OTP. "0000000000" and "1234567890" are accepted. "+91 98765 43210" is rejected because the input has `maxlength=11`. The parent can pick only one board.
 
 ## Item by item
 
 | Spec item | Status | Evidence | Gap |
 |---|---|---|---|
-| Google login | missing | `loginView`: phone + name only, "Testing mode, so no OTP yet" | No Google sign-in at all |
+| Google login | works on the website | `web/src/platform.js`: Supabase `signInWithOAuth({provider:"google"})` on app.deepkids.in. The test preview (no website layer) shows the phone + name stub instead | Check the phone and name step comes after Google sign-in on the website |
 | Parent name + phone check | partly | `case "login"`: strips non-digits, needs 10 digits; t1: `12345`/`abcdefghij` rejected | Accepts 0000000000 and 1234567890 (no check that it starts with 6 to 9). `maxlength=11` rejects "+91 98765 43210" typed in full. Parent name is optional. No OTP. |
 | Child name and age | works | onboarding step 0 (`obName`, age 6 to 10, class 1 to 5) | Name not required. Multiple children: not started (later, as planned) |
 | Shop site verifies phones? | n/a | `/home/user/escapegravityv1` is one file, `escapegravity_final-18.html`: the "EscapeGravity – Pre-Order" board-game landing page | Not the DeepKids shop. No forms, no phone fields, no backend. `doPreOrder()` only shows `alert("Opening soon!")`. It verifies nothing. |
