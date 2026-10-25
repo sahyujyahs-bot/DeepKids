@@ -30,3 +30,9 @@
 - Answer checker: a small Python (SymPy) script that recomputes every maths answer in units and worksheets.
 - Look at the "Math Practice Game" skill (gabrielmoreira/agent-skills-mirror) for game formats (a few hundred tokens).
 - Later, for on-screen maths games: Awesome Gamedev Agent Skills (Phaser, PixiJS).
+
+# UI references the founder liked (Dribbble, for direction only; never copy the art)
+- GEL Guided E-learning (Martin Strba): week strip of days with dots, two small goal tiles at top ("Weekly goal 78/120 min", "Days until test"), a friendly mascot as study buddy, one big "Start now" button, simple 5-tab bar.
+- Kites Design onboarding: bold one-colour screens (yellow, lilac, orange), playful line-art characters, big short headlines, one dark pill button at the bottom.
+- Kids learning "Homework" board: subject filter chips, assignments as tilted paper cards with hand-drawn scribbles and arrows, a floating toolbar (colour, sticker, pen, add). Good for worksheets and the sketchboard later.
+- Nixtio "My Learning Plan" (web): a path of lesson cards joined by a dotted line, status chips (Completed, Upcoming, Watching), counters (Total, Completed, Upcoming), events column on the right. Good for the plan and unit map.

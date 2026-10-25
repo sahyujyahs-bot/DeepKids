@@ -53,6 +53,7 @@ slug = lambda x: re.sub(r'[^a-z0-9]+', '-', x.lower()).strip('-')
 CUR = json.load(open(os.path.join(APP, 'content', 'curriculum', 'sci.json')))
 TL = {s: t for t in CUR['topic_levels'] for s in t['subtopic_levels']}
 SUB = {x['id']: x for x in CUR['subtopic_levels']}
+SUBI = {x['id']: i for i, x in enumerate(CUR['subtopic_levels'])}   # curriculum order
 data['units'] = {}
 import re, importlib.util as _iu
 _sp = _iu.spec_from_file_location('c3d', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'c3_daily.py')); _m = _iu.module_from_spec(_sp); _sp.loader.exec_module(_m); C3D = _m.X   # NCERT Class 3 chapter extras (jokes and more)
@@ -82,12 +83,15 @@ def unit_parts(u):
             k, x = ents[o]
             if k == 'worksheets': req, pre = sum(1 for i in x['items'] if i.get('t') in CHECK_T), f"ws.{o}."
             else: req, pre = sum(1 for st in x.get('flow', []) if st.get('check')), f"chk.{o}."
-            out.append([o, x['title'], k, x.get('mins') or 10, req, x.get('days') or 1, pre]); continue
+            links = list(x.get('units', [])) + ([x['math_unit']] if x.get('math_unit') else [])
+            sched = [[d.get('day'), d.get('mins', 5), d.get('what', '')] for d in x.get('schedule', [])]
+            out.append([o, x['title'], k, x.get('mins') or 10, req, x.get('days') or 1, pre, links, sched]); continue
         if o not in PLAB or not u.get(o): continue
         m = {"story": u['story'].get('mins', 10), "terms": round(u.get('cards_mins', 20) / 2), "explanations": 12, "quiz": len(u['quiz']), "big_questions": 10,
              "challenging": 8, "videos": sum(v.get('mins', 0) for v in u['videos']), "roots": (u['roots'].get('practice', {}).get('mins') or 3) + 8}.get(o, 5)
         req, pre = (sum(1 for i in u['quiz'] if i.get('t') in CHECK_T), "quiz.") if o == 'quiz' else (0, "")
-        out.append([o, PLAB[o], o, m, req, 1, pre])
+        links = [mm['math_unit'] for mm in u.get('maths', []) if mm.get('math_unit')] if o == 'maths' else []
+        out.append([o, PLAB[o], o, m, req, 1, pre, links, []])
     return out
 import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
@@ -112,7 +116,7 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
     os.makedirs(os.path.join(APP, 'units'), exist_ok=True)
     json.dump(u, open(os.path.join(APP, 'units', u['id'] + '.json'), 'w'), ensure_ascii=False, separators=(",", ":"))
     sub0 = SUB.get(u['id'], {})
-    data['units'][u['id']] = {"id": u['id'], "title": u['title'], "topic": t['name'], "subtopic": sub0.get('name', ''), "parts": unit_parts(u), "spine": u["plan"].get("spine", []), "summary": {"text": u['summary']['text']}, "song": u.get('song', {}),
+    data['units'][u['id']] = {"id": u['id'], "title": u['title'], "topic": t['name'], "subtopic": sub0.get('name', ''), "parts": unit_parts(u), "spine": u["plan"].get("spine", []), "req": bool(sub0.get("chapters")), "order": SUBI.get(u["id"], 9999), "summary": {"text": u['summary']['text']}, "song": u.get('song', {}),
                               "img": {"summary": (u.get('img') or {}).get('summary', '')}, "v": hashlib.md5(json.dumps(u, sort_keys=True).encode()).hexdigest()[:10]}
     ref = {"id": u['id'], "title": u['title']}
     # 1. the unit is a lesson like any other: search, browse and related links find it through data['items']
