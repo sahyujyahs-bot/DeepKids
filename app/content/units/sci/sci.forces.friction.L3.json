@@ -249,7 +249,21 @@
       "value": 3
      }
     ]
-   }
+   },
+   "show": [
+    {
+     "scene": "pull",
+     "object": "shoe",
+     "reading": 5,
+     "caption": "Just before it moves: 5 newtons"
+    },
+    {
+     "scene": "pull",
+     "object": "shoe",
+     "reading": 3,
+     "caption": "Once it is sliding: 3 newtons"
+    }
+   ]
   },
   {
    "concept": "What changes friction",
@@ -264,24 +278,20 @@
    "perspectives": [],
    "art": "A brick lying flat and on its edge, each pulled by a forcemeter showing the same number.",
    "context": "Why is one thing easy to drag and another hard? This card names the two things that matter most, and one surprise about bricks.",
-   "chart": {
-    "type": "bar",
-    "title": "Pulling the same brick two ways (a made-up example)",
-    "x": "How the brick lies",
-    "y": "Pull needed to slide it (newtons)",
-    "data": [
-     {
-      "label": "Flat, big side down",
-      "value": 6,
-      "emoji": "🧱"
-     },
-     {
-      "label": "On its thin edge",
-      "value": 6,
-      "emoji": "🧱"
-     }
-    ]
-   }
+   "show": [
+    {
+     "scene": "pull",
+     "object": "brick",
+     "reading": 6,
+     "caption": "Brick lying flat: 6 newtons"
+    },
+    {
+     "scene": "pull",
+     "object": "brick",
+     "reading": 6,
+     "caption": "Brick on its thin edge: also 6 newtons"
+    }
+   ]
   },
   {
    "concept": "Rolling, lubricants and less friction",
@@ -733,7 +743,8 @@
        "More friction (GRIP)",
        "Less friction (SLIP)"
       ],
-      "a": 0
+      "a": 0,
+      "why": "Brakes work by rubbing against the wheel. Friction from that rubbing slows the wheel down. Rain makes the wheel wet and slippery, so the brakes grip less. That is why we want more friction here, not less. Picking SLIP usually means thinking 'slippery is the problem' instead of 'grip is what we need'."
      }
     },
     {
@@ -770,7 +781,21 @@
      "think": "Is friction a good force or a bad force? Or is that the wrong question?"
     }
    ],
-   "context": "This is a card game about friction in everyday life. Friction is the grip between two things that touch. For each moment on a card, players decide whether we want more friction (grip) or less (slip)."
+   "context": "This is a card game about friction in everyday life. Friction is the grip between two things that touch. For each moment on a card, players decide whether we want more friction (grip) or less (slip).",
+   "setup": [
+    {
+     "art": "Two paper mats on a floor, one with a picture of a gripping shoe and one with a picture of a slide, a pile of face-down picture cards and a bowl of small lightbulb tokens.",
+     "caption": "1. Lay out the GRIP and SLIP mats. Put the cards face down."
+    },
+    {
+     "art": "A child reading a picture card and placing it on the GRIP mat.",
+     "caption": "2. Take a card. Read it. Put it on GRIP or SLIP and say why."
+    },
+    {
+     "art": "A child holding up a small lightbulb token, smiling.",
+     "caption": "3. Say how people change the friction there to win a token."
+    }
+   ]
   },
   {
    "id": "g2",
@@ -879,7 +904,8 @@
        "No, your feet would slip back and you couldn't push off",
        "Yes, but only slowly"
       ],
-      "a": 1
+      "a": 1,
+      "why": "To walk, your foot pushes backwards on the ground. Friction pushes your foot forwards in return, and that moves you. With no friction, your foot would just slide back. You would stay in the same place. Picking 'more easily' usually means thinking friction only slows us down."
      }
     },
     {
@@ -891,7 +917,21 @@
      "think": "We grumble about friction when things get stuck. Are there other things in life we only notice when they're gone?"
     }
    ],
-   "context": "This is an imagination game. Players picture one ordinary day in a world where friction has vanished, and work out what would really happen."
+   "context": "This is an imagination game. Players picture one ordinary day in a world where friction has vanished, and work out what would really happen.",
+   "setup": [
+    {
+     "art": "A board game sheet showing six pictures of a child's day: waking up, eating, walking, drawing, playing, sleeping, with a die beside it.",
+     "caption": "1. Roll the die and go to that moment of the day."
+    },
+    {
+     "art": "A child acting out sliding off a bed in a world with no friction, arms flailing, laughing.",
+     "caption": "2. Act out that moment with no friction at all."
+    },
+    {
+     "art": "Children holding up small score cards with ticks, around the game sheet.",
+     "caption": "3. Score a point for science-true ideas and for the cleverest one."
+    }
+   ]
   }
  ],
  "worksheets": [
@@ -1113,24 +1153,20 @@
      "a": 0,
      "why": "The full box is heavier, so it presses on the floor harder. Pressing harder gives more friction. 8 newtons is twice 4 newtons. Picking 'more of it touches' is a very common idea. But it is the same box, with the same bottom on the floor. Only how hard it presses has changed.",
      "context": "A forcemeter is a tool with a spring inside. It shows how hard you are pulling, in units called newtons. This question compares pulling a full box and a half-empty box.",
-     "chart": {
-      "type": "bar",
-      "title": "Pull needed to drag Riya's box of books",
-      "x": "Box",
-      "y": "Pull needed (newtons)",
-      "data": [
-       {
-        "label": "Full box",
-        "value": 8,
-        "emoji": "📦"
-       },
-       {
-        "label": "Half-empty box",
-        "value": 4,
-        "emoji": "📦"
-       }
-      ]
-     }
+     "show": [
+      {
+       "scene": "pull",
+       "object": "box",
+       "reading": 8,
+       "caption": "Full box: 8 newtons"
+      },
+      {
+       "scene": "pull",
+       "object": "box",
+       "reading": 4,
+       "caption": "Half-empty box: 4 newtons"
+      }
+     ]
     },
     {
      "t": "mcq",
@@ -1160,7 +1196,8 @@
         "emoji": "🧦"
        }
       ]
-     }
+     },
+     "how": "e1"
     },
     {
      "t": "fill",
@@ -1188,7 +1225,8 @@
         "emoji": "🧦"
        }
       ]
-     }
+     },
+     "how": "e1"
     },
     {
      "t": "mcq",
@@ -1301,7 +1339,8 @@
      ],
      "a": 1,
      "why": "The right amount of water makes sand firm. Then the sledge slides on top, instead of digging in and pushing up a hill of sand. Picking 'to cool the sand' is a sensible guess about the hot desert. But the water is poured right in front of the sledge, where it meets the sand.",
-     "context": "About 3,900 years ago, Egyptians painted workers dragging a giant statue across the sand on a wooden sledge. One man at the front pours water on the sand."
+     "context": "About 3,900 years ago, Egyptians painted workers dragging a giant statue across the sand on a wooden sledge. One man at the front pours water on the sand.",
+     "how": "e3"
     },
     {
      "t": "mcq",
@@ -1314,7 +1353,8 @@
      ],
      "a": 1,
      "why": "A little water makes sand firm. Too much water turns it into soft mud, and the heavy sledge sinks in. Picking 'even easier' is a very common idea: if a little helps, more must help more. Here, it does not.",
-     "context": "This question is about dragging a heavy sledge across sand, as the ancient Egyptians did. A little water on the sand helps the sledge slide."
+     "context": "This question is about dragging a heavy sledge across sand, as the ancient Egyptians did. A little water on the sand helps the sledge slide.",
+     "how": "e3"
     },
     {
      "t": "write",
@@ -1388,24 +1428,20 @@
      "a": 1,
      "why": "For hard things, the touching area hardly matters. What matters is the materials, and how hard they press together. Guillaume Amontons wrote this down in 1699, and it surprised people. Picking 'depends a lot on area' means going with what feels true, not with what the chart shows. Many grown-ups believed that for hundreds of years.",
      "context": "A forcemeter is a tool with a spring inside. It shows how hard you are pulling, in units called newtons. This question is about pulling a brick two ways.",
-     "chart": {
-      "type": "bar",
-      "title": "Pulling the same brick two ways",
-      "x": "How the brick lies",
-      "y": "Pull needed to slide it (newtons)",
-      "data": [
-       {
-        "label": "Flat, big side down",
-        "value": 6,
-        "emoji": "🧱"
-       },
-       {
-        "label": "On its thin edge",
-        "value": 6,
-        "emoji": "🧱"
-       }
-      ]
-     }
+     "show": [
+      {
+       "scene": "pull",
+       "object": "brick",
+       "reading": 6,
+       "caption": "Brick lying flat: 6 newtons"
+      },
+      {
+       "scene": "pull",
+       "object": "brick",
+       "reading": 6,
+       "caption": "Brick on its thin edge: 6 newtons"
+      }
+     ]
     },
     {
      "t": "mcq",
@@ -1500,7 +1536,8 @@
      ],
      "a": 1,
      "why": "Each page grips only a tiny bit. But hundreds of tiny grips add up. Pulling also squeezes the pages tighter, which adds more friction. Picking glue or magnets usually means the child expects a hidden force. The surprise is that ordinary friction, added up many times, is enough.",
-     "context": "In the Books That Won't Let Go experiment, you lay the pages of two notebooks over each other. You take one page from each book in turn, like shuffling cards."
+     "context": "In the Books That Won't Let Go experiment, you lay the pages of two notebooks over each other. You take one page from each book in turn, like shuffling cards.",
+     "how": "e2"
     },
     {
      "t": "mcq",
@@ -1611,7 +1648,8 @@
         "emoji": "🌍"
        }
       ]
-     }
+     },
+     "how": "a6"
     },
     {
      "t": "write",
@@ -1743,7 +1781,8 @@
        "Grips more",
        "Is heavier"
       ],
-      "a": 1
+      "a": 1,
+      "why": "The bar shows how high the board's end was when the shoe started to slide. A shoe that grips well stays put on a steeper board, so its bar is taller. Picking 'grips less' usually means thinking 'higher number means more slipping'."
      },
      "chart": {
       "type": "bar",
@@ -1821,7 +1860,30 @@
       "emoji": "🧦"
      }
     ]
-   }
+   },
+   "setup": [
+    {
+     "scene": "ramp",
+     "object": "shoe",
+     "height": 0,
+     "caption": "1. Put a shoe at the top end of a flat board."
+    },
+    {
+     "scene": "ramp",
+     "object": "shoe",
+     "height": 6,
+     "lift": true,
+     "caption": "2. Lift that end slowly, a little at a time."
+    },
+    {
+     "scene": "ramp",
+     "object": "shoe",
+     "height": 12,
+     "ruler": true,
+     "slide": true,
+     "caption": "3. The moment it slides, stop. Measure how high the end is."
+    }
+   ]
   },
   {
    "id": "e2",
@@ -1914,7 +1976,21 @@
       "Impossible"
      ]
     ]
-   }
+   },
+   "setup": [
+    {
+     "art": "Two thin notebooks lying on a table with their spines pointing outwards and their open edges overlapping.",
+     "caption": "1. Put two notebooks with their open edges overlapping."
+    },
+    {
+     "art": "Hands laying the pages of two notebooks over each other one at a time, like shuffling cards.",
+     "caption": "2. Lay one page from each book in turn, like shuffling cards."
+    },
+    {
+     "art": "Two children pulling the two notebooks apart from their spines, faces straining, the books holding together.",
+     "caption": "3. Hold each spine and pull. Try 10 pages, then 30, then all."
+    }
+   ]
   },
   {
    "id": "e3",
@@ -2009,7 +2085,8 @@
        "Just-damp sand",
        "Soaked sand"
       ],
-      "a": 1
+      "a": 1,
+      "why": "Damp sand sticks together into a firm path, so the box rides on top. Dry sand is loose and piles up in front of the box. Soaked sand turns to mud and the box sinks in. Just-damp sand needs the smallest pull. Picking soaked sand usually means thinking 'more water is always more slippery'."
      }
     },
     {
@@ -2053,7 +2130,27 @@
       "emoji": "🌊"
      }
     ]
-   }
+   },
+   "setup": [
+    {
+     "scene": "pull",
+     "object": "box",
+     "surface": "sand",
+     "reading": 6,
+     "caption": "1. Pull the loaded box across dry sand. Read the forcemeter."
+    },
+    {
+     "art": "A spoon sprinkling water onto a tray of sand so it turns just a little darker, not muddy.",
+     "caption": "2. Sprinkle water, one spoon at a time, until the sand just darkens."
+    },
+    {
+     "scene": "pull",
+     "object": "box",
+     "surface": "sand",
+     "reading": 3,
+     "caption": "3. Pull again on the damp sand. Then try soaked sand."
+    }
+   ]
   }
  ],
  "activities": [
@@ -2104,7 +2201,21 @@
      "think": "Did someone design these things on purpose? Who might it have been?"
     }
    ],
-   "context": "This is a hunt around your home and street. You look for places where friction helps, or where people made it smaller on purpose."
+   "context": "This is a hunt around your home and street. You look for places where friction helps, or where people made it smaller on purpose.",
+   "setup": [
+    {
+     "art": "A child with a magnifying glass looking closely at the zigzag tread on the bottom of a chappal.",
+     "caption": "1. Look for grooves, rubber and rough patches."
+    },
+    {
+     "art": "An oil can next to a door hinge and an oily bicycle chain.",
+     "caption": "2. Look for oil, wheels and smooth polish."
+    },
+    {
+     "art": "A child ticking boxes on a clipboard list marked with a shoe and a wheel symbol, no words.",
+     "caption": "3. Tick each place: grip or slip?"
+    }
+   ]
   },
   {
    "id": "a2",
@@ -2149,7 +2260,8 @@
        "The paper was already warm",
        "The eraser keeps heat inside it"
       ],
-      "a": 0
+      "a": 0,
+      "why": "When two things rub, their atoms tug and snap free again and again. Each snap leaves the atoms jiggling a little faster. Jiggling atoms are what heat is. So rubbing turns movement into warmth."
      }
     },
     {
@@ -2162,7 +2274,21 @@
      "think": "Long ago, somebody was the first person to make fire by rubbing. Nobody knows their name. What do you think they were like?"
     }
    ],
-   "context": "This activity lets you feel friction making heat, using only your hands, an eraser and some paper."
+   "context": "This activity lets you feel friction making heat, using only your hands, an eraser and some paper.",
+   "setup": [
+    {
+     "art": "Two hands rubbing together fast with small warm glow lines.",
+     "caption": "1. Rub your hands 10, 20, then 30 times. Touch your cheek."
+    },
+    {
+     "art": "A pencil eraser being rubbed hard on paper.",
+     "caption": "2. Rub an eraser hard on paper. Touch the paper."
+    },
+    {
+     "art": "A grown-up's hands striking a match safely while a child watches from a distance.",
+     "caption": "3. A grown-up strikes a match while you watch."
+    }
+   ]
   },
   {
    "id": "a3",
@@ -2210,7 +2336,21 @@
      "parent": "With no friction you truly could not walk, because your feet would slip instead of pushing off. Food would slide out of your hands. A rolling roti would never stop until it hit something."
     }
    ],
-   "context": "This is a short play. You act out cooking and eating dinner in a kitchen where friction has vanished."
+   "context": "This is a short play. You act out cooking and eating dinner in a kitchen where friction has vanished.",
+   "setup": [
+    {
+     "art": "Children choosing roles for a kitchen play: a cook with a ladle, a child holding a pretend roti, a child as a laddoo.",
+     "caption": "1. Choose your roles."
+    },
+    {
+     "art": "Children acting out a kitchen where everything slides: a ladle slipping, a roti rolling away, everyone in funny poses.",
+     "caption": "2. Act out cooking with no friction."
+    },
+    {
+     "art": "Children sitting in a circle talking and pointing, after the play.",
+     "caption": "3. Talk: which parts would really happen?"
+    }
+   ]
   },
   {
    "id": "a4",
@@ -2273,11 +2413,26 @@
        "It melts in the sun",
        "The rubber gets squashed flat"
       ],
-      "a": 0
+      "a": 0,
+      "why": "Every step rubs the sole against the ground. Friction tears off tiny bits of rubber each time, too small to see. After thousands of steps, those tiny bits add up, and the sole wears smooth."
      }
     }
    ],
-   "context": "In this activity you test which cloth stops a sliding steel tumbler fastest. You also slide in socks, and look at the marks friction leaves on an old shoe."
+   "context": "In this activity you test which cloth stops a sliding steel tumbler fastest. You also slide in socks, and look at the marks friction leaves on an old shoe.",
+   "setup": [
+    {
+     "art": "A steel tumbler being tapped with one finger across three different kitchen cloths laid side by side.",
+     "caption": "1. Tap a tumbler across each cloth. Which stops it fastest?"
+    },
+    {
+     "art": "A child sliding in socks on a shiny tiled floor next to a carpet.",
+     "caption": "2. Slide in socks on tiles, then try on a mat."
+    },
+    {
+     "art": "The bottom of an old shoe with smooth worn patches at the heel and toe.",
+     "caption": "3. Look at an old sole. Where is it worn smooth?"
+    }
+   ]
   },
   {
    "id": "a5",
@@ -2333,12 +2488,27 @@
        "Tiny hooks on every surface",
        "Only gravity"
       ],
-      "a": 0
+      "a": 0,
+      "why": "Zoom right in and every surface is made of atoms. The atoms of two touching surfaces pull and push on each other with electric force. That pulling is the grip we call friction. There are no tiny hooks; the 'bumps' are atoms holding on."
      },
      "think": "The force that holds you up off the floor and the force that grips your shoe are the same kind. What else might be secretly electric?"
     }
    ],
-   "context": "This activity uses two thin fridge magnets. Sliding them over each other gives you a hand-sized model of how atoms grab and let go when surfaces slide."
+   "context": "This activity uses two thin fridge magnets. Sliding them over each other gives you a hand-sized model of how atoms grab and let go when surfaces slide.",
+   "setup": [
+    {
+     "art": "Two flat flexible fridge magnets held face to face between a child's fingers, one sliding over the other.",
+     "caption": "1. Put the black sides of two fridge magnets together."
+    },
+    {
+     "art": "A close-up of one magnet sheet sliding over another with small click marks.",
+     "caption": "2. Slide one over the other. Feel the clicks."
+    },
+    {
+     "art": "Two rows of tiny balls (atoms) on two surfaces, linked by short lines, some lines breaking.",
+     "caption": "3. Real atoms grab and let go like this, but far smaller."
+    }
+   ]
   },
   {
    "id": "a6",
@@ -2384,7 +2554,8 @@
        "About 30 hours",
        "Exactly 24 hours, the same as now"
       ],
-      "a": 0
+      "a": 0,
+      "why": "Tides rubbing the sea floor are slowly slowing the Earth's spin, so days were shorter long ago. Very old corals grew one thin line each day. 400 million years ago they grew about 400 lines a year. 400 days in a year means each day was only about 22 hours."
      }
     },
     {
@@ -2414,7 +2585,21 @@
      }
     }
    ],
-   "context": "This is a play where a child acts as the spinning Earth and a grown-up acts as the Moon. It shows how friction from the sea slowly slows the Earth and pushes the Moon away."
+   "context": "This is a play where a child acts as the spinning Earth and a grown-up acts as the Moon. It shows how friction from the sea slowly slows the Earth and pushes the Moon away.",
+   "setup": [
+    {
+     "art": "A child turning slowly on the spot with a blue dupatta around the waist like an ocean.",
+     "caption": "1. You are the Earth. Turn slowly."
+    },
+    {
+     "art": "A grown-up walking slowly in a big circle around the child, holding the other end of the dupatta.",
+     "caption": "2. A grown-up is the Moon, holding the ocean."
+    },
+    {
+     "art": "The grown-up taking a small step further out from the spinning child.",
+     "caption": "3. Each time round, the Moon steps a little further away."
+    }
+   ]
   }
  ],
  "projects": [
@@ -2503,7 +2688,8 @@
        "The same as the plain sock",
        "Less grippy, because the number is bigger"
       ],
-      "a": 0
+      "a": 0,
+      "why": "The grip sock stayed on until 9 cm. The plain sock slid at 3 cm. 9 divided by 3 is 3. So the grip sock held on until the board was 3 times as high. A bigger number here means better grip, not worse."
      },
      "chart": {
       "type": "bar",
@@ -2533,7 +2719,28 @@
      "think": "When you design for someone else, what do they need that you don't?"
     }
    ],
-   "context": "In this 3-day project, you paint grip dots on old socks so they don't slip. Then you test them with the slope test: a board you lift at one end until the sock slides."
+   "context": "In this 3-day project, you paint grip dots on old socks so they don't slip. Then you test them with the slope test: a board you lift at one end until the sock slides.",
+   "setup": [
+    {
+     "scene": "ramp",
+     "object": "sock",
+     "height": 3,
+     "ruler": true,
+     "slide": true,
+     "caption": "1. Test a plain sock on the board. It slides at about 3 cm."
+    },
+    {
+     "art": "A child painting rows of puffy dots on the sole of a sock laid flat on newspaper.",
+     "caption": "2. Paint grip dots on the sole. Let them dry for a day."
+    },
+    {
+     "scene": "ramp",
+     "object": "sock",
+     "height": 9,
+     "ruler": true,
+     "caption": "3. Test again. The grip sock stays on until about 9 cm."
+    }
+   ]
   }
  ],
  "challenges": [
@@ -2596,7 +2803,25 @@
      "think": "Long ago, people moved giant stones with sledges, rollers and ramps. Every machine with wheels is a way of beating friction."
     }
    ],
-   "context": "This is an engineering challenge. You must move a heavy box of books using as little pull as possible, by beating friction."
+   "context": "This is an engineering challenge. You must move a heavy box of books using as little pull as possible, by beating friction.",
+   "setup": [
+    {
+     "scene": "pull",
+     "object": "box",
+     "reading": 9,
+     "caption": "1. Measure the pull to move the box with nothing under it."
+    },
+    {
+     "art": "A cardboard box full of books resting on four round pencils used as rollers on a tiled floor.",
+     "caption": "2. Try round pencils or a rolling pin under the box as rollers."
+    },
+    {
+     "scene": "pull",
+     "object": "box",
+     "reading": 3,
+     "caption": "3. Measure again. Which idea needs the smallest pull?"
+    }
+   ]
   },
   {
    "id": "c2",
@@ -2645,7 +2870,8 @@
        "They make the sole softer",
        "They make the shoe heavier, so it presses down more"
       ],
-      "a": 0
+      "a": 0,
+      "why": "On a wet step, a thin layer of water sits between the sole and the stone, like oil. The rubber can't grip through it. Grooves give the water somewhere to go. Then the rubber can touch the stone and grip."
      }
     },
     {
@@ -2665,7 +2891,21 @@
      "think": "Nature had millions of years to design feet. What else could we learn from it?"
     }
    ],
-   "context": "This is a design challenge. You design a sandal sole that will not slip on wet, mossy river steps."
+   "context": "This is a design challenge. You design a sandal sole that will not slip on wet, mossy river steps.",
+   "setup": [
+    {
+     "art": "Several chappals and shoes turned upside down showing different tread patterns.",
+     "caption": "1. Turn over chappals and shoes. Compare the soles."
+    },
+    {
+     "art": "Water drops sitting on a smooth tile next to a chappal.",
+     "caption": "2. Wet steps are slippery because water sits under the sole."
+    },
+    {
+     "art": "An old chappal with rubber bands wrapped around it, pressed onto a wet tile.",
+     "caption": "3. Wrap rubber bands round an old chappal and test it on a wet tile."
+    }
+   ]
   }
  ],
  "videos": [
@@ -2744,7 +2984,8 @@
    "a": 0,
    "why": "In a fair test, you change only one thing. Then you know that one thing caused the difference. Picking 'the shoe and the slope' usually means wanting to test more at once. Then you can't tell which change mattered.",
    "outcome": 1,
-   "context": "In the slope test, you put a shoe on a board and lift one end until the shoe slides."
+   "context": "In the slope test, you put a shoe on a board and lift one end until the shoe slides.",
+   "how": "e1"
   },
   {
    "t": "mcq",
@@ -2758,24 +2999,20 @@
    "why": "Shoe B needed a bigger pull, 6 newtons instead of 3. So it has more friction. Picking A usually means a small number was read as a strong grip. Here, the number is how hard you had to pull, so bigger means more friction.",
    "outcome": 2,
    "context": "A forcemeter is a tool with a spring inside. It shows how hard you are pulling, in units called newtons.",
-   "chart": {
-    "type": "bar",
-    "title": "Pull needed to drag each shoe",
-    "x": "Shoe",
-    "y": "Pull needed (newtons)",
-    "data": [
-     {
-      "label": "Shoe A",
-      "value": 3,
-      "emoji": "👟"
-     },
-     {
-      "label": "Shoe B",
-      "value": 6,
-      "emoji": "👞"
-     }
-    ]
-   }
+   "show": [
+    {
+     "scene": "pull",
+     "object": "shoe",
+     "reading": 3,
+     "caption": "Shoe A: 3 newtons"
+    },
+    {
+     "scene": "pull",
+     "object": "shoe",
+     "reading": 6,
+     "caption": "Shoe B: 6 newtons"
+    }
+   ]
   },
   {
    "t": "mcq",
@@ -2816,7 +3053,8 @@
       "emoji": "🧦"
      }
     ]
-   }
+   },
+   "how": "e1"
   },
   {
    "t": "mcq",
@@ -2943,7 +3181,8 @@
       "emoji": "🌍"
      }
     ]
-   }
+   },
+   "how": "a6"
   }
  ],
  "applications": [
@@ -3154,7 +3393,8 @@
       "emoji": "🧦"
      }
     ]
-   }
+   },
+   "how": "e1"
   },
   {
    "problem": "Look at the forcemeter in the picture. The big numbers are whole newtons. Each small mark between them is half a newton. What is the reading?",
@@ -3206,7 +3446,8 @@
       "emoji": "🥿"
      }
     ]
-   }
+   },
+   "how": "e1"
   },
   {
    "problem": "Two notebooks have 40 pages each. You lay all their pages over each other, one from each book in turn. How many places are there where one page touches the next?",
@@ -3243,7 +3484,8 @@
       "79"
      ]
     ]
-   }
+   },
+   "how": "e2"
   },
   {
    "problem": "The Moon moves about 4 cm further from Earth every year. About how far will it move in 80 years, a long human lifetime? Give your answer in metres and centimetres.",
@@ -3278,7 +3520,8 @@
       "value": 320
      }
     ]
-   }
+   },
+   "how": "a6"
   }
  ],
  "song": {

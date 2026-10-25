@@ -645,6 +645,12 @@ dialog.sheet .fxfab{bottom:calc(env(safe-area-inset-bottom,0px) + 20px)}
 .fxsec p{font:600 17px/1.5 var(--display)!important}.fxchd{display:block;font:700 12px var(--body);color:var(--tangD);letter-spacing:.04em}
 .fxsheet{background:#fff;border-radius:14px;padding:8px;overflow-x:auto}.fxsheet pre{white-space:pre-wrap;font-size:12px}
 .fxexp{width:100%;max-height:62dvh;border-radius:18px;background:#000}
+.fxsetup{display:grid;gap:6px}.fxsetrow{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;margin:0 -20px;padding:2px 20px 6px;scrollbar-width:none}
+.fxsetrow figure{flex:0 0 78%;margin:0;scroll-snap-align:start;background:var(--surface);border-radius:16px;padding:10px;box-shadow:var(--lift);display:grid;gap:6px}
+.fxsetup.small .fxsetrow figure{flex-basis:62%}.fxsetrow svg{width:100%;height:auto;display:block}.fxsetrow .fximg,.fxsetrow .fxph{border-radius:12px;max-height:none}
+.fxsetrow figcaption{font:700 15px/1.35 var(--body)}
+.fxrefn{background:color-mix(in srgb,var(--sun) 30%,var(--surface));border-radius:12px;padding:9px 12px;font:700 15px var(--body)!important}.fxrefn.ok{background:color-mix(in srgb,var(--good) 18%,var(--surface))}
+.fxref{display:grid;gap:8px}.fxref .fxask{background:var(--sunk)}
 
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}</style>
@@ -677,9 +683,9 @@ dialog.sheet .fxfab{bottom:calc(env(safe-area-inset-bottom,0px) + 20px)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 
-<script>window.DK_BUILD="175b9d8aece46b"</script>
-<script src="/config.js?v=175b9d8aece46b"></script>
+<script>window.DK_BUILD="327e8e605c27bf"</script>
+<script src="/config.js?v=327e8e605c27bf"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=175b9d8aece46b"></script>
+<script src="/platform.js?v=327e8e605c27bf"></script>
 </body>
 </html>

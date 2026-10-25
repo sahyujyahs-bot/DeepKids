@@ -47,6 +47,7 @@ def check(path):
             if st.get("check"):
                 c = st["check"]
                 if c.get("t") == "mcq" and not (isinstance(c.get("a"), int) and 0 <= c["a"] < len(c.get("options", []))): P(f"{owner} step {st.get('id')}: check answer out of range")
+                if not c.get("why"): P(f"{owner} step {st.get('id')}: check needs `why`, the explanation shown after any answer")
     for k in FLOW + ("worksheets",):
         for x in u.get(k, []):
             if x.get("id") in ids: P(f"duplicate id {x.get('id')}")
@@ -61,6 +62,22 @@ def check(path):
             if k == "experiments":
                 for f_ in ("question", "predict", "fair_test", "results_table"):
                     if not x.get(f_): P(f"experiment {x.get('id')}: needs {f_}")
+    # visuals follow the reader's need (WRITING.md "Visuals"): every hands-on flow shows how it's done
+    for k in FLOW:
+        for x in u.get(k, []):
+            if len(x.get("setup", [])) < 2: P(f"{x.get('id')}: needs a `setup` of 2+ step pictures showing how it's done")
+            for st in x.get("setup", []):
+                if not st.get("caption") or not (st.get("scene") in ("ramp", "pull") or st.get("art")): P(f"{x.get('id')}: each setup step needs a caption and a scene (ramp/pull) or an art brief")
+    flow_ids = {x.get("id") for k in FLOW for x in u.get(k, [])}
+    def visual_rules(owner, it):
+        if it.get("how") and it["how"] not in flow_ids: P(f"{owner}: how points at unknown id {it['how']}")
+        ch = it.get("chart") or it.get("answer_chart")
+        if ch and ch.get("type") in ("bar", "line", "table") and not it.get("how") and not it.get("show"):
+            P(f"{owner}: a results chart needs `how` (the experiment it comes from) or `show` (drawn scenes) so the reader sees how the numbers were made")
+    for ws in u["worksheets"]:
+        for i, it in enumerate(ws.get("items", [])): visual_rules(f"worksheet {ws.get('id')} item {i + 1}", it)
+    for i, it in enumerate(u["quiz"]): visual_rules(f"quiz item {i + 1}", it)
+    for i, m in enumerate(u["maths"]): visual_rules(f"maths {i + 1}", m)
     for c in u["challenges"]:
         steps(f"challenge {c.get('id')}", c.get("flow"))
         if not c.get("general") or not c.get("creative") or not c.get("your_turn"): P(f"challenge {c.get('id')}: needs general, creative and your_turn")

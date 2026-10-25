@@ -42,14 +42,27 @@ If either of them has to stop and work out what we meant, we have failed. Depth 
 
 ## Visuals
 
-Every card should have something to look at: an illustration, a chart, a table or a drawn instrument. Use a `chart` wherever numbers appear.
+Every card should have something to look at. **Choose the visual by asking: what does the reader need to see to understand this card?** Never because numbers appear.
+
+| The card is about… | Show |
+|---|---|
+| Doing something (an experiment, an activity, a step) | A **step picture**: the setup, drawn, in order. "Put the shoe on the board. Lift one end. Measure the height." |
+| A question about an experiment or activity | That experiment's step pictures **first** (set `how` to its id), then the question |
+| Reading an instrument | A drawing of the instrument (a `scale`) |
+| Comparing results the reader already understands | A chart, after the step pictures |
+| An idea you can't see (atoms, tides) | A zoom-in illustration or the explainer video |
+
+**Never put a chart where the reader needs to know what was done.** A bar chart of slope heights means nothing to someone who has not seen a shoe on a lifted board.
 
 ```jsonc
-{"type": "bar",   "title": "How high the slope went before each shoe slid", "x": "Shoe", "y": "Height (cm)",
- "data": [{"label": "Rubber chappal", "value": 14, "emoji": "🩴"}, {"label": "Sock", "value": 4, "emoji": "🧦"}]}
-{"type": "line",  "title": "...", "x": "Time (seconds)", "y": "Pull (newtons)", "data": [{"label": "0", "value": 0}, {"label": "1", "value": 5}]}
-{"type": "pie",   "title": "...", "data": [{"label": "Lost to friction", "value": 23}, {"label": "Everything else", "value": 77}]}
-{"type": "table", "title": "...", "cols": ["Shoe", "Try 1", "Try 2"], "rows": [["Chappal", "14", "13"]]}
-{"type": "scale", "title": "A forcemeter", "min": 0, "max": 10, "step": 0.5, "value": 5, "unit": "N"}
+// step pictures for an experiment (drawn by the app); scene: "ramp" (board lifted on books, ruler) or "pull" (object pulled with a forcemeter)
+"setup": [{"scene": "ramp", "object": "shoe", "height": 0, "caption": "1. Put a shoe on a flat board."},
+          {"scene": "ramp", "object": "shoe", "height": 6, "lift": true, "caption": "2. Lift one end slowly."},
+          {"scene": "ramp", "object": "shoe", "height": 12, "ruler": true, "slide": true, "caption": "3. When the shoe slides, measure the height."}]
+// any other step: {"art": "one-sentence picture description", "caption": "..."} (an illustration is made from the art brief)
+// on a question about that experiment:  "how": "e1"
+// charts (only to compare results, or for a graph question):
+{"type": "bar",   "title": "...", "x": "Shoe", "y": "Height (cm)", "data": [{"label": "Rubber chappal", "value": 14, "emoji": "🩴"}]}
+{"type": "line" | "pie" | "table" | "scale", ...}
 ```
-Where a chart can go: `chart` (shown with the question or the explanation) and `answer_chart` (shown with the answer) on explanations, agreed items, maths problems, worksheet and quiz items, flow steps and experiments (`example_chart` for made-up sample results).
+Where visuals go: `setup` on every experiment, activity, project and challenge; `how` on any question, maths problem or step that refers to one; `chart` / `answer_chart` / `example_chart` only as the table above allows.
