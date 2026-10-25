@@ -1,0 +1,15 @@
+const { chromium } = require('/opt/node-tools/node_modules/playwright');
+(async()=>{const SP=process.argv[2];const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
+const ctx=await b.newContext({viewport:{width:400,height:860}});const p=await ctx.newPage();const errs=[];p.on('pageerror',e=>errs.push(e.message));
+await p.goto('http://127.0.0.1:8765/app_prev.html');await p.waitForTimeout(500);await p.fill('#lgPhone','98765 43210');await p.fill('#lgName','S');await p.click('[data-act="login"]');await p.waitForTimeout(500);
+await p.fill('#obName','Liri');await p.click('[data-age="8"]');await p.click('[data-ob="next"]');await p.click('[data-b="ncert"]');for(let i=0;i<4;i++)await p.click('[data-ob="next"]');await p.waitForTimeout(400);
+await p.evaluate(async()=>await fxOpen('sci.forces.friction.L3'));await p.waitForTimeout(300);
+const i=await p.evaluate(()=>FXALL.sections.findIndex(s=>s.id==='g1'));await p.evaluate(i=>fxGo(i,0),i);await p.waitForTimeout(200);
+await p.evaluate(()=>document.querySelector('.fxc[data-key="step.g1.s2"]').scrollIntoView());await p.waitForTimeout(300);
+await p.click('.fxc[data-key="step.g1.s2"] .fxopt[data-i="1"]');await p.waitForTimeout(300);await p.screenshot({path:SP+'/f69_wrong.png'});
+await p.click('.fxx');await p.waitForTimeout(200);await p.click('.fxx');await p.waitForTimeout(300);
+await p.click('#nav button:has-text("Plan")');await p.waitForTimeout(300);await p.click('[data-act="seg"][data-v="refresh"]');await p.waitForTimeout(300);
+await p.evaluate(()=>document.querySelector('.fxref details')?.setAttribute('open',''));await p.screenshot({path:SP+'/f69_plan.png'});
+await p.click('[data-act="fxpractise"]');await p.waitForTimeout(300);await p.click('#fxDlg .fxopt[data-i="0"]');await p.waitForTimeout(300);await p.screenshot({path:SP+'/f69_practise.png'});
+console.log('left on list:',await p.evaluate(()=>(S.fx.ref['sci.forces.friction.L3']||[]).length));
+console.log('errors:',errs);await b.close()})();

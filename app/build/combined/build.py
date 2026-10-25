@@ -4,7 +4,7 @@
   ('k') or, until that is written, the board chapters at that class that teach the topic ('use').
 Run after make_data.py: python3 app/build/combined/build.py
 """
-import json, os, glob, sys
+import json, os, glob, sys, hashlib
 HERE = os.path.dirname(os.path.abspath(__file__)); BUILD = os.path.dirname(HERE); APP = os.path.dirname(BUILD)
 sys.path.insert(0, BUILD)
 from validate_pack import check
@@ -54,13 +54,18 @@ CUR = json.load(open(os.path.join(APP, 'content', 'curriculum', 'sci.json')))
 TL = {s: t for t in CUR['topic_levels'] for s in t['subtopic_levels']}
 SUB = {x['id']: x for x in CUR['subtopic_levels']}
 data['units'] = {}
+import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
     if f.endswith('.art.json'): continue
     u = json.load(open(f)); t = TL.get(u['id'])
     if not t: print('unit not in the curriculum:', u['id']); continue
     art = f[:-5] + '.art.json'
     if os.path.exists(art): u['img'] = json.load(open(art))
-    data['units'][u['id']] = u
+    # the full unit is its own file (app/units/<id>.json, loaded when opened); data.json keeps a small index entry
+    os.makedirs(os.path.join(APP, 'units'), exist_ok=True)
+    json.dump(u, open(os.path.join(APP, 'units', u['id'] + '.json'), 'w'), ensure_ascii=False, separators=(",", ":"))
+    data['units'][u['id']] = {"id": u['id'], "title": u['title'], "summary": {"text": u['summary']['text']}, "song": u.get('song', {}),
+                              "img": {"summary": (u.get('img') or {}).get('summary', '')}, "v": hashlib.md5(json.dumps(u, sort_keys=True).encode()).hexdigest()[:10]}
     ref = {"id": u['id'], "title": u['title']}
     # 1. the unit is a lesson like any other: search, browse and related links find it through data['items']
     sub = SUB.get(u['id'], {})

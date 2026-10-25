@@ -53,6 +53,10 @@ shutil.copy(os.path.join(WEB, 'src/platform.js'), os.path.join(PUB, 'platform.js
 # lesson media (explainer videos) are served as files next to the app
 MED = os.path.join(os.path.dirname(WEB), 'app', 'content', 'media')
 if os.path.isdir(MED): shutil.copytree(MED, os.path.join(PUB, 'media'), dirs_exist_ok=True)
+# subtopic units load one file each when opened
+UNITS = os.path.join(os.path.dirname(WEB), 'app', 'units')
+shutil.rmtree(os.path.join(PUB, 'units'), ignore_errors=True)
+if os.path.isdir(UNITS): shutil.copytree(UNITS, os.path.join(PUB, 'units'))
 open(os.path.join(PUB, 'sw.js'), 'w').write(open(os.path.join(WEB, 'src/sw.js')).read().replace('__BUILD__', build))
 
 cfg = os.path.join(PUB, 'config.js')
