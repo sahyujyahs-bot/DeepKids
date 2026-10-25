@@ -3,7 +3,7 @@
 
 **Summary.** This unit is about stretching and springing back. Some things, like a rubber band or a spring, change shape when you pull or squash them. Then they go back to their old shape when you let go. Scientists call this being elastic. The harder you pull a spring, the further it stretches. But stretch anything too far and it stays stretched, or it snaps. A stretched or squashed thing also stores energy, ready to fling a stone, wind a watch or bounce a ball. Deep down, things spring back because their atoms are held together by tiny electric pulls that act like springs. The same idea reaches out to your own tendons and to earthquakes. It even reaches space itself, which stretches and squeezes as gravitational waves pass.
 
-**Intro.** *Take a rubber band. Stretch it a little and let go. Now take a strip of plastic from an old carry bag. Stretch that a little and let go. One of them came back. One of them did not. Why?* In the hills of Meghalaya, in north-east India, there are bridges that are alive. The Khasi and Jaintia people grow them from the roots of the rubber fig tree. When a crowd walks across, the bridge dips and sways. When they step off, it springs back to its old shape. The roots stretch, and then they come back. A plank of dry wood cannot do that. This unit is about that coming back. Scientists call it being elastic.
+**Intro.** *Take a rubber band. Stretch it a little and let go. Now take a strip of plastic from an old carry bag. Stretch that a little and let go. One of them came back. One of them did not. Why?* In Kerala, rubber begins as a white milk that drips from the bark of rubber trees. Farmers dry it into sheets. Before selling a sheet, they pull one corner. A good sheet stretches and slides back flat. A sheet that stretches and stays stretched is old and close to tearing. Why does a thing that stops coming back matter so much? This unit is about stretching and coming back. Scientists call it being elastic.
 
 ## Learning outcomes
 0. I can say what elastic means: a thing changes shape when pushed or pulled, and goes back when you let go. I can name elastic things at home.
@@ -100,7 +100,7 @@ When you run, the tendon at the back of your ankle stretches as you land. It spr
 ### Bend, don't break: why springy things survive · *defined*
 **Definition:** A thing that can bend and spring back can take a sudden heavy push without breaking. A stiff, brittle thing may snap instead.
 
-When a heavy load suddenly lands on something, its energy has to go somewhere. A springy thing bends, stores the energy for a moment, then gives it back. A stiff, brittle thing cannot bend, so the force builds up until it cracks. That is why bamboo bends in a storm instead of snapping. In Meghalaya, the Khasi and Jaintia people grow living bridges from the roots of the rubber fig tree. The roots are guided across a stream over many years, often along a hollow trunk of an areca palm. The bridge sways and springs back when people cross. Living roots also grow thicker where they carry most load. Tall buildings are designed to sway a little in strong winds, for the same reason.
+When a heavy load suddenly lands on something, its energy has to go somewhere. A springy thing bends, stores the energy for a moment, then gives it back. A stiff, brittle thing cannot bend, so the force builds up until it cracks. That is why bamboo bends in a storm instead of snapping. A green mango branch bends under a swing and springs back. Bent past its limit, it stays bent, and that is the warning that it may break. Tall buildings are designed to sway a little in strong winds, for the same reason.
 - e.g. A coconut palm bends far over in a cyclone and often stands up again.
 - e.g. A car's springs bend over a bump, so the car does not crack.
 ### The Earth is springy: earthquakes and a ringing planet · *defined*
@@ -145,9 +145,9 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
 - **Cold would not matter to the rubber seals on the space shuttle Challenger.** (Managers at NASA and at the company that made the rockets, in January 1986; *rejected*)  
   For: The seals had worked on earlier flights. The managers were under pressure to launch on time.  
   Against: An engineer called Roger Boisjoly warned the night before that cold rubber goes stiff and springs back too slowly. The launch went ahead on a freezing morning. A seal failed, and the shuttle broke apart. The seven astronauts on board died. Later, the scientist Richard Feynman dipped a piece of the seal rubber in iced water during the inquiry. It stayed squashed instead of springing back.
-- **The living root bridges of Meghalaya are 500 years old.** (Many travel websites; *debated*)  
-  For: Some bridges are very old, and people in the villages remember them from their grandparents' time.  
-  Against: Nobody has measured the ages carefully. Living roots keep growing and replacing old parts, so a bridge's age is hard to tell. Scientists who have studied them say the claims are not checked.
+- **A branch that is bending is about to break.** (A common worry; *rejected*)  
+  For: Branches do break when they are bent too far.  
+  Against: Bending by itself is safe. A green branch bends in every breeze and springs back. The warning sign is a branch that bends and does not come all the way back. That means it has passed its elastic limit. Engineers watch for this same sign in cranes and bridges.
 
 ## Deep and big questions
 - *deep:* Why does a rubber band come back when you let go? How does it 'remember' its shape? (hint: Think of tangled noodles being pulled straight. What happens when you let go of them in a bowl that keeps shaking?)
@@ -160,56 +160,74 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
 - *big:* People in Mexico made bouncy rubber 3,500 years ago, but the books often credit someone else. Why do some inventors get remembered and others get forgotten? (hint: Who wrote the books? Who was allowed to write?)
 - *big:* An engineer warned that cold rubber would not spring back in time, and nobody listened. Why is it hard to listen to someone who says 'stop'? (hint: Think of a time you wanted something to go ahead, and someone warned you.)
 - *deep:* A flea, a kangaroo and you all use springs to jump. Why might living things have ended up so full of springs? (hint: A spring gives back the energy you put in. Why would that help an animal that runs or jumps every day?)
-- *big:* The living root bridges took many years to grow. Who plants something they may never use themselves? Why? (hint: Think of trees planted by your grandparents, or a school built for children not yet born.)
+- *big:* In the story, Ammu spoke up even though the others laughed. Why is it hard to say 'stop' when everyone is having fun? (hint: What did Ammu know that the others did not? What made her brave?)
 
-## Story: The Bridge That Bends
-*Living root bridges are real. The Khasi and Jaintia people of Meghalaya grow them from the aerial roots of the rubber fig tree, often guiding the roots along hollow areca palm trunks. Iba, Kong Rida, Kyrmen, the trader's plank bridge and the storm are made up.*
+## Story: The Tired Branch
+*Rubber tapping in Kerala, smoked rubber sheets and the Onam swing, the oonjal, are real. Ammu, her family, Biju and the mango tree are made up. The warning sign in the story is real physics: a branch or spring that no longer springs all the way back has gone past its elastic limit, and may soon break.*
 
-In the hills of Meghalaya, it rains more than almost anywhere on Earth. In the monsoon, the streams there do not trickle. They roar down the valleys, brown and white, rolling stones as big as goats. Across one of those streams, below a village of orange trees, there was a bridge that was alive.
+In a village near Kottayam, in Kerala, the rubber trees stand in long straight rows, like children lined up for school. Every morning before the sun was up, Ammu's mother walked between them with a lamp on her forehead and a curved knife in her hand. On each tree she shaved a thin spiral strip of bark. Out of the cut crept a white, slow milk, which ran down the spiral into a coconut-shell cup. Latex, her mother called it. Rubber before it knows it is rubber.
 
-It was made of roots. Long ago, somebody had planted a rubber fig tree on each bank. The rubber fig grows roots from its branches, long and thin, hanging down like brown ropes. Year after year, people of the village had led those roots across the water. They laid a hollow trunk of an areca palm over the stream, and pushed the young roots through it, so the roots grew where they were guided. Slowly the roots reached the far bank and dug into the earth. They thickened. They twisted round each other. Now the bridge was as wide as a cot, with railings of root on both sides, and moss growing in its cracks.
+Ammu was ten. Her job came after school. She carried the full cups home, poured the latex into flat trays and helped her mother squeeze it into sheets through the iron rollers in the shed. Then the sheets were hung in the smoke above the fire to dry, brown and shining, like enormous dosas.
 
-Iba was nine, and the bridge was her aunt's job. Kong Rida did not own it. Nobody owned it. But every few days she walked out onto it with a ball of twine, and looked at every root, the way a mother looks at a sleeping baby.
+Before any sheet was sold, her mother tested it. She took one corner between her finger and thumb and pulled. A good sheet stretched, and then, when she let go, slid back flat as if nothing had happened. Once Ammu found an old sheet that had been forgotten in the sun for weeks. When her mother pulled it, it stretched and stayed stretched, a tired little bulge. When she pulled again, it tore.
 
-That summer, Iba was given a root of her own. It hung from the big tree on their side of the stream. It was thin as a pencil, pale at the tip, and it was going to be a new railing. 'Lead it along the trunk,' said Kong Rida. 'Tie it gently. Pull it a little, every week. Never more than a little.'
+'See,' said her mother. 'When it stops coming back, it is close to breaking.'
 
-A little was slow. Iba wanted her railing finished before the rains. So one evening, when nobody was watching, she pulled the root as far as it would go, round the end of the palm trunk, and tied it hard with three knots.
+Ammu said yes, Amma, the way you say yes to things you are not really listening to. It was August, and Onam was coming, and Onam meant the swing.
 
-In the morning, the root had split at the bend. A drop of white sap had dried on it like a tear. Below the split, the root hung loose and dark. It would not grow on.
+Every year the children of the lane hung an oonjal, a festival swing, from the big mango tree at the end of the path. It was a plank seat on two long ropes, decorated with marigolds and mango leaves. This year Biju, who was twelve and the leader of everything, had a plan. 'The low branch is for babies,' he said. 'We'll use the high one. The swing will go up past the roof of the shed.'
 
-Kong Rida looked at it for a long time. 'A root can be pulled a little and come back,' she said. 'Pull it too far, and it does not come back.' She did not scold. That was worse. Iba went and sat under the orange trees and did not speak to anyone until dinner.
+The high branch was thinner. It stuck out over the path like an arm reaching for something. Biju climbed up and knotted the ropes round it, and everyone cheered.
 
-Downstream, there was another bridge. A trader from town had laid it the year before: a long, flat plank of sawn wood, dry and hard, nailed onto two rocks. 'A proper bridge,' he had said. 'It doesn't wobble.' And it didn't. Visitors liked it. On the root bridge, they clutched the railings and squealed, because it dipped under every step and swayed when the wind came down the valley. On the plank, you could walk across with a full basket and never feel it move.
+On the first day, the swing was glorious. When Biju swung, the branch bent down under him like a fishing rod, and lifted him up again, so that every swing had an extra bounce at the bottom. The children shrieked. They queued all afternoon. Ammu had three turns. At the top of each one she could see over the shed and across the whole green sea of rubber trees, and her stomach floated up into her throat.
 
-The storm came at the end of the week. All afternoon the sky turned the colour of a bruise. Then the rain came down so hard that it bounced back up off the stones. Iba's little brother, Kyrmen, had gone across the stream that morning with Bah Lyngdoh, an old neighbour, to pick oranges on the far slope. They were still over there.
+On the second day, the bigger boys started swinging two at a time, standing up, pumping as hard as they could. 'Higher!' they yelled. 'Make it fly!'
 
-By the time the rain eased, the stream was a brown, shouting river. Iba ran down the path with Kong Rida and half the village behind her. From the bank they saw Kyrmen and Bah Lyngdoh on the far side, small and soaked, with a basket of oranges between them. They were walking towards the plank bridge.
+Ammu was waiting her turn when she noticed something. When the two boys jumped off, the swing hung still. And the branch did not go all the way back up.
 
-Then a tree trunk came down the river. It turned slowly in the water like a giant spoon, and it struck the plank. The plank did not bend at all. There was a crack like a gunshot. Then there were two pieces of plank, and then there was nothing, only the brown water where the bridge had been.
+She looked again. In the morning, the swing's plank had hung level with her chin. Now it hung level with her shoulder. The branch had bent and stayed bent, just a little, the way the old rubber sheet had stretched and stayed stretched.
 
-Somebody screamed. Kyrmen stood on the far bank with his hands over his mouth.
+She went cold all over, even in the August heat.
 
-'The root bridge,' said Kong Rida. 'Come up to the root bridge!' She waved her arms until Bah Lyngdoh saw her and nodded.
+'Biju,' she said. 'The branch is tired.'
 
-At the root bridge the water was so high that it licked the underside of the roots. As Iba watched, a second log came racing down and hit the bridge right in the middle. The whole bridge bowed downstream, deep, like a hammock with a man in it. The roots groaned. Iba was sure it would snap like the plank. She grabbed her aunt's arm.
+Biju laughed. Everyone laughed. 'Branches don't get tired,' he said. 'It bounced me all day yesterday.'
 
-But it did not snap. The log scraped under it and was gone. And the bridge swung back. It shivered once, the way a wet dog shakes itself, and then it hung just where it had always hung, dripping.
+'It bounced back yesterday,' said Ammu. 'It isn't bouncing back now. Look at the seat. It's lower.'
 
-'Now,' said Kong Rida. Bah Lyngdoh came first, slowly, with the basket on his back. The bridge sank under each step, and rose again behind him. Halfway across, Kyrmen froze and would not move. Iba did not think about it. She walked out to him.
+'You're scared because you're small,' said one of the boys, and the others made chicken noises. Ammu's face went hot. She wanted to be quiet. Being quiet would have been much easier. But she thought of the old sheet, the tired bulge, and the sound it made when it tore.
 
-She had crossed the bridge a thousand times, but she had never felt it like this. Each time she put her foot down, the roots gave way under her, a little. Then they pushed her up again, gently, as if the bridge were breathing. It did not fight the water. It did not fight her. It gave, and then it came back. She took Kyrmen's cold hand and they walked together, down and up, down and up, all the way to the bank.
+Her little sister Kunju was next in the queue, holding up her arms to be lifted on.
 
-That night, everyone ate oranges, even the peel was licked clean, and the grown-ups talked about the plank until very late. Iba lay awake and listened to the stream.
+'No,' said Ammu, and she pulled Kunju back by her frock, so hard that Kunju began to cry.
 
-In the morning she went to the big tree and found a new root, thin and pale, hanging beside the split one. She led it along the palm trunk. She tied it loosely, with one soft knot, so it had room to pull back. Then she sat down on the bank to wait, which was the hardest part.
+'Fine,' said Biju. 'Then I'll show you.' He climbed onto the plank, stood up, and pumped once, twice, three times, swinging higher than the shed roof.
 
-**For the parent:** For the parent: the stiff plank cannot bend, so when the log hits it, the force builds up until it cracks. The living roots are elastic. They bend, store the energy of the blow for a moment, and spring back. That is why the bridge survives. Iba's own root shows the other half of the idea: every elastic thing has a limit. Pulled a little, it comes back. Pulled too far at once, it splits and does not come back. The story also quietly asks about patience, and about things that belong to everyone and are cared for by everyone.
+On the fourth swing there was a sound like a coconut splitting.
 
-- Ask: Why did the plank bridge break when the log hit it, but the root bridge did not?
-- Ask: What happened to Iba's root when she pulled it too far? What could she have done instead?
-- Ask: How did the root bridge feel under Iba's feet? Why do you think it felt like breathing?
-- Ask: Nobody owned the root bridge, but everyone looked after it. Can you think of something like that near you?
-- Ask: Is it better to be like the plank or like the roots? Are there times when being stiff is good?
+The branch did not snap all at once. It cracked, and sagged, and Biju, at the bottom of the swing, felt the ropes go soft in his hands. He jumped. He landed on his knees in the mud of the path. A second later the whole branch, ropes, marigolds and all, came down with a heavy, leafy crash exactly where Kunju would have been sitting.
+
+Nobody said anything for a long time. A crow, offended, flew off into the rubber trees.
+
+Biju stood up slowly. His knees were muddy and his face was white. He looked at the broken branch, with its pale, splintered end. Then he looked at Ammu.
+
+'How did you know?' he said.
+
+Ammu told him about the sheet. She showed him how the swing had hung lower and lower. 'When something stops coming back,' she said, 'it's near the end.' She didn't say 'I told you.' She didn't need to.
+
+That evening, Ammu's mother walked down the lane and looked at the branch on the ground. She looked at the high stump, and at the low, thick branch that the swing had always hung from before. She did not scold anyone. She only touched Ammu's head on her way home, very lightly.
+
+The next morning, the children hung the swing again, on the low branch. It was not as exciting. It did not go higher than the shed. But after every turn, Ammu watched the seat as the rider jumped off, and every time, the branch lifted it back up to exactly the height of her chin.
+
+On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
+
+**For the parent:** For the parent: a branch, like a rubber band or a spring, is elastic. Pushed a little, it bends and springs all the way back. Pushed past its elastic limit, it bends and stays bent. That small bend that does not come back is the warning. The thing has started to change inside, and it is close to breaking. Ammu spots this because she has seen the same thing in an old rubber sheet. Engineers watch for this sign in bridges, cranes and aeroplane wings. The story also asks how hard it is to speak up when others laugh, and to listen when someone warns us.
+
+- Ask: How did Ammu's mother test a rubber sheet? What did it mean when the sheet stayed stretched?
+- Ask: What did Ammu notice about the swing seat after the big boys jumped off?
+- Ask: Why did the branch break on the second day, but not on the first?
+- Ask: Why was it hard for Ammu to speak up? What helped her?
+- Ask: Have you ever seen something that 'stopped coming back'? A rubber band, a spring or a toy? What happened to it next?
 
 ## Games
 ### g1 · Spring Back, Stay or Snap? (20 min)
@@ -510,10 +528,10 @@ In the morning she went to the big tree and found a new root, thin and pale, han
   - Ask: What happened when the ruler slipped? (good: It sprang back and shook.; It made a twang and wobbled.)
   - Note: The ruler stores energy as it bends. When it slips, the energy is let go all at once, as shaking and sound. Underground rock does the same, and the shaking is an earthquake.
 - **s3 (5 min)**  
-  *Parent does:* Talk about the living root bridges from the story.  
-  *Parent says:* In Meghalaya, living root bridges bend when people cross and spring back. A stiff plank cannot. Which would you trust in a storm?  
-  *Child mode:* Living roots bend and spring back. Dry wood snaps. Which bridge would you cross in a storm?
-  - Check: A big log hits two bridges. Which one is more likely to survive? → **The one that bends and springs back**
+  *Parent does:* Bend the green twig again, a little more each time. Each time, check if it springs all the way back.  
+  *Parent says:* In the story, Ammu saw that the swing branch stopped coming all the way back. Let's watch for that sign on our green twig.  
+  *Child mode:* Bend the green twig a bit more each time. Does it still come all the way back?
+  - Check: A branch bends under a swing. When you get off, it stays a little bent. What does that warn you? → **It has passed its elastic limit and may break soon**
   - Think: Is bending a kind of strength?
 
 ## Projects
@@ -660,12 +678,12 @@ In the morning she went to the big tree and found a new root, thin and pale, han
 6. (mcq) Why does a bamboo tree bend in a storm instead of snapping?  
    Options: It is elastic, so it bends, stores the push, and springs back / It is dead inside / It is very heavy / The wind is weak  
    **Answer:** It is elastic, so it bends, stores the push, and springs back. *Why:* Springy things soak up a sudden push by bending. Picking 'dead inside' is the opposite. Dry, dead wood is the kind that snaps.
-7. (mcq) In the story 'The Bridge That Bends', why did the plank bridge break when the log hit it?  
-   Options: It was stiff and could not bend, so it cracked / It was too long / It was made of roots / Nobody was standing on it  
-   **Answer:** It was stiff and could not bend, so it cracked. *Why:* The stiff plank could not bend to soak up the blow. The living roots bent and sprang back. Picking 'too long' is a guess, but the root bridge was just as long.
-8. (mcq) Iba pulled her young root too far at once, and it split. What idea does this show?  
+7. (mcq) In the story 'The Tired Branch', Ammu saw the swing seat hanging lower after the boys jumped off. What did that tell her?  
+   Options: The branch had passed its elastic limit and might break / The ropes had got longer in the sun / The branch was growing / Nothing important  
+   **Answer:** The branch had passed its elastic limit and might break. *Why:* The branch had bent and stayed bent, so it was no longer springing back. That is the warning sign of the elastic limit. Picking 'the ropes got longer' is a sensible guess, but the branch was what had sagged.
+8. (mcq) Ammu's mother pulls the corner of a rubber sheet. An old sheet stretches and stays stretched. What idea does this show?  
    Options: The elastic limit / Friction / Gravity / Bouncing  
-   **Answer:** The elastic limit. *Why:* Pulled a little, the root comes back. Pulled too far, it passes its limit and does not come back.
+   **Answer:** The elastic limit. *Why:* A good sheet springs back. An old, sun-damaged sheet stays stretched, because it has passed its limit. Soon it tears. Picking 'friction' mixes up rubbing with stretching.
 9. (sort) Sort these by what they store energy in.  
    **Answer:** a catapult → Stretching; a bow → Stretching; a trampoline → Stretching; a pen spring → Squashing; a bouncing ball → Squashing; the rubber band car → Twisting. *Why:* A catapult band, a bow string and trampoline springs are stretched. A pen spring and a ball are squashed. The car's band is twisted round the axle.
 10. (mcq) The rubber band car went 60 cm with 5 winds and 180 cm with 15 winds. Why?  
@@ -730,7 +748,7 @@ In the morning she went to the big tree and found a new root, thin and pale, han
 ## Videos
 - **Slinky drop in slow motion** (Veritasium, 4 min) id `to find`: Shows a stretched spring in slow motion. The bottom of a dropped Slinky stays still in the air until the top crashes into it. It shows that a spring takes time to spring back. *Check:* Veritasium made slinky-drop videos around 2011. The YouTube id is still to find. A parent should check it is the Veritasium video before showing.
 - **LIGO's first gravitational wave, as sound** (LIGO Lab Caltech, 3 min) id `to find`: Plays the 'chirp' of the first gravitational wave, caught in 2015, turned into sound. It helps children feel that space itself was stretched and squeezed. *Check:* LIGO released this sound in February 2016. Id still to find. Check it is from LIGO, Caltech or MIT, not a copy.
-- **The living root bridges of Meghalaya** (to choose: a documentary from a reliable broadcaster, 5 min) id `to find`: Shows the real bridges from the story, grown from rubber fig roots by Khasi and Jaintia communities, and how they bend under walkers. *Check:* Many videos exist. Choose one that credits the Khasi and Jaintia people and does not repeat unchecked claims such as '500 years old'.
+- **Rubber tapping in Kerala: from latex to rubber sheet** (to choose: the Rubber Board of India or a reliable broadcaster, 5 min) id `to find`: Shows the real work from the story: tapping rubber trees, collecting latex, rolling it into sheets and smoking them. *Check:* Many videos exist. Choose one that shows the whole process and the farmers who do it. Check it is from the Rubber Board or a trusted channel.
 
 ## Quiz
 1. (mcq) What does elastic mean?  
@@ -804,6 +822,7 @@ In the morning she went to the big tree and found a new root, thin and pale, han
 - A gulel, the Y-shaped catapult, in a market or toy shop.
 - Bamboo and coconut palms bending in the wind during the monsoon, and standing up again.
 - The elastic in pyjamas and socks, and hair bands of every colour.
+- A living root bridge in Meghalaya, grown from rubber fig roots, swaying and springing back as people cross.
 - Spider webs on a balcony grille, sagging when a fly hits and springing back.
 
 ## Open questions
@@ -812,7 +831,7 @@ In the morning she went to the big tree and found a new root, thin and pale, han
 - **Can we predict when bent rock will slip and cause an earthquake?** Scientists can measure rock slowly bending. But they still cannot say when it will slip.
 - **Why do springs and rubber get 'tired' and crack after being stretched many times?** This is called fatigue. Engineers test it carefully, but exactly when a crack will start is still hard to predict.
 - **How exactly does titin, the giant spring protein in our muscles, work?** Scientists know titin acts like a spring, but how all its parts work together is still being studied.
-- **How old are the oldest living root bridges?** Living roots keep growing and replacing old parts. Nobody has measured the ages carefully.
+- **Can we always see the warning signs before something breaks?** A thing that stays bent is a warning. But tiny cracks can grow inside without showing. Engineers use sound waves and X-rays to look, and still cannot catch everything.
 - **Could there be a perfectly elastic material that gives back all of its energy?** Every real material turns a little energy into heat each time it springs back. Resilin comes close. Nobody knows how close anything can get.
 
 ## Questions to ask kids
@@ -846,7 +865,7 @@ In the morning she went to the big tree and found a new root, thin and pale, han
 - Why did the catapult go to the doctor? *It had a bad case of tension.*
 - What did the flea say after its big jump? *I'm on a spring roll!*
 - Why did the slinky never get lost? *It always found its way down the stairs.*
-- What did the root bridge say in the storm? *I'll bend, but I won't break.*
+- What did the mango branch say after Onam? *I'm feeling a bit swung out.*
 - Why was the elastic band such a good friend? *It always held everyone together.*
 - Why did the chewing gum fail the spring test? *It just couldn't let go of the past.*
 - What does a spring eat for breakfast? *Bounce-flakes.*
@@ -871,7 +890,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [LIGO Lab](https://www.ligo.caltech.edu) · interactive: The home of the instruments that caught the first gravitational wave, with pictures and sounds.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science project ideas, including rubber band and spring projects, for older children.
 - [Rubber Board of India](https://rubberboard.gov.in) · place · Kottayam: The Rubber Board and its research institute are in Kottayam, Kerala, among rubber plantations. Ask about visits, or see rubber tapping on nearby estates.
-- [Meghalaya Tourism: living root bridges](https://www.meghalayatourism.in) · place · Sohra (Cherrapunji), Meghalaya: The living root bridges from the story, near villages such as Nongriat. Walk on one and feel it spring back.
+- [Meghalaya Tourism: living root bridges](https://www.meghalayatourism.in) · place · Sohra (Cherrapunji), Meghalaya: Living root bridges, grown from the stretchy roots of rubber fig trees by Khasi and Jaintia communities, near villages such as Nongriat. Walk on one and feel it sway and spring back.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum full of machines and engines. Look for springs, clocks and shock absorbers.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits about forces and machines.
 - [Inter-University Centre for Astronomy and Astrophysics (IUCAA)](https://www.iucaa.in) · place · Pune: An Indian centre that helped find gravitational waves and is helping build LIGO-India. Look out for its open days and public lectures.
@@ -895,6 +914,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - A bounce is a squash and a ____. → spring back
 - Which tendon at the back of your ankle works like a spring? → The Achilles tendon.
 - A stretched rubber band touched to your forehead feels warm or cold? → Warm.
+- In the story, what warned Ammu that the swing branch would break? → It stayed bent and did not spring all the way back.
 - What happens underground in an earthquake? → Bent rock suddenly slips and springs back.
 - What can stretch and squeeze space itself? → A gravitational wave.
 
@@ -920,5 +940,4 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - Reid, 1910 (elastic rebound theory of earthquakes)
 - Abbott and others (LIGO and Virgo), Physical Review Letters 2016 (first gravitational wave, GW150914)
 - Raman and Kumar, Nature 1920 (musical drums with harmonic overtones)
-- Middleton, Habibi, Shankar and Ludwig, Scientific Reports (living root bridges of Meghalaya)
 - Rogers Commission report, 1986 (Challenger O-rings, Boisjoly's warning, Feynman's ice-water demonstration)

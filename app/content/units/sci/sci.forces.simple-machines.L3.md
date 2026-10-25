@@ -534,7 +534,7 @@ That night, under the stars, the whole village ate together round the fires of U
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* 1. Tie two sticks into an X shape and stand it up, or use the back of a sturdy chair, as the post. 2. Tie the beam onto the top of the post, about one third of the way from one end, so it can rock. 3. Check it rocks up and down freely.  
   *Parent says:* This tie is the pivot. Where should it go? Let's try a third of the way along.  
-  *Child mode:* Make a post. Tie the long stick to the top so it can rock like a see-saw. The tie is the pivot.
+  *Child mode:* Make a post. Tie the long stick on top. It should rock like a see-saw. The tie is the pivot.
 - **s3 (10 min)**  
   *Parent does:* 1. Hang the cup from the long end of the beam. 2. Lift some water with no counterweight. Notice how hard it is to pull up.  
   *Parent says:* Dip the cup in the water and lift it. How hard is it without a counterweight?  
@@ -543,7 +543,7 @@ That night, under the stars, the whole village ate together round the fires of U
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* 1. Hang the bag of stones on the short end. 2. Add or remove stones until a full cup of water rises almost by itself when you let go.  
   *Parent says:* The stone does the lifting. How heavy should it be? Too heavy and you can't dip the cup. Too light and it won't help.  
-  *Child mode:* Hang the bag of stones on the short end. Add stones. Can you find a weight that lifts a full cup almost by itself?
+  *Child mode:* Hang the bag of stones on the short end. Add stones. Find a weight that lifts a full cup by itself.
   - Note: The counterweight on the short end must be heavier than the full cup, because it is closer to the pivot. That is the see-saw rule. When it is right, you only pull down a little to dip the empty cup, and the stones lift the full one.
   - Check: The bag of stones sits on the short end, close to the pivot. How heavy must it be to lift a full cup on the long end? → **The stones are heavier than the full cup, and they need to be, because the short end is close to the pivot**
 - **s5 (15 min)**  
@@ -595,7 +595,7 @@ That night, under the stars, the whole village ate together round the fires of U
 - **s2 (7 min)**  
   *Parent does:* Work out how long a ramp should be, using the rule of 12 times the height.  
   *Parent says:* Ramp guides say a ramp should be about 12 times as long as it is high. Our step is 15 cm. How long should the ramp be?  
-  *Child mode:* The ramp should be 12 times as long as the step is high. Multiply the height by 12. How long is that?
+  *Child mode:* Make the ramp 12 times longer than the step is high. Multiply the height by 12. How long is that?
   - Note: 15 times 12 is 180 cm, which is 1 metre and 80 centimetres. Children are often surprised how long a good ramp must be.
   - Check: A step is 15 cm high. A ramp 12 times as long would be how long? → **180 cm**
 - **s3 (10 min)**  
@@ -930,9 +930,9 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 ## Sources
 - Founder's notes: Balancing Act Game worksheet for the PhET simulation (levels 1 to 4, mystery masses), used in a3 and as the model for g1 Balance Bazaar
 - DeepKids HomeSchooling Track: Zero Sum, Seesaw Balance Game (plank on a roller or bottle, stones and toys on each side), used in e1, g1 and a2
-- DeepKids HomeSchooling Track: Simple Machines, Tech, Tools (wheel, lever, pulley, fan, switches; inclined plane with a toy car sliding down a ramp; machines in daily life: bicycle wheels, fans, taps; scales and balance), used in e2, e3, a1 and g2
+- DeepKids HomeSchooling Track: Simple Machines, Tech, Tools (wheel, lever, pulley, fan, switches. Inclined plane with a toy car sliding down a ramp; machines in daily life: bicycle wheels, fans, taps. Scales and balance), used in e2, e3, a1 and g2
 - DeepKids HomeSchooling Track: Physics (balance: centre of gravity with see-saws, standing on one foot), used in a5
-- Forces notebook: rotational motion activities (balance a ruler on a finger and add weights; use a wrench with different handle lengths to feel torque), used in e1 and a6
+- Forces notebook: rotational motion activities (balance a ruler on a finger and add weights. Use a wrench with different handle lengths to feel torque), used in e1 and a6
 - Forces notebook: Archimedes card (law of the lever, 'give me a place to stand'), used in intro and challenging
 - Forces notebook: Al-Jazari and Al-Khazini cards (machines, The Balance of Wisdom), background for the credit questions
 - H.E. Huxley and J. Hanson, Nature 1954, and A.F. Huxley and R. Niedergerke, Nature 1954 (sliding filaments in muscle)

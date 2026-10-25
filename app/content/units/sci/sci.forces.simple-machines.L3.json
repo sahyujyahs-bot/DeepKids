@@ -4,7 +4,7 @@
  "level": 3,
  "summary": {
   "text": "This unit is about simple machines. A simple machine is a tool with few moving parts that makes a push or a pull easier. Levers, ramps and wheels are the three you will meet most. A see-saw is a lever. It balances when the weight on each side, times its distance from the middle, comes out the same. So a light child far out can balance a heavy grown-up sitting close in. Machines never give you something for nothing. A smaller push always has to travel a longer way. The same lever rules work in your elbow, in tiny parts of your muscles, and between the Earth and the Moon.",
-  "art": "A child sitting at the far end of a see-saw, holding a grown-up up in the air who sits close to the middle; around them faint drawings of a ramp, a wheel and a bottle opener."
+  "art": "A child sitting at the far end of a see-saw, holding a grown-up up in the air who sits close to the middle, with faint drawings of a ramp, a wheel and a bottle opener."
  },
  "intro": {
   "hook": "Can you lift a grown-up off the ground? You are allowed to use only a plank and the right place to sit. Many children think they can't. Then they try a see-saw.",
@@ -2956,7 +2956,7 @@
      "mins": 20,
      "do": "1. Tie two sticks into an X shape and stand it up, or use the back of a sturdy chair, as the post. 2. Tie the beam onto the top of the post, about one third of the way from one end, so it can rock. 3. Check it rocks up and down freely.",
      "say": "This tie is the pivot. Where should it go? Let's try a third of the way along.",
-     "kid": "Make a post. Tie the long stick to the top so it can rock like a see-saw. The tie is the pivot.",
+     "kid": "Make a post. Tie the long stick on top. It should rock like a see-saw. The tie is the pivot.",
      "adult": true
     },
     {
@@ -2972,7 +2972,7 @@
      "mins": 10,
      "do": "1. Hang the bag of stones on the short end. 2. Add or remove stones until a full cup of water rises almost by itself when you let go.",
      "say": "The stone does the lifting. How heavy should it be? Too heavy and you can't dip the cup. Too light and it won't help.",
-     "kid": "Hang the bag of stones on the short end. Add stones. Can you find a weight that lifts a full cup almost by itself?",
+     "kid": "Hang the bag of stones on the short end. Add stones. Find a weight that lifts a full cup by itself.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -3172,7 +3172,7 @@
      "mins": 7,
      "do": "Work out how long a ramp should be, using the rule of 12 times the height.",
      "say": "Ramp guides say a ramp should be about 12 times as long as it is high. Our step is 15 cm. How long should the ramp be?",
-     "kid": "The ramp should be 12 times as long as the step is high. Multiply the height by 12. How long is that?",
+     "kid": "Make the ramp 12 times longer than the step is high. Multiply the height by 12. How long is that?",
      "check": {
       "t": "mcq",
       "q": "A step is 15 cm high. A ramp 12 times as long would be how long?",
@@ -4179,9 +4179,9 @@
   "founder": [
    "Founder's notes: Balancing Act Game worksheet for the PhET simulation (levels 1 to 4, mystery masses), used in a3 and as the model for g1 Balance Bazaar",
    "DeepKids HomeSchooling Track: Zero Sum, Seesaw Balance Game (plank on a roller or bottle, stones and toys on each side), used in e1, g1 and a2",
-   "DeepKids HomeSchooling Track: Simple Machines, Tech, Tools (wheel, lever, pulley, fan, switches; inclined plane with a toy car sliding down a ramp; machines in daily life: bicycle wheels, fans, taps; scales and balance), used in e2, e3, a1 and g2",
+   "DeepKids HomeSchooling Track: Simple Machines, Tech, Tools (wheel, lever, pulley, fan, switches. Inclined plane with a toy car sliding down a ramp; machines in daily life: bicycle wheels, fans, taps. Scales and balance), used in e2, e3, a1 and g2",
    "DeepKids HomeSchooling Track: Physics (balance: centre of gravity with see-saws, standing on one foot), used in a5",
-   "Forces notebook: rotational motion activities (balance a ruler on a finger and add weights; use a wrench with different handle lengths to feel torque), used in e1 and a6",
+   "Forces notebook: rotational motion activities (balance a ruler on a finger and add weights. Use a wrench with different handle lengths to feel torque), used in e1 and a6",
    "Forces notebook: Archimedes card (law of the lever, 'give me a place to stand'), used in intro and challenging",
    "Forces notebook: Al-Jazari and Al-Khazini cards (machines, The Balance of Wisdom), background for the credit questions"
   ],
