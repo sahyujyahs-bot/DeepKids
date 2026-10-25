@@ -154,7 +154,7 @@
    "concept": "What gravity is",
    "status": "defined",
    "definition": "Gravity is a pull between things that have mass. On Earth, it pulls everything towards the middle of the Earth.",
-   "description": "Let go of anything, and it falls. A mango, a pencil, a raindrop, you after a jump. Nothing has to touch it. The pull reaches across the air, and even across empty space. Gravity never switches off. It pulls on you while you sleep, while you swim and while you fly in a plane. You only notice it when something is not holding you up.",
+   "description": "Let go of anything, and it falls. A mango, a pencil, a raindrop, you after a jump. Nothing has to touch it. The pull reaches across the air, and even across empty space. Gravity never switches off. It pulls on you while you sleep, while you swim and while you fly in a plane. You only notice it when something is not holding you up. How hard gravity pulls on you is called your weight. The unit on Weight and mass explores that.",
    "examples": [
     "A ball you throw up always comes back down.",
     "Water in a river flows downhill, towards the sea.",
@@ -358,7 +358,7 @@
    "concept": "Falling together feels like floating",
    "status": "defined",
    "definition": "Things that fall together do not push on each other. So anything in free fall feels weightless, even though gravity is still pulling it.",
-   "description": "Fill a bottle with water and make small holes near the bottom. Water squirts out. Now drop the bottle. While it falls, the squirting stops. The water and the bottle are falling together, so the water no longer presses on the holes. In 1907, Einstein imagined a person falling off a roof. While falling, he would feel no weight at all. Einstein called this the happiest thought of his life. Astronauts in the space station feel this all the time. Gravity up there is still about 9 tenths as strong as on the ground. But the station and the astronauts are falling round the Earth together. So nothing pushes on their feet, and they float.",
+   "description": "Fill a bottle with water and make small holes near the bottom. Water squirts out. Now drop the bottle. While it falls, the squirting stops. The water and the bottle are falling together, so the water no longer presses on the holes. In 1907, Einstein imagined a person falling off a roof. While falling, he would feel no weight at all. Einstein called this the happiest thought of his life. Astronauts in the space station feel this all the time. Gravity up there is still about 9 tenths as strong as on the ground. But the station and the astronauts are falling round the Earth together. So nothing pushes on their feet, and they float. The unit on Weight and mass goes deeper into this, with the falling bottle.",
    "examples": [
     "Water stops squirting from a falling bottle.",
     "Your tummy feels funny on a swing or a giant wheel as it starts to drop.",
@@ -451,7 +451,7 @@
   {
    "concept": "How living things know which way is down",
    "status": "debated",
-   "description": "Living things feel gravity all the time. Inside your ears are tiny stones, made of the same stuff as chalk. They rest on tiny hairs. When you tip your head, the stones roll and bend the hairs, and your brain knows which way is down. Plants feel gravity too. A seed planted upside down still sends its root down and its shoot up. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied.",
+   "description": "Living things feel gravity all the time. Inside your ears are tiny stones, made of the same stuff as chalk. They rest on tiny hairs. When you tip your head, the stones roll and bend the hairs, and your brain knows which way is down. Plants feel gravity too. A seed planted upside down still sends its root down and its shoot up. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied. The unit on Weight and mass has a project where you watch a root find down.",
    "examples": [
     "Tilt your head and you know at once that you tilted. Your ear stones told you.",
     "A potted plant tipped on its side bends its shoot back up within a day or two.",
@@ -831,152 +831,149 @@
   },
   {
    "id": "g2",
-   "title": "Escape Gravity",
-   "mins": 30,
-   "players": "2 to 4 players",
+   "title": "Gravity Cue Cards: Draw, Do, Answer",
+   "mins": 25,
+   "players": "2 to 5 players, or a child with a grown-up",
    "printables": [
     {
-     "kind": "board",
-     "title": "A 20-square board from EARTH to SPACE",
+     "kind": "cards",
+     "title": "12 numbered DO cards",
      "items": [
-      "1 EARTH: start here",
-      "2 Star: do a challenge and earn a force card",
-      "3 Dragstorm: thick air holds you back. Go back 1. A Thrust card beats it.",
-      "4 Height Drop: you fall off a step. Go back 2. An Air Resistance card beats it.",
-      "5 Star: earn a force card",
-      "6 Downwell: gravity pulls you down a slope. Go back 1.",
-      "7 Ground Grip: you push off the ground. Go forward 1.",
-      "8 Lagrange Drift: two pulls cancel. Stay here for one turn. A Sideways Speed card beats it.",
-      "9 Star: earn a force card",
-      "10 Free Fall: you float for a moment. Go forward 2.",
-      "11 Gravity Snap: you jumped, and the Earth pulled you back. Go back 2. A Spring Push card beats it.",
-      "12 Heavy Air Pocket: go back 1. An Air Lift card beats it.",
-      "13 Star: earn a force card",
-      "14 Slow Clock: time runs slower near a big mass. Miss a turn.",
-      "15 Pull Cascade: everything pulls everything. Go back 1. A Neutral Pull card beats it.",
-      "16 Orbit: you are falling and missing. Go forward 2.",
-      "17 Star: earn a force card",
-      "18 Black Hole Surge: go back 3. Only a Sideways Speed card beats it.",
-      "19 Escape Speed: you need 11 kilometres a second. Roll a 5 or 6 to go on.",
-      "20 SPACE: you escaped, but say why gravity is still pulling you here"
+      "1 DO: Drop a pen and a pencil together from your shoulder.",
+      "2 DO: Drop a tissue and a coin together.",
+      "3 DO: Crumple the tissue into a ball. Drop it and the coin together.",
+      "4 DO: Walk up the stairs, then walk down.",
+      "5 DO: Jump as high as you can, 3 times.",
+      "6 DO: Make a ball float in the air all by itself, using nothing else.",
+      "7 DO: Pick up a paper clip with a magnet.",
+      "8 DO: Toss a ball straight up and catch it.",
+      "9 DO: Drop a sheet of paper lying on top of a book.",
+      "10 DO: Hang a key on a thread and let it go still.",
+      "11 DO: Blow a feather or a tissue to keep it up in the air.",
+      "12 DO: Drop a spoon from a chair, then from a table. Listen to the sound."
      ]
     },
     {
      "kind": "cards",
-     "title": "8 force cards, each earned by doing a real challenge",
+     "title": "12 numbered QUESTION cards, one for each DO card",
      "items": [
-      "Air Resistance: drop a paper parachute and watch it drift",
-      "Thrust: blow up a balloon and let it go",
-      "Sideways Speed: spin a hula hoop, or whirl a sock-ball on a string",
-      "Spring Push: bounce a ball and catch it",
-      "Air Lift: keep a feather up in the air by blowing on it",
-      "Neutral Pull: play a tug of war that ends in a draw",
-      "Balance: stand in tree pose for 20 seconds",
-      "Magnet Pull: pick up a paper clip with a magnet"
+      "1 Which landed first? Why?",
+      "2 Which landed first? Was it because the tissue is light, or because of the air?",
+      "3 What changed when you crumpled the tissue?",
+      "4 Which was harder, up or down? Why?",
+      "5 What brought you back down every time? Could anyone jump into space?",
+      "6 Why is it impossible? How do birds and balloons stay up?",
+      "7 The whole Earth pulls the clip down. Why did the magnet win?",
+      "8 At the very top, for a moment, the ball stops. Is gravity still pulling it?",
+      "9 Why didn't the paper float away?",
+      "10 Which way does the thread point? Is it the same in Argentina?",
+      "11 What were you doing to fight gravity? What happens when you stop?",
+      "12 Which drop made a louder sound? Why?"
      ]
     },
     {
-     "kind": "tokens",
-     "title": "One counter for each player, and a dice",
+     "kind": "cards",
+     "title": "12 numbered ANSWER cards, to check with",
      "items": [
-      "🚀",
-      "🛰️",
-      "🌍",
-      "🌕"
+      "1 They landed together. Heavy and light things fall the same way.",
+      "2 The coin. The air pushes up on the spread-out tissue and slows it.",
+      "3 It landed almost with the coin. Same tissue, same weight, but less air pushing on it.",
+      "4 Up. Going up, you work against gravity. Going down, gravity helps.",
+      "5 Gravity. You would need about 11 kilometres every second to escape the Earth.",
+      "6 Nothing holds it up, so gravity always wins. Birds and balloons push on the air.",
+      "7 Gravity is very weak. A tiny magnet beats the pull of the whole Earth.",
+      "8 Yes. Gravity never stops. It slowed the ball to a stop, then pulled it back.",
+      "9 The book pushed the air out of the way, so no air pushed up on the paper.",
+      "10 Straight down, towards the middle of the Earth. Yes, down is always towards the middle.",
+      "11 Pushing air up with your breath. When you stop, gravity pulls it down.",
+      "12 From the table. It fell further, so it sped up more and hit harder."
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Cards done",
+      "Good answers",
+      "Total points"
      ]
     }
    ],
    "rules": [
-    "Put all counters on EARTH. Cut out the force cards and put them in a pile.",
-    "Before you start, each player earns one force card by doing its challenge.",
-    "Roll the dice and move your counter that many squares towards SPACE.",
-    "If you land on a gravity event, do what it says. You can play a force card that beats it, but you must explain how that force works against gravity.",
-    "If you land on a star, do any challenge to earn a new force card.",
-    "The first player to reach SPACE wins. But they must say why gravity is still pulling them, even out there."
+    "Cut out the DO, QUESTION and ANSWER cards. Keep them in three piles, face down.",
+    "Shuffle the DO cards. On your turn, draw one and do what it says.",
+    "Then find the QUESTION card with the same number. Read it out and answer it.",
+    "Now turn over the ANSWER card with the same number and check. A good answer scores 1 point. A good reason scores 1 more.",
+    "Anyone can challenge an answer card if they think it is wrong. Then you test it again together.",
+    "When the DO cards run out, the player with the most points wins."
    ],
-   "context": "Escape Gravity is the founder's board game. Players race from EARTH to SPACE. Gravity events pull them back. Force cards, earned by doing real challenges, help them fight back.",
+   "context": "This is the founder's Draw, Do, Answer game. Players draw a numbered card and do a small gravity challenge. Then they answer a question about it and check the answer card.",
    "flow": [
     {
      "id": "s1",
-     "mins": 6,
-     "do": "1. Lay out the board. 2. Each player chooses one force card and does its challenge, to earn it.",
-     "say": "Gravity is trying to keep us on Earth. To escape, we need forces that work against it. You earn each force card by doing a real challenge.",
-     "kid": "Lay out the board. Choose a force card. Do its challenge to earn it. Drop a parachute? Spin a hula hoop?",
-     "adult": true,
-     "context": "This is the first step of Escape Gravity, a board game from EARTH to SPACE. You earn force cards by doing real challenges."
+     "mins": 3,
+     "do": "1. Make three piles: DO, QUESTION and ANSWER cards, face down. 2. Shuffle only the DO cards.",
+     "say": "Each card asks you to do something with gravity. After you do it, you answer a question about it. Then we check.",
+     "kid": "Make three piles: DO, QUESTION and ANSWER. Shuffle the DO cards. Draw one and do it!",
+     "context": "This is the first step of Gravity Cue Cards, the founder's Draw, Do, Answer game."
     },
     {
      "id": "s2",
-     "mins": 16,
-     "do": "Take turns rolling and moving. When someone lands on a gravity event, ask how their force card beats it.",
-     "say": "You landed on Height Drop. Can you play a card? How does air resistance help when you fall?",
-     "kid": "Roll the dice. Move your counter. Landed on a gravity event? Play a force card and explain how it fights gravity.",
+     "mins": 15,
+     "do": "Take turns drawing a DO card, doing it, answering the matching QUESTION card and checking the ANSWER card.",
+     "say": "Do it first. Then answer. Then check the answer card. Did you get it?",
+     "kid": "Draw a DO card. Do it! Read the question with the same number. Answer it. Then check the answer card.",
      "ask": [
       {
-       "q": "How does an Air Resistance card beat Height Drop?",
+       "q": "Card 8: at the very top of the toss, is gravity still pulling the ball?",
        "good": [
-        "The air pushes up on a parachute and slows the fall.",
-        "You float down gently, so you don't fall far."
-       ]
-      },
-      {
-       "q": "How does a Sideways Speed card beat a Black Hole Surge?",
-       "good": [
-        "If you go sideways fast enough, you fall round instead of in.",
-        "Like the Moon, you keep falling and missing."
+        "Yes, gravity never stops pulling.",
+        "Yes, that's why it comes back down."
        ]
       }
      ],
-     "parent": "Help children link each card to the science. Air resistance slows falls. Thrust pushes against the air. Sideways speed turns a fall into an orbit. A spring push is the ground pushing back. A tug-of-war draw is two equal pulls cancelling, like a Lagrange point."
+     "parent": "Card 6 comes from the founder's cards: 'Make a ball float with nothing else.' Let your child try for a minute. Then read the answer. The point is that nothing escapes gravity without something pushing back, like air or a hand."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "When a player lands on Orbit or Free Fall, stop and talk about it.",
-     "say": "Free Fall moves you forward. Why do astronauts float? Is there no gravity up there?",
-     "kid": "Free Fall square! Astronauts float in space. Is it because there's no gravity? Tap your answer.",
+     "do": "When card 2 comes up, stop and talk about it.",
+     "say": "The coin beat the tissue. Was that because the tissue is light? Try card 3 straight after, and see.",
+     "kid": "The coin beat the tissue! Is it because the tissue is light? Now crumple it and try again.",
      "check": {
       "t": "mcq",
-      "q": "Why do astronauts float in the space station?",
+      "q": "A coin beats a flat tissue to the floor. A crumpled tissue nearly ties with the coin. What slowed the flat tissue?",
       "options": [
-       "There is no gravity in space",
-       "They and the station are falling round the Earth together",
-       "Space is full of air that holds them up"
+       "The air pushing up on it",
+       "Its lightness",
+       "Gravity not pulling it"
       ],
-      "a": 1,
-      "why": "Gravity at the space station is still about 9 tenths as strong as on the ground. But the station and the astronauts are falling round the Earth together. So nothing presses on anything, and they float. This is a game moment. Now you know the secret of the Orbit square too."
+      "a": 0,
+      "why": "The crumpled tissue weighs the same as the flat one. Only its shape changed. So it was the air, not the lightness, that slowed the flat tissue. This is a game moment. Keep that secret for the other cards!"
      }
     },
     {
      "id": "s4",
-     "mins": 4,
-     "do": "The winner reaches SPACE and explains why gravity is still pulling them there.",
-     "say": "You escaped! But is gravity still pulling you out here? Why?",
-     "kid": "You reached SPACE! Is gravity still pulling you? Why?",
-     "ask": [
-      {
-       "q": "Why is gravity still pulling you in space?",
-       "good": [
-        "Everything pulls everything, even from far away.",
-        "The Earth, the Sun and the stars still pull, just more weakly."
-       ]
-      }
-     ],
-     "think": "Can anything in the universe ever escape gravity completely?"
+     "mins": 3,
+     "do": "Count the points. Then ask each player for their favourite card.",
+     "say": "Which card surprised you most? Why?",
+     "kid": "Count your points. Who won? Which card surprised you most?",
+     "think": "Every card had gravity in it. Can you think of anything you did today that did not have gravity in it?"
     }
    ],
    "setup": [
     {
-     "art": "A printed board game with 20 squares winding from a picture of the Earth to a starry SPACE square, counters and a dice on it.",
-     "caption": "1. Put the counters on EARTH."
+     "art": "Three piles of numbered cards on a floor mat labelled with a hand, a question mark and a tick.",
+     "caption": "1. Make three piles: DO, QUESTION and ANSWER."
     },
     {
-     "art": "A child dropping a small paper parachute to earn an Air Resistance force card.",
-     "caption": "2. Do a real challenge to earn a force card."
+     "art": "A child dropping a tissue and a coin together, a DO card in front of them.",
+     "caption": "2. Draw a DO card and do it."
     },
     {
-     "art": "A child landing on a Black Hole Surge square and holding up a Sideways Speed card.",
-     "caption": "3. Landed on a gravity event? Play a card and explain it."
+     "art": "A child turning over an answer card while another reads the matching question card.",
+     "caption": "3. Answer the question. Then check the answer card."
     }
    ]
   }
@@ -1358,16 +1355,16 @@
     },
     {
      "t": "mcq",
-     "p": "Why does water stop squirting out of the holes when the bottle is dropped?",
+     "p": "In the Falling Ruler test, Ali caught the ruler after it fell 20 cm. Meera caught it after 5 cm. Who was quicker?",
      "opts": [
-      "The water and bottle fall together, so the water no longer presses on the holes",
-      "The holes close up when it falls",
-      "Gravity switches off while things fall"
+      "Meera, because the ruler had less time to fall",
+      "Ali, because his number is bigger",
+      "Neither, because the ruler fell differently each time"
      ],
      "a": 0,
-     "why": "Things that fall together do not push on each other. So the water stops pressing on the bottle, and stops squirting. Picking 'gravity switches off' is a common mix-up. Gravity still pulls both. That is why they are falling.",
+     "why": "The ruler falls in the same way every time, so a shorter fall means a quicker catch. 5 cm takes about one tenth of a second. 20 cm takes about two tenths. Picking 'Ali' means reading a bigger number as better. Here a smaller number is better.",
      "how": "e4",
-     "context": "In the falling bottle test, water squirts out of holes in a bottle. Then you drop the bottle."
+     "context": "In the Falling Ruler test, a helper drops a ruler between your open fingers, and you catch it. The number at your thumb shows how far it fell."
     },
     {
      "t": "truefalse",
@@ -1627,8 +1624,7 @@
      ],
      "a": 0,
      "why": "Roots grow towards gravity, wherever the seed points. Heavy grains of starch settle in the root tip and show it which way is down. Picking 'up' means expecting the root to follow the seed's direction. Roots follow gravity instead.",
-     "how": "a7",
-     "context": "In The Bean That Knows Which Way Is Down, you grow beans in a jar, pointing in different directions."
+     "context": "Seeds sprout a root and a shoot. Charles Darwin and his son Francis studied which way roots grow. The unit on Weight and mass has a project where you watch it happen."
     },
     {
      "t": "match",
@@ -2198,143 +2194,149 @@
   },
   {
    "id": "e4",
-   "title": "The Bottle That Stops Squirting",
-   "mins": 15,
+   "title": "The Falling Ruler: catch it if you can",
+   "mins": 20,
    "days": 1,
-   "question": "What happens to water squirting out of a bottle when the bottle falls?",
-   "predict": "Guess first. Water is squirting out of holes in a bottle. You let go of the bottle. Will the water keep squirting while it falls, squirt harder, or stop?",
-   "fair_test": "Use the same bottle, filled to the same level each time. First hold it still and watch. Then drop it from the same height. Only one thing changes: held or falling. Do it 3 times, and film it in slow motion if you can.",
+   "question": "How far does a falling ruler drop before you can catch it? Is your writing hand quicker than your other hand?",
+   "predict": "Guess first. When someone lets go of a ruler between your fingers, how many centimetres will it fall before you catch it? Which hand will catch it sooner?",
+   "fair_test": "Use the same ruler every time, with the 0 mark level with the top of your thumb. The helper lets go without warning. Change only one thing: the hand you catch with. Do 3 tries with each hand, because one try can be a fluke.",
    "results_table": [
-    "Held or falling?",
-    "Did the water squirt out? (Yes, a little, or no)"
+    "Hand",
+    "Try 1 (cm)",
+    "Try 2 (cm)",
+    "Try 3 (cm)",
+    "Middle value (cm)"
    ],
    "materials": [
     {
-     "item": "an empty plastic bottle",
+     "item": "a 30 centimetre ruler",
+     "qty": 1,
+     "buy": "b-ruler"
+    },
+    {
+     "item": "a helper",
      "qty": 1
     },
     {
-     "item": "a thick pin or a thin nail, for a grown-up to make holes",
-     "qty": 1
-    },
-    {
-     "item": "water and a bucket, or a patch of soft ground outside",
-     "qty": 1
-    },
-    {
-     "item": "a phone that can film in slow motion, if you have one",
+     "item": "a table to rest your arm on, a pencil and the results table",
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the holes with the pin. Do this outside or in the bathroom, and wipe up spills so nobody slips.",
+   "safety": "Nothing in this test is dangerous. Use a plastic or wooden ruler, not a metal one with sharp edges.",
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
-     "what": "Make holes in a bottle, fill it, and drop it while it squirts."
+     "mins": 20,
+     "what": "Catch a falling ruler 3 times with each hand. Find out how quick your body is."
     }
    ],
-   "record": "Draw the bottle held still, with water squirting. Draw it falling, with no squirts.",
-   "context": "This is the falling bottle test. Water squirts out of holes in a bottle, until you drop it. It shows that things falling together feel weightless.",
+   "record": "Fill in the table. Use the chart in the last step to turn each distance into a time.",
+   "context": "In the Falling Ruler test, a helper lets go of a ruler between your fingers, and you catch it. Gravity makes every ruler fall in the same way, so the distance tells you how quick your body is.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. A grown-up pushes a pin through the side of the bottle near the bottom, to make 3 small holes. 2. Cover the holes with fingers. 3. Fill the bottle with water.",
-     "say": "We'll make some small holes, then fill the bottle up. Keep your fingers over the holes!",
-     "kid": "Ask a grown-up to make 3 small holes near the bottom. Cover them with your fingers. Fill it with water.",
-     "adult": true,
-     "context": "This is the first step of the falling bottle test. A grown-up makes small holes in a plastic bottle."
+     "do": "1. Your child rests their arm on the table, with their hand over the edge. 2. They open their thumb and first finger a little. 3. Hold the ruler at the top, hanging down between their thumb and finger. The 0 mark should be level with the top of the thumb.",
+     "say": "I'll hold the ruler. You keep your fingers open, ready. Don't look at my hand. Watch the ruler.",
+     "kid": "Rest your arm on the table. Open your thumb and finger a little. The ruler hangs between them. Watch the ruler, not the helper.",
+     "context": "This is the first step of the Falling Ruler test. You get ready to catch a ruler that a helper drops without warning."
     },
     {
      "id": "s2",
-     "mins": 2,
-     "do": "Hold the bottle high over the bucket and take your fingers off the holes.",
-     "say": "Look at the water squirting out. Why does it squirt?",
-     "kid": "Hold the bottle up high. Take your fingers away. Watch the water squirt out.",
-     "ask": [
-      {
-       "q": "Why does the water squirt out?",
-       "good": [
-        "Gravity pulls the water down, so it presses on the holes.",
-        "The water's weight pushes it out."
-       ]
-      }
-     ]
+     "mins": 6,
+     "do": "1. Let go of the ruler without any warning. 2. Your child catches it as fast as they can. 3. Read the number at the top of their thumb. 4. Write it down. 5. Do 3 tries with the writing hand.",
+     "say": "Catch it as fast as you can! Now read the number at the top of your thumb. That's how far it fell.",
+     "kid": "Catch it as fast as you can! Read the number at your thumb. Write it down. Do it 3 times.",
+     "parent": "Wait a different time before each drop, so your child cannot guess when it will come. Most children catch it between 10 and 25 centimetres."
     },
     {
      "id": "s3",
-     "mins": 5,
-     "do": "1. While the water is squirting, let go of the bottle so it drops into the bucket. 2. Watch the holes as it falls. 3. Refill and repeat 3 times, filming in slow motion if you can.",
-     "say": "Now, while it squirts, let go. Watch the holes very closely as it falls.",
-     "kid": "While the water squirts, let go of the bottle. Watch the holes closely. What happens to the squirts?",
+     "mins": 4,
+     "do": "Do 3 more tries with the other hand. Find the middle value for each hand.",
+     "say": "Now let's try your other hand. Will it be quicker or slower?",
+     "kid": "Now try 3 times with your other hand. Is it quicker or slower?",
      "check": {
       "t": "mcq",
-      "q": "When the squirting bottle was falling, what did the water do?",
+      "q": "A light plastic ruler and a heavy wooden ruler are dropped the same way. Which falls further before you catch it, if you are equally quick?",
       "options": [
-       "It squirted harder",
-       "It stopped squirting",
-       "It squirted the same"
+       "The heavy one",
+       "The light one",
+       "They fall the same distance"
       ],
-      "a": 1,
-      "why": "The water and the bottle fall together. The water no longer presses on the bottle, so it stops squirting out. They are both in free fall, so they feel weightless. Picking 'harder' is a common guess, because falling feels fast. But falling together means nothing presses on anything."
+      "a": 2,
+      "why": "Heavy and light things fall in the same way. So in the same time, both rulers fall the same distance. Only your quickness changes the number. Picking 'the heavy one' is the old idea that heavy things fall faster."
      }
     },
     {
      "id": "s4",
-     "mins": 1,
-     "do": "Talk about astronauts in the space station.",
-     "say": "Astronauts float in the space station for the same reason. They and the station are falling together round the Earth. So nothing presses on anything.",
-     "kid": "Astronauts float for the same reason! They and their space station fall together. Nothing presses on anything.",
-     "think": "If you were inside a falling lift, would you feel your weight?"
+     "mins": 4,
+     "do": "Use the chart to turn the distances into times.",
+     "say": "The ruler speeds up as it falls. In one tenth of a second, it falls 5 centimetres. In two tenths, 20 centimetres. So 20 centimetres means you took about two tenths of a second to catch it.",
+     "kid": "The ruler speeds up as it falls. 5 cm means one tenth of a second. 20 cm means two tenths. How quick were you?",
+     "parent": "Your eyes see the ruler move. A message runs along nerves to your brain. Your brain sends a message to your fingers. All of that takes time. That time is called reaction time.",
+     "chart": {
+      "type": "table",
+      "title": "How far a dropped ruler falls in a short time (without air, rounded)",
+      "cols": [
+       "Time after letting go",
+       "Distance fallen"
+      ],
+      "rows": [
+       [
+        "One tenth of a second",
+        "5 cm"
+       ],
+       [
+        "Two tenths of a second",
+        "20 cm"
+       ],
+       [
+        "Three tenths of a second",
+        "44 cm, longer than the ruler"
+       ]
+      ]
+     }
     },
     {
      "id": "s5",
-     "mins": 3,
+     "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: things that fall together feel weightless. What I saw: water squirted out when I held the bottle, but stopped when it fell. Why: the water and the bottle fell together, so the water did not press on the holes."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: my writing hand is a little quicker. What I saw: the ruler fell 15 cm with my writing hand and 19 cm with my other hand. Why: the ruler always falls the same way, so a shorter fall means I caught it sooner."
     }
    ],
    "example_chart": {
-    "type": "table",
-    "title": "Made-up example results",
-    "cols": [
-     "Held or falling?",
-     "Did the water squirt out?"
-    ],
-    "rows": [
-     [
-      "Held still",
-      "Yes, in strong squirts"
-     ],
-     [
-      "Falling, try 1",
-      "No"
-     ],
-     [
-      "Falling, try 2",
-      "No"
-     ],
-     [
-      "Falling, try 3",
-      "No, only a few drops at the very start"
-     ]
+    "type": "bar",
+    "title": "Made-up example: how far the ruler fell before it was caught",
+    "x": "Hand",
+    "y": "Middle value (cm)",
+    "note": "These numbers are made up. Your numbers will be different.",
+    "data": [
+     {
+      "label": "Writing hand",
+      "value": 15,
+      "emoji": "✍️"
+     },
+     {
+      "label": "Other hand",
+      "value": 19,
+      "emoji": "🖐️"
+     }
     ]
    },
    "setup": [
     {
-     "art": "A grown-up's hand pushing a pin through the side of a plastic bottle near the bottom, three small holes already made.",
-     "caption": "1. A grown-up makes 3 small holes near the bottom."
+     "art": "A child's arm resting on a table, hand over the edge, thumb and finger open around the bottom of a hanging ruler held at the top by a grown-up.",
+     "caption": "1. A helper holds a ruler between your open fingers."
     },
     {
-     "art": "A bottle held high over a bucket, three jets of water squirting out of the holes.",
-     "caption": "2. Fill it and hold it up. Water squirts out."
+     "art": "The ruler dropping, the child's fingers snapping shut on it.",
+     "caption": "2. The helper lets go without warning. Catch it!"
     },
     {
-     "art": "The same bottle falling into the bucket, its holes not squirting at all, the water inside calm.",
-     "caption": "3. Let go. While it falls, the squirting stops."
+     "art": "A close-up of the child's thumb on the ruler at the 15 centimetre mark.",
+     "caption": "3. Read the number at your thumb. That is how far it fell."
     }
    ]
   }
@@ -2955,105 +2957,105 @@
   },
   {
    "id": "a7",
-   "title": "The Bean That Knows Which Way Is Down",
+   "title": "Aristotle on Trial (act it out)",
    "mins": 25,
-   "days": 6,
+   "days": 1,
    "materials": [
     {
-     "item": "a clear glass jar",
+     "item": "a full and an empty plastic bottle, two sheets of paper and a hardback book, as evidence",
      "qty": 1
     },
     {
-     "item": "kitchen paper or blotting paper, and some cotton wool",
+     "item": "a wooden spoon for the judge, and paper name cards for each role",
      "qty": 1
     },
     {
-     "item": "4 dry beans, such as rajma or chana, soaked in water overnight",
-     "qty": 4
+     "item": "two stones and a piece of string, for Galileo's tied stones",
+     "qty": 1
     }
    ],
-   "safety": "Use a plastic jar if small children are near. Do not eat the beans afterwards.",
+   "safety": "Drop the evidence only onto a clear floor, away from toes.",
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
-     "what": "Soak beans overnight. Then set them in the jar between the paper and the glass, pointing in different directions."
-    },
-    {
-     "day": 3,
-     "mins": 5,
-     "what": "Look at the roots. Which way are they growing? Draw them."
-    },
-    {
-     "day": 4,
-     "mins": 5,
-     "what": "Turn the jar on its side. Predict what the roots and shoots will do."
-    },
-    {
-     "day": 6,
-     "mins": 5,
-     "what": "Look again. Draw the bends. Talk about how the bean knew which way was down."
+     "mins": 25,
+     "what": "Put Aristotle's idea on trial, with evidence from your own drops."
     }
    ],
-   "record": "Draw the beans on day 3, then again on day 6 after the jar was turned. Draw arrows for which way is down.",
-   "context": "In this activity you grow beans in a jar, planted pointing every which way. You watch the roots turn to grow down and the shoots turn to grow up. Plants feel gravity too.",
+   "record": "Write the verdict. Then write the one piece of evidence that convinced you most.",
+   "context": "This is a courtroom play. Aristotle's old idea, that heavy things fall faster, is put on trial. Players act as the judge, Aristotle, John Philoponus and Galileo, and the family is the jury.",
    "flow": [
     {
      "id": "s1",
-     "mins": 10,
-     "do": "1. Line the inside of the jar with kitchen paper. 2. Stuff cotton wool in the middle to press the paper against the glass. 3. Push 4 soaked beans between the paper and the glass, each pointing a different way. 4. Wet the paper and cotton, and keep them damp.",
-     "say": "We'll plant these beans pointing every which way. Some upside down, some sideways. Will the roots be confused?",
-     "kid": "Put paper inside a jar. Push 4 soaked beans between the paper and the glass. Point them all different ways. Keep the paper wet.",
-     "context": "This is the first step of The Bean That Knows Which Way Is Down. You plant beans in a jar, pointing in different directions."
+     "mins": 4,
+     "do": "1. Give out the roles: the Judge, Aristotle, John Philoponus, Galileo, and the Jury. One person can play two roles. 2. Make name cards. 3. Put the evidence on a table.",
+     "say": "Today, a very old idea is on trial. The idea is: heavy things fall faster than light things. Aristotle will defend it. Philoponus and Galileo will argue against it. The jury decides.",
+     "kid": "A very old idea is on trial! Heavy things fall faster: true or false? Choose your role. Judge, Aristotle, Philoponus, Galileo or Jury.",
+     "context": "This is the first step of Aristotle on Trial. Each player chooses a role in the courtroom play."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Look at the roots after 2 days. Draw them.",
-     "say": "Look at the roots. Which way are they all growing, even the upside-down bean?",
-     "kid": "Look at the roots. Which way do they all grow? Even from the upside-down bean? Draw them.",
-     "wait": "Leave the jar for 2 days. Keep the paper damp."
+     "do": "Aristotle makes his case. He drops a stone and a flat sheet of paper together.",
+     "say": "Aristotle says: 'Look! The stone beats the paper. Heavy things fall faster. Everyone has seen it, for two thousand years.'",
+     "kid": "Aristotle, drop a stone and a flat paper. Say: 'See? Heavy things fall faster!' Jury, are you convinced?",
+     "ask": [
+      {
+       "q": "Jury, is this good evidence? Is anything unfair about it?",
+       "good": [
+        "The paper is flat, so the air slows it.",
+        "Two things changed: the weight and the shape."
+       ]
+      }
+     ]
     },
     {
      "id": "s3",
-     "mins": 5,
-     "do": "Turn the jar on its side and leave it.",
-     "say": "Now let's play a trick on the beans. We'll turn the jar on its side. What will the roots do?",
-     "kid": "Turn the jar on its side. What will the roots do now? Guess!",
-     "wait": "Leave the jar on its side for 2 days."
+     "mins": 8,
+     "do": "Philoponus and Galileo give their evidence. 1. Drop the full and the empty bottle from a book. 2. Drop a flat paper and a crumpled paper. 3. Lay a paper on a book and drop the book. 4. Galileo holds up the two stones tied together and asks his puzzle.",
+     "say": "Galileo asks: 'If heavy falls faster, these tied stones must fall faster, because together they are heavier. But the light one should hold the heavy one back, so they must fall slower. Which is it?'",
+     "kid": "Philoponus, drop the full and empty bottles. Galileo, drop flat and crumpled paper. Then hold up the tied stones. Ask: faster or slower? It can't be both!",
+     "parent": "Help the 'lawyers' explain each piece of evidence in one sentence. The bottles land together. Crumpled paper beats flat paper, though they weigh the same. Paper on a book falls with the book. The tied stones show the old rule cannot even make sense."
     },
     {
      "id": "s4",
-     "mins": 5,
-     "do": "Look at the beans again and talk about how plants sense down.",
-     "say": "The roots bent to grow down again. Inside each root tip are heavy grains of starch. They sink to the bottom of each cell, like sand in a bottle. The plant feels where they settle.",
-     "kid": "The roots turned to grow down again! Inside the root tip, heavy grains sink. The plant feels where they settle.",
+     "mins": 4,
+     "do": "The jury talks, then the judge asks for a verdict.",
+     "say": "Jury, what is your verdict? Is the idea true or false? Which evidence convinced you?",
+     "kid": "Jury, decide! Is the idea true or false? Which evidence convinced you most?",
      "check": {
       "t": "mcq",
-      "q": "You turned the jar on its side. What did the bean roots do?",
+      "q": "What is the best reason to decide that heavy things do not fall faster?",
       "options": [
-       "They kept growing sideways",
-       "They bent to grow down again",
-       "They stopped growing"
+       "Aristotle was famous, so he must be right",
+       "Fair tests, changing only one thing, show heavy and light things land together",
+       "Galileo was more famous than Aristotle"
       ],
       "a": 1,
-      "why": "Roots grow towards gravity, and shoots grow away from it. This is called gravitropism. Heavy starch grains settle on the low side of root cells, and the root bends that way. Scientists still study exactly how it works. Picking 'kept growing sideways' means expecting roots to follow the jar. They follow gravity instead."
-     },
-     "parent": "Your ears do something similar. Tiny chalk-like stones in your inner ear rest on hairs. When you tilt your head, they roll, and your brain feels which way is down."
+      "why": "In science, evidence decides, not fame. A fair test changes only one thing. The bottles have the same shape but different weights, and they land together. Picking either famous name means trusting who says it. Both men were famous, and only one was right about this."
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "Talk about the trial afterwards.",
+     "say": "People believed Aristotle for about 1,900 years. Philoponus was laughed at. Is it hard to disagree with someone everyone admires? When should you?",
+     "kid": "People believed Aristotle for a very long time. Philoponus was laughed at. Is it hard to disagree with someone famous? When should you?",
+     "think": "Aristotle was right about many other things. Can a great thinker be wrong about one thing and still be great?"
     }
    ],
    "setup": [
     {
-     "art": "A glass jar lined with paper and stuffed with cotton wool, four beans pushed between the paper and glass, each pointing a different way.",
-     "caption": "1. Push 4 beans between paper and glass, pointing different ways."
+     "art": "Children wearing paper name cards for Judge, Aristotle, Philoponus and Galileo, with a family jury sitting on a sofa.",
+     "caption": "1. Choose roles: Judge, Aristotle, Philoponus, Galileo and Jury."
     },
     {
-     "art": "The same jar after a few days, every root curving down and every shoot curving up.",
-     "caption": "2. After 2 days, all the roots grow down."
+     "art": "A child as Aristotle dropping a stone and a flat sheet of paper, the stone landing first.",
+     "caption": "2. Aristotle drops a stone and a flat paper."
     },
     {
-     "art": "The jar lying on its side, the roots bending again to point down towards the table.",
-     "caption": "3. Turn the jar on its side. The roots bend down again."
+     "art": "A child as Galileo holding up two stones tied together with string, the jury looking puzzled.",
+     "caption": "3. Galileo shows the tied stones. The jury decides."
     }
    ]
   },
@@ -3458,19 +3460,18 @@
   {
    "title": "Apollo 15 hammer and feather drop on the Moon (1971)",
    "channel": "NASA",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "oYEgdZ3iEKA",
    "mins": 1,
    "why": "The real film of David Scott dropping a hammer and a falcon feather on the Moon. They land together. It is short, real and historic.",
-   "check": "The event and NASA's film are real. The YouTube id is still to find: search NASA's channel for 'Apollo 15 hammer feather drop'."
+   "check": "Found by YouTube search: \"Apollo 15 Hammer-Feather Drop\" by NASA Solar System. Title checked automatically; a parent may still preview it."
   },
   {
-   "title": "Why Gravity is NOT a Force",
+   "title": "The slinky drop, in slow motion",
    "channel": "Veritasium",
-   "youtube": "XRr1kaXKBsU",
-   "mins": 17,
-   "why": "For the parent and curious older children. It explains Einstein's idea that falling is following curved space-time, and why a falling person feels weightless. It explains the space blanket and the 'nobody is pulling' idea well.",
-   "check": "Video id recalled, not opened from here. A parent should check it plays and is the Veritasium video before showing it. It is long and fast for a Class 3 child, so watch short parts together."
+   "youtube": "wGIZKETKKdw",
+   "mins": 3,
+   "why": "A stretched slinky toy is held from the top and let go. In slow motion, the bottom of the slinky hangs still for a moment. Meanwhile the top falls down to meet it. It is a puzzling, beautiful thing to watch about falling, and a good question to argue about.",
+   "check": "Found by YouTube search: \"Slinky Drop\" by Veritasium. Title checked automatically; a parent may still preview it."
   }
  ],
  "quiz": [
@@ -3653,17 +3654,17 @@
   },
   {
    "t": "mcq",
-   "p": "Water stops squirting from a bottle while it falls. Why?",
+   "p": "A heavy wooden ruler and a light plastic ruler are dropped the same way. Which falls further in one tenth of a second?",
    "opts": [
-    "The water and the bottle fall together",
-    "Gravity switches off",
-    "The holes get blocked"
+    "They fall the same distance, about 5 cm",
+    "The heavy one",
+    "The light one"
    ],
    "a": 0,
-   "why": "Things falling together do not press on each other. Picking 'gravity switches off' is a common mix-up. Gravity is what makes them fall.",
-   "outcome": 5,
+   "why": "Heavy and light things fall in the same way. So both fall about 5 cm in one tenth of a second. Picking 'the heavy one' is the old idea of Aristotle.",
+   "outcome": 1,
    "how": "e4",
-   "context": "In the falling bottle test, water squirts out of holes in a bottle, until you drop it."
+   "context": "In the Falling Ruler test, a helper drops a ruler between your open fingers, and you catch it. The number at your thumb shows how far it fell."
   },
   {
    "t": "mcq",
@@ -3688,8 +3689,7 @@
    "a": 0,
    "why": "Roots feel gravity. Heavy starch grains settle in the root tip. Picking 'towards light' mixes roots up with shoots, which grow towards light and away from gravity.",
    "outcome": 6,
-   "how": "a7",
-   "context": "In The Bean That Knows Which Way Is Down, beans grow in a jar, pointing every which way."
+   "context": "A bean seed is planted upside down in damp soil. After a few days it sprouts a root and a shoot."
   },
   {
    "t": "mcq",
@@ -4200,6 +4200,17 @@
    ]
   },
   {
+   "id": "b-ruler",
+   "item": "30 cm ruler",
+   "kind": "tool",
+   "why": "For the Falling Ruler test, and for measuring jumps.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e4",
+    "a1"
+   ]
+  },
+  {
    "id": "b-thali",
    "item": "Steel thali or plate",
    "kind": "tool",
@@ -4339,8 +4350,9 @@
  },
  "sources": {
   "founder": [
-   "Founder's Gravity chapter, app/content/ideas/by_topic/gravity.md and gravity_points.json: the space-time blanket with big, small and equal balls (a2); 'everything pulls everything, the heavier ones succeed'; 'no one is actually pulling, no energy expended' with the tug of war (a3); 'Lagrange point: two pull you from either side' (a3); 'How high can you jump? Climb stairs, climb slide. Can you jump into the sky?' and escape velocity (a1); 'make an object float with no other material used'; 'drop crumpled and normal paper and one over other: air resistance vs gravity' (e2); 'paper parachute' force card (e3, g2); the ISS: weightless because the normal force is zero, not gravity (e4, explanations); time dilation and the 'Time Dilation Story of 4 Sisters' (a5); 'Is gravity a quantum force? Gravitons?'; light bending and photons with energy; gurutva and gravitas; 'pick paper clip with magnet' (a8)",
-   "Founder's Escape Gravity board game: force cards earned by physical challenges, gravity events (Dragstorm, Height Drop, Lagrange Drift, Gravity Snap, Black Hole Surge, Pull Cascade, Downwell, Heavy Air Pocket), adapted as g2",
+   "Founder's Gravity chapter, app/content/ideas/by_topic/gravity.md and gravity_points.json: the space-time blanket with big, small and equal balls (a2); 'everything pulls everything, the heavier ones succeed'; 'no one is actually pulling, no energy expended' with the tug of war (a3); 'Lagrange point: two pull you from either side' (a3); 'How high can you jump? Climb stairs, climb slide. Can you jump into the sky?' and escape velocity (a1); 'make an object float with no other material used'; 'drop crumpled and normal paper and one over other: air resistance vs gravity' (e2); 'paper parachute' force card (e3, g2); the ISS: weightless because nothing pushes, not because gravity is zero (explanations; the falling bottle itself is in the sibling Weight and mass unit); time dilation and the 'Time Dilation Story of 4 Sisters' (a5); 'Is gravity a quantum force? Gravitons?'; light bending and photons with energy; gurutva and gravitas; 'pick paper clip with magnet' (a8)",
+   "Founder's game packaging 'Set 3: Draw, Do, Answer, Verify (Do, Question and Answer cards, numbered)' and the sheets' 'Shuffle and Draw, perform as per cue' game, built as g2. The founder's Escape Gravity board game is played in the sibling unit Weight and mass; its force-card challenges (paper parachute, magnet and paper clip, feather in the air) appear here as DO cards",
+   "Founder's sheets: 'Judge and Jury' role-play game type, used for Aristotle on Trial (a7); drama ideas such as 'astronomers proving Einstein right in 1919'",
    "Founder's gravity voices (gravity_voices.json): Kanada, Brahmagupta, Bhaskara II, Aristotle, John Philoponus, Simon Stevin, Galileo, Newton, Einstein, checked against ideas/ACCURACY.md (Rig Veda readings left out as debated)",
    "Founder's SCI Cards: Vera Rubin, Priyamvada Natarajan, Henry Cavendish, C.V. Vishveshwara, Katherine Johnson's orbit work (orbits left to the Class 4 unit)",
    "Founder's song: 'Gravity' (space and time, a blanket fine; are you good or bad?), used as the topic song and in the big questions",

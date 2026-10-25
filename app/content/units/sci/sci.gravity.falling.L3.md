@@ -41,7 +41,7 @@
 ### What gravity is · *defined*
 **Definition:** Gravity is a pull between things that have mass. On Earth, it pulls everything towards the middle of the Earth.
 
-Let go of anything, and it falls. A mango, a pencil, a raindrop, you after a jump. Nothing has to touch it. The pull reaches across the air, and even across empty space. Gravity never switches off. It pulls on you while you sleep, while you swim and while you fly in a plane. You only notice it when something is not holding you up.
+Let go of anything, and it falls. A mango, a pencil, a raindrop, you after a jump. Nothing has to touch it. The pull reaches across the air, and even across empty space. Gravity never switches off. It pulls on you while you sleep, while you swim and while you fly in a plane. You only notice it when something is not holding you up. How hard gravity pulls on you is called your weight. The unit on Weight and mass explores that.
 - e.g. A ball you throw up always comes back down.
 - e.g. Water in a river flows downhill, towards the sea.
 - e.g. Rain falls from clouds to the ground.
@@ -111,7 +111,7 @@ Pull a friend in a tug of war. Your arms get tired. You use up energy. The Earth
 ### Falling together feels like floating · *defined*
 **Definition:** Things that fall together do not push on each other. So anything in free fall feels weightless, even though gravity is still pulling it.
 
-Fill a bottle with water and make small holes near the bottom. Water squirts out. Now drop the bottle. While it falls, the squirting stops. The water and the bottle are falling together, so the water no longer presses on the holes. In 1907, Einstein imagined a person falling off a roof. While falling, he would feel no weight at all. Einstein called this the happiest thought of his life. Astronauts in the space station feel this all the time. Gravity up there is still about 9 tenths as strong as on the ground. But the station and the astronauts are falling round the Earth together. So nothing pushes on their feet, and they float.
+Fill a bottle with water and make small holes near the bottom. Water squirts out. Now drop the bottle. While it falls, the squirting stops. The water and the bottle are falling together, so the water no longer presses on the holes. In 1907, Einstein imagined a person falling off a roof. While falling, he would feel no weight at all. Einstein called this the happiest thought of his life. Astronauts in the space station feel this all the time. Gravity up there is still about 9 tenths as strong as on the ground. But the station and the astronauts are falling round the Earth together. So nothing pushes on their feet, and they float. The unit on Weight and mass goes deeper into this, with the falling bottle.
 - e.g. Water stops squirting from a falling bottle.
 - e.g. Your tummy feels funny on a swing or a giant wheel as it starts to drop.
 - e.g. Astronauts float in the space station, about 400 kilometres up, though gravity is still strong there.
@@ -140,7 +140,7 @@ This is one of the strangest facts in science. Time itself runs a little slower 
 - e.g. GPS satellite clocks are corrected for gravity every day.
 - e.g. Someone living on a mountain ages a tiny bit faster than someone by the sea. Over a lifetime, it is far less than a second.
 ### How living things know which way is down · *debated*
-Living things feel gravity all the time. Inside your ears are tiny stones, made of the same stuff as chalk. They rest on tiny hairs. When you tip your head, the stones roll and bend the hairs, and your brain knows which way is down. Plants feel gravity too. A seed planted upside down still sends its root down and its shoot up. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied.
+Living things feel gravity all the time. Inside your ears are tiny stones, made of the same stuff as chalk. They rest on tiny hairs. When you tip your head, the stones roll and bend the hairs, and your brain knows which way is down. Plants feel gravity too. A seed planted upside down still sends its root down and its shoot up. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied. The unit on Weight and mass has a project where you watch a root find down.
 - e.g. Tilt your head and you know at once that you tilted. Your ear stones told you.
 - e.g. A potted plant tipped on its side bends its shoot back up within a day or two.
 - e.g. A falling cat twists round to land on its feet.
@@ -290,33 +290,32 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Parent says:* Look at every card where the heavy thing won. What was slowing the light thing down every time?  
   *Child mode:* Count your points. Who won? Now look at the cards where heavy won. What slowed the light thing every time?
   - Think: If there were no air at all, would any card ever be HEAVY FIRST?
-### g2 · Escape Gravity (30 min)
-- **rules:** Put all counters on EARTH. Cut out the force cards and put them in a pile.; Before you start, each player earns one force card by doing its challenge.; Roll the dice and move your counter that many squares towards SPACE.; If you land on a gravity event, do what it says. You can play a force card that beats it, but you must explain how that force works against gravity.; If you land on a star, do any challenge to earn a new force card.; The first player to reach SPACE wins. But they must say why gravity is still pulling them, even out there.
-- **Printable board: A 20-square board from EARTH to SPACE:** 1 EARTH: start here; 2 Star: do a challenge and earn a force card; 3 Dragstorm: thick air holds you back. Go back 1. A Thrust card beats it.; 4 Height Drop: you fall off a step. Go back 2. An Air Resistance card beats it.; 5 Star: earn a force card; 6 Downwell: gravity pulls you down a slope. Go back 1.; 7 Ground Grip: you push off the ground. Go forward 1.; 8 Lagrange Drift: two pulls cancel. Stay here for one turn. A Sideways Speed card beats it.; 9 Star: earn a force card; 10 Free Fall: you float for a moment. Go forward 2.; 11 Gravity Snap: you jumped, and the Earth pulled you back. Go back 2. A Spring Push card beats it.; 12 Heavy Air Pocket: go back 1. An Air Lift card beats it.; 13 Star: earn a force card; 14 Slow Clock: time runs slower near a big mass. Miss a turn.; 15 Pull Cascade: everything pulls everything. Go back 1. A Neutral Pull card beats it.; 16 Orbit: you are falling and missing. Go forward 2.; 17 Star: earn a force card; 18 Black Hole Surge: go back 3. Only a Sideways Speed card beats it.; 19 Escape Speed: you need 11 kilometres a second. Roll a 5 or 6 to go on.; 20 SPACE: you escaped, but say why gravity is still pulling you here
-- **Printable cards: 8 force cards, each earned by doing a real challenge:** Air Resistance: drop a paper parachute and watch it drift; Thrust: blow up a balloon and let it go; Sideways Speed: spin a hula hoop, or whirl a sock-ball on a string; Spring Push: bounce a ball and catch it; Air Lift: keep a feather up in the air by blowing on it; Neutral Pull: play a tug of war that ends in a draw; Balance: stand in tree pose for 20 seconds; Magnet Pull: pick up a paper clip with a magnet
-- **Printable tokens: One counter for each player, and a dice:** 🚀; 🛰️; 🌍; 🌕
-- **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. Lay out the board. 2. Each player chooses one force card and does its challenge, to earn it.  
-  *Parent says:* Gravity is trying to keep us on Earth. To escape, we need forces that work against it. You earn each force card by doing a real challenge.  
-  *Child mode:* Lay out the board. Choose a force card. Do its challenge to earn it. Drop a parachute? Spin a hula hoop?
-- **s2 (16 min)**  
-  *Parent does:* Take turns rolling and moving. When someone lands on a gravity event, ask how their force card beats it.  
-  *Parent says:* You landed on Height Drop. Can you play a card? How does air resistance help when you fall?  
-  *Child mode:* Roll the dice. Move your counter. Landed on a gravity event? Play a force card and explain how it fights gravity.
-  - Ask: How does an Air Resistance card beat Height Drop? (good: The air pushes up on a parachute and slows the fall.; You float down gently, so you don't fall far.)
-  - Ask: How does a Sideways Speed card beat a Black Hole Surge? (good: If you go sideways fast enough, you fall round instead of in.; Like the Moon, you keep falling and missing.)
-  - Note: Help children link each card to the science. Air resistance slows falls. Thrust pushes against the air. Sideways speed turns a fall into an orbit. A spring push is the ground pushing back. A tug-of-war draw is two equal pulls cancelling, like a Lagrange point.
+### g2 · Gravity Cue Cards: Draw, Do, Answer (25 min)
+- **rules:** Cut out the DO, QUESTION and ANSWER cards. Keep them in three piles, face down.; Shuffle the DO cards. On your turn, draw one and do what it says.; Then find the QUESTION card with the same number. Read it out and answer it.; Now turn over the ANSWER card with the same number and check. A good answer scores 1 point. A good reason scores 1 more.; Anyone can challenge an answer card if they think it is wrong. Then you test it again together.; When the DO cards run out, the player with the most points wins.
+- **Printable cards: 12 numbered DO cards:** 1 DO: Drop a pen and a pencil together from your shoulder.; 2 DO: Drop a tissue and a coin together.; 3 DO: Crumple the tissue into a ball. Drop it and the coin together.; 4 DO: Walk up the stairs, then walk down.; 5 DO: Jump as high as you can, 3 times.; 6 DO: Make a ball float in the air all by itself, using nothing else.; 7 DO: Pick up a paper clip with a magnet.; 8 DO: Toss a ball straight up and catch it.; 9 DO: Drop a sheet of paper lying on top of a book.; 10 DO: Hang a key on a thread and let it go still.; 11 DO: Blow a feather or a tissue to keep it up in the air.; 12 DO: Drop a spoon from a chair, then from a table. Listen to the sound.
+- **Printable cards: 12 numbered QUESTION cards, one for each DO card:** 1 Which landed first? Why?; 2 Which landed first? Was it because the tissue is light, or because of the air?; 3 What changed when you crumpled the tissue?; 4 Which was harder, up or down? Why?; 5 What brought you back down every time? Could anyone jump into space?; 6 Why is it impossible? How do birds and balloons stay up?; 7 The whole Earth pulls the clip down. Why did the magnet win?; 8 At the very top, for a moment, the ball stops. Is gravity still pulling it?; 9 Why didn't the paper float away?; 10 Which way does the thread point? Is it the same in Argentina?; 11 What were you doing to fight gravity? What happens when you stop?; 12 Which drop made a louder sound? Why?
+- **Printable cards: 12 numbered ANSWER cards, to check with:** 1 They landed together. Heavy and light things fall the same way.; 2 The coin. The air pushes up on the spread-out tissue and slows it.; 3 It landed almost with the coin. Same tissue, same weight, but less air pushing on it.; 4 Up. Going up, you work against gravity. Going down, gravity helps.; 5 Gravity. You would need about 11 kilometres every second to escape the Earth.; 6 Nothing holds it up, so gravity always wins. Birds and balloons push on the air.; 7 Gravity is very weak. A tiny magnet beats the pull of the whole Earth.; 8 Yes. Gravity never stops. It slowed the ball to a stop, then pulled it back.; 9 The book pushed the air out of the way, so no air pushed up on the paper.; 10 Straight down, towards the middle of the Earth. Yes, down is always towards the middle.; 11 Pushing air up with your breath. When you stop, gravity pulls it down.; 12 From the table. It fell further, so it sped up more and hit harder.
+- **Printable score sheet: Score sheet:** Player name; Cards done; Good answers; Total points
+- **s1 (3 min)**  
+  *Parent does:* 1. Make three piles: DO, QUESTION and ANSWER cards, face down. 2. Shuffle only the DO cards.  
+  *Parent says:* Each card asks you to do something with gravity. After you do it, you answer a question about it. Then we check.  
+  *Child mode:* Make three piles: DO, QUESTION and ANSWER. Shuffle the DO cards. Draw one and do it!
+- **s2 (15 min)**  
+  *Parent does:* Take turns drawing a DO card, doing it, answering the matching QUESTION card and checking the ANSWER card.  
+  *Parent says:* Do it first. Then answer. Then check the answer card. Did you get it?  
+  *Child mode:* Draw a DO card. Do it! Read the question with the same number. Answer it. Then check the answer card.
+  - Ask: Card 8: at the very top of the toss, is gravity still pulling the ball? (good: Yes, gravity never stops pulling.; Yes, that's why it comes back down.)
+  - Note: Card 6 comes from the founder's cards: 'Make a ball float with nothing else.' Let your child try for a minute. Then read the answer. The point is that nothing escapes gravity without something pushing back, like air or a hand.
 - **s3 (4 min)**  
-  *Parent does:* When a player lands on Orbit or Free Fall, stop and talk about it.  
-  *Parent says:* Free Fall moves you forward. Why do astronauts float? Is there no gravity up there?  
-  *Child mode:* Free Fall square! Astronauts float in space. Is it because there's no gravity? Tap your answer.
-  - Check: Why do astronauts float in the space station? → **They and the station are falling round the Earth together**
-- **s4 (4 min)**  
-  *Parent does:* The winner reaches SPACE and explains why gravity is still pulling them there.  
-  *Parent says:* You escaped! But is gravity still pulling you out here? Why?  
-  *Child mode:* You reached SPACE! Is gravity still pulling you? Why?
-  - Ask: Why is gravity still pulling you in space? (good: Everything pulls everything, even from far away.; The Earth, the Sun and the stars still pull, just more weakly.)
-  - Think: Can anything in the universe ever escape gravity completely?
+  *Parent does:* When card 2 comes up, stop and talk about it.  
+  *Parent says:* The coin beat the tissue. Was that because the tissue is light? Try card 3 straight after, and see.  
+  *Child mode:* The coin beat the tissue! Is it because the tissue is light? Now crumple it and try again.
+  - Check: A coin beats a flat tissue to the floor. A crumpled tissue nearly ties with the coin. What slowed the flat tissue? → **The air pushing up on it**
+- **s4 (3 min)**  
+  *Parent does:* Count the points. Then ask each player for their favourite card.  
+  *Parent says:* Which card surprised you most? Why?  
+  *Child mode:* Count your points. Who won? Which card surprised you most?
+  - Think: Every card had gravity in it. Can you think of anything you did today that did not have gravity in it?
 
 ## Experiments
 ### e1 · The Drop Race: one thud or two? (25 min)
@@ -409,37 +408,37 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a bigger parachute falls more slowly. What I saw: the large one took 5 seconds, but the small one took only 2. Why: the big one catches more air, and the air pushes up on it harder.
-### e4 · The Bottle That Stops Squirting (15 min)
-- **question:** What happens to water squirting out of a bottle when the bottle falls?
-- **predict:** Guess first. Water is squirting out of holes in a bottle. You let go of the bottle. Will the water keep squirting while it falls, squirt harder, or stop?
-- **fair test:** Use the same bottle, filled to the same level each time. First hold it still and watch. Then drop it from the same height. Only one thing changes: held or falling. Do it 3 times, and film it in slow motion if you can.
-- **safety:** A grown-up makes the holes with the pin. Do this outside or in the bathroom, and wipe up spills so nobody slips.
-- **record:** Draw the bottle held still, with water squirting. Draw it falling, with no squirts.
-- **results table:** Held or falling? | Did the water squirt out? (Yes, a little, or no)
-- **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up pushes a pin through the side of the bottle near the bottom, to make 3 small holes. 2. Cover the holes with fingers. 3. Fill the bottle with water.  
-  *Parent says:* We'll make some small holes, then fill the bottle up. Keep your fingers over the holes!  
-  *Child mode:* Ask a grown-up to make 3 small holes near the bottom. Cover them with your fingers. Fill it with water.
-- **s2 (2 min)**  
-  *Parent does:* Hold the bottle high over the bucket and take your fingers off the holes.  
-  *Parent says:* Look at the water squirting out. Why does it squirt?  
-  *Child mode:* Hold the bottle up high. Take your fingers away. Watch the water squirt out.
-  - Ask: Why does the water squirt out? (good: Gravity pulls the water down, so it presses on the holes.; The water's weight pushes it out.)
-- **s3 (5 min)**  
-  *Parent does:* 1. While the water is squirting, let go of the bottle so it drops into the bucket. 2. Watch the holes as it falls. 3. Refill and repeat 3 times, filming in slow motion if you can.  
-  *Parent says:* Now, while it squirts, let go. Watch the holes very closely as it falls.  
-  *Child mode:* While the water squirts, let go of the bottle. Watch the holes closely. What happens to the squirts?
-  - Check: When the squirting bottle was falling, what did the water do? → **It stopped squirting**
-- **s4 (1 min)**  
-  *Parent does:* Talk about astronauts in the space station.  
-  *Parent says:* Astronauts float in the space station for the same reason. They and the station are falling together round the Earth. So nothing presses on anything.  
-  *Child mode:* Astronauts float for the same reason! They and their space station fall together. Nothing presses on anything.
-  - Think: If you were inside a falling lift, would you feel your weight?
-- **s5 (3 min)**  
+### e4 · The Falling Ruler: catch it if you can (20 min)
+- **question:** How far does a falling ruler drop before you can catch it? Is your writing hand quicker than your other hand?
+- **predict:** Guess first. When someone lets go of a ruler between your fingers, how many centimetres will it fall before you catch it? Which hand will catch it sooner?
+- **fair test:** Use the same ruler every time, with the 0 mark level with the top of your thumb. The helper lets go without warning. Change only one thing: the hand you catch with. Do 3 tries with each hand, because one try can be a fluke.
+- **safety:** Nothing in this test is dangerous. Use a plastic or wooden ruler, not a metal one with sharp edges.
+- **record:** Fill in the table. Use the chart in the last step to turn each distance into a time.
+- **results table:** Hand | Try 1 (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
+- **s1 (4 min)**  
+  *Parent does:* 1. Your child rests their arm on the table, with their hand over the edge. 2. They open their thumb and first finger a little. 3. Hold the ruler at the top, hanging down between their thumb and finger. The 0 mark should be level with the top of the thumb.  
+  *Parent says:* I'll hold the ruler. You keep your fingers open, ready. Don't look at my hand. Watch the ruler.  
+  *Child mode:* Rest your arm on the table. Open your thumb and finger a little. The ruler hangs between them. Watch the ruler, not the helper.
+- **s2 (6 min)**  
+  *Parent does:* 1. Let go of the ruler without any warning. 2. Your child catches it as fast as they can. 3. Read the number at the top of their thumb. 4. Write it down. 5. Do 3 tries with the writing hand.  
+  *Parent says:* Catch it as fast as you can! Now read the number at the top of your thumb. That's how far it fell.  
+  *Child mode:* Catch it as fast as you can! Read the number at your thumb. Write it down. Do it 3 times.
+  - Note: Wait a different time before each drop, so your child cannot guess when it will come. Most children catch it between 10 and 25 centimetres.
+- **s3 (4 min)**  
+  *Parent does:* Do 3 more tries with the other hand. Find the middle value for each hand.  
+  *Parent says:* Now let's try your other hand. Will it be quicker or slower?  
+  *Child mode:* Now try 3 times with your other hand. Is it quicker or slower?
+  - Check: A light plastic ruler and a heavy wooden ruler are dropped the same way. Which falls further before you catch it, if you are equally quick? → **They fall the same distance**
+- **s4 (4 min)**  
+  *Parent does:* Use the chart to turn the distances into times.  
+  *Parent says:* The ruler speeds up as it falls. In one tenth of a second, it falls 5 centimetres. In two tenths, 20 centimetres. So 20 centimetres means you took about two tenths of a second to catch it.  
+  *Child mode:* The ruler speeds up as it falls. 5 cm means one tenth of a second. 20 cm means two tenths. How quick were you?
+  - Note: Your eyes see the ruler move. A message runs along nerves to your brain. Your brain sends a message to your fingers. All of that takes time. That time is called reaction time.
+- **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: things that fall together feel weightless. What I saw: water squirted out when I held the bottle, but stopped when it fell. Why: the water and the bottle fell together, so the water did not press on the holes.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: my writing hand is a little quicker. What I saw: the ruler fell 15 cm with my writing hand and 19 cm with my other hand. Why: the ruler always falls the same way, so a shorter fall means I caught it sooner.
 
 ## Activities
 ### a1 · How High Can You Jump? Can You Jump into Space? (20 min)
@@ -580,30 +579,33 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Child mode:* Why would a tree want its seeds to fall slowly? Think about where the wind can carry them.
   - Note: A seed that drifts far away does not have to share light and water with its parent tree. Over millions of years, plants with slow-falling, wind-carried seeds spread far. The winged seed is a living parachute or helicopter.
   - Think: Engineers copy seeds to design drones and parachutes. What else could we copy from a falling seed?
-### a7 · The Bean That Knows Which Way Is Down (25 min, 6 days)
-- **safety:** Use a plastic jar if small children are near. Do not eat the beans afterwards.
-- **record:** Draw the beans on day 3, then again on day 6 after the jar was turned. Draw arrows for which way is down.
-- **schedule:** day 1: Soak beans overnight. Then set them in the jar between the paper and the glass, pointing in different directions. (10 min); day 3: Look at the roots. Which way are they growing? Draw them. (5 min); day 4: Turn the jar on its side. Predict what the roots and shoots will do. (5 min); day 6: Look again. Draw the bends. Talk about how the bean knew which way was down. (5 min)
-- **s1 (10 min)**  
-  *Parent does:* 1. Line the inside of the jar with kitchen paper. 2. Stuff cotton wool in the middle to press the paper against the glass. 3. Push 4 soaked beans between the paper and the glass, each pointing a different way. 4. Wet the paper and cotton, and keep them damp.  
-  *Parent says:* We'll plant these beans pointing every which way. Some upside down, some sideways. Will the roots be confused?  
-  *Child mode:* Put paper inside a jar. Push 4 soaked beans between the paper and the glass. Point them all different ways. Keep the paper wet.
+### a7 · Aristotle on Trial (act it out) (25 min)
+- **safety:** Drop the evidence only onto a clear floor, away from toes.
+- **record:** Write the verdict. Then write the one piece of evidence that convinced you most.
+- **s1 (4 min)**  
+  *Parent does:* 1. Give out the roles: the Judge, Aristotle, John Philoponus, Galileo, and the Jury. One person can play two roles. 2. Make name cards. 3. Put the evidence on a table.  
+  *Parent says:* Today, a very old idea is on trial. The idea is: heavy things fall faster than light things. Aristotle will defend it. Philoponus and Galileo will argue against it. The jury decides.  
+  *Child mode:* A very old idea is on trial! Heavy things fall faster: true or false? Choose your role. Judge, Aristotle, Philoponus, Galileo or Jury.
 - **s2 (5 min)**  
-  *Parent does:* Look at the roots after 2 days. Draw them.  
-  *Parent says:* Look at the roots. Which way are they all growing, even the upside-down bean?  
-  *Child mode:* Look at the roots. Which way do they all grow? Even from the upside-down bean? Draw them.
-  - Wait: Leave the jar for 2 days. Keep the paper damp.
-- **s3 (5 min)**  
-  *Parent does:* Turn the jar on its side and leave it.  
-  *Parent says:* Now let's play a trick on the beans. We'll turn the jar on its side. What will the roots do?  
-  *Child mode:* Turn the jar on its side. What will the roots do now? Guess!
-  - Wait: Leave the jar on its side for 2 days.
-- **s4 (5 min)**  
-  *Parent does:* Look at the beans again and talk about how plants sense down.  
-  *Parent says:* The roots bent to grow down again. Inside each root tip are heavy grains of starch. They sink to the bottom of each cell, like sand in a bottle. The plant feels where they settle.  
-  *Child mode:* The roots turned to grow down again! Inside the root tip, heavy grains sink. The plant feels where they settle.
-  - Note: Your ears do something similar. Tiny chalk-like stones in your inner ear rest on hairs. When you tilt your head, they roll, and your brain feels which way is down.
-  - Check: You turned the jar on its side. What did the bean roots do? → **They bent to grow down again**
+  *Parent does:* Aristotle makes his case. He drops a stone and a flat sheet of paper together.  
+  *Parent says:* Aristotle says: 'Look! The stone beats the paper. Heavy things fall faster. Everyone has seen it, for two thousand years.'  
+  *Child mode:* Aristotle, drop a stone and a flat paper. Say: 'See? Heavy things fall faster!' Jury, are you convinced?
+  - Ask: Jury, is this good evidence? Is anything unfair about it? (good: The paper is flat, so the air slows it.; Two things changed: the weight and the shape.)
+- **s3 (8 min)**  
+  *Parent does:* Philoponus and Galileo give their evidence. 1. Drop the full and the empty bottle from a book. 2. Drop a flat paper and a crumpled paper. 3. Lay a paper on a book and drop the book. 4. Galileo holds up the two stones tied together and asks his puzzle.  
+  *Parent says:* Galileo asks: 'If heavy falls faster, these tied stones must fall faster, because together they are heavier. But the light one should hold the heavy one back, so they must fall slower. Which is it?'  
+  *Child mode:* Philoponus, drop the full and empty bottles. Galileo, drop flat and crumpled paper. Then hold up the tied stones. Ask: faster or slower? It can't be both!
+  - Note: Help the 'lawyers' explain each piece of evidence in one sentence. The bottles land together. Crumpled paper beats flat paper, though they weigh the same. Paper on a book falls with the book. The tied stones show the old rule cannot even make sense.
+- **s4 (4 min)**  
+  *Parent does:* The jury talks, then the judge asks for a verdict.  
+  *Parent says:* Jury, what is your verdict? Is the idea true or false? Which evidence convinced you?  
+  *Child mode:* Jury, decide! Is the idea true or false? Which evidence convinced you most?
+  - Check: What is the best reason to decide that heavy things do not fall faster? → **Fair tests, changing only one thing, show heavy and light things land together**
+- **s5 (4 min)**  
+  *Parent does:* Talk about the trial afterwards.  
+  *Parent says:* People believed Aristotle for about 1,900 years. Philoponus was laughed at. Is it hard to disagree with someone everyone admires? When should you?  
+  *Child mode:* People believed Aristotle for a very long time. Philoponus was laughed at. Is it hard to disagree with someone famous? When should you?
+  - Think: Aristotle was right about many other things. Can a great thinker be wrong about one thing and still be great?
 ### a8 · A Magnet Beats the Whole Earth (8 min)
 - **safety:** Keep magnets away from phones, bank cards and small children's mouths.
 - **record:** Write one sentence: which is stronger here, the tiny magnet or the whole Earth's gravity?
@@ -760,9 +762,9 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    **Answer:** 40 cm. *Why:* After 2 beats it had gone 40 cm, not 20 cm. The marble speeds up, so it covers more ground in each beat. Picking 20 cm means expecting a steady speed, 10 cm every beat.
 6. (order) Four things are dropped from a balcony. Put them in order, from FASTEST to SLOWEST. They are a fluffy semal seed, a cricket ball, a flat sheet of paper and a crumpled paper ball.  
    **Answer:** order shown. *Why:* The cricket ball is heavy and compact. The crumpled ball is small. The flat sheet catches lots of air. The fluffy seed catches the most air for its weight.
-7. (mcq) Why does water stop squirting out of the holes when the bottle is dropped?  
-   Options: The water and bottle fall together, so the water no longer presses on the holes / The holes close up when it falls / Gravity switches off while things fall  
-   **Answer:** The water and bottle fall together, so the water no longer presses on the holes. *Why:* Things that fall together do not push on each other. So the water stops pressing on the bottle, and stops squirting. Picking 'gravity switches off' is a common mix-up. Gravity still pulls both. That is why they are falling.
+7. (mcq) In the Falling Ruler test, Ali caught the ruler after it fell 20 cm. Meera caught it after 5 cm. Who was quicker?  
+   Options: Meera, because the ruler had less time to fall / Ali, because his number is bigger / Neither, because the ruler fell differently each time  
+   **Answer:** Meera, because the ruler had less time to fall. *Why:* The ruler falls in the same way every time, so a shorter fall means a quicker catch. 5 cm takes about one tenth of a second. 20 cm takes about two tenths. Picking 'Ali' means reading a bigger number as better. Here a smaller number is better.
 8. (truefalse) There is no gravity at the space station, about 400 kilometres up.  
    **Answer:** False. *Why:* False. Gravity there is still about 9 tenths as strong as on the ground. The astronauts float because they are falling round the Earth with the station.
 9. (mcq) In the space blanket, you tried a heavy ball and a light ball. Which ball made the deepest dent?  
@@ -833,7 +835,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 ## Videos
 - **Brian Cox visits the world's biggest vacuum chamber (Human Universe)** (BBC, 5 min) id `E43-CfukEgs`: A bowling ball and a bunch of feathers are dropped in NASA's huge vacuum chamber in Ohio. All the air has been pumped out. They land together. Children gasp. It is the clearest proof in this unit. *Check:* Video id recalled, not opened from here. A parent should check it plays and shows the BBC feather and bowling ball drop before showing it.
 - **Apollo 15 hammer and feather drop on the Moon (1971)** (NASA, 1 min) id `to find`: The real film of David Scott dropping a hammer and a falcon feather on the Moon. They land together. It is short, real and historic. *Check:* The event and NASA's film are real. The YouTube id is still to find: search NASA's channel for 'Apollo 15 hammer feather drop'.
-- **Why Gravity is NOT a Force** (Veritasium, 17 min) id `XRr1kaXKBsU`: For the parent and curious older children. It explains Einstein's idea that falling is following curved space-time, and why a falling person feels weightless. It explains the space blanket and the 'nobody is pulling' idea well. *Check:* Video id recalled, not opened from here. A parent should check it plays and is the Veritasium video before showing it. It is long and fast for a Class 3 child, so watch short parts together.
+- **The slinky drop, in slow motion** (Veritasium, 3 min) id `to find`: A stretched slinky toy is held from the top and let go. In slow motion, the bottom of the slinky hangs still for a moment. Meanwhile the top falls down to meet it. It is a puzzling, beautiful thing to watch about falling, and a good question to argue about. *Check:* Veritasium made slow-motion slinky drop videos around 2011. The YouTube id is still to find. Watch it first and choose the clearest slow-motion clip.
 
 ## Quiz
 1. (mcq) What does 'down' mean?  
@@ -872,9 +874,9 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 12. (mcq) Why do astronauts float in the space station?  
    Options: They are falling round the Earth with the station / There is no gravity up there / They are lighter than air  
    **Answer:** They are falling round the Earth with the station. *Why:* Gravity is still about 9 tenths as strong there. They float because they fall together with the station. Picking 'no gravity' is the most common mistake about space.
-13. (mcq) Water stops squirting from a bottle while it falls. Why?  
-   Options: The water and the bottle fall together / Gravity switches off / The holes get blocked  
-   **Answer:** The water and the bottle fall together. *Why:* Things falling together do not press on each other. Picking 'gravity switches off' is a common mix-up. Gravity is what makes them fall.
+13. (mcq) A heavy wooden ruler and a light plastic ruler are dropped the same way. Which falls further in one tenth of a second?  
+   Options: They fall the same distance, about 5 cm / The heavy one / The light one  
+   **Answer:** They fall the same distance, about 5 cm. *Why:* Heavy and light things fall in the same way. So both fall about 5 cm in one tenth of a second. Picking 'the heavy one' is the old idea of Aristotle.
 14. (mcq) What did astronomers see during the eclipse of 1919?  
    Options: Starlight bending as it passed the Sun / Stars falling out of the sky / The Sun stopping  
    **Answer:** Starlight bending as it passed the Sun. *Why:* Starlight bent near the Sun, as Einstein predicted. Gravity bends light, even though light has no mass. Picking 'stars falling' mixes this up with shooting stars, which are tiny rocks burning in the air.
@@ -996,6 +998,7 @@ Gravity (sci.gravity.L3): The founder's Gravity song
 - [Glass marbles](https://www.amazon.in/s?k=glass+marbles+kids) (material): Roll along the space blanket and down Galileo's Ramp. Used in a2, p1. 
 - [A metre of stretchy lycra fabric](https://www.amazon.in/s?k=lycra+fabric+metre) (material): Makes a better space blanket than a bedsheet, because it dents deeply under a heavy ball. Used in a2. 
 - [Small strong magnets](https://www.amazon.in/s?k=small+magnets+for+kids+science) (tool): Lift a paper clip against the whole Earth's pull, to show how weak gravity is. Used in a8. 
+- [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): For the Falling Ruler test, and for measuring jumps. Used in e4, a1. 
 - [Steel thali or plate](https://www.amazon.in/s?k=steel+thali) (tool): Something hard and ringing to land on, so you can hear one clang or two in the Drop Race. Most homes already have one. Used in e1. 
 - [Gravity, by Jason Chin](https://www.amazon.in/s?k=Gravity+Jason+Chin) (book): A beautiful picture book. It asks what would happen if gravity stopped, and shows everything it holds together. Used in a2. If bought, read it on the first day after the story, before the space blanket.
 - [Starry Messenger, by Peter Sís](https://www.amazon.in/s?k=Starry+Messenger+Peter+Sis) (book): A picture-book life of Galileo. He asked the falling question, and was punished for his ideas about the sky. Used in e1, p1. If bought, read it before Galileo's Ramp. Its pages about Galileo replace the 'Who first found' card.
@@ -1019,8 +1022,9 @@ Gravity (sci.gravity.L3): The founder's Gravity song
 - Core: e1, e2, e3, e4, a1, a2, a3, a4, a7, g1, p1, ws-core
 
 ## Sources
-- Founder's Gravity chapter, app/content/ideas/by_topic/gravity.md and gravity_points.json: the space-time blanket with big, small and equal balls (a2); 'everything pulls everything, the heavier ones succeed'; 'no one is actually pulling, no energy expended' with the tug of war (a3); 'Lagrange point: two pull you from either side' (a3); 'How high can you jump? Climb stairs, climb slide. Can you jump into the sky?' and escape velocity (a1); 'make an object float with no other material used'; 'drop crumpled and normal paper and one over other: air resistance vs gravity' (e2); 'paper parachute' force card (e3, g2); the ISS: weightless because the normal force is zero, not gravity (e4, explanations); time dilation and the 'Time Dilation Story of 4 Sisters' (a5); 'Is gravity a quantum force? Gravitons?'; light bending and photons with energy; gurutva and gravitas; 'pick paper clip with magnet' (a8)
-- Founder's Escape Gravity board game: force cards earned by physical challenges, gravity events (Dragstorm, Height Drop, Lagrange Drift, Gravity Snap, Black Hole Surge, Pull Cascade, Downwell, Heavy Air Pocket), adapted as g2
+- Founder's Gravity chapter, app/content/ideas/by_topic/gravity.md and gravity_points.json: the space-time blanket with big, small and equal balls (a2); 'everything pulls everything, the heavier ones succeed'; 'no one is actually pulling, no energy expended' with the tug of war (a3); 'Lagrange point: two pull you from either side' (a3); 'How high can you jump? Climb stairs, climb slide. Can you jump into the sky?' and escape velocity (a1); 'make an object float with no other material used'; 'drop crumpled and normal paper and one over other: air resistance vs gravity' (e2); 'paper parachute' force card (e3, g2); the ISS: weightless because nothing pushes, not because gravity is zero (explanations; the falling bottle itself is in the sibling Weight and mass unit); time dilation and the 'Time Dilation Story of 4 Sisters' (a5); 'Is gravity a quantum force? Gravitons?'; light bending and photons with energy; gurutva and gravitas; 'pick paper clip with magnet' (a8)
+- Founder's game packaging 'Set 3: Draw, Do, Answer, Verify (Do, Question and Answer cards, numbered)' and the sheets' 'Shuffle and Draw, perform as per cue' game, built as g2. The founder's Escape Gravity board game is played in the sibling unit Weight and mass; its force-card challenges (paper parachute, magnet and paper clip, feather in the air) appear here as DO cards
+- Founder's sheets: 'Judge and Jury' role-play game type, used for Aristotle on Trial (a7); drama ideas such as 'astronomers proving Einstein right in 1919'
 - Founder's gravity voices (gravity_voices.json): Kanada, Brahmagupta, Bhaskara II, Aristotle, John Philoponus, Simon Stevin, Galileo, Newton, Einstein, checked against ideas/ACCURACY.md (Rig Veda readings left out as debated)
 - Founder's SCI Cards: Vera Rubin, Priyamvada Natarajan, Henry Cavendish, C.V. Vishveshwara, Katherine Johnson's orbit work (orbits left to the Class 4 unit)
 - Founder's song: 'Gravity' (space and time, a blanket fine; are you good or bad?), used as the topic song and in the big questions
