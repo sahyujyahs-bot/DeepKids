@@ -3394,7 +3394,8 @@
      }
     ]
    },
-   "how": "e1"
+   "how": "e1",
+   "why_maths": "Scientists don't just say 'the shoe grips better'. They ask 'how much better?' Dividing one number by the other tells us: this many times better."
   },
   {
    "problem": "Look at the forcemeter in the picture. The big numbers are whole newtons. Each small mark between them is half a newton. What is the reading?",
@@ -3411,7 +3412,8 @@
     "value": 4.5,
     "unit": "N",
     "label": "Each small mark is half a newton."
-   }
+   },
+   "why_maths": "A forcemeter only helps if you can read it. Reading a scale with small marks between the numbers is the maths that turns a pointer into an answer."
   },
   {
    "problem": "Four shoes were tested. The board's end went this high before each one slid: rubber chappal 14 cm, school shoe 10 cm, sock 4 cm, slipper 7 cm. Draw a bar chart of these heights. Then answer: which one grips second best?",
@@ -3447,7 +3449,8 @@
      }
     ]
    },
-   "how": "e1"
+   "how": "e1",
+   "why_maths": "After a test you have a list of numbers, which is hard to compare at a glance. A bar chart turns the numbers into bars, so the best grip jumps out: the tallest bar wins."
   },
   {
    "problem": "Two notebooks have 40 pages each. You lay all their pages over each other, one from each book in turn. How many places are there where one page touches the next?",
@@ -3485,7 +3488,8 @@
      ]
     ]
    },
-   "how": "e2"
+   "how": "e2",
+   "why_maths": "Friction adds up: every place where two pages touch adds a little grip. Counting those places, and spotting the pattern, shows why hundreds of pages are so hard to pull apart."
   },
   {
    "problem": "The Moon moves about 4 cm further from Earth every year. About how far will it move in 80 years, a long human lifetime? Give your answer in metres and centimetres.",
@@ -3521,7 +3525,8 @@
      }
     ]
    },
-   "how": "a6"
+   "how": "a6",
+   "why_maths": "4 cm a year sounds tiny. Multiplying it by the years of a whole life shows how small changes add up to something you could measure with your own arms."
   }
  ],
  "song": {

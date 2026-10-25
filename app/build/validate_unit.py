@@ -105,6 +105,7 @@ def check(path):
         if not b.get("used_in") or any(x not in ids for x in b["used_in"]): P(f"buy item {b.get('item')}: used_in must list element ids")
     for mth in u["maths"]:
         if not mth.get("math_unit", "").startswith("math."): P("maths problems need a math_unit id")
+        if not mth.get("why_maths"): P("maths problems need `why_maths`: one plain sentence on why this maths helps with this science")
     if not u["plan"].get("start_options") or not u["plan"].get("default_order"): P("plan needs start_options and default_order")
     if len(u["warmup"]) < 5: P("warmup: 5+ quick questions")
     return e, mins, days

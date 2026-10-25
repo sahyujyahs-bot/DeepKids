@@ -1,0 +1,10 @@
+const { chromium } = require('/opt/node-tools/node_modules/playwright');
+(async()=>{const SP=process.argv[2];const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
+const ctx=await b.newContext({viewport:{width:400,height:860}});const p=await ctx.newPage();const errs=[];p.on('pageerror',e=>errs.push(e.message));
+await p.goto('file://'+SP+'/app_prev.html');await p.waitForTimeout(500);await p.fill('#lgPhone','98765 43210');await p.fill('#lgName','S');await p.click('[data-act="login"]');await p.waitForTimeout(500);
+await p.fill('#obName','Liri');await p.click('[data-age="8"]');await p.click('[data-ob="next"]');await p.click('[data-b="ncert"]');for(let i=0;i<4;i++)await p.click('[data-ob="next"]');await p.waitForTimeout(400);
+await p.evaluate(()=>fxOpen('sci.forces.friction.L3'));await p.waitForTimeout(200);
+await p.evaluate(()=>document.querySelector('.fxlegend').scrollIntoView());await p.waitForTimeout(200);await p.screenshot({path:SP+'/f70_map.png'});
+const go=async(sec,key,name)=>{const i=await p.evaluate(id=>FXALL.sections.findIndex(s=>s.id===id),sec);await p.evaluate(i=>fxGo(i,0),i);await p.waitForTimeout(200);if(key)await p.evaluate(k=>document.querySelector(`.fxc[data-key="${k}"]`).scrollIntoView(),key);await p.waitForTimeout(300);await p.screenshot({path:SP+'/f70_'+name+'.png'})};
+await go('g1',null,'glead');await go('g1','step.g1.s2','gstep');await go('maths','math.2','math');
+console.log('errors:',errs);await b.close()})();

@@ -40,6 +40,9 @@ If either of them has to stop and work out what we meant, we have failed. Depth 
 | Static (starting) friction is usually bigger than sliding friction. | It is harder to start pushing something than to keep it moving. Scientists call the grip that stops things starting "static friction". Once a thing is sliding, the grip is a little weaker. |
 | 12 ÷ 4 = 3: the shoe stayed on a slope 3 times as high. | The shoe stayed put until the slope was 12 cm high. The sock slid at just 4 cm. 12 divided by 4 is 3. So the shoe stayed on a slope 3 times as steep. |
 
+## Maths inside a science unit
+Every maths problem must grow out of something the child did or saw in this unit, and say why the maths helps, in `why_maths`: "After a test you have a list of numbers. A bar chart shows the best at a glance." Never add maths just because the topic has numbers.
+
 ## Visuals
 
 Every card should have something to look at. **Choose the visual by asking: what does the reader need to see to understand this card?** Never because numbers appear.
