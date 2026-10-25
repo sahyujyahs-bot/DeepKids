@@ -29,12 +29,14 @@ REPOS = [
  ("APEXCalculus/APEXCalculus_Source", "latex", "math"), ("mitchkeller/applied-combinatorics", "pretext", "math"),
  ("twjudson/aata", "pretext", "math"), ("rbeezer/fcla", "pretext", "math"), ("oscarlevin/discrete-book", "pretext", "math"),
  ("OpenIntroStat/ims", "quarto", "math"), ("uccser/cs-unplugged", "unplugged", "math"),
+ ("CompCogNeuro/ed4", "markdown", "sci"), ("holdenlee/number-theory", "latex", "math"),
 ]
 # licence -> may we put the text itself into DeepKids lessons (a paid product)?
 USE = {"CC BY 4.0": "reuse", "CC BY-SA": "share-alike", "GFDL": "share-alike", "CC BY-NC-SA 4.0": "reference", "CC BY-NC": "reference", "CC BY-NC-SA": "reference"}
 FIXED_LICENCE = {"OpenLogicProject/OpenLogic": "CC BY 4.0", "OpenIntroStat/openintro-statistics": "CC BY-SA", "OpenIntroStat/ims": "CC BY-SA",
                  "mitchkeller/applied-combinatorics": "CC BY-SA", "twjudson/aata": "GFDL", "rbeezer/fcla": "GFDL",
-                 "oscarlevin/discrete-book": "CC BY-NC-SA", "APEXCalculus/APEXCalculus_Source": "CC BY-NC", "uccser/cs-unplugged": "CC BY-SA"}
+                 "oscarlevin/discrete-book": "CC BY-NC-SA", "APEXCalculus/APEXCalculus_Source": "CC BY-NC", "uccser/cs-unplugged": "CC BY-SA", "CompCogNeuro/ed4": "CC BY 4.0", "holdenlee/number-theory": "no licence"}
+USE["no licence"] = "reference"
 NOTE = {"reuse": "Text may be adapted into DeepKids lessons with credit.",
         "share-alike": "Text may be adapted only if the adapted lesson is shared under the same licence; use for ideas and facts, write our own words.",
         "reference": "Non-commercial licence: use for research, facts and ideas only; never copy text into DeepKids (a paid product)."}
@@ -134,6 +136,16 @@ def quarto(d, title):
             elif secs: secs[-1]['text'] += sp(re.sub(r'```.*?```|<[^>]+>|\[\^?[^\]]*\]\([^)]*\)|[*_`#>]', ' ', part, flags=re.S))[:20000]
     return [dict(title=title, sections=[s for s in secs if len(s['text']) > 200])]
 
+def markdown(d, title):
+    secs = []
+    for f in sorted(glob.glob(os.path.join(d, 'chapter-*.md'))):
+        s = open(f, errors='ignore').read(); chap = ''
+        for part in re.split(r'(?m)^(#{1,2} .+)$', s):
+            if part.startswith('# '): chap = sp(re.sub(r'\{.*\}', '', part[2:]))
+            elif part.startswith('## '): secs.append(dict(chapter=chap, section=sp(re.sub(r'\{.*\}', '', part[3:])), objectives=[], key_terms=[], glossary=[], exercises=0, text=''))
+            elif secs: secs[-1]['text'] += sp(re.sub(r'```.*?```|<[^>]+>|\[\^?[^\]]*\]\([^)]*\)|[*_`#>]', ' ', part, flags=re.S))[:20000]
+    return [dict(title=title, sections=[s for s in secs if len(s['text']) > 200])]
+
 def unplugged(d, title):
     secs = []
     base = os.path.join(d, 'csunplugged', 'topics', 'content', 'en')
@@ -148,11 +160,12 @@ TITLES = {"OpenLogicProject/OpenLogic": "The Open Logic Text", "OpenIntroStat/op
           "APEXCalculus/APEXCalculus_Source": "APEX Calculus", "mitchkeller/applied-combinatorics": "Applied Combinatorics (Keller & Trotter)",
           "twjudson/aata": "Abstract Algebra: Theory and Applications (Judson)", "rbeezer/fcla": "A First Course in Linear Algebra (Beezer)",
           "oscarlevin/discrete-book": "Discrete Mathematics: An Open Introduction (Levin)", "OpenIntroStat/ims": "Introduction to Modern Statistics (OpenIntro)",
-          "uccser/cs-unplugged": "CS Unplugged (computer science without computers, ages 5-14)"}
+          "uccser/cs-unplugged": "CS Unplugged (computer science without computers, ages 5-14)",
+          "CompCogNeuro/ed4": "Computational Cognitive Neuroscience (O'Reilly et al.)", "holdenlee/number-theory": "Number Theory (open draft, Holden Lee)"}
 cat = []
 for repo, kind, subj in REPOS:
     d = clone(repo, kind)
-    books = openstax(d) if kind == 'openstax' else {'latex': latex, 'pretext': pretext, 'quarto': quarto, 'unplugged': unplugged}[kind](d, TITLES[repo])
+    books = openstax(d) if kind == 'openstax' else {'latex': latex, 'pretext': pretext, 'quarto': quarto, 'unplugged': unplugged, 'markdown': markdown}[kind](d, TITLES[repo])
     for b in books:
         lic = b.get('licence') or FIXED_LICENCE[repo]; use = USE.get(lic, 'reference')
         slug = b.get('slug') or repo.split('/')[1].lower()

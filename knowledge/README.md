@@ -1,6 +1,6 @@
 # Open textbooks knowledge base
 
-42 open textbooks (10,891,105 words, 5,970 sections) whose full source is published on GitHub, extracted and linked to every subtopic of the DeepKids curriculum map (`app/content/curriculum/`). They are written for teenagers and adults; DeepKids uses them as the deepest, most accurate reference behind lessons for 6–10 year olds.
+44 open textbooks (11,216,673 words, 6,338 sections) whose full source is published on GitHub, extracted and linked to every subtopic of the DeepKids curriculum map (`app/content/curriculum/`). They are written for teenagers and adults; DeepKids uses them as the deepest, most accurate reference behind lessons for 6–10 year olds.
 
 Only github.com is reachable from the build environment, so books whose source lives elsewhere (OpenStax web, LibreTexts, CK-12, Wikibooks, Siyavula, NCERT) are not here.
 
@@ -61,3 +61,5 @@ Only github.com is reachable from the build environment, so books whose source l
 | Discrete Mathematics: An Open Introduction (Levin) | math | CC BY-NC-SA | **reference** | 157 | 251,658 | [source](https://github.com/oscarlevin/discrete-book) |
 | Introduction to Modern Statistics (OpenIntro) | math | CC BY-SA | **share-alike** | 146 | 108,942 | [source](https://github.com/OpenIntroStat/ims) |
 | CS Unplugged (computer science without computers, ages 5-14) | math | CC BY-SA | **share-alike** | 697 | 132,551 | [source](https://github.com/uccser/cs-unplugged) |
+| Computational Cognitive Neuroscience (O'Reilly et al.) | sci | CC BY 4.0 | **reuse** | 62 | 69,883 | [source](https://github.com/CompCogNeuro/ed4) |
+| Number Theory (open draft, Holden Lee) | math | no licence | **reference** | 306 | 255,685 | [source](https://github.com/holdenlee/number-theory) |

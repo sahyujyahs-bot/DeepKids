@@ -502,5 +502,29 @@
   "sections": 697,
   "words": 132551,
   "glossary_terms": 0
+ },
+ {
+  "slug": "ed4",
+  "title": "Computational Cognitive Neuroscience (O'Reilly et al.)",
+  "repo": "https://github.com/CompCogNeuro/ed4",
+  "subject": "sci",
+  "licence": "CC BY 4.0",
+  "use": "reuse",
+  "note": "Text may be adapted into DeepKids lessons with credit.",
+  "sections": 62,
+  "words": 69883,
+  "glossary_terms": 0
+ },
+ {
+  "slug": "number-theory",
+  "title": "Number Theory (open draft, Holden Lee)",
+  "repo": "https://github.com/holdenlee/number-theory",
+  "subject": "math",
+  "licence": "no licence",
+  "use": "reference",
+  "note": "Non-commercial licence: use for research, facts and ideas only; never copy text into DeepKids (a paid product).",
+  "sections": 306,
+  "words": 255685,
+  "glossary_terms": 0
  }
 ]
