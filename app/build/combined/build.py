@@ -33,7 +33,7 @@ for subj, uni in (('sci', U),):
             if p:
                 written += 1
                 data['items'].append({"k": key, "board": "combined", "subj": subj, "level": cls, "book": f"DeepKids Combined · Class {cls}",
-                    "n": t['id'], "title": p['title'], "dk": t['dk'],
+                    "n": t['id'], "title": p['title'], "dk": t['dk'] if isinstance(t['dk'], list) else [t['dk']] if t['dk'] else [],
                     "c": {"covers": "; ".join(f"{BN[x['b']]} {x['ref']} {x['title']}" for x in boards), "boards": boards, "topic": t['title'],
                           "p": {k: v for k, v in p.items() if k not in ('key', 'board', 'subj', 'level', 'n')}}})
             plan[subj].setdefault(str(cls), []).append({"topic": t['id'], "title": t['title'], "dk": t['dk'], "boards": boards,
@@ -46,6 +46,27 @@ for subj in plan:
             for q in parts:
                 if q: out.append(q.pop(0))
         plan[subj][cls] = out
+# subtopic-level units (app/content/units/<subj>/*.json): attach each to its topic rung by the curriculum's topic-level name
+import re
+slug = lambda x: re.sub(r'[^a-z0-9]+', '-', x.lower()).strip('-')
+CUR = json.load(open(os.path.join(APP, 'content', 'curriculum', 'sci.json')))
+TL = {s: t for t in CUR['topic_levels'] for s in t['subtopic_levels']}
+data['units'] = {}
+for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
+    if f.endswith('.art.json'): continue
+    u = json.load(open(f)); t = TL.get(u['id'])
+    if not t: print('unit not in the curriculum:', u['id']); continue
+    art = f[:-5] + '.art.json'
+    if os.path.exists(art): u['img'] = json.load(open(art))
+    data['units'][u['id']] = u
+    for e in plan.get(t['subject'], {}).get(str(t['level']), []):
+        if e['topic'] == slug(t['name']) or slug(e['title']) == slug(t['name']):
+            e.setdefault('units', []).append({"id": u['id'], "title": u['title']})
+            for it in data['items']:
+                if it.get('k') == e.get('k'): it['c'].setdefault('units', []).append({"id": u['id'], "title": u['title']})
+            break
+    else: print('no rung for unit', u['id'])
+print('units:', len(data['units']))
 data['combined'] = plan
 data.pop('notebook', None)
 json.dump(data, open(DATA, 'w'), ensure_ascii=False, separators=(",", ":"))
