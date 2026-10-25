@@ -1,0 +1,15 @@
+const { chromium } = require('/opt/node-tools/node_modules/playwright');
+(async()=>{const SP=process.argv[2];const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
+const ctx=await b.newContext({viewport:{width:400,height:860}});const p=await ctx.newPage();const errs=[];p.on('pageerror',e=>errs.push(e.message));
+await p.goto('file://'+SP+'/app_prev.html');await p.waitForTimeout(500);await p.fill('#lgPhone','98765 43210');await p.fill('#lgName','S');await p.click('[data-act="login"]');await p.waitForTimeout(500);
+await p.fill('#obName','Liri');await p.click('[data-age="8"]');await p.click('[data-ob="next"]');await p.click('[data-b="ncert"]');for(let i=0;i<4;i++)await p.click('[data-ob="next"]');await p.waitForTimeout(400);
+await p.evaluate(()=>{const u=DATA.units['sci.forces.friction.L3'];u.maths[2].context="Remember the slope test, where you lifted a board until each shoe slid? Here are some results.";u.maths[2].answer_chart={type:"bar",title:"How high the slope went before each one slid",x:"Shoe",y:"Height (cm)",data:[{label:"Rubber chappal",value:14,emoji:"🩴"},{label:"School shoe",value:10,emoji:"👟"},{label:"Slipper",value:7,emoji:"🥿"},{label:"Sock",value:4,emoji:"🧦"}]};
+ u.maths[1].chart={type:"scale",title:"The forcemeter",min:0,max:10,step:0.5,value:5,unit:"newtons (N)"};u.agreed[4].chart={type:"pie",title:"The world's energy",data:[{label:"Lost to friction and wear",value:23},{label:"Everything else",value:77}]};
+ u.explanations[2].chart={type:"line",title:"Pulling a shoe with a forcemeter",x:"Time (seconds)",y:"Pull (newtons)",data:[{label:"0",value:0},{label:"1",value:2},{label:"2",value:4},{label:"3",value:5},{label:"4",value:3},{label:"5",value:3}]};fxOpen(u.id)});await p.waitForTimeout(300);
+await p.screenshot({path:SP+'/f63_map.png'});
+const go=async(id,name,fn)=>{const i=await p.evaluate(id=>FXALL.sections.findIndex(s=>s.id===id),id);await p.evaluate(i=>fxGo(i,0),i);await p.waitForTimeout(200);if(fn)await fn();await p.waitForTimeout(300);await p.screenshot({path:SP+'/f63_'+name+'.png'})};
+await go('maths','math',async()=>{await p.evaluate(()=>document.querySelector('.fxc[data-key="math.2"]').scrollIntoView());await p.click('.fxc[data-key="math.2"] summary')});
+await go('maths','math1',async()=>{await p.evaluate(()=>document.querySelector('.fxc[data-key="math.1"]').scrollIntoView())});
+await go('agreed','agreed',async()=>{await p.evaluate(()=>document.querySelector('.fxc[data-key="agreed"] .fxchart').scrollIntoView())});
+await go('explanations','expl',async()=>{await p.evaluate(()=>document.querySelector('.fxc[data-key="expl.2"] .fxchart').scrollIntoView({block:"center"}))});
+console.log('errors:',errs);await b.close()})();

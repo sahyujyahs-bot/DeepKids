@@ -21,6 +21,18 @@ websites, useful links, Activity Curation, Game Types Universe) and DeepKids V0.
 Activity Box, Other kids ideas, reading material). Use their activities, links and ideas first, then add many more. List what was used in
 `sources.founder`, and the papers behind surprising claims in `sources.science`.
 
+## How a unit teaches (method)
+Adapted from Anthropic's open K-12 teacher skills (github.com/anthropics/k12-teacher-skills, Apache 2.0) and common learning-science practice.
+- **Something to notice first.** Open with a real thing to see or do (the phenomenon), not an explanation: "What do you notice? What do you wonder?"
+- **Try it before we explain it.** Hands-on investigation comes before the explanation cards, so the explanation answers a question the child already has.
+- **Claim, evidence, reasoning.** After each experiment the child says (Class 1–2) or writes (Class 3–5): what I think (claim), what I saw (evidence), why (reasoning).
+- **Models are drawings that explain.** Children draw what they think is happening, including the parts they can't see.
+- **Wrong answers that teach.** Quiz and check options come from real misconceptions children have. The answer explanation says what that wrong answer means and what to try next.
+- **Small checks, often.** Each flow has one or two quick checks; the end-of-unit quiz is not the only check.
+- **Asset-based words.** Never "weak", "behind", "can't". Say exactly what the child does: "counts the marks but not their size".
+- **Realistic time.** Each part's minutes must be doable by a real family; don't overload a day.
+- **Every card has a visual and its own context** (see `app/content/WRITING.md`).
+
 ## Shared building blocks
 
 **Two ways to follow every flow.** A unit is taught either by a **parent following the app step by step**, or by the **child following the app alone**. The family picks the mode when starting, and can switch at any step. So every step is written twice:
