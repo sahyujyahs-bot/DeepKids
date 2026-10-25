@@ -36,3 +36,7 @@
 - Kites Design onboarding: bold one-colour screens (yellow, lilac, orange), playful line-art characters, big short headlines, one dark pill button at the bottom.
 - Kids learning "Homework" board: subject filter chips, assignments as tilted paper cards with hand-drawn scribbles and arrows, a floating toolbar (colour, sticker, pen, add). Good for worksheets and the sketchboard later.
 - Nixtio "My Learning Plan" (web): a path of lesson cards joined by a dotted line, status chips (Completed, Upcoming, Watching), counters (Total, Completed, Upcoming), events column on the right. Good for the plan and unit map.
+- Camp app (Hi-fi design): warm illustrated scenes at the top of each screen, "Hello, <name>", search, round location chips, child registration with photo, chips for hobbies and allergies, one big green button. Good for onboarding and child profiles.
+- Neobrutalism (NFT and Dino World sets): thick black outlines, flat lime/lilac fills, hand-drawn stars and squiggles, chunky buttons, quiz screens with big answer pills ("What type of dinosaur is this?"). Good for quizzes and games.
+- Mobile store concept (Aleksey Kostiuk): bold single-colour backgrounds, character cards in a 2-column grid with filter chips. Good for the Library and the buy list.
+- Kidory e-book app: illustrated book covers, author avatars, a story page with Audio/Text toggle and a reading panel (brightness, background colour, text size). Good for stories and read-aloud.
