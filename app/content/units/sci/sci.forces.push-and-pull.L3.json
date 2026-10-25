@@ -1636,7 +1636,7 @@
      "adult": true,
      "do": "1. Your child pushes the wall gently with both feet. 2. Mark where the back of the towel stops with chalk. 3. Measure from the wall to the mark. 4. Do it 3 times each for a gentle, a medium and a hard push.",
      "say": "Push gently. Now let's measure how far you slid. Now a medium push. Now your hardest push.",
-     "kid": "Push gently. Mark where you stop. Measure it. Now push medium. Now push hard. Do each one 3 times.",
+     "kid": "Push gently and mark where you stop. Measure it. Then push medium, then hard. Do each push 3 times.",
      "parent": "Your child pushed the wall, but they moved. Something must have pushed them. The only thing touching their feet was the wall. To find the middle value, put the three numbers in order and take the middle one."
     },
     {
@@ -1661,7 +1661,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Help your child draw two arrows: one on the wall, pointing into the wall, and one on themselves, pointing away from the wall. Make them the same length.",
+     "do": "Help your child draw two arrows of the same length. One goes on the wall, pointing into the wall. The other goes on your child, pointing away from the wall.",
      "say": "Draw your push on the wall as an arrow. Now draw the wall's push on you. Should the arrows be the same length?",
      "kid": "Draw an arrow for your push on the wall. Draw an arrow for the wall's push on you. Make them the same length.",
      "chart": {
@@ -1823,7 +1823,7 @@
      "mins": 10,
      "do": "1. Let go. 2. Measure from the start to where the straw stopped. 3. Write it down. 4. Repeat with 4 breaths and 6 breaths.",
      "say": "Let go! How far did it go? Now let's try 4 breaths, then 6.",
-     "kid": "Let go! Measure how far it went. Write it down. Now try 4 breaths. Then 6.",
+     "kid": "Let go! Measure how far it went and write it down. Then try 4 breaths. Then try 6.",
      "check": {
       "t": "mcq",
       "q": "The air rushes out of the balloon's neck backwards. Which way does the balloon go?",
@@ -2130,7 +2130,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the Push and Pull Hunt. Your child pulls things from a mystery bag and finds the push or pull each one needs. The founder of DeepKids uses this Mystery Bag idea."
+     "context": "This is the first step of the Push and Pull Hunt. Your child pulls things from a mystery bag and finds the push or pull each one needs."
     },
     {
      "id": "s2",
@@ -2138,7 +2138,7 @@
      "do": "Walk round the home together for 10 minutes. Find at least 12 more pushes and pulls. Your child writes each one in a column.",
      "say": "Now let's hunt the whole house. Door handles, switches, taps, zips, curtains. Find 12 forces.",
      "kid": "Hunt the whole house. Find 12 pushes and pulls. Write each one in its column.",
-     "parent": "Expect: door handle (pull), light switch (push), tap (twist, so both), zip (pull), curtains (pull), mixer button (push), toilet flush (push or pull), drawer (pull out, push in), pressure cooker lid (twist). Point out the ones that are a pull one way and a push the other."
+     "parent": "Expect these. Door handle and curtains are pulls. A light switch and a mixer button are pushes. A tap and a pressure cooker lid are twists, so both. A drawer is pulled out and pushed in."
     },
     {
      "id": "s3",
@@ -2583,7 +2583,7 @@
      "mins": 5,
      "do": "Your child pulls the top string to bend the arm, then the bottom string to straighten it. Then they try pushing a string.",
      "say": "Pull one string. Now pull the other. Now try to push the arm straight with the string.",
-     "kid": "Pull the top string. The arm bends. Pull the other. It straightens. Can a string push?",
+     "kid": "Pull the top string, and the arm bends. Pull the other, and it straightens. Can a string push?",
      "check": {
       "t": "mcq",
       "q": "Why do muscles work in pairs?",
@@ -2646,10 +2646,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Play music. Call out a force. Your child dances it: a slow pull, a sudden push, a twist, a gentle push, a pull from far away like a magnet.",
+     "do": "Play music and call out a force. Your child dances it. Try a slow pull, a sudden push, a twist, and a pull from an invisible magnet.",
      "say": "Dance a slow, heavy pull. Now a sudden push! Now a twist. Now be pulled by an invisible magnet.",
      "kid": "Dance a slow pull. Now a sudden push! Now a twist. Now an invisible magnet pulls you.",
-     "context": "This is the first step of the Push and Pull Dance. You move your body like different forces. The founder's notes suggest dance and partner yoga for this topic."
+     "context": "This is the first step of the Push and Pull Dance. You move your body like different forces."
     },
     {
      "id": "s2",
@@ -2672,7 +2672,7 @@
      "mins": 5,
      "do": "Try a partner boat pose: sit facing each other, feet touching, hold hands, and slowly lift your legs together.",
      "say": "Feet together. Hold hands. Pull a little and lift your legs. We only balance if we pull equally.",
-     "kid": "Sit facing each other. Feet touching. Hold hands. Lift your legs slowly. Pull equally!",
+     "kid": "Sit facing each other with feet touching. Hold hands. Lift your legs slowly. Pull equally!",
      "check": {
       "t": "mcq",
       "q": "Two people lean back holding wrists, and stay still. Their pulls are…",
@@ -2736,10 +2736,10 @@
      "id": "s2",
      "mins": 14,
      "adult": true,
-     "do": "During the day, help your child spot and draw: a door, a swing, a cart, a kite, a broom, a falling leaf, a fan. Remind them of the three arrow rules.",
+     "do": "During the day, help your child spot and draw six forces. Try a door, a swing, a cart, a kite, a broom and a falling leaf. Remind them of the three arrow rules.",
      "say": "Remember the rules. Start the arrow on the thing. Point it the way of the force. Longer for a bigger force.",
      "kid": "Start your arrow on the thing. Point it the way of the force. Make it longer for a bigger force.",
-     "parent": "Good finds: a vegetable seller pushing a cart, a person pulling a rickshaw, a crane lifting, wind pushing washing on a line, a leaf falling. A falling leaf has gravity pulling down and the air pushing up."
+     "parent": "Good finds include a vegetable seller pushing a cart and wind pushing washing on a line. A crane lifting is a pull. A falling leaf has gravity pulling it down and the air pushing it up."
     },
     {
      "id": "s3",
@@ -2877,7 +2877,7 @@
      "mins": 15,
      "do": "1. Blow up the balloon through the straw. 2. Pinch the straw and put the car on the floor. 3. Let go. 4. Measure how far it went. 5. Do it 3 times.",
      "say": "Let go! How far did it go? What pushed it?",
-     "kid": "Blow up the balloon through the straw. Pinch it. Put the car down. Let go! Measure how far.",
+     "kid": "Blow up the balloon through the straw and pinch it. Put the car down. Let go! Measure how far it went.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: the balloon car before and after one improvement",
