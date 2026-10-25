@@ -1,0 +1,92 @@
+# The subtopic-level unit (DeepKids Combined)
+
+One file per subtopic-level: `app/content/units/<subject>/<id>.json`, e.g. `sci/sci.forces.friction.L3.json`.
+The unit's **mapping** (topic-level, class, board chapters, prerequisites, go deep, go wide, maths links,
+the founder's notebook items, open-textbook sections) comes from `app/content/curriculum/<subject>.json` and
+`knowledge/by_subtopic.json`. It is merged in by the build and is never typed by hand.
+Check a unit with `python3 app/build/validate_unit.py <file>`.
+
+Everything follows `app/content/SPEC.md` ("The DeepKids way": big ideas, honest unknowns, debates, oneness,
+the quiet social lens, credit to women and underdogs, accuracy).
+
+## Depth: follow the idea all the way out
+Like the founder's Gravity chapter (which runs from jumping and Jenga to spacetime, lensing, time dilation and gravitons), every unit
+follows its idea from the child's hands out to the frontier: atoms and electrons, energy and heat, quantum physics, the Earth and the
+cosmos, living bodies, and what nobody knows yet. Children find these ideas intuitive; we do not avoid them for age, we tell them simply
+and honestly (marking `idea` and `debated` where science is unsure). Each unit also links to life and philosophy (`big_questions`).
+
+**Founder sources, read for every unit:** `app/content/ideas/by_topic/<topic>.md`, and the founder's sheets on the main branch:
+DeepKids HomeSchooling Track (Physics activities dump, Physics, Physics Dump, Biology, Chemistry, History, Philosophy, STEM Activities
+websites, useful links, Activity Curation, Game Types Universe) and DeepKids V0.1 (Activities Final, Activities, Curriculum Content,
+Activity Box, Other kids ideas, reading material). Use their activities, links and ideas first, then add many more. List what was used in
+`sources.founder`, and the papers behind surprising claims in `sources.science`.
+
+## Shared building blocks
+
+**Two ways to follow every flow.** A unit is taught either by a **parent following the app step by step**, or by the **child following the app alone**. The family picks the mode when starting, and can switch at any step. So every step is written twice:
+- **Parent mode** shows `do`, `say` (the parent's words), `ask` (with good answers) and `parent` (set-up and what to look for).
+- **Child mode** shows `kid`: the same step spoken to the child, in short sentences a 6–10 year old can read (and the app reads aloud). Questions come as taps (`check`) or "say it out loud / draw it" prompts. Anything unsafe for a child alone (heat, sharp tools, chemicals, going outside) is marked `"adult": true`; the app then asks the child to fetch a grown-up first.
+
+**Step** is one click in an app flow. Every hand-held flow (game, project, experiment, activity, challenge) is a list of steps:
+```jsonc
+{"id": "s1", "mins": 3,
+ "do": "What to do, exactly",
+ "say": "Parent mode: what the parent says, word for word",
+ "kid": "Child mode: the same step spoken to the child, simple words",
+ "adult": false,                                                     // true = a grown-up must be there for this step
+ "ask": [{"q": "Question to ask", "good": ["answers that show understanding"]}],
+ "parent": "Note for the parent only (set-up, safety, what to look for)",
+ "think": "A question to leave the child with (optional)",
+ "check": {"t": "mcq", "q": "...", "options": ["..."], "a": 1},   // optional; a wrong answer goes to the refresher list
+ "wait": "Leave it for 2 days" }                                     // optional; makes the step a later day's task
+```
+**Card** is a flashcard (elements 1–8 and terms). The app shows cards as a flow, and they print 8 to an A4 page:
+`{"front": "...", "back": "...", "art": "what the illustration shows"}`.
+`art` is an illustration brief: an illustrator or an image model draws from it, and the app shows it once drawn.
+
+**Item** is a worksheet or quiz question, with the item types of SPEC.md "Worksheet items" (mcq, fill, match, sort,
+truefalse, order, write, draw, label, forces, ...). Every item has `a` (answer) and `why` (the explanation in the key),
+and may have `art`.
+
+**Duration** is `mins` on every element and step. The planner uses these to cut the unit into days.
+
+## The elements
+
+| # | Key | What it holds | Notes |
+|---|---|---|---|
+| 1 | `summary` | `{text, art}`: the whole unit in 3–5 sentences | card |
+| 2 | `intro` | `{hook, text, art}`: a 2-minute way in (a puzzle, an object, a surprise) | card |
+| 3 | `outcomes` | `["By the end I can ..."]`, 4–8 | the quiz and worksheets tag their items to these |
+| 4 | `terms` | `[{term, meaning, example, art}]` | flashcards, also printable |
+| 5 | `explanations` | `[{concept, status, definition, description, examples[], perspectives:[{who, explanation}], art}]` | `status`: `defined` (an agreed definition exists), `idea` (we only have ideas, say so), `debated` (give every explanation in `perspectives`) |
+| 6 | `agreed` | `[{text, evidence}]`: what most scientists agree on, and how we know | card |
+| 7 | `challenging` | `[{claim, who, for, against, status}]`: views that challenge the usual story | `status`: accepted / debated / minority / rejected |
+| 8 | `big_questions` | `[{q, kind, hint}]`: `kind` is `deep` (goes down into the idea) or `big` (goes out to life and the universe); open-ended | card |
+| 0 | `story` | `{title, text[], epiphany, ask[], art[], read_aloud: true}` | as in SPEC.md "Stories"; the app reads it aloud |
+| 9 | `games` | `[{id, title, mins, players, printables:[{kind, title, items}], rules[], flow:[step]}]` | `printables.kind`: cards, board, tokens, score sheet. The flow plays the printed game to the end, teaching and asking along the way |
+| 10 | `worksheets` | `[{id, title, tier, mins, items:[item ≥15]}]` | tiers: core, stretch, challenge. Full answer key from `a`+`why`; the app marks app-done sheets and uploaded photos |
+| 11 | `projects` | `[{id, title, days, mins, materials:[{item, qty, buy}], safety, schedule:[{day, mins, what}], flow:[step], record}]` | `days` > 1 makes the planner bring it back each day until done |
+| 12 | `experiments` | same as projects, plus `{question, predict, fair_test, results_table}` | |
+| 13 | `activities` | same as projects | many per unit, each with its own flow |
+| 14 | `videos` | `[{title, channel, youtube, mins, why, check}]` | top 3, not necessarily made for children, accurate to the unit; `youtube` is the video id (embedded); `check` says what was verified and what to verify |
+| 15 | `quiz` | `[item ≥10]`, mostly mcq, each tagged with an `outcome` | a wrong answer adds the unit to the refresher list and lowers topic-level mastery |
+| 16 | `applications` | `["Where this idea is used"]` | |
+| 17 | `spotted` | `[{text, art}]`: where to spot it around us, in India | |
+| 18 | `open_questions` | `[{q, why_open}]`: what nobody knows yet | |
+| 19 | `ask_kids` | `["Questions to ask during the day, at meals, on walks"]` | |
+| 20 | `jokes` | `[{j, a}]`: 3 per day of the unit | the day's warm-up uses them |
+| 21 | `maths` | `[{problem, answer, explain, math_unit}]` | `math_unit` is a maths subtopic-level id; doing the problem queues that unit next |
+| 22 | `song` | `{topic_level, title}`: points to the topic-level song in `app/content/songs/` | one song per topic-level: lyrics, chords, melody (ABC notation) and an audio file |
+| 23 | `challenges` | `[{id, title, problem, constraints, materials, flow:[step], general[], creative[], your_turn}]` | engineering and design problems: usual solutions, creative solutions, then the child's own |
+| 24 | `links` | `[{title, url, kind, where, why}]` | `kind`: simulation, interactive, place (a museum, planetarium, park or science centre in India; `where` is the city) |
+| 25 | `buy` | `[{item, kind, why, url, used_in[], plan}]` | `kind`: tool, material, book, game. `used_in` lists the element ids that use it; `plan` says how a bought book or game joins the lesson plan |
+| – | `warmup` | `[{q, a}]`: 5–10 quick questions for the cross-unit daily game series | the day starts with jokes, the song and this game |
+| – | `plan` | `{start_options[], default_order[], core[]}` | see below |
+
+## How the app runs a unit
+- **Landing page:** everything in the unit, grouped, with a **Start** button.
+- **Start:** the child or parent picks where to begin (`plan.start_options`, e.g. story, experiment, big questions, flashcards, game, project). The app then builds the flow from `plan.default_order`, starting there.
+- **Days:** the planner fills each day with flow elements by their `mins`, up to the class's daily minutes. Multi-day projects and experiments put their `schedule` tasks on the right days (e.g. "Day 3: check the seeds, 5 min") until they end.
+- **Coming back:** reopening the unit shows the flow list with done, current and next, and continues where the child stopped.
+- **Each day starts with a warm-up:** 3 jokes and the song from the units planned that day, then the daily game series (questions drawn from every unit done so far).
+- **Wrong answers** anywhere (quiz, worksheet, flow checks) add the unit to the refresher list straight away. The progress page shows topic-levels: questions wrong, which subtopics, and % mastered.
