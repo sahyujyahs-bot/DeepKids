@@ -50,6 +50,9 @@ os.makedirs(os.path.join(PUB, 'icons'), exist_ok=True)
 open(os.path.join(PUB, 'app.js'), 'w').write(script)
 open(os.path.join(PUB, 'data.js'), 'w').write('window.DK_DATA=' + DATA + ';\n')
 shutil.copy(os.path.join(WEB, 'src/platform.js'), os.path.join(PUB, 'platform.js'))
+# lesson media (explainer videos) are served as files next to the app
+MED = os.path.join(os.path.dirname(WEB), 'app', 'content', 'media')
+if os.path.isdir(MED): shutil.copytree(MED, os.path.join(PUB, 'media'), dirs_exist_ok=True)
 open(os.path.join(PUB, 'sw.js'), 'w').write(open(os.path.join(WEB, 'src/sw.js')).read().replace('__BUILD__', build))
 
 cfg = os.path.join(PUB, 'config.js')

@@ -3549,5 +3549,16 @@
    "Pendry, J. Phys.: Condensed Matter 1997 (quantum friction)",
    "Wells, Nature 1963 (coral growth rings and day length)"
   ]
- }
+ },
+ "explainers": [
+  {
+   "id": "x1",
+   "title": "Why doesn't your chappal slip?",
+   "seconds": 30,
+   "before": "explanations",
+   "web": "media/friction_explainer.mp4",
+   "artifact": "/_blob/1d80d8acc1dc19843d4378bcea727c17",
+   "made_with": "HyperFrames (Apache 2.0), source in app/build/explainers/friction"
+  }
+ ]
 }

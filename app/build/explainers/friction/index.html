@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" data-resolution="portrait">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=1080, height=1920"><script src="gsap.min.js"></script>
+<style>
+:root{--bg:#FFF6EC;--ink:#2B2340;--tang:#FD8326;--aqua:#4CC9C0}
+*{margin:0;padding:0;box-sizing:border-box}html,body{width:1080px;height:1920px;overflow:hidden;background:var(--bg)}
+#root{position:relative;width:1080px;height:1920px;font-family:"Nunito","Trebuchet MS",sans-serif;color:var(--ink)}
+.clip{position:absolute;inset:0}
+.cap{position:absolute;left:80px;right:80px;bottom:260px;font-size:62px;line-height:1.25;font-weight:800;text-align:center}
+.kick{position:absolute;left:80px;right:80px;top:170px;font-size:44px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--tang);text-align:center}
+h1{position:absolute;left:70px;right:70px;top:250px;font-size:104px;line-height:1.05;text-align:center;font-weight:900}
+svg{position:absolute;left:0;top:0}
+.brand{position:absolute;bottom:120px;left:0;right:0;text-align:center;font-size:46px;font-weight:900;color:var(--tang)}
+</style></head>
+<body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="30" data-width="1080" data-height="1920">
+ <audio id="bgm" src="friction.mp3" data-start="0" data-duration="30" data-volume="0.35" data-fade-out="2"></audio>
+
+ <div id="s1" class="clip" data-start="0" data-duration="6">
+  <h1 id="t1">Why doesn't your chappal slip?</h1>
+  <svg width="1080" height="1920"><rect x="0" y="1180" width="1080" height="160" fill="#C9B79C"/><rect x="0" y="1180" width="1080" height="16" fill="#A8977C"/>
+   <g id="chappal"><rect x="330" y="1110" width="420" height="70" rx="35" fill="#53A373"/><rect x="330" y="1150" width="420" height="30" rx="15" fill="#3F8559"/><path d="M450 1112 q90 -90 180 0" fill="none" stroke="#2B2340" stroke-width="18" stroke-linecap="round"/></g></svg>
+  <div class="cap" id="c1">It is pushing on a smooth stone step. So why does it stay put?</div>
+ </div>
+
+ <div id="s2" class="clip" data-start="6" data-duration="7">
+  <div class="kick">Look closer</div>
+  <svg width="1080" height="1920"><g transform="translate(0,280)">
+   <circle id="lens" cx="540" cy="470" r="420" fill="#fff" stroke="#2B2340" stroke-width="22"/>
+   <clipPath id="cp"><circle cx="540" cy="470" r="410"/></clipPath>
+   <g clip-path="url(#cp)"><g transform="translate(108,0)">
+    <g id="topsurf"><polygon points="0,458 62,518 123,455 185,521 247,450 309,494 370,463 432,532 494,458 555,502 617,442 679,514 741,445 802,514 864,450 864,0 0,0" fill="#53A373" transform="translate(0,-8)"/></g>
+    <polygon points="0,507 62,460 123,523 185,461 247,517 309,455 370,494 432,452 494,493 555,454 617,494 679,461 741,512 802,446 864,497 864,940 0,940" fill="#C9B79C" transform="translate(0,8)"/>
+   </g></g></g></svg>
+  <div class="cap" id="c2">Even a smooth floor is bumpy up close. The bumps catch on each other, like the teeth of two combs.</div>
+ </div>
+
+ <div id="s3" class="clip" data-start="13" data-duration="8">
+  <div class="kick">Closer still: atoms</div>
+  <svg width="1080" height="1920"><g transform="translate(0,120)"><g id="rowT"><circle class="at" cx="140" cy="760" r="40" fill="#FD8326"/><circle class="at" cx="240" cy="760" r="40" fill="#FD8326"/><circle class="at" cx="340" cy="760" r="40" fill="#FD8326"/><circle class="at" cx="440" cy="760" r="40" fill="#FD8326"/><circle class="at" cx="540" cy="760" r="40" fill="#FD8326"/><circle class="at" cx="640" cy="760" r="40" fill="#FD8326"/><circle class="at" cx="740" cy="760" r="40" fill="#FD8326"/><circle class="at" cx="840" cy="760" r="40" fill="#FD8326"/></g><line class="bd bd0" x1="140" y1="800" x2="140" y2="840" stroke="#2B2340" stroke-width="10" stroke-linecap="round"/><line class="bd bd1" x1="240" y1="800" x2="240" y2="840" stroke="#2B2340" stroke-width="10" stroke-linecap="round"/><line class="bd bd2" x1="340" y1="800" x2="340" y2="840" stroke="#2B2340" stroke-width="10" stroke-linecap="round"/><line class="bd bd3" x1="440" y1="800" x2="440" y2="840" stroke="#2B2340" stroke-width="10" stroke-linecap="round"/><line class="bd bd4" x1="540" y1="800" x2="540" y2="840" stroke="#2B2340" stroke-width="10" stroke-linecap="round"/><line class="bd bd5" x1="640" y1="800" x2="640" y2="840" stroke="#2B2340" stroke-width="10" stroke-linecap="round"/><line class="bd bd6" x1="740" y1="800" x2="740" y2="840" stroke="#2B2340" stroke-width="10" stroke-linecap="round"/><line class="bd bd7" x1="840" y1="800" x2="840" y2="840" stroke="#2B2340" stroke-width="10" stroke-linecap="round"/><g id="rowB"><circle class="ab" cx="140" cy="880" r="40" fill="#4CC9C0"/><circle class="ab" cx="240" cy="880" r="40" fill="#4CC9C0"/><circle class="ab" cx="340" cy="880" r="40" fill="#4CC9C0"/><circle class="ab" cx="440" cy="880" r="40" fill="#4CC9C0"/><circle class="ab" cx="540" cy="880" r="40" fill="#4CC9C0"/><circle class="ab" cx="640" cy="880" r="40" fill="#4CC9C0"/><circle class="ab" cx="740" cy="880" r="40" fill="#4CC9C0"/><circle class="ab" cx="840" cy="880" r="40" fill="#4CC9C0"/></g></g></svg>
+  <div class="cap" id="c3">Atoms on the two surfaces tug on each other. They hold on, then snap free as things slide. Each snap leaves them jiggling.</div>
+ </div>
+
+ <div id="s4" class="clip" data-start="21" data-duration="5">
+  <div class="kick">Jiggling atoms = heat</div>
+  <svg width="1080" height="1920"><g id="handL"><rect x="330" y="1150" width="200" height="380" rx="100" fill="#C68A5E"/></g><g id="handR"><rect x="550" y="1150" width="200" height="380" rx="100" fill="#B5784C"/></g><path class="wv" d="M380 1100 q20 -40 0 -80 q-20 -40 0 -80" fill="none" stroke="#F2575A" stroke-width="10" stroke-linecap="round" opacity="0"/><path class="wv" d="M490 1100 q20 -40 0 -80 q-20 -40 0 -80" fill="none" stroke="#F2575A" stroke-width="10" stroke-linecap="round" opacity="0"/><path class="wv" d="M600 1100 q20 -40 0 -80 q-20 -40 0 -80" fill="none" stroke="#F2575A" stroke-width="10" stroke-linecap="round" opacity="0"/><path class="wv" d="M710 1100 q20 -40 0 -80 q-20 -40 0 -80" fill="none" stroke="#F2575A" stroke-width="10" stroke-linecap="round" opacity="0"/></svg>
+  <div class="cap" id="c4" style="bottom:auto;top:420px">That is why rubbing makes things warm. Rub your hands and feel it!</div>
+ </div>
+
+ <div id="s5" class="clip" data-start="26" data-duration="4">
+  <h1 id="t5" style="top:640px">Friction is the grip between two things that touch.</h1>
+  <div class="brand">DeepKids</div>
+ </div>
+</div>
+<script>
+const tl=gsap.timeline({paused:true});
+tl.from("#t1",{opacity:0,y:40,duration:.6},0.2).from("#chappal",{x:-500,duration:1.6,ease:"power2.out"},0.8).from("#c1",{opacity:0,duration:.6},2.4);
+tl.from("#lens",{scale:.2,transformOrigin:"540px 470px",duration:.8,ease:"back.out(1.4)"},6.1).to("#topsurf",{x:-30,duration:1.2,ease:"sine.inOut",yoyo:true,repeat:3},7.2).from("#c2",{opacity:0,duration:.6},7.6);
+tl.from(".at,.ab",{scale:0,transformOrigin:"center",duration:.5,stagger:.04},13.1);
+tl.from(".bd",{opacity:0,duration:.4},14);
+tl.to("#rowT",{x:50,duration:1.5,ease:"power1.in"},15.2).to(".bd",{opacity:0,duration:.15,stagger:.08},16.2).to("#rowT",{x:100,duration:.6,ease:"power2.out"},16.7);
+for(let k=0;k<10;k++){tl.to(".at",{y:(k%2?6:-6),duration:.18},17.4+k*.18);tl.to(".ab",{y:(k%2?-5:5),duration:.18},17.4+k*.18)}
+tl.from("#c3",{opacity:0,duration:.6},14.2);
+for(let k=0;k<8;k++){tl.to("#handL",{y:(k%2?0:-120),duration:.3,ease:"sine.inOut"},21.3+k*.3);tl.to("#handR",{y:(k%2?0:120),duration:.3,ease:"sine.inOut"},21.3+k*.3)}
+tl.to(".wv",{opacity:1,y:-60,duration:.8,stagger:.2},22.4).from("#c4",{opacity:0,duration:.5},21.4);
+tl.from("#t5",{opacity:0,scale:.9,duration:.8},26.2).from(".brand",{opacity:0,duration:.6},27.2);
+window.__timelines=window.__timelines||{};window.__timelines["main"]=tl;tl.seek(0);
+</script>
+</body></html>

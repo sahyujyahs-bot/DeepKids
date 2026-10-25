@@ -13,6 +13,7 @@
  "bq.7": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/36b8092856d44fab5d7e98b8fb765781-b346b01e-b341-4bd5-ad6d-5b58ba462570_1792960319188_ca47e262.png",
  "bq.8": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/478f20ea9fc65836e366904fb658d086-19164999-09a4-4f53-b65e-cf9c6ed96fca_1792960322936_e04630f7.png",
  "bq.9": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/d4a35d8ee84c852f1c8b922d0edaad33-f4c41603-b425-4135-b080-8284892d1542_1792960471001_fe3cf0db.png",
+ "buy": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/f810efac5a14d3a87d826ca72b598ccb-0ad25924-6083-49ca-ba82-1182b464cb8f_1792960967962_815bcad0.png",
  "chal.0": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/5cdb1f13d90ffb4c6b6a50f1dd9768ca-e1fb113a-44e9-43d2-bed6-4211d4df4b2c_1792959893024_d9d4410e.png",
  "chal.1": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/d0cb64f1c833eff89af5b4a09c5a1b7d-3fd79d03-af9e-452c-bb16-d20fa0570b39_1792959901275_c5c27128.png",
  "chal.2": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/132787a53c856d3495b45cae040b01a4-3b0fe8f3-a035-464a-ac2a-7f7847c75cc1_1792959896974_0765f0e9.png",
@@ -32,6 +33,7 @@
  "expl.7": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/8f2f25364e2ab70091a2a6b7f903c444-47cee957-87a1-46e0-bae6-5656122f1008_1792958853258_f81b51cd.png",
  "expl.8": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/e12835d7992590eb2a9d9588202feebd-6f15f4da-47ff-4245-ab85-316eb4c74f29_1792958857994_90eea691.png",
  "expl.9": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/69c1addcf3c0ca2125fdced950eb9896-40018357-2fd1-45e0-993a-d9c66c814c0a_1792958862986_8b6aa971.png",
+ "explanations": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/c62c19c92ea9e650f07fe19e614736ca-7fa03d7f-7683-4539-8ddb-e8654eaa37f7_1792961130910_f6561972.png",
  "flow.a1": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/ea14c434c1d0ba0f7e3e497e16bafc6b-a047771c-f6c3-4da0-a330-a2facf86aadf_1792959129067_2bd452ad.png",
  "flow.a2": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/d62913b85ea09064cbce2d676900d2b7-6aca25f9-c060-4c21-bce0-a06c9cfdc9a6_1792959209990_c8859b8a.png",
  "flow.a3": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/8bce7d11c339993e1e13027063ec3ec2-870aef60-9231-4374-b423-148dc72ab905_1792959219008_3e86a32c.png",
@@ -47,8 +49,12 @@
  "flow.g2": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/706047bb3ab0c6d99876dd0fe1b94edf-188abf58-4a37-410e-bc29-4d9a77337451_1792959009908_e152e27c.png",
  "flow.p1": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/fdfde6fb1c23687ffd00371e61adaa15-dad805a5-acea-4b2e-a03a-893443424f62_1792959318343_1ed33959.png",
  "intro": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/bfe790b5487049ae1583e16967fc156d-8bb2b75c-2ba8-424b-8c2b-bb39b571d162_1792957740391_0c994251.png",
+ "jokes": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/7ddd41012619ae573cf150a9cad7364b-a79a4ac6-5802-473a-a069-6a287699c6e9_1792960957975_2fdbcc73.png",
+ "links": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/18489df8d4c81d75ae44ceb07bee9b4c-aec31079-dd65-4a39-9fe4-4b75b20c317c_1792960963954_6480f42c.png",
+ "maths": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/447ba7f8779262fc5b267d37e7e4417a-7b16bc88-100f-4ba2-b8e7-298b891df7f4_1792961016011_2e97258d.png",
  "open": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/0ae66d8333e09c3d0898f1b997b7120d-7b9cc952-4594-43af-917a-76b67cc9984c_1792960750279_c8c0d66a.png",
  "quiz": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/f078c3e48c5a74db5444b3cd943cfce9-8f961f66-4d29-44e5-99b6-418ae20f9f9b_1792960829964_66a542a3.png",
+ "song": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/d589e2642db2a7afe9eca29d65b79371-e13513bc-fa01-484f-bd9d-791247c6f060_1792961012031_213f006f.png",
  "spot.0": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/624ef6056ac462e9fdb541e385c9b546-a716927f-5c8d-4d44-abd0-c877b5231b2d_1792960480108_39e90dd7.png",
  "spot.1": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/7e2d3608ab3c95fbea712e13eb09f361-9d8c2fb8-c854-4f4c-a04e-70fe5ef166b4_1792960528144_85657212.png",
  "spot.2": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/56632281b3b2f1a9f118d2265ec381bf-5eb131aa-97a2-45a3-8274-a0a54da6de04_1792960530981_c27b3a59.png",
@@ -83,5 +89,8 @@
  "term.6": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/6c3b9538fd46749b166b326dfaf76d0e-53c3adfb-d763-4143-bd47-e3630e5a7917_1792958053172_a4599c8b.png",
  "term.7": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/73d0a97b34c9c32874623f6de9f3c609-81d9d61a-4d34-4126-bc14-b41f923131b4_1792958143167_06efad7c.png",
  "term.8": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/71c3834fd70e2c8dc43adeb523ba5925-e6a8a19b-c221-4574-82f0-43764b916daa_1792958149236_0803fb01.png",
- "term.9": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/3a11fed3cacc54b6384a95aab257c9af-3b85984d-77bc-4ad4-9720-d1357dfa84da_1792958152947_a1fcd38d.png"
+ "term.9": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/3a11fed3cacc54b6384a95aab257c9af-3b85984d-77bc-4ad4-9720-d1357dfa84da_1792958152947_a1fcd38d.png",
+ "ws.ws-challenge": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/6b48ed37b49323f7b13a051e9edf0f79-a8e4638b-d38a-42c9-8655-cd25228be0d1_1792961126005_10915446.png",
+ "ws.ws-core": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/45c699c02fd057c1a943f82526ea9fe3-02a313b4-1e80-4157-b90d-4b4cd589a1de_1792961019981_f6f0b3a1.png",
+ "ws.ws-stretch": "https://cdn.openart.ai/openart-ai/production/2026-10/create-image/FmRQmmfirDq2gHocswoO/cc51b510d35692cc7bda61cc85d9f2dc-e1f99af2-1494-4e95-b7ec-33c0abbb5ecc_1792961117306_2786e928.png"
 }
