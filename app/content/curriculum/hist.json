@@ -1,0 +1,4798 @@
+{
+ "subject": "hist",
+ "name": "History",
+ "topic_levels": [
+  {
+   "id": "hist.my-history.L1",
+   "subject": "hist",
+   "topic": "my-history",
+   "name": "My history",
+   "strand": "History and memory",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "hist.my-history.my-story.L1"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.how-we-know-history.L2",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "name": "How we know the past",
+   "strand": "History and memory",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "hist.how-we-know-history.archaeology.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.my-history.L2",
+   "subject": "hist",
+   "topic": "my-history",
+   "name": "My history",
+   "strand": "History and memory",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "hist.my-history.my-story.L2",
+    "hist.my-history.we-are-all-related.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.prehistory.L2",
+   "subject": "hist",
+   "topic": "prehistory",
+   "name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "hist.prehistory.first-humans.L2",
+    "hist.prehistory.hunter-gatherers.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-ancient.L2",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "name": "The ancient world",
+   "strand": "World history",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "hist.world-ancient.egypt.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.early-india.L3",
+   "subject": "hist",
+   "topic": "early-india",
+   "name": "Early India",
+   "strand": "Indian subcontinent",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "hist.early-india.indus.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.history-themes.L3",
+   "subject": "hist",
+   "topic": "history-themes",
+   "name": "Themes across history",
+   "strand": "World history",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "hist.history-themes.everyday-life.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.how-we-know-history.L3",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "name": "How we know the past",
+   "strand": "History and memory",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "hist.how-we-know-history.scripts-and-inscriptions.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.india-empires.L3",
+   "subject": "hist",
+   "topic": "india-empires",
+   "name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "hist.india-empires.mauryas.L3",
+    "hist.india-empires.mughals.L3",
+    "hist.india-empires.freedom-and-republic.L3",
+    "hist.india-empires.big-timeline.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.my-history.L3",
+   "subject": "hist",
+   "topic": "my-history",
+   "name": "My history",
+   "strand": "History and memory",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "hist.my-history.my-story.L3",
+    "hist.my-history.memory-and-history.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.prehistory.L3",
+   "subject": "hist",
+   "topic": "prehistory",
+   "name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "hist.prehistory.hunter-gatherers.L3",
+    "hist.prehistory.first-farmers.L3",
+    "hist.prehistory.prehistoric-india.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-ancient.L3",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "name": "The ancient world",
+   "strand": "World history",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "hist.world-ancient.mesopotamia.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-modern.L3",
+   "subject": "hist",
+   "topic": "world-modern",
+   "name": "The modern world",
+   "strand": "World history",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "hist.world-modern.industrial-revolution.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-today.L3",
+   "subject": "hist",
+   "topic": "world-today",
+   "name": "The world today",
+   "strand": "World history",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "hist.world-today.connected-world.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.early-india.L4",
+   "subject": "hist",
+   "topic": "early-india",
+   "name": "Early India",
+   "strand": "Indian subcontinent",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.early-india.regional-cultures.L4",
+    "hist.early-india.indus.L4",
+    "hist.early-india.vedic-age.L4",
+    "hist.early-india.sangam-south.L4",
+    "hist.early-india.kingdoms-and-republics.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.history-themes.L4",
+   "subject": "hist",
+   "topic": "history-themes",
+   "name": "Themes across history",
+   "strand": "World history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.history-themes.money-and-work.L4",
+    "hist.history-themes.medicine-history.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.how-we-know-history.L4",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "name": "How we know the past",
+   "strand": "History and memory",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.how-we-know-history.archaeology.L4",
+    "hist.how-we-know-history.ancient-dna.L4",
+    "hist.how-we-know-history.who-tells-history.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.india-empires.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.colonial-india.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.my-history.L4",
+   "subject": "hist",
+   "topic": "my-history",
+   "name": "My history",
+   "strand": "History and memory",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.my-history.we-are-all-related.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.prehistory.L4",
+   "subject": "hist",
+   "topic": "prehistory",
+   "name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.prehistory.first-humans.L4",
+    "hist.prehistory.hunter-gatherers.L4",
+    "hist.prehistory.metals.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.twentieth-century.L4",
+   "subject": "hist",
+   "topic": "twentieth-century",
+   "name": "The twentieth century",
+   "strand": "World history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.twentieth-century.revolution-and-cold-war.L4",
+    "hist.twentieth-century.freedom-movements.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-ancient.L4",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "name": "The ancient world",
+   "strand": "World history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.world-ancient.egypt.L4",
+    "hist.world-ancient.china.L4",
+    "hist.world-ancient.greece.L4",
+    "hist.world-ancient.rome.L4",
+    "hist.world-ancient.africa.L4",
+    "hist.world-ancient.americas.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-early-modern.L4",
+   "subject": "hist",
+   "topic": "world-early-modern",
+   "name": "The early modern world",
+   "strand": "World history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.world-early-modern.renaissance-and-science.L4",
+    "hist.world-early-modern.age-of-exploration.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-medieval.L4",
+   "subject": "hist",
+   "topic": "world-medieval",
+   "name": "The medieval world",
+   "strand": "World history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.world-medieval.classical-and-medieval.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-modern.L4",
+   "subject": "hist",
+   "topic": "world-modern",
+   "name": "The modern world",
+   "strand": "World history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.world-modern.reformers.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-today.L4",
+   "subject": "hist",
+   "topic": "world-today",
+   "name": "The world today",
+   "strand": "World history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "hist.world-today.environment-history.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.early-india.L5",
+   "subject": "hist",
+   "topic": "early-india",
+   "name": "Early India",
+   "strand": "Indian subcontinent",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.early-india.regional-cultures.L5",
+    "hist.early-india.indus.L5",
+    "hist.early-india.vedic-age.L5",
+    "hist.early-india.sangam-south.L5",
+    "hist.early-india.kingdoms-and-republics.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.history-themes.L5",
+   "subject": "hist",
+   "topic": "history-themes",
+   "name": "Themes across history",
+   "strand": "World history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.history-themes.money-and-work.L5",
+    "hist.history-themes.ideas-and-faiths.L5",
+    "hist.history-themes.everyday-life.L5",
+    "hist.history-themes.medicine-history.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.how-we-know-history.L5",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "name": "How we know the past",
+   "strand": "History and memory",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.how-we-know-history.archaeology.L5",
+    "hist.how-we-know-history.ancient-dna.L5",
+    "hist.how-we-know-history.scripts-and-inscriptions.L5",
+    "hist.how-we-know-history.who-tells-history.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.india-empires.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.my-history.L5",
+   "subject": "hist",
+   "topic": "my-history",
+   "name": "My history",
+   "strand": "History and memory",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.my-history.memory-and-history.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.prehistory.L5",
+   "subject": "hist",
+   "topic": "prehistory",
+   "name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.prehistory.first-humans.L5",
+    "hist.prehistory.first-farmers.L5",
+    "hist.prehistory.prehistoric-india.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.twentieth-century.L5",
+   "subject": "hist",
+   "topic": "twentieth-century",
+   "name": "The twentieth century",
+   "strand": "World history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.twentieth-century.world-wars.L5",
+    "hist.twentieth-century.revolution-and-cold-war.L5",
+    "hist.twentieth-century.freedom-movements.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-ancient.L5",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "name": "The ancient world",
+   "strand": "World history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.world-ancient.mesopotamia.L5",
+    "hist.world-ancient.china.L5",
+    "hist.world-ancient.greece.L5",
+    "hist.world-ancient.rome.L5",
+    "hist.world-ancient.persia.L5",
+    "hist.world-ancient.americas.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-early-modern.L5",
+   "subject": "hist",
+   "topic": "world-early-modern",
+   "name": "The early modern world",
+   "strand": "World history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.world-early-modern.renaissance-and-science.L5",
+    "hist.world-early-modern.age-of-exploration.L5",
+    "hist.world-early-modern.gunpowder-empires.L5",
+    "hist.world-early-modern.slavery-and-trade.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-medieval.L5",
+   "subject": "hist",
+   "topic": "world-medieval",
+   "name": "The medieval world",
+   "strand": "World history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.world-medieval.classical-and-medieval.L5",
+    "hist.world-medieval.mongols.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-modern.L5",
+   "subject": "hist",
+   "topic": "world-modern",
+   "name": "The modern world",
+   "strand": "World history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.world-modern.revolutions.L5",
+    "hist.world-modern.industrial-revolution.L5",
+    "hist.world-modern.nations-and-empires.L5",
+    "hist.world-modern.reformers.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "hist.world-today.L5",
+   "subject": "hist",
+   "topic": "world-today",
+   "name": "The world today",
+   "strand": "World history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "hist.world-today.connected-world.L5",
+    "hist.world-today.conflict-today.L5",
+    "hist.world-today.environment-history.L5"
+   ],
+   "chapters": []
+  }
+ ],
+ "subtopic_levels": [
+  {
+   "id": "hist.my-history.my-story.L1",
+   "subject": "hist",
+   "topic": "my-history",
+   "topic_name": "My history",
+   "strand": "History and memory",
+   "topic_level": "hist.my-history.L1",
+   "subtopic": "my-story",
+   "name": "My story",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "What I did yesterday and last week; photos of me as a baby; before and after.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.my-history.my-story.L2"
+   ],
+   "go_wide": [
+    "sci.family.family.L1"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:3"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.my-history.my-story.L2",
+   "subject": "hist",
+   "topic": "my-history",
+   "topic_name": "My history",
+   "strand": "History and memory",
+   "topic_level": "hist.my-history.L2",
+   "subtopic": "my-story",
+   "name": "My story",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "My family's story: where my family comes from; a family tree.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.my-history.my-story.L1"
+   ],
+   "go_deep": [
+    "hist.my-history.my-story.L3"
+   ],
+   "go_wide": [
+    "hist.my-history.we-are-all-related.L2",
+    "sci.family.family.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:3"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.my-history.my-story.L3",
+   "subject": "hist",
+   "topic": "my-history",
+   "topic_name": "My history",
+   "strand": "History and memory",
+   "topic_level": "hist.my-history.L3",
+   "subtopic": "my-story",
+   "name": "My story",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Interviewing grandparents: life when my parents were my age; then and now.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.my-history.my-story.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.my-history.memory-and-history.L3",
+    "sci.family.family.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:3"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.my-history.we-are-all-related.L2",
+   "subject": "hist",
+   "topic": "my-history",
+   "topic_name": "My history",
+   "strand": "History and memory",
+   "topic_level": "hist.my-history.L2",
+   "subtopic": "we-are-all-related",
+   "name": "We are all related",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "We look like our parents and grandparents because of what we inherit.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.my-history.my-story.L2"
+   ],
+   "go_deep": [
+    "hist.my-history.we-are-all-related.L4"
+   ],
+   "go_wide": [
+    "hist.my-history.my-story.L2",
+    "sci.evolution.inheritance.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:1",
+    "hist:2"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.my-history.we-are-all-related.L4",
+   "subject": "hist",
+   "topic": "my-history",
+   "topic_name": "My history",
+   "strand": "History and memory",
+   "topic_level": "hist.my-history.L4",
+   "subtopic": "we-are-all-related",
+   "name": "We are all related",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "We share DNA with every person and every living thing; how far back does a family tree go?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.my-history.we-are-all-related.L2",
+    "hist.my-history.my-story.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.evolution.inheritance.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:1",
+    "hist:2"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.my-history.memory-and-history.L3",
+   "subject": "hist",
+   "topic": "my-history",
+   "topic_name": "My history",
+   "strand": "History and memory",
+   "topic_level": "hist.my-history.L3",
+   "subtopic": "memory-and-history",
+   "name": "Memory, stories and history",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Two people remember the same day differently; history is built from memories, records and stories.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.my-history.my-story.L3"
+   ],
+   "go_deep": [
+    "hist.my-history.memory-and-history.L5"
+   ],
+   "go_wide": [
+    "hist.my-history.my-story.L3",
+    "sci.mind.thinking-and-memory.L3",
+    "phil.mind-and-self.memory.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:4",
+    "hist:5"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.my-history.memory-and-history.L5",
+   "subject": "hist",
+   "topic": "my-history",
+   "topic_name": "My history",
+   "strand": "History and memory",
+   "topic_level": "hist.my-history.L5",
+   "subtopic": "memory-and-history",
+   "name": "Memory, stories and history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "How memories and histories get distorted; myth and history; why historians check many sources.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.my-history.memory-and-history.L3",
+    "hist.my-history.my-story.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.mind.thinking-and-memory.L5",
+    "phil.mind-and-self.memory.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:4",
+    "hist:5"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.how-we-know-history.archaeology.L2",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "topic_name": "How we know the past",
+   "strand": "History and memory",
+   "topic_level": "hist.how-we-know-history.L2",
+   "subtopic": "archaeology",
+   "name": "Archaeology: digging up the past",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Old things buried in the ground tell us how people lived; a pretend dig in sand.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.how-we-know-history.archaeology.L4",
+    "hist.how-we-know-history.ancient-dna.L4"
+   ],
+   "go_wide": [],
+   "maths": [],
+   "notebook": [
+    "hist:12",
+    "hist:16",
+    "hist:17",
+    "hist:18",
+    "hist:20",
+    "hist:21",
+    "hist:22"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.how-we-know-history.archaeology.L4",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "topic_name": "How we know the past",
+   "strand": "History and memory",
+   "topic_level": "hist.how-we-know-history.L4",
+   "subtopic": "archaeology",
+   "name": "Archaeology: digging up the past",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "How archaeologists dig and date finds; India's recent discoveries (Keeladi, Sinauli, Rakhigarhi).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.how-we-know-history.archaeology.L2"
+   ],
+   "go_deep": [
+    "hist.how-we-know-history.archaeology.L5",
+    "hist.how-we-know-history.ancient-dna.L4"
+   ],
+   "go_wide": [
+    "hist.how-we-know-history.ancient-dna.L4",
+    "hist.how-we-know-history.who-tells-history.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:12",
+    "hist:16",
+    "hist:17",
+    "hist:18",
+    "hist:20",
+    "hist:21",
+    "hist:22"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.how-we-know-history.archaeology.L5",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "topic_name": "How we know the past",
+   "strand": "History and memory",
+   "topic_level": "hist.how-we-know-history.L5",
+   "subtopic": "archaeology",
+   "name": "Archaeology: digging up the past",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "New finds rewrite history: a 476,000-year-old wooden structure in Zambia, lidar revealing hidden Maya cities, a possible Saraswati river channel; why scientists argue about each find.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.how-we-know-history.archaeology.L4"
+   ],
+   "go_deep": [
+    "hist.how-we-know-history.ancient-dna.L5"
+   ],
+   "go_wide": [
+    "hist.how-we-know-history.ancient-dna.L5",
+    "hist.how-we-know-history.scripts-and-inscriptions.L5",
+    "hist.how-we-know-history.who-tells-history.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:12",
+    "hist:16",
+    "hist:17",
+    "hist:18",
+    "hist:20",
+    "hist:21",
+    "hist:22"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.how-we-know-history.ancient-dna.L4",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "topic_name": "How we know the past",
+   "strand": "History and memory",
+   "topic_level": "hist.how-we-know-history.L4",
+   "subtopic": "ancient-dna",
+   "name": "Ancient DNA: what old bones tell us",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "DNA from very old bones tells us who people were related to.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.how-we-know-history.archaeology.L4"
+   ],
+   "go_deep": [
+    "hist.how-we-know-history.ancient-dna.L5"
+   ],
+   "go_wide": [
+    "hist.how-we-know-history.archaeology.L4",
+    "hist.how-we-know-history.who-tells-history.L4",
+    "sci.genetics.reading-genomes.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:13",
+    "hist:14",
+    "hist:15",
+    "hist:30"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.how-we-know-history.ancient-dna.L5",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "topic_name": "How we know the past",
+   "strand": "History and memory",
+   "topic_level": "hist.how-we-know-history.L5",
+   "subtopic": "ancient-dna",
+   "name": "Ancient DNA: what old bones tell us",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Rakhigarhi genome; South Asians as a mix of ancient groups; why ancient DNA is changing old debates (and why some are still argued).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.how-we-know-history.ancient-dna.L4",
+    "hist.how-we-know-history.archaeology.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.how-we-know-history.archaeology.L5",
+    "hist.how-we-know-history.scripts-and-inscriptions.L5",
+    "hist.how-we-know-history.who-tells-history.L5",
+    "sci.genetics.reading-genomes.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:13",
+    "hist:14",
+    "hist:15",
+    "hist:30"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.how-we-know-history.scripts-and-inscriptions.L3",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "topic_name": "How we know the past",
+   "strand": "History and memory",
+   "topic_level": "hist.how-we-know-history.L3",
+   "subtopic": "scripts-and-inscriptions",
+   "name": "Writing, scripts and inscriptions",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "The first writing; the Indus script nobody can read yet.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.how-we-know-history.scripts-and-inscriptions.L5"
+   ],
+   "go_wide": [
+    "phil.knowing.language-and-thought.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:19",
+    "hist:29",
+    "hist:41",
+    "hist:57"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.how-we-know-history.scripts-and-inscriptions.L5",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "topic_name": "How we know the past",
+   "strand": "History and memory",
+   "topic_level": "hist.how-we-know-history.L5",
+   "subtopic": "scripts-and-inscriptions",
+   "name": "Writing, scripts and inscriptions",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Brahmi and Kharosthi scripts; reading Ashoka's edicts; the oldest Buddhist manuscripts from Gandhara.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.how-we-know-history.scripts-and-inscriptions.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.how-we-know-history.archaeology.L5",
+    "hist.how-we-know-history.ancient-dna.L5",
+    "hist.how-we-know-history.who-tells-history.L5",
+    "phil.knowing.language-and-thought.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:19",
+    "hist:29",
+    "hist:41",
+    "hist:57"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.how-we-know-history.who-tells-history.L4",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "topic_name": "How we know the past",
+   "strand": "History and memory",
+   "topic_level": "hist.how-we-know-history.L4",
+   "subtopic": "who-tells-history",
+   "name": "Who tells history?",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The same event told by the winner and the loser; whose stories got written down?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.my-history.memory-and-history.L3"
+   ],
+   "go_deep": [
+    "hist.how-we-know-history.who-tells-history.L5"
+   ],
+   "go_wide": [
+    "hist.how-we-know-history.archaeology.L4",
+    "hist.how-we-know-history.ancient-dna.L4",
+    "sci.how-we-know.questioning-evidence.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:54",
+    "hist:55",
+    "hist:56",
+    "hist:139"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.how-we-know-history.who-tells-history.L5",
+   "subject": "hist",
+   "topic": "how-we-know-history",
+   "topic_name": "How we know the past",
+   "strand": "History and memory",
+   "topic_level": "hist.how-we-know-history.L5",
+   "subtopic": "who-tells-history",
+   "name": "Who tells history?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Historians disagree: different schools of history (looking at kings, at ordinary people, at the colonised); history as an argument with evidence.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.how-we-know-history.who-tells-history.L4",
+    "hist.my-history.memory-and-history.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.how-we-know-history.archaeology.L5",
+    "hist.how-we-know-history.ancient-dna.L5",
+    "hist.how-we-know-history.scripts-and-inscriptions.L5",
+    "sci.how-we-know.questioning-evidence.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:54",
+    "hist:55",
+    "hist:56",
+    "hist:139"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.first-humans.L2",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L2",
+   "subtopic": "first-humans",
+   "name": "The first humans",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Long ago people lived without houses, shops or writing; where the first people came from (Africa).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.prehistory.first-humans.L4"
+   ],
+   "go_wide": [
+    "hist.prehistory.hunter-gatherers.L2",
+    "sci.evolution.human-origins.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:6",
+    "hist:7"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.first-humans.L4",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L4",
+   "subtopic": "first-humans",
+   "name": "The first humans",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Homo sapiens and other human species; how humans spread across the world.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.first-humans.L2"
+   ],
+   "go_deep": [
+    "hist.prehistory.first-humans.L5"
+   ],
+   "go_wide": [
+    "hist.prehistory.hunter-gatherers.L4",
+    "hist.prehistory.metals.L4",
+    "sci.evolution.human-origins.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:6",
+    "hist:7"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.first-humans.L5",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L5",
+   "subtopic": "first-humans",
+   "name": "The first humans",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Evolution of Homo sapiens; what fossils and DNA tell us; humans reaching South Asia.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.first-humans.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.prehistory.first-farmers.L5",
+    "hist.prehistory.prehistoric-india.L5",
+    "sci.evolution.human-origins.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:6",
+    "hist:7"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.hunter-gatherers.L2",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L2",
+   "subtopic": "hunter-gatherers",
+   "name": "Hunter-gatherers, stone tools and cave art",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Living by gathering and hunting; stone tools; paintings on cave walls.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.first-humans.L2"
+   ],
+   "go_deep": [
+    "hist.prehistory.hunter-gatherers.L3"
+   ],
+   "go_wide": [
+    "hist.prehistory.first-humans.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:8"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.hunter-gatherers.L3",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L3",
+   "subtopic": "hunter-gatherers",
+   "name": "Hunter-gatherers, stone tools and cave art",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Bhimbetka rock shelters, Lascaux and Chauvet; making a 'cave painting'.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.hunter-gatherers.L2",
+    "hist.prehistory.first-humans.L2"
+   ],
+   "go_deep": [
+    "hist.prehistory.hunter-gatherers.L4"
+   ],
+   "go_wide": [
+    "hist.prehistory.first-farmers.L3",
+    "hist.prehistory.prehistoric-india.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:8"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.hunter-gatherers.L4",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L4",
+   "subtopic": "hunter-gatherers",
+   "name": "Hunter-gatherers, stone tools and cave art",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Life in the Old Stone Age: fire, tools, art, sharing food.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.hunter-gatherers.L3",
+    "hist.prehistory.first-humans.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.prehistory.first-humans.L4",
+    "hist.prehistory.metals.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:8"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.first-farmers.L3",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L3",
+   "subtopic": "first-farmers",
+   "name": "The first farmers",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "People learned to grow crops and keep animals; the first villages (Mehrgarh, Jericho, Çatalhöyük).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.hunter-gatherers.L3"
+   ],
+   "go_deep": [
+    "hist.prehistory.first-farmers.L5"
+   ],
+   "go_wide": [
+    "hist.prehistory.hunter-gatherers.L3",
+    "hist.prehistory.prehistoric-india.L3",
+    "sci.food.where-food-comes-from.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:9"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.first-farmers.L5",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L5",
+   "subtopic": "first-farmers",
+   "name": "The first farmers",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Neolithic revolution: what changed when people settled (food, homes, owning land); was it good for everyone?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.first-farmers.L3",
+    "hist.prehistory.hunter-gatherers.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.prehistory.first-humans.L5",
+    "hist.prehistory.prehistoric-india.L5",
+    "sci.food.where-food-comes-from.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:9"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.metals.L4",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L4",
+   "subtopic": "metals",
+   "name": "Copper, bronze and iron",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "How people learned to use copper, then bronze, then iron, and what changed.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.first-farmers.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.prehistory.first-humans.L4",
+    "hist.prehistory.hunter-gatherers.L4",
+    "sci.materials.natural-and-made.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:10"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.prehistoric-india.L3",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L3",
+   "subtopic": "prehistoric-india",
+   "name": "Prehistoric India",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "The first people in India; rock art; tiny stone tools (microliths).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.first-humans.L2"
+   ],
+   "go_deep": [
+    "hist.prehistory.prehistoric-india.L5"
+   ],
+   "go_wide": [
+    "hist.prehistory.hunter-gatherers.L3",
+    "hist.prehistory.first-farmers.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:11",
+    "hist:25",
+    "hist:26"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.prehistory.prehistoric-india.L5",
+   "subject": "hist",
+   "topic": "prehistory",
+   "topic_name": "Prehistory: the first people",
+   "strand": "Human origins",
+   "topic_level": "hist.prehistory.L5",
+   "subtopic": "prehistoric-india",
+   "name": "Prehistoric India",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Earliest humans in South Asia; domesticating millets and rice; India's first villages.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.prehistoric-india.L3",
+    "hist.prehistory.first-humans.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.prehistory.first-humans.L5",
+    "hist.prehistory.first-farmers.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:11",
+    "hist:25",
+    "hist:26"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.regional-cultures.L4",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L4",
+   "subtopic": "regional-cultures",
+   "name": "Early cultures across the subcontinent",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Before and around the Indus cities: villages in Balochistan, Rajasthan (Ahar-Banas), Haryana, the Deccan, the east and the south.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.early-india.regional-cultures.L5",
+    "hist.early-india.indus.L4"
+   ],
+   "go_wide": [
+    "hist.early-india.indus.L4",
+    "hist.early-india.vedic-age.L4",
+    "hist.early-india.sangam-south.L4",
+    "hist.early-india.kingdoms-and-republics.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "sub:1",
+    "sub:2",
+    "sub:3",
+    "sub:4",
+    "sub:5",
+    "sub:6"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.regional-cultures.L5",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L5",
+   "subtopic": "regional-cultures",
+   "name": "Early cultures across the subcontinent",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Copper Age cultures, their pottery and houses; Keeladi and early South Indian towns; India was many places, not one story.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.early-india.regional-cultures.L4"
+   ],
+   "go_deep": [
+    "hist.early-india.indus.L5"
+   ],
+   "go_wide": [
+    "hist.early-india.indus.L5",
+    "hist.early-india.vedic-age.L5",
+    "hist.early-india.sangam-south.L5",
+    "hist.early-india.kingdoms-and-republics.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "sub:1",
+    "sub:2",
+    "sub:3",
+    "sub:4",
+    "sub:5",
+    "sub:6"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.indus.L3",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L3",
+   "subtopic": "indus",
+   "name": "The Indus (Harappan) civilisation",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Great planned cities (Mohenjo-daro, Harappa, Dholavira) with drains, wells and baths.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.prehistory.first-farmers.L3"
+   ],
+   "go_deep": [
+    "hist.early-india.indus.L4"
+   ],
+   "go_wide": [
+    "hist.world-ancient.mesopotamia.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.weight-capacity.weight.L3",
+     "chapters": [
+      "N3-11",
+      "C3-Gg"
+     ]
+    }
+   ],
+   "notebook": [
+    "hist:27",
+    "hist:28",
+    "hist:29",
+    "hist:30",
+    "hist:86",
+    "sub:7"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.indus.L4",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L4",
+   "subtopic": "indus",
+   "name": "The Indus (Harappan) civilisation",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Trade, standard weights, seals; how the cities ended.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.early-india.indus.L3",
+    "hist.prehistory.first-farmers.L3"
+   ],
+   "go_deep": [
+    "hist.early-india.indus.L5"
+   ],
+   "go_wide": [
+    "hist.early-india.regional-cultures.L4",
+    "hist.early-india.vedic-age.L4",
+    "hist.early-india.sangam-south.L4",
+    "hist.early-india.kingdoms-and-republics.L4",
+    "hist.world-ancient.mesopotamia.L5"
+   ],
+   "maths": [
+    {
+     "id": "math.weight-capacity.weight.L4",
+     "chapters": [
+      "N4-8",
+      "C4-Gg"
+     ]
+    }
+   ],
+   "notebook": [
+    "hist:27",
+    "hist:28",
+    "hist:29",
+    "hist:30",
+    "hist:86",
+    "sub:7"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.indus.L5",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L5",
+   "subtopic": "indus",
+   "name": "The Indus (Harappan) civilisation",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Writing nobody can read yet; what ancient DNA says about the people; debates about the Saraswati river.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.early-india.indus.L4",
+    "hist.prehistory.first-farmers.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.early-india.regional-cultures.L5",
+    "hist.early-india.vedic-age.L5",
+    "hist.early-india.sangam-south.L5",
+    "hist.early-india.kingdoms-and-republics.L5",
+    "hist.world-ancient.mesopotamia.L5"
+   ],
+   "maths": [
+    {
+     "id": "math.weight-capacity.weight.L5",
+     "chapters": [
+      "N5-8",
+      "C5-Gg"
+     ]
+    }
+   ],
+   "notebook": [
+    "hist:27",
+    "hist:28",
+    "hist:29",
+    "hist:30",
+    "hist:86",
+    "sub:7"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.vedic-age.L4",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L4",
+   "subtopic": "vedic-age",
+   "name": "The Vedic age",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The Vedas were composed and remembered by heart; early villages and cattle herders.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.early-india.indus.L4"
+   ],
+   "go_deep": [
+    "hist.early-india.vedic-age.L5"
+   ],
+   "go_wide": [
+    "hist.early-india.regional-cultures.L4",
+    "hist.early-india.indus.L4",
+    "hist.early-india.sangam-south.L4",
+    "hist.early-india.kingdoms-and-republics.L4",
+    "phil.living-well.values.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:31",
+    "hist:32",
+    "hist:33",
+    "sub:8"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.vedic-age.L5",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L5",
+   "subtopic": "vedic-age",
+   "name": "The Vedic age",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Iron, new kingdoms; how languages spread; Sinauli and other finds; what is known and what is debated.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.early-india.vedic-age.L4",
+    "hist.early-india.indus.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.early-india.regional-cultures.L5",
+    "hist.early-india.indus.L5",
+    "hist.early-india.sangam-south.L5",
+    "hist.early-india.kingdoms-and-republics.L5",
+    "phil.living-well.values.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:31",
+    "hist:32",
+    "hist:33",
+    "sub:8"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.sangam-south.L4",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L4",
+   "subtopic": "sangam-south",
+   "name": "The Sangam age: Cheras, Cholas and Pandyas",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The three crowned kingdoms of the south; Sangam poems about love and war.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.early-india.sangam-south.L5"
+   ],
+   "go_wide": [
+    "hist.early-india.regional-cultures.L4",
+    "hist.early-india.indus.L4",
+    "hist.early-india.vedic-age.L4",
+    "hist.early-india.kingdoms-and-republics.L4",
+    "hist.india-empires.trade-across-the-ocean.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:34",
+    "hist:35",
+    "hist:80",
+    "hist:81",
+    "hist:82",
+    "sub:10",
+    "sub:11",
+    "sub:12",
+    "sub:13"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.sangam-south.L5",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L5",
+   "subtopic": "sangam-south",
+   "name": "The Sangam age: Cheras, Cholas and Pandyas",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Sea trade with Rome, Keeladi's brick towns, the long story of Cheras, Cholas and Pandyas.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.early-india.sangam-south.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.early-india.regional-cultures.L5",
+    "hist.early-india.indus.L5",
+    "hist.early-india.vedic-age.L5",
+    "hist.early-india.kingdoms-and-republics.L5",
+    "hist.india-empires.trade-across-the-ocean.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:34",
+    "hist:35",
+    "hist:80",
+    "hist:81",
+    "hist:82",
+    "sub:10",
+    "sub:11",
+    "sub:12",
+    "sub:13"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.kingdoms-and-republics.L4",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L4",
+   "subtopic": "kingdoms-and-republics",
+   "name": "Sixteen kingdoms and republics; the rise of Magadha",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The mahajanapadas: kingdoms and republics; the time of the Buddha and Mahavira.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.early-india.vedic-age.L4"
+   ],
+   "go_deep": [
+    "hist.early-india.kingdoms-and-republics.L5"
+   ],
+   "go_wide": [
+    "hist.early-india.regional-cultures.L4",
+    "hist.early-india.indus.L4",
+    "hist.early-india.vedic-age.L4",
+    "hist.early-india.sangam-south.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:62",
+    "sub:9",
+    "sub:14"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.early-india.kingdoms-and-republics.L5",
+   "subject": "hist",
+   "topic": "early-india",
+   "topic_name": "Early India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.early-india.L5",
+   "subtopic": "kingdoms-and-republics",
+   "name": "Sixteen kingdoms and republics; the rise of Magadha",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "How Magadha grew strong; the Nandas; cities of the second urbanisation.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.early-india.kingdoms-and-republics.L4",
+    "hist.early-india.vedic-age.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.early-india.regional-cultures.L5",
+    "hist.early-india.indus.L5",
+    "hist.early-india.vedic-age.L5",
+    "hist.early-india.sangam-south.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:62",
+    "sub:9",
+    "sub:14"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.mauryas.L3",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L3",
+   "subtopic": "mauryas",
+   "name": "The Mauryas and Ashoka",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Ashoka, the king who gave up war; the lion capital on our money.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.mauryas.L4"
+   ],
+   "go_wide": [
+    "hist.india-empires.mughals.L3",
+    "hist.india-empires.freedom-and-republic.L3",
+    "hist.india-empires.big-timeline.L3",
+    "hist.early-india.kingdoms-and-republics.L4",
+    "sci.india.national-identity.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:36",
+    "hist:37",
+    "hist:38",
+    "hist:63",
+    "hist:93",
+    "sub:15"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.mauryas.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "mauryas",
+   "name": "The Mauryas and Ashoka",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Chandragupta Maurya and Chanakya; a huge empire.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.mauryas.L3"
+   ],
+   "go_deep": [
+    "hist.india-empires.mauryas.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.colonial-india.L4",
+    "hist.early-india.kingdoms-and-republics.L4",
+    "sci.india.national-identity.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:36",
+    "hist:37",
+    "hist:38",
+    "hist:63",
+    "hist:93",
+    "sub:15"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.mauryas.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "mauryas",
+   "name": "The Mauryas and Ashoka",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Ashoka's edicts in many languages and scripts (even Greek and Aramaic); Persian neighbours in the north-west.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.mauryas.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5",
+    "hist.early-india.kingdoms-and-republics.L5",
+    "sci.india.national-identity.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:36",
+    "hist:37",
+    "hist:38",
+    "hist:63",
+    "hist:93",
+    "sub:15"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.after-the-mauryas.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "after-the-mauryas",
+   "name": "After the Mauryas: Shungas, Kanvas, Satavahanas",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Smaller kingdoms after the empire; the Satavahanas linking north and south.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.mauryas.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:64",
+    "hist:65",
+    "hist:66",
+    "sub:16"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.crossroads.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "crossroads",
+   "name": "The north-west crossroads: Greeks, Sakas and Kushans",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Traders and kings from far away; Buddha statues in Greek style (Gandhara).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.crossroads.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.colonial-india.L4",
+    "hist.world-ancient.greece.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:39",
+    "hist:40",
+    "hist:41",
+    "hist:59",
+    "sub:17",
+    "sub:18",
+    "sub:19"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.crossroads.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "crossroads",
+   "name": "The north-west crossroads: Greeks, Sakas and Kushans",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Indo-Greeks, Sakas and Kushans; Taxila; how Buddhism travelled along the Silk Roads.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.crossroads.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5",
+    "hist.world-ancient.greece.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:39",
+    "hist:40",
+    "hist:41",
+    "hist:59",
+    "sub:17",
+    "sub:18",
+    "sub:19"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.trade-across-the-ocean.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "trade-across-the-ocean",
+   "name": "Trade across the ocean",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Pepper, cotton and spices sailed to Rome and beyond; Muziris and Arikamedu.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.trade-across-the-ocean.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.colonial-india.L4",
+    "sci.weather.monsoon-and-oceans.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:42",
+    "hist:43",
+    "hist:60"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.trade-across-the-ocean.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "trade-across-the-ocean",
+   "name": "Trade across the ocean",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Monsoon winds and the Indian Ocean trade; a 2,000-year-old trade contract (Muziris papyrus).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.trade-across-the-ocean.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5",
+    "sci.weather.monsoon-and-oceans.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:42",
+    "hist:43",
+    "hist:60"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.guptas-and-classical.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "guptas-and-classical",
+   "name": "The Guptas and the classical age",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Ajanta paintings, Nalanda, stories and plays; Aryabhata and zero.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.guptas-and-classical.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.colonial-india.L4",
+    "math.number-sense.history-of-numbers.L5",
+    "sci.sky.history-of-astronomy.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:44",
+    "hist:45",
+    "hist:46",
+    "hist:58",
+    "hist:67",
+    "sub:20",
+    "sub:21",
+    "sub:22",
+    "sub:27"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.guptas-and-classical.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "guptas-and-classical",
+   "name": "The Guptas and the classical age",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Gupta age and its neighbours (Vakatakas, Kalabhras, Harsha); Indian mathematics and astronomy travelling the world.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.guptas-and-classical.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5",
+    "math.number-sense.history-of-numbers.L5",
+    "sci.sky.history-of-astronomy.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:44",
+    "hist:45",
+    "hist:46",
+    "hist:58",
+    "hist:67",
+    "sub:20",
+    "sub:21",
+    "sub:22",
+    "sub:27"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.southern-and-deccan-kingdoms.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "southern-and-deccan-kingdoms",
+   "name": "Kingdoms of the south and the Deccan",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Temple builders: Pallavas (Mahabalipuram), Chalukyas, Rashtrakutas (Kailasa at Ellora), Hoysalas, Kakatiyas.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.southern-and-deccan-kingdoms.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.colonial-india.L4",
+    "hist.india-empires.trade-across-the-ocean.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:70",
+    "hist:71",
+    "hist:72",
+    "hist:73",
+    "sub:23",
+    "sub:24",
+    "sub:25",
+    "sub:26",
+    "sub:28",
+    "sub:31",
+    "sub:32",
+    "sub:35",
+    "sub:36"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.southern-and-deccan-kingdoms.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "southern-and-deccan-kingdoms",
+   "name": "Kingdoms of the south and the Deccan",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Chola navy and its empire across the sea; Kadambas, Western Gangas, later Pandyas; what temples tell us.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.southern-and-deccan-kingdoms.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5",
+    "hist.india-empires.trade-across-the-ocean.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:70",
+    "hist:71",
+    "hist:72",
+    "hist:73",
+    "sub:23",
+    "sub:24",
+    "sub:25",
+    "sub:26",
+    "sub:28",
+    "sub:31",
+    "sub:32",
+    "sub:35",
+    "sub:36"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.north-and-east-kingdoms.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "north-and-east-kingdoms",
+   "name": "Kingdoms of the north and east",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Palas and their great universities; the Gurjara-Pratiharas; the struggle for Kannauj.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:68",
+    "hist:69",
+    "sub:29",
+    "sub:30"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.sultanates.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "sultanates",
+   "name": "The sultanates",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Turkish and Afghan rulers in Delhi; new languages, buildings and foods.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.sultanates.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.colonial-india.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:47",
+    "hist:48",
+    "hist:75",
+    "hist:76",
+    "sub:33",
+    "sub:34",
+    "sub:38",
+    "sub:39"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.sultanates.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "sultanates",
+   "name": "The sultanates",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Ghaznavid raids, the Delhi Sultanate, the Bahmani and Deccan sultanates; Persian culture meeting Indian culture.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.sultanates.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:47",
+    "hist:48",
+    "hist:75",
+    "hist:76",
+    "sub:33",
+    "sub:34",
+    "sub:38",
+    "sub:39"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.vijayanagara.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "vijayanagara",
+   "name": "Vijayanagara",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The city of Hampi and its markets; Krishnadevaraya.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.vijayanagara.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.colonial-india.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:74",
+    "sub:37"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.vijayanagara.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "vijayanagara",
+   "name": "Vijayanagara",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The rise and fall of Vijayanagara.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.vijayanagara.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:74",
+    "sub:37"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.mughals.L3",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L3",
+   "subtopic": "mughals",
+   "name": "The Mughals",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "The Taj Mahal and the emperors who built forts and gardens.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.mughals.L4"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L3",
+    "hist.india-empires.freedom-and-republic.L3",
+    "hist.india-empires.big-timeline.L3",
+    "hist.world-early-modern.gunpowder-empires.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:49",
+    "hist:50",
+    "hist:77",
+    "hist:106",
+    "sub:40"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.mughals.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "mughals",
+   "name": "The Mughals",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Babur to Aurangzeb; Akbar's court and its many faiths.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.mughals.L3"
+   ],
+   "go_deep": [
+    "hist.india-empires.mughals.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.colonial-india.L4",
+    "hist.world-early-modern.gunpowder-empires.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:49",
+    "hist:50",
+    "hist:77",
+    "hist:106",
+    "sub:40"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.mughals.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "mughals",
+   "name": "The Mughals",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Mughal India among the great empires (Safavid, Ottoman); Indian cloth and the world's silver.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.mughals.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5",
+    "hist.world-early-modern.gunpowder-empires.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:49",
+    "hist:50",
+    "hist:77",
+    "hist:106",
+    "sub:40"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.marathas-and-sikhs.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "marathas-and-sikhs",
+   "name": "Marathas and Sikhs",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Shivaji and the Maratha forts; Ranjit Singh and the Sikh empire.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.mughals.L4"
+   ],
+   "go_deep": [
+    "hist.india-empires.marathas-and-sikhs.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.colonial-india.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:78",
+    "hist:79",
+    "sub:41",
+    "sub:42"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.marathas-and-sikhs.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "marathas-and-sikhs",
+   "name": "Marathas and Sikhs",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Maratha confederacy and the Sikh empire after the Mughals.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.marathas-and-sikhs.L4",
+    "hist.india-empires.mughals.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:78",
+    "hist:79",
+    "sub:41",
+    "sub:42"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.colonial-india.L4",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L4",
+   "subtopic": "colonial-india",
+   "name": "Traders who became rulers",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "European traders came by sea (Portuguese, Dutch, French, British); the East India Company.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L4",
+    "hist.india-empires.crossroads.L4",
+    "hist.india-empires.trade-across-the-ocean.L4",
+    "hist.india-empires.guptas-and-classical.L4",
+    "hist.india-empires.southern-and-deccan-kingdoms.L4",
+    "hist.india-empires.sultanates.L4",
+    "hist.india-empires.vijayanagara.L4",
+    "hist.india-empires.mughals.L4",
+    "hist.india-empires.marathas-and-sikhs.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:51",
+    "hist:52",
+    "sub:43",
+    "sub:44",
+    "sub:45"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.colonial-india.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "colonial-india",
+   "name": "Traders who became rulers",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Plassey, the Company, 1857, the British Raj; railways, famines and reforms; who gained and who lost.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.colonial-india.L4"
+   ],
+   "go_deep": [
+    "hist.india-empires.freedom-and-republic.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.freedom-and-republic.L5",
+    "hist.india-empires.big-timeline.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:51",
+    "hist:52",
+    "sub:43",
+    "sub:44",
+    "sub:45"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.freedom-and-republic.L3",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L3",
+   "subtopic": "freedom-and-republic",
+   "name": "Freedom, partition and the republic",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "How India became free; Gandhiji and many others; 15 August and 26 January.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.freedom-and-republic.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L3",
+    "hist.india-empires.mughals.L3",
+    "hist.india-empires.big-timeline.L3",
+    "hist.india-empires.colonial-india.L4",
+    "sci.india.freedom-struggle.L5",
+    "sci.india.government-and-rights.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:53"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.freedom-and-republic.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "freedom-and-republic",
+   "name": "Freedom, partition and the republic",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Nationalism and the freedom struggle across India; Partition; the Constitution; the Green Revolution, liberalisation and India today.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.freedom-and-republic.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.big-timeline.L5",
+    "hist.india-empires.colonial-india.L5",
+    "sci.india.freedom-struggle.L5",
+    "sci.india.government-and-rights.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:53"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.big-timeline.L3",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L3",
+   "subtopic": "big-timeline",
+   "name": "The big timeline of the subcontinent",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "A timeline from the first villages to today (the Kaala Chakram board game).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.india-empires.big-timeline.L5"
+   ],
+   "go_wide": [
+    "hist.india-empires.mauryas.L3",
+    "hist.india-empires.mughals.L3",
+    "hist.india-empires.freedom-and-republic.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.number-sense.big-numbers.L4",
+     "chapters": []
+    }
+   ],
+   "notebook": [
+    "hist:23",
+    "hist:24",
+    "hist:61"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.india-empires.big-timeline.L5",
+   "subject": "hist",
+   "topic": "india-empires",
+   "topic_name": "Empires and kingdoms of India",
+   "strand": "Indian subcontinent",
+   "topic_level": "hist.india-empires.L5",
+   "subtopic": "big-timeline",
+   "name": "The big timeline of the subcontinent",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Placing every kingdom and empire on one timeline and one map; how long each lasted; who lived at the same time.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.india-empires.big-timeline.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.india-empires.mauryas.L5",
+    "hist.india-empires.after-the-mauryas.L5",
+    "hist.india-empires.crossroads.L5",
+    "hist.india-empires.trade-across-the-ocean.L5",
+    "hist.india-empires.guptas-and-classical.L5",
+    "hist.india-empires.southern-and-deccan-kingdoms.L5",
+    "hist.india-empires.north-and-east-kingdoms.L5",
+    "hist.india-empires.sultanates.L5",
+    "hist.india-empires.vijayanagara.L5",
+    "hist.india-empires.mughals.L5",
+    "hist.india-empires.marathas-and-sikhs.L5",
+    "hist.india-empires.colonial-india.L5",
+    "hist.india-empires.freedom-and-republic.L5"
+   ],
+   "maths": [
+    {
+     "id": "math.number-sense.big-numbers.L5",
+     "chapters": [
+      "N5-1"
+     ]
+    }
+   ],
+   "notebook": [
+    "hist:23",
+    "hist:24",
+    "hist:61"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.mesopotamia.L3",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L3",
+   "subtopic": "mesopotamia",
+   "name": "Mesopotamia: the first cities and writing",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Sumer, the first cities, the wheel and writing on clay.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-ancient.mesopotamia.L5"
+   ],
+   "go_wide": [
+    "hist.early-india.indus.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:83",
+    "hist:84"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.mesopotamia.L5",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L5",
+   "subtopic": "mesopotamia",
+   "name": "Mesopotamia: the first cities and writing",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Akkad, Babylon and Assyria; Hammurabi's laws.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-ancient.mesopotamia.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-ancient.china.L5",
+    "hist.world-ancient.greece.L5",
+    "hist.world-ancient.rome.L5",
+    "hist.world-ancient.persia.L5",
+    "hist.world-ancient.americas.L5",
+    "hist.early-india.indus.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:83",
+    "hist:84"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.egypt.L2",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L2",
+   "subtopic": "egypt",
+   "name": "Ancient Egypt",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Pyramids, the Nile and mummies.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-ancient.egypt.L4"
+   ],
+   "go_wide": [],
+   "maths": [],
+   "notebook": [
+    "hist:85"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.egypt.L4",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L4",
+   "subtopic": "egypt",
+   "name": "Ancient Egypt",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Pharaohs, hieroglyphs and the gods of Egypt; who built the pyramids.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-ancient.egypt.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-ancient.china.L4",
+    "hist.world-ancient.greece.L4",
+    "hist.world-ancient.rome.L4",
+    "hist.world-ancient.africa.L4",
+    "hist.world-ancient.americas.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:85"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.china.L4",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L4",
+   "subtopic": "china",
+   "name": "Ancient China",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The Shang and Zhou; oracle bones; the Great Wall.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-ancient.china.L5"
+   ],
+   "go_wide": [
+    "hist.world-ancient.egypt.L4",
+    "hist.world-ancient.greece.L4",
+    "hist.world-ancient.rome.L4",
+    "hist.world-ancient.africa.L4",
+    "hist.world-ancient.americas.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:87",
+    "hist:94"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.china.L5",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L5",
+   "subtopic": "china",
+   "name": "Ancient China",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Qin and Han empires; Confucius and government by exams; paper and the compass.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-ancient.china.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-ancient.mesopotamia.L5",
+    "hist.world-ancient.greece.L5",
+    "hist.world-ancient.rome.L5",
+    "hist.world-ancient.persia.L5",
+    "hist.world-ancient.americas.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:87",
+    "hist:94"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.greece.L4",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L4",
+   "subtopic": "greece",
+   "name": "Ancient Greece",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Athens and Sparta; the first Olympics; Greek stories.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-ancient.greece.L5"
+   ],
+   "go_wide": [
+    "hist.world-ancient.egypt.L4",
+    "hist.world-ancient.china.L4",
+    "hist.world-ancient.rome.L4",
+    "hist.world-ancient.africa.L4",
+    "hist.world-ancient.americas.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:89",
+    "hist:90"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.greece.L5",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L5",
+   "subtopic": "greece",
+   "name": "Ancient Greece",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "City-states, democracy for some, wars with Persia; Alexander and the Hellenistic world.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-ancient.greece.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-ancient.mesopotamia.L5",
+    "hist.world-ancient.china.L5",
+    "hist.world-ancient.rome.L5",
+    "hist.world-ancient.persia.L5",
+    "hist.world-ancient.americas.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:89",
+    "hist:90"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.rome.L4",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L4",
+   "subtopic": "rome",
+   "name": "Ancient Rome",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "From a small city to a vast empire; roads, aqueducts and the Colosseum.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-ancient.rome.L5"
+   ],
+   "go_wide": [
+    "hist.world-ancient.egypt.L4",
+    "hist.world-ancient.china.L4",
+    "hist.world-ancient.greece.L4",
+    "hist.world-ancient.africa.L4",
+    "hist.world-ancient.americas.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:91"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.rome.L5",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L5",
+   "subtopic": "rome",
+   "name": "Ancient Rome",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Republic and empire, Roman law, the rise of Christianity.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-ancient.rome.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-ancient.mesopotamia.L5",
+    "hist.world-ancient.china.L5",
+    "hist.world-ancient.greece.L5",
+    "hist.world-ancient.persia.L5",
+    "hist.world-ancient.americas.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:91"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.persia.L5",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L5",
+   "subtopic": "persia",
+   "name": "The Persian empires",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Achaemenids, Parthians and Sassanids; the Persian road system and their neighbour India.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-ancient.mesopotamia.L5",
+    "hist.world-ancient.china.L5",
+    "hist.world-ancient.greece.L5",
+    "hist.world-ancient.rome.L5",
+    "hist.world-ancient.americas.L5",
+    "hist.india-empires.mauryas.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:95"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.africa.L4",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L4",
+   "subtopic": "africa",
+   "name": "Early African kingdoms",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Kush and Axum: kingdoms of pyramids, gold and trade.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-ancient.egypt.L4",
+    "hist.world-ancient.china.L4",
+    "hist.world-ancient.greece.L4",
+    "hist.world-ancient.rome.L4",
+    "hist.world-ancient.americas.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:96"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.americas.L4",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L4",
+   "subtopic": "americas",
+   "name": "The ancient Americas",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The Olmec and Chavín; the Maya, Aztec and Inca: cities, calendars and roads.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-ancient.americas.L5"
+   ],
+   "go_wide": [
+    "hist.world-ancient.egypt.L4",
+    "hist.world-ancient.china.L4",
+    "hist.world-ancient.greece.L4",
+    "hist.world-ancient.rome.L4",
+    "hist.world-ancient.africa.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:88",
+    "hist:101"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-ancient.americas.L5",
+   "subject": "hist",
+   "topic": "world-ancient",
+   "topic_name": "The ancient world",
+   "strand": "World history",
+   "topic_level": "hist.world-ancient.L5",
+   "subtopic": "americas",
+   "name": "The ancient Americas",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "What lidar is revealing about Maya cities; how the Inca kept records with knots.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-ancient.americas.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-ancient.mesopotamia.L5",
+    "hist.world-ancient.china.L5",
+    "hist.world-ancient.greece.L5",
+    "hist.world-ancient.rome.L5",
+    "hist.world-ancient.persia.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:88",
+    "hist:101"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-medieval.classical-and-medieval.L4",
+   "subject": "hist",
+   "topic": "world-medieval",
+   "topic_name": "The medieval world",
+   "strand": "World history",
+   "topic_level": "hist.world-medieval.L4",
+   "subtopic": "classical-and-medieval",
+   "name": "Empires and faiths, 500 BCE–1500 CE",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The Byzantine empire; the rise and spread of Islam; castles and knights in medieval Europe.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-medieval.classical-and-medieval.L5"
+   ],
+   "go_wide": [],
+   "maths": [],
+   "notebook": [
+    "hist:92",
+    "hist:97",
+    "hist:98",
+    "hist:99"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-medieval.classical-and-medieval.L5",
+   "subject": "hist",
+   "topic": "world-medieval",
+   "topic_name": "The medieval world",
+   "strand": "World history",
+   "topic_level": "hist.world-medieval.L5",
+   "subtopic": "classical-and-medieval",
+   "name": "Empires and faiths, 500 BCE–1500 CE",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The caliphates and the House of Wisdom; feudalism and the Crusades; scholars who saved and grew knowledge.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-medieval.classical-and-medieval.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-medieval.mongols.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:92",
+    "hist:97",
+    "hist:98",
+    "hist:99"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-medieval.mongols.L5",
+   "subject": "hist",
+   "topic": "world-medieval",
+   "topic_name": "The medieval world",
+   "strand": "World history",
+   "topic_level": "hist.world-medieval.L5",
+   "subtopic": "mongols",
+   "name": "The Mongol empire",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Genghis Khan's empire from China to Europe; how it connected the world (and how it destroyed).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-medieval.classical-and-medieval.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:100"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-early-modern.renaissance-and-science.L4",
+   "subject": "hist",
+   "topic": "world-early-modern",
+   "topic_name": "The early modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-early-modern.L4",
+   "subtopic": "renaissance-and-science",
+   "name": "Renaissance, reformation and the scientific revolution",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Artists and inventors (Leonardo); the printing press.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-early-modern.renaissance-and-science.L5"
+   ],
+   "go_wide": [
+    "hist.world-early-modern.age-of-exploration.L4",
+    "sci.how-we-know.stories-of-discovery.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:102",
+    "hist:103",
+    "hist:105"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-early-modern.renaissance-and-science.L5",
+   "subject": "hist",
+   "topic": "world-early-modern",
+   "topic_name": "The early modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-early-modern.L5",
+   "subtopic": "renaissance-and-science",
+   "name": "Renaissance, reformation and the scientific revolution",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Renaissance and Reformation; Galileo and Newton; the Enlightenment's new ideas about rights.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-early-modern.renaissance-and-science.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-early-modern.age-of-exploration.L5",
+    "hist.world-early-modern.gunpowder-empires.L5",
+    "hist.world-early-modern.slavery-and-trade.L5",
+    "sci.how-we-know.stories-of-discovery.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:102",
+    "hist:103",
+    "hist:105"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-early-modern.age-of-exploration.L4",
+   "subject": "hist",
+   "topic": "world-early-modern",
+   "topic_name": "The early modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-early-modern.L4",
+   "subtopic": "age-of-exploration",
+   "name": "The age of exploration",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Sailing ships crossing oceans; Vasco da Gama reaching India.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-early-modern.age-of-exploration.L5"
+   ],
+   "go_wide": [
+    "hist.world-early-modern.renaissance-and-science.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:104"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-early-modern.age-of-exploration.L5",
+   "subject": "hist",
+   "topic": "world-early-modern",
+   "topic_name": "The early modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-early-modern.L5",
+   "subtopic": "age-of-exploration",
+   "name": "The age of exploration",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Empires across the seas; the Columbian exchange (potatoes, chillies, diseases); what it meant for the peoples already there.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-early-modern.age-of-exploration.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-early-modern.renaissance-and-science.L5",
+    "hist.world-early-modern.gunpowder-empires.L5",
+    "hist.world-early-modern.slavery-and-trade.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:104"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-early-modern.gunpowder-empires.L5",
+   "subject": "hist",
+   "topic": "world-early-modern",
+   "topic_name": "The early modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-early-modern.L5",
+   "subtopic": "gunpowder-empires",
+   "name": "Great empires of Asia",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Mughal India, Safavid Persia, the Ottoman empire, Ming and Qing China, Tokugawa Japan.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-early-modern.renaissance-and-science.L5",
+    "hist.world-early-modern.age-of-exploration.L5",
+    "hist.world-early-modern.slavery-and-trade.L5",
+    "hist.india-empires.mughals.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:106",
+    "hist:107"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-early-modern.slavery-and-trade.L5",
+   "subject": "hist",
+   "topic": "world-early-modern",
+   "topic_name": "The early modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-early-modern.L5",
+   "subtopic": "slavery-and-trade",
+   "name": "Slavery, trade and early capitalism",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Told with care: the trans-Atlantic slave trade and the people who resisted it; mercantile companies and early capitalism; who grew rich, and who paid.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-early-modern.renaissance-and-science.L5",
+    "hist.world-early-modern.age-of-exploration.L5",
+    "hist.world-early-modern.gunpowder-empires.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:108",
+    "hist:109"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-modern.revolutions.L5",
+   "subject": "hist",
+   "topic": "world-modern",
+   "topic_name": "The modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-modern.L5",
+   "subtopic": "revolutions",
+   "name": "Revolutions",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The American and French revolutions; Napoleon; ideas of liberty and equality, and who they left out.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-modern.industrial-revolution.L5",
+    "hist.world-modern.nations-and-empires.L5",
+    "hist.world-modern.reformers.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:110",
+    "hist:111"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-modern.industrial-revolution.L3",
+   "subject": "hist",
+   "topic": "world-modern",
+   "topic_name": "The modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-modern.L3",
+   "subtopic": "industrial-revolution",
+   "name": "The industrial revolution",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Machines, factories and steam trains changed how people worked.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-modern.industrial-revolution.L5"
+   ],
+   "go_wide": [
+    "sci.energy.engines-and-fridges.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:112"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-modern.industrial-revolution.L5",
+   "subject": "hist",
+   "topic": "world-modern",
+   "topic_name": "The modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-modern.L5",
+   "subtopic": "industrial-revolution",
+   "name": "The industrial revolution",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Coal, cities, child labour and workers' movements; how India's cloth industry was ruined.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-modern.industrial-revolution.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-modern.revolutions.L5",
+    "hist.world-modern.nations-and-empires.L5",
+    "hist.world-modern.reformers.L5",
+    "sci.energy.engines-and-fridges.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:112"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-modern.nations-and-empires.L5",
+   "subject": "hist",
+   "topic": "world-modern",
+   "topic_name": "The modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-modern.L5",
+   "subtopic": "nations-and-empires",
+   "name": "Nations and empires",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "New nations (Italy, Germany, Meiji Japan); the scramble for Africa; empires and their critics.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-modern.revolutions.L5",
+    "hist.world-modern.industrial-revolution.L5",
+    "hist.world-modern.reformers.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:113",
+    "hist:114",
+    "hist:115"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-modern.reformers.L4",
+   "subject": "hist",
+   "topic": "world-modern",
+   "topic_name": "The modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-modern.L4",
+   "subtopic": "reformers",
+   "name": "Reformers and rights",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "People who fought to end slavery and to win votes for women; Indian reformers (Savitribai Phule, Raja Ram Mohan Roy).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-modern.reformers.L5"
+   ],
+   "go_wide": [],
+   "maths": [],
+   "notebook": [
+    "hist:116",
+    "hist:117"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-modern.reformers.L5",
+   "subject": "hist",
+   "topic": "world-modern",
+   "topic_name": "The modern world",
+   "strand": "World history",
+   "topic_level": "hist.world-modern.L5",
+   "subtopic": "reformers",
+   "name": "Reformers and rights",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Social reform movements worldwide; Darwin, Marx and new ways of thinking.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-modern.reformers.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-modern.revolutions.L5",
+    "hist.world-modern.industrial-revolution.L5",
+    "hist.world-modern.nations-and-empires.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:116",
+    "hist:117"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.twentieth-century.world-wars.L5",
+   "subject": "hist",
+   "topic": "twentieth-century",
+   "topic_name": "The twentieth century",
+   "strand": "World history",
+   "topic_level": "hist.twentieth-century.L5",
+   "subtopic": "world-wars",
+   "name": "The world wars",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Told gently: why the wars began, what they cost, the Holocaust, the atomic bomb; Indian soldiers in both wars; how people built peace afterwards.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.twentieth-century.revolution-and-cold-war.L5",
+    "hist.twentieth-century.freedom-movements.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:118",
+    "hist:119",
+    "hist:121",
+    "hist:122"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.twentieth-century.revolution-and-cold-war.L4",
+   "subject": "hist",
+   "topic": "twentieth-century",
+   "topic_name": "The twentieth century",
+   "strand": "World history",
+   "topic_level": "hist.twentieth-century.L4",
+   "subtopic": "revolution-and-cold-war",
+   "name": "Revolutions and the Cold War",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The space race: Sputnik, Gagarin, the Moon landing.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.twentieth-century.revolution-and-cold-war.L5"
+   ],
+   "go_wide": [
+    "hist.twentieth-century.freedom-movements.L4",
+    "sci.sky.exploring-space.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:120",
+    "hist:124",
+    "hist:127"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.twentieth-century.revolution-and-cold-war.L5",
+   "subject": "hist",
+   "topic": "twentieth-century",
+   "topic_name": "The twentieth century",
+   "strand": "World history",
+   "topic_level": "hist.twentieth-century.L5",
+   "subtopic": "revolution-and-cold-war",
+   "name": "Revolutions and the Cold War",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The Russian revolution; the Cold War between the USA and the USSR; how it ended.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.twentieth-century.revolution-and-cold-war.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.twentieth-century.world-wars.L5",
+    "hist.twentieth-century.freedom-movements.L5",
+    "sci.sky.exploring-space.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:120",
+    "hist:124",
+    "hist:127"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.twentieth-century.freedom-movements.L4",
+   "subject": "hist",
+   "topic": "twentieth-century",
+   "topic_name": "The twentieth century",
+   "strand": "World history",
+   "topic_level": "hist.twentieth-century.L4",
+   "subtopic": "freedom-movements",
+   "name": "Freedom and rights movements",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Countries winning freedom (India, Africa, Asia); Martin Luther King, Nelson Mandela.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.twentieth-century.freedom-movements.L5"
+   ],
+   "go_wide": [
+    "hist.twentieth-century.revolution-and-cold-war.L4",
+    "hist.india-empires.freedom-and-republic.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:123",
+    "hist:125"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.twentieth-century.freedom-movements.L5",
+   "subject": "hist",
+   "topic": "twentieth-century",
+   "topic_name": "The twentieth century",
+   "strand": "World history",
+   "topic_level": "hist.twentieth-century.L5",
+   "subtopic": "freedom-movements",
+   "name": "Freedom and rights movements",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Decolonisation; civil rights, women's and liberation movements around the world.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.twentieth-century.freedom-movements.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.twentieth-century.world-wars.L5",
+    "hist.twentieth-century.revolution-and-cold-war.L5",
+    "hist.india-empires.freedom-and-republic.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:123",
+    "hist:125"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-today.connected-world.L3",
+   "subject": "hist",
+   "topic": "world-today",
+   "topic_name": "The world today",
+   "strand": "World history",
+   "topic_level": "hist.world-today.L3",
+   "subtopic": "connected-world",
+   "name": "A connected world",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Phones, the internet and things made in many countries.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-today.connected-world.L5"
+   ],
+   "go_wide": [],
+   "maths": [],
+   "notebook": [
+    "hist:126",
+    "hist:128",
+    "hist:129",
+    "hist:132"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-today.connected-world.L5",
+   "subject": "hist",
+   "topic": "world-today",
+   "topic_name": "The world today",
+   "strand": "World history",
+   "topic_level": "hist.world-today.L5",
+   "subtopic": "connected-world",
+   "name": "A connected world",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Globalisation; the rise of China, India and other countries; the digital age and social media.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-today.connected-world.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-today.conflict-today.L5",
+    "hist.world-today.environment-history.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:126",
+    "hist:128",
+    "hist:129",
+    "hist:132"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-today.conflict-today.L5",
+   "subject": "hist",
+   "topic": "world-today",
+   "topic_name": "The world today",
+   "strand": "World history",
+   "topic_level": "hist.world-today.L5",
+   "subtopic": "conflict-today",
+   "name": "Conflict and peace today",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Told with care: terrorism and wars in our time; how people work for peace.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-today.connected-world.L5",
+    "hist.world-today.environment-history.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:131"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-today.environment-history.L4",
+   "subject": "hist",
+   "topic": "world-today",
+   "topic_name": "The world today",
+   "strand": "World history",
+   "topic_level": "hist.world-today.L4",
+   "subtopic": "environment-history",
+   "name": "People and the planet through history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "How people changed forests, rivers and the climate over time.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.world-today.environment-history.L5"
+   ],
+   "go_wide": [
+    "sci.weather.climate-change.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:130",
+    "hist:137"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.world-today.environment-history.L5",
+   "subject": "hist",
+   "topic": "world-today",
+   "topic_name": "The world today",
+   "strand": "World history",
+   "topic_level": "hist.world-today.L5",
+   "subtopic": "environment-history",
+   "name": "People and the planet through history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Environmental and climate history; sustainability debates; communities that protected nature (Chipko, Bishnois).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.world-today.environment-history.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.world-today.connected-world.L5",
+    "hist.world-today.conflict-today.L5",
+    "sci.weather.climate-change.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:130",
+    "hist:137"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.history-themes.money-and-work.L4",
+   "subject": "hist",
+   "topic": "history-themes",
+   "topic_name": "Themes across history",
+   "strand": "World history",
+   "topic_level": "hist.history-themes.L4",
+   "subtopic": "money-and-work",
+   "name": "Money, work and trade through history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "From barter to coins to digital money; farmers, craftspeople, factory workers.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.history-themes.money-and-work.L5"
+   ],
+   "go_wide": [
+    "hist.history-themes.medicine-history.L4",
+    "math.money.money-in-life.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:133",
+    "hist:134"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.history-themes.money-and-work.L5",
+   "subject": "hist",
+   "topic": "history-themes",
+   "topic_name": "Themes across history",
+   "strand": "World history",
+   "topic_level": "hist.history-themes.L5",
+   "subtopic": "money-and-work",
+   "name": "Money, work and trade through history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Economic history: farming societies, trade systems, capitalism; who owned land and who worked it.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.history-themes.money-and-work.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.history-themes.ideas-and-faiths.L5",
+    "hist.history-themes.everyday-life.L5",
+    "hist.history-themes.medicine-history.L5",
+    "math.money.money-in-life.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:133",
+    "hist:134"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.history-themes.ideas-and-faiths.L5",
+   "subject": "hist",
+   "topic": "history-themes",
+   "topic_name": "Themes across history",
+   "strand": "World history",
+   "topic_level": "hist.history-themes.L5",
+   "subtopic": "ideas-and-faiths",
+   "name": "Ideas, faiths and science through history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "How philosophies, religions, science and technology shaped each other.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [],
+   "go_wide": [
+    "hist.history-themes.money-and-work.L5",
+    "hist.history-themes.everyday-life.L5",
+    "hist.history-themes.medicine-history.L5",
+    "phil.knowing.knowledge.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:135"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.history-themes.everyday-life.L3",
+   "subject": "hist",
+   "topic": "history-themes",
+   "topic_name": "Themes across history",
+   "strand": "World history",
+   "topic_level": "hist.history-themes.L3",
+   "subtopic": "everyday-life",
+   "name": "Everyday life, families and fairness",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "How children, women and men lived in the past; games and homes long ago.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.history-themes.everyday-life.L5"
+   ],
+   "go_wide": [
+    "sci.family.family.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:136"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.history-themes.everyday-life.L5",
+   "subject": "hist",
+   "topic": "history-themes",
+   "topic_name": "Themes across history",
+   "strand": "World history",
+   "topic_level": "hist.history-themes.L5",
+   "subtopic": "everyday-life",
+   "name": "Everyday life, families and fairness",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Social history: gender roles, family structures, caste and class; how they changed.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.history-themes.everyday-life.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.history-themes.money-and-work.L5",
+    "hist.history-themes.ideas-and-faiths.L5",
+    "hist.history-themes.medicine-history.L5",
+    "sci.family.family.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:136"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.history-themes.medicine-history.L4",
+   "subject": "hist",
+   "topic": "history-themes",
+   "topic_name": "Themes across history",
+   "strand": "World history",
+   "topic_level": "hist.history-themes.L4",
+   "subtopic": "medicine-history",
+   "name": "Medicine and health through history",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Ayurveda, Sushruta, Jenner and vaccines, the discovery of germs.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "hist.history-themes.medicine-history.L5"
+   ],
+   "go_wide": [
+    "hist.history-themes.money-and-work.L4",
+    "sci.health.how-diseases-spread.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:138"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "hist.history-themes.medicine-history.L5",
+   "subject": "hist",
+   "topic": "history-themes",
+   "topic_name": "Themes across history",
+   "strand": "World history",
+   "topic_level": "hist.history-themes.L5",
+   "subtopic": "medicine-history",
+   "name": "Medicine and health through history",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Plagues and pandemics in history; public health; who got care and who didn't.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "hist.history-themes.medicine-history.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "hist.history-themes.money-and-work.L5",
+    "hist.history-themes.ideas-and-faiths.L5",
+    "hist.history-themes.everyday-life.L5",
+    "sci.health.how-diseases-spread.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "hist:138"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  }
+ ],
+ "chapters": {},
+ "date_fixes": [
+  "Delhi Sultanate: 1206–1526 CE (the table says 1206–1256)",
+  "Maratha Confederacy: 1674–1818 CE (the table says 1647–18181)",
+  "Hoysala Empire: c. 1026–1343 CE (the table says 1026–1046)",
+  "Kushan Empire: c. 30–375 CE (the table says 300–375 CE)",
+  "British Raj: 1858–1947 CE (the table says 1858–1949)",
+  "Kakatiya: the table gives 1083–1323 here and 1163–1323 in the dynasties list; rule as an independent kingdom is usually dated c. 1163–1323"
+ ]
+}

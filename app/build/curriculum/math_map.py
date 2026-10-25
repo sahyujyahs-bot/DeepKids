@@ -367,7 +367,7 @@ TOPICS = [
   ["C5-Ss"], L(pre=["data/bar-charts"], wide=["time/duration"], src="dk")),
  ("reading-data", "Reading data and misleading graphs", {
    4: "What does the data tell us? Comparing groups.",
-   5: "Mode and range in simple words; the same data told two ways; spotting a misleading graph."},
+   5: "Averages: mean, median and mode in simple words; range; the same data told two ways; spotting a misleading graph."},
   ["C4-Ss", "C5-Ss"], L(pre=["data/bar-charts"], src="notes")),
 ]),
 ("probability", "Chance and probability", "Data and chance", [

@@ -1,5 +1,6 @@
 {
  "subject": "math",
+ "name": "Maths",
  "topic_levels": [
   {
    "id": "math.addition-subtraction.L1",
@@ -826,7 +827,8 @@
    ],
    "subtopic_levels": [
     "math.logic.puzzles.L3",
-    "math.logic.true-false.L3"
+    "math.logic.true-false.L3",
+    "math.logic.counting-ways.L3"
    ],
    "chapters": [
     "C3-TWM"
@@ -1117,6 +1119,21 @@
    ]
   },
   {
+   "id": "math.big-ideas.L4",
+   "subject": "math",
+   "topic": "big-ideas",
+   "name": "Big ideas of maths",
+   "strand": "Thinking mathematically",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "math.big-ideas.change-and-motion.L4"
+   ],
+   "chapters": []
+  },
+  {
    "id": "math.data.L4",
    "subject": "math",
    "topic": "data",
@@ -1185,7 +1202,8 @@
    ],
    "subtopic_levels": [
     "math.fractions.fractions-of-a-whole.L4",
-    "math.fractions.decimals-and-percentages.L4"
+    "math.fractions.decimals-and-percentages.L4",
+    "math.fractions.ratio-and-proportion.L4"
    ],
    "chapters": [
     "N4-5",
@@ -1337,7 +1355,8 @@
     "math.number-sense.comparing-ordering.L4",
     "math.number-sense.estimation.L4",
     "math.number-sense.big-numbers.L4",
-    "math.number-sense.negative-numbers.L4"
+    "math.number-sense.negative-numbers.L4",
+    "math.number-sense.powers-and-roots.L4"
    ],
    "chapters": [
     "N4-4",
@@ -1551,12 +1570,29 @@
    "subtopic_levels": [
     "math.area-perimeter.perimeter.L5",
     "math.area-perimeter.area.L5",
-    "math.area-perimeter.volume.L5"
+    "math.area-perimeter.volume.L5",
+    "math.area-perimeter.surface-area.L5"
    ],
    "chapters": [
     "N5-11",
     "C5-Gg"
    ]
+  },
+  {
+   "id": "math.big-ideas.L5",
+   "subject": "math",
+   "topic": "big-ideas",
+   "name": "Big ideas of maths",
+   "strand": "Thinking mathematically",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "math.big-ideas.change-and-motion.L5",
+    "math.big-ideas.functions-and-models.L5"
+   ],
+   "chapters": []
   },
   {
    "id": "math.data.L5",
@@ -1627,7 +1663,8 @@
    ],
    "subtopic_levels": [
     "math.fractions.fractions-of-a-whole.L5",
-    "math.fractions.decimals-and-percentages.L5"
+    "math.fractions.decimals-and-percentages.L5",
+    "math.fractions.ratio-and-proportion.L5"
    ],
    "chapters": [
     "N5-2",
@@ -1665,7 +1702,8 @@
     5
    ],
    "subtopic_levels": [
-    "math.lines-angles.angles.L5"
+    "math.lines-angles.angles.L5",
+    "math.lines-angles.triangles-and-heights.L5"
    ],
    "chapters": [
     "N5-3",
@@ -1685,7 +1723,8 @@
    "subtopic_levels": [
     "math.logic.puzzles.L5",
     "math.logic.problem-solving.L5",
-    "math.logic.if-then.L5"
+    "math.logic.if-then.L5",
+    "math.logic.counting-ways.L5"
    ],
    "chapters": [
     "C5-TWM"
@@ -1784,7 +1823,8 @@
     "math.number-sense.history-of-numbers.L5",
     "math.number-sense.big-numbers.L5",
     "math.number-sense.negative-numbers.L5",
-    "math.number-sense.infinity.L5"
+    "math.number-sense.infinity.L5",
+    "math.number-sense.powers-and-roots.L5"
    ],
    "chapters": [
     "N5-1",
@@ -1995,8 +2035,11 @@
     "math.data.sorting-and-tallies.L1"
    ],
    "maths": [],
+   "notebook": [
+    "math:25"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 3 Mango Treat",
     "NCERT Class 1 Ch 4 Making 10",
@@ -2039,8 +2082,11 @@
     "math.data.sorting-and-tallies.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:25"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 Nc Counting and sequences",
     "NCERT Class 2 Ch 1 A Day at the Beach"
@@ -2081,8 +2127,12 @@
     "math.number-sense.zero.L1"
    ],
    "maths": [],
+   "notebook": [
+    "math:3",
+    "math:29"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 8 Fun with Numbers",
     "NCERT Class 1 Ch 13 So Many Toys",
@@ -2123,8 +2173,12 @@
     "math.number-sense.odd-even.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:3",
+    "math:29"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 2 Ch 3 Fun with Numbers",
     "Cambridge Stage 2 Np Place value, ordering and rounding"
@@ -2166,8 +2220,12 @@
     "math.number-sense.infinity.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:3",
+    "math:29"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 3 Ch 3 Double Century",
     "NCERT Class 3 Ch 6 House of Hundreds – I",
@@ -2205,11 +2263,16 @@
     "math.number-sense.comparing-ordering.L4",
     "math.number-sense.estimation.L4",
     "math.number-sense.big-numbers.L4",
-    "math.number-sense.negative-numbers.L4"
+    "math.number-sense.negative-numbers.L4",
+    "math.number-sense.powers-and-roots.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:3",
+    "math:29"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 4 Ch 4 Thousands Around Us",
     "Cambridge Stage 4 Np Place value, ordering and rounding"
@@ -2247,11 +2310,16 @@
     "math.number-sense.history-of-numbers.L5",
     "math.number-sense.big-numbers.L5",
     "math.number-sense.negative-numbers.L5",
-    "math.number-sense.infinity.L5"
+    "math.number-sense.infinity.L5",
+    "math.number-sense.powers-and-roots.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:3",
+    "math:29"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 5 Ch 1 We the Travellers – I",
     "Cambridge Stage 5 Np Place value, ordering and rounding"
@@ -2289,8 +2357,11 @@
     "math.number-sense.estimation.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:79"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 5 How Many?",
     "Cambridge Stage 1 Np Place value, ordering and rounding"
@@ -2329,8 +2400,11 @@
     "math.number-sense.estimation.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:79"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 Np Place value, ordering and rounding"
    ]
@@ -2369,8 +2443,13 @@
     "math.number-sense.estimation.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:79"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [
+    "sci.chemistry.acids-and-bases.L3"
+   ],
    "chapter_refs": [
     "Cambridge Stage 3 Np Place value, ordering and rounding"
    ]
@@ -2405,11 +2484,17 @@
     "math.number-sense.estimation.L4",
     "math.number-sense.big-numbers.L4",
     "math.number-sense.negative-numbers.L4",
+    "math.number-sense.powers-and-roots.L4",
     "math.number-sense.estimation.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:79"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [
+    "sci.chemistry.acids-and-bases.L4"
+   ],
    "chapter_refs": [
     "Cambridge Stage 4 Np Place value, ordering and rounding"
    ]
@@ -2444,11 +2529,17 @@
     "math.number-sense.big-numbers.L5",
     "math.number-sense.negative-numbers.L5",
     "math.number-sense.infinity.L5",
+    "math.number-sense.powers-and-roots.L5",
     "math.number-sense.estimation.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:79"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [
+    "sci.chemistry.acids-and-bases.L5"
+   ],
    "chapter_refs": [
     "Cambridge Stage 5 Np Place value, ordering and rounding"
    ]
@@ -2483,8 +2574,9 @@
     "math.measurement-basics.estimation-and-precision.L3"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -2517,11 +2609,13 @@
     "math.number-sense.comparing-ordering.L4",
     "math.number-sense.big-numbers.L4",
     "math.number-sense.negative-numbers.L4",
+    "math.number-sense.powers-and-roots.L4",
     "math.measurement-basics.estimation-and-precision.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Np Place value, ordering and rounding"
    ]
@@ -2559,11 +2653,13 @@
     "math.number-sense.big-numbers.L5",
     "math.number-sense.negative-numbers.L5",
     "math.number-sense.infinity.L5",
+    "math.number-sense.powers-and-roots.L5",
     "math.measurement-basics.estimation-and-precision.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 Np Place value, ordering and rounding",
     "NCERT Class 5 Ch 5 Far and Near"
@@ -2601,8 +2697,9 @@
     "math.number-sense.estimation.L2"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 Nc Counting and sequences"
    ]
@@ -2640,8 +2737,9 @@
     "math.number-sense.infinity.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 3 Nc Counting and sequences"
    ]
@@ -2673,8 +2771,11 @@
     "math.number-sense.history-of-numbers.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:26"
+   ],
    "source": "notes",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -2706,8 +2807,11 @@
     "math.number-sense.history-of-numbers.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:26"
+   ],
    "source": "notes",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.nothing-and-forever.zero.L3",
     "sci.nothing-and-forever.zero.L5"
    ],
@@ -2743,8 +2847,11 @@
     "math.number-sense.infinity.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:27"
+   ],
    "source": "notes",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.nothing-and-forever.zero.L3"
    ],
    "chapter_refs": []
@@ -2776,11 +2883,15 @@
     "math.number-sense.estimation.L5",
     "math.number-sense.big-numbers.L5",
     "math.number-sense.negative-numbers.L5",
-    "math.number-sense.infinity.L5"
+    "math.number-sense.infinity.L5",
+    "math.number-sense.powers-and-roots.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:27"
+   ],
    "source": "notes",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.nothing-and-forever.zero.L5"
    ],
    "chapter_refs": []
@@ -2812,11 +2923,13 @@
     "math.number-sense.place-value.L4",
     "math.number-sense.comparing-ordering.L4",
     "math.number-sense.estimation.L4",
-    "math.number-sense.negative-numbers.L4"
+    "math.number-sense.negative-numbers.L4",
+    "math.number-sense.powers-and-roots.L4"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.what-is-life.cells.L3",
     "sci.what-is-life.cells.L4",
     "sci.evolution.story-of-life.L2",
@@ -2826,7 +2939,9 @@
     "sci.sky.solar-system.L4",
     "sci.sky.stars-and-galaxies.L4",
     "sci.the-very-small.atoms.L3",
-    "sci.story-of-universe.galaxies-and-big-bang.L3"
+    "sci.story-of-universe.galaxies-and-big-bang.L3",
+    "sci.story-of-universe.big-bang.L4",
+    "hist.india-empires.big-timeline.L3"
    ],
    "chapter_refs": []
   },
@@ -2861,17 +2976,21 @@
     "math.number-sense.estimation.L5",
     "math.number-sense.history-of-numbers.L5",
     "math.number-sense.negative-numbers.L5",
-    "math.number-sense.infinity.L5"
+    "math.number-sense.infinity.L5",
+    "math.number-sense.powers-and-roots.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.what-is-life.cells.L5",
     "sci.evolution.story-of-life.L5",
     "sci.sky.solar-system.L5",
     "sci.sky.stars-and-galaxies.L5",
     "sci.the-very-small.atoms.L5",
-    "sci.story-of-universe.galaxies-and-big-bang.L5"
+    "sci.story-of-universe.galaxies-and-big-bang.L5",
+    "sci.story-of-universe.big-bang.L5",
+    "hist.india-empires.big-timeline.L5"
    ],
    "chapter_refs": [
     "NCERT Class 5 Ch 1 We the Travellers – I"
@@ -2906,11 +3025,16 @@
     "math.number-sense.comparing-ordering.L4",
     "math.number-sense.estimation.L4",
     "math.number-sense.big-numbers.L4",
+    "math.number-sense.powers-and-roots.L4",
     "math.temperature.reading-thermometers.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:32",
+    "math:39"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Ni Integers and powers (calculation)"
    ]
@@ -2945,11 +3069,16 @@
     "math.number-sense.history-of-numbers.L5",
     "math.number-sense.big-numbers.L5",
     "math.number-sense.infinity.L5",
+    "math.number-sense.powers-and-roots.L5",
     "math.temperature.reading-thermometers.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:32",
+    "math:39"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 Ni Integers and powers (calculation)"
    ]
@@ -2985,8 +3114,11 @@
     "math.number-sense.big-numbers.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:87"
+   ],
    "source": "notes",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.patterns-symmetry.fractals-and-spirals.L3",
     "sci.nothing-and-forever.infinity.L3"
    ],
@@ -3020,13 +3152,96 @@
     "math.number-sense.history-of-numbers.L5",
     "math.number-sense.big-numbers.L5",
     "math.number-sense.negative-numbers.L5",
+    "math.number-sense.powers-and-roots.L5",
     "math.number-sense.big-numbers.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:87"
+   ],
    "source": "notes",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.nothing-and-forever.infinity.L5"
    ],
+   "chapter_refs": []
+  },
+  {
+   "id": "math.number-sense.powers-and-roots.L4",
+   "subject": "math",
+   "topic": "number-sense",
+   "topic_name": "Numbers and place value",
+   "strand": "Number",
+   "topic_level": "math.number-sense.L4",
+   "subtopic": "powers-and-roots",
+   "name": "Squares, cubes, powers and roots",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Square numbers as squares of dots, cube numbers as cubes of blocks; doubling again and again.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.multiplication.multiplication-facts.L4"
+   ],
+   "go_deep": [
+    "math.number-sense.powers-and-roots.L5"
+   ],
+   "go_wide": [
+    "math.number-sense.place-value.L4",
+    "math.number-sense.comparing-ordering.L4",
+    "math.number-sense.estimation.L4",
+    "math.number-sense.big-numbers.L4",
+    "math.number-sense.negative-numbers.L4",
+    "math.number-sense.big-numbers.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:41",
+    "math:42"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [],
+   "chapter_refs": []
+  },
+  {
+   "id": "math.number-sense.powers-and-roots.L5",
+   "subject": "math",
+   "topic": "number-sense",
+   "topic_name": "Numbers and place value",
+   "strand": "Number",
+   "topic_level": "math.number-sense.L5",
+   "subtopic": "powers-and-roots",
+   "name": "Squares, cubes, powers and roots",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Powers of ten and other powers; square roots as 'which number times itself?'; the chessboard and rice story.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.number-sense.powers-and-roots.L4",
+    "math.multiplication.multiplication-facts.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "math.number-sense.place-value.L5",
+    "math.number-sense.comparing-ordering.L5",
+    "math.number-sense.estimation.L5",
+    "math.number-sense.history-of-numbers.L5",
+    "math.number-sense.big-numbers.L5",
+    "math.number-sense.negative-numbers.L5",
+    "math.number-sense.infinity.L5",
+    "math.number-sense.big-numbers.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:41",
+    "math:42"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -3064,8 +3279,12 @@
     "math.addition-subtraction.word-problems.L1"
    ],
    "maths": [],
+   "notebook": [
+    "math:4",
+    "math:33"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 4 Making 10",
     "NCERT Class 1 Ch 6 Vegetable Farm",
@@ -3104,8 +3323,12 @@
     "math.addition-subtraction.written-methods.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:4",
+    "math:33"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 Ni Integers and powers (calculation)"
    ]
@@ -3141,8 +3364,9 @@
     "math.addition-subtraction.word-problems.L1"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 4 Making 10",
     "Cambridge Stage 1 Ni Integers and powers (calculation)"
@@ -3179,8 +3403,9 @@
     "math.addition-subtraction.written-methods.L2"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 Ni Integers and powers (calculation)"
    ]
@@ -3216,8 +3441,9 @@
     "math.addition-subtraction.written-methods.L2"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 Ni Integers and powers (calculation)"
    ]
@@ -3253,8 +3479,9 @@
     "math.addition-subtraction.written-methods.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 3 Ni Integers and powers (calculation)"
    ]
@@ -3289,8 +3516,9 @@
     "math.addition-subtraction.written-methods.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.forces.balanced-forces.L4"
    ],
    "chapter_refs": [
@@ -3326,8 +3554,9 @@
     "math.addition-subtraction.written-methods.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.forces.balanced-forces.L5"
    ],
    "chapter_refs": [
@@ -3368,8 +3597,9 @@
     "math.addition-subtraction.mental-strategies.L2"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 2 Ch 1 A Day at the Beach",
     "Cambridge Stage 2 Ni Integers and powers (calculation)"
@@ -3411,8 +3641,9 @@
     "math.addition-subtraction.word-problems.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 3 Ch 4 Vacation with My Nani Maa",
     "NCERT Class 3 Ch 9 House of Hundreds – II",
@@ -3453,8 +3684,9 @@
     "math.addition-subtraction.mental-strategies.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 4 Ch 7 The Cleanest Village",
     "Cambridge Stage 4 Ni Integers and powers (calculation)"
@@ -3490,8 +3722,9 @@
     "math.addition-subtraction.word-problems.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 5 Ch 4 We the Travellers – II",
     "Cambridge Stage 5 Ni Integers and powers (calculation)"
@@ -3528,8 +3761,9 @@
     "math.logic.problem-solving.L2"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 6 Vegetable Farm",
     "Cambridge Stage 1 TWM Thinking and working mathematically"
@@ -3567,8 +3801,9 @@
     "math.logic.problem-solving.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 3 Ch 12 Give and Take",
     "Cambridge Stage 3 TWM Thinking and working mathematically"
@@ -3603,8 +3838,9 @@
     "math.logic.problem-solving.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 TWM Thinking and working mathematically"
    ]
@@ -3639,8 +3875,11 @@
     "math.division.sharing-and-grouping.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:34"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 2 Ch 8 Grouping and Sharing",
     "Cambridge Stage 2 Ni Integers and powers (calculation)"
@@ -3678,8 +3917,11 @@
     "math.division.sharing-and-grouping.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:34"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 3 Ch 7 Raksha Bandhan",
     "Cambridge Stage 3 Ni Integers and powers (calculation)"
@@ -3717,9 +3959,11 @@
     "math.patterns.number-patterns.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
-    "sci.forces.simple-machines.L3"
+   "used_in_other_subjects": [
+    "sci.forces.simple-machines.L3",
+    "sci.sound.waves.L3"
    ],
    "chapter_refs": [
     "NCERT Class 3 Ch 7 Raksha Bandhan",
@@ -3761,8 +4005,9 @@
     "math.patterns.number-patterns.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.forces.simple-machines.L4"
    ],
    "chapter_refs": [
@@ -3802,9 +4047,13 @@
     "math.patterns.number-patterns.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
-    "sci.forces.simple-machines.L5"
+   "used_in_other_subjects": [
+    "sci.forces.simple-machines.L5",
+    "sci.electricity.current-and-resistance.L5",
+    "sci.sound.waves.L5",
+    "sci.chemistry.counting-atoms.L5"
    ],
    "chapter_refs": [
     "Cambridge Stage 5 Ni Integers and powers (calculation)"
@@ -3839,8 +4088,9 @@
     "math.multiplication.multiplication-facts.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.gravity.weight-and-mass.L3"
    ],
    "chapter_refs": [
@@ -3877,9 +4127,11 @@
     "math.multiplication.properties.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
-    "sci.gravity.weight-and-mass.L5"
+   "used_in_other_subjects": [
+    "sci.gravity.weight-and-mass.L5",
+    "sci.energy.work-and-power.L5"
    ],
    "chapter_refs": [
     "NCERT Class 5 Ch 6 The Dairy Farm",
@@ -3916,8 +4168,12 @@
     "math.algebra.balance-and-missing-numbers.L3"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:36",
+    "math:77"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 3 Ni Integers and powers (calculation)"
    ]
@@ -3951,8 +4207,12 @@
     "math.algebra.balance-and-missing-numbers.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:36",
+    "math:77"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 Ni Integers and powers (calculation)"
    ]
@@ -3987,8 +4247,11 @@
     "math.fractions.halves-and-quarters.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:35"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 2 Ch 8 Grouping and Sharing",
     "Cambridge Stage 2 Ni Integers and powers (calculation)"
@@ -4025,8 +4288,11 @@
     "math.fractions.halves-and-quarters.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:35"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 3 Ch 8 Fair Share",
     "Cambridge Stage 3 Ni Integers and powers (calculation)"
@@ -4061,8 +4327,9 @@
     "math.division.sharing-and-grouping.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.motion.speed.L2"
    ],
    "chapter_refs": [
@@ -4098,8 +4365,9 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.motion.speed.L4"
    ],
    "chapter_refs": [
@@ -4134,8 +4402,9 @@
    "go_deep": [],
    "go_wide": [],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.motion.speed.L5"
    ],
    "chapter_refs": [
@@ -4169,8 +4438,12 @@
    ],
    "go_wide": [],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:30",
+    "math:31"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Ni Integers and powers (calculation)"
    ]
@@ -4203,8 +4476,12 @@
    "go_deep": [],
    "go_wide": [],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:30",
+    "math:31"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 5 Ch 13 Animal Jumps",
     "Cambridge Stage 5 Ni Integers and powers (calculation)"
@@ -4237,8 +4514,9 @@
     "math.division.sharing-and-grouping.L2"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 1 Nf Fractions, decimals, percentages, ratio"
    ]
@@ -4272,8 +4550,9 @@
     "math.division.sharing-and-grouping.L2"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 Nf Fractions, decimals, percentages, ratio"
    ]
@@ -4308,8 +4587,9 @@
     "math.division.sharing-and-grouping.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 3 Ch 8 Fair Share",
     "Cambridge Stage 3 Nf Fractions, decimals, percentages, ratio"
@@ -4344,8 +4624,12 @@
     "math.fractions.halves-and-quarters.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:28",
+    "math:37"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.food.nutrients.L3",
     "sci.food.balanced-diet.L3",
     "sci.sound.music.L2",
@@ -4385,11 +4669,16 @@
     "math.fractions.decimals-and-percentages.L4"
    ],
    "go_wide": [
-    "math.fractions.decimals-and-percentages.L4"
+    "math.fractions.decimals-and-percentages.L4",
+    "math.fractions.ratio-and-proportion.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:28",
+    "math:37"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.food.nutrients.L4",
     "sci.food.balanced-diet.L4",
     "sci.sound.music.L4"
@@ -4426,11 +4715,16 @@
     "math.fractions.decimals-and-percentages.L5"
    ],
    "go_wide": [
-    "math.fractions.decimals-and-percentages.L5"
+    "math.fractions.decimals-and-percentages.L5",
+    "math.fractions.ratio-and-proportion.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:28",
+    "math:37"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.food.balanced-diet.L5",
     "sci.sound.volume-and-pitch.L5",
     "sci.sound.music.L5",
@@ -4468,11 +4762,16 @@
    ],
    "go_wide": [
     "math.fractions.fractions-of-a-whole.L4",
+    "math.fractions.ratio-and-proportion.L4",
     "math.money.money-in-life.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:38",
+    "math:40"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Nf Fractions, decimals, percentages, ratio"
    ]
@@ -4502,14 +4801,90 @@
    "go_deep": [],
    "go_wide": [
     "math.fractions.fractions-of-a-whole.L5",
+    "math.fractions.ratio-and-proportion.L5",
     "math.money.money-in-life.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:38",
+    "math:40"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 Nf Fractions, decimals, percentages, ratio"
    ]
+  },
+  {
+   "id": "math.fractions.ratio-and-proportion.L4",
+   "subject": "math",
+   "topic": "fractions",
+   "topic_name": "Fractions, decimals and percentages",
+   "strand": "Number",
+   "topic_level": "math.fractions.L4",
+   "subtopic": "ratio-and-proportion",
+   "name": "Ratio and proportion",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "For every 2 cups of rice, 1 cup of dal: recipes and mixing paint.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.fractions.fractions-of-a-whole.L4"
+   ],
+   "go_deep": [
+    "math.fractions.ratio-and-proportion.L5"
+   ],
+   "go_wide": [
+    "math.fractions.fractions-of-a-whole.L4",
+    "math.fractions.decimals-and-percentages.L4",
+    "math.measurement-basics.scale-models.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:21"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [],
+   "chapter_refs": []
+  },
+  {
+   "id": "math.fractions.ratio-and-proportion.L5",
+   "subject": "math",
+   "topic": "fractions",
+   "topic_name": "Fractions, decimals and percentages",
+   "strand": "Number",
+   "topic_level": "math.fractions.L5",
+   "subtopic": "ratio-and-proportion",
+   "name": "Ratio and proportion",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Ratio and proportion; scaling recipes up and down; maps and models to scale.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.fractions.ratio-and-proportion.L4",
+    "math.fractions.fractions-of-a-whole.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "math.fractions.fractions-of-a-whole.L5",
+    "math.fractions.decimals-and-percentages.L5",
+    "math.measurement-basics.scale-models.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:21"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [
+    "sci.chemistry.counting-atoms.L5"
+   ],
+   "chapter_refs": []
   },
   {
    "id": "math.money.money-in-life.L1",
@@ -4540,8 +4915,9 @@
     "math.fractions.decimals-and-percentages.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 12 How Much Can We Spend?",
     "Cambridge Stage 1 Nm Money"
@@ -4577,8 +4953,9 @@
     "math.fractions.decimals-and-percentages.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 2 Ch 10 Fun at the Fair",
     "Cambridge Stage 2 Nm Money"
@@ -4618,8 +4995,9 @@
     "math.fractions.decimals-and-percentages.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.community.community-and-helpers.L3"
    ],
    "chapter_refs": [
@@ -4657,8 +5035,9 @@
     "math.fractions.decimals-and-percentages.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.community.community-and-helpers.L4"
    ],
    "chapter_refs": [
@@ -4692,8 +5071,9 @@
     "math.fractions.decimals-and-percentages.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 Nm Money"
    ]
@@ -4729,8 +5109,11 @@
     "math.length.comparing-length.L1"
    ],
    "maths": [],
+   "notebook": [
+    "math:43"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 2 What is Long?",
     "NCERT Class 1 Ch 11 How Many Times?",
@@ -4766,8 +5149,11 @@
     "math.length.comparing-length.L1"
    ],
    "maths": [],
+   "notebook": [
+    "math:43"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 Gg Geometrical reasoning, shapes and measurements"
    ]
@@ -4801,8 +5187,23 @@
     "math.measurement-basics.comparing-and-non-standard.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:5",
+    "math:44",
+    "math:45",
+    "math:50",
+    "phy:84",
+    "phy:85",
+    "phy:86",
+    "phy:87",
+    "chem:1",
+    "chem:2",
+    "chem:138",
+    "chem:139",
+    "chem:140"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.plants.what-plants-need.L1",
     "sci.plants.what-plants-need.L2",
     "sci.materials.testing-materials.L2"
@@ -4842,8 +5243,23 @@
     "math.measurement-basics.estimation-and-precision.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:5",
+    "math:44",
+    "math:45",
+    "math:50",
+    "phy:84",
+    "phy:85",
+    "phy:86",
+    "phy:87",
+    "chem:1",
+    "chem:2",
+    "chem:138",
+    "chem:139",
+    "chem:140"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.plants.what-plants-need.L3",
     "sci.materials.testing-materials.L3"
    ],
@@ -4881,8 +5297,23 @@
     "math.measurement-basics.scale-models.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:5",
+    "math:44",
+    "math:45",
+    "math:50",
+    "phy:84",
+    "phy:85",
+    "phy:86",
+    "phy:87",
+    "chem:1",
+    "chem:2",
+    "chem:138",
+    "chem:139",
+    "chem:140"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.seeds-and-life-cycles.seed-dispersal.L4",
     "sci.seeds-and-life-cycles.seed-dispersal.L5",
     "sci.mind.brain-and-nerves.L4",
@@ -4922,10 +5353,12 @@
     "math.temperature.reading-thermometers.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.forces.measuring-forces.L3",
-    "sci.forces.friction.L3"
+    "sci.forces.friction.L3",
+    "sci.forces.stretching-springs.L3"
    ],
    "chapter_refs": [
     "Cambridge Stage 3 Gg Geometrical reasoning, shapes and measurements"
@@ -4960,9 +5393,11 @@
     "math.temperature.reading-thermometers.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
-    "sci.forces.friction.L5"
+   "used_in_other_subjects": [
+    "sci.forces.friction.L5",
+    "sci.forces.stretching-springs.L5"
    ],
    "chapter_refs": [
     "Cambridge Stage 4 Gg Geometrical reasoning, shapes and measurements"
@@ -4998,8 +5433,20 @@
     "math.number-sense.estimation.L4"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:51",
+    "chem:141",
+    "chem:142",
+    "chem:143",
+    "chem:144",
+    "chem:145",
+    "chem:146",
+    "chem:147",
+    "chem:148",
+    "chem:149"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.how-we-know.fair-tests.L3",
     "sci.how-we-know.fair-tests.L4"
    ],
@@ -5035,8 +5482,20 @@
     "math.number-sense.estimation.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:51",
+    "chem:141",
+    "chem:142",
+    "chem:143",
+    "chem:144",
+    "chem:145",
+    "chem:146",
+    "chem:147",
+    "chem:148",
+    "chem:149"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.how-we-know.fair-tests.L5"
    ],
    "chapter_refs": [
@@ -5072,8 +5531,9 @@
     "math.position.maps.L4"
    ],
    "maths": [],
-   "source": "dk",
-   "used_in_science": [
+   "notebook": [],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.evolution.story-of-life.L2",
     "sci.evolution.story-of-life.L3",
     "sci.evolution.story-of-life.L4",
@@ -5115,8 +5575,9 @@
     "math.position.maps.L5"
    ],
    "maths": [],
-   "source": "dk",
-   "used_in_science": [
+   "notebook": [],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.evolution.story-of-life.L5",
     "sci.sky.solar-system.L5"
    ],
@@ -5150,8 +5611,9 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 2 What is Long?",
     "Cambridge Stage 1 Gg Geometrical reasoning, shapes and measurements"
@@ -5185,8 +5647,11 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [
+    "math:47"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.body.growing.L2",
     "sci.motion.speed.L2",
     "sci.light.shadows.L2"
@@ -5224,8 +5689,11 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [
+    "math:47"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.making-things.design-and-build.L3",
     "sci.forces.simple-machines.L3"
    ],
@@ -5264,8 +5732,11 @@
     "math.length.kilometres-and-conversions.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:47"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.forces.simple-machines.L4",
     "sci.motion.speed.L4",
     "sci.light.shadows.L4"
@@ -5304,8 +5775,11 @@
     "math.length.kilometres-and-conversions.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:47"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.making-things.design-and-build.L5",
     "sci.forces.simple-machines.L5",
     "sci.motion.speed.L5",
@@ -5345,8 +5819,9 @@
     "math.position.maps.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Gg Geometrical reasoning, shapes and measurements"
    ]
@@ -5381,8 +5856,9 @@
     "math.position.maps.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.water.rivers.L5"
    ],
    "chapter_refs": [
@@ -5418,8 +5894,11 @@
     "math.weight-capacity.capacity.L1"
    ],
    "maths": [],
+   "notebook": [
+    "math:48"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.states.floating-and-sinking.L2"
    ],
    "chapter_refs": [
@@ -5456,10 +5935,14 @@
     "math.weight-capacity.capacity.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:48"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.waste.compost-and-disposal.L3",
-    "sci.gravity.weight-and-mass.L3"
+    "sci.gravity.weight-and-mass.L3",
+    "hist.early-india.indus.L3"
    ],
    "chapter_refs": [
     "NCERT Class 3 Ch 11 Filling and Lifting",
@@ -5496,9 +5979,13 @@
     "math.weight-capacity.capacity.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:48"
+   ],
    "source": "boards",
-   "used_in_science": [
-    "sci.states.floating-and-sinking.L4"
+   "used_in_other_subjects": [
+    "sci.states.floating-and-sinking.L4",
+    "hist.early-india.indus.L4"
    ],
    "chapter_refs": [
     "NCERT Class 4 Ch 8 Weigh it, Pour it",
@@ -5534,11 +6021,15 @@
     "math.weight-capacity.capacity.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:48"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.states.floating-and-sinking.L5",
     "sci.waste.compost-and-disposal.L5",
-    "sci.gravity.weight-and-mass.L5"
+    "sci.gravity.weight-and-mass.L5",
+    "hist.early-india.indus.L5"
    ],
    "chapter_refs": [
     "NCERT Class 5 Ch 8 Weight and Capacity",
@@ -5573,8 +6064,9 @@
     "math.weight-capacity.weight.L1"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.water.water-sources-and-uses.L1"
    ],
    "chapter_refs": [
@@ -5612,8 +6104,9 @@
     "math.weight-capacity.weight.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.states.dissolving.L3",
     "sci.water.water-sources-and-uses.L3",
     "sci.water.saving-water.L3"
@@ -5654,8 +6147,9 @@
     "math.weight-capacity.weight.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 4 Ch 8 Weigh it, Pour it",
     "Cambridge Stage 4 Gg Geometrical reasoning, shapes and measurements"
@@ -5691,8 +6185,9 @@
     "math.weight-capacity.weight.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.states.dissolving.L5",
     "sci.water.water-sources-and-uses.L5",
     "sci.water.saving-water.L5"
@@ -5728,8 +6223,9 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 10 How do I Spend my Day?",
     "Cambridge Stage 1 Gt Time"
@@ -5764,8 +6260,11 @@
     "math.time.calendar.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:46"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.light.shadows.L2",
     "sci.space-time.time.L2"
    ],
@@ -5805,8 +6304,11 @@
     "math.time.duration.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:46"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.day-night-seasons.day-and-night.L3"
    ],
    "chapter_refs": [
@@ -5846,8 +6348,11 @@
     "math.time.duration.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:46"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.light.shadows.L4",
     "sci.day-night-seasons.day-and-night.L4",
     "sci.space-time.time.L4"
@@ -5888,8 +6393,11 @@
     "math.time.duration.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:46"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.light.shadows.L5",
     "sci.day-night-seasons.day-and-night.L5",
     "sci.day-night-seasons.time-zones.L5"
@@ -5931,8 +6439,9 @@
     "math.time.duration.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.day-night-seasons.seasons.L2",
     "sci.space-time.time.L2"
    ],
@@ -5973,8 +6482,9 @@
     "math.time.duration.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.sky.moon-phases.L3",
     "sci.day-night-seasons.seasons.L3"
    ],
@@ -6015,8 +6525,9 @@
     "math.time.duration.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.space-time.time.L4"
    ],
    "chapter_refs": [
@@ -6051,8 +6562,9 @@
     "math.time.duration.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.sky.moon-phases.L5",
     "sci.day-night-seasons.seasons.L5"
    ],
@@ -6087,13 +6599,15 @@
     "math.time.calendar.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.seeds-and-life-cycles.seeds-and-germination.L1",
     "sci.seeds-and-life-cycles.seeds-and-germination.L3",
     "sci.health.exercise-and-rest.L2",
     "sci.health.exercise-and-rest.L3",
     "sci.states.evaporation-and-condensation.L3",
+    "sci.states.liquids-up-close.L3",
     "sci.motion.speed.L2",
     "sci.motion.swings-and-pendulums.L3",
     "sci.sound.sound-moves.L1"
@@ -6132,8 +6646,9 @@
     "math.time.calendar.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.health.exercise-and-rest.L4",
     "sci.forces.air-water-resistance.L4",
     "sci.motion.speed.L4",
@@ -6172,10 +6687,12 @@
     "math.time.calendar.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.seeds-and-life-cycles.seeds-and-germination.L5",
     "sci.states.evaporation-and-condensation.L5",
+    "sci.states.liquids-up-close.L5",
     "sci.forces.air-water-resistance.L5",
     "sci.motion.speed.L5",
     "sci.motion.swings-and-pendulums.L5",
@@ -6214,8 +6731,11 @@
     "math.number-sense.negative-numbers.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:49"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.states.melting-and-solidifying.L2",
     "sci.states.melting-and-solidifying.L4",
     "sci.energy.heat.L2",
@@ -6255,8 +6775,11 @@
     "math.number-sense.negative-numbers.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:49"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.states.properties-of-water.L5",
     "sci.energy.heat.L5"
    ],
@@ -6293,8 +6816,11 @@
     "math.area-perimeter.area.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:60"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Gg Geometrical reasoning, shapes and measurements"
    ]
@@ -6326,11 +6852,15 @@
    "go_wide": [
     "math.area-perimeter.area.L5",
     "math.area-perimeter.volume.L5",
+    "math.area-perimeter.surface-area.L5",
     "math.area-perimeter.area.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:60"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 5 Ch 11 Grandmother's Quilt",
     "Cambridge Stage 5 Gg Geometrical reasoning, shapes and measurements"
@@ -6361,8 +6891,9 @@
     "math.area-perimeter.perimeter.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -6395,8 +6926,9 @@
     "math.area-perimeter.perimeter.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Gg Geometrical reasoning, shapes and measurements"
    ]
@@ -6429,11 +6961,13 @@
    "go_wide": [
     "math.area-perimeter.perimeter.L5",
     "math.area-perimeter.volume.L5",
+    "math.area-perimeter.surface-area.L5",
     "math.area-perimeter.perimeter.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 5 Ch 11 Grandmother's Quilt",
     "Cambridge Stage 5 Gg Geometrical reasoning, shapes and measurements"
@@ -6462,11 +6996,49 @@
    "go_deep": [],
    "go_wide": [
     "math.area-perimeter.perimeter.L5",
-    "math.area-perimeter.area.L5"
+    "math.area-perimeter.area.L5",
+    "math.area-perimeter.surface-area.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:62"
+   ],
    "source": "notes",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
+   "chapter_refs": []
+  },
+  {
+   "id": "math.area-perimeter.surface-area.L5",
+   "subject": "math",
+   "topic": "area-perimeter",
+   "topic_name": "Perimeter, area and volume",
+   "strand": "Measurement",
+   "topic_level": "math.area-perimeter.L5",
+   "subtopic": "surface-area",
+   "name": "Surface area",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "How much paper wraps a box? Surface area by unfolding the net.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.area-perimeter.area.L5",
+    "math.shapes-3d.nets.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "math.area-perimeter.perimeter.L5",
+    "math.area-perimeter.area.L5",
+    "math.area-perimeter.volume.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:61"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -6497,8 +7069,12 @@
     "math.shapes-3d.solid-shapes.L1"
    ],
    "maths": [],
+   "notebook": [
+    "math:9",
+    "math:57"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 2 What is Long?",
     "Cambridge Stage 1 Gg Geometrical reasoning, shapes and measurements"
@@ -6535,8 +7111,12 @@
     "math.shapes-3d.solid-shapes.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:9",
+    "math:57"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.space-time.dimensions.L2"
    ],
    "chapter_refs": [
@@ -6574,8 +7154,12 @@
     "math.shapes-3d.solid-shapes.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:9",
+    "math:57"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.space-time.dimensions.L4"
    ],
    "chapter_refs": [
@@ -6612,8 +7196,12 @@
     "math.lines-angles.angles.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:58",
+    "math:59"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 4 Ch 1 Shapes Around Us",
     "Cambridge Stage 4 Gg Geometrical reasoning, shapes and measurements"
@@ -6647,8 +7235,12 @@
     "math.lines-angles.angles.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:58",
+    "math:59"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 5 Ch 7 Shapes and Patterns",
     "Cambridge Stage 5 Gg Geometrical reasoning, shapes and measurements"
@@ -6680,8 +7272,11 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [
+    "math:63"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 2 What is Long?",
     "Cambridge Stage 1 Gg Geometrical reasoning, shapes and measurements"
@@ -6715,8 +7310,11 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [
+    "math:63"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 2 Ch 2 Shapes Around Us",
     "Cambridge Stage 2 Gg Geometrical reasoning, shapes and measurements"
@@ -6751,8 +7349,11 @@
     "math.shapes-3d.faces-edges-vertices.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:63"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 3 Ch 2 Toy Joy",
     "Cambridge Stage 3 Gg Geometrical reasoning, shapes and measurements"
@@ -6787,8 +7388,9 @@
     "math.shapes-3d.solid-shapes.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.space-time.dimensions.L2"
    ],
    "chapter_refs": [
@@ -6826,8 +7428,9 @@
     "math.shapes-3d.nets.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.space-time.dimensions.L4"
    ],
    "chapter_refs": [
@@ -6864,8 +7467,9 @@
     "math.shapes-3d.faces-edges-vertices.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.making-things.design-and-build.L3"
    ],
    "chapter_refs": [
@@ -6897,8 +7501,9 @@
    "go_deep": [],
    "go_wide": [],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.making-things.design-and-build.L5"
    ],
    "chapter_refs": [
@@ -6931,8 +7536,13 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [
+    "math:52",
+    "math:54",
+    "math:56"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 2 Ch 5 Playing with Lines",
     "Cambridge Stage 2 Gg Geometrical reasoning, shapes and measurements"
@@ -6966,8 +7576,13 @@
     "math.lines-angles.angles.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:52",
+    "math:54",
+    "math:56"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Gg Geometrical reasoning, shapes and measurements"
    ]
@@ -7000,8 +7615,13 @@
     "math.position.directions-and-grids.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:55"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [
+    "sci.motion.physics-of-sport.L3"
+   ],
    "chapter_refs": [
     "Cambridge Stage 3 Gp Position and transformation"
    ]
@@ -7036,8 +7656,13 @@
     "math.position.directions-and-grids.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:55"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [
+    "sci.forces.direction-and-size.L4"
+   ],
    "chapter_refs": [
     "Cambridge Stage 4 Gg Geometrical reasoning, shapes and measurements"
    ]
@@ -7067,15 +7692,54 @@
    ],
    "go_deep": [],
    "go_wide": [
+    "math.lines-angles.triangles-and-heights.L5",
     "math.position.directions-and-grids.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:55"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [
+    "sci.forces.direction-and-size.L5",
+    "sci.motion.physics-of-sport.L5"
+   ],
    "chapter_refs": [
     "NCERT Class 5 Ch 3 Angles as Turns",
     "Cambridge Stage 5 Gg Geometrical reasoning, shapes and measurements"
    ]
+  },
+  {
+   "id": "math.lines-angles.triangles-and-heights.L5",
+   "subject": "math",
+   "topic": "lines-angles",
+   "topic_name": "Lines and angles",
+   "strand": "Geometry",
+   "topic_level": "math.lines-angles.L5",
+   "subtopic": "triangles-and-heights",
+   "name": "Measuring the unreachable with triangles",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Measuring a tree's height with its shadow (similar triangles); how surveyors measured Everest; the idea behind trigonometry.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.lines-angles.angles.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "math.lines-angles.angles.L5",
+    "sci.light.shadows.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:91"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [],
+   "chapter_refs": []
   },
   {
    "id": "math.position.position-words.L1",
@@ -7102,8 +7766,9 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 1 Finding the Furry Cat!",
     "Cambridge Stage 1 Gp Position and transformation"
@@ -7137,8 +7802,9 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.space-time.space.L2"
    ],
    "chapter_refs": [
@@ -7174,8 +7840,9 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.planet-earth.maps-and-directions.L3"
    ],
    "chapter_refs": [
@@ -7213,8 +7880,9 @@
     "math.position.maps.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.magnets.compass-and-earth.L4",
     "sci.magnets.compass-and-earth.L5",
     "sci.planet-earth.maps-and-directions.L4",
@@ -7253,8 +7921,9 @@
     "math.measurement-basics.scale-models.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.planet-earth.landforms.L4",
     "sci.planet-earth.maps-and-directions.L3",
     "sci.planet-earth.maps-and-directions.L4"
@@ -7293,8 +7962,9 @@
     "math.measurement-basics.scale-models.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.planet-earth.landforms.L5",
     "sci.planet-earth.maps-and-directions.L5",
     "sci.water.rivers.L5",
@@ -7332,8 +8002,13 @@
     "math.position.maps.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:53"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
+    "sci.motion.describing-motion.L4",
+    "sci.motion.describing-motion.L5",
     "sci.day-night-seasons.time-zones.L5"
    ],
    "chapter_refs": [
@@ -7367,8 +8042,9 @@
     "math.patterns.shape-patterns.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.light.reflection.L3",
     "sci.patterns-symmetry.symmetry-in-nature.L1",
     "sci.patterns-symmetry.symmetry-in-nature.L3"
@@ -7409,8 +8085,9 @@
     "math.patterns.shape-patterns.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.light.reflection.L4"
    ],
    "chapter_refs": [
@@ -7449,8 +8126,9 @@
     "math.patterns.shape-patterns.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 5 Ch 10 Symmetrical Designs",
     "Cambridge Stage 5 Gp Position and transformation"
@@ -7484,8 +8162,9 @@
     "math.symmetry.transformations.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.patterns-symmetry.symmetry-in-nature.L1",
     "sci.patterns-symmetry.symmetry-in-nature.L3"
    ],
@@ -7521,8 +8200,9 @@
     "math.symmetry.transformations.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 5 Ch 10 Symmetrical Designs",
     "Cambridge Stage 5 Gp Position and transformation"
@@ -7558,8 +8238,9 @@
     "math.patterns.shape-patterns.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Gp Position and transformation"
    ]
@@ -7593,8 +8274,9 @@
     "math.patterns.shape-patterns.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 Gp Position and transformation"
    ]
@@ -7628,8 +8310,9 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 1 Ch 9 Utsav",
     "Cambridge Stage 1 Nc Counting and sequences"
@@ -7665,8 +8348,9 @@
     "math.patterns.number-patterns.L2"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.sound.music.L2",
     "sci.sound.music.L4",
     "sci.sound.music.L5",
@@ -7709,8 +8393,12 @@
     "math.patterns.repeating-patterns.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:16",
+    "math:85"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.electricity.circuits.L2"
    ],
    "chapter_refs": [
@@ -7750,8 +8438,12 @@
     "math.patterns.shape-patterns.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:16",
+    "math:85"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.motion.swings-and-pendulums.L3"
    ],
    "chapter_refs": [
@@ -7790,8 +8482,14 @@
     "math.patterns.shape-patterns.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:16",
+    "math:85"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
+    "sci.ecology.populations.L4",
+    "sci.health.how-diseases-spread.L4",
     "sci.electricity.circuits.L4"
    ],
    "chapter_refs": [
@@ -7828,8 +8526,14 @@
     "math.patterns.shape-patterns.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:16",
+    "math:85"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
+    "sci.ecology.populations.L5",
+    "sci.health.how-diseases-spread.L5",
     "sci.motion.swings-and-pendulums.L5",
     "sci.electricity.circuits.L5"
    ],
@@ -7864,8 +8568,12 @@
     "math.symmetry.line-symmetry.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:24",
+    "math:87"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.patterns-symmetry.fractals-and-spirals.L3"
    ],
    "chapter_refs": []
@@ -7900,8 +8608,12 @@
     "math.symmetry.line-symmetry.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:24",
+    "math:87"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 4 Ch 3 Pattern Around Us"
    ]
@@ -7934,8 +8646,12 @@
     "math.symmetry.line-symmetry.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:24",
+    "math:87"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "NCERT Class 5 Ch 7 Shapes and Patterns"
    ]
@@ -7967,8 +8683,14 @@
    ],
    "go_wide": [],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:6",
+    "math:75",
+    "math:76",
+    "math:79"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 Ni Integers and powers (calculation)"
    ]
@@ -8003,8 +8725,14 @@
     "math.algebra.input-output.L3"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:6",
+    "math:75",
+    "math:76",
+    "math:79"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.forces.balanced-forces.L4",
     "sci.forces.simple-machines.L3",
     "sci.forces.simple-machines.L4"
@@ -8042,8 +8770,14 @@
     "math.algebra.input-output.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:6",
+    "math:75",
+    "math:76",
+    "math:79"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.forces.balanced-forces.L5",
     "sci.forces.simple-machines.L5"
    ],
@@ -8077,8 +8811,12 @@
     "math.algebra.balance-and-missing-numbers.L3"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:15",
+    "math:78"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -8108,8 +8846,12 @@
     "math.algebra.balance-and-missing-numbers.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:15",
+    "math:78"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 Nc Counting and sequences"
    ]
@@ -8142,8 +8884,11 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [
+    "math:69"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.materials.sorting-materials.L1"
    ],
    "chapter_refs": [
@@ -8181,8 +8926,11 @@
     "math.data.pictographs.L2"
    ],
    "maths": [],
+   "notebook": [
+    "math:69"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.states.floating-and-sinking.L2",
     "sci.waste.sorting-waste.L2",
     "sci.order-chaos.chance.L2"
@@ -8222,8 +8970,11 @@
     "math.data.bar-charts.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:69"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.materials.sorting-materials.L3",
     "sci.states.floating-and-sinking.L4",
     "sci.states.floating-and-sinking.L5",
@@ -8266,8 +9017,9 @@
     "math.data.sorting-and-tallies.L2"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.weather.weather.L1",
     "sci.family.family.L1"
    ],
@@ -8310,8 +9062,9 @@
     "math.data.bar-charts.L3"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.food.balanced-diet.L3",
     "sci.weather.weather.L3",
     "sci.family.family.L3"
@@ -8357,8 +9110,9 @@
     "math.data.reading-data.L4"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.food.balanced-diet.L4",
     "sci.weather.weather.L4"
    ],
@@ -8399,8 +9153,9 @@
     "math.data.reading-data.L5"
    ],
    "maths": [],
+   "notebook": [],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.food.balanced-diet.L5"
    ],
    "chapter_refs": [
@@ -8438,19 +9193,24 @@
     "math.data.pictographs.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:70"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.plants.what-plants-need.L1",
     "sci.plants.what-plants-need.L2",
     "sci.plants.what-plants-need.L3",
     "sci.seeds-and-life-cycles.seeds-and-germination.L1",
     "sci.seeds-and-life-cycles.seeds-and-germination.L3",
     "sci.body.skeleton.L2",
+    "sci.body.heart-blood-breath.L3",
     "sci.materials.testing-materials.L2",
     "sci.materials.testing-materials.L3",
     "sci.waste.compost-and-disposal.L3",
     "sci.forces.measuring-forces.L3",
     "sci.forces.friction.L3",
+    "sci.motion.physics-of-sport.L3",
     "sci.magnets.poles.L3",
     "sci.planet-earth.soil-and-crops.L3",
     "sci.weather.weather.L1",
@@ -8498,9 +9258,13 @@
     "math.data.reading-data.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:70"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.body.skeleton.L4",
+    "sci.body.heart-blood-breath.L4",
     "sci.mind.brain-and-nerves.L4",
     "sci.energy.sources-and-saving.L4",
     "sci.weather.weather.L4",
@@ -8544,13 +9308,18 @@
     "math.data.reading-data.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:70"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.seeds-and-life-cycles.seeds-and-germination.L5",
     "sci.body.skeleton.L5",
+    "sci.body.heart-blood-breath.L5",
     "sci.mind.brain-and-nerves.L5",
     "sci.waste.compost-and-disposal.L5",
     "sci.forces.friction.L5",
+    "sci.motion.physics-of-sport.L5",
     "sci.energy.sources-and-saving.L5",
     "sci.magnets.poles.L5",
     "sci.sound.volume-and-pitch.L5",
@@ -8594,13 +9363,18 @@
     "math.time.duration.L4"
    ],
    "maths": [],
-   "source": "dk",
-   "used_in_science": [
+   "notebook": [],
+   "source": "boards",
+   "used_in_other_subjects": [
+    "sci.ecology.populations.L4",
     "sci.body.organs-inside.L3",
     "sci.body.organs-inside.L4",
+    "sci.health.how-diseases-spread.L4",
     "sci.states.evaporation-and-condensation.L3",
     "sci.forces.air-water-resistance.L4",
+    "sci.forces.stretching-springs.L3",
     "sci.motion.swings-and-pendulums.L3",
+    "sci.motion.describing-motion.L4",
     "sci.energy.heat.L2",
     "sci.energy.heat.L3",
     "sci.light.shadows.L2",
@@ -8642,16 +9416,23 @@
     "math.time.duration.L5"
    ],
    "maths": [],
-   "source": "dk",
-   "used_in_science": [
+   "notebook": [],
+   "source": "boards",
+   "used_in_other_subjects": [
+    "sci.ecology.populations.L5",
     "sci.body.organs-inside.L5",
+    "sci.health.how-diseases-spread.L5",
     "sci.states.evaporation-and-condensation.L5",
+    "sci.states.phase-maps.L5",
     "sci.forces.air-water-resistance.L5",
+    "sci.forces.stretching-springs.L5",
     "sci.motion.swings-and-pendulums.L5",
+    "sci.motion.describing-motion.L5",
     "sci.energy.heat.L5",
     "sci.light.shadows.L5",
     "sci.day-night-seasons.rhythms-of-nature.L5",
     "sci.weather.climate-change.L5",
+    "sci.weather.climate-science.L5",
     "sci.how-we-know.fair-tests.L5"
    ],
    "chapter_refs": [
@@ -8688,8 +9469,15 @@
     "math.data.line-graphs.L4"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:8",
+    "math:71",
+    "math:72",
+    "math:73",
+    "math:74"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 Ss Statistics"
    ]
@@ -8707,7 +9495,7 @@
    "classes": [
     5
    ],
-   "covers": "Mode and range in simple words; the same data told two ways; spotting a misleading graph.",
+   "covers": "Averages: mean, median and mode in simple words; range; the same data told two ways; spotting a misleading graph.",
    "chapters": [
     "C5-Ss"
    ],
@@ -8723,8 +9511,15 @@
     "math.data.line-graphs.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:8",
+    "math:71",
+    "math:72",
+    "math:73",
+    "math:74"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 Ss Statistics"
    ]
@@ -8754,8 +9549,13 @@
    ],
    "go_wide": [],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:7",
+    "math:80",
+    "math:81"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 1 Sp Probability"
    ]
@@ -8787,8 +9587,13 @@
    ],
    "go_wide": [],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:7",
+    "math:80",
+    "math:81"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.order-chaos.chance.L2"
    ],
    "chapter_refs": [
@@ -8822,8 +9627,13 @@
    ],
    "go_wide": [],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:7",
+    "math:80",
+    "math:81"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 3 Sp Probability"
    ]
@@ -8856,8 +9666,13 @@
     "math.probability.experiments.L4"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:7",
+    "math:80",
+    "math:81"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.order-chaos.chance.L4"
    ],
    "chapter_refs": [
@@ -8894,8 +9709,14 @@
     "math.fractions.fractions-of-a-whole.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:82",
+    "math:83",
+    "math:84",
+    "phy:94"
+   ],
    "source": "boards",
-   "used_in_science": [
+   "used_in_other_subjects": [
     "sci.order-chaos.chance.L2",
     "sci.order-chaos.chance.L4"
    ],
@@ -8931,8 +9752,14 @@
     "math.fractions.fractions-of-a-whole.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:82",
+    "math:83",
+    "math:84",
+    "phy:94"
+   ],
    "source": "boards",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 Sp Probability"
    ]
@@ -8963,8 +9790,11 @@
     "math.logic.problem-solving.L2"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:64"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 1 TWM Thinking and working mathematically"
    ]
@@ -8995,11 +9825,15 @@
    ],
    "go_wide": [
     "math.logic.true-false.L3",
+    "math.logic.counting-ways.L3",
     "math.logic.problem-solving.L4"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:64"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 3 TWM Thinking and working mathematically"
    ]
@@ -9029,11 +9863,15 @@
    "go_wide": [
     "math.logic.problem-solving.L5",
     "math.logic.if-then.L5",
+    "math.logic.counting-ways.L5",
     "math.logic.problem-solving.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:64"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 TWM Thinking and working mathematically"
    ]
@@ -9064,8 +9902,13 @@
     "math.logic.sets-and-venn.L2"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:10",
+    "math:19",
+    "math:68"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 2 TWM Thinking and working mathematically"
    ]
@@ -9100,8 +9943,13 @@
     "math.logic.if-then.L4"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:10",
+    "math:19",
+    "math:68"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 4 TWM Thinking and working mathematically"
    ]
@@ -9130,11 +9978,17 @@
    "go_deep": [],
    "go_wide": [
     "math.logic.puzzles.L5",
-    "math.logic.if-then.L5"
+    "math.logic.if-then.L5",
+    "math.logic.counting-ways.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:10",
+    "math:19",
+    "math:68"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 TWM Thinking and working mathematically"
    ]
@@ -9167,8 +10021,12 @@
     "math.logic.problem-solving.L2"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:14",
+    "math:67"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.classification.sorting-living-things.L1",
     "sci.classification.sorting-living-things.L2",
     "sci.classification.sorting-living-things.L3",
@@ -9211,8 +10069,12 @@
     "math.logic.if-then.L4"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:14",
+    "math:67"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.classification.sorting-living-things.L4"
    ],
    "chapter_refs": [
@@ -9242,11 +10104,15 @@
     "math.logic.true-false.L4"
    ],
    "go_wide": [
-    "math.logic.puzzles.L3"
+    "math.logic.puzzles.L3",
+    "math.logic.counting-ways.L3"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:65"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 3 TWM Thinking and working mathematically"
    ]
@@ -9279,8 +10145,11 @@
     "math.logic.if-then.L4"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:65"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.electricity.switches.L4"
    ],
    "chapter_refs": [
@@ -9315,8 +10184,11 @@
     "math.logic.true-false.L4"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:66"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.classification.keys-and-kingdoms.L4",
     "sci.order-chaos.cause-and-effect.L2",
     "sci.order-chaos.cause-and-effect.L4"
@@ -9348,16 +10220,92 @@
    "go_deep": [],
    "go_wide": [
     "math.logic.puzzles.L5",
-    "math.logic.problem-solving.L5"
+    "math.logic.problem-solving.L5",
+    "math.logic.counting-ways.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [
+   "notebook": [
+    "math:66"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [
     "sci.classification.keys-and-kingdoms.L5"
    ],
    "chapter_refs": [
     "Cambridge Stage 5 TWM Thinking and working mathematically"
    ]
+  },
+  {
+   "id": "math.logic.counting-ways.L3",
+   "subject": "math",
+   "topic": "logic",
+   "topic_name": "Logic and problem solving",
+   "strand": "Thinking mathematically",
+   "topic_level": "math.logic.L3",
+   "subtopic": "counting-ways",
+   "name": "Counting the ways",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "How many outfits from 3 shirts and 2 shorts? Counting arrangements.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.multiplication.equal-groups.L3"
+   ],
+   "go_deep": [
+    "math.logic.counting-ways.L5"
+   ],
+   "go_wide": [
+    "math.logic.puzzles.L3",
+    "math.logic.true-false.L3",
+    "math.probability.experiments.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:12"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [],
+   "chapter_refs": []
+  },
+  {
+   "id": "math.logic.counting-ways.L5",
+   "subject": "math",
+   "topic": "logic",
+   "topic_name": "Logic and problem solving",
+   "strand": "Thinking mathematically",
+   "topic_level": "math.logic.L5",
+   "subtopic": "counting-ways",
+   "name": "Counting the ways",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Combinations and arrangements; networks and the bridges of Königsberg; discrete maths, the maths of countable things.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.logic.counting-ways.L3",
+    "math.multiplication.equal-groups.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "math.logic.puzzles.L5",
+    "math.logic.problem-solving.L5",
+    "math.logic.if-then.L5",
+    "math.probability.experiments.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:12"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [
+    "sci.order-chaos.counting-ways.L5"
+   ],
+   "chapter_refs": []
   },
   {
    "id": "math.maths-and-world.what-is-maths.L1",
@@ -9383,8 +10331,12 @@
    ],
    "go_wide": [],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:1",
+    "math:17"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 1 TWM Thinking and working mathematically"
    ]
@@ -9417,8 +10369,12 @@
     "math.maths-and-world.maths-and-art.L3"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:1",
+    "math:17"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 3 TWM Thinking and working mathematically"
    ]
@@ -9450,8 +10406,12 @@
     "math.maths-and-world.maths-and-art.L5"
    ],
    "maths": [],
-   "source": "notes",
-   "used_in_science": [],
+   "notebook": [
+    "math:1",
+    "math:17"
+   ],
+   "source": "boards",
+   "used_in_other_subjects": [],
    "chapter_refs": [
     "Cambridge Stage 5 TWM Thinking and working mathematically"
    ]
@@ -9478,8 +10438,11 @@
    ],
    "go_wide": [],
    "maths": [],
+   "notebook": [
+    "math:18"
+   ],
    "source": "notes",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -9506,8 +10469,11 @@
     "math.maths-and-world.maths-and-science.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:18"
+   ],
    "source": "notes",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -9537,8 +10503,15 @@
     "math.maths-and-world.stories-of-mathematicians.L4"
    ],
    "maths": [],
+   "notebook": [
+    "math:2",
+    "math:20",
+    "math:22",
+    "math:23",
+    "phy:90"
+   ],
    "source": "notes",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -9568,8 +10541,15 @@
     "math.maths-and-world.maths-and-art.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:2",
+    "math:20",
+    "math:22",
+    "math:23",
+    "phy:90"
+   ],
    "source": "notes",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -9599,8 +10579,13 @@
     "math.maths-and-world.what-is-maths.L3"
    ],
    "maths": [],
+   "notebook": [
+    "math:11",
+    "math:86",
+    "math:88"
+   ],
    "source": "notes",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
    "chapter_refs": []
   },
   {
@@ -9630,8 +10615,114 @@
     "math.maths-and-world.maths-and-science.L5"
    ],
    "maths": [],
+   "notebook": [
+    "math:11",
+    "math:86",
+    "math:88"
+   ],
    "source": "notes",
-   "used_in_science": [],
+   "used_in_other_subjects": [],
+   "chapter_refs": []
+  },
+  {
+   "id": "math.big-ideas.change-and-motion.L4",
+   "subject": "math",
+   "topic": "big-ideas",
+   "topic_name": "Big ideas of maths",
+   "strand": "Thinking mathematically",
+   "topic_level": "math.big-ideas.L4",
+   "subtopic": "change-and-motion",
+   "name": "The maths of change (the idea behind calculus)",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "How fast is it going right now? Speed at an instant vs average speed.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.data.line-graphs.L4"
+   ],
+   "go_deep": [
+    "math.big-ideas.change-and-motion.L5"
+   ],
+   "go_wide": [
+    "sci.motion.describing-motion.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:13",
+    "phy:92",
+    "phy:93"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [],
+   "chapter_refs": []
+  },
+  {
+   "id": "math.big-ideas.change-and-motion.L5",
+   "subject": "math",
+   "topic": "big-ideas",
+   "topic_name": "Big ideas of maths",
+   "strand": "Thinking mathematically",
+   "topic_level": "math.big-ideas.L5",
+   "subtopic": "change-and-motion",
+   "name": "The maths of change (the idea behind calculus)",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Adding up tiny slices to find an area; change and continuity; how equations describe changing things (rockets, populations).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.big-ideas.change-and-motion.L4",
+    "math.data.line-graphs.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "math.big-ideas.functions-and-models.L5",
+    "sci.motion.describing-motion.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:13",
+    "phy:92",
+    "phy:93"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [],
+   "chapter_refs": []
+  },
+  {
+   "id": "math.big-ideas.functions-and-models.L5",
+   "subject": "math",
+   "topic": "big-ideas",
+   "topic_name": "Big ideas of maths",
+   "strand": "Thinking mathematically",
+   "topic_level": "math.big-ideas.L5",
+   "subtopic": "functions-and-models",
+   "name": "Rules that describe the world",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "A rule that turns one number into another (function); using a rule to predict (models of population, savings, temperature).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "math.algebra.input-output.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "math.big-ideas.change-and-motion.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "math:15"
+   ],
+   "source": "notes",
+   "used_in_other_subjects": [],
    "chapter_refs": []
   }
  ],
@@ -11135,5 +12226,6 @@
     "math.division.division-facts.L5"
    ]
   }
- }
+ },
+ "date_fixes": []
 }

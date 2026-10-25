@@ -1,0 +1,4279 @@
+{
+ "subject": "phil",
+ "name": "Philosophy",
+ "topic_levels": [
+  {
+   "id": "phil.existence-and-reality.L1",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "name": "Existence and reality",
+   "strand": "Big questions",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "phil.existence-and-reality.existence.L1",
+    "phil.existence-and-reality.dreams-and-imagination.L1"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.knowing.L1",
+   "subject": "phil",
+   "topic": "knowing",
+   "name": "Knowing and truth",
+   "strand": "Big questions",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "phil.knowing.perspectives.L1",
+    "phil.knowing.language-and-thought.L1"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.living-well.L1",
+   "subject": "phil",
+   "topic": "living-well",
+   "name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "phil.living-well.good-and-bad.L1",
+    "phil.living-well.honesty.L1",
+    "phil.living-well.nature-and-animals.L1"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.meaning.L1",
+   "subject": "phil",
+   "topic": "meaning",
+   "name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "phil.meaning.happiness.L1",
+    "phil.meaning.love.L1",
+    "phil.meaning.oneness.L1"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.mind-and-self.L1",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "name": "Mind and self",
+   "strand": "Big questions",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "phil.mind-and-self.thought.L1",
+    "phil.mind-and-self.identity.L1",
+    "phil.mind-and-self.emotion.L1"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.time-and-change.L1",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "name": "Time and change",
+   "strand": "Big questions",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "phil.time-and-change.time.L1"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.existence-and-reality.L2",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "name": "Existence and reality",
+   "strand": "Big questions",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "phil.existence-and-reality.reality.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.knowing.L2",
+   "subject": "phil",
+   "topic": "knowing",
+   "name": "Knowing and truth",
+   "strand": "Big questions",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "phil.knowing.known-and-unknown.L2",
+    "phil.knowing.truth.L2",
+    "phil.knowing.reasoning.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.living-well.L2",
+   "subject": "phil",
+   "topic": "living-well",
+   "name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "phil.living-well.values.L2",
+    "phil.living-well.accountability.L2",
+    "phil.living-well.freedom.L2",
+    "phil.living-well.fair-shares.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.meaning.L2",
+   "subject": "phil",
+   "topic": "meaning",
+   "name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "phil.meaning.death.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.mind-and-self.L2",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "name": "Mind and self",
+   "strand": "Big questions",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "phil.mind-and-self.consciousness.L2",
+    "phil.mind-and-self.memory.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.technology-and-ai.L2",
+   "subject": "phil",
+   "topic": "technology-and-ai",
+   "name": "Technology and AI",
+   "strand": "Big questions",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "phil.technology-and-ai.technology.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.time-and-change.L2",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "name": "Time and change",
+   "strand": "Big questions",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "subtopic_levels": [
+    "phil.time-and-change.change.L2",
+    "phil.time-and-change.past-and-future.L2",
+    "phil.time-and-change.cause-and-effect.L2",
+    "phil.time-and-change.space-and-infinity.L2"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.existence-and-reality.L3",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "name": "Existence and reality",
+   "strand": "Big questions",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "phil.existence-and-reality.existence.L3",
+    "phil.existence-and-reality.dreams-and-imagination.L3",
+    "phil.existence-and-reality.possible-and-necessary.L3",
+    "phil.existence-and-reality.universals.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.knowing.L3",
+   "subject": "phil",
+   "topic": "knowing",
+   "name": "Knowing and truth",
+   "strand": "Big questions",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "phil.knowing.perspectives.L3",
+    "phil.knowing.knowledge.L3",
+    "phil.knowing.language-and-thought.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.living-well.L3",
+   "subject": "phil",
+   "topic": "living-well",
+   "name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "phil.living-well.good-and-bad.L3",
+    "phil.living-well.duty-and-virtue.L3",
+    "phil.living-well.karma.L3",
+    "phil.living-well.power.L3",
+    "phil.living-well.nature-and-animals.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.meaning.L3",
+   "subject": "phil",
+   "topic": "meaning",
+   "name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "phil.meaning.happiness.L3",
+    "phil.meaning.meaning-of-life.L3",
+    "phil.meaning.oneness.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.mind-and-self.L3",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "name": "Mind and self",
+   "strand": "Big questions",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "phil.mind-and-self.thought.L3",
+    "phil.mind-and-self.mind-and-body.L3",
+    "phil.mind-and-self.identity.L3",
+    "phil.mind-and-self.ego.L3",
+    "phil.mind-and-self.emotion.L3",
+    "phil.mind-and-self.intelligence.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.technology-and-ai.L3",
+   "subject": "phil",
+   "topic": "technology-and-ai",
+   "name": "Technology and AI",
+   "strand": "Big questions",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "phil.technology-and-ai.artificial-intelligence.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.time-and-change.L3",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "name": "Time and change",
+   "strand": "Big questions",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "subtopic_levels": [
+    "phil.time-and-change.time.L3",
+    "phil.time-and-change.unpredictability.L3"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.existence-and-reality.L4",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "name": "Existence and reality",
+   "strand": "Big questions",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "phil.existence-and-reality.reality.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.knowing.L4",
+   "subject": "phil",
+   "topic": "knowing",
+   "name": "Knowing and truth",
+   "strand": "Big questions",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "phil.knowing.known-and-unknown.L4",
+    "phil.knowing.truth.L4",
+    "phil.knowing.objectivity.L4",
+    "phil.knowing.reasoning.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.living-well.L4",
+   "subject": "phil",
+   "topic": "living-well",
+   "name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "phil.living-well.honesty.L4",
+    "phil.living-well.accountability.L4",
+    "phil.living-well.freedom.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.meaning.L4",
+   "subject": "phil",
+   "topic": "meaning",
+   "name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "phil.meaning.love.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.mind-and-self.L4",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "name": "Mind and self",
+   "strand": "Big questions",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "phil.mind-and-self.consciousness.L4",
+    "phil.mind-and-self.delusion.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.time-and-change.L4",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "name": "Time and change",
+   "strand": "Big questions",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "phil.time-and-change.past-and-future.L4"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.existence-and-reality.L5",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "name": "Existence and reality",
+   "strand": "Big questions",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "phil.existence-and-reality.existence.L5",
+    "phil.existence-and-reality.dreams-and-imagination.L5",
+    "phil.existence-and-reality.reality.L5",
+    "phil.existence-and-reality.possible-and-necessary.L5",
+    "phil.existence-and-reality.universals.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.knowing.L5",
+   "subject": "phil",
+   "topic": "knowing",
+   "name": "Knowing and truth",
+   "strand": "Big questions",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "phil.knowing.perspectives.L5",
+    "phil.knowing.known-and-unknown.L5",
+    "phil.knowing.knowledge.L5",
+    "phil.knowing.truth.L5",
+    "phil.knowing.objectivity.L5",
+    "phil.knowing.reasoning.L5",
+    "phil.knowing.language-and-thought.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.living-well.L5",
+   "subject": "phil",
+   "topic": "living-well",
+   "name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "phil.living-well.good-and-bad.L5",
+    "phil.living-well.values.L5",
+    "phil.living-well.duty-and-virtue.L5",
+    "phil.living-well.karma.L5",
+    "phil.living-well.power.L5",
+    "phil.living-well.freedom.L5",
+    "phil.living-well.fair-shares.L5",
+    "phil.living-well.nature-and-animals.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.meaning.L5",
+   "subject": "phil",
+   "topic": "meaning",
+   "name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "phil.meaning.happiness.L5",
+    "phil.meaning.love.L5",
+    "phil.meaning.meaning-of-life.L5",
+    "phil.meaning.death.L5",
+    "phil.meaning.oneness.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.mind-and-self.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "name": "Mind and self",
+   "strand": "Big questions",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "phil.mind-and-self.thought.L5",
+    "phil.mind-and-self.consciousness.L5",
+    "phil.mind-and-self.memory.L5",
+    "phil.mind-and-self.mind-and-body.L5",
+    "phil.mind-and-self.identity.L5",
+    "phil.mind-and-self.ego.L5",
+    "phil.mind-and-self.emotion.L5",
+    "phil.mind-and-self.intelligence.L5",
+    "phil.mind-and-self.delusion.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.technology-and-ai.L5",
+   "subject": "phil",
+   "topic": "technology-and-ai",
+   "name": "Technology and AI",
+   "strand": "Big questions",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "phil.technology-and-ai.technology.L5",
+    "phil.technology-and-ai.artificial-intelligence.L5"
+   ],
+   "chapters": []
+  },
+  {
+   "id": "phil.time-and-change.L5",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "name": "Time and change",
+   "strand": "Big questions",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "subtopic_levels": [
+    "phil.time-and-change.time.L5",
+    "phil.time-and-change.change.L5",
+    "phil.time-and-change.past-and-future.L5",
+    "phil.time-and-change.cause-and-effect.L5",
+    "phil.time-and-change.unpredictability.L5",
+    "phil.time-and-change.space-and-infinity.L5"
+   ],
+   "chapters": []
+  }
+ ],
+ "subtopic_levels": [
+  {
+   "id": "phil.existence-and-reality.existence.L1",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L1",
+   "subtopic": "existence",
+   "name": "Why is there something?",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "What does it mean to be? Things that exist and things we only imagine.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.existence-and-reality.existence.L3"
+   ],
+   "go_wide": [
+    "phil.existence-and-reality.dreams-and-imagination.L1",
+    "sci.nothing-and-forever.zero.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:1"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.existence.L3",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L3",
+   "subtopic": "existence",
+   "name": "Why is there something?",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Why is there something rather than nothing? Did the universe have to exist?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.existence-and-reality.existence.L1"
+   ],
+   "go_deep": [
+    "phil.existence-and-reality.existence.L5"
+   ],
+   "go_wide": [
+    "phil.existence-and-reality.dreams-and-imagination.L3",
+    "phil.existence-and-reality.possible-and-necessary.L3",
+    "phil.existence-and-reality.universals.L3",
+    "sci.nothing-and-forever.zero.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:1"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.existence.L5",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L5",
+   "subtopic": "existence",
+   "name": "Why is there something?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Existence in different traditions (being, emptiness, Brahman); questions with no final answer.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.existence-and-reality.existence.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.existence-and-reality.dreams-and-imagination.L5",
+    "phil.existence-and-reality.reality.L5",
+    "phil.existence-and-reality.possible-and-necessary.L5",
+    "phil.existence-and-reality.universals.L5",
+    "sci.nothing-and-forever.zero.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:1"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.dreams-and-imagination.L1",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L1",
+   "subtopic": "dreams-and-imagination",
+   "name": "Waking, dreaming and imagining",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Dreams, pretend play and imagination: where do they come from?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.existence-and-reality.dreams-and-imagination.L3"
+   ],
+   "go_wide": [
+    "phil.existence-and-reality.existence.L1",
+    "sci.what-is-real.perception-and-reality.L2",
+    "sci.health.sleep.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:2"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.dreams-and-imagination.L3",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L3",
+   "subtopic": "dreams-and-imagination",
+   "name": "Waking, dreaming and imagining",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "How do you know you are not dreaming now? Zhuangzi's butterfly dream.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.existence-and-reality.dreams-and-imagination.L1"
+   ],
+   "go_deep": [
+    "phil.existence-and-reality.dreams-and-imagination.L5"
+   ],
+   "go_wide": [
+    "phil.existence-and-reality.existence.L3",
+    "phil.existence-and-reality.possible-and-necessary.L3",
+    "phil.existence-and-reality.universals.L3",
+    "sci.what-is-real.perception-and-reality.L4",
+    "sci.health.sleep.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:2"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.dreams-and-imagination.L5",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L5",
+   "subtopic": "dreams-and-imagination",
+   "name": "Waking, dreaming and imagining",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Imagination as a way to explore possible worlds; lucid dreams; the brain while dreaming.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.existence-and-reality.dreams-and-imagination.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.existence-and-reality.existence.L5",
+    "phil.existence-and-reality.reality.L5",
+    "phil.existence-and-reality.possible-and-necessary.L5",
+    "phil.existence-and-reality.universals.L5",
+    "sci.what-is-real.perception-and-reality.L4",
+    "sci.health.sleep.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:2"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.reality.L2",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L2",
+   "subtopic": "reality",
+   "name": "What is real?",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Is a rainbow real? Is a shadow? Is a story?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.existence-and-reality.reality.L4"
+   ],
+   "go_wide": [
+    "sci.what-is-real.perception-and-reality.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:4"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.reality.L4",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L4",
+   "subtopic": "reality",
+   "name": "What is real?",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Plato's cave; appearance and reality.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.existence-and-reality.reality.L2"
+   ],
+   "go_deep": [
+    "phil.existence-and-reality.reality.L5"
+   ],
+   "go_wide": [
+    "sci.what-is-real.perception-and-reality.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:4"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.reality.L5",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L5",
+   "subtopic": "reality",
+   "name": "What is real?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Is the world only what we perceive? Different answers from philosophers and scientists.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.existence-and-reality.reality.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.existence-and-reality.existence.L5",
+    "phil.existence-and-reality.dreams-and-imagination.L5",
+    "phil.existence-and-reality.possible-and-necessary.L5",
+    "phil.existence-and-reality.universals.L5",
+    "sci.what-is-real.perception-and-reality.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:4"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.possible-and-necessary.L3",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L3",
+   "subtopic": "possible-and-necessary",
+   "name": "Possible, impossible and necessary",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Could pigs fly? Could 2 + 2 be 5? Things that could be and things that must be.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.existence-and-reality.possible-and-necessary.L5"
+   ],
+   "go_wide": [
+    "phil.existence-and-reality.existence.L3",
+    "phil.existence-and-reality.dreams-and-imagination.L3",
+    "phil.existence-and-reality.universals.L3",
+    "math.logic.true-false.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:41",
+    "phil:42"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.possible-and-necessary.L5",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L5",
+   "subtopic": "possible-and-necessary",
+   "name": "Possible, impossible and necessary",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Possibility and necessity; what if history had gone differently?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.existence-and-reality.possible-and-necessary.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.existence-and-reality.existence.L5",
+    "phil.existence-and-reality.dreams-and-imagination.L5",
+    "phil.existence-and-reality.reality.L5",
+    "phil.existence-and-reality.universals.L5",
+    "math.logic.true-false.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:41",
+    "phil:42"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.universals.L3",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L3",
+   "subtopic": "universals",
+   "name": "Kinds and individuals",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "What makes all dogs 'dogs' when every dog is different?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.existence-and-reality.universals.L5"
+   ],
+   "go_wide": [
+    "phil.existence-and-reality.existence.L3",
+    "phil.existence-and-reality.dreams-and-imagination.L3",
+    "phil.existence-and-reality.possible-and-necessary.L3",
+    "sci.classification.sorting-living-things.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:39"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.existence-and-reality.universals.L5",
+   "subject": "phil",
+   "topic": "existence-and-reality",
+   "topic_name": "Existence and reality",
+   "strand": "Big questions",
+   "topic_level": "phil.existence-and-reality.L5",
+   "subtopic": "universals",
+   "name": "Kinds and individuals",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Universals and particulars: is 'redness' a thing? Categories help and also trap our thinking.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.existence-and-reality.universals.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.existence-and-reality.existence.L5",
+    "phil.existence-and-reality.dreams-and-imagination.L5",
+    "phil.existence-and-reality.reality.L5",
+    "phil.existence-and-reality.possible-and-necessary.L5",
+    "sci.classification.sorting-living-things.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:39"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.thought.L1",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L1",
+   "subtopic": "thought",
+   "name": "What is a thought?",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Thinking about thinking: where do thoughts come from?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.mind-and-self.thought.L3"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.identity.L1",
+    "phil.mind-and-self.emotion.L1",
+    "sci.mind.thinking-and-memory.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:6"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.thought.L3",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L3",
+   "subtopic": "thought",
+   "name": "What is a thought?",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Can you stop thinking? Watching thoughts come and go.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.thought.L1"
+   ],
+   "go_deep": [
+    "phil.mind-and-self.thought.L5"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.mind-and-body.L3",
+    "phil.mind-and-self.identity.L3",
+    "phil.mind-and-self.ego.L3",
+    "phil.mind-and-self.emotion.L3",
+    "phil.mind-and-self.intelligence.L3",
+    "sci.mind.thinking-and-memory.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:6"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.thought.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L5",
+   "subtopic": "thought",
+   "name": "What is a thought?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Do thoughts need a brain? Thinking in words and pictures; thoughts and the body.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.thought.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.mind-and-self.consciousness.L5",
+    "phil.mind-and-self.memory.L5",
+    "phil.mind-and-self.mind-and-body.L5",
+    "phil.mind-and-self.identity.L5",
+    "phil.mind-and-self.ego.L5",
+    "phil.mind-and-self.emotion.L5",
+    "phil.mind-and-self.intelligence.L5",
+    "phil.mind-and-self.delusion.L5",
+    "sci.mind.thinking-and-memory.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:6"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.consciousness.L2",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L2",
+   "subtopic": "consciousness",
+   "name": "Awareness and experience",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Being awake and noticing; what is it like to be a bat?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.mind-and-self.consciousness.L4"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.memory.L2",
+    "sci.what-is-real.consciousness.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:7",
+    "phil:8",
+    "phil:9"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.consciousness.L4",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L4",
+   "subtopic": "consciousness",
+   "name": "Awareness and experience",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Can I ever feel your pain? Subjective experience.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.consciousness.L2"
+   ],
+   "go_deep": [
+    "phil.mind-and-self.consciousness.L5"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.delusion.L4",
+    "sci.what-is-real.consciousness.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:7",
+    "phil:8",
+    "phil:9"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.consciousness.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L5",
+   "subtopic": "consciousness",
+   "name": "Awareness and experience",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Consciousness: the hardest question; is it everywhere, only in brains, or something else?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.consciousness.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.mind-and-self.thought.L5",
+    "phil.mind-and-self.memory.L5",
+    "phil.mind-and-self.mind-and-body.L5",
+    "phil.mind-and-self.identity.L5",
+    "phil.mind-and-self.ego.L5",
+    "phil.mind-and-self.emotion.L5",
+    "phil.mind-and-self.intelligence.L5",
+    "phil.mind-and-self.delusion.L5",
+    "sci.what-is-real.consciousness.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:7",
+    "phil:8",
+    "phil:9"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.memory.L2",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L2",
+   "subtopic": "memory",
+   "name": "Memory and the self",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "What do you remember? Are you the same person as baby you?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.mind-and-self.memory.L5"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.consciousness.L2",
+    "hist.my-history.memory-and-history.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:5"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.memory.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L5",
+   "subtopic": "memory",
+   "name": "Memory and the self",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "If you lost all your memories, would you still be you?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.memory.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.mind-and-self.thought.L5",
+    "phil.mind-and-self.consciousness.L5",
+    "phil.mind-and-self.mind-and-body.L5",
+    "phil.mind-and-self.identity.L5",
+    "phil.mind-and-self.ego.L5",
+    "phil.mind-and-self.emotion.L5",
+    "phil.mind-and-self.intelligence.L5",
+    "phil.mind-and-self.delusion.L5",
+    "hist.my-history.memory-and-history.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:5"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.mind-and-body.L3",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L3",
+   "subtopic": "mind-and-body",
+   "name": "Mind and body",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Where am 'I' in my body? Can the mind change the body (and the other way round)?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.mind-and-self.mind-and-body.L5"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.thought.L3",
+    "phil.mind-and-self.identity.L3",
+    "phil.mind-and-self.ego.L3",
+    "phil.mind-and-self.emotion.L3",
+    "phil.mind-and-self.intelligence.L3",
+    "sci.mind.brain-and-nerves.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:17",
+    "phil:40"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.mind-and-body.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L5",
+   "subtopic": "mind-and-body",
+   "name": "Mind and body",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "The mind-body problem; feelings felt in the body; mindfulness and yoga.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.mind-and-body.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.mind-and-self.thought.L5",
+    "phil.mind-and-self.consciousness.L5",
+    "phil.mind-and-self.memory.L5",
+    "phil.mind-and-self.identity.L5",
+    "phil.mind-and-self.ego.L5",
+    "phil.mind-and-self.emotion.L5",
+    "phil.mind-and-self.intelligence.L5",
+    "phil.mind-and-self.delusion.L5",
+    "sci.mind.brain-and-nerves.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:17",
+    "phil:40"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.identity.L1",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L1",
+   "subtopic": "identity",
+   "name": "Who am I?",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Who am I? My name, my likes, my family; I am more than my name.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.mind-and-self.identity.L3"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.thought.L1",
+    "phil.mind-and-self.emotion.L1",
+    "sci.mind.sense-of-self.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:18"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.identity.L3",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L3",
+   "subtopic": "identity",
+   "name": "Who am I?",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "The ship of Theseus; are you the same person every day?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.identity.L1"
+   ],
+   "go_deep": [
+    "phil.mind-and-self.identity.L5"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.thought.L3",
+    "phil.mind-and-self.mind-and-body.L3",
+    "phil.mind-and-self.ego.L3",
+    "phil.mind-and-self.emotion.L3",
+    "phil.mind-and-self.intelligence.L3",
+    "sci.mind.sense-of-self.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:18"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.identity.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L5",
+   "subtopic": "identity",
+   "name": "Who am I?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Identity and what makes 'me'; labels we give ourselves and others; we are never just one adjective.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.identity.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.mind-and-self.thought.L5",
+    "phil.mind-and-self.consciousness.L5",
+    "phil.mind-and-self.memory.L5",
+    "phil.mind-and-self.mind-and-body.L5",
+    "phil.mind-and-self.ego.L5",
+    "phil.mind-and-self.emotion.L5",
+    "phil.mind-and-self.intelligence.L5",
+    "phil.mind-and-self.delusion.L5",
+    "sci.mind.sense-of-self.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:18"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.ego.L3",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L3",
+   "subtopic": "ego",
+   "name": "Ego: the 'I' that wants to be noticed",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Wanting to win, to be praised, to be right; how it feels.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.identity.L3"
+   ],
+   "go_deep": [
+    "phil.mind-and-self.ego.L5"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.thought.L3",
+    "phil.mind-and-self.mind-and-body.L3",
+    "phil.mind-and-self.identity.L3",
+    "phil.mind-and-self.emotion.L3",
+    "phil.mind-and-self.intelligence.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:10"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.ego.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L5",
+   "subtopic": "ego",
+   "name": "Ego: the 'I' that wants to be noticed",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Ego as a lens, not the whole truth; letting go of needing validation.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.ego.L3",
+    "phil.mind-and-self.identity.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.mind-and-self.thought.L5",
+    "phil.mind-and-self.consciousness.L5",
+    "phil.mind-and-self.memory.L5",
+    "phil.mind-and-self.mind-and-body.L5",
+    "phil.mind-and-self.identity.L5",
+    "phil.mind-and-self.emotion.L5",
+    "phil.mind-and-self.intelligence.L5",
+    "phil.mind-and-self.delusion.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:10"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.emotion.L1",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L1",
+   "subtopic": "emotion",
+   "name": "Feelings",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Naming feelings; all feelings are allowed.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.mind-and-self.emotion.L3"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.thought.L1",
+    "phil.mind-and-self.identity.L1",
+    "sci.health.feelings-and-wellbeing.L1"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:50"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.emotion.L3",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L3",
+   "subtopic": "emotion",
+   "name": "Feelings",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Where feelings come from; feelings and choices.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.emotion.L1"
+   ],
+   "go_deep": [
+    "phil.mind-and-self.emotion.L5"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.thought.L3",
+    "phil.mind-and-self.mind-and-body.L3",
+    "phil.mind-and-self.identity.L3",
+    "phil.mind-and-self.ego.L3",
+    "phil.mind-and-self.intelligence.L3",
+    "sci.health.feelings-and-wellbeing.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:50"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.emotion.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L5",
+   "subtopic": "emotion",
+   "name": "Feelings",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Can feelings be wise? Emotion and reason working together.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.emotion.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.mind-and-self.thought.L5",
+    "phil.mind-and-self.consciousness.L5",
+    "phil.mind-and-self.memory.L5",
+    "phil.mind-and-self.mind-and-body.L5",
+    "phil.mind-and-self.identity.L5",
+    "phil.mind-and-self.ego.L5",
+    "phil.mind-and-self.intelligence.L5",
+    "phil.mind-and-self.delusion.L5",
+    "sci.health.feelings-and-wellbeing.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:50"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.intelligence.L3",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L3",
+   "subtopic": "intelligence",
+   "name": "What is intelligence?",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Are crows clever? Is a calculator clever? Many kinds of intelligence.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.mind-and-self.intelligence.L5"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.thought.L3",
+    "phil.mind-and-self.mind-and-body.L3",
+    "phil.mind-and-self.identity.L3",
+    "phil.mind-and-self.ego.L3",
+    "phil.mind-and-self.emotion.L3",
+    "sci.animals.animal-minds.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:33"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.intelligence.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L5",
+   "subtopic": "intelligence",
+   "name": "What is intelligence?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Intelligence in animals, plants, machines and people; who decides what counts as smart?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.intelligence.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.mind-and-self.thought.L5",
+    "phil.mind-and-self.consciousness.L5",
+    "phil.mind-and-self.memory.L5",
+    "phil.mind-and-self.mind-and-body.L5",
+    "phil.mind-and-self.identity.L5",
+    "phil.mind-and-self.ego.L5",
+    "phil.mind-and-self.emotion.L5",
+    "phil.mind-and-self.delusion.L5",
+    "sci.animals.animal-minds.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:33"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.delusion.L4",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L4",
+   "subtopic": "delusion",
+   "name": "Fooling ourselves",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Seeing what we expect; believing something because we want it to be true.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.mind-and-self.delusion.L5"
+   ],
+   "go_wide": [
+    "phil.mind-and-self.consciousness.L4",
+    "sci.senses.perception.L5",
+    "sci.me-and-others.human-nature.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:34"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.mind-and-self.delusion.L5",
+   "subject": "phil",
+   "topic": "mind-and-self",
+   "topic_name": "Mind and self",
+   "strand": "Big questions",
+   "topic_level": "phil.mind-and-self.L5",
+   "subtopic": "delusion",
+   "name": "Fooling ourselves",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Delusion and self-deception; how to check our own beliefs.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.mind-and-self.delusion.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.mind-and-self.thought.L5",
+    "phil.mind-and-self.consciousness.L5",
+    "phil.mind-and-self.memory.L5",
+    "phil.mind-and-self.mind-and-body.L5",
+    "phil.mind-and-self.identity.L5",
+    "phil.mind-and-self.ego.L5",
+    "phil.mind-and-self.emotion.L5",
+    "phil.mind-and-self.intelligence.L5",
+    "sci.senses.perception.L5",
+    "sci.me-and-others.human-nature.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:34"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.perspectives.L1",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L1",
+   "subtopic": "perspectives",
+   "name": "Perspectives: seeing from another place",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "The elephant and the blind men: everyone touches a different part.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.knowing.perspectives.L3"
+   ],
+   "go_wide": [
+    "phil.knowing.language-and-thought.L1",
+    "sci.me-and-others.me-and-others.L1"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:3"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.perspectives.L3",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L3",
+   "subtopic": "perspectives",
+   "name": "Perspectives: seeing from another place",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "The same thing seen from different places, people and animals.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.perspectives.L1"
+   ],
+   "go_deep": [
+    "phil.knowing.perspectives.L5"
+   ],
+   "go_wide": [
+    "phil.knowing.knowledge.L3",
+    "phil.knowing.language-and-thought.L3",
+    "sci.me-and-others.me-and-others.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:3"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.perspectives.L5",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L5",
+   "subtopic": "perspectives",
+   "name": "Perspectives: seeing from another place",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Can all perspectives be right? Relativism and truth.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.perspectives.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.knowing.known-and-unknown.L5",
+    "phil.knowing.knowledge.L5",
+    "phil.knowing.truth.L5",
+    "phil.knowing.objectivity.L5",
+    "phil.knowing.reasoning.L5",
+    "phil.knowing.language-and-thought.L5",
+    "sci.me-and-others.me-and-others.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:3"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.known-and-unknown.L2",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L2",
+   "subtopic": "known-and-unknown",
+   "name": "The known and the unknown",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Things I know, things I don't, and things nobody knows.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.knowing.known-and-unknown.L4"
+   ],
+   "go_wide": [
+    "phil.knowing.truth.L2",
+    "phil.knowing.reasoning.L2",
+    "sci.how-we-know.questioning-evidence.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:12"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.known-and-unknown.L4",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L4",
+   "subtopic": "known-and-unknown",
+   "name": "The known and the unknown",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The edge of the known; 'I don't know' as the start of science.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.known-and-unknown.L2"
+   ],
+   "go_deep": [
+    "phil.knowing.known-and-unknown.L5"
+   ],
+   "go_wide": [
+    "phil.knowing.truth.L4",
+    "phil.knowing.objectivity.L4",
+    "phil.knowing.reasoning.L4",
+    "sci.how-we-know.questioning-evidence.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:12"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.known-and-unknown.L5",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L5",
+   "subtopic": "known-and-unknown",
+   "name": "The known and the unknown",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Things we may never know; living with mystery.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.known-and-unknown.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.knowing.perspectives.L5",
+    "phil.knowing.knowledge.L5",
+    "phil.knowing.truth.L5",
+    "phil.knowing.objectivity.L5",
+    "phil.knowing.reasoning.L5",
+    "phil.knowing.language-and-thought.L5",
+    "sci.how-we-know.questioning-evidence.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:12"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.knowledge.L3",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L3",
+   "subtopic": "knowledge",
+   "name": "How do we know?",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Knowing by seeing, by being told, by thinking; how do you know the Earth is round?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.knowing.knowledge.L5"
+   ],
+   "go_wide": [
+    "phil.knowing.perspectives.L3",
+    "phil.knowing.language-and-thought.L3",
+    "sci.how-we-know.fair-tests.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:13"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.knowledge.L5",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L5",
+   "subtopic": "knowledge",
+   "name": "How do we know?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Knowledge and belief; evidence; trusting experts and checking them.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.knowledge.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.knowing.perspectives.L5",
+    "phil.knowing.known-and-unknown.L5",
+    "phil.knowing.truth.L5",
+    "phil.knowing.objectivity.L5",
+    "phil.knowing.reasoning.L5",
+    "phil.knowing.language-and-thought.L5",
+    "sci.how-we-know.fair-tests.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:13"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.truth.L2",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L2",
+   "subtopic": "truth",
+   "name": "Truth",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Telling the truth; is a story true?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.knowing.truth.L4"
+   ],
+   "go_wide": [
+    "phil.knowing.known-and-unknown.L2",
+    "phil.knowing.reasoning.L2",
+    "phil.living-well.honesty.L1"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:15"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.truth.L4",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L4",
+   "subtopic": "truth",
+   "name": "Truth",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Facts and opinions; can something be true for you and not for me?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.truth.L2"
+   ],
+   "go_deep": [
+    "phil.knowing.truth.L5"
+   ],
+   "go_wide": [
+    "phil.knowing.known-and-unknown.L4",
+    "phil.knowing.objectivity.L4",
+    "phil.knowing.reasoning.L4",
+    "phil.living-well.honesty.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:15"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.truth.L5",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L5",
+   "subtopic": "truth",
+   "name": "Truth",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Different ideas of truth; truth in science, in maths, in stories.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.truth.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.knowing.perspectives.L5",
+    "phil.knowing.known-and-unknown.L5",
+    "phil.knowing.knowledge.L5",
+    "phil.knowing.objectivity.L5",
+    "phil.knowing.reasoning.L5",
+    "phil.knowing.language-and-thought.L5",
+    "phil.living-well.honesty.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:15"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.objectivity.L4",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L4",
+   "subtopic": "objectivity",
+   "name": "Can anyone see without bias?",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Fair judging: can a referee be completely fair?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.knowing.objectivity.L5"
+   ],
+   "go_wide": [
+    "phil.knowing.known-and-unknown.L4",
+    "phil.knowing.truth.L4",
+    "phil.knowing.reasoning.L4",
+    "hist.how-we-know-history.who-tells-history.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:32"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.objectivity.L5",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L5",
+   "subtopic": "objectivity",
+   "name": "Can anyone see without bias?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Objectivity and bias in science and history; why many eyes help.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.objectivity.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.knowing.perspectives.L5",
+    "phil.knowing.known-and-unknown.L5",
+    "phil.knowing.knowledge.L5",
+    "phil.knowing.truth.L5",
+    "phil.knowing.reasoning.L5",
+    "phil.knowing.language-and-thought.L5",
+    "hist.how-we-know-history.who-tells-history.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:32"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.reasoning.L2",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L2",
+   "subtopic": "reasoning",
+   "name": "Reasoning and inference",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "If... then...: detective thinking.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.knowing.reasoning.L4"
+   ],
+   "go_wide": [
+    "phil.knowing.known-and-unknown.L2",
+    "phil.knowing.truth.L2",
+    "math.logic.if-then.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:43",
+    "phil:45"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.reasoning.L4",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L4",
+   "subtopic": "reasoning",
+   "name": "Reasoning and inference",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Good and bad reasons; jumping to conclusions.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.reasoning.L2"
+   ],
+   "go_deep": [
+    "phil.knowing.reasoning.L5"
+   ],
+   "go_wide": [
+    "phil.knowing.known-and-unknown.L4",
+    "phil.knowing.truth.L4",
+    "phil.knowing.objectivity.L4",
+    "math.logic.if-then.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:43",
+    "phil:45"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.reasoning.L5",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L5",
+   "subtopic": "reasoning",
+   "name": "Reasoning and inference",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Rationality and inference; spotting mistakes in arguments.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.reasoning.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.knowing.perspectives.L5",
+    "phil.knowing.known-and-unknown.L5",
+    "phil.knowing.knowledge.L5",
+    "phil.knowing.truth.L5",
+    "phil.knowing.objectivity.L5",
+    "phil.knowing.language-and-thought.L5",
+    "math.logic.if-then.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:43",
+    "phil:45"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.language-and-thought.L1",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L1",
+   "subtopic": "language-and-thought",
+   "name": "Words, meaning and thought",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Words for things; making up new words.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.knowing.language-and-thought.L3"
+   ],
+   "go_wide": [
+    "phil.knowing.perspectives.L1",
+    "hist.how-we-know-history.scripts-and-inscriptions.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:27",
+    "phil:52",
+    "phil:53",
+    "phil:54"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.language-and-thought.L3",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L3",
+   "subtopic": "language-and-thought",
+   "name": "Words, meaning and thought",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Does a word mean the same to everyone? Drawing the meaning of 'happy'.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.language-and-thought.L1"
+   ],
+   "go_deep": [
+    "phil.knowing.language-and-thought.L5"
+   ],
+   "go_wide": [
+    "phil.knowing.perspectives.L3",
+    "phil.knowing.knowledge.L3",
+    "hist.how-we-know-history.scripts-and-inscriptions.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:27",
+    "phil:52",
+    "phil:53",
+    "phil:54"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.knowing.language-and-thought.L5",
+   "subject": "phil",
+   "topic": "knowing",
+   "topic_name": "Knowing and truth",
+   "strand": "Big questions",
+   "topic_level": "phil.knowing.L5",
+   "subtopic": "language-and-thought",
+   "name": "Words, meaning and thought",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Language shapes thought; how words refer to things; meaning in pictures, music and silence.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.knowing.language-and-thought.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.knowing.perspectives.L5",
+    "phil.knowing.known-and-unknown.L5",
+    "phil.knowing.knowledge.L5",
+    "phil.knowing.truth.L5",
+    "phil.knowing.objectivity.L5",
+    "phil.knowing.reasoning.L5",
+    "hist.how-we-know-history.scripts-and-inscriptions.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:27",
+    "phil:52",
+    "phil:53",
+    "phil:54"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.good-and-bad.L1",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L1",
+   "subtopic": "good-and-bad",
+   "name": "Good, bad, right and wrong",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Is it ever okay to take something? Kind and unkind actions.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.living-well.good-and-bad.L3"
+   ],
+   "go_wide": [
+    "phil.living-well.honesty.L1",
+    "phil.living-well.nature-and-animals.L1"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:14"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.good-and-bad.L3",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L3",
+   "subtopic": "good-and-bad",
+   "name": "Good, bad, right and wrong",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Something good that is bad, something bad that is good; it depends.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.good-and-bad.L1"
+   ],
+   "go_deep": [
+    "phil.living-well.good-and-bad.L5"
+   ],
+   "go_wide": [
+    "phil.living-well.duty-and-virtue.L3",
+    "phil.living-well.karma.L3",
+    "phil.living-well.power.L3",
+    "phil.living-well.nature-and-animals.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:14"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.good-and-bad.L5",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L5",
+   "subtopic": "good-and-bad",
+   "name": "Good, bad, right and wrong",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Different ideas of right and wrong; beyond good and bad: who we are when no one judges.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.good-and-bad.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.values.L5",
+    "phil.living-well.duty-and-virtue.L5",
+    "phil.living-well.karma.L5",
+    "phil.living-well.power.L5",
+    "phil.living-well.freedom.L5",
+    "phil.living-well.fair-shares.L5",
+    "phil.living-well.nature-and-animals.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:14"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.values.L2",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L2",
+   "subtopic": "values",
+   "name": "Values and morals",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "What matters most to me? To my family?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.good-and-bad.L1"
+   ],
+   "go_deep": [
+    "phil.living-well.values.L5"
+   ],
+   "go_wide": [
+    "phil.living-well.accountability.L2",
+    "phil.living-well.freedom.L2",
+    "phil.living-well.fair-shares.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:56"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.values.L5",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L5",
+   "subtopic": "values",
+   "name": "Values and morals",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Where values come from; when values clash; values in different cultures.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.values.L2",
+    "phil.living-well.good-and-bad.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L5",
+    "phil.living-well.duty-and-virtue.L5",
+    "phil.living-well.karma.L5",
+    "phil.living-well.power.L5",
+    "phil.living-well.freedom.L5",
+    "phil.living-well.fair-shares.L5",
+    "phil.living-well.nature-and-animals.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:56"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.duty-and-virtue.L3",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L3",
+   "subtopic": "duty-and-virtue",
+   "name": "Duty and character",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Doing what we should; being brave, kind, patient.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.good-and-bad.L3"
+   ],
+   "go_deep": [
+    "phil.living-well.duty-and-virtue.L5"
+   ],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L3",
+    "phil.living-well.karma.L3",
+    "phil.living-well.power.L3",
+    "phil.living-well.nature-and-animals.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:46"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.duty-and-virtue.L5",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L5",
+   "subtopic": "duty-and-virtue",
+   "name": "Duty and character",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Duty (dharma) and virtue in different traditions; is a good person someone who follows rules or someone with a good heart?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.duty-and-virtue.L3",
+    "phil.living-well.good-and-bad.L5"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L5",
+    "phil.living-well.values.L5",
+    "phil.living-well.karma.L5",
+    "phil.living-well.power.L5",
+    "phil.living-well.freedom.L5",
+    "phil.living-well.fair-shares.L5",
+    "phil.living-well.nature-and-animals.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:46"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.honesty.L1",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L1",
+   "subtopic": "honesty",
+   "name": "Honesty",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Telling the truth even when it is hard.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.living-well.honesty.L4"
+   ],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L1",
+    "phil.living-well.nature-and-animals.L1",
+    "phil.knowing.truth.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:47"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.honesty.L4",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L4",
+   "subtopic": "honesty",
+   "name": "Honesty",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "White lies; is it ever right to lie?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.honesty.L1"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.accountability.L4",
+    "phil.living-well.freedom.L4",
+    "phil.knowing.truth.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:47"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.accountability.L2",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L2",
+   "subtopic": "accountability",
+   "name": "Owning what we do",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Saying sorry and making things right.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.living-well.accountability.L4"
+   ],
+   "go_wide": [
+    "phil.living-well.values.L2",
+    "phil.living-well.freedom.L2",
+    "phil.living-well.fair-shares.L2",
+    "phil.living-well.karma.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:26"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.accountability.L4",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L4",
+   "subtopic": "accountability",
+   "name": "Owning what we do",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Taking responsibility for choices and their effects on others.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.accountability.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.honesty.L4",
+    "phil.living-well.freedom.L4",
+    "phil.living-well.karma.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:26"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.karma.L3",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L3",
+   "subtopic": "karma",
+   "name": "Karma, actions and consequences",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Every action has effects; kindness that comes back.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.living-well.karma.L5"
+   ],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L3",
+    "phil.living-well.duty-and-virtue.L3",
+    "phil.living-well.power.L3",
+    "phil.living-well.nature-and-animals.L3",
+    "sci.order-chaos.cause-and-effect.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:31"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.karma.L5",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L5",
+   "subtopic": "karma",
+   "name": "Karma, actions and consequences",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Karma as an idea in Indian traditions; cause and effect in physics; is life fair?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.karma.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L5",
+    "phil.living-well.values.L5",
+    "phil.living-well.duty-and-virtue.L5",
+    "phil.living-well.power.L5",
+    "phil.living-well.freedom.L5",
+    "phil.living-well.fair-shares.L5",
+    "phil.living-well.nature-and-animals.L5",
+    "sci.order-chaos.cause-and-effect.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:31"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.power.L3",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L3",
+   "subtopic": "power",
+   "name": "Power",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Who decides in a family, a game, a class?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.living-well.power.L5"
+   ],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L3",
+    "phil.living-well.duty-and-virtue.L3",
+    "phil.living-well.karma.L3",
+    "phil.living-well.nature-and-animals.L3",
+    "hist.history-themes.everyday-life.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:48"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.power.L5",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L5",
+   "subtopic": "power",
+   "name": "Power",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Power and fairness; how power can be used well or badly; whose voices are not heard.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.power.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L5",
+    "phil.living-well.values.L5",
+    "phil.living-well.duty-and-virtue.L5",
+    "phil.living-well.karma.L5",
+    "phil.living-well.freedom.L5",
+    "phil.living-well.fair-shares.L5",
+    "phil.living-well.nature-and-animals.L5",
+    "hist.history-themes.everyday-life.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:48"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.freedom.L2",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L2",
+   "subtopic": "freedom",
+   "name": "Freedom and choice",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Choosing: what to play, what to say.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.living-well.freedom.L4"
+   ],
+   "go_wide": [
+    "phil.living-well.values.L2",
+    "phil.living-well.accountability.L2",
+    "phil.living-well.fair-shares.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:22",
+    "phil:49"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.freedom.L4",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L4",
+   "subtopic": "freedom",
+   "name": "Freedom and choice",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Are we free to choose, or do things make us choose? Free will.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.freedom.L2"
+   ],
+   "go_deep": [
+    "phil.living-well.freedom.L5"
+   ],
+   "go_wide": [
+    "phil.living-well.honesty.L4",
+    "phil.living-well.accountability.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:22",
+    "phil:49"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.freedom.L5",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L5",
+   "subtopic": "freedom",
+   "name": "Freedom and choice",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Freedom and responsibility; freedom from what others expect; choosing again each moment.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.freedom.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L5",
+    "phil.living-well.values.L5",
+    "phil.living-well.duty-and-virtue.L5",
+    "phil.living-well.karma.L5",
+    "phil.living-well.power.L5",
+    "phil.living-well.fair-shares.L5",
+    "phil.living-well.nature-and-animals.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:22",
+    "phil:49"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.fair-shares.L2",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L2",
+   "subtopic": "fair-shares",
+   "name": "Fair shares",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Sharing a cake fairly.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.living-well.fair-shares.L5"
+   ],
+   "go_wide": [
+    "phil.living-well.values.L2",
+    "phil.living-well.accountability.L2",
+    "phil.living-well.freedom.L2",
+    "math.fractions.halves-and-quarters.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:55"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.fair-shares.L5",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L5",
+   "subtopic": "fair-shares",
+   "name": "Fair shares",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Who gets water, land, food and money? Fair access to resources; enough versus more.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.fair-shares.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L5",
+    "phil.living-well.values.L5",
+    "phil.living-well.duty-and-virtue.L5",
+    "phil.living-well.karma.L5",
+    "phil.living-well.power.L5",
+    "phil.living-well.freedom.L5",
+    "phil.living-well.nature-and-animals.L5",
+    "math.fractions.halves-and-quarters.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:55"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.nature-and-animals.L1",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L1",
+   "subtopic": "nature-and-animals",
+   "name": "The value of nature and animals",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Do animals and plants matter for their own sake?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.living-well.nature-and-animals.L3"
+   ],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L1",
+    "phil.living-well.honesty.L1",
+    "sci.ecology.interdependence.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:25"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.nature-and-animals.L3",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L3",
+   "subtopic": "nature-and-animals",
+   "name": "The value of nature and animals",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Is a tree worth something if nobody uses it?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.nature-and-animals.L1"
+   ],
+   "go_deep": [
+    "phil.living-well.nature-and-animals.L5"
+   ],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L3",
+    "phil.living-well.duty-and-virtue.L3",
+    "phil.living-well.karma.L3",
+    "phil.living-well.power.L3",
+    "sci.ecology.interdependence.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:25"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.living-well.nature-and-animals.L5",
+   "subject": "phil",
+   "topic": "living-well",
+   "topic_name": "Living well: right and wrong",
+   "strand": "Big questions",
+   "topic_level": "phil.living-well.L5",
+   "subtopic": "nature-and-animals",
+   "name": "The value of nature and animals",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Rights of nature and animals; humans as one species among many.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.living-well.nature-and-animals.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.living-well.good-and-bad.L5",
+    "phil.living-well.values.L5",
+    "phil.living-well.duty-and-virtue.L5",
+    "phil.living-well.karma.L5",
+    "phil.living-well.power.L5",
+    "phil.living-well.freedom.L5",
+    "phil.living-well.fair-shares.L5",
+    "sci.ecology.interdependence.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:25"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.happiness.L1",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L1",
+   "subtopic": "happiness",
+   "name": "Happiness",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "What makes me happy?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.meaning.happiness.L3"
+   ],
+   "go_wide": [
+    "phil.meaning.love.L1",
+    "phil.meaning.oneness.L1"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:23"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.happiness.L3",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L3",
+   "subtopic": "happiness",
+   "name": "Happiness",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Is happiness the same as having fun? Can you be happy and sad together?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.meaning.happiness.L1"
+   ],
+   "go_deep": [
+    "phil.meaning.happiness.L5"
+   ],
+   "go_wide": [
+    "phil.meaning.meaning-of-life.L3",
+    "phil.meaning.oneness.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:23"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.happiness.L5",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L5",
+   "subtopic": "happiness",
+   "name": "Happiness",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Different ideas of happiness; does having more make us happier?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.meaning.happiness.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.meaning.love.L5",
+    "phil.meaning.meaning-of-life.L5",
+    "phil.meaning.death.L5",
+    "phil.meaning.oneness.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:23"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.love.L1",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L1",
+   "subtopic": "love",
+   "name": "Love",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "People and animals I love.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.meaning.love.L4"
+   ],
+   "go_wide": [
+    "phil.meaning.happiness.L1",
+    "phil.meaning.oneness.L1"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:16"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.love.L4",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L4",
+   "subtopic": "love",
+   "name": "Love",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Kinds of love; love and kindness to strangers.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.meaning.love.L1"
+   ],
+   "go_deep": [
+    "phil.meaning.love.L5"
+   ],
+   "go_wide": [],
+   "maths": [],
+   "notebook": [
+    "phil:16"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.love.L5",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L5",
+   "subtopic": "love",
+   "name": "Love",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "What is love? Love as care, as a feeling, as a choice.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.meaning.love.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.meaning.happiness.L5",
+    "phil.meaning.meaning-of-life.L5",
+    "phil.meaning.death.L5",
+    "phil.meaning.oneness.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:16"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.meaning-of-life.L3",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L3",
+   "subtopic": "meaning-of-life",
+   "name": "What makes life meaningful?",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "What would you do if you could do anything?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.meaning.meaning-of-life.L5"
+   ],
+   "go_wide": [
+    "phil.meaning.happiness.L3",
+    "phil.meaning.oneness.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:24"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.meaning-of-life.L5",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L5",
+   "subtopic": "meaning-of-life",
+   "name": "What makes life meaningful?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Meaning made or found? Purpose in different traditions.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.meaning.meaning-of-life.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.meaning.happiness.L5",
+    "phil.meaning.love.L5",
+    "phil.meaning.death.L5",
+    "phil.meaning.oneness.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:24"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.death.L2",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L2",
+   "subtopic": "death",
+   "name": "Death and what comes after",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Gently: living things die; remembering those we love.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.meaning.death.L5"
+   ],
+   "go_wide": [
+    "sci.what-is-life.signs-of-life.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:29"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.death.L5",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L5",
+   "subtopic": "death",
+   "name": "Death and what comes after",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "What different cultures believe about death; why death gives life meaning.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.meaning.death.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.meaning.happiness.L5",
+    "phil.meaning.love.L5",
+    "phil.meaning.meaning-of-life.L5",
+    "phil.meaning.oneness.L5",
+    "sci.what-is-life.signs-of-life.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:29"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.oneness.L1",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L1",
+   "subtopic": "oneness",
+   "name": "Oneness: everything is connected",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "We breathe the same air as trees; we are part of nature.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.meaning.oneness.L3"
+   ],
+   "go_wide": [
+    "phil.meaning.happiness.L1",
+    "phil.meaning.love.L1",
+    "sci.planet-earth.earth-shared-home.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:11"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.oneness.L3",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L3",
+   "subtopic": "oneness",
+   "name": "Oneness: everything is connected",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "How everything is connected (food, air, water, stars).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.meaning.oneness.L1"
+   ],
+   "go_deep": [
+    "phil.meaning.oneness.L5"
+   ],
+   "go_wide": [
+    "phil.meaning.happiness.L3",
+    "phil.meaning.meaning-of-life.L3",
+    "sci.planet-earth.earth-shared-home.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:11"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.meaning.oneness.L5",
+   "subject": "phil",
+   "topic": "meaning",
+   "topic_name": "Happiness, love and meaning",
+   "strand": "Big questions",
+   "topic_level": "phil.meaning.L5",
+   "subtopic": "oneness",
+   "name": "Oneness: everything is connected",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Oneness in Indian thought (advaita, Vasudhaiva Kutumbakam) and in science (we are made of star stuff).",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.meaning.oneness.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.meaning.happiness.L5",
+    "phil.meaning.love.L5",
+    "phil.meaning.meaning-of-life.L5",
+    "phil.meaning.death.L5",
+    "sci.planet-earth.earth-shared-home.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:11"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.time.L1",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L1",
+   "subtopic": "time",
+   "name": "What is time?",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Yesterday, today and tomorrow.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.time-and-change.time.L3"
+   ],
+   "go_wide": [
+    "sci.space-time.time.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:19",
+    "phil:35"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.time.L3",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L3",
+   "subtopic": "time",
+   "name": "What is time?",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Does time pass slowly when we are bored? Is time real?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.time-and-change.time.L1"
+   ],
+   "go_deep": [
+    "phil.time-and-change.time.L5"
+   ],
+   "go_wide": [
+    "phil.time-and-change.unpredictability.L3",
+    "sci.space-time.time.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:19",
+    "phil:35"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.time.L5",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L5",
+   "subtopic": "time",
+   "name": "What is time?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Time in physics and philosophy; cyclical time (kaala chakra) and line-time.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.time-and-change.time.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.time-and-change.change.L5",
+    "phil.time-and-change.past-and-future.L5",
+    "phil.time-and-change.cause-and-effect.L5",
+    "phil.time-and-change.unpredictability.L5",
+    "phil.time-and-change.space-and-infinity.L5",
+    "sci.space-time.time.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:19",
+    "phil:35"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.change.L2",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L2",
+   "subtopic": "change",
+   "name": "Change",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Everything changes: seasons, bodies, rivers.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.time-and-change.change.L5"
+   ],
+   "go_wide": [
+    "phil.time-and-change.past-and-future.L2",
+    "phil.time-and-change.cause-and-effect.L2",
+    "phil.time-and-change.space-and-infinity.L2",
+    "sci.day-night-seasons.seasons.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:36"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.change.L5",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L5",
+   "subtopic": "change",
+   "name": "Change",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "You can't step in the same river twice; is anything permanent?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.time-and-change.change.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.time-and-change.time.L5",
+    "phil.time-and-change.past-and-future.L5",
+    "phil.time-and-change.cause-and-effect.L5",
+    "phil.time-and-change.unpredictability.L5",
+    "phil.time-and-change.space-and-infinity.L5",
+    "sci.day-night-seasons.seasons.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:36"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.past-and-future.L2",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L2",
+   "subtopic": "past-and-future",
+   "name": "The past and the future",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "What happened before I was born? What will happen when I grow up?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.time-and-change.past-and-future.L4"
+   ],
+   "go_wide": [
+    "phil.time-and-change.change.L2",
+    "phil.time-and-change.cause-and-effect.L2",
+    "phil.time-and-change.space-and-infinity.L2",
+    "hist.my-history.my-story.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:30",
+    "phil:37",
+    "phil:38"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.past-and-future.L4",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L4",
+   "subtopic": "past-and-future",
+   "name": "The past and the future",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Can the past change? Is the future already decided?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.time-and-change.past-and-future.L2"
+   ],
+   "go_deep": [
+    "phil.time-and-change.past-and-future.L5"
+   ],
+   "go_wide": [
+    "hist.my-history.my-story.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:30",
+    "phil:37",
+    "phil:38"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.past-and-future.L5",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L5",
+   "subtopic": "past-and-future",
+   "name": "The past and the future",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Imagining futures; responsibility to people not yet born.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.time-and-change.past-and-future.L4"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.time-and-change.time.L5",
+    "phil.time-and-change.change.L5",
+    "phil.time-and-change.cause-and-effect.L5",
+    "phil.time-and-change.unpredictability.L5",
+    "phil.time-and-change.space-and-infinity.L5",
+    "hist.my-history.my-story.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:30",
+    "phil:37",
+    "phil:38"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.cause-and-effect.L2",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L2",
+   "subtopic": "cause-and-effect",
+   "name": "Why things happen",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Because...: chains of causes.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.time-and-change.cause-and-effect.L5"
+   ],
+   "go_wide": [
+    "phil.time-and-change.change.L2",
+    "phil.time-and-change.past-and-future.L2",
+    "phil.time-and-change.space-and-infinity.L2",
+    "sci.order-chaos.cause-and-effect.L2"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:21"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.cause-and-effect.L5",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L5",
+   "subtopic": "cause-and-effect",
+   "name": "Why things happen",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Is everything caused? Chance, choice and cause.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.time-and-change.cause-and-effect.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.time-and-change.time.L5",
+    "phil.time-and-change.change.L5",
+    "phil.time-and-change.past-and-future.L5",
+    "phil.time-and-change.unpredictability.L5",
+    "phil.time-and-change.space-and-infinity.L5",
+    "sci.order-chaos.cause-and-effect.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:21"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.unpredictability.L3",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L3",
+   "subtopic": "unpredictability",
+   "name": "Can we predict the future?",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Weather, dice and surprises.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.time-and-change.unpredictability.L5"
+   ],
+   "go_wide": [
+    "phil.time-and-change.time.L3",
+    "sci.order-chaos.chance.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:44"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.unpredictability.L5",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L5",
+   "subtopic": "unpredictability",
+   "name": "Can we predict the future?",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Unpredictability in nature and in life; living with uncertainty.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.time-and-change.unpredictability.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.time-and-change.time.L5",
+    "phil.time-and-change.change.L5",
+    "phil.time-and-change.past-and-future.L5",
+    "phil.time-and-change.cause-and-effect.L5",
+    "phil.time-and-change.space-and-infinity.L5",
+    "sci.order-chaos.chance.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:44"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.space-and-infinity.L2",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L2",
+   "subtopic": "space-and-infinity",
+   "name": "Space and infinity",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Does space go on for ever?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.time-and-change.space-and-infinity.L5"
+   ],
+   "go_wide": [
+    "phil.time-and-change.change.L2",
+    "phil.time-and-change.past-and-future.L2",
+    "phil.time-and-change.cause-and-effect.L2",
+    "sci.nothing-and-forever.infinity.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:20"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.time-and-change.space-and-infinity.L5",
+   "subject": "phil",
+   "topic": "time-and-change",
+   "topic_name": "Time and change",
+   "strand": "Big questions",
+   "topic_level": "phil.time-and-change.L5",
+   "subtopic": "space-and-infinity",
+   "name": "Space and infinity",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "Is the universe infinite? Can we imagine infinity?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.time-and-change.space-and-infinity.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.time-and-change.time.L5",
+    "phil.time-and-change.change.L5",
+    "phil.time-and-change.past-and-future.L5",
+    "phil.time-and-change.cause-and-effect.L5",
+    "phil.time-and-change.unpredictability.L5",
+    "sci.nothing-and-forever.infinity.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:20"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.technology-and-ai.technology.L2",
+   "subject": "phil",
+   "topic": "technology-and-ai",
+   "topic_name": "Technology and AI",
+   "strand": "Big questions",
+   "topic_level": "phil.technology-and-ai.L2",
+   "subtopic": "technology",
+   "name": "Technology and its impact",
+   "level": 2,
+   "classes": [
+    2
+   ],
+   "covers": "Tools that help us; when do tools take over?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.technology-and-ai.technology.L5"
+   ],
+   "go_wide": [
+    "hist.world-today.connected-world.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:28"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.technology-and-ai.technology.L5",
+   "subject": "phil",
+   "topic": "technology-and-ai",
+   "topic_name": "Technology and AI",
+   "strand": "Big questions",
+   "topic_level": "phil.technology-and-ai.L5",
+   "subtopic": "technology",
+   "name": "Technology and its impact",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "How technology changes people and the planet; who benefits; living with screens.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.technology-and-ai.technology.L2"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.technology-and-ai.artificial-intelligence.L5",
+    "hist.world-today.connected-world.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:28"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.technology-and-ai.artificial-intelligence.L3",
+   "subject": "phil",
+   "topic": "technology-and-ai",
+   "topic_name": "Technology and AI",
+   "strand": "Big questions",
+   "topic_level": "phil.technology-and-ai.L3",
+   "subtopic": "artificial-intelligence",
+   "name": "Artificial intelligence",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Can a computer think? Talking to an AI.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "phil.technology-and-ai.artificial-intelligence.L5"
+   ],
+   "go_wide": [
+    "sci.mind.brains-and-computers.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:51"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "phil.technology-and-ai.artificial-intelligence.L5",
+   "subject": "phil",
+   "topic": "technology-and-ai",
+   "topic_name": "Technology and AI",
+   "strand": "Big questions",
+   "topic_level": "phil.technology-and-ai.L5",
+   "subtopic": "artificial-intelligence",
+   "name": "Artificial intelligence",
+   "level": 5,
+   "classes": [
+    5
+   ],
+   "covers": "What AI can and can't do; should we trust it; can a machine feel?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "phil.technology-and-ai.artificial-intelligence.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "phil.technology-and-ai.technology.L5",
+    "sci.mind.brains-and-computers.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phil:51"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  }
+ ],
+ "chapters": {},
+ "date_fixes": []
+}

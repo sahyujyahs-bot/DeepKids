@@ -1,0 +1,5831 @@
+{
+ "math": [
+  {
+   "id": "math:1",
+   "text": "What is maths and how to think like a mathematician",
+   "detail": "philosophy + mindset"
+  },
+  {
+   "id": "math:2",
+   "text": "How Math and Science dance with each other",
+   "detail": "Applied Math"
+  },
+  {
+   "id": "math:3",
+   "text": "numbers",
+   "detail": "foundations + arithmetic"
+  },
+  {
+   "id": "math:4",
+   "text": "Mathematical Operators: The Action Words of Math",
+   "detail": ""
+  },
+  {
+   "id": "math:5",
+   "text": "Measurement & Units : How Big? How Much? How Long?",
+   "detail": ""
+  },
+  {
+   "id": "math:6",
+   "text": "Algebra: The math of \"how are the numbers related?\"",
+   "detail": ""
+  },
+  {
+   "id": "math:7",
+   "text": "probability: The mathematics of maybe",
+   "detail": "uncertainty + games of chance"
+  },
+  {
+   "id": "math:8",
+   "text": "Statistics: Grand Master of Data",
+   "detail": "patterns + real-world data use"
+  },
+  {
+   "id": "math:9",
+   "text": "Geometry: Mathematics of shapes, size and space",
+   "detail": ""
+  },
+  {
+   "id": "math:10",
+   "text": "Logic & Reasoning: Math as Detective Work",
+   "detail": ""
+  },
+  {
+   "id": "math:11",
+   "text": "How Math and art dance with each other",
+   "detail": "Applied Math"
+  },
+  {
+   "id": "math:12",
+   "text": "Discrete Math: Math of the Countable",
+   "detail": ""
+  },
+  {
+   "id": "math:13",
+   "text": "Calculus: Math of Change & Continuity",
+   "detail": ""
+  },
+  {
+   "id": "math:14",
+   "text": "Set Theory: Math of Grouping",
+   "detail": ""
+  },
+  {
+   "id": "math:15",
+   "text": "Functions & Modeling: The Math of Rules & Real-World Systems",
+   "detail": ""
+  },
+  {
+   "id": "math:16",
+   "text": "Math as Patterns",
+   "detail": "Numbers, shapes, music patterns."
+  },
+  {
+   "id": "math:17",
+   "text": "Mistakes as Learning",
+   "detail": "Famous mistakes that led to discoveries."
+  },
+  {
+   "id": "math:18",
+   "text": "Stories of Mathematicians",
+   "detail": "Ramanujan, Hypatia, Gauss as role models."
+  },
+  {
+   "id": "math:19",
+   "text": "Problem-Solving Strategies",
+   "detail": "Draw, simplify, guess-check, logical steps."
+  },
+  {
+   "id": "math:20",
+   "text": "Measurement in Science",
+   "detail": "Length, time, weight in experiments."
+  },
+  {
+   "id": "math:21",
+   "text": "Ratios & Proportions",
+   "detail": "Recipes, mixtures, scaling."
+  },
+  {
+   "id": "math:22",
+   "text": "Speed = Distance ÷ Time",
+   "detail": "Cars, running, cycling."
+  },
+  {
+   "id": "math:23",
+   "text": "Data in Science",
+   "detail": "Tables, graphs of experiment results."
+  },
+  {
+   "id": "math:24",
+   "text": "Nature’s Patterns",
+   "detail": "Spirals in shells, honeycombs, fractals in plants."
+  },
+  {
+   "id": "math:25",
+   "text": "Counting",
+   "detail": ""
+  },
+  {
+   "id": "math:26",
+   "text": "Concept of Zero",
+   "detail": ""
+  },
+  {
+   "id": "math:27",
+   "text": "History of Number system",
+   "detail": ""
+  },
+  {
+   "id": "math:28",
+   "text": "Fractions & Decimals",
+   "detail": ""
+  },
+  {
+   "id": "math:29",
+   "text": "Place Value System",
+   "detail": ""
+  },
+  {
+   "id": "math:30",
+   "text": "Prime & Composite",
+   "detail": ""
+  },
+  {
+   "id": "math:31",
+   "text": "Factors & Multiples",
+   "detail": ""
+  },
+  {
+   "id": "math:32",
+   "text": "Negative numbers",
+   "detail": ""
+  },
+  {
+   "id": "math:33",
+   "text": "Addition/Subtraction",
+   "detail": "Basic operations, regrouping, word problems."
+  },
+  {
+   "id": "math:34",
+   "text": "Multiplication",
+   "detail": ""
+  },
+  {
+   "id": "math:35",
+   "text": "Division",
+   "detail": ""
+  },
+  {
+   "id": "math:36",
+   "text": "Order of Operations (BODMAS)",
+   "detail": ""
+  },
+  {
+   "id": "math:37",
+   "text": "Operators on Fractions",
+   "detail": ""
+  },
+  {
+   "id": "math:38",
+   "text": "Operators on Decimals",
+   "detail": ""
+  },
+  {
+   "id": "math:39",
+   "text": "Operators with Negatives",
+   "detail": ""
+  },
+  {
+   "id": "math:40",
+   "text": "Percentage",
+   "detail": ""
+  },
+  {
+   "id": "math:41",
+   "text": "Exponents",
+   "detail": ""
+  },
+  {
+   "id": "math:42",
+   "text": "Roots",
+   "detail": ""
+  },
+  {
+   "id": "math:43",
+   "text": "Non-standard Units",
+   "detail": "Hand spans, footsteps."
+  },
+  {
+   "id": "math:44",
+   "text": "History Of Standard Units",
+   "detail": "Why did we need standard unit"
+  },
+  {
+   "id": "math:45",
+   "text": "Standard Units",
+   "detail": "cm, m, kg, litre, Celsius."
+  },
+  {
+   "id": "math:46",
+   "text": "Measuring Time",
+   "detail": ""
+  },
+  {
+   "id": "math:47",
+   "text": "Measuring length",
+   "detail": ""
+  },
+  {
+   "id": "math:48",
+   "text": "Measuring weight",
+   "detail": ""
+  },
+  {
+   "id": "math:49",
+   "text": "Measuring temperature",
+   "detail": ""
+  },
+  {
+   "id": "math:50",
+   "text": "Conversions",
+   "detail": "cm ↔ m, minutes ↔ hours, litres ↔ ml."
+  },
+  {
+   "id": "math:51",
+   "text": "Estimation vs Precision",
+   "detail": "Guesstimate, parallax error, rounding, tools used for measurement"
+  },
+  {
+   "id": "math:52",
+   "text": "Point",
+   "detail": ""
+  },
+  {
+   "id": "math:53",
+   "text": "Coordinate Geometry (Intro) → Plotting points on grid.",
+   "detail": ""
+  },
+  {
+   "id": "math:54",
+   "text": "Lines",
+   "detail": ""
+  },
+  {
+   "id": "math:55",
+   "text": "Angles",
+   "detail": "Acute, obtuse, right; using protractor."
+  },
+  {
+   "id": "math:56",
+   "text": "curves",
+   "detail": ""
+  },
+  {
+   "id": "math:57",
+   "text": "shapes",
+   "detail": ""
+  },
+  {
+   "id": "math:58",
+   "text": "Polygon - triangle, square , rectangle etc , regular vs irregular",
+   "detail": ""
+  },
+  {
+   "id": "math:59",
+   "text": "Cicle and oval",
+   "detail": ""
+  },
+  {
+   "id": "math:60",
+   "text": "Perimeter",
+   "detail": ""
+  },
+  {
+   "id": "math:61",
+   "text": "Surface Area",
+   "detail": ""
+  },
+  {
+   "id": "math:62",
+   "text": "Volume",
+   "detail": ""
+  },
+  {
+   "id": "math:63",
+   "text": "3D Solids",
+   "detail": "Cube, cuboid, cone, sphere."
+  },
+  {
+   "id": "math:64",
+   "text": "Puzzles & Riddles",
+   "detail": "Number puzzles, logic games."
+  },
+  {
+   "id": "math:65",
+   "text": "True/False Statements - Binary logic",
+   "detail": ""
+  },
+  {
+   "id": "math:66",
+   "text": "If–Then Reasoning -  Conditional logic.",
+   "detail": ""
+  },
+  {
+   "id": "math:67",
+   "text": "Venn Diagrams & Sets",
+   "detail": ", unions, intersections."
+  },
+  {
+   "id": "math:68",
+   "text": "Problem-Solving Heuristics",
+   "detail": "Elimination, working backwards."
+  },
+  {
+   "id": "math:69",
+   "text": "Collecting Data",
+   "detail": "Tallies, surveys."
+  },
+  {
+   "id": "math:70",
+   "text": "Representing Data",
+   "detail": "Bar graph, pictograph, line graph, pie chart."
+  },
+  {
+   "id": "math:71",
+   "text": "Reading Data",
+   "detail": "interpreting insights from Bar graph, pictograph, line graph, pie chart. questioning data."
+  },
+  {
+   "id": "math:72",
+   "text": "Measures of Central Tendency",
+   "detail": "Mean, median, mode."
+  },
+  {
+   "id": "math:73",
+   "text": "Range",
+   "detail": ""
+  },
+  {
+   "id": "math:74",
+   "text": "Misleading Data (Intro)",
+   "detail": "Same data, different story."
+  },
+  {
+   "id": "math:75",
+   "text": "Variables as Placeholders",
+   "detail": ""
+  },
+  {
+   "id": "math:76",
+   "text": "Simple Equations",
+   "detail": "Balancing scales, solving for x."
+  },
+  {
+   "id": "math:77",
+   "text": "Properties of Numbers",
+   "detail": "Commutative, associative, distributive."
+  },
+  {
+   "id": "math:78",
+   "text": "Input-Output Machines",
+   "detail": "Function as rules."
+  },
+  {
+   "id": "math:79",
+   "text": "Inequalities",
+   "detail": "<, >, ≤, ≥ with examples."
+  },
+  {
+   "id": "math:80",
+   "text": "Certain vs Impossible",
+   "detail": ""
+  },
+  {
+   "id": "math:81",
+   "text": "Likely vs Unlikely",
+   "detail": ""
+  },
+  {
+   "id": "math:82",
+   "text": "Coin, Dice, Spinner Games, snake & ladder, Ludo",
+   "detail": "Experience probability."
+  },
+  {
+   "id": "math:83",
+   "text": "Frequency of Outcomes → Repeat experiments, tally outcomes.",
+   "detail": ""
+  },
+  {
+   "id": "math:84",
+   "text": "Fractions & Percentages in Probability",
+   "detail": ""
+  },
+  {
+   "id": "math:85",
+   "text": "Predicting Patterns",
+   "detail": ""
+  },
+  {
+   "id": "math:86",
+   "text": "Drawing with Numbers",
+   "detail": "dot grids, coordinate art., mario & other bit games"
+  },
+  {
+   "id": "math:87",
+   "text": "Fractals & Infinity",
+   "detail": "snowflakes, trees, digital art."
+  },
+  {
+   "id": "math:88",
+   "text": "Music and video",
+   "detail": "editing time stamps, patterns"
+  }
+ ],
+ "bio": [
+  {
+   "id": "bio:1",
+   "text": "What is Life",
+   "detail": ""
+  },
+  {
+   "id": "bio:2",
+   "text": "Subjective Experience",
+   "detail": ""
+  },
+  {
+   "id": "bio:3",
+   "text": "Self Awareness, Identity",
+   "detail": ""
+  },
+  {
+   "id": "bio:4",
+   "text": "Characteristics of life",
+   "detail": ""
+  },
+  {
+   "id": "bio:5",
+   "text": "Nature of science & scientific method",
+   "detail": ""
+  },
+  {
+   "id": "bio:6",
+   "text": "History of biology & key discoveries",
+   "detail": ""
+  },
+  {
+   "id": "bio:7",
+   "text": "Memory",
+   "detail": ""
+  },
+  {
+   "id": "bio:8",
+   "text": "DMN",
+   "detail": ""
+  },
+  {
+   "id": "bio:9",
+   "text": "Dopamine Addiction",
+   "detail": ""
+  },
+  {
+   "id": "bio:10",
+   "text": "Human anatomy (systems-based)",
+   "detail": ""
+  },
+  {
+   "id": "bio:11",
+   "text": "Homeostasis",
+   "detail": ""
+  },
+  {
+   "id": "bio:12",
+   "text": "Nervous & endocrine integration",
+   "detail": ""
+  },
+  {
+   "id": "bio:13",
+   "text": "Human reproduction & development",
+   "detail": ""
+  },
+  {
+   "id": "bio:14",
+   "text": "Nutrition & metabolism",
+   "detail": ""
+  },
+  {
+   "id": "bio:15",
+   "text": "Diseases & disorders (genetic, infectious, chronic)",
+   "detail": ""
+  },
+  {
+   "id": "bio:16",
+   "text": "Animal Biology (Zoology)",
+   "detail": ""
+  },
+  {
+   "id": "bio:17",
+   "text": "Animal tissues & body plans",
+   "detail": ""
+  },
+  {
+   "id": "bio:18",
+   "text": "Reproduction & development (gametogenesis, fertilization, embryology)",
+   "detail": ""
+  },
+  {
+   "id": "bio:19",
+   "text": "Nervous system & senses",
+   "detail": ""
+  },
+  {
+   "id": "bio:20",
+   "text": "Musculoskeletal system",
+   "detail": ""
+  },
+  {
+   "id": "bio:21",
+   "text": "Circulatory systems (open vs closed, vertebrate heart)",
+   "detail": ""
+  },
+  {
+   "id": "bio:22",
+   "text": "Respiratory systems",
+   "detail": ""
+  },
+  {
+   "id": "bio:23",
+   "text": "Digestive systems",
+   "detail": ""
+  },
+  {
+   "id": "bio:24",
+   "text": "Excretion & osmoregulation",
+   "detail": ""
+  },
+  {
+   "id": "bio:25",
+   "text": "Endocrine system",
+   "detail": ""
+  },
+  {
+   "id": "bio:26",
+   "text": "Immune system",
+   "detail": ""
+  },
+  {
+   "id": "bio:27",
+   "text": "Human Biology & Physiology",
+   "detail": ""
+  },
+  {
+   "id": "bio:28",
+   "text": "Fish biology (ichthyology)",
+   "detail": ""
+  },
+  {
+   "id": "bio:29",
+   "text": "Amphibians & reptiles (herpetology)",
+   "detail": ""
+  },
+  {
+   "id": "bio:30",
+   "text": "Birds (ornithology)",
+   "detail": ""
+  },
+  {
+   "id": "bio:31",
+   "text": "Mammals (mammalogy)",
+   "detail": ""
+  },
+  {
+   "id": "bio:32",
+   "text": "Chemistry of Life (Biochemistry)",
+   "detail": ""
+  },
+  {
+   "id": "bio:33",
+   "text": "Atoms, elements, and compounds",
+   "detail": ""
+  },
+  {
+   "id": "bio:34",
+   "text": "Bonds (ionic, covalent, hydrogen, van der Waals)",
+   "detail": ""
+  },
+  {
+   "id": "bio:35",
+   "text": "Water: properties & importance",
+   "detail": ""
+  },
+  {
+   "id": "bio:36",
+   "text": "Organic molecules:",
+   "detail": ""
+  },
+  {
+   "id": "bio:37",
+   "text": "Carbohydrates",
+   "detail": ""
+  },
+  {
+   "id": "bio:38",
+   "text": "Lipids",
+   "detail": ""
+  },
+  {
+   "id": "bio:39",
+   "text": "Proteins",
+   "detail": ""
+  },
+  {
+   "id": "bio:40",
+   "text": "Nucleic acids",
+   "detail": ""
+  },
+  {
+   "id": "bio:41",
+   "text": "Enzymes: structure, function, kinetics, regulation",
+   "detail": ""
+  },
+  {
+   "id": "bio:42",
+   "text": "Energy molecules: ATP, NADH, FADH₂",
+   "detail": ""
+  },
+  {
+   "id": "bio:43",
+   "text": "Metabolism overview (catabolism vs anabolism)",
+   "detail": ""
+  },
+  {
+   "id": "bio:44",
+   "text": "RNA, DNA",
+   "detail": ""
+  },
+  {
+   "id": "bio:45",
+   "text": "Evolution & Origin of Life",
+   "detail": ""
+  },
+  {
+   "id": "bio:46",
+   "text": "Abiogenesis & RNA world hypothesis",
+   "detail": ""
+  },
+  {
+   "id": "bio:47",
+   "text": "Natural selection, adaptation, speciation",
+   "detail": ""
+  },
+  {
+   "id": "bio:48",
+   "text": "Phylogeny & cladistics",
+   "detail": ""
+  },
+  {
+   "id": "bio:49",
+   "text": "Major evolutionary transitions (endosymbiosis, multicellularity, etc.)",
+   "detail": ""
+  },
+  {
+   "id": "bio:50",
+   "text": "Population genetics (Hardy-Weinberg, drift, gene flow)",
+   "detail": ""
+  },
+  {
+   "id": "bio:51",
+   "text": "Macroevolution: mass extinctions, punctuated equilibrium",
+   "detail": ""
+  },
+  {
+   "id": "bio:52",
+   "text": "Early Life",
+   "detail": ""
+  },
+  {
+   "id": "bio:53",
+   "text": "Self, Thought, Awareness",
+   "detail": ""
+  },
+  {
+   "id": "bio:54",
+   "text": "Chronobiology (time biology)",
+   "detail": ""
+  },
+  {
+   "id": "bio:55",
+   "text": "Circadian rhythms",
+   "detail": ""
+  },
+  {
+   "id": "bio:56",
+   "text": "Seasonal cycles, photoperiodism",
+   "detail": ""
+  },
+  {
+   "id": "bio:57",
+   "text": "Biological clocks (molecular, neural)",
+   "detail": ""
+  },
+  {
+   "id": "bio:58",
+   "text": "Sleep biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:59",
+   "text": "Lunar & tidal rhythms (grunion fish, corals spawning, etc.)",
+   "detail": ""
+  },
+  {
+   "id": "bio:60",
+   "text": "Biogeochemistry",
+   "detail": ""
+  },
+  {
+   "id": "bio:61",
+   "text": "Earth system science links: nitrogen cycle, carbon sequestration",
+   "detail": ""
+  },
+  {
+   "id": "bio:62",
+   "text": "Role of microbes in global cycles",
+   "detail": ""
+  },
+  {
+   "id": "bio:63",
+   "text": "Ocean-atmosphere interactions",
+   "detail": ""
+  },
+  {
+   "id": "bio:64",
+   "text": "Climate biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:65",
+   "text": "Consciousness & Cognitive Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:66",
+   "text": "Origin of consciousness & cognition",
+   "detail": ""
+  },
+  {
+   "id": "bio:67",
+   "text": "Emergence of awareness in evolution",
+   "detail": ""
+  },
+  {
+   "id": "bio:68",
+   "text": "Animal consciousness studies",
+   "detail": ""
+  },
+  {
+   "id": "bio:69",
+   "text": "Comparative cognition",
+   "detail": ""
+  },
+  {
+   "id": "bio:70",
+   "text": "Human self-awareness vs other species",
+   "detail": ""
+  },
+  {
+   "id": "bio:71",
+   "text": "Cell Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:72",
+   "text": "Cell theory",
+   "detail": ""
+  },
+  {
+   "id": "bio:73",
+   "text": "Prokaryotic vs eukaryotic cells",
+   "detail": ""
+  },
+  {
+   "id": "bio:74",
+   "text": "Organelles and structures:",
+   "detail": ""
+  },
+  {
+   "id": "bio:75",
+   "text": "Nucleus, mitochondria, chloroplasts",
+   "detail": ""
+  },
+  {
+   "id": "bio:76",
+   "text": "ER, Golgi apparatus",
+   "detail": ""
+  },
+  {
+   "id": "bio:77",
+   "text": "Lysosomes, peroxisomes",
+   "detail": ""
+  },
+  {
+   "id": "bio:78",
+   "text": "Cytoskeleton",
+   "detail": ""
+  },
+  {
+   "id": "bio:79",
+   "text": "Cell membranes: structure, transport, signaling",
+   "detail": ""
+  },
+  {
+   "id": "bio:80",
+   "text": "Cell cycle & division: mitosis, meiosis, checkpoints",
+   "detail": ""
+  },
+  {
+   "id": "bio:81",
+   "text": "Stem cells, cell differentiation, apoptosis",
+   "detail": ""
+  },
+  {
+   "id": "bio:82",
+   "text": "🧠 Neuroscience",
+   "detail": ""
+  },
+  {
+   "id": "bio:83",
+   "text": "Neuron structure & function",
+   "detail": ""
+  },
+  {
+   "id": "bio:84",
+   "text": "Action potentials & synapses",
+   "detail": ""
+  },
+  {
+   "id": "bio:85",
+   "text": "Neurotransmitters",
+   "detail": ""
+  },
+  {
+   "id": "bio:86",
+   "text": "Neural circuits & plasticity",
+   "detail": ""
+  },
+  {
+   "id": "bio:87",
+   "text": "Sensory systems",
+   "detail": ""
+  },
+  {
+   "id": "bio:88",
+   "text": "Motor control",
+   "detail": ""
+  },
+  {
+   "id": "bio:89",
+   "text": "Brain regions & cognition",
+   "detail": ""
+  },
+  {
+   "id": "bio:90",
+   "text": "Disorders (Parkinson’s, Alzheimer’s, depression)",
+   "detail": ""
+  },
+  {
+   "id": "bio:91",
+   "text": "Brain & Behaviour",
+   "detail": ""
+  },
+  {
+   "id": "bio:92",
+   "text": "🧠 Behavioral Biology / Ethology",
+   "detail": ""
+  },
+  {
+   "id": "bio:93",
+   "text": "Foundations",
+   "detail": ""
+  },
+  {
+   "id": "bio:94",
+   "text": "Innate vs learned behaviors",
+   "detail": ""
+  },
+  {
+   "id": "bio:95",
+   "text": "Fixed action patterns",
+   "detail": ""
+  },
+  {
+   "id": "bio:96",
+   "text": "Imprinting (Lorenz etc.)",
+   "detail": ""
+  },
+  {
+   "id": "bio:97",
+   "text": "Reflexes & instincts",
+   "detail": ""
+  },
+  {
+   "id": "bio:98",
+   "text": "Habituation, sensitization",
+   "detail": ""
+  },
+  {
+   "id": "bio:99",
+   "text": "Learning & Cognition",
+   "detail": ""
+  },
+  {
+   "id": "bio:100",
+   "text": "Classical conditioning (Pavlov)",
+   "detail": ""
+  },
+  {
+   "id": "bio:101",
+   "text": "Operant conditioning (Skinner)",
+   "detail": ""
+  },
+  {
+   "id": "bio:102",
+   "text": "Observational learning, imitation",
+   "detail": ""
+  },
+  {
+   "id": "bio:103",
+   "text": "Problem-solving, tool use",
+   "detail": ""
+  },
+  {
+   "id": "bio:104",
+   "text": "Animal memory & cognition",
+   "detail": ""
+  },
+  {
+   "id": "bio:105",
+   "text": "Communication",
+   "detail": ""
+  },
+  {
+   "id": "bio:106",
+   "text": "Chemical (pheromones)",
+   "detail": ""
+  },
+  {
+   "id": "bio:107",
+   "text": "Visual (displays, colors)",
+   "detail": ""
+  },
+  {
+   "id": "bio:108",
+   "text": "Auditory (songs, calls, echolocation)",
+   "detail": ""
+  },
+  {
+   "id": "bio:109",
+   "text": "Tactile (touch, grooming, vibration)",
+   "detail": ""
+  },
+  {
+   "id": "bio:110",
+   "text": "Symbolic language (bee dances, primates, human speech)",
+   "detail": ""
+  },
+  {
+   "id": "bio:111",
+   "text": "Social Behavior",
+   "detail": ""
+  },
+  {
+   "id": "bio:112",
+   "text": "Territoriality",
+   "detail": ""
+  },
+  {
+   "id": "bio:113",
+   "text": "Dominance hierarchies",
+   "detail": ""
+  },
+  {
+   "id": "bio:114",
+   "text": "Altruism & kin selection (Hamilton’s rule)",
+   "detail": ""
+  },
+  {
+   "id": "bio:115",
+   "text": "Cooperation & reciprocal altruism",
+   "detail": ""
+  },
+  {
+   "id": "bio:116",
+   "text": "Parental care strategies",
+   "detail": ""
+  },
+  {
+   "id": "bio:117",
+   "text": "Mating & Reproductive Behavior",
+   "detail": ""
+  },
+  {
+   "id": "bio:118",
+   "text": "Sexual selection (mate choice, competition)",
+   "detail": ""
+  },
+  {
+   "id": "bio:119",
+   "text": "Courtship rituals",
+   "detail": ""
+  },
+  {
+   "id": "bio:120",
+   "text": "Monogamy, polygamy, polyandry, promiscuity",
+   "detail": ""
+  },
+  {
+   "id": "bio:121",
+   "text": "Parental investment theory",
+   "detail": ""
+  },
+  {
+   "id": "bio:122",
+   "text": "Foraging & Survival Strategies",
+   "detail": ""
+  },
+  {
+   "id": "bio:123",
+   "text": "Optimal foraging theory",
+   "detail": ""
+  },
+  {
+   "id": "bio:124",
+   "text": "Predator-prey interactions",
+   "detail": ""
+  },
+  {
+   "id": "bio:125",
+   "text": "Camouflage, mimicry, defense strategies",
+   "detail": ""
+  },
+  {
+   "id": "bio:126",
+   "text": "Migration & Navigation",
+   "detail": ""
+  },
+  {
+   "id": "bio:127",
+   "text": "Seasonal migrations (birds, fish, insects)",
+   "detail": ""
+  },
+  {
+   "id": "bio:128",
+   "text": "Orientation & navigation (magnetic fields, sun compass, star maps)",
+   "detail": ""
+  },
+  {
+   "id": "bio:129",
+   "text": "Human Behavioral Biology (bridging psychology & anthropology)",
+   "detail": ""
+  },
+  {
+   "id": "bio:130",
+   "text": "Evolutionary psychology",
+   "detail": ""
+  },
+  {
+   "id": "bio:131",
+   "text": "Social structures, cooperation, conflict",
+   "detail": ""
+  },
+  {
+   "id": "bio:132",
+   "text": "Language, culture, ritual",
+   "detail": ""
+  },
+  {
+   "id": "bio:133",
+   "text": "Aggression, empathy, altruism",
+   "detail": ""
+  },
+  {
+   "id": "bio:134",
+   "text": "Cognitive biases and decision-making",
+   "detail": ""
+  },
+  {
+   "id": "bio:135",
+   "text": "Evolutionary psychology",
+   "detail": ""
+  },
+  {
+   "id": "bio:136",
+   "text": "Frontiers of Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:137",
+   "text": "Synthetic biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:138",
+   "text": "Artificial life & bio-computing",
+   "detail": ""
+  },
+  {
+   "id": "bio:139",
+   "text": "Epigenetics & transgenerational inheritance",
+   "detail": ""
+  },
+  {
+   "id": "bio:140",
+   "text": "Human enhancement & transhumanism",
+   "detail": ""
+  },
+  {
+   "id": "bio:141",
+   "text": "Gaia theory & planetary biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:142",
+   "text": "Synthetic Biology / Bioengineering",
+   "detail": ""
+  },
+  {
+   "id": "bio:143",
+   "text": "Minimal genome projects",
+   "detail": ""
+  },
+  {
+   "id": "bio:144",
+   "text": "DNA as storage medium",
+   "detail": ""
+  },
+  {
+   "id": "bio:145",
+   "text": "Artificial cells & protocells",
+   "detail": ""
+  },
+  {
+   "id": "bio:146",
+   "text": "Biosensors",
+   "detail": ""
+  },
+  {
+   "id": "bio:147",
+   "text": "Biofuels",
+   "detail": ""
+  },
+  {
+   "id": "bio:148",
+   "text": "Bioreactors",
+   "detail": ""
+  },
+  {
+   "id": "bio:149",
+   "text": "🌍 Evolutionary & Comparative Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:150",
+   "text": "Comparative anatomy & physiology",
+   "detail": ""
+  },
+  {
+   "id": "bio:151",
+   "text": "Biogeography",
+   "detail": ""
+  },
+  {
+   "id": "bio:152",
+   "text": "Coevolution",
+   "detail": ""
+  },
+  {
+   "id": "bio:153",
+   "text": "Sexual selection in depth",
+   "detail": ""
+  },
+  {
+   "id": "bio:154",
+   "text": "Evolution of development (Evo-Devo)",
+   "detail": ""
+  },
+  {
+   "id": "bio:155",
+   "text": "Molecular evolution",
+   "detail": ""
+  },
+  {
+   "id": "bio:156",
+   "text": "Ethics in Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:157",
+   "text": "Not pure science, but integral:",
+   "detail": ""
+  },
+  {
+   "id": "bio:158",
+   "text": "Animal testing ethics",
+   "detail": ""
+  },
+  {
+   "id": "bio:159",
+   "text": "Genetic modification debates",
+   "detail": ""
+  },
+  {
+   "id": "bio:160",
+   "text": "Conservation dilemmas",
+   "detail": ""
+  },
+  {
+   "id": "bio:161",
+   "text": "Medical ethics (stem cells, cloning)",
+   "detail": ""
+  },
+  {
+   "id": "bio:162",
+   "text": "Molecular Biology & Genetics",
+   "detail": ""
+  },
+  {
+   "id": "bio:163",
+   "text": "DNA structure, replication",
+   "detail": ""
+  },
+  {
+   "id": "bio:164",
+   "text": "RNA types & transcription",
+   "detail": ""
+  },
+  {
+   "id": "bio:165",
+   "text": "Protein synthesis: translation, genetic code",
+   "detail": ""
+  },
+  {
+   "id": "bio:166",
+   "text": "Regulation of gene expression (prokaryotic & eukaryotic)",
+   "detail": ""
+  },
+  {
+   "id": "bio:167",
+   "text": "Mutations & DNA repair mechanisms",
+   "detail": ""
+  },
+  {
+   "id": "bio:168",
+   "text": "Epigenetics (methylation, histones, imprinting)",
+   "detail": ""
+  },
+  {
+   "id": "bio:169",
+   "text": "Genomics, transcriptomics, proteomics",
+   "detail": ""
+  },
+  {
+   "id": "bio:170",
+   "text": "Recombinant DNA, CRISPR, biotechnology",
+   "detail": ""
+  },
+  {
+   "id": "bio:171",
+   "text": "Diversity of Life",
+   "detail": ""
+  },
+  {
+   "id": "bio:172",
+   "text": "Prokaryotic kingdoms",
+   "detail": ""
+  },
+  {
+   "id": "bio:173",
+   "text": "Protists",
+   "detail": ""
+  },
+  {
+   "id": "bio:174",
+   "text": "Fungi",
+   "detail": ""
+  },
+  {
+   "id": "bio:175",
+   "text": "Plants: bryophytes, ferns, gymnosperms, angiosperms",
+   "detail": ""
+  },
+  {
+   "id": "bio:176",
+   "text": "Animals:",
+   "detail": ""
+  },
+  {
+   "id": "bio:177",
+   "text": "Invertebrates (sponges, cnidarians, worms, mollusks, arthropods, echinoderms)",
+   "detail": ""
+  },
+  {
+   "id": "bio:178",
+   "text": "Vertebrates (fishes, amphibians, reptiles, birds, mammals)",
+   "detail": ""
+  },
+  {
+   "id": "bio:179",
+   "text": "Microbiology",
+   "detail": ""
+  },
+  {
+   "id": "bio:180",
+   "text": "Bacteria: structure, metabolism, reproduction",
+   "detail": ""
+  },
+  {
+   "id": "bio:181",
+   "text": "Archaea",
+   "detail": ""
+  },
+  {
+   "id": "bio:182",
+   "text": "Viruses: structure, replication cycles, retroviruses",
+   "detail": ""
+  },
+  {
+   "id": "bio:183",
+   "text": "Prions, viroids",
+   "detail": ""
+  },
+  {
+   "id": "bio:184",
+   "text": "Microbial ecology",
+   "detail": ""
+  },
+  {
+   "id": "bio:185",
+   "text": "Pathogenic vs beneficial microbes",
+   "detail": ""
+  },
+  {
+   "id": "bio:186",
+   "text": "Plant Biology (Botany)",
+   "detail": ""
+  },
+  {
+   "id": "bio:187",
+   "text": "Plant cells & tissues",
+   "detail": ""
+  },
+  {
+   "id": "bio:188",
+   "text": "Photosynthesis (light & dark reactions, C3, C4, CAM)",
+   "detail": ""
+  },
+  {
+   "id": "bio:189",
+   "text": "Transport in plants (xylem, phloem)",
+   "detail": ""
+  },
+  {
+   "id": "bio:190",
+   "text": "Growth & hormones",
+   "detail": ""
+  },
+  {
+   "id": "bio:191",
+   "text": "Reproduction (sexual, asexual, alternation of generations)",
+   "detail": ""
+  },
+  {
+   "id": "bio:192",
+   "text": "Ecology & importance of plants",
+   "detail": ""
+  },
+  {
+   "id": "bio:193",
+   "text": "Ecology",
+   "detail": ""
+  },
+  {
+   "id": "bio:194",
+   "text": "Levels: organism → population → community → ecosystem → biosphere",
+   "detail": ""
+  },
+  {
+   "id": "bio:195",
+   "text": "Biomes & habitats",
+   "detail": ""
+  },
+  {
+   "id": "bio:196",
+   "text": "Energy flow (food chains, webs, pyramids)",
+   "detail": ""
+  },
+  {
+   "id": "bio:197",
+   "text": "Biogeochemical cycles (carbon, nitrogen, phosphorus, water)",
+   "detail": ""
+  },
+  {
+   "id": "bio:198",
+   "text": "Population dynamics (growth, regulation, carrying capacity)",
+   "detail": ""
+  },
+  {
+   "id": "bio:199",
+   "text": "Species interactions (predation, competition, symbiosis)",
+   "detail": ""
+  },
+  {
+   "id": "bio:200",
+   "text": "Conservation biology, biodiversity, climate change impact",
+   "detail": ""
+  },
+  {
+   "id": "bio:201",
+   "text": "I listed basic ecology, but full treatment includes:",
+   "detail": ""
+  },
+  {
+   "id": "bio:202",
+   "text": "Landscape ecology (patterns, patch dynamics)",
+   "detail": ""
+  },
+  {
+   "id": "bio:203",
+   "text": "Community ecology (succession, niches, keystone species)",
+   "detail": ""
+  },
+  {
+   "id": "bio:204",
+   "text": "Global ecology (biogeography, Earth systems, Gaia theory)",
+   "detail": ""
+  },
+  {
+   "id": "bio:205",
+   "text": "Restoration ecology",
+   "detail": ""
+  },
+  {
+   "id": "bio:206",
+   "text": "Human ecology / Urban ecology",
+   "detail": ""
+  },
+  {
+   "id": "bio:207",
+   "text": "Biogeography",
+   "detail": ""
+  },
+  {
+   "id": "bio:208",
+   "text": "Distribution of species over space and time",
+   "detail": ""
+  },
+  {
+   "id": "bio:209",
+   "text": "Island biogeography",
+   "detail": ""
+  },
+  {
+   "id": "bio:210",
+   "text": "Continental drift & plate tectonics impact on life",
+   "detail": ""
+  },
+  {
+   "id": "bio:211",
+   "text": "Endemism, invasive species",
+   "detail": ""
+  },
+  {
+   "id": "bio:212",
+   "text": "Marine & Freshwater Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:213",
+   "text": "Plankton ecology",
+   "detail": ""
+  },
+  {
+   "id": "bio:214",
+   "text": "Coral reef biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:215",
+   "text": "Deep sea adaptations (bioluminescence, pressure tolerance)",
+   "detail": ""
+  },
+  {
+   "id": "bio:216",
+   "text": "Freshwater ecosystems (lakes, rivers, wetlands)",
+   "detail": ""
+  },
+  {
+   "id": "bio:217",
+   "text": "Soil Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:218",
+   "text": "Microbial communities in soil",
+   "detail": ""
+  },
+  {
+   "id": "bio:219",
+   "text": "Nutrient cycling (N-fixers, mycorrhizae)",
+   "detail": ""
+  },
+  {
+   "id": "bio:220",
+   "text": "Soil-plant-animal interactions",
+   "detail": ""
+  },
+  {
+   "id": "bio:221",
+   "text": "Biomathematics & Theoretical Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:222",
+   "text": "Population models (Lotka-Volterra, logistic growth)",
+   "detail": ""
+  },
+  {
+   "id": "bio:223",
+   "text": "Epidemiological models (SIR, SEIR)",
+   "detail": ""
+  },
+  {
+   "id": "bio:224",
+   "text": "Game theory in biology (hawk-dove, prisoner’s dilemma)",
+   "detail": ""
+  },
+  {
+   "id": "bio:225",
+   "text": "Chaos theory & complexity in ecosystems",
+   "detail": ""
+  },
+  {
+   "id": "bio:226",
+   "text": "Network biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:227",
+   "text": "Biotechnology & Applied Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:228",
+   "text": "Genetic engineering (CRISPR, cloning)",
+   "detail": ""
+  },
+  {
+   "id": "bio:229",
+   "text": "Agriculture (GM crops, pest resistance)",
+   "detail": ""
+  },
+  {
+   "id": "bio:230",
+   "text": "Medicine (gene therapy, vaccines, stem cells)",
+   "detail": ""
+  },
+  {
+   "id": "bio:231",
+   "text": "Industrial microbiology (fermentation, biofuels)",
+   "detail": ""
+  },
+  {
+   "id": "bio:232",
+   "text": "Forensics & DNA fingerprinting",
+   "detail": ""
+  },
+  {
+   "id": "bio:233",
+   "text": "Bioinformatics",
+   "detail": ""
+  },
+  {
+   "id": "bio:234",
+   "text": "🧑‍⚕️ Medicine / Human-specific Specialties (that biologists own parts of)",
+   "detail": ""
+  },
+  {
+   "id": "bio:235",
+   "text": "Pathology (mechanisms of disease at tissue/cellular level)",
+   "detail": ""
+  },
+  {
+   "id": "bio:236",
+   "text": "Epidemiology (disease spread in populations)",
+   "detail": ""
+  },
+  {
+   "id": "bio:237",
+   "text": "Nutritional biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:238",
+   "text": "Aging & gerontology",
+   "detail": ""
+  },
+  {
+   "id": "bio:239",
+   "text": "Public health biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:240",
+   "text": "🦠 Immunology (glossed over under “human physiology”)",
+   "detail": ""
+  },
+  {
+   "id": "bio:241",
+   "text": "Innate immunity",
+   "detail": ""
+  },
+  {
+   "id": "bio:242",
+   "text": "Adaptive immunity (B cells, T cells)",
+   "detail": ""
+  },
+  {
+   "id": "bio:243",
+   "text": "Antigen presentation, MHC",
+   "detail": ""
+  },
+  {
+   "id": "bio:244",
+   "text": "Vaccines, memory response",
+   "detail": ""
+  },
+  {
+   "id": "bio:245",
+   "text": "Autoimmunity, hypersensitivity, allergies",
+   "detail": ""
+  },
+  {
+   "id": "bio:246",
+   "text": "Immunodeficiency (HIV, congenital)",
+   "detail": ""
+  },
+  {
+   "id": "bio:247",
+   "text": "🧪 Pharmacology / Toxicology (applied biology)",
+   "detail": ""
+  },
+  {
+   "id": "bio:248",
+   "text": "Drug discovery & mechanism of action",
+   "detail": ""
+  },
+  {
+   "id": "bio:249",
+   "text": "Dose–response relationships",
+   "detail": ""
+  },
+  {
+   "id": "bio:250",
+   "text": "Neuropharmacology",
+   "detail": ""
+  },
+  {
+   "id": "bio:251",
+   "text": "Antibiotics & resistance",
+   "detail": ""
+  },
+  {
+   "id": "bio:252",
+   "text": "Plant & animal toxins",
+   "detail": ""
+  },
+  {
+   "id": "bio:253",
+   "text": "Environmental toxicology",
+   "detail": ""
+  },
+  {
+   "id": "bio:254",
+   "text": "🧑‍🔬 Applied / Interdisciplinary Fields",
+   "detail": ""
+  },
+  {
+   "id": "bio:255",
+   "text": "Biostatistics & Bioinformatics – statistical analysis, algorithms, modeling, machine learning for genomics",
+   "detail": ""
+  },
+  {
+   "id": "bio:256",
+   "text": "Biophysics – mechanics of cells, protein folding, membranes",
+   "detail": ""
+  },
+  {
+   "id": "bio:257",
+   "text": "Systems biology – networks, feedback loops, emergent properties",
+   "detail": ""
+  },
+  {
+   "id": "bio:258",
+   "text": "Astrobiology – potential life beyond Earth",
+   "detail": ""
+  },
+  {
+   "id": "bio:259",
+   "text": "Agricultural biology – crop science, soil biology, entomology",
+   "detail": ""
+  },
+  {
+   "id": "bio:260",
+   "text": "Marine biology & Oceanography – plankton ecology, deep-sea biology, coral reefs",
+   "detail": ""
+  },
+  {
+   "id": "bio:261",
+   "text": "Conservation biology – endangered species, habitat loss, restoration",
+   "detail": ""
+  },
+  {
+   "id": "bio:262",
+   "text": "Biotechnology – already covered, but overlaps with applied microbiology & synthetic biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:263",
+   "text": "🧬 Developmental Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:264",
+   "text": "Fertilization & early cleavage",
+   "detail": ""
+  },
+  {
+   "id": "bio:265",
+   "text": "Gastrulation & body axis formation",
+   "detail": ""
+  },
+  {
+   "id": "bio:266",
+   "text": "Organogenesis",
+   "detail": ""
+  },
+  {
+   "id": "bio:267",
+   "text": "Morphogens & gradients",
+   "detail": ""
+  },
+  {
+   "id": "bio:268",
+   "text": "Hox genes & developmental genetics",
+   "detail": ""
+  },
+  {
+   "id": "bio:269",
+   "text": "Metamorphosis & regeneration",
+   "detail": ""
+  },
+  {
+   "id": "bio:270",
+   "text": "Parasitology",
+   "detail": ""
+  },
+  {
+   "id": "bio:271",
+   "text": "Protozoan parasites (malaria, amoebiasis)",
+   "detail": ""
+  },
+  {
+   "id": "bio:272",
+   "text": "Helminths (worms)",
+   "detail": ""
+  },
+  {
+   "id": "bio:273",
+   "text": "Ectoparasites (ticks, lice, fleas)",
+   "detail": ""
+  },
+  {
+   "id": "bio:274",
+   "text": "Host-parasite coevolution",
+   "detail": ""
+  },
+  {
+   "id": "bio:275",
+   "text": "Entomology (Insect Biology)",
+   "detail": ""
+  },
+  {
+   "id": "bio:276",
+   "text": "Insect anatomy & physiology",
+   "detail": ""
+  },
+  {
+   "id": "bio:277",
+   "text": "Metamorphosis",
+   "detail": ""
+  },
+  {
+   "id": "bio:278",
+   "text": "Social insects (ants, bees, termites)",
+   "detail": ""
+  },
+  {
+   "id": "bio:279",
+   "text": "Pollination biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:280",
+   "text": "Pest biology & control",
+   "detail": ""
+  },
+  {
+   "id": "bio:281",
+   "text": "Biopharmaceutical & Medical Biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:282",
+   "text": "Vaccinology",
+   "detail": ""
+  },
+  {
+   "id": "bio:283",
+   "text": "Stem cell therapy",
+   "detail": ""
+  },
+  {
+   "id": "bio:284",
+   "text": "Cancer biology (oncogenes, tumor suppressors, metastasis)",
+   "detail": ""
+  },
+  {
+   "id": "bio:285",
+   "text": "Regenerative medicine",
+   "detail": ""
+  },
+  {
+   "id": "bio:286",
+   "text": "Personalized medicine & pharmacogenomics",
+   "detail": ""
+  },
+  {
+   "id": "bio:287",
+   "text": "Astrobiology (Life beyond Earth)",
+   "detail": ""
+  },
+  {
+   "id": "bio:288",
+   "text": "Extremophiles as Earth analogs",
+   "detail": ""
+  },
+  {
+   "id": "bio:289",
+   "text": "Biosignatures",
+   "detail": ""
+  },
+  {
+   "id": "bio:290",
+   "text": "Planetary habitability",
+   "detail": ""
+  },
+  {
+   "id": "bio:291",
+   "text": "Origin-of-life scenarios extrapolated to exoplanets",
+   "detail": ""
+  },
+  {
+   "id": "bio:292",
+   "text": "Paleobiology",
+   "detail": ""
+  },
+  {
+   "id": "bio:293",
+   "text": "Fossilization processes",
+   "detail": ""
+  },
+  {
+   "id": "bio:294",
+   "text": "Extinct lineages (trilobites, ammonites, etc.)",
+   "detail": ""
+  },
+  {
+   "id": "bio:295",
+   "text": "Mass extinctions (Permian, Cretaceous, etc.)",
+   "detail": ""
+  },
+  {
+   "id": "bio:296",
+   "text": "Evolutionary trends through deep time",
+   "detail": ""
+  },
+  {
+   "id": "bio:297",
+   "text": "Biomimetics & Bionics",
+   "detail": ""
+  },
+  {
+   "id": "bio:298",
+   "text": "Engineering inspired by biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:299",
+   "text": "Robotics mimicking animal locomotion",
+   "detail": ""
+  },
+  {
+   "id": "bio:300",
+   "text": "Bio-inspired materials (gecko tape, lotus effect, spider silk)",
+   "detail": ""
+  },
+  {
+   "id": "bio:301",
+   "text": "Mathematical/Computational Neuroscience",
+   "detail": ""
+  },
+  {
+   "id": "bio:302",
+   "text": "(bridge between biology, AI, and physics)",
+   "detail": ""
+  },
+  {
+   "id": "bio:303",
+   "text": "Neural coding & information theory",
+   "detail": ""
+  },
+  {
+   "id": "bio:304",
+   "text": "Artificial neural networks as biological analogues",
+   "detail": ""
+  },
+  {
+   "id": "bio:305",
+   "text": "Brain-computer interfaces",
+   "detail": ""
+  },
+  {
+   "id": "bio:306",
+   "text": "Exobiotic Risks / Biosecurity",
+   "detail": ""
+  },
+  {
+   "id": "bio:307",
+   "text": "Zoonotic disease emergence",
+   "detail": ""
+  },
+  {
+   "id": "bio:308",
+   "text": "Pandemic biology",
+   "detail": ""
+  },
+  {
+   "id": "bio:309",
+   "text": "Bioterrorism & biosafety",
+   "detail": ""
+  },
+  {
+   "id": "bio:310",
+   "text": "Containment & lab protocols (BSL levels)",
+   "detail": ""
+  },
+  {
+   "id": "bio:311",
+   "text": "Biophysics & systems biology",
+   "detail": ""
+  }
+ ],
+ "phy": [
+  {
+   "id": "phy:1",
+   "text": "What is Science",
+   "detail": ""
+  },
+  {
+   "id": "phy:2",
+   "text": "Story of Science",
+   "detail": ""
+  },
+  {
+   "id": "phy:3",
+   "text": "History of of Universe",
+   "detail": ""
+  },
+  {
+   "id": "phy:4",
+   "text": "What is our World",
+   "detail": ""
+  },
+  {
+   "id": "phy:5",
+   "text": "Fundamentals & Deep End Of Physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:6",
+   "text": "Chaos,Order, Unpredictability, Probability",
+   "detail": ""
+  },
+  {
+   "id": "phy:7",
+   "text": "Zero, Infinity",
+   "detail": ""
+  },
+  {
+   "id": "phy:8",
+   "text": "Consciousness, Awareness, Subjective Experience",
+   "detail": ""
+  },
+  {
+   "id": "phy:9",
+   "text": "Reality",
+   "detail": ""
+  },
+  {
+   "id": "phy:10",
+   "text": "Particles",
+   "detail": ""
+  },
+  {
+   "id": "phy:11",
+   "text": "Space",
+   "detail": ""
+  },
+  {
+   "id": "phy:12",
+   "text": "Time",
+   "detail": ""
+  },
+  {
+   "id": "phy:13",
+   "text": "Gravity & Theroies",
+   "detail": ""
+  },
+  {
+   "id": "phy:14",
+   "text": "Matter",
+   "detail": ""
+  },
+  {
+   "id": "phy:15",
+   "text": "Energy",
+   "detail": ""
+  },
+  {
+   "id": "phy:16",
+   "text": "Anti Matter",
+   "detail": ""
+  },
+  {
+   "id": "phy:17",
+   "text": "Dimensions",
+   "detail": ""
+  },
+  {
+   "id": "phy:18",
+   "text": "Entropy",
+   "detail": ""
+  },
+  {
+   "id": "phy:19",
+   "text": "Symmetry",
+   "detail": ""
+  },
+  {
+   "id": "phy:20",
+   "text": "Causality, Karma",
+   "detail": ""
+  },
+  {
+   "id": "phy:21",
+   "text": "Singularity",
+   "detail": ""
+  },
+  {
+   "id": "phy:22",
+   "text": "Zero Sum",
+   "detail": ""
+  },
+  {
+   "id": "phy:23",
+   "text": "String Theory",
+   "detail": ""
+  },
+  {
+   "id": "phy:24",
+   "text": "Quantum Physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:25",
+   "text": "Time Travel",
+   "detail": ""
+  },
+  {
+   "id": "phy:26",
+   "text": "Worm Hole",
+   "detail": ""
+  },
+  {
+   "id": "phy:27",
+   "text": "Fringe Science",
+   "detail": ""
+  },
+  {
+   "id": "phy:28",
+   "text": "Quantum Entanglement",
+   "detail": ""
+  },
+  {
+   "id": "phy:29",
+   "text": "Twin Paradox",
+   "detail": ""
+  },
+  {
+   "id": "phy:30",
+   "text": "Astronomy",
+   "detail": ""
+  },
+  {
+   "id": "phy:31",
+   "text": "Large-scale structure of the universe (filaments, voids)",
+   "detail": ""
+  },
+  {
+   "id": "phy:32",
+   "text": "Expansion of the universe (Hubble’s law)",
+   "detail": ""
+  },
+  {
+   "id": "phy:33",
+   "text": "Cosmic microwave background",
+   "detail": ""
+  },
+  {
+   "id": "phy:34",
+   "text": "Gravitational lensing",
+   "detail": ""
+  },
+  {
+   "id": "phy:35",
+   "text": "Types of galaxies (spiral, elliptical, irregular)",
+   "detail": ""
+  },
+  {
+   "id": "phy:36",
+   "text": "Star formation in galaxies",
+   "detail": ""
+  },
+  {
+   "id": "phy:37",
+   "text": "Active galaxies, quasars, AGNs",
+   "detail": ""
+  },
+  {
+   "id": "phy:38",
+   "text": "Galaxy groups & clusters",
+   "detail": ""
+  },
+  {
+   "id": "phy:39",
+   "text": "Dark matter evidence (rotation curves)",
+   "detail": ""
+  },
+  {
+   "id": "phy:40",
+   "text": "History of astronomy (Babylonians, Greeks, Indian Jyotisha, Copernican revolution)",
+   "detail": ""
+  },
+  {
+   "id": "phy:41",
+   "text": "Observational astronomy (naked-eye sky, constellations, planets, eclipses)",
+   "detail": ""
+  },
+  {
+   "id": "phy:42",
+   "text": "Instruments: telescopes (optical, radio, space-based, interferometers)",
+   "detail": ""
+  },
+  {
+   "id": "phy:43",
+   "text": "Astronomical measurements:",
+   "detail": ""
+  },
+  {
+   "id": "phy:44",
+   "text": "Origin of solar system (nebular hypothesis)",
+   "detail": ""
+  },
+  {
+   "id": "phy:45",
+   "text": "Planets (terrestrial vs gas giants)",
+   "detail": ""
+  },
+  {
+   "id": "phy:46",
+   "text": "Planetary moons (Titan, Europa, Ganymede, etc.)",
+   "detail": ""
+  },
+  {
+   "id": "phy:47",
+   "text": "Asteroids, comets, meteoroids",
+   "detail": ""
+  },
+  {
+   "id": "phy:48",
+   "text": "Black Holes",
+   "detail": ""
+  },
+  {
+   "id": "phy:49",
+   "text": "Orbital mechanics (Kepler’s laws, Newtonian gravity)",
+   "detail": ""
+  },
+  {
+   "id": "phy:50",
+   "text": "Other planets, stars, bodies, other galaxies, other Universeses",
+   "detail": ""
+  },
+  {
+   "id": "phy:51",
+   "text": "Habitability criteria (Goldilocks zone, liquid water, magnetic fields)",
+   "detail": ""
+  },
+  {
+   "id": "phy:52",
+   "text": "Big Bang",
+   "detail": ""
+  },
+  {
+   "id": "phy:53",
+   "text": "nucleosynthesis",
+   "detail": ""
+  },
+  {
+   "id": "phy:54",
+   "text": "Inflation theory",
+   "detail": ""
+  },
+  {
+   "id": "phy:55",
+   "text": "Dark matter, dark energy",
+   "detail": ""
+  },
+  {
+   "id": "phy:56",
+   "text": "Fate of the universe (heat death, big rip, bounce models)",
+   "detail": ""
+  },
+  {
+   "id": "phy:57",
+   "text": "Hubble’s law & expansion",
+   "detail": ""
+  },
+  {
+   "id": "phy:58",
+   "text": "Multiverse hypotheses",
+   "detail": ""
+  },
+  {
+   "id": "phy:59",
+   "text": "Earth Science",
+   "detail": ""
+  },
+  {
+   "id": "phy:60",
+   "text": "Our galaxy, Sun, solar system, Earth, Moon & movement",
+   "detail": ""
+  },
+  {
+   "id": "phy:61",
+   "text": "Structure of the Milky Way",
+   "detail": ""
+  },
+  {
+   "id": "phy:62",
+   "text": "The Sun (structure, nuclear fusion, sunspots, solar cycles)",
+   "detail": ""
+  },
+  {
+   "id": "phy:63",
+   "text": "Atmosphere Basics",
+   "detail": ""
+  },
+  {
+   "id": "phy:64",
+   "text": "Day Night cyles, Earth's Rotation",
+   "detail": ""
+  },
+  {
+   "id": "phy:65",
+   "text": "Moon Pahses",
+   "detail": ""
+  },
+  {
+   "id": "phy:66",
+   "text": "Temperature, humidity, pressure",
+   "detail": ""
+  },
+  {
+   "id": "phy:67",
+   "text": "Winds & circulation (Coriolis effect, trade winds, jet streams)",
+   "detail": ""
+  },
+  {
+   "id": "phy:68",
+   "text": "Clouds & precipitation (condensation, nucleation, phase changes)",
+   "detail": ""
+  },
+  {
+   "id": "phy:69",
+   "text": "Storms (cyclones, hurricanes, tornadoes, monsoons)",
+   "detail": ""
+  },
+  {
+   "id": "phy:70",
+   "text": "Local weather patterns (sea breeze, land breeze, mountain winds)",
+   "detail": ""
+  },
+  {
+   "id": "phy:71",
+   "text": "Climate zones & classification",
+   "detail": ""
+  },
+  {
+   "id": "phy:72",
+   "text": "Seasonal cycles (tilt, precession, Milankovitch cycles)",
+   "detail": ""
+  },
+  {
+   "id": "phy:73",
+   "text": "Energy balance of Earth (incoming solar, outgoing IR)",
+   "detail": ""
+  },
+  {
+   "id": "phy:74",
+   "text": "Ocean–atmosphere interactions (El Niño, La Niña, monsoon)",
+   "detail": ""
+  },
+  {
+   "id": "phy:75",
+   "text": "Climate feedbacks (ice-albedo, greenhouse effect, carbon cycle)",
+   "detail": ""
+  },
+  {
+   "id": "phy:76",
+   "text": "Ice ages & paleoclimate",
+   "detail": ""
+  },
+  {
+   "id": "phy:77",
+   "text": "Greenhouse gases & global warming",
+   "detail": ""
+  },
+  {
+   "id": "phy:78",
+   "text": "Human impact (anthropogenic forcing, aerosols)",
+   "detail": ""
+  },
+  {
+   "id": "phy:79",
+   "text": "Climate models & predictions",
+   "detail": ""
+  },
+  {
+   "id": "phy:80",
+   "text": "Extreme & Applied Topics",
+   "detail": ""
+  },
+  {
+   "id": "phy:81",
+   "text": "Weather forecasting (numerical models, satellites)",
+   "detail": ""
+  },
+  {
+   "id": "phy:82",
+   "text": "Climate engineering (geoengineering concepts)",
+   "detail": ""
+  },
+  {
+   "id": "phy:83",
+   "text": "Planetary atmospheres (Mars, Venus, exoplanets)",
+   "detail": ""
+  },
+  {
+   "id": "phy:84",
+   "text": "Measurement",
+   "detail": ""
+  },
+  {
+   "id": "phy:85",
+   "text": "Units & dimensions",
+   "detail": ""
+  },
+  {
+   "id": "phy:86",
+   "text": "SI system",
+   "detail": ""
+  },
+  {
+   "id": "phy:87",
+   "text": "Dimensional analysis",
+   "detail": ""
+  },
+  {
+   "id": "phy:88",
+   "text": "Vectors & scalars",
+   "detail": ""
+  },
+  {
+   "id": "phy:89",
+   "text": "Addition, subtraction, dot & cross product",
+   "detail": ""
+  },
+  {
+   "id": "phy:90",
+   "text": "Mathematical tools",
+   "detail": ""
+  },
+  {
+   "id": "phy:91",
+   "text": "Algebra, trigonometry",
+   "detail": ""
+  },
+  {
+   "id": "phy:92",
+   "text": "Calculus (derivatives, integrals)",
+   "detail": ""
+  },
+  {
+   "id": "phy:93",
+   "text": "Differential equations",
+   "detail": ""
+  },
+  {
+   "id": "phy:94",
+   "text": "Probability & statistics in physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:95",
+   "text": "Everyday Physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:96",
+   "text": "Physics in Art → light colours vs paint colours, shadow tracing, spirographs.",
+   "detail": ""
+  },
+  {
+   "id": "phy:97",
+   "text": "Physics in Music → beats, vibrations, pitch.",
+   "detail": ""
+  },
+  {
+   "id": "phy:98",
+   "text": "Physics in Sports → bouncing balls, throwing angles, running friction.",
+   "detail": ""
+  },
+  {
+   "id": "phy:99",
+   "text": "Physics in Cooking → boiling, melting, heating.",
+   "detail": ""
+  },
+  {
+   "id": "phy:100",
+   "text": "Matter & Its Phases",
+   "detail": ""
+  },
+  {
+   "id": "phy:101",
+   "text": "Properties of matter",
+   "detail": ""
+  },
+  {
+   "id": "phy:102",
+   "text": "Mass, volume, density, Weight",
+   "detail": ""
+  },
+  {
+   "id": "phy:103",
+   "text": "Elasticity (stress, strain, Hooke’s law)",
+   "detail": ""
+  },
+  {
+   "id": "phy:104",
+   "text": "States of matter",
+   "detail": ""
+  },
+  {
+   "id": "phy:105",
+   "text": "Solids: crystalline, amorphous",
+   "detail": ""
+  },
+  {
+   "id": "phy:106",
+   "text": "Liquids: viscosity, surface tension",
+   "detail": ""
+  },
+  {
+   "id": "phy:107",
+   "text": "Gases: ideal gas law, real gases",
+   "detail": ""
+  },
+  {
+   "id": "phy:108",
+   "text": "Plasma",
+   "detail": ""
+  },
+  {
+   "id": "phy:109",
+   "text": "Super Cooling",
+   "detail": ""
+  },
+  {
+   "id": "phy:110",
+   "text": "Exotic matter: Bose–Einstein condensates, superfluids, degenerate matter",
+   "detail": ""
+  },
+  {
+   "id": "phy:111",
+   "text": "Phase transitions",
+   "detail": ""
+  },
+  {
+   "id": "phy:112",
+   "text": "Melting, boiling, sublimation",
+   "detail": ""
+  },
+  {
+   "id": "phy:113",
+   "text": "Critical points",
+   "detail": ""
+  },
+  {
+   "id": "phy:114",
+   "text": "Phase diagrams",
+   "detail": ""
+  },
+  {
+   "id": "phy:115",
+   "text": "Super Fluids",
+   "detail": ""
+  },
+  {
+   "id": "phy:116",
+   "text": "Atomic & Molecular Physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:117",
+   "text": "Atoms, Molecules",
+   "detail": ""
+  },
+  {
+   "id": "phy:118",
+   "text": "Electrons",
+   "detail": ""
+  },
+  {
+   "id": "phy:119",
+   "text": "Atomic Structure",
+   "detail": ""
+  },
+  {
+   "id": "phy:120",
+   "text": "Atomic collisions",
+   "detail": ""
+  },
+  {
+   "id": "phy:121",
+   "text": "Molecular Structure",
+   "detail": ""
+  },
+  {
+   "id": "phy:122",
+   "text": "Molecular Interactions",
+   "detail": ""
+  },
+  {
+   "id": "phy:123",
+   "text": "Atomic models (Thomson, Rutherford, Bohr, quantum model)",
+   "detail": ""
+  },
+  {
+   "id": "phy:124",
+   "text": "Other Elementary Particles",
+   "detail": ""
+  },
+  {
+   "id": "phy:125",
+   "text": "Hydrogen atom spectrum",
+   "detail": ""
+  },
+  {
+   "id": "phy:126",
+   "text": "Crystalline Structures",
+   "detail": ""
+  },
+  {
+   "id": "phy:127",
+   "text": "Many-electron atoms",
+   "detail": ""
+  },
+  {
+   "id": "phy:128",
+   "text": "X-rays",
+   "detail": ""
+  },
+  {
+   "id": "phy:129",
+   "text": "Molecular bonding & spectroscopy",
+   "detail": ""
+  },
+  {
+   "id": "phy:130",
+   "text": "Lasers & masers",
+   "detail": ""
+  },
+  {
+   "id": "phy:131",
+   "text": "Waves, Vibrations, Sound",
+   "detail": ""
+  },
+  {
+   "id": "phy:132",
+   "text": "Wave basics",
+   "detail": ""
+  },
+  {
+   "id": "phy:133",
+   "text": "Wave equation",
+   "detail": ""
+  },
+  {
+   "id": "phy:134",
+   "text": "Waves & Oscillation",
+   "detail": ""
+  },
+  {
+   "id": "phy:135",
+   "text": "Swing & Pendulum",
+   "detail": ""
+  },
+  {
+   "id": "phy:136",
+   "text": "Sound & Vibration",
+   "detail": ""
+  },
+  {
+   "id": "phy:137",
+   "text": "Sound waves",
+   "detail": ""
+  },
+  {
+   "id": "phy:138",
+   "text": "Pitch, Echo",
+   "detail": ""
+  },
+  {
+   "id": "phy:139",
+   "text": "Sources of sound",
+   "detail": ""
+  },
+  {
+   "id": "phy:140",
+   "text": "Om",
+   "detail": ""
+  },
+  {
+   "id": "phy:141",
+   "text": "How sound travels",
+   "detail": ""
+  },
+  {
+   "id": "phy:142",
+   "text": "Speed of sound",
+   "detail": ""
+  },
+  {
+   "id": "phy:143",
+   "text": "Doppler effect",
+   "detail": ""
+  },
+  {
+   "id": "phy:144",
+   "text": "Materials & sound: knock wood vs metal vs cloth.",
+   "detail": ""
+  },
+  {
+   "id": "phy:145",
+   "text": "Underwater sound: tap stones inside water bowl.",
+   "detail": ""
+  },
+  {
+   "id": "phy:146",
+   "text": "Shock waves",
+   "detail": ""
+  },
+  {
+   "id": "phy:147",
+   "text": "Superposition principle",
+   "detail": ""
+  },
+  {
+   "id": "phy:148",
+   "text": "Standing waves",
+   "detail": ""
+  },
+  {
+   "id": "phy:149",
+   "text": "Beats",
+   "detail": ""
+  },
+  {
+   "id": "phy:150",
+   "text": "Fourier analysis",
+   "detail": ""
+  },
+  {
+   "id": "phy:151",
+   "text": "Seismology (earthquake waves)",
+   "detail": ""
+  },
+  {
+   "id": "phy:152",
+   "text": "Light",
+   "detail": ""
+  },
+  {
+   "id": "phy:153",
+   "text": "Light , Photon, Speed of Light",
+   "detail": ""
+  },
+  {
+   "id": "phy:154",
+   "text": "Nature of Light & Propagation",
+   "detail": ""
+  },
+  {
+   "id": "phy:155",
+   "text": "Light Waves",
+   "detail": ""
+  },
+  {
+   "id": "phy:156",
+   "text": "Reflection, Shadow, Refraction, Rainbows, Prism, Sun's movement",
+   "detail": ""
+  },
+  {
+   "id": "phy:157",
+   "text": "Diffraction",
+   "detail": ""
+  },
+  {
+   "id": "phy:158",
+   "text": "Theory of Colours",
+   "detail": ""
+  },
+  {
+   "id": "phy:159",
+   "text": "Mixing Paints, Vs lights",
+   "detail": ""
+  },
+  {
+   "id": "phy:160",
+   "text": "Transparent, Translucent, Opaque",
+   "detail": ""
+  },
+  {
+   "id": "phy:161",
+   "text": "Gravitational bending of light (general relativity)",
+   "detail": ""
+  },
+  {
+   "id": "phy:162",
+   "text": "Holography, Coherence",
+   "detail": ""
+  },
+  {
+   "id": "phy:163",
+   "text": "Quantum optics (entangled photons, squeezed light)",
+   "detail": ""
+  },
+  {
+   "id": "phy:164",
+   "text": "Time dilation & length contraction from c",
+   "detail": ""
+  },
+  {
+   "id": "phy:165",
+   "text": "Rainbows, halos, mirages",
+   "detail": ""
+  },
+  {
+   "id": "phy:166",
+   "text": "Bioluminescence & fluorescence",
+   "detail": ""
+  },
+  {
+   "id": "phy:167",
+   "text": "Photosynthesis & vision (biophysics of light)",
+   "detail": ""
+  },
+  {
+   "id": "phy:168",
+   "text": "Photonics & telecommunications",
+   "detail": ""
+  },
+  {
+   "id": "phy:169",
+   "text": "Lasers in medicine, industry, defense",
+   "detail": ""
+  },
+  {
+   "id": "phy:170",
+   "text": "Forces & Interactions",
+   "detail": ""
+  },
+  {
+   "id": "phy:171",
+   "text": "Fundamental forces",
+   "detail": ""
+  },
+  {
+   "id": "phy:172",
+   "text": "Gravitational",
+   "detail": ""
+  },
+  {
+   "id": "phy:173",
+   "text": "Electromagnetic",
+   "detail": ""
+  },
+  {
+   "id": "phy:174",
+   "text": "Strong nuclear",
+   "detail": ""
+  },
+  {
+   "id": "phy:175",
+   "text": "Weak nuclear",
+   "detail": ""
+  },
+  {
+   "id": "phy:176",
+   "text": "Everyday forces",
+   "detail": ""
+  },
+  {
+   "id": "phy:177",
+   "text": "Friction",
+   "detail": ""
+  },
+  {
+   "id": "phy:178",
+   "text": "Tension, normal force",
+   "detail": ""
+  },
+  {
+   "id": "phy:179",
+   "text": "Buoyant force",
+   "detail": ""
+  },
+  {
+   "id": "phy:180",
+   "text": "Drag, lift",
+   "detail": ""
+  },
+  {
+   "id": "phy:181",
+   "text": "Force fields",
+   "detail": ""
+  },
+  {
+   "id": "phy:182",
+   "text": "Gravitational field",
+   "detail": ""
+  },
+  {
+   "id": "phy:183",
+   "text": "Electric & magnetic fields",
+   "detail": ""
+  },
+  {
+   "id": "phy:184",
+   "text": "Potential energy & force relations",
+   "detail": ""
+  },
+  {
+   "id": "phy:185",
+   "text": "Motion & Classical Mechanics",
+   "detail": ""
+  },
+  {
+   "id": "phy:186",
+   "text": "Newton’s laws of motion",
+   "detail": ""
+  },
+  {
+   "id": "phy:187",
+   "text": "Motion, Position",
+   "detail": ""
+  },
+  {
+   "id": "phy:188",
+   "text": "Rotational Motion – torque, angular momentum, rotational inertia",
+   "detail": ""
+  },
+  {
+   "id": "phy:189",
+   "text": "Length, Velocity, Acceleration",
+   "detail": ""
+  },
+  {
+   "id": "phy:190",
+   "text": "Patterns of motion",
+   "detail": ""
+  },
+  {
+   "id": "phy:191",
+   "text": "Motion in 1D, 2D, 3D",
+   "detail": ""
+  },
+  {
+   "id": "phy:192",
+   "text": "Relative motion",
+   "detail": ""
+  },
+  {
+   "id": "phy:193",
+   "text": "Projectile motion",
+   "detail": ""
+  },
+  {
+   "id": "phy:194",
+   "text": "Work, energy, power",
+   "detail": ""
+  },
+  {
+   "id": "phy:195",
+   "text": "Conservation laws",
+   "detail": ""
+  },
+  {
+   "id": "phy:196",
+   "text": "Momentum, angular momentum, energy",
+   "detail": ""
+  },
+  {
+   "id": "phy:197",
+   "text": "Thermodynamics",
+   "detail": ""
+  },
+  {
+   "id": "phy:198",
+   "text": "Fire",
+   "detail": ""
+  },
+  {
+   "id": "phy:199",
+   "text": "Heat Flow",
+   "detail": ""
+  },
+  {
+   "id": "phy:200",
+   "text": "Heat transfer (conduction, convection, radiation)",
+   "detail": ""
+  },
+  {
+   "id": "phy:201",
+   "text": "Materials Under Heat",
+   "detail": ""
+  },
+  {
+   "id": "phy:202",
+   "text": "Temperature & heat",
+   "detail": ""
+  },
+  {
+   "id": "phy:203",
+   "text": "Thermal expansion",
+   "detail": ""
+  },
+  {
+   "id": "phy:204",
+   "text": "Laws of thermodynamics",
+   "detail": ""
+  },
+  {
+   "id": "phy:205",
+   "text": "Zeroth law",
+   "detail": ""
+  },
+  {
+   "id": "phy:206",
+   "text": "First law (energy conservation)",
+   "detail": ""
+  },
+  {
+   "id": "phy:207",
+   "text": "Second law (entropy)",
+   "detail": ""
+  },
+  {
+   "id": "phy:208",
+   "text": "Third law (absolute zero)",
+   "detail": ""
+  },
+  {
+   "id": "phy:209",
+   "text": "Heat engines & refrigerators",
+   "detail": ""
+  },
+  {
+   "id": "phy:210",
+   "text": "Entropy & irreversibility",
+   "detail": ""
+  },
+  {
+   "id": "phy:211",
+   "text": "Kinetic theory of gases",
+   "detail": ""
+  },
+  {
+   "id": "phy:212",
+   "text": "Statistical mechanics",
+   "detail": ""
+  },
+  {
+   "id": "phy:213",
+   "text": "Microstates, macrostates",
+   "detail": ""
+  },
+  {
+   "id": "phy:214",
+   "text": "Boltzmann distribution",
+   "detail": ""
+  },
+  {
+   "id": "phy:215",
+   "text": "Partition function",
+   "detail": ""
+  },
+  {
+   "id": "phy:216",
+   "text": "Mass-Energy Equivalence",
+   "detail": ""
+  },
+  {
+   "id": "phy:217",
+   "text": "Electromagnetism",
+   "detail": ""
+  },
+  {
+   "id": "phy:218",
+   "text": "Electricity",
+   "detail": ""
+  },
+  {
+   "id": "phy:219",
+   "text": "Electric Charge",
+   "detail": ""
+  },
+  {
+   "id": "phy:220",
+   "text": "Conductivity , Resistance, super conductors, Semi conductors, Nano tech",
+   "detail": ""
+  },
+  {
+   "id": "phy:221",
+   "text": "Magnetism",
+   "detail": ""
+  },
+  {
+   "id": "phy:222",
+   "text": "Magnetic fields",
+   "detail": ""
+  },
+  {
+   "id": "phy:223",
+   "text": "Electromagnetic induction",
+   "detail": ""
+  },
+  {
+   "id": "phy:224",
+   "text": "Electromagnetic waves & spectrum",
+   "detail": ""
+  },
+  {
+   "id": "phy:225",
+   "text": "Electrostatics",
+   "detail": ""
+  },
+  {
+   "id": "phy:226",
+   "text": "Coulomb’s law",
+   "detail": ""
+  },
+  {
+   "id": "phy:227",
+   "text": "Electric field, potential",
+   "detail": ""
+  },
+  {
+   "id": "phy:228",
+   "text": "Gauss’s law",
+   "detail": ""
+  },
+  {
+   "id": "phy:229",
+   "text": "Capacitance & dielectrics",
+   "detail": ""
+  },
+  {
+   "id": "phy:230",
+   "text": "Current electricity",
+   "detail": ""
+  },
+  {
+   "id": "phy:231",
+   "text": "Ohm’s law",
+   "detail": ""
+  },
+  {
+   "id": "phy:232",
+   "text": "Resistors, capacitors in circuits",
+   "detail": ""
+  },
+  {
+   "id": "phy:233",
+   "text": "Kirchhoff’s laws",
+   "detail": ""
+  },
+  {
+   "id": "phy:234",
+   "text": "Magnetism",
+   "detail": ""
+  },
+  {
+   "id": "phy:235",
+   "text": "Lorentz force",
+   "detail": ""
+  },
+  {
+   "id": "phy:236",
+   "text": "Biot–Savart law",
+   "detail": ""
+  },
+  {
+   "id": "phy:237",
+   "text": "Ampere’s law",
+   "detail": ""
+  },
+  {
+   "id": "phy:238",
+   "text": "Faraday’s law",
+   "detail": ""
+  },
+  {
+   "id": "phy:239",
+   "text": "Lenz’s law",
+   "detail": ""
+  },
+  {
+   "id": "phy:240",
+   "text": "Inductance",
+   "detail": ""
+  },
+  {
+   "id": "phy:241",
+   "text": "Maxwell’s equations",
+   "detail": ""
+  },
+  {
+   "id": "phy:242",
+   "text": "Safety with electricity (no touch wires).",
+   "detail": ""
+  },
+  {
+   "id": "phy:243",
+   "text": "Relativity",
+   "detail": ""
+  },
+  {
+   "id": "phy:244",
+   "text": "Quantum Physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:245",
+   "text": "Birth of quantum theory",
+   "detail": ""
+  },
+  {
+   "id": "phy:246",
+   "text": "Blackbody radiation",
+   "detail": ""
+  },
+  {
+   "id": "phy:247",
+   "text": "Photoelectric effect",
+   "detail": ""
+  },
+  {
+   "id": "phy:248",
+   "text": "Compton effect",
+   "detail": ""
+  },
+  {
+   "id": "phy:249",
+   "text": "Wave–particle duality",
+   "detail": ""
+  },
+  {
+   "id": "phy:250",
+   "text": "de Broglie hypothesis",
+   "detail": ""
+  },
+  {
+   "id": "phy:251",
+   "text": "Double-slit experiment",
+   "detail": ""
+  },
+  {
+   "id": "phy:252",
+   "text": "Schrödinger equation",
+   "detail": ""
+  },
+  {
+   "id": "phy:253",
+   "text": "Quantum mechanics postulates",
+   "detail": ""
+  },
+  {
+   "id": "phy:254",
+   "text": "Operators, eigenvalues",
+   "detail": ""
+  },
+  {
+   "id": "phy:255",
+   "text": "Probability interpretation",
+   "detail": ""
+  },
+  {
+   "id": "phy:256",
+   "text": "Uncertainty principle",
+   "detail": ""
+  },
+  {
+   "id": "phy:257",
+   "text": "Quantum tunneling",
+   "detail": ""
+  },
+  {
+   "id": "phy:258",
+   "text": "Quantum statistics",
+   "detail": ""
+  },
+  {
+   "id": "phy:259",
+   "text": "Bose–Einstein statistics",
+   "detail": ""
+  },
+  {
+   "id": "phy:260",
+   "text": "Fermi–Dirac statistics",
+   "detail": ""
+  },
+  {
+   "id": "phy:261",
+   "text": "Quantum entanglement",
+   "detail": ""
+  },
+  {
+   "id": "phy:262",
+   "text": "Quantum field theory (basics)",
+   "detail": ""
+  },
+  {
+   "id": "phy:263",
+   "text": "Nuclear Physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:264",
+   "text": "Nuclear structure",
+   "detail": ""
+  },
+  {
+   "id": "phy:265",
+   "text": "Binding energy",
+   "detail": ""
+  },
+  {
+   "id": "phy:266",
+   "text": "Radioactivity",
+   "detail": ""
+  },
+  {
+   "id": "phy:267",
+   "text": "Alpha, beta, gamma decay",
+   "detail": ""
+  },
+  {
+   "id": "phy:268",
+   "text": "Half-life",
+   "detail": ""
+  },
+  {
+   "id": "phy:269",
+   "text": "Nuclear reactions",
+   "detail": ""
+  },
+  {
+   "id": "phy:270",
+   "text": "Fission",
+   "detail": ""
+  },
+  {
+   "id": "phy:271",
+   "text": "Fusion",
+   "detail": ""
+  },
+  {
+   "id": "phy:272",
+   "text": "Nuclear models (liquid drop, shell model)",
+   "detail": ""
+  },
+  {
+   "id": "phy:273",
+   "text": "Applications (nuclear power, medicine)",
+   "detail": ""
+  },
+  {
+   "id": "phy:274",
+   "text": "Particle Physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:275",
+   "text": "Standard Model",
+   "detail": ""
+  },
+  {
+   "id": "phy:276",
+   "text": "Quarks, leptons, gauge bosons",
+   "detail": ""
+  },
+  {
+   "id": "phy:277",
+   "text": "Higgs boson",
+   "detail": ""
+  },
+  {
+   "id": "phy:278",
+   "text": "Conservation laws (baryon number, lepton number)",
+   "detail": ""
+  },
+  {
+   "id": "phy:279",
+   "text": "Neutrino oscillations",
+   "detail": ""
+  },
+  {
+   "id": "phy:280",
+   "text": "High-energy collisions & accelerators",
+   "detail": ""
+  },
+  {
+   "id": "phy:281",
+   "text": "Beyond Standard Model",
+   "detail": ""
+  },
+  {
+   "id": "phy:282",
+   "text": "Supersymmetry",
+   "detail": ""
+  },
+  {
+   "id": "phy:283",
+   "text": "String theory basics",
+   "detail": ""
+  },
+  {
+   "id": "phy:284",
+   "text": "Dark matter & dark energy candidates",
+   "detail": ""
+  },
+  {
+   "id": "phy:285",
+   "text": "Condensed Matter Physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:286",
+   "text": "Crystallography",
+   "detail": ""
+  },
+  {
+   "id": "phy:287",
+   "text": "Band theory of solids",
+   "detail": ""
+  },
+  {
+   "id": "phy:288",
+   "text": "Semiconductors",
+   "detail": ""
+  },
+  {
+   "id": "phy:289",
+   "text": "Magnetism (ferro-, para-, dia-)",
+   "detail": ""
+  },
+  {
+   "id": "phy:290",
+   "text": "Superconductivity",
+   "detail": ""
+  },
+  {
+   "id": "phy:291",
+   "text": "Nanomaterials",
+   "detail": ""
+  },
+  {
+   "id": "phy:292",
+   "text": "Quantum Hall effect",
+   "detail": ""
+  },
+  {
+   "id": "phy:293",
+   "text": "Plasma Physics",
+   "detail": ""
+  },
+  {
+   "id": "phy:294",
+   "text": "Properties of plasma",
+   "detail": ""
+  },
+  {
+   "id": "phy:295",
+   "text": "Plasma oscillations",
+   "detail": ""
+  },
+  {
+   "id": "phy:296",
+   "text": "Magnetic confinement (tokamaks, stellarators)",
+   "detail": ""
+  },
+  {
+   "id": "phy:297",
+   "text": "Fusion research",
+   "detail": ""
+  },
+  {
+   "id": "phy:298",
+   "text": "Space plasmas (solar wind, magnetosphere)",
+   "detail": ""
+  },
+  {
+   "id": "phy:299",
+   "text": "Simple Machines , Tech, Tools",
+   "detail": ""
+  },
+  {
+   "id": "phy:300",
+   "text": "Magnifying glass → big vs small view.",
+   "detail": ""
+  },
+  {
+   "id": "phy:301",
+   "text": "Wheel, lever, pulley, fan, switches (done).",
+   "detail": ""
+  },
+  {
+   "id": "phy:302",
+   "text": "Electricity basics: switches ON/OFF, batteries in torch.",
+   "detail": ""
+  }
+ ],
+ "chem": [
+  {
+   "id": "chem:1",
+   "text": "1. Foundations",
+   "detail": ""
+  },
+  {
+   "id": "chem:2",
+   "text": "Measurement & Math Tools: units, significant figures, dimensional analysis",
+   "detail": ""
+  },
+  {
+   "id": "chem:3",
+   "text": "Atomic Theory: historical models (Dalton → Quantum), subatomic particles",
+   "detail": ""
+  },
+  {
+   "id": "chem:4",
+   "text": "Periodic Table & Periodicity: groups, periods, trends (size, ionization, electronegativity)",
+   "detail": ""
+  },
+  {
+   "id": "chem:5",
+   "text": "Chemical Nomenclature: ions, compounds, acids/bases naming",
+   "detail": ""
+  },
+  {
+   "id": "chem:6",
+   "text": "Stoichiometry: mole concept, balancing equations, limiting reagents, yield",
+   "detail": ""
+  },
+  {
+   "id": "chem:7",
+   "text": "2. Structure of Matter",
+   "detail": ""
+  },
+  {
+   "id": "chem:8",
+   "text": "Quantum Chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:9",
+   "text": "Wave–particle duality, Heisenberg uncertainty",
+   "detail": ""
+  },
+  {
+   "id": "chem:10",
+   "text": "Schrödinger equation, orbitals (s, p, d, f)",
+   "detail": ""
+  },
+  {
+   "id": "chem:11",
+   "text": "Electron configurations, Hund’s & Pauli principles",
+   "detail": ""
+  },
+  {
+   "id": "chem:12",
+   "text": "Chemical Bonding",
+   "detail": ""
+  },
+  {
+   "id": "chem:13",
+   "text": "Ionic, covalent, metallic",
+   "detail": ""
+  },
+  {
+   "id": "chem:14",
+   "text": "VSEPR, hybridization, molecular orbital theory",
+   "detail": ""
+  },
+  {
+   "id": "chem:15",
+   "text": "Intermolecular forces: London, dipole, H-bonding",
+   "detail": ""
+  },
+  {
+   "id": "chem:16",
+   "text": "Solid-State Chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:17",
+   "text": "Crystal lattices, unit cells, defects",
+   "detail": ""
+  },
+  {
+   "id": "chem:18",
+   "text": "Band theory, semiconductors",
+   "detail": ""
+  },
+  {
+   "id": "chem:19",
+   "text": "3. Chemical Reactions & Thermodynamics",
+   "detail": ""
+  },
+  {
+   "id": "chem:20",
+   "text": "Types of Reactions: synthesis, decomposition, redox, acid–base, precipitation",
+   "detail": ""
+  },
+  {
+   "id": "chem:21",
+   "text": "Energetics",
+   "detail": ""
+  },
+  {
+   "id": "chem:22",
+   "text": "First law, enthalpy, calorimetry",
+   "detail": ""
+  },
+  {
+   "id": "chem:23",
+   "text": "Hess’s law, bond energy",
+   "detail": ""
+  },
+  {
+   "id": "chem:24",
+   "text": "Entropy & Free Energy",
+   "detail": ""
+  },
+  {
+   "id": "chem:25",
+   "text": "Second & Third laws",
+   "detail": ""
+  },
+  {
+   "id": "chem:26",
+   "text": "Gibbs free energy, spontaneity, equilibrium constants",
+   "detail": ""
+  },
+  {
+   "id": "chem:27",
+   "text": "4. Chemical Kinetics",
+   "detail": ""
+  },
+  {
+   "id": "chem:28",
+   "text": "Rate laws, order of reaction",
+   "detail": ""
+  },
+  {
+   "id": "chem:29",
+   "text": "Collision theory, transition-state theory",
+   "detail": ""
+  },
+  {
+   "id": "chem:30",
+   "text": "Catalysis, enzyme kinetics",
+   "detail": ""
+  },
+  {
+   "id": "chem:31",
+   "text": "5. Equilibria",
+   "detail": ""
+  },
+  {
+   "id": "chem:32",
+   "text": "Chemical Equilibrium: Le Châtelier’s principle, equilibrium constant expressions",
+   "detail": ""
+  },
+  {
+   "id": "chem:33",
+   "text": "Acid–Base Equilibria: pH, pKa, buffers, titration curves",
+   "detail": ""
+  },
+  {
+   "id": "chem:34",
+   "text": "Solubility Equilibria: Ksp, common-ion effect",
+   "detail": ""
+  },
+  {
+   "id": "chem:35",
+   "text": "6. Electrochemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:36",
+   "text": "Redox reactions, half-cells",
+   "detail": ""
+  },
+  {
+   "id": "chem:37",
+   "text": "Galvanic and electrolytic cells",
+   "detail": ""
+  },
+  {
+   "id": "chem:38",
+   "text": "Nernst equation, electrolysis, corrosion",
+   "detail": ""
+  },
+  {
+   "id": "chem:39",
+   "text": "7. States of Matter",
+   "detail": ""
+  },
+  {
+   "id": "chem:40",
+   "text": "Gases: ideal gas law, real gases (van der Waals), kinetic-molecular theory",
+   "detail": ""
+  },
+  {
+   "id": "chem:41",
+   "text": "Liquids & Solutions: vapor pressure, Raoult’s law, colligative properties",
+   "detail": ""
+  },
+  {
+   "id": "chem:42",
+   "text": "Phase Changes: phase diagrams, critical point",
+   "detail": ""
+  },
+  {
+   "id": "chem:43",
+   "text": "8. Descriptive Inorganic Chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:44",
+   "text": "s-, p-, d-, f-block element chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:45",
+   "text": "Coordination compounds: crystal field theory, ligands, isomerism",
+   "detail": ""
+  },
+  {
+   "id": "chem:46",
+   "text": "Bioinorganic: metalloproteins, hemoglobin, chlorophyll",
+   "detail": ""
+  },
+  {
+   "id": "chem:47",
+   "text": "9. Organic Chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:48",
+   "text": "Structure & Bonding: hybridization, resonance, stereochemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:49",
+   "text": "Functional Groups & Reactions",
+   "detail": ""
+  },
+  {
+   "id": "chem:50",
+   "text": "Alkanes, alkenes, alkynes, aromatics",
+   "detail": ""
+  },
+  {
+   "id": "chem:51",
+   "text": "Alcohols, aldehydes, ketones, carboxylic acids, amines",
+   "detail": ""
+  },
+  {
+   "id": "chem:52",
+   "text": "Reaction Mechanisms: substitution, elimination, addition, rearrangements",
+   "detail": ""
+  },
+  {
+   "id": "chem:53",
+   "text": "Spectroscopy & Analysis: IR, NMR, MS",
+   "detail": ""
+  },
+  {
+   "id": "chem:54",
+   "text": "Biomolecules: carbohydrates, proteins, nucleic acids, lipids",
+   "detail": ""
+  },
+  {
+   "id": "chem:55",
+   "text": "Polymers & Materials: synthetic polymers, biopolymers",
+   "detail": ""
+  },
+  {
+   "id": "chem:56",
+   "text": "10. Analytical Chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:57",
+   "text": "Gravimetric & volumetric analysis",
+   "detail": ""
+  },
+  {
+   "id": "chem:58",
+   "text": "Chromatography (GC, HPLC), electrophoresis",
+   "detail": ""
+  },
+  {
+   "id": "chem:59",
+   "text": "Spectroscopy (UV-Vis, atomic absorption, X-ray, fluorescence)",
+   "detail": ""
+  },
+  {
+   "id": "chem:60",
+   "text": "Mass spectrometry",
+   "detail": ""
+  },
+  {
+   "id": "chem:61",
+   "text": "11. Advanced / Applied Fields",
+   "detail": ""
+  },
+  {
+   "id": "chem:62",
+   "text": "Environmental Chemistry: atmospheric, water, soil chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:63",
+   "text": "Industrial Chemistry: petrochemicals, fertilizers, pharmaceuticals",
+   "detail": ""
+  },
+  {
+   "id": "chem:64",
+   "text": "Materials Science: nanomaterials, superconductors",
+   "detail": ""
+  },
+  {
+   "id": "chem:65",
+   "text": "Nuclear Chemistry: radioactivity, fission/fusion, nuclear medicine",
+   "detail": ""
+  },
+  {
+   "id": "chem:66",
+   "text": "Computational & Theoretical Chemistry: molecular modeling, quantum simulations",
+   "detail": ""
+  },
+  {
+   "id": "chem:67",
+   "text": "12. Emerging & Cross-Disciplinary",
+   "detail": ""
+  },
+  {
+   "id": "chem:68",
+   "text": "Supramolecular chemistry, green chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:69",
+   "text": "Chemical biology, medicinal chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:70",
+   "text": "Astrochemistry, geochemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:71",
+   "text": "Chemoinformatics, machine learning in chemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:72",
+   "text": "Physical Chemistry – Deeper Cuts",
+   "detail": ""
+  },
+  {
+   "id": "chem:73",
+   "text": "Statistical Mechanics – microstates, partition functions, Maxwell-Boltzmann, Fermi-Dirac, Bose-Einstein stats",
+   "detail": ""
+  },
+  {
+   "id": "chem:74",
+   "text": "Thermodynamics Beyond Basics – chemical potential, fugacity, activity coefficients, phase rule (Gibbs)",
+   "detail": ""
+  },
+  {
+   "id": "chem:75",
+   "text": "Quantum Chemistry Extras – Hartree-Fock, post-HF methods, density functional theory, basis sets",
+   "detail": ""
+  },
+  {
+   "id": "chem:76",
+   "text": "Spectroscopy Advanced – Raman, EPR/ESR, Mössbauer, ultrafast laser spectroscopy",
+   "detail": ""
+  },
+  {
+   "id": "chem:77",
+   "text": "Surface Chemistry – adsorption isotherms (Langmuir, BET), catalysis on surfaces, thin films",
+   "detail": ""
+  },
+  {
+   "id": "chem:78",
+   "text": "Inorganic Chemistry – More Granular",
+   "detail": ""
+  },
+  {
+   "id": "chem:79",
+   "text": "Organometallic Chemistry – metal carbonyls, sandwich compounds (ferrocene), cross-coupling catalysts",
+   "detail": ""
+  },
+  {
+   "id": "chem:80",
+   "text": "Solid State Details – perovskites, spinels, superconductors, ferromagnetism/antiferromagnetism",
+   "detail": ""
+  },
+  {
+   "id": "chem:81",
+   "text": "Bioinorganic Nuances – nitrogenase, oxygen evolution complex, metallodrugs (cisplatin, MRI agents)",
+   "detail": ""
+  },
+  {
+   "id": "chem:82",
+   "text": "Reaction Mechanisms – oxidative addition, reductive elimination, ligand substitution kinetics",
+   "detail": ""
+  },
+  {
+   "id": "chem:83",
+   "text": "Organic Chemistry – Finer Mechanistic Web",
+   "detail": ""
+  },
+  {
+   "id": "chem:84",
+   "text": "Named Reactions (tip of the iceberg): Aldol, Diels–Alder, Grignard, Wittig, Claisen, Sandmeyer, Friedel–Crafts, Suzuki, Heck, Sharpless epoxidation, etc.",
+   "detail": ""
+  },
+  {
+   "id": "chem:85",
+   "text": "Reactive Intermediates – carbenes, nitrenes, free radicals, carbocations, carbanions",
+   "detail": ""
+  },
+  {
+   "id": "chem:86",
+   "text": "Stereochemistry – optical activity, chiral pool synthesis, enantiomeric excess, conformational analysis",
+   "detail": ""
+  },
+  {
+   "id": "chem:87",
+   "text": "Pericyclic Reactions – electrocyclic, sigmatropic, cycloaddition (Woodward–Hoffmann rules)",
+   "detail": ""
+  },
+  {
+   "id": "chem:88",
+   "text": "Physical Organic – Hammett plots, isotope effects, linear free-energy relationships",
+   "detail": ""
+  },
+  {
+   "id": "chem:89",
+   "text": "Analytical Chemistry – Beyond the Intro",
+   "detail": ""
+  },
+  {
+   "id": "chem:90",
+   "text": "Electroanalytical: cyclic voltammetry, potentiometry, coulometry",
+   "detail": ""
+  },
+  {
+   "id": "chem:91",
+   "text": "Hyphenated techniques: LC-MS, GC-MS, ICP-MS",
+   "detail": ""
+  },
+  {
+   "id": "chem:92",
+   "text": "X-ray techniques: XRD, XPS",
+   "detail": ""
+  },
+  {
+   "id": "chem:93",
+   "text": "Thermal analysis: DSC, TGA",
+   "detail": ""
+  },
+  {
+   "id": "chem:94",
+   "text": "Specialized / Cross-Disciplinary Areas",
+   "detail": ""
+  },
+  {
+   "id": "chem:95",
+   "text": "Chemical Kinetics at Scale – chain reactions, photochemistry, atmospheric reaction mechanisms",
+   "detail": ""
+  },
+  {
+   "id": "chem:96",
+   "text": "Green Chemistry – atom economy, benign solvents, catalytic cycles for sustainability",
+   "detail": ""
+  },
+  {
+   "id": "chem:97",
+   "text": "Materials & Nanochemistry – quantum dots, MOFs (metal-organic frameworks), graphene chemistry, self-assembly",
+   "detail": ""
+  },
+  {
+   "id": "chem:98",
+   "text": "Medicinal Chemistry – drug design, SAR (structure–activity relationships), prodrugs, pharmacokinetics",
+   "detail": ""
+  },
+  {
+   "id": "chem:99",
+   "text": "Computational & Data-Driven Chem – cheminformatics, molecular dynamics, machine-learning-driven reaction prediction",
+   "detail": ""
+  },
+  {
+   "id": "chem:100",
+   "text": "Astrochemistry & Geochemistry – interstellar molecules, isotope ratios, planetary atmospheres",
+   "detail": ""
+  },
+  {
+   "id": "chem:101",
+   "text": "Radiochemistry & Nuclear Fuel Cycle – isotope production, nuclear waste processing, radiopharmaceuticals",
+   "detail": ""
+  },
+  {
+   "id": "chem:102",
+   "text": "Industrial & Applied",
+   "detail": ""
+  },
+  {
+   "id": "chem:103",
+   "text": "Petrochemical processes: cracking, reforming, polymerization",
+   "detail": ""
+  },
+  {
+   "id": "chem:104",
+   "text": "Fertilizer chemistry: Haber–Bosch, Ostwald process",
+   "detail": ""
+  },
+  {
+   "id": "chem:105",
+   "text": "Battery & Energy Storage: lithium-ion, solid-state batteries, redox-flow cells",
+   "detail": ""
+  },
+  {
+   "id": "chem:106",
+   "text": "Corrosion science and coatings",
+   "detail": ""
+  },
+  {
+   "id": "chem:107",
+   "text": "Food chemistry: Maillard reactions, flavor compounds, preservatives",
+   "detail": ""
+  },
+  {
+   "id": "chem:108",
+   "text": "More Specialized Branches",
+   "detail": ""
+  },
+  {
+   "id": "chem:109",
+   "text": "Photochemistry & Photophysics – Jablonski diagrams, singlet–triplet intersystem crossing, photosensitizers, solar fuels.",
+   "detail": ""
+  },
+  {
+   "id": "chem:110",
+   "text": "Organocatalysis – proline catalysis, enamine chemistry, phase-transfer catalysts.",
+   "detail": ""
+  },
+  {
+   "id": "chem:111",
+   "text": "High-Energy Chemistry – explosives chemistry, propellants, energetic materials, combustion kinetics.",
+   "detail": ""
+  },
+  {
+   "id": "chem:112",
+   "text": "Electro-organic synthesis – paired electrolysis, anodic oxidation, cathodic reductions.",
+   "detail": ""
+  },
+  {
+   "id": "chem:113",
+   "text": "Fine-grained Inorganic/Organometallic",
+   "detail": ""
+  },
+  {
+   "id": "chem:114",
+   "text": "Cluster chemistry (boranes, carboranes, metal clusters).",
+   "detail": ""
+  },
+  {
+   "id": "chem:115",
+   "text": "Lanthanide & actinide chemistry.",
+   "detail": ""
+  },
+  {
+   "id": "chem:116",
+   "text": "f-block organometallics, single-molecule magnets.",
+   "detail": ""
+  },
+  {
+   "id": "chem:117",
+   "text": "Catalytic cycles: olefin metathesis, hydroformylation, polymerization catalysts.",
+   "detail": ""
+  },
+  {
+   "id": "chem:118",
+   "text": "Advanced Materials",
+   "detail": ""
+  },
+  {
+   "id": "chem:119",
+   "text": "MOFs & COFs (metal-/covalent-organic frameworks).",
+   "detail": ""
+  },
+  {
+   "id": "chem:120",
+   "text": "Perovskite solar cells, halide perovskites.",
+   "detail": ""
+  },
+  {
+   "id": "chem:121",
+   "text": "Conducting polymers, organic electronics.",
+   "detail": ""
+  },
+  {
+   "id": "chem:122",
+   "text": "Spintronics, molecular electronics.",
+   "detail": ""
+  },
+  {
+   "id": "chem:123",
+   "text": "Physical/Computational Extras",
+   "detail": ""
+  },
+  {
+   "id": "chem:124",
+   "text": "Non-linear spectroscopy (2D-IR, pump–probe).",
+   "detail": ""
+  },
+  {
+   "id": "chem:125",
+   "text": "Ultrafast femtochemistry.",
+   "detail": ""
+  },
+  {
+   "id": "chem:126",
+   "text": "Ab initio molecular dynamics, Car–Parrinello methods.",
+   "detail": ""
+  },
+  {
+   "id": "chem:127",
+   "text": "Machine-learning force fields, reaction network modelling.",
+   "detail": ""
+  },
+  {
+   "id": "chem:128",
+   "text": "Analytical & Characterisation",
+   "detail": ""
+  },
+  {
+   "id": "chem:129",
+   "text": "Atom probe tomography.",
+   "detail": ""
+  },
+  {
+   "id": "chem:130",
+   "text": "Cryo-EM for chemical structures.",
+   "detail": ""
+  },
+  {
+   "id": "chem:131",
+   "text": "Single-molecule fluorescence spectroscopy.",
+   "detail": ""
+  },
+  {
+   "id": "chem:132",
+   "text": "Advanced isotope ratio mass spectrometry.",
+   "detail": ""
+  },
+  {
+   "id": "chem:133",
+   "text": "Interdisciplinary / Frontier Topics",
+   "detail": ""
+  },
+  {
+   "id": "chem:134",
+   "text": "Chemical oceanography, atmospheric aerosols.",
+   "detail": ""
+  },
+  {
+   "id": "chem:135",
+   "text": "Prebiotic chemistry & origin-of-life studies.",
+   "detail": ""
+  },
+  {
+   "id": "chem:136",
+   "text": "Quantum information chemistry (chemistry for quantum computing materials).",
+   "detail": ""
+  },
+  {
+   "id": "chem:137",
+   "text": "Chemical robotics, self-replicating molecular systems.",
+   "detail": ""
+  },
+  {
+   "id": "chem:138",
+   "text": "A. Measurement, Units & Data Handling",
+   "detail": ""
+  },
+  {
+   "id": "chem:139",
+   "text": "Metrology & Standards",
+   "detail": ""
+  },
+  {
+   "id": "chem:140",
+   "text": "SI base and derived units, 2020 redefinition using physical constants.",
+   "detail": ""
+  },
+  {
+   "id": "chem:141",
+   "text": "Calibration of instruments; traceability to national standards.",
+   "detail": ""
+  },
+  {
+   "id": "chem:142",
+   "text": "Error & Uncertainty",
+   "detail": ""
+  },
+  {
+   "id": "chem:143",
+   "text": "Random vs systematic error, bias, drift.",
+   "detail": ""
+  },
+  {
+   "id": "chem:144",
+   "text": "Confidence intervals, standard deviation, relative standard deviation (RSD).",
+   "detail": ""
+  },
+  {
+   "id": "chem:145",
+   "text": "Type-A vs Type-B uncertainty analysis.",
+   "detail": ""
+  },
+  {
+   "id": "chem:146",
+   "text": "Data Treatment",
+   "detail": ""
+  },
+  {
+   "id": "chem:147",
+   "text": "Significant figures in logarithms and exponentials.",
+   "detail": ""
+  },
+  {
+   "id": "chem:148",
+   "text": "Propagation of uncertainty through multivariate functions.",
+   "detail": ""
+  },
+  {
+   "id": "chem:149",
+   "text": "Graphical methods: residual plots, linearisation techniques.",
+   "detail": ""
+  },
+  {
+   "id": "chem:150",
+   "text": "B. Matter and Its Classifications",
+   "detail": ""
+  },
+  {
+   "id": "chem:151",
+   "text": "States of Matter Beyond the Big Three",
+   "detail": ""
+  },
+  {
+   "id": "chem:152",
+   "text": "Superfluids, Bose-Einstein condensates, plasmas.",
+   "detail": ""
+  },
+  {
+   "id": "chem:153",
+   "text": "Liquid crystals, amorphous solids, metallic glasses.",
+   "detail": ""
+  },
+  {
+   "id": "chem:154",
+   "text": "Properties of Matter",
+   "detail": ""
+  },
+  {
+   "id": "chem:155",
+   "text": "Intensive vs extensive, additive vs non-additive properties.",
+   "detail": ""
+  },
+  {
+   "id": "chem:156",
+   "text": "Density measurement techniques (pycnometry, Archimedes method).",
+   "detail": ""
+  },
+  {
+   "id": "chem:157",
+   "text": "Phase Diagrams Basics",
+   "detail": ""
+  },
+  {
+   "id": "chem:158",
+   "text": "Triple point, critical point, Clapeyron equation.",
+   "detail": ""
+  },
+  {
+   "id": "chem:159",
+   "text": "C. Atomic & Nuclear Structure",
+   "detail": ""
+  },
+  {
+   "id": "chem:160",
+   "text": "Historical Experiments in Detail",
+   "detail": ""
+  },
+  {
+   "id": "chem:161",
+   "text": "J.J. Thomson’s e/m ratio derivation.",
+   "detail": ""
+  },
+  {
+   "id": "chem:162",
+   "text": "Millikan’s oil-drop mathematics.",
+   "detail": ""
+  },
+  {
+   "id": "chem:163",
+   "text": "Rutherford scattering cross-section calculation.",
+   "detail": ""
+  },
+  {
+   "id": "chem:164",
+   "text": "Quantum Numbers & Orbitals",
+   "detail": ""
+  },
+  {
+   "id": "chem:165",
+   "text": "Radial and angular node formulae.",
+   "detail": ""
+  },
+  {
+   "id": "chem:166",
+   "text": "Penetration & shielding; why 4s fills before 3d.",
+   "detail": ""
+  },
+  {
+   "id": "chem:167",
+   "text": "Nuclear Chemistry Fundamentals",
+   "detail": ""
+  },
+  {
+   "id": "chem:168",
+   "text": "Nuclear binding energy, mass defect.",
+   "detail": ""
+  },
+  {
+   "id": "chem:169",
+   "text": "Types of radioactive decay (α, β, γ, electron capture).",
+   "detail": ""
+  },
+  {
+   "id": "chem:170",
+   "text": "Half-life calculations and decay chains.",
+   "detail": ""
+  },
+  {
+   "id": "chem:171",
+   "text": "D. Periodicity and the Periodic Table",
+   "detail": ""
+  },
+  {
+   "id": "chem:172",
+   "text": "Trends & Underlying Causes",
+   "detail": ""
+  },
+  {
+   "id": "chem:173",
+   "text": "Slater’s rules for Z_eff.",
+   "detail": ""
+  },
+  {
+   "id": "chem:174",
+   "text": "Lanthanide contraction and its effect on chemistry of 4d/5d metals.",
+   "detail": ""
+  },
+  {
+   "id": "chem:175",
+   "text": "Anomalous electron configurations (Cr, Cu, Pd, Pt).",
+   "detail": ""
+  },
+  {
+   "id": "chem:176",
+   "text": "Group-Specific Chemistry (descriptive)",
+   "detail": ""
+  },
+  {
+   "id": "chem:177",
+   "text": "Alkali vs alkaline earth reactivity.",
+   "detail": ""
+  },
+  {
+   "id": "chem:178",
+   "text": "Halogen interhalogen compounds.",
+   "detail": ""
+  },
+  {
+   "id": "chem:179",
+   "text": "Noble gas compounds (XeF₂, XeO₄).",
+   "detail": ""
+  },
+  {
+   "id": "chem:180",
+   "text": "E. Chemical Bonding",
+   "detail": ""
+  },
+  {
+   "id": "chem:181",
+   "text": "Classical Theories",
+   "detail": ""
+  },
+  {
+   "id": "chem:182",
+   "text": "Valence bond theory; hybridization (sp, sp², sp³, dsp², d²sp³).",
+   "detail": ""
+  },
+  {
+   "id": "chem:183",
+   "text": "VSEPR: AXE notation, lone-pair repulsion hierarchies.",
+   "detail": ""
+  },
+  {
+   "id": "chem:184",
+   "text": "Molecular Orbital Theory",
+   "detail": ""
+  },
+  {
+   "id": "chem:185",
+   "text": "Energy ordering in homonuclear diatomics (B₂ vs O₂).",
+   "detail": ""
+  },
+  {
+   "id": "chem:186",
+   "text": "Bond order, paramagnetism.",
+   "detail": ""
+  },
+  {
+   "id": "chem:187",
+   "text": "Intermolecular Forces",
+   "detail": ""
+  },
+  {
+   "id": "chem:188",
+   "text": "London dispersion, dipole–dipole, hydrogen bonding.",
+   "detail": ""
+  },
+  {
+   "id": "chem:189",
+   "text": "van der Waals equation and derivation.",
+   "detail": ""
+  },
+  {
+   "id": "chem:190",
+   "text": "F. Stoichiometry & Chemical Calculations",
+   "detail": ""
+  },
+  {
+   "id": "chem:191",
+   "text": "Gas Stoichiometry",
+   "detail": ""
+  },
+  {
+   "id": "chem:192",
+   "text": "Dalton’s law of partial pressures.",
+   "detail": ""
+  },
+  {
+   "id": "chem:193",
+   "text": "Graham’s law of effusion and kinetic molecular theory.",
+   "detail": ""
+  },
+  {
+   "id": "chem:194",
+   "text": "Solution Concentration Scales",
+   "detail": ""
+  },
+  {
+   "id": "chem:195",
+   "text": "Molarity, molality, mole fraction, normality.",
+   "detail": ""
+  },
+  {
+   "id": "chem:196",
+   "text": "ppm, ppb, pph (parts per hundred).",
+   "detail": ""
+  },
+  {
+   "id": "chem:197",
+   "text": "Titrimetry & Gravimetry",
+   "detail": ""
+  },
+  {
+   "id": "chem:198",
+   "text": "Primary standards, end-point detection, common indicators.",
+   "detail": ""
+  },
+  {
+   "id": "chem:199",
+   "text": "Constant-mass drying, weighing errors.",
+   "detail": ""
+  },
+  {
+   "id": "chem:200",
+   "text": "G. Chemical Reactions & Energy",
+   "detail": ""
+  },
+  {
+   "id": "chem:201",
+   "text": "Types of Reactions",
+   "detail": ""
+  },
+  {
+   "id": "chem:202",
+   "text": "Combination, decomposition, single-replacement, double-replacement.",
+   "detail": ""
+  },
+  {
+   "id": "chem:203",
+   "text": "Redox balancing in acidic vs basic solution.",
+   "detail": ""
+  },
+  {
+   "id": "chem:204",
+   "text": "Thermochemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:205",
+   "text": "Hess’s law, standard enthalpies of formation.",
+   "detail": ""
+  },
+  {
+   "id": "chem:206",
+   "text": "Bond enthalpy calculations.",
+   "detail": ""
+  },
+  {
+   "id": "chem:207",
+   "text": "Enthalpy vs internal energy; PV work.",
+   "detail": ""
+  },
+  {
+   "id": "chem:208",
+   "text": "H. Introduction to Chemical Kinetics",
+   "detail": ""
+  },
+  {
+   "id": "chem:209",
+   "text": "Rate laws, differential vs integrated rate equations.",
+   "detail": ""
+  },
+  {
+   "id": "chem:210",
+   "text": "Determination of reaction order (method of initial rates).",
+   "detail": ""
+  },
+  {
+   "id": "chem:211",
+   "text": "Collision theory and activation energy.",
+   "detail": ""
+  },
+  {
+   "id": "chem:212",
+   "text": "I. Basic Equilibria",
+   "detail": ""
+  },
+  {
+   "id": "chem:213",
+   "text": "Le Châtelier’s principle with quantitative examples.",
+   "detail": ""
+  },
+  {
+   "id": "chem:214",
+   "text": "Equilibrium constant expressions (Kc, Kp).",
+   "detail": ""
+  },
+  {
+   "id": "chem:215",
+   "text": "Relationship between K and ΔG°.",
+   "detail": ""
+  },
+  {
+   "id": "chem:216",
+   "text": "J. Foundations of Acids & Bases",
+   "detail": ""
+  },
+  {
+   "id": "chem:217",
+   "text": "Arrhenius, Brønsted–Lowry, and Lewis definitions.",
+   "detail": ""
+  },
+  {
+   "id": "chem:218",
+   "text": "Strong vs weak acids; Ka, pKa, polyprotic systems.",
+   "detail": ""
+  },
+  {
+   "id": "chem:219",
+   "text": "Buffers and Henderson–Hasselbalch equation.",
+   "detail": ""
+  },
+  {
+   "id": "chem:220",
+   "text": "K. Early Electrochemistry",
+   "detail": ""
+  },
+  {
+   "id": "chem:221",
+   "text": "Redox half-reactions, standard electrode potentials.",
+   "detail": ""
+  },
+  {
+   "id": "chem:222",
+   "text": "Galvanic vs electrolytic cells, Nernst equation basics.",
+   "detail": ""
+  }
+ ],
+ "hist": [
+  {
+   "id": "hist:1",
+   "text": "Role of DNA in determining nature, characteristics, behaviour",
+   "detail": ""
+  },
+  {
+   "id": "hist:2",
+   "text": "Common DNA line - parents, grand parents, all beings",
+   "detail": ""
+  },
+  {
+   "id": "hist:3",
+   "text": "Your History",
+   "detail": ""
+  },
+  {
+   "id": "hist:4",
+   "text": "Memory & its fundamanetals",
+   "detail": ""
+  },
+  {
+   "id": "hist:5",
+   "text": "Distortions in Memory - History",
+   "detail": ""
+  },
+  {
+   "id": "hist:6",
+   "text": "1. Pre-history & Human Origins",
+   "detail": ""
+  },
+  {
+   "id": "hist:7",
+   "text": "Evolution of Homo sapiens",
+   "detail": ""
+  },
+  {
+   "id": "hist:8",
+   "text": "Paleolithic societies: hunter–gatherers, stone tools, art (Lascaux, Chauvet).",
+   "detail": ""
+  },
+  {
+   "id": "hist:9",
+   "text": "Neolithic Revolution: domestication of plants and animals, first permanent settlements (Çatalhöyük, Jericho).",
+   "detail": ""
+  },
+  {
+   "id": "hist:10",
+   "text": "Early metallurgy: copper, bronze.",
+   "detail": ""
+  },
+  {
+   "id": "hist:11",
+   "text": "Indian Subcontinent prehistoric",
+   "detail": ""
+  },
+  {
+   "id": "hist:12",
+   "text": "0) Fresh digs & rewrites (last few years)",
+   "detail": ""
+  },
+  {
+   "id": "hist:13",
+   "text": "Ancient DNA & South Asia.",
+   "detail": ""
+  },
+  {
+   "id": "hist:14",
+   "text": "• A Harappan genome from Rakhigarhi showed no Steppe pastoralist ancestry in that individual; big for timing debates on Indo-Aryan languages (2019). Cell",
+   "detail": ""
+  },
+  {
+   "id": "hist:15",
+   "text": "• Broader aDNA work (523 ancient genomes) mapped South Asian ancestry as gradients of Iranian-related + Southeast Asian–related hunter-gatherers, with Steppe-related ancestry arriving after the Indus ",
+   "detail": ""
+  },
+  {
+   "id": "hist:16",
+   "text": "Sinauli “chariots” (UP). Bronze-Age burials with copper-covered carts (c. 1850–1550 BCE). Scholars dispute whether they’re true horse-drawn chariots or ox-carts. Treat as provisional. Wikipedia",
+   "detail": ""
+  },
+  {
+   "id": "hist:17",
+   "text": "Keeladi/Keeladi–Kondagai (TN). Urban features and Tamil-Brahmi material; radiocarbon points to a 6th century BCE horizon, though the earliest script dating is debated and some contexts are mixed. (New",
+   "detail": ""
+  },
+  {
+   "id": "hist:18",
+   "text": "Possible Saraswati palaeo-channel (Rajasthan, 2024–25). ASI reported a 23 m-deep palaeochannel under Bahaj village; potentially big if confirmed—but still early days. The Times of India",
+   "detail": ""
+  },
+  {
+   "id": "hist:19",
+   "text": "Gandhāran birch-bark scrolls (1st–3rd c. CE). The 1990s–present decipherment of the oldest Buddhist manuscripts continues to reshape how and where Buddhism spread (Gāndhārī/Kharoṣṭhī). Wikipedia+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:20",
+   "text": "Global benchmarkers (context).",
+   "detail": ""
+  },
+  {
+   "id": "hist:21",
+   "text": "• Oldest known wooden structure, Zambia ~476,000 years (2023): pushes hominin tech back—affects deep prehistory narratives. Nature+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:22",
+   "text": "• Lidar mega-surveys keep rewriting Mesoamerican urbanism (2023–25).",
+   "detail": ""
+  },
+  {
+   "id": "hist:23",
+   "text": "Indian Subcontinent History",
+   "detail": ""
+  },
+  {
+   "id": "hist:24",
+   "text": "1) Indian & subcontinental history (wide + deep, with fault lines noted)",
+   "detail": ""
+  },
+  {
+   "id": "hist:25",
+   "text": "A. Deep Prehistory → Neolithic",
+   "detail": ""
+  },
+  {
+   "id": "hist:26",
+   "text": "Earliest humans in South Asia; microlithic traditions; domestication packages (millets, rice). On rice: indica domestication involves introgression and hybrid histories—don’t oversimplify. PNAS+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:27",
+   "text": "B. Indus/Harappan Civilization (c. 2600–1900 BCE core)",
+   "detail": ""
+  },
+  {
+   "id": "hist:28",
+   "text": "Urbanism (Mohenjo-daro, Harappa, Dholavira), water systems, standardized weights, trade to Oman/Mesopotamia.",
+   "detail": ""
+  },
+  {
+   "id": "hist:29",
+   "text": "Script undeciphered; Dravidian/other hypotheses exist.",
+   "detail": ""
+  },
+  {
+   "id": "hist:30",
+   "text": "aDNA: Rakhigarhi individual points to no Steppe ancestry in the urban phase; later Steppe ancestry enters post-IVC. Cell+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:31",
+   "text": "C. Post-Harappan & Early Vedic / Iron Age (c. 1900–600 BCE)",
+   "detail": ""
+  },
+  {
+   "id": "hist:32",
+   "text": "Regional cultures (PGW, NBPW), early iron, chiefdoms → mahājanapadas.",
+   "detail": ""
+  },
+  {
+   "id": "hist:33",
+   "text": "Sinauli material (see above) belongs around Late Harappan/Ochre-Coloured Pottery/Copper Hoard contexts; avoid over-reading. Wikipedia",
+   "detail": ""
+  },
+  {
+   "id": "hist:34",
+   "text": "D. Urban South of the Vindhyas early horizon",
+   "detail": ""
+  },
+  {
+   "id": "hist:35",
+   "text": "Keeladi/Keeladi–Kondagai complex: craft, brick structures, water works; claims of early Tamil-Brahmi use before 3rd c. BCE are contested; settle on “6th c. BCE urban horizon; earliest writing remains ",
+   "detail": ""
+  },
+  {
+   "id": "hist:36",
+   "text": "E. Imperial formations & cross-roads (c. 6th–2nd c. BCE)",
+   "detail": ""
+  },
+  {
+   "id": "hist:37",
+   "text": "Achaemenid satrapies in NW; Aramaic administration intersects with Indic worlds. Kharosthi script is widely held to derive from Imperial Aramaic under the Achaemenids. Wikipedia",
+   "detail": ""
+  },
+  {
+   "id": "hist:38",
+   "text": "Mauryan Empire; Ashoka’s edicts in Prakrit, Greek, Aramaic (Kandahar bilingual & Greek edicts) demonstrate direct messaging to Hellenic audiences. edizionicafoscari.unive.it+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:39",
+   "text": "F. Hellenistic, Indo-Greek, Saka, Kushan interfaces (2nd c. BCE–3rd c. CE)",
+   "detail": ""
+  },
+  {
+   "id": "hist:40",
+   "text": "Taxila/Gandhara as hubs; Greco-Buddhist art fuses Hellenistic forms with Buddhist iconography; Kushan coinage, Buddhist patronage. Encyclopedia Britannica+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:41",
+   "text": "Gandhāran manuscripts (see above) anchor early Buddhist textuality in the NW. Wikipedia",
+   "detail": ""
+  },
+  {
+   "id": "hist:42",
+   "text": "G. Early Historic trade webs (1st–3rd c. CE)",
+   "detail": ""
+  },
+  {
+   "id": "hist:43",
+   "text": "Indo-Roman trade via Red Sea ports; Muziris Papyrus (Greek contract) evidences pepper/ivory shipments and legal frameworks; Berenike yields 7.5 kg pepper from India in a single jar. Oxford Academic+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:44",
+   "text": "H. Classical–Early Medieval (Guptas, Deccan polities, South Indian maritime)",
+   "detail": ""
+  },
+  {
+   "id": "hist:45",
+   "text": "Sanskrit cosmopolis; math/astronomy (Āryabhaṭa, Varāhamihira, Brahmagupta); Sangam polities & Indian Ocean commerce.",
+   "detail": ""
+  },
+  {
+   "id": "hist:46",
+   "text": "Transmission outward picks up (see §3).",
+   "detail": ""
+  },
+  {
+   "id": "hist:47",
+   "text": "I. Islamic & Sultanate period; regional states (1200–1526)",
+   "detail": ""
+  },
+  {
+   "id": "hist:48",
+   "text": "Persianate court culture; regional vernaculars; technology & agrarian changes; coastal Muslim merchant networks.",
+   "detail": ""
+  },
+  {
+   "id": "hist:49",
+   "text": "J. Mughal–Early Modern (1526–1857)",
+   "detail": ""
+  },
+  {
+   "id": "hist:50",
+   "text": "High empire → regionalization; Deccan sultanates, Marathas, Sikhs; Indo-Persian knowledge ecologies; global silver flows via Indian textiles.",
+   "detail": ""
+  },
+  {
+   "id": "hist:51",
+   "text": "K. Colonial, National, Contemporary (1857–present)",
+   "detail": ""
+  },
+  {
+   "id": "hist:52",
+   "text": "Company → Crown; railways, famines, reform.",
+   "detail": ""
+  },
+  {
+   "id": "hist:53",
+   "text": "Nationalism, Partition, Republic; Green Revolution, liberalisation, tech sector, 21st-century geopolitics.",
+   "detail": ""
+  },
+  {
+   "id": "hist:54",
+   "text": "Meta-point: I’m not listing every dynasty and inscription—that’s a gazetteer. What you get here is the load-bearing scaffolding and where new evidence is moving needles.",
+   "detail": ""
+  },
+  {
+   "id": "hist:55",
+   "text": "India-centric drill-downs you can expand from here",
+   "detail": ""
+  },
+  {
+   "id": "hist:56",
+   "text": "If you want to go even deeper, pick a lane and I’ll open it up like we did with chemistry. Examples:",
+   "detail": ""
+  },
+  {
+   "id": "hist:57",
+   "text": "Epigraphy pipeline: Asokan edict corpora; Brahmi/Kharosthi palaeography; Prakrit vs Sanskrit inscriptional shifts; Greek/Aramaic edicts. edizionicafoscari.unive.it+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:58",
+   "text": "Astronomy/mathematics: Āryabhaṭa → Brahmagupta → Arabic zijes → Latin science; numerals and algorithms via al-Khwarizmi; zero’s textual archaeology. Wikipedia+2Encyclopedia Britannica+2",
+   "detail": ""
+  },
+  {
+   "id": "hist:59",
+   "text": "Buddhist textuality & routes: Gandhāran scrolls; Taxila monastic education; Silk Road diffusion. Wikipedia+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:60",
+   "text": "Indian Ocean trade: Periplus, Muziris Papyrus, ports (Bharuch, Muziris, Arikamedu), Red Sea hubs (Berenike/Myos Hormos). Cambridge University Press & Assessment+1",
+   "detail": ""
+  },
+  {
+   "id": "hist:61",
+   "text": "Major Indian Kingdoms and Dynasties",
+   "detail": ""
+  },
+  {
+   "id": "hist:62",
+   "text": "Nanda – 345 BCE – 321 BCE – 24 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:63",
+   "text": "Maurya – 321 BCE – 185 BCE – 136 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:64",
+   "text": "Shunga – 185 BCE – 73 BCE – 112 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:65",
+   "text": "Kanva – 73 BCE – 28 BCE – 45 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:66",
+   "text": "Satavahana – c. 100 BCE – c. 250 CE – ~350 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:67",
+   "text": "Gupta – c. 320 CE – c. 550 CE – ~230 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:68",
+   "text": "Pala (Bengal/Bihar) – c. 750 CE – c. 1174 CE – ~424 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:69",
+   "text": "Gurjara-Pratihara – c. 650 CE – c. 1036 CE – ~386 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:70",
+   "text": "Chalukya (Early/Badami) – 543 CE – 753 CE – 210 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:71",
+   "text": "Chalukya (Western) – 973 CE – 1189 CE – 216 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:72",
+   "text": "Rashtrakuta – 753 CE – 982 CE – 229 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:73",
+   "text": "Kakatiya – 1163 CE – 1323 CE – 160 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:74",
+   "text": "Vijayanagara – 1336 CE – 1646 CE – 310 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:75",
+   "text": "Bahmani Sultanate – 1347 CE – 1527 CE – 180 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:76",
+   "text": "Delhi Sultanates – 1206 CE – 1526 CE – 320 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:77",
+   "text": "Mughal Empire – 1526 CE – 1857 CE – 331 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:78",
+   "text": "Maratha Confederacy – 1674 CE – 1818 CE – 144 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:79",
+   "text": "Sikh Empire – 1799 CE – 1849 CE – 50 yrs",
+   "detail": ""
+  },
+  {
+   "id": "hist:80",
+   "text": "Pandya – Early/Sangam c. 3rd cent BCE – c. 3rd cent CE (~500 yrs); Later/Medieval c. 7th cent CE – c. 14th cent CE (~700 yrs) – ~1,200 yrs total",
+   "detail": ""
+  },
+  {
+   "id": "hist:81",
+   "text": "Chera – Early c. 3rd cent BCE – c. 3rd cent CE (~500 yrs); Later/Kulasekhara c. 8th cent CE – c. 12th cent CE (~400 yrs) – ~900 yrs total",
+   "detail": ""
+  },
+  {
+   "id": "hist:82",
+   "text": "Chola – Early c. 3rd cent BCE – c. 3rd cent CE (~500 yrs); Imperial/Medieval c. 850 CE – 1279 CE (~429 yrs) – ~930 yrs total",
+   "detail": ""
+  },
+  {
+   "id": "hist:83",
+   "text": "Other Ancient Civilizations",
+   "detail": ""
+  },
+  {
+   "id": "hist:84",
+   "text": "Mesopotamia – Sumer, Akkad, Babylon, Assyria; writing systems (cuneiform), law codes (Hammurabi).",
+   "detail": ""
+  },
+  {
+   "id": "hist:85",
+   "text": "Ancient Egypt – Old, Middle, New Kingdoms; pyramids, pharaohs, religious beliefs.",
+   "detail": ""
+  },
+  {
+   "id": "hist:86",
+   "text": "Indus Valley Civilisation – urban planning, trade networks.",
+   "detail": ""
+  },
+  {
+   "id": "hist:87",
+   "text": "Ancient China – Shang and Zhou dynasties; Mandate of Heaven.",
+   "detail": ""
+  },
+  {
+   "id": "hist:88",
+   "text": "Mesoamerica & Andean cultures – Olmec, Chavín.",
+   "detail": ""
+  },
+  {
+   "id": "hist:89",
+   "text": "Classical Mediterranean",
+   "detail": ""
+  },
+  {
+   "id": "hist:90",
+   "text": "Greece: polis, Persian wars, Athens vs Sparta, Hellenistic era.",
+   "detail": ""
+  },
+  {
+   "id": "hist:91",
+   "text": "Rome: Republic, Empire, law, Christianity’s rise.",
+   "detail": ""
+  },
+  {
+   "id": "hist:92",
+   "text": "3. Classical & Post-Classical Eras (c. 500 BCE–1500 CE)",
+   "detail": ""
+  },
+  {
+   "id": "hist:93",
+   "text": "Mauryan & Gupta empires in India.",
+   "detail": ""
+  },
+  {
+   "id": "hist:94",
+   "text": "Qin and Han China; Confucian bureaucracy.",
+   "detail": ""
+  },
+  {
+   "id": "hist:95",
+   "text": "Persian Achaemenids, Parthians, Sassanids.",
+   "detail": ""
+  },
+  {
+   "id": "hist:96",
+   "text": "Early African kingdoms: Kush, Axum.",
+   "detail": ""
+  },
+  {
+   "id": "hist:97",
+   "text": "Byzantine Empire and Eastern Orthodox world.",
+   "detail": ""
+  },
+  {
+   "id": "hist:98",
+   "text": "Rise and spread of Islam: Rashidun, Umayyad, Abbasid Caliphates.",
+   "detail": ""
+  },
+  {
+   "id": "hist:99",
+   "text": "Medieval Europe: feudalism, the Church, Crusades, scholasticism.",
+   "detail": ""
+  },
+  {
+   "id": "hist:100",
+   "text": "Mongol Empire and its Eurasian impact.",
+   "detail": ""
+  },
+  {
+   "id": "hist:101",
+   "text": "Pre-Columbian Americas: Maya, Aztec, Inca.",
+   "detail": ""
+  },
+  {
+   "id": "hist:102",
+   "text": "4. Early Modern World (c. 1500–1800)",
+   "detail": ""
+  },
+  {
+   "id": "hist:103",
+   "text": "Renaissance and Reformation in Europe.",
+   "detail": ""
+  },
+  {
+   "id": "hist:104",
+   "text": "Age of Exploration: Iberian maritime empires, Columbian exchange.",
+   "detail": ""
+  },
+  {
+   "id": "hist:105",
+   "text": "Scientific Revolution and Enlightenment.",
+   "detail": ""
+  },
+  {
+   "id": "hist:106",
+   "text": "Mughal India, Safavid Persia, Ottoman Empire.",
+   "detail": ""
+  },
+  {
+   "id": "hist:107",
+   "text": "Tokugawa Japan, Ming–Qing transition in China.",
+   "detail": ""
+  },
+  {
+   "id": "hist:108",
+   "text": "Trans-Atlantic slave trade and Atlantic economies.",
+   "detail": ""
+  },
+  {
+   "id": "hist:109",
+   "text": "Early capitalism and mercantilism.",
+   "detail": ""
+  },
+  {
+   "id": "hist:110",
+   "text": "5. The Long 19th Century (c. 1780–1914)",
+   "detail": ""
+  },
+  {
+   "id": "hist:111",
+   "text": "American and French Revolutions; Napoleonic Wars.",
+   "detail": ""
+  },
+  {
+   "id": "hist:112",
+   "text": "Industrial Revolution: technology, urbanisation, labour movements.",
+   "detail": ""
+  },
+  {
+   "id": "hist:113",
+   "text": "Nationalism: unifications of Italy and Germany.",
+   "detail": ""
+  },
+  {
+   "id": "hist:114",
+   "text": "Imperialism and the “Scramble for Africa”.",
+   "detail": ""
+  },
+  {
+   "id": "hist:115",
+   "text": "Meiji Restoration in Japan.",
+   "detail": ""
+  },
+  {
+   "id": "hist:116",
+   "text": "Social reform movements: abolition, women’s suffrage.",
+   "detail": ""
+  },
+  {
+   "id": "hist:117",
+   "text": "Scientific and intellectual shifts: Darwin, Marx, positivism.",
+   "detail": ""
+  },
+  {
+   "id": "hist:118",
+   "text": "6. The 20th Century",
+   "detail": ""
+  },
+  {
+   "id": "hist:119",
+   "text": "World War I: causes, trench warfare, Versailles Treaty.",
+   "detail": ""
+  },
+  {
+   "id": "hist:120",
+   "text": "Russian Revolution and Soviet Union.",
+   "detail": ""
+  },
+  {
+   "id": "hist:121",
+   "text": "Inter-war period: Great Depression, rise of fascism.",
+   "detail": ""
+  },
+  {
+   "id": "hist:122",
+   "text": "World War II: Axis vs Allies, Holocaust, atomic bomb.",
+   "detail": ""
+  },
+  {
+   "id": "hist:123",
+   "text": "Decolonisation: India, Africa, Southeast Asia.",
+   "detail": ""
+  },
+  {
+   "id": "hist:124",
+   "text": "Cold War: US–USSR rivalry, proxy wars, space race.",
+   "detail": ""
+  },
+  {
+   "id": "hist:125",
+   "text": "Civil rights, feminist, and liberation movements worldwide.",
+   "detail": ""
+  },
+  {
+   "id": "hist:126",
+   "text": "7. The Contemporary World (1970s–present)",
+   "detail": ""
+  },
+  {
+   "id": "hist:127",
+   "text": "End of the Cold War; collapse of the USSR.",
+   "detail": ""
+  },
+  {
+   "id": "hist:128",
+   "text": "Globalisation: trade liberalisation, internet revolution.",
+   "detail": ""
+  },
+  {
+   "id": "hist:129",
+   "text": "Rise of China and emerging economies.",
+   "detail": ""
+  },
+  {
+   "id": "hist:130",
+   "text": "Environmental history: climate change, sustainability debates.",
+   "detail": ""
+  },
+  {
+   "id": "hist:131",
+   "text": "Terrorism and 9/11, Middle Eastern conflicts.",
+   "detail": ""
+  },
+  {
+   "id": "hist:132",
+   "text": "Digital era: social media, information economy.",
+   "detail": ""
+  },
+  {
+   "id": "hist:133",
+   "text": "8. Cross-Cutting Themes",
+   "detail": ""
+  },
+  {
+   "id": "hist:134",
+   "text": "Economic history: agrarian economies, industrial capitalism, global trade systems.",
+   "detail": ""
+  },
+  {
+   "id": "hist:135",
+   "text": "Intellectual history: philosophies, religions, science and technology.",
+   "detail": ""
+  },
+  {
+   "id": "hist:136",
+   "text": "Social history: gender roles, family structures, class relations.",
+   "detail": ""
+  },
+  {
+   "id": "hist:137",
+   "text": "Environmental & climate history.",
+   "detail": ""
+  },
+  {
+   "id": "hist:138",
+   "text": "History of medicine and public health.",
+   "detail": ""
+  },
+  {
+   "id": "hist:139",
+   "text": "Historiography: schools of thought (Marxist, Annales, post-colonial, microhistory).",
+   "detail": ""
+  }
+ ],
+ "phil": [
+  {
+   "id": "phil:1",
+   "text": "Existence",
+   "detail": ""
+  },
+  {
+   "id": "phil:2",
+   "text": "Waking Life, Dream, Imagination",
+   "detail": ""
+  },
+  {
+   "id": "phil:3",
+   "text": "Perspectives",
+   "detail": ""
+  },
+  {
+   "id": "phil:4",
+   "text": "Reality",
+   "detail": ""
+  },
+  {
+   "id": "phil:5",
+   "text": "Memory",
+   "detail": ""
+  },
+  {
+   "id": "phil:6",
+   "text": "Thought",
+   "detail": ""
+  },
+  {
+   "id": "phil:7",
+   "text": "Subjective Experience",
+   "detail": ""
+  },
+  {
+   "id": "phil:8",
+   "text": "Consciousness",
+   "detail": ""
+  },
+  {
+   "id": "phil:9",
+   "text": "Awareness",
+   "detail": ""
+  },
+  {
+   "id": "phil:10",
+   "text": "Ego",
+   "detail": ""
+  },
+  {
+   "id": "phil:11",
+   "text": "Oneness",
+   "detail": ""
+  },
+  {
+   "id": "phil:12",
+   "text": "Known, Unknown",
+   "detail": ""
+  },
+  {
+   "id": "phil:13",
+   "text": "Knowledge",
+   "detail": ""
+  },
+  {
+   "id": "phil:14",
+   "text": "Good, Bad, Right, Wrong",
+   "detail": ""
+  },
+  {
+   "id": "phil:15",
+   "text": "Truth",
+   "detail": ""
+  },
+  {
+   "id": "phil:16",
+   "text": "Love",
+   "detail": ""
+  },
+  {
+   "id": "phil:17",
+   "text": "Mind and body",
+   "detail": ""
+  },
+  {
+   "id": "phil:18",
+   "text": "Identity and what makes “me”",
+   "detail": ""
+  },
+  {
+   "id": "phil:19",
+   "text": "Time and change",
+   "detail": ""
+  },
+  {
+   "id": "phil:20",
+   "text": "Space and infinity",
+   "detail": ""
+  },
+  {
+   "id": "phil:21",
+   "text": "Cause and effect",
+   "detail": ""
+  },
+  {
+   "id": "phil:22",
+   "text": "Free will and choice",
+   "detail": ""
+  },
+  {
+   "id": "phil:23",
+   "text": "Happiness",
+   "detail": ""
+  },
+  {
+   "id": "phil:24",
+   "text": "what makes life meaningful",
+   "detail": ""
+  },
+  {
+   "id": "phil:25",
+   "text": "The value of nature and animals",
+   "detail": ""
+  },
+  {
+   "id": "phil:26",
+   "text": "Accountibility",
+   "detail": ""
+  },
+  {
+   "id": "phil:27",
+   "text": "The meaning of language and communication",
+   "detail": ""
+  },
+  {
+   "id": "phil:28",
+   "text": "Technology and its impact",
+   "detail": ""
+  },
+  {
+   "id": "phil:29",
+   "text": "Death and what comes after",
+   "detail": ""
+  },
+  {
+   "id": "phil:30",
+   "text": "Future",
+   "detail": ""
+  },
+  {
+   "id": "phil:31",
+   "text": "Karma",
+   "detail": ""
+  },
+  {
+   "id": "phil:32",
+   "text": "Objectivity",
+   "detail": ""
+  },
+  {
+   "id": "phil:33",
+   "text": "Intelligence",
+   "detail": ""
+  },
+  {
+   "id": "phil:34",
+   "text": "Delusion",
+   "detail": ""
+  },
+  {
+   "id": "phil:35",
+   "text": "Time",
+   "detail": ""
+  },
+  {
+   "id": "phil:36",
+   "text": "Change",
+   "detail": ""
+  },
+  {
+   "id": "phil:37",
+   "text": "Past\\",
+   "detail": ""
+  },
+  {
+   "id": "phil:38",
+   "text": "Future",
+   "detail": ""
+  },
+  {
+   "id": "phil:39",
+   "text": "Universals & Particulars",
+   "detail": ""
+  },
+  {
+   "id": "phil:40",
+   "text": "Mind & Body Relation",
+   "detail": ""
+  },
+  {
+   "id": "phil:41",
+   "text": "Possibility",
+   "detail": ""
+  },
+  {
+   "id": "phil:42",
+   "text": "Necessity",
+   "detail": ""
+  },
+  {
+   "id": "phil:43",
+   "text": "Rationality",
+   "detail": ""
+  },
+  {
+   "id": "phil:44",
+   "text": "Unprecitabilty",
+   "detail": ""
+  },
+  {
+   "id": "phil:45",
+   "text": "Inference",
+   "detail": ""
+  },
+  {
+   "id": "phil:46",
+   "text": "Duty, Virtue",
+   "detail": ""
+  },
+  {
+   "id": "phil:47",
+   "text": "Honesty",
+   "detail": ""
+  },
+  {
+   "id": "phil:48",
+   "text": "Power",
+   "detail": ""
+  },
+  {
+   "id": "phil:49",
+   "text": "Freedom",
+   "detail": ""
+  },
+  {
+   "id": "phil:50",
+   "text": "Emotion",
+   "detail": ""
+  },
+  {
+   "id": "phil:51",
+   "text": "AI",
+   "detail": ""
+  },
+  {
+   "id": "phil:52",
+   "text": "Meaning",
+   "detail": ""
+  },
+  {
+   "id": "phil:53",
+   "text": "Reference",
+   "detail": ""
+  },
+  {
+   "id": "phil:54",
+   "text": "Language & Thought",
+   "detail": ""
+  },
+  {
+   "id": "phil:55",
+   "text": "Access to Resources",
+   "detail": ""
+  },
+  {
+   "id": "phil:56",
+   "text": "Values, Morals",
+   "detail": ""
+  }
+ ],
+ "sub": [
+  {
+   "id": "sub:1",
+   "text": "Pre-Harappan & Early Regional Cultures (Prior to Urbanization) (7000 BCE – 2500 BCE)",
+   "detail": "Balochistan | 4500.0 | - Saraswati River\n- Evidence of Long distance trade \n- domestication of cattle, sheep, goats. Early pottery, mud-brick houses, | Primarily agricultural and pastoral. People lived in mud-brick or wattle-and-daub houses, often clustered into small villages. Evidence of early pottery production, rudimentary tools, and domestication of animals (cattle, sheep, goat) and cultivation of crops (barley, wheat)."
+  },
+  {
+   "id": "sub:2",
+   "text": "Ahar-Banas Culture (3000 BCE – 1500 BCE)",
+   "detail": "Rajathan | 1500.0 | Copper Age culture with distinct pottery and architecture\nSettled agricultural and pastoral communities, living in mud-brick and stone houses. Known for copper metallurgy. Distinctive black-and-red ware pottery. Practiced mixed farming and animal husbandry. Villages were often larger than earlier Pre-Harappan sites."
+  },
+  {
+   "id": "sub:3",
+   "text": "Regional cultures of Haryana (4500 BCE – 900 BCE)",
+   "detail": "- Walled settlements, distinct pottery styles \n- 'fish-scale' and 'pipal leaf' motifs \n- Evidence of early metallurgy (copper | Kot Diji, Amri, Kalibangan, Rakhigarhi,Bhirrana | A blend of pre-Harappan, Early Harappan, and early Mature Harappan lifestyles. Early phases saw pastoral and agricultural villages. Later, significant urbanization with advanced town planning, well-structured houses, and craft specialization, especially in sites like Rakhigarhi and Bhirrana."
+  },
+  {
+   "id": "sub:4",
+   "text": "Regional cultures of South India\nKeeladi Civilization (<3000 BCE – 2nd CE)",
+   "detail": "- Agro-pastoral communities\n- Extensive internal trade of resources (e.g., granite, precious stones, timber\n-  early coastal trade with other regions of the subcontinent or beyond, given the later maritime prowess of the Sangam era\n- arger Neolithic sites might have had significant populations and social complexity that bordered on proto-urbanism, with specialized craft areas and communal structures\n- Evidence of advanced burial practices and megalithic traditions that would flourish later suggest complex belief systems, social hierarchies, and communal labor organization in this perio\n- sophi"
+  },
+  {
+   "id": "sub:5",
+   "text": "Regional cultures of Central India & Deccan (2500 BCE – 700 BCE)",
+   "detail": "- Chalcolithic Cultures\n- distinct pottery (black-and-red ware), copper tools, mud-daub houses, sometimes fortified settlements. \n- Cultivation of cereals. | Malwa, Jorwe, Kayatha. | Settled agro-pastoral communities living in circular or rectangular huts, often organized into villages. Practiced mixed farming and animal husbandry (cattle, sheep, goat). Distinctive painted pottery."
+  },
+  {
+   "id": "sub:6",
+   "text": "Regional cultures of East India (2501 BCE – 701 BCE)",
+   "detail": "- Early riverine trade networks along the Ganga and its tributaries, connecting different agricultural communities. \n- Perhaps a more advanced knowledge of local flora and fauna, contributing to early pharmacopeia \n- polished stone axes, bone tools, coarse pottery, rice cultivation | Chirand, Kuchai, Sankarjang | Primarily forest-dwelling and riverine communities, practicing a mix of incipient agriculture, hunting, gathering, and fishing. Lived in small settlements, often characterized by Neolithic tool traditions."
+  },
+  {
+   "id": "sub:7",
+   "text": "IVC (3300 BCE – 1300 BCE)",
+   "detail": "- city planning, drainage, and script | Highly urbanized grid cities; brick multi-storey houses; private wells/baths; specialized crafts; extensive agriculture; robust trade; relatively peaceful"
+  },
+  {
+   "id": "sub:8",
+   "text": "Vedic Period (1500 BCE – 600 BCE)",
+   "detail": "900.0 | - Formation of early Indo-Aryan cultures, composition of the Vedas, development of social structures | Early: semi-nomadic pastoral clans; Later: settled agrarian villages; tribal society (jana → janapadas); cattle central"
+  },
+  {
+   "id": "sub:9",
+   "text": "Mahajanapadas (North India) (600 BCE – 322 BCE)",
+   "detail": "280.0 | Sixteen powerful kingdoms and republics, precursors to larger empires | Second Urbanization; walled cities & big villages; stratified society; guilds; monetized economy; ascetic movements arise"
+  },
+  {
+   "id": "sub:10",
+   "text": "Pandyas (800-600 BCE – 600 CE)",
+   "detail": "2000+ | - Pre peak \n- literary evidence (Sangam texts) and foreign accounts (Megasthenes) , Keeladai\n- pearl trade, maritime prowess, patronage of Tamil literature\n-  early sophisticated governance | Dravidian kingdom; port-city + agrarian mix; maritime-centred; stratified society; distinct southern culture (Sangam)"
+  },
+  {
+   "id": "sub:11",
+   "text": "Cheras (600 BCE – 600 CE)",
+   "detail": "1000+ | - their continuous rule is documented from c. 6th-4th Century BCE | West-coast maritime traders (Kerala); coastal towns + Periyar basin villages; spice cultivation; strong warrior ethos"
+  },
+  {
+   "id": "sub:12",
+   "text": "Cholas (601 BCE – 600 CE)",
+   "detail": "1000+ | Kaveri delta agrarian heartland; bustling towns + villages; structured society; growing maritime tradition"
+  },
+  {
+   "id": "sub:13",
+   "text": "Sangam Period (300 BCE – 300 CE)",
+   "detail": "600.0 | \"Early Sangam (c. 600 BCE - 300 BCE): This phase is primarily reconstructed through archaeological findings and references from external sources (like Ashokan edicts). The societies described in the earliest layers of Sangam literature likely developed during this time.\n\nClassical Sangam (c. 300 BCE - 300 CE): This is the peak period of literary composition and compilation, when the vast majority of the surviving Sangam poetic corpus was created and formally collected.\"\nSangam literature (core): ~100 BCE–250 CE.\n\nBroader “early historic Tamil” use in textbooks: ~300 BCE–300 CE.\n\nWhy da"
+  },
+  {
+   "id": "sub:14",
+   "text": "Magadha Empire (684 BCE – 322 BCE)",
+   "detail": "North India | 360.0 | -  Consolidates power in North India, lays groundwork for Mauryan Empire\n- Haryanka dynasty -> Nanda dynasty overthrown by Maurya | Agrarian–urban, fortified cities (Rajagriha → Pataliputra); hierarchical with rising merchants/artisans"
+  },
+  {
+   "id": "sub:15",
+   "text": "Maurya Empire (322 BCE – 185 BCE)",
+   "detail": "Pan -South | 137.0 | - First large-scale pan-Indian empire\n- Ashoka's patronage of Buddhism | Vast, centralized state; disciplined admin; big standing army & spy network; major urban centers (Pataliputra)"
+  },
+  {
+   "id": "sub:16",
+   "text": "Satavahana Empire (271 BCE – 220 CE)",
+   "detail": "Deccan & South-Central India | 400.0 | - Bridge between North and South, powerful navy | Deccan bridge culture; urban–rural mix; strong maritime trade; Indo-Dravidian blend"
+  },
+  {
+   "id": "sub:17",
+   "text": "Indo-Greek Kingdoms (180 BCE – 10 CE)",
+   "detail": "Northwest India | 190.0 | - Hellenistic cultural influence. | Hellenistic–Indian fusion in NW; Greek-style urban life blended with local customs/religions"
+  },
+  {
+   "id": "sub:18",
+   "text": "Saka (Indo-Scythian) Kingdoms (1st Century BCE – 4th Century CE)",
+   "detail": "North & Western India | 500.0 | - Central Asian invaders | Central Asian nomad origins; settled in NW/W India; satrapal governance; blend of steppe & Indian culture"
+  },
+  {
+   "id": "sub:19",
+   "text": "Kushan Empire (300 CE – 375 CE)",
+   "detail": "North India, Central Asia | 345.0 | - Major patrons of Buddhism, extensive trade with Rome and China | Central Asian origin; urban hubs (Peshawar, Mathura); diverse traders/artisans/warriors/priests; strong cultural mix (Central Asian–Hellenistic–Indian)"
+  },
+  {
+   "id": "sub:20",
+   "text": "Kalabhra Dynasty (300 CE – 600 CE)",
+   "detail": "South India | 300.0 | - South India, \"Dark Age\" period, highly debated | Poorly documented; overthrew early Chera-Chola-Pandya; likely patrons of Buddhism/Jainism"
+  },
+  {
+   "id": "sub:21",
+   "text": "Gupta Empire (320 CE – 550 CE)",
+   "detail": "North & Central India | 230.0 | - \"Golden Age\" for science, arts, literature, mathematics | “Golden Age”: prosperous, stable, hierarchical; Brahminical revival; arts/science thrive"
+  },
+  {
+   "id": "sub:22",
+   "text": "Vakataka Dynasty (250 CE – 500 CE)",
+   "detail": "Deccan | 250.0 | - Contemporaries of the Guptas, known for art and architecture (Ajanta caves) | Deccan/Central India; stable, agrarian; refined court culture"
+  },
+  {
+   "id": "sub:23",
+   "text": "Kadamba Dynasty (345 CE – 540 CE)",
+   "detail": "Karnataka, South India | 195.0 | Deccan power at Banavasi; efficient administration; Jain & Brahminical patronage"
+  },
+  {
+   "id": "sub:24",
+   "text": "Western Ganga Dynasty (350 CE – 1000 CE)",
+   "detail": "Karnataka, South India | 650.0 | - Significant patrons of Jainism | Karnataka realm (Kolar → Talakadu); Jain patrons; long, steady prosperity"
+  },
+  {
+   "id": "sub:25",
+   "text": "Pallava Dynasty (275 CE – 897 CE)",
+   "detail": "Tamil Nadu, South India | 322.0 | - Architects of Dravidian temple architecture (Mahabalipuram), powerful navy, extensive trade | Kanchipuram center; Tamil–Telugu blend; art-religion-military focus; notable naval outlook"
+  },
+  {
+   "id": "sub:26",
+   "text": "Chalukya Dynasty (543 CE – 12th Century CE)",
+   "detail": "Deccan, Karnataka, Maharashtra | 700+ | - Architectural innovations | Warrior–administrator elites; temple towns (Badami, Aihole, Pattadakal); hierarchical with strong artisan base"
+  },
+  {
+   "id": "sub:27",
+   "text": "Harsha's Empire (606 CE – 647 CE)",
+   "detail": "North India | 41.0 | - Last major native empire in North India before Islamic incursions | Centralized North Indian monarchy centered on Kannauj; Buddhist-leaning, intellectually active courts"
+  },
+  {
+   "id": "sub:28",
+   "text": "Rashtrakuta Dynasty (753 CE – 982 CE)",
+   "detail": "Deccan | 229.0 | - Significant power in the Deccan, built Kailasa Temple at Ellora | Imperial Deccan power (Manyakheta); ambitious, cultured, administratively tight"
+  },
+  {
+   "id": "sub:29",
+   "text": "Pala Empire (750 CE – 1161 CE)",
+   "detail": "Eastern India | 411.0 | - Patrons of Buddhism, established universities | Eastern empire (Bengal–Bihar); stable agrarian core; Buddhist high culture"
+  },
+  {
+   "id": "sub:30",
+   "text": "Gurjara-Pratihara Dynasty (760 CE – 1036 CE)",
+   "detail": "North & West India | 306.0 | - Key in resisting Arab incursions | Kannauj-centered northern power; warrior ethos; Brahminical revival; agrarian prosperity"
+  },
+  {
+   "id": "sub:31",
+   "text": "Imperial Cholas (850 CE – 1279 CE)",
+   "detail": "South India | 429.0 | - Dominant naval power, extensive trade empire, monumental temples | Thanjavur/Gangaikonda Cholapuram hubs; temple-building, maritime trade, disciplined navy, tight admin"
+  },
+  {
+   "id": "sub:32",
+   "text": "Later Pandyas (1150 CE – 1350 CE)",
+   "detail": "South India | 200.0 | - mportant regional power after the Cholas | Madurai resurgence; wealthy, trade-heavy, Tamil cultural core"
+  },
+  {
+   "id": "sub:33",
+   "text": "Ghaznavid Empire (977 CE – 1186 CE)",
+   "detail": "Afghanistan, Persia, parts of Northwest India | 209.0 | - Early Turkic-Persian invasions into India | Turko-Persianate Sunni state (Ghazni → Lahore); militarized, conquest-driven"
+  },
+  {
+   "id": "sub:34",
+   "text": "Delhi Sultanate (1206 CE – 1256 CE)",
+   "detail": "North India | 320.0 | - Establishment of Islamic rule in North India\n- Started with Mamluk Dynasty\n- Battle of Panipat, rise of Mughals\n-Significance: Establishment of Islamic rule in North India | Turko-Afghan Islamic rule over largely non-Muslim populace; big urban hubs (Delhi, Agra, Lahore); Indo-Islamic culture emerges"
+  },
+  {
+   "id": "sub:35",
+   "text": "Kakatiya Dynasty (1083 CE – 1323 CE)",
+   "detail": "Telangana, South India | 240.0 | - Builders of Ramappa Temple | Telugu Deccan power; fortified Warangal; military + irrigation focus; Shaiva patronage"
+  },
+  {
+   "id": "sub:36",
+   "text": "Hoysala Empire (1026 CE – 1046 CE)",
+   "detail": "Karnataka, South India | 320.0 | -  Distinctive temple architecture, patrons of Kannada literature | Karnataka realm; temple-town life (Belur, Halebidu, Somanathapura); ornate art; Vaishnava lean"
+  },
+  {
+   "id": "sub:37",
+   "text": "Vijayanagara Empire (1336 CE – 1646 CE)",
+   "detail": "South India | 310.0 | - Major Hindu empire, renowned for its defense against Deccan Sultanates, elaborate city of Hampi | Massive Hindu bulwark; grand courts; Hampi megacity; high-energy economy"
+  },
+  {
+   "id": "sub:38",
+   "text": "Bahmani Sultanate (1347 CE – 1527 CE)",
+   "detail": "Deccan | 180.0 | - fragmentation into Deccan Sultanates towards end\n- Major Islamic kingdom in the Deccan | First Deccan sultanate; Persianate court; agro-trade economy; war footing vs Vijayanagara"
+  },
+  {
+   "id": "sub:39",
+   "text": "Deccan Sultanates (1527 CE – 1686 CE)",
+   "detail": "Bijapur, Golconda, Ahmednagar, Bidar, Berar | 160.0 | Five successor states (Bijapur, Golconda, Ahmednagar, Bidar, Berar); lavish courts; Deccani high culture"
+  },
+  {
+   "id": "sub:40",
+   "text": "Mughal Empire (1526 CE – 1857 CE)",
+   "detail": "Pan-Indian, initially North | 331.0 | - Startes with Babur\n- Ended formally after sepoy mutiny\n- One of the wealthiest and most powerful empires, grand architecture | Vast Indo-Persianate empire; opulent courts; urban/agrarian powerhouse"
+  },
+  {
+   "id": "sub:41",
+   "text": "Maratha Confederacy (1647 CE – 18181 CE)",
+   "detail": "Western & Central India | 144.0 | Indigenous power that challenged Mughal supremacy | Deccan Hindu warrior state; village agrarian base; hill-fort culture; decentralized under Peshwas"
+  },
+  {
+   "id": "sub:42",
+   "text": "Sikh Empire (1799 CE – 1849 CE)",
+   "detail": "Punjab | 50.0 | - Started with Ranjit Singh\n- annexed by British | Punjab kingdom; militarized, agrarian prosperity; Sikh faith centered (Lahore/Amritsar)"
+  },
+  {
+   "id": "sub:43",
+   "text": "Portuguese invasion (1498 CE – )",
+   "detail": "Maritime colonial enclaves (Goa, Daman, Diu); Catholic Indo-Portuguese culture"
+  },
+  {
+   "id": "sub:44",
+   "text": "EIC Prominence (1757 CE – )",
+   "detail": "449.0 | - Battle of Plassey | Private company turned sovereign; mercantile-military lifestyle; sprawling colonial bureaucracy"
+  },
+  {
+   "id": "sub:45",
+   "text": "British Raj (1858 CE – 1949 CE)",
+   "detail": "190.0 | Crown rule; racial segregation; ICS bureaucracy; modernization + exploitation"
+  }
+ ]
+}
