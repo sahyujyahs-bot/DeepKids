@@ -676,8 +676,8 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 
 ## Videos
 - **Friction: Crash Course Physics #6** (CrashCourse, 10 min) id `fo_pmp5rtzo`: For the parent (and curious older children): static and kinetic friction, clearly explained with good animations. *Check:* Video id recalled, not opened from here: a parent should check it plays and is the CrashCourse episode before showing.
-- **Lifting a car with two interleaved phone books** (found via Gizmodo, 2 min) id `sGBKZO_sEfU`: Shows the Books That Won't Let Go experiment at a giant scale: many small frictions add up. *Check:* Video id taken from the Gizmodo article embedding it; not watched from here.
-- **The Strange (Unexpected) Reason Ice is Slippery** (It's Okay To Be Smart (PBS), 8 min) id `to find`: The open question of why ice is slippery, told honestly. *Check:* Listed by PBS; YouTube id still to find.
+- **Lifting a car with two interleaved phone books** (found via Gizmodo, 2 min) id `AX_lCOjLCTo`: Shows the Books That Won't Let Go experiment at a giant scale: many small frictions add up. *Check:* Found by YouTube search: "MythBusters - Phone Book Friction" by Discovery. Title checked automatically; a parent may still preview it.
+- **The Strange (Unexpected) Reason Ice is Slippery** (It's Okay To Be Smart (PBS), 8 min) id `yjSf7Yh9UZc`: The open question of why ice is slippery, told honestly. *Check:* Found by YouTube search: "The Strange and Unexpected Reason Ice is Slippery" by Be Smart. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) Where does friction act?  
@@ -807,7 +807,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - The Moon moves about 4 cm further from Earth every year. About how far will it move in 80 years, a long human lifetime? Give your answer in metres and centimetres. **About 320 cm, which is 3 metres and 20 centimetres.**. Each year adds 4 cm. In 80 years, that is 80 lots of 4 cm. 4 × 80 = 320 cm. 100 cm make 1 metre, so 300 cm is 3 metres. That leaves 20 cm. So the answer is 3 metres and 20 centimetres. The real speed is a little less, about 3.8 cm a year. We rounded it to 4 cm to make the sum easier. (queues `math.multiplication.equal-groups.L3`)
 
 ## Song
-Push, Pull, Hold On (sci.forces-and-movement.L3): Topic-level song for Forces L3, to write with the founder's gravity song as the model.
+Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3, to write with the founder's gravity song as the model.
 
 ## Links
 - [PhET Forces and Motion Basics, the Friction screen](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online game. Push a box, change the friction, and watch the arrows that show the forces.

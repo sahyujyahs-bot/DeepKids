@@ -1,0 +1,99 @@
+# Roots: the philosophy under every DeepKids lesson
+
+## What DeepKids believes
+
+All pursuits, whether maths, science, art, language or play, are ways of asking three questions:
+
+1. **Who am I?**
+2. **What is this life?**
+3. **What is this world?**
+
+DeepKids is rooted in **oneness and consciousness**. The founder's picture:
+
+- **Zero is also infinity.** Before anything, there is infinite potential. Everything in it adds up to zero, a perfect balance. This is **consciousness**. We do not mean the private feeling of being aware. We mean the ground everything rises from.
+- **From zero comes One: awareness.**
+- **From One comes the many:** particles, forces, gravity, stars, galaxies, rocks, water, life, minds.
+
+So every lesson, whether it is about friction, a seed or a fraction, is also a lesson about the One showing up as the many. The child is not looking at the world from outside it. The child *is* the world, looking at itself.
+
+## How we teach it honestly
+
+We are rooted in this view. We never hide it, and we never pass it off as science. Three kinds of statement are kept apart, and the child always knows which kind they are hearing:
+
+| Kind | How it is said | Example |
+|---|---|---|
+| **What science has found** | Plainly, with how we know. | "Almost every atom in your body, apart from hydrogen, was made inside a star." |
+| **What DeepKids believes, and many sages taught** | "DeepKids believes…", "The Upanishads say…", "Many wise people have felt…" | "Many sages taught that the same awareness looks out through every pair of eyes." |
+| **Where the two meet, and where they don't** | Science's best guess or open question, honestly marked. | "Some physicists think the total energy of the universe might be exactly zero. Nobody knows for sure." |
+
+**Rules**
+
+- **Questioning, not preaching.** The Roots card ends in open questions that the child answers. We never hand them the conclusion. A child who questions their way to oneness owns it. A child who is told it only borrows it.
+- **Always give another view.** Every Roots card names one honest, respectful view that disagrees. India's own traditions argue about all of this. The Charvaka school said there is only matter. The Buddha taught *anatta*, no fixed self. Madhva taught that the soul and God are forever two. Most neuroscientists today think awareness comes from brains. A view rooted in oneness must be able to sit with these.
+- **Never bend the science.** Quantum physics does not prove consciousness. In physics, "observer" means anything that measures, such as a detector, not a mind. Say so whenever quantum ideas appear. The parallels are real and beautiful, and they are parallels, not proofs.
+- **Be exact about sources.** Name the text and the place in it: Chandogya Upanishad 6.13, Rig Veda 10.129, Tao Te Ching 42. If you are not sure of the source, leave it out.
+- **Wide, not one tradition.** Lead with Indian thought where it fits, but bring in others: Buddhist, Jain, Sufi, Taoist, Greek, Indigenous, and modern philosophers and scientists.
+- **Feel it, not just read it.** Each Roots card has a short practice for the body: a breath, a moment of silence, a way of looking. This is how a child of six meets these ideas.
+- **No religion as an identity.** We offer teachings, never membership. No prayers, rituals or "our god". The same card should be welcome in any family's home.
+
+## The library: teachings to draw from
+
+Use these as starting points. Check every quote against its source before using it. Paraphrase in plain words for children.
+
+**Zero, infinity and the whole**
+- *Isha Upanishad*, opening verse (also *Brihadaranyaka Upanishad* 5.1.1): "That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains." Use it with zero and infinity, sharing and fractions.
+- *Rig Veda* 10.129, the Nasadiya Sukta (the hymn of creation): "Then there was neither being nor non-being… Who really knows?" Use it with origins and honest not-knowing.
+- *Shunya*, zero: Pingala's use of it (about 3rd to 2nd century BCE). Brahmagupta's rules for calculating with zero (628 CE, *Brahmasphutasiddhanta*). Nagarjuna's *shunyata*, emptiness, as everything depending on everything else (about 2nd century CE).
+- *Tao Te Ching* 42: "The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things." This is zero, One and the many, almost exactly.
+
+**One in the many**
+- *Chandogya Upanishad* 6.12–6.13: Uddalaka teaches his son Shvetaketu. He splits a banyan seed and finds nothing visible inside, yet a tree grows from it. He dissolves salt in water: unseen, the salt is everywhere. "Tat tvam asi", you are that. Use it with seeds, dissolving, materials and atoms.
+- *Mandukya Upanishad*: four states of awareness, which are waking, dreaming, deep sleep, and the fourth (*turiya*) that is aware of all three. Use it with sleep, the body, the brain and senses.
+- *Avatamsaka Sutra*: Indra's net. Every jewel reflects every other jewel. Use it with light, mirrors, ecosystems and webs.
+- Thich Nhat Hanh, *interbeing*: look deeply at a sheet of paper and you see the cloud, the rain and the tree in it. Use it with materials, the water cycle and food.
+- Kabir: "Where are you looking for me? I am right beside you." Use it with senses and the self.
+- Plotinus (3rd century), *The One*; Spinoza (*Ethics*, 1677), God or Nature as one substance; Ibn Arabi and the Sufi idea later called *wahdat al-wujud*, the oneness of being.
+- Jain *anekantavada*, many-sidedness, and the story of the blind men and the elephant. This is the DeepKids method itself: every view sees part.
+
+**Awareness and life**
+- J.C. Bose, *Response in the Living and Non-Living* (1902): he measured "fatigue" responses in metals and plants that looked like those of muscles. He saw one continuous response running through matter and life. His idea of a deep sameness is not mainstream science, but his measurements of plant electrical signals were real and ahead of their time.
+- *Prana*, life-breath, next to the science of breathing and the oxygen we share with plants.
+
+**Where science comes close (mark the status)**
+- Conservation: energy and matter are never made or lost, only changed. (Settled.)
+- The atoms in us were made in stars. (Settled. Credit Margaret Burbidge, with Geoffrey Burbidge, William Fowler and Fred Hoyle, 1957.)
+- All living things share one ancestor. (Settled.)
+- Mass and energy are one thing, E = mc². (Settled.)
+- Empty space is never quite empty. The quantum vacuum fizzes with energy, and the Casimir effect has been measured. (Settled.)
+- The universe may have zero total energy: Edward Tryon, "Is the Universe a Vacuum Fluctuation?", *Nature*, 1973. (An idea, debated.)
+- John Wheeler's "participatory universe" and "it from bit". (An idea.)
+- What consciousness is: the "hard problem" (David Chalmers, 1995), panpsychism (Philip Goff and others), Integrated Information Theory (Giulio Tononi). (Open. Nobody knows.)
+
+**Honest other views**
+- Charvaka (Lokayata): only what we perceive is real, and the self ends with the body.
+- The Buddha's *anatta*: there is no fixed, lasting self.
+- Dvaita (Madhva): the soul and God are always two, never one.
+- Physicalism: most neuroscientists think awareness is something brains do.
+- Daniel Dennett: what we call "consciousness" may be less mysterious than it feels.
+
+## The Roots card (`roots`, required in every unit)
+
+```jsonc
+"roots": {
+  "context": "One plain line: we have been learning X; now we ask what X tells us about ourselves and the world.",
+  "three": {"who_am_i": "…", "what_is_life": "…", "what_is_this_world": "…"},  // one or two child-sized sentences each, tying THIS unit to each question
+  "thread": "3–5 sentences: how this unit's idea shows the One becoming the many (zero, One, many). Said as DeepKids' view, in plain words.",
+  "teachings": [{"source": "Chandogya Upanishad 6.13", "teaching": "the teaching in plain words", "link": "how it meets this unit's science"}],  // 2–3, exact sources
+  "science": [{"text": "what science says that resonates", "status": "settled|idea|debated|open"}],  // 1–2
+  "other_view": {"who": "Charvaka, the Buddha, a neuroscientist…", "view": "the respectful disagreement, in plain words"},
+  "practice": {"title": "…", "mins": 3, "say": "parent's words, step by step", "kid": "the same for the child alone"},  // breath, silence, a way of looking, tied to the unit
+  "ask": ["2–4 open questions. Never answered for the child."],
+  "art": "one-sentence picture brief"
+}
+```
+
+**Example, for Friction.** *Who am I?* "You can stand, walk and hold a cup only because the world grips you back." *Thread:* "Two surfaces seem separate. Zoom in and their atoms reach out and hold each other. There is no gap where you end and the floor begins, only a meeting." *Teaching:* Indra's net, where every jewel holds every other. *Practice:* rub your palms for ten seconds, then hold them still and feel the warmth. "Where did the warmth come from? Where is it going now?"
+
+## In board chapters
+
+Board packs carry the same thinking through their `ideas`, `big`, `perspectives` and `challenge` fields. When a board chapter links to a DeepKids unit, its Roots card is offered too. New board packs add a `roots` block in the same format.

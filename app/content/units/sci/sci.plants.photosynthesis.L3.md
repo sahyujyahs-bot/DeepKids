@@ -769,8 +769,8 @@ Next summer, she thought, a little bit of me will be a mango.
 
 ## Videos
 - **Photosynthesis: Crash Course Biology #8** (CrashCourse, 13 min) id `sQK3Yr4Sc_k`: For the parent and curious older children: the whole story of photosynthesis, including light reactions and the Calvin cycle, told fast and clearly. *Check:* Video id recalled, not opened from here. A parent should check that it plays and is the CrashCourse photosynthesis episode before showing it.
-- **Where do trees get their mass?** (Veritasium, 6 min) id `to find`: Derek Muller asks people in the street where a tree's wood comes from. Almost everyone says the soil. A perfect match for the big surprise of this unit. *Check:* This video exists on the Veritasium channel, but its YouTube id was not verified here. Search the channel for 'trees mass' and check it before showing.
-- **Floating leaf disk photosynthesis demonstration** (to choose: a school or university biology channel, 5 min) id `to find`: Shows the leaf disc experiment step by step, so the parent can see how to use the syringe before trying it at home. *Check:* Many versions exist. Choose one that uses a syringe with no needle, spinach leaves and baking soda, and check it is clear and accurate.
+- **Where do trees get their mass?** (Veritasium, 6 min) id `2KZb2_vcNTg`: Derek Muller asks people in the street where a tree's wood comes from. Almost everyone says the soil. A perfect match for the big surprise of this unit. *Check:* Found by YouTube search: "Where Do Trees Get Their Mass?" by Veritasium. Title checked automatically; a parent may still preview it.
+- **Floating leaf disk photosynthesis demonstration** (to choose: a school or university biology channel, 5 min) id `aPvszIwAZkg`: Shows the leaf disc experiment step by step, so the parent can see how to use the syringe before trying it at home. *Check:* Found by YouTube search: "Little Scientist #11: Photosynthesis and Floating Leaf-Disks" by Kuala Lumpur Engineering Science Fair -KLESF. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is photosynthesis?  

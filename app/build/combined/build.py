@@ -33,7 +33,7 @@ for subj, uni in (('sci', U),):
             use = [k for k in r['chapters'] if k in have]
             if p:
                 written += 1
-                data['items'].append({"k": key, "board": "combined", "subj": subj, "level": cls, "book": f"DeepKids Combined · Class {cls}",
+                data['items'].append({"k": key, "board": "combined", "subj": subj, "level": cls, "book": f"DeepKids track · Class {cls}",
                     "n": t['id'], "title": p['title'], "dk": t['dk'] if isinstance(t['dk'], list) else [t['dk']] if t['dk'] else [],
                     "c": {"covers": "; ".join(f"{BN[x['b']]} {x['ref']} {x['title']}" for x in boards), "boards": boards, "topic": t['title'],
                           "p": {k: v for k, v in p.items() if k not in ('key', 'board', 'subj', 'level', 'n')}}})
@@ -56,11 +56,13 @@ SUB = {x['id']: x for x in CUR['subtopic_levels']}
 data['units'] = {}
 import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
-    if f.endswith('.art.json'): continue
+    if f.endswith(('.art.json', '.photos.json')): continue
     u = json.load(open(f)); t = TL.get(u['id'])
     if not t: print('unit not in the curriculum:', u['id']); continue
     art = f[:-5] + '.art.json'
     if os.path.exists(art): u['img'] = json.load(open(art))
+    ph = f[:-5] + '.photos.json'   # real, credited pictures from free-licence books (app/build/book_images.py)
+    if os.path.exists(ph): u['photos'] = json.load(open(ph))
     # the full unit is its own file (app/units/<id>.json, loaded when opened); data.json keeps a small index entry
     os.makedirs(os.path.join(APP, 'units'), exist_ok=True)
     json.dump(u, open(os.path.join(APP, 'units', u['id'] + '.json'), 'w'), ensure_ascii=False, separators=(",", ":"))
@@ -70,7 +72,7 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
     # 1. the unit is a lesson like any other: search, browse and related links find it through data['items']
     sub = SUB.get(u['id'], {})
     data['items'].append({"k": "unit|" + u['id'], "board": "unit", "subj": t['subject'], "level": t['level'],
-        "book": f"DeepKids subtopic · Class {t['level']}", "n": sub.get('subtopic', u['id'].split('.')[2]), "title": u['title'], "dk": [],
+        "book": f"DeepKids track · subtopic unit · Class {t['level']}", "n": sub.get('subtopic', u['id'].split('.')[2]), "title": u['title'], "dk": [],
         "c": {"covers": " · ".join([t['name'], sub.get('name', ''), sub.get('covers', ''), u['summary']['text'], ", ".join(x['term'] for x in u['terms'])]), "unit": u['id']}})
     # 2. every board chapter that teaches this subtopic (or its topic, at this class) links to it
     chap = CUR.get('chapters', {})

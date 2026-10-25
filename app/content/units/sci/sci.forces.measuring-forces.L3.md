@@ -728,9 +728,9 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    **Answer:** Because the exact number is about 9.8 newtons on Earth. *Why:* On Earth, 1 kilogram pulls down with about 9.8 newtons. It even changes a tiny bit from place to place. 10 is close enough for most everyday sums.
 
 ## Videos
-- **The kilogram has changed: Le Grand K and the Kibble balance** (Veritasium, 10 min) id `to find`: For the parent and curious older children: why the kilogram, and so the newton, was redefined in 2019. *Check:* Veritasium has made videos about the kilogram's redefinition. The exact video and its YouTube id were not checked from here. A parent should search the channel and watch it first.
-- **How to use a forcemeter (newton meter)** (a school science channel, to find, 4 min) id `to find`: Shows a real forcemeter being zeroed, hooked on and read at eye level, for children who have not used one. *Check:* Not chosen yet. Pick a short video that shows zeroing the forcemeter and reading at eye level, and uses newtons.
-- **Optical tweezers: holding things with light** (Nobel Prize (official channel), to find, 5 min) id `to find`: Shows how laser light can grab and measure the pull of tiny things, for the 'tiniest forces' card. *Check:* The Nobel Prize channel posts explainers about the 2018 physics prize. The exact video and id were not checked from here.
+- **The kilogram has changed: Le Grand K and the Kibble balance** (Veritasium, 10 min) id `Oo0jm1PPRuo`: For the parent and curious older children: why the kilogram, and so the newton, was redefined in 2019. *Check:* Found by YouTube search: "How We're Redefining the kg" by Veritasium. Title checked automatically; a parent may still preview it.
+- **How to use a forcemeter (newton meter)** (a school science channel, to find, 4 min) id `Fif4O1VTq4I`: Shows a real forcemeter being zeroed, hooked on and read at eye level, for children who have not used one. *Check:* Found by YouTube search: "Using a force meter" by Inspiring Science. Title checked automatically; a parent may still preview it.
+- **Optical tweezers: holding things with light** (Nobel Prize (official channel), to find, 5 min) id `_atdJmegjXc`: Shows how laser light can grab and measure the pull of tiny things, for the 'tiniest forces' card. *Check:* Found by YouTube search: "“When I described catching living things with light people said, 'Don’t exaggerate Ashkin'.”" by Nobel Prize. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) Which of these needs the biggest force?  

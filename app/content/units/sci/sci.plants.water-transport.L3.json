@@ -3801,5 +3801,57 @@
    "Schlesinger, W. H. and Jasechko, S., Transpiration in the global water cycle, Agricultural and Forest Meteorology, 2014",
    "OpenStax Biology 2e and Biology for AP Courses, 'Transport of Water and Solutes in Plants' (reference only, for facts)"
   ]
+ },
+ "roots": {
+  "context": "We have been following one drop of water from a plant's root to its leaf, and into the air. Now we ask what that journey tells us about ourselves and the world.",
+  "three": {
+   "who_am_i": "The water in your body was once in clouds, rivers and trees.",
+   "what_is_life": "A tree has no heart. The Sun's warmth lifts its water.",
+   "what_is_this_world": "The same water has gone round the world for billions of years."
+  },
+  "thread": "One drop of water climbs a tree, leaves as vapour, becomes a cloud and falls as rain. Then it climbs another tree, or flows into you. DeepKids believes this is the One moving through many shapes. The drop is never really separate. It is always part of one great water, passing through.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.10",
+    "teaching": "Rivers flow east and west and reach the sea. In the sea, no river can say, 'I am this river.' They are all the sea.",
+    "link": "The water in a leaf, a cloud and your glass is one water, moving on. It never stays one drop for long."
+   },
+   {
+    "source": "Tao Te Ching 8",
+    "teaching": "The best way is like water. Water helps all living things and does not fight. It flows to low places others avoid.",
+    "link": "Water climbs every plant quietly, giving life, then lets go into the air."
+   },
+   {
+    "source": "Rumi, Masnavi, book 1, opening",
+    "teaching": "Listen to the reed flute. It was cut from the reed bed, and now it sings of wanting to return.",
+    "link": "A reed is a hollow stem, like the tubes that carry water up a plant. Its song is air and emptiness."
+   }
+  ],
+  "science": [
+   {
+    "text": "Water is pulled up a plant from the top. It sticks to itself like a chain of hands. As it leaves the leaves, it pulls more up behind it.",
+    "status": "settled"
+   },
+   {
+    "text": "How the tallest trees stop their water chains from snapping is still being worked out.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "The Buddha",
+   "view": "The Buddha taught that nothing has a fixed, lasting self. Many Buddhists would say there is no great water underneath, only changing drops, moment by moment."
+  },
+  "practice": {
+   "title": "Follow one sip",
+   "mins": 2,
+   "say": "Let's pour a little water into a steel tumbler. Hold it and look at it for a moment. Now take one slow sip. Close your eyes and feel it go down. Breathe slowly. Where was this water before? A cloud? A river? A mango tree? Where will it go next?",
+   "kid": "Take one slow sip of water. Close your eyes. Feel it go down. Where was this water before?"
+  },
+  "ask": [
+   "Who does water really belong to?",
+   "A plant lets almost all its water go. Is letting go always a loss?",
+   "Is a drop of rain still itself when it reaches the sea?"
+  ],
+  "art": "One water drop drawn on a loop from root to leaf to cloud to rain to a child's glass, around a tall banyan tree."
  }
 }

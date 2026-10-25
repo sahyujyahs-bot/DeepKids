@@ -3907,5 +3907,57 @@
    "Vaiśeṣika Sūtra, chapter 5 (motion of the arrow from nodana and saṃskāra), as discussed in histories of Indian science",
    "Riess et al., 1998, and Perlmutter et al., 1999 (the accelerating universe and dark energy)"
   ]
+ },
+ "roots": {
+  "context": "We have been learning that every push and pull is a force, and forces come in pairs. Now we ask what pushing and pulling tell us about ourselves and the world.",
+  "three": {
+   "who_am_i": "When you push a wall, it pushes you back. You are always in a meeting.",
+   "what_is_life": "Your muscles can only pull. Yet together they let you push, lift and hug.",
+   "what_is_this_world": "The Sun pulls the Earth. The Earth pulls you. You pull everything back."
+  },
+  "thread": "Every force comes in a pair: a push here means a push back there. So no thing ever acts alone. DeepKids believes this is the One showing itself as many, each part always answering the others. You push, the world answers. You and the world are two sides of one meeting.",
+  "teachings": [
+   {
+    "source": "Empedocles, fragment DK B17",
+    "teaching": "Empedocles said two powers move everything. Love brings things together. Strife pushes them apart. The world is their endless dance.",
+    "link": "Pulls bring things together and pushes move them apart. Every change is a mix of the two."
+   },
+   {
+    "source": "Kena Upanishad, part 3",
+    "teaching": "The wind god boasts he can blow away anything. A mysterious being puts down one blade of grass. The wind cannot move it. His power was never only his own.",
+    "link": "You cannot see a force, only what it does. And every push you make is answered by the world."
+   },
+   {
+    "source": "Marcus Aurelius, Meditations 4.40",
+    "teaching": "Think of the universe as one living being. Everything in it works with everything else, woven together.",
+    "link": "Every push has a push back, and everything pulls everything. Nothing in the world is truly alone."
+   }
+  ],
+  "science": [
+   {
+    "text": "Every push you feel is really electrons pushing other electrons away. Your hand never quite touches the wall.",
+    "status": "settled"
+   },
+   {
+    "text": "Scientists can measure every force very well. But what a force really is, deep down, is still argued about.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Madhva, a great Indian teacher",
+   "view": "Madhva taught that the soul and God are always two, never one. On his view, you and the world truly are separate, even when you push on each other."
+  },
+  "practice": {
+   "title": "Which hand is pushing?",
+   "mins": 2,
+   "say": "Let's put our palms together in front of our chest. Press them gently into each other. Breathe in slowly. Press a little harder as you breathe out. Now relax. Do it three times. Each hand pushes, and each hand is pushed. Which hand is doing the pushing?",
+   "kid": "Press your palms together. Breathe out and push a little harder. Then relax. Which hand is pushing?"
+  },
+  "ask": [
+   "When you press your hands together, which one is pushing?",
+   "Is the wall pushing you back on purpose?",
+   "Where does your push really begin?"
+  ],
+  "art": "A child pressing palms against a wall, with matching arrows on both sides, and the Sun, Earth and Moon linked by faint arrows above."
  }
 }

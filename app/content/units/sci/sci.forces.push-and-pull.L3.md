@@ -756,8 +756,8 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 
 ## Videos
 - **Newton's Laws: Crash Course Physics #5** (CrashCourse, 11 min) id `kKKM8Y-u7ds`: For the parent, and curious older children: forces, force pairs and drawing forces as arrows, explained clearly with good animations. *Check:* Video id recalled, not opened from here. A parent should check it plays and is the CrashCourse episode before showing it.
-- **Forces: push and pull (SciShow Kids)** (SciShow Kids, 4 min) id `to find`: A short, friendly introduction to pushes and pulls for children, with everyday examples. *Check:* SciShow Kids has an episode on forces, push and pull, linked from teaching sites. Its YouTube id is still to find and check.
-- **A solar sail in space: IKAROS, pushed by sunlight** (JAXA, the Japan Aerospace Exploration Agency, or a science channel, 3 min) id `to find`: Shows the gentlest push there is: sunlight pushing a huge thin sail between the planets. *Check:* Still to find. Choose a video from JAXA or a trusted science channel that shows IKAROS unfolding its sail in 2010. Check that it says sunlight pushes the sail.
+- **Forces: push and pull (SciShow Kids)** (SciShow Kids, 4 min) id `JvSClZ3vHOI`: A short, friendly introduction to pushes and pulls for children, with everyday examples. *Check:* Found by YouTube search: "Swings, Slides, and Science | Physics for Kids" by SciShow Kids. Title checked automatically; a parent may still preview it.
+- **A solar sail in space: IKAROS, pushed by sunlight** (JAXA, the Japan Aerospace Exploration Agency, or a science channel, 3 min) id `MERtPPEPGT4`: Shows the gentlest push there is: sunlight pushing a huge thin sail between the planets. *Check:* Found by YouTube search: "Solar Sails Explained | The Spaceships Powered by Light" by Science Workshop. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is a force?  

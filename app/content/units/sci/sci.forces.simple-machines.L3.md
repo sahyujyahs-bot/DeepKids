@@ -736,9 +736,9 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** Any design using two or more simple machines, labelled. For example: a lever like a shaduf with a stone counterweight, and a pulley wheel.. *Why:* Real machines often combine simple machines.
 
 ## Videos
-- **Super Simple Machines: Levers** (SciShow Kids, 4 min) id `to find`: A short, clear episode for children about how levers work, and how to make one at home. *Check:* This episode exists (SciShow Kids, 2016, listed by the Described and Captioned Media Program). Its YouTube id was not checked from here. A parent should search the title on the SciShow Kids channel.
-- **Science Trek: Simple Machines** (PBS (Idaho Public Television), 5 min) id `to find`: Short clips on levers, ramps, wheels and pulleys, for parents and children together. *Check:* Listed on pbs.org as Science Trek: Simple Machines. Not yet found on YouTube from here. It can be watched on the PBS website.
-- **Solving Problems With Simple Machines** (SciShow Kids, 15 min) id `to find`: A longer compilation on levers, wheels and axles and pulleys, good for a rainy afternoon. *Check:* Described on a teachers' site as a SciShow Kids compilation. Its YouTube id and exact length were not checked from here.
+- **Super Simple Machines: Levers** (SciShow Kids, 4 min) id `lueqE0lxLyc`: A short, clear episode for children about how levers work, and how to make one at home. *Check:* Found by YouTube search: "Super Simple Machines: Levers" by SciShow Kids. Title checked automatically; a parent may still preview it.
+- **Science Trek: Simple Machines** (PBS (Idaho Public Television), 5 min) id `Kg_vZ2pgQEs`: Short clips on levers, ramps, wheels and pulleys, for parents and children together. *Check:* Found by YouTube search: "Science Trek: Simple Machines" by Idaho Public Television. Title checked automatically; a parent may still preview it.
+- **Solving Problems With Simple Machines** (SciShow Kids, 15 min) id `q4U-HpEVLW8`: A longer compilation on levers, wheels and axles and pulleys, good for a rainy afternoon. *Check:* Found by YouTube search: "Solving Problems with Simple Machines! | SciShow Kids Compilation" by SciShow Kids. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What does a simple machine do?  

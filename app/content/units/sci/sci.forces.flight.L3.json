@@ -3878,5 +3878,57 @@
    "NASA JPL, Ingenuity Mars Helicopter mission pages (first flight 19 April 2021, 72 flights)",
    "OpenStax Biology 2e, 'Birds' section (hollow bones, keel, feathers, birds from theropod dinosaurs): facts only"
   ]
+ },
+ "roots": {
+  "context": "We have been learning how kites, birds and seeds fly by leaning on the air. Now we ask what flying tells us about ourselves and the world.",
+  "three": {
+   "who_am_i": "Every breath you take is the same air that holds up birds.",
+   "what_is_life": "Birds, bats, insects and seeds all found ways to ride the air.",
+   "what_is_this_world": "The sky is not empty. It is full of air that pushes back."
+  },
+  "thread": "Air looks like nothing at all. Yet a wing pushes it down, and it pushes the wing up. DeepKids believes the world is one whole, so even empty-looking air holds us. A bird and the wind are not two separate things fighting. They are one movement, wing and air together.",
+  "teachings": [
+   {
+    "source": "Zhuangzi, chapter 1",
+    "teaching": "A giant bird called Peng rises thousands of miles high. But only when the wind beneath it is deep enough. Without enough wind, great wings cannot be held up.",
+    "link": "Nothing flies on its own power alone. Every wing needs the air to push against."
+   },
+   {
+    "source": "Brihadaranyaka Upanishad 3.7.2",
+    "teaching": "The sage Yajnavalkya says air is the thread. All beings and all worlds are strung together on it, like beads.",
+    "link": "The air you breathe is the same air that lifts kites and carries seeds across fields."
+   },
+   {
+    "source": "Udana 6.4, the blind men and the elephant",
+    "teaching": "Blind men each touch one part of an elephant. One feels a tail, one a leg, one a trunk. Each is sure he knows the whole.",
+    "link": "Scientists agree on what lift does, but still argue about the best simple way to explain it. Each explanation sees a part."
+   }
+  ],
+  "science": [
+   {
+    "text": "Everything that flies stays up by pushing air downwards. The air then pushes it up. This upward push is called lift.",
+    "status": "settled"
+   },
+   {
+    "text": "The best simple way to explain why air speeds up over a wing is still argued about. The famous 'equal time' explanation is wrong.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Many physicists",
+   "view": "Lift is just billions of air molecules bumping into a wing. It needs no deeper meaning. Seeing wings and wind as one is a poem, not physics."
+  },
+  "practice": {
+   "title": "Feel the invisible",
+   "mins": 2,
+   "say": "Let's hold one hand flat, just in front of our lips. Breathe out slowly onto your palm. Can you feel something you cannot see? Now breathe in slowly. Breathe out once more, very gently. That is air, the same air that holds up every bird.",
+   "kid": "Hold your hand in front of your mouth. Breathe out slowly. Feel the air you cannot see. Birds lean on this same air."
+  },
+  "ask": [
+   "If you cannot see air, how do you know it is there?",
+   "A kite rises because its string holds it. Can being held help?",
+   "Is the bird flying, or the bird and wind together?"
+  ],
+  "art": "A kite, a soaring kite-bird and a spinning winged seed riding the same swirling stream of air above an Indian rooftop."
  }
 }

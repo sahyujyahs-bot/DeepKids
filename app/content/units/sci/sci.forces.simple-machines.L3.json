@@ -4192,5 +4192,52 @@
    "Nobel Prize in Chemistry 2016, Sauvage, Stoddart and Feringa (molecular machines)",
    "OpenStax Physics (CC BY), Work, Energy, and Simple Machines: Simple Machines, for facts on mechanical advantage"
   ]
+ },
+ "roots": {
+  "context": "We have been learning how levers, ramps and wheels make a small push move a big load. Now we ask what machines tell us about ourselves and the world.",
+  "three": {
+   "who_am_i": "Your arm is a lever. Your elbow is its pivot.",
+   "what_is_life": "Tiny molecules in your muscles swing like levers every time you move.",
+   "what_is_this_world": "No machine gives you something for nothing. The world keeps a fair balance."
+  },
+  "thread": "A lever, a ramp and a wheel all follow one rule. A small push must travel further to do a big job. Nothing is gained or lost, only traded. DeepKids believes this balance is the zero underneath everything, where it all adds up. The same rule works in a see-saw, your elbow and the Earth and Moon.",
+  "teachings": [
+   {
+    "source": "Zhuangzi, chapter 3, the story of Cook Ding",
+    "teaching": "A cook carves an ox so skilfully that his knife stays sharp for nineteen years. He never hacks. He lets the blade slip through the natural gaps.",
+    "link": "A wedge or a lever works best with the shape of things, not against it. Small effort, in the right place, does a lot."
+   },
+   {
+    "source": "Milindapanha, book 2, the chariot",
+    "teaching": "A monk asks a king: is the chariot the wheels? The axle? The pole? No single part is the chariot. Yet the chariot is real.",
+    "link": "A machine is many simple parts working as one. So is your body, with its bones, muscles and joints."
+   }
+  ],
+  "science": [
+   {
+    "text": "A machine can make a push smaller, but never makes energy. A smaller push always has to travel further. Some energy is lost as heat.",
+    "status": "settled"
+   },
+   {
+    "text": "Inside your muscles, tiny molecules called myosin swing like levers to pull fibres along. That is how every muscle moves.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "René Descartes, a French philosopher",
+   "view": "Descartes thought animal bodies are machines, made of parts and nothing more. Many people still see living things this way, as very clever machines."
+  },
+  "practice": {
+   "title": "Find your lever",
+   "mins": 2,
+   "say": "Let's hold one arm out in front, palm up. Slowly bend it at the elbow and bring your hand to your shoulder. Then lower it slowly. Do it three times, breathing out as you lift. Put your other hand on your upper arm and feel the muscle work. Your elbow is the pivot. Your arm is a lever.",
+   "kid": "Bend your arm slowly at the elbow. Breathe out as you lift. Feel the muscle with your other hand. Your elbow is a pivot."
+  },
+  "ask": [
+   "Are you a machine? What would make you more than one?",
+   "Is there anything in the world you get for nothing?",
+   "If no single part is the chariot, where is the chariot?"
+  ],
+  "art": "A see-saw in a park, a long lever lifting a stone, and a bullock cart wheel, all drawn with the same balance point glowing."
  }
 }

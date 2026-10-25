@@ -4096,5 +4096,52 @@
    "Middleton, Ludwig and others, Scientific Reports 2019 (living root bridges of Ficus elastica in Meghalaya)",
    "OpenStax Biology 2e, Plant Structure and Function (roots, stems, leaves) for facts only"
   ]
+ },
+ "roots": {
+  "context": "We have been learning how roots, stems and leaves are each shaped for their job. Now we ask what a plant's shape tells us about ourselves and the world.",
+  "three": {
+   "who_am_i": "Your hand is shaped for gripping. A root is shaped for holding soil.",
+   "what_is_life": "Each part of a plant does its own job. Together they make one living thing.",
+   "what_is_this_world": "A hard place, like a desert, shapes the plants that live there."
+  },
+  "thread": "A tiny seed holds no visible root, stem or leaf. Yet from it a whole plant grows, with each part shaped for its job. DeepKids believes this is the One becoming the many: one seed, many parts, one life. Roots, stems and leaves look different, but they are one plant. Your hands, eyes and ears are one you.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.12",
+    "teaching": "Uddalaka asks his son to split a banyan seed. 'What do you see?' 'Nothing.' From that unseen nothing, a great banyan tree grows.",
+    "link": "A carrot seed holds the plan for a root, a stem and leaves. You cannot see them inside, yet they are there."
+   },
+   {
+    "source": "Johann Wolfgang von Goethe, The Metamorphosis of Plants (1790)",
+    "teaching": "Goethe, a German poet, believed every part of a flower is a changed leaf. One basic form takes many shapes.",
+    "link": "Petals, tendrils and some spines really are changed leaves. One plan, shaped many ways for many jobs."
+   }
+  ],
+  "science": [
+   {
+    "text": "All living things, plants and people too, share one ancestor from long ago.",
+    "status": "settled"
+   },
+   {
+    "text": "Why leaves are green and not black is still argued about. Black would catch more light.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Many plant scientists",
+   "view": "In 2019, a group of plant scientists wrote that plants sense touch and light, but do not feel anything. They have no brain, so there is nobody inside to feel."
+  },
+  "practice": {
+   "title": "One plant, many parts",
+   "mins": 3,
+   "say": "Let's find a small plant, maybe a weed we can pull gently. Close your eyes and hold it. Touch the roots with one finger. Feel how thin and many they are. Move up to the stem. Then the leaf. Breathe slowly as you go. Open your eyes. Many parts, and all one plant.",
+   "kid": "Hold a small plant. Close your eyes. Touch its roots, its stem, then a leaf. Notice each one feels different."
+  },
+  "ask": [
+   "Are the roots, stem and leaves one thing, or many?",
+   "Who decides whether a potato is a root or a stem?",
+   "Does a tendril feel it when it touches something?"
+  ],
+  "art": "A split banyan seed in a child's palm, with a faint whole plant, roots, stem and leaves, glowing above it."
  }
 }

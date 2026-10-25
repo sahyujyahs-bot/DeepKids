@@ -4,14 +4,15 @@ You are writing one DeepKids unit for Indian homeschooling families with childre
 
 ## Read first, fully, in this order
 1. `app/content/WRITING.md`: the writing rules. They are not optional. Every card must make sense on its own, with a `context` line. Choose each visual by what the reader needs to see (see "Visuals": step pictures for doing, charts only to compare results).
-2. `app/content/units/SPEC_UNIT.md`: the format, the two modes (parent `say`/`do`, child `kid`), the teaching method (notice first, try before we explain, claim-evidence-reasoning after every experiment, misconception-based wrong options), and "Depth: follow the idea all the way out".
-3. The finished examples, which are your bar: `app/content/units/sci/sci.forces.friction.L3.json` (Friction, Class 3). Read it once fully; match its depth, breadth and structure. Do not copy its content. Six sibling Forces units in the same folder follow the same pattern.
-4. Your subtopic's entry in `app/content/curriculum/sci.json` (`subtopic_levels`, find your id): `covers`, board chapters, prerequisites, go-deep and go-wide links. Cover everything in `covers`.
-5. The founder's notes: `app/content/ideas/by_topic/<topic>.md` for your topic, and the founder's sheets dumped at `/tmp/claude-0/-home-user/19592352-17e5-5d4c-8f59-ec21b7793c21/scratchpad/sheets_dump.txt` (search it for your subtopic's words). Use the founder's activities and ideas first, then add many more. List what you used in `sources.founder`.
-6. `knowledge/by_subtopic.json` for open-textbook sections on your subtopic, for accuracy. Licence rule: books marked `reference` or `share-alike` are for facts only; never copy their text.
-7. Board packs for your chapters (keys in the curriculum) in `app/content/ncert/`, `app/content/cambridge/`, `app/content/nios/`, for coverage only.
+2. `app/content/PHILOSOPHY.md`: DeepKids is rooted in oneness and consciousness. Write the `roots` element exactly as it says, and let its questioning run through the big questions, challenging views and story too.
+3. `app/content/units/SPEC_UNIT.md`: the format, the two modes (parent `say`/`do`, child `kid`), the teaching method (notice first, try before we explain, claim-evidence-reasoning after every experiment, misconception-based wrong options), and "Depth: follow the idea all the way out".
+4. The finished examples, which are your bar: `app/content/units/sci/sci.forces.friction.L3.json` (Friction, Class 3). Read it once fully; match its depth, breadth and structure. Do not copy its content. Six sibling Forces units in the same folder follow the same pattern.
+5. Your subtopic's entry in `app/content/curriculum/sci.json` (`subtopic_levels`, find your id): `covers`, board chapters, prerequisites, go-deep and go-wide links. Cover everything in `covers`.
+6. The founder's notes: `app/content/ideas/by_topic/<topic>.md` for your topic, and the founder's sheets (including the column "Philosophy underlying the concepts", which feeds `roots`) dumped at `/tmp/claude-0/-home-user/19592352-17e5-5d4c-8f59-ec21b7793c21/scratchpad/sheets_dump.txt` (search it for your subtopic's words). Use the founder's activities and ideas first, then add many more. List what you used in `sources.founder`.
+7. `knowledge/by_subtopic.json` for open-textbook sections on your subtopic, for accuracy. Licence rule: books marked `reference` or `share-alike` are for facts only; never copy their text.
+8. Board packs for your chapters (keys in the curriculum) in `app/content/ncert/`, `app/content/cambridge/`, `app/content/nios/`, for coverage only.
 
-8. **Existing DeepKids lessons to reuse:** the Combined lesson(s) for your topic in `app/content/combined/` (e.g. `sci-C3-<topic>.json`, and the C1–C5 rungs of the same topic) already have subconcepts, day plans, experiments, voices, stories and worksheets. Take what fits your subtopic and improve it rather than starting from zero. Credit them in `sources.founder`. Don't reuse their story.
+9. **Existing DeepKids lessons to reuse:** the Combined lesson(s) for your topic in `app/content/combined/` (e.g. `sci-C3-<topic>.json`, and the C1–C5 rungs of the same topic) already have subconcepts, day plans, experiments, voices, stories and worksheets. Take what fits your subtopic and improve it rather than starting from zero. Credit them in `sources.founder`. Don't reuse their story.
 
 ## Rules the validator enforces (from WRITING.md and SPEC_UNIT.md)
 - `setup` (2+ step pictures, scene "ramp"/"pull" or `{art, caption}`) on every game, experiment, activity, project and challenge.
@@ -19,6 +20,7 @@ You are writing one DeepKids unit for Indian homeschooling families with childre
 - `why` on every step `check` (what the right answer means and what a wrong pick usually means); games' checks are game moments, not tests.
 - `why_maths` on every maths problem; maths must grow out of something the child did in this unit.
 - `context` on every card that could be read cold.
+- `roots` with all its parts (PHILOSOPHY.md): exact sources, one honest other view, a practice, open questions never answered for the child.
 - Song `topic_level` is the curriculum's topic-level id (e.g. `sci.gravity.L3`).
 
 ## The bar

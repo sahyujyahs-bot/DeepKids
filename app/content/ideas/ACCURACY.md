@@ -21,7 +21,7 @@ The ideas bank is the founder's raw notes. Parts were drafted quickly or with AI
 - **Evolution dates** (RNA ~4.2 billion years ago, first cells ~3.9, Asgard archaea ~3.5). These are estimates with wide error bars. Say "about" and "scientists think".
 
 ## Personal philosophy: a lens, not a lesson
-- **The founder's view of consciousness** (consciousness as the field, "order pockets" in chaos, the three realms) guides the questions DeepKids asks. Offer it as one way of seeing, next to others. Never state it as science. For example, ask: "Could a particle have something like a self? Most physicists would say no; some philosophers (panpsychists) wonder." Never say: "Particles have a sense of self."
+- **The founder's view of consciousness** is DeepKids' root (see `../PHILOSOPHY.md`). We say it openly as what DeepKids believes and many sages taught, never as what science has found. It covers consciousness as the field, "order pockets" in chaos and the three realms, and guides the questions DeepKids asks. Offer it as one way of seeing, next to others. Never state it as science. For example, ask: "Could a particle have something like a self? Most physicists would say no; some philosophers (panpsychists) wonder." Never say: "Particles have a sense of self."
 - **Genetics & gender notes.** The basics are fine: the X chromosome carries many more genes than the Y, and SRY on the Y starts testis development. The claims chaining androgen receptors to aggression, rank and risk are contested and oversimplified. Do not put them in child content. Note also that most of the second X in XX cells is switched off (X-inactivation), so it is only a partial "backup copy".
 
 ## Fine as written (spot-checked)

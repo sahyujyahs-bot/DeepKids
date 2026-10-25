@@ -4119,5 +4119,57 @@
    "Raman and Kumar, Nature 1920 (musical drums with harmonic overtones)",
    "Rogers Commission report, 1986 (Challenger O-rings, Boisjoly's warning, Feynman's ice-water demonstration)"
   ]
+ },
+ "roots": {
+  "context": "We have been learning how springs and rubber bands stretch, store energy and spring back. Now we ask what springing back tells us about ourselves and the world.",
+  "three": {
+   "who_am_i": "Your tendons stretch and spring back every time you jump.",
+   "what_is_life": "Fleas, kangaroos and you all use springs to move.",
+   "what_is_this_world": "Even space itself stretches and squeezes, like a giant spring."
+  },
+  "thread": "Pull a rubber band, and it pulls back. The two pulls hold each other in balance, and the band waits, full of stored energy. DeepKids believes the world is held together this way: many parts pulling on each other, balancing out to one whole. Atoms, tendons, the Earth and space itself all stretch and come back.",
+  "teachings": [
+   {
+    "source": "Heraclitus, fragment DK B51",
+    "teaching": "Heraclitus said things pulling against each other can fit together. Think of a bow, or the strings of a harp. The pull in two directions makes it work.",
+    "link": "A spring works because two pulls balance. Stretch it, and it pulls back towards where it began."
+   },
+   {
+    "source": "Anguttara Nikaya 6.55, the story of Sona",
+    "teaching": "The Buddha asks Sona, who played the veena: if the strings are too tight, do they sound? Too loose? No. Only strings in tune make music.",
+    "link": "Stretch a spring too far, and it stays stretched or snaps. There is a right amount of stretch."
+   },
+   {
+    "source": "J.C. Bose, Response in the Living and Non-Living (1902)",
+    "teaching": "Bose found that metals got 'tired' after being bent many times, and recovered after rest. Plants and muscles did the same.",
+    "link": "Metals, plants and muscles all strain, tire and spring back. Bose saw one kind of response running through them all."
+   }
+  ],
+  "science": [
+   {
+    "text": "Things spring back because their atoms are held by tiny electric pulls that act like springs.",
+    "status": "settled"
+   },
+   {
+    "text": "In 2015, scientists first detected gravitational waves. These are stretches and squeezes of space itself.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "Daniel Dennett, a philosopher",
+   "view": "Dennett thought the feeling of being aware is less mysterious than it seems. Bose's 'tired' metal, he might say, is just atoms. It shares nothing like awareness with us."
+  },
+  "practice": {
+   "title": "Stretch and let go",
+   "mins": 3,
+   "say": "Let's stand up. Breathe in slowly and stretch both arms up high, as far as they go. Hold the stretch and the breath for a moment. Now breathe out and let your arms fall softly. Feel your body settle back. Do it three times. Notice how you spring back to rest.",
+   "kid": "Breathe in and stretch your arms up high. Hold for a moment. Breathe out and let them drop. Feel yourself spring back."
+  },
+  "ask": [
+   "How does a rubber band 'remember' its shape?",
+   "How do you know when you are stretched too far?",
+   "If space can stretch, what is space made of?"
+  ],
+  "art": "A child drawing a bow with a rubber band, a coiled spring and a veena's strings, with soft ripples of stretched space above."
  }
 }

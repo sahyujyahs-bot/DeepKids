@@ -3807,5 +3807,52 @@
    "artifact": "/_blob/1d80d8acc1dc19843d4378bcea727c17",
    "made_with": "HyperFrames (Apache 2.0), source in app/build/explainers/friction"
   }
- ]
+ ],
+ "roots": {
+  "context": "We have been learning about friction, the grip between things that touch. Now we ask what that grip tells us about ourselves and the world.",
+  "three": {
+   "who_am_i": "You can stand and walk because the world grips you back.",
+   "what_is_life": "Life needs grip. A gecko's foot, your knees and a seed's hairs all hold on.",
+   "what_is_this_world": "Nothing here slides alone. Every moving thing rubs against something else."
+  },
+  "thread": "Two surfaces seem separate. Zoom in, and their atoms reach out and pull on each other. There is no clean gap where your foot ends and the floor begins, only a meeting. DeepKids believes this is the One showing up as many things that are never fully apart. Friction is what that meeting feels like.",
+  "teachings": [
+   {
+    "source": "Avatamsaka Sutra, the image of Indra's net",
+    "teaching": "Picture a huge net with a shining jewel at every knot. Each jewel reflects every other jewel. Touch one, and all of them shimmer.",
+    "link": "Where two surfaces touch, each one's atoms tug on the other's. Nothing touches without being touched back."
+   },
+   {
+    "source": "Tao Te Ching 78",
+    "teaching": "Nothing in the world is softer than water. Yet nothing is better at wearing down what is hard.",
+    "link": "A little water poured on sand changed how the sand gripped, and a giant statue could move. The soft helper mattered most."
+   }
+  ],
+  "science": [
+   {
+    "text": "Friction is really the electric pull between atoms where two surfaces touch. Even smooth surfaces touch only at tiny bumps.",
+    "status": "settled"
+   },
+   {
+    "text": "When friction stops a sliding box, its movement is not lost. It turns into the jiggling of atoms, which we feel as warmth.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "Many physicists",
+   "view": "Friction is just electric pulls between atoms. That explains it fully. They see no need for any One behind it, and that is an honest view."
+  },
+  "practice": {
+   "title": "Warm hands",
+   "mins": 2,
+   "say": "Let's rub our palms together fast while I count to ten. Now stop and hold them still, a little apart. Feel the warmth between them. Close your eyes and just notice it fade. Where did the warmth come from? Where is it going now?",
+   "kid": "Rub your palms fast for ten seconds. Then hold them still. Feel the warmth. Notice it slowly fading away."
+  },
+  "ask": [
+   "Where does your hand end and the table begin?",
+   "Can something that slows you down also help you?",
+   "When the warmth leaves your hands, is it gone, or somewhere else?"
+  ],
+  "art": "Two hands pressed together, with a zoomed-in circle showing their atoms reaching across a tiny gap, linked like a glittering net."
+ }
 }

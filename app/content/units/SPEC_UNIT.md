@@ -1,4 +1,6 @@
-# The subtopic-level unit (DeepKids Combined)
+# The subtopic-level unit (the DeepKids track)
+
+The two tracks, and how units fit into them, are in `app/content/TRACKS.md`.
 
 One file per subtopic-level: `app/content/units/<subject>/<id>.json`, e.g. `sci/sci.forces.friction.L3.json`.
 The unit's **mapping** (topic-level, class, board chapters, prerequisites, go deep, go wide, maths links,
@@ -13,7 +15,7 @@ the quiet social lens, credit to women and underdogs, accuracy).
 Like the founder's Gravity chapter (which runs from jumping and Jenga to spacetime, lensing, time dilation and gravitons), every unit
 follows its idea from the child's hands out to the frontier: atoms and electrons, energy and heat, quantum physics, the Earth and the
 cosmos, living bodies, and what nobody knows yet. Children find these ideas intuitive; we do not avoid them for age, we tell them simply
-and honestly (marking `idea` and `debated` where science is unsure). Each unit also links to life and philosophy (`big_questions`).
+and honestly (marking `idea` and `debated` where science is unsure). Each unit also links to life and philosophy (`big_questions`), and is rooted in oneness and consciousness (`roots`, see `app/content/PHILOSOPHY.md`): every pursuit asks who am I, what is this life, what is this world.
 
 **Founder sources, read for every unit:** `app/content/ideas/by_topic/<topic>.md`, and the founder's sheets on the main branch:
 DeepKids HomeSchooling Track (Physics activities dump, Physics, Physics Dump, Biology, Chemistry, History, Philosophy, STEM Activities
@@ -92,6 +94,7 @@ and may have `art`.
 | 23 | `challenges` | `[{id, title, problem, constraints, materials, flow:[step], general[], creative[], your_turn}]` | engineering and design problems: usual solutions, creative solutions, then the child's own |
 | 24 | `links` | `[{title, url, kind, where, why}]` | `kind`: simulation, interactive, place (a museum, planetarium, park or science centre in India; `where` is the city) |
 | 25 | `buy` | `[{item, kind, why, url, used_in[], plan}]` | `kind`: tool, material, book, game. `used_in` lists the element ids that use it; `plan` says how a bought book or game joins the lesson plan |
+| 26 | `roots` | the philosophical and spiritual context: the three questions, the One becoming the many, 2–3 exact teachings, where science meets them, an honest other view, a short practice, open questions | format and rules in `app/content/PHILOSOPHY.md` |
 | – | `warmup` | `[{q, a}]`: 5–10 quick questions for the cross-unit daily game series | the day starts with jokes, the song and this game |
 | – | `plan` | `{start_options[], default_order[], core[]}` | see below |
 

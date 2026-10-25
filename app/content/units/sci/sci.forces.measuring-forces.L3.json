@@ -3771,5 +3771,52 @@
    "BIPM, 26th General Conference on Weights and Measures, 2018 (redefinition of the kilogram from 20 May 2019)",
    "Li and others, Nature 2018 (new measurements of the gravitational constant, which still disagree with others)"
   ]
+ },
+ "roots": {
+  "context": "We have been learning how to measure forces with forcemeters, in newtons. Now we ask what measuring tells us about ourselves and the world.",
+  "three": {
+   "who_am_i": "Your hands can be fooled about how heavy things are. You learn to check.",
+   "what_is_life": "Tiny pulls inside your body add up to a strong arm.",
+   "what_is_this_world": "The same newton measures a molecule's tug and the Moon's pull."
+  },
+  "thread": "A feather's touch, an apple's pull and a rocket's push seem like very different things. Yet one measure, the newton, fits them all. DeepKids believes this is a hint that the many forces come from one world, following one set of rules. People made up the unit. The forces were already there.",
+  "teachings": [
+   {
+    "source": "Rig Veda 1.164.46",
+    "teaching": "Truth is one. The wise call it by many names.",
+    "link": "A force can be measured in newtons or by how far a spring stretches. The names change. The pull itself does not."
+   },
+   {
+    "source": "Quran 55:7–9",
+    "teaching": "The heavens were raised, and a balance was set. So weigh fairly, and do not cheat the balance.",
+    "link": "A scale is only useful if it is honest. Fair measuring has mattered to people for thousands of years."
+   }
+  ],
+  "science": [
+   {
+    "text": "Since 2019, the kilogram is defined using a fixed number from nature, the Planck constant. So scientists everywhere share exactly the same units.",
+    "status": "settled"
+   },
+   {
+    "text": "Measuring very tiny things can disturb them. In physics, the 'observer' is any measuring tool, like a detector. It does not mean a mind.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "Protagoras, a Greek thinker",
+   "view": "Protagoras said each person is the measure of all things. What feels heavy to you is heavy for you. On this view, there is no single truth behind our measures."
+  },
+  "practice": {
+   "title": "Two hands, eyes closed",
+   "mins": 3,
+   "say": "Let's close our eyes. I will put a spoon in one of your hands and a steel tumbler in the other. Hold them still. Which feels heavier? Breathe in and out slowly three times. Notice the pull of each one on your arm. Now open your eyes. Your hands felt the pull, but only a forcemeter can tell us how big it is.",
+   "kid": "Close your eyes. Hold a spoon and a tumbler. Feel each one pulling down. Breathe slowly. Which pull is bigger?"
+  },
+  "ask": [
+   "Was the pull there before anyone measured it?",
+   "Can you measure everything that matters? What can't you measure?",
+   "Who decides what is fair, when two people measure differently?"
+  ],
+  "art": "A child holding a spring forcemeter with a mango hanging from it, while behind them the Earth and Moon tug on each other."
  }
 }

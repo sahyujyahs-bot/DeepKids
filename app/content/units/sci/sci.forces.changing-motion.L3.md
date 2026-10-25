@@ -728,9 +728,9 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
    **Answer:** Any thoughtful answer. For example: in her time, many people thought women should not do science, so she hid her name to be taken seriously. It was not fair.. *Why:* There is no single right answer. Good answers show understanding of her situation.
 
 ## Videos
-- **A tennis ball bouncing, filmed in slow motion** (The Slow Mo Guys, or any high-speed bounce video, 4 min) id `to find`: Shows a ball squashing flat when it bounces, which is too fast to see with our eyes. It matches the wet ball prints test. *Check:* Not chosen yet. A grown-up should find a slow-motion bounce video and check it shows the ball squashing clearly.
-- **Breaking spaghetti in two (MIT, 2018)** (MIT News, 3 min) id `to find`: Shows the spaghetti puzzle and the twist trick in high-speed video. *Check:* MIT published a short video with its 2018 spaghetti study. The YouTube id still has to be found and checked.
-- **How the Himalayas were made** (a trusted science channel, for example a museum or a university, 5 min) id `to find`: Shows the Indian plate pushing into Asia and folding rock into mountains. *Check:* Not chosen yet. Check that it gives about 50 million years for the collision and shows India moving north.
+- **A tennis ball bouncing, filmed in slow motion** (The Slow Mo Guys, or any high-speed bounce video, 4 min) id `1yT0hxplVBg`: Shows a ball squashing flat when it bounces, which is too fast to see with our eyes. It matches the wet ball prints test. *Check:* Found by YouTube search: "The Beauty of Slow Motion - Tennis Ball Bounce" by ScienceLuxembourg. Title checked automatically; a parent may still preview it.
+- **Breaking spaghetti in two (MIT, 2018)** (MIT News, 3 min) id `UWmq1pDC-qI`: Shows the spaghetti puzzle and the twist trick in high-speed video. *Check:* Found by YouTube search: "Why Spaghetti Usually Breaks Into More Than Two Pieces" by Everyday, Explained in lines. Title checked automatically; a parent may still preview it.
+- **How the Himalayas were made** (a trusted science channel, for example a museum or a university, 5 min) id `QLmiNnbETqE`: Shows the Indian plate pushing into Asia and folding rock into mountains. *Check:* Found by YouTube search: "The Birth of the Himalayas: A Geological Journey | How the Himalayas formed  #continentaldrift #vfx" by The Infinite Madness. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) Which of these is a way a force can change shape?  

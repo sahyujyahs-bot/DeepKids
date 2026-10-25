@@ -16,7 +16,7 @@ def check(path):
     level = int(m.group(2)) if m else 3
     need = ["summary", "intro", "outcomes", "terms", "explanations", "agreed", "challenging", "big_questions", "story", "games", "worksheets",
             "experiments", "activities", "videos", "quiz", "applications", "spotted", "open_questions", "ask_kids", "jokes", "maths", "song",
-            "challenges", "links", "buy", "warmup", "plan"]
+            "challenges", "links", "buy", "warmup", "plan", "roots"]
     for k in need:
         if k not in u: P(f"missing element: {k}")
     if e: return e, 0, 0
@@ -33,6 +33,14 @@ def check(path):
     for c in u["challenging"]:
         if c.get("status") not in ("accepted", "debated", "minority", "rejected"): P(f"challenging view status: {c.get('claim', '')[:40]}")
     if len(u["big_questions"]) < 4 or not all(q.get("kind") in ("deep", "big") for q in u["big_questions"]): P("big_questions: 4+, each kind deep or big")
+    r = u["roots"]   # app/content/PHILOSOPHY.md
+    for k in ("context", "three", "thread", "teachings", "science", "other_view", "practice", "ask", "art"):
+        if not r.get(k): P(f"roots needs {k} (see PHILOSOPHY.md)")
+    if r.get("three") and not all(r["three"].get(k) for k in ("who_am_i", "what_is_life", "what_is_this_world")): P("roots.three needs who_am_i, what_is_life, what_is_this_world")
+    if not 2 <= len(r.get("teachings", [])) <= 3 or not all(t.get("source") and t.get("teaching") and t.get("link") for t in r.get("teachings", [])): P("roots.teachings: 2-3, each with source, teaching, link")
+    if not all(x.get("status") in ("settled", "idea", "debated", "open") for x in r.get("science", [])): P("roots.science status must be settled/idea/debated/open")
+    if r.get("practice") and not all(r["practice"].get(k) for k in ("title", "mins", "say", "kid")): P("roots.practice needs title, mins, say, kid")
+    if not 2 <= len(r.get("ask", [])) <= 4: P("roots.ask: 2-4 open questions")
     s = u["story"]
     w = len(" ".join(s.get("text", [])).split())
     if not 450 <= w <= 1400: P(f"story is {w} words (450-1400)")

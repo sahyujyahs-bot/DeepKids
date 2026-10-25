@@ -759,8 +759,8 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 
 ## Videos
 - **How a plant grows (from the founder's weekly activity 'Let grow and grow')** (linked in the founder's DeepKids notes, 5 min) id `ib5uiLMM2wY`: Shows a seed growing its first root, stem and leaves, a good recap before looking at how each part's shape suits its job. *Check:* Video id copied from the founder's notes, not watched from here. A parent should check that it plays, and that it is accurate, before showing it.
-- **The Private Life of Plants: climbing and twining plants** (BBC Earth (David Attenborough), 5 min) id `to find`: Time-lapse films of climbers twining, tendrils coiling and shoot tips circling, the movements children try to see in the bean diary and the tendril activity. *Check:* The 1995 BBC series is real and covers climbing plants. A clip on the BBC Earth channel still needs to be found and checked.
-- **The living root bridges of Meghalaya** (to find: a documentary or news channel, 5 min) id `to find`: Shows Khasi bridges built from the aerial roots of rubber fig trees, a real example of roots shaped for a new job. *Check:* Several films exist. Choose one that names the Khasi and Jaintia people and shows how the roots are guided. YouTube id still to find.
+- **The Private Life of Plants: climbing and twining plants** (BBC Earth (David Attenborough), 5 min) id `to find`: Time-lapse films of climbers twining, tendrils coiling and shoot tips circling, the movements children try to see in the bean diary and the tendril activity. *Check:* Search matched the wrong episode; still to find.
+- **The living root bridges of Meghalaya** (to find: a documentary or news channel, 5 min) id `C3-WzvtFAa8`: Shows Khasi bridges built from the aerial roots of rubber fig trees, a real example of roots shaped for a new job. *Check:* Found by YouTube search: "Living Root Bridges of Meghalaya – Double Decker Wonder of India | 3-Minute Travel Documentary" by Tour Point. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is the main job of a plant's roots?  
