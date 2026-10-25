@@ -167,7 +167,7 @@
     "A blown-up balloon stays round because air inside pushes on its skin."
    ],
    "perspectives": [],
-   "art": "Three panels: a glass pushed upside down into a bucket with a dry tissue inside; a child running with cardboard held flat; a balloon with dots of air bouncing inside.",
+   "art": "Three panels: a glass pushed upside down into a bucket with a dry tissue inside, a child running with cardboard held flat; a balloon with dots of air bouncing inside.",
    "context": "This card explains the first idea of the whole unit. Air is not nothing. It is real stuff that a wing can push on."
   },
   {
@@ -224,7 +224,7 @@
      "explanation": "Bernoulli's idea and Newton's idea are two views of one thing. A wing bends the air. Bending moving air needs a difference in push: less push above, more push below. That same difference speeds up the air on top. Some scientists still say there is no simple explanation that everyone accepts. In 2020, a magazine article called it a question no one can fully explain."
     }
    ],
-   "art": "A wing in a wind tunnel with pulses of white smoke; the pulse on top has raced ahead of the pulse underneath, with a red cross over the words 'equal time'.",
+   "art": "A wing in a wind tunnel with pulses of white smoke, where the pulse on top has raced ahead of the pulse underneath, with a red cross over the words 'equal time'.",
    "context": "Most people have heard an explanation of why wings work. This card is about which explanations are right, which one is wrong, and what is still argued about."
   },
   {
@@ -266,7 +266,7 @@
     "Common swifts can stay in the air for about 10 months without landing. A Swedish study tracked them in 2016."
    ],
    "perspectives": [],
-   "art": "A crow's downstroke and upstroke in two frames; beside it, a black kite circling in a spiral of rising warm air above a hot city road.",
+   "art": "A crow's downstroke and upstroke in two frames, and beside it a black kite circling in a spiral of rising warm air above a hot city road.",
    "context": "Birds were flying for millions of years before people. This card explains how they flap, glide and soar.",
    "chart": {
     "type": "bar",
@@ -302,7 +302,7 @@
    "concept": "Seeds that fly",
    "status": "defined",
    "definition": "Many plants make seeds that fly, so the wind carries them far from the parent plant. Some float on parachutes of fine hairs. Some spin on one wing. Some glide on two wings.",
-   "description": "A seed that lands under its parent has to share light and water with it. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so it falls very slowly. A mahogany seed has one wing and spins as it falls. In 2009, scientists showed that the spinning makes a little whirl of air over the wing, which gives extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about as wide as your hand. It glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like it.",
+   "description": "A seed that lands under its parent has to share light and water with it. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so it falls very slowly. A mahogany seed has one wing and spins as it falls. In 2009, scientists studying spinning seeds like this found something new. The spinning makes a little whirl of air over the wing, which gives extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about as wide as your hand. It glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like it.",
    "examples": [
     "Silky aak and semal fluff floats away on the wind.",
     "Big-leaf mahogany seeds spin down like helicopters in many Indian cities.",
@@ -361,7 +361,7 @@
     "High on a mountain, there are fewer molecules, so wings and lungs both have to work harder."
    ],
    "perspectives": [],
-   "art": "A zoom in four steps: a plane; its wing; a close-up of the wing's skin; tiny molecules bouncing off it, more crowded underneath than on top.",
+   "art": "A zoom in four steps, from a plane to its wing, to a close-up of the wing's skin, to tiny molecules bouncing off it, more crowded underneath than on top.",
    "context": "This card zooms in far past anything we can see, to find out what lift really is deep down."
   },
   {
@@ -827,7 +827,7 @@
      "say": "Every pilot needs a plane and every plane needs a runway. Let's build our airport.",
      "kid": "Fold your paper plane. Tape three sheets in a row. That is your runway. Stand 3 big steps away.",
      "context": "This is the first step of Paper Plane Airport. It is a landing game. Pilots try to land paper planes on a paper runway on the floor.",
-     "parent": "A simple dart plane: fold the sheet in half the long way, open it, fold the two top corners to the middle, fold the new edges to the middle again, then fold it in half and fold down each wing."
+     "parent": "To fold a simple dart plane, first fold the sheet in half the long way and open it. Fold the two top corners to the middle line. Fold the new slanted edges to the middle again. Fold the plane in half. Last, fold down each wing."
     },
     {
      "id": "s2",
@@ -877,7 +877,7 @@
      "mins": 3,
      "do": "Add up the points and find the winner. Read out the best 'What the plane did' notes.",
      "say": "Real pilots learn by trying, noticing and changing one thing at a time. So did you.",
-     "kid": "Add up your points. Who won? Real pilots and plane makers learn by changing one thing at a time.",
+     "kid": "Add up your points. Who won? Real pilots learn by changing one thing at a time.",
      "think": "Why is it better to change only one thing before each throw?"
     }
    ],
@@ -1596,7 +1596,7 @@
        ]
       }
      ],
-     "parent": "The air pushes the ball up, like a hand. When the ball drifts to one edge, the fast air curves around it and the ball is pushed back into the stream. Many books explain this with Bernoulli's rule, that fast air pushes less on things beside it. Scientists argue about the best simple explanation, just as they do for wings."
+     "parent": "The air pushes the ball up, like a hand. When the ball drifts to one edge, the fast air curves around it. Then the ball is pushed back into the stream. Many books explain this with Bernoulli's rule, that fast air pushes less on things beside it. Scientists argue about the best simple explanation, just as they do for wings."
     },
     {
      "id": "s3",
@@ -1917,7 +1917,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Each person holds a dupatta like wings. 2. Call out a way of flying, and everyone dances it: flap like a crow, glide like a paper plane, soar in circles like a cheel, spin down like a mahogany seed, float like aak fluff.",
+     "do": "1. Each person holds a dupatta like wings. 2. Call out a way of flying, and everyone dances it. Flap like a crow. Glide like a paper plane. Soar in circles like a cheel. Spin down like a mahogany seed. Float like aak fluff.",
      "say": "When I call a word, move like that flyer. Flap! Glide! Soar! Spin! Float!",
      "kid": "Hold your dupatta like wings. When you hear a word, move like that flyer. Flap! Glide! Soar! Spin! Float!",
      "context": "This is the first step of the Wings Dance. You dance the different ways that birds, planes and seeds fly.",
@@ -2488,7 +2488,7 @@
      ],
      "a": 1,
      "why": "The tallest bar is the plane with 1 clip, at 6 metres. Picking 3 clips usually means 'more weight is better'. Too much weight on the nose makes the plane dive.",
-     "context": "In the Paper Clip Pilot experiment, you throw the same paper plane with no clip, one clip and three clips on its nose. You measure how far it flies each time.",
+     "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies.",
      "how": "e1",
      "chart": {
       "type": "bar",
@@ -2523,7 +2523,7 @@
       "two"
      ],
      "why": "6 take away 4 is 2. So it flew 2 metres further.",
-     "context": "In the Paper Clip Pilot experiment, you throw the same paper plane with no clip, one clip and three clips on its nose. You measure how far it flies each time.",
+     "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies.",
      "how": "e1",
      "chart": {
       "type": "bar",
@@ -2561,7 +2561,7 @@
      ],
      "a": 0,
      "why": "In a fair test you change only one thing. A different thrower might throw harder or softer. Picking 'it doesn't matter' usually means not yet seeing that a throw can change the result.",
-     "context": "In the Paper Clip Pilot experiment, you throw the same paper plane with no clip, one clip and three clips on its nose. You measure how far it flies each time.",
+     "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies.",
      "how": "e1"
     },
     {
@@ -3073,7 +3073,7 @@
    "outcome": 3,
    "how": "e1",
    "why": "In a fair test, you change only one thing. Picking 'the clips and the thrower' means testing two things at once. Then you can't tell which one made the difference.",
-   "context": "In the Paper Clip Pilot experiment, you throw the same paper plane with no clip, one clip and three clips on its nose. You measure how far it flies each time."
+   "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies."
   },
   {
    "t": "mcq",
@@ -3248,7 +3248,7 @@
   "Drones deliver medicines and survey farms and forests.",
   "Kites lift cameras, weather instruments and even sails that pull big ships.",
   "Parachutes and paragliders let people float down safely or glide for hours.",
-  "Engineers copy birds: the upturned tips on many airliner wings work like the spread feathers at a vulture's wingtips.",
+  "Engineers copy birds. The upturned tips on many airliner wings do a job a little like the spread feathers at a vulture's wingtips.",
   "Seed-shaped drones and sensors, copied from mahogany and dandelion seeds, are being tested to drift over forests and fields.",
   "Cricket and badminton: the shuttlecock's feathers add drag and keep its nose pointing forwards, like a kite's tail.",
   "Weather scientists study thermals, because the same rising air that birds use also builds clouds and storms.",
@@ -3437,7 +3437,7 @@
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
    "how": "e1",
    "why_maths": "Taking one distance away from another tells you exactly how much a change to the plane helped.",
-   "context": "In the Paper Clip Pilot experiment, you throw the same paper plane with no clip, one clip and three clips on its nose. You measure how far it flies each time.",
+   "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies.",
    "chart": {
     "type": "bar",
     "title": "Made-up example results: how far each plane flew (middle of 3 throws)",
@@ -3543,7 +3543,7 @@
    "math_unit": "math.data.bar-charts.L3",
    "how": "e1",
    "why_maths": "After a test you have a list of numbers. A bar chart shows the best and the worst at a glance.",
-   "context": "In the Paper Clip Pilot experiment, you throw the same paper plane with no clip, one clip and three clips on its nose. You measure how far it flies each time.",
+   "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies.",
    "answer_chart": {
     "type": "bar",
     "title": "Four throws of one paper plane (made-up results)",
@@ -3581,14 +3581,14 @@
  },
  "links": [
   {
-   "title": "NASA Glenn Research Center: Beginner's Guide to Aeronautics",
-   "url": "https://www.grc.nasa.gov/www/k-12/airplane/",
+   "title": "NASA Glenn Research Center (search for its Beginner's Guide to Aeronautics)",
+   "url": "https://www.grc.nasa.gov",
    "kind": "interactive",
    "why": "NASA's pages for students and teachers on lift, drag and wings. They include a page explaining why the 'equal transit time' idea is wrong. Best for the parent."
   },
   {
-   "title": "NASA Science: Mars Helicopter Ingenuity",
-   "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity/",
+   "title": "NASA Science (search for the Ingenuity Mars Helicopter)",
+   "url": "https://science.nasa.gov",
    "kind": "interactive",
    "why": "Photos and films of the first powered flight on another planet."
   },

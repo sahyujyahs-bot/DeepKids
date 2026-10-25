@@ -92,7 +92,7 @@ On each downstroke, a bird sweeps its wings down and forward. The air is pushed 
 ### Seeds that fly · *defined*
 **Definition:** Many plants make seeds that fly, so the wind carries them far from the parent plant. Some float on parachutes of fine hairs. Some spin on one wing. Some glide on two wings.
 
-A seed that lands under its parent has to share light and water with it. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so it falls very slowly. A mahogany seed has one wing and spins as it falls. In 2009, scientists showed that the spinning makes a little whirl of air over the wing, which gives extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about as wide as your hand. It glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like it.
+A seed that lands under its parent has to share light and water with it. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so it falls very slowly. A mahogany seed has one wing and spins as it falls. In 2009, scientists studying spinning seeds like this found something new. The spinning makes a little whirl of air over the wing, which gives extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about as wide as your hand. It glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like it.
 - e.g. Silky aak and semal fluff floats away on the wind.
 - e.g. Big-leaf mahogany seeds spin down like helicopters in many Indian cities.
 - e.g. Drumstick seeds have three papery wings.
@@ -263,7 +263,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   *Parent does:* 1. Help each player fold a simple dart-shaped paper plane from one A4 sheet. 2. Tape 3 sheets in a row to make the runway. 3. Mark a throwing line 3 big steps away.  
   *Parent says:* Every pilot needs a plane and every plane needs a runway. Let's build our airport.  
   *Child mode:* Fold your paper plane. Tape three sheets in a row. That is your runway. Stand 3 big steps away.
-  - Note: A simple dart plane: fold the sheet in half the long way, open it, fold the two top corners to the middle, fold the new edges to the middle again, then fold it in half and fold down each wing.
+  - Note: To fold a simple dart plane, first fold the sheet in half the long way and open it. Fold the two top corners to the middle line. Fold the new slanted edges to the middle again. Fold the plane in half. Last, fold down each wing.
 - **s2 (12 min)**  
   *Parent does:* 1. Take turns. Each pilot draws a challenge card, does it, then throws. 2. Score the landing. 3. Write it in the pilot log.  
   *Parent says:* What did that card do to your plane? Did it climb, dive or glide?  
@@ -279,7 +279,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **s4 (3 min)**  
   *Parent does:* Add up the points and find the winner. Read out the best 'What the plane did' notes.  
   *Parent says:* Real pilots learn by trying, noticing and changing one thing at a time. So did you.  
-  *Child mode:* Add up your points. Who won? Real pilots and plane makers learn by changing one thing at a time.
+  *Child mode:* Add up your points. Who won? Real pilots learn by changing one thing at a time.
   - Think: Why is it better to change only one thing before each throw?
 
 ## Experiments
@@ -405,7 +405,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   *Parent says:* The ball stays in the stream, even when we tilt it. Why doesn't it fall out?  
   *Child mode:* Let go of a ping-pong ball above the dryer. It floats! Now tilt the dryer slowly. Does the ball fall out?
   - Ask: What happens when the ball drifts to the edge of the air stream? (good: It moves back into the middle.; The air pushes it back.)
-  - Note: The air pushes the ball up, like a hand. When the ball drifts to one edge, the fast air curves around it and the ball is pushed back into the stream. Many books explain this with Bernoulli's rule, that fast air pushes less on things beside it. Scientists argue about the best simple explanation, just as they do for wings.
+  - Note: The air pushes the ball up, like a hand. When the ball drifts to one edge, the fast air curves around it. Then the ball is pushed back into the stream. Many books explain this with Bernoulli's rule, that fast air pushes less on things beside it. Scientists argue about the best simple explanation, just as they do for wings.
 - **s3 (5 min)**  
   *Parent does:* Talk about how the air held things up, and compare it with a wing.  
   *Parent says:* The dryer pushes air up to hold the ball. A wing does the opposite. It pushes air down, so the air pushes the wing up.  
@@ -470,7 +470,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **safety:** Spin slowly and stop if you feel dizzy. Move on a soft, clear floor.
 - **record:** Draw your favourite flying move. Label it flapping, gliding, soaring or spinning.
 - **s1 (8 min)**  
-  *Parent does:* 1. Each person holds a dupatta like wings. 2. Call out a way of flying, and everyone dances it: flap like a crow, glide like a paper plane, soar in circles like a cheel, spin down like a mahogany seed, float like aak fluff.  
+  *Parent does:* 1. Each person holds a dupatta like wings. 2. Call out a way of flying, and everyone dances it. Flap like a crow. Glide like a paper plane. Soar in circles like a cheel. Spin down like a mahogany seed. Float like aak fluff.  
   *Parent says:* When I call a word, move like that flyer. Flap! Glide! Soar! Spin! Float!  
   *Child mode:* Hold your dupatta like wings. When you hear a word, move like that flyer. Flap! Glide! Soar! Spin! Float!
   - Ask: Which dance move was the most tiring? Why? (good: Flapping, because you have to keep moving your arms.; Hovering, because you can't rest.)
@@ -754,7 +754,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - Drones deliver medicines and survey farms and forests.
 - Kites lift cameras, weather instruments and even sails that pull big ships.
 - Parachutes and paragliders let people float down safely or glide for hours.
-- Engineers copy birds: the upturned tips on many airliner wings work like the spread feathers at a vulture's wingtips.
+- Engineers copy birds. The upturned tips on many airliner wings do a job a little like the spread feathers at a vulture's wingtips.
 - Seed-shaped drones and sensors, copied from mahogany and dandelion seeds, are being tested to drift over forests and fields.
 - Cricket and badminton: the shuttlecock's feathers add drag and keep its nose pointing forwards, like a kite's tail.
 - Weather scientists study thermals, because the same rising air that birds use also builds clouds and storms.
@@ -829,8 +829,8 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 
 ## Links
-- [NASA Glenn Research Center: Beginner's Guide to Aeronautics](https://www.grc.nasa.gov/www/k-12/airplane/) · interactive: NASA's pages for students and teachers on lift, drag and wings. They include a page explaining why the 'equal transit time' idea is wrong. Best for the parent.
-- [NASA Science: Mars Helicopter Ingenuity](https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity/) · interactive: Photos and films of the first powered flight on another planet.
+- [NASA Glenn Research Center (search for its Beginner's Guide to Aeronautics)](https://www.grc.nasa.gov) · interactive: NASA's pages for students and teachers on lift, drag and wings. They include a page explaining why the 'equal transit time' idea is wrong. Best for the parent.
+- [NASA Science (search for the Ingenuity Mars Helicopter)](https://science.nasa.gov) · interactive: Photos and films of the first powered flight on another planet.
 - [Smithsonian National Air and Space Museum](https://airandspace.si.edu) · interactive: The museum that keeps the Wright brothers' 1903 Flyer. Its website has photos and stories from the history of flight.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities. Search for paper planes, kites and air. It is on the founder's list of STEM websites.
 - [Bird Count India](https://birdcount.in) · interactive: A group that helps families count and record birds across India. Good for the Bird Watch activity.
