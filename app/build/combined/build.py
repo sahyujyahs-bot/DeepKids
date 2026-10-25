@@ -9,7 +9,8 @@ HERE = os.path.dirname(os.path.abspath(__file__)); BUILD = os.path.dirname(HERE)
 sys.path.insert(0, BUILD)
 from validate_pack import check
 DATA = os.path.join(BUILD, 'data.json'); data = json.load(open(DATA))
-data['items'] = [i for i in data['items'] if i['board'] != 'combined']
+data['items'] = [i for i in data['items'] if i['board'] not in ('combined', 'unit')]
+for i in data['items']: (i.get('c') or {}).pop('units', None)   # rebuilt below, so reruns never stack
 have = {i['k'] for i in data['items']}
 PACKS = {}
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'combined', '*.json'))):
@@ -51,6 +52,7 @@ import re
 slug = lambda x: re.sub(r'[^a-z0-9]+', '-', x.lower()).strip('-')
 CUR = json.load(open(os.path.join(APP, 'content', 'curriculum', 'sci.json')))
 TL = {s: t for t in CUR['topic_levels'] for s in t['subtopic_levels']}
+SUB = {x['id']: x for x in CUR['subtopic_levels']}
 data['units'] = {}
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
     if f.endswith('.art.json'): continue
@@ -59,11 +61,25 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
     art = f[:-5] + '.art.json'
     if os.path.exists(art): u['img'] = json.load(open(art))
     data['units'][u['id']] = u
+    ref = {"id": u['id'], "title": u['title']}
+    # 1. the unit is a lesson like any other: search, browse and related links find it through data['items']
+    sub = SUB.get(u['id'], {})
+    data['items'].append({"k": "unit|" + u['id'], "board": "unit", "subj": t['subject'], "level": t['level'],
+        "book": f"DeepKids subtopic · Class {t['level']}", "n": sub.get('subtopic', u['id'].split('.')[2]), "title": u['title'], "dk": [],
+        "c": {"covers": " · ".join([t['name'], sub.get('name', ''), sub.get('covers', ''), u['summary']['text'], ", ".join(x['term'] for x in u['terms'])]), "unit": u['id']}})
+    # 2. every board chapter that teaches this subtopic (or its topic, at this class) links to it
+    chap = CUR.get('chapters', {})
+    for ck in set(sub.get('chapters', []) + t.get('chapters', [])):
+        ik = chap.get(ck, {}).get('item')
+        for it in data['items']:
+            if it.get('k') == ik:
+                it.setdefault('c', {}).setdefault('units', [])
+                if ref not in it['c']['units']: it['c']['units'].append(ref)
     for e in plan.get(t['subject'], {}).get(str(t['level']), []):
         if e['topic'] == slug(t['name']) or slug(e['title']) == slug(t['name']):
             e.setdefault('units', []).append({"id": u['id'], "title": u['title']})
             for it in data['items']:
-                if it.get('k') == e.get('k'): it['c'].setdefault('units', []).append({"id": u['id'], "title": u['title']})
+                if it.get('k') == e.get('k') and ref not in it['c'].setdefault('units', []): it['c']['units'].append(ref)
             break
     else: print('no rung for unit', u['id'])
 print('units:', len(data['units']))
