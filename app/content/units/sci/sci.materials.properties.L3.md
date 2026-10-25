@@ -3,7 +3,7 @@
 
 **Summary.** This unit is about properties. A property is a word for what a material is like, such as hard, bendy, shiny or waterproof. You find out a property by looking, touching, listening and testing. Better still, you can measure it. Then you can say which material is harder, stronger or thirstier, and by how much. Every material has many properties at once, and the job decides which ones matter. Properties come from the tiny atoms inside a material and how they are joined. Scientists can measure most properties very well. But they still cannot predict them all in advance, and they still argue about what glass really is.
 
-**Intro.** *Try this. Pick up a steel spoon in one hand and a wooden spoon in the other. They have been in the same room all day. Which one feels colder? Now guess what a thermometer would say.* About three hundred years ago, in Bengal, weavers made a cloth so fine that people called it woven air. Stories say a whole sari could be pulled through a finger ring. But the thread for this cloth had a strange habit. In the cool morning it held strong. At noon it kept snapping. Nobody could say why. Was the cotton bad? Were the spinners tired? Or did the thread itself change with the hour? To solve it, you need the idea of this unit. It is about the properties of a material, and how to measure them.
+**Intro.** *Try this. Pick up a steel spoon in one hand and a wooden spoon in the other. They have been in the same room all day. Which one feels colder? Now guess what a thermometer would say.* Here is a puzzle from the past. About three hundred years ago, in Bengal, weavers made a cloth so fine that people called it woven air. Stories say a whole sari could be pulled through a finger ring. But the thread for this cloth had a strange habit. In the cool morning it held strong. At noon it kept snapping. Nobody could say why. Was the cotton bad? Were the spinners tired? Or did the thread itself change with the hour? To solve it, you need the idea of this unit. It is about the properties of a material, and how to measure them.
 
 ## Learning outcomes
 0. I can say what a property is, and name at least ten properties of materials.
@@ -44,7 +44,7 @@
 ### What a property is · *defined*
 **Definition:** A property is a word that tells what a material is like.
 
-You can find out a property in four ways. You can look, touch, listen or test. Some you see at once, like shiny or see-through. Others need a test, like strong or waterproof. A property belongs to the material, not to one object. A steel spoon and a steel tumbler have different shapes. But both are hard and shiny, because both are steel. One more property, whether a magnet sticks, has a unit of its own, called Magnetic materials.
+You can find out a property in four ways. You can look, touch, listen or test. Some you see at once, like shiny or see-through. Others need a test, like strong or waterproof. A property belongs to the material, not to one object. A steel spoon and a steel tumbler have different shapes. But both are hard and shiny, because both are steel. One more property is whether a magnet sticks to it. The unit Magnetic materials is all about that.
 - e.g. Look: a steel spoon is shiny and a brick is dull.
 - e.g. Touch: sandpaper is rough and marble is smooth.
 - e.g. Listen: a steel spoon rings when tapped and a wooden spoon makes a dull knock.
@@ -138,8 +138,8 @@ A diamond and the black lead of a pencil are both made only of carbon atoms. Yet
 
 Rubber comes from the milky sap of the rubber tree. The sap is made of very long chains of atoms, like a bowl of cooked noodles. When you pull the band, the noodles straighten out. When you let go, they tangle up again, because a tangle is the more likely arrangement. Here is a strange fact. Stretch a thick rubber band fast, then touch it to your lip. It feels warm. Let it go quickly and it feels cool. Stretching and tangling change how the atoms jiggle, and that changes the heat.
 - e.g. Rubber tyres, chappals and balloons are all stretchy.
-- e.g. Cotton and wool are made of fibres that can be twisted into thread.
-- e.g. Spider silk is a protein chain that can stretch and is very strong.
+- e.g. A hair tie stretches and springs back many times, until the chains wear out.
+- e.g. A balloon feels slightly warm just after you stretch it, if you hold it to your lip.
 ### Properties change: thickness, wetness and heat · *defined*
 **Definition:** A property is not always the same. It can change when the thickness, the wetness or the temperature changes.
 
@@ -289,7 +289,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Read the five properties together: hard, bendy, see-through, thirsty (soaks up water) and strong (holds a big pull). 3. Shuffle and deal.  
   *Parent says:* Each card gives a material five scores. Zero means none at all. Five means a lot. Thirsty means soaks up water. Strong means it holds a big pull without breaking.  
-  *Child mode:* Cut out the cards. Learn the five properties. Zero means none. Five means a lot. Then deal the cards.
+  *Child mode:* Cut out the cards. Learn the five properties. Zero means none, and five means a lot.
 - **s2 (3 min)**  
   *Parent does:* Play one practice round. Show the top cards. Ask: 'If I chose thirsty, who would win?'  
   *Parent says:* Let's practise with one round. Look at your top cards. If I pick 'thirsty', who wins?  
@@ -343,7 +343,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Finish like a scientist. Say or write what I think, what I saw, and why.
   - Note: A good answer sounds like this. What I think: dry things snap, metals stay bent and rubbery things spring back. What I saw: the spaghetti snapped into three pieces, the paper clip stayed bent and the ruler sprang back. Why: a brittle thing cannot give, so it breaks. Metals let their atoms slide. Elastic things stretch and spring home.
 ### e2 · The Droop Test: how bendy is it? (25 min)
 - **question:** Which strips bend the most when they stick out from a table, and which bend the least?
@@ -379,7 +379,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Finish like a scientist. Say or write what I think, what I saw, and why.
   - Note: A good answer sounds like this. What I think: the ice cream stick is the stiffest and the cloth is the bendiest. What I saw: the stick dropped 1 centimetre and the cloth hung straight down at 10. Why: wood fibres packed together resist bending, and cloth threads slide and fold.
 ### e3 · Dry or Damp? Does water change how strong it is? (30 min)
 - **question:** When a strip of material gets damp, does it become stronger, weaker or stay the same?
@@ -401,7 +401,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s3 (14 min)**  
   *Parent does:* 1. Add marbles one at a time, gently, and count out loud. 2. When the strip tears, write down the number. 3. Test each dry strip twice. 4. Then do the same with damp strips. 5. Write all the numbers in the table.  
   *Parent says:* Drop each marble in gently. Count out loud. Write the number when the strip tears. First all the dry ones. Then all the damp ones.  
-  *Child mode:* Add marbles one at a time. Count. Write the number when the strip tears. Do dry first. Then damp.
+  *Child mode:* Add marbles one at a time, and count. Write the number when the strip tears. Do dry first, then damp.
   - Note: Cotton cloth may show only a small change, or none at all. That is an honest result. Textile scientists find that damp cotton is about one tenth to one fifth stronger than dry cotton. Paper loses most of its strength when wet, because the water pulls the fibres apart. Plastic does not take in water, so it is the control: it should not change.
 - **s4 (5 min)**  
   *Parent does:* Help your child fill in the last column, then compare the changes.  
@@ -416,7 +416,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Finish like a scientist. Say or write what I think, what I saw, and why.
   - Note: A good answer sounds like this. What I think: water makes paper weaker and does not change plastic. What I saw: the damp printer paper held 3 marbles and the dry held 9. The plastic held 22 either way. Why: water gets between the paper fibres and pushes them apart, but plastic does not take in water.
 ### e4 · The Vanishing Drop: how fast does it soak in? (25 min)
 - **question:** How many seconds does one drop of water take to vanish on each surface? Which surfaces never let it in?
@@ -452,7 +452,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Finish like a scientist. Say or write what I think, what I saw, and why.
   - Note: A good answer sounds like this. What I think: paper towel is the most absorbent and plastic is waterproof. What I saw: the drop vanished in 2 seconds on paper towel. It was still there after 120 seconds on plastic. Why: the paper towel has tiny gaps that pull water in, and plastic has no gaps.
 ### e5 · Layers to Darkness: transparent, translucent or opaque? (20 min)
 - **question:** How many layers of each material does it take to stop a torch's light?
@@ -483,7 +483,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Finish like a scientist. Say or write what I think, what I saw, and why.
   - Note: A good answer sounds like this. What I think: more layers make a material more opaque. What I saw: one butter paper let a glow through, but 5 layers stopped it. Why: each layer scatters and soaks up some light, so the more layers there are, the less gets through.
 
 ## Activities

@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Try this. Pick up a steel spoon in one hand and a wooden spoon in the other. They have been in the same room all day. Which one feels colder? Now guess what a thermometer would say.",
-  "text": "About three hundred years ago, in Bengal, weavers made a cloth so fine that people called it woven air. Stories say a whole sari could be pulled through a finger ring. But the thread for this cloth had a strange habit. In the cool morning it held strong. At noon it kept snapping. Nobody could say why. Was the cotton bad? Were the spinners tired? Or did the thread itself change with the hour? To solve it, you need the idea of this unit. It is about the properties of a material, and how to measure them.",
+  "text": "Here is a puzzle from the past. About three hundred years ago, in Bengal, weavers made a cloth so fine that people called it woven air. Stories say a whole sari could be pulled through a finger ring. But the thread for this cloth had a strange habit. In the cool morning it held strong. At noon it kept snapping. Nobody could say why. Was the cotton bad? Were the spinners tired? Or did the thread itself change with the hour? To solve it, you need the idea of this unit. It is about the properties of a material, and how to measure them.",
   "art": "A river village at dawn, mist on the water. A woman and a girl sit on a mat, spinning cotton into thread so thin it can barely be seen against the light. A long piece of fine cloth lies on the grass beside them, the grass showing through it."
  },
  "outcomes": [
@@ -172,7 +172,7 @@
    "concept": "What a property is",
    "status": "defined",
    "definition": "A property is a word that tells what a material is like.",
-   "description": "You can find out a property in four ways. You can look, touch, listen or test. Some you see at once, like shiny or see-through. Others need a test, like strong or waterproof. A property belongs to the material, not to one object. A steel spoon and a steel tumbler have different shapes. But both are hard and shiny, because both are steel. One more property, whether a magnet sticks, has a unit of its own, called Magnetic materials.",
+   "description": "You can find out a property in four ways. You can look, touch, listen or test. Some you see at once, like shiny or see-through. Others need a test, like strong or waterproof. A property belongs to the material, not to one object. A steel spoon and a steel tumbler have different shapes. But both are hard and shiny, because both are steel. One more property is whether a magnet sticks to it. The unit Magnetic materials is all about that.",
    "examples": [
     "Look: a steel spoon is shiny and a brick is dull.",
     "Touch: sandpaper is rough and marble is smooth.",
@@ -358,8 +358,8 @@
    "description": "Rubber comes from the milky sap of the rubber tree. The sap is made of very long chains of atoms, like a bowl of cooked noodles. When you pull the band, the noodles straighten out. When you let go, they tangle up again, because a tangle is the more likely arrangement. Here is a strange fact. Stretch a thick rubber band fast, then touch it to your lip. It feels warm. Let it go quickly and it feels cool. Stretching and tangling change how the atoms jiggle, and that changes the heat.",
    "examples": [
     "Rubber tyres, chappals and balloons are all stretchy.",
-    "Cotton and wool are made of fibres that can be twisted into thread.",
-    "Spider silk is a protein chain that can stretch and is very strong."
+    "A hair tie stretches and springs back many times, until the chains wear out.",
+    "A balloon feels slightly warm just after you stretch it, if you hold it to your lip."
    ],
    "perspectives": [],
    "art": "A rubber band stretched across the page, with a magnified view above showing long tangled noodle-like chains straightening out as the band is pulled.",
@@ -819,7 +819,7 @@
      "mins": 2,
      "do": "1. Cut out the 16 cards. 2. Read the five properties together: hard, bendy, see-through, thirsty (soaks up water) and strong (holds a big pull). 3. Shuffle and deal.",
      "say": "Each card gives a material five scores. Zero means none at all. Five means a lot. Thirsty means soaks up water. Strong means it holds a big pull without breaking.",
-     "kid": "Cut out the cards. Learn the five properties. Zero means none. Five means a lot. Then deal the cards.",
+     "kid": "Cut out the cards. Learn the five properties. Zero means none, and five means a lot.",
      "context": "This is the first step of Property Trumps. It is a card game where you compare the scores of materials. Here you set up and learn the five properties."
     },
     {
@@ -1754,7 +1754,7 @@
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "kid": "Finish like a scientist. Say or write what I think, what I saw, and why.",
      "parent": "A good answer sounds like this. What I think: dry things snap, metals stay bent and rubbery things spring back. What I saw: the spaghetti snapped into three pieces, the paper clip stayed bent and the ruler sprang back. Why: a brittle thing cannot give, so it breaks. Metals let their atoms slide. Elastic things stretch and spring home."
     }
    ],
@@ -1961,7 +1961,7 @@
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "kid": "Finish like a scientist. Say or write what I think, what I saw, and why.",
      "parent": "A good answer sounds like this. What I think: the ice cream stick is the stiffest and the cloth is the bendiest. What I saw: the stick dropped 1 centimetre and the cloth hung straight down at 10. Why: wood fibres packed together resist bending, and cloth threads slide and fold."
     }
    ],
@@ -2102,7 +2102,7 @@
      "mins": 14,
      "do": "1. Add marbles one at a time, gently, and count out loud. 2. When the strip tears, write down the number. 3. Test each dry strip twice. 4. Then do the same with damp strips. 5. Write all the numbers in the table.",
      "say": "Drop each marble in gently. Count out loud. Write the number when the strip tears. First all the dry ones. Then all the damp ones.",
-     "kid": "Add marbles one at a time. Count. Write the number when the strip tears. Do dry first. Then damp.",
+     "kid": "Add marbles one at a time, and count. Write the number when the strip tears. Do dry first, then damp.",
      "parent": "Cotton cloth may show only a small change, or none at all. That is an honest result. Textile scientists find that damp cotton is about one tenth to one fifth stronger than dry cotton. Paper loses most of its strength when wet, because the water pulls the fibres apart. Plastic does not take in water, so it is the control: it should not change."
     },
     {
@@ -2172,7 +2172,7 @@
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "kid": "Finish like a scientist. Say or write what I think, what I saw, and why.",
      "parent": "A good answer sounds like this. What I think: water makes paper weaker and does not change plastic. What I saw: the damp printer paper held 3 marbles and the dry held 9. The plastic held 22 either way. Why: water gets between the paper fibres and pushes them apart, but plastic does not take in water."
     }
    ],
@@ -2381,7 +2381,7 @@
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "kid": "Finish like a scientist. Say or write what I think, what I saw, and why.",
      "parent": "A good answer sounds like this. What I think: paper towel is the most absorbent and plastic is waterproof. What I saw: the drop vanished in 2 seconds on paper towel. It was still there after 120 seconds on plastic. Why: the paper towel has tiny gaps that pull water in, and plastic has no gaps."
     }
    ],
@@ -2605,7 +2605,7 @@
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "kid": "Finish like a scientist. Say or write what I think, what I saw, and why.",
      "parent": "A good answer sounds like this. What I think: more layers make a material more opaque. What I saw: one butter paper let a glow through, but 5 layers stopped it. Why: each layer scatters and soaks up some light, so the more layers there are, the less gets through."
     }
    ],
@@ -4416,7 +4416,7 @@
    "title": "Meeting the spoon",
    "mins": 3,
    "say": "1. Close your eyes and hold out your hand. 2. I will put a steel spoon in your palm. Notice how cold it feels. 3. Now keep your hand still for one whole minute. 4. Notice what happens to the cold. The spoon slowly warms, and your palm cools a tiny bit. 5. Open your eyes. The cold was never only in the spoon, and never only in your hand. It was in the meeting. Where is the cold now?",
-   "kid": "Close your eyes. Hold out your hand. A grown-up puts a steel spoon in it. Feel how cold it is. Keep still for one minute. What happens to the cold? Open your eyes. Where did the cold go?"
+   "kid": "Close your eyes and hold out your hand. A grown-up puts a steel spoon in it. Feel the cold, and keep still for one minute. Where did the cold go?"
   },
   "ask": [
    "Is the spoon cold, or is the meeting cold?",
