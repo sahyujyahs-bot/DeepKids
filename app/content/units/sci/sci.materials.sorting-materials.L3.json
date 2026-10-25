@@ -4427,6 +4427,15 @@
    "a4",
    "a5",
    "a7"
+  ],
+  "spine": [
+   "intro",
+   "story",
+   "a2",
+   "explanations",
+   "roots",
+   "big_questions",
+   "quiz"
   ]
  },
  "sources": {

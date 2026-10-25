@@ -1,4 +1,4 @@
-# Friction: the force that lets the world hold on
+# Friction: the force that stops things sliding
 `sci.forces.friction.L3`
 
 **Summary.** This unit is about friction. Friction is the grip between two things that touch. It is why your chappal does not slip on the road. Friction always works against sliding. It lets you walk, write, tie a knot and stop a bicycle. It also slows moving things down, warms them up and slowly wears them out. Rough or soft surfaces usually grip more. Oil, water and wheels help things slide or roll more easily. Scientists can measure friction very well. But they still argue about what exactly happens where two surfaces meet, and even about why ice is slippery.

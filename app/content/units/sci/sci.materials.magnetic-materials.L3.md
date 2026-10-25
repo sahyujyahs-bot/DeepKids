@@ -1,4 +1,4 @@
-# Magnetic Materials: the things a magnet picks, and the things it leaves
+# Magnetic materials: which things a magnet pulls, and which it does not
 `sci.materials.magnetic-materials.L3`
 
 **Summary.** This unit is about which materials a magnet pulls. A material is magnetic if a magnet pulls it. Iron, most steel, nickel and cobalt are magnetic. Wood, plastic, glass, paper, cloth and stone are not. The big surprise is that most metals are not magnetic either. Aluminium, copper, brass, gold and silver are all ignored by a magnet, and so are some steel tumblers. The reason is hidden inside the atoms, where tiny magnets line up in iron but not in brass. A magnet test can show that a thing contains iron. It can never show that a thing is gold. Scientists still cannot predict every new magnetic material.
@@ -773,9 +773,9 @@ So she taught him. She guided his fingers until he could feel the little tug of 
    **Answer:** A circle with four layers. In the middle, a small circle labelled solid inner core. Around it, a thick ring labelled liquid outer core. Then a thick ring of mantle, and a thin outer ring of crust.. *Why:* Inge Lehmann found the solid inner core in 1936 from earthquake waves.
 
 ## Videos
-- **Richard Feynman on magnets: 'Fun to Imagine' (BBC, 1983)** (BBC, 7 min) id `to find`: For the parent and curious older children. The physicist is asked 'why do magnets pull?' and shows how hard that question is. A lovely lesson that 'why' has layers. *Check:* Not verified: the video id is not known. Search YouTube for 'Feynman magnets Fun to Imagine'. Check that it is the BBC clip from 1983 about why magnets pull. Preview before showing.
-- **The levitating frog** (Radboud University High Field Magnet Laboratory, Nijmegen, 3 min) id `to find`: Shows a live frog floating in a strong magnet, and why even 'non-magnetic' things are pushed a little. *Check:* Not verified: the video id is not known. Search YouTube for 'levitating frog Nijmegen magnet' and choose a clip from the university's own channel. Preview before showing.
-- **A scrap yard magnet crane sorting steel** (to find, 3 min) id `to find`: Shows how a giant magnet lifts iron and steel from a mixed heap, the way our small magnet did. *Check:* Not verified: the video id is not known. Search YouTube for 'scrap yard electromagnet crane' and preview. Choose one without loud music or unsafe talk.
+- **Richard Feynman on magnets: 'Fun to Imagine' (BBC, 1983)** (BBC, 7 min) id `Q1lL-hXO27Q`: For the parent and curious older children. The physicist is asked 'why do magnets pull?' and shows how hard that question is. A lovely lesson that 'why' has layers. *Check:* Found by YouTube search: "Feynman: Magnets (and Why?)  FUN TO IMAGINE  4/ higher quality version!" by Christopher Sykes. Title checked automatically; a parent may still preview it.
+- **The levitating frog** (Radboud University High Field Magnet Laboratory, Nijmegen, 3 min) id `9lfvK4-LVwE`: Shows a live frog floating in a strong magnet, and why even 'non-magnetic' things are pushed a little. *Check:* Found by YouTube search: "The High Field Magnet Laboratory (HFML) at Radboud University" by Radboud University. Title checked automatically; a parent may still preview it.
+- **A scrap yard magnet crane sorting steel** (to find, 3 min) id `ARvLxpDZfos`: Shows how a giant magnet lifts iron and steel from a mixed heap, the way our small magnet did. *Check:* Found by YouTube search: "Real Scrapyard Sounds — Magnet Crane at Work" by Steel Magnetism. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What does non-magnetic mean?  

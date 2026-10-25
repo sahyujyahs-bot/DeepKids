@@ -96,7 +96,13 @@ and may have `art`.
 | 25 | `buy` | `[{item, kind, why, url, used_in[], plan}]` | `kind`: tool, material, book, game. `used_in` lists the element ids that use it; `plan` says how a bought book or game joins the lesson plan |
 | 26 | `roots` | the philosophical and spiritual context: the three questions, the One becoming the many, 2–3 exact teachings, where science meets them, an honest other view, a short practice, open questions | format and rules in `app/content/PHILOSOPHY.md` |
 | – | `warmup` | `[{q, a}]`: 5–10 quick questions for the cross-unit daily game series | the day starts with jokes, the song and this game |
-| – | `plan` | `{start_options[], default_order[], core[]}` | see below |
+| – | `plan` | `{start_options[], default_order[], core[], spine[]}` | see below |
+
+## The spine (core path) and going deeper
+A Class 3 year has about 135 hours of science and about 146 units, so the planner teaches each unit's **spine** by default and offers the rest as **Go deeper**.
+- `plan.spine` lists the part ids taught by default, in order. It fits **2 sessions** of the class's daily minutes (Class 3: about 80–90 minutes in total).
+- The spine is chosen by the DeepKids method, never by the textbook. It always holds: something to notice or do first (`intro` or a short activity), **one hands-on** experiment or activity, the key explanation (`explanations`), `roots` (with its deep truth), and a short check (`quiz`). Add the story only if it fits.
+- Board coverage is handled by which units are in the year, not by the spine. Everything not in the spine is still fully written and offered when the child is curious, when there is time, or as weekend projects.
 
 ## How the app runs a unit
 - **Landing page:** everything in the unit, grouped, with a **Start** button.

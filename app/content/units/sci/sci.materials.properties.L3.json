@@ -4500,6 +4500,15 @@
    "e5",
    "a1",
    "a3"
+  ],
+  "spine": [
+   "intro",
+   "story",
+   "a1",
+   "explanations",
+   "roots",
+   "big_questions",
+   "quiz"
   ]
  },
  "sources": {

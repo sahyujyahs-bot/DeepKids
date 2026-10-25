@@ -33,6 +33,15 @@ def check(path):
     for c in u["challenging"]:
         if c.get("status") not in ("accepted", "debated", "minority", "rejected"): P(f"challenging view status: {c.get('claim', '')[:40]}")
     if len(u["big_questions"]) < 4 or not all(q.get("kind") in ("deep", "big") for q in u["big_questions"]): P("big_questions: 4+, each kind deep or big")
+    sp = u["plan"].get("spine") or []
+    if not sp: P("plan.spine: list the core-path part ids (about 2 sessions; SPEC_UNIT.md 'The spine')")
+    else:
+        fl = {x["id"]: x for k in FLOW + ("worksheets",) for x in u.get(k, [])}
+        need_sp = {"explanations", "roots", "quiz"}
+        if not need_sp <= set(sp): P("plan.spine must include explanations, roots and quiz")
+        if not any(i in fl and fl[i] in u.get("experiments", []) + u.get("activities", []) for i in sp): P("plan.spine needs one hands-on experiment or activity")
+        bad = [i for i in sp if i not in fl and i not in u]
+        if bad: P(f"plan.spine has unknown ids: {bad}")
     r = u["roots"]   # app/content/PHILOSOPHY.md
     for k in ("context", "deep_truth", "three", "thread", "teachings", "science", "other_view", "practice", "ask", "art"):
         if not r.get(k): P(f"roots needs {k} (see PHILOSOPHY.md)")

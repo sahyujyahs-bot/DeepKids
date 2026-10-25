@@ -3780,6 +3780,15 @@
    "a4",
    "a5",
    "a6"
+  ],
+  "spine": [
+   "intro",
+   "story",
+   "a5",
+   "explanations",
+   "roots",
+   "big_questions",
+   "quiz"
   ]
  },
  "sources": {

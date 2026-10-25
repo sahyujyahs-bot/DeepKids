@@ -4542,6 +4542,15 @@
    "g1",
    "ws-core",
    "c1"
+  ],
+  "spine": [
+   "intro",
+   "story",
+   "a5",
+   "explanations",
+   "roots",
+   "big_questions",
+   "quiz"
   ]
  },
  "roots": {

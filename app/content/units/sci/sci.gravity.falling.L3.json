@@ -4346,6 +4346,15 @@
    "g1",
    "p1",
    "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "story",
+   "e2",
+   "explanations",
+   "roots",
+   "big_questions",
+   "quiz"
   ]
  },
  "sources": {

@@ -3930,6 +3930,15 @@
    "a6",
    "a7",
    "p1"
+  ],
+  "spine": [
+   "intro",
+   "story",
+   "a6",
+   "explanations",
+   "roots",
+   "big_questions",
+   "quiz"
   ]
  },
  "sources": {

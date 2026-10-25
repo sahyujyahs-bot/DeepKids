@@ -1,4 +1,4 @@
-# The Climbing Water: how a plant drinks from root to leaf
+# How water moves up a plant, from the roots to the leaves
 `sci.plants.water-transport.L3`
 
 **Summary.** This unit follows one drop of water through a plant. The drop goes in through tiny hairs on the roots. It climbs up the stem through tubes thinner than a hair. Then it spreads along the veins of the leaves and flowers. Most of it slips out of tiny holes in the leaves, into the air, as invisible vapour. As water leaves the top, it pulls more water up behind it. Water can do this because it sticks to itself, like a chain of hands. The Sun's warmth does the lifting, not a heart or a pump. You will turn white flowers blue and catch a plant's breath in a bag. You will also meet a great Indian scientist who argued about all this. Some parts are still a mystery, like how the tallest trees keep their water chains from snapping.
