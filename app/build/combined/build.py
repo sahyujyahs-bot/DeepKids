@@ -54,6 +54,31 @@ CUR = json.load(open(os.path.join(APP, 'content', 'curriculum', 'sci.json')))
 TL = {s: t for t in CUR['topic_levels'] for s in t['subtopic_levels']}
 SUB = {x['id']: x for x in CUR['subtopic_levels']}
 data['units'] = {}
+FLOWK = ("games", "experiments", "activities", "projects", "challenges")
+PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "How it really works", "agreed": "What we know for sure",
+        "challenging": "Is this true?", "big_questions": "Big questions", "roots": "Roots", "videos": "Watch", "quiz": "Quiz", "open_questions": "Nobody knows yet",
+        "jokes": "Jokes", "maths": "Maths", "applications": "Where people use it", "photos": "Real pictures", "spotted": "Spot it around you",
+        "ask_kids": "Ask during the day", "song": "Song", "links": "Try these and go see", "buy": "Things that help"}
+
+
+def unit_parts(u):
+    """The unit's parts in the order the app's feed shows them, as [id, title, kind, minutes] (mirrors fxCards/fxSecMeta in the app)."""
+    order = list(u['plan']['default_order'])
+    if u.get('roots') and 'roots' not in order:
+        order.insert(order.index('big_questions') + 1 if 'big_questions' in order else len(order), 'roots')
+    for k in ("videos", "jokes", "maths", "applications", "photos", "spotted", "ask_kids", "song", "links", "buy"):
+        if k not in order: order.append(k)
+    ents = {x['id']: (k, x) for k in FLOWK for x in u.get(k, [])}
+    ents.update({w['id']: ('worksheets', w) for w in u.get('worksheets', [])})
+    out = []
+    for o in order:
+        if o in ents:
+            k, x = ents[o]; out.append([o, x['title'], k, x.get('mins') or 10]); continue
+        if o not in PLAB or not u.get(o): continue
+        m = {"story": u['story'].get('mins', 10), "terms": round(u.get('cards_mins', 20) / 2), "explanations": 12, "quiz": len(u['quiz']), "big_questions": 10,
+             "challenging": 8, "videos": sum(v.get('mins', 0) for v in u['videos']), "roots": (u['roots'].get('practice', {}).get('mins') or 3) + 8}.get(o, 5)
+        out.append([o, PLAB[o], o, m])
+    return out
 import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
     if f.endswith(('.art.json', '.photos.json')): continue
@@ -66,7 +91,8 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
     # the full unit is its own file (app/units/<id>.json, loaded when opened); data.json keeps a small index entry
     os.makedirs(os.path.join(APP, 'units'), exist_ok=True)
     json.dump(u, open(os.path.join(APP, 'units', u['id'] + '.json'), 'w'), ensure_ascii=False, separators=(",", ":"))
-    data['units'][u['id']] = {"id": u['id'], "title": u['title'], "summary": {"text": u['summary']['text']}, "song": u.get('song', {}),
+    sub0 = SUB.get(u['id'], {})
+    data['units'][u['id']] = {"id": u['id'], "title": u['title'], "topic": t['name'], "subtopic": sub0.get('name', ''), "parts": unit_parts(u), "summary": {"text": u['summary']['text']}, "song": u.get('song', {}),
                               "img": {"summary": (u.get('img') or {}).get('summary', '')}, "v": hashlib.md5(json.dumps(u, sort_keys=True).encode()).hexdigest()[:10]}
     ref = {"id": u['id'], "title": u['title']}
     # 1. the unit is a lesson like any other: search, browse and related links find it through data['items']
