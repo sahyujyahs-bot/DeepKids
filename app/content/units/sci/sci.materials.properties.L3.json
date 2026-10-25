@@ -172,7 +172,7 @@
    "concept": "What a property is",
    "status": "defined",
    "definition": "A property is a word that tells what a material is like.",
-   "description": "You can find out a property in four ways. You can look, touch, listen or test. Some you see at once, like shiny or see-through. Others need a test, like strong or waterproof. A property belongs to the material, not to one object. A steel spoon and a steel tumbler have different shapes. But both are hard and shiny, because both are steel.",
+   "description": "You can find out a property in four ways. You can look, touch, listen or test. Some you see at once, like shiny or see-through. Others need a test, like strong or waterproof. A property belongs to the material, not to one object. A steel spoon and a steel tumbler have different shapes. But both are hard and shiny, because both are steel. One more property, whether a magnet sticks, has a unit of its own, called Magnetic materials.",
    "examples": [
     "Look: a steel spoon is shiny and a brick is dull.",
     "Touch: sandpaper is rough and marble is smooth.",
@@ -201,7 +201,7 @@
    "concept": "Hard and soft: the scratch ladder",
    "status": "defined",
    "definition": "A material is hard if it is hard to scratch. If material A scratches material B, then A is harder than B.",
-   "description": "You can put any materials in order of hardness with one simple test. Try to scratch each with the others. In 1812 a German mineral expert called Friedrich Mohs did this with ten minerals. He put talc at 1, the softest, and diamond at 10, the hardest. Now anyone can place a new mineral on the ladder. A fingernail is about 2 and a half. A steel nail is somewhere around 4 to 5. Ruby and sapphire are 9. Diamond is far harder than 9, not just one step more. The numbers only give the order.",
+   "description": "You can put any materials in order of hardness with one simple test. Try to scratch each with the others. In 1812 a German mineral expert called Friedrich Mohs did this with ten minerals. He put talc at 1, the softest, and diamond at 10, the hardest. Now anyone can place a new mineral on the ladder. A fingernail is about 2 and a half. A steel nail is somewhere around 4 to 5. Ruby and sapphire are 9. Diamond is far harder than 9, not just one step more. The numbers only give the order. Scratching is only one way to test hardness, and the full scratch test is in the unit Sorting materials.",
    "examples": [
     "Your fingernail scratches soap and chalk, so it is harder than both.",
     "A diamond scratches everything, so it sits at the top of the ladder.",
@@ -215,7 +215,7 @@
    "concept": "Bendy, stiff and springy",
    "status": "defined",
    "definition": "A flexible material bends easily. An elastic material springs back to its shape after bending or stretching.",
-   "description": "Bendy and springy are not the same. A rubber band is both. It stretches, then springs back. Aluminium foil is flexible but not elastic. It bends easily and stays bent. A thick steel ruler is stiff, but if you bend it a little, it springs back. Bend it too far and it stays bent. Bend it much too far and it snaps. Try bending a paper clip back and forth. It gets warm, and then it breaks. Your bending put energy into the metal as heat.",
+   "description": "Bendy and springy are not the same. A rubber band is both. It stretches, then springs back. Aluminium foil is flexible but not elastic. It bends easily and stays bent. A thick steel ruler is stiff, but if you bend it a little, it springs back. Bend it too far and it stays bent. Bend it much too far and it snaps. Try bending a paper clip back and forth. It gets warm, and then it breaks. Your bending put energy into the metal as heat. Dry spaghetti is brittle. It almost never snaps into just two pieces, and scientists needed until 2005 to work out why.",
    "examples": [
     "Clay and dough are flexible but not elastic. They keep any new shape.",
     "A bamboo pole bends in the wind and springs back, so it can be used for scaffolding.",
@@ -282,10 +282,10 @@
    "context": "This card explains why some things soak up water and some do not."
   },
   {
-   "concept": "Water's skin and the girl who measured it",
+   "concept": "Surface tension: why water forms round drops",
    "status": "defined",
    "definition": "Surface tension is the pull between the particles on the surface of water, which makes the surface behave like a stretchy skin.",
-   "description": "Look at a drop on a leaf. Its surface holds together like a thin skin. That is why a needle can float on still water, and why a pond insect can walk on it. About 135 years ago, a young woman called Agnes Pockels, who lived in Germany, measured this skin in her kitchen. Women in Germany were not allowed into university. She used a tin tray, a balance and buttons. She found that a drop of oil or soap on the water changes its skin. In 1891 she wrote to Lord Rayleigh, a famous British physicist, and he helped her get her work printed in the journal Nature. Later, a famous scientist built on her kind of tray and won a Nobel Prize. She did not.",
+   "description": "Look at a drop on a leaf. Its surface holds together like a thin skin. That is why a needle can float on still water, and why a pond insect can walk on it. About 135 years ago, a young woman called Agnes Pockels, who lived in Germany, measured this skin in her kitchen. Women in Germany were not allowed into university. She used a tin tray, a balance and buttons. She found that a drop of oil or soap on the water changes its skin. In 1891 she wrote to Lord Rayleigh, a famous British physicist, and he helped her get her work printed in the journal Nature. Later, a famous scientist built on her kind of tray and won a Nobel Prize. She did not. The unit Testing materials tells more of her story.",
    "examples": [
     "A water strider insect stands on a pond without sinking.",
     "A drop of dish soap makes the skin weaker, so a floating pepper pinch runs away from it.",
@@ -296,10 +296,10 @@
    "context": "This card is about why water forms drops and bubbles, and about the woman who first measured it carefully."
   },
   {
-   "concept": "Heat: carriers and blockers",
+   "concept": "Conductors and insulators of heat",
    "status": "defined",
    "definition": "A conductor of heat lets heat flow through quickly. An insulator lets it flow slowly.",
-   "description": "Heat always flows from the warmer thing to the cooler thing. In a room, a steel spoon and a wooden spoon are the same temperature. But the steel spoon feels colder. Your hand is warmer than the spoon. Steel carries the heat away from your hand very fast. Wood carries it away slowly. So your skin tells you about how fast heat leaves, and not about the real temperature. Metals are good conductors. Wood, plastic, wool, cloth and air are good insulators. Diamond conducts heat even better than copper. On the Moon, a probe on India's Chandrayaan-3 lander found the top of the soil was about 70 degrees Celsius. Just eight centimetres down, it was about 10 degrees below zero. Moon soil is a very good insulator.",
+   "description": "Heat always flows from the warmer thing to the cooler thing. In a room, a steel spoon and a wooden spoon are the same temperature. But the steel spoon feels colder. Your hand is warmer than the spoon. Steel carries the heat away from your hand very fast. Wood carries it away slowly. So your skin tells you about how fast heat leaves, and not about the real temperature. Metals are good conductors. Wood, plastic, wool, cloth and air are good insulators. Diamond conducts heat even better than copper. On the Moon, a probe on India's Chandrayaan-3 lander found the top of the soil was about 70 degrees Celsius. Just eight centimetres down, it was about 10 degrees below zero. Moon soil is a very good insulator. The unit Using materials has a hot spoon race to test heat carriers.",
    "examples": [
     "A kadhai has a wooden or plastic handle to stop heat reaching your hand.",
     "Woollen clothes keep you warm because they trap air, and air is a poor conductor.",
@@ -352,7 +352,7 @@
    "context": "This card shows how the same atoms can make very different materials, and how scientists found out."
   },
   {
-   "concept": "Inside a stretchy thing",
+   "concept": "Why a rubber band stretches and springs back",
    "status": "defined",
    "definition": "A rubber band is stretchy because it is made of very long, tangled chains of atoms that uncoil when pulled and tangle up again when let go.",
    "description": "Rubber comes from the milky sap of the rubber tree. The sap is made of very long chains of atoms, like a bowl of cooked noodles. When you pull the band, the noodles straighten out. When you let go, they tangle up again, because a tangle is the more likely arrangement. Here is a strange fact. Stretch a thick rubber band fast, then touch it to your lip. It feels warm. Let it go quickly and it feels cool. Stretching and tangling change how the atoms jiggle, and that changes the heat.",
@@ -413,7 +413,7 @@
    "concept": "Materials that grow: bone, wood and shell",
    "status": "defined",
    "definition": "Living things make their own materials, with properties that engineers admire.",
-   "description": "Your bones are a material your body builds and repairs. Bone is made of a hard mineral, which resists squashing, and a bendy protein called collagen, which stops it snapping. Together they are tough and light. The outside of your teeth, called enamel, is the hardest material your body makes. Wood is made of long thin cells with strong walls, like bundles of straws. The inside of a sea shell, called mother-of-pearl, is made of tiny chalky tiles stuck together with a stretchy glue. It is much harder to crack than the plain chalk it is made from. Nature builds from the bottom up, atom by atom.",
+   "description": "Your bones are a material your body builds and repairs. Bone is made of a hard mineral, which resists squashing, and a bendy protein called collagen, which stops it snapping. Together they are tough and light. The outside of your teeth, called enamel, is the hardest material your body makes. Wood is made of long thin cells with strong walls, like bundles of straws. The inside of a sea shell, called mother-of-pearl, is made of tiny chalky tiles stuck together with a stretchy glue. It is much harder to crack than the plain chalk it is made from. Nature builds from the bottom up, atom by atom. The unit What is it made of? shows where materials come from.",
    "examples": [
     "Bengal craftspeople have carved bangles from conch shell for centuries.",
     "A bamboo stem is hollow and strong because of its fibres.",
@@ -3604,29 +3604,26 @@
   {
    "title": "Why is glass transparent?",
    "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "VwRLIt6jgdM",
    "mins": 6,
    "why": "Shows why light passes through glass but not through most other materials, in terms of electrons. Good for curious older children and the parent.",
-   "check": "Video id not yet found. A parent should search for a short explainer on why glass is transparent and preview it before showing."
+   "check": "Found by YouTube search: \"Why is glass transparent? - Mark Miodownik\" by TED-Ed. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "The Mohs hardness scale",
    "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "xZUgWzRpA-4",
    "mins": 5,
    "why": "Shows minerals being scratched against each other and put on the ladder from talc to diamond. The same test as the Scratch Ladder.",
-   "check": "Video id not yet found. A parent should search for a short, clear video on the Mohs scale and preview it."
+   "check": "Found by YouTube search: \"The Mohs Scale of Hardness Explained\" by MooMooMath and Science. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "Muslin of Dhaka, the cloth called woven air",
    "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "50QrF0s5OL8",
    "mins": 8,
    "why": "A documentary look at the fine cotton cloth of Bengal that the story in this unit is about, and the people trying to bring it back.",
-   "check": "Video id not yet found. A parent should search for a documentary about Dhaka muslin and preview it. Not made for children."
+   "check": "Found by YouTube search: \"Dhaka Muslin: How Bengal's 'Woven Air' Was Lost Under British Rule\" by Harleen Kaur Bawa. Title checked automatically; a parent may still preview it."
   }
  ],
  "quiz": [
@@ -3788,7 +3785,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "how": "e6",
+   "how": "e5",
    "why": "Each layer scatters and soaks up some light. With more layers, less comes through. So thickness changes the property. Picking 'two materials' is not true, because it is the same paper."
   },
   {
@@ -4373,6 +4370,11 @@
  ],
  "roots": {
   "context": "We have been finding out what materials are like. Now we ask what this tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "A property is not a label stuck on a thing. It is what shows up when one thing meets another.",
+   "habit": "We say 'steel is cold' and 'cotton is strong' as if each word were a price tag fixed to the thing. But cold only happens when steel meets a warm hand, and strength changes with the air, the wetness and the size.",
+   "evidence": "A steel spoon and a wooden spoon give the same reading on a thermometer, yet the steel feels colder. In the dry or damp test, paper held half as many marbles when it was damp, and plastic held the same."
+  },
   "three": {
    "who_am_i": "You are a bit like the thread in the story. You are not the same in every air. You show different strengths with different people.",
    "what_is_life": "Life makes its own materials. Your body grows bone, hair and the clear lens of your eye, and mends them.",
