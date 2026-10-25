@@ -1,6 +1,6 @@
 {
  "id": "sci.forces.friction.L3",
- "title": "Friction: the force that lets the world hold on",
+ "title": "Friction: the force that stops things sliding",
  "level": 3,
  "summary": {
   "text": "This unit is about friction. Friction is the grip between two things that touch. It is why your chappal does not slip on the road. Friction always works against sliding. It lets you walk, write, tie a knot and stop a bicycle. It also slows moving things down, warms them up and slowly wears them out. Rough or soft surfaces usually grip more. Oil, water and wheels help things slide or roll more easily. Scientists can measure friction very well. But they still argue about what exactly happens where two surfaces meet, and even about why ice is slippery.",
@@ -3810,6 +3810,11 @@
  ],
  "roots": {
   "context": "We have been learning about friction, the grip between things that touch. Now we ask what that grip tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Nothing touches without being touched back.",
+   "habit": "We think of 'me' and 'the floor' as separate. Zoom in and the atoms of your foot and the floor reach out and hold each other. Where you end is a meeting, not a wall.",
+   "evidence": "You can only walk because the ground grips you back."
+  },
   "three": {
    "who_am_i": "You can stand and walk because the world grips you back.",
    "what_is_life": "Life needs grip. A gecko's foot, your knees and a seed's hairs all hold on.",

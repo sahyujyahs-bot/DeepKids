@@ -16,6 +16,19 @@ DeepKids is rooted in **oneness and consciousness**. The founder's picture:
 
 So every lesson, whether it is about friction, a seed or a fraction, is also a lesson about the One showing up as the many. The child is not looking at the world from outside it. The child *is* the world, looking at itself.
 
+## Deep truths: what the science whispers
+
+The heart of Roots is not a scripture. It is the **deep truth the science itself points to**, the way each founder SCI Card has a discovery line and, under it, a line on what the discovery "whispers" (`ideas/scientists.json`, field `fundamental_truth_what_it_whispers`). Examples from the cards:
+- Brahmagupta: nothingness and absence have real, countable effects in the world.
+- Marie Curie: what looks still and solid from outside may be bursting with energy inside.
+- J.C. Bose: the line between living and non-living is drawn by us, not by nature.
+- Vera Rubin: what we can see is a small part of what there is.
+- Cecilia Payne: hydrogen and helium make up almost everything; all the rest, including us, is about 1%.
+
+A deep truth usually **breaks a habit of thinking**: a label we have confused with the thing itself. We say "brain" or "neurons" for thinking, the way people say "Xerox" for any photocopier. But underneath, thinking is sensing, ions moving, signals passed and genes switched on and off, and every cell does that, even a bacterium or a plant. So thinking is older and wider than brains. Another: we name lift, air resistance, friction, a push and a spring as different forces, but at the level of atoms they are one force, electrons repelling electrons (electromagnetism). Physics keeps finding that forces which look different are one force (electricity and magnetism were joined by Maxwell, 1865; electromagnetism and the weak force in the 1970s). Whether gravity joins them is open. This is oneness peeping out of the science itself. Other habits to break: living versus non-living, solid versus empty, me versus the world, cause versus effect, useful versus useless.
+
+Say deep truths literally, not poetically: the child must understand them, not just like the sound of them. Every unit's Roots starts with one deep truth that grows out of that unit's science, and names the habit it breaks. Scriptures and philosophers then come in as voices that saw the same thing, not as the proof of it.
+
 ## How we teach it honestly
 
 We are rooted in this view. We never hide it, and we never pass it off as science. Three kinds of statement are kept apart, and the child always knows which kind they are hearing:
@@ -81,6 +94,7 @@ Use these as starting points. Check every quote against its source before using 
 ```jsonc
 "roots": {
   "context": "One plain line: we have been learning X; now we ask what X tells us about ourselves and the world.",
+  "deep_truth": {"truth": "One line, SCI Card style: what this unit's science whispers", "habit": "The label or split it questions, and why, in 1–2 plain sentences", "evidence": "The fact from this unit that points to it"},
   "three": {"who_am_i": "…", "what_is_life": "…", "what_is_this_world": "…"},  // one or two child-sized sentences each, tying THIS unit to each question
   "thread": "3–5 sentences: how this unit's idea shows the One becoming the many (zero, One, many). Said as DeepKids' view, in plain words.",
   "teachings": [{"source": "Chandogya Upanishad 6.13", "teaching": "the teaching in plain words", "link": "how it meets this unit's science"}],  // 2–3, exact sources

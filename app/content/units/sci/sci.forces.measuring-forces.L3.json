@@ -3774,6 +3774,11 @@
  },
  "roots": {
   "context": "We have been learning how to measure forces with forcemeters, in newtons. Now we ask what measuring tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Even an invisible pull can be counted.",
+   "habit": "We trust only what we can see. A force has no colour or shape, yet a spring shows exactly how big it is.",
+   "evidence": "A forcemeter's spring stretches more for a bigger pull."
+  },
   "three": {
    "who_am_i": "Your hands can be fooled about how heavy things are. You learn to check.",
    "what_is_life": "Tiny pulls inside your body add up to a strong arm.",

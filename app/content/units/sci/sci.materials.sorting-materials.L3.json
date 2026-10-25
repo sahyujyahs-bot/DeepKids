@@ -757,6 +757,11 @@
  ],
  "roots": {
   "context": "We have been learning to sort things into groups. Now we ask what sorting tells us about ourselves and about the world.",
+  "deep_truth": {
+   "truth": "The groups are in our heads, not in the world.",
+   "habit": "We think categories are found in nature. But the same heap can be sorted by colour, by sound or by use, and each rule shows something different.",
+   "evidence": "Sorting one heap three ways gives three different answers."
+  },
   "three": {
    "who_am_i": "You are a sorter. Your eyes, ears and hands sort the world all day, without being asked. You also belong to many groups at once, and no single group is all of you.",
    "what_is_life": "Living things are sorters. Your kidneys sort your blood and your ear sorts sounds. A living body keeps what it needs and lets the rest go.",

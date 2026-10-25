@@ -1,9 +1,9 @@
 {
  "id": "sci.forces.flight.L3",
- "title": "How things fly: leaning on the air",
+ "title": "How things fly: wings push air down, and the air pushes them up",
  "level": 3,
  "summary": {
-  "text": "This unit is about how things fly. Air is real stuff, even though we can't see it. Everything that flies stays up by pushing air downwards. The air then pushes it up. That upward push is called lift. Kites lean on the wind and are held by a string. Paper planes and gliders slide slowly down the air. Birds flap to push air down and back, and some ride on rising warm air. Seeds float, glide and spin to travel far from their parent tree. Scientists agree on what lift does. But they still argue about the best simple way to explain it, and one famous explanation is wrong.",
+  "text": "This unit is about how things fly. Air is real stuff, even though we can't see it. Everything that flies stays up by pushing air downwards. The air then pushes it up. That upward push is called lift. The wind pushes a kite up and the string holds it in place. Paper planes and gliders slide slowly down the air. Birds flap to push air down and back, and some ride on rising warm air. Seeds float, glide and spin to travel far from their parent tree. Scientists agree on what lift does. But they still argue about the best simple way to explain it, and one famous explanation is wrong.",
   "art": "A rooftop at sunset: a paper kite on a tight string, a black kite bird circling above it, a paper plane gliding past, and a winged mahogany seed spinning down, with faint arrows showing air being pushed downwards under each."
  },
  "intro": {
@@ -3880,7 +3880,12 @@
   ]
  },
  "roots": {
-  "context": "We have been learning how kites, birds and seeds fly by leaning on the air. Now we ask what flying tells us about ourselves and the world.",
+  "context": "We have been learning how kites, birds and seeds fly by pushing air down. Now we ask what flying tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Lift, air resistance, friction, a push and a spring's pull look like different forces. Underneath, they are the same force: electrons pushing other electrons away.",
+   "habit": "We give each force its own name, so we think they are different things. Zoom in and a wing never touches the air at all. The electrons on the outside of air particles and wing particles push each other away (the electromagnetic force). The same thing happens when your foot meets the floor.",
+   "evidence": "A wing pushes air down and the air pushes the wing up, without anything sticking together. Air resistance on a falling paper sheet is the same push."
+  },
   "three": {
    "who_am_i": "Every breath you take is the same air that holds up birds.",
    "what_is_life": "Birds, bats, insects and seeds all found ways to ride the air.",
@@ -3922,7 +3927,7 @@
    "title": "Feel the invisible",
    "mins": 2,
    "say": "Let's hold one hand flat, just in front of our lips. Breathe out slowly onto your palm. Can you feel something you cannot see? Now breathe in slowly. Breathe out once more, very gently. That is air, the same air that holds up every bird.",
-   "kid": "Hold your hand in front of your mouth. Breathe out slowly. Feel the air you cannot see. Birds lean on this same air."
+   "kid": "Hold your hand in front of your mouth. Breathe out slowly. Feel the air you cannot see. Birds push down on this same air to stay up."
   },
   "ask": [
    "If you cannot see air, how do you know it is there?",

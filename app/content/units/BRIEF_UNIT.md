@@ -20,7 +20,7 @@ You are writing one DeepKids unit for Indian homeschooling families with childre
 - `why` on every step `check` (what the right answer means and what a wrong pick usually means); games' checks are game moments, not tests.
 - `why_maths` on every maths problem; maths must grow out of something the child did in this unit.
 - `context` on every card that could be read cold.
-- `roots` with all its parts (PHILOSOPHY.md): exact sources, one honest other view, a practice, open questions never answered for the child.
+- `roots` with all its parts (PHILOSOPHY.md), led by a `deep_truth` that grows out of this unit's science and names the habit of thinking it breaks (see the founder's SCI Cards, `ideas/scientists.json`, field `fundamental_truth_what_it_whispers`): exact sources, one honest other view, a practice, open questions never answered for the child.
 - Song `topic_level` is the curriculum's topic-level id (e.g. `sci.gravity.L3`).
 
 ## The bar

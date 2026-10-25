@@ -34,8 +34,9 @@ def check(path):
         if c.get("status") not in ("accepted", "debated", "minority", "rejected"): P(f"challenging view status: {c.get('claim', '')[:40]}")
     if len(u["big_questions"]) < 4 or not all(q.get("kind") in ("deep", "big") for q in u["big_questions"]): P("big_questions: 4+, each kind deep or big")
     r = u["roots"]   # app/content/PHILOSOPHY.md
-    for k in ("context", "three", "thread", "teachings", "science", "other_view", "practice", "ask", "art"):
+    for k in ("context", "deep_truth", "three", "thread", "teachings", "science", "other_view", "practice", "ask", "art"):
         if not r.get(k): P(f"roots needs {k} (see PHILOSOPHY.md)")
+    if r.get("deep_truth") and not all(r["deep_truth"].get(k) for k in ("truth", "habit", "evidence")): P("roots.deep_truth needs truth, habit, evidence")
     if r.get("three") and not all(r["three"].get(k) for k in ("who_am_i", "what_is_life", "what_is_this_world")): P("roots.three needs who_am_i, what_is_life, what_is_this_world")
     if not 2 <= len(r.get("teachings", [])) <= 3 or not all(t.get("source") and t.get("teaching") and t.get("link") for t in r.get("teachings", [])): P("roots.teachings: 2-3, each with source, teaching, link")
     if not all(x.get("status") in ("settled", "idea", "debated", "open") for x in r.get("science", [])): P("roots.science status must be settled/idea/debated/open")

@@ -24,6 +24,7 @@ If either of them has to stop and work out what we meant, we have failed. Depth 
 13. **Warm, not cute.** No baby talk, no forced jokes inside instructions. Talk to the child the way a kind, clear teacher would.
 14. **Every card carries its own context.** People scroll, skip and come back days later. Each card opens with one plain line saying what this is and why it is here: "Remember the slope test, where you lifted a board until the shoe slid? Here are some made-up results." Never rely on the card before it.
 15. **Show it, don't describe it.** If an answer is a chart, a table or a picture, the app shows the chart, the table or the picture.
+16. **No poetry where understanding is needed.** Titles, summaries and explanations say literally what happens. Not "leaning on the air" but "wings push air down, and the air pushes them up". A picture-phrase is allowed only in the story, and only after the plain idea is clear.
 
 ## Parent words and child words
 

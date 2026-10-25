@@ -1,6 +1,6 @@
 {
  "id": "sci.materials.testing-materials.L3",
- "title": "Testing materials: fair tests that tell the truth",
+ "title": "Testing materials: how to run a fair test",
  "level": 3,
  "summary": {
   "text": "This unit is about testing materials the way scientists and engineers do. A material is what a thing is made of, like cotton, paper, plastic or rubber. Which material keeps water out best? Which holds the most weight, stretches most or soaks up most? To find out, we test them. A fair test changes only one thing, the material, and keeps everything else the same. We measure with numbers and write the results in a table. We repeat each test three times, because one try can be a fluke. Then we look inside: at fibres, long chains and atoms, to see why a material passes or fails. Bridges, helmets and spacecraft are tested this way. But scientists still cannot predict exactly when something will break.",
@@ -4546,6 +4546,11 @@
  },
  "roots": {
   "context": "We have been testing materials: pulling, soaking, stretching and squashing them to find out what they really are. Now we ask what testing tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "We only know what we test. And every test is asked by someone.",
+   "habit": "We think facts just sit there. But a result depends on the question, the test and who did it. Change one thing at a time, and the world answers honestly.",
+   "evidence": "Changing two things at once gives an answer nobody can trust."
+  },
   "three": {
    "who_am_i": "You are made of materials too. One of your hairs held about 20 coins, and your bones mend their own cracks.",
    "what_is_life": "Life is full of tests. A test is not a punishment. It is a way of finding out what is true.",

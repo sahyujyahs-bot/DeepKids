@@ -480,6 +480,14 @@
    "context": "This card looks at the idea that a property is a fixed fact about a material."
   },
   {
+   "claim": "A property belongs to a thing all by itself, whether or not anything is touching it.",
+   "who": "Most of us, when we say 'this stone is hard'. Some thinkers, like the Buddhist teacher Nagarjuna (about the 2nd century CE), looked at it differently.",
+   "for": "A stone seems hard even in a dark cupboard where nobody is testing it. Its atoms are joined the same way whether anyone scratches it or not.",
+   "against": "'Hard' means 'harder than something else'. 'Cold' means 'takes heat from a warm hand'. A thread is strong in damp air and weak in dry air. A property shows up in a meeting between two things. Nagarjuna taught that nothing exists all alone, and everything depends on other things. Most scientists would add that the stone has a real structure that decides what happens in every meeting.",
+   "status": "debated",
+   "context": "This card asks a deep question: is a property inside a thing, or does it only show up when two things meet?"
+  },
+  {
    "claim": "Water always makes things weaker.",
    "who": "A guess many people make, because wet paper and wet cardboard fall apart.",
    "for": "Wet paper tears. Wet cardboard goes soft. Wet mud is weak.",
@@ -548,6 +556,16 @@
    "hint": "Wood, cotton, wool, silk, leather, bamboo, shell, pearl. Which ones do you wear or use?"
   },
   {
+   "q": "In the story, was the thread's strength in the thread, in the air, or in the two together? And what about your own strengths?",
+   "kind": "deep",
+   "hint": "The same thread was strong at dawn and weak at noon. Do you act the same in every place and with every person? Which parts of you are really yours?"
+  },
+  {
+   "q": "Every diamond, pencil lead and soot is carbon. If everything is made of just a few kinds of atom, are all the many things really one thing in different patterns?",
+   "kind": "big",
+   "hint": "Think of the same letters making many words. Where does the word live, in the letters or in the pattern?"
+  },
+  {
    "q": "In our story, a ten-year-old found out why the thread broke when the grown-ups blamed the cotton. Why do you think nobody asked her sooner?",
    "kind": "big",
    "hint": "Think about who gets listened to. Who can see things that others miss?"
@@ -581,6 +599,7 @@
    "How did Shefali make her test fair? Why did she cut every thread to the same length?",
    "Why did she count seeds, and not just say 'this one is stronger'?",
    "Everyone in the village had a guess. Why was a number better than a guess?",
+   "Is the thread's strength in the thread, in the air, or in both together? What do you think?",
    "Nobody wrote down Shefali's name. Who does a small job at your home that makes everything else work?"
   ],
   "art": [
@@ -594,57 +613,63 @@
  "games": [
   {
    "id": "g1",
-   "title": "Which Material Am I?",
+   "title": "Property Snap",
    "mins": 20,
    "players": "2 to 5 players, or one child playing against a grown-up",
-   "context": "This is a guessing game about properties. One player secretly picks a material card. The others ask yes or no questions about its properties until they guess it.",
+   "context": "This is a matching card game about properties. Each property has three cards: its name, a test that shows it, and an example. You collect complete sets by asking other players for cards.",
    "printables": [
     {
      "kind": "cards",
-     "title": "24 material cards to cut out",
+     "title": "36 cards to cut out: 12 properties, with 3 cards each",
      "items": [
-      "Steel spoon",
-      "Iron nail",
-      "Aluminium foil",
-      "Brass bell",
-      "Glass tumbler",
-      "Clear plastic bottle",
-      "Wooden spoon",
-      "Bamboo stick",
-      "Cotton cloth",
-      "Wool",
-      "Silk",
-      "Jute rope",
-      "Newspaper",
-      "Cardboard",
-      "Paper towel",
-      "Rubber band",
-      "Clay pot",
-      "Red brick",
-      "Granite stone",
-      "Chalk",
-      "Soap",
-      "Candle wax",
-      "Sponge",
-      "Butter paper"
+      "WORD: Hard",
+      "TEST: Try to scratch it with your fingernail. You cannot.",
+      "EXAMPLE: A steel nail (Hard)",
+      "WORD: Rigid",
+      "TEST: Push on the middle. It hardly bends at all.",
+      "EXAMPLE: A thick wooden plank (Rigid)",
+      "WORD: Flexible",
+      "TEST: Bend it. It bends easily and does not break.",
+      "EXAMPLE: A cotton cloth (Flexible)",
+      "WORD: Elastic",
+      "TEST: Stretch it, then let go. It springs back.",
+      "EXAMPLE: A rubber band (Elastic)",
+      "WORD: Brittle",
+      "TEST: Bend it too far. It snaps into pieces.",
+      "EXAMPLE: A glass bangle (Brittle)",
+      "WORD: Strong",
+      "TEST: Hang weights from it. It holds a lot before it tears.",
+      "EXAMPLE: A jute rope (Strong)",
+      "WORD: Transparent",
+      "TEST: Hold it in front of a torch. A clear, bright spot shows on the wall.",
+      "EXAMPLE: Window glass (Transparent)",
+      "WORD: Translucent",
+      "TEST: Hold it in front of a torch. A blurry glow shows on the wall.",
+      "EXAMPLE: Butter paper (Translucent)",
+      "WORD: Opaque",
+      "TEST: Hold it in front of a torch. Only a shadow shows on the wall.",
+      "EXAMPLE: A steel plate (Opaque)",
+      "WORD: Waterproof",
+      "TEST: Drip water on it. The drop stays on top.",
+      "EXAMPLE: A plastic raincoat (Waterproof)",
+      "WORD: Absorbent",
+      "TEST: Drip water on it. The drop soaks in.",
+      "EXAMPLE: A paper towel (Absorbent)",
+      "WORD: Shiny",
+      "TEST: Look at it in the light. You can see a bright reflection.",
+      "EXAMPLE: A polished steel tumbler (Shiny)"
      ]
     },
     {
      "kind": "cards",
-     "title": "12 question cards",
+     "title": "6 challenge cards",
      "items": [
-      "Is it hard?",
-      "Does it bend easily?",
-      "Does it stretch and spring back?",
-      "Is it shiny?",
-      "Can you see through it?",
-      "Does light go through it?",
-      "Does it soak up water?",
-      "Does it feel cold when you touch it?",
-      "Does it ring when you tap it?",
-      "Does it float?",
-      "Is it rough?",
-      "Does it snap or break easily?"
+      "Glass is hard but breaks when dropped. Which two properties is that?",
+      "A rubber band and a cotton cloth can both be bent. Which one is elastic, and how do you know?",
+      "A plastic bag and a paper towel both look thin. How do you test which is waterproof?",
+      "Butter paper is translucent. How could you make it opaque?",
+      "A rope is soft but strong. A chalk stick is hard to bend but weak. Explain.",
+      "Name a material that is both rigid and brittle, and one that is both rigid and not brittle."
      ]
     },
     {
@@ -656,95 +681,87 @@
     }
    ],
    "rules": [
-    "Cut out the 24 material cards. Shuffle them and spread them face down.",
-    "One player is the Mystery Material. They pick one card and look at it secretly.",
-    "The others take turns to ask one yes or no question about a property. They can use the question cards, or make up their own. They may not ask what it is used for, or what it is called.",
-    "The Mystery Material answers yes, no, or 'it depends'. They must answer truthfully.",
-    "A guesser may guess once their turn. A right guess wins 3 tokens, minus 1 for every question already asked. A wrong guess loses a turn.",
-    "Swap roles after each round. Play until the cards run out, or the time is up. The most tokens wins."
+    "Shuffle the 36 cards. Deal 5 to each player. Put the rest face down in a pile.",
+    "A set is three cards for the same property: its WORD, its TEST and its EXAMPLE.",
+    "On your turn, ask one player for a card. You must name the property and the kind. For example, 'Do you have the TEST for brittle?'",
+    "If they have it, they give it to you and you ask again. If not, you draw a card and your turn ends.",
+    "When you have a complete set, lay it down. Read all three cards out loud. Take a score token.",
+    "If you get a challenge card, answer it. A good answer wins a bonus token. When all the sets are laid down, the player with the most tokens wins."
    ],
    "flow": [
     {
      "id": "s1",
-     "mins": 2,
-     "do": "1. Cut out the cards and shuffle them. 2. Lay the 24 material cards face down. 3. Lay the 12 question cards face up in a row. 4. Put the tokens in a bowl.",
-     "say": "A property is a word for what a material is like. In this game, you can ask only about properties. You cannot ask what a thing is used for. Let's see how few questions you need.",
-     "kid": "Lay out the cards. Material cards go face down. Question cards go face up. Today you can ask only about properties.",
-     "context": "This is the first step of Which Material Am I?. It is a guessing game about the properties of materials. Here you set up the cards."
+     "mins": 4,
+     "do": "1. Cut out the 36 cards. 2. Read the 12 property names together. 3. For each one, read its test and its example. 4. Shuffle and deal 5 cards each.",
+     "say": "A property is a word for what a material is like. There are twelve here. Each has a name, a test and an example. Let's read them all before we play.",
+     "kid": "Cut out the cards. Read the twelve property names. Read each test and each example. Then deal.",
+     "context": "This is the first step of Property Snap. It is a matching game where you collect a name, a test and an example for each property. Here you set up and read the cards."
     },
     {
      "id": "s2",
-     "mins": 4,
-     "do": "Play one practice round. You are the Mystery Material and pick Steel spoon. Your child asks questions until they guess. Count the questions.",
-     "say": "I have picked a card. You may ask me questions about what it is like. I can say yes, no, or it depends. Ask as many as you need.",
-     "kid": "A grown-up picks a card. Ask yes or no questions about its properties. Try to guess it in as few questions as you can.",
-     "ask": [
-      {
-       "q": "Which question took away the most cards?",
-       "good": [
-        "Does light go through it?",
-        "Is it hard?",
-        "Any question that splits the cards into two big groups."
-       ]
-      }
-     ],
+     "mins": 3,
+     "do": "Play one practice turn together. Ask: which TEST goes with 'translucent'?",
+     "say": "Let's practise. Here is one card: 'Hold it in front of a torch. A blurry glow shows on the wall.' Which property does it test?",
+     "kid": "Read the test card. Which property does it show? Tap your answer.",
      "check": {
       "t": "mcq",
-      "q": "You have 24 cards. Which first question is the best?",
+      "q": "Hold it in front of a torch. A blurry glow shows on the wall. Which property is that?",
       "options": [
-       "Does it soak up water?",
-       "Is it made of steel?",
-       "Is it a spoon?"
+       "Translucent",
+       "Transparent",
+       "Opaque"
       ],
       "a": 0,
-      "why": "A good first question splits the cards into two big groups, whatever the answer. 'Does it soak up water?' does that. 'Is it made of steel?' and 'Is it a spoon?' are guesses, and they remove very few cards. Picking a guess usually means thinking of the answer too early, instead of asking about properties."
+      "why": "A blurry glow means some light comes through, but it is scattered. That is translucent. A clear bright spot would mean transparent. Only a shadow would mean opaque. Picking 'transparent' usually means thinking anything that lets light through is the same."
      }
     },
     {
      "id": "s3",
-     "mins": 8,
-     "do": "1. Take turns to be the Mystery Material. 2. The others ask property questions. 3. When a card has a tricky answer, such as 'it depends', talk about why before moving on.",
-     "say": "Some answers are 'it depends'. Is cotton cloth see-through? One thin layer, a little. Many layers, no. When you hear 'it depends', ask what it depends on.",
-     "kid": "Take turns. Ask property questions. If the answer is 'it depends', stop. Ask what it depends on.",
-     "parent": "Good 'it depends' cards: cotton cloth, butter paper and wool (thickness), paper towel (wet or dry), wax (warm or cold), clay (baked or not), foil (a flat sheet or a folded block). This idea comes back later in the unit."
+     "mins": 10,
+     "do": "Play the game. When you lay down a set, read all three cards aloud and say whether you agree that the test and the example fit.",
+     "say": "Remember to say the property and the kind of card you are asking for. If you disagree with a match, say why.",
+     "kid": "Take turns. Ask for a card by name and kind. Lay down each complete set and read it aloud.",
+     "parent": "Good habit: when a set is laid down, ask the table 'Would that test really show that property?' This is the heart of the game, not the winning."
     },
     {
      "id": "s4",
-     "mins": 3,
-     "do": "If two players disagree about an answer, stop and test it. For example, press a fingernail on the chalk, or tap the glass with a spoon. Everyone guesses first, then tests.",
-     "say": "Whenever we disagree, we test it. Everyone guess first. Then we find out together.",
-     "kid": "Two people disagree? Test it! First everyone guesses. Then you try it. Who was right?",
+     "mins": 4,
+     "do": "Take a challenge card. Read it aloud and let the table discuss the answer before anyone reveals it.",
+     "say": "Here is a tricky card. Talk about it together first. Then someone can say the answer.",
+     "kid": "A challenge card! Talk about it together. Then answer.",
      "ask": [
       {
-       "q": "Why is it better to test than to argue?",
+       "q": "Which pair of properties did you find hardest to tell apart?",
        "good": [
-        "A test is the same for everybody.",
-        "The material does not care who is louder."
+        "Hard and strong.",
+        "Elastic and flexible.",
+        "Waterproof and the opposite, absorbent."
        ]
       }
-     ]
+     ],
+     "parent": "Key answers. Hard means hard to scratch, and brittle means it snaps, so glass is hard and brittle. A rubber band is elastic because it springs back, and cloth is only flexible because it stays bent. Test waterproof by dripping water on it. Butter paper turns opaque in a tall stack."
     },
     {
      "id": "s5",
-     "mins": 3,
-     "do": "Count the tokens to find the winner. Then look at which question cards were used most.",
-     "say": "Which questions did you ask most often? Those are the properties that tell materials apart best.",
-     "kid": "Count your tokens. Which question did you ask most? That property is the best at telling things apart.",
-     "think": "If you had to sort 100 materials with only three questions, which three would you choose?"
+     "mins": 2,
+     "do": "Count the tokens to find the winner. Talk about which tests you remembered most easily.",
+     "say": "Which tests were easy to remember? Which were hard? Which two properties look alike?",
+     "kid": "Count your tokens. Which tests were easy to remember? Which were tricky?",
+     "think": "If you could only do three tests on a mystery material, which three would you choose?"
     }
    ],
    "setup": [
     {
-     "art": "A table with 24 face-down cards in a grid and a row of 12 face-up question cards with simple icons.",
-     "caption": "1. Lay out the cards. The material cards go face down."
+     "art": "A table with 36 cards laid out in twelve groups of three, each group showing a property word, a small test picture and an example object.",
+     "caption": "1. Cut out the cards. Read the name, test and example for each property."
     },
     {
-     "art": "A child looking at a secret card, hiding it behind her hand, while another child asks a question.",
-     "caption": "2. One player picks a card in secret. The others ask about its properties."
+     "art": "A child holding five cards and asking another player across the table, with a speech bubble that says 'TEST for brittle?'",
+     "caption": "2. Ask another player for a card. Say the property and the kind of card."
     },
     {
-     "art": "A child holding up a card of a steel spoon and smiling, with three paper stars on the table.",
-     "caption": "3. A right guess wins tokens. Fewer questions mean more tokens."
+     "art": "A child laying three matching cards face up, a word, a test picture and an example, with a star token beside them.",
+     "caption": "3. Lay down each complete set. Read all three cards aloud."
     }
    ]
   },
@@ -759,22 +776,22 @@
      "kind": "cards",
      "title": "16 material cards to cut out, with rough scores for fun",
      "items": [
-      "Steel: hard 5, bendy 1, see-through 0, thirsty 0, heat-carrier 4",
-      "Aluminium foil: hard 2, bendy 5, see-through 0, thirsty 0, heat-carrier 5",
-      "Copper: hard 3, bendy 3, see-through 0, thirsty 0, heat-carrier 5",
-      "Glass: hard 5, bendy 0, see-through 5, thirsty 0, heat-carrier 2",
-      "Clear plastic: hard 2, bendy 3, see-through 4, thirsty 0, heat-carrier 1",
-      "Wood: hard 3, bendy 1, see-through 0, thirsty 2, heat-carrier 1",
-      "Bamboo: hard 3, bendy 3, see-through 0, thirsty 1, heat-carrier 1",
-      "Cotton cloth: hard 1, bendy 5, see-through 1, thirsty 5, heat-carrier 0",
-      "Wool: hard 1, bendy 5, see-through 0, thirsty 4, heat-carrier 0",
-      "Newspaper: hard 1, bendy 4, see-through 1, thirsty 4, heat-carrier 0",
-      "Paper towel: hard 1, bendy 5, see-through 1, thirsty 5, heat-carrier 0",
-      "Rubber: hard 1, bendy 5, see-through 0, thirsty 0, heat-carrier 1",
-      "Granite: hard 5, bendy 0, see-through 0, thirsty 0, heat-carrier 3",
-      "Brick: hard 4, bendy 0, see-through 0, thirsty 3, heat-carrier 1",
-      "Clay pot: hard 3, bendy 0, see-through 0, thirsty 3, heat-carrier 1",
-      "Diamond (joker): hard 5, bendy 0, see-through 5, thirsty 0, heat-carrier 5"
+      "Steel: hard 5, bendy 1, see-through 0, thirsty 0, strong 5",
+      "Aluminium foil: hard 2, bendy 5, see-through 0, thirsty 0, strong 1",
+      "Copper: hard 3, bendy 3, see-through 0, thirsty 0, strong 4",
+      "Glass: hard 5, bendy 0, see-through 5, thirsty 0, strong 2",
+      "Clear plastic: hard 2, bendy 3, see-through 4, thirsty 0, strong 3",
+      "Wood: hard 3, bendy 1, see-through 0, thirsty 2, strong 4",
+      "Bamboo: hard 3, bendy 3, see-through 0, thirsty 1, strong 4",
+      "Cotton cloth: hard 1, bendy 5, see-through 1, thirsty 5, strong 3",
+      "Wool: hard 1, bendy 5, see-through 0, thirsty 4, strong 2",
+      "Newspaper: hard 1, bendy 4, see-through 1, thirsty 4, strong 1",
+      "Paper towel: hard 1, bendy 5, see-through 1, thirsty 5, strong 1",
+      "Rubber: hard 1, bendy 5, see-through 0, thirsty 0, strong 3",
+      "Granite: hard 5, bendy 0, see-through 0, thirsty 0, strong 2",
+      "Brick: hard 4, bendy 0, see-through 0, thirsty 3, strong 2",
+      "Clay pot: hard 3, bendy 0, see-through 0, thirsty 3, strong 1",
+      "Diamond (joker): hard 5, bendy 0, see-through 5, thirsty 0, strong 4"
      ]
     },
     {
@@ -800,23 +817,23 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the 16 cards. 2. Read the five properties together: hard, bendy, see-through, thirsty (soaks up water) and heat-carrier (feels cold, carries heat well). 3. Shuffle and deal.",
-     "say": "Each card gives a material five scores. Zero means none at all. Five means a lot. Thirsty means soaks up water. Heat-carrier means carries heat well.",
+     "do": "1. Cut out the 16 cards. 2. Read the five properties together: hard, bendy, see-through, thirsty (soaks up water) and strong (holds a big pull). 3. Shuffle and deal.",
+     "say": "Each card gives a material five scores. Zero means none at all. Five means a lot. Thirsty means soaks up water. Strong means it holds a big pull without breaking.",
      "kid": "Cut out the cards. Learn the five properties. Zero means none. Five means a lot. Then deal the cards.",
      "context": "This is the first step of Property Trumps. It is a card game where you compare the scores of materials. Here you set up and learn the five properties."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play one practice round. Show the top cards. Ask: 'If I chose heat-carrier, who would win?'",
+     "do": "Play one practice round. Show the top cards. Ask: 'If I chose thirsty, who would win?'",
      "say": "Let's practise with one round. Look at your top cards. If I pick 'thirsty', who wins?",
      "kid": "Look at your top cards. If we pick 'thirsty', who wins? Tap your answer.",
      "check": {
       "t": "mcq",
-      "q": "Cotton cloth is thirsty 5. Plastic is thirsty 0. In a round on 'thirsty', who wins?",
+      "q": "Cotton cloth is thirsty 5. Clear plastic is thirsty 0. In a round on 'thirsty', who wins?",
       "options": [
        "Cotton cloth, because it soaks up the most water",
-       "Plastic, because it keeps water out",
+       "Clear plastic, because it keeps water out",
        "It is a tie"
       ],
       "a": 0,
@@ -827,9 +844,9 @@
      "id": "s3",
      "mins": 10,
      "do": "Play the game. Before each round, the chooser says why their material scores high or low. If anyone disagrees with a score, test it for real if you can.",
-     "say": "Remember to say why. Why is steel a heat-carrier 4? Why is glass bendy 0? If you disagree with a score, say what you would change.",
+     "say": "Remember to say why. Why is steel strong 5? Why is glass bendy 0? If you disagree with a score, say what you would change.",
      "kid": "Take turns. Choose a property. Say why your material scores high or low.",
-     "parent": "Good reasons: steel is hard 5 because a nail cannot scratch it, glass bendy 0 because it snaps, foil heat-carrier 5 because it is metal. Diamond is the joker. It scores 5 for almost everything because it is the hardest natural material, clear, and carries heat better than copper."
+     "parent": "Good reasons: steel is hard 5 because a nail cannot scratch it, glass is bendy 0 because it snaps, and cotton is thirsty 5 because it soaks up water. Diamond is the joker. It scores high for almost everything, because it is the hardest natural material and is clear."
     },
     {
      "id": "s4",
@@ -1017,6 +1034,7 @@
      "p": "One sheet of butter paper and a tall stack of butter paper let through the same amount of light.",
      "a": false,
      "why": "False. One sheet lets a lot of light through. A tall stack lets almost none. So a material's property can change with its thickness.",
+     "how": "e5",
      "context": "Butter paper is thin, greaseproof paper used in kitchens. Light passes through it, but blurred."
     },
     {
@@ -1030,7 +1048,8 @@
      ],
      "a": 0,
      "why": "To compare fairly, change only the material. Keep the width, length and method the same. Picking different widths changes more than one thing. Picking 'looks stronger' is a guess, not a test.",
-     "how": "e3"
+     "how": "e3",
+     "context": "In the dry or damp test, you hang a cup from a strip of material and add marbles until the strip tears."
     },
     {
      "t": "fill",
@@ -1049,17 +1068,17 @@
     },
     {
      "t": "mcq",
-     "p": "In the strength test, a paper strip held 12 marbles and a cloth strip held 4. What can you say?",
+     "p": "In the dry or damp test, a paper strip held 8 marbles when dry and 4 marbles when damp. What can you say?",
      "opts": [
-      "The paper held 3 times as many marbles",
-      "The cloth is stronger because 4 is less",
-      "They are about the same",
+      "The damp paper held half as many, so water made it weaker",
+      "Water made the paper stronger",
+      "Dry and damp paper are the same",
       "You cannot say anything from numbers"
      ],
      "a": 0,
-     "why": "12 divided by 4 is 3. So the paper held 3 times as many marbles before it tore. A bigger number here means a stronger strip. Picking 'cloth is stronger' usually means thinking that a smaller number is better.",
+     "why": "4 is half of 8. So the damp paper held half as many marbles as the dry paper. Water gets between the paper fibres and pushes them apart. Picking 'stronger' usually means thinking that heavier, wetter things must be stronger.",
      "how": "e3",
-     "context": "In the strength test, you hang a cup from a strip of material and add marbles until the strip tears. The more marbles it holds, the stronger the strip."
+     "context": "In the dry or damp test, you hang a cup from a strip of material and add marbles until the strip tears. You do it once with a dry strip and once with a damp strip."
     },
     {
      "t": "write",
@@ -1293,7 +1312,8 @@
      ],
      "a": 0,
      "why": "When repeated tries give close numbers, the result is reliable. When they are far apart, something changed between tries, such as the method. Picking the second because of the biggest number would be trusting the luckiest try.",
-     "how": "e3"
+     "how": "e3",
+     "context": "In the dry or damp test, you hang a cup from a strip and add marbles until it tears. You repeat the test three times to see whether the results are reliable."
     },
     {
      "t": "write",
@@ -1310,10 +1330,44 @@
      "art": "Three blank boxes, each with a torch on the left."
     },
     {
-     "t": "truefalse",
-     "p": "A bar of soap is softer than your fingernail.",
-     "a": true,
-     "why": "True. Your fingernail can scratch soap, so soap is softer. Soap is about 1 or 2 on the Mohs scale and a fingernail is about 2 and a half."
+     "t": "mcq",
+     "p": "Look at the table. Which surface is the most absorbent?",
+     "opts": [
+      "Paper towel",
+      "Printer paper",
+      "Butter paper",
+      "Plastic bag"
+     ],
+     "a": 0,
+     "chart": {
+      "type": "table",
+      "title": "Made-up example: seconds for one drop to vanish",
+      "cols": [
+       "Surface",
+       "Seconds"
+      ],
+      "rows": [
+       [
+        "Paper towel",
+        "2"
+       ],
+       [
+        "Printer paper",
+        "70"
+       ],
+       [
+        "Butter paper",
+        "120 or more"
+       ],
+       [
+        "Plastic bag",
+        "120 or more"
+       ]
+      ]
+     },
+     "how": "e4",
+     "why": "The drop vanished fastest on the paper towel, in 2 seconds, so it is the most absorbent. Picking the plastic bag mixes up a long time with a good result. A long time means the water stayed on top, which means waterproof.",
+     "context": "In the vanishing drop test, you put one drop of water on each surface and time how long it takes to vanish."
     }
    ]
   },
@@ -1398,17 +1452,35 @@
      "context": "This question links jobs to properties. A property matters because a job needs it."
     },
     {
-     "t": "order",
-     "p": "A cube of ice is put in three places in the same room. Put them in order from MELTS FIRST to MELTS LAST: wrapped in a woollen shawl, on a steel plate, on a wooden board.",
-     "items": [
-      "On a steel plate",
-      "On a wooden board",
-      "Wrapped in a woollen shawl"
+     "t": "sort",
+     "p": "In the dry or damp test, what happens to each strip when it gets damp?",
+     "cats": [
+      "Weaker",
+      "About the same",
+      "A little stronger"
      ],
-     "a": "order shown",
-     "why": "Steel carries room heat into the ice fastest. Wood carries it slowly. Wool traps air all round the ice and is the best insulator. So the shawl keeps the ice for longest. Many people expect a shawl to melt ice, but a shawl only slows heat flow. It does not make heat.",
-     "how": "e5",
-     "context": "In the ice race, you put identical ice cubes on different materials and time how long each takes to melt."
+     "items": [
+      [
+       "Newspaper",
+       "Weaker"
+      ],
+      [
+       "Printer paper",
+       "Weaker"
+      ],
+      [
+       "Plastic bag",
+       "About the same"
+      ],
+      [
+       "Cotton cloth",
+       "A little stronger"
+      ]
+     ],
+     "a": "see items",
+     "why": "Paper loses strength because water pushes its fibres apart. Plastic does not take in water, so it stays about the same. Cotton fibres hold together a little better when damp, so cotton gets a little stronger. That is why the spinners in the story worked in the damp morning air.",
+     "how": "e3",
+     "context": "In the dry or damp test, you compare dry and damp strips of four materials by hanging a cup of marbles from each."
     },
     {
      "t": "write",
@@ -1515,188 +1587,167 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "The Scratch Ladder: which is harder?",
-   "mins": 30,
+   "title": "Snap, Bend or Spring Back?",
+   "mins": 25,
    "days": 1,
-   "question": "Which of our everyday things is the hardest, and which is the softest?",
-   "predict": "Before you test anything, line up the six things. Put the one you think is softest first, and the one you think is hardest last.",
-   "fair_test": "To make it fair, press with about the same push each time. Scratch a short line about 2 centimetres long. Test every pair. A grey streak that rubs off with your finger is not a scratch. Look for a groove that stays.",
+   "question": "When we push a thing past its limit, does it snap, stay bent, or spring back?",
+   "predict": "Before you test anything, put the eight things into three piles. The piles are SNAPS, STAYS BENT and SPRINGS BACK. This is your guess.",
+   "fair_test": "To make it fair, bend every thing slowly, with two hands, the same way each time. Use a new piece each time, because a bent piece is not the same any more. Do each test twice.",
    "results_table": [
     "Thing",
-    "Which of the others did it scratch?",
-    "Score (how many it scratched)"
+    "Bend a little: does it spring back?",
+    "Bend it more: what happens?",
+    "Which group?"
    ],
    "materials": [
     {
-     "item": "a stub of candle wax",
-     "qty": 1
-    },
-    {
-     "item": "a bar of soap",
-     "qty": 1
+     "item": "a dry spaghetti stick, and a few more as spares",
+     "qty": 5
     },
     {
      "item": "a stick of chalk",
      "qty": 1
     },
     {
-     "item": "your own fingernail",
+     "item": "an ice cream stick",
      "qty": 1
     },
     {
-     "item": "a new steel nail, with a grown-up",
+     "item": "a thin plastic ruler",
      "qty": 1
     },
     {
-     "item": "a spare ceramic tile, or the unglazed rim under an old ceramic mug",
+     "item": "a large paper clip",
      "qty": 1
     },
     {
-     "item": "a magnifying glass",
-     "qty": 1,
-     "buy": "b-lens"
+     "item": "a strip of kitchen foil, 2 centimetres by 15 centimetres",
+     "qty": 1
+    },
+    {
+     "item": "a stick of plasticine or dough",
+     "qty": 1
+    },
+    {
+     "item": "a rubber band",
+     "qty": 1
+    },
+    {
+     "item": "a clear plastic bag or a folded towel, to catch the pieces",
+     "qty": 1
     },
     {
      "item": "a pencil and the results table",
      "qty": 1
     }
    ],
-   "safety": "A grown-up handles the nail. Scratch away from your body. Do not scratch glass or any plate or cup you want to keep.",
+   "safety": "Bend things inside the plastic bag or folded towel, so that no pieces fly. Wear glasses if you have them. A grown-up bends the paper clip, because its ends are sharp. Never stretch a rubber band until it snaps.",
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
-     "what": "Guess the order. Scratch every pair. Count the scores. Draw a bar chart."
+     "mins": 25,
+     "what": "Guess the piles. Bend each thing a little, then more. Write what happens. Sort them into groups."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart with one bar for each thing. Make each bar as tall as its score.",
-   "context": "This is the scratch test. You try to scratch each of six things with each of the others. The one that scratches the most things is the hardest.",
+   "record": "Fill in the table. Then write the name of each group under its things.",
+   "context": "This is the bend test. You bend or stretch eight things a little, then more, and watch what each does. Some snap, some stay bent and some spring back. This shows three different ways that materials behave.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Collect the six things. 2. Ask your child to put them in a line, softest first and hardest last.",
-     "say": "Which of these do you think is the softest? Which is the hardest? Put them in a line, softest first.",
-     "kid": "Find the six things. Put them in a line. Softest first, hardest last. This is your guess.",
+     "do": "1. Lay out the eight things. 2. Ask your child to make three piles on the table: SNAPS, STAYS BENT and SPRINGS BACK. 3. Ask them to say why for each.",
+     "say": "Imagine bending each of these. Some will snap. Some will stay bent. Some will spring back. Put each one in the pile you think it belongs to.",
+     "kid": "Look at the eight things. Make three piles. SNAPS, STAYS BENT and SPRINGS BACK. This is your guess.",
      "ask": [
       {
-       "q": "Why did you put that one last?",
+       "q": "Why did you put that one in that pile?",
        "good": [
-        "It feels hard.",
-        "It is made of metal.",
-        "It is the strongest one."
+        "It is dry and stiff, so it will snap.",
+        "It is metal, so it will stay bent.",
+        "It is rubber, so it will spring back."
        ]
       }
      ],
-     "context": "This is the first step of the scratch test. You find out which everyday thing is hardest by trying to scratch one with another."
+     "context": "This is the first step of the bend test. You find out how different materials behave when pushed too far. First you guess."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Take two things. 2. Press the corner of one firmly on a flat face of the other. 3. Drag it about 2 centimetres. 4. Rub the line with a finger and look with the magnifying glass. A groove that stays is a scratch.",
-     "say": "If thing A scratches thing B, then A is harder than B. But take care. Sometimes a harder thing leaves a grey streak, and the streak is only dust. Rub it. If it wipes off, there is no scratch.",
-     "kid": "Press the corner of one on a flat face of another. Drag it a little. Rub the line with a finger. A groove that stays is a scratch.",
+     "do": "1. Put the first thing inside the bag or towel. 2. Hold it with two hands. 3. Bend it a very little, and let go. Does it spring back? 4. Then bend it slowly more and more until something happens. 5. For the rubber band, stretch it to double its length and let go. Do not stretch it more.",
+     "say": "First bend it just a little and let go. Does it spring back? Then bend it more. Slowly. Does it snap? Does it stay bent? Watch carefully.",
+     "kid": "Bend a little and let go. Does it spring back? Then bend more, slowly. What happens?",
      "adult": true,
-     "parent": "A new nail will leave a grey streak on the tile. That is metal dust, and it rubs off. Only a groove that stays counts. If two things seem equal, call it a tie and give each a point."
+     "parent": "A grown-up should do the paper clip. If a thing snaps, count the pieces. Write the number in the table."
     },
     {
      "id": "s3",
-     "mins": 12,
-     "do": "1. Test every pair, in both directions. 2. For each pair, write which one left a groove on the other. 3. Count how many others each thing scratched. That number is its score.",
-     "say": "Take your time. Test every pair, both ways round. Then count how many things each one scratched. That count is its score.",
-     "kid": "Test every pair, both ways round. Write who scratched who. Then count. The count is the score.",
+     "mins": 10,
+     "do": "Test each of the eight things. Do each one twice, with a new piece. Write what happens in the table.",
+     "say": "Test all eight. Do each twice. Write down what you see. For the spaghetti, count the pieces.",
+     "kid": "Test all eight things, twice each. Write what happens. Count the pieces of the spaghetti.",
      "chart": {
       "type": "table",
-      "title": "Made-up example: how to fill in the table",
+      "title": "Made-up example results: what happened to each thing",
       "cols": [
        "Thing",
-       "Scratched which others?",
-       "Score"
+       "Bend a little",
+       "Bend more",
+       "Group"
       ],
       "rows": [
        [
-        "Chalk",
-        "wax, soap",
-        "2"
+        "Dry spaghetti",
+        "snaps at once",
+        "in 3 pieces",
+        "Snaps (brittle)"
        ],
        [
-        "Fingernail",
-        "wax, soap, chalk",
-        "3"
+        "Paper clip",
+        "stays bent",
+        "stays bent",
+        "Stays bent"
        ],
        [
-        "Steel nail",
-        "wax, soap, chalk, fingernail",
-        "4"
+        "Plastic ruler",
+        "springs back",
+        "springs back",
+        "Springs back (elastic)"
+       ],
+       [
+        "Plasticine stick",
+        "stays bent",
+        "stays bent",
+        "Stays bent"
        ]
       ]
      },
-     "parent": "Keep the push gentle and the same each time. If a result is surprising, repeat it before writing it down. Real life is messy, so a tie is fine."
+     "parent": "Dry spaghetti rarely breaks into just two pieces. The story goes that the physicist Richard Feynman once spent an evening trying to break a stick of spaghetti into exactly two, and could not. Two scientists, Basile Audoly and Sebastien Neukirch, worked out why in 2005. When the stick snaps, the bend suddenly straightens and sends a wave along the stick, which bends it so much that it snaps again. They won a funny science prize, the Ig Nobel Prize, for it in 2006. If you bend a paper clip back and forth many times, you will feel it get warm, then it snaps. Your bending has put energy into the metal as heat."
     },
     {
      "id": "s4",
-     "mins": 5,
-     "do": "Help your child draw a bar chart of the scores, with one bar for each thing.",
-     "say": "Let's turn the scores into a picture. Each thing gets one bar. The taller the bar, the harder the thing.",
-     "kid": "Draw one bar for each thing. Make it as tall as its score. A taller bar means a harder thing.",
+     "mins": 4,
+     "do": "Look at the table. Sort the eight things into three groups. Say a word for each group.",
+     "say": "Look at your results. Which things snapped? Which stayed bent? Which sprang back? A thing that snaps is called brittle. A thing that springs back is called elastic.",
+     "kid": "Sort your results into three groups. Things that snap are brittle. Things that spring back are elastic.",
      "check": {
       "t": "mcq",
-      "q": "In the scratch ladder bar chart, a taller bar means the thing is…",
+      "q": "Dry spaghetti snaps when bent. Chalk snaps. What word describes them both?",
       "options": [
-       "Harder",
-       "Softer",
-       "Heavier"
+       "Brittle",
+       "Elastic",
+       "Flexible"
       ],
       "a": 0,
-      "why": "The score counts how many other things it scratched. A thing that scratches many others is hard to scratch itself. So a taller bar means harder. Picking 'softer' usually means thinking that a big number means more scratched, not more scratching."
-     },
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example results: how many other things each one scratched",
-      "x": "Thing",
-      "y": "Number of other things it scratched",
-      "data": [
-       {
-        "label": "Candle wax",
-        "value": 0,
-        "emoji": "🕯️"
-       },
-       {
-        "label": "Soap",
-        "value": 1,
-        "emoji": "🧼"
-       },
-       {
-        "label": "Chalk",
-        "value": 2,
-        "emoji": "🖍️"
-       },
-       {
-        "label": "Fingernail",
-        "value": 3,
-        "emoji": "💅"
-       },
-       {
-        "label": "Steel nail",
-        "value": 4,
-        "emoji": "🔩"
-       },
-       {
-        "label": "Ceramic tile",
-        "value": 5,
-        "emoji": "🔲"
-       }
-      ],
-      "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different."
+      "why": "Brittle means it snaps or shatters instead of bending. Elastic means it springs back. Flexible means it bends easily. Spaghetti and chalk do not bend much before they break, so they are brittle. Picking 'flexible' means thinking that snapping is a kind of bending."
      }
     },
     {
      "id": "s5",
-     "mins": 4,
-     "do": "Compare the results with the line of guesses from the start. Talk about any surprises.",
-     "say": "Were your guesses right? Which thing surprised you? What is the hardest thing in your set?",
-     "kid": "Were your guesses right? Which one surprised you? What is the hardest?",
-     "think": "The tile scratched everything. Is it the hardest thing in the world? Or only the hardest in our set?"
+     "mins": 3,
+     "do": "Talk about what the things in each group have in common. Ask: why does metal stay bent, but a plastic ruler spring back?",
+     "say": "Look at the thing that stayed bent, and the thing that sprang back. Both bend. What is different about them?",
+     "kid": "Both bent. One stayed bent. One sprang back. What is different?",
+     "think": "Inside a paper clip, the tiny atoms slide to new places and stay there. Inside a ruler, long chains bend a little and spring home. Why might a snap be different?"
     },
     {
      "id": "s6",
@@ -1704,60 +1755,57 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: the steel nail is harder than the chalk. What I saw: the nail left a groove in the chalk, but the chalk left only dust on the nail. Why: a harder thing is not scratched by a softer thing, but it scratches it."
+     "parent": "A good answer sounds like this. What I think: dry things snap, metals stay bent and rubbery things spring back. What I saw: the spaghetti snapped into three pieces, the paper clip stayed bent and the ruler sprang back. Why: a brittle thing cannot give, so it breaks. Metals let their atoms slide. Elastic things stretch and spring home."
     }
    ],
    "example_chart": {
-    "type": "bar",
-    "title": "Made-up example results: how many other things each one scratched",
-    "x": "Thing",
-    "y": "Number of other things it scratched",
-    "data": [
-     {
-      "label": "Candle wax",
-      "value": 0,
-      "emoji": "🕯️"
-     },
-     {
-      "label": "Soap",
-      "value": 1,
-      "emoji": "🧼"
-     },
-     {
-      "label": "Chalk",
-      "value": 2,
-      "emoji": "🖍️"
-     },
-     {
-      "label": "Fingernail",
-      "value": 3,
-      "emoji": "💅"
-     },
-     {
-      "label": "Steel nail",
-      "value": 4,
-      "emoji": "🔩"
-     },
-     {
-      "label": "Ceramic tile",
-      "value": 5,
-      "emoji": "🔲"
-     }
+    "type": "table",
+    "title": "Made-up example results: what happened to each thing",
+    "cols": [
+     "Thing",
+     "Bend a little",
+     "Bend more",
+     "Group"
     ],
-    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different."
+    "rows": [
+     [
+      "Dry spaghetti",
+      "snaps at once",
+      "in 3 pieces",
+      "Snaps (brittle)"
+     ],
+     [
+      "Paper clip",
+      "stays bent",
+      "stays bent",
+      "Stays bent"
+     ],
+     [
+      "Plastic ruler",
+      "springs back",
+      "springs back",
+      "Springs back (elastic)"
+     ],
+     [
+      "Plasticine stick",
+      "stays bent",
+      "stays bent",
+      "Stays bent"
+     ]
+    ]
    },
    "setup": [
     {
-     "art": "Six objects in a row on a table: a candle stub, a bar of soap, a chalk stick, a hand showing a fingernail, a steel nail and a ceramic tile.",
-     "caption": "1. Line up the six things, softest to hardest. This is your guess."
+     "art": "Eight things laid out on a table: spaghetti, chalk, ice cream stick, plastic ruler, paper clip, foil strip, plasticine and a rubber band, with three paper labels SNAPS, STAYS BENT and SPRINGS BACK.",
+     "caption": "1. Guess. Put each thing in the pile you think it belongs to."
     },
     {
-     "art": "A hand pressing the corner of a steel nail onto a flat piece of chalk and dragging it, leaving a clear white groove.",
-     "caption": "2. Press the corner of one on a flat face of another. Drag it a little."
+     "art": "Two hands bending a stick of spaghetti inside a clear plastic bag, the stick starting to curve.",
+     "caption": "2. Bend each thing slowly inside a bag. Bend a little, then more."
     },
     {
-     "art": "A child rubbing a finger across a grey streak on a tile, and then looking at it through a magnifying glass.",
-     "caption": "3. Rub the line. A groove that stays is a scratch. A streak that wipes off is not."
+     "art": "A table showing the results: spaghetti in three pieces, a bent paper clip, and a plastic ruler lying flat and straight.",
+     "caption": "3. Write what happens. Sort the things into three groups."
     }
    ]
   },
@@ -1968,23 +2016,22 @@
   },
   {
    "id": "e3",
-   "title": "How Much Can It Hold? The strength test",
+   "title": "Dry or Damp? Does water change how strong it is?",
    "mins": 30,
    "days": 1,
-   "question": "Which strip holds the most weight before it tears?",
-   "predict": "Line up the strips. Put the one you think is weakest first, and the strongest last.",
-   "fair_test": "To make it fair, cut every strip 2 centimetres wide and 25 centimetres long. Use the same marbles, added one at a time, the same gentle way. Test each strip 3 times with a new strip each time, because one try can be a fluke.",
+   "question": "When a strip of material gets damp, does it become stronger, weaker or stay the same?",
+   "predict": "For each of the four strips, guess before you test: will the damp strip hold more marbles, fewer marbles or the same?",
+   "fair_test": "To make it fair, cut every strip 2 centimetres wide and 25 centimetres long. Make the damp strips damp in the same way, not dripping. Add the marbles gently, one at a time. Test each strip twice. If the two numbers are far apart, test a third time.",
    "results_table": [
     "Strip",
-    "Try 1: marbles held",
-    "Try 2: marbles held",
-    "Try 3: marbles held",
-    "Middle value (marbles)"
+    "Dry: marbles held",
+    "Damp: marbles held",
+    "What changed?"
    ],
    "materials": [
     {
-     "item": "strips 2 centimetres wide and 25 centimetres long, three of each: newspaper, printer paper, chart paper, cotton cloth, plastic carry bag",
-     "qty": 15
+     "item": "strips 2 centimetres wide and 25 centimetres long, six of each: newspaper, printer paper, old cotton cloth, plastic carry bag",
+     "qty": 24
     },
     {
      "item": "a small paper cup and a paper clip",
@@ -2000,6 +2047,10 @@
      "buy": "b-marbles"
     },
     {
+     "item": "a damp cloth or a spray bottle of water",
+     "qty": 1
+    },
+    {
      "item": "a cushion or folded towel",
      "qty": 1
     },
@@ -2008,110 +2059,113 @@
      "qty": 1
     }
    ],
-   "safety": "Put a cushion under the cup so nothing hits the floor or your feet. Pick up every marble you drop, because they roll. Marbles are not for children under 3.",
+   "safety": "Put a cushion under the cup so nothing hits the floor or your feet. Pick up every marble you drop, because they roll. Marbles are not for children under 3. Wipe up any water.",
    "schedule": [
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess the order. Hang a cup from each strip and add marbles until it tears. Do it 3 times. Draw a bar chart."
+     "what": "Guess. Test dry strips of four materials. Make four strips damp and test them. Compare."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart. Draw one bar for each strip. Make each bar as tall as the middle value.",
-   "context": "This is the strength test. You tape a strip of material under a table edge, hang a cup from it, and add marbles one at a time until the strip tears. The more marbles it holds, the stronger it is.",
+   "record": "Fill in the table. In the last column, write weaker, stronger or about the same.",
+   "context": "In this experiment you hang a paper cup from a strip of material and add marbles until the strip tears. You do it with dry strips, then with damp ones. It shows that a material's strength can change when it gets wet.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the five kinds of strip. 2. Ask your child to put them in a line, weakest first and strongest last.",
-     "say": "Which strip do you think is the weakest? Which is the strongest? Put them in a line, weakest first.",
-     "kid": "Look at the five kinds of strip. Put them in a line. Weakest first, strongest last. This is your guess.",
-     "context": "This is the first step of the strength test. You find out how strong each material is by hanging weights from a strip of it."
+     "do": "1. Lay out the four kinds of strip. 2. For each one, ask your child to guess: damp will hold more, fewer, or the same number of marbles.",
+     "say": "Imagine a wet newspaper. Is it stronger or weaker than a dry one? What about a wet cloth? A wet plastic bag? Guess for each one.",
+     "kid": "Look at the four kinds of strip. Guess for each: will the damp one hold more, fewer or the same?",
+     "ask": [
+      {
+       "q": "Why did you guess that for the cloth?",
+       "good": [
+        "Wet cloth feels heavy and strong.",
+        "Wet cloth feels floppy.",
+        "I have no idea. Let us test."
+       ]
+      }
+     ],
+     "context": "This is the first step of Dry or Damp. You will find out whether getting wet makes a material stronger or weaker. First you guess."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Tape 3 centimetres of one strip to the underside of a table edge. 2. Tape 3 centimetres at the bottom to the paper cup's rim, through a paper clip hook, so the cup hangs free. 3. Put the cushion under the cup.",
-     "say": "The cup hangs from the strip. We will add marbles one at a time. The strip that holds the most is the strongest.",
-     "kid": "Tape a strip under the table edge. Hang the paper cup from the bottom. Put the cushion under the cup.",
+     "do": "1. Tape 3 centimetres of a dry strip under the table edge. 2. Tape the other end to the paper cup's rim through a paper clip hook, so the cup hangs free. 3. Put the cushion under the cup.",
+     "say": "The cup hangs from the strip. We add marbles one at a time. The strip that holds the most marbles is the strongest.",
+     "kid": "Tape the strip under the table. Hang the paper cup from the bottom. Put the cushion under the cup.",
      "adult": true,
-     "parent": "If the tape peels off instead of the strip tearing, do not count that try. Press the tape down firmly and use the same length of tape each time."
+     "parent": "If the tape peels off instead of the strip tearing, do not count that try. Use the same length of tape every time. For the damp strips, dab with the damp cloth until the strip feels damp all over, but is not dripping. Wait one minute, then tape it on."
     },
     {
      "id": "s3",
      "mins": 14,
-     "do": "1. Add one marble at a time, gently. 2. Count out loud. 3. When the strip tears, write down how many marbles were in the cup. 4. Do it 3 times for each kind of strip, with a new strip each time.",
-     "say": "Drop each marble in gently, the same way every time. Count out loud. Write down the number when the strip tears.",
-     "kid": "Drop in one marble at a time. Count out loud. Write the number when the strip tears.",
-     "parent": "Let a young child count while you drop the marbles in. The plastic bag will stretch a lot before it tears. That is worth noticing."
+     "do": "1. Add marbles one at a time, gently, and count out loud. 2. When the strip tears, write down the number. 3. Test each dry strip twice. 4. Then do the same with damp strips. 5. Write all the numbers in the table.",
+     "say": "Drop each marble in gently. Count out loud. Write the number when the strip tears. First all the dry ones. Then all the damp ones.",
+     "kid": "Add marbles one at a time. Count. Write the number when the strip tears. Do dry first. Then damp.",
+     "parent": "Cotton cloth may show only a small change, or none at all. That is an honest result. Textile scientists find that damp cotton is about one tenth to one fifth stronger than dry cotton. Paper loses most of its strength when wet, because the water pulls the fibres apart. Plastic does not take in water, so it is the control: it should not change."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Help your child find the middle value of the 3 tries for each strip. Then draw a bar chart.",
-     "say": "Put the three numbers in order. The middle one is the middle value. Then draw a bar for each strip.",
-     "kid": "Find the middle number of your three tries. Draw one bar for each strip.",
+     "do": "Help your child fill in the last column, then compare the changes.",
+     "say": "For each strip, look at dry and damp. Write weaker, stronger or about the same. Which one changed the most?",
+     "kid": "Look at dry and damp for each strip. Write weaker, stronger or the same.",
      "check": {
       "t": "mcq",
-      "q": "A strip held 11, 10 and 11 marbles in three tries. What does that tell you?",
+      "q": "A paper strip held 8 marbles dry and 4 marbles damp. What can you say?",
       "options": [
-       "The result is reliable, because the numbers are close",
-       "The test is useless",
-       "The strip is weak"
+       "Damp paper held half as many, so water made it weaker",
+       "Damp paper is stronger because water is heavy",
+       "The test did not work"
       ],
       "a": 0,
-      "why": "When repeated tries give nearly the same number, the result is reliable. That means we can trust it. Picking 'useless' is the opposite. It is when the three numbers are far apart that we should worry."
+      "why": "4 is half of 8. So the damp paper held half as many marbles. Water pulls the paper fibres apart and makes them slip, so paper gets weaker. Picking 'water is heavy' mixes up the weight of the water with the strength of the paper."
      },
      "chart": {
-      "type": "bar",
-      "title": "Made-up example results: how many marbles each strip held before it tore",
-      "x": "Strip",
-      "y": "Marbles held (middle value)",
-      "data": [
-       {
-        "label": "Newspaper",
-        "value": 5,
-        "emoji": "📰"
-       },
-       {
-        "label": "Printer paper",
-        "value": 8,
-        "emoji": "📄"
-       },
-       {
-        "label": "Chart paper",
-        "value": 12,
-        "emoji": "🗒️"
-       },
-       {
-        "label": "Cotton cloth",
-        "value": 14,
-        "emoji": "🧣"
-       },
-       {
-        "label": "Plastic bag",
-        "value": 22,
-        "emoji": "🛍️"
-       }
+      "type": "table",
+      "title": "Made-up example results: marbles held, dry and damp",
+      "cols": [
+       "Strip",
+       "Dry (marbles)",
+       "Damp (marbles)",
+       "What changed"
       ],
-      "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different."
+      "rows": [
+       [
+        "Newspaper",
+        "6",
+        "2",
+        "weaker"
+       ],
+       [
+        "Printer paper",
+        "9",
+        "3",
+        "weaker"
+       ],
+       [
+        "Cotton cloth",
+        "14",
+        "16",
+        "a little stronger"
+       ],
+       [
+        "Plastic bag",
+        "22",
+        "22",
+        "about the same"
+       ]
+      ]
      }
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "Talk about the plastic bag. It held the most, but it also stretched a lot. Is stretchy the same as strong?",
-     "say": "The plastic bag stretched and stretched before it tore. Does that mean it is strong, or only stretchy?",
-     "kid": "The plastic bag stretched a lot. Is stretchy the same as strong?",
-     "ask": [
-      {
-       "q": "What would happen if you tested thick paper in the same way?",
-       "good": [
-        "It would hold more, because there is more paper.",
-        "Thickness matters too, so we cut all the strips to the same width."
-       ]
-      }
-     ],
-     "think": "If a thick strip holds more than a thin one of the same paper, how can we compare two different materials fairly?"
+     "do": "Talk about why the plastic bag did not change, and why that is useful in an experiment.",
+     "say": "The plastic bag stayed the same. That tells us the water itself did not make the marbles heavier or the tape stickier. Why does that help us trust the other results?",
+     "kid": "The plastic bag did not change. Why does that help us trust the other results?",
+     "think": "Wet cotton thread is a little stronger than dry. Why might this matter to someone who spins very fine cotton thread?"
     },
     {
      "id": "s6",
@@ -2119,80 +2173,82 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: the plastic bag is the strongest and newspaper the weakest. What I saw: the bag held 22 marbles and the newspaper held only 5. Why: plastic is made of long, strong chains that are hard to pull apart, and paper is made of short fibres that slip."
+     "parent": "A good answer sounds like this. What I think: water makes paper weaker and does not change plastic. What I saw: the damp printer paper held 3 marbles and the dry held 9. The plastic held 22 either way. Why: water gets between the paper fibres and pushes them apart, but plastic does not take in water."
     }
    ],
    "example_chart": {
-    "type": "bar",
-    "title": "Made-up example results: how many marbles each strip held before it tore",
-    "x": "Strip",
-    "y": "Marbles held (middle value)",
-    "data": [
-     {
-      "label": "Newspaper",
-      "value": 5,
-      "emoji": "📰"
-     },
-     {
-      "label": "Printer paper",
-      "value": 8,
-      "emoji": "📄"
-     },
-     {
-      "label": "Chart paper",
-      "value": 12,
-      "emoji": "🗒️"
-     },
-     {
-      "label": "Cotton cloth",
-      "value": 14,
-      "emoji": "🧣"
-     },
-     {
-      "label": "Plastic bag",
-      "value": 22,
-      "emoji": "🛍️"
-     }
+    "type": "table",
+    "title": "Made-up example results: marbles held, dry and damp",
+    "cols": [
+     "Strip",
+     "Dry (marbles)",
+     "Damp (marbles)",
+     "What changed"
     ],
-    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different."
+    "rows": [
+     [
+      "Newspaper",
+      "6",
+      "2",
+      "weaker"
+     ],
+     [
+      "Printer paper",
+      "9",
+      "3",
+      "weaker"
+     ],
+     [
+      "Cotton cloth",
+      "14",
+      "16",
+      "a little stronger"
+     ],
+     [
+      "Plastic bag",
+      "22",
+      "22",
+      "about the same"
+     ]
+    ]
    },
    "setup": [
     {
-     "art": "A strip of cloth taped under a table edge, a paper cup hanging from its bottom end and a cushion on the floor underneath.",
-     "caption": "1. Tape the strip under the table. Hang a paper cup from it. Put a cushion below."
+     "art": "A strip of paper taped under a table edge, a paper cup hanging from its bottom end and a cushion on the floor underneath.",
+     "caption": "1. Tape a strip under the table. Hang a paper cup from it. Put a cushion below."
     },
     {
-     "art": "A child's hand dropping one marble into the paper cup, the strip stretched tight above it.",
-     "caption": "2. Add marbles one at a time. Count them out loud."
+     "art": "A hand patting a paper strip with a damp cloth next to an identical dry strip.",
+     "caption": "2. Make some strips damp. Keep some dry."
     },
     {
-     "art": "The strip torn in two, the cup fallen onto the cushion with marbles around it, and a child writing a number on a table.",
-     "caption": "3. When the strip tears, write down how many marbles it held."
+     "art": "A child dropping one marble at a time into the cup, the paper strip stretched tight above, a table of results beside her.",
+     "caption": "3. Add marbles until the strip tears. Count. Do the dry strips, then the damp ones."
     }
    ]
   },
   {
    "id": "e4",
-   "title": "Thirsty Squares: which soaks up the most?",
+   "title": "The Vanishing Drop: how fast does it soak in?",
    "mins": 25,
    "days": 1,
-   "question": "Which material soaks up the most water?",
-   "predict": "Line up the five squares. Put the one you think is least thirsty first, and the thirstiest last.",
-   "fair_test": "To make it fair, cut every square 10 centimetres by 10 centimetres. Use the same teaspoon, filled level, and wait the same 10 seconds each time. Test each square 3 times, drying the plate in between.",
+   "question": "How many seconds does one drop of water take to vanish on each surface? Which surfaces never let it in?",
+   "predict": "Line up the six surfaces. Put the one you think soaks up a drop fastest first, and the one that never soaks it up last.",
+   "fair_test": "To make it fair, make every drop the same size, using the same dropper or the same spoon tip. Place each drop in a fresh spot. Stop at 120 seconds if the drop is still there. Test each surface 3 times.",
    "results_table": [
-    "Square",
-    "Try 1: teaspoons soaked",
-    "Try 2: teaspoons soaked",
-    "Try 3: teaspoons soaked",
-    "Middle value (teaspoons)"
+    "Surface",
+    "Try 1: seconds",
+    "Try 2: seconds",
+    "Try 3: seconds",
+    "Middle value (seconds)"
    ],
    "materials": [
     {
-     "item": "squares 10 centimetres by 10 centimetres: paper towel, newspaper, cotton cloth, kitchen sponge, plastic carry bag",
-     "qty": 5
+     "item": "flat pieces of paper towel, cotton cloth, newspaper, printer paper, butter paper and a plastic carry bag",
+     "qty": 6
     },
     {
-     "item": "a teaspoon",
+     "item": "a dropper, or a spoon with a small tip",
      "qty": 1
     },
     {
@@ -2200,11 +2256,19 @@
      "qty": 1
     },
     {
-     "item": "a flat plate, and a cloth to dry it",
+     "item": "a plate to rest the pieces on",
      "qty": 1
     },
     {
      "item": "a watch or phone with seconds",
+     "qty": 1
+    },
+    {
+     "item": "a colocasia (arbi) leaf, if you have one",
+     "qty": 1
+    },
+    {
+     "item": "black pepper and a drop of dish soap",
      "qty": 1
     },
     {
@@ -2217,95 +2281,100 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess the order. Add water one teaspoon at a time to each square. Do it 3 times. Draw a bar chart."
+     "what": "Guess the order. Time one drop on each surface 3 times. Draw a bar chart. Try the pepper and soap trick."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart. Draw one bar for each square. Make each bar as tall as the middle value.",
-   "context": "This is the thirsty squares test. You add water to a small square of material one teaspoon at a time. The number of teaspoons it soaks up before water sits on top shows how absorbent it is.",
+   "record": "Fill in the table. Then draw a bar chart. Draw one bar for each surface. Make each bar as tall as the middle value in seconds.",
+   "context": "In this experiment you put one drop of water on each of six surfaces and time how long it takes to vanish. A short time means the surface is absorbent. A drop that never vanishes means the surface is waterproof.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the five squares. 2. Ask your child to put them in a line, least thirsty first.",
-     "say": "Which square will soak up the most water? Which will soak up the least? Put them in a line.",
-     "kid": "Look at the five squares. Put them in a line. Least thirsty first. This is your guess.",
-     "context": "This is the first step of the thirsty squares test. You find out which material is most absorbent. Absorbent means it soaks up liquid."
+     "do": "1. Lay out the six pieces. 2. Ask your child to put them in a line, fastest-soaking first.",
+     "say": "Which surface will drink a drop the fastest? Which will never drink it? Put them in a line, fastest first.",
+     "kid": "Look at the six surfaces. Put them in a line. Fastest to soak first. This is your guess.",
+     "context": "This is the first step of the vanishing drop test. You find out which materials are absorbent and which are waterproof, by timing a drop."
     },
     {
      "id": "s2",
-     "mins": 3,
-     "do": "1. Put a square flat on the plate. 2. Fill a teaspoon level with water. 3. Pour it onto the middle of the square.",
-     "say": "We pour one level teaspoon in the middle of the square. Then we count slowly to ten, and watch.",
-     "kid": "Put a square on the plate. Pour one level teaspoon of water in the middle. Count to ten.",
-     "parent": "Fill the spoon to the same level each time. Pour in the middle, not near an edge."
+     "mins": 4,
+     "do": "1. Lay the first piece flat on the plate. 2. Make one drop from the dropper. 3. Start the timer the moment the drop touches. 4. Look from the side. 5. Stop the timer when the shiny drop is gone.",
+     "say": "Put one drop on the surface and start the timer at once. Watch from the side. Stop when the shiny drop has gone into the material.",
+     "kid": "Put one drop on a piece. Start the timer. Stop when the shiny drop is gone.",
+     "parent": "If the drop is still sitting there after 120 seconds, stop and write 120. That is a result, and it means the surface is waterproof. Use a fresh spot for each try."
     },
     {
      "id": "s3",
-     "mins": 12,
-     "do": "1. After 10 seconds, look at the square. 2. If no water is sitting on top, add another teaspoon. 3. Stop when water first stays on top for 10 seconds. 4. Write down how many teaspoons it soaked up, not counting the last one. 5. Do each square 3 times, drying the plate each time.",
-     "say": "If the water disappears into the square, add another teaspoon. Stop when some water stays sitting on top. Count the teaspoons that disappeared.",
-     "kid": "Add one teaspoon at a time. Stop when water stays on top. Write how many disappeared.",
-     "parent": "The plastic bag will soak up none. Write 0. That is a result too. A zero tells us the bag is waterproof."
+     "mins": 10,
+     "do": "Test each surface 3 times, in fresh places. Write down the seconds each time.",
+     "say": "Do all six surfaces, three tries each. Write the seconds. For the plastic, write 120 if the drop is still there.",
+     "kid": "Test each surface three times. Write the seconds. If the drop is still there after 120, write 120.",
+     "parent": "To find the middle value, put the three numbers in order and take the middle one. If one try is very different, check that the drop was the same size."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Help your child find the middle value for each square and draw a bar chart.",
-     "say": "Each square gets one bar. The taller the bar, the thirstier the square.",
-     "kid": "Draw one bar for each square. A taller bar means it soaks up more water.",
+     "do": "Help your child draw a bar chart of the middle values, with one bar for each surface.",
+     "say": "Each surface gets one bar. A short bar means the drop vanished fast. A tall bar means it took a long time or never went in.",
+     "kid": "Draw one bar for each surface. A short bar means the drop soaked in fast.",
      "check": {
       "t": "mcq",
-      "q": "The plastic bag square soaked up 0 teaspoons. What does that tell you about plastic?",
+      "q": "In the vanishing drop chart, a very tall bar means the surface is…",
       "options": [
-       "It is waterproof",
-       "It is absorbent",
-       "The test did not work"
+       "Waterproof or nearly so",
+       "Very absorbent",
+       "Very heavy"
       ],
       "a": 0,
-      "why": "A result of 0 is a proper result. Water sat on top at once, so the plastic did not let water in. That is waterproof. Picking 'the test did not work' is a common reaction to a zero. Zero is an answer."
+      "why": "A tall bar is a long time. The drop stayed on top for a long time or never went in. That is waterproof. Picking 'very absorbent' reads the chart backwards. The most absorbent surface has the shortest bar, because its drop vanishes fastest."
      },
      "chart": {
       "type": "bar",
-      "title": "Made-up example results: how many teaspoons of water each square soaked up",
-      "x": "Square",
-      "y": "Teaspoons soaked up (middle value)",
+      "title": "Made-up example results: how many seconds one drop of water took to vanish",
+      "x": "Surface",
+      "y": "Seconds until the drop vanished",
       "data": [
        {
-        "label": "Kitchen sponge",
-        "value": 8,
-        "emoji": "🧽"
-       },
-       {
         "label": "Paper towel",
-        "value": 6,
+        "value": 2,
         "emoji": "🧻"
        },
        {
         "label": "Cotton cloth",
-        "value": 4,
+        "value": 6,
         "emoji": "🧣"
        },
        {
         "label": "Newspaper",
-        "value": 2,
+        "value": 25,
         "emoji": "📰"
        },
        {
+        "label": "Printer paper",
+        "value": 70,
+        "emoji": "📄"
+       },
+       {
+        "label": "Butter paper",
+        "value": 120,
+        "emoji": "🧈"
+       },
+       {
         "label": "Plastic bag",
-        "value": 0,
+        "value": 120,
         "emoji": "🛍️"
        }
       ],
-      "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different."
+      "note": "These numbers are made up. A bar of 120 means the drop was still there after 2 minutes, when we stopped."
      }
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Look closely at the sponge and the plastic through a magnifying glass. Then dip the edge of a strip of paper towel in a cup of water and watch the water climb.",
-     "say": "Look at the sponge. It is full of tiny holes. Now dip a strip of paper towel in water. Watch the water climb up. That is called wicking.",
-     "kid": "Look at the sponge closely. It has tiny holes. Dip a paper towel edge in water. Watch the water climb.",
-     "think": "Why does water climb up through the paper towel, even though gravity pulls it down?"
+     "do": "Fill a plate with water. Shake pepper onto it. Dip a finger in dish soap and touch the middle. Also look at a drop on a colocasia leaf, if you have one.",
+     "say": "Pepper floats on the water. Now touch the middle with a soapy finger. What happens? The surface of water acts like a thin, stretchy skin. Soap weakens it.",
+     "kid": "Sprinkle pepper on a plate of water. Touch the middle with a soapy finger. Watch the pepper!",
+     "parent": "The pepper rushes to the edge. The skin of water, called surface tension, is weaker where the soap touches. The stronger skin around pulls the pepper away. The same skin is why a drop is round on the colocasia leaf. The leaf is covered with tiny wax bumps, so the water cannot spread. The testing-materials unit tells the story of Agnes Pockels, who studied this skin in her kitchen."
     },
     {
      "id": "s6",
@@ -2313,261 +2382,65 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: the sponge is the thirstiest and the plastic bag is not absorbent at all. What I saw: the sponge soaked up 8 teaspoons and the bag soaked up none. Why: the sponge is full of tiny gaps that pull water in, and plastic has no gaps."
+     "parent": "A good answer sounds like this. What I think: paper towel is the most absorbent and plastic is waterproof. What I saw: the drop vanished in 2 seconds on paper towel and was still there after 120 seconds on plastic. Why: the paper towel has tiny gaps that pull water in, and plastic has no gaps."
     }
    ],
    "example_chart": {
     "type": "bar",
-    "title": "Made-up example results: how many teaspoons of water each square soaked up",
-    "x": "Square",
-    "y": "Teaspoons soaked up (middle value)",
+    "title": "Made-up example results: how many seconds one drop of water took to vanish",
+    "x": "Surface",
+    "y": "Seconds until the drop vanished",
     "data": [
      {
-      "label": "Kitchen sponge",
-      "value": 8,
-      "emoji": "🧽"
-     },
-     {
       "label": "Paper towel",
-      "value": 6,
+      "value": 2,
       "emoji": "🧻"
      },
      {
       "label": "Cotton cloth",
-      "value": 4,
+      "value": 6,
       "emoji": "🧣"
      },
      {
       "label": "Newspaper",
-      "value": 2,
+      "value": 25,
       "emoji": "📰"
      },
      {
+      "label": "Printer paper",
+      "value": 70,
+      "emoji": "📄"
+     },
+     {
+      "label": "Butter paper",
+      "value": 120,
+      "emoji": "🧈"
+     },
+     {
       "label": "Plastic bag",
-      "value": 0,
+      "value": 120,
       "emoji": "🛍️"
      }
     ],
-    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different."
+    "note": "These numbers are made up. A bar of 120 means the drop was still there after 2 minutes, when we stopped."
    },
    "setup": [
     {
-     "art": "Five small squares laid on a table: a paper towel, newspaper, cotton cloth, a kitchen sponge and a plastic bag, with a teaspoon and a cup of water.",
-     "caption": "1. Cut five squares. Put one on a plate."
+     "art": "Six pieces laid out on a table: a paper towel, cotton cloth, newspaper, printer paper, butter paper and a plastic bag, with a dropper and a cup of water.",
+     "caption": "1. Lay out the six surfaces. Guess the order."
     },
     {
-     "art": "A teaspoon pouring water onto the middle of a paper towel square on a plate.",
-     "caption": "2. Pour one level teaspoon in the middle. Count to ten."
+     "art": "A dropper releasing one drop onto a paper towel on a plate, a phone timer showing seconds beside it.",
+     "caption": "2. Put one drop on a surface. Start the timer at once."
     },
     {
-     "art": "A paper towel square with a small puddle sitting on top, next to a tally of teaspoons.",
-     "caption": "3. Add teaspoons until water stays on top. Count the ones that disappeared."
+     "art": "A round drop sitting on a plastic bag and a flat damp spot where a drop has gone into a paper towel.",
+     "caption": "3. Stop the timer when the drop is gone. Or stop at 120 seconds."
     }
    ]
   },
   {
    "id": "e5",
-   "title": "The Ice Race: heat carriers and heat blockers",
-   "mins": 30,
-   "days": 1,
-   "question": "Which material carries heat into ice the fastest, and which carries it the slowest?",
-   "predict": "Put your hand on each material and decide which feels coldest. Then guess which one will melt an ice cube the fastest.",
-   "fair_test": "To make it fair, use ice cubes of the same size from the same tray. Put them down at the same moment, in the same room, away from sun and fans. Put the ice in the middle of each material.",
-   "results_table": [
-    "What the ice sat on",
-    "Time when the cube was gone (minutes)"
-   ],
-   "materials": [
-    {
-     "item": "a steel plate or thali",
-     "qty": 1
-    },
-    {
-     "item": "a plastic lid or plastic plate",
-     "qty": 1
-    },
-    {
-     "item": "a wooden chopping board",
-     "qty": 1
-    },
-    {
-     "item": "a thickly folded woollen scarf or blanket",
-     "qty": 1
-    },
-    {
-     "item": "four ice cubes of the same size",
-     "qty": 4
-    },
-    {
-     "item": "a clock with minutes, or a phone timer",
-     "qty": 1
-    },
-    {
-     "item": "a thermometer, if you have one",
-     "qty": 1,
-     "buy": "b-thermo"
-    },
-    {
-     "item": "a pencil and the results table",
-     "qty": 1
-    }
-   ],
-   "safety": "Wipe up any melted water at once so no one slips.",
-   "schedule": [
-    {
-     "day": 1,
-     "mins": 30,
-     "what": "Feel the plates and guess. Put the ice down. Check every five minutes. Write down the times. Draw a bar chart."
-    }
-   ],
-   "record": "Fill in the table. Then draw a bar chart with one bar for each material. Make each bar as tall as its melting time.",
-   "context": "This is the ice race. You put identical ice cubes on different materials, and time how long each cube takes to melt. Heat from the room flows into the ice. A material that carries heat quickly melts the ice faster.",
-   "flow": [
-    {
-     "id": "s1",
-     "mins": 4,
-     "do": "1. Lay the four materials on a table where they have sat for an hour. 2. Ask your child to put a palm on each for 10 seconds. 3. Ask which feels coldest.",
-     "say": "Put your hand flat on each one. Count to ten. Which feels the coldest? Which feels the warmest?",
-     "kid": "Put your palm on each one for ten seconds. Which feels coldest? Which feels warmest?",
-     "context": "This is the first step of the ice race. First you feel the materials with your hand, then you time ice melting on them to see what is really going on.",
-     "ask": [
-      {
-       "q": "Do you think the coldest one is really colder than the others?",
-       "good": [
-        "Maybe it is just the same temperature.",
-        "I do not know yet. Let us find out."
-       ]
-      }
-     ],
-     "parent": "If you have a thermometer, check each material now. They will all show nearly the same number. Keep that result to look at later."
-    },
-    {
-     "id": "s2",
-     "mins": 4,
-     "do": "1. Take four ice cubes from the same tray at the same time. 2. Put one in the middle of each material. 3. Start the timer.",
-     "say": "We will put an ice cube on each one at the same moment. Heat from the room flows into the ice and melts it. We will see which one lets the heat flow fastest.",
-     "kid": "Put one ice cube in the middle of each material. Start the timer.",
-     "adult": true,
-     "parent": "Place the folded wool so the cube sits on top of it. A thick fold is the best insulator. Keep all four in the same part of the room."
-    },
-    {
-     "id": "s3",
-     "mins": 15,
-     "do": "1. Every 5 minutes, look at each cube. 2. When a cube is gone, write down the time. 3. Do something else while you wait. 4. Write the time for all four.",
-     "say": "Check each cube every five minutes. Write down when it is all gone. While you wait, do something else.",
-     "kid": "Check the ice every five minutes. Write down when each cube is gone.",
-     "parent": "If the room is cold, the race will be slow. You can stop after 40 minutes and note how much ice is left on each. A bigger piece left means a slower melter."
-    },
-    {
-     "id": "s4",
-     "mins": 3,
-     "do": "Help your child draw a bar chart of the melting times.",
-     "say": "Each material gets a bar. The taller the bar, the longer the ice lasted.",
-     "kid": "Draw one bar for each material. A taller bar means the ice lasted longer.",
-     "check": {
-      "t": "mcq",
-      "q": "The ice melted fastest on the steel plate. Why?",
-      "options": [
-       "Steel carried the room's heat into the ice fastest",
-       "The steel plate was colder",
-       "Steel makes its own heat"
-      ],
-      "a": 0,
-      "why": "Steel is a good conductor of heat, so it let heat flow from the room into the ice quickly. Picking 'the steel plate was colder' is the common idea. If the steel was colder, the ice would have lasted longer. Steel makes no heat by itself either."
-     },
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example results: how many minutes each ice cube took to melt",
-      "x": "What the ice cube sat on",
-      "y": "Minutes to melt",
-      "data": [
-       {
-        "label": "Steel plate",
-        "value": 14,
-        "emoji": "🍽️"
-       },
-       {
-        "label": "Plastic lid",
-        "value": 24,
-        "emoji": "🥡"
-       },
-       {
-        "label": "Wooden board",
-        "value": 27,
-        "emoji": "🪵"
-       },
-       {
-        "label": "Folded wool",
-        "value": 38,
-        "emoji": "🧣"
-       }
-      ],
-      "note": "These numbers are made up. Your times will depend on how warm the room is. The order matters more than the numbers."
-     }
-    },
-    {
-     "id": "s5",
-     "mins": 2,
-     "do": "Compare the melting times with the hand test. The steel felt coldest. Was it really colder than the wooden board?",
-     "say": "Your hand said the steel was coldest. But the steel melted the ice fastest. So it was not colder. It moved heat faster.",
-     "kid": "The steel felt cold, but it melted ice the fastest. So the steel was not colder. It moves heat faster.",
-     "think": "So when your hand says 'cold', what is it really telling you?"
-    },
-    {
-     "id": "s6",
-     "mins": 2,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: steel carries heat fastest and wool carries it slowest. What I saw: ice on steel was gone in 14 minutes and on wool it took 38. Why: steel is a conductor, and wool traps air, and air is a poor conductor."
-    }
-   ],
-   "example_chart": {
-    "type": "bar",
-    "title": "Made-up example results: how many minutes each ice cube took to melt",
-    "x": "What the ice cube sat on",
-    "y": "Minutes to melt",
-    "data": [
-     {
-      "label": "Steel plate",
-      "value": 14,
-      "emoji": "🍽️"
-     },
-     {
-      "label": "Plastic lid",
-      "value": 24,
-      "emoji": "🥡"
-     },
-     {
-      "label": "Wooden board",
-      "value": 27,
-      "emoji": "🪵"
-     },
-     {
-      "label": "Folded wool",
-      "value": 38,
-      "emoji": "🧣"
-     }
-    ],
-    "note": "These numbers are made up. Your times will depend on how warm the room is. The order matters more than the numbers."
-   },
-   "setup": [
-    {
-     "art": "A child's palm pressed flat on a steel plate, with a wooden board, a plastic lid and a folded woollen scarf waiting beside it.",
-     "caption": "1. Feel each material for ten seconds. Which feels the coldest?"
-    },
-    {
-     "art": "Four ice cubes of the same size placed on a steel plate, a plastic lid, a wooden board and a folded scarf, with a timer.",
-     "caption": "2. Put an ice cube on each. Start the timer."
-    },
-    {
-     "art": "The four plates later: a puddle on the steel plate, a smaller puddle on the lid, a lump of ice on the board and a nearly whole cube on the wool.",
-     "caption": "3. Check every five minutes. Write down when each cube is gone."
-    }
-   ]
-  },
-  {
-   "id": "e6",
    "title": "Layers to Darkness: transparent, translucent or opaque?",
    "mins": 20,
    "days": 1,
@@ -2795,6 +2668,11 @@
     {
      "item": "8 small things: a steel spoon, a wooden spoon, a rubber band, a cotton ball, a smooth stone, a glass marble, a sponge, a key",
      "qty": 8
+    },
+    {
+     "item": "a room thermometer, if you have one",
+     "qty": 1,
+     "buy": "b-thermo"
     }
    ],
    "safety": "Use nothing sharp, nothing breakable and nothing small enough for a young child to swallow.",
@@ -2837,7 +2715,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Take out the steel spoon and the wooden spoon. Ask your child to hold one in each hand, eyes closed. Ask which feels colder.",
+     "do": "Take out the steel spoon and the wooden spoon. Ask your child to hold one in each hand, eyes closed. Ask which feels colder. If you have a thermometer, then touch it to each spoon in turn.",
      "say": "Hold one in each hand. Which feels colder? Now open your eyes. Have they been in the same room all day?",
      "kid": "Hold a steel spoon in one hand and a wooden spoon in the other. Which feels colder?",
      "check": {
@@ -2980,7 +2858,7 @@
   },
   {
    "id": "a3",
-   "title": "The Property Ladder and the Two-Ring Sort",
+   "title": "The Property Ladder",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -2989,87 +2867,95 @@
      "qty": 1
     },
     {
-     "item": "8 to 12 small things from home, such as a spoon, a pencil, a leaf, a rubber, a coin, a tumbler, a cloth",
-     "qty": 10
+     "item": "6 small things from home, such as a steel spoon, a wooden spoon, a piece of chalk, a rubber, a cotton cloth, a plastic ruler",
+     "qty": 6
     },
     {
-     "item": "two skipping ropes or two loops of string",
-     "qty": 2
+     "item": "a new steel nail, handled by a grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass",
+     "qty": 1,
+     "buy": "b-lens"
     },
     {
      "item": "paper labels and a pencil",
      "qty": 1
     }
    ],
-   "safety": "Use nothing sharp or breakable.",
+   "safety": "A grown-up handles the nail. Use nothing sharp or breakable.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Put things in order on a washing-line ladder. Then sort them into two overlapping rings."
+     "what": "Put six things in order on a washing-line ladder for three properties. See how the order changes."
     }
    ],
-   "record": "Draw your ladder and your two rings, and write the numbers in each part.",
-   "context": "In this activity you sort things by their properties in two ways. First you put six things in order on a line. Then you sort them into two overlapping rings. Both are ways of comparing materials.",
+   "record": "Draw your three ladders and write the six things in order on each.",
+   "context": "In this activity you put the same six things in order on a line, three times. Each time you use a different property: hardness, bendiness and roughness. You find that the order changes with the property.",
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
-     "do": "1. Choose six things. 2. Stretch a string across a doorway like a washing line. 3. Label one end 'hardest' and the other end 'softest'.",
-     "say": "We will put these six things in order from hardest to softest. Use what you know about scratching and pressing.",
-     "kid": "Choose six things. Stretch the string. One end is hardest. The other end is softest.",
-     "context": "This is the first step of the Property Ladder. You put things in order on a line, from the most to the least of one property, like hardness."
+     "mins": 4,
+     "do": "1. Stretch a string across a doorway like a washing line. 2. Label one end 'hardest' and the other end 'softest'. 3. Show your child the fingernail test: try to scratch the thing with your fingernail. If it scratches, the thing is soft. If it does not, try the nail, with a grown-up.",
+     "say": "We will put these six things in order from hardest to softest. First try your fingernail on each one. If it scratches, the thing is soft. If not, ask a grown-up to try the nail.",
+     "kid": "Stretch the string. One end is hardest. The other is softest. Try your fingernail on each thing.",
+     "adult": true,
+     "context": "This is the first step of the Property Ladder. You put things in order on a line, from most to least of one property. Here the property is hardness.",
+     "parent": "This is a small version of the Scratch Ladder in the unit Sorting materials, which does the full test. Here we only need three groups: scratched by a fingernail, scratched only by a nail, and not scratched by either."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Your child pegs the six things on the line in order of hardness. 2. Test any pair that is hard to decide. 3. Now take them down and do it again for bendiness.",
-     "say": "Is the spoon harder than the leaf? How can you check? Test each pair that you are not sure of.",
-     "kid": "Peg the things in order, hardest to softest. Test any pair you are unsure about. Then try bendiness.",
+     "do": "1. Your child pegs the six things on the line in order of hardness. 2. Test any pair that is hard to decide by trying to scratch one with the other. 3. Draw the ladder.",
+     "say": "Is the chalk harder than the rubber? How can you check? Test each pair you are not sure of.",
+     "kid": "Peg the things in order, hardest to softest. Test any pair you are unsure about.",
      "ask": [
       {
-       "q": "Did the order stay the same for hard and bendy?",
+       "q": "How did you decide where each thing goes?",
        "good": [
-        "No. A steel spoon is hard but a spoon is not bendy.",
-        "A rubber is soft and bendy, but a coin is hard and not bendy."
+        "I scratched it with my nail.",
+        "I tried to scratch one with another.",
+        "It dents when I press it."
        ]
       }
      ],
-     "parent": "The point is that the order changes with the property. A thing can be near the top for one property and near the bottom for another."
+     "parent": "If two things seem equal, peg them side by side. Ties are fine."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Lay two ropes on the floor as two rings that overlap in the middle. 2. Label one ring HARD and the other SHINY. 3. Your child puts each thing in the right place: in HARD only, in SHINY only, in both, or outside both.",
-     "say": "Where does a steel spoon go? It is hard and shiny, so it goes where the rings overlap. Where does a wooden spoon go?",
-     "kid": "Make two rings that overlap. One is HARD. One is SHINY. Put each thing in the right place.",
-     "parent": "Things that are neither go outside both rings. Some things are hard to decide. Ask your child to say why."
+     "do": "1. Take the things down. 2. Peg them again in order of bendiness: most bendy at one end. 3. Then again in order of roughness, using a magnifying glass to look at each surface.",
+     "say": "Now do the ladder again, but this time put the most bendy first. Then again for the roughest. Does the order stay the same?",
+     "kid": "Make the ladder again. This time for bendy. Then again for rough. Does the order change?",
+     "check": {
+      "t": "mcq",
+      "q": "A steel spoon is near the top of the hardness ladder. Where is it on the bendiness ladder?",
+      "options": [
+       "Near the stiff end",
+       "Near the bendy end",
+       "In the same place as on the hardness ladder"
+      ],
+      "a": 0,
+      "why": "A steel spoon is hard and stiff. It sits at the hard end of one ladder and the stiff end of the other. But a rubber is soft and bendy, and a plastic ruler is hard and bendy, so the orders are not the same. Picking 'same place' misses that each property has its own ladder."
+     }
     },
     {
      "id": "s4",
-     "mins": 5,
-     "do": "Count the things in each part. Write the numbers. Ask: how many are hard? How many are shiny? How many are hard and shiny? How many are neither?",
-     "say": "Count the things in each part of the rings. How many are hard? How many are both? How many are neither?",
-     "kid": "Count the things in each part. Write the numbers down.",
-     "check": {
-      "t": "mcq",
-      "q": "A steel spoon is hard and shiny. In the two rings, where does it go?",
-      "options": [
-       "In the part where the rings overlap",
-       "In the HARD ring only",
-       "Outside both rings"
-      ],
-      "a": 0,
-      "why": "The overlap holds things that have both properties. A steel spoon is hard and shiny, so it goes in the middle. Picking 'HARD only' leaves out the shine. Picking 'outside' means thinking it has neither property."
-     }
+     "mins": 4,
+     "do": "Compare the three ladders. Ask: which thing moved the most? Which stayed in about the same place?",
+     "say": "Look at your three ladders. Which thing moved the most from one ladder to the next? Which stayed put?",
+     "kid": "Compare the three ladders. Which thing moved the most? Which stayed put?",
+     "think": "If every property gave the same ladder, would we need more than one word? What does that tell you?"
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "Look at the rings. Ask: could you sort the same things with a different pair of properties? Say which pair.",
-     "say": "Choose a different pair of properties, like bendy and see-through. How would the things move?",
-     "kid": "Pick two new properties. How would the things move around the rings?",
-     "think": "The same things can be sorted in many ways. How do we decide which way is the best?"
+     "do": "Ask your child to say one sentence for each ladder, starting with 'The ... is harder than the ...'",
+     "say": "Say one sentence for each ladder. For example: the steel spoon is harder than the wooden spoon.",
+     "kid": "Say one sentence for each ladder. Start with 'The … is …er than the …'.",
+     "parent": "Using 'harder than' and 'bendier than' is the language of comparing. Numbers come next, in the experiments."
     }
    ],
    "setup": [
@@ -3078,122 +2964,119 @@
      "caption": "1. Peg six things on a line in order from hardest to softest."
     },
     {
-     "art": "Two skipping ropes forming overlapping circles on a floor, labelled HARD and SHINY, with a steel spoon in the middle.",
-     "caption": "2. Make two overlapping rings. Put each thing where it belongs."
+     "art": "A child pressing a fingernail into a piece of chalk and leaving a small groove.",
+     "caption": "2. Test with your fingernail. If it scratches, the thing is soft."
     },
     {
-     "art": "A child counting the things in each part of the rings and writing numbers on a paper.",
-     "caption": "3. Count the things in each part. Write the numbers."
+     "art": "Three strings stacked one above the other with the same six objects in different orders on each, labelled hard, bendy and rough.",
+     "caption": "3. Make the ladder again for bendy and for rough. The order changes."
     }
    ]
   },
   {
    "id": "a4",
-   "title": "The Gong in Your Ears",
+   "title": "Through Coloured Plastic",
    "mins": 20,
    "days": 1,
    "materials": [
     {
-     "item": "a piece of string about 1 metre long",
+     "item": "red, green and blue see-through plastic, from sweet wrappers, cellophane or a coloured file cover",
+     "qty": 3
+    },
+    {
+     "item": "a torch",
+     "qty": 1,
+     "buy": "b-torch"
+    },
+    {
+     "item": "a sheet of white paper or a plain wall",
      "qty": 1
     },
     {
-     "item": "a steel spoon, a steel ladle or fork, a wooden spoon and a plastic spoon",
-     "qty": 4
+     "item": "a picture with red, green and blue things, such as a flower, a leaf and a toy",
+     "qty": 1
     },
     {
-     "item": "a timer",
+     "item": "sticky tape",
      "qty": 1
     }
    ],
-   "safety": "Tap gently. Do not put anything hard in your ears. The string only touches the outside of the ear.",
+   "safety": "Do not shine the torch into anyone's eyes. Never look at the Sun through anything.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Hang spoons from string and listen. Time how long each rings."
+     "what": "Look at a picture through coloured plastic. Then shine a torch through it onto a wall."
     }
    ],
-   "record": "Write how many seconds each spoon rang for.",
-   "context": "In this activity you tie a spoon to a string and listen to it ring against your ears. You find out which materials ring and which only thud. This is another property of materials.",
+   "record": "Draw the picture as it looked through each colour. Write what you noticed.",
+   "context": "In this activity you look at the world through see-through coloured plastic. You find out that a coloured see-through material lets some colours of light through and soaks up the others.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Tie the steel spoon in the middle of the string. 2. Hold the two ends of the string, one in each hand. 3. Press the ends against the outside of your ears. 4. Lean forward and let the spoon swing and tap a table edge.",
-     "say": "Press the string ends gently against your ears. Lean forward until the spoon taps the table. Listen. What do you hear?",
-     "kid": "Hold the string ends to your ears. Lean over. Let the spoon tap the table. Listen!",
-     "context": "This is the first step of The Gong in Your Ears. A spoon hung from string makes a surprising sound when you listen through the string.",
-     "parent": "Most people hear a deep sound like a temple gong or a bell. It is far louder and longer than the plain tap you hear through the air."
+     "do": "1. Hold the red plastic up to your eye and look at the picture. 2. Note how each thing looks. 3. Do the same with green, then blue.",
+     "say": "Look at the picture through the red plastic. What happens to the red things? What happens to the green things? Now try green and blue.",
+     "kid": "Look at the picture through the red plastic. What happens to each colour? Now try green. Now blue.",
+     "context": "This is the first step of Through Coloured Plastic. A see-through coloured material, like a sweet wrapper, changes the colours you see through it.",
+     "parent": "Through red plastic, red things look bright and almost white, and green and blue things look dark. The red plastic lets red light through and soaks up most of the other colours."
     },
     {
      "id": "s2",
-     "mins": 8,
-     "do": "1. Swap the steel spoon for the wooden spoon, then the plastic spoon. 2. Tap each against the table the same way. 3. Time how long each one keeps ringing, in seconds. 4. Write the numbers down.",
-     "say": "Try the wooden spoon. Then the plastic one. Which ring the longest? Which stop at once? Let's time them.",
-     "kid": "Try each spoon. Which rings the longest? Time each one.",
-     "chart": {
-      "type": "table",
-      "title": "Made-up example: how long each spoon rang",
-      "cols": [
-       "Spoon",
-       "Seconds of ringing"
+     "mins": 6,
+     "do": "1. Dim the room. 2. Tape the red plastic over the torch. 3. Shine it on white paper. 4. Try green and blue the same way. 5. Then hold the red and the green together over the torch.",
+     "say": "White light is all the colours of the rainbow mixed. Red plastic lets only the red through. Try red, then green, then both together. What happens when both are in front of the torch?",
+     "kid": "Cover the torch with red plastic. Shine it on white paper. Try green and blue. Then use red and green together.",
+     "check": {
+      "t": "mcq",
+      "q": "You hold a red plastic and a green plastic together in front of a torch. What do you see on the wall?",
+      "options": [
+       "Almost no light, because each one blocks what the other lets through",
+       "A bright yellow light",
+       "A brighter red light"
       ],
-      "rows": [
-       [
-        "Steel spoon",
-        "5"
-       ],
-       [
-        "Plastic spoon",
-        "1"
-       ],
-       [
-        "Wooden spoon",
-        "0"
-       ]
-      ]
+      "a": 0,
+      "why": "The red plastic lets red light through and soaks up green. The green plastic lets green through and soaks up red. Together they let almost nothing through. Picking 'yellow' comes from mixing coloured paint or light, but filters work by taking colours away, not adding them."
      }
     },
     {
      "id": "s3",
-     "mins": 4,
-     "do": "Talk about why the steel spoon rings and the wooden one does not.",
-     "say": "When you tap the steel spoon, it shakes back and forth very fast. That shaking is a vibration. Steel keeps shaking for a long time, because it is stiff and springy. Wood soaks up the shaking quickly.",
-     "kid": "Steel shakes for a long time when you tap it. That makes the ring. Wood stops shaking quickly.",
-     "check": {
-      "t": "mcq",
-      "q": "Why does a brass bell ring for a long time?",
-      "options": [
-       "It is stiff and springy, so it keeps shaking",
-       "It is heavy, so it falls slowly",
-       "It is hollow, so it is full of echoes"
-      ],
-      "a": 0,
-      "why": "A bell rings because it keeps vibrating after being hit. Stiff, springy metals like brass keep vibrating for a long time. Soft or squashy materials soak up the shaking and stop. Picking 'hollow echoes' is a common idea. A solid metal spoon rings too, so hollowness is not needed."
-     }
+     "mins": 5,
+     "do": "Talk about why the same light looks red through red plastic. Ask where the other colours went.",
+     "say": "White light has all the colours in it. The red plastic lets the red through. Where did the other colours go?",
+     "kid": "The red plastic let only red through. Where did the other colours go?",
+     "ask": [
+      {
+       "q": "Where do the other colours go?",
+       "good": [
+        "The plastic soaks them up.",
+        "They turn into a tiny bit of heat in the plastic."
+       ]
+      }
+     ],
+     "parent": "Soaked-up light turns into a very small amount of heat. This is why a dark coloured cloth feels warmer in the sun than a white one."
     },
     {
      "id": "s4",
-     "mins": 4,
-     "do": "Ask: which materials in your kitchen would make the best bell? Try tapping a steel plate, a glass tumbler and a cup.",
-     "say": "If you were making a bell, which material would you choose? Try tapping a steel plate and a glass tumbler. Which sounds best?",
-     "kid": "Which would make the best bell? Try tapping a steel plate and a glass tumbler.",
-     "think": "Why do you think temple bells in India are made of bronze or brass, and not of wood?"
+     "mins": 5,
+     "do": "Ask your child to draw the picture as it looked through each colour, and to say which colour of plastic made each thing look darkest.",
+     "say": "Draw what you saw through each colour. Which thing looked darkest through the red plastic?",
+     "kid": "Draw the picture as it looked through each colour.",
+     "think": "Is red plastic transparent, translucent or opaque? Is it the same for every colour of light?"
     }
    ],
    "setup": [
     {
-     "art": "A child leaning forward with the ends of a string pressed against her ears, a steel spoon tied in the middle of the string tapping a table.",
-     "caption": "1. Tie a spoon to a string. Press the ends to your ears. Let the spoon tap the table."
+     "art": "A child holding a red sweet wrapper to her eye and looking at a picture of a red flower, a green leaf and a blue toy.",
+     "caption": "1. Look at a picture through red plastic. How does each colour look?"
     },
     {
-     "art": "Three spoons side by side: steel, wooden and plastic, each with a small timer icon.",
-     "caption": "2. Try each spoon the same way. Time how long it rings."
+     "art": "A torch covered with red plastic, shining a red circle of light onto a white wall.",
+     "caption": "2. Cover a torch with red plastic. Shine it on a wall."
     },
     {
-     "art": "A temple bell with wavy lines around it to show ringing, and a wooden spoon with no lines.",
-     "caption": "3. Steel and brass ring for a long time. Wood does not."
+     "art": "A torch with both a red and a green plastic over it, shining a very dim spot on the wall.",
+     "caption": "3. Hold two colours together. Almost no light gets through."
     }
    ]
   },
@@ -3420,252 +3303,6 @@
      "caption": "3. Same foil, two shapes. Test both."
     }
    ]
-  },
-  {
-   "id": "a7",
-   "title": "Drops on Everything",
-   "mins": 20,
-   "days": 1,
-   "materials": [
-    {
-     "item": "a teaspoon or a dropper",
-     "qty": 1
-    },
-    {
-     "item": "a cup of water",
-     "qty": 1
-    },
-    {
-     "item": "things to test: a colocasia (arbi) leaf, a piece of waxed paper or butter paper, a steel plate, a plastic bag, a cotton cloth, a paper towel, a wooden board",
-     "qty": 7
-    },
-    {
-     "item": "black pepper and a drop of dish soap",
-     "qty": 1
-    },
-    {
-     "item": "a plate",
-     "qty": 1
-    }
-   ],
-   "safety": "Wipe up spilt water.",
-   "schedule": [
-    {
-     "day": 1,
-     "mins": 20,
-     "what": "Put one drop on each surface and watch. Then try the pepper and soap trick."
-    }
-   ],
-   "record": "Draw each surface and what the drop did: beaded up, spread out, or soaked in.",
-   "context": "In this activity you put one drop of water on lots of different surfaces. You watch whether it beads up, spreads or soaks in. Then you try a trick that shows the skin on water.",
-   "flow": [
-    {
-     "id": "s1",
-     "mins": 3,
-     "do": "1. Lay out the seven surfaces. 2. Ask your child to guess for each: will the drop bead up, spread out or soak in?",
-     "say": "A drop of water can do three things. It can stay in a round bead. It can spread out flat. Or it can soak in. Guess what it does on each one.",
-     "kid": "Guess for each one. Will the drop bead up, spread out or soak in?",
-     "context": "This is the first step of Drops on Everything. You put a drop of water on different surfaces to learn about waterproof and absorbent materials."
-    },
-    {
-     "id": "s2",
-     "mins": 7,
-     "do": "1. Put one drop on each surface. 2. Look from the side. 3. Write: bead, spread or soak. 4. Look at the colocasia leaf with a magnifying glass.",
-     "say": "Put one drop on each. Look from the side. On the arbi leaf, the drop looks like a tiny silver ball. Why do you think it does that?",
-     "kid": "Put one drop on each surface. Look from the side. Is it a bead, a spread or a soak?",
-     "chart": {
-      "type": "table",
-      "title": "Made-up example: what the drop did",
-      "cols": [
-       "Surface",
-       "What the drop did"
-      ],
-      "rows": [
-       [
-        "Colocasia leaf",
-        "bead"
-       ],
-       [
-        "Plastic bag",
-        "bead"
-       ],
-       [
-        "Steel plate",
-        "spread a little"
-       ],
-       [
-        "Paper towel",
-        "soak in"
-       ]
-      ]
-     },
-     "parent": "Colocasia leaves are covered in tiny wax bumps. Water cannot spread on them, so it rolls into balls and carries dust away. Lotus leaves do the same."
-    },
-    {
-     "id": "s3",
-     "mins": 6,
-     "do": "1. Fill a plate with water. 2. Shake a pinch of pepper on top so it floats. 3. Dip a finger in dish soap. 4. Touch the water in the middle of the plate.",
-     "say": "Pepper floats on the water. Now touch the middle with a soapy finger. What happens?",
-     "kid": "Sprinkle pepper on water. Touch the middle with a soapy finger. Watch!",
-     "parent": "The pepper rushes to the edge. Water's surface acts like a stretchy skin. Soap weakens the skin where it touches, and the strong skin around pulls the pepper away. Agnes Pockels studied this kind of thing in her kitchen in the 1880s.",
-     "check": {
-      "t": "mcq",
-      "q": "A drop of water beads up on a plastic bag. What does that show?",
-      "options": [
-       "The plastic is waterproof",
-       "The plastic is absorbent",
-       "The plastic is heavy"
-      ],
-      "a": 0,
-      "why": "A bead means the water cannot get in or spread out. That is waterproof. Picking 'absorbent' is the opposite, because an absorbent material would soak the drop up. Heavy has nothing to do with water."
-     }
-    },
-    {
-     "id": "s4",
-     "mins": 4,
-     "do": "Sort the surfaces into three groups: bead, spread, soak. Ask which is useful for a raincoat, which for a towel, which for a plate.",
-     "say": "Sort the surfaces into bead, spread and soak. Which would you choose for a raincoat? A towel?",
-     "kid": "Sort the surfaces into three groups. Which is best for a raincoat? Which for a towel?",
-     "think": "Why do you think plants have waxy leaves? What would happen if a leaf soaked up all the rain?"
-    }
-   ],
-   "setup": [
-    {
-     "art": "Seven different surfaces laid out in a row with a teaspoon of water and a child leaning over, ready to drop.",
-     "caption": "1. Lay out seven surfaces. Guess what a drop will do on each."
-    },
-    {
-     "art": "A round drop of water beading up on a colocasia leaf, seen from the side, and a flat spread on a steel plate.",
-     "caption": "2. Put one drop on each. Look from the side."
-    },
-    {
-     "art": "Pepper floating on a plate of water and a soapy finger touching the middle, the pepper rushing to the edge.",
-     "caption": "3. Sprinkle pepper. Touch the water with a soapy finger."
-    }
-   ]
-  },
-  {
-   "id": "a8",
-   "title": "Stretch and Snap",
-   "mins": 20,
-   "days": 1,
-   "materials": [
-    {
-     "item": "a thick rubber band, a hair tie, a strip of plastic bag and a piece of cotton thread, all the same starting length",
-     "qty": 4
-    },
-    {
-     "item": "a paper cup, a paper clip and sticky tape",
-     "qty": 1
-    },
-    {
-     "item": "10 marbles",
-     "qty": 10,
-     "buy": "b-marbles"
-    },
-    {
-     "item": "a 30 centimetre ruler",
-     "qty": 1,
-     "buy": "b-ruler"
-    }
-   ],
-   "safety": "Do not stretch a rubber band near anyone's face or eyes. Keep the stretch small so it cannot snap back at you.",
-   "schedule": [
-    {
-     "day": 1,
-     "mins": 20,
-     "what": "Hang weights from four things and measure how much each stretches. Then try the warm rubber band trick."
-    }
-   ],
-   "record": "Write the starting length and the stretched length for each thing, and subtract.",
-   "context": "In this activity you hang the same weight from a rubber band, a hair tie, a plastic strip and a thread, and measure how much each stretches. You find out that stretchy and strong are different.",
-   "flow": [
-    {
-     "id": "s1",
-     "mins": 4,
-     "do": "1. Tape the top of the first thing to the underside of a table edge. 2. Measure its length with a ruler. 3. Write it down.",
-     "say": "Hang the rubber band from the table edge. Measure how long it is now, with nothing on it. Write the number.",
-     "kid": "Tape the rubber band to the table edge. Measure its length. Write it down.",
-     "context": "This is the first step of Stretch and Snap. You measure how much different materials stretch under the same weight. Stretchy means it gets longer when pulled and springs back."
-    },
-    {
-     "id": "s2",
-     "mins": 9,
-     "do": "1. Hang the paper cup from the bottom. 2. Add 10 marbles gently. 3. Measure the new length. 4. Subtract the starting length. That is the stretch. 5. Repeat with each other thing.",
-     "say": "Add ten marbles. Measure again. The stretch is the new length minus the old length. Do the same for each thing.",
-     "kid": "Hang the cup. Add ten marbles. Measure again. The stretch is the new length minus the old.",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example results: how much longer each one got with 10 marbles",
-      "x": "Thing",
-      "y": "Stretch (cm)",
-      "data": [
-       {
-        "label": "Rubber band",
-        "value": 6,
-        "emoji": "🪢"
-       },
-       {
-        "label": "Hair tie",
-        "value": 5,
-        "emoji": "🎀"
-       },
-       {
-        "label": "Plastic strip",
-        "value": 1,
-        "emoji": "🛍️"
-       },
-       {
-        "label": "Cotton thread",
-        "value": 0,
-        "emoji": "🧵"
-       }
-      ],
-      "note": "These numbers are made up. Your numbers will be different."
-     }
-    },
-    {
-     "id": "s3",
-     "mins": 4,
-     "do": "Look at the results. Ask: which stretched the most? Which would you trust to hold a heavy bag?",
-     "say": "The thread hardly stretched. Does that mean it is weak? Look at the numbers.",
-     "kid": "Which stretched the most? Which would hold a heavy bag?",
-     "check": {
-      "t": "mcq",
-      "q": "A rubber band stretched a lot. A cotton thread stretched very little. What can you say?",
-      "options": [
-       "The rubber band is stretchier. That does not tell us which is stronger",
-       "The rubber band is stronger",
-       "The thread is weaker"
-      ],
-      "a": 0,
-      "why": "Stretchy means gets longer when pulled. Strong means holds a big pull without breaking. They are different. A thin thread can hold a lot of weight and hardly stretch. Picking 'rubber band is stronger' mixes up the two properties."
-     }
-    },
-    {
-     "id": "s4",
-     "mins": 3,
-     "do": "Hold a thick rubber band in both hands and stretch it quickly. Touch it to your lip. Then let it go quickly and touch it to your lip again.",
-     "say": "Stretch the band fast and touch it to your lip. Now let it relax and touch it to your lip again. What do you feel?",
-     "kid": "Stretch the band fast. Touch it to your lip. Let it go. Touch again. What do you feel?",
-     "adult": true,
-     "parent": "The band feels slightly warm when stretched and slightly cool after it relaxes. The long chains of atoms in the rubber uncoil when pulled, and this changes how much the atoms jiggle, which changes the heat. This was noticed by the English scientist John Gough in 1805. Keep the stretch small and your face away from the line of the band."
-    }
-   ],
-   "setup": [
-    {
-     "art": "A rubber band taped under a table edge with a paper cup hanging from its bottom and a ruler held beside it.",
-     "caption": "1. Hang the band from a table. Measure its length."
-    },
-    {
-     "art": "The same rubber band stretched long by ten marbles in the cup, with the ruler showing the new length.",
-     "caption": "2. Add ten marbles. Measure again. The stretch is the difference."
-    },
-    {
-     "art": "A child holding a rubber band to her lip with a surprised look.",
-     "caption": "3. Stretch the band fast and touch it to your lip. It feels warm."
-    }
-   ]
   }
  ],
  "projects": [
@@ -3676,7 +3313,7 @@
    "days": 3,
    "materials": [
     {
-     "item": "your results tables and bar charts from the experiments",
+     "item": "your results tables and bar charts from the experiments and the Property Ladder",
      "qty": 1
     },
     {
@@ -3716,8 +3353,8 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Look at your tables from the scratch, droop, strength, thirsty squares, ice race and layers tests. 2. Choose 8 materials that appear in several tests. 3. Write them in a big table.",
-     "say": "You have done many tests. Let's collect the numbers in one big table. One row for each material, one column for each test.",
+     "do": "1. Look at your results from the Property Ladder (hard), the droop test (bendy), the layers test (see-through), the vanishing drop test (thirsty) and the dry strip test (strong). 2. Choose 8 materials that appear in several tests. 3. Write their numbers in one big table, with a row for each material.",
+     "say": "You have done many tests. Let's collect the numbers in one big table. One row for each material, one column for each property.",
      "kid": "Look at your results. Choose 8 materials. Put their numbers in one big table.",
      "context": "This is the first step of the Property Trumps project. You gather all your measurements into one table, one row for each material.",
      "parent": "Not every material appears in every test. That is fine. This is the moment to fill the gaps by testing the missing ones, using the same method as before."
@@ -3726,27 +3363,27 @@
      "id": "s2",
      "mins": 20,
      "do": "Test any material that is missing a number. Use exactly the same method as before.",
-     "say": "Some cells are empty. Let's fill them in with the same test, done the same way.",
+     "say": "Some boxes are empty. Let's fill them in with the same test, done the same way.",
      "kid": "Fill the empty boxes by doing the same tests again.",
      "adult": true,
-     "parent": "If a test cannot be done, such as ice melting on a material you do not have, leave the box empty and give that card a 'no data' mark. Honest gaps are better than made-up numbers."
+     "parent": "If a test cannot be done, leave the box empty and give that card a 'no data' mark. Honest gaps are better than made-up numbers."
     },
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. For each test, find the biggest number. 2. Give it a score of 5. 3. For every other material, work out its score: multiply its number by 5, then divide by the biggest number. 4. Round to the nearest whole number.",
-     "say": "The best one in each test gets a 5. For the others, multiply by five and divide by the biggest number. So 5 marbles when the biggest is 22 gives 5 times 5 divided by 22, which is about 1.",
+     "do": "1. For each property, find the biggest number. 2. Give it a score of 5. 3. For every other material, work out its score: multiply its number by 5, then divide by the biggest number. 4. Round to the nearest whole number. 5. For thirsty, a short time is good, so use the shortest time as the 5 and divide it by each time.",
+     "say": "The best one in each test gets a 5. For the others, multiply by five and divide by the biggest. So 4 marbles when the biggest is 20 gives 4 times 5, which is 20, divided by 20, which is 1.",
      "kid": "The biggest number gets 5. For the others, multiply by 5. Then divide by the biggest. Round it.",
      "check": {
       "t": "mcq",
-      "q": "In the strength test the best strip held 22 marbles. Another held 11. About what score should the second get out of 5?",
+      "q": "In the droop test the bendiest strip dropped 10 centimetres. Another dropped 5. About what bendy score out of 5 should the second get?",
       "options": [
-       "2 or 3, because 11 is about half of 22",
-       "5, because it held marbles too",
-       "11, the number of marbles"
+       "2 or 3, because 5 is half of 10",
+       "5, because it dropped too",
+       "5, the number of centimetres"
       ],
       "a": 0,
-      "why": "11 is half of 22, and half of 5 is 2 and a half, so the score is 2 or 3. Picking 5 gives everything a top score. Picking 11 forgets that scores only go up to 5. Making scores like this means every test counts the same."
+      "why": "5 is half of 10, and half of 5 is 2 and a half, so the score is 2 or 3. Picking 5 gives everything a top score. Making scores this way means every test counts the same, with the best one always at 5."
      }
     },
     {
@@ -3774,7 +3411,7 @@
    ],
    "setup": [
     {
-     "art": "A big table drawn on paper with eight materials down the side and the names of six tests across the top, with numbers filled in.",
+     "art": "A big table drawn on paper with eight materials down the side and five properties across the top, with numbers filled in.",
      "caption": "1. Gather your numbers into one big table."
     },
     {
@@ -4047,7 +3684,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the strength test, newspaper held 5 marbles and cloth held 15. How many times as many marbles did the cloth hold?",
+   "p": "In the dry or damp test, a dry newspaper strip held 5 marbles and a dry cloth strip held 15. How many times as many marbles did the cloth hold?",
    "opts": [
     "3 times",
     "10 times",
@@ -4101,30 +3738,31 @@
   },
   {
    "t": "mcq",
-   "p": "Which word means springs back after being stretched?",
+   "p": "A paper clip stays bent. A plastic ruler springs back. A dry spaghetti stick snaps. Which one is brittle?",
    "opts": [
-    "Elastic",
-    "Brittle",
-    "Opaque",
-    "Rigid"
+    "The spaghetti",
+    "The paper clip",
+    "The ruler",
+    "All three"
    ],
    "a": 0,
    "outcome": 0,
-   "why": "Elastic things, like rubber bands, spring back. Brittle things snap. Opaque means no light passes. Rigid means stiff and not bendy."
+   "how": "e1",
+   "why": "Brittle means it snaps or shatters instead of bending. The spaghetti snaps. The paper clip is bendy but stays bent, and the ruler springs back, which is called elastic. Picking the paper clip mixes up 'bends and stays bent' with 'breaks'."
   },
   {
    "t": "mcq",
-   "p": "Ice melted fastest on the steel plate and slowest on folded wool. What does this show about steel?",
+   "p": "A drop on paper towel vanished in 2 seconds. A drop on a plastic bag was still there after 2 minutes. What does this show about the bag?",
    "opts": [
-    "It carries heat quickly",
-    "It is colder than wool",
-    "It makes heat",
-    "It is shinier"
+    "It is waterproof",
+    "It is very absorbent",
+    "It is very heavy",
+    "The test did not work"
    ],
    "a": 0,
    "outcome": 3,
-   "how": "e5",
-   "why": "Steel is a conductor of heat. It let room heat flow into the ice quickly. Wool traps air and carries heat slowly. Picking 'colder' is the common idea, but if it were colder the ice would last longer."
+   "how": "e4",
+   "why": "A drop that stays on top means the water cannot get in. That is waterproof. Picking 'very absorbent' reads the result backwards. Picking 'the test did not work' is a common reaction to a result that is a zero, but a drop that stays is a real answer."
   },
   {
    "t": "mcq",
@@ -4434,93 +4072,60 @@
    "why_maths": "Scientists do not just say 'the paper is bendier'. They ask 'how many times bendier?' Dividing one number by the other gives the answer."
   },
   {
-   "problem": "In the scratch test, the candle wax scratched 0 things, the soap 1, the chalk 2, the fingernail 3 and the steel nail 4. Draw a bar chart. Then say which is the second hardest.",
-   "answer": "The fingernail is the second hardest. Here is the bar chart.",
-   "explain": "Draw one bar for each, as tall as its score. Put the scores in order, from tallest to shortest: 4, 3, 2, 1, 0. The tallest bar is the steel nail. The next tallest is the fingernail, with 3. So the fingernail is second hardest.",
+   "problem": "In the vanishing drop test, one drop took 2 seconds on paper towel, 6 on cotton cloth, 25 on newspaper and 70 on printer paper. Draw a bar chart. Then say which surface is the third most absorbent.",
+   "answer": "Newspaper is the third most absorbent. Here is the bar chart.",
+   "explain": "Draw one bar for each, as tall as its number of seconds. A shorter time means a more absorbent surface. Put the times in order, from shortest to longest: 2, 6, 25, 70. The shortest is the paper towel. The next is the cotton. The third is the newspaper, at 25 seconds.",
    "math_unit": "math.data.bar-charts.L3",
-   "context": "In the scratch test, you try to scratch each thing with each of the others. Each thing's score is how many others it scratched. A higher score means a harder thing.",
+   "context": "In the vanishing drop test, you put one drop of water on a surface and time how long it takes to vanish. A short time means the surface soaks up water fast.",
    "answer_chart": {
     "type": "bar",
-    "title": "Scores from the scratch test",
-    "x": "Thing",
-    "y": "Number of other things it scratched",
+    "title": "Seconds for one drop to vanish",
+    "x": "Surface",
+    "y": "Seconds until the drop vanished",
     "data": [
      {
-      "label": "Candle wax",
-      "value": 0,
-      "emoji": "🕯️"
-     },
-     {
-      "label": "Soap",
-      "value": 1,
-      "emoji": "🧼"
-     },
-     {
-      "label": "Chalk",
+      "label": "Paper towel",
       "value": 2,
-      "emoji": "🖍️"
+      "emoji": "🧻"
      },
      {
-      "label": "Fingernail",
-      "value": 3,
-      "emoji": "💅"
-     },
-     {
-      "label": "Steel nail",
-      "value": 4,
-      "emoji": "🔩"
-     }
-    ],
-    "note": "These numbers are made up, to show how the problem works."
-   },
-   "how": "e1",
-   "why_maths": "A bar chart turns a list of scores into a picture. The tallest bar shows the winner at a glance, and the order shows the ladder."
-  },
-  {
-   "problem": "In the strength test, a cloth strip held 14 marbles. Suppose each marble weighs 5 grams. How many grams did the cloth hold?",
-   "answer": "70 grams.",
-   "explain": "Each marble weighs 5 grams, and there were 14 of them. 14 times 5 is 70. You can check: 10 marbles are 50 grams, and 4 more marbles are 20 grams. 50 + 20 = 70.",
-   "math_unit": "math.multiplication.multiplication-facts.L3",
-   "context": "The strength test hangs a cup from a strip of material and adds marbles until the strip tears. The number of marbles shows how strong the strip is.",
-   "how": "e3",
-   "why_maths": "Counting marbles is a start. Changing the count into grams, a unit everyone shares, lets other people compare their results with ours."
-  },
-  {
-   "problem": "In the ice race, the ice melted in 14 minutes on the steel plate and in 38 minutes on the folded wool. How many more minutes did it take on the wool?",
-   "answer": "24 minutes.",
-   "explain": "The wool took 38 minutes and the steel took 14. 38 take away 14 is 24. You can check: 14 + 24 = 38.",
-   "math_unit": "math.time.duration.L3",
-   "context": "The ice race puts identical ice cubes on different materials and times how long each takes to melt. A longer time means the material carries heat more slowly.",
-   "chart": {
-    "type": "bar",
-    "title": "Made-up example results: how many minutes each ice cube took to melt",
-    "x": "What the ice sat on",
-    "y": "Minutes to melt",
-    "data": [
-     {
-      "label": "Steel plate",
-      "value": 14,
-      "emoji": "🍽️"
-     },
-     {
-      "label": "Folded wool",
-      "value": 38,
+      "label": "Cotton cloth",
+      "value": 6,
       "emoji": "🧣"
+     },
+     {
+      "label": "Newspaper",
+      "value": 25,
+      "emoji": "📰"
+     },
+     {
+      "label": "Printer paper",
+      "value": 70,
+      "emoji": "📄"
      }
     ],
     "note": "These numbers are made up, to show how the problem works."
    },
-   "how": "e5",
-   "why_maths": "Taking one time from another tells us how much longer the wool kept the ice. That difference is the evidence for the claim that wool is a better insulator."
+   "how": "e4",
+   "why_maths": "A bar chart turns a list of times into a picture. The shortest bar shows the thirstiest surface at a glance, and the order shows the ladder."
   },
   {
-   "problem": "Aarav sorted 12 things into two rings. 7 things were hard. 5 things were shiny. 3 things were both hard and shiny. How many things were neither?",
-   "answer": "3 things.",
-   "explain": "The 3 things that are both are counted once in the hard group and once in the shiny group. So the number of things that are hard or shiny is 7 + 5 take away 3, which is 9. 12 take away 9 leaves 3 things that are neither.",
-   "math_unit": "math.logic.sets-and-venn.L2",
-   "context": "In the two-ring sort, you put things into a ring for HARD and a ring for SHINY. The rings overlap in the middle for things that are both.",
-   "how": "a3",
-   "why_maths": "When groups overlap, we must be careful not to count the middle twice. Two overlapping rings are the picture that makes this clear."
+   "problem": "In the dry or damp test, a dry paper strip held 12 marbles. When it was damp, it held half as many. How many marbles did the damp strip hold?",
+   "answer": "6 marbles.",
+   "explain": "Half of 12 is 6. You can check: 6 + 6 = 12. So the damp strip held 6 marbles, which is 6 fewer than the dry strip.",
+   "math_unit": "math.fractions.halves-and-quarters.L3",
+   "context": "In the dry or damp test, you hang a cup from a strip and add marbles until it tears. You do it with a dry strip and a damp strip, to see if water changes how strong the paper is.",
+   "how": "e3",
+   "why_maths": "Saying 'half as strong' tells us how much water changed the paper. Finding a half is the maths that turns 'weaker' into a number."
+  },
+  {
+   "problem": "Aarav tested 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden?",
+   "answer": "5 sank, and 4 floaters were not wooden.",
+   "explain": "12 things in all, and 7 floated. 12 take away 7 leaves 5 that sank. Of the 7 floaters, 3 were wooden. 7 take away 3 leaves 4 floaters that were not wooden. You can check: 7 + 5 = 12, and 3 + 4 = 7.",
+   "math_unit": "math.data.sorting-and-tallies.L3",
+   "context": "In the Kitchen Float Lab, you guess whether things will float or sink in water, and then test them. You count how many floated and how many sank.",
+   "how": "a6",
+   "why_maths": "Counting how many things fall in each group is how a scientist spots a pattern. Here it shows that wood is not the only thing that floats."
   },
   {
    "problem": "Look at the ruler in the picture. It shows how far a paper strip dropped in the droop test. Each small mark is one centimetre. What is the reading?",
@@ -4540,6 +4145,15 @@
    },
    "how": "e2",
    "why_maths": "A measuring tool only helps if you can read it. Reading the mark where the tip touches turns the picture into a number you can compare."
+  },
+  {
+   "problem": "In the Property Trumps project, the bendiest strip dropped 10 centimetres. The paper strip dropped 8 centimetres. The best one gets a score of 5. What bendy score out of 5 does the paper get?",
+   "answer": "4.",
+   "explain": "Multiply the paper's drop by 5: 8 times 5 is 40. Then divide by the biggest drop: 40 divided by 10 is 4. So the paper scores 4 out of 5. You can check: 10 times 5 ÷ 10 is 5 for the best strip.",
+   "math_unit": "math.division.division-facts.L3",
+   "context": "In the Property Trumps project, you turn your measurements into scores from 0 to 5, so that different tests can be compared on the same card.",
+   "how": "p1",
+   "why_maths": "A drop in centimetres and a time in seconds cannot be compared directly. Turning each into a score out of 5 puts them on one scale."
   }
  ],
  "song": {
@@ -4552,7 +4166,7 @@
    "title": "PhET Energy Forms and Changes",
    "url": "https://phet.colorado.edu/en/simulations/energy-forms-and-changes",
    "kind": "simulation",
-   "why": "A free online game. Heat blocks of iron, brick and water, and watch heat flow between them at different speeds. A good follow-up to the Ice Race."
+   "why": "A free online game. Heat blocks of iron, brick and water, and watch heat flow between them at different speeds. A good follow-up to the feely bag test of warm and cold things."
   },
   {
    "title": "PhET Density",
@@ -4625,42 +4239,40 @@
    "id": "b-ruler",
    "item": "30 centimetre ruler, plastic or steel",
    "kind": "tool",
-   "why": "Measures the drop in the droop test and the stretch in Stretch and Snap.",
+   "why": "Measures the drop in the droop test.",
    "url": "https://www.amazon.in/s?k=30+cm+ruler",
    "used_in": [
-    "e2",
-    "a8"
+    "e2"
    ]
   },
   {
    "id": "b-marbles",
    "item": "Glass marbles, a bag of 50",
    "kind": "material",
-   "why": "Used as small weights in the strength test and in Stretch and Snap.",
+   "why": "Used as small weights in the dry or damp strength test.",
    "url": "https://www.amazon.in/s?k=glass+marbles+kids",
    "used_in": [
-    "e3",
-    "a8"
+    "e3"
    ]
   },
   {
    "id": "b-lens",
    "item": "Magnifying glass or hand lens",
    "kind": "tool",
-   "why": "Helps you see scratches in the Scratch Ladder and the tiny gaps in a sponge.",
+   "why": "Helps you see scratches and the rough or smooth surface of things in the Property Ladder.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
    "used_in": [
-    "e1"
+    "a3"
    ]
   },
   {
    "id": "b-thermo",
    "item": "Simple room thermometer",
    "kind": "tool",
-   "why": "Shows that a steel plate and a wooden board are at the same temperature, even though one feels colder. Used in the Ice Race.",
+   "why": "Shows that a steel plate and a wooden board are at the same temperature, even though one feels colder. Used in the Feely Bag Detective.",
    "url": "https://www.amazon.in/s?k=room+thermometer",
    "used_in": [
-    "e5"
+    "a1"
    ]
   },
   {
@@ -4670,7 +4282,8 @@
    "why": "Used to sort materials as transparent, translucent or opaque, and in the Privacy Window challenge.",
    "url": "https://www.amazon.in/s?k=led+torch+small",
    "used_in": [
-    "e6",
+    "e5",
+    "a4",
     "c2"
    ]
   },
@@ -4681,9 +4294,9 @@
    "why": "A real set of minerals from talc to diamond-like corundum, to scratch against each other and place on the ladder.",
    "url": "https://www.amazon.in/s?k=mohs+hardness+test+kit",
    "used_in": [
-    "e1"
+    "a3"
    ],
-   "plan": "If bought, add a 10-minute mineral scratch test after the Scratch Ladder."
+   "plan": "If bought, add a 10-minute mineral scratch test after the Property Ladder."
   },
   {
    "id": "b-stuff",
@@ -4758,14 +4371,88 @@
    "a": "The Mohs scale."
   }
  ],
+ "roots": {
+  "context": "We have been finding out what materials are like. Now we ask what this tells us about ourselves and the world.",
+  "three": {
+   "who_am_i": "You are a bit like the thread in the story. You are not the same in every air. You show different strengths with different people.",
+   "what_is_life": "Life makes its own materials. Your body grows bone, hair and the clear lens of your eye, and mends them.",
+   "what_is_this_world": "A property is a meeting. Steel is cold when it meets your hand. Cotton is strong when it meets damp air."
+  },
+  "thread": "DeepKids believes that behind the many there is one. A diamond and a pencil lead look like opposites. One is clear and hard, and the other is black and soft. Yet both are only carbon, the same atoms in a different pattern. Hard, soft, clear and strong are not extra things stuck onto the atoms. They are how the atoms look when they meet our hands, our eyes and the air. So the many properties of the world are one stuff showing up in many ways. This is what DeepKids means by the One becoming the many.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.13",
+    "teaching": "Uddalaka gives his son Shvetaketu a lump of salt and tells him to put it in water. In the morning the salt cannot be seen. But when Shvetaketu tastes the water from the top, the middle or the bottom, it is salty everywhere. Uddalaka says the finest part of everything is like this: unseen, yet everywhere.",
+    "link": "You cannot see the atoms in a steel spoon. But every property of the steel, its shine, its cold touch and its hardness, comes from them. The unseen is in everything you touch."
+   },
+   {
+    "source": "Nagarjuna, Mulamadhyamakakarika, chapter 24, verse 18",
+    "teaching": "Nagarjuna, a Buddhist teacher of about the 2nd century CE, taught that nothing exists all alone. Everything is what it is because of other things.",
+    "link": "Hard means harder than something else. Cold means taking heat from a warm hand. The thread is strong in damp air. Properties show up in meetings between things."
+   },
+   {
+    "source": "Thich Nhat Hanh, The Heart of Understanding, on interbeing",
+    "teaching": "Look deeply at a sheet of paper and you see a cloud in it. Without the cloud there would be no rain, no tree and no paper. Thich Nhat Hanh called this interbeing.",
+    "link": "Look deeply at a cotton thread and you see the river mist, the farmer, the soil and the spinner's hands. A material is a meeting of many things."
+   }
+  ],
+  "science": [
+   {
+    "text": "Every property of a material comes from the atoms it has and how they are joined. Diamond and pencil lead are both only carbon. And almost every atom in your body, apart from hydrogen, was made inside a star. Margaret Burbidge, with Geoffrey Burbidge, William Fowler and Fred Hoyle, showed how in 1957.",
+    "status": "settled"
+   },
+   {
+    "text": "Philosophers still argue whether a stone is hard when nobody is testing it. Some say it has the property all by itself. Others say it only has the power to show it when it meets something. Nobody has settled this.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Madhva, a philosopher of the Dvaita school in India about 700 years ago, and most working scientists",
+   "view": "The differences between things are real and lasting. A stone is hard in itself, even in a dark cupboard. A thread is a thread, and the air is the air. In this view, the world is many real things and not one thing wearing many shapes."
+  },
+  "practice": {
+   "title": "Meeting the spoon",
+   "mins": 3,
+   "say": "1. Close your eyes and hold out your hand. 2. I will put a steel spoon in your palm. Notice how cold it feels. 3. Now keep your hand still for one whole minute. 4. Notice what happens to the cold. The spoon slowly warms, and your palm cools a tiny bit. 5. Open your eyes. The cold was never only in the spoon, and never only in your hand. It was in the meeting. Where is the cold now?",
+   "kid": "Close your eyes. Hold out your hand. A grown-up puts a steel spoon in it. Feel how cold it is. Keep still for one minute. What happens to the cold? Open your eyes. Where did the cold go?"
+  },
+  "ask": [
+   "Is the spoon cold, or is the meeting cold?",
+   "If you were in a different air, with different people, would you be a different you?",
+   "Is anything strong, or hard, or kind, all by itself?"
+  ],
+  "art": "A child sitting with eyes closed holding a steel spoon in an open palm, and behind her a soft picture of river mist turning into a cotton thread turning into a spinner's hands."
+ },
+ "see_also": [
+  {
+   "id": "sci.materials.what-is-it-made-of.L3",
+   "why": "Where materials come from, and which are natural and which are made by people."
+  },
+  {
+   "id": "sci.materials.using-materials.L3",
+   "why": "How properties decide which material is right for a job, with the hot spoon race and the matka."
+  },
+  {
+   "id": "sci.materials.sorting-materials.L3",
+   "why": "Sorting materials by more than one rule, the full Scratch Ladder test, Venn diagrams and branching keys."
+  },
+  {
+   "id": "sci.materials.testing-materials.L3",
+   "why": "How to run a fair test on a material, with tables, repeats and the story of Agnes Pockels."
+  },
+  {
+   "id": "sci.materials.magnetic-materials.L3",
+   "why": "One more property: which materials a magnet picks, and why not all metals are magnetic."
+  }
+ ],
  "plan": {
   "start_options": [
    "story",
    "a1",
    "e1",
-   "e5",
+   "e4",
    "g1",
-   "a7",
+   "a4",
    "big_questions",
    "cards"
   ],
@@ -4778,25 +4465,22 @@
    "a2",
    "explanations",
    "g1",
-   "e1",
    "a3",
+   "e1",
    "e2",
-   "e3",
    "videos",
    "ws-core",
-   "e5",
-   "a4",
+   "e3",
    "e4",
-   "a7",
-   "e6",
+   "e5",
    "a5",
+   "a4",
    "agreed",
    "challenging",
-   "g2",
    "a6",
-   "a8",
-   "big_questions",
+   "g2",
    "ws-stretch",
+   "big_questions",
    "p1",
    "c1",
    "c2",
@@ -4812,23 +4496,22 @@
    "e3",
    "e4",
    "e5",
-   "e6",
    "a1",
-   "a3",
-   "a7"
+   "a3"
   ]
  },
  "sources": {
   "founder": [
-   "DeepKids HomeSchooling Track: Concept activities, Materials & sound (knock wood, metal and cloth; the Gong in Your Ears and Knock activity ideas)",
    "DeepKids HomeSchooling Track: Concept activities, Transparent, Translucent, Opaque (layers of tissue paper, dance with clear, frosted and solid props: Layers to Darkness and Dance of the Three Veils)",
-   "DeepKids HomeSchooling Track: Concept activities, Materials Under Heat (metal, wood and plastic spoons in hot water; hot drinks in different cups: the Ice Race)",
+   "DeepKids HomeSchooling Track: Concept activities, Materials Under Heat (metal, wood and plastic spoons; hot drinks in different cups: the feely bag cold test and the heat card)",
    "DeepKids HomeSchooling Track: Physics and Physics Dump (Heat Flow and Heat transfer: wrap bottles in different materials to test insulation; compressibility, squeeze sponge vs metal)",
-   "DeepKids HomeSchooling Track: Physics (Matter and its phases: Stretchiness and strength, rubber band vs thread; Kitchen Float Lab and Density play; Elasticity, Rubber Band Orchestra; Waterproof vs absorbent; Float vs sink)",
+   "DeepKids HomeSchooling Track: Physics (Matter and its phases: Stretchiness and strength, rubber band vs thread, which grew into the bend test; Kitchen Float Lab and Density play; Waterproof vs absorbent, which grew into the vanishing drop; Float vs sink)",
    "DeepKids V0.1: Science journal pages p64 and p70 to p74 (Syrup Race; SuperHero Suit Design: atmosphere, pressure, temperature, materials)",
-   "SCI Cards, scientists for this topic: Agnes Pockels (surface tension in her kitchen), C.V. Raman, Robert Hooke (elasticity)",
-   "Combined lesson sci-C3-materials-and-their-properties (Layers to Darkness, Material Trumps card game and its scores, glass and graphene voices), improved here with measured scores and a project",
-   "Combined lessons sci-C1-materials-and-their-properties (Feely bag, torch test, bend and stretch) and sci-C2-materials-and-their-properties (thirsty test, strongest bag, texture and sound), sci-C4-matter-and-particles (atoms and spaces)"
+   "SCI Cards, scientists for this topic: Agnes Pockels (surface tension in her kitchen)",
+   "Philosophy underlying the concepts, from the founder's sheets: Transparent, Translucent, Opaque ('clarity and obscurity both shape understanding') and Materials Under Heat ('heat reveals hidden properties'), which feed the Roots card",
+   "Combined lesson sci-C3-materials-and-their-properties (Layers to Darkness, the Material Trumps card game and its scores, the idea of the hanging cup of marbles), improved here with measured scores and a project; the story and voices are not reused",
+   "Combined lessons sci-C1-materials-and-their-properties (Feely bag, torch test, bend and stretch) and sci-C2-materials-and-their-properties (thirsty test, strongest bag), sci-C4-matter-and-particles (atoms and spaces)",
+   "Board packs: NCERT Class 3 Ch 10 This World of Things (properties by touch, sound, bending, water; coloured see-through plastic) and Cambridge Stage 3 units 5.1 and 5.2 (property words, comparing and sorting materials)"
   ],
   "science": [
    "Mohs, F., scale of mineral hardness, 1812 (published in his Grundriss der Mineralogie, 1822)",
@@ -4842,6 +4525,8 @@
    "Merchant, A. et al., 'Scaling deep learning for materials discovery', Nature 2023 (GNoME), and Cheetham, A. and Seshadri, R., Chemistry of Materials 2024 (a critical comment)",
    "Anderson, P.W., 'Through the glass lightly', Science 1995",
    "Pockels, A., 'Surface tension', Nature 1891",
+   "Audoly, B. and Neukirch, S., 'Fragmentation of rods by cascading cracks: why spaghetti does not break in half', Physical Review Letters 2005",
+   "Burbidge, E.M., Burbidge, G.R., Fowler, W.A. and Hoyle, F., 'Synthesis of the elements in stars', Reviews of Modern Physics 1957",
    "Barthlott, W. and Neinhuis, C., 'Purity of the sacred lotus, or escape from contamination in biological surfaces', Planta 1997",
    "Morton, W.E. and Hearle, J.W.S., Physical Properties of Textile Fibres (Textile Institute) (cotton is stronger when wet)",
    "Ashmore, S., Muslin (V&A Publishing, 2012)",
@@ -4850,52 +4535,5 @@
    "Wei, L., Kuo, P.K., Thomas, R.L., Anthony, T.R. and Banholzer, W.F., on heat conduction in diamond, Physical Review Letters 1993",
    "ISRO, Chandrayaan-3 ChaSTE first observations of Moon soil temperature, August 2023"
   ]
- },
- "roots": {
-  "context": "We have been learning about properties, the words for what a material is like. Now we ask what properties tell us about ourselves and the world.",
-  "three": {
-   "who_am_i": "Your bones are hard and your skin is bendy. You have many properties too.",
-   "what_is_life": "Bone, wood and shell are materials that living things grow and mend.",
-   "what_is_this_world": "A diamond and pencil lead are both pure carbon. Same atoms, different ways."
-  },
-  "thread": "A diamond is one of the hardest things there is. Pencil lead is one of the softest. Both are made of exactly the same carbon atoms, only joined in different ways. DeepKids believes this is the One showing up as the many. The same stuff, arranged differently, becomes hard or soft, clear or shiny. Properties are how one world shows its many faces.",
-  "teachings": [
-   {
-    "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
-    "teaching": "Nagarjuna taught that nothing exists all by itself. Everything is what it is because of other things.",
-    "link": "Glass is hard compared to chalk, and soft compared to diamond. Hardness is not inside the glass alone. It shows up when one thing meets another."
-   },
-   {
-    "source": "The Jain teaching of anekantavada, many-sidedness",
-    "teaching": "Jain thinkers taught that every thing has many sides. Each view sees some of the truth, but never all of it.",
-    "link": "A thread can be weak for one job and right for another. One material has many properties, and the job decides which one matters."
-   }
-  ],
-  "science": [
-   {
-    "text": "A material's properties come from its atoms and how they are joined. Diamond and graphite, the black part of a pencil, are both pure carbon.",
-    "status": "settled"
-   },
-   {
-    "text": "Glass is a solid whose atoms are jumbled, like a frozen liquid. Exactly how a liquid turns into glass is still argued about.",
-    "status": "debated"
-   }
-  ],
-  "other_view": {
-   "who": "Many materials scientists",
-   "view": "Many scientists say a property is fully explained by atoms and the way they join. Nothing more is needed. On this view, the One is a beautiful idea, but not part of the explanation."
-  },
-  "practice": {
-   "title": "Listen to the materials",
-   "mins": 3,
-   "say": "Let's put a steel tumbler, a wooden spoon and a clay cup in front of us. Close your eyes. I will tap each one gently with a spoon. Listen until the sound has completely gone. Then sit in silence for three breaths. Which one rang the longest? Each material has its own voice.",
-   "kid": "Close your eyes. Listen to the steel, the wood and the clay. Wait until each sound fades. Which rang longest?"
-  },
-  "ask": [
-   "If nobody ever scratched a stone, would it still be hard?",
-   "How can the same atoms make something hard and something soft?",
-   "Is a thread that snaps weak, or just wrong for that job?"
-  ],
-  "art": "A diamond and a pencil side by side on a wooden table, with a zoomed-in circle showing the same carbon atoms joined in two different patterns."
  }
 }

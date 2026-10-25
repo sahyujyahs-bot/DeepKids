@@ -3957,6 +3957,11 @@
  },
  "roots": {
   "context": "We have been learning where every material comes from, and how people change natural materials. Now we ask what that tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Nothing is truly made. Everything is the Earth, rearranged.",
+   "habit": "We split things into 'natural' and 'made by people'. But plastic comes from ancient plants, and glass is melted sand. People only rearrange what already is.",
+   "evidence": "Paper can be made again from old paper, and salt is left behind by the sun."
+  },
   "three": {
    "who_am_i": "The atoms in your body were made inside stars, long ago.",
    "what_is_life": "Wasps make paper and silkworms make silk. Life is always making materials.",

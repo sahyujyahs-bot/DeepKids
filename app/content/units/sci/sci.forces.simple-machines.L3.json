@@ -4195,6 +4195,11 @@
  },
  "roots": {
   "context": "We have been learning how levers, ramps and wheels make a small push move a big load. Now we ask what machines tell us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "You cannot get something for nothing. You can only trade effort for distance.",
+   "habit": "We think a machine gives us extra strength. It never does. A ramp or lever spreads the same work over a longer path.",
+   "evidence": "A long ramp needs less push but a longer walk."
+  },
   "three": {
    "who_am_i": "Your arm is a lever. Your elbow is its pivot.",
    "what_is_life": "Tiny molecules in your muscles swing like levers every time you move.",

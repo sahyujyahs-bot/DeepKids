@@ -1,6 +1,6 @@
 {
  "id": "sci.plants.water-transport.L3",
- "title": "The Climbing Water: how a plant drinks from root to leaf",
+ "title": "How water moves up a plant, from the roots to the leaves",
  "level": 3,
  "summary": {
   "text": "This unit follows one drop of water through a plant. The drop goes in through tiny hairs on the roots. It climbs up the stem through tubes thinner than a hair. Then it spreads along the veins of the leaves and flowers. Most of it slips out of tiny holes in the leaves, into the air, as invisible vapour. As water leaves the top, it pulls more water up behind it. Water can do this because it sticks to itself, like a chain of hands. The Sun's warmth does the lifting, not a heart or a pump. You will turn white flowers blue and catch a plant's breath in a bag. You will also meet a great Indian scientist who argued about all this. Some parts are still a mystery, like how the tallest trees keep their water chains from snapping.",
@@ -3804,6 +3804,11 @@
  },
  "roots": {
   "context": "We have been following one drop of water from a plant's root to its leaf, and into the air. Now we ask what that journey tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Plants sense and respond without a brain. Thinking is older than neurons.",
+   "habit": "We say brain for thinking, like saying Xerox for every photocopier. A plant senses light, water and touch, and sends signals along its body.",
+   "evidence": "A plant turns towards light and lifts water to its top leaves with no pump."
+  },
   "three": {
    "who_am_i": "The water in your body was once in clouds, rivers and trees.",
    "what_is_life": "A tree has no heart. The Sun's warmth lifts its water.",

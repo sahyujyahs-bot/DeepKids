@@ -1,6 +1,6 @@
 {
  "id": "sci.materials.magnetic-materials.L3",
- "title": "Magnetic Materials: the things a magnet picks, and the things it leaves",
+ "title": "Magnetic materials: which things a magnet pulls, and which it does not",
  "level": 3,
  "summary": {
   "text": "This unit is about which materials a magnet pulls. A material is magnetic if a magnet pulls it. Iron, most steel, nickel and cobalt are magnetic. Wood, plastic, glass, paper, cloth and stone are not. The big surprise is that most metals are not magnetic either. Aluminium, copper, brass, gold and silver are all ignored by a magnet, and so are some steel tumblers. The reason is hidden inside the atoms, where tiny magnets line up in iron but not in brass. A magnet test can show that a thing contains iron. It can never show that a thing is gold. Scientists still cannot predict every new magnetic material.",
@@ -4065,6 +4065,11 @@
  ],
  "roots": {
   "context": "We have been learning that a magnet picks some things and leaves others. Now we ask what that tells us about ourselves, about life, and about the world.",
+  "deep_truth": {
+   "truth": "An invisible pull reaches through empty space and through paper.",
+   "habit": "We think things must touch to affect each other. A magnet moves a pin through a page without touching it.",
+   "evidence": "A magnet pulls a paper clip through a book cover."
+  },
   "three": {
    "who_am_i": "You are made of atoms, and each atom has tiny spinning magnets inside. Almost every atom in your body, apart from hydrogen, was made inside a star.",
    "what_is_life": "Life uses magnets too. Some bacteria carry a chain of tiny magnets as a compass, and many animals can feel the Earth's magnetic pull.",
