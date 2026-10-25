@@ -3215,29 +3215,26 @@
   {
    "title": "How wings really work (smoke pulses over an aerofoil)",
    "channel": "University of Cambridge",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "UqBmdZ-BNig",
    "mins": 2,
    "why": "For the parent and child: about 1 minute of wind-tunnel film by Holger Babinsky. Pulses of smoke show that air over a wing reaches the back first, so the 'equal time' story is wrong.",
-   "check": "The video is real: Cambridge released it in January 2012. A copy may be at youtube.com/watch?v=6UlsArvbTeo, but that could not be checked from here, so find the university's own upload and make sure it plays before using it."
+   "check": "Found by YouTube search: \"Airflow across a wing\" by Cambridge University. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "Ingenuity's first flight on Mars, 19 April 2021",
    "channel": "NASA Jet Propulsion Laboratory (NASA JPL)",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "U7DFnNimSfw",
    "mins": 3,
    "why": "Shows the first powered flight on another planet. Good for the 'Flying on other worlds' card and the maths problem about blade speed.",
-   "check": "NASA JPL posted the footage taken by the Perseverance rover. YouTube id still to find. Pick the short official clip, not a long livestream."
+   "check": "Found by YouTube search: \"See Ingenuity’s Flight Map: 72 Helicopter Flights on Mars\" by NASA Jet Propulsion Laboratory. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "How the dandelion seed flies (separated vortex ring)",
    "channel": "University of Edinburgh, or Nature",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "N2UbaDV9O9Q",
    "mins": 2,
    "why": "Shows the swirling ring of air above a dandelion seed, found by Cummins and colleagues in 2018. Good for the Seeds that fly card and the Slowest Seed challenge.",
-   "check": "A short video came with the 2018 Nature paper. YouTube id still to find. If no good clip exists, use a slow-motion film of dandelion seeds falling instead."
+   "check": "Found by YouTube search: \"The secret physics of dandelion seeds\" by nature video. Title checked automatically; a parent may still preview it."
   }
  ],
  "applications": [
