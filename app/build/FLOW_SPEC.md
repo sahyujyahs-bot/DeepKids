@@ -37,4 +37,13 @@
 - Pending vs Ongoing must be clear and not overlap.
 - Only fully completed parts go to History and Progress: per unit, parts done out of total, and which ones.
 
-## (The founder's description continues)
+## 7. Systems the planner must have
+- **Intelligent year-to-day plan generator**: uses every part's minutes, the unit spine (2 sessions) with Go deeper offered, the family's other plans (classes, tuition, outings, sleep), pace per subject and full, half or free days.
+- **Insertion**: new units enter the daily plan when a linked project, activity or maths/science problem is done (the linked unit goes into the queue for the next day), plus manual queue changes (remove, reorder, add from the library).
+- **Refresher time every day**: the daily plan has a slot and flow for the refresher list.
+- **Ongoing experiments and projects get time every day** they run (their schedule tasks, for example "Day 3: check the seeds, 5 min").
+- **Refresher list**: anything answered wrong anywhere in the app is added. Completed units are also brought back for refreshing periodically (spaced).
+- **Buy and gather list**: collates the week's things to buy and things to gather from home, for the parent, with daily reminders (morning or night before).
+- **Worksheet evaluation**: answered on the app, or a photo of the paper evaluated by AI. Anything needing AI is shown but locked until the family tops up.
+- **Bought books and games become part of the daily plan automatically** (each unit's `buy[].plan` says how).
+
