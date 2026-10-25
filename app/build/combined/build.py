@@ -54,6 +54,8 @@ CUR = json.load(open(os.path.join(APP, 'content', 'curriculum', 'sci.json')))
 TL = {s: t for t in CUR['topic_levels'] for s in t['subtopic_levels']}
 SUB = {x['id']: x for x in CUR['subtopic_levels']}
 data['units'] = {}
+import re, importlib.util as _iu
+_sp = _iu.spec_from_file_location('c3d', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'c3_daily.py')); _m = _iu.module_from_spec(_sp); _sp.loader.exec_module(_m); C3D = _m.X   # NCERT Class 3 chapter extras (jokes and more)
 FLOWK = ("games", "experiments", "activities", "projects", "challenges")
 PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "How it really works", "agreed": "What we know for sure",
         "challenging": "Is this true?", "big_questions": "Big questions", "roots": "Roots", "videos": "Watch", "quiz": "Quiz", "open_questions": "Nobody knows yet",
@@ -88,6 +90,16 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
     if os.path.exists(art): u['img'] = json.load(open(art))
     ph = f[:-5] + '.photos.json'   # real, credited pictures from free-licence books (app/build/book_images.py)
     if os.path.exists(ph): u['photos'] = json.load(open(ph))
+    # jokes in one place: the unit's own, plus those written for the board chapters it covers, each tagged with its source
+    for j in u.get('jokes', []): j.setdefault('src', 'unit')
+    sub_ = SUB.get(u['id'], {}); chap_ = CUR.get('chapters', {})
+    for ck in (sub_.get('chapters') or t.get('chapters') or []):
+        ik = chap_.get(ck, {}).get('item') or ''
+        m = re.match(r'ncert\|sci\|3\|(\d+)$', ik)
+        for jk in (C3D.get(int(m.group(1)), {}).get('jokes', []) if m else []):
+            q, _, ans = jk.partition('? ')
+            if not any(x['j'].startswith(q[:30]) for x in u['jokes']):
+                u['jokes'].append({"j": q + ('?' if ans else ''), "a": ans, "src": ik})
     # the full unit is its own file (app/units/<id>.json, loaded when opened); data.json keeps a small index entry
     os.makedirs(os.path.join(APP, 'units'), exist_ok=True)
     json.dump(u, open(os.path.join(APP, 'units', u['id'] + '.json'), 'w'), ensure_ascii=False, separators=(",", ":"))
