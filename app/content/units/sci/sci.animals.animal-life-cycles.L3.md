@@ -753,9 +753,9 @@ She thought that she should write to Farida about it. She thought that when she 
    **Answer:** Shell on the outside, skin just inside it, air pocket at the round end, white around the yolk, twisted cords on each side of the yolk, yolk in the middle.. *Why:* Each part has a job. Together they keep the chick fed, cushioned and breathing for 21 days.
 
 ## Videos
-- **Caterpillar to butterfly: a time-lapse of metamorphosis** (to find, 4 min) id `to find`: Shows a caterpillar hanging, making its chrysalis and the butterfly coming out, which takes weeks in real life. *Check:* No id is given, because none was opened from here. Search YouTube for 'monarch or lime butterfly metamorphosis time-lapse'. Choose one that shows the last moult into the chrysalis. Check that it says 'chrysalis', not 'cocoon'.
-- **Tadpole to frog: a time-lapse** (to find, 4 min) id `to find`: Shows back legs, then front legs, then the tail shrinking, just as in Tadpole Watch. *Check:* No id is given. Search YouTube for 'tadpole to frog time lapse'. Pick one that shows the tail shrinking day by day. Preview it first.
-- **Chick development inside the egg, day by day** (to find, 5 min) id `to find`: Shows the chick growing over 21 days, using the yolk, and pecking out of the shell. *Check:* No id is given. Search YouTube for 'chicken embryo development 21 days candling'. Choose one that uses candling, shining a light through living eggs, not one that opens the eggs. Preview it first.
+- **Caterpillar to butterfly: a time-lapse of metamorphosis** (to find, 4 min) id `ocWgSgMGxOc`: Shows a caterpillar hanging, making its chrysalis and the butterfly coming out, which takes weeks in real life. *Check:* Found by YouTube search: "Monarch Butterfly Metamorphosis time-lapse FYV" by FrontYardVideo. Title checked automatically; a parent may still preview it.
+- **Tadpole to frog: a time-lapse** (to find, 4 min) id `gmlaclb3K2o`: Shows back legs, then front legs, then the tail shrinking, just as in Tadpole Watch. *Check:* Found by YouTube search: "This Is How a Tadpole Transforms Into A Frog | The Dodo" by The Dodo. Title checked automatically; a parent may still preview it.
+- **Chick development inside the egg, day by day** (to find, 5 min) id `PedajVADLGw`: Shows the chick growing over 21 days, using the yolk, and pecking out of the shell. *Check:* Found by YouTube search: "Chicken Embryo Development" by Poultry Hub Australia. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is a life cycle?  

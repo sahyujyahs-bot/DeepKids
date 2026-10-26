@@ -746,9 +746,9 @@ And now, when I see a coconut palm with a green vine winding up it, or a jackfru
    **Answer:** A tall tree reaching up, a climber climbing the tree, a shrub in a sunny gap and a creeper spreading in an open patch, each with an arrow to the sun.. *Why:* All the kinds are different ways of reaching the same light.
 
 ## Videos
-- **Types of plants: trees, shrubs, herbs, climbers and creepers (for Class 3)** (to find, 5 min) id `to find`: A short, clear look at real examples of the five kinds, to watch after the Plant Walk. *Check:* No id chosen yet. A parent should search for a short video showing real plants, not just cartoons, and check it calls banana and bamboo correctly.
-- **How the Great Banyan grew into a forest** (to find, 4 min) id `to find`: Shows the Great Banyan in the Acharya Jagadish Chandra Bose Indian Botanic Garden, Howrah, with its prop roots. *Check:* No id chosen yet. Look for a video filmed at the garden in Howrah. Check that it says the main trunk was removed in 1925.
-- **Medicines from plants: Tu Youyou and artemisinin** (to find, 6 min) id `to find`: For the parent and older children: how a malaria medicine was found in an old Chinese herbal book and a plant. *Check:* No id chosen yet. The Nobel Prize channel has lectures and short films about the 2015 prize. Choose a short one and preview it.
+- **Types of plants: trees, shrubs, herbs, climbers and creepers (for Class 3)** (to find, 5 min) id `DHGQ3elHDIE`: A short, clear look at real examples of the five kinds, to watch after the Plant Walk. *Check:* Found by YouTube search: "Types of Plants - Herbs, Shrubs,Trees, Climbers and Creepers - Learning Junction #plants #kidsvideo" by learning junction. Title checked automatically; a parent may still preview it.
+- **How the Great Banyan grew into a forest** (to find, 4 min) id `YXTZH_IHGHY`: Shows the Great Banyan in the Acharya Jagadish Chandra Bose Indian Botanic Garden, Howrah, with its prop roots. *Check:* Found by YouTube search: "The Great Banyan: India’s Incredible Tree Forest" by India Uncovered. Title checked automatically; a parent may still preview it.
+- **Medicines from plants: Tu Youyou and artemisinin** (to find, 6 min) id `JZQc9S12ZvM`: For the parent and older children: how a malaria medicine was found in an old Chinese herbal book and a plant. *Check:* Found by YouTube search: "How an Ancient Remedy Became a Modern Cure for Malaria" by SciShow. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is the best clue to tell a tree, a shrub and a herb apart?  

@@ -683,9 +683,9 @@ In the morning, the girgit was on its stone, grey and still, waiting. Noor did n
    **Answer:** Any honest answer. For example: it is mine while I have it, but it came from the sun and goes back into the air.. *Why:* This is an open question. Good answers give a reason.
 
 ## Videos
-- **Warm-blooded and cold-blooded animals, explained for children** (SciShow Kids, or a similar children's science channel, 4 min) id `to find`: A short, friendly look at animals that make their own heat and animals that take it from outside. *Check:* No id was confirmed from here. Search YouTube for 'SciShow Kids warm blooded cold blooded'. Check it explains that cold-blooded animals are not always cold.
-- **How do fish breathe underwater?** (a science channel such as TED-Ed or SciShow, 5 min) id `to find`: Shows water flowing over gills, close up. *Check:* No id was confirmed from here. Search 'how do fish breathe gills' and choose a clear, accurate video. Check it shows water entering the mouth and leaving at the gill slits.
-- **Olive ridley turtles nesting in Odisha (arribada)** (a news or nature channel, 4 min) id `to find`: Real footage of turtles laying shelled eggs on an Indian beach, and hatchlings walking to the sea. *Check:* No id was confirmed from here. Search 'olive ridley arribada Rushikulya' or 'Gahirmatha'. Choose footage that does not show people disturbing the turtles.
+- **Warm-blooded and cold-blooded animals, explained for children** (SciShow Kids, or a similar children's science channel, 4 min) id `tvzTbKULHmA`: A short, friendly look at animals that make their own heat and animals that take it from outside. *Check:* Found by YouTube search: "How "Cold-Blooded" Animals Survive the Cold" by SciShow. Title checked automatically; a parent may still preview it.
+- **How do fish breathe underwater?** (a science channel such as TED-Ed or SciShow, 5 min) id `zj5v3n6Nlm8`: Shows water flowing over gills, close up. *Check:* Found by YouTube search: "How Do Fish Breathe? | Animal Science for Kids" by SciShow Kids. Title checked automatically; a parent may still preview it.
+- **Olive ridley turtles nesting in Odisha (arribada)** (a news or nature channel, 4 min) id `xk9rsfXtmOI`: Real footage of turtles laying shelled eggs on an Indian beach, and hatchlings walking to the sea. *Check:* Found by YouTube search: "For Olive Ridley Sea Turtles, Laying Eggs is Grueling Work" by Smithsonian Channel. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is a vertebrate?  
