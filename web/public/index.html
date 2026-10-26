@@ -725,6 +725,10 @@ header.top .hello b,header.top .greet{font-family:var(--poster)!important;font-w
 .tcard b,.tcard .tt2,.menurow b,.qtile b{font:700 17px/1.25 var(--body)!important}
 .qtile .qi,.menurow .ic{background:transparent!important;border:1.5px solid var(--ink)!important;color:var(--ink)!important;border-radius:6px!important}
 .qtile .qi .ico,.menurow .ic .ico{stroke:var(--ink)!important}
+.choice{box-shadow:none!important;border:1.5px solid var(--rule)!important;border-radius:var(--r-lg)!important;background:var(--surface)!important}
+.choice[aria-pressed="true"]{border-color:var(--ink)!important;box-shadow:4px 4px 0 var(--ink)!important;background:#fff!important}
+.choice b{font:700 18px var(--body)!important;color:var(--ink)!important}
+.obbar i.on{background:var(--margin)!important}
 
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}</style>
@@ -757,9 +761,9 @@ header.top .hello b,header.top .greet{font-family:var(--poster)!important;font-w
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 
-<script>window.DK_BUILD="cf925a10cefc44"</script>
-<script src="/config.js?v=cf925a10cefc44"></script>
+<script>window.DK_BUILD="f21d906c04fc44"</script>
+<script src="/config.js?v=f21d906c04fc44"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=cf925a10cefc44"></script>
+<script src="/platform.js?v=f21d906c04fc44"></script>
 </body>
 </html>
