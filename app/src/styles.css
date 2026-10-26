@@ -4551,20 +4551,21 @@ input.fxin {
   transform: translateY(-6px) scale(1.12) rotate(var(--tilt, 0deg));
 }
 .fxfab.land .iam {
-  animation: iamland 0.55s ease-out;
+  animation: iamland 0.65s ease-out;
 }
+/* the lean swings back past straight, then settles, as the squash bounces out */
 @keyframes iamland {
   0% {
-    transform: translateY(-6px) scale(1.12);
+    transform: translateY(-6px) scale(1.12) rotate(var(--tilt, 0deg));
   }
-  35% {
-    transform: scale(1.1, 0.88);
+  30% {
+    transform: scale(1.1, 0.88) rotate(calc(var(--tilt, 0deg) * -0.6));
   }
-  60% {
-    transform: translateY(-3px) scale(0.96, 1.05);
+  55% {
+    transform: translateY(-3px) scale(0.96, 1.05) rotate(calc(var(--tilt, 0deg) * 0.3));
   }
   80% {
-    transform: scale(1.02, 0.98);
+    transform: scale(1.02, 0.98) rotate(calc(var(--tilt, 0deg) * -0.1));
   }
 }
 /* not during setup, where he would cover the Continue button */

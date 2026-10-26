@@ -429,7 +429,7 @@ function fxTodayTop(animate) {
   }));
   const going = units.filter((x) => x.st === "learning").sort((a, b) => b.t - a.t),
     doneU = units.filter((x) => rank[x.st] >= 2).length;
-  const tiles = `<div class="fxgoals"><div class="fxgoal"><b>${Math.round(doneM)}<small> / ${Math.round(planned)} min</small></b><span>learned this week</span></div><div class="fxgoal"><b>${doneU}<small> done · ${going.length} going</small></b><span>units</span></div></div>`;
+  const tiles = `<div class="fxgoals"><div class="fxgoal"><b>${Math.round(doneM)}<small> / ${Math.round(planned)} min</small></b><span>learned this week</span></div><div class="fxgoal"><b>${going.length}<small> started · ${doneU} finished</small></b><span>topics</span></div></div>`;
   const c = going[0];
   let cont = "";
   if (c) {

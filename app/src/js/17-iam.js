@@ -79,9 +79,12 @@ function iamDrag(b) {
       b.classList.add("lift");
       iamLook();
     }
-    // he leans the way he is being carried
-    b.style.setProperty("--tilt", Math.max(-14, Math.min(14, (e.clientX - (st.lx ?? e.clientX)) * 1.5)) + "deg");
+    // he leans the way he is being carried; the last movement is kept so he can glide on when let go
+    st.vx = e.clientX - (st.lx ?? e.clientX);
+    st.vy = e.clientY - (st.ly ?? e.clientY);
     st.lx = e.clientX;
+    st.ly = e.clientY;
+    b.style.setProperty("--tilt", Math.max(-14, Math.min(14, st.vx * 1.5)) + "deg");
     S.iamAt = { x: (e.clientX - st.dx) / innerWidth, y: (e.clientY - st.dy) / innerHeight };
     iamPlace(b);
   });
@@ -89,13 +92,35 @@ function iamDrag(b) {
     // a drag is not a tap: the click that follows it does not open the chat
     if (st?.moved) {
       b.dataset.dragged = 1;
-      b.classList.remove("lift");
-      b.classList.add("land");
-      setTimeout(() => b.classList.remove("land"), 600);
-      save();
+      iamGlide(b, st.vx || 0, st.vy || 0);
     }
     st = null;
   });
+}
+// follow-through: he slides on, slowing down, bounces softly off the screen's edge, then lands
+function iamGlide(b, vx, vy) {
+  const cap = (v) => Math.max(-18, Math.min(18, v));
+  vx = cap(vx);
+  vy = cap(vy);
+  const step = () => {
+    const r = b.getBoundingClientRect();
+    let x = r.left + vx,
+      y = r.top + vy;
+    if (x < 0 || x > innerWidth - r.width) vx = -vx * 0.4;
+    if (y < 0 || y > innerHeight - r.height) vy = -vy * 0.4;
+    x = Math.min(Math.max(0, x), innerWidth - r.width);
+    y = Math.min(Math.max(0, y), innerHeight - r.height);
+    S.iamAt = { x: x / innerWidth, y: y / innerHeight };
+    iamPlace(b);
+    vx *= 0.8;
+    vy *= 0.8;
+    if (Math.hypot(vx, vy) > 0.6) return requestAnimationFrame(step);
+    b.classList.remove("lift");
+    b.classList.add("land");
+    setTimeout(() => b.classList.remove("land"), 700);
+    save();
+  };
+  requestAnimationFrame(step);
 }
 function iamReplace() {
   const b = document.getElementById("fxFab");

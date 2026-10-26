@@ -9461,7 +9461,7 @@ function fxTodayTop(animate) {
   }));
   const going = units.filter((x) => x.st === "learning").sort((a, b) => b.t - a.t),
     doneU = units.filter((x) => rank[x.st] >= 2).length;
-  const tiles = `<div class="fxgoals"><div class="fxgoal"><b>${Math.round(doneM)}<small> / ${Math.round(planned)} min</small></b><span>learned this week</span></div><div class="fxgoal"><b>${doneU}<small> done · ${going.length} going</small></b><span>units</span></div></div>`;
+  const tiles = `<div class="fxgoals"><div class="fxgoal"><b>${Math.round(doneM)}<small> / ${Math.round(planned)} min</small></b><span>learned this week</span></div><div class="fxgoal"><b>${going.length}<small> started · ${doneU} finished</small></b><span>topics</span></div></div>`;
   const c = going[0];
   let cont = "";
   if (c) {
@@ -12603,10 +12603,20 @@ const thumbs = (list) =>
   list.length
     ? `<div class="thumbs">${list.map((w) => `<figure><img src="/_blob/${esc(w.id)}" alt="Work from ${esc(w.title || "")}" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'ph',textContent:'Photo'}))"><figcaption class="xs muted">${fmt(w.date)}</figcaption></figure>`).join("")}</div>`
     : "";
+// how far a chapter or unit has got, 0 to 1; a DeepKids-track unit counts every part done, in any order
+function unitFrac(u) {
+  if (rank[coverage(u)] >= 2) return 1;
+  if (u.k.startsWith("unit|")) {
+    const X = fxStates(u.k.slice(5));
+    return X.length ? X.filter((x) => x === "done").length / X.length : 0;
+  }
+  return Math.min(done(u.k), sessionsFor(u)) / Math.max(1, sessionsFor(u));
+}
+const pctTxt = (p) => (p > 0 && p < 0.01 ? "under 1%" : Math.round(p * 100) + "%");
 function subjStats(s) {
   const us = [...collate(s).dk, ...collate(s).board],
     tot = us.reduce((a, u) => a + sessionsFor(u), 0),
-    dn = us.reduce((a, u) => a + (rank[coverage(u)] >= 2 ? sessionsFor(u) : Math.min(done(u.k), sessionsFor(u))), 0);
+    dn = us.reduce((a, u) => a + unitFrac(u) * sessionsFor(u), 0);
   return {
     us,
     pct: tot ? dn / tot : 0,
@@ -12679,7 +12689,7 @@ function jsubView() {
   const logs = S.log.filter((l) => l.subj === s),
     Qs = quotes((u) => u.subj === s),
     W = workOf().filter((w) => unitBy(w.k)?.subj === s);
-  let h = `<section class="chero ${SC(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${Math.round(x.pct * 100)}% of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.sessions} of ${x.total} lesson days${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
+  let h = `<section class="chero ${SC(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.sessions} of ${x.total} lesson days${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
   h += `<section class="card"><h3 style="font-size:19px">How well</h3>${(() => {
     let ans = 0,
       tot = 0,
@@ -12761,7 +12771,7 @@ function viewJourney0() {
   let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="stack3">${S.subjects
     .map((s) => {
       const x = subjStats(s);
-      return `<button class="scard ${SC(s)}" data-act="jsub" data-s="${s}"><span class="eyebrow" style="color:#2B2340;opacity:.7">${SUBJ[s]}</span><span class="big num">${Math.round(x.pct * 100)}%</span><span class="xs" style="font-weight:800">${x.completed} of ${x.us.length} chapters${x.learning ? ` · ${x.learning} in progress` : ""}</span>${sblob(s, "happy")}</button>`;
+      return `<button class="scard ${SC(s)}" data-act="jsub" data-s="${s}"><span class="eyebrow" style="color:#2B2340;opacity:.7">${SUBJ[s]}</span><span class="big num">${pctTxt(x.pct)}</span><span class="xs" style="font-weight:800">${x.completed} of ${x.us.length} chapters finished${x.learning ? ` · ${x.learning} started` : ""}</span>${sblob(s, "happy")}</button>`;
     })
     .join("")}</div></section>`;
   const rows = [
@@ -13549,9 +13559,12 @@ function iamDrag(b) {
       b.classList.add("lift");
       iamLook();
     }
-    // he leans the way he is being carried
-    b.style.setProperty("--tilt", Math.max(-14, Math.min(14, (e.clientX - (st.lx ?? e.clientX)) * 1.5)) + "deg");
+    // he leans the way he is being carried; the last movement is kept so he can glide on when let go
+    st.vx = e.clientX - (st.lx ?? e.clientX);
+    st.vy = e.clientY - (st.ly ?? e.clientY);
     st.lx = e.clientX;
+    st.ly = e.clientY;
+    b.style.setProperty("--tilt", Math.max(-14, Math.min(14, st.vx * 1.5)) + "deg");
     S.iamAt = { x: (e.clientX - st.dx) / innerWidth, y: (e.clientY - st.dy) / innerHeight };
     iamPlace(b);
   });
@@ -13559,13 +13572,35 @@ function iamDrag(b) {
     // a drag is not a tap: the click that follows it does not open the chat
     if (st?.moved) {
       b.dataset.dragged = 1;
-      b.classList.remove("lift");
-      b.classList.add("land");
-      setTimeout(() => b.classList.remove("land"), 600);
-      save();
+      iamGlide(b, st.vx || 0, st.vy || 0);
     }
     st = null;
   });
+}
+// follow-through: he slides on, slowing down, bounces softly off the screen's edge, then lands
+function iamGlide(b, vx, vy) {
+  const cap = (v) => Math.max(-18, Math.min(18, v));
+  vx = cap(vx);
+  vy = cap(vy);
+  const step = () => {
+    const r = b.getBoundingClientRect();
+    let x = r.left + vx,
+      y = r.top + vy;
+    if (x < 0 || x > innerWidth - r.width) vx = -vx * 0.4;
+    if (y < 0 || y > innerHeight - r.height) vy = -vy * 0.4;
+    x = Math.min(Math.max(0, x), innerWidth - r.width);
+    y = Math.min(Math.max(0, y), innerHeight - r.height);
+    S.iamAt = { x: x / innerWidth, y: y / innerHeight };
+    iamPlace(b);
+    vx *= 0.8;
+    vy *= 0.8;
+    if (Math.hypot(vx, vy) > 0.6) return requestAnimationFrame(step);
+    b.classList.remove("lift");
+    b.classList.add("land");
+    setTimeout(() => b.classList.remove("land"), 700);
+    save();
+  };
+  requestAnimationFrame(step);
 }
 function iamReplace() {
   const b = document.getElementById("fxFab");

@@ -4569,20 +4569,21 @@ input.fxin {
   transform: translateY(-6px) scale(1.12) rotate(var(--tilt, 0deg));
 }
 .fxfab.land .iam {
-  animation: iamland 0.55s ease-out;
+  animation: iamland 0.65s ease-out;
 }
+/* the lean swings back past straight, then settles, as the squash bounces out */
 @keyframes iamland {
   0% {
-    transform: translateY(-6px) scale(1.12);
+    transform: translateY(-6px) scale(1.12) rotate(var(--tilt, 0deg));
   }
-  35% {
-    transform: scale(1.1, 0.88);
+  30% {
+    transform: scale(1.1, 0.88) rotate(calc(var(--tilt, 0deg) * -0.6));
   }
-  60% {
-    transform: translateY(-3px) scale(0.96, 1.05);
+  55% {
+    transform: translateY(-3px) scale(0.96, 1.05) rotate(calc(var(--tilt, 0deg) * 0.3));
   }
   80% {
-    transform: scale(1.02, 0.98);
+    transform: scale(1.02, 0.98) rotate(calc(var(--tilt, 0deg) * -0.1));
   }
 }
 /* not during setup, where he would cover the Continue button */
@@ -6004,9 +6005,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="b022f79fee3591";window.DK_APPV="b022f79fee";window.DK_DATAV="3591ffba9f"</script>
-<script src="/config.js?v=b022f79fee3591"></script>
+<script>window.DK_BUILD="87bcf582c73591";window.DK_APPV="87bcf582c7";window.DK_DATAV="3591ffba9f"</script>
+<script src="/config.js?v=87bcf582c73591"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=b022f79fee3591"></script>
+<script src="/platform.js?v=87bcf582c73591"></script>
 </body>
 </html>
