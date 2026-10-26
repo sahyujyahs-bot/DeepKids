@@ -6959,7 +6959,7 @@ function fxMap() {
         return `<li><button data-fx="sec" data-s="${i}" class="${st}" style="--kc:${fxKC(s.kind)[2]}"><span class="fxpe">${st === "done" ? "✅" : s.emoji}</span><span><b>${esc(s.title)}</b><br>${fxPill(s.kind)} <span class="fxsm">${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span><span class="fxchev">›</span></button></li>`;
       },
     ).join("")}</ol></div></div></div>
-    <div class="fxact"><button class="fxaskb" data-fx="chat">💬 Ask DeepKids</button></div>`;
+    <div class="fxact"><button class="fxaskb" data-fx="chat">${iamFace("mini")}Ask I am</button></div>`;
   d.querySelector(".fxbar i").style.width = (100 * done) / SL.length + "%";
 }
 function fxShowSection(si, ci) {
@@ -6994,7 +6994,7 @@ function fxShowSection(si, ci) {
   d.innerHTML =
     fxTop(d, false) +
     `<div class="fxfeed" style="--kc:${fxKC(s.kind)[2]}">${FXCARDS.map((c, i) => `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}"><div class="fxin">${c.html}</div></section>`).join("")}</div>
-   <div class="fxact"><button data-fx="save" aria-label="Save this card">🤍</button><button data-fx="read" aria-label="Read this card aloud">🔊</button><button class="fxaskb" data-fx="askcard">💬 Ask DeepKids</button></div>`;
+   <div class="fxact"><button data-fx="save" aria-label="Save this card">🤍</button><button data-fx="read" aria-label="Read this card aloud">🔊</button><button class="fxaskb" data-fx="askcard">${iamFace("mini")}Ask I am</button></div>`;
   const feed = d.querySelector(".fxfeed"),
     bar = d.querySelector(".fxbar i");
   FXOBS?.disconnect();
@@ -13127,8 +13127,8 @@ function fxChat(about, photo) {
   }
   d.dataset.about = about || "";
   const u = FXU && document.getElementById("fxDlg")?.open ? FXU : null;
-  d.innerHTML = `<div class="fxcbox"><div class="fxchead"><b>💬 Ask DeepKids</b><span class="fxsm">${u ? "About: " + esc(u.title) : "Any question, any subject"}</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
-    <div class="fxmsgs">${FXCHAT.length ? FXCHAT.map((m) => `<p class="fxm ${m.r}">${esc(m.t)}</p>`).join("") : `<p class="fxm ai">Ask me anything: why the sky is blue, what a word means, how to explain this card to your child. ${about ? "I can see the card you're on." : ""}</p>`}</div>
+  d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>I am</b><span class="fxsm">${u ? "About: " + esc(u.title) : "Any question, any subject"}</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
+    <div class="fxmsgs">${FXCHAT.length ? FXCHAT.map((m) => `<p class="fxm ${m.r}">${esc(m.t)}</p>`).join("") : `${iamFace("hero")}<p class="fxm ai">I am I am. Ask me anything: why the sky is blue, what a word means, how to explain this card to your child. ${about ? "I can see the card you're on." : ""}</p>`}</div>
     ${about ? `<p class="fxctx">On this card: “${esc(about.slice(0, 140))}${about.length > 140 ? "…" : ""}”</p>` : ""}
     <div class="fxcin"><button class="fxb" data-cx="pic" aria-label="Add a photo">📷</button><textarea rows="2" placeholder="${photo ? "Add a photo of the finished worksheet, then tap Send" : "Type a question…"}"></textarea><button class="fxb" data-cx="send">Send</button><input type="file" accept="image/*" capture="environment" hidden></div></div>`;
   d.querySelector("input[type=file]").onchange = (e) => {
@@ -13136,6 +13136,7 @@ function fxChat(about, photo) {
     if (d._pic) toast("Photo added");
   };
   if (!d.open) d.showModal();
+  iamSpin();
   d.querySelector("textarea").focus();
   if (photo) d.querySelector("input[type=file]").click();
 }
@@ -13153,11 +13154,12 @@ async function fxSend() {
     "beforeend",
     `<p class="fxm me">${esc(q || "📷 photo")}</p><p class="fxm ai fxwait">Thinking…</p>`,
   );
+  d.classList.add("iamthink");
   box.scrollTop = 1e9;
   const u = FXU && document.getElementById("fxDlg")?.open ? FXU : null,
     F = fxSt(),
     age = S.age || 7;
-  const input = `You are DeepKids, a warm, honest science and learning guide for an Indian homeschooling family. Reply to ${F.mode === "child" ? `a child aged about ${age}: short sentences, simple words, one idea at a time, end with a question back to them` : "the parent who is teaching: clear, accurate, practical, with one way to explain it to a child"}. Say plainly when scientists don't know or disagree. Keep it under 150 words unless asked for more.
+  const input = `You are I am, the teacher in DeepKids, a homeschool app for an Indian family. I am is a calm, kind lion-man from a world beyond ours where everyone is called I am; he asks as much as he tells, and never pretends: if asked, say you are an AI speaking as I am. Be a warm, honest science and learning guide. Reply to ${F.mode === "child" ? `a child aged about ${age}: short sentences, simple words, one idea at a time, end with a question back to them` : "the parent who is teaching: clear, accurate, practical, with one way to explain it to a child"}. Say plainly when scientists don't know or disagree. Keep it under 150 words unless asked for more.
 ${u ? `They are studying: ${u.title} (${u.id}). Unit summary: ${u.summary.text}` : ""}${d.dataset.about ? `\nThe card on their screen says: ${d.dataset.about.slice(0, 1500)}` : ""}${pic ? "\nThey sent a photo of finished work. Mark it kindly: say what is right, what to fix, and why." : ""}
 Conversation so far:\n${FXCHAT.slice(-8)
     .map((m) => (m.r === "me" ? "Them: " : "You: ") + m.t)
@@ -13180,6 +13182,7 @@ Conversation so far:\n${FXCHAT.slice(-8)
           : "I couldn't reach DeepKids AI just now. Please try again in a moment.";
   }
   FXCHAT.push({ r: "ai", t: txt });
+  iamSay(d, txt);
   const w = box.querySelector(".fxwait");
   if (w) {
     w.classList.remove("fxwait");
@@ -13192,8 +13195,8 @@ function fxFab() {
   const b = document.createElement("button");
   b.id = "fxFab";
   b.className = "fxfab";
-  b.textContent = "💬 Ask";
-  b.setAttribute("aria-label", "Ask DeepKids AI");
+  b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
+  b.setAttribute("aria-label", "Talk to I am, the DeepKids teacher (AI)");
   b.onclick = () => fxChat("");
   document.body.appendChild(b);
   const sh = document.getElementById("sheet");
@@ -13203,9 +13206,84 @@ function fxFab() {
     c.onclick = () => fxChat(document.getElementById("sheetBody")?.innerText?.slice(0, 1200) || "");
     sh.appendChild(c);
   }
+  iamSpin();
 }
 // AI is on for families with DeepKids Plus (on the website), or when switched on for testing
 const fxAIOn = () => S.aiPlan === "on" || !!window.DK_PLATFORM?.plus?.()?.on;
+
+/* I am, the DeepKids teacher: the founder's drawing brought to life. His mane sways, his face breathes, his eyes blink
+   and his mouth moves while he answers, in front of his world, a slowly turning dodecahedron. Tap him to talk (fxChat).
+   States are classes on any parent: .iamthink (waiting for an answer: the world spins faster), .iamtalk (answering). */
+function iamFace(cls = "") {
+  return `<span class="iam ${cls}" aria-hidden="true"><canvas class="iamdod" width="${cls === "hero" ? 300 : 160}" height="${cls === "hero" ? 300 : 160}"></canvas><span class="iammane"></span><span class="iamface"><i class="iamlid l"></i><i class="iamlid r"></i><i class="iammouth"></i></span></span>`;
+}
+// the 20 corners of a dodecahedron, and its 30 edges (corners exactly one edge length apart)
+const IAM_DOD = (() => {
+  const f = (1 + Math.sqrt(5)) / 2,
+    g = 1 / f,
+    V = [];
+  for (const x of [-1, 1]) for (const y of [-1, 1]) for (const z of [-1, 1]) V.push([x, y, z]);
+  for (const a of [-1, 1])
+    for (const b of [-1, 1]) {
+      V.push([0, a * g, b * f]);
+      V.push([a * g, b * f, 0]);
+      V.push([a * f, 0, b * g]);
+    }
+  const E = [];
+  V.forEach((p, i) =>
+    V.forEach((q, j) => {
+      if (j > i && Math.abs(Math.hypot(p[0] - q[0], p[1] - q[1], p[2] - q[2]) - 2 * g) < 1e-6) E.push([i, j]);
+    }),
+  );
+  return { V, E };
+})();
+let iamAngle = 0,
+  iamRunning = false;
+function iamDraw(c, t) {
+  const x = c.getContext("2d"),
+    s = c.width / 2,
+    tilt = 0.45,
+    P = IAM_DOD.V.map(([a, b, z]) => {
+      const X = a * Math.cos(t) + z * Math.sin(t),
+        Z = -a * Math.sin(t) + z * Math.cos(t),
+        Y = b * Math.cos(tilt) - Z * Math.sin(tilt),
+        D = b * Math.sin(tilt) + Z * Math.cos(tilt);
+      return [s + X * s * 0.47, s + Y * s * 0.47, D];
+    });
+  x.clearRect(0, 0, c.width, c.height);
+  x.lineCap = "round";
+  for (const [i, j] of IAM_DOD.E) {
+    const d = (P[i][2] + P[j][2]) / 2;
+    x.strokeStyle = `rgba(244, 227, 181, ${0.25 + 0.22 * (d + 1.7)})`;
+    x.lineWidth = c.width / 80;
+    x.beginPath();
+    x.moveTo(P[i][0], P[i][1]);
+    x.lineTo(P[j][0], P[j][1]);
+    x.stroke();
+  }
+}
+// one loop turns every dodecahedron on screen, and stops when none is left
+function iamSpin() {
+  const C = [...document.querySelectorAll("canvas.iamdod")];
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return C.forEach((c) => iamDraw(c, 0.6));
+  if (iamRunning) return;
+  iamRunning = true;
+  const step = () => {
+    const L = [...document.querySelectorAll("canvas.iamdod")];
+    if (!L.length) return (iamRunning = false);
+    iamAngle += L.some((c) => c.closest(".iamthink")) ? 0.05 : 0.006;
+    L.forEach((c) => iamDraw(c, iamAngle));
+    requestAnimationFrame(step);
+  };
+  requestAnimationFrame(step);
+}
+// after an answer arrives, his mouth moves for about as long as it would take to say it
+function iamSay(el, text) {
+  el.classList.remove("iamthink");
+  el.classList.add("iamtalk");
+  clearTimeout(el._iamT);
+  el._iamT = setTimeout(() => el.classList.remove("iamtalk"), Math.min(7000, 1200 + text.length * 25));
+}
 
 /* Reading aloud */
 function splitSent(t) {
@@ -17457,7 +17535,7 @@ document.addEventListener(
     if (!b) return;
     e.preventDefault();
     e.stopPropagation();
-    toast("🔒 Asking DeepKids uses AI, which is part of DeepKids Plus.", 6000);
+    toast("🔒 Talking with I am uses AI, which is part of DeepKids Plus.", 6000);
   },
   true,
 );

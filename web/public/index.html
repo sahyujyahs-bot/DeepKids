@@ -4495,16 +4495,137 @@ input.fxin {
 }
 .fxfab {
   position: fixed;
-  right: 16px;
-  bottom: calc(env(safe-area-inset-bottom, 0) + 86px);
+  right: 12px;
+  bottom: calc(env(safe-area-inset-bottom, 0) + 80px);
   z-index: 50;
   border: 0;
-  border-radius: 999px;
-  padding: 12px 18px;
+  padding: 0;
+  background: 0 0;
+  display: grid;
+  justify-items: center;
+  gap: 2px;
+}
+.fxfab .iam {
+  width: 72px;
+  height: 72px;
+}
+.iamtag {
   background: var(--ink);
   color: #fff;
-  font: 700 15px var(--body);
+  font: 700 12px var(--body);
+  border-radius: 999px;
+  padding: 1px 10px;
+}
+/* I am (17-iam.js): his world turning behind him, the mane, and the face with its eyelids and mouth */
+.iam {
+  position: relative;
+  display: inline-block;
+  flex: none;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 50% 45%, #3a2a5a, var(--night) 70%);
   box-shadow: 0 6px 18px #0004;
+}
+.iam.big {
+  width: 56px;
+  height: 56px;
+}
+.iam.hero {
+  width: 140px;
+  height: 140px;
+  justify-self: center;
+  margin: 8px 0 4px;
+}
+.iam.mini {
+  width: 28px;
+  height: 28px;
+  box-shadow: none;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+.iam.mini .iamdod {
+  display: none;
+}
+.iamdod {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.iammane,
+.iamface {
+  position: absolute;
+  inset: 6%;
+  background: url("media/img/iam/mane.webp") center/contain no-repeat;
+  transform-origin: 50% 70%;
+  animation: iamsway 7s ease-in-out infinite;
+}
+.iamface {
+  background-image: url("media/img/iam/face.webp");
+  animation: iambreathe 4.5s ease-in-out infinite;
+}
+.iamlid {
+  position: absolute;
+  top: 53%;
+  width: 12.5%;
+  height: 7%;
+  background: #e8dfd0;
+  border-bottom: 1px solid #3d2337;
+  border-radius: 50% 50% 40% 40%;
+  transform: scaleY(0);
+  transform-origin: top;
+  animation: iamblink 5.5s infinite;
+}
+.iamlid.l {
+  left: 31.5%;
+}
+.iamlid.r {
+  left: 56.5%;
+}
+.iammouth {
+  position: absolute;
+  top: 83%;
+  left: 45.5%;
+  width: 9%;
+  height: 4%;
+  background: #4a1f2e;
+  border-radius: 0 0 50% 50%;
+  transform: scaleY(0);
+  transform-origin: top;
+}
+.iamtalk .iammouth {
+  animation: iamtalk 0.32s ease-in-out infinite alternate;
+}
+.iamthink .iam {
+  box-shadow:
+    0 0 0 3px var(--sun),
+    0 6px 18px #0004;
+}
+@keyframes iamsway {
+  50% {
+    transform: rotate(2deg);
+  }
+}
+@keyframes iambreathe {
+  50% {
+    transform: translateY(-1.5%) scale(1.01);
+  }
+}
+@keyframes iamblink {
+  0%,
+  93%,
+  100% {
+    transform: scaleY(0);
+  }
+  96% {
+    transform: scaleY(1);
+  }
+}
+@keyframes iamtalk {
+  to {
+    transform: scaleY(1);
+  }
 }
 dialog.sheet .fxfab {
   bottom: calc(env(safe-area-inset-bottom, 0) + 20px);
@@ -5776,9 +5897,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="eb228ee7d97097";window.DK_APPV="eb228ee7d9";window.DK_DATAV="709712794b"</script>
-<script src="/config.js?v=eb228ee7d97097"></script>
+<script>window.DK_BUILD="1bbce662ff7097";window.DK_APPV="1bbce662ff";window.DK_DATAV="709712794b"</script>
+<script src="/config.js?v=1bbce662ff7097"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=eb228ee7d97097"></script>
+<script src="/platform.js?v=1bbce662ff7097"></script>
 </body>
 </html>

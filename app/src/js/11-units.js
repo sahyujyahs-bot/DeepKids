@@ -823,7 +823,7 @@ function fxMap() {
         return `<li><button data-fx="sec" data-s="${i}" class="${st}" style="--kc:${fxKC(s.kind)[2]}"><span class="fxpe">${st === "done" ? "✅" : s.emoji}</span><span><b>${esc(s.title)}</b><br>${fxPill(s.kind)} <span class="fxsm">${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span><span class="fxchev">›</span></button></li>`;
       },
     ).join("")}</ol></div></div></div>
-    <div class="fxact"><button class="fxaskb" data-fx="chat">💬 Ask DeepKids</button></div>`;
+    <div class="fxact"><button class="fxaskb" data-fx="chat">${iamFace("mini")}Ask I am</button></div>`;
   d.querySelector(".fxbar i").style.width = (100 * done) / SL.length + "%";
 }
 function fxShowSection(si, ci) {
@@ -858,7 +858,7 @@ function fxShowSection(si, ci) {
   d.innerHTML =
     fxTop(d, false) +
     `<div class="fxfeed" style="--kc:${fxKC(s.kind)[2]}">${FXCARDS.map((c, i) => `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}"><div class="fxin">${c.html}</div></section>`).join("")}</div>
-   <div class="fxact"><button data-fx="save" aria-label="Save this card">🤍</button><button data-fx="read" aria-label="Read this card aloud">🔊</button><button class="fxaskb" data-fx="askcard">💬 Ask DeepKids</button></div>`;
+   <div class="fxact"><button data-fx="save" aria-label="Save this card">🤍</button><button data-fx="read" aria-label="Read this card aloud">🔊</button><button class="fxaskb" data-fx="askcard">${iamFace("mini")}Ask I am</button></div>`;
   const feed = d.querySelector(".fxfeed"),
     bar = d.querySelector(".fxbar i");
   FXOBS?.disconnect();

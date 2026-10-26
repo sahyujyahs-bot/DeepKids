@@ -873,7 +873,7 @@ document.addEventListener(
     if (!b) return;
     e.preventDefault();
     e.stopPropagation();
-    toast("🔒 Asking DeepKids uses AI, which is part of DeepKids Plus.", 6000);
+    toast("🔒 Talking with I am uses AI, which is part of DeepKids Plus.", 6000);
   },
   true,
 );
