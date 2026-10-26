@@ -460,6 +460,24 @@ function buildDayPlan(date) {
             : ""),
       done: !!l.done,
     });
+    // a book, game or kit from the home shelf that goes with this lesson, on its days until it's ticked once
+    if (!l.done)
+      shelfFor(l.u)
+        .slice(0, 2)
+        .forEach((it) => {
+          const id = "shelf-" + it.id + "-" + l.u.k;
+          if (Object.keys(S.tl).some((k) => k.endsWith("|" + id) && k.slice(0, 10) < date)) return;
+          items.push({
+            id,
+            at: place(15),
+            dur: 15,
+            who: "both",
+            kind: "shelf",
+            title: (SHELFDO[it.cat] || "Use") + ": " + it.name,
+            sub: "From your home shelf · goes with " + l.u.title,
+            done: !!S.tl[date + "|" + id],
+          });
+        });
   });
   if (lessons.some((l) => !l.bonus) && plusOn() && S.subjects.includes("sci") && dkMinsOf() > 0) {
     const pk = dkPick(date, lessons);

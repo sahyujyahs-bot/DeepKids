@@ -310,6 +310,7 @@ const KICO = {
   exps: "exps",
   event: "event",
   todo: "prep",
+  shelf: "read",
   refresh: "game",
   plan: "week",
 };

@@ -135,7 +135,11 @@ const storyHtml = (st) =>
 const LIBT = [
   ["topics", "Syllabus", "Every chapter of every board, by subject and class"],
   ["science", "Resources", "Free activities, simulations and videos, tagged to chapters"],
-  ["have", "Home shelf", "Books, games and kits you have at home. We suggest them in the right lesson"],
+  [
+    "have",
+    "Home shelf",
+    "Books, games and kits you have at home. Each goes into the plan on the day of the lesson it fits",
+  ],
   ["mine", "My books", "Your own books and notes, turned into lessons, quizzes and refreshers"],
   ["suggest", "Worth buying", "Books, games and kits picked for your child's age and syllabus"],
   ["read", "Read", "Books and stories to read together"],
@@ -163,9 +167,37 @@ function lessonExtras(u) {
   if (!pick.length && !shelf.length) return "";
   return `<div class="extras">${shelf.length ? `<div class="sm"><b style="font-family:var(--display)">From your shelf:</b> ${shelf.map((i) => esc(i.name)).join(" · ")}</div>` : ""}${pick.length ? `<div class="sm"><b style="font-family:var(--display)">Good extras for this chapter</b></div>${pick.map((r) => `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b></a>`).join("")}<button class="link xs" data-act="chapter" data-k="${u.k}" data-t="res" style="justify-self:start">All resources for this chapter</button>` : ""}</div>`;
 }
+// what the family owns that goes with a lesson: tagged to it when sorted, or (added by hand, untagged)
+// sharing a real word with the lesson's title, like "bar magnets" and "Magnets: …"
+const shelfWords = (t) =>
+  new Set(
+    (
+      String(t)
+        .toLowerCase()
+        .match(/[a-z]{4,}/g) || []
+    ).map((w) => w.replace(/(es|s)$/, "")),
+  );
+const SHELF_SKIP = new Set([
+  "book",
+  "game",
+  "with",
+  "from",
+  "your",
+  "what",
+  "that",
+  "this",
+  "kid",
+  "children",
+  "little",
+]);
 const shelfFor = (u) =>
   (S.inv || []).filter(
-    (i) => (i.chapters || []).includes(u.k) || (i.concepts || []).some((c) => (RCON[c]?.chapters || []).includes(u.k)),
+    (i) =>
+      (i.chapters || []).includes(u.k) ||
+      (i.concepts || []).some((c) => (RCON[c]?.chapters || []).includes(u.k)) ||
+      (!i.chapters?.length &&
+        !i.concepts?.length &&
+        [...shelfWords(i.name)].some((w) => !SHELF_SKIP.has(w) && shelfWords(u.title).has(w))),
   );
 function invCard() {
   const D_ = ui.idump || {};
@@ -175,15 +207,13 @@ function invCard() {
    ${SAMPLE ? "" : `<p class="xs muted">Sorting needs Claude, which isn't available in this view. Add things one by one below.</p>`}${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
    ${D_.items ? `<div class="col" style="gap:8px">${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="ikeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div style="min-width:0"><b style="font:600 16px var(--display)">${esc(it.name)}</b><p class="xs muted">${esc([CATS[it.cat] || "Other", it.by, it.kind, it.ages].filter(Boolean).join(" · "))}</p>${(it.chapters || []).length ? `<div class="row chips">${it.chapters.map(unitByK).filter(Boolean).slice(0, 3).map(chipK).join("")}</div>` : ""}</div></div>`).join("")}<div class="row"><button class="btn green" data-act="iadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length}</button><button class="btn line sm" data-act="iclear">Clear</button></div></div>` : ""}</section>`;
 }
+// the lessons planned for this year and after, in order, so each thing owned is matched to the lesson it will be used in
 function invContext() {
-  const keys = [];
-  S.subjects.forEach((s) => {
-    const lv = S.levels[s];
-    allUnits()
-      .filter((u) => u.subj === s && ["ncert", "cambridge", "nios"].includes(u.board) && Math.abs(u.level - lv) <= 1)
-      .forEach((u) => keys.push(`${u.k} = ${unitLabel(u)}`));
-  });
-  return keys.slice(0, 260).join("\n");
+  return S.subjects
+    .flatMap((s) => plannedUnits(s).slice(0, 80))
+    .slice(0, 260)
+    .map((u) => `${u.k} = ${unitLabel(u)}`)
+    .join("\n");
 }
 async function runInvSort() {
   const ta = document.getElementById("invText"),
@@ -214,7 +244,7 @@ Message:
     const opt = { modelTier: "quick", cache: false };
     if (D_.files?.length) opt.images = D_.files;
     const r = await SAMPLE.json(prompt, opt),
-      valid = new Set(allUnits().map((u) => u.k));
+      valid = new Set([...allUnits(), ...everyUnit()].map((u) => u.k));
     D_.items = (Array.isArray(r?.items) ? r.items : [])
       .filter((x) => x && x.name)
       .map((x) => ({
@@ -245,8 +275,9 @@ Message:
   render();
 }
 function invItem(i) {
-  const ch = (i.chapters || []).map(unitByK).filter(Boolean);
-  return `<div class="invi"><div style="min-width:0"><b>${esc(i.name)}</b>${i.by || i.kind ? `<span class="xs muted"> · ${esc([i.by, i.kind].filter(Boolean).join(" · "))}</span>` : ""}${i.note ? `<p class="xs muted">${esc(i.note)}</p>` : ""}${ch.length ? `<div class="row chips">${ch.slice(0, 3).map(chipK).join("")}</div>` : (i.concepts || []).length ? `<p class="xs"><b>Idea:</b> ${i.concepts.map((c) => esc(RCON[c]?.concept || c)).join(" · ")}</p>` : ""}</div><button class="plain" data-act="invdel" data-i="${i.id}" aria-label="Remove ${esc(i.name)}">${icon("close")}</button></div>`;
+  // the planned lessons it goes into
+  const ch = S.subjects.flatMap((s) => plannedUnits(s)).filter((u) => shelfFor(u).includes(i));
+  return `<div class="invi"><div style="min-width:0"><b>${esc(i.name)}</b>${i.by || i.kind ? `<span class="xs muted"> · ${esc([i.by, i.kind].filter(Boolean).join(" · "))}</span>` : ""}${i.note ? `<p class="xs muted">${esc(i.note)}</p>` : ""}${ch.length ? `<p class="xs muted">Goes into the plan with:</p><div class="row chips">${ch.slice(0, 3).map(chipK).join("")}</div>` : `<p class="xs muted">Not matched to a lesson in this year's plan yet.</p>`}</div><button class="plain" data-act="invdel" data-i="${i.id}" aria-label="Remove ${esc(i.name)}">${icon("close")}</button></div>`;
 }
 const RTYPE = {
   sim: "Simulation",
@@ -854,6 +885,7 @@ const LIB = {
     ],
   },
 };
+const SHELFDO = { book: "Read", game: "Play" };
 const CATS = {
   book: "Books",
   game: "Games",
