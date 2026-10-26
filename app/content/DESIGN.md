@@ -40,3 +40,7 @@ Subjects: Maths peacock, English #5B4BB7, Hindi margin red, Science #3C8A3F, Dee
 3. **Labels are handwritten notes, in sentence case.** No ALL-CAPS eyebrows.
 4. **Left aligned, generous line height**, lines under 70 characters.
 5. **Colour means something:** red is "do this now", turmeric is "today", peacock is "done and growing".
+
+## Founder notes
+- Don't make it all too Indian. Universal and vibrant first; Indian touches only where they come naturally (names, foods, places in content).
+- Stunning, vibrant illustrations and a few well-placed animations make the biggest difference.
