@@ -781,6 +781,14 @@ header.top{margin:10px 8px 0!important;border-radius:22px!important}
 .fxslide2 h2{font-size:28px;margin:4px 0 0;padding:0}.fxslide2 p{margin:0;color:var(--muted)}
 .fxdots{display:flex;gap:6px;justify-content:center;margin:6px 0 4px}.fxdots i{width:8px;height:8px;border-radius:50%;background:var(--rule)}.fxdots i.on{background:var(--ink);width:22px;border-radius:4px}
 
+/* founder: no dark header box and no second greeting. The header is just the back and settings buttons on the page. */
+header.top{background:transparent!important;margin:0!important;border-radius:0!important;box-shadow:none!important}
+header.top .hello{display:none!important}
+header.top .iconbtn{background:transparent!important;border:0!important}
+header.top .iconbtn .ico{stroke:var(--ink)!important}
+header.top .wrap{justify-content:space-between}
+header.top #me{margin-left:auto}header.top .wrap{display:flex;align-items:center}
+
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}</style>
 </head>
@@ -812,9 +820,9 @@ header.top{margin:10px 8px 0!important;border-radius:22px!important}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 
-<script>window.DK_BUILD="cd61467b02fc44"</script>
-<script src="/config.js?v=cd61467b02fc44"></script>
+<script>window.DK_BUILD="32630b847afc44"</script>
+<script src="/config.js?v=32630b847afc44"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=cd61467b02fc44"></script>
+<script src="/platform.js?v=32630b847afc44"></script>
 </body>
 </html>
