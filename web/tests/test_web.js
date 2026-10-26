@@ -18,17 +18,18 @@ const server = http.createServer((req, res) => { let p = decodeURIComponent(req.
   const p = await ctx.newPage(); const errs = []; p.on('pageerror', e => errs.push(e.message));
   await p.goto('http://localhost:8788/'); await p.waitForTimeout(1500);
   console.log('1. platform:', await p.evaluate(() => window.DK_PLATFORM?.name), '| app loaded:', await p.evaluate(() => typeof render === 'function'), '| DATA items:', await p.evaluate(() => DATA.items.length));
-  await p.fill('#lgPhone', '98765 43210'); await p.fill('#lgName', 'Sahyujyah'); await p.click('[data-act="login"]'); await p.waitForTimeout(800);
-  await p.fill('#obName', 'Liri'); await p.click('[data-age="8"]'); await p.click('[data-ob="next"]'); await p.click('[data-b="ncert"]'); for (let i = 0; i < 4; i++) await p.click('[data-ob="next"]'); await p.waitForTimeout(800);
+  await p.fill('#lgPhone', '81234 56789'); await p.fill('#lgName', 'Sahyujyah'); await p.click('[data-act="login"]'); await p.waitForTimeout(800);
+  await p.fill('#obName', 'Liri'); await p.click('[data-age="8"]'); await p.click('[data-ob="next"]'); await p.click('[data-obtrack="board"]');
+  for (let i = 0; i < 8; i++) { await p.evaluate(() => { for (let j = 0; j < 12; j++) { const c = [...document.querySelectorAll('[data-oblvl$=":3"]')].find(x => x.getAttribute('aria-pressed') !== 'true'); if (!c) break; c.click() } }); const n = await p.$('[data-ob="next"]'); if (!n) break; await n.click(); await p.waitForTimeout(150) } await p.waitForTimeout(800);
   const saved = await p.evaluate(() => Object.keys(JSON.parse(localStorage.getItem('fake-sb')).docs));
-  console.log('2. saved docs:', saved, '| sync:', await p.evaluate(() => syncMode));
+  console.log('2. saved docs:', saved, '| sync:', await p.evaluate(() => syncMode), '| set up:', await p.evaluate(() => S.setup + ' step ' + (ob && ob.step)));
   // reload: comes back from the database, not just this browser
   await p.evaluate(() => { for (const k of Object.keys(localStorage)) if (k.startsWith('dk-')) localStorage.removeItem(k) });
   await p.reload(); await p.waitForTimeout(1500);
   const after = await p.evaluate(() => ({ setup: S.setup, child: S.child, acct: S.acct, login: !!document.querySelector('#lgPhone') }));
   console.log('3. after reload (browser storage wiped):', JSON.stringify(after));
   // planner chat goes to our server function
-  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400);
+  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.click('[data-act="seg"][data-v="family"]'); await p.waitForTimeout(300); await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400);
   console.log('3b. AI notice shown:', await p.locator('.dk-ai').count(), '| calls before consent:', claudeCalls.length);
   await p.click('.dk-ai [data-v="0"]'); await p.waitForTimeout(400); console.log('3c. after Not now, calls:', claudeCalls.length);
   await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400); await p.click('.dk-ai [data-v="1"]'); await p.waitForTimeout(800);

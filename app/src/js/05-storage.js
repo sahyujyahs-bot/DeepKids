@@ -77,6 +77,7 @@ async function openAccount(acct, name) {
   ob = null;
   if (S.setup || !DBR) render();
   if (DBR) {
+    ui.acctLoading = !S.setup; // until the saved family arrives, don't show set-up
     try {
       store = DBR.doc("data/users/" + UIDR + "/acct_" + acct);
       const snap = await store.get();
@@ -125,6 +126,7 @@ async function openAccount(acct, name) {
       store = null;
       syncMode = "device";
     }
+    ui.acctLoading = false;
   } else {
     if (name && !S.parent?.name) S.parent = { ...(S.parent || {}), name };
     S.acct = acct;

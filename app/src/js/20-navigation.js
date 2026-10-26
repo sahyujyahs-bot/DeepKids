@@ -297,6 +297,10 @@ function renderMain() {
     return;
   }
   document.getElementById("snd").hidden = false;
+  if (!S.setup && !ob && ui.acctLoading) {
+    m.replaceChildren(el(`<div class="wrap"><p class="muted acctload">Opening your family's plan…</p></div>`));
+    return;
+  }
   if (!S.setup && !ob) return startOnboarding(0);
   nav.hidden = !!ob;
   document.getElementById("me").hidden = !!ob;

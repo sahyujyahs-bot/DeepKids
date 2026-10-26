@@ -5666,6 +5666,10 @@ html,
 body {
   overflow-x: hidden;
 }
+.acctload {
+  margin-top: 40px;
+  text-align: center;
+}
 </style>
 
 <header class="top"><div class="wrap">
@@ -6302,6 +6306,7 @@ async function openAccount(acct, name) {
   ob = null;
   if (S.setup || !DBR) render();
   if (DBR) {
+    ui.acctLoading = !S.setup; // until the saved family arrives, don't show set-up
     try {
       store = DBR.doc("data/users/" + UIDR + "/acct_" + acct);
       const snap = await store.get();
@@ -6350,6 +6355,7 @@ async function openAccount(acct, name) {
       store = null;
       syncMode = "device";
     }
+    ui.acctLoading = false;
   } else {
     if (name && !S.parent?.name) S.parent = { ...(S.parent || {}), name };
     S.acct = acct;
@@ -19365,6 +19371,10 @@ function renderMain() {
     return;
   }
   document.getElementById("snd").hidden = false;
+  if (!S.setup && !ob && ui.acctLoading) {
+    m.replaceChildren(el(`<div class="wrap"><p class="muted acctload">Opening your family's plan…</p></div>`));
+    return;
+  }
   if (!S.setup && !ob) return startOnboarding(0);
   nav.hidden = !!ob;
   document.getElementById("me").hidden = !!ob;
