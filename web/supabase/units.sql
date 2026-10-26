@@ -1,4 +1,4 @@
--- Not applied to the live database yet (waiting for approval in Supabase).
+-- Run once in Supabase: SQL Editor -> New query -> paste all of this -> Run. Safe to run again.
 -- 10. DeepKids-track units: the full lessons live here, not in the public website files.
 -- A family can read a unit if: units are open to everyone (app_settings units_open = 'true'),
 -- or the family has Plus, or the unit is a free sample (free_units), or the reader is an editor.
@@ -34,3 +34,10 @@ drop policy if exists "read settings" on public.app_settings;
 create policy "read settings" on public.app_settings for select to authenticated using (true);
 revoke all on public.units, public.free_units, public.app_settings from anon, authenticated;
 grant select on public.units, public.free_units, public.app_settings to authenticated;
+
+-- The founder has Plus (and so AI) with no end date. Testers have no plan, so AI stays locked for them,
+-- while units_open = 'true' keeps every lesson free. To start charging for units later:
+--   update public.app_settings set value = 'false' where key = 'units_open';
+insert into public.plans (user_id, plan, valid_until)
+select id, 'plus', '2099-12-31' from auth.users where lower(email) = 'sahyujyahs@gmail.com'
+on conflict (user_id) do update set plan = 'plus', valid_until = '2099-12-31', updated_at = now();
