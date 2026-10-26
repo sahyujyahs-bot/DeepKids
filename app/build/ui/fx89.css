@@ -261,5 +261,5 @@ header.top #me{margin-left:auto}header.top .wrap{display:flex;align-items:center
 #fxcrumb:empty{display:none}#fxcrumb i{font-style:normal;opacity:.6}#fxcrumb b{color:var(--ink);font-weight:600}
 .fxcr{border:0;background:none;padding:0;font:inherit;color:var(--aqua);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 header.top #backTop{order:-1}
-.calhead.fxnodate .calt,.calhead.fxnodate [data-act="tday"]{display:none!important}.calhead.fxnodate{justify-content:flex-end}
+
 .fxweek{display:none!important}
