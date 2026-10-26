@@ -40,3 +40,11 @@ You are writing one DeepKids unit for Indian homeschooling families with childre
 - Write only `app/content/units/sci/<your id>.json`. Then run `python3 app/build/unit_to_md.py app/content/units/sci/<your id>.json app/content/units/sci/<your id>.md`.
 - Do not run git, do not touch the app build or anyone else's files.
 - Reply with: file written, title, number of parts, story title, charts added, and anything you were unsure of.
+
+## Play-test before you finish (the founder's rule: everything must really work)
+Go through every experiment, activity, game, challenge and project as if you were doing it at home today, and fix anything that fails:
+- **Experiments work.** With the materials listed, at home, the result really happens and is big enough for a child to see. Name amounts, sizes, times and what to look for. If the real result is often messy (seeds that don't sprout, ice that melts too fast), say what to do then.
+- **Games are playable.** Clear rules a child can follow; how to win or finish; what you need; and who can play: `players` set to one or more of `"alone"`, `"with a parent"`, `"with friends"`. A game for one child must still be fun alone.
+- **Activities fit the age.** A 6–10-year-old can do each step with the help the step says (mark `"adult": true` where needed). No step assumes things most Indian homes don't have, or gives a cheap alternative.
+- **Timings are honest.** Minutes match what the steps take.
+Add a short `playtest` note at the top level of the unit: what you checked and anything a parent should know.
