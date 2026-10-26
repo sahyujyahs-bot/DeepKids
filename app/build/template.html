@@ -15300,7 +15300,7 @@ function itemAction(it, a) {
 function itemDetail(it, date) {
   const isT = date === today;
   if (it.kind === "refresh")
-    return `<p class="sm" style="font-weight:700">${esc(it.rf.title)}</p><p class="xs muted">About ${it.dur} minutes, going back over ${esc(it.rf.u.title)} with quick questions.</p><div class="row"><button class="btn sm" data-act="refresh" data-date="${date}">${icon("play")}Play it</button></div>`;
+    return `<p class="sm" style="font-weight:700">${esc(it.rf.title)}</p><p class="xs muted">About ${it.dur} minutes, going back over ${(it.rf.topics || []).length ? esc(it.rf.topics.map((t) => chT(unitByK(t.k)) || t.k).join(", ")) : "past lessons"} with quick questions${it.rf.sub ? " · " + esc(it.rf.sub) : ""}.</p><div class="row"><button class="btn sm" data-act="refresh" data-date="${date}">${icon("play")}Play it</button></div>`;
   if (it.kind === "plan")
     return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn sm" data-act="quickplan">Open the Planner</button></div>`;
   if (it.kind === "lesson") {
