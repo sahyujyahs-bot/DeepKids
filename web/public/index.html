@@ -14,7 +14,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Mukta:wght@400;500;600;700&family=Kalam:wght@400;700&display=swap">
 <style>
 /* Garden of the day: a little illustrated garden blooms as things get done; blob friends stand for subjects and people;
    bright crayon colours on warm paper, chunky pressable buttons, coloured timetable cards, a winding path for the syllabus. */
@@ -668,6 +668,64 @@ dialog.sheet .fxfab{bottom:calc(env(safe-area-inset-bottom,0px) + 20px)}
 body.ai-locked [data-fx="chat"]::after,body.ai-locked [data-fx="askcard"]::after,body.ai-locked [data-fx="photo"]::after,body.ai-locked [data-act="askq"]::after{content:" 🔒"}
 .fxwt-full{background:var(--leaf,#3F8F5F)!important;color:#fff}.fxwt-half{background:#F3C64B!important}.fxwt-free{opacity:.6}
 
+/* ================= DeepKids look: the notebook and the night sky (app/content/DESIGN.md) ================= */
+:root{--bg:#FCFCF8;--surface:#FFFFFF;--sunk:#F1F2F6;--ink:#1F2440;--muted:#646985;--line:#DCE0EA;
+  --tang:#D7372B;--sun:#E8A317;--aqua:#0F6E6B;--forest:#3C8A3F;--peri:#5B4BB7;--gum:#D7372B;--sky:#2F6FB5;--pist:#3C8A3F;--soil:#B9893B;--good:#0F6E6B;--bad:#C2271D;
+  --night:#222D66;--rule:#DCE0EA;--margin:#D7372B;
+  --display:"Mukta",system-ui,sans-serif;--poster:"Rozha One",Georgia,serif;--body:"Mukta",system-ui,sans-serif;--hand:"Kalam","Mukta",cursive;
+  --r:8px;--r-lg:12px;--r-xl:14px;--lift:none}
+body{font:400 17px/1.55 var(--body);color:var(--ink);background:var(--bg)}
+h1,h2{font-family:var(--poster);font-weight:400;letter-spacing:.005em;line-height:1.1}
+h3,b,strong{font-family:var(--body);font-weight:700}
+.sech h3{font:700 19px var(--body)}
+/* labels are notes in the margin: handwritten, sentence case */
+.eyebrow,.fxeb{font:400 16px/1.2 var(--hand)!important;letter-spacing:0!important;text-transform:none!important;color:var(--muted)!important}
+/* structure from rules and a thin ink outline, not floating cards with grey shadows */
+.card,.menurow,.focus,.qtile,.tile{box-shadow:none!important;border:1.5px solid var(--rule)!important;border-radius:var(--r-lg)!important;background:var(--surface)}
+.sec{margin-top:30px}
+/* the notebook page: red margin line, rows on rule lines */
+.tt{position:relative;padding-left:14px;border-left:2px solid var(--margin)}
+.tcard{border-radius:var(--r)!important;box-shadow:none!important;background:var(--surface)!important;border:1.5px solid var(--rule)!important;border-left:6px solid var(--c)!important}
+.tcard .ic{background:color-mix(in srgb,var(--c) 14%,#fff)!important;color:var(--c)!important;border-radius:6px!important}
+.tr .t,.tr .num{font:500 14px var(--body)!important;color:var(--muted)}
+.tcard.now,.now .tcard,.focus{box-shadow:4px 4px 0 var(--ink)!important;border-color:var(--ink)!important}
+/* buttons: flat, ink-sure; primary is margin red */
+.btn{border-radius:var(--r)!important;box-shadow:none!important;font:700 17px var(--body)!important;letter-spacing:.01em;background:var(--margin)}
+.btn.soft{background:transparent!important;color:var(--ink)!important;border:1.5px solid var(--ink)!important}
+.btn:active{transform:translateY(1px)}
+.link{color:var(--aqua);font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.chip,.pill{border-radius:6px!important;font:600 14px var(--body)!important;background:transparent!important;border:1.5px solid var(--rule);color:var(--ink)}
+.chip[aria-pressed="true"],.seg button[aria-pressed="true"]{background:var(--ink)!important;color:#fff!important;border-color:var(--ink)!important}
+.seg button{border-radius:6px!important;font:600 15px var(--body)!important;border:1.5px solid var(--rule)!important;background:var(--surface)!important}
+.inp{border-radius:var(--r)!important;border:1.5px solid var(--rule)!important;font:500 17px var(--body)!important}
+.inp:focus{outline:2.5px solid var(--sun);outline-offset:1px;border-color:var(--ink)!important}
+:focus-visible{outline:2.5px solid var(--sun)!important;outline-offset:2px}
+/* the one bold thing: a night-sky header with hand-drawn stars, eyes and spirals (from the founder's SCI cards) */
+header.top{background:var(--night)!important;color:#fff}
+header.top .hello b,header.top .hello,header.top h1,header.top .greet{color:#fff!important}
+header.top .muted,header.top .xs{color:#C9CEF0!important}
+header.top .iconbtn{background:rgba(255,255,255,.08)!important;border:1.5px solid rgba(255,255,255,.25)!important;box-shadow:none!important;color:#fff!important}
+header.top::after{content:"";position:absolute;inset:0;pointer-events:none;opacity:.45;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='90' viewBox='0 0 220 90' fill='none' stroke='%23E8A317' stroke-width='1.6' stroke-linecap='round'%3E%3Cpath d='M20 18l3 7 7 1-6 4 2 7-6-4-6 4 2-7-6-4 7-1z'/%3E%3Cpath d='M150 60c8-6 20-6 26 0-6 6-18 6-26 0z' stroke='%23FFFFFF'/%3E%3Ccircle cx='163' cy='60' r='3' stroke='%23FFFFFF'/%3E%3Cpath d='M200 20a6 6 0 1 1-6 6 4 4 0 1 1 4-4' stroke='%23C9CEF0'/%3E%3Ccircle cx='95' cy='14' r='1.6' fill='%23FFFFFF' stroke='none'/%3E%3Ccircle cx='120' cy='34' r='1.2' fill='%23E8A317' stroke='none'/%3E%3Ccircle cx='60' cy='70' r='1.4' fill='%23FFFFFF' stroke='none'/%3E%3C/svg%3E") no-repeat right -40px center/220px 90px}
+header.top{position:sticky;overflow:hidden}
+/* bottom bar: paper with a rule; the current tab is underlined in margin red */
+.nav{background:var(--surface)!important;box-shadow:none!important;border-top:1.5px solid var(--rule)!important;border-radius:0!important}
+.nav button{font:600 13px var(--body)!important;border-radius:0!important;background:transparent!important}
+.nav button[aria-current="page"]{color:var(--margin)!important;box-shadow:inset 0 3px 0 var(--margin)!important}
+/* unit feed */
+.fxdlg{font-family:var(--body)}
+.fxc .fxtxt h1,.fxc .fxtxt h2{font-family:var(--poster);font-weight:400}
+.fxvoice{border-radius:var(--r)!important;box-shadow:none!important;border:1.5px solid var(--rule)}
+.fxtruth{border-left:4px solid var(--margin)!important;background:#FFF8F6!important;border-radius:4px!important}
+.fxtruth h2{font-family:var(--poster)}
+.fxucard{border-radius:var(--r-lg)!important;border:1.5px solid var(--rule)!important}
+.pm,.fxpo{font-family:var(--hand)!important;font-size:17px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+header.top .hello b,header.top .greet{font-family:var(--poster)!important;font-weight:400!important;font-size:22px!important}
+.tcard b,.tcard .tt2,.menurow b,.qtile b{font:700 17px/1.25 var(--body)!important}
+.qtile .qi,.menurow .ic{background:transparent!important;border:1.5px solid var(--ink)!important;color:var(--ink)!important;border-radius:6px!important}
+.qtile .qi .ico,.menurow .ic .ico{stroke:var(--ink)!important}
+
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}</style>
 </head>
@@ -699,9 +757,9 @@ body.ai-locked [data-fx="chat"]::after,body.ai-locked [data-fx="askcard"]::after
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 
-<script>window.DK_BUILD="30845b9702fc44"</script>
-<script src="/config.js?v=30845b9702fc44"></script>
+<script>window.DK_BUILD="cf925a10cefc44"</script>
+<script src="/config.js?v=cf925a10cefc44"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=30845b9702fc44"></script>
+<script src="/platform.js?v=cf925a10cefc44"></script>
 </body>
 </html>
