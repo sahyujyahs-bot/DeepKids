@@ -195,6 +195,7 @@ function itemAction(it, a) {
       refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
       finish: [`data-act="tofinish"`, "Open the list"],
       dkt: [`data-act="chapter" data-k="${it.u?.k}"`, "Open the topic"],
+      mynote: [`data-act="chapter" data-k="${it.mk}"`, "Open your notes"],
     }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"]
   );
 }

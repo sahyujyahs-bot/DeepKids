@@ -3596,6 +3596,58 @@ a.btn {
 .segmain {
   margin-top: 6px;
 }
+/* the home shelf: things stand on wooden shelves, a plank under every row */
+.shelfwall {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 0 6px;
+  padding: 10px 12px 0;
+  border-radius: var(--r-lg);
+  background: repeating-linear-gradient(to bottom, #f6efe2 0 112px, #a7764a 112px 122px) #f6efe2;
+}
+.sthing {
+  height: 122px;
+  padding: 0 0 10px;
+  border: 0;
+  background: 0 0;
+  display: flex;
+  align-items: flex-end;
+}
+.sthing > span {
+  display: block;
+  overflow: hidden;
+  color: #fff;
+  font: 700 11px/1.15 var(--body);
+  border: 1.5px solid #0003;
+  box-shadow: inset -3px 0 #0002;
+}
+.sthing[aria-pressed="true"] > span {
+  outline: 3px solid var(--ink);
+  transform: translateY(-6px);
+}
+.sthing .spine {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  padding: 6px 4px;
+  border-radius: 3px;
+  text-align: center;
+}
+.sthing[aria-pressed="true"] .spine {
+  transform: rotate(180deg) translateY(6px);
+}
+.sthing .gbox {
+  width: 74px;
+  height: 58px;
+  padding: 6px;
+  border-radius: 5px;
+}
+.sthing .kit {
+  width: 54px;
+  height: 46px;
+  padding: 5px;
+  border-radius: 12px;
+}
 /* uploads, three to a row like a photo feed */
 .upgrid {
   display: grid;
@@ -6005,9 +6057,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="87bcf582c73591";window.DK_APPV="87bcf582c7";window.DK_DATAV="3591ffba9f"</script>
-<script src="/config.js?v=87bcf582c73591"></script>
+<script>window.DK_BUILD="4e353c149a3591";window.DK_APPV="4e353c149a";window.DK_DATAV="3591ffba9f"</script>
+<script src="/config.js?v=4e353c149a3591"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=87bcf582c73591"></script>
+<script src="/platform.js?v=4e353c149a3591"></script>
 </body>
 </html>

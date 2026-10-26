@@ -3578,6 +3578,58 @@ a.btn {
 .segmain {
   margin-top: 6px;
 }
+/* the home shelf: things stand on wooden shelves, a plank under every row */
+.shelfwall {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 0 6px;
+  padding: 10px 12px 0;
+  border-radius: var(--r-lg);
+  background: repeating-linear-gradient(to bottom, #f6efe2 0 112px, #a7764a 112px 122px) #f6efe2;
+}
+.sthing {
+  height: 122px;
+  padding: 0 0 10px;
+  border: 0;
+  background: 0 0;
+  display: flex;
+  align-items: flex-end;
+}
+.sthing > span {
+  display: block;
+  overflow: hidden;
+  color: #fff;
+  font: 700 11px/1.15 var(--body);
+  border: 1.5px solid #0003;
+  box-shadow: inset -3px 0 #0002;
+}
+.sthing[aria-pressed="true"] > span {
+  outline: 3px solid var(--ink);
+  transform: translateY(-6px);
+}
+.sthing .spine {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  padding: 6px 4px;
+  border-radius: 3px;
+  text-align: center;
+}
+.sthing[aria-pressed="true"] .spine {
+  transform: rotate(180deg) translateY(6px);
+}
+.sthing .gbox {
+  width: 74px;
+  height: 58px;
+  padding: 6px;
+  border-radius: 5px;
+}
+.sthing .kit {
+  width: 54px;
+  height: 46px;
+  padding: 5px;
+  border-radius: 12px;
+}
 /* uploads, three to a row like a photo feed */
 .upgrid {
   display: grid;

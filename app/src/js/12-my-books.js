@@ -1,4 +1,5 @@
-/* My books: a family's own books and notes (a PDF or photos of pages) become lessons, in the same lesson-pack
+/* Notes and study material: a family's own notes (a PDF or photos of pages) become lessons, each put with the matching
+   lesson of the plan (c.with), in the same lesson-pack
    format as the board chapters, so the chapter page, day steps, worksheets, quick quiz, refresher, progress
    and the plan all work for them. Reading the book uses AI (DeepKids Plus). Kept in S.mine. */
 const MB_MAX_PDF = 10 * 1024 * 1024,
@@ -7,6 +8,8 @@ const MB_MAX_PDF = 10 * 1024 * 1024,
 function myBookItems() {
   return (S.mine?.books || []).flatMap((b) => b.lessons || []);
 }
+// parts of the family's notes that go with a lesson of the plan
+const myNotesFor = (u) => myBookItems().filter((l) => (l.c.with || []).includes(u.k));
 function mbBook(id) {
   return (S.mine?.books || []).find((b) => b.id === id);
 }
@@ -19,8 +22,8 @@ function myBooksTab() {
   const B = S.mine?.books || [],
     f = ui.mbFiles || [],
     subj = ui.mbSubj || S.subjects[0] || "sci";
-  const form = `<section class="card r-you tint"><span class="eyebrow">Add a book or your notes</span>
-    <p class="sm">A PDF (up to 10 MB, a chapter or two at a time is best) or photos of the pages. DeepKids reads it and turns it into lessons with steps, words to know, a worksheet and questions. Those questions join Quick quiz and the refresher.</p>
+  const form = `<section class="card r-you tint"><span class="eyebrow">Add your notes or study material</span>
+    <p class="sm">Your own notes, a study guide, a workbook chapter: a PDF (up to 10 MB) or photos of the pages. DeepKids reads it, puts each part with the matching lesson in your plan, and makes steps, words to know, a worksheet and questions from it. The questions join Quick quiz and the refresher. Books and games you own go on the Home shelf.</p>
     <label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose a PDF or photos<input type="file" id="mbFile" accept="application/pdf,image/*" multiple hidden></label>
     ${
       f.length
@@ -32,7 +35,7 @@ function myBooksTab() {
     <div class="field"><label for="mbLevel">Class</label><select class="inp" id="mbLevel">${[1, 2, 3, 4, 5]
       .map((l) => `<option value="${l}" ${l === (S.levels?.[subj] || 3) ? "selected" : ""}>Class ${l}</option>`)
       .join("")}</select></div></div>
-    <button class="btn" data-act="mbmake" ${ui.mbBusy ? "disabled" : ""}>${ui.mbBusy ? esc(ui.mbBusy) : "Make lessons from it"}</button>`
+    <button class="btn" data-act="mbmake" ${ui.mbBusy ? "disabled" : ""}>${ui.mbBusy ? esc(ui.mbBusy) : "Read it and match it to lessons"}</button>`
         : ""
     }</section>`;
   const list = B.length
@@ -44,16 +47,16 @@ function myBooksTab() {
       ${(b.lessons || [])
         .map(
           (u) =>
-            `<div class="row" style="justify-content:space-between;flex-wrap:nowrap;gap:8px"><button class="plain" data-act="chapter" data-k="${esc(u.k)}" style="text-align:left;min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${u.c.p.days.length} day${u.c.p.days.length === 1 ? "" : "s"} · ${u.c.p.check.length} questions</span></button>${
+            `<div class="row" style="justify-content:space-between;flex-wrap:nowrap;gap:8px"><button class="plain" data-act="chapter" data-k="${esc(u.k)}" style="text-align:left;min-width:0"><b>${esc(u.title)}</b><br>${(u.c.with || []).length ? `<span class="xs">Goes with: ${u.c.with.map((k) => esc(chT(unitByK(k)) || k)).join(", ")}</span><br>` : ""}<span class="xs muted">${u.c.p.days.length} day${u.c.p.days.length === 1 ? "" : "s"} · ${u.c.p.check.length} questions</span></button>${
               (S.extra?.[u.subj] || []).includes(u.k)
                 ? `<span class="xs">✓ In the plan</span>`
                 : `<button class="btn soft sm" data-act="mbplan" data-k="${esc(u.k)}">＋ Plan</button>`
             }</div>`,
         )
         .join("")}
-      <button class="link xs" data-act="mbdel" data-id="${esc(b.id)}" style="justify-self:start">Remove this book</button></section>`,
+      <button class="link xs" data-act="mbdel" data-id="${esc(b.id)}" style="justify-self:start">Remove this</button></section>`,
       ).join("")
-    : `<p class="sm muted">No books yet. Add a textbook chapter, a workbook, or notes you've written, and they'll become lessons here.</p>`;
+    : `<p class="sm muted">Nothing here yet. Add notes you've written, a study guide or a workbook chapter.</p>`;
   return `<section class="sec">${form}${list}</section>`;
 }
 function onMyBookFiles(files) {
@@ -92,11 +95,15 @@ async function myBooksMake() {
   render();
   try {
     const out = await SAMPLE.json(
-      `The attached file is a family's own book or notes for ${who}. List the lessons it holds: one per subtopic, at most ${MB_MAX_LESSONS}, in the book's order. Only use what the book teaches.
-Return JSON only: {"lessons":[{"title":"short, plain","pages":"which pages or part","summary":"2 sentences: what the child learns"}]}`,
+      `The attached file is a family's own notes or study material for ${who}. List the lessons it holds: one per subtopic, at most ${MB_MAX_LESSONS}, in its order. Only use what it teaches.
+For each, "with" lists the keys of the lessons below that it belongs with (the same topic), or [] if none fit. Only tag ones that truly fit.
+Lessons planned for this child (key = label):
+${invContext()}
+Return JSON only: {"lessons":[{"title":"short, plain","pages":"which pages or part","summary":"2 sentences: what the child learns","with":["key"]}]}`,
       opts,
     );
-    const L = (out?.lessons || []).slice(0, MB_MAX_LESSONS).filter((x) => x?.title);
+    const L = (out?.lessons || []).slice(0, MB_MAX_LESSONS).filter((x) => x?.title),
+      valid = new Set([...allUnits(), ...everyUnit()].map((u) => u.k));
     if (!L.length) throw new Error("no lessons");
     for (let i = 0; i < L.length; i++) {
       ui.mbBusy = `Writing lesson ${i + 1} of ${L.length}…`;
@@ -123,6 +130,7 @@ Return JSON only: {"lessons":[{"title":"short, plain","pages":"which pages or pa
           links: [],
           unit: title,
           p: pack,
+          with: (Array.isArray(L[i].with) ? L[i].with : []).filter((k) => valid.has(k)).slice(0, 3),
         },
       });
       mbSaved();

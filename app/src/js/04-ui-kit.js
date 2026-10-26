@@ -311,6 +311,7 @@ const KICO = {
   event: "event",
   todo: "prep",
   shelf: "read",
+  mynote: "read",
   refresh: "game",
   plan: "week",
 };

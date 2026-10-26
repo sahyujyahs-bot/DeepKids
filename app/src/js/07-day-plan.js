@@ -460,24 +460,32 @@ function buildDayPlan(date) {
             : ""),
       done: !!l.done,
     });
-    // a book, game or kit from the home shelf that goes with this lesson, on its days until it's ticked once
-    if (!l.done)
+    // a book, game or kit from the home shelf, and the family's own notes, that go with this lesson: on its days
+    // until each is ticked once
+    if (!l.done) {
+      const add = (id, dur, x) =>
+        Object.keys(S.tl).some((k) => k.endsWith("|" + id) && k.slice(0, 10) < date) ||
+        items.push({ id, at: place(dur), dur, who: "both", done: !!S.tl[date + "|" + id], ...x });
       shelfFor(l.u)
         .slice(0, 2)
-        .forEach((it) => {
-          const id = "shelf-" + it.id + "-" + l.u.k;
-          if (Object.keys(S.tl).some((k) => k.endsWith("|" + id) && k.slice(0, 10) < date)) return;
-          items.push({
-            id,
-            at: place(15),
-            dur: 15,
-            who: "both",
+        .forEach((it) =>
+          add("shelf-" + it.id + "-" + l.u.k, 15, {
             kind: "shelf",
             title: (SHELFDO[it.cat] || "Use") + ": " + it.name,
             sub: "From your home shelf · goes with " + l.u.title,
-            done: !!S.tl[date + "|" + id],
-          });
-        });
+          }),
+        );
+      myNotesFor(l.u)
+        .slice(0, 2)
+        .forEach((m) =>
+          add("note-" + m.k + "-" + l.u.k, 20, {
+            kind: "mynote",
+            mk: m.k,
+            title: "From your notes: " + m.title,
+            sub: "Goes with " + l.u.title,
+          }),
+        );
+    }
   });
   if (lessons.some((l) => !l.bonus) && plusOn() && S.subjects.includes("sci") && dkMinsOf() > 0) {
     const pk = dkPick(date, lessons);

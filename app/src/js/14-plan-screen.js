@@ -1210,7 +1210,7 @@ function planPart(k) {
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Settings)
   if (k === "tell")
-    return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div>`;
+    return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
   if (k === "cal")
     return `<section class="sec"><div class="seg">${Object.entries(PV)
       .map(([kk, nm]) => `<button aria-pressed="${v === kk}" data-act="pv" data-v="${kk}">${nm}</button>`)

@@ -55,6 +55,13 @@ function startOnboarding(step) {
   render();
 }
 const obCls = (d) => d.cls || Math.min(5, Math.max(1, d.age - 5));
+// which account the family is signed in with on the website, and a way to switch (each account has its own plan)
+function acctLine() {
+  const e = window.DK_PLATFORM?.user?.()?.email;
+  return e
+    ? `<p class="xs muted">Signed in as <b>${esc(e)}</b> · <button class="link xs" data-act="signout">Use a different account</button></p>`
+    : "";
+}
 // Set-up, one screen per step: 0 who, 1 track, 2 subjects, 3 level per subject, 4 the week, 5 the year at a glance
 function viewOnboarding() {
   const d = ob.d,
@@ -63,7 +70,7 @@ function viewOnboarding() {
   d.picked = d.picked || {};
   if (ob.quiz) return fxObQuiz();
   if (s === 0)
-    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/track-deepkids.jpg" alt=""><h1>Let's plan a year of learning at home</h1><div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
+    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/track-deepkids.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
   if (s === 1) {
     const isB = ["ncert", "cambridge", "nios"].includes(d.board);
     return `<div class="ob">${fxObBar(1)}<h1>Which track?</h1><p class="muted">You can change this later. Every level and every chapter stays open to browse and add, whichever you pick.</p><div class="choices">

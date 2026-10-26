@@ -492,6 +492,7 @@ const KICO = {
   event: "event",
   todo: "prep",
   shelf: "read",
+  mynote: "read",
   refresh: "game",
   plan: "week",
 };
@@ -1857,24 +1858,32 @@ function buildDayPlan(date) {
             : ""),
       done: !!l.done,
     });
-    // a book, game or kit from the home shelf that goes with this lesson, on its days until it's ticked once
-    if (!l.done)
+    // a book, game or kit from the home shelf, and the family's own notes, that go with this lesson: on its days
+    // until each is ticked once
+    if (!l.done) {
+      const add = (id, dur, x) =>
+        Object.keys(S.tl).some((k) => k.endsWith("|" + id) && k.slice(0, 10) < date) ||
+        items.push({ id, at: place(dur), dur, who: "both", done: !!S.tl[date + "|" + id], ...x });
       shelfFor(l.u)
         .slice(0, 2)
-        .forEach((it) => {
-          const id = "shelf-" + it.id + "-" + l.u.k;
-          if (Object.keys(S.tl).some((k) => k.endsWith("|" + id) && k.slice(0, 10) < date)) return;
-          items.push({
-            id,
-            at: place(15),
-            dur: 15,
-            who: "both",
+        .forEach((it) =>
+          add("shelf-" + it.id + "-" + l.u.k, 15, {
             kind: "shelf",
             title: (SHELFDO[it.cat] || "Use") + ": " + it.name,
             sub: "From your home shelf · goes with " + l.u.title,
-            done: !!S.tl[date + "|" + id],
-          });
-        });
+          }),
+        );
+      myNotesFor(l.u)
+        .slice(0, 2)
+        .forEach((m) =>
+          add("note-" + m.k + "-" + l.u.k, 20, {
+            kind: "mynote",
+            mk: m.k,
+            title: "From your notes: " + m.title,
+            sub: "Goes with " + l.u.title,
+          }),
+        );
+    }
   });
   if (lessons.some((l) => !l.bonus) && plusOn() && S.subjects.includes("sci") && dkMinsOf() > 0) {
     const pk = dkPick(date, lessons);
@@ -7966,7 +7975,11 @@ const LIBT = [
     "Home shelf",
     "Books, games and kits you have at home. Each goes into the plan on the day of the lesson it fits",
   ],
-  ["mine", "My books", "Your own books and notes, turned into lessons, quizzes and refreshers"],
+  [
+    "mine",
+    "Notes and study material",
+    "Your own notes and study material, put with the matching lessons, with quizzes and refreshers",
+  ],
   ["suggest", "Worth buying", "Books, games and kits picked for your child's age and syllabus"],
   ["read", "Read", "Books and stories to read together"],
   ["watch", "Watch", "Videos and shows worth watching"],
@@ -8099,6 +8112,16 @@ Message:
   }
   D_.busy = false;
   render();
+}
+// one thing on the shelf: a book stands as a spine, a game is a box, anything else a small block
+function shelfThing(i) {
+  const h = [...i.name].reduce((a, c) => a + c.charCodeAt(0), 0),
+    col = ["var(--tang)", "var(--aqua)", "var(--peri)", "var(--sun)", "var(--forest)", "var(--sky)", "var(--soil)"][
+      h % 7
+    ],
+    cls = i.cat === "book" ? "spine" : i.cat === "game" ? "gbox" : "kit",
+    size = i.cat === "book" ? `height:${78 + (h % 26)}px;width:${26 + (h % 12)}px` : "";
+  return `<button class="sthing" data-act="invsel" data-i="${esc(i.id)}" aria-pressed="${ui.invSel === i.id}" title="${esc(i.name)}"><span class="${cls}" style="background:${col};${size}">${esc(i.name)}</span></button>`;
 }
 function invItem(i) {
   // the planned lessons it goes into
@@ -8734,14 +8757,8 @@ function viewLibrary() {
     PREP_KW.forEach((k) => {
       if (doneTasks.some((x) => x.toLowerCase().includes(k.toLowerCase())) && !seen.has(k.toLowerCase())) kw.add(k);
     });
-    h += `<section class="sec">${invCard()}${Object.keys(CATS)
-      .map((c) => {
-        const L = inv.filter((i) => i.cat === c);
-        return L.length
-          ? `<div class="card" style="gap:0"><div class="sech"><h3 style="font-size:18px">${CATS[c]}</h3><span class="pill">${L.length}</span></div>${L.map(invItem).join("")}</div>`
-          : "";
-      })
-      .join("")}
+    const sel = inv.find((i) => i.id === ui.invSel);
+    h += `<section class="sec">${invCard()}${inv.length ? `<div class="shelfwall">${["book", "game", "electronics", "equipment", "tool", "other"].flatMap((c) => inv.filter((i) => (CATS[i.cat] ? i.cat : "other") === c).map(shelfThing)).join("")}</div><p class="xs muted">Tap one to see which lessons it goes with.</p>${sel ? `<div class="card">${invItem(sel)}</div>` : ""}` : ""}
      ${kw.size ? `<div class="card r-you tint"><span class="eyebrow">From your lesson prep</span><p class="sm">You gathered these for lessons. Add them to your home shelf?</p><div class="row">${[...kw].map((k) => `<button class="chip" data-act="invadd" data-n="${esc(k)}" data-c="equipment">${icon("plus")}${esc(k)}</button>`).join("")}</div></div>` : ""}
      <details class="card"><summary class="link" style="cursor:pointer">Add one thing by hand</summary><div class="row" style="flex-wrap:nowrap;margin-top:10px"><input class="inp" id="invName" maxlength="60" placeholder="Add something you have"><select class="inp" id="invCat" style="width:auto">${Object.entries(
        CATS,
@@ -8788,7 +8805,8 @@ function viewLibrary() {
   return h;
 }
 
-/* My books: a family's own books and notes (a PDF or photos of pages) become lessons, in the same lesson-pack
+/* Notes and study material: a family's own notes (a PDF or photos of pages) become lessons, each put with the matching
+   lesson of the plan (c.with), in the same lesson-pack
    format as the board chapters, so the chapter page, day steps, worksheets, quick quiz, refresher, progress
    and the plan all work for them. Reading the book uses AI (DeepKids Plus). Kept in S.mine. */
 const MB_MAX_PDF = 10 * 1024 * 1024,
@@ -8797,6 +8815,8 @@ const MB_MAX_PDF = 10 * 1024 * 1024,
 function myBookItems() {
   return (S.mine?.books || []).flatMap((b) => b.lessons || []);
 }
+// parts of the family's notes that go with a lesson of the plan
+const myNotesFor = (u) => myBookItems().filter((l) => (l.c.with || []).includes(u.k));
 function mbBook(id) {
   return (S.mine?.books || []).find((b) => b.id === id);
 }
@@ -8809,8 +8829,8 @@ function myBooksTab() {
   const B = S.mine?.books || [],
     f = ui.mbFiles || [],
     subj = ui.mbSubj || S.subjects[0] || "sci";
-  const form = `<section class="card r-you tint"><span class="eyebrow">Add a book or your notes</span>
-    <p class="sm">A PDF (up to 10 MB, a chapter or two at a time is best) or photos of the pages. DeepKids reads it and turns it into lessons with steps, words to know, a worksheet and questions. Those questions join Quick quiz and the refresher.</p>
+  const form = `<section class="card r-you tint"><span class="eyebrow">Add your notes or study material</span>
+    <p class="sm">Your own notes, a study guide, a workbook chapter: a PDF (up to 10 MB) or photos of the pages. DeepKids reads it, puts each part with the matching lesson in your plan, and makes steps, words to know, a worksheet and questions from it. The questions join Quick quiz and the refresher. Books and games you own go on the Home shelf.</p>
     <label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose a PDF or photos<input type="file" id="mbFile" accept="application/pdf,image/*" multiple hidden></label>
     ${
       f.length
@@ -8822,7 +8842,7 @@ function myBooksTab() {
     <div class="field"><label for="mbLevel">Class</label><select class="inp" id="mbLevel">${[1, 2, 3, 4, 5]
       .map((l) => `<option value="${l}" ${l === (S.levels?.[subj] || 3) ? "selected" : ""}>Class ${l}</option>`)
       .join("")}</select></div></div>
-    <button class="btn" data-act="mbmake" ${ui.mbBusy ? "disabled" : ""}>${ui.mbBusy ? esc(ui.mbBusy) : "Make lessons from it"}</button>`
+    <button class="btn" data-act="mbmake" ${ui.mbBusy ? "disabled" : ""}>${ui.mbBusy ? esc(ui.mbBusy) : "Read it and match it to lessons"}</button>`
         : ""
     }</section>`;
   const list = B.length
@@ -8834,16 +8854,16 @@ function myBooksTab() {
       ${(b.lessons || [])
         .map(
           (u) =>
-            `<div class="row" style="justify-content:space-between;flex-wrap:nowrap;gap:8px"><button class="plain" data-act="chapter" data-k="${esc(u.k)}" style="text-align:left;min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${u.c.p.days.length} day${u.c.p.days.length === 1 ? "" : "s"} · ${u.c.p.check.length} questions</span></button>${
+            `<div class="row" style="justify-content:space-between;flex-wrap:nowrap;gap:8px"><button class="plain" data-act="chapter" data-k="${esc(u.k)}" style="text-align:left;min-width:0"><b>${esc(u.title)}</b><br>${(u.c.with || []).length ? `<span class="xs">Goes with: ${u.c.with.map((k) => esc(chT(unitByK(k)) || k)).join(", ")}</span><br>` : ""}<span class="xs muted">${u.c.p.days.length} day${u.c.p.days.length === 1 ? "" : "s"} · ${u.c.p.check.length} questions</span></button>${
               (S.extra?.[u.subj] || []).includes(u.k)
                 ? `<span class="xs">✓ In the plan</span>`
                 : `<button class="btn soft sm" data-act="mbplan" data-k="${esc(u.k)}">＋ Plan</button>`
             }</div>`,
         )
         .join("")}
-      <button class="link xs" data-act="mbdel" data-id="${esc(b.id)}" style="justify-self:start">Remove this book</button></section>`,
+      <button class="link xs" data-act="mbdel" data-id="${esc(b.id)}" style="justify-self:start">Remove this</button></section>`,
       ).join("")
-    : `<p class="sm muted">No books yet. Add a textbook chapter, a workbook, or notes you've written, and they'll become lessons here.</p>`;
+    : `<p class="sm muted">Nothing here yet. Add notes you've written, a study guide or a workbook chapter.</p>`;
   return `<section class="sec">${form}${list}</section>`;
 }
 function onMyBookFiles(files) {
@@ -8882,11 +8902,15 @@ async function myBooksMake() {
   render();
   try {
     const out = await SAMPLE.json(
-      `The attached file is a family's own book or notes for ${who}. List the lessons it holds: one per subtopic, at most ${MB_MAX_LESSONS}, in the book's order. Only use what the book teaches.
-Return JSON only: {"lessons":[{"title":"short, plain","pages":"which pages or part","summary":"2 sentences: what the child learns"}]}`,
+      `The attached file is a family's own notes or study material for ${who}. List the lessons it holds: one per subtopic, at most ${MB_MAX_LESSONS}, in its order. Only use what it teaches.
+For each, "with" lists the keys of the lessons below that it belongs with (the same topic), or [] if none fit. Only tag ones that truly fit.
+Lessons planned for this child (key = label):
+${invContext()}
+Return JSON only: {"lessons":[{"title":"short, plain","pages":"which pages or part","summary":"2 sentences: what the child learns","with":["key"]}]}`,
       opts,
     );
-    const L = (out?.lessons || []).slice(0, MB_MAX_LESSONS).filter((x) => x?.title);
+    const L = (out?.lessons || []).slice(0, MB_MAX_LESSONS).filter((x) => x?.title),
+      valid = new Set([...allUnits(), ...everyUnit()].map((u) => u.k));
     if (!L.length) throw new Error("no lessons");
     for (let i = 0; i < L.length; i++) {
       ui.mbBusy = `Writing lesson ${i + 1} of ${L.length}…`;
@@ -8913,6 +8937,7 @@ Return JSON only: {"lessons":[{"title":"short, plain","pages":"which pages or pa
           links: [],
           unit: title,
           p: pack,
+          with: (Array.isArray(L[i].with) ? L[i].with : []).filter((k) => valid.has(k)).slice(0, 3),
         },
       });
       mbSaved();
@@ -9227,6 +9252,7 @@ function itemAction(it, a) {
       refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
       finish: [`data-act="tofinish"`, "Open the list"],
       dkt: [`data-act="chapter" data-k="${it.u?.k}"`, "Open the topic"],
+      mynote: [`data-act="chapter" data-k="${it.mk}"`, "Open your notes"],
     }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"]
   );
 }
@@ -10692,7 +10718,7 @@ function planPart(k) {
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Settings)
   if (k === "tell")
-    return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div>`;
+    return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
   if (k === "cal")
     return `<section class="sec"><div class="seg">${Object.entries(PV)
       .map(([kk, nm]) => `<button aria-pressed="${v === kk}" data-act="pv" data-v="${kk}">${nm}</button>`)
@@ -12873,6 +12899,13 @@ function startOnboarding(step) {
   render();
 }
 const obCls = (d) => d.cls || Math.min(5, Math.max(1, d.age - 5));
+// which account the family is signed in with on the website, and a way to switch (each account has its own plan)
+function acctLine() {
+  const e = window.DK_PLATFORM?.user?.()?.email;
+  return e
+    ? `<p class="xs muted">Signed in as <b>${esc(e)}</b> · <button class="link xs" data-act="signout">Use a different account</button></p>`
+    : "";
+}
 // Set-up, one screen per step: 0 who, 1 track, 2 subjects, 3 level per subject, 4 the week, 5 the year at a glance
 function viewOnboarding() {
   const d = ob.d,
@@ -12881,7 +12914,7 @@ function viewOnboarding() {
   d.picked = d.picked || {};
   if (ob.quiz) return fxObQuiz();
   if (s === 0)
-    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/track-deepkids.jpg" alt=""><h1>Let's plan a year of learning at home</h1><div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
+    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/track-deepkids.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
   if (s === 1) {
     const isB = ["ncert", "cambridge", "nios"].includes(d.board);
     return `<div class="ob">${fxObBar(1)}<h1>Which track?</h1><p class="muted">You can change this later. Every level and every chapter stays open to browse and add, whichever you pick.</p><div class="choices">
@@ -16693,6 +16726,16 @@ function onAct(e) {
       sfx("ok");
       commit();
       clearIn("invName");
+      break;
+    }
+    case "signout": {
+      window.DK_PLATFORM?.signOut?.();
+      break;
+    }
+    case "invsel": {
+      ui.invSel = ui.invSel === b.dataset.i ? null : b.dataset.i;
+      sfx("tap");
+      render();
       break;
     }
     case "invdel": {

@@ -140,7 +140,11 @@ const LIBT = [
     "Home shelf",
     "Books, games and kits you have at home. Each goes into the plan on the day of the lesson it fits",
   ],
-  ["mine", "My books", "Your own books and notes, turned into lessons, quizzes and refreshers"],
+  [
+    "mine",
+    "Notes and study material",
+    "Your own notes and study material, put with the matching lessons, with quizzes and refreshers",
+  ],
   ["suggest", "Worth buying", "Books, games and kits picked for your child's age and syllabus"],
   ["read", "Read", "Books and stories to read together"],
   ["watch", "Watch", "Videos and shows worth watching"],
@@ -273,6 +277,16 @@ Message:
   }
   D_.busy = false;
   render();
+}
+// one thing on the shelf: a book stands as a spine, a game is a box, anything else a small block
+function shelfThing(i) {
+  const h = [...i.name].reduce((a, c) => a + c.charCodeAt(0), 0),
+    col = ["var(--tang)", "var(--aqua)", "var(--peri)", "var(--sun)", "var(--forest)", "var(--sky)", "var(--soil)"][
+      h % 7
+    ],
+    cls = i.cat === "book" ? "spine" : i.cat === "game" ? "gbox" : "kit",
+    size = i.cat === "book" ? `height:${78 + (h % 26)}px;width:${26 + (h % 12)}px` : "";
+  return `<button class="sthing" data-act="invsel" data-i="${esc(i.id)}" aria-pressed="${ui.invSel === i.id}" title="${esc(i.name)}"><span class="${cls}" style="background:${col};${size}">${esc(i.name)}</span></button>`;
 }
 function invItem(i) {
   // the planned lessons it goes into
@@ -908,14 +922,8 @@ function viewLibrary() {
     PREP_KW.forEach((k) => {
       if (doneTasks.some((x) => x.toLowerCase().includes(k.toLowerCase())) && !seen.has(k.toLowerCase())) kw.add(k);
     });
-    h += `<section class="sec">${invCard()}${Object.keys(CATS)
-      .map((c) => {
-        const L = inv.filter((i) => i.cat === c);
-        return L.length
-          ? `<div class="card" style="gap:0"><div class="sech"><h3 style="font-size:18px">${CATS[c]}</h3><span class="pill">${L.length}</span></div>${L.map(invItem).join("")}</div>`
-          : "";
-      })
-      .join("")}
+    const sel = inv.find((i) => i.id === ui.invSel);
+    h += `<section class="sec">${invCard()}${inv.length ? `<div class="shelfwall">${["book", "game", "electronics", "equipment", "tool", "other"].flatMap((c) => inv.filter((i) => (CATS[i.cat] ? i.cat : "other") === c).map(shelfThing)).join("")}</div><p class="xs muted">Tap one to see which lessons it goes with.</p>${sel ? `<div class="card">${invItem(sel)}</div>` : ""}` : ""}
      ${kw.size ? `<div class="card r-you tint"><span class="eyebrow">From your lesson prep</span><p class="sm">You gathered these for lessons. Add them to your home shelf?</p><div class="row">${[...kw].map((k) => `<button class="chip" data-act="invadd" data-n="${esc(k)}" data-c="equipment">${icon("plus")}${esc(k)}</button>`).join("")}</div></div>` : ""}
      <details class="card"><summary class="link" style="cursor:pointer">Add one thing by hand</summary><div class="row" style="flex-wrap:nowrap;margin-top:10px"><input class="inp" id="invName" maxlength="60" placeholder="Add something you have"><select class="inp" id="invCat" style="width:auto">${Object.entries(
        CATS,

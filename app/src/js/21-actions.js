@@ -2044,6 +2044,16 @@ function onAct(e) {
       clearIn("invName");
       break;
     }
+    case "signout": {
+      window.DK_PLATFORM?.signOut?.();
+      break;
+    }
+    case "invsel": {
+      ui.invSel = ui.invSel === b.dataset.i ? null : b.dataset.i;
+      sfx("tap");
+      render();
+      break;
+    }
     case "invdel": {
       S.inv = (S.inv || []).filter((i) => i.id !== b.dataset.i);
       sfx("flip");
