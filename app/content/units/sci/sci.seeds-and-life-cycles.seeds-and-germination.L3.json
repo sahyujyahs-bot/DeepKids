@@ -1,0 +1,3621 @@
+{
+ "id": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+ "title": "Seeds and how they sprout: what wakes a seed, and what is inside",
+ "level": 3,
+ "summary": {
+  "text": "This unit is about seeds and how they sprout. A seed is a baby plant packed in a coat, with its own lunch box of food. A dry seed is alive, but asleep. It wakes up when it gets three things: water, warmth and air. Most seeds do not need light or soil to start. Your child opens a soaked bean to find the baby plant inside. They run a fair test to find out what wakes a seed. They feel sprouting seeds make warmth, because they breathe. Then they follow the idea out: seeds that slept for two thousand years, roots that know which way is down, and seeds that sprouted on the Moon.",
+  "art": "A soaked rajma bean split open on a child's palm, showing the tiny baby plant tucked at one edge, with three small symbols floating above it: a water drop, a little sun for warmth and a swirl of air."
+ },
+ "intro": {
+  "hook": "Here is a puzzle. Hold a dry moong seed in your hand. It does not move. It does not eat. It does not grow. Is it alive or not? How could you find out?",
+  "text": "Look in your kitchen. There are jars full of seeds: moong, chana, rajma, rice, rai and jeera. They can sit in a jar for a whole year and never change. But put a few moong seeds on a wet cloth tonight. By the day after tomorrow, each one will have a little white tail. What changed? What was the seed waiting for? This unit is about finding out.",
+  "art": "A row of steel kitchen jars full of dal and seeds, and in front of them a wet cloth with moong seeds that have grown little white tails."
+ },
+ "outcomes": [
+  "I can name the parts of a seed: the seed coat, the baby plant and its food store.",
+  "I can say what a seed needs to sprout: water, warmth and air. I can say that most seeds do not need light or soil to start.",
+  "I can run a fair test with seeds, changing only one thing, and count how many seeds sprout.",
+  "I can show my results in a table and a bar chart, and work out how long sprouting took.",
+  "I can explain that a sprouting seed breathes, uses up its stored food and makes a little warmth.",
+  "I can describe how a seed sprouts: it drinks and swells, the root comes out first and grows down, and then the shoot grows up.",
+  "I can say what scientists agree on about seeds, and what they still do not know, such as how long a seed can stay alive."
+ ],
+ "cards_mins": 20,
+ "terms": [
+  {
+   "term": "Seed",
+   "meaning": "A baby plant packed inside a coat, with a store of food to start it off. Flowering plants make seeds so new plants can grow.",
+   "example": "Moong, chana, rajma, rice grains, rai and the stone inside a mango are all seeds.",
+   "art": "A line of seeds from a tiny rai grain to a big mango stone."
+  },
+  {
+   "term": "Seed coat",
+   "meaning": "The tough outer skin of a seed. It keeps the baby plant safe and dry until it is time to grow.",
+   "example": "The green skin on a whole moong seed is its seed coat.",
+   "art": "A moong seed with its green coat peeling off to show the yellow inside."
+  },
+  {
+   "term": "Baby plant (embryo)",
+   "meaning": "The tiny living plant inside a seed. It already has a little root and a little shoot. Scientists call it the embryo.",
+   "example": "Split a soaked peanut. The small pointed bit at one end is the baby plant.",
+   "art": "A split peanut with the tiny baby plant at its tip circled and magnified."
+  },
+  {
+   "term": "Food store",
+   "meaning": "The part of a seed that holds food for the baby plant. The baby plant lives on it until its first green leaves can make food from sunlight.",
+   "example": "The two big halves of a chana are its food store. That is also why chana feeds us.",
+   "art": "A chana split in two, the halves drawn as a lunch box with the baby plant sitting between them."
+  },
+  {
+   "term": "Seed leaves (cotyledons)",
+   "meaning": "The first leaves of a baby plant, already inside the seed. In beans and chana, they are thick and full of food. Scientists call them cotyledons.",
+   "example": "When a bean sprouts, its two fat seed halves lift out of the soil and turn green. Those are its seed leaves.",
+   "art": "A bean seedling with two fat round seed leaves and two thin true leaves above them."
+  },
+  {
+   "term": "Germination",
+   "meaning": "A seed waking up and starting to grow. It is the scientists' word for sprouting.",
+   "example": "Moong left on a wet cloth for two days germinates. Each seed grows a little white root.",
+   "art": "Moong seeds on a cloth, day 0, day 1 and day 2, with the tails growing longer."
+  },
+  {
+   "term": "Sprout",
+   "meaning": "A seed that has just started to grow, or the little root and shoot that come out of it.",
+   "example": "Moong sprouts in a salad, or in usal for breakfast.",
+   "art": "A bowl of moong sprouts with white tails."
+  },
+  {
+   "term": "Dormant",
+   "meaning": "Asleep but alive. A dormant seed is waiting, using almost no energy, until the conditions are right.",
+   "example": "Rajma in a dry jar is dormant. It can wait for a year or more.",
+   "art": "A seed in a jar wearing a tiny sleeping cap."
+  },
+  {
+   "term": "Root",
+   "meaning": "The part of a plant that grows down into the soil. It holds the plant in place and drinks water. It is the first thing to come out of a sprouting seed.",
+   "example": "The white tail on a moong sprout is its first root.",
+   "art": "A sprouted chana with a white root curving downwards."
+  },
+  {
+   "term": "Shoot",
+   "meaning": "The part of a young plant that grows up towards the light. It becomes the stem and leaves.",
+   "example": "After the root, a green shoot comes out of a bean and grows upwards.",
+   "art": "A bean with its root going down and a hooked green shoot going up."
+  },
+  {
+   "term": "Swell",
+   "meaning": "To get bigger by soaking up water. Seeds swell when they are soaked.",
+   "example": "A cup of dry chana, soaked overnight, swells to fill about two cups.",
+   "art": "A small cup of dry chana beside a bigger cup of fat soaked chana."
+  },
+  {
+   "term": "Oxygen",
+   "meaning": "A gas in the air that living things need. Animals and plants use it to get energy from their food. Seeds need it too.",
+   "example": "You breathe in oxygen all day. A sprouting seed takes in oxygen too, very quietly.",
+   "art": "Tiny bubbles of air around a sprouting seed, one labelled 'oxygen'."
+  },
+  {
+   "term": "Breathing (respiration)",
+   "meaning": "How living things use oxygen to get energy from food. It makes a little warmth, and it gives out a gas called carbon dioxide. Scientists call it respiration.",
+   "example": "A heap of sprouting seeds gets warm because millions of tiny cells are breathing.",
+   "art": "A cloth bundle of sprouts with gentle warm squiggles rising from it."
+  },
+  {
+   "term": "Starch",
+   "meaning": "A kind of stored food made by plants. It is what makes rice, wheat and potatoes filling.",
+   "example": "Most of a rice grain is starch. The baby rice plant uses it to start growing.",
+   "art": "A rice grain cut open, its white inside labelled 'starch'."
+  },
+  {
+   "term": "Enzyme",
+   "meaning": "A helper made by living cells that speeds up a change. Some enzymes turn starch into sugar.",
+   "example": "Sprouted grains taste a little sweet, because enzymes have turned some starch into sugar.",
+   "art": "Tiny scissors cutting a long chain of beads into single beads, labelled 'starch into sugar'."
+  },
+  {
+   "term": "Fair test",
+   "meaning": "A test where you change only one thing and keep everything else the same. Then you know what made the difference.",
+   "example": "To test if seeds need water, give one cup water and one cup none. Keep the cups in the same place, with the same seeds.",
+   "art": "Two identical cups side by side, one with a water drop symbol and one with a crossed-out drop."
+  },
+  {
+   "term": "Gravity",
+   "meaning": "The pull that makes things fall towards the Earth.",
+   "example": "Gravity pulls a dropped ball down. A root grows the way gravity pulls.",
+   "art": "A falling ball and a downward-curving root, each with an arrow pointing down."
+  },
+  {
+   "term": "Seed bank",
+   "meaning": "A safe store of many kinds of seeds, kept dry and cold so they stay alive for many years.",
+   "example": "Farmers in Maharashtra and the big seed vault in Norway both keep seed banks.",
+   "art": "Shelves of labelled seed packets in a cool room."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What a seed is",
+   "status": "defined",
+   "definition": "A seed is a baby plant inside a protective coat, packed with a store of food. It is made by a flowering plant, or by a cone-bearing tree like a pine.",
+   "description": "Every seed has three main parts. The seed coat is the tough skin on the outside. Inside it is the baby plant, which scientists call the embryo. It already has a tiny root and a tiny shoot. The rest of the seed is the food store. It feeds the baby plant until its first green leaves can make food from sunlight. So a seed is like a sleeping traveller with a coat and a packed lunch.",
+   "examples": [
+    "A soaked rajma bean: peel off the red coat, open the two halves, and find the tiny baby plant at one edge.",
+    "A peanut: the little pointed tip between the two halves is the baby plant.",
+    "A mango stone: the hard shell is the fruit's stone, and the seed with its coat is inside it."
+   ],
+   "perspectives": [],
+   "art": "A big labelled drawing of a split bean: the seed coat peeling away, the two fat halves of the food store, and the tiny baby plant with its root and two small folded leaves.",
+   "context": "This card explains the main idea of the first half of the unit: what a seed is, and its three parts."
+  },
+  {
+   "concept": "Two kinds of food store: beans and grains",
+   "status": "defined",
+   "definition": "In beans, chana and peanuts, the food is stored inside two thick seed leaves. In rice, wheat and maize, the food is stored in a separate part around the baby plant, and there is only one thin seed leaf.",
+   "description": "Seed leaves are the first leaves of the baby plant, already inside the seed. Scientists call them cotyledons. A bean has two seed leaves. They are fat and full of food, so a bean splits neatly into two halves. A grain of rice or maize has only one thin seed leaf. Its food is kept in a separate store beside the baby plant. Scientists call that store the endosperm. When you eat a chapati or a bowl of rice, you are mostly eating the food a grain packed for its baby plant.",
+   "examples": [
+    "Chana and moong split into two halves. They have two seed leaves.",
+    "A soaked maize kernel does not split in two. Its baby plant is a small pale patch on one side.",
+    "Popcorn pops because water in the starchy food store turns to steam and bursts it open."
+   ],
+   "perspectives": [],
+   "art": "Side by side: a split chana showing two halves with the baby plant between, and a maize kernel cut open showing one pale baby plant beside a big white food store.",
+   "context": "Not every seed is built the same way. This card compares the seeds of beans with the seeds of grains like rice and maize."
+  },
+  {
+   "concept": "What wakes a seed: water, warmth and air",
+   "status": "defined",
+   "definition": "Germination is a seed waking up and starting to grow. Most seeds need three things to germinate: water, warmth and air.",
+   "description": "Water comes first. It softens the coat and wakes the cells inside. Warmth matters because the changes inside a seed happen faster when it is warm, and very slowly when it is cold. Air matters because the seed must breathe in oxygen, a gas in the air, to get energy from its food. Take away any one of the three, and most seeds stay asleep or die. In the four-cup test, a dry cup, a cold cup and a cup drowned under water all do badly. The damp, warm cup sprouts. The chart shows typical made-up results.",
+   "examples": [
+    "Moong in a dry jar never sprouts. Moong on a wet cloth sprouts in a day or two.",
+    "Moong on a wet cloth in the fridge sprouts very slowly, or not at all, until it is warmed up.",
+    "Moong covered with boiled and cooled water, under a layer of oil, gets almost no air. Very few sprout."
+   ],
+   "perspectives": [],
+   "art": "Four cups in a row: a dry cup with sleeping seeds, a damp warm cup with sprouts, a damp cup with frost and a snowflake, and a cup full of water with a layer of oil on top and seeds lying still at the bottom.",
+   "context": "This card answers the big question of the unit: what does a seed need to wake up? It uses results from the four-cup test.",
+   "how": "e1",
+   "chart": {
+    "type": "bar",
+    "title": "Made-up example: how many of 10 moong seeds sprouted in 3 days",
+    "x": "Cup",
+    "y": "Seeds sprouted (out of 10)",
+    "note": "These numbers are made up, to show what typical results look like. Your numbers will be different.",
+    "data": [
+     {
+      "label": "Dry",
+      "value": 0,
+      "emoji": "🏜️"
+     },
+     {
+      "label": "Damp and warm",
+      "value": 9,
+      "emoji": "🌱"
+     },
+     {
+      "label": "Damp, in the fridge",
+      "value": 1,
+      "emoji": "❄️"
+     },
+     {
+      "label": "Under water and oil",
+      "value": 2,
+      "emoji": "🫙"
+     },
+     {
+      "label": "Damp, warm, in the light",
+      "value": 9,
+      "emoji": "☀️"
+     }
+    ]
+   }
+  },
+  {
+   "concept": "Most seeds do not need light or soil to start",
+   "status": "defined",
+   "definition": "Most seeds can sprout in the dark, with no soil at all. They need light and soil only later, once the seedling must make its own food.",
+   "description": "A seed carries its own food. So at the start it does not need sunlight to make food, and it does not need soil to give it anything. That is why moong sprouts on a wet cloth inside a closed tiffin. Seeds in the ground sprout in the dark too. Light becomes important later, when the shoot comes up and its green leaves start making food. There are a few exceptions. Some small seeds, like some kinds of lettuce, need a flash of light to wake. In 1952, scientists in the United States, Harry Borthwick and Sterling Hendricks with their team, showed that red light wakes these lettuce seeds. Small seeds have only a little lunch. Light tells them they are near the surface, so they will not run out of food before they reach the sun.",
+   "examples": [
+    "Moong sprouts in a dark cupboard just as well as on a sunny window sill.",
+    "Sprouts sold in markets are grown on wet sacks or trays, with no soil.",
+    "Some tiny seeds, like some kinds of lettuce, sprout only if light reaches them."
+   ],
+   "perspectives": [],
+   "art": "Moong sprouting happily inside a closed dark tiffin, beside a tiny lettuce seed with a beam of red light shining on it.",
+   "context": "Many people think seeds need sunlight and soil to sprout. This card explains why most of them do not."
+  },
+  {
+   "concept": "First the seed drinks: swelling",
+   "status": "defined",
+   "definition": "A dry seed soaks up water and swells. This is the first step of germination.",
+   "description": "A dry seed holds very little water, often only about one part in ten. When it gets wet, water rushes in. Most enters through a tiny hole next to the scar where the seed was joined to its pod. The scar is called the hilum. The seed swells to about twice its weight, and its coat goes wrinkly and then splits. Swelling seeds push very hard. A jar packed with dry chana and water can push its lid off. Once the cells inside are wet again, they switch back on and start to work.",
+   "examples": [
+    "Weigh 50 grams of dry chana. Soak it overnight. It now weighs about 100 grams.",
+    "Soaked rajma has a wrinkly coat for a few hours, then it goes smooth and tight.",
+    "Look at a soaked bean. The pale scar on its side, the hilum, is where it was joined to its pod."
+   ],
+   "perspectives": [],
+   "art": "A bean seed in close-up with a pale oval scar on one side, little arrows of water flowing in through a tiny hole beside it, and the bean drawn twice: small and dry, then big and swollen.",
+   "context": "What is the very first thing that happens when a seed starts to sprout? This card explains how it drinks and swells."
+  },
+  {
+   "concept": "A waking seed breathes and makes warmth",
+   "status": "defined",
+   "definition": "A sprouting seed breathes. It takes in oxygen, uses it to get energy from its stored food, and gives out carbon dioxide and a little heat. Scientists call this respiration.",
+   "description": "You breathe to get energy from your food. A seed does the same, without lungs. Every tiny cell in it takes in oxygen from the air around it. A dry seed breathes so slowly you could never notice. Once it is wet, it breathes many times faster. One sprouting seed makes too little heat to feel. But a big heap of sprouts, wrapped up, gets warm to the touch. A flask of live sprouts gets a few degrees warmer than a flask of boiled ones. That is also why a seed under water does badly. Water holds only a little oxygen, so the seed cannot breathe well.",
+   "examples": [
+    "A cloth bundle of sprouting moong feels warm in the middle.",
+    "Farmers who sprout paddy seed in wet sacks before sowing can feel the heap warm up.",
+    "Seeds kept under water for too long go sour and slimy, because they could not breathe."
+   ],
+   "perspectives": [],
+   "art": "Two steel flasks with thermometers, the one with live sprouts showing a higher red line and soft warm squiggles, the one with boiled seeds showing a lower line.",
+   "context": "Does a seed breathe? This card explains how a sprouting seed uses air, and why a heap of sprouts gets warm.",
+   "how": "e2"
+  },
+  {
+   "concept": "The food store turns sweet",
+   "status": "defined",
+   "definition": "As a seed sprouts, its cells make enzymes. These helpers break the stored food, such as starch, into sugar that the baby plant can use.",
+   "description": "Starch is a store of food made of long chains. It keeps well, but the baby plant cannot use it straight away. When the seed wakes, enzymes cut the long chains into small bits of sugar. The sugar travels to the root and shoot, and feeds them as they grow. In grains like barley, the baby plant even sends a chemical message to the food store, telling it to start. In 1960, Leslie Paleg in Australia and Hiroshi Yomo in Japan each found this message. It is a plant hormone called gibberellin. This is also why sprouted grains taste a little sweet. People in India make ragi malt from sprouted ragi.",
+   "examples": [
+    "Chew a two-day-old moong sprout slowly. It tastes a little sweeter than a soaked seed that has not sprouted.",
+    "Sprouted ragi is dried and ground to make ragi malt.",
+    "Malt for some sweets and drinks is made from sprouted barley."
+   ],
+   "perspectives": [],
+   "art": "Inside a sprouting grain: the baby plant sending a little envelope labelled 'message' to the food store, where tiny scissors cut long chains of starch beads into single sugar beads.",
+   "context": "A seed carries a packed lunch of food. This card explains how the baby plant unpacks it, and why sprouts taste sweet."
+  },
+  {
+   "concept": "Root first, then shoot",
+   "status": "defined",
+   "definition": "In most seeds the root comes out first and grows downwards. The shoot comes out next and grows upwards.",
+   "description": "The root comes first so the seedling can hold on and drink. Whichever way up a seed lies, its root turns to grow down. Root tips feel gravity, the pull towards the Earth. Inside the very tip are cells holding tiny heavy grains of starch. The grains sink to the bottom of each cell, like sand in a bottle. So the root can tell which way is down. The shoot grows the other way, up towards the light. In beans, the shoot comes up bent like a hook. The hook protects the soft tip as it pushes through the soil.",
+   "examples": [
+    "Put soaked chana in a jar against wet paper, some upside down. Every root bends to grow down.",
+    "Turn the jar on its side after the roots appear. In a day, the root tips bend down again.",
+    "A bean shoot pushes up through the soil bent like a hook, then straightens in the light."
+   ],
+   "perspectives": [],
+   "art": "A clear jar lined with wet paper, three chana seeds lying different ways, every root curving down and every shoot curving up, with a small zoom showing tiny grains settled at the bottom of root-tip cells.",
+   "context": "When a seed sprouts, which part comes out first, and how does it know which way to grow? This card explains.",
+   "how": "a4"
+  },
+  {
+   "concept": "Rice: the seed that can start under water",
+   "status": "defined",
+   "definition": "Rice is unusual. Its seeds can start to sprout even under water, with very little oxygen.",
+   "description": "Most seeds drown under water. Rice comes from wet, flooded places, and its seeds have a trick. Under water, a rice seed sends up its first shoot quickly, before its root. The shoot grows up like a snorkel until its tip reaches the air. Then air can travel down it, and the root can start. This helps rice grow in flooded fields. Scientists are still studying exactly how rice does this, so they can help farmers sow rice straight into wet fields.",
+   "examples": [
+    "Moong seeds under water mostly fail. Rice seeds under water often send up a shoot.",
+    "In many paddy fields in India, rice grows with its feet in water."
+   ],
+   "perspectives": [],
+   "art": "A rice grain at the bottom of a glass of water, a thin pale shoot rising like a snorkel to the surface, beside a moong seed lying still.",
+   "context": "Seeds need air to sprout. This card is about one famous exception, rice, and the snorkel trick it uses."
+  },
+  {
+   "concept": "How long can a seed wait?",
+   "status": "idea",
+   "description": "A dry, cool seed can stay alive for a long time, but nobody knows the longest. In 1879, a scientist in the United States, William James Beal, buried bottles of seeds in sand. Every few years, someone digs one up and plants the seeds. In 2021, more than 140 years later, some seeds still sprouted. Sacred lotus seeds about 1,300 years old have sprouted in China. In 2005, Elaine Solowey grew a date palm in Israel from a seed about 2,000 years old. It came from the ruins of an ancient fort called Masada. She worked with a doctor, Sarah Sallon, and the tree was named Methuselah. Most seeds do not last nearly this long. Scientists are still finding out what lets some seeds wait for centuries.",
+   "examples": [
+    "Moong from the kitchen usually sprouts well for a year or two, then fewer seeds sprout each year.",
+    "Seeds last much longer when they are kept dry and cold. That is why seed banks keep them in freezers."
+   ],
+   "perspectives": [
+    {
+     "who": "Most seed scientists",
+     "explanation": "Old seeds slowly get damaged inside, a little more each year. Dry and cold slow this down. Every kind of seed has its own limit."
+    },
+    {
+     "who": "Some scientists",
+     "explanation": "A few seeds may be far better at repairing themselves than we know. The real limit could be thousands of years. Nobody has had time to test it."
+    }
+   ],
+   "art": "A young date palm in a pot, beside a glass bottle of old seeds dug out of sand and a lotus flower, with a timeline showing 140 years, 1,300 years and 2,000 years.",
+   "context": "A dry seed is asleep. This card asks how long it can sleep and still wake up."
+  },
+  {
+   "concept": "Is a dry seed alive?",
+   "status": "debated",
+   "description": "A dry seed does not grow, move or seem to eat. It breathes so slowly that it is very hard to measure. Yet add water, and it wakes up. So is a dry seed alive the whole time, or does it come back to life? Scientists and thinkers answer this in different ways. The question matters, because it tests what we mean by 'alive'.",
+   "examples": [
+    "A moong seed in a jar for a year, and the same seed sprouting two days after soaking.",
+    "Tardigrades, tiny water animals smaller than a grain of salt, can dry out completely and wake up again years later when wetted."
+   ],
+   "perspectives": [
+    {
+     "who": "Most biologists",
+     "explanation": "A dry seed is alive, but dormant. Its cells are still whole and still working, very, very slowly. It is like a person in a very deep sleep."
+    },
+    {
+     "who": "Some scientists who study drying out",
+     "explanation": "In a very dry seed, life almost stops. They call this 'hidden life'. The seed is not doing much, but it keeps everything it needs to start again."
+    },
+    {
+     "who": "Some philosophers",
+     "explanation": "The seed shows that 'alive' and 'not alive' may not be two neat boxes. There may be states in between, and our words do not fit them well."
+    }
+   ],
+   "art": "A dry moong seed drawn half as a pebble and half as a sleeping baby plant, with a question mark between them.",
+   "context": "Is a seed in a jar alive or not? This card is about a question that scientists and thinkers still answer in different ways."
+  },
+  {
+   "concept": "Deep down: a seed is stored sunlight",
+   "status": "defined",
+   "definition": "The food in a seed was made by its parent plant from air, water and sunlight. When the seed sprouts and breathes, it uses that stored sunlight energy and sends the carbon back into the air.",
+   "description": "The parent plant's leaves took in carbon dioxide from the air and water from the soil. Using the energy of sunlight, they built sugar and starch. The plant packed some of this food into each seed. Inside the starch, carbon atoms are joined together. Those joins hold energy that first came from the Sun. When the seed breathes, it breaks the joins and uses the energy. The carbon atoms go back into the air as carbon dioxide. So a sprouting seed is running on old sunshine. That is why a sprouting seed in the dark gets lighter, once you dry it out again. It is burning its lunch.",
+   "examples": [
+    "Sprout seeds in the dark for a week, then dry them in the sun. They weigh less than the same number of dry seeds that were never sprouted.",
+    "The energy in the chana you eat also came from sunlight, stored by the chana plant."
+   ],
+   "perspectives": [],
+   "art": "A chain of pictures: the Sun shining on a chana plant's leaves, the plant packing tiny glowing parcels into its seeds, and a sprouting seed releasing the glow and little bubbles back into the air.",
+   "context": "This card zooms in on the seed's food store, down to its atoms. It follows the energy all the way back to the Sun."
+  },
+  {
+   "concept": "How a seed knows when to wake",
+   "status": "idea",
+   "description": "Some seeds wake as soon as they are wet. Others wait for a sign that the time is right. Some wait for a long cold winter. Some wait until a fire has passed. In 2004, Gavin Flematti and his team in Australia found the chemical in smoke that wakes many such seeds. Some seeds have a coat so hard that it must be scratched, or pass through a bird's belly, before water can get in. Scientists understand parts of how seeds sense these signs. How a seed 'decides', using many signs at once, is still being worked out.",
+   "examples": [
+    "Many Himalayan wildflower seeds sprout only after they have been through a cold winter.",
+    "Some plants of Australia and South Africa sprout in great numbers after a bush fire.",
+    "Gardeners rub very hard seeds with sandpaper, or nick them, so that water can get in."
+   ],
+   "perspectives": [
+    {
+     "who": "Most seed scientists",
+     "explanation": "A seed has sensors for water, warmth, light and some chemicals. Its hormones add up these signals, a bit like a set of switches."
+    },
+    {
+     "who": "Some plant scientists",
+     "explanation": "This adding up of signals is a simple kind of decision-making without a brain. Others say 'decision' is the wrong word for chemistry. They still argue about it."
+    }
+   ],
+   "art": "Three seeds waiting for different signals: one under snow, one in ash after a fire with a wisp of smoke, one with a hard coat being scratched by sand.",
+   "context": "Water, warmth and air wake most seeds. This card is about seeds that wait for a special sign first."
+  },
+  {
+   "concept": "Seeds in space and on the Moon",
+   "status": "defined",
+   "definition": "Seeds have travelled into space and come back able to sprout. Seeds have even sprouted on the Moon, inside a sealed box.",
+   "description": "In 1971, an astronaut called Stuart Roosa carried about 500 tree seeds around the Moon on the Apollo 14 mission. Back on Earth, many were sprouted and planted. They grew into normal trees, called Moon trees. In January 2019, China's Chang'e 4 lander carried cotton seeds to the far side of the Moon in a sealed box with water, air and soil. A cotton seed sprouted there, the first seed to sprout on the Moon. When the long, freezing lunar night came, it died. It had water and air, but not enough warmth. Space farmers will need all three.",
+   "examples": [
+    "Moon trees from the Apollo 14 seeds still grow in parts of the United States.",
+    "The cotton seedling on the Moon died when the temperature fell far below freezing."
+   ],
+   "perspectives": [],
+   "art": "A small sealed canister on the grey surface of the Moon, a tiny cotton sprout inside, with the Earth far away in the black sky.",
+   "context": "Could seeds sprout away from Earth? This card is about seeds that went to the Moon."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "A seed holds a living baby plant, with a coat and a store of food.",
+   "evidence": "Split any soaked bean and you can see the baby plant with a hand lens. Scientists have looked at seeds under microscopes for more than 300 years."
+  },
+  {
+   "text": "Most seeds need water, warmth and air to sprout, and do not need light or soil to start.",
+   "evidence": "Fair tests like the four-cup test give the same results in classrooms and laboratories all over the world."
+  },
+  {
+   "text": "A sprouting seed breathes. It uses oxygen and gives out carbon dioxide and heat.",
+   "evidence": "A flask of sprouting seeds warms up, while boiled seeds do not. Scientists can measure the oxygen used and the carbon dioxide given out."
+  },
+  {
+   "text": "The root comes out first and grows down, and the shoot grows up.",
+   "evidence": "Seeds placed any way up in a jar send their roots down. Turn the jar, and the root tips turn down again. In space, where the pull is tiny, roots wander in many directions."
+  },
+  {
+   "text": "Dry, cool seeds can stay alive for years, and some for centuries.",
+   "evidence": "Seeds from Beal's bottles sprouted after more than 140 years. A date palm seed about 2,000 years old was sprouted in 2005, and its age was checked by carbon dating."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Seeds need sunlight to sprout.",
+   "who": "Many children and grown-ups. It is a very common guess.",
+   "for": "Plants need light to grow well. And seeds in a garden usually sprout where the sun shines.",
+   "against": "Moong sprouts in a closed dark tiffin. Seeds in the ground sprout in the dark. A seed carries its own food, so it needs light only once its leaves come up. A few small seeds, like some lettuce, are exceptions.",
+   "status": "rejected",
+   "context": "This card is about a common idea: that seeds need sunlight before they can sprout."
+  },
+  {
+   "claim": "Seeds need soil to sprout.",
+   "who": "A common guess",
+   "for": "We plant seeds in soil, and that is where they grow in nature.",
+   "against": "Seeds sprout on wet cloth, cotton or paper. Soil holds water and air and keeps the seed dark and safe. It also feeds the plant later. But the seed does not need it to start.",
+   "status": "rejected",
+   "context": "This card looks at another common idea: that a seed must be in soil to sprout."
+  },
+  {
+   "claim": "The more water a seed gets, the better it sprouts.",
+   "who": "Many new gardeners",
+   "for": "Water is the first thing a seed needs, and dry seeds never sprout.",
+   "against": "A seed under water cannot get enough air to breathe. In the four-cup test, the drowned seeds do badly, and some go sour. Damp is just right. Rice is the famous exception.",
+   "status": "rejected",
+   "context": "This card is about the idea that more water is always better for seeds."
+  },
+  {
+   "claim": "A dry seed is dead until water brings it to life.",
+   "who": "A common way of thinking, because dry seeds do nothing we can see",
+   "for": "A dry seed does not grow or move, and it seems to use no food.",
+   "against": "A dry seed is still breathing, very slowly. Boiled seeds never sprout, however much water they get. So something in the dry seed was alive all along.",
+   "status": "rejected",
+   "context": "This card asks whether a seed in a jar is dead, or alive and waiting."
+  },
+  {
+   "claim": "A big seed grows into a big plant.",
+   "who": "A common guess",
+   "for": "Big seeds carry more food, so their seedlings often start bigger.",
+   "against": "A banyan or peepal seed is smaller than a grain of rai, yet it grows into a giant tree. A big rajma grows into a small plant. A seed is only the start. The plant builds itself out of air, water and sunlight.",
+   "status": "rejected",
+   "context": "This card asks if the size of a seed tells you the size of the plant."
+  },
+  {
+   "claim": "Seeds sprout better if you sow them at the right phase of the Moon.",
+   "who": "Some farmers and gardeners around the world, following old planting calendars",
+   "for": "The custom is very old. Some people believe the Moon pulls water in the soil, like it pulls the sea.",
+   "against": "The Moon's pull on a little patch of soil is far too tiny to move its water. Careful tests have not found a clear effect. Many farmers still follow such calendars, and they may help in other ways, like keeping planting on time.",
+   "status": "minority",
+   "context": "This card is about an old belief that the Moon's phase changes how seeds sprout."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A dry seed sits in a jar for a year, doing nothing. Is it alive the whole time? How could you prove it?",
+   "kind": "deep",
+   "hint": "What happens to a boiled seed when you soak it? What happens to an unboiled one?"
+  },
+  {
+   "q": "Why does a seed carry its own food, when a grown plant makes food from sunlight?",
+   "kind": "deep",
+   "hint": "Where is a seed when it first wakes up? Can it see the Sun from there?"
+  },
+  {
+   "q": "How does a root know which way is down, even in the dark?",
+   "kind": "deep",
+   "hint": "Think about sand in a bottle. Which way does it settle when you turn the bottle?"
+  },
+  {
+   "q": "A sprouting seed breathes, like you. What else do you and a seed have in common?",
+   "kind": "deep",
+   "hint": "Think about food, water, warmth and growing."
+  },
+  {
+   "q": "When does a plant's life begin? When the seed sprouts, when the seed was made, or before that?",
+   "kind": "big",
+   "hint": "Who made the baby plant inside the seed, and who packed its lunch?"
+  },
+  {
+   "q": "A seed waits until the time is right. Is waiting a kind of doing? When is it wise to wait?",
+   "kind": "big",
+   "hint": "Think of something you had to wait for. What were you doing while you waited?"
+  },
+  {
+   "q": "During a terrible war, scientists guarding a seed bank in Leningrad chose to go hungry rather than eat the seeds. Why would anyone do that?",
+   "kind": "big",
+   "hint": "Who were the seeds for? How many people could they feed one day?"
+  },
+  {
+   "q": "Every rice grain on your plate is a baby plant with its lunch. Does that change how you feel about your food?",
+   "kind": "big",
+   "hint": "Many families say thank you before eating. What might they be thanking?"
+  },
+  {
+   "q": "A seed about 2,000 years old grew into a date palm. What would that tree tell us, if it could speak?",
+   "kind": "big",
+   "hint": "Who was alive when that seed fell? What has changed since?"
+  },
+  {
+   "q": "If we lived on the Moon or Mars, what would we have to bring for our seeds?",
+   "kind": "deep",
+   "hint": "Remember the three things every seed needs. Which ones does the Moon not have?"
+  }
+ ],
+ "story": {
+  "title": "The Warm Bundle",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "Noor, her family and the sprouts cart are made up. The science is real: soaked seeds need air, a heap of sprouting seeds gets warm because it is breathing, and seeds kept under water too long go sour.",
+  "text": [
+   "Every morning at six, Noor's mother pushed a blue handcart to the corner outside Byculla station in Mumbai. On the cart was a big steel bowl of sprouts. There were green moong with white tails, chopped onion, tomato, lemon and a pinch of red chilli. Office workers stopped on their way to the train. 'One plate, Ammi,' they said, and Ammi spooned sprouts into a leaf bowl. Two hundred plates on a good day. On a bad day, less.",
+   "Noor was nine, and she knew how the sprouts were made, or she thought she did. At night, Ammi poured moong into the big dabba and covered it with water. In the morning she drained it. She tipped the fat, wet seeds into an old white cloth and tied it loosely, like a bundle for a journey. Then she hung it from a nail on the window bars. By the next morning, every seed had a tail.",
+   "'Why the nail?' Noor once asked. 'Why not leave them in the dabba?'",
+   "'Because they are getting ready to travel,' said Ammi, which was not really an answer. Ammi's answers were often like that.",
+   "Then came the week of Khala's wedding in Nashik. Ammi had to go for two days. 'Faiz will run the cart on Sunday,' she said. Faiz was thirteen and thought he was eighteen. 'And Noor will make the sprouts. Soak them tonight. Hang them tomorrow. You have seen me do it a thousand times.'",
+   "Noor nodded. A thousand times was a lot.",
+   "That night she soaked the moong in the dabba, just as Ammi did. But in the morning, before she could drain it, she heard a scratching under the floorboards. Last month, a rat had chewed through Ammi's bundle on the nail. Half the sprouts had been ruined. Ammi had cried a little, when she thought nobody was looking.",
+   "Not this time, Noor decided. She left the moong in its water. She pressed the steel lid down hard. Then she put the heavy grinding stone on top. No rat could lift that. Pleased, she went to school.",
+   "When she came home, the room smelled strange. She lifted the stone and the lid. The water had gone cloudy, and a grey froth floated on top. The smell was sour, like milk left out in the heat. The seeds were fat and soft, but not one of them had a tail.",
+   "'You killed them,' said Faiz, holding his nose.",
+   "'I did not,' said Noor. But her stomach went cold. There was no money to buy more moong. The cart would sell nothing on Sunday, and Ammi would come home to an empty tin.",
+   "She sat down on the floor beside the dabba. She tried to remember everything Ammi did, every single step. Soak. Drain. Tie loosely. Hang. And one more thing, a thing she had nearly forgotten. Once, last winter, Ammi had let her hold the bundle before dawn. It had been warm. Not warm from the stove, which was cold. Warm from inside, like a sleeping kitten.",
+   "'Why is it warm?' she had asked.",
+   "'Because they are breathing,' Ammi had said. 'Everything that wakes up has to breathe.'",
+   "Noor looked at the dabba with its lid and its stone and its water. Nothing could get in, not a rat, and not a breath of air either. She thought of being held under water in the swimming pool at school. You can only stay down for a few seconds.",
+   "'They were drowning,' she said.",
+   "She drained the cloudy water at once. She rinsed the seeds under the tap, once, twice, five times, until the sour smell had almost gone. She picked out the ones that were mushy and broken. There were a lot of them. Then she spread the rest on the white cloth and tied it loosely, the way Ammi did, with room for air between the seeds. She hung it from the nail on the window bars, where the sea breeze came in.",
+   "'What about the rat?' said Faiz.",
+   "Noor fetched Ammi's steel strainer. She hung it upside down on the string above the bundle, like an umbrella. A rat that climbed down the string would slide right off. Faiz looked at it for a long time. Then he said, 'Not bad.'",
+   "Noor could not sleep. Twice in the night she got up and touched the bundle. It was cool and damp. At four in the morning she touched it again. And this time, in the very middle, it was warm. Not much. Just a little, like a hand that has been holding another hand.",
+   "When the first light came, she untied the cloth. Most of the seeds had split their green coats. Out of each one curled a tiny white tail, thin as a comma in her school book. Not every seed. About two of every three. But that was enough.",
+   "On Sunday, Faiz pushed the blue cart to the corner outside the station. Noor chopped the onions and squeezed the lemons. They sold one hundred and thirty plates. It was not two hundred. Faiz said it was a record for a cart run by children, and nobody could prove that it wasn't.",
+   "That night, Ammi called from Nashik. Music and laughter roared behind her. 'How were the sprouts?' she shouted.",
+   "'They were breathing,' said Noor.",
+   "There was a little silence on the line. Then Ammi laughed, the way she laughed when Noor said something she had not expected. 'Of course they were,' she said. 'Did you hang them on the nail?'",
+   "'With an umbrella,' said Noor. And she went to the window and laid her hand on the new bundle, soaked and tied and hanging in the dark, already beginning to wake."
+  ],
+  "epiphany": "For the parent: the seeds did not fail because they were soaked wrongly. They failed because they could not breathe. A waking seed needs air as well as water, and seeds left sealed under water run out of oxygen and go sour. The warmth Noor remembered was the clue: a heap of sprouting seeds gets warm because millions of cells are breathing, using oxygen to burn their stored food. Water, warmth and air together are what wake a seed. The story also quietly shows how much a child can learn just by watching a parent's ordinary work closely.",
+  "ask": [
+   "Noor shut the moong under a heavy lid to keep the rat out. Why did that stop them sprouting?",
+   "The bundle on the nail felt warm in the night. Where did the warmth come from?",
+   "Why do you think Ammi always tied the cloth loosely, not tightly?",
+   "Noor remembered something Ammi did without explaining it. What have you learnt just by watching someone at home?",
+   "Faiz said 'Not bad' about the strainer umbrella. How did Noor solve two problems at once?"
+  ],
+  "art": [
+   "A blue handcart with a big steel bowl of sprouts outside a busy Mumbai railway station at dawn.",
+   "A loosely tied white cloth bundle hanging from a nail on window bars, the sea in the distance.",
+   "A steel dabba with a grinding stone on its lid, and cloudy water with grey froth inside.",
+   "Noor at four in the morning, in the dark, with her hand on the bundle, a steel strainer hanging above it like an umbrella.",
+   "A cloth opened at sunrise, full of green moong with tiny white tails like commas."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Wake Up, Seed!",
+   "mins": 20,
+   "players": "2 to 4 players, or one child playing against the app",
+   "context": "This is a card game about what a seed needs to sprout. Each player is a sleeping seed. To sprout, you must collect three cards: water, warmth and air.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "36 condition cards to cut out",
+     "items": [
+      "WATER: rain soaks into the soil",
+      "WATER: a child sprinkles the pot",
+      "WATER: dew on a cool morning",
+      "WATER: the monsoon arrives",
+      "WATER: a wet cloth",
+      "WATER: a damp cotton pad",
+      "WARMTH: a sunny April day",
+      "WARMTH: a cosy kitchen shelf",
+      "WARMTH: the soil warms up in spring",
+      "WARMTH: a warm cupboard",
+      "WARMTH: a summer night",
+      "WARMTH: a pot by a warm wall",
+      "AIR: loose, crumbly soil",
+      "AIR: a loosely tied cloth",
+      "AIR: a breeze through the window",
+      "AIR: earthworm tunnels",
+      "AIR: a cup with holes",
+      "AIR: seeds spread out, not squashed",
+      "SUNLIGHT: bright sun on the soil (keep this card until you sprout, then it makes your leaves grow)",
+      "SUNLIGHT: a sunny window",
+      "FERTILE SOIL: rich black earth (useful later, not now)",
+      "FERTILE SOIL: compost",
+      "DROWNED: you are under water. Give back one AIR card.",
+      "DROWNED: the dabba lid is shut tight. Give back one AIR card.",
+      "FROST: a cold night in Shimla. Give back one WARMTH card.",
+      "FRIDGE: someone put you in the fridge. Give back one WARMTH card.",
+      "DROUGHT: the rain is late. Give back one WATER card.",
+      "DRIED OUT: the cloth dried in the sun. Give back one WATER card.",
+      "HUNGRY BIRD: a sparrow pecks at you. Miss a turn.",
+      "ANT: an ant carries you away. Pass one card to the left.",
+      "BOILED: you were cooked for dinner. A boiled seed never sprouts. Start again with no cards.",
+      "TEST IT: put one moong seed in water and one on a damp cloth. Which one would you rather be?",
+      "TEST IT: hold a soaked bean up to the light. Can you find the little scar where it was joined to its pod?",
+      "TEST IT: say which comes out of a seed first: the root or the shoot.",
+      "TEST IT: name three seeds you ate this week.",
+      "TEST IT: curl up small like a dry seed. Now drink, swell and push out your root."
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "A seed mat for each player",
+     "items": [
+      "A big drawing of a sleeping seed with three empty boxes labelled WATER, WARMTH and AIR",
+      "A space underneath marked SPROUTED!"
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "12 sprout tokens (small green paper leaves)",
+     "items": [
+      "🌱"
+     ]
+    }
+   ],
+   "rules": [
+    "Cut out the 36 cards. Shuffle them and put them face down in a pile.",
+    "Each player takes a seed mat. You are a sleeping seed.",
+    "On your turn, take the top card and read it out loud.",
+    "If it is WATER, WARMTH or AIR, put it in the right box on your mat, if the box is empty. If the box is full, put the card at the bottom of the pile.",
+    "SUNLIGHT and FERTILE SOIL cards do not wake a seed. Keep them beside your mat. They count only after you sprout.",
+    "Trouble cards make you give back a card or miss a turn. Do what they say.",
+    "TEST IT cards: everyone does the test together. The first person to explain it wins a sprout token.",
+    "When your three boxes are full, say 'I'm awake!' and explain why each one matters. You win a sprout token, and each SUNLIGHT card you kept wins one more. Clear your mat and start again as a new seed.",
+    "When the pile runs out, the player with the most sprout tokens wins."
+   ],
+   "setup": [
+    {
+     "art": "Four paper seed mats on a floor, each with a drawing of a seed and three empty boxes marked with a water drop, a small sun for warmth and an air swirl.",
+     "caption": "1. Give each player a seed mat. Put the cards face down."
+    },
+    {
+     "art": "A child placing a card with a water drop picture into the water box on their seed mat.",
+     "caption": "2. Take a card. Put WATER, WARMTH or AIR in its box."
+    },
+    {
+     "art": "A child's seed mat with all three boxes full and a green paper leaf token beside it.",
+     "caption": "3. Fill all three boxes, say why, and win a sprout token."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Give each player a seed mat. 2. Shuffle the 36 cards and put them face down. 3. Put the sprout tokens in a bowl.",
+     "say": "Each of us is a sleeping seed. To wake up and sprout, a seed needs three things. They are water, warmth and air. Let's see who can wake up first.",
+     "kid": "You are a sleeping seed. To sprout, you need three cards: WATER, WARMTH and AIR. Put your mat in front of you. Mix the cards.",
+     "context": "This is the first step of Wake Up, Seed!. It is a card game where each player is a seed collecting what it needs to sprout. Here you set up the game."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Before you start, find a SUNLIGHT card and hold it up. Ask the question below.",
+     "say": "Here is a SUNLIGHT card. Does a seed need sunlight to wake up? What do you think?",
+     "kid": "Look at the SUNLIGHT card. Does a seed need sunlight to wake up? Tap your answer.",
+     "ask": [
+      {
+       "q": "Why do you think the game keeps sunlight aside until after the seed sprouts?",
+       "good": [
+        "A seed has its own food, so it doesn't need light at first.",
+        "Seeds sprout in the dark, under the soil.",
+        "Light is for the leaves, later."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Does a moong seed need sunlight to sprout?",
+      "options": [
+       "Yes, it cannot sprout without sunlight",
+       "No, it can sprout in the dark",
+       "Only on hot days"
+      ],
+      "a": 1,
+      "why": "A seed carries its own food store, so it can sprout in the dark, like moong in a closed tiffin. It needs light later, when its green leaves must make food. Picking 'yes' is the most common guess, because grown plants do need light. A few small seeds, like some lettuce, really do need light to wake. Moong does not."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "1. Take turns to draw a card and read it out. 2. Place it, or do what it says. 3. When a player fills all three boxes, they say 'I'm awake!' and explain each one.",
+     "say": "When you wake up, tell us why you needed each card. Why water? Why warmth? Why air?",
+     "kid": "Take turns. Read your card. Water, warmth or air? Put it in its box. Trouble card? Do what it says. Three full boxes? Say 'I'm awake!' and say why you needed each one.",
+     "parent": "Good reasons: water softens the coat and wakes the cells. Warmth makes the changes inside the seed go faster. Air gives the seed oxygen to breathe and get energy from its food. The BOILED card is a good talking point: a boiled seed has water, warmth and air, but it never sprouts. Ask why. The baby plant inside has been killed by the heat."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "When a TEST IT card comes up, stop and do it together. Everyone guesses first.",
+     "say": "Everyone guess first. Then let's try it and see.",
+     "kid": "A TEST IT card! Guess first. Then try it. Were you right?",
+     "ask": [
+      {
+       "q": "The DROWNED card takes away AIR, even though the seed has lots of water. Why?",
+       "good": [
+        "Under water a seed can't get enough air to breathe.",
+        "Too much water drowns a seed."
+       ]
+      }
+     ],
+     "think": "Rice seeds can start to grow under water. How do you think they get air?"
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Count the sprout tokens to find the winner. Then look at the SUNLIGHT and FERTILE SOIL cards together.",
+     "say": "These cards were useful, but not for waking up. When does a plant need sunlight and good soil?",
+     "kid": "Count your tokens. Who won? Now look at the SUNLIGHT and SOIL cards. When does a plant need them?",
+     "think": "A seed has its own lunch. When does the lunch run out?"
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Seed or Not a Seed?",
+   "mins": 15,
+   "players": "2 to 6 players, or one child with the app",
+   "context": "This is a sorting game with real things from the kitchen. Players decide which of them are seeds, which hold a baby plant and could sprout, and which are not seeds at all.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "20 kitchen cards (or use the real things)",
+     "items": [
+      "Whole moong",
+      "Split moong dal",
+      "Rajma",
+      "Raw peanut",
+      "Roasted peanut",
+      "Rice grain with its husk (paddy)",
+      "Polished white rice",
+      "Rai (mustard seeds)",
+      "Jeera",
+      "Black pepper",
+      "Maize kernel",
+      "Popcorn, already popped",
+      "Potato",
+      "Onion",
+      "Garlic clove",
+      "Sabudana",
+      "Cashew nut",
+      "Coconut",
+      "Methi seeds",
+      "Sugar"
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "Three sorting mats",
+     "items": [
+      "SEED: could still sprout",
+      "SEED: but could not sprout any more",
+      "NOT A SEED"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "A table to write each guess and what happened when you tested it",
+     "items": [
+      "Thing",
+      "My guess",
+      "Tested on a wet cloth: did it sprout?"
+     ]
+    }
+   ],
+   "rules": [
+    "Lay out the three mats. Shuffle the cards, or put the real things in small bowls.",
+    "Take turns to pick one and say which mat it goes on, and why.",
+    "Other players can say 'I disagree!' and give a reason. Then check the answer in the app.",
+    "A right answer with a good reason wins a point. Changing your mind for a good reason also wins a point.",
+    "Afterwards, put a few of each real thing on a wet cloth for two days and find out who was right."
+   ],
+   "setup": [
+    {
+     "art": "Three paper mats on a kitchen floor, one with a sprouting seed picture, one with a seed and a cross, one with a crossed-out seed, and small steel bowls of moong, dal, peanuts, rice and an onion.",
+     "caption": "1. Lay out the three mats and the kitchen things."
+    },
+    {
+     "art": "A child holding up a peanut and pointing at the sprouting seed mat while another child raises a hand to disagree.",
+     "caption": "2. Pick one, choose a mat and say why."
+    },
+    {
+     "art": "A wet cloth on a plate with small groups of moong, split dal and peanuts, labelled with paper slips.",
+     "caption": "3. Test your guesses on a wet cloth for two days."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Lay out the three mats. 2. Put out the cards, or small amounts of the real things.",
+     "say": "A seed is a baby plant with a coat and a lunch box. Some things in our kitchen are seeds, and some are not. And some seeds can't sprout any more. Let's sort them.",
+     "kid": "Put out the three mats. Look at the kitchen things. Which are seeds? Which could still sprout?",
+     "context": "This is the first step of Seed or Not a Seed?. It is a sorting game with kitchen things. Here you set out the mats."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Start with whole moong and split moong dal. Play them together as a practice round.",
+     "say": "Whole moong and split moong dal. They are the same plant. Can both of them sprout?",
+     "kid": "Look at whole moong and split moong dal. Can both of them sprout? Tap your answer.",
+     "check": {
+      "t": "mcq",
+      "q": "Whole moong and split moong dal. Which one can sprout?",
+      "options": [
+       "Both of them",
+       "Only whole moong",
+       "Only the split dal",
+       "Neither"
+      ],
+      "a": 1,
+      "why": "Whole moong still has its coat and its baby plant. Split dal has had its coat taken off and the seed split in half. The tiny baby plant usually breaks off and is lost. So the dal is only the food store, with no baby plant to grow. Picking 'both' usually means thinking of the seed as just food. A seed needs a living baby plant to sprout."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Take turns. Each player picks a thing and puts it on a mat. 2. They say why. 3. Others may disagree. 4. Check with the answers below.",
+     "say": "Tell me why you chose that mat. Is there a baby plant inside? Is it still alive?",
+     "kid": "Take turns. Pick one. Put it on a mat. Say why. Does it still have a living baby plant inside?",
+     "parent": "Answers. SEED, could sprout: whole moong, rajma, raw peanut, paddy, rai, methi, maize kernel and coconut. Jeera and black pepper are tiny dry fruits, each holding a seed. Some sprout, but often slowly or not at all, because spices are dried and stored. SEED, could not sprout: split moong dal (no baby plant), roasted peanut (cooked), popped popcorn (burst), and polished white rice (the baby plant has been polished off). Cashew is a seed, but the ones we buy have been heated to take off their shell. NOT A SEED: potato and garlic are swollen stems, and onion is a bulb, a short stem with fat leaves. All three can still grow into new plants, but not from a seed. Sabudana is made from the starch of a root, the tapioca. Sugar is made from sugarcane juice."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Choose one thing each that you are unsure about. Put a few of each on a wet cloth. Look again in two days.",
+     "say": "Let's test the ones we argued about. Science settles arguments by testing.",
+     "kid": "Pick the ones you argued about. Put a few on a wet cloth. Check in two days. Who was right?",
+     "wait": "Look again in 2 days",
+     "think": "A potato can grow into a new plant, but it is not a seed. How else can plants make new plants?"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Seed Detective (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "What are the three main parts of a seed?",
+     "opts": [
+      "Seed coat, baby plant and food store",
+      "Root, stem and flower",
+      "Skin, juice and stone",
+      "Leaf, fruit and bark"
+     ],
+     "a": 0,
+     "why": "Every seed has a coat outside, a tiny baby plant inside, and a store of food for it. Picking 'root, stem and flower' mixes up a seed with a grown plant. Those parts grow later.",
+     "art": "A split bean with three labels."
+    },
+    {
+     "t": "fill",
+     "p": "The tough outer skin of a seed is called the seed ____.",
+     "a": [
+      "coat"
+     ],
+     "why": "The seed coat protects the baby plant and keeps it dry until it is time to grow."
+    },
+    {
+     "t": "mcq",
+     "p": "You split a soaked bean in two. What is the tiny thing at one edge, with a little root and two small leaves?",
+     "opts": [
+      "The baby plant",
+      "A worm",
+      "The food store",
+      "A bit of the coat"
+     ],
+     "a": 0,
+     "why": "That is the baby plant, which scientists call the embryo. It was already inside the seed before you soaked it. Picking 'food store' is close, but the food store is the two big halves around it.",
+     "how": "a1"
+    },
+    {
+     "t": "mcq",
+     "p": "What do most seeds need to sprout?",
+     "opts": [
+      "Water, warmth and air",
+      "Sunlight, soil and water",
+      "Only water",
+      "Soil and fertiliser"
+     ],
+     "a": 0,
+     "why": "Water wakes the seed, warmth makes the changes inside it go faster, and air lets it breathe. Picking 'sunlight and soil' is the most common mistake. A seed has its own food, so it does not need them to start.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. In which cup did the most seeds sprout?",
+     "opts": [
+      "Dry",
+      "Damp and warm",
+      "In the fridge",
+      "Under water with oil"
+     ],
+     "a": 1,
+     "why": "The damp, warm cup had water, warmth and air together. Picking 'under water' usually means thinking more water is always better. Those seeds could not get enough air.",
+     "how": "e1",
+     "context": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light."
+    },
+    {
+     "t": "truefalse",
+     "p": "Moong seeds can sprout in a dark cupboard.",
+     "a": true,
+     "why": "True. A seed carries its own food, so it does not need light to sprout. In the five-cup test, the cup in the dark did as well as the cup in the light.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "Seeds need soil before they can sprout.",
+     "a": false,
+     "why": "False. Seeds sprout on wet cotton, cloth or paper. Soil helps later, by holding water and the plant's roots."
+    },
+    {
+     "t": "mcq",
+     "p": "Which part comes out of a sprouting seed first?",
+     "opts": [
+      "The root",
+      "The leaves",
+      "The flower",
+      "The fruit"
+     ],
+     "a": 0,
+     "why": "The root comes out first, so the seedling can hold on and drink. Picking 'leaves' is common, because leaves are what we see first above the soil.",
+     "how": "a4"
+    },
+    {
+     "t": "fill",
+     "p": "A seed waking up and starting to grow is called ____.",
+     "a": [
+      "germination",
+      "sprouting"
+     ],
+     "why": "Germination is the scientists' word for a seed sprouting."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Could they still sprout, or not?",
+     "cats": [
+      "Could sprout",
+      "Could not sprout"
+     ],
+     "items": [
+      [
+       "whole moong",
+       "Could sprout"
+      ],
+      [
+       "split moong dal",
+       "Could not sprout"
+      ],
+      [
+       "raw peanut",
+       "Could sprout"
+      ],
+      [
+       "roasted peanut",
+       "Could not sprout"
+      ],
+      [
+       "rajma",
+       "Could sprout"
+      ],
+      [
+       "popped popcorn",
+       "Could not sprout"
+      ]
+     ],
+     "a": "see items",
+     "why": "A seed can sprout only if its baby plant is whole and alive. Splitting the dal loses the baby plant. Roasting and popping kill it.",
+     "how": "a2"
+    },
+    {
+     "t": "mcq",
+     "p": "A seed is put in a cup full of water, right up to the top. What usually happens?",
+     "opts": [
+      "It sprouts best, because it has the most water",
+      "It does badly, because it cannot get enough air",
+      "It turns into a plant overnight"
+     ],
+     "a": 1,
+     "why": "Seeds need air to breathe. Under water there is very little air, so most seeds do badly or rot. Picking 'sprouts best' means thinking more water is always better. Rice is an exception."
+    },
+    {
+     "t": "mcq",
+     "p": "Why does a bean seed have two fat halves full of food?",
+     "opts": [
+      "To feed the baby plant until its leaves can make food",
+      "To make the seed heavy so it doesn't blow away",
+      "So animals can eat it"
+     ],
+     "a": 0,
+     "why": "The food store feeds the baby plant while it is still underground, with no light. Animals do eat seeds, but that is not why the seed has food. The food is for the baby plant."
+    },
+    {
+     "t": "write",
+     "p": "Your friend says, 'Dry seeds in a jar are dead.' What would you tell them? Give one piece of evidence.",
+     "lines": 3,
+     "a": "Dry seeds are alive, but asleep. My evidence: when we soaked moong from a jar, most of it sprouted in two days. Boiled seeds never sprout, so the jar seeds must have been alive.",
+     "why": "A good answer says the seeds are alive but resting, and gives evidence, such as the seeds sprouting once they got water."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from first to last, as a bean sprouts.",
+     "items": [
+      "The seed drinks water and swells",
+      "The seed coat splits",
+      "The root comes out and grows down",
+      "The shoot comes up, bent like a hook",
+      "The first leaves open in the light"
+     ],
+     "a": "order shown",
+     "why": "First the seed drinks and swells, which splits the coat. The root comes first, then the shoot. Leaves open last, once the shoot reaches the light."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a seed opened in half. Label the seed coat, the baby plant and the food store.",
+     "a": "A bean shape split open, with the coat peeling off, two large halves labelled 'food store' and a tiny plant at one edge labelled 'baby plant'.",
+     "why": "Every seed has these three parts.",
+     "art": "An empty outline of a bean.",
+     "how": "a1"
+    },
+    {
+     "t": "mcq",
+     "p": "Why do we put 10 seeds in each cup, not just 1?",
+     "opts": [
+      "Because one seed might be a dud, and 10 give a fairer answer",
+      "Because seeds get lonely",
+      "Because 10 is a lucky number"
+     ],
+     "a": 0,
+     "why": "Some seeds don't sprout even when everything is right. If we used only one, a single dud seed could fool us. With 10, one dud matters much less.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "How Seeds Wake Up (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A heap of sprouting moong in a cloth gets warm. Why?",
+     "opts": [
+      "The seeds are breathing, and breathing makes a little heat",
+      "The cloth is made of wool",
+      "The water is hot",
+      "The seeds are rotting"
+     ],
+     "a": 0,
+     "why": "Sprouting seeds use oxygen to get energy from their food, and some energy comes out as heat. Picking 'rotting' is a good guess, because rotting things do warm up. But healthy sprouts warm up too, and boiled seeds do not.",
+     "how": "e2"
+    },
+    {
+     "t": "mcq",
+     "p": "In the warm flask test, why did we use boiled seeds in the second flask?",
+     "opts": [
+      "So the only difference between the flasks was whether the seeds were alive",
+      "To cook them for dinner",
+      "Because boiled seeds sprout faster"
+     ],
+     "a": 0,
+     "why": "A fair test changes only one thing. Both flasks had the same wet seeds, but only one lot was alive. So any difference in warmth must come from being alive. Picking 'sprout faster' is wrong. Boiled seeds never sprout.",
+     "how": "e2"
+    },
+    {
+     "t": "fill",
+     "p": "The gas in the air that sprouting seeds need to breathe is called ____.",
+     "a": [
+      "oxygen"
+     ],
+     "why": "Seeds, like us, use oxygen from the air to get energy from food."
+    },
+    {
+     "t": "mcq",
+     "p": "In the swelling test, 50 grams of dry chana weighed about 100 grams after soaking. How many times heavier was it?",
+     "opts": [
+      "2 times",
+      "50 times",
+      "100 times",
+      "It weighed the same"
+     ],
+     "a": 0,
+     "why": "100 is 2 lots of 50. So the soaked chana was 2 times as heavy. The extra 50 grams is water inside the seeds.",
+     "how": "e3"
+    },
+    {
+     "t": "truefalse",
+     "p": "A jar packed with dry chana and water can push its lid off overnight.",
+     "a": true,
+     "why": "True. Swelling seeds push very hard as they soak up water. That is why we use a plastic cup, never glass.",
+     "how": "e3"
+    },
+    {
+     "t": "mcq",
+     "p": "Your seeds on damp cotton in the fridge hardly sprouted. Then you moved them to the kitchen shelf. What will most likely happen?",
+     "opts": [
+      "They will start to sprout, because cold only made them wait",
+      "Nothing, because the cold killed them",
+      "They will turn into ice"
+     ],
+     "a": 0,
+     "why": "Cold slows the changes inside a seed, but usually does not kill it. Once it is warm, it wakes up. Picking 'the cold killed them' is a common guess. Try it and see.",
+     "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Match each cup in the five-cup test to what it was missing.",
+     "pairs": [
+      [
+       "Dry cup",
+       "water"
+      ],
+      [
+       "Fridge cup",
+       "warmth"
+      ],
+      [
+       "Under water with oil",
+       "air"
+      ],
+      [
+       "Damp cup in the light",
+       "nothing missing, it had extra light"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each cup was different from the damp, warm cup in just one way. That way we can tell what each thing does.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "A root always grows down, even if the seed is upside down. How does the root know which way is down?",
+     "opts": [
+      "Its tip feels gravity, using tiny heavy grains that settle at the bottom of its cells",
+      "It can see the ground",
+      "It follows the smell of soil",
+      "It doesn't know, it just grows any way"
+     ],
+     "a": 0,
+     "why": "Cells in the root tip hold tiny heavy grains of starch. They sink to the bottom, like sand in a bottle, so the root can tell which way is down. Picking 'see' is not right. A root has no eyes, and it turns down even in a dark jar.",
+     "how": "a4"
+    },
+    {
+     "t": "mcq",
+     "p": "Why do sprouts taste a little sweet?",
+     "opts": [
+      "The seed has turned some of its starch into sugar",
+      "Someone added sugar",
+      "The water was sweet"
+     ],
+     "a": 0,
+     "why": "As a seed sprouts, enzymes, helpers made by its cells, cut starch into sugar the baby plant can use. That's why ragi malt is made from sprouted ragi.",
+     "how": "a3"
+    },
+    {
+     "t": "mcq",
+     "p": "Rice seeds are unusual. What can they do that most seeds can't?",
+     "opts": [
+      "Start to sprout under water, sending a shoot up like a snorkel",
+      "Sprout without any water",
+      "Sprout in a freezer"
+     ],
+     "a": 0,
+     "why": "Rice comes from wet places. Under water, its first shoot grows up to the air like a snorkel, so air can reach the rest of the seedling. Most seeds would drown."
+    },
+    {
+     "t": "write",
+     "p": "Noor's mother hung her moong in a loose cloth bundle, not in a closed tin. Why is that better for sprouting? Use the word air in your answer.",
+     "lines": 3,
+     "a": "In a loose cloth, air can reach every seed, so the seeds can breathe. In a closed tin full of water, they get very little air and go sour.",
+     "why": "A good answer says that seeds need air to breathe, and a loose cloth lets air in.",
+     "context": "In the story The Warm Bundle, Noor's mother makes sprouts for her cart. She soaks moong, then ties it loosely in a cloth and hangs it from a nail."
+    },
+    {
+     "t": "mcq",
+     "p": "A big rajma bean and a tiny banyan seed. Which grows into the bigger plant?",
+     "opts": [
+      "The banyan seed, which grows into a giant tree",
+      "The rajma, because its seed is bigger",
+      "They grow the same size"
+     ],
+     "a": 0,
+     "why": "The size of a seed does not tell you the size of the plant. A tiny banyan seed can become a huge tree. The plant builds itself from air, water and sunlight over many years."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the seed window jar after 5 days. Show 3 seeds that started in different ways, with their roots and shoots.",
+     "a": "Three seeds, each with a root curving down and a shoot curving up, whichever way the seed was placed.",
+     "why": "Roots grow towards gravity and shoots grow away from it.",
+     "how": "a4"
+    },
+    {
+     "t": "write",
+     "p": "Plan a fair test to find out if methi seeds need warmth to sprout. What will you change? What will you keep the same?",
+     "lines": 4,
+     "a": "I will change only the warmth: one cup in the fridge and one on the kitchen shelf. I will keep the same: the number of methi seeds, the same cotton, the same amount of water, and both cups dark.",
+     "why": "A good fair test changes just one thing and keeps everything else the same. Keeping both cups dark matters, because the fridge is dark."
+    },
+    {
+     "t": "truefalse",
+     "p": "Old seeds from Beal's bottles, buried in 1879, still sprouted in 2021.",
+     "a": true,
+     "why": "True. More than 140 years later, some of the seeds sprouted. Dry seeds in the ground can stay alive for a very long time."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Seed Puzzles and Big Ideas (challenge)",
+   "tier": "challenge",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Deep down, where did the energy in a seed's food store come from?",
+     "opts": [
+      "From sunlight, captured by the parent plant's leaves",
+      "From the soil",
+      "From the water the seed drinks",
+      "From the seed coat"
+     ],
+     "a": 0,
+     "why": "The parent plant used the energy of sunlight to make starch from air and water, and packed it into the seed. Picking 'soil' is a very old idea. Soil gives a plant water and small amounts of minerals, but not its food energy."
+    },
+    {
+     "t": "mcq",
+     "p": "You sprout 50 moong seeds in the dark for a week, then dry them. Do they weigh more or less than 50 dry seeds that were never sprouted?",
+     "opts": [
+      "Less, because they burned some of their stored food by breathing",
+      "More, because they grew",
+      "Exactly the same"
+     ],
+     "a": 0,
+     "why": "In the dark, sprouts cannot make new food. They use up their stored food by breathing, and the carbon goes into the air. So once the water is dried out, they weigh less. Picking 'more' is the usual guess, because sprouts look bigger. Most of that size is water."
+    },
+    {
+     "t": "write",
+     "p": "A seed sealed under water goes sour. A seed in a dry jar does nothing. A seed on damp cotton sprouts. Explain all three using what a seed needs.",
+     "lines": 4,
+     "a": "Under water, the seed has water but no air, so it cannot breathe, and it goes sour. In a dry jar, it has air but no water, so it stays asleep. On damp cotton, it has water and air, and the room is warm, so it sprouts.",
+     "why": "A good answer names what each seed has and what it is missing.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Some small lettuce seeds will sprout only if light reaches them. Why might a tiny seed wait for light?",
+     "opts": [
+      "Light tells it it is near the surface, so its small food store won't run out before it reaches the sun",
+      "Light gives it food straight away",
+      "Light makes it heavier"
+     ],
+     "a": 0,
+     "why": "A tiny seed has only a little food. If it sprouted deep underground, it might run out before reaching the light. So waiting for light keeps it safe. Scientists found this in 1952."
+    },
+    {
+     "t": "match",
+     "p": "Match each scientist to what they found.",
+     "pairs": [
+      [
+       "William James Beal, 1879",
+       "buried bottles of seeds to see how long they live"
+      ],
+      [
+       "Elaine Solowey and Sarah Sallon, 2005",
+       "grew a date palm from a 2,000-year-old seed"
+      ],
+      [
+       "Leslie Paleg and Hiroshi Yomo, 1960",
+       "found the message a baby plant sends to its food store"
+      ],
+      [
+       "Gavin Flematti and team, 2004",
+       "found the chemical in smoke that wakes some seeds"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these scientists helped us understand how seeds wait and wake."
+    },
+    {
+     "t": "truefalse",
+     "p": "In 2019, a cotton seed sprouted on the Moon inside China's Chang'e 4 lander.",
+     "a": true,
+     "why": "True. It sprouted in a sealed box with water, air and soil, then died when the freezing lunar night came. It had water and air, but not enough warmth."
+    },
+    {
+     "t": "write",
+     "p": "Is a dry seed in a jar alive? Give one reason to say yes, and one reason someone might say no.",
+     "lines": 4,
+     "a": "Yes: it is still breathing very slowly, and it sprouts when we add water, unlike a boiled seed. Someone might say no: it does not grow, move or seem to eat.",
+     "why": "There is no single right answer. Scientists mostly say it is alive but dormant. What counts is a reason on each side."
+    },
+    {
+     "t": "mcq",
+     "p": "A heap of sprouting seeds warms up. A heap of boiled seeds stays cool for a day, then starts to warm and smell. Why does the boiled heap start to warm?",
+     "opts": [
+      "Tiny living things called bacteria start feeding on it, and they breathe too",
+      "The boiled seeds come back to life",
+      "The sun shines on it"
+     ],
+     "a": 0,
+     "why": "Boiled seeds are dead, but bacteria can feed on them. Bacteria breathe, so they make warmth too. That is why we stop the warm flask test after 2 days.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Why do you think seed banks keep seeds dry and very cold?",
+     "lines": 3,
+     "a": "Dry and cold slow everything inside the seed down, so the seed uses its food very slowly and stays asleep. Then it can stay alive for many years, until someone needs it.",
+     "why": "Warmth and water wake a seed. Taking them away keeps it asleep."
+    },
+    {
+     "t": "odd",
+     "p": "Which one is the odd one out? Rajma, chana, moong, potato.",
+     "opts": [
+      "Rajma",
+      "Chana",
+      "Moong",
+      "Potato"
+     ],
+     "a": 3,
+     "why": "Rajma, chana and moong are seeds, each with a baby plant inside. A potato is a swollen underground stem. It can grow new plants, but it is not a seed."
+    },
+    {
+     "t": "mcq",
+     "p": "Rahibai Soma Popere, a farmer in Maharashtra, saves hundreds of old kinds of local seeds. Why does keeping many kinds matter?",
+     "opts": [
+      "If a disease or drought kills one kind, other kinds may survive",
+      "Old seeds always taste better",
+      "It makes the seeds sprout faster"
+     ],
+     "a": 0,
+     "why": "Different kinds of the same crop cope with different problems. If every farmer grew just one kind, one disease could wipe out the whole harvest. For this work, she was given the Padma Shri in 2020."
+    },
+    {
+     "t": "write",
+     "p": "A farmer stores seed paddy in a damp, warm corner of the house. Next season, very few seeds sprout. What went wrong?",
+     "lines": 3,
+     "a": "Damp and warmth woke the seeds up too early, or made them use up their food and spoil while stored. Seeds keep best when dry and cool.",
+     "why": "Water and warmth wake seeds. In storage, we want them to stay asleep."
+    },
+    {
+     "t": "draw",
+     "p": "Invent a seed for a desert where it rains only once every few years. Draw it and label two features that help it wait and then sprout fast.",
+     "a": "Any thoughtful design, for example: a very hard waterproof coat so it can wait for years, a coat that only softens after lots of rain, a big food store so the root can grow fast and deep.",
+     "why": "Real desert seeds do things like these. Many wait in the sand until a big rain, then sprout and flower in a few weeks.",
+     "art": "An empty patch of desert sand."
+    },
+    {
+     "t": "write",
+     "p": "In the story The Warm Bundle, Noor remembered the bundle being warm. How did that clue help her save the sprouts?",
+     "lines": 4,
+     "a": "Ammi said the warmth came from the seeds breathing. So Noor realised the seeds needed air. In the closed dabba under water, they could not breathe. She drained them and hung them in a loose cloth so air could reach them.",
+     "why": "The warmth showed that sprouting seeds breathe. Breathing needs air.",
+     "context": "In the story The Warm Bundle, Noor tries to make sprouts while her mother is away. She seals the moong under water to protect it from rats, and it goes sour."
+    },
+    {
+     "t": "write",
+     "p": "Astronauts on the Moon want to grow beans. List what they must give the seeds to sprout, and what the young plants will need later.",
+     "lines": 4,
+     "a": "To sprout: water, warmth and air, inside a sealed box or base. Later: light for the leaves to make food, and minerals, like those in soil or plant food.",
+     "why": "A seed needs water, warmth and air to wake. A seedling needs light once its own food store runs out."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Five-Cup Test: what wakes a seed?",
+   "mins": 30,
+   "days": 3,
+   "context": "This is the five-cup test. You put 10 moong seeds in each of 5 cups. Each cup is missing one thing a seed might need, or has one thing extra. After 3 days you count which seeds sprouted.",
+   "question": "What does a moong seed need to sprout? Water? Warmth? Air? Light?",
+   "predict": "Before you start, look at the five cups. Guess how many of the 10 seeds will sprout in each cup. Write your guesses down.",
+   "fair_test": "To make it fair, every cup gets the same kind of seeds, the same number of seeds and the same cotton. Each cup changes only one thing compared with the damp, warm cup. We use 10 seeds in each cup, not 1, because one seed might be a dud.",
+   "results_table": [
+    "Cup",
+    "What is different",
+    "My guess (out of 10)",
+    "Sprouted on day 2",
+    "Sprouted on day 3"
+   ],
+   "materials": [
+    {
+     "item": "50 whole moong seeds (not dal), from the same packet",
+     "qty": 50,
+     "buy": "b-moong"
+    },
+    {
+     "item": "5 small cups, katoris or clear plastic cups, all the same",
+     "qty": 5,
+     "buy": "b-cups"
+    },
+    {
+     "item": "cotton wool or folded tissue paper",
+     "qty": 1
+    },
+    {
+     "item": "water, a spoon, a little cooking oil, and a plate to cover four of the cups",
+     "qty": 1
+    },
+    {
+     "item": "stickers or slips of paper and a pen for labels",
+     "qty": 5
+    }
+   ],
+   "safety": "A grown-up boils the water for cup 4 and lets it cool completely. Do not eat the seeds used in this test. Throw away any seeds that smell sour.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Set up the five cups. Write your guesses."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Count the seeds with a root in each cup. Keep cups 2, 3 and 5 damp."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "Count again. Draw a bar chart. Say what you think, what you saw and why."
+    }
+   ],
+   "record": "Fill in the table each day. On day 3, draw a bar chart with one bar for each cup. Make each bar as tall as the number of seeds that sprouted.",
+   "setup": [
+    {
+     "art": "Five identical clear cups in a row, each with a cotton pad and ten green moong seeds, with paper labels: Dry, Damp, Fridge, Under water, Light.",
+     "caption": "1. Put cotton and 10 moong seeds in each of 5 cups. Label them."
+    },
+    {
+     "art": "A hand sprinkling water on cotton in three cups, a fourth cup filled to the top with water and a thin layer of oil floating on top, and a fifth cup left dry.",
+     "caption": "2. Wet cups 2, 3 and 5. Fill cup 4 with cooled boiled water and a little oil. Leave cup 1 dry."
+    },
+    {
+     "art": "Three cups covered with steel plates on a kitchen shelf, one cup inside an open fridge, and one uncovered cup on a bright window sill out of direct sun.",
+     "caption": "3. Cover cups 1, 2 and 4. Put cup 3 in the fridge. Put cup 5 in the light."
+    },
+    {
+     "art": "A child counting moong seeds with little white tails in each cup, writing in a table.",
+     "caption": "4. On days 2 and 3, count the seeds with a root."
+    }
+   ],
+   "example_chart": {
+    "type": "bar",
+    "title": "Made-up example: how many of 10 moong seeds sprouted in 3 days",
+    "x": "Cup",
+    "y": "Seeds sprouted (out of 10)",
+    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
+    "data": [
+     {
+      "label": "Dry",
+      "value": 0,
+      "emoji": "🏜️"
+     },
+     {
+      "label": "Damp and warm",
+      "value": 9,
+      "emoji": "🌱"
+     },
+     {
+      "label": "Damp, in the fridge",
+      "value": 1,
+      "emoji": "❄️"
+     },
+     {
+      "label": "Under water and oil",
+      "value": 2,
+      "emoji": "🫙"
+     },
+     {
+      "label": "Damp, warm, in the light",
+      "value": 9,
+      "emoji": "☀️"
+     }
+    ]
+   },
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "context": "This is the first step of the five-cup test. You set up 5 cups of moong seeds to find out what a seed needs to sprout.",
+     "do": "1. Put a thin layer of cotton in each of the 5 cups. 2. Count 10 moong seeds onto the cotton in each cup. 3. Label the cups: 1 Dry, 2 Damp, 3 Fridge, 4 Under water, 5 Light.",
+     "say": "We're going to find out what wakes a seed. Each cup is a little different. Let's count 10 seeds into each one.",
+     "kid": "Put cotton in 5 cups. Count 10 moong seeds into each cup. Label them: Dry, Damp, Fridge, Under water, Light."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "adult": true,
+     "do": "1. Cup 1: no water. 2. Cups 2, 3 and 5: add water a spoon at a time until the cotton is wet but no water is lying on top. 3. Cup 4: a grown-up boils some water and lets it cool. Fill cup 4 to the top with it. Pour a thin layer of oil on top.",
+     "say": "Boiling water pushes out most of the air in it. The oil stops new air getting back in. So cup 4 has lots of water but almost no air.",
+     "kid": "Cup 1 stays dry. Make cups 2, 3 and 5 damp, not swimming. Ask a grown-up for cooled boiled water for cup 4. Fill it up. Add a little oil on top.",
+     "parent": "Boiling removes much of the dissolved air from water, and oil slows air getting back in. It is not perfect, so a seed or two may still sprout in cup 4. That is fine, and worth talking about."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Cover cups 1, 2 and 4 with plates and put them on a kitchen shelf. 2. Put cup 3 in the fridge, not the freezer. 3. Put cup 5 uncovered in a bright spot on the same shelf or a window sill, out of hot direct sun. 4. Write your guesses in the table.",
+     "say": "Cup 2 is our normal cup. Each other cup is different in just one way. Which one is missing water? Which is missing warmth? Which is missing air? Which has extra light?",
+     "kid": "Cover cups 1, 2 and 4 with plates. Put cup 3 in the fridge. Put cup 5 in a bright spot. Now guess: how many will sprout in each cup?",
+     "ask": [
+      {
+       "q": "Why do we compare every cup with cup 2?",
+       "good": [
+        "Cup 2 has everything, so it shows what normal looks like.",
+        "Each other cup changes just one thing, so we know what made the difference."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "In the five-cup test, which cup tests whether seeds need air?",
+      "options": [
+       "Cup 1, Dry",
+       "Cup 3, Fridge",
+       "Cup 4, Under water with oil",
+       "Cup 5, Light"
+      ],
+      "a": 2,
+      "why": "Cup 4 has plenty of water and warmth, but almost no air, because the boiled water and the oil keep air out. So it tests air. Picking cup 1 usually mixes up water and air. Cup 1 has air but no water. Cup 3 tests warmth, and cup 5 tests light."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "wait": "Leave the cups for 1 day",
+     "do": "1. The next day, count the seeds with a little white root in each cup. 2. Write the numbers in the table. 3. Add a few drops of water to cups 2, 3 and 5 if the cotton feels dry.",
+     "say": "Let's count. A seed counts as sprouted when you can see a little white root poking out.",
+     "kid": "Count the seeds with a white tail in each cup. Write the numbers down. Is any cotton dry? Add a few drops.",
+     "parent": "By day 2, cups 2 and 5 usually have most seeds sprouted. Cup 3 is usually still asleep. Cup 1 seeds look just as they did. Cup 4 seeds are swollen but mostly have no root."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "wait": "Leave the cups for 1 more day",
+     "do": "1. On day 3, count again and write the numbers. 2. Help your child draw a bar chart with one bar for each cup.",
+     "say": "Let's turn the numbers into a picture. Each cup gets one bar. The taller the bar, the more seeds sprouted.",
+     "kid": "Count again. Draw one bar for each cup. Make it as tall as the number that sprouted.",
+     "chart": {
+      "type": "bar",
+      "title": "Made-up example: how many of 10 moong seeds sprouted in 3 days",
+      "x": "Cup",
+      "y": "Seeds sprouted (out of 10)",
+      "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
+      "data": [
+       {
+        "label": "Dry",
+        "value": 0,
+        "emoji": "🏜️"
+       },
+       {
+        "label": "Damp and warm",
+        "value": 9,
+        "emoji": "🌱"
+       },
+       {
+        "label": "Damp, in the fridge",
+        "value": 1,
+        "emoji": "❄️"
+       },
+       {
+        "label": "Under water and oil",
+        "value": 2,
+        "emoji": "🫙"
+       },
+       {
+        "label": "Damp, warm, in the light",
+        "value": 9,
+        "emoji": "☀️"
+       }
+      ]
+     },
+     "check": {
+      "t": "mcq",
+      "q": "In the five-cup test, the damp cup in the light and the damp cup in the dark both sprouted about the same. What does that tell you?",
+      "options": [
+       "Moong seeds need light to sprout",
+       "Moong seeds do not need light to sprout",
+       "Light stops seeds sprouting"
+      ],
+      "a": 1,
+      "why": "If light mattered, the cup in the light would have sprouted much more. It didn't. So moong seeds sprout just as well in the dark. Picking 'need light' usually comes from knowing that grown plants need light. That is true later, but not for waking up."
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then take cup 3 out of the fridge and leave it on the shelf for 2 more days.",
+     "say": "Let's finish like real scientists. Tell me three things. What do you think seeds need? What did you see that shows it? And why do you think it happened?",
+     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why. Then take the fridge cup out. Will its seeds wake up now?",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: moong seeds need water, warmth and air, but not light. What I saw: 9 of 10 sprouted in the damp cups, but none in the dry cup, 1 in the fridge and 2 under water. Why: water wakes the seed, warmth makes it work faster, and it needs air to breathe. The fridge seeds usually sprout after a day or two in the warm. That shows cold made them wait, but did not kill them.",
+     "think": "The fridge seeds woke up when they were warmed. Were they alive all along?"
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Warm Flask: do sprouting seeds breathe?",
+   "mins": 25,
+   "days": 3,
+   "context": "This is the warm flask test. You put live sprouting moong in one flask and boiled moong in another. A thermometer in each shows whether the live seeds make warmth by breathing.",
+   "question": "Do sprouting seeds make warmth? Is that a sign that they are breathing?",
+   "predict": "Before you start, guess. After a day, will the two flasks be the same temperature, or will one be warmer? Which one?",
+   "fair_test": "To make it fair, both flasks get the same kind and amount of seeds, soaked for the same time. Both stay in the same place. The only difference is that one lot is alive and the other has been boiled.",
+   "results_table": [
+    "Time",
+    "Live seeds: temperature (degrees Celsius)",
+    "Boiled seeds: temperature (degrees Celsius)",
+    "Room: temperature (degrees Celsius)"
+   ],
+   "materials": [
+    {
+     "item": "2 cups of whole moong, soaked overnight",
+     "qty": 2,
+     "buy": "b-moong"
+    },
+    {
+     "item": "2 small steel or vacuum flasks, the same size",
+     "qty": 2
+    },
+    {
+     "item": "2 thermometers, or 1 moved between the flasks",
+     "qty": 2,
+     "buy": "b-thermometer"
+    },
+    {
+     "item": "cotton wool to plug the top of each flask loosely",
+     "qty": 1
+    },
+    {
+     "item": "a pan and a stove, used only by a grown-up",
+     "qty": 1
+    }
+   ],
+   "safety": "Only a grown-up boils the seeds. Let them cool completely before they go in a flask. Plug the flasks loosely with cotton, never with a tight lid, so air can get in. Don't eat the seeds afterwards.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Boil and cool one lot of soaked seeds. Fill both flasks. Read both thermometers."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Read both thermometers in the morning and evening."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Read again. Draw two bars for the 24-hour readings. Say what you think, what you saw and why."
+    }
+   ],
+   "record": "Write the temperatures in the table each time. Then draw two bars for the 24-hour reading: one for the live seeds and one for the boiled seeds.",
+   "setup": [
+    {
+     "art": "Two bowls of soaked moong, one being poured into a steaming pan by a grown-up, the other left as it is.",
+     "caption": "1. A grown-up boils one bowl of soaked moong, then lets it cool."
+    },
+    {
+     "art": "Two steel flasks side by side, one labelled LIVE and one labelled BOILED, each filled with moong, a thermometer standing in each, and a loose plug of cotton at the top.",
+     "caption": "2. Fill one flask with live seeds and one with boiled seeds. Put a thermometer in each."
+    },
+    {
+     "art": "A child reading the red lines on two thermometers, the one in the LIVE flask a little higher.",
+     "caption": "3. Read both thermometers, morning and evening, for 2 days."
+    }
+   ],
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example: temperature inside two flasks of soaked moong (degrees Celsius)",
+    "note": "Made-up numbers to show the pattern. The live sprouts warm up. The boiled seeds stay at about room temperature.",
+    "cols": [
+     "Hours after starting",
+     "Live moong",
+     "Boiled moong"
+    ],
+    "rows": [
+     [
+      "0",
+      "27",
+      "27"
+     ],
+     [
+      "6",
+      "28",
+      "27"
+     ],
+     [
+      "12",
+      "29",
+      "27"
+     ],
+     [
+      "24",
+      "31",
+      "27"
+     ],
+     [
+      "36",
+      "32",
+      "28"
+     ]
+    ]
+   },
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "adult": true,
+     "context": "This is the first step of the warm flask test. You find out whether sprouting seeds make warmth, by comparing live seeds with boiled ones.",
+     "do": "1. Split the soaked moong into two equal bowls. 2. A grown-up boils one bowl for 10 minutes. 3. Let the boiled seeds cool completely, until they feel as cool as the live ones.",
+     "say": "Boiling kills the baby plants inside the seeds. So these boiled seeds are just the same as the live ones, except they are no longer alive.",
+     "kid": "Split the soaked moong into two bowls. Ask a grown-up to boil one bowl. Wait until it is cool.",
+     "ask": [
+      {
+       "q": "Why do we use boiled seeds, and not an empty flask?",
+       "good": [
+        "So the only difference is being alive.",
+        "The boiled seeds are wet and the same size, but they can't breathe."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Fill one flask with live seeds and label it LIVE. 2. Fill the other with boiled seeds and label it BOILED. 3. Push a thermometer into the middle of each. 4. Plug each top loosely with cotton. 5. Read both thermometers and the room temperature. Write them down.",
+     "say": "The cotton lets air in, but keeps the warmth in the flask. Let's read the thermometers now, at the start.",
+     "kid": "Fill the LIVE flask and the BOILED flask. Push a thermometer into each. Plug the tops loosely with cotton. Read both numbers. Write them down.",
+     "parent": "Read the number at the top of the red line. At the start, both flasks should be about the same as the room."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "wait": "Check morning and evening for 2 days",
+     "do": "Read both thermometers each morning and evening for 2 days. Write each reading in the table.",
+     "say": "Are they still the same? Which one is changing?",
+     "kid": "Read both thermometers, morning and evening. Write the numbers. Which flask is warmer?",
+     "chart": {
+      "type": "table",
+      "title": "Made-up example: temperature inside two flasks of soaked moong (degrees Celsius)",
+      "note": "Made-up numbers to show the pattern. The live sprouts warm up. The boiled seeds stay at about room temperature.",
+      "cols": [
+       "Hours after starting",
+       "Live moong",
+       "Boiled moong"
+      ],
+      "rows": [
+       [
+        "0",
+        "27",
+        "27"
+       ],
+       [
+        "6",
+        "28",
+        "27"
+       ],
+       [
+        "12",
+        "29",
+        "27"
+       ],
+       [
+        "24",
+        "31",
+        "27"
+       ],
+       [
+        "36",
+        "32",
+        "28"
+       ]
+      ]
+     },
+     "parent": "Live sprouting seeds usually warm up by a few degrees. The boiled seeds stay close to the room temperature. If the boiled seeds start to smell or warm up after a few days, tiny living things called bacteria have started to feed on them. Bacteria breathe too. So stop the test after 2 days."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why.",
+     "say": "Let's finish like scientists. What do you think? What did you see? Why do you think it happened?",
+     "kid": "Finish like a scientist. What I think. What I saw. Why.",
+     "parent": "A good answer sounds like this. What I think: sprouting seeds breathe, and breathing makes warmth. What I saw: the live seeds warmed up from 27 to 31 degrees, but the boiled seeds stayed at 27. Why: live seeds use oxygen to get energy from their food, and some of that energy comes out as heat.",
+     "check": {
+      "t": "mcq",
+      "q": "In the warm flask test, the flask of live sprouts got warmer than the flask of boiled seeds. Why?",
+      "options": [
+       "The live seeds were breathing, and breathing makes warmth",
+       "The boiled seeds were still cooling down",
+       "The live flask was in the sun"
+      ],
+      "a": 0,
+      "why": "Live seeds use oxygen to get energy from their stored food. Some of that energy comes out as heat, so the flask warms. Picking 'still cooling down' is a good scientist's worry, which is why we cooled the boiled seeds first. Picking 'in the sun' would mean the test was not fair. Both flasks were kept in the same place."
+     }
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "The Swelling Push: how much water does a seed drink?",
+   "mins": 20,
+   "days": 2,
+   "context": "This is the swelling test. You weigh some dry chana, soak it overnight and weigh it again. You also find out how hard swelling seeds can push.",
+   "question": "How much water does a seed drink before it sprouts? How hard can a swelling seed push?",
+   "predict": "Before you start, guess. After a night in water, will the chana weigh the same, a little more, or twice as much?",
+   "fair_test": "Weigh the chana on the same scale both times. Before you weigh the soaked chana, drain it and pat it dry with a cloth, so you weigh only the water inside the seeds, not the water on the outside.",
+   "results_table": [
+    "Chana",
+    "Weight (grams)",
+    "How full is the cup?"
+   ],
+   "materials": [
+    {
+     "item": "a kitchen scale",
+     "qty": 1,
+     "buy": "b-scale"
+    },
+    {
+     "item": "50 grams of dry whole chana",
+     "qty": 1
+    },
+    {
+     "item": "2 small clear plastic cups or bottles with lids, not glass",
+     "qty": 2,
+     "buy": "b-cups"
+    },
+    {
+     "item": "water, a strainer and a cloth",
+     "qty": 1
+    }
+   ],
+   "safety": "Use plastic, never glass, for the pushing test. Swelling seeds can crack glass.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Weigh the dry chana and soak it. Fill a small plastic cup to the brim with dry chana and water, and put its lid on."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Weigh the soaked chana. Look at the lid of the full cup. Work out how many times heavier the chana is."
+    }
+   ],
+   "record": "Write both weights. Draw the full cup before and after.",
+   "setup": [
+    {
+     "art": "50 grams of dry chana in a steel bowl on a kitchen scale showing 50.",
+     "caption": "1. Weigh 50 grams of dry chana."
+    },
+    {
+     "art": "A small clear plastic cup filled to the brim with dry chana and water, its lid pressed on.",
+     "caption": "2. Soak the chana. Also fill a small plastic cup to the brim with chana and water, and put on its lid."
+    },
+    {
+     "art": "Next morning: the drained chana on the scale showing about 100, and the plastic cup with its lid pushed up by fat swollen chana.",
+     "caption": "3. Next day, drain, pat dry and weigh again. Look at the lid."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "context": "This is the first step of the swelling test. You weigh dry chana before soaking it.",
+     "do": "1. Weigh out 50 grams of dry chana. 2. Put it in a bowl and cover it with plenty of water. 3. Write down the weight.",
+     "say": "Dry seeds have very little water inside. Let's find out how much they drink overnight.",
+     "kid": "Weigh 50 grams of dry chana. Write it down. Cover it with lots of water."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Fill a small plastic cup right to the top with dry chana. 2. Pour in water to the brim. 3. Press the lid on.",
+     "say": "This cup is full to the top. What will happen when the seeds swell?",
+     "kid": "Fill a small plastic cup with dry chana, right to the top. Add water to the top. Put the lid on. What will happen?"
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "wait": "Leave overnight",
+     "do": "1. The next morning, drain the chana in the bowl and pat it dry with a cloth. 2. Weigh it again and write the weight. 3. Look at the cup with the lid.",
+     "say": "How much does it weigh now? Where did the extra weight come from? And look at that lid!",
+     "kid": "Drain the chana. Pat it dry. Weigh it again. Is it heavier? Now look at the cup. What happened to the lid?",
+     "parent": "The chana usually weighs about twice as much, close to 100 grams. The extra weight is water that went inside the seeds. The lid is usually pushed up or off, and the cup may bulge. Swelling seeds push very hard."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "Work out together how many times heavier the chana is. Then ask your child to say what they think, what they saw and why.",
+     "say": "50 grams became about 100 grams. How many 50s make 100? So how many times heavier is it?",
+     "kid": "Dry: 50 grams. Soaked: about 100 grams. How many times heavier? Then say what you think, what you saw and why.",
+     "parent": "A good answer sounds like this. What I think: seeds drink a lot of water before they sprout. What I saw: 50 grams of chana became 100 grams, twice as heavy, and the seeds pushed the lid off. Why: water goes inside the seed and it swells.",
+     "check": {
+      "t": "mcq",
+      "q": "In the swelling test, 50 grams of dry chana weighed about 100 grams after soaking. Where did the extra weight come from?",
+      "options": [
+       "Water that went inside the seeds",
+       "The seeds grew new food overnight",
+       "Air that got into the seeds"
+      ],
+      "a": 0,
+      "why": "The seeds drank water and swelled. We patted them dry, so the extra weight is the water inside them. Picking 'new food' usually means thinking the seed is already growing. It hasn't made any new food. In fact it starts using its food up. Air weighs far too little to add 50 grams."
+     }
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Open a Seed: find the baby plant and its lunch",
+   "mins": 15,
+   "days": 1,
+   "context": "This is a hands-on look inside seeds. You soak some beans and a peanut overnight, peel them, split them open and find the tiny baby plant and its food store.",
+   "materials": [
+    {
+     "item": "4 rajma or big white beans, soaked overnight, and 1 dry one to compare",
+     "qty": 5
+    },
+    {
+     "item": "2 raw peanuts and 2 chana, soaked overnight",
+     "qty": 4
+    },
+    {
+     "item": "1 maize kernel, soaked overnight (optional)",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, if you have one",
+     "qty": 1,
+     "buy": "b-lens"
+    },
+    {
+     "item": "paper and coloured pencils",
+     "qty": 1
+    }
+   ],
+   "safety": "Use your fingernails to open the seeds. A grown-up cuts the maize kernel with a knife if you try one.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Soak the seeds the night before. Peel, split and look. Draw and label."
+    }
+   ],
+   "record": "Draw one opened bean, big. Label three parts: seed coat, baby plant and food store.",
+   "setup": [
+    {
+     "art": "A dry wrinkly rajma bean next to a fat smooth soaked one in a child's palm.",
+     "caption": "1. Compare a dry bean with a soaked one."
+    },
+    {
+     "art": "Fingers peeling the red coat off a soaked rajma, the creamy bean showing underneath.",
+     "caption": "2. Rub off the coat. Gently split the bean in two along its edge."
+    },
+    {
+     "art": "A magnifying glass over one half of a split bean, showing a tiny baby plant with a pointed root and two small folded leaves.",
+     "caption": "3. Find the tiny baby plant at the edge. Draw it and label it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "context": "This is the first step of Open a Seed. You look inside soaked beans to find the baby plant.",
+     "do": "1. Give your child one dry bean and one soaked bean. 2. Ask them to feel, look at and compare the two.",
+     "say": "This one has been in water all night. This one is dry. What is different?",
+     "kid": "Hold a dry bean and a soaked bean. Feel them. Look closely. What is different?",
+     "ask": [
+      {
+       "q": "What has the water done to the bean?",
+       "good": [
+        "It is bigger and fatter.",
+        "It is softer.",
+        "The skin is smooth and looser."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Show your child the pale scar on the side of the soaked bean. 2. Rub the coat until it slips off. 3. Gently split the bean along its edge into two halves with a fingernail.",
+     "say": "This little scar is where the bean was joined to its pod. Water got in near here. Now let's take off its coat and open it like a book.",
+     "kid": "Find the small pale scar on the bean. Rub off the coat. Use your nail to open the bean in two, like a book.",
+     "parent": "The scar is called the hilum. Splitting is easiest along the curved edge, opposite the scar side. Some halves will break. That is fine. Try another bean."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Look at the inside edge of one half, near the scar end. Use the magnifying glass. 2. Find the tiny baby plant, with a little pointed root and two tiny folded leaves. 3. Do the same with a peanut and a chana.",
+     "say": "Look near the end. Can you see a tiny plant? It has a little root and two tiny leaves, folded up. The two big halves are its lunch.",
+     "kid": "Look near the end of one half. Find a tiny plant. It has a little root and two tiny leaves. The big halves are its food.",
+     "parent": "In a peanut, the baby plant is very easy to see at the pointed tip, between the halves. In maize there is only one food store, with a small pale patch on one face where the baby plant lies.",
+     "check": {
+      "t": "mcq",
+      "q": "You split a soaked bean into its two big halves. What are those two halves for?",
+      "options": [
+       "They are the food store that feeds the baby plant",
+       "They are the roots",
+       "They are just the shell",
+       "They are the flower"
+      ],
+      "a": 0,
+      "why": "The two big halves are seed leaves packed with food. They feed the baby plant until it can make food from sunlight. Picking 'shell' usually mixes up the halves with the thin coat, which you peeled off first. The roots have not grown yet. Only a tiny root tip is there, on the baby plant."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Ask your child to draw one opened bean, big, and label the seed coat, the baby plant and the food store.",
+     "say": "Draw it as big as you can. Label three parts: the coat, the baby plant and its food store.",
+     "kid": "Draw your bean, big. Label the coat, the baby plant and the food store.",
+     "think": "The baby plant was already there before you soaked it. Who made it?"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Can Dal Sprout? Whole seeds against split and roasted ones",
+   "mins": 15,
+   "days": 3,
+   "context": "This is a test with kitchen seeds. You put whole moong, split moong dal, raw peanuts and roasted peanuts on a wet cloth, and find out which can still sprout.",
+   "materials": [
+    {
+     "item": "10 whole moong and 10 pieces of split moong dal",
+     "qty": 20,
+     "buy": "b-moong"
+    },
+    {
+     "item": "5 raw peanuts and 5 roasted peanuts",
+     "qty": 10
+    },
+    {
+     "item": "a plate, a wet cloth or tissue, and 4 paper labels",
+     "qty": 1
+    }
+   ],
+   "safety": "Do not eat the seeds after the test.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Set out the four groups on a wet cloth. Guess which will sprout."
+    },
+    {
+     "day": 3,
+     "mins": 7,
+     "what": "Count which sprouted. Explain why."
+    }
+   ],
+   "record": "Write how many of each group sprouted.",
+   "setup": [
+    {
+     "art": "A plate with a wet cloth and four small groups: green whole moong, yellow split dal, pink-skinned raw peanuts and brown roasted peanuts, each with a paper label.",
+     "caption": "1. Put four groups on a wet cloth, with labels."
+    },
+    {
+     "art": "The same plate covered with another plate on a kitchen shelf.",
+     "caption": "2. Cover the plate. Keep the cloth wet for 2 days."
+    },
+    {
+     "art": "The plate two days later: the whole moong and raw peanuts with white tails, the dal and roasted peanuts unchanged.",
+     "caption": "3. Count which ones sprouted."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "context": "This is the first step of the Can Dal Sprout? test. You compare whole seeds with split and roasted ones.",
+     "do": "1. Lay a wet cloth on a plate. 2. Put four groups on it: whole moong, split moong dal, raw peanuts and roasted peanuts. 3. Label each group.",
+     "say": "These are the same kinds of seeds. Some are whole, some are split, and some are roasted. Which ones can still sprout?",
+     "kid": "Put the four groups on a wet cloth. Label them. Which ones will sprout? Guess first."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "wait": "Leave for 2 days",
+     "do": "1. Cover the plate with another plate. 2. Keep the cloth wet. 3. After 2 days, count the sprouts in each group.",
+     "say": "Let's count. Which groups sprouted?",
+     "kid": "Cover the plate. Keep the cloth wet. After 2 days, count the sprouts in each group."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "Talk about why. Then ask your child to say what they think, what they saw and why.",
+     "say": "The dal and the roasted peanuts had water, warmth and air. So why didn't they sprout?",
+     "kid": "The dal had water, warmth and air. Why didn't it sprout? Say what you think, what you saw and why.",
+     "parent": "Split dal has lost its coat and has been split. The tiny baby plant is usually broken off. Roasting cooks the baby plant, so it is dead. A good answer: what I think, a seed needs a living baby plant to sprout. What I saw, 9 whole moong sprouted but no dal, and the raw peanuts sprouted but not the roasted ones. Why, the dal had lost its baby plant, and roasting killed the peanut's baby plant.",
+     "check": {
+      "t": "mcq",
+      "q": "In the Can Dal Sprout? test, the roasted peanuts got water, warmth and air but did not sprout. Why?",
+      "options": [
+       "Roasting killed the baby plant inside",
+       "They needed more water",
+       "Peanuts can never sprout"
+      ],
+      "a": 0,
+      "why": "Water, warmth and air only wake a seed that is alive. Roasting cooks the baby plant, so there is nothing left to wake. Picking 'more water' means thinking water alone makes seeds grow. Picking 'never sprout' is ruled out by the raw peanuts, which did sprout."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "The Seed Window: which way does the root grow?",
+   "mins": 15,
+   "days": 5,
+   "context": "This is a jar where you can watch seeds sprout. You push soaked chana between wet paper and the glass, some upside down, and see which way the roots and shoots grow.",
+   "materials": [
+    {
+     "item": "a clear plastic jar or a tall clear cup",
+     "qty": 1,
+     "buy": "b-cups"
+    },
+    {
+     "item": "paper towel or blotting paper",
+     "qty": 2
+    },
+    {
+     "item": "4 chana or rajma, soaked overnight",
+     "qty": 4
+    },
+    {
+     "item": "water",
+     "qty": 1
+    }
+   ],
+   "safety": "Use a plastic jar if you have one, so nothing breaks.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 6,
+     "what": "Set up the jar with seeds lying in different ways."
+    },
+    {
+     "day": 3,
+     "mins": 4,
+     "what": "Look and draw. When roots are 2 cm long, turn the jar on its side."
+    },
+    {
+     "day": 5,
+     "mins": 5,
+     "what": "Look and draw again. Which way did the roots turn?"
+    }
+   ],
+   "record": "Draw the seeds on day 1, day 3 and day 5. Draw an arrow showing which way each root grew.",
+   "setup": [
+    {
+     "art": "A clear jar lined with paper towel, four soaked chana pushed between the paper and the side halfway up, each pointing a different way, a little water at the bottom.",
+     "caption": "1. Line a jar with paper. Push 4 seeds between paper and plastic, each a different way."
+    },
+    {
+     "art": "The jar on day 3: every seed has a root, and every root is curving downwards.",
+     "caption": "2. Watch the roots. They all turn to grow down."
+    },
+    {
+     "art": "The jar laid on its side, the roots' tips bending to point down again.",
+     "caption": "3. Turn the jar on its side. Watch the root tips bend down again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "context": "This is the first step of the Seed Window. You set up a jar so you can watch roots grow.",
+     "do": "1. Line the inside of the jar with paper towel. 2. Push 4 soaked chana between the paper and the side, halfway up. 3. Put one scar up, one scar down, one on its side and one at a slant. 4. Pour about 2 cm of water in the bottom, so the paper stays wet.",
+     "say": "We've put the seeds every which way. When the roots come out, which way will they go?",
+     "kid": "Line a jar with paper. Push 4 seeds between the paper and the side. Put each one a different way. Add a little water at the bottom.",
+     "ask": [
+      {
+       "q": "Which will come out first, the root or the shoot?",
+       "good": [
+        "The root.",
+        "The root, so it can drink and hold on."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "wait": "Look again in 2 days",
+     "do": "1. After 2 days, look and draw each seed. 2. When the roots are about 2 cm long, lay the jar on its side.",
+     "say": "Every root is going down, even the one that started pointing up. How does it know?",
+     "kid": "Look at the roots. Which way are they growing? Draw them. Now lay the jar on its side.",
+     "check": {
+      "t": "mcq",
+      "q": "In the seed window jar, one chana was put in upside down. Which way does its root grow?",
+      "options": [
+       "Up, the way it was pointing",
+       "Down, towards the ground",
+       "Sideways"
+      ],
+      "a": 1,
+      "why": "Roots feel gravity and turn to grow down, whichever way the seed lies. Picking 'up' means thinking the root simply carries on the way the seed points. Watch: an upside-down seed's root curls round and heads down."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "wait": "Look again in 2 more days",
+     "do": "After 2 more days, look again. Ask your child to say what they think, what they saw and why.",
+     "say": "We turned the jar. What did the root tips do?",
+     "kid": "What did the root tips do after you turned the jar? Say what you think, what you saw and why.",
+     "parent": "The root tips bend to point down again. Root tips have cells with tiny heavy grains of starch inside. The grains settle to the bottom, so the root can tell which way is down. A good answer: what I think, roots always grow down. What I saw, all 4 roots grew down, and when we turned the jar, they bent down again. Why, roots feel gravity.",
+     "think": "Astronauts have grown plants in space. Which way do you think their roots grew?"
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Sweet Sprouts: a taste test",
+   "mins": 10,
+   "days": 3,
+   "context": "This is a taste test. You chew a soaked moong seed and a two-day-old moong sprout, and find out which tastes sweeter.",
+   "materials": [
+    {
+     "item": "a few moong seeds soaked overnight, and a few that have sprouted for 2 days, both washed well",
+     "qty": 1,
+     "buy": "b-moong"
+    },
+    {
+     "item": "a glass of water to rinse your mouth",
+     "qty": 1
+    }
+   ],
+   "safety": "Use moong from the kitchen, washed in clean water, not seeds from a test. A grown-up can steam them for a minute first if your family prefers.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 2,
+     "what": "Soak a spoonful of moong. Start sprouting another spoonful two days before."
+    },
+    {
+     "day": 3,
+     "mins": 8,
+     "what": "Taste both. Compare."
+    }
+   ],
+   "record": "Write which tasted sweeter, and one word for each taste.",
+   "setup": [
+    {
+     "art": "Two small steel bowls, one with plain soaked moong and one with moong sprouts with white tails.",
+     "caption": "1. Put soaked moong in one bowl and 2-day sprouts in another."
+    },
+    {
+     "art": "A child with closed eyes slowly chewing, a glass of water beside them.",
+     "caption": "2. Chew one of each slowly. Rinse your mouth in between."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "context": "This is the first step of the Sweet Sprouts taste test. You compare a soaked seed with a sprouted one.",
+     "do": "1. Ask your child to chew one soaked seed slowly, for 20 seconds. 2. Rinse with water. 3. Then chew one sprout slowly.",
+     "say": "Chew slowly and think about the taste. Is one of them sweeter?",
+     "kid": "Chew a soaked seed slowly. Sip water. Now chew a sprout slowly. Which is sweeter?"
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Talk about why the sprout might taste sweeter.",
+     "say": "The seed's lunch is mostly starch. Starch is not sweet. But as it sprouts, the seed turns some starch into sugar. Why would it do that?",
+     "kid": "The seed's food is starch. Starch is not sweet. A sprout turns some starch into sugar. Why?",
+     "parent": "The baby plant cannot use starch directly. Enzymes, helpers made by its cells, cut starch into sugar that can travel to the growing root and shoot. The change is small, so not everyone can taste it. That is fine. Ragi malt is made from sprouted ragi for the same reason.",
+     "ask": [
+      {
+       "q": "Why does a sprouting seed turn starch into sugar?",
+       "good": [
+        "So the baby plant can use it as food.",
+        "Sugar can move to the root and shoot."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Be a Seed: act out sprouting",
+   "mins": 10,
+   "days": 1,
+   "context": "This is a movement game. Children act out a seed waking up: drinking, swelling, pushing out a root, and lifting a shoot to the light.",
+   "materials": [
+    {
+     "item": "a clear space on the floor and, if you like, some slow music",
+     "qty": 1
+    }
+   ],
+   "safety": "Clear the space of anything hard or sharp.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Act out a seed sprouting, twice, slowly."
+    }
+   ],
+   "record": "Draw yourself as a sprouting seed, with your root and shoot.",
+   "setup": [
+    {
+     "art": "A child curled up tight on the floor like a seed, arms around knees.",
+     "caption": "1. Curl up small and still, like a dry seed."
+    },
+    {
+     "art": "The child stretching one leg out along the floor like a root, while still curled.",
+     "caption": "2. Drink, swell, then push one leg out and down as your root."
+    },
+    {
+     "art": "The child rising slowly with back bent like a hook, then straightening with arms open like two leaves.",
+     "caption": "3. Rise with a bent back like a hook. Then open your arms like leaves."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "context": "This is the first step of Be a Seed. You act out how a seed sprouts.",
+     "do": "Read out each stage slowly while your child acts it: dry seed, rain, swelling, root, hook, leaves.",
+     "say": "You are a dry seed, curled up and still. Now the rain comes. Drink it in. Swell bigger. Your coat splits. Push your root out first, down into the ground. Now your shoot. Rise slowly, with your back bent like a hook. Now straighten up, and open your two leaves to the sun.",
+     "kid": "Curl up tight. You are a dry seed. Rain! Drink it. Swell. Push your root out, down. Now rise slowly, bent like a hook. Stand up. Open your leaves.",
+     "parent": "Go slowly. Point out the order. The root comes first, then the shoot. The bent hook protects the shoot's soft tip as it pushes through the soil."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Do it again, but this time call out a problem halfway, and let your child show what happens.",
+     "say": "Let's do it again. But this time, oh no, the cup is full of water. There is no air. What does the seed do?",
+     "kid": "Again! But this time a grown-up calls out a problem. Show what happens to the seed.",
+     "parent": "Problems to call out: no water (stay curled), a cold fridge (move very, very slowly), drowned with no air (stop and go floppy), a dark cupboard (keep going, because seeds can sprout in the dark).",
+     "check": {
+      "t": "mcq",
+      "q": "In Be a Seed, which part of the seed comes out first?",
+      "options": [
+       "The root",
+       "The shoot",
+       "The leaves",
+       "The flower"
+      ],
+      "a": 0,
+      "why": "The root comes out first, so the seedling can hold on and drink. Picking 'shoot' or 'leaves' is a common guess, because those are the parts we see first above the soil. Underground, the root was there before them."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "title": "The Kitchen Seed Hunt",
+   "mins": 15,
+   "days": 1,
+   "context": "This is a hunt in your kitchen. You find as many seeds as you can, line them up from smallest to biggest, and name the plant each one comes from.",
+   "materials": [
+    {
+     "item": "small amounts of seeds from the kitchen, such as rai, jeera, methi, sesame, moong, chana, rajma, peanuts, rice, a tamarind seed and a mango or jamun stone",
+     "qty": 1
+    },
+    {
+     "item": "a long strip of paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Ask before opening jars. Put everything back.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Hunt for seeds. Line them up. Name the plants."
+    }
+   ],
+   "record": "Make a line of seeds on the paper strip, from smallest to biggest. Write or draw the plant beside each one.",
+   "setup": [
+    {
+     "art": "A child at an open kitchen shelf of steel jars, holding a pinch of rai seeds.",
+     "caption": "1. Find as many seeds as you can in the kitchen."
+    },
+    {
+     "art": "A long paper strip on the floor with seeds lined up from a tiny rai grain to a big mango stone, small plant drawings beside each.",
+     "caption": "2. Line them up, smallest to biggest. Name each plant."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "context": "This is the first step of the Kitchen Seed Hunt. You look for seeds in your kitchen.",
+     "do": "Help your child find seeds in the kitchen. Take a few of each.",
+     "say": "Our kitchen is full of sleeping baby plants. How many different kinds can we find?",
+     "kid": "Your kitchen is full of seeds. How many kinds can you find? Take a few of each.",
+     "adult": false,
+     "parent": "Good finds: rai, jeera, methi, sesame, ajwain, saunf, moong, masoor, chana, rajma, peanuts, rice, wheat, corn, cashew, a tamarind seed, a mango stone, seeds inside a tomato, a chilli or a papaya. Jeera, saunf and ajwain are really tiny dry fruits, each holding seeds."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Line them up on the paper strip from smallest to biggest. 2. Next to each, write or draw the plant it grows into.",
+     "say": "Does the biggest seed grow into the biggest plant?",
+     "kid": "Line them up, smallest to biggest. Draw the plant for each one. Does a big seed make a big plant?",
+     "think": "A banyan tree's seed is smaller than a rai grain. How does a giant tree come from something so small?"
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "My Seed Friend: a sprouting diary",
+   "mins": 50,
+   "days": 10,
+   "context": "This is a 10-day project. You plant one bean against the side of a clear cup, give it a name, look after it and draw it every day, from seed to its first true leaves.",
+   "materials": [
+    {
+     "item": "a clear plastic cup",
+     "qty": 1,
+     "buy": "b-cups"
+    },
+    {
+     "item": "soil or cocopeat",
+     "qty": 1
+    },
+    {
+     "item": "2 rajma or chana, soaked overnight",
+     "qty": 2
+    },
+    {
+     "item": "a ruler with millimetre marks",
+     "qty": 1,
+     "buy": "b-ruler"
+    },
+    {
+     "item": "a notebook for the diary",
+     "qty": 1
+    }
+   ],
+   "safety": "Wash your hands after touching soil.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Plant two beans against the side of the cup. Name your seed friend. Draw it."
+    },
+    {
+     "day": 2,
+     "mins": 3,
+     "what": "Water a little. Look through the side. Draw."
+    },
+    {
+     "day": 3,
+     "mins": 4,
+     "what": "Look for the root. Measure it. Draw."
+    },
+    {
+     "day": 4,
+     "mins": 3,
+     "what": "Water. Measure the root. Draw."
+    },
+    {
+     "day": 5,
+     "mins": 4,
+     "what": "Look for the hooked shoot. Measure the root and the shoot. Draw."
+    },
+    {
+     "day": 6,
+     "mins": 3,
+     "what": "Water. Measure. Draw."
+    },
+    {
+     "day": 7,
+     "mins": 4,
+     "what": "Watch the seed halves lift and turn green. Measure. Draw."
+    },
+    {
+     "day": 8,
+     "mins": 3,
+     "what": "Water. Measure. Draw."
+    },
+    {
+     "day": 9,
+     "mins": 4,
+     "what": "Look for the first true leaves. Measure. Draw."
+    },
+    {
+     "day": 10,
+     "mins": 12,
+     "what": "Make a growth table. Read your diary aloud to someone. Plant your friend in a bigger pot."
+    }
+   ],
+   "record": "A diary page for every day: a drawing, the root length and the shoot length in millimetres, and one sentence.",
+   "setup": [
+    {
+     "art": "A clear plastic cup filled with soil, two soaked beans pressed against the inside wall so they can be seen from outside.",
+     "caption": "1. Push two soaked beans into soil against the side of a clear cup."
+    },
+    {
+     "art": "A child writing a name label, 'Raju', and sticking it on the cup.",
+     "caption": "2. Give your seed friend a name."
+    },
+    {
+     "art": "The cup a week later, with a white root visible down the side and a green shoot with two leaves above the soil, a ruler beside it.",
+     "caption": "3. Every day, look, measure and draw in your diary."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "context": "This is the first step of My Seed Friend. You plant a bean where you can watch it sprout, and start a diary.",
+     "do": "1. Fill the cup with damp soil. 2. Push two soaked beans down against the side, about 2 cm deep, so you can see them through the plastic. 3. Name the plant. 4. Draw it on page 1 of the diary.",
+     "say": "This is your seed friend. You will look after it, and it will show you how it grows. What will you call it?",
+     "kid": "Fill the cup with damp soil. Push two beans against the side, so you can see them. Give your seed friend a name. Draw it.",
+     "parent": "Two beans are planted in case one does not sprout. Keep the cup out of hot direct sun for the first days. The soil should be damp, never soggy."
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "wait": "Every day for 8 days",
+     "do": "Each day: 1. Water a little if the top of the soil is dry. 2. Look through the side. 3. Measure the root and, later, the shoot in millimetres. 4. Draw and write one sentence.",
+     "say": "What has changed since yesterday? Measure it.",
+     "kid": "Each day, look at your seed friend. Water a little if the soil is dry. Measure the root and the shoot. Draw it. Write one sentence.",
+     "parent": "Usually the root shows by day 2 or 3. The hooked shoot comes up by day 4 to 6. The seed halves, the seed leaves, lift up and turn green, then shrink as their food is used up. The first true leaves open by about day 8 to 10.",
+     "check": {
+      "t": "mcq",
+      "q": "In your seed diary, the two fat seed halves of the bean lifted up, turned green, then got smaller. Why did they shrink?",
+      "options": [
+       "The baby plant used up their stored food",
+       "They dried in the sun",
+       "An insect ate them"
+      ],
+      "a": 0,
+      "why": "The seed halves are the food store. As the plant grows, it uses their food, so they shrink. Once its true leaves can make food from sunlight, it does not need them any more. Picking 'dried in the sun' is a fair guess, but they shrink even in the shade."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "If your seed friend dies, write a short note about how you feel. Talk about what might have gone wrong: too much water, too little, too cold, or no air in soggy soil. Plant the second bean.",
+     "say": "Sometimes a seed friend doesn't make it. That is sad, and it's all right to feel sad. What do you think it needed?",
+     "kid": "Did your seed friend die? That is sad. Write a short note about how you feel. What do you think it needed? Try again with the second bean.",
+     "parent": "This step is only needed if the plant dies. It comes from the founder's idea of writing a mourning note for a plant that could not be saved."
+    },
+    {
+     "id": "s4",
+     "mins": 12,
+     "do": "On day 10, put the root and shoot lengths into a table. Read the diary aloud to someone. Move the plant to a bigger pot.",
+     "say": "Read your diary to someone in the family. What surprised you most?",
+     "kid": "Make a table of your measurements. Read your diary to someone. What surprised you most? Plant your friend in a bigger pot.",
+     "think": "Your bean used up its packed lunch. Where will it get its food now?"
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Fastest Sprouts",
+   "mins": 25,
+   "problem": "Your family wants moong sprouts for breakfast as soon as possible. Your job is to get 20 moong seeds to grow roots at least 1 cm long, in the shortest time.",
+   "constraints": [
+    "Use only 20 moong seeds from the same packet.",
+    "No stove, oven or heater. You may use only safe warm places, like a kitchen shelf.",
+    "Write down the time you start and the time 15 of the 20 seeds have roots 1 cm long."
+   ],
+   "materials": [
+    "20 moong seeds",
+    "water and a bowl",
+    "a cloth, a strainer, cups, cotton or a tiffin",
+    "a clock",
+    "a ruler"
+   ],
+   "general": [
+    "Soak the seeds for about 8 to 12 hours. Then drain them, so they have water and air.",
+    "Keep them damp, not under water. Rinse them once or twice a day, so they don't go sour.",
+    "Keep them in a warm spot, like a kitchen shelf, out of hot sun. Light is not needed."
+   ],
+   "creative": [
+    "Hang them in a loose cloth bundle, the way many families do, so air reaches every seed.",
+    "Put them in a strainer over a bowl, covered with a damp cloth, so extra water drips away.",
+    "Some families wrap the bundle and keep it in a warm closed casserole. Does keeping in the warmth beat letting in more air?"
+   ],
+   "your_turn": "Now invent your own way. Draw it, try it and time it. Did you beat the usual way?",
+   "setup": [
+    {
+     "art": "A bowl of moong soaking in water beside a clock showing 8 o'clock.",
+     "caption": "1. Soak 20 moong seeds. Write the start time."
+    },
+    {
+     "art": "Three ways side by side: a loose hanging cloth bundle, a strainer over a bowl covered with a damp cloth, and a closed casserole.",
+     "caption": "2. Try your sprouting ideas: water, warmth and air."
+    },
+    {
+     "art": "A ruler next to moong sprouts with roots 1 cm long, a clock showing the time.",
+     "caption": "3. Check the roots. Write the time when 15 seeds have 1 cm roots."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "context": "This is the first step of Fastest Sprouts. It is a challenge to sprout moong as fast as you can, using what you know about water, warmth and air.",
+     "do": "Before soaking anything, list three ideas together for making the seeds sprout faster.",
+     "say": "Remember what a seed needs: water, warmth and air. How can we give it all three, as well as possible?",
+     "kid": "Think like a scientist. A seed needs water, warmth and air. Draw or write three ideas to make it sprout faster."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "wait": "Check every few hours for 2 days",
+     "do": "1. Try your best idea with the 20 seeds. 2. Check every few hours, when you can. 3. Write down the time when 15 of the seeds have roots 1 cm long.",
+     "say": "Let's check. How many have 1 cm roots yet?",
+     "kid": "Try your best idea. Check every few hours. When do 15 seeds have roots 1 cm long? Write the time.",
+     "parent": "Moong usually takes about 1 to 2 days to reach 1 cm roots at room temperature. Warmth speeds it up. Too much water slows it down and makes it sour."
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "do": "Read the usual ways and the creative ideas together. Then invent a new way and try it next time.",
+     "say": "Here's what people usually do, and some creative ideas. Can you invent a way that beats them?",
+     "kid": "Look at the usual ways and the creative ideas. Now invent your own way. Can you beat them?",
+     "think": "Farmers who sprout paddy seed before sowing keep it in wet sacks. Why sacks, and not sealed tins?"
+    }
+   ],
+   "context": "This is a design challenge. You must get 20 moong seeds to sprout as fast as possible, by giving them water, warmth and air."
+  },
+  {
+   "id": "c2",
+   "title": "Seeds for the Moon Base",
+   "mins": 30,
+   "problem": "Astronauts are going to live on the Moon. They will take seeds to grow food. Design a seed kit that keeps the seeds asleep for the journey, then wakes them on the Moon.",
+   "constraints": [
+    "The Moon has no air to breathe and no liquid water. Its nights last about 14 Earth days and are colder than any freezer.",
+    "Your kit must keep the seeds safe and asleep on the trip, then give them what they need to sprout.",
+    "Build a model from things at home, and test the 'wake up' part with real moong seeds."
+   ],
+   "materials": [
+    "a small plastic box or bottle with a lid",
+    "moong seeds",
+    "cotton or tissue",
+    "a small water bottle",
+    "a cloth or a woollen sock for warmth",
+    "paper and crayons"
+   ],
+   "general": [
+    "Keep the seeds dry and cool on the journey, so they stay asleep. That is how seed banks store them.",
+    "On the Moon, give them water, keep them warm and give them air, inside a sealed box or a base.",
+    "Use a light later, once the seedlings come up, because they will need it to make food."
+   ],
+   "creative": [
+    "China's Chang'e 4 lander took cotton seeds to the Moon in 2019. They sprouted, then died when the long night froze them. How would your kit stay warm all night?",
+    "Could the astronauts' own breath give the seeds air? Could the seeds' breathing warm a little box?",
+    "Could the seeds travel with their own water sealed beside them, to be let in with a pull of a tab?"
+   ],
+   "your_turn": "Now design your own Moon seed kit. Draw it, build a model and test whether it wakes moong seeds on Earth.",
+   "setup": [
+    {
+     "art": "A child drawing a plan of a sealed seed box with compartments for dry seeds, water, air and a warm cover.",
+     "caption": "1. Draw your Moon seed kit."
+    },
+    {
+     "art": "A small plastic box with moong on cotton, a tiny water bottle beside it and a woollen sock wrapped around it.",
+     "caption": "2. Build a model and add water, warmth and air."
+    },
+    {
+     "art": "The box opened two days later with moong sprouts inside, the child holding it up.",
+     "caption": "3. Test it. Did your seeds wake up?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "context": "This is the first step of Seeds for the Moon Base. It is a design challenge: keep seeds asleep on the way to the Moon, then wake them up there.",
+     "do": "Read the problem together. List what the Moon is missing, and what a seed needs.",
+     "say": "A seed needs water, warmth and air. Which of those does the Moon have?",
+     "kid": "What does a seed need? What does the Moon not have? Make two lists."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Draw a plan, then build a model kit from things at home. Put real moong inside for the wake-up test.",
+     "say": "Your kit has two jobs. It must keep the seeds asleep, then wake them. How will it do both?",
+     "kid": "Draw your kit. Then build it. Put real moong in it. Add water, warmth and air when it is time to wake them."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "wait": "Check after 2 days",
+     "do": "After 2 days, open the kit. Count the sprouts. Read the usual ideas and the creative ones together.",
+     "say": "Did your seeds wake up? What would you change for the real Moon?",
+     "kid": "Open your kit. Did the seeds sprout? What would you change for the real Moon?",
+     "think": "Why do you think scientists send seeds to space at all?"
+    }
+   ],
+   "context": "This is a design challenge. You plan a kit that carries seeds to the Moon and helps them sprout there."
+  }
+ ],
+ "videos": [
+  {
+   "title": "Bean Time-Lapse - 25 days | Soil cross section",
+   "channel": "GPhase",
+   "youtube": "w77zPAtVTuI",
+   "mins": 3,
+   "why": "A bean sprouting in soil, filmed from the side over 25 days. You can watch the root come out first and grow down, the hooked shoot push up and the seed leaves open.",
+   "check": "Id checked automatically through YouTube's oEmbed: the title and channel match. A parent should still preview it, as it has music and no talking."
+  },
+  {
+   "title": "Plant Life Cycle - Learning Life Cycle - Videos For Kids And Toddlers (the founder's pick for 'Let grow and grow')",
+   "channel": "SuperKidzo Tv",
+   "youtube": "ib5uiLMM2wY",
+   "mins": 4,
+   "why": "The founder's chosen video for the weekly journey 'Let grow and grow'. A simple look at how a plant grows from a seed, for the youngest viewers.",
+   "check": "Id from the founder's notes. Title and channel checked automatically through YouTube's oEmbed. It is made for very young children, so older children may prefer the bean time-lapse."
+  },
+  {
+   "title": "Runner bean germination time-lapse, below the ground (Neil Bromhall)",
+   "channel": "Neil Bromhall",
+   "youtube": "WAwhoXG062I",
+   "mins": 2,
+   "why": "Neil Bromhall's famous time-lapses show seeds swelling, splitting their coats and sending out roots, filmed over weeks.",
+   "check": "Found by YouTube search: \"Time-lapse Phaseolus Runner Bean. Hypogeal germination\" by Neil Bromhall. Title checked automatically; a parent may still preview it."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What is inside every seed?",
+   "opts": [
+    "A baby plant and its food store",
+    "Only water",
+    "A tiny flower",
+    "Nothing, it is solid"
+   ],
+   "a": 0,
+   "why": "Every seed holds a living baby plant and a store of food for it. Picking 'nothing' is an easy mistake, because the baby plant is tiny. Soak a bean, split it and look closely. It is there.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What are the two big halves of a split chana?",
+   "opts": [
+    "The food store, in its two seed leaves",
+    "The roots",
+    "Two baby plants",
+    "The seed coat"
+   ],
+   "a": 0,
+   "why": "They are seed leaves packed with food. The thin seed coat is outside them, and the tiny baby plant sits between them. Picking 'two baby plants' mixes up the food store with the plant it feeds.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which three things do most seeds need to sprout?",
+   "opts": [
+    "Water, warmth and air",
+    "Sunlight, soil and water",
+    "Soil, fertiliser and sunlight",
+    "Only water"
+   ],
+   "a": 0,
+   "why": "Water wakes the seed, warmth makes it work faster and air lets it breathe. Picking 'sunlight and soil' is the most common mistake. A seed carries its own food.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Does a moong seed need light to sprout?",
+   "opts": [
+    "No, it sprouts in the dark too",
+    "Yes, it can't sprout without light",
+    "Only red light"
+   ],
+   "a": 0,
+   "why": "Moong sprouts in a dark tiffin. Grown plants need light, which is why many people guess 'yes'. A few tiny seeds, like some lettuce, do need light. Moong does not.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. Which cup tests whether seeds need warmth?",
+   "opts": [
+    "The fridge cup",
+    "The dry cup",
+    "The cup under water",
+    "The cup in the light"
+   ],
+   "a": 0,
+   "why": "The fridge cup has water and air, but is cold. So it tests warmth. Picking the dry cup mixes up warmth and water.",
+   "outcome": 2,
+   "how": "e1",
+   "context": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light."
+  },
+  {
+   "t": "mcq",
+   "p": "Why must a fair test change only one thing?",
+   "opts": [
+    "So we know which thing made the difference",
+    "So the test is quicker",
+    "So more seeds sprout"
+   ],
+   "a": 0,
+   "why": "If we changed two things at once, we would not know which one caused the result. Picking 'quicker' misses the point. Fair tests are about trusting the answer.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. Look at the chart. How many more seeds sprouted in the damp warm cup than in the fridge cup?",
+   "opts": [
+    "8 more",
+    "9 more",
+    "10 more",
+    "1 more"
+   ],
+   "a": 0,
+   "why": "The damp, warm cup had 9 and the fridge cup had 1. 9 take away 1 is 8. Picking 9 means reading just the damp cup's bar, not the difference.",
+   "outcome": 3,
+   "how": "e1",
+   "context": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light.",
+   "chart": {
+    "type": "bar",
+    "title": "Made-up example: seeds sprouted out of 10, after 3 days",
+    "x": "Cup",
+    "y": "Seeds sprouted (out of 10)",
+    "data": [
+     {
+      "label": "Damp and warm",
+      "value": 9,
+      "emoji": "🌱"
+     },
+     {
+      "label": "Damp, in the fridge",
+      "value": 1,
+      "emoji": "❄️"
+     }
+    ]
+   }
+  },
+  {
+   "t": "mcq",
+   "p": "You soaked moong at 8 o'clock in the evening. The first roots appeared at 8 o'clock the next evening. How long did that take?",
+   "opts": [
+    "24 hours, one whole day",
+    "12 hours",
+    "8 hours",
+    "2 days"
+   ],
+   "a": 0,
+   "why": "From 8 in the evening to 8 the next evening is a full day, 24 hours. Picking 12 hours means counting only from evening to morning.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A cloth bundle of sprouting moong feels warm in the middle. Why?",
+   "opts": [
+    "The seeds are breathing, which makes warmth",
+    "The cloth was ironed",
+    "Sprouts are always hot",
+    "The water was boiled"
+   ],
+   "a": 0,
+   "why": "Sprouting seeds use oxygen to get energy from their stored food. Some energy comes out as warmth. A boiled seed is dead and makes no warmth.",
+   "outcome": 4,
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "Why do seeds sealed under water often go sour and fail to sprout?",
+   "opts": [
+    "They cannot get enough air to breathe",
+    "They have too much food",
+    "Water is poisonous to seeds"
+   ],
+   "a": 0,
+   "why": "Water holds only a little oxygen. Seeds sealed under it cannot breathe well, so they fail and go sour. Picking 'poisonous' is wrong. Seeds need water, just not too much of it.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "What happens to a seed's food store as the seedling grows?",
+   "opts": [
+    "It gets used up, so the seed halves shrink",
+    "It grows bigger",
+    "It turns into roots"
+   ],
+   "a": 0,
+   "why": "The baby plant lives on its stored food until its green leaves can make food. So the seed halves shrink. Picking 'grows bigger' is a natural guess, but the food is being eaten, not made.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "What is the first thing that happens when a dry seed gets wet?",
+   "opts": [
+    "It drinks water and swells",
+    "Its leaves open",
+    "It grows a flower",
+    "It turns green"
+   ],
+   "a": 0,
+   "why": "The seed soaks up water and swells, often to about twice its weight. Then its coat splits and the root comes out.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A seed is planted upside down. Which way will its root grow?",
+   "opts": [
+    "Down, towards the ground",
+    "Up, the way the seed was pointing",
+    "It will not grow"
+   ],
+   "a": 0,
+   "why": "Root tips feel gravity, so roots always turn to grow down. Picking 'up' means thinking the root just follows the way the seed points.",
+   "outcome": 5,
+   "how": "a4"
+  },
+  {
+   "t": "mcq",
+   "p": "How long can a seed stay alive?",
+   "opts": [
+    "It depends on the seed. Some last a year or two, and a few have sprouted after hundreds of years. Nobody knows the limit.",
+    "Only one week",
+    "For ever, always",
+    "Exactly 100 years"
+   ],
+   "a": 0,
+   "why": "A date palm seed about 2,000 years old sprouted in 2005. Most seeds last far less. Scientists still do not know the longest a seed can live.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Do scientists agree that a dry seed is alive?",
+   "opts": [
+    "Most say yes, alive but asleep. Some say life almost stops in it, and philosophers still argue about what 'alive' means.",
+    "Yes, and there is nothing more to say",
+    "No, everyone agrees it is dead"
+   ],
+   "a": 0,
+   "why": "Most biologists call a dry seed dormant: alive, but asleep. Because it does so little, some scientists and thinkers say it sits between alive and not alive. This is still discussed.",
+   "outcome": 6
+  }
+ ],
+ "applications": [
+  "Farmers soak and sprout seed, like paddy, before sowing, so it comes up quickly and evenly.",
+  "Sprouts of moong, chana and methi are sold in markets and eaten in usal, salads and chaat.",
+  "Malt, made by sprouting grains like barley and ragi, is used in ragi malt, some sweets, bread and drinks.",
+  "Seed companies test how many seeds in a batch sprout, and print it on the packet as the germination rate.",
+  "Seed banks keep seeds dry and cold, so they stay asleep and alive for decades.",
+  "Gardeners soak hard seeds like bhindi and bitter gourd overnight, so water gets in faster.",
+  "Gardeners nick or rub very hard seeds with sandpaper to let water in.",
+  "Microgreens, tiny young plants grown from seeds on trays, are a new kind of crop in cities.",
+  "Farmers store seed in dry, cool places, sometimes with neem leaves, so it does not sprout or spoil too soon.",
+  "Scientists breed rice that can sprout in flooded fields, so farmers can sow it straight into wet ground.",
+  "Space agencies test seeds in space, to plan how astronauts could grow food on the Moon and Mars.",
+  "Forest workers collect and sprout seeds of native trees to plant new forests.",
+  "Seed balls, seeds rolled into balls of clay and soil, are thrown onto bare land so they sprout when rain comes."
+ ],
+ "spotted": [
+  {
+   "text": "Moong sprouts in a cloth bundle or a sprout-maker box in a kitchen.",
+   "art": "A white cloth bundle of sprouts hanging in a kitchen window."
+  },
+  {
+   "text": "A handcart selling sprouts chaat outside a railway station in the morning.",
+   "art": "A sprouts cart with a big steel bowl at a station corner."
+  },
+  {
+   "text": "Paddy nurseries: bright green patches of thick young rice seedlings beside flooded fields.",
+   "art": "A small bright green nursery bed next to brown flooded paddy fields."
+  },
+  {
+   "text": "A potato or onion in a kitchen basket that has started to sprout. It is not a seed, but it is waking up too.",
+   "art": "A sprouting potato in a basket."
+  },
+  {
+   "text": "Seedlings popping up in cracks in a wall or pavement after the first monsoon rain.",
+   "art": "Tiny green seedlings in a crack in a wall."
+  },
+  {
+   "text": "Seed packets at a nursery, with the germination rate printed on the back.",
+   "art": "A rack of seed packets at a plant nursery."
+  },
+  {
+   "text": "Methi or mustard sprouting in a little tray on a window sill, grown as microgreens.",
+   "art": "A tray of tiny green methi seedlings on a sill."
+  },
+  {
+   "text": "A mango stone thrown in the garden that has sent up a reddish shoot.",
+   "art": "A mango stone with a red new shoot and leaves in the soil."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How long can a seed stay alive?",
+   "why_open": "Some have sprouted after 2,000 years. Nobody knows the real limit, and it is different for every kind of seed. Experiments like Beal's bottles take centuries."
+  },
+  {
+   "q": "How does a seed 'decide' when to wake?",
+   "why_open": "Seeds sense water, warmth, light and some chemicals. How they add all these signals together is still being worked out."
+  },
+  {
+   "q": "Why do some seeds of the same plant wake at once, and others wait for years?",
+   "why_open": "Scientists think it spreads the risk, like not putting all your eggs in one basket. How each seed is set to wait is not fully known."
+  },
+  {
+   "q": "How do seeds repair the damage of getting old while they sleep?",
+   "why_open": "Seeds have repair tools for their cells. Scientists are still finding out how they work, and why some seeds are so much better at it."
+  },
+  {
+   "q": "Can we store seeds that do not like being dried, like mango, jackfruit and many rainforest seeds?",
+   "why_open": "These seeds die if dried or frozen, so normal seed banks cannot keep them. Scientists are testing new ways, such as freezing just the baby plant in liquid nitrogen."
+  },
+  {
+   "q": "Could we grow crops from seed on the Moon or Mars?",
+   "why_open": "Seeds have sprouted on the Moon in a sealed box and in Moon soil brought to Earth. Growing whole crops there, through many generations, has never been done."
+  },
+  {
+   "q": "Is a dry seed alive, or something in between?",
+   "why_open": "It depends on what we mean by 'alive'. Scientists and philosophers still discuss it."
+  }
+ ],
+ "ask_kids": [
+  "Is this rice on your plate a baby plant? Could it still sprout?",
+  "Why do you think Ammi in the story tied the cloth loosely?",
+  "Which seeds did we eat today? Count them.",
+  "If you were a seed, would you wake up now, or wait?",
+  "That potato is sprouting. Is it a seed? How else can plants make new plants?",
+  "Do seeds breathe at night too?",
+  "What does a seed need that the Moon doesn't have?",
+  "How does a root know which way is down?",
+  "Who made the baby plant inside this chana?",
+  "Is waiting a kind of doing something?",
+  "Would you plant a seed today that might only sprout after you are grown up?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the seed go to school?",
+   "a": "It wanted to grow up smart."
+  },
+  {
+   "j": "What did the seed say when it woke up?",
+   "a": "I'm rooting for today!"
+  },
+  {
+   "j": "Why did the moong refuse to come out of the dabba?",
+   "a": "It couldn't breathe a word."
+  },
+  {
+   "j": "What is a seed's favourite meal?",
+   "a": "A packed lunch."
+  },
+  {
+   "j": "Why are seeds so calm?",
+   "a": "They never get out of their shell too early."
+  },
+  {
+   "j": "What did the root say to the shoot?",
+   "a": "You go up, I'll get down."
+  },
+  {
+   "j": "Why did the bean blush?",
+   "a": "It saw the salad dressing."
+  },
+  {
+   "j": "What do you call a sprout that tells jokes?",
+   "a": "A real seedling of fun."
+  },
+  {
+   "j": "Why was the dal so sad?",
+   "a": "It had split up."
+  },
+  {
+   "j": "Why don't seeds like the fridge?",
+   "a": "It gives them cold feet."
+  },
+  {
+   "j": "How does a seed say goodbye?",
+   "a": "See you in the spring!"
+  },
+  {
+   "j": "What did one rajma say to the other after soaking all night?",
+   "a": "I'm feeling swell."
+  },
+  {
+   "j": "Why did the seed bring a snorkel?",
+   "a": "It was a rice seed."
+  },
+  {
+   "j": "What's a seed's favourite game?",
+   "a": "Hide and sprout."
+  },
+  {
+   "j": "Why was the roasted peanut no good at sprouting?",
+   "a": "It was a bit too toasted."
+  },
+  {
+   "j": "What kind of music do seeds like?",
+   "a": "Anything with good roots."
+  },
+  {
+   "j": "Why did the bean shoot come up bent?",
+   "a": "It was hooked on growing."
+  },
+  {
+   "j": "What did the farmer say to the lazy seed?",
+   "a": "Time to get growing!"
+  },
+  {
+   "j": "Why is a seed a good secret keeper?",
+   "a": "It keeps everything under its coat."
+  },
+  {
+   "j": "What do sprouts do at a party?",
+   "a": "They break out of their shells."
+  },
+  {
+   "j": "Why did the old seed in the bottle wake up after 140 years?",
+   "a": "Someone finally said 'Good morning'."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Look at the chart from the five-cup test. How many seeds sprouted in all five cups together? And how many seeds did not sprout?",
+   "answer": "21 sprouted and 29 did not.",
+   "explain": "Add the bars: 0 + 9 + 1 + 2 + 9 = 21 seeds sprouted. There were 10 seeds in each of 5 cups, so 50 seeds in all. 50 take away 21 is 29. So 29 seeds did not sprout.",
+   "math_unit": "math.data.bar-charts.L3",
+   "context": "This is about the five-cup test. You put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil, and damp in the light. After 3 days you counted the seeds with roots.",
+   "chart": {
+    "type": "bar",
+    "title": "Made-up example: how many of 10 moong seeds sprouted in 3 days",
+    "x": "Cup",
+    "y": "Seeds sprouted (out of 10)",
+    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
+    "data": [
+     {
+      "label": "Dry",
+      "value": 0,
+      "emoji": "🏜️"
+     },
+     {
+      "label": "Damp and warm",
+      "value": 9,
+      "emoji": "🌱"
+     },
+     {
+      "label": "Damp, in the fridge",
+      "value": 1,
+      "emoji": "❄️"
+     },
+     {
+      "label": "Under water and oil",
+      "value": 2,
+      "emoji": "🫙"
+     },
+     {
+      "label": "Damp, warm, in the light",
+      "value": 9,
+      "emoji": "☀️"
+     }
+    ]
+   },
+   "how": "e1",
+   "why_maths": "A bar chart lets you read every cup's result at a glance. Adding the bars tells you about the whole test, not just one cup."
+  },
+  {
+   "problem": "In the damp, warm cup, 9 out of 10 seeds sprouted. In a bigger test, a farmer sows 100 seeds of the same kind in the same way. About how many would you expect to sprout?",
+   "answer": "About 90.",
+   "explain": "9 out of every 10 sprouted. 100 seeds is 10 lots of 10. So expect 10 lots of 9 sprouts. 10 times 9 is 90. It may not be exactly 90, because every seed is a little different.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This is about the five-cup test, where you counted how many of 10 moong seeds sprouted in each cup.",
+   "how": "e1",
+   "why_maths": "Farmers need to know how many seeds to sow. Scaling up from a small test of 10 seeds tells them how many plants to expect in a field."
+  },
+  {
+   "problem": "In the swelling test, 50 grams of dry chana weighed 100 grams after soaking overnight. How many grams of water did the chana drink? How many times heavier was it?",
+   "answer": "50 grams of water. It was 2 times as heavy.",
+   "explain": "100 grams take away 50 grams is 50 grams. That is the water inside the seeds. 50 + 50 = 100, so the soaked chana weighs 2 lots of 50 grams. It is 2 times as heavy.",
+   "math_unit": "math.weight-capacity.weight.L3",
+   "context": "This is about the swelling test. You weighed some dry chana, soaked it overnight, patted it dry and weighed it again.",
+   "how": "e3",
+   "chart": {
+    "type": "bar",
+    "title": "Weight of the chana before and after soaking",
+    "x": "Chana",
+    "y": "Weight (grams)",
+    "data": [
+     {
+      "label": "Dry",
+      "value": 50,
+      "emoji": "🫘"
+     },
+     {
+      "label": "Soaked overnight",
+      "value": 100,
+      "emoji": "💧"
+     }
+    ]
+   },
+   "why_maths": "Weighing turns 'the seeds got bigger' into an exact answer: how much water a seed drinks before it can sprout."
+  },
+  {
+   "problem": "The thermometer in the flask of live sprouts shows 31 degrees Celsius. The flask of boiled seeds shows 27 degrees. How much warmer are the live sprouts?",
+   "answer": "4 degrees warmer.",
+   "explain": "31 take away 27 is 4. So the live sprouts are 4 degrees Celsius warmer. Count up from 27 to check: 28, 29, 30, 31. That is 4 steps.",
+   "math_unit": "math.temperature.reading-thermometers.L3",
+   "context": "This is about the warm flask test. You put live sprouting moong in one flask and boiled moong in another, with a thermometer in each.",
+   "how": "e2",
+   "chart": {
+    "type": "scale",
+    "title": "The thermometer in the live sprouts flask (degrees Celsius)",
+    "min": 20,
+    "max": 35,
+    "step": 1,
+    "value": 31,
+    "unit": "°C",
+    "label": "Each mark is 1 degree."
+   },
+   "why_maths": "The warmth from breathing seeds is small. Reading a thermometer and finding the difference shows it clearly, as a number."
+  },
+  {
+   "problem": "In your seed diary, the root of your bean was 6 millimetres on day 3, 15 millimetres on day 4 and 27 millimetres on day 5. How much did it grow each day? Did it grow faster or slower as the days went on?",
+   "answer": "9 millimetres from day 3 to day 4, then 12 millimetres from day 4 to day 5. It grew faster.",
+   "explain": "15 take away 6 is 9. So it grew 9 millimetres on the first day. 27 take away 15 is 12. So it grew 12 millimetres on the next day. 12 is more than 9, so the root was growing faster.",
+   "math_unit": "math.addition-subtraction.mental-strategies.L3",
+   "context": "This is about the seed diary project. You planted a bean against the side of a clear cup and measured its root every day.",
+   "how": "p1",
+   "chart": {
+    "type": "table",
+    "title": "Made-up example: root length in the seed diary",
+    "cols": [
+     "Day",
+     "Root length (mm)",
+     "Growth since yesterday (mm)"
+    ],
+    "rows": [
+     [
+      "3",
+      "6",
+      "-"
+     ],
+     [
+      "4",
+      "15",
+      "9"
+     ],
+     [
+      "5",
+      "27",
+      "12"
+     ]
+    ]
+   },
+   "why_maths": "Taking yesterday's length from today's tells you how fast the root is growing, not just how long it is."
+  },
+  {
+   "problem": "You soaked moong at 7 o'clock in the evening. You drained it at 7 o'clock the next morning. The first roots showed at 7 o'clock that evening. How long did the seeds soak? How long from soaking to the first roots?",
+   "answer": "They soaked for 12 hours. From soaking to the first roots took 24 hours.",
+   "explain": "From 7 in the evening to 7 in the morning is 12 hours. From 7 in the morning to 7 in the evening is another 12 hours. 12 + 12 = 24 hours, which is one whole day.",
+   "math_unit": "math.time.duration.L3",
+   "context": "This is about making moong sprouts at home, the way Noor's mother did in the story: soak overnight, drain in the morning, and wait for the roots.",
+   "how": "c1",
+   "why_maths": "Sprouting takes time. Working out how many hours it takes helps you plan, so the sprouts are ready for breakfast."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.seeds-and-life-cycles.L3",
+  "title": "Seed to Seed Again",
+  "note": "Topic-level song for Seeds, growth and life cycles of plants, L3"
+ },
+ "links": [
+  {
+   "title": "Svalbard Global Seed Vault",
+   "url": "https://www.seedvault.no",
+   "kind": "interactive",
+   "why": "The world's biggest back-up store of crop seeds, deep inside a frozen mountain in Norway. See how seeds are kept asleep for decades."
+  },
+  {
+   "title": "Royal Botanic Gardens, Kew: the Millennium Seed Bank",
+   "url": "https://www.kew.org",
+   "kind": "interactive",
+   "why": "Search the site for 'Millennium Seed Bank'. It stores seeds of wild plants from all over the world, including India."
+  },
+  {
+   "title": "Exploratorium: Science Snacks",
+   "url": "https://www.exploratorium.edu/snacks",
+   "kind": "interactive",
+   "why": "Free, tested hands-on activities from a famous science museum in San Francisco. It is on the founder's list of STEM websites."
+  },
+  {
+   "title": "Science Buddies",
+   "url": "https://www.sciencebuddies.org/",
+   "kind": "interactive",
+   "why": "Step-by-step science project ideas, including seed germination projects, for older children."
+  },
+  {
+   "title": "Bose Institute",
+   "url": "https://www.jcbose.ac.in",
+   "kind": "place",
+   "where": "Kolkata",
+   "why": "The research institute founded by Jagadish Chandra Bose in 1917. Its museum shows his instruments for measuring how plants grow and respond."
+  },
+  {
+   "title": "Acharya Jagadish Chandra Bose Indian Botanic Garden",
+   "url": "",
+   "kind": "place",
+   "where": "Howrah, near Kolkata",
+   "why": "A huge old botanic garden, home of the Great Banyan, a tree that grew from one tiny seed into a forest."
+  },
+  {
+   "title": "Lalbagh Botanical Garden",
+   "url": "",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A famous garden with trees from all over the world. Look for seeds and fruits on the ground, and for the nursery where seedlings are raised."
+  },
+  {
+   "title": "A plant nursery near you",
+   "url": "",
+   "kind": "place",
+   "where": "anywhere",
+   "why": "Ask the gardeners how they sprout seeds, how long each kind takes, and why some seeds are soaked first."
+  },
+  {
+   "title": "NASA",
+   "url": "https://www.nasa.gov",
+   "kind": "interactive",
+   "why": "Search the site for 'Moon trees' to find where the trees grown from Apollo 14's seeds are planted."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-moong",
+   "item": "Whole green moong, about 500 grams",
+   "kind": "material",
+   "why": "The main seed for the five-cup test, the warm flask, the dal test and the taste test. It sprouts in a day or two.",
+   "url": "https://www.amazon.in/s?k=whole+green+moong",
+   "used_in": [
+    "e1",
+    "e2",
+    "a2",
+    "a3",
+    "c1"
+   ]
+  },
+  {
+   "id": "b-cups",
+   "item": "Clear plastic cups, a pack of about 20",
+   "kind": "material",
+   "why": "For the five-cup test, the swelling test, the seed window and the seed diary. Clear cups let you see the roots.",
+   "url": "https://www.amazon.in/s?k=clear+plastic+cups",
+   "used_in": [
+    "e1",
+    "e3",
+    "a4",
+    "p1"
+   ]
+  },
+  {
+   "id": "b-thermometer",
+   "item": "Thermometer in degrees Celsius, a stick or probe type",
+   "kind": "tool",
+   "why": "Measures the warmth of breathing seeds in the warm flask test.",
+   "url": "https://www.amazon.in/s?k=probe+thermometer+celsius",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Used again in the plants and weather units."
+  },
+  {
+   "id": "b-scale",
+   "item": "Digital kitchen scale, weighing in grams",
+   "kind": "tool",
+   "why": "Weighs the chana before and after soaking in the swelling test.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+scale",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Used again in the weight and measuring units in maths."
+  },
+  {
+   "id": "b-lens",
+   "item": "Magnifying glass for children",
+   "kind": "tool",
+   "why": "Helps find the tiny baby plant inside a split bean.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
+   "used_in": [
+    "a1"
+   ]
+  },
+  {
+   "id": "b-ruler",
+   "item": "30 cm ruler with millimetre marks",
+   "kind": "tool",
+   "why": "Measures roots and shoots in the seed diary.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1"
+   ]
+  },
+  {
+   "id": "b-book",
+   "item": "A Seed Is Sleepy, by Dianna Hutts Aston, illustrated by Sylvia Long",
+   "kind": "book",
+   "why": "A beautiful picture book about how seeds wait, travel and wake, with accurate painted seeds and sprouts.",
+   "url": "https://www.amazon.in/s?k=A+Seed+Is+Sleepy+Dianna+Hutts+Aston",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "If bought, read it on day 1 after opening the seeds, in place of the 'What a seed is' cards."
+  },
+  {
+   "id": "b-labgirl",
+   "item": "Lab Girl, by Hope Jahren",
+   "kind": "book",
+   "why": "For the parent: a plant scientist's memoir, with short, lovely chapters on how a seed waits and then commits to growing.",
+   "url": "https://www.amazon.in/s?k=Lab+Girl+Hope+Jahren",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "A parent can read a seed chapter aloud during the seed diary week."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What are the three parts of a seed?",
+   "a": "The seed coat, the baby plant and the food store."
+  },
+  {
+   "q": "Name the three things a seed needs to sprout.",
+   "a": "Water, warmth and air."
+  },
+  {
+   "q": "Does a moong seed need light to sprout?",
+   "a": "No. It sprouts in the dark too."
+  },
+  {
+   "q": "What comes out of a seed first, the root or the shoot?",
+   "a": "The root."
+  },
+  {
+   "q": "Which way does a root grow?",
+   "a": "Down, towards the pull of gravity."
+  },
+  {
+   "q": "Why does a bundle of sprouts feel warm?",
+   "a": "The seeds are breathing, and breathing makes warmth."
+  },
+  {
+   "q": "Can split dal sprout?",
+   "a": "No. It has lost its baby plant."
+  },
+  {
+   "q": "Which seed can start sprouting under water?",
+   "a": "Rice."
+  },
+  {
+   "q": "About how old was the oldest seed ever sprouted into a tree?",
+   "a": "About 2,000 years old, a date palm seed."
+  },
+  {
+   "q": "What happened to the cotton seed that sprouted on the Moon?",
+   "a": "It died when the freezing lunar night came."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "big_questions",
+   "cards",
+   "g1",
+   "a6"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "a1",
+   "terms",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz",
+   "story",
+   "g2",
+   "a2",
+   "a6",
+   "g1",
+   "e2",
+   "a4",
+   "videos",
+   "ws-core",
+   "e3",
+   "a3",
+   "a5",
+   "agreed",
+   "challenging",
+   "big_questions",
+   "ws-stretch",
+   "p1",
+   "c1",
+   "c2",
+   "ws-challenge",
+   "open_questions"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "g1",
+   "ws-core",
+   "a2",
+   "a4",
+   "e2",
+   "p1"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "app/content/ideas/by_topic/seeds-plant-growth-and-plant-life-cycles.md and DeepKids V0.1 weekly journeys, week 7.0 'Let grow and grow': plant a seed, name it, water it every day, record its progress, write a mourning note if it dies, and the founder's video link; used in My Seed Friend and the videos",
+   "app/content/ideas/by_topic/seeds-plant-growth-and-plant-life-cycles.md SCI Card: Nikolai Vavilov and the Leningrad seed bank ('the genetic diversity of seeds is the insurance policy for civilization'); used in a big question and the seed diversity items",
+   "Founder sheets, Time row of the delivery ideas: the Time Detective card game with seed to tree cards; used in the order items",
+   "DeepKids HomeSchooling Track, STEM Activities websites: Exploratorium and Science Buddies links",
+   "Combined lesson app/content/combined/sci-C1-seeds-plant-growth-and-plant-life-cycles.json: 'Dry, damp or drowned?', the seed window jar, 'Inside a bean', the seed line-up, the Seed to Seed board game squares and the Beal and Rahibai Popere voices; improved into the five-cup test, the Seed Window, Open a Seed, the Kitchen Seed Hunt, Wake Up, Seed! and quiz items",
+   "Combined lesson app/content/combined/sci-C3-seeds-plant-growth-and-plant-life-cycles.json: the three-temperature test (used as the fridge cup), the 'cold is a pause button' idea and the challenge that seeds in a vault are dead",
+   "Combined lesson app/content/combined/sci-C5-seeds-plant-growth-and-plant-life-cycles.json: what seeds need to germinate (water, air, warmth, and usually not light), and inside a seed"
+  ],
+  "science": [
+   "Borthwick, H. A., Hendricks, S. B. and others, PNAS 1952: A reversible photoreaction controlling seed germination (lettuce seeds and red light)",
+   "Paleg, L. G., Plant Physiology 1960, and Yomo, H., 1960: gibberellin from the embryo starts starch breakdown in barley",
+   "Flematti, G. R., Ghisalberti, E. L., Dixon, K. W. and Trengove, R. D., Science 2004: A compound from smoke that promotes seed germination",
+   "Sallon, S., Solowey, E. and others, Science 2008: Germination, genetics and growth of an ancient date seed",
+   "Shen-Miller, J. and others, American Journal of Botany 1995: Exceptional seed longevity and robust growth: ancient sacred lotus from China",
+   "Beal buried seed experiment, Michigan State University, begun 1879; the bottle dug up in 2021 (Telewski and colleagues)",
+   "Magneschi, L. and Perata, P., Annals of Botany 2009: Rice germination and seedling growth in the absence of oxygen",
+   "Chang'e 4 biosphere experiment, January 2019: cotton seeds sprouted on the far side of the Moon",
+   "Apollo 14 Moon trees: about 500 tree seeds carried by Stuart Roosa in 1971 (NASA)",
+   "OpenStax Biology 2e, Plant Structure and Function (reference only, for facts)"
+  ]
+ },
+ "roots": {
+  "context": "We have been learning how a seed wakes up when water, warmth and air reach it. Now we ask what a seed tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Life does not start from nothing. A seed is old life, paused and passed on.",
+   "habit": "We sort things into alive and dead, and say a life 'begins' when a seed sprouts. But a dry seed is already alive, breathing very slowly. Its baby plant was built by its parent and packed with its parent's food. Sprouting is a waking, not a beginning.",
+   "evidence": "A dry moong seed seems as dead as a pebble. Give it water, warmth and air, and in a day it breathes fast enough to warm a flask. A boiled seed never does."
+  },
+  "three": {
+   "who_am_i": "You also grew from something tiny, made and fed by those before you. Your life is a carrying on, too.",
+   "what_is_life": "Life can wait. A seed can sleep for years, then wake when water, warmth and air arrive.",
+   "what_is_this_world": "Nothing grows alone. A sprout is a seed meeting water, warmth, air and the Sun's old energy in its lunch."
+  },
+  "thread": "Inside a tiny seed is a whole plant, folded small, waiting. The parent plant packed it with sunlight stored as food. When water, warmth and air reach it, the One life that was resting in it unfolds into roots, shoots and leaves. DeepKids believes this is the One becoming the many, again and again. One seed becomes a tree, the tree makes a thousand seeds, and the same life carries on through all of them.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.12",
+    "teaching": "A father, Uddalaka, asks his son Shvetaketu to split a banyan seed. 'What do you see?' 'Nothing at all.' The father says: from this finest thing that you cannot see, the great banyan tree grows. That fine essence is in everything. And you are that.",
+    "link": "When you split a bean, the baby plant is so small you can hardly see it. Yet a whole plant grows from it. The Upanishad uses a seed to point at what is hidden in everything, including you."
+   },
+   {
+    "source": "Salistamba Sutra (the Rice Seedling Sutra), on outer dependent arising",
+    "teaching": "A sprout does not come from the seed alone. It comes when the seed meets earth, water, warmth, air, space and the right season. The seed does not think 'I make the sprout', and yet the sprout comes.",
+    "link": "This old Buddhist teaching names almost exactly what the five-cup test found. Take away water, warmth or air, and no sprout comes. A sprout is a meeting of many things."
+   },
+   {
+    "source": "Mencius, Book 2A, chapter 2",
+    "teaching": "A farmer from the state of Song was worried his young plants were growing too slowly. So he pulled on each one to help it grow. When his son ran to look, the plants had all withered.",
+    "link": "You cannot make a seed sprout by pushing it. You can only give it water, warmth and air, and wait. Growing has its own time."
+   }
+  ],
+  "science": [
+   {
+    "text": "All living things alive today come from earlier living things, in an unbroken line going back billions of years. No seed, plant or animal has been seen to start from non-living matter.",
+    "status": "settled"
+   },
+   {
+    "text": "A dry seed's cells are not dead. They are still whole, with their repair tools ready, and breathe at a tiny rate. Exactly how close to 'stopped' life can get, and still restart, is being studied.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many biologists",
+   "view": "A seed is a brand new plant, not old life carrying on. It has its own new mix of genes from two parents, so it is a different individual. They see no need for a One life flowing through it, and that is an honest view."
+  },
+  "practice": {
+   "title": "Be a waiting seed",
+   "mins": 3,
+   "say": "Let's sit and curl up small, like a dry seed. Close your eyes. Breathe so slowly and softly that nobody could tell. Feel how still you are, but alive inside. Now imagine warm rain soaking in. Take one big, slow breath, and let your body uncurl a little. Where did your breath come from? Who gave you your very first food?",
+   "kid": "Curl up small, like a seed. Close your eyes. Breathe very slowly. You are still, but alive. Now imagine warm rain. Take a big breath. Slowly uncurl."
+  },
+  "ask": [
+   "When did your life begin? Is there a clear start?",
+   "A seed waits without knowing when the rain will come. What are you waiting for?",
+   "Is a sprout the same plant as the seed it came from, or a new one?"
+  ],
+  "art": "A split banyan seed on a palm, from which a faint golden outline of a great banyan tree rises, with its roots and branches reaching out to other tiny seeds."
+ }
+}
