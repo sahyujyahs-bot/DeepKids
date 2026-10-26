@@ -1,4 +1,4 @@
-// Ask DeepKids over a sheet: with AI locked, Ask explains instead of opening; with AI on, the chat opens and ✕ closes it.
+// I am over a sheet: with AI locked, tapping him opens his Plus page (no AI); with AI on, the chat opens and ✕ closes it.
 //   node app/tests/chat.js http://127.0.0.1:8765/app.html
 const { chromium } = require("playwright");
 const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
@@ -30,10 +30,11 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
   });
   await p.waitForTimeout(500);
   const chatOpen = () => p.evaluate(() => !!document.getElementById("fxChat")?.open);
-  const toastText = () => p.evaluate(() => document.querySelector(".toast")?.innerText || "");
   await p.click("#sheet .fxfab");
   await p.waitForTimeout(300);
-  out.push(`AI locked: chat opened ${await chatOpen()} | message "${await toastText()}"`);
+  out.push(`AI locked: Plus page ${await p.evaluate(() => !!document.querySelector("#fxChat [data-cx=plus]"))} | AI chat box ${await p.evaluate(() => !!document.querySelector("#fxChat textarea"))}`);
+  await p.click('#fxChat [data-cx="x"]');
+  await p.waitForTimeout(300);
   await p.evaluate(() => (S.aiPlan = "on"));
   await p.click("#sheet .fxfab");
   await p.waitForTimeout(300);

@@ -53,6 +53,18 @@ const PLUSR = {
   test: "Entrance test papers",
   topic: "Exploring new topics",
 };
+// everything DeepKids Plus switches on, said once for the Plus page and for I am
+const PLUS_FEATS = [
+  "🦁 Talk with I am, the DeepKids teacher, about any page, card or question",
+  "📷 Photos of finished work checked kindly, with what to fix and why",
+  "📷 Send photos and screenshots of timetables, WhatsApp messages, notes and receipts; they go straight into your plan",
+  "💬 Write the way you talk: long or mixed-up messages are understood",
+  "🏷️ Photos of work are matched to the right chapter automatically",
+  "📚 Shelf photos become a tagged home library, and your own books become lessons",
+  "📝 Entrance test papers for any board and class",
+  "🔎 Explore any new topic, with lesson plans written for you",
+];
+const plusList = () => `<ul class="pluslist">${PLUS_FEATS.map((f) => `<li>${f}</li>`).join("")}</ul>`;
 const lockBtn = (r, cls, label) =>
   `<button class="${cls} locked" data-act="plus" data-r="${r}" aria-label="${esc(PLUSR[r])}: part of DeepKids Plus">${label}<span class="lk">🔒</span></button>`;
 function plusView() {
@@ -61,7 +73,7 @@ function plusView() {
   document.getElementById("sheetTitle").textContent = "DeepKids Plus";
   const waiting = !!S.plusWait;
   return `<div class="exdone">${blob("var(--sun)", 6, "wow", "", 'width="76" height="76"')}<h2 style="font-size:24px">DeepKids Plus</h2>${r ? `<p class="sm"><b>${esc(PLUSR[r] || "")}</b> is part of Plus.</p>` : ""}</div>
-  <ul class="pluslist"><li>📷 Send photos and screenshots of timetables, WhatsApp messages, notes and receipts; they go straight into your plan</li><li>💬 Write the way you talk: long or mixed-up messages are understood</li><li>🏷️ Photos of work are matched to the right chapter automatically</li><li>📚 Shelf photos become a tagged home library</li><li>📝 Entrance test papers for any board and class</li><li>🔎 Explore any new topic, with lesson plans written for you</li></ul>
+  ${plusList()}
   ${pend ? `<div class="ask"><span class="eyebrow">Your message is kept</span>“${esc(pend.text.slice(0, 160))}${pend.text.length > 160 ? "…" : ""}”<br><span class="xs muted">As soon as Plus is on, DeepKids reads it. No need to type it again.</span></div>` : ""}
   <div class="col" style="gap:10px;margin-top:12px"><button class="btn accent" data-act="plusgo" ${waiting && !window.DK_PLATFORM?.upgrade ? "disabled" : ""}>${waiting && !window.DK_PLATFORM?.upgrade ? "You're on the list ✓" : "Upgrade to Plus"}</button><button class="btn line sm" data-act="texit">Not now</button></div>
   ${waiting && !window.DK_PLATFORM?.upgrade ? `<p class="xs muted" style="text-align:center">Plus opens soon. We'll let you know here as soon as it does.</p>` : ""}`;
@@ -94,6 +106,7 @@ async function afterUpgrade() {
   sfx("win");
   confetti();
   toast("Welcome to DeepKids Plus!");
+  if (document.getElementById("fxChat")?.open) fxChat("");
   if (ui.sheet) goBack();
   if (S.pendAI && SAMPLE) {
     const t = S.pendAI.text;
@@ -247,6 +260,7 @@ function fxChat(about, photo, at = null) {
       const b = e.target.closest("[data-cx]");
       if (!b) return;
       if (b.dataset.cx === "x") d.close();
+      if (b.dataset.cx === "plus") plusGo();
       if (b.dataset.cx === "send") fxSend();
       if (b.dataset.cx === "pic") d.querySelector("input[type=file]").click();
       if (b.dataset.cx === "q") {
@@ -260,6 +274,13 @@ function fxChat(about, photo, at = null) {
         fxSend();
       }
     });
+  }
+  if (!fxAIOn()) {
+    d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>I am</b><span class="fxsm">Part of DeepKids Plus</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
+      <div class="fxmsgs">${iamFace("hero")}<p class="fxm ai">I am I am. I can talk with you about any page, card or question once DeepKids Plus is on. Here is everything it opens up:</p>${plusList()}
+      <button class="btn accent" data-cx="plus">Get DeepKids Plus</button><button class="btn line sm" data-cx="x">Not now</button></div></div>`;
+    if (!d.open) d.showModal();
+    return iamSpin();
   }
   d.dataset.about = about || "";
   d.dataset.where = at?.where || "";

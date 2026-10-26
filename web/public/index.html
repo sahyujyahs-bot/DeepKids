@@ -4509,6 +4509,17 @@ input.fxin {
   width: 72px;
   height: 72px;
 }
+body.ai-locked .fxfab .iam::after,
+body.ai-locked .fxaskb .iam::after {
+  content: "🔒";
+  position: absolute;
+  right: -4px;
+  bottom: -2px;
+  font-size: 18px;
+}
+body.ai-locked .fxaskb .iam::after {
+  font-size: 11px;
+}
 .iamtag {
   background: var(--ink);
   color: #fff;
@@ -4547,85 +4558,43 @@ input.fxin {
 .iam.mini .iamdod {
   display: none;
 }
+.iamname {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: #f4e3b5;
+  font: 400 15px var(--poster);
+}
+.iam.hero .iamname {
+  font-size: 30px;
+}
+.iam.big .iamname {
+  font-size: 13px;
+}
+.iam.mini .iamname {
+  font-size: 8px;
+}
+.iamtalk .iam {
+  animation: iamglow 1.2s ease-in-out infinite alternate;
+}
+@keyframes iamglow {
+  to {
+    box-shadow:
+      0 0 18px 4px #f4c35a99,
+      0 6px 18px #0004;
+  }
+}
 .iamdod {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
 }
-.iammane,
-.iamface {
-  position: absolute;
-  inset: 6%;
-  background: url("media/img/iam/mane.webp") center/contain no-repeat;
-  transform-origin: 50% 70%;
-  animation: iamsway 7s ease-in-out infinite;
-}
-.iamface {
-  background-image: url("media/img/iam/face.webp");
-  animation: iambreathe 4.5s ease-in-out infinite;
-}
-.iamlid {
-  position: absolute;
-  top: 53%;
-  width: 12.5%;
-  height: 7%;
-  background: #e8dfd0;
-  border-bottom: 1px solid #3d2337;
-  border-radius: 50% 50% 40% 40%;
-  transform: scaleY(0);
-  transform-origin: top;
-  animation: iamblink 5.5s infinite;
-}
-.iamlid.l {
-  left: 31.5%;
-}
-.iamlid.r {
-  left: 56.5%;
-}
-.iammouth {
-  position: absolute;
-  top: 83%;
-  left: 45.5%;
-  width: 9%;
-  height: 4%;
-  background: #4a1f2e;
-  border-radius: 0 0 50% 50%;
-  transform: scaleY(0);
-  transform-origin: top;
-}
-.iamtalk .iammouth {
-  animation: iamtalk 0.32s ease-in-out infinite alternate;
-}
 .iamthink .iam {
   box-shadow:
     0 0 0 3px var(--sun),
     0 6px 18px #0004;
-}
-@keyframes iamsway {
-  50% {
-    transform: rotate(2deg);
-  }
-}
-@keyframes iambreathe {
-  50% {
-    transform: translateY(-1.5%) scale(1.01);
-  }
-}
-@keyframes iamblink {
-  0%,
-  93%,
-  100% {
-    transform: scaleY(0);
-  }
-  96% {
-    transform: scaleY(1);
-  }
-}
-@keyframes iamtalk {
-  to {
-    transform: scaleY(1);
-  }
 }
 dialog .fxfab {
   bottom: calc(env(safe-area-inset-bottom, 0) + 84px);
@@ -5902,9 +5871,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="1b5844b9853591";window.DK_APPV="1b5844b985";window.DK_DATAV="3591ffba9f"</script>
-<script src="/config.js?v=1b5844b9853591"></script>
+<script>window.DK_BUILD="33c6454a3f3591";window.DK_APPV="33c6454a3f";window.DK_DATAV="3591ffba9f"</script>
+<script src="/config.js?v=33c6454a3f3591"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=1b5844b9853591"></script>
+<script src="/platform.js?v=33c6454a3f3591"></script>
 </body>
 </html>

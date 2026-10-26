@@ -255,22 +255,22 @@ function fxObQuiz() {
 }
 const FXINTRO = [
   [
-    "intro-question",
+    "track-deepkids",
     "Learning that goes deep",
     "Every topic followed all the way: from your child's hands to atoms, stars and the big questions nobody has answered yet.",
   ],
   [
-    "intro-iam",
+    "today-hero",
     "A plan that fits your family",
     "Classes, rest days, outings and curiosity. DeepKids plans each day around them and re-plans itself as your child learns.",
   ],
   [
-    "intro-how",
+    "track-board",
     "Ready for any school",
     "Everything NCERT, Cambridge and NIOS teach, and more. Follow your board's book, or let DeepKids lead by topic.",
   ],
   [
-    "intro-forest",
+    "subj-sci",
     "Together, or on their own",
     "Step-by-step for you to teach, or read aloud for your child to follow alone. Games, stories, experiments and songs in every lesson.",
   ],

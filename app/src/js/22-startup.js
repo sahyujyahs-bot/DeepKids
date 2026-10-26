@@ -868,12 +868,12 @@ document.addEventListener(
   "click",
   (e) => {
     if (fxAIOn()) return;
-    // the buttons that open an AI feature; the chat's own buttons (like its close button) are never blocked
+    // the buttons that open an AI feature open I am's Plus page instead; the chat's own buttons are never blocked
     const b = e.target.closest('[data-fx="chat"],[data-fx="askcard"],[data-fx="photo"],.fxfab');
     if (!b) return;
     e.preventDefault();
     e.stopPropagation();
-    toast("🔒 Talking with I am uses AI, which is part of DeepKids Plus.", 6000);
+    fxChat("");
   },
   true,
 );

@@ -1,8 +1,9 @@
-/* I am, the DeepKids teacher: the founder's drawing brought to life. His mane sways, his face breathes, his eyes blink
-   and his mouth moves while he answers, in front of his world, a slowly turning dodecahedron. Tap him to talk (fxChat).
-   States are classes on any parent: .iamthink (waiting for an answer: the world spins faster), .iamtalk (answering). */
+/* I am, the DeepKids teacher. Until his new portrait is ready he appears as his world, a slowly turning dodecahedron,
+   with his name in it. Tap him to talk (fxChat). States are classes on any parent: .iamthink (waiting for an answer:
+   the world spins faster), .iamtalk (answering: it glows). */
 function iamFace(cls = "") {
-  return `<span class="iam ${cls}" aria-hidden="true"><canvas class="iamdod" width="${cls === "hero" ? 300 : 160}" height="${cls === "hero" ? 300 : 160}"></canvas><span class="iammane"></span><span class="iamface"><i class="iamlid l"></i><i class="iamlid r"></i><i class="iammouth"></i></span></span>`;
+  const n = cls === "hero" ? 300 : 160;
+  return `<span class="iam ${cls}" aria-hidden="true"><canvas class="iamdod" width="${n}" height="${n}"></canvas><b class="iamname">I am</b></span>`;
 }
 // the 20 corners of a dodecahedron, and its 30 edges (corners exactly one edge length apart)
 const IAM_DOD = (() => {
@@ -64,7 +65,7 @@ function iamSpin() {
   };
   requestAnimationFrame(step);
 }
-// after an answer arrives, his mouth moves for about as long as it would take to say it
+// after an answer arrives, he glows for about as long as it would take to say it
 function iamSay(el, text) {
   el.classList.remove("iamthink");
   el.classList.add("iamtalk");
