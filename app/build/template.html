@@ -3584,6 +3584,37 @@ a.btn {
 .segmain {
   margin-top: 6px;
 }
+/* uploads, three to a row like a photo feed */
+.upgrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3px;
+}
+.uptile {
+  position: relative;
+  aspect-ratio: 1;
+  overflow: hidden;
+  background: var(--rule);
+  display: grid;
+  place-items: center;
+  text-decoration: none;
+}
+.uptile img,
+.uptile video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.upplay {
+  position: absolute;
+  color: #fff;
+  font-size: 26px;
+  text-shadow: 0 1px 4px #0008;
+}
+.upfile {
+  font: 700 15px var(--body);
+  color: var(--muted);
+}
 .finh {
   font-size: 22px;
   margin: 10px 0 0;
@@ -17047,7 +17078,7 @@ function viewJourneyTabs() {
   } else if (k === "time")
     h += `<section class="sec"><button class="menurow" data-act="hist">${blob("var(--pist)", 9, "happy", "", 'width="40" height="40"')}<span><b>History</b><br><span class="xs muted">Each lesson your child finished, newest first, by date</span></span>${icon("next")}</button>${trackView()}</section>`;
   else if (k === "work")
-    h += `<section class="sec"><button class="menurow" data-act="todo">${blob("var(--tang)", 11, "calm", "", 'width="40" height="40"')}<span><b>Unfinished work</b><br><span class="xs muted">Started, pending and queued things are in Plan → Ongoing, Pending and Queue</span></span>${icon("next")}</button></section><section class="sec"><div class="sech"><h3>Finished work</h3></div><button class="menurow" data-act="folder">${blob("var(--leaf)", 14, "wow", "", 'width="40" height="40"')}<span><b>Work folder</b><br><span class="xs muted">Every worksheet with answers, quizzes and projects. Save or print.</span></span>${icon("next")}</button></section><section class="sec"><div class="sech"><h3>Photos and files</h3></div>${uploadsView()}</section>`;
+    h += `<section class="sec">${uploadsView()}</section><section class="sec"><button class="menurow" data-act="tofinish">${blob("var(--tang)", 11, "calm", "", 'width="40" height="40"')}<span><b>Still to do</b><br><span class="xs muted">What your child started and hasn't finished, and what's not tried yet</span></span>${icon("next")}</button><button class="menurow" data-act="folder">${blob("var(--leaf)", 14, "wow", "", 'width="40" height="40"')}<span><b>Worksheets and quizzes, with answers</b><br><span class="xs muted">Everything finished in the app, to save or print</span></span>${icon("next")}</button></section>`;
   else h += `<section class="sec">${schoolView()}</section>`;
   return h;
 }
@@ -17701,26 +17732,25 @@ function upCard(w, i) {
     <div class="col" style="gap:4px;min-width:0"><b class="sm">${esc(w.title || w.name || "Upload")}</b><span class="xs muted">${esc(fmt(w.date))}${w.kind ? " · " + esc(w.kind) : ""}${(w.tags || []).length ? " · " + w.tags.map(esc).join(", ") : ""}</span>
     <select class="inp" style="height:36px;font-size:13px" data-upk="${esc(w.id)}" aria-label="Chapter"><option value="">${u ? "" : "Which chapter? "}Not linked to a chapter</option>${[...new Map([...(u ? [[u.k, u]] : []), ...C.map((c) => [c.u.k, c.u])]).values()].map((x) => `<option value="${esc(x.k)}" ${x.k === w.k ? "selected" : ""}>${esc(SUBJ[x.subj])} · ${esc(chT(x))}</option>`).join("")}</select></div></div>`;
 }
+// one square in the uploads grid: the photo or video itself, or the file's type; tap to open it full size
+function upTile(w) {
+  const u = unitByK(w.k),
+    src = `/_blob/${esc(w.id)}`,
+    vid = /^video\//.test(w.type || "") || /\.(mp4|mov|webm|m4v)$/i.test(w.name || "");
+  return `<a class="uptile" href="${src}" target="_blank" rel="noopener" title="${esc((w.title || w.name || "Upload") + (u ? " · " + chT(u) : "") + " · " + fmt(w.date))}">${isImg(w) ? `<img src="${src}" alt="${esc(w.title || "Upload")}" loading="lazy">` : vid ? `<video src="${src}" muted preload="metadata"></video><span class="upplay">▶</span>` : `<span class="upfile">${esc((w.name || "file").split(".").pop().toUpperCase())}</span>`}</a>`;
+}
 function uploadsView() {
   document.getElementById("sheetTitle").textContent = "Uploads";
   const U = (S.work || []).slice().sort((a, b) => ((b.date || "") < (a.date || "") ? -1 : 1)),
     P = ui.up;
-  let h = `<label class="drop ${P ? "busy" : ""}">${blob("var(--leaf)", 5, "wow", "", 'width="48" height="48"')}<b>${P ? (P.step === "tag" ? "Reading and filing…" : `Saving ${P.i} of ${P.n}…`) : "Add photos and files"}</b><span class="xs muted">${P ? "Keep this open for a moment." : "Pick as many as you like: worksheets, drawings, notebook pages, experiments, outings. DeepKids matches each to the day and chapter. Nothing to fill in."}</span><input type="file" id="upFiles" multiple accept="image/*,application/pdf,video/*,.doc,.docx,.ppt,.pptx" hidden ${P ? "disabled" : ""}></label>
+  let h = `<label class="drop ${P ? "busy" : ""}">${blob("var(--leaf)", 5, "wow", "", 'width="48" height="48"')}<b>${P ? (P.step === "tag" ? "Reading and filing…" : `Saving ${P.i} of ${P.n}…`) : "Add photos, videos and files"}</b><span class="xs muted">${P ? "Keep this open for a moment." : "Pick as many as you like: worksheets, drawings, notebook pages, experiments, outings. DeepKids matches each to the day and chapter. Nothing to fill in."}</span><input type="file" id="upFiles" multiple accept="image/*,application/pdf,video/*,.doc,.docx,.ppt,.pptx" hidden ${P ? "disabled" : ""}></label>
   ${ASSETS ? "" : `<p class="xs muted">Saving files works when DeepKids is open in claude.ai.</p>`}`;
   const need = U.filter((w) => !w.k);
   if (need.length)
     h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Need a chapter</h3><span class="pill">${need.length}</span></div><p class="xs muted">Pick one, or leave it as a general memory.</p><div class="col" style="gap:8px">${need.map(upCard).join("")}</div></section>`;
-  const by = {};
-  U.filter((w) => w.k).forEach((w) => {
-    const m = (w.date || "").slice(0, 7);
-    (by[m] = by[m] || []).push(w);
-  });
-  Object.keys(by)
-    .sort()
-    .reverse()
-    .forEach((m) => {
-      h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">${parse(m + "-01").toLocaleDateString(undefined, { month: "long", year: "numeric" })}</h3><span class="pill">${by[m].length}</span></div><div class="col" style="gap:8px">${by[m].map(upCard).join("")}</div></section>`;
-    });
+  const done = U.filter((w) => w.k);
+  if (done.length)
+    h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Everything so far</h3><span class="pill">${done.length}</span></div><div class="upgrid">${done.map(upTile).join("")}</div></section>`;
   if (!U.length) h += `<p class="note">Nothing uploaded yet.</p>`;
   return h;
 }
@@ -17808,6 +17838,15 @@ function trackData() {
   (S.work || []).forEach((w) => {
     if (w.date) day(w.date).did.push({ t: "up", w, u: w.k && unitByK(w.k), s: w.k && unitByK(w.k)?.subj });
   });
+  Object.entries(fxSt().done).forEach(([id, D]) => {
+    const u = unitBy("unit|" + id),
+      P = DATA.units?.[id]?.parts || [];
+    Object.entries(D).forEach(([k, d]) => {
+      if (!k.startsWith("at:")) return;
+      const pt = P.find((p) => p[0] === k.slice(3));
+      day(d).did.push({ t: "part", s: u?.subj, u, title: pt ? pt[1] : "A part" });
+    });
+  });
   Object.entries(S.evlog || {}).forEach(([k, r]) => {
     const j = k.indexOf("|"),
       e = evFind(k.slice(j + 1));
@@ -17833,17 +17872,17 @@ function didLine(x) {
               ? evLogLine(x)
               : x.t === "check"
                 ? `<li>Checked on: ${esc(x.title)}</li>`
-                : "";
+                : x.t === "part"
+                  ? `<li>${esc(x.title)} <span class="xs muted">${ch}</span></li>`
+                  : "";
 }
-function trackChart(T) {
-  const days = Array.from({ length: 14 }, (_, i) => addDays(today, i - 13)),
-    subs = SUBJ_KEYS.filter((s) => days.some((d) => T[d] && (T[d].m[s] || 0) + (T[d].e[s] || 0) > 0)),
+function trackChart(T, days) {
+  const subs = SUBJ_KEYS.filter((s) => days.some((d) => T[d] && (T[d].m[s] || 0) + (T[d].e[s] || 0) > 0)),
     mx = Math.max(30, ...days.map((d) => (T[d] ? dTot(T[d]) : 0))),
     top = Math.ceil(mx / 30) * 30;
-  if (!subs.length)
-    return `<p class="note">No study time in the last two weeks yet. Time is measured as you go through lessons.</p>`;
+  if (!subs.length) return `<p class="note">No study time here yet. Time is measured as you go through lessons.</p>`;
   return `<div class="tlegend">${subs.map((s) => `<span><i style="background:${CHC[s]}"></i>${esc(SUBJ[s])}</span>`).join("")}<span class="xs muted"><i class="est"></i>Lighter: planned time, not timed</span></div>
-  <div class="tchart" role="img" aria-label="Minutes studied each day for the last 14 days"><div class="tgrid"><span style="bottom:100%">${hmin(top)}</span><span style="bottom:50%">${hmin(top / 2)}</span><span style="bottom:0">0</span></div>
+  <div class="tchart" role="img" aria-label="Minutes studied each day"><div class="tgrid"><span style="bottom:100%">${hmin(top)}</span><span style="bottom:50%">${hmin(top / 2)}</span><span style="bottom:0">0</span></div>
   <div class="tbars">${days
     .map((d) => {
       const x = T[d] || { m: {}, e: {} },
@@ -17881,53 +17920,103 @@ function trackView() {
     sub = {};
   study.forEach((d) =>
     SUBJ_KEYS.forEach((s) => {
-      const m = (T[d].m[s] || 0) + (T[d].e[s] || 0),
-        n = T[d].did.filter((x) => x.t === "lesson" && x.s === s).length;
-      if (m || n) {
-        sub[s] = sub[s] || { m: 0, n: 0, days: 0 };
+      const m = (T[d].m[s] || 0) + (T[d].e[s] || 0);
+      if (m || T[d].did.some((x) => x.s === s)) {
+        sub[s] = sub[s] || { m: 0, days: 0 };
         sub[s].m += m;
-        sub[s].n += n;
         sub[s].days++;
       }
     }),
   );
   const smax = Math.max(1, ...Object.values(sub).map((x) => x.m));
   let h = `<div class="tiles"><div class="tile"><b>${hmin(all)}</b><span>studied in all</span></div><div class="tile"><b>${study.length}</b><span>study days</span></div><div class="tile"><b>${hmin(study.length ? all / study.length : 0)}</b><span>a study day, on average</span></div><div class="tile"><b>${hmin(wk)}</b><span>in the last 7 days</span></div><div class="tile"><b>${fin}</b><span>topics finished</span></div></div>`;
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Last two weeks</h3></div>${trackChart(T)}</section>`;
+  h += trackPeriod(T);
   h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">By subject</h3><span class="xs muted">all time</span></div>${
     Object.keys(sub).length
       ? `<div class="col" style="gap:10px">${SUBJ_KEYS.filter((s) => sub[s])
           .map(
             (s) =>
-              `<div class="hbar"><span class="sm"><b>${esc(SUBJ[s])}</b> · ${hmin(sub[s].m)} · ${sub[s].n} lesson${sub[s].n === 1 ? "" : "s"} on ${sub[s].days} day${sub[s].days === 1 ? "" : "s"}</span><div class="hb"><i style="width:${(sub[s].m / smax) * 100}%;background:${CHC[s]}"></i></div></div>`,
+              `<div class="hbar"><span class="sm"><b>${esc(SUBJ[s])}</b> · ${hmin(sub[s].m)} on ${sub[s].days} day${sub[s].days === 1 ? "" : "s"}</span><div class="hb"><i style="width:${(sub[s].m / smax) * 100}%;background:${CHC[s]}"></i></div></div>`,
           )
           .join("")}</div>`
       : `<p class="xs muted">Nothing yet.</p>`
   }</section>`;
-  const lim = ui.tlim || 21;
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Day by day</h3><span class="xs muted">${ds.length} days with activity</span></div>${
-    ds
-      .slice(0, lim)
-      .map((d) => {
-        const x = T[d],
-          t = dTot(x),
-          subs = SUBJ_KEYS.filter((s) => x.m[s] || x.e[s]),
-          ups = x.did.filter((z) => z.t === "up");
-        return `<details class="card tday" ${d === ds[0] ? "open" : ""}><summary><b>${esc(fmt(d))}</b> <span class="sm muted">· ${t ? hmin(t) : "no timed study"}</span><div class="row" style="gap:6px;margin-top:4px">${subs.map((s) => `<span class="chip ${SC(s)}" style="pointer-events:none">${esc(SUBJ[s])} ${hmin((x.m[s] || 0) + (x.e[s] || 0))}${x.m[s] ? "" : " planned"}</span>`).join("")}</div></summary><ul class="sm" style="padding-left:18px;margin:8px 0 0">${x.did
-          .filter((z) => z.t !== "up")
-          .map(didLine)
-          .join("")}${
-          ups.length
-            ? `<li>${ups.length} upload${ups.length > 1 ? "s" : ""}: ${ups
-                .slice(0, 3)
-                .map((z) => esc(z.w.title || z.w.name || ""))
-                .join(", ")}</li>`
-            : ""
-        }</ul></details>`;
-      })
-      .join("") || `<p class="note">Your days show here as you study.</p>`
-  }${ds.length > lim ? `<button class="link" data-act="tmore">Show older days</button>` : ""}</section>`;
   return h;
+}
+// one day, week or month: how much time, by subject, and everything done in it, day by day
+function trackPeriod(T) {
+  const P = ui.tp || "week",
+    o = Math.min(0, ui.tpo || 0),
+    wd = parse(today).getDay();
+  let days, label;
+  if (P === "day") {
+    days = [addDays(today, o)];
+    label = o ? fmt(days[0]) : "Today";
+  } else if (P === "week") {
+    const mon = addDays(today, -((wd + 6) % 7) + 7 * o);
+    days = Array.from({ length: 7 }, (_, i) => addDays(mon, i));
+    label = o ? "Week of " + fmt(mon) : "This week";
+  } else {
+    const f = parse(today);
+    f.setDate(1);
+    f.setMonth(f.getMonth() + o);
+    const first = iso(f),
+      n = new Date(f.getFullYear(), f.getMonth() + 1, 0).getDate();
+    days = Array.from({ length: n }, (_, i) => addDays(first, i));
+    label = f.toLocaleDateString(undefined, { month: "long", year: "numeric" });
+  }
+  const past = days.filter((d) => d <= today),
+    tot = past.reduce((a, d) => a + (T[d] ? dTot(T[d]) : 0), 0),
+    by = {};
+  past.forEach((d) =>
+    SUBJ_KEYS.forEach((s) => {
+      const m = T[d] ? (T[d].m[s] || 0) + (T[d].e[s] || 0) : 0;
+      if (m) by[s] = (by[s] || 0) + m;
+    }),
+  );
+  const mx = Math.max(1, ...Object.values(by)),
+    did = past
+      .slice()
+      .reverse()
+      .filter((d) => T[d]?.did.length);
+  return `<section class="sec"><div class="seg">${[
+    ["day", "Day"],
+    ["week", "Week"],
+    ["month", "Month"],
+  ]
+    .map(([k, n]) => `<button aria-pressed="${P === k}" data-act="tp" data-v="${k}">${n}</button>`)
+    .join("")}</div>
+   <div class="pager"><button class="iconbtn" data-act="tpo" data-d="-1" aria-label="Earlier">${icon("back")}</button><b>${esc(label)}</b><button class="iconbtn" data-act="tpo" data-d="1" ${o >= 0 ? "disabled" : ""} aria-label="Later">${icon("next")}</button></div>
+   <div class="tiles"><div class="tile"><b>${hmin(tot)}</b><span>studied</span></div><div class="tile"><b>${past.filter((d) => T[d] && dTot(T[d]) > 0).length}</b><span>study day${P === "day" ? "" : "s"}</span></div></div>
+   ${P === "day" ? "" : trackChart(T, days)}
+   ${
+     Object.keys(by).length
+       ? `<div class="col" style="gap:8px">${SUBJ_KEYS.filter((s) => by[s])
+           .map(
+             (s) =>
+               `<div class="hbar"><span class="sm"><b>${esc(SUBJ[s])}</b> · ${hmin(by[s])}</span><div class="hb"><i style="width:${(by[s] / mx) * 100}%;background:${CHC[s]}"></i></div></div>`,
+           )
+           .join("")}</div>`
+       : ""
+   }
+   <div class="sech" style="margin-top:8px"><h3 style="font-size:18px">What was done</h3></div>
+   ${
+     did.length
+       ? did
+           .map(
+             (d) =>
+               `<details class="card tday" ${d === did[0] ? "open" : ""}><summary><b>${esc(fmt(d))}</b> <span class="sm muted">· ${dTot(T[d]) ? hmin(dTot(T[d])) : "no timed study"}</span></summary><ul class="sm">${T[
+                 d
+               ].did
+                 .filter((z) => z.t !== "up")
+                 .map(didLine)
+                 .join(
+                   "",
+                 )}${T[d].did.some((z) => z.t === "up") ? `<li>${T[d].did.filter((z) => z.t === "up").length} photo or file uploaded</li>` : ""}</ul></details>`,
+           )
+           .join("")
+       : `<p class="note">Nothing done in this ${P} yet.</p>`
+   }</section>`;
 }
 let TIP = null;
 function tipAt(el) {
@@ -20156,8 +20245,8 @@ const SEGS = {
   ],
   journey: [
     ["overview", "Overview", "How each subject is going, chapter by chapter"],
-    ["time", "Time", "Time spent each day and subject, and everything done"],
-    ["work", "Work", "Finished work with answers, and photos"],
+    ["time", "Time", "How much time, by day, week or month, and everything done"],
+    ["work", "Photos and files", "Photos, videos and files of what your child made, and what's still to do"],
     ["school", "School", "Report, entrance test and a folder to send to a school"],
   ],
 };
@@ -21672,8 +21761,16 @@ function onAct(e) {
       openSheet({ mode: "school" });
       break;
     }
-    case "tmore": {
-      ui.tlim = (ui.tlim || 21) + 30;
+    case "tp": {
+      ui.tp = b.dataset.v;
+      ui.tpo = 0;
+      sfx("tap");
+      render();
+      break;
+    }
+    case "tpo": {
+      ui.tpo = Math.min(0, (ui.tpo || 0) + +b.dataset.d);
+      sfx("tap");
       render();
       break;
     }

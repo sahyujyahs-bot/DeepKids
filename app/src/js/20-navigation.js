@@ -43,8 +43,8 @@ const SEGS = {
   ],
   journey: [
     ["overview", "Overview", "How each subject is going, chapter by chapter"],
-    ["time", "Time", "Time spent each day and subject, and everything done"],
-    ["work", "Work", "Finished work with answers, and photos"],
+    ["time", "Time", "How much time, by day, week or month, and everything done"],
+    ["work", "Photos and files", "Photos, videos and files of what your child made, and what's still to do"],
     ["school", "School", "Report, entrance test and a folder to send to a school"],
   ],
 };

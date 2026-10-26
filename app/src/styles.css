@@ -3578,6 +3578,37 @@ a.btn {
 .segmain {
   margin-top: 6px;
 }
+/* uploads, three to a row like a photo feed */
+.upgrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3px;
+}
+.uptile {
+  position: relative;
+  aspect-ratio: 1;
+  overflow: hidden;
+  background: var(--rule);
+  display: grid;
+  place-items: center;
+  text-decoration: none;
+}
+.uptile img,
+.uptile video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.upplay {
+  position: absolute;
+  color: #fff;
+  font-size: 26px;
+  text-shadow: 0 1px 4px #0008;
+}
+.upfile {
+  font: 700 15px var(--body);
+  color: var(--muted);
+}
 .finh {
   font-size: 22px;
   margin: 10px 0 0;

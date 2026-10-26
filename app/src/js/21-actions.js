@@ -1157,8 +1157,16 @@ function onAct(e) {
       openSheet({ mode: "school" });
       break;
     }
-    case "tmore": {
-      ui.tlim = (ui.tlim || 21) + 30;
+    case "tp": {
+      ui.tp = b.dataset.v;
+      ui.tpo = 0;
+      sfx("tap");
+      render();
+      break;
+    }
+    case "tpo": {
+      ui.tpo = Math.min(0, (ui.tpo || 0) + +b.dataset.d);
+      sfx("tap");
       render();
       break;
     }
