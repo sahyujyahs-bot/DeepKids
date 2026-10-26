@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Look at your plate at your next meal. Pick one thing on it. Now ask: where was this a year ago? Was it alive? Was it in the air, in the soil, or in the sea?",
-  "text": "Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a cow, a tree or a boat. Before the farm there was a seed. And before the seed? This unit follows food back, step by step, until we reach the place where all food begins. On the way we meet a seed that is really a baby plant with a packed lunch, bacteria that cook without fire, and deep-sea creatures that eat without any sunlight at all.",
+  "text": "Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a cow, a tree or a boat. Before the farm there was a seed. And before the seed? This unit follows food back, step by step, until we reach the place where all food begins. On the way we meet a seed that is really a baby plant with a packed lunch. We meet bacteria that cook without fire. And we meet deep-sea creatures that eat without any sunlight at all.",
   "art": "A roti on a plate with a long winding path behind it going back through a shop, a flour mill, a wheat field and a single wheat seed, ending at a bright Sun."
  },
  "outcomes": [
@@ -18,7 +18,7 @@
   "I can explain that every food chain starts with plants, and that plants make food from sunlight, air and water.",
   "I can run a fair test, changing only one thing, and record my results in a table and a bar chart.",
   "I can describe old Indian knowledge about food, like the six tastes and eating with the seasons. I can say which parts science agrees with and which are still argued about.",
-  "I can give big examples from the edge of science: life at deep-sea vents that eats chemicals instead of sunlight, seed banks that keep food safe for the future, and my own body being rebuilt from what I eat."
+  "I can give big examples from the edge of science. Deep-sea vent life eats chemicals instead of sunlight. Seed banks keep food safe for the future. My own body is rebuilt from what I eat."
  ],
  "cards_mins": 20,
  "terms": [
@@ -260,7 +260,7 @@
    "concept": "Food made by fungi and microbes",
    "status": "defined",
    "definition": "Fungi and microbes are living things that are not plants and not animals. Mushrooms are fungi we eat. Many microbes help make our food, by fermenting it.",
-   "description": "A mushroom is not a plant. It has no green leaves and cannot make food from sunlight. It feeds on dead leaves, wood or soil. Scientists have found that fungi are actually more closely related to animals than to plants. Microbes are even smaller living things. Put a spoon of curd into warm milk and leave it overnight. Bacteria from the old curd feed on the sugar in the milk. They make an acid, which turns the milk thick and sour. By morning there are billions of them, and the milk has become curd. Idli and dosa batter rise and turn sour because bacteria and yeasts, another kind of fungus, feed on the soaked rice and urad dal. People in India have used microbes to make curd, idli, dhokla, kanji and appam for many hundreds of years, long before anyone knew microbes existed.",
+   "description": "A mushroom is not a plant. It has no green leaves and cannot make food from sunlight. It feeds on dead leaves, wood or soil. Scientists have found that fungi are actually more closely related to animals than to plants. Microbes are even smaller living things. Put a spoon of curd into warm milk and leave it overnight. Bacteria from the old curd feed on the sugar in the milk. They make an acid, which turns the milk thick and sour. By morning there are billions of them, and the milk has become curd. Idli and dosa batter rise and turn sour for the same reason. Bacteria and yeasts feed on the soaked rice and urad dal. Yeasts are another kind of fungus. People in India have used microbes to make curd, idli, dhokla, kanji and appam for many hundreds of years. They did it long before anyone knew microbes existed.",
    "examples": [
     "Curd is milk changed by bacteria.",
     "Bread and bhatura rise because yeast makes tiny bubbles of gas.",
@@ -327,8 +327,8 @@
   {
    "concept": "You are built out of your food",
    "status": "defined",
-   "definition": "Your body is made of atoms, and almost all of them came from the food you ate and the water and air you took in. Your body keeps replacing its old parts with new parts built from food.",
-   "description": "When you eat, your body breaks food down into tiny pieces. It uses some for energy, like fuel. It uses the rest as building blocks. The lining of your gut is rebuilt every few days. Each red blood cell lasts only about 120 days, about four months, and is then replaced with a new one. So the blood in you now was built from food you ate in the last few months. The carbon atoms in today's rice were carbon dioxide in the air over a paddy field last season. Before that they may have been in a tree, or in a dinosaur, or in the breath of someone who lived long ago. Atoms do not wear out. They just move from one living thing to the next. And most of those atoms were first made inside stars that burned out before the Sun was born.",
+   "definition": "Your body is made of atoms. Almost all of them came from the food you ate, and the water and air you took in. Your body keeps replacing its old parts with new parts built from food.",
+   "description": "When you eat, your body breaks food down into tiny pieces. It uses some for energy, like fuel. It uses the rest as building blocks. The lining of your gut is rebuilt every few days. Each red blood cell lasts only about 120 days, about four months, and is then replaced with a new one. So the blood in you now was built from food you ate in the last few months. The carbon atoms in today's rice were carbon dioxide in the air over a paddy field last season. Before that, they may have been in a tree, a dinosaur, or the breath of someone long ago. Atoms do not wear out. They just move from one living thing to the next. And most of those atoms were first made inside stars that burned out before the Sun was born.",
    "examples": [
     "The dal you eat this week helps build the muscles you use next month.",
     "A carbon atom in your fingernail may once have been in a mango, a cow and the air."
@@ -614,7 +614,7 @@
    "But the seeds survived. After the war, they went out from St Isaac's Square to farms across the country, packet by packet. They were sown in spring soil. They woke up and ate their lunch and pushed out roots and shoots, and grew, and made more seeds, and those seeds made more.",
    "Somewhere, a great-great-great-grandchild of one of those forty-seven peas is climbing a stick in a garden right now. It does not know about the winter. It only knows about the Sun."
   ],
-  "epiphany": "For the parent: Nina's turn comes when she sees that a seed is not only food. It is a living baby plant with its lunch packed around it, waiting to grow. Eaten, it is one mouthful. Planted, it becomes a plant that makes many more seeds. Most of our food is seeds or other plant parts, and every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years. The story also quietly asks about saving for the future, and about the people whose sacrifice was never written in the history books.",
+  "epiphany": "For the parent: Nina's turn comes when she sees that a seed is not only food. It is a living baby plant with its lunch packed around it, waiting to grow. Eaten, it is one mouthful. Planted, it becomes a plant that makes many more seeds. Most of our food is seeds or other plant parts. Every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years. The story also quietly asks about saving for the future. It remembers people whose sacrifice was never written in the history books.",
   "ask": [
    "Why did the scientists in the story not cook the seeds, even though they were starving?",
    "What did Nina remember about the inside of a pea? What were the two fat halves for?",
@@ -1403,9 +1403,9 @@
     },
     {
      "t": "write",
-     "p": "Using the rough rule that only about a tenth of the energy passes on, explain why it takes more land to feed people on milk and meat than on grains and dal.",
+     "p": "Only about a tenth of the energy passes on at each step of a food chain. Use this rough rule to explain why feeding people on milk and meat takes more land than feeding them on grains and dal.",
      "lines": 4,
-     "a": "When people eat grains and dal, they get the plant's energy directly. When a cow eats the plants first, it uses up most of the energy, and only about a tenth is left in its milk and meat. So to get the same energy from animal food, many more fields of plants are needed.",
+     "a": "When people eat grains and dal, they get the plant's energy directly. When a cow eats the plants first, it uses up most of the energy. Only about a tenth is left in its milk and meat. So to get the same energy from animal food, many more fields of plants are needed.",
      "why": "Every extra step in a food chain loses most of the energy. Shorter chains need less land."
     },
     {
@@ -1460,7 +1460,7 @@
     },
     {
      "t": "mcq",
-     "p": "Which question is the best way to find out if milk turns into curd because of the curd added, and not because of the warmth?",
+     "p": "You want to find out if the added curd is what turns milk into curd. Which test is best?",
      "opts": [
       "Compare warm milk with curd to warm milk without curd",
       "Compare warm milk with curd to cold milk without curd",
@@ -2869,7 +2869,7 @@
      "think": "Seed banks keep seeds very dry and very cold, deep inside a frozen mountain. Why both?"
     }
    ],
-   "context": "This is a design challenge. You build a seed safe that keeps seeds dry and whole in a damp place for a week, the way farmers store seed until the next sowing.",
+   "context": "This is a design challenge. You build a seed safe that keeps seeds dry and whole in a damp place for a week. Farmers store seed this way until the next sowing.",
    "setup": [
     {
      "art": "An open steel plate of 50 moong seeds on a bathroom shelf, next to a sealed steel dabba and a jar with neem leaves.",
@@ -2953,7 +2953,7 @@
      "think": "On Mars, would you miss the food, or the farm, or the people who grow it?"
     }
    ],
-   "context": "This is a design challenge. You plan a menu for astronauts on Mars, where there are no farms, animals or sea, so every food must be carried, grown or made.",
+   "context": "This is a design challenge. You plan a menu for astronauts on Mars. There are no farms, animals or sea there, so every food must be carried, grown or made.",
    "setup": [
     {
      "art": "A dusty red Mars landscape with a small dome-shaped base and four astronauts.",
@@ -3477,7 +3477,7 @@
   {
    "problem": "In Trace Your Dinner, a child counted the people on each food's chain: roti 6 people, dal 5 people, curd 4 people, banana 5 people. How many people helped bring her dinner altogether?",
    "answer": "20 people.",
-   "explain": "Add the four chains: 6 + 5 = 11. 11 + 4 = 15. 15 + 5 = 20. So 20 people helped, and that does not even count the ones we cannot see, like the people who made the tractor or the cooking gas.",
+   "explain": "Add the four chains: 6 + 5 = 11. 11 + 4 = 15. 15 + 5 = 20. So 20 people helped. That does not even count the ones we cannot see, like the people who made the tractor or the cooking gas.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about Trace Your Dinner. You drew each food's journey back to the Sun, and drew the people who helped at each step.",
    "how": "a3",
@@ -3775,7 +3775,7 @@
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli)",
-    "teaching": "The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality: from food all beings are born, by food they live, and into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.'",
+    "teaching": "The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality. From food all beings are born. By food they live. Into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.'",
     "link": "Your curd was milk, the milk was grass, and you will one day return to the soil that feeds new plants. The eater and the eaten are one chain."
    },
    {
