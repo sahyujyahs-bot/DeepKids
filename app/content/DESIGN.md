@@ -69,9 +69,11 @@ Write these into every picture brief.
 - Each animal does what it really does in the scene: a bee works a flower, a squirrel buries a seed.
 
 ### I am, the teacher
-- Majestic and authoritative, after Lord Narasimha: tall, adult proportions, a long strong lion muzzle, heavy brow, calm steady eyes; never cute or childlike.
-- A teacher, not a god: explaining, listening or showing, not blessing. No sacred thread, no band at the beard tip.
-- Four arms; a lotus drawn like a tattoo over his heart (Lakshmi in the heart); gold jewellery.
+- A lion-man, as old as the oldest lion-man carving (about 40,000 years): he belongs to everyone, not to one religion.
+- Majestic and authoritative: tall, adult proportions, a long strong lion muzzle, heavy brow, calm steady eyes; never cute or childlike.
+- A teacher, not a god: he sits normally on a stone step, hands relaxed, holding only a book. No idol signs: no lotus throne, lamp, temple gold, hair knot, sacred thread or blessing pose.
+- Four arms; a third eye; a bold black-ink lotus tattoo over his heart (Lakshmi in the heart).
+- Cool, earthy colours: a tawny mane with dark tips, deep indigo trousers, a sage green sash. No red-gold glow.
 
 ## Inspiration: the founder's SCI cards
 The SCI scientist trading cards show the look to borrow from (ideas only, not the cards themselves):

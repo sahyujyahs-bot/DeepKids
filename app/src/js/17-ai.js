@@ -280,7 +280,7 @@ function fxChat(about, photo, at = null) {
       <div class="fxmsgs">${iamFace("hero")}<p class="fxm ai">I am I am. I can talk with you about any page, card or question once DeepKids Plus is on. Here is everything it opens up:</p>${plusList()}
       <button class="btn accent" data-cx="plus">Get DeepKids Plus</button><button class="btn line sm" data-cx="x">Not now</button></div></div>`;
     if (!d.open) d.showModal();
-    return iamSpin();
+    return;
   }
   d.dataset.about = about || "";
   d.dataset.where = at?.where || "";
@@ -294,7 +294,6 @@ function fxChat(about, photo, at = null) {
     if (d._pic) toast("Photo added");
   };
   if (!d.open) d.showModal();
-  iamSpin();
   d.querySelector("textarea").focus();
   if (photo) d.querySelector("input[type=file]").click();
 }
