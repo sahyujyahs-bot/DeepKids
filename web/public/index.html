@@ -705,7 +705,7 @@ header.top{background:var(--night)!important;color:#fff}
 header.top .hello b,header.top .hello,header.top h1,header.top .greet{color:#fff!important}
 header.top .muted,header.top .xs{color:#C9CEF0!important}
 header.top .iconbtn{background:rgba(255,255,255,.08)!important;border:1.5px solid rgba(255,255,255,.25)!important;box-shadow:none!important;color:#fff!important}
-header.top::after{content:"";position:absolute;inset:0;pointer-events:none;opacity:.45;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='90' viewBox='0 0 220 90' fill='none' stroke='%23E8A317' stroke-width='1.6' stroke-linecap='round'%3E%3Cpath d='M20 18l3 7 7 1-6 4 2 7-6-4-6 4 2-7-6-4 7-1z'/%3E%3Cpath d='M150 60c8-6 20-6 26 0-6 6-18 6-26 0z' stroke='%23FFFFFF'/%3E%3Ccircle cx='163' cy='60' r='3' stroke='%23FFFFFF'/%3E%3Cpath d='M200 20a6 6 0 1 1-6 6 4 4 0 1 1 4-4' stroke='%23C9CEF0'/%3E%3Ccircle cx='95' cy='14' r='1.6' fill='%23FFFFFF' stroke='none'/%3E%3Ccircle cx='120' cy='34' r='1.2' fill='%23E8A317' stroke='none'/%3E%3Ccircle cx='60' cy='70' r='1.4' fill='%23FFFFFF' stroke='none'/%3E%3C/svg%3E") no-repeat right -40px center/220px 90px}
+
 header.top{position:sticky;overflow:hidden}
 /* bottom bar: paper with a rule; the current tab is underlined in margin red */
 .nav{background:var(--surface)!important;box-shadow:none!important;border-top:1.5px solid var(--rule)!important;border-radius:0!important}
@@ -760,6 +760,19 @@ header.top{border-radius:0 0 24px 24px!important;margin:0 6px!important}
 .fxsubj:active,.fxcont:active,.choice:active{transform:scale(.97)}
 @keyframes fxtick{0%{transform:scale(1)}40%{transform:scale(1.3) rotate(-8deg)}100%{transform:scale(1)}}
 .tcard .ck.done,.tline.done .ck{animation:fxtick .35s ease}
+.obhero{width:100%;max-height:220px;object-fit:cover;border-radius:16px}
+.ob .choice img.obimg{width:100%;height:140px;object-fit:cover;border-radius:10px;margin-bottom:8px}
+.ob .choice{flex-direction:column;align-items:stretch}
+
+header.top{background:linear-gradient(90deg,var(--night) 0%,var(--night) 38%,rgba(30,20,54,.55) 70%,rgba(30,20,54,.15)),url("media/ui/today-hero.jpg") right 30%/cover no-repeat!important}
+header.top::after{display:none!important}
+header.top #snd{display:none!important}
+header.top .iconbtn{background:transparent!important;border:0!important;box-shadow:none!important}
+header.top .iconbtn .ico{stroke:#fff!important}
+.fxsubj{min-height:150px;background:linear-gradient(180deg,var(--c) 0%,var(--c) 42%,color-mix(in srgb,var(--c) 30%,transparent) 70%,transparent),var(--img,none) center bottom/cover no-repeat,var(--c)!important;justify-content:start}
+.fxsubj.s-math{--img:url("media/ui/subj-math.jpg")}.fxsubj.s-eng{--img:url("media/ui/subj-eng.jpg")}.fxsubj.s-hin{--img:url("media/ui/subj-hin.jpg")}.fxsubj.s-sci{--img:url("media/ui/subj-sci.jpg")}.fxsubj.s-dks{--img:url("media/ui/subj-dks.jpg")}.fxsubj.s-wml{--img:url("media/ui/subj-wml.jpg")}.fxsubj.s-wart{--img:url("media/ui/subj-wart.jpg")}
+.fxempty{border-radius:16px;overflow:hidden;border:1.5px solid var(--rule);background:#fff}.fxempty img{width:100%;height:180px;object-fit:cover;display:block}.fxempty p{margin:0;padding:10px 12px;font:400 17px var(--hand)}
+.ob .choice{display:grid!important;grid-template-columns:1fr!important;gap:6px!important}.ob .choice img.obimg{height:150px}
 
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}</style>
@@ -792,9 +805,9 @@ header.top{border-radius:0 0 24px 24px!important;margin:0 6px!important}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 
-<script>window.DK_BUILD="7f4d0641fbfc44"</script>
-<script src="/config.js?v=7f4d0641fbfc44"></script>
+<script>window.DK_BUILD="9bc0637abdfc44"</script>
+<script src="/config.js?v=9bc0637abdfc44"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=7f4d0641fbfc44"></script>
+<script src="/platform.js?v=9bc0637abdfc44"></script>
 </body>
 </html>
