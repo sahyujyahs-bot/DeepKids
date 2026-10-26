@@ -1,7 +1,0 @@
-/* v6: plan options, topic queue */
-.optcard{background:color-mix(in srgb,var(--c) 20%,var(--surface))}
-.optcard.chosen{box-shadow:0 0 0 3px var(--good),var(--lift)}
-.qrow{display:grid;grid-template-columns:30px 1fr auto;gap:10px;align-items:center;padding:10px 12px;border-radius:18px;background:color-mix(in srgb,var(--c) 18%,var(--surface))}
-.qn{font:700 18px var(--display);color:color-mix(in srgb,var(--c) 60%,var(--ink));text-align:center}
-.qrow .plain{text-align:left}
-.hello{cursor:pointer;border-radius:16px}

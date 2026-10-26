@@ -1,0 +1,16 @@
+{
+  "name": "deepkids-app",
+  "private": true,
+  "description": "DeepKids app: source in src/, built by build/build_app.py",
+  "scripts": {
+    "build": "python3 build/build_app.py",
+    "lint": "python3 build/build_app.py && eslint build/app.lint.js && prettier --check src",
+    "format": "prettier --write src",
+    "test": "sh tests/run.sh"
+  },
+  "devDependencies": {
+    "eslint": "9.9.0",
+    "globals": "15.9.0",
+    "prettier": "3.3.3"
+  }
+}

@@ -52,4 +52,4 @@
 - "Anatomy": live behaviour models you can tweak on screen. Look at for physics simulations (forces, light).
 - For the redesign: Anthropic's frontend design skill (avoids the generic AI look: purple gradients, cookie-cutter grids); TasteSkill and claude-code-ui-agents for layout rules.
 - For on-screen games: PlayableIntelligence/game-creator (Phaser 2D), abagames/claude-one-button-game-creation (tiny speed drills: flashcards, fast maths), "Learning Game Designer" skill (points, badges, timed quizzes; check it fits DeepKids' no-race spirit).
-- Testing: app/build/ui/matrix.js runs every board (DeepKids track, NCERT, Cambridge, NIOS, Waldorf) at ages 6, 8 and 10 and checks each main screen for errors. Run it after every app change.
+- Testing: app/tests/matrix.js runs every board (DeepKids track, NCERT, Cambridge, NIOS, Waldorf) at ages 6, 8 and 10 and checks each main screen for errors. Run it after every app change.

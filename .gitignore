@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+node_modules
+app/tests/snapshots/
+app/build/app.lint.js

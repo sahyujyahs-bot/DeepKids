@@ -17,8 +17,8 @@ DATA = open(os.path.join(ROOT, 'app/build/data.json')).read()
 pre, script = T[:T.index('<script>')], T[T.index('<script>') + 8:T.rindex('</script>')]
 cut = pre.index('</style>') + len('</style>')
 head, body = pre[:cut], pre[cut:]
-assert script.count('/*DATA*/') == 1
-script = script.replace('/*DATA*/', 'window.DK_DATA')
+assert script.count('/*DATA*/ null') == 1
+script = script.replace('/*DATA*/ null', 'window.DK_DATA')
 
 # Wording that only makes sense inside claude.ai
 WORDS = [
@@ -27,10 +27,8 @@ WORDS = [
     ('Saving files works when DeepKids is open in claude.ai.', 'Saving files needs a connection.'),
     ('Live calendars work when DeepKids is open in claude.ai.', 'Linking Google Calendar is coming soon on the website. Use the reminder file or calendar import below for now.'),
     # Claude-powered features: without Plus (or with config ai:false) they say they're part of DeepKids Plus
-    ('Making the paper needs Claude: open DeepKids in claude.ai.', 'Making test papers is part of DeepKids Plus.'),
     ("Creating topics needs Claude, which isn't available in this view.", 'Exploring new topics is part of DeepKids Plus.'),
     ("Sorting needs Claude, which isn't available in this view. Add things one by one below.", 'Sorting lists and photos is part of DeepKids Plus. Add things one by one below.'),
-    ("Sorting needs Claude, which isn't available in this view. Use Add by hand instead.", 'Smart sorting is part of DeepKids Plus. Use Add by hand for now.'),
     ("Sorting needs Claude, which isn't available in this view.", 'Smart sorting is part of DeepKids Plus. Use Add by hand for now.'),
 ]
 for a, b in WORDS:
@@ -38,9 +36,6 @@ for a, b in WORDS:
 # The claude.ai frame owned the page title and viewport; the website sets them itself
 head = head.replace('<meta name="claude:viewport-fit-sides" content="cover">', '')
 
-# Google Calendar linking runs through claude.ai connectors in the artifact; on the website it waits for Google sign-in scopes
-assert script.count('function calendarCard(){') == 1
-script = script.replace('function calendarCard(){', '''function calendarCard(){if(window.DK_PLATFORM?.name==="web")return `<section class="card"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--sky)",14,"happy","",'width="46" height="46"')}<div><h3 style="font-size:19px">Your calendars</h3><p class="xs muted">Live Google Calendar linking is coming soon. For now, bring in a calendar file: you choose what to keep.</p></div></div><p class="xs muted">Google Calendar on a computer: Settings → Import & export → Export, then unzip. Apple Calendar on a Mac: File → Export.</p><label class="btn soft sm" style="cursor:pointer;justify-self:start">${icon("plus")}Choose an .ics file<input type="file" id="icsFile" accept=".ics,text/calendar" hidden></label></section>`;''',1)
 
 app_hash = hashlib.sha256(script.encode()).hexdigest()[:10]
 data_hash = hashlib.sha256(DATA.encode()).hexdigest()[:10]

@@ -1,0 +1,30 @@
+<title>DeepKids Home Planner</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Mukta:wght@400;500;600;700&display=swap">
+<!-- styles.css goes here -->
+
+<header class="top"><div class="wrap">
+  <div class="hello" id="hello"></div>
+  <button class="iconbtn" id="snd" aria-label="Turn sound off"></button>
+  <button class="iconbtn" id="me" aria-label="Settings"></button>
+</div></header>
+<main id="main"></main>
+<nav class="nav" id="nav" aria-label="Sections"></nav>
+<dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
+<dialog class="mini" id="evd"><form method="dialog" id="evForm" class="col">
+  <h2 style="font-size:24px">Add a class or outing</h2>
+  <div class="field"><label for="eTitle">What is it?</label><input class="inp" id="eTitle" maxlength="60" placeholder="Swimming, tabla class, museum trip"></div>
+  <div class="fgrid"><div class="field"><label for="eKind">Type</label><select class="inp" id="eKind"><option value="class">Class or tuition</option><option value="online">Online class</option><option value="outing">Outing or trip</option><option value="other">Other</option></select></div>
+  <div class="field"><label for="eWho">Who goes</label><select class="inp" id="eWho"><option value="kid">Child (you're free)</option><option value="both">Child with you</option><option value="you">Only you</option></select></div>
+  <div class="field"><label for="eStart">From</label><input class="inp" id="eStart" type="time" value="16:00"></div><div class="field"><label for="eEnd">To</label><input class="inp" id="eEnd" type="time" value="17:00"></div></div>
+  <div class="seg" id="eRep"><button type="button" data-rep="once" aria-pressed="true">One day</button><button type="button" data-rep="weekly" aria-pressed="false">Every week</button></div>
+  <div class="field" id="eDateF"><label for="eDate">Date</label><input class="inp" id="eDate" type="date"></div>
+  <div class="field" id="eDaysF" hidden><span>On</span><div class="dpick" id="eDays"></div></div>
+  <div class="field"><label for="eNote">Note</label><input class="inp" id="eNote" maxlength="100" placeholder="Carry a water bottle, pickup at 5"></div>
+  <p class="sm" id="eErr" style="color:var(--bad)" hidden></p>
+  <div class="row" style="justify-content:flex-end"><button class="btn line sm" value="cancel">Cancel</button><button class="btn sm" value="save">Add to the day</button></div>
+</form></dialog>
+<dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
+<!-- js/*.js go here, in file-name order -->

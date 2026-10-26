@@ -1,8 +1,0 @@
-# force diagram actions
-rep('''case "drew":{''','''case "fadd":{const v=A(k,b.dataset.id)||{fs:[]},it_=null,sel=(ui.fsel||{})[k+b.dataset.id]||document.querySelector(`[data-fsel][data-fid="${b.dataset.id}"]`)?.value;if(sel){setA(k,b.dataset.id,{fs:[...(v.fs||[]),{name:sel,dir:b.dataset.dir}],checked:false});sfx("tap");commit()}break}
-   case "fdel":{const v=A(k,b.dataset.id)||{fs:[]};setA(k,b.dataset.id,{fs:(v.fs||[]).filter((_,i)=>i!==+b.dataset.i),checked:false});commit();break}
-   case "fcheck":{const v=A(k,b.dataset.id)||{fs:[]};setA(k,b.dataset.id,{...v,checked:true});sfx("flip");commit();break}
-   case "fshow":{const v=A(k,b.dataset.id)||{fs:[]};setA(k,b.dataset.id,{...v,shown:true});commit();break}
-   case "aidraw":{aiCheckDraw(k,b.dataset.id);break}
-   case "drew":{''')
-head=head.replace('</style>','.fdiag{width:100%;max-width:340px;display:block;margin:4px auto}\n</style>',1)
