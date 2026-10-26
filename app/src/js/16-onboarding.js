@@ -70,12 +70,12 @@ function viewOnboarding() {
   d.picked = d.picked || {};
   if (ob.quiz) return fxObQuiz();
   if (s === 0)
-    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/track-deepkids.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
+    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/intro-journey.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
   if (s === 1) {
     const isB = ["ncert", "cambridge", "nios"].includes(d.board);
     return `<div class="ob">${fxObBar(1)}<h1>Which track?</h1><p class="muted">You can change this later. Every level and every chapter stays open to browse and add, whichever you pick.</p><div class="choices">
-    <button type="button" class="choice" aria-pressed="${d.board === "combined"}" data-b="combined"><img class="obimg" src="media/ui/track-deepkids.jpg" alt=""><span><b>DeepKids track</b><span>Led by topics. Every topic that NCERT, Cambridge and NIOS teach in a class, and much more, so your child is ready for any school. The plan follows curiosity, keeps pace with the boards, and has one catch-up week each quarter.</span></span></button>
-    <button type="button" class="choice" aria-pressed="${isB}" data-obtrack="board"><img class="obimg" src="media/ui/track-board.jpg" alt=""><span><b>Board track</b><span>Led by your textbook. The book chapter by chapter, with our quizzes, big questions, other points of view, songs, jokes and worksheets alongside.</span></span></button></div>
+    <button type="button" class="choice" aria-pressed="${d.board === "combined"}" data-b="combined"><img class="obimg" src="media/ui/intro-together.jpg" alt=""><span><b>DeepKids track</b><span>Led by topics. Every topic that NCERT, Cambridge and NIOS teach in a class, and much more, so your child is ready for any school. The plan follows curiosity, keeps pace with the boards, and has one catch-up week each quarter.</span></span></button>
+    <button type="button" class="choice" aria-pressed="${isB}" data-obtrack="board"><img class="obimg" src="media/ui/intro-schools.jpg" alt=""><span><b>Board track</b><span>Led by your textbook. The book chapter by chapter, with our quizzes, big questions, other points of view, songs, jokes and worksheets alongside.</span></span></button></div>
     ${
       isB
         ? `<h2 style="font-size:24px;margin-top:10px">Which boards?</h2><p class="xs muted">Pick one or more. The plan follows the first one you pick; the others' chapters show in the Library to add any time.</p><div class="row">${[
@@ -272,22 +272,22 @@ function fxObQuiz() {
 }
 const FXINTRO = [
   [
-    "track-deepkids",
+    "intro-journey",
     "Learning that goes deep",
     "Every topic followed all the way: from your child's hands to atoms, stars and the big questions nobody has answered yet.",
   ],
   [
-    "today-hero",
+    "intro-family",
     "A plan that fits your family",
     "Classes, rest days, outings and curiosity. DeepKids plans each day around them and re-plans itself as your child learns.",
   ],
   [
-    "track-board",
+    "intro-schools",
     "Ready for any school",
     "Everything NCERT, Cambridge and NIOS teach, and more. Follow your board's book, or let DeepKids lead by topic.",
   ],
   [
-    "subj-sci",
+    "intro-together",
     "Together, or on their own",
     "Step-by-step for you to teach, or read aloud for your child to follow alone. Games, stories, experiments and songs in every lesson.",
   ],
