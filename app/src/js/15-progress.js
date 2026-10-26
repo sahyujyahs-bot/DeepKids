@@ -750,7 +750,7 @@ ${lines.join("\n")}
 Return JSON only: {"items":[{"i":1,"k":"<candidate key or empty>","kind":"${UPK.join("|")}","title":"what it shows, 3 to 8 words","tags":["2 to 4 short topic words"]}]}`;
     try {
       const r = await SAMPLE.json(prompt, {
-        modelTier: "default",
+        modelTier: "quick",
         cache: false,
         ...(imgs.length ? { images: imgs } : {}),
       });

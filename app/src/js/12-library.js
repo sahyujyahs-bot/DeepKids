@@ -191,7 +191,7 @@ Reply with only JSON: {"items":[{"name":"","cat":"","by":"","kind":"","ages":"",
 Message:
 """${text.slice(0, 5000)}"""`;
   try {
-    const opt = { modelTier: "default", cache: false };
+    const opt = { modelTier: "quick", cache: false };
     if (D_.files?.length) opt.images = D_.files;
     const r = await SAMPLE.json(prompt, opt),
       valid = new Set(allUnits().map((u) => u.k));

@@ -3,11 +3,20 @@
 // calls Claude with the server's API key, and returns { text, json }.
 // Secrets (Supabase dashboard -> Edge Functions -> Secrets): ANTHROPIC_API_KEY
 // REQUIRE_PLUS (default "true"): only families with an active row in public.plans can use Claude
-// Optional: CLAUDE_MODEL (default claude-opus-5-5), DAILY_CALLS (default 80), ALLOWED_ORIGINS, INVITE_ONLY ("true" to require public.invites)
+// The app asks for a tier; each tier uses the cheapest model that does that job well:
+//   quick   (sorting what a parent typed, tagging photos, filing the home shelf)  Claude Haiku 5.5
+//   default (questions in a unit, checking work, writing quizzes and topics)      Claude Sonnet 5.5
+//   complex (the entrance-test paper)                                              Claude Opus 5.5
+// Optional: MODEL_QUICK, MODEL_DEFAULT, MODEL_COMPLEX to change a tier's model, DAILY_CALLS (default 80),
+//   ALLOWED_ORIGINS, INVITE_ONLY ("true" to require public.invites)
 import Anthropic from "npm:@anthropic-ai/sdk@1.1.0";
 import { createClient } from "npm:@supabase/supabase-js@2.118.0";
 
-const MODEL = Deno.env.get("CLAUDE_MODEL") ?? "claude-opus-5-5";
+const MODELS: Record<string, string> = {
+  quick: Deno.env.get("MODEL_QUICK") ?? "claude-haiku-5-5",
+  default: Deno.env.get("MODEL_DEFAULT") ?? "claude-sonnet-5-5",
+  complex: Deno.env.get("MODEL_COMPLEX") ?? "claude-opus-5-5",
+};
 const DAILY_CALLS = Number(Deno.env.get("DAILY_CALLS") ?? "80");
 const ORIGINS = (Deno.env.get("ALLOWED_ORIGINS") ?? "https://app.deepkids.in,https://deepkids.in,http://localhost:8788").split(",").map((s) => s.trim());
 const INVITE_ONLY = Deno.env.get("INVITE_ONLY") === "true";
@@ -96,7 +105,7 @@ Deno.serve(async (req) => {
 
   try {
     const stream = anthropic.beta.messages.stream({
-      model: MODEL,
+      model: MODELS[tier] ?? MODELS.default,
       max_tokens: tier === "complex" ? 32000 : 16000,
       output_config: { effort: EFFORT[tier] ?? "medium" },
       betas: ["server-side-fallback-2026-07-01"],

@@ -7947,7 +7947,7 @@ Reply with only JSON: {"items":[{"name":"","cat":"","by":"","kind":"","ages":"",
 Message:
 """${text.slice(0, 5000)}"""`;
   try {
-    const opt = { modelTier: "default", cache: false };
+    const opt = { modelTier: "quick", cache: false };
     if (D_.files?.length) opt.images = D_.files;
     const r = await SAMPLE.json(prompt, opt),
       valid = new Set(allUnits().map((u) => u.k));
@@ -10369,7 +10369,7 @@ Reply with only JSON: {"items":[{"type":"class|tuition|online|outing|rest|meal|c
 Message:
 """${text.slice(0, 6000)}"""`;
   try {
-    const opt = { modelTier: "default", cache: false };
+    const opt = { modelTier: "quick", cache: false };
     if (D_.files?.length) opt.images = D_.files;
     const r = await SAMPLE.json(prompt, opt);
     D_.items = (Array.isArray(r?.items) ? r.items : [])
@@ -11235,7 +11235,7 @@ ${lines.join("\n")}
 Return JSON only: {"items":[{"i":1,"k":"<candidate key or empty>","kind":"${UPK.join("|")}","title":"what it shows, 3 to 8 words","tags":["2 to 4 short topic words"]}]}`;
     try {
       const r = await SAMPLE.json(prompt, {
-        modelTier: "default",
+        modelTier: "quick",
         cache: false,
         ...(imgs.length ? { images: imgs } : {}),
       });

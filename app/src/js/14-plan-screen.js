@@ -1269,7 +1269,7 @@ Reply with only JSON: {"items":[{"type":"class|tuition|online|outing|rest|meal|c
 Message:
 """${text.slice(0, 6000)}"""`;
   try {
-    const opt = { modelTier: "default", cache: false };
+    const opt = { modelTier: "quick", cache: false };
     if (D_.files?.length) opt.images = D_.files;
     const r = await SAMPLE.json(prompt, opt);
     D_.items = (Array.isArray(r?.items) ? r.items : [])
