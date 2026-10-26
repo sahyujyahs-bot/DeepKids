@@ -526,3 +526,5 @@ function fxPractiseAll(){const U=fxRefs(),done=Object.keys(DATA.units||{}).filte
   S.log.filter(l=>l.kind!=="skipped"&&l.kind!=="free"&&!String(l.key).startsWith("unit|")).forEach(l=>{const u=unitBy(l.key);if(!u)return;const t=`Part ${l.n} of ${sessionsFor(u)} done: ${chT(u)}`;if(seen.has(t+"|"+u.k))return;seen.add(t+"|"+u.k);out.push({ty:"les",u,title:t,date:l.date,open:`data-act="chapter" data-k="${u.k}"`})});
   return out.sort((a,b)=>(b.date||"").localeCompare(a.date||""))}}
 {const _dh=doneHistory;doneHistory=function(){return _dh().replace('Everything finished','Every finished part, newest first').replace(/(<b[^>]*>Part \d+ of \d+ done: [^<]*<\/b>)/g,'$1')}}
+// To finish: units show all parts and the core path separately
+{const _lg=lessonsGoing;lessonsGoing=function(){return _lg().map(it=>{const k=it.u?.k||"",I=k.startsWith("unit")&&DATA.units?.[k.slice(5)];if(!I)return it;const X=fxStates(k.slice(5)),P=I.parts||[],d=X.filter(x=>x==="done").length,sd=fxSessionsDone(k),st=fxSpineDays(unitBy(k)).length;return {...it,sub:`${d} of ${P.length} parts done · core path: ${sd} of ${st} sessions`}})}}
