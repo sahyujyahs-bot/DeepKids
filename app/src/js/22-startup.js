@@ -881,6 +881,8 @@ new MutationObserver(() => document.body.classList.toggle("ai-locked", !fxAIOn()
   childList: true,
 });
 document.body.classList.toggle("ai-locked", !fxAIOn());
+// I am follows into whichever panel opens or closes
+new MutationObserver(iamFollow).observe(document.body, { subtree: true, attributes: true, attributeFilter: ["open"] });
 document.addEventListener(
   "click",
   (e) => {

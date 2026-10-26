@@ -235,7 +235,7 @@ let SAMPLE = null,
   ASSETS = null,
   IMGOK = false;
 let FXCHAT = [];
-function fxChat(about, photo) {
+function fxChat(about, photo, at = null) {
   let d = document.getElementById("fxChat");
   if (!d) {
     d = document.createElement("dialog");
@@ -249,6 +249,10 @@ function fxChat(about, photo) {
       if (b.dataset.cx === "x") d.close();
       if (b.dataset.cx === "send") fxSend();
       if (b.dataset.cx === "pic") d.querySelector("input[type=file]").click();
+      if (b.dataset.cx === "q") {
+        d.querySelector("textarea").value = b.dataset.q;
+        fxSend();
+      }
     });
     d.addEventListener("keydown", (e) => {
       if (e.key === "Enter" && !e.shiftKey && e.target.tagName === "TEXTAREA") {
@@ -258,9 +262,10 @@ function fxChat(about, photo) {
     });
   }
   d.dataset.about = about || "";
+  d.dataset.where = at?.where || "";
   const u = FXU && document.getElementById("fxDlg")?.open ? FXU : null;
-  d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>I am</b><span class="fxsm">${u ? "About: " + esc(u.title) : "Any question, any subject"}</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
-    <div class="fxmsgs">${FXCHAT.length ? FXCHAT.map((m) => `<p class="fxm ${m.r}">${esc(m.t)}</p>`).join("") : `${iamFace("hero")}<p class="fxm ai">I am I am. Ask me anything: why the sky is blue, what a word means, how to explain this card to your child. ${about ? "I can see the card you're on." : ""}</p>`}</div>
+  d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>I am</b><span class="fxsm">${u ? "About: " + esc(u.title) : at ? "On " + esc(at.where) : "Any question, any subject"}</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
+    <div class="fxmsgs">${FXCHAT.length ? FXCHAT.map((m) => `<p class="fxm ${m.r}">${esc(m.t)}</p>`).join("") : `${iamFace("hero")}<p class="fxm ai">I am I am. ${at ? `I can see you're on ${esc(at.where)}. Ask me about it, or anything at all.` : `Ask me anything: why the sky is blue, what a word means, how to explain this card to your child. ${about ? "I can see the card you're on." : ""}`}</p>${at ? `<div class="iamasks">${IAM_ASKS[at.kind].map((q) => `<button class="chip" data-cx="q" data-q="${esc(q)}">${esc(q)}</button>`).join("")}</div>` : ""}`}</div>
     ${about ? `<p class="fxctx">On this card: “${esc(about.slice(0, 140))}${about.length > 140 ? "…" : ""}”</p>` : ""}
     <div class="fxcin"><button class="fxb" data-cx="pic" aria-label="Add a photo">📷</button><textarea rows="2" placeholder="${photo ? "Add a photo of the finished worksheet, then tap Send" : "Type a question…"}"></textarea><button class="fxb" data-cx="send">Send</button><input type="file" accept="image/*" capture="environment" hidden></div></div>`;
   d.querySelector("input[type=file]").onchange = (e) => {
@@ -292,7 +297,7 @@ async function fxSend() {
     F = fxSt(),
     age = S.age || 7;
   const input = `You are I am, the teacher in DeepKids, a homeschool app for an Indian family. I am is a calm, kind lion-man from a world beyond ours where everyone is called I am; he asks as much as he tells, and never pretends: if asked, say you are an AI speaking as I am. Be a warm, honest science and learning guide. Reply to ${F.mode === "child" ? `a child aged about ${age}: short sentences, simple words, one idea at a time, end with a question back to them` : "the parent who is teaching: clear, accurate, practical, with one way to explain it to a child"}. Say plainly when scientists don't know or disagree. Keep it under 150 words unless asked for more.
-${u ? `They are studying: ${u.title} (${u.id}). Unit summary: ${u.summary.text}` : ""}${d.dataset.about ? `\nThe card on their screen says: ${d.dataset.about.slice(0, 1500)}` : ""}${pic ? "\nThey sent a photo of finished work. Mark it kindly: say what is right, what to fix, and why." : ""}
+${u ? `They are studying: ${u.title} (${u.id}). Unit summary: ${u.summary.text}` : ""}${d.dataset.where ? `\nThey opened you from ${d.dataset.where} in the app.` : ""}${d.dataset.about ? `\nThe card on their screen says: ${d.dataset.about.slice(0, 1500)}` : ""}${pic ? "\nThey sent a photo of finished work. Mark it kindly: say what is right, what to fix, and why." : ""}
 Conversation so far:\n${FXCHAT.slice(-8)
     .map((m) => (m.r === "me" ? "Them: " : "You: ") + m.t)
     .join("\n")}`;
@@ -329,16 +334,12 @@ function fxFab() {
   b.className = "fxfab";
   b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
   b.setAttribute("aria-label", "Talk to I am, the DeepKids teacher (AI)");
-  b.onclick = () => fxChat("");
+  b.onclick = () => {
+    const at = iamWhere();
+    fxChat(at.about, false, at);
+  };
   document.body.appendChild(b);
-  const sh = document.getElementById("sheet");
-  if (sh && !sh.querySelector(".fxfab")) {
-    const c = b.cloneNode(true);
-    c.id = "";
-    c.onclick = () => fxChat(document.getElementById("sheetBody")?.innerText?.slice(0, 1200) || "");
-    sh.appendChild(c);
-  }
-  iamSpin();
+  iamFollow();
 }
 // AI is on for families with DeepKids Plus (on the website), or when switched on for testing
 const fxAIOn = () => S.aiPlan === "on" || !!window.DK_PLATFORM?.plus?.()?.on;
