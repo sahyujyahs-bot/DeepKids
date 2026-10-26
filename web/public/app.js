@@ -5775,7 +5775,7 @@ function qCard(q, state) {
   window._qmap = window._qmap || {};
   window._qmap[q.id] = q;
   const opts = q.opts
-    ? `<div class="col" style="gap:6px">${q.opts.map((o, i) => `<button class="btn sm ${res == null ? "soft" : i === q.ans ? "green" : i === ch ? "bad" : "line"}" data-act="qans" data-id="${q.id}" data-c="${i}" ${res != null ? "disabled" : ""}>${esc(String(o))}</button>`).join("")}</div>`
+    ? `<div class="col" style="gap:6px">${q.opts.map((o, i) => `<button class="btn sm qopt ${res == null ? "soft" : i === q.ans ? "green" : i === ch ? "bad" : "line"}" data-act="qans" data-id="${q.id}" data-c="${i}" ${res != null ? "disabled" : ""}>${esc(String(o))}</button>`).join("")}</div>`
     : "";
   const open = !q.opts
     ? res == null

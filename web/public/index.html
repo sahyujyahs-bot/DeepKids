@@ -944,6 +944,18 @@ dialog.sheet::backdrop {
   position: relative;
   overflow: hidden;
 }
+/* quiz answers: long answers wrap inside the button, dark text on white so it reads on the coloured card */
+.btn.qopt {
+  height: auto;
+  min-height: 44px;
+  padding: 10px 16px;
+  line-height: 1.3;
+  white-space: normal;
+  text-align: center;
+}
+.btn.qopt.soft {
+  background: #fff !important;
+}
 .qcard .eyebrow {
   color: rgba(255, 255, 255, 0.85);
 }
@@ -5871,9 +5883,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="33c6454a3f3591";window.DK_APPV="33c6454a3f";window.DK_DATAV="3591ffba9f"</script>
-<script src="/config.js?v=33c6454a3f3591"></script>
+<script>window.DK_BUILD="637ba22ea33591";window.DK_APPV="637ba22ea3";window.DK_DATAV="3591ffba9f"</script>
+<script src="/config.js?v=637ba22ea33591"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=33c6454a3f3591"></script>
+<script src="/platform.js?v=637ba22ea33591"></script>
 </body>
 </html>
