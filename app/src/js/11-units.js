@@ -1595,5 +1595,7 @@ function fxPractiseAll() {
       : "";
   return w || d
     ? `<section class="card">${w}${d}<p class="xs muted">The daily plan takes about ${RFS().mins} minutes from this list, most due first.</p></section>`
-    : `<section class="card"><b>Nothing to practise yet</b><p class="sm muted">When your child gets a question wrong anywhere, or finishes a unit or chapter, it comes here to practise and review.</p></section>`;
+    : Object.values(masteryLists()).some((L) => L.length)
+      ? ""
+      : `<section class="card"><b>Nothing to practise yet</b><p class="sm muted">When your child gets a question wrong anywhere, or finishes a unit or chapter, it comes here to practise and review.</p></section>`;
 }

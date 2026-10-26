@@ -90,6 +90,7 @@ const SCREENS = [
           sheet.open,
           sheet.open ? document.getElementById("sheetBody").innerHTML.length : 0,
           d?.open ? d.innerHTML.length : 0,
+          !!document.getElementById("fxChat")?.open,
           tx,
           tab,
           location.href,

@@ -19,6 +19,7 @@ const BOARDS = {
 };
 const STATUS = { none: "Not started", learning: "Learning", completed: "Completed", mastered: "Mastered" };
 const DAYN = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const DAYFULL = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 const DEF_DAYS = {
   math: [1, 2, 3, 4, 5],
   eng: [1, 2, 4, 5],

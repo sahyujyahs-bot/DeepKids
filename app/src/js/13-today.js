@@ -124,6 +124,7 @@ function nowCard(it) {
     plan: [`data-act="quickplan"`, "Open the Planner"],
     exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
     refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
+    finish: [`data-act="tofinish"`, "Open the list"],
     dkt: [`data-act="chapter" data-k="${it.u?.k}"`, "Open the topic"],
   }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"];
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
@@ -194,7 +195,7 @@ const isMissed = (it, date) =>
 function itemDetail(it, date) {
   const isT = date === today;
   if (it.kind === "refresh")
-    return `<p class="sm" style="font-weight:700">${esc(it.rf.title)}</p><p class="xs muted">A 15-minute return to ${esc(it.rf.u.title)}, then 3 quick questions.</p><div class="row"><button class="btn sm" data-act="refresh" data-date="${date}">${icon("play")}Play it</button></div>`;
+    return `<p class="sm" style="font-weight:700">${esc(it.rf.title)}</p><p class="xs muted">About ${it.dur} minutes, going back over ${esc(it.rf.u.title)} with quick questions.</p><div class="row"><button class="btn sm" data-act="refresh" data-date="${date}">${icon("play")}Play it</button></div>`;
   if (it.kind === "plan")
     return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn sm" data-act="quickplan">Open the Planner</button></div>`;
   if (it.kind === "lesson") {

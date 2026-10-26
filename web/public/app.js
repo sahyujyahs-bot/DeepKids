@@ -20,6 +20,7 @@ const BOARDS = {
 };
 const STATUS = { none: "Not started", learning: "Learning", completed: "Completed", mastered: "Mastered" };
 const DAYN = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const DAYFULL = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 const DEF_DAYS = {
   math: [1, 2, 3, 4, 5],
   eng: [1, 2, 4, 5],
@@ -1759,6 +1760,19 @@ function buildDayPlan(date) {
         sub: rf.sub,
         rf,
         done: !!S.tl[date + "|refresh"],
+      });
+    // 45 minutes a day to finish what was started, one thing at a time, until the list is empty
+    const fin = date >= today ? finishList() : [];
+    if (fin.length)
+      items.push({
+        id: "finish",
+        at: place(45),
+        dur: 45,
+        who: "both",
+        kind: "finish",
+        title: "Finish what's started: " + fin[0],
+        sub: fin.length > 1 ? `${fin.length} things started · one at a time` : "One thing left half-done",
+        done: !!S.tl[date + "|finish"],
       });
     const open = [...S.exps.filter((e) => !e.closed && e.start <= date), ...fxOngoing(date)];
     if (open.length)
@@ -5369,7 +5383,12 @@ function wsQuestion(k, id, it, qn) {
         .sort();
     b = `<div class="match"><div class="col" style="gap:6px">${it.pairs.map(([l]) => `<button class="mitem ${vv[l] !== undefined ? "paired" : sel === l ? "sel" : ""}" data-act="mleft" data-k="${k}" data-id="${id}" data-x="${esc(l)}">${esc(l)}${vv[l] !== undefined ? " → " + esc(vv[l]) : ""}</button>`).join("")}</div><div class="col" style="gap:6px">${rights.map((r) => `<button class="mitem ${Object.values(vv).includes(r) ? "paired" : ""}" data-act="mright" data-k="${k}" data-id="${id}" data-x="${esc(r)}">${esc(r)}</button>`).join("")}</div></div>${Object.keys(vv).length === it.pairs.length ? `<div class="row sm"><span>${it.pairs.filter(([l, r]) => vv[l] === r).length} of ${it.pairs.length} match ours.</span><button class="link sm" data-act="mreset" data-k="${k}" data-id="${id}">Try again</button></div>` : `<p class="xs muted">Tap a word on the left, then its match.</p>`}`;
   }
-  return `<div class="wq"><div class="p">${qn}. ${esc(it.p)}</div>${b}</div>`;
+  // once a choice is made, right or wrong, say the answer and why
+  const why =
+    it.t === "mcq" && v !== undefined
+      ? `<p class="sm qwhy"><b>${v === it.a ? "✓ Right." : `Not quite. The answer: ${esc(it.opts[it.a])}.`}</b>${it.why ? ` ${esc(it.why)}` : ""}</p>`
+      : "";
+  return `<div class="wq"><div class="p">${qn}. ${esc(it.p)}</div>${b}${why}</div>`;
 }
 function wsItem(k, id, it, qn) {
   if (it.t !== "forces") {
@@ -5503,14 +5522,14 @@ function qBank(u) {
       out.push({ k: u.k, id, ...o });
     };
   if (P) {
-    (P.check || []).forEach((c) => add({ q: c.q, a: c.a, kind: "open" }));
+    (P.check || []).forEach((c) => add({ q: c.q, a: c.a, why: c.why, kind: "open" }));
     (P.words || []).forEach(([w, m]) => add({ q: `What does “${w}” mean?`, a: m, kind: "open" }));
     (P.worksheets || []).forEach((w) =>
       w.sections.forEach(([, its]) =>
         its.forEach((it) => {
           if (it.t === "mcq" && Array.isArray(it.opts) && Number.isInteger(it.a) && it.opts[it.a] != null)
-            add({ q: it.p, opts: it.opts, ans: it.a, a: String(it.opts[it.a]), kind: "mcq" });
-          else if (it.t === "fill" && it.a?.length) add({ q: it.p, a: it.a.join(" / "), kind: "open" });
+            add({ q: it.p, opts: it.opts, ans: it.a, a: String(it.opts[it.a]), why: it.why, kind: "mcq" });
+          else if (it.t === "fill" && it.a?.length) add({ q: it.p, a: it.a.join(" / "), why: it.why, kind: "open" });
           else if (it.t === "match" && it.pairs?.length)
             it.pairs
               .slice(0, 3)
@@ -5782,7 +5801,7 @@ function qCard(q, state) {
       ? `<details><summary class="sm muted">Show the answer</summary><p class="sm">${esc(q.a)}</p></details><div class="row" style="gap:6px"><button class="btn xs accent" data-act="qans" data-id="${q.id}" data-r="1">Got it</button><button class="btn xs soft" data-act="qans" data-id="${q.id}" data-r="0">Not yet</button></div>`
       : `<p class="sm"><b>Answer:</b> ${esc(q.a)}</p>`
     : "";
-  return `<div class="qcard"><b style="font:600 17px var(--display)">${esc(q.q)}</b>${opts}${open}${res != null ? `<p class="sm"><b>${res ? "✓ Right" : "✗ Not yet"}</b>${q.opts && !res ? ` · Answer: ${esc(q.a)}` : ""}</p>` : ""}</div>`;
+  return `<div class="qcard"><b style="font:600 17px var(--display)">${esc(q.q)}</b>${opts}${open}${res != null ? `<p class="sm qwhy"><b>${res ? "✓ Right." : "✗ Not yet."}</b>${q.opts ? ` The answer: ${esc(q.a)}.` : ""}${q.why ? ` ${esc(q.why)}` : ""}</p>` : ""}</div>`;
 }
 /* Quick quiz: any time, on lessons done */
 function quizPool(s, focus) {
@@ -5828,6 +5847,12 @@ function quizzView() {
        : ""
    }`;
 }
+// a quiz left half-way waits in To finish until it is finished
+function qzKeep() {
+  const R = ui.qrun;
+  if (R && !R.saved && R.i < R.qs.length && R.res.length)
+    S.qzopen = { date: today, run: { ...R, cur: null, end: null } };
+}
 function quizRunView() {
   const R = ui.qrun,
     q = R.qs[R.i],
@@ -5842,6 +5867,7 @@ function quizRunView() {
   if (over) {
     if (!R.saved) {
       R.saved = true;
+      delete S.qzopen;
       const items = R.res.map((x) => ({ k: x.q.k, q: x.q.q, a: x.q.a, r: x.r, c: x.c }));
       S.qzr = [
         ...(S.qzr || []),
@@ -5877,6 +5903,10 @@ function quizPastView() {
 /* lists and refresher settings */
 function rfsetView() {
   document.getElementById("sheetTitle").textContent = "Refresher";
+  return rfsetBody();
+}
+// the three refresher lists, each with its own rhythm and mix, and the daily refresher length
+function rfsetBody() {
   const R = RFS(),
     L = masteryLists(),
     M = lastAnswers(),
@@ -5904,7 +5934,7 @@ function rfsetView() {
       )
       .join("")}</section>`;
   return `<p class="sm muted">Every day, a short refresher from past lessons. Each list has its own rhythm and mix. The shares are relative: 50 and 50 means half and half.</p>
-   <section class="card"><div class="row" style="align-items:center"><span class="sm">Daily refresher</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[10, 15, 20, 30].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div></section>
+   <section class="card"><div class="row" style="align-items:center"><span class="sm">Daily refresher</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[15, 20, 30, 45, 60].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div></section>
    ${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`;
 }
 function quizTranscript() {
@@ -7731,7 +7761,9 @@ function fxPractiseAll() {
       : "";
   return w || d
     ? `<section class="card">${w}${d}<p class="xs muted">The daily plan takes about ${RFS().mins} minutes from this list, most due first.</p></section>`
-    : `<section class="card"><b>Nothing to practise yet</b><p class="sm muted">When your child gets a question wrong anywhere, or finishes a unit or chapter, it comes here to practise and review.</p></section>`;
+    : Object.values(masteryLists()).some((L) => L.length)
+      ? ""
+      : `<section class="card"><b>Nothing to practise yet</b><p class="sm muted">When your child gets a question wrong anywhere, or finishes a unit or chapter, it comes here to practise and review.</p></section>`;
 }
 
 /* Library: topics, syllabus browsing, resources, the home shelf */
@@ -9034,6 +9066,7 @@ function nowCard(it) {
     plan: [`data-act="quickplan"`, "Open the Planner"],
     exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
     refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
+    finish: [`data-act="tofinish"`, "Open the list"],
     dkt: [`data-act="chapter" data-k="${it.u?.k}"`, "Open the topic"],
   }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"];
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
@@ -9104,7 +9137,7 @@ const isMissed = (it, date) =>
 function itemDetail(it, date) {
   const isT = date === today;
   if (it.kind === "refresh")
-    return `<p class="sm" style="font-weight:700">${esc(it.rf.title)}</p><p class="xs muted">A 15-minute return to ${esc(it.rf.u.title)}, then 3 quick questions.</p><div class="row"><button class="btn sm" data-act="refresh" data-date="${date}">${icon("play")}Play it</button></div>`;
+    return `<p class="sm" style="font-weight:700">${esc(it.rf.title)}</p><p class="xs muted">About ${it.dur} minutes, going back over ${esc(it.rf.u.title)} with quick questions.</p><div class="row"><button class="btn sm" data-act="refresh" data-date="${date}">${icon("play")}Play it</button></div>`;
   if (it.kind === "plan")
     return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn sm" data-act="quickplan">Open the Planner</button></div>`;
   if (it.kind === "lesson") {
@@ -9360,8 +9393,28 @@ const DTF = [
   ["brk", "Break between", "sel", [0, 10, 15, 20, 30]],
   ["lunch", "Lunch at", "time"],
   ["lunchMin", "Lunch length", "sel", [20, 30, 45, 60, 90]],
+  ["endAt", "Learning ends by", "time"],
   ["eveAt", "Evening prep", "time"],
 ];
+// does the busiest day fit? subject time, breaks, lunch, warm-up, refresher and finishing, against start to end
+function dayFit() {
+  const d = D(),
+    have = hm(d.endAt) - hm(d.start),
+    worst = [0, 1, 2, 3, 4, 5, 6]
+      .map((w) => {
+        const L = S.subjects.filter((s) => (daysOf(s) || []).includes(w)),
+          lesson = L.reduce((a, s) => a + hpdOf(s) * 60, 0);
+        return { w, n: L.length, need: lesson + L.length * +d.brk + +d.lunchMin + 15 + RFS().mins + 45 };
+      })
+      .sort((a, b) => b.need - a.need)[0];
+  return { have, ...worst };
+}
+const hmTxt = (m) => (m >= 60 ? Math.floor(m / 60) + " h" + (m % 60 ? " " + (m % 60) + " min" : "") : m + " min");
+function dayFitNote() {
+  const f = dayFit();
+  if (!f.n || f.need <= f.have) return "";
+  return `<div class="needai"><span class="lk">⏰</span><div><b>The day is too short for this plan.</b><p class="sm">On ${DAYFULL[f.w]}s, ${f.n} subject${f.n > 1 ? "s" : ""} with breaks, lunch, the warm-up, the refresher and finishing time need about ${hmTxt(f.need)}, but your day runs ${D().start} to ${D().endAt}, which is ${hmTxt(f.have)}. Shorten the time for some subjects, spread them over more days, or end the day later.</p></div></div>`;
+}
 function dayTimesCard() {
   const sc = ui.dts || "all",
     isD = sc.startsWith("d:"),
@@ -9377,7 +9430,7 @@ function dayTimesCard() {
   const n = Object.keys(ov).length;
   return `<section class="sec"><div class="sech"><h3>Day times</h3><span class="xs muted">Your usual day, and changes for some days</span></div>
    <div class="row chips"><button class="chip" aria-pressed="${sc === "all"}" data-act="dts" data-s="all">Usual</button>${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip" aria-pressed="${wd === d}" data-act="dts" data-s="w${d}">${DAYN[d]}${Object.keys((S.dayW || {})[d] || {}).length ? " ✱" : ""}</button>`).join("")}<label class="chip" aria-pressed="${isD}" style="cursor:pointer">📅 ${isD ? esc(fmt(dt)) : "A date"}<input type="date" id="dtDate" value="${dt || today}" style="width:1px;height:1px;opacity:0;position:absolute"></label></div>
-   <div class="card"><p class="xs muted">${sc === "all" ? "Your usual times, every day." : wd != null ? `Every ${["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"][wd]}. Change only what's different; the rest stays as usual.` : `Only on ${esc(fmt(dt))}. This beats the usual and the weekday times.`}</p>
+   <div class="card"><p class="xs muted">${sc === "all" ? "Your usual times, every day." : wd != null ? `Every ${DAYFULL[wd]}. Change only what's different; the rest stays as usual.` : `Only on ${esc(fmt(dt))}. This beats the usual and the weekday times.`}</p>
     <div class="fgrid">${DTF.map(field).join("")}</div>${n ? `<button class="link xs" data-act="dtreset" style="justify-self:start">Back to usual times${wd != null ? " for " + DAYN[wd] : isD ? " for this date" : ""} (${n} changed)</button>` : ""}</div>
    ${
      Object.keys(S.dayOver || {}).filter((d) => d >= today && Object.keys(S.dayOver[d]).length).length
@@ -9876,11 +9929,24 @@ function grouped(list, empty, rowFn) {
     )
     .join("");
 }
+// what is started and not finished, oldest kind first: a quiz left half-way, then parts and worksheets
+function finishList() {
+  return [
+    ...(S.qzopen ? ["the quick quiz"] : []),
+    ...workItems()
+      .filter((x) => x.state === "going")
+      .map((x) => x.title),
+  ];
+}
 function goingView() {
   const L = bySubj([...lessonsGoing(), ...workItems().filter((x) => x.state === "going")]),
     ex = (S.exps || []).filter((e) => !e.closed);
+  const Q = S.qzopen?.run;
   let h =
     `<section class="sec">${subjChips()}</section>` +
+    (Q
+      ? `<section class="sec"><div class="trow"><span class="tic">🎯</span><div style="min-width:0;flex:1"><b>Quick quiz</b><br><span class="xs muted">${Q.res.length} of ${Q.qs.length} answered · started ${fmt(S.qzopen.date)}</span></div><button class="btn sm" data-act="qzresume">Continue</button></div></section>`
+      : "") +
     grouped(
       L,
       "Nothing started yet. When you start a lesson, worksheet, quiz or project, it stays here until it's finished.",
@@ -10526,7 +10592,7 @@ function planPart(k) {
       `<section class="sec">${dumpCard()}</section>` +
       (Q.length ? plPart("asks") : "") +
       (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`) +
-      `<div id="paceSec">${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}${rfCard()}</div>`
+      `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}${rfCard()}</div>`
     );
   }
   if (k === "cal")
@@ -10551,7 +10617,6 @@ function planPart(k) {
 const FIN = {
   going: ["Keep going", "Lessons and parts your child started but hasn't finished."],
   try: ["Still to try", "Parts of finished lessons not started yet, like a project or an experiment."],
-  again: ["Practise again", "Questions your child got wrong, and finished units to review."],
 };
 // Plan: This week, Up next, To finish and Settings
 function viewPlanner() {
@@ -10585,9 +10650,10 @@ function viewPlanner() {
       `<section class="sec"><div class="seg">${Object.entries(FIN)
         .map(([kk, [nm]]) => `<button aria-pressed="${f === kk}" data-act="fin" data-v="${kk}">${nm}</button>`)
         .join("")}</div><p class="xs muted">${FIN[f][1]}</p></section>` +
-      (f === "going" ? planPart("ongoing") : f === "try" ? planPart("pending") : fxPractiseAll())
+      (f === "going" ? planPart("ongoing") : planPart("pending"))
     );
   }
+  if (k === "refresh") return head + fxPractiseAll() + `<section class="sec">${rfsetBody()}</section>`;
   return head + planPart("tell");
 }
 async function runDump() {
@@ -12772,6 +12838,16 @@ function obNext() {
     S.day = { ...(S.day || {}), endAt: end };
     commit();
   }
+  const f = dayFit();
+  if (f.n && f.need > f.have)
+    setTimeout(
+      () =>
+        toast(
+          `⏰ Your plan needs about ${hmTxt(f.need)} on a busy day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Settings.`,
+          8000,
+        ),
+      1200,
+    );
 }
 const FXPQ = {
   math: {
@@ -13818,8 +13894,8 @@ const GUIDE = {
   "week:finish": [
     [
       '[data-act="fin"]',
-      "Three lists",
-      "Keep going: started but not finished. Still to try: parts of finished lessons not started yet. Practise again: questions to go over, so nothing is forgotten.",
+      "Two lists",
+      "Keep going: started but not finished, including a quiz left half-way. Still to try: parts of finished lessons not started yet.",
     ],
   ],
   "week:family": [
@@ -13989,7 +14065,12 @@ const SEGS = {
   week: [
     ["cal", "This week", "What's planned, day by day. Tap a day to see it."],
     ["next", "Up next", "What comes next in each subject. Drag to change the order."],
-    ["finish", "To finish", "What your child started, what is still to try, and what to practise again."],
+    ["finish", "To finish", "What your child started, and what is still to try."],
+    [
+      "refresh",
+      "Refresher",
+      "Topics to go over again, each list on its own rhythm: not grasped yet, grasped, mastered.",
+    ],
     [
       "family",
       "Settings",
@@ -16127,6 +16208,23 @@ function onAct(e) {
       openSheet({ mode: "quizz" });
       break;
     }
+    case "tofinish": {
+      navPush();
+      tab = "week";
+      ui.seg = { ...(ui.seg || {}), week: "finish" };
+      ui.fin = "going";
+      sfx("flip");
+      render();
+      scrollTo(0, 0);
+      break;
+    }
+    case "qzresume": {
+      sfx("flip");
+      ui.qrun = { ...S.qzopen.run, i: S.qzopen.run.res.length, cur: null };
+      ui.qzv = null;
+      openSheet({ mode: "quizz" });
+      break;
+    }
     case "rfset": {
       sfx("flip");
       openSheet({ mode: "rfset" });
@@ -16187,6 +16285,7 @@ function onAct(e) {
           R.cur = { id: q.id, r, c };
           R.res.push({ q, r, c });
         }
+        qzKeep();
       } else {
         const d = ui.sheet?.date || today;
         S.rfa = { ...(S.rfa || {}), [d]: { ...((S.rfa || {})[d] || {}), [q.id]: { r, c } } };
@@ -16200,6 +16299,8 @@ function onAct(e) {
       if (R) {
         R.i++;
         R.cur = null;
+        qzKeep();
+        save();
       }
       sfx("tap");
       renderSheet();

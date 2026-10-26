@@ -42,8 +42,8 @@ const GUIDE = {
   "week:finish": [
     [
       '[data-act="fin"]',
-      "Three lists",
-      "Keep going: started but not finished. Still to try: parts of finished lessons not started yet. Practise again: questions to go over, so nothing is forgotten.",
+      "Two lists",
+      "Keep going: started but not finished, including a quiz left half-way. Still to try: parts of finished lessons not started yet.",
     ],
   ],
   "week:family": [

@@ -1766,6 +1766,23 @@ function onAct(e) {
       openSheet({ mode: "quizz" });
       break;
     }
+    case "tofinish": {
+      navPush();
+      tab = "week";
+      ui.seg = { ...(ui.seg || {}), week: "finish" };
+      ui.fin = "going";
+      sfx("flip");
+      render();
+      scrollTo(0, 0);
+      break;
+    }
+    case "qzresume": {
+      sfx("flip");
+      ui.qrun = { ...S.qzopen.run, i: S.qzopen.run.res.length, cur: null };
+      ui.qzv = null;
+      openSheet({ mode: "quizz" });
+      break;
+    }
     case "rfset": {
       sfx("flip");
       openSheet({ mode: "rfset" });
@@ -1826,6 +1843,7 @@ function onAct(e) {
           R.cur = { id: q.id, r, c };
           R.res.push({ q, r, c });
         }
+        qzKeep();
       } else {
         const d = ui.sheet?.date || today;
         S.rfa = { ...(S.rfa || {}), [d]: { ...((S.rfa || {})[d] || {}), [q.id]: { r, c } } };
@@ -1839,6 +1857,8 @@ function onAct(e) {
       if (R) {
         R.i++;
         R.cur = null;
+        qzKeep();
+        save();
       }
       sfx("tap");
       renderSheet();

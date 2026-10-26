@@ -47,6 +47,32 @@ Every unit cover and story picture is a full scene with a background, and it car
 - **Take the point of view.** Girls and women are often the ones doing the science. People share the scene with other living things as equals, not as the centre that everything serves.
 - **Simple and hand-made.** Few elements, loose brush strokes and imperfect lines; nothing glossy or machine-perfect.
 
+### What makes a picture look made by a machine, and what to do instead
+Write these into every picture brief.
+- **Every element earns its place.** Each thing in the picture either tells the story or quietly carries the idea underneath it. If it does neither, leave it out. Count the things: only as many as the story needs (two children, one lamp, one path; not a planet, a rainbow, a magnet and a tree all at once). Every element belongs to the scene, lit by the same light and sitting in the same space, so the picture looks whole.
+- **One subject, then a quieter world.** The subject is sharp, detailed and strongest in contrast. The background is softer, less detailed and lower in contrast, as if slightly out of focus. Not everything at the same sharpness.
+- **Different things, different textures.** Skin, cloth, fur, bark, water, stone and sky each look like themselves. Never one swirly or sparkly texture painted over everything.
+- **No clichés of machine art:** no glitter or sparkle paths, no stars and swirls filling every gap, no glow on everything, no perfectly symmetric faces, no glossy plastic skin.
+- **Light from one place.** One clear light source, with real shadows falling away from it.
+- **Colour follows the moment.** Morning, noon, dusk and night each have their own colours. Not every picture at night; a set of pictures should vary through the day.
+
+### People
+- Real proportions for their age: a child of 8 is about six heads tall; adults are seven to eight heads tall. Never a huge head on a tiny body.
+- Different faces: different noses, eyebrows, face shapes and skin tones from across India and the world. Not the same cute face copied.
+- Eyes a natural size, not huge; expressions that fit what the person is doing (concentrating, wondering, laughing), not a fixed smile.
+- Hands with the right number of fingers, doing something; feet on the ground.
+- Real clothes with folds and wear, worn the way people wear them.
+
+### Animals
+- Drawn true to the real animal: the right body, legs, eyes and markings for the species (a koel is not a sparrow), unless the story says it is a character.
+- Animal characters keep their animal body and behaviour; only the face is a little more expressive. No human smiles pasted on.
+- Each animal does what it really does in the scene: a bee works a flower, a squirrel buries a seed.
+
+### I am, the teacher
+- Majestic and authoritative, after Lord Narasimha: tall, adult proportions, a long strong lion muzzle, heavy brow, calm steady eyes; never cute or childlike.
+- A teacher, not a god: explaining, listening or showing, not blessing. No sacred thread, no band at the beard tip.
+- Four arms; a lotus drawn like a tattoo over his heart (Lakshmi in the heart); gold jewellery.
+
 ## Inspiration: the founder's SCI cards
 The SCI scientist trading cards show the look to borrow from (ideas only, not the cards themselves):
 - **A frame of hand-drawn doodles:** eyes, spirals, lotuses and moons on a red border, plus symbols from the subject itself (H and He, Ra and Po, E=mc²).

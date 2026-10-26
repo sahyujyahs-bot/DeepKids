@@ -175,6 +175,16 @@ function obNext() {
     S.day = { ...(S.day || {}), endAt: end };
     commit();
   }
+  const f = dayFit();
+  if (f.n && f.need > f.have)
+    setTimeout(
+      () =>
+        toast(
+          `⏰ Your plan needs about ${hmTxt(f.need)} on a busy day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Settings.`,
+          8000,
+        ),
+      1200,
+    );
 }
 const FXPQ = {
   math: {

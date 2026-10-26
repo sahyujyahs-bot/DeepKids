@@ -16,14 +16,14 @@ function qBank(u) {
       out.push({ k: u.k, id, ...o });
     };
   if (P) {
-    (P.check || []).forEach((c) => add({ q: c.q, a: c.a, kind: "open" }));
+    (P.check || []).forEach((c) => add({ q: c.q, a: c.a, why: c.why, kind: "open" }));
     (P.words || []).forEach(([w, m]) => add({ q: `What does “${w}” mean?`, a: m, kind: "open" }));
     (P.worksheets || []).forEach((w) =>
       w.sections.forEach(([, its]) =>
         its.forEach((it) => {
           if (it.t === "mcq" && Array.isArray(it.opts) && Number.isInteger(it.a) && it.opts[it.a] != null)
-            add({ q: it.p, opts: it.opts, ans: it.a, a: String(it.opts[it.a]), kind: "mcq" });
-          else if (it.t === "fill" && it.a?.length) add({ q: it.p, a: it.a.join(" / "), kind: "open" });
+            add({ q: it.p, opts: it.opts, ans: it.a, a: String(it.opts[it.a]), why: it.why, kind: "mcq" });
+          else if (it.t === "fill" && it.a?.length) add({ q: it.p, a: it.a.join(" / "), why: it.why, kind: "open" });
           else if (it.t === "match" && it.pairs?.length)
             it.pairs
               .slice(0, 3)
@@ -295,7 +295,7 @@ function qCard(q, state) {
       ? `<details><summary class="sm muted">Show the answer</summary><p class="sm">${esc(q.a)}</p></details><div class="row" style="gap:6px"><button class="btn xs accent" data-act="qans" data-id="${q.id}" data-r="1">Got it</button><button class="btn xs soft" data-act="qans" data-id="${q.id}" data-r="0">Not yet</button></div>`
       : `<p class="sm"><b>Answer:</b> ${esc(q.a)}</p>`
     : "";
-  return `<div class="qcard"><b style="font:600 17px var(--display)">${esc(q.q)}</b>${opts}${open}${res != null ? `<p class="sm"><b>${res ? "✓ Right" : "✗ Not yet"}</b>${q.opts && !res ? ` · Answer: ${esc(q.a)}` : ""}</p>` : ""}</div>`;
+  return `<div class="qcard"><b style="font:600 17px var(--display)">${esc(q.q)}</b>${opts}${open}${res != null ? `<p class="sm qwhy"><b>${res ? "✓ Right." : "✗ Not yet."}</b>${q.opts ? ` The answer: ${esc(q.a)}.` : ""}${q.why ? ` ${esc(q.why)}` : ""}</p>` : ""}</div>`;
 }
 /* Quick quiz: any time, on lessons done */
 function quizPool(s, focus) {
@@ -341,6 +341,12 @@ function quizzView() {
        : ""
    }`;
 }
+// a quiz left half-way waits in To finish until it is finished
+function qzKeep() {
+  const R = ui.qrun;
+  if (R && !R.saved && R.i < R.qs.length && R.res.length)
+    S.qzopen = { date: today, run: { ...R, cur: null, end: null } };
+}
 function quizRunView() {
   const R = ui.qrun,
     q = R.qs[R.i],
@@ -355,6 +361,7 @@ function quizRunView() {
   if (over) {
     if (!R.saved) {
       R.saved = true;
+      delete S.qzopen;
       const items = R.res.map((x) => ({ k: x.q.k, q: x.q.q, a: x.q.a, r: x.r, c: x.c }));
       S.qzr = [
         ...(S.qzr || []),
@@ -390,6 +397,10 @@ function quizPastView() {
 /* lists and refresher settings */
 function rfsetView() {
   document.getElementById("sheetTitle").textContent = "Refresher";
+  return rfsetBody();
+}
+// the three refresher lists, each with its own rhythm and mix, and the daily refresher length
+function rfsetBody() {
   const R = RFS(),
     L = masteryLists(),
     M = lastAnswers(),
@@ -417,7 +428,7 @@ function rfsetView() {
       )
       .join("")}</section>`;
   return `<p class="sm muted">Every day, a short refresher from past lessons. Each list has its own rhythm and mix. The shares are relative: 50 and 50 means half and half.</p>
-   <section class="card"><div class="row" style="align-items:center"><span class="sm">Daily refresher</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[10, 15, 20, 30].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div></section>
+   <section class="card"><div class="row" style="align-items:center"><span class="sm">Daily refresher</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[15, 20, 30, 45, 60].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div></section>
    ${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`;
 }
 function quizTranscript() {

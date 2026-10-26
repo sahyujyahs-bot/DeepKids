@@ -927,6 +927,9 @@ dialog.sheet::backdrop {
   overflow: hidden;
 }
 /* quiz answers: long answers wrap inside the button, dark text on white so it reads on the coloured card */
+.qwhy {
+  margin-top: 8px;
+}
 .btn.qopt {
   height: auto;
   min-height: 44px;

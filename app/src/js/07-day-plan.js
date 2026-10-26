@@ -366,6 +366,19 @@ function buildDayPlan(date) {
         rf,
         done: !!S.tl[date + "|refresh"],
       });
+    // 45 minutes a day to finish what was started, one thing at a time, until the list is empty
+    const fin = date >= today ? finishList() : [];
+    if (fin.length)
+      items.push({
+        id: "finish",
+        at: place(45),
+        dur: 45,
+        who: "both",
+        kind: "finish",
+        title: "Finish what's started: " + fin[0],
+        sub: fin.length > 1 ? `${fin.length} things started · one at a time` : "One thing left half-done",
+        done: !!S.tl[date + "|finish"],
+      });
     const open = [...S.exps.filter((e) => !e.closed && e.start <= date), ...fxOngoing(date)];
     if (open.length)
       items.push({

@@ -1326,7 +1326,12 @@ function wsQuestion(k, id, it, qn) {
         .sort();
     b = `<div class="match"><div class="col" style="gap:6px">${it.pairs.map(([l]) => `<button class="mitem ${vv[l] !== undefined ? "paired" : sel === l ? "sel" : ""}" data-act="mleft" data-k="${k}" data-id="${id}" data-x="${esc(l)}">${esc(l)}${vv[l] !== undefined ? " → " + esc(vv[l]) : ""}</button>`).join("")}</div><div class="col" style="gap:6px">${rights.map((r) => `<button class="mitem ${Object.values(vv).includes(r) ? "paired" : ""}" data-act="mright" data-k="${k}" data-id="${id}" data-x="${esc(r)}">${esc(r)}</button>`).join("")}</div></div>${Object.keys(vv).length === it.pairs.length ? `<div class="row sm"><span>${it.pairs.filter(([l, r]) => vv[l] === r).length} of ${it.pairs.length} match ours.</span><button class="link sm" data-act="mreset" data-k="${k}" data-id="${id}">Try again</button></div>` : `<p class="xs muted">Tap a word on the left, then its match.</p>`}`;
   }
-  return `<div class="wq"><div class="p">${qn}. ${esc(it.p)}</div>${b}</div>`;
+  // once a choice is made, right or wrong, say the answer and why
+  const why =
+    it.t === "mcq" && v !== undefined
+      ? `<p class="sm qwhy"><b>${v === it.a ? "✓ Right." : `Not quite. The answer: ${esc(it.opts[it.a])}.`}</b>${it.why ? ` ${esc(it.why)}` : ""}</p>`
+      : "";
+  return `<div class="wq"><div class="p">${qn}. ${esc(it.p)}</div>${b}${why}</div>`;
 }
 function wsItem(k, id, it, qn) {
   if (it.t !== "forces") {
