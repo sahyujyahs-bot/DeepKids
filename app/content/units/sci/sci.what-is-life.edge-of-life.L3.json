@@ -2602,7 +2602,7 @@
      "mins": 25,
      "do": "Help your child choose six cases and make a label card for each.",
      "say": "A museum label tells visitors the most important things in a few words. For each case, write the signs it shows, the signs it lacks, and your verdict.",
-     "kid": "Choose six tricky cases. For each one, write: signs it shows, signs it lacks, and your verdict.",
+     "kid": "Choose six tricky cases. Write the signs it shows. Write the signs it lacks. Then give your verdict.",
      "wait": "Finish the labels today. Set up the museum tomorrow.",
      "context": "This is the first day of the Museum of Tricky Cases project. Your child makes a label for each exhibit."
     },
@@ -2805,29 +2805,26 @@
   {
    "title": "What Is Life? Is Death Real?",
    "channel": "Kurzgesagt – In a Nutshell",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "QOCaacO8wus",
    "mins": 9,
    "why": "For the parent and curious older children. A beautifully animated look at why life is hard to define, with viruses and other edge cases.",
-   "check": "Video id not known for sure. Search the channel for this title, check it is the Kurzgesagt video about defining life, and watch it first. Some parts go beyond Class 3."
+   "check": "Found by YouTube search: \"What Is Life? Is Death Real?\" by Kurzgesagt – In a Nutshell. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "A video showing living tardigrades (water bears) under a microscope",
    "channel": "Journey to the Microcosmos, or a similar microscope channel",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "kux1j1ccsgg",
    "mins": 8,
    "why": "So children can see real water bears walking, before or after the water bear hunt.",
-   "check": "Video id not known for sure. Find a video with real microscope footage of living tardigrades. Check it shows real animals, not only animation, and that any claims about surviving heat or space match this unit."
+   "check": "Found by YouTube search: \"Tardigrades: Chubby, Misunderstood, & Not Immortal\" by Journey to the Microcosmos. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "A short children's video on how viruses make copies inside cells",
    "channel": "SciShow Kids, or another trusted science channel for children",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "0sYXv3jWpHg",
    "mins": 5,
    "why": "To show, with animation, what the virus drama game acts out: a virus getting into a cell and the cell making copies.",
-   "check": "Video id not known for sure. Find and watch first. Make sure it says viruses need a living cell to make copies, and does not frighten young children."
+   "check": "Found by YouTube search: \"What's a Virus? Science For Kids\" by National Science Foundation News. Title checked automatically; a parent may still preview it."
   }
  ],
  "quiz": [
@@ -3540,7 +3537,7 @@
    "Jönsson, K. I. and others, Current Biology 2008, tardigrades survive exposure to space in low Earth orbit (FOTON-M3, 2007)",
    "Tsujimoto, M. and others, Cryobiology 2016, recovery and reproduction of an Antarctic tardigrade frozen for more than 30 years",
    "Shen-Miller, J. and others, American Journal of Botany 1995, germination of a sacred lotus seed about 1,300 years old",
-   "La Scola, B. and others, Science 2003, the giant mimivirus; La Scola and others, Nature 2008, the Sputnik virophage",
+   "La Scola, B. and others, Science 2003, the giant mimivirus, and La Scola and others, Nature 2008, the Sputnik virophage",
    "Lederberg, E., Microbial Genetics Bulletin 1951, lysogeny and the lambda virus",
    "Joyce, G. F., foreword to Origins of Life: The Central Concepts, 1994 (the NASA working definition of life)",
    "Schrödinger, E., What Is Life?, Cambridge University Press 1944",

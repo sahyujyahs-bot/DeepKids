@@ -177,7 +177,7 @@
     "In 1921 Alexander Fleming, a Scottish doctor, had a cold. A drop from his runny nose fell on a dish of bacteria, and the bacteria near it dissolved. That is how lysozyme was found."
    ],
    "perspectives": [],
-   "art": "A face with three labels: tears washing the eye, a sticky nose with tiny hairs, and spit in the mouth; an arrow down to a bubbling stomach.",
+   "art": "A face with three labels: tears washing the eye, a sticky nose with tiny hairs, and spit in the mouth, with an arrow down to a bubbling stomach.",
    "context": "This card explains the wet walls at your eyes, nose and mouth, which trap and kill germs."
   },
   {
@@ -1952,7 +1952,7 @@
    },
    "setup": [
     {
-     "art": "Two white cards each with a 3 cm square drawn in pencil; a finger smearing a thin layer of jelly over the square on one card.",
+     "art": "Two white cards each with a 3 cm square drawn in pencil, and a finger smearing a thin layer of jelly over the square on one card.",
      "caption": "1. Draw a square on each card. Smear jelly on one square."
     },
     {
@@ -2845,7 +2845,7 @@
    "creative": [
     "Use a leaf as a cover, like people did long ago. Does it keep out the flour?",
     "Make a cover with a soft middle and a waterproof top.",
-    "Ancient Indian healers in the Sushruta Samhita wrote about cleaning wounds and covering them with clean cloth. Try a design like theirs."
+    "Ancient Indian healers in the Sushruta Samhita wrote about cleaning wounds and binding them with clean cloth bandages. Try a design like theirs."
    ],
    "your_turn": "Now invent your own bandage. Draw it, test it, and say how it is like the skin wall it replaces.",
    "setup": [
@@ -2909,7 +2909,7 @@
    "youtube": "zQGOcOUBi6s",
    "mins": 7,
    "why": "For the parent and older children: a beautiful animation of what happens when bacteria get in through a cut, from skin to white blood cells and inflammation. It goes beyond this unit into antibodies, which come in Class 4 and 5.",
-   "check": "Video id recalled, not opened from here. A parent should check it plays and is the Kurzgesagt immune system video before showing. It uses some battle imagery; fine for most children."
+   "check": "Video id recalled, not opened from here. A parent should check it plays and is the Kurzgesagt immune system video before showing. It uses some battle pictures, which suit most children."
   },
   {
    "title": "Immune System, part 1: Crash Course Anatomy and Physiology #45",
@@ -2922,11 +2922,10 @@
   {
    "title": "A white blood cell chasing a bacterium (David Rogers' film, 1950s)",
    "channel": "search YouTube for 'neutrophil chasing bacteria'",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "I_xh-bkiv_c",
    "mins": 1,
    "why": "A real microscope film from Vanderbilt University. A white blood cell crawls between red blood cells, chases a bacterium and swallows it. Children love it, and it shows exactly what Metchnikoff imagined.",
-   "check": "Id not known. Search YouTube for 'neutrophil chasing bacteria David Rogers' and pick a copy from a university or science channel. The film has no sound."
+   "check": "Found by YouTube search: \"Crawling Neutrophil Chasing a Bacterium\" by Andres Trevino. Title checked automatically; a parent may still preview it."
   }
  ],
  "quiz": [
