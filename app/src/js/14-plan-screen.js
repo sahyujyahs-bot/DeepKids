@@ -455,7 +455,7 @@ function qItems(t, s) {
     const ex = (S.extra || {})[s] || [];
     return plannedUnits(s)
       .filter((u) => rank[coverage(u)] < 2)
-      .filter((u, i) => i < 12 || ex.includes(u.k))
+      .filter((u, i) => ui.qall || i < 12 || ex.includes(u.k))
       .map((u) => ({
         ref: "les:" + u.k,
         u,
@@ -606,8 +606,12 @@ function queuesView() {
   h += L.length
     ? `<div class="qlist" data-ty="${t}" data-s="${s}">${L.map((x, i) => `<div class="qrow2${x.ref === ui.flash ? " flash" : ""}" data-r="${esc(x.ref)}"><span class="dh" aria-hidden="true">⠿</span><span class="qn">${i + 1}</span><button class="plain" ${x.open} style="min-width:0;flex:1;text-align:left"><b>${esc(x.title)}</b>${x.ty && x.ty !== "les" ? " " + stPills(x).replace(/ <span class="pill st-queued"[^]*$/, "") : ""}<br><span class="xs muted">${esc(x.sub)}</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${mv(x, -1, i > 0, "Move up", "▲")}${mv(x, 1, i < L.length - 1, "Move down", "▼")}${x.rm ? `<button class="iconbtn qb" data-act="qx" data-ty="${t}" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>` : ""}</span></div>`).join("")}</div>`
     : `<p class="note">${t === "les" ? "No chapters waiting." : `No ${WT[t][0].toLowerCase()} queued${qfOf() === "all" ? "" : " in " + SUBJ[qfOf()]}. Tap “+ Queue” on one in Pending, in a lesson or in a chapter.`}</p>`;
-  if (t === "les")
+  if (t === "les") {
+    const all = plannedUnits(s).filter((u) => rank[coverage(u)] < 2).length;
+    if (all > 12)
+      h += `<button class="btn soft sm" data-act="qall" style="justify-self:start">${ui.qall ? "Show only the next 12" : `Show the whole year · ${all - L.length} more`}</button>`;
     h += `<button class="link" data-act="lt2" style="justify-self:start">Find more chapters and topics in the Library →</button>`;
+  }
   return h + `</section>`;
 }
 function qzsView() {
@@ -759,7 +763,7 @@ function ideasHtml() {
     .join("");
 }
 function toldView() {
-  document.getElementById("sheetTitle").textContent = "What you've told us";
+  document.getElementById("sheetTitle").textContent = "Your classes, routines and to-dos";
   const E = (S.events || [])
       .slice()
       .sort((a, b) => (a.rep === "weekly" ? 0 : 1) - (b.rep === "weekly" ? 0 : 1) || hm(a.start) - hm(b.start)),
@@ -962,7 +966,7 @@ function plPart(p) {
   if (p === "events") {
     const evs = S.events || [],
       tds = (S.todos || []).filter((x) => !x.done);
-    h += `<section class="sec"><div class="sech"><h3>Classes, outings and to-dos</h3><button class="link" data-act="toplan">+ Add</button></div>${evs.length || tds.length ? `<div class="tt">${evs.map((e) => `<div class="tcard ${e.kind === "outing" ? "r-out" : "r-" + e.who}"><span class="ic">${icon("event")}</span><span class="m"><b>${esc(e.title)}</b><span>${clock(hm(e.start))} · ${e.rep === "weekly" ? "every " + e.days.map((d) => DAYN[d]).join(", ") : fmt(e.date)} · ${ROLE[e.kind === "outing" ? "out" : e.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="delev" data-e="${e.id}" aria-label="Remove ${esc(e.title)}">${icon("close")}</button></div>`).join("")}${tds.map((x) => `<div class="tcard r-${x.who}"><span class="ic">${icon("prep")}</span><span class="m"><b>${esc(x.title)}</b><span>${fmt(x.date)} · any time · ${ROLE[x.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="tododel" data-t="${x.id}" aria-label="Remove ${esc(x.title)}">${icon("close")}</button></div>`).join("")}</div>` : `<p class="note">Nothing yet. Tell DeepKids above, or add by hand.</p>`}</section>`;
+    h += `<section class="sec"><div class="sech"><h3>Classes, outings and to-dos</h3><button class="link" data-act="toplan">+ Add</button></div>${evs.length || tds.length ? `<div class="tt">${evs.map((e) => `<div class="tcard ${e.kind === "outing" ? "r-out" : "r-" + e.who}"><span class="ic">${icon("event")}</span><span class="m"><b>${esc(e.title)}</b><span>${clock(hm(e.start))} · ${e.rep === "weekly" ? "every " + e.days.map((d) => DAYN[d]).join(", ") : fmt(e.date)} · ${ROLE[e.kind === "outing" ? "out" : e.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="delev" data-e="${e.id}" aria-label="Remove ${esc(e.title)}">${icon("close")}</button></div>`).join("")}${tds.map((x) => `<div class="tcard r-${x.who}"><span class="ic">${icon("prep")}</span><span class="m"><b>${esc(x.title)}</b><span>${fmt(x.date)} · any time · ${ROLE[x.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="tododel" data-t="${x.id}" aria-label="Remove ${esc(x.title)}">${icon("close")}</button></div>`).join("")}</div>` : `<p class="note">Nothing yet. Type them in “Plan your days” above, or add them by hand.</p>`}</section>`;
   }
   if (p === "day") {
     const d = D();
@@ -1149,7 +1153,7 @@ function dumpCard() {
   const D_ = ui.dump || {},
     n = (S.events || []).length + (S.todos || []).filter((t) => !t.done).length + (S.notes || []).length,
     empty = !D_.text && !D_.items && !D_.files?.length;
-  return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Tell DeepKids anything</h3><p class="xs muted">Classes, trips, rest times, to-dos, things you own. Type, use your keyboard's mic, or send a photo.</p></div></div>
+  return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Plan your days</h3><p class="xs muted">Tell us your family's week in your own words: classes, outings, trips, rest and meal times, to-dos. We fit lessons around them. Type, use your keyboard's mic, or send a photo.</p></div></div>
    ${D_.chat?.length || D_.items ? `<div class="chat">${D_.text ? `<div class="bub me">${esc(D_.text.split("\n")[0].slice(0, 200))}${D_.text.includes("\n") ? "…" : ""}</div>` : ""}</div>` : ""}
    ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><b style="font:600 16px var(--display)">${esc(it.title)}</b><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
    ${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
@@ -1159,7 +1163,7 @@ function dumpCard() {
    ${D_.busy ? `<p class="xs muted">Reading it and putting it on your plan…</p>` : ""}
    ${empty ? `<div class="dex">${DEX.map(([l, t]) => `<button class="chip" data-act="dex" data-t="${esc(t)}">${esc(l)}</button>`).join("")}</div>` : ""}
    ${SAMPLE ? "" : `<p class="xs muted">Read on this phone: classes, times, days, dates, rest and to-dos. Photos 📷 and longer messages are part of DeepKids Plus.</p>`}
-   <div class="row dfoot"><button class="link sm" data-act="told">What you've told us · ${n}</button><button class="link sm" data-act="dhand" aria-expanded="${!!ui.dhand}">${ui.dhand ? "Hide add by hand" : "Add by hand"}</button></div>
+   <div class="row dfoot"><button class="link sm" data-act="told">Your classes, routines and to-dos · ${n}</button><button class="link sm" data-act="dhand" aria-expanded="${!!ui.dhand}">${ui.dhand ? "Hide add by hand" : "Add by hand"}</button></div>
    ${ui.dhand ? `<div class="handbox">${quickAdd(ui.pday || today)}</div>` : ""}</section>`;
 }
 function parsedLine(it) {
@@ -1211,12 +1215,9 @@ function planPart(k) {
   if (k === "todo") return todoTab();
   if (k === "queue")
     return (
-      combinedNote() +
-      fxCoverageNote() +
-      fxWeekList() +
       queuesView() +
       ((WT[ui.tq] ? ui.tq : "les") === "les"
-        ? `<section class="sec"><button class="link" data-act="pacego" style="justify-self:start">Pace: hours, days and class for each subject → Tell DeepKids</button></section>`
+        ? `<section class="sec"><button class="link" data-act="pacego" style="justify-self:start">Pace: hours, days and class for each subject → Settings</button></section>`
         : "")
     );
   if (k === "pending") return newView();
@@ -1235,16 +1236,13 @@ function viewPlanner() {
       `<details class="sec fxfold"><summary><b>Your to-dos and things to get ready</b></summary>${planPart("todo")}</details>`
     );
   }
+  // Up next: two folded boxes, each shown only when it has something in it, then the order of what comes next
   if (k === "next") {
-    const L = planPart("queue"),
-      i = L.indexOf('<div class="seg qtypes"'),
-      j = L.lastIndexOf("<section", i);
+    const fold = (t, body) =>
+        body ? `<details class="sec fxfold"><summary><b>${t}</b></summary>${body}</details>` : "",
+      track = combinedNote() + fxCoverageNote();
     return (
-      head +
-      (j > 0
-        ? `<details class="sec fxfold"><summary><b>The year at a glance</b> <span class="xs muted">· on track? · this week\'s shopping</span></summary>${L.slice(0, j)}</details>` +
-          L.slice(j)
-        : L)
+      head + fold("Are we on track this year?", track) + fold("This week's shopping", fxWeekList()) + planPart("queue")
     );
   }
   // To finish: one subject filter, then the two lists one after the other
@@ -1413,7 +1411,7 @@ function addParsed() {
   ].slice(-300);
   ui.dump = {};
   sfx("win");
-  toast(`Added ${n} to your plan · see What you've told us`);
+  toast(`Added ${n} to your plan · see Plan → Settings → Your classes, routines and to-dos`);
   commit();
 }
 const clock24 = (m) => String(Math.floor(m / 60) % 24).padStart(2, "0") + ":" + String(m % 60).padStart(2, "0");

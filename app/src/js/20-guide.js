@@ -30,8 +30,8 @@ const GUIDE = {
   "week:next": [
     [
       ".fxfold",
-      "The year at a glance",
-      "Whether you're on track, and this week's shopping for experiments and projects.",
+      "Are we on track?",
+      "Whether this year's topics fit before the year ends, and this week's shopping for experiments and projects.",
     ],
     [
       ".qtypes",
@@ -49,7 +49,7 @@ const GUIDE = {
   "week:family": [
     [
       ".card.dump",
-      "Tell DeepKids anything",
+      "Plan your days",
       "Type classes, trips, holidays or worries in your own words. DeepKids re-plans around them.",
     ],
     [

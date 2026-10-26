@@ -4527,6 +4527,33 @@ input.fxin {
   width: 76px;
   pointer-events: none;
 }
+/* dragged, he lifts and leans the way he is carried, then lands with a squash and a settle */
+.fxfab .iam {
+  transition: transform 0.2s cubic-bezier(0.3, 1.6, 0.5, 1);
+}
+.fxfab.lift {
+  cursor: grabbing;
+}
+.fxfab.lift .iam {
+  transform: translateY(-6px) scale(1.12) rotate(var(--tilt, 0deg));
+}
+.fxfab.land .iam {
+  animation: iamland 0.55s ease-out;
+}
+@keyframes iamland {
+  0% {
+    transform: translateY(-6px) scale(1.12);
+  }
+  35% {
+    transform: scale(1.1, 0.88);
+  }
+  60% {
+    transform: translateY(-3px) scale(0.96, 1.05);
+  }
+  80% {
+    transform: scale(1.02, 0.98);
+  }
+}
 /* not during setup, where he would cover the Continue button */
 body:has(.ob) .fxfab {
   display: none;
@@ -5943,9 +5970,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="1c49bf3b933591";window.DK_APPV="1c49bf3b93";window.DK_DATAV="3591ffba9f"</script>
-<script src="/config.js?v=1c49bf3b933591"></script>
+<script>window.DK_BUILD="082196cb0e3591";window.DK_APPV="082196cb0e";window.DK_DATAV="3591ffba9f"</script>
+<script src="/config.js?v=082196cb0e3591"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=1c49bf3b933591"></script>
+<script src="/platform.js?v=082196cb0e3591"></script>
 </body>
 </html>

@@ -59,7 +59,15 @@ function iamDrag(b) {
   });
   b.addEventListener("pointermove", (e) => {
     if (!st || (!st.moved && Math.hypot(e.clientX - st.x, e.clientY - st.y) < 8)) return;
-    st.moved = true;
+    if (!st.moved) {
+      st.moved = true;
+      b.classList.remove("land");
+      b.classList.add("lift");
+      iamLook();
+    }
+    // he leans the way he is being carried
+    b.style.setProperty("--tilt", Math.max(-14, Math.min(14, (e.clientX - (st.lx ?? e.clientX)) * 1.5)) + "deg");
+    st.lx = e.clientX;
     S.iamAt = { x: (e.clientX - st.dx) / innerWidth, y: (e.clientY - st.dy) / innerHeight };
     iamPlace(b);
   });
@@ -67,6 +75,9 @@ function iamDrag(b) {
     // a drag is not a tap: the click that follows it does not open the chat
     if (st?.moved) {
       b.dataset.dragged = 1;
+      b.classList.remove("lift");
+      b.classList.add("land");
+      setTimeout(() => b.classList.remove("land"), 600);
       save();
     }
     st = null;

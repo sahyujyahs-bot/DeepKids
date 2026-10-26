@@ -1760,6 +1760,12 @@ function onAct(e) {
       openSheet({ mode: "quizz" });
       break;
     }
+    case "qall": {
+      ui.qall = !ui.qall;
+      sfx("tap");
+      render();
+      break;
+    }
     case "tofinish": {
       navPush();
       tab = "week";

@@ -4509,6 +4509,33 @@ input.fxin {
   width: 76px;
   pointer-events: none;
 }
+/* dragged, he lifts and leans the way he is carried, then lands with a squash and a settle */
+.fxfab .iam {
+  transition: transform 0.2s cubic-bezier(0.3, 1.6, 0.5, 1);
+}
+.fxfab.lift {
+  cursor: grabbing;
+}
+.fxfab.lift .iam {
+  transform: translateY(-6px) scale(1.12) rotate(var(--tilt, 0deg));
+}
+.fxfab.land .iam {
+  animation: iamland 0.55s ease-out;
+}
+@keyframes iamland {
+  0% {
+    transform: translateY(-6px) scale(1.12);
+  }
+  35% {
+    transform: scale(1.1, 0.88);
+  }
+  60% {
+    transform: translateY(-3px) scale(0.96, 1.05);
+  }
+  80% {
+    transform: scale(1.02, 0.98);
+  }
+}
 /* not during setup, where he would cover the Continue button */
 body:has(.ob) .fxfab {
   display: none;

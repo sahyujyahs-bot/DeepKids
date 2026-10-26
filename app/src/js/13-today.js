@@ -335,7 +335,7 @@ function quickAdd(date) {
      .join("")}</div>
    ${!todo && r === "pick" ? `<div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button type="button" aria-pressed="${days.includes(d)}" data-act="qday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>` : ""}
    <label class="sm">${!todo && r !== "once" ? "Starting" : "On"} <input class="inp" id="qa-d" type="date" value="${Q.d || date}" style="width:auto"></label>
-   <button class="btn sm" data-act="qaddq" style="justify-self:start">Add</button><p class="xs muted">${todo ? "A to-do shows on that day's list, and all of them are in Plan → This week, under “Your to-dos”." : r === "once" ? "Leave the time empty for a to-do any time that day." : "Repeats every week on those days. Change or remove it any time under “What you've told us”."}</p></div>`;
+   <button class="btn sm" data-act="qaddq" style="justify-self:start">Add</button><p class="xs muted">${todo ? "A to-do shows on that day's list, and all of them are in Plan → This week, under “Your to-dos”." : r === "once" ? "Leave the time empty for a to-do any time that day." : "Repeats every week on those days. Change or remove it any time in Plan → Settings → Your classes, routines and to-dos."}</p></div>`;
 }
 function parentView() {
   const p = S.parent || {},
