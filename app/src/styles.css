@@ -5712,3 +5712,18 @@ body {
 #guide .gbub p {
   margin: 0;
 }
+#guide .gbub {
+  max-height: calc(100vh - 24px);
+  overflow: auto;
+}
+#guide .gbtns {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+#guide .gbtns .row {
+  margin-left: auto;
+  flex-wrap: nowrap;
+}

@@ -115,14 +115,40 @@ function guideShow() {
     document.body.appendChild(box);
   }
   const t = document.querySelector(st[0]);
-  t.scrollIntoView({ block: "center" });
-  const r = t.getBoundingClientRect(),
-    pad = 6,
-    below = r.top + r.height / 2 < innerHeight / 2;
-  box.innerHTML = `<div class="ghole" style="left:${r.left - pad}px;top:${r.top - pad}px;width:${r.width + pad * 2}px;height:${r.height + pad * 2}px"></div>
-    <div class="gbub" role="dialog" aria-label="${esc(st[1])}" style="${below ? `top:${Math.min(r.bottom + 14, innerHeight - 220)}px` : `bottom:${Math.min(innerHeight - r.top + 14, innerHeight - 220)}px`}">
+  box.innerHTML = `<div class="ghole"></div><div class="gbub" role="dialog" aria-label="${esc(st[1])}">
     <span class="eyebrow">${g.i + 1} of ${L.length}</span><b>${esc(st[1])}</b><p>${esc(st[2])}</p>
-    <div class="row"><button class="link sm" data-g="off">Turn off walkthrough</button><span style="flex:1"></span>${g.i ? `<button class="btn soft sm" data-g="back">Back</button>` : ""}<button class="btn sm" data-g="next">${g.i === L.length - 1 ? "Got it" : "Next"}</button></div></div>`;
+    <div class="gbtns"><button class="link sm" data-g="off">Turn off walkthrough</button><span class="row">${g.i ? `<button class="btn soft sm" data-g="back">Back</button>` : ""}<button class="btn sm" data-g="next">${g.i === L.length - 1 ? "Got it" : "Next"}</button></span></div></div>`;
+  guidePlace(t);
+}
+// put the highlight on the part, and the box wherever it fits whole: below the part, above it, or over it
+function guidePlace(t) {
+  const box = document.getElementById("guide"),
+    bub = box?.querySelector(".gbub"),
+    hole = box?.querySelector(".ghole");
+  if (!bub || !t?.isConnected) return;
+  const vh = window.visualViewport?.height || innerHeight,
+    h = bub.offsetHeight,
+    gap = 12,
+    pad = 6;
+  // a part taller than the room left by the box goes to the top of the screen; otherwise it sits in the middle
+  t.scrollIntoView({ block: t.offsetHeight > vh - h - gap * 3 ? "start" : "center" });
+  requestAnimationFrame(() => {
+    const r = t.getBoundingClientRect(),
+      top = Math.max(gap, r.top - pad),
+      bottom = Math.min(vh - gap, r.bottom + pad);
+    Object.assign(hole.style, {
+      left: r.left - pad + "px",
+      top: top + "px",
+      width: r.width + pad * 2 + "px",
+      height: Math.max(0, bottom - top) + "px",
+    });
+    const y = vh - bottom - gap >= h ? bottom + gap : top - gap >= h ? top - gap - h : vh - h - gap;
+    bub.style.top = Math.max(gap, y) + "px";
+  });
+}
+function guideResize() {
+  const st = ui.guide && guideSteps(ui.guide.key)[ui.guide.i];
+  if (st) guidePlace(document.querySelector(st[0]));
 }
 function guideClick(e) {
   const a = e.target.closest("[data-g]")?.dataset.g;
