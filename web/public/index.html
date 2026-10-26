@@ -665,6 +665,8 @@ dialog.sheet .fxfab{bottom:calc(env(safe-area-inset-bottom,0px) + 20px)}
 .fxslide img.fximg{width:100%;max-height:52vh;object-fit:contain;border-radius:12px;background:#fff}
 .fxtruth{border-left:4px solid #B0638C;padding:8px 12px;margin:10px 0;background:rgba(176,99,140,.08);border-radius:8px}
 .fxucard{border:1px solid rgba(0,0,0,.08);border-radius:14px;padding:10px;margin:8px 0;background:#fff}.fxustat{margin:6px 0 8px 18px;padding:0}.fxustat li{margin:2px 0}
+body.ai-locked [data-fx="chat"]::after,body.ai-locked [data-fx="askcard"]::after,body.ai-locked [data-fx="photo"]::after,body.ai-locked [data-act="askq"]::after{content:" 🔒"}
+.fxwt-full{background:var(--leaf,#3F8F5F)!important;color:#fff}.fxwt-half{background:#F3C64B!important}.fxwt-free{opacity:.6}
 
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}</style>
@@ -697,9 +699,9 @@ dialog.sheet .fxfab{bottom:calc(env(safe-area-inset-bottom,0px) + 20px)}
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 
-<script>window.DK_BUILD="6dbbdeda15fc44"</script>
-<script src="/config.js?v=6dbbdeda15fc44"></script>
+<script>window.DK_BUILD="30845b9702fc44"</script>
+<script src="/config.js?v=30845b9702fc44"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=6dbbdeda15fc44"></script>
+<script src="/platform.js?v=30845b9702fc44"></script>
 </body>
 </html>
