@@ -12629,23 +12629,27 @@ const thumbs = (list) =>
   list.length
     ? `<div class="thumbs">${list.map((w) => `<figure><img src="/_blob/${esc(w.id)}" alt="Work from ${esc(w.title || "")}" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'ph',textContent:'Photo'}))"><figcaption class="xs muted">${fmt(w.date)}</figcaption></figure>`).join("")}</div>`
     : "";
-// how far a chapter or unit has got, 0 to 1; a DeepKids-track unit counts every part done, in any order
-function unitFrac(u) {
-  if (rank[coverage(u)] >= 2) return 1;
+// parts done and parts in all, for a chapter or unit; a DeepKids-track unit counts every part done, in any order
+function unitParts(u) {
   if (u.k.startsWith("unit|")) {
     const X = fxStates(u.k.slice(5));
-    return X.length ? X.filter((x) => x === "done").length / X.length : 0;
+    return [X.filter((x) => x === "done").length, X.length];
   }
-  return Math.min(done(u.k), sessionsFor(u)) / Math.max(1, sessionsFor(u));
+  const n = sessionsFor(u);
+  return [rank[coverage(u)] >= 2 ? n : Math.min(done(u.k), n), n];
 }
-const pctTxt = (p) => (p > 0 && p < 0.01 ? "under 1%" : Math.round(p * 100) + "%");
+// the exact share, to one decimal place: 5 of 412 parts is 1.2%
+const pctTxt = (p) => (Math.round(p * 1000) / 10).toString() + "%";
 function subjStats(s) {
   const us = [...collate(s).dk, ...collate(s).board],
-    tot = us.reduce((a, u) => a + sessionsFor(u), 0),
-    dn = us.reduce((a, u) => a + unitFrac(u) * sessionsFor(u), 0);
+    P = us.map(unitParts),
+    tot = P.reduce((a, x) => a + x[1], 0),
+    dn = P.reduce((a, x) => a + x[0], 0);
   return {
     us,
     pct: tot ? dn / tot : 0,
+    parts: dn,
+    allParts: tot,
     sessions: dn,
     total: tot,
     completed: us.filter((u) => rank[coverage(u)] >= 2).length,
@@ -12715,7 +12719,7 @@ function jsubView() {
   const logs = S.log.filter((l) => l.subj === s),
     Qs = quotes((u) => u.subj === s),
     W = workOf().filter((w) => unitBy(w.k)?.subj === s);
-  let h = `<section class="chero ${SC(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.sessions} of ${x.total} lesson days${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
+  let h = `<section class="chero ${SC(s)}" style="min-height:140px"><span class="eyebrow" style="color:#2B2340;opacity:.7">${lvlLabel(S.levels[s])}</span><h1>${pctTxt(x.pct)} of this level</h1><p>${x.completed} chapters done · ${x.learning} in progress · ${x.parts} of ${x.allParts} parts done${logs.length ? ` · last on ${fmt(logs[0].date)}` : ""}</p>${sblob(s, "happy", "mascot sway")}</section>`;
   h += `<section class="card"><h3 style="font-size:19px">How well</h3>${(() => {
     let ans = 0,
       tot = 0,
@@ -12797,7 +12801,7 @@ function viewJourney0() {
   let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${kid}'s journey</h1>${kidBlob("", "happy", 'width="54" height="54"')}</div><div class="stack3">${S.subjects
     .map((s) => {
       const x = subjStats(s);
-      return `<button class="scard ${SC(s)}" data-act="jsub" data-s="${s}"><span class="eyebrow" style="color:#2B2340;opacity:.7">${SUBJ[s]}</span><span class="big num">${pctTxt(x.pct)}</span><span class="xs" style="font-weight:800">${x.completed} of ${x.us.length} chapters finished${x.learning ? ` · ${x.learning} started` : ""}</span>${sblob(s, "happy")}</button>`;
+      return `<button class="scard ${SC(s)}" data-act="jsub" data-s="${s}"><span class="eyebrow" style="color:#2B2340;opacity:.7">${SUBJ[s]}</span><span class="big num">${pctTxt(x.pct)}</span><span class="xs" style="font-weight:800">${x.parts} of ${x.allParts} parts done · ${x.completed} of ${x.us.length} chapters finished${x.learning ? ` · ${x.learning} started` : ""}</span>${sblob(s, "happy")}</button>`;
     })
     .join("")}</div></section>`;
   const rows = [
