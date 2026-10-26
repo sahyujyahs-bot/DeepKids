@@ -107,6 +107,7 @@ function guideShow() {
     st = L[g.i];
   let box = document.getElementById("guide");
   if (!st) return guideEnd();
+  iamLook();
   if (!box) {
     box = document.createElement("div");
     box.id = "guide";

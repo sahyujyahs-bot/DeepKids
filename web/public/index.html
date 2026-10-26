@@ -4552,13 +4552,13 @@ body.ai-locked .fxaskb .iam::after {
   display: inline-block;
   flex: none;
   width: 64px;
-  aspect-ratio: 550 / 673;
+  aspect-ratio: 332 / 404;
 }
 .iamfig {
   position: absolute;
   inset: 0 auto auto 0;
   width: 100%;
-  aspect-ratio: 550 / 673;
+  aspect-ratio: 332 / 404;
   transform-origin: 50% 100%;
   animation: iambreathe 4.5s ease-in-out infinite;
   filter: drop-shadow(0 4px 8px #0003);
@@ -4571,17 +4571,38 @@ body.ai-locked .fxaskb .iam::after {
   inset: 0;
   width: 100%;
 }
+.iamfig .iambody,
+.iamfig .iampose {
+  transition: opacity 0.35s;
+}
+.iamfig .iampose {
+  inset: 0;
+  width: 100%;
+  opacity: 0;
+}
+.iam[data-pose="read"] .iampose[data-p="read"],
+.iam[data-pose="page"] .iampose[data-p="page"],
+.iam[data-pose="shift"] .iampose[data-p="shift"] {
+  opacity: 1;
+}
+.iam[data-pose]:not([data-pose="look"]) .iambody {
+  opacity: 0;
+}
+/* eyelids and mouth belong to the looking face */
+.iam[data-pose]:not([data-pose="look"]) :is(.iamblink, .iammouth) {
+  visibility: hidden;
+}
 .iamfig .iamblink {
-  left: 40.61%;
+  left: 40.82%;
   top: 12.23%;
-  width: 19.39%;
+  width: 19.27%;
   opacity: 0;
   animation: iamblink 6s steps(1) infinite;
 }
 .iamfig .iammouth {
-  left: 43.33%;
+  left: 43.53%;
   top: 21.64%;
-  width: 14.55%;
+  width: 14.45%;
   opacity: 0;
 }
 @keyframes iambreathe {
@@ -5923,9 +5944,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="eec2dc925a3591";window.DK_APPV="eec2dc925a";window.DK_DATAV="3591ffba9f"</script>
-<script src="/config.js?v=eec2dc925a3591"></script>
+<script>window.DK_BUILD="6c0905771d3591";window.DK_APPV="6c0905771d";window.DK_DATAV="3591ffba9f"</script>
+<script src="/config.js?v=6c0905771d3591"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=eec2dc925a3591"></script>
+<script src="/platform.js?v=6c0905771d3591"></script>
 </body>
 </html>

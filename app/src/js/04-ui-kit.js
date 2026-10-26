@@ -96,6 +96,7 @@ function toast(m, ms) {
   // inside the open dialog on top (a sheet, the chat, a unit), or the message would be hidden behind it
   ([...document.querySelectorAll("dialog[open]")].pop() || document.body).appendChild(t);
   setTimeout(() => t.remove(), ms || Math.max(2200, m.length * 60));
+  iamLook();
 }
 const IC = {
   grid: '<rect x="4" y="4" width="7" height="7" rx="2.5"/><rect x="13" y="4" width="7" height="7" rx="2.5"/><rect x="4" y="13" width="7" height="7" rx="2.5"/><circle cx="16.5" cy="16.5" r="3.5"/>',

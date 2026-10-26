@@ -355,6 +355,7 @@ function fxFab() {
   b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
   b.setAttribute("aria-label", "Talk to I am, the DeepKids teacher (AI)");
   b.onclick = () => {
+    iamLook();
     const at = iamWhere();
     fxChat(at.about, false, at);
   };

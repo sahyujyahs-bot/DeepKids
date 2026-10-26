@@ -4540,13 +4540,13 @@ body.ai-locked .fxaskb .iam::after {
   display: inline-block;
   flex: none;
   width: 64px;
-  aspect-ratio: 550 / 673;
+  aspect-ratio: 332 / 404;
 }
 .iamfig {
   position: absolute;
   inset: 0 auto auto 0;
   width: 100%;
-  aspect-ratio: 550 / 673;
+  aspect-ratio: 332 / 404;
   transform-origin: 50% 100%;
   animation: iambreathe 4.5s ease-in-out infinite;
   filter: drop-shadow(0 4px 8px #0003);
@@ -4559,17 +4559,38 @@ body.ai-locked .fxaskb .iam::after {
   inset: 0;
   width: 100%;
 }
+.iamfig .iambody,
+.iamfig .iampose {
+  transition: opacity 0.35s;
+}
+.iamfig .iampose {
+  inset: 0;
+  width: 100%;
+  opacity: 0;
+}
+.iam[data-pose="read"] .iampose[data-p="read"],
+.iam[data-pose="page"] .iampose[data-p="page"],
+.iam[data-pose="shift"] .iampose[data-p="shift"] {
+  opacity: 1;
+}
+.iam[data-pose]:not([data-pose="look"]) .iambody {
+  opacity: 0;
+}
+/* eyelids and mouth belong to the looking face */
+.iam[data-pose]:not([data-pose="look"]) :is(.iamblink, .iammouth) {
+  visibility: hidden;
+}
 .iamfig .iamblink {
-  left: 40.61%;
+  left: 40.82%;
   top: 12.23%;
-  width: 19.39%;
+  width: 19.27%;
   opacity: 0;
   animation: iamblink 6s steps(1) infinite;
 }
 .iamfig .iammouth {
-  left: 43.33%;
+  left: 43.53%;
   top: 21.64%;
-  width: 14.55%;
+  width: 14.45%;
   opacity: 0;
 }
 @keyframes iambreathe {
@@ -6184,6 +6205,7 @@ function toast(m, ms) {
   // inside the open dialog on top (a sheet, the chat, a unit), or the message would be hidden behind it
   ([...document.querySelectorAll("dialog[open]")].pop() || document.body).appendChild(t);
   setTimeout(() => t.remove(), ms || Math.max(2200, m.length * 60));
+  iamLook();
 }
 const IC = {
   grid: '<rect x="4" y="4" width="7" height="7" rx="2.5"/><rect x="13" y="4" width="7" height="7" rx="2.5"/><rect x="4" y="13" width="7" height="7" rx="2.5"/><circle cx="16.5" cy="16.5" r="3.5"/>',
@@ -19217,6 +19239,7 @@ function fxFab() {
   b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
   b.setAttribute("aria-label", "Talk to I am, the DeepKids teacher (AI)");
   b.onclick = () => {
+    iamLook();
     const at = iamWhere();
     fxChat(at.about, false, at);
   };
@@ -19228,9 +19251,40 @@ const fxAIOn = () => S.aiPlan === "on" || !!window.DK_PLATFORM?.plus?.()?.on;
 
 /* I am, the DeepKids teacher: a lion-man with four arms, sitting on a stone step with a book. Tap him to talk (fxChat).
    States are classes on any parent: .iamthink (waiting for an answer: his eyes close), .iamtalk (answering: he speaks).
-   The small sizes (big, mini) show his face in a round frame. */
+   The small sizes (big, mini) show his face in a round frame. The one on screen (no size) also has poses, data-pose:
+   he reads, turns a page and shifts on his own (iamIdle), and looks up at the family (iamLook). */
+const IAM_POSES = ["read", "page", "shift"];
 function iamFace(cls = "") {
-  return `<span class="iam ${cls}" aria-hidden="true"><span class="iamframe"><span class="iamfig"><img class="iambody" src="media/ui/iam.webp" alt=""><img class="iamblink" src="media/ui/iam-blink.webp" alt=""><img class="iammouth" src="media/ui/iam-talk.webp" alt=""></span></span></span>`;
+  const poses = cls
+    ? ""
+    : IAM_POSES.map((p) => `<img class="iampose" data-p="${p}" src="media/ui/iam-${p}.webp" alt="">`).join("");
+  return `<span class="iam ${cls}"${cls ? "" : ' data-pose="read"'} aria-hidden="true"><span class="iamframe"><span class="iamfig"><img class="iambody" src="media/ui/iam.webp" alt="">${poses}<img class="iamblink" src="media/ui/iam-blink.webp" alt=""><img class="iammouth" src="media/ui/iam-talk.webp" alt=""></span></span></span>`;
+}
+// what he does on his own, and for how long (ms)
+const IAM_IDLE = [
+  ["read", 6000],
+  ["page", 900],
+  ["read", 7000],
+  ["shift", 8000],
+  ["read", 5000],
+  ["page", 900],
+];
+let iamStep = 0,
+  iamTimer = 0;
+function iamPose(p) {
+  const f = document.querySelector("#fxFab .iam");
+  if (f) f.dataset.pose = p;
+}
+function iamIdle() {
+  const [p, ms] = IAM_IDLE[iamStep++ % IAM_IDLE.length];
+  iamPose(p);
+  iamTimer = setTimeout(iamIdle, ms);
+}
+// when he is tapped, or the app tells the family something, he looks up for a while, then goes back to his book
+function iamLook(ms = 6000) {
+  iamPose("look");
+  clearTimeout(iamTimer);
+  iamTimer = setTimeout(iamIdle, ms);
 }
 // after an answer arrives, he speaks for about as long as it would take to say it
 function iamSay(el, text) {
@@ -19803,6 +19857,7 @@ function guideShow() {
     st = L[g.i];
   let box = document.getElementById("guide");
   if (!st) return guideEnd();
+  iamLook();
   if (!box) {
     box = document.createElement("div");
     box.id = "guide";
@@ -23561,6 +23616,8 @@ new MutationObserver(() => document.body.classList.toggle("ai-locked", !fxAIOn()
 document.body.classList.toggle("ai-locked", !fxAIOn());
 // I am follows into whichever panel opens or closes
 new MutationObserver(iamFollow).observe(document.body, { subtree: true, attributes: true, attributeFilter: ["open"] });
+// I am reads on his own until something needs the family
+iamIdle();
 document.addEventListener(
   "click",
   (e) => {
