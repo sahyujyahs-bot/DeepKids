@@ -53,9 +53,9 @@ const PLUSR = {
   test: "Entrance test papers",
   topic: "Exploring new topics",
 };
-// everything DeepKids Plus switches on, said once for the Plus page and for I am
+// everything DeepKids Plus switches on, said once for the Plus page and for IAm
 const PLUS_FEATS = [
-  "🦁 Talk with I am, the DeepKids teacher, about any page, card or question",
+  "🦁 Talk with IAm, the DeepKids teacher, about any page, card or question",
   "📷 Photos of finished work checked kindly, with what to fix and why",
   "📷 Send photos and screenshots of timetables, WhatsApp messages, notes and receipts; they go straight into your plan",
   "💬 Write the way you talk: long or mixed-up messages are understood",
@@ -276,8 +276,8 @@ function fxChat(about, photo, at = null) {
     });
   }
   if (!fxAIOn()) {
-    d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>I am</b><span class="fxsm">Part of DeepKids Plus</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
-      <div class="fxmsgs">${iamFace("hero")}<p class="fxm ai">I am I am. I can talk with you about any page, card or question once DeepKids Plus is on. Here is everything it opens up:</p>${plusList()}
+    d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>IAm</b><span class="fxsm">Part of DeepKids Plus</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
+      <div class="fxmsgs">${iamFace("hero")}<p class="fxm ai">I am IAm. I can talk with you about any page, card or question once DeepKids Plus is on. Here is everything it opens up:</p>${plusList()}
       <button class="btn accent" data-cx="plus">Get DeepKids Plus</button><button class="btn line sm" data-cx="x">Not now</button></div></div>`;
     if (!d.open) d.showModal();
     return;
@@ -285,8 +285,8 @@ function fxChat(about, photo, at = null) {
   d.dataset.about = about || "";
   d.dataset.where = at?.where || "";
   const u = FXU && document.getElementById("fxDlg")?.open ? FXU : null;
-  d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>I am</b><span class="fxsm">${u ? "About: " + esc(u.title) : at ? "On " + esc(at.where) : "Any question, any subject"}</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
-    <div class="fxmsgs">${FXCHAT.length ? FXCHAT.map((m) => `<p class="fxm ${m.r}">${esc(m.t)}</p>`).join("") : `${iamFace("hero")}<p class="fxm ai">I am I am. ${at ? `I can see you're on ${esc(at.where)}. Ask me about it, or anything at all.` : `Ask me anything: why the sky is blue, what a word means, how to explain this card to your child. ${about ? "I can see the card you're on." : ""}`}</p>${at ? `<div class="iamasks">${IAM_ASKS[at.kind].map((q) => `<button class="chip" data-cx="q" data-q="${esc(q)}">${esc(q)}</button>`).join("")}</div>` : ""}`}</div>
+  d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>IAm</b><span class="fxsm">${u ? "About: " + esc(u.title) : at ? "On " + esc(at.where) : "Any question, any subject"}</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
+    <div class="fxmsgs">${FXCHAT.length ? FXCHAT.map((m) => `<p class="fxm ${m.r}">${esc(m.t)}</p>`).join("") : `${iamFace("hero")}<p class="fxm ai">I am IAm. ${at ? `I can see you're on ${esc(at.where)}. Ask me about it, or anything at all.` : `Ask me anything: why the sky is blue, what a word means, how to explain this card to your child. ${about ? "I can see the card you're on." : ""}`}</p>${at ? `<div class="iamasks">${IAM_ASKS[at.kind].map((q) => `<button class="chip" data-cx="q" data-q="${esc(q)}">${esc(q)}</button>`).join("")}</div>` : ""}`}</div>
     ${about ? `<p class="fxctx">On this card: “${esc(about.slice(0, 140))}${about.length > 140 ? "…" : ""}”</p>` : ""}
     <div class="fxcin"><button class="fxb" data-cx="pic" aria-label="Add a photo">📷</button><textarea rows="2" placeholder="${photo ? "Add a photo of the finished worksheet, then tap Send" : "Type a question…"}"></textarea><button class="fxb" data-cx="send">Send</button><input type="file" accept="image/*" capture="environment" hidden></div></div>`;
   d.querySelector("input[type=file]").onchange = (e) => {
@@ -316,7 +316,7 @@ async function fxSend() {
   const u = FXU && document.getElementById("fxDlg")?.open ? FXU : null,
     F = fxSt(),
     age = S.age || 7;
-  const input = `You are I am, the teacher in DeepKids, a homeschool app for an Indian family. I am is a calm, kind lion-man from a world beyond ours where everyone is called I am; he asks as much as he tells, and never pretends: if asked, say you are an AI speaking as I am. Be a warm, honest science and learning guide. Reply to ${F.mode === "child" ? `a child aged about ${age}: short sentences, simple words, one idea at a time, end with a question back to them` : "the parent who is teaching: clear, accurate, practical, with one way to explain it to a child"}. Say plainly when scientists don't know or disagree. Keep it under 150 words unless asked for more.
+  const input = `You are IAm, the teacher in DeepKids, a homeschool app for an Indian family. IAm is a calm, kind lion-man from a world beyond ours where everyone is called IAm; he asks as much as he tells, and never pretends: if asked, say you are an AI speaking as IAm. Be a warm, honest science and learning guide. Reply to ${F.mode === "child" ? `a child aged about ${age}: short sentences, simple words, one idea at a time, end with a question back to them` : "the parent who is teaching: clear, accurate, practical, with one way to explain it to a child"}. Say plainly when scientists don't know or disagree. Keep it under 150 words unless asked for more.
 ${u ? `They are studying: ${u.title} (${u.id}). Unit summary: ${u.summary.text}` : ""}${d.dataset.where ? `\nThey opened you from ${d.dataset.where} in the app.` : ""}${d.dataset.about ? `\nThe card on their screen says: ${d.dataset.about.slice(0, 1500)}` : ""}${pic ? "\nThey sent a photo of finished work. Mark it kindly: say what is right, what to fix, and why." : ""}
 Conversation so far:\n${FXCHAT.slice(-8)
     .map((m) => (m.r === "me" ? "Them: " : "You: ") + m.t)
@@ -353,7 +353,7 @@ function fxFab() {
   b.id = "fxFab";
   b.className = "fxfab";
   b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
-  b.setAttribute("aria-label", "Talk to I am, the DeepKids teacher (AI)");
+  b.setAttribute("aria-label", "Talk to IAm, the DeepKids teacher (AI)");
   b.onclick = () => {
     iamLook();
     const at = iamWhere();

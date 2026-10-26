@@ -1,4 +1,4 @@
-// I am over a sheet: with AI locked, tapping him opens his Plus page (no AI); with AI on, the chat opens and ✕ closes it.
+// IAm over a sheet: with AI locked, tapping him opens his Plus page (no AI); with AI on, the chat opens and ✕ closes it.
 //   node app/tests/chat.js http://127.0.0.1:8765/app.html
 const { chromium } = require("playwright");
 const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";

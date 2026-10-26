@@ -68,10 +68,10 @@ Write these into every picture brief.
 - Animal characters keep their animal body and behaviour; only the face is a little more expressive. No human smiles pasted on.
 - Each animal does what it really does in the scene: a bee works a flower, a squirrel buries a seed.
 
-### I am, the teacher
+### IAm, the teacher
 - A lion-man, as old as the oldest lion-man carving (about 40,000 years): he belongs to everyone, not to one religion.
 - Majestic and authoritative: tall, adult proportions, a long strong lion muzzle, heavy brow, calm steady eyes; never cute or childlike.
-- A teacher, not a god: he sits normally on a stone step, hands relaxed, holding only a book. No idol signs: no lotus throne, lamp, temple gold, hair knot, sacred thread or blessing pose.
+- A teacher, not a god: he sits normally on a stone step, reading a book held in a front hand on his lap, the other hands relaxed and clearly apart. When the family needs him he looks up from his book. No idol signs: no lotus throne, lamp, temple gold, hair knot, sacred thread or blessing pose.
 - Four arms; a third eye; a bold black-ink lotus tattoo over his heart (Lakshmi in the heart).
 - Cool, earthy colours: a tawny mane with dark tips, deep indigo trousers, a sage green sash. No red-gold glow.
 

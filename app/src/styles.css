@@ -4534,13 +4534,13 @@ body.ai-locked .fxaskb .iam::after {
   display: inline-block;
   flex: none;
   width: 64px;
-  aspect-ratio: 332 / 404;
+  aspect-ratio: 342 / 404;
 }
 .iamfig {
   position: absolute;
   inset: 0 auto auto 0;
   width: 100%;
-  aspect-ratio: 332 / 404;
+  aspect-ratio: 342 / 404;
   transform-origin: 50% 100%;
   animation: iambreathe 4.5s ease-in-out infinite;
   filter: drop-shadow(0 4px 8px #0003);
@@ -4575,16 +4575,16 @@ body.ai-locked .fxaskb .iam::after {
   visibility: hidden;
 }
 .iamfig .iamblink {
-  left: 40.82%;
-  top: 12.23%;
-  width: 19.27%;
+  left: 40.32%;
+  top: 12.24%;
+  width: 18.72%;
   opacity: 0;
   animation: iamblink 6s steps(1) infinite;
 }
 .iamfig .iammouth {
-  left: 43.53%;
-  top: 21.64%;
-  width: 14.45%;
+  left: 42.95%;
+  top: 21.66%;
+  width: 14.04%;
   opacity: 0;
 }
 @keyframes iambreathe {
@@ -4635,7 +4635,7 @@ body.ai-locked .fxaskb .iam::after {
 .iam.big .iamfig,
 .iam.mini .iamfig {
   width: 230%;
-  left: -66%;
+  left: -64%;
   top: -5%;
   animation: none;
   filter: none;

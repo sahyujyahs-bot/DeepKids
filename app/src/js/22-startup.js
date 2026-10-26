@@ -868,7 +868,7 @@ document.addEventListener(
   "click",
   (e) => {
     if (fxAIOn()) return;
-    // the buttons that open an AI feature open I am's Plus page instead; the chat's own buttons are never blocked
+    // the buttons that open an AI feature open IAm's Plus page instead; the chat's own buttons are never blocked
     const b = e.target.closest('[data-fx="chat"],[data-fx="askcard"],[data-fx="photo"],.fxfab');
     if (!b) return;
     e.preventDefault();
@@ -881,9 +881,9 @@ new MutationObserver(() => document.body.classList.toggle("ai-locked", !fxAIOn()
   childList: true,
 });
 document.body.classList.toggle("ai-locked", !fxAIOn());
-// I am follows into whichever panel opens or closes
+// IAm follows into whichever panel opens or closes
 new MutationObserver(iamFollow).observe(document.body, { subtree: true, attributes: true, attributeFilter: ["open"] });
-// I am reads on his own until something needs the family
+// IAm reads on his own until something needs the family
 iamIdle();
 document.addEventListener(
   "click",

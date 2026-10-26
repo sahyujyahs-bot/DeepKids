@@ -1,4 +1,4 @@
-/* I am, the DeepKids teacher: a lion-man with four arms, sitting on a stone step with a book. Tap him to talk (fxChat).
+/* IAm, the DeepKids teacher: a lion-man with four arms, sitting on a stone step with a book. Tap him to talk (fxChat).
    States are classes on any parent: .iamthink (waiting for an answer: his eyes close), .iamtalk (answering: he speaks).
    The small sizes (big, mini) show his face in a round frame. The one on screen (no size) also has poses, data-pose:
    he reads, turns a page and shifts on his own (iamIdle), and looks up at the family (iamLook). */
@@ -42,7 +42,7 @@ function iamSay(el, text) {
   clearTimeout(el._iamT);
   el._iamT = setTimeout(() => el.classList.remove("iamtalk"), Math.min(7000, 1200 + text.length * 25));
 }
-// where the family is when they tap I am: the screen or open panel, the words in the middle of the screen,
+// where the family is when they tap IAm: the screen or open panel, the words in the middle of the screen,
 // and a few questions that suit that place
 const IAM_ASKS = {
   unit: ["Explain this simply", "Give me a real-life example", "Ask me a question about it"],
@@ -66,7 +66,7 @@ function iamWhere() {
   const name = NAV.find(([k]) => k === tab)?.[1] || "the app";
   return { kind: IAM_ASKS[tab] ? tab : "today", where: `the ${name} screen`, about };
 }
-// one I am on screen: he moves into whichever panel is open on top, so he is always there to tap
+// one IAm on screen: he moves into whichever panel is open on top, so he is always there to tap
 function iamFollow() {
   const b = document.getElementById("fxFab");
   if (!b) return;
