@@ -41,6 +41,12 @@ Subjects: Maths peacock, English #5B4BB7, Hindi margin red, Science #3C8A3F, Dee
 4. **Left aligned, generous line height**, lines under 70 characters.
 5. **Colour means something:** red is "do this now", turmeric is "today", peacock is "done and growing".
 
+## Pictures tell the idea
+Every unit cover and story picture is a full scene with a background, and it carries the unit's main idea from our point of view (`PHILOSOPHY.md`, "Our point of view"):
+- **Tell the story.** Someone looking at the cover alone should guess the idea: for food, that a meal is made of sunlight, soil, rain, bees and people's work, not just "a plate of food".
+- **Take the point of view.** Girls and women are often the ones doing the science. People share the scene with other living things as equals, not as the centre that everything serves.
+- **Simple and hand-made.** Few elements, loose brush strokes and imperfect lines; nothing glossy or machine-perfect.
+
 ## Founder notes
 - Don't make it all too Indian. Universal and vibrant first; Indian touches only where they come naturally (names, foods, places in content).
 - Stunning, vibrant illustrations and a few well-placed animations make the biggest difference.

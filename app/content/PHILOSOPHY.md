@@ -16,6 +16,16 @@ DeepKids is rooted in **oneness and consciousness**. The founder's picture:
 
 So every lesson, whether it is about friction, a seed or a fraction, is also a lesson about the One showing up as the many. The child is not looking at the world from outside it. The child *is* the world, looking at itself.
 
+## Our point of view
+
+Every lesson, story and picture takes a point of view. Ours:
+
+- **Feminist.** Women and girls do the science, lead, discover and are credited by name. When credit was taken from someone, we say so plainly.
+- **Not human-centred.** People are one kind of life among many, not the owners or the purpose of the rest. A forest, a bee or a microbe matters for itself, not only for what it gives us.
+- **Grounded in oneness.** Show the connections: the food on a plate was sunlight, soil, rain, bees and someone's work.
+- **First principles.** Ask what is really going on underneath, and question the usual ideas, labels and biases, including our own.
+- **Neither conformist nor contrarian.** We don't agree because most people do, and we don't disagree to be different. We follow the evidence. Often it happens to take us away from what most people assume.
+
 ## Deep truths: what the science whispers
 
 The heart of Roots is not a scripture. It is the **deep truth the science itself points to**, the way each founder SCI Card has a discovery line and, under it, a line on what the discovery "whispers" (`ideas/scientists.json`, field `fundamental_truth_what_it_whispers`). Examples from the cards:
