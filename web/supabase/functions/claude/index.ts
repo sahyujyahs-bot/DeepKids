@@ -101,15 +101,16 @@ Deno.serve(async (req) => {
       ],
     };
   });
-  const tier = body.tier ?? "default";
+  const tier = body.tier ?? "default",
+    model = MODELS[tier] ?? MODELS.default;
 
   try {
     const stream = anthropic.beta.messages.stream({
-      model: MODELS[tier] ?? MODELS.default,
+      model,
       max_tokens: tier === "complex" ? 32000 : 16000,
       output_config: { effort: EFFORT[tier] ?? "medium" },
-      betas: ["server-side-fallback-2026-07-01"],
-      fallbacks: "default",
+      // Sonnet and Opus can hand a refused or overloaded request to a fallback model; Haiku has no fallback
+      ...(model.includes("haiku") ? {} : { betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" }),
       messages,
     });
     const msg = await stream.finalMessage();
