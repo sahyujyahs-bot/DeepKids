@@ -19,7 +19,7 @@ Fredoka and Nunito (the default rounded "kids app" pair), a cream background, a 
 | Margin red | #D7372B | primary actions, the margin line, "now" |
 | Turmeric | #E8A317 | highlights and today |
 | Peacock | #0F6E6B | links, progress, science of growing things |
-| Night | #222D66 | the one dark band: the Today header |
+| Night | #1E1436 | the one dark band: the Today header (the violet night of www.deepkids.in) |
 | Muted | #646985 | secondary text |
 
 Subjects: Maths peacock, English #5B4BB7, Hindi margin red, Science #3C8A3F, DeepKids turmeric.

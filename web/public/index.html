@@ -729,6 +729,22 @@ header.top .hello b,header.top .greet{font-family:var(--poster)!important;font-w
 .choice[aria-pressed="true"]{border-color:var(--ink)!important;box-shadow:4px 4px 0 var(--ink)!important;background:#fff!important}
 .choice b{font:700 18px var(--body)!important;color:var(--ink)!important}
 .obbar i.on{background:var(--margin)!important}
+:root{--night:#1E1436}
+.fxtoday{gap:14px}
+.fxweek{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;padding:10px;border:1.5px solid var(--rule);border-radius:var(--r-lg);background:#fff}
+.fxday{display:grid;justify-items:center;gap:2px;font-size:12px;color:var(--muted)}
+.fxday b{display:grid;place-items:center;width:32px;height:32px;border-radius:50%;font:700 15px var(--body);color:var(--ink);border:1.5px solid transparent}
+.fxday.done b{background:var(--aqua);color:#fff}.fxday.today b{border-color:var(--margin);border-width:2.5px}.fxday.free{opacity:.45}
+.fxgoals{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.fxgoal{border:1.5px solid var(--rule);border-radius:var(--r-lg);padding:10px 12px;display:grid;background:#fff}
+.fxgoal b{font:400 30px/1 var(--poster);color:var(--ink)}.fxgoal small{font:500 13px var(--body);color:var(--muted)}.fxgoal span{font:400 15px var(--hand);color:var(--muted)}
+.fxcont{display:grid;grid-template-columns:72px 1fr;gap:12px;align-items:center;text-align:left;padding:10px;border:1.5px solid var(--ink);border-radius:var(--r-lg);background:#fff;box-shadow:4px 4px 0 var(--ink);color:var(--ink)}
+.fxcont img{width:72px;height:72px;object-fit:cover;border-radius:8px}.fxcont>span{display:grid;gap:3px}.fxcont b{font:700 17px/1.2 var(--body)}
+.fxbar{display:block;height:8px;border-radius:4px;background:var(--sunk);overflow:hidden}.fxbar i{display:block;height:100%;background:var(--aqua)}
+.fxsubjs{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.fxsubj{display:grid;gap:4px;align-content:start;text-align:left;min-height:96px;padding:12px;border:0;border-radius:var(--r-lg);background:var(--c);color:#fff}
+.fxsubj b{font:400 22px/1 var(--poster)}.fxsubj span{font:500 14px/1.25 var(--body);opacity:.92;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.s-math{--c:#0F6E6B}.s-eng{--c:#5B4BB7}.s-hin{--c:#C2372B}.s-sci{--c:#3C8A3F}.s-dks{--c:#B07A0E}.s-wml{--c:#8E4A12}.s-wart{--c:#B23A78}
 
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}</style>
@@ -761,9 +777,9 @@ header.top .hello b,header.top .greet{font-family:var(--poster)!important;font-w
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
 
-<script>window.DK_BUILD="f21d906c04fc44"</script>
-<script src="/config.js?v=f21d906c04fc44"></script>
+<script>window.DK_BUILD="893eadbe7cfc44"</script>
+<script src="/config.js?v=893eadbe7cfc44"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=f21d906c04fc44"></script>
+<script src="/platform.js?v=893eadbe7cfc44"></script>
 </body>
 </html>
