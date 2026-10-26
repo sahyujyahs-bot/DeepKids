@@ -861,7 +861,6 @@ const CHC = {
   eng: "#C24F8A",
   hin: "#D98A2B",
   sci: "#3F8A4F",
-  dks: "#6E6CC9",
   wml: "#C9A227",
   wart: "#C24F8A",
 };

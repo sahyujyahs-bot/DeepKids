@@ -2,7 +2,6 @@
 const HINT = {
   wml: "Tell, don't read. Move it first, then draw it, then write it.",
   wart: "Process before product: enjoy the colours and the making.",
-  dks: "Start from your child's own questions. There are no wrong answers here: ask “how do we know?” and try it out at home.",
   math: "Use real things for every problem (coins, beans, rotis, a ruler) before writing anything down.",
   eng: "Read aloud together, collect new words in a notebook, and ask your child to retell it in their own words.",
   hin: "Read aloud in Hindi, collect new words with meanings, and ask your child to retell it in Hindi.",

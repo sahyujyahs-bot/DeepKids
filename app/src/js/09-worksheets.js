@@ -424,7 +424,7 @@ function topicsOf(u) {
   return T;
 }
 function wsRank(u) {
-  const p = profOf(u.subj === "dk" ? "dks" : u.subj),
+  const p = profOf(u.subj),
     L = wsOf(u),
     di = PLV.indexOf(p.lvl),
     pref = {
@@ -1067,7 +1067,7 @@ function wsSinglePage(ws, u) {
         p.k ? `<div class="wk"><b>${i + 1}. ${esc(ws.blocks[i].title || "")}</b><div>${p.k}</div></div>` : "",
       )
       .join("");
-  const tag = `${BNAME[u.board] === "DeepKids Plus" ? "DeepKids" : BOARDN[u.board] || BNAME[u.board] || "DeepKids"} · Class ${u.board === "dk" ? S.levels?.dks || 1 : u.level} · ${esc(SUBJ[u.subj] || "")}`,
+  const tag = `${BNAME[u.board] === "DeepKids Plus" ? "DeepKids" : BOARDN[u.board] || BNAME[u.board] || "DeepKids"} · Class ${u.board === "dk" ? S.levels?.sci || 1 : u.level} · ${esc(SUBJ[u.subj] || "")}`,
     cs = getComputedStyle(document.documentElement),
     vars = [
       "--aqua",
@@ -1131,7 +1131,7 @@ function printSheetsOwn(u) {
   const R = wsRank(u),
     C = wsCur(u);
   if (!R.length && !C.length) return "";
-  const p = profOf(u.subj === "dk" ? "dks" : u.subj),
+  const p = profOf(u.subj),
     mine = R.filter((x) => (x.w.lvl || "core") === p.lvl),
     rest = R.filter((x) => (x.w.lvl || "core") !== p.lvl);
   const row = (x) =>
@@ -1163,7 +1163,7 @@ function wsViewSheet() {
 }
 /* Waldorf: its own subjects (Main lesson, Hindi, Arts & handwork), shown only to Waldorf families */
 const WFS = ["wml", "wart"],
-  visSubj = (b) => (b === "waldorf" ? ["wml", "hin", "wart", "dks"] : SUBJ_KEYS.filter((k) => !WFS.includes(k)));
+  visSubj = (b) => (b === "waldorf" ? ["wml", "hin", "wart", "sci"] : SUBJ_KEYS.filter((k) => !WFS.includes(k)));
 function wfGuideView() {
   const G = DATA.waldorf || {};
   document.getElementById("sheetTitle").textContent = "Waldorf at home";

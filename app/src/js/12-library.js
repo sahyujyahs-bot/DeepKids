@@ -34,6 +34,25 @@ function combinedTopicList() {
   return `<p class="xs muted">The Combined science ladder: every topic any board teaches in Class ${lv}, once, at the earliest class, deeper each year. ${L.filter((e) => e.k).length} of ${L.length} written in full on the DeepKids track; the others link to the board chapters used for now.</p>
    <div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>${L.map(row).join("")}`;
 }
+// DeepKids track in the Library: per subject, the written units and topic ladder, and the DeepKids topics
+function dkTrackBrowse() {
+  const subjs = SUBJ_KEYS.filter((k) => !WFS.includes(k)),
+    sj = subjs.includes(ui.bs) ? ui.bs : "sci",
+    chips = `<div class="row chips">${subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>`;
+  if (sj !== "sci")
+    return `${chips}<p class="note">DeepKids ${esc(SUBJ[sj])} is being written. For now, its chapters are under Board track.</p>`;
+  const lv = Object.keys(DATA.combined?.sci || {})
+      .map(Number)
+      .includes(ui.bl)
+      ? ui.bl
+      : S.levels?.sci || 3,
+    T = DATA.topics.filter((t) => (t.cls || [1, 2, 3, 4, 5]).includes(lv)).map(dkUnit);
+  return `${chips}${combinedBrowse()}${
+    T.length
+      ? `<div class="sech"><h3 style="font-size:18px">Big-question topics</h3><span class="pill">${T.length}</span></div><p class="xs muted">DeepKids topics that start from a big question, for Class ${lv}.</p>${T.map(topicRow).join("")}`
+      : ""
+  }`;
+}
 function combinedBrowse() {
   const h = combinedTopicList(),
     cls = Object.keys(DATA.combined?.sci || {})
@@ -249,7 +268,7 @@ function resourcesFor(u) {
     (r) => (r.chapters || []).includes(u.k) || r.concepts.some((c) => (RCON[c]?.chapters || []).includes(u.k)),
   );
   // maths, English and Hindi also get the free resources for their level
-  if (u.subj === "sci" || u.subj === "dks" || !LSUBJ[u.subj]) return L;
+  if (u.subj === "sci" || !LSUBJ[u.subj]) return L;
   const seen = new Set(L.map((r) => r.url));
   return [
     ...L,
@@ -486,7 +505,21 @@ function topicsTab() {
       `<section class="card r-out tint"><b style="font:600 17px var(--display)">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE ? `<button class="btn sm" data-act="tgen" style="justify-self:start" ${ui.tgen ? "disabled" : ""}>${ui.tgen ? "Writing the topic…" : "Create this topic"}</button>` : `<p class="xs muted">Creating topics needs Claude, which isn't available in this view.</p>`}${ui.terr ? `<p class="sm" style="color:var(--bad)">${esc(ui.terr)}</p>` : ""}</section></section>`;
     return h;
   }
-  const B = ui.bb || boardsOn()[0] || "ncert",
+  const track = ui.btrack || (["combined", "none"].includes(S.board) ? "dk" : "board"),
+    head = `<div class="sech"><h3 style="font-size:18px">Browse the syllabus</h3></div><div class="seg">${[
+      ["dk", "DeepKids track"],
+      ["board", "Board track"],
+    ]
+      .map(([k, n]) => `<button aria-pressed="${track === k}" data-act="btrack" data-v="${k}">${n}</button>`)
+      .join("")}</div>`;
+  if (track === "dk") {
+    h += head + dkTrackBrowse();
+    if (gen.length)
+      h += `<div class="sech"><h3 style="font-size:18px">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
+    return h + `</section>`;
+  }
+  const BT = ["ncert", "cambridge", "nios", "waldorf"],
+    B = BT.includes(ui.bb) ? ui.bb : BT.find((b) => boardsOn().includes(b)) || "ncert",
     subjs = [
       ...new Set(
         allUnits()
@@ -512,16 +545,12 @@ function topicsTab() {
           : B === "nios"
             ? "Level " + (l <= 3 ? "A" : "B")
             : "Level " + l;
-  h += `<div class="sech"><h3 style="font-size:18px">Browse the syllabus</h3></div>
-   <div class="row chips">${["combined", "ncert", "cambridge", "nios", "waldorf", "dk"].map((b) => `<button class="chip" aria-pressed="${B === b}" data-act="bb" data-b="${b}">${b === "combined" ? "DeepKids track" : BNAME[b]}</button>`).join("")}</div>${
-     B === "combined"
-       ? combinedBrowse()
-       : `
+  h += `${head}
+   <div class="row chips">${BT.map((b) => `<button class="chip" aria-pressed="${B === b}" data-act="bb" data-b="${b}">${BNAME[b]}</button>`).join("")}</div>${`
    ${subjs.length > 1 ? `<div class="row chips">${subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>` : ""}
    ${levels.length > 1 ? `<div class="row chips">${levels.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")}</div>` : ""}
    <p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "dk" ? "topics" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
-   ${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:11px">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`
-   }`;
+   ${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:11px">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`}`;
   if (gen.length)
     h += `<div class="sech"><h3 style="font-size:18px">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
   return h + `</section>`;

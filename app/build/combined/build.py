@@ -52,6 +52,8 @@ import re
 slug = lambda x: re.sub(r'[^a-z0-9]+', '-', x.lower()).strip('-')
 CUR = json.load(open(os.path.join(APP, 'content', 'curriculum', 'sci.json')))
 TL = {s: t for t in CUR['topic_levels'] for s in t['subtopic_levels']}
+_wl = os.path.join(APP, 'content', 'curriculum', 'waldorf_links.json')
+WLINKS = json.load(open(_wl)) if os.path.exists(_wl) else {}
 SUB = {x['id']: x for x in CUR['subtopic_levels']}
 SUBI = {x['id']: i for i, x in enumerate(CUR['subtopic_levels'])}   # curriculum order
 data['units'] = {}
@@ -134,6 +136,11 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
             if it.get('k') == ik:
                 it.setdefault('c', {}).setdefault('units', [])
                 if ref not in it['c']['units']: it['c']['units'].append(ref)
+    # 3. every Waldorf block that teaches it links to it (content/curriculum/waldorf_links.json)
+    for wk, ids in WLINKS.items():
+        if u['id'] in ids:
+            for it in data['items']:
+                if it.get('k') == wk and ref not in it.setdefault('c', {}).setdefault('units', []): it['c']['units'].append(ref)
     for e in plan.get(t['subject'], {}).get(str(t['level']), []):
         if e['topic'] == slug(t['name']) or slug(e['title']) == slug(t['name']):
             e.setdefault('units', []).append({"id": u['id'], "title": u['title']})

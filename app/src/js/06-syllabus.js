@@ -32,31 +32,32 @@ function genUnits(subj, lvl) {
     )
     .map(genUnit);
 }
-const DKSUB = { dks: "sci" };
+// DeepKids topics (the big-question lessons) are Science. They join the plan by themselves on the DeepKids
+// track, Waldorf and DeepKids-only; board families follow their book, and can add any topic from the Library.
 function dkUnits(subj, lvl) {
-  if (!DKSUB[subj]) return [];
+  if (subj !== "sci" || lvl !== S.levels[subj]) return [];
   const ex = (S.extra || {})[subj] || [],
-    added = lvl === S.levels[subj] ? DATA.topics.filter((t) => ex.includes("dk|" + t.id)) : [],
+    auto = ["combined", "waldorf", "none"].includes(S.board),
     seen = new Set();
-  return [
-    ...added,
-    ...(lvl === S.levels[subj]
-      ? DATA.topics.filter((t) => (t.subj || "sci") === DKSUB[subj] && (t.cls || [1, 2, 3, 4, 5]).includes(lvl))
-      : []),
-  ]
+  return DATA.topics
+    .filter(
+      (t) =>
+        ex.includes("dk|" + t.id) || (auto && (t.subj || "sci") === "sci" && (t.cls || [1, 2, 3, 4, 5]).includes(lvl)),
+    )
     .filter((t) => !seen.has(t.id) && seen.add(t.id))
-    .map((t) => ({
-      k: "dk|" + t.id,
-      board: "dk",
-      subj: "dks",
-      level: 1,
-      book: "DeepKids Science",
-      n: t.id,
-      title: t.name,
-      dk: [],
-      topic: t,
-    }));
+    .map(dkUnit);
 }
+const dkUnit = (t) => ({
+  k: "dk|" + t.id,
+  board: "dk",
+  subj: "sci",
+  level: 1,
+  book: "DeepKids Science",
+  n: t.id,
+  title: t.name,
+  dk: [],
+  topic: t,
+});
 function collateAt(subj, lvl) {
   const bo = [...boardsOn()];
   if (
@@ -437,22 +438,7 @@ function chapterRank(u) {
 }
 function allUnits() {
   if (_all && _all.n === SHARED.topics.length + myBookItems().length) return _all.u;
-  const u = [
-    ...DATA.items,
-    ...DATA.topics.map((t) => ({
-      k: "dk|" + t.id,
-      board: "dk",
-      subj: "dks",
-      level: 1,
-      book: "DeepKids Science",
-      n: t.id,
-      title: t.name,
-      dk: [],
-      topic: t,
-    })),
-    ...SHARED.topics.map(genUnit),
-    ...myBookItems(),
-  ];
+  const u = [...DATA.items, ...DATA.topics.map(dkUnit), ...SHARED.topics.map(genUnit), ...myBookItems()];
   _all = { n: SHARED.topics.length + myBookItems().length, u };
   return u;
 }

@@ -90,7 +90,7 @@ function viewOnboarding() {
     return `<div class="ob">${fxObBar(2)}<h1>Which subjects?</h1><div class="choices">${visSubj(d.board)
       .map(
         (k) =>
-          `<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k, d.subjects.includes(k) ? "happy" : "sleepy")}<span><b>${SUBJ[k]}</b><span>${k === "wml" ? "The long morning lesson: stories, letters, numbers, nature and history in blocks of 3–4 weeks" : k === "wart" ? "Painting, handwork, music, modelling and baking, one each weekday" : k === "hin" && d.board === "waldorf" ? "Hindi as the second language: songs first, then letters" : k === "hin" ? "Not part of Cambridge" : k === "dks" ? "Big questions about life, the earth and the universe. Every day, alongside the syllabus" : "Tap to include or leave out"}</span></span></button>`,
+          `<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k, d.subjects.includes(k) ? "happy" : "sleepy")}<span><b>${SUBJ[k]}</b><span>${k === "wml" ? "The long morning lesson: stories, letters, numbers, nature and history in blocks of 3–4 weeks" : k === "wart" ? "Painting, handwork, music, modelling and baking, one each weekday" : k === "hin" && d.board === "waldorf" ? "Hindi as the second language: songs first, then letters" : k === "hin" ? "Not part of Cambridge" : "Tap to include or leave out"}</span></span></button>`,
       )
       .join("")}</div>${fxObNav(true, `Continue${icon("next")}`)}</div>`;
   if (s === 3) {

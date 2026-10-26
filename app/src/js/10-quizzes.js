@@ -588,7 +588,7 @@ function oddGame(u) {
 function jokesAndGames() {
   const u = dailyUnit();
   document.getElementById("sheetTitle").textContent = "Jokes and games";
-  if (!u) return `<p class="note">Games come from the science chapter you're on. Add EVS / Science to see them.</p>`;
+  if (!u) return `<p class="note">Games come from the science chapter you're on. Add Science to see them.</p>`;
   const T = { word: ["Word of the Day", wordGame], tf: ["True or False", tfGame], odd: ["Odd One Out", oddGame] };
   return `<div class="hs">${u.c.x.jokes
     .map((j, i) => {

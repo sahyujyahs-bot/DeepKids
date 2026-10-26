@@ -248,25 +248,28 @@ const commit = () => {
   save();
   render();
 };
-/* DeepKids Science is its own subject now (it used to ride inside EVS): move a family's DeepKids topics across once */
-function dksMigrate() {
-  if (!S || !S.setup || S.dksMig) return;
-  S.dksMig = 1;
+/* Science is one subject again: a family's old "DeepKids Science" subject (dks) moves into Science, once */
+function sciMerge() {
+  if (!S || !S.setup || S.sciMerged) return;
+  S.sciMerged = 1;
+  const had = S.subjects.includes("dks");
+  S.subjects = S.subjects.filter((s) => s !== "dks");
+  if (had && !S.subjects.includes("sci")) S.subjects = [...S.subjects, "sci"];
   const mv = (o) => {
-    if (!o || !o.sci) return o;
-    const dk = o.sci.filter((k) => String(k).startsWith("dk|"));
-    if (!dk.length) return o;
-    return {
-      ...o,
-      sci: o.sci.filter((k) => !String(k).startsWith("dk|")),
-      dks: [...new Set([...(o.dks || []), ...dk])],
-    };
+    if (!o?.dks) return o;
+    const { dks, ...rest } = o;
+    return { ...rest, sci: [...new Set([...(rest.sci || []), ...dks])] };
   };
   S.extra = mv(S.extra);
   S.next = mv(S.next);
   S.later = mv(S.later);
-  S.levels = { ...S.levels, dks: S.levels?.dks || S.levels?.sci || 1 };
-  if (modeOf() !== "books" && !S.subjects.includes("dks")) S.subjects = [...S.subjects, "dks"];
+  if (S.levels?.dks) {
+    const { dks, ...rest } = S.levels;
+    S.levels = { sci: dks, ...rest };
+  }
+  (S.log || []).forEach((l) => {
+    if (l.subj === "dks") l.subj = "sci";
+  });
   save();
 }
 function dataBox() {

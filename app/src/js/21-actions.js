@@ -42,10 +42,10 @@ function onAct(e) {
       if (d.board === "none") d.plus = true;
       if (d.board === "waldorf") {
         d.mode = "books";
-        d.subjects = ["wml", "hin", "wart"];
+        d.subjects = ["wml", "hin", "wart", "sci"];
         d.days = { ...DEF_DAYS, ...(d.days || {}), hin: [1, 2, 3, 4, 5] };
       } else if (was === "waldorf") {
-        d.subjects = ["math", "eng", "hin", "sci", "dks"];
+        d.subjects = ["math", "eng", "hin", "sci"];
         d.mode = "booksplus";
       } else d.subjects = d.subjects.filter((s) => !WFS.includes(s));
     }
@@ -957,6 +957,15 @@ function onAct(e) {
       ui.rtc = b.dataset.t;
       sfx("tap");
       renderSheet();
+      break;
+    }
+    case "btrack": {
+      navPush();
+      ui.btrack = b.dataset.v;
+      ui.bs = null;
+      ui.bl = null;
+      sfx("tap");
+      render();
       break;
     }
     case "bb": {

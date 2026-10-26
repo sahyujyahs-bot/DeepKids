@@ -278,7 +278,6 @@ const SUBJ_BLOB = {
   eng: ["var(--gum)", 7],
   hin: ["var(--tang)", 11],
   sci: ["var(--forest)", 5],
-  dks: ["var(--peri)", 9],
   wml: ["var(--sun)", 13],
   wart: ["var(--gum)", 17],
 };

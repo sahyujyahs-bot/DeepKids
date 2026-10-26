@@ -1,11 +1,8 @@
 /* Content and fixed tables: DATA (filled in by the build), subjects, boards, defaults */
 const DATA = /*DATA*/ null;
 // the build puts all content here (app/build/data.json)
-const SUBJ = { ...DATA.subjects, dks: "DeepKids Science", wml: "Main lesson", wart: "Arts & handwork" },
+const SUBJ = { ...DATA.subjects, sci: "Science", wml: "Main lesson", wart: "Arts & handwork" },
   SUBJ_KEYS = Object.keys(SUBJ);
-DATA.prepgen.guide.dks =
-  DATA.prepgen.guide.dks ||
-  "DeepKids Science starts from a big question. Read the topic story yourself first, then let your child wonder out loud before you explain anything. Their questions matter more than the answers.";
 DATA.prepgen.guide.wml =
   "Prepare tomorrow's story the night before so you can tell it in your own words. Keep the rhythm: circle, recall, new content, Main Lesson Book, practice, closing.";
 DATA.prepgen.guide.wart =
@@ -14,10 +11,6 @@ DATA.prepgen.prep.wml = [
   ["read", 1, "Read tomorrow's story or lesson and practise telling it (10 min)", "The day plan in DeepKids"],
 ];
 DATA.prepgen.prep.wart = [["act", 0, "Lay out today's art materials", "Around the house"]];
-DATA.prepgen.prep.dks = DATA.prepgen.prep.dks || [
-  ["read", 1, "Read the topic story and its big question yourself (5 min)", "The topic page in DeepKids"],
-  ["act", 0, "Keep a wonder notebook handy for your child's questions", "At home"],
-];
 const BOARDS = {
   ncert: "NCERT / CBSE",
   cambridge: "Cambridge Primary",
@@ -31,11 +24,10 @@ const DEF_DAYS = {
   eng: [1, 2, 4, 5],
   hin: [2, 4],
   sci: [1, 2, 3, 4, 5],
-  dks: [1, 2, 3, 4, 5],
   wml: [1, 2, 3, 4, 5],
   wart: [1, 2, 3, 4, 5],
 };
-const DEF_HPD = { math: 1, eng: 0.75, hin: 0.5, sci: 0.75, dks: 0.5, wml: 1.5, wart: 0.75 };
+const DEF_HPD = { math: 1, eng: 0.75, hin: 0.5, sci: 0.75, wml: 1.5, wart: 0.75 };
 const DEF_DAY = {
   prepAt: "07:30",
   start: "09:30",

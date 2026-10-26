@@ -2,11 +2,8 @@
 /* Content and fixed tables: DATA (filled in by the build), subjects, boards, defaults */
 const DATA = window.DK_DATA;
 // the build puts all content here (app/build/data.json)
-const SUBJ = { ...DATA.subjects, dks: "DeepKids Science", wml: "Main lesson", wart: "Arts & handwork" },
+const SUBJ = { ...DATA.subjects, sci: "Science", wml: "Main lesson", wart: "Arts & handwork" },
   SUBJ_KEYS = Object.keys(SUBJ);
-DATA.prepgen.guide.dks =
-  DATA.prepgen.guide.dks ||
-  "DeepKids Science starts from a big question. Read the topic story yourself first, then let your child wonder out loud before you explain anything. Their questions matter more than the answers.";
 DATA.prepgen.guide.wml =
   "Prepare tomorrow's story the night before so you can tell it in your own words. Keep the rhythm: circle, recall, new content, Main Lesson Book, practice, closing.";
 DATA.prepgen.guide.wart =
@@ -15,10 +12,6 @@ DATA.prepgen.prep.wml = [
   ["read", 1, "Read tomorrow's story or lesson and practise telling it (10 min)", "The day plan in DeepKids"],
 ];
 DATA.prepgen.prep.wart = [["act", 0, "Lay out today's art materials", "Around the house"]];
-DATA.prepgen.prep.dks = DATA.prepgen.prep.dks || [
-  ["read", 1, "Read the topic story and its big question yourself (5 min)", "The topic page in DeepKids"],
-  ["act", 0, "Keep a wonder notebook handy for your child's questions", "At home"],
-];
 const BOARDS = {
   ncert: "NCERT / CBSE",
   cambridge: "Cambridge Primary",
@@ -32,11 +25,10 @@ const DEF_DAYS = {
   eng: [1, 2, 4, 5],
   hin: [2, 4],
   sci: [1, 2, 3, 4, 5],
-  dks: [1, 2, 3, 4, 5],
   wml: [1, 2, 3, 4, 5],
   wart: [1, 2, 3, 4, 5],
 };
-const DEF_HPD = { math: 1, eng: 0.75, hin: 0.5, sci: 0.75, dks: 0.5, wml: 1.5, wart: 0.75 };
+const DEF_HPD = { math: 1, eng: 0.75, hin: 0.5, sci: 0.75, wml: 1.5, wart: 0.75 };
 const DEF_DAY = {
   prepAt: "07:30",
   start: "09:30",
@@ -126,8 +118,8 @@ const fresh = () => ({
   age: 6,
   board: "ncert",
   plus: true,
-  subjects: ["math", "eng", "hin", "sci", "dks"],
-  levels: { math: 1, eng: 1, hin: 1, sci: 1, dks: 1 },
+  subjects: ["math", "eng", "hin", "sci"],
+  levels: { math: 1, eng: 1, hin: 1, sci: 1 },
   start: monday(),
   days: DEF_DAYS,
   hpd: DEF_HPD,
@@ -466,7 +458,6 @@ const SUBJ_BLOB = {
   eng: ["var(--gum)", 7],
   hin: ["var(--tang)", 11],
   sci: ["var(--forest)", 5],
-  dks: ["var(--peri)", 9],
   wml: ["var(--sun)", 13],
   wart: ["var(--gum)", 17],
 };
@@ -781,25 +772,28 @@ const commit = () => {
   save();
   render();
 };
-/* DeepKids Science is its own subject now (it used to ride inside EVS): move a family's DeepKids topics across once */
-function dksMigrate() {
-  if (!S || !S.setup || S.dksMig) return;
-  S.dksMig = 1;
+/* Science is one subject again: a family's old "DeepKids Science" subject (dks) moves into Science, once */
+function sciMerge() {
+  if (!S || !S.setup || S.sciMerged) return;
+  S.sciMerged = 1;
+  const had = S.subjects.includes("dks");
+  S.subjects = S.subjects.filter((s) => s !== "dks");
+  if (had && !S.subjects.includes("sci")) S.subjects = [...S.subjects, "sci"];
   const mv = (o) => {
-    if (!o || !o.sci) return o;
-    const dk = o.sci.filter((k) => String(k).startsWith("dk|"));
-    if (!dk.length) return o;
-    return {
-      ...o,
-      sci: o.sci.filter((k) => !String(k).startsWith("dk|")),
-      dks: [...new Set([...(o.dks || []), ...dk])],
-    };
+    if (!o?.dks) return o;
+    const { dks, ...rest } = o;
+    return { ...rest, sci: [...new Set([...(rest.sci || []), ...dks])] };
   };
   S.extra = mv(S.extra);
   S.next = mv(S.next);
   S.later = mv(S.later);
-  S.levels = { ...S.levels, dks: S.levels?.dks || S.levels?.sci || 1 };
-  if (modeOf() !== "books" && !S.subjects.includes("dks")) S.subjects = [...S.subjects, "dks"];
+  if (S.levels?.dks) {
+    const { dks, ...rest } = S.levels;
+    S.levels = { sci: dks, ...rest };
+  }
+  (S.log || []).forEach((l) => {
+    if (l.subj === "dks") l.subj = "sci";
+  });
   save();
 }
 function dataBox() {
@@ -970,31 +964,32 @@ function genUnits(subj, lvl) {
     )
     .map(genUnit);
 }
-const DKSUB = { dks: "sci" };
+// DeepKids topics (the big-question lessons) are Science. They join the plan by themselves on the DeepKids
+// track, Waldorf and DeepKids-only; board families follow their book, and can add any topic from the Library.
 function dkUnits(subj, lvl) {
-  if (!DKSUB[subj]) return [];
+  if (subj !== "sci" || lvl !== S.levels[subj]) return [];
   const ex = (S.extra || {})[subj] || [],
-    added = lvl === S.levels[subj] ? DATA.topics.filter((t) => ex.includes("dk|" + t.id)) : [],
+    auto = ["combined", "waldorf", "none"].includes(S.board),
     seen = new Set();
-  return [
-    ...added,
-    ...(lvl === S.levels[subj]
-      ? DATA.topics.filter((t) => (t.subj || "sci") === DKSUB[subj] && (t.cls || [1, 2, 3, 4, 5]).includes(lvl))
-      : []),
-  ]
+  return DATA.topics
+    .filter(
+      (t) =>
+        ex.includes("dk|" + t.id) || (auto && (t.subj || "sci") === "sci" && (t.cls || [1, 2, 3, 4, 5]).includes(lvl)),
+    )
     .filter((t) => !seen.has(t.id) && seen.add(t.id))
-    .map((t) => ({
-      k: "dk|" + t.id,
-      board: "dk",
-      subj: "dks",
-      level: 1,
-      book: "DeepKids Science",
-      n: t.id,
-      title: t.name,
-      dk: [],
-      topic: t,
-    }));
+    .map(dkUnit);
 }
+const dkUnit = (t) => ({
+  k: "dk|" + t.id,
+  board: "dk",
+  subj: "sci",
+  level: 1,
+  book: "DeepKids Science",
+  n: t.id,
+  title: t.name,
+  dk: [],
+  topic: t,
+});
 function collateAt(subj, lvl) {
   const bo = [...boardsOn()];
   if (
@@ -1375,22 +1370,7 @@ function chapterRank(u) {
 }
 function allUnits() {
   if (_all && _all.n === SHARED.topics.length + myBookItems().length) return _all.u;
-  const u = [
-    ...DATA.items,
-    ...DATA.topics.map((t) => ({
-      k: "dk|" + t.id,
-      board: "dk",
-      subj: "dks",
-      level: 1,
-      book: "DeepKids Science",
-      n: t.id,
-      title: t.name,
-      dk: [],
-      topic: t,
-    })),
-    ...SHARED.topics.map(genUnit),
-    ...myBookItems(),
-  ];
+  const u = [...DATA.items, ...DATA.topics.map(dkUnit), ...SHARED.topics.map(genUnit), ...myBookItems()];
   _all = { n: SHARED.topics.length + myBookItems().length, u };
   return u;
 }
@@ -1416,7 +1396,6 @@ const MODES = {
 const HINT = {
   wml: "Tell, don't read. Move it first, then draw it, then write it.",
   wart: "Process before product: enjoy the colours and the making.",
-  dks: "Start from your child's own questions. There are no wrong answers here: ask “how do we know?” and try it out at home.",
   math: "Use real things for every problem (coins, beans, rotis, a ruler) before writing anything down.",
   eng: "Read aloud together, collect new words in a notebook, and ask your child to retell it in their own words.",
   hin: "Read aloud in Hindi, collect new words with meanings, and ask your child to retell it in Hindi.",
@@ -4488,7 +4467,7 @@ function topicsOf(u) {
   return T;
 }
 function wsRank(u) {
-  const p = profOf(u.subj === "dk" ? "dks" : u.subj),
+  const p = profOf(u.subj),
     L = wsOf(u),
     di = PLV.indexOf(p.lvl),
     pref = {
@@ -5131,7 +5110,7 @@ function wsSinglePage(ws, u) {
         p.k ? `<div class="wk"><b>${i + 1}. ${esc(ws.blocks[i].title || "")}</b><div>${p.k}</div></div>` : "",
       )
       .join("");
-  const tag = `${BNAME[u.board] === "DeepKids Plus" ? "DeepKids" : BOARDN[u.board] || BNAME[u.board] || "DeepKids"} · Class ${u.board === "dk" ? S.levels?.dks || 1 : u.level} · ${esc(SUBJ[u.subj] || "")}`,
+  const tag = `${BNAME[u.board] === "DeepKids Plus" ? "DeepKids" : BOARDN[u.board] || BNAME[u.board] || "DeepKids"} · Class ${u.board === "dk" ? S.levels?.sci || 1 : u.level} · ${esc(SUBJ[u.subj] || "")}`,
     cs = getComputedStyle(document.documentElement),
     vars = [
       "--aqua",
@@ -5195,7 +5174,7 @@ function printSheetsOwn(u) {
   const R = wsRank(u),
     C = wsCur(u);
   if (!R.length && !C.length) return "";
-  const p = profOf(u.subj === "dk" ? "dks" : u.subj),
+  const p = profOf(u.subj),
     mine = R.filter((x) => (x.w.lvl || "core") === p.lvl),
     rest = R.filter((x) => (x.w.lvl || "core") !== p.lvl);
   const row = (x) =>
@@ -5227,7 +5206,7 @@ function wsViewSheet() {
 }
 /* Waldorf: its own subjects (Main lesson, Hindi, Arts & handwork), shown only to Waldorf families */
 const WFS = ["wml", "wart"],
-  visSubj = (b) => (b === "waldorf" ? ["wml", "hin", "wart", "dks"] : SUBJ_KEYS.filter((k) => !WFS.includes(k)));
+  visSubj = (b) => (b === "waldorf" ? ["wml", "hin", "wart", "sci"] : SUBJ_KEYS.filter((k) => !WFS.includes(k)));
 function wfGuideView() {
   const G = DATA.waldorf || {};
   document.getElementById("sheetTitle").textContent = "Waldorf at home";
@@ -6096,7 +6075,7 @@ function oddGame(u) {
 function jokesAndGames() {
   const u = dailyUnit();
   document.getElementById("sheetTitle").textContent = "Jokes and games";
-  if (!u) return `<p class="note">Games come from the science chapter you're on. Add EVS / Science to see them.</p>`;
+  if (!u) return `<p class="note">Games come from the science chapter you're on. Add Science to see them.</p>`;
   const T = { word: ["Word of the Day", wordGame], tf: ["True or False", tfGame], odd: ["Odd One Out", oddGame] };
   return `<div class="hs">${u.c.x.jokes
     .map((j, i) => {
@@ -7791,6 +7770,25 @@ function combinedTopicList() {
   return `<p class="xs muted">The Combined science ladder: every topic any board teaches in Class ${lv}, once, at the earliest class, deeper each year. ${L.filter((e) => e.k).length} of ${L.length} written in full on the DeepKids track; the others link to the board chapters used for now.</p>
    <div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>${L.map(row).join("")}`;
 }
+// DeepKids track in the Library: per subject, the written units and topic ladder, and the DeepKids topics
+function dkTrackBrowse() {
+  const subjs = SUBJ_KEYS.filter((k) => !WFS.includes(k)),
+    sj = subjs.includes(ui.bs) ? ui.bs : "sci",
+    chips = `<div class="row chips">${subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>`;
+  if (sj !== "sci")
+    return `${chips}<p class="note">DeepKids ${esc(SUBJ[sj])} is being written. For now, its chapters are under Board track.</p>`;
+  const lv = Object.keys(DATA.combined?.sci || {})
+      .map(Number)
+      .includes(ui.bl)
+      ? ui.bl
+      : S.levels?.sci || 3,
+    T = DATA.topics.filter((t) => (t.cls || [1, 2, 3, 4, 5]).includes(lv)).map(dkUnit);
+  return `${chips}${combinedBrowse()}${
+    T.length
+      ? `<div class="sech"><h3 style="font-size:18px">Big-question topics</h3><span class="pill">${T.length}</span></div><p class="xs muted">DeepKids topics that start from a big question, for Class ${lv}.</p>${T.map(topicRow).join("")}`
+      : ""
+  }`;
+}
 function combinedBrowse() {
   const h = combinedTopicList(),
     cls = Object.keys(DATA.combined?.sci || {})
@@ -8006,7 +8004,7 @@ function resourcesFor(u) {
     (r) => (r.chapters || []).includes(u.k) || r.concepts.some((c) => (RCON[c]?.chapters || []).includes(u.k)),
   );
   // maths, English and Hindi also get the free resources for their level
-  if (u.subj === "sci" || u.subj === "dks" || !LSUBJ[u.subj]) return L;
+  if (u.subj === "sci" || !LSUBJ[u.subj]) return L;
   const seen = new Set(L.map((r) => r.url));
   return [
     ...L,
@@ -8243,7 +8241,21 @@ function topicsTab() {
       `<section class="card r-out tint"><b style="font:600 17px var(--display)">Explore “${esc(q)}” as a new topic</b><p class="sm">Claude writes a summary, big ideas, lesson plans, related topics and books, and tags it to any syllabus it belongs to. It's saved to DeepKids so other families find it too.</p>${SAMPLE ? `<button class="btn sm" data-act="tgen" style="justify-self:start" ${ui.tgen ? "disabled" : ""}>${ui.tgen ? "Writing the topic…" : "Create this topic"}</button>` : `<p class="xs muted">Exploring new topics is part of DeepKids Plus.</p>`}${ui.terr ? `<p class="sm" style="color:var(--bad)">${esc(ui.terr)}</p>` : ""}</section></section>`;
     return h;
   }
-  const B = ui.bb || boardsOn()[0] || "ncert",
+  const track = ui.btrack || (["combined", "none"].includes(S.board) ? "dk" : "board"),
+    head = `<div class="sech"><h3 style="font-size:18px">Browse the syllabus</h3></div><div class="seg">${[
+      ["dk", "DeepKids track"],
+      ["board", "Board track"],
+    ]
+      .map(([k, n]) => `<button aria-pressed="${track === k}" data-act="btrack" data-v="${k}">${n}</button>`)
+      .join("")}</div>`;
+  if (track === "dk") {
+    h += head + dkTrackBrowse();
+    if (gen.length)
+      h += `<div class="sech"><h3 style="font-size:18px">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
+    return h + `</section>`;
+  }
+  const BT = ["ncert", "cambridge", "nios", "waldorf"],
+    B = BT.includes(ui.bb) ? ui.bb : BT.find((b) => boardsOn().includes(b)) || "ncert",
     subjs = [
       ...new Set(
         allUnits()
@@ -8269,16 +8281,12 @@ function topicsTab() {
           : B === "nios"
             ? "Level " + (l <= 3 ? "A" : "B")
             : "Level " + l;
-  h += `<div class="sech"><h3 style="font-size:18px">Browse the syllabus</h3></div>
-   <div class="row chips">${["combined", "ncert", "cambridge", "nios", "waldorf", "dk"].map((b) => `<button class="chip" aria-pressed="${B === b}" data-act="bb" data-b="${b}">${b === "combined" ? "DeepKids track" : BNAME[b]}</button>`).join("")}</div>${
-     B === "combined"
-       ? combinedBrowse()
-       : `
+  h += `${head}
+   <div class="row chips">${BT.map((b) => `<button class="chip" aria-pressed="${B === b}" data-act="bb" data-b="${b}">${BNAME[b]}</button>`).join("")}</div>${`
    ${subjs.length > 1 ? `<div class="row chips">${subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>` : ""}
    ${levels.length > 1 ? `<div class="row chips">${levels.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")}</div>` : ""}
    <p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "dk" ? "topics" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
-   ${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:11px">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`
-   }`;
+   ${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:11px">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`}`;
   if (gen.length)
     h += `<div class="sech"><h3 style="font-size:18px">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
   return h + `</section>`;
@@ -10036,7 +10044,7 @@ function dkWords(s) {
 function dkPick(date, lessons) {
   const L = lessons.map((l) => l.u).filter(Boolean),
     live = DATA.topics.filter(
-      (t) => (t.cls || [1, 2, 3, 4, 5]).includes(S.levels.dks || S.levels.sci || 1) && rank[st("dk|" + t.id)] < 2,
+      (t) => (t.cls || [1, 2, 3, 4, 5]).includes(S.levels.sci || 1) && rank[st("dk|" + t.id)] < 2,
     );
   if (!live.length) return null;
   const lw = new Set(
@@ -11592,7 +11600,6 @@ const CHC = {
   eng: "#C24F8A",
   hin: "#D98A2B",
   sci: "#3F8A4F",
-  dks: "#6E6CC9",
   wml: "#C9A227",
   wart: "#C24F8A",
 };
@@ -12669,7 +12676,7 @@ function viewOnboarding() {
     return `<div class="ob">${fxObBar(2)}<h1>Which subjects?</h1><div class="choices">${visSubj(d.board)
       .map(
         (k) =>
-          `<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k, d.subjects.includes(k) ? "happy" : "sleepy")}<span><b>${SUBJ[k]}</b><span>${k === "wml" ? "The long morning lesson: stories, letters, numbers, nature and history in blocks of 3–4 weeks" : k === "wart" ? "Painting, handwork, music, modelling and baking, one each weekday" : k === "hin" && d.board === "waldorf" ? "Hindi as the second language: songs first, then letters" : k === "hin" ? "Not part of Cambridge" : k === "dks" ? "Big questions about life, the earth and the universe. Every day, alongside the syllabus" : "Tap to include or leave out"}</span></span></button>`,
+          `<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k, d.subjects.includes(k) ? "happy" : "sleepy")}<span><b>${SUBJ[k]}</b><span>${k === "wml" ? "The long morning lesson: stories, letters, numbers, nature and history in blocks of 3–4 weeks" : k === "wart" ? "Painting, handwork, music, modelling and baking, one each weekday" : k === "hin" && d.board === "waldorf" ? "Hindi as the second language: songs first, then letters" : k === "hin" ? "Not part of Cambridge" : "Tap to include or leave out"}</span></span></button>`,
       )
       .join("")}</div>${fxObNav(true, `Continue${icon("next")}`)}</div>`;
   if (s === 3) {
@@ -14079,7 +14086,7 @@ function render() {
       profAuto();
     } catch (e) {}
   }
-  dksMigrate();
+  sciMerge();
   const main = document.getElementById("main"),
     place = scrollSnap(main);
   renderMain();
@@ -14253,10 +14260,10 @@ function onAct(e) {
       if (d.board === "none") d.plus = true;
       if (d.board === "waldorf") {
         d.mode = "books";
-        d.subjects = ["wml", "hin", "wart"];
+        d.subjects = ["wml", "hin", "wart", "sci"];
         d.days = { ...DEF_DAYS, ...(d.days || {}), hin: [1, 2, 3, 4, 5] };
       } else if (was === "waldorf") {
-        d.subjects = ["math", "eng", "hin", "sci", "dks"];
+        d.subjects = ["math", "eng", "hin", "sci"];
         d.mode = "booksplus";
       } else d.subjects = d.subjects.filter((s) => !WFS.includes(s));
     }
@@ -15168,6 +15175,15 @@ function onAct(e) {
       ui.rtc = b.dataset.t;
       sfx("tap");
       renderSheet();
+      break;
+    }
+    case "btrack": {
+      navPush();
+      ui.btrack = b.dataset.v;
+      ui.bs = null;
+      ui.bl = null;
+      sfx("tap");
+      render();
       break;
     }
     case "bb": {

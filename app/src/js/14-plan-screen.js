@@ -690,7 +690,7 @@ function dkWords(s) {
 function dkPick(date, lessons) {
   const L = lessons.map((l) => l.u).filter(Boolean),
     live = DATA.topics.filter(
-      (t) => (t.cls || [1, 2, 3, 4, 5]).includes(S.levels.dks || S.levels.sci || 1) && rank[st("dk|" + t.id)] < 2,
+      (t) => (t.cls || [1, 2, 3, 4, 5]).includes(S.levels.sci || 1) && rank[st("dk|" + t.id)] < 2,
     );
   if (!live.length) return null;
   const lw = new Set(

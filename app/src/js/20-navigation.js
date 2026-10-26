@@ -268,7 +268,7 @@ function render() {
       profAuto();
     } catch (e) {}
   }
-  dksMigrate();
+  sciMerge();
   const main = document.getElementById("main"),
     place = scrollSnap(main);
   renderMain();
