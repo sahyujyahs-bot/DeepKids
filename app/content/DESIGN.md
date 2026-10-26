@@ -47,6 +47,14 @@ Every unit cover and story picture is a full scene with a background, and it car
 - **Take the point of view.** Girls and women are often the ones doing the science. People share the scene with other living things as equals, not as the centre that everything serves.
 - **Simple and hand-made.** Few elements, loose brush strokes and imperfect lines; nothing glossy or machine-perfect.
 
+## Inspiration: the founder's SCI cards
+The SCI scientist trading cards show the look to borrow from (ideas only, not the cards themselves):
+- **A frame of hand-drawn doodles:** eyes, spirals, lotuses and moons on a red border, plus symbols from the subject itself (H and He, Ra and Po, E=mc²).
+- **Night-sky panels:** deep indigo and black behind the content, with stars and thin dashed lines joining people and ideas.
+- **Glowing colour on dark:** figures painted in iridescent violet, magenta, teal and acid green, with loose brush strokes and ink outlines.
+- **Symbols that mean something:** the third eye (seeing deeper), rarity halos (black hole, Sun, Saturn, Moon, asteroid), a deep violet mandala behind it all.
+- **Every picture is a true moment** from the person's life, told from their side.
+
 ## Founder notes
 - Don't make it all too Indian. Universal and vibrant first; Indian touches only where they come naturally (names, foods, places in content).
 - Stunning, vibrant illustrations and a few well-placed animations make the biggest difference.
