@@ -40,3 +40,13 @@
 - Neobrutalism (NFT and Dino World sets): thick black outlines, flat lime/lilac fills, hand-drawn stars and squiggles, chunky buttons, quiz screens with big answer pills ("What type of dinosaur is this?"). Good for quizzes and games.
 - Mobile store concept (Aleksey Kostiuk): bold single-colour backgrounds, character cards in a 2-column grid with filter chips. Good for the Library and the buy list.
 - Kidory e-book app: illustrated book covers, author avatars, a story page with Audio/Text toggle and a reading panel (brightness, background colour, text size). Good for stories and read-aloud.
+- Thinkeo (kids dashboard): "Hi, <child>", a week streak row with ticks, four big coloured subject tiles (Reading, Maths, Science, Creativity), "Continue learning" with a progress bar, badges row, 4-tab bar. Lesson screen: big illustration, a highlighted word, two big answer buttons, one Next button. **Closest to what DeepKids Today should feel like.**
+- AI assistant + roadmap: a big voice button with camera and video, "prompts left" counter (fits the AI top-up lock), quick chips (Week summary, Create new plan), and a roadmap timeline by Day/Week/Month/Year with bars per course. Good for Plan.
+- "Organize your day": calendar with a day strip and coloured task bars on a time line, "Today's tasks" and "Tomorrow tasks", a cute blob mascot. Good for the calendar.
+- Learning progress set: big % progress with a line chart, Total/Completed/Upcoming counters, weekly bar chart of lessons and hours. Good for Progress.
+- Illustrated calendar (Lotte Dirks style, for mood only): a soft painted landscape behind the month. Mood for the year plan.
+
+# Skills seen (look at when building that part; nothing installed)
+- dmccreary/ibook-skills: interactive textbooks, micro-simulations and quizzes. Look at for on-screen simulations in units.
+- "teach" skill (Matt Pocock): keeps a learner's progress across sessions in notes.md. Compare with our refresher and progress design.
+- "Anatomy": live behaviour models you can tweak on screen. Look at for physics simulations (forces, light).
