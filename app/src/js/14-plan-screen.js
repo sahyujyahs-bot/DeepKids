@@ -556,7 +556,6 @@ function goingView() {
     ex = (S.exps || []).filter((e) => !e.closed);
   const Q = S.qzopen?.run;
   let h =
-    `<section class="sec">${subjChips()}</section>` +
     (Q
       ? `<section class="sec"><div class="trow"><span class="tic">🎯</span><div style="min-width:0;flex:1"><b>Quick quiz</b><br><span class="xs muted">${Q.res.length} of ${Q.qs.length} answered · started ${fmt(S.qzopen.date)}</span></div><button class="btn sm" data-act="qzresume">Continue</button></div></section>`
       : "") +
@@ -577,17 +576,14 @@ function goingView() {
 }
 function newView() {
   const L = bySubj(workItems().filter((x) => x.pend));
-  return (
-    `<section class="sec">${subjChips()}<p class="sm muted">Ones you've queued stay here too, tagged Queued, until you start them.</p></section>` +
-    grouped(
-      L,
-      "Nothing pending. When you finish a lesson part, its worksheets, quizzes, experiments and activities that weren't started show up here.",
-      (x) =>
-        taskRow(
-          x,
-          `<div class="row" style="gap:10px;margin-top:4px">${x.q ? `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}">Take out of the queue</button>` : qPick(x.ty, x.u.subj, x.ref, "+ Queue", "link xs")}${ui.qpick === x.ref ? "" : `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}" data-how="skip">Not doing this</button>`}</div>`,
-        ),
-    )
+  return grouped(
+    L,
+    "Nothing pending. When you finish a lesson part, its worksheets, quizzes, experiments and activities that weren't started show up here.",
+    (x) =>
+      taskRow(
+        x,
+        `<div class="row" style="gap:10px;margin-top:4px">${x.q ? `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}">Take out of the queue</button>` : qPick(x.ty, x.u.subj, x.ref, "+ Queue", "link xs")}${ui.qpick === x.ref ? "" : `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}" data-how="skip">Not doing this</button>`}</div>`,
+      ),
   );
 }
 function queuesView() {
@@ -1226,11 +1222,6 @@ function planPart(k) {
   if (k === "pending") return newView();
   return goingView();
 }
-// To finish has three lists, one shown at a time
-const FIN = {
-  going: ["Keep going", "Lessons and parts your child started but hasn't finished."],
-  try: ["Still to try", "Parts of finished lessons not started yet, like a project or an experiment."],
-};
 // Plan: This week, Up next, To finish and Settings
 function viewPlanner() {
   const k = seg("week"),
@@ -1256,16 +1247,16 @@ function viewPlanner() {
         : L)
     );
   }
-  if (k === "finish") {
-    const f = FIN[ui.fin] ? ui.fin : "going";
+  // To finish: one subject filter, then the two lists one after the other
+  if (k === "finish")
     return (
       head +
-      `<section class="sec"><div class="seg">${Object.entries(FIN)
-        .map(([kk, [nm]]) => `<button aria-pressed="${f === kk}" data-act="fin" data-v="${kk}">${nm}</button>`)
-        .join("")}</div><p class="xs muted">${FIN[f][1]}</p></section>` +
-      (f === "going" ? planPart("ongoing") : planPart("pending"))
+      `<section class="sec">${subjChips()}</section>` +
+      `<section class="sec" id="finGoing"><h2 class="finh">Started, not finished</h2><p class="xs muted">Lessons and parts your child started, and a quiz left half-way.</p></section>` +
+      planPart("ongoing") +
+      `<section class="sec" id="finTry"><h2 class="finh">Not tried yet</h2><p class="xs muted">Parts of finished lessons not started yet, like a project or an experiment. Ones you've queued stay here too, tagged Queued.</p></section>` +
+      planPart("pending")
     );
-  }
   if (k === "refresh") return head + fxPractiseAll() + `<section class="sec">${rfsetBody()}</section>`;
   return head + planPart("tell");
 }

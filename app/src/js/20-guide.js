@@ -41,7 +41,7 @@ const GUIDE = {
   ],
   "week:finish": [
     [
-      '[data-act="fin"]',
+      "#finTry",
       "Two lists",
       "Keep going: started but not finished, including a quiz left half-way. Still to try: parts of finished lessons not started yet.",
     ],

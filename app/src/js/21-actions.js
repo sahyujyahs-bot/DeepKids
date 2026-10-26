@@ -832,12 +832,6 @@ function onAct(e) {
       commit();
       break;
     }
-    case "fin": {
-      ui.fin = b.dataset.v;
-      sfx("tap");
-      render();
-      break;
-    }
     case "pv": {
       ui.pv = b.dataset.v;
       sfx("tap");
@@ -1770,7 +1764,6 @@ function onAct(e) {
       navPush();
       tab = "week";
       ui.seg = { ...(ui.seg || {}), week: "finish" };
-      ui.fin = "going";
       sfx("flip");
       render();
       scrollTo(0, 0);

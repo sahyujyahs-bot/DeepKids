@@ -369,7 +369,7 @@ function viewToday() {
     f = focusOf(items, today);
   const lessons = real.filter((i) => i.kind === "lesson"),
     lessonsDone = lessons.length > 0 && lessons.every((i) => i.done),
-    left = real.filter((i) => !i.done && i !== f),
+    left = real.filter((i) => !i.done),
     doneL = real.filter((i) => i.done);
   let h = greetBar(
     `${S.child ? esc(S.child) + "'s day · " : ""}${longDate()} · ${real.length ? (f ? `${real.length - dn} thing${real.length - dn === 1 ? "" : "s"} left` : "all done") : "nothing planned"}`,
@@ -379,14 +379,11 @@ function viewToday() {
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
   h += fxTodayTop(!window.FXANIMED); // the summary animates in the first time only
   window.FXANIMED = 1;
-  h += `<section class="sec cal">${calHead(today)}`;
-  h += pastEvCard(real);
-  if (f) h += nowCard(f);
-  h += nudgeCard();
+  // what to do next comes first; the day toggle sits right above the day's list, which marks the next thing
+  h += `<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
-  if (left.length)
-    h += `<div class="sech" style="margin-top:12px"><h3>Later today</h3></div><div class="tt compact">${left.map((i) => tRow(i, today, null)).join("")}</div>`;
+  if (left.length) h += `<div class="tt compact">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
   if (doneL.length)
     h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
   {

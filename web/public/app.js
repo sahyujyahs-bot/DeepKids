@@ -8646,7 +8646,7 @@ const CATS = {
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];
-  let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)", 7, "happy", "", 'width="50" height="50"')}</div><div class="seg">${LIBT.map(([k, n]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}">${n}</button>`).join("")}</div><p class="xs muted segdesc">${esc((LIBT.find((x) => x[0] === t) || LIBT[0])[2])}</p></section>`;
+  let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)", 7, "happy", "", 'width="50" height="50"')}</div><div class="seg">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
   if (t === "science") h += scienceTab();
   if (t === "mine") h += myBooksTab();
@@ -9324,7 +9324,7 @@ function viewToday() {
     f = focusOf(items, today);
   const lessons = real.filter((i) => i.kind === "lesson"),
     lessonsDone = lessons.length > 0 && lessons.every((i) => i.done),
-    left = real.filter((i) => !i.done && i !== f),
+    left = real.filter((i) => !i.done),
     doneL = real.filter((i) => i.done);
   let h = greetBar(
     `${S.child ? esc(S.child) + "'s day · " : ""}${longDate()} · ${real.length ? (f ? `${real.length - dn} thing${real.length - dn === 1 ? "" : "s"} left` : "all done") : "nothing planned"}`,
@@ -9334,14 +9334,11 @@ function viewToday() {
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
   h += fxTodayTop(!window.FXANIMED); // the summary animates in the first time only
   window.FXANIMED = 1;
-  h += `<section class="sec cal">${calHead(today)}`;
-  h += pastEvCard(real);
-  if (f) h += nowCard(f);
-  h += nudgeCard();
+  // what to do next comes first; the day toggle sits right above the day's list, which marks the next thing
+  h += `<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
-  if (left.length)
-    h += `<div class="sech" style="margin-top:12px"><h3>Later today</h3></div><div class="tt compact">${left.map((i) => tRow(i, today, null)).join("")}</div>`;
+  if (left.length) h += `<div class="tt compact">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
   if (doneL.length)
     h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
   {
@@ -9956,7 +9953,6 @@ function goingView() {
     ex = (S.exps || []).filter((e) => !e.closed);
   const Q = S.qzopen?.run;
   let h =
-    `<section class="sec">${subjChips()}</section>` +
     (Q
       ? `<section class="sec"><div class="trow"><span class="tic">🎯</span><div style="min-width:0;flex:1"><b>Quick quiz</b><br><span class="xs muted">${Q.res.length} of ${Q.qs.length} answered · started ${fmt(S.qzopen.date)}</span></div><button class="btn sm" data-act="qzresume">Continue</button></div></section>`
       : "") +
@@ -9977,17 +9973,14 @@ function goingView() {
 }
 function newView() {
   const L = bySubj(workItems().filter((x) => x.pend));
-  return (
-    `<section class="sec">${subjChips()}<p class="sm muted">Ones you've queued stay here too, tagged Queued, until you start them.</p></section>` +
-    grouped(
-      L,
-      "Nothing pending. When you finish a lesson part, its worksheets, quizzes, experiments and activities that weren't started show up here.",
-      (x) =>
-        taskRow(
-          x,
-          `<div class="row" style="gap:10px;margin-top:4px">${x.q ? `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}">Take out of the queue</button>` : qPick(x.ty, x.u.subj, x.ref, "+ Queue", "link xs")}${ui.qpick === x.ref ? "" : `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}" data-how="skip">Not doing this</button>`}</div>`,
-        ),
-    )
+  return grouped(
+    L,
+    "Nothing pending. When you finish a lesson part, its worksheets, quizzes, experiments and activities that weren't started show up here.",
+    (x) =>
+      taskRow(
+        x,
+        `<div class="row" style="gap:10px;margin-top:4px">${x.q ? `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}">Take out of the queue</button>` : qPick(x.ty, x.u.subj, x.ref, "+ Queue", "link xs")}${ui.qpick === x.ref ? "" : `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}" data-how="skip">Not doing this</button>`}</div>`,
+      ),
   );
 }
 function queuesView() {
@@ -10626,11 +10619,6 @@ function planPart(k) {
   if (k === "pending") return newView();
   return goingView();
 }
-// To finish has three lists, one shown at a time
-const FIN = {
-  going: ["Keep going", "Lessons and parts your child started but hasn't finished."],
-  try: ["Still to try", "Parts of finished lessons not started yet, like a project or an experiment."],
-};
 // Plan: This week, Up next, To finish and Settings
 function viewPlanner() {
   const k = seg("week"),
@@ -10656,16 +10644,16 @@ function viewPlanner() {
         : L)
     );
   }
-  if (k === "finish") {
-    const f = FIN[ui.fin] ? ui.fin : "going";
+  // To finish: one subject filter, then the two lists one after the other
+  if (k === "finish")
     return (
       head +
-      `<section class="sec"><div class="seg">${Object.entries(FIN)
-        .map(([kk, [nm]]) => `<button aria-pressed="${f === kk}" data-act="fin" data-v="${kk}">${nm}</button>`)
-        .join("")}</div><p class="xs muted">${FIN[f][1]}</p></section>` +
-      (f === "going" ? planPart("ongoing") : planPart("pending"))
+      `<section class="sec">${subjChips()}</section>` +
+      `<section class="sec" id="finGoing"><h2 class="finh">Started, not finished</h2><p class="xs muted">Lessons and parts your child started, and a quiz left half-way.</p></section>` +
+      planPart("ongoing") +
+      `<section class="sec" id="finTry"><h2 class="finh">Not tried yet</h2><p class="xs muted">Parts of finished lessons not started yet, like a project or an experiment. Ones you've queued stay here too, tagged Queued.</p></section>` +
+      planPart("pending")
     );
-  }
   if (k === "refresh") return head + fxPractiseAll() + `<section class="sec">${rfsetBody()}</section>`;
   return head + planPart("tell");
 }
@@ -10831,7 +10819,7 @@ const clock24 = (m) => String(Math.floor(m / 60) % 24).padStart(2, "0") + ":" + 
 /* subject filter for the work lists (lessons have their own subject row) */
 const qfOf = () => (S.subjects.includes(ui.qf) ? ui.qf : "all");
 const subjChips = () =>
-  `<div class="seg">${["all", ...S.subjects].map((x) => `<button aria-pressed="${qfOf() === x}" data-act="qf" data-s="${x}">${x === "all" ? "All subjects" : SUBJ[x]}</button>`).join("")}</div>`;
+  `<div class="row" style="flex-wrap:wrap;gap:6px">${["all", ...S.subjects].map((x) => `<button class="chip" aria-pressed="${qfOf() === x}" data-act="qf" data-s="${x}">${x === "all" ? "All subjects" : SUBJ[x]}</button>`).join("")}</div>`;
 const bySubj = (L) => (qfOf() === "all" ? L : L.filter((x) => x.u?.subj === qfOf()));
 /* reorder: the moved items keep the slots they had, so a filtered list reorders only itself */
 /* Progress → History: everything finished, by kind and subject */
@@ -13904,7 +13892,7 @@ const GUIDE = {
   ],
   "week:finish": [
     [
-      '[data-act="fin"]',
+      "#finTry",
       "Two lists",
       "Keep going: started but not finished, including a quiz left half-way. Still to try: parts of finished lessons not started yet.",
     ],
@@ -14105,7 +14093,7 @@ const seg = (k) => {
 function segBar(k) {
   const cur = seg(k),
     L = SEGS[k];
-  return `<div class="seg segmain">${L.map(([v, n]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}">${n}</button>`).join("")}</div><p class="xs muted segdesc">${esc(L.find((x) => x[0] === cur)[2])}</p>`;
+  return `<div class="seg segmain">${L.map(([v, n, d]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}" title="${esc(d)}">${n}</button>`).join("")}</div>`;
 }
 const pageHead = (t, extra = "") =>
   `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${t}</h1>${extra}</div>`;
@@ -15282,12 +15270,6 @@ function onAct(e) {
       commit();
       break;
     }
-    case "fin": {
-      ui.fin = b.dataset.v;
-      sfx("tap");
-      render();
-      break;
-    }
     case "pv": {
       ui.pv = b.dataset.v;
       sfx("tap");
@@ -16220,7 +16202,6 @@ function onAct(e) {
       navPush();
       tab = "week";
       ui.seg = { ...(ui.seg || {}), week: "finish" };
-      ui.fin = "going";
       sfx("flip");
       render();
       scrollTo(0, 0);

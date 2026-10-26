@@ -56,7 +56,7 @@ const seg = (k) => {
 function segBar(k) {
   const cur = seg(k),
     L = SEGS[k];
-  return `<div class="seg segmain">${L.map(([v, n]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}">${n}</button>`).join("")}</div><p class="xs muted segdesc">${esc(L.find((x) => x[0] === cur)[2])}</p>`;
+  return `<div class="seg segmain">${L.map(([v, n, d]) => `<button aria-pressed="${cur === v}" data-act="seg" data-k="${k}" data-v="${v}" title="${esc(d)}">${n}</button>`).join("")}</div>`;
 }
 const pageHead = (t, extra = "") =>
   `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${t}</h1>${extra}</div>`;

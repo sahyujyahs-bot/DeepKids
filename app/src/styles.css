@@ -3578,8 +3578,9 @@ a.btn {
 .segmain {
   margin-top: 6px;
 }
-.segdesc {
-  margin: 6px 2px 0;
+.finh {
+  font-size: 22px;
+  margin: 10px 0 0;
 }
 .sgrp summary {
   cursor: pointer;
@@ -4546,7 +4547,6 @@ body.ai-locked .fxaskb .iam::after {
   aspect-ratio: 342 / 404;
   transform-origin: 50% 100%;
   animation: iambreathe 4.5s ease-in-out infinite;
-  filter: drop-shadow(0 4px 8px #0003);
 }
 .iamfig img {
   position: absolute;
@@ -4641,7 +4641,6 @@ body.ai-locked .fxaskb .iam::after {
   left: -64%;
   top: -5%;
   animation: none;
-  filter: none;
 }
 .iam.mini {
   width: 26px;
@@ -5766,9 +5765,6 @@ header.top .wrap {
 .fxfold summary::after {
   content: " ▾";
   color: var(--muted);
-}
-.segdesc {
-  margin-top: 6px !important;
 }
 #fxlogo {
   border: 0;
