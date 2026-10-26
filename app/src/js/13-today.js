@@ -371,7 +371,7 @@ function viewToday() {
     left = real.filter((i) => !i.done && i !== f),
     doneL = real.filter((i) => i.done);
   let h = greetBar(
-    `${longDate()} · ${real.length ? (f ? `${real.length - dn} thing${real.length - dn === 1 ? "" : "s"} left` : "all done") : "nothing planned"}`,
+    `${S.child ? esc(S.child) + "'s day · " : ""}${longDate()} · ${real.length ? (f ? `${real.length - dn} thing${real.length - dn === 1 ? "" : "s"} left` : "all done") : "nothing planned"}`,
   );
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;

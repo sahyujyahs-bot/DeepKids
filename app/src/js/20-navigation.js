@@ -325,7 +325,7 @@ function renderMain() {
   const sx = [...m.querySelectorAll(".hs")].map((x) => x.scrollLeft);
   const banner =
     !ob && nightDue()
-      ? `<button class="nightbar" data-act="night">${blob("var(--peri)", 17, "sleepy", "", 'width="34" height="34"')}<span><b>Tomorrow isn't ready yet</b><br><span class="xs">${nightItems().filter((p) => !S.prep[p.id]).length} things to get ready · tap to finish</span></span>${icon("next")}</button>`
+      ? `<button class="nightbar" data-act="night">${blob("var(--peri)", 17, "sleepy", "", 'width="34" height="34"')}<span><b>Get ready for tomorrow</b><br><span class="xs">${nightItems().filter((p) => !S.prep[p.id]).length} things to set up tonight for tomorrow's lessons · tap to see them</span></span>${icon("next")}</button>`
       : "";
   const vk = ob ? "ob" + ob.step : tab,
     kept = ui.lastView === vk ? keepInputs(m) : null;
