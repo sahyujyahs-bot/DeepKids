@@ -263,3 +263,7 @@ header.top #me{margin-left:auto}header.top .wrap{display:flex;align-items:center
 header.top #backTop{order:-1}
 
 .fxweek{display:none!important}
+/* progress cards: white text on the coloured subject cards */
+.scard,.scard .eyebrow,.scard .big,.scard .xs{color:#fff!important;opacity:1!important}
+.scard .eyebrow{font-weight:700}
+html,body{overflow-x:hidden}
