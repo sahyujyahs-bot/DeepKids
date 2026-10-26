@@ -42,6 +42,40 @@ function iamSay(el, text) {
   clearTimeout(el._iamT);
   el._iamT = setTimeout(() => el.classList.remove("iamtalk"), Math.min(7000, 1200 + text.length * 25));
 }
+// the family can drag him anywhere on the screen; where he sits is kept (as a share of the screen) in S.iamAt
+function iamPlace(b) {
+  const p = S.iamAt;
+  if (!p) return;
+  b.style.left = Math.min(Math.max(0, p.x * innerWidth), innerWidth - b.offsetWidth) + "px";
+  b.style.top = Math.min(Math.max(0, p.y * innerHeight), innerHeight - b.offsetHeight) + "px";
+  b.style.right = b.style.bottom = "auto";
+}
+function iamDrag(b) {
+  let st = null;
+  b.addEventListener("pointerdown", (e) => {
+    const r = b.getBoundingClientRect();
+    st = { x: e.clientX, y: e.clientY, dx: e.clientX - r.left, dy: e.clientY - r.top, moved: false };
+    b.setPointerCapture(e.pointerId);
+  });
+  b.addEventListener("pointermove", (e) => {
+    if (!st || (!st.moved && Math.hypot(e.clientX - st.x, e.clientY - st.y) < 8)) return;
+    st.moved = true;
+    S.iamAt = { x: (e.clientX - st.dx) / innerWidth, y: (e.clientY - st.dy) / innerHeight };
+    iamPlace(b);
+  });
+  b.addEventListener("pointerup", () => {
+    // a drag is not a tap: the click that follows it does not open the chat
+    if (st?.moved) {
+      b.dataset.dragged = 1;
+      save();
+    }
+    st = null;
+  });
+}
+function iamReplace() {
+  const b = document.getElementById("fxFab");
+  if (b) iamPlace(b);
+}
 // where the family is when they tap IAm: the screen or open panel, the words in the middle of the screen,
 // and a few questions that suit that place
 const IAM_ASKS = {

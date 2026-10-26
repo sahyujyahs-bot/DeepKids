@@ -353,13 +353,16 @@ function fxFab() {
   b.id = "fxFab";
   b.className = "fxfab";
   b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
-  b.setAttribute("aria-label", "Talk to IAm, the DeepKids teacher (AI)");
+  b.setAttribute("aria-label", "Talk to IAm, the DeepKids teacher (AI). Drag to move him.");
   b.onclick = () => {
+    if (b.dataset.dragged) return delete b.dataset.dragged;
     iamLook();
     const at = iamWhere();
     fxChat(at.about, false, at);
   };
   document.body.appendChild(b);
+  iamDrag(b);
+  iamPlace(b);
   iamFollow();
 }
 // AI is on for families with DeepKids Plus (on the website), or when switched on for testing

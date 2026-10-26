@@ -9278,7 +9278,7 @@ function quickAdd(date) {
      .join("")}</div>
    ${!todo && r === "pick" ? `<div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button type="button" aria-pressed="${days.includes(d)}" data-act="qday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>` : ""}
    <label class="sm">${!todo && r !== "once" ? "Starting" : "On"} <input class="inp" id="qa-d" type="date" value="${Q.d || date}" style="width:auto"></label>
-   <button class="btn sm" data-act="qaddq" style="justify-self:start">Add</button><p class="xs muted">${todo ? "A to-do shows on that day's list and in Plan → To do." : r === "once" ? "Leave the time empty for a to-do any time that day." : "Repeats every week on those days. Change or remove it any time under “What you've told us”."}</p></div>`;
+   <button class="btn sm" data-act="qaddq" style="justify-self:start">Add</button><p class="xs muted">${todo ? "A to-do shows on that day's list, and all of them are in Plan → This week, under “Your to-dos”." : r === "once" ? "Leave the time empty for a to-do any time that day." : "Repeats every week on those days. Change or remove it any time under “What you've told us”."}</p></div>`;
 }
 function parentView() {
   const p = S.parent || {},
@@ -9550,7 +9550,7 @@ function subjCard() {
       "",
     )}</div></section>${S.board === "waldorf" ? `<button class="menurow" data-act="wfguide">${blob("var(--sun)", 31, "happy", "", 'width="40" height="40"')}<span><b>Waldorf at home</b><br><span class="xs muted">Rhythm, festivals, materials and books for each class</span></span>${icon("next")}</button>` : ""}`;
 }
-/* Plan → To do: your own to-dos, and getting ready for the coming lessons */
+/* Plan → This week, folded at the bottom: your own to-dos, and getting ready for the coming lessons */
 function prepAhead(days) {
   const end = addDays(today, days),
     out = [];
@@ -13309,13 +13309,16 @@ function fxFab() {
   b.id = "fxFab";
   b.className = "fxfab";
   b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
-  b.setAttribute("aria-label", "Talk to IAm, the DeepKids teacher (AI)");
+  b.setAttribute("aria-label", "Talk to IAm, the DeepKids teacher (AI). Drag to move him.");
   b.onclick = () => {
+    if (b.dataset.dragged) return delete b.dataset.dragged;
     iamLook();
     const at = iamWhere();
     fxChat(at.about, false, at);
   };
   document.body.appendChild(b);
+  iamDrag(b);
+  iamPlace(b);
   iamFollow();
 }
 // AI is on for families with DeepKids Plus (on the website), or when switched on for testing
@@ -13364,6 +13367,40 @@ function iamSay(el, text) {
   el.classList.add("iamtalk");
   clearTimeout(el._iamT);
   el._iamT = setTimeout(() => el.classList.remove("iamtalk"), Math.min(7000, 1200 + text.length * 25));
+}
+// the family can drag him anywhere on the screen; where he sits is kept (as a share of the screen) in S.iamAt
+function iamPlace(b) {
+  const p = S.iamAt;
+  if (!p) return;
+  b.style.left = Math.min(Math.max(0, p.x * innerWidth), innerWidth - b.offsetWidth) + "px";
+  b.style.top = Math.min(Math.max(0, p.y * innerHeight), innerHeight - b.offsetHeight) + "px";
+  b.style.right = b.style.bottom = "auto";
+}
+function iamDrag(b) {
+  let st = null;
+  b.addEventListener("pointerdown", (e) => {
+    const r = b.getBoundingClientRect();
+    st = { x: e.clientX, y: e.clientY, dx: e.clientX - r.left, dy: e.clientY - r.top, moved: false };
+    b.setPointerCapture(e.pointerId);
+  });
+  b.addEventListener("pointermove", (e) => {
+    if (!st || (!st.moved && Math.hypot(e.clientX - st.x, e.clientY - st.y) < 8)) return;
+    st.moved = true;
+    S.iamAt = { x: (e.clientX - st.dx) / innerWidth, y: (e.clientY - st.dy) / innerHeight };
+    iamPlace(b);
+  });
+  b.addEventListener("pointerup", () => {
+    // a drag is not a tap: the click that follows it does not open the chat
+    if (st?.moved) {
+      b.dataset.dragged = 1;
+      save();
+    }
+    st = null;
+  });
+}
+function iamReplace() {
+  const b = document.getElementById("fxFab");
+  if (b) iamPlace(b);
 }
 // where the family is when they tap IAm: the screen or open panel, the words in the middle of the screen,
 // and a few questions that suit that place
@@ -17018,6 +17055,7 @@ document
 document.getElementById("backTop").onclick = goBack;
 document.getElementById("guideBtn").onclick = onGuideBtn;
 addEventListener("resize", guideResize);
+addEventListener("resize", iamReplace);
 document.addEventListener("change", (e) => {
   if (e.target.id === "mbFile") onMyBookFiles(e.target.files);
 });

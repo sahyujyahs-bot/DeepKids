@@ -162,7 +162,7 @@ function subjCard() {
       "",
     )}</div></section>${S.board === "waldorf" ? `<button class="menurow" data-act="wfguide">${blob("var(--sun)", 31, "happy", "", 'width="40" height="40"')}<span><b>Waldorf at home</b><br><span class="xs muted">Rhythm, festivals, materials and books for each class</span></span>${icon("next")}</button>` : ""}`;
 }
-/* Plan → To do: your own to-dos, and getting ready for the coming lessons */
+/* Plan → This week, folded at the bottom: your own to-dos, and getting ready for the coming lessons */
 function prepAhead(days) {
   const end = addDays(today, days),
     out = [];

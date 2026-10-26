@@ -4501,9 +4501,12 @@ input.fxin {
   display: grid;
   justify-items: center;
   gap: 2px;
+  touch-action: none;
+  cursor: grab;
 }
 .fxfab .iam {
   width: 76px;
+  pointer-events: none;
 }
 /* not during setup, where he would cover the Continue button */
 body:has(.ob) .fxfab {
