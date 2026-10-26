@@ -545,7 +545,7 @@ function goingView() {
 function newView() {
   const L = bySubj(workItems().filter((x) => x.pend));
   return (
-    `<section class="sec">${subjChips()}<p class="sm muted">Not started yet, from lesson parts you've done. Queued ones stay here too, tagged Queued, until you start them.</p></section>` +
+    `<section class="sec">${subjChips()}<p class="sm muted">Ones you've queued stay here too, tagged Queued, until you start them.</p></section>` +
     grouped(
       L,
       "Nothing pending. When you finish a lesson part, its worksheets, quizzes, experiments and activities that weren't started show up here.",
@@ -1193,6 +1193,12 @@ function planPart(k) {
   if (k === "pending") return newView();
   return goingView();
 }
+// To finish has three lists, one shown at a time
+const FIN = {
+  going: ["Keep going", "Lessons and parts your child started but hasn't finished."],
+  try: ["Still to try", "Parts of finished lessons not started yet, like a project or an experiment."],
+  again: ["Practise again", "Questions your child got wrong, and finished units to review."],
+};
 // Plan: This week, Up next, To finish and Settings
 function viewPlanner() {
   const k = seg("week"),
@@ -1218,11 +1224,16 @@ function viewPlanner() {
         : L)
     );
   }
-  if (k === "finish")
+  if (k === "finish") {
+    const f = FIN[ui.fin] ? ui.fin : "going";
     return (
       head +
-      `<h3 class="fxsh">Started</h3>${planPart("ongoing")}<h3 class="fxsh">Done, but parts left</h3>${planPart("pending")}<h3 class="fxsh">Practise again</h3>${fxPractiseAll()}`
+      `<section class="sec"><div class="seg">${Object.entries(FIN)
+        .map(([kk, [nm]]) => `<button aria-pressed="${f === kk}" data-act="fin" data-v="${kk}">${nm}</button>`)
+        .join("")}</div><p class="xs muted">${FIN[f][1]}</p></section>` +
+      (f === "going" ? planPart("ongoing") : f === "try" ? planPart("pending") : fxPractiseAll())
     );
+  }
   return head + planPart("tell");
 }
 async function runDump() {

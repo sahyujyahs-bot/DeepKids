@@ -40,11 +40,10 @@ const GUIDE = {
     ],
   ],
   "week:finish": [
-    [".fxsh", "Started", "Lessons and parts your child started but hasn't finished."],
     [
-      '[data-act="fxpractise"],.fxprac,#main .card:last-of-type',
-      "Practise again",
-      "Every question your child got wrong, and finished units to review, so nothing is forgotten.",
+      '[data-act="fin"]',
+      "Three lists",
+      "Keep going: started but not finished. Still to try: parts of finished lessons not started yet. Practise again: questions to go over, so nothing is forgotten.",
     ],
   ],
   "week:family": [

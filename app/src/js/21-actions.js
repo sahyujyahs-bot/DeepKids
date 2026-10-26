@@ -832,6 +832,12 @@ function onAct(e) {
       commit();
       break;
     }
+    case "fin": {
+      ui.fin = b.dataset.v;
+      sfx("tap");
+      render();
+      break;
+    }
     case "pv": {
       ui.pv = b.dataset.v;
       sfx("tap");

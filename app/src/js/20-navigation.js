@@ -28,7 +28,7 @@ const SEGS = {
   week: [
     ["cal", "This week", "What's planned, day by day. Tap a day to see it."],
     ["next", "Up next", "What comes next in each subject. Drag to change the order."],
-    ["finish", "To finish", "Started, half-done and questions to practise again."],
+    ["finish", "To finish", "What your child started, what is still to try, and what to practise again."],
     [
       "family",
       "Settings",
