@@ -13,5 +13,6 @@ trap 'kill $SERVER' EXIT
 sleep 1
 node "$ROOT/app/tests/matrix.js" http://127.0.0.1:8777/app.html
 node "$ROOT/app/tests/clickall.js" http://127.0.0.1:8777/app.html
+node "$ROOT/app/tests/unitflow.js" http://127.0.0.1:8777/app.html
 [ "$1" = snapshot ] && node "$ROOT/app/tests/snapshot.js" http://127.0.0.1:8777/app.html "${2:-$ROOT/app/tests/snapshots}"
 exit 0

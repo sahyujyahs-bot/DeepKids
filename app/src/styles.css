@@ -1597,23 +1597,6 @@ dialog.sheet::backdrop {
 .ob h1 {
   font-size: clamp(30px, 7.6vw, 42px);
 }
-.crowd {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: var(--r-xl);
-  background: var(--surface);
-}
-.obbar {
-  display: flex;
-  gap: 6px;
-}
-.obbar i {
-  flex: 1;
-  height: 8px;
-  border-radius: 9px;
-  background: var(--line);
-}
 .choices {
   display: grid;
   gap: 10px;
@@ -4967,13 +4950,6 @@ dialog.sheet .fxfab {
 .fxrefn.ok {
   background: color-mix(in srgb, var(--good) 18%, var(--surface));
 }
-.fxref {
-  display: grid;
-  gap: 8px;
-}
-.fxref .fxask {
-  background: var(--sunk);
-}
 .fxkp {
   display: inline-flex;
   align-items: center;
@@ -5296,9 +5272,6 @@ header.top .hello b {
 .choice b {
   font: 700 18px var(--body) !important;
   color: var(--ink) !important;
-}
-.obbar i.on {
-  background: var(--margin) !important;
 }
 .fxtoday {
   gap: 14px;

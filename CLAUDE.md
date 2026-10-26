@@ -3,7 +3,9 @@
 A homeschool app for Indian families with children aged 6 to 10 (app.deepkids.in). This repository also holds the shop website files at the root (www.deepkids.in); the app lives in `app/` and its website build in `web/`.
 
 ## Where things are
-- `app/src/`: the app's source. `index.html` is the page shell, `styles.css` is the one stylesheet, and `js/*.js` is the code, joined in file-name order into one script.
+- `app/src/`: the app's source. `index.html` is the page shell, `styles.css` is the one stylesheet, and `js/*.js` is the code, one file per feature (`07-day-plan.js`, `13-today.js`, `11-units.js`…), joined in file-name order into one script that shares one global scope.
+  - Put a function in its feature's file. Functions can go anywhere; a `const` that is computed while the page loads must come after what it reads (the build order is the file order).
+  - `22-startup.js` holds everything that runs at load (event listeners, timers, `boot()`), in the order it must run. Add new wiring there, with the handler written as a named function in its feature file.
 - `app/content/`: lessons and units (JSON), plus the rules for writing them (`PHILOSOPHY.md`, `TRACKS.md`, `WRITING.md`, `DESIGN.md`, `units/SPEC_UNIT.md`).
 - `app/build/`: Python scripts that turn content into `data.json`, and `build_app.py`, which builds the app.
 - `app/tests/`: browser checks (Playwright).
@@ -15,7 +17,7 @@ python3 app/build/combined/build.py   # content -> data.json (after changing uni
 python3 app/build/build_app.py        # app/src -> app/index.html + app/build/template.html
 python3 web/build_web.py              # -> web/public (deployed to app.deepkids.in on push)
 cd app && npm run lint                # ESLint (0 problems) + Prettier check
-sh app/tests/run.sh                   # every family type and every button, in a real browser
+sh app/tests/run.sh                   # every family type, every button, and a unit worked through, in a real browser
 ```
 - A change to how anything looks or behaves: run `sh app/tests/run.sh snapshot /tmp/before` before the change and the same with `/tmp/after` afterwards, then compare the folders. Screens are reproducible to the pixel, so any difference is real.
 - Never commit live user data, keys or phone numbers.
