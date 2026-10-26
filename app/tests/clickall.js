@@ -57,6 +57,7 @@ const SCREENS = [
         Object.assign(S, JSON.parse(snap));
         if (sheet.open) sheet.close();
         document.getElementById("fxDlg")?.close?.();
+        document.getElementById("fxChat")?.close?.();
         ui.seg = ui.seg || {};
         if (t === "unit") {
           tab = "library";
