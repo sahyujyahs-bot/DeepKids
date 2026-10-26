@@ -93,8 +93,8 @@ function toast(m, ms) {
   const t = document.createElement("div");
   t.className = "toast";
   t.textContent = m;
-  const sh = document.getElementById("sheet");
-  (sh && sh.open ? sh : document.body).appendChild(t);
+  // inside the open dialog on top (a sheet, the chat, a unit), or the message would be hidden behind it
+  ([...document.querySelectorAll("dialog[open]")].pop() || document.body).appendChild(t);
   setTimeout(() => t.remove(), ms || Math.max(2200, m.length * 60));
 }
 const IC = {

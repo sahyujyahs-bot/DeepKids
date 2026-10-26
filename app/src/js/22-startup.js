@@ -211,6 +211,7 @@ document
     `<button class="iconbtn" id="backTop" aria-label="Back" hidden>${icon("back")}</button>`,
   );
 document.getElementById("backTop").onclick = goBack;
+document.getElementById("guideBtn").onclick = onGuideBtn;
 document.addEventListener(
   "input",
   (e) => {
@@ -863,11 +864,12 @@ document.addEventListener(
   "click",
   (e) => {
     if (fxAIOn()) return;
-    const b = e.target.closest('[data-fx="chat"],[data-fx="askcard"],[data-fx="photo"],.fxchat,#fxChat');
+    // the buttons that open an AI feature; the chat's own buttons (like its close button) are never blocked
+    const b = e.target.closest('[data-fx="chat"],[data-fx="askcard"],[data-fx="photo"],.fxfab');
     if (!b) return;
     e.preventDefault();
     e.stopPropagation();
-    toast("🔒 This uses AI. It unlocks when you top up (coming soon). For testing: Plan → Pace → AI features.", 6000);
+    toast("🔒 Asking DeepKids uses AI, which is part of DeepKids Plus.", 6000);
   },
   true,
 );

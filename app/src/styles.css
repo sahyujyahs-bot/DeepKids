@@ -5664,3 +5664,51 @@ body {
   margin-top: 40px;
   text-align: center;
 }
+/* walkthrough mode */
+#guideBtn {
+  margin-left: auto;
+}
+#guideBtn .gq {
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border: 2px solid var(--ink);
+  border-radius: 50%;
+  font: 700 15px/1 var(--body);
+  color: var(--ink);
+}
+#guide {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+}
+#guide .ghole {
+  position: fixed;
+  border-radius: var(--r-lg);
+  box-shadow: 0 0 0 9999px rgba(30, 20, 54, 0.62);
+  outline: 3px solid var(--sun);
+  transition: all 0.25s ease;
+  pointer-events: none;
+}
+#guide .gbub {
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  max-width: 440px;
+  margin: 0 auto;
+  display: grid;
+  gap: 6px;
+  padding: 16px;
+  background: var(--surface);
+  color: var(--ink);
+  border-radius: var(--r-xl);
+  border: 2px solid var(--ink);
+  animation: up 0.25s ease;
+}
+#guide .gbub b {
+  font: 400 22px var(--poster);
+}
+#guide .gbub p {
+  margin: 0;
+}

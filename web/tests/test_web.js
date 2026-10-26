@@ -20,7 +20,9 @@ const server = http.createServer((req, res) => { let p = decodeURIComponent(req.
   console.log('1. platform:', await p.evaluate(() => window.DK_PLATFORM?.name), '| app loaded:', await p.evaluate(() => typeof render === 'function'), '| DATA items:', await p.evaluate(() => DATA.items.length));
   await p.fill('#lgPhone', '81234 56789'); await p.fill('#lgName', 'Sahyujyah'); await p.click('[data-act="login"]'); await p.waitForTimeout(800);
   await p.fill('#obName', 'Liri'); await p.click('[data-age="8"]'); await p.click('[data-ob="next"]'); await p.click('[data-obtrack="board"]');
-  for (let i = 0; i < 8; i++) { await p.evaluate(() => { for (let j = 0; j < 12; j++) { const c = [...document.querySelectorAll('[data-oblvl$=":3"]')].find(x => x.getAttribute('aria-pressed') !== 'true'); if (!c) break; c.click() } }); const n = await p.$('[data-ob="next"]'); if (!n) break; await n.click(); await p.waitForTimeout(150) } await p.waitForTimeout(800);
+  for (let i = 0; i < 8; i++) { await p.evaluate(() => { for (let j = 0; j < 12; j++) { const c = [...document.querySelectorAll('[data-oblvl$=":3"]')].find(x => x.getAttribute('aria-pressed') !== 'true'); if (!c) break; c.click() } }); const n = await p.$('[data-ob="next"]'); if (!n) break; await n.click(); await p.waitForTimeout(150) }
+  await p.evaluate(() => { S.guide = { on: false }; ui.guide = null; document.getElementById("guide")?.remove(); }); // walkthrough off: guide.js tests it
+ await p.waitForTimeout(800);
   const saved = await p.evaluate(() => Object.keys(JSON.parse(localStorage.getItem('fake-sb')).docs));
   console.log('2. saved docs:', saved, '| sync:', await p.evaluate(() => syncMode), '| set up:', await p.evaluate(() => S.setup + ' step ' + (ob && ob.step)));
   // reload: comes back from the database, not just this browser

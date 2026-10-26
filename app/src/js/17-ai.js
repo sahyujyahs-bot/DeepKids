@@ -336,4 +336,5 @@ function fxFab() {
     sh.appendChild(c);
   }
 }
-const fxAIOn = () => S.aiPlan === "on";
+// AI is on for families with DeepKids Plus (on the website), or when switched on for testing
+const fxAIOn = () => S.aiPlan === "on" || !!window.DK_PLATFORM?.plus?.()?.on;

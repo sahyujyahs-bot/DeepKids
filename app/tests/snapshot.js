@@ -86,6 +86,12 @@ const FREEZE = () => {
       await n.click();
       await p.waitForTimeout(250);
     }
+    await p.evaluate(() => {
+      S.guide = { on: false };
+      ui.guide = null;
+      document.getElementById("guide")?.remove();
+    }); // walkthrough off: guide.js tests it
+
     const tabs = [
       ["today", null],
       ["week", "cal"],

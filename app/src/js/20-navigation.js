@@ -159,6 +159,12 @@ function settingsView() {
       )}</select><p class="xs muted">${esc(MODES[modeOf()][1])}</p><label class="toggle" style="box-shadow:none;padding:0"><input type="checkbox" id="sExam" ${S.exam ? "checked" : ""}><span><b style="font:600 16px var(--display)">Exam track</b><br><span class="xs muted">Every syllabus chapter comes first, in a sensible order, so nothing is missed before exams.</span></span></label><button class="btn sm" data-act="saveset" style="justify-self:start">Save</button>
     <span class="eyebrow" style="margin-top:8px">Syllabus</span><p class="sm">${S.board === "none" ? "DeepKids Plus only" : S.board === "combined" ? "NCERT, Cambridge and NIOS" : BOARDS[S.board]}${S.plus && S.board !== "none" ? " + DeepKids Plus" : ""} · ${S.subjects.map((s) => SUBJ[s]).join(", ")}</p><button class="btn line sm" data-act="redo" style="justify-self:start">Change syllabus or subjects</button>`,
   )}
+  ${grp(
+    "guide",
+    "Walkthrough",
+    S.guide?.on === false ? "Off" : "On: each screen shows its tips the first time",
+    `<label class="zrow"><input type="checkbox" data-act="guidetoggle" ${S.guide?.on === false ? "" : "checked"}><span>Show tips on each screen</span></label><p class="xs muted">Turning it on again shows every screen's tips once more. The ? at the top shows the tips for the screen you're on at any time.</p>`,
+  )}
   ${grp("day", "Your day", `Lessons from ${clock(hm(D().start))} · lunch ${clock(hm(D().lunch))}`, plPart("day"))}
   ${grp("cal", "Calendar link", S.cal?.on ? "Google Calendar linked" : "Not linked", calendarCard())}
   ${grp("rem", "Reminders", R.time ? `Daily at ${clock(hm(R.time))}` : "Free-time nudges on Today", remView())}
@@ -275,6 +281,7 @@ function render() {
   try {
     fxWay();
   } catch (e) {}
+  guideCheck();
 }
 function renderMain() {
   if (tab === "today" && ui.lastTab && ui.lastTab !== "today") ui.tday = null;
@@ -289,6 +296,7 @@ function renderMain() {
   if (!ACC) {
     nav.hidden = true;
     document.getElementById("me").hidden = true;
+    document.getElementById("guideBtn").hidden = true;
     document.getElementById("snd").hidden = true;
     document.getElementById("hello").innerHTML =
       `${youBlob("bl bob")}<div><b>Welcome</b><span>DeepKids home planner</span></div>`;
@@ -304,6 +312,7 @@ function renderMain() {
   if (!S.setup && !ob) return startOnboarding(0);
   nav.hidden = !!ob;
   document.getElementById("me").hidden = !!ob;
+  document.getElementById("guideBtn").hidden = !!ob;
   document.getElementById("snd").innerHTML = icon(soundOn ? "sound" : "mute");
   document.getElementById("snd").setAttribute("aria-label", soundOn ? "Turn sound off" : "Turn sound on");
   document.getElementById("me").innerHTML = icon("grid");

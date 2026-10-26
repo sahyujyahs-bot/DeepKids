@@ -64,6 +64,12 @@ const server = http.createServer((req, res) => {
     await n.click();
     await p.waitForTimeout(200);
   }
+  await p.evaluate(() => {
+    S.guide = { on: false };
+    ui.guide = null;
+    document.getElementById("guide")?.remove();
+  }); // walkthrough off: guide.js tests it
+
   console.log("set up:", await p.evaluate(() => S.setup));
   // a fresh browser: only the sign-in survives, the family's data has to come from the database
   await p.evaluate(() => {

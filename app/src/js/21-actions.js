@@ -1514,6 +1514,11 @@ function onAct(e) {
       scrollTo(0, 0);
       break;
     }
+    case "guidetoggle": {
+      guideToggle(b.checked);
+      renderSheet();
+      break;
+    }
     case "sndtoggle": {
       document.getElementById("snd")?.click();
       setTimeout(() => {

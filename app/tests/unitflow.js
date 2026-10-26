@@ -45,6 +45,12 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
     await n.click();
     await p.waitForTimeout(150);
   }
+  await p.evaluate(() => {
+    S.guide = { on: false };
+    ui.guide = null;
+    document.getElementById("guide")?.remove();
+  }); // walkthrough off: guide.js tests it
+
   const id = "sci.materials.magnetic-materials.L3";
   await p.evaluate((id) => fxOpen(id), id);
   await p.waitForTimeout(800);
