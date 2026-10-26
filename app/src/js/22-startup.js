@@ -212,6 +212,9 @@ document
   );
 document.getElementById("backTop").onclick = goBack;
 document.getElementById("guideBtn").onclick = onGuideBtn;
+document.addEventListener("change", (e) => {
+  if (e.target.id === "mbFile") onMyBookFiles(e.target.files);
+});
 document.addEventListener(
   "input",
   (e) => {

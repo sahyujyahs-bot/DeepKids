@@ -5731,7 +5731,7 @@ body {
   margin: 0;
 }
 </style>
-<style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}</style>
+<style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
 <body>
 <div id="dkLoading">DeepKids is opening…</div>
@@ -5740,7 +5740,7 @@ body {
 <header class="top"><div class="wrap">
   <div class="hello" id="hello"></div>
   <button class="iconbtn" id="snd" aria-label="Turn sound off"></button>
-  <button class="iconbtn" id="guideBtn" aria-label="Show tips for this screen"><span class="gq">?</span></button>
+  <button class="iconbtn" id="guideBtn" aria-label="Show tips for this screen" hidden><span class="gq">?</span></button>
   <button class="iconbtn" id="me" aria-label="Settings"></button>
 </div></header>
 <main id="main"></main>
@@ -5761,9 +5761,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="62247eb789f2d4"</script>
-<script src="/config.js?v=62247eb789f2d4"></script>
+<script>window.DK_BUILD="7f9d6e9d61f2d4";window.DK_APPV="7f9d6e9d61";window.DK_DATAV="f2d4d9678c"</script>
+<script src="/config.js?v=7f9d6e9d61f2d4"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=62247eb789f2d4"></script>
+<script src="/platform.js?v=7f9d6e9d61f2d4"></script>
 </body>
 </html>

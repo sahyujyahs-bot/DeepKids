@@ -78,12 +78,12 @@ index = f'''<!doctype html>
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="DeepKids">
 {head}
-<style>html,body{{margin:0;background:var(--bg,#FFF6EC)}}#dkLoading{{position:fixed;inset:0;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#2B2340;background:#FFF6EC}}</style>
+<style>html,body{{margin:0;background:var(--bg,#FFF6EC)}}#dkLoading{{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}}</style>
 </head>
 <body>
 <div id="dkLoading">DeepKids is opening…</div>
 {body}
-<script>window.DK_BUILD="{build}"</script>
+<script>window.DK_BUILD="{build}";window.DK_APPV="{app_hash}";window.DK_DATAV="{data_hash}"</script>
 <script src="/config.js?v={build}"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
 <script src="/platform.js?v={build}"></script>

@@ -1514,6 +1514,18 @@ function onAct(e) {
       scrollTo(0, 0);
       break;
     }
+    case "mbmake": {
+      myBooksMake();
+      break;
+    }
+    case "mbplan": {
+      myBookPlan(b.dataset.k);
+      break;
+    }
+    case "mbdel": {
+      myBookRemove(b.dataset.id);
+      break;
+    }
     case "guidetoggle": {
       guideToggle(b.checked);
       renderSheet();

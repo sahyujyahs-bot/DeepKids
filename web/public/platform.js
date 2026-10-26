@@ -80,14 +80,15 @@
       const run=document.createElement("div");run.className="dk-ai-run";run.textContent="✦ Using DeepKids AI…";document.body.appendChild(run);
       try{return await callAI(input,opts)}finally{run.remove()}}
     async function callAI(input,opts={}){const imgs=[];for(const b of (opts.images||[]).slice(0,8)){const s=await shrink(b,1568,.85);imgs.push({media_type:s.type&&s.type.startsWith("image/")?s.type:"image/jpeg",data:await toB64(s)})}
-      const body={input,images:imgs,tier:opts.modelTier||"default"};
+      const docs=[];for(const b of (opts.docs||[]).slice(0,2))docs.push({media_type:"application/pdf",data:await toB64(b)});
+      const body={input,images:imgs,docs,tier:opts.modelTier||"default"};
       let r;try{r=await fetch(C.functionsUrl||(C.supabaseUrl+"/functions/v1/claude"),{method:"POST",headers:{"content-type":"application/json",authorization:"Bearer "+await token(),apikey:C.supabaseAnonKey||""},body:JSON.stringify(body),signal:opts.signal})}catch(e){throw err("unavailable","Couldn't reach DeepKids just now.")}
       let j=null;try{j=await r.json()}catch(e){}
       if(!r.ok)throw err(j?.code||(r.status===429?"rate_limited":r.status===401?"not_granted":"unavailable"),j?.message||("HTTP "+r.status));
       return j}
     const sample=async(input,opts)=>{const j=await call(input,opts);if(opts?.onText)try{opts.onText({text:j.text,delta:j.text})}catch(e){}return {text:j.text||"",truncated:!!j.truncated}};
     sample.json=async(input,opts)=>{const j=await call(input,{...opts,json:true});if(j.json===undefined||j.json===null)throw err("invalid_json","No JSON in the answer");return j.json};
-    sample.limits=async()=>({images:true});
+    sample.limits=async()=>({images:true,docs:true});
     return Object.freeze(sample)}
 
   /* ---------- assets: photos and files in private storage ---------- */
@@ -152,6 +153,9 @@
   /* ---------- load the app ---------- */
   function load(src){return new Promise((res,rej)=>{const s=document.createElement("script");s.src=src;s.onload=res;s.onerror=()=>rej(new Error("load "+src));document.head.appendChild(s)})}
   async function boot(){
+    // the content is the big download: start it now, while signing in happens. Its version changes only when the
+    // lessons change, so after the first visit it comes from the phone's cache
+    const content=load("/data.js?v="+(window.DK_DATAV||window.DK_BUILD||""));content.catch(()=>{});
     if(T){sb=T.supabase;session=T.session;uid=session.user.id}
     else{if(!ready)return signInScreen();sb=window.supabase.createClient(C.supabaseUrl,C.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true,flowType:"pkce"}});
       const {data}=await sb.auth.getSession();session=data?.session;
@@ -159,7 +163,7 @@
       uid=session.user.id;if(location.search.includes("code="))history.replaceState(null,"",location.pathname);
       sb.auth.onAuthStateChange((ev,s)=>{if(ev==="SIGNED_OUT")location.reload();if(s)session=s})}
     await plusStatus();install();await startSW();
-    const v=window.DK_BUILD||"";document.getElementById("dkLoading")?.remove();
-    await load("/data.js?v="+v);await load("/app.js?v="+v)}
+    const wait=document.getElementById("dkLoading");if(wait)wait.textContent="Getting your lessons ready…";
+    await content;await load("/app.js?v="+(window.DK_APPV||window.DK_BUILD||""));wait?.remove()}
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",boot);else boot();
 })();

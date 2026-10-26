@@ -1,5 +1,5 @@
 // DeepKids: Claude for the website.
-// The app sends { input, images, tier }; this function checks the signed-in parent, applies a daily limit,
+// The app sends { input, images, docs, tier } (docs: PDFs, such as a family's own book); this function checks the signed-in parent, applies a daily limit,
 // calls Claude with the server's API key, and returns { text, json }.
 // Secrets (Supabase dashboard -> Edge Functions -> Secrets): ANTHROPIC_API_KEY
 // REQUIRE_PLUS (default "true"): only families with an active row in public.plans can use Claude
@@ -56,6 +56,7 @@ export function extractJson(text: string): unknown {
 }
 
 type Img = { media_type: string; data: string };
+const MAX_DOC_B64 = 14_000_000; // about 10 MB of PDF
 type Turn = { role: "user" | "assistant"; content: string };
 
 Deno.serve(async (req) => {
@@ -82,9 +83,10 @@ Deno.serve(async (req) => {
   const { data: use } = await admin.from("ai_usage").select("calls,in_tokens,out_tokens").eq("user_id", user.id).eq("day", day).maybeSingle();
   if ((use?.calls ?? 0) >= DAILY_CALLS) return reply(req, 429, { code: "rate_limited", message: "That's a lot for one day. Try again tomorrow." });
 
-  let body: { input?: string | Turn[]; images?: Img[]; tier?: string };
+  let body: { input?: string | Turn[]; images?: Img[]; docs?: Img[]; tier?: string };
   try { body = await req.json(); } catch { return reply(req, 400, { code: "bad_request", message: "Bad JSON" }); }
   const imgs = (body.images ?? []).slice(0, 8).filter((i) => /^image\/(jpeg|png|webp|gif)$/.test(i.media_type) && typeof i.data === "string");
+  const docs = (body.docs ?? []).slice(0, 2).filter((d) => d.media_type === "application/pdf" && typeof d.data === "string" && d.data.length <= MAX_DOC_B64);
   const turns: Turn[] = typeof body.input === "string" ? [{ role: "user", content: body.input }] : (body.input ?? []);
   if (!turns.length || turns[turns.length - 1].role !== "user") return reply(req, 400, { code: "bad_request", message: "Nothing to answer" });
   const total = turns.reduce((a, t) => a + String(t.content).length, 0);
@@ -92,10 +94,11 @@ Deno.serve(async (req) => {
 
   const messages = turns.map((t, i) => {
     const last = i === turns.length - 1;
-    if (!last || !imgs.length) return { role: t.role, content: String(t.content) };
+    if (!last || !(imgs.length || docs.length)) return { role: t.role, content: String(t.content) };
     return {
       role: t.role,
       content: [
+        ...docs.map((d) => ({ type: "document" as const, source: { type: "base64" as const, media_type: "application/pdf" as const, data: d.data } })),
         ...imgs.map((im) => ({ type: "image" as const, source: { type: "base64" as const, media_type: im.media_type as "image/jpeg", data: im.data } })),
         { type: "text" as const, text: String(t.content) },
       ],
@@ -107,7 +110,7 @@ Deno.serve(async (req) => {
   try {
     const stream = anthropic.beta.messages.stream({
       model,
-      max_tokens: tier === "complex" ? 32000 : 16000,
+      max_tokens: tier === "complex" || docs.length ? 32000 : 16000,
       output_config: { effort: EFFORT[tier] ?? "medium" },
       // Sonnet and Opus can hand a refused or overloaded request to a fallback model; Haiku has no fallback
       ...(model.includes("haiku") ? {} : { betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" }),

@@ -117,6 +117,7 @@ const LIBT = [
   ["topics", "Syllabus", "Every chapter of every board, by subject and class"],
   ["science", "Resources", "Free activities, simulations and videos, tagged to chapters"],
   ["have", "Home shelf", "Books, games and kits you have at home. We suggest them in the right lesson"],
+  ["mine", "My books", "Your own books and notes, turned into lessons, quizzes and refreshers"],
   ["suggest", "Worth buying", "Books, games and kits picked for your child's age and syllabus"],
   ["read", "Read", "Books and stories to read together"],
   ["watch", "Watch", "Videos and shows worth watching"],
@@ -358,6 +359,7 @@ function summaryOf(u) {
 }
 function ideasOf(u) {
   if (u.board === "gen") return { sum: u.gen.plusSummary || "", ideas: (u.gen.ideas || []).map(String) };
+  if (u.board === "mine") return { sum: u.c.p.summary, ideas: [] };
   const x = u.c?.x;
   if (x) return { sum: x.oneness, ideas: x.deep.map((d) => d.q) };
   if (u.board === "dk") return { sum: u.topic.oneness, ideas: u.topic.sub.slice(0, 3) };
@@ -837,6 +839,7 @@ function viewLibrary() {
   let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)", 7, "happy", "", 'width="50" height="50"')}</div><div class="seg">${LIBT.map(([k, n]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}">${n}</button>`).join("")}</div><p class="xs muted segdesc">${esc((LIBT.find((x) => x[0] === t) || LIBT[0])[2])}</p></section>`;
   if (t === "topics") h += topicsTab();
   if (t === "science") h += scienceTab();
+  if (t === "mine") h += myBooksTab();
   if (t === "have") {
     const seen = new Set(inv.map((i) => i.name.toLowerCase())),
       kw = new Set(),
