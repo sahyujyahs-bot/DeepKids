@@ -196,6 +196,10 @@ document.addEventListener("change", (e) => {
   }
 });
 document.addEventListener("change", (e) => {
+  if (e.target.id === "qfSel") {
+    ui.qf = e.target.value;
+    render();
+  }
   if (e.target.id === "rcSel") {
     ui.rc = e.target.value;
     ui.rmore = 40;

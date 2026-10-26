@@ -65,7 +65,7 @@ function onAct(e) {
   switch (a) {
     case "topen": {
       const id = b.dataset.id,
-        cur = ui.open[id] ?? focusOf(dayPlan(today), today)?.id === id;
+        cur = !!ui.open[id];
       ui.open[id] = !cur;
       sfx(cur ? "tap" : "flip");
       render();
@@ -1173,7 +1173,7 @@ function onAct(e) {
     case "told": {
       sfx("flip");
       ui.ted = "";
-      if (tab === "week" && seg("week") === "family" && !sheet.open) {
+      if (tab === "week" && seg("week") === "cal" && !sheet.open) {
         render();
         document
           .querySelector('#main [data-act="ted"]')
@@ -1385,9 +1385,8 @@ function onAct(e) {
       ui.sheet = null;
       if (dl?.open) dl.close();
       tab = "week";
-      ui.seg = { ...(ui.seg || {}), week: "family" };
+      ui.seg = { ...(ui.seg || {}), week: "cal" };
       render();
-      scrollTo(0, 0);
       setTimeout(() => {
         const t = document.getElementById("dumpText");
         if (t) {
@@ -1661,12 +1660,6 @@ function onAct(e) {
       sfx("flip");
       commit();
       toast("Taken out. You can bring it back from its chapter.");
-      break;
-    }
-    case "qf": {
-      ui.qf = b.dataset.s;
-      sfx("tap");
-      render();
       break;
     }
     case "hty": {

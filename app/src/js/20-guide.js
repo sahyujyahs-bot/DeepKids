@@ -21,11 +21,16 @@ const GUIDE = {
   "week:cal": [
     [
       ".segmain",
-      "Plan has four tabs",
-      "This week, Up next, To finish and Settings. Each is explained when you open it.",
+      "Plan has five tabs",
+      "Calendar, Up next, To finish, Refresher and Settings. Each is explained when you open it.",
     ],
     ['[data-act="pv"]', "See any stretch of time", "Switch between a day, a week, a month or the whole year."],
-    [".fxfold", "Your to-dos", "Things to get ready for coming lessons, and your own to-dos."],
+    [
+      ".card.dump",
+      "Plan your days",
+      "Type classes, trips, holidays or worries in your own words. DeepKids re-plans around them.",
+    ],
+    [".fxfold", "To-dos and other plans", "Things to get ready for coming lessons, and your own to-dos."],
   ],
   "week:next": [
     [
@@ -47,11 +52,6 @@ const GUIDE = {
     ],
   ],
   "week:family": [
-    [
-      ".card.dump",
-      "Plan your days",
-      "Type classes, trips, holidays or worries in your own words. DeepKids re-plans around them.",
-    ],
     [
       "#paceSec",
       "Times, subjects and pace",

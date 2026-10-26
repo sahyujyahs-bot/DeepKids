@@ -26,14 +26,14 @@ function scrollBack(root, snap) {
 }
 const SEGS = {
   week: [
-    ["cal", "This week", "What's planned, day by day. Tap a day to see it."],
+    ["cal", "Calendar", "Your plan by day, week, month or year, and where you add classes, trips and to-dos."],
     ["next", "Up next", "What comes next in each subject. Drag to change the order."],
     ["finish", "To finish", "What your child started, and what is still to try."],
     ["refresh", "Refresher", "Past topics your child goes back over, so they stick."],
     [
       "family",
       "Settings",
-      "Your classes and routines, wake-up and lesson times, subjects, and how fast each subject goes.",
+      "Lesson times, subjects, your child's level, how fast each subject goes, and the refresher.",
     ],
   ],
   tasks: [
@@ -289,6 +289,7 @@ function renderMain() {
   ui.lastTab = tab;
   fixWork();
   fixRoutines();
+  fixWho();
   dedupeEv();
   rollDay();
   _sess = null;

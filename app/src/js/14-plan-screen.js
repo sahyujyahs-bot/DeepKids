@@ -1,4 +1,4 @@
-/* Plan: This week, Up next, To finish, Settings, and the work lists behind them */
+/* Plan: Calendar, Up next, To finish, Refresher, Settings, and the work lists behind them */
 /* Day times: a usual routine, changes for a weekday, and changes for one date */
 const DTF = [
   ["prepAt", "Morning prep", "time"],
@@ -787,7 +787,7 @@ function toldView() {
           )}</div><div class="row"><button class="btn sm" data-act="ted" data-id="">Done</button><button class="link sm" data-act="evdel" data-id="${e.id}" style="color:var(--bad)">Remove</button></div></div>`
       : `<div class="pk ${e.start ? "" : "warn"}"><span class="eyebrow">${esc(EVK[e.kind] || "Plan")}${e.src === "gcal" ? " · Google Calendar" : ""}</span><b>${esc(e.title)}</b><p class="sm">${esc(evLine(e))}${e.who === "kid" ? ` · ${esc(S.child || "child")} alone` : e.who === "both" ? " · together" : ""}</p>${e.start ? "" : `<p class="xs" style="color:var(--bad)">Add a time so the day plan can work around it.</p>`}${e.src === "gcal" ? "" : `<div class="row"><button class="link sm" data-act="ted" data-id="${e.id}">Change</button></div>`}</div>`;
   let h = `<p class="sm muted">Everything you've added: by typing, chatting, photos or by hand. Change or remove anything here, and the plan follows.</p>`;
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="xs muted">Nothing yet.</p>`}<button class="btn soft sm" data-act="toplan" style="justify-self:start">+ Add or change by telling DeepKids</button></section>`;
+  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="xs muted">Nothing yet.</p>`}<button class="btn soft sm" data-act="toplan" style="justify-self:start">+ Add or change in “Plan your days”</button></section>`;
   h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">To-dos</h3><span class="pill">${T.length}</span></div>${T.length ? T.map((t) => `<div class="pk"><b>${esc(t.title)}</b><p class="xs muted">${esc(fmt(t.date))}${t.note ? " · " + esc(t.note) : ""}</p><div class="row"><button class="link sm" data-act="tddel" data-id="${t.id}" style="color:var(--bad)">Remove</button></div></div>`).join("") : `<p class="xs muted">No open to-dos.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Notes we keep in mind</h3><span class="pill">${N.length}</span></div>${N.length ? N.map((n) => `<div class="pk"><p class="sm">${esc(n.text)}</p><p class="xs muted">${esc(fmt(n.date))}</p><div class="row"><button class="link sm" data-act="notedel" data-id="${n.id}" style="color:var(--bad)">Remove</button></div></div>`).join("") : `<p class="xs muted">No notes.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">What you said</h3><span class="pill">${L.length}</span></div>${L.length ? L.map((x) => `<details class="card"><summary><b class="sm">${esc(fmt(x.date))} · ${esc(new Date(x.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }))}</b><br><span class="sm">${esc(x.text.split("\n")[0].slice(0, 120))}</span></summary><div class="chat" style="margin-top:8px"><div class="bub me">${esc(x.text).replace(/\n/g, "<br>")}</div>${(x.chat || []).map((c) => `<div class="bub cl">${esc(c.q)}</div><div class="bub me">${esc(c.a)}</div>`).join("")}</div>${x.added?.length ? `<p class="xs muted">Added to the plan:</p><ul class="sm">${x.added.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : ""}</details>`).join("") : `<p class="xs muted">Messages you send in the Planner are kept here from now on.</p>`}</section>`;
@@ -1199,15 +1199,18 @@ function parsedLine(it) {
 // One part of the Plan screen; the tabs below put these together
 function planPart(k) {
   const v = ui.pv || "week";
-  if (k === "tell") {
+  // adding to the plan: typed in your own words, then everything you've added (on This week)
+  if (k === "add") {
     const Q = askList();
     return (
       `<section class="sec">${dumpCard()}</section>` +
       (Q.length ? plPart("asks") : "") +
-      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`) +
-      `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}${rfCard()}</div>`
+      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
     );
   }
+  // how the plan is made: times, subjects, levels, pace and the refresher (Settings)
+  if (k === "tell")
+    return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div>`;
   if (k === "cal")
     return `<section class="sec"><div class="seg">${Object.entries(PV)
       .map(([kk, nm]) => `<button aria-pressed="${v === kk}" data-act="pv" data-v="${kk}">${nm}</button>`)
@@ -1223,7 +1226,7 @@ function planPart(k) {
   if (k === "pending") return newView();
   return goingView();
 }
-// Plan: This week, Up next, To finish and Settings
+// Plan: Calendar, Up next, To finish, Refresher and Settings
 function viewPlanner() {
   const k = seg("week"),
     head = pageHead("Plan") + segBar("week") + `</section>`;
@@ -1233,7 +1236,8 @@ function viewPlanner() {
     return (
       head +
       planPart("cal") +
-      `<details class="sec fxfold"><summary><b>Your to-dos and things to get ready</b></summary>${planPart("todo")}</details>`
+      planPart("add") +
+      `<details class="sec fxfold"><summary><b>To-dos and other plans</b></summary>${planPart("todo")}</details>`
     );
   }
   // Up next: two folded boxes, each shown only when it has something in it, then the order of what comes next
@@ -1255,7 +1259,7 @@ function viewPlanner() {
       `<section class="sec" id="finTry"><h2 class="finh">Not tried yet</h2><p class="xs muted">Parts of finished lessons not started yet, like a project or an experiment. Ones you've queued stay here too, tagged Queued.</p></section>` +
       planPart("pending")
     );
-  if (k === "refresh") return head + fxPractiseAll() + `<section class="sec">${rfsetBody()}</section>`;
+  if (k === "refresh") return head + `<section class="sec">${rfsetBody()}</section>` + fxPractiseAll();
   return head + planPart("tell");
 }
 async function runDump() {
@@ -1293,7 +1297,7 @@ Rules:
 - Rest, naps, sleep and meals are type "rest" or "meal" with a start and end. A time given relative to something ("1 hour rest after tuition") gets real times worked out from that thing's end time, on the same days.
 - Times are 24-hour HH:MM. "4pm-5pm" is 16:00–17:00. If only a length is given, set end from it.
 - If an item is already in the list above, leave it out. If the message changes one (new time, new days), return {"type":"update","id":"<its id>", with the new fields}.
-- "who" is "you" (the parent alone), "kid" (the child alone, parent free), or "both".
+- "who" is "you" (the parent alone), "kid" (the child alone, parent free), or "both". Classes, tuition, online classes and exams are the child's ("kid") unless the message clearly says the parent goes (like "my yoga class").
 - Resolve dates like "tomorrow" or "next Friday" to YYYY-MM-DD.
 - A "todo" is a one-off task with no fixed time. A "note" is only for facts that can't go on a calendar.
 - Ask a question only when a needed time or day is really missing and can't be worked out. Never ask about something already in the list above. One short question per gap, at most 3.
@@ -1310,7 +1314,11 @@ Message:
       .map((x) => ({
         ...x,
         title: x.title || (S.events || []).find((e) => e.id === x.id)?.title || "Change",
-        who: ["you", "kid", "both"].includes(x.who) ? x.who : x.type === "rest" ? "kid" : "you",
+        who: ["you", "kid", "both"].includes(x.who)
+          ? x.who
+          : ["rest", "class", "tuition", "online", "exam"].includes(x.type)
+            ? "kid"
+            : "you",
         keep: true,
       }))
       .map(fixItem);

@@ -111,7 +111,7 @@ async function afterUpgrade() {
   if (S.pendAI && SAMPLE) {
     const t = S.pendAI.text;
     tab = "week";
-    ui.seg = { ...(ui.seg || {}), week: "family" };
+    ui.seg = { ...(ui.seg || {}), week: "cal" };
     ui.dump = { text: t, chat: [] };
     delete S.pendAI;
     commit();

@@ -2669,6 +2669,15 @@ function routinesText() {
   );
 }
 /* old bad sorts saved repeating things as to-dos: turn them into timed routines */
+/* earlier sorting marked some tuition and classes as the parent's: they are the child's */
+function fixWho() {
+  if (S.fixW1) return;
+  S.fixW1 = 1;
+  (S.events || []).forEach((e) => {
+    if (e.who === "you" && /tuition|coaching|class|lesson|exam/i.test(e.title) && !/\bmy\b/i.test(e.title))
+      e.who = "kid";
+  });
+}
 function fixRoutines() {
   if (S.fixR1 || !S.todos?.length) return;
   S.fixR1 = 1;
@@ -5928,14 +5937,13 @@ function quizPastView() {
 /* lists and refresher settings */
 function rfsetView() {
   document.getElementById("sheetTitle").textContent = "Refresher";
-  return rfsetBody();
+  return rfsetBody() + rfTiming();
 }
-// the three refresher lists, set for the family, and their timing (which the family can change)
+// the refresher: what's coming up, and the three lists it picks from
 function rfsetBody() {
   const R = RFS(),
     L = masteryLists(),
     M = lastAnswers(),
-    EV = [1, 2, 3, 5, 7, 10, 14, 30],
     every = (n) => (n === 1 ? "every day" : `every ${n} days`);
   const card = (
     g,
@@ -5952,7 +5960,28 @@ function rfsetBody() {
             .join("")}${L[g].length > 12 ? `<span class="xs muted">+${L[g].length - 12} more</span>` : ""}</div>`
         : `<p class="xs muted">None yet.</p>`
     }</section>`;
-  // the timing is set for the family; they can change it, folded away so it doesn't get in the way
+  // what the refresher goes over on each of the next seven days
+  const soon = [0, 1, 2, 3, 4, 5, 6]
+    .map((i) => [addDays(today, i), rfPlan(addDays(today, i))])
+    .filter(([, p]) => p && (p.topics?.length || p.fxOnly));
+  const coming = soon.length
+    ? `<section class="card"><b style="font:600 17px var(--display)">Coming up</b><div class="col" style="gap:6px">${soon
+        .map(
+          ([d, p]) =>
+            `<div class="sm"><b>${d === today ? "Today" : esc(fmt(d))}</b> · ${p.mins} min · ${
+              p.topics?.length ? p.topics.map((t) => esc(chT(unitByK(t.k)) || t.k)).join(", ") : esc(p.sub || p.title)
+            }</div>`,
+        )
+        .join("")}</div></section>`
+    : "";
+  return `<p class="sm">Past topics your child goes back over so they stick, about ${R.mins} minutes a day. DeepKids picks them from the three lists below.</p>
+   ${coming}${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`;
+}
+// how long the daily refresher is, on which days, and how often each list's topics come back (Plan → Settings)
+function rfTiming() {
+  const R = RFS(),
+    EV = [1, 2, 3, 5, 7, 10, 14, 30],
+    every = (n) => (n === 1 ? "every day" : `every ${n} days`);
   const timing = (g) => `<div class="col" style="gap:6px"><b class="sm">${MGN[g]}</b>
     <div class="row" style="align-items:center"><span class="sm">Comes back</span><select class="inp" style="width:auto;height:40px" data-rfe="${g}">${EV.map((v) => `<option value="${v}" ${R[g].every === v ? "selected" : ""}>${every(v)}</option>`).join("")}</select></div>
     ${Object.keys(RTN)
@@ -5961,12 +5990,9 @@ function rfsetBody() {
           `<div class="row" style="align-items:center;justify-content:space-between;flex-wrap:nowrap"><span class="sm">${RTN[t]}</span><div class="stepper"><button data-act="rfmix" data-g="${g}" data-t="${t}" data-d="-10" ${R[g].mix[t] <= 0 ? "disabled" : ""} aria-label="Less ${RTN[t]}">−</button><span class="sm" style="min-width:48px;text-align:center">${R[g].mix[t]}%</span><button data-act="rfmix" data-g="${g}" data-t="${t}" data-d="10" ${R[g].mix[t] >= 100 ? "disabled" : ""} aria-label="More ${RTN[t]}">+</button></div></div>`,
       )
       .join("")}</div>`;
-  return `<p class="sm">Each day there is a ${R.mins}-minute refresher: your child goes back over topics from past lessons so they stick. DeepKids picks the topics from the three lists below. You don't need to set anything.</p>
-   ${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>
-   <details class="card"><summary class="sm"><b>Change the timing</b> (optional)</summary><div class="col" style="gap:14px;margin-top:10px">
-   <div class="row" style="align-items:center"><span class="sm">Refresher each day</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[15, 20, 30, 45, 60].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>
-   <p class="xs muted">For each list: how often its topics come back, and what the refresher is made of (the percentages are shares of the time).</p>
-   ${timing("not")}${timing("grasped")}${timing("mastered")}</div></details>`;
+  return `<section class="card"><b style="font:600 17px var(--display)">Refresher</b><p class="xs muted">Already set for you. Change it only if you want to.</p>
+   <div class="row" style="align-items:center"><span class="sm">Each day</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[15, 20, 30, 45, 60].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>
+   <details><summary class="sm">How often each list comes back, and what a refresher is made of</summary><div class="col" style="gap:14px;margin-top:10px">${timing("not")}${timing("grasped")}${timing("mastered")}</div></details></section>`;
 }
 function quizTranscript() {
   const R = S.qzr || [],
@@ -9119,20 +9145,7 @@ function nowCard(it) {
             it.prep.filter((p) => !S.prep[p.id]).length,
           )
         : it.sub || ROLE[it.who];
-  const P = {
-    lesson: [
-      `data-act="play" ${a}`,
-      it.kind === "lesson" && stepState(it).some((x) => x.ok) ? "Keep going" : "Start the lesson",
-    ],
-    prep:
-      it.id === "pm" ? [`data-act="night"`, "Get tomorrow ready"] : [`data-act="tlopen" ${a}`, "Open the checklist"],
-    warm: [`data-act="games"`, "Start the warm-up"],
-    plan: [`data-act="quickplan"`, "Open the Planner"],
-    exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
-    refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
-    finish: [`data-act="tofinish"`, "Open the list"],
-    dkt: [`data-act="chapter" data-k="${it.u?.k}"`, "Open the topic"],
-  }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"];
+  const P = itemAction(it, a);
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
     P.splice(0, 2, `data-act="evcancel" data-id="${esc(it.ev.id)}" data-date="${today}"`, "Cancel for today");
   const mascot =
@@ -9198,6 +9211,25 @@ const isMissed = (it, date) =>
   it.kind !== "brk" &&
   !snzd(it, date) &&
   it.at + it.dur < nowMin();
+// the main thing to do with an item: [the button's attributes, its label]
+function itemAction(it, a) {
+  return (
+    {
+      lesson: [
+        `data-act="play" ${a}`,
+        it.kind === "lesson" && stepState(it).some((x) => x.ok) ? "Keep going" : "Start the lesson",
+      ],
+      prep:
+        it.id === "pm" ? [`data-act="night"`, "Get tomorrow ready"] : [`data-act="tlopen" ${a}`, "Open the checklist"],
+      warm: [`data-act="games"`, "Start the warm-up"],
+      plan: [`data-act="quickplan"`, "Open the Planner"],
+      exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
+      refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
+      finish: [`data-act="tofinish"`, "Open the list"],
+      dkt: [`data-act="chapter" data-k="${it.u?.k}"`, "Open the topic"],
+    }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"]
+  );
+}
 function itemDetail(it, date) {
   const isT = date === today;
   if (it.kind === "refresh")
@@ -9243,7 +9275,9 @@ function itemDetail(it, date) {
   }
   if (it.kind === "todo")
     return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn soft sm" data-act="todomove" data-t="${it.td.id}">Move to tomorrow</button><button class="btn line sm" data-act="tododel" data-t="${it.td.id}">Remove</button></div>`;
-  return "";
+  // anything else: what it is, and its main button
+  const A = itemAction(it, `data-id="${it.id}" data-date="${date}"`);
+  return `${it.sub ? `<p class="sm" style="font-weight:700">${esc(it.sub)}</p>` : ""}<div class="row"><button class="btn sm" ${A[0]}>${it.done ? "Done ✓" : A[1]}</button></div>`;
 }
 function tRow(it, date, focus) {
   const col = it.kind === "lesson" ? SC(it.s) : "r-" + it.who,
@@ -9446,7 +9480,7 @@ function fxTodayTop(animate) {
   return `<section class="sec fxtoday${animate ? " fxanim" : ""}">${tiles}${em}${cont}</section>`;
 }
 
-/* Plan: This week, Up next, To finish, Settings, and the work lists behind them */
+/* Plan: Calendar, Up next, To finish, Refresher, Settings, and the work lists behind them */
 /* Day times: a usual routine, changes for a weekday, and changes for one date */
 const DTF = [
   ["prepAt", "Morning prep", "time"],
@@ -10235,7 +10269,7 @@ function toldView() {
           )}</div><div class="row"><button class="btn sm" data-act="ted" data-id="">Done</button><button class="link sm" data-act="evdel" data-id="${e.id}" style="color:var(--bad)">Remove</button></div></div>`
       : `<div class="pk ${e.start ? "" : "warn"}"><span class="eyebrow">${esc(EVK[e.kind] || "Plan")}${e.src === "gcal" ? " · Google Calendar" : ""}</span><b>${esc(e.title)}</b><p class="sm">${esc(evLine(e))}${e.who === "kid" ? ` · ${esc(S.child || "child")} alone` : e.who === "both" ? " · together" : ""}</p>${e.start ? "" : `<p class="xs" style="color:var(--bad)">Add a time so the day plan can work around it.</p>`}${e.src === "gcal" ? "" : `<div class="row"><button class="link sm" data-act="ted" data-id="${e.id}">Change</button></div>`}</div>`;
   let h = `<p class="sm muted">Everything you've added: by typing, chatting, photos or by hand. Change or remove anything here, and the plan follows.</p>`;
-  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="xs muted">Nothing yet.</p>`}<button class="btn soft sm" data-act="toplan" style="justify-self:start">+ Add or change by telling DeepKids</button></section>`;
+  h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Routines, classes and rest</h3><span class="pill">${E.length}</span></div>${E.length ? E.map(evRow).join("") : `<p class="xs muted">Nothing yet.</p>`}<button class="btn soft sm" data-act="toplan" style="justify-self:start">+ Add or change in “Plan your days”</button></section>`;
   h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">To-dos</h3><span class="pill">${T.length}</span></div>${T.length ? T.map((t) => `<div class="pk"><b>${esc(t.title)}</b><p class="xs muted">${esc(fmt(t.date))}${t.note ? " · " + esc(t.note) : ""}</p><div class="row"><button class="link sm" data-act="tddel" data-id="${t.id}" style="color:var(--bad)">Remove</button></div></div>`).join("") : `<p class="xs muted">No open to-dos.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Notes we keep in mind</h3><span class="pill">${N.length}</span></div>${N.length ? N.map((n) => `<div class="pk"><p class="sm">${esc(n.text)}</p><p class="xs muted">${esc(fmt(n.date))}</p><div class="row"><button class="link sm" data-act="notedel" data-id="${n.id}" style="color:var(--bad)">Remove</button></div></div>`).join("") : `<p class="xs muted">No notes.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">What you said</h3><span class="pill">${L.length}</span></div>${L.length ? L.map((x) => `<details class="card"><summary><b class="sm">${esc(fmt(x.date))} · ${esc(new Date(x.at).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }))}</b><br><span class="sm">${esc(x.text.split("\n")[0].slice(0, 120))}</span></summary><div class="chat" style="margin-top:8px"><div class="bub me">${esc(x.text).replace(/\n/g, "<br>")}</div>${(x.chat || []).map((c) => `<div class="bub cl">${esc(c.q)}</div><div class="bub me">${esc(c.a)}</div>`).join("")}</div>${x.added?.length ? `<p class="xs muted">Added to the plan:</p><ul class="sm">${x.added.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : ""}</details>`).join("") : `<p class="xs muted">Messages you send in the Planner are kept here from now on.</p>`}</section>`;
@@ -10647,15 +10681,18 @@ function parsedLine(it) {
 // One part of the Plan screen; the tabs below put these together
 function planPart(k) {
   const v = ui.pv || "week";
-  if (k === "tell") {
+  // adding to the plan: typed in your own words, then everything you've added (on This week)
+  if (k === "add") {
     const Q = askList();
     return (
       `<section class="sec">${dumpCard()}</section>` +
       (Q.length ? plPart("asks") : "") +
-      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`) +
-      `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}${rfCard()}</div>`
+      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
     );
   }
+  // how the plan is made: times, subjects, levels, pace and the refresher (Settings)
+  if (k === "tell")
+    return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div>`;
   if (k === "cal")
     return `<section class="sec"><div class="seg">${Object.entries(PV)
       .map(([kk, nm]) => `<button aria-pressed="${v === kk}" data-act="pv" data-v="${kk}">${nm}</button>`)
@@ -10671,7 +10708,7 @@ function planPart(k) {
   if (k === "pending") return newView();
   return goingView();
 }
-// Plan: This week, Up next, To finish and Settings
+// Plan: Calendar, Up next, To finish, Refresher and Settings
 function viewPlanner() {
   const k = seg("week"),
     head = pageHead("Plan") + segBar("week") + `</section>`;
@@ -10681,7 +10718,8 @@ function viewPlanner() {
     return (
       head +
       planPart("cal") +
-      `<details class="sec fxfold"><summary><b>Your to-dos and things to get ready</b></summary>${planPart("todo")}</details>`
+      planPart("add") +
+      `<details class="sec fxfold"><summary><b>To-dos and other plans</b></summary>${planPart("todo")}</details>`
     );
   }
   // Up next: two folded boxes, each shown only when it has something in it, then the order of what comes next
@@ -10703,7 +10741,7 @@ function viewPlanner() {
       `<section class="sec" id="finTry"><h2 class="finh">Not tried yet</h2><p class="xs muted">Parts of finished lessons not started yet, like a project or an experiment. Ones you've queued stay here too, tagged Queued.</p></section>` +
       planPart("pending")
     );
-  if (k === "refresh") return head + fxPractiseAll() + `<section class="sec">${rfsetBody()}</section>`;
+  if (k === "refresh") return head + `<section class="sec">${rfsetBody()}</section>` + fxPractiseAll();
   return head + planPart("tell");
 }
 async function runDump() {
@@ -10741,7 +10779,7 @@ Rules:
 - Rest, naps, sleep and meals are type "rest" or "meal" with a start and end. A time given relative to something ("1 hour rest after tuition") gets real times worked out from that thing's end time, on the same days.
 - Times are 24-hour HH:MM. "4pm-5pm" is 16:00–17:00. If only a length is given, set end from it.
 - If an item is already in the list above, leave it out. If the message changes one (new time, new days), return {"type":"update","id":"<its id>", with the new fields}.
-- "who" is "you" (the parent alone), "kid" (the child alone, parent free), or "both".
+- "who" is "you" (the parent alone), "kid" (the child alone, parent free), or "both". Classes, tuition, online classes and exams are the child's ("kid") unless the message clearly says the parent goes (like "my yoga class").
 - Resolve dates like "tomorrow" or "next Friday" to YYYY-MM-DD.
 - A "todo" is a one-off task with no fixed time. A "note" is only for facts that can't go on a calendar.
 - Ask a question only when a needed time or day is really missing and can't be worked out. Never ask about something already in the list above. One short question per gap, at most 3.
@@ -10758,7 +10796,11 @@ Message:
       .map((x) => ({
         ...x,
         title: x.title || (S.events || []).find((e) => e.id === x.id)?.title || "Change",
-        who: ["you", "kid", "both"].includes(x.who) ? x.who : x.type === "rest" ? "kid" : "you",
+        who: ["you", "kid", "both"].includes(x.who)
+          ? x.who
+          : ["rest", "class", "tuition", "online", "exam"].includes(x.type)
+            ? "kid"
+            : "you",
         keep: true,
       }))
       .map(fixItem);
@@ -10867,8 +10909,11 @@ const clock24 = (m) => String(Math.floor(m / 60) % 24).padStart(2, "0") + ":" + 
 /* Progress: subjects, time, work, history, school reports and documents */
 /* subject filter for the work lists (lessons have their own subject row) */
 const qfOf = () => (S.subjects.includes(ui.qf) ? ui.qf : "all");
+// a small labelled dropdown, only when there is more than one subject to choose from
 const subjChips = () =>
-  `<div class="row" style="flex-wrap:wrap;gap:6px">${["all", ...S.subjects].map((x) => `<button class="chip" aria-pressed="${qfOf() === x}" data-act="qf" data-s="${x}">${x === "all" ? "All subjects" : SUBJ[x]}</button>`).join("")}</div>`;
+  S.subjects.length > 1
+    ? `<label class="row sm" style="align-items:center;gap:8px">Subject <select class="inp" id="qfSel" style="width:auto;height:40px">${["all", ...S.subjects].map((x) => `<option value="${x}" ${qfOf() === x ? "selected" : ""}>${x === "all" ? "All subjects" : SUBJ[x]}</option>`).join("")}</select></label>`
+    : "";
 const bySubj = (L) => (qfOf() === "all" ? L : L.filter((x) => x.u?.subj === qfOf()));
 /* reorder: the moved items keep the slots they had, so a filtered list reorders only itself */
 /* Progress → History: everything finished, by kind and subject */
@@ -13108,7 +13153,7 @@ async function afterUpgrade() {
   if (S.pendAI && SAMPLE) {
     const t = S.pendAI.text;
     tab = "week";
-    ui.seg = { ...(ui.seg || {}), week: "family" };
+    ui.seg = { ...(ui.seg || {}), week: "cal" };
     ui.dump = { text: t, chat: [] };
     delete S.pendAI;
     commit();
@@ -13932,11 +13977,16 @@ const GUIDE = {
   "week:cal": [
     [
       ".segmain",
-      "Plan has four tabs",
-      "This week, Up next, To finish and Settings. Each is explained when you open it.",
+      "Plan has five tabs",
+      "Calendar, Up next, To finish, Refresher and Settings. Each is explained when you open it.",
     ],
     ['[data-act="pv"]', "See any stretch of time", "Switch between a day, a week, a month or the whole year."],
-    [".fxfold", "Your to-dos", "Things to get ready for coming lessons, and your own to-dos."],
+    [
+      ".card.dump",
+      "Plan your days",
+      "Type classes, trips, holidays or worries in your own words. DeepKids re-plans around them.",
+    ],
+    [".fxfold", "To-dos and other plans", "Things to get ready for coming lessons, and your own to-dos."],
   ],
   "week:next": [
     [
@@ -13958,11 +14008,6 @@ const GUIDE = {
     ],
   ],
   "week:family": [
-    [
-      ".card.dump",
-      "Plan your days",
-      "Type classes, trips, holidays or worries in your own words. DeepKids re-plans around them.",
-    ],
     [
       "#paceSec",
       "Times, subjects and pace",
@@ -14123,14 +14168,14 @@ function scrollBack(root, snap) {
 }
 const SEGS = {
   week: [
-    ["cal", "This week", "What's planned, day by day. Tap a day to see it."],
+    ["cal", "Calendar", "Your plan by day, week, month or year, and where you add classes, trips and to-dos."],
     ["next", "Up next", "What comes next in each subject. Drag to change the order."],
     ["finish", "To finish", "What your child started, and what is still to try."],
     ["refresh", "Refresher", "Past topics your child goes back over, so they stick."],
     [
       "family",
       "Settings",
-      "Your classes and routines, wake-up and lesson times, subjects, and how fast each subject goes.",
+      "Lesson times, subjects, your child's level, how fast each subject goes, and the refresher.",
     ],
   ],
   tasks: [
@@ -14386,6 +14431,7 @@ function renderMain() {
   ui.lastTab = tab;
   fixWork();
   fixRoutines();
+  fixWho();
   dedupeEv();
   rollDay();
   _sess = null;
@@ -14563,7 +14609,7 @@ function onAct(e) {
   switch (a) {
     case "topen": {
       const id = b.dataset.id,
-        cur = ui.open[id] ?? focusOf(dayPlan(today), today)?.id === id;
+        cur = !!ui.open[id];
       ui.open[id] = !cur;
       sfx(cur ? "tap" : "flip");
       render();
@@ -15671,7 +15717,7 @@ function onAct(e) {
     case "told": {
       sfx("flip");
       ui.ted = "";
-      if (tab === "week" && seg("week") === "family" && !sheet.open) {
+      if (tab === "week" && seg("week") === "cal" && !sheet.open) {
         render();
         document
           .querySelector('#main [data-act="ted"]')
@@ -15883,9 +15929,8 @@ function onAct(e) {
       ui.sheet = null;
       if (dl?.open) dl.close();
       tab = "week";
-      ui.seg = { ...(ui.seg || {}), week: "family" };
+      ui.seg = { ...(ui.seg || {}), week: "cal" };
       render();
-      scrollTo(0, 0);
       setTimeout(() => {
         const t = document.getElementById("dumpText");
         if (t) {
@@ -16159,12 +16204,6 @@ function onAct(e) {
       sfx("flip");
       commit();
       toast("Taken out. You can bring it back from its chapter.");
-      break;
-    }
-    case "qf": {
-      ui.qf = b.dataset.s;
-      sfx("tap");
-      render();
       break;
     }
     case "hty": {
@@ -17085,6 +17124,10 @@ document.addEventListener("change", (e) => {
   }
 });
 document.addEventListener("change", (e) => {
+  if (e.target.id === "qfSel") {
+    ui.qf = e.target.value;
+    render();
+  }
   if (e.target.id === "rcSel") {
     ui.rc = e.target.value;
     ui.rmore = 40;

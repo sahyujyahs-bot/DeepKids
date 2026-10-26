@@ -113,20 +113,7 @@ function nowCard(it) {
             it.prep.filter((p) => !S.prep[p.id]).length,
           )
         : it.sub || ROLE[it.who];
-  const P = {
-    lesson: [
-      `data-act="play" ${a}`,
-      it.kind === "lesson" && stepState(it).some((x) => x.ok) ? "Keep going" : "Start the lesson",
-    ],
-    prep:
-      it.id === "pm" ? [`data-act="night"`, "Get tomorrow ready"] : [`data-act="tlopen" ${a}`, "Open the checklist"],
-    warm: [`data-act="games"`, "Start the warm-up"],
-    plan: [`data-act="quickplan"`, "Open the Planner"],
-    exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
-    refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
-    finish: [`data-act="tofinish"`, "Open the list"],
-    dkt: [`data-act="chapter" data-k="${it.u?.k}"`, "Open the topic"],
-  }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"];
+  const P = itemAction(it, a);
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
     P.splice(0, 2, `data-act="evcancel" data-id="${esc(it.ev.id)}" data-date="${today}"`, "Cancel for today");
   const mascot =
@@ -192,6 +179,25 @@ const isMissed = (it, date) =>
   it.kind !== "brk" &&
   !snzd(it, date) &&
   it.at + it.dur < nowMin();
+// the main thing to do with an item: [the button's attributes, its label]
+function itemAction(it, a) {
+  return (
+    {
+      lesson: [
+        `data-act="play" ${a}`,
+        it.kind === "lesson" && stepState(it).some((x) => x.ok) ? "Keep going" : "Start the lesson",
+      ],
+      prep:
+        it.id === "pm" ? [`data-act="night"`, "Get tomorrow ready"] : [`data-act="tlopen" ${a}`, "Open the checklist"],
+      warm: [`data-act="games"`, "Start the warm-up"],
+      plan: [`data-act="quickplan"`, "Open the Planner"],
+      exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
+      refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
+      finish: [`data-act="tofinish"`, "Open the list"],
+      dkt: [`data-act="chapter" data-k="${it.u?.k}"`, "Open the topic"],
+    }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"]
+  );
+}
 function itemDetail(it, date) {
   const isT = date === today;
   if (it.kind === "refresh")
@@ -237,7 +243,9 @@ function itemDetail(it, date) {
   }
   if (it.kind === "todo")
     return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn soft sm" data-act="todomove" data-t="${it.td.id}">Move to tomorrow</button><button class="btn line sm" data-act="tododel" data-t="${it.td.id}">Remove</button></div>`;
-  return "";
+  // anything else: what it is, and its main button
+  const A = itemAction(it, `data-id="${it.id}" data-date="${date}"`);
+  return `${it.sub ? `<p class="sm" style="font-weight:700">${esc(it.sub)}</p>` : ""}<div class="row"><button class="btn sm" ${A[0]}>${it.done ? "Done ✓" : A[1]}</button></div>`;
 }
 function tRow(it, date, focus) {
   const col = it.kind === "lesson" ? SC(it.s) : "r-" + it.who,

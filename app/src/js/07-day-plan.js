@@ -1272,6 +1272,15 @@ function routinesText() {
   );
 }
 /* old bad sorts saved repeating things as to-dos: turn them into timed routines */
+/* earlier sorting marked some tuition and classes as the parent's: they are the child's */
+function fixWho() {
+  if (S.fixW1) return;
+  S.fixW1 = 1;
+  (S.events || []).forEach((e) => {
+    if (e.who === "you" && /tuition|coaching|class|lesson|exam/i.test(e.title) && !/\bmy\b/i.test(e.title))
+      e.who = "kid";
+  });
+}
 function fixRoutines() {
   if (S.fixR1 || !S.todos?.length) return;
   S.fixR1 = 1;

@@ -1,8 +1,11 @@
 /* Progress: subjects, time, work, history, school reports and documents */
 /* subject filter for the work lists (lessons have their own subject row) */
 const qfOf = () => (S.subjects.includes(ui.qf) ? ui.qf : "all");
+// a small labelled dropdown, only when there is more than one subject to choose from
 const subjChips = () =>
-  `<div class="row" style="flex-wrap:wrap;gap:6px">${["all", ...S.subjects].map((x) => `<button class="chip" aria-pressed="${qfOf() === x}" data-act="qf" data-s="${x}">${x === "all" ? "All subjects" : SUBJ[x]}</button>`).join("")}</div>`;
+  S.subjects.length > 1
+    ? `<label class="row sm" style="align-items:center;gap:8px">Subject <select class="inp" id="qfSel" style="width:auto;height:40px">${["all", ...S.subjects].map((x) => `<option value="${x}" ${qfOf() === x ? "selected" : ""}>${x === "all" ? "All subjects" : SUBJ[x]}</option>`).join("")}</select></label>`
+    : "";
 const bySubj = (L) => (qfOf() === "all" ? L : L.filter((x) => x.u?.subj === qfOf()));
 /* reorder: the moved items keep the slots they had, so a filtered list reorders only itself */
 /* Progress → History: everything finished, by kind and subject */

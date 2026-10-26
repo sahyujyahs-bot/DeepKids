@@ -402,14 +402,13 @@ function quizPastView() {
 /* lists and refresher settings */
 function rfsetView() {
   document.getElementById("sheetTitle").textContent = "Refresher";
-  return rfsetBody();
+  return rfsetBody() + rfTiming();
 }
-// the three refresher lists, set for the family, and their timing (which the family can change)
+// the refresher: what's coming up, and the three lists it picks from
 function rfsetBody() {
   const R = RFS(),
     L = masteryLists(),
     M = lastAnswers(),
-    EV = [1, 2, 3, 5, 7, 10, 14, 30],
     every = (n) => (n === 1 ? "every day" : `every ${n} days`);
   const card = (
     g,
@@ -426,7 +425,28 @@ function rfsetBody() {
             .join("")}${L[g].length > 12 ? `<span class="xs muted">+${L[g].length - 12} more</span>` : ""}</div>`
         : `<p class="xs muted">None yet.</p>`
     }</section>`;
-  // the timing is set for the family; they can change it, folded away so it doesn't get in the way
+  // what the refresher goes over on each of the next seven days
+  const soon = [0, 1, 2, 3, 4, 5, 6]
+    .map((i) => [addDays(today, i), rfPlan(addDays(today, i))])
+    .filter(([, p]) => p && (p.topics?.length || p.fxOnly));
+  const coming = soon.length
+    ? `<section class="card"><b style="font:600 17px var(--display)">Coming up</b><div class="col" style="gap:6px">${soon
+        .map(
+          ([d, p]) =>
+            `<div class="sm"><b>${d === today ? "Today" : esc(fmt(d))}</b> · ${p.mins} min · ${
+              p.topics?.length ? p.topics.map((t) => esc(chT(unitByK(t.k)) || t.k)).join(", ") : esc(p.sub || p.title)
+            }</div>`,
+        )
+        .join("")}</div></section>`
+    : "";
+  return `<p class="sm">Past topics your child goes back over so they stick, about ${R.mins} minutes a day. DeepKids picks them from the three lists below.</p>
+   ${coming}${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`;
+}
+// how long the daily refresher is, on which days, and how often each list's topics come back (Plan → Settings)
+function rfTiming() {
+  const R = RFS(),
+    EV = [1, 2, 3, 5, 7, 10, 14, 30],
+    every = (n) => (n === 1 ? "every day" : `every ${n} days`);
   const timing = (g) => `<div class="col" style="gap:6px"><b class="sm">${MGN[g]}</b>
     <div class="row" style="align-items:center"><span class="sm">Comes back</span><select class="inp" style="width:auto;height:40px" data-rfe="${g}">${EV.map((v) => `<option value="${v}" ${R[g].every === v ? "selected" : ""}>${every(v)}</option>`).join("")}</select></div>
     ${Object.keys(RTN)
@@ -435,12 +455,9 @@ function rfsetBody() {
           `<div class="row" style="align-items:center;justify-content:space-between;flex-wrap:nowrap"><span class="sm">${RTN[t]}</span><div class="stepper"><button data-act="rfmix" data-g="${g}" data-t="${t}" data-d="-10" ${R[g].mix[t] <= 0 ? "disabled" : ""} aria-label="Less ${RTN[t]}">−</button><span class="sm" style="min-width:48px;text-align:center">${R[g].mix[t]}%</span><button data-act="rfmix" data-g="${g}" data-t="${t}" data-d="10" ${R[g].mix[t] >= 100 ? "disabled" : ""} aria-label="More ${RTN[t]}">+</button></div></div>`,
       )
       .join("")}</div>`;
-  return `<p class="sm">Each day there is a ${R.mins}-minute refresher: your child goes back over topics from past lessons so they stick. DeepKids picks the topics from the three lists below. You don't need to set anything.</p>
-   ${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>
-   <details class="card"><summary class="sm"><b>Change the timing</b> (optional)</summary><div class="col" style="gap:14px;margin-top:10px">
-   <div class="row" style="align-items:center"><span class="sm">Refresher each day</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[15, 20, 30, 45, 60].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>
-   <p class="xs muted">For each list: how often its topics come back, and what the refresher is made of (the percentages are shares of the time).</p>
-   ${timing("not")}${timing("grasped")}${timing("mastered")}</div></details>`;
+  return `<section class="card"><b style="font:600 17px var(--display)">Refresher</b><p class="xs muted">Already set for you. Change it only if you want to.</p>
+   <div class="row" style="align-items:center"><span class="sm">Each day</span><select class="inp" style="width:auto;height:40px" id="rfmins">${[15, 20, 30, 45, 60].map((v) => `<option value="${v}" ${R.mins === v ? "selected" : ""}>${v} min</option>`).join("")}</select></div><div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button aria-pressed="${R.days.includes(d)}" data-act="rfday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>
+   <details><summary class="sm">How often each list comes back, and what a refresher is made of</summary><div class="col" style="gap:14px;margin-top:10px">${timing("not")}${timing("grasped")}${timing("mastered")}</div></details></section>`;
 }
 function quizTranscript() {
   const R = S.qzr || [],
