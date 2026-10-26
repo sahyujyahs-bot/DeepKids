@@ -4583,13 +4583,13 @@ body.ai-locked .fxaskb .iam::after {
   display: inline-block;
   flex: none;
   width: 64px;
-  aspect-ratio: 342 / 404;
+  aspect-ratio: 343 / 404;
 }
 .iamfig {
   position: absolute;
   inset: 0 auto auto 0;
   width: 100%;
-  aspect-ratio: 342 / 404;
+  aspect-ratio: 343 / 404;
   transform-origin: 50% 100%;
   animation: iambreathe 4.5s ease-in-out infinite;
 }
@@ -4603,7 +4603,7 @@ body.ai-locked .fxaskb .iam::after {
 }
 .iamfig .iambody,
 .iamfig .iampose {
-  transition: opacity 0.35s;
+  transition: opacity 0.18s;
 }
 .iamfig .iampose {
   inset: 0;
@@ -4612,7 +4612,10 @@ body.ai-locked .fxaskb .iam::after {
 }
 .iam[data-pose="read"] .iampose[data-p="read"],
 .iam[data-pose="page"] .iampose[data-p="page"],
-.iam[data-pose="shift"] .iampose[data-p="shift"] {
+.iam[data-pose="shift"] .iampose[data-p="shift"],
+.iam[data-pose="glance"] .iampose[data-p="glance"],
+.iam[data-pose="reach"] .iampose[data-p="reach"],
+.iam[data-pose="lift"] .iampose[data-p="lift"] {
   opacity: 1;
 }
 .iam[data-pose]:not([data-pose="look"]) .iambody {
@@ -4623,16 +4626,16 @@ body.ai-locked .fxaskb .iam::after {
   visibility: hidden;
 }
 .iamfig .iamblink {
-  left: 40.32%;
+  left: 40.46%;
   top: 12.24%;
-  width: 18.72%;
+  width: 18.68%;
   opacity: 0;
   animation: iamblink 6s steps(1) infinite;
 }
 .iamfig .iammouth {
-  left: 42.95%;
+  left: 43.08%;
   top: 21.66%;
-  width: 14.04%;
+  width: 14.01%;
   opacity: 0;
 }
 @keyframes iambreathe {
@@ -5970,9 +5973,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="5c813abc133591";window.DK_APPV="5c813abc13";window.DK_DATAV="3591ffba9f"</script>
-<script src="/config.js?v=5c813abc133591"></script>
+<script>window.DK_BUILD="2578859e643591";window.DK_APPV="2578859e64";window.DK_DATAV="3591ffba9f"</script>
+<script src="/config.js?v=2578859e643591"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=5c813abc133591"></script>
+<script src="/platform.js?v=2578859e643591"></script>
 </body>
 </html>

@@ -4571,13 +4571,13 @@ body.ai-locked .fxaskb .iam::after {
   display: inline-block;
   flex: none;
   width: 64px;
-  aspect-ratio: 342 / 404;
+  aspect-ratio: 343 / 404;
 }
 .iamfig {
   position: absolute;
   inset: 0 auto auto 0;
   width: 100%;
-  aspect-ratio: 342 / 404;
+  aspect-ratio: 343 / 404;
   transform-origin: 50% 100%;
   animation: iambreathe 4.5s ease-in-out infinite;
 }
@@ -4591,7 +4591,7 @@ body.ai-locked .fxaskb .iam::after {
 }
 .iamfig .iambody,
 .iamfig .iampose {
-  transition: opacity 0.35s;
+  transition: opacity 0.18s;
 }
 .iamfig .iampose {
   inset: 0;
@@ -4600,7 +4600,10 @@ body.ai-locked .fxaskb .iam::after {
 }
 .iam[data-pose="read"] .iampose[data-p="read"],
 .iam[data-pose="page"] .iampose[data-p="page"],
-.iam[data-pose="shift"] .iampose[data-p="shift"] {
+.iam[data-pose="shift"] .iampose[data-p="shift"],
+.iam[data-pose="glance"] .iampose[data-p="glance"],
+.iam[data-pose="reach"] .iampose[data-p="reach"],
+.iam[data-pose="lift"] .iampose[data-p="lift"] {
   opacity: 1;
 }
 .iam[data-pose]:not([data-pose="look"]) .iambody {
@@ -4611,16 +4614,16 @@ body.ai-locked .fxaskb .iam::after {
   visibility: hidden;
 }
 .iamfig .iamblink {
-  left: 40.32%;
+  left: 40.46%;
   top: 12.24%;
-  width: 18.72%;
+  width: 18.68%;
   opacity: 0;
   animation: iamblink 6s steps(1) infinite;
 }
 .iamfig .iammouth {
-  left: 42.95%;
+  left: 43.08%;
   top: 21.66%;
-  width: 14.04%;
+  width: 14.01%;
   opacity: 0;
 }
 @keyframes iambreathe {
@@ -19367,22 +19370,29 @@ const fxAIOn = () => S.aiPlan === "on" || !!window.DK_PLATFORM?.plus?.()?.on;
 /* IAm, the DeepKids teacher: a lion-man with four arms, sitting on a stone step with a book. Tap him to talk (fxChat).
    States are classes on any parent: .iamthink (waiting for an answer: his eyes close), .iamtalk (answering: he speaks).
    The small sizes (big, mini) show his face in a round frame. The one on screen (no size) also has poses, data-pose:
-   he reads, turns a page and shifts on his own (iamIdle), and looks up at the family (iamLook). */
-const IAM_POSES = ["read", "page", "shift"];
+   he reads, turns a page and shifts on his own (iamIdle), and looks up at the family (iamLook). Between two poses
+   he passes through a middle frame (glance, reach, lift), so he moves rather than jumps. */
+const IAM_POSES = ["read", "page", "shift", "glance", "reach", "lift"];
 function iamFace(cls = "") {
   const poses = cls
     ? ""
     : IAM_POSES.map((p) => `<img class="iampose" data-p="${p}" src="media/ui/iam-${p}.webp" alt="">`).join("");
   return `<span class="iam ${cls}"${cls ? "" : ' data-pose="read"'} aria-hidden="true"><span class="iamframe"><span class="iamfig"><img class="iambody" src="media/ui/iam.webp" alt="">${poses}<img class="iamblink" src="media/ui/iam-blink.webp" alt=""><img class="iammouth" src="media/ui/iam-talk.webp" alt=""></span></span></span>`;
 }
-// what he does on his own, and for how long (ms)
+// what he does on his own, and for how long (ms); the short ones are the middle frames
 const IAM_IDLE = [
   ["read", 6000],
+  ["reach", 220],
   ["page", 900],
+  ["reach", 220],
   ["read", 7000],
+  ["lift", 260],
   ["shift", 8000],
+  ["lift", 260],
   ["read", 5000],
+  ["reach", 220],
   ["page", 900],
+  ["reach", 220],
 ];
 let iamStep = 0,
   iamTimer = 0;
@@ -19397,9 +19407,16 @@ function iamIdle() {
 }
 // when he is tapped, or the app tells the family something, he looks up for a while, then goes back to his book
 function iamLook(ms = 6000) {
-  iamPose("look");
   clearTimeout(iamTimer);
-  iamTimer = setTimeout(iamIdle, ms);
+  iamPose("glance");
+  iamTimer = setTimeout(() => {
+    iamPose("look");
+    iamTimer = setTimeout(() => {
+      iamPose("glance");
+      iamStep = 0; // back to his book from the start of the routine
+      iamTimer = setTimeout(iamIdle, 220);
+    }, ms);
+  }, 200);
 }
 // after an answer arrives, he speaks for about as long as it would take to say it
 function iamSay(el, text) {
