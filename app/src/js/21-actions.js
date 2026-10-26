@@ -118,7 +118,7 @@ function onAct(e) {
               },
             ])
             .slice(-3000);
-          addMins(P.k, sec);
+          addMins(unitByK(String(P.k || "").replace(/^x/, ""))?.subj, sec);
         }
         stepT = null;
       }

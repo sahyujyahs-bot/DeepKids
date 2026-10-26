@@ -777,6 +777,7 @@ async function fxOpen(id) {
       T = (F.time[u.id] = F.time[u.id] || {}),
       k = FXALL.sections[FXSI].id;
     T[k] = (T[k] || 0) + 5;
+    addMins(unitBy("unit|" + u.id)?.subj, 5);
     if (T[k] % 30 === 0) save();
   }, 5000);
 }

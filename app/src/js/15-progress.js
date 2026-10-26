@@ -177,7 +177,7 @@ function viewJourneyTabs() {
       '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
     );
   } else if (k === "time")
-    h += `<section class="sec"><button class="menurow" data-act="hist">${blob("var(--pist)", 9, "happy", "", 'width="40" height="40"')}<span><b>Everything done, day by day</b><br><span class="xs muted">${S.log.length} lessons with times</span></span>${icon("next")}</button>${trackView()}</section>`;
+    h += `<section class="sec"><button class="menurow" data-act="hist">${blob("var(--pist)", 9, "happy", "", 'width="40" height="40"')}<span><b>History</b><br><span class="xs muted">Each lesson your child finished, newest first, by date</span></span>${icon("next")}</button>${trackView()}</section>`;
   else if (k === "work")
     h += `<section class="sec"><button class="menurow" data-act="todo">${blob("var(--tang)", 11, "calm", "", 'width="40" height="40"')}<span><b>Unfinished work</b><br><span class="xs muted">Started, pending and queued things are in Plan → Ongoing, Pending and Queue</span></span>${icon("next")}</button></section><section class="sec"><div class="sech"><h3>Finished work</h3></div><button class="menurow" data-act="folder">${blob("var(--leaf)", 14, "wow", "", 'width="40" height="40"')}<span><b>Work folder</b><br><span class="xs muted">Every worksheet with answers, quizzes and projects. Save or print.</span></span>${icon("next")}</button></section><section class="sec"><div class="sech"><h3>Photos and files</h3></div>${uploadsView()}</section>`;
   else h += `<section class="sec">${schoolView()}</section>`;
@@ -868,11 +868,11 @@ const hmin = (m) => {
   m = Math.round(m);
   return m < 60 ? m + " min" : Math.floor(m / 60) + " h" + (m % 60 ? " " + (m % 60) + " m" : "");
 };
-function addMins(k, sec) {
-  const u = unitByK(String(k || "").replace(/^x/, ""));
-  if (!u) return;
+// timed study, by day and subject: lesson steps (21-actions) and the time spent inside a DeepKids-track unit (fxOpen)
+function addMins(subj, sec) {
+  if (!subj) return;
   S.mins = S.mins || {};
-  const key = today + "|" + u.subj;
+  const key = today + "|" + subj;
   S.mins[key] = Math.round(((S.mins[key] || 0) + sec / 60) * 10) / 10;
 }
 function trackData() {
@@ -1006,7 +1006,10 @@ function trackView() {
     study = ds.filter((d) => dTot(T[d]) > 0 || T[d].did.some((x) => x.t === "lesson"));
   const all = study.reduce((a, d) => a + dTot(T[d]), 0),
     wk = study.filter((d) => d > addDays(today, -7)).reduce((a, d) => a + dTot(T[d]), 0),
-    fin = Object.keys(S.progress || {}).filter((k) => st(k) === "completed").length,
+    F = fxSt(),
+    fin =
+      Object.keys(S.progress || {}).filter((k) => st(k) === "completed").length +
+      Object.keys({ ...F.done, ...F.time }).filter((id) => ["completed", "mastered"].includes(st("unit|" + id))).length,
     sub = {};
   study.forEach((d) =>
     SUBJ_KEYS.forEach((s) => {
@@ -1021,7 +1024,7 @@ function trackView() {
     }),
   );
   const smax = Math.max(1, ...Object.values(sub).map((x) => x.m));
-  let h = `<div class="tiles"><div class="tile"><b>${hmin(all)}</b><span>studied in all</span></div><div class="tile"><b>${study.length}</b><span>study days</span></div><div class="tile"><b>${hmin(study.length ? all / study.length : 0)}</b><span>a study day, on average</span></div><div class="tile"><b>${hmin(wk)}</b><span>in the last 7 days</span></div><div class="tile"><b>${fin}</b><span>chapters finished</span></div></div>`;
+  let h = `<div class="tiles"><div class="tile"><b>${hmin(all)}</b><span>studied in all</span></div><div class="tile"><b>${study.length}</b><span>study days</span></div><div class="tile"><b>${hmin(study.length ? all / study.length : 0)}</b><span>a study day, on average</span></div><div class="tile"><b>${hmin(wk)}</b><span>in the last 7 days</span></div><div class="tile"><b>${fin}</b><span>topics finished</span></div></div>`;
   h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">Last two weeks</h3></div>${trackChart(T)}</section>`;
   h += `<section class="sec"><div class="sech"><h3 style="font-size:18px">By subject</h3><span class="xs muted">all time</span></div>${
     Object.keys(sub).length
@@ -1273,17 +1276,6 @@ function schoolView() {
   <div class="row" style="gap:10px;flex-wrap:wrap"><button class="btn accent sm" data-act="tsave">Download transcript</button><button class="btn soft sm" data-act="tprint">Print or save as PDF</button></div>
   <details class="card"><summary><b>Details for the school</b> <span class="xs muted">· optional</span></summary><div class="fgrid" style="margin-top:10px">${f("dob", "Date of birth", "date")}${f("to", "School applying to", "text", "e.g. Kendriya Vidyalaya, Indiranagar")}${f("cls", "Class applying for", "text", "e.g. Class 4")}${f("contact", "Parent phone or email")}</div><div class="field"><label for="sch-note">A note for the school</label><textarea class="inp" id="sch-note" data-sch="note" rows="3" placeholder="How you homeschool, strengths, anything they should know">${esc(I.note || "")}</textarea></div></details>`;
   h += testSection();
-  h += testSection();
-  h += testSection();
-  h += testSection();
-  h += testSection();
-  h += testSection();
-  h += testSection();
-  h += testSection();
-  h += testSection();
-  h += testSection();
-  h += testSection();
-  h += testSection();
   h += `<div class="tiles"><div class="tile"><b>${D.ds.length}</b><span>study days${D.from ? ` since ${esc(fmt(D.from))}` : ""}</span></div><div class="tile"><b>${hmin(D.mins)}</b><span>of study</span></div><div class="tile"><b>${D.subs.reduce((a, x) => a + x.L.filter((c) => c.fin).length, 0)}</b><span>chapters completed</span></div><div class="tile"><b>${D.ws}</b><span>worksheets finished</span></div></div>`;
   const idle = D.subs.filter((x) => !x.L.length);
   D.subs
@@ -1486,7 +1478,7 @@ function folderPrint() {
   printDoc(folderDoc());
 }
 function historyView() {
-  document.getElementById("sheetTitle").textContent = "Everything done";
+  document.getElementById("sheetTitle").textContent = "History";
   const L = S.log.filter((l) => l.kind !== "free" || l.title);
   if (!L.length)
     return `<p class="note">Lessons you finish are listed here, newest first, with the time and day of the chapter.</p>`;

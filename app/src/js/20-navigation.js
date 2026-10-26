@@ -29,11 +29,7 @@ const SEGS = {
     ["cal", "This week", "What's planned, day by day. Tap a day to see it."],
     ["next", "Up next", "What comes next in each subject. Drag to change the order."],
     ["finish", "To finish", "What your child started, and what is still to try."],
-    [
-      "refresh",
-      "Refresher",
-      "Topics to go over again, each list on its own rhythm: not grasped yet, grasped, mastered.",
-    ],
+    ["refresh", "Refresher", "Past topics your child goes back over, so they stick."],
     [
       "family",
       "Settings",
