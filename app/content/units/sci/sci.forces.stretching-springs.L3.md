@@ -140,6 +140,10 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
 - A stretched or squashed elastic thing stores energy, which it gives back when it springs back. *How we know:* Catapults, bows, wind-up clocks and bouncing balls all use it. Scientists measure the energy that goes in and comes out.
 - Earthquakes happen when bent rock underground suddenly slips and springs back. *How we know:* Scientists measured how the ground had bent before and after the 1906 San Francisco earthquake. Today GPS stations measure rock slowly bending across the Himalaya.
 
+## How we found out
+**Robert Hooke (1635 to 1703), an English scientist who worked in London, He found the rule around 1660, hid it in a letter puzzle in 1676, and published it in 1678..** Around 1660, in London, Robert Hooke began hanging weights on springs. He tried coiled wire springs, a watch spring and a strip of dry wood. It is easy to think that hard things, like a metal wire or a bone, do not stretch at all. A short wire seems to prove it. Hooke had a clever idea. He hung a pan for weights from a very long wire, 20 to 40 feet long. Every bit of the wire stretched a tiny amount, and all the bits added up. Now he could measure the stretch from the floor. He added equal weights, one after another. Each one made the wire longer by an equal step. In 1676 he hid his rule in a puzzle of jumbled letters, so nobody could claim it first. In 1678 he gave the answer in Latin: 'ut tensio, sic vis'. It means 'as the stretch, so the force'. He said the rule works in metal, wood, stone, horn, bone, silk, hair and glass. He was right that they all stretch. But later tests showed his rule has a limit. Pull too far, and the steps stop being equal.  
+*What people believed before:* That hard things like a metal wire, stone or bone do not stretch at all. Hooke's long wire showed that they do, a tiny bit, in equal steps. Then Hooke went too far himself. He said every springy thing follows his rule. Later tests showed that it works only for small stretches, and only roughly for rubber.
+
 ## Challenging perspectives
 - **Stretchy things are weak, and strong things are stiff.** (A common way of thinking; *rejected*)  
   For: A rubber band breaks easily, while a steel rod does not stretch at all that we can see.  
@@ -162,6 +166,30 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
 - **A branch that is bending is about to break.** (A common worry; *rejected*)  
   For: Branches do break when they are bent too far.  
   Against: Bending by itself is safe. A green branch bends in every breeze and springs back. The warning sign is a branch that bends and does not come all the way back. That means it has passed its elastic limit. Engineers watch for this same sign in cranes and bridges.
+
+## Roots
+We have found that equal pulls give equal stretches, until a spring is pulled too far and stays long. Now we ask what that tells us about the shapes of things, and about ourselves.
+
+**Deep truth.** A spring does not remember its shape. Its shape is where the pulls between its atoms balance. Pull a little, and those pulls bring it back. Pull too far, and its atoms settle beside new neighbours, so the old shape is gone.  
+*Habit it breaks:* We talk as if a spring remembers its shape, or wants to go back, as if the shape were stored inside it. Nothing is stored and nothing is wanted. The shape is a balance, held from moment to moment by pulls between atoms. So 'springs back' and 'stays bent' are not two kinds of stuff. The same pen spring does both. It depends on how far it is pulled.  
+*Evidence:* In the coin test, each 5 coins added about the same stretch, and the band came back when the coins came out. The pen spring came back from small pulls. After a big pull it rested at a new, longer length, and from then on it sprang back to that new length.
+
+- *who am i:* Your shape is held by pulls too. Your tendons, skin and bones stretch a little with every step, and bring you back.
+- *what is life:* Living things are full of springs: tendons, spider silk, the rubbery pad in a flea's leg. They store a step or a jump and give most of it back.
+- *what is this world:* Every solid is a spring, even stone and steel. Some are just very stiff. The rock under India is being bent, slowly, right now.
+
+A spring at rest looks as if nothing is happening in it. In fact it is full of pulls and pushes, and they add up to zero. That zero is not emptiness. It is a balance, and every shape a solid holds comes out of it. DeepKids sees this as the One becoming the many: one balance of pulls, showing up as a pen spring, a tendon, a spider's thread and a mountain range.
+
+- **Heraclitus, fragment DK B51:** Heraclitus said people do not see how something pulling in two directions can hold together. His examples were the bow and the lyre, a stringed instrument. (A strung bow keeps its shape only because the string pulls one way and the wood pulls back. A solid's atoms hold their shape the same way, pull against pull.)
+- **Tao Te Ching 76:** Living plants are soft and bendy. Dead ones are dry and brittle. So the stiff and hard are easily broken, and the soft and bendy last. (In Bend or Snap?, the green twig bends and springs back, and the dry twig snaps. Living tendons, skin and silk are springy too.)
+- **Anguttara Nikaya 6.55, the story of Sona:** The Buddha asks Sona, who once played the veena. If the strings are too tight, does it play in tune? If they are too loose? Only strings stretched just right make music. (In the Rubber Band Orchestra, the note depends on how tightly the band is stretched. Stretch it too far, and it no longer comes back at all.)
+- Science (settled): A solid keeps its shape because of electric pulls and pushes between its atoms. For small stretches, the pull back grows in step with the stretch, which is why Hooke's rule works. Past the elastic limit, rows of atoms slip into new places.
+- Science (open): Exactly where and when a slip will start, in a metal spring or in the rock under the Himalaya, still cannot be predicted.
+- Other view, Democritus in ancient Greece, and many physicists today: There are only atoms and the forces between them. A spring's shape is simply where its atoms are. Calling it a balance that shows the One adds nothing the physics does not already say. This is a careful, honest view.
+- Practice, Feel two pulls make zero (3 min): Hold a rubber band between your two pointing fingers. Stretch it a little and keep your hands still. Breathe in slowly, and out slowly. The band is not moving. But feel it pull on both fingers, all the time. Now let your fingers come together very slowly. Feel the pull fade as the band goes back. Last, rest your hand on your arm. Your arm is still too. What is pulling inside it?
+- Ask: After the big pull, the pen spring rests at a new length. Is it the same spring as before, or a new one?
+- Ask: If your own shape is held by pulls between atoms, what is holding you together right now?
+- Ask: How could anyone tell that a still rock, or a still bridge, is close to its limit?
 
 ## Deep and big questions
 - *deep:* A rubber band seems to 'remember' its shape. Does it really remember anything? What is happening instead? (hint: Think of each atom resting where the pulls from its neighbours balance.)
