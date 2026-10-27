@@ -30,6 +30,8 @@ Correct grammar, natural word order, one idea per sentence, sentences that follo
 ### 4. Is it true?
 Check every claim: what things are made of (most nails are steel, not iron; a fridge magnet is a ceramic made with iron oxide), dates, names, numbers, who discovered what, how a living thing behaves. If you are not sure and cannot check, leave it out or say plainly that it is uncertain. List anything unchecked in your report.
 
+Names, foods, places and festivals: about 60% South Indian, 40% North, East and West (WRITING.md rule 11).
+
 ### 5. Will it work in a real Indian home, especially a city flat?
 For every experiment, activity, game, project and challenge:
 - **Materials:** most homes have them (steel bowls, curd, atta, salt, a torch, a plastic bottle, newspaper, a potted plant). If an item must be bought, it must be easy to buy in India, and the step gives a home alternative. Never depend on a specific product or brand (iron-fortified cereal), or on things only a garden has.

@@ -19,7 +19,7 @@ If either of them has to stop and work out what we meant, we have failed. Depth 
 8. **Answers are full and show the working.** Not "3 times." Write "3 times. The shoe stayed on until 12 cm and the sock slid at 4 cm. 12 ÷ 4 = 3."
 9. **Questions stand alone.** A question must make sense to someone who opens the app on that exact card.
 10. **Plain punctuation.** No semicolons. No chains of colons. Few brackets. No slashes, "e.g.", "etc." or abbreviations (write "for example", "newtons" before "N").
-11. **Concrete and Indian.** Chappals, steel tumblers, carrom boards, ghats, autos, the kitchen floor, before abstractions.
+11. **Concrete and Indian.** Chappals, steel tumblers, carrom boards, ghats, autos, the kitchen floor, before abstractions. **About 60% South Indian, 40% North, East and West:** names (Meenakshi, Arjun, Kavya, Farhan, Lakshmi), foods (idli, dosa, rasam, payasam), places (Chennai, Kochi, Madurai, Mysuru, Hyderabad), festivals (Pongal, Onam, Ugadi) and words (tumbler, kolam, uruli) lean South. Don't default to Hindi words or North Indian settings.
 12. **Honest about doubt, in plain words.** "Scientists still argue about this. Here are the main ideas."
 13. **Warm, not cute.** No baby talk, no forced jokes inside instructions. Talk to the child the way a kind, clear teacher would.
 14. **Every card carries its own context.** People scroll, skip and come back days later. Each card opens with one plain line saying what this is and why it is here: "Remember the slope test, where you lifted a board until the shoe slid? Here are some made-up results." Never rely on the card before it.
