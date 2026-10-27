@@ -79,8 +79,8 @@
   {
    "term": "Storage root",
    "meaning": "A root that grows fat because it is full of stored food.",
-   "example": "Carrot, mooli, beetroot and shakarkand, which is sweet potato, are storage roots.",
-   "art": "A carrot, a mooli, a beetroot and a sweet potato lying in a row."
+   "example": "Carrot, radish, beetroot and shakarkand, which is sweet potato, are storage roots.",
+   "art": "A carrot, a radish, a beetroot and a sweet potato lying in a row."
   },
   {
    "term": "Bud",
@@ -103,7 +103,7 @@
   {
    "term": "Rhizome",
    "meaning": "A stem that grows sideways under the ground. It stores food and has rings and buds.",
-   "example": "Ginger and haldi, which is turmeric, are rhizomes.",
+   "example": "Ginger and turmeric (manjal, or haldi) are rhizomes.",
    "art": "A knobbly piece of ginger with its rings and a small green shoot."
   },
   {
@@ -238,7 +238,7 @@
    "concept": "Roots that store food",
    "status": "defined",
    "definition": "Some roots grow fat because they are full of stored food. The food was made in the leaves and sent down the stem to be kept for later.",
-   "description": "A carrot, a mooli, a beetroot and a sweet potato are all storage roots. They taste sweet or starchy because they are packed with food. But the plant did not store that food for us. It stored it for itself. A carrot's life has two parts. First it grows leaves and fills its root with sugar. Then, after the cold weather, it uses that stored food very fast. It sends up a tall stalk with white umbrella-shaped flowers, and makes seeds. In cold countries this takes two years. In north India it happens between autumn and the next spring. Farmers in north India use this. They dig up their carrots in winter, choose the best ones and plant them again. By spring those carrots have flowered and made seed for next year. If you dig up a carrot after it has flowered, it is woody and not sweet. Its food has gone up into the flowers and seeds.",
+   "description": "A carrot, a radish, a beetroot and a sweet potato are all storage roots. They taste sweet or starchy because they are packed with food. But the plant did not store that food for us. It stored it for itself. A carrot's life has two parts. First it grows leaves and fills its root with sugar. Then, after the cold weather, it uses that stored food very fast. It sends up a tall stalk with white umbrella-shaped flowers, and makes seeds. In cold countries this takes two years. In north India it happens between autumn and the next spring. Farmers in north India use this. They dig up their carrots in winter, choose the best ones and plant them again. By spring those carrots have flowered and made seed for next year. If you dig up a carrot after it has flowered, it is woody and not sweet. Its food has gone up into the flowers and seeds.",
    "examples": [
     "A carrot top left in a saucer of water grows new leaves, using food stored at its top.",
     "Sweet potato, shakarkand, is a root, even though a potato is a stem.",
@@ -246,7 +246,7 @@
    ],
    "perspectives": [],
    "art": "A carrot plant in two panels: first, leafy with a fat orange root, and later, a tall stalk of white umbrella flowers and a thin woody root.",
-   "context": "Why are carrots and mooli so fat? This card explains what a fat root is for, and who it is really for."
+   "context": "Why are carrots and radishes so fat? This card explains what a fat root is for, and who it is really for."
   },
   {
    "concept": "Roots with surprising jobs",
@@ -279,8 +279,8 @@
   {
    "concept": "Stems that store food",
    "status": "defined",
-   "definition": "Some stems grow fat and store food, often under the ground. Potato, ginger, haldi, arbi and sugarcane all store food in their stems.",
-   "description": "A potato looks like a root, but it is a stem. You can tell from its eyes. Each eye is a bud, and the eyes sit in a spiral round the potato, just as leaves sit in a spiral round a stem. Ginger and haldi are stems that grow sideways under the ground. Look for the rings on them. Those are nodes. Arbi is a short, fat underground stem. Sugarcane stores sugar in its tall stem above the ground. An onion is a little different. Its bottom is a tiny flat stem, and its juicy layers are swollen leaves full of stored food. So the onion stores food in its leaves. Plants store food in underground stems so they can survive a dry season or a cold winter, and grow again quickly when the rain comes.",
+   "definition": "Some stems grow fat and store food, often under the ground. Potato, ginger, turmeric, chembu and sugarcane all store food in their stems.",
+   "description": "A potato looks like a root, but it is a stem. You can tell from its eyes. Each eye is a bud, and the eyes sit in a spiral round the potato, just as leaves sit in a spiral round a stem. Ginger and turmeric are stems that grow sideways under the ground. Look for the rings on them. Those are nodes. Chembu is a short, fat underground stem. Sugarcane stores sugar in its tall stem above the ground. An onion is a little different. Its bottom is a tiny flat stem, and its juicy layers are swollen leaves full of stored food. So the onion stores food in its leaves. Plants store food in underground stems so they can survive a dry season or a cold winter, and grow again quickly when the rain comes.",
    "examples": [
     "Farmers cut seed potatoes into pieces, making sure each piece has at least one eye. Each eye can grow a new plant.",
     "A piece of ginger left in a damp place grows a green shoot from one of its buds.",
@@ -358,7 +358,7 @@
    "description": "In a desert, a wide leaf would lose too much water. So a cactus has no wide leaves. Its leaves have become spines that guard it, and its fat green stem does the leaf's job. Aloe stores water in thick, juicy leaves. On a pond, a lotus leaf is round and flat, so it floats. Its tiny holes, the stomata, are on the top side, facing the air, not underneath in the water. Its skin is covered with tiny waxy bumps, so water rolls off in balls and carries the dirt away. Scientists call this the lotus effect. In the Amazon, a giant water lily grows leaves wider than a car, held up by thick ribs underneath. A garden designer called Joseph Paxton said those ribs gave him the idea for a huge glass building in London, the Crystal Palace, in 1851. In Meghalaya, a pitcher plant grows in poor soil. Its leaves end in jugs that trap insects, which feed it.",
    "examples": [
     "Pine trees in cold mountains have needle leaves that lose little water.",
-    "Arbi leaves, like lotus leaves, make raindrops roll off in shiny balls.",
+    "Chembu (arbi) leaves, like lotus leaves, make raindrops roll off in shiny balls.",
     "Jalkumbhi, water hyacinth, has puffy leaf stalks full of air, so it floats on ponds."
    ],
    "perspectives": [],
@@ -505,7 +505,7 @@
   {
    "claim": "Fat roots grow big so that people and animals can eat them.",
    "who": "A way of thinking many of us have without noticing",
-   "for": "We grow carrots and mooli for food, and farmers choose the biggest ones.",
+   "for": "We grow carrots and radishes for food, and farmers choose the biggest ones.",
    "against": "The root stores food for the plant's own future. A carrot left in the ground uses its stored sugar to grow a tall flower stalk and seeds. People did breed carrots to be bigger and sweeter, but the store was there first, for the plant.",
    "status": "rejected",
    "context": "Carrots and beetroots are fat and sweet. This card asks who that food is really for."
@@ -656,7 +656,7 @@
       "Ginger: knobbly, with rings, grows sideways underground",
       "Onion: made of juicy layers on a flat bottom",
       "Sugarcane: tall and sweet, with rings",
-      "Mooli: long, white, under the ground, with no eyes",
+      "Radish (mullangi): long, white, under the ground, with no eyes",
       "Pea tendril: curly thread at the end of a leaf",
       "Cactus spine: sharp point on a desert plant",
       "Cactus pad: fat, green and juicy, with spines",
@@ -668,9 +668,9 @@
       "Lotus plate: round, flat and floating",
       "Pitcher jug: a trap full of water that catches insects",
       "Aloe: thick, juicy and full of water",
-      "Haldi: orange inside, with rings, underground",
+      "Turmeric: orange inside, with rings, underground",
       "Sweet potato: fat and sweet, underground",
-      "Arbi: round, hairy, underground, with a bud on top",
+      "Chembu: round, hairy, underground, with a bud on top",
       "TEST IT: find a potato in the kitchen. Count its eyes.",
       "TEST IT: peel one layer of an onion. Is it like a leaf?",
       "TEST IT: look down on a pot plant from above. Do the leaves overlap much?",
@@ -750,7 +750,7 @@
      "do": "1. Take turns. Each player draws a card, reads it and puts it in a column. 2. They choose a job token and say how the shape helps. 3. Others agree or argue. A good reason wins the card.",
      "say": "When you put a card down, tell us its job. Then tell us how its shape helps it do that job.",
      "kid": "Take turns. Read your card. Put it under ROOT, STEM or LEAF. Pick a job token. Say how the shape helps.",
-     "parent": "Answers to expect. Roots: carrot, mooli, sweet potato, banyan pillar, mangrove pencil, money plant grip. Stems: potato, ginger, haldi, sugarcane, arbi, cactus pad, bean spiral, bougainvillea hook. Leaves: onion layers, pea tendril, cactus spine, lotus plate, pitcher jug, aloe. A good reason links the shape to the job. For example, 'The pencil roots stick up out of the mud so air can get in.'"
+     "parent": "Answers to expect. Roots: carrot, radish, sweet potato, banyan pillar, mangrove pencil, money plant grip. Stems: potato, ginger, turmeric, sugarcane, chembu, cactus pad, bean spiral, bougainvillea hook. Leaves: onion layers, pea tendril, cactus spine, lotus plate, pitcher jug, aloe. A good reason links the shape to the job. For example, 'The pencil roots stick up out of the mud so air can get in.'"
     },
     {
      "id": "s4",
@@ -1047,7 +1047,7 @@
        "Fibrous roots"
       ],
       [
-       "mooli",
+       "radish",
        "Tap root"
       ],
       [
@@ -1062,7 +1062,7 @@
      "t": "truefalse",
      "p": "Everything that grows under the ground is a root.",
      "a": false,
-     "why": "False. Potato, ginger, haldi and arbi grow under the ground, but they are stems. They have buds and rings. An onion's layers are leaves."
+     "why": "False. Potato, ginger, turmeric and chembu grow under the ground, but they are stems. They have buds and rings. An onion's layers are leaves."
     },
     {
      "t": "truefalse",
@@ -1127,11 +1127,11 @@
       "The carrot top",
       "The carrot middle slice",
       "The onion",
-      "The mooli top"
+      "The radish top"
      ],
      "a": 1,
      "why": "The carrot middle has stored food but no buds. New shoots grow from buds, and a carrot's buds are at its top. Picking the onion is a surprise guess. Onions usually grow first and fastest.",
-     "context": "In the Wake the Store experiment, you stand a carrot top, a carrot middle slice, a mooli top, an onion and a potato in saucers of water, and measure their new shoots.",
+     "context": "In the Wake the Store experiment, you stand a carrot top, a carrot middle slice, a radish top, an onion and a potato in saucers of water, and measure their new shoots.",
      "how": "e1"
     },
     {
@@ -1239,20 +1239,20 @@
        "Root"
       ],
       [
-       "haldi",
+       "turmeric",
        "Stem"
       ],
       [
-       "arbi",
+       "chembu",
        "Stem"
       ],
       [
-       "mooli",
+       "radish",
        "Root"
       ]
      ],
      "a": "see items",
-     "why": "Stems have buds and rings: potato, ginger, haldi, arbi. Onion layers are swollen leaves. Carrot, mooli and sweet potato are roots."
+     "why": "Stems have buds and rings: potato, ginger, turmeric, chembu. Onion layers are swollen leaves. Carrot, radish and sweet potato are roots."
     },
     {
      "t": "mcq",
@@ -1326,11 +1326,11 @@
     },
     {
      "t": "fill",
-     "p": "A stem that grows sideways under the ground, like ginger or haldi, is called a ____.",
+     "p": "A stem that grows sideways under the ground, like ginger or turmeric, is called a ____.",
      "a": [
       "rhizome"
      ],
-     "why": "Ginger and haldi are rhizomes. Their rings are nodes, and their buds can grow new shoots."
+     "why": "Ginger and turmeric are rhizomes. Their rings are nodes, and their buds can grow new shoots."
     },
     {
      "t": "mcq",
@@ -1373,7 +1373,7 @@
     },
     {
      "t": "write",
-     "p": "Arbi leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?",
+     "p": "Chembu leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?",
      "lines": 3,
      "a": "The rolling drops pick up dust and dirt and carry it away, so the leaf stays clean. A clean leaf catches more light. Water also does not sit on the leaf and block its tiny holes.",
      "why": "A good answer links the waxy shape to the leaf's job: staying clean to catch light and breathe."
@@ -1587,7 +1587,7 @@
    "mins": 35,
    "days": 8,
    "question": "Do roots and stems that store food have enough food inside to grow new shoots, with no soil at all?",
-   "predict": "Before you start, guess. Which piece will grow the tallest shoot in 8 days: the carrot top, the carrot middle, the mooli top, the onion or the potato? Will any piece grow nothing at all? Why do you think so?",
+   "predict": "Before you start, guess. Which piece will grow the tallest shoot in 8 days: the carrot top, the carrot middle, the radish top, the onion or the potato? Will any piece grow nothing at all? Why do you think so?",
    "fair_test": "Give every piece the same: the same depth of water, the same window, and fresh water every 2 days. Change only the kind of piece. The carrot middle is our check. It is the same carrot, but with no top, so we find out where new shoots grow from.",
    "results_table": [
     "Piece",
@@ -1599,7 +1599,7 @@
    ],
    "materials": [
     {
-     "item": "a carrot with its top, and a mooli with its top",
+     "item": "a carrot with its top, and a radish with its top",
      "qty": 1
     },
     {
@@ -1652,9 +1652,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Lay out the carrot, mooli, onion and potato. 2. Ask your child to guess which will grow the tallest new shoot in 8 days, and which will grow nothing.",
+     "do": "1. Lay out the carrot, radish, onion and potato. 2. Ask your child to guess which will grow the tallest new shoot in 8 days, and which will grow nothing.",
      "say": "These vegetables are all food stores. Roots and stems pack food away for the plant's future. Do you think they still have enough food to grow, with no soil at all?",
-     "kid": "Look at the carrot, mooli, onion and potato. They are all food stores. Can they grow without soil? Guess which grows tallest.",
+     "kid": "Look at the carrot, radish, onion and potato. They are all food stores. Can they grow without soil? Guess which grows tallest.",
      "ask": [
       {
        "q": "Why did you pick that one?",
@@ -1670,7 +1670,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. A grown-up cuts the top 3 cm off the carrot and off the mooli, keeping the leafy end. 2. Trim any old leaves to 1 cm. 3. Cut a 3 cm slice from the middle of the carrot, with no top. 4. Cut the bottom 2 cm off the onion, keeping the flat base. 5. Push 3 toothpicks into the potato and rest it on the glass, so its bottom half is in water.",
+     "do": "1. A grown-up cuts the top 3 cm off the carrot and off the radish, keeping the leafy end. 2. Trim any old leaves to 1 cm. 3. Cut a 3 cm slice from the middle of the carrot, with no top. 4. Cut the bottom 2 cm off the onion, keeping the flat base. 5. Push 3 toothpicks into the potato and rest it on the glass, so its bottom half is in water.",
      "say": "This slice from the middle of the carrot is our check. It is the same carrot, but it has no top. If only the top grows, we learn where new shoots come from.",
      "kid": "A grown-up cuts the pieces. Watch the carrot middle. It is our check. Does a carrot need its top to grow?",
      "adult": true
@@ -1678,7 +1678,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Put the carrot top, the carrot middle and the mooli top in their own saucers, cut side down. Stand the onion base on its flat bottom in the fourth saucer. The potato stays on its glass. 2. Pour water to about 1 cm deep. 3. Put all of them on the same windowsill. 4. Label each saucer.",
+     "do": "1. Put the carrot top, the carrot middle and the radish top in their own saucers, cut side down. Stand the onion base on its flat bottom in the fourth saucer. The potato stays on its glass. 2. Pour water to about 1 cm deep. 3. Put all of them on the same windowsill. 4. Label each saucer.",
      "say": "Same water, same window, same everything. Only the kind of piece is different. That makes it fair.",
      "kid": "Put each piece, except the potato, in its own saucer. Add water, one finger-width deep. Put them all on the same windowsill."
     },
@@ -1689,7 +1689,7 @@
      "say": "Lay the ruler next to the shoot. Start at zero, where the shoot comes out. Read the small lines. Each one is a millimetre.",
      "kid": "Every two days, measure the tallest shoot. Start the ruler at zero. Write the number. Give fresh water.",
      "wait": "Measure again every 2 days, for 8 days.",
-     "parent": "The onion usually grows first, and fastest. The carrot and mooli tops grow feathery leaves in 3 to 5 days. The potato's eyes may take a week or more, so a potato that is already sprouting a little works best. The carrot middle grows nothing, because it has no buds. If anything goes slimy, throw it away and note it in the table.",
+     "parent": "The onion usually grows first, and fastest. The carrot and radish tops grow feathery leaves in 3 to 5 days. The potato's eyes may take a week or more, so a potato that is already sprouting a little works best. The carrot middle grows nothing, because it has no buds. If anything goes slimy, throw it away and note it in the table.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1759,7 +1759,7 @@
         "emoji": "🧅"
        },
        {
-        "label": "Mooli top",
+        "label": "Radish top",
         "value": 55,
         "emoji": "🌱"
        },
@@ -1790,7 +1790,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: food stores can grow new shoots without soil, but only from a bud. What I saw: the onion grew 60 mm and the carrot top 40 mm. The carrot middle grew nothing. Why: the stored food feeds the new shoot, and the shoot grows from the bud at the top."
     }
    ],
-   "context": "This is the Wake the Store experiment. You stand pieces of carrot, mooli, onion and potato in saucers of water for 8 days and measure the new shoots they grow.",
+   "context": "This is the Wake the Store experiment. You stand pieces of carrot, radish, onion and potato in saucers of water for 8 days and measure the new shoots they grow.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: tallest new shoot after 8 days",
@@ -1804,7 +1804,7 @@
       "emoji": "🧅"
      },
      {
-      "label": "Mooli top",
+      "label": "Radish top",
       "value": 55,
       "emoji": "🌱"
      },
@@ -1827,8 +1827,8 @@
    },
    "setup": [
     {
-     "art": "A grown-up's hands cutting the leafy top off a carrot on a chopping board, with a carrot middle slice, a mooli top and an onion base beside it.",
-     "caption": "1. A grown-up cuts a carrot top, a carrot middle slice, a mooli top and an onion base."
+     "art": "A grown-up's hands cutting the leafy top off a carrot on a chopping board, with a carrot middle slice, a radish top and an onion base beside it.",
+     "caption": "1. A grown-up cuts a carrot top, a carrot middle slice, a radish top and an onion base."
     },
     {
      "art": "Five labelled steel katoris on a sunny windowsill with a little water in each, and a potato held by toothpicks over a glass of water.",
@@ -1888,7 +1888,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Cover the table with newspaper. 2. A grown-up cuts a fresh, flat piece of each vegetable, about the size of a coin. 3. Lay them on an old plate and label each one.",
-     "say": "Plants store food in two main ways. Sugar tastes sweet. Starch does not taste sweet, but it fills you up, like rice and roti. Iodine is a test. It turns blue-black where there is starch.",
+     "say": "Plants store food in two main ways. Sugar tastes sweet. Starch does not taste sweet, but it fills you up, like rice and ragi. Iodine is a test. It turns blue-black where there is starch.",
      "kid": "A grown-up cuts six pieces. Starch is food that is not sweet, like in rice. Iodine turns blue-black on starch. Guess which pieces will change.",
      "adult": true,
      "context": "This is the first step of the Blue-Black Test. You use iodine from the chemist to find out which roots and stems store starch."
@@ -2323,12 +2323,12 @@
  "activities": [
   {
    "id": "a1",
-   "title": "Sabzi Detectives: root or stem?",
+   "title": "Vegetable Detectives: root or stem?",
    "mins": 25,
    "days": 1,
    "materials": [
     {
-     "item": "a carrot, a mooli, a potato, a sweet potato, a piece of ginger, an onion, a spring onion and a small piece of sugarcane if you can find it",
+     "item": "a carrot, a radish, a potato, a sweet potato, a piece of ginger, an onion, a spring onion and a small piece of sugarcane if you can find it",
      "qty": 1
     },
     {
@@ -2357,7 +2357,7 @@
      "do": "Lay the vegetables in a row. Tell your child the three detective clues.",
      "say": "Here are the clues. Stems have nodes, which look like rings or bumps. Stems have buds, which look like eyes. Roots usually have neither, but they often have tiny hair-like side roots.",
      "kid": "You are a plant detective. Clue one: stems have rings. Clue two: stems have buds, like eyes. Roots usually have neither.",
-     "context": "This is the first step of Sabzi Detectives. You use clues to find out whether kitchen vegetables are roots, stems or leaves."
+     "context": "This is the first step of Vegetable Detectives. You use clues to find out whether kitchen vegetables are roots, stems or leaves."
     },
     {
      "id": "s2",
@@ -2374,7 +2374,7 @@
        ]
       }
      ],
-     "parent": "Potato: eyes in a spiral, so a stem. Ginger: rings and buds, so a stem. Sugarcane: rings and buds at the nodes, so a stem. Carrot and mooli: no eyes along the sides, faint lines of tiny side roots, so roots. Sweet potato: a root, though it can sprout from odd places, so it is a tricky one. Onion: layers on a flat base, so leaves on a tiny stem."
+     "parent": "Potato: eyes in a spiral, so a stem. Ginger: rings and buds, so a stem. Sugarcane: rings and buds at the nodes, so a stem. Carrot and radish: no eyes along the sides, faint lines of tiny side roots, so roots. Sweet potato: a root, though it can sprout from odd places, so it is a tricky one. Onion: layers on a flat base, so leaves on a tiny stem."
     },
     {
      "id": "s3",
@@ -2407,7 +2407,7 @@
    "context": "This is a kitchen detective activity. You look for clues like eyes, rings and layers to decide whether vegetables are roots, stems or leaves.",
    "setup": [
     {
-     "art": "A row of vegetables on a kitchen board: carrot, mooli, potato, sweet potato, ginger, onion, spring onion and sugarcane.",
+     "art": "A row of vegetables on a kitchen board: carrot, radish, potato, sweet potato, ginger, onion, spring onion and sugarcane.",
      "caption": "1. Lay the vegetables in a row."
     },
     {
@@ -2490,7 +2490,7 @@
        "Under the ground"
       ],
       "a": 0,
-      "why": "A waxy skin works like a raincoat. It stops water escaping from the leaf in hot sun and wind. On lotus and arbi leaves, wax also makes rain roll off. Picking 'dark cupboard' cannot be right, because leaves need light and grow where there is light."
+      "why": "A waxy skin works like a raincoat. It stops water escaping from the leaf in hot sun and wind. On lotus and chembu leaves, wax also makes rain roll off. Picking 'dark cupboard' cannot be right, because leaves need light and grow where there is light."
      }
     }
    ],
@@ -3245,7 +3245,7 @@
       "emoji": "🧅"
      },
      {
-      "label": "Mooli top",
+      "label": "Radish top",
       "value": 55,
       "emoji": "🌱"
      },
@@ -3350,7 +3350,7 @@
   }
  ],
  "applications": [
-  "Farmers grow carrot and mooli seed by replanting the best roots in winter. This is called the root-to-seed method.",
+  "Farmers grow carrot and radish seed by replanting the best roots in winter. This is called the root-to-seed method.",
   "Farmers plant pieces of potato, ginger and sugarcane, each with a bud, to grow new crops without seeds.",
   "Grass and vetiver are planted on slopes and river banks, because their roots hold the soil against rain.",
   "Mangroves are planted along coasts, because their roots break the force of waves and storms.",
@@ -3359,7 +3359,7 @@
   "Self-cleaning paints and glass copy the bumpy, waxy surface of the lotus leaf.",
   "Gardeners give climbers a support, like a trellis or a string, so they can reach the light.",
   "Sugar is made from sugarcane stems and sugar beet roots, where those plants store their food.",
-  "Cooks use haldi and ginger, two underground stems, in almost every Indian kitchen.",
+  "Cooks use turmeric and ginger, two underground stems, in almost every Indian kitchen.",
   "The Crystal Palace, a giant glass building in London in 1851, was designed by a gardener who said the ribs of a giant water lily leaf gave him the idea."
  ],
  "spotted": [
@@ -3384,7 +3384,7 @@
    "art": "A sugarcane juice stall with long canes leaning against it, the rings clear."
   },
   {
-   "text": "Lotus and arbi leaves in a pond or a market, with raindrops rolling off in shiny balls.",
+   "text": "Lotus and chembu leaves in a pond or a market, with raindrops rolling off in shiny balls.",
    "art": "A lotus leaf with silvery water beads rolling on it."
   },
   {
@@ -3392,11 +3392,11 @@
    "art": "The base of a maize plant with short prop roots."
   },
   {
-   "text": "Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads in Rajasthan or Gujarat.",
+   "text": "Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads in Rajasthan, Gujarat or Tamil Nadu.",
    "art": "A row of spiny nagphani cactus along a dusty road."
   },
   {
-   "text": "Mangrove breathing roots poking out of the mud at low tide in the Sundarbans, or along creeks in Mumbai.",
+   "text": "Mangrove breathing roots poking out of the mud at low tide in the Sundarbans, at Pichavaram in Tamil Nadu, or along creeks in Mumbai.",
    "art": "Mangrove roots like pencils in grey mud with a crab beside them."
   },
   {
@@ -3554,7 +3554,7 @@
    "a": "It was hollow, but it never gave up."
   },
   {
-   "j": "How did the arbi leaf stay dry in the monsoon?",
+   "j": "How did the chembu leaf stay dry in the monsoon?",
    "a": "It let every drop roll off its back."
   },
   {
@@ -3574,7 +3574,7 @@
    "a": "I've been looking for you all afternoon!"
   },
   {
-   "j": "Why did the mooli bring a torch underground?",
+   "j": "Why did the radish bring a torch underground?",
    "a": "It was a root, and it was very dark down there."
   },
   {
@@ -3648,9 +3648,9 @@
    "why_maths": "Taking away tells us how much the shoot grew. Sharing it out by the days tells us how fast it grew, so we can compare it with other plants."
   },
   {
-   "problem": "Here are the Wake the Store results after 8 days: onion 60 mm, mooli top 55 mm, carrot top 40 mm, potato 15 mm, carrot middle 0 mm. Draw a bar chart. Which piece grew second tallest?",
-   "answer": "The mooli top grew second tallest. Here is the bar chart.",
-   "explain": "Draw one bar for each piece, as tall as its number. Put the numbers in order from tallest to shortest: 60, 55, 40, 15, 0. The tallest is the onion, at 60 mm. The next is the mooli top, at 55 mm. So the mooli top is second. The carrot middle gets no bar at all, because it grew 0 mm.",
+   "problem": "Here are the Wake the Store results after 8 days: onion 60 mm, radish top 55 mm, carrot top 40 mm, potato 15 mm, carrot middle 0 mm. Draw a bar chart. Which piece grew second tallest?",
+   "answer": "The radish top grew second tallest. Here is the bar chart.",
+   "explain": "Draw one bar for each piece, as tall as its number. Put the numbers in order from tallest to shortest: 60, 55, 40, 15, 0. The tallest is the onion, at 60 mm. The next is the radish top, at 55 mm. So the radish top is second. The carrot middle gets no bar at all, because it grew 0 mm.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "In the Wake the Store experiment, you stand pieces of vegetables in water and measure their tallest new shoot after 8 days.",
    "answer_chart": {
@@ -3665,7 +3665,7 @@
       "emoji": "🧅"
      },
      {
-      "label": "Mooli top",
+      "label": "Radish top",
       "value": 55,
       "emoji": "🌱"
      },
@@ -3882,7 +3882,7 @@
    "url": "",
    "kind": "place",
    "where": "anywhere",
-   "why": "Every street has plant parts in disguise. Ask the sabzi seller which vegetables are roots and which are stems, and see if they know."
+   "why": "Every street has plant parts in disguise. Ask the vegetable seller which vegetables are roots and which are stems, and see if they know."
   }
  ],
  "buy": [
@@ -3940,7 +3940,7 @@
     "g1",
     "a1"
    ],
-   "plan": "If bought, read it before Sabzi Detectives. Ask after each trick: was the food a root, a stem, a leaf or a seed?"
+   "plan": "If bought, read it before Vegetable Detectives. Ask after each trick: was the food a root, a stem, a leaf or a seed?"
   },
   {
    "id": "b-book2",
@@ -4071,7 +4071,7 @@
    "DeepKids HomeSchooling Track, Activities for Lesson Journey: Leaf identification and plant diversity (Leaf Detective Album, folding leaves for symmetry, describing leaves, pet-name profiles for leaves, Leaf Map of our area) used in a2",
    "DeepKids HomeSchooling Track, Physics Level 1: live class 'look at plant with leaves, find order and patterns' (used in a4) and the Building Block Game 'build a plant' (used in a5)",
    "DeepKids HomeSchooling Track: STEM Activities websites (Exploratorium, Science Buddies)",
-   "Combined lesson sci-C1-plants: plant body act, take a plant apart, the sabzi sort and leaf prints, improved into Sabzi Detectives and Be the Plant",
+   "Combined lesson sci-C1-plants: plant body act, take a plant apart, the sabzi sort and leaf prints, improved into Vegetable Detectives and Be the Plant",
    "Combined lesson sci-C3-plants: net veins with tap roots and parallel veins with fibrous roots, looking at moong root hairs, the Plant Families card idea (grown into Plant Part Disguises), Janaki Ammal and the Darwins' seedling work",
    "Combined lesson sci-C3-seeds-plant-growth-and-plant-life-cycles: measuring growth with a ruler in millimetres, and the claim-evidence-reasoning conclusion"
   ],
@@ -4097,7 +4097,7 @@
   "deep_truth": {
    "truth": "A potato is a stem and a sweet potato is a root. Yet both are fat, both grow underground, and both are packed with stored food. The same job gave two different parts the same shape. So to tell a stem from a root, look for buds, like the potato's eyes.",
    "habit": "We sort things by how they look and where we find them. Fat and underground seems to mean root. But what a part is depends on what it grows from, and its buds show that. Its shape only tells us its job.",
-   "evidence": "In Sabzi Detectives, the potato has eyes in a spiral and the sweet potato has none. In the Blue-Black Test, both turn blue-black, because both are packed with starch. In Wake the Store, the potato's eyes grow shoots, because they are buds on a stem."
+   "evidence": "In Vegetable Detectives, the potato has eyes in a spiral and the sweet potato has none. In the Blue-Black Test, both turn blue-black, because both are packed with starch. In Wake the Store, the potato's eyes grow shoots, because they are buds on a stem."
   },
   "three": {
    "who_am_i": "Your arm and a bat's wing have the same bones inside, shaped for different jobs. So the same kind of part can take very different shapes.",

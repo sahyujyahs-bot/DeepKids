@@ -232,7 +232,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 ## Games
 ### g1 · Grip or Slip? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them in a pile, face down.; On your turn, take the top card and read it out loud.; Decide: in this moment, do we want more friction or less? Put the card on the GRIP mat or the SLIP mat, and say why.; Then say one way people change the friction there. For example, sand, grooves, oil, wheels or powder. A good idea wins one idea token.; If you draw a TEST IT card, everyone does the test together. The first person to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 situation cards to cut out:** Climbing a wet rock at the waterfall; Sliding down the playground slide; Bicycle brakes on a rainy day; Carrom striker on the board; Holding a slippery fish; Opening a stuck jar lid; A cricket bowler's shoes on the pitch; Skates on an ice rink; A door hinge that squeaks; Writing with a pencil; Grandma's rubber bathroom mat; A rope tied in a knot; A sled on snow; Car tyres on a mountain road; Carrying a full steel tumbler on a tray; Lighting a matchstick; Pushing a heavy almirah across the floor; A violin bow on the strings; Bare feet on the polished temple floor; Moving a cart full of sugarcane; TEST IT: rub your palms together 10 times. Do they feel warm or cold?; TEST IT: slide a coin across paper, then across a cloth. Where does it stop sooner?; TEST IT: try to open a tight jar lid with dry hands. Then try again holding the lid with a cloth.; TEST IT: push an empty steel tumbler across the table. Then fill it with rice and push again. Which is harder to start?
+- **Printable cards: 24 situation cards to cut out:** Climbing a wet rock at the waterfall; Sliding down the playground slide; Bicycle brakes on a rainy day; Carrom striker on the board; Holding a slippery fish; Opening a stuck jar lid; A cricket bowler's shoes on the pitch; Skates on an ice rink; A door hinge that squeaks; Writing with a pencil; Paati's rubber bathroom mat; A rope tied in a knot; A sled on snow; Car tyres on a mountain road; Carrying a full steel tumbler on a tray; Lighting a matchstick; Pushing a heavy almirah across the floor; A violin bow on the strings; Bare feet on the polished temple floor; Moving a cart full of sugarcane; TEST IT: rub your palms together 10 times. Do they feel warm or cold?; TEST IT: slide a coin across paper, then across a cloth. Where does it stop sooner?; TEST IT: try to open a tight jar lid with dry hands. Then try again holding the lid with a cloth.; TEST IT: push an empty steel tumbler across the table. Then fill it with rice and push again. Which is harder to start?
 - **Printable board: Two playing mats:** GRIP: we want MORE friction; SLIP: we want LESS friction
 - **Printable tokens: 20 idea tokens (small paper circles):** 💡
 - **s1 (2 min)**  
@@ -429,9 +429,9 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - **safety:** Act on a soft floor, like a mat or carpet. Pretend to slide. Don't really slide.
 - **record:** Draw your favourite moment from the play.
 - **s1 (3 min)**  
-  *Parent does:* Help each player choose a role. They can be the cook or the hungry eater. Or the roti that rolls away, or the laddoo that won't stop sliding.  
+  *Parent does:* Help each player choose a role. They can be the cook or the hungry eater. Or the vada that rolls away, or the laddoo that won't stop sliding.  
   *Parent says:* We're going to act out making dinner in a kitchen where friction has disappeared. Everything is perfectly slippery.  
-  *Child mode:* Pick your role. You can be the cook or the hungry eater. Or the roti that rolls away. Or the laddoo that won't stop sliding!
+  *Child mode:* Pick your role. You can be the cook or the hungry eater. Or the vada that rolls away. Or the laddoo that won't stop sliding!
 - **s2 (9 min)**  
   *Parent does:* Act out cooking and eating with no friction. Remember the rules: nothing can be held, nothing stops once it moves, and nobody can walk.  
   *Parent says:* Remember: you can't walk. Things slide out of your hands. And nothing stops once it starts moving!  
@@ -440,7 +440,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Parent does:* Talk about which parts of the play were true to science.  
   *Parent says:* Which parts of our play would really happen if there were no friction?  
   *Child mode:* Which parts of your play would really happen?
-  - Note: With no friction you truly could not walk, because your feet would slip instead of pushing off. Food would slide out of your hands. A rolling roti would never stop until it hit something.
+  - Note: With no friction you truly could not walk, because your feet would slip instead of pushing off. Food would slide out of your hands. A rolling vada would never stop until it hit something.
   - Think: Friction is invisible, but everything depends on it. What else is invisible, but everywhere?
 ### a4 · Slide the Tumbler, Slide the Sock (15 min)
 - **safety:** Slide gently. First clear the floor of anything sharp or breakable.
@@ -618,7 +618,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 16. (draw) Draw a shoe resting on a slope. Draw one arrow for the way the shoe would slide. Draw another arrow for friction.  
    **Answer:** The slide arrow points down the slope. The friction arrow points up the slope, along the surface.. *Why:* Friction acts along the surface, against the way the shoe would slide.
 ### Friction in the Real World (stretch) (stretch, 15 questions)
-1. (mcq) Riya pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?  
+1. (mcq) Meenakshi pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?  
    Options: The full box presses down harder, so there is more friction / The half-empty box is smoother underneath / The full box is bigger, so more of it touches the floor / The floor changed  
    **Answer:** The full box presses down harder, so there is more friction. *Why:* The full box is heavier, so it presses on the floor harder. Pressing harder gives more friction. 8 newtons is twice 4 newtons. Picking 'more of it touches' is a very common idea. But it is the same box, with the same bottom on the floor. Only how hard it presses has changed.
 2. (mcq) In the slope test, a shoe started to slide when the raised end of the board was 16 cm high. A sock slid when the end was only 8 cm high. Look at the chart. Which grips better?  
@@ -780,7 +780,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - Rubber bathroom mats, and rough tiles near taps and showers.
 - The grooved patterns on chappals, tyres and cricket shoes.
 - A squeaky door, gate or cycle chain that needs a drop of oil.
-- Rangoli powder on a doorstep. Dry powder can make a smooth floor slippery.
+- Kolam or rangoli powder on a doorstep. Dry powder can make a smooth floor slippery.
 - A doorknob or railing polished shiny by thousands of hands.
 - Sand sprinkled on a slippery path, or dropped on railway tracks in the rain, to add grip.
 

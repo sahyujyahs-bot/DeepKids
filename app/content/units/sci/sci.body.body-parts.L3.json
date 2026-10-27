@@ -141,7 +141,7 @@
    "term": "Hygiene",
    "meaning": "The habits that keep our body clean, so that we stay healthy.",
    "example": "Washing hands before eating is good hygiene.",
-   "art": "A child washing hands before a meal of rice and dal."
+   "art": "A child washing hands before a meal of rice and rasam."
   },
   {
    "term": "Private parts",
@@ -239,7 +239,7 @@
    "description": "The outer ear is shaped like a funnel to catch sounds. Sounds travel down a short tube, the ear canal, to the eardrum. The eardrum is a thin skin, a little like the skin of a drum. Sound makes it shake, and that is how you hear. The ear canal makes wax. The wax traps dust and tiny germs. Then it slowly moves outwards by itself, helped by your jaw moving when you chew and talk. So ears mostly clean themselves. Doctors say never put cotton buds, hairpins or matchsticks into your ears. They push wax deeper and can tear the eardrum. Don't pour oil in either, unless a doctor tells you to. Just wipe the outside with a cloth. Keep away from very loud sounds.",
    "examples": [
     "A little wax at the opening of the ear is normal. Wipe it off with a towel after a bath.",
-    "Chewing roti moves your jaw, which helps the wax move out.",
+    "Chewing a dosa moves your jaw, which helps the wax move out.",
     "Loud music through earphones for a long time can hurt hearing."
    ],
    "perspectives": [],
@@ -281,7 +281,7 @@
    "description": "Your thumb can turn and touch the tip of every finger. This lets you hold a pencil, a needle or a single grain of rice. Your fingertips are packed with nerves, so they feel very well. On their skin are tiny curving ridges. Sweat comes out of tiny holes along the ridges, and your fingers pick up oil from your face and hair. So you leave fingerprints on what you touch. Hands also pick up germs from everything they touch. So wash them with soap before eating, after the toilet, after playing outside and after touching animals. Rub every part for at least 20 seconds, then rinse. Hands carry a thin layer of oil and grease, and germs stick in it. Soap grabs that oil, and water carries it away.",
    "examples": [
     "You leave fingerprints on a glass, a mirror and a phone screen.",
-    "Germs from a door handle can get onto your roti if you don't wash your hands.",
+    "Germs from a door handle can get onto your idli if you don't wash your hands.",
     "A blind reader feels the raised dots of Braille with the fingertips."
    ],
    "perspectives": [],
@@ -1983,7 +1983,7 @@
      "qty": 1
     },
     {
-     "item": "a pinch of haldi (turmeric) powder, or a pinch of glitter",
+     "item": "a pinch of turmeric powder, or a pinch of glitter",
      "qty": 1
     },
     {
@@ -1999,7 +1999,7 @@
      "qty": 1
     }
    ],
-   "safety": "Haldi can stain skin and nails yellow for a few hours. That's harmless. If you use glitter, keep it away from eyes.",
+   "safety": "Turmeric can stain skin and nails yellow for a few hours. That's harmless. If you use glitter, keep it away from eyes.",
    "schedule": [
     {
      "day": 1,
@@ -2008,11 +2008,11 @@
     }
    ],
    "record": "Draw your hands after water only and after soap. Then draw the six steps of handwashing.",
-   "context": "This is a handwashing activity. Haldi powder or glitter stands in for germs on oily hands. You see what water alone does, then what soap does.",
+   "context": "This is a handwashing activity. Turmeric powder or glitter stands in for germs on oily hands. You see what water alone does, then what soap does.",
    "setup": [
     {
-     "art": "A child's hands rubbed with oil and sprinkled with yellow haldi powder.",
-     "caption": "1. Rub a few drops of oil on your hands. Sprinkle on haldi or glitter."
+     "art": "A child's hands rubbed with oil and sprinkled with yellow turmeric powder.",
+     "caption": "1. Rub a few drops of oil on your hands. Sprinkle on turmeric or glitter."
     },
     {
      "art": "Hands in a bowl of plain water, the yellow powder still stuck on.",
@@ -2027,10 +2027,10 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Rub a few drops of oil over your child's hands. Sprinkle on a pinch of haldi or glitter. Say the powder is pretend germs.",
+     "do": "Rub a few drops of oil over your child's hands. Sprinkle on a pinch of turmeric or glitter. Say the powder is pretend germs.",
      "say": "Hands pick up a thin layer of oil from food, from your face and from things you touch. Germs stick in that oil. Let's pretend this powder is germs.",
      "kid": "Rub oil on your hands. Sprinkle on the powder. Pretend it is germs.",
-     "context": "This is the first step of the oily hands activity. Haldi or glitter stands in for germs on oily skin."
+     "context": "This is the first step of the oily hands activity. Turmeric or glitter stands in for germs on oily skin."
     },
     {
      "id": "s2",
@@ -2057,7 +2057,7 @@
      "do": "Now wash with soap, rubbing for 20 seconds. Teach the six steps. Rub the palms, then the backs of the hands, then between the fingers. Then rub the backs of the fingers, the thumbs, and the fingertips and nails. Then rinse.",
      "say": "Soap grabs oil with one end and water with the other. So water can carry the oil, and the germs, away. Let's count 20 seconds, or sing Happy Birthday twice.",
      "kid": "Now use soap. Rub palms, backs, between fingers, thumbs and nails. Sing Happy Birthday twice. Rinse.",
-     "parent": "Children often wash only their palms. The thumbs, fingertips and backs of the hands are the places most often missed. Watch where the powder stays. Haldi may leave a faint yellow tint even after soap. That is dye soaked into the skin, so look for the grains of powder instead."
+     "parent": "Children often wash only their palms. The thumbs, fingertips and backs of the hands are the places most often missed. Watch where the powder stays. Turmeric may leave a faint yellow tint even after soap. That is dye soaked into the skin, so look for the grains of powder instead."
     },
     {
      "id": "s4",
@@ -2270,7 +2270,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a long scarf or dupatta for the ear canal",
+     "item": "a long scarf or an old sari for the ear canal",
      "qty": 1
     },
     {
@@ -2290,11 +2290,11 @@
    "context": "This is a play-acting activity. You act out how earwax traps dust inside the ear and slowly carries it out.",
    "setup": [
     {
-     "art": "A long dupatta laid on the floor like a tunnel, with a cushion at the far end labelled 'eardrum'.",
-     "caption": "1. Lay a dupatta on the floor as the ear canal. A cushion is the eardrum."
+     "art": "A long sari laid on the floor like a tunnel, with a cushion at the far end labelled 'eardrum'.",
+     "caption": "1. Lay a sari on the floor as the ear canal. A cushion is the eardrum."
     },
     {
-     "art": "A child crouched on the dupatta holding paper balls, shuffling slowly towards the open end while another child chews and talks.",
+     "art": "A child crouched on the sari holding paper balls, shuffling slowly towards the open end while another child chews and talks.",
      "caption": "2. One child is the wax. They catch the dust and shuffle out as the 'jaw' chews."
     }
    ],
@@ -2302,9 +2302,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Lay the dupatta on the floor as the ear canal. Put a cushion at one end as the eardrum. Throw paper balls in as dust.",
+     "do": "Lay the sari on the floor as the ear canal. Put a cushion at one end as the eardrum. Throw paper balls in as dust.",
      "say": "This is the inside of an ear. Dust is blowing in. Who will stop it reaching the eardrum?",
-     "kid": "The dupatta is your ear tube. The cushion is your eardrum. Paper balls are dust blowing in.",
+     "kid": "The sari is your ear tube. The cushion is your eardrum. Paper balls are dust blowing in.",
      "context": "This is the first step of the Wax Escalator, an act-it-out about how earwax cleans the ear."
     },
     {
@@ -3358,7 +3358,7 @@
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing'",
     "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself.",
-    "link": "Your new skin cells are built from the dal, rice and water you took in. Look deeply at your skin, and you can see the farms and the rain that grew your food."
+    "link": "Your new skin cells are built from the sambar, rice and water you took in. Look deeply at your skin, and you can see the farms and the rain that grew your food."
    }
   ],
   "science": [

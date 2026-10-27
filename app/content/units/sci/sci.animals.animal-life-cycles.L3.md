@@ -199,67 +199,67 @@ A chick, a frog and a butterfly each build a new body out of material that is al
 - *big:* Frogs are disappearing from many places. What would happen to a pond, and to the mosquitoes, if all the frogs went? (hint: Tadpoles eat slime. Frogs eat insects. Who eats frogs?)
 
 ## Story: Where the Tails Go
-*Everything about the tadpoles is real: back legs first, the tadpole stopping eating, and the tail being broken down and used again. Tanvi, Farida, their town near the Western Ghats and their bucket are made up.*
+*Everything about the tadpoles is real: back legs first, the tadpole stopping eating, and the tail being broken down and used again. Kavya, Farida, their town near the Western Ghats and their bucket are made up.*
 
-The first monsoon rain came to Tanvi's town in the middle of the night. It came so hard that it woke her up. By morning the empty plot behind the water tank had turned into a brown, shining pond. By the next evening it was singing.
+The first monsoon rain came to Kavya's town in the middle of the night. It came so hard that it woke her up. By morning the empty plot behind the water tank had turned into a brown, shining pond. By the next evening it was singing.
 
-"Frogs," said Farida, from the wall. Farida lived in the next building. She had been Tanvi's best friend for four years, which was half of their whole lives. "Hundreds of them. Listen."
+"Frogs," said Farida, from the wall. Farida lived in the next building. She had been Kavya's best friend for four years, which was half of their whole lives. "Hundreds of them. Listen."
 
 They listened. The singing sounded like a hundred people trying to start a hundred scooters.
 
 Three days later there were clumps of clear jelly floating at the edge of the pond, each little ball with a black dot inside. Three days after that, the dots had become commas. Then the commas began to wriggle.
 
-"We should keep some," said Tanvi. "Just a few. Just to see."
+"We should keep some," said Kavya. "Just a few. Just to see."
 
-Tanvi's mother said yes, on two conditions. They had to use pond water, never tap water. And they had to put every single one back in the pond when it was done. So the girls filled an old blue bucket with pond water and a stone with green slime on it. They scooped up five tadpoles in a steel tumbler. They named them after the five fingers of a hand. Thumb, Pointer, Tall, Ring and Little.
+Kavya's mother said yes, on two conditions. They had to use pond water, never tap water. And they had to put every single one back in the pond when it was done. So the girls filled an old blue bucket with pond water and a stone with green slime on it. They scooped up five tadpoles in a steel tumbler. They named them after the five fingers of a hand. Thumb, Pointer, Tall, Ring and Little.
 
 Farida had a notebook. She drew lines in it and made a table, because that is the kind of person Farida was. Every second day they measured each tadpole, as gently as they could, against a ruler held outside the bucket. Body. Tail. Legs, none.
 
 It was on the ninth day, while they were measuring, that Farida said it. "We're moving. In September. Abbu got a job in Hyderabad."
 
-Tanvi held the ruler very still.
+Kavya held the ruler very still.
 
 "It's only September," said Farida. "That's ages."
 
-It was not ages. It was eleven weeks. Tanvi counted.
+It was not ages. It was eleven weeks. Kavya counted.
 
-After that, Tanvi did not want to look at the table. But Farida kept filling it in, every second day, in her neat small numbers. Body, 9 millimetres. Tail, 16. Then, on day fifteen, beside Tall's name, she drew two tiny lines. Back legs.
+After that, Kavya did not want to look at the table. But Farida kept filling it in, every second day, in her neat small numbers. Body, 9 millimetres. Tail, 16. Then, on day fifteen, beside Tall's name, she drew two tiny lines. Back legs.
 
 By day twenty-two all five had back legs. They looked like tadpoles who had put on shorts. Then one morning, Pointer's front legs popped out, both at once, like a child pulling arms out through a jumper.
 
 And then the tails began to go.
 
-Tanvi noticed it first. She was not looking at the notebook. She was looking at the bucket. "Thumb's tail is shorter," she said. "Look. It's broken."
+Kavya noticed it first. She was not looking at the notebook. She was looking at the bucket. "Thumb's tail is shorter," she said. "Look. It's broken."
 
 Farida looked at the numbers. Thumb's tail had been 18 millimetres. Now it was 14.
 
-"Something is biting them," said Tanvi. "Or the tails are falling off." She tipped the bucket a little towards the light and looked at the bottom. There was the slimy stone. There was some mud. There were no tails.
+"Something is biting them," said Kavya. "Or the tails are falling off." She tipped the bucket a little towards the light and looked at the bottom. There was the slimy stone. There was some mud. There were no tails.
 
 "Maybe the others ate it," said Farida.
 
 That was a horrible thought. They watched for a long time. Nobody bit anybody. The tadpoles just hung in the water, very still, their new legs dangling. And there was something else. The girls dropped in a pinch of boiled spinach, the way they always did. The tadpoles did not eat it. Not one of them.
 
-"They're sick," said Tanvi. Her voice went small. "They're not eating and their tails are breaking and they're going to die."
+"They're sick," said Kavya. Her voice went small. "They're not eating and their tails are breaking and they're going to die."
 
 But Farida had turned back three pages in the notebook. She ran her finger down the numbers, and then down them again.
 
-"Tanvi," she said. "Look at Little."
+"Kavya," she said. "Look at Little."
 
 Little had been the smallest. His tail had gone from 15 millimetres, to 12, to 8. But it had not gone in one snap, the way a broken thing would go. It had gone a little at a time, every single day. And all that time his front legs had been getting longer and fatter. His head had been getting wider. His mouth, which had been a tiny round sucker, was turning into a wide frog's grin.
 
 "It's not falling off," said Farida slowly. "It's going in."
 
-Tanvi looked at Little. She looked at the empty bottom of the bucket. She thought about the spinach, uneaten.
+Kavya looked at Little. She looked at the empty bottom of the bucket. She thought about the spinach, uneaten.
 
 "They don't need to eat," she said. "They've got lunch."
 
 "Their own tails," said Farida.
 
-"They're eating their own tails from the inside," said Tanvi. "And making legs out of them."
+"They're eating their own tails from the inside," said Kavya. "And making legs out of them."
 
-It was the most disgusting and the most wonderful thing either of them had ever heard. They laughed until Tanvi's mother came to see what was wrong.
+It was the most disgusting and the most wonderful thing either of them had ever heard. They laughed until Kavya's mother came to see what was wrong.
 
-Later, Tanvi's mother found a page on her phone and read it to them. She said it was true. The tail cells break themselves down, and the blood carries the material away to the growing frog. Nothing is thrown out. The tadpole doesn't lose its tail. It turns it into the frog.
+Later, Kavya's mother found a page on her phone and read it to them. She said it was true. The tail cells break themselves down, and the blood carries the material away to the growing frog. Nothing is thrown out. The tadpole doesn't lose its tail. It turns it into the frog.
 
 Seven days later, Little was sitting on the slimy stone with his head out of the water. He had a stub of tail no bigger than a grain of rice. He was looking at the sky, which he had never seen before, with eyes that had been built for air.
 
@@ -273,17 +273,17 @@ Farida closed the notebook. It was full.
 
 "You noticed the tails," said Farida. "Anyway, I'll make a new one in Hyderabad. They have frogs there too. Probably."
 
-In September, Farida moved. Tanvi did not cry at the gate, though she did cry later, a bit. That night she lay in bed and listened to the frogs behind the water tank. There were not hundreds now. There were a few. Somewhere in the grass, five small frogs were not singing yet. They would be, in a year or two, with lungs and wide mouths built partly out of tails.
+In September, Farida moved. Kavya did not cry at the gate, though she did cry later, a bit. That night she lay in bed and listened to the frogs behind the water tank. There were not hundreds now. There were a few. Somewhere in the grass, five small frogs were not singing yet. They would be, in a year or two, with lungs and wide mouths built partly out of tails.
 
 She thought that she should write to Farida about it. She thought that when she did, she would not write that something was lost. She would write that something had gone in.
 
 **For the parent:** For the parent: the tadpoles look as if they are breaking, but they are rebuilding. The tail's cells break down, and the body reuses the material to build a frog. That is why the tadpoles stop eating. The girls work this out from their records, not by a lucky guess: the numbers show the tail shrinking a little each day, not snapping. The story also asks whether a friendship can change shape without being lost.
 
-- Ask: Why did Tanvi think the tadpoles were sick? What did Farida's notebook show instead?
+- Ask: Why did Kavya think the tadpoles were sick? What did Farida's notebook show instead?
 - Ask: Why did the tadpoles stop eating spinach when their tails were shrinking?
 - Ask: Where did the tadpoles' tails go?
-- Ask: Why did Tanvi's mother say to use pond water and to put every tadpole back?
-- Ask: At the end, Tanvi decides to write that something 'had gone in', not that something was lost. What do you think she means?
+- Ask: Why did Kavya's mother say to use pond water and to put every tadpole back?
+- Ask: At the end, Kavya decides to write that something 'had gone in', not that something was lost. What do you think she means?
 
 ## Games
 ### g1 · Who Comes Next? A life cycle card game (20 min)
@@ -506,12 +506,12 @@ She thought that she should write to Farida about it. She thought that when she 
   *Child mode:* Hatch! Eat your eggshell. Crawl and munch leaves. Your skin is tight! Wriggle out of it. Keep eating.
   - Check: Why does a caterpillar wriggle out of its skin? → **Its old skin is too tight because it has grown**
 - **s3 (4 min)**  
-  *Parent does:* Wrap the dupatta loosely round your child up to the shoulders. They stand very still for one minute.  
+  *Parent does:* Wrap the sari loosely round your child up to the shoulders. They stand very still for one minute.  
   *Parent says:* Now stop eating. Hang still. You are a chrysalis. From the outside, nothing is happening. Inside, your body is being rebuilt. Waiting cells are growing wings. Stay still and feel your wings growing.  
   *Child mode:* Stop eating. Stand very still. You are a chrysalis. Inside, your body is being rebuilt. Feel your wings growing.
   - Note: Count slowly to 60 together. Children find stillness hard, which makes the point. The chrysalis is the busiest stage, even though it looks like nothing is happening.
 - **s4 (2 min)**  
-  *Parent does:* Your child wriggles out of the dupatta, stands, and slowly spreads their arms.  
+  *Parent does:* Your child wriggles out of the sari, stands, and slowly spreads their arms.  
   *Parent says:* Split your case! Climb out. Your wings are crumpled and wet. Pump them slowly. Wait for them to dry. Now fly, find a flower, and drink.  
   *Child mode:* Break out! Your wings are wet and crumpled. Open them slowly. Now fly to a flower.
   - Think: Were you the same you all the way through, egg to butterfly?
@@ -773,7 +773,7 @@ She thought that she should write to Farida about it. She thought that when she 
    **Answer:** Lots of eggs: even if most are eaten, a few will survive, and the parent doesn't need to stay. Fewer eggs with care: each chick has a much better chance, because the hen keeps it warm and safe.. *Why:* Both ways work, in different lives. Scientists compare these two ways: many young with no care, or a few young with lots of care.
 14. (write) Silk is made from silkworm cocoons. Usually the pupa inside is killed so the thread stays in one long piece. Some people make 'peace silk', where the moth comes out first. What do you think, and why?  
    **Answer:** Any honest, thought-out answer is good. For example: I think peace silk is kinder, because the moth gets to finish its life cycle, even if the thread is shorter.. *Why:* This is a question about fairness, not a fact. The best answers say what they think and give a reason.
-15. (write) In the story 'Where the Tails Go', Tanvi thought her tadpoles were sick. Her friend Farida's notebook showed something else. Why are written records useful in science?  
+15. (write) In the story 'Where the Tails Go', Kavya thought her tadpoles were sick. Her friend Farida's notebook showed something else. Why are written records useful in science?  
    **Answer:** Memory can trick us, and worry can make us see things. The notebook showed the tail shrinking a little each day, not snapping. That pattern told them it was being taken back in.. *Why:* Scientists measure and write things down, so that they can see patterns they would otherwise miss.
 16. (write) Your body is slowly rebuilt from the food you eat. Is the rice you ate today going to be part of you? Explain.  
    **Answer:** Yes. My body breaks down food and uses some of it to build new cells, like skin, blood and muscle. So some of today's rice will become part of me.. *Why:* Like a tadpole using its tail, or a chick using its yolk, your body takes food apart and builds with the pieces. Every living thing does this.
@@ -900,7 +900,7 @@ She thought that she should write to Farida about it. She thought that when she 
 - Look at the caterpillar diary. On day 2 the caterpillar was 4 millimetres long. On day 16 it was 40 millimetres long. How many times longer was it on day 16? **10 times longer.**. On day 2 it was 4 millimetres. On day 16 it was 40 millimetres. 40 divided by 4 is 10. So it was 10 times longer. You can check: 4 times 10 is 40. (queues `math.division.sharing-and-grouping.L3`)
 - In the egg bubbles experiment, you counted trails of bubbles from the round half of the egg. Your tally was |||| |||| |||| ||. How many trails is that? **17 trails.**. Each group of four lines with one line across makes 5. There are 3 full groups, so that is 3 times 5, which is 15. Then there are 2 more lines. 15 plus 2 is 17. (queues `math.data.sorting-and-tallies.L3`)
 - A lime butterfly spends about 4 days as an egg, 16 days as a caterpillar and 10 days as a chrysalis. How many days is that before the butterfly comes out? **30 days.**. Add the three stages. 4 plus 16 is 20. 20 plus 10 is 30. So it is about 30 days, about one month, from egg to butterfly. (queues `math.addition-subtraction.mental-strategies.L3`)
-- In the egg bubbles experiment, Sana counted 17 trails of bubbles from the round half of the egg and 6 from the pointed half. Which end let out more air, and how many more trails did it have? **The round end, with 11 more trails.**. 17 is more than 6, so the round end let out more air. 17 minus 6 is 11. This fits the egg: the air pocket is at the round end. (queues `math.addition-subtraction.word-problems.L3`)
+- In the egg bubbles experiment, Lakshmi counted 17 trails of bubbles from the round half of the egg and 6 from the pointed half. Which end let out more air, and how many more trails did it have? **The round end, with 11 more trails.**. 17 is more than 6, so the round end let out more air. 17 minus 6 is 11. This fits the egg: the air pocket is at the round end. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
 Every Creature Counts (sci.animals.L3): Topic-level song

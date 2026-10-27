@@ -3,7 +3,7 @@
 
 **Summary.** A plate of rice can fill your stomach and still leave your body short of protein, iron and vitamins. A balanced diet means eating many kinds of food, in about the right amounts, over a day or a week. Inside you, food is broken down into tiny building blocks, and your blood carries them to about 30 trillion cells. Your cells burn some of them for energy and use the rest to grow and mend. About as many microbes live in your gut, and they eat the fibre you cannot digest. No single food is good or bad on its own, because what matters is the mix over many meals.
 
-**Intro.** *Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the roti or rice you ate yesterday. How did your food get into your breath?* Almost all our food starts as plants growing in sunlight. Here we follow it after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Some of it is burned for energy, and you breathe it out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?
+**Intro.** *Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the chapati or rice you ate yesterday. How did your food get into your breath?* Almost all our food starts as plants growing in sunlight. Here we follow it after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Some of it is burned for energy, and you breathe it out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?
 
 ## Learning outcomes
 0. I can say what a balanced diet is: many kinds of food, in about the right amounts, over a day or a week.
@@ -17,13 +17,13 @@
 
 ## Terms
 - **Diet**: All the food and drink a person usually has. It does not mean eating less. *e.g.* A family in Kerala and a family in Punjab may have very different diets. Both can be healthy.
-- **Balanced diet**: Eating many kinds of food in about the right amounts, over a day or a week, so the body gets everything it needs. *e.g.* Idli and sambar for breakfast, rice, dal and sabzi for lunch, a guava after school and roti with egg curry or paneer at night.
+- **Balanced diet**: Eating many kinds of food in about the right amounts, over a day or a week, so the body gets everything it needs. *e.g.* Idli and sambar for breakfast, rice, dal and poriyal (cooked vegetables) for lunch, a guava after school and chapati with egg curry or paneer at night.
 - **Nutrient**: A part of food that the body uses to live, grow and stay well. *e.g.* Protein in dal, calcium in milk and vitamin C in amla are all nutrients.
-- **Energy foods (go foods)**: Foods that give the body most of its energy. Rice, roti, millets, potatoes, bananas, sugar and fats are energy foods. *e.g.* A plate of poha gives you energy to run to the park.
+- **Energy foods (go foods)**: Foods that give the body most of its energy. Rice, chapati, millets, potatoes, bananas, sugar and fats are energy foods. *e.g.* A plate of upma gives you energy to run to the park.
 - **Body-building foods (grow foods)**: Foods with lots of protein. The body uses protein to build and mend itself. *e.g.* Dal, rajma, chana, sprouts, milk, curd, paneer, eggs, fish, meat and peanuts.
 - **Protecting foods (glow foods)**: Vegetables and fruits. They give vitamins, minerals and fibre, which help every part of the body work and stay well. *e.g.* Palak, carrots, tomatoes, guava, amla and papaya.
-- **Carbohydrate**: A nutrient made of sugars. Sugar, starch and fibre are all carbohydrates. Sugar and starch give the body most of its energy. *e.g.* Rice and roti are mostly a carbohydrate called starch.
-- **Starch**: A long chain of sugar pieces joined together. Plants store their energy as starch. *e.g.* When you chew a piece of roti for a long time, it starts to taste a little sweet. Your spit is cutting the starch into sugar.
+- **Carbohydrate**: A nutrient made of sugars. Sugar, starch and fibre are all carbohydrates. Sugar and starch give the body most of its energy. *e.g.* Rice and chapati are mostly a carbohydrate called starch.
+- **Starch**: A long chain of sugar pieces joined together. Plants store their energy as starch. *e.g.* When you chew a piece of chapati for a long time, it starts to taste a little sweet. Your spit is cutting the starch into sugar.
 - **Glucose**: The simple sugar that your cells use for energy. Starch is broken into glucose inside you. *e.g.* Your blood carries glucose to your brain all day and all night.
 - **Protein**: A long chain made of building blocks called amino acids. Your muscles, hair, skin and blood are built with proteins. *e.g.* Your hair and nails are made mostly of a protein called keratin.
 - **Amino acids**: The building blocks of proteins. There are about 20 kinds. Your body joins them in new orders to make its own proteins. *e.g.* The amino acids in dal are joined again inside you to make your own muscle.
@@ -37,7 +37,7 @@
 - **Enzyme**: A kind of protein that cuts big pieces of food into smaller ones, very fast. It works like tiny scissors. *e.g.* An enzyme in your spit cuts starch into sugar.
 - **Cell**: The tiny living unit that every living thing is made of. Your body has about 30 trillion cells. *e.g.* Skin cells, muscle cells, blood cells and brain cells are all cells, each with its own job.
 - **Mitochondria**: Tiny parts inside your cells that burn food with oxygen to release energy. *e.g.* Your muscle cells are full of mitochondria. That is why they can work so hard.
-- **Gut microbes**: The trillions of tiny living things, mostly bacteria, that live in your gut, most of all in the large intestine. *e.g.* Gut microbes eat the fibre from your dal and sabzi, which you cannot digest yourself.
+- **Gut microbes**: The trillions of tiny living things, mostly bacteria, that live in your gut, most of all in the large intestine. *e.g.* Gut microbes eat the fibre from your dal and poriyal, which you cannot digest yourself.
 - **Kilocalorie (kcal)**: A unit for measuring the energy in food. One kilocalorie is the energy needed to warm 1 litre of water by 1 degree Celsius. Food labels write it as kcal. People often just say 'calories'. *e.g.* A banana gives roughly 100 kcal. A child of eight uses very roughly 1,500 to 2,000 kcal in a day.
 - **Deficiency**: When the body is not getting enough of one nutrient for a long time. It can make people ill. *e.g.* Too little vitamin C for many weeks causes an illness called scurvy.
 
@@ -46,28 +46,28 @@
 **Definition:** A balanced diet is eating many kinds of food, in about the right amounts, over a day or a week. It gives the body all the nutrients it needs, plus enough water.
 
 Your body needs many different things from food. No single food has all of them. Rice gives lots of energy but little calcium. Milk gives calcium but almost no vitamin C. Amla is full of vitamin C but gives little energy. So we eat many kinds. A balanced diet does not mean every meal must be perfect. A festival plate of sweets is fine. What matters is the mix over many days. Balanced also does not mean eating less. Growing children need plenty of food.
-- e.g. A day of idli and sambar, rice with dal and sabzi, a guava, and roti with egg curry is balanced. It has energy foods, body-building foods and protecting foods.
+- e.g. A day of idli and sambar, rice with dal and poriyal, a guava, and chapati with egg curry is balanced. It has energy foods, body-building foods and protecting foods.
 - e.g. Eating only rice and pickle for weeks is not balanced. The body would miss protein, vitamins and minerals, even though the stomach feels full.
 - e.g. One plate of jalebis at a wedding does not make a diet unbalanced. A diet is what you usually eat.
 ### Go, grow and glow: three jobs food does · *defined*
 **Definition:** Energy foods (go foods) give the body fuel. Body-building foods (grow foods) give protein to build and mend. Protecting foods (glow foods) give vitamins, minerals and fibre that keep the body working well.
 
-An easy way to plan a meal is to think of three jobs. Go foods are rice, roti, millets like ragi and bajra, potatoes and bananas. Grow foods are dal, chana, rajma, sprouts, milk, curd, paneer, eggs, fish, meat and nuts. Glow foods are vegetables and fruits. Water and a little fat are needed too. Many foods do more than one job. Dal gives protein and also fibre and iron. Peanuts give protein, fat and energy. Milk gives protein and calcium. So the groups are a helpful map, not strict boxes. Different countries draw them differently. Some use five groups, some use a plate and some used a pyramid.
-- e.g. A lunch of rice (go), dal (grow) and bhindi sabzi (glow) does all three jobs.
-- e.g. Egg bhurji with roti and tomato does all three jobs too.
+An easy way to plan a meal is to think of three jobs. Go foods are rice, chapati, millets like ragi and bajra, potatoes and bananas. Grow foods are dal, chana, rajma, sprouts, milk, curd, paneer, eggs, fish, meat and nuts. Glow foods are vegetables and fruits. Water and a little fat are needed too. Many foods do more than one job. Dal gives protein and also fibre and iron. Peanuts give protein, fat and energy. Milk gives protein and calcium. So the groups are a helpful map, not strict boxes. Different countries draw them differently. Some use five groups, some use a plate and some used a pyramid.
+- e.g. A lunch of rice (go), dal (grow) and bhindi poriyal (glow) does all three jobs.
+- e.g. Egg bhurji with chapati and tomato does all three jobs too.
 - e.g. A plate of rice and potato curry is mostly go. Adding a bowl of curd and a cucumber adds grow and glow.
 ### The balanced plate: how much of each · *defined*
 **Definition:** About half of a balanced plate is vegetables and fruits. About a quarter is grains or millets. The last quarter is dal, milk foods, eggs, fish, meat or nuts. Water is the drink.
 
-Nutrition scientists in many countries draw a healthy meal as a plate. India's National Institute of Nutrition in Hyderabad uses one called 'My Plate for the Day' in its 2024 food guide. Like many others, it gives about half the plate to vegetables and fruits. Grains and millets take about a quarter. Pulses, milk foods, eggs, fish, meat and nuts take the rest. Fats and oils come in small amounts. Many Indian homes already eat this way. A thali has small bowls of dal, sabzi, curd and chutney around rice or roti. A banana-leaf meal in the south puts many small heaps of vegetables around the rice. One-pot foods count too. Khichdi with vegetables, or a biryani with raita and salad, can be balanced.
-- e.g. A thali with a big helping of sabzi and salad, one roti and some rice, a bowl of dal and a bowl of curd.
+Nutrition scientists in many countries draw a healthy meal as a plate. India's National Institute of Nutrition in Hyderabad uses one called 'My Plate for the Day' in its 2024 food guide. Like many others, it gives about half the plate to vegetables and fruits. Grains and millets take about a quarter. Pulses, milk foods, eggs, fish, meat and nuts take the rest. Fats and oils come in small amounts. Many Indian homes already eat this way. A thali has small bowls of dal, poriyal, curd and chutney around rice or chapati. A banana-leaf meal in the south puts many small heaps of vegetables around the rice. One-pot foods count too. Khichdi with vegetables, or a biryani with raita and salad, can be balanced.
+- e.g. A thali with a big helping of poriyal and salad, one chapati and some rice, a bowl of dal and a bowl of curd.
 - e.g. A Kerala sadya on a banana leaf has many vegetable dishes like avial, thoran and olan around the rice.
 - e.g. Vegetable khichdi with a spoon of ghee and a bowl of curd is a balanced one-pot meal.
 ### What happens to food inside you: digestion · *defined*
 **Definition:** Digestion is breaking food into pieces small enough to pass through the wall of the gut into the blood.
 
 Food goes on a long trip through a tube called the gut. In your mouth, teeth crush it and spit wets it. An enzyme in your spit starts cutting starch into sugar. In your stomach, strong acid and more enzymes break proteins apart. The stomach churns the food into a thick soup. In the small intestine, juices from the pancreas take over. They cut starch into glucose, proteins into amino acids, and fats into smaller pieces. Bile from the liver breaks fat into tiny drops so the enzymes can reach it. Then those tiny pieces pass through the intestine wall into the blood. Whatever is left, mostly fibre and water, moves on to the large intestine. There the gut microbes get to work.
-- e.g. A roti becomes glucose. A spoon of dal becomes amino acids. A drop of ghee becomes fatty acids.
+- e.g. A chapati becomes glucose. A spoon of dal becomes amino acids. A drop of ghee becomes fatty acids.
 - e.g. Vitamins and minerals do not need to be cut up. They are already small enough to pass into the blood.
 - e.g. The small intestine of a grown-up is several metres long. Laid out straight, it would stretch past two grown-ups lying head to toe.
 ### Your food travels to 30 trillion cells · *defined*
@@ -87,14 +87,14 @@ Your cells need energy for everything: moving, growing, thinking and keeping war
 ### Why the body needs carbohydrates · *defined*
 **Definition:** Carbohydrates, like starch and sugar, are the body's main fuel. They are broken into glucose, which every cell can burn for energy.
 
-Rice, roti, ragi, jowar, bajra, poha, potatoes and bananas are mostly starch. Starch is a long chain of glucose pieces. Your body cuts the chain and sends the glucose into the blood. Whole grains are cut more slowly than white rice or maida, especially when you eat them with dal and vegetables. Then the glucose comes in a gentle stream. Sugar and sweets need very little cutting, so their glucose arrives in a rush. Your body can handle that sometimes. But lots of added sugar every day feeds the mouth bacteria that make holes in teeth. Over many years, eating a lot of added sugar is also linked to illnesses such as diabetes. Any extra glucose that is not needed is stored, first in the liver and muscles, then as fat.
-- e.g. Roti made from whole atta, eaten with dal and sabzi, gives a steady stream of energy through the afternoon.
+Rice, chapati, ragi, jowar, bajra, poha, potatoes and bananas are mostly starch. Starch is a long chain of glucose pieces. Your body cuts the chain and sends the glucose into the blood. Whole grains are cut more slowly than white rice or maida, especially when you eat them with dal and vegetables. Then the glucose comes in a gentle stream. Sugar and sweets need very little cutting, so their glucose arrives in a rush. Your body can handle that sometimes. But lots of added sugar every day feeds the mouth bacteria that make holes in teeth. Over many years, eating a lot of added sugar is also linked to illnesses such as diabetes. Any extra glucose that is not needed is stored, first in the liver and muscles, then as fat.
+- e.g. Chapati made from whole atta, eaten with dal and poriyal, gives a steady stream of energy through the afternoon.
 - e.g. A glass of sugary sharbat gives a quick rush of energy.
-- e.g. Chew a piece of roti thirty times. It starts to taste sweet as your spit cuts starch into sugar.
+- e.g. Chew a piece of chapati thirty times. It starts to taste sweet as your spit cuts starch into sugar.
 ### Why the body needs protein, and why dal and rice go together · *defined*
 **Definition:** Proteins are long chains of about 20 kinds of building blocks called amino acids. The body breaks food proteins into amino acids, then joins them in new orders to build its own proteins.
 
-Your muscles, skin, hair, nails, blood and enzymes are made of proteins. They wear out and are rebuilt all the time, and children are also growing. So you need protein every day. Your body can make some amino acids itself. But there are nine kinds it cannot make. They must come from food. Eggs, milk, fish and meat have all nine in good amounts. Grains like rice and wheat are a little low in one, called lysine. Dals and beans are a little low in another, called methionine. Eaten over the same day, they fill each other's gaps. That is one reason dal-chawal, rajma-chawal, idli-sambar and roti-chana are such good pairs.
+Your muscles, skin, hair, nails, blood and enzymes are made of proteins. They wear out and are rebuilt all the time, and children are also growing. So you need protein every day. Your body can make some amino acids itself. But there are nine kinds it cannot make. They must come from food. Eggs, milk, fish and meat have all nine in good amounts. Grains like rice and wheat are a little low in one, called lysine. Dals and beans are a little low in another, called methionine. Eaten over the same day, they fill each other's gaps. That is one reason dal-chawal, rajma-chawal, idli-sambar and chapati-chana are such good pairs.
 - e.g. Idli is made from rice and urad dal ground together. So every idli has grain protein and dal protein, and they fill each other's gaps.
 - e.g. A vegetarian family can get all the protein a child needs from dals, beans, milk, curd, paneer, nuts and grains.
 - e.g. Your hair is mostly a protein called keratin. When you grow it longer, you are using protein from your food.
@@ -130,7 +130,7 @@ You lose water all day, in your breath, sweat and urine. So you need to drink it
 Scientists agree on a lot. Diets with plenty of vegetables, fruits, pulses, whole grains and nuts are linked to good health in many countries. Some diets have lots of added sugar, salt and very processed packet foods, and few vegetables. They are linked to more tooth decay, and over many years to heart illness. But they do not agree on everything. They argue about which fats are best, about eggs, and about why packet foods seem to make people eat more. And very different traditional diets have kept people healthy. No single food makes a diet healthy or unhealthy. It is the pattern over years.
 - e.g. Eating sweets after every meal, every day, gives mouth bacteria a steady supply of sugar. They make acid that eats holes in teeth.
 - e.g. A diet of the same few foods, day after day, can miss a vitamin even when the stomach is always full.
-- e.g. A family that eats home-cooked dal, rice, sabzi and curd most days, with sweets on festivals, has a healthy pattern.
+- e.g. A family that eats home-cooked dal, rice, poriyal and curd most days, with sweets on festivals, has a healthy pattern.
 - **Most nutrition scientists, and the World Health Organization:** Eat mostly vegetables, fruits, whole grains, pulses and nuts. Keep added sugar under a tenth of your food energy, and less is better. Use less salt. This advice is based on studies of millions of people.
 - **Carlos Monteiro and colleagues in Brazil, from 2009:** The problem is not one nutrient but how food is made. 'Ultra-processed' packet foods, made in factories from many added ingredients, may cause people to eat more than they need. In a careful 2019 test in the United States, people ate about 500 kcal more each day on such foods. Others say the label is too broad, because it puts very different foods together.
 - **People studying traditional diets:** Healthy diets come in very different shapes. Some traditional diets have kept people well with lots of fish and fat, others with lots of rice and vegetables, and others with lots of milk. So we should be careful about one rule for everyone.
@@ -156,7 +156,7 @@ A balanced diet is not one fixed menu. A baby, a growing child, a pregnant mothe
 ## Challenging perspectives
 - **Some foods are 'good' and some foods are 'bad'.** (A very common way of talking about food, in homes, schools and adverts; *rejected*)  
   For: Some foods, like vegetables and dals, give the body a lot that it needs. Others, like sweets and fried snacks, mostly give quick energy, fat or salt.  
-  Against: Nutrition scientists look at the whole diet, not one food. A laddoo on Diwali does no harm in a balanced diet. And even 'good' foods can be too much: a diet of only spinach would miss protein and energy. Calling foods bad can also make children feel ashamed of what they eat, or of what their family can afford.
+  Against: Nutrition scientists look at the whole diet, not one food. A laddoo at Deepavali does no harm in a balanced diet. And even 'good' foods can be too much: a diet of only spinach would miss protein and energy. Calling foods bad can also make children feel ashamed of what they eat, or of what their family can afford.
 - **Fat in food is the main cause of heart disease, so eat as little fat as possible.** (The American scientist Ancel Keys, from the 1950s, and many food guides in the 1980s and 1990s; *debated*)  
   For: Some studies linked diets high in certain fats, like those in butter and meat, with more heart disease.  
   Against: The British scientist John Yudkin argued that sugar was a bigger problem, in his 1972 book 'Pure, White and Deadly'. He was mocked at the time. In 2016, researchers found papers showing that a sugar industry group had paid Harvard scientists in the 1960s to play down sugar's role. Today most scientists think the kind of fat matters more than the amount, and that added sugar also matters.
@@ -192,7 +192,7 @@ Food does not stay food inside you. The fat in a peanut becomes the skin of your
 - Science (settled): Every cell membrane is made largely of fats. They line up in two layers because they do not mix with water.
 - Science (settled): The body rebuilds itself from food all the time. The gut lining is replaced every few days, and red blood cells about every four months.
 - Other view, Many nutrition scientists: The body can make most of the fats it needs from sugar and starch. Only a few kinds of fat, called essential fatty acids, must come from food. On this view, the fat on our plate matters mostly as energy, and a small amount is plenty.
-- Practice, The thank-you bite (4 min): Let's take one small piece of roti or a spoon of rice. Don't swallow it yet. Close your eyes and chew it slowly, thirty times. Notice how it starts to taste a little sweet. That is the enzyme in your spit cutting starch into sugar. Now swallow. Put your hand on your tummy. In a few hours, this bite will be glucose in your blood and food for your brain. Its fibre will feed the microbes in your gut. Breathe out slowly onto your other hand. Feel the warmth. Let's sit for three breaths. Think of the people who grew this food and the person who cooked it.
+- Practice, The thank-you bite (4 min): Let's take one small piece of chapati or a spoon of rice. Don't swallow it yet. Close your eyes and chew it slowly, thirty times. Notice how it starts to taste a little sweet. That is the enzyme in your spit cutting starch into sugar. Now swallow. Put your hand on your tummy. In a few hours, this bite will be glucose in your blood and food for your brain. Its fibre will feed the microbes in your gut. Breathe out slowly onto your other hand. Feel the warmth. Let's sit for three breaths. Think of the people who grew this food and the person who cooked it.
 - Ask: The fat in a peanut can become the skin of your cells. When does the peanut stop being a peanut and start being you?
 - Ask: If what a food gives you depends on what you eat it with, can a food be good or bad on its own?
 - Ask: Your gut microbes eat the fibre that you cannot. Is that fibre food for you, or food for them?
@@ -269,7 +269,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 ## Games
 ### g1 · Cell Delivery (25 min)
 - **rules:** Each player has a My Body sheet. Shuffle the 24 food cards. Lay 5 face up in a row. This row is the market. Put the rest in a pile, face down.; On your turn, take one card from the market. Tick the boxes it fills on your sheet. Then fill the market back up to 5 from the pile.; Extra ticks are not kept. If your Brain cell already has its 2 energy, more energy does not count.; A cell is fed when all its boxes are ticked. Colour it in.; Each player gets 8 turns, like the meals and snacks of one day.; Your body also needs water. Tick the Water drop by taking the buttermilk card, or by using one turn to say 'I drink water' instead of taking a card. If your Water drop is empty at the end, none of your cells count.; With friends or a parent: after 8 turns each, the player with the most fed cells wins. A tie goes to whoever fed the Gut-lining cell.; Playing alone: try to feed all six cells and tick the Water drop within 8 turns. Then try in 7, then in 6. Doing it in 5 is very hard and needs luck.
-- **Printable cards: 24 food cards to cut out (each shows what it gives the body):** Rice: 2 energy; Roti: 2 energy, 1 fibre; Ragi mudde: 2 energy, 1 calcium, 1 fibre; Poha with peanuts: 2 energy, 1 protein; Banana: 1 energy, 1 fibre; Moong dal: 2 protein, 1 iron, 1 fibre; Rajma: 2 protein, 1 iron, 1 fibre; Sprouts chaat: 1 protein, 1 vitamin C, 1 fibre; Boiled egg: 2 protein, 1 fat, 1 vitamin A; Fish curry: 2 protein, 1 fat; Paneer: 1 protein, 1 calcium, 1 fat; Glass of milk: 1 protein, 1 calcium; Bowl of curd: 1 protein, 1 calcium; Til laddoo: 1 energy, 1 calcium, 1 iron, 1 fat; Handful of peanuts: 1 protein, 1 fat, 1 energy; Palak sabzi: 1 iron, 1 vitamin A, 1 fibre; Carrot sticks: 1 vitamin A, 1 fibre; Amla: 1 vitamin C; Guava: 1 vitamin C, 1 fibre; Mango: 1 energy, 1 vitamin A, 1 vitamin C; Spoon of ghee: 1 fat; Jalebi (festival treat): 2 energy; Packet of chips: 1 energy, 1 fat; Buttermilk: 1 protein, 1 calcium, 1 water
+- **Printable cards: 24 food cards to cut out (each shows what it gives the body):** Rice: 2 energy; Chapati: 2 energy, 1 fibre; Ragi mudde: 2 energy, 1 calcium, 1 fibre; Poha with peanuts: 2 energy, 1 protein; Banana: 1 energy, 1 fibre; Moong dal: 2 protein, 1 iron, 1 fibre; Chana sundal: 2 protein, 1 iron, 1 fibre; Sprouts chaat: 1 protein, 1 vitamin C, 1 fibre; Boiled egg: 2 protein, 1 fat, 1 vitamin A; Fish curry: 2 protein, 1 fat; Paneer: 1 protein, 1 calcium, 1 fat; Glass of milk: 1 protein, 1 calcium; Bowl of curd: 1 protein, 1 calcium; Til laddoo: 1 energy, 1 calcium, 1 iron, 1 fat; Handful of peanuts: 1 protein, 1 fat, 1 energy; Keerai poriyal (spinach): 1 iron, 1 vitamin A, 1 fibre; Carrot sticks: 1 vitamin A, 1 fibre; Amla: 1 vitamin C; Guava: 1 vitamin C, 1 fibre; Mango: 1 energy, 1 vitamin A, 1 vitamin C; Spoon of ghee: 1 fat; Jalebi (festival treat): 2 energy; Packet of chips: 1 energy, 1 fat; Buttermilk: 1 protein, 1 calcium, 1 water
 - **Printable score sheet: My Body sheet: six cells, each with boxes to tick:** Muscle cell: needs 2 protein; Brain cell: needs 2 energy; Bone cell: needs 1 calcium; Blood-making cell: needs 1 iron and 1 vitamin C; Eye cell: needs 1 vitamin A and 1 fat; Gut-lining cell: needs 2 fibre (the microbes turn fibre into its food); Water drop: needs 1 water. Without it, the game ends with no cells fed.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 24 food cards. 2. Give each player a My Body sheet and a pencil. 3. Shuffle the cards and lay 5 face up as the market.  
@@ -299,7 +299,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Think: In the game, extra energy was thrown away. In a real body, what happens to extra energy?
 ### g2 · What's Missing? (a thali puzzle game) (15 min)
 - **rules:** Shuffle the thali cards and put them face down.; One player turns over a card and reads the meal out loud.; Everyone secretly holds up the token for the colour that is most missing: yellow for go foods, red for grow foods or green for glow foods.; Everyone who picked the right colour scores 1 point.; Then each player says one real food from your kitchen that would fill the gap. A food that is really in the kitchen right now scores 1 extra point.; Some cards are already balanced. If you think nothing is missing, hold up all three tokens together. That scores 2 points if you are right.; Playing alone: read each card, put your token on it, then check the answer list. Try to beat your own score next time.
-- **Printable cards: 16 thali cards to cut out (each lists one meal):** Rice, potato curry, papad; Roti, dal, a glass of water; Idli, coconut chutney; Poha, a cup of tea; Rice, fish curry, a glass of water; Aloo paratha, pickle; Bhakri, pitla, onion; Curd rice, a glass of water; Rajma, rice; Bread, jam, a glass of milk; Instant noodles; Egg bhurji, roti; Upma, banana; Khichdi, ghee; Puri, chole, lassi; Ragi dosa, sambar with drumstick and pumpkin, buttermilk
+- **Printable cards: 16 thali cards to cut out (each lists one meal):** Rice, potato curry, papad; Chapati, dal, a glass of water; Idli, coconut chutney; Poha, a cup of tea; Rice, fish curry, a glass of water; Aloo paratha, pickle; Bhakri, pitla, onion; Curd rice, a glass of water; Rajma, rice; Bread, jam, a glass of milk; Instant noodles; Egg bhurji, chapati; Upma, banana; Ven pongal, ghee; Puri, chole, lassi; Ragi dosa, sambar with drumstick and pumpkin, buttermilk
 - **Printable tokens: Three colour tokens per player: yellow (go), red (grow), green (glow):** 🟡; 🔴; 🟢
 - **Printable score sheet: A tally sheet with each player's name:** Player; Points
 - **s1 (2 min)**  
@@ -315,12 +315,12 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent does:* 1. Take turns turning over a card. 2. Everyone holds up a token. 3. Score points. 4. Each player names a food from your kitchen to fill the gap.  
   *Parent says:* Hold up your token. Now tell me a food in our kitchen right now that would fill the gap.  
   *Child mode:* Turn over a card. Hold up the missing colour. Then name a food from your kitchen to add.
-  - Note: Here are the answers. Roti and dal need green, so add sabzi or salad. Idli and chutney are low in grow and green, so add sambar with vegetables. Poha and tea need grow and green, so add peanuts, peas or a fruit. Rice and fish curry need green. Aloo paratha and pickle need grow and green, so add curd and salad. Bhakri, pitla and onion is fairly balanced, because pitla is made from besan, a pulse. Accept green or all three tokens. Add a green leaf if you can. Curd rice needs green, so add cucumber or a fruit. Rajma rice needs green. Bread, jam and milk need green. Instant noodles need grow and green, so add an egg or peanuts and vegetables. Egg bhurji and roti need green. Upma and banana need grow, so add peanuts or curd. Khichdi and ghee need green, so cook vegetables into the khichdi. Puri, chole and lassi need green. Ragi dosa, sambar and buttermilk are already balanced, so that card wins all three tokens.
+  - Note: Here are the answers. Chapati and dal need green, so add poriyal or salad. Idli and chutney are low in grow and green, so add sambar with vegetables. Poha and tea need grow and green, so add peanuts, peas or a fruit. Rice and fish curry need green. Aloo paratha and pickle need grow and green, so add curd and salad. Bhakri, pitla and onion is fairly balanced, because pitla is made from besan, a pulse. Accept green or all three tokens. Add a green leaf if you can. Curd rice needs green, so add cucumber or a fruit. Rajma rice needs green. Bread, jam and milk need green. Instant noodles need grow and green, so add an egg or peanuts and vegetables. Egg bhurji and chapati need green. Upma and banana need grow, so add peanuts or curd. Ven pongal and ghee need green, so cook vegetables into the pongal. Puri, chole and lassi need green. Ragi dosa, sambar and buttermilk are already balanced, so that card wins all three tokens.
 - **s4 (2 min)**  
   *Parent does:* Count the points and find the winner. Then ask the question below.  
   *Parent says:* Most meals were missing the same colour. Which one? Why do you think that is?  
   *Child mode:* Count your points. Which colour was missing most often?
-  - Ask: Which colour was missing most often, and why? (good: Green, because vegetables take time to cook.; Green, because people fill up on rice and roti.; Vegetables can cost more.)
+  - Ask: Which colour was missing most often, and why? (good: Green, because vegetables take time to cook.; Green, because people fill up on rice and chapati.; Vegetables can cost more.)
   - Think: Is it easy for every family to add vegetables to every meal? What makes it hard?
 
 ## Experiments
@@ -340,18 +340,18 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent does:* 1. Rub each food on its own square, 10 firm rubs. 2. Squash the peanut and coconut with the back of a spoon first. 3. Put 2 drops of oil on the oil square and 2 drops of water on the water square.  
   *Parent says:* Rub each food firmly, ten times, on its own square. Same rubs for each, so the test is fair.  
   *Child mode:* Rub each food on its own square. Count ten rubs. Put oil and water on the last two squares.
-  - Note: Use roti made without ghee, or the test will find the ghee. Squash hard foods so that their insides touch the paper.
+  - Note: Use chapati made without ghee, or the test will find the ghee. Squash hard foods so that their insides touch the paper.
 - **s3 (15 min)**  
   *Parent does:* 1. Leave the squares flat for 15 minutes so the water can dry. 2. Meanwhile, put 2 drops of oil into a tumbler of water and look from the top. 3. Read the card on why the body needs fat. 4. After 15 minutes, hold each square up to a window or a torch.  
   *Parent says:* Water dries away. Fat does not. After 15 minutes, any spot still see-through is fat. Let's look.  
   *Child mode:* Wait 15 minutes. Meanwhile, drop 2 drops of oil into a tumbler of water. Does it mix? Then hold each square up to the light.
-  - Note: Expect big spots from oil, peanut and coconut, and medium ones from paneer and chips. Plain roti and apple usually leave nothing once dry. If a spot still looks wet, wait 10 minutes more, because water spots can take time to dry. If the paper is very thin, use two layers. The oil in the tumbler floats as round drops and does not mix, even if you stir. Apple can leave a faint sticky mark from its sugar, but a fat spot is much clearer.
+  - Note: Expect big spots from oil, peanut and coconut, and medium ones from paneer and chips. Plain chapati and apple usually leave nothing once dry. If a spot still looks wet, wait 10 minutes more, because water spots can take time to dry. If the paper is very thin, use two layers. The oil in the tumbler floats as round drops and does not mix, even if you stir. Apple can leave a faint sticky mark from its sugar, but a fat spot is much clearer.
   - Check: The water spot dried and disappeared. The oil spot stayed see-through. What does a spot that stays tell you? → **The food carries fat**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why it matters.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? And why does the body need foods like these?  
   *Child mode:* Now say three things. What I think. What I saw. Why it matters.
-  - Note: A good answer sounds like this. What I think: peanuts, coconut and paneer carry fat, and apple and plain roti carry almost none. What I saw: big see-through spots for peanut and coconut, and no spot for apple. Why: fat builds the thin skin around every cell and helps us take in vitamin A from carrots and palak. So a little fat is part of a balanced diet. Do not let the talk turn into 'fat is bad'. Peanuts and coconut are nourishing foods.
+  - Note: A good answer sounds like this. What I think: peanuts, coconut and paneer carry fat, and apple and plain chapati carry almost none. What I saw: big see-through spots for peanut and coconut, and no spot for apple. Why: fat builds the thin skin around every cell and helps us take in vitamin A from carrots and palak. So a little fat is part of a balanced diet. Do not let the talk turn into 'fat is bad'. Peanuts and coconut are nourishing foods.
 ### e2 · The Vanishing Blue: which fruit has the most vitamin C? (35 min)
 - **question:** Which juice has the most vitamin C: amla, guava, lemon, mosambi or a packet fruit drink?
 - **predict:** Before you start, guess. Put the juices in order, from the most vitamin C to the least. Write your order down, and say why you think so.
@@ -412,7 +412,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why. Then talk about how the yeast is like, and unlike, gut microbes.  
   *Parent says:* What do you think now? What did you see? Why? Now, your gut microbes are not yeast. They are mostly bacteria. But they also eat and make gas. What do they eat?  
   *Child mode:* Now say three things. What I think. What I saw. Why. What do your gut microbes eat?
-  - Note: A good answer sounds like this. What I think: yeast makes gas when it eats, and it likes sugar best. What I saw: the sugar balloon was 28 centimetres round after 45 minutes, atta 13 and water about 1. Why: the yeast ate the food and gave off carbon dioxide gas. Our gut microbes eat fibre from dal, sabzi and fruit. They also make gas, and acids that feed our gut cells. A model is never exactly the real thing. Yeast is a fungus, and most gut microbes are bacteria.
+  - Note: A good answer sounds like this. What I think: yeast makes gas when it eats, and it likes sugar best. What I saw: the sugar balloon was 28 centimetres round after 45 minutes, atta 13 and water about 1. Why: the yeast ate the food and gave off carbon dioxide gas. Our gut microbes eat fibre from dal, poriyal and fruit. They also make gas, and acids that feed our gut cells. A model is never exactly the real thing. Yeast is a fungus, and most gut microbes are bacteria.
 
 ## Activities
 ### a1 · Yesterday's Plate: a colour sort (15 min)
@@ -425,7 +425,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: Include water, milk, tea, biscuits and fruit. Children often forget snacks and drinks. Do not comment on any food. This is noticing, not marking.
 - **s2 (5 min)**  
   *Parent does:* Help your child put coloured dots next to each food. Yellow for energy foods (go). Red for body-building foods (grow). Green for vegetables and fruits (glow). Blue for water and drinks. Some foods get two dots.  
-  *Parent says:* Yellow is for go foods that give energy, like rice and roti. Red is for grow foods that build your body, like dal, milk and eggs. Green is for glow foods, the vegetables and fruits. Blue is for water.  
+  *Parent says:* Yellow is for go foods that give energy, like rice and chapati. Red is for grow foods that build your body, like dal, milk and eggs. Green is for glow foods, the vegetables and fruits. Blue is for water.  
   *Child mode:* Yellow dot for energy foods. Red dot for body-building foods. Green dot for vegetables and fruits. Blue dot for drinks.
   - Note: Tricky ones: milk is red and blue. Potato is yellow. Poha with peanuts and peas is yellow, red and green. Sugar in tea is yellow. Ghee and oil can be yellow, since fat gives energy.
   - Check: Which colour dot does a bowl of dal get? → **Red (body-building)**
@@ -447,13 +447,13 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **s2 (4 min)**  
   *Parent does:* Show your child the plate. Explain the three parts with your finger: half the plate, a quarter and a quarter.  
   *Parent says:* Scientists at India's National Institute of Nutrition suggest a plate that is about half vegetables and fruits. One quarter is grains or millets. One quarter is dal, curd, egg, paneer, fish or meat. We drink water with it.  
-  *Child mode:* Half your plate is vegetables and fruit. A quarter is rice or roti. A quarter is dal, curd, egg or paneer. Add water.
+  *Child mode:* Half your plate is vegetables and fruit. A quarter is rice or chapati. A quarter is dal, curd, egg or paneer. Add water.
   - Check: On a balanced plate, which part is the biggest? → **Vegetables and fruit**
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Your child serves the cool foods into the right parts. 2. You serve the hot foods where your child points. 3. Put dal and curd in katoris if that is easier.  
-  *Parent says:* You plan it and I'll help with the hot things. Where should the sabzi go? Where should the rice go?  
+  *Parent says:* You plan it and I'll help with the hot things. Where should the poriyal go? Where should the rice go?  
   *Child mode:* You plan the plate. A grown-up serves the hot food. Point to where each dish goes.
-  - Note: One-pot meals count too. Khichdi is grain and dal together. Biryani is grain with meat or vegetables. Then just add a raita or salad. Don't worry about exact amounts. Half and quarters are a guide, not a rule.
+  - Note: One-pot meals count too. Pongal and khichdi are grain and dal together. Biryani is grain with meat or vegetables. Then just add a raita or salad. Don't worry about exact amounts. Half and quarters are a guide, not a rule.
 - **s4 (5 min)**  
   *Parent does:* Look at the plate together. Ask: is any colour missing? If so, find a quick fix in the kitchen.  
   *Parent says:* Is any colour missing? What could we add in two minutes, with no cooking?  
@@ -466,13 +466,13 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent says:* After we eat, tell me three things. What do you think about our plate? What was on it? Why does the body need all three colours?  
   *Child mode:* After eating, say three things. What I think. What I saw on my plate. Why my body needs every colour.
   - Note: A good answer sounds like this. What I think: our lunch was balanced. What I saw: bhindi and salad for green, rice for yellow, dal and curd for red, and water. Why: energy foods give fuel, grow foods build my body, and glow foods help everything work. Balance over the whole day matters more than any one plate.
-### a3 · The Paper-Clip Journey: from roti to cell (20 min)
+### a3 · The Paper-Clip Journey: from chapati to cell (20 min)
 - **safety:** A grown-up cuts the slot in the card with scissors.
 - **record:** Draw the journey in four pictures: the chain, the cutting, the slot, the cells.
 - **s1 (4 min)**  
-  *Parent does:* 1. Make one long chain of 10 clips of the same colour. This is starch from roti. 2. Make a chain of 12 clips in mixed colours. This is protein from dal.  
+  *Parent does:* 1. Make one long chain of 10 clips of the same colour. This is starch from chapati. 2. Make a chain of 12 clips in mixed colours. This is protein from dal.  
   *Parent says:* Starch is a long chain of glucose, all the same kind of piece. Protein is a chain of amino acids, in many kinds. Here they are as paper clips.  
-  *Child mode:* Make a long chain of same-colour clips. That is starch from roti. Make a mixed-colour chain. That is protein from dal.
+  *Child mode:* Make a long chain of same-colour clips. That is starch from chapati. Make a mixed-colour chain. That is protein from dal.
 - **s2 (4 min)**  
   *Parent does:* Stand the card up. Ask your child to hold a whole chain bunched up in one hand and push the bunch through the slot. It will not fit.  
   *Parent says:* This card is the wall of your small intestine. On the other side is your blood. Can the whole chain get through?  
@@ -523,7 +523,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **record:** A drawing of the elder's childhood plate next to your own, with three differences written underneath.
 - **s1 (10 min)**  
   *Parent does:* Help your child ask these questions and write down the answers. What did you eat for breakfast when you were my age? What grains did you eat? Which vegetables and leaves? Where did your food come from? Did you have sweets, and when? Who cooked, and who ate first?  
-  *Parent says:* Let's be food historians. We'll ask Aaji or Nani what she ate when she was your age. Real scientists collect old knowledge like this.  
+  *Parent says:* Let's be food historians. We'll ask Paati, Aaji or Nani what she ate when she was your age. Real scientists collect old knowledge like this.  
   *Child mode:* Ask your grandparent what they ate when they were your age. Write down their answers.
   - Note: Many elders will mention millets like ragi, bajra or jowar, wild or seasonal leaves, and fewer packet foods. Some will mention hunger or hard times. Listen with respect. The question 'who ate first?' often shows that women and girls ate last and least. That is worth talking about gently.
 - **s2 (6 min)**  
@@ -582,8 +582,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **problem:** Plan five school tiffins for one week. Each one must be balanced, with go, grow and glow foods. It must survive until lunch without a fridge, and not get soggy. You must be able to help make it in 15 minutes in the morning.
 - **your turn:** Draw your five tiffins, one for each school day, and colour each part yellow, red or green. Make at least one with your own hands this week. Check how it looked at lunchtime.
 - **constraints:** No fridge between morning and lunch, and Indian summer heat.; Your family's usual budget, with no special shopping.; Made in 15 minutes, with you helping.; Something you will happily eat. No point in a tiffin that comes home full.
-- **general:** Idli or dosa with a dry chutney powder and a fruit.; Roti rolled with paneer or egg bhurji and vegetables.; Poha or upma with peanuts and peas, and a banana.; Vegetable pulao with a small box of roasted chana.
-- **creative:** Sprouted moong chaat with tomato and lemon, which stays fresh and has all three colours.; Ragi or bajra roti with a dry sabzi, using the old grains your grandparents ate.; Last night's dal kneaded into the dough as dal paratha, so leftovers turn into tomorrow's tiffin.
+- **general:** Idli or dosa with a dry chutney powder and a fruit.; Chapati rolled with paneer or egg bhurji and vegetables.; Poha or upma with peanuts and peas, and a banana.; Vegetable pulao with a small box of roasted chana.
+- **creative:** Sprouted moong chaat with tomato and lemon, which stays fresh and has all three colours.; Ragi or bajra roti with a dry poriyal, using the old grains your grandparents ate.; Last night's dal kneaded into the dough as dal paratha, so leftovers turn into tomorrow's tiffin.
 - **s1 (8 min)**  
   *Parent does:* 1. Look in the kitchen with your child. 2. List the go, grow and glow foods your family usually has.  
   *Parent says:* Let's be tiffin engineers. What do we usually have at home that could go into a tiffin?  
@@ -592,8 +592,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent does:* Help your child plan five tiffins on paper. Check each one has all three colours and passes the 'no fridge' test.  
   *Parent says:* For each tiffin, check three things. Does it have go, grow and glow? Will it keep until lunch? Can we make it in 15 minutes?  
   *Child mode:* Plan five tiffins. Does each have all three colours? Will it keep until lunch?
-  - Note: Curd and cut fruit can spoil or go brown in heat. Dry chutneys, whole fruit, rotis, rolls and roasted chana travel well. Squeeze lemon on cut apple to slow browning.
-  - Check: Which tiffin is balanced and keeps well without a fridge? → **Roti roll with paneer and vegetables, and a whole guava**
+  - Note: Curd and cut fruit can spoil or go brown in heat. Dry chutneys, whole fruit, chapatis, rolls and roasted chana travel well. Squeeze lemon on cut apple to slow browning.
+  - Check: Which tiffin is balanced and keeps well without a fridge? → **Chapati roll with paneer and vegetables, and a whole guava**
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* On one morning this week, help your child make one of the tiffins.  
   *Parent says:* Today you are the tiffin maker. Which one shall we make?  
@@ -694,11 +694,11 @@ When the first leaves came, small and round and green, I picked a handful. I was
 14. (mcq) How does a sugary drink harm teeth?  
    Options: Mouth bacteria eat the sugar and make acid that eats holes in teeth / Sugar is sharp and scratches teeth / Sugar turns teeth into sugar  
    **Answer:** Mouth bacteria eat the sugar and make acid that eats holes in teeth. *Why:* Bacteria living in your mouth feed on sugar and make acid. The acid slowly dissolves tooth enamel, making holes. Picking 'sugar scratches teeth' is a guess about touch, but the harm comes from living bacteria.
-15. (draw) Draw the journey of a roti from your mouth to a brain cell, in four boxes.  
+15. (draw) Draw the journey of a chapati from your mouth to a brain cell, in four boxes.  
    **Answer:** Mouth (chewing and spit), stomach and small intestine (cut into glucose), blood (carrying glucose), brain cell (burning glucose for energy).. *Why:* Drawing the steps shows you understand that food must be broken down, carried by blood and used in cells.
 ### Thinking Like a Food Scientist (challenge) (challenge, 15 questions)
 1. (mcq) In Cell Delivery, the Eye cell needs vitamin A and fat. Which pair feeds it, just like in a real kitchen?  
-   Options: Carrot sticks and a spoon of ghee / Amla and rice / Rice and roti  
+   Options: Carrot sticks and a spoon of ghee / Amla and rice / Rice and chapati  
    **Answer:** Carrot sticks and a spoon of ghee. *Why:* Carrots carry beta-carotene, which your body turns into vitamin A. It dissolves in fat. So carrots with a little ghee or oil help your body take in more of it. Picking amla and rice gives vitamin C and energy, but no vitamin A and no fat.
 2. (mcq) Lucy Wills found that richer women in Bombay rarely got the pale sickness. Why was this an important clue?  
    Options: It suggested food was the cause, not the mill dust or bad luck / It showed rich women were stronger / It proved the sickness was caught from others  
@@ -721,15 +721,15 @@ When the first leaves came, small and round and green, I picked a handful. I was
 9. (write) Your gut microbes are living things with their own lives. Are they part of you, or not? Give a reason for your answer.  
    **Answer:** Any thoughtful answer with a reason. For example: Yes, because I cannot be healthy without them. Or: No, because they have their own genes and some can make me ill.. *Why:* Scientists and philosophers argue about this. A good answer gives a reason from the science. For example, they feed my gut cells, or they are separate living things.
 10. (mcq) Most of the mass of food your body burns leaves as carbon dioxide. Where can that carbon go next?  
-   Options: Into a plant, which uses it to make food / Nowhere, it disappears / Back into the same roti  
+   Options: Into a plant, which uses it to make food / Nowhere, it disappears / Back into the same chapati  
    **Answer:** Into a plant, which uses it to make food. *Why:* Plants take in carbon dioxide from the air and use sunlight to build sugar and starch. So the carbon you breathe out can become part of a plant, and maybe someone's food. Picking 'it disappears' misses that matter is never lost, only moved.
 11. (fill) Since 2001, India's Supreme Court has said every child in a government primary school must get a cooked ____ at school.  
    **Answer:** ['lunch', 'meal', 'midday meal']. *Why:* The midday meal, now called PM POSHAN, feeds many millions of children. For many, it is the most balanced meal of the day.
 12. (mcq) Why does a growing child need protein every day?  
    Options: The body is always rebuilding and growing, and uses amino acids to do it / Protein gives the only energy we have / Protein is stored for years  
    **Answer:** The body is always rebuilding and growing, and uses amino acids to do it. *Why:* Muscles, skin, blood and hair are always being rebuilt, and children are also growing. The body cannot store much protein, so it needs some most days. Picking 'protein gives the only energy' mixes it up with carbohydrates and fats.
-13. (write) Design a fair test to find out whether chewing roti for longer makes it taste sweeter. What will you change, and what will you keep the same?  
-   **Answer:** Change only the number of chews, for example 5, 15 and 30. Keep the same roti, the same size of piece and the same person. Rate the sweetness each time.. *Why:* A fair test changes one thing only. The sweetness comes from the enzyme in spit cutting starch into sugar, so more chewing should mean more sweetness.
+13. (write) Design a fair test to find out whether chewing chapati for longer makes it taste sweeter. What will you change, and what will you keep the same?  
+   **Answer:** Change only the number of chews, for example 5, 15 and 30. Keep the same chapati, the same size of piece and the same person. Rate the sweetness each time.. *Why:* A fair test changes one thing only. The sweetness comes from the enzyme in spit cutting starch into sugar, so more chewing should mean more sweetness.
 14. (mcq) Scientists say a balanced diet is about the pattern over many days. Which habit fits that idea best?  
    Options: Mostly varied home meals, with treats on some days / Never eating any sweets at all / Eating only one perfect meal each day  
    **Answer:** Mostly varied home meals, with treats on some days. *Why:* A balanced diet is a pattern. Varied everyday meals, with treats sometimes, fit it well. Never eating sweets is not needed. One 'perfect' meal still misses the variety of a whole day.
@@ -800,11 +800,11 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - Studying gut microbes to help treat some illnesses of the gut.
 
 ## Spotted around us
-- A thali at home or in a restaurant. Small katoris of dal, sabzi, curd and chutney sit around rice and roti.
+- A thali at home or in a restaurant. Small katoris of dal, poriyal, curd and chutney sit around rice and chapati.
 - A banana-leaf meal in the south, with many small vegetable dishes around the rice.
 - Children in a government school eating a hot midday meal together.
 - A Nutrition Information table on a biscuit packet or juice box.
-- A sabzi cart in the morning, piled with leaves, gourds and seasonal fruit.
+- A poriyal cart in the morning, piled with leaves, gourds and seasonal fruit.
 - A packet of iodised salt with a smiling sun or a red tick on it.
 - A glass of buttermilk or nimbu pani offered to guests on a hot afternoon.
 - Millet foods coming back: ragi dosa, bajra roti and jowar puffs in shops and homes.
@@ -819,7 +819,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 
 ## Questions to ask kids
 - Which colours are on your plate right now: go, grow and glow?
-- Where will this roti be tomorrow morning?
+- Where will this chapati be tomorrow morning?
 - Can you feel the warmth of your breath? Which meal is that from?
 - What do you think your gut microbes are eating right now?
 - If you could add one thing to this meal to balance it, what would it be?
@@ -831,16 +831,16 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - Why do you think the dal has lemon squeezed on it?
 
 ## Jokes
-- Why did the roti go to school? *To get a little more well-rounded.*
+- Why did the chapati go to school? *To get a little more well-rounded.*
 - What did the dal say to the rice? *We make a great pair, we complete each other!*
 - Why did the carrot win a prize? *It was outstanding in its field.*
 - Why was the gut microbe never lonely? *It lived with trillions of roommates.*
-- Why did the roti taste sweet after thirty chews? *Your spit had been busy cutting its starch into sugar.*
+- Why did the chapati taste sweet after thirty chews? *Your spit had been busy cutting its starch into sugar.*
 - Why did the banana go to the doctor? *It wasn't peeling well.*
 - What is a mitochondrion's favourite game? *Burning rubber. No, burning glucose!*
 - Why did the amla sit alone at the party? *It was too sour to mix, but everyone needed its vitamin C.*
 - Why did the paneer cube blush? *It saw the salad dressing.*
-- What did the stomach say to the samosa? *I'll break you down, but nicely.*
+- What did the stomach say to the vada? *I'll break you down, but nicely.*
 - Why did the glass of water join the thali? *Because every plate needs a little support.*
 - Why do skeletons never eat too much? *They don't have the stomach for it.*
 - What did the gut microbe say to the fibre? *You are too tough for the human, but you are my favourite meal.*
@@ -870,7 +870,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on activities from a science museum in San Francisco. It is on the founder's list of STEM websites.
 - [Science City, Kolkata](https://www.sciencecitykolkata.org.in) · place · Kolkata: A large science centre with galleries on the human body and life.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on biology and the human body.
-- [A weekly sabzi market or a millet shop near you]() · place · Your own town or city: Go early with a grown-up. Count how many kinds of leaves, vegetables and grains you can find, and ask the sellers where they grew.
+- [A weekly poriyal market or a millet shop near you]() · place · Your own town or city: Go early with a grown-up. Count how many kinds of leaves, vegetables and grains you can find, and ask the sellers where they grew.
 
 ## Things to buy
 - [Povidone-iodine antiseptic liquid](https://www.amazon.in/s?k=povidone+iodine+solution) (material): For the Vanishing Blue vitamin C test. Most homes already have it in the medicine box. Used in e2. 
@@ -903,7 +903,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - DeepKids V0.1 Activities Final, week 9 'Know what you eat' (identifying kitchen ingredients with a parent): used in Yesterday's Plate (a1), Build a Balanced Thali (a2) and the kitchen hunts in What's Missing? (g2).
 - DeepKids HomeSchooling Track, Physics sheet, 'First law (energy conservation)' row: 'note how food energy powers activity' and 'nothing from nothing, everything transforms', used in the card on food plus oxygen giving energy and in the intro hook about breathing out your food.
 - DeepKids HomeSchooling Track, STEM Activities websites: Exploratorium Science Snacks (links).
-- DeepKids Combined Class 5 lesson 'Digestion: the long tube that turns a roti into you' (app/content/combined/sci-C5-digestion.json): its enzymes-as-scissors idea, the gut microbes 'one and many' day and the Marshall and Warren voice, simplified for Class 3 in the Paper-Clip Journey (a3), the fibre and microbes card and Roots. Its story was not reused.
+- DeepKids Combined Class 5 lesson 'Digestion: the long tube that turns a chapati into you' (app/content/combined/sci-C5-digestion.json): its enzymes-as-scissors idea, the gut microbes 'one and many' day and the Marshall and Warren voice, simplified for Class 3 in the Paper-Clip Journey (a3), the fibre and microbes card and Roots. Its story was not reused.
 - DeepKids Combined Class 3 lesson 'Caring for the body you live in' (app/content/combined/sci-C3-health-hygiene-exercise-and-illness.json): the 'old friends' idea about microbes, used in the microbes card and Roots.
 - DeepKids unit sci.food.where-food-comes-from.L3: this unit builds on it, following food forwards into the body instead of back to the Sun, and shares its topic song. Its iodine starch test is reused in a new way, to measure vitamin C (e2).
 - Cambridge Primary Science Stage 3, 2.2 'A healthy diet' and 2.3 'An unhealthy diet' (app/content/cambridge/sci-L3-02.json): coverage of food groups, the food triangle and balanced thali, water, sugar on drink labels and the paper spot test for fat (e1), and the voices of C. Gopalan, James Lind and John Yudkin.

@@ -289,7 +289,7 @@
      "kind": "act",
      "title": "Back to the plant",
      "mins": 10,
-     "do": "Take one meal, such as dal, rice and curd. For each food, ask: 'Where did this come from? And before that?' Draw a chain for each: rice, a rice plant, sunlight. Curd, milk, a cow, grass, sunlight. Say: 'Plants make their own food from sunlight, water and carbon dioxide. We cannot. So almost every food goes back to a plant.' Ask: 'Which foods did not come from a living thing?' (Salt and water.)"
+     "do": "Take one meal, such as rice, rasam and curd. For each food, ask: 'Where did this come from? And before that?' Draw a chain for each: rice, a rice plant, sunlight. Curd, milk, a cow, grass, sunlight. Say: 'Plants make their own food from sunlight, water and carbon dioxide. We cannot. So almost every food goes back to a plant.' Ask: 'Which foods did not come from a living thing?' (Salt and water.)"
     },
     {
      "kind": "talk",
@@ -520,7 +520,7 @@
       },
       {
        "t": "mcq",
-       "p": "Riya, a girl in Class 3, puts a glass jar over a burning tea light. The flame goes out. Why?",
+       "p": "Kavya, a girl in Class 3, puts a glass jar over a burning tea light. The flame goes out. Why?",
        "opts": [
         "The flame used up much of the oxygen inside the jar",
         "The jar was too cold",
@@ -673,7 +673,7 @@
      [
       {
        "t": "mcq",
-       "p": "Meena, a girl of nine, goes for a run on a hot day. Which shirt will keep her cooler?",
+       "p": "Meenakshi, a girl of nine, goes for a run on a hot day. Which shirt will keep her cooler?",
        "opts": [
         "a cotton shirt, because it soaks up sweat and lets it dry",
         "a plastic raincoat, because it keeps the sun off",
@@ -683,7 +683,7 @@
       },
       {
        "t": "mcq",
-       "p": "Kabir is a boy of eight. His family cooks with the kitchen window shut. What will happen?",
+       "p": "Farhan is a boy of eight. His family cooks with the kitchen window shut. What will happen?",
        "opts": [
         "Smoke and steam stay in the room",
         "The food cooks faster",
@@ -962,7 +962,7 @@
     "a pencil"
    ],
    "steps": [
-    "Write one thing on each slip: air, drinking water, roti or rice, a TV, a shirt, a sweater in winter, a roof, a bicycle, chocolate, a bath, a mobile phone, a blanket, a fan, a toy, fruit.",
+    "Write one thing on each slip: air, drinking water, rice or idli, a TV, a shirt, a sweater in winter, a roof, a bicycle, chocolate, a bath, a mobile phone, a blanket, a fan, a toy, fruit.",
     "Make two places on the floor: 'Need' and 'Want'.",
     "Your child reads each slip, puts it in a place and says why.",
     "Put any slip you argue about in the middle. Talk about when it might be a need, and when a want.",
@@ -1243,7 +1243,7 @@
   "title": "The Shawl Has No Fire",
   "text": [
    "My name is Dolma. I am nine, and I live with my family on the Changthang, a high, cold plain in Ladakh. We are Changpa. We move with our goats, sheep and yaks from one grassland to the next. In winter we live in a rebo, a tent woven from yak hair. It is black, and it smells of smoke and animals, and on windy nights it shakes and creaks all around us.",
-   "Up here, the air is thin. When a visitor came from Delhi last summer, he had to sit down after walking up a small slope. \"There's no air here,\" he gasped. There is air. There is just less of it in every breath. My little brother laughed at him, and Ama told him off, and then she gave the man butter tea and let him rest in our tent.",
+   "Up here, the air is thin. When a visitor came from Chennai last summer, he had to sit down after walking up a small slope. \"There's no air here,\" he gasped. There is air. There is just less of it in every breath. My little brother laughed at him, and Ama told him off, and then she gave the man butter tea and let him rest in our tent.",
    "This story happened at the end of winter, when the nights are still far below freezing. That evening the wind was blowing snow sideways. Our goats were crowded together in their stone pen beside the tent. I was nearly asleep when I heard Karmo, our oldest goat, crying in a strange high voice.",
    "Ama took the lamp and went out, and I followed her in my robe. Karmo had given birth, too early, in the snow. The kid lay on the ground in a small, wet heap. Its eyes were shut. When I touched it, it felt as cold as a stone in the stream.",
    "\"Is it dead?\" I asked.",

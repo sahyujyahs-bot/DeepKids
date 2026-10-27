@@ -93,7 +93,7 @@
      "kind": "warmup",
      "title": "Remember Class 1",
      "mins": 5,
-     "do": "Ask: 'Which foods do you eat every day, and which are treats?' Then ask: 'What is the best drink when you are thirsty?' Good answers: 'Rice, roti, dal, fruit every day. Sweets and chips are treats. Water is the best drink.' Say: 'This week we find out what is inside food, and what your body does with it.'"
+     "do": "Ask: 'Which foods do you eat every day, and which are treats?' Then ask: 'What is the best drink when you are thirsty?' Good answers: 'Rice, idli, dal, fruit every day. Sweets and chips are treats. Water is the best drink.' Say: 'This week we find out what is inside food, and what your body does with it.'"
     },
     {
      "kind": "read",
@@ -150,7 +150,7 @@
      "title": "The starch test",
      "mins": 15,
      "ref": "e1",
-     "do": "Do Experiment e1. Your child guesses first, for each food, and says why. A grown-up puts the iodine drops. Ask: 'Which foods turned blue-black?' Good answer: 'Potato, rice, roti and besan. Paneer, sugar and salt stayed brown.' Say: 'Iodine turns blue-black when it touches starch.'"
+     "do": "Do Experiment e1. Your child guesses first, for each food, and says why. A grown-up puts the iodine drops. Ask: 'Which foods turned blue-black?' Good answer: 'Potato, rice, idli and besan. Paneer, sugar and salt stayed brown.' Say: 'Iodine turns blue-black when it touches starch.'"
     },
     {
      "kind": "talk",
@@ -187,7 +187,7 @@
      "kind": "warmup",
      "title": "Blue-black",
      "mins": 3,
-     "do": "Ask: 'Which foods turned blue-black yesterday, and what does that tell us?' Good answer: 'Rice, roti and potato. They have starch.' Ask: 'Did paneer have starch?' (No. Paneer comes from milk, and animals don't store starch.)"
+     "do": "Ask: 'Which foods turned blue-black yesterday, and what does that tell us?' Good answer: 'Rice, idli and potato. They have starch.' Ask: 'Did paneer have starch?' (No. Paneer comes from milk, and animals don't store starch.)"
     },
     {
      "kind": "exp",
@@ -213,7 +213,7 @@
      "kind": "talk",
      "title": "Fibre and your gut microbes",
      "mins": 7,
-     "do": "Show the skin of a whole moong or an apple. Say: 'This is fibre. Your body cannot break it down. It keeps food moving through your gut. Trillions of tiny living things called microbes live in your gut. They do break fibre down, and they live on it.' Ask: 'Which foods have fibre?' Good answers: 'Vegetables, fruit, whole dal, atta roti, millets.' Ask: 'Do meat, milk and eggs have fibre?' (No. Fibre comes from plant foods.)"
+     "do": "Show the skin of a whole moong or an apple. Say: 'This is fibre. Your body cannot break it down. It keeps food moving through your gut. Trillions of tiny living things called microbes live in your gut. They do break fibre down, and they live on it.' Ask: 'Which foods have fibre?' Good answers: 'Vegetables, fruit, whole dal, atta roti, ragi and other millets.' Ask: 'Do meat, milk and eggs have fibre?' (No. Fibre comes from plant foods.)"
     },
     {
      "kind": "review",
@@ -237,7 +237,7 @@
      "kind": "warmup",
      "title": "Go, grow, glow moves",
      "mins": 3,
-     "do": "Say a food. Your child runs on the spot for an energy food (go), stretches up tall for a body-building food (grow), or makes a shield with both arms for a protective food (glow). Try rice, dal, guava, roti, egg, palak, banana, paneer, carrot. Some foods can be two moves: peanuts are go and grow."
+     "do": "Say a food. Your child runs on the spot for an energy food (go), stretches up tall for a body-building food (grow), or makes a shield with both arms for a protective food (glow). Try rice, dal, guava, dosa, egg, palak, banana, curd, carrot. Some foods can be two moves: peanuts are go and grow."
     },
     {
      "kind": "talk",
@@ -431,7 +431,7 @@
      "title": "Thali Rummy",
      "mins": 15,
      "ref": "g1",
-     "do": "Play Thali Rummy (game g1). Play one practice round with open cards first. Each time someone calls 'Thali!', they must say what each card gives the body. Ask: 'Which cards were most useful?' Good answer: 'Cards like dal or poha with peanuts, which do more than one job.'"
+     "do": "Play Thali Rummy (game g1). Play one practice round with open cards first. Each time someone calls 'Thali!', they must say what each card gives the body. Ask: 'Which cards were most useful?' Good answer: 'Cards like sambar or upma with peanuts, which do more than one job.'"
     },
     {
      "kind": "ws",
@@ -550,7 +550,7 @@
       },
       {
        "t": "mcq",
-       "p": "Meera, a girl in Class 3, eats rice, dal and bhindi sabzi for lunch. Which kind of food is the dal?",
+       "p": "Meenakshi, a girl in Class 3, eats rice, dal and bhindi sabzi for lunch. Which kind of food is the dal?",
        "opts": [
         "an energy food",
         "a body-building food",
@@ -634,14 +634,14 @@
        "p": "Which plate is closest to a balanced plate?",
        "opts": [
         "three rotis and potato curry",
-        "rice, dal, cabbage sabzi, cucumber and curd",
-        "two bowls of kheer"
+        "rice, sambar, cabbage thoran, cucumber and curd",
+        "two bowls of payasam"
        ],
        "a": 1
       },
       {
        "t": "mcq",
-       "p": "Asha, a girl in Class 3, has a drink with 24 grams of sugar. One level teaspoon of sugar is about 4 grams. How many teaspoons of sugar are in her drink?",
+       "p": "Lakshmi, a girl in Class 3, has a drink with 24 grams of sugar. One level teaspoon of sugar is about 4 grams. How many teaspoons of sugar are in her drink?",
        "opts": [
         "4",
         "6",
@@ -739,7 +739,7 @@
       },
       {
        "t": "write",
-       "p": "Zoya, a girl in Class 3, says, 'Jalebi is a bad food.' Do you agree? Use what you learned about a balanced diet.",
+       "p": "Ayesha, a girl in Class 3, says, 'Jalebi is a bad food.' Do you agree? Use what you learned about a balanced diet.",
        "lines": 3
       }
      ]
@@ -802,7 +802,7 @@
      [
       {
        "t": "mcq",
-       "p": "Rohan, a boy in Class 3, has a 300 millilitre bottle of soft drink. The label says 'Total sugars 10 g per 100 ml'. How much sugar is in the whole bottle?",
+       "p": "Karthik, a boy in Class 3, has a 300 millilitre bottle of soft drink. The label says 'Total sugars 10 g per 100 ml'. How much sugar is in the whole bottle?",
        "opts": [
         "10 grams",
         "30 grams",
@@ -872,7 +872,7 @@
     "povidone-iodine antiseptic liquid, the brown liquid sold at any chemist",
     "a small cup, a spoon and a toothpick or dropper",
     "a steel plate",
-    "small pieces of: raw potato, cooked rice, roti, cucumber, paneer or boiled egg white, and a pinch each of sugar, salt and besan or atta"
+    "small pieces of: raw potato, cooked rice, idli, cucumber, paneer or boiled egg white, and a pinch each of sugar, salt and besan or atta"
    ],
    "steps": [
     "Lay the food pieces in a row on the plate, a little apart.",
@@ -884,7 +884,7 @@
     "Throw away the tested food."
    ],
    "predict": "Ask your child to guess first: 'Which of these foods have starch? Will paneer or egg have any? Why do you think so?'",
-   "observe": "Potato, rice, roti and besan or atta turn blue-black within seconds. Cucumber shows little or none. Paneer, egg white, sugar and salt stay brown. If shop paneer turns blue-black, starch may have been added when it was made. That is a real finding, not a mistake.",
+   "observe": "Potato, rice, idli and besan or atta turn blue-black within seconds. Cucumber shows little or none. Paneer, egg white, sugar and salt stay brown. If shop paneer turns blue-black, starch may have been added when it was made. That is a real finding, not a mistake.",
    "why": "Iodine turns blue-black when it touches starch. Plants make sugar in their leaves and store it as starch in seeds, roots and underground stems. A rice grain or a wheat grain is a seed, and its starch feeds the baby plant until it has leaves. A potato is an underground stem that stores starch for the next plant. Animals do not store starch, so paneer and egg have none. Sugar comes from a plant but is not starch. Salt never came from a living thing.",
    "safety": "A grown-up handles the iodine. Never eat or drink it. Throw away all tested food. Iodine stains cloth, so cover the table with newspaper.",
    "time": "15 min"
@@ -955,7 +955,7 @@
    "steps": [
     "Your child tells you everything they ate and drank yesterday, from waking up to bedtime. Write one food on each line. Include snacks and drinks.",
     "Put a coloured dot next to each food. Yellow for energy foods (go) like rice, roti and potato. Red for body-building foods (grow) like dal, milk and eggs. Green for vegetables and fruit (glow). Blue for water and drinks.",
-    "Some foods get two dots. Milk is red and blue. Poha with peanuts and peas is yellow, red and green.",
+    "Some foods get two dots. Milk is red and blue. Upma with peanuts and peas is yellow, red and green.",
     "Count the dots of each colour. Your child says one thing they notice and one thing they wonder."
    ],
    "outcome": "A list of yesterday's food with coloured dots, and one 'I notice' and one 'I wonder' sentence. This is noticing, never marking."
@@ -1108,8 +1108,8 @@
     "back": "GO. Starch for energy."
    },
    {
-    "front": "Roti",
-    "back": "GO. Starch for energy, and some fibre."
+    "front": "Dosa",
+    "back": "GO. Starch for energy, and some protein from the urad dal."
    },
    {
     "front": "Ragi mudde",
@@ -1124,7 +1124,7 @@
     "back": "GO or GLOW. Energy, and vitamins."
    },
    {
-    "front": "Poha with peanuts",
+    "front": "Upma with peanuts",
     "back": "GO or GROW. Energy, and protein from the peanuts."
    },
    {
@@ -1132,7 +1132,7 @@
     "back": "GROW. Protein, and iron."
    },
    {
-    "front": "Rajma",
+    "front": "Chana sundal",
     "back": "GROW. Protein and fibre."
    },
    {
@@ -1176,8 +1176,8 @@
     "back": "GLOW. Vitamin C."
    },
    {
-    "front": "Bhindi sabzi",
-    "back": "GLOW. Vitamins and fibre."
+    "front": "Avial",
+    "back": "GLOW. Vitamins and fibre from many vegetables."
    },
    {
     "front": "Cucumber",
@@ -1227,7 +1227,7 @@
   },
   {
    "q": "Some foods are good and some foods are bad. Is that how scientists see it?",
-   "hint": "Nutrition scientists look at the whole diet over days and weeks. A laddoo at Diwali does no harm in a balanced diet. A diet of only palak would make you ill, even though palak is a fine food. Ask: what would be a better word than 'bad' for jalebi?"
+   "hint": "Nutrition scientists look at the whole diet over days and weeks. A bowl of payasam at Onam does no harm in a balanced diet. A diet of only palak would make you ill, even though palak is a fine food. Ask: what would be a better word than 'bad' for jalebi?"
   }
  ],
  "perspectives": [
@@ -1385,7 +1385,7 @@
   },
   {
    "q": "How did we test foods for starch, and what did we find?",
-   "a": "We put a drop of iodine on each food. Rice, roti and potato turned blue-black, so they have starch. Paneer, sugar and salt stayed brown."
+   "a": "We put a drop of iodine on each food. Rice, idli and potato turned blue-black, so they have starch. Paneer, sugar and salt stayed brown."
   },
   {
    "q": "Why does a peanut have so much fat?",

@@ -66,7 +66,7 @@ A tadpole lives in water and breathes with gills, like a fish. As it grows into 
 
 Your body is like a little stove. It burns food, slowly and without flames, and that makes heat. Birds and mammals do this all the time. So they stay warm on a cold night, and can move fast even on a winter morning. Scientists call them endotherms, which means 'heat from inside'. Most fish, amphibians and reptiles make only a little heat. Their bodies warm up and cool down with the world around them. Scientists call them ectotherms, which means 'heat from outside'. A lizard is slow on a cold morning. It lies in the sun to warm up first. Then it can run and hunt.
 - e.g. You stay near 37 °C on a cold night and on a hot day.
-- e.g. A sparrow keeps its body at about 40 °C, even on a frosty Delhi morning.
+- e.g. A sparrow keeps its body at about 40 °C, even on a frosty morning in Ooty.
 - e.g. A garden lizard basks on a wall in the morning sun, then runs fast once it is warm.
 - e.g. A frog in a cold pond moves slowly, because its body is as cold as the water.
 ### Why 'cold-blooded' is a misleading word · *defined*
@@ -126,7 +126,7 @@ In birds and mammals, a baby is a boy or a girl from the very start. But in many
 
 Everything is made of atoms, far too tiny to see. When something is warm, its atoms jiggle faster. A lizard on a sunny wall is warmed directly. Sunlight makes the atoms in its skin jiggle. A bird or a mammal is warmed another way. It eats food. Inside its cells, tiny parts called mitochondria break the food down slowly, and some of the energy comes out as heat. But that food's energy came from plants. And plants caught it from sunlight. So the lizard takes its warmth from the sun quickly, and the sparrow takes it slowly, through food. The sunlight left the sun about eight minutes before it reached the Earth.
 - e.g. A lizard on a wall is warmed by sunlight that left the sun about eight minutes earlier.
-- e.g. Your breakfast roti came from wheat, which grew using sunlight.
+- e.g. Your breakfast idli came from rice, which grew using sunlight.
 - e.g. Newborn babies have a special 'brown fat' that makes extra heat to keep them warm.
 ### When did animals first make their own heat? · *debated*
 Scientists agree that birds and mammals both make their own heat. Most think the two groups began to make their own heat separately, long ago. But nobody is sure exactly when, or why, it started. And they argue about dinosaurs. Birds came from dinosaurs, so maybe some dinosaurs were warm too. The main ideas are below.

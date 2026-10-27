@@ -24,7 +24,7 @@
 - **Non-magnetic**: A material that a magnet does not attract, or attracts so weakly that we cannot notice it. *e.g.* A wooden spoon, a glass bangle and aluminium foil are all non-magnetic.
 - **Material**: What a thing is made of. *e.g.* A spoon can be made of steel, wood or plastic. Steel, wood and plastic are materials.
 - **Metal**: A material that is usually shiny, feels cold, and rings when you tap it. Heat and electricity pass easily through metals. *e.g.* Iron, copper, aluminium, gold and silver are metals.
-- **Iron**: A grey metal that a magnet attracts strongly. When it stays wet, it rusts and turns brown and flaky. *e.g.* An old gate and a tawa may be made of iron. A nail is made of steel, which is mostly iron.
+- **Iron**: A grey metal that a magnet attracts strongly. When it stays wet, it rusts and turns brown and flaky. *e.g.* An old gate and a dosa tawa may be made of iron. A nail is made of steel, which is mostly iron.
 - **Steel**: Iron with a little carbon mixed in, which makes it much stronger. A magnet attracts most kinds of steel, but not all. *e.g.* Train tracks, a bridge, a spoon and an almirah are made of steel.
 - **Alloy**: A mixture of a metal with other metals or other substances, made to suit a job better, for example to be harder or to rust less. Steel, brass and bronze are alloys. *e.g.* Brass is copper mixed with zinc. A magnet does not attract brass.
 - **Stainless steel**: Steel with a metal called chromium mixed in, so that it hardly rusts. Many kinds also have nickel in them. *e.g.* Your steel tumbler is probably stainless steel. A magnet attracts some stainless steels and not others.
@@ -62,14 +62,14 @@ Test enough things and you find a pattern. Everything a magnet attracts contains
 
 Many people think a magnet attracts every metal. It does not. Try an aluminium foil ball, a copper wire, a brass key and a gold ring. They are all shiny metals, and a magnet attracts none of them. An element is a pure substance made of only one kind of atom. About ninety elements are found in nature. At room temperature, only three of them are magnetic: iron, nickel and cobalt. A fourth, gadolinium, is magnetic only when it is colder than about 20 degrees Celsius. So being a metal does not make a thing magnetic. Something inside iron, nickel and cobalt is different. A later card explains what it is.
 - e.g. A magnet does not attract aluminium foil or an aluminium pressure cooker.
-- e.g. A magnet does not attract a brass diya or a copper lota.
+- e.g. A magnet does not attract a brass diya or a copper water pot.
 - e.g. A magnet does not attract a gold ring or a silver anklet.
 ### Steel is a mixture, so one steel can differ from another · *defined*
 **Definition:** Steel is an alloy, a mixture. It is mostly iron with a little carbon. Stainless steel also has chromium, and often nickel. The exact mixture decides whether a magnet attracts it.
 
-This explains the spoon and the tumbler. Most steel is mostly iron, so a magnet attracts it. But many Indian tumblers, katoris and thalis are made of a stainless steel with nickel in it. In every 100 parts, about 18 are chromium and 8 are nickel. The nickel changes how the iron atoms are packed together. Packed this way, the tiny magnets of the iron atoms do not line up. So a magnet attracts this steel very weakly, or not at all. Other stainless steels have chromium but little nickel, and a magnet attracts them well. Pans for induction stoves are made of that kind, because an induction stove works well only with a pan that a magnet attracts. Bending can also change how the atoms are packed. So a bent rim of a tumbler may be attracted a little.
+This explains the spoon and the tumbler. Most steel is mostly iron, so a magnet attracts it. But many Indian tumblers, bowls and plates are made of a stainless steel with nickel in it. In every 100 parts, about 18 are chromium and 8 are nickel. The nickel changes how the iron atoms are packed together. Packed this way, the tiny magnets of the iron atoms do not line up. So a magnet attracts this steel very weakly, or not at all. Other stainless steels have chromium but little nickel, and a magnet attracts them well. Pans for induction stoves are made of that kind, because an induction stove works well only with a pan that a magnet attracts. Bending can also change how the atoms are packed. So a bent rim of a tumbler may be attracted a little.
 - e.g. A magnet attracts a steel almirah, a tawa and many spoons.
-- e.g. A magnet does not attract many tumblers and katoris, or attracts them only weakly.
+- e.g. A magnet does not attract many tumblers and bowls, or attracts them only weakly.
 - e.g. A magnet always attracts the bottom of a pan that works on an induction stove.
 ### Mixing metals can make a material magnetic, or stop it being magnetic · *defined*
 **Definition:** A mixture of metals can behave quite unlike the metals in it. Some mixtures that contain iron are not magnetic. Some mixtures of non-magnetic metals are magnetic.
@@ -170,7 +170,7 @@ In 1982, two scientists, working separately, found a new kind of magnet. Masato 
   For: Magnets and metals seem to go together. Fridge magnets stick to metal fridge doors and to metal nails.  
   Against: A fridge magnet does not attract aluminium foil, copper wire, brass diyas, gold or silver. Of about ninety elements found in nature, only iron, nickel and cobalt are magnetic at room temperature.
 - **Stainless steel is never magnetic.** (Many shopkeepers and some websites; *rejected*)  
-  For: Many steel tumblers, katoris and thalis really do not stick to a magnet.  
+  For: Many steel tumblers, bowls and plates really do not stick to a magnet.  
   Against: Only some stainless steels are non-magnetic: the kinds with plenty of nickel. Others have chromium but little nickel, and a magnet attracts them well. Pans for induction stoves are made from those. Even the non-magnetic kind can become a little magnetic where it has been bent.
 - **A magnet can tell you whether a coin or a ring is real gold or silver.** (A common belief about jewellery; *debated*)  
   For: Gold and silver are not magnetic. If something sticks, it contains iron or a similar metal, so it is not pure gold.  
@@ -239,7 +239,7 @@ Every morning, in the workshop in Moradabad, the city of brass, he held up a new
 
 Zainab was ten, and she swept the floor. It was a big floor, covered in filings and sawdust and tiny bits of wire, and the worst part was the pins. The workers used pins and tacks and little nails to hold their patterns, and the pins fell everywhere. So Zainab had tied a small flat magnet to a string at her waist. She dragged it across the floor like a fishing line, and the pins leapt up and clung to it. At the end of each day she wiped them off into a tin. She called the magnet Chhoti Machhli, the little fish.
 
-That week the workshop had a huge order. A shop in Delhi wanted two hundred brass lamp stands for Diwali. The sheets of brass would come on a truck on Monday morning. Her grandfather had been waiting for the order for three months, because money was short.
+That week the workshop had a huge order. A shop in Chennai wanted two hundred brass lamp stands for Karthigai Deepam. The sheets of brass would come on a truck on Monday morning. Her grandfather had been waiting for the order for three months, because money was short.
 
 The truck came. The trader was a man in a clean white kurta with a gold ring on every other finger. His workers carried in the sheets, and they were beautiful. They were the colour of a ripe mango. Her grandfather held out his hand, and the trader put a sheet in it.
 
@@ -257,7 +257,7 @@ Her grandfather had gone very still. 'Zainab,' he said, 'go to the shelf. Bring 
 
 It swung once, and it did not jump. It did not even twitch. It hung from its string, over the old lamp, and just turned slowly.
 
-'Brass is copper and zinc,' her grandfather said, to nobody in particular. 'A magnet does not attract either of them. But it attracts iron, and steel is mostly iron.' He turned his clouded eyes towards the trader. 'Underneath your lovely mango colour, there is steel, isn't there? A thin coat of brass on top, like a coat of butter on a roti.'
+'Brass is copper and zinc,' her grandfather said, to nobody in particular. 'A magnet does not attract either of them. But it attracts iron, and steel is mostly iron.' He turned his clouded eyes towards the trader. 'Underneath your lovely mango colour, there is steel, isn't there? A thin coat of brass on top, like a coat of ghee on a dosa.'
 
 The trader said many things, some loud and some soft. But in the end he picked up his sheets and went back to his truck, because it is hard to argue with something that clicks.
 
@@ -280,7 +280,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 ## Games
 ### g1 · Stick or Skip? (20 min)
 - **rules:** Cut out the 32 cards. Shuffle them and put them in a pile, face down. Put the two mats on the table.; On your turn, take the top card and read it out loud.; Decide: will a magnet stick to it or skip it? Put the card on the STICK mat or the SKIP mat, and say one reason. A good reason wins one star.; If you have a magnet, test it. A correct guess wins one more star.; STAR cards show things that may or may not stick, depending on exactly what they are made of. If you draw one, you may say 'test it' instead of guessing, and win two stars. If you guess on a STAR card and are wrong, you lose one star.; When the cards run out, the player with the most stars wins.
-- **Printable cards: 32 object cards to cut out (the star cards are the tricky ones):** Steel nail; Steel paper clip; Aluminium foil ball; Copper wire; Brass diya; Gold ring; Silver anklet; Wooden pencil; Plastic comb; Glass marble; Cotton hanky; Stone; Rubber band; Steel safety pin; Iron tawa; Aluminium pressure cooker; Wooden spoon; Scissors blade; Bicycle chain; Tin can from the kitchen; Rusty nail; Steel almirah; Iron gate; Pencil lead (graphite); STAR: Steel tumbler; STAR: Steel katori; STAR: A one-rupee coin; STAR: A ten-rupee coin; STAR: A house key; STAR: A pan for an induction stove; STAR: The bottom of a steel pressure cooker; STAR: A bent steel spoon
+- **Printable cards: 32 object cards to cut out (the star cards are the tricky ones):** Steel nail; Steel paper clip; Aluminium foil ball; Copper wire; Brass diya; Gold ring; Silver anklet; Wooden pencil; Plastic comb; Glass marble; Cotton hanky; Stone; Rubber band; Steel safety pin; Iron dosa tawa; Aluminium pressure cooker; Wooden spoon; Scissors blade; Bicycle chain; Tin can from the kitchen; Rusty nail; Steel almirah; Iron gate; Pencil lead (graphite); STAR: Steel tumbler; STAR: Steel bowl; STAR: A one-rupee coin; STAR: A ten-rupee coin; STAR: A house key; STAR: A pan for an induction stove; STAR: The bottom of a steel pressure cooker; STAR: A bent steel spoon
 - **Printable board: Two playing mats:** STICK: the magnet attracts it; SKIP: the magnet does not attract it
 - **Printable tokens: 30 star tokens (small paper stars):** ⭐
 - **s1 (3 min)**  
@@ -312,7 +312,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   - Think: Why do you think the things on the SKIP pile are so different from each other?
 ### g2 · The Magnet Court (20 min)
 - **rules:** Shuffle the 13 case cards and put them face down.; One player is the judge. The judge reads a case out loud.; Everyone else raises a verdict paddle: PROVED, NOT PROVED or WRONG. They say why in one sentence.; The judge says what they think, and talks it over with the lawyers. A correct verdict with a good reason wins two points. A correct verdict alone wins one.; Swap the judge after each case. After six cases, the player with the most points wins.
-- **Printable cards: 13 case cards to cut out:** Rani says: The spoon stuck to the magnet. So the spoon has iron in it.; Imran says: The key did not stick. So it is made of brass.; Asha says: The tumbler did not stick. So it is not made of steel.; Dev says: The coin did not stick. So it is real silver.; Meena says: The foil ball did not stick. So my magnet must be broken.; Zoya says: The nail stuck. So all metals stick.; Kabir says: The pin stuck. So the pin is not made of gold.; Lata says: The magnet stuck to my tin can. So the can is made of tin.; Ravi says: The toy car stuck to the magnet. So the whole car is made of iron.; Sana says: The bottom of my steel pot stuck. So the bottom has a magnetic metal in it.; Joseph says: The magnet moved a clip through a plate. So the plate is magnetic.; Nisha says: My ring did not stick. So it is pure gold.; Tara says: A frog floated in a very strong magnet. So a frog is magnetic like iron.
+- **Printable cards: 13 case cards to cut out:** Meenakshi says: The spoon stuck to the magnet. So the spoon has iron in it.; Imran says: The key did not stick. So it is made of brass.; Kavya says: The tumbler did not stick. So it is not made of steel.; Karthik says: The coin did not stick. So it is real silver.; Lakshmi says: The foil ball did not stick. So my magnet must be broken.; Ayesha says: The nail stuck. So all metals stick.; Kabir says: The pin stuck. So the pin is not made of gold.; Revathi says: The magnet stuck to my tin can. So the can is made of tin.; Ravi says: The toy car stuck to the magnet. So the whole car is made of iron.; Sana says: The bottom of my steel pot stuck. So the bottom has a magnetic metal in it.; Joseph says: The magnet moved a clip through a plate. So the plate is magnetic.; Divya says: My ring did not stick. So it is pure gold.; Nila says: A frog floated in a very strong magnet. So a frog is magnetic like iron.
 - **Printable board: Three verdict paddles:** PROVED: the evidence shows it; NOT PROVED: it might be true, but the evidence does not show it; WRONG: the evidence shows it is false, or the reasoning is faulty
 - **Printable score sheet: Court record:** Case; My verdict; The judge's verdict; Why
 - **s1 (3 min)**  
@@ -320,17 +320,17 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   *Parent says:* A magnet test gives us evidence. But does the evidence prove what people say it proves? Today we are a court. We decide each case.  
   *Child mode:* Make three paddles: PROVED, NOT PROVED, WRONG. Pick a judge. Mix the cases. We will test what people claim.
 - **s2 (4 min)**  
-  *Parent does:* Read the practice case: 'Rani says: the spoon stuck to the magnet. So the spoon has iron in it.' Let everyone raise a paddle.  
-  *Parent says:* Practice case. Rani says the spoon stuck, so it has iron in it. What is your verdict?  
-  *Child mode:* Practice case. Rani says the spoon stuck, so it has iron in it. Proved, not proved, or wrong?
+  *Parent does:* Read the practice case: 'Meenakshi says: the spoon stuck to the magnet. So the spoon has iron in it.' Let everyone raise a paddle.  
+  *Parent says:* Practice case. Meenakshi says the spoon stuck, so it has iron in it. What is your verdict?  
+  *Child mode:* Practice case. Meenakshi says the spoon stuck, so it has iron in it. Proved, not proved, or wrong?
   - Ask: Why is it proved? (good: Only things with iron, nickel or cobalt in them can stick.; A thing that sticks must have a magnetic material in it.)
-  - Check: The spoon stuck to the magnet. Rani says the spoon has iron in it. Is that proved, not proved, or wrong? → **Proved**
+  - Check: The spoon stuck to the magnet. Meenakshi says the spoon has iron in it. Is that proved, not proved, or wrong? → **Proved**
 - **s3 (10 min)**  
   *Parent does:* Play the cases one by one. Let each lawyer give a reason before the judge decides. Write each verdict on the court record.  
   *Parent says:* Take a case. Read it. Raise your paddle. Say why in one sentence. Then the judge decides.  
   *Child mode:* Take turns as judge. Read a case. Everyone raises a paddle and says why. The judge decides.
   - Ask: Why is Imran's case not proved? (good: Brass does not stick, but aluminium and copper do not stick either.; A no from a magnet cannot tell us what a thing is.)
-  - Note: Verdicts: Rani PROVED. Imran NOT PROVED, because aluminium and copper do not stick either. Asha WRONG, because some steels do not stick. Dev NOT PROVED, because brass and aluminium do not stick either. Meena WRONG, because foil is not magnetic, so it never sticks. Test the magnet on a nail to check it. Zoya WRONG, because one nail does not tell us about other metals. Kabir PROVED. Lata WRONG, because tin is not magnetic. The can is steel with a thin coat of tin. Ravi NOT PROVED, because the car may be plastic with a steel axle. Sana PROVED for the bottom. Joseph WRONG, because a magnet's force acts through non-magnetic plates. Nisha NOT PROVED, because silver, brass and aluminium do not stick either. Tara WRONG, because a magnet repels a frog very weakly. It does not attract it like iron.
+  - Note: Verdicts: Meenakshi PROVED. Imran NOT PROVED, because aluminium and copper do not stick either. Kavya WRONG, because some steels do not stick. Karthik NOT PROVED, because brass and aluminium do not stick either. Lakshmi WRONG, because foil is not magnetic, so it never sticks. Test the magnet on a nail to check it. Ayesha WRONG, because one nail does not tell us about other metals. Kabir PROVED. Revathi WRONG, because tin is not magnetic. The can is steel with a thin coat of tin. Ravi NOT PROVED, because the car may be plastic with a steel axle. Sana PROVED for the bottom. Joseph WRONG, because a magnet's force acts through non-magnetic plates. Divya NOT PROVED, because silver, brass and aluminium do not stick either. Nila WRONG, because a magnet repels a frog very weakly. It does not attract it like iron.
 - **s4 (3 min)**  
   *Parent does:* Look at the court record. Count which verdict came up most often. Ask which case was hardest.  
   *Parent says:* Which verdict came up most often? Which case was hardest? What does that tell us about magnet tests?  
@@ -363,7 +363,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   *Parent says:* Test them one by one. Say what happens each time. Then we'll write it in the table.  
   *Child mode:* Test each object, twice. Say what happens out loud. Write it in your table.
   - Ask: Which result surprised you most? (good: The brass key did not stick.; The foil did not stick.; The steel tumbler did not stick.; The spoon stuck, but the tumbler did not.)
-  - Note: Expect: the nail, pin and paper clip stick. The aluminium foil, copper, brass key, plastic, wood, glass, cloth and stone do not. The steel spoon and katori can vary. Many tumblers do not stick, and that is a real result, not a mistake. Coins vary too, so write down what you find.
+  - Note: Expect: the nail, pin and paper clip stick. The aluminium foil, copper, brass key, plastic, wood, glass, cloth and stone do not. The steel spoon and bowl can vary. Many tumblers do not stick, and that is a real result, not a mistake. Coins vary too, so write down what you find.
 - **s4 (5 min)**  
   *Parent does:* Look at the two piles. Compare them with your guesses at the start. Count how many guesses were right.  
   *Parent says:* Look at your guesses. How many were right? Which ones were wrong, and what do you think now?  
@@ -408,10 +408,10 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   *Parent says:* If you have two magnets, test both. Which one reached through more sheets? That is the stronger magnet.  
   *Child mode:* Test a second magnet. Which one reached through more sheets? That one is stronger.
 - **s5 (5 min)**  
-  *Parent does:* Test the steel thali. 1. Check whether a magnet sticks to the thali. 2. Put the clip on one side of the thali and the magnet on the other side. See if the clip moves. Then say or write what you think, what you saw and why.  
-  *Parent says:* Does the magnet attract the clip through the thali? What do you think, what did you see, and why?  
-  *Child mode:* Try the steel thali. Put the clip on the far side. Does it move? Say what you think, what you saw, and why.
-  - Note: This depends on the steel. If a magnet sticks to your thali, the thali carries the magnetic field inside itself, and the clip on the far side hardly moves. If a magnet does not stick to your thali, the force passes through, as with paper. Both results are correct. They show again that the exact steel matters.
+  *Parent does:* Test the steel plate. 1. Check whether a magnet sticks to the plate. 2. Put the clip on one side of the plate and the magnet on the other side. See if the clip moves. Then say or write what you think, what you saw and why.  
+  *Parent says:* Does the magnet attract the clip through the plate? What do you think, what did you see, and why?  
+  *Child mode:* Try the steel plate. Put the clip on the far side. Does it move? Say what you think, what you saw, and why.
+  - Note: This depends on the steel. If a magnet sticks to your plate, the plate carries the magnetic field inside itself, and the clip on the far side hardly moves. If a magnet does not stick to your plate, the force passes through, as with paper. Both results are correct. They show again that the exact steel matters.
   - Check: Why does the clip stop jumping when the stack gets too thick? → **The magnet is now too far away to attract the clip**
 ### e3 · Make a Nail a Magnet: which materials can become magnets? (30 min)
 - **question:** Can a magnet turn a steel nail into a magnet, and does it work for other materials?
@@ -585,7 +585,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   *Parent does:* Talk about the game. Ask which card was safest, and which was the most risky.  
   *Parent says:* Which card was the safest to hold? Which was the riskiest? Why?  
   *Child mode:* Which card was safest? Which was most risky? Why?
-  - Think: What if the steel katori card were in the game? Would it be safe or risky?
+  - Think: What if the steel bowl card were in the game? Would it be safe or risky?
 ### a8 · Magnet Painting (20 min)
 - **safety:** Wash hands after painting. Keep paint away from clothes. Do not put paperclips in your mouth.
 - **record:** Keep the painting. Write what colours you used, and what pattern the clip made.
@@ -711,7 +711,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
    **Answer:** order shown. *Why:* We guess first, so that we notice when we are surprised. Then we test every object the same way, write down the results, and look for a pattern.
 12. (fill) Brass is copper mixed with ____.  
    **Answer:** ['zinc']. *Why:* Brass is made of copper and zinc. Neither is magnetic, and brass is not magnetic either.
-13. (write) Rohan says: 'The key is shiny, so the magnet will stick to it.' Is he right? Explain.  
+13. (write) Arjun says: 'The key is shiny, so the magnet will stick to it.' Is he right? Explain.  
    **Answer:** No. Shiny things are not always magnetic. A brass key is shiny, but a magnet does not stick to brass. A magnet sticks to iron and steel, whether they are shiny or not.. *Why:* Shine tells us how light bounces off a surface. It does not tell us whether a magnet will attract it.
 14. (mcq) A magnet did not stick to a ring. What can we be sure of?  
    Options: The ring is gold / The ring has no magnetic material that this magnet can notice / The ring is plastic / The magnet is broken  
@@ -745,7 +745,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 9. (write) A trader gives you a gold-coloured sheet. The magnet sticks to it. What can you say about it? What can you not say?  
    **Answer:** I can say it has iron, nickel or cobalt inside, so it is not pure brass. I cannot say exactly what it is made of. It might be steel with a thin gold-coloured coat.. *Why:* A magnet sticking is a strong clue about what is inside. It does not name the whole material.
 10. (sort) Will a magnet stick? Sort these.  
-   **Answer:** a steel nail → Sticks; aluminium foil → Does not stick; a steel tumbler → Depends on the kind; a one-rupee coin → Depends on the kind; a wooden spoon → Does not stick; a steel katori → Depends on the kind. *Why:* A magnet always attracts iron, and never attracts aluminium or wood. Steel tumblers, katoris and coins depend on exactly which mixture they are made of, so we test them.
+   **Answer:** a steel nail → Sticks; aluminium foil → Does not stick; a steel tumbler → Depends on the kind; a one-rupee coin → Depends on the kind; a wooden spoon → Does not stick; a steel bowl → Depends on the kind. *Why:* A magnet always attracts iron, and never attracts aluminium or wood. Steel tumblers, bowls and coins depend on exactly which mixture they are made of, so we test them.
 11. (mcq) A clip jumps up through 1 sheet of paper, but not through 40 sheets. Why?  
    Options: The magnet is now too far away to attract the clip / Paper is magnetic / The clip is too light / Forty sheets are too cold  
    **Answer:** The magnet is now too far away to attract the clip. *Why:* A magnet's force gets weaker quickly with distance. Forty sheets keep the magnet far from the clip. Picking 'paper is magnetic' often means thinking the paper itself stops the force.
@@ -779,7 +779,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
    **Answer:** Feel how heavy each is, and look at its colour. *Why:* Brass is heavier and yellow. Aluminium is lighter and silver-grey. A bigger magnet still attracts neither of them. Heating them red-hot is dangerous and tells us little. Picking 'a bigger magnet' often means thinking a stronger test always gives a clearer answer. Here a magnet is the wrong tool.
 7. (write) Plan a fair test to find out which of two magnets is stronger. Say what you will keep the same.  
    **Answer:** I will use the same paper clip and the same kind of paper. I will count how many sheets each magnet can work through. I will try each magnet twice. I change only the magnet.. *Why:* A fair test changes just one thing and keeps everything else the same.
-8. (mcq) A ring sticks to a magnet. Tara says it cannot be pure silver. Is she right?  
+8. (mcq) A ring sticks to a magnet. Nila says it cannot be pure silver. Is she right?  
    Options: Yes, silver is not magnetic, so something else is inside / No, silver always sticks / No, we cannot tell / Yes, but only if the ring is heavy  
    **Answer:** Yes, silver is not magnetic, so something else is inside. *Why:* Silver is not magnetic. So a ring that sticks has a magnetic material in it, perhaps steel. This is the kind of thing a magnet test can prove. Picking 'no, silver always sticks' mixes silver up with iron.
 9. (mcq) In 1963 Salvatore Bellini noticed bacteria that line up in a magnetic field, but his notes were not published until much later. In 1975 Richard Blakemore described them and became well known. What does this suggest?  
@@ -811,7 +811,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 1. (mcq) What does non-magnetic mean?  
    Options: A magnet does not attract it, or attracts it too weakly to notice / It is not a metal / It is broken / It is too heavy  
    **Answer:** A magnet does not attract it, or attracts it too weakly to notice. *Why:* Non-magnetic means a magnet does not attract it. Picking 'not a metal' often means thinking all metals are magnetic. Aluminium is a metal, and it is non-magnetic.
-2. (mcq) Mira predicts that a brass diya will stick to a magnet. She tests it and it does not. What should she do?  
+2. (mcq) Malini predicts that a brass diya will stick to a magnet. She tests it and it does not. What should she do?  
    Options: Write down what happened and change her idea / Test again until it sticks / Say the magnet is broken / Hide the diya  
    **Answer:** Write down what happened and change her idea. *Why:* A surprise teaches us something. We write down what happened, and change our idea. Picking 'test again until it sticks' means wanting to be right more than wanting to learn.
 3. (mcq) Why do we test each object twice with a magnet?  
@@ -826,8 +826,8 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 6. (mcq) Look at the table. What does it show about other metals, such as aluminium, copper and brass?  
    Options: None of them stuck / All of them stuck / Half of them stuck / Only the shiny ones stuck  
    **Answer:** None of them stuck. *Why:* The table shows 0 stuck and 4 did not stick. Picking 'all of them stuck' often means believing that all metals are magnetic, before looking at the results.
-7. (mcq) A steel katori does not stick to a magnet, but a steel spoon does. What is the best explanation?  
-   Options: Steel is a mixture, and the mixtures differ / The katori is plastic / The magnet is weak / The spoon is gold  
+7. (mcq) A steel bowl does not stick to a magnet, but a steel spoon does. What is the best explanation?  
+   Options: Steel is a mixture, and the mixtures differ / The bowl is plastic / The magnet is weak / The spoon is gold  
    **Answer:** Steel is a mixture, and the mixtures differ. *Why:* Steel is an alloy. Some steels have a lot of nickel, and that mixture is not magnetic. Picking 'plastic' often means thinking a thing that does not stick cannot be metal.
 8. (mcq) What is brass made from?  
    Options: Copper and zinc / Iron and carbon / Copper and tin / Aluminium and iron  
@@ -899,7 +899,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 - Look at this spoon. Do you think a magnet will attract it? What is your reason?
 - If a magnet does not stick to something, what does that tell us? What does it not tell us?
 - Which things in our kitchen do you think are made of iron? Which are not?
-- Why do you think the handle of the kadhai is wood or plastic, and the pan is metal?
+- Why do you think the handle of the kadai is wood or plastic, and the pan is metal?
 - Look at a coin. What do you think it is made of? How could we find out?
 - If you had a very strong magnet, what would you try to pick up?
 - A magnet works through paper. What else do you think it could work through?
@@ -939,7 +939,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 - Out of 12 objects, 3 stuck to the magnet. What fraction of the objects stuck? Say it in words. **One quarter of the objects stuck.**. Share the 12 objects into 4 equal groups, and each group has 3 objects. So the 3 objects that stuck make one of the 4 equal groups. That is one quarter. You can check: 4 groups of 3 make 12. (queues `math.fractions.halves-and-quarters.L3`)
 - A sorting ramp has 4 magnets. Each magnet catches 6 clips. How many clips does the ramp catch in all? **24 clips.**. There are 4 groups of 6 clips. Add them up: 6 and 6 is 12. 12 and 6 is 18. 18 and 6 is 24. Or use the tables: 4 times 6 is 24. (queues `math.multiplication.equal-groups.L3`)
 - In the Through the Paper experiment, you measure the thickest stack of paper a magnet worked through. The ruler shows the stack. How thick is it? **3 and a half centimetres.**. The top of the stack lines up halfway between the 3 and the 4. Each small mark on the ruler is half a centimetre. So the stack is 3 centimetres and half a centimetre more. That is 3 and a half centimetres. (queues `math.measurement-basics.reading-scales.L3`)
-- A kabadiwala pays 25 rupees for each kilogram of iron scrap. This price is made up. Hira sells 4 kilograms of iron scrap that she sorted with a magnet. How many rupees does she get? **100 rupees.**. She gets 25 rupees for each of 4 kilograms. That is 4 groups of 25. 25 and 25 is 50. 50 and 25 is 75. 75 and 25 is 100. So she gets 100 rupees. (queues `math.money.money-in-life.L3`)
+- A kabadiwala pays 25 rupees for each kilogram of iron scrap. This price is made up. Hema sells 4 kilograms of iron scrap that she sorted with a magnet. How many rupees does she get? **100 rupees.**. She gets 25 rupees for each of 4 kilograms. That is 4 groups of 25. 25 and 25 is 50. 50 and 25 is 75. 75 and 25 is 100. So she gets 100 rupees. (queues `math.money.money-in-life.L3`)
 - William Gilbert wrote his book about magnets in 1600. Pierre Curie measured how heat changes magnets in 1895. How many years later was Curie's work? **295 years later.**. Take 1600 away from 1895. 1895 minus 1600 is 295. You can check: 1600 and 295 make 1895. (queues `math.addition-subtraction.written-methods.L3`)
 
 ## Song

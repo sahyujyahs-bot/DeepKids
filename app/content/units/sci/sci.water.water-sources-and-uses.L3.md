@@ -19,7 +19,7 @@
 - **Source**: The place where something comes from. A source of water is the place we get it from. *e.g.* A river, a lake, a well and a borewell are all sources of water.
 - **Rainwater**: Water that falls from clouds. It is where almost all the fresh water we use begins. *e.g.* In the monsoon, rainwater fills ponds, lakes and wells.
 - **Fresh water**: Water with very little salt in it. People, plants and most land animals need fresh water to live. *e.g.* River water, lake water and rainwater are fresh. Sea water is salty, not fresh.
-- **Surface water**: Water we can see on top of the land, in rivers, lakes, ponds and reservoirs. *e.g.* The Ganga, Dal Lake and your village pond are all surface water.
+- **Surface water**: Water we can see on top of the land, in rivers, lakes, ponds and reservoirs. *e.g.* The Kaveri, Vembanad Lake in Kerala and your village pond are all surface water.
 - **Reservoir**: A big lake made by people, usually by building a wall called a dam across a river. It stores water for a city or for farms. *e.g.* Many big cities get their water from reservoirs far away.
 - **Groundwater**: Water hidden under the ground, in the tiny gaps between grains of soil, sand and rock. It is rain that soaked in. *e.g.* The water in a well or a borewell is groundwater.
 - **Aquifer**: A layer of rock, sand or gravel under the ground that holds lots of groundwater, like a giant sponge. *e.g.* Many borewells in India are drilled down into an aquifer.
@@ -28,7 +28,7 @@
 - **Absorb (soak in)**: To take in water, the way a sponge or soil does. *e.g.* Rain soaks into a field, but not into a cement road.
 - **Run-off**: Rainwater that flows away over the ground instead of soaking in. *e.g.* On a tarred road, rain runs off into the drain.
 - **Evaporate**: When liquid water slowly turns into water vapour, an invisible gas, and goes into the air. *e.g.* Wet clothes on a line dry because the water evaporates.
-- **Matka**: A clay pot for keeping drinking water. Clay has tiny holes, so a little water seeps out and evaporates, which cools the water inside. *e.g.* In summer, many Indian homes keep a matka in a shady corner.
+- **Matka**: A clay pot for keeping drinking water. Clay has tiny holes, so a little water seeps out and evaporates, which cools the water inside. In Tamil it is called a mann paanai. *e.g.* In summer, many Indian homes keep a matka in a shady corner.
 - **Stepwell**: A deep well with stone stairs going down to the water. People walked down further as the water level fell in the dry season. *e.g.* Rani ki Vav in Patan, Gujarat, and Chand Baori in Abhaneri, Rajasthan, are famous stepwells.
 - **Tanka**: A covered underground tank used in the Thar desert. Rain falling on a clean, sloping courtyard runs into it and is stored for months. *e.g.* A family in a desert village drinks tanka water all through the dry season.
 - **Johad**: A curved wall of earth built across a slope to hold back rainwater, so it has time to soak into the ground. *e.g.* Villagers in Alwar, Rajasthan, built many johads to refill their wells.
@@ -45,8 +45,8 @@
 **Definition:** Almost all the fresh water we use starts as rain. We take it from two places: water on the land, called surface water, and water under the ground, called groundwater.
 
 Rain fills rivers, lakes and ponds. That is surface water, water we can see. Rain also soaks into the ground. That is groundwater, hidden water. Every home gets its water from one of these, or from both. A city usually pipes water from a river, a lake or a reservoir far away. A village often pumps groundwater from a well, a borewell or a handpump. Some homes buy water from a tanker, a truck that carries water. A few coastal cities, such as Chennai, also take salt out of sea water in big plants, but that costs a lot of electricity.
-- e.g. Mumbai gets most of its water from lakes and reservoirs more than 100 kilometres away.
-- e.g. A farmhouse in Punjab may pump all its water from a borewell.
+- e.g. Bengaluru gets most of its water from the Kaveri river, more than 100 kilometres away.
+- e.g. A farmhouse near Coimbatore may pump all its water from a borewell.
 - e.g. In summer, many families in big cities also buy water from tankers.
 ### What rain does when it lands · *defined*
 **Definition:** When rain lands, it soaks in, runs off, or evaporates. Which one happens depends mostly on the ground it lands on.
@@ -312,7 +312,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   - Think: If our whole street were cement, how would the well get water?
 ### g2 · Drink, Boil or Never? (20 min)
 - **rules:** Shuffle the 20 water cards. Put them face down in a pile.; On your turn, take a card and read it out loud.; Put it on one of the three mats: DRINK IT, MAKE IT SAFE FIRST, or NEVER DRINK IT.; Say why. A good reason wins one drop token.; Other players can challenge you. If they give a better reason, they win the token instead.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 20 water cards to cut out:** A sealed bottle of water from a shop, with the seal unbroken; Water from a stream in the hills, clear and very cold; A puddle on the road after rain; Water from the sea at Juhu beach; Water from your home purifier, working properly; Water from a village handpump that has never been tested; Water from a well that was tested and found to have arsenic; Rainwater caught in a clean steel bowl, left out for two days; Tap water in a hotel in a city you do not know; Water that was boiled well and cooled in a clean, covered pot; Muddy river water, left to settle, then poured through cloth; Water from a clean, covered matka, filled with boiled water; Water from a bucket with a dead insect in it; Water from a borewell where the test showed too much fluoride; Melted ice from a street-side ice block; Water from a clear bottle left in strong sun all day on a roof; Water from a garden hose lying in the sun; Water from a fish tank; Water from a stepwell where people also wash; Water from your own tap at home, from a city treatment plant
+- **Printable cards: 20 water cards to cut out:** A sealed bottle of water from a shop, with the seal unbroken; Water from a stream in the hills, clear and very cold; A puddle on the road after rain; Water from the sea at Marina beach; Water from your home purifier, working properly; Water from a village handpump that has never been tested; Water from a well that was tested and found to have arsenic; Rainwater caught in a clean steel bowl, left out for two days; Tap water in a hotel in a city you do not know; Water that was boiled well and cooled in a clean, covered pot; Muddy river water, left to settle, then poured through cloth; Water from a clean, covered matka, filled with boiled water; Water from a bucket with a dead insect in it; Water from a borewell where the test showed too much fluoride; Melted ice from a street-side ice block; Water from a clear bottle left in strong sun all day on a roof; Water from a garden hose lying in the sun; Water from a fish tank; Water from a stepwell where people also wash; Water from your own tap at home, from a city treatment plant
 - **Printable board: Three mats:** DRINK IT: safe as it is; MAKE IT SAFE FIRST: boil it, or purify it; NEVER DRINK IT
 - **Printable tokens: 20 drop tokens:** 💧
 - **s1 (2 min)**  

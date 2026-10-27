@@ -1159,7 +1159,7 @@
      "qty": 2
     },
     {
-     "item": "small dog treats or bits of chapati",
+     "item": "small dog treats or bits of dosa",
      "qty": 20
     },
     {
@@ -1201,7 +1201,7 @@
    },
    "setup": [
     {
-     "art": "Two upside-down steel bowls on a floor about two big steps apart, a child hiding a piece of chapati under one while a grown-up gently holds a dog back.",
+     "art": "Two upside-down steel bowls on a floor about two big steps apart, a child hiding a piece of dosa under one while a grown-up gently holds a dog back.",
      "caption": "1. Hide a treat under one bowl while the dog is held back, facing away."
     },
     {
@@ -1795,7 +1795,7 @@
      "qty": 7
     },
     {
-     "item": "the same bright cap or dupatta each day",
+     "item": "the same bright cap or scarf each day",
      "qty": 1
     },
     {
@@ -2046,7 +2046,7 @@
    ],
    "materials": [
     "a cardboard egg tray or small boxes",
-    "a towel or old dupatta",
+    "a towel or old veshti",
     "paper cups",
     "small treats for a pet, or a little plain rice for birds"
    ],
@@ -3159,7 +3159,7 @@
    "why_maths": "Saying 'big stones were better' is a start. Working out how many fewer tells us how much better."
   },
   {
-   "problem": "In the Clever Hans test, Asha got 8 right out of 10 when her helper knew, and 3 right out of 10 in the blind round. What fraction did she get right in each round?",
+   "problem": "In the Clever Hans test, Meenakshi got 8 right out of 10 when her helper knew, and 3 right out of 10 in the blind round. What fraction did she get right in each round?",
    "answer": "8 out of 10, and 3 out of 10.",
    "explain": "In the first round, 8 out of 10 tries were right. That is 8 tenths. In the blind round, 3 out of 10 were right. That is 3 tenths. 3 tenths is about what lucky guessing gives with 3 cups.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -3233,7 +3233,7 @@
    "why_maths": "Timing in minutes turns 'the crows got quicker' into a clear number we can draw on a line chart and compare."
   },
   {
-   "problem": "In Be a Jay, Rohan hid 8 groundnuts. The next day he found 6. What fraction did he find? How many did he forget?",
+   "problem": "In Be a Jay, Arjun hid 8 groundnuts. The next day he found 6. What fraction did he find? How many did he forget?",
    "answer": "He found 6 out of 8, which is three quarters. He forgot 2.",
    "explain": "8 take away 6 is 2, so he forgot 2. 6 out of 8 is the same as 3 out of 4, because 6 and 8 can both be halved. So he found three quarters.",
    "math_unit": "math.fractions.halves-and-quarters.L3",

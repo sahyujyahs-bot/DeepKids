@@ -1324,7 +1324,7 @@
     },
     {
      "t": "mcq",
-     "p": "Riya, a girl in Class 3, took her temperature during the day. It read 36.3 degrees at 7 am and 36.9 after running. What is the best explanation?",
+     "p": "Meenakshi, a girl in Class 3, took her temperature during the day. It read 36.3 degrees at 7 am and 36.9 after running. What is the best explanation?",
      "opts": [
       "Body temperature changes a little in a day, and exercise makes heat",
       "The child had a fever after running",
@@ -2431,7 +2431,7 @@
         "6"
        ],
        [
-        "Riya",
+        "Meenakshi",
         "14",
         "5"
        ]
@@ -3363,7 +3363,7 @@
    "why_maths": "Scientists like to say 'how many times better'. Dividing shows how much better sticky mucus is at trapping dust."
   },
   {
-   "problem": "Riya, a girl in Class 3, measured her temperature. It was 36.3 degrees Celsius at 7 am and 36.9 after running. Later, when she had a cold, it read 38.4. Which of these numbers is a fever?",
+   "problem": "Meenakshi, a girl in Class 3, measured her temperature. It was 36.3 degrees Celsius at 7 am and 36.9 after running. Later, when she had a cold, it read 38.4. Which of these numbers is a fever?",
    "answer": "38.4 degrees Celsius is a fever.",
    "explain": "Doctors usually call 38 degrees Celsius or more a fever. 36.3 and 36.9 are both below 38, so they are normal. 38.4 is more than 38. So 38.4 is a fever. The number after the dot is tenths of a degree: 38.4 is 38 degrees and 4 tenths.",
    "math_unit": "math.temperature.reading-thermometers.L3",
@@ -3372,7 +3372,7 @@
    "why_maths": "A thermometer only helps if you can read its number and compare it with the fever line at 38."
   },
   {
-   "problem": "Riya's mother blinked 18 times in one minute while talking. If she kept blinking at the same speed, how many times would she blink in 5 minutes of talking?",
+   "problem": "Meenakshi's mother blinked 18 times in one minute while talking. If she kept blinking at the same speed, how many times would she blink in 5 minutes of talking?",
    "answer": "90 times.",
    "explain": "18 blinks each minute, for 5 minutes. 18 times 5 is 90. You can also add: 18 + 18 + 18 + 18 + 18 = 90. That is 90 fresh washes of tears on each eye.",
    "math_unit": "math.multiplication.equal-groups.L3",

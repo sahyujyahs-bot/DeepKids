@@ -502,7 +502,7 @@
       },
       {
        "t": "mcq",
-       "p": "Riya folds a long rectangle of paper from one corner to the opposite corner. Do the two halves match?",
+       "p": "Kavya folds a long rectangle of paper from one corner to the opposite corner. Do the two halves match?",
        "opts": [
         "Yes, exactly.",
         "No, the corners stick out."
@@ -707,7 +707,7 @@
      [
       {
        "t": "write",
-       "p": "Kabir says his face is perfectly symmetrical. How could he test this with a phone and a mirror?",
+       "p": "Joseph says his face is perfectly symmetrical. How could he test this with a phone and a mirror?",
        "lines": 3
       },
       {

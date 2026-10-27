@@ -174,7 +174,7 @@ Plants use the Sun's light to join carbon dioxide and water into food, and they 
 - Science (settled): Almost all the oxygen in the air was made by living things that use sunlight: tiny living things in the sea first, more than two billion years ago, then plants. Today, roughly half still comes from tiny algae in the sea.
 - Science (settled): The tiny parts inside our cells that use oxygen, called mitochondria, came from bacteria that started living inside bigger cells long ago.
 - Other view, The Charvaka school of ancient India, and many scientists today: The Charvakas taught that a body is only earth, water, fire and air, put together. Many scientists today say something similar: breathing is chemistry, gases passing through thin walls and food broken down in cells. On this view, nothing more is needed to explain it. That is an honest view, and it explains breathing well.
-- Practice, Breath and the meal (3 min): Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, roti, dal, fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will that breath go next?
+- Practice, Breath and the meal (3 min): Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, idli, sambar, fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will that breath go next?
 - Ask: If part of your lunch leaves in your breath, when did the food stop being food and start being you?
 - Ask: A plant may take in the carbon dioxide you breathe out today. Is part of that plant then made from your lunch?
 - Ask: An earthworm has no lungs, but its cells use oxygen just like yours. What does it really mean to breathe?
@@ -511,7 +511,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Parent says:* Each tool is a pretend animal mouth. You have 30 seconds with each one. Which mouth is best for which food?  
   *Child mode:* Each tool is an animal mouth. Try each one on each food. You get 30 seconds. Which is best?
   - Ask: Which tool was best at the noodles in the atta? (good: The tweezers or sticks, like a long beak poking in mud.)
-  - Ask: Which was best at the floating poha? (good: The tea strainer, because the water runs out and the food stays.)
+  - Ask: Which was best at the floating puffed rice? (good: The tea strainer, because the water runs out and the food stays.)
 - **s2 (6 min)**  
   *Parent does:* Match each tool to an animal and talk about it.  
   *Parent says:* Your straw is like a butterfly's long tongue, sipping nectar. The strainer is like a flamingo's beak, sieving tiny food. The tweezers are like a heron's long beak, picking up food. The peg is like a parrot's strong beak, gripping a nut.  
@@ -559,7 +559,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Check: In a dark, muddy river, which sense would help an animal least to find food? → **Sharp eyesight**
 - **s3 (7 min)**  
   *Parent does:* Your child explains the design to someone in the family.  
-  *Parent says:* Tell Nani or a friend about your animal. How does it breathe? How does it find food? What would happen to it if the river got dirtier?  
+  *Parent says:* Tell Paati or a friend about your animal. How does it breathe? How does it find food? What would happen to it if the river got dirtier?  
   *Child mode:* Show your drawing to someone. Explain how it breathes and finds food.
   - Think: Real Ganges river dolphins are in danger. The water is dirtier, and dams block their way. How could people help them?
 ### c2 · Build a Filter-Feeder's Sieve (30 min)

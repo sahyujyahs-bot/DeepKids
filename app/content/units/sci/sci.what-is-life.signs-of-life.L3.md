@@ -816,9 +816,9 @@ Nitai took the feather. Before he began, he touched the shy plant, very gently, 
 - Idli or dosa batter rising overnight, full of bubbles from tiny living things feeding on it.
 - Touch-me-not plants, chhui-mui or lajwanti, growing wild beside railway lines and in empty plots.
 - Moong sprouts in the kitchen, with white roots, ready to eat.
-- Green-grey mould growing on old bread or chapati, a living fungus feeding on once-alive food.
+- Green-grey mould growing on old bread or leftover idli, a living fungus feeding on once-alive food.
 - A money plant on a windowsill, leaning towards the light.
-- Your breath making a little cloud on a cold winter morning in Delhi or Shimla.
+- Your breath making a little cloud on a cold winter morning in Delhi or Ooty.
 - Seed packets in a nursery with a germination percentage printed on them, telling you how many seeds are likely to sprout.
 - Lines of ants carrying crumbs home, showing movement, sensing and nutrition at once.
 

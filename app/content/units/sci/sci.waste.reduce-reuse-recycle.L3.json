@@ -38,8 +38,8 @@
   {
    "term": "Reuse",
    "meaning": "To use a thing again, for the same job or a new one.",
-   "example": "A glass jam jar becomes a jar for storing dal.",
-   "art": "An empty jam jar, then the same jar full of yellow dal on a kitchen shelf."
+   "example": "A glass jam jar becomes a jar for storing rava.",
+   "art": "An empty jam jar, then the same jar full of pale rava on a kitchen shelf."
   },
   {
    "term": "Repair",
@@ -104,7 +104,7 @@
   {
    "term": "Enzyme",
    "meaning": "A tiny tool inside living things that cuts molecules apart or joins them. Each enzyme fits only certain molecules, like a key fits only certain locks.",
-   "example": "Your spit has an enzyme that cuts starch into sugar. That is why chapati tastes sweet if you chew it for a long time.",
+   "example": "Your spit has an enzyme that cuts starch into sugar. That is why rice tastes sweet if you chew it for a long time.",
    "art": "A key-shaped molecule fitting into a lock-shaped gap in a long chain, snipping it."
   },
   {
@@ -194,7 +194,7 @@
    "examples": [
     "Bread left in a damp box grows white and green fluffy mould. That mould is a fungus eating the bread.",
     "Leaves under a tree turn into dark soil in the monsoon.",
-    "Chew a piece of chapati for a long time and it starts to taste sweet. An enzyme in your spit is cutting starch into sugar."
+    "Chew a mouthful of plain rice for a long time and it starts to taste sweet. An enzyme in your spit is cutting starch into sugar."
    ],
    "perspectives": [],
    "art": "A zoom in four steps: a banana peel in soil, threads of fungus on it, a single microbe releasing tiny scissor-shaped enzymes, and the enzymes snipping a long chain into small beads.",
@@ -601,7 +601,7 @@
       "A chips packet, shiny inside",
       "A steel tumbler with a dent",
       "A cardboard shoebox",
-      "Tea leaves after making chai",
+      "Coffee grounds after making filter coffee",
       "An old AA battery",
       "A broken glass bangle",
       "A cotton T-shirt that is too small",
@@ -708,7 +708,7 @@
      "do": "1. Take turns. Each player draws a card, reads it out and places it. 2. They say why. 3. Others may challenge. 4. Give leaf tokens for the points.",
      "say": "Remember, the higher up the line, the more points. But you must be able to say why.",
      "kid": "Take turns. Read your card. Put it on a mat and say why. Can someone find a better place?",
-     "parent": "Good answers. Banana peel, tea leaves, eggshells, dry leaves and the garland go to COMPOST. The jam jar and shoebox are REUSE. The steel tumbler, chappal strap, cycle tube and toy car are REPAIR. Newspaper, a rinsed milk packet, the plastic bottle and the drinks can go to the KABADIWALA. The notebook with empty pages and the small T-shirt are REUSE: use the pages, or give the shirt to a younger child. The broken bangle can be REUSE in a mosaic, as Nek Chand did. Otherwise wrap it in paper so nobody is cut. The straw, the thin carry bag and the shiny gift wrap are best on REDUCE: we should not have taken them. The chips packet usually ends on DUMP, because almost nobody recycles it, so REDUCE is the better answer. The pizza box splits: the clean lid goes to the kabadiwala and the cheesy part to compost. The battery and the tube light are hazards. They need a special collection point, because they hold harmful metals such as mercury in tube lights."
+     "parent": "Good answers. Banana peel, coffee grounds, eggshells, dry leaves and the garland go to COMPOST. The jam jar and shoebox are REUSE. The steel tumbler, chappal strap, cycle tube and toy car are REPAIR. Newspaper, a rinsed milk packet, the plastic bottle and the drinks can go to the KABADIWALA. The notebook with empty pages and the small T-shirt are REUSE: use the pages, or give the shirt to a younger child. The broken bangle can be REUSE in a mosaic, as Nek Chand did. Otherwise wrap it in paper so nobody is cut. The straw, the thin carry bag and the shiny gift wrap are best on REDUCE: we should not have taken them. The chips packet usually ends on DUMP, because almost nobody recycles it, so REDUCE is the better answer. The pizza box splits: the clean lid goes to the kabadiwala and the cheesy part to compost. The battery and the tube light are hazards. They need a special collection point, because they hold harmful metals such as mercury in tube lights."
     },
     {
      "id": "s4",
@@ -982,7 +982,7 @@
        "Reduce"
       ],
       [
-       "Use a jam jar for dal",
+       "Use a jam jar for rava",
        "Reuse"
       ],
       [
@@ -2630,12 +2630,12 @@
    "general": [
     "Use a steel tiffin and a refillable bottle, instead of foil, cling film and packets.",
     "Choose fruit and home-made snacks instead of packaged ones.",
-    "Wrap rotis in a cloth napkin.",
+    "Wrap chapatis in a cloth napkin.",
     "Take peels home for the compost."
    ],
    "creative": [
     "Wrap food in a clean banana leaf, as many South Indian homes do. It goes back to the soil.",
-    "Make a spoon from a thick slice of carrot or a piece of roti, so there is nothing to wash or throw.",
+    "Make a spoon from a thick slice of carrot or a piece of dosa, so there is nothing to wash or throw.",
     "Bring a small cloth bag to carry the tiffin, made in the T-shirt bag activity."
    ],
    "your_turn": "Now plan your own zero-waste tiffin. Draw it, pack it, eat it, and check the dustbin afterwards. Did anything end up there?",
@@ -2661,7 +2661,7 @@
      "do": "Pack it together and eat it, at home or out.",
      "say": "Let's pack it and eat it. Then we'll check.",
      "kid": "Pack your tiffin. Eat it! Keep the peels.",
-     "parent": "Good tiffins: roti rolls in a cloth, chana in a steel box, a whole fruit, water in a steel bottle. Peels go home for the compost."
+     "parent": "Good tiffins: idlis wrapped in a banana leaf, sundal in a steel box, a whole fruit, water in a steel bottle. Peels go home for the compost."
     },
     {
      "id": "s4",
@@ -2690,7 +2690,7 @@
      "caption": "1. Count the waste from a usual lunch."
     },
     {
-     "art": "A child drawing a plan of a steel tiffin, a cloth-wrapped roti and a fruit.",
+     "art": "A child drawing a plan of a steel tiffin, idlis wrapped in a banana leaf and a fruit.",
      "caption": "2. Plan a lunch with zero waste."
     },
     {

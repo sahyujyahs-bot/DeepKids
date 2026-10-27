@@ -9,7 +9,7 @@
  "intro": {
   "hook": "Look at the back of your hand. Now look at the back of the hand of the oldest person in your home. What is different? What is the same?",
   "text": "Every grandparent you know was once a baby. They had no teeth. They could not walk. Their head was huge compared to their body. One day you will be as old as them. Your hair may turn white, and your skin may fold into soft lines. Why does a body change like this? And how much of you is new, and how much is as old as you are?",
-  "art": "A grandmother and a child sitting side by side on a charpai, both holding the back of their hands up to compare, sunlight on both."
+  "art": "A grandmother and a child sitting side by side on an oonjal swing, both holding the back of their hands up to compare, sunlight on both."
  },
  "outcomes": [
   "I can name the stages of a human life in order: baby, child, teenager, adult and older adult.",
@@ -51,7 +51,7 @@
    "term": "Adult",
    "meaning": "A person whose body has finished growing taller. In India, a person is called an adult in law from age 18.",
    "example": "Your parents and teachers are adults.",
-   "art": "Two adults carrying shopping bags from a sabzi market."
+   "art": "Two adults carrying shopping bags from a vegetable market."
   },
   {
    "term": "Older adult or elder",
@@ -660,7 +660,7 @@
      "id": "s3",
      "mins": 4,
      "do": "When someone draws an ALL AGES card, stop and talk about it.",
-     "say": "This one is true for babies, children and grandparents too. Your body is making new cells right now, and so is Nani's.",
+     "say": "This one is true for babies, children and grandparents too. Your body is making new cells right now, and so is Paati's.",
      "kid": "ALL AGES cards are true for everyone. A baby and a grandparent both do this.",
      "check": {
       "t": "mcq",
@@ -728,7 +728,7 @@
       "Age 70: Your grandchild asks you for a story. Tell a 30-second story to win a star.",
       "Age 80: You hear high sounds less well. Next turn, someone must whisper your number to you.",
       "Any age: You sleep well every night. Move ahead 2.",
-      "Any age: You eat dal, sabzi and fruit. Move ahead 1.",
+      "Any age: You eat sambar, greens and fruit. Move ahead 1.",
       "Any age: You drink clean water. Move ahead 1.",
       "Any age: You skip your vaccine. Miss a turn.",
       "Any age: You help an elder carry their bag. Move ahead 2.",
@@ -1500,7 +1500,7 @@
      "kid": "Put the 3 numbers in order. The middle one is the one we use.",
      "check": {
       "t": "mcq",
-      "q": "Arjun, a boy in Class 3, did the skin test with his Nani, his mother's mother. Her three tries took 2, 5 and 3 seconds. What is the middle value?",
+      "q": "Arjun, a boy in Class 3, did the skin test with his Ammamma, his mother's mother. Her three tries took 2, 5 and 3 seconds. What is the middle value?",
       "options": [
        "2 seconds",
        "3 seconds",
@@ -1518,7 +1518,7 @@
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but Nani's took 3 seconds. Why: older skin has fewer springy threads inside.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but Ammamma's took 3 seconds. Why: older skin has fewer springy threads inside.",
      "context": "This is the last step of the snap-back skin test. Your child explains the result."
     }
    ]
@@ -1655,7 +1655,7 @@
      "do": "Ask your child to say or write three sentences: what I think, what I saw, why.",
      "say": "Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Dadaji needed 60 centimetres. Why: the lens in his eye has got stiff, so it cannot focus up close.",
+     "parent": "A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Thatha needed 60 centimetres. Why: the lens in his eye has got stiff, so it cannot focus up close.",
      "context": "This is the last step of the near point test. Your child explains what they found."
     }
    ]
@@ -1786,7 +1786,7 @@
      "do": "Ask your child to say or write three sentences: what I think, what I saw, why.",
      "say": "Now tell me three things. What do you think? What did you see? Why?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but Nana only heard up to 8,000. Why: the hair cells for high sounds in his ears have worn out over the years.",
+     "parent": "A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but Thatha only heard up to 8,000. Why: the hair cells for high sounds in his ears have worn out over the years.",
      "context": "This is the last step of the high sound test. Your child explains what they found."
     }
    ]
@@ -1899,7 +1899,7 @@
    "context": "In this activity you interview an elder about their life: what their body could do when they were 8, what has changed, and what has got better.",
    "setup": [
     {
-     "art": "A child sitting cross-legged in front of a grandfather on a charpai, holding a notebook and pencil.",
+     "art": "A child sitting cross-legged in front of a grandfather on an oonjal swing, holding a notebook and pencil.",
      "caption": "1. Sit with an elder, in person or on a call."
     },
     {
@@ -2249,7 +2249,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Make a longer line for an elder, with their help, from girl or boy to now. Label the stages.",
-     "say": "Now let's do Nani's life. Her line is much longer. Can you find where she was your age?",
+     "say": "Now let's do Paati's life. Her line is much longer. Can you find where she was your age?",
      "kid": "Make a long line for an elder. Find where they were your age.",
      "check": {
       "t": "mcq",
@@ -2327,7 +2327,7 @@
      "id": "s1",
      "mins": 20,
      "do": "1. Make the book. 2. With the elder, choose 4 ages: 8, 15, 30 and now. 3. Ask what their body could do and what life was like at each age.",
-     "say": "We are making a book about Nani's life and yours. Each page will show her at one age, next to you.",
+     "say": "We are making a book about Paati's life and yours. Each page will show her at one age, next to you.",
      "kid": "Make a book with an elder. Choose 4 ages. Ask what their body and life were like at each.",
      "adult": true,
      "context": "This is day 1 of the Then and Now Book. You plan the book with an elder."
@@ -2337,7 +2337,7 @@
      "mins": 20,
      "wait": "Come back the next day.",
      "do": "Draw one page for each age. Write one body change on each page, like 'first grey hair at 42' or 'started reading glasses at 45'.",
-     "say": "On each page, draw Nani at that age. Write one way her body was different then.",
+     "say": "On each page, draw Paati at that age. Write one way her body was different then.",
      "kid": "Draw the elder at each age. Write one body change on each page.",
      "check": {
       "t": "mcq",
@@ -2528,7 +2528,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Pick the best idea and give one to an elder.",
-     "say": "Which idea won? Let's make one for Dadaji's kitchen.",
+     "say": "Which idea won? Let's make one for Thatha's kitchen.",
      "kid": "Which idea won? Make one for an elder you know.",
      "context": "This is the last step of the Easy-Open Jar. You pick the best idea and share it."
     }
@@ -2868,7 +2868,7 @@
  "ask_kids": [
   "Can you find a grey hair on anyone at home today? How many?",
   "What could you do this year that you could not do last year?",
-  "What do you think Nani or Dadaji was like at your age?",
+  "What do you think Paati or Thatha was like at your age?",
   "Which elder do you know who still learns new things?",
   "Who in our home holds the phone furthest away to read it? Why?",
   "If you could ask your future self at 80 one question, what would it be?",
@@ -2884,7 +2884,7 @@
    "a": "He wanted the news to come from a long way off!"
   },
   {
-   "j": "What did Nana say when he could not read the menu?",
+   "j": "What did Thatha say when he could not read the menu?",
    "a": "My arms have grown too short!"
   },
   {
@@ -2920,7 +2920,7 @@
    "a": "Its brain got a head start."
   },
   {
-   "j": "Why did Nani's reading glasses go to school?",
+   "j": "Why did Paati's reading glasses go to school?",
    "a": "To get a little sharper."
   },
   {

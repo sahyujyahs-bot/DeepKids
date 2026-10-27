@@ -341,7 +341,7 @@
    "description": "Sunlight takes 8 minutes to reach us from the Sun's surface. But its energy was made deep in the Sun's centre. The Sun's insides are so crowded that a photon only goes a tiny way before it is swallowed by an atom and given out again in a random direction. So the energy wanders, bumping its way out, for a very long time. Scientists work this out with sums, because nobody can look inside the Sun. Their estimates range from about ten thousand to over one hundred thousand years.",
    "examples": [
     "The warmth on your face may have been made inside the Sun before people in India first grew wheat and barley.",
-    "Imagine trying to leave a packed railway platform at Diwali. You keep being pushed back. Energy leaving the Sun is a bit like that.",
+    "Imagine trying to leave a packed railway platform at Chennai Central just before Pongal. You keep being pushed back. Energy leaving the Sun is a bit like that.",
     "Once it reaches the surface, the last part of the trip, to Earth, takes just 8 minutes."
    ],
    "perspectives": [
@@ -1127,7 +1127,7 @@
       "Light needs air"
      ],
      "a": 0,
-     "why": "Only waves make stripes like this. Where two waves add up you get bright, and where they cancel you get dark. Like the ripples crossing in the thali. Picking 'instant' mixes up two different questions about light."
+     "why": "Only waves make stripes like this. Where two waves add up you get bright, and where they cancel you get dark. Like the ripples crossing in the uruli. Picking 'instant' mixes up two different questions about light."
     },
     {
      "t": "mcq",
@@ -2047,12 +2047,12 @@
   },
   {
    "id": "a3",
-   "title": "Ripples in a Thali: what is a wave?",
+   "title": "Ripples in an Uruli: what is a wave?",
    "mins": 20,
    "days": 1,
    "materials": [
     {
-     "item": "a large steel thali or a baking tray",
+     "item": "a wide brass uruli, a large steel plate or a baking tray",
      "qty": 1
     },
     {
@@ -2073,18 +2073,18 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Make ripples in a thali of water. See waves spread, cross and add up. Compare them with rolling marbles."
+     "what": "Make ripples in an uruli of water. See waves spread, cross and add up. Compare them with rolling marbles."
     }
    ],
    "record": "Draw the ripples from one coin. Then draw the ripples from two coins crossing each other.",
    "context": "In this activity, you make ripples in a plate of water to see what a wave is. Scientists once argued whether light is a wave like this, or a stream of tiny particles.",
    "setup": [
     {
-     "art": "A steel thali of water on the floor with a torch shining across it from low at one side.",
-     "caption": "1. Fill a thali with a little water. Shine a torch across it from low down."
+     "art": "A wide brass uruli of water on the floor with a torch shining across it from low at one side.",
+     "caption": "1. Fill an uruli with a little water. Shine a torch across it from low down."
     },
     {
-     "art": "Rings of ripples spreading from a coin dropped in the middle of the thali.",
+     "art": "Rings of ripples spreading from a coin dropped in the middle of the uruli.",
      "caption": "2. Drop one coin. Watch the rings spread."
     },
     {
@@ -2096,10 +2096,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the thali on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.",
+     "do": "1. Put the uruli on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.",
      "say": "Watch the rings spread out. That is a wave. The water itself only bobs up and down. The movement is what travels outwards.",
      "kid": "Drop one coin in the middle. Watch the rings spread. That is a wave!",
-     "context": "This is the first step of Ripples in a Thali. You make water waves to see what a wave is, so you can compare it with light.",
+     "context": "This is the first step of Ripples in an Uruli. You make water waves to see what a wave is, so you can compare it with light.",
      "ask": [
       {
        "q": "Does the water travel to the edge, or just the ripple?",
@@ -2118,7 +2118,7 @@
      "kid": "Drop two coins at the same time. Where the ripples cross, look for bigger bumps and flat spots.",
      "check": {
       "t": "mcq",
-      "q": "When two ripples cross in the thali, what happens?",
+      "q": "When two ripples cross in the uruli, what happens?",
       "options": [
        "They add up in some places and cancel out in others",
        "They bounce off each other like balls",
@@ -2363,7 +2363,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a fine cloth with a tight weave, such as an umbrella, a nylon dupatta or a fine tea strainer",
+     "item": "a fine cloth with a tight weave, such as an umbrella, a nylon saree or a fine tea strainer",
      "qty": 1
     },
     {
@@ -2419,7 +2419,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Slowly turn the cloth while you keep looking. 2. Then try a different cloth, or a fine tea strainer.",
-     "say": "The pattern turns when the cloth turns. The tiny gaps between the threads are making it. When light waves squeeze through tiny gaps, they spread out and cross each other, like the ripples in the thali. Only waves do that.",
+     "say": "The pattern turns when the cloth turns. The tiny gaps between the threads are making it. When light waves squeeze through tiny gaps, they spread out and cross each other, like the ripples in the uruli. Only waves do that.",
      "kid": "Turn the cloth slowly. Does the pattern turn too? Try another cloth.",
      "check": {
       "t": "mcq",

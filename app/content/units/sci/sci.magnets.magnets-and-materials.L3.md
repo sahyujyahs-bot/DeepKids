@@ -595,7 +595,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 ### c2 · Iron-Proof: how far from iron must a compass be? (30 min)
 - **problem:** In the story, a big iron pot made the ship's compass point the wrong way. Find out how close iron things at home must be before they turn your compass needle. Then choose the best spot in your home for a compass station.
 - **your turn:** Now find the safest spot in your home for a compass station, and explain why you chose it.
-- **constraints:** Use a measuring tape or a string marked every 10 cm.; Test at least 3 iron things, like a steel almirah, a gas cylinder, an iron karahi or a fridge.; Move the compass, not the heavy iron thing.
+- **constraints:** Use a measuring tape or a string marked every 10 cm.; Test at least 3 iron things, like a steel almirah, a gas cylinder, an iron dosa tawa or a fridge.; Move the compass, not the heavy iron thing.
 - **general:** Start right next to the iron thing. Move the compass back 10 cm at a time, until it points the same way as it does in the middle of the room.; Write down that distance for each thing.
 - **creative:** Draw a map of your home and colour a 'danger zone' around each iron thing. Where is the safe spot?; Test whether a closed laptop, a phone or a speaker turns the compass needle too. They have magnets inside.; Test the floor and walls. Many buildings have steel rods inside the concrete.
 - **s1 (5 min)**  
@@ -606,12 +606,12 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* 1. Hold the compass right next to an iron thing. 2. Move back 10 cm at a time. 3. Stop when it points the normal way again. 4. Write down the distance. 5. Do this for 3 things.  
   *Parent says:* Move back 10 centimetres at a time. When does the needle go back to pointing the normal way?  
   *Child mode:* Start next to the iron thing. Step back 10 cm at a time. When does the needle point the normal way again? Write the distance.
-  - Note: Big iron things turn a compass needle from further away. A steel almirah or a fridge can turn it from 50 cm to a metre away. A small iron karahi, perhaps from 20 to 30 cm. Your numbers will differ.
+  - Note: Big iron things turn a compass needle from further away. A steel almirah or a fridge can turn it from 50 cm to a metre away. A small iron dosa tawa, perhaps from 20 to 30 cm. Your numbers will differ.
 - **s3 (10 min)**  
   *Parent does:* Draw a map with danger zones, and choose a safe spot.  
   *Parent says:* Where in our home is the safest spot for a compass?  
   *Child mode:* Draw your home. Colour a danger zone around each iron thing. Where is the safe spot?
-  - Check: A steel almirah turns the compass needle from up to 80 cm away. An iron karahi turns it from up to 25 cm away. Why the difference? → **The almirah has much more iron, so its effect on the needle reaches further**
+  - Check: A steel almirah turns the compass needle from up to 80 cm away. An iron dosa tawa turns it from up to 25 cm away. Why the difference? → **The almirah has much more iron, so its effect on the needle reaches further**
 
 ## Worksheets
 ### Magnet Detective (core) (core, 16 questions)

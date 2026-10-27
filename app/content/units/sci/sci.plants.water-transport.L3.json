@@ -2331,7 +2331,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk about how flower and vegetable sellers keep things fresh.",
-     "say": "Next time we go to the sabzi market, look at how sellers keep greens fresh. Do they sprinkle water? Keep them in the shade? Stand them in buckets?",
+     "say": "Next time we go to the vegetable market, look at how sellers keep greens fresh. Do they sprinkle water? Keep them in the shade? Stand them in buckets?",
      "kid": "At the market, look at how sellers keep greens fresh. Water? Shade? Buckets?",
      "think": "A plant in soil can wilt at noon and stand up again in the evening. What changes between noon and evening?"
     }
@@ -3584,7 +3584,7 @@
    "title": "A flower market near you",
    "url": "",
    "kind": "place",
-   "where": "anywhere, for example Mullick Ghat in Kolkata or Dadar in Mumbai",
+   "where": "anywhere, for example Mattuthavani in Madurai, KR Market in Bengaluru or Mullick Ghat in Kolkata",
    "why": "Watch how sellers keep flowers fresh: buckets, fresh cuts and sprays. Ask them why."
   },
   {

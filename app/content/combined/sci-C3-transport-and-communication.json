@@ -299,7 +299,7 @@
      "kind": "warmup",
      "title": "No phones allowed",
      "mins": 4,
-     "do": "Ask: 'If there were no phones and no internet, how would you tell Nani in another city that you lost a tooth?' Let your child give two ideas. Say: 'For most of history, that was the only choice. Today we see what people did.'"
+     "do": "Ask: 'If there were no phones and no internet, how would you tell Paati in another city that you lost a tooth?' Let your child give two ideas. Say: 'For most of history, that was the only choice. Today we see what people did.'"
     },
     {
      "kind": "talk",
@@ -363,7 +363,7 @@
      "kind": "talk",
      "title": "Waves faster than sound",
      "mins": 9,
-     "do": "Say: 'When you talk on a mobile phone, it changes your voice into radio waves. They travel to a tower, and are passed on until they reach the other phone. Radio waves are invisible and travel as fast as light, about 3 lakh kilometres every second. Sound in air travels only about 343 metres in a second.' Ask: 'If you shouted to Nani 300 km away, and your voice could reach her, how long would it take?' (About 15 minutes. A phone call gets there in less than a second.) Then tell your child about J.C. Bose from voice v3, and ask its question.",
+     "do": "Say: 'When you talk on a mobile phone, it changes your voice into radio waves. They travel to a tower, and are passed on until they reach the other phone. Radio waves are invisible and travel as fast as light, about 3 lakh kilometres every second. Sound in air travels only about 343 metres in a second.' Ask: 'If you shouted to Paati 300 km away, and your voice could reach her, how long would it take?' (About 15 minutes. A phone call gets there in less than a second.) Then tell your child about J.C. Bose from voice v3, and ask its question.",
      "ref": "v3"
     },
     {
@@ -443,7 +443,7 @@
    "steps": [
     {
      "kind": "act",
-     "title": "Project: three ways to Nani's",
+     "title": "Project: three ways to Paati's",
      "mins": 15,
      "do": "Do the project. Your child picks a real town where someone you know lives. With your help on a phone, they find how long the journey takes by bus, by train and by car or plane, and roughly what each costs. They draw a table with three rows. Then they put a smoke mark against each: one mark for the train, two for the bus, more for a car with few people, and the most for a plane. Ask: 'Which would you choose, and why?' There is no single right answer."
     },
@@ -509,7 +509,7 @@
       },
       {
        "t": "mcq",
-       "p": "Riya, a girl in Class 3, pulls a box of books three ways. Which way needs the smallest pull?",
+       "p": "Kavya, a girl in Class 3, pulls a box of books three ways. Which way needs the smallest pull?",
        "opts": [
         "dragging it on the floor",
         "on round pencils as rollers",
@@ -620,7 +620,7 @@
      [
       {
        "t": "mcq",
-       "p": "Meera, a girl in Class 3, put one oily card by the road and one in a cupboard. After 2 days the road card was grey and the cupboard card was clean. What does this show?",
+       "p": "Meenakshi, a girl in Class 3, put one oily card by the road and one in a cupboard. After 2 days the road card was grey and the cupboard card was clean. What does this show?",
        "opts": [
         "traffic puts tiny bits into the air near roads",
         "cupboards make dust",
@@ -638,7 +638,7 @@
       },
       {
        "t": "mcq",
-       "p": "Dev, a boy in Class 3, catches the dropped ruler at 20 cm. Next day he is sleepy and catches it at 28 cm. What does that mean?",
+       "p": "Karthik, a boy in Class 3, catches the dropped ruler at 20 cm. Next day he is sleepy and catches it at 28 cm. What does that mean?",
        "opts": [
         "the message took longer to get through",
         "the ruler fell slower",
@@ -1068,7 +1068,7 @@
   }
  ],
  "project": {
-  "title": "Three ways to Nani's",
+  "title": "Three ways to Paati's",
   "days": [
    9
   ],
@@ -1206,25 +1206,25 @@
  "story": {
   "title": "The Torch Across the Gap",
   "text": [
-   "Our new flat in Pune was on the fourth floor, and my bedroom window looked straight into another window. The two buildings stood so close that I could have thrown a ball across. Papa said the gap was about four metres. In that other window, on my first evening, there was a girl about my age, with two plaits and a pencil behind her ear.",
+   "Our new flat in Kochi was on the fourth floor, and my bedroom window looked straight into another window. The two buildings stood so close that I could have thrown a ball across. Papa said the gap was about four metres. In that other window, on my first evening, there was a girl about my age, with two plaits and a pencil behind her ear.",
    "I waved. She waved back. I shouted, 'What's your name?' She smiled, pointed to her ear and shook her head. Then she moved her hands quickly, in shapes I did not know.",
    "'She can't hear,' I told Mama at dinner. 'So she can't talk. That's so sad.'",
-   "Mama put down her roti. 'She was talking,' she said. 'You just couldn't understand her.'",
+   "Mama put down her appam. 'She was talking,' she said. 'You just couldn't understand her.'",
    "The next evening the girl held a sheet of paper against her glass. It said, in big letters, ZOYA. Under it she had drawn a cat. She pointed at the cat, and made a shape with her fingers near her cheeks, like whiskers. Then she pointed at me.",
    "I wrote KABIR on the back of my maths notebook and held it up. I could not think how to draw a Kabir. Zoya laughed. I could not hear her laugh, but I could see it.",
    "That is how we started. Every evening after homework she taught me one sign. Cat. Rain. Eat. Mango. Friend. She wrote the word, made the sign, and waited until I made it back. If I got it wrong, she shook her head and showed me again, slowly, the way my cricket coach shows me a shot.",
    "'Indian Sign Language,' her paper said one day. 'ISL. A real language. It has its own grammar.' My school does not teach it. I asked Mama why. She did not know.",
    "After dark we could not see the papers any more. So I took the torch from the kitchen drawer. One flash meant yes. Two flashes meant no. A long flash meant goodnight. Zoya had a torch too. Soon we had more. Three quick flashes meant 'Come to the window.' For numbers, we flashed one for one, up to nine flashes for nine, and a long flash for zero. We made it all up ourselves. It worked because we both knew it.",
-   "Then, in July, a paper in Zoya's window said: WE ARE MOVING. SATURDAY. MUMBAI.",
+   "Then, in July, a paper in Zoya's window said: WE ARE MOVING. SATURDAY. BENGALURU.",
    "I did not know her phone number. I did not know her surname. I had never even been inside her building, because its gate was on the other road. I thought I would ask her on Friday.",
    "On Friday the monsoon came down as if someone had turned over a bucket the size of the sky. The rain hammered on the tin sunshade over our window so loudly that I could not hear the TV. Then the power went off, in both buildings at once. Everything was black, and the noise was enormous.",
    "In the kitchen, Mama was shouting something to Papa, and Papa was shouting back, 'What? What?' My little brother was crying, because he could not hear anyone and did not know where we were. A whole flat full of people with good ears, and nobody could understand anybody.",
    "I went to my window with the torch. Across the gap, through the sheets of water, a small light was already blinking. Three quick flashes. Come to the window.",
    "I stood there with the rain spraying through the frame onto my feet, and I thought: tonight the rain has made everyone deaf. Everyone except the two of us. Zoya had been talking without sound all her life. And she had taught me how.",
    "I needed her address. We had no flash for 'address'. So I shone the torch on my other hand and moved that hand as if I were writing, and then I pointed at her. She understood at once. She went away from the window, came back, and began to flash.",
-   "Four flashes. A long one. A long one. A long one. Five flashes. A long one. I wrote each number on my hand with a pen, by torchlight, while the rain roared: 4 0 0 0 5 0. I flashed the numbers back to her, to check. One flash: yes. Then she held a big paper to the glass with her torch shining on it. It had the name of her new building and her new road, in her careful capital letters.",
+   "Five flashes. Six flashes. A long one. A long one. Five flashes. A long one. I wrote each number on my hand with a pen, by torchlight, while the rain roared: 5 6 0 0 5 0. I flashed the numbers back to her, to check. One flash: yes. Then she held a big paper to the glass with her torch shining on it. It had the name of her new building and her new road, in her careful capital letters.",
    "On Saturday morning the rain had stopped. Zoya's window was empty, with no curtain. On the glass, stuck from the inside, was a drawing of a cat with whiskers.",
-   "That afternoon I wrote my first letter ever. I drew a cat at the top. Papa showed me where to write the six numbers, on the last line of the address. He said the first number, 4, would tell the post office the letter was going to the part of India that has Maharashtra in it. The other numbers would take it to the right post office in Mumbai, and a postman would carry it to her door.",
+   "That afternoon I wrote my first letter ever. I drew a cat at the top. Papa showed me where to write the six numbers, on the last line of the address. He said the first number, 5, would tell the post office the letter was going to the part of India that has Karnataka in it. The other numbers would take it to the right post office in Bengaluru, and a postman would carry it to her door.",
    "Nine days later, a letter came for me. On the envelope, in big careful capitals, was my name. Inside there was one drawing: two windows, a torch in each, and between them a line of little flashes, some short and some long."
   ],
   "epiphany": "For the parent: an imagined story. The turn is the storm. The rain makes sound useless for everyone, and the family with good ears cannot understand each other, but Kabir and Zoya, who never relied on sound, talk perfectly. A message is not the sound, the light or the paper. It is a pattern that both sides have agreed on, a code, and it can ride on anything. Kabir also learns that Zoya was always talking, in a full language. Let your child find this on Day 7, when they make their own Morse code, before you name it.",

@@ -26,7 +26,7 @@
 - **Condensation nucleus (cloud seed)**: A tiny speck of dust, salt, smoke or pollen floating in the air. Water vapour condenses onto it to make a cloud drop. The plural is condensation nuclei. *e.g.* Over the sea, tiny grains of salt from sea spray become the seeds of cloud drops.
 - **Dew**: Drops of water that form on cool grass, leaves and cars on a still night. The water comes out of the air, by condensation. *e.g.* On a winter morning, the grass in the park is wet even though it did not rain.
 - **Fog and mist**: A cloud that sits on the ground. Mist is a thin one. Fog is a thick one you can hardly see through. *e.g.* In winter, Delhi and Punjab often have thick fog in the early morning, and trains run late.
-- **Precipitation**: Any water that falls from clouds to the ground: rain, drizzle, hail or snow. It is a long word for 'falling water'. *e.g.* Rain in Mumbai, hail in a summer storm in Bihar and snow in Kashmir are all precipitation.
+- **Precipitation**: Any water that falls from clouds to the ground: rain, drizzle, hail or snow. It is a long word for 'falling water'. *e.g.* Rain in Kochi, hail in a summer storm in Bengaluru and snow in Kashmir are all precipitation.
 - **Hail**: Balls of ice that fall from big storm clouds. They grow as they are tossed up and down inside the cloud. *e.g.* A hailstorm can dent car roofs and damage crops, even on a hot day.
 - **Transpiration**: Plants giving off water vapour from tiny holes in their leaves. The water comes up from the roots, through the stem. *e.g.* A big tree can put many buckets of water into the air on one hot day.
 - **Molecule**: The smallest piece of water that is still water. Each water molecule is two hydrogen atoms joined to one oxygen atom. One drop has more molecules than there are grains of sand on all the beaches of India. *e.g.* When a puddle evaporates, its molecules fly off into the air one by one.
@@ -52,20 +52,20 @@ The water cycle has four big steps. First, the Sun warms water, and some of it r
 Water is made of tiny particles called molecules. They are always jiggling and bumping into each other. At the top of a puddle, some molecules jiggle so fast that they break free and fly off into the air. That is evaporation. Warmth makes the molecules jiggle faster, so more of them escape. Wind blows the escaped molecules away, so they don't fall back in. A wide puddle has a bigger surface than a narrow glass, so more molecules can escape at once. Dry air takes up vapour more easily than sticky, humid air. So clothes dry fastest on a hot, windy, dry day, spread out flat.
 - e.g. Wet clothes on a terrace dry faster in the sun and wind than in a closed bathroom.
 - e.g. A wide plate of water dries up long before the same water in a narrow glass.
-- e.g. In the Rajasthan summer, a wet floor dries in minutes. In a sticky Mumbai monsoon, it can take an hour.
+- e.g. In the Rajasthan summer, a wet floor dries in minutes. In a sticky Kochi monsoon, it can take an hour.
 ### Water vapour is invisible, and so is real steam · *defined*
 **Definition:** Water vapour is a gas, and it is completely invisible. The white mist above a kettle or a pressure cooker is not vapour. It is a crowd of tiny liquid drops that have already condensed.
 
 The air in your room right now has water vapour in it. You cannot see it, smell it or feel it. Look closely at a kettle as it boils. Right at the spout there is a small clear gap. That gap is the real, invisible steam. A little further out, the steam meets cooler air and turns back into tiny drops. Those drops are what you see as white mist. So the white puff from a pressure cooker whistle is really a tiny cloud. Clouds in the sky are made the same way.
 - e.g. The clear gap just above a kettle spout is the invisible steam.
-- e.g. On a cold morning in Shimla, you can 'see your breath'. You are seeing tiny drops, not vapour.
+- e.g. On a cold winter morning in Ooty, you can 'see your breath'. You are seeing tiny drops, not vapour.
 - e.g. A drying shirt sends water into the air, but you never see it go.
 ### Condensation: water coming back out of the air · *defined*
 **Definition:** Condensation is water vapour cooling down and turning back into tiny drops of liquid water. It happens when vapour touches something cold, or when air cools as it rises.
 
 Cold makes molecules slow down. When vapour molecules touch a cold surface, they slow down, stick to it and to each other, and make drops. That is condensation, and it is evaporation run backwards. So any cold surface collects water from the air. A steel tumbler of ice gets wet on the outside. The inside of a lid over hot rice drips. The grass gets dew on a cool night. Air that rises up a mountain or high into the sky also cools, and its vapour condenses into clouds.
 - e.g. A cold steel tumbler gets wet on the outside on a sticky day. The drops came from the air, not through the steel.
-- e.g. The underside of the lid on a pot of hot dal is covered in drops.
+- e.g. The underside of the lid on a pot of hot rasam is covered in drops.
 - e.g. Car windows mist up from the inside when a whole family breathes in a closed car.
 ### Clouds: tiny drops on specks of dust · *defined*
 **Definition:** A cloud is a huge crowd of tiny water drops, or tiny ice crystals, floating in the air. Each drop forms around a speck of dust, salt, smoke or pollen.
@@ -119,7 +119,7 @@ In early summer, the land of India gets very hot. Wind starts blowing in from th
 - e.g. The rivers of the Western Ghats, like the Kaveri, swell after the monsoon reaches the hills.
 ### What really drives the monsoon · *debated*
 Everyone agrees on what the monsoon does. Why it happens is a harder question. Scientists have given different answers, and they still argue about how much each one matters.
-- e.g. Small sea breezes blow onto the land on hot afternoons at Chennai or Mumbai beaches. Is the monsoon a giant version?
+- e.g. Small sea breezes blow onto the land on hot afternoons at Chennai or Kochi beaches. Is the monsoon a giant version?
 - e.g. The Tibetan plateau, a huge high land north of the Himalaya, gets very hot in summer.
 - **Edmond Halley, an English scientist, in 1686, and many school books:** The monsoon is a giant sea breeze. In summer, the land heats up faster than the sea. Hot air over the land rises, and cooler, wet air from the sea flows in to take its place.
 - **Many weather scientists today:** The sea breeze idea is only part of it. Around the Earth's middle there is a belt of rising air and rain. In summer, this rain belt moves north, over India, following the Sun. The monsoon is that rain belt arriving.
@@ -463,9 +463,9 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **record:** Fill in the table. Draw the cold tumbler, with arrows showing water coming from the air onto it.
 - **results table:** Tumbler | Wet or dry outside after 5 minutes? | Colour of the drops on the outside | Taste of the drops: plain or salty?
 - **s1 (4 min)**  
-  *Parent does:* 1. Stir a few drops of food colour, or a pinch of haldi, into a jug of water. 2. Fill tumbler A half with ice, then top it up with the coloured water. 3. Fill tumbler B with the coloured water only. 4. Stir a pinch of salt into both. 5. Wipe the outsides completely dry.  
+  *Parent does:* 1. Stir a few drops of food colour, or a pinch of turmeric, into a jug of water. 2. Fill tumbler A half with ice, then top it up with the coloured water. 3. Fill tumbler B with the coloured water only. 4. Stir a pinch of salt into both. 5. Wipe the outsides completely dry.  
   *Parent says:* Both tumblers have the same coloured, salty water. Only one is cold. Watch the outsides.  
-  *Child mode:* Colour some water with haldi. Fill one tumbler with ice and coloured water. Fill the other with just coloured water. Add a pinch of salt to both. Wipe them dry.
+  *Child mode:* Colour some water with turmeric. Fill one tumbler with ice and coloured water. Fill the other with just coloured water. Add a pinch of salt to both. Wipe them dry.
 - **s2 (5 min)**  
   *Parent does:* Wait 5 minutes. Then run a dry fingertip down the outside of each tumbler. Look at the drops and wipe some onto white paper.  
   *Parent says:* Which tumbler is wet on the outside? What colour are the drops on the paper?  
@@ -720,7 +720,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
    Options: From the air: vapour condenses on the cold steel / The water leaks through the steel / The ice melts through the steel  
    **Answer:** From the air: vapour condenses on the cold steel. *Why:* The drops are clear and not salty, though the water inside was coloured and salty. So they came from the air. Picking 'leaks' is very common. But steel has no holes for water to get through.
 10. (sort) Sort these. Is it evaporation or condensation?  
-   **Answer:** wet clothes drying on a line → Evaporation; dew on the grass at dawn → Condensation; a puddle shrinking in the sun → Evaporation; drops under a lid on a pot of dal → Condensation; mist on a mirror after a bath → Condensation; a wet floor drying after mopping → Evaporation. *Why:* Evaporation is water going into the air, so things dry. Condensation is water coming out of the air, so things get wet.
+   **Answer:** wet clothes drying on a line → Evaporation; dew on the grass at dawn → Condensation; a puddle shrinking in the sun → Evaporation; drops under a lid on a pot of rasam → Condensation; mist on a mirror after a bath → Condensation; a wet floor drying after mopping → Evaporation. *Why:* Evaporation is water going into the air, so things dry. Condensation is water coming out of the air, so things get wet.
 11. (mcq) Why is rain water not salty, when most of it rose from the salty sea?  
    Options: Only water evaporates. The salt stays in the sea. / Clouds filter the salt out / Rain washes the salt away  
    **Answer:** Only water evaporates. The salt stays in the sea.. *Why:* Salt cannot evaporate at these temperatures, so only fresh water rises. Picking 'clouds filter it' means thinking of a cloud like a sieve. The salt never got to the cloud at all.
@@ -885,12 +885,12 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - Sealed jar gardens and greenhouses recycle their own water.
 
 ## Spotted around us
-- Drops on the inside of the lid of a pot of rice or dal.
+- Drops on the inside of the lid of a pot of rice or sambar.
 - The water pipe from an AC unit, dripping on a hot afternoon. That water came out of the room's air.
 - Dew on car windscreens and scooter seats on a winter morning.
 - Thick winter fog over Delhi and the fields of Punjab, when trains and flights run late.
 - Clouds sitting on the hills of the Western Ghats in the monsoon, at places like Lonavala and Mahabaleshwar.
-- Salt pans beside the road near the sea in Gujarat, or near Mumbai, with white heaps of salt.
+- Salt pans beside the road near the sea in Gujarat, or near Thoothukudi in Tamil Nadu, with white heaps of salt.
 - Clothes drying on terraces, fastest on windy, sunny days.
 - Mist rising off a pond or river on a cold morning.
 - The earthy smell of the first monsoon rain. Scientists call it petrichor.

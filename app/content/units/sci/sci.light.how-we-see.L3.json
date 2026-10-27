@@ -576,7 +576,7 @@
       "EYE: your eye",
       "EYE: a cat's eye",
       "EYE: an owl's eye",
-      "EYE: Grandpa's eye",
+      "EYE: Thatha's eye",
       "EYE: a bee's eye",
       "EYE: a fish's eye",
       "EYE: a baby's eye",
@@ -616,7 +616,7 @@
     "Cut out all the cards. Shuffle the SOURCE, OBJECT and EYE cards into one pile. Keep the BLOCKER cards in a separate pile.",
     "Each player takes 5 cards from the main pile.",
     "On your turn, take one more card. If you can, lay down a full chain: one SOURCE, one OBJECT and one EYE, in that order, on the chain mat.",
-    "Say the chain out loud: 'Light goes from the torch to the cat, and bounces off the cat into Grandpa's eye. So Grandpa sees the cat.' A correct chain wins 2 seeing tokens.",
+    "Say the chain out loud: 'Light goes from the torch to the cat, and bounces off the cat into Thatha's eye. So Thatha sees the cat.' A correct chain wins 2 seeing tokens.",
     "After a chain is laid, the next player can take a BLOCKER card and put it on one arrow. They say how it breaks the chain. A good reason wins 1 token, and the chain is out.",
     "A SOURCE card can also be laid straight to an EYE, with no OBJECT. Then you are seeing the light source itself. This wins 1 token.",
     "When the main pile runs out, the player with the most tokens wins."
@@ -633,19 +633,19 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Grandpa's eye'. Point along the arrows as you say it.",
-     "say": "Here is a practice chain. The torch makes light. The light lands on the cat and bounces off it. Some of it goes into Grandpa's eye. So Grandpa sees the cat.",
-     "kid": "Practice chain: a torch, a cat, Grandpa's eye. Light goes from the torch to the cat. It bounces into Grandpa's eye. Which way do the arrows point?",
+     "do": "Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Thatha's eye'. Point along the arrows as you say it.",
+     "say": "Here is a practice chain. The torch makes light. The light lands on the cat and bounces off it. Some of it goes into Thatha's eye. So Thatha sees the cat.",
+     "kid": "Practice chain: a torch, a cat, Thatha's eye. Light goes from the torch to the cat. It bounces into Thatha's eye. Which way do the arrows point?",
      "check": {
       "t": "mcq",
-      "q": "In the chain 'torch, cat, Grandpa's eye', which way does the light go between the cat and Grandpa?",
+      "q": "In the chain 'torch, cat, Thatha's eye', which way does the light go between the cat and Thatha?",
       "options": [
-       "From Grandpa's eye to the cat",
-       "From the cat into Grandpa's eye",
+       "From Thatha's eye to the cat",
+       "From the cat into Thatha's eye",
        "Both ways at once"
       ],
       "a": 1,
-      "why": "Light bounces off the cat and travels into Grandpa's eye. That is how he sees the cat. Picking 'from Grandpa's eye to the cat' is the very old idea that eyes send out rays. Ibn al-Haytham showed it is the other way round. Picking 'both ways' is close to how looking feels, but nothing that helps us see leaves the eye."
+      "why": "Light bounces off the cat and travels into Thatha's eye. That is how he sees the cat. Picking 'from Thatha's eye to the cat' is the very old idea that eyes send out rays. Ibn al-Haytham showed it is the other way round. Picking 'both ways' is close to how looking feels, but nothing that helps us see leaves the eye."
      }
     },
     {
@@ -2657,13 +2657,13 @@
   },
   {
    "id": "c2",
-   "title": "A Night Path for Nani",
+   "title": "A Night Path for Paati",
    "mins": 30,
    "context": "This is a design challenge. You must help a grandparent find the way from bed to the bathroom at night, without a bright light that wakes everyone up.",
-   "problem": "Nani gets up at night to go to the bathroom. When the light is switched on, everyone wakes up, and her eyes are dazzled. With the light off, she cannot see the step or the door. Design a way for her to see the path safely.",
+   "problem": "Paati gets up at night to go to the bathroom. When the light is switched on, everyone wakes up, and her eyes are dazzled. With the light off, she cannot see the step or the door. Design a way for her to see the path safely.",
    "constraints": [
     "It must not wake people sleeping in the room.",
-    "It must not dazzle Nani's eyes when she has been asleep.",
+    "It must not dazzle Paati's eyes when she has been asleep.",
     "Use things that are safe, cheap and easy to find."
    ],
    "materials": [
@@ -2687,8 +2687,8 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. At night, with the lights off, stand at Nani's bed with your child. 2. Wait a minute. 3. Ask what they can see along the path, and what they can't.",
-     "say": "Let's see the room the way Nani sees it at night. What can you see? What's invisible?",
+     "do": "1. At night, with the lights off, stand at Paati's bed with your child. 2. Wait a minute. 3. Ask what they can see along the path, and what they can't.",
+     "say": "Let's see the room the way Paati sees it at night. What can you see? What's invisible?",
      "kid": "At night, stand by the bed with a grown-up. Turn the lights off. Wait a minute. What can you see? What can't you see?",
      "context": "This is the first step of the night path challenge. You find out what a grandparent can and cannot see when walking at night.",
      "adult": true
@@ -2705,8 +2705,8 @@
      "id": "s3",
      "mins": 8,
      "do": "Ask your child to explain why their best idea works, using what they know about light and eyes.",
-     "say": "Why does your idea work? Tell me what the light does, and what Nani's eyes do.",
-     "kid": "Why does your idea work? Say what the light does. Say what Nani's eyes do.",
+     "say": "Why does your idea work? Tell me what the light does, and what Paati's eyes do.",
+     "kid": "Why does your idea work? Say what the light does. Say what Paati's eyes do.",
      "check": {
       "t": "mcq",
       "q": "Why does white tape on the edge of a step help someone see it at night?",
@@ -2723,7 +2723,7 @@
    "setup": [
     {
      "art": "A dark bedroom at night with a grandmother sitting up in bed and a faint step and door in front of her.",
-     "caption": "1. See the room the way Nani sees it at night."
+     "caption": "1. See the room the way Paati sees it at night."
     },
     {
      "art": "White tape stuck along the edge of a step and a small dim night-light plugged in near the floor.",

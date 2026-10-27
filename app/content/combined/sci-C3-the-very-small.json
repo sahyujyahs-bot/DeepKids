@@ -506,7 +506,7 @@
       },
       {
        "t": "mcq",
-       "p": "Riya, a girl in Class 3, cuts a paper strip in half 8 times. Her last piece is about 1 millimetre long. How many atoms long is it?",
+       "p": "Kavya, a girl in Class 3, cuts a paper strip in half 8 times. Her last piece is about 1 millimetre long. How many atoms long is it?",
        "opts": [
         "one atom",
         "millions of atoms",
@@ -610,7 +610,7 @@
       },
       {
        "t": "mcq",
-       "p": "Asha, a girl in Class 3, makes 50 pencil dots at a cross with her eyes closed. Where are most of the dots?",
+       "p": "Ayesha, a girl in Class 3, makes 50 pencil dots at a cross with her eyes closed. Where are most of the dots?",
        "opts": [
         "near the cross",
         "at the edge of the paper",
@@ -816,7 +816,7 @@
       },
       {
        "t": "write",
-       "p": "You cut a roti into smaller and smaller pieces. When does it stop being roti? Why?",
+       "p": "You cut a dosa into smaller and smaller pieces. When does it stop being dosa? Why?",
        "lines": 3
       }
      ]

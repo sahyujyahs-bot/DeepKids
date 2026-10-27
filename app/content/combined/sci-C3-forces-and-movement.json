@@ -6,7 +6,7 @@
  "n": "forces-and-movement",
  "title": "Measuring forces and friction",
  "source": "DeepKids Combined. Covers Cambridge Stage 3 Physics: push and pull, changing shape, how big is that force?, forcemeters, friction. No textbook needed.",
- "summary": "Your child already knows what forces do. Now they learn to measure them. They draw forces as arrows with size and direction, decide when forces are balanced, build their own forcemeter and measure in newtons, find the difference between mass (how much stuff) and weight (how hard the Earth pulls), test how big forces change shapes, and investigate friction: the force that slows things, makes heat and wears things out, but also lets us walk, write and hold hands. They discover why rolling beats sliding, and why the wheel mattered so much.",
+ "summary": "A push can be measured, just like a length. Your child draws forces as arrows, builds a forcemeter from a rubber band and measures forces in newtons. They learn the difference between mass (how much stuff) and weight (how hard the Earth pulls it). Then they test friction: the force that slows things, makes heat and wears things out, but also lets us walk, write and hold on. They find out why rolling is so much easier than sliding.",
  "builds_on": "Class 1: pushes and pulls; things don't start or stop by themselves; every push gets a push back; rubbing slows things. Class 2: the four jobs of a force, elastic and plastic, a bigger pull makes a bigger stretch, speed, falling and air resistance. Next: Class 4 uses forces in balance, simple machines, pressure and floating; Class 5 adds them all up in force diagrams, with air and water resistance, terminal speed and rockets.",
  "subconcepts": [
   "forces have a size and a direction, drawn as arrows",
@@ -36,7 +36,7 @@
  "words": [
   [
    "force",
-   "a push or a pull; it has a size and a direction"
+   "a push or a pull. It has a size and a direction."
   ],
   [
    "balanced forces",
@@ -48,7 +48,7 @@
   ],
   [
    "newton (N)",
-   "the unit we measure force in; a 100 g packet of salt pulls down with about 1 newton"
+   "the unit we measure force in. A 100 g packet of dal pulls down with about 1 newton."
   ],
   [
    "forcemeter",
@@ -94,7 +94,7 @@
      "kind": "warmup",
      "title": "Four jobs quiz",
      "mins": 6,
-     "do": "Ask: 'What can a force do?' (Start or stop, speed up or slow down, change direction, change shape.) 'What is elastic? Plastic?' Then ask your child to show you a force that does two jobs at once (kicking a rolling ball sideways: changes direction and speed). Ask: 'Last year we found you can push without being pushed back. True?' (False! Every push has a push back.)"
+     "do": "Ask: 'What can a force do?' (Start or stop, speed up or slow down, change direction, change shape.) 'What is elastic? Plastic?' Then ask your child to show you a force that does two jobs at once (kicking a rolling ball sideways: changes direction and speed). Ask: 'True or false: you can push something without it pushing back on you?' (False. Every push gets a push back.)"
     },
     {
      "kind": "do",
@@ -113,14 +113,14 @@
      "kind": "think",
      "title": "Are there forces when nothing moves?",
      "mins": 10,
-     "do": "Point at a book lying still on the table. Ask: 'Are there any forces on this book?' Many children say no. Hint: 'Why doesn't it fall?' The Earth pulls it down (gravity) and the table pushes it up (the support force; scientists also call it the normal force). Show it: put the book on a thin plastic ruler bridged between two tins, and watch the ruler bend. Say: 'The table bends too, a tiny bit, too little to see. Its atoms are squeezed closer to the book's atoms, and atoms that are squeezed together push each other apart. That push is the support force. Without it, gravity would pull the book, and you, right down towards the centre of the Earth.' Draw the book with two equal arrows, one up and one down."
+     "do": "Point at a book lying still on the table. Ask: 'Are there any forces on this book?' Many children say no. Hint: 'Why doesn't it fall?' The Earth pulls it down (gravity) and the table pushes it up (the support force; scientists also call it the normal force). Show it: lay a thin plastic ruler across two tins and put the book on it. The ruler bends. Say: 'The table bends too, but too little to see. Its atoms are squeezed together, and squeezed atoms push back. That push is the support force. Without it, the book would fall towards the centre of the Earth.' Draw the book with two equal arrows, one up and one down."
     }
    ],
    "need": [
     "a box",
     "a book",
     "a bag",
-    "a dupatta",
+    "an old towel",
     "a thin plastic ruler and two tins",
     "paper and pencil"
    ]
@@ -134,7 +134,7 @@
      "kind": "warmup",
      "title": "Guess the pull",
      "mins": 5,
-     "do": "Hand your child a 100 g packet (salt or dal), then a 1 kg packet of atta. Ask: 'How many times harder does the big one pull down on your hand?' Let them guess. (Ten times.) Ask: 'How could we measure a pull instead of guessing?' Remind them of last year's rubber band: more coins, more stretch."
+     "do": "Hand your child a 100 g packet (tea, rava or dal), then a 1 kg packet of rice. Ask: 'How many times harder does the big one pull down on your hand?' Let them guess. (Ten times.) Ask: 'How could we measure a pull instead of guessing?' Remind them of last year's rubber band: more coins, more stretch."
     },
     {
      "kind": "act",
@@ -147,7 +147,7 @@
      "kind": "talk",
      "title": "Meet Isaac Newton, and the apple",
      "mins": 8,
-     "do": "Say: 'The newton is named after Isaac Newton, who explained how forces make things move.' Then try the first challenge question: 'Did an apple really fall on his head?' Listen, then share what we actually know from the challenge hint. Ask: 'Who else's work did Newton build on?' (Galileo, Hooke and many others.)"
+     "do": "Say: 'The newton is named after Isaac Newton, an English scientist who explained how forces make things move.' Ask: 'Did an apple really fall on his head?' Listen. Then say: 'Newton told a friend that seeing an apple fall in his garden got him thinking. Nobody wrote that it hit his head. That part was added later.' Ask: 'Who else's work did Newton build on?' (Galileo, Hooke and many others.)"
     },
     {
      "kind": "review",
@@ -175,20 +175,20 @@
      "kind": "warmup",
      "title": "Kilograms or newtons?",
      "mins": 5,
-     "do": "Ask: 'When we buy 1 kg of rice, are we buying a pull?' Let them think. Say: 'Kilograms tell us how much stuff there is. Scientists call that mass. Newtons tell us how hard the Earth pulls it. That pull is called weight. In daily life we mix them up, and that's OK at the shop, but scientists keep them apart.'"
+     "do": "Ask: 'When we buy 1 kg of rice, are we buying a pull?' Let them think. Say: 'Kilograms tell us how much stuff there is. Scientists call that mass. Newtons tell us how hard the Earth pulls it. That pull is called weight. At the shop we mix them up, and that is fine. Scientists keep them apart.'"
     },
     {
      "kind": "exp",
      "title": "Weigh and pull",
      "mins": 15,
-     "do": "Do Experiment e3: put five things on a kitchen scale and write their mass in grams, then hang each from the forcemeter and write the pull in newtons. Ask: 'Do you see a pattern?' (About 1 N for every 100 g.) 'So what would 1 kg of atta pull with?' (About 10 N.)",
+     "do": "Do Experiment e3: put five things on a kitchen scale and write their mass in grams, then hang each from the forcemeter and write the pull in newtons. Ask: 'Do you see a pattern?' (About 1 N for every 100 g.) 'So what would 1 kg of rice pull with?' (About 10 N.)",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "Your weight on the Moon",
      "mins": 10,
-     "do": "If you have a bathroom scale, your child stands on it and reads the number. Then they push down hard on a table beside them: the number drops. They bend their knees quickly: it jumps. Ask: 'Did you get lighter or heavier?' (No! The amount of you didn't change.) Say: 'The scale doesn't feel gravity. It feels how hard you press on it, and it pushes back the same. That push is what it shows.' Then ask: 'If you went to the Moon, would there be less of you?' (No, your mass stays the same.) 'Would the Moon pull you as hard?' (No, about one sixth as hard.) Work it out: a 30 kg child pulls down on Earth with about 300 N; on the Moon about 50 N. 'How high could you jump on the Moon?' (About six times higher.)"
+     "do": "If you have a bathroom scale, your child stands on it and reads the number. Then they push down hard on a table beside them: the number drops. They bend their knees quickly: the number jumps about. Ask: 'Did you get lighter or heavier?' (No. The amount of you didn't change.) Say: 'The scale doesn't feel gravity. It feels how hard you press on it, and it pushes back the same. That push is what it shows.' Then ask: 'If you went to the Moon, would there be less of you?' (No, your mass stays the same.) 'Would the Moon pull you as hard?' (No, about one sixth as hard.) Work it out: a 30 kg child pulls down on Earth with about 300 N; on the Moon about 50 N. 'How high could you jump on the Moon?' (About six times higher.)"
     },
     {
      "kind": "ws",
@@ -233,7 +233,7 @@
      "kind": "review",
      "title": "Shapes in the kitchen",
      "mins": 5,
-     "do": "Ask your child to show three shape-changing forces in the kitchen and say whether each is small or big: rolling a roti (medium), squeezing a lemon (medium), crushing garlic with a stone (big), tearing a tissue (small)."
+     "do": "Ask your child to show three shape-changing forces in the kitchen and say whether each is small or big: rolling chapati dough (medium), squeezing a lemon (medium), crushing garlic with a stone (big), tearing a curry leaf (small)."
     }
    ],
    "need": [
@@ -294,27 +294,27 @@
      "kind": "read",
      "title": "Story: Arjun's Wish",
      "mins": 11,
-     "do": "Read the story aloud. Don't explain it. Ask: 'List everything that went wrong without friction' and 'What did Arjun mean, friction was also what let him hold on?'"
+     "do": "Read the story aloud. Don't explain it. Ask: 'What went wrong when there was no friction?' and 'Arjun said friction was also what let him hold on. What did he mean?'"
     },
     {
      "kind": "exp",
      "title": "Surface test",
      "mins": 20,
-     "do": "Do Experiment e2: drag the same shoe with one packet inside across tiles, a durrie, a towel, a doormat and a steel plate, measuring the force three times on each. Ask: 'What did we keep the same?' (Shoe, weight, pulling slowly.) 'Which surface needed the biggest force? Why?' (Rough surfaces have more bumps that catch on each other.)",
+     "do": "Do Experiment e2: drag the same shoe with one packet inside across tiles, a cotton floor mat, a towel, a doormat and a steel plate, measuring the force three times on each. Ask: 'What did we keep the same?' (Shoe, weight, pulling slowly.) 'Which surface needed the biggest force? Why?' (Rough surfaces have more bumps that catch on each other.)",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Leonardo's surprise",
      "mins": 9,
-     "do": "Talk about voice v1. Then test Leonardo's claim: drag a brick-shaped box of books on its big face, then on its thin side, with the forcemeter. Ask: 'Did the touching area change the friction?' (Usually hardly at all.) Ask the voice's question.",
+     "do": "Talk about voice v1: Leonardo da Vinci found that friction hardly depends on how big the touching face is. Then test his claim: drag a brick-shaped box of books on its big face, then on its thin side, with the forcemeter. Ask: 'Did the touching area change the friction?' (Usually hardly at all.) Ask the voice's question.",
      "ref": "v1"
     }
    ],
    "need": [
     "the forcemeter",
     "the same shoe with one packet",
-    "tiles, a durrie, a towel, a doormat, a steel plate",
+    "tiles, a cotton floor mat, a towel, a doormat, a steel plate",
     "a brick-shaped box of books"
    ]
   },
@@ -333,19 +333,19 @@
      "kind": "do",
      "title": "Marble bearings",
      "mins": 10,
-     "do": "Put a heavy book flat on the table and try to spin it with one finger: hard. Now put a tin lid upside down, fill it with marbles, put the book on top and spin again: it whirls round. Ask: 'What changed?' (The marbles roll instead of the book rubbing.) Say: 'This is how ball bearings work, in cycles, fans and car wheels. Rolling has much less friction than sliding.'"
+     "do": "Put a heavy book flat on the table and try to spin it with one finger: hard. Now put a tin lid on the table, rim up, and fill it with marbles. Put the book on the marbles and spin it again: it turns easily. Ask: 'What changed?' (The marbles roll instead of the book rubbing.) Say: 'This is how ball bearings work, in cycles, fans and car wheels. Rolling has much less friction than sliding.'"
     },
     {
      "kind": "do",
-     "title": "Project: move Nani's trunk",
+     "title": "Project: move Paati's trunk",
      "mins": 25,
-     "do": "Say: 'Nani's heavy trunk needs to move across the room and she can't lift it.' Do the project: your child tests sliding, rollers (round pencils or rolling pins), a cloth underneath and toy-car wheels, measuring the force for each three times with the forcemeter. Help them keep it fair: same box, same floor, pull slowly. Ask: 'Which needed the smallest force? Why was the wheel such a big invention?'"
+     "do": "Say: 'Paati (Grandma) has a heavy trunk to move across the room, and she can't lift it.' Use a box full of books as the trunk. Your child tests sliding, rollers (round pencils or rolling pins), a cloth underneath and toy-car wheels, measuring the force for each three times with the forcemeter. Help them keep it fair: same box, same floor, pull slowly. Ask: 'Which needed the smallest force? Why was the wheel such a big invention?'"
     }
    ],
    "need": [
     "socks and rubber chappals",
     "a heavy book",
-    "a tin lid and 15 marbles",
+    "a tin lid and 15 marbles (or round dried peas)",
     "a box loaded with books",
     "round pencils or two rolling pins",
     "a cloth",
@@ -362,14 +362,14 @@
      "kind": "game",
      "title": "Friction Rally",
      "mins": 14,
-     "do": "Play the Friction Rally board game (g1). On each square your child must say whether friction is helping or causing trouble, and why, before following the square. Afterwards, do a 30-second slide-and-stop dance in socks on a smooth floor and then in bare feet: glide, then freeze when you clap. 'In which could you stop on the beat? Why?'",
+     "do": "Play the Friction Rally board game (g1). On each square your child must say whether friction is helping or causing trouble, and why, before following the square. Afterwards, your child dances for 30 seconds in socks on a smooth floor, then in bare feet, and freezes when you clap. Ask: 'In which could you stop at once? Why?' (Bare feet. They have more friction.)",
      "ref": "g1"
     },
     {
      "kind": "talk",
      "title": "Pouring water on sand",
      "mins": 12,
-     "do": "Talk about voice v2. A tomb painting in Egypt shows a giant statue on a sledge being pulled over sand while someone pours liquid in front. Ask: 'Why would you pour water on sand?' Then try it: drag a small box over dry sand and over slightly damp sand in a tray, using the forcemeter. Ask the voice's question.",
+     "do": "Talk about voice v2. A tomb painting in Egypt shows a giant statue on a sledge being pulled over sand while someone pours liquid in front. Ask: 'Why would you pour water on sand?' Then try it if you can get a little sand (from a plant shop or a building site): drag a small box over dry sand and over slightly damp sand in a tray, using the forcemeter. If you have no sand, just talk about it. Ask the voice's question.",
      "ref": "v2"
     },
     {
@@ -382,7 +382,7 @@
    ],
    "need": [
     "the printed board game, a die and counters",
-    "a tray of dry sand and a cup of water",
+    "a tray of dry sand and a cup of water (if you can get sand)",
     "a small box",
     "the forcemeter",
     "worksheet ws2"
@@ -404,7 +404,7 @@
      "kind": "think",
      "title": "Big questions",
      "mins": 10,
-     "do": "Pick two big questions: 'What would the world be like with no friction at all?' (You couldn't walk, write, tie a knot or stop a car; things would slide for ever.) 'Is there friction in space?' (Not between a spacecraft and empty space, but there is inside its machines.) Read the 'women who carry water' perspective and ask its question."
+     "do": "Pick two big questions: 'What would the world be like with no friction at all?' (You couldn't walk, write, tie a knot or stop a car; things would slide for ever.) 'Is there friction in space?' (Not between a spacecraft and empty space, but there is inside its machines.) Read the perspective about women who carry water on their heads, and ask its question."
     },
     {
      "kind": "check",
@@ -477,7 +477,7 @@
       },
       {
        "t": "mcq",
-       "p": "In a tug of war, team A pulls with a long arrow and team B with a short arrow. What happens?",
+       "p": "In a tug of war, Team A pulls harder than Team B. What happens?",
        "opts": [
         "nothing moves",
         "the rope moves towards team A",
@@ -592,7 +592,7 @@
         "writing with a pencil",
         "a squeaky door",
         "striking a match",
-        "a hot rubbing rope",
+        "a rope burning your hands in tug of war",
         "walking on a road",
         "a stiff cycle chain"
        ],
@@ -607,7 +607,7 @@
        "items": [
         "oil on a hinge",
         "treads on tyres",
-        "sand on an icy path",
+        "sand on a slippery path",
         "wheels under a trunk",
         "chalk on a climber's hands",
         "polishing a floor",
@@ -694,7 +694,7 @@
      [
       {
        "t": "mcq",
-       "p": "Moving Nani's trunk, which needed the smallest force?",
+       "p": "In the trunk project, you moved a heavy box of books. Which way needed the smallest force?",
        "opts": [
         "sliding it on the floor",
         "rolling it on wheels or rollers",
@@ -709,7 +709,7 @@
       },
       {
        "t": "write",
-       "p": "Rajasthani camel carts and old bullock carts were greased with oil. What would happen to the axle if they weren't?",
+       "p": "Old bullock carts had wooden wheels turning on wooden axles. People greased the axles with oil. What would happen if they didn't?",
        "lines": 2
       }
      ]
@@ -727,7 +727,7 @@
      [
       {
        "t": "write",
-       "p": "Arjun wished for no friction. Write three things that would go wrong in your house, and one thing that would be better.",
+       "p": "In the story, Arjun wished there was no friction. Write three things that would go wrong in your house, and one thing that would be better.",
        "lines": 3
       },
       {
@@ -791,7 +791,7 @@
       },
       {
        "t": "mcq",
-       "p": "Leonardo da Vinci said friction mostly depends on…",
+       "p": "Leonardo da Vinci, an Italian artist and scientist, tested blocks sliding on a table. He found that friction depends mostly on what?",
        "opts": [
         "how big the touching face is",
         "how hard the surfaces press together",
@@ -827,7 +827,7 @@
    ],
    "steps": [
     "Hook the forcemeter to the shoe's lace or heel.",
-    "Pull slowly and steadily along the floor; read the force while it's moving.",
+    "Pull slowly and steadily along the floor. Read the force while it's moving.",
     "Do it three times and write all three.",
     "Add one packet inside. Repeat three times.",
     "Add a second packet. Repeat."
@@ -846,12 +846,12 @@
    "need": [
     "the forcemeter",
     "the same shoe with one packet",
-    "4–5 surfaces: tiles, a durrie, a towel, a doormat, a steel plate"
+    "4–5 surfaces: tiles, a cotton floor mat, a towel, a doormat, a steel plate"
    ],
    "steps": [
     "Put the shoe on the first surface.",
-    "Pull slowly and steadily; read the force while moving.",
-    "Repeat three times; write the middle value.",
+    "Pull slowly and steadily. Read the force while it's moving.",
+    "Repeat three times. Write the middle value.",
     "Do the same on each surface.",
     "Put the surfaces in order from most to least friction."
    ],
@@ -904,7 +904,7 @@
    ],
    "predict": "Ask: 'Which ball will have the biggest flat patch?'",
    "observe": "The width of the flattened patch on each ball.",
-   "why": "A ball dropped from higher is moving faster when it hits, so the tile has to push harder to stop it. That bigger push squashes the clay more. Clay is plastic, so it keeps the squashed shape for us to measure; a rubber ball would squash too, but spring back.",
+   "why": "A ball dropped from higher is moving faster when it hits, so the tile has to push harder to stop it. That bigger push squashes the clay more. Clay is plastic, so it keeps the squashed shape for us to measure. A rubber ball would squash too, but it springs back.",
    "safety": "",
    "time": "22 min"
   }
@@ -918,13 +918,13 @@
    "need": [
     "a book",
     "a bag",
-    "a dupatta"
+    "an old towel"
    ],
    "steps": [
-    "Push a book from both sides with one finger each, the same strength: does it move?",
-    "Push harder on one side: what happens?",
-    "Hold a bag still: which forces are acting? (Your pull up, gravity down.)",
-    "Tug of war: when does the dupatta move?",
+    "Push a book from both sides with one finger each, equally hard. Does it move?",
+    "Push harder on one side. What happens?",
+    "Hold a bag still. Which forces are acting? (Your hand pulls up, gravity pulls down.)",
+    "Play tug of war with an old towel. When does the towel move?",
     "Draw arrows for each."
    ],
    "outcome": "Your child can say forces are balanced when nothing changes and unbalanced when something starts, stops or changes."
@@ -944,9 +944,9 @@
    ],
    "steps": [
     "Tape the rubber band to the top of the card strip so it hangs down along it.",
-    "Open a paper clip into a hook and hang it from the rubber band; hang the bag from the hook.",
+    "Open a paper clip into a hook and hang it from the rubber band. Hang the bag from the hook.",
     "Mark where the bottom of the band is with no load: write 0 N.",
-    "Add one 100 g packet; mark the new position: 1 N.",
+    "Add one 100 g packet. Mark the new position: 1 N.",
     "Add packets one at a time, marking 2 N, 3 N, 4 N.",
     "Hold the top and test it on things around the house."
    ],
@@ -954,7 +954,7 @@
   }
  ],
  "project": {
-  "title": "Move Nani's trunk",
+  "title": "Move Paati's trunk",
   "days": [
    7
   ],
@@ -996,10 +996,10 @@
    "Ball bearings in a fan: +2",
    "Rope burn in tug of war: back 1",
    "Match strikes and lights: +1",
-   "Ice-cream slides off a steel plate: back 1",
+   "Oily hands drop a steel tumbler: back 1",
    "Sand on a slippery path: +2",
    "Shoes wearing out: back 1",
-   "Wheels on Nani's trunk: +3",
+   "Wheels on Paati's trunk: +3",
    "Rub hands to stay warm: +1",
    "Skidding on marbles: back 2",
    "FINISH"
@@ -1015,7 +1015,7 @@
  "challenge": [
   {
    "q": "The famous story says an apple fell on Isaac Newton's head and he discovered gravity. Is that true?",
-   "hint": "Newton told a friend, William Stukeley, many years later, that seeing an apple fall in his garden got him thinking about why things always fall straight down. Nobody recorded it hitting his head; that part was added later. And his ideas took about 20 years of hard work, building on Galileo, Kepler, Hooke and others, not one moment. Ask: why do people like 'one big moment' stories?"
+   "hint": "Newton told a friend, William Stukeley, many years later, that seeing an apple fall in his garden got him thinking about why things always fall straight down. Nobody recorded it hitting his head. That part was added later. And his ideas took about 20 years of hard work, building on Galileo, Kepler, Hooke and others, not one moment. Ask: why do people like 'one big moment' stories?"
   },
   {
    "q": "We say smooth surfaces have less friction. Is that always true?",
@@ -1023,13 +1023,13 @@
   },
   {
    "q": "People say 'I weigh 30 kilograms'. Is that right?",
-   "hint": "Strictly, kilograms measure mass (how much of you there is). Your weight is the pull of gravity on you, about 300 newtons on Earth. Everyone says kilograms in daily life, and that's fine; but on the Moon your kilograms stay the same and your newtons drop to about 50."
+   "hint": "Strictly, kilograms measure mass (how much of you there is). Your weight is the pull of gravity on you, about 300 newtons on Earth. Everyone says kilograms in daily life, and that's fine. But on the Moon your kilograms stay the same and your newtons drop to about 50."
   }
  ],
  "perspectives": [
   {
-   "who": "A traditional oil-press (kolhu) worker",
-   "view": "Wooden oil presses and bullock-cart axles were greased with oil or ghee to stop them squeaking and wearing out. Ask: why does oil help, and what did people use before machine oil?"
+   "who": "A worker at a wooden oil press (chekku)",
+   "view": "In a chekku, a wooden pole grinds sesame or coconut inside a wooden bowl to press out oil. Wooden presses and bullock-cart axles were greased with oil so they would not squeak and wear out. Ask: why does oil help?"
   },
   {
    "who": "A rock climber",
@@ -1037,15 +1037,15 @@
   },
   {
    "who": "Women who carry water on their heads",
-   "view": "In many villages in India and Africa, women carry heavy pots of water on their heads, balanced on a cloth ring. In 1986, scientists studying women in Kenya found they could carry loads of up to a fifth of their body weight using almost no extra energy, something soldiers with backpacks could not do. Nobody wrote a textbook about how they learned it. Ask: who taught them? Should they be called scientists?"
+   "view": "In many villages in India and Africa, women carry heavy pots of water on their heads, balanced on a cloth ring. In 1986, scientists studying women in Kenya found they could carry loads of up to a fifth of their body weight using almost no extra energy. Army recruits carrying the same load in backpacks could not do this. Ask: how do you think the women learned it?"
   },
   {
    "who": "A gecko",
-   "view": "A gecko can run up glass and across a ceiling. Its toes have millions of tiny hairs that get so close to a surface that tiny attractive forces between atoms hold it on. Ask: what could people learn from a gecko?"
+   "view": "A gecko hunts insects on walls and ceilings, so it must not fall. Its toes have millions of tiny hairs. They get so close to a surface that tiny forces between atoms hold the gecko on, even on glass. Ask: what could people learn from a gecko?"
   },
   {
    "who": "An ice skater and a kabaddi player",
-   "view": "A skater wants almost no friction and glides; a kabaddi player in bare feet on mud wants lots of grip to stop and turn. Ask: is friction good or bad, or does it depend on what you want to do?"
+   "view": "A skater wants almost no friction, so she can glide. A kabaddi player in bare feet on mud wants lots of grip to stop and turn. Ask: is friction good or bad, or does it depend on what you want to do?"
   }
  ],
  "voices": [
@@ -1096,7 +1096,7 @@
  "check": [
   {
    "q": "What does a longer force arrow mean? What does it mean when two arrows are equal and opposite?",
-   "a": "A bigger force; the forces are balanced, so nothing changes."
+   "a": "A longer arrow means a bigger force. Equal and opposite arrows mean the forces are balanced, so nothing changes."
   },
   {
    "q": "What do we measure forces in, and with what?",
@@ -1104,15 +1104,15 @@
   },
   {
    "q": "What's the difference between mass and weight?",
-   "a": "Mass is how much stuff (kg); weight is how hard gravity pulls it (N). On the Moon mass stays the same and weight is about a sixth."
+   "a": "Mass is how much stuff, in kilograms. Weight is how hard gravity pulls it, in newtons. On the Moon your mass stays the same and your weight is about a sixth."
   },
   {
    "q": "What is friction, and which way does it act?",
-   "a": "A force between surfaces rubbing together; it acts against the movement."
+   "a": "Friction is a force between surfaces that rub together. It acts against the movement."
   },
   {
    "q": "Which has more friction: a doormat or a steel plate? Why?",
-   "a": "The doormat; its rough bumps catch more."
+   "a": "The doormat. Its rough bumps catch on the shoe more."
   },
   {
    "q": "Why is rolling easier than sliding?",
@@ -1120,7 +1120,7 @@
   },
   {
    "q": "In our surface test, what did we keep the same and what did we change?",
-   "a": "Same shoe, same weight, same pulling; we changed only the surface."
+   "a": "We kept the same shoe, the same weight and the same slow pull. We changed only the surface."
   },
   {
    "q": "A book lies still on a table. Are there forces on it?",
@@ -1131,34 +1131,34 @@
   "title": "Arjun's Wish",
   "text": [
    "Arjun's cycle was old and heavy, and the road to school went up a hill, and every morning he hated it. \"If only nothing ever rubbed,\" he said, puffing, his legs burning. \"If only wheels slid along like butter. If only there were no friction at all.\"",
-   "That evening, sitting on the roof, he saw a small gecko on the warm wall. It looked at him with its golden eyes. \"Is that your wish?\" said the gecko. (Arjun was so surprised that he forgot to be surprised.) \"No more rubbing? No more friction, anywhere?\"",
+   "That evening, sitting on the roof, he saw a small gecko on the warm wall. It looked at him with its golden eyes. \"Is that your wish?\" said the gecko. \"No more rubbing? No more friction, anywhere?\"",
    "\"Yes!\" said Arjun.",
    "\"Then sleep,\" said the gecko, \"and in the morning, we shall see.\"",
    "In the morning Arjun swung his legs out of bed, stood up, and immediately fell flat on his back. His feet had shot out from under him as if the floor were made of ice. He tried to crawl, but his hands slid. He grabbed the bed, but his fingers slipped off it like wet soap. Everything was slippery. Everything.",
-   "From the kitchen came a clatter and a cry: Amma's steel plate had slid off the counter, and the rotis were skating across the floor. His little sister's hair ribbons slithered out of their knots and floated to the ground. Downstairs, a scooter that tried to brake simply kept going, sliding gently and helplessly down the lane.",
+   "From the kitchen came a clatter and a cry: Amma's steel plate had slid off the counter, and the dosas were skating across the floor. His little sister's hair ribbons slithered out of their knots and floated to the ground. Downstairs, a scooter that tried to brake simply kept going, sliding gently and helplessly down the lane.",
    "Arjun lay on the floor and tried to think. He reached for his school notebook to write down what was happening, the way his teacher said scientists do. But the pencil slid across the page and left no mark at all, not a single grey line. Without rubbing, the pencil couldn't leave any of itself behind. His shoelaces had untied themselves and lay like two limp worms. Even the knot in the clothes line on the balcony had slipped apart, and all the washing lay in a heap below.",
    "Outside, the women at the tap were trying to carry their water pots home. Arjun had seen them every day of his life, walking tall and straight with the pots on their heads, on a little cloth ring that held them steady. But this morning the pots slid off the rings, and the rings slid off their heads, and water went everywhere.",
-   "Arjun's Nani was the worst. She was old and her legs were weak, and every day he held her hand to help her down the stairs. Now he reached for her hand, and it slid out of his. He tried again, and again it slipped, like trying to hold a fish. Nani was standing at the top of the stairs, frightened, and he could not hold on to her.",
+   "Arjun's Paati, his grandmother, was the worst. She was old and her legs were weak, and every day he held her hand to help her down the stairs. Now he reached for her hand, and it slid out of his. He tried again, and again it slipped, like trying to hold a fish. Paati was standing at the top of the stairs, frightened, and he could not hold on to her.",
    "\"Gecko!\" Arjun shouted. \"Gecko, I take it back! I take it all back!\"",
    "The gecko was on the ceiling, upside down, perfectly still. Its feet were the only things in the whole house not slipping. \"Do you, now?\" it said. \"But friction was slowing you down. It made your legs burn. It wore out your shoes.\"",
    "\"I know,\" said Arjun, and he was nearly crying. \"But it was also what let me hold on.\"",
    "The gecko blinked once, slowly. And the floor stopped being ice.",
-   "Arjun ran to the stairs and took Nani's hand, and her dry, wrinkled fingers held his, and his held hers, and they did not slip. They went down the stairs together, one step at a time.",
+   "Arjun ran to the stairs and took Paati's hand, and her dry, wrinkled fingers held his, and his held hers, and they did not slip. They went down the stairs together, one step at a time.",
    "That morning he pushed his heavy cycle up the hill, and his legs burned, and he did not complain once. At the top, he stopped and put his hand on the warm road and said, very quietly, so nobody would hear: \"Thank you.\""
   ],
-  "epiphany": "Friction is a force between surfaces that slows things down, and it is also what lets us walk, grip, write, tie knots, brake, carry loads and hold hands. The turn is the moment Nani's hand slips. The idea under it: the same force that makes life hard is what lets us hold on to each other.",
+  "epiphany": "Friction is a force between surfaces that slows things down, and it is also what lets us walk, grip, write, tie knots, brake, carry loads and hold hands. The turn is the moment Paati's hand slips. The idea under it: the same force that makes life hard is what lets us hold on to each other.",
   "ask": [
    "List everything that went wrong without friction. Can you add more?",
    "Why couldn't the pencil write?",
    "Why did the women's water pots slide off?",
    "Arjun said friction 'was also what let me hold on'. What did he mean?",
-   "Is there anything in your life that is hard but also helps you?"
+   "Name one place in your home where you want more friction, and one where you want less."
   ]
  },
  "ideas": [
   {
    "idea": "The force that slows us is also the force that lets us hold on.",
-   "more": "Without friction you couldn't walk, write, tie a knot, hold a cup, or play a violin. It wears things out and turns movement into heat, and it holds the world together."
+   "more": "Without friction you couldn't walk, write, tie a knot or hold a cup. Friction also wears things out and turns movement into heat."
   },
   {
    "idea": "A feeling can become a number.",
@@ -1166,7 +1166,7 @@
   },
   {
    "idea": "You are the same stuff everywhere, but your weight depends on where you stand.",
-   "more": "Your mass is how much of you there is; your weight is a pull between you and a planet. On the Moon you'd weigh a sixth as much without losing a single gram."
+   "more": "Your mass is how much of you there is. Your weight is how hard a planet pulls you. On the Moon you'd weigh a sixth as much without losing a single gram."
   },
   {
    "idea": "Balanced forces are everywhere, even when nothing moves.",

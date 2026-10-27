@@ -269,11 +269,11 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Child mode:* Count your leaf tokens. Which home was the cleverest? Say why.
   - Think: Which animal home near your house could you go and look at tomorrow?
 ### g2 · Day Shift, Night Shift (15 min)
-- **rules:** Put the SUN sign at one end of the room and the MOON sign at the other end. Put the SUNSET LINE in the middle, on a strip of tape or a dupatta.; The caller reads one animal card aloud.; Everyone runs to the sign for when that animal is busiest: SUN, MOON or the SUNSET LINE.; The caller reads the answer on the back. Everyone who was right scores a point.; Anyone who can say why that animal is busy at that time scores a bonus point.; After 12 cards, swap the caller. The player with the most points wins.
+- **rules:** Put the SUN sign at one end of the room and the MOON sign at the other end. Put the SUNSET LINE in the middle, on a strip of tape or an old sari.; The caller reads one animal card aloud.; Everyone runs to the sign for when that animal is busiest: SUN, MOON or the SUNSET LINE.; The caller reads the answer on the back. Everyone who was right scores a point.; Anyone who can say why that animal is busy at that time scores a bonus point.; After 12 cards, swap the caller. The player with the most points wins.
 - **Printable cards: 24 animal calling cards:** Crow; Owl; Fruit bat; Palm squirrel; House gecko; Butterfly; Mosquito; Firefly; Pigeon; Cockroach; Honey bee; Jackal; Myna; Moth; Frog; Kingfisher; Tiger; Leopard; Deer; Earthworm; Rooster; Bulbul; Rat; Night heron
 - **Printable board: Three signs for the floor:** SUN: day animals (diurnal); MOON: night animals (nocturnal); SUNSET LINE: dawn and dusk animals (crepuscular)
 - **s1 (2 min)**  
-  *Parent does:* 1. Tape the SUN sign to one wall and the MOON sign to the opposite wall. 2. Lay a dupatta across the middle of the floor. 3. Shuffle the cards.  
+  *Parent does:* 1. Tape the SUN sign to one wall and the MOON sign to the opposite wall. 2. Lay an old sari across the middle of the floor. 3. Shuffle the cards.  
   *Parent says:* Some animals work the day shift, some work the night shift, and some work at dawn and dusk. When I call an animal, run to its shift.  
   *Child mode:* Sun is for day animals. Moon is for night animals. The middle line is for dawn and dusk. Get ready to run!
 - **s2 (3 min)**  

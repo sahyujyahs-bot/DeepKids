@@ -2,7 +2,7 @@
  "id": "sci.making-things.biomimicry.L3",
  "title": "Biomimicry: copying how living things solve their problems",
  "level": 3,
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, with the materials listed. Fixes made. Leaves must be held by the stalk, because touching rubs off the wax (old or bruised leaves work less well, so pick a fresh one, and use an outer cabbage leaf if no arbi or lotus leaf can be found). The splash test counts wet spots on newspaper, because splash height is too hard to measure; the water must be 3 cm below the rim, and a beak that tumbles is dropped again from 20 cm. The ice test uses lidded cups and checks every 10 minutes. A bare cup's ice lasts about 20 to 40 minutes in strong sun. Wet cloth works less well on humid monsoon days. The Sock Walk works best from September to February and only on short weeds with a grown-up, because of snakes. Paperclip hooks must be small, and a grown-up bends them if the ends are sharp. Candle soot and the flame are grown-up steps, with a 2-minute cooling time. Cling film also holds partly by static, which the activity says honestly. Both games have rules for playing alone. Parents should know that the ice test needs about an hour, mostly waiting, so play the matching game in the shade meanwhile.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, with the materials listed. Fixes made. Leaves must be held by the stalk, because touching rubs off the wax (old or bruised leaves work less well, so pick a fresh one, and use an outer cabbage leaf if no chembu or lotus leaf can be found). The splash test counts wet spots on newspaper, because splash height is too hard to measure; the water must be 3 cm below the rim, and a beak that tumbles is dropped again from 20 cm. The ice test uses lidded cups and checks every 10 minutes. A bare cup's ice lasts about 20 to 40 minutes in strong sun. Wet cloth works less well on humid monsoon days. The Sock Walk works best from September to February and only on short weeds with a grown-up, because of snakes. Paperclip hooks must be small, and a grown-up bends them if the ends are sharp. Candle soot and the flame are grown-up steps, with a 2-minute cooling time. Cling film also holds partly by static, which the activity says honestly. Both games have rules for playing alone. Parents should know that the ice test needs about an hour, mostly waiting, so play the matching game in the shade meanwhile.",
  "summary": {
   "text": "Every plant and animal has problems to solve in its own life. A burdock plant must send its seeds far away, so its burrs carry hooks that catch on animal fur. A lotus leaf must stay clean in a muddy pond, so tiny waxy bumps make rain roll off and take the dirt with it. A kingfisher must dive without a splash that warns the fish, so its beak widens very slowly. These designs got better over many generations. People who studied them closely copied them, and made Velcro, self-cleaning paint and a quieter bullet train. Copying how a living thing solves a problem is called biomimicry.",
   "art": "A child's notebook page: on the left a burr, a lotus leaf, a kingfisher, a gecko and a termite mound, and on the right, joined by dotted arrows, a Velcro strap, a raindrop rolling off a wall, a bullet train, a robot hand and a cool building."
@@ -80,7 +80,7 @@
   {
    "term": "Lotus effect",
    "meaning": "The way some leaves keep themselves clean. Tiny waxy bumps make water roll off in balls, and the balls carry the dirt away.",
-   "example": "After rain, lotus and arbi (colocasia) leaves have silver balls of water rolling on them, and look spotless.",
+   "example": "After rain, lotus and chembu (colocasia, also called arbi) leaves have silver balls of water rolling on them, and look spotless.",
    "art": "A lotus leaf with shiny round water drops, one drop rolling and picking up dust."
   },
   {
@@ -191,7 +191,7 @@
    "definition": "A lotus leaf is covered in tiny bumps, and the bumps are coated in even tinier bits of wax. Water cannot spread on it, so it makes balls that roll off and carry dirt away. Scientists call this the lotus effect.",
    "description": "A lotus grows in muddy ponds, and its big round leaves lie open to the sky. Dust, splashes of mud and the spores of fungi land on them all the time. Dirt on a leaf blocks the sunlight it needs to make its food. Spores and germs left on a leaf can make it sick. Yet lotus leaves look clean. In the 1970s, a German plant scientist called Wilhelm Barthlott looked at leaves with a very powerful microscope, called a scanning electron microscope. The lotus leaf was not smooth at all. It was covered in tiny bumps, and the bumps were coated with even tinier bits of wax. A water drop rests only on the tips of the bumps, with air underneath. So it stays round and rolls off at the smallest tilt. Dirt grips the water better than it grips the waxy tips, so each rolling drop picks up dirt and carries it away. Every shower of rain washes the leaf. Over many generations, lotus plants whose leaves stayed cleaner grew better and left more seeds. Barthlott and Christoph Neinhuis described the lotus effect in 1997. In the late 1990s, a paint company made an outside wall paint with the same kind of tiny bumps, so that rain washes the wall clean.",
    "examples": [
-    "Arbi (colocasia) leaves, nasturtium leaves and cabbage leaves show the same effect.",
+    "Chembu (colocasia, also called arbi) leaves, nasturtium leaves and cabbage leaves show the same effect.",
     "Self-cleaning paint, glass and cloth copy the lotus effect.",
     "Touching a lotus leaf rubs off its wax. Then that spot gets wet like an ordinary leaf."
    ],
@@ -310,7 +310,7 @@
    "description": "In 1996, the Eastgate Centre opened in Harare, the capital city of Zimbabwe in Africa. Its architect, Mick Pearce, studied termite mounds. The building has thick concrete walls and floors that soak up heat slowly in the day. At night, fans pull cool outside air through hollow spaces in the floors, and warm air leaves through chimneys on the roof. Its designers reported that it uses much less energy for cooling than similar buildings. The building was based on the old chimney idea of how mounds work. Scientists later found mounds work differently. The building still works well. So a copy can be useful even when the original is not fully understood. In India, old houses with thick mud walls, small windows and courtyards also stay cool in the heat.",
    "examples": [
     "Thick mud walls of village houses keep rooms cool in summer.",
-    "A matka, an earthen pot, keeps water cool because water seeps through its clay and evaporates from the outside, and that carries heat away."
+    "A clay water pot (a matka or kooja), keeps water cool because water seeps through its clay and evaporates from the outside, and that carries heat away."
    ],
    "perspectives": [],
    "art": "A tall building with chimneys on its roof next to a termite mound with the same shape, cool blue arrows flowing through both at night.",
@@ -491,7 +491,7 @@
   {
    "q": "Why does a lotus leaf stay clean, when a shiny steel plate does not?",
    "kind": "deep",
-   "hint": "Look at a lotus or arbi leaf with a magnifying glass. Is it really smooth?"
+   "hint": "Look at a lotus or chembu leaf with a magnifying glass. Is it really smooth?"
   },
   {
    "q": "Sharks, dolphins and kingfishers are not close relatives. Why do they share the same pointed shape?",
@@ -734,7 +734,7 @@
       "3 My name label gets muddy in the rain",
       "4 My paper boat sinks and gets soggy",
       "5 My toy car is slow and noisy",
-      "6 Grandpa's chappal slips on the wet bathroom floor"
+      "6 Thatha's chappal slips on the wet bathroom floor"
      ]
     },
     {
@@ -804,7 +804,7 @@
        "Make it pointed like a beak"
       ],
       "a": 0,
-      "why": "A termite mound's thick earth walls slow down the heat getting in. A thick cloth jacket does the same for a bottle. Wetting the cloth helps even more, like a matka. Picking 'pointed like a beak' mixes up the designs. A pointed shape helps with moving through air or water, not with heat."
+      "why": "A termite mound's thick earth walls slow down the heat getting in. A thick cloth jacket does the same for a bottle. Wetting the cloth helps even more, like a clay water pot. Picking 'pointed like a beak' mixes up the designs. A pointed shape helps with moving through air or water, not with heat."
      }
     },
     {
@@ -900,15 +900,15 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the leaf experiment, where you dripped water on four surfaces and tilted them. On the arbi leaf, the drops looked like…",
+     "p": "Remember the leaf experiment, where you dripped water on four surfaces and tilted them. On the chembu leaf, the drops looked like…",
      "opts": [
       "Round silver balls that rolled away",
       "Flat puddles that soaked in",
       "Nothing, the water disappeared"
      ],
      "a": 0,
-     "why": "On an arbi or lotus leaf, the drops stay round like little silver balls. They roll off at a small tilt. Picking 'flat puddles' describes what happens on paper or an ordinary leaf.",
-     "context": "In the leaf experiment, you put drops of water on an arbi leaf, an ordinary leaf, a steel plate and paper.",
+     "why": "On a chembu or lotus leaf, the drops stay round like little silver balls. They roll off at a small tilt. Picking 'flat puddles' describes what happens on paper or an ordinary leaf.",
+     "context": "In the leaf experiment, you put drops of water on a chembu leaf, an ordinary leaf, a steel plate and paper.",
      "how": "e1"
     },
     {
@@ -1025,7 +1025,7 @@
       "They all melted at exactly the same time"
      ],
      "a": 0,
-     "why": "Thick walls slow down the heat getting in, so the ice melts more slowly. A wet cloth also cools as its water dries, like a matka. Picking 'all the same' forgets that only the walls were different.",
+     "why": "Thick walls slow down the heat getting in, so the ice melts more slowly. A wet cloth also cools as its water dries, like a clay water pot. Picking 'all the same' forgets that only the walls were different.",
      "context": "In the ice experiment, you put an ice cube in each of three cups with different walls, and left them in the sun.",
      "how": "e3"
     },
@@ -1243,7 +1243,7 @@
      "t": "write",
      "p": "Your water bottle gets warm in the sun on the way to school. Use an idea from nature to make a cover for it. Say how you would test it.",
      "lines": 4,
-     "a": "I would copy the termite mound's thick walls, and the matka. I would make a thick cotton cover and wet it before I leave. To test it, I would put two bottles in the sun, one with the cover, and feel which is cooler after an hour.",
+     "a": "I would copy the termite mound's thick walls, and the clay water pot. I would make a thick cotton cover and wet it before I leave. To test it, I would put two bottles in the sun, one with the cover, and feel which is cooler after an hour.",
      "why": "A good answer names an idea from nature, explains how the cover uses it, and describes a fair test with only one thing changed."
     }
    ]
@@ -1448,7 +1448,7 @@
    ],
    "materials": [
     {
-     "item": "one water-repelling leaf: an arbi (colocasia) leaf from the vegetable market, a lotus leaf, a nasturtium leaf, or the outer leaf of a cabbage",
+     "item": "one water-repelling leaf: a chembu (colocasia, also called arbi) leaf from the vegetable market, a lotus leaf, a nasturtium leaf, or the outer leaf of a cabbage",
      "qty": 1
     },
     {
@@ -1498,7 +1498,7 @@
      "do": "1. Lay the four surfaces flat on a tray or the floor. They are the water-repelling leaf, the ordinary leaf, the steel plate and the paper. 2. Hold each leaf only by its stalk or its edge. 3. Ask your child to guess what water will do on each.",
      "say": "Don't touch the top of the leaves with your fingers. Your fingers can rub off the leaf's coat of wax. What do you think water will do on each one?",
      "kid": "Lay out the two leaves, the steel plate and the paper. Hold leaves by the stalk only. Guess: on which one will water roll?",
-     "parent": "Touching or rubbing the top of a lotus or arbi leaf wipes off its wax. Then that spot gets wet like any leaf. Old, dusty or bruised leaves work less well. Pick a fresh one.",
+     "parent": "Touching or rubbing the top of a lotus or chembu leaf wipes off its wax. Then that spot gets wet like any leaf. Old, dusty or bruised leaves work less well. Pick a fresh one.",
      "context": "This is the first step of The Leaf That Water Can't Wet. You set out a lotus-like leaf and three other surfaces to test with water."
     },
     {
@@ -1509,7 +1509,7 @@
      "kid": "Put 5 drops on each one. Get your eyes down low. Look from the side. Balls, domes, or flat puddles?",
      "ask": [
       {
-       "q": "What do the drops on the arbi leaf look like?",
+       "q": "What do the drops on the chembu leaf look like?",
        "good": [
         "Little silver balls.",
         "Like marbles.",
@@ -1517,7 +1517,7 @@
        ]
       }
      ],
-     "parent": "On a good arbi or lotus leaf, the drops look like silver balls or beads of mercury. On steel, they are low domes. On paper, they soak in within a minute. On an ordinary leaf, they spread into flat puddles. On a cabbage leaf, the drops bead up well but are a little flatter than on arbi."
+     "parent": "On a good chembu or lotus leaf, the drops look like silver balls or beads of mercury. On steel, they are low domes. On paper, they soak in within a minute. On an ordinary leaf, they spread into flat puddles. On a cabbage leaf, the drops bead up well but are a little flatter than on chembu."
     },
     {
      "id": "s3",
@@ -1529,12 +1529,12 @@
       "t": "mcq",
       "q": "On which surface did the drops roll off most easily?",
       "options": [
-       "The arbi or lotus leaf",
+       "The chembu or lotus leaf",
        "The paper",
        "The ordinary leaf"
       ],
       "a": 0,
-      "why": "The arbi or lotus leaf is covered in tiny waxy bumps. A drop sits only on the bump tips, with air under it, so it stays round and rolls at a small tilt. Paper pulls the water in, so it soaks. Picking the ordinary leaf usually means thinking all leaves are the same. Most leaves have no bumps like this, so water spreads on them."
+      "why": "The chembu or lotus leaf is covered in tiny waxy bumps. A drop sits only on the bump tips, with air under it, so it stays round and rolls at a small tilt. Paper pulls the water in, so it soaks. Picking the ordinary leaf usually means thinking all leaves are the same. Most leaves have no bumps like this, so water spreads on them."
      }
     },
     {
@@ -1562,7 +1562,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Now say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the arbi leaf keeps itself clean. What I saw: all 5 drops rolled off it, and they picked up the chalk dust. On paper, no drops rolled and the dust made a smudge. Why: the leaf has tiny waxy bumps, so water makes balls that roll and carry dirt away."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the chembu leaf keeps itself clean. What I saw: all 5 drops rolled off it, and they picked up the chalk dust. On paper, no drops rolled and the dust made a smudge. Why: the leaf has tiny waxy bumps, so water makes balls that roll and carry dirt away."
     }
    ],
    "example_chart": {
@@ -1573,7 +1573,7 @@
     "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
     "data": [
      {
-      "label": "Arbi leaf",
+      "label": "Chembu leaf",
       "value": 5,
       "emoji": "🍃"
      },
@@ -1596,15 +1596,15 @@
    },
    "setup": [
     {
-     "art": "A tray with an arbi leaf, a tulsi leaf, a steel plate and a sheet of paper laid side by side, a dropper beside them.",
+     "art": "A tray with a chembu leaf, a tulsi leaf, a steel plate and a sheet of paper laid side by side, a dropper beside them.",
      "caption": "1. Lay out the four surfaces. Hold leaves by the stalk."
     },
     {
-     "art": "Close side view of water drops: a round silver ball on the arbi leaf, a low dome on steel, a flat wet patch on paper.",
+     "art": "Close side view of water drops: a round silver ball on the chembu leaf, a low dome on steel, a flat wet patch on paper.",
      "caption": "2. Put 5 drops on each. Look at them from the side."
     },
     {
-     "art": "The arbi leaf tilted on a book, chalk dust on it, a drop rolling down and leaving a clean stripe behind it.",
+     "art": "The chembu leaf tilted on a book, chalk dust on it, a drop rolling down and leaving a clean stripe behind it.",
      "caption": "3. Tilt them on a book. Add dust. Watch the drops roll."
     }
    ]
@@ -1882,7 +1882,7 @@
      "say": "Let's peek every ten minutes. Lift the lid, look, and put it back quickly.",
      "kid": "Every 10 minutes, peek under each lid. Is the ice big, small or gone? Write it down.",
      "wait": "Check every 10 minutes until the ice in House A has melted. Leave the others until they melt too, if you can.",
-     "parent": "In strong Indian sun, the ice in a bare paper cup with a lid usually melts in about 20 to 40 minutes. While you wait, you can play Nature's Idea Match in the shade. The newspaper and wet-cloth houses often last twice as long or more. On a hot, dry day, the wet cloth often wins, because drying water takes heat away, like a matka. On a humid monsoon day, the wet cloth works less well. On a cloudy day, do the test indoors by a window. It will take about an hour, so check every 15 minutes."
+     "parent": "In strong Indian sun, the ice in a bare paper cup with a lid usually melts in about 20 to 40 minutes. While you wait, you can play Nature's Idea Match in the shade. The newspaper and wet-cloth houses often last twice as long or more. On a hot, dry day, the wet cloth often wins, because drying water takes heat away, like a clay water pot. On a humid monsoon day, the wet cloth works less well. On a cloudy day, do the test indoors by a window. It will take about an hour, so check every 15 minutes."
     },
     {
      "id": "s4",
@@ -1908,7 +1908,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Now say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: thick walls keep a house cooler, and wet thick walls are even better. What I saw: the bare cup's ice was gone at 25 minutes. The newspaper cup's lasted 50, and the wet cloth cup's 60. Why: thick walls slow the heat down, and drying water carries heat away, like on a matka."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: thick walls keep a house cooler, and wet thick walls are even better. What I saw: the bare cup's ice was gone at 25 minutes. The newspaper cup's lasted 50, and the wet cloth cup's 60. Why: thick walls slow the heat down, and drying water carries heat away, like on a clay water pot."
     }
    ],
    "example_chart": {
@@ -2527,7 +2527,7 @@
      "do": "Choose one problem. Then ask: which living thing has a problem like this, and how does it solve it? Use the cards from Nature's Idea Match if you made them.",
      "say": "Pick one problem. Now ask the inventor's question. Which living thing has a problem like this in its own life? How does it solve it?",
      "kid": "Pick one problem. Which plant or animal has this problem too? How does it solve it?",
-     "parent": "Helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the matka. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.",
+     "parent": "Helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the clay water pot. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.",
      "ask": [
       {
        "q": "What exactly will you copy, and what does it do for the living thing?",
@@ -2756,7 +2756,7 @@
    "creative": [
     "Crumple the paper and flatten it before waxing, to give it tiny bumps like a lotus leaf.",
     "Ask a grown-up to make a sooty Lotus Spoon, and compare how drops roll on it and on your tag.",
-    "Use a real arbi leaf as the tag, and scratch your name into it."
+    "Use a real chembu leaf as the tag, and scratch your name into it."
    ],
    "your_turn": "Now design your own rain-proof tag. Draw it, make it, and test it against the plain paper tag.",
    "flow": [
@@ -2950,12 +2950,12 @@
    "t": "mcq",
    "p": "On which surface did the drops roll off most easily in the leaf experiment?",
    "opts": [
-    "The arbi or lotus leaf",
+    "The chembu or lotus leaf",
     "The paper",
     "The steel plate"
    ],
    "a": 0,
-   "why": "On the arbi leaf, drops stay round and roll at a small tilt. Paper soaks water up. On steel, drops sit as domes and often stay put. Picking steel usually means thinking 'smooth and shiny means slippery for water'.",
+   "why": "On the chembu leaf, drops stay round and roll at a small tilt. Paper soaks water up. On steel, drops sit as domes and often stay put. Picking steel usually means thinking 'smooth and shiny means slippery for water'.",
    "outcome": 2,
    "context": "In the leaf experiment, you dripped 5 drops on each surface and tilted them on a book.",
    "how": "e1",
@@ -2966,7 +2966,7 @@
     "y": "Drops that rolled off",
     "data": [
      {
-      "label": "Arbi leaf",
+      "label": "Chembu leaf",
       "value": 5,
       "emoji": "🍃"
      },
@@ -3143,7 +3143,7 @@
   "Grippy shoe soles with grooves that let water out, like tree frog toe pads.",
   "Swimming goggles, gliders and aeroplane wings shaped after birds and fish.",
   "Hospitals testing gecko-inspired dry tapes that hold without glue and peel off gently.",
-  "Traditional thick-walled mud houses and earthen matkas that stay cool in Indian summers."
+  "Traditional thick-walled mud houses and earthen water pots that stay cool in Indian summers."
  ],
  "spotted": [
   {
@@ -3155,7 +3155,7 @@
    "art": "Socks covered with small hooked seeds."
   },
   {
-   "text": "Silver balls of rain rolling on lotus leaves in a temple tank, or on arbi leaves in a garden.",
+   "text": "Silver balls of rain rolling on lotus leaves in a temple tank, or on chembu leaves in a garden.",
    "art": "Raindrops like beads on a big lotus leaf."
   },
   {
@@ -3171,7 +3171,7 @@
    "art": "A tall reddish termite mound in a dry field."
   },
   {
-   "text": "A matka or surahi keeping water cool in summer.",
+   "text": "A clay water pot (kooja, matka or surahi) keeping water cool in summer.",
    "art": "An earthen pot with a damp outside, beads of water on it."
   },
   {
@@ -3220,7 +3220,7 @@
   "Which of your things uses Velcro? What did it copy?",
   "If you could copy one animal's design for your school bag, which would it be?",
   "Why are the noses of fast trains so long and pointed?",
-  "How does a matka keep water cool, without electricity?",
+  "How does a clay water pot keep water cool, without electricity?",
   "Is a bullet train natural or man-made?",
   "Who should get the credit for Velcro: the burr, the dog or the inventor?",
   "Which problem in our home could nature help us solve?",
@@ -3308,7 +3308,7 @@
    "a": "Anything with a good hook."
   },
   {
-   "j": "Why did the matka never get angry in summer?",
+   "j": "Why did the clay pot never get angry in summer?",
    "a": "It knew how to stay cool."
   },
   {
@@ -3443,7 +3443,7 @@
    "why_maths": "One try can be a fluke. Taking the middle of three tries, then drawing bars, shows the real difference between the shapes at a glance."
   },
   {
-   "problem": "Riya, a girl in Class 3, did the leaf experiment with 8 drops on each surface. She tilted the steel plate, and 4 drops rolled off. On the arbi leaf, all 8 rolled off. What fraction of the drops rolled off the steel plate?",
+   "problem": "Kavya, a girl in Class 3, did the leaf experiment with 8 drops on each surface. She tilted the steel plate, and 4 drops rolled off. On the chembu leaf, all 8 rolled off. What fraction of the drops rolled off the steel plate?",
    "answer": "Half of them.",
    "explain": "4 out of 8 drops rolled off. 4 is half of 8, because 4 + 4 = 8. So half the drops rolled off the steel. On the leaf, 8 out of 8 rolled off, which is all of them, the whole.",
    "math_unit": "math.fractions.halves-and-quarters.L3",
@@ -3764,9 +3764,9 @@
  "roots": {
   "context": "We have been learning how burdock plants, lotus leaves, kingfishers, geckos and termites solve problems in their own lives, and how people copied them. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "On the arbi leaf, your drops rolled into balls and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like it found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.",
-   "habit": "We think of inventing as something only people do, in workshops and labs. But the arbi leaf, the burdock and the kingfisher each solved a problem in their own lives long before any person copied them.",
-   "evidence": "Drops roll off an arbi leaf and take the dust with them, while paper soaks them up. Self-cleaning wall paint, first sold in the late 1990s, copies the same tiny waxy bumps."
+   "truth": "On the chembu leaf, your drops rolled into balls and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like it found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.",
+   "habit": "We think of inventing as something only people do, in workshops and labs. But the chembu leaf, the burdock and the kingfisher each solved a problem in their own lives long before any person copied them.",
+   "evidence": "Drops roll off a chembu leaf and take the dust with them, while paper soaks them up. Self-cleaning wall paint, first sold in the late 1990s, copies the same tiny waxy bumps."
   },
   "three": {
    "who_am_i": "Your hands and your brain were shaped over many generations too. When you invent, you do what living things have always done: solve the problems of your life.",
@@ -3808,7 +3808,7 @@
   "practice": {
    "title": "Watch one drop",
    "mins": 3,
-   "say": "Let's take a lotus or arbi leaf, or the sooty spoon, or a candle-waxed paper. I'll put one drop of water on it. Hold it very still. Breathe in slowly. Now tilt it, just a little, and breathe out slowly as the drop rolls. Watch it go all the way. Look at the leaf. Is it wet? Let's do it once more, in silence.",
+   "say": "Let's take a lotus or chembu leaf, or the sooty spoon, or a candle-waxed paper. I'll put one drop of water on it. Hold it very still. Breathe in slowly. Now tilt it, just a little, and breathe out slowly as the drop rolls. Watch it go all the way. Look at the leaf. Is it wet? Let's do it once more, in silence.",
    "kid": "Put one drop on a leaf. Hold still and breathe in. Tilt it slowly and breathe out as the drop rolls. Is the leaf still dry?"
   },
   "ask": [

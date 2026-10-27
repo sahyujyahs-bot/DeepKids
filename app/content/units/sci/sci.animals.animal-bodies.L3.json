@@ -2490,7 +2490,7 @@
      "qty": 1
     },
     {
-     "item": "foods: a bowl of water or juice, a bowl of water with poha floating in it, a few cooked noodles hidden in a tray of dry atta, some peanuts",
+     "item": "foods: a bowl of water or juice, a bowl of water with puffed rice floating in it, a few cooked noodles hidden in a tray of dry atta, some peanuts",
      "qty": 1
     },
     {
@@ -2510,11 +2510,11 @@
    "context": "In this activity you pretend different kitchen tools are animal mouths. You find which tool is best at which food, to see how animal mouths fit the way they get food.",
    "setup": [
     {
-     "art": "A table with a straw, a tea strainer, a clothes peg, tweezers and a spoon, and bowls of juice, floating poha, noodles in atta and peanuts.",
+     "art": "A table with a straw, a tea strainer, a clothes peg, tweezers and a spoon, and bowls of juice, floating puffed rice, noodles in atta and peanuts.",
      "caption": "1. Lay out the tool mouths and the foods."
     },
     {
-     "art": "A child using a tea strainer to scoop floating poha out of water, like a flamingo.",
+     "art": "A child using a tea strainer to scoop floating puffed rice out of water, like a flamingo.",
      "caption": "2. Try each tool on each food for 30 seconds."
     },
     {
@@ -2537,7 +2537,7 @@
        ]
       },
       {
-       "q": "Which was best at the floating poha?",
+       "q": "Which was best at the floating puffed rice?",
        "good": [
         "The tea strainer, because the water runs out and the food stays."
        ]
@@ -2793,7 +2793,7 @@
      "id": "s3",
      "mins": 7,
      "do": "Your child explains the design to someone in the family.",
-     "say": "Tell Nani or a friend about your animal. How does it breathe? How does it find food? What would happen to it if the river got dirtier?",
+     "say": "Tell Paati or a friend about your animal. How does it breathe? How does it find food? What would happen to it if the river got dirtier?",
      "kid": "Show your drawing to someone. Explain how it breathes and finds food.",
      "think": "Real Ganges river dolphins are in danger. The water is dirtier, and dams block their way. How could people help them?",
      "context": "This is the last step of Design a River-Bottom Hunter. You explain your design to someone."
@@ -3136,7 +3136,7 @@
   },
   {
    "text": "A line of ants marching to a dropped sweet.",
-   "art": "Ants on a kitchen floor in a line to a piece of jalebi."
+   "art": "Ants on a kitchen floor in a line to a drop of payasam."
   },
   {
    "text": "Mudskippers hopping on the mud in mangroves, in places like the Sundarbans and Bhitarkanika.",
@@ -3700,7 +3700,7 @@
   "practice": {
    "title": "Breath and the meal",
    "mins": 3,
-   "say": "Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, roti, dal, fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will that breath go next?",
+   "say": "Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, idli, sambar, fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will that breath go next?",
    "kid": "Sit tall. Close your eyes. Hold your hand in front of your mouth. Breathe out slowly. Feel the warm air. Think of what you ate today. Part of it is in that breath. Breathe in for four. Breathe out for six. Do five breaths."
   },
   "ask": [
@@ -3708,7 +3708,7 @@
    "A plant may take in the carbon dioxide you breathe out today. Is part of that plant then made from your lunch?",
    "An earthworm has no lungs, but its cells use oxygen just like yours. What does it really mean to breathe?"
   ],
-  "art": "A child breathing out onto a palm, with a soft stream of dots leaving the mouth towards a window and a potted tulsi plant, and a plate of rice and dal beside the child."
+  "art": "A child breathing out onto a palm, with a soft stream of dots leaving the mouth towards a window and a potted tulsi plant, and a plate of rice and sambar beside the child."
  },
  "how_we_found_out": {
   "story": "For about 2,000 years, many people followed the Greek thinker Aristotle, and later the doctor Galen. They taught that we breathe mainly to cool the heat of the heart. In the 1750s, the Scottish chemist Joseph Black found a gas he called 'fixed air'. It turned limewater milky. He found that breath turns limewater milky too, so breath carries fixed air. Today we call it carbon dioxide. In the 1770s and 1780s, the French chemist Antoine Lavoisier worked out what breathing does. With Pierre-Simon Laplace, he put a guinea pig in a box packed with ice. The animal's warmth melted the ice, and it breathed out carbon dioxide, like a slowly burning candle. So, Lavoisier said, breathing feeds a slow burning inside the body, which uses oxygen from the air. Marie-Anne Paulze Lavoisier worked beside him. She kept the lab notes, translated science from English, and drew the experiments on people breathing into masks. Breathing does not cool the heart. It brings in oxygen to use food, and carries the carbon dioxide away.",

@@ -124,7 +124,7 @@ Every atom has tiny electrons around it. When an atom gets extra energy, from he
 ### The long journey out of the Sun · *idea*
 Sunlight takes 8 minutes to reach us from the Sun's surface. But its energy was made deep in the Sun's centre. The Sun's insides are so crowded that a photon only goes a tiny way before it is swallowed by an atom and given out again in a random direction. So the energy wanders, bumping its way out, for a very long time. Scientists work this out with sums, because nobody can look inside the Sun. Their estimates range from about ten thousand to over one hundred thousand years.
 - e.g. The warmth on your face may have been made inside the Sun before people in India first grew wheat and barley.
-- e.g. Imagine trying to leave a packed railway platform at Diwali. You keep being pushed back. Energy leaving the Sun is a bit like that.
+- e.g. Imagine trying to leave a packed railway platform at Chennai Central just before Pongal. You keep being pushed back. Energy leaving the Sun is a bit like that.
 - e.g. Once it reaches the surface, the last part of the trip, to Earth, takes just 8 minutes.
 - **Astronomers who model the Sun:** Different ways of doing the sums give different answers, from about ten thousand to over one hundred thousand years. They agree it is a very long time.
 ### Light brings us news from space · *defined*
@@ -494,11 +494,11 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   *Parent says:* The nearest star after the Sun is called Proxima Centauri. Its light takes over 4 years to reach us. On our string, where every centimetre is a minute, it would be about 22 kilometres away. That is like a long drive across a big city!  
   *Child mode:* On this string, the nearest star would be 22 kilometres away. That is a long drive across a big city!
   - Think: When you see a star tonight, how old is the light you are seeing?
-### a3 · Ripples in a Thali: what is a wave? (20 min)
+### a3 · Ripples in an Uruli: what is a wave? (20 min)
 - **safety:** Mop up spilt water so nobody slips.
 - **record:** Draw the ripples from one coin. Then draw the ripples from two coins crossing each other.
 - **s1 (5 min)**  
-  *Parent does:* 1. Put the thali on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.  
+  *Parent does:* 1. Put the uruli on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.  
   *Parent says:* Watch the rings spread out. That is a wave. The water itself only bobs up and down. The movement is what travels outwards.  
   *Child mode:* Drop one coin in the middle. Watch the rings spread. That is a wave!
   - Ask: Does the water travel to the edge, or just the ripple? (good: Just the ripple.; The water bobs up and down in its place.)
@@ -506,7 +506,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   *Parent does:* 1. Hold the two marbles or coins a hand-width apart above the water. 2. Drop both at the same moment. 3. Shine the torch across the water from low at one side, so the ripples show up as bright lines.  
   *Parent says:* Where two tops meet, the ripple gets bigger. Where a top meets a dip, they cancel out and the water stays flat. That makes a pattern. Only waves do this.  
   *Child mode:* Drop two coins at the same time. Where the ripples cross, look for bigger bumps and flat spots.
-  - Check: When two ripples cross in the thali, what happens? → **They add up in some places and cancel out in others**
+  - Check: When two ripples cross in the uruli, what happens? → **They add up in some places and cancel out in others**
 - **s3 (5 min)**  
   *Parent does:* Roll two marbles towards each other across a flat floor. If you have no marbles, use two small balls.  
   *Parent says:* Now roll marbles at each other. Do they pass through like ripples? No, they bump. Isaac Newton thought light was made of tiny particles, like very small marbles. Later, scientists found that light does both. It spreads like ripples, and it arrives in tiny packets.  
@@ -572,7 +572,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   - Ask: What does the light look like? (good: A cross of dots.; Rows of little lights.; A star shape.)
 - **s2 (5 min)**  
   *Parent does:* 1. Slowly turn the cloth while you keep looking. 2. Then try a different cloth, or a fine tea strainer.  
-  *Parent says:* The pattern turns when the cloth turns. The tiny gaps between the threads are making it. When light waves squeeze through tiny gaps, they spread out and cross each other, like the ripples in the thali. Only waves do that.  
+  *Parent says:* The pattern turns when the cloth turns. The tiny gaps between the threads are making it. When light waves squeeze through tiny gaps, they spread out and cross each other, like the ripples in the uruli. Only waves do that.  
   *Child mode:* Turn the cloth slowly. Does the pattern turn too? Try another cloth.
   - Check: Why do you see a pattern of dots around the street light? → **Light waves spread out through the tiny gaps and cross each other**
 - **s3 (5 min)**  
@@ -726,7 +726,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
    **Answer:** 12. *Why:* The spots are half a wave apart. So a whole wave is 6 + 6 = 12 centimetres.
 8. (mcq) Thomas Young shone light through two thin slits. He saw bright and dark stripes. What did this show?  
    Options: Light behaves like a wave / Light is made of sand / Light is instant / Light needs air  
-   **Answer:** Light behaves like a wave. *Why:* Only waves make stripes like this. Where two waves add up you get bright, and where they cancel you get dark. Like the ripples crossing in the thali. Picking 'instant' mixes up two different questions about light.
+   **Answer:** Light behaves like a wave. *Why:* Only waves make stripes like this. Where two waves add up you get bright, and where they cancel you get dark. Like the ripples crossing in the uruli. Picking 'instant' mixes up two different questions about light.
 9. (mcq) Einstein said light comes in packets. What are the packets called?  
    Options: Photons / Electrons / Atoms / Rays  
    **Answer:** Photons. *Why:* Photons are packets of light. Electrons are tiny parts of atoms that can give out or soak up photons. Picking 'rays' mixes up the path light takes with what it is made of.

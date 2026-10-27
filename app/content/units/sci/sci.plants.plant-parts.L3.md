@@ -24,11 +24,11 @@
 - **Tap root**: One thick main root that grows straight down, with thinner roots growing out of its sides. *e.g.* Mustard, neem and carrot plants have tap roots.
 - **Fibrous roots**: A bunch of many thin roots, all about the same size, spreading out like a beard. *e.g.* Grass, wheat, rice and onions have fibrous roots.
 - **Root hair**: A tiny hair on a young root. Root hairs push between soil grains and soak up water. *e.g.* Look at a moong sprout's root against black paper. The white fuzz is root hairs.
-- **Storage root**: A root that grows fat because it is full of stored food. *e.g.* Carrot, mooli, beetroot and shakarkand, which is sweet potato, are storage roots.
+- **Storage root**: A root that grows fat because it is full of stored food. *e.g.* Carrot, radish, beetroot and shakarkand, which is sweet potato, are storage roots.
 - **Bud**: A tiny folded-up shoot, waiting to grow into new leaves, a branch or a flower. Buds grow on stems, not usually on roots. *e.g.* The 'eyes' of a potato are buds. Leave an old potato in a dark basket and they grow shoots.
 - **Node**: The place on a stem where a leaf or a bud grows. Nodes often look like rings or bumps. *e.g.* The rings on sugarcane and on a piece of ginger are nodes.
 - **Tuber**: A fat underground stem that stores food. It has buds, called eyes, that can grow into new plants. *e.g.* A potato is a tuber.
-- **Rhizome**: A stem that grows sideways under the ground. It stores food and has rings and buds. *e.g.* Ginger and haldi, which is turmeric, are rhizomes.
+- **Rhizome**: A stem that grows sideways under the ground. It stores food and has rings and buds. *e.g.* Ginger and turmeric (manjal, or haldi) are rhizomes.
 - **Bulb**: A tiny flat stem with thick, juicy leaves wrapped round it. The leaves store food. *e.g.* An onion is a bulb. Each layer you peel is the swollen bottom of a leaf.
 - **Climber**: A plant with a thin stem that grows upwards by holding on to something else. *e.g.* Money plant, bean, grape and bottle gourd are climbers.
 - **Twiner**: A climber whose stem winds round and round a support, like a spiral staircase. *e.g.* A bean plant twines round a stick.
@@ -69,7 +69,7 @@ A tap root is one thick main root that grows straight down, like a tent peg. It 
 ### Roots that store food · *defined*
 **Definition:** Some roots grow fat because they are full of stored food. The food was made in the leaves and sent down the stem to be kept for later.
 
-A carrot, a mooli, a beetroot and a sweet potato are all storage roots. They taste sweet or starchy because they are packed with food. But the plant did not store that food for us. It stored it for itself. A carrot's life has two parts. First it grows leaves and fills its root with sugar. Then, after the cold weather, it uses that stored food very fast. It sends up a tall stalk with white umbrella-shaped flowers, and makes seeds. In cold countries this takes two years. In north India it happens between autumn and the next spring. Farmers in north India use this. They dig up their carrots in winter, choose the best ones and plant them again. By spring those carrots have flowered and made seed for next year. If you dig up a carrot after it has flowered, it is woody and not sweet. Its food has gone up into the flowers and seeds.
+A carrot, a radish, a beetroot and a sweet potato are all storage roots. They taste sweet or starchy because they are packed with food. But the plant did not store that food for us. It stored it for itself. A carrot's life has two parts. First it grows leaves and fills its root with sugar. Then, after the cold weather, it uses that stored food very fast. It sends up a tall stalk with white umbrella-shaped flowers, and makes seeds. In cold countries this takes two years. In north India it happens between autumn and the next spring. Farmers in north India use this. They dig up their carrots in winter, choose the best ones and plant them again. By spring those carrots have flowered and made seed for next year. If you dig up a carrot after it has flowered, it is woody and not sweet. Its food has gone up into the flowers and seeds.
 - e.g. A carrot top left in a saucer of water grows new leaves, using food stored at its top.
 - e.g. Sweet potato, shakarkand, is a root, even though a potato is a stem.
 - e.g. Beetroot is so full of sugar that a kind of beet, called sugar beet, is grown in many cold countries to make sugar.
@@ -88,9 +88,9 @@ A stem's shape depends on how much it has to hold up. A herb, like coriander, ha
 - e.g. The rings on sugarcane are nodes, where leaves once grew.
 - e.g. A tree trunk grows thicker every year, so it can hold up more branches.
 ### Stems that store food · *defined*
-**Definition:** Some stems grow fat and store food, often under the ground. Potato, ginger, haldi, arbi and sugarcane all store food in their stems.
+**Definition:** Some stems grow fat and store food, often under the ground. Potato, ginger, turmeric, chembu and sugarcane all store food in their stems.
 
-A potato looks like a root, but it is a stem. You can tell from its eyes. Each eye is a bud, and the eyes sit in a spiral round the potato, just as leaves sit in a spiral round a stem. Ginger and haldi are stems that grow sideways under the ground. Look for the rings on them. Those are nodes. Arbi is a short, fat underground stem. Sugarcane stores sugar in its tall stem above the ground. An onion is a little different. Its bottom is a tiny flat stem, and its juicy layers are swollen leaves full of stored food. So the onion stores food in its leaves. Plants store food in underground stems so they can survive a dry season or a cold winter, and grow again quickly when the rain comes.
+A potato looks like a root, but it is a stem. You can tell from its eyes. Each eye is a bud, and the eyes sit in a spiral round the potato, just as leaves sit in a spiral round a stem. Ginger and turmeric are stems that grow sideways under the ground. Look for the rings on them. Those are nodes. Chembu is a short, fat underground stem. Sugarcane stores sugar in its tall stem above the ground. An onion is a little different. Its bottom is a tiny flat stem, and its juicy layers are swollen leaves full of stored food. So the onion stores food in its leaves. Plants store food in underground stems so they can survive a dry season or a cold winter, and grow again quickly when the rain comes.
 - e.g. Farmers cut seed potatoes into pieces, making sure each piece has at least one eye. Each eye can grow a new plant.
 - e.g. A piece of ginger left in a damp place grows a green shoot from one of its buds.
 - e.g. Sugarcane is crushed to get its sweet juice, which is made into jaggery and sugar.
@@ -119,7 +119,7 @@ A leaf works like a solar panel. A wide, flat shape catches lots of light. A thi
 
 In a desert, a wide leaf would lose too much water. So a cactus has no wide leaves. Its leaves have become spines that guard it, and its fat green stem does the leaf's job. Aloe stores water in thick, juicy leaves. On a pond, a lotus leaf is round and flat, so it floats. Its tiny holes, the stomata, are on the top side, facing the air, not underneath in the water. Its skin is covered with tiny waxy bumps, so water rolls off in balls and carries the dirt away. Scientists call this the lotus effect. In the Amazon, a giant water lily grows leaves wider than a car, held up by thick ribs underneath. A garden designer called Joseph Paxton said those ribs gave him the idea for a huge glass building in London, the Crystal Palace, in 1851. In Meghalaya, a pitcher plant grows in poor soil. Its leaves end in jugs that trap insects, which feed it.
 - e.g. Pine trees in cold mountains have needle leaves that lose little water.
-- e.g. Arbi leaves, like lotus leaves, make raindrops roll off in shiny balls.
+- e.g. Chembu (arbi) leaves, like lotus leaves, make raindrops roll off in shiny balls.
 - e.g. Jalkumbhi, water hyacinth, has puffy leaf stalks full of air, so it floats on ponds.
 ### Is every part secretly a leaf? · *debated*
 About 230 years ago, a German poet and thinker had a bold idea. He said that petals, tendrils, spines and many other parts above the ground are all leaves that have changed shape. Botanists have argued about how far this idea goes ever since. Some parts really are changed leaves. Others are not. And for some, like a gourd's tendril, botanists still disagree.
@@ -172,7 +172,7 @@ If there are plants on planets around other stars, what would they look like? Th
   For: Plants have no muscles and no brain. They stay in one place all their lives.  
   Against: Plants move, just slowly. Shoot tips sweep round in circles. Tendrils coil round a stick within hours, sometimes minutes. Leaves turn to face the light. Speed up a film of a growing bean and it looks like it is searching.
 - **Fat roots grow big so that people and animals can eat them.** (A way of thinking many of us have without noticing; *rejected*)  
-  For: We grow carrots and mooli for food, and farmers choose the biggest ones.  
+  For: We grow carrots and radishes for food, and farmers choose the biggest ones.  
   Against: The root stores food for the plant's own future. A carrot left in the ground uses its stored sugar to grow a tall flower stalk and seeds. People did breed carrots to be bigger and sweeter, but the store was there first, for the plant.
 - **Roses have thorns.** (Almost everyone, in songs and sayings; *rejected*)  
   For: They are sharp and pointed, like thorns.  
@@ -189,7 +189,7 @@ We have been learning how roots, stems and leaves are each shaped for their job.
 
 **Deep truth.** A potato is a stem and a sweet potato is a root. Yet both are fat, both grow underground, and both are packed with stored food. The same job gave two different parts the same shape. So to tell a stem from a root, look for buds, like the potato's eyes.  
 *Habit it breaks:* We sort things by how they look and where we find them. Fat and underground seems to mean root. But what a part is depends on what it grows from, and its buds show that. Its shape only tells us its job.  
-*Evidence:* In Sabzi Detectives, the potato has eyes in a spiral and the sweet potato has none. In the Blue-Black Test, both turn blue-black, because both are packed with starch. In Wake the Store, the potato's eyes grow shoots, because they are buds on a stem.
+*Evidence:* In Vegetable Detectives, the potato has eyes in a spiral and the sweet potato has none. In the Blue-Black Test, both turn blue-black, because both are packed with starch. In Wake the Store, the potato's eyes grow shoots, because they are buds on a stem.
 
 - *who am i:* Your arm and a bat's wing have the same bones inside, shaped for different jobs. So the same kind of part can take very different shapes.
 - *what is life:* A plant grows each part to suit its job and its place. A shade leaf grows bigger than a sun leaf on the same plant.
@@ -285,7 +285,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 ## Games
 ### g1 · Plant Part Disguises (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them face down in a pile.; On your turn, take the top card and read it out loud.; Decide what the part really is: a root, a stem or a leaf in disguise. Put it in that column on the mat.; Then pick the job token that fits: stores food, climbs, catches light, holds on, protects, stores water or breathes. Say how the shape helps with that job. A good reason wins the card.; If you draw a TEST IT card, everyone does the test. The first person to explain the result wins two cards.; When the pile runs out, the player with the most cards wins.
-- **Printable cards: 24 disguise cards to cut out:** Carrot: fat and orange, under the ground; Potato: has eyes that sprout in a dark basket; Ginger: knobbly, with rings, grows sideways underground; Onion: made of juicy layers on a flat bottom; Sugarcane: tall and sweet, with rings; Mooli: long, white, under the ground, with no eyes; Pea tendril: curly thread at the end of a leaf; Cactus spine: sharp point on a desert plant; Cactus pad: fat, green and juicy, with spines; Banyan pillar: hangs down from a branch, then grows thick; Mangrove pencil: pokes up out of salty mud; Money plant grip: little brown fingers clinging to a wall; Bean spiral: winds round and round a stick; Bougainvillea hook: sharp and woody, near a bud; Lotus plate: round, flat and floating; Pitcher jug: a trap full of water that catches insects; Aloe: thick, juicy and full of water; Haldi: orange inside, with rings, underground; Sweet potato: fat and sweet, underground; Arbi: round, hairy, underground, with a bud on top; TEST IT: find a potato in the kitchen. Count its eyes.; TEST IT: peel one layer of an onion. Is it like a leaf?; TEST IT: look down on a pot plant from above. Do the leaves overlap much?; TEST IT: hold a leaf up to the window. Find its veins.
+- **Printable cards: 24 disguise cards to cut out:** Carrot: fat and orange, under the ground; Potato: has eyes that sprout in a dark basket; Ginger: knobbly, with rings, grows sideways underground; Onion: made of juicy layers on a flat bottom; Sugarcane: tall and sweet, with rings; Radish (mullangi): long, white, under the ground, with no eyes; Pea tendril: curly thread at the end of a leaf; Cactus spine: sharp point on a desert plant; Cactus pad: fat, green and juicy, with spines; Banyan pillar: hangs down from a branch, then grows thick; Mangrove pencil: pokes up out of salty mud; Money plant grip: little brown fingers clinging to a wall; Bean spiral: winds round and round a stick; Bougainvillea hook: sharp and woody, near a bud; Lotus plate: round, flat and floating; Pitcher jug: a trap full of water that catches insects; Aloe: thick, juicy and full of water; Turmeric: orange inside, with rings, underground; Sweet potato: fat and sweet, underground; Chembu: round, hairy, underground, with a bud on top; TEST IT: find a potato in the kitchen. Count its eyes.; TEST IT: peel one layer of an onion. Is it like a leaf?; TEST IT: look down on a pot plant from above. Do the leaves overlap much?; TEST IT: hold a leaf up to the window. Find its veins.
 - **Printable board: A mat with three columns:** ROOT; STEM; LEAF
 - **Printable tokens: 20 job tokens (small paper circles):** 🥕 stores food; 🧗 climbs; ☀️ catches light; ⚓ holds on; 🛡️ protects; 💧 stores water; 🫁 breathes
 - **s1 (2 min)**  
@@ -302,7 +302,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Parent does:* 1. Take turns. Each player draws a card, reads it and puts it in a column. 2. They choose a job token and say how the shape helps. 3. Others agree or argue. A good reason wins the card.  
   *Parent says:* When you put a card down, tell us its job. Then tell us how its shape helps it do that job.  
   *Child mode:* Take turns. Read your card. Put it under ROOT, STEM or LEAF. Pick a job token. Say how the shape helps.
-  - Note: Answers to expect. Roots: carrot, mooli, sweet potato, banyan pillar, mangrove pencil, money plant grip. Stems: potato, ginger, haldi, sugarcane, arbi, cactus pad, bean spiral, bougainvillea hook. Leaves: onion layers, pea tendril, cactus spine, lotus plate, pitcher jug, aloe. A good reason links the shape to the job. For example, 'The pencil roots stick up out of the mud so air can get in.'
+  - Note: Answers to expect. Roots: carrot, radish, sweet potato, banyan pillar, mangrove pencil, money plant grip. Stems: potato, ginger, turmeric, sugarcane, chembu, cactus pad, bean spiral, bougainvillea hook. Leaves: onion layers, pea tendril, cactus spine, lotus plate, pitcher jug, aloe. A good reason links the shape to the job. For example, 'The pencil roots stick up out of the mud so air can get in.'
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do it together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess. Then let's look and see who was right.  
@@ -344,30 +344,30 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 ## Experiments
 ### e1 · Wake the Store: can a stored food part grow with no soil? (35 min, 8 days)
 - **question:** Do roots and stems that store food have enough food inside to grow new shoots, with no soil at all?
-- **predict:** Before you start, guess. Which piece will grow the tallest shoot in 8 days: the carrot top, the carrot middle, the mooli top, the onion or the potato? Will any piece grow nothing at all? Why do you think so?
+- **predict:** Before you start, guess. Which piece will grow the tallest shoot in 8 days: the carrot top, the carrot middle, the radish top, the onion or the potato? Will any piece grow nothing at all? Why do you think so?
 - **fair test:** Give every piece the same: the same depth of water, the same window, and fresh water every 2 days. Change only the kind of piece. The carrot middle is our check. It is the same carrot, but with no top, so we find out where new shoots grow from.
 - **safety:** A grown-up does all the cutting. Throw the pieces away at the end. Do not eat them.
 - **record:** Fill in the table every two days. On day 8, draw one bar for each piece, as tall as its tallest shoot.
 - **results table:** Piece | Day 2: tallest shoot (mm) | Day 4 (mm) | Day 6 (mm) | Day 8 (mm) | Did it grow roots too?
 - **schedule:** day 1: Guess first. A grown-up cuts the pieces. Set them in water by a window. (15 min); day 2: Measure the tallest shoot on each piece. Change the water. (3 min); day 4: Measure and change the water. (3 min); day 6: Measure and change the water. (3 min); day 8: Last measurements. Draw a bar chart. Say what you think, what you saw and why. (11 min)
 - **s1 (4 min)**  
-  *Parent does:* 1. Lay out the carrot, mooli, onion and potato. 2. Ask your child to guess which will grow the tallest new shoot in 8 days, and which will grow nothing.  
+  *Parent does:* 1. Lay out the carrot, radish, onion and potato. 2. Ask your child to guess which will grow the tallest new shoot in 8 days, and which will grow nothing.  
   *Parent says:* These vegetables are all food stores. Roots and stems pack food away for the plant's future. Do you think they still have enough food to grow, with no soil at all?  
-  *Child mode:* Look at the carrot, mooli, onion and potato. They are all food stores. Can they grow without soil? Guess which grows tallest.
+  *Child mode:* Look at the carrot, radish, onion and potato. They are all food stores. Can they grow without soil? Guess which grows tallest.
   - Ask: Why did you pick that one? (good: It is the biggest store.; It already has a little shoot.; Onions sprout in the kitchen.)
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts the top 3 cm off the carrot and off the mooli, keeping the leafy end. 2. Trim any old leaves to 1 cm. 3. Cut a 3 cm slice from the middle of the carrot, with no top. 4. Cut the bottom 2 cm off the onion, keeping the flat base. 5. Push 3 toothpicks into the potato and rest it on the glass, so its bottom half is in water.  
+  *Parent does:* 1. A grown-up cuts the top 3 cm off the carrot and off the radish, keeping the leafy end. 2. Trim any old leaves to 1 cm. 3. Cut a 3 cm slice from the middle of the carrot, with no top. 4. Cut the bottom 2 cm off the onion, keeping the flat base. 5. Push 3 toothpicks into the potato and rest it on the glass, so its bottom half is in water.  
   *Parent says:* This slice from the middle of the carrot is our check. It is the same carrot, but it has no top. If only the top grows, we learn where new shoots come from.  
   *Child mode:* A grown-up cuts the pieces. Watch the carrot middle. It is our check. Does a carrot need its top to grow?
 - **s3 (5 min)**  
-  *Parent does:* 1. Put the carrot top, the carrot middle and the mooli top in their own saucers, cut side down. Stand the onion base on its flat bottom in the fourth saucer. The potato stays on its glass. 2. Pour water to about 1 cm deep. 3. Put all of them on the same windowsill. 4. Label each saucer.  
+  *Parent does:* 1. Put the carrot top, the carrot middle and the radish top in their own saucers, cut side down. Stand the onion base on its flat bottom in the fourth saucer. The potato stays on its glass. 2. Pour water to about 1 cm deep. 3. Put all of them on the same windowsill. 4. Label each saucer.  
   *Parent says:* Same water, same window, same everything. Only the kind of piece is different. That makes it fair.  
   *Child mode:* Put each piece, except the potato, in its own saucer. Add water, one finger-width deep. Put them all on the same windowsill.
 - **s4 (9 min)**  
   *Parent does:* 1. On days 2, 4, 6 and 8, measure the tallest new shoot on each piece in millimetres. 2. Write it in the table. 3. Pour away the old water and add fresh water, to stop it smelling.  
   *Parent says:* Lay the ruler next to the shoot. Start at zero, where the shoot comes out. Read the small lines. Each one is a millimetre.  
   *Child mode:* Every two days, measure the tallest shoot. Start the ruler at zero. Write the number. Give fresh water.
-  - Note: The onion usually grows first, and fastest. The carrot and mooli tops grow feathery leaves in 3 to 5 days. The potato's eyes may take a week or more, so a potato that is already sprouting a little works best. The carrot middle grows nothing, because it has no buds. If anything goes slimy, throw it away and note it in the table.
+  - Note: The onion usually grows first, and fastest. The carrot and radish tops grow feathery leaves in 3 to 5 days. The potato's eyes may take a week or more, so a potato that is already sprouting a little works best. The carrot middle grows nothing, because it has no buds. If anything goes slimy, throw it away and note it in the table.
   - Wait: Measure again every 2 days, for 8 days.
 - **s5 (6 min)**  
   *Parent does:* Help your child draw a bar chart of the day 8 numbers, with one bar for each piece.  
@@ -388,7 +388,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **results table:** Piece | Root, stem or leaf? | My guess | Colour after 1 minute | Starch: lots, some or none?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cover the table with newspaper. 2. A grown-up cuts a fresh, flat piece of each vegetable, about the size of a coin. 3. Lay them on an old plate and label each one.  
-  *Parent says:* Plants store food in two main ways. Sugar tastes sweet. Starch does not taste sweet, but it fills you up, like rice and roti. Iodine is a test. It turns blue-black where there is starch.  
+  *Parent says:* Plants store food in two main ways. Sugar tastes sweet. Starch does not taste sweet, but it fills you up, like rice and ragi. Iodine is a test. It turns blue-black where there is starch.  
   *Child mode:* A grown-up cuts six pieces. Starch is food that is not sweet, like in rice. Iodine turns blue-black on starch. Guess which pieces will change.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to write their guess for each piece in the table: lots of starch, some or none.  
@@ -475,7 +475,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: roots hold soil together. What I saw: the bare tray lost 12 mm of mud and the grass tray only 2 mm. Why: the grass roots make a net that grips the soil, so the water cannot carry it away.
 
 ## Activities
-### a1 · Sabzi Detectives: root or stem? (25 min)
+### a1 · Vegetable Detectives: root or stem? (25 min)
 - **safety:** A grown-up does all the cutting.
 - **record:** Draw each vegetable. Draw an arrow to the clue that told you what it is.
 - **s1 (4 min)**  
@@ -487,7 +487,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Parent says:* Look closely. Does it have eyes? Rings? Tiny root hairs? Write down what you find.  
   *Child mode:* Look at each one with the hand lens. Find eyes, rings or tiny hairs. Join the potato's eyes with your finger. Is it a spiral?
   - Ask: Which vegetables have rings? (good: Ginger and sugarcane.; Ginger has rings all along it.)
-  - Note: Potato: eyes in a spiral, so a stem. Ginger: rings and buds, so a stem. Sugarcane: rings and buds at the nodes, so a stem. Carrot and mooli: no eyes along the sides, faint lines of tiny side roots, so roots. Sweet potato: a root, though it can sprout from odd places, so it is a tricky one. Onion: layers on a flat base, so leaves on a tiny stem.
+  - Note: Potato: eyes in a spiral, so a stem. Ginger: rings and buds, so a stem. Sugarcane: rings and buds at the nodes, so a stem. Carrot and radish: no eyes along the sides, faint lines of tiny side roots, so roots. Sweet potato: a root, though it can sprout from odd places, so it is a tricky one. Onion: layers on a flat base, so leaves on a tiny stem.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts a carrot across the middle and an onion from top to bottom. 2. Look at the carrot's ring and core. 3. Look at the onion's flat base and layers. 4. Peel a spring onion to see the green leaves join the white layers.  
   *Parent says:* The carrot has a ring inside. The pale core in the middle is the bundle of tubes that carries water. The onion's layers start at that flat base. That base is its stem.  
@@ -680,9 +680,9 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 6. (fill) The curly thread a pea or gourd plant uses to grab things is called a ____.  
    **Answer:** ['tendril']. *Why:* Tendrils coil round anything they touch. A pea's tendrils are changed leaf tips.
 7. (sort) Sort these into tap root or fibrous roots.  
-   **Answer:** carrot → Tap root; grass → Fibrous roots; mustard → Tap root; wheat → Fibrous roots; mooli → Tap root; onion → Fibrous roots. *Why:* A tap root is one thick main root going down. Fibrous roots are a beard of thin roots, all about the same size.
+   **Answer:** carrot → Tap root; grass → Fibrous roots; mustard → Tap root; wheat → Fibrous roots; radish → Tap root; onion → Fibrous roots. *Why:* A tap root is one thick main root going down. Fibrous roots are a beard of thin roots, all about the same size.
 8. (truefalse) Everything that grows under the ground is a root.  
-   **Answer:** False. *Why:* False. Potato, ginger, haldi and arbi grow under the ground, but they are stems. They have buds and rings. An onion's layers are leaves.
+   **Answer:** False. *Why:* False. Potato, ginger, turmeric and chembu grow under the ground, but they are stems. They have buds and rings. An onion's layers are leaves.
 9. (truefalse) Roots help to hold soil together, so rain does not wash it away.  
    **Answer:** True. *Why:* True. A net of roots grips the soil crumbs. In the Roots Hold the Soil test, the grass tray lost far less mud than the bare tray.
 10. (mcq) Why does a cactus have spines instead of wide leaves?  
@@ -694,7 +694,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 12. (match) Match each plant to the part that stores its food.  
    **Answer:** Carrot → root; Potato → underground stem; Onion → leaves; Sugarcane → stem above the ground. *Why:* Plants store food in different parts. The clues are eyes, rings and layers, not where the part grows.
 13. (mcq) In the Wake the Store test, which piece grew no shoot at all?  
-   Options: The carrot top / The carrot middle slice / The onion / The mooli top  
+   Options: The carrot top / The carrot middle slice / The onion / The radish top  
    **Answer:** The carrot middle slice. *Why:* The carrot middle has stored food but no buds. New shoots grow from buds, and a carrot's buds are at its top. Picking the onion is a surprise guess. Onions usually grow first and fastest.
 14. (write) Name one root and one stem that store food. Say one clue that tells you each is a root or a stem.  
    **Answer:** For example: a carrot is a root, because it has no eyes or rings along its sides. A potato is a stem, because it has eyes, which are buds.. *Why:* Any correct pair with a clue for each is right. Clues for stems are buds, eyes and rings. Roots usually have none of these.
@@ -710,7 +710,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    Options: To catch more of the weak light / Because shade makes leaves swell with water / To hide from animals / Because it is lazy  
    **Answer:** To catch more of the weak light. *Why:* There is less light in the shade, so bigger, thinner leaves catch as much as they can. Picking 'swell with water' sounds sensible, but the shade leaves are actually thinner, not puffier.
 3. (sort) Sort these underground parts into root, stem or leaf.  
-   **Answer:** carrot → Root; potato → Stem; ginger → Stem; onion layers → Leaf; sweet potato → Root; haldi → Stem; arbi → Stem; mooli → Root. *Why:* Stems have buds and rings: potato, ginger, haldi, arbi. Onion layers are swollen leaves. Carrot, mooli and sweet potato are roots.
+   **Answer:** carrot → Root; potato → Stem; ginger → Stem; onion layers → Leaf; sweet potato → Root; turmeric → Stem; chembu → Stem; radish → Root. *Why:* Stems have buds and rings: potato, ginger, turmeric, chembu. Onion layers are swollen leaves. Carrot, radish and sweet potato are roots.
 4. (mcq) In the Blue-Black Test, the potato turned blue-black with iodine, but the carrot stayed brown. Which is true?  
    Options: The potato stores starch, and the carrot stores mostly sugar / The carrot has no food in it / The potato is a root and the carrot is a stem / The iodine was too old  
    **Answer:** The potato stores starch, and the carrot stores mostly sugar. *Why:* Iodine turns blue-black only on starch. The carrot is full of food, but mostly sugar, which is why it tastes sweet. Picking 'no food' means reading 'no starch' as 'no food'. Picking the third option swaps the parts round.
@@ -724,8 +724,8 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 8. (mcq) Why do climbing plants climb, instead of growing a thick trunk?  
    Options: They reach the light faster with a thin, cheap stem / They are afraid of the ground / Climbing makes their roots longer / They do not need light  
    **Answer:** They reach the light faster with a thin, cheap stem. *Why:* Building a thick trunk takes years and lots of food. A climber leans on something else and puts its food into growing longer. Picking 'they do not need light' gets it backwards. Light is exactly what they are climbing towards.
-9. (fill) A stem that grows sideways under the ground, like ginger or haldi, is called a ____.  
-   **Answer:** ['rhizome']. *Why:* Ginger and haldi are rhizomes. Their rings are nodes, and their buds can grow new shoots.
+9. (fill) A stem that grows sideways under the ground, like ginger or turmeric, is called a ____.  
+   **Answer:** ['rhizome']. *Why:* Ginger and turmeric are rhizomes. Their rings are nodes, and their buds can grow new shoots.
 10. (mcq) On a pineapple you count 8 spirals one way and 13 the other. Which numbers are in the same pattern?  
    Options: 1, 1, 2, 3, 5, 8, 13, 21 / 2, 4, 6, 8, 10, 12, 14 / 1, 3, 5, 7, 9, 11, 13 / 8, 9, 10, 11, 12, 13  
    **Answer:** 1, 1, 2, 3, 5, 8, 13, 21. *Why:* This is the Fibonacci pattern. Each number is the two before added together. Picking the counting pattern 8, 9, 10 misses that the numbers jump by bigger amounts each time.
@@ -734,7 +734,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** Its stored sugar was used up to grow the flower stalk and seeds. *Why:* The carrot stored sugar for the next stage of its life. When it flowered, it used that food to grow a tall stalk and seeds. Picking 'insects ate it' is a reasonable guess. But the root is not damaged, it is just emptied out.
 12. (order) Put these in the order they first appeared on Earth, oldest first: flowers, roots, tiny stems with no leaves, wide flat leaves.  
    **Answer:** order shown. *Why:* The first land plants were tiny stems. Roots came by about 400 million years ago. Wide leaves became common about 360 million years ago. Flowers came last, about 130 million years ago.
-13. (write) Arbi leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?  
+13. (write) Chembu leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?  
    **Answer:** The rolling drops pick up dust and dirt and carry it away, so the leaf stays clean. A clean leaf catches more light. Water also does not sit on the leaf and block its tiny holes.. *Why:* A good answer links the waxy shape to the leaf's job: staying clean to catch light and breathe.
 14. (write) Your friend says, 'Fat roots grow big so that we can eat them.' What would you tell your friend?  
    **Answer:** The root stores food for the plant itself. A carrot left in the ground uses that food later to grow a flower stalk and seeds. We just eat it before it gets the chance.. *Why:* A good answer says who the food is really for, and gives evidence, like a carrot that flowers.
@@ -842,7 +842,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** The first woman botanist chosen for Britain's Royal Society. *Why:* In 1946 she became the first woman botanist chosen as a Fellow of the Royal Society, a top science society. She did much of her work without a university lab. Picking 'first to find roots' does not make sense: people have always known about roots.
 
 ## Applications
-- Farmers grow carrot and mooli seed by replanting the best roots in winter. This is called the root-to-seed method.
+- Farmers grow carrot and radish seed by replanting the best roots in winter. This is called the root-to-seed method.
 - Farmers plant pieces of potato, ginger and sugarcane, each with a bud, to grow new crops without seeds.
 - Grass and vetiver are planted on slopes and river banks, because their roots hold the soil against rain.
 - Mangroves are planted along coasts, because their roots break the force of waves and storms.
@@ -851,7 +851,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - Self-cleaning paints and glass copy the bumpy, waxy surface of the lotus leaf.
 - Gardeners give climbers a support, like a trellis or a string, so they can reach the light.
 - Sugar is made from sugarcane stems and sugar beet roots, where those plants store their food.
-- Cooks use haldi and ginger, two underground stems, in almost every Indian kitchen.
+- Cooks use turmeric and ginger, two underground stems, in almost every Indian kitchen.
 - The Crystal Palace, a giant glass building in London in 1851, was designed by a gardener who said the ribs of a giant water lily leaf gave him the idea.
 
 ## Spotted around us
@@ -860,10 +860,10 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - Money plant climbing a pillar on a building landing, gripping with little brown roots.
 - Potatoes sprouting in the kitchen basket, and onions growing green shoots.
 - Sugarcane at a juice stall, with its rings showing where leaves once grew.
-- Lotus and arbi leaves in a pond or a market, with raindrops rolling off in shiny balls.
+- Lotus and chembu leaves in a pond or a market, with raindrops rolling off in shiny balls.
 - Short prop roots at the bottom of maize plants in a field, gripping the soil like tent pegs.
-- Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads in Rajasthan or Gujarat.
-- Mangrove breathing roots poking out of the mud at low tide in the Sundarbans, or along creeks in Mumbai.
+- Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads in Rajasthan, Gujarat or Tamil Nadu.
+- Mangrove breathing roots poking out of the mud at low tide in the Sundarbans, at Pichavaram in Tamil Nadu, or along creeks in Mumbai.
 - Plants on a dim landing with big, thin leaves, and plants in full sun with small, tough ones.
 
 ## Open questions
@@ -916,19 +916,19 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - Why did the radish blush? *It saw the salad dressing.*
 - What kind of stories do pitcher plants like? *Ones that trap you till the end.*
 - Why did the bamboo win the strength contest? *It was hollow, but it never gave up.*
-- How did the arbi leaf stay dry in the monsoon? *It let every drop roll off its back.*
+- How did the chembu leaf stay dry in the monsoon? *It let every drop roll off its back.*
 - What's a leaf's favourite subject? *Light reading.*
 - Why did the beetroot get top marks? *It got to the root of every problem.*
 - Why did the bean diary never get boring? *The plant kept going round in circles to find something new.*
 - What did the shoot tip say to the stick? *I've been looking for you all afternoon!*
-- Why did the mooli bring a torch underground? *It was a root, and it was very dark down there.*
+- Why did the radish bring a torch underground? *It was a root, and it was very dark down there.*
 - What do you call a leaf that loves the shade? *A big, shy, thin one.*
 - Why did the banyan never fall over in a storm? *It had a whole team of roots holding it up.*
 
 ## Connected maths
 - In the Sun Leaf, Shade Leaf test, the middle sun leaf covered 18 squares of 1 cm squared paper. The middle shade leaf covered 27 squares. How many more squares did the shade leaf cover? **9 more squares.**. Find the difference between the two numbers. 27 take away 18 is 9. You can check by counting on: from 18 to 20 is 2, and from 20 to 27 is 7. 2 + 7 = 9. So the shade leaf covered 9 more squares than the sun leaf. (queues `math.area-perimeter.area.L3`)
 - In the Wake the Store test, the onion's tallest shoot was 12 mm on day 2 and 60 mm on day 8. How much did it grow in those 6 days? About how much is that each day? **It grew 48 mm, which is 8 mm each day.**. First find how much it grew. 60 take away 12 is 48 mm. From day 2 to day 8 is 6 days. Share 48 mm equally between 6 days. 48 divided by 6 is 8. So it grew about 8 mm each day. Check: 6 lots of 8 is 48. (queues `math.division.sharing-and-grouping.L3`)
-- Here are the Wake the Store results after 8 days: onion 60 mm, mooli top 55 mm, carrot top 40 mm, potato 15 mm, carrot middle 0 mm. Draw a bar chart. Which piece grew second tallest? **The mooli top grew second tallest. Here is the bar chart.**. Draw one bar for each piece, as tall as its number. Put the numbers in order from tallest to shortest: 60, 55, 40, 15, 0. The tallest is the onion, at 60 mm. The next is the mooli top, at 55 mm. So the mooli top is second. The carrot middle gets no bar at all, because it grew 0 mm. (queues `math.data.bar-charts.L3`)
+- Here are the Wake the Store results after 8 days: onion 60 mm, radish top 55 mm, carrot top 40 mm, potato 15 mm, carrot middle 0 mm. Draw a bar chart. Which piece grew second tallest? **The radish top grew second tallest. Here is the bar chart.**. Draw one bar for each piece, as tall as its number. Put the numbers in order from tallest to shortest: 60, 55, 40, 15, 0. The tallest is the onion, at 60 mm. The next is the radish top, at 55 mm. So the radish top is second. The carrot middle gets no bar at all, because it grew 0 mm. (queues `math.data.bar-charts.L3`)
 - On a pineapple you counted 8 spirals one way and 13 the other. These are in the Fibonacci pattern: 1, 1, 2, 3, 5, 8, 13. What are the next two numbers? **21 and 34.**. Each number in the pattern is the two before it added together. 1 + 1 = 2. 1 + 2 = 3. 2 + 3 = 5. 3 + 5 = 8. 5 + 8 = 13. So the next is 8 + 13 = 21. The one after is 13 + 21 = 34. Big sunflower heads often have 34 spirals one way and 55 the other. (queues `math.patterns.number-patterns.L3`)
 - A farmer cuts a seed potato into pieces, so that each piece has one eye. The potato has 6 eyes. Each piece grows into a plant that makes about 5 new potatoes. About how many potatoes will the farmer dig up? **About 30 potatoes.**. There are 6 pieces, one for each eye. Each piece makes about 5 potatoes. That is 6 groups of 5. 5 + 5 + 5 + 5 + 5 + 5 = 30. Or 6 times 5 is 30. So one potato can become about 30. (queues `math.multiplication.equal-groups.L3`)
 - In the Climbing Bean Diary, you and your friends looked down on 10 twining plants. 9 wound anticlockwise and 1 wound clockwise. Make a tally chart. How many more wound anticlockwise than clockwise? **8 more.**. Make a tally mark for each plant. Anticlockwise gets 9 marks: a bundle of five and four more. Clockwise gets 1 mark. 9 take away 1 is 8. So 8 more plants wound anticlockwise. Scientists who counted hundreds of kinds of twining plant found a similar split: about 9 out of every 10 twist the same way. (queues `math.data.sorting-and-tallies.L3`)
@@ -948,14 +948,14 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a plant and get help naming it. A grown-up should make the account.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for leaves and plants.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step plant science projects for older children, including ones on roots and leaves.
-- [A banyan, a vegetable market and a kitchen garden near you]() · place · anywhere: Every street has plant parts in disguise. Ask the sabzi seller which vegetables are roots and which are stems, and see if they know.
+- [A banyan, a vegetable market and a kitchen garden near you]() · place · anywhere: Every street has plant parts in disguise. Ask the vegetable seller which vegetables are roots and which are stems, and see if they know.
 
 ## Things to buy
 - [Magnifying glass (hand lens)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see root hairs, potato eyes, ginger rings and the veins of leaves. Useful but not needed: eyes alone work for every step. Used in a1, a2, a3, e4. Used again in the plant cells and insect units.
 - [Povidone-iodine solution, from a chemist](https://www.amazon.in/s?k=povidone+iodine+solution) (material): Turns blue-black on starch, for the Blue-Black Test. A grown-up handles it. Used in e2. 
 - [Squared paper notebook with 1 cm squares](https://www.amazon.in/s?k=1+cm+square+graph+notebook) (material): For tracing leaves and counting squares in Sun Leaf, Shade Leaf. You can also draw 1 cm squares on plain paper with a ruler. Used in e3. 
 - [Climbing bean seeds, such as sem or a pole bean](https://www.amazon.in/s?k=pole+bean+seeds) (material): For the Climbing Bean Diary. Check the packet says 'pole' or 'climbing', not 'bush'. Used in p1. 
-- [Tops & Bottoms, by Janet Stevens](https://www.amazon.in/s?k=Tops+and+Bottoms+Janet+Stevens) (book): A funny picture book about a clever hare who tricks a lazy bear out of carrots, lettuce and corn, by knowing which part of each plant we eat. Used in g1, a1. If bought, read it before Sabzi Detectives. Ask after each trick: was the food a root, a stem, a leaf or a seed?
+- [Tops & Bottoms, by Janet Stevens](https://www.amazon.in/s?k=Tops+and+Bottoms+Janet+Stevens) (book): A funny picture book about a clever hare who tricks a lazy bear out of carrots, lettuce and corn, by knowing which part of each plant we eat. Used in g1, a1. If bought, read it before Vegetable Detectives. Ask after each trick: was the food a root, a stem, a leaf or a seed?
 - [Plants Can't Sit Still, by Rebecca E. Hirsch](https://www.amazon.in/s?k=Plants+Can%27t+Sit+Still+Rebecca+Hirsch) (book): A picture book showing that plants move: they climb, twist, turn and spread. Used in p1, a3. If bought, read it on the day you start the Climbing Bean Diary.
 
 ## Warm-up
@@ -983,7 +983,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - DeepKids HomeSchooling Track, Activities for Lesson Journey: Leaf identification and plant diversity (Leaf Detective Album, folding leaves for symmetry, describing leaves, pet-name profiles for leaves, Leaf Map of our area) used in a2
 - DeepKids HomeSchooling Track, Physics Level 1: live class 'look at plant with leaves, find order and patterns' (used in a4) and the Building Block Game 'build a plant' (used in a5)
 - DeepKids HomeSchooling Track: STEM Activities websites (Exploratorium, Science Buddies)
-- Combined lesson sci-C1-plants: plant body act, take a plant apart, the sabzi sort and leaf prints, improved into Sabzi Detectives and Be the Plant
+- Combined lesson sci-C1-plants: plant body act, take a plant apart, the sabzi sort and leaf prints, improved into Vegetable Detectives and Be the Plant
 - Combined lesson sci-C3-plants: net veins with tap roots and parallel veins with fibrous roots, looking at moong root hairs, the Plant Families card idea (grown into Plant Part Disguises), Janaki Ammal and the Darwins' seedling work
 - Combined lesson sci-C3-seeds-plant-growth-and-plant-life-cycles: measuring growth with a ruler in millimetres, and the claim-evidence-reasoning conclusion
 - Dittmer, American Journal of Botany 1937 (total length of roots and root hairs of one rye plant)

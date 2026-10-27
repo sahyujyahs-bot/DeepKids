@@ -17,7 +17,7 @@
 ## Terms
 - **Waste**: Anything we have stopped using and throw out. *e.g.* Peels, wrappers, old newspapers and a broken pen are all waste in most homes.
 - **Reduce**: To make less waste in the first place. It is the most important of the three Rs. *e.g.* Carrying a cloth bag to the market, so you don't need a plastic one.
-- **Reuse**: To use a thing again, for the same job or a new one. *e.g.* A glass jam jar becomes a jar for storing dal.
+- **Reuse**: To use a thing again, for the same job or a new one. *e.g.* A glass jam jar becomes a jar for storing rava.
 - **Repair**: To mend a broken thing so it works again. *e.g.* Sewing a button back on a shirt. Fixing a bicycle puncture.
 - **Recycle**: To break a used thing down into its material, and make something new from that material. *e.g.* Old newspapers are soaked and mashed into pulp, and made into new paper.
 - **Refuse**: To say no to something you don't need, so it never becomes waste. *e.g.* Saying 'No straw, please' when you buy a juice.
@@ -28,7 +28,7 @@
 - **Molecule**: A tiny group of atoms joined together. Everything is made of molecules, far too small to see. *e.g.* Sugar is made of sugar molecules. Each one has 45 atoms joined together.
 - **Polymer**: A very long molecule made of many small pieces joined in a chain, like beads on a string. *e.g.* Starch in rice, cellulose in paper, and the plastic in a bottle are all polymers.
 - **Plastic**: A material made in factories, mostly from oil or gas. It is made of polymers, very long chain molecules. *e.g.* Milk packets, bottles, buckets and toothbrushes are made of plastic.
-- **Enzyme**: A tiny tool inside living things that cuts molecules apart or joins them. Each enzyme fits only certain molecules, like a key fits only certain locks. *e.g.* Your spit has an enzyme that cuts starch into sugar. That is why chapati tastes sweet if you chew it for a long time.
+- **Enzyme**: A tiny tool inside living things that cuts molecules apart or joins them. Each enzyme fits only certain molecules, like a key fits only certain locks. *e.g.* Your spit has an enzyme that cuts starch into sugar. That is why rice tastes sweet if you chew it for a long time.
 - **Microplastic**: A piece of plastic smaller than a grain of rice, often far too small to see. Big plastic slowly breaks into microplastics, but does not rot away. *e.g.* Scientists have found microplastics in the deep sea, in Himalayan snow and in drinking water.
 - **Dumping ground (landfill)**: A big place where a city piles up waste it does not use. A landfill is a dumping ground built so that its waste is covered and its dirty water is caught. *e.g.* Ghazipur in Delhi is one of India's biggest dumping grounds.
 - **Methane**: A gas made when wet waste rots without air, such as deep inside a dump. It can catch fire, and it warms the planet. *e.g.* Fires that smoulder for days in dumping grounds are often fed by methane.
@@ -60,7 +60,7 @@ Making anything uses up materials, water and energy. A plastic bag needs oil, a 
 A banana peel is made of long chain molecules, such as cellulose and starch. Microbes in the soil feed on them. But a microbe has no mouth, and it cannot swallow a whole chain. So it pours out enzymes around itself. Each enzyme is shaped to fit one kind of chain, like a key fits a lock. It snips the chain into small pieces. The microbe soaks the pieces in as food. What is left over becomes part of the soil. Microbes have been feeding on dead plants and animals for hundreds of millions of years. So for almost everything that was once alive, some microbe somewhere has the right enzyme. Warmth, water and air help them work faster. That is why peels rot quickly in a warm, damp pot, and slowly in a dry desert.
 - e.g. Bread left in a damp box grows white and green fluffy mould. That mould is a fungus eating the bread.
 - e.g. Leaves under a tree turn into dark soil in the monsoon.
-- e.g. Chew a piece of chapati for a long time and it starts to taste sweet. An enzyme in your spit is cutting starch into sugar.
+- e.g. Chew a mouthful of plain rice for a long time and it starts to taste sweet. An enzyme in your spit is cutting starch into sugar.
 ### Why most plastic does not rot · *defined*
 **Definition:** Most plastics do not rot because microbes have almost no enzymes that fit their molecules. Plastic molecules are a new kind of long chain. Most plastic has been made only in the last 75 years.
 
@@ -265,7 +265,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 ## Games
 ### g1 · Where Does It Go? (20 min)
 - **rules:** Lay the six mats in a row. Shuffle the cards and put them face down.; On your turn, take the top card and read it out loud.; Put it on the mat you think is best, and say why in one sentence. Points are on the score sheet: the higher up the order, the more points.; Another player may challenge you with a better place. If everyone agrees theirs is better, they get the points instead.; A card on the DUMP mat scores 0. Some cards really do belong there.; Hazard cards, like the battery and the tube light, must go to one side, face up. Say why they are dangerous to win 2 points.; On a TEST IT card, everyone does the test. The first to explain the result wins 2 points.; When the cards run out, the player with the most points wins.; Playing alone: set a timer for 8 minutes and place every card. Then check each one with the answer list. Count your points and try to beat your score next time.
-- **Printable cards: 30 waste cards to cut out:** A banana peel; An empty glass jam jar; Yesterday's newspaper; A plastic straw; A shirt with a missing button; A rinsed, dry milk packet; A chips packet, shiny inside; A steel tumbler with a dent; A cardboard shoebox; Tea leaves after making chai; An old AA battery; A broken glass bangle; A cotton T-shirt that is too small; A plastic water bottle; A drinks can; A cycle tube with a puncture; A school notebook with empty pages at the back; Dry fallen leaves; A torn chappal strap; A pooja flower garland; A used tube light; A pizza box with cheese stuck on it; A toy car with one wheel missing; A gift with shiny wrapping paper; A thin plastic carry bag; Eggshells; TEST IT: tap a glass bottle and a plastic bottle with your fingernail. Can you hear which is which?; TEST IT: hold a cotton rag and a plastic bag. Which one was once a living plant?; TEST IT: look at the bottom of a plastic bottle. Can you find a number inside a triangle of arrows?; TEST IT: name one thing in this room that has been repaired.
+- **Printable cards: 30 waste cards to cut out:** A banana peel; An empty glass jam jar; Yesterday's newspaper; A plastic straw; A shirt with a missing button; A rinsed, dry milk packet; A chips packet, shiny inside; A steel tumbler with a dent; A cardboard shoebox; Coffee grounds after making filter coffee; An old AA battery; A broken glass bangle; A cotton T-shirt that is too small; A plastic water bottle; A drinks can; A cycle tube with a puncture; A school notebook with empty pages at the back; Dry fallen leaves; A torn chappal strap; A pooja flower garland; A used tube light; A pizza box with cheese stuck on it; A toy car with one wheel missing; A gift with shiny wrapping paper; A thin plastic carry bag; Eggshells; TEST IT: tap a glass bottle and a plastic bottle with your fingernail. Can you hear which is which?; TEST IT: hold a cotton rag and a plastic bag. Which one was once a living plant?; TEST IT: look at the bottom of a plastic bottle. Can you find a number inside a triangle of arrows?; TEST IT: name one thing in this room that has been repaired.
 - **Printable board: Six place mats:** REDUCE: we should not have made it; REUSE: use it again; REPAIR: mend it; COMPOST: let it rot; KABADIWALA: recycle it; DUMP: nothing else works
 - **Printable score sheet: Points: Reduce 3, Reuse 2, Repair 2, Compost 2, Kabadiwala 1, Dump 0:** Name; Round 1; Round 2; Total
 - **Printable tokens: A pile of 30 small paper leaves, used as points:** 🍃
@@ -283,7 +283,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Parent does:* 1. Take turns. Each player draws a card, reads it out and places it. 2. They say why. 3. Others may challenge. 4. Give leaf tokens for the points.  
   *Parent says:* Remember, the higher up the line, the more points. But you must be able to say why.  
   *Child mode:* Take turns. Read your card. Put it on a mat and say why. Can someone find a better place?
-  - Note: Good answers. Banana peel, tea leaves, eggshells, dry leaves and the garland go to COMPOST. The jam jar and shoebox are REUSE. The steel tumbler, chappal strap, cycle tube and toy car are REPAIR. Newspaper, a rinsed milk packet, the plastic bottle and the drinks can go to the KABADIWALA. The notebook with empty pages and the small T-shirt are REUSE: use the pages, or give the shirt to a younger child. The broken bangle can be REUSE in a mosaic, as Nek Chand did. Otherwise wrap it in paper so nobody is cut. The straw, the thin carry bag and the shiny gift wrap are best on REDUCE: we should not have taken them. The chips packet usually ends on DUMP, because almost nobody recycles it, so REDUCE is the better answer. The pizza box splits: the clean lid goes to the kabadiwala and the cheesy part to compost. The battery and the tube light are hazards. They need a special collection point, because they hold harmful metals such as mercury in tube lights.
+  - Note: Good answers. Banana peel, coffee grounds, eggshells, dry leaves and the garland go to COMPOST. The jam jar and shoebox are REUSE. The steel tumbler, chappal strap, cycle tube and toy car are REPAIR. Newspaper, a rinsed milk packet, the plastic bottle and the drinks can go to the KABADIWALA. The notebook with empty pages and the small T-shirt are REUSE: use the pages, or give the shirt to a younger child. The broken bangle can be REUSE in a mosaic, as Nek Chand did. Otherwise wrap it in paper so nobody is cut. The straw, the thin carry bag and the shiny gift wrap are best on REDUCE: we should not have taken them. The chips packet usually ends on DUMP, because almost nobody recycles it, so REDUCE is the better answer. The pizza box splits: the clean lid goes to the kabadiwala and the cheesy part to compost. The battery and the tube light are hazards. They need a special collection point, because they hold harmful metals such as mercury in tube lights.
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess. Then let's try it.  
@@ -582,8 +582,8 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **problem:** Pack a lunch for a picnic or a school day that sends nothing at all to the dustbin. Not one wrapper, packet or paper napkin.
 - **your turn:** Now plan your own zero-waste tiffin. Draw it, pack it, eat it, and check the dustbin afterwards. Did anything end up there?
 - **constraints:** The food must be filling and tasty.; You can only use things already in your home.; Anything left over must be eaten, reused or composted.
-- **general:** Use a steel tiffin and a refillable bottle, instead of foil, cling film and packets.; Choose fruit and home-made snacks instead of packaged ones.; Wrap rotis in a cloth napkin.; Take peels home for the compost.
-- **creative:** Wrap food in a clean banana leaf, as many South Indian homes do. It goes back to the soil.; Make a spoon from a thick slice of carrot or a piece of roti, so there is nothing to wash or throw.; Bring a small cloth bag to carry the tiffin, made in the T-shirt bag activity.
+- **general:** Use a steel tiffin and a refillable bottle, instead of foil, cling film and packets.; Choose fruit and home-made snacks instead of packaged ones.; Wrap chapatis in a cloth napkin.; Take peels home for the compost.
+- **creative:** Wrap food in a clean banana leaf, as many South Indian homes do. It goes back to the soil.; Make a spoon from a thick slice of carrot or a piece of dosa, so there is nothing to wash or throw.; Bring a small cloth bag to carry the tiffin, made in the T-shirt bag activity.
 - **s1 (5 min)**  
   *Parent does:* Look at a usual packed lunch together. Count everything that ends up in the dustbin.  
   *Parent says:* Let's count what a normal lunch throws out. Foil? A juice box? A chips packet? A paper napkin?  
@@ -596,7 +596,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Parent does:* Pack it together and eat it, at home or out.  
   *Parent says:* Let's pack it and eat it. Then we'll check.  
   *Child mode:* Pack your tiffin. Eat it! Keep the peels.
-  - Note: Good tiffins: roti rolls in a cloth, chana in a steel box, a whole fruit, water in a steel bottle. Peels go home for the compost.
+  - Note: Good tiffins: idlis wrapped in a banana leaf, sundal in a steel box, a whole fruit, water in a steel bottle. Peels go home for the compost.
 - **s4 (5 min)**  
   *Parent does:* Check: did anything go into a dustbin? Read the usual and creative solutions together.  
   *Parent says:* Did we do it? Did anything end up in the bin?  
@@ -647,7 +647,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 7. (truefalse) Burning garbage makes it disappear completely.  
    **Answer:** False. *Why:* False. Burning turns garbage into smoke, gases and ash. Atoms are never destroyed.
 8. (match) Match each action to its R.  
-   **Answer:** Carry a cloth bag → Reduce; Use a jam jar for dal → Reuse; Sew on a button → Repair; Sell newspapers to the kabadiwala → Recycle. *Why:* Reduce stops waste being made, reuse uses it again, repair mends it, and recycle turns it into new material.
+   **Answer:** Carry a cloth bag → Reduce; Use a jam jar for rava → Reuse; Sew on a button → Repair; Sell newspapers to the kabadiwala → Recycle. *Why:* Reduce stops waste being made, reuse uses it again, repair mends it, and recycle turns it into new material.
 9. (mcq) Who buys old newspapers, metal and bottles from homes and sells them for recycling?  
    Options: A doctor / A kabadiwala / A postman / A potter  
    **Answer:** A kabadiwala. *Why:* The kabadiwala weighs and buys them, and sells them on to dealers and factories.

@@ -7,7 +7,7 @@
   "sci.what-is-life.cells.L3",
   "sci.water.water-sources-and-uses.L3"
  ],
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home with the materials listed. The haldi test says to score clumps of powder, not the faint yellow dye haldi leaves on skin, and to wash fully between rounds so each round starts fresh. The jar test gives amounts, says the plain jar separates in 1 to 3 minutes, and says to stop at 10 minutes and write 'more than 600 seconds' if the soapy jar is still cloudy. Bar soap flakes work but slowly. The bread test says packet bread with preservatives can take 10 days or more, so bakery bread or pav is better, and that a mouldy soap slice is a real result to talk about. The bags are never opened. The reetha activity says to soak the shells at least 15 minutes beforehand, and what to do if they have not soaked long. The tippy-tap hangs by a taped string round its middle, three-quarters full, with the foot string on its neck, so it really tips. The Sneeze Catcher uses food colour or ink, because haldi blocks a spray nozzle. The timeline lets children write words instead of drawing all 8 cards, so it fits 25 minutes. The still-water check works in a flat: trays, buckets and coolers are scrubbed as well as emptied, because some mosquito eggs stick to the sides. The pepper test and the animal-watching activity were taken out, because they were about other ideas (surface tension, animal grooming) and broke the unit's one thread: germs ride on hands, and soap lifts them off. Parents should know: the bread test runs for a week, the haldi stains clothes and towels, reetha stings in the eyes, and the private-parts card is short and plain about body safety. The Semmelweis card and chart say honestly that mothers died; read it first and tell it calmly.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home with the materials listed. The turmeric test says to score clumps of powder, not the faint yellow dye turmeric leaves on skin, and to wash fully between rounds so each round starts fresh. The jar test gives amounts, says the plain jar separates in 1 to 3 minutes, and says to stop at 10 minutes and write 'more than 600 seconds' if the soapy jar is still cloudy. Bar soap flakes work but slowly. The bread test says packet bread with preservatives can take 10 days or more, so bakery bread or pav is better, and that a mouldy soap slice is a real result to talk about. The bags are never opened. The reetha activity says to soak the shells at least 15 minutes beforehand, and what to do if they have not soaked long. The tippy-tap hangs by a taped string round its middle, three-quarters full, with the foot string on its neck, so it really tips. The Sneeze Catcher uses food colour or ink, because turmeric blocks a spray nozzle. The timeline lets children write words instead of drawing all 8 cards, so it fits 25 minutes. The still-water check works in a flat: trays, buckets and coolers are scrubbed as well as emptied, because some mosquito eggs stick to the sides. The pepper test and the animal-watching activity were taken out, because they were about other ideas (surface tension, animal grooming) and broke the unit's one thread: germs ride on hands, and soap lifts them off. Parents should know: the bread test runs for a week, the turmeric stains clothes and towels, reetha stings in the eyes, and the private-parts card is short and plain about body safety. The Semmelweis card and chart say honestly that mothers died; read it first and tell it calmly.",
  "summary": {
   "text": "Plain water runs off an oily hand and leaves the dirt behind. Germs, the few microbes that can make us ill, sit in that thin layer of skin oil. A soap molecule holds oil at one end and water at the other. So the rinse water carries the oil away, and the germs go with it. Most of those germs go down the drain still alive, far from your mouth. Washing with soap before food and after the toilet stops germs passing from hand to mouth, and from person to person.",
   "art": "A child's soapy hands under a running tap, with a zoomed-in circle showing two-ended soap molecules wrapping a blob of oil with a germ inside, being carried off in the water towards the drain."
@@ -32,7 +32,7 @@
    "term": "Hygiene",
    "meaning": "The habits that keep our bodies, food, water and homes clean, so that germs do not make us ill.",
    "example": "Washing your hands with soap before you eat is hygiene. So is covering a pot of water.",
-   "art": "A small collage: soapy hands, a covered water matka, a toothbrush and a swept doorstep."
+   "art": "A small collage: soapy hands, a covered clay water pot, a toothbrush and a swept doorstep."
   },
   {
    "term": "Microbe",
@@ -150,12 +150,12 @@
    "definition": "Germs are the microbes and viruses that can make us ill. They travel from person to person on hands, in water and food, in the drops of a sneeze or cough, and on flies and mosquitoes.",
    "description": "Many bacteria can swim through water, but each second they cover less than the width of a hair. To get from one person to another, a germ needs a ride. Most often the ride is a hand. A hand touches a dirty surface, then touches the eyes, nose or mouth. Those soft, wet linings are the easiest way into the body. A sneeze sprays tiny drops across a room. Dirty water and uncovered food carry germs into the stomach. Flies walk on rubbish and then on food. Mosquitoes carry the germs of malaria and dengue from one person's blood to another's. Hygiene means breaking these paths at the right moments. The hand is the path that is easiest to break, with soap and water. How the body fights germs that do get in is in the unit on the immune system.",
    "examples": [
-    "A child plays with a ball outside, then eats a samosa without washing. Germs ride from the ball, to the hand, to the mouth.",
+    "A child plays with a ball outside, then eats a vada without washing. Germs ride from the ball, to the hand, to the mouth.",
     "A sneeze into the air can spray drops more than a metre. A sneeze into your elbow keeps most of them on your sleeve.",
     "A fly on an open rubbish heap can carry germs on its feet to uncovered food."
    ],
    "perspectives": [],
-   "art": "A chain of pictures joined by arrows: a dirty ball, a hand, a samosa, a mouth, with a big soap bar breaking the chain between hand and samosa.",
+   "art": "A chain of pictures joined by arrows: a dirty ball, a hand, a vada, a mouth, with a big soap bar breaking the chain between hand and vada.",
    "context": "This card explains the main idea of the unit: a germ needs a ride from one person to the next, and we can stop the ride."
   },
   {
@@ -177,7 +177,7 @@
    "definition": "A soap molecule has a head that sticks to water and a long tail that sticks to oil. The tails push into oily dirt and germs, and the heads face the water. Many soap molecules wrap each blob of oil in a tiny ball called a micelle, and the rinse water carries the balls away.",
    "description": "A soap molecule is long and thin. One end, its head, sticks to water. The other end, its long tail, avoids water and sticks to oil. When you rub soap on oily hands, millions of tails push into the oil. Rubbing breaks the oil into tiny blobs, and soap molecules cover each one, tails in and heads out. Now the outside of each blob sticks to water. So the rinse water carries the blobs off your skin and down the drain, with the dirt and germs inside them. This takes time and rubbing, which is why we rub for at least 20 seconds. Plain soap kills very few bacteria. It lifts them off, and the water carries them away alive.",
    "examples": [
-    "Dishwashing liquid lifts oil off a kadhai the same way that handwash lifts it off your hands.",
+    "Dishwashing liquid lifts oil off a kadai the same way that handwash lifts it off your hands.",
     "In the jar test, shaking with soap turns the two clear layers into one cloudy mix. The cloudiness is millions of tiny oil drops, each covered in soap molecules."
    ],
    "perspectives": [],
@@ -216,7 +216,7 @@
    "definition": "Wash hands with soap and water for at least 20 seconds, rubbing every part, at the moments germs are most likely to travel.",
    "description": "The most important moments are before you eat or touch food, after using the toilet, after blowing your nose or sneezing, after playing outside or with animals, and when you come home. Wet your hands. Add soap. Rub palms, then the backs of your hands, between your fingers, round each thumb, your fingertips and nails, and your wrists. Twenty seconds is about the time it takes to sing Happy Birthday twice. Rinse well. Then dry your hands on a clean towel or let them dry in the air. Wet hands pass on germs more easily than dry ones. Warm water and cold water work about the same. Plain soap works about as well as soap that says antibacterial, for everyday washing.",
    "examples": [
-    "In the haldi test, the yellow stayed longest between fingers, round the thumbs and under nails.",
+    "In the turmeric test, the yellow stayed longest between fingers, round the thumbs and under nails.",
     "A study found that washing hands with soap can cut tummy illnesses like diarrhoea by about a third, or more."
    ],
    "perspectives": [],
@@ -245,7 +245,7 @@
      "explanation": "Calling it a hygiene problem is misleading, because it makes people stop washing hands. She argues for targeted hygiene: wash well at the key moments, such as before food and after the toilet, and otherwise let children play outside, in mud and with animals."
     }
    ],
-   "art": "A child happily digging in a garden with muddy hands, then washing them with soap before eating a roti, with a question mark between the two pictures.",
+   "art": "A child happily digging in a garden with muddy hands, then washing them with soap before eating an idli, with a question mark between the two pictures.",
    "context": "This card is about a real argument among scientists: can a home be too clean?"
   },
   {
@@ -807,7 +807,7 @@
      "t": "truefalse",
      "p": "Rinsing with water alone removes as much dirt and germs as washing with soap.",
      "a": false,
-     "why": "False. Germs stick in the skin's oil. Water slides off oil. Soap holds oil and water both, so it lifts the germs away. The haldi test shows this.",
+     "why": "False. Germs stick in the skin's oil. Water slides off oil. Soap holds oil and water both, so it lifts the germs away. The turmeric test shows this.",
      "how": "e1"
     },
     {
@@ -848,7 +848,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the haldi test, where did the yellow stay longest after a quick wash?",
+     "p": "In the turmeric test, where did the yellow stay longest after a quick wash?",
      "opts": [
       "On the middle of the palms",
       "Between the fingers, round the thumbs and under the nails",
@@ -857,7 +857,7 @@
      ],
      "a": 1,
      "why": "The middle of the palm gets rubbed most. The gaps between fingers, the thumbs and under nails are easy to miss. Picking 'palms' usually means thinking the part you look at is the part that is dirtiest.",
-     "context": "In the haldi test, you rub oil and haldi on your hands as pretend germs, then wash them in different ways.",
+     "context": "In the turmeric test, you rub oil and turmeric on your hands as pretend germs, then wash them in different ways.",
      "how": "e1"
     },
     {
@@ -979,7 +979,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Riya, a girl in Class 3, did the haldi test. She scored how much yellow was left on her hands, from 0 (none) to 5 (all). Look at her chart. Which way of washing worked best?",
+     "p": "Meenakshi, a girl in Class 3, did the turmeric test. She scored how much yellow was left on her hands, from 0 (none) to 5 (all). Look at her chart. Which way of washing worked best?",
      "opts": [
       "Water only, 20 seconds",
       "Soap, 5 seconds",
@@ -988,7 +988,7 @@
      ],
      "a": 2,
      "why": "Soap for 20 seconds left the least yellow. Picking 'soap, 5 seconds' usually means thinking soap works instantly. Soap needs time and rubbing to break up all the oil.",
-     "context": "In the haldi test, you rub oil and haldi on your hands as pretend germs. Then you wash in three different ways, coating your hands again each time.",
+     "context": "In the turmeric test, you rub oil and turmeric on your hands as pretend germs. Then you wash in three different ways, coating your hands again each time.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: yellow left after washing, from 0 (none) to 5 (all)",
@@ -1016,15 +1016,15 @@
     },
     {
      "t": "mcq",
-     "p": "In the haldi test, why must you coat your hands with the same amount of oil and haldi each time?",
+     "p": "In the turmeric test, why must you coat your hands with the same amount of oil and turmeric each time?",
      "opts": [
       "To make it a fair test",
-      "Because haldi is expensive",
+      "Because turmeric is expensive",
       "So your hands smell nice",
       "It does not matter"
      ],
      "a": 0,
-     "why": "If you used more haldi one time, you would not know whether the washing or the amount caused the difference. Picking 'it does not matter' means missing the idea of a fair test: change only one thing.",
+     "why": "If you used more turmeric one time, you would not know whether the washing or the amount caused the difference. Picking 'it does not matter' means missing the idea of a fair test: change only one thing.",
      "how": "e1"
     },
     {
@@ -1413,7 +1413,7 @@
     },
     {
      "t": "write",
-     "p": "In the haldi test, where did the yellow go when you washed with soap? What does that tell you about where germs go when you wash?",
+     "p": "In the turmeric test, where did the yellow go when you washed with soap? What does that tell you about where germs go when you wash?",
      "lines": 4,
      "how": "e1",
      "a": "It went down the drain with the rinse water. Germs on hands mostly go the same way. The soap lifts them off and the water carries them away, mostly still alive.",
@@ -1425,12 +1425,12 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "The Haldi Germ Test: water or soap?",
+   "title": "The Turmeric Germ Test: water or soap?",
    "mins": 25,
    "days": 1,
    "question": "Does soap clean pretend germs off hands better than water? Does rubbing for longer help?",
    "predict": "Before you test, guess. Rank the three ways from best to worst: water only for 20 seconds, soap for 5 seconds, soap for 20 seconds. Why do you think so?",
-   "fair_test": "To make it fair, change only the way of washing. Use the same amount of oil and haldi each time, measured with the same spoon. Use the same tap, and count the seconds out loud. Wash off completely between rounds, then coat again.",
+   "fair_test": "To make it fair, change only the way of washing. Use the same amount of oil and turmeric each time, measured with the same spoon. Use the same tap, and count the seconds out loud. Wash off completely between rounds, then coat again.",
    "results_table": [
     "Way of washing",
     "Yellow left, from 0 (none) to 5 (all)",
@@ -1442,7 +1442,7 @@
      "qty": 3
     },
     {
-     "item": "a pinch of haldi (turmeric powder) for each round",
+     "item": "a pinch of turmeric powder for each round",
      "qty": 3
     },
     {
@@ -1462,7 +1462,7 @@
      "qty": 1
     }
    ],
-   "safety": "Haldi stains clothes yellow, so wear old clothes and roll up sleeves. Keep oily hands away from eyes. The floor near the tap can get slippery, so wipe it dry.",
+   "safety": "Turmeric stains clothes yellow, so wear old clothes and roll up sleeves. Keep oily hands away from eyes. The floor near the tap can get slippery, so wipe it dry.",
    "schedule": [
     {
      "day": 1,
@@ -1475,17 +1475,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put the oil, haldi, soap and towel near the tap. 2. Ask your child to rank the three ways of washing, best first.",
-     "say": "Real germs are far too small to see. So today, haldi in oil is our pretend germ. Germs on real hands sit in the skin's own oil, just like this. Which way of washing do you think will work best? Why do you think so?",
-     "kid": "Haldi in oil is your pretend germ. Real germs hide in your skin's oil. Guess which wash will work best.",
-     "context": "This is the first step of the haldi germ test. You use oil and haldi as pretend germs and test three ways of washing."
+     "do": "1. Put the oil, turmeric, soap and towel near the tap. 2. Ask your child to rank the three ways of washing, best first.",
+     "say": "Real germs are far too small to see. So today, turmeric in oil is our pretend germ. Germs on real hands sit in the skin's own oil, just like this. Which way of washing do you think will work best? Why do you think so?",
+     "kid": "Turmeric in oil is your pretend germ. Real germs hide in your skin's oil. Guess which wash will work best.",
+     "context": "This is the first step of the turmeric germ test. You use oil and turmeric as pretend germs and test three ways of washing."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Put half a teaspoon of oil in your child's palms. 2. Add a pinch of haldi. 3. Rub all over both hands, backs, between fingers and under nails, for 10 seconds. 4. Rinse under water only for 20 seconds, counting out loud, rubbing as normal. 5. Pat dry with the old towel.",
+     "do": "1. Put half a teaspoon of oil in your child's palms. 2. Add a pinch of turmeric. 3. Rub all over both hands, backs, between fingers and under nails, for 10 seconds. 4. Rinse under water only for 20 seconds, counting out loud, rubbing as normal. 5. Pat dry with the old towel.",
      "say": "Round one: water only, for 20 seconds. Count with me. Now look. How much yellow is left, from 0 for none to 5 for all of it?",
-     "kid": "Rub oil and haldi on both hands. Rinse with water only. Count to 20. How much yellow is left? Score it, 0 to 5.",
+     "kid": "Rub oil and turmeric on both hands. Rinse with water only. Count to 20. How much yellow is left? Score it, 0 to 5.",
      "ask": [
       {
        "q": "What do the water drops do on your oily hands?",
@@ -1500,10 +1500,10 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Wash off fully with soap and dry. 2. Coat again with the same oil and haldi, the same way. 3. This time use soap, but rub for only 5 seconds, then rinse. 4. Score the yellow.",
-     "say": "Round two: soap, but only 5 seconds. Same oil, same haldi. Only one thing changes. Score it.",
+     "do": "1. Wash off fully with soap and dry. 2. Coat again with the same oil and turmeric, the same way. 3. This time use soap, but rub for only 5 seconds, then rinse. 4. Score the yellow.",
+     "say": "Round two: soap, but only 5 seconds. Same oil, same turmeric. Only one thing changes. Score it.",
      "kid": "Coat your hands again, the same way. Now soap for just 5 seconds. Rinse. Score the yellow, 0 to 5.",
-     "parent": "Haldi dyes skin a little, so a faint yellow tint may stay even after a good wash. Score the clumps and patches of powder, not the faint colour. A pale tint that will not wash off is the dye, not the pretend germs. The soap bar will turn a little yellow too. Rinse it at the end."
+     "parent": "Turmeric dyes skin a little, so a faint yellow tint may stay even after a good wash. Score the clumps and patches of powder, not the faint colour. A pale tint that will not wash off is the dye, not the pretend germs. The soap bar will turn a little yellow too. Rinse it at the end."
     },
     {
      "id": "s4",
@@ -1569,10 +1569,10 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soap for 20 seconds cleans best. What I saw: water left a score of 4, and soap for 20 seconds left 0. The yellow went down the drain. Why: the haldi was stuck in oil, water slides off oil, and soap holds both oil and water, so the rinse carried it away."
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soap for 20 seconds cleans best. What I saw: water left a score of 4, and soap for 20 seconds left 0. The yellow went down the drain. Why: the turmeric was stuck in oil, water slides off oil, and soap holds both oil and water, so the rinse carried it away."
     }
    ],
-   "context": "This is the haldi germ test. You coat your hands in oil and haldi as pretend germs, then wash three ways to see which cleans best.",
+   "context": "This is the turmeric germ test. You coat your hands in oil and turmeric as pretend germs, then wash three ways to see which cleans best.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: yellow left after washing, from 0 (none) to 5 (all)",
@@ -1599,8 +1599,8 @@
    },
    "setup": [
     {
-     "art": "A child's open palms with a small pool of oil and a pinch of bright yellow haldi on them, next to a tap.",
-     "caption": "1. Put half a teaspoon of oil and a pinch of haldi on your hands. Rub them all over."
+     "art": "A child's open palms with a small pool of oil and a pinch of bright yellow turmeric on them, next to a tap.",
+     "caption": "1. Put half a teaspoon of oil and a pinch of turmeric on your hands. Rub them all over."
     },
     {
      "art": "Yellow hands under a running tap with water beading and rolling off, a clock showing 20 seconds.",
@@ -1639,7 +1639,7 @@
      "qty": 2
     },
     {
-     "item": "a pinch of haldi, to colour the oil yellow so it is easy to see (optional)",
+     "item": "a pinch of turmeric, to colour the oil yellow so it is easy to see (optional)",
      "qty": 1
     },
     {
@@ -1664,7 +1664,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Stir a pinch of haldi into the oil, so the oil turns yellow. 2. Put half a cup of water and 2 tablespoons of yellow oil in each jar. 3. Add half a teaspoon of soap to jar 2 only. 4. Close both lids tightly.",
+     "do": "1. Stir a pinch of turmeric into the oil, so the oil turns yellow. 2. Put half a cup of water and 2 tablespoons of yellow oil in each jar. 3. Add half a teaspoon of soap to jar 2 only. 4. Close both lids tightly.",
      "say": "Look: the yellow oil floats on top of the water in a layer. Oil and water don't mix. Jar 2 also has soap.",
      "kid": "Put water and yellow oil in two jars. Add soap to jar 2 only. See the oil float on top?",
      "adult": false,
@@ -2451,7 +2451,7 @@
     "Measure how far drops travel on newspaper, with a ruler or measuring tape."
    ],
    "materials": [
-    "a plant spray bottle filled with clean water and a few drops of dark food colour or ink. Do not use haldi, which blocks the nozzle.",
+    "a plant spray bottle filled with clean water and a few drops of dark food colour or ink. Do not use turmeric, which blocks the nozzle.",
     "two big sheets of newspaper laid end to end on the floor",
     "a ruler or measuring tape",
     "things to test as covers: a hand, an elbow in a sleeve, a hanky, a tissue, a cloth mask"
@@ -2689,7 +2689,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the haldi test, which wash left the least yellow?",
+   "p": "In the turmeric test, which wash left the least yellow?",
    "opts": [
     "Water only for 20 seconds",
     "Soap for 5 seconds",
@@ -2698,7 +2698,7 @@
    "a": 2,
    "why": "Soap plus 20 seconds of rubbing reaches all the oil, even between fingers. Picking soap for 5 seconds usually means thinking soap works instantly.",
    "outcome": 2,
-   "context": "In the haldi test, you coat your hands with oil and haldi as pretend germs, then wash three different ways.",
+   "context": "In the turmeric test, you coat your hands with oil and turmeric as pretend germs, then wash three different ways.",
    "chart": {
     "type": "bar",
     "title": "Made-up example: yellow left after washing, from 0 (none) to 5 (all)",
@@ -2857,8 +2857,8 @@
    "art": "Sacks of dried reetha and shikakai in a small shop."
   },
   {
-   "text": "A covered matka or steel water drum in the kitchen.",
-   "art": "A clay matka with a steel plate on top as a lid."
+   "text": "A covered clay pot or steel water drum in the kitchen.",
+   "art": "A clay water pot with a steel plate on top as a lid."
   },
   {
    "text": "Posters for a weekly 'dry day' against dengue in cities.",
@@ -3047,7 +3047,7 @@
    "answer": "2 times for 20 seconds. Singing it 3 times takes 30 seconds.",
    "explain": "Each song is about 10 seconds. 10 + 10 = 20, so 2 songs make 20 seconds. 10 + 10 + 10 = 30, so 3 songs take 30 seconds.",
    "math_unit": "math.time.duration.L3",
-   "context": "In the haldi test, you wash with soap for 20 seconds by singing Happy Birthday while you rub your hands.",
+   "context": "In the turmeric test, you wash with soap for 20 seconds by singing Happy Birthday while you rub your hands.",
    "how": "e1",
    "why_maths": "Counting 20 seconds in your head is hard while you scrub. Knowing how long a song lasts turns the song into a clock."
   },
@@ -3056,7 +3056,7 @@
    "answer": "Cleanest to least clean: soap 20 seconds, soap 5 seconds, water only. Soap for 20 seconds was 4 points cleaner.",
    "explain": "A lower score means less yellow left. 0 is lowest, then 2, then 4. So the order is soap 20 seconds, soap 5 seconds, water only. 4 take away 0 is 4, so it was 4 points cleaner.",
    "math_unit": "math.data.bar-charts.L3",
-   "context": "In the haldi test, you score how much yellow is left after washing, from 0 for none to 5 for all.",
+   "context": "In the turmeric test, you score how much yellow is left after washing, from 0 for none to 5 for all.",
    "chart": {
     "type": "bar",
     "title": "Made-up example: yellow left after washing, from 0 (none) to 5 (all)",
@@ -3371,9 +3371,9 @@
  "roots": {
   "context": "We have been learning how soap lifts oil and germs off our hands. Now we ask what a wash really does to the living things on our hands, and what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the haldi test, plain water ran over the oily yellow and left it behind. A soap molecule holds oil and water at once, so the rinse carried the yellow away. Most germs leave your hands the same way, still alive, in the rinse water. A good wash moves germs to a place where they cannot reach your mouth.",
+   "truth": "In the turmeric test, plain water ran over the oily yellow and left it behind. A soap molecule holds oil and water at once, so the rinse carried the yellow away. Most germs leave your hands the same way, still alive, in the rinse water. A good wash moves germs to a place where they cannot reach your mouth.",
    "habit": "We talk about washing as a war that kills germs, because adverts do. A plain soap wash mostly moves microbes from one place to another, and that is enough to keep us well.",
-   "evidence": "In the haldi test, the yellow went down the drain with the soapy water. Plain soap kills very few bacteria, yet tests at home found it cleans hands as well as antibacterial soap that kills them."
+   "evidence": "In the turmeric test, the yellow went down the drain with the soapy water. Plain soap kills very few bacteria, yet tests at home found it cleans hands as well as antibacterial soap that kills them."
   },
   "three": {
    "who_am_i": "Your skin is home to millions of microbes. A good wash leaves most of them where they live.",
@@ -3395,7 +3395,7 @@
    {
     "source": "Patanjali, Yoga Sutras 2.32",
     "teaching": "Among the five personal practices, the niyamas, the first is shaucha: cleanliness of the body and clarity of the mind.",
-    "link": "Shaucha starts with keeping the body clean, and it needs care. In the haldi test, the careful wash of every part of each hand was the one that worked."
+    "link": "Shaucha starts with keeping the body clean, and it needs care. In the turmeric test, the careful wash of every part of each hand was the one that worked."
    }
   ],
   "science": [

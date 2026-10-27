@@ -154,7 +154,7 @@ In space, there is no 'down' to guide the roots, so astronauts and scientists mu
   For: Roots grow in the soil, and plants die if the soil dries out. Plants in good soil grow better.  
   Against: Van Helmont's willow grew about 75 kilograms in five years, but the soil lost only about 60 grams. The soil gives water and small amounts of minerals. The rest of the plant is made from carbon dioxide from the air, using sunlight.
 - **Tomatoes, bhindi and cucumbers are vegetables, not fruits.** (Cooks, shopkeepers, and in 1893 the highest court in the United States; *debated*)  
-  For: In the kitchen, we use them in sabzi and salads, not in sweets. In 1893, the US Supreme Court decided that a tomato counts as a vegetable for paying taxes.  
+  For: In the kitchen, we use them in curries and salads, not in sweets. In 1893, the US Supreme Court decided that a tomato counts as a vegetable for paying taxes.  
   Against: To a botanist, anything that grows from a flower and holds seeds is a fruit. Both are useful ways of sorting. They just answer different questions.
 - **Every plant grows from a seed.** (A common idea; *rejected*)  
   For: Most plants we grow in gardens and fields do come from seeds.  
@@ -203,7 +203,7 @@ A moong plant grows from one seed and gives back about 200. Only a few need to g
 - *big:* Edmond Albius was 12 and enslaved when he found how to make vanilla flowers fruit. Why might a grown-up botanist have tried to take the credit? (hint: Who wrote the books, and who did the work with their hands, in 1841?)
 - *big:* Bamboo in Mizoram waits about 48 years, flowers once, then dies. What could it gain by waiting so long and flowering all together? (hint: Rats and birds eat bamboo seeds. Can they eat them all if every clump makes seeds in the same year?)
 - *big:* The bananas we eat are copies of one plant. Why might it be dangerous for the whole world to grow the same plant? (hint: What happens if one disease can harm a plant, and every plant is the same?)
-- *deep:* Your food comes from plants, and plants are built mostly from air. So is some of you made of air? (hint: Follow a carbon atom from the air into a wheat grain, into a roti, and into you.)
+- *deep:* Your food comes from plants, and plants are built mostly from air. So is some of you made of air? (hint: Follow a carbon atom from the air into a rice grain, into an idli, and into you.)
 - *big:* If people one day live on Mars, what would a plant need to go round its whole life cycle there? (hint: Think of every stage: seed, seedling, flower, fruit. What does each one need?)
 
 ## Story: Edmond's Thumb
@@ -758,7 +758,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
    Options: A cactus / A fern / A mango tree / Rice  
    **Answer:** A fern. *Why:* Ferns spread by spores, a fine dust made under their leaves. Ferns are older than flowering plants. Picking cactus is a common idea, because cactus flowers are rare to see. But cactuses do have flowers and fruits.
 10. (write) Your food comes from plants. Plants are built mostly from air. Explain, step by step, how some of the air could end up in your body.  
-   **Answer:** A wheat leaf takes in carbon dioxide from the air. It uses sunlight to make sugar, and stores some as starch in the wheat grain. The grain is ground into atta and made into a roti. I eat the roti, and my body uses the carbon in it to build itself.. *Why:* This follows a carbon atom through photosynthesis and food. It is a real path that carbon atoms take every day.
+   **Answer:** A rice leaf takes in carbon dioxide from the air. It uses sunlight to make sugar, and stores some as starch in the rice grain. The rice is ground into batter and steamed into an idli. I eat the idli, and my body uses the carbon in it to build itself.. *Why:* This follows a carbon atom through photosynthesis and food. It is a real path that carbon atoms take every day.
 11. (mcq) In the story, Edmond saw a pumpkin flower that had been dusted with pollen grow into a pumpkin, and one left alone shrivel. What was the one thing that was different between them?  
    Options: Pollen reached the middle of one flower and not the other / One got more sunlight / One was older / One was on a different plant  
    **Answer:** Pollen reached the middle of one flower and not the other. *Why:* Both were female flowers, which the story calls mother flowers, on the same patch. Only one had pollen pressed into its middle. That was the one thing changed, like a fair test. Picking 'more sunlight' means looking for a difference the story does not show.
@@ -795,7 +795,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
    **Answer:** Left over from the brinjal's flower. *Why:* It is made of the sepals, the small green leaves that wrapped the flower bud. They stay on as the fruit grows. Picking 'a leaf that grew later' is a fair guess, because it is green. But it was there first, around the flower.
 5. (mcq) To a scientist, which of these is a fruit?  
    Options: Bhindi / Potato / Carrot / Palak  
-   **Answer:** Bhindi. *Why:* Bhindi grows from a flower and has seeds inside, so it is a fruit. A potato is a swollen stem, a carrot is a root and palak is a leaf. Picking potato is common, because we eat both potatoes and bhindi as sabzi. But a potato has no seeds and did not grow from a flower.
+   **Answer:** Bhindi. *Why:* Bhindi grows from a flower and has seeds inside, so it is a fruit. A potato is a swollen stem, a carrot is a root and palak is a leaf. Picking potato is common, because we eat both potatoes and bhindi as vegetables. But a potato has no seeds and did not grow from a flower.
 6. (mcq) Why is a plant's life called a CYCLE?  
    Options: Because plants spin / Because it only happens once / Because plants grow in circles / Because the new seeds start the same stages again, going round  
    **Answer:** Because the new seeds start the same stages again, going round. *Why:* The new seeds are the start of new plants, so the stages go round in a circle. Picking 'it only happens once' is true for one plant. But its seeds carry the cycle on.

@@ -26,8 +26,8 @@
   {
    "term": "Material",
    "meaning": "What a thing is made of. Wood, steel, cotton, paper, plastic, rubber and glass are all materials.",
-   "example": "A steel tumbler is made of the material steel. A kurta is made of cotton.",
-   "art": "A steel tumbler, a cotton kurta and a wooden spoon, each with a label pointing to its material."
+   "example": "A steel tumbler is made of the material steel. A veshti is made of cotton.",
+   "art": "A steel tumbler, a cotton veshti and a wooden spoon, each with a label pointing to its material."
   },
   {
    "term": "Property",
@@ -245,7 +245,7 @@
       "3"
      ],
      [
-      "Polyester dupatta",
+      "Polyester sari",
       "8",
       "9",
       "7",
@@ -446,7 +446,7 @@
    "description": "A spider's safety line, called dragline silk, is about as strong as steel for its thickness. But it is far lighter, and very stretchy too. Mother-of-pearl is the shiny inside of a seashell. It is made of tiny flat bricks of chalky material, glued with a soft protein. A crack in it cannot run straight. It has to wind around every brick, so the shell is very tough. Your bones are hard but slightly bendy, and they repair themselves when they crack. No factory can yet make spider silk as well as a spider does. Scientists test these materials, then try to copy them. Copying nature's designs is called biomimicry.",
    "examples": [
     "A spider's web survives wind, rain and flying insects crashing into it.",
-    "The shiny inside of a seashell is mother-of-pearl. Find one on a beach in Goa or Puri.",
+    "The shiny inside of a seashell is mother-of-pearl. Find one on a beach in Kanyakumari or Puri.",
     "A broken bone, held still in a plaster cast, mends itself in a few weeks."
    ],
    "perspectives": [],
@@ -672,25 +672,25 @@
      "kind": "cards",
      "title": "24 test cards to cut out",
      "items": [
-      "Riya tests two cloths. She pours 1 spoon of water on the cotton and 1 spoon on the wool.",
+      "Kavya tests two cloths. She pours 1 spoon of water on the cotton and 1 spoon on the wool.",
       "Arjun pours 1 spoon of water on the cotton and 3 spoons on the plastic.",
-      "Meena tests three papers. Each strip is 2 cm wide and 15 cm long.",
+      "Meenakshi tests three papers. Each strip is 2 cm wide and 15 cm long.",
       "Kabir's toilet paper strip is 2 cm wide. His kitchen towel strip is 4 cm wide.",
-      "Zoya adds one-rupee coins to every bag, one at a time.",
-      "Dev adds one-rupee coins to the first bag and five-rupee coins to the second.",
+      "Ayesha adds one-rupee coins to every bag, one at a time.",
+      "Karthik adds one-rupee coins to the first bag and five-rupee coins to the second.",
       "Sara times every cloth for exactly 1 minute.",
       "Imran leaves the cotton for 1 minute and the plastic for 10 minutes.",
-      "Tara hangs every rubber band from the same hook.",
-      "Neel tests the thin band with 10 coins and the thick band with 20 coins, then says the thick band stretches more.",
-      "Asha dips every paper strip 1 cm into the water.",
+      "Nila hangs every rubber band from the same hook.",
+      "Vishnu tests the thin band with 10 coins and the thick band with 20 coins, then says the thick band stretches more.",
+      "Lakshmi dips every paper strip 1 cm into the water.",
       "Vikram dips the kitchen towel 1 cm into the water and the newspaper 4 cm.",
       "Leela tests each paper three times and writes down every try.",
-      "Rohan tests each paper once and keeps only the result he likes best.",
+      "Farhan tests each paper once and keeps only the result he likes best.",
       "Ammu uses fresh water from the same jug for every cloth.",
       "Joseph tests the cotton outside in the hot sun and the wool inside in the shade.",
       "Priya drops every coin gently into the bag.",
       "Sunny drops some coins gently and throws some in hard.",
-      "Gita measures every band with the same ruler, from the bottom of the hook.",
+      "Revathi measures every band with the same ruler, from the bottom of the hook.",
       "Ravi measures one band from the hook and one from the top of the bag.",
       "FIX IT: Make this fair. A test pours 2 spoons on cotton and 5 spoons on plastic.",
       "FIX IT: Make this fair. A test uses a dry strip of tissue and a wet strip of kitchen towel.",
@@ -763,7 +763,7 @@
      "do": "1. Take turns drawing a card and reading it out. 2. The player puts it on FAIR or UNFAIR. 3. For UNFAIR cards, they say what else changed. 4. Give one token for each correct answer.",
      "say": "Read your card. Is it fair? If it isn't, tell us the sneaky thing that changed.",
      "kid": "Take turns. Read your card. FAIR or UNFAIR? If it is unfair, say what else changed. Win a token!",
-     "parent": "Fair cards: Riya, Meena, Zoya, Sara, Tara, Asha, Leela, Ammu, Priya and Gita. The unfair cards, and the sneaky change in each: Arjun, the amount of water. Kabir, the strip width. Dev, the kind of coin. Imran, the time. Neel, the number of coins. Vikram, how deep the strip dips. Rohan, one try and picking results. Joseph, sun and shade. Sunny, how the coins are dropped. Ravi, where he measured from. Rohan's card is a good one to talk about. Keeping only the result you like is unfair to the truth."
+     "parent": "Fair cards: Kavya, Meenakshi, Ayesha, Sara, Nila, Lakshmi, Leela, Ammu, Priya and Revathi. The unfair cards, and the sneaky change in each: Arjun, the amount of water. Kabir, the strip width. Karthik, the kind of coin. Imran, the time. Vishnu, the number of coins. Vikram, how deep the strip dips. Farhan, one try and picking results. Joseph, sun and shade. Sunny, how the coins are dropped. Ravi, where he measured from. Farhan's card is a good one to talk about. Keeping only the result you like is unfair to the truth."
     },
     {
      "id": "s4",
@@ -788,7 +788,7 @@
      "do": "1. Count the tokens to find the winner. 2. Look at the UNFAIR pile together and sort it by what changed.",
      "say": "Look at the unfair pile. What sneaky changes come up most often? Amounts, times or sizes?",
      "kid": "Count your tokens. Who won? Look at the unfair pile. Which sneaky change came up most?",
-     "think": "Rohan kept only the result he liked. Is that worse than changing the water by mistake? Why?"
+     "think": "Farhan kept only the result he liked. Is that worse than changing the water by mistake? Why?"
     }
    ],
    "context": "This is a card game about fair tests of materials. Each card describes a test that a child did. Players judge whether only the material changed, or whether something else sneaked in.",
@@ -994,7 +994,7 @@
       "Woollen sweater",
       "Cotton hanky",
       "Old jeans",
-      "Polyester dupatta"
+      "Polyester sari"
      ],
      "a": 2,
      "why": "Only 3 ml came through the old jeans, the least of the four. Picking the woollen sweater usually means the tallest bar was read as the best, or that thick was taken to mean waterproof. Here the bars show water that got through, so the shortest bar is best.",
@@ -1017,7 +1017,7 @@
         "emoji": "👖"
        },
        {
-        "label": "Polyester dupatta",
+        "label": "Polyester sari",
         "value": 8,
         "emoji": "🧣"
        },
@@ -1104,7 +1104,7 @@
     },
     {
      "t": "mcq",
-     "p": "Dev, a boy in Class 3, tests two paper strips. He puts one-rupee coins in the first bag and five-rupee coins in the second. Why is that unfair?",
+     "p": "Karthik, a boy in Class 3, tests two paper strips. He puts one-rupee coins in the first bag and five-rupee coins in the second. Why is that unfair?",
      "opts": [
       "Five-rupee coins are shinier",
       "The coins are not the same weight",
@@ -1499,7 +1499,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Neel, a boy in Class 4, hangs 10 coins from a thin rubber band and 20 coins from a thick band. The thick band stretched more. He says thick bands are stretchier. What is the best reply?",
+     "p": "Vishnu, a boy in Class 4, hangs 10 coins from a thin rubber band and 20 coins from a thick band. The thick band stretched more. He says thick bands are stretchier. What is the best reply?",
      "opts": [
       "He is right, because the thick band stretched more",
       "His test is unfair, because the number of coins changed too",
@@ -1508,7 +1508,7 @@
      ],
      "a": 1,
      "why": "Two things changed: the band and the load. The thick band might have stretched more only because it had twice the coins. Picking 'thick bands are always less stretchy' jumps to a new rule without a fair test. We do not know until we test both with the same coins.",
-     "context": "Neel hangs a bag of coins from rubber bands and measures how long each band gets with a ruler."
+     "context": "Vishnu hangs a bag of coins from rubber bands and measures how long each band gets with a ruler."
     },
     {
      "t": "mcq",
@@ -1687,7 +1687,7 @@
    ],
    "materials": [
     {
-     "item": "4 kinds of cloth from old clothes, 3 squares of each, about 12 cm by 12 cm. For example: a cotton hanky or old kurta, old jeans, a polyester (synthetic) dupatta or sports T-shirt, and an old woollen sweater or shawl",
+     "item": "4 kinds of cloth from old clothes, 3 squares of each, about 12 cm by 12 cm. For example: a cotton hanky or old kurta, old jeans, a polyester (synthetic) sari or sports T-shirt, and an old woollen sweater or shawl",
      "qty": 12
     },
     {
@@ -1779,7 +1779,7 @@
      "parent": "Help only with questions. If the amount of rain is missing, ask: 'What if one patch got more rain?' If the height is missing, ask: 'What if we dropped the rain from higher on one?' If the time is missing, ask: 'What if one waited longer?' If tightness is missing, ask: 'What if one patch was loose and saggy?' A full plan: CHANGE the cloth. KEEP THE SAME the patch size, the tumblers, how tight, 20 ml of rain, 10 cm high and 4 minutes of waiting. MEASURE the millilitres that come through.",
      "check": {
       "t": "mcq",
-      "q": "Riya, a girl in Class 3, tests two cloths. She pours 20 ml of water on the cotton and lifts it after 1 minute. She pours 20 ml on the wool and lifts it after 4 minutes. More water came through the wool. Is her test fair?",
+      "q": "Kavya, a girl in Class 3, tests two cloths. She pours 20 ml of water on the cotton and lifts it after 1 minute. She pours 20 ml on the wool and lifts it after 4 minutes. More water came through the wool. Is her test fair?",
       "options": [
        "Yes, because she tested two cloths",
        "No, because the wool waited longer",
@@ -1849,7 +1849,7 @@
         "3"
        ],
        [
-        "Polyester dupatta",
+        "Polyester sari",
         "8",
         "9",
         "7",
@@ -1919,7 +1919,7 @@
         "emoji": "👖"
        },
        {
-        "label": "Polyester dupatta",
+        "label": "Polyester sari",
         "value": 8,
         "emoji": "🧣"
        },
@@ -1956,7 +1956,7 @@
      "say": "Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened. Then look closely at the cloths again. Do you see anything new?",
      "kid": "Write three sentences. What I think. What I saw. Why it happened. Then look at the cloths with a magnifier. What do you see now?",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good, even if the guess was wrong. A good answer sounds like this. What I think: old jeans make the best patch of our four cloths. What I saw: only about 3 ml came through the jeans. About 14 ml came through the sweater, even though it is thick. Why: the jeans' threads are packed tight, so the gaps are tiny. The sweater is knitted in loops, with big holes between them. Water goes through the biggest gaps first.",
-     "think": "The thick sweater may have let more rain through than the thin dupatta. What might matter more than thickness?"
+     "think": "The thick sweater may have let more rain through than the thin sari. What might matter more than thickness?"
     }
    ],
    "example_chart": {
@@ -1977,7 +1977,7 @@
       "emoji": "👖"
      },
      {
-      "label": "Polyester dupatta",
+      "label": "Polyester sari",
       "value": 8,
       "emoji": "🧣"
      },
@@ -3966,14 +3966,14 @@
   },
   {
    "t": "mcq",
-   "p": "Meena, a girl in Class 3, is about to test cloths for an umbrella. She says: 'The wool will keep the rain out best.' What would make her guess more useful?",
+   "p": "Meenakshi, a girl in Class 3, is about to test cloths for an umbrella. She says: 'The wool will keep the rain out best.' What would make her guess more useful?",
    "opts": [
     "Nothing, a guess is just a guess",
     "Adding her reason, like 'because it is the thickest'",
     "Looking up the answer first"
    ],
    "a": 1,
-   "why": "A guess with a reason can be checked. If thick cloth lets rain through, Meena learns that thickness was not the reason, and that is a real discovery. Picking 'look up the answer' skips the thinking that the test is for.",
+   "why": "A guess with a reason can be checked. If thick cloth lets rain through, Meenakshi learns that thickness was not the reason, and that is a real discovery. Picking 'look up the answer' skips the thinking that the test is for.",
    "outcome": 1
   },
   {
@@ -4516,7 +4516,7 @@
    "why_maths": "Three tries give three numbers, but we need one number for each paper. Putting them in order and taking the middle one gives a fair single result that one fluke cannot spoil."
   },
   {
-   "problem": "Here are some made-up results from the umbrella patch test. The middle values for rain that came through were: cotton hanky 12 ml, old jeans 3 ml, polyester dupatta 8 ml, woollen sweater 14 ml. Draw a bar chart. The sweater was the thickest cloth. Does the chart show that thick cloth keeps rain out best? What else could explain it?",
+   "problem": "Here are some made-up results from the umbrella patch test. The middle values for rain that came through were: cotton hanky 12 ml, old jeans 3 ml, polyester sari 8 ml, woollen sweater 14 ml. Draw a bar chart. The sweater was the thickest cloth. Does the chart show that thick cloth keeps rain out best? What else could explain it?",
    "answer": "No. The thickest cloth let the most rain through. Here is the bar chart. Something other than thickness must matter, such as the size of the gaps between the threads.",
    "explain": "Draw one bar for each cloth, as tall as its number. The tallest bar is the sweater, at 14 ml, and the shortest is the jeans, at 3 ml. If thick always meant waterproof, the sweater's bar would be the shortest. It is the tallest. So thickness is not the whole story. A knitted sweater has big holes between its loops. Jeans are woven tight.",
    "math_unit": "math.data.bar-charts.L3",
@@ -4538,7 +4538,7 @@
       "emoji": "👖"
      },
      {
-      "label": "Polyester dupatta",
+      "label": "Polyester sari",
       "value": 8,
       "emoji": "🧣"
      },
@@ -4553,9 +4553,9 @@
    "why_maths": "A bar chart puts the cloths side by side, so you can check a guess, like 'thick is best', at a glance."
   },
   {
-   "problem": "Asha, a girl in Class 3, measured the water that came through the cotton hanky with her small spoon. It filled 4 spoons. Her father measured the same water with his big spoon. It filled 2 spoons. Then they both used the medicine cup, and both got 12 ml. Why did the medicine cup agree, when the spoons did not?",
+   "problem": "Lakshmi, a girl in Class 3, measured the water that came through the cotton hanky with her small spoon. It filled 4 spoons. Her father measured the same water with his big spoon. It filled 2 spoons. Then they both used the medicine cup, and both got 12 ml. Why did the medicine cup agree, when the spoons did not?",
    "answer": "Because a millilitre is the same size for everyone, but spoons are not.",
-   "explain": "Asha's spoon is smaller than her father's, so the same water fills more of her spoons. A millilitre is a standard unit. It is exactly the same amount on every medicine cup in the world. So both of them got 12 ml.",
+   "explain": "Lakshmi's spoon is smaller than her father's, so the same water fills more of her spoons. A millilitre is a standard unit. It is exactly the same amount on every medicine cup in the world. So both of them got 12 ml.",
    "math_unit": "math.measurement-basics.standard-units.L3",
    "context": "This question is about the umbrella patch test. You stretch squares of old cloth over steel tumblers, let 20 ml of 'rain' drip onto each one, and after 4 minutes measure how much water came through.",
    "how": "e1",

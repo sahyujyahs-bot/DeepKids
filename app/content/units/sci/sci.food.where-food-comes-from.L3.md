@@ -32,7 +32,7 @@
 - **Mineral**: A non-living material that comes from rocks, soil or the sea, such as salt. Our bodies need small amounts of some minerals, like iron and calcium. *e.g.* Salt is a mineral. Plants take up iron and calcium from the soil, and we get them by eating the plants.
 - **Photosynthesis**: How a green plant makes food. Its leaves use the energy of sunlight to join carbon dioxide from the air with water, making sugar. *e.g.* A mango leaf in the sun is making food right now.
 - **Food chain**: A list of who eats whom, starting from a plant. *e.g.* A cow eats grass. You drink the cow's milk. So the chain is grass, then cow, then you.
-- **Starch**: A kind of food that plants make and store, mostly in seeds, roots and underground stems. It gives us energy. *e.g.* Rice, potato, roti and ragi are full of starch.
+- **Starch**: A kind of food that plants make and store, mostly in seeds, roots and underground stems. It gives us energy. *e.g.* Rice, potato, chapati and ragi are full of starch.
 - **Crop**: A plant that farmers grow in large amounts. *e.g.* Rice, wheat, sugarcane and cotton are crops.
 - **Seasonal food**: Food that grows and is fresh at a certain time of year. *e.g.* Mangoes in summer. Carrots, peas and sarson in winter.
 - **Rasa**: The old Sanskrit word for taste. Old Indian books named six rasas. *e.g.* Sweet, sour, salty, pungent (spicy), bitter and astringent (the dry, puckery feel of raw banana).
@@ -47,7 +47,7 @@
 ### What food is, and the four places it comes from · *defined*
 **Definition:** Food is anything a living thing takes in to get energy and to build its body. Our food comes from four kinds of places: plants, animals, fungi and microbes, and the non-living Earth.
 
-Look at any meal and sort it. Rice, dal, sabzi, fruit and spices come from plants. Milk, curd, ghee, eggs, fish and honey come from animals. Mushrooms are fungi, and curd and idli batter are changed by microbes, tiny living things. Salt and water are the odd ones out. They were never alive. They come from the sea, the rocks and the rain. So almost all of our food was once part of something alive.
+Look at any meal and sort it. Rice, dal, vegetables, fruit and spices come from plants. Milk, curd, ghee, eggs, fish and honey come from animals. Mushrooms are fungi, and curd and idli batter are changed by microbes, tiny living things. Salt and water are the odd ones out. They were never alive. They come from the sea, the rocks and the rain. So almost all of our food was once part of something alive.
 - e.g. A plate of idli, sambar and coconut chutney: rice and urad dal (plants), tiny microbes that made the batter rise, tamarind and vegetables (plants), salt (the Earth), water (the Earth).
 - e.g. A glass of lassi: milk from a cow or buffalo, microbes that turned it into curd, sugar from sugarcane, and water.
 - e.g. A mushroom masala: mushrooms (fungi), onion and tomato (plants), oil from mustard or groundnut seeds, and salt.
@@ -66,7 +66,7 @@ This sounds like a silly question, but people really argue about it. The answer 
 - e.g. Bhindi, brinjal, cucumber, pumpkin, chilli and tomato all grow from flowers and hold seeds.
 - e.g. Nobody puts brinjal in a fruit salad, even though a botanist calls it a fruit.
 - **Botanists, the scientists who study plants:** A fruit is the part that grows from a flower and holds the seeds. So tomato, bhindi and brinjal are fruits. 'Vegetable' is not a science word at all. It just means any other plant part we eat.
-- **Cooks:** A fruit is sweet and eaten raw or as a dessert. A vegetable is cooked in a sabzi or a curry. So a tomato is a vegetable.
+- **Cooks:** A fruit is sweet and eaten raw or as a dessert. A vegetable is cooked in a poriyal or a curry. So a tomato is a vegetable.
 - **Judges of the United States Supreme Court, in 1893:** A family of tomato importers argued that tomatoes were fruits, so they should not pay the tax on imported vegetables. The judges agreed that botanists call tomatoes fruits. But they ruled that in everyday speech a tomato is a vegetable, so the tax had to be paid.
 ### Food from animals, and what the animals ate · *defined*
 **Definition:** Some of our food comes from animals: milk and everything made from it, eggs, honey, meat and fish. Every one of those animals got its own food from plants, or from animals that ate plants.
@@ -122,7 +122,7 @@ In 1977, scientists dived more than 2 kilometres down to the floor of the Pacifi
 - e.g. Some microbes in soil and in deep rocks also make food from chemicals, without sunlight.
 ### Six tastes or five? Old Indian knowledge meets today's science · *debated*
 About 2,000 years ago, the Charaka Samhita, one of the oldest books of Ayurveda, India's traditional medicine, named six tastes, or rasas. They are madhura (sweet), amla (sour), lavana (salty), katu (pungent or spicy), tikta (bitter) and kashaya (astringent, the dry puckery feel of raw banana or strong tea). It taught that a good meal should have all six in balance. A festive thali often still does. Today, scientists study the taste cells on the tongue. They agree with some of the old list and explain other parts differently.
-- e.g. A thali with sweet kheer, sour lemon pickle, salty papad, spicy chutney, bitter karela and astringent raw banana sabzi has all six rasas.
+- e.g. A thali with sweet payasam, sour lemon pickle, salty papad, spicy chutney, bitter karela and astringent raw banana poriyal has all six rasas.
 - e.g. When you bite a chilli, your mouth feels hot, even though the chilli itself is not hot.
 - **The Charaka Samhita, an Ayurveda book about 2,000 years old:** There are six tastes. Each one has its own effect on the body. A healthy meal balances all six.
 - **Taste scientists today:** The tongue has taste cells for five basic tastes: sweet, sour, salty, bitter and umami. Umami is a savoury taste, found in ripe tomatoes, mushrooms and cheese. It was named in 1908 by Kikunae Ikeda, a Japanese chemist. Spicy is not a taste at all. Chilli switches on nerves that sense heat and pain. David Julius shared a Nobel Prize in 2021 partly for finding the nerve sensor that chilli switches on. Astringent is a touch feeling, a drying of the mouth.
@@ -200,19 +200,19 @@ We have been following food back to where it comes from: plants, animals, tiny l
 Most food starts as sunlight caught by a leaf. A wheat plant uses that energy to build its grain. A cow uses grass to build milk, and curd bacteria use milk to build more bacteria. Your body uses all of these to build you. Each living thing takes what another made and builds itself from it, so every meal links many lives into one chain.
 
 - **Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli):** The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality. From food all beings are born. By food they live. Into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.' (In this unit, curd came from milk, milk from grass, and grass from sunlight, air and water. Bhrigu's teaching says the same: every eater is made of food, and in the end becomes food for others.)
-- **Thich Nhat Hanh, The Heart of Understanding (1988), the sheet of paper:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. He called this 'interbeing': nothing exists by itself alone. (Look deeply at a roti and you see the Sun, the rain, the wheat field, the farmer and the miller. The roti is made of things that are not roti.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), the sheet of paper:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. He called this 'interbeing': nothing exists by itself alone. (Look deeply at a chapati and you see the Sun, the rain, the wheat field, the farmer and the miller. The chapati is made of things that are not chapati.)
 - **Robin Wall Kimmerer, Braiding Sweetgrass (2013), the chapter 'The Honorable Harvest':** Robin Wall Kimmerer, a Potawatomi botanist, shares the Indigenous teaching she calls the Honourable Harvest. Take only what you need. Never take the first one you find, and never take more than half. Share what you take, and give thanks for it. (In the story, the seed keepers did not eat the seeds, so the crops could be grown again. Farmers everywhere save part of each harvest as seed for the next sowing.)
 - Science (settled): Almost every food chain begins with sunlight caught by plants or algae. The atoms in your body came from your food, water and air, and they are always being replaced.
 - Science (idea): Some scientists think the very first life may have begun at deep-sea vents, feeding on chemicals, before any plant existed.
 - Other view, Many biologists, and the Charvaka thinkers of ancient India: Many biologists say eating is chemistry: food is broken into small pieces and rebuilt into a body. On this view, the chain from the Sun to your plate is energy and atoms moving, and there is nothing more to it. The Charvaka thinkers also taught that only matter is real, and that the self ends when the body dies.
-- Practice, The Slow Bite (3 min): Take one small piece of roti, a raisin or a slice of fruit. Hold it in your palm and just look at it for a moment. Close your eyes. Think of the Sun that shone on it. Think of the rain, the soil and the farmer. Now put it in your mouth, but don't chew yet. Feel it on your tongue. Chew very slowly, and swallow. This food is now becoming you. Sit quietly for three breaths.
+- Practice, The Slow Bite (3 min): Take one small piece of chapati, a raisin or a slice of fruit. Hold it in your palm and just look at it for a moment. Close your eyes. Think of the Sun that shone on it. Think of the rain, the soil and the farmer. Now put it in your mouth, but don't chew yet. Feel it on your tongue. Chew very slowly, and swallow. This food is now becoming you. Sit quietly for three breaths.
 - Ask: Where does your food stop and you begin?
 - Ask: Can you find any food on your plate today that no living thing helped to make?
 - Ask: If your body is always being rebuilt from food, what part of you stays the same?
 
 ## Deep and big questions
 - *deep:* A plant is our food. So what is a plant's food? (hint: A huge tree grew in a pot, but the soil in the pot hardly changed. Where did the tree come from?)
-- *deep:* If you follow any food back far enough, where do you always end up? (hint: Try your curd, your roti and your fish. What is at the very start of each chain?)
+- *deep:* If you follow any food back far enough, where do you always end up? (hint: Try your curd, your chapati and your fish. What is at the very start of each chain?)
 - *deep:* When you eat a grain of rice, are you eating something alive? (hint: Whole moong and unpolished rice can still sprout. Does cooking change that?)
 - *big:* Your blood is rebuilt every few months from food. So are you the same person you were last year? (hint: Think of a river. The water is always new, but it is still the same river.)
 - *deep:* Is there any food that is not, in some way, sunlight? (hint: Think of salt, water, and the tube worms at deep-sea vents.)
@@ -279,7 +279,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came
 ## Games
 ### g1 · Pass the Sunlight (20 min)
 - **rules:** Shuffle all the cards. Deal 6 to each player. Put the rest face down as a pile.; On your turn, take one card from the pile. Then try to build a food chain on the table, starting with a SUN card.; A chain must make sense going forwards. For example: SUN, then Grass, then Cow, then Milk, then Curd.; Say the chain out loud: 'The Sun fed the grass. The grass fed the cow. The cow made milk.' If everyone agrees each step is true, you score 1 point for each card in the chain.; HELPER cards can join a chain where microbes change a food, like Milk then HELPER: curd bacteria then Curd.; EARTH cards can be added to any finished plate for 1 bonus point, if you say where that salt or water came from.; The SURPRISE card starts a chain with no SUN at all. If you can explain it, score 3 bonus points.; When the pile runs out, the player with the most points wins.
-- **Printable cards: 36 chain cards to cut out:** SUN; SUN; SUN; SUN; Grass; Rice plant; Wheat plant; Mango tree; Sugarcane; Mustard flower; Coconut palm; Tiny algae in the sea; Toor plant; Cow; Hen; Goat; Honeybee; Small fish; Big fish; Milk; Curd; Ghee; Egg; Honey; Fish curry; Roti; Rice; Mango; Jaggery; Coconut chutney; Dal; HELPER: curd bacteria; HELPER: idli yeast; EARTH: salt; EARTH: water; SURPRISE: deep-sea vent microbes
+- **Printable cards: 36 chain cards to cut out:** SUN; SUN; SUN; SUN; Grass; Rice plant; Wheat plant; Mango tree; Sugarcane; Mustard flower; Coconut palm; Tiny algae in the sea; Toor plant; Cow; Hen; Goat; Honeybee; Small fish; Big fish; Milk; Curd; Ghee; Egg; Honey; Fish curry; Chapati; Rice; Mango; Jaggery; Coconut chutney; Dal; HELPER: curd bacteria; HELPER: idli yeast; EARTH: salt; EARTH: water; SURPRISE: deep-sea vent microbes
 - **Printable board: A long table mat with five spaces in a row:** SUN; PLANT; ANIMAL or HELPER; FOOD; MY PLATE
 - **Printable score sheet: Sunlight score sheet:** Player; Chains built; Links in each chain; Bonus points; Total
 - **s1 (3 min)**  
@@ -415,7 +415,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came
   *Parent does:* 1. Lay the nine food pieces in a row on a steel plate. 2. Ask your child where each one came from. 3. Ask them to guess which have starch.  
   *Parent says:* Starch is the food a plant packs away for later, mostly in its seeds and its underground parts. Which of these do you think have starch?  
   *Child mode:* Look at the nine foods. Where did each one come from? Which ones have starch, do you think?
-  - Ask: Which foods do you think have starch? Why? (good: Rice and roti, because they come from seeds.; Potato, because it stores food underground.; Not paneer, because it comes from milk.)
+  - Ask: Which foods do you think have starch? Why? (good: Rice and chapati, because they come from seeds.; Potato, because it stores food underground.; Not paneer, because it comes from milk.)
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* 1. A grown-up mixes 5 drops of iodine with 2 spoons of water in a small cup. 2. Put one drop on a slice of raw potato first, to show what blue-black looks like.  
   *Parent says:* Watch the drop on the potato. If there is starch, the orange-brown colour turns blue-black.  
@@ -425,19 +425,19 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came
   *Parent does:* 1. A grown-up puts 2 drops on each of the other food pieces. 2. Wait half a minute. 3. Your child writes blue-black or brown-orange in the table for each one.  
   *Parent says:* Same number of drops on each one. That keeps it fair. Now let's write down what each one did.  
   *Child mode:* Two drops on each food. Wait. Write down the colour for each one.
-  - Note: Expected results: potato, rice, roti, raw banana and besan or ragi turn blue-black. Cucumber shows little or none. Paneer, sugar and salt stay brown-orange. Sugar is a surprise: it comes from a plant but is not starch. Salt never came from a living thing. If the paneer turns blue-black, some starch may have been added to it when it was made. Some shop paneer has starch added, so that is a real finding, not a mistake.
+  - Note: Expected results: potato, rice, chapati, raw banana and besan or ragi turn blue-black. Cucumber shows little or none. Paneer, sugar and salt stay brown-orange. Sugar is a surprise: it comes from a plant but is not starch. Salt never came from a living thing. If the paneer turns blue-black, some starch may have been added to it when it was made. Some shop paneer has starch added, so that is a real finding, not a mistake.
   - Check: The paneer stayed brown-orange. What does that tell us? → **Paneer has no starch**
 - **s4 (4 min)**  
   *Parent does:* Sort the tested foods into two groups: blue-black and not. Ask which part of a plant each blue-black food came from.  
   *Parent says:* Look at all the blue-black ones. What do they have in common?  
   *Child mode:* Put the blue-black foods together. Which part of a plant did each come from?
-  - Ask: Which plant parts gave us starch? (good: Seeds, like rice, wheat in the roti, and besan from chana.; The potato, an underground stem.; Banana, a fruit that is not ripe yet.)
+  - Ask: Which plant parts gave us starch? (good: Seeds, like rice, wheat in the chapati, and besan from chana.; The potato, an underground stem.; Banana, a fruit that is not ripe yet.)
   - Think: A ripe banana tastes sweeter than a raw one. Where did its starch go?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write: what I think, what I saw, why.  
   *Parent says:* Now tell me three things. What do you think, what did you see, and why?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, roti, besan and potato turned blue-black, but paneer did not. Why: plants store starch as food for their baby plants, and paneer comes from milk.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, chapati, besan and potato turned blue-black, but paneer did not. Why: plants store starch as food for their baby plants, and paneer comes from milk.
 
 ## Activities
 ### a1 · Kitchen Detective: plant, animal, tiny life or Earth? (15 min)
@@ -490,10 +490,10 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came
   *Parent says:* Let's follow each food backwards, one step at a time, all the way to where it began.  
   *Child mode:* Pick four foods from dinner. Draw them on the right side of the page.
 - **s2 (10 min)**  
-  *Parent does:* 1. For each food, draw arrows going left, one step at a time. 2. Roti came from atta. Atta came from a mill. The mill got wheat from a farm. The wheat grew from a seed, in sunlight. 3. Draw a little person at each step who did the work.  
-  *Parent says:* Before it was roti, what was it? And before that? Keep going until you can't go back any further.  
+  *Parent does:* 1. For each food, draw arrows going left, one step at a time. 2. Chapati came from atta. Atta came from a mill. The mill got wheat from a farm. The wheat grew from a seed, in sunlight. 3. Draw a little person at each step who did the work.  
+  *Parent says:* Before it was chapati, what was it? And before that? Keep going until you can't go back any further.  
   *Child mode:* Draw arrows going back. What was it before? And before that? Draw the person at each step.
-  - Note: Good chains: roti, atta, flour mill, wheat field in Punjab or Madhya Pradesh, farmer, Sun. Curd, milk, dairy, cow, grass, Sun. Dal, shop, farm, toor plant, Sun. For any animal food, go one step further: what did the animal eat?
+  - Note: Good chains: chapati, atta, flour mill, wheat field in Punjab or Madhya Pradesh, farmer, Sun. Curd, milk, dairy, cow, grass, Sun. Dal, shop, farm, toor plant, Sun. For any animal food, go one step further: what did the animal eat?
   - Check: Curd came from milk. Milk came from a cow. What comes next, going backwards? → **The grass the cow ate**
 - **s3 (4 min)**  
   *Parent does:* Look at the far left end of every chain.  
@@ -524,12 +524,12 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came
   *Child mode:* Think of tonight's dinner. Which tastes are in it? Is any missing?
   - Ask: Why might a thali try to have all six tastes? (good: So it is interesting to eat.; Because the old books said a balanced meal has all six.; Different foods have different good things in them.)
   - Think: Old books said six tastes. Scientists say five. Who do you agree with, now that you have tasted them?
-### a5 · Seasons at the Sabzi Cart (20 min)
+### a5 · Seasons at the Vegetable Cart (20 min)
 - **safety:** Go to the market or cart only with a grown-up. Stay close on busy roads.
 - **record:** A table of foods for summer, monsoon and winter. A map with at least five foods marked on the states they come from.
 - **s1 (2 min)**  
   *Parent does:* Before you go, help your child write three questions.  
-  *Parent says:* We are going to interview the sabzi seller. Let's write our questions first.  
+  *Parent says:* We are going to interview the vegetable seller. Let's write our questions first.  
   *Child mode:* Write three questions for the vegetable seller. What is fresh now? What comes only in winter? Where does this come from?
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* At the market or cart, your child asks the questions and writes the answers.  
@@ -584,7 +584,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came
   - Check: The seedlings in the dark cupboard are tall, thin and pale yellow. Why? → **They are using up their seed's food, stretching to find light**
   - Wait: Come back on day 5, then day 7.
 - **s4 (20 min) · grown-up needed**  
-  *Parent does:* 1. On day 10, measure both trays and compare. 2. Snip the sunny greens with scissors. 3. Wash them and add them to dal, paratha or a salad.  
+  *Parent does:* 1. On day 10, measure both trays and compare. 2. Snip the sunny greens with scissors. 3. Wash them and add them to dal, a poriyal or a salad.  
   *Parent says:* The sunny tray turned light into food we can eat. Let's harvest it.  
   *Child mode:* Measure both trays. Snip the sunny greens. Wash them. Add them to your dinner!
 - **s5 (10 min)**  
@@ -754,7 +754,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came
    Options: Compare warm milk with curd to warm milk without curd / Compare warm milk with curd to cold milk without curd / Taste lots of curd / Use a bigger katori  
    **Answer:** Compare warm milk with curd to warm milk without curd. *Why:* To test one thing, change only that one thing. Both katoris are warm, so only the curd is different. Picking 'cold milk without curd' changes two things at once, so you could not tell which one mattered.
 11. (sort) Sort these by what was at the very start of their food chain.  
-   **Answer:** roti → Sunlight; honey → Sunlight; tube worm → Chemicals from a deep-sea vent; salt → Never alive; fish curry → Sunlight; vent crab → Chemicals from a deep-sea vent. *Why:* Roti, honey and fish curry all trace back to plants or algae using sunlight. Tube worms and vent crabs depend on microbes that use chemicals from the vents. Salt was never alive.
+   **Answer:** chapati → Sunlight; honey → Sunlight; tube worm → Chemicals from a deep-sea vent; salt → Never alive; fish curry → Sunlight; vent crab → Chemicals from a deep-sea vent. *Why:* Chapati, honey and fish curry all trace back to plants or algae using sunlight. Tube worms and vent crabs depend on microbes that use chemicals from the vents. Salt was never alive.
 12. (write) Some people say old food traditions are just superstition. Others say they are always right. What do you think? Give one example that supports your answer.  
    **Answer:** Any answer with a reason and an example. For example: some old traditions were clever, because people made curd and idli with microbes long before microbes were discovered. But each old rule should be tested, because some have never been checked.. *Why:* The fair way is to test each idea, not to accept or reject them all. Science can learn from tradition, and tradition can learn from science.
 13. (mcq) Millets like ragi, jowar and bajra are being grown more again in India. What is one big reason?  
@@ -762,8 +762,8 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came
    **Answer:** They need much less water than rice. *Why:* Millets grow well with little rain, while rice needs a lot of water. In places like Punjab, pumping water for rice is making the water under the ground fall. Millets are also full of good food.
 14. (truefalse) Fungi, like mushrooms, are more closely related to animals than to plants.  
    **Answer:** True. *Why:* True. Studies of their cells and their genes show that fungi and animals share a closer ancestor than fungi and plants do. That surprised many people.
-15. (fill) In the Trace Your Dinner activity, a child drew these people on her roti chain: a farmer, a tractor driver, a miller, a truck driver, a shopkeeper and her mother who cooked. ____ people helped bring her roti.  
-   **Answer:** ['6', 'six']. *Why:* Count each person once: farmer, tractor driver, miller, truck driver, shopkeeper and mother. That is 6 people, just for one roti. There are many more hidden ones, like the people who made the seeds and the tractor.
+15. (fill) In the Trace Your Dinner activity, a child drew these people on her chapati chain: a farmer, a tractor driver, a miller, a truck driver, a shopkeeper and her mother who cooked. ____ people helped bring her chapati.  
+   **Answer:** ['6', 'six']. *Why:* Count each person once: farmer, tractor driver, miller, truck driver, shopkeeper and mother. That is 6 people, just for one chapati. There are many more hidden ones, like the people who made the seeds and the tractor.
 16. (write) The carbon atoms in your rice were carbon dioxide in the air a few months ago. Where might they go after you eat them? Write two places.  
    **Answer:** Some will become part of my body, like my blood or muscles. Some I will breathe out as carbon dioxide, and a plant may take them in again to make new food.. *Why:* Atoms do not wear out. They move from air to plant to animal and back to the air, again and again.
 
@@ -887,14 +887,14 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Its seeds came
 - Why did the honeybee go to school? *To get a little more buzz-ness sense.*
 - What did the tube worm say when asked about sunshine? *Never heard of it. I eat chemicals.*
 - Why did the clove feel so young? *It was picked while it was still a bud.*
-- What did the rice say to the roti? *We're both just seeds having a good day.*
+- What did the rice say to the chapati? *We're both just seeds having a good day.*
 
 ## Connected maths
 - In the sprouting test, 50 grams of dry moong was soaked overnight. In the morning it weighed 100 grams. How many grams of water did the seeds take in? How many times heavier were they? **The seeds took in 50 grams of water. They were 2 times as heavy.**. The seeds started at 50 grams. They ended at 100 grams. 100 take away 50 is 50, so they took in 50 grams of water. And 100 is 2 lots of 50, so the soaked seeds weighed 2 times as much as the dry seeds. (queues `math.weight-capacity.weight.L3`)
 - In the sprouting test, a child counted the sprouted seeds on the wet cloth each day: day 1, 3 seeds. Day 2, 12 seeds. Day 3, 18 seeds. Draw a bar chart. On which day did the most new seeds sprout? **Day 2. 9 new seeds sprouted that day. Here is the bar chart.**. Draw one bar for each day, as tall as its count. To find the new seeds each day, subtract the day before. Day 2: 12 take away 3 is 9 new seeds. Day 3: 18 take away 12 is 6 new seeds. 9 is more than 6 and more than 3, so day 2 had the most new sprouts. (queues `math.data.bar-charts.L3`)
 - In Kitchen Detective, a family sorted 20 kitchen things. 13 were from plants, 3 from animals, 2 from fungi and microbes, and 2 from the Earth. Make a pictograph where one 🌿 stands for 1 thing. Is more than half of their food from plants? **Yes. 13 out of 20 is more than half, because half of 20 is 10.**. Draw 13 symbols in the plant row, 3 in the animal row, 2 in the fungi and microbes row and 2 in the Earth row. Check: 13 + 3 + 2 + 2 = 20. Half of 20 is 10. 13 is more than 10, so more than half of the food came from plants. (queues `math.data.pictographs.L3`)
 - In the Plant-Part Thali, a child opened a pea pod and counted 6 peas. Suppose one pea plant grows 5 pods like it. How many peas is that? If every one of those peas were planted and grew the same, how many pea plants would there be next year? **30 peas, and so 30 pea plants next year.**. 5 pods with 6 peas in each is 5 groups of 6. 6 + 6 + 6 + 6 + 6 = 30. So one plant makes 30 peas. Each pea is a baby plant, so planting all 30 could give 30 new pea plants. This is the sum Nina did in the story. (queues `math.multiplication.equal-groups.L3`)
-- In Trace Your Dinner, a child counted the people on each food's chain: roti 6 people, dal 5 people, curd 4 people, banana 5 people. How many people helped bring her dinner altogether? **20 people.**. Add the four chains: 6 + 5 = 11. 11 + 4 = 15. 15 + 5 = 20. So 20 people helped. That does not even count the ones we cannot see, like the people who made the tractor or the cooking gas. (queues `math.addition-subtraction.word-problems.L3`)
+- In Trace Your Dinner, a child counted the people on each food's chain: chapati 6 people, dal 5 people, curd 4 people, banana 5 people. How many people helped bring her dinner altogether? **20 people.**. Add the four chains: 6 + 5 = 11. 11 + 4 = 15. 15 + 5 = 20. So 20 people helped. That does not even count the ones we cannot see, like the people who made the tractor or the cooking gas. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
 Sunlight on My Plate (sci.food.L3): Topic-level song
@@ -910,7 +910,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [Amul dairy, Anand](https://amul.com) · place · Anand, Gujarat: One of the world's biggest milk co-operatives, owned by farmers. It has offered visits to see how milk becomes butter, ghee and paneer. Check before you go.
 - [Spices Board India](https://www.indianspices.com) · interactive: The website of India's Spices Board, with information about India's spices and the places where they grow.
 - [A spice garden in Thekkady or Munnar]() · place · Idukki district, Kerala: Walk past black pepper vines, cardamom bushes, cinnamon trees and clove trees, and see which part of each one goes in the masala box.
-- [A farm, a dairy, a mill or the sabzi mandi near you]() · place · anywhere: Every food has a story before the shop. Ask the farmer, the milkman or the miller one question about their work.
+- [A farm, a dairy, a mill or the vegetable market near you]() · place · anywhere: Every food has a story before the shop. Ask the farmer, the milkman or the miller one question about their work.
 
 ## Things to buy
 - [Digital kitchen scale (up to 5 kg, shows single grams)](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Weighs the moong before and after soaking in the sprouting test. Used in e2. Used again in the Weight L3 maths unit and in cooking.

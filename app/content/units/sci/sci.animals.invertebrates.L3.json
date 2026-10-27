@@ -2785,7 +2785,7 @@
      "qty": 1
     },
     {
-     "item": "a steel katori or a small bowl, to draw round",
+     "item": "a steel tumbler or a small bowl, to draw round",
      "qty": 1
     },
     {
@@ -2809,8 +2809,8 @@
    "context": "In this activity you cut out a five-armed star and find all the lines where it folds into matching halves. You compare a starfish's five matching parts with your own two matching sides.",
    "setup": [
     {
-     "art": "A circle drawn round a steel katori on paper, with five dots spaced evenly round its edge like points on a clock.",
-     "caption": "1. Draw round a katori. Mark five dots evenly round the edge."
+     "art": "A circle drawn round a steel tumbler on paper, with five dots spaced evenly round its edge like points on a clock.",
+     "caption": "1. Draw round a tumbler. Mark five dots evenly round the edge."
     },
     {
      "art": "Five arms drawn from the dots into a small circle in the middle, and scissors cutting out the star.",
@@ -2825,7 +2825,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw round a katori on paper. 2. Mark five dots evenly round the edge. Think of the numbers on a clock. Put dots at 12, a little after 2, a little before 5, a little after 7, and a little before 10. 3. Draw a small circle in the middle. 4. Draw an arm from the middle circle out to each dot. 5. A grown-up helps cut the star out.",
+     "do": "1. Draw round a tumbler on paper. 2. Mark five dots evenly round the edge. Think of the numbers on a clock. Put dots at 12, a little after 2, a little before 5, a little after 7, and a little before 10. 3. Draw a small circle in the middle. 4. Draw an arm from the middle circle out to each dot. 5. A grown-up helps cut the star out.",
      "say": "A starfish has five arms, all the same, around a middle. Let's draw one and cut it out.",
      "kid": "Draw round a bowl. Put five dots round the edge. Draw an arm to each dot. Cut out your star.",
      "adult": true,

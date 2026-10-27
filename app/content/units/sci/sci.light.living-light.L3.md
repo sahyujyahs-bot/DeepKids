@@ -23,7 +23,7 @@
 - **Oxygen**: A gas in the air. We breathe it in. Living light needs it too. *e.g.* A firefly switches on its light by letting oxygen reach its lantern.
 - **Energy**: What makes things happen: moving, warming, growing, shining. Energy is never lost. It only changes from one kind to another. *e.g.* A firefly's food gives it energy. Some of that energy comes out as light.
 - **Cold light**: Light that comes with almost no heat. *e.g.* A glow stick and a firefly both shine but stay cool. An old bulb with a wire inside gets hot.
-- **Firefly**: A small beetle that makes light in the end of its body. In Hindi it is called jugnu. Fireflies are not really flies. *e.g.* On summer nights, fireflies blink over fields and trees.
+- **Firefly**: A small beetle that makes light in the end of its body. In Tamil it is called minmini poochi, and in Hindi jugnu. Fireflies are not really flies. *e.g.* On summer nights, fireflies blink over fields and trees.
 - **Glow-worm**: The young form of a firefly, or a wingless female firefly. Many glow-worms glow steadily. *e.g.* Firefly young live in damp soil and leaf litter, and they glow too.
 - **Fungus**: A living thing that is not a plant or an animal. Mushrooms are part of a fungus. Most of the fungus is a web of thin threads hidden in soil or wood. *e.g.* The mushrooms on a rotting log, and the threads inside the log, are one fungus.
 - **Glowing mushroom**: A mushroom, or a fungus on rotting wood, that makes its own soft green light all night. *e.g.* A glowing mushroom was found on dead bamboo in Meghalaya in 2018.
@@ -555,7 +555,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
   - Check: In this made-up example from the firefly count, which night had the most flashes? → **Night 3, after rain**
 - **s4 (10 min)**  
   *Parent does:* Ask a grandparent or older neighbour how many fireflies they saw as a child, and where.  
-  *Parent says:* Let's ask Nani or Dada. Were there more fireflies when you were young? Where did you see them?  
+  *Parent says:* Let's ask Paati or Thatha. Were there more fireflies when you were young? Where did you see them?  
   *Child mode:* Ask a grandparent. Did they see more fireflies when they were small? Where?
   - Note: Many people say there were more fireflies before. Memories are useful clues, but they are not careful counts. That is why your counts matter.
   - Think: Is a grandparent's memory good evidence? How could we find out for sure if fireflies are disappearing?

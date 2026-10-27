@@ -320,11 +320,11 @@
    "concept": "How people use plants",
    "status": "defined",
    "definition": "People depend on plants for food, medicine, shade, wood, cloth, rope, paper, oil, colours and much more.",
-   "description": "Look at your breakfast. Rice, wheat, dal, vegetables, fruit, sugar, tea and spices all come from plants. Milk comes from cows that eat grass. So almost all our food comes from plants in the end. Just three grasses, rice, wheat and maize, give the world nearly half of all its food energy. Cotton clothes are made from the fluffy fibres of the cotton plant. Chairs, doors and pencils are wood. Natural rubber comes from the milky sap of the rubber tree. Haldi and mehendi give us colours. Coconut and mustard give us oil. Trees give us shade and cool our streets.",
+   "description": "Look at your breakfast. Rice, wheat, dal, vegetables, fruit, sugar, tea and spices all come from plants. Milk comes from cows that eat grass. So almost all our food comes from plants in the end. Just three grasses, rice, wheat and maize, give the world nearly half of all its food energy. Cotton clothes are made from the fluffy fibres of the cotton plant. Chairs, doors and pencils are wood. Natural rubber comes from the milky sap of the rubber tree. Turmeric and mehendi give us colours. Coconut and mustard give us oil. Trees give us shade and cool our streets.",
    "examples": [
     "Food: rice, wheat, dal, mango, banana, tea and sugar.",
     "Things: cotton cloth, jute bags, coir doormats, wooden furniture, paper and rubber.",
-    "Colours: haldi gives yellow, mehendi gives orange-red and indigo gives blue."
+    "Colours: turmeric gives yellow, mehendi gives orange-red and indigo gives blue."
    ],
    "perspectives": [],
    "art": "A plate, a T-shirt, a chair, a rubber chappal and a notebook, each with a dotted line leading back to the plant it came from.",
@@ -1498,7 +1498,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Let your child hunt. Help with tricky ones: paper, rubber chappals, cotton clothes, a wooden spoon, coconut oil, tea, sugar, haldi, a jute bag.",
+     "do": "Let your child hunt. Help with tricky ones: paper, rubber chappals, cotton clothes, a wooden spoon, coconut oil, tea, sugar, turmeric, a jute bag.",
      "say": "Look everywhere: the kitchen, the cupboard, your clothes, your school bag. Where does each thing really come from?",
      "kid": "Look in the kitchen. Look at your clothes and your books. Where did each thing come from?",
      "parent": "Surprising ones: paper is made from wood, and sugar comes from a grass called sugarcane. Natural rubber comes from a tree's milky sap. Milk and eggs count too, because cows and hens eat plants."
@@ -1511,7 +1511,7 @@
      "kid": "Count each box. Which box is the fullest?",
      "check": {
       "t": "mcq",
-      "q": "Riya, a girl in Class 3, has chappals made of natural rubber. Where does natural rubber come from?",
+      "q": "Kavya, a girl in Class 3, has chappals made of natural rubber. Where does natural rubber come from?",
       "options": [
        "From a rock dug out of the ground",
        "From the milky sap of a rubber tree",
@@ -1900,7 +1900,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Look for plant ropes and fibres at home: a jute bag, a coir doormat, a cotton string, a charpai's woven top.",
+     "do": "Look for plant ropes and fibres at home: a jute bag, a coir doormat, a cotton string, a rope cot.",
      "say": "Ropes for boats, cots and wells were made from plants like coir, jute and hemp for thousands of years.",
      "kid": "Find something at home made from plant fibre.",
      "think": "Why do you think coir ropes are used on boats in Kerala?"
@@ -2838,7 +2838,7 @@
   },
   {
    "t": "mcq",
-   "p": "Riya, a girl in Class 3, put a thermometer on sunny ground. It read 44 degrees. Under a tree, it read 30 degrees. How much cooler was the shade?",
+   "p": "Kavya, a girl in Class 3, put a thermometer on sunny ground. It read 44 degrees. Under a tree, it read 30 degrees. How much cooler was the shade?",
    "opts": [
     "14 degrees",
     "74 degrees",
@@ -3008,7 +3008,7 @@
   "That plant is growing out of a wall. How did it get there?",
   "Is there anything in this room that did not come from a plant, or a rock, or oil?",
   "How is that climber holding on?",
-  "Is that tree older than me? Older than Dadi? How could we guess?",
+  "Is that tree older than me? Older than Paati? How could we guess?",
   "Who planted the trees on this road, and why?"
  ],
  "jokes": [
@@ -3099,7 +3099,7 @@
  ],
  "maths": [
   {
-   "problem": "Asha, a girl in Class 3, did a Plant Count from her windows. She counted 12 trees, 8 shrubs, 20 herbs, 4 climbers and 2 creepers. How many plants did she count in all? Which kind did she see most of?",
+   "problem": "Lakshmi, a girl in Class 3, did a Plant Count from her windows. She counted 12 trees, 8 shrubs, 20 herbs, 4 climbers and 2 creepers. How many plants did she count in all? Which kind did she see most of?",
    "answer": "46 plants. Herbs were the most.",
    "explain": "Add them up: 12 + 8 is 20. 20 + 20 is 40. 40 + 4 is 44. 44 + 2 is 46. The biggest number is 20, for herbs, so she saw herbs most.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -3107,7 +3107,7 @@
    "context": "This is about the Plant Count. You count plants of each kind with tally marks, looking from your windows and balcony.",
    "chart": {
     "type": "bar",
-    "title": "Asha's Plant Count: plants of each kind",
+    "title": "Lakshmi's Plant Count: plants of each kind",
     "x": "Kind of plant",
     "y": "Number counted",
     "data": [

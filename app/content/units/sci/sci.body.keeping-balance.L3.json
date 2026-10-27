@@ -121,7 +121,7 @@
   {
    "term": "Humidity",
    "meaning": "Humidity is how much water is already in the air.",
-   "example": "Mumbai in the monsoon is very humid. Wet clothes take ages to dry.",
+   "example": "Kochi in the monsoon is very humid. Wet clothes take ages to dry.",
    "art": "A sticky, misty monsoon street with clothes hanging on a balcony that will not dry."
   },
   {
@@ -226,11 +226,11 @@
    "concept": "Why sticky monsoon days feel hotter",
    "status": "defined",
    "definition": "Humidity is how much water is already in the air. When the air is very humid, sweat dries slowly, so it cools you less.",
-   "description": "Remember, sweat cools you only when it dries. Air can hold only so much water. In Rajasthan in May, the air is very dry, and sweat dries almost as soon as it comes out. In Chennai or Mumbai during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even at the same temperature. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.",
+   "description": "Remember, sweat cools you only when it dries. Air can hold only so much water. In Rajasthan in May, the air is very dry, and sweat dries almost as soon as it comes out. In Chennai or Kochi during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even at the same temperature. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.",
    "examples": [
     "Wet clothes dry fast on a dry, windy day, and slowly on a damp monsoon day.",
     "You feel sticky in a crowded, closed room.",
-    "A desert cooler works well in Delhi in May, but poorly in Kolkata in July."
+    "A desert cooler works well in Hyderabad in May, but poorly in Chennai in July."
    ],
    "perspectives": [],
    "art": "Two scenes: a dry desert with sweat drops quickly vanishing into the air, and a misty monsoon street with sweat drops running down a sticky face.",
@@ -314,14 +314,14 @@
    "concept": "Staying steady costs energy",
    "status": "defined",
    "definition": "A living body uses energy, all the time, to stay different from its surroundings. Without that energy, it would slowly drift to the same warmth as the room.",
-   "description": "Leave a cup of hot chai on the table. It cools down until it is the same warmth as the room. That is what non-living things do. A hot thing always gives heat to a colder thing, until they are equal. You do not drift like the chai. That is because your cells are always using food to make heat. Even sitting still, a grown-up gives off about as much heat as an old-fashioned 100 watt bulb. The physicist Erwin Schrödinger wrote about this in 1944, in a small book called What Is Life? He said living things stay ordered by taking in energy and giving out heat. So keeping your warmth steady needs food every day.",
+   "description": "Leave a tumbler of hot filter coffee on the table. It cools down until it is the same warmth as the room. That is what non-living things do. A hot thing always gives heat to a colder thing, until they are equal. You do not drift like the coffee. That is because your cells are always using food to make heat. Even sitting still, a grown-up gives off about as much heat as an old-fashioned 100 watt bulb. The physicist Erwin Schrödinger wrote about this in 1944, in a small book called What Is Life? He said living things stay ordered by taking in energy and giving out heat. So keeping your warmth steady needs food every day.",
    "examples": [
-    "A cup of hot chai always cools to the room's warmth.",
+    "A tumbler of hot filter coffee always cools to the room's warmth.",
     "A crowded room gets warm from all the people's body heat.",
     "Food is your fuel. A child eats every day partly to keep warm."
    ],
    "perspectives": [],
-   "art": "A cooling cup of chai with fading steam, beside a child glowing a steady warm orange from inside.",
+   "art": "A cooling tumbler of filter coffee with fading steam, beside a child glowing a steady warm orange from inside.",
    "context": "This card is about why keeping balance needs food and energy, and is not free."
   },
   {
@@ -581,7 +581,7 @@
      "title": "20 event cards (red pushes up, blue pushes down)",
      "items": [
       "Played cricket at noon: +2",
-      "Drank hot chai: +1",
+      "Drank hot coffee: +1",
       "Wore a sweater indoors in May: +2",
       "Sat in a closed car in the sun: +3",
       "Ran a race: +2",
@@ -1158,7 +1158,7 @@
     },
     {
      "t": "write",
-     "p": "A cup of hot chai cools to the warmth of the room. Why doesn't your body cool to the warmth of the room too?",
+     "p": "A tumbler of hot filter coffee cools to the warmth of the room. Why doesn't your body cool to the warmth of the room too?",
      "lines": 3,
      "a": "My body keeps burning food in my cells to make heat. My brain keeps checking and fixing my warmth. The chai has nothing inside to make heat.",
      "why": "Staying steady costs energy. Living things use food to keep themselves different from their surroundings."
@@ -2755,15 +2755,15 @@
   },
   {
    "t": "mcq",
-   "p": "A cup of hot chai cools to the warmth of the room, but you don't. Why?",
+   "p": "A tumbler of hot filter coffee cools to the warmth of the room, but you don't. Why?",
    "opts": [
     "Your body keeps using food to make heat and keep balance",
     "You are made of clay",
-    "Chai has no water",
+    "Coffee has no water",
     "Rooms can't change your warmth"
    ],
    "a": 0,
-   "why": "Living things use energy all the time to stay just right. Without it, a body would drift to the room's warmth, like the chai.",
+   "why": "Living things use energy all the time to stay just right. Without it, a body would drift to the room's warmth, like the coffee.",
    "outcome": 0
   }
  ],
@@ -2894,7 +2894,7 @@
    "a": "Hey, we both have a set point!"
   },
   {
-   "j": "Why was the cup of chai jealous of you?",
+   "j": "Why was the tumbler of filter coffee jealous of you?",
    "a": "You stay warm all day, and it goes cold in ten minutes."
   },
   {
@@ -3006,7 +3006,7 @@
    "why_maths": "Counting and adding your cups turns a feeling, 'I was thirsty', into numbers you can compare across days."
   },
   {
-   "problem": "In Keep It Just Right, your counter starts on box 5. You draw 'Played cricket at noon: +2', then 'Drank hot chai: +1'. Which box are you on? How many do you need to take away to get back to 5, and which body cards add up to that?",
+   "problem": "In Keep It Just Right, your counter starts on box 5. You draw 'Played cricket at noon: +2', then 'Drank hot coffee: +1'. Which box are you on? How many do you need to take away to get back to 5, and which body cards add up to that?",
    "answer": "Box 8. You need to take away 3. Sweat (minus 2) and Red cheeks (minus 1) add up to 3.",
    "explain": "5 + 2 = 7. 7 + 1 = 8. To get from 8 to 5 you need to take away 3. Sweat takes away 2, which leaves you on 6. Red cheeks take away 1 more, and that brings you to 5. In the game you play one card a turn, so it takes two turns.",
    "math_unit": "math.algebra.balance-and-missing-numbers.L3",

@@ -118,7 +118,7 @@ Most plants grow in soil, so it is easy to think they need it. But think about w
 ### Light comes from a star · *defined*
 **Definition:** Plants use light from the Sun. Sunlight takes about 8 minutes to travel from the Sun to the Earth.
 
-The light falling on a leaf on your windowsill comes from the Sun, a star. It left the Sun about 8 minutes ago and crossed 150 million kilometres of empty space. Its energy was made deep in the Sun's centre, where hydrogen particles crash together and join. This is called nuclear fusion. That energy spent tens of thousands of years, or more, working its way out from the centre before it flew off as light. Only a tiny part of the sunlight that reaches the Earth is caught by leaves. But that tiny part feeds nearly every living thing, including you. When you eat a roti, you are eating sunlight that a wheat plant caught.
+The light falling on a leaf on your windowsill comes from the Sun, a star. It left the Sun about 8 minutes ago and crossed 150 million kilometres of empty space. Its energy was made deep in the Sun's centre, where hydrogen particles crash together and join. This is called nuclear fusion. That energy spent tens of thousands of years, or more, working its way out from the centre before it flew off as light. Only a tiny part of the sunlight that reaches the Earth is caught by leaves. But that tiny part feeds nearly every living thing, including you. When you eat an idli, you are eating sunlight that a rice plant caught.
 - e.g. A leaf in the morning catches light that left the Sun only 8 minutes earlier.
 - e.g. The energy in your breakfast came from sunlight caught by a plant.
 ### Plants in space and on the Moon · *defined*
@@ -197,19 +197,19 @@ A moong seed holds the start of a plant: a tiny root, a tiny shoot and a store o
 - *deep:* The same moong seeds grew short and green in the light, and tall and pale in the dark. Which one shows what a moong plant really looks like? (hint: Is there one true shape, or does the shape always depend on where it grows? Think about how your skin changes in strong sun.)
 - *big:* The Buddha taught a middle path, between too much and too little. Plants seem to live on a middle path too. Where else in life is the middle the best place to be? (hint: Think about food, sleep, screen time, and how hard to push a friend on a swing.)
 - *big:* In our light test, we kept some seedlings in the dark until they were weak. Is it fair to the plants? When is it right to do experiments on living things? (hint: What do we learn? Can we give the dark plants back their light at the end? Would you test on an animal?)
-- *deep:* The light that grew your roti left the Sun about 8 minutes before the wheat caught it. So are you made of sunlight? (hint: Follow your food back step by step: roti, flour, wheat plant, leaf, sunlight.)
+- *deep:* The light that grew your idli left the Sun about 8 minutes before the rice plant caught it. So are you made of sunlight? (hint: Follow your food back step by step: idli, batter, rice plant, leaf, sunlight.)
 - *deep:* If people one day live on the Moon or Mars, what will they need to bring for plants, that Earth gives for free? (hint: Make a list: light, air, water, warmth, minerals. Which ones does the Moon have?)
 - *big:* Carl Sprengel had an idea first, but Justus von Liebig made it famous. Who should get the credit for an idea: the person who has it first, or the person who spreads it? (hint: Has someone ever said your idea louder than you, and got the praise?)
 - *big:* A plant cannot tell us in words what it needs. How can we listen to something that does not use words? (hint: A plant doctor reads clues: drooping, yellow, leaning. A baby cannot use words either. How do people find out what a baby needs?)
 
 ## Story: A Stripe of Sun
-*Zoya, Nana, Gokhale Kaka, Arjun and the contest are made up. What happens to Zoya's moong is real: you can see it in this unit's light test.*
+*Zoya, Nana, Ramanathan Mama, Arjun and the contest are made up. What happens to Zoya's moong is real: you can see it in this unit's light test.*
 
-In Zoya's lane in Khetwadi, the buildings stood very close together. Neighbours could pass a bowl of sheera from one balcony to the next without leaning. Sunlight reached the lane for only about an hour each day. At eleven o'clock a thin yellow stripe slid down the wall opposite Zoya's window. For a while it touched the outer edge of the iron grille around her window. Then it was gone before lunch.
+In Zoya's lane in Triplicane, in Chennai, the buildings stood very close together. Neighbours could pass a bowl of kesari from one balcony to the next without leaning. Sunlight reached the lane for only about an hour each day. At eleven o'clock a thin yellow stripe slid down the wall opposite Zoya's window. For a while it touched the outer edge of the iron grille around her window. Then it was gone before lunch.
 
-In the May holidays, Gokhale Kaka from the ground floor made an announcement on the staircase. Every child in the building would get a paper cup of soil and five moong beans from his own kitchen. In two weeks there would be judging, right there on the landing. 'The tallest plant wins,' he said. He held up a mango so ripe that it smelt like a festival. 'An Alphonso, from Ratnagiri. One.'
+In the May holidays, Ramanathan Mama from the ground floor made an announcement on the staircase. Every child in the building would get a paper cup of soil and five moong beans from his own kitchen. In two weeks there would be judging, right there on the landing. 'The tallest plant wins,' he said. He held up a mango so ripe that it smelt like a festival. 'A Malgova, from Salem. One.'
 
-Arjun from the fourth floor carried his cup up to the terrace, where the sun beat down all day long. Pinky's mother put hers on the kitchen window, next to the pressure cooker. Zoya put hers on her own windowsill, between Nana's spectacles case and a jar of buttons, facing the wall.
+Arjun from the fourth floor carried his cup up to the terrace, where the sun beat down all day long. Kavitha's mother put hers on the kitchen window, next to the pressure cooker. Zoya put hers on her own windowsill, between Nana's spectacles case and a jar of buttons, facing the wall.
 
 On the third day, two pale loops pushed up through Zoya's soil, like the handles of tiny bags. By the fifth day the loops had straightened and shot up past the rim of the cup. Zoya measured them every evening with her school ruler, from the soil to the very top. She wrote the numbers on the back of an old calendar. Four centimetres. Seven. Ten and a half.
 
@@ -227,11 +227,11 @@ Zoya went into the kitchen and came back with Ammi's biggest steel thali, the on
 
 That afternoon, Zoya sowed five more moong in a second cup and set it where the circle of light fell. Every day at eleven she turned the thali a little, to follow the sun. It was like turning the pages of a slow book.
 
-On judging day, eleven cups stood in a row on the landing. Gokhale Kaka walked along them with his tailor's tape. Zoya's first cup was still the tallest, even propped on its pencil: nineteen centimetres. Arjun's was nine. Pinky's had got too hot next to the cooker and given up. 'Zoya!' said Gokhale Kaka, and held out the mango.
+On judging day, eleven cups stood in a row on the landing. Ramanathan Mama walked along them with his tailor's tape. Zoya's first cup was still the tallest, even propped on its pencil: nineteen centimetres. Arjun's was nine. Kavitha's had got too hot next to the cooker and given up. 'Zoya!' said Ramanathan Mama, and held out the mango.
 
 Zoya did not take it. Her face was burning. 'It is tall because it is hungry,' she said. Everyone looked at her. She tried again. 'It is not the best plant. It is the plant that was looking hardest. Arjun's is the one that found what it was looking for.'
 
-Gokhale Kaka looked at the yellow plant leaning on its pencil for a long time. Then he looked at Arjun's, short and green and stubborn. He rolled up his tape. 'Then next year,' he said slowly, 'I will need a better ruler.'
+Ramanathan Mama looked at the yellow plant leaning on its pencil for a long time. Then he looked at Arjun's, short and green and stubborn. He rolled up his tape. 'Then next year,' he said slowly, 'I will need a better ruler.'
 
 Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chins. But Zoya hardly tasted her slice. She was thinking of the second cup on her windowsill downstairs. Its plants were only as tall as her little finger. They were green as a parrot. And they were leaning, every one of them, towards an old steel thali full of sun.
 
@@ -240,7 +240,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - Ask: Zoya's moong grew the tallest. Why wasn't it the healthiest?
 - Ask: Which way were all Zoya's plants leaning? What were they looking for?
 - Ask: How did the steel thali help the second cup of moong?
-- Ask: Gokhale Kaka said he would need 'a better ruler' next year. What else could he measure, to find the healthiest plant?
+- Ask: Ramanathan Mama said he would need 'a better ruler' next year. What else could he measure, to find the healthiest plant?
 - Ask: Have you ever won, or lost, because of the wrong kind of measuring? For example, the most marks but not the best understanding?
 
 ## Games
@@ -278,7 +278,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   - Think: Which cards were about too little of something? Which were about too much?
 ### g2 · Fair or Unfair? (20 min)
 - **rules:** Shuffle the 16 test cards and put them face down.; One player reads a test card out loud.; Everyone holds up a paddle at the same time: FAIR or UNFAIR.; If it is unfair, the first player to name the extra thing that changed wins a token.; A second token goes to anyone who says how to fix the test, so only one thing changes.; After all the cards, the player with the most tokens is the Chief Fair Tester.
-- **Printable cards: 16 test cards to cut out:** Ravi puts one moong cup in the sun and one in a cupboard. He waters both with 2 spoons a day.; Meena puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup.; Sam tests if plants need water. He uses a tiny seedling with no water and a big plant with water.; Aisha grows 3 cups with water every day and 3 cups with no water, all on the same windowsill.; Kabir puts methi in the fridge and moong in a warm room to see if warmth matters.; Riya puts 10 sprouts in the fridge, 10 in a cupboard and 10 on top of the fridge, all in closed dark boxes.; Tara measures her light cup in the morning and her dark cup at night.; Dev measures every cup at 6 o'clock every evening, from the soil to the top of the tallest seedling.; Zara tests soil from the garden against soil from a shop. She also uses a bigger pot for the shop soil.; Neel grows one seed in the sun and one seed in the shade, then says the sun is better.; Ananya uses the same spoon to water every cup, and fills it to the brim each time.; Ishaan tests music on his plants. The music plant is in his bedroom window. The quiet plant is in the bathroom.; Leela tests green cellophane and clear cellophane over two cups. Both cups are the same, side by side.; Omar waters his sunny plant with tap water and his shady plant with fridge water.; Priya plants the same moong seeds in the same soil, in the same cups, and only changes how much water.; Arnav tests warmth with one box in the fridge and one box on a sunny windowsill without a lid.
+- **Printable cards: 16 test cards to cut out:** Ravi puts one moong cup in the sun and one in a cupboard. He waters both with 2 spoons a day.; Meena puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup.; Sam tests if plants need water. He uses a tiny seedling with no water and a big plant with water.; Aisha grows 3 cups with water every day and 3 cups with no water, all on the same windowsill.; Karthik puts methi in the fridge and moong in a warm room to see if warmth matters.; Kavya puts 10 sprouts in the fridge, 10 in a cupboard and 10 on top of the fridge, all in closed dark boxes.; Tara measures her light cup in the morning and her dark cup at night.; Joseph measures every cup at 6 o'clock every evening, from the soil to the top of the tallest seedling.; Zara tests soil from the garden against soil from a shop. She also uses a bigger pot for the shop soil.; Nithin grows one seed in the sun and one seed in the shade, then says the sun is better.; Ananya uses the same spoon to water every cup, and fills it to the brim each time.; Vishnu tests music on his plants. The music plant is in his bedroom window. The quiet plant is in the bathroom.; Leela tests green cellophane and clear cellophane over two cups. Both cups are the same, side by side.; Omar waters his sunny plant with tap water and his shady plant with fridge water.; Priya plants the same moong seeds in the same soil, in the same cups, and only changes how much water.; Anand tests warmth with one box in the fridge and one box on a sunny windowsill without a lid.
 - **Printable cards: Two paddles to hold up:** FAIR ✅; UNFAIR ❌
 - **Printable tokens: 20 magnifying-glass tokens:** 🔍
 - **s1 (2 min)**  
@@ -294,7 +294,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent does:* 1. Take turns reading the cards. 2. Everyone holds up a paddle together. 3. Give tokens for naming the extra change, and for a good fix.  
   *Parent says:* Paddles up! If it's unfair, what else changed? How would you fix it?  
   *Child mode:* Paddles up! If it is unfair, say what else changed. Then say how to fix it.
-  - Note: The fair ones are Ravi, Aisha, Riya, Dev, Ananya, Leela and Priya. The unfair ones are these. Meena changed water too. Sam changed plant size. Kabir changed the kind of seed. Tara changed the time of measuring. Zara changed pot size. Neel used only one seed each, so it could be a fluke. Ishaan changed light and warmth. Omar changed water temperature. Arnav changed light and the lid as well as warmth. Neel's test is a good one to argue about. Only one seed is not exactly unfair, but it cannot be trusted.
+  - Note: The fair ones are Ravi, Aisha, Kavya, Joseph, Ananya, Leela and Priya. The unfair ones are these. Meena changed water too. Sam changed plant size. Karthik changed the kind of seed. Tara changed the time of measuring. Zara changed pot size. Nithin used only one seed each, so it could be a fluke. Vishnu changed light and warmth. Omar changed water temperature. Anand changed light and the lid as well as warmth. Nithin's test is a good one to argue about. Only one seed is not exactly unfair, but it cannot be trusted.
 - **s4 (3 min)**  
   *Parent does:* Finish with the scoring, then ask the closing question.  
   *Parent says:* Why do scientists care so much about changing only one thing?  
@@ -760,13 +760,13 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 17. (draw) Draw two seedlings: one grown in the light and one grown in the dark. Label the differences.  
    **Answer:** The light seedling is short, thick and green, with open leaves. The dark seedling is tall, thin, pale yellow and bent, with tiny closed leaves.. *Why:* Drawing the differences shows that height is not the same as health.
 ### Fair Tests and Plant Clues (stretch) (stretch, 17 questions)
-1. (mcq) Riya wants to test if plants need light. Which test is fair?  
+1. (mcq) Kavya wants to test if plants need light. Which test is fair?  
    Options: One pot in the sun with water, one pot in a cupboard with no water / Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard / A big plant in the sun and a tiny plant in the cupboard  
    **Answer:** Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard. *Why:* Only the light is different in this test. Picking the first one means missing that water changed too. Picking the third means missing that the plants were different sizes.
 2. (mcq) Look at the chart. The dark seedlings were 14 cm and the light ones were 8 cm. How much taller were the dark ones?  
    Options: 22 cm / 6 cm / 14 cm  
    **Answer:** 6 cm. *Why:* 14 take away 8 is 6. So the dark seedlings were 6 cm taller. Picking 22 means adding instead of finding the difference.
-3. (mcq) Dev measured three cups in the light: 8 cm, 9 cm and 8 cm. What is the middle value?  
+3. (mcq) Joseph measured three cups in the light: 8 cm, 9 cm and 8 cm. What is the middle value?  
    Options: 8 cm / 9 cm / 25 cm  
    **Answer:** 8 cm. *Why:* Put them in order: 8, 8, 9. The middle one is 8. Picking 25 means adding them all up. The middle value is one of the numbers, not their total.
 4. (mcq) A yellow dark-grown seedling is put back on the windowsill. What usually happens in a day or two?  
@@ -798,7 +798,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 14. (mcq) A cactus is watered every day and its stem goes soft and black. What happened?  
    Options: It got too little water / Its roots rotted from too much water, because a cactus needs very little / It needed more sun  
    **Answer:** Its roots rotted from too much water, because a cactus needs very little. *Why:* A cactus comes from dry places and needs only a little water. Daily watering drowns its roots. Picking 'too little water' means using one rule for every plant. Each plant has its own just right.
-15. (write) Gokhale Kaka said the tallest plant would win. In the story, why was that a bad way to choose the healthiest plant? What would you measure instead?  
+15. (write) Ramanathan Mama said the tallest plant would win. In the story, why was that a bad way to choose the healthiest plant? What would you measure instead?  
    **Answer:** The tallest plant was tall because it was starving for light and stretching. It was pale and weak. I would also count the green leaves, look at the colour, and check if the stem is strong.. *Why:* Height alone can be misleading. Good scientists choose what to measure carefully.
 16. (write) Plan a fair test to find out if methi grows better in sunlight or in a shady corner. Say what you will change, what you will keep the same, and what you will measure.  
    **Answer:** I will change only the place: one group of methi cups in the sun and one in the shade. I will keep the same seeds, soil, cups and water. I will measure the height of the tallest seedling in each cup every two days, and count the green leaves.. *Why:* A good plan names one thing to change, several things to keep the same, and one thing to measure.

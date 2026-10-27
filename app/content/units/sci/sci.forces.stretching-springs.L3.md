@@ -274,7 +274,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 ## Games
 ### g1 · Spring Back, Stay or Snap? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them in a pile, face down.; On your turn, take the top card and read it out loud.; Decide: if you stretch, squash or bend this thing, will it spring back, stay changed, or snap? Put the card on that mat.; Then name one place where that thing is useful because it behaves that way. A good idea wins one spring token.; If you draw a TEST IT card, everyone does the test together. The first person to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 thing cards to cut out:** Rubber band; Playdough; Dry twig; Kitchen sponge; Pen spring, pulled gently; Pen spring, pulled very hard; Chewing gum; Papad; Hair band; Glass bangle; Strip of thin carry bag; Bouncy ball; Green bamboo stick; Wet clay; Pyjama elastic; Biscuit; Trampoline mat; Aluminium foil, crumpled; Spider web; Your skin, pinched; TEST IT: stretch a rubber band a little and let go. What does it do?; TEST IT: squeeze a ball of atta dough. Does it spring back?; TEST IT: bend a plastic ruler a little and let go. What does it do? Don't bend it far, or it may snap.; TEST IT: pinch the skin on the back of your hand and let go. Watch it.
+- **Printable cards: 24 thing cards to cut out:** Rubber band; Playdough; Dry twig; Kitchen sponge; Pen spring, pulled gently; Pen spring, pulled very hard; Chewing gum; Papad; Hair band; Glass bangle; Strip of thin carry bag; Bouncy ball; Green bamboo stick; Wet clay; Pyjama elastic; Biscuit; Trampoline mat; Aluminium foil, crumpled; Spider web; Your skin, pinched; TEST IT: stretch a rubber band a little and let go. What does it do?; TEST IT: squeeze a ball of chapati dough. Does it spring back?; TEST IT: bend a plastic ruler a little and let go. What does it do? Don't bend it far, or it may snap.; TEST IT: pinch the skin on the back of your hand and let go. Watch it.
 - **Printable board: Three playing mats:** SPRING BACK: elastic; STAY: stays changed (plastic); SNAP: breaks (brittle)
 - **Printable tokens: 20 spring tokens (small paper circles):** 🌀
 - **s1 (2 min)**  
@@ -437,7 +437,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Parent does:* 1. Stretch the rubber band, plastic strip and dough to about twice their length. Pull the pen spring only a little. 2. Let go. 3. Measure each one again straight away. 4. Gently bend the spaghetti until it bends a little, then more.  
   *Parent says:* Stretch it to twice as long. Let go. Now measure. Is it the same as before?  
   *Child mode:* Stretch each one to twice as long. Let go. Measure again. Bend the spaghetti gently. What happens?
-  - Note: Expect this. The rubber band springs back. The plastic strip stays long and thin. Playdough stays long. Atta dough shrinks back a little, but stays longer than before. The pen spring springs back if pulled gently, but stays long if pulled hard. The spaghetti bends a tiny bit, then snaps.
+  - Note: Expect this. The rubber band springs back. The plastic strip stays long and thin. Playdough stays long. Chapati dough shrinks back a little, but stays longer than before. The pen spring springs back if pulled gently, but stays long if pulled hard. The spaghetti bends a tiny bit, then snaps.
 - **s3 (5 min)**  
   *Parent does:* Pull the old pen spring very hard, far past twice its length. Let go and measure.  
   *Parent says:* Now let's pull the spring too far on purpose. What do you think it will do when we let go? Why?  
@@ -490,7 +490,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Parent says:* We're spring detectives. Springs and elastic things are hiding all over our home. Let's find 12.  
   *Child mode:* You are a spring detective! Find 12 springs or elastic things. Elastic means it springs back.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Hunt around the home. 2. Look at pens, clothes pegs, the stapler, the mattress and the sofa. 3. Look at hair bands, pyjama elastic, a cycle seat and a charpai. 4. If you go outside with a grown-up, find a low green branch.  
+  *Parent does:* 1. Hunt around the home. 2. Look at pens, clothes pegs, the stapler, the mattress and the sofa. 3. Look at hair bands, pyjama elastic, a cycle seat and a woven cot. 4. If you go outside with a grown-up, find a low green branch.  
   *Parent says:* For each one, what is its job? Does it stretch, squash, bend or bounce? What would happen if it were not elastic?  
   *Child mode:* For each find, say its job. Does it stretch, squash, bend or bounce? Write it down.
   - Note: Good finds include the squash spring in a clicky pen and the twisty spring in a clothes peg. Look for stretch springs in a spring balance or a trampoline. The elastic in socks, a hair band and the springs in a cycle seat count too. Outdoors, a low green branch bends and springs back.
@@ -904,7 +904,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 ## Spotted around us
 - A hanging spring balance at a kabadiwala's or for luggage, its pointer moving as the load goes on.
 - The springs under a cycle or scooter seat, squashing over every bump.
-- A charpai or a mattress that sags as you sit and springs back when you stand.
+- A woven cot (kattil or charpai) or a mattress that sags as you sit and springs back when you stand.
 - Rubber trees in Kerala, with cups catching the white milky latex that becomes rubber.
 - A gulel, the Y-shaped catapult, in a market or toy shop.
 - Bamboo and coconut palms bending in the wind during the monsoon, and standing up again.
@@ -923,7 +923,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 
 ## Questions to ask kids
 - You just sat on the sofa. Did it spring back when you stood up?
-- Roti dough shrinks back a little after you roll it. Is it a bit elastic? How is it different from a rubber band?
+- Chapati dough shrinks back a little after you roll it. Is it a bit elastic? How is it different from a rubber band?
 - Why does a hanging spring balance move further with a heavier bag?
 - That ball bounced. Where did it squash?
 - Can you find a spring in this room?

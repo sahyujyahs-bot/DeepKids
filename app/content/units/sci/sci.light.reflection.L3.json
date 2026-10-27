@@ -38,7 +38,7 @@
    "term": "Reflect",
    "meaning": "To send light back from a surface. A mirror reflects light very well.",
    "example": "A steel plate reflects the light of the kitchen bulb.",
-   "art": "A shiny steel thali with the bulb's bright spot in it."
+   "art": "A shiny steel plate with the bulb's bright spot in it."
   },
   {
    "term": "Mirror",
@@ -211,7 +211,7 @@
    "description": "The first mirrors were probably still water. About 8,000 years ago, people in Anatolia, in today's Turkey, polished a black volcanic glass called obsidian into mirrors. Later, people polished bronze and copper. In Aranmula, in Kerala, craftspeople still make mirrors of polished metal by hand, called Aranmula kannadi. In 1835 a German chemist, Justus von Liebig, found a way to coat glass with a thin layer of silver. That made bright mirrors cheap. Today most mirrors are glass coated with silver or aluminium.",
    "examples": [
     "A still bucket of water is a mirror.",
-    "A polished steel tumbler or thali is a mirror made of metal.",
+    "A polished steel tumbler or plate is a mirror made of metal.",
     "An Aranmula kannadi from Kerala is a metal mirror with no glass at all."
    ],
    "perspectives": [],
@@ -2881,8 +2881,8 @@
    "art": "An orange round mirror on a pole at a hairpin bend on a hill road."
   },
   {
-   "text": "Your face in a steel thali, a tumbler or a kitchen ladle.",
-   "art": "A child's face reflected in a shiny steel thali."
+   "text": "Your face in a steel plate, a tumbler or a kitchen ladle.",
+   "art": "A child's face reflected in a shiny steel plate."
   },
   {
    "text": "Cat's eyes glowing in the middle of a highway at night.",
@@ -3028,7 +3028,7 @@
  ],
  "maths": [
   {
-   "problem": "In the torch-and-mirror test, Riya started the torch 5 cm, 10 cm and 15 cm to the left of the middle line. Her bounced beams landed 5 cm, 10 cm and 14 cm to the right. Which one did not match exactly, and by how much?",
+   "problem": "In the torch-and-mirror test, Kavya started the torch 5 cm, 10 cm and 15 cm to the left of the middle line. Her bounced beams landed 5 cm, 10 cm and 14 cm to the right. Which one did not match exactly, and by how much?",
    "answer": "The 15 cm one. It landed at 14 cm, which is 1 cm short.",
    "explain": "5 matches 5. 10 matches 10. 15 and 14 do not match. 15 take away 14 is 1. So it was 1 cm short. A small gap like this happens when the beam is a bit wide or the mirror leans.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
@@ -3036,7 +3036,7 @@
    "how": "e1",
    "chart": {
     "type": "bar",
-    "title": "Where Riya's bounced beams landed",
+    "title": "Where Kavya's bounced beams landed",
     "x": "Torch start (cm left)",
     "y": "Landed (cm right)",
     "data": [
@@ -3101,7 +3101,7 @@
    "why_maths": "Halving turns what we found with the sticky notes into a rule we can use, for example when buying a mirror for a bedroom wall."
   },
   {
-   "problem": "In the mirror drawing race, Meera slipped outside the lines 9 times on try 1, 6 times on try 2 and 3 times on try 3. By how many slips did she get better each time?",
+   "problem": "In the mirror drawing race, Lakshmi slipped outside the lines 9 times on try 1, 6 times on try 2 and 3 times on try 3. By how many slips did she get better each time?",
    "answer": "3 slips each time.",
    "explain": "9 take away 6 is 3. 6 take away 3 is 3. So she slipped 3 fewer times on each new try.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -3109,7 +3109,7 @@
    "how": "e2",
    "chart": {
     "type": "bar",
-    "title": "Meera's slips in the mirror drawing race",
+    "title": "Lakshmi's slips in the mirror drawing race",
     "x": "Try",
     "y": "Slips",
     "data": [

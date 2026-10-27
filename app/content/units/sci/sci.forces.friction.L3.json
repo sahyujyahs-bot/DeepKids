@@ -672,7 +672,7 @@
       "Skates on an ice rink",
       "A door hinge that squeaks",
       "Writing with a pencil",
-      "Grandma's rubber bathroom mat",
+      "Paati's rubber bathroom mat",
       "A rope tied in a knot",
       "A sled on snow",
       "Car tyres on a mountain road",
@@ -1143,7 +1143,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Riya pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?",
+     "p": "Meenakshi pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?",
      "opts": [
       "The full box presses down harder, so there is more friction",
       "The half-empty box is smoother underneath",
@@ -2315,9 +2315,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Help each player choose a role. They can be the cook or the hungry eater. Or the roti that rolls away, or the laddoo that won't stop sliding.",
+     "do": "Help each player choose a role. They can be the cook or the hungry eater. Or the vada that rolls away, or the laddoo that won't stop sliding.",
      "say": "We're going to act out making dinner in a kitchen where friction has disappeared. Everything is perfectly slippery.",
-     "kid": "Pick your role. You can be the cook or the hungry eater. Or the roti that rolls away. Or the laddoo that won't stop sliding!",
+     "kid": "Pick your role. You can be the cook or the hungry eater. Or the vada that rolls away. Or the laddoo that won't stop sliding!",
      "context": "This is the first step of the Frictionless Kitchen play. Friction is the grip between things that touch. In this play, it has disappeared."
     },
     {
@@ -2334,17 +2334,17 @@
      "say": "Which parts of our play would really happen if there were no friction?",
      "kid": "Which parts of your play would really happen?",
      "think": "Friction is invisible, but everything depends on it. What else is invisible, but everywhere?",
-     "parent": "With no friction you truly could not walk, because your feet would slip instead of pushing off. Food would slide out of your hands. A rolling roti would never stop until it hit something."
+     "parent": "With no friction you truly could not walk, because your feet would slip instead of pushing off. Food would slide out of your hands. A rolling vada would never stop until it hit something."
     }
    ],
    "context": "This is a short play. You act out cooking and eating dinner in a kitchen where friction has vanished.",
    "setup": [
     {
-     "art": "Children choosing roles for a kitchen play: a cook with a ladle, a child holding a pretend roti, a child as a laddoo.",
+     "art": "Children choosing roles for a kitchen play: a cook with a ladle, a child holding a pretend vada, a child as a laddoo.",
      "caption": "1. Choose your roles."
     },
     {
-     "art": "Children acting out a kitchen where everything slides: a ladle slipping, a roti rolling away, everyone in funny poses.",
+     "art": "Children acting out a kitchen where everything slides: a ladle slipping, a vada rolling away, everyone in funny poses.",
      "caption": "2. Act out cooking with no friction."
     },
     {
@@ -3226,8 +3226,8 @@
    "art": "An oil can on a hinge."
   },
   {
-   "text": "Rangoli powder on a doorstep. Dry powder can make a smooth floor slippery.",
-   "art": "Rangoli on a doorstep."
+   "text": "Kolam or rangoli powder on a doorstep. Dry powder can make a smooth floor slippery.",
+   "art": "A kolam on a doorstep."
   },
   {
    "text": "A doorknob or railing polished shiny by thousands of hands.",

@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Press your thumb on a table. Did the table change shape? You can't see any change. But it did bend, a tiny bit. Scientists can show it by bouncing a laser beam off a mirror lying on the table.",
-  "text": "Get a ball of atta dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this unit you find out why, and how even hard things change shape when they are pushed.",
+  "text": "Get a ball of chapati dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this unit you find out why, and how even hard things change shape when they are pushed.",
   "art": "A child's hands on a kitchen counter, with a squashed ball of dough, a squeezed sponge springing back, and a cracked biscuit side by side."
  },
  "outcomes": [
@@ -25,14 +25,14 @@
   {
    "term": "Force",
    "meaning": "A push or a pull. Forces can start or stop things, speed them up, slow them down, turn them, or change their shape.",
-   "example": "You push dough flat with a belan. You pull a rubber band longer.",
-   "art": "Two arrows: a hand pushing a belan over dough, and two fingers pulling a rubber band."
+   "example": "You push dough flat with a rolling pin. You pull a rubber band longer.",
+   "art": "Two arrows: a hand pushing a rolling pin over dough, and two fingers pulling a rubber band."
   },
   {
    "term": "Shape",
    "meaning": "The outline of a thing, and how it fills space. Round, flat, long and curved are all shapes.",
-   "example": "A ball of dough is round. A rolled roti is flat.",
-   "art": "A round dough ball next to a flat roti."
+   "example": "A ball of dough is round. A rolled chapati is flat.",
+   "art": "A round dough ball next to a flat chapati."
   },
   {
    "term": "Squash",
@@ -73,7 +73,7 @@
   {
    "term": "Plastic change",
    "meaning": "When a thing keeps its new shape after the force stops. In science, 'plastic' means 'stays changed'. It is not the stuff bottles are made of.",
-   "example": "Clay, atta dough and a bent paper clip keep their new shapes.",
+   "example": "Clay, chapati dough and a bent paper clip keep their new shapes.",
    "art": "A thumbprint pressed into clay, still there after the thumb lifts."
   },
   {
@@ -160,9 +160,9 @@
    "concept": "Forces can change shape",
    "status": "defined",
    "definition": "A force can change a thing's shape. There are four main ways: squashing, stretching, twisting and bending.",
-   "description": "When you push or pull something, it does not just move. It also changes shape, at least a little. Pushing inwards squashes it. Pulling outwards stretches it. Turning its two ends opposite ways twists it. Pushing on its middle while its ends are held bends it. Often one action does two at once. Rolling a roti with a belan squashes the dough and stretches it wider.",
+   "description": "When you push or pull something, it does not just move. It also changes shape, at least a little. Pushing inwards squashes it. Pulling outwards stretches it. Turning its two ends opposite ways twists it. Pushing on its middle while its ends are held bends it. Often one action does two at once. Rolling a chapati with a rolling pin squashes the dough and stretches it wider.",
    "examples": [
-    "Squash: pressing a ball of atta dough flat.",
+    "Squash: pressing a ball of chapati dough flat.",
     "Stretch: pulling a rubber band, or chewing gum.",
     "Twist: wringing out a wet towel, or opening a bottle cap.",
     "Bend: a bamboo in the wind, or a ruler pressed in the middle."
@@ -175,7 +175,7 @@
    "concept": "Keep it, spring back, or break",
    "status": "defined",
    "definition": "After a force stops, some things keep their new shape. Scientists call this a plastic change. Some spring back to their old shape. These are elastic. Some crack and break. These are brittle.",
-   "description": "Clay and dough stay squashed, so they are good for making pots and rotis. Sponges, rubber bands and balls spring back. A biscuit, a papad or glass cracks instead. The same thing can do all three. Bend a steel paper clip a little and it springs back. Bend it more and it stays bent. Bend it back and forth many times and it snaps. Springs and rubber bands are explored more in the unit 'Stretching and springs'.",
+   "description": "Clay and dough stay squashed, so they are good for making pots and chapatis. Sponges, rubber bands and balls spring back. A biscuit, a papad or glass cracks instead. The same thing can do all three. Bend a steel paper clip a little and it springs back. Bend it more and it stays bent. Bend it back and forth many times and it snaps. Springs and rubber bands are explored more in the unit 'Stretching and springs'.",
    "examples": [
     "A thumbprint stays in clay. That is a plastic change.",
     "A squeezed sponge springs back. It is elastic.",
@@ -618,7 +618,7 @@
   {
    "q": "A potter, a goldsmith, a baker and a blacksmith all change shapes with force. Why do we call some of this 'art' and some 'work'?",
    "kind": "big",
-   "hint": "Who decides? Is rolling a perfect round roti an art?"
+   "hint": "Who decides? Is rolling a perfect round chapati an art?"
   },
   {
    "q": "Some sculptors say a statue is already hidden inside the stone. Is a shape something we make, or something we find?",
@@ -689,13 +689,13 @@
      "kind": "cards",
      "title": "24 action cards to cut out",
      "items": [
-      "Rolling a roti with a belan",
+      "Rolling a chapati with a rolling pin",
       "Pulling a rubber band",
       "Wringing out a wet towel",
       "A bamboo in a strong wind",
       "Sitting on a cushion",
       "Opening a bottle cap",
-      "Kneading atta dough",
+      "Kneading chapati dough",
       "Plucking a sitar string",
       "Pressing a thumb into clay",
       "Bending a plastic ruler",
@@ -802,7 +802,7 @@
      "do": "1. Take turns. Each player reads a card, acts it out and places it on a mat. 2. Everyone shows an answer token. 3. Give out point tokens.",
      "say": "Show me the force with your hands first. Then put it on a mat. Now everyone, does it stay changed, spring back, or break?",
      "kid": "Take turns. Read your card. Act it out. Put it on a mat. Then hold up a token. Stays changed, springs back, or breaks?",
-     "parent": "Tricky cards: the roti is a squash and a stretch. The diving board bends, then springs back. The sitar string is stretched, and springs back. The bangle stays changed. The papad and the apple break. The can stays squashed. The bottle cap and tap twist, but do not change shape much. That is fine, a force can turn a thing too."
+     "parent": "Tricky cards: the chapati is a squash and a stretch. The diving board bends, then springs back. The sitar string is stretched, and springs back. The bangle stays changed. The papad and the apple break. The can stays squashed. The bottle cap and tap twist, but do not change shape much. That is fine, a force can turn a thing too."
     },
     {
      "id": "s4",
@@ -1027,7 +1027,7 @@
        "Springs back"
       ],
       [
-       "a rolled roti",
+       "a rolled chapati",
        "Stays changed"
       ],
       [
@@ -1127,7 +1127,7 @@
      "p": "Match each job to the shape change it uses most.",
      "pairs": [
       [
-       "Rolling a roti",
+       "Rolling a chapati",
        "squash"
       ],
       [
@@ -1710,7 +1710,7 @@
    ],
    "materials": [
     {
-     "item": "modelling clay or firm atta dough, enough for four lemon-sized balls",
+     "item": "modelling clay or firm chapati dough, enough for four lemon-sized balls",
      "qty": 1,
      "buy": "b-clay"
     },
@@ -1896,7 +1896,7 @@
    ],
    "materials": [
     {
-     "item": "a biscuit, a lump of atta dough, a slice of raw potato, a piece of boiled potato, a kitchen sponge, and a small stone from a plant pot or a steel spoon",
+     "item": "a biscuit, a lump of chapati dough, a slice of raw potato, a piece of boiled potato, a kitchen sponge, and a small stone from a plant pot or a steel spoon",
      "qty": 6
     },
     {
@@ -1923,7 +1923,7 @@
    "record": "Fill in the table. Then draw the six things in three groups: stays changed, springs back, breaks.",
    "setup": [
     {
-     "art": "A table with a biscuit, a lump of atta dough, a slice of raw potato, a piece of boiled potato, a kitchen sponge and a stone, each on its own steel plate.",
+     "art": "A table with a biscuit, a lump of chapati dough, a slice of raw potato, a piece of boiled potato, a kitchen sponge and a stone, each on its own steel plate.",
      "caption": "1. Set out six things on plates."
     },
     {
@@ -2212,12 +2212,12 @@
    "days": 1,
    "materials": [
     {
-     "item": "a ball of atta dough or play dough, about the size of an orange",
+     "item": "a ball of chapati dough or play dough, about the size of an orange",
      "qty": 1,
      "buy": "b-clay"
     },
     {
-     "item": "a belan (rolling pin)",
+     "item": "a rolling pin",
      "qty": 1
     }
    ],
@@ -2232,7 +2232,7 @@
    "record": "Draw the dough after each force. Label it squash, stretch, twist or bend.",
    "setup": [
     {
-     "art": "A child's hands pressing an orange-sized ball of atta dough flat on a board.",
+     "art": "A child's hands pressing an orange-sized ball of chapati dough flat on a board.",
      "caption": "1. Squash the dough flat."
     },
     {
@@ -2256,7 +2256,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Give your child the dough. 1. Squash it flat into a roti. 2. Roll it into a long snake. 3. Stretch the snake. 4. Twist it like a rope. 5. Bend it into a horseshoe. 6. Press a thumb in to make a diya.",
+     "do": "Give your child the dough. 1. Squash it flat into a chapati. 2. Roll it into a long snake. 3. Stretch the snake. 4. Twist it like a rope. 5. Bend it into a horseshoe. 6. Press a thumb in to make a diya.",
      "say": "Which force did you use? Push or pull? When you stopped, did the dough stay in its new shape?",
      "kid": "Squash the dough flat. Roll a snake. Stretch it. Twist it. Bend it. Press your thumb in. Does it stay changed?",
      "ask": [
@@ -2286,7 +2286,7 @@
       "a": 0,
       "why": "A plastic change means it stays changed. Picking 'elastic' means springing back, which is what a sponge does. Picking 'brittle' means breaking, like a biscuit."
      },
-     "think": "Why is it useful that roti dough stays flat after you roll it?"
+     "think": "Why is it useful that chapati dough stays flat after you roll it?"
     }
    ],
    "context": "In this activity you change the shape of a ball of dough in every way you can: squash, stretch, twist and bend. Then you compare it with a springy sponge."
@@ -3415,8 +3415,8 @@
  ],
  "spotted": [
   {
-   "text": "Rotis being rolled flat with a belan, squashed and stretched at once.",
-   "art": "A belan rolling a round roti on a board."
+   "text": "Chapatis being rolled flat with a rolling pin, squashed and stretched at once.",
+   "art": "A rolling pin rolling a round chapati on a board."
   },
   {
    "text": "A sugarcane juice cart, squashing the cane between rollers.",
@@ -3483,7 +3483,7 @@
  ],
  "ask_kids": [
   "You just sat on that cushion. What happened to its shape? Did it spring back?",
-  "Is this roti dough elastic or does it stay changed?",
+  "Is this chapati dough elastic or does it stay changed?",
   "When you wring that cloth, which way do your hands turn?",
   "That bus is turning a corner. What force is turning it?",
   "Did the floor change shape when you jumped on it? How could we tell?",
@@ -3568,7 +3568,7 @@
    "a": "Don't forget your exercise, or I'll get weak!"
   },
   {
-   "j": "Why did the roti look so calm?",
+   "j": "Why did the chapati look so calm?",
    "a": "It was rolled out nice and flat."
   },
   {
@@ -3827,7 +3827,7 @@
    "id": "b-clay",
    "item": "Modelling clay or play dough",
    "kind": "material",
-   "why": "Keeps its shape after a squash, so you can measure it. Used in the clay drop test and Shape the Dough. Atta dough works too.",
+   "why": "Keeps its shape after a squash, so you can measure it. Used in the clay drop test and Shape the Dough. Chapati dough works too.",
    "url": "https://www.amazon.in/s?k=modelling+clay+kids",
    "used_in": [
     "e1",

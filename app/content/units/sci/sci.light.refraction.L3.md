@@ -265,7 +265,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 ## Games
 ### g1 · Bent, Big or Neither? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them in a pile, face down.; On your turn, take the top card and read it out loud.; Decide: is light being bent here, so things look moved or broken? Is it being bent to make things look bigger? Or is light not bending at all? Put the card on the BENT, BIG or NEITHER mat.; Then say why, using the word 'bend' or 'straight'. A good reason wins one lens token.; If you draw a TEST IT card, everyone does the test together. The first person to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 situation cards to cut out:** A straw in a glass of nimbu pani looks broken; A fish in the pond is not where it looks; Grandpa's reading spectacles make letters clear; Your legs look short in the swimming pool; A dew drop on a leaf makes its veins look big; A watch-repair man's eye lens; A coin in a bucket looks closer to the top; A phone camera takes a photo; The setting Sun looks squashed at the bottom; A shadow of your hand on the wall; Your face in a steel plate; Stars twinkle at night; A glass marble on a newspaper; A round fish bowl makes the fish look fat; A torch beam in a dark room; The temple tank looks shallow, but is deep; A microscope shows onion cells; A water bottle stretches a word; A kingfisher dives straight down; Galaxies bent into rings in space photos; TEST IT: put a spoon in a glass of water. Look from the side. What happens?; TEST IT: lay a clear plastic bag over a newspaper word. Put one drop of water on it. Look at the word.; TEST IT: look at your fingertip through a glass of water. Is it bigger or smaller?; TEST IT: put a pencil straight down into water, upright. Does it look broken?
+- **Printable cards: 24 situation cards to cut out:** A straw in a glass of nimbu pani looks broken; A fish in the pond is not where it looks; Thatha's reading spectacles make letters clear; Your legs look short in the swimming pool; A dew drop on a leaf makes its veins look big; A watch-repair man's eye lens; A coin in a bucket looks closer to the top; A phone camera takes a photo; The setting Sun looks squashed at the bottom; A shadow of your hand on the wall; Your face in a steel plate; Stars twinkle at night; A glass marble on a newspaper; A round fish bowl makes the fish look fat; A torch beam in a dark room; The temple tank looks shallow, but is deep; A microscope shows onion cells; A water bottle stretches a word; A kingfisher dives straight down; Galaxies bent into rings in space photos; TEST IT: put a spoon in a glass of water. Look from the side. What happens?; TEST IT: lay a clear plastic bag over a newspaper word. Put one drop of water on it. Look at the word.; TEST IT: look at your fingertip through a glass of water. Is it bigger or smaller?; TEST IT: put a pencil straight down into water, upright. Does it look broken?
 - **Printable board: Three playing mats:** BENT: light bends, so things look moved or broken; BIG: a lens or drop bends light, so things look bigger; NEITHER: no bending of light here
 - **Printable tokens: 20 lens tokens (small paper circles):** 🔍
 - **s1 (2 min)**  
@@ -570,18 +570,18 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 
 ## Challenges
 ### c1 · Read the Tiny Print (25 min)
-- **problem:** Grandpa has lost his reading spectacles, and the medicine bottle has tiny writing. Your job is to make something that helps him read it, without using a magnifying glass or spectacles.
+- **problem:** Thatha has lost his reading spectacles, and the medicine bottle has tiny writing. Your job is to make something that helps him read it, without using a magnifying glass or spectacles.
 - **your turn:** Now invent your own magnifier. Draw it, and test it on the tiny print. Can you read every word now? Is it better than the others?
-- **constraints:** You cannot use a magnifying glass, spectacles or a phone camera.; You can only use things you find at home.; It must make the letters look clearly bigger, so Grandpa can read them.
+- **constraints:** You cannot use a magnifying glass, spectacles or a phone camera.; You can only use things you find at home.; It must make the letters look clearly bigger, so Thatha can read them.
 - **general:** Put a drop of water on a piece of clear plastic and hold it over the words.; Look through a round glass or bottle of water.; Place a clear glass marble right on the print.
 - **creative:** Stretch cling film over the top of a clear glass tumbler. Press the middle down a little and pour a spoon of water into the dip. Put the tiny print under the glass and look down through the water. The curved pool of water works like a lens.; Try a drop of cooking oil instead of water. Oil bends light a little more than water.; Make a tiny pinhole in a card and look at the print through it, very close. It works without bending light at all. Why does it help a little?
 - **s1 (5 min)**  
   *Parent does:* 1. Show your child the tiny print. 2. Read out the challenge and the rules.  
-  *Parent says:* Here's a real problem. These words are too small for Grandpa to read. How could you make them look bigger, with no magnifying glass?  
+  *Parent says:* Here's a real problem. These words are too small for Thatha to read. How could you make them look bigger, with no magnifying glass?  
   *Child mode:* These words are tiny. Make them look bigger. You can't use a magnifying glass. Think first.
 - **s2 (10 min)**  
   *Parent does:* Help your child test the usual ideas: a drop on plastic, a bottle of water, a marble.  
-  *Parent says:* Let's test some ideas. Which one makes the letters biggest? Which is easiest for Grandpa to use?  
+  *Parent says:* Let's test some ideas. Which one makes the letters biggest? Which is easiest for Thatha to use?  
   *Child mode:* Test a water drop, a bottle and a marble. Which makes letters biggest? Which is easiest to hold?
 - **s3 (5 min)**  
   *Parent does:* Let your child try a creative idea, or invent one.  
@@ -589,9 +589,9 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Child mode:* Try a creative idea. Or invent your own. Test it on the tiny print.
   - Check: In the Read the Tiny Print challenge, which home-made magnifier would most likely make letters look biggest? → **A small, round drop of water on clear plastic**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child which design they would give to Grandpa, and why.  
-  *Parent says:* Which design would you give Grandpa? Tell me why, using the word bend.  
-  *Child mode:* Which design would you give Grandpa? Say why. Use the word 'bend'.
+  *Parent does:* Ask your child which design they would give to Thatha, and why.  
+  *Parent says:* Which design would you give Thatha? Tell me why, using the word bend.  
+  *Child mode:* Which design would you give Thatha? Say why. Use the word 'bend'.
 ### c2 · Spear the Coin (25 min)
 - **problem:** A coin lies at the bottom of a bucket of water. Like a fisher with a spear, you must aim a stick at it from one side, then push it in with your eyes closed. Then work out how to aim better.
 - **your turn:** Now invent your own way of aiming. Try it 5 times. Count your hits. Is it better than the others?
@@ -794,7 +794,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - Diamond cutters shape stones so light bends and bounces inside them, and they sparkle.
 
 ## Spotted around us
-- A straw in a glass of nimbu pani or lassi, broken at the top of the drink.
+- A straw in a glass of lemon juice or buttermilk, broken at the top of the drink.
 - Your legs looking short and stumpy in a swimming pool or a river.
 - The steps of a temple tank looking shallower under the water.
 - Rain or dew drops on the leaf of a potted plant, each one making the leaf under it look bigger.
@@ -815,7 +815,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 ## Questions to ask kids
 - Look at your glass of water at dinner. Can you find something that looks bent or big through it?
 - Is a fish in an aquarium or a river really where it looks?
-- Why do you think Grandpa's reading glasses make words look big?
+- Why do you think Thatha's reading glasses make words look big?
 - If you were a kingfisher, where would you dive from?
 - Which is stronger: a tiny drop or a big drop?
 - Can you make a word flip with a water bottle?
@@ -834,7 +834,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - Why was the water drop so proud? *Everyone looked bigger when they were with it.*
 - Why did the kingfisher hover? *It wanted to get to the point. Straight down.*
 - What do you call a lens that tells jokes? *A magnifunny glass.*
-- Why did the straw in the lassi feel fine? *It only looked broken. Inside, it was straight.*
+- Why did the straw in the buttermilk feel fine? *It only looked broken. Inside, it was straight.*
 - Why did the coin hide in the cup? *It was waiting for someone to pour it a drink.*
 - Why did the spectacles go to school? *To help everyone see the point.*
 - What did the Sun say at sunset? *I have already gone. The air is just showing you my picture.*
@@ -846,11 +846,11 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - What did the eye say to the lens? *I couldn't see this without you.*
 
 ## Connected maths
-- In the water-drop test, Riya looked at a newspaper letter 2 millimetres tall. Through the tiny drop, it looked as tall as 4 millimetres on the ruler beside it. How many times taller did the drop make the letter look? **2 times taller.**. The letter is really 2 millimetres tall. Through the drop, it looked 4 millimetres tall. 4 divided by 2 is 2. So the drop made the letter look 2 times taller. You can check: 2 + 2 = 4. The letter itself is still 2 millimetres tall. (queues `math.division.sharing-and-grouping.L3`)
+- In the water-drop test, Kavya looked at a newspaper letter 2 millimetres tall. Through the tiny drop, it looked as tall as 4 millimetres on the ruler beside it. How many times taller did the drop make the letter look? **2 times taller.**. The letter is really 2 millimetres tall. Through the drop, it looked 4 millimetres tall. 4 divided by 2 is 2. So the drop made the letter look 2 times taller. You can check: 2 + 2 = 4. The letter itself is still 2 millimetres tall. (queues `math.division.sharing-and-grouping.L3`)
 - Look at the chart from the water-drop test. Which drop magnified most, and which magnified least? **The tiny drop magnified most, 2 times. The big drop magnified least, only 1 time, which means hardly at all.**. The tallest bar is the tiny drop, at 2. The medium drop is at 1 and a half. The big drop is at 1. A bar at 1 means the letters looked just the same size, so that drop hardly magnified. (queues `math.data.bar-charts.L3`)
 - A magnifying glass makes things look 3 times bigger. An ant is 4 millimetres long. How long does it look through the lens? **12 millimetres.**. 3 times bigger means 3 lots of the real size. The ant is 4 millimetres long. 3 lots of 4 is 4 + 4 + 4 = 12. So it looks 12 millimetres long, about as long as your fingernail is wide. The ant itself is still 4 millimetres. (queues `math.multiplication.equal-groups.L3`)
 - Seen from straight above, water looks about three quarters as deep as it really is. Looking straight down, a temple tank looks 3 metres deep. Is it really shallower than 3 metres, the same, or deeper? About how deep might it be? **Deeper. About 4 metres.**. If 3 metres is three quarters of the real depth, then each quarter is 1 metre. The whole depth is 4 quarters, so 4 metres. The tank is about 1 metre deeper than it looks. That is why we never jump into water because it looks shallow. (queues `math.fractions.fractions-of-a-whole.L3`)
-- In Spear the Coin, Riya hit the coin 1 time out of 5 when she aimed at the coin's picture. After she learned to look from straight above, she hit it 4 times out of 5. How many more hits did she get? **3 more hits.**. She got 4 hits the second time and 1 hit the first time. 4 take away 1 is 3. So she got 3 more hits, out of the same 5 tries. (queues `math.addition-subtraction.word-problems.L3`)
+- In Spear the Coin, Kavya hit the coin 1 time out of 5 when she aimed at the coin's picture. After she learned to look from straight above, she hit it 4 times out of 5. How many more hits did she get? **3 more hits.**. She got 4 hits the second time and 1 hit the first time. 4 take away 1 is 3. So she got 3 more hits, out of the same 5 tries. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
 Follow the Light (sci.light.L3): Topic-level song

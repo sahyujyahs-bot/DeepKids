@@ -498,7 +498,7 @@
    "hint": "Who were the seeds for? How many people could they feed one day?"
   },
   {
-   "q": "Every chana in your chole was once a living baby plant with its own food store. Does knowing that change how you see your food?",
+   "q": "Every chana in your sundal was once a living baby plant with its own food store. Does knowing that change how you see your food?",
    "kind": "big",
    "hint": "Many families say thank you before eating. What might they be thanking?"
   },
@@ -519,11 +519,11 @@
   "read_aloud": true,
   "note": "Noor, her family and the sprouts cart are made up. The science is real: soaked seeds need air, a heap of sprouting seeds gets warm because it is breathing, and seeds kept under water too long go sour.",
   "text": [
-   "Every morning at six, Noor's mother pushed a blue handcart to the corner outside Byculla station in Mumbai. On the cart was a big steel bowl of sprouts. There were green moong with white tails, chopped onion, tomato, lemon and a pinch of red chilli. Office workers stopped on their way to the train. 'One plate, Ammi,' they said, and Ammi spooned sprouts into a leaf bowl. Two hundred plates on a good day. On a bad day, fewer.",
+   "Every morning at six, Noor's mother pushed a blue handcart to the corner outside Egmore station in Chennai. On the cart was a big steel bowl of sprouts. There were green moong with white tails, chopped onion, tomato, lemon and a pinch of red chilli. Office workers stopped on their way to the train. 'One plate, Ammi,' they said, and Ammi spooned sprouts into a leaf bowl. Two hundred plates on a good day. On a bad day, fewer.",
    "Noor was nine, and she knew how the sprouts were made, or she thought she did. At night, Ammi poured moong into the big dabba and covered it with water. In the morning she drained it. She tipped the fat, wet seeds into an old white cloth and tied it loosely, like a bundle for a journey. Then she hung it from a nail on the window bars. By the next morning, every seed had a tail.",
    "'Why the nail?' Noor once asked. 'Why not leave them in the dabba?'",
    "'Because they are getting ready to travel,' said Ammi, which was not really an answer. Ammi's answers were often like that.",
-   "Then came the week of Khala's wedding in Nashik. Ammi had to go for two days. 'Faiz will run the cart on Sunday,' she said. Faiz was thirteen and thought he was eighteen. 'And Noor will make the sprouts. Soak them tonight. Hang them tomorrow. You have seen me do it a thousand times.'",
+   "Then came the week of Khala's wedding in Vellore. Ammi had to go for two days. 'Faiz will run the cart on Sunday,' she said. Faiz was thirteen and thought he was eighteen. 'And Noor will make the sprouts. Soak them tonight. Hang them tomorrow. You have seen me do it a thousand times.'",
    "Noor nodded. A thousand times was a lot.",
    "That night she soaked the moong in the dabba, just as Ammi did. But in the morning, before she could drain it, she heard a scratching under the floorboards. Last month, a rat had chewed through Ammi's bundle on the nail. Half the sprouts had been ruined. Ammi had cried a little, when she thought nobody was looking.",
    "Not this time, Noor decided. She left the moong in its water. She pressed the steel lid down hard. Then she put the heavy grinding stone on top. No rat could lift that. Pleased, she went to school.",
@@ -541,7 +541,7 @@
    "Noor could not sleep. Twice in the night she got up and touched the bundle. It was cool and damp. At four in the morning she touched it again. And this time, in the very middle, it was warm. Not much. Just a little, like a hand that has been holding another hand.",
    "When the first light came, she untied the cloth. Most of the seeds had split their green coats. Out of each one curled a tiny white tail, thin as a comma in her school book. Not every seed. About two of every three. But that was enough.",
    "On Sunday, Faiz pushed the blue cart to the corner outside the station. Noor chopped the onions and squeezed the lemons. They sold one hundred and thirty plates. It was not two hundred. Faiz said it was a record for a cart run by children, and nobody could prove that it wasn't.",
-   "That night, Ammi called from Nashik. Music and laughter roared behind her. 'How were the sprouts?' she shouted.",
+   "That night, Ammi called from Vellore. Music and laughter roared behind her. 'How were the sprouts?' she shouted.",
    "'They were breathing,' said Noor.",
    "There was a little silence on the line. Then Ammi laughed, the way she laughed when Noor said something she had not expected. 'Of course they were,' she said. 'Did you hang them on the nail?'",
    "'With an umbrella,' said Noor. And she went to the window and laid her hand on the new bundle, soaked and tied and hanging in the dark, already beginning to wake."
@@ -555,7 +555,7 @@
    "Faiz said 'Not bad' about the strainer umbrella. How did Noor solve two problems at once?"
   ],
   "art": [
-   "A blue handcart with a big steel bowl of sprouts outside a busy Mumbai railway station at dawn.",
+   "A blue handcart with a big steel bowl of sprouts outside a busy Chennai railway station at dawn.",
    "A loosely tied white cloth bundle hanging from a nail on window bars, the sea in the distance.",
    "A steel dabba with a grinding stone on its lid, and cloudy water with grey froth inside.",
    "Noor at four in the morning, in the dark, with her hand on the bundle, a steel strainer hanging above it like an umbrella.",
@@ -598,7 +598,7 @@
       "FERTILE SOIL: compost",
       "DROWNED: you are under water. Give back one AIR card.",
       "DROWNED: the dabba lid is shut tight. Give back one AIR card.",
-      "FROST: a cold night in Shimla. Give back one WARMTH card.",
+      "FROST: a cold night in Ooty. Give back one WARMTH card.",
       "FRIDGE: someone put you in the fridge. Give back one WARMTH card.",
       "DROUGHT: the rain is late. Give back one WATER card.",
       "DRIED OUT: the cloth dried in the sun. Give back one WATER card.",
@@ -2523,7 +2523,7 @@
      "caption": "1. Push two soaked beans into soil against the side of a clear cup."
     },
     {
-     "art": "A child writing a name label, 'Raju', and sticking it on the cup.",
+     "art": "A child writing a name label, 'Kavya', and sticking it on the cup.",
      "caption": "2. Give your seed friend a name."
     },
     {

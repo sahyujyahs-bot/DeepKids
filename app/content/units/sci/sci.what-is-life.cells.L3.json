@@ -2895,9 +2895,9 @@
    "why_maths": "A number like 30 trillion is too big to picture. Turning it into time helps us feel how many cells we are made of."
   },
   {
-   "problem": "In the Run and Tumble game, Dev took 12 runs to find the lemon. Each run was 3 steps. How many steps did Dev walk in all?",
+   "problem": "In the Run and Tumble game, Farhan took 12 runs to find the lemon. Each run was 3 steps. How many steps did Farhan walk in all?",
    "answer": "36 steps.",
-   "explain": "Dev took 12 runs of 3 steps each. 12 times 3 is 36. So Dev walked 36 steps, even though the lemon was much closer in a straight line. That is how a bacterium moves: lots of small tries.",
+   "explain": "Farhan took 12 runs of 3 steps each. 12 times 3 is 36. So Farhan walked 36 steps, even though the lemon was much closer in a straight line. That is how a bacterium moves: lots of small tries.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
    "context": "This is about Run and Tumble, the game where you played a bacterium finding food with your eyes shut, in runs of 3 steps.",
    "how": "g2",

@@ -79,7 +79,7 @@
   {
    "term": "Iron",
    "meaning": "A grey metal that a magnet attracts strongly. When it stays wet, it rusts and turns brown and flaky.",
-   "example": "An old gate and a tawa may be made of iron. A nail is made of steel, which is mostly iron.",
+   "example": "An old gate and a dosa tawa may be made of iron. A nail is made of steel, which is mostly iron.",
    "art": "A rusty iron gate with a magnet stuck to one bar."
   },
   {
@@ -98,7 +98,7 @@
    "term": "Stainless steel",
    "meaning": "Steel with a metal called chromium mixed in, so that it hardly rusts. Many kinds also have nickel in them.",
    "example": "Your steel tumbler is probably stainless steel. A magnet attracts some stainless steels and not others.",
-   "art": "A shiny steel tumbler and katori on a kitchen shelf, with a fridge magnet held over each."
+   "art": "A shiny steel tumbler and bowl on a kitchen shelf, with a fridge magnet held over each."
   },
   {
    "term": "Nickel and cobalt",
@@ -215,25 +215,25 @@
    "description": "Many people think a magnet attracts every metal. It does not. Try an aluminium foil ball, a copper wire, a brass key and a gold ring. They are all shiny metals, and a magnet attracts none of them. An element is a pure substance made of only one kind of atom. About ninety elements are found in nature. At room temperature, only three of them are magnetic: iron, nickel and cobalt. A fourth, gadolinium, is magnetic only when it is colder than about 20 degrees Celsius. So being a metal does not make a thing magnetic. Something inside iron, nickel and cobalt is different. A later card explains what it is.",
    "examples": [
     "A magnet does not attract aluminium foil or an aluminium pressure cooker.",
-    "A magnet does not attract a brass diya or a copper lota.",
+    "A magnet does not attract a brass diya or a copper water pot.",
     "A magnet does not attract a gold ring or a silver anklet."
    ],
    "perspectives": [],
-   "art": "A row of shiny metal things, a foil ball, a copper lota, a brass diya, a gold ring, each with a small cross, and a nail with a tick.",
+   "art": "A row of shiny metal things, a foil ball, a copper water pot, a brass diya, a gold ring, each with a small cross, and a nail with a tick.",
    "context": "Does a magnet attract all metals? This card gives the surprising answer, and shows that shine does not make a thing magnetic."
   },
   {
    "concept": "Steel is a mixture, so one steel can differ from another",
    "status": "defined",
    "definition": "Steel is an alloy, a mixture. It is mostly iron with a little carbon. Stainless steel also has chromium, and often nickel. The exact mixture decides whether a magnet attracts it.",
-   "description": "This explains the spoon and the tumbler. Most steel is mostly iron, so a magnet attracts it. But many Indian tumblers, katoris and thalis are made of a stainless steel with nickel in it. In every 100 parts, about 18 are chromium and 8 are nickel. The nickel changes how the iron atoms are packed together. Packed this way, the tiny magnets of the iron atoms do not line up. So a magnet attracts this steel very weakly, or not at all. Other stainless steels have chromium but little nickel, and a magnet attracts them well. Pans for induction stoves are made of that kind, because an induction stove works well only with a pan that a magnet attracts. Bending can also change how the atoms are packed. So a bent rim of a tumbler may be attracted a little.",
+   "description": "This explains the spoon and the tumbler. Most steel is mostly iron, so a magnet attracts it. But many Indian tumblers, bowls and plates are made of a stainless steel with nickel in it. In every 100 parts, about 18 are chromium and 8 are nickel. The nickel changes how the iron atoms are packed together. Packed this way, the tiny magnets of the iron atoms do not line up. So a magnet attracts this steel very weakly, or not at all. Other stainless steels have chromium but little nickel, and a magnet attracts them well. Pans for induction stoves are made of that kind, because an induction stove works well only with a pan that a magnet attracts. Bending can also change how the atoms are packed. So a bent rim of a tumbler may be attracted a little.",
    "examples": [
     "A magnet attracts a steel almirah, a tawa and many spoons.",
-    "A magnet does not attract many tumblers and katoris, or attracts them only weakly.",
+    "A magnet does not attract many tumblers and bowls, or attracts them only weakly.",
     "A magnet always attracts the bottom of a pan that works on an induction stove."
    ],
    "perspectives": [],
-   "art": "Two steel katoris with a magnet: one holds the magnet firmly, the other lets it slide off. A magnified circle shows the iron atoms packed in two different patterns.",
+   "art": "Two steel bowls with a magnet: one holds the magnet firmly, the other lets it slide off. A magnified circle shows the iron atoms packed in two different patterns.",
    "context": "Why do two steel things behave differently? This card explains the spoon and the tumbler from the start of the unit."
   },
   {
@@ -470,7 +470,7 @@
   {
    "claim": "Stainless steel is never magnetic.",
    "who": "Many shopkeepers and some websites",
-   "for": "Many steel tumblers, katoris and thalis really do not stick to a magnet.",
+   "for": "Many steel tumblers, bowls and plates really do not stick to a magnet.",
    "against": "Only some stainless steels are non-magnetic: the kinds with plenty of nickel. Others have chromium but little nickel, and a magnet attracts them well. Pans for induction stoves are made from those. Even the non-magnetic kind can become a little magnetic where it has been bent.",
    "status": "rejected",
    "context": "Many people say that stainless steel does not stick to magnets. This card checks that claim."
@@ -600,7 +600,7 @@
    "Zainab's grandfather could no longer see the colour of metal. A cloud had grown over both his eyes, like milk in tea. But he could still hear it.",
    "Every morning, in the workshop in Moradabad, the city of brass, he held up a new sheet of metal. Then he flicked it with his fingernail. If the note came back long and warm, he nodded. If it came back short and dull, he frowned. 'Brass sings,' he would say. 'Everything else only talks.'",
    "Zainab was ten, and she swept the floor. It was a big floor, covered in filings and sawdust and tiny bits of wire, and the worst part was the pins. The workers used pins and tacks and little nails to hold their patterns, and the pins fell everywhere. So Zainab had tied a small flat magnet to a string at her waist. She dragged it across the floor like a fishing line, and the pins leapt up and clung to it. At the end of each day she wiped them off into a tin. She called the magnet Chhoti Machhli, the little fish.",
-   "That week the workshop had a huge order. A shop in Delhi wanted two hundred brass lamp stands for Diwali. The sheets of brass would come on a truck on Monday morning. Her grandfather had been waiting for the order for three months, because money was short.",
+   "That week the workshop had a huge order. A shop in Chennai wanted two hundred brass lamp stands for Karthigai Deepam. The sheets of brass would come on a truck on Monday morning. Her grandfather had been waiting for the order for three months, because money was short.",
    "The truck came. The trader was a man in a clean white kurta with a gold ring on every other finger. His workers carried in the sheets, and they were beautiful. They were the colour of a ripe mango. Her grandfather held out his hand, and the trader put a sheet in it.",
    "He flicked it. The note came back. It was short, but the workshop was loud with the truck, so who could be sure? He weighed it in his hand. He ran his thumb along the edge. 'Good,' he said at last, though he sounded like a man trying to convince himself. 'It will do.'",
    "Zainab was standing by the door with her broom. Something bothered her, and she could not say what. So she did the only thing she knew how to do. She unwound Chhoti Machhli from her waist, and let it dangle over the top sheet in the pile.",
@@ -609,7 +609,7 @@
    "'That is a toy,' said the trader quickly. 'A child's toy. It means nothing.'",
    "Her grandfather had gone very still. 'Zainab,' he said, 'go to the shelf. Bring me the old diya, the one my father made.' She ran. The diya was brass, black with age, and as heavy as a fist. She put it in his hands, and then she held Chhoti Machhli close.",
    "It swung once, and it did not jump. It did not even twitch. It hung from its string, over the old lamp, and just turned slowly.",
-   "'Brass is copper and zinc,' her grandfather said, to nobody in particular. 'A magnet does not attract either of them. But it attracts iron, and steel is mostly iron.' He turned his clouded eyes towards the trader. 'Underneath your lovely mango colour, there is steel, isn't there? A thin coat of brass on top, like a coat of butter on a roti.'",
+   "'Brass is copper and zinc,' her grandfather said, to nobody in particular. 'A magnet does not attract either of them. But it attracts iron, and steel is mostly iron.' He turned his clouded eyes towards the trader. 'Underneath your lovely mango colour, there is steel, isn't there? A thin coat of brass on top, like a coat of ghee on a dosa.'",
    "The trader said many things, some loud and some soft. But in the end he picked up his sheets and went back to his truck, because it is hard to argue with something that clicks.",
    "That night, as the lamps in the lane were being lit, Zainab sat with her grandfather on the step. 'Dada,' she said. 'If the magnet had not stuck, would that have meant the sheets were real brass?'",
    "He was quiet for a long time. A moth went round the lamp. 'No,' he said at last. 'It could have been aluminium with yellow paint on it. It could have been something I have never heard of. Your fish can only tell me what a thing is not. It cannot tell me what it is.' He smiled. 'But today I needed to hear a no more than I needed to hear a yes. A good test, Zainab, is a small honest voice. It says one true thing.'",
@@ -657,7 +657,7 @@
       "Stone",
       "Rubber band",
       "Steel safety pin",
-      "Iron tawa",
+      "Iron dosa tawa",
       "Aluminium pressure cooker",
       "Wooden spoon",
       "Scissors blade",
@@ -668,7 +668,7 @@
       "Iron gate",
       "Pencil lead (graphite)",
       "STAR: Steel tumbler",
-      "STAR: Steel katori",
+      "STAR: Steel bowl",
       "STAR: A one-rupee coin",
       "STAR: A ten-rupee coin",
       "STAR: A house key",
@@ -807,19 +807,19 @@
      "kind": "cards",
      "title": "13 case cards to cut out",
      "items": [
-      "Rani says: The spoon stuck to the magnet. So the spoon has iron in it.",
+      "Meenakshi says: The spoon stuck to the magnet. So the spoon has iron in it.",
       "Imran says: The key did not stick. So it is made of brass.",
-      "Asha says: The tumbler did not stick. So it is not made of steel.",
-      "Dev says: The coin did not stick. So it is real silver.",
-      "Meena says: The foil ball did not stick. So my magnet must be broken.",
-      "Zoya says: The nail stuck. So all metals stick.",
+      "Kavya says: The tumbler did not stick. So it is not made of steel.",
+      "Karthik says: The coin did not stick. So it is real silver.",
+      "Lakshmi says: The foil ball did not stick. So my magnet must be broken.",
+      "Ayesha says: The nail stuck. So all metals stick.",
       "Kabir says: The pin stuck. So the pin is not made of gold.",
-      "Lata says: The magnet stuck to my tin can. So the can is made of tin.",
+      "Revathi says: The magnet stuck to my tin can. So the can is made of tin.",
       "Ravi says: The toy car stuck to the magnet. So the whole car is made of iron.",
       "Sana says: The bottom of my steel pot stuck. So the bottom has a magnetic metal in it.",
       "Joseph says: The magnet moved a clip through a plate. So the plate is magnetic.",
-      "Nisha says: My ring did not stick. So it is pure gold.",
-      "Tara says: A frog floated in a very strong magnet. So a frog is magnetic like iron."
+      "Divya says: My ring did not stick. So it is pure gold.",
+      "Nila says: A frog floated in a very strong magnet. So a frog is magnetic like iron."
      ]
     },
     {
@@ -861,9 +861,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Read the practice case: 'Rani says: the spoon stuck to the magnet. So the spoon has iron in it.' Let everyone raise a paddle.",
-     "say": "Practice case. Rani says the spoon stuck, so it has iron in it. What is your verdict?",
-     "kid": "Practice case. Rani says the spoon stuck, so it has iron in it. Proved, not proved, or wrong?",
+     "do": "Read the practice case: 'Meenakshi says: the spoon stuck to the magnet. So the spoon has iron in it.' Let everyone raise a paddle.",
+     "say": "Practice case. Meenakshi says the spoon stuck, so it has iron in it. What is your verdict?",
+     "kid": "Practice case. Meenakshi says the spoon stuck, so it has iron in it. Proved, not proved, or wrong?",
      "ask": [
       {
        "q": "Why is it proved?",
@@ -875,7 +875,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "The spoon stuck to the magnet. Rani says the spoon has iron in it. Is that proved, not proved, or wrong?",
+      "q": "The spoon stuck to the magnet. Meenakshi says the spoon has iron in it. Is that proved, not proved, or wrong?",
       "options": [
        "Proved",
        "Not proved",
@@ -891,7 +891,7 @@
      "do": "Play the cases one by one. Let each lawyer give a reason before the judge decides. Write each verdict on the court record.",
      "say": "Take a case. Read it. Raise your paddle. Say why in one sentence. Then the judge decides.",
      "kid": "Take turns as judge. Read a case. Everyone raises a paddle and says why. The judge decides.",
-     "parent": "Verdicts: Rani PROVED. Imran NOT PROVED, because aluminium and copper do not stick either. Asha WRONG, because some steels do not stick. Dev NOT PROVED, because brass and aluminium do not stick either. Meena WRONG, because foil is not magnetic, so it never sticks. Test the magnet on a nail to check it. Zoya WRONG, because one nail does not tell us about other metals. Kabir PROVED. Lata WRONG, because tin is not magnetic. The can is steel with a thin coat of tin. Ravi NOT PROVED, because the car may be plastic with a steel axle. Sana PROVED for the bottom. Joseph WRONG, because a magnet's force acts through non-magnetic plates. Nisha NOT PROVED, because silver, brass and aluminium do not stick either. Tara WRONG, because a magnet repels a frog very weakly. It does not attract it like iron.",
+     "parent": "Verdicts: Meenakshi PROVED. Imran NOT PROVED, because aluminium and copper do not stick either. Kavya WRONG, because some steels do not stick. Karthik NOT PROVED, because brass and aluminium do not stick either. Lakshmi WRONG, because foil is not magnetic, so it never sticks. Test the magnet on a nail to check it. Ayesha WRONG, because one nail does not tell us about other metals. Kabir PROVED. Revathi WRONG, because tin is not magnetic. The can is steel with a thin coat of tin. Ravi NOT PROVED, because the car may be plastic with a steel axle. Sana PROVED for the bottom. Joseph WRONG, because a magnet's force acts through non-magnetic plates. Divya NOT PROVED, because silver, brass and aluminium do not stick either. Nila WRONG, because a magnet repels a frog very weakly. It does not attract it like iron.",
      "ask": [
       {
        "q": "Why is Imran's case not proved?",
@@ -1143,7 +1143,7 @@
     },
     {
      "t": "write",
-     "p": "Rohan says: 'The key is shiny, so the magnet will stick to it.' Is he right? Explain.",
+     "p": "Arjun says: 'The key is shiny, so the magnet will stick to it.' Is he right? Explain.",
      "lines": 3,
      "a": "No. Shiny things are not always magnetic. A brass key is shiny, but a magnet does not stick to brass. A magnet sticks to iron and steel, whether they are shiny or not.",
      "why": "Shine tells us how light bounces off a surface. It does not tell us whether a magnet will attract it."
@@ -1370,12 +1370,12 @@
        "Does not stick"
       ],
       [
-       "a steel katori",
+       "a steel bowl",
        "Depends on the kind"
       ]
      ],
      "a": "see items",
-     "why": "A magnet always attracts iron, and never attracts aluminium or wood. Steel tumblers, katoris and coins depend on exactly which mixture they are made of, so we test them."
+     "why": "A magnet always attracts iron, and never attracts aluminium or wood. Steel tumblers, bowls and coins depend on exactly which mixture they are made of, so we test them."
     },
     {
      "t": "mcq",
@@ -1510,7 +1510,7 @@
     },
     {
      "t": "mcq",
-     "p": "A ring sticks to a magnet. Tara says it cannot be pure silver. Is she right?",
+     "p": "A ring sticks to a magnet. Nila says it cannot be pure silver. Is she right?",
      "opts": [
       "Yes, silver is not magnetic, so something else is inside",
       "No, silver always sticks",
@@ -1638,11 +1638,11 @@
      "qty": 4
     },
     {
-     "item": "a steel katori or tumbler, and a coin",
+     "item": "a steel bowl or tumbler, and a coin",
      "qty": 2
     },
     {
-     "item": "a ball of aluminium foil, a copper wire or copper lota, and a brass key or diya",
+     "item": "a ball of aluminium foil, a copper wire or copper water pot, and a brass key or diya",
      "qty": 3
     },
     {
@@ -1724,7 +1724,7 @@
        ]
       }
      ],
-     "parent": "Expect: the nail, pin and paper clip stick. The aluminium foil, copper, brass key, plastic, wood, glass, cloth and stone do not. The steel spoon and katori can vary. Many tumblers do not stick, and that is a real result, not a mistake. Coins vary too, so write down what you find.",
+     "parent": "Expect: the nail, pin and paper clip stick. The aluminium foil, copper, brass key, plastic, wood, glass, cloth and stone do not. The steel spoon and bowl can vary. Many tumblers do not stick, and that is a real result, not a mistake. Coins vary too, so write down what you find.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1754,7 +1754,7 @@
         "does not stick"
        ],
        [
-        "Steel katori",
+        "Steel bowl",
         "steel",
         "STICK",
         "no",
@@ -1914,7 +1914,7 @@
      "qty": 1
     },
     {
-     "item": "a steel thali or plate",
+     "item": "a steel plate",
      "qty": 1
     }
    ],
@@ -2006,10 +2006,10 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Test the steel thali. 1. Check whether a magnet sticks to the thali. 2. Put the clip on one side of the thali and the magnet on the other side. See if the clip moves. Then say or write what you think, what you saw and why.",
-     "say": "Does the magnet attract the clip through the thali? What do you think, what did you see, and why?",
-     "kid": "Try the steel thali. Put the clip on the far side. Does it move? Say what you think, what you saw, and why.",
-     "parent": "This depends on the steel. If a magnet sticks to your thali, the thali carries the magnetic field inside itself, and the clip on the far side hardly moves. If a magnet does not stick to your thali, the force passes through, as with paper. Both results are correct. They show again that the exact steel matters.",
+     "do": "Test the steel plate. 1. Check whether a magnet sticks to the plate. 2. Put the clip on one side of the plate and the magnet on the other side. See if the clip moves. Then say or write what you think, what you saw and why.",
+     "say": "Does the magnet attract the clip through the plate? What do you think, what did you see, and why?",
+     "kid": "Try the steel plate. Put the clip on the far side. Does it move? Say what you think, what you saw, and why.",
+     "parent": "This depends on the steel. If a magnet sticks to your plate, the plate carries the magnetic field inside itself, and the clip on the far side hardly moves. If a magnet does not stick to your plate, the force passes through, as with paper. Both results are correct. They show again that the exact steel matters.",
      "check": {
       "t": "mcq",
       "q": "Why does the clip stop jumping when the stack gets too thick?",
@@ -2861,7 +2861,7 @@
      "do": "Talk about the game. Ask which card was safest, and which was the most risky.",
      "say": "Which card was the safest to hold? Which was the riskiest? Why?",
      "kid": "Which card was safest? Which was most risky? Why?",
-     "think": "What if the steel katori card were in the game? Would it be safe or risky?"
+     "think": "What if the steel bowl card were in the game? Would it be safe or risky?"
     }
    ],
    "context": "This is a running game. One player is a magnet and tags players, but only those holding magnetic things get stuck.",
@@ -3309,7 +3309,7 @@
   },
   {
    "t": "mcq",
-   "p": "Mira predicts that a brass diya will stick to a magnet. She tests it and it does not. What should she do?",
+   "p": "Malini predicts that a brass diya will stick to a magnet. She tests it and it does not. What should she do?",
    "opts": [
     "Write down what happened and change her idea",
     "Test again until it sticks",
@@ -3402,10 +3402,10 @@
   },
   {
    "t": "mcq",
-   "p": "A steel katori does not stick to a magnet, but a steel spoon does. What is the best explanation?",
+   "p": "A steel bowl does not stick to a magnet, but a steel spoon does. What is the best explanation?",
    "opts": [
     "Steel is a mixture, and the mixtures differ",
-    "The katori is plastic",
+    "The bowl is plastic",
     "The magnet is weak",
     "The spoon is gold"
    ],
@@ -3621,7 +3621,7 @@
   "Look at this spoon. Do you think a magnet will attract it? What is your reason?",
   "If a magnet does not stick to something, what does that tell us? What does it not tell us?",
   "Which things in our kitchen do you think are made of iron? Which are not?",
-  "Why do you think the handle of the kadhai is wood or plastic, and the pan is metal?",
+  "Why do you think the handle of the kadai is wood or plastic, and the pan is metal?",
   "Look at a coin. What do you think it is made of? How could we find out?",
   "If you had a very strong magnet, what would you try to pick up?",
   "A magnet works through paper. What else do you think it could work through?",
@@ -3842,7 +3842,7 @@
    "why_maths": "A ruler only helps if you can read it. Reading the small marks turns a stack of paper into a number you can compare."
   },
   {
-   "problem": "A kabadiwala pays 25 rupees for each kilogram of iron scrap. This price is made up. Hira sells 4 kilograms of iron scrap that she sorted with a magnet. How many rupees does she get?",
+   "problem": "A kabadiwala pays 25 rupees for each kilogram of iron scrap. This price is made up. Hema sells 4 kilograms of iron scrap that she sorted with a magnet. How many rupees does she get?",
    "answer": "100 rupees.",
    "explain": "She gets 25 rupees for each of 4 kilograms. That is 4 groups of 25. 25 and 25 is 50. 50 and 25 is 75. 75 and 25 is 100. So she gets 100 rupees.",
    "math_unit": "math.money.money-in-life.L3",

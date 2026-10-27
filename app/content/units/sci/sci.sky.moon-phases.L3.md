@@ -24,7 +24,7 @@
 - **Waxing**: Growing. Each night, we see a little more of the Moon's lit half. *e.g.* From Amavasya to Purnima the Moon is waxing. This is the bright half of the month, Shukla Paksha.
 - **Waning**: Shrinking. Each night, we see a little less of the Moon's lit half. *e.g.* From Purnima to Amavasya the Moon is waning. This is the dark half of the month, Krishna Paksha.
 - **Lunar month**: The time from one new Moon to the next. It is about 29 and a half days. *e.g.* From one Diwali Amavasya to the next Amavasya is one lunar month.
-- **Tithi**: A Moon day in the Indian calendar. There are 30 tithis in each lunar month. A tithi is usually close to one day long, but it can be a few hours shorter or longer. *e.g.* Ganesh Chaturthi falls on the fourth tithi, chaturthi, of the bright half of the month.
+- **Tithi**: A Moon day in the Indian calendar. There are 30 tithis in each lunar month. A tithi is usually close to one day long, but it can be a few hours shorter or longer. *e.g.* Vinayaka Chaturthi (Vinayaka Chaturthi) falls on the fourth tithi, chaturthi, of the bright half of the month.
 - **Paksha**: Half of a lunar month, about 15 tithis. Shukla Paksha is the bright half, when the Moon grows. Krishna Paksha is the dark half, when it shrinks. *e.g.* Navratri begins in Shukla Paksha, as the Moon starts to grow.
 - **Orbit**: The path one thing takes as it goes round another. *e.g.* The Moon's orbit takes it all the way round the Earth.
 - **Tidal locking**: When a moon spins exactly once for each trip round its planet, so it always shows the planet the same face. The planet's pull slowed its spin until it fell into step. *e.g.* Our Moon is tidally locked to the Earth. So are the four big moons of Jupiter.
@@ -118,9 +118,9 @@ On 18 August 1868, a French astronomer, Jules Janssen, watched a total solar ecl
 ### The Indian Moon calendar · *defined*
 **Definition:** Indian calendars count months by the Moon. Each lunar month has 30 tithis, split into a bright half, Shukla Paksha, and a dark half, Krishna Paksha. An extra month is added about once every three years to keep in step with the seasons.
 
-A tithi is the time the Moon takes to move a set step further from the Sun in the sky. Because the Moon's speed changes, a tithi can be a few hours shorter or longer than a day. In much of North India, a month ends on Purnima. In much of South and West India, a month ends on Amavasya. Twelve Moon months make about 354 days. That is 11 days short of a Sun year of 365 days. So every three years or so, an extra month, the adhik maas, is slipped in. That keeps Diwali in autumn and Holi in spring. The Islamic calendar is a pure Moon calendar with no extra month. So Eid and Ramzan come about 11 days earlier each year, and slowly move through every season. Chinese, Jewish and Buddhist calendars also follow the Moon. Easter falls on the Sunday after the first full Moon of spring.
-- e.g. Diwali falls on Amavasya. Holi, Raksha Bandhan, Guru Purnima, Buddha Purnima and Sharad Purnima fall on full Moons. Karva Chauth ends when the Moon rises. Eid begins when the new crescent is seen.
-- e.g. Sun festivals stay on nearly the same date each year. Makar Sankranti and Pongal fall around 14 January.
+A tithi is the time the Moon takes to move a set step further from the Sun in the sky. Because the Moon's speed changes, a tithi can be a few hours shorter or longer than a day. In much of North India, a month ends on Purnima. In much of South and West India, a month ends on Amavasya. Twelve Moon months make about 354 days. That is 11 days short of a Sun year of 365 days. So every three years or so, an extra month, the adhik maas, is slipped in. That keeps Diwali in autumn and Ugadi in spring. The Islamic calendar is a pure Moon calendar with no extra month. So Eid and Ramzan come about 11 days earlier each year, and slowly move through every season. Chinese, Jewish and Buddhist calendars also follow the Moon. Easter falls on the Sunday after the first full Moon of spring.
+- e.g. Diwali falls on Amavasya. Holi, Karthigai Deepam, Guru Purnima, Buddha Purnima and Sharad Purnima fall on full Moons. Ugadi comes just after a new Moon. Eid begins when the new crescent is seen.
+- e.g. Sun festivals stay on nearly the same date each year. Makar Sankranti and Pongal fall around 14 January, and Vishu around 14 April.
 ### Living things that keep Moon time · *debated*
 Many living things keep time by the Moon, for their own reasons, not ours. On the Great Barrier Reef in Australia, many corals release their eggs together on a few nights after a full Moon in late spring. Each coral polyp seems to sense the moonlight. Dung beetles in Africa can roll their dung balls in a straight line on moonlit nights. They steer by the way moonlight is spread across the sky. Lions hunt most successfully on dark nights, so the people who live near them are in most danger in the days after the full Moon. Do people keep Moon time too? That is argued about.
 - e.g. Spring tides, the highest high tides, come at new Moon and full Moon. Many sea creatures time their egg-laying to the tides.
@@ -484,14 +484,14 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - **safety:** No special safety needed.
 - **record:** Two lists: festivals set by the Moon, and festivals set by the Sun. Next to each Moon festival, write its tithi or phase.
 - **s1 (6 min)**  
-  *Parent does:* 1. Write one festival on each slip. Use these 12: Diwali, Holi, Raksha Bandhan, Guru Purnima, Buddha Purnima and Eid al-Fitr. Then Ganesh Chaturthi, Karva Chauth, Makar Sankranti, Pongal, Baisakhi and Christmas. 2. Find each one on the calendar together.  
+  *Parent does:* 1. Write one festival on each slip. Use these 12: Diwali, Holi, Karthigai Deepam, Guru Purnima, Buddha Purnima and Eid al-Fitr. Then Vinayaka Chaturthi, Ugadi, Makar Sankranti, Pongal, Vishu and Christmas. 2. Find each one on the calendar together.  
   *Parent says:* Let's find our festivals on the calendar. Look at the little Moon pictures. Is there a full Moon, a new Moon or no Moon sign on that day?  
   *Child mode:* Find each festival on the calendar. Look for a little Moon sign on its date. Is it a full Moon, a new Moon, or none?
 - **s2 (8 min)**  
   *Parent does:* 1. Sort the slips into two piles: set by the Moon, and set by the Sun. 2. Then look up the same festivals last year, on the internet or on an old calendar, and compare the dates.  
   *Parent says:* Which festivals moved to a different date from last year? Which stayed almost the same?  
   *Child mode:* Make two piles: Moon festivals and Sun festivals. Did a festival move to a new date since last year? Then it probably follows the Moon.
-  - Note: Moon festivals: Diwali (Amavasya), Holi, Raksha Bandhan, Guru Purnima and Buddha Purnima (Purnima), Ganesh Chaturthi (the fourth tithi of the bright half), Karva Chauth (the fourth tithi of the dark half, ending at moonrise), Eid al-Fitr (when the new crescent is seen). Sun festivals: Makar Sankranti and Pongal (about 14 January), Baisakhi (about 13 or 14 April), and Christmas (25 December). Eid moves about 11 days earlier every year. The Hindu Moon festivals jump about, but stay in the same season, because of the extra month added every few years.
+  - Note: Moon festivals: Diwali (Amavasya), Holi, Karthigai Deepam, Guru Purnima and Buddha Purnima (Purnima), Vinayaka Chaturthi (the fourth tithi of the bright half), Ugadi (the first tithi of the bright half, just after Amavasya), Eid al-Fitr (when the new crescent is seen). Sun festivals: Makar Sankranti and Pongal (about 14 January), Vishu (about 14 April), and Christmas (25 December). Eid moves about 11 days earlier every year. The Hindu Moon festivals jump about, but stay in the same season, because of the extra month added every few years.
   - Check: Makar Sankranti falls on about 14 January every year. Diwali's date changes. Why? → **Makar Sankranti follows the Sun, and Diwali follows the Moon**
 - **s3 (6 min)**  
   *Parent does:* Talk about why people long ago counted by the Moon.  
@@ -621,7 +621,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
    **Answer:** We see more or less of its sunlit half as it goes round us. *Why:* Half the Moon is always lit. As it goes round the Earth, we see different amounts of that lit half. Picking 'the Earth's shadow' is the most common wrong idea. The Earth's shadow only reaches the Moon in a lunar eclipse.
 3. (order) Put these Moon shapes in the order they come after Amavasya: full Moon, growing half Moon, thin crescent, gibbous Moon.  
    **Answer:** order shown. *Why:* After Amavasya, the lit part grows: first a thin crescent, then a half, then a gibbous, then full.
-4. (fill) The night when we cannot see the Moon at all is called new Moon, or ____ in Hindi.  
+4. (fill) The night when we cannot see the Moon at all is called new Moon, or ____ in many Indian languages.  
    **Answer:** ['Amavasya', 'amavasya', 'amavasya night']. *Why:* Amavasya is the new Moon. The Moon's lit half faces away from us, towards the Sun.
 5. (fill) The full Moon night is called ____.  
    **Answer:** ['Purnima', 'purnima', 'Poornima', 'poornima']. *Why:* Purnima is the full Moon, when we see all of the Moon's lit half.
@@ -637,7 +637,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 10. (match) Match each Moon to when it rises.  
    **Answer:** Full Moon → at sunset; New Moon → with the Sun, at sunrise; Growing half Moon → around noon; Shrinking half Moon → around midnight. *Why:* The Moon rises about 50 minutes later each day. The full Moon is opposite the Sun, so it rises as the Sun sets. The new Moon is next to the Sun, so it rises with it.
 11. (sort) Sort these festivals: set by the Moon, or set by the Sun?  
-   **Answer:** Diwali → Set by the Moon; Makar Sankranti → Set by the Sun; Holi → Set by the Moon; Eid al-Fitr → Set by the Moon; Pongal → Set by the Sun; Guru Purnima → Set by the Moon. *Why:* Moon festivals fall on a tithi, like Amavasya or Purnima, so their dates move each year. Sun festivals, like Makar Sankranti and Pongal, stay on nearly the same date.
+   **Answer:** Diwali → Set by the Moon; Makar Sankranti → Set by the Sun; Ugadi → Set by the Moon; Eid al-Fitr → Set by the Moon; Pongal → Set by the Sun; Guru Purnima → Set by the Moon. *Why:* Moon festivals fall on a tithi, like Amavasya or Purnima, so their dates move each year. Sun festivals, like Makar Sankranti and Pongal, stay on nearly the same date.
 12. (mcq) A lunar eclipse can only happen on…  
    Options: A full Moon night / A new Moon night / Any night  
    **Answer:** A full Moon night. *Why:* In a lunar eclipse, the Earth's shadow falls on the Moon. That needs the Earth to be between the Sun and the Moon, which only happens at full Moon. Picking 'new Moon' means mixing it up with a solar eclipse, which happens at new Moon.
@@ -649,7 +649,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 15. (write) Your friend says the Moon only comes out at night. What would you tell them? Give one example.  
    **Answer:** The Moon is in the sky in the daytime for about half of each month. For example, a few days after Purnima you can see it in the morning sky in the west.. *Why:* Any answer that says the Moon is up in the daytime on some days, with an example, is right.
 16. (draw) Draw the Moon on the night of your favourite Moon festival. Write the festival's name and whether it is Amavasya or Purnima.  
-   **Answer:** For example, Diwali: a dark sky with no Moon, because it is Amavasya. Or Holi: a full round Moon, because it is Purnima.. *Why:* Diwali falls on Amavasya, Holi on Purnima.
+   **Answer:** For example, Diwali: a dark sky with no Moon, because it is Amavasya. Or Karthigai Deepam: a full round Moon, because it is Purnima.. *Why:* Diwali falls on Amavasya, Karthigai Deepam on Purnima.
 ### Moon Faces and Shadows (stretch) (stretch, 15 questions)
 1. (mcq) Why do we always see the same face of the Moon?  
    Options: The Moon does not spin / The Moon spins exactly once for each trip round the Earth / The other side is too dark to see / The Earth spins too fast  
@@ -807,7 +807,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - A pale Moon in the blue morning sky on the way to school, a few days after Purnima.
 - High spring tides on a beach, or at a ghat in Kolkata, where the river has tides, on the days of Amavasya and Purnima.
 - People watching for the thin new crescent from rooftops on the evening before Eid.
-- Karva Chauth evening, when many families watch the eastern sky for moonrise.
+- Karthigai Deepam evening, when families light rows of lamps under the full Moon.
 
 ## Open questions
 - **Exactly how was the Moon made?** Most scientists think a giant crash made it. But they argue about whether it was one crash or many, and whether the Moon formed in hours or over years. Computer models give different answers.
@@ -889,7 +889,7 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song
 
 ## Warm-up
 - Does the Moon make its own light? → No. It shines with sunlight bouncing off it.
-- What is the new Moon called in Hindi? → Amavasya.
+- What is the new Moon called in many Indian languages? → Amavasya.
 - What is the full Moon called? → Purnima.
 - About how many days from one new Moon to the next? → About 29 and a half.
 - When does the full Moon rise? → At about sunset.

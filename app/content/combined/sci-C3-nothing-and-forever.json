@@ -318,7 +318,7 @@
      "kind": "warmup",
      "title": "Could you halve for ever?",
      "mins": 3,
-     "do": "Ask: 'If you cut a roti in half, then cut one half in half, and keep going, would you ever have zero roti left?' Let your child guess and give a reason. Write the guess in the notebook."
+     "do": "Ask: 'If you cut a dosa in half, then cut one half in half, and keep going, would you ever have zero dosa left?' Let your child guess and give a reason. Write the guess in the notebook."
     },
     {
      "kind": "exp",
@@ -457,7 +457,7 @@
      [
       {
        "t": "mcq",
-       "p": "Asha has 3 laddoos. She eats all 3. How many are left?",
+       "p": "Lakshmi has 3 idlis. She eats all 3. How many are left?",
        "opts": [
         "3",
         "0",
@@ -571,7 +571,7 @@
      [
       {
        "t": "mcq",
-       "p": "Meera sticks a dry tissue inside the bottom of a glass. She pushes the glass upside down, straight into a bucket of water. What happens to the tissue?",
+       "p": "Meenakshi sticks a dry tissue inside the bottom of a glass. She pushes the glass upside down, straight into a bucket of water. What happens to the tissue?",
        "opts": [
         "It gets wet.",
         "It stays dry, because the glass is full of air.",
@@ -622,7 +622,7 @@
      [
       {
        "t": "mcq",
-       "p": "Kabir says, 'A googol is the biggest number.' What is the best answer?",
+       "p": "Farhan says, 'A googol is the biggest number.' What is the best answer?",
        "opts": [
         "He is right.",
         "Add 1 to a googol, and you get a bigger number.",
@@ -683,7 +683,7 @@
       },
       {
        "t": "write",
-       "p": "There are more grains of sand on Juhu beach than you could count in your whole life. Is the number of grains infinite? Explain.",
+       "p": "There are more grains of sand on Marina beach than you could count in your whole life. Is the number of grains infinite? Explain.",
        "lines": 3
       }
      ]
@@ -1060,7 +1060,7 @@
     "back": "Forever. There is always one more."
    },
    {
-    "front": "The grains of sand on Juhu beach",
+    "front": "The grains of sand on Marina beach",
     "back": "Neither. It is a huge number, but it stops somewhere."
    },
    {
@@ -1072,7 +1072,7 @@
     "back": "Neither. They look endless, but they get dim and fade away."
    },
    {
-    "front": "Halving a roti again and again in your mind",
+    "front": "Halving a dosa again and again in your mind",
     "back": "Forever. In your mind you can always halve again."
    },
    {

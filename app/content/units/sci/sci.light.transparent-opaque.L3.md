@@ -19,7 +19,7 @@
 - **Material**: A material is what a thing is made of. *e.g.* A window is made of glass. A curtain is made of cloth.
 - **Transparent**: A transparent material lets light go straight through. You can see clearly through it. *e.g.* Window glass, clean water and cling film are transparent.
 - **Scatter**: To scatter light is to send it off in many different directions. *e.g.* Frosted glass scatters light, so you see only a blur through it.
-- **Translucent**: A translucent material lets light through but scatters it. You see a glow or blurry shapes, but not a clear picture. *e.g.* Butter paper, a frosted bathroom window and a thin white dupatta are translucent.
+- **Translucent**: A translucent material lets light through but scatters it. You see a glow or blurry shapes, but not a clear picture. *e.g.* Butter paper, a frosted bathroom window and a thin white cotton saree are translucent.
 - **Absorb**: To absorb light is to take it in. The light's energy stays in the material and warms it a little. *e.g.* A black umbrella absorbs sunlight and gets hot.
 - **Opaque**: An opaque material lets no light through. It absorbs the light, sends it back, or both. You cannot see anything through it. *e.g.* A wooden door, a steel plate and a brick wall are opaque.
 - **Shadow**: A shadow is the darker patch behind a thing that blocks light. *e.g.* An opaque steel plate makes a dark shadow. Butter paper makes only a pale shadow, because some light gets through it.
@@ -51,7 +51,7 @@ Look out of a clean window. The light from the tree outside comes through the gl
 
 Inside butter paper there are millions of tiny paper threads with air between them. Each time light goes from air into a thread, or back out, some of it changes direction. After thousands of these little turns, the light comes out in every direction. The light still gets through, but the picture is lost. Here is a surprise. If the paper touches a page of writing, you can read it. Lift the paper a little and the words blur away. The further the light travels after leaving the paper, the more the light from each letter spreads out.
 - e.g. A frosted bathroom window lets light in but hides you.
-- e.g. A thin cotton dupatta lets light through, so a room behind it glows.
+- e.g. A thin cotton saree lets light through, so a room behind it glows.
 - e.g. A paper lantern glows all over, but you cannot see the bulb inside.
 ### Opaque: light is stopped · *defined*
 **Definition:** An opaque material does not let light through. It absorbs the light, sends it back, or both.
@@ -65,7 +65,7 @@ A wooden door is opaque. Light that hits it is partly absorbed, and partly sent 
 
 One big clear crystal of sugar is quite see-through. A pile of sugar grains is white, because light bounces off every grain's edges. Stir the sugar into water and it vanishes. The water is clear again, because the sugar has broken into molecules far too small to bounce light. The same is true for ice and snow. A clear ice cube is transparent. Crushed ice and snow are white, because of all their edges. Bubbles trapped in ice make it cloudy too. Oil on paper fills the air gaps between the threads. Then light passes from thread to oil without bouncing much, so the paper turns see-through.
 - e.g. Foam on top of water is white, though the water and the air are both clear.
-- e.g. A spot of oil from a pakora makes the newspaper see-through.
+- e.g. A spot of oil from a bajji makes the newspaper see-through.
 - e.g. A wet white T-shirt is more see-through than a dry one.
 ### Why glass is see-through but metal is not · *defined*
 **Definition:** Light comes in tiny packets of energy. Glass lets light through because its electrons cannot absorb the packets of light we see. Metal stops light because it has loose electrons that catch the light and send it back.
@@ -475,7 +475,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Parent does:* 1. One person stays inside behind the curtain and waves. 2. The other goes outside and looks at the window. 3. Swap.  
   *Parent says:* Can you see me waving? What does the curtain look like from out here?  
   *Child mode:* Go outside with a grown-up. Look at the window. Can you see the person waving?
-  - Note: In the day, the person inside is usually hidden. The curtain looks bright from outside, because daylight bounces off it. If you live high up and cannot look in from outside, hang the dupatta in a doorway between two rooms. Light one room brightly and keep the other dim.
+  - Note: In the day, the person inside is usually hidden. The curtain looks bright from outside, because daylight bounces off it. If you live high up and cannot look in from outside, hang the saree in a doorway between two rooms. Light one room brightly and keep the other dim.
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. At night, switch on a lamp inside the room. 2. One person moves about behind the curtain. 3. The other goes outside and looks.  
   *Parent says:* It's the same curtain. Can you see in now? What changed?  
@@ -592,7 +592,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
    Options: A steel plate / Cling film / A frosted bathroom window  
    **Answer:** A steel plate. *Why:* No light gets through a steel plate, so it is opaque. Cling film is transparent. A frosted window is translucent, because light comes in but no picture.
 4. (sort) Sort these into transparent, translucent and opaque.  
-   **Answer:** window glass → Transparent; clean water → Transparent; butter paper → Translucent; a thin white dupatta → Translucent; a wooden door → Opaque; a brick → Opaque. *Why:* Glass and water let light straight through. Butter paper and thin cloth let light through but scatter it. Wood and brick let no light through.
+   **Answer:** window glass → Transparent; clean water → Transparent; butter paper → Translucent; a thin white cotton saree → Translucent; a wooden door → Opaque; a brick → Opaque. *Why:* Glass and water let light straight through. Butter paper and thin cloth let light through but scatter it. Wood and brick let no light through.
 5. (fill) A dark patch where light has been blocked is called a ____.  
    **Answer:** ['shadow']. *Why:* When an opaque thing blocks light, it leaves a dark patch behind it. That is a shadow.
 6. (truefalse) Transparent things are invisible.  
@@ -765,10 +765,10 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 
 ## Spotted around us
 - A frosted glass bathroom window, glowing in the morning.
-- A paper kandil lantern glowing over a shop door at Diwali.
+- A paper kandil glowing over a shop door at Diwali, or a big paper star on a Kerala porch at Christmas.
 - A carved stone jaali in an old fort or tomb, throwing a pattern of light on the floor.
 - Brown medicine bottles at the chemist's shop.
-- A thin white dupatta drying on a balcony, glowing in the sun.
+- A thin white veshti or saree drying on a balcony, glowing in the sun.
 - Glass bangles in a market stall, some clear, some coloured.
 - Morning fog over a field in winter, so thick you can't see the trees.
 - A glass of water on the table, with the light from the window shining through it.
@@ -842,7 +842,7 @@ Follow the Light (sci.light.L3): Topic-level song
 - [A small LED torch](https://www.amazon.in/s?k=small+led+torch) (tool): Used to make your fingers glow, to hunt for see-through things, and in the shadow game and the container challenge. Used in a1, g2, c1. Used again in other Light units.
 - [Butter paper or tracing paper sheets](https://www.amazon.in/s?k=butter+paper+sheets) (material): The best translucent material for the gap test, the lantern project and the night-light challenge. Used in e1, p1, c2. 
 - [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures the gap in the gap test. Used in e1. 
-- [Battery LED tealights](https://www.amazon.in/s?k=led+tealight+candles) (tool): A safe light for the lantern project and the night-light challenge, with no flame near paper. Used in p1, c2. Also useful for Diwali lanterns.
+- [Battery LED tealights](https://www.amazon.in/s?k=led+tealight+candles) (tool): A safe light for the lantern project and the night-light challenge, with no flame near paper. Used in p1, c2. Also useful for Diwali lanterns and Christmas stars.
 
 ## Warm-up
 - Glass you can see clearly through is called ____. → transparent

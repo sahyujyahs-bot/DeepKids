@@ -600,7 +600,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **safety:** A grown-up helps with the scissors.
 - **record:** Draw your star with all its fold lines. Draw yourself with your one fold line.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Draw round a katori on paper. 2. Mark five dots evenly round the edge. Think of the numbers on a clock. Put dots at 12, a little after 2, a little before 5, a little after 7, and a little before 10. 3. Draw a small circle in the middle. 4. Draw an arm from the middle circle out to each dot. 5. A grown-up helps cut the star out.  
+  *Parent does:* 1. Draw round a tumbler on paper. 2. Mark five dots evenly round the edge. Think of the numbers on a clock. Put dots at 12, a little after 2, a little before 5, a little after 7, and a little before 10. 3. Draw a small circle in the middle. 4. Draw an arm from the middle circle out to each dot. 5. A grown-up helps cut the star out.  
   *Parent says:* A starfish has five arms, all the same, around a middle. Let's draw one and cut it out.  
   *Child mode:* Draw round a bowl. Put five dots round the edge. Draw an arm to each dot. Cut out your star.
   - Note: The dots do not have to be perfect. If the arms come out uneven, the halves will nearly match, and that is fine. Talk about it.

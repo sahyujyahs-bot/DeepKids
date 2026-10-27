@@ -1026,7 +1026,7 @@
      "qty": 5
     },
     {
-     "item": "4 small cups or katoris",
+     "item": "4 small cups or steel bowls",
      "qty": 4
     },
     {
@@ -1114,7 +1114,7 @@
    },
    "setup": [
     {
-     "art": "Four small steel katoris in a row labelled A, B, C and D, each with a bed of cotton wool: A with plump soaked seeds, B with dry seeds, C with soft boiled seeds, D with small plastic beads.",
+     "art": "Four small steel bowls in a row labelled A, B, C and D, each with a bed of cotton wool: A with plump soaked seeds, B with dry seeds, C with soft boiled seeds, D with small plastic beads.",
      "caption": "1. Set up four cups: soaked seeds, dry seeds, boiled seeds and beads."
     },
     {
@@ -1379,7 +1379,7 @@
      "caption": "1. Draw a table: three things across, seven signs down."
     },
     {
-     "art": "A child at a window pointing at a cloud, holding a toy car in the other hand, a katori of moong seeds on the sill.",
+     "art": "A child at a window pointing at a cloud, holding a toy car in the other hand, a small steel bowl of moong seeds on the sill.",
      "caption": "2. Look at each thing. For each sign, put a tick, a cross or a wavy line."
     },
     {
@@ -2982,7 +2982,7 @@
    "art": "A bowl of moong sprouts with curly white roots."
   },
   {
-   "text": "Green-grey mould growing on old bread or chapati, a living fungus feeding on once-alive food.",
+   "text": "Green-grey mould growing on old bread or leftover idli, a living fungus feeding on once-alive food.",
    "art": "A slice of bread with a fuzzy green patch, seen through a magnifying glass."
   },
   {
@@ -2990,7 +2990,7 @@
    "art": "A money plant in a glass bottle, its leaves all turned to the window."
   },
   {
-   "text": "Your breath making a little cloud on a cold winter morning in Delhi or Shimla.",
+   "text": "Your breath making a little cloud on a cold winter morning in Delhi or Ooty.",
    "art": "A child in a woolly cap breathing out a puff of white mist."
   },
   {

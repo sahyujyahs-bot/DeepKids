@@ -87,7 +87,7 @@
    "term": "Sunset",
    "meaning": "The moment the Sun goes below the edge of the sky in the evening. Really, it is the moment our place turns away from the sunlight.",
    "example": "The Sun always sets somewhere in the west.",
-   "art": "The Sun half hidden behind the sea at Mumbai's Marine Drive, the sky orange and pink."
+   "art": "The Sun half hidden behind the sea at Fort Kochi beach, the sky orange and pink."
   },
   {
    "term": "Noon (midday)",
@@ -694,8 +694,8 @@
       "London, England (far west of India)",
       "New York, USA (even further west)",
       "SPIN CARD: spin the ball one quarter turn. Which places are now in the light?",
-      "SPIN CARD: it is noon in Delhi. Name one place on the cards where it is night.",
-      "SPIN CARD: it is sunset in Kolkata. Is it still day in Mumbai?",
+      "SPIN CARD: it is noon in Chennai. Name one place on the cards where it is night.",
+      "SPIN CARD: it is sunset in Chennai. Is it still day in Mumbai?",
       "SPIN CARD: a rooster in Dong crows at sunrise. Who crows next, Kolkata or Mumbai?",
       "SPIN CARD: it is midnight in India. Is anyone having sunrise?"
      ]
@@ -2888,10 +2888,10 @@
   },
   {
    "t": "mcq",
-   "p": "Which sees the sunrise first, Kolkata or Mumbai?",
+   "p": "Which sees the sunrise first, Chennai or Mumbai?",
    "opts": [
-    "Kolkata, because it is further east",
-    "Mumbai, because it is by the sea",
+    "Chennai, because it is further east",
+    "Mumbai, because it is a bigger city",
     "Both at the same time, because India has one clock"
    ],
    "a": 0,

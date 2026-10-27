@@ -73,7 +73,7 @@
   {
    "term": "Balance",
    "meaning": "When the turning effect on one side of a fulcrum is just as strong as on the other side, so nothing tips.",
-   "example": "A sabzi seller's weighing scale balances when the vegetables weigh the same as the weights.",
+   "example": "A vegetable seller's weighing scale balances when the vegetables weigh the same as the weights.",
    "art": "A two-pan tarazu scale level, tomatoes on one pan and a weight on the other."
   },
   {
@@ -191,7 +191,7 @@
    "description": "On a see-saw, the heavier person does not always go down. Distance matters too. A weight far from the fulcrum turns the plank more than the same weight close in. So a child can balance a grown-up who is twice as heavy, by sitting twice as far from the middle. Look at the chart. Two coins sit 5 cm from the pencil, and 2 times 5 is 10. One coin sits 10 cm away, and 1 times 10 is 10. Both sides make 10, so the ruler balances. Archimedes wrote this rule down about 2,200 years ago.",
    "examples": [
     "A heavy grown-up sits close to the middle of a see-saw. A small child sits at the far end. They balance.",
-    "A sabzi seller's tarazu has two pans the same distance from the middle. So it balances when both pans weigh the same.",
+    "A vegetable seller's tarazu has two pans the same distance from the middle. So it balances when both pans weigh the same.",
     "One coin 10 cm from a pencil balances two coins 5 cm from it."
    ],
    "perspectives": [],
@@ -1268,7 +1268,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kitchen tongs (chimta) have your hand in the middle. They make your squeeze weaker at the tips. Why use them?",
+     "p": "Kitchen tongs (chimta or idukki) have your hand in the middle. They make your squeeze weaker at the tips. Why use them?",
      "opts": [
       "They are cheaper",
       "The tips move further than your fingers, and keep your hand away from the heat",
@@ -3504,7 +3504,7 @@
  "applications": [
   "Hand pumps on village borewells use a long lever handle to lift water.",
   "Scissors, nutcrackers, the supari cutter called a sarota, tongs and bottle openers are all levers.",
-  "A sabzi seller's tarazu, a two-pan balance, weighs vegetables using the see-saw rule.",
+  "A vegetable seller's tarazu, a two-pan balance, weighs vegetables using the see-saw rule.",
   "Ramps at railway stations, hospitals, malls and temples let wheelchairs, trolleys and prams in.",
   "Zigzag roads up the ghats and the Himalayas are long ramps that let vehicles climb.",
   "Loading planks let workers roll heavy drums and gas cylinders into trucks.",
@@ -3524,11 +3524,11 @@
    "art": "A green iron hand pump with a child pressing its long handle."
   },
   {
-   "text": "A tarazu, the two-pan weighing scale at the sabzi market.",
+   "text": "A tarazu, the two-pan weighing scale at the vegetable market.",
    "art": "A vegetable seller holding a balance with onions in one pan and a weight in the other."
   },
   {
-   "text": "The sarota, a supari cutter, and kitchen chimta tongs.",
+   "text": "The sarota, a supari cutter, and kitchen tongs (chimta or idukki).",
    "art": "A brass sarota cutting a betel nut, and a pair of chimta."
   },
   {
@@ -3553,7 +3553,7 @@
   },
   {
    "text": "A rolling pin on a chakla, and wheels on carts, cycles and autorickshaws.",
-   "art": "A rolling pin flattening a roti, and an autorickshaw wheel."
+   "art": "A rolling pin flattening a chapati, and an autorickshaw wheel."
   }
  ],
  "open_questions": [

@@ -559,7 +559,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **your turn:** Now invent your own shelter. Draw it, build it and test it against a cup with no shelter. Which kept your 'animal' coolest?
 - **constraints:** The shelter must fit in a shoebox.; Use only things from home, like cardboard, cloth, sand, leaves and paper.; The cup must be in the sun, not in the house.; Measure the water's temperature at the start and after one hour.
 - **general:** Make shade: put a roof over the cup, so sunlight cannot reach it.; Dig in: bury the cup partly in damp soil from a flowerpot, like a burrow. A little way down, the ground stays cooler.; Use a light colour: white cloth or paper on top reflects sunlight.
-- **creative:** Wrap the cup in a wet cloth. As the water evaporates, which means it dries off into the air, it takes heat away from the cup. A clay matka keeps water cool the same way.; Make a thick roof with an air gap under it, like the thick mud walls of houses in the Thar.; Copy a termite mound: a tall chimney that lets hot air rise out.
+- **creative:** Wrap the cup in a wet cloth. As the water evaporates, which means it dries off into the air, it takes heat away from the cup. A clay pot (a matka or kooja) keeps water cool the same way.; Make a thick roof with an air gap under it, like the thick mud walls of houses in the Thar.; Copy a termite mound: a tall chimney that lets hot air rise out.
 - **s1 (5 min)**  
   *Parent does:* 1. Fill two cups from the same jug. 2. Measure the temperature of both. 3. Put one bare cup in the sun. This is the comparison.  
   *Parent says:* This bare cup is a desert animal with nowhere to hide. Let's see how hot it gets. Then we'll design a shelter for the other one.  
@@ -797,7 +797,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - Moss and tiny ferns in damp cracks of old walls in the monsoon.
 - A village pond with lotus, frogs and buffaloes cooling off.
 - Camels, khejri trees and desert foxes in the Thar Desert near Jaisalmer.
-- Mangroves with roots sticking up from the mud in the Sundarbans, in Bhitarkanika in Odisha, and in creeks around Mumbai.
+- Mangroves with roots sticking up from the mud in the Sundarbans, in Bhitarkanika in Odisha, at Pichavaram in Tamil Nadu, and in creeks around Mumbai.
 - Olive ridley turtles on the beaches of Odisha in their nesting season.
 - Sacred groves, like the Mawphlang forest in Meghalaya and the kavu groves of Kerala, where trees are never cut.
 - Crows, mynas and bulbuls drinking from water bowls kept out on terraces in summer.

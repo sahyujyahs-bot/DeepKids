@@ -268,10 +268,10 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 
 ## Games
 ### g1 · Light Chain (20 min)
-- **rules:** Cut out all the cards. Shuffle the SOURCE, OBJECT and EYE cards into one pile. Keep the BLOCKER cards in a separate pile.; Each player takes 5 cards from the main pile.; On your turn, take one more card. If you can, lay down a full chain: one SOURCE, one OBJECT and one EYE, in that order, on the chain mat.; Say the chain out loud: 'Light goes from the torch to the cat, and bounces off the cat into Grandpa's eye. So Grandpa sees the cat.' A correct chain wins 2 seeing tokens.; After a chain is laid, the next player can take a BLOCKER card and put it on one arrow. They say how it breaks the chain. A good reason wins 1 token, and the chain is out.; A SOURCE card can also be laid straight to an EYE, with no OBJECT. Then you are seeing the light source itself. This wins 1 token.; When the main pile runs out, the player with the most tokens wins.
+- **rules:** Cut out all the cards. Shuffle the SOURCE, OBJECT and EYE cards into one pile. Keep the BLOCKER cards in a separate pile.; Each player takes 5 cards from the main pile.; On your turn, take one more card. If you can, lay down a full chain: one SOURCE, one OBJECT and one EYE, in that order, on the chain mat.; Say the chain out loud: 'Light goes from the torch to the cat, and bounces off the cat into Thatha's eye. So Thatha sees the cat.' A correct chain wins 2 seeing tokens.; After a chain is laid, the next player can take a BLOCKER card and put it on one arrow. They say how it breaks the chain. A good reason wins 1 token, and the chain is out.; A SOURCE card can also be laid straight to an EYE, with no OBJECT. Then you are seeing the light source itself. This wins 1 token.; When the main pile runs out, the player with the most tokens wins.
 - **Printable cards: 12 SOURCE cards to cut out:** The Sun; A tubelight; A diya flame; A torch; A phone screen; A candle; Lightning; A bonfire; A street lamp; A firefly; A car's headlights; A matchstick flame
 - **Printable cards: 12 OBJECT cards to cut out:** A mango; Your friend's face; The Moon; A cow on the road; A book; A white wall; A cat; Your hand; A steel tumbler; A leaf; A carrom board; A sari on a washing line
-- **Printable cards: 8 EYE cards and 10 BLOCKER cards:** EYE: your eye; EYE: a cat's eye; EYE: an owl's eye; EYE: Grandpa's eye; EYE: a bee's eye; EYE: a fish's eye; EYE: a baby's eye; EYE: a camera; BLOCKER: a closed door; BLOCKER: a power cut; BLOCKER: a hand over the eyes; BLOCKER: a thick curtain; BLOCKER: a cardboard box; BLOCKER: closed eyelids; BLOCKER: night with no moon; BLOCKER: a wall; BLOCKER: a blanket over your head; BLOCKER: a cloud over the Sun
+- **Printable cards: 8 EYE cards and 10 BLOCKER cards:** EYE: your eye; EYE: a cat's eye; EYE: an owl's eye; EYE: Thatha's eye; EYE: a bee's eye; EYE: a fish's eye; EYE: a baby's eye; EYE: a camera; BLOCKER: a closed door; BLOCKER: a power cut; BLOCKER: a hand over the eyes; BLOCKER: a thick curtain; BLOCKER: a cardboard box; BLOCKER: closed eyelids; BLOCKER: night with no moon; BLOCKER: a wall; BLOCKER: a blanket over your head; BLOCKER: a cloud over the Sun
 - **Printable board: A chain mat with three boxes and two arrows:** SOURCE; arrow; OBJECT; arrow; EYE
 - **Printable tokens: 20 seeing tokens (small paper eyes):** 👁️
 - **s1 (2 min)**  
@@ -279,10 +279,10 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent says:* To see something, light has to make a journey. It starts at a light source, bounces off the thing, and ends in an eye. In this game you build those journeys with cards.  
   *Child mode:* Put the chain mat on the floor. Mix the cards, but keep the BLOCKER cards apart. Take 5 cards each. You will build light's journey: source, thing, eye.
 - **s2 (3 min)**  
-  *Parent does:* Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Grandpa's eye'. Point along the arrows as you say it.  
-  *Parent says:* Here is a practice chain. The torch makes light. The light lands on the cat and bounces off it. Some of it goes into Grandpa's eye. So Grandpa sees the cat.  
-  *Child mode:* Practice chain: a torch, a cat, Grandpa's eye. Light goes from the torch to the cat. It bounces into Grandpa's eye. Which way do the arrows point?
-  - Check: In the chain 'torch, cat, Grandpa's eye', which way does the light go between the cat and Grandpa? → **From the cat into Grandpa's eye**
+  *Parent does:* Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Thatha's eye'. Point along the arrows as you say it.  
+  *Parent says:* Here is a practice chain. The torch makes light. The light lands on the cat and bounces off it. Some of it goes into Thatha's eye. So Thatha sees the cat.  
+  *Child mode:* Practice chain: a torch, a cat, Thatha's eye. Light goes from the torch to the cat. It bounces into Thatha's eye. Which way do the arrows point?
+  - Check: In the chain 'torch, cat, Thatha's eye', which way does the light go between the cat and Thatha? → **From the cat into Thatha's eye**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player takes a card and lays a chain if they can. 2. They say the chain out loud. 3. Give 2 tokens for a correct chain.  
   *Parent says:* When you lay a chain, say where the light starts, what it bounces off, and whose eye it ends in.  
@@ -594,15 +594,15 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent says:* Which idea worked best? Tell me the path the light took, from the window all the way into your eyes.  
   *Child mode:* Which idea worked best? Say the path the light took. Start at the window and end in your eyes.
   - Check: A white sheet near the window made the corner brighter. Why? → **Daylight bounces off the white sheet in every direction, some of it into the corner**
-### c2 · A Night Path for Nani (30 min)
-- **problem:** Nani gets up at night to go to the bathroom. When the light is switched on, everyone wakes up, and her eyes are dazzled. With the light off, she cannot see the step or the door. Design a way for her to see the path safely.
+### c2 · A Night Path for Paati (30 min)
+- **problem:** Paati gets up at night to go to the bathroom. When the light is switched on, everyone wakes up, and her eyes are dazzled. With the light off, she cannot see the step or the door. Design a way for her to see the path safely.
 - **your turn:** Now design your own night path. Draw a map of the room with your ideas on it. Test it at night with a grown-up. Can someone walk the path with only your design to see by?
-- **constraints:** It must not wake people sleeping in the room.; It must not dazzle Nani's eyes when she has been asleep.; Use things that are safe, cheap and easy to find.
+- **constraints:** It must not wake people sleeping in the room.; It must not dazzle Paati's eyes when she has been asleep.; Use things that are safe, cheap and easy to find.
 - **general:** Put a small dim night-light low down near the floor. A dim light keeps her night eyes working, and does not dazzle.; Stick white tape along the edge of the step and around the door frame. Pale things bounce the most of what little light there is, so they show up first in the dark.; Clear the path of things she could trip on.
 - **creative:** Use a dim red or orange night-light. Our night eyes are less disturbed by red light, which is why astronomers use red torches.; A light that switches on by itself when someone walks past, then turns off again.; Glow-in-the-dark stickers along the wall, at hand height, like a trail of stars.
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. At night, with the lights off, stand at Nani's bed with your child. 2. Wait a minute. 3. Ask what they can see along the path, and what they can't.  
-  *Parent says:* Let's see the room the way Nani sees it at night. What can you see? What's invisible?  
+  *Parent does:* 1. At night, with the lights off, stand at Paati's bed with your child. 2. Wait a minute. 3. Ask what they can see along the path, and what they can't.  
+  *Parent says:* Let's see the room the way Paati sees it at night. What can you see? What's invisible?  
   *Child mode:* At night, stand by the bed with a grown-up. Turn the lights off. Wait a minute. What can you see? What can't you see?
 - **s2 (14 min)**  
   *Parent does:* 1. Your child draws a map of the room and marks their ideas. 2. Try one idea at a time, like white tape on the step. 3. Check it again in the dark.  
@@ -611,8 +611,8 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   - Note: Remind your child of the dark box test. The white paper showed up first in dim light. The same is true of white tape on a step. Older people often need more light to see than children do, because their lenses let less light through.
 - **s3 (8 min)**  
   *Parent does:* Ask your child to explain why their best idea works, using what they know about light and eyes.  
-  *Parent says:* Why does your idea work? Tell me what the light does, and what Nani's eyes do.  
-  *Child mode:* Why does your idea work? Say what the light does. Say what Nani's eyes do.
+  *Parent says:* Why does your idea work? Tell me what the light does, and what Paati's eyes do.  
+  *Child mode:* Why does your idea work? Say what the light does. Say what Paati's eyes do.
   - Check: Why does white tape on the edge of a step help someone see it at night? → **White tape bounces back more of the little light there is**
 
 ## Worksheets

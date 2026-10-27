@@ -133,8 +133,8 @@
   {
    "term": "Insulator of heat",
    "meaning": "An insulator of heat lets heat flow through it slowly.",
-   "example": "Wood, plastic and wool are insulators. That is why a tawa or frying pan often has a wooden or plastic handle.",
-   "art": "A tawa on a flame with a wooden handle that stays cool."
+   "example": "Wood, plastic and wool are insulators. That is why a dosa tawa or frying pan often has a wooden or plastic handle.",
+   "art": "A dosa tawa on a flame with a wooden handle that stays cool."
   },
   {
    "term": "Float and sink",
@@ -274,7 +274,7 @@
    "description": "Cotton, paper and sponge are full of tiny gaps between fibres. Water is pulled into the gaps and climbs up through them, even against gravity. This climbing is called wicking. A plastic bag has no gaps, so water stays on top. Some leaves are waterproof in a special way. A colocasia leaf, called arbi in many kitchens, is covered in tiny wax bumps. Water cannot spread out on it, so it rolls into a ball and runs off. Scientists copied this idea to make paint and cloth that stay dry.",
    "examples": [
     "A diya wick draws oil up by wicking.",
-    "A clay matka is a little absorbent. Water seeps to the outside and cools the pot as it dries.",
+    "A clay water pot (a kooja or matka) is a little absorbent. Water seeps to the outside and cools the pot as it dries.",
     "A lotus leaf and a colocasia leaf keep dust off because rolling drops carry it away."
    ],
    "perspectives": [],
@@ -3106,11 +3106,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "a clear plastic sheet or a very thin chiffon dupatta",
+     "item": "a clear plastic sheet or a very thin chiffon sari",
      "qty": 1
     },
     {
-     "item": "a cotton dupatta or a sheet of butter paper",
+     "item": "a white cotton veshti or a sheet of butter paper",
      "qty": 1
     },
     {
@@ -3191,7 +3191,7 @@
      "caption": "1. CLEAR: dance behind the clear sheet. You can be seen."
     },
     {
-     "art": "A child dancing behind a white cotton dupatta, only a soft shape visible.",
+     "art": "A child dancing behind a white cotton veshti, only a soft shape visible.",
      "caption": "2. MIST: dance behind the cotton. Only a blurry shape shows."
     },
     {
@@ -3866,7 +3866,7 @@
  ],
  "spotted": [
   {
-   "text": "The plastic handle on a pressure cooker, and the wooden handle on a tawa.",
+   "text": "The plastic handle on a pressure cooker, and the wooden handle on a dosa tawa.",
    "art": "A pressure cooker with a black plastic handle and a tawa with a wooden handle on a kitchen counter."
   },
   {
@@ -3878,8 +3878,8 @@
    "art": "A temple bell with a rope, ringing lines drawn around it."
   },
   {
-   "text": "A clay matka at a roadside water stall, damp on the outside.",
-   "art": "A red clay matka with beads of water on its sides."
+   "text": "A clay water pot at a roadside water stall, damp on the outside.",
+   "art": "A red clay water pot with beads of water on its sides."
   },
   {
    "text": "Arbi leaves in the market, where water drops roll like silver beads.",
@@ -3941,7 +3941,7 @@
   "What property makes a towel good for drying you? What property makes it bad for a raincoat?",
   "Which is harder, your fingernail or a pencil? How could you find out?",
   "Can you find something in this room that is hard but not strong?",
-  "Why do we put a wooden handle on a pan, but not on a spoon for a cold lassi?",
+  "Why do we put a wooden handle on a pan, but not on a spoon for a cold glass of buttermilk?",
   "If you could change one property of your school bag, what would you change?",
   "What is the most see-through thing you have seen? What is the least?",
   "Why is a steel ship able to float when a steel spoon sinks?",
@@ -4135,7 +4135,7 @@
    "why_maths": "Saying 'less than a quarter as strong' tells us how much water changed the paper. Finding a quarter is the maths that turns 'weaker' into a number."
   },
   {
-   "problem": "Aarav tested 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden?",
+   "problem": "Arjun tested 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden?",
    "answer": "5 sank, and 4 floaters were not wooden.",
    "explain": "12 things in all, and 7 floated. 12 take away 7 leaves 5 that sank. Of the 7 floaters, 3 were wooden. 7 take away 3 leaves 4 floaters that were not wooden. You can check: 7 + 5 = 12, and 3 + 4 = 7.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -4441,7 +4441,7 @@
   },
   {
    "id": "sci.materials.using-materials.L3",
-   "why": "How properties decide which material is right for a job, with the hot spoon race and the matka."
+   "why": "How properties decide which material is right for a job, with the hot spoon race and the clay water pot."
   },
   {
    "id": "sci.materials.sorting-materials.L3",

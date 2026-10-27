@@ -13,7 +13,7 @@
  },
  "outcomes": [
   "I can say what an object is made of, and trace its material back to where it came from: a plant, an animal, the ground, the sea or the air.",
-  "I can tell natural things from things made by people, and explain tricky ones like a wooden chair, a cotton kurta or a potted plant.",
+  "I can tell natural things from things made by people, and explain tricky ones like a wooden chair, a cotton shirt or a potted plant.",
   "I can describe how people change natural raw materials into made materials, by cutting, spinning, melting, baking, mixing and heating.",
   "I can make a made material from a natural one, like paper, salt, milk plastic, a dye or a clay diya. I can say what I think, what I saw and why.",
   "I can explain that plants and animals make materials too, and that some made materials are copies of natural ones.",
@@ -43,7 +43,7 @@
   {
    "term": "Made by people (artificial)",
    "meaning": "Made by people from other materials. Scientists and books also call it artificial, human-made or manufactured.",
-   "example": "A steel spoon, a brick, a plastic bucket and a cotton kurta are all made by people.",
+   "example": "A steel spoon, a brick, a plastic bucket and a cotton shirt are all made by people.",
    "art": "A brick, a plastic bucket and a steel spoon on a shelf, with a pair of hands beside them."
   },
   {
@@ -238,7 +238,7 @@
    "definition": "Natural things are made by nature. They can be living, like a tree, or non-living, like a rock or water. Things made by people are called artificial, or human-made.",
    "description": "A mango, a crow, a pebble and the wind are natural. Nobody made them. A bicycle, a brick and a plastic bottle are made by people. Here is the tricky part. Every made thing is made from natural things. A wooden chair is made by people, from a natural material, wood. So we ask two questions. First, what is the material? Second, did people make this thing from it?",
    "examples": [
-    "A cotton boll on the plant is natural. A cotton kurta is made by people from it.",
+    "A cotton boll on the plant is natural. A cotton shirt is made by people from it.",
     "A potted plant is natural. The pot is made by people.",
     "A concrete road is made by people, from cement, sand and stones. Cement is made from natural limestone and clay."
    ],
@@ -253,11 +253,11 @@
    "description": "Some materials are changed only a little. A carpenter cuts and shapes wood, but it is still wood. Others are changed a lot. Clay baked in a kiln becomes hard pottery that never turns back into clay. Sand melted in a furnace becomes glass. Ore heated with charcoal or coke gives out metal. Petroleum is changed in a factory into tiny plastic beads. These are melted and pressed into buckets.",
    "examples": [
     "Cotton is picked, cleaned, spun into thread and woven into cloth.",
-    "Clay is dug, mixed with water, shaped, dried and baked into a matka.",
+    "Clay is dug, mixed with water, shaped, dried and baked into a clay pot.",
     "Sand is mixed with soda ash and limestone, melted, and blown or pressed into glass."
    ],
    "perspectives": [],
-   "art": "Three journey chains drawn as arrows: cotton plant to kurta, clay to matka, sand to glass bangle.",
+   "art": "Three journey chains drawn as arrows: cotton plant to shirt, clay to pot, sand to glass bangle.",
    "context": "Made things start as natural things. This card shows the main ways people change them."
   },
   {
@@ -375,7 +375,7 @@
    "description": "Scientists agree on most of this story. Right after the universe began, there was almost only hydrogen and helium, the two lightest elements. Stars are giant furnaces. Inside them, light atoms are squeezed together into heavier ones, like carbon, oxygen and iron. When big stars die, they blow these atoms out into space. New stars and planets, like our Sun and Earth, form from that dust. So the iron in your spoon was made in a star. The open question is about the heaviest atoms, like gold.",
    "examples": [
     "The carbon in your pencil was made inside a star.",
-    "The iron in your blood and in a kadhai was made in stars."
+    "The iron in your blood and in a kadai was made in stars."
    ],
    "perspectives": [
     {
@@ -398,13 +398,13 @@
    "concept": "Hidden hands: the people inside our things",
    "status": "defined",
    "definition": "Every made thing passes through many people's hands, from the field or the mine to the shop.",
-   "description": "Think of a cotton kurta. A farmer grew the cotton, often in great heat. Pickers picked it by hand. Workers in a mill cleaned and spun it. A weaver wove it. A tailor stitched it. Drivers carried it at every step. Most of these people are never named. Some were paid very little. Long ago, the cloth of Bengal, called Dhaka muslin, was so fine it was famous across the world. It was spun by hand from a special cotton plant. The skill was lost in the 1800s. Today people in Bangladesh are trying to bring it back. From the 1920s, Gandhi asked Indians to spin their own thread on a charkha and wear khadi. He said that if Indians made their own cloth, they would not need cloth from British mills.",
+   "description": "Think of a cotton shirt. A farmer grew the cotton, often in great heat. Pickers picked it by hand. Workers in a mill cleaned and spun it. A weaver wove it. A tailor stitched it. Drivers carried it at every step. Most of these people are never named. Some were paid very little. Long ago, the cloth of Bengal, called Dhaka muslin, was so fine it was famous across the world. It was spun by hand from a special cotton plant. The skill was lost in the 1800s. Today people in Bangladesh are trying to bring it back. From the 1920s, Gandhi asked Indians to spin their own thread on a charkha and wear khadi. He said that if Indians made their own cloth, they would not need cloth from British mills.",
    "examples": [
     "A steel spoon passed through the hands of miners, furnace workers and factory workers.",
     "Recycled paper and plastic in India are often collected by kabadiwalas and waste pickers, many of them women."
    ],
    "perspectives": [],
-   "art": "A cotton kurta in the middle, ringed by small portraits: a farmer, a picker, a spinner, a weaver, a tailor and a truck driver.",
+   "art": "A cotton shirt in the middle, ringed by small portraits: a farmer, a picker, a spinner, a weaver, a tailor and a truck driver.",
    "context": "A made thing is not only material. This card is about the people whose work is hidden inside it."
   },
   {
@@ -547,7 +547,7 @@
    "hint": "Think of building blocks. Is a tower made of something new, or of the same blocks in a new pattern?"
   },
   {
-   "q": "Your kurta passed through many hands before it reached you. Should we know their names?",
+   "q": "Your shirt passed through many hands before it reached you. Should we know their names?",
    "kind": "big",
    "hint": "Who grew it, spun it, wove it and stitched it?"
   },
@@ -635,7 +635,7 @@
      "items": [
       "SOURCE: cotton plant",
       "RAW: cotton fluff",
-      "MADE: cotton kurta",
+      "MADE: cotton shirt",
       "SOURCE: sheep",
       "RAW: wool",
       "MADE: woollen sweater",
@@ -656,7 +656,7 @@
       "MADE: glass bangle",
       "SOURCE: field",
       "RAW: clay",
-      "MADE: matka",
+      "MADE: clay water pot",
       "SOURCE: iron mine",
       "RAW: iron ore",
       "MADE: steel tumbler",
@@ -791,7 +791,7 @@
       "A paper wasp's nest",
       "A wooden chair",
       "A potted tulsi plant",
-      "A cotton kurta",
+      "A cotton shirt",
       "A coconut",
       "A coir doormat",
       "A loaf of bread",
@@ -889,7 +889,7 @@
      "caption": "1. Lay out the three court mats."
     },
     {
-     "art": "A child standing up like a lawyer, holding a card with a pearl on it, arguing to a child-judge wearing a dupatta as a robe.",
+     "art": "A child standing up like a lawyer, holding a card with a pearl on it, arguing to a child-judge wearing a towel as a robe.",
      "caption": "2. Lawyers argue who made the thing on the card."
     },
     {
@@ -1671,7 +1671,7 @@
      "qty": 1
     },
     {
-     "item": "three dupattas or sheets of newspaper for the three heaps",
+     "item": "three old saris or sheets of newspaper for the three heaps",
      "qty": 3
     },
     {
@@ -1701,7 +1701,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Lay out three dupattas: LIVING OR ONCE-LIVING (natural), NEVER LIVING (natural), MADE BY PEOPLE. 2. Your child sorts each thing and says why. 3. Make a tally of each heap.",
+     "do": "1. Lay out three old saris: LIVING OR ONCE-LIVING (natural), NEVER LIVING (natural), MADE BY PEOPLE. 2. Your child sorts each thing and says why. 3. Make a tally of each heap.",
      "say": "A leaf was once part of a living tree. A stone was never alive. A bottle cap was made by people. Where does each thing go?",
      "kid": "Make three heaps. Once-living natural things. Never-living natural things. Things made by people. Sort them and count.",
      "parent": "Once-living: leaves, twigs, seeds, feathers, shells, flowers. Never-living: stones, sand, soil. Made by people: bottle caps, string, paper, pieces of brick. A brick piece is made by people from clay. Cotton string is made by people from a once-living plant."
@@ -1731,7 +1731,7 @@
      "caption": "1. Collect 15 small, clean things on a walk."
     },
     {
-     "art": "Three dupattas on the floor, one with leaves and feathers, one with pebbles, one with a bottle cap and string.",
+     "art": "Three old saris on the floor, one with leaves and feathers, one with pebbles, one with a bottle cap and string.",
      "caption": "2. Sort them into three heaps."
     },
     {
@@ -1793,7 +1793,7 @@
    ],
    "setup": [
     {
-     "art": "A child sitting beside a grandmother on a charpai, holding a notebook with a THEN and NOW table.",
+     "art": "A child sitting beside a grandmother on the thinnai, the raised step at the front of the house, holding a notebook with a THEN and NOW table.",
      "caption": "1. Make a THEN and NOW table."
     },
     {
@@ -2307,11 +2307,11 @@
    "title": "The Leaf Plate Picnic",
    "mins": 30,
    "context": "This is a design challenge. You make a plate and a bowl for a picnic using only natural materials, with nothing made by people.",
-   "problem": "Make one plate and one small bowl for a picnic, using only natural materials you can find. They must hold a roti and a spoon of dal without leaking.",
+   "problem": "Make one plate and one small bowl for a picnic, using only natural materials you can find. They must hold an idli and a spoon of sambar without leaking.",
    "constraints": [
     "You can only use natural materials: leaves, twigs, grass, and so on.",
     "No glue, tape, plastic, staples or thread from a shop.",
-    "It must hold a roti and one spoon of dal for 5 minutes."
+    "It must hold an idli and one spoon of sambar for 5 minutes."
    ],
    "materials": [
     "big leaves: banana, sal, or any big, soft, clean leaf a grown-up says is safe. Banana leaves are sold at many vegetable markets.",
@@ -2328,7 +2328,7 @@
     "Use half a coconut shell as a bowl. It is natural, strong and lasts years.",
     "Press leaves together while damp and let them dry in a stack, so they hold their shape."
    ],
-   "your_turn": "Now invent your own natural plate or bowl. Test it with a roti and a spoon of dal. Does it leak?",
+   "your_turn": "Now invent your own natural plate or bowl. Test it with an idli and a spoon of sambar. Does it leak?",
    "flow": [
     {
      "id": "s1",
@@ -2343,15 +2343,15 @@
      "id": "s2",
      "mins": 5,
      "do": "Before building, draw two ideas: one for the plate and one for the bowl.",
-     "say": "Engineers draw before they build. How will you stop the dal leaking out?",
-     "kid": "Draw your plate and bowl first. How will you stop the dal from leaking?"
+     "say": "Engineers draw before they build. How will you stop the sambar leaking out?",
+     "kid": "Draw your plate and bowl first. How will you stop the sambar from leaking?"
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Build the plate and bowl. 2. Put a roti on the plate and a spoon of dal in the bowl. 3. Wait 5 minutes and check for leaks.",
+     "do": "1. Build the plate and bowl. 2. Put an idli on the plate and a spoon of sambar in the bowl. 3. Wait 5 minutes and check for leaks.",
      "say": "Build it, then test it. If it leaks, what will you change?",
-     "kid": "Build your plate and bowl. Put in a roti and a spoon of dal. Wait 5 minutes. Any leaks?",
+     "kid": "Build your plate and bowl. Put in an idli and a spoon of sambar. Wait 5 minutes. Any leaks?",
      "parent": "Leaves with a waxy top side, like banana leaves, hold liquid best. Twig pins work best when snapped short and sharp. A grown-up can trim the twigs with scissors.",
      "check": {
       "t": "mcq",
@@ -2384,8 +2384,8 @@
      "caption": "2. Overlap the leaves and pin them with twigs."
     },
     {
-     "art": "A finished leaf plate with a roti and a leaf cone bowl holding dal, on a picnic mat.",
-     "caption": "3. Test it with a roti and a spoon of dal."
+     "art": "A finished leaf plate with an idli and a leaf cone bowl holding sambar, on a picnic mat.",
+     "caption": "3. Test it with an idli and a spoon of sambar."
     }
    ]
   },
@@ -2411,7 +2411,7 @@
    ],
    "creative": [
     "Wax wraps: cotton cloth soaked in melted beeswax, to cover bowls.",
-    "A bag sewn from an old sari or kurta.",
+    "A bag sewn from an old sari or veshti.",
     "A kulhad, a clay cup, which can go back to the soil."
    ],
    "your_turn": "Now design your own swap. Draw it, label its materials, and write where each material comes from.",
@@ -2700,7 +2700,7 @@
     },
     {
      "t": "write",
-     "p": "Is a cotton kurta natural, or made by people? Explain your answer.",
+     "p": "Is a cotton shirt natural, or made by people? Explain your answer.",
      "lines": 3,
      "a": "It is made by people, from a natural material. The cotton grew on a plant, but people spun it, wove it and stitched it.",
      "why": "A good answer names both the natural material and what people did to it."
@@ -2722,13 +2722,13 @@
    "items": [
     {
      "t": "order",
-     "p": "Put the journey of a cotton kurta in order, from nature to you.",
+     "p": "Put the journey of a cotton shirt in order, from nature to you.",
      "items": [
       "cotton plant",
       "cotton fluff picked",
       "spun into thread",
       "woven into cloth",
-      "stitched into a kurta"
+      "stitched into a shirt"
      ],
      "a": "order shown",
      "why": "Cotton grows on a plant. The fluff is picked, spun into thread, woven into cloth and stitched by a tailor."
@@ -2840,7 +2840,7 @@
        "Animal"
       ],
       [
-       "clay matka",
+       "clay pot",
        "Ground or sea"
       ]
      ],
@@ -2941,7 +2941,7 @@
     },
     {
      "t": "write",
-     "p": "Name three people whose work is hidden inside a cotton kurta. Say what each one did.",
+     "p": "Name three people whose work is hidden inside a cotton shirt. Say what each one did.",
      "lines": 3,
      "a": "A farmer grew the cotton. A spinner spun the thread. A weaver wove the cloth. A tailor stitched it.",
      "why": "Any three correct workers with their jobs are right."
@@ -2994,9 +2994,9 @@
     },
     {
      "t": "mcq",
-     "p": "Where were the iron atoms in a steel kadhai made?",
+     "p": "Where were the iron atoms in a steel kadai made?",
      "opts": [
-      "In the kadhai factory",
+      "In the kadai factory",
       "In the mine",
       "Inside stars, long before the Earth formed",
       "In the furnace"
@@ -3193,7 +3193,7 @@
   },
   {
    "t": "mcq",
-   "p": "What is the raw material for a matka?",
+   "p": "What is the raw material for a clay water pot?",
    "opts": [
     "Clay",
     "Glass",
@@ -3201,7 +3201,7 @@
     "Wool"
    ],
    "a": 0,
-   "why": "A matka is made from clay, shaped and baked in a kiln. Picking 'glass' mixes it up with a bottle.",
+   "why": "A clay pot is made from clay, shaped and baked in a kiln. Picking 'glass' mixes it up with a bottle.",
    "outcome": 2
   },
   {
@@ -3297,14 +3297,14 @@
   },
   {
    "t": "mcq",
-   "p": "Who grows the cotton for a kurta?",
+   "p": "Who grows the cotton for a shirt?",
    "opts": [
     "A farmer",
     "A tailor",
     "A truck driver"
    ],
    "a": 0,
-   "why": "A farmer grows the cotton. The tailor stitches the kurta at the end of the journey. Picking 'a tailor' means starting the journey at the shop instead of the field.",
+   "why": "A farmer grows the cotton. The tailor stitches the shirt at the end of the journey. Picking 'a tailor' means starting the journey at the shop instead of the field.",
    "outcome": 6
   }
  ],
@@ -3388,14 +3388,14 @@
  ],
  "ask_kids": [
   "What is your plate made of? Where was that before it was a plate?",
-  "Is this chapati natural, or made by people? What about the wheat?",
+  "Is this dosa natural, or made by people? What about the wheat?",
   "Who grew, dug or made the things on this table?",
   "Can you find something in this room that nature made, with no help from people?",
   "Where will this wrapper go after we throw it away?",
   "Is a bird's nest natural? Is our house?",
   "If you could make paper from anything, what would you try?",
-  "Where did the salt in this dal come from?",
-  "The iron in this kadhai was made inside stars. How did it get from a star to our kitchen?",
+  "Where did the salt in this rasam come from?",
+  "The iron in this kadai was made inside stars. How did it get from a star to our kitchen?",
   "Which thing in your school bag had the longest journey?",
   "What would Grandma's kitchen have been made of when she was your age?"
  ],
@@ -3489,7 +3489,7 @@
    "a": "Let's twist again."
   },
   {
-   "j": "Why do diyas love Diwali?",
+   "j": "Why do diyas love Karthigai Deepam?",
    "a": "It's their time to shine."
   },
   {
@@ -3556,7 +3556,7 @@
    "why_maths": "Salt makers need to know how much salt their pans will give. Multiplying the salt in one litre by the number of litres tells them, without waiting for the sun."
   },
   {
-   "problem": "On the Three-Heap Walk, Meena found 7 once-living things, 4 never-living things and 5 things made by people. Draw a bar chart. How many things did she find altogether? How many were natural?",
+   "problem": "On the Three-Heap Walk, Meenakshi found 7 once-living things, 4 never-living things and 5 things made by people. Draw a bar chart. How many things did she find altogether? How many were natural?",
    "answer": "16 things altogether. 11 were natural.",
    "explain": "Altogether: 7 + 4 + 5 = 16. The natural things are the once-living and the never-living ones: 7 + 4 = 11. The bar chart has three bars: 7, 4 and 5 tall.",
    "math_unit": "math.data.bar-charts.L3",
@@ -3564,7 +3564,7 @@
    "how": "a2",
    "answer_chart": {
     "type": "bar",
-    "title": "Meena's three heaps",
+    "title": "Meenakshi's three heaps",
     "x": "Heap",
     "y": "Number of things",
     "data": [
@@ -3864,7 +3864,7 @@
    "a": "Plant fibres."
   },
   {
-   "q": "Where were the iron atoms in a kadhai made?",
+   "q": "Where were the iron atoms in a kadai made?",
    "a": "Inside stars, long ago."
   },
   {
@@ -3949,7 +3949,7 @@
    "DeepKids V0.1 Activities, week 26: natural colours extracted from fruits and vegetables, used in Colours from the Kitchen",
    "DeepKids HomeSchooling Track, STEM Activities websites (Exploratorium, Science Buddies, PhET), used in links",
    "Combined lesson app/content/combined/sci-C3-materials-and-their-properties.json: the 'where did it come from?' journey talk (steel almirah, cotton bedsheet, plastic bucket), the 'material match to source' item, the miner in Jharkhand perspective and the Iron Pillar idea, improved into The Journey Backwards and the Material Map of India",
-   "Combined lesson app/content/combined/sci-C2-materials-and-their-properties.json: natural or made hunt, journey chains (cotton, sand, clay, oil), the 'tricky ones' (cotton kurta, wooden chair), the Material Journey board game, and the cotton farmer and kabadiwala perspectives, improved into Back to the Earth and the Tricky Court",
+   "Combined lesson app/content/combined/sci-C2-materials-and-their-properties.json: natural or made hunt, journey chains (cotton, sand, clay, oil), the 'tricky ones' (cotton shirt, wooden chair), the Material Journey board game, and the cotton farmer and kabadiwala perspectives, improved into Back to the Earth and the Tricky Court",
    "Combined lesson app/content/combined/sci-C1-materials-and-their-properties.json: 'back to the beginning' (wooden spoon to tree), plant, animal or ground, and 'every material came from the Earth'",
    "NCERT pack app/content/ncert/sci-L3-10.json (This World of Things), for coverage only: natural things living and non-living, artificial things, talk to your grandparents, ores and metals, glass from sand"
   ],

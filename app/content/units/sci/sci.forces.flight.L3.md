@@ -29,7 +29,7 @@
 - **Tilt (angle of attack)**: How much the front edge of a wing or kite is raised into the oncoming air. A little tilt gives more lift. Too much tilt and the wing stops lifting well. *e.g.* Tilt your flat hand slightly in front of a fan and feel it pushed up.
 - **Stall**: When a wing is tilted too steeply, the air can't follow its top surface. The wing loses most of its lift and drops. *e.g.* A paper plane that swoops up steeply, stops and then falls has stalled.
 - **Balance point (centre of gravity)**: The point where a thing balances. Its weight acts as if it were all there. For a plane to fly steadily, this point must be a little in front of the middle of its wings. *e.g.* Balance a paper plane on your fingertip. Where it balances is its balance point.
-- **Kite**: A light frame covered with paper or cloth that flies on the wind, held by a string. In India a paper kite is called a patang or guddi. *e.g.* On Makar Sankranti the sky over Ahmedabad fills with kites.
+- **Kite**: A light frame covered with paper or cloth that flies on the wind, held by a string. In India a paper kite is called a patang or guddi. *e.g.* On Makar Sankranti the skies over Ahmedabad and Hyderabad fill with kites.
 - **Air pressure**: How hard the air pushes on a surface. It comes from countless air molecules bumping into the surface. *e.g.* Air pressure keeps a balloon blown up from the inside.
 - **Molecule**: A tiny group of atoms joined together. Air is mostly molecules of nitrogen and oxygen, far too small to see. *e.g.* Each breath you take holds more air molecules than there are grains of sand on all the world's beaches.
 - **Feather**: The light, strong covering of a bird. Wing feathers are stiff and shaped to push air. Fluffy feathers keep birds warm. *e.g.* A pigeon feather you find on a balcony.
@@ -71,7 +71,7 @@ Scientists measure lift very well. Engineers use their sums to build planes that
 ### How a kite flies · *defined*
 **Definition:** A kite flies because the wind pushes on it while the string holds it back. The kite is tilted, so the wind is turned downwards and the kite is pushed upwards.
 
-A kite has no engine and does not flap. Instead, the wind moves past it. The string pulls the kite back, so it can't simply be blown away. The tilted kite turns the wind downwards, and the wind pushes the kite up. If the string goes slack, the kite tumbles. If the wind stops, you can run, so the air still moves past the kite. A tail adds a little drag at the back. It keeps the kite's nose pointing into the wind, so it doesn't spin. Old stories from China say people made kites there more than 2,000 years ago. In India, kites fill the sky on Makar Sankranti in Gujarat and Rajasthan, and on Independence Day in Delhi.
+A kite has no engine and does not flap. Instead, the wind moves past it. The string pulls the kite back, so it can't simply be blown away. The tilted kite turns the wind downwards, and the wind pushes the kite up. If the string goes slack, the kite tumbles. If the wind stops, you can run, so the air still moves past the kite. A tail adds a little drag at the back. It keeps the kite's nose pointing into the wind, so it doesn't spin. Old stories from China say people made kites there more than 2,000 years ago. In India, kites fill the sky on Makar Sankranti in Gujarat, Rajasthan and Hyderabad, and on Independence Day in Delhi.
 - e.g. A patang climbs when the string is pulled tight and drops when it goes slack.
 - e.g. On a still day you must run to fly a kite.
 - e.g. A kite that spins round and round often needs a longer tail.
@@ -793,7 +793,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 
 ## Spotted around us
 - Black kites circling high over the city on a hot afternoon, hardly flapping.
-- The sky full of patangs on Makar Sankranti in Gujarat and Rajasthan, or on Independence Day in Delhi.
+- The sky full of kites on Makar Sankranti in Gujarat, Rajasthan and Hyderabad, or on Independence Day in Delhi.
 - Big-leaf mahogany seeds spinning down onto city pavements.
 - Silky aak fluff and semal tree cotton drifting along a road.
 - A ceiling fan's tilted blades pushing air down.

@@ -24,7 +24,7 @@
 - **Burr**: The seed head of some plants, covered in stiff spines with tiny hooks. The hooks catch in animal fur, so the animal carries the seeds to new ground. *e.g.* After a walk through dry weeds, your socks can be full of prickly seeds that hold on in the same way.
 - **Seed dispersal**: The ways plants send their seeds away from the parent plant. Seeds that land far away have more light, water and space to grow. *e.g.* Burrs ride on animal fur, dandelion seeds fly on the wind, and coconuts float across the sea.
 - **Hook and loop**: A way of joining two things. One side has tiny stiff hooks. The other side has tiny soft loops. The hooks catch in the loops. *e.g.* Velcro on school shoes and bags is hook and loop.
-- **Lotus effect**: The way some leaves keep themselves clean. Tiny waxy bumps make water roll off in balls, and the balls carry the dirt away. *e.g.* After rain, lotus and arbi (colocasia) leaves have silver balls of water rolling on them, and look spotless.
+- **Lotus effect**: The way some leaves keep themselves clean. Tiny waxy bumps make water roll off in balls, and the balls carry the dirt away. *e.g.* After rain, lotus and chembu (colocasia, also called arbi) leaves have silver balls of water rolling on them, and look spotless.
 - **Wax**: A smooth, slippery material that water does not soak into. Many leaves make a thin layer of it on their surface. *e.g.* Candle wax, and the shiny coat on a cabbage leaf.
 - **Water-repelling**: When a surface makes water stay in round drops instead of spreading or soaking in. *e.g.* A raincoat is water-repelling. A paper towel is not. It soaks water up.
 - **Streamlined**: Shaped so that air or water can flow smoothly around it. A streamlined thing is usually pointed at the front and smooth all over. *e.g.* Fish, dolphins, kingfishers and racing cyclists' helmets are streamlined.
@@ -57,7 +57,7 @@ A burdock plant stays rooted in one place all its life. Its seeds need to grow s
 **Definition:** A lotus leaf is covered in tiny bumps, and the bumps are coated in even tinier bits of wax. Water cannot spread on it, so it makes balls that roll off and carry dirt away. Scientists call this the lotus effect.
 
 A lotus grows in muddy ponds, and its big round leaves lie open to the sky. Dust, splashes of mud and the spores of fungi land on them all the time. Dirt on a leaf blocks the sunlight it needs to make its food. Spores and germs left on a leaf can make it sick. Yet lotus leaves look clean. In the 1970s, a German plant scientist called Wilhelm Barthlott looked at leaves with a very powerful microscope, called a scanning electron microscope. The lotus leaf was not smooth at all. It was covered in tiny bumps, and the bumps were coated with even tinier bits of wax. A water drop rests only on the tips of the bumps, with air underneath. So it stays round and rolls off at the smallest tilt. Dirt grips the water better than it grips the waxy tips, so each rolling drop picks up dirt and carries it away. Every shower of rain washes the leaf. Over many generations, lotus plants whose leaves stayed cleaner grew better and left more seeds. Barthlott and Christoph Neinhuis described the lotus effect in 1997. In the late 1990s, a paint company made an outside wall paint with the same kind of tiny bumps, so that rain washes the wall clean.
-- e.g. Arbi (colocasia) leaves, nasturtium leaves and cabbage leaves show the same effect.
+- e.g. Chembu (colocasia, also called arbi) leaves, nasturtium leaves and cabbage leaves show the same effect.
 - e.g. Self-cleaning paint, glass and cloth copy the lotus effect.
 - e.g. Touching a lotus leaf rubs off its wax. Then that spot gets wet like an ordinary leaf.
 ### Deep down: why water makes balls · *defined*
@@ -105,7 +105,7 @@ Termites are small insects that live in huge families, sometimes of millions. So
 
 In 1996, the Eastgate Centre opened in Harare, the capital city of Zimbabwe in Africa. Its architect, Mick Pearce, studied termite mounds. The building has thick concrete walls and floors that soak up heat slowly in the day. At night, fans pull cool outside air through hollow spaces in the floors, and warm air leaves through chimneys on the roof. Its designers reported that it uses much less energy for cooling than similar buildings. The building was based on the old chimney idea of how mounds work. Scientists later found mounds work differently. The building still works well. So a copy can be useful even when the original is not fully understood. In India, old houses with thick mud walls, small windows and courtyards also stay cool in the heat.
 - e.g. Thick mud walls of village houses keep rooms cool in summer.
-- e.g. A matka, an earthen pot, keeps water cool because water seeps through its clay and evaporates from the outside, and that carries heat away.
+- e.g. A clay water pot (a matka or kooja), keeps water cool because water seeps through its clay and evaporates from the outside, and that carries heat away.
 ### Copy how it works, not how it looks · *defined*
 **Definition:** Good biomimicry copies how something works, not just how it looks. A machine that only looks like an animal usually does not work like one.
 
@@ -171,9 +171,9 @@ Biomimicry is still young. Scientists are trying many new ideas, and most are no
 ## Roots
 We have been learning how burdock plants, lotus leaves, kingfishers, geckos and termites solve problems in their own lives, and how people copied them. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** On the arbi leaf, your drops rolled into balls and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like it found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.  
-*Habit it breaks:* We think of inventing as something only people do, in workshops and labs. But the arbi leaf, the burdock and the kingfisher each solved a problem in their own lives long before any person copied them.  
-*Evidence:* Drops roll off an arbi leaf and take the dust with them, while paper soaks them up. Self-cleaning wall paint, first sold in the late 1990s, copies the same tiny waxy bumps.
+**Deep truth.** On the chembu leaf, your drops rolled into balls and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like it found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.  
+*Habit it breaks:* We think of inventing as something only people do, in workshops and labs. But the chembu leaf, the burdock and the kingfisher each solved a problem in their own lives long before any person copied them.  
+*Evidence:* Drops roll off a chembu leaf and take the dust with them, while paper soaks them up. Self-cleaning wall paint, first sold in the late 1990s, copies the same tiny waxy bumps.
 
 - *who am i:* Your hands and your brain were shaped over many generations too. When you invent, you do what living things have always done: solve the problems of your life.
 - *what is life:* Every living thing is solving problems all the time: spreading its seeds, keeping clean, catching food, keeping cool.
@@ -187,7 +187,7 @@ The burdock, the lotus and the kingfisher each solved a different problem. Yet t
 - Science (settled): Life on Earth has been changing for about 3.8 billion years. Every living design today comes from a long line of living things that survived. This is evolution.
 - Science (settled): Animals that are not related often evolve the same shape when they face the same problem. Scientists call this convergent evolution.
 - Other view, Many biologists and engineers: Many biologists and engineers say evolution has no plan and no goal. In their view, a burr did not invent anything: seeds with better hooks simply travelled further. People plan, imagine and choose, so human invention is something new and different. That is an honest view.
-- Practice, Watch one drop (3 min): Let's take a lotus or arbi leaf, or the sooty spoon, or a candle-waxed paper. I'll put one drop of water on it. Hold it very still. Breathe in slowly. Now tilt it, just a little, and breathe out slowly as the drop rolls. Watch it go all the way. Look at the leaf. Is it wet? Let's do it once more, in silence.
+- Practice, Watch one drop (3 min): Let's take a lotus or chembu leaf, or the sooty spoon, or a candle-waxed paper. I'll put one drop of water on it. Hold it very still. Breathe in slowly. Now tilt it, just a little, and breathe out slowly as the drop rolls. Watch it go all the way. Look at the leaf. Is it wet? Let's do it once more, in silence.
 - Ask: Is a bullet train natural or man-made? Where would you draw the line?
 - Ask: If a burdock plant gave us Velcro, who should get the credit: the plant, the dog or the engineer?
 - Ask: A burdock never saw a microscope, yet its hooks work very well. Is knowing why something works the same as being able to do it?
@@ -195,7 +195,7 @@ The burdock, the lotus and the kingfisher each solved a different problem. Yet t
 ## Deep and big questions
 - *big:* A burdock plant's hooks gave us Velcro. Should the plant get any credit? Who should own an idea that came from nature? (hint: Think about George de Mestral's ten years of work. Then think about the burdock plants' many generations.)
 - *big:* Is a bullet train natural or man-made? Where exactly would you draw the line? (hint: The train is made by people. People are made by nature. The nose was copied from a bird.)
-- *deep:* Why does a lotus leaf stay clean, when a shiny steel plate does not? (hint: Look at a lotus or arbi leaf with a magnifying glass. Is it really smooth?)
+- *deep:* Why does a lotus leaf stay clean, when a shiny steel plate does not? (hint: Look at a lotus or chembu leaf with a magnifying glass. Is it really smooth?)
 - *deep:* Sharks, dolphins and kingfishers are not close relatives. Why do they share the same pointed shape? (hint: What problem do they all have to solve?)
 - *deep:* How can something as tiny as the pull between atoms hold up a whole gecko? (hint: Think about one strand of thread, and then a thick rope made of millions of strands.)
 - *big:* If nature has been testing designs for 3.8 billion years, does that make nature wise? (hint: Is cleverness only the kind that happens in a head? What kind of cleverness does a river have when it finds the easiest way downhill?)
@@ -285,7 +285,7 @@ People tell this story now in many countries. They say that a train copied a kin
   - Think: All these designs were found by people who looked very closely at living things. What living thing near you might be solving a problem that nobody has noticed yet?
 ### g2 · Design Dice (20 min)
 - **rules:** You need one die, or two dice, the two printed lists and the score sheet.; Roll the die once. Find that number on the Problem list.; Roll again. Find that number on the Nature list.; In 2 minutes, draw an invention that uses that living thing's design to solve that problem.; Explain it. Score 1 point for naming the design, 1 point for saying how you would test it, and 1 point if it could really be built.; If the pair seems impossible, you may roll the Nature die once more.; Play 5 rounds. The player with the most points wins. Playing alone? Try to beat your own best score.
-- **Printable board: Problem list (roll the first die):** 1 My water bottle gets warm in the sun; 2 My school bag keeps sliding off the chair; 3 My name label gets muddy in the rain; 4 My paper boat sinks and gets soggy; 5 My toy car is slow and noisy; 6 Grandpa's chappal slips on the wet bathroom floor
+- **Printable board: Problem list (roll the first die):** 1 My water bottle gets warm in the sun; 2 My school bag keeps sliding off the chair; 3 My name label gets muddy in the rain; 4 My paper boat sinks and gets soggy; 5 My toy car is slow and noisy; 6 Thatha's chappal slips on the wet bathroom floor
 - **Printable board: Nature list (roll the second die):** 1 Burr: tiny hooks that catch; 2 Lotus leaf: waxy bumps that make water roll off; 3 Kingfisher: a pointed front that widens slowly; 4 Gecko: millions of tiny bendy hairs; 5 Termite mound: thick walls that slow heat; 6 Tree frog: soft toe pads with grooves that let water out
 - **Printable score sheet: Inventor's score sheet:** Problem; Living thing; My invention (draw it); I named the design (1 point); I said how to test it (1 point); It could really be built (1 point)
 - **s1 (2 min)**  
@@ -321,18 +321,18 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent does:* 1. Lay the four surfaces flat on a tray or the floor. They are the water-repelling leaf, the ordinary leaf, the steel plate and the paper. 2. Hold each leaf only by its stalk or its edge. 3. Ask your child to guess what water will do on each.  
   *Parent says:* Don't touch the top of the leaves with your fingers. Your fingers can rub off the leaf's coat of wax. What do you think water will do on each one?  
   *Child mode:* Lay out the two leaves, the steel plate and the paper. Hold leaves by the stalk only. Guess: on which one will water roll?
-  - Note: Touching or rubbing the top of a lotus or arbi leaf wipes off its wax. Then that spot gets wet like any leaf. Old, dusty or bruised leaves work less well. Pick a fresh one.
+  - Note: Touching or rubbing the top of a lotus or chembu leaf wipes off its wax. Then that spot gets wet like any leaf. Old, dusty or bruised leaves work less well. Pick a fresh one.
 - **s2 (5 min)**  
   *Parent does:* 1. Put 5 drops of water on each surface, spaced apart. 2. Crouch down so your eyes are level with the surface. 3. Look at the drops from the side.  
   *Parent says:* Get your eyes down low and look at the drops from the side. Are they round like balls, like little domes, or flat?  
   *Child mode:* Put 5 drops on each one. Get your eyes down low. Look from the side. Balls, domes, or flat puddles?
-  - Ask: What do the drops on the arbi leaf look like? (good: Little silver balls.; Like marbles.; They are round and shiny.)
-  - Note: On a good arbi or lotus leaf, the drops look like silver balls or beads of mercury. On steel, they are low domes. On paper, they soak in within a minute. On an ordinary leaf, they spread into flat puddles. On a cabbage leaf, the drops bead up well but are a little flatter than on arbi.
+  - Ask: What do the drops on the chembu leaf look like? (good: Little silver balls.; Like marbles.; They are round and shiny.)
+  - Note: On a good chembu or lotus leaf, the drops look like silver balls or beads of mercury. On steel, they are low domes. On paper, they soak in within a minute. On an ordinary leaf, they spread into flat puddles. On a cabbage leaf, the drops bead up well but are a little flatter than on chembu.
 - **s3 (5 min)**  
   *Parent does:* 1. Put one end of each surface on the book, so it is tilted. 2. Count how many of the 5 drops roll off. 3. Write the number in the table.  
   *Parent says:* Let's tilt each one onto the book. Count: how many of the five drops roll away?  
   *Child mode:* Lift one end of each onto the book. Count how many drops roll off. Write it down.
-  - Check: On which surface did the drops roll off most easily? → **The arbi or lotus leaf**
+  - Check: On which surface did the drops roll off most easily? → **The chembu or lotus leaf**
 - **s4 (6 min)**  
   *Parent does:* 1. Lay the water-repelling leaf and the paper flat again. 2. Sprinkle a thin pinch of chalk dust or haldi on each. 3. Tilt them on the book. 4. Drip drops at the top end, one at a time, and watch them roll down.  
   *Parent says:* Now our leaf is dusty, like a lotus in a dirty pond. Watch the drop as it rolls. What happens to the dust?  
@@ -344,7 +344,7 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Now say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the arbi leaf keeps itself clean. What I saw: all 5 drops rolled off it, and they picked up the chalk dust. On paper, no drops rolled and the dust made a smudge. Why: the leaf has tiny waxy bumps, so water makes balls that roll and carry dirt away.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the chembu leaf keeps itself clean. What I saw: all 5 drops rolled off it, and they picked up the chalk dust. On paper, no drops rolled and the dust made a smudge. Why: the leaf has tiny waxy bumps, so water makes balls that roll and carry dirt away.
 ### e2 · Splash Like a Kingfisher (30 min)
 - **question:** Which shape goes into water with the smallest splash: a flat pancake, a round ball, or a long pointed beak?
 - **predict:** Guess first. Put the three shapes in order, from the one you think will splash most to the one you think will splash least. Why do you think so?
@@ -395,7 +395,7 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent does:* 1. Every 10 minutes, lift each lid and look at the ice. 2. Write 'big', 'small' or 'gone' in the table. 3. Write the time when each cube has fully melted.  
   *Parent says:* Let's peek every ten minutes. Lift the lid, look, and put it back quickly.  
   *Child mode:* Every 10 minutes, peek under each lid. Is the ice big, small or gone? Write it down.
-  - Note: In strong Indian sun, the ice in a bare paper cup with a lid usually melts in about 20 to 40 minutes. While you wait, you can play Nature's Idea Match in the shade. The newspaper and wet-cloth houses often last twice as long or more. On a hot, dry day, the wet cloth often wins, because drying water takes heat away, like a matka. On a humid monsoon day, the wet cloth works less well. On a cloudy day, do the test indoors by a window. It will take about an hour, so check every 15 minutes.
+  - Note: In strong Indian sun, the ice in a bare paper cup with a lid usually melts in about 20 to 40 minutes. While you wait, you can play Nature's Idea Match in the shade. The newspaper and wet-cloth houses often last twice as long or more. On a hot, dry day, the wet cloth often wins, because drying water takes heat away, like a clay water pot. On a humid monsoon day, the wet cloth works less well. On a cloudy day, do the test indoors by a window. It will take about an hour, so check every 15 minutes.
   - Wait: Check every 10 minutes until the ice in House A has melted. Leave the others until they melt too, if you can.
 - **s4 (5 min)**  
   *Parent does:* Compare the times. Then talk about how the termite mound and old Indian houses keep cool.  
@@ -406,7 +406,7 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Now say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: thick walls keep a house cooler, and wet thick walls are even better. What I saw: the bare cup's ice was gone at 25 minutes. The newspaper cup's lasted 50, and the wet cloth cup's 60. Why: thick walls slow the heat down, and drying water carries heat away, like on a matka.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: thick walls keep a house cooler, and wet thick walls are even better. What I saw: the bare cup's ice was gone at 25 minutes. The newspaper cup's lasted 50, and the wet cloth cup's 60. Why: thick walls slow the heat down, and drying water carries heat away, like on a clay water pot.
 
 ## Activities
 ### a1 · The Hitchhiker Sock Walk (25 min)
@@ -531,7 +531,7 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent says:* Pick one problem. Now ask the inventor's question. Which living thing has a problem like this in its own life? How does it solve it?  
   *Child mode:* Pick one problem. Which plant or animal has this problem too? How does it solve it?
   - Ask: What exactly will you copy, and what does it do for the living thing? (good: The burr's hooks, which catch in fur so its seeds travel.; The lotus leaf's waxy bumps, which make rain roll off and wash it clean.; The termite mound's thick walls, which slow down the heat getting in.)
-  - Note: Helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the matka. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.
+  - Note: Helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the clay water pot. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.
 - **s3 (12 min)**  
   *Parent does:* Help your child draw the invention and label each part. Next to it, they write what they copied and how they will test it.  
   *Parent says:* Draw your invention and label every part. Then write one sentence: the idea I copied is... And one more: I will test it by...  
@@ -591,7 +591,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - **your turn:** Now design your own rain-proof tag. Draw it, make it, and test it against the plain paper tag.
 - **constraints:** It must start as ordinary paper.; Your name must still be readable at the end.; Test it fairly: the same pinch of dust and the same 10 sprinkles of water on every tag.
 - **general:** Rub candle wax thickly all over the tag. Water will bead up and roll off.; Colour the tag hard all over with wax crayons, pressing firmly.; Cover the tag with clear sticky tape, so water can't soak in.
-- **creative:** Crumple the paper and flatten it before waxing, to give it tiny bumps like a lotus leaf.; Ask a grown-up to make a sooty Lotus Spoon, and compare how drops roll on it and on your tag.; Use a real arbi leaf as the tag, and scratch your name into it.
+- **creative:** Crumple the paper and flatten it before waxing, to give it tiny bumps like a lotus leaf.; Ask a grown-up to make a sooty Lotus Spoon, and compare how drops roll on it and on your tag.; Use a real chembu leaf as the tag, and scratch your name into it.
 - **s1 (8 min)**  
   *Parent does:* 1. Write your name in pencil on 4 paper squares. 2. Leave one plain. 3. Rub one hard all over with the candle, front and edges. 4. Colour one hard all over with wax crayons. 5. Cover one with clear sticky tape.  
   *Parent says:* We're making four tags. One plain, one waxed with a candle, one crayoned, one taped. Which do you think will stay cleanest?  
@@ -628,9 +628,9 @@ People tell this story now in many countries. They say that a train copied a kin
    **Answer:** Tiny waxy bumps make water roll off in balls, carrying dirt away. *Why:* The lotus leaf is covered in tiny bumps with wax on them. Water drops sit on the tips, stay round and roll off, taking dirt with them. Picking 'smooth like glass' is the most common idea. The surprise is that the leaf is bumpy, not smooth.
 5. (truefalse) A burdock plant grows hooked burrs so that animals will carry its seeds to new ground.  
    **Answer:** True. *Why:* True. Seeds that grow under the parent plant must share its light, water and soil. Seeds carried far away on fur get new ground with less crowding.
-6. (mcq) Remember the leaf experiment, where you dripped water on four surfaces and tilted them. On the arbi leaf, the drops looked like…  
+6. (mcq) Remember the leaf experiment, where you dripped water on four surfaces and tilted them. On the chembu leaf, the drops looked like…  
    Options: Round silver balls that rolled away / Flat puddles that soaked in / Nothing, the water disappeared  
-   **Answer:** Round silver balls that rolled away. *Why:* On an arbi or lotus leaf, the drops stay round like little silver balls. They roll off at a small tilt. Picking 'flat puddles' describes what happens on paper or an ordinary leaf.
+   **Answer:** Round silver balls that rolled away. *Why:* On a chembu or lotus leaf, the drops stay round like little silver balls. They roll off at a small tilt. Picking 'flat puddles' describes what happens on paper or an ordinary leaf.
 7. (match) Match each living thing to the invention that copied it.  
    **Answer:** Burr → Velcro; Lotus leaf → Self-cleaning paint; Kingfisher → Bullet train nose; Gecko → Gripper tape with no glue; Termite mound → A building that stays cool. *Why:* Each invention copied one design: hooks, waxy bumps, a slowly widening front, tiny bendy hairs, and thick walls with air channels.
 8. (mcq) Why did the old bullet trains make a loud boom when they came out of tunnels?  
@@ -647,7 +647,7 @@ People tell this story now in many countries. They say that a train copied a kin
    **Answer:** Burr → Hooks that catch; Velcro → Hooks that catch; Lotus leaf → Water that rolls off; Candle-waxed paper → Water that rolls off; Termite mound → Thick walls that slow heat; Mud house → Thick walls that slow heat. *Why:* Burrs and Velcro use hooks. Lotus leaves and waxed paper make water roll off. Termite mounds and mud houses have thick walls that slow the heat down.
 13. (mcq) Remember the ice experiment with cup houses in the sun. Which cup kept its ice longest?  
    Options: A cup with thick walls, like newspaper or wet cloth / The bare cup with thin walls / They all melted at exactly the same time  
-   **Answer:** A cup with thick walls, like newspaper or wet cloth. *Why:* Thick walls slow down the heat getting in, so the ice melts more slowly. A wet cloth also cools as its water dries, like a matka. Picking 'all the same' forgets that only the walls were different.
+   **Answer:** A cup with thick walls, like newspaper or wet cloth. *Why:* Thick walls slow down the heat getting in, so the ice melts more slowly. A wet cloth also cools as its water dries, like a clay water pot. Picking 'all the same' forgets that only the walls were different.
 14. (write) Name one thing in your home with Velcro on it. Say what the Velcro does there.  
    **Answer:** My school shoes have Velcro. It holds the strap closed, so the shoe stays on my foot.. *Why:* Velcro is used on shoes, bags, watches, blood pressure cuffs and jackets, wherever something must open and close easily.
 15. (write) Think about one experiment you did in this unit. Write what you think, what you saw, and why.  
@@ -694,7 +694,7 @@ People tell this story now in many countries. They say that a train copied a kin
 14. (write) The Lotus Temple in Delhi is shaped like a lotus flower. Self-cleaning paint looks nothing like a lotus. Which one is biomimicry? Explain.  
    **Answer:** The self-cleaning paint is biomimicry. It copies the lotus leaf's design of tiny waxy bumps, so rain washes it clean. The temple only copies the look of the flower.. *Why:* Biomimicry copies how something works. Copying only the look is art or decoration, which is lovely too, but different.
 15. (write) Your water bottle gets warm in the sun on the way to school. Use an idea from nature to make a cover for it. Say how you would test it.  
-   **Answer:** I would copy the termite mound's thick walls, and the matka. I would make a thick cotton cover and wet it before I leave. To test it, I would put two bottles in the sun, one with the cover, and feel which is cooler after an hour.. *Why:* A good answer names an idea from nature, explains how the cover uses it, and describes a fair test with only one thing changed.
+   **Answer:** I would copy the termite mound's thick walls, and the clay water pot. I would make a thick cotton cover and wet it before I leave. To test it, I would put two bottles in the sun, one with the cover, and feel which is cooler after an hour.. *Why:* A good answer names an idea from nature, explains how the cover uses it, and describes a fair test with only one thing changed.
 ### Atoms, Evolution and Big Arguments (challenge) (challenge, 15 questions)
 1. (mcq) Deep down, why does water pull itself into a ball on a waxy leaf?  
    Options: Water molecules pull on each other more strongly than the wax pulls on them / Wax pushes water away with magnets / The leaf is spinning / Water is afraid of plants  
@@ -764,8 +764,8 @@ People tell this story now in many countries. They say that a train copied a kin
    Options: Tiny waxy bumps that make water roll off and carry dirt away / It is perfectly smooth / It is always under water / It is sticky, so dirt can't land  
    **Answer:** Tiny waxy bumps that make water roll off and carry dirt away. *Why:* The bumps and wax make drops stay round and roll, picking up dirt. Picking 'perfectly smooth' is the most common wrong idea. The leaf is bumpy.
 8. (mcq) On which surface did the drops roll off most easily in the leaf experiment?  
-   Options: The arbi or lotus leaf / The paper / The steel plate  
-   **Answer:** The arbi or lotus leaf. *Why:* On the arbi leaf, drops stay round and roll at a small tilt. Paper soaks water up. On steel, drops sit as domes and often stay put. Picking steel usually means thinking 'smooth and shiny means slippery for water'.
+   Options: The chembu or lotus leaf / The paper / The steel plate  
+   **Answer:** The chembu or lotus leaf. *Why:* On the chembu leaf, drops stay round and roll at a small tilt. Paper soaks water up. On steel, drops sit as domes and often stay put. Picking steel usually means thinking 'smooth and shiny means slippery for water'.
 9. (mcq) Why did the bullet train get a long, beak-shaped nose?  
    Options: So it pushed the air aside slowly and came out of tunnels without a loud boom / So it looked like a bird / So it could carry more people / So it could catch fish  
    **Answer:** So it pushed the air aside slowly and came out of tunnels without a loud boom. *Why:* A blunt nose squeezes the air in a tunnel, which bursts out with a boom. A long nose that widens slowly parts the air gently, like a kingfisher's beak parts water. Picking 'so it looked like a bird' mixes up copying the look with copying the design.
@@ -809,16 +809,16 @@ People tell this story now in many countries. They say that a train copied a kin
 - Grippy shoe soles with grooves that let water out, like tree frog toe pads.
 - Swimming goggles, gliders and aeroplane wings shaped after birds and fish.
 - Hospitals testing gecko-inspired dry tapes that hold without glue and peel off gently.
-- Traditional thick-walled mud houses and earthen matkas that stay cool in Indian summers.
+- Traditional thick-walled mud houses and earthen water pots that stay cool in Indian summers.
 
 ## Spotted around us
 - Velcro on school shoes, bags and a blood pressure cuff at the doctor's.
 - Burrs and sticky seeds on your socks after a walk at the edge of a park, especially after the monsoon.
-- Silver balls of rain rolling on lotus leaves in a temple tank, or on arbi leaves in a garden.
+- Silver balls of rain rolling on lotus leaves in a temple tank, or on chembu leaves in a garden.
 - A kingfisher sitting on an electric wire over a pond or canal, then diving.
 - A chhipkali, the house gecko, upside down on the ceiling near the tube light.
 - Termite mounds in fields and forests, especially in south and central India.
-- A matka or surahi keeping water cool in summer.
+- A clay water pot (kooja, matka or surahi) keeping water cool in summer.
 - A honeycomb on a tree or under a balcony, with its six-sided cells.
 
 ## Open questions
@@ -838,7 +838,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - Which of your things uses Velcro? What did it copy?
 - If you could copy one animal's design for your school bag, which would it be?
 - Why are the noses of fast trains so long and pointed?
-- How does a matka keep water cool, without electricity?
+- How does a clay water pot keep water cool, without electricity?
 - Is a bullet train natural or man-made?
 - Who should get the credit for Velcro: the burr, the dog or the inventor?
 - Which problem in our home could nature help us solve?
@@ -865,7 +865,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - What did the dough beak say to the dough pancake? *You make such a splash.*
 - Why did the inventor copy the kingfisher? *It had a very good point.*
 - What's a gecko's favourite type of music? *Anything with a good hook.*
-- Why did the matka never get angry in summer? *It knew how to stay cool.*
+- Why did the clay pot never get angry in summer? *It knew how to stay cool.*
 - Why did the sock come home from the walk so proud? *It had collected a lot of fans.*
 - Why did the kingfisher get such good marks? *It always dived straight into its work.*
 - Why did the paperclip become a hook? *It wanted to hang out with the towel.*
@@ -875,7 +875,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - In the fastener challenge, 4 paperclip hooks held 6 coins. If every hook holds the same, how many coins would 8 hooks hold? And 12 hooks? **8 hooks hold about 12 coins. 12 hooks hold about 18 coins.**. 8 hooks is 2 lots of 4 hooks, so it holds 2 lots of 6 coins. 2 times 6 is 12. 12 hooks is 3 lots of 4 hooks. 3 times 6 is 18. Real tests wobble a little, so your numbers may be close to these, not exactly the same. (queues `math.multiplication.equal-groups.L3`)
 - In the ice experiment, the ice in the bare cup was gone after 25 minutes. The ice in the newspaper cup lasted 50 minutes. How many minutes longer did the newspaper cup keep its ice? **25 minutes longer.**. 50 minutes take away 25 minutes is 25 minutes. So the thick newspaper walls kept the ice for 25 minutes longer. That is twice as long as the bare cup, because 25 + 25 = 50. (queues `math.time.duration.L3`)
 - In the splash experiment, the pancake made 22, 18 and 25 splash spots in three tries. The beak made 2, 0 and 3. Find the middle value for each. Then draw a bar chart. **The pancake's middle value is 22. The beak's middle value is 2. Here is the bar chart.**. Put each set of numbers in order, smallest first. Pancake: 18, 22, 25. The middle one is 22. Beak: 0, 2, 3. The middle one is 2. Draw one bar for each shape, as tall as its middle value. The pancake's bar is 11 times as tall as the beak's, because 2 times 11 is 22. (queues `math.data.bar-charts.L3`)
-- Riya, a girl in Class 3, did the leaf experiment with 8 drops on each surface. She tilted the steel plate, and 4 drops rolled off. On the arbi leaf, all 8 rolled off. What fraction of the drops rolled off the steel plate? **Half of them.**. 4 out of 8 drops rolled off. 4 is half of 8, because 4 + 4 = 8. So half the drops rolled off the steel. On the leaf, 8 out of 8 rolled off, which is all of them, the whole. (queues `math.fractions.halves-and-quarters.L3`)
+- Kavya, a girl in Class 3, did the leaf experiment with 8 drops on each surface. She tilted the steel plate, and 4 drops rolled off. On the chembu leaf, all 8 rolled off. What fraction of the drops rolled off the steel plate? **Half of them.**. 4 out of 8 drops rolled off. 4 is half of 8, because 4 + 4 = 8. So half the drops rolled off the steel. On the leaf, 8 out of 8 rolled off, which is all of them, the whole. (queues `math.fractions.halves-and-quarters.L3`)
 
 ## Song
 Look Close, Then Make (sci.making-things.L3): Topic-level song

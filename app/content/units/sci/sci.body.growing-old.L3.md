@@ -285,7 +285,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   - Note: Clue cards about reading distance belong to ADULT or OLDER ADULT, since the eye lens stiffens from about 40. Accept either and talk about it.
 - **s3 (4 min)**  
   *Parent does:* When someone draws an ALL AGES card, stop and talk about it.  
-  *Parent says:* This one is true for babies, children and grandparents too. Your body is making new cells right now, and so is Nani's.  
+  *Parent says:* This one is true for babies, children and grandparents too. Your body is making new cells right now, and so is Paati's.  
   *Child mode:* ALL AGES cards are true for everyone. A baby and a grandparent both do this.
   - Check: Which of these is true at EVERY age, from baby to elder? → **Making new cells every second**
 - **s4 (5 min)**  
@@ -296,7 +296,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 ### g2 · Journey to 100 (25 min)
 - **rules:** Each player puts a counter before square 1.; Roll the dice and move that many squares. Each square is one year of your life.; If you land at the bottom of a ladder, read it out and climb up.; If you land on the top of a slide, read it out and slide down.; When you land on a square ending in 0, like 10, 20 or 30, take a life card and do what it says.; Everyone who reaches 100 wins. There is no loser. The first one to arrive tells a story about their 'life'.
 - **Printable board: A 10 by 10 board with squares numbered 1 to 100, each row a decade of life:** Squares 1 to 12: the childhood row, drawn with toys and school bags; Squares 13 to 19: the teenage squares, drawn with a growing door-frame; Squares 20 to 59: the adult rows, drawn with work and family; Squares 60 to 100: the elder rows, drawn with grandchildren, walking sticks and books; Ladder from 8 to 24: You play outside every day. Strong bones for life!; Ladder from 27 to 45: You walk or cycle to work.; Ladder from 38 to 57: You keep learning new things.; Ladder from 52 to 71: You stay close to friends and family.; Ladder from 63 to 84: You do strength exercises, even at 63.; Ladder from 76 to 92: You teach your grandchildren a skill.; Slide from 33 to 14: You start smoking.; Slide from 49 to 30: You sit all day and never move.; Slide from 67 to 46: You feel lonely and stop seeing people.; Slide from 87 to 68: You trip on a slippery floor with no mat.
-- **Printable cards: 20 life cards:** Age 1: You take your first steps. Move ahead 1.; Age 6: Your first milk tooth falls out. Show everyone a gap-toothed smile.; Age 13: Growth spurt! Stand up and stretch as tall as you can.; Age 18: You stop growing taller. Your growth plates have closed.; Age 30: Your bones are at their strongest ever.; Age 45: You need reading glasses. Hold this card at arm's length to read it.; Age 50: Your first grey hairs appear. Tell everyone one fact about pigment.; Age 65: You learn to use a new phone. Move ahead 2.; Age 70: Your grandchild asks you for a story. Tell a 30-second story to win a star.; Age 80: You hear high sounds less well. Next turn, someone must whisper your number to you.; Any age: You sleep well every night. Move ahead 2.; Any age: You eat dal, sabzi and fruit. Move ahead 1.; Any age: You drink clean water. Move ahead 1.; Any age: You skip your vaccine. Miss a turn.; Any age: You help an elder carry their bag. Move ahead 2.; Any age: You sit in the strong sun every day with no hat. Your skin wrinkles faster. Move back 1.; Any age: Your body makes 4 million new cells this second. Clap 4 times.; Any age: You learn a new song. Move ahead 1.; Any age: You laugh with a friend. Move ahead 1.; Any age: You spend all day on a screen. Move back 1.
+- **Printable cards: 20 life cards:** Age 1: You take your first steps. Move ahead 1.; Age 6: Your first milk tooth falls out. Show everyone a gap-toothed smile.; Age 13: Growth spurt! Stand up and stretch as tall as you can.; Age 18: You stop growing taller. Your growth plates have closed.; Age 30: Your bones are at their strongest ever.; Age 45: You need reading glasses. Hold this card at arm's length to read it.; Age 50: Your first grey hairs appear. Tell everyone one fact about pigment.; Age 65: You learn to use a new phone. Move ahead 2.; Age 70: Your grandchild asks you for a story. Tell a 30-second story to win a star.; Age 80: You hear high sounds less well. Next turn, someone must whisper your number to you.; Any age: You sleep well every night. Move ahead 2.; Any age: You eat sambar, greens and fruit. Move ahead 1.; Any age: You drink clean water. Move ahead 1.; Any age: You skip your vaccine. Miss a turn.; Any age: You help an elder carry their bag. Move ahead 2.; Any age: You sit in the strong sun every day with no hat. Your skin wrinkles faster. Move back 1.; Any age: Your body makes 4 million new cells this second. Clap 4 times.; Any age: You learn a new song. Move ahead 1.; Any age: You laugh with a friend. Move ahead 1.; Any age: You spend all day on a screen. Move back 1.
 - **Printable tokens: Counters and a dice:** one counter per player; one dice
 - **s1 (3 min)**  
   *Parent does:* 1. Put the board on the floor. 2. Give each player a counter. 3. Shuffle the life cards and put them face down.  
@@ -340,12 +340,12 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   *Parent does:* For each person, find the middle value of the three tries.  
   *Parent says:* Put the three numbers in order, smallest to biggest. The one in the middle is the middle value. It is a fair number to use, because it ignores one very fast or very slow try.  
   *Child mode:* Put the 3 numbers in order. The middle one is the one we use.
-  - Check: Arjun, a boy in Class 3, did the skin test with his Nani, his mother's mother. Her three tries took 2, 5 and 3 seconds. What is the middle value? → **3 seconds**
+  - Check: Arjun, a boy in Class 3, did the skin test with his Ammamma, his mother's mother. Her three tries took 2, 5 and 3 seconds. What is the middle value? → **3 seconds**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but Nani's took 3 seconds. Why: older skin has fewer springy threads inside.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but Ammamma's took 3 seconds. Why: older skin has fewer springy threads inside.
 ### e2 · How Close Can You Read? (20 min)
 - **question:** Does the closest distance at which people can read clearly change with age?
 - **predict:** Before you start, guess. Who in your family can read tiny print closest to their nose? Who will need it furthest away? Why do you think so?
@@ -371,7 +371,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, why.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? Why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Dadaji needed 60 centimetres. Why: the lens in his eye has got stiff, so it cannot focus up close.
+  - Note: A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Thatha needed 60 centimetres. Why: the lens in his eye has got stiff, so it cannot focus up close.
 ### e3 · The High Sound Test (20 min)
 - **question:** Can younger people hear higher sounds than older people?
 - **predict:** Before you start, guess. Who will hear the highest sound? Will anyone hear sounds the others cannot? Why do you think so?
@@ -398,7 +398,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, why.  
   *Parent says:* Now tell me three things. What do you think? What did you see? Why?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but Nana only heard up to 8,000. Why: the hair cells for high sounds in his ears have worn out over the years.
+  - Note: A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but Thatha only heard up to 8,000. Why: the hair cells for high sounds in his ears have worn out over the years.
 
 ## Activities
 ### a1 · Hands Across Time (10 min)
@@ -488,7 +488,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   *Child mode:* Mark your ages on the strip. Stick a photo or drawing at each. Write what changed.
 - **s2 (10 min)**  
   *Parent does:* Make a longer line for an elder, with their help, from girl or boy to now. Label the stages.  
-  *Parent says:* Now let's do Nani's life. Her line is much longer. Can you find where she was your age?  
+  *Parent says:* Now let's do Paati's life. Her line is much longer. Can you find where she was your age?  
   *Child mode:* Make a long line for an elder. Find where they were your age.
   - Check: On the elder's life line, which stage comes straight after being a teenager? → **Adult**
   - Think: Where on your elder's line were they exactly your age? What were they doing?
@@ -500,11 +500,11 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 - **schedule:** day 1: Plan the book with the elder. Ask about their life when they were your age. (20 min); day 2: Draw pages: the elder at your age, and you now, side by side. Add body changes they remember. (20 min); day 3: Finish the book, read it together with the elder, and give it to them as a gift. (20 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. Make the book. 2. With the elder, choose 4 ages: 8, 15, 30 and now. 3. Ask what their body could do and what life was like at each age.  
-  *Parent says:* We are making a book about Nani's life and yours. Each page will show her at one age, next to you.  
+  *Parent says:* We are making a book about Paati's life and yours. Each page will show her at one age, next to you.  
   *Child mode:* Make a book with an elder. Choose 4 ages. Ask what their body and life were like at each.
 - **s2 (20 min)**  
   *Parent does:* Draw one page for each age. Write one body change on each page, like 'first grey hair at 42' or 'started reading glasses at 45'.  
-  *Parent says:* On each page, draw Nani at that age. Write one way her body was different then.  
+  *Parent says:* On each page, draw Paati at that age. Write one way her body was different then.  
   *Child mode:* Draw the elder at each age. Write one body change on each page.
   - Check: In your Then and Now Book, at which age page would the elder most likely write 'started reading glasses'? → **Age 45**
   - Wait: Come back the next day.
@@ -556,7 +556,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
   - Check: In the Easy-Open Jar challenge, a belt wrapped round the lid made it easier to turn. Why? → **The long end works like a lever, so you need less force**
 - **s3 (5 min)**  
   *Parent does:* Pick the best idea and give one to an elder.  
-  *Parent says:* Which idea won? Let's make one for Dadaji's kitchen.  
+  *Parent says:* Which idea won? Let's make one for Thatha's kitchen.  
   *Child mode:* Which idea won? Make one for an elder you know.
 
 ## Worksheets
@@ -760,7 +760,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 ## Questions to ask kids
 - Can you find a grey hair on anyone at home today? How many?
 - What could you do this year that you could not do last year?
-- What do you think Nani or Dadaji was like at your age?
+- What do you think Paati or Thatha was like at your age?
 - Which elder do you know who still learns new things?
 - Who in our home holds the phone furthest away to read it? Why?
 - If you could ask your future self at 80 one question, what would it be?
@@ -772,7 +772,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 
 ## Jokes
 - Why did the grandfather hold his newspaper so far away? *He wanted the news to come from a long way off!*
-- What did Nana say when he could not read the menu? *My arms have grown too short!*
+- What did Thatha say when he could not read the menu? *My arms have grown too short!*
 - Why don't babies play hide and seek? *Their big heads always give them away.*
 - What did the white hair say to the black hair? *Don't worry, you'll get there one day.*
 - Why did the teenager bring a ladder to school? *To keep up with how fast they were growing.*
@@ -781,7 +781,7 @@ I am still a needle. I have been held by a boy who became an old man. Now I am h
 - What did the old skin cell say as it fell off? *I'm flaking out, but a new cell will take my place.*
 - Why did the red blood cell throw a party? *It had lasted four whole months!*
 - Why is a baby's head so big for its body? *Its brain got a head start.*
-- Why did Nani's reading glasses go to school? *To get a little sharper.*
+- Why did Paati's reading glasses go to school? *To get a little sharper.*
 - What do you call a wrinkle that smiles? *A laugh line.*
 - Why did the hydra never have a birthday party? *It never seemed to get any older.*
 - What did the eye lens say to the book? *Please step back, I'm not as flexible as I used to be.*

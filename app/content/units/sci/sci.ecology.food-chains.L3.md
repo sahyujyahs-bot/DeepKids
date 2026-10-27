@@ -35,7 +35,7 @@
 - **Ecosystem**: All the living things in one place, together with the water, soil, air and light they use. *e.g.* A pond, with its algae, fish, frogs, mud and water, is an ecosystem.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see. When one living thing eats another, its atoms move into the eater. *e.g.* Some of the atoms in a tiger were once in the grass a deer ate.
 - **Carbon**: A kind of atom that every living thing is built from. Plants take it from the air. Animals get it by eating. *e.g.* When you breathe out, some carbon from your breakfast goes back into the air.
-- **Fair test**: A test where you change only one thing and keep everything else the same. Then you know what made the difference. *e.g.* Put sugar, salt and roti the same distance from the ants, at the same time.
+- **Fair test**: A test where you change only one thing and keep everything else the same. Then you know what made the difference. *e.g.* Put sugar, salt and chapati the same distance from the ants, at the same time.
 
 ## Explanations
 ### What a food chain is · *defined*
@@ -56,7 +56,7 @@ Green plants and algae are producers. Their leaves catch sunlight and use it to 
 **Definition:** A food web is many food chains joined together. It shows everything that eats, and is eaten by, each living thing in one place.
 
 Real animals rarely eat just one thing. A frog eats grasshoppers, flies, spiders and beetles. A frog is eaten by snakes, herons, owls and even big fish. Draw all of these arrows and the chains cross and join, like threads in a fishing net. That net is a food web. Webs are useful because they show something chains hide. If one food runs out, an animal can often switch to another. A web with many threads is harder to break than a single chain. Real webs are huge. Some scientists count every link, even parasites, the tiny worms and other creatures that live inside animals. Counted this way, one lake or marsh can have thousands of arrows.
-- e.g. A crow eats roti, insects, frogs, eggs and dead animals. It shows up in many chains at once.
+- e.g. A crow eats chapati, insects, frogs, eggs and dead animals. It shows up in many chains at once.
 - e.g. If a garden has fewer caterpillars one year, a bulbul can eat more fruit and spiders instead.
 ### Scavengers and decomposers: the clean-up crew · *defined*
 **Definition:** Scavengers eat animals that are already dead. Decomposers break dead things down into nutrients that go back into the soil.
@@ -302,38 +302,38 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Think: Real scientists found this same pattern in 100 years of fur-trade records of lynx and hares in Canada. How do you think they counted wild animals so long ago?
 
 ## Experiments
-### e1 · Sugar, Salt or Roti? What do ants choose? (45 min)
-- **question:** Which food do ants come to most: sugar, salt, roti or nothing at all?
+### e1 · Sugar, Salt or Chapati? What do ants choose? (45 min)
+- **question:** Which food do ants come to most: sugar, salt, chapati or nothing at all?
 - **predict:** Before you start, guess. Which square will have the most ants after 30 minutes? Which will have none? Why do you think so? Write your guess and your reason down.
 - **fair test:** To make it fair, change only the food. Use the same size of paper square, the same amount of each food, the same distance from the ants, and the same start time. One square has no food at all, so you can see how many ants wander onto a square by chance. Count all four squares at the same moment.
 - **safety:** Some ants bite, especially big red ants. Watch them, but don't touch them. Wipe the place with soapy water afterwards, so the ants don't keep coming back. Don't do this next to food jars or the baby's things.
 - **record:** Fill in the table. Then draw a bar chart with one bar for each square, as tall as the number of ants after 30 minutes.
 - **results table:** Square | Ants after 10 minutes | Ants after 20 minutes | Ants after 30 minutes
 - **s1 (4 min)**  
-  *Parent does:* 1. Show your child the sugar, salt and roti. 2. Ask which one ants will choose, and why. 3. Write the guess down.  
+  *Parent does:* 1. Show your child the sugar, salt and chapati. 2. Ask which one ants will choose, and why. 3. Write the guess down.  
   *Parent says:* Ants are consumers. They can't make their own food, so they go looking for it. Which of these do you think they will go to most? Which will they ignore?  
-  *Child mode:* Ants can't make their own food. They must find it. Will they go to the sugar, the salt or the roti? Write your guess.
-  - Ask: Why did you choose that one? (good: Ants like sweet things.; I have seen ants on sugar.; Roti is food, but salt is not really food.)
+  *Child mode:* Ants can't make their own food. They must find it. Will they go to the sugar, the salt or the chapati? Write your guess.
+  - Ask: Why did you choose that one? (good: Ants like sweet things.; I have seen ants on sugar.; Chapati is food, but salt is not really food.)
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. Find a place where you have seen ants. 2. Lay the 4 squares in a row, about one hand-width apart and about two hand-widths from the ants' path. 3. Put sugar on one, salt on the next, roti on the third, and nothing on the fourth. 4. Note the time.  
+  *Parent does:* 1. Find a place where you have seen ants. 2. Lay the 4 squares in a row, about one hand-width apart and about two hand-widths from the ants' path. 3. Put sugar on one, salt on the next, chapati on the third, and nothing on the fourth. 4. Note the time.  
   *Parent says:* Let's put them all the same distance from the ants. This empty square tells us how many ants walk onto a square just by chance.  
-  *Child mode:* Lay 4 squares in a row, one hand apart. Put sugar, salt and roti on three. Leave one empty. Note the time.
+  *Child mode:* Lay 4 squares in a row, one hand apart. Put sugar, salt and chapati on three. Leave one empty. Note the time.
   - Note: If you have not seen ants anywhere, leave a pinch of sugar in a balcony corner or by the kitchen door the evening before. Ants usually find it by morning, and then you know where to set up. You can also try the base of a tree, a crack near the kitchen door, or a balcony corner. Ants are busiest in warm weather and in the late afternoon. In the cold months there may be fewer.
 - **s3 (30 min)**  
   *Parent does:* 1. After 10 minutes, count the ants on each square and write the numbers down. 2. Count again at 20 minutes and at 30 minutes. 3. In between, read the story or play a game nearby.  
   *Parent says:* Time to count. Count only the ants that are on the paper. If there are too many, count the ones touching the food.  
   *Child mode:* After 10 minutes, count the ants on each square. Write the numbers. Count again at 20 and 30 minutes.
-  - Note: Usually the sugar square fills up with ants, and the roti gets some. The salt and empty squares get almost none. Sometimes no ants come at all in 15 minutes. Then move the squares closer to a trail you can see, and start the clock again. If ants come to every square equally, they may just be crossing. Then count only the ants that stop at the food. Now and then a few ants visit the salt. Ants need a little salt, as we do, but salt gives them no energy. Some tiny ants also love oily or meaty crumbs. That is a real result: those ants are omnivores.
+  - Note: Usually the sugar square fills up with ants, and the chapati gets some. The salt and empty squares get almost none. Sometimes no ants come at all in 15 minutes. Then move the squares closer to a trail you can see, and start the clock again. If ants come to every square equally, they may just be crossing. Then count only the ants that stop at the food. Now and then a few ants visit the salt. Ants need a little salt, as we do, but salt gives them no energy. Some tiny ants also love oily or meaty crumbs. That is a real result: those ants are omnivores.
 - **s4 (3 min)**  
   *Parent does:* Draw a bar chart together, with one bar for each square, using the 30-minute numbers.  
   *Parent says:* Each square gets one bar. The taller the bar, the more ants came to that food.  
   *Child mode:* Draw one bar for each square. Make it as tall as the number of ants at 30 minutes.
-  - Check: Ants came to the sugar and the roti, but not to the salt. What do sugar and roti have in common? → **Both were made by plants**
+  - Check: Ants came to the sugar and the chapati, but not to the salt. What do sugar and chapati have in common? → **Both were made by plants**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Now say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: ants choose food that came from plants, most of all sugar. What I saw: 23 ants on the sugar and 7 on the roti after 30 minutes, but none on the salt. Why: sugar and roti carry energy that plants made from sunlight, and salt has no energy for ants. So the ants are part of a food chain: sugarcane → ant.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: ants choose food that came from plants, most of all sugar. What I saw: 23 ants on the sugar and 7 on the chapati after 30 minutes, but none on the salt. Why: sugar and chapati carry energy that plants made from sunlight, and salt has no energy for ants. So the ants are part of a food chain: sugarcane → ant.
 ### e2 · Leaf Bite Survey: who is eating our plants? (30 min)
 - **question:** Which plant near us gets eaten the most? And who is eating it?
 - **predict:** Look at three plants without touching them. Guess which one has the most leaves with bites or holes in them, and say why you think so. Then guess what is doing the biting.
@@ -620,9 +620,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 10. (mcq) A vulture eats a dead buffalo. What is the vulture?  
    Options: A producer / A scavenger / A herbivore / Prey  
    **Answer:** A scavenger. *Why:* A scavenger eats animals that are already dead. Picking 'herbivore' usually comes from thinking the buffalo ate grass, which it did. But the vulture eats the buffalo's meat, not grass.
-11. (mcq) Look at the chart. Ants came most to the sugar and the roti, and not to the salt. Why?  
-   Options: Sugar and roti came from plants and carry food energy. Salt has none. / Ants cannot see salt / Salt is too heavy for ants / Ants only like white things  
-   **Answer:** Sugar and roti came from plants and carry food energy. Salt has none.. *Why:* Sugar comes from sugarcane and roti from wheat. Both carry energy a plant made from sunlight. Salt comes from the sea or rocks and gives no energy. Picking 'only like white things' cannot be right: salt is white too, and the ants ignored it.
+11. (mcq) Look at the chart. Ants came most to the sugar and the chapati, and not to the salt. Why?  
+   Options: Sugar and chapati came from plants and carry food energy. Salt has none. / Ants cannot see salt / Salt is too heavy for ants / Ants only like white things  
+   **Answer:** Sugar and chapati came from plants and carry food energy. Salt has none.. *Why:* Sugar comes from sugarcane and chapati from wheat. Both carry energy a plant made from sunlight. Salt comes from the sea or rocks and gives no energy. Picking 'only like white things' cannot be right: salt is white too, and the ants ignored it.
 12. (mcq) In the ant test, why did we put one square with nothing on it?  
    Options: To see how many ants walk onto a square just by chance / To give the ants a rest / Because we ran out of food / To make the test harder  
    **Answer:** To see how many ants walk onto a square just by chance. *Why:* The empty square shows how many ants arrive by accident. If the sugar square has many more than the empty one, we know the sugar attracted them. Picking 'to give the ants a rest' is a kind idea, but it would not help us learn anything.
@@ -735,9 +735,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 3. (mcq) Which is a correct food chain?  
    Options: Algae → mosquito larva → small fish → kingfisher / Kingfisher → small fish → mosquito larva → algae / Small fish → algae → kingfisher → mosquito larva  
    **Answer:** Algae → mosquito larva → small fish → kingfisher. *Why:* The chain starts with the producer, algae, and each arrow points to the eater. Picking the second one means the chain is in reverse, with the arrows pointing at the food.
-4. (mcq) A crow eats roti, insects, fruit and dead animals. What is the crow?  
+4. (mcq) A crow eats chapati, insects, fruit and dead animals. What is the crow?  
    Options: An omnivore / A herbivore / A producer  
-   **Answer:** An omnivore. *Why:* An omnivore eats both plants and animals. Picking 'herbivore' means the roti and fruit were counted, but not the insects and dead animals.
+   **Answer:** An omnivore. *Why:* An omnivore eats both plants and animals. Picking 'herbivore' means the chapati and fruit were counted, but not the insects and dead animals.
 5. (mcq) Which living thing breaks down dead plants and animals into nutrients for the soil?  
    Options: A mushroom, which is a decomposer / A tiger, which is a predator / A mango tree, which is a producer  
    **Answer:** A mushroom, which is a decomposer. *Why:* Mushrooms and other fungi, and bacteria, are decomposers. Picking the mango tree may come from thinking that whatever grows in soil also feeds it. But trees take nutrients from the soil. Decomposers give them back.
@@ -850,7 +850,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 ## Connected maths
 - In One Hundred Grains, the grass had 100 grains. At each step, only one tenth passes on. How many grains does each animal get: grasshopper, frog, snake? **Grasshopper 10, frog 1, snake one tenth of a grain.**. One tenth of 100 is 100 divided by 10, which is 10. One tenth of 10 is 10 divided by 10, which is 1. One tenth of 1 is a crumb, one tenth of a grain. You can check: 10 groups of 10 make 100. (queues `math.division.sharing-and-grouping.L3`)
 - A tiger eats about one deer-sized animal every week. There are 52 weeks in a year. About how many does it eat in a year? How many would a family of 3 tigers eat? **About 52 in a year for one tiger, and 156 for three tigers.**. One a week for 52 weeks is 52 × 1 = 52. For three tigers, it is 52 + 52 + 52, which is 3 × 52 = 156. To work out 3 × 52: 3 × 50 = 150, and 3 × 2 = 6. 150 + 6 = 156. (queues `math.multiplication.equal-groups.L3`)
-- In the ant test, these are the ants counted after 30 minutes: sugar 23, roti 7, salt 0, nothing 1. Draw a bar chart. How many more ants came to the sugar than to the roti? How many ants were there altogether? **16 more ants came to the sugar. There were 31 ants altogether. Here is the bar chart.**. Draw one bar for each square, as tall as its number. To find how many more: 23 take away 7 is 16. To find the total: 23 + 7 + 0 + 1 = 31. (queues `math.data.bar-charts.L3`)
+- In the ant test, these are the ants counted after 30 minutes: sugar 23, chapati 7, salt 0, nothing 1. Draw a bar chart. How many more ants came to the sugar than to the chapati? How many ants were there altogether? **16 more ants came to the sugar. There were 31 ants altogether. Here is the bar chart.**. Draw one bar for each square, as tall as its number. To find how many more: 23 take away 7 is 16. To find the total: 23 + 7 + 0 + 1 = 31. (queues `math.data.bar-charts.L3`)
 - In Poison Climbs the Chain, each of 40 plankton had 1 red dot. Each small fish ate 5 plankton. Each big fish ate 4 small fish. The osprey ate 2 big fish. How many dots did each small fish, each big fish and the osprey have? **Each small fish had 5 dots, each big fish 20 dots, and the osprey 40 dots.**. A small fish ate 5 plankton with 1 dot each: 5 × 1 = 5. A big fish ate 4 small fish with 5 dots each: 4 × 5 = 20. The osprey ate 2 big fish with 20 dots each: 2 × 20 = 40. So the osprey had 40 times as much poison as one plankton. (queues `math.multiplication.multiplication-facts.L3`)
 - Look at your Deer and Tiger Toss record. In the example, the deer were 6, 10, 16, 24, 28, 36 in the first six rounds. By how much did the deer go up each round? In which round did they go up the most? **They went up by 4, 6, 8, 4 and 8. The biggest rise was 8, from round 3 to round 4, and again from round 5 to round 6.**. Take each number away from the next. 10 − 6 = 4. 16 − 10 = 6. 24 − 16 = 8. 28 − 24 = 4. 36 − 28 = 8. The rise slowed down between rounds 4 and 5, because more tigers were eating deer by then. (queues `math.patterns.number-patterns.L3`)
 

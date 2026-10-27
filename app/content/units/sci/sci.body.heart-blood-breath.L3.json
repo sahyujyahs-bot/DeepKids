@@ -121,7 +121,7 @@
   {
    "term": "Red blood cells",
    "meaning": "Tiny round discs in blood that carry oxygen. They are what make blood red. A drop of blood holds millions of them.",
-   "example": "Red blood cells contain iron. That is one reason we need iron-rich foods like dal, rajma and green leafy vegetables like palak.",
+   "example": "Red blood cells contain iron. That is one reason we need iron-rich foods like ragi, dal and green leafy vegetables like spinach.",
    "art": "Many red discs, dented in the middle like a doughnut that was pressed by a thumb."
   },
   {
@@ -1484,19 +1484,19 @@
      "qty": 1
     },
     {
-     "item": "water with a tiny pinch of haldi, to make it pale yellow",
+     "item": "water with a tiny pinch of turmeric, to make it pale yellow",
      "qty": 1
     },
     {
-     "item": "a cup of rajma, the red kidney beans, uncooked",
+     "item": "a cup of red kidney beans, uncooked",
      "qty": 1
     },
     {
-     "item": "one white chana or white bean",
+     "item": "one white chickpea or white bean",
      "qty": 1
     },
     {
-     "item": "a pinch of til, sesame seeds, about 20 seeds",
+     "item": "a pinch of sesame seeds, about 20 seeds",
      "qty": 1
     }
    ],
@@ -1505,34 +1505,34 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Build a model of blood in a jar. Use rajma for red cells, chana for white cells, til for platelets and yellow water for plasma."
+     "what": "Build a model of blood in a jar. Use kidney beans for red cells, a chickpea for white cells, sesame seeds for platelets and yellow water for plasma."
     }
    ],
    "record": "Draw your jar and label the four parts of blood. Write one job for each.",
    "context": "In this activity you make a model of blood in a jar from kitchen things. It shows the four parts of blood and roughly how much of each there is.",
    "setup": [
     {
-     "art": "A child pouring red rajma beans into a clear jar until it is a little less than half full.",
-     "caption": "1. Fill the jar a little less than half with rajma. These are red cells."
+     "art": "A child pouring red kidney beans into a clear jar until it is a little less than half full.",
+     "caption": "1. Fill the jar a little less than half with kidney beans. These are red cells."
     },
     {
      "art": "Pale yellow water being poured over the beans until the jar is nearly full.",
      "caption": "2. Pour in pale yellow water until the jar is nearly full. This is plasma."
     },
     {
-     "art": "The jar with one white chana and a few sesame seeds on top of the beans.",
-     "caption": "3. Add just one white chana and a pinch of til. Then look at the mix."
+     "art": "The jar with one white chickpea and a few sesame seeds on top of the beans.",
+     "caption": "3. Add just one white chickpea and a pinch of sesame seeds. Then look at the mix."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Pour rajma into the jar until it is a little less than half full. 2. Add one white chana. 3. Sprinkle in a pinch of til. 4. Pour in the pale yellow water until the jar is nearly full.",
-     "say": "Blood looks like just a red liquid. But it's really a crowd of tiny things floating in a yellow liquid. Let's build it. The yellow water is plasma. The rajma are red blood cells. The single chana is a white blood cell. The til seeds are platelets.",
-     "kid": "Pour lots of rajma into the jar. They are red blood cells. Add one chana. That is a white blood cell. Sprinkle a little til. They are platelets. Pour in yellow water. That is plasma.",
-     "parent": "In real blood, a little under half is red cells and a little over half is plasma. For every 600 to 700 red cells, there is about one white cell, so there is only one chana. There is about one platelet for every 20 red cells, so about 20 til seeds suit a cup of rajma.",
-     "context": "This is the jar of blood activity. You make a model of blood from yellow water, rajma, one chana and til."
+     "do": "1. Pour kidney beans into the jar until it is a little less than half full. 2. Add one white chickpea. 3. Sprinkle in a pinch of sesame seeds. 4. Pour in the pale yellow water until the jar is nearly full.",
+     "say": "Blood looks like just a red liquid. But it's really a crowd of tiny things floating in a yellow liquid. Let's build it. The yellow water is plasma. The kidney beans are red blood cells. The single chickpea is a white blood cell. The sesame seeds are platelets.",
+     "kid": "Pour lots of kidney beans into the jar. They are red blood cells. Add one chickpea. That is a white blood cell. Sprinkle a few sesame seeds. They are platelets. Pour in yellow water. That is plasma.",
+     "parent": "In real blood, a little under half is red cells and a little over half is plasma. For every 600 to 700 red cells, there is about one white cell, so there is only one chickpea. There is about one platelet for every 20 red cells, so about 20 sesame seeds suit a cup of kidney beans.",
+     "context": "This is the jar of blood activity. You make a model of blood from yellow water, kidney beans, one chickpea and sesame seeds."
     },
     {
      "id": "s2",
@@ -1542,11 +1542,11 @@
      "kid": "Red cells carry oxygen. Plasma carries food and water. White cells fight germs. Platelets plug cuts.",
      "check": {
       "t": "mcq",
-      "q": "Why are there so many rajma beans and only one chana in our blood jar?",
+      "q": "Why are there so many kidney beans and only one chickpea in our blood jar?",
       "options": [
        "Blood has hundreds of red cells for every white cell",
        "White cells are bigger, so we need fewer",
-       "We ran out of chana"
+       "We ran out of chickpeas"
       ],
       "a": 0,
       "why": "In real blood, red cells are by far the biggest crowd. There are about 600 to 700 red cells for every white cell. That is because every part of your body needs oxygen all the time. White cells are only needed where germs get in. Picking 'white cells are bigger' is partly right. White cells really are bigger, about twice as wide. But that is not why there are fewer."
@@ -1590,7 +1590,7 @@
      "items": [
       "20 oxygen tokens marked O",
       "20 carbon dioxide tokens marked CO2",
-      "10 food tokens marked with a roti",
+      "10 food tokens marked with an idli",
       "4 red blood cell counters, one for each player"
      ]
     },
@@ -1749,7 +1749,7 @@
     }
    ],
    "rules": [
-    "Draw a big figure of eight on the ground with chalk, or lay it out on the floor with a long dupatta or string. Mark a heart where the loops cross, lungs at the top loop and a body basket at the bottom loop.",
+    "Draw a big figure of eight on the ground with chalk, or lay it out on the floor with a long old sari or string. Mark a heart where the loops cross, lungs at the top loop and a body basket at the bottom loop.",
     "Put a pile of scrunched-up paper balls at the lungs. These are oxygen.",
     "Players are red blood cells. Each trip, they pick up 2 oxygen balls at the lungs, go back through the heart and drop them in the body basket.",
     "They must always go the same way round, through the heart in the middle each time.",
@@ -1775,7 +1775,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw the figure of eight with chalk, or lay it out with a dupatta or string, big enough to run round. 2. Mark the heart, lungs and body basket. 3. Make 30 paper balls.",
+     "do": "1. Draw the figure of eight with chalk, or lay it out with an old sari or string, big enough to run round. 2. Mark the heart, lungs and body basket. 3. Make 30 paper balls.",
      "say": "Today you are red blood cells. This chalk shape is the path your blood takes. Top loop, the lungs. Bottom loop, the body. Every trip goes through the heart in the middle.",
      "kid": "You are a red blood cell! The top loop goes to the lungs. The bottom loop goes to the body. Always go through the heart in the middle.",
      "context": "This is the first step of the Chalk Heart Relay, a running game about blood carrying oxygen. Here you draw the path."
@@ -2925,7 +2925,7 @@
    "why_maths": "A bar chart shows at a glance which bar is tallest. Taking one bar from another tells us exactly how much the heart sped up."
   },
   {
-   "problem": "In the upside-down bottle experiment, Kabir's ordinary breath out pushed out 250 ml of air. His biggest breath out pushed out 1,500 ml. How many ordinary breaths would fit into his biggest breath?",
+   "problem": "In the upside-down bottle experiment, Karthik's ordinary breath out pushed out 250 ml of air. His biggest breath out pushed out 1,500 ml. How many ordinary breaths would fit into his biggest breath?",
    "answer": "6 ordinary breaths.",
    "explain": "We want to know how many lots of 250 make 1,500. Count up: 250, 500, 750, 1,000, 1,250, 1,500. That is 6 jumps. So his biggest breath was 6 times his ordinary one.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -3007,7 +3007,7 @@
    "art": "A small clip on a finger with a screen showing a number and a blinking heart."
   },
   {
-   "text": "Your breath making a little cloud on a cold winter morning in Delhi or Shimla.",
+   "text": "Your breath making a little cloud on a cold winter morning in Ooty or Delhi.",
    "art": "A child in a woolly cap breathing out a small white cloud."
   },
   {

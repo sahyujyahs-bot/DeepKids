@@ -33,7 +33,7 @@
 - **Waterproof**: A waterproof material does not let water in or through. *e.g.* A plastic raincoat and a rubber boot are waterproof.
 - **Absorbent**: An absorbent material soaks up liquid into its tiny gaps. *e.g.* A cotton towel, a sponge and a paper towel are absorbent.
 - **Conductor of heat**: A conductor of heat lets heat flow through it quickly. *e.g.* A steel spoon in hot tea gets hot at the handle very soon.
-- **Insulator of heat**: An insulator of heat lets heat flow through it slowly. *e.g.* Wood, plastic and wool are insulators. That is why a tawa or frying pan often has a wooden or plastic handle.
+- **Insulator of heat**: An insulator of heat lets heat flow through it slowly. *e.g.* Wood, plastic and wool are insulators. That is why a dosa tawa or frying pan often has a wooden or plastic handle.
 - **Float and sink**: A thing floats if it stays on top of water. It sinks if it goes to the bottom. Things that are less dense than water float. Dense means how much matter is packed into each bit of space. *e.g.* A cork floats. A steel nail sinks.
 - **Measure**: To measure is to find out how much, using a number and a unit. *e.g.* The card bent down by 4 centimetres. The number is 4. The unit is centimetres.
 - **Scale**: A scale puts things in order, from least to most, so we can compare them. *e.g.* The Mohs scale puts minerals in order from 1, the softest, to 10, the hardest.
@@ -96,7 +96,7 @@ Electrons are tiny charged specks inside every atom. In glass, the electrons are
 
 Cotton, paper and sponge are full of tiny gaps between fibres. Water is pulled into the gaps and climbs up through them, even against gravity. This climbing is called wicking. A plastic bag has no gaps, so water stays on top. Some leaves are waterproof in a special way. A colocasia leaf, called arbi in many kitchens, is covered in tiny wax bumps. Water cannot spread out on it, so it rolls into a ball and runs off. Scientists copied this idea to make paint and cloth that stay dry.
 - e.g. A diya wick draws oil up by wicking.
-- e.g. A clay matka is a little absorbent. Water seeps to the outside and cools the pot as it dries.
+- e.g. A clay water pot (a kooja or matka) is a little absorbent. Water seeps to the outside and cools the pot as it dries.
 - e.g. A lotus leaf and a colocasia leaf keep dust off because rolling drops carry it away.
 ### Surface tension: why water forms round drops · *defined*
 **Definition:** Surface tension is a pull between the particles at the top of water. It makes the surface act like a stretchy skin.
@@ -943,10 +943,10 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - Doctors use materials in the body, like steel and plastic joints and dental fillings. These must be strong, safe and not rust.
 
 ## Spotted around us
-- The plastic handle on a pressure cooker, and the wooden handle on a tawa.
+- The plastic handle on a pressure cooker, and the wooden handle on a dosa tawa.
 - A stone jaali screen in an old fort or mosque, with light and breeze coming through the holes.
 - A brass bell ringing in a temple, with a long, clear note.
-- A clay matka at a roadside water stall, damp on the outside.
+- A clay water pot at a roadside water stall, damp on the outside.
 - Arbi leaves in the market, where water drops roll like silver beads.
 - Glass bangles on a stall, bright and easy to break.
 - Bamboo scaffolding around a building, tied with rope.
@@ -968,7 +968,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - What property makes a towel good for drying you? What property makes it bad for a raincoat?
 - Which is harder, your fingernail or a pencil? How could you find out?
 - Can you find something in this room that is hard but not strong?
-- Why do we put a wooden handle on a pan, but not on a spoon for a cold lassi?
+- Why do we put a wooden handle on a pan, but not on a spoon for a cold glass of buttermilk?
 - If you could change one property of your school bag, what would you change?
 - What is the most see-through thing you have seen? What is the least?
 - Why is a steel ship able to float when a steel spoon sinks?
@@ -1008,7 +1008,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - In the droop test, a thin card strip dropped 3 centimetres. A paper strip dropped 9 centimetres. How many times as far did the paper drop? **3 times.**. The card dropped 3 centimetres and the paper dropped 9. 9 divided by 3 is 3. So the paper dropped 3 times as far. You can check: 3 + 3 + 3 = 9. (queues `math.division.sharing-and-grouping.L3`)
 - In the vanishing drop test, one drop took 2 seconds on paper towel and 6 on cotton cloth. It took 25 on newspaper and 70 on printer paper. Draw a bar chart. Then say which surface is the third most absorbent. **Newspaper is the third most absorbent. Here is the bar chart.**. Draw one bar for each, as tall as its number of seconds. A shorter time means a more absorbent surface. Put the times in order, from shortest to longest: 2, 6, 25, 70. The shortest is the paper towel. The next is the cotton. The third is the newspaper, at 25 seconds. (queues `math.data.bar-charts.L3`)
 - In the dry or damp test, a dry newspaper strip held 8 cups of water. A damp strip of the same newspaper held only 1 cup. Is 1 cup more or less than a quarter of 8 cups? **Less than a quarter. A quarter of 8 cups is 2 cups, and the damp strip held only 1.**. A quarter of 8 is 8 divided by 4, which is 2. You can check: 2 + 2 + 2 + 2 = 8. The damp strip held 1 cup, which is less than 2. In fact 1 cup is half of a quarter, or one eighth, of 8 cups. So the damp strip held 7 cups fewer than the dry strip. (queues `math.fractions.halves-and-quarters.L3`)
-- Aarav tested 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden? **5 sank, and 4 floaters were not wooden.**. 12 things in all, and 7 floated. 12 take away 7 leaves 5 that sank. Of the 7 floaters, 3 were wooden. 7 take away 3 leaves 4 floaters that were not wooden. You can check: 7 + 5 = 12, and 3 + 4 = 7. (queues `math.data.sorting-and-tallies.L3`)
+- Arjun tested 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden? **5 sank, and 4 floaters were not wooden.**. 12 things in all, and 7 floated. 12 take away 7 leaves 5 that sank. Of the 7 floaters, 3 were wooden. 7 take away 3 leaves 4 floaters that were not wooden. You can check: 7 + 5 = 12, and 3 + 4 = 7. (queues `math.data.sorting-and-tallies.L3`)
 - Look at the ruler in the picture. It shows how far a paper strip dropped in the droop test. Each small mark is one centimetre. What is the reading? **7 centimetres.**. The tip of the strip reaches the mark after 6 and before 8. It sits on the mark between them, which is 7. So the strip dropped 7 centimetres. (queues `math.measurement-basics.reading-scales.L3`)
 - In the Property Trumps project, the most flexible strip dropped 10 centimetres. The paper strip dropped 8 centimetres. The best one gets a score of 5. What flexible score out of 5 does the paper get? **4.**. Multiply the paper's drop by 5. 8 times 5 is 40. Then divide by the biggest drop: 40 divided by 10 is 4. So the paper scores 4 out of 5. You can check: 10 times 5 ÷ 10 is 5 for the best strip. (queues `math.division.division-facts.L3`)
 

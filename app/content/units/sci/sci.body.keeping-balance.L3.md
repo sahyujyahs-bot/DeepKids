@@ -31,7 +31,7 @@
 - **Feedback loop**: A feedback loop is a circle of steps. Something notices a change, something decides, and something acts to undo the change. Then it checks again. *e.g.* Too hot, so you sweat. You cool down, so the sweating stops.
 - **Sensor**: A sensor is something that notices a change, like heat, cold or saltiness. *e.g.* Tiny nerve endings in your skin are sensors for hot and cold.
 - **Dehydration**: Dehydration means your body has lost more water than you have drunk. *e.g.* On a long, hot bus trip with no water, you might feel tired, dizzy and have a headache.
-- **Humidity**: Humidity is how much water is already in the air. *e.g.* Mumbai in the monsoon is very humid. Wet clothes take ages to dry.
+- **Humidity**: Humidity is how much water is already in the air. *e.g.* Kochi in the monsoon is very humid. Wet clothes take ages to dry.
 - **Heatstroke**: Heatstroke is when the body gets dangerously hot and cannot cool itself down. It needs a doctor quickly. *e.g.* In a strong heatwave, people working in the sun can get heatstroke.
 - **ORS**: ORS means oral rehydration solution. It is clean water with the right amount of salt and sugar mixed in. It puts back water and salt the body has lost. *e.g.* When someone has loose motions, a doctor may say to sip ORS.
 
@@ -81,10 +81,10 @@ More than half of your body is water. Every day you lose some of it, in sweat, i
 ### Why sticky monsoon days feel hotter · *defined*
 **Definition:** Humidity is how much water is already in the air. When the air is very humid, sweat dries slowly, so it cools you less.
 
-Remember, sweat cools you only when it dries. Air can hold only so much water. In Rajasthan in May, the air is very dry, and sweat dries almost as soon as it comes out. In Chennai or Mumbai during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even at the same temperature. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.
+Remember, sweat cools you only when it dries. Air can hold only so much water. In Rajasthan in May, the air is very dry, and sweat dries almost as soon as it comes out. In Chennai or Kochi during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even at the same temperature. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.
 - e.g. Wet clothes dry fast on a dry, windy day, and slowly on a damp monsoon day.
 - e.g. You feel sticky in a crowded, closed room.
-- e.g. A desert cooler works well in Delhi in May, but poorly in Kolkata in July.
+- e.g. A desert cooler works well in Hyderabad in May, but poorly in Chennai in July.
 ### How hot is too hot for a person? · *debated*
 If the air is very hot and also very humid, sweat can hardly dry, so it stops cooling you. Then your body cannot get rid of its heat, and it heats up. This is dangerous, and it is called heatstroke. Scientists measure this danger with a 'wet-bulb' temperature, which mixes heat and humidity into one number. They agree there is a limit. They do not agree exactly where it is, and it is different for babies, old people, sick people and people working hard.
 - e.g. Heatwaves in India and Pakistan already come close to the danger limit on some days.
@@ -111,8 +111,8 @@ The usual story is that the body waits for a change, then fixes it. But the body
 ### Staying steady costs energy · *defined*
 **Definition:** A living body uses energy, all the time, to stay different from its surroundings. Without that energy, it would slowly drift to the same warmth as the room.
 
-Leave a cup of hot chai on the table. It cools down until it is the same warmth as the room. That is what non-living things do. A hot thing always gives heat to a colder thing, until they are equal. You do not drift like the chai. That is because your cells are always using food to make heat. Even sitting still, a grown-up gives off about as much heat as an old-fashioned 100 watt bulb. The physicist Erwin Schrödinger wrote about this in 1944, in a small book called What Is Life? He said living things stay ordered by taking in energy and giving out heat. So keeping your warmth steady needs food every day.
-- e.g. A cup of hot chai always cools to the room's warmth.
+Leave a tumbler of hot filter coffee on the table. It cools down until it is the same warmth as the room. That is what non-living things do. A hot thing always gives heat to a colder thing, until they are equal. You do not drift like the coffee. That is because your cells are always using food to make heat. Even sitting still, a grown-up gives off about as much heat as an old-fashioned 100 watt bulb. The physicist Erwin Schrödinger wrote about this in 1944, in a small book called What Is Life? He said living things stay ordered by taking in energy and giving out heat. So keeping your warmth steady needs food every day.
+- e.g. A tumbler of hot filter coffee always cools to the room's warmth.
 - e.g. A crowded room gets warm from all the people's body heat.
 - e.g. Food is your fuel. A child eats every day partly to keep warm.
 ### Every living thing keeps balance · *defined*
@@ -255,7 +255,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 ### g1 · Keep It Just Right (20 min)
 - **rules:** Each player puts a counter on box 5 of their dial, the green JUST RIGHT box.; Shuffle the red and blue event cards into one pile. Deal 4 body action cards to each player.; On your turn, turn over the top event card and move your counter up or down by that number.; Then you may play one body action card from your hand to move back towards 5. Say what your body is doing, out loud.; If your counter is on 5 at the end of your turn, you win a star.; At the end of every turn, pick up one new body action card. When that pile runs out, shuffle the played body cards to make a new pile.; If your counter reaches 1 or 9, you have gone too far. Miss a turn while you rest and drink water, then move back to 3 or 7.; After 15 event cards, the player with the most stars wins.
 - **Printable board: One warmth dial for each player:** A row of 9 boxes, numbered 1 to 9; 1 to 2: TOO COLD (blue); 3 to 4: chilly; 5: JUST RIGHT (green, with a smile); 6 to 7: warm; 8 to 9: TOO HOT (red)
-- **Printable cards: 20 event cards (red pushes up, blue pushes down):** Played cricket at noon: +2; Drank hot chai: +1; Wore a sweater indoors in May: +2; Sat in a closed car in the sun: +3; Ran a race: +2; Ate a big spicy lunch: +1; Danced at a wedding: +2; Got a fever: +2 (and see a doctor in real life); Stood by the cooking fire: +1; Monsoon day, very humid: +1; Jumped in a cold river: -3; Cold winter morning in Shimla: -2; Ate an ice lolly: -1; Got caught in the rain: -2; Sat under the AC: -1; Wind blew on a wet back: -2; Slept without a blanket: -1; Walked on a frosty field: -2; Drank cold water from a matka: -1; Sat still in a cold room: -1
+- **Printable cards: 20 event cards (red pushes up, blue pushes down):** Played cricket at noon: +2; Drank hot coffee: +1; Wore a sweater indoors in May: +2; Sat in a closed car in the sun: +3; Ran a race: +2; Ate a big spicy lunch: +1; Danced at a wedding: +2; Got a fever: +2 (and see a doctor in real life); Stood by the cooking fire: +1; Monsoon day, very humid: +1; Jumped in a cold river: -3; Cold winter morning in Shimla: -2; Ate an ice lolly: -1; Got caught in the rain: -2; Sat under the AC: -1; Wind blew on a wet back: -2; Slept without a blanket: -1; Walked on a frosty field: -2; Drank cold water from a matka: -1; Sat still in a cold room: -1
 - **Printable cards: 16 body action cards:** Sweat: -2; Sweat: -2; Cheeks go red, blood to the skin: -1; Cheeks go red, blood to the skin: -1; Rest in the shade: -1; Fan yourself: -1; Shiver: +2; Shiver: +2; Goosebumps: +1; Pale fingers, blood stays inside: +1; Curl up in a ball: +1; Put on a shawl: +1; Drink water: take a used Sweat card back into your hand; Drink water: take a used Sweat card back into your hand; Wild card: you choose +1 or -1; Wild card: you choose +1 or -1
 - **Printable tokens: One counter for each player's dial, and 15 'just right' stars:** ⭐
 - **s1 (3 min)**  
@@ -613,7 +613,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 9. (mcq) Why are your fingers and toes often the first to feel cold?  
    Options: The body sends less blood there in the cold, to keep the middle warm / Fingers have no blood / They are furthest from the sun / They are made of bone only  
    **Answer:** The body sends less blood there in the cold, to keep the middle warm. *Why:* In the cold, blood vessels near the skin and in the fingers squeeze narrow. The body is choosing to keep heat near the heart and brain.
-10. (write) A cup of hot chai cools to the warmth of the room. Why doesn't your body cool to the warmth of the room too?  
+10. (write) A tumbler of hot filter coffee cools to the warmth of the room. Why doesn't your body cool to the warmth of the room too?  
    **Answer:** My body keeps burning food in my cells to make heat. My brain keeps checking and fixing my warmth. The chai has nothing inside to make heat.. *Why:* Staying steady costs energy. Living things use food to keep themselves different from their surroundings.
 11. (mcq) Which machine at home works most like your body's warmth loop?  
    Options: An AC with a thermostat / A ceiling fan with no switch / A steel spoon / A pencil  
@@ -716,9 +716,9 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 14. (mcq) Why is a very humid heatwave more dangerous than a dry one at the same temperature?  
    Options: Sweat cannot dry well, so the body cannot cool itself / Humid air has no oxygen / Humid air makes you shiver / It isn't more dangerous  
    **Answer:** Sweat cannot dry well, so the body cannot cool itself. *Why:* Sweat cools only by drying. In very humid air it hardly dries, so the body heats up. Scientists are still working out exactly where the danger limit is.
-15. (mcq) A cup of hot chai cools to the warmth of the room, but you don't. Why?  
-   Options: Your body keeps using food to make heat and keep balance / You are made of clay / Chai has no water / Rooms can't change your warmth  
-   **Answer:** Your body keeps using food to make heat and keep balance. *Why:* Living things use energy all the time to stay just right. Without it, a body would drift to the room's warmth, like the chai.
+15. (mcq) A tumbler of hot filter coffee cools to the warmth of the room, but you don't. Why?  
+   Options: Your body keeps using food to make heat and keep balance / You are made of clay / Coffee has no water / Rooms can't change your warmth  
+   **Answer:** Your body keeps using food to make heat and keep balance. *Why:* Living things use energy all the time to stay just right. Without it, a body would drift to the room's warmth, like the coffee.
 
 ## Applications
 - Doctors use a thermometer to check for fever, when the body's set point has moved up.
@@ -774,7 +774,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - What does the hypothalamus do on holiday? *It still keeps checking the temperature. It never takes a day off.*
 - Why did the penguin join the huddle? *It wanted to be in the warm middle of things.*
 - What did the AC say to your body? *Hey, we both have a set point!*
-- Why was the cup of chai jealous of you? *You stay warm all day, and it goes cold in ten minutes.*
+- Why was the tumbler of filter coffee jealous of you? *You stay warm all day, and it goes cold in ten minutes.*
 - Why did the elephant flap its ears at the teacher? *It was a cool way to say hello.*
 - What did the kidneys say on a hot day? *Let's save water today.*
 - Why do honeybees fan their wings in May? *Because their hive has no AC.*
@@ -787,7 +787,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - In the sweaty tumbler test, both tumblers started at 40 degrees. After 20 minutes, the wet cloth tumbler was 31 degrees. The dry cloth tumbler was 37 degrees. How many degrees did each one cool? How many times as much did the wet one cool? **The wet one cooled 9 degrees. The dry one cooled 3 degrees. The wet one cooled 3 times as much.**. 40 take away 31 is 9. 40 take away 37 is 3. 9 divided by 3 is 3. You can check: 3 + 3 + 3 = 9. (queues `math.addition-subtraction.word-problems.L3`)
 - Look at this thermometer. It was under a child's arm in the My Steady Inside test. The scale goes up in steps of half a degree. What does it read? **37 degrees.**. The line stops at the big mark labelled 37. The small marks on either side are 36 and a half, and 37 and a half. So it reads 37 degrees, which is normal. (queues `math.temperature.reading-thermometers.L3`)
 - In My Water Diary, a child drank 5 cups on day 1, 8 cups on day 2 when they played outside, and 6 cups on day 3. Each cup holds 200 millilitres. How many cups did they drink in all? How many millilitres did they drink on day 2? **19 cups in all. 1,600 millilitres on day 2.**. 5 + 8 + 6 = 19 cups. On day 2, 8 cups of 200 millilitres each is 8 times 200, which is 1,600 millilitres. That is a little more than one and a half litres. (queues `math.multiplication.equal-groups.L3`)
-- In Keep It Just Right, your counter starts on box 5. You draw 'Played cricket at noon: +2', then 'Drank hot chai: +1'. Which box are you on? How many do you need to take away to get back to 5, and which body cards add up to that? **Box 8. You need to take away 3. Sweat (minus 2) and Red cheeks (minus 1) add up to 3.**. 5 + 2 = 7. 7 + 1 = 8. To get from 8 to 5 you need to take away 3. Sweat takes away 2, which leaves you on 6. Red cheeks take away 1 more, and that brings you to 5. In the game you play one card a turn, so it takes two turns. (queues `math.algebra.balance-and-missing-numbers.L3`)
+- In Keep It Just Right, your counter starts on box 5. You draw 'Played cricket at noon: +2', then 'Drank hot coffee: +1'. Which box are you on? How many do you need to take away to get back to 5, and which body cards add up to that? **Box 8. You need to take away 3. Sweat (minus 2) and Red cheeks (minus 1) add up to 3.**. 5 + 2 = 7. 7 + 1 = 8. To get from 8 to 5 you need to take away 3. Sweat takes away 2, which leaves you on 6. Red cheeks take away 1 more, and that brings you to 5. In the game you play one card a turn, so it takes two turns. (queues `math.algebra.balance-and-missing-numbers.L3`)
 
 ## Song
 This Body Is a Universe (sci.body.L3): Topic-level song

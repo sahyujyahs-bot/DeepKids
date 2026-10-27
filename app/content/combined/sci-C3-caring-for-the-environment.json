@@ -4,9 +4,9 @@
  "subj": "sci",
  "level": 3,
  "n": "caring-for-the-environment",
- "title": "Caring for the environment: the web that holds us",
+ "title": "Caring for the environment: food webs, soil and water",
  "source": "DeepKids Combined. Covers NIOS Class 3 'Conservation of Environment' (useful animals and their care; plant parts and uses; food chain and food web; conserving the environment and water). No textbook needed.",
- "summary": "Your child finds out how much we take from animals and plants, and asks what we give back. They look after animals safely, hunt for every part of a plant in the kitchen, watch a leaf make oxygen, and build food chains and a string food web. They learn that decomposers and scavengers close every loop, that taking away one creature can change everything (the starfish, the wolves and India's vultures), and that poison travels up a food chain. They finish by testing how roots hold soil and how much water a running tap wastes.",
+ "summary": "Your child finds out how much we take from animals and plants, and asks what we give back. They learn to care for animals safely, find every part of a plant in the kitchen, watch leaf pieces float up as they make oxygen, and build food chains and a string food web. They learn that decomposers and scavengers close every loop, that taking away one creature can change everything (the starfish, the wolves and India's vultures), and that poison travels up a food chain. They finish by testing how roots hold soil and how much water a running tap wastes.",
  "builds_on": "Class 2 rung: every living thing needs a habitat with food, water and shelter; litter rots or doesn't; reduce, reuse, recycle; the Chipko women. This rung adds food chains and webs, decomposers, balance and keystone species, pollution, and conserving soil, forests and water. In Class 5: soil erosion and soil pollution in depth, forests, the greenhouse effect, a green school, and the Earth as one shared home.",
  "goals": [
   "By the end your child can name what animals and plants give us, and say how to care for animals kindly and safely.",
@@ -96,7 +96,7 @@
      "kind": "warmup",
      "title": "What do we remember?",
      "mins": 6,
-     "do": "Recall the Class 2 rung in one quick round. Ask: 'What three things does every habitat give an animal?' (Food, water, shelter.) 'What happened to the banana peel and the plastic in the soil?' (The peel rotted; the plastic stayed.) 'Who were the Chipko women?' (Village women in the Himalayas who stopped their forest being cut.) Say: 'This time we find out how every living thing is tied to every other one.'"
+     "do": "Recall the Class 2 rung in one quick round. Ask: 'What three things does every habitat give an animal?' (Food, water, shelter.) 'What happened to the banana peel and the plastic in the soil?' (The peel rotted; the plastic stayed.) 'Who were the Chipko women?' (Village women in the Himalayas who stopped their forest being cut.) Say: 'This time we find out who eats whom, and what happens when one kind of living thing disappears.'"
     },
     {
      "kind": "read",
@@ -108,14 +108,14 @@
      "kind": "act",
      "title": "Breakfast gift sort",
      "mins": 10,
-     "do": "Do Activity a1. Look at today's breakfast and the kitchen shelf, and sort everything into three columns on paper: from animals (milk, curd, ghee, eggs, honey, wool in a shawl, leather in a belt), from plants (rice, atta, dal, fruit, tea, sugar, cotton, wood, medicines like haldi), and from neither (salt, water, steel). Count each column. Ask: 'Which column is longest?'",
+     "do": "Do Activity a1. Look at today's breakfast and the kitchen shelf, and sort everything into three columns on paper: from animals (milk, curd, ghee, eggs, honey, wool in a shawl, leather in a belt), from plants (rice, idli or dosa batter, ragi, dal, coconut, banana, coffee or tea, sugar, cotton, wood, turmeric), and from neither (salt, water, steel). Count each column. Ask: 'Which column is longest?'",
      "ref": "a1"
     },
     {
      "kind": "exp",
      "title": "Set up: the rotting bottle",
-     "mins": 7,
-     "do": "Set up Experiment e1: in a clear plastic bottle or jar, put a layer of damp soil, then a piece of bread, a slice of fruit or vegetable peel, a dry leaf and a small piece of plastic, pressed against the side so you can see them. Cover the top with a cloth and a rubber band. Ask your child to predict which will change first. Keep it in a shady place.",
+     "mins": 9,
+     "do": "Set up Experiment e1: in a clear plastic bottle or jar, put a layer of damp soil, then a piece of bread, a slice of fruit or vegetable peel, a dry leaf and a small piece of plastic, pressed against the side so you can see them. Close the lid. Ask your child to predict which will change first. Keep it in a shady place. Also sow a spoonful of methi seeds thickly in a tray of soil, and water it every day: you need its roots for the soil test on Day 7.",
      "ref": "e1"
     },
     {
@@ -128,8 +128,8 @@
    "need": [
     "the breakfast table and kitchen shelf",
     "paper",
-    "a clear bottle or jar, soil, bread, peel, a dry leaf, a piece of plastic",
-    "a cloth and a rubber band"
+    "a clear bottle or jar with a lid, soil, bread, peel, a dry leaf, a piece of plastic",
+    "a spoonful of methi seeds and a small tray of soil"
    ]
   },
   {
@@ -147,13 +147,13 @@
      "kind": "act",
      "title": "Interview an animal carer",
      "mins": 12,
-     "do": "Phone or visit someone who looks after animals: a milkman or dairy farmer, a person who feeds street dogs, a pet owner, someone at a gaushala or an animal shelter. Your child asks three questions they prepare: 'What does your animal need every day? What makes it ill? What has it taught you?' Write the answers down."
+     "do": "Phone or visit someone who looks after animals: a milkman or dairy farmer, a person who feeds street dogs, a pet owner, or someone at an animal shelter. Your child asks three questions they prepare: 'What does your animal need every day? What makes it ill? What has it taught you?' Write the answers down."
     },
     {
      "kind": "think",
      "title": "Should birds live in cages?",
      "mins": 10,
-     "do": "Have a short debate. Your child argues one side for 2 minutes, then switches and argues the other. For cages: the bird is safe from cats and gets food. Against: a bird's habitat is the whole sky; it can't fly, find a mate or choose its food. Then tell them that in India it is against the law to keep most wild Indian birds, such as parakeets and mynas, as pets. Ask: 'What would the parakeet say?'"
+     "do": "Have a short debate. Your child argues one side for 2 minutes, then switches and argues the other. For cages: the bird is safe from cats and gets food. Against: a bird's habitat is the whole sky; it can't fly, find a mate or choose its food. Then tell them that in India it is against the law to keep most wild Indian birds, such as parakeets, as pets. Ask: 'What would the parakeet say?'"
     },
     {
      "kind": "review",
@@ -176,33 +176,33 @@
   },
   {
    "n": 3,
-   "title": "Plants: parts, gifts and the oxygen factory",
-   "goal": "Find every part of a plant in the kitchen and watch a leaf give out oxygen.",
+   "title": "Plants: the parts we use, and the oxygen they make",
+   "goal": "Find every part of a plant in the kitchen and see leaf pieces give out oxygen.",
    "steps": [
     {
      "kind": "act",
      "title": "Kitchen plant-part hunt",
-     "mins": 15,
-     "do": "Hunt in the kitchen and sort what you find by which part of the plant it is: root (carrot, radish, beetroot, sweet potato), stem (potato, ginger, sugarcane, onion is a special leaf base, so argue about it!), leaf (spinach, methi, coriander, cabbage, tea), flower (cauliflower, broccoli, banana flower, saffron), fruit (mango, tomato, brinjal, lady's finger, cucumber), seed (rajma, rice, wheat, mustard, peanut). Ask: 'Why is a potato a stem and not a root?' (It has eyes, which are buds, and it grows from the stem underground.) Ask: 'What else do plants give us that we don't eat?' (Wood, cotton, rubber, paper, medicine, shade, oxygen.)"
+     "mins": 12,
+     "do": "Hunt in the kitchen and sort what you find by which part of the plant it is: root (carrot, radish, beetroot, sweet potato, tapioca), stem (potato, ginger, sugarcane), leaf (spinach, curry leaves, drumstick leaves, coriander, cabbage, tea), flower (cauliflower, banana flower), fruit (mango, tomato, brinjal, lady's finger, drumstick, coconut), seed (rice, ragi, toor dal, mustard, groundnut). An onion is a short stem with thick leaf bases wrapped around it. Ask: 'Why is a potato a stem and not a root?' (It has eyes, which are buds, and it grows from the stem underground.) Ask: 'What else do plants give us that we don't eat?' (Wood, cotton, rubber, paper, medicine, shade, oxygen.)"
     },
     {
      "kind": "exp",
      "title": "Bubbles from a leaf",
-     "mins": 15,
-     "do": "Do Experiment e2. Punch small discs from a spinach leaf with a straw, put them in a glass of water with a pinch of baking soda, and put the glass in bright sunlight. Watch for tiny bubbles on the discs over 10–15 minutes. Ask: 'What are the bubbles?' (Oxygen, made by the leaf as it makes food from sunlight, water and carbon dioxide.) Say: 'Every breath you take has oxygen that a plant or a tiny water plant made. Plants are the producers: they make food, and almost every other living thing depends on them.'",
+     "mins": 20,
+     "do": "Do Experiment e2. Cut small discs from a spinach leaf with a straw. Use a syringe to pull the air out of them, so they sink in baking soda water. Put one glass in bright sunlight and one in a dark cupboard. Ask: 'What do you think will happen to the discs in each glass?' Over 10 to 20 minutes, the discs in the sun float up one by one. Ask: 'What made them float?' (Bubbles of oxygen, made by the leaf as it makes food from sunlight, water and carbon dioxide.) Say: 'Plants are called producers because they make their own food. Almost every other living thing depends on them, and the oxygen you breathe was made by plants and by tiny algae in the sea.'",
      "ref": "e2"
     },
     {
      "kind": "ws",
      "title": "Core worksheet",
-     "mins": 10,
+     "mins": 8,
      "do": "Do Worksheet ws1: animals, plants and what they give. Read each question aloud if needed.",
      "ref": "ws1"
     }
    ],
    "need": [
     "vegetables, fruits, seeds and spices from the kitchen",
-    "a spinach leaf, a straw, a glass of water, baking soda",
+    "a spinach leaf, a straw, a plastic syringe without a needle, two glasses of water, baking soda, washing-up liquid",
     "bright sunlight",
     "worksheet ws1"
    ]
@@ -253,12 +253,12 @@
   },
   {
    "n": 5,
-   "title": "The keepers of balance",
+   "title": "When one kind of creature is taken away",
    "goal": "Find out what happens when one creature is taken away: the starfish and the vultures.",
    "steps": [
     {
      "kind": "talk",
-     "title": "The starfish who held the shore together",
+     "title": "Paine's starfish",
      "mins": 12,
      "do": "Talk about voice v1, Robert Paine. Draw the rocky shore: starfish eat mussels; mussels crowd everything else out. Ask before telling: 'What do you think happened when Paine kept pulling the starfish off?' Then tell the result and ask the voice question.",
      "ref": "v1"
@@ -280,7 +280,7 @@
      "kind": "review",
      "title": "Decomposers at work",
      "mins": 6,
-     "do": "Look closely at Experiment e1 with a magnifying glass if you have one. Ask: 'Which things are rotting? Which haven't changed? Who is doing the rotting?' (Bacteria and fungi, tiny decomposers.) Say: 'Decomposers and scavengers like vultures close the loop: they turn dead things back into soil for the plants. In nature, nothing is waste.'",
+     "do": "Look closely at Experiment e1 with a magnifying glass if you have one. Ask: 'Which things are rotting? Which haven't changed? Who is doing the rotting?' (Bacteria and fungi, tiny decomposers.) Say: 'Decomposers, and scavengers like vultures, close the loop. They turn dead things back into soil for the plants.'",
      "ref": "e1"
     }
    ],
@@ -306,14 +306,14 @@
      "kind": "act",
      "title": "The poison bead game",
      "mins": 10,
-     "do": "Do Activity a3. Put 1 bead (poison) on each of 20 small paper 'plankton'. Five 'fish' each eat 4 plankton, and collect their beads. Then one 'heron' eats all 5 fish. Count the heron's beads. (20!) Ask: 'Each plankton had only one bead. Why does the heron have so many?' (Poison builds up as it goes up the chain, because each eater eats many of the ones below.) Say: 'This is why the vultures were hurt by a medicine given to cows, and why Carson's birds laid eggs with thin shells.'",
+     "do": "Do Activity a3. Put 1 bead (poison) on each of 20 small paper 'plankton'. Five 'fish' each eat 4 plankton, and collect their beads. Then one 'heron' eats all 5 fish. Count the heron's beads. (20.) Ask: 'Each plankton had only one bead. Why does the heron have so many?' (Poison builds up as it goes up the chain, because each eater eats many of the ones below.) Say: 'This is why the vultures were hurt by a medicine given to cows, and why Carson's birds laid eggs with thin shells.'",
      "ref": "a3"
     },
     {
      "kind": "outdoor",
      "title": "Pollution spotting walk",
      "mins": 10,
-     "do": "Walk for 10 minutes and look for pollution of air (smoke from vehicles, burning rubbish, dust), water (dirty drains, foam or rubbish in a stream or pond) and soil (plastic and rubbish on the ground, spilled oil). Your child marks each on a three-column chart. Ask: 'Where does the smoke go? Where does the drain go?' (There is no away: smoke spreads into the air we all breathe; drains go to rivers.)"
+     "do": "Walk for 10 minutes and look for pollution of air (smoke from vehicles, burning rubbish, dust), water (dirty drains, foam or rubbish in a stream or pond) and soil (plastic and rubbish on the ground, spilled oil). Your child marks each on a three-column chart. Ask: 'Where does the smoke go? Where does the drain go?' (Smoke spreads into the air we all breathe. Most drains lead to a river, a lake or the sea.)"
     },
     {
      "kind": "ws",
@@ -324,7 +324,7 @@
     }
    ],
    "need": [
-    "60 small beads, buttons or rajma seeds",
+    "20 small beads, buttons or tamarind seeds",
     "20 paper squares",
     "a chart for the walk",
     "worksheet ws2"
@@ -339,12 +339,12 @@
      "kind": "exp",
      "title": "Bare soil or covered soil?",
      "mins": 15,
-     "do": "Do Experiment e3. Fill two trays or cut cartons with the same soil, tilted on a brick, with a cut opening at the low end over a cup. One tray is bare soil; the other has grass sods, sprouted seeds or a thick layer of leaves. Pour a mug of water from the same height on each like rain. Compare the water in the cups. Ask: 'Which cup is muddy? Where did that mud come from?' (The bare soil washed away: erosion. Roots and leaves hold soil and slow the rain.)",
+     "do": "Do Experiment e3. Fill two trays or cut milk cartons with the same soil. Tilt each one on a few books wrapped in a plastic bag, with a cut opening at the low end over a cup. One tray is bare soil. The other is covered with a thick layer of leaves, or has methi seeds sown in it on Day 1, which will have roots by now. Pour a mug of water slowly on each, from the same height, like rain. Compare the water in the cups. Ask: 'Which cup is muddy? Where did that mud come from?' (The bare soil washed away: erosion. Roots and leaves hold soil and slow the rain.)",
      "ref": "e3"
     },
     {
      "kind": "act",
-     "title": "Dance: the roots hold on",
+     "title": "Act it out: roots holding soil",
      "mins": 5,
      "do": "Two or three family members stand close and link arms tightly, like roots holding soil. Your child is the rain and tries gently to pull one person away. Then the 'roots' let go of each other and stand apart, and the rain pulls one away easily. Ask: 'What happens to soil when the trees are cut?'"
     },
@@ -359,19 +359,19 @@
      "kind": "exp",
      "title": "How much water does brushing take?",
      "mins": 10,
-     "do": "Do Experiment e4. Put a bucket in the washbasin. Your child brushes their teeth with the tap running the whole time; measure the water in the bucket with a mug. Then brush again (or tomorrow morning) using one mug of water with the tap off. Compare. Multiply the difference by everyone in the family, by two brushings a day, by 365 days.",
+     "do": "Do Experiment e4. Put a bucket under the bathroom tap. While your child brushes their teeth (about two minutes), let the tap run into the bucket as fast as it usually runs while brushing. Count how many mugs of water are in the bucket. Then your child brushes using just one mug of water. Ask: 'How many mugs did we save?' Multiply that by the number of people in the family, then by 2 brushings a day, then by 365 days. Use the saved water for the plants or for mopping.",
      "ref": "e4"
     }
    ],
    "need": [
-    "two trays or cartons, soil, a brick, two cups",
-    "grass sods, sprouted seeds or leaves",
+    "two trays or milk cartons, soil from a pot, a few books in a plastic bag, two cups",
+    "a thick layer of fallen leaves, or methi seeds sown on Day 1",
     "a bucket and a mug"
    ]
   },
   {
    "n": 8,
-   "title": "The web, taught back",
+   "title": "Finish the mural and teach it back",
    "goal": "Finish the food web mural, try the challenge worksheet, and teach it back.",
    "steps": [
     {
@@ -418,7 +418,7 @@
      [
       {
        "t": "sort",
-       "p": "Domestic or wild?",
+       "p": "Is each animal domestic (lives with people) or wild?",
        "items": [
         "cow",
         "tiger",
@@ -462,7 +462,7 @@
       },
       {
        "t": "mcq",
-       "p": "A street dog scratches you. What should you do first?",
+       "p": "Arjun is scratched by a street dog. What should he do first?",
        "opts": [
         "Ignore it",
         "Tell a grown-up, wash the wound with soap and running water for a long time, and see a doctor",
@@ -500,14 +500,14 @@
          "fruit"
         ],
         [
-         "rajma",
+         "groundnut",
          "seed"
         ]
        ]
       },
       {
        "t": "fill",
-       "p": "The bubbles on the spinach discs in sunlight were the gas ____.",
+       "p": "In the leaf disc test, the spinach discs in sunlight floated up because they filled with bubbles of a gas. The gas was ____.",
        "a": [
         "oxygen"
        ]
@@ -534,7 +534,7 @@
       },
       {
        "t": "write",
-       "p": "Some people say spiders are useless. What would a spider say? What does it do?",
+       "p": "Kavya says spiders are useless. What does a spider do all day? What would a spider say to Kavya?",
        "lines": 3
       }
      ]
@@ -552,7 +552,7 @@
      [
       {
        "t": "sort",
-       "p": "Who eats what?",
+       "p": "Sort the animals. Does each one eat only plants (herbivore), only animals (carnivore), or both (omnivore)?",
        "items": [
         "deer",
         "tiger",
@@ -589,7 +589,7 @@
       },
       {
        "t": "mcq",
-       "p": "Robert Paine kept removing starfish from a rocky shore. What happened?",
+       "p": "Robert Paine, a scientist, kept taking the starfish off one stretch of rocky seashore. What happened there?",
        "opts": [
         "More kinds of animals lived there",
         "Mussels took over and many other kinds disappeared",
@@ -604,7 +604,7 @@
      [
       {
        "t": "mcq",
-       "p": "In the bead game, why did the heron get the most poison?",
+       "p": "In the poison bead game, each paper plankton had one bead of poison. Why did the heron end up with the most beads?",
        "opts": [
         "It ate many fish, which each ate many plankton",
         "Herons like poison",
@@ -646,7 +646,7 @@
       },
       {
        "t": "write",
-       "p": "A farmer says, 'Snakes are pests. Kill them all.' What might happen to the rats in his fields? What would you tell him?",
+       "p": "Karthik, a farmer near Madurai, says, 'Snakes are pests. Kill them all.' What might happen to the rats in his rice fields? What would you tell him?",
        "lines": 3
       }
      ]
@@ -656,7 +656,7 @@
   {
    "id": "ws3",
    "tier": "challenge",
-   "title": "Who holds the web?",
+   "title": "Food webs and evidence",
    "day": 8,
    "sections": [
     [
@@ -664,7 +664,7 @@
      [
       {
        "t": "mcq",
-       "p": "Bare soil and covered soil got the same 'rain'. Why was the bare soil's water muddier?",
+       "p": "In the soil test, you poured the same water on a bare tray of soil and on a tray covered with leaves. Why was the water from the bare tray muddier?",
        "opts": [
         "No roots or leaves held the soil, so rain carried it away",
         "Bare soil is dirtier",
@@ -691,7 +691,7 @@
       },
       {
        "t": "mcq",
-       "p": "Scientists who studied the Yellowstone wolves…",
+       "p": "Wolves were brought back to Yellowstone, a national park in the USA. What do scientists say about how much the wolves changed the plants and rivers there?",
        "opts": [
         "all agree the wolves saved the rivers",
         "still argue about how much the wolves changed the plants and rivers",
@@ -730,7 +730,7 @@
       },
       {
        "t": "write",
-       "p": "How could you test, in your own garden or balcony, whether leaving the dead leaves on the ground helps living things? What would you count?",
+       "p": "Meenakshi lives in a flat in Chennai and has two potted plants. How could she test whether leaving dead leaves on the soil of a pot helps living things? What would she count?",
        "lines": 4
       }
      ]
@@ -751,20 +751,20 @@
     "a slice of fruit or vegetable peel",
     "a dry leaf",
     "a small piece of plastic",
-    "a cloth and a rubber band"
+    "a lid, or a plastic bag and a rubber band"
    ],
    "steps": [
     "Put a layer of damp soil in the jar.",
     "Press the bread, peel, leaf and plastic against the side so they show.",
-    "Cover with a cloth and a rubber band.",
+    "Close the lid tightly, or cover the top with a plastic bag and a rubber band.",
     "Keep it in a shady spot.",
     "Look every two days for 10 days and draw what you see.",
-    "Do not open it; throw it away sealed at the end."
+    "Do not open it. At the end, throw it away still closed."
    ],
    "predict": "Ask: 'Which will change first? Which won't change at all?'",
-   "observe": "Fuzzy mould grows on the bread and peel within days; the peel goes soft and dark; the leaf slowly breaks; the plastic stays the same.",
+   "observe": "Fuzzy mould grows on the bread and peel within a few days. The peel goes soft and dark. The dry leaf changes very little, because leaves take weeks to rot. The plastic stays exactly the same.",
    "why": "Mould is a fungus; with bacteria, it feeds on dead plant and animal matter and breaks it into simple materials that become soil. These decomposers, along with scavengers like vultures and crows, close the loop of every food web, returning what living things borrowed. They cannot digest plastic.",
-   "safety": "Keep the jar closed; don't sniff or touch the mould. Throw it away sealed and wash hands.",
+   "safety": "Keep the jar closed, and don't sniff or touch the mould. Throw it away closed and wash hands.",
    "time": "7 min + 10 days of checking"
   },
   {
@@ -775,23 +775,25 @@
    "need": [
     "a fresh spinach leaf",
     "a drinking straw",
-    "a clear glass of water",
+    "a plastic syringe without a needle (about 10 rupees at a chemist)",
+    "one drop of washing-up liquid",
+    "two clear glasses of water",
     "a pinch of baking soda",
     "bright sunlight"
    ],
    "steps": [
-    "Stir a pinch of baking soda into the water (it gives the leaf carbon dioxide).",
-    "Push the straw through the leaf to cut 8–10 small discs.",
-    "Drop the discs into the glass.",
-    "Put the glass in bright sun.",
-    "Watch for 15 minutes with a magnifying glass if you have one.",
-    "Put a second glass in a dark cupboard and compare."
+    "Stir a pinch of baking soda and one drop of washing-up liquid into each glass of water. The baking soda gives the leaf carbon dioxide.",
+    "Press the straw through the leaf to cut 20 small discs.",
+    "Take the plunger out, drop 10 discs into the syringe and put the plunger back. Suck up some baking soda water, then push out the air.",
+    "Close the tip with a finger and pull the plunger hard for a few seconds. This pulls the air out of the discs. Repeat until they sink.",
+    "Push the discs and water into one glass and put it in bright sun. Do the same with the other 10 discs and put that glass in a dark cupboard.",
+    "Count the floating discs in each glass every 5 minutes for 20 minutes."
    ],
-   "predict": "Ask: 'Will anything happen to the leaf discs? Will the dark glass be different?'",
-   "observe": "Tiny bubbles form on the discs in sunlight, and some discs may float up. Fewer or none form in the dark.",
-   "why": "In light, a leaf uses water and carbon dioxide to make sugar (its food) and gives out oxygen. This is photosynthesis. The oxygen collects as bubbles. Almost every food chain on Earth begins with this.",
+   "predict": "Ask: 'Will the sunken discs stay at the bottom? Will the dark glass be different?'",
+   "observe": "In the sun, tiny bubbles form on the discs and they float up one by one, most within 20 minutes. In the dark, the discs stay at the bottom.",
+   "why": "In light, a leaf uses water and carbon dioxide to make sugar (its food) and gives out oxygen. This is photosynthesis. The oxygen fills the spaces inside the disc, so it floats. In the dark the leaf cannot make food, so no oxygen is made. Almost every food chain on Earth begins with photosynthesis.",
    "safety": "",
-   "time": "15 min"
+   "time": "25 min"
   },
   {
    "id": "e3",
@@ -799,24 +801,24 @@
    "day": 7,
    "question": "Do plants and leaves protect soil from rain?",
    "need": [
-    "two trays or cut cartons",
-    "the same soil for both",
-    "grass sods, sprouted seeds or a thick layer of leaves",
-    "a brick",
+    "two trays or cut milk cartons",
+    "the same soil for both, from a pot or a bag of potting soil",
+    "a thick layer of fallen leaves, or methi seeds sown in the soil a week before",
+    "a few books in a plastic bag",
     "two clear cups",
     "a mug of water"
    ],
    "steps": [
     "Fill both trays with soil and cut a small opening at one end.",
-    "Cover one with grass, seedlings or leaves; leave the other bare.",
-    "Tilt both on the brick with the opening over a cup.",
+    "Cover one with leaves or methi seedlings. Leave the other bare.",
+    "Tilt both on the books with the opening over a cup.",
     "Pour one mug of water slowly from the same height on each.",
     "Compare the water collected in the cups."
    ],
    "predict": "Ask: 'Which cup will be muddier?'",
    "observe": "The bare tray's water is brown and full of soil; the covered tray's water is much clearer and there is less of it.",
    "why": "Raindrops hit bare soil hard and loosen it, and running water carries it away: erosion. Roots bind soil and leaves break the fall of the rain, so more water soaks in and less soil is lost. Good topsoil takes hundreds of years to form and can wash away in one season.",
-   "safety": "Do it outside; wash hands after.",
+   "safety": "Do it on a balcony or in the bathroom, and wash hands after.",
    "time": "15 min"
   },
   {
@@ -830,14 +832,14 @@
     "a toothbrush"
    ],
    "steps": [
-    "Put the bucket in the washbasin.",
-    "Brush with the tap running all the time.",
-    "Measure the water with the mug.",
-    "Brush again using one mug and the tap closed.",
-    "Work out the difference for the family for a year."
+    "Put the bucket under the bathroom tap.",
+    "While your child brushes, let the tap run into the bucket.",
+    "Count the mugs of water in the bucket.",
+    "Brush again using only one mug of water.",
+    "Work out how much the family would save in a year."
    ],
    "predict": "Ask: 'How many mugs will run out while you brush?'",
-   "observe": "A running tap fills many mugs in two minutes; one mug is enough to brush.",
+   "observe": "A running tap fills many mugs in two minutes. One mug is enough to brush.",
    "why": "A tap can run several litres a minute. Small habits, repeated by many people every day, add up to huge amounts of water that came from rivers and groundwater shared with every living thing.",
    "safety": "",
    "time": "10 min"
@@ -887,7 +889,7 @@
    "mins": 10,
    "need": [
     "20 paper squares",
-    "20 beads or rajma seeds"
+    "20 beads or tamarind seeds"
    ],
    "steps": [
     "Put one bead on each paper 'plankton'.",
@@ -1081,7 +1083,7 @@
    "A boy called Kishan, whose father was one of those leather workers, used to sit on the wall and watch us. He was not afraid. He gave us names. He called me Badi Amma, because I was the biggest. 'You eat so fast,' he said to me once, 'that the flies don't even get a chance.' I think that was the nicest thing anyone ever said to a vulture.",
    "Then something began to go wrong, and none of us understood it.",
    "One of my sisters sat down on a branch one morning, with her head hanging low, and did not fly. In a few days she was dead. Then another. Then a whole tree of us near the village, where we had nested for as long as anyone remembered, went silent. Each year there were fewer dots in the sky. The ones who lived laid eggs, but often no chicks hatched. I flew further and further looking for my kind, and found fewer and fewer.",
-   "Kishan noticed. He was older now, nearly twelve. 'Abba,' I heard him say, 'where have the gidh gone?'",
+   "Kishan noticed. He was older now, nearly twelve. 'Bapu,' I heard him say, 'where have the gidh gone?'",
    "Without us, the dead animals lay at the edge of the village for days, and then weeks. The smell was terrible. The flies came in clouds. And the dogs came. Stray dogs had always been around, but now there was so much food for them that they had more and more puppies. Soon there were packs of them, thin and quick and quarrelsome, at the dump and in the lanes. Kishan's little sister, Pinky, was bitten on the leg by one of them while she was carrying water. She had to have a whole set of injections in the hospital in town, against rabies, and she cried every time. She was all right in the end. But Kishan sat on the wall that evening for a long time, looking at the empty sky.",
    "It took the scientists years to find out what was killing us. They counted our nests in Bharatpur and found us vanishing. They cut open the bodies of dead vultures and found our kidneys had failed. At last they found the answer, and it was the strangest thing. It was a medicine. Farmers had begun giving their sick cows a painkiller called diclofenac, to help them stand and work when they were old or hurt. It was a kind thing to do for a cow. But when a cow died with the medicine still inside her, and we ate her, the medicine stayed inside us too. For a cow it was a little help. For a vulture, it was poison. A tiny bit, in every meal, from every carcass, and our bodies could not get rid of it.",
    "Nobody had meant to hurt us. That was the hardest part to understand. Nobody had even thought about us at all.",
@@ -1101,10 +1103,10 @@
  "ideas": [
   {
    "idea": "Everything eats and is eaten, and everything is joined.",
-   "more": "Food chains always start with plants, the producers, and end with decomposers who turn the dead back into soil. Joined together, they make a food web. Tug one strand (the string web) and everything moves."
+   "more": "Food chains always start with plants, the producers, and end with decomposers who turn the dead back into soil. Joined together, they make a food web. In the string web, lifting one card moved many others."
   },
   {
-   "idea": "In nature, nothing is waste.",
+   "idea": "In nature, dead things are not wasted.",
    "more": "Scavengers and decomposers close the loop: the rotting bottle shows mould and bacteria eating what has died. When they disappear, like India's vultures, the loop breaks and problems spread."
   },
   {

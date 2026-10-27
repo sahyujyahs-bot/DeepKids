@@ -22,7 +22,7 @@
 - **Cell**: The tiny building block every living thing is made of. Most cells are far too small to see without a microscope. *e.g.* Your body is made of about 30 trillion cells. A bacterium is just one cell.
 - **Instructions (genes)**: The plan inside every cell that says how to build and run the living thing. Parents pass copies of it to their young. *e.g.* A mango seed has mango instructions inside, so it grows a mango tree, not a coconut palm.
 - **Respiration**: How living things get energy from food. Inside cells, food joins with oxygen. This lets out energy, carbon dioxide gas and water. *e.g.* Your cells are doing respiration right now. The air you breathe out carries the carbon dioxide away.
-- **Dormant**: Alive but resting. A dormant thing's life processes slow down so much that it seems to do nothing. It wakes up when conditions are right. *e.g.* A dry rajma seed in the kitchen jar is dormant. Put it on wet cotton and it wakes.
+- **Dormant**: Alive but resting. A dormant thing's life processes slow down so much that it seems to do nothing. It wakes up when conditions are right. *e.g.* A dry karamani (cowpea) seed in the kitchen jar is dormant. Put it on wet cotton and it wakes.
 - **Germinate**: When a seed wakes up and starts to grow a root and a shoot. *e.g.* Soaked moong seeds germinate in a day or two. That is how sprouts are made.
 - **Water bear (tardigrade)**: A tiny animal with eight stubby legs, about half a millimetre long. It lives in damp moss all over the world, even on city walls. *e.g.* Water bears can dry out completely, wait for years, and wake up when water comes back.
 - **Tun**: The dry, curled-up ball a water bear turns into when its home dries out. Its life almost stops. *e.g.* A tun can be blown about by the wind, then wake up in a rain puddle.
@@ -63,7 +63,7 @@ A crystal really does grow. Hang a thread in very salty water, and as the water 
 **Definition:** Dormant means alive but resting, with life processes slowed down so much that the living thing seems to do nothing, until conditions are right to wake.
 
 A dry seed does nothing you can see. It does not grow, eat or move. It looks no more alive than a pebble. But inside it is a tiny baby plant with a store of food, wrapped in a tough coat. Its life processes have slowed down almost to a stop. This resting state is called dormancy. When the seed takes in water and is warm enough, its cells wake up. It respires faster, uses its stored food, and sends out a root. A pebble never does that, however much you water it. Scientists grew a lotus seed found in an old dry lake bed in China. It was about 1,300 years old.
-- e.g. Rajma, moong, chana and wheat in your kitchen are all dormant seeds.
+- e.g. Karamani, moong, chana and ragi in your kitchen are all dormant seeds.
 - e.g. Dried yeast in a packet is dormant too. Put it in warm sugar water and it wakes up and makes gas.
 ### Water bears: the animals that dry up and wake again · *debated*
 Water bears, also called tardigrades, are tiny animals with eight legs. They live in damp moss and lichen all over the world, from the Himalaya to the deep sea, and in moss on walls in Indian towns. When their moss dries out, they pull in their legs and curl into a dry ball called a tun. They lose almost all their water. Their life processes nearly stop. In this state they can wait for years. In 2007, scientists sent dried water bears into space, on the outside of a spacecraft. Many survived, and some later laid eggs that hatched. In 2014, scientists in Japan woke water bears that had been frozen in a clump of Antarctic moss for about 30 years. One of them later laid eggs that hatched. So is a tun alive? Scientists answer in different ways.
@@ -253,7 +253,7 @@ In the morning my father found me standing at the window.
 ## Games
 ### g1 · Alive, Not Alive, or Argue It! (20 min)
 - **rules:** Cut out the mystery cards. Shuffle them and put them face down.; Lay the 9 sign cards face up where everyone can see them.; On your turn, take the top mystery card and read it out loud.; Choose a mat: ALIVE, NOT ALIVE or ARGUE IT. Put the card on it.; Give your reason. Point to at least one sign card that helped you decide. A good reason wins one token.; Anyone who disagrees can argue back with a different sign card. A good argument also wins a token.; When the cards run out, the player with the most tokens wins. Then look at the ARGUE IT mat together.
-- **Printable cards: 20 mystery cards to cut out:** A candle flame: I eat wax, I need air, I grow and I make new flames.; A salt crystal: I grow bigger every day in salty water.; A dry rajma seed: I have sat in a jar for a year doing nothing.; A water bear: I am a tiny animal. I can dry into a ball and wake years later.; A virus: I do nothing alone. Inside a cell, I make thousands of copies of me.; A toy robot: I walk, I beep, I sense your hand. I run on batteries.; A cloud: I grow, I move, I split into little clouds.; A mule: I eat, grow and breathe, but I can't have babies.; Your hair: I grow longer every week, but cutting me doesn't hurt.; A picked mango: I was taken off the tree. I am slowly ripening.; Dried yeast in a packet: I look like sand.; A river: I flow, I carve valleys, I am full of fish.; A wooden chair: I was once a tree.; A mushroom: I have no leaves and no mouth. I eat dead wood.; Curd: I am full of tiny bacteria.; A computer program that copies itself and changes a little each time.; A hen's egg from the shop. It has no chick inside, and never will.; A lotus seed found in a dry lake bed, about 1,300 years old.; A tree stump, cut last year, with a green shoot growing from its side.; A xenobot: a tiny blob built by scientists from frog cells. It swims.
+- **Printable cards: 20 mystery cards to cut out:** A candle flame: I eat wax, I need air, I grow and I make new flames.; A salt crystal: I grow bigger every day in salty water.; A dry karamani seed: I have sat in a jar for a year doing nothing.; A water bear: I am a tiny animal. I can dry into a ball and wake years later.; A virus: I do nothing alone. Inside a cell, I make thousands of copies of me.; A toy robot: I walk, I beep, I sense your hand. I run on batteries.; A cloud: I grow, I move, I split into little clouds.; A mule: I eat, grow and breathe, but I can't have babies.; Your hair: I grow longer every week, but cutting me doesn't hurt.; A picked mango: I was taken off the tree. I am slowly ripening.; Dried yeast in a packet: I look like sand.; A river: I flow, I carve valleys, I am full of fish.; A wooden chair: I was once a tree.; A mushroom: I have no leaves and no mouth. I eat dead wood.; Curd: I am full of tiny bacteria.; A computer program that copies itself and changes a little each time.; A hen's egg from the shop. It has no chick inside, and never will.; A lotus seed found in a dry lake bed, about 1,300 years old.; A tree stump, cut last year, with a green shoot growing from its side.; A xenobot: a tiny blob built by scientists from frog cells. It swims.
 - **Printable board: Three playing mats:** ALIVE; NOT ALIVE; ARGUE IT: scientists still disagree
 - **Printable cards: 9 sign cards to keep face up:** Moves; Gets energy from food; Senses; Grows; Makes young; Gets rid of waste; Takes in food; Made of cells; Passes on instructions
 - **Printable tokens: 30 reason tokens (small paper circles):** 🔍
@@ -631,7 +631,7 @@ In the morning my father found me standing at the window.
    Options: Alive, because it senses and moves / Not alive, because it has no cells, does not grow and cannot make young / Once alive / Dormant  
    **Answer:** Not alive, because it has no cells, does not grow and cannot make young. *Why:* A robot follows instructions people wrote. It has no cells, does not take in food and cannot build a baby robot. Picking 'alive' means counting two signs and forgetting all the others.
 13. (sort) Sort these into Alive, Not alive and Once alive.  
-   **Answer:** a dry rajma seed → Alive; a candle flame → Not alive; a wooden spoon → Once alive; a salt crystal → Not alive; dried yeast → Alive; a cotton shirt → Once alive; a toy robot → Not alive; a mushroom → Alive. *Why:* The seed, yeast and mushroom are alive, even if resting. Fire, crystals and robots are not alive. Wood and cotton came from plants that were alive, so they are once alive.
+   **Answer:** a dry karamani seed → Alive; a candle flame → Not alive; a wooden spoon → Once alive; a salt crystal → Not alive; dried yeast → Alive; a cotton shirt → Once alive; a toy robot → Not alive; a mushroom → Alive. *Why:* The seed, yeast and mushroom are alive, even if resting. Fire, crystals and robots are not alive. Wood and cotton came from plants that were alive, so they are once alive.
 14. (match) Match each tricky case to the reason it is tricky.  
    **Answer:** Fire → It grows and makes new fires, but has no cells; A crystal → It grows, but only by adding on outside; A dry seed → It does nothing, but it is alive; A virus → It makes copies, but only inside a cell; A robot → It moves and senses, but has no cells. *Why:* Each tricky case passes some tests of life and fails others. That is what makes it tricky.
 15. (write) In the balloon test, only the bottles with yeast made gas. Write three sentences: what you think about dried yeast, what you saw, and why.  
@@ -774,8 +774,8 @@ In the morning my father found me standing at the window.
 - Engineers build robots that copy living things, like walking, grasping or finding their way.
 
 ## Spotted around us
-- A jar of rajma, chana or moong in your kitchen: hundreds of dormant baby plants.
-- Moong sprouts at a sabzi stall: seeds that woke up.
+- A jar of karamani, chana or moong in your kitchen: hundreds of dormant baby plants.
+- Moong sprouts at a vegetable stall: seeds that woke up.
 - Green moss on an old wall after the monsoon. Water bears may be living in it.
 - A diya flame at a festival: it moves and uses oil and air, but by the biologists' tests it is not alive.
 - Rock salt (sendha namak) at the grocer: a crystal that grew by adding on.
@@ -823,7 +823,7 @@ In the morning my father found me standing at the window.
 - Why didn't the flame pass the life test? *It had no cells, just a hot temper.*
 - What did the pebble say to the sprouting seed? *Show-off.*
 - Why did the robot go to the doctor? *It had a virus. A computer one.*
-- Which is the laziest living thing in the kitchen? *The rajma. It has been resting in that jar for months.*
+- Which is the laziest living thing in the kitchen? *The karamani. It has been resting in that jar for months.*
 - Why did the scientist put the seed on trial? *It was accused of only pretending to be dead.*
 - What do you call a crystal that tells jokes? *A salty comedian.*
 - Why did the cloud think it was alive? *It kept growing and having little clouds.*

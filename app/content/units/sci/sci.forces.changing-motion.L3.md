@@ -3,7 +3,7 @@
 
 **Summary.** Press a ball of dough and it stays flat. Squeeze a sponge and it springs back. Press a biscuit and it breaks. A force is a push or a pull. It can change a thing's shape by squashing, stretching, twisting or bending it. Forces also start, stop, speed up, slow down and turn moving things. A bouncing ball is squashed for a moment, too fast to see. Even a steel table changes shape a tiny bit when you press it. Pushes and pulls also shape your bones, trees and the Himalayas.
 
-**Intro.** *Press your thumb on a table. Did the table change shape? You can't see any change. But it did bend, a tiny bit. Scientists can show it by bouncing a laser beam off a mirror lying on the table.* Get a ball of atta dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this unit you find out why, and how even hard things change shape when they are pushed.
+**Intro.** *Press your thumb on a table. Did the table change shape? You can't see any change. But it did bend, a tiny bit. Scientists can show it by bouncing a laser beam off a mirror lying on the table.* Get a ball of chapati dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this unit you find out why, and how even hard things change shape when they are pushed.
 
 ## Learning outcomes
 0. I can say that a force can change a thing's shape, and show four ways: squashing, stretching, twisting and bending.
@@ -15,15 +15,15 @@
 6. I can explain that shapes change because atoms are pushed closer or pulled apart, and say what scientists still do not know.
 
 ## Terms
-- **Force**: A push or a pull. Forces can start or stop things, speed them up, slow them down, turn them, or change their shape. *e.g.* You push dough flat with a belan. You pull a rubber band longer.
-- **Shape**: The outline of a thing, and how it fills space. Round, flat, long and curved are all shapes. *e.g.* A ball of dough is round. A rolled roti is flat.
+- **Force**: A push or a pull. Forces can start or stop things, speed them up, slow them down, turn them, or change their shape. *e.g.* You push dough flat with a rolling pin. You pull a rubber band longer.
+- **Shape**: The outline of a thing, and how it fills space. Round, flat, long and curved are all shapes. *e.g.* A ball of dough is round. A rolled chapati is flat.
 - **Squash**: To push on something so it gets flatter or smaller. Scientists also call this compressing. *e.g.* Sitting on a cushion squashes it. Stamping on a can squashes it.
 - **Stretch**: To pull on something so it gets longer or thinner. *e.g.* Pulling a rubber band. Pulling chewing gum. Pulling a piece of dough into a long snake.
 - **Twist**: To turn one end of something one way while the other end turns the other way, or stays still. *e.g.* Wringing water out of a wet towel. Twisting a snake of dough like a rope.
 - **Bend**: To make something curve. A bend squashes one side and stretches the other side at the same time. *e.g.* A bamboo pole bends in the wind. A ruler bends when you press its middle.
 - **Material**: What a thing is made of. *e.g.* Wood, steel, rubber, clay, glass and cotton are materials.
 - **Elastic**: Springs back to its old shape when the force stops. *e.g.* A sponge, a rubber band and a tennis ball are elastic.
-- **Plastic change**: When a thing keeps its new shape after the force stops. In science, 'plastic' means 'stays changed'. It is not the stuff bottles are made of. *e.g.* Clay, atta dough and a bent paper clip keep their new shapes.
+- **Plastic change**: When a thing keeps its new shape after the force stops. In science, 'plastic' means 'stays changed'. It is not the stuff bottles are made of. *e.g.* Clay, chapati dough and a bent paper clip keep their new shapes.
 - **Brittle**: Breaks or cracks instead of bending much. *e.g.* A biscuit, a papad and glass are brittle.
 - **Crack**: A thin split in a thing. Brittle things break when a crack runs all the way across. *e.g.* A cracked tile. A cracked eggshell.
 - **Fair test**: A test where you change only one thing and keep everything else the same. Then you know what made the difference. *e.g.* Drop the same clay ball from different heights. Change only the height.
@@ -42,15 +42,15 @@
 ### Forces can change shape · *defined*
 **Definition:** A force can change a thing's shape. There are four main ways: squashing, stretching, twisting and bending.
 
-When you push or pull something, it does not just move. It also changes shape, at least a little. Pushing inwards squashes it. Pulling outwards stretches it. Turning its two ends opposite ways twists it. Pushing on its middle while its ends are held bends it. Often one action does two at once. Rolling a roti with a belan squashes the dough and stretches it wider.
-- e.g. Squash: pressing a ball of atta dough flat.
+When you push or pull something, it does not just move. It also changes shape, at least a little. Pushing inwards squashes it. Pulling outwards stretches it. Turning its two ends opposite ways twists it. Pushing on its middle while its ends are held bends it. Often one action does two at once. Rolling a chapati with a rolling pin squashes the dough and stretches it wider.
+- e.g. Squash: pressing a ball of chapati dough flat.
 - e.g. Stretch: pulling a rubber band, or chewing gum.
 - e.g. Twist: wringing out a wet towel, or opening a bottle cap.
 - e.g. Bend: a bamboo in the wind, or a ruler pressed in the middle.
 ### Keep it, spring back, or break · *defined*
 **Definition:** After a force stops, some things keep their new shape. Scientists call this a plastic change. Some spring back to their old shape. These are elastic. Some crack and break. These are brittle.
 
-Clay and dough stay squashed, so they are good for making pots and rotis. Sponges, rubber bands and balls spring back. A biscuit, a papad or glass cracks instead. The same thing can do all three. Bend a steel paper clip a little and it springs back. Bend it more and it stays bent. Bend it back and forth many times and it snaps. Springs and rubber bands are explored more in the unit 'Stretching and springs'.
+Clay and dough stay squashed, so they are good for making pots and chapatis. Sponges, rubber bands and balls spring back. A biscuit, a papad or glass cracks instead. The same thing can do all three. Bend a steel paper clip a little and it springs back. Bend it more and it stays bent. Bend it back and forth many times and it snaps. Springs and rubber bands are explored more in the unit 'Stretching and springs'.
 - e.g. A thumbprint stays in clay. That is a plastic change.
 - e.g. A squeezed sponge springs back. It is elastic.
 - e.g. A papad snaps. It is brittle.
@@ -207,7 +207,7 @@ When you press a table, your thumb squashes a little, and so does the table. The
 - *deep:* When a ball bounces, where does its movement go while it is squashed flat for a moment? (hint: A squashed sponge pushes back on your hand. Could the squashed ball be holding its movement for a moment, then giving it back?)
 - *big:* The Himalayas are still rising. Will they keep getting taller for ever? (hint: Rain, ice and rivers are wearing them down at the same time. Which do you think will win?)
 - *deep:* Is anything in the universe completely rigid, so that it never changes shape at all? (hint: Even space itself stretches when a gravitational wave passes. Can you think of anything that can't change?)
-- *big:* A potter, a goldsmith, a baker and a blacksmith all change shapes with force. Why do we call some of this 'art' and some 'work'? (hint: Who decides? Is rolling a perfect round roti an art?)
+- *big:* A potter, a goldsmith, a baker and a blacksmith all change shapes with force. Why do we call some of this 'art' and some 'work'? (hint: Who decides? Is rolling a perfect round chapati an art?)
 - *big:* Some sculptors say a statue is already hidden inside the stone. Is a shape something we make, or something we find? (hint: When you squash dough, is the new shape new, or was it always possible?)
 - *deep:* Why does dry spaghetti almost never break into just two pieces? (hint: When it first snaps, both halves spring back fast. What might that sudden spring do?)
 
@@ -270,7 +270,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 ## Games
 ### g1 · Squash, Stretch, Twist or Bend? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them face down in a pile.; On your turn, take the top card and read it out loud. Act it out with your hands.; Put the card on the mat that fits: SQUASH, STRETCH, TWIST or BEND. Some cards fit two mats. Choose one and say why.; Then everyone holds up one answer token. After the force stops, does the thing stay changed, spring back, or break?; Everyone who agrees with the right answer wins a point token. The player who placed the card wins one more for a good reason.; A TEST IT card means everyone does the test together. The first to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 action cards to cut out:** Rolling a roti with a belan; Pulling a rubber band; Wringing out a wet towel; A bamboo in a strong wind; Sitting on a cushion; Opening a bottle cap; Kneading atta dough; Plucking a sitar string; Pressing a thumb into clay; Bending a plastic ruler; Squeezing toothpaste out of the tube; A diver standing on a diving board; Twisting coconut fibres into coir rope; Stretching a hair band onto your hair; Stamping on an empty can; Snapping a papad; A cricket ball hitting the bat; Turning a tap on; A goldsmith hammering a bangle; Biting into an apple; TEST IT: squeeze a sponge, then let go. What happens?; TEST IT: bend a paper clip a little, then a lot. What happens each time?; TEST IT: twist a strip of paper with lines drawn across it. What happens to the lines?; TEST IT: press a biscuit gently between two fingers, harder and harder. What happens?
+- **Printable cards: 24 action cards to cut out:** Rolling a chapati with a rolling pin; Pulling a rubber band; Wringing out a wet towel; A bamboo in a strong wind; Sitting on a cushion; Opening a bottle cap; Kneading chapati dough; Plucking a sitar string; Pressing a thumb into clay; Bending a plastic ruler; Squeezing toothpaste out of the tube; A diver standing on a diving board; Twisting coconut fibres into coir rope; Stretching a hair band onto your hair; Stamping on an empty can; Snapping a papad; A cricket ball hitting the bat; Turning a tap on; A goldsmith hammering a bangle; Biting into an apple; TEST IT: squeeze a sponge, then let go. What happens?; TEST IT: bend a paper clip a little, then a lot. What happens each time?; TEST IT: twist a strip of paper with lines drawn across it. What happens to the lines?; TEST IT: press a biscuit gently between two fingers, harder and harder. What happens?
 - **Printable board: Four playing mats:** SQUASH; STRETCH; TWIST; BEND
 - **Printable tokens: Three answer tokens for each player, and 20 point tokens:** STAYS CHANGED; SPRINGS BACK; BREAKS; ⭐
 - **s1 (2 min)**  
@@ -287,7 +287,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent does:* 1. Take turns. Each player reads a card, acts it out and places it on a mat. 2. Everyone shows an answer token. 3. Give out point tokens.  
   *Parent says:* Show me the force with your hands first. Then put it on a mat. Now everyone, does it stay changed, spring back, or break?  
   *Child mode:* Take turns. Read your card. Act it out. Put it on a mat. Then hold up a token. Stays changed, springs back, or breaks?
-  - Note: Tricky cards: the roti is a squash and a stretch. The diving board bends, then springs back. The sitar string is stretched, and springs back. The bangle stays changed. The papad and the apple break. The can stays squashed. The bottle cap and tap twist, but do not change shape much. That is fine, a force can turn a thing too.
+  - Note: Tricky cards: the chapati is a squash and a stretch. The diving board bends, then springs back. The sitar string is stretched, and springs back. The bangle stays changed. The papad and the apple break. The can stays squashed. The bottle cap and tap twist, but do not change shape much. That is fine, a force can turn a thing too.
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess what will happen. Then let's try it.  
@@ -426,7 +426,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent says:* Squash! Stretch! Twist! Bend! Now, spring back! Now, stay like clay!  
   *Child mode:* Listen for the claps. Squash, curl up small. Stretch, reach tall. Twist your top half. Bend down.
 - **s2 (8 min)**  
-  *Parent does:* Give your child the dough. 1. Squash it flat into a roti. 2. Roll it into a long snake. 3. Stretch the snake. 4. Twist it like a rope. 5. Bend it into a horseshoe. 6. Press a thumb in to make a diya.  
+  *Parent does:* Give your child the dough. 1. Squash it flat into a chapati. 2. Roll it into a long snake. 3. Stretch the snake. 4. Twist it like a rope. 5. Bend it into a horseshoe. 6. Press a thumb in to make a diya.  
   *Parent says:* Which force did you use? Push or pull? When you stopped, did the dough stay in its new shape?  
   *Child mode:* Squash the dough flat. Roll a snake. Stretch it. Twist it. Bend it. Press your thumb in. Does it stay changed?
   - Ask: Did the dough spring back after each force? (good: No, it stayed in its new shape.; It kept the shape I made.)
@@ -435,7 +435,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent says:* Dough stays changed. Scientists call that a plastic change. The sponge springs back. That's called elastic. Which is better for making a diya?  
   *Child mode:* Squeeze a sponge. Let go. It springs back! Dough stays changed. Which one is better for making a diya?
   - Check: Dough keeps its new shape after you squash it. Scientists call this… → **A plastic change**
-  - Think: Why is it useful that roti dough stays flat after you roll it?
+  - Think: Why is it useful that chapati dough stays flat after you roll it?
 ### a2 · The Bendy Sponge and the Standing Ruler (15 min)
 - **safety:** Press gently on the ruler. A snapped ruler can have sharp edges.
 - **record:** Draw the bent sponge and its lines. Write which way the ruler bent less.
@@ -640,7 +640,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 4. (fill) When you pull a rubber band, it gets longer. This is called a ____.  
    **Answer:** ['stretch']. *Why:* Pulling outwards on something makes it longer. That is a stretch.
 5. (sort) Sort these. After the force stops, does each one stay changed or spring back?  
-   **Answer:** clay pressed with a thumb → Stays changed; a squeezed sponge → Springs back; a rolled roti → Stays changed; a stretched rubber band → Springs back; a squashed drinks can → Stays changed; a pressed cushion → Springs back. *Why:* Clay, dough and cans keep their new shapes. Sponges, rubber bands and cushions are elastic, so they spring back.
+   **Answer:** clay pressed with a thumb → Stays changed; a squeezed sponge → Springs back; a rolled chapati → Stays changed; a stretched rubber band → Springs back; a squashed drinks can → Stays changed; a pressed cushion → Springs back. *Why:* Clay, dough and cans keep their new shapes. Sponges, rubber bands and cushions are elastic, so they spring back.
 6. (mcq) A papad snaps when you bend it. A word for things that break instead of bending is…  
    Options: Elastic / Brittle / Plastic / Stretchy  
    **Answer:** Brittle. *Why:* Brittle things crack and break instead of bending. Picking 'plastic' often comes from thinking of plastic bottles. In science, plastic means 'stays changed'.
@@ -661,7 +661,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 12. (truefalse) A bouncing ball is squashed for a moment when it hits the floor.  
    **Answer:** True. *Why:* True. The floor pushes up and squashes the ball a little flatter for a tiny moment. Then the ball springs back to round, pushing on the floor, and the floor pushes it back up. The wet ball prints test shows this.
 13. (match) Match each job to the shape change it uses most.  
-   **Answer:** Rolling a roti → squash; Pulling a hair band onto your hair → stretch; Opening a bottle cap → twist; A diving board when you stand on its end → bend. *Why:* Rolling presses the dough flat. A hair band is pulled longer. A cap is turned. A diving board curves down.
+   **Answer:** Rolling a chapati → squash; Pulling a hair band onto your hair → stretch; Opening a bottle cap → twist; A diving board when you stand on its end → bend. *Why:* Rolling presses the dough flat. A hair band is pulled longer. A cap is turned. A diving board curves down.
 14. (write) Name three workers who change the shape of materials with forces. Say what each one does.  
    **Answer:** For example: a potter squashes and pulls clay into a pot. A goldsmith hammers gold into a bangle. A baker kneads and stretches dough.. *Why:* Any three correct workers, each with the force they use, are right.
 15. (draw) Draw a ball of dough before and after you squash it. Draw an arrow to show your push.  
@@ -827,7 +827,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - Sugarcane juice machines and oil presses squash and squeeze out juice and oil.
 
 ## Spotted around us
-- Rotis being rolled flat with a belan, squashed and stretched at once.
+- Chapatis being rolled flat with a rolling pin, squashed and stretched at once.
 - A sugarcane juice cart, squashing the cane between rollers.
 - Clothes being wrung out on washing day, twisted until the water runs out.
 - Bamboo scaffolding on a building, bending a little but not breaking.
@@ -848,7 +848,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 
 ## Questions to ask kids
 - You just sat on that cushion. What happened to its shape? Did it spring back?
-- Is this roti dough elastic or does it stay changed?
+- Is this chapati dough elastic or does it stay changed?
 - When you wring that cloth, which way do your hands turn?
 - That bus is turning a corner. What force is turning it?
 - Did the floor change shape when you jumped on it? How could we tell?
@@ -878,7 +878,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - Why did the ruler stand on its edge? *It didn't want to bend the rules.*
 - Why did the egg hire a bodyguard? *It was always cracking up.*
 - What did the bone say to the astronaut? *Don't forget your exercise, or I'll get weak!*
-- Why did the roti look so calm? *It was rolled out nice and flat.*
+- Why did the chapati look so calm? *It was rolled out nice and flat.*
 - What did the steel table say when you pressed it? *I bent a little, but don't tell anyone.*
 - Why was the glass window always worried? *Everyone kept saying it was going to run.*
 - What's a merry-go-round's favourite thing to say? *Hold on, I'll pull you in!*
@@ -909,7 +909,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [A sugarcane juice cart, a goldsmith's shop and a building site near you]() · place · anywhere: Watch forces squash, hammer and bend things. Ask the goldsmith how gold changes shape without breaking.
 
 ## Things to buy
-- [Modelling clay or play dough](https://www.amazon.in/s?k=modelling+clay+kids) (material): Keeps its shape after a squash, so you can measure it. Used in the clay drop test and Shape the Dough. Atta dough works too. Used in e1, a1. 
+- [Modelling clay or play dough](https://www.amazon.in/s?k=modelling+clay+kids) (material): Keeps its shape after a squash, so you can measure it. Used in the clay drop test and Shape the Dough. Chapati dough works too. Used in e1, a1. 
 - [30 cm ruler and a measuring tape](https://www.amazon.in/s?k=30+cm+ruler+and+measuring+tape) (tool): For measuring flat patches, wet prints and your height. Used in e1, e3, a2, p1. 
 - [Tennis ball (or a rubber ball)](https://www.amazon.in/s?k=tennis+ball) (tool): Bounces and leaves a wet print in the wet ball prints test. A tennis ball's fuzz holds water, so its print is clearest. Used in e3, g2. 
 - [Long kitchen sponges](https://www.amazon.in/s?k=kitchen+sponge) (material): Draw lines on one and bend it to see inside a bend. Also springs back in the drop test. Used in a2, e2. 

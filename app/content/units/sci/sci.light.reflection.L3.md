@@ -79,7 +79,7 @@ A mirror turns things round from front to back. Hold a page up to a mirror, and 
 
 The first mirrors were probably still water. About 8,000 years ago, people in Anatolia, in today's Turkey, polished a black volcanic glass called obsidian into mirrors. Later, people polished bronze and copper. In Aranmula, in Kerala, craftspeople still make mirrors of polished metal by hand, called Aranmula kannadi. In 1835 a German chemist, Justus von Liebig, found a way to coat glass with a thin layer of silver. That made bright mirrors cheap. Today most mirrors are glass coated with silver or aluminium.
 - e.g. A still bucket of water is a mirror.
-- e.g. A polished steel tumbler or thali is a mirror made of metal.
+- e.g. A polished steel tumbler or plate is a mirror made of metal.
 - e.g. An Aranmula kannadi from Kerala is a metal mirror with no glass at all.
 ### Deep down: electrons send the light back · *defined*
 **Definition:** In a metal, the light that arrives shakes the free electrons. As they shake, they send out new light. That new light is the reflection.
@@ -802,7 +802,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - The Taj Mahal, reflected upside down in its long water pool.
 - The backwards word AMBULANCE on the front of an ambulance.
 - Round convex mirrors on sharp bends of ghat roads.
-- Your face in a steel thali, a tumbler or a kitchen ladle.
+- Your face in a steel plate, a tumbler or a kitchen ladle.
 - Cat's eyes glowing in the middle of a highway at night.
 - An Aranmula kannadi, the hand-made metal mirror of Kerala.
 - A still lake or temple tank at dawn, with the sky and trees mirrored in it.
@@ -853,10 +853,10 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - What did the white wall say to the mirror? *I reflect too. I'm just not so picture-perfect.*
 
 ## Connected maths
-- In the torch-and-mirror test, Riya started the torch 5 cm, 10 cm and 15 cm to the left of the middle line. Her bounced beams landed 5 cm, 10 cm and 14 cm to the right. Which one did not match exactly, and by how much? **The 15 cm one. It landed at 14 cm, which is 1 cm short.**. 5 matches 5. 10 matches 10. 15 and 14 do not match. 15 take away 14 is 1. So it was 1 cm short. A small gap like this happens when the beam is a bit wide or the mirror leans. (queues `math.addition-subtraction.mental-strategies.L3`)
+- In the torch-and-mirror test, Kavya started the torch 5 cm, 10 cm and 15 cm to the left of the middle line. Her bounced beams landed 5 cm, 10 cm and 14 cm to the right. Which one did not match exactly, and by how much? **The 15 cm one. It landed at 14 cm, which is 1 cm short.**. 5 matches 5. 10 matches 10. 15 and 14 do not match. 15 take away 14 is 1. So it was 1 cm short. A small gap like this happens when the beam is a bit wide or the mirror leans. (queues `math.addition-subtraction.mental-strategies.L3`)
 - Two mirrors make 3 images of a toy when opened to a quarter of a circle, 5 at a sixth and 7 at an eighth. How many images will they make at a tenth of a circle? **9 images.**. Look at the pattern. 4 quarters fit in a circle, and there are 3 images. 6 sixths fit, and there are 5. 8 eighths fit, and there are 7. The images are always one less. 10 tenths fit, and 10 take away 1 is 9. (queues `math.patterns.number-patterns.L3`)
 - Arjun is 120 cm tall. To see his whole body in a mirror, he needs a mirror half his height. How tall must the mirror be? **60 cm.**. Half of 120 is 60. You can check: 60 + 60 = 120. So a 60 cm mirror, hung at the right height, shows all of Arjun, wherever he stands. (queues `math.fractions.halves-and-quarters.L3`)
-- In the mirror drawing race, Meera slipped outside the lines 9 times on try 1, 6 times on try 2 and 3 times on try 3. By how many slips did she get better each time? **3 slips each time.**. 9 take away 6 is 3. 6 take away 3 is 3. So she slipped 3 fewer times on each new try. (queues `math.addition-subtraction.word-problems.L3`)
+- In the mirror drawing race, Lakshmi slipped outside the lines 9 times on try 1, 6 times on try 2 and 3 times on try 3. By how many slips did she get better each time? **3 slips each time.**. 9 take away 6 is 3. 6 take away 3 is 3. So she slipped 3 fewer times on each new try. (queues `math.addition-subtraction.word-problems.L3`)
 - Draw a line of symmetry on each of these capital letters: A, H, M, T. Which one has two lines of symmetry? **H has two: one straight down the middle and one straight across.**. Stand a mirror down the middle of each letter. All four look the same. Now lay the mirror across the middle. Only H still looks the same. So H has two lines of symmetry. (queues `math.symmetry.line-symmetry.L2`)
 
 ## Song

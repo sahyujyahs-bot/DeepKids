@@ -27,11 +27,11 @@
 - **Stomata**: Tiny holes, mostly on the underside of a leaf. They open to let carbon dioxide in and oxygen out. One of them is called a stoma. *e.g.* The underside of one big leaf can have hundreds of thousands of stomata, each far too small to see.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see. There are only about 90 kinds in nature. *e.g.* A leaf, a cup of water and your fingernail are all made of atoms.
 - **Molecule**: A few atoms joined together. Atoms join to make molecules, the way letters join to make words. *e.g.* A molecule of water is two hydrogen atoms joined to one oxygen atom.
-- **Carbon**: A kind of atom. It is the main building block of every living thing. The black of charcoal is nearly pure carbon. *e.g.* When a roti burns black on the tawa, the black is carbon left behind.
+- **Carbon**: A kind of atom. It is the main building block of every living thing. The black of charcoal is nearly pure carbon. *e.g.* When a dosa burns black on the tawa, the black is carbon left behind.
 - **Energy**: What it takes to make something move, warm up, grow or change. Energy never disappears. It only changes from one kind into another. *e.g.* Sunlight's energy becomes food energy in a mango. When you eat it, it becomes the energy that lets you run.
 - **Photon**: A tiny packet of light. Light comes in these packets, far too small to see one at a time. *e.g.* Each second, a leaf in full sunshine is hit by billions of billions of photons.
 - **Respiration**: How living things get energy out of their food. They use oxygen to break sugar down, and give out carbon dioxide. Plants do it all day and all night, just like us. *e.g.* A sprouting seed is using its stored food by respiration. It even warms up a tiny bit.
-- **Cellulose**: The tough material that a plant's cell walls are made of. It is made by joining sugars together in a strong, stiff way. Wood, cotton and paper are mostly cellulose. *e.g.* Your cotton kurta was once sugar inside a cotton plant's leaves.
+- **Cellulose**: The tough material that a plant's cell walls are made of. It is made by joining sugars together in a strong, stiff way. Wood, cotton and paper are mostly cellulose. *e.g.* Your cotton shirt was once sugar inside a cotton plant's leaves.
 - **Food chain**: A list of who eats whom, starting from a plant. Energy passes along it, from one living thing to the next. *e.g.* Grass is eaten by a goat, and the goat is eaten by a leopard. The leopard's energy began as sunlight on the grass.
 - **Algae**: Plant-like living things that live in water and make food from sunlight. Some are as big as trees. Most are far too small to see. *e.g.* The green slime on a pond, and seaweed on a beach, are algae.
 - **Cyanobacteria**: Tiny living things, each just one cell, that make food from sunlight. They were the first living things to make oxygen by photosynthesis, billions of years ago. *e.g.* Some of the blue-green scum on a still pond is cyanobacteria.
@@ -81,7 +81,7 @@ You might guess that a leaf takes carbon dioxide, keeps the carbon and lets the 
 ### Light is energy that comes in packets · *defined*
 **Definition:** Light carries energy from the Sun. It arrives in tiny packets called photons. Chlorophyll catches photons and uses their energy to make sugar.
 
-The Sun is a giant ball of hot gas. Deep inside it, the smallest atoms, hydrogen, crash together and join into helium. This joining gives off huge amounts of energy. Some of it leaves the Sun as light. The light crosses space and reaches Earth about eight minutes later. When a photon hits a chlorophyll molecule, its energy jumps into it. The leaf passes that energy along, and uses it to split water and build sugar. So the energy in your roti is sunlight, caught by a wheat leaf and stored. When you run, you are using energy that reached a wheat field from the Sun a few months ago. A leaf is not very efficient. A field of crops stores only about 2 out of every 100 parts, often less, of the sunlight that falls on it. The rest bounces away or warms the leaf.
+The Sun is a giant ball of hot gas. Deep inside it, the smallest atoms, hydrogen, crash together and join into helium. This joining gives off huge amounts of energy. Some of it leaves the Sun as light. The light crosses space and reaches Earth about eight minutes later. When a photon hits a chlorophyll molecule, its energy jumps into it. The leaf passes that energy along, and uses it to split water and build sugar. So the energy in your idli is sunlight, caught by the leaf of a rice plant and stored. When you run, you are using energy that reached a paddy field from the Sun a few months ago. A leaf is not very efficient. A field of crops stores only about 2 out of every 100 parts, often less, of the sunlight that falls on it. The rest bounces away or warms the leaf.
 - e.g. Solar panels on a roof also catch photons, but they turn the energy into electricity instead of sugar.
 - e.g. The energy in a banana you eat today reached the banana plant from the Sun.
 ### Plants respire too, all day and all night · *defined*
@@ -204,7 +204,7 @@ The carbon in a mango was carbon dioxide in the air a few months before. Some of
 
 ## Deep and big questions
 - *deep:* If a tree is made mostly of air, why can't you see it being built? (hint: Can you see the carbon dioxide you breathe out? Things can be real and still invisible.)
-- *deep:* The energy in your breakfast came from the Sun. So are you, in a way, running on sunshine? (hint: Follow your roti back: wheat, leaf, sunlight. Where did the Sun get its energy?)
+- *deep:* The energy in your breakfast came from the Sun. So are you, in a way, running on sunshine? (hint: Follow your idli back: rice, leaf, sunlight. Where did the Sun get its energy?)
 - *deep:* When a tree burns, where does it go? (hint: Look at how little ash is left. The rest went back to where it came from.)
 - *big:* You breathe out carbon dioxide, and a tree takes it in. The tree gives out oxygen, and you breathe it in. Where does the air stop and you begin? (hint: Some of the carbon in your body was once in a leaf. Some of it may be in a leaf next year.)
 - *big:* A mango is built from air that everyone breathes out, from rain and from sunlight. So who owns it: the person who owns the land, or everyone? (hint: Think about what the mango is made of. Which of those things can anyone buy?)
@@ -216,51 +216,51 @@ The carbon in a mango was carbon dioxide in the air a few months before. Some of
 - *big:* Plants have made food from light for billions of years, and mend their own leaves every day. No machine can yet grow, mend itself and make food from light. What does that tell us about living things? (hint: Is something cleverer just because it was made by people?)
 
 ## Story: A Pinch of Soil
-*Kesarpur, Tara, Seth Govardhan, Sarla Devi and the panchayat are made up. The science is real. Nearly 400 years ago, Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, and the soil hardly changed. In a real pot, the soil can settle a little as it packs together. So a family test may not be quite as tidy as Tara's.*
+*Kalpatti, Malar, Govindan Mudalali, Saraswathi and the panchayat are made up. The science is real. Nearly 400 years ago, Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, and the soil hardly changed. In a real pot, the soil can settle a little as it packs together. So a family test may not be quite as tidy as Malar's.*
 
-In the village of Kesarpur, at the corner where Seth Govardhan's wheat field met the dusty lane, there stood a mango tree so wide that a whole wedding party could sit in its shade. Nobody alive remembered planting it. But everybody remembered its mangoes.
+In the village of Kalpatti, at the corner where Govindan Mudalali's paddy field met the dusty lane, there stood a mango tree so wide that a whole wedding party could sit in its shade. Nobody alive remembered planting it. But everybody remembered its mangoes.
 
-Every summer, the children of the lane waited under it with their mouths already watering. Ripe mangoes thudded onto the lane, and into the field, and onto the tin roof of the little house where Tara lived with her mother. Her mother swept under the tree every morning. 'A tree that feeds everybody deserves a clean floor,' she said.
+Every summer, the children of the lane waited under it with their mouths already watering. Ripe mangoes thudded onto the lane, and into the field, and onto the tin roof of the little house where Malar lived with her mother. Her mother swept under the tree every morning. 'A tree that feeds everybody deserves a clean floor,' she said.
 
-That summer, Seth Govardhan built a wall. He built it of new red bricks, right round the tree, with an iron gate and a padlock. He hung a board on the gate. It said PRIVATE.
+That summer, Govindan Mudalali, the richest man in the village, built a wall. He built it of new red bricks, right round the tree, with an iron gate and a padlock. He hung a board on the gate. It said PRIVATE.
 
 'The tree stands in my field,' he told anyone who asked. 'Its roots go deep into my soil. Every mango is made of my land. So every mango is mine.'
 
-The children stopped waiting under the tree. The mangoes fell inside the wall and were loaded into the Seth's cart for the market. Tara's mother stopped sweeping. She did not say anything about it, which was worse.
+The children stopped waiting under the tree. The mangoes fell inside the wall and were loaded into the Mudalali's cart for the market. Malar's mother stopped sweeping. She did not say anything about it, which was worse.
 
-Tara was nine, and she did not like the word PRIVATE. She liked the word made even less. Made of my land. It sat in her head like a stone in a shoe.
+Malar was nine, and she did not like the word PRIVATE. She liked the word made even less. Made of my land. It sat in her head like a stone in a shoe.
 
-At school, Kamla Didi had once drawn a leaf on the blackboard with arrows going in and out. 'Leaves make food,' she had said, 'from sunlight, water and air.' Everybody had copied it into their notebooks. Nobody had believed it, least of all Tara. Air was nothing. You could not build a mango out of nothing.
+At school, Revathi Miss had once drawn a leaf on the blackboard with arrows going in and out. 'Leaves make food,' she had said, 'from sunlight, water and air.' Everybody had copied it into their notebooks. Nobody had believed it, least of all Malar. Air was nothing. You could not build a mango out of nothing.
 
-That evening, Tara watered the tulsi in the clay pot by their door. Her mother had planted it the year Tara was born, from a seed no bigger than a mustard seed. Now it was a bush as tall as Tara's waist. Every winter her mother cut it back and gave bunches of it to the whole lane, and every spring it grew again.
+That evening, Malar watered the tulsi in the clay pot by their door. Her mother had planted it the year Malar was born, from a seed no bigger than a mustard seed. Now it was a bush as tall as Malar's waist. Every winter her mother cut it back and gave bunches of it to the whole lane, and every spring it grew again.
 
 On the inside of the pot, just above the soil, there was a scratch. Her mother had made it with a nail on the first day, so she would know when the soil sank and needed more.
 
-Tara looked at the scratch. She looked at the bush. She looked at the scratch again.
+Malar looked at the scratch. She looked at the bush. She looked at the scratch again.
 
 The soil was still on the line.
 
-Nine years of leaves. Nine winters of tulsi for the whole lane. And the soil had not gone down. Tara sat back on her heels with her mouth open. The tulsi had not been eating the soil at all.
+Nine years of leaves. Nine winters of tulsi for the whole lane. And the soil had not gone down. Malar sat back on her heels with her mouth open. The tulsi had not been eating the soil at all.
 
-The panchayat met on Thursday under the neem tree by the well. The sarpanch, Sarla Devi, was a small woman with spectacles and a fat ledger. When Tara stood up and asked to speak, some of the men laughed. Seth Govardhan laughed loudest.
+The panchayat met on Thursday under the neem tree by the well. The sarpanch, Saraswathi, was a small woman with spectacles and a fat ledger. When Malar stood up and asked to speak, some of the men laughed. Govindan Mudalali laughed loudest.
 
-'Speak, beti,' said Sarla Devi.
+'Speak, kanna,' said Saraswathi.
 
-Tara set the tulsi pot down on the mat. It was heavy, and she was out of breath from carrying it. 'Sethji says the mangoes are made of his soil,' she said. 'This tulsi is nine years old. If it was made of soil, the soil would have gone down. But look. It is still on Amma's line.'
+Malar set the tulsi pot down on the mat. It was heavy, and she was out of breath from carrying it. 'Mudalali says the mangoes are made of his soil,' she said. 'This tulsi is nine years old. If it was made of soil, the soil would have gone down. But look. It is still on Amma's line.'
 
 People leaned forward. Somebody held up a lantern. The soil sat exactly on the scratch.
 
-'Then what is it made of?' said Sarla Devi.
+'Then what is it made of?' said Saraswathi.
 
-'Water, some of it,' said Tara. 'But when Amma dries tulsi leaves for tea, the water goes, and a big heap shrinks to a tiny pinch. The pinch is still there. Kamla Didi says leaves make food out of air, in the sunlight. I didn't believe her. But it can't be the soil. So it must be the air.'
+'Water, some of it,' said Malar. 'But when Amma dries tulsi leaves for tea, the water goes, and a big heap shrinks to a tiny pinch. The pinch is still there. Revathi Miss says leaves make food out of air, in the sunlight. I didn't believe her. But it can't be the soil. So it must be the air.'
 
-'Air!' Seth Govardhan threw up his hands. 'Air is nothing! You cannot build a tree out of nothing.'
+'Air!' Govindan Mudalali threw up his hands. 'Air is nothing! You cannot build a tree out of nothing.'
 
-Tara had thought about this all night. 'When your cook burns a big log in the chulha, Sethji, where does it go? There is only a handful of ash in the morning. The rest goes up in the smoke, into the air. It goes back where it came from.' She took a breath. 'The ash is the soil part. Only a handful.'
+Malar had thought about this all night. 'When your cook burns a big log in the kitchen fire, Mudalali, where does it go? There is only a handful of ash in the morning. The rest goes up in the smoke, into the air. It goes back where it came from.' She took a breath. 'The ash is the soil part. Only a handful.'
 
-Nobody laughed now. Old Ramdin, who had burned wood in his kiln for fifty years, slowly nodded.
+Nobody laughed now. Old Muthu, who had burned wood in his kiln for fifty years, slowly nodded.
 
-Sarla Devi wrote for a long time in her ledger. Then she looked over her spectacles at the Seth. 'Govardhan. Did you buy the air above your field?'
+Saraswathi wrote for a long time in her ledger. Then she looked over her spectacles at the Mudalali. 'Govindan. Did you buy the air above your field?'
 
 'Who buys air?'
 
@@ -270,25 +270,25 @@ Sarla Devi wrote for a long time in her ledger. Then she looked over her spectac
 
 'And the rain?'
 
-'The rain falls on everyone,' said the Seth, a little more quietly.
+'The rain falls on everyone,' said the Mudalali, a little more quietly.
 
-'Then the panchayat finds,' said Sarla Devi, 'that the mango tree is made of air, which all of us breathe out, and of sunlight and rain, which belong to nobody. And of a pinch of soil.' She closed the ledger. 'The pinch is yours, Govardhan. You may keep a pinch of the mangoes.'
+'Then the panchayat finds,' said Saraswathi, 'that the mango tree is made of air, which all of us breathe out, and of sunlight and rain, which belong to nobody. And of a pinch of soil.' She closed the ledger. 'The pinch is yours, Govindan. You may keep a pinch of the mangoes.'
 
-The laughter that rolled round the well was so loud that the crows flew out of the neem tree. Even the Seth's own servants laughed. The Seth went the colour of a ripe mango himself.
+The laughter that rolled round the well was so loud that the crows flew out of the neem tree. Even the Mudalali's own servants laughed. The Mudalali went the colour of a ripe mango himself.
 
-The wall stayed. But on Saturday morning the padlock was gone, and the iron gate stood open. Tara's mother took her broom and went out to sweep.
+The wall stayed. But on Saturday morning the padlock was gone, and the iron gate stood open. Malar's mother took her broom and went out to sweep.
 
-That afternoon, Tara lay on her back under the mango tree, in the speckled shade. She breathed out slowly, all the way, until her chest was empty. Somewhere above her, a leaf in the sunlight was taking that breath and keeping it.
+That afternoon, Malar lay on her back under the mango tree, in the speckled shade. She breathed out slowly, all the way, until her chest was empty. Somewhere above her, a leaf in the sunlight was taking that breath and keeping it.
 
 Next summer, she thought, a little bit of me will be a mango.
 
-**For the parent:** For the parent: the tree is not made of soil. Tara's clue is the scratch in the tulsi pot. Years of growth, and the soil has not gone down. A plant's dry body is built mostly from carbon dioxide in the air. It is joined with water using the energy of sunlight. Only a tiny pinch is minerals from the soil. Burning shows it too: a log goes back into the air and leaves a little ash, the soil part. The story also quietly asks who owns what is made from things everyone shares.
+**For the parent:** For the parent: the tree is not made of soil. Malar's clue is the scratch in the tulsi pot. Years of growth, and the soil has not gone down. A plant's dry body is built mostly from carbon dioxide in the air. It is joined with water using the energy of sunlight. Only a tiny pinch is minerals from the soil. Burning shows it too: a log goes back into the air and leaves a little ash, the soil part. The story also quietly asks who owns what is made from things everyone shares.
 
-- Ask: Seth Govardhan said every mango was made of his land. What clue showed Tara that this was wrong?
-- Ask: Why did Tara's mother scratch a line inside the tulsi pot?
+- Ask: Govindan Mudalali said every mango was made of his land. What clue showed Malar that this was wrong?
+- Ask: Why did Malar's mother scratch a line inside the tulsi pot?
 - Ask: When a big log burns, only a little ash is left. Where did the rest go?
-- Ask: Sarla Devi said the Seth could keep a pinch of the mangoes. Why a pinch?
-- Ask: Tara breathed out under the tree. Why did she think a bit of her would become a mango?
+- Ask: Saraswathi said the Mudalali could keep a pinch of the mangoes. Why a pinch?
+- Ask: Malar breathed out under the tree. Why did she think a bit of her would become a mango?
 
 ## Games
 ### g1 · Leaf Kitchen (25 min)
@@ -668,7 +668,7 @@ Next summer, she thought, a little bit of me will be a mango.
   *Parent says:* Try one idea at a time. If we change two things together, we won't know which one worked.  
   *Child mode:* Try each idea one at a time. Time how long until all 10 float. Write each time down.
   - Note: Brighter light and a little more baking soda usually help the most. Very hot water damages the leaf, so keep it only slightly warm. Some leaves, like thick waxy ones, are hard to sink in the syringe.
-  - Check: Riya put her cup in brighter light AND added more baking soda at the same time. Her discs floated faster. What can she say? → **Something helped, but she can't tell which change did it**
+  - Check: Kavya put her cup in brighter light AND added more baking soda at the same time. Her discs floated faster. What can she say? → **Something helped, but she can't tell which change did it**
 - **s4 (5 min)**  
   *Parent does:* Compare all the times. Read the usual and creative solutions together.  
   *Parent says:* Which change helped most? Here are some other ideas. Is there one you'd like to try?  
@@ -748,7 +748,7 @@ Next summer, she thought, a little bit of me will be a mango.
 12. (mcq) Some people say the Amazon rainforest makes 20 out of every 100 parts of the world's oxygen. What is wrong with this?  
    Options: The forest's animals, fungi and microbes use up almost all the oxygen it makes / Rainforests make no oxygen at all / The Amazon is too small to matter / Oxygen only comes from the sea  
    **Answer:** The forest's animals, fungi and microbes use up almost all the oxygen it makes. *Why:* The Amazon makes huge amounts of oxygen. But almost everything living in it breathes, and rotting uses oxygen too. So it adds very little extra. Picking 'no oxygen at all' goes too far the other way. The forest is still hugely important for storing carbon and for life.
-13. (write) Tara in the story said the tulsi was not made of soil. What was her evidence?  
+13. (write) Malar in the story said the tulsi was not made of soil. What was her evidence?  
    **Answer:** The tulsi had grown for nine years, but the soil was still on the line her mother had scratched in the pot. If the tulsi were made of soil, the soil would have gone down.. *Why:* A good answer names the scratch, the nine years of growth, and what would have happened if the plant ate soil.
 14. (write) Why do you think a cactus can live in the desert with no proper leaves? Where does it make its food?  
    **Answer:** A cactus makes its food in its thick green stem, which has chlorophyll. Having no wide leaves means less water escapes. Many cacti open their tiny holes only at night, when it is cooler.. *Why:* Any green part can do photosynthesis. A good answer names the green stem and links it to saving water.
@@ -779,8 +779,8 @@ Next summer, she thought, a little bit of me will be a mango.
 9. (mcq) Why do scientists still not know why plants are green rather than black?  
    Options: There are several good ideas, and none has been proved yet / Nobody has ever asked / Plants are not really green / Black plants exist everywhere  
    **Answer:** There are several good ideas, and none has been proved yet. *Why:* Ideas include the Purple Earth idea, keeping the energy supply steady, and protection from too much light. Each has some evidence, but none is settled. Picking 'nobody has ever asked' is not right. Many scientists are working on it.
-10. (write) In the story, Sarla Devi said the Seth could keep a pinch of the mangoes. Explain the science behind her joke.  
-   **Answer:** A mango tree is built mostly from carbon dioxide in the air and water from rain, using sunlight. Only a tiny pinch comes from minerals in the soil. So if the Seth owns only the soil, he owns only a pinch of the tree.. *Why:* A good answer says what the tree is made of, and links the tiny soil part to the 'pinch'.
+10. (write) In the story, Saraswathi said the Mudalali could keep a pinch of the mangoes. Explain the science behind her joke.  
+   **Answer:** A mango tree is built mostly from carbon dioxide in the air and water from rain, using sunlight. Only a tiny pinch comes from minerals in the soil. So if the Mudalali owns only the soil, he owns only a pinch of the tree.. *Why:* A good answer says what the tree is made of, and links the tiny soil part to the 'pinch'.
 11. (mcq) Melvin Calvin won a Nobel Prize for working out how plants build sugar. Many scientists now call it the Calvin-Benson-Bassham cycle. Why?  
    Options: Andrew Benson and James Bassham did much of the work too / Calvin asked them to / It sounds better / Three cycles were found  
    **Answer:** Andrew Benson and James Bassham did much of the work too. *Why:* Benson and Bassham were key members of the team, but only Calvin got the prize. Adding their names shares the credit more fairly. Picking 'it sounds better' misses the reason, which is fairness about who did the work.
@@ -870,7 +870,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - Peepal and neem leaves turning yellow before they fall in spring.
 - Green slime on a still pond or a water tank. That is algae, making food from light.
 - A sugarcane juice cart. You are drinking sunlight stored as sugar.
-- A chulha or a bonfire, where a heap of wood burns down to a little ash.
+- A wood stove (an aduppu or chulha) or a bonfire, where a heap of wood burns down to a little ash.
 - Solar panels on a roof, catching sunlight the way leaves do, but making electricity.
 
 ## Open questions
@@ -883,7 +883,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - **What colour would plants be on a planet with a different kind of star?** Scientists, including Nancy Kiang at NASA, have worked out that plants around redder stars might look dark red or even black. Nobody has seen a plant on another planet yet.
 
 ## Questions to ask kids
-- What do you think this chapati was before it was wheat?
+- What do you think this idli was before it was rice?
 - You just breathed out. Where might that breath end up?
 - Why is the grass under that brick yellow?
 - If the soil does not feed the tree, what does the soil do?
@@ -914,7 +914,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - What do you call a tree that makes its own lunch? *Self-made.*
 - Why did the plant keep the lights on at night? *It was afraid of the dark. And hungry.*
 - What did the water say to the leaf? *Split me if you must, but keep my hydrogen safe.*
-- Why did the Seth try to buy the sky? *He heard the mangoes were made of it.*
+- Why did the Mudalali try to buy the sky? *He heard the mangoes were made of it.*
 - Why is a sugarcane field always cheerful? *It's full of sweet sunshine.*
 - What did one oxygen atom say to the other? *Let's pair up and get out of this leaf.*
 - Why were the tiny sea algae so popular? *They made half the oxygen at the party.*

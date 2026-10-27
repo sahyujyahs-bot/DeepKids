@@ -536,7 +536,7 @@
      "items": [
       "A straw in a glass of nimbu pani looks broken",
       "A fish in the pond is not where it looks",
-      "Grandpa's reading spectacles make letters clear",
+      "Thatha's reading spectacles make letters clear",
       "Your legs look short in the swimming pool",
       "A dew drop on a leaf makes its veins look big",
       "A watch-repair man's eye lens",
@@ -2467,11 +2467,11 @@
    "id": "c1",
    "title": "Read the Tiny Print",
    "mins": 25,
-   "problem": "Grandpa has lost his reading spectacles, and the medicine bottle has tiny writing. Your job is to make something that helps him read it, without using a magnifying glass or spectacles.",
+   "problem": "Thatha has lost his reading spectacles, and the medicine bottle has tiny writing. Your job is to make something that helps him read it, without using a magnifying glass or spectacles.",
    "constraints": [
     "You cannot use a magnifying glass, spectacles or a phone camera.",
     "You can only use things you find at home.",
-    "It must make the letters look clearly bigger, so Grandpa can read them."
+    "It must make the letters look clearly bigger, so Thatha can read them."
    ],
    "materials": [
     "a page of tiny print, like a medicine label or the small words on a packet",
@@ -2495,7 +2495,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Show your child the tiny print. 2. Read out the challenge and the rules.",
-     "say": "Here's a real problem. These words are too small for Grandpa to read. How could you make them look bigger, with no magnifying glass?",
+     "say": "Here's a real problem. These words are too small for Thatha to read. How could you make them look bigger, with no magnifying glass?",
      "kid": "These words are tiny. Make them look bigger. You can't use a magnifying glass. Think first.",
      "context": "This is an engineering challenge. You must make something from things at home that makes tiny print look bigger."
     },
@@ -2503,7 +2503,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Help your child test the usual ideas: a drop on plastic, a bottle of water, a marble.",
-     "say": "Let's test some ideas. Which one makes the letters biggest? Which is easiest for Grandpa to use?",
+     "say": "Let's test some ideas. Which one makes the letters biggest? Which is easiest for Thatha to use?",
      "kid": "Test a water drop, a bottle and a marble. Which makes letters biggest? Which is easiest to hold?"
     },
     {
@@ -2527,9 +2527,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child which design they would give to Grandpa, and why.",
-     "say": "Which design would you give Grandpa? Tell me why, using the word bend.",
-     "kid": "Which design would you give Grandpa? Say why. Use the word 'bend'."
+     "do": "Ask your child which design they would give to Thatha, and why.",
+     "say": "Which design would you give Thatha? Tell me why, using the word bend.",
+     "kid": "Which design would you give Thatha? Say why. Use the word 'bend'."
     }
    ],
    "context": "This is a design challenge. With no magnifying glass, you make something from home that helps someone read tiny print.",
@@ -2841,7 +2841,7 @@
  ],
  "spotted": [
   {
-   "text": "A straw in a glass of nimbu pani or lassi, broken at the top of the drink.",
+   "text": "A straw in a glass of lemon juice or buttermilk, broken at the top of the drink.",
    "art": "A straw in a glass of lemonade, looking snapped at the surface."
   },
   {
@@ -2906,7 +2906,7 @@
  "ask_kids": [
   "Look at your glass of water at dinner. Can you find something that looks bent or big through it?",
   "Is a fish in an aquarium or a river really where it looks?",
-  "Why do you think Grandpa's reading glasses make words look big?",
+  "Why do you think Thatha's reading glasses make words look big?",
   "If you were a kingfisher, where would you dive from?",
   "Which is stronger: a tiny drop or a big drop?",
   "Can you make a word flip with a water bottle?",
@@ -2950,7 +2950,7 @@
    "a": "A magnifunny glass."
   },
   {
-   "j": "Why did the straw in the lassi feel fine?",
+   "j": "Why did the straw in the buttermilk feel fine?",
    "a": "It only looked broken. Inside, it was straight."
   },
   {
@@ -2992,7 +2992,7 @@
  ],
  "maths": [
   {
-   "problem": "In the water-drop test, Riya looked at a newspaper letter 2 millimetres tall. Through the tiny drop, it looked as tall as 4 millimetres on the ruler beside it. How many times taller did the drop make the letter look?",
+   "problem": "In the water-drop test, Kavya looked at a newspaper letter 2 millimetres tall. Through the tiny drop, it looked as tall as 4 millimetres on the ruler beside it. How many times taller did the drop make the letter look?",
    "answer": "2 times taller.",
    "explain": "The letter is really 2 millimetres tall. Through the drop, it looked 4 millimetres tall. 4 divided by 2 is 2. So the drop made the letter look 2 times taller. You can check: 2 + 2 = 4. The letter itself is still 2 millimetres tall.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -3051,7 +3051,7 @@
    "why_maths": "Fractions let us work out how much the water fools our eyes, which can keep us safe."
   },
   {
-   "problem": "In Spear the Coin, Riya hit the coin 1 time out of 5 when she aimed at the coin's picture. After she learned to look from straight above, she hit it 4 times out of 5. How many more hits did she get?",
+   "problem": "In Spear the Coin, Kavya hit the coin 1 time out of 5 when she aimed at the coin's picture. After she learned to look from straight above, she hit it 4 times out of 5. How many more hits did she get?",
    "answer": "3 more hits.",
    "explain": "She got 4 hits the second time and 1 hit the first time. 4 take away 1 is 3. So she got 3 more hits, out of the same 5 tries.",
    "math_unit": "math.addition-subtraction.word-problems.L3",

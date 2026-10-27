@@ -520,7 +520,7 @@ The old man nodded, as if this was the most ordinary thing in the world. Then he
   - Check: The wilted coriander stood in water for an hour and became crisp again. Why? → **Water went up the stems and filled the cells, so they pushed against each other and stood firm**
 - **s4 (3 min)**  
   *Parent does:* Talk about how flower and vegetable sellers keep things fresh.  
-  *Parent says:* Next time we go to the sabzi market, look at how sellers keep greens fresh. Do they sprinkle water? Keep them in the shade? Stand them in buckets?  
+  *Parent says:* Next time we go to the vegetable market, look at how sellers keep greens fresh. Do they sprinkle water? Keep them in the shade? Stand them in buckets?  
   *Child mode:* At the market, look at how sellers keep greens fresh. Water? Shade? Buckets?
   - Think: A plant in soil can wilt at noon and stand up again in the evening. What changes between noon and evening?
 ### a4 · Bubbles from a Leaf: find the hidden holes (15 min)
@@ -932,7 +932,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [Acharya Jagadish Chandra Bose Indian Botanic Garden](https://bsi.gov.in/) · place · Howrah, near Kolkata: Home of the Great Banyan, a tree over 250 years old. Its hanging roots became hundreds of trunks, each one carrying water up. The garden is looked after by the Botanical Survey of India.
 - [Bose Institute and Acharya Bhavan museum](https://www.jcbose.ac.in/) · place · Kolkata: The research institute Jagadish Chandra Bose founded in 1917. His house, Acharya Bhavan, is a museum with some of the instruments he built to study plants.
 - [Lalbagh Botanical Garden]() · place · Bengaluru: A huge old garden full of tall trees from around the world. Feel how much cooler it is under the trees on a hot day.
-- [A flower market near you]() · place · anywhere, for example Mullick Ghat in Kolkata or Dadar in Mumbai: Watch how sellers keep flowers fresh: buckets, fresh cuts and sprays. Ask them why.
+- [A flower market near you]() · place · anywhere, for example Mattuthavani in Madurai, KR Market in Bengaluru or Mullick Ghat in Kolkata: Watch how sellers keep flowers fresh: buckets, fresh cuts and sprays. Ask them why.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits and a science park. Look for exhibits about plants, water and life.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Its biotechnology and science galleries go well with a visit to Lalbagh nearby.
 - [A big tree in your neighbourhood]() · place · anywhere: Choose one big tree. Visit it on a hot afternoon and a cool morning. Feel the shade, look at the leaves, and imagine the water climbing inside.

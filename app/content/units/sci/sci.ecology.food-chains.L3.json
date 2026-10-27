@@ -44,7 +44,7 @@
    "term": "Consumer",
    "meaning": "A living thing that cannot make its own food, so it eats other living things.",
    "example": "A cow, a frog, a crow and you are all consumers.",
-   "art": "A cow eating grass, a frog catching a fly, and a child eating a roti."
+   "art": "A cow eating grass, a frog catching a fly, and a child eating a chapati."
   },
   {
    "term": "Herbivore",
@@ -62,7 +62,7 @@
    "term": "Omnivore",
    "meaning": "An animal that eats both plants and animals.",
    "example": "Crows, sloth bears, monkeys, hens and most people are omnivores.",
-   "art": "A crow with a piece of roti in its beak and a worm at its feet."
+   "art": "A crow with a piece of chapati in its beak and a worm at its feet."
   },
   {
    "term": "Predator",
@@ -145,7 +145,7 @@
   {
    "term": "Fair test",
    "meaning": "A test where you change only one thing and keep everything else the same. Then you know what made the difference.",
-   "example": "Put sugar, salt and roti the same distance from the ants, at the same time.",
+   "example": "Put sugar, salt and chapati the same distance from the ants, at the same time.",
    "art": "Four small paper squares in a row on a floor, each with a different food, an ant trail nearby."
   }
  ],
@@ -184,7 +184,7 @@
    "definition": "A food web is many food chains joined together. It shows everything that eats, and is eaten by, each living thing in one place.",
    "description": "Real animals rarely eat just one thing. A frog eats grasshoppers, flies, spiders and beetles. A frog is eaten by snakes, herons, owls and even big fish. Draw all of these arrows and the chains cross and join, like threads in a fishing net. That net is a food web. Webs are useful because they show something chains hide. If one food runs out, an animal can often switch to another. A web with many threads is harder to break than a single chain. Real webs are huge. Some scientists count every link, even parasites, the tiny worms and other creatures that live inside animals. Counted this way, one lake or marsh can have thousands of arrows.",
    "examples": [
-    "A crow eats roti, insects, frogs, eggs and dead animals. It shows up in many chains at once.",
+    "A crow eats chapati, insects, frogs, eggs and dead animals. It shows up in many chains at once.",
     "If a garden has fewer caterpillars one year, a bulbul can eat more fruit and spiders instead."
    ],
    "perspectives": [],
@@ -1159,16 +1159,16 @@
     },
     {
      "t": "mcq",
-     "p": "Look at the chart. Ants came most to the sugar and the roti, and not to the salt. Why?",
+     "p": "Look at the chart. Ants came most to the sugar and the chapati, and not to the salt. Why?",
      "opts": [
-      "Sugar and roti came from plants and carry food energy. Salt has none.",
+      "Sugar and chapati came from plants and carry food energy. Salt has none.",
       "Ants cannot see salt",
       "Salt is too heavy for ants",
       "Ants only like white things"
      ],
      "a": 0,
-     "why": "Sugar comes from sugarcane and roti from wheat. Both carry energy a plant made from sunlight. Salt comes from the sea or rocks and gives no energy. Picking 'only like white things' cannot be right: salt is white too, and the ants ignored it.",
-     "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of roti, and one with nothing. Then you count the ants on each.",
+     "why": "Sugar comes from sugarcane and chapati from wheat. Both carry energy a plant made from sunlight. Salt comes from the sea or rocks and gives no energy. Picking 'only like white things' cannot be right: salt is white too, and the ants ignored it.",
+     "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of chapati, and one with nothing. Then you count the ants on each.",
      "chart": {
       "type": "bar",
       "title": "Ants on each square after 30 minutes (made-up results)",
@@ -1181,7 +1181,7 @@
         "emoji": "🍬"
        },
        {
-        "label": "Roti",
+        "label": "Chapati",
         "value": 7,
         "emoji": "🫓"
        },
@@ -1210,7 +1210,7 @@
      ],
      "a": 0,
      "why": "The empty square shows how many ants arrive by accident. If the sugar square has many more than the empty one, we know the sugar attracted them. Picking 'to give the ants a rest' is a kind idea, but it would not help us learn anything.",
-     "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of roti, and one with nothing. Then you count the ants on each.",
+     "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of chapati, and one with nothing. Then you count the ants on each.",
      "how": "e1"
     },
     {
@@ -1702,10 +1702,10 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "Sugar, Salt or Roti? What do ants choose?",
+   "title": "Sugar, Salt or Chapati? What do ants choose?",
    "mins": 45,
    "days": 1,
-   "question": "Which food do ants come to most: sugar, salt, roti or nothing at all?",
+   "question": "Which food do ants come to most: sugar, salt, chapati or nothing at all?",
    "predict": "Before you start, guess. Which square will have the most ants after 30 minutes? Which will have none? Why do you think so? Write your guess and your reason down.",
    "fair_test": "To make it fair, change only the food. Use the same size of paper square, the same amount of each food, the same distance from the ants, and the same start time. One square has no food at all, so you can see how many ants wander onto a square by chance. Count all four squares at the same moment.",
    "results_table": [
@@ -1720,7 +1720,7 @@
      "qty": 4
     },
     {
-     "item": "half a teaspoon of sugar, half a teaspoon of salt, and a piece of roti or bread the size of your thumbnail",
+     "item": "half a teaspoon of sugar, half a teaspoon of salt, and a piece of chapati or bread the size of your thumbnail",
      "qty": 1
     },
     {
@@ -1750,16 +1750,16 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Show your child the sugar, salt and roti. 2. Ask which one ants will choose, and why. 3. Write the guess down.",
+     "do": "1. Show your child the sugar, salt and chapati. 2. Ask which one ants will choose, and why. 3. Write the guess down.",
      "say": "Ants are consumers. They can't make their own food, so they go looking for it. Which of these do you think they will go to most? Which will they ignore?",
-     "kid": "Ants can't make their own food. They must find it. Will they go to the sugar, the salt or the roti? Write your guess.",
+     "kid": "Ants can't make their own food. They must find it. Will they go to the sugar, the salt or the chapati? Write your guess.",
      "ask": [
       {
        "q": "Why did you choose that one?",
        "good": [
         "Ants like sweet things.",
         "I have seen ants on sugar.",
-        "Roti is food, but salt is not really food."
+        "Chapati is food, but salt is not really food."
        ]
       }
      ],
@@ -1768,9 +1768,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Find a place where you have seen ants. 2. Lay the 4 squares in a row, about one hand-width apart and about two hand-widths from the ants' path. 3. Put sugar on one, salt on the next, roti on the third, and nothing on the fourth. 4. Note the time.",
+     "do": "1. Find a place where you have seen ants. 2. Lay the 4 squares in a row, about one hand-width apart and about two hand-widths from the ants' path. 3. Put sugar on one, salt on the next, chapati on the third, and nothing on the fourth. 4. Note the time.",
      "say": "Let's put them all the same distance from the ants. This empty square tells us how many ants walk onto a square just by chance.",
-     "kid": "Lay 4 squares in a row, one hand apart. Put sugar, salt and roti on three. Leave one empty. Note the time.",
+     "kid": "Lay 4 squares in a row, one hand apart. Put sugar, salt and chapati on three. Leave one empty. Note the time.",
      "parent": "If you have not seen ants anywhere, leave a pinch of sugar in a balcony corner or by the kitchen door the evening before. Ants usually find it by morning, and then you know where to set up. You can also try the base of a tree, a crack near the kitchen door, or a balcony corner. Ants are busiest in warm weather and in the late afternoon. In the cold months there may be fewer.",
      "adult": true
     },
@@ -1780,7 +1780,7 @@
      "do": "1. After 10 minutes, count the ants on each square and write the numbers down. 2. Count again at 20 minutes and at 30 minutes. 3. In between, read the story or play a game nearby.",
      "say": "Time to count. Count only the ants that are on the paper. If there are too many, count the ones touching the food.",
      "kid": "After 10 minutes, count the ants on each square. Write the numbers. Count again at 20 and 30 minutes.",
-     "parent": "Usually the sugar square fills up with ants, and the roti gets some. The salt and empty squares get almost none. Sometimes no ants come at all in 15 minutes. Then move the squares closer to a trail you can see, and start the clock again. If ants come to every square equally, they may just be crossing. Then count only the ants that stop at the food. Now and then a few ants visit the salt. Ants need a little salt, as we do, but salt gives them no energy. Some tiny ants also love oily or meaty crumbs. That is a real result: those ants are omnivores.",
+     "parent": "Usually the sugar square fills up with ants, and the chapati gets some. The salt and empty squares get almost none. Sometimes no ants come at all in 15 minutes. Then move the squares closer to a trail you can see, and start the clock again. If ants come to every square equally, they may just be crossing. Then count only the ants that stop at the food. Now and then a few ants visit the salt. Ants need a little salt, as we do, but salt gives them no energy. Some tiny ants also love oily or meaty crumbs. That is a real result: those ants are omnivores.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1798,7 +1798,7 @@
         "23"
        ],
        [
-        "Roti",
+        "Chapati",
         "1",
         "4",
         "7"
@@ -1826,14 +1826,14 @@
      "kid": "Draw one bar for each square. Make it as tall as the number of ants at 30 minutes.",
      "check": {
       "t": "mcq",
-      "q": "Ants came to the sugar and the roti, but not to the salt. What do sugar and roti have in common?",
+      "q": "Ants came to the sugar and the chapati, but not to the salt. What do sugar and chapati have in common?",
       "options": [
        "Both were made by plants",
        "Both are white",
        "Both are salty"
       ],
       "a": 0,
-      "why": "Sugar is made from sugarcane, a plant. Roti is made from wheat, a plant. So both carry food energy that a plant made from sunlight. Salt comes from the sea or from rocks. It was never made by a living thing, so it gives ants no energy. Picking 'both are white' does not fit: roti is not white, and salt is white too, yet the ants left the salt alone."
+      "why": "Sugar is made from sugarcane, a plant. Chapati is made from wheat, a plant. So both carry food energy that a plant made from sunlight. Salt comes from the sea or from rocks. It was never made by a living thing, so it gives ants no energy. Picking 'both are white' does not fit: chapati is not white, and salt is white too, yet the ants left the salt alone."
      },
      "chart": {
       "type": "bar",
@@ -1848,7 +1848,7 @@
         "emoji": "🍬"
        },
        {
-        "label": "Roti",
+        "label": "Chapati",
         "value": 7,
         "emoji": "🫓"
        },
@@ -1871,10 +1871,10 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Now say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: ants choose food that came from plants, most of all sugar. What I saw: 23 ants on the sugar and 7 on the roti after 30 minutes, but none on the salt. Why: sugar and roti carry energy that plants made from sunlight, and salt has no energy for ants. So the ants are part of a food chain: sugarcane → ant."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: ants choose food that came from plants, most of all sugar. What I saw: 23 ants on the sugar and 7 on the chapati after 30 minutes, but none on the salt. Why: sugar and chapati carry energy that plants made from sunlight, and salt has no energy for ants. So the ants are part of a food chain: sugarcane → ant."
     }
    ],
-   "context": "In this experiment, you put sugar, salt, roti and an empty square near some ants, and count which one they come to. It shows that ants, like all consumers, need food first made by a plant.",
+   "context": "In this experiment, you put sugar, salt, chapati and an empty square near some ants, and count which one they come to. It shows that ants, like all consumers, need food first made by a plant.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: ants on each square after 30 minutes",
@@ -1888,7 +1888,7 @@
       "emoji": "🍬"
      },
      {
-      "label": "Roti",
+      "label": "Chapati",
       "value": 7,
       "emoji": "🫓"
      },
@@ -1906,15 +1906,15 @@
    },
    "setup": [
     {
-     "art": "Four matchbox-sized paper squares in a row on a floor tile near a line of small ants: one with sugar, one with salt, one with a piece of roti, one empty.",
-     "caption": "1. Lay four squares near the ants: sugar, salt, roti and nothing."
+     "art": "Four matchbox-sized paper squares in a row on a floor tile near a line of small ants: one with sugar, one with salt, one with a piece of chapati, one empty.",
+     "caption": "1. Lay four squares near the ants: sugar, salt, chapati and nothing."
     },
     {
      "art": "A child sitting on the floor with a clock beside them, watching ants walking towards the squares.",
      "caption": "2. Wait 10 minutes. Then count the ants on each square."
     },
     {
-     "art": "The sugar square covered in ants, the roti square with a few, the salt and empty squares bare, and a child writing numbers in a table.",
+     "art": "The sugar square covered in ants, the chapati square with a few, the salt and empty squares bare, and a child writing numbers in a table.",
      "caption": "3. Count again at 20 and 30 minutes. Write the numbers down."
     }
    ]
@@ -2849,7 +2849,7 @@
        "The crow is a producer"
       ],
       "a": 0,
-      "why": "Each arrow is one 'is eaten by' link. A crow eats insects, roti, fruit, frogs, eggs and dead animals, so it has many arrows. Omnivores often have the most. Picking 'the biggest' mixes up size with links. A cow is bigger than a crow, but eats only plants, so it has fewer arrows."
+      "why": "Each arrow is one 'is eaten by' link. A crow eats insects, chapati, fruit, frogs, eggs and dead animals, so it has many arrows. Omnivores often have the most. Picking 'the biggest' mixes up size with links. A cow is bigger than a crow, but eats only plants, so it has fewer arrows."
      },
      "think": "Where did you put yourself on the web? What do you eat that came from your street?"
     }
@@ -3103,14 +3103,14 @@
   },
   {
    "t": "mcq",
-   "p": "A crow eats roti, insects, fruit and dead animals. What is the crow?",
+   "p": "A crow eats chapati, insects, fruit and dead animals. What is the crow?",
    "opts": [
     "An omnivore",
     "A herbivore",
     "A producer"
    ],
    "a": 0,
-   "why": "An omnivore eats both plants and animals. Picking 'herbivore' means the roti and fruit were counted, but not the insects and dead animals.",
+   "why": "An omnivore eats both plants and animals. Picking 'herbivore' means the chapati and fruit were counted, but not the insects and dead animals.",
    "outcome": 1
   },
   {
@@ -3216,7 +3216,7 @@
    "a": 0,
    "why": "The empty square is for comparing. It had 1 ant, while the sugar had 23. So the sugar really attracted the ants. Picking 'the test went wrong' misses why we added the empty square on purpose.",
    "outcome": 4,
-   "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of roti, and one with nothing. Then you count the ants on each.",
+   "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of chapati, and one with nothing. Then you count the ants on each.",
    "chart": {
     "type": "bar",
     "title": "Ants on each square after 30 minutes (made-up results)",
@@ -3229,7 +3229,7 @@
       "emoji": "🍬"
      },
      {
-      "label": "Roti",
+      "label": "Chapati",
       "value": 7,
       "emoji": "🫓"
      },
@@ -3582,11 +3582,11 @@
    "why_maths": "Multiplying one meal a week by 52 weeks turns 'tigers eat a lot' into a real number. That number tells us how big a forest a tiger needs."
   },
   {
-   "problem": "In the ant test, these are the ants counted after 30 minutes: sugar 23, roti 7, salt 0, nothing 1. Draw a bar chart. How many more ants came to the sugar than to the roti? How many ants were there altogether?",
+   "problem": "In the ant test, these are the ants counted after 30 minutes: sugar 23, chapati 7, salt 0, nothing 1. Draw a bar chart. How many more ants came to the sugar than to the chapati? How many ants were there altogether?",
    "answer": "16 more ants came to the sugar. There were 31 ants altogether. Here is the bar chart.",
    "explain": "Draw one bar for each square, as tall as its number. To find how many more: 23 take away 7 is 16. To find the total: 23 + 7 + 0 + 1 = 31.",
    "math_unit": "math.data.bar-charts.L3",
-   "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of roti, and one with nothing. Then you count the ants on each.",
+   "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of chapati, and one with nothing. Then you count the ants on each.",
    "answer_chart": {
     "type": "bar",
     "title": "Ants on each square after 30 minutes (made-up results)",
@@ -3599,7 +3599,7 @@
       "emoji": "🍬"
      },
      {
-      "label": "Roti",
+      "label": "Chapati",
       "value": 7,
       "emoji": "🫓"
      },

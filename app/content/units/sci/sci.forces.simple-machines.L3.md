@@ -23,7 +23,7 @@
 - **Lever**: A stiff bar that turns on one point, called the fulcrum. You push on one part of the bar, and another part moves the load. *e.g.* A see-saw, a spoon opening a tin, and a hand pump are levers.
 - **Fulcrum**: The point a lever turns on. It is also called the pivot. *e.g.* The middle post of a see-saw is its fulcrum. The screw in a pair of scissors is a fulcrum.
 - **See-saw**: A long plank with a fulcrum in the middle. One side goes up when the other goes down. It is a lever. *e.g.* The see-saw in the park.
-- **Balance**: When the turning effect on one side of a fulcrum is just as strong as on the other side, so nothing tips. *e.g.* A sabzi seller's weighing scale balances when the vegetables weigh the same as the weights.
+- **Balance**: When the turning effect on one side of a fulcrum is just as strong as on the other side, so nothing tips. *e.g.* A vegetable seller's weighing scale balances when the vegetables weigh the same as the weights.
 - **Turning effect**: How strongly a force makes something turn round a fulcrum. It depends on how big the force is and how far it is from the fulcrum. Older children call it a moment, or torque. *e.g.* Pushing a door near its handle turns it easily. Pushing near the hinge hardly turns it at all.
 - **Inclined plane (ramp)**: A flat, sloping surface that joins a low place to a high place. Its everyday name is a ramp. Pushing a load up a long ramp takes less force than lifting it straight up. *e.g.* The slope at a railway station for trolleys and wheelchairs.
 - **Wheel**: A round disc that turns on its middle. *e.g.* Bicycle wheels, the wheels of a bullock cart, and a potter's wheel.
@@ -58,7 +58,7 @@ Think of a spoon opening a tin of ghee. The rim of the tin is the fulcrum. The l
 
 On a see-saw, the heavier person does not always go down. Distance matters too. A weight far from the fulcrum turns the plank more than the same weight close in. So a child can balance a grown-up who is twice as heavy, by sitting twice as far from the middle. Look at the chart. Two coins sit 5 cm from the pencil, and 2 times 5 is 10. One coin sits 10 cm away, and 1 times 10 is 10. Both sides make 10, so the ruler balances. Archimedes wrote this rule down about 2,200 years ago.
 - e.g. A heavy grown-up sits close to the middle of a see-saw. A small child sits at the far end. They balance.
-- e.g. A sabzi seller's tarazu has two pans the same distance from the middle. So it balances when both pans weigh the same.
+- e.g. A vegetable seller's tarazu has two pans the same distance from the middle. So it balances when both pans weigh the same.
 - e.g. One coin 10 cm from a pencil balances two coins 5 cm from it.
 ### No free gifts: a smaller push goes a longer way · *defined*
 **Definition:** A machine can make a push smaller, but then the push must travel a longer distance. Push times distance stays the same, or a little more because of friction.
@@ -683,7 +683,7 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** 10 cm from the pencil. *Why:* 2 coins times 5 cm is 10. 1 coin times 10 cm is also 10. So the one coin goes 10 cm away. Picking 5 cm means only the place is matched, not the weight. A child who picks 'can't balance' thinks fewer coins always lose.
 2. (fill) 3 coins sit on peg 2. To balance them with coins on peg 3, you need ____ coins.  
    **Answer:** ['2', 'two']. *Why:* 3 times 2 is 6. 2 times 3 is also 6. So 2 coins on peg 3 balance 3 coins on peg 2.
-3. (mcq) Kitchen tongs (chimta) have your hand in the middle. They make your squeeze weaker at the tips. Why use them?  
+3. (mcq) Kitchen tongs (chimta or idukki) have your hand in the middle. They make your squeeze weaker at the tips. Why use them?  
    Options: They are cheaper / The tips move further than your fingers, and keep your hand away from the heat / They make your push stronger / They are not a lever  
    **Answer:** The tips move further than your fingers, and keep your hand away from the heat. *Why:* In tongs, the effort is in the middle, so they trade strength for distance. The tips open wide, and your fingers stay away from the hot pan. Picking 'stronger' is very common, because we expect every lever to make pushes bigger. Some levers are for distance and speed instead.
 4. (sort) Sort these levers by what is in the middle.  
@@ -818,7 +818,7 @@ That night, under the stars, the whole village ate together round the fires of U
 ## Applications
 - Hand pumps on village borewells use a long lever handle to lift water.
 - Scissors, nutcrackers, the supari cutter called a sarota, tongs and bottle openers are all levers.
-- A sabzi seller's tarazu, a two-pan balance, weighs vegetables using the see-saw rule.
+- A vegetable seller's tarazu, a two-pan balance, weighs vegetables using the see-saw rule.
 - Ramps at railway stations, hospitals, malls and temples let wheelchairs, trolleys and prams in.
 - Zigzag roads up the ghats and the Himalayas are long ramps that let vehicles climb.
 - Loading planks let workers roll heavy drums and gas cylinders into trucks.
@@ -834,8 +834,8 @@ That night, under the stars, the whole village ate together round the fires of U
 
 ## Spotted around us
 - A hand pump on a village or roadside borewell, with its long lever handle.
-- A tarazu, the two-pan weighing scale at the sabzi market.
-- The sarota, a supari cutter, and kitchen chimta tongs.
+- A tarazu, the two-pan weighing scale at the vegetable market.
+- The sarota, a supari cutter, and kitchen tongs (chimta or idukki).
 - The ramp beside the steps at a railway station or a hospital.
 - Zigzag ghat roads climbing to hill stations.
 - A dhenki, the foot-worked rice pounder, in villages of Assam, Bengal and Odisha.

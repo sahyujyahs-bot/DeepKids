@@ -2,7 +2,7 @@
  "id": "sci.sound.sources-of-sound.L3",
  "title": "Sources of sound: every sound starts with a vibration",
  "level": 3,
- "playtest": "Every hands-on part was checked as if done at home today, with things most Indian homes have. Twanging Ruler: a 30 cm plastic or steel ruler works if one palm presses it hard on the table edge. With 5 cm sticking out it buzzes. With 20 to 25 cm out you see it wobble but hear only a soft flap, because it now vibrates fewer than about 20 times a second. The wobbles are too fast to count, so the table asks only whether you see and hear it, and whether the sound is high or low. Catch the Ring: a steel thali or big katori hit with a steel spoon rings long enough, and a foil ball on a thread jumps clearly. The ripples on a katori of water are small and last a second or two, so a torch shines on the water from the side. The Atta Trick: a balloon skin over a steel tumbler or tin gives a clear tap note. A coin-sized blob of atta dough in the centre makes it lower. A very loose balloon gives no note, so pull it tight. Coin Line: use same-size coins on a smooth table, all touching. For the gaps, leave a palm's width, so the hit coin stops before the next one. Straw Shehnai: plastic straws work, but single-use ones are no longer sold in India, so the step uses any a family already has and offers another activity instead. Paper straws go soggy and fail. Many children need 5 or more tries before the reed buzzes. Rubber-band Veena: thin and thick bands on an open tiffin or shoebox. The pencil bridge is needed. Kitchen Orchestra: tap gently with a spoon, never hard. Glass tumblers can crack, so steel tumblers are given first. What Is Vibrating? works alone, with a parent, or with friends. Sound and Pose needs a second person. How the ear works is in the unit Our senses (sci.senses.five-senses.L3), so this unit links to it instead of repeating it. Keep all banging at a moderate loudness and away from ears.",
+ "playtest": "Every hands-on part was checked as if done at home today, with things most Indian homes have. Twanging Ruler: a 30 cm plastic or steel ruler works if one palm presses it hard on the table edge. With 5 cm sticking out it buzzes. With 20 to 25 cm out you see it wobble but hear only a soft flap, because it now vibrates fewer than about 20 times a second. The wobbles are too fast to count, so the table asks only whether you see and hear it, and whether the sound is high or low. Catch the Ring: a steel plate or big steel bowl hit with a steel spoon rings long enough, and a foil ball on a thread jumps clearly. The ripples on a bowl of water are small and last a second or two, so a torch shines on the water from the side. The Atta Trick: a balloon skin over a steel tumbler or tin gives a clear tap note. A coin-sized blob of atta dough in the centre makes it lower. A very loose balloon gives no note, so pull it tight. Coin Line: use same-size coins on a smooth table, all touching. For the gaps, leave a palm's width, so the hit coin stops before the next one. Straw Shehnai: plastic straws work, but single-use ones are no longer sold in India, so the step uses any a family already has and offers another activity instead. Paper straws go soggy and fail. Many children need 5 or more tries before the reed buzzes. Rubber-band Veena: thin and thick bands on an open tiffin or shoebox. The pencil bridge is needed. Kitchen Orchestra: tap gently with a spoon, never hard. Glass tumblers can crack, so steel tumblers are given first. What Is Vibrating? works alone, with a parent, or with friends. Sound and Pose needs a second person. How the ear works is in the unit Our senses (sci.senses.five-senses.L3), so this unit links to it instead of repeating it. Keep all banging at a moderate loudness and away from ears.",
  "summary": {
   "text": "Every sound starts with something vibrating, which means moving quickly back and forth. A tabla skin, a veena string, the air inside a flute and your own throat all vibrate. The vibrating thing pushes the air next to it, and the air passes the push along to your ear as a sound wave. Sound needs a medium, such as air, water or wood, to travel through, so space is silent. A bigger vibration makes a louder sound, and a faster one makes a higher sound. Crickets, elephants and bats make sounds of their own, to find each other, warn and hunt.",
   "art": "A girl tapping a tabla, with a zoomed-in circle beside it showing the skin bulging and tiny air molecules bunching up and spreading out, passing the push towards a listening cat."
@@ -170,7 +170,7 @@
    "concept": "What vibrates in different sound sources",
    "status": "defined",
    "definition": "Different sources vibrate different parts. Strings, stretched skins, columns of air, solid things and living bodies can all vibrate and make sound.",
-   "description": "In a veena or sitar, a stretched string vibrates. In a tabla, dhol or mridangam, a stretched skin vibrates. In a bansuri, a shehnai or a conch, it is the air inside the tube that vibrates. In a temple bell, a steel thali or a ghatam, the whole solid thing vibrates. The ghatam is a clay pot played as a drum. Many of the best are made in Manamadurai, in Tamil Nadu. In your voice, two soft flaps in your throat, the vocal folds, vibrate as air from your lungs rushes past.",
+   "description": "In a veena or sitar, a stretched string vibrates. In a tabla, dhol or mridangam, a stretched skin vibrates. In a bansuri, a shehnai or a conch, it is the air inside the tube that vibrates. In a temple bell, a steel plate or a ghatam, the whole solid thing vibrates. The ghatam is a clay pot played as a drum. Many of the best are made in Manamadurai, in Tamil Nadu. In your voice, two soft flaps in your throat, the vocal folds, vibrate as air from your lungs rushes past.",
    "examples": [
     "String: veena, sitar, ektara, violin, a twanged rubber band.",
     "Skin: tabla, mridangam, dhol, damru.",
@@ -329,7 +329,7 @@
    "definition": "No. Every solid, liquid and gas is made of atoms and molecules that never stop jiggling. The warmer a thing is, the faster they jiggle.",
    "description": "A stone on the ground looks perfectly still. But its atoms are jiggling all the time, too fast and too small to see or hear. That jiggling is what warmth is. Cool the stone, and the jiggling slows down. Scientists have cooled things to almost the coldest anything can be. Even there, quantum physics, the science of the very tiniest things, says the jiggling never stops completely. Sound is a neat vibration that molecules pass along together. Underneath it is always this messy jiggle of everything.",
    "examples": [
-    "A cup of hot chai: its molecules jiggle faster than those in a glass of cold water.",
+    "A tumbler of hot filter coffee: its molecules jiggle faster than those in a glass of cold water.",
     "The 'quietest' room ever built still isn't silent to the person in it. They hear their own heartbeat and breathing."
    ],
    "perspectives": [],
@@ -1499,9 +1499,9 @@
    "title": "Catch the Ring: can you see a sound?",
    "mins": 20,
    "days": 1,
-   "question": "A ringing steel thali looks still. Is it really vibrating? How can we show it?",
-   "predict": "Guess first. If a small foil ball on a thread touches a ringing thali, will it stay still or move? Why do you think so?",
-   "fair_test": "Hit the thali the same way each time. Then compare: the foil ball touching the thali while it rings, and touching it after you have stopped it with your hand. Change only whether the thali is ringing.",
+   "question": "A ringing steel plate looks still. Is it really vibrating? How can we show it?",
+   "predict": "Guess first. If a small foil ball on a thread touches a ringing plate, will it stay still or move? Why do you think so?",
+   "fair_test": "Hit the plate the same way each time. Then compare: the foil ball touching the plate while it rings, and touching it after you have stopped it with your hand. Change only whether the plate is ringing.",
    "results_table": [
     "What we did",
     "What the foil ball or water did",
@@ -1509,7 +1509,7 @@
    ],
    "materials": [
     {
-     "item": "a steel thali, or a big steel katori or bowl",
+     "item": "a big steel plate or a big steel bowl",
      "qty": 1
     },
     {
@@ -1525,7 +1525,7 @@
      "qty": 1
     },
     {
-     "item": "a steel katori, half full of water",
+     "item": "a steel bowl, half full of water",
      "qty": 1
     },
     {
@@ -1533,54 +1533,54 @@
      "qty": 1
     }
    ],
-   "safety": "Hit the thali firmly but not so hard it hurts anyone's ears. Keep it away from ears. Wipe up any spilled water so nobody slips.",
+   "safety": "Hit the plate firmly but not so hard it hurts anyone's ears. Keep it away from ears. Wipe up any spilled water so nobody slips.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Ring a thali and watch a foil ball jump. Ring a katori of water and watch the water. Then stop the ring with your hand."
+     "what": "Ring a steel plate and watch a foil ball jump. Ring a bowl of water and watch the water. Then stop the ring with your hand."
     }
    ],
-   "record": "Fill in the table. Draw the foil ball jumping off the ringing thali.",
+   "record": "Fill in the table. Draw the foil ball jumping off the ringing plate.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Squeeze the foil into a pea-sized ball. 2. Tape the thread to it. 3. Tape the other end of the thread to the edge of a table, so the ball hangs down. 4. Hold the thali on its edge, upright, so its rim just touches the hanging ball.",
-     "say": "This thali is our sound source. The little foil ball will be our sound catcher.",
-     "kid": "Make a tiny foil ball. Tape a thread to it. Hang it from the table. Hold the thali on its edge so the rim just touches the ball.",
+     "do": "1. Squeeze the foil into a pea-sized ball. 2. Tape the thread to it. 3. Tape the other end of the thread to the edge of a table, so the ball hangs down. 4. Hold the plate on its edge, upright, so its rim just touches the hanging ball.",
+     "say": "This plate is our sound source. The little foil ball will be our sound catcher.",
+     "kid": "Make a tiny foil ball. Tape a thread to it. Hang it from the table. Hold the plate on its edge so the rim just touches the ball.",
      "adult": true,
-     "context": "This is the first step of Catch the Ring. You hang a tiny foil ball so it touches a steel thali, then ring the thali to see if it is really vibrating."
+     "context": "This is the first step of Catch the Ring. You hang a tiny foil ball so it touches a steel plate, then ring the plate to see if it is really vibrating."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Hold the thali upright by its very edge, with two fingers. 2. Hit it firmly near the rim with the spoon. 3. Watch the foil ball.",
+     "do": "1. Hold the plate upright by its very edge, with two fingers. 2. Hit it firmly near the rim with the spoon. 3. Watch the foil ball.",
      "say": "Listen to it ring. Now watch the ball. What does it do?",
-     "kid": "Hit the thali with the spoon. Listen. Watch the foil ball. What does it do?",
+     "kid": "Hit the plate with the spoon. Listen. Watch the foil ball. What does it do?",
      "ask": [
       {
-       "q": "What did the foil ball do when the thali rang?",
+       "q": "What did the foil ball do when the plate rang?",
        "good": [
         "It jumped away.",
-        "It bounced off the thali again and again."
+        "It bounced off the plate again and again."
        ]
       }
      ],
-     "parent": "Hold the thali loosely by the edge, or it won't ring. The ball should bounce away clearly. If it doesn't, hit a little harder, or make the ball smaller."
+     "parent": "Hold the plate loosely by the edge, or it won't ring. The ball should bounce away clearly. If it doesn't, hit a little harder, or make the ball smaller."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Hit the thali again. 2. Then hold it with your whole hand to stop the ring. 3. Let the ball touch it again.",
+     "do": "1. Hit the plate again. 2. Then hold it with your whole hand to stop the ring. 3. Let the ball touch it again.",
      "say": "Now let's stop the ring with a hand. Watch the ball this time.",
      "kid": "Hit it again. Now hold it tight to stop the ring. Does the ball still jump?",
      "check": {
       "t": "mcq",
-      "q": "When you held the thali and the ring stopped, what did the foil ball do?",
+      "q": "When you held the plate and the ring stopped, what did the foil ball do?",
       "options": [
        "It kept jumping",
-       "It hung still, because the thali stopped vibrating",
+       "It hung still, because the plate stopped vibrating",
        "It jumped higher"
       ],
       "a": 1,
@@ -1590,17 +1590,17 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Pour water into a steel katori until it is half full. 2. Shine the torch on the water from the side. 3. Hit the rim of the katori firmly with the spoon. 4. Look at the water right next to the wall.",
+     "do": "1. Pour water into a steel bowl until it is half full. 2. Shine the torch on the water from the side. 3. Hit the rim of the bowl firmly with the spoon. 4. Look at the water right next to the wall.",
      "say": "Now let's watch water instead of foil. Look very closely at the water next to the wall when I hit the rim.",
-     "kid": "Pour water into the katori. Shine the torch on it. Hit the rim with the spoon. Watch the water by the wall.",
+     "kid": "Pour water into the bowl. Shine the torch on it. Hit the rim with the spoon. Watch the water by the wall.",
      "adult": false,
-     "parent": "Look for fine ripples or a shimmer on the water next to the wall. They last only a second or two, so watch closely and hit again. The torch makes them much easier to see. A bigger steel bowl rings longer than a small katori.",
+     "parent": "Look for fine ripples or a shimmer on the water next to the wall. They last only a second or two, so watch closely and hit again. The torch makes them much easier to see. A bigger steel bowl rings longer than a small one.",
      "ask": [
       {
-       "q": "What did the water do when you hit the katori?",
+       "q": "What did the water do when you hit the bowl?",
        "good": [
         "Tiny ripples shook next to the wall.",
-        "The water shimmered, so the katori was vibrating."
+        "The water shimmered, so the bowl was vibrating."
        ]
       }
      ]
@@ -1609,12 +1609,12 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Now tell me three things. What do you think now about the ringing thali? What did you see or hear that shows it? Why do you think it happened?",
+     "say": "Now tell me three things. What do you think now about the ringing plate? What did you see or hear that shows it? Why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw or heard. Why I think it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a ringing thali is vibrating, even though it looks still. What I saw: the foil ball jumped away while it rang, and hung still when I held it. Why: the thali vibrates very fast, which pushes the ball and makes the sound."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a ringing plate is vibrating, even though it looks still. What I saw: the foil ball jumped away while it rang, and hung still when I held it. Why: the plate vibrates very fast, which pushes the ball and makes the sound."
     }
    ],
-   "context": "A ringing steel thali looks perfectly still. In this experiment, you use a tiny foil ball and a katori of water to catch its hidden vibration.",
+   "context": "A ringing steel plate looks perfectly still. In this experiment, you use a tiny foil ball and a bowl of water to catch its hidden vibration.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1625,17 +1625,17 @@
     ],
     "rows": [
      [
-      "Rang the thali",
+      "Rang the plate",
       "The ball jumped away again and again",
       "Yes"
      ],
      [
-      "Held the thali still",
+      "Held the plate still",
       "The ball hung still",
       "No"
      ],
      [
-      "Hit a katori of water",
+      "Hit a bowl of water",
       "Fine ripples by the wall, for a second or two",
       "Yes"
      ]
@@ -1643,16 +1643,16 @@
    },
    "setup": [
     {
-     "art": "A tiny foil ball hanging on a thread from a table edge, just touching the rim of a steel thali held upright by a child's two fingers.",
-     "caption": "1. Hang a foil ball so it just touches the thali's rim."
+     "art": "A tiny foil ball hanging on a thread from a table edge, just touching the rim of a steel plate held upright by a child's two fingers.",
+     "caption": "1. Hang a foil ball so it just touches the plate's rim."
     },
     {
-     "art": "A spoon hitting the thali, the foil ball flying away from the rim on its thread, with small vibration lines on the thali.",
-     "caption": "2. Ring the thali. Watch the ball jump."
+     "art": "A spoon hitting the plate, the foil ball flying away from the rim on its thread, with small vibration lines on the plate.",
+     "caption": "2. Ring the plate. Watch the ball jump."
     },
     {
-     "art": "A steel katori half full of water, lit from the side by a torch, a spoon hitting its rim, fine ripples shimmering on the water next to the wall.",
-     "caption": "3. Ring a katori of water. Watch the water by the wall."
+     "art": "A steel bowl half full of water, lit from the side by a torch, a spoon hitting its rim, fine ripples shimmering on the water next to the wall.",
+     "caption": "3. Ring a bowl of water. Watch the water by the wall."
     }
    ]
   },
@@ -1992,7 +1992,7 @@
      "qty": 2
     },
     {
-     "item": "things to tap: a steel plate, a clay matka or pot, a plastic box, a cold pressure cooker lid",
+     "item": "things to tap: a steel plate, a clay pot, a plastic box, a cold pressure cooker lid",
      "qty": 4
     }
    ],
@@ -2013,7 +2013,7 @@
      "say": "Everything in the kitchen has its own voice. Let's listen to each one. What is vibrating?",
      "kid": "Tap each thing with a spoon. Listen. Which rings longest? What is vibrating?",
      "context": "This is the first step of Kitchen Orchestra. You tap kitchen things to hear their sounds, then make a jal tarang, an Indian instrument of bowls of water.",
-     "parent": "Steel rings long. Wood and plastic give a short knock. A clay matka sounds like a ghatam, the clay-pot drum from Tamil Nadu."
+     "parent": "Steel rings long. Wood and plastic give a short knock. A clay pot sounds like a ghatam, the clay-pot drum from Tamil Nadu."
     },
     {
      "id": "s2",
@@ -2054,7 +2054,7 @@
    "context": "In this activity, you tap things in your kitchen to hear what each one sounds like. Then you make a jal tarang, an Indian instrument of bowls with water in them.",
    "setup": [
     {
-     "art": "A child tapping a clay matka, a steel plate and a plastic box on a kitchen floor with a spoon.",
+     "art": "A child tapping a clay pot, a steel plate and a plastic box on a kitchen floor with a spoon.",
      "caption": "1. Tap kitchen things. Which rings longest?"
     },
     {
@@ -2460,7 +2460,7 @@
    ],
    "materials": [
     "one rubber band",
-    "things from home: boxes, tins, tumblers, a tiffin, a thali, a cardboard tube, a plastic bucket"
+    "things from home: boxes, tins, tumblers, a tiffin, a plate, a cardboard tube, a plastic bucket"
    ],
    "general": [
     "Stretch the band over an open box. The box vibrates with it and pushes more air.",

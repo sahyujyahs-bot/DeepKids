@@ -670,7 +670,7 @@
     }
    ],
    "rules": [
-    "Put the SUN sign at one end of the room and the MOON sign at the other end. Put the SUNSET LINE in the middle, on a strip of tape or a dupatta.",
+    "Put the SUN sign at one end of the room and the MOON sign at the other end. Put the SUNSET LINE in the middle, on a strip of tape or an old sari.",
     "The caller reads one animal card aloud.",
     "Everyone runs to the sign for when that animal is busiest: SUN, MOON or the SUNSET LINE.",
     "The caller reads the answer on the back. Everyone who was right scores a point.",
@@ -679,7 +679,7 @@
    ],
    "setup": [
     {
-     "art": "A room with a paper sun taped to one wall, a paper moon on the opposite wall and an orange dupatta on the floor in between.",
+     "art": "A room with a paper sun taped to one wall, a paper moon on the opposite wall and an orange sari on the floor in between.",
      "caption": "1. Put the sun, the moon and the sunset line in place."
     },
     {
@@ -695,7 +695,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Tape the SUN sign to one wall and the MOON sign to the opposite wall. 2. Lay a dupatta across the middle of the floor. 3. Shuffle the cards.",
+     "do": "1. Tape the SUN sign to one wall and the MOON sign to the opposite wall. 2. Lay an old sari across the middle of the floor. 3. Shuffle the cards.",
      "say": "Some animals work the day shift, some work the night shift, and some work at dawn and dusk. When I call an animal, run to its shift.",
      "kid": "Sun is for day animals. Moon is for night animals. The middle line is for dawn and dusk. Get ready to run!",
      "context": "This is the first step of Day Shift, Night Shift, a running game about when animals are busy. Here you set up the room."

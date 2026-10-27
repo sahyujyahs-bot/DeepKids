@@ -32,7 +32,7 @@
    "term": "Liquid",
    "meaning": "One of the forms a material can take. A liquid flows and takes the shape of its container.",
    "example": "Water in a glass, milk in a cup and oil in a bottle are liquids.",
-   "art": "Water being poured from a lota into a steel tumbler."
+   "art": "Water being poured from a brass sombu into a steel tumbler."
   },
   {
    "term": "Gas",
@@ -91,7 +91,7 @@
   {
    "term": "Precipitation",
    "meaning": "Any water that falls from clouds to the ground: rain, drizzle, hail or snow. It is a long word for 'falling water'.",
-   "example": "Rain in Mumbai, hail in a summer storm in Bihar and snow in Kashmir are all precipitation.",
+   "example": "Rain in Kochi, hail in a summer storm in Bengaluru and snow in Kashmir are all precipitation.",
    "art": "Three panels: rain, hailstones bouncing on a road, and snow on a pine tree."
   },
   {
@@ -178,7 +178,7 @@
    "examples": [
     "Wet clothes on a terrace dry faster in the sun and wind than in a closed bathroom.",
     "A wide plate of water dries up long before the same water in a narrow glass.",
-    "In the Rajasthan summer, a wet floor dries in minutes. In a sticky Mumbai monsoon, it can take an hour."
+    "In the Rajasthan summer, a wet floor dries in minutes. In a sticky Kochi monsoon, it can take an hour."
    ],
    "perspectives": [],
    "art": "A zoomed-in puddle surface with tiny molecules jiggling, and a few fast ones flying up and away, blown by a little breeze.",
@@ -192,7 +192,7 @@
    "description": "The air in your room right now has water vapour in it. You cannot see it, smell it or feel it. Look closely at a kettle as it boils. Right at the spout there is a small clear gap. That gap is the real, invisible steam. A little further out, the steam meets cooler air and turns back into tiny drops. Those drops are what you see as white mist. So the white puff from a pressure cooker whistle is really a tiny cloud. Clouds in the sky are made the same way.",
    "examples": [
     "The clear gap just above a kettle spout is the invisible steam.",
-    "On a cold morning in Shimla, you can 'see your breath'. You are seeing tiny drops, not vapour.",
+    "On a cold winter morning in Ooty, you can 'see your breath'. You are seeing tiny drops, not vapour.",
     "A drying shirt sends water into the air, but you never see it go."
    ],
    "perspectives": [],
@@ -206,7 +206,7 @@
    "description": "Cold makes molecules slow down. When vapour molecules touch a cold surface, they slow down, stick to it and to each other, and make drops. That is condensation, and it is evaporation run backwards. So any cold surface collects water from the air. A steel tumbler of ice gets wet on the outside. The inside of a lid over hot rice drips. The grass gets dew on a cool night. Air that rises up a mountain or high into the sky also cools, and its vapour condenses into clouds.",
    "examples": [
     "A cold steel tumbler gets wet on the outside on a sticky day. The drops came from the air, not through the steel.",
-    "The underside of the lid on a pot of hot dal is covered in drops.",
+    "The underside of the lid on a pot of hot rasam is covered in drops.",
     "Car windows mist up from the inside when a whole family breathes in a closed car."
    ],
    "perspectives": [],
@@ -333,7 +333,7 @@
    "status": "debated",
    "description": "Everyone agrees on what the monsoon does. Why it happens is a harder question. Scientists have given different answers, and they still argue about how much each one matters.",
    "examples": [
-    "Small sea breezes blow onto the land on hot afternoons at Chennai or Mumbai beaches. Is the monsoon a giant version?",
+    "Small sea breezes blow onto the land on hot afternoons at Chennai or Kochi beaches. Is the monsoon a giant version?",
     "The Tibetan plateau, a huge high land north of the Himalaya, gets very hot in summer."
    ],
    "perspectives": [
@@ -1007,7 +1007,7 @@
        "Evaporation"
       ],
       [
-       "drops under a lid on a pot of dal",
+       "drops under a lid on a pot of rasam",
        "Condensation"
       ],
       [
@@ -1511,7 +1511,7 @@
      "qty": 1
     },
     {
-     "item": "a small, heavy cup or katori that is shorter than the bowl",
+     "item": "a small, heavy steel cup that is shorter than the bowl",
      "qty": 1
     },
     {
@@ -1656,7 +1656,7 @@
    },
    "setup": [
     {
-     "art": "A wide steel bowl with salty water, a small katori standing in the middle, and a hand stirring salt into a jug of water.",
+     "art": "A wide steel bowl with salty water, a small steel cup standing in the middle, and a hand stirring salt into a jug of water.",
      "caption": "1. Pour salty water into a big bowl. Stand a small cup in the middle."
     },
     {
@@ -1961,7 +1961,7 @@
      "qty": 1
     },
     {
-     "item": "a few drops of food colour, or a pinch of haldi",
+     "item": "a few drops of food colour, or a pinch of turmeric",
      "qty": 1
     },
     {
@@ -1987,9 +1987,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Stir a few drops of food colour, or a pinch of haldi, into a jug of water. 2. Fill tumbler A half with ice, then top it up with the coloured water. 3. Fill tumbler B with the coloured water only. 4. Stir a pinch of salt into both. 5. Wipe the outsides completely dry.",
+     "do": "1. Stir a few drops of food colour, or a pinch of turmeric, into a jug of water. 2. Fill tumbler A half with ice, then top it up with the coloured water. 3. Fill tumbler B with the coloured water only. 4. Stir a pinch of salt into both. 5. Wipe the outsides completely dry.",
      "say": "Both tumblers have the same coloured, salty water. Only one is cold. Watch the outsides.",
-     "kid": "Colour some water with haldi. Fill one tumbler with ice and coloured water. Fill the other with just coloured water. Add a pinch of salt to both. Wipe them dry.",
+     "kid": "Colour some water with turmeric. Fill one tumbler with ice and coloured water. Fill the other with just coloured water. Add a pinch of salt to both. Wipe them dry.",
      "context": "This is the first step of The Cold Tumbler. You fill two steel tumblers with the same coloured water, but only one gets ice."
     },
     {
@@ -2863,7 +2863,7 @@
     "At the end, count the spoons left using the same spoon."
    ],
    "materials": [
-    "3 or 4 small steel bowls or katoris of the same size",
+    "3 or 4 small steel bowls of the same size",
     "a teaspoon",
     "things from home: a lid, a plate, cling film, a cloth, leaves, a few drops of cooking oil, a narrow bottle"
    ],
@@ -3290,7 +3290,7 @@
  ],
  "spotted": [
   {
-   "text": "Drops on the inside of the lid of a pot of rice or dal.",
+   "text": "Drops on the inside of the lid of a pot of rice or sambar.",
    "art": "A steel lid turned over, covered in shining drops."
   },
   {
@@ -3310,7 +3310,7 @@
    "art": "Green hills with white clouds drifting over the top and a waterfall below."
   },
   {
-   "text": "Salt pans beside the road near the sea in Gujarat, or near Mumbai, with white heaps of salt.",
+   "text": "Salt pans beside the road near the sea in Gujarat, or near Thoothukudi in Tamil Nadu, with white heaps of salt.",
    "art": "Square ponds and white salt heaps beside a coastal road."
   },
   {

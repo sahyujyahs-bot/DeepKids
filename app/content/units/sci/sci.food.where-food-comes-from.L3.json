@@ -9,7 +9,7 @@
  "intro": {
   "hook": "Look at your plate at your next meal. Pick one thing on it. Now ask: where was this a year ago? Was it alive? Was it in the air, in the soil, or in the sea?",
   "text": "Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a dairy, a tree or a fishing boat. Before the farm there was a seed. This unit follows food back, step by step, to where it begins. On the way, you split open a seed and find a tiny plant inside. You find out what turns milk into curd overnight. And you meet deep-sea animals whose food chain does not start with sunlight.",
-  "art": "A roti on a plate with a long winding path behind it going back through a shop, a flour mill, a wheat field and a single wheat seed, ending at a bright Sun."
+  "art": "A chapati on a plate with a long winding path behind it going back through a shop, a flour mill, a wheat field and a single wheat seed, ending at a bright Sun."
  },
  "outcomes": [
   "I can trace a food back to where it came from: a plant, an animal, a fungus or tiny living thing, or the Earth itself.",
@@ -127,7 +127,7 @@
   {
    "term": "Starch",
    "meaning": "A kind of food that plants make and store, mostly in seeds, roots and underground stems. It gives us energy.",
-   "example": "Rice, potato, roti and ragi are full of starch.",
+   "example": "Rice, potato, chapati and ragi are full of starch.",
    "art": "A potato cut in half with a drop of iodine turning one spot blue-black."
   },
   {
@@ -190,7 +190,7 @@
    "concept": "What food is, and the four places it comes from",
    "status": "defined",
    "definition": "Food is anything a living thing takes in to get energy and to build its body. Our food comes from four kinds of places: plants, animals, fungi and microbes, and the non-living Earth.",
-   "description": "Look at any meal and sort it. Rice, dal, sabzi, fruit and spices come from plants. Milk, curd, ghee, eggs, fish and honey come from animals. Mushrooms are fungi, and curd and idli batter are changed by microbes, tiny living things. Salt and water are the odd ones out. They were never alive. They come from the sea, the rocks and the rain. So almost all of our food was once part of something alive.",
+   "description": "Look at any meal and sort it. Rice, dal, vegetables, fruit and spices come from plants. Milk, curd, ghee, eggs, fish and honey come from animals. Mushrooms are fungi, and curd and idli batter are changed by microbes, tiny living things. Salt and water are the odd ones out. They were never alive. They come from the sea, the rocks and the rain. So almost all of our food was once part of something alive.",
    "examples": [
     "A plate of idli, sambar and coconut chutney: rice and urad dal (plants), tiny microbes that made the batter rise, tamarind and vegetables (plants), salt (the Earth), water (the Earth).",
     "A glass of lassi: milk from a cow or buffalo, microbes that turned it into curd, sugar from sugarcane, and water.",
@@ -232,7 +232,7 @@
     },
     {
      "who": "Cooks",
-     "explanation": "A fruit is sweet and eaten raw or as a dessert. A vegetable is cooked in a sabzi or a curry. So a tomato is a vegetable."
+     "explanation": "A fruit is sweet and eaten raw or as a dessert. A vegetable is cooked in a poriyal or a curry. So a tomato is a vegetable."
     },
     {
      "who": "Judges of the United States Supreme Court, in 1893",
@@ -355,7 +355,7 @@
    "status": "debated",
    "description": "About 2,000 years ago, the Charaka Samhita, one of the oldest books of Ayurveda, India's traditional medicine, named six tastes, or rasas. They are madhura (sweet), amla (sour), lavana (salty), katu (pungent or spicy), tikta (bitter) and kashaya (astringent, the dry puckery feel of raw banana or strong tea). It taught that a good meal should have all six in balance. A festive thali often still does. Today, scientists study the taste cells on the tongue. They agree with some of the old list and explain other parts differently.",
    "examples": [
-    "A thali with sweet kheer, sour lemon pickle, salty papad, spicy chutney, bitter karela and astringent raw banana sabzi has all six rasas.",
+    "A thali with sweet payasam, sour lemon pickle, salty papad, spicy chutney, bitter karela and astringent raw banana poriyal has all six rasas.",
     "When you bite a chilli, your mouth feels hot, even though the chilli itself is not hot."
    ],
    "perspectives": [
@@ -538,7 +538,7 @@
   {
    "q": "If you follow any food back far enough, where do you always end up?",
    "kind": "deep",
-   "hint": "Try your curd, your roti and your fish. What is at the very start of each chain?"
+   "hint": "Try your curd, your chapati and your fish. What is at the very start of each chain?"
   },
   {
    "q": "When you eat a grain of rice, are you eating something alive?",
@@ -667,7 +667,7 @@
       "Egg",
       "Honey",
       "Fish curry",
-      "Roti",
+      "Chapati",
       "Rice",
       "Mango",
       "Jaggery",
@@ -1481,7 +1481,7 @@
      ],
      "items": [
       [
-       "roti",
+       "chapati",
        "Sunlight"
       ],
       [
@@ -1506,7 +1506,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Roti, honey and fish curry all trace back to plants or algae using sunlight. Tube worms and vent crabs depend on microbes that use chemicals from the vents. Salt was never alive."
+     "why": "Chapati, honey and fish curry all trace back to plants or algae using sunlight. Tube worms and vent crabs depend on microbes that use chemicals from the vents. Salt was never alive."
     },
     {
      "t": "write",
@@ -1535,12 +1535,12 @@
     },
     {
      "t": "fill",
-     "p": "In the Trace Your Dinner activity, a child drew these people on her roti chain: a farmer, a tractor driver, a miller, a truck driver, a shopkeeper and her mother who cooked. ____ people helped bring her roti.",
+     "p": "In the Trace Your Dinner activity, a child drew these people on her chapati chain: a farmer, a tractor driver, a miller, a truck driver, a shopkeeper and her mother who cooked. ____ people helped bring her chapati.",
      "a": [
       "6",
       "six"
      ],
-     "why": "Count each person once: farmer, tractor driver, miller, truck driver, shopkeeper and mother. That is 6 people, just for one roti. There are many more hidden ones, like the people who made the seeds and the tractor.",
+     "why": "Count each person once: farmer, tractor driver, miller, truck driver, shopkeeper and mother. That is 6 people, just for one chapati. There are many more hidden ones, like the people who made the seeds and the tractor.",
      "how": "a3"
     },
     {
@@ -2013,7 +2013,7 @@
      "qty": 1
     },
     {
-     "item": "small pieces of: raw potato, cooked rice, roti, raw banana, cucumber, paneer, a pinch of sugar, a pinch of salt and a pinch of besan or ragi flour",
+     "item": "small pieces of: raw potato, cooked rice, chapati, raw banana, cucumber, paneer, a pinch of sugar, a pinch of salt and a pinch of besan or ragi flour",
      "qty": 9
     }
    ],
@@ -2037,7 +2037,7 @@
       {
        "q": "Which foods do you think have starch? Why?",
        "good": [
-        "Rice and roti, because they come from seeds.",
+        "Rice and chapati, because they come from seeds.",
         "Potato, because it stores food underground.",
         "Not paneer, because it comes from milk."
        ]
@@ -2061,7 +2061,7 @@
      "say": "Same number of drops on each one. That keeps it fair. Now let's write down what each one did.",
      "kid": "Two drops on each food. Wait. Write down the colour for each one.",
      "adult": true,
-     "parent": "Expected results: potato, rice, roti, raw banana and besan or ragi turn blue-black. Cucumber shows little or none. Paneer, sugar and salt stay brown-orange. Sugar is a surprise: it comes from a plant but is not starch. Salt never came from a living thing. If the paneer turns blue-black, some starch may have been added to it when it was made. Some shop paneer has starch added, so that is a real finding, not a mistake.",
+     "parent": "Expected results: potato, rice, chapati, raw banana and besan or ragi turn blue-black. Cucumber shows little or none. Paneer, sugar and salt stay brown-orange. Sugar is a surprise: it comes from a plant but is not starch. Salt never came from a living thing. If the paneer turns blue-black, some starch may have been added to it when it was made. Some shop paneer has starch added, so that is a real finding, not a mistake.",
      "check": {
       "t": "mcq",
       "q": "The paneer stayed brown-orange. What does that tell us?",
@@ -2084,7 +2084,7 @@
       {
        "q": "Which plant parts gave us starch?",
        "good": [
-        "Seeds, like rice, wheat in the roti, and besan from chana.",
+        "Seeds, like rice, wheat in the chapati, and besan from chana.",
         "The potato, an underground stem.",
         "Banana, a fruit that is not ripe yet."
        ]
@@ -2098,13 +2098,13 @@
      "do": "Ask your child to say or write: what I think, what I saw, why.",
      "say": "Now tell me three things. What do you think, what did you see, and why?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, roti, besan and potato turned blue-black, but paneer did not. Why: plants store starch as food for their baby plants, and paneer comes from milk."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, chapati, besan and potato turned blue-black, but paneer did not. Why: plants store starch as food for their baby plants, and paneer comes from milk."
     }
    ],
    "context": "This is the iodine test. A drop of iodine turns blue-black on starch, the food a plant packs into its seeds and roots. You test which foods have it.",
    "setup": [
     {
-     "art": "Nine small food pieces in a row on a steel plate: potato, rice, roti, raw banana, cucumber, paneer, sugar, salt and besan.",
+     "art": "Nine small food pieces in a row on a steel plate: potato, rice, chapati, raw banana, cucumber, paneer, sugar, salt and besan.",
      "caption": "1. Lay small pieces of nine foods on a plate."
     },
     {
@@ -2335,10 +2335,10 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. For each food, draw arrows going left, one step at a time. 2. Roti came from atta. Atta came from a mill. The mill got wheat from a farm. The wheat grew from a seed, in sunlight. 3. Draw a little person at each step who did the work.",
-     "say": "Before it was roti, what was it? And before that? Keep going until you can't go back any further.",
+     "do": "1. For each food, draw arrows going left, one step at a time. 2. Chapati came from atta. Atta came from a mill. The mill got wheat from a farm. The wheat grew from a seed, in sunlight. 3. Draw a little person at each step who did the work.",
+     "say": "Before it was chapati, what was it? And before that? Keep going until you can't go back any further.",
      "kid": "Draw arrows going back. What was it before? And before that? Draw the person at each step.",
-     "parent": "Good chains: roti, atta, flour mill, wheat field in Punjab or Madhya Pradesh, farmer, Sun. Curd, milk, dairy, cow, grass, Sun. Dal, shop, farm, toor plant, Sun. For any animal food, go one step further: what did the animal eat?",
+     "parent": "Good chains: chapati, atta, flour mill, wheat field in Punjab or Madhya Pradesh, farmer, Sun. Curd, milk, dairy, cow, grass, Sun. Dal, shop, farm, toor plant, Sun. For any animal food, go one step further: what did the animal eat?",
      "check": {
       "t": "mcq",
       "q": "Curd came from milk. Milk came from a cow. What comes next, going backwards?",
@@ -2380,7 +2380,7 @@
    "context": "This is a drawing activity. You follow four foods from tonight's dinner backwards, step by step, until you reach the Sun. You also count the people who helped.",
    "setup": [
     {
-     "art": "A sheet of paper with a roti, a bowl of dal, a bowl of curd and a banana drawn down the right side.",
+     "art": "A sheet of paper with a chapati, a bowl of dal, a bowl of curd and a banana drawn down the right side.",
      "caption": "1. Draw four dinner foods on the right side of the page."
     },
     {
@@ -2483,7 +2483,7 @@
   },
   {
    "id": "a5",
-   "title": "Seasons at the Sabzi Cart",
+   "title": "Seasons at the Vegetable Cart",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -2506,9 +2506,9 @@
      "id": "s1",
      "mins": 2,
      "do": "Before you go, help your child write three questions.",
-     "say": "We are going to interview the sabzi seller. Let's write our questions first.",
+     "say": "We are going to interview the vegetable seller. Let's write our questions first.",
      "kid": "Write three questions for the vegetable seller. What is fresh now? What comes only in winter? Where does this come from?",
-     "context": "This is the first step of Seasons at the Sabzi Cart. You interview a vegetable or fruit seller about which foods grow in which season, and where they come from."
+     "context": "This is the first step of Seasons at the Vegetable Cart. You interview a vegetable or fruit seller about which foods grow in which season, and where they come from."
     },
     {
      "id": "s2",
@@ -2732,7 +2732,7 @@
     {
      "id": "s4",
      "mins": 20,
-     "do": "1. On day 10, measure both trays and compare. 2. Snip the sunny greens with scissors. 3. Wash them and add them to dal, paratha or a salad.",
+     "do": "1. On day 10, measure both trays and compare. 2. Snip the sunny greens with scissors. 3. Wash them and add them to dal, a poriyal or a salad.",
      "say": "The sunny tray turned light into food we can eat. Let's harvest it.",
      "kid": "Measure both trays. Snip the sunny greens. Wash them. Add them to your dinner!",
      "adult": true,
@@ -3385,7 +3385,7 @@
    "a": "It was picked while it was still a bud."
   },
   {
-   "j": "What did the rice say to the roti?",
+   "j": "What did the rice say to the chapati?",
    "a": "We're both just seeds having a good day."
   }
  ],
@@ -3478,7 +3478,7 @@
    "why_maths": "Multiplying equal groups shows how one seed can become many. That is why farmers always save some seeds instead of eating them all."
   },
   {
-   "problem": "In Trace Your Dinner, a child counted the people on each food's chain: roti 6 people, dal 5 people, curd 4 people, banana 5 people. How many people helped bring her dinner altogether?",
+   "problem": "In Trace Your Dinner, a child counted the people on each food's chain: chapati 6 people, dal 5 people, curd 4 people, banana 5 people. How many people helped bring her dinner altogether?",
    "answer": "20 people.",
    "explain": "Add the four chains: 6 + 5 = 11. 11 + 4 = 15. 15 + 5 = 20. So 20 people helped. That does not even count the ones we cannot see, like the people who made the tractor or the cooking gas.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -3557,7 +3557,7 @@
    "why": "Walk past black pepper vines, cardamom bushes, cinnamon trees and clove trees, and see which part of each one goes in the masala box."
   },
   {
-   "title": "A farm, a dairy, a mill or the sabzi mandi near you",
+   "title": "A farm, a dairy, a mill or the vegetable market near you",
    "url": "",
    "kind": "place",
    "where": "anywhere",
@@ -3784,7 +3784,7 @@
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), the sheet of paper",
     "teaching": "Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. He called this 'interbeing': nothing exists by itself alone.",
-    "link": "Look deeply at a roti and you see the Sun, the rain, the wheat field, the farmer and the miller. The roti is made of things that are not roti."
+    "link": "Look deeply at a chapati and you see the Sun, the rain, the wheat field, the farmer and the miller. The chapati is made of things that are not chapati."
    },
    {
     "source": "Robin Wall Kimmerer, Braiding Sweetgrass (2013), the chapter 'The Honorable Harvest'",
@@ -3809,7 +3809,7 @@
   "practice": {
    "title": "The Slow Bite",
    "mins": 3,
-   "say": "Take one small piece of roti, a raisin or a slice of fruit. Hold it in your palm and just look at it for a moment. Close your eyes. Think of the Sun that shone on it. Think of the rain, the soil and the farmer. Now put it in your mouth, but don't chew yet. Feel it on your tongue. Chew very slowly, and swallow. This food is now becoming you. Sit quietly for three breaths.",
+   "say": "Take one small piece of chapati, a raisin or a slice of fruit. Hold it in your palm and just look at it for a moment. Close your eyes. Think of the Sun that shone on it. Think of the rain, the soil and the farmer. Now put it in your mouth, but don't chew yet. Feel it on your tongue. Chew very slowly, and swallow. This food is now becoming you. Sit quietly for three breaths.",
    "kid": "Hold a small piece of food in your hand. Look at it. Close your eyes. Think of the Sun and the rain that made it. Eat it very slowly. It is becoming you. Take three quiet breaths."
   },
   "ask": [
@@ -3817,7 +3817,7 @@
    "Can you find any food on your plate today that no living thing helped to make?",
    "If your body is always being rebuilt from food, what part of you stays the same?"
   ],
-  "art": "A child holding a single roti up to the light, and inside the roti, faintly, a whole wheat field, rain clouds and a Sun, with a thin golden line running from the roti to the child's heart."
+  "art": "A child holding a single chapati up to the light, and inside the chapati, faintly, a whole wheat field, rain clouds and a Sun, with a thin golden line running from the chapati to the child's heart."
  },
  "how_we_found_out": {
   "story": "For thousands of years, people made curd, bread and idli without knowing why the food changed. In the 1830s, a few scientists looked at fermenting liquids under microscopes and saw tiny yeast cells. But the famous German chemist Justus von Liebig said fermentation was only a chemical breakdown, like rotting. The yeast cells, he said, were not doing the work. In 1857, the French scientist Louis Pasteur studied liquids that were turning sour, like souring milk. Under his microscope he found living cells far smaller than yeast. When he added a few of them to a fresh sugary liquid, they multiplied, and the liquid turned sour. Without them, it stayed fresh. He showed that each kind of fermentation is done by its own kind of living microbe. In 1897, Eduard Buchner found that juice squeezed out of yeast, with no living cells in it, could also ferment sugar. It held enzymes, chemicals the yeast makes. So both sides were partly right: living microbes do the work, using chemicals they make.",

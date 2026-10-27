@@ -8,9 +8,9 @@
   "art": "A child holding a spring forcemeter with an apple hanging from its hook, the pointer on 1 N. Behind her is a ladder of pictures from a feather up to a rocket."
  },
  "intro": {
-  "hook": "Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of atta in the other. How many times harder does the big one pull your hand down? Now, how could you tell a friend in another city exactly how hard it pulls?",
+  "hook": "Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of rice in the other. How many times harder does the big one pull your hand down? Now, how could you tell a friend in another city exactly how hard it pulls?",
   "text": "Words like 'heavy' and 'light' mean different things to different people. Your 'heavy' may be your grandmother's 'light'. A shopkeeper selling rice, an engineer building a bridge and a doctor testing your grip need more than that. They need a number that means the same thing to everyone. To get one, people choose a unit and count it. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.",
-  "art": "A child with eyes closed holding a small packet in one hand and a big atta packet in the other, a big question mark above."
+  "art": "A child with eyes closed holding a small packet in one hand and a big rice packet in the other, a big question mark above."
  },
  "outcomes": [
   "I can invent my own unit of pull, such as 'one coin', and use it to compare pulls.",
@@ -117,8 +117,8 @@
   {
    "term": "Weight",
    "meaning": "The pull of a planet on a thing. Weight is a force, so scientists count it in newtons.",
-   "example": "A 1 kilogram packet of atta has a weight of about 10 newtons on Earth.",
-   "art": "A packet of atta hanging from a forcemeter reading 10 N, an arrow pointing down to the Earth."
+   "example": "A 1 kilogram packet of rice has a weight of about 10 newtons on Earth.",
+   "art": "A packet of rice hanging from a forcemeter reading 10 N, an arrow pointing down to the Earth."
   },
   {
    "term": "Mass",
@@ -176,7 +176,7 @@
    "concept": "Why two careful people get different numbers",
    "status": "defined",
    "definition": "A number means nothing without its unit. Six big coins and twelve small coins can be exactly the same pull.",
-   "description": "In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now imagine every town using its own coins, buttons or stones. Nobody could compare a pull in Pune with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force.",
+   "description": "In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now imagine every town using its own coins, buttons or stones. Nobody could compare a pull in Madurai with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force.",
    "examples": [
     "Suppose one five-rupee coin pulls as hard as two one-rupee coins. Then 6 big coins match 12 small ones.",
     "A grown-up's step is longer than yours. The room is the same, but the number of steps is not.",
@@ -190,7 +190,7 @@
    "concept": "The newton: one unit the whole world shares",
    "status": "defined",
    "definition": "Scientists everywhere count force in newtons. The short way to write newtons is N. One newton is about the pull of a small apple on your hand.",
-   "description": "The newton is named after Isaac Newton, an English scientist. In a book of 1687, he explained how forces change movement. Countries agreed to call the unit 'the newton' in 1948. One newton is a small force. A small apple, or a 100 gram packet of tea, pulls on your hand with about 1 newton. So does 100 millilitres of water. A 1 litre bottle of water pulls with about 10 newtons. The newton is not something you can dig up or find in nature. It is an agreement. Because everyone keeps the same agreement, a pull in Pune and a pull in Paris can be compared.",
+   "description": "The newton is named after Isaac Newton, an English scientist. In a book of 1687, he explained how forces change movement. Countries agreed to call the unit 'the newton' in 1948. One newton is a small force. A small apple, or a 100 gram packet of tea, pulls on your hand with about 1 newton. So does 100 millilitres of water. A 1 litre bottle of water pulls with about 10 newtons. The newton is not something you can dig up or find in nature. It is an agreement. Because everyone keeps the same agreement, a pull in Madurai and a pull in Paris can be compared.",
    "examples": [
     "A 100 gram packet of biscuits pulls down with about 1 newton.",
     "A 1 litre bottle of water pulls down with about 10 newtons.",
@@ -1119,7 +1119,7 @@
      "say": "Today the coins will do the pulling, and we will count them. Our unit of pull is one coin. Scientists named their unit after a person. What shall we call ours?",
      "kid": "Tape the string to the notebook. Hang the cup over the table edge. Put a cushion underneath. Your unit is one coin. Give it a name!",
      "adult": true,
-     "parent": "The cup and string must be light. If the notebook slides before any coins go in, the cup is too heavy. Use a lighter cup, or a heavier notebook. Children love naming the unit after themselves, for example '1 Riya'. Use the name all through the test.",
+     "parent": "The cup and string must be light. If the notebook slides before any coins go in, the cup is too heavy. Use a lighter cup, or a heavier notebook. Children love naming the unit after themselves, for example '1 Lakshmi'. Use the name all through the test.",
      "context": "This step of the coin-pull investigation builds the coin pull and names your own unit."
     },
     {
@@ -1889,7 +1889,7 @@
      "qty": 1
     },
     {
-     "item": "a 1 kilogram packet of atta, rice or salt",
+     "item": "a 1 kilogram packet of rice, ragi flour or salt",
      "qty": 1
     },
     {
@@ -1933,7 +1933,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Give your child a 1 litre bottle of water. 2. Say it pulls with about 10 newtons. 3. Then let them hold the 1 kilogram atta packet. 4. Ask how many 100 gram packets would make the same pull.",
+     "do": "1. Give your child a 1 litre bottle of water. 2. Say it pulls with about 10 newtons. 3. Then let them hold the 1 kilogram rice packet. 4. Ask how many 100 gram packets would make the same pull.",
      "say": "This bottle pulls with about 10 newtons. How many tea packets do you think would pull as hard as this bottle? Why?",
      "kid": "Hold the water bottle. It pulls about 10 newtons. How many tea packets would match it?",
      "context": "This step of the one newton activity compares 1 newton with 10 newtons.",
@@ -2798,9 +2798,9 @@
     },
     {
      "t": "mcq",
-     "p": "In the coin-pull test, Ravi, a boy in Class 3, needed 6 big coins to slide a notebook. His mother needed 12 small coins for the same notebook. Who found the bigger pull?",
+     "p": "In the coin-pull test, Karthik, a boy in Class 3, needed 6 big coins to slide a notebook. His mother needed 12 small coins for the same notebook. Who found the bigger pull?",
      "opts": [
-      "Ravi",
+      "Karthik",
       "His mother",
       "Neither. It was the same pull, counted in different units"
      ],
@@ -3443,7 +3443,7 @@
     "Because forces are made of newtons"
    ],
    "a": 0,
-   "why": "A shared unit lets a pull in Pune be compared with a pull in Paris. Picking 'made of newtons' mixes up the force with the unit we count it in. The newton is an agreement between people. Newton died in 1727, long before the unit got his name in 1948.",
+   "why": "A shared unit lets a pull in Madurai be compared with a pull in Paris. Picking 'made of newtons' mixes up the force with the unit we count it in. The newton is an agreement between people. Newton died in 1727, long before the unit got his name in 1948.",
    "outcome": 1
   },
   {
@@ -3715,7 +3715,7 @@
  ],
  "ask_kids": [
   "If you could invent your own unit of pull, what would it be? What would you call it?",
-  "How many of your steps fit across this room? Would Papa's steps give the same number? Which number is right?",
+  "How many of your steps fit across this room? Would Appa's steps give the same number? Which number is right?",
   "How many newtons do you think that bag of vegetables is pulling with?",
   "Which is a bigger pull: opening the fridge door, or opening a drawer? How could we find out?",
   "If a shop scale showed 2 kilograms with nothing on it, who would lose out: the shopkeeper or the buyer?",
@@ -3823,7 +3823,7 @@
    "src": "unit"
   },
   {
-   "j": "Why did the bathroom scale go up when Papa sneezed?",
+   "j": "Why did the bathroom scale go up when Appa sneezed?",
    "a": "It was a big push.",
    "src": "unit"
   },
@@ -3928,9 +3928,9 @@
    "how": "c2"
   },
   {
-   "problem": "In the forcemeter tug of war, Asha, a girl in Class 3, pulled against her father. Asha's forcemeter showed 5 newtons, and her father's showed 5 newtons too. Her father said, 'So together we are pulling with 10 newtons.' Is he right? Explain.",
+   "problem": "In the forcemeter tug of war, Ayesha, a girl in Class 3, pulled against her father. Ayesha's forcemeter showed 5 newtons, and her father's showed 5 newtons too. Her father said, 'So together we are pulling with 10 newtons.' Is he right? Explain.",
    "answer": "No. The pull through the two forcemeters is 5 newtons. Each forcemeter shows the same pull, seen from its own end.",
-   "explain": "Asha pulls on her father with 5 newtons, and he pulls back on her with 5 newtons. Both forcemeters feel that one pull passing through them. Adding 5 and 5 counts the same pull twice. If he let go, both forcemeters would drop to 0 together.",
+   "explain": "Ayesha pulls on her father with 5 newtons, and he pulls back on her with 5 newtons. Both forcemeters feel that one pull passing through them. Adding 5 and 5 counts the same pull twice. If he let go, both forcemeters would drop to 0 together.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "why_maths": "Adding only makes sense when the numbers count different things. Asking 'what does each number count?' stops you adding the same thing twice.",
    "context": "In the forcemeter tug of war, two people hook two forcemeters together and pull. They read both forcemeters.",
@@ -4329,7 +4329,7 @@
    "what_is_life": "A crow feels the push of the wind, and a root senses which way is down, without any numbers. People invented numbers for forces so they could share and compare what they sense.",
    "what_is_this_world": "The Earth pulled mangoes down long before anyone had a unit for force. The pull is part of nature. The number in newtons is something people added, by agreeing on a unit."
   },
-  "thread": "Before anyone measured it, the notebook's pull was just a pull, with no number. To count it, people choose one small pull as the unit, such as one coin, one ratti seed or one newton. Then they count how many of that one unit fit. Every number in newtons, from a molecule's tug to the pull between the Earth and the Moon, counts that same one unit. Because everyone starts from the same one, a number in Pune can be compared with a number in Paris.",
+  "thread": "Before anyone measured it, the notebook's pull was just a pull, with no number. To count it, people choose one small pull as the unit, such as one coin, one ratti seed or one newton. Then they count how many of that one unit fit. Every number in newtons, from a molecule's tug to the pull between the Earth and the Moon, counts that same one unit. Because everyone starts from the same one, a number in Madurai can be compared with a number in Paris.",
   "teachings": [
    {
     "source": "Rig Veda 1.164.46",
@@ -4368,6 +4368,6 @@
    "Is a number something you find in the world, or something you bring to it?",
    "Your hand could feel the coins but not count them. Is a pull you feel the same thing as a pull you count?"
   ],
-  "art": "Two children in two cities, one on a rooftop in Pune and one by a window in Paris, each with a cup of coins pulling a notebook, joined by one thin glowing thread marked N."
+  "art": "Two children in two cities, one on a rooftop in Madurai and one by a window in Paris, each with a cup of coins pulling a notebook, joined by one thin glowing thread marked N."
  }
 }

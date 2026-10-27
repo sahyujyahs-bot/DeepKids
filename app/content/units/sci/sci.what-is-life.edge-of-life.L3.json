@@ -68,8 +68,8 @@
   {
    "term": "Dormant",
    "meaning": "Alive but resting. A dormant thing's life processes slow down so much that it seems to do nothing. It wakes up when conditions are right.",
-   "example": "A dry rajma seed in the kitchen jar is dormant. Put it on wet cotton and it wakes.",
-   "art": "A jar of dry rajma seeds with tiny sleeping eyes drawn on them."
+   "example": "A dry karamani (cowpea) seed in the kitchen jar is dormant. Put it on wet cotton and it wakes.",
+   "art": "A jar of dry karamani seeds with tiny sleeping eyes drawn on them."
   },
   {
    "term": "Germinate",
@@ -191,11 +191,11 @@
    "definition": "Dormant means alive but resting, with life processes slowed down so much that the living thing seems to do nothing, until conditions are right to wake.",
    "description": "A dry seed does nothing you can see. It does not grow, eat or move. It looks no more alive than a pebble. But inside it is a tiny baby plant with a store of food, wrapped in a tough coat. Its life processes have slowed down almost to a stop. This resting state is called dormancy. When the seed takes in water and is warm enough, its cells wake up. It respires faster, uses its stored food, and sends out a root. A pebble never does that, however much you water it. Scientists grew a lotus seed found in an old dry lake bed in China. It was about 1,300 years old.",
    "examples": [
-    "Rajma, moong, chana and wheat in your kitchen are all dormant seeds.",
+    "Karamani, moong, chana and ragi in your kitchen are all dormant seeds.",
     "Dried yeast in a packet is dormant too. Put it in warm sugar water and it wakes up and makes gas."
    ],
    "perspectives": [],
-   "art": "A cut-open rajma seed showing a curled baby plant and its stored food, with a small 'zzz' above it.",
+   "art": "A cut-open karamani seed showing a curled baby plant and its stored food, with a small 'zzz' above it.",
    "context": "This card is about things that seem dead but are only resting. It explains why a dry seed is alive."
   },
   {
@@ -567,7 +567,7 @@
      "items": [
       "A candle flame: I eat wax, I need air, I grow and I make new flames.",
       "A salt crystal: I grow bigger every day in salty water.",
-      "A dry rajma seed: I have sat in a jar for a year doing nothing.",
+      "A dry karamani seed: I have sat in a jar for a year doing nothing.",
       "A water bear: I am a tiny animal. I can dry into a ball and wake years later.",
       "A virus: I do nothing alone. Inside a cell, I make thousands of copies of me.",
       "A toy robot: I walk, I beep, I sense your hand. I run on batteries.",
@@ -1007,7 +1007,7 @@
      ],
      "items": [
       [
-       "a dry rajma seed",
+       "a dry karamani seed",
        "Alive"
       ],
       [
@@ -3005,11 +3005,11 @@
  ],
  "spotted": [
   {
-   "text": "A jar of rajma, chana or moong in your kitchen: hundreds of dormant baby plants.",
-   "art": "A kitchen shelf with steel jars of rajma, chana and moong."
+   "text": "A jar of karamani, chana or moong in your kitchen: hundreds of dormant baby plants.",
+   "art": "A kitchen shelf with steel jars of karamani, chana and moong."
   },
   {
-   "text": "Moong sprouts at a sabzi stall: seeds that woke up.",
+   "text": "Moong sprouts at a vegetable stall: seeds that woke up.",
    "art": "A street stall with a bowl of fresh moong sprouts."
   },
   {
@@ -3154,7 +3154,7 @@
   },
   {
    "j": "Which is the laziest living thing in the kitchen?",
-   "a": "The rajma. It has been resting in that jar for months."
+   "a": "The karamani. It has been resting in that jar for months."
   },
   {
    "j": "Why did the scientist put the seed on trial?",

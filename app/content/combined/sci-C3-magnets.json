@@ -133,7 +133,7 @@
      "kind": "warmup",
      "title": "The lota and the lid",
      "mins": 3,
-     "do": "Ask: 'In the story, why did Salim chacha's magnet stick to the cooker lid and not the lota?' Good answer: 'The lid was steel, which is magnetic. The lota was brass, which is not.'"
+     "do": "Ask: 'In the story, why did Salim anna's magnet stick to the cooker lid and not the lota?' Good answer: 'The lid was steel, which is magnetic. The lota was brass, which is not.'"
     },
     {
      "kind": "talk",
@@ -145,7 +145,7 @@
      "kind": "act",
      "title": "The kabadiwala's tray",
      "mins": 12,
-     "do": "Do Activity a1. Your child pulls all the magnetic things out of the heap with the magnet. Ask: 'What is left? How would you sort the foil from the plastic?' (By hand, or by weight.) Say: 'Scrap yards use huge magnets on cranes to lift out iron and steel. Kabadiwalas use small ones, like Salim chacha.'",
+     "do": "Do Activity a1. Your child pulls all the magnetic things out of the heap with the magnet. Ask: 'What is left? How would you sort the foil from the plastic?' (By hand, or by weight.) Say: 'Scrap yards use huge magnets on cranes to lift out iron and steel. Kabadiwalas use small ones, like Salim anna.'",
      "ref": "a1"
     },
     {
@@ -182,15 +182,15 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "Was Baba right?",
+     "title": "Was Appa right?",
      "mins": 3,
-     "do": "Say: 'In the story, Baba thought the water in the drain stopped the magnet. Today we test it.' Ask: 'What do you think? Why?' Write the guess in the magnet notebook."
+     "do": "Say: 'In the story, Appa thought the water in the drain stopped the magnet. Today we test it.' Ask: 'What do you think? Why?' Write the guess in the magnet notebook."
     },
     {
      "kind": "exp",
      "title": "Through paper, cloth, hand and water",
      "mins": 14,
-     "do": "Do Experiment e3. Ask before each material: 'Will it still work?' Then ask: 'Was Baba right about the water?' Good answer: 'No. The magnet moved the clip through the glass and the water.'",
+     "do": "Do Experiment e3. Ask before each material: 'Will it still work?' Then ask: 'Was Appa right about the water?' Good answer: 'No. The magnet moved the clip through the glass and the water.'",
      "ref": "e3"
     },
     {
@@ -606,7 +606,7 @@
       },
       {
        "t": "mcq",
-       "p": "Neha's magnet sticks to her steel spoon but not to her steel tumbler. Why?",
+       "p": "Lakshmi's magnet sticks to her steel spoon but not to her steel tumbler. Why?",
        "opts": [
         "The magnet is broken.",
         "They are two different kinds of steel.",
@@ -1248,40 +1248,40 @@
  "story": {
   "title": "The Key in the Drain",
   "text": [
-   "Every Saturday morning, Salim chacha pushes his cart down our lane in Pune. 'Raddi! Kabadi! Old paper, old iron!' he calls. His cart is piled high with newspapers, bottles and bent pots. In his shirt pocket he keeps a round black magnet on a string.",
-   "That Saturday, Aai sold him the lid of our old pressure cooker and a dented lota. Salim chacha held his magnet against the lid. Click. It stuck so hard he had to twist it off. 'Steel,' he said, and threw the lid onto his pile of iron things.",
-   "Then he held the magnet against the lota. It did not stick. It just slid down the side and swung on its string. Salim chacha smiled. 'Brass,' he said. 'Brass pays better than iron.' He put the lota in a separate sack.",
+   "Every Saturday morning, Salim anna pushes his cart down our lane in Madurai. 'Old paper! Old iron! Old paper, old iron!' he calls. His cart is piled high with newspapers, bottles and bent pots. In his shirt pocket he keeps a round black magnet on a string.",
+   "That Saturday, Amma sold him the lid of our old pressure cooker and a dented lota. Salim anna held his magnet against the lid. Click. It stuck so hard he had to twist it off. 'Steel,' he said, and threw the lid onto his pile of iron things.",
+   "Then he held the magnet against the lota. It did not stick. It just slid down the side and swung on its string. Salim anna smiled. 'Brass,' he said. 'Brass pays better than iron.' He put the lota in a separate sack.",
    "'But brass is a metal too,' I said. 'Why didn't it stick?'",
-   "Salim chacha laughed. 'Ask your science teacher, Meena. I only know that it works.' He gave me a toffee and pushed his cart on down the lane.",
+   "Salim anna laughed. 'Ask your science teacher, Meena. I only know that it works.' He gave me a toffee and pushed his cart on down the lane.",
    "I forgot about it until the evening.",
-   "Baba came home late from the office. Aai had gone to my aunt's house in Satara for the night, so it was only Baba, me and my little brother Chintu, who was six and very hungry. Baba stood at our gate and took the house keys out of his pocket. A motorbike roared past. Baba jumped, and the keys slipped out of his fingers.",
+   "Appa came home late from the office. Amma had gone to my aunt's house in Dindigul for the night, so it was only Appa, me and my little brother Kannan, who was six and very hungry. Appa stood at our gate and took the house keys out of his pocket. A motorbike roared past. Appa jumped, and the keys slipped out of his fingers.",
    "They fell onto the iron grating that covers the drain beside our gate. For one second they sat there. Then they slid through a gap and dropped with a soft plop into the dark water below.",
-   "Baba knelt down and shone his phone torch through the grating. The drain was about as deep as my arm, with muddy water at the bottom. We could see the keys lying in the mud: two yellow keys and the small silver ring that held them together. The grating was far too heavy to lift. The gaps between its bars were only as wide as two of my fingers.",
-   "'I can't get my hand in,' Baba said. 'We'll have to call a locksmith. He'll break the lock.' He looked at our front door. It was a good brass lock, and a new one would cost a lot. Chintu started to cry.",
+   "Appa knelt down and shone his phone torch through the grating. The drain was about as deep as my arm, with muddy water at the bottom. We could see the keys lying in the mud: two yellow keys and the small silver ring that held them together. The grating was far too heavy to lift. The gaps between its bars were only as wide as two of my fingers.",
+   "'I can't get my hand in,' Appa said. 'We'll have to call a locksmith. He'll break the lock.' He looked at our front door. It was a good brass lock, and a new one would cost a lot. Kannan started to cry.",
    "Then I thought of the magnet on a string.",
-   "I ran down the lane to the shed where Salim chacha keeps his cart. He was eating his dinner on the step. When I told him, he put down his plate, took the magnet out of his pocket and walked back with me. He tied two more lengths of string to it, so it could reach the bottom.",
-   "Baba held the torch. Salim chacha lowered the magnet between the bars. It swung once, and then, clack! It jumped sideways and stuck to a bar of the grating.",
-   "'The grating is iron,' said Salim chacha. He pulled the magnet off and tried again. 'Down the middle of the gap. Slowly. Don't let it swing.' This time it went straight down, past the bars, and into the water.",
-   "We watched it reach the bottom. Salim chacha moved it until it touched the keys. Then he pulled the string up slowly. The magnet came up out of the water, dripping. Nothing was stuck to it.",
+   "I ran down the lane to the shed where Salim anna keeps his cart. He was eating his dinner on the step. When I told him, he put down his plate, took the magnet out of his pocket and walked back with me. He tied two more lengths of string to it, so it could reach the bottom.",
+   "Appa held the torch. Salim anna lowered the magnet between the bars. It swung once, and then, clack! It jumped sideways and stuck to a bar of the grating.",
+   "'The grating is iron,' said Salim anna. He pulled the magnet off and tried again. 'Down the middle of the gap. Slowly. Don't let it swing.' This time it went straight down, past the bars, and into the water.",
+   "We watched it reach the bottom. Salim anna moved it until it touched the keys. Then he pulled the string up slowly. The magnet came up out of the water, dripping. Nothing was stuck to it.",
    "He tried again. And again. Each time the magnet came up with only mud on it.",
-   "'It's the water,' Baba said quietly. 'The water must be stopping the magnet.'",
-   "I looked down at the two yellow keys in the torchlight. Yellow, like Aai's lota. I thought about the lota sliding off the magnet that morning, and about the lid that stuck so hard.",
+   "'It's the water,' Appa said quietly. 'The water must be stopping the magnet.'",
+   "I looked down at the two yellow keys in the torchlight. Yellow, like Amma's lota. I thought about the lota sliding off the magnet that morning, and about the lid that stuck so hard.",
    "'The keys are brass,' I said. 'Like the lota.'",
-   "Everyone looked at me. Salim chacha's eyebrows went up.",
+   "Everyone looked at me. Salim anna's eyebrows went up.",
    "'But the ring isn't,' I said. 'The ring is silver-coloured, like the cooker lid.'",
-   "Salim chacha handed me the string. 'Then you do it,' he said.",
-   "My hands were shaking. I let the magnet down through the middle of the gap, slowly, so it did not swing. It went into the water. Baba moved the torch so I could see the small silver ring. I lowered the magnet until it was just above the ring, and then a tiny bit lower.",
+   "Salim anna handed me the string. 'Then you do it,' he said.",
+   "My hands were shaking. I let the magnet down through the middle of the gap, slowly, so it did not swing. It went into the water. Appa moved the torch so I could see the small silver ring. I lowered the magnet until it was just above the ring, and then a tiny bit lower.",
    "I felt it through the string: a small tug, like a fish nibbling.",
    "I pulled up very, very slowly. Out of the water came the magnet. Hanging from it was the silver ring, and hanging from the ring, swinging and dripping, were our two yellow keys.",
-   "Chintu stopped crying and started shouting. Baba laughed out loud and hugged me with muddy hands. Salim chacha took his magnet back, wiped it on his shirt and looked at it as if he had never seen it before.",
-   "After dinner, I went round the kitchen with Aai's fridge magnet. It stuck to the tawa, the steel almirah and the gas cylinder. It did not stick to the brass diya, the copper pot or the aluminium pan. It slid off my steel tumbler, but it held on to my steel spoon.",
-   "On Monday, Salim chacha came down the lane again. He stopped at our gate and held up his magnet. 'So, Meena,' he said. 'Did you ask your teacher yet?'"
+   "Kannan stopped crying and started shouting. Appa laughed out loud and hugged me with muddy hands. Salim anna took his magnet back, wiped it on his shirt and looked at it as if he had never seen it before.",
+   "After dinner, I went round the kitchen with Amma's fridge magnet. It stuck to the tawa, the steel almirah and the gas cylinder. It did not stick to the brass diya, the copper pot or the aluminium pan. It slid off my steel tumbler, but it held on to my steel spoon.",
+   "On Monday, Salim anna came down the lane again. He stopped at our gate and held up his magnet. 'So, Meena,' he said. 'Did you ask your teacher yet?'"
   ],
-  "epiphany": "For the parent: the turn is when the magnet keeps coming up empty. Baba thinks the water is stopping the magnet. Meena remembers that the magnet slid off the brass lota but stuck to the steel lid. She realises the keys are brass, which a magnet does not attract, but the small ring is steel, which it does. The story also shows the magnet jumping across a gap to the iron grating, and acting through water. Let your child find these out in the tests on Days 1 to 3 before you name them.",
+  "epiphany": "For the parent: the turn is when the magnet keeps coming up empty. Appa thinks the water is stopping the magnet. Meena remembers that the magnet slid off the brass lota but stuck to the steel lid. She realises the keys are brass, which a magnet does not attract, but the small ring is steel, which it does. The story also shows the magnet jumping across a gap to the iron grating, and acting through water. Let your child find these out in the tests on Days 1 to 3 before you name them.",
   "ask": [
-   "Why did Salim chacha's magnet stick to the cooker lid but not to the lota?",
+   "Why did Salim anna's magnet stick to the cooker lid but not to the lota?",
    "Why did the magnet jump sideways onto the drain grating?",
-   "Baba thought the water was stopping the magnet. How could we test whether he was right?",
+   "Appa thought the water was stopping the magnet. How could we test whether he was right?",
    "Why did Meena aim the magnet at the ring and not at the keys?",
    "Meena's magnet slid off her steel tumbler but held her steel spoon. What could that mean?"
   ]

@@ -650,7 +650,7 @@
       "Spider web",
       "Your skin, pinched",
       "TEST IT: stretch a rubber band a little and let go. What does it do?",
-      "TEST IT: squeeze a ball of atta dough. Does it spring back?",
+      "TEST IT: squeeze a ball of chapati dough. Does it spring back?",
       "TEST IT: bend a plastic ruler a little and let go. What does it do? Don't bend it far, or it may snap.",
       "TEST IT: pinch the skin on the back of your hand and let go. Watch it."
      ]
@@ -2125,7 +2125,7 @@
      "qty": 1
     },
     {
-     "item": "a rope of playdough or atta dough, about 10 cm long",
+     "item": "a rope of playdough or chapati dough, about 10 cm long",
      "qty": 1
     },
     {
@@ -2180,7 +2180,7 @@
      "do": "1. Stretch the rubber band, plastic strip and dough to about twice their length. Pull the pen spring only a little. 2. Let go. 3. Measure each one again straight away. 4. Gently bend the spaghetti until it bends a little, then more.",
      "say": "Stretch it to twice as long. Let go. Now measure. Is it the same as before?",
      "kid": "Stretch each one to twice as long. Let go. Measure again. Bend the spaghetti gently. What happens?",
-     "parent": "Expect this. The rubber band springs back. The plastic strip stays long and thin. Playdough stays long. Atta dough shrinks back a little, but stays longer than before. The pen spring springs back if pulled gently, but stays long if pulled hard. The spaghetti bends a tiny bit, then snaps."
+     "parent": "Expect this. The rubber band springs back. The plastic strip stays long and thin. Playdough stays long. Chapati dough shrinks back a little, but stays longer than before. The pen spring springs back if pulled gently, but stays long if pulled hard. The spaghetti bends a tiny bit, then snaps."
     },
     {
      "id": "s3",
@@ -2282,7 +2282,7 @@
      "buy": "b-balls"
     },
     {
-     "item": "a ball of atta dough, the size of a lemon",
+     "item": "a ball of chapati dough, the size of a lemon",
      "qty": 1
     },
     {
@@ -2497,7 +2497,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Hunt around the home. 2. Look at pens, clothes pegs, the stapler, the mattress and the sofa. 3. Look at hair bands, pyjama elastic, a cycle seat and a charpai. 4. If you go outside with a grown-up, find a low green branch.",
+     "do": "1. Hunt around the home. 2. Look at pens, clothes pegs, the stapler, the mattress and the sofa. 3. Look at hair bands, pyjama elastic, a cycle seat and a woven cot. 4. If you go outside with a grown-up, find a low green branch.",
      "say": "For each one, what is its job? Does it stretch, squash, bend or bounce? What would happen if it were not elastic?",
      "kid": "For each find, say its job. Does it stretch, squash, bend or bounce? Write it down.",
      "adult": true,
@@ -3681,8 +3681,8 @@
    "art": "A cycle seat with its coiled springs."
   },
   {
-   "text": "A charpai or a mattress that sags as you sit and springs back when you stand.",
-   "art": "A woven charpai with a dip where someone sat."
+   "text": "A woven cot (kattil or charpai) or a mattress that sags as you sit and springs back when you stand.",
+   "art": "A woven cot with a dip where someone sat."
   },
   {
    "text": "Rubber trees in Kerala, with cups catching the white milky latex that becomes rubber.",
@@ -3741,7 +3741,7 @@
  ],
  "ask_kids": [
   "You just sat on the sofa. Did it spring back when you stood up?",
-  "Roti dough shrinks back a little after you roll it. Is it a bit elastic? How is it different from a rubber band?",
+  "Chapati dough shrinks back a little after you roll it. Is it a bit elastic? How is it different from a rubber band?",
   "Why does a hanging spring balance move further with a heavier bag?",
   "That ball bounced. Where did it squash?",
   "Can you find a spring in this room?",

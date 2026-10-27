@@ -211,9 +211,9 @@ About 4 and a half billion years ago, one cloud of gas and dust pulled itself to
 - *big:* Is there anyone out there, on a planet round another sun? If there is, what might they wonder about? (hint: Scientists have found more than 6,000 planets round other stars. Nobody knows yet if anything lives on them.)
 
 ## Story: The Lamp That Looked Like a Star
-*Sai, Rohan, Mr Fernandes, the lighthouse and the night at sea are made up. Real lighthouses do flash in their own patterns, so sailors can tell them apart, and their lights can be seen from about 30 kilometres away or more.*
+*Sai, Karthik, Mr Fernandes, the lighthouse and the night at sea are made up. Real lighthouses do flash in their own patterns, so sailors can tell them apart, and their lights can be seen from about 30 kilometres away or more.*
 
-Sai was nine, and she had been inside the lighthouse. That made her different from her cousin Rohan, who was eleven and knew everything. The lighthouse stood on the black rocks at the end of the bay, striped red and white. One hot afternoon in May, the keeper, Mr Fernandes, let her climb all one hundred and twelve steps to the top.
+Sai was nine, and she had been inside the lighthouse. That made her different from her cousin Karthik, who was eleven and knew everything. The lighthouse stood on the black rocks at the end of the bay, striped red and white. One hot afternoon in May, the keeper, Mr Fernandes, let her climb all one hundred and twelve steps to the top.
 
 At the top was the lamp. Sai had expected something like the lantern in their kitchen. Instead there was a giant glass beehive, taller than her father, made of rings and rings of thick, curved glass. In the middle sat a bulb as fat as a coconut. 'The glass gathers the light into a beam,' said Mr Fernandes. 'The whole thing turns. The boats see two quick flashes, then darkness, then two flashes again. Every lighthouse on this coast has its own pattern, so the sailors know which one they are looking at.'
 
@@ -223,7 +223,7 @@ At the top was the lamp. Sai had expected something like the lantern in their ki
 
 Sai did not believe him. Nothing that big could ever look that small.
 
-That evening on the roof, Rohan explained the sky to her. 'The Sun is the king,' he said. 'It is the biggest fire there is. The stars are its little sparks. They are tiny, like the sparks from Aai's chulha.' Sai looked up. The stars did look like sparks. But she remembered the beehive of glass, and she said nothing.
+That evening on the roof, Karthik explained the sky to her. 'The Sun is the king,' he said. 'It is the biggest fire there is. The stars are its little sparks. They are tiny, like the sparks from Amma's wood stove.' Sai looked up. The stars did look like sparks. But she remembered the beehive of glass, and she said nothing.
 
 In the last week before the monsoon, the sea was flat and the fish came close. Sai's father let both children come out on the boat for one night, to help with the nets. Her uncle came too. They left at dusk with a lantern swinging at the front. Behind them, the lighthouse began to wink. Two flashes and darkness. Two flashes and darkness. It grew smaller and smaller as the land slid away.
 
@@ -235,7 +235,7 @@ The sudden quiet was enormous. Her father and her uncle bent over the engine wit
 
 'Look for the lighthouse,' said her father. 'Everyone look.'
 
-Rohan stood up and stared hard into the dark, turning all the way round. 'It's gone,' he said, and his voice went high and thin. 'The haze has eaten it. If it was there, we'd see it. It's huge.'
+Karthik stood up and stared hard into the dark, turning all the way round. 'It's gone,' he said, and his voice went high and thin. 'The haze has eaten it. If it was there, we'd see it. It's huge.'
 
 Sai stared too. She was looking for something huge, something like the glass beehive. There was nothing like that anywhere. Her stomach went cold.
 
@@ -251,19 +251,19 @@ Her father looked where she was pointing. He waited, counting under his breath. 
 
 All the way home, the little star grew. It became a bright point, then a glare, then a turning beam that swept over their heads. When they came round the rocks into the bay, the lighthouse towered above them, as big as it had always been. It had never been small at all.
 
-The next night, Sai and Rohan lay on the roof again. Rohan was quiet for a long time. 'How did you know?' he said at last.
+The next night, Sai and Karthik lay on the roof again. Karthik was quiet for a long time. 'How did you know?' he said at last.
 
-'Mr Fernandes said his lamp would look like a star,' said Sai. 'And it did. A lamp taller than Baba, and it looked like a star.'
+'Mr Fernandes said his lamp would look like a star,' said Sai. 'And it did. A lamp taller than Appa, and it looked like a star.'
 
 She looked up at the sky, at all those tiny sparks. A new thought came to her, so big that it made her sit up. If the lamp looked like a star from thirty kilometres, what would a whole Sun look like, from very, very far away?
 
-Rohan opened his mouth to say something about sparks. Then he closed it again. The two of them lay still and looked at the stars, and the stars looked like stars. But Sai could not stop wondering. Somewhere out there, was there another girl in another boat on another dark sea, looking at our Sun, and thinking it was only a small star?
+Karthik opened his mouth to say something about sparks. Then he closed it again. The two of them lay still and looked at the stars, and the stars looked like stars. But Sai could not stop wondering. Somewhere out there, was there another girl in another boat on another dark sea, looking at our Sun, and thinking it was only a small star?
 
-**For the parent:** For the parent: the lighthouse lamp is huge, yet from far out at sea it looks like a small star. Rohan cannot find it because he is looking for something big. Sai finds it because she understands that distance makes huge lights look tiny. That is the key to this whole unit. The stars are not small sparks. They are suns, so far away that they look like points. And our own Sun, seen from far enough away, would be just one more small star.
+**For the parent:** For the parent: the lighthouse lamp is huge, yet from far out at sea it looks like a small star. Karthik cannot find it because he is looking for something big. Sai finds it because she understands that distance makes huge lights look tiny. That is the key to this whole unit. The stars are not small sparks. They are suns, so far away that they look like points. And our own Sun, seen from far enough away, would be just one more small star.
 
-- Ask: Why couldn't Rohan find the lighthouse, even though it was there all along?
+- Ask: Why couldn't Karthik find the lighthouse, even though it was there all along?
 - Ask: How did Sai tell the lighthouse apart from the stars low over the sea?
-- Ask: Rohan said the stars are tiny sparks. What would Sai say to him now?
+- Ask: Karthik said the stars are tiny sparks. What would Sai say to him now?
 - Ask: At the end, Sai wonders about a girl on another planet looking at our Sun. What do you think that girl would see?
 - Ask: Mr Fernandes told Sai something she did not believe at first. Have you ever learned something true that seemed impossible?
 
@@ -679,7 +679,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 13. (mcq) In the pinhole Sun experiment, what is the small bright circle on the white paper?  
    Options: A picture of the Sun, made by sunlight through the tiny hole / A shadow of the card / The Moon / Just a hole in the paper  
    **Answer:** A picture of the Sun, made by sunlight through the tiny hole. *Why:* Light from every part of the Sun passes through the pinhole and lands on the paper, making a small round picture of the Sun. If a cloud passes, you see it cross the circle. Picking 'a shadow' is a common idea. But a shadow is dark, and this circle is bright.
-14. (write) Rohan says stars are tiny sparks. Use the lighthouse lamp from the story to explain why they might be giant suns.  
+14. (write) Karthik says stars are tiny sparks. Use the lighthouse lamp from the story to explain why they might be giant suns.  
    **Answer:** The lighthouse lamp was taller than Sai's father. But from far out at sea it looked like a small star. So a light can be huge and still look tiny if it is very far away. The stars could be giant suns, very, very far away.. *Why:* A good answer links looking small to being far away, not to being small.
 15. (write) The Moon's ground is as dark grey as an old tar road. So why does the Moon look so bright at night?  
    **Answer:** The Moon is in strong sunlight, and the sky around it is black. Even a dark grey thing looks bright when sunlight falls on it and everything around it is darker.. *Why:* Brightness depends on what is around a thing. A grey road in sunshine looks bright next to a dark tunnel.

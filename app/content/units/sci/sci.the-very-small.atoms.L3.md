@@ -176,7 +176,7 @@ Nobody knows. As far as anyone can tell, electrons and quarks have no size at al
 We have been learning that everything you can touch is made of atoms, and what atoms are made of. Now we ask what that tells us about ourselves and the world.
 
 **Deep truth.** Cut a strip of paper in half again and again, and each piece is still paper, for a while. After about 31 halvings, a piece would be only one atom wide. Its atoms are carbon, hydrogen and oxygen, the same kinds as in sugar and in you. None of them is paper, so if you cut anything far enough, the pieces are no longer that thing.  
-*Habit it breaks:* We think a small piece of a thing is just a smaller copy of it, so a crumb of roti is still roti. That is true only down to a point. Below it, the pieces are atoms, and a carbon atom is not roti or paper.  
+*Habit it breaks:* We think a small piece of a thing is just a smaller copy of it, so a crumb of dosa is still dosa. That is true only down to a point. Below it, the pieces are atoms, and a carbon atom is not dosa or paper.  
 *Evidence:* In the paper-cutting experiment, the last sliver was still paper, and the magnifier showed its plant fibres. The halving chart shows that a piece one atom wide is still about 23 halvings further down. Paper is mostly cellulose, which is built from carbon, hydrogen and oxygen atoms. Sugar is built from the same three kinds of atom.
 
 - *who am i:* You are made mostly of atoms of oxygen, carbon, hydrogen and nitrogen, the same kinds as in air and food. None of those atoms is 'you' by itself.
@@ -280,9 +280,9 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Check: What does the electron card say about its size? → **Nobody has found any size at all**
   - Think: Is there a smallest thing in the world? Or does it go on for ever?
 ### g2 · Catch the Electron (20 min)
-- **rules:** Put the atom map flat on the floor. You need two dice and a bowl of dried rajma or chana.; The electron is hidden. Nobody knows where it is until it is measured.; Before each roll, every player guesses where the electron will be found: the inner ring, the middle ring or the outer ring. Write your guess down.; Then 'measure' the electron: roll both dice and add them up. Put one bean on the spot with that number. That is where the electron was found this time.; Everyone who guessed the right ring scores one point.; Play 20 rolls. The player with the most points wins. Playing alone, try to score 9 points or more. Bring a torch for the bonus round.; At the end, look at the beans. They make a picture of the electron cloud.; Bonus round with friends: one player holds a torch and is the detector. The others creep towards the nucleus while the torch is off. Anyone the beam lands on is 'measured' and must freeze in that one spot. A rolled paper ball that touches you counts as a measurement too.
+- **rules:** Put the atom map flat on the floor. You need two dice and a bowl of dried tamarind seeds or chana.; The electron is hidden. Nobody knows where it is until it is measured.; Before each roll, every player guesses where the electron will be found: the inner ring, the middle ring or the outer ring. Write your guess down.; Then 'measure' the electron: roll both dice and add them up. Put one bean on the spot with that number. That is where the electron was found this time.; Everyone who guessed the right ring scores one point.; Play 20 rolls. The player with the most points wins. Playing alone, try to score 9 points or more. Bring a torch for the bonus round.; At the end, look at the beans. They make a picture of the electron cloud.; Bonus round with friends: one player holds a torch and is the detector. The others creep towards the nucleus while the torch is off. Anyone the beam lands on is 'measured' and must freeze in that one spot. A rolled paper ball that touches you counts as a measurement too.
 - **Printable board: The atom map: a dot in the middle (the nucleus) and three rings of numbered spots:** Inner ring: spots 6, 7 and 8; Middle ring: spots 4, 5, 9 and 10; Outer ring: spots 2, 3, 11 and 12
-- **Printable tokens: 40 small counters: dried rajma or chana work well:** 🫘
+- **Printable tokens: 40 small counters: dried tamarind seeds or chana work well:** 🫘
 - **Printable score sheet: Guess sheet:** Roll number; My guess: inner, middle or outer ring; Where the electron was found; Point?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the atom map on the floor. 2. Put a bowl of beans and two dice beside it. 3. Show the nucleus in the middle and the three rings.  
@@ -348,20 +348,20 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **record:** Fill in the table for each hidden thing. Draw the card from above, with arrows showing where the marbles went.
 - **results table:** Hidden thing | Marbles rolled | Went straight through | Turned aside | Came back
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Put the four tumblers on a smooth floor, about 45 cm apart, in a square. 2. While your child looks away, put the upside-down katori in the middle. 3. Lay the cardboard on top of the tumblers, so it hides the katori.  
+  *Parent does:* 1. Put the four tumblers on a smooth floor, about 45 cm apart, in a square. 2. While your child looks away, put the upside-down bowl in the middle. 3. Lay the cardboard on top of the tumblers, so it hides the bowl.  
   *Parent says:* Something is hidden under this card. You may not look or touch it. You can only roll marbles under the card and watch what comes out.  
   *Child mode:* Something is hidden under the card. Don't peek! You can only roll marbles under it. Watch where they come out.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child kneels at one side and rolls a marble gently under the card. 2. Watch where it comes out: straight across, off to one side, or back towards them. 3. Make a tally mark in the right column. 4. Roll 20 marbles, from different spots along the edge.  
   *Parent says:* Roll gently, a different spot each time. Did it go straight through? Turn aside? Or come back to you?  
   *Child mode:* Roll a marble under the card. Where did it come out? Make a tally mark. Roll 20 marbles, a new spot each time.
-  - Note: A big katori usually turns several marbles aside, and sends a few straight back. If marbles stop on a rug, move to a smooth floor. If they roll over the hidden thing, use something taller.
+  - Note: A big bowl usually turns several marbles aside, and sends a few straight back. If marbles stop on a rug, move to a smooth floor. If they roll over the hidden thing, use something taller.
 - **s3 (5 min)**  
   *Parent does:* 1. Ask your child to guess how big the hidden thing is and where it sits. 2. Then lift the card and look.  
   *Parent says:* From what the marbles did, how big do you think the hidden thing is? Where is it? Let's look.  
   *Child mode:* Guess: is the hidden thing big or small? Where is it? Now lift the card and see!
 - **s4 (8 min)**  
-  *Parent does:* 1. While your child looks away, swap the katori for one AA battery. 2. Press its bottom end into a small ball of atta dough, so it stands up firmly. 3. Put the card back. 4. Roll 20 marbles again and tally.  
+  *Parent does:* 1. While your child looks away, swap the bowl for one AA battery. 2. Press its bottom end into a small ball of chapati dough, so it stands up firmly. 3. Put the card back. 4. Roll 20 marbles again and tally.  
   *Parent says:* Now something much smaller is hidden. Roll 20 marbles again. What happens this time?  
   *Child mode:* Now something smaller is hidden. Roll 20 marbles again. How many come back now?
   - Note: With the battery, only 1 or 2 marbles in 20 usually hit it. Most of those turn aside, and only a head-on hit comes back. If none hit it, roll 20 more.
@@ -525,15 +525,15 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 
 ## Projects
 ### p1 · Make an Honest Carbon Atom (50 min, 2 days)
-- **safety:** Small beans are a choking risk for children under 3. Wash hands after using atta dough.
+- **safety:** Small beans and seeds are a choking risk for children under 3. Wash hands after using chapati dough.
 - **record:** Draw your model and label the nucleus, protons, neutrons and electron cloud. Write one sentence about what your model gets wrong.
-- **schedule:** day 1: Build the nucleus from 6 rajma and 6 chana. Leave the glue to dry overnight. (25 min); day 2: Make the electron cloud from cotton and pen dots. Label the model and explain it to someone. (25 min)
+- **schedule:** day 1: Build the nucleus from 6 tamarind seeds and 6 chana. Leave the glue to dry overnight. (25 min); day 2: Make the electron cloud from cotton and pen dots. Label the model and explain it to someone. (25 min)
 - **s1 (5 min)**  
-  *Parent does:* Look at the 'What an atom is made of' card together. Count out 6 rajma for protons and 6 chana for neutrons.  
-  *Parent says:* A carbon atom has 6 protons and 6 neutrons in its nucleus. The rajma are the protons. The chana are the neutrons.  
-  *Child mode:* Count 6 red rajma. These are protons. Count 6 white chana. These are neutrons.
+  *Parent does:* Look at the 'What an atom is made of' card together. Count out 6 tamarind seeds for protons and 6 chana for neutrons.  
+  *Parent says:* A carbon atom has 6 protons and 6 neutrons in its nucleus. The tamarind seeds are the protons. The chana are the neutrons.  
+  *Child mode:* Count 6 dark tamarind seeds. These are protons. Count 6 white chana. These are neutrons.
 - **s2 (15 min)**  
-  *Parent does:* 1. Press the rajma and chana together into a small ball, using glue or a little atta dough. 2. Mix the colours. 3. Put it in the middle of the paper plate.  
+  *Parent does:* 1. Press the tamarind seeds and chana together into a small ball, using glue or a little chapati dough. 2. Mix the colours. 3. Put it in the middle of the paper plate.  
   *Parent says:* Press them together into one little ball. This is the nucleus, the heavy centre of the atom.  
   *Child mode:* Squeeze the beans into one little ball. Mix the colours. Put it in the middle of the plate.
   - Note: Real protons and neutrons are jumbled together like this, not in neat rows.
@@ -630,7 +630,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 12. (truefalse) Electrons go round the centre of an atom on neat tracks, like planets round the Sun.  
    **Answer:** False. *Why:* False. That picture was drawn in 1913 and is still in many books. But quantum physics shows electrons have no tracks. We can only say where they are likely to be.
 13. (sort) Sort these. Is each one made of atoms, or not made of atoms?  
-   **Answer:** the air → Made of atoms; a gold ring → Made of atoms; the smell of jalebi → Made of atoms; a shadow → Not made of atoms; sunlight → Not made of atoms; your breath → Made of atoms. *Why:* Air, gold, breath and smells are matter, so they are made of atoms. A smell is tiny molecules reaching your nose. A shadow is just a place where light is blocked. Sunlight is light, which is not made of atoms.
+   **Answer:** the air → Made of atoms; a gold ring → Made of atoms; the smell of filter coffee → Made of atoms; a shadow → Not made of atoms; sunlight → Not made of atoms; your breath → Made of atoms. *Why:* Air, gold, breath and smells are matter, so they are made of atoms. A smell is tiny molecules reaching your nose. A shadow is just a place where light is blocked. Sunlight is light, which is not made of atoms.
 14. (mcq) In physics, what is an 'observer'?  
    Options: Anything that measures, like a detector, a screen or even light / Only a person who is watching / Only a scientist / Only a camera  
    **Answer:** Anything that measures, like a detector, a screen or even light. *Why:* In physics, an observer is anything that measures, so anything that a particle bumps into. Picking 'only a person' is the most common mix-up. Experiments work the same way with no person watching.
@@ -791,7 +791,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - Old orange street lights. They glow one exact colour, from sodium atoms.
 - The smell of tadka from the kitchen. Tiny molecules of hot oil and spices travel through the air to your nose.
 - Dust dancing in a sunbeam through a window. It swirls in air currents, a reminder that the air is full of things too small to see.
-- Diwali fireworks, coloured by different kinds of atoms.
+- Deepavali fireworks, coloured by different kinds of atoms.
 - A pencil line on paper: a thin smear of graphite, which is flat layers of carbon atoms rubbed off the tip.
 
 ## Open questions
@@ -805,9 +805,9 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **When did Kanada live, and what exactly did he teach?** Very old texts are hard to date, and his teachings come to us through later writers.
 
 ## Questions to ask kids
-- If you kept cutting this roti in half, what would you get in the end?
+- If you kept cutting this dosa in half, what would you get in the end?
 - Is the air in this room empty, or full of something?
-- You can smell the dal cooking. What has reached your nose?
+- You can smell the rasam cooking. What has reached your nose?
 - Your hand is almost all empty space. So why doesn't it go through the table?
 - Which is smaller, an ant or a grain of salt? And what is smaller than both?
 - Where do you think the atoms in your food came from before they were food?

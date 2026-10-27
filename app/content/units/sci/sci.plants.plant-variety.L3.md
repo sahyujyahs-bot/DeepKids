@@ -122,10 +122,10 @@ A banyan tree drops roots from its branches. These prop roots grow thick and bec
 ### How people use plants · *defined*
 **Definition:** People depend on plants for food, medicine, shade, wood, cloth, rope, paper, oil, colours and much more.
 
-Look at your breakfast. Rice, wheat, dal, vegetables, fruit, sugar, tea and spices all come from plants. Milk comes from cows that eat grass. So almost all our food comes from plants in the end. Just three grasses, rice, wheat and maize, give the world nearly half of all its food energy. Cotton clothes are made from the fluffy fibres of the cotton plant. Chairs, doors and pencils are wood. Natural rubber comes from the milky sap of the rubber tree. Haldi and mehendi give us colours. Coconut and mustard give us oil. Trees give us shade and cool our streets.
+Look at your breakfast. Rice, wheat, dal, vegetables, fruit, sugar, tea and spices all come from plants. Milk comes from cows that eat grass. So almost all our food comes from plants in the end. Just three grasses, rice, wheat and maize, give the world nearly half of all its food energy. Cotton clothes are made from the fluffy fibres of the cotton plant. Chairs, doors and pencils are wood. Natural rubber comes from the milky sap of the rubber tree. Turmeric and mehendi give us colours. Coconut and mustard give us oil. Trees give us shade and cool our streets.
 - e.g. Food: rice, wheat, dal, mango, banana, tea and sugar.
 - e.g. Things: cotton cloth, jute bags, coir doormats, wooden furniture, paper and rubber.
-- e.g. Colours: haldi gives yellow, mehendi gives orange-red and indigo gives blue.
+- e.g. Colours: turmeric gives yellow, mehendi gives orange-red and indigo gives blue.
 ### Medicines from plants · *defined*
 **Definition:** Many medicines were first found in plants. Plants make strong chemicals to protect themselves, and some of these chemicals can help us heal.
 
@@ -467,7 +467,7 @@ And now, when I see a coconut palm with a green vine winding up it, or a jackfru
   *Parent says:* How many things in our home came from a plant? Let's hunt. You have ten minutes.  
   *Child mode:* Find everything in your home that came from a plant. You have ten minutes. Go!
 - **s2 (10 min)**  
-  *Parent does:* Let your child hunt. Help with tricky ones: paper, rubber chappals, cotton clothes, a wooden spoon, coconut oil, tea, sugar, haldi, a jute bag.  
+  *Parent does:* Let your child hunt. Help with tricky ones: paper, rubber chappals, cotton clothes, a wooden spoon, coconut oil, tea, sugar, turmeric, a jute bag.  
   *Parent says:* Look everywhere: the kitchen, the cupboard, your clothes, your school bag. Where does each thing really come from?  
   *Child mode:* Look in the kitchen. Look at your clothes and your books. Where did each thing come from?
   - Note: Surprising ones: paper is made from wood, and sugar comes from a grass called sugarcane. Natural rubber comes from a tree's milky sap. Milk and eggs count too, because cows and hens eat plants.
@@ -475,7 +475,7 @@ And now, when I see a coconut palm with a green vine winding up it, or a jackfru
   *Parent does:* Count the things in each box together.  
   *Parent says:* Which box has the most things in it? Is there any box that is empty?  
   *Child mode:* Count each box. Which box is the fullest?
-  - Check: Riya, a girl in Class 3, has chappals made of natural rubber. Where does natural rubber come from? → **From the milky sap of a rubber tree**
+  - Check: Kavya, a girl in Class 3, has chappals made of natural rubber. Where does natural rubber come from? → **From the milky sap of a rubber tree**
 - **s4 (4 min)**  
   *Parent does:* Imagine a breakfast with no plants at all.  
   *Parent says:* If every plant disappeared, what would be left for breakfast? Think about milk and eggs too.  
@@ -571,7 +571,7 @@ And now, when I see a coconut palm with a green vine winding up it, or a jackfru
   *Child mode:* Hang a bag of coins from the loose bunch. Then from your rope. Which holds more?
   - Check: In Twist a Plant Rope, why did the twisted rope hold more coins than the loose fibres? → **Twisting makes the fibres grip each other, so they all share the pull**
 - **s4 (3 min)**  
-  *Parent does:* Look for plant ropes and fibres at home: a jute bag, a coir doormat, a cotton string, a charpai's woven top.  
+  *Parent does:* Look for plant ropes and fibres at home: a jute bag, a coir doormat, a cotton string, a rope cot.  
   *Parent says:* Ropes for boats, cots and wells were made from plants like coir, jute and hemp for thousands of years.  
   *Child mode:* Find something at home made from plant fibre.
   - Think: Why do you think coir ropes are used on boats in Kerala?
@@ -801,7 +801,7 @@ And now, when I see a coconut palm with a green vine winding up it, or a jackfru
 7. (mcq) A medicine for a blood cancer in children was found in a common Indian garden plant. Which plant?  
    Options: Sadabahar, the periwinkle / Grass / Kaner  
    **Answer:** Sadabahar, the periwinkle. *Why:* Sadabahar gave the medicines vincristine and vinblastine. Kaner is poisonous. Picking 'kaner' is a reminder that only scientists and doctors who test plants can tell a medicine from a poison.
-8. (mcq) Riya, a girl in Class 3, put a thermometer on sunny ground. It read 44 degrees. Under a tree, it read 30 degrees. How much cooler was the shade?  
+8. (mcq) Kavya, a girl in Class 3, put a thermometer on sunny ground. It read 44 degrees. Under a tree, it read 30 degrees. How much cooler was the shade?  
    Options: 14 degrees / 74 degrees / 30 degrees  
    **Answer:** 14 degrees. *Why:* 44 minus 30 is 14. So the shade was 14 degrees cooler. Picking 74 means adding instead of taking away.
 9. (mcq) A banana plant is tall, but botanists call it a giant herb. Why?  
@@ -858,7 +858,7 @@ And now, when I see a coconut palm with a green vine winding up it, or a jackfru
 - That plant is growing out of a wall. How did it get there?
 - Is there anything in this room that did not come from a plant, or a rock, or oil?
 - How is that climber holding on?
-- Is that tree older than me? Older than Dadi? How could we guess?
+- Is that tree older than me? Older than Paati? How could we guess?
 - Who planted the trees on this road, and why?
 
 ## Jokes
@@ -885,7 +885,7 @@ And now, when I see a coconut palm with a green vine winding up it, or a jackfru
 - What did the teak tree say to the carpenter? *Wood you be careful?*
 
 ## Connected maths
-- Asha, a girl in Class 3, did a Plant Count from her windows. She counted 12 trees, 8 shrubs, 20 herbs, 4 climbers and 2 creepers. How many plants did she count in all? Which kind did she see most of? **46 plants. Herbs were the most.**. Add them up: 12 + 8 is 20. 20 + 20 is 40. 40 + 4 is 44. 44 + 2 is 46. The biggest number is 20, for herbs, so she saw herbs most. (queues `math.data.sorting-and-tallies.L3`)
+- Lakshmi, a girl in Class 3, did a Plant Count from her windows. She counted 12 trees, 8 shrubs, 20 herbs, 4 climbers and 2 creepers. How many plants did she count in all? Which kind did she see most of? **46 plants. Herbs were the most.**. Add them up: 12 + 8 is 20. 20 + 20 is 40. 40 + 4 is 44. 44 + 2 is 46. The biggest number is 20, for herbs, so she saw herbs most. (queues `math.data.sorting-and-tallies.L3`)
 - In Shade Detective, the sunny paving was 46 degrees and the ground under a big tree was 31 degrees. How many degrees cooler was the tree's shade? **15 degrees cooler.**. Take the smaller number from the bigger one. 46 minus 31 is 15. Check: 31 + 15 is 46. (queues `math.temperature.reading-thermometers.L3`)
 - In Hug a Tree, a neem trunk measured 150 cm around. Using the rough rule that many trees grow 2 and a half cm around each year, about how old is it? **About 60 years old.**. Two lots of 2 and a half make 5. So every 5 cm around is about 2 years. 150 divided by 5 is 30. 30 lots of 2 years is 60 years. The tree is roughly 60 years old. Remember this is only a rough guess. (queues `math.division.sharing-and-grouping.L3`)
 - Some bamboo can grow about 90 cm in one day. If it kept growing at that speed, how tall would a new shoot be after 4 days? **360 cm, which is 3 metres and 60 centimetres.**. 90 cm each day for 4 days is 4 groups of 90. 90 + 90 is 180. 180 + 180 is 360. So 360 cm. That is more than twice as tall as a grown-up. (queues `math.multiplication.equal-groups.L3`)

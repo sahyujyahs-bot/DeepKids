@@ -49,7 +49,7 @@ Hum with your fingers on your throat. You feel a buzz. Stop humming, and the buz
 ### What vibrates in different sound sources · *defined*
 **Definition:** Different sources vibrate different parts. Strings, stretched skins, columns of air, solid things and living bodies can all vibrate and make sound.
 
-In a veena or sitar, a stretched string vibrates. In a tabla, dhol or mridangam, a stretched skin vibrates. In a bansuri, a shehnai or a conch, it is the air inside the tube that vibrates. In a temple bell, a steel thali or a ghatam, the whole solid thing vibrates. The ghatam is a clay pot played as a drum. Many of the best are made in Manamadurai, in Tamil Nadu. In your voice, two soft flaps in your throat, the vocal folds, vibrate as air from your lungs rushes past.
+In a veena or sitar, a stretched string vibrates. In a tabla, dhol or mridangam, a stretched skin vibrates. In a bansuri, a shehnai or a conch, it is the air inside the tube that vibrates. In a temple bell, a steel plate or a ghatam, the whole solid thing vibrates. The ghatam is a clay pot played as a drum. Many of the best are made in Manamadurai, in Tamil Nadu. In your voice, two soft flaps in your throat, the vocal folds, vibrate as air from your lungs rushes past.
 - e.g. String: veena, sitar, ektara, violin, a twanged rubber band.
 - e.g. Skin: tabla, mridangam, dhol, damru.
 - e.g. Air: bansuri, shehnai, conch, a whistle, a bottle you blow across.
@@ -122,7 +122,7 @@ A sound wave carries energy, which is what it takes to make things move. As it s
 **Definition:** No. Every solid, liquid and gas is made of atoms and molecules that never stop jiggling. The warmer a thing is, the faster they jiggle.
 
 A stone on the ground looks perfectly still. But its atoms are jiggling all the time, too fast and too small to see or hear. That jiggling is what warmth is. Cool the stone, and the jiggling slows down. Scientists have cooled things to almost the coldest anything can be. Even there, quantum physics, the science of the very tiniest things, says the jiggling never stops completely. Sound is a neat vibration that molecules pass along together. Underneath it is always this messy jiggle of everything.
-- e.g. A cup of hot chai: its molecules jiggle faster than those in a glass of cold water.
+- e.g. A tumbler of hot filter coffee: its molecules jiggle faster than those in a glass of cold water.
 - e.g. The 'quietest' room ever built still isn't silent to the person in it. They hear their own heartbeat and breathing.
 ### Why do people make music? · *debated*
 Every human culture ever found makes music. Some flutes made from bird bones and mammoth ivory are about 40,000 years old. But scientists still argue about why people make music at all.
@@ -342,38 +342,38 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Child mode:* Say or write three things. What I think. What I saw or heard. Why I think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a longer piece of ruler makes a lower sound. What I saw: at 5 cm it buzzed high, and at 25 cm it wobbled slowly and I could hardly hear it. Why: a longer piece vibrates more slowly, and slower vibration sounds lower.
 ### e2 · Catch the Ring: can you see a sound? (20 min)
-- **question:** A ringing steel thali looks still. Is it really vibrating? How can we show it?
-- **predict:** Guess first. If a small foil ball on a thread touches a ringing thali, will it stay still or move? Why do you think so?
-- **fair test:** Hit the thali the same way each time. Then compare: the foil ball touching the thali while it rings, and touching it after you have stopped it with your hand. Change only whether the thali is ringing.
-- **safety:** Hit the thali firmly but not so hard it hurts anyone's ears. Keep it away from ears. Wipe up any spilled water so nobody slips.
-- **record:** Fill in the table. Draw the foil ball jumping off the ringing thali.
+- **question:** A ringing steel plate looks still. Is it really vibrating? How can we show it?
+- **predict:** Guess first. If a small foil ball on a thread touches a ringing plate, will it stay still or move? Why do you think so?
+- **fair test:** Hit the plate the same way each time. Then compare: the foil ball touching the plate while it rings, and touching it after you have stopped it with your hand. Change only whether the plate is ringing.
+- **safety:** Hit the plate firmly but not so hard it hurts anyone's ears. Keep it away from ears. Wipe up any spilled water so nobody slips.
+- **record:** Fill in the table. Draw the foil ball jumping off the ringing plate.
 - **results table:** What we did | What the foil ball or water did | Could we hear the ring?
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Squeeze the foil into a pea-sized ball. 2. Tape the thread to it. 3. Tape the other end of the thread to the edge of a table, so the ball hangs down. 4. Hold the thali on its edge, upright, so its rim just touches the hanging ball.  
-  *Parent says:* This thali is our sound source. The little foil ball will be our sound catcher.  
-  *Child mode:* Make a tiny foil ball. Tape a thread to it. Hang it from the table. Hold the thali on its edge so the rim just touches the ball.
+  *Parent does:* 1. Squeeze the foil into a pea-sized ball. 2. Tape the thread to it. 3. Tape the other end of the thread to the edge of a table, so the ball hangs down. 4. Hold the plate on its edge, upright, so its rim just touches the hanging ball.  
+  *Parent says:* This plate is our sound source. The little foil ball will be our sound catcher.  
+  *Child mode:* Make a tiny foil ball. Tape a thread to it. Hang it from the table. Hold the plate on its edge so the rim just touches the ball.
 - **s2 (4 min)**  
-  *Parent does:* 1. Hold the thali upright by its very edge, with two fingers. 2. Hit it firmly near the rim with the spoon. 3. Watch the foil ball.  
+  *Parent does:* 1. Hold the plate upright by its very edge, with two fingers. 2. Hit it firmly near the rim with the spoon. 3. Watch the foil ball.  
   *Parent says:* Listen to it ring. Now watch the ball. What does it do?  
-  *Child mode:* Hit the thali with the spoon. Listen. Watch the foil ball. What does it do?
-  - Ask: What did the foil ball do when the thali rang? (good: It jumped away.; It bounced off the thali again and again.)
-  - Note: Hold the thali loosely by the edge, or it won't ring. The ball should bounce away clearly. If it doesn't, hit a little harder, or make the ball smaller.
+  *Child mode:* Hit the plate with the spoon. Listen. Watch the foil ball. What does it do?
+  - Ask: What did the foil ball do when the plate rang? (good: It jumped away.; It bounced off the plate again and again.)
+  - Note: Hold the plate loosely by the edge, or it won't ring. The ball should bounce away clearly. If it doesn't, hit a little harder, or make the ball smaller.
 - **s3 (4 min)**  
-  *Parent does:* 1. Hit the thali again. 2. Then hold it with your whole hand to stop the ring. 3. Let the ball touch it again.  
+  *Parent does:* 1. Hit the plate again. 2. Then hold it with your whole hand to stop the ring. 3. Let the ball touch it again.  
   *Parent says:* Now let's stop the ring with a hand. Watch the ball this time.  
   *Child mode:* Hit it again. Now hold it tight to stop the ring. Does the ball still jump?
-  - Check: When you held the thali and the ring stopped, what did the foil ball do? → **It hung still, because the thali stopped vibrating**
+  - Check: When you held the plate and the ring stopped, what did the foil ball do? → **It hung still, because the plate stopped vibrating**
 - **s4 (5 min)**  
-  *Parent does:* 1. Pour water into a steel katori until it is half full. 2. Shine the torch on the water from the side. 3. Hit the rim of the katori firmly with the spoon. 4. Look at the water right next to the wall.  
+  *Parent does:* 1. Pour water into a steel bowl until it is half full. 2. Shine the torch on the water from the side. 3. Hit the rim of the bowl firmly with the spoon. 4. Look at the water right next to the wall.  
   *Parent says:* Now let's watch water instead of foil. Look very closely at the water next to the wall when I hit the rim.  
-  *Child mode:* Pour water into the katori. Shine the torch on it. Hit the rim with the spoon. Watch the water by the wall.
-  - Ask: What did the water do when you hit the katori? (good: Tiny ripples shook next to the wall.; The water shimmered, so the katori was vibrating.)
-  - Note: Look for fine ripples or a shimmer on the water next to the wall. They last only a second or two, so watch closely and hit again. The torch makes them much easier to see. A bigger steel bowl rings longer than a small katori.
+  *Child mode:* Pour water into the bowl. Shine the torch on it. Hit the rim with the spoon. Watch the water by the wall.
+  - Ask: What did the water do when you hit the bowl? (good: Tiny ripples shook next to the wall.; The water shimmered, so the bowl was vibrating.)
+  - Note: Look for fine ripples or a shimmer on the water next to the wall. They last only a second or two, so watch closely and hit again. The torch makes them much easier to see. A bigger steel bowl rings longer than a small one.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Now tell me three things. What do you think now about the ringing thali? What did you see or hear that shows it? Why do you think it happened?  
+  *Parent says:* Now tell me three things. What do you think now about the ringing plate? What did you see or hear that shows it? Why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw or heard. Why I think it happened.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a ringing thali is vibrating, even though it looks still. What I saw: the foil ball jumped away while it rang, and hung still when I held it. Why: the thali vibrates very fast, which pushes the ball and makes the sound.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a ringing plate is vibrating, even though it looks still. What I saw: the foil ball jumped away while it rang, and hung still when I held it. Why: the plate vibrates very fast, which pushes the ball and makes the sound.
 ### e3 · The Atta Trick: the mridangam's secret (25 min)
 - **question:** Does putting a blob of dough on a drum skin change its sound, the way a mridangam player does?
 - **predict:** Guess first. With a blob of atta dough in the middle, will the drum sound higher, lower, or the same? Why do you think so?
@@ -457,7 +457,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Parent does:* 1. Tap each kitchen thing with the steel spoon, then with the wooden spoon. 2. Listen to how long each one rings.  
   *Parent says:* Everything in the kitchen has its own voice. Let's listen to each one. What is vibrating?  
   *Child mode:* Tap each thing with a spoon. Listen. Which rings longest? What is vibrating?
-  - Note: Steel rings long. Wood and plastic give a short knock. A clay matka sounds like a ghatam, the clay-pot drum from Tamil Nadu.
+  - Note: Steel rings long. Wood and plastic give a short knock. A clay pot sounds like a ghatam, the clay-pot drum from Tamil Nadu.
 - **s2 (6 min)**  
   *Parent does:* 1. Line up 5 tumblers. 2. Pour water into them: 0, 50, 100, 150 and 200 ml. 3. Tap each one gently near the rim with the spoon.  
   *Parent says:* A jal tarang is a real Indian instrument, made of bowls with water in them. Let's make ours.  

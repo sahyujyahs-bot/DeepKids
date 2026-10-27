@@ -81,7 +81,7 @@ Your eyes are soft and easy to hurt, so they have many guards. Your eyebrows sto
 
 The outer ear is shaped like a funnel to catch sounds. Sounds travel down a short tube, the ear canal, to the eardrum. The eardrum is a thin skin, a little like the skin of a drum. Sound makes it shake, and that is how you hear. The ear canal makes wax. The wax traps dust and tiny germs. Then it slowly moves outwards by itself, helped by your jaw moving when you chew and talk. So ears mostly clean themselves. Doctors say never put cotton buds, hairpins or matchsticks into your ears. They push wax deeper and can tear the eardrum. Don't pour oil in either, unless a doctor tells you to. Just wipe the outside with a cloth. Keep away from very loud sounds.
 - e.g. A little wax at the opening of the ear is normal. Wipe it off with a towel after a bath.
-- e.g. Chewing roti moves your jaw, which helps the wax move out.
+- e.g. Chewing a dosa moves your jaw, which helps the wax move out.
 - e.g. Loud music through earphones for a long time can hurt hearing.
 ### Nose: air, smell and a dust trap · *defined*
 **Definition:** The nose is the organ for breathing in air and for smelling. Hairs and sticky mucus inside it trap dust and germs.
@@ -102,7 +102,7 @@ Children have 20 milk teeth. From about age 6, they fall out one by one, and big
 
 Your thumb can turn and touch the tip of every finger. This lets you hold a pencil, a needle or a single grain of rice. Your fingertips are packed with nerves, so they feel very well. On their skin are tiny curving ridges. Sweat comes out of tiny holes along the ridges, and your fingers pick up oil from your face and hair. So you leave fingerprints on what you touch. Hands also pick up germs from everything they touch. So wash them with soap before eating, after the toilet, after playing outside and after touching animals. Rub every part for at least 20 seconds, then rinse. Hands carry a thin layer of oil and grease, and germs stick in it. Soap grabs that oil, and water carries it away.
 - e.g. You leave fingerprints on a glass, a mirror and a phone screen.
-- e.g. Germs from a door handle can get onto your roti if you don't wash your hands.
+- e.g. Germs from a door handle can get onto your idli if you don't wash your hands.
 - e.g. A blind reader feels the raised dots of Braille with the fingertips.
 ### Feet · *defined*
 **Definition:** The feet carry the whole weight of the body. They help us stand, balance, walk and run.
@@ -186,7 +186,7 @@ Your whole body grew from one first cell. That cell divided again and again, and
 
 - **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Inside, Shvetaketu can see nothing at all. Uddalaka tells him that the whole great banyan tree grows out of that nothing he cannot see. (The first cell of your body held no tiny fingerprint you could have seen. The ridges appeared only as your fingertips grew, before you were born.)
 - **Plato, Cratylus 402a, reporting Heraclitus:** Heraclitus, a Greek thinker, said you cannot step into the same river twice. The water is always new, yet it is still the river. (Your outer skin is replaced every month or two, yet the same fingerprint grows back each time, because its pattern is held in a deeper layer of skin.)
-- **Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself. (Your new skin cells are built from the dal, rice and water you took in. Look deeply at your skin, and you can see the farms and the rain that grew your food.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself. (Your new skin cells are built from the sambar, rice and water you took in. Look deeply at your skin, and you can see the farms and the rain that grew your food.)
 - Science (settled): The top layer of skin is made of dead cells that flake off, while new cells grow underneath. The outer skin is replaced about every month or two.
 - Science (settled): Fingerprint ridges form between about 10 and 16 weeks in the womb. Genes affect what kind of pattern a finger has, but every finger's exact print is different, even between identical twins.
 - Other view, Many scientists who study genes: Genes matter more than this makes it sound. Identical twins' prints are often the same kind and look alike, and the kind of pattern runs in families. They would say the differences are small details, and the genes did the main work. That is an honest view.
@@ -492,10 +492,10 @@ Many years later, the government gave her uncle a reward and an honour for his w
   - Note: Koalas, chimpanzees and gorillas have fingerprints too.
   - Think: What other animals do you think have fingerprints?
 ### a3 · Oily Hands: water or soap? (15 min)
-- **safety:** Haldi can stain skin and nails yellow for a few hours. That's harmless. If you use glitter, keep it away from eyes.
+- **safety:** Turmeric can stain skin and nails yellow for a few hours. That's harmless. If you use glitter, keep it away from eyes.
 - **record:** Draw your hands after water only and after soap. Then draw the six steps of handwashing.
 - **s1 (3 min)**  
-  *Parent does:* Rub a few drops of oil over your child's hands. Sprinkle on a pinch of haldi or glitter. Say the powder is pretend germs.  
+  *Parent does:* Rub a few drops of oil over your child's hands. Sprinkle on a pinch of turmeric or glitter. Say the powder is pretend germs.  
   *Parent says:* Hands pick up a thin layer of oil from food, from your face and from things you touch. Germs stick in that oil. Let's pretend this powder is germs.  
   *Child mode:* Rub oil on your hands. Sprinkle on the powder. Pretend it is germs.
 - **s2 (3 min)**  
@@ -507,7 +507,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent does:* Now wash with soap, rubbing for 20 seconds. Teach the six steps. Rub the palms, then the backs of the hands, then between the fingers. Then rub the backs of the fingers, the thumbs, and the fingertips and nails. Then rinse.  
   *Parent says:* Soap grabs oil with one end and water with the other. So water can carry the oil, and the germs, away. Let's count 20 seconds, or sing Happy Birthday twice.  
   *Child mode:* Now use soap. Rub palms, backs, between fingers, thumbs and nails. Sing Happy Birthday twice. Rinse.
-  - Note: Children often wash only their palms. The thumbs, fingertips and backs of the hands are the places most often missed. Watch where the powder stays. Haldi may leave a faint yellow tint even after soap. That is dye soaked into the skin, so look for the grains of powder instead.
+  - Note: Children often wash only their palms. The thumbs, fingertips and backs of the hands are the places most often missed. Watch where the powder stays. Turmeric may leave a faint yellow tint even after soap. That is dye soaked into the skin, so look for the grains of powder instead.
 - **s4 (4 min)**  
   *Parent does:* Look at the hands. Where is the powder still stuck? Talk about when to wash with soap. Wash before eating, after the toilet, after playing outside and after touching animals. Wash after sneezing into your hands too.  
   *Parent says:* When are the most important times to wash with soap?  
@@ -560,9 +560,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **safety:** Act it out only. Nothing goes into anyone's ear.
 - **record:** Draw a cut-away of the ear with the wax moving outwards, and write 'never poke in' next to it.
 - **s1 (3 min)**  
-  *Parent does:* Lay the dupatta on the floor as the ear canal. Put a cushion at one end as the eardrum. Throw paper balls in as dust.  
+  *Parent does:* Lay the sari on the floor as the ear canal. Put a cushion at one end as the eardrum. Throw paper balls in as dust.  
   *Parent says:* This is the inside of an ear. Dust is blowing in. Who will stop it reaching the eardrum?  
-  *Child mode:* The dupatta is your ear tube. The cushion is your eardrum. Paper balls are dust blowing in.
+  *Child mode:* The sari is your ear tube. The cushion is your eardrum. Paper balls are dust blowing in.
 - **s2 (4 min)**  
   *Parent does:* Your child plays the wax. They catch the paper balls before they reach the cushion. Each time you chew or talk loudly, they shuffle one step out of the ear, carrying the dust.  
   *Parent says:* Every time I chew or talk, my jaw moves, and the wax moves out a little.  

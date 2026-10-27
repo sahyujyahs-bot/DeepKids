@@ -94,7 +94,7 @@
      "kind": "act",
      "title": "Self-portrait",
      "mins": 15,
-     "do": "Your child sits in front of a mirror with paper and pencils and draws their own face. Ask them to look closely at eye colour, eyebrows, ears and hair. Ask: 'Which parts of your face are like Mummy's or Papa's? Which parts are only yours?'"
+     "do": "Your child sits in front of a mirror with paper and pencils and draws their own face. Ask them to look closely at eye colour, eyebrows, ears and hair. Ask: 'Which parts of your face are like Amma's or Appa's? Which parts are only yours?'"
     },
     {
      "kind": "talk",
@@ -448,7 +448,7 @@
       },
       {
        "t": "mcq",
-       "p": "Riya counts eye colours in her building. She draws 4 lines and 1 line across them. How many is that?",
+       "p": "Kavya counts eye colours in her building. She draws 4 lines and 1 line across them. How many is that?",
        "opts": [
         "4",
         "5",
@@ -485,7 +485,7 @@
       },
       {
        "t": "write",
-       "p": "Aman sorted his family by which hand they write with, then by first language. The groups were different each time. Why?",
+       "p": "Farhan sorted his family by which hand they write with, then by first language. The groups were different each time. Why?",
        "lines": 3
       }
      ]
@@ -797,7 +797,7 @@
     "Sort the cards into groups by which hand they write with. Count each group.",
     "Mix them. Sort again by first language.",
     "Mix them. Sort again by favourite fruit.",
-    "Pick one person. Say all the groups they were in: 'Nani is right-handed, speaks Marathi and loves mangoes.'"
+    "Pick one person. Say all the groups they were in: 'Nani is right-handed, speaks Tamil and loves mangoes.'"
    ],
    "outcome": "Your child sees that the same people fall into different groups for each question, and each person is in many groups at once."
   },
@@ -944,7 +944,7 @@
     "back": "Diya feels shy at birthday parties."
    },
    {
-    "front": "Arjun: brown eyes, curly hair, glasses, right-handed",
+    "front": "Arjun: brown eyes, curly hair, glasses, right-handed, speaks Tamil",
     "back": "Arjun cried when his fish died."
    },
    {
@@ -952,7 +952,7 @@
     "back": "Lhamo wants to climb a mountain."
    },
    {
-    "front": "Ravi: brown eyes, no hair (shaved head), right-handed",
+    "front": "Ravi: brown eyes, no hair (shaved head), right-handed, speaks Telugu",
     "back": "Ravi is learning to swim."
    },
    {
@@ -1027,12 +1027,12 @@
  "story": {
   "title": "Which Crow Is Which?",
   "text": [
-   "I am a crow. I live on the water tank on top of Building C, in a housing society in Pune. From up there I can see eleven balconies, two neem trees and the corner where the bread man stops his cycle.",
+   "I am a crow. I live on the water tank on top of Building C, in a housing society in Hyderabad. From up there I can see eleven balconies, two neem trees and the corner where the bread man stops his cycle.",
    "Humans think all crows look the same. We do not think all humans look the same. I know the old man in 3B, who throws chapati crusts at seven every morning. I know the woman in 5A, who waves a broom when I sit on her railing. I know them by their faces, the way they walk and the sound of their slippers. A crow who cannot tell faces apart does not eat for long. A crow who forgets a cruel face does not live for long.",
    "That summer a new family came to 2C. They had a boy called Stanzin, with a round face and straight black hair cut short. He sat on the steps by the wall and watched the other children play cricket in the parking lot.",
-   "On the third day, a boy called Rohan walked over, swinging his bat. \"Are you from Nepal?\" he asked.",
+   "On the third day, a boy called Karthik walked over, swinging his bat. \"Are you from Nepal?\" he asked.",
    "\"From Leh,\" said Stanzin. \"In Ladakh. It's in India.\"",
-   "\"Oh,\" said Rohan. He went back to the game. Nobody asked Stanzin to play.",
+   "\"Oh,\" said Karthik. He went back to the game. Nobody asked Stanzin to play.",
    "So Stanzin watched us instead.",
    "He came every evening with a notebook. At first I did not like it. A crow who is watched closely becomes careful. But he never threw anything and never shouted. On the fourth evening he put a steel katori of water on the wall. On the fifth, a few grains of cooked rice beside it. He sat very still while we drank.",
    "He drew us. I saw his pages when the wind turned them. There was a crow with a grey patch on her left wing. That was me. There was a crow with one toe bent sideways, from a kite string long ago. That was my mate. There was a young one who still opened his beak and begged, though he was big enough to find his own food. That was our son. Under each drawing Stanzin wrote a name. He called me Grey-wing.",
@@ -1040,7 +1040,7 @@
    "One evening the cricket ball rolled to the steps. A girl called Diya came to fetch it. She saw the notebook.",
    "\"What are you drawing?\"",
    "\"The crows,\" said Stanzin. \"There are seven who live here.\"",
-   "Rohan laughed from the pitch. \"Seven? It's the same two crows every day. All crows look the same!\"",
+   "Karthik laughed from the pitch. \"Seven? It's the same two crows every day. All crows look the same!\"",
    "Stanzin did not argue. He opened the notebook and waited.",
    "My mate landed on the wall. Stanzin pointed at the drawing with the bent toe, then at my mate's foot. Diya bent down and looked. The toe was bent sideways, just like the drawing.",
    "Then I came down. Stanzin turned the page to Grey-wing. Diya looked at my wing, and at the page, and at my wing again.",
@@ -1048,17 +1048,17 @@
    "\"I looked at them every day,\" said Stanzin. \"At first they all looked the same to me too.\"",
    "Diya did not say anything for a while. She looked at the crows. Then she looked at Stanzin, as if she was seeing him properly for the first time. Then she looked at her shoes.",
    "\"Can I try?\" she said at last.",
-   "The next evening she came back with her own notebook. The evening after, Rohan came too, though he pretended he was only there to sit down. Stanzin showed them how to look: at the shape of the beak, the patches on the wings, the way each of us walks. Rohan was bad at it. Diya was good at it. Stanzin was best.",
-   "\"That one,\" Rohan said one evening, pointing at my son. \"Bent-toe.\"",
+   "The next evening she came back with her own notebook. The evening after, Karthik came too, though he pretended he was only there to sit down. Stanzin showed them how to look: at the shape of the beak, the patches on the wings, the way each of us walks. Karthik was bad at it. Diya was good at it. Stanzin was best.",
+   "\"That one,\" Karthik said one evening, pointing at my son. \"Bent-toe.\"",
    "\"No,\" said Diya. \"Look at his feet.\"",
-   "Rohan looked for a long time. \"Oh,\" he said. \"He's the one who begs.\" And then, after a moment, \"Stanzin, are you batting tomorrow? We need one more.\"",
+   "Karthik looked for a long time. \"Oh,\" he said. \"He's the one who begs.\" And then, after a moment, \"Stanzin, are you batting tomorrow? We need one more.\"",
    "The next morning, before the old man in 3B and before the bread man, I flew down to the wall by the steps. Three faces were waiting there, with a katori of water. I knew all three."
   ],
   "epiphany": "For the parent: the story turns when Diya sees that the crows only looked the same because nobody had looked closely, and then she looks at Stanzin 'properly for the first time'. The children had treated him as 'different' without knowing him. The idea is that we tell apart best the faces we see often, and that crows can tell human faces apart. Let your child find the link to Stanzin themselves.",
   "ask": [
    "How did the crow know the people in the building?",
    "How did Stanzin learn to tell the crows apart?",
-   "Why did Rohan think there were only two crows?",
+   "Why did Karthik think there were only two crows?",
    "Why do you think Diya looked at her shoes?",
    "What changed for Stanzin by the end? What made it change?"
   ]

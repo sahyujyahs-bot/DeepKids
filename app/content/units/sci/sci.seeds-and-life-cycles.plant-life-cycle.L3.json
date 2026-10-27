@@ -509,7 +509,7 @@
   {
    "claim": "Tomatoes, bhindi and cucumbers are vegetables, not fruits.",
    "who": "Cooks, shopkeepers, and in 1893 the highest court in the United States",
-   "for": "In the kitchen, we use them in sabzi and salads, not in sweets. In 1893, the US Supreme Court decided that a tomato counts as a vegetable for paying taxes.",
+   "for": "In the kitchen, we use them in curries and salads, not in sweets. In 1893, the US Supreme Court decided that a tomato counts as a vegetable for paying taxes.",
    "against": "To a botanist, anything that grows from a flower and holds seeds is a fruit. Both are useful ways of sorting. They just answer different questions.",
    "status": "debated",
    "context": "This card is about a famous argument: is a tomato a fruit or a vegetable?"
@@ -596,7 +596,7 @@
   {
    "q": "Your food comes from plants, and plants are built mostly from air. So is some of you made of air?",
    "kind": "deep",
-   "hint": "Follow a carbon atom from the air into a wheat grain, into a roti, and into you."
+   "hint": "Follow a carbon atom from the air into a rice grain, into an idli, and into you."
   },
   {
    "q": "If people one day live on Mars, what would a plant need to go round its whole life cycle there?",
@@ -1592,7 +1592,7 @@
      "t": "write",
      "p": "Your food comes from plants. Plants are built mostly from air. Explain, step by step, how some of the air could end up in your body.",
      "lines": 4,
-     "a": "A wheat leaf takes in carbon dioxide from the air. It uses sunlight to make sugar, and stores some as starch in the wheat grain. The grain is ground into atta and made into a roti. I eat the roti, and my body uses the carbon in it to build itself.",
+     "a": "A rice leaf takes in carbon dioxide from the air. It uses sunlight to make sugar, and stores some as starch in the rice grain. The rice is ground into batter and steamed into an idli. I eat the idli, and my body uses the carbon in it to build itself.",
      "why": "This follows a carbon atom through photosynthesis and food. It is a real path that carbon atoms take every day."
     },
     {
@@ -2670,7 +2670,7 @@
    "record": "Fill the six columns. Try to find at least one food for every column.",
    "setup": [
     {
-     "art": "A steel thali with rice, dal, bhindi sabzi, a roti, cucumber slices and a little salt, seen from above.",
+     "art": "A banana leaf with rice, sambar, bhindi poriyal, a chapati, cucumber slices and a little salt, seen from above.",
      "caption": "1. Look at a meal, or collect 12 foods from the kitchen."
     },
     {
@@ -3356,7 +3356,7 @@
    ],
    "a": 0,
    "outcome": 1,
-   "why": "Bhindi grows from a flower and has seeds inside, so it is a fruit. A potato is a swollen stem, a carrot is a root and palak is a leaf. Picking potato is common, because we eat both potatoes and bhindi as sabzi. But a potato has no seeds and did not grow from a flower."
+   "why": "Bhindi grows from a flower and has seeds inside, so it is a fruit. A potato is a swollen stem, a carrot is a root and palak is a leaf. Picking potato is common, because we eat both potatoes and bhindi as vegetables. But a potato has no seeds and did not grow from a flower."
   },
   {
    "t": "mcq",

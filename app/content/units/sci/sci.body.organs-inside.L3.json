@@ -219,7 +219,7 @@
    "concept": "The brain: the body's message centre",
    "status": "defined",
    "definition": "The brain is a soft organ inside the skull. It receives messages from the body, sends messages back and lets us think, feel, remember and move.",
-   "description": "Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of atta. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of your body's energy, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.",
+   "description": "Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of rice. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of your body's energy, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.",
    "examples": [
     "When a cricket ball flies towards you, your eyes tell your brain and your brain tells your hands to catch it.",
     "When you sleep, your brain keeps you breathing and sorts out what you learned that day.",
@@ -511,7 +511,7 @@
    "Appu was looking at her with very round eyes. One marble was missing. The green one, with the twist of white inside, like a little galaxy.",
    "\"Appu,\" said Meenu, \"where is the green one?\"",
    "Appu pointed at his mouth. Then he pointed at his belly button. Then he began to cry.",
-   "Everything after that was fast. Amma's hands on Appu's cheeks. \"Can you breathe? Breathe for me.\" Appu breathing, loud and wet and angry. Baba running for an auto. Meenu squeezed in at the back, holding Appu's foot, because it was the only part of him she could reach.",
+   "Everything after that was fast. Amma's hands on Appu's cheeks. \"Can you breathe? Breathe for me.\" Appu breathing, loud and wet and angry. Appa running for an auto. Meenu squeezed in at the back, holding Appu's foot, because it was the only part of him she could reach.",
    "In the auto, Appu cried, \"It's in my tummy! It will stay in my tummy for ever!\" He pressed his belly button as if he could push the marble back up.",
    "Meenu thought of the insides of him. Dark and squishy and secret. Where did a marble even go, in there? Was it lost? Could a person get lost inside themselves?",
    "At the hospital, a doctor with tired eyes and a kind voice listened to Appu's chest. \"His breathing is clear,\" she told Amma. \"That means the marble went down the food pipe, not the windpipe. Good. Now let us see where it is.\"",
@@ -536,7 +536,7 @@
    "\"How do you know?\" said Appu.",
    "\"I saw the map,\" said Meenu. \"Inside you there is a map. It's the same map as the fish.\"",
    "Appu thought about that. Then he put his own small hand on top of hers, and they rode like that, through the orange streetlights, past the dark sea.",
-   "Two days later, the green marble came out, exactly the way the doctor had said. Baba washed it in hot soapy water three times, and then three times again, and then everyone laughed so much that Appu got hiccups again.",
+   "Two days later, the green marble came out, exactly the way the doctor had said. Appa washed it in hot soapy water three times, and then three times again, and then everyone laughed so much that Appu got hiccups again.",
    "The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step beside her. She did not look at the sky.",
    "\"Show me the heart,\" she said."
   ],
@@ -2021,12 +2021,12 @@
    "days": 1,
    "materials": [
     {
-     "item": "a kitchen scale. If you have none, use packets with the weight printed on them, like a 1-kilogram packet of atta and a 200-gram packet of dal.",
+     "item": "a kitchen scale. If you have none, use packets with the weight printed on them, like a 1-kilogram packet of rice and a 200-gram packet of dal.",
      "qty": 1,
      "buy": "b-scale"
     },
     {
-     "item": "things from the kitchen: a packet of atta, a mango or apple, a bottle of water, dal, onions",
+     "item": "things from the kitchen: a packet of rice, a mango or apple, a bottle of water, dal, onions",
      "qty": 1
     },
     {
@@ -2050,7 +2050,7 @@
      "caption": "1. A grown-up's heart weighs about 300 grams. Find something that weighs the same."
     },
     {
-     "art": "A packet of atta and a small onion on a scale showing about 1,300 grams.",
+     "art": "A packet of rice and a small onion on a scale showing about 1,300 grams.",
      "caption": "2. A grown-up's brain weighs about 1,300 grams. Build it with kitchen things."
     },
     {
@@ -2070,7 +2070,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Build up about 1,300 grams with a packet of atta and something small. Let your child hold it with two hands.",
+     "do": "Build up about 1,300 grams with a packet of rice and something small. Let your child hold it with two hands.",
      "say": "A grown-up's brain weighs about 1,300 grams. That is one kilogram and three hundred grams. Hold it. This is what sits on top of your neck all day.",
      "kid": "A grown-up's brain is about 1,300 grams. Put things on the scale until it says that. Hold it.",
      "check": {
@@ -2581,12 +2581,12 @@
    "mins": 25,
    "problem": "Fit a model heart and two model lungs inside a shallow box lid, so they fill the space without squashing each other.",
    "constraints": [
-    "Use playdough or atta dough for the organs.",
+    "Use playdough or wheat-flour dough for the organs.",
     "Use the lid of a shoe box or a mithai box as the chest. It is shallow, so the model is flat.",
     "The heart must be as wide as your fist, and the lungs must fill the rest."
    ],
    "materials": [
-    "playdough, or dough made from about 2 cups of atta, in two colours (add a little haldi to one half)",
+    "playdough, or dough made from about 2 cups of wheat flour, in two colours (add a little haldi to one half)",
     "the lid of a shoe box or a mithai box",
     "paper strips for ribs, and tape"
    ],
@@ -3031,7 +3031,7 @@
    "a": "It could never decide what to have for lunch."
   },
   {
-   "j": "What did the food pipe say to the laddoo?",
+   "j": "What did the food pipe say to the vada?",
    "a": "Down you go!"
   },
   {

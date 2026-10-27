@@ -2,7 +2,7 @@
  "id": "sci.the-very-small.atoms.L3",
  "title": "Atoms: how small they are and what is inside them",
  "level": 3,
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the paper strip is now 24 cm long and cut across its width, so there is always a long edge to hold, and a grown-up does the cuts below 1 cm with sharp scissors. The hidden-object marble test now names a smooth floor, card raised on four steel tumblers and a battery standing up, because marbles stop on carpet and a flat coin lets them roll over it. The colour test uses hot water from a kettle, not a hot tap, which many Indian homes do not have, and it gives food colour, ink or instant coffee as choices. The salt-flame test needs a gas stove, so it gives a street-light and video alternative for homes with induction cooktops. The battery in the marble test is pressed into a small ball of atta dough, so a marble cannot knock it over. Rubbed balloons often fail in humid or monsoon weather, so magnets are the first choice. Parents should know: the smell race is mostly carried by moving air, and the hot colour glass mostly by moving water, not by the molecules wandering alone. The unit says so. Timings were checked step by step. The spine fits about 85 to 90 minutes. Catch the Electron and the size ladder both work for one child alone.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the paper strip is now 24 cm long and cut across its width, so there is always a long edge to hold, and a grown-up does the cuts below 1 cm with sharp scissors. The hidden-object marble test now names a smooth floor, card raised on four steel tumblers and a battery standing up, because marbles stop on carpet and a flat coin lets them roll over it. The colour test uses hot water from a kettle, not a hot tap, which many Indian homes do not have, and it gives food colour, ink or instant coffee as choices. The salt-flame test needs a gas stove, so it gives a street-light and video alternative for homes with induction cooktops. The battery in the marble test is pressed into a small ball of chapati dough, so a marble cannot knock it over. Rubbed balloons often fail in humid or monsoon weather, so magnets are the first choice. Parents should know: the smell race is mostly carried by moving air, and the hot colour glass mostly by moving water, not by the molecules wandering alone. The unit says so. Timings were checked step by step. The spine fits about 85 to 90 minutes. Catch the Electron and the size ladder both work for one child alone.",
  "summary": {
   "text": "Cut a strip of paper in half again and again, and your scissors stop after about 8 cuts. To get a sliver only one atom wide, you would need about 31. Everything you can touch is made of atoms, and an atom is almost all empty space. At its centre is a tiny, heavy nucleus, made of protons and neutrons. Electrons are found around it, not on tracks but in a cloud of places where they are likely to be.",
   "art": "A zoom in five circles: a child's hand on a wooden table, the wood's fibres, a cluster of molecules, one atom drawn as a soft glowing cloud, and a tiny bright dot at its centre."
@@ -775,7 +775,7 @@
     },
     {
      "kind": "tokens",
-     "title": "40 small counters: dried rajma or chana work well",
+     "title": "40 small counters: dried tamarind seeds or chana work well",
      "items": [
       "🫘"
      ]
@@ -792,7 +792,7 @@
     }
    ],
    "rules": [
-    "Put the atom map flat on the floor. You need two dice and a bowl of dried rajma or chana.",
+    "Put the atom map flat on the floor. You need two dice and a bowl of dried tamarind seeds or chana.",
     "The electron is hidden. Nobody knows where it is until it is measured.",
     "Before each roll, every player guesses where the electron will be found: the inner ring, the middle ring or the outer ring. Write your guess down.",
     "Then 'measure' the electron: roll both dice and add them up. Put one bean on the spot with that number. That is where the electron was found this time.",
@@ -857,7 +857,7 @@
    ],
    "setup": [
     {
-     "art": "A paper atom map on a floor: a dot in the centre, three rings of numbered circles, two dice and a steel bowl of red rajma beans beside it.",
+     "art": "A paper atom map on a floor: a dot in the centre, three rings of numbered circles, two dice and a steel bowl of dark tamarind seeds beside it.",
      "caption": "1. Put out the atom map, two dice and a bowl of beans."
     },
     {
@@ -1036,7 +1036,7 @@
        "Made of atoms"
       ],
       [
-       "the smell of jalebi",
+       "the smell of filter coffee",
        "Made of atoms"
       ],
       [
@@ -1757,7 +1757,7 @@
      "buy": "b-marbles"
     },
     {
-     "item": "things to hide: a big steel katori turned upside down, and one AA battery standing on its end in a small ball of atta dough, so it cannot fall over",
+     "item": "things to hide: a big steel bowl turned upside down, and one AA battery standing on its end in a small ball of chapati dough, so it cannot fall over",
      "qty": 2
     },
     {
@@ -1786,7 +1786,7 @@
     ],
     "rows": [
      [
-      "A big steel katori",
+      "A big steel bowl",
       "20",
       "13",
       "5",
@@ -1805,7 +1805,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the four tumblers on a smooth floor, about 45 cm apart, in a square. 2. While your child looks away, put the upside-down katori in the middle. 3. Lay the cardboard on top of the tumblers, so it hides the katori.",
+     "do": "1. Put the four tumblers on a smooth floor, about 45 cm apart, in a square. 2. While your child looks away, put the upside-down bowl in the middle. 3. Lay the cardboard on top of the tumblers, so it hides the bowl.",
      "say": "Something is hidden under this card. You may not look or touch it. You can only roll marbles under the card and watch what comes out.",
      "kid": "Something is hidden under the card. Don't peek! You can only roll marbles under it. Watch where they come out.",
      "adult": true,
@@ -1817,7 +1817,7 @@
      "do": "1. Your child kneels at one side and rolls a marble gently under the card. 2. Watch where it comes out: straight across, off to one side, or back towards them. 3. Make a tally mark in the right column. 4. Roll 20 marbles, from different spots along the edge.",
      "say": "Roll gently, a different spot each time. Did it go straight through? Turn aside? Or come back to you?",
      "kid": "Roll a marble under the card. Where did it come out? Make a tally mark. Roll 20 marbles, a new spot each time.",
-     "parent": "A big katori usually turns several marbles aside, and sends a few straight back. If marbles stop on a rug, move to a smooth floor. If they roll over the hidden thing, use something taller."
+     "parent": "A big bowl usually turns several marbles aside, and sends a few straight back. If marbles stop on a rug, move to a smooth floor. If they roll over the hidden thing, use something taller."
     },
     {
      "id": "s3",
@@ -1829,7 +1829,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. While your child looks away, swap the katori for one AA battery. 2. Press its bottom end into a small ball of atta dough, so it stands up firmly. 3. Put the card back. 4. Roll 20 marbles again and tally.",
+     "do": "1. While your child looks away, swap the bowl for one AA battery. 2. Press its bottom end into a small ball of chapati dough, so it stands up firmly. 3. Put the card back. 4. Roll 20 marbles again and tally.",
      "say": "Now something much smaller is hidden. Roll 20 marbles again. What happens this time?",
      "kid": "Now something smaller is hidden. Roll 20 marbles again. How many come back now?",
      "check": {
@@ -1879,7 +1879,7 @@
    ],
    "setup": [
     {
-     "art": "Four steel tumblers on a tiled floor in a square, an upside-down steel katori in the middle, a sheet of cardboard about to be laid on top.",
+     "art": "Four steel tumblers on a tiled floor in a square, an upside-down steel bowl in the middle, a sheet of cardboard about to be laid on top.",
      "caption": "1. Hide something under a card held up by four tumblers."
     },
     {
@@ -1913,7 +1913,7 @@
      "qty": 2
     },
     {
-     "item": "cold water from a matka or the fridge",
+     "item": "cold water from a clay pot or the fridge",
      "qty": 1
     },
     {
@@ -2623,11 +2623,11 @@
    "context": "In this 2-day project you build a model of a carbon atom, the kind of atom in a pencil tip and in every living thing. Instead of planets on tracks, you give it an honest electron cloud.",
    "materials": [
     {
-     "item": "6 red rajma beans and 6 white chana, or two colours of clay balls",
+     "item": "6 dark brown tamarind seeds and 6 white chana, or two colours of clay balls",
      "qty": 12
     },
     {
-     "item": "a little glue or a ball of atta dough to stick them together",
+     "item": "a little glue or a ball of chapati dough to stick them together",
      "qty": 1
     },
     {
@@ -2643,12 +2643,12 @@
      "qty": 1
     }
    ],
-   "safety": "Small beans are a choking risk for children under 3. Wash hands after using atta dough.",
+   "safety": "Small beans and seeds are a choking risk for children under 3. Wash hands after using chapati dough.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Build the nucleus from 6 rajma and 6 chana. Leave the glue to dry overnight."
+     "what": "Build the nucleus from 6 tamarind seeds and 6 chana. Leave the glue to dry overnight."
     },
     {
      "day": 2,
@@ -2661,15 +2661,15 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Look at the 'What an atom is made of' card together. Count out 6 rajma for protons and 6 chana for neutrons.",
-     "say": "A carbon atom has 6 protons and 6 neutrons in its nucleus. The rajma are the protons. The chana are the neutrons.",
-     "kid": "Count 6 red rajma. These are protons. Count 6 white chana. These are neutrons.",
+     "do": "Look at the 'What an atom is made of' card together. Count out 6 tamarind seeds for protons and 6 chana for neutrons.",
+     "say": "A carbon atom has 6 protons and 6 neutrons in its nucleus. The tamarind seeds are the protons. The chana are the neutrons.",
+     "kid": "Count 6 dark tamarind seeds. These are protons. Count 6 white chana. These are neutrons.",
      "context": "This is the first step of Make an Honest Carbon Atom. You count out beans to build the centre of a carbon atom."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Press the rajma and chana together into a small ball, using glue or a little atta dough. 2. Mix the colours. 3. Put it in the middle of the paper plate.",
+     "do": "1. Press the tamarind seeds and chana together into a small ball, using glue or a little chapati dough. 2. Mix the colours. 3. Put it in the middle of the paper plate.",
      "say": "Press them together into one little ball. This is the nucleus, the heavy centre of the atom.",
      "kid": "Squeeze the beans into one little ball. Mix the colours. Put it in the middle of the plate.",
      "parent": "Real protons and neutrons are jumbled together like this, not in neat rows."
@@ -2712,8 +2712,8 @@
    ],
    "setup": [
     {
-     "art": "Six red rajma beans and six white chana counted out on a steel plate.",
-     "caption": "1. Count 6 rajma for protons and 6 chana for neutrons."
+     "art": "Six dark tamarind seeds and six white chana counted out on a steel plate.",
+     "caption": "1. Count 6 tamarind seeds for protons and 6 chana for neutrons."
     },
     {
      "art": "A child pressing the beans into one small mixed ball in the middle of a paper plate.",
@@ -3130,7 +3130,7 @@
    "art": "A sunbeam through a window full of floating dust."
   },
   {
-   "text": "Diwali fireworks, coloured by different kinds of atoms.",
+   "text": "Deepavali fireworks, coloured by different kinds of atoms.",
    "art": "Red, green and yellow fireworks over rooftops."
   },
   {
@@ -3173,9 +3173,9 @@
   }
  ],
  "ask_kids": [
-  "If you kept cutting this roti in half, what would you get in the end?",
+  "If you kept cutting this dosa in half, what would you get in the end?",
   "Is the air in this room empty, or full of something?",
-  "You can smell the dal cooking. What has reached your nose?",
+  "You can smell the rasam cooking. What has reached your nose?",
   "Your hand is almost all empty space. So why doesn't it go through the table?",
   "Which is smaller, an ant or a grain of salt? And what is smaller than both?",
   "Where do you think the atoms in your food came from before they were food?",
@@ -3753,7 +3753,7 @@
   "context": "We have been learning that everything you can touch is made of atoms, and what atoms are made of. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "Cut a strip of paper in half again and again, and each piece is still paper, for a while. After about 31 halvings, a piece would be only one atom wide. Its atoms are carbon, hydrogen and oxygen, the same kinds as in sugar and in you. None of them is paper, so if you cut anything far enough, the pieces are no longer that thing.",
-   "habit": "We think a small piece of a thing is just a smaller copy of it, so a crumb of roti is still roti. That is true only down to a point. Below it, the pieces are atoms, and a carbon atom is not roti or paper.",
+   "habit": "We think a small piece of a thing is just a smaller copy of it, so a crumb of dosa is still dosa. That is true only down to a point. Below it, the pieces are atoms, and a carbon atom is not dosa or paper.",
    "evidence": "In the paper-cutting experiment, the last sliver was still paper, and the magnifier showed its plant fibres. The halving chart shows that a piece one atom wide is still about 23 halvings further down. Paper is mostly cellulose, which is built from carbon, hydrogen and oxygen atoms. Sugar is built from the same three kinds of atom."
   },
   "three": {

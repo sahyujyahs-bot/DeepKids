@@ -162,11 +162,11 @@ We have been learning how a baby grows from one cell into a whole person. Now we
 
 **Deep truth.** Everyone in your home has a belly button. Each one is the scar left by a cord. Before birth, that cord brought food and oxygen from a mother's blood. So every person was fed by someone else's body before they could eat or breathe.  
 *Habit it breaks:* We think of a person as starting on their birthday, and as eating and breathing for themselves. But for nine months, each of us got all our food and oxygen through another person's body.  
-*Evidence:* Every person who was born has a belly button. It is where the umbilical cord joined the baby to the placenta, which passed food and oxygen from the mother's blood. In the story, Nani shows Tara her own belly button.
+*Evidence:* Every person who was born has a belly button. It is where the umbilical cord joined the baby to the placenta, which passed food and oxygen from the mother's blood. In the story, Paati shows Kavya her own belly button.
 
 - *who am i:* You are about 30 trillion cells, and every one came from a single first cell.
 - *what is life:* Life is passed on. Every living thing came from another living thing, as you came from your parents' cells.
-- *what is this world:* Your body was built from the rice, dal, water and air your mother took in. Those came from fields, rivers and sunlight.
+- *what is this world:* Your body was built from the rice, sambar, water and air your mother took in. Those came from fields, rivers and sunlight.
 
 You began as one cell, made from a cell of each parent. That one cell became trillions of cells of many kinds: skin, bone, heart and brain. All of them were built from food your mother ate, and that food came from plants, soil, rain and sunlight. So each new person is built from many other lives: the plants, the farmers who grew them, and the mother who carried the baby.
 
@@ -194,75 +194,75 @@ You began as one cell, made from a cell of each parent. That one cell became tri
 - *big:* Is it fair that some babies are born in places with good doctors, and some are not? (hint: What could people do so that every mother and baby is safe?)
 
 ## Story: The First Page
-*Tara, her family and Nani are made up. The science is real: fingerprints form in the womb at about four months and never change, the cord has no nerves, and every belly button is the mark of a cord.*
+*Kavya, her family and Paati are made up. The science is real: fingerprints form in the womb at about four months and never change, the cord has no nerves, and every belly button is the mark of a cord.*
 
 On Monday, Miss Fernandes gave the class a job. "Make a book called 'The Story of Me'. Page one is you as a newborn baby. Bring a photo."
 
-Everyone started talking at once. Kabir said his photo had him wrapped in a yellow towel, looking like an angry potato. Zoya said hers was taken in a hospital in Pune, with a tiny cap on her head. Tara said nothing at all. She drew a little square in the corner of her notebook, and coloured it in, very hard, until the pencil tip snapped.
+Everyone started talking at once. Kabir said his photo had him wrapped in a yellow towel, looking like an angry potato. Zoya said hers was taken in a hospital in Kochi, with a tiny cap on her head. Kavya said nothing at all. She drew a little square in the corner of her notebook, and coloured it in, very hard, until the pencil tip snapped.
 
-Tara had come to her family when she was three months old. Mumma and Papa had driven all night to fetch her from a home for babies in another city. She knew the story by heart. There was the long drive, and the rain, and Papa singing old film songs badly to keep awake. There was Mumma holding her for the first time and laughing and crying at once. It was a good story. But it started at three months. Before that, there was nothing. No photo. No first page.
+Kavya had come to her family when she was three months old. Amma and Appa had driven all night to fetch her from a home for babies in another city. She knew the story by heart. There was the long drive, and the rain, and Appa singing old film songs badly to keep awake. There was Amma holding her for the first time and laughing and crying at once. It was a good story. But it started at three months. Before that, there was nothing. No photo. No first page.
 
-That evening she sat on the steps outside the kitchen, where Nani was cleaning methi. Nani had been a midwife for forty years. A midwife is a person who helps babies to be born. Nani said she had helped more babies into the world than there were people in their whole colony. Her hands were brown and wrinkled, and very quick.
+That evening she sat on the steps outside the kitchen, where Paati was cleaning curry leaves. Paati had been a midwife for forty years. A midwife is a person who helps babies to be born. Paati said she had helped more babies into the world than there were people in their whole colony. Her hands were brown and wrinkled, and very quick.
 
-"My book has no first page," Tara said. "Everybody else has a baby photo. My story starts in the middle. Like a book with the first pages torn out."
+"My book has no first page," Kavya said. "Everybody else has a baby photo. My story starts in the middle. Like a book with the first pages torn out."
 
-Nani put down the methi. She wiped her hands on her sari. "Come here," she said. "Let me read your first page to you."
+Paati put down the curry leaves. She wiped her hands on her sari. "Come here," she said. "Let me read your first page to you."
 
 "There isn't one."
 
 "There is. It is written on you. Lift up your kurta a little."
 
-Tara did, and frowned down at her own tummy. Nani pressed one finger, very gently, on her belly button.
+Kavya did, and frowned down at her own tummy. Paati pressed one finger, very gently, on her belly button.
 
 "Do you know what this is?"
 
 "My belly button."
 
-"It is a mark," said Nani. "Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and oxygen to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no nerves in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name."
+"It is a mark," said Paati. "Before you were born, you lived inside a woman's womb. That is a stretchy bag of muscle in her tummy. You floated in warm water, curled up like a prawn. You could not eat. You could not breathe air. So she fed you. Her blood carried food and oxygen to you, every minute of every day, for nine months. It came through a soft cord, joined to you right here. When you were born, the cord was cut. It does not hurt, because a cord has no nerves in it. This little mark is what is left. It says, somebody carried me. Somebody fed me before I had a name."
 
-Tara looked at her belly button as if she had never seen it before.
+Kavya looked at her belly button as if she had never seen it before.
 
-"Now give me your hand," said Nani. She turned Tara's palm up, under the kitchen light. "Look at the tips of your fingers. Look very closely."
+"Now give me your hand," said Paati. She turned Kavya's palm up, under the kitchen light. "Look at the tips of your fingers. Look very closely."
 
-Tara looked. There were tiny lines, curving and looping, like the rings in a cut tree, or ripples in a pond.
+Kavya looked. There were tiny lines, curving and looping, like the rings in a cut tree, or ripples in a pond.
 
-"These are your fingerprints," said Nani. "Nobody else in the whole world has these. Not me, not Mumma, not anybody who has ever lived. Not even a twin. Do you know when they were made?"
+"These are your fingerprints," said Paati. "Nobody else in the whole world has these. Not me, not Amma, not anybody who has ever lived. Not even a twin. Do you know when they were made?"
 
-Tara shook her head.
+Kavya shook her head.
 
 "Before you were born. When you were about four months along in the womb, the skin on your fingertips grew these lines. Tiny chance differences in how your skin grew made a pattern that nobody else has. And then they stayed. They grow bigger with you, but they never change their pattern."
 
-Tara held her fingers up close to her eyes. The lines seemed to swirl.
+Kavya held her fingers up close to her eyes. The lines seemed to swirl.
 
-"And before that," said Nani, "you were smaller still. You were one cell, smaller than a grain of salt. It was made when a cell from each of the two people who made you joined together. Then that one cell split into two. Two became four. Four became eight. On and on, for months. Some cells became your heart, and it started to beat when you were no bigger than a grain of rice. Some became your eyes. Some became these fingers. Every bit of you came from that one cell. Everybody's did. Kabir's too. Zoya's too. Mine too."
+"And before that," said Paati, "you were smaller still. You were one cell, smaller than a grain of salt. It was made when a cell from each of the two people who made you joined together. Then that one cell split into two. Two became four. Four became eight. On and on, for months. Some cells became your heart, and it started to beat when you were no bigger than a grain of rice. Some became your eyes. Some became these fingers. Every bit of you came from that one cell. Everybody's did. Kabir's too. Zoya's too. Mine too."
 
-Tara giggled. Then she was quiet for a while. "The lady who carried me," she said slowly. "She fed me for nine months. Even though she didn't keep me."
+Kavya giggled. Then she was quiet for a while. "The lady who carried me," she said slowly. "She fed me for nine months. Even though she didn't keep me."
 
-"Yes," said Nani. "Every day. Through this." She tapped the belly button once more. "And then Mumma and Papa drove all night in the rain. You have been fed and carried by a lot of people, Tara. Most people have no idea how many."
+"Yes," said Paati. "Every day. Through this." She tapped the belly button once more. "And then Amma and Appa drove all night in the rain. You have been fed and carried by a lot of people, Kavya. Most people have no idea how many."
 
 "So my story doesn't start in the middle."
 
 "No. Your story starts the same way every story starts. With one cell. You just know the middle part better than most."
 
-That night, Tara took out the blank first page of her book. Mumma found the ink pad from the drawer with the tape and the old keys. Tara pressed her thumb into it, then onto the very middle of the page. She pressed all ten fingers, one by one, in a circle around it. Underneath, in her best writing, she wrote: 'Made before I was born. Four months old, in the womb.'
+That night, Kavya took out the blank first page of her book. Amma found the ink pad from the drawer with the tape and the old keys. Kavya pressed her thumb into it, then onto the very middle of the page. She pressed all ten fingers, one by one, in a circle around it. Underneath, in her best writing, she wrote: 'Made before I was born. Four months old, in the womb.'
 
 Next to it she drew a tiny circle, no bigger than a full stop. She labelled it: 'Me, at the very start.'
 
-On Friday, Miss Fernandes held each book up for the class. When she reached Tara's, she held it up for a long time. Kabir leaned over to look at his own fingers. Then Zoya did. Then the whole class was holding their hands up to the windows, turning them in the light, looking for the page that had been written on them before they had names.
+On Friday, Miss Fernandes held each book up for the class. When she reached Kavya's, she held it up for a long time. Kabir leaned over to look at his own fingers. Then Zoya did. Then the whole class was holding their hands up to the windows, turning them in the light, looking for the page that had been written on them before they had names.
 
-**For the parent:** For the parent: Tara thinks her story has no beginning because there is no baby photo. Nani shows her that the beginning is on her body. The belly button is the mark of the cord, through which a mother's blood fed the baby for nine months. Fingerprints formed in the womb at about four months, and they never change. However a family is made, by birth or by adoption, every child began as one cell and was carried and fed by someone.
+**For the parent:** For the parent: Kavya thinks her story has no beginning because there is no baby photo. Paati shows her that the beginning is on her body. The belly button is the mark of the cord, through which a mother's blood fed the baby for nine months. Fingerprints formed in the womb at about four months, and they never change. However a family is made, by birth or by adoption, every child began as one cell and was carried and fed by someone.
 
-- Ask: Why did Tara feel her story had no first page?
+- Ask: Why did Kavya feel her story had no first page?
 - Ask: What does a belly button tell us about what happened before we were born?
-- Ask: When were Tara's fingerprints made?
-- Ask: Nani says Tara has been fed and carried by a lot of people. Who has fed and carried you?
+- Ask: When were Kavya's fingerprints made?
+- Ask: Paati says Kavya has been fed and carried by a lot of people. Who has fed and carried you?
 - Ask: Why do you think the whole class started looking at their own fingers at the end?
 
 ## Games
 ### g1 · Forty Weeks: the race to be born (20 min)
 - **rules:** Everyone starts on square 1, as one cell.; Take turns to roll the die and move that many weeks.; If you land on a STAR square, read out what is happening that week. Then take a GROW card and do what it says.; If you roll a 6, take a WONDER card. Answer it right to win a heart token.; The first player to reach square 40 is born! They take a big first breath and shout 'Hello, world!'; Keep playing until everyone is born. The player with the most heart tokens wins the WONDER prize.
 - **Printable board: The 40-week track:** Square 1: one cell; Square 2: the cell splits into 2, then 4, then 8; Square 6: STAR. The heart starts beating; Square 8: STAR. Size of a raspberry; Square 12: STAR. Fingers and toes; Square 16: STAR. Fingerprints forming; Square 20: STAR. Halfway! Size of a banana; Square 24: STAR. Hearing sounds; Square 28: STAR. Eyes open; Square 32: STAR. Getting chubby; Square 36: STAR. Head turns down, ready; Square 40: BIRTH! First breath
-- **Printable cards: GROW cards (read when you land on a star):** The placenta sends you extra food. Move forward 2.; Your mother drinks plenty of water and rests. Move forward 1.; Your cells split again and again. Move forward 2.; You get hiccups. Stay where you are and hiccup three times.; You kick! Your mother feels it. Move forward 1.; Your lungs practise breathing movements. Move forward 1.; You suck your thumb. Show everyone how.; A loud drum outside makes you jump. Move back 1.; You hear your mother singing. Move forward 1.; Your mother eats dal, roti and vegetables. Move forward 2.; Your mother sees a doctor for a check-up. Move forward 1.; You stretch and turn a somersault. Move forward 1.
+- **Printable cards: GROW cards (read when you land on a star):** The placenta sends you extra food. Move forward 2.; Your mother drinks plenty of water and rests. Move forward 1.; Your cells split again and again. Move forward 2.; You get hiccups. Stay where you are and hiccup three times.; You kick! Your mother feels it. Move forward 1.; Your lungs practise breathing movements. Move forward 1.; You suck your thumb. Show everyone how.; A loud drum outside makes you jump. Move back 1.; You hear your mother singing. Move forward 1.; Your mother eats rice, sambar and vegetables. Move forward 2.; Your mother sees a doctor for a check-up. Move forward 1.; You stretch and turn a somersault. Move forward 1.
 - **Printable cards: WONDER cards (answer to win a heart token):** How does a baby in the womb get oxygen? (Through the cord, from the mother's blood.); What does the water around the baby do? (It cushions, keeps warm and lets the baby move.); What was everyone at the very start? (One cell.); What is left when the cord falls off? (The belly button.); About how many weeks does a baby grow in the womb? (About 40.); Name one thing a baby can do in the womb. (Kick, suck its thumb, hiccup, hear, swallow.); Why can't a baby breathe air in the womb? (It is in water, and there is no air there.); What does a cell do to make more cells? (It splits in two.)
 - **Printable tokens: 12 heart tokens:** ❤️
 - **s1 (3 min)**  
@@ -603,7 +603,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Tara
 10. (order) Put these in order, from first to last.  
    **Answer:** order shown. *Why:* One cell splits into a ball of cells. The heart beats at about six weeks. Fingers and toes form by twelve weeks. Hearing comes at about six months. Birth comes at about nine months.
 11. (mcq) What happens right after a baby is born?  
-   Options: It takes its first breath of air / It walks to its mother / It starts to talk / It eats a roti  
+   Options: It takes its first breath of air / It walks to its mother / It starts to talk / It eats a dosa  
    **Answer:** It takes its first breath of air. *Why:* The first thing a newborn does is breathe air, often with a cry. Walking takes about a year and talking longer.
 12. (fill) When the cord is cut and the stump falls off, it leaves the ____.  
    **Answer:** ['belly button', 'navel']. *Why:* Your belly button is where your cord once joined you to the placenta.

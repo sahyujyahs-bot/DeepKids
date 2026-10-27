@@ -25,7 +25,7 @@
 - **Cell**: The tiny living building block that bodies are made of. Your body has many millions of millions of cells, of many different kinds. *e.g.* Skin cells, blood cells and nerve cells are all cells.
 - **Nerve**: A long thread made of nerve cells that carries messages between your body and your brain. *e.g.* When you touch a hot tawa, nerves carry the message from your finger to your brain in a tiny fraction of a second.
 - **Nerve signal**: A tiny pulse of electricity that travels along a nerve. Every sense sends its messages to the brain as nerve signals. *e.g.* The fastest nerve signals travel about 100 metres in one second. That is the length of a football field.
-- **Brain**: The part inside your head that receives the nerve signals from all your senses and puts them together into one world. *e.g.* Your brain puts the sight, the sound and the smell of a frying pakora together, so you know what it is at once.
+- **Brain**: The part inside your head that receives the nerve signals from all your senses and puts them together into one world. *e.g.* Your brain puts the sight, the sound and the smell of a frying bajji together, so you know what it is at once.
 - **Vibration**: Fast shaking, backwards and forwards. Sound is a vibration that travels through air, water or solid things. *e.g.* Touch your throat while you hum. You can feel it vibrate.
 - **Eardrum**: A thin, tight skin at the inner end of your ear canal. It shakes when sound reaches it, like the skin of a tabla. *e.g.* When someone claps, the shaking air makes your eardrum shake too.
 - **Cochlea**: A small tube coiled like a snail shell, deep inside your ear. It is full of liquid and lined with hair cells. *e.g.* The cochlea is about the size of a pea.
@@ -47,7 +47,7 @@
 
 Every sense works in three steps. First, something from the world reaches the body. It might be light, shaking air, a push on the skin or a chemical. Second, receptors detect it. A receptor is a special cell that detects one kind of thing. When it detects it, it makes a tiny electric signal. Third, nerves carry the signal to the brain. Only then do you see, hear, feel, taste or smell. People often say we have five senses: sight, hearing, touch, taste and smell. That list comes from the Greek thinker Aristotle, more than 2,300 years ago. It is a tradition, not a scientific count. Scientists count many more. This unit starts with the five well-known senses, then meets the others.
 - e.g. Hearing: shaking air reaches your ear, hair cells detect it, and a nerve carries the signal to your brain.
-- e.g. Smell: molecules of hot jalebi float up your nose, smell receptors detect them, and your brain says 'jalebi'.
+- e.g. Smell: molecules of hot payasam float up your nose, smell receptors detect them, and your brain says 'payasam'.
 - e.g. Touch: a mosquito lands on your arm, touch receptors in your skin detect the tiny push, and you swat it.
 ### Many more than five senses · *defined*
 **Definition:** The body has far more than five senses. Besides sight, hearing, touch, taste and smell, it senses balance, the position of its parts, warmth, cold, pain, and many things inside itself.
@@ -247,9 +247,9 @@ Your senses detect very different things: light, vibrations, pushes, warmth, gra
 - *big:* Who is doing the sensing? Is it your eyes, your brain, or you? (hint: Close your eyes. Something is still noticing the sounds around you. What is it?)
 
 ## Story: Tara Listens to the Walls
-*Tara, Arjun, Chhotu and the house are made up. Tongue-click echolocation is real: some blind people, such as Daniel Kish in the USA, use it to walk, hike and even ride bicycles, and scientists have studied it since the 1940s.*
+*Tara, Arjun, Kannan and the house are made up. Tongue-click echolocation is real: some blind people, such as Daniel Kish in the USA, use it to walk, hike and even ride bicycles, and scientists have studied it since the 1940s.*
 
-Arjun came to his cousin's house in Lucknow for the summer holidays. It was an old house with too many rooms. The rooms were joined by long, dim passages, and an open courtyard sat in the middle.
+Arjun came to his cousin's house in Madurai for the summer holidays. It was an old house with too many rooms. The rooms were joined by long, dim passages, and an open courtyard sat in the middle.
 
 His cousin Tara was ten, a year older than him. She had been blind since she was born. On the train, Arjun had worried about what to say to her. He had imagined her world as an endless dark room, with nothing in it at all.
 
@@ -261,21 +261,21 @@ But Tara walked through the passages faster than he did. As she walked, she made
 
 Arjun laughed, because he thought it was a joke. Tara did not laugh. She just went on clicking, and turned left exactly where the passage turned left.
 
-Over the next few days, Arjun watched her. She knew the kitchen by the sharp smell of mustard oil, and the terrace by the mogra flowers in their pots. In the courtyard she took off her chappals, because the marble was cool and told her feet where she was. She found the brass knob of her grandfather's door without reaching for it twice. Arjun began to feel that Tara lived in a full house, and he lived in an empty one.
+Over the next few days, Arjun watched her. She knew the kitchen by the nutty smell of sesame oil, and the terrace by the jasmine flowers in their pots. In the courtyard she took off her chappals, because the stone floor was cool and told her feet where she was. She found the brass knob of her grandfather's door without reaching for it twice. Arjun began to feel that Tara lived in a full house, and he lived in an empty one.
 
 Then came the evening of the storm.
 
-It started with a game of hide and seek. Chhotu, Arjun's little brother, was four, and he was very good at hiding. He wore silver anklets with tiny bells, so the grown-ups could always hear where he was. That evening, nobody could find him.
+It started with a game of hide and seek. Kannan, Arjun's little brother, was four, and he was very good at hiding. He wore silver anklets with tiny bells, so the grown-ups could always hear where he was. That evening, nobody could find him.
 
 At first it was funny. Then the sky turned the colour of a bruise, and the rain came down on the roof like a thousand drums. With a click and a sigh, the lights went out. The inverter had been broken for a week. The whole house fell into a darkness so thick that Arjun could not see his own hand.
 
-Everyone began to shout at once. 'Chhotu! Chhotu!' Mamaji switched on the torch of his phone. It made one small bright circle on the wall, and everything outside the circle became even blacker. Mami's phone had no charge. Nani was calling from upstairs. The rain roared. Arjun ran down the passage towards where he thought the storeroom was. He hit a doorframe with his shoulder and sat down hard on the floor, his eyes wide open and useless.
+Everyone began to shout at once. 'Kannan! Kannan!' Mama switched on the torch of his phone. It made one small bright circle on the wall, and everything outside the circle became even blacker. Mami's phone had no charge. Paati was calling from upstairs. The rain roared. Arjun ran down the passage towards where he thought the storeroom was. He hit a doorframe with his shoulder and sat down hard on the floor, his eyes wide open and useless.
 
 Then a voice cut through the noise. It was not loud. It was very calm.
 
 'Everyone,' said Tara. 'Please stop talking.'
 
-Something in her voice made them do it. One by one, the shouting stopped. Mamaji switched off his torch. Now there was only the rain, and the dark, and everyone breathing.
+Something in her voice made them do it. One by one, the shouting stopped. Mama switched off his torch. Now there was only the rain, and the dark, and everyone breathing.
 
 Tara stood very still in the middle of the passage. Arjun could just make out her shape. She turned her head slowly to the right, and then slowly to the left, the way a bird does.
 
@@ -297,9 +297,9 @@ Arjun closed his eyes. At first nothing changed. Then, under the drumming of the
 
 She led him by the hand, and she clicked. Tock. Tock. Arjun began to hear what she heard. When they walked close to a wall, the click came back sharp and quick, as if the wall were clicking back. In the open courtyard, the click floated away and was gone. At a doorway, it changed again. It became hollow, as if the sound were falling into a well.
 
-'The storeroom,' said Tara. Arjun smelled it before she said it: old rice sacks, dust and camphor. His fingers touched something cold and smooth. It was one of the big steel trunks. Tara knelt. Behind the last trunk, curled up on a folded quilt, Chhotu was fast asleep with his thumb in his mouth. As Tara touched his foot, his anklet chimed once more.
+'The storeroom,' said Tara. Arjun smelled it before she said it: old rice sacks, dust and camphor. His fingers touched something cold and smooth. It was one of the big steel trunks. Tara knelt. Behind the last trunk, curled up on a folded quilt, Kannan was fast asleep with his thumb in his mouth. As Tara touched his foot, his anklet chimed once more.
 
-At that moment the lights came back on. Everyone appeared at the storeroom door at once, blinking and squinting, their hands over their eyes. Mami scooped Chhotu up and he woke, very cross, and asked why everyone was looking at him. Tara simply stood there. For her, nothing had changed at all.
+At that moment the lights came back on. Everyone appeared at the storeroom door at once, blinking and squinting, their hands over their eyes. Mami scooped Kannan up and he woke, very cross, and asked why everyone was looking at him. Tara simply stood there. For her, nothing had changed at all.
 
 That night, Arjun lay in bed with his eyes shut. The rain had stopped. The house was quiet. He made a small sound with his tongue. Tock. From the wall beside his head, faintly, something answered, like a hand cupped close to his ear.
 
@@ -307,7 +307,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 
 **For the parent:** For the parent: the world Arjun experiences is not in his eyes. It is built by his brain from whatever signals arrive. When his eyes gave him nothing, they were still 'shouting', and Tara teaches him to let them rest so his ears can work. Then he hears what she hears. Two ears comparing a tiny sound tell him its direction. Echoes from her clicks tell him how near the walls are. Smell and touch tell him where he is. Tara does not have better ears than him. She has trained her brain to use them, and to mix all her senses into one full world.
 
-- Ask: Why could Tara hear Chhotu's anklet when everyone else could not?
+- Ask: Why could Tara hear Kannan's anklet when everyone else could not?
 - Ask: Why did Tara tell Arjun to close his eyes, even though it was already dark?
 - Ask: How did turning his head help Arjun find which way the sound came from?
 - Ask: What did Tara's clicks sound like near a wall, in the open courtyard and at a doorway?
@@ -634,7 +634,7 @@ He lay very still and listened. The room was not empty after all. It never had b
   *Parent does:* Make the bar chart. Then ask your child to say or write three short sentences: what I think, what I saw, and why.  
   *Parent says:* Now tell me three things. Can noses learn? What did you find that shows it? And why do you think it happened?  
   *Child mode:* Draw two bars: day 1 and day 4. Then say what you think, what you found, and why.
-  - Note: A good answer sounds like this. What I think: practice makes me better at naming smells. What I found: I got 3 out of 6 on day 1 and 6 out of 6 on day 4. Papa, who did not practise, got 3. Why: my brain learned to link each smell to its name.
+  - Note: A good answer sounds like this. What I think: practice makes me better at naming smells. What I found: I got 3 out of 6 on day 1 and 6 out of 6 on day 4. Appa, who did not practise, got 3. Why: my brain learned to link each smell to its name.
 
 ## Challenges
 ### c1 · Hear a Whisper Across the Room (30 min)
@@ -665,11 +665,11 @@ He lay very still and listened. The room was not empty after all. It never had b
   *Child mode:* Look at the usual ideas and the creative ideas. Now invent your own. Can you beat them?
   - Think: Before electric hearing aids, people used big ear trumpets. Why do you think hearing aids became so small?
 ### c2 · A Kitchen Shelf for Someone Who Cannot See (35 min)
-- **problem:** Imagine a friend who is blind is coming to cook with you. Six jars look exactly the same: sugar, salt, haldi, chilli powder, jeera and rice. Make labels they can read without seeing, so they can find the sugar first time.
+- **problem:** Imagine a friend who is blind is coming to cook with you. Six jars look exactly the same: sugar, salt, turmeric, chilli powder, jeera and rice. Make labels they can read without seeing, so they can find the sugar first time.
 - **your turn:** Now design your own labelling system. Draw it, make it and test it with a blindfolded family member. Did they find all three things first time?
 - **constraints:** The labels must work by touch or smell, not sight.; Nobody may open the jars to taste or sniff inside.; Test it: a blindfolded family member must find three things you call out.
 - **general:** Put a different number of rubber bands around each jar: one for sugar, two for salt, and so on.; Stick a different texture on each lid: smooth cloth, rough sandpaper, a button, a ridge of string.; Make raised-dot labels, like Braille, with drops of glue that dry hard.
-- **creative:** Find a Braille alphabet in a book or online. Make the dots for the first letter of each jar, for example H for haldi and J for jeera.; Use shape as well as texture: a triangle of card for chilli, because chilli is sharp and hot.; Ask a blind person, or an organisation that works with blind people, what labels they really use.
+- **creative:** Find a Braille alphabet in a book or online. Make the dots for the first letter of each jar, for example T for turmeric and J for jeera.; Use shape as well as texture: a triangle of card for chilli, because chilli is sharp and hot.; Ask a blind person, or an organisation that works with blind people, what labels they really use.
 - **s1 (5 min)**  
   *Parent does:* 1. Line up the six jars. 2. Blindfold a family member. 3. Ask them to find the sugar without opening any jar. 4. See what happens.  
   *Parent says:* First, let's see how hard it is now. Can you find the sugar without seeing and without opening the jars?  
@@ -729,8 +729,8 @@ He lay very still and listened. The room was not empty after all. It never had b
 15. (mcq) In Senses You Forgot You Had, standing on one foot was much harder with your eyes shut. Why?  
    Options: Your legs get weaker when your eyes are shut / Your brain balances using your eyes, your inner ears and your muscle sensors together, and you took one away / Your ears stop working when your eyes are shut / Balance only uses the eyes  
    **Answer:** Your brain balances using your eyes, your inner ears and your muscle sensors together, and you took one away. *Why:* Balance uses three senses at once: your eyes, the balance organs in your inner ears and the stretch sensors in your muscles. Shutting your eyes takes one away, so the other two have to do all the work. Picking 'balance only uses the eyes' is wrong, because you could still balance for a few seconds with your eyes shut.
-16. (draw) Draw the path of a smell: from a hot jalebi, up your nose, to your brain. Label the smell molecules, the smell receptors and the nerve.  
-   **Answer:** Molecules float from the jalebi into the nose. They reach receptor cells high inside the nose. A nerve carries the signal to the brain.. *Why:* Smells are molecules. Receptors high in the nose detect them, and nerves carry the signals to the brain.
+16. (draw) Draw the path of a smell: from a bowl of hot payasam, up your nose, to your brain. Label the smell molecules, the smell receptors and the nerve.  
+   **Answer:** Molecules float from the payasam into the nose. They reach receptor cells high inside the nose. A nerve carries the signal to the brain.. *Why:* Smells are molecules. Receptors high in the nose detect them, and nerves carry the signals to the brain.
 17. (write) Look at the chart from the Point at the Sound test. The child found 7 sounds with two ears and 4 with one ear blocked. What does this show?  
    **Answer:** Two ears are better for finding where a sound comes from. The child found 3 more sounds with two ears. The brain compares the two ears.. *Why:* With one ear blocked, the brain has much less to compare, so pointing gets worse.
 ### How Senses Work, Inside (stretch) (stretch, 15 questions)
@@ -887,7 +887,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - Raised marks on Indian currency notes, so people who cannot see well can tell them apart.
 - The smell of cooking gas, which is added on purpose so a leak can be noticed.
 - A temple bell, a pressure cooker whistle and a vegetable seller's call. Each one is shaking air reaching your eardrum.
-- Spice markets, like Khari Baoli in Old Delhi, where your nose can tell you where you are with your eyes shut.
+- Spice markets, like Mattancherry in Kochi or Khari Baoli in Old Delhi, where your nose can tell you where you are with your eyes shut.
 - Bats leaving a banyan tree or an old fort at dusk, finding moths by echoes.
 - Bees visiting flowers on a balcony or in a park, guided by ultraviolet patterns you cannot see.
 - People talking in Indian Sign Language, using their eyes and hands instead of ears and voice.
@@ -945,7 +945,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 ## Connected maths
 - In the Two-Point Test, a child felt two points on her fingertip when they were 0.5 cm apart. On her forearm, the points had to be 4 cm apart. How many times bigger was the forearm gap? **8 times bigger.**. The forearm gap was 4 cm. The fingertip gap was 0.5 cm, which is half a centimetre. Two half centimetres make 1 cm, so 4 cm holds 4 × 2 = 8 half centimetres. So the forearm gap was 8 times bigger. The fingertip feels detail 8 times finer. (queues `math.division.sharing-and-grouping.L3`)
 - In Point at the Sound, a child found 7 out of 8 sounds with two ears, and 4 out of 8 with one ear blocked. Draw a bar for each. How many more did she find with two ears? **3 more sounds. Here is the bar chart.**. Draw two bars, one 7 tall and one 4 tall. The difference between them is 7 − 4 = 3. So she found 3 more sounds with two ears. (queues `math.data.bar-charts.L3`)
-- In the Hold Your Nose test, a family of 4 people each tasted 3 spiced sugars with their noses pinched. Make a tally of how many spices were named correctly: Amma 0, Papa 1, Didi 0, me 0. Then, with noses open: Amma 3, Papa 3, Didi 2, me 3. How many were named correctly in all, with noses pinched and with noses open? **With noses pinched: 1 out of 12. With noses open: 11 out of 12.**. With noses pinched, add 0 + 1 + 0 + 0 = 1. With noses open, add 3 + 3 + 2 + 3 = 11. Each person tasted 3 spices, and there were 4 people, so there were 4 × 3 = 12 tastes in each round. So 1 out of 12 pinched, and 11 out of 12 open. (queues `math.data.sorting-and-tallies.L3`)
+- In the Hold Your Nose test, a family of 4 people each tasted 3 spiced sugars with their noses pinched. Make a tally of how many spices were named correctly: Amma 0, Appa 1, Akka 0, me 0. Then, with noses open: Amma 3, Appa 3, Akka 2, me 3. How many were named correctly in all, with noses pinched and with noses open? **With noses pinched: 1 out of 12. With noses open: 11 out of 12.**. With noses pinched, add 0 + 1 + 0 + 0 = 1. With noses open, add 3 + 3 + 2 + 3 = 11. Each person tasted 3 spices, and there were 4 people, so there were 4 × 3 = 12 tastes in each round. So 1 out of 12 pinched, and 11 out of 12 open. (queues `math.data.sorting-and-tallies.L3`)
 - In the Fading Coin activity, a child stopped feeling the coin after 25 seconds the first time, 20 seconds the second time and 30 seconds the third time. Put the times in order. What is the middle value? **In order: 20, 25, 30 seconds. The middle value is 25 seconds.**. Put the three times in order from smallest to biggest: 20, 25, 30. The middle one is 25. So the coin usually faded after about 25 seconds. (queues `math.number-sense.comparing-ordering.L3`)
 - In the Blue Mango activity, you stare at the dot for 30 seconds. The yellow afterimage lasted 8 seconds. Then you tried staring for 60 seconds, and it lasted 15 seconds. About how many times longer did you stare the second time? Did the afterimage last longer too? **You stared 2 times as long, and the afterimage lasted almost 2 times as long.**. 60 seconds is 2 lots of 30 seconds, so you stared 2 times as long. The afterimage lasted 15 seconds instead of 8. 8 + 8 = 16, and 15 is nearly 16. So it lasted almost twice as long. The longer the cones work, the more tired they get. (queues `math.multiplication.equal-groups.L3`)
 

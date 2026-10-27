@@ -149,7 +149,7 @@
      "title": "Set up the ant test",
      "mins": 6,
      "ref": "e4",
-     "do": "Start Experiment e4 at the place where you saw ants last night. Lay four paper squares in a row, one hand-width apart. Put a pinch of sugar on one, a pinch of salt on the next, a crumb of roti on the third, and nothing on the fourth. Ask: 'Which square will get the most ants? Which will get none? Why?' Write the guess and note the time. Count the ants on each square at 10 minutes."
+     "do": "Start Experiment e4 at the place where you saw ants last night. Lay four paper squares in a row, one hand-width apart. Put a pinch of sugar on one, a pinch of salt on the next, a crumb of idli on the third, and nothing on the fourth. Ask: 'Which square will get the most ants? Which will get none? Why?' Write the guess and note the time. Count the ants on each square at 10 minutes."
     },
     {
      "kind": "talk",
@@ -168,7 +168,7 @@
      "title": "Count, chart and explain",
      "mins": 10,
      "ref": "e4",
-     "do": "Count the ants on each square at 30 minutes. Draw a bar chart with one bar for each square. Expect the most ants at the sugar, some at the roti, and almost none at the salt or the empty square. Ask your child for three sentences: what I think, what I saw, and why. A good answer: 'Ants come for food. 20 ants were on the sugar and none on the salt. Sugar and roti give them energy, and salt does not.' Then wipe the floor with soapy water."
+     "do": "Count the ants on each square at 30 minutes. Draw a bar chart with one bar for each square. Expect the most ants at the sugar, some at the idli, and almost none at the salt or the empty square. Ask your child for three sentences: what I think, what I saw, and why. A good answer: 'Ants come for food. 20 ants were on the sugar and none on the salt. Sugar and idli give them energy, and salt does not.' Then wipe the floor with soapy water."
     },
     {
      "kind": "act",
@@ -179,7 +179,7 @@
    ],
    "need": [
     "4 paper squares",
-    "sugar, salt and a crumb of roti",
+    "sugar, salt and a crumb of idli",
     "a clock",
     "a soapy cloth",
     "paper and a pencil"
@@ -207,13 +207,13 @@
      "kind": "read",
      "title": "Story: The Spoon from Downstairs",
      "mins": 12,
-     "do": "Read the story aloud. Don't explain it. Ask: 'Why did the curd not set on the cold night?' and 'What did Tanvi give the bacteria, and what did they give her?' Listen to the answers. Tonight you will test Tanvi's idea yourselves."
+     "do": "Read the story aloud. Don't explain it. Ask: 'Why did the curd not set on the cold night?' and 'What did Kavya give the bacteria, and what did they give her?' Listen to the answers. Tonight you will test Kavya's idea yourselves."
     },
     {
      "kind": "talk",
      "title": "Five ways of living together",
      "mins": 12,
-     "do": "Draw five columns on a big sheet. Explain one at a time, with a home example. 1. Both gain: mutualism. A bee drinks nectar from a flower and carries its pollen to the next flower. 2. One gains, the other is not harmed: commensalism. A cattle egret walks beside a buffalo and catches the insects its feet stir up. 3. One lives on the other and harms it: a parasite. A tick on a street dog drinks its blood. The dog is the host. 4. One eats the other: predator and prey, like the lizard and the moth. 5. Both need the same thing: competition, like two crows and one roti. After each, ask your child for one more example from the home census."
+     "do": "Draw five columns on a big sheet. Explain one at a time, with a home example. 1. Both gain: mutualism. A bee drinks nectar from a flower and carries its pollen to the next flower. 2. One gains, the other is not harmed: commensalism. A cattle egret walks beside a buffalo and catches the insects its feet stir up. 3. One lives on the other and harms it: a parasite. A tick on a street dog drinks its blood. The dog is the host. 4. One eats the other: predator and prey, like the lizard and the moth. 5. Both need the same thing: competition, like two crows and one idli. After each, ask your child for one more example from the home census."
     },
     {
      "kind": "exp",
@@ -249,7 +249,7 @@
      "title": "Curd results",
      "mins": 6,
      "ref": "e1",
-     "do": "Tilt each bowl from Experiment e1. Expect A set and thick, B still milk, C still runny. Ask: 'Why did B stay milk?' (It had no bacteria.) 'Why is C runny?' (The bacteria were too cold, so they almost stopped.) Then say: 'Curd is made by bacteria. We give them milk and warmth. They make curd, which keeps longer than milk. Both gain, so it is mutualism, like Tanvi said.' Bowl A can be eaten. Throw away B and C."
+     "do": "Tilt each bowl from Experiment e1. Expect A set and thick, B still milk, C still runny. Ask: 'Why did B stay milk?' (It had no bacteria.) 'Why is C runny?' (The bacteria were too cold, so they almost stopped.) Then say: 'Curd is made by bacteria. We give them milk and warmth. They make curd, which keeps longer than milk. Both gain, so it is mutualism, like Kavya said.' Bowl A can be eaten. Throw away B and C."
     },
     {
      "kind": "act",
@@ -535,7 +535,7 @@
          "one eats the other"
         ],
         [
-         "two crows and one roti",
+         "two crows and one idli",
          "both want the same thing"
         ]
        ]
@@ -894,27 +894,27 @@
    "id": "e4",
    "title": "What do the ants come for?",
    "day": 2,
-   "question": "Which food do ants come to most: sugar, salt, roti or nothing?",
+   "question": "Which food do ants come to most: sugar, salt, idli or nothing?",
    "need": [
     "4 paper squares of the same size",
     "a pinch of sugar",
     "a pinch of salt",
-    "a crumb of roti",
+    "a crumb of idli",
     "a clock",
     "a soapy cloth"
    ],
    "steps": [
     "Find a place where you have seen ants.",
     "Lay the 4 squares in a row, one hand-width apart, the same distance from the ants.",
-    "Put sugar on one, salt on the next, roti on the third, and nothing on the fourth. The empty square shows how many ants walk on just by chance.",
+    "Put sugar on one, salt on the next, idli on the third, and nothing on the fourth. The empty square shows how many ants walk on just by chance.",
     "Note the time.",
     "Count the ants on each square after 10, 20 and 30 minutes.",
     "Draw a bar chart of the 30-minute counts.",
     "Wipe the place with soapy water, so the ants don't keep coming back."
    ],
    "predict": "Ask: 'Which square will get the most ants? Which will get none? Why?' Write the guess and the reason.",
-   "observe": "Usually the sugar square fills with ants and the roti gets some. The salt and the empty square get almost none. If no ants come in 15 minutes, move the squares closer to an ant line and start again. In the cold months there may be fewer ants, so try in the late afternoon.",
-   "why": "Ants are consumers. They can't make their own food, so they search for it and leave a scent trail that leads other ants to it. Sugar and roti give them energy, and both were made by plants from sunlight. Salt gives no energy. So the ants come into our homes for the same reason every animal goes anywhere: food.",
+   "observe": "Usually the sugar square fills with ants and the idli gets some. The salt and the empty square get almost none. If no ants come in 15 minutes, move the squares closer to an ant line and start again. In the cold months there may be fewer ants, so try in the late afternoon.",
+   "why": "Ants are consumers. They can't make their own food, so they search for it and leave a scent trail that leads other ants to it. Sugar and idli give them energy, and both were made by plants from sunlight. Salt gives no energy. So the ants come into our homes for the same reason every animal goes anywhere: food.",
    "safety": "Some ants, like big red ants, bite. Watch them but don't touch them. Don't do this next to food jars.",
    "time": "40 min, with other steps done while you wait"
   }
@@ -1158,8 +1158,8 @@
    "We moved from Chennai to Delhi in December, and the first thing that went wrong was the curd.",
    "In Chennai, Amma made curd every night without thinking about it. She boiled the milk, let it cool, stirred in a spoonful of the day's curd and put the bowl in the cupboard. In the morning it was thick and white, and it wobbled when you shook the bowl.",
    "But we had packed in a hurry, and there was no curd left. On our first night in the new flat, Amma boiled the milk anyway and left it in a bowl. In the morning it was still milk. Just milk, cold and thin.",
-   "\"It needs a little curd to begin, Tanvi,\" Amma said. \"Curd makes curd.\"",
-   "I didn't understand that. A roti can't make a roti. How can curd make curd?",
+   "\"It needs a little curd to begin, Kavya,\" Amma said. \"Curd makes curd.\"",
+   "I didn't understand that. A dosa can't make a dosa. How can curd make curd?",
    "The flat downstairs belonged to an old lady called Harjeet Aunty. She had a long grey plait and a cough, and on our first day she had shouted at the delivery man for blocking the stairs. I was a little afraid of her. But Amma sent me down with an empty katori.",
    "Harjeet Aunty looked at the katori, and then at me. \"Jaman?\" she asked. That is her word for the starter, the little bit of old curd that begins the new curd. She went into her kitchen and came back with the katori half full. \"Don't put it in hot milk,\" she said. \"It's alive. You'll cook it.\"",
    "Alive? I carried it up the stairs very carefully, as if it might run away.",
@@ -1168,7 +1168,7 @@
    "It was so cold that day that the lizard behind our tube light didn't come out at all. In Chennai there had been three lizards on the kitchen wall every evening, waiting for moths. Here there was one, and it stayed in a crack in the wall, still as a stick.",
    "I looked at the runny curd. Then I looked at the crack where the lizard was hiding. The lizard was alive, and it was too cold, so it had slowed down. If the curd things were alive too, maybe they had slowed down for the same reason.",
    "\"Amma,\" I said, \"what if they're cold?\"",
-   "She laughed, but she let me try. We warmed fresh milk until it was finger-warm again and stirred in the last of the jaman. I wrapped the bowl in my own woollen shawl, the red one Nani knitted, and put it inside the big casserole we keep rotis in. Then I shut the lid. I put the whole thing in the warmest place in the flat, the corner next to the fridge, where warm air comes out at the back.",
+   "She laughed, but she let me try. We warmed fresh milk until it was finger-warm again and stirred in the last of the jaman. I wrapped the bowl in my own woollen shawl, the red one Nani knitted, and put it inside the big casserole we keep chapatis in. Then I shut the lid. I put the whole thing in the warmest place in the flat, the corner next to the fridge, where warm air comes out at the back.",
    "All day I wanted to open it. I didn't.",
    "In the evening Amma lifted the lid and unwrapped the shawl. The curd was set, thick and white and shining. When she tipped the bowl, it moved all in one piece, like a soft cake. It tasted a little sour, the way it tasted at home.",
    "Amma said the tiny living things are called bacteria. There are millions of them in one spoon of curd. They eat the sugar in milk, and as they eat, the milk turns thick and sour. When they are warm, they eat and grow fast. When they are cold, they almost stop.",
@@ -1180,13 +1180,13 @@
    "A week later, a new family moved into the empty flat above ours. Their boxes filled the stairs. Through the door I heard a woman say, \"Oh no. I forgot to bring curd.\"",
    "I went into our kitchen and found a katori."
   ],
-  "epiphany": "For the parent: Tanvi's turn comes when she sees the lizard hiding from the cold and guesses that the curd makers are alive in the same way, so they have slowed down too. Warmth is the fix, and the result proves her guess. Curd is a partnership with bacteria: we give them milk and warmth, they give us curd. The same spoon of curd also connects neighbours, as a gift passed on and never sold.",
+  "epiphany": "For the parent: Kavya's turn comes when she sees the lizard hiding from the cold and guesses that the curd makers are alive in the same way, so they have slowed down too. Warmth is the fix, and the result proves her guess. Curd is a partnership with bacteria: we give them milk and warmth, they give us curd. The same spoon of curd also connects neighbours, as a gift passed on and never sold.",
   "ask": [
    "Why didn't the curd set on the cold night?",
-   "What made Tanvi think of the lizard? How were the lizard and the curd alike?",
+   "What made Kavya think of the lizard? How were the lizard and the curd alike?",
    "What did the family give the bacteria, and what did the bacteria give them?",
    "Harjeet Aunty has fed the same family of bacteria for fifty years. Who else has she shared it with?",
-   "Why do you think Tanvi went to find a katori at the end?"
+   "Why do you think Kavya went to find a katori at the end?"
   ]
  },
  "ideas": [
@@ -1281,7 +1281,7 @@
   },
   {
    "q": "Name the five ways living things live together, with one example each.",
-   "a": "Both gain, mutualism: bee and flower. One gains and the other is not harmed, commensalism: egret and buffalo. Parasite: tick on a dog. Predator and prey: lizard and moth. Competition: two crows and one roti."
+   "a": "Both gain, mutualism: bee and flower. One gains and the other is not harmed, commensalism: egret and buffalo. Parasite: tick on a dog. Predator and prey: lizard and moth. Competition: two crows and one idli."
   },
   {
    "q": "What makes milk turn into curd, and why did the curd in the fridge not set?",

@@ -31,8 +31,8 @@
   {
    "term": "Weight",
    "meaning": "The pull of gravity on a thing. Weight is a force, so scientists measure it in newtons.",
-   "example": "A 1 kilogram packet of atta has a weight of about 10 newtons on Earth.",
-   "art": "A packet of atta hanging from a forcemeter, with a downward arrow labelled 10 newtons."
+   "example": "A 1 kilogram packet of rice has a weight of about 10 newtons on Earth.",
+   "art": "A packet of rice hanging from a forcemeter, with a downward arrow labelled 10 newtons."
   },
   {
    "term": "Mass",
@@ -438,7 +438,7 @@
    "description": "The Earth spins, and it bulges a little round its middle, the equator. So at the equator you are a bit further from the centre, and the spin also flings you outwards a little. Together, these make you weigh about half a percent less than at the poles. That is about half a newton less for every 10 kilograms. On top of a high mountain, you are further from the centre too, so you weigh very slightly less. Heavy rock deep under the ground pulls a tiny bit harder. Scientists map all these tiny differences. Gladys West, a mathematician in the United States, worked for years on computer models of the Earth's exact shape. Her work helped GPS, the system that tells phones where they are, to find places accurately. Satellites can even measure underground water by its pull. In 2009, scientists used two such satellites, called GRACE, to show that underground water in north-western India was being used up fast.",
    "examples": [
     "A 30 kilogram child weighs about 293 newtons near the equator, and about 295 newtons near the North Pole.",
-    "On top of Mount Everest, you would weigh very slightly less than in Mumbai.",
+    "On top of Mount Everest, you would weigh very slightly less than in Chennai.",
     "Your phone's map uses the Earth's exact shape to show where you are."
    ],
    "perspectives": [],
@@ -449,7 +449,7 @@
    "concept": "Mass is a form of energy",
    "status": "defined",
    "definition": "Mass and energy are two forms of the same thing. Albert Einstein showed this in 1905, with his famous rule E = mc². A little mass holds a huge amount of energy.",
-   "description": "Mass can turn into energy, and energy has mass. The Sun shines by turning a little of its mass into light. It loses about 4 million tonnes of mass every second, and it still has plenty left. Zoom inside one of your atoms. In its middle are tiny particles called protons and neutrons. Inside those are even tinier particles called quarks. They move about with enormous energy, held together by a very strong force. Most of your mass is really this energy. Even a cup of hot chai has a teeny bit more mass than the same cup when it is cold. The extra energy of heat adds mass, but far too little to weigh. Light has no mass at all. But it has energy, so gravity still bends its path. Energy, not only mass, is what gravity works on.",
+   "description": "Mass can turn into energy, and energy has mass. The Sun shines by turning a little of its mass into light. It loses about 4 million tonnes of mass every second, and it still has plenty left. Zoom inside one of your atoms. In its middle are tiny particles called protons and neutrons. Inside those are even tinier particles called quarks. They move about with enormous energy, held together by a very strong force. Most of your mass is really this energy. Even a tumbler of hot filter coffee has a teeny bit more mass than the same tumbler when it is cold. The extra energy of heat adds mass, but far too little to weigh. Light has no mass at all. But it has energy, so gravity still bends its path. Energy, not only mass, is what gravity works on.",
    "examples": [
     "The Sun turns about 4 million tonnes of its mass into light and heat every second.",
     "In 1919, scientists saw starlight bend as it passed close to the Sun, during an eclipse.",
@@ -849,7 +849,7 @@
       "Press a wall, a cushion and a bucket of water. Which pushes back hardest? Earn SUPPORT FORCE.",
       "Push an empty bottle down into a bucket of water. Feel it push up. Earn UPTHRUST.",
       "Float a paper boat with 3 coins in it. Earn UPTHRUST.",
-      "Press the flat end of a pencil, then its sharp point, gently into a ball of atta dough. Which sinks in more? Earn SPREAD OUT.",
+      "Press the flat end of a pencil, then its sharp point, gently into a ball of chapati dough. Which sinks in more? Earn SPREAD OUT.",
       "Tie a sock to a string and whirl it round in a circle, away from people. Earn SIDEWAYS SPEED.",
       "Walk across the room at a steady speed with a full steel tumbler of water. Don't spill a drop. Earn STEADY SPEED.",
       "Tug of war with a dupatta that ends in a draw. Earn NEUTRAL PULL.",
@@ -1124,7 +1124,7 @@
      "buy": "b-forcemeter"
     },
     {
-     "item": "a kitchen scale, or packets with the mass printed on them (a 100 gram soap, a 500 gram dal packet, a 1 kilogram atta packet)",
+     "item": "a kitchen scale, or packets with the mass printed on them (a 100 gram soap, a 500 gram dal packet, a 1 kilogram rice packet)",
      "qty": 1,
      "buy": "b-kitchenscale"
     },
@@ -1171,7 +1171,7 @@
        ]
       }
      ],
-     "parent": "No kitchen scale? Hang packets whose mass is printed on them instead: a 100 gram soap, a 500 gram packet of dal, a 1 kilogram packet of atta. Put each one in the bag."
+     "parent": "No kitchen scale? Hang packets whose mass is printed on them instead: a 100 gram soap, a 500 gram packet of dal, a 1 kilogram packet of rice. Put each one in the bag."
     },
     {
      "id": "s3",
@@ -3567,7 +3567,7 @@
  ],
  "spotted": [
   {
-   "text": "The hanging spring balance at a sabzi market or a kirana shop, with a pan below and a pointer at the top.",
+   "text": "The hanging spring balance at a vegetable market or a kirana shop, with a pan below and a pointer at the top.",
    "art": "A vegetable seller weighing tomatoes in a pan hanging from a spring balance."
   },
   {
@@ -3775,7 +3775,7 @@
  ],
  "maths": [
   {
-   "problem": "In the kilogram experiment, 100 grams of rice weighed 1 newton. How much would 800 grams weigh? And a 2 kilogram bag of atta?",
+   "problem": "In the kilogram experiment, 100 grams of rice weighed 1 newton. How much would 800 grams weigh? And a 2 kilogram bag of ragi flour?",
    "answer": "800 grams weighs about 8 newtons. 2 kilograms weighs about 20 newtons.",
    "explain": "Every 100 grams weighs about 1 newton. 800 grams is 8 lots of 100 grams. So it weighs 8 × 1 = 8 newtons. 2 kilograms is 2,000 grams, which is 20 lots of 100 grams. So it weighs about 20 newtons.",
    "math_unit": "math.weight-capacity.weight.L3",
@@ -4090,7 +4090,7 @@
    "used_in": [
     "e1"
    ],
-   "plan": "No need to buy one if you have packets with the mass printed on them: a 100 gram soap, a 500 gram dal packet and a 1 kilogram atta packet."
+   "plan": "No need to buy one if you have packets with the mass printed on them: a 100 gram soap, a 500 gram dal packet and a 1 kilogram rice packet."
   },
   {
    "id": "b-bathroomscale",

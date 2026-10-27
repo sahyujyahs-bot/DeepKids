@@ -1743,7 +1743,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Draw three circles round a steel tumbler on white card. 2. Cut them out. 3. Divide the first into six equal slices, like cutting a roti for six. Colour them red, orange, yellow, green, blue and violet. 4. Colour the second half red and half green. 5. Colour the third all red.",
+     "do": "1. Draw three circles round a steel tumbler on white card. 2. Cut them out. 3. Divide the first into six equal slices, like cutting a round uttapam for six. Colour them red, orange, yellow, green, blue and violet. 4. Colour the second half red and half green. 5. Colour the third all red.",
      "say": "Let's make three spinning wheels. This one is like Isaac Newton's colour wheel, with all the rainbow colours.",
      "kid": "Draw three circles. Cut them out. Colour one with six rainbow slices. Colour one half red, half green. Colour one all red.",
      "context": "This is the first step of Newton's Wheel. You make spinning paper discs to see if rainbow colours mix back into white.",
@@ -3002,7 +3002,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Where Does Green End? activity, Amma counted 7 colours, Appa counted 5, the child counted 6 and Didi counted 6. Look at the chart. How many more colours did Amma count than Appa? Which number did most people count?",
+   "problem": "In the Where Does Green End? activity, Amma counted 7 colours, Appa counted 5, the child counted 6 and Akka counted 6. Look at the chart. How many more colours did Amma count than Appa? Which number did most people count?",
    "answer": "Amma counted 2 more than Appa. Most people counted 6.",
    "explain": "Amma counted 7 and Appa counted 5. 7 take away 5 is 2. So Amma counted 2 more. Two people counted 6, and only one person counted each of the other numbers. So 6 is the number most people counted.",
    "math_unit": "math.data.bar-charts.L3",
@@ -3029,7 +3029,7 @@
       "emoji": "🧒"
      },
      {
-      "label": "Didi",
+      "label": "Akka",
       "value": 6,
       "emoji": "👧"
      }

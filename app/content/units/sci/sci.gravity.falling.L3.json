@@ -43,7 +43,7 @@
   {
    "term": "Down",
    "meaning": "Towards the middle of the Earth. It is not the bottom of a page. For people on the other side of the Earth, down points the other way from ours.",
-   "example": "In Delhi and in Buenos Aires, a dropped ball falls towards the middle of the Earth.",
+   "example": "In Chennai and in Buenos Aires, a dropped ball falls towards the middle of the Earth.",
    "art": "A round Earth with little people standing all round it, each with an arrow pointing to the centre."
   },
   {
@@ -3712,7 +3712,7 @@
  "applications": [
   "Masons and builders use a plumb line, called a sahul in many Indian languages, to build straight walls and pillars.",
   "Water tanks on rooftops use gravity to push water down to the taps, with no pump needed.",
-  "Hydroelectric dams, like Bhakra Nangal, use falling water to make electricity.",
+  "Hydroelectric dams, like Bhakra Nangal and Idukki, use falling water to make electricity.",
   "Parachutes slow down skydivers, soldiers, supply drops and even spacecraft returning to Earth.",
   "Pendulum clocks keep time because gravity swings the pendulum at a steady beat.",
   "GPS satellite clocks are set to allow for gravity's effect on time, or phone maps would drift off by kilometres each day.",
@@ -4000,14 +4000,14 @@
    "why_maths": "Galileo found that falling follows a number pattern. Spotting the pattern lets you predict where the marble will be before it gets there, which is what scientists love to do."
   },
   {
-   "problem": "Riya jumped three times. Her jumps were 22 cm, 27 cm and 25 cm high. Look at the chart. What was her best jump? How much higher was it than her lowest jump?",
+   "problem": "Kavya jumped three times. Her jumps were 22 cm, 27 cm and 25 cm high. Look at the chart. What was her best jump? How much higher was it than her lowest jump?",
    "answer": "Her best jump was 27 cm. It was 5 cm higher than her lowest jump.",
    "explain": "Put the jumps in order: 22, 25, 27. The biggest is 27 cm. The smallest is 22 cm. 27 take away 22 is 5. So the best jump was 5 cm higher.",
    "math_unit": "math.length.standard-units-length.L3",
    "context": "In How High Can You Jump?, you mark how high you can reach on a paper strip on the wall. Then you jump and touch it, and measure each jump from the reaching mark.",
    "chart": {
     "type": "bar",
-    "title": "Riya's three jumps, measured from her reaching mark",
+    "title": "Kavya's three jumps, measured from her reaching mark",
     "x": "Jump",
     "y": "Height of the jump (cm)",
     "data": [

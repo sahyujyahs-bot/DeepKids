@@ -80,7 +80,7 @@
   {
    "term": "Tithi",
    "meaning": "A Moon day in the Indian calendar. There are 30 tithis in each lunar month. A tithi is usually close to one day long, but it can be a few hours shorter or longer.",
-   "example": "Ganesh Chaturthi falls on the fourth tithi, chaturthi, of the bright half of the month.",
+   "example": "Vinayaka Chaturthi (Vinayaka Chaturthi) falls on the fourth tithi, chaturthi, of the bright half of the month.",
    "art": "A wall calendar page with small Moon shapes printed on some of the dates."
   },
   {
@@ -384,13 +384,13 @@
    "concept": "The Indian Moon calendar",
    "status": "defined",
    "definition": "Indian calendars count months by the Moon. Each lunar month has 30 tithis, split into a bright half, Shukla Paksha, and a dark half, Krishna Paksha. An extra month is added about once every three years to keep in step with the seasons.",
-   "description": "A tithi is the time the Moon takes to move a set step further from the Sun in the sky. Because the Moon's speed changes, a tithi can be a few hours shorter or longer than a day. In much of North India, a month ends on Purnima. In much of South and West India, a month ends on Amavasya. Twelve Moon months make about 354 days. That is 11 days short of a Sun year of 365 days. So every three years or so, an extra month, the adhik maas, is slipped in. That keeps Diwali in autumn and Holi in spring. The Islamic calendar is a pure Moon calendar with no extra month. So Eid and Ramzan come about 11 days earlier each year, and slowly move through every season. Chinese, Jewish and Buddhist calendars also follow the Moon. Easter falls on the Sunday after the first full Moon of spring.",
+   "description": "A tithi is the time the Moon takes to move a set step further from the Sun in the sky. Because the Moon's speed changes, a tithi can be a few hours shorter or longer than a day. In much of North India, a month ends on Purnima. In much of South and West India, a month ends on Amavasya. Twelve Moon months make about 354 days. That is 11 days short of a Sun year of 365 days. So every three years or so, an extra month, the adhik maas, is slipped in. That keeps Diwali in autumn and Ugadi in spring. The Islamic calendar is a pure Moon calendar with no extra month. So Eid and Ramzan come about 11 days earlier each year, and slowly move through every season. Chinese, Jewish and Buddhist calendars also follow the Moon. Easter falls on the Sunday after the first full Moon of spring.",
    "examples": [
-    "Diwali falls on Amavasya. Holi, Raksha Bandhan, Guru Purnima, Buddha Purnima and Sharad Purnima fall on full Moons. Karva Chauth ends when the Moon rises. Eid begins when the new crescent is seen.",
-    "Sun festivals stay on nearly the same date each year. Makar Sankranti and Pongal fall around 14 January."
+    "Diwali falls on Amavasya. Holi, Karthigai Deepam, Guru Purnima, Buddha Purnima and Sharad Purnima fall on full Moons. Ugadi comes just after a new Moon. Eid begins when the new crescent is seen.",
+    "Sun festivals stay on nearly the same date each year. Makar Sankranti and Pongal fall around 14 January, and Vishu around 14 April."
    ],
    "perspectives": [],
-   "art": "A wall calendar with small Moon shapes printed on some dates, diyas on the Amavasya square, coloured powder on the Holi Purnima square and a thin crescent on the Eid square.",
+   "art": "A wall calendar with small Moon shapes printed on some dates, diyas on the Amavasya square, clay lamps on the Karthigai Deepam full Moon square and a thin crescent on the Eid square.",
    "context": "Why does Diwali fall on a different date each year? This card explains how Indian calendars count by the Moon."
   },
   {
@@ -935,7 +935,7 @@
     },
     {
      "t": "fill",
-     "p": "The night when we cannot see the Moon at all is called new Moon, or ____ in Hindi.",
+     "p": "The night when we cannot see the Moon at all is called new Moon, or ____ in many Indian languages.",
      "a": [
       "Amavasya",
       "amavasya",
@@ -1032,7 +1032,7 @@
        "Set by the Sun"
       ],
       [
-       "Holi",
+       "Ugadi",
        "Set by the Moon"
       ],
       [
@@ -1094,8 +1094,8 @@
     {
      "t": "draw",
      "p": "Draw the Moon on the night of your favourite Moon festival. Write the festival's name and whether it is Amavasya or Purnima.",
-     "a": "For example, Diwali: a dark sky with no Moon, because it is Amavasya. Or Holi: a full round Moon, because it is Purnima.",
-     "why": "Diwali falls on Amavasya, Holi on Purnima.",
+     "a": "For example, Diwali: a dark sky with no Moon, because it is Amavasya. Or Karthigai Deepam: a full round Moon, because it is Purnima.",
+     "why": "Diwali falls on Amavasya, Karthigai Deepam on Purnima.",
      "art": "An empty night sky box above a row of rooftops."
     }
    ]
@@ -2177,7 +2177,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Write one festival on each slip. Use these 12: Diwali, Holi, Raksha Bandhan, Guru Purnima, Buddha Purnima and Eid al-Fitr. Then Ganesh Chaturthi, Karva Chauth, Makar Sankranti, Pongal, Baisakhi and Christmas. 2. Find each one on the calendar together.",
+     "do": "1. Write one festival on each slip. Use these 12: Diwali, Holi, Karthigai Deepam, Guru Purnima, Buddha Purnima and Eid al-Fitr. Then Vinayaka Chaturthi, Ugadi, Makar Sankranti, Pongal, Vishu and Christmas. 2. Find each one on the calendar together.",
      "say": "Let's find our festivals on the calendar. Look at the little Moon pictures. Is there a full Moon, a new Moon or no Moon sign on that day?",
      "kid": "Find each festival on the calendar. Look for a little Moon sign on its date. Is it a full Moon, a new Moon, or none?",
      "context": "This is the first step of the Festival Calendar Hunt. You use a calendar to find out which festivals follow the Moon and which follow the Sun."
@@ -2188,7 +2188,7 @@
      "do": "1. Sort the slips into two piles: set by the Moon, and set by the Sun. 2. Then look up the same festivals last year, on the internet or on an old calendar, and compare the dates.",
      "say": "Which festivals moved to a different date from last year? Which stayed almost the same?",
      "kid": "Make two piles: Moon festivals and Sun festivals. Did a festival move to a new date since last year? Then it probably follows the Moon.",
-     "parent": "Moon festivals: Diwali (Amavasya), Holi, Raksha Bandhan, Guru Purnima and Buddha Purnima (Purnima), Ganesh Chaturthi (the fourth tithi of the bright half), Karva Chauth (the fourth tithi of the dark half, ending at moonrise), Eid al-Fitr (when the new crescent is seen). Sun festivals: Makar Sankranti and Pongal (about 14 January), Baisakhi (about 13 or 14 April), and Christmas (25 December). Eid moves about 11 days earlier every year. The Hindu Moon festivals jump about, but stay in the same season, because of the extra month added every few years.",
+     "parent": "Moon festivals: Diwali (Amavasya), Holi, Karthigai Deepam, Guru Purnima and Buddha Purnima (Purnima), Vinayaka Chaturthi (the fourth tithi of the bright half), Ugadi (the first tithi of the bright half, just after Amavasya), Eid al-Fitr (when the new crescent is seen). Sun festivals: Makar Sankranti and Pongal (about 14 January), Vishu (about 14 April), and Christmas (25 December). Eid moves about 11 days earlier every year. The Hindu Moon festivals jump about, but stay in the same season, because of the extra month added every few years.",
      "check": {
       "t": "mcq",
       "q": "Makar Sankranti falls on about 14 January every year. Diwali's date changes. Why?",
@@ -2939,8 +2939,8 @@
    "art": "A family on a rooftop at dusk pointing at a thin crescent."
   },
   {
-   "text": "Karva Chauth evening, when many families watch the eastern sky for moonrise.",
-   "art": "Women holding sieves and lamps, looking up at the rising Moon."
+   "text": "Karthigai Deepam evening, when families light rows of lamps under the full Moon.",
+   "art": "Rows of small clay lamps on a doorstep beside a kolam, with a full Moon above."
   }
  ],
  "open_questions": [
@@ -3322,7 +3322,7 @@
    "a": "No. It shines with sunlight bouncing off it."
   },
   {
-   "q": "What is the new Moon called in Hindi?",
+   "q": "What is the new Moon called in many Indian languages?",
    "a": "Amavasya."
   },
   {

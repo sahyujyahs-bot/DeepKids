@@ -72,7 +72,7 @@
   },
   {
    "term": "Firefly",
-   "meaning": "A small beetle that makes light in the end of its body. In Hindi it is called jugnu. Fireflies are not really flies.",
+   "meaning": "A small beetle that makes light in the end of its body. In Tamil it is called minmini poochi, and in Hindi jugnu. Fireflies are not really flies.",
    "example": "On summer nights, fireflies blink over fields and trees.",
    "art": "A close-up beetle with hard wing cases, and a glowing tail end."
   },
@@ -2392,7 +2392,7 @@
      "id": "s4",
      "mins": 10,
      "do": "Ask a grandparent or older neighbour how many fireflies they saw as a child, and where.",
-     "say": "Let's ask Nani or Dada. Were there more fireflies when you were young? Where did you see them?",
+     "say": "Let's ask Paati or Thatha. Were there more fireflies when you were young? Where did you see them?",
      "kid": "Ask a grandparent. Did they see more fireflies when they were small? Where?",
      "parent": "Many people say there were more fireflies before. Memories are useful clues, but they are not careful counts. That is why your counts matter.",
      "think": "Is a grandparent's memory good evidence? How could we find out for sure if fireflies are disappearing?"

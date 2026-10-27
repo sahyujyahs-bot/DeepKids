@@ -76,7 +76,7 @@ When you swallow, food slides down your food pipe into your stomach. Your stomac
 ### The brain: the body's message centre · *defined*
 **Definition:** The brain is a soft organ inside the skull. It receives messages from the body, sends messages back and lets us think, feel, remember and move.
 
-Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of atta. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of your body's energy, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.
+Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of rice. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of your body's energy, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.
 - e.g. When a cricket ball flies towards you, your eyes tell your brain and your brain tells your hands to catch it.
 - e.g. When you sleep, your brain keeps you breathing and sorts out what you learned that day.
 - e.g. Messages cross over. The left side of your brain moves the right side of your body.
@@ -231,7 +231,7 @@ Appu was looking at her with very round eyes. One marble was missing. The green 
 
 Appu pointed at his mouth. Then he pointed at his belly button. Then he began to cry.
 
-Everything after that was fast. Amma's hands on Appu's cheeks. "Can you breathe? Breathe for me." Appu breathing, loud and wet and angry. Baba running for an auto. Meenu squeezed in at the back, holding Appu's foot, because it was the only part of him she could reach.
+Everything after that was fast. Amma's hands on Appu's cheeks. "Can you breathe? Breathe for me." Appu breathing, loud and wet and angry. Appa running for an auto. Meenu squeezed in at the back, holding Appu's foot, because it was the only part of him she could reach.
 
 In the auto, Appu cried, "It's in my tummy! It will stay in my tummy for ever!" He pressed his belly button as if he could push the marble back up.
 
@@ -281,7 +281,7 @@ Meenu put her hand gently on him, just below his ribs, on the left. "No," she sa
 
 Appu thought about that. Then he put his own small hand on top of hers, and they rode like that, through the orange streetlights, past the dark sea.
 
-Two days later, the green marble came out, exactly the way the doctor had said. Baba washed it in hot soapy water three times, and then three times again, and then everyone laughed so much that Appu got hiccups again.
+Two days later, the green marble came out, exactly the way the doctor had said. Appa washed it in hot soapy water three times, and then three times again, and then everyone laughed so much that Appu got hiccups again.
 
 The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step beside her. She did not look at the sky.
 
@@ -524,7 +524,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Parent says:* A grown-up's heart weighs about 300 grams. Let's find something that weighs the same. Hold it. Your heart is a bit lighter, because you are smaller.  
   *Child mode:* A grown-up's heart is about 300 grams. Find something that weighs that much. Hold it.
 - **s2 (6 min)**  
-  *Parent does:* Build up about 1,300 grams with a packet of atta and something small. Let your child hold it with two hands.  
+  *Parent does:* Build up about 1,300 grams with a packet of rice and something small. Let your child hold it with two hands.  
   *Parent says:* A grown-up's brain weighs about 1,300 grams. That is one kilogram and three hundred grams. Hold it. This is what sits on top of your neck all day.  
   *Child mode:* A grown-up's brain is about 1,300 grams. Put things on the scale until it says that. Hold it.
   - Check: Which is heavier in a grown-up, the brain or the heart? → **The brain**
@@ -654,7 +654,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 ### c2 · Pack the Chest (25 min)
 - **problem:** Fit a model heart and two model lungs inside a shallow box lid, so they fill the space without squashing each other.
 - **your turn:** Now design your own chest model. What else could you add, like a dome-shaped diaphragm at the bottom?
-- **constraints:** Use playdough or atta dough for the organs.; Use the lid of a shoe box or a mithai box as the chest. It is shallow, so the model is flat.; The heart must be as wide as your fist, and the lungs must fill the rest.
+- **constraints:** Use playdough or wheat-flour dough for the organs.; Use the lid of a shoe box or a mithai box as the chest. It is shallow, so the model is flat.; The heart must be as wide as your fist, and the lungs must fill the rest.
 - **general:** Make the heart first, as wide as your fist and about one finger thick, and put it in the middle.; Mould the lungs around it, one on each side.; Leave a dent in the left lung so the heart fits.
 - **creative:** Make the lungs fluffy by pressing in lots of tiny holes with a pencil tip, like tiny air bags.; Tape paper strips over the box as ribs, with small gaps between them.; Push in a straw for the windpipe and split it into two.
 - **s1 (6 min)**  
@@ -906,7 +906,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - Why did the octopus win the running race? *It had three hearts in it.*
 - Where does a stomach keep its savings? *In the food bank.*
 - Why did the cow need four stomachs? *It could never decide what to have for lunch.*
-- What did the food pipe say to the laddoo? *Down you go!*
+- What did the food pipe say to the vada? *Down you go!*
 - What did the doctor say to the lungs? *Take a deep breath. You're doing great.*
 - Why was the brain so tired? *It had been thinking all night, even in its sleep.*
 - What did one heart cell say to the other? *Let's beat it, together.*

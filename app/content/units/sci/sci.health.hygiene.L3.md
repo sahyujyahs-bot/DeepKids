@@ -40,7 +40,7 @@
 **Definition:** Germs are the microbes and viruses that can make us ill. They travel from person to person on hands, in water and food, in the drops of a sneeze or cough, and on flies and mosquitoes.
 
 Many bacteria can swim through water, but each second they cover less than the width of a hair. To get from one person to another, a germ needs a ride. Most often the ride is a hand. A hand touches a dirty surface, then touches the eyes, nose or mouth. Those soft, wet linings are the easiest way into the body. A sneeze sprays tiny drops across a room. Dirty water and uncovered food carry germs into the stomach. Flies walk on rubbish and then on food. Mosquitoes carry the germs of malaria and dengue from one person's blood to another's. Hygiene means breaking these paths at the right moments. The hand is the path that is easiest to break, with soap and water. How the body fights germs that do get in is in the unit on the immune system.
-- e.g. A child plays with a ball outside, then eats a samosa without washing. Germs ride from the ball, to the hand, to the mouth.
+- e.g. A child plays with a ball outside, then eats a vada without washing. Germs ride from the ball, to the hand, to the mouth.
 - e.g. A sneeze into the air can spray drops more than a metre. A sneeze into your elbow keeps most of them on your sleeve.
 - e.g. A fly on an open rubbish heap can carry germs on its feet to uncovered food.
 ### Why water alone is not enough · *defined*
@@ -53,7 +53,7 @@ Your skin makes its own oil, called sebum. It keeps skin soft and waterproof. It
 **Definition:** A soap molecule has a head that sticks to water and a long tail that sticks to oil. The tails push into oily dirt and germs, and the heads face the water. Many soap molecules wrap each blob of oil in a tiny ball called a micelle, and the rinse water carries the balls away.
 
 A soap molecule is long and thin. One end, its head, sticks to water. The other end, its long tail, avoids water and sticks to oil. When you rub soap on oily hands, millions of tails push into the oil. Rubbing breaks the oil into tiny blobs, and soap molecules cover each one, tails in and heads out. Now the outside of each blob sticks to water. So the rinse water carries the blobs off your skin and down the drain, with the dirt and germs inside them. This takes time and rubbing, which is why we rub for at least 20 seconds. Plain soap kills very few bacteria. It lifts them off, and the water carries them away alive.
-- e.g. Dishwashing liquid lifts oil off a kadhai the same way that handwash lifts it off your hands.
+- e.g. Dishwashing liquid lifts oil off a kadai the same way that handwash lifts it off your hands.
 - e.g. In the jar test, shaking with soap turns the two clear layers into one cloudy mix. The cloudiness is millions of tiny oil drops, each covered in soap molecules.
 ### Why soap breaks some viruses but not your hands · *defined*
 **Definition:** Flu viruses and coronaviruses have an oily outer coat. It is built from two-ended molecules like soap's, so soap can pull it apart. Your living cells are protected by the tough top layer of your skin.
@@ -71,7 +71,7 @@ Only a small share of all microbes are germs. Most are harmless, and many are he
 **Definition:** Wash hands with soap and water for at least 20 seconds, rubbing every part, at the moments germs are most likely to travel.
 
 The most important moments are before you eat or touch food, after using the toilet, after blowing your nose or sneezing, after playing outside or with animals, and when you come home. Wet your hands. Add soap. Rub palms, then the backs of your hands, between your fingers, round each thumb, your fingertips and nails, and your wrists. Twenty seconds is about the time it takes to sing Happy Birthday twice. Rinse well. Then dry your hands on a clean towel or let them dry in the air. Wet hands pass on germs more easily than dry ones. Warm water and cold water work about the same. Plain soap works about as well as soap that says antibacterial, for everyday washing.
-- e.g. In the haldi test, the yellow stayed longest between fingers, round the thumbs and under nails.
+- e.g. In the turmeric test, the yellow stayed longest between fingers, round the thumbs and under nails.
 - e.g. A study found that washing hands with soap can cut tummy illnesses like diarrhoea by about a third, or more.
 ### How clean is too clean? · *debated*
 Hygiene saves millions of lives. But some scientists noticed something puzzling. Allergies, such as hay fever and some kinds of asthma, became more common as homes got cleaner. Could living with too few microbes be part of the reason? Scientists still argue about this.
@@ -146,9 +146,9 @@ The soapnut tree's fruit, reetha, makes a rich foam when squeezed in water. Its 
 ## Roots
 We have been learning how soap lifts oil and germs off our hands. Now we ask what a wash really does to the living things on our hands, and what that tells us about ourselves and the world.
 
-**Deep truth.** In the haldi test, plain water ran over the oily yellow and left it behind. A soap molecule holds oil and water at once, so the rinse carried the yellow away. Most germs leave your hands the same way, still alive, in the rinse water. A good wash moves germs to a place where they cannot reach your mouth.  
+**Deep truth.** In the turmeric test, plain water ran over the oily yellow and left it behind. A soap molecule holds oil and water at once, so the rinse carried the yellow away. Most germs leave your hands the same way, still alive, in the rinse water. A good wash moves germs to a place where they cannot reach your mouth.  
 *Habit it breaks:* We talk about washing as a war that kills germs, because adverts do. A plain soap wash mostly moves microbes from one place to another, and that is enough to keep us well.  
-*Evidence:* In the haldi test, the yellow went down the drain with the soapy water. Plain soap kills very few bacteria, yet tests at home found it cleans hands as well as antibacterial soap that kills them.
+*Evidence:* In the turmeric test, the yellow went down the drain with the soapy water. Plain soap kills very few bacteria, yet tests at home found it cleans hands as well as antibacterial soap that kills them.
 
 - *who am i:* Your skin is home to millions of microbes. A good wash leaves most of them where they live.
 - *what is life:* Bacteria sense what is around them and decide when to settle, swim or grow. On your hands, they live in the skin's oil.
@@ -158,7 +158,7 @@ Soap works because one molecule can hold two things that will not mix by themsel
 
 - **Chandogya Upanishad 6.13:** Uddalaka asks his son to put salt in water overnight. In the morning the salt cannot be seen, but every sip tastes salty. What is unseen can still be everywhere. (Germs and soap molecules are far too small to see. Like the salt, we know they are there by what they do: mould on bread touched by unwashed hands, and the fever numbers in Semmelweis's ward.)
 - **Acharanga Sutra, Book 1, Lecture 4, Lesson 1 (Jain):** No living being should be killed, harmed or hurt, however small. Jain monks sweep the ground gently and filter their water so as to harm as few tiny creatures as they can. (A plain soap wash mostly moves microbes off your hands instead of killing them. It keeps us well while harming very few of them.)
-- **Patanjali, Yoga Sutras 2.32:** Among the five personal practices, the niyamas, the first is shaucha: cleanliness of the body and clarity of the mind. (Shaucha starts with keeping the body clean, and it needs care. In the haldi test, the careful wash of every part of each hand was the one that worked.)
+- **Patanjali, Yoga Sutras 2.32:** Among the five personal practices, the niyamas, the first is shaucha: cleanliness of the body and clarity of the mind. (Shaucha starts with keeping the body clean, and it needs care. In the turmeric test, the careful wash of every part of each hand was the one that worked.)
 - Science (settled): Every cell is wrapped in a membrane of molecules with water-loving heads and oil-loving tails, built much like soap.
 - Science (settled): Plain soap removes most microbes from hands by lifting them off in the rinse water, and kills few of them.
 - Science (settled): Scientists estimate that about as many bacteria live on and in a person as there are human cells in their body.
@@ -275,27 +275,27 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   - Check: In a real micelle, where do the oil-loving tails of the soap molecules point? → **Inwards, into the oil**
 
 ## Experiments
-### e1 · The Haldi Germ Test: water or soap? (25 min)
+### e1 · The Turmeric Germ Test: water or soap? (25 min)
 - **question:** Does soap clean pretend germs off hands better than water? Does rubbing for longer help?
 - **predict:** Before you test, guess. Rank the three ways from best to worst: water only for 20 seconds, soap for 5 seconds, soap for 20 seconds. Why do you think so?
-- **fair test:** To make it fair, change only the way of washing. Use the same amount of oil and haldi each time, measured with the same spoon. Use the same tap, and count the seconds out loud. Wash off completely between rounds, then coat again.
-- **safety:** Haldi stains clothes yellow, so wear old clothes and roll up sleeves. Keep oily hands away from eyes. The floor near the tap can get slippery, so wipe it dry.
+- **fair test:** To make it fair, change only the way of washing. Use the same amount of oil and turmeric each time, measured with the same spoon. Use the same tap, and count the seconds out loud. Wash off completely between rounds, then coat again.
+- **safety:** Turmeric stains clothes yellow, so wear old clothes and roll up sleeves. Keep oily hands away from eyes. The floor near the tap can get slippery, so wipe it dry.
 - **record:** Fill in the table. Draw your hands after each wash and colour where yellow stayed. Then draw a bar for each way of washing.
 - **results table:** Way of washing | Yellow left, from 0 (none) to 5 (all) | Where the yellow stayed
 - **s1 (3 min)**  
-  *Parent does:* 1. Put the oil, haldi, soap and towel near the tap. 2. Ask your child to rank the three ways of washing, best first.  
-  *Parent says:* Real germs are far too small to see. So today, haldi in oil is our pretend germ. Germs on real hands sit in the skin's own oil, just like this. Which way of washing do you think will work best? Why do you think so?  
-  *Child mode:* Haldi in oil is your pretend germ. Real germs hide in your skin's oil. Guess which wash will work best.
+  *Parent does:* 1. Put the oil, turmeric, soap and towel near the tap. 2. Ask your child to rank the three ways of washing, best first.  
+  *Parent says:* Real germs are far too small to see. So today, turmeric in oil is our pretend germ. Germs on real hands sit in the skin's own oil, just like this. Which way of washing do you think will work best? Why do you think so?  
+  *Child mode:* Turmeric in oil is your pretend germ. Real germs hide in your skin's oil. Guess which wash will work best.
 - **s2 (5 min)**  
-  *Parent does:* 1. Put half a teaspoon of oil in your child's palms. 2. Add a pinch of haldi. 3. Rub all over both hands, backs, between fingers and under nails, for 10 seconds. 4. Rinse under water only for 20 seconds, counting out loud, rubbing as normal. 5. Pat dry with the old towel.  
+  *Parent does:* 1. Put half a teaspoon of oil in your child's palms. 2. Add a pinch of turmeric. 3. Rub all over both hands, backs, between fingers and under nails, for 10 seconds. 4. Rinse under water only for 20 seconds, counting out loud, rubbing as normal. 5. Pat dry with the old towel.  
   *Parent says:* Round one: water only, for 20 seconds. Count with me. Now look. How much yellow is left, from 0 for none to 5 for all of it?  
-  *Child mode:* Rub oil and haldi on both hands. Rinse with water only. Count to 20. How much yellow is left? Score it, 0 to 5.
+  *Child mode:* Rub oil and turmeric on both hands. Rinse with water only. Count to 20. How much yellow is left? Score it, 0 to 5.
   - Ask: What do the water drops do on your oily hands? (good: They roll off.; They make little beads.; They don't spread out.)
 - **s3 (5 min)**  
-  *Parent does:* 1. Wash off fully with soap and dry. 2. Coat again with the same oil and haldi, the same way. 3. This time use soap, but rub for only 5 seconds, then rinse. 4. Score the yellow.  
-  *Parent says:* Round two: soap, but only 5 seconds. Same oil, same haldi. Only one thing changes. Score it.  
+  *Parent does:* 1. Wash off fully with soap and dry. 2. Coat again with the same oil and turmeric, the same way. 3. This time use soap, but rub for only 5 seconds, then rinse. 4. Score the yellow.  
+  *Parent says:* Round two: soap, but only 5 seconds. Same oil, same turmeric. Only one thing changes. Score it.  
   *Child mode:* Coat your hands again, the same way. Now soap for just 5 seconds. Rinse. Score the yellow, 0 to 5.
-  - Note: Haldi dyes skin a little, so a faint yellow tint may stay even after a good wash. Score the clumps and patches of powder, not the faint colour. A pale tint that will not wash off is the dye, not the pretend germs. The soap bar will turn a little yellow too. Rinse it at the end.
+  - Note: Turmeric dyes skin a little, so a faint yellow tint may stay even after a good wash. Score the clumps and patches of powder, not the faint colour. A pale tint that will not wash off is the dye, not the pretend germs. The soap bar will turn a little yellow too. Rinse it at the end.
 - **s4 (5 min)**  
   *Parent does:* 1. Wash fully, dry, and coat again. 2. Now wash with soap for 20 seconds: palms, backs, between fingers, round each thumb, fingertips, under nails and wrists. Sing Happy Birthday twice. 3. Rinse well and score.  
   *Parent says:* Round three: soap for 20 seconds, every part. Sing Happy Birthday twice while you rub. Now score it. Where did the yellow go?  
@@ -310,7 +310,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soap for 20 seconds cleans best. What I saw: water left a score of 4, and soap for 20 seconds left 0. The yellow went down the drain. Why: the haldi was stuck in oil, water slides off oil, and soap holds both oil and water, so the rinse carried it away.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soap for 20 seconds cleans best. What I saw: water left a score of 4, and soap for 20 seconds left 0. The yellow went down the drain. Why: the turmeric was stuck in oil, water slides off oil, and soap holds both oil and water, so the rinse carried it away.
 ### e3 · Oil, Water and Soap in a Jar (15 min)
 - **question:** Can soap make oil and water mix?
 - **predict:** Guess first. After shaking, which jar will stay mixed longer: oil and water, or oil, water and soap? Why do you think so?
@@ -319,7 +319,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 - **record:** Fill in the table. Draw both jars straight after shaking, and after 2 minutes.
 - **results table:** Jar | Seconds until a clear oil layer is back on top | What it looked like
 - **s1 (4 min)**  
-  *Parent does:* 1. Stir a pinch of haldi into the oil, so the oil turns yellow. 2. Put half a cup of water and 2 tablespoons of yellow oil in each jar. 3. Add half a teaspoon of soap to jar 2 only. 4. Close both lids tightly.  
+  *Parent does:* 1. Stir a pinch of turmeric into the oil, so the oil turns yellow. 2. Put half a cup of water and 2 tablespoons of yellow oil in each jar. 3. Add half a teaspoon of soap to jar 2 only. 4. Close both lids tightly.  
   *Parent says:* Look: the yellow oil floats on top of the water in a layer. Oil and water don't mix. Jar 2 also has soap.  
   *Child mode:* Put water and yellow oil in two jars. Add soap to jar 2 only. See the oil float on top?
 - **s2 (6 min)**  
@@ -547,10 +547,10 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 3. (fill) To wash your hands well, rub them with soap for at least ____ seconds.  
    **Answer:** ['20', 'twenty']. *Why:* About 20 seconds gives soap time to break up the oil on every part of your hands. That is about the time it takes to sing Happy Birthday twice.
 4. (truefalse) Rinsing with water alone removes as much dirt and germs as washing with soap.  
-   **Answer:** False. *Why:* False. Germs stick in the skin's oil. Water slides off oil. Soap holds oil and water both, so it lifts the germs away. The haldi test shows this.
+   **Answer:** False. *Why:* False. Germs stick in the skin's oil. Water slides off oil. Soap holds oil and water both, so it lifts the germs away. The turmeric test shows this.
 5. (sort) Sort these moments. Should you wash your hands with soap now?  
    **Answer:** before eating lunch → Wash now; after using the toilet → Wash now; after reading a book in bed → No need to wash just for this; after playing with a dog → Wash now; after blowing your nose → Wash now; after singing a song → No need to wash just for this. *Why:* Wash at the moments germs travel most: before food, after the toilet, after a runny nose, and after animals or playing outside. Washing at every moment is not needed. That is called targeted hygiene.
-6. (mcq) In the haldi test, where did the yellow stay longest after a quick wash?  
+6. (mcq) In the turmeric test, where did the yellow stay longest after a quick wash?  
    Options: On the middle of the palms / Between the fingers, round the thumbs and under the nails / On the backs of the wrists only / Nowhere: it all came off  
    **Answer:** Between the fingers, round the thumbs and under the nails. *Why:* The middle of the palm gets rubbed most. The gaps between fingers, the thumbs and under nails are easy to miss. Picking 'palms' usually means thinking the part you look at is the part that is dirtiest.
 7. (match) Match each body part to a way of caring for it.  
@@ -578,12 +578,12 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
    Options: Only doctors / Sanitation workers, health workers, families and doctors, all together / Nobody can / Only people who make soap  
    **Answer:** Sanitation workers, health workers, families and doctors, all together. *Why:* Clean drains, safe water, rubbish taken away and clean habits at home all matter. Picking 'only doctors' is common. But doctors mostly treat illness. Sanitation workers and health workers help stop it starting.
 ### Soap Scientists (stretch) (stretch, 16 questions)
-1. (mcq) Riya, a girl in Class 3, did the haldi test. She scored how much yellow was left on her hands, from 0 (none) to 5 (all). Look at her chart. Which way of washing worked best?  
+1. (mcq) Meenakshi, a girl in Class 3, did the turmeric test. She scored how much yellow was left on her hands, from 0 (none) to 5 (all). Look at her chart. Which way of washing worked best?  
    Options: Water only, 20 seconds / Soap, 5 seconds / Soap, 20 seconds / They were all the same  
    **Answer:** Soap, 20 seconds. *Why:* Soap for 20 seconds left the least yellow. Picking 'soap, 5 seconds' usually means thinking soap works instantly. Soap needs time and rubbing to break up all the oil.
-2. (mcq) In the haldi test, why must you coat your hands with the same amount of oil and haldi each time?  
-   Options: To make it a fair test / Because haldi is expensive / So your hands smell nice / It does not matter  
-   **Answer:** To make it a fair test. *Why:* If you used more haldi one time, you would not know whether the washing or the amount caused the difference. Picking 'it does not matter' means missing the idea of a fair test: change only one thing.
+2. (mcq) In the turmeric test, why must you coat your hands with the same amount of oil and turmeric each time?  
+   Options: To make it a fair test / Because turmeric is expensive / So your hands smell nice / It does not matter  
+   **Answer:** To make it a fair test. *Why:* If you used more turmeric one time, you would not know whether the washing or the amount caused the difference. Picking 'it does not matter' means missing the idea of a fair test: change only one thing.
 3. (mcq) In the jar test, a jar of oil and water is shaken. In a minute or two, the oil floats back to the top. A second jar has soap added, and it stays cloudy for many minutes. Why?  
    Options: Soap makes the oil heavier / Soap molecules wrap tiny drops of oil, so they stay mixed in the water / Soap turns oil into water / The second jar was shaken harder  
    **Answer:** Soap molecules wrap tiny drops of oil, so they stay mixed in the water. *Why:* Soap tails hold the oil and heads hold the water, so tiny oil drops stay spread through the water. Picking 'shaken harder' is a good thought about fairness. That is why both jars must be shaken for the same time.
@@ -658,7 +658,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 15. (mcq) Some tummy viruses have no oily coat, so soap cannot break them. Why does washing with soap still help against them?  
    Options: Soap and rubbing lift them off the hands, and the water carries them away / Soap makes them grow an oily coat / It does not help at all / The water is too cold for them  
    **Answer:** Soap and rubbing lift them off the hands, and the water carries them away. *Why:* Soap wraps the oil and dirt the viruses sit in, and the rinse carries them off. Picking 'it does not help' means thinking soap must kill a germ to work. Mostly, soap works by moving germs off your hands.
-16. (write) In the haldi test, where did the yellow go when you washed with soap? What does that tell you about where germs go when you wash?  
+16. (write) In the turmeric test, where did the yellow go when you washed with soap? What does that tell you about where germs go when you wash?  
    **Answer:** It went down the drain with the rinse water. Germs on hands mostly go the same way. The soap lifts them off and the water carries them away, mostly still alive.. *Why:* A good answer says the yellow was carried away by the water, and links that to germs leaving the hands in the rinse.
 
 ## Videos
@@ -682,7 +682,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 5. (mcq) In the jar test, why did the soapy jar stay cloudy?  
    Options: Soap wrapped tiny oil drops so they stayed mixed in water / Soap made the oil disappear / The soapy jar was dirtier  
    **Answer:** Soap wrapped tiny oil drops so they stayed mixed in water. *Why:* Each oil drop is wrapped in soap molecules, tails in and heads out. Picking 'disappear' misses that the oil is still there, just in tiny wrapped drops.
-6. (mcq) In the haldi test, which wash left the least yellow?  
+6. (mcq) In the turmeric test, which wash left the least yellow?  
    Options: Water only for 20 seconds / Soap for 5 seconds / Soap for 20 seconds, rubbing every part  
    **Answer:** Soap for 20 seconds, rubbing every part. *Why:* Soap plus 20 seconds of rubbing reaches all the oil, even between fingers. Picking soap for 5 seconds usually means thinking soap works instantly.
 7. (mcq) When is it MOST important to wash your hands with soap?  
@@ -728,7 +728,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 ## Spotted around us
 - Soap on a string, or a tippy-tap, by a tap at a school or roadside dhaba.
 - Reetha and shikakai sold in kirana and ayurvedic shops.
-- A covered matka or steel water drum in the kitchen.
+- A covered clay pot or steel water drum in the kitchen.
 - Posters for a weekly 'dry day' against dengue in cities.
 - Sanitation workers sweeping streets early in the morning.
 - ASHA workers visiting homes in villages to talk about health.

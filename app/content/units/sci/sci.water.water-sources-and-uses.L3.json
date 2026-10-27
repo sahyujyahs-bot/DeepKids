@@ -44,7 +44,7 @@
   {
    "term": "Surface water",
    "meaning": "Water we can see on top of the land, in rivers, lakes, ponds and reservoirs.",
-   "example": "The Ganga, Dal Lake and your village pond are all surface water.",
+   "example": "The Kaveri, Vembanad Lake in Kerala and your village pond are all surface water.",
    "art": "A river winding past a lake and a pond, seen from above."
   },
   {
@@ -97,7 +97,7 @@
   },
   {
    "term": "Matka",
-   "meaning": "A clay pot for keeping drinking water. Clay has tiny holes, so a little water seeps out and evaporates, which cools the water inside.",
+   "meaning": "A clay pot for keeping drinking water. Clay has tiny holes, so a little water seeps out and evaporates, which cools the water inside. In Tamil it is called a mann paanai.",
    "example": "In summer, many Indian homes keep a matka in a shady corner.",
    "art": "A round red clay matka on a stand, its outside slightly damp."
   },
@@ -169,8 +169,8 @@
    "definition": "Almost all the fresh water we use starts as rain. We take it from two places: water on the land, called surface water, and water under the ground, called groundwater.",
    "description": "Rain fills rivers, lakes and ponds. That is surface water, water we can see. Rain also soaks into the ground. That is groundwater, hidden water. Every home gets its water from one of these, or from both. A city usually pipes water from a river, a lake or a reservoir far away. A village often pumps groundwater from a well, a borewell or a handpump. Some homes buy water from a tanker, a truck that carries water. A few coastal cities, such as Chennai, also take salt out of sea water in big plants, but that costs a lot of electricity.",
    "examples": [
-    "Mumbai gets most of its water from lakes and reservoirs more than 100 kilometres away.",
-    "A farmhouse in Punjab may pump all its water from a borewell.",
+    "Bengaluru gets most of its water from the Kaveri river, more than 100 kilometres away.",
+    "A farmhouse near Coimbatore may pump all its water from a borewell.",
     "In summer, many families in big cities also buy water from tankers."
    ],
    "perspectives": [],
@@ -840,7 +840,7 @@
       "A sealed bottle of water from a shop, with the seal unbroken",
       "Water from a stream in the hills, clear and very cold",
       "A puddle on the road after rain",
-      "Water from the sea at Juhu beach",
+      "Water from the sea at Marina beach",
       "Water from your home purifier, working properly",
       "Water from a village handpump that has never been tested",
       "Water from a well that was tested and found to have arsenic",

@@ -39,7 +39,7 @@
 - **Classification**: A big, careful system of groups inside groups, made by experts. Scientists classify animals, plants, stars and elements. *e.g.* Cats belong to the group mammals, which belongs to the group animals.
 - **Kabadiwala**: A person who buys old paper, bottles, tins and metal, sorts them into piles, and sells them to be recycled. *e.g.* The kabadiwala weighs your old newspapers and pays you for them.
 - **Recycling**: Turning old things into new things by melting, shredding or pulping them. Recycling works much better when the materials are sorted first. *e.g.* Old glass bottles are melted and made into new bottles.
-- **Winnowing**: Sorting grain from husk by tossing it in a flat basket so the wind carries the light husk away. *e.g.* A farmer tosses rice in a sup, and the husk blows off.
+- **Winnowing**: Sorting grain from husk by tossing it in a flat basket so the wind carries the light husk away. *e.g.* A farmer tosses rice in a muram, a flat winnowing basket, and the husk blows off.
 - **Quasicrystal**: A solid whose atoms are in an ordered pattern that never repeats. Scientists once thought such a thing was impossible. Then one was found. *e.g.* A quasicrystal was found inside a meteorite from space.
 
 ## Explanations
@@ -95,9 +95,9 @@ People use some kinds of rules again and again. One family sorts by what a thing
 ### Sorting a heap for real: people and machines · *defined*
 **Definition:** Real sorting uses rules that match the job. Hands, wind, magnets and cameras are all tools for applying a rule.
 
-A kabadiwala sorts by hand and by eye. Paper goes to one pile. Bottles go to another. Iron goes in a third. Why? Each material is recycled in its own way, so each pile can be sold to a different buyer. Farmers sort too. To winnow grain, they toss it in a flat basket called a sup. The heavier grain falls back down. The lighter husk blows away. The wind sorts light from heavy. A modern recycling plant sorts in layers. First, big magnets attract and lift out iron and steel. Next, a machine uses a changing magnetic field to make aluminium cans jump out of the stream. Then cameras that see invisible light recognise different plastics. Little jets of air blow each kind into its own bin. In India, a great deal of recycling still begins with waste pickers, who sort by hand. Many of them are women. They can tell many kinds of plastic, paper and metal apart by look, feel and sound.
+A kabadiwala sorts by hand and by eye. Paper goes to one pile. Bottles go to another. Iron goes in a third. Why? Each material is recycled in its own way, so each pile can be sold to a different buyer. Farmers sort too. To winnow grain, they toss it in a flat basket called a muram. The heavier grain falls back down. The lighter husk blows away. The wind sorts light from heavy. A modern recycling plant sorts in layers. First, big magnets attract and lift out iron and steel. Next, a machine uses a changing magnetic field to make aluminium cans jump out of the stream. Then cameras that see invisible light recognise different plastics. Little jets of air blow each kind into its own bin. In India, a great deal of recycling still begins with waste pickers, who sort by hand. Many of them are women. They can tell many kinds of plastic, paper and metal apart by look, feel and sound.
 - e.g. A kabadiwala sorting by hand into paper, plastic, glass and metal.
-- e.g. A farmer winnowing rice in a sup.
+- e.g. A farmer winnowing rice in a muram.
 - e.g. A recycling plant using magnets, cameras and air jets.
 - e.g. A cook picking stones out of dal before cooking.
 ### Solid, liquid, gas: a rule with a fuzzy edge · *debated*
@@ -234,50 +234,50 @@ Behind the many things in the world there is one source. Sorting points the same
 - *big:* You belong to many groups at once, like a thing in many circles of a Venn diagram. Can any one group say everything about you? (hint: Think of your family, your school, your favourite game and the language you speak. What does each group leave out?)
 - *big:* A kabadiwala makes money from things we call rubbish. Is there really such a thing as rubbish, or only things that have not been sorted yet? (hint: What happens to a heap of mixed rubbish? What happens when it is sorted into piles?)
 - *big:* Mendeleev's gaps told chemists what to look for before anyone had seen it. Can a good pattern let you know something before you find it? (hint: Think of a times table with one number missing, or a story with a missing page.)
-- *big:* In the story The Bell That Would Not Sing, Hira could hear high notes that her grandfather could not. Who in your family notices what others miss? (hint: Every person sorts the world a little differently, because every person notices different things.)
+- *big:* In the story The Bell That Would Not Sing, Hema could hear high notes that her grandfather could not. Who in your family notices what others miss? (hint: Every person sorts the world a little differently, because every person notices different things.)
 - *big:* When you sort a heap, who is doing the sorting? Can you find the part of you that notices? (hint: Close your eyes and feel a spoon. Something notices the cold and the smooth. Where is the noticing?)
 
 ## Story: The Bell That Would Not Sing
-*Tambapur, Kharsoli, Nana, Hira and this bell are imagined. The metals are real. Bell metal (kansa) is copper mixed with tin. Brass is copper mixed with zinc. They can look alike, but a kansa bowl rings for much longer than a brass one. Many people lose the ability to hear high sounds as they grow old.*
+*Tambapur, Kharsoli, Thatha, Hema and this bell are imagined. The metals are real. Bell metal (kansa) is copper mixed with tin. Brass is copper mixed with zinc. They can look alike, but a kansa bowl rings for much longer than a brass one. Many people lose the ability to hear high sounds as they grow old.*
 
 Before I was a bell, I was a heap. I was forty-one lamps, a water tap, six door handles and a cart bell with a crack in it. I was also a great many bangles. I lay in the yard of a foundry in Tambapur, a town where every lane smells of hot metal. I did not know that I was going to be anything at all.
 
-Every morning an old man came out to look at me. Everyone called him Nana, because every grandfather has to be called something. His eyes were sharp and his hands were sure. He meant to turn me into a school bell for the village of Kharsoli. The children there walked five kilometres to their lessons, and sometimes they arrived after the lessons had begun. 'A bell on the hill,' he said, 'and they will hear it from the far fields.'
+Every morning an old man came out to look at me. Everyone called him Thatha, because every grandfather has to be called something. His eyes were sharp and his hands were sure. He meant to turn me into a school bell for the village of Kharsoli. The children there walked five kilometres to their lessons, and sometimes they arrived after the lessons had begun. 'A bell on the hill,' he said, 'and they will hear it from the far fields.'
 
-A bell is made of bell metal, which is copper mixed with tin. But I was not all copper and tin. Some of my pieces were brass, which is copper mixed with zinc. Brass and bell metal look almost the same, the way two brothers do. So Nana sorted me. He did it the way he had done it for fifty years, with his eyes. Pale yellow pieces here. Red-gold pieces there. 'Colour does not lie,' he said. He tipped the red-gold pile into the furnace.
+A bell is made of bell metal, which is copper mixed with tin. But I was not all copper and tin. Some of my pieces were brass, which is copper mixed with zinc. Brass and bell metal look almost the same, the way two brothers do. So Thatha sorted me. He did it the way he had done it for fifty years, with his eyes. Pale yellow pieces here. Red-gold pieces there. 'Colour does not lie,' he said. He tipped the red-gold pile into the furnace.
 
 I remember the heat. Then the pour, a river of orange light running into a mould of clay. Then three days of waiting in the dark. Then the mould was broken. I stood in the sun for the first time, with the whole foundry looking at me.
 
-Nana lifted a wooden mallet and struck me. I did not sing. I gave a short, flat 'clank', like a pot hit with a spoon, and then I was silent. He struck me again. 'Clank.' Somebody coughed. Nana put down the mallet and walked into the back room and shut the door.
+Thatha lifted a wooden mallet and struck me. I did not sing. I gave a short, flat 'clank', like a pot hit with a spoon, and then I was silent. He struck me again. 'Clank.' Somebody coughed. Thatha put down the mallet and walked into the back room and shut the door.
 
-The only one who stayed was his granddaughter, Hira. She was ten. She was not allowed near the furnace, so she had watched everything from the doorway. Now she walked all the way round me, the way you walk round a stranger. She knocked on me with her knuckle, and she listened. Then she went to the kitchen and came back with two bowls from her grandmother's shelf. One was a heavy yellow kansa bowl, the kind used for serving on feast days. The other was a brass bowl that looked exactly the same.
+The only one who stayed was his granddaughter, Hema. She was ten. She was not allowed near the furnace, so she had watched everything from the doorway. Now she walked all the way round me, the way you walk round a stranger. She knocked on me with her knuckle, and she listened. Then she went to the kitchen and came back with two bowls from her grandmother's shelf. One was a heavy yellow kansa bowl, the kind used for serving on feast days. The other was a brass bowl that looked exactly the same.
 
-She hung each bowl from a loop of thread and tapped it with a pencil. The kansa bowl rang. It was a long, bright ringing, and it went on after the pencil had gone. The brass bowl rang too, but only for a moment, and then it stopped. 'Nana!' she called through the door. 'They look the same. But they are not the same.'
+She hung each bowl from a loop of thread and tapped it with a pencil. The kansa bowl rang. It was a long, bright ringing, and it went on after the pencil had gone. The brass bowl rang too, but only for a moment, and then it stopped. 'Thatha!' she called through the door. 'They look the same. But they are not the same.'
 
-He opened the door a hand's width. 'Colour is what I can see,' he said slowly. 'The high sounds I cannot hear any more. That is why I trust my eyes.' Hira had never heard him say such a thing. 'But nobody will look at a bell from the far fields,' he went on, half to himself. 'They will only hear it.'
+He opened the door a hand's width. 'Colour is what I can see,' he said slowly. 'The high sounds I cannot hear any more. That is why I trust my eyes.' Hema had never heard him say such a thing. 'But nobody will look at a bell from the far fields,' he went on, half to himself. 'They will only hear it.'
 
-Hira took a breath. 'I can hear them,' she said. 'You tell me where to put each piece.'
+Hema took a breath. 'I can hear them,' she said. 'You tell me where to put each piece.'
 
-So they sorted me again, all that was left of me, piece by piece. Hira hung each one from a string on the beam, tapped it with her pencil, shut her eyes and listened. 'Sings,' she said, and Nana laid the piece on a white cloth. 'Stops,' she said, and he laid the piece on a black one. Lamps. Handles. The tap. The bangles. By evening there were two piles. And they were not the piles that colour had made. Some red-gold pieces lay on the black cloth. Some pale ones lay on the white. Colour had been telling Nana something true. It just had not been telling him what a bell needs to know.
+So they sorted me again, all that was left of me, piece by piece. Hema hung each one from a string on the beam, tapped it with her pencil, shut her eyes and listened. 'Sings,' she said, and Thatha laid the piece on a white cloth. 'Stops,' she said, and he laid the piece on a black one. Lamps. Handles. The tap. The bangles. By evening there were two piles. And they were not the piles that colour had made. Some red-gold pieces lay on the black cloth. Some pale ones lay on the white. Colour had been telling Thatha something true. It just had not been telling him what a bell needs to know.
 
-The short-ringing pile went off to be made into hinges and pots. The singing pile went into the fire. This time Nana let Hira stand at the door of the furnace room, with his hand on her shoulder. She watched the orange river pour. Three days. The mould was broken. Nana lifted the mallet, and then he did something I had not expected. He held it out to her.
+The short-ringing pile went off to be made into hinges and pots. The singing pile went into the fire. This time Thatha let Hema stand at the door of the furnace room, with his hand on her shoulder. She watched the orange river pour. Three days. The mould was broken. Thatha lifted the mallet, and then he did something I had not expected. He held it out to her.
 
 She struck me once. I rang. It was not a clank. It was a note so clear and so long that it climbed the foundry roof and made the tin hum. It rolled out over the lane, where a dog lifted its head and the vegetable seller stopped weighing. It went on and on, thinning out like a thread drawn from a spool. When at last it ended, the lane was quiet for a moment, as if it were listening for more.
 
-I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pulls my rope, and my voice goes out across the fields. Children come running from three villages. On my rim, in raised letters, is the name of the foundry. Nobody wrote Hira's name there. But stand underneath me and look up into the dark inside my rim. There you can find one small scratched letter. It was cut with a chisel by an old man who could no longer hear high notes. It is an H.
+I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pulls my rope, and my voice goes out across the fields. Children come running from three villages. On my rim, in raised letters, is the name of the foundry. Nobody wrote Hema's name there. But stand underneath me and look up into the dark inside my rim. There you can find one small scratched letter. It was cut with a chisel by an old man who could no longer hear high notes. It is an H.
 
 **For the parent:** For the parent: the pieces of metal never changed. Only the rule for sorting them changed. Sorted by colour, the heap hid the difference that mattered. Sorted by sound, the heap split into two piles, and the bell sang. A rule is only good when it fits the job. The story also asks who notices what. The old man trusted his eyes because his ears had changed. The girl's ears, and her willingness to speak, made the difference.
 
-- Ask: Nana sorted the metal by colour. Why did it not work for a bell?
-- Ask: Hira sorted the metal by sound. Why did that rule fit the job better?
+- Ask: Thatha sorted the metal by colour. Why did it not work for a bell?
+- Ask: Hema sorted the metal by sound. Why did that rule fit the job better?
 - Ask: Some red-gold pieces went into the pile that stopped quickly. What does that tell you about sorting by colour?
-- Ask: Nana trusted his eyes because he could not hear high notes. What do you trust most, your eyes, your ears or your hands? When is each best?
-- Ask: Nana scratched a tiny H inside the bell. Why do you think he did it that way?
+- Ask: Thatha trusted his eyes because he could not hear high notes. What do you trust most, your eyes, your ears or your hands? When is each best?
+- Ask: Thatha scratched a tiny H inside the bell. Why do you think he did it that way?
 
 ## Games
 ### g1 · Rule Detective (20 min)
 - **rules:** Cut out the 24 thing cards and the 12 rule cards. Put the rule cards in a pile, face down.; One player is the Sorter. The Sorter secretly takes a rule card and does not show it.; The Sorter turns over thing cards one at a time. Each goes on the YES mat or the NO mat, by the secret rule. The Sorter says nothing about the rule.; After each card, the other players may guess the rule. A right guess after 3 cards wins 3 tokens. After 4 or 5 cards it wins 2 tokens. After 6 or more cards it wins 1 token. A wrong guess costs 1 token.; Any player may say 'Test it!'. Then the Sorter must show how they decided about that card. If you have the real thing at home, test it together. If the card was put in the wrong place, the Sorter loses a token.; When the rule is guessed, or after 8 cards, swap roles. Everyone should be the Sorter twice. The player with the most tokens wins.
-- **Printable cards: 24 thing cards to cut out, each with a picture and a name:** steel spoon; wooden spoon; plastic comb; glass bangle; rubber band; woollen sock; cotton hanky; candle; clay diya; pebble; aluminium foil ball; paper cup; steel tumbler; brass lota; leather belt; glass marble; pencil; iron nail; coconut shell; plastic bottle; bamboo stick; silk ribbon; chalk; soap bar
+- **Printable cards: 24 thing cards to cut out, each with a picture and a name:** steel spoon; wooden spoon; plastic comb; glass bangle; rubber band; woollen sock; cotton hanky; candle; clay diya; pebble; aluminium foil ball; paper cup; steel tumbler; brass kindi; leather belt; glass marble; pencil; iron nail; coconut shell; plastic bottle; bamboo stick; silk ribbon; chalk; soap bar
 - **Printable cards: 12 secret rule cards:** Is it shiny?; Is it hard? (a fingernail cannot mark it); Is it made of metal?; Can you see through it?; Does it bend easily?; Does it float in water?; Is it made from a plant?; Does it soak up water?; Does it make a ringing sound when tapped?; Is it smaller than your palm?; Can it be stretched?; Is it waterproof?
 - **Printable board: Two sorting mats:** YES mat; NO mat
 - **Printable tokens: 30 guess tokens (small paper circles):** 🔍
@@ -286,11 +286,11 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent says:* Today we are detectives. One of us secretly picks a rule. The rest must work out the rule, just by watching where things go.  
   *Child mode:* Cut out the cards. Put the YES and NO mats down. One player is the Sorter. The others are detectives.
 - **s2 (4 min)**  
-  *Parent does:* Play a practice round with everyone watching. Put the steel spoon, glass bangle, foil ball and brass lota on the YES mat. Put the wooden spoon, rubber band and woollen sock on the NO mat. Ask what the rule is.  
+  *Parent does:* Play a practice round with everyone watching. Put the steel spoon, glass bangle, foil ball and brass kindi on the YES mat. Put the wooden spoon, rubber band and woollen sock on the NO mat. Ask what the rule is.  
   *Parent says:* Look at the YES mat and the NO mat. Can you work out the secret rule?  
   *Child mode:* Look at what is on the YES mat. Look at what is on the NO mat. What is the secret rule? Tap your answer.
   - Ask: How did you work out the rule? (good: I looked for what the YES things all have that the NO things do not.; I tried a rule in my head and checked it on every card.)
-  - Check: YES: steel spoon, glass bangle, foil ball, brass lota. NO: wooden spoon, rubber band, woollen sock. What is the rule? → **Is it shiny?**
+  - Check: YES: steel spoon, glass bangle, foil ball, brass kindi. NO: wooden spoon, rubber band, woollen sock. What is the rule? → **Is it shiny?**
 - **s3 (10 min)**  
   *Parent does:* 1. The Sorter takes a rule card in secret and starts turning over thing cards, one at a time. 2. After each card, the detectives may guess. 3. Count tokens as in the rules. 4. When a rule is guessed, swap roles.  
   *Parent says:* Sorter, put each card where it belongs by your secret rule. Detectives, think about each card before you guess.  
@@ -448,7 +448,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 ### e4 · Sort by Sound (25 min)
 - **question:** Do things that look alike also sound alike? Is sorting by sound the same as sorting by looks?
 - **predict:** Before you test, line up your six things. Put the one you think will ring longest first and the shortest last. Say why you think so.
-- **fair test:** Hold each thing so that almost nothing touches it. Hang spoons and the mug from a thread. Rest the katori, the tumbler and the foil container, open side up, on the tips of three fingers of a flat hand. Tap each one with the same pencil, in the same place, with the same light tap. Listen in a quiet room. Try each thing three times.
+- **fair test:** Hold each thing so that almost nothing touches it. Hang spoons and the mug from a thread. Rest the bowl, the tumbler and the foil container, open side up, on the tips of three fingers of a flat hand. Tap each one with the same pencil, in the same place, with the same light tap. Listen in a quiet room. Try each thing three times.
 - **safety:** Tap lightly, especially on the ceramic mug. Do the test over a soft rug or a folded towel, in case something falls.
 - **record:** Fill in the table. Make two lists of groups: one sorted by looks and one sorted by sound. Circle the things that moved to a different group.
 - **results table:** Thing | Looks: colour | Try 1: seconds of ringing | Try 2 | Try 3 | Middle value
@@ -457,10 +457,10 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent says:* Here are six things. First, sort them by how they look. Silver things in one group, and the rest in the other. Now guess which will ring longest when tapped. Why do you think so?  
   *Child mode:* Sort the six things by how they look. Write the groups. Now guess which will ring longest.
 - **s2 (12 min)**  
-  *Parent does:* 1. Tie a loop of thread round the handle of each spoon and the mug. Hold the other end so the thing hangs free. 2. Rest the katori, the tumbler and the foil container, open side up, on three fingertips of a flat hand. 3. Tap it lightly with a pencil and start timing. 4. Listen until you cannot hear it any more. 5. Write the seconds in the table. 6. Do it three times for each thing.  
+  *Parent does:* 1. Tie a loop of thread round the handle of each spoon and the mug. Hold the other end so the thing hangs free. 2. Rest the bowl, the tumbler and the foil container, open side up, on three fingertips of a flat hand. 3. Tap it lightly with a pencil and start timing. 4. Listen until you cannot hear it any more. 5. Write the seconds in the table. 6. Do it three times for each thing.  
   *Parent says:* Hold the thing so almost nothing touches it. Tap it once, gently. Listen. Count the seconds until the ring has completely faded.  
   *Child mode:* Hang the spoon by its thread. Rest a bowl on your fingertips. Tap it once, lightly, with the pencil. Count how many seconds it rings. Write it down.
-  - Note: A hand wrapped round a thing stops the ringing, so hold it by a thread or on fingertips. It is quiet work, so turn off any fan or TV. Ring times are rough, and this is fine. Look at the differences, which are big. Try three times because one try may be a fluke. Expect the katori and the tumbler to ring for several seconds, and the foil container and plastic spoon hardly at all.
+  - Note: A hand wrapped round a thing stops the ringing, so hold it by a thread or on fingertips. It is quiet work, so turn off any fan or TV. Ring times are rough, and this is fine. Look at the differences, which are big. Try three times because one try may be a fluke. Expect the bowl and the tumbler to ring for several seconds, and the foil container and plastic spoon hardly at all.
 - **s3 (5 min)**  
   *Parent does:* 1. Make a new set of groups, by sound. For example, rings for a long time, rings for a short time, hardly rings. 2. Compare with the groups made by looks. 3. Circle any thing that moved to a different group.  
   *Parent says:* Now sort the same six things by how they sound. Do the groups look like the groups we made by sight?  
@@ -470,7 +470,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* You sorted the same six things by looks and then by sound. Tell me three things. What do you think now about sorting by looks? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: sorting by sound gives different groups from sorting by looks. What I saw: the steel katori and the foil container were both silver, but the katori rang for 6 seconds and the container hardly rang. Why: the sound depends on the material and its shape and thickness, and looks do not show these. A bell-maker can sort scrap metal by ear for this reason, as in the story.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: sorting by sound gives different groups from sorting by looks. What I saw: the steel bowl and the foil container were both silver, but the bowl rang for 6 seconds and the container hardly rang. Why: the sound depends on the material and its shape and thickness, and looks do not show these. A bell-maker can sort scrap metal by ear for this reason, as in the story.
   - Think: When is it better to sort by looks? When is it better to sort by sound?
 
 ## Activities
@@ -510,16 +510,16 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent says:* Now we change one label. The Hard circle becomes the Metal circle. Which things need to move?  
   *Child mode:* Change one label. Hard becomes Metal. Which things need to move? Move them.
   - Think: Did the things change? Or only the rule?
-### a3 · Dal Detective and the Sup (20 min)
+### a3 · Dal Detective and the Muram (20 min)
 - **safety:** A grown-up mixes in the stones or salt. Work on a balcony or by an open window, with newspaper underneath. Do not cook this dal afterwards.
 - **record:** Draw the three piles: dal, stones and leaf flakes. Write the rule used to make each pile.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up mixes the stones or salt crystals and the leaf flakes into the dal. 2. Spread the dal on a thali. 3. Ask your child to pick out the stones one at a time.  
+  *Parent does:* 1. A grown-up mixes the stones or salt crystals and the leaf flakes into the dal. 2. Spread the dal on a plate. 3. Ask your child to pick out the stones one at a time.  
   *Parent says:* In many homes, someone picks stones out of dal before cooking. That is sorting, and it has a rule. Is it dal, or is it not dal?  
   *Child mode:* A grown-up mixes stones into the dal. Spread the dal on a plate. Pick out the stones. The rule is: dal or not dal?
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Pour the dal and leaf flakes on a flat tray. 2. Hold the tray low, over newspaper, and gently toss the dal up about two centimetres, then catch it. 3. Blow gently across the tray while you toss. 4. Watch what happens to the light bits and the heavy bits.  
-  *Parent says:* Farmers do this in a sup, a flat basket, to sort grain from husk. Our leaf flakes stand in for the husk. Toss gently. Blow across it. Watch what goes where.  
+  *Parent says:* Farmers do this in a muram, a flat basket, to sort grain from husk. Our leaf flakes stand in for the husk. Toss gently. Blow across it. Watch what goes where.  
   *Child mode:* Toss the dal gently in the tray, and blow across it. Watch the light bits float away. Watch the dal fall back.
   - Ask: What does the blowing sort? What is the rule? (good: It sorts light from heavy.; Light bits blow away. Heavy dal falls back down.)
   - Check: In winnowing, why does the husk blow away but the grain stays? → **The husk is lighter, so the wind moves it more**
@@ -539,7 +539,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent does:* 1. Blow gently over the tray to move the light paper into a bowl. 2. Run the magnet over the rest. The steel clips jump to it. Drop them in a bowl. 3. Tip what is left into the water. Scoop off what floats. 4. What sinks stays at the bottom. Dry it on a towel.  
   *Parent says:* Step one, blow away the lightest bits. Step two, the magnet picks up the steel. Step three, water: what floats and what sinks? Each step has its own rule.  
   *Child mode:* Blow the paper away. Use the magnet on the clips. Put the rest in water. What floats? What sinks?
-  - Note: Expect paper to blow away and clips to jump to the magnet. Expect caps to float, and the rajma or chana to sink. A magnet attracts iron and most steel, but not aluminium, copper or plastic. If your fridge magnet is too weak to lift a clip, use any stronger magnet you have.
+  - Note: Expect paper to blow away and clips to jump to the magnet. Expect caps to float, and the chana or beans to sink. A magnet attracts iron and most steel, but not aluminium, copper or plastic. If your fridge magnet is too weak to lift a clip, use any stronger magnet you have.
   - Check: Why should the blowing step come before the water step? → **Wet paper sticks to things and will not blow away**
 - **s3 (5 min)**  
   *Parent does:* Compare the plan from step one with what you did. Ask what you would change.  
@@ -639,10 +639,10 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 
 ## Challenges
 ### c1 · Clean the Mixed-Up Jar (30 min)
-- **problem:** A jar holds rice, steel paper clips, dried rajma, plastic beads and dry crushed leaves, all mixed together. Your job is to separate it into five clean piles, using as few steps as you can.
+- **problem:** A jar holds rice, steel paper clips, dried chana, plastic beads and dry crushed leaves, all mixed together. Your job is to separate it into five clean piles, using as few steps as you can.
 - **your turn:** Now invent your own order of steps. Draw it, try it, and time it. Is your line faster than the others?
 - **constraints:** You may not pick every bit out by hand one at a time.; You may only use things you find at home.; Time each way you try, and count the steps.
-- **general:** Use a magnet to take out the steel paper clips.; Use a sieve or colander with holes the right size, so small bits fall through and big bits stay.; Blow gently over the tray, or toss it in a flat tray, to take out the light leaves.; Put what is left into water. Some plastic beads float and some sink, so test one first. Rajma sinks.
+- **general:** Use a magnet to take out the steel paper clips.; Use a sieve or colander with holes the right size, so small bits fall through and big bits stay.; Blow gently over the tray, or toss it in a flat tray, to take out the light leaves.; Put what is left into water. Some plastic beads float and some sink, so test one first. Chana sinks.
 - **creative:** Tilt a tray and tap it gently. Round beads roll away faster than rice grains.; Rub a plastic comb on dry hair, then hold it over the tray. It may pick up the light leaf bits.; Stack two sieves with different hole sizes. Pour through both to make three piles in one go.; Think of a sorting machine in a factory. What is the clever step that you could copy?
 - **s1 (5 min)**  
   *Parent does:* 1. Look at the mixed jar. 2. Ask your child to list the five kinds of thing. 3. Ask which tool might work on each.  
@@ -656,7 +656,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent does:* 1. Try the plan. 2. Time it. 3. Count the steps. 4. Try one change and time it again.  
   *Parent says:* Try your plan and time it. Then change one thing and try again. Which version is faster?  
   *Child mode:* Try your plan. Time it. Change one thing. Try again. Which is faster?
-  - Note: A magnet first is usually best. Then blow or toss for the leaves. Then shake the rest in a colander or a sieve with big holes: rice falls through, and the rajma and beads stay. If the rice will not pass, tilt the tray and tap it, so the round beads roll away. Pick out the rajma, or try water if your beads float. If a step does not work, look for one property where the two kinds differ, such as size, weight or floating, and use a tool that sorts by it.
+  - Note: A magnet first is usually best. Then blow or toss for the leaves. Then shake the rest in a colander or a sieve with big holes: rice falls through, and the chana and beads stay. If the rice will not pass, tilt the tray and tap it, so the round beads roll away. Pick out the rajma, or try water if your beads float. If a step does not work, look for one property where the two kinds differ, such as size, weight or floating, and use a tool that sorts by it.
 - **s4 (5 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together. Then invent a new one.  
   *Parent says:* Here is what engineers usually do, and some creative ideas. Can you invent something new?  
@@ -808,8 +808,8 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** The program was taught with too few faces like theirs. *Why:* A program learns its rules from the examples it is given. If most examples look one way, it works best for them. Joy Buolamwini and Timnit Gebru showed this in 2018. It is a lesson in who is left out when the rule is built.
 9. (write) A pile does not change a rock. But a label can change how people treat a person. Why should we be careful when we sort people?  
    **Answer:** A person has many parts to them, and one rule hides most of them. People can feel hurt or left out. A sort can also be used unfairly.. *Why:* Good answers say that people belong to many groups at once, and that a single rule hides the rest. They may also mention fairness or feelings.
-10. (write) Nana sorted the metal by colour and Hira sorted it by sound. Why did the bell sing only after the second sort?  
-   **Answer:** Colour showed what the metal looked like, but not what it would sound like. A bell needs bell metal, which rings. Hira's sort used the property the bell needed.. *Why:* The rule must fit the job. A bell is for sound, so sorting by sound fits.
+10. (write) Thatha sorted the metal by colour and Hema sorted it by sound. Why did the bell sing only after the second sort?  
+   **Answer:** Colour showed what the metal looked like, but not what it would sound like. A bell needs bell metal, which rings. Hema's sort used the property the bell needed.. *Why:* The rule must fit the job. A bell is for sound, so sorting by sound fits.
 11. (mcq) Ketchup stays in the bottle until you shake it. In what way is it a tricky middle case?  
    Options: It acts like a solid when still and a liquid when moved / It is always a gas / It is hot / It has no properties  
    **Answer:** It acts like a solid when still and a liquid when moved. *Why:* Ketchup is part of the soft matter group. It holds its shape when still and flows when shaken. Picking 'a gas' mixes up thick with light and airy.
@@ -911,11 +911,11 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 
 ## Spotted around us
 - A kabadiwala's shop with neat piles of newspaper, tins, bottles and iron.
-- In the kitchen, steel things may sit on one shelf and plastic things on another. The spices are kept together in a masala dabba.
+- In the kitchen, steel things may sit on one shelf and plastic things on another. The spices are kept together in an anjarai petti, a round spice box.
 - A railway station or post office with parcels sorted into pigeonholes by place.
 - A vegetable seller's cart with tomatoes, onions and potatoes in separate heaps.
 - A cook picking stones out of dal or rice before cooking.
-- A farmer or a cook tossing grain in a sup, so the husk blows away.
+- A farmer or a cook tossing grain in a muram, so the husk blows away.
 - A mango seller sorting mangoes by size and ripeness into crates.
 - Tea leaves graded by size in a tea garden or a tea shop.
 - A school library, with story books, science books and picture books on different shelves.
@@ -967,13 +967,13 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - Why don't red stars boast about how hot they are? *The blue stars would laugh at them.*
 - Why was the lentil proud? *It was dal-ightful.*
 - What did the platypus say when asked to choose a box? *None of the above.*
-- Why did everyone like Hira's bell? *It had a lovely ring to it.*
+- Why did everyone like Hema's bell? *It had a lovely ring to it.*
 
 ## Connected maths
 - In the experiment One Heap, Three Rules, a child sorted twelve things into the four boxes of a Carroll table. The chart shows how many things were in each box. How many things were soft, and how many were dull? **6 things were soft and 8 were dull.**. Soft things are in two boxes: soft and shiny has 1, and soft and dull has 5. 1 + 5 = 6. Dull things are also in two boxes: hard and dull has 3, and soft and dull has 5. 3 + 5 = 8. Check: 6 soft and 6 hard make 12, and 4 shiny and 8 dull make 12. (queues `math.data.sorting-and-tallies.L3`)
 - In the Floor Venn, ten things were sorted. 5 were shiny. 4 were hard. 2 were both shiny and hard. How many things were neither shiny nor hard? **3 things.**. The 2 things that are both were counted once in the shiny 5 and again in the hard 4. So the things that are shiny or hard are 5 + 4 - 2 = 7. The other things are 10 - 7 = 3. Check with the diagram: only shiny 3, both 2, only hard 2, neither 3. That makes 3 + 2 + 2 + 3 = 10. (queues `math.logic.sets-and-venn.L2`)
 - Each good question doubles the number of things a branching key can tell apart. One question tells 2 apart. Two questions tell 4 apart. Three tell 8 apart. How many things can five questions tell apart? And how many questions are needed to tell 16 things apart? **Five questions tell 32 things apart. To tell 16 things apart you need 4 questions.**. Keep doubling. 2, 4, 8, then 16 for four questions, then 32 for five. So five questions tell 32 things apart. The number 16 comes after four doublings, so 16 things need 4 questions. (queues `math.patterns.number-patterns.L3`)
-- In Sort by Sound, a steel katori rang for 6 seconds and a steel tumbler for 5 seconds. A steel spoon rang for 2 seconds and a ceramic mug for 1 second. Draw a bar chart. How many seconds longer did the steel katori ring than the steel spoon? Both are made of steel, so why might they ring for different times? **4 seconds longer. They are the same material, so the difference must come from their shape and size.**. Draw one bar for each thing, as tall as its number of seconds. The katori bar reaches 6. The spoon bar reaches 2. 6 - 2 = 4. So the katori rang 4 seconds longer. The material is the same, so something else changed the sound: the katori is a wide, thin bowl, and the spoon is a small, thick strip. (queues `math.data.bar-charts.L3`)
+- In Sort by Sound, a steel bowl rang for 6 seconds and a steel tumbler for 5 seconds. A steel spoon rang for 2 seconds and a ceramic mug for 1 second. Draw a bar chart. How many seconds longer did the steel bowl ring than the steel spoon? Both are made of steel, so why might they ring for different times? **4 seconds longer. They are the same material, so the difference must come from their shape and size.**. Draw one bar for each thing, as tall as its number of seconds. The bowl bar reaches 6. The spoon bar reaches 2. 6 - 2 = 4. So the bowl rang 4 seconds longer. The material is the same, so something else changed the sound: the bowl is a wide, thin bowl, and the spoon is a small, thick strip. (queues `math.data.bar-charts.L3`)
 - A kabadiwala sorts a heap into piles. There are 12 kilograms of paper, 7 kilograms of iron, 5 kilograms of plastic and 4 kilograms of glass. How many kilograms are in the whole heap? **28 kilograms.**. Add the four piles. 12 + 7 = 19. 19 + 5 = 24. 24 + 4 = 28. Check by adding in a different order. 12 + 4 = 16, and 7 + 5 = 12, and 16 + 12 = 28. (queues `math.addition-subtraction.written-methods.L3`)
 - Mendeleev published his table in 1869. Germanium, one of the elements he predicted, was found in 1886. How many years later was germanium found? **17 years.**. Find the gap between 1869 and 1886. 1886 - 1869 = 17. You can count up. From 1869 to 1880 is 11 years, and from 1880 to 1886 is 6 more. 11 + 6 = 17. (queues `math.addition-subtraction.mental-strategies.L3`)
 

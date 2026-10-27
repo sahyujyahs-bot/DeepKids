@@ -35,7 +35,7 @@
   ],
   [
    "terracotta",
-   "baked clay, usually reddish brown. Diyas, kulhads and flower pots are terracotta. The word means 'baked earth'."
+   "baked clay, usually reddish brown. Diyas, clay cups and flower pots are terracotta. The word means 'baked earth'."
   ],
   [
    "irreversible change",
@@ -197,14 +197,14 @@
      "kind": "exp",
      "title": "Mud or terracotta in water",
      "mins": 14,
-     "do": "Do Experiment e3. Put a dried clay ball from Day 2 (or a hard dry clod of soil) in one glass of water and a broken diya or kulhad in another. Ask first: 'What will happen to each? Why?' Wait 10 minutes, stirring once. The dry ball goes soft and crumbles into mud. The diya stays hard. Now ask: 'They were the same mud once. What made the difference?' Then explain: 'A kiln heats clay to more than 600 degrees Celsius, far hotter than a kitchen stove. That heat changes the grains themselves and joins them together. This is an irreversible change: it cannot be undone.' Go back to the Day 1 story answer and check it.",
+     "do": "Do Experiment e3. Put a dried clay ball from Day 2 (or a hard dry clod of soil) in one glass of water and a broken diya or clay cup in another. Ask first: 'What will happen to each? Why?' Wait 10 minutes, stirring once. The dry ball goes soft and crumbles into mud. The diya stays hard. Now ask: 'They were the same mud once. What made the difference?' Then explain: 'A kiln heats clay to more than 600 degrees Celsius, far hotter than a kitchen stove. That heat changes the grains themselves and joins them together. This is an irreversible change: it cannot be undone.' Go back to the Day 1 story answer and check it.",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "The order of pot making",
      "mins": 8,
-     "do": "Ask your child to tell you, in order, how a potter makes a matka: dig and clean the clay, soak it, knead it, shape it on the wheel, dry it in the shade, bake it in a kiln, decorate it. For each step ask: 'Why?' Two important ones: 'Why dry it before baking?' (Water left inside turns to steam in the fire and can crack or burst the pot.) 'Why dry it slowly in the shade?' (If the outside dries much faster than the inside, it shrinks unevenly and cracks.)"
+     "do": "Ask your child to tell you, in order, how a potter makes a clay water pot: dig and clean the clay, soak it, knead it, shape it on the wheel, dry it in the shade, bake it in a kiln, decorate it. For each step ask: 'Why?' Two important ones: 'Why dry it before baking?' (Water left inside turns to steam in the fire and can crack or burst the pot.) 'Why dry it slowly in the shade?' (If the outside dries much faster than the inside, it shrinks unevenly and cracks.)"
     },
     {
      "kind": "think",
@@ -223,7 +223,7 @@
     "the clay bar and a ruler",
     "2 glasses of water",
     "a dried clay ball from Day 2 or a hard dry clod of soil",
-    "an old diya or kulhad (break a chipped one, wrapped in a cloth, grown-up does this)",
+    "an old diya or clay cup (break a chipped one, wrapped in a cloth, grown-up does this)",
     "a toothpick"
    ]
   },
@@ -505,7 +505,7 @@
      [
       {
        "t": "mcq",
-       "p": "Riya shakes soil and water in a jar and leaves it. What sinks to the bottom first?",
+       "p": "Kavya shakes soil and water in a jar and leaves it. What sinks to the bottom first?",
        "opts": [
         "sand",
         "clay",
@@ -663,7 +663,7 @@
      [
       {
        "t": "mcq",
-       "p": "Meera tapes newspaper tubes into a square and a triangle and pushes the top corner of each. Which keeps its shape?",
+       "p": "Meenakshi tapes newspaper tubes into a square and a triangle and pushes the top corner of each. Which keeps its shape?",
        "opts": [
         "the square",
         "the triangle",
@@ -883,7 +883,7 @@
    "question": "Do dried clay and baked clay behave the same in water?",
    "need": [
     "a clay ball dried hard (or a hard dry clod of soil)",
-    "a piece of an old diya or kulhad",
+    "a piece of an old diya or clay cup",
     "2 glasses of water",
     "a spoon"
    ],
@@ -896,7 +896,7 @@
    ],
    "predict": "Ask: 'What will happen to each one in the water? Why do you think so?'",
    "observe": "The dried clay goes soft, crumbles at the edges and clouds the water. It turns back into mud. The diya stays hard and whole.",
-   "why": "Dried clay is only clay with the water gone, so water can get back between its grains and loosen them. In a kiln, clay is heated to more than 600 degrees Celsius. That heat drives out water that was locked inside the grains themselves and makes the grains join. After that, water cannot loosen them. This is an irreversible change. Baked clay still has tiny holes, which is why a matka lets a little water seep through.",
+   "why": "Dried clay is only clay with the water gone, so water can get back between its grains and loosen them. In a kiln, clay is heated to more than 600 degrees Celsius. That heat drives out water that was locked inside the grains themselves and makes the grains join. After that, water cannot loosen them. This is an irreversible change. Baked clay still has tiny holes, which is why a clay water pot lets a little water seep through.",
    "safety": "Only a grown-up breaks the diya, inside a cloth. Edges can be sharp.",
    "time": "15 min"
   },

@@ -4,17 +4,17 @@
  "subj": "sci",
  "level": 3,
  "n": "how-life-began",
- "title": "The great great grandmother: how life began",
+ "title": "How life began on Earth",
  "source": "DeepKids Combined, a DeepKids-only topic that no board covers: deep time, the young Earth, the first cells, stromatolites, the oxygen made by microbes, the open question of life's origin, and many cultures' creation stories. No textbook needed.",
- "summary": "Your child stretches a string 4.5 metres long to feel how old the Earth is, acts out the fiery young planet and the birth of the Moon, and learns how oceans formed. They meet the chemicals of life, play a copying game with the four letters of RNA, watch oil bubbles make 'skins', and hear RNA itself tell the story of the first cell, the great great grandmother of every living thing. They see living rocks (stromatolites) built by microbes, find out that microbes made the oxygen we breathe, learn how scientists read rocks and argue about the oldest life, and listen to creation stories from many cultures, alongside the science. Nobody knows for sure how life began, and your child will leave knowing that.",
+ "summary": "The Earth is about 4.5 billion years old, and for most of that time the only living things were single cells too small to see. Your child lays out a 4.5-metre string to see how long that is, and acts out the young Earth and the birth of the Moon. They play a copying game with RNA, a molecule that can copy itself, and make soapy bubbles with thin skins, like the skin of the first cells. They meet stromatolites, rocks built by microbes, and find out that microbes made the oxygen we breathe. They hear how scientists read rocks, why they argue about the oldest life, and creation stories from many cultures. Nobody knows for sure how life began, and your child will finish knowing that.",
  "subconcepts": [
   "deep time: the Earth is about 4.5 billion years old",
   "how big a billion is",
   "the young Earth: molten rock, meteorites, and the Moon from a giant crash",
-  "oceans formed as the Earth cooled; no oxygen in the air",
+  "oceans formed as the Earth cooled, and there was no oxygen in the air",
   "the chemicals of life formed naturally and arrived on meteorites",
   "RNA: a chain that can copy itself (the RNA world idea)",
-  "the first cell: a fatty bubble around the copier, keeping 'self' in and 'other' out",
+  "the first cell: a fatty bubble around the copying chain, with an inside and an outside",
   "for most of Earth's history all life was single cells",
   "stromatolites: layered rocks built by microbe mats",
   "cyanobacteria made the oxygen we breathe (the Great Oxidation)",
@@ -47,7 +47,7 @@
   ],
   [
    "RNA",
-   "a chain-shaped molecule, found in every cell, that carries instructions; the first life may have been made of it"
+   "a chain-shaped molecule, found in every cell, that carries instructions. The first life may have been made of it."
   ],
   [
    "membrane",
@@ -85,7 +85,7 @@
      "kind": "warmup",
      "title": "Remember and wonder",
      "mins": 6,
-     "do": "Ask: 'What are the signs that something is alive?' (MRS GREN, and being made of cells that pass on instructions.) 'Has there always been life on Earth? Where did the first living thing come from?' Write every idea your child has on a big sheet, without correcting. Keep it; you'll come back to it on the last day."
+     "do": "Ask: 'What are the signs that something is alive?' (It moves, breathes, senses, grows, gets rid of waste, makes young and feeds. It is made of cells.) 'Has there always been life on Earth? Where did the first living thing come from?' Write every idea your child has on a big sheet, without correcting. Keep it. You will come back to it on the last day."
     },
     {
      "kind": "act",
@@ -98,7 +98,7 @@
      "kind": "talk",
      "title": "How big is a billion?",
      "mins": 12,
-     "do": "Ask your child to count aloud to 20, one number a second. Say: 'If you counted to a billion like that, never stopping to eat or sleep, it would take about 32 years. The Earth is four and a half billion years old.' Ask: 'How old would you be when you finished counting to a billion?' Then: 'What is the oldest thing you have ever touched?' (A stone, a temple, Grandma's bangles.) 'The stone may be millions or billions of years old.'"
+     "do": "Ask your child to count aloud to 20, one number a second. Say: 'If you counted to a billion like that, never stopping to eat or sleep, it would take about 32 years. The Earth is four and a half billion years old.' Ask: 'How old would you be when you finished counting to a billion?' Then ask: 'What is the oldest thing you have ever touched?' (A stone, the steps of an old temple, Paati's bangles.) Say: 'A stone may be millions or even billions of years old.'"
     }
    ],
    "need": [
@@ -117,20 +117,20 @@
      "kind": "act",
      "title": "Dance the birth of the Earth",
      "mins": 12,
-     "do": "Tell the story while your child acts it out with their whole body (music helps): a huge cloud of dust and gas floating in space, slowly spinning (spin gently, arms out); gravity pulls it together and it spins faster and flattens (pull arms in); the middle gets so hot and squashed it lights up: the Sun (crouch, then burst up bright); bits of rock bump and stick into bigger and bigger lumps (clap hands together, bigger each time); the Earth, red hot, covered in molten rock, with space rocks crashing down (stomp); then a planet the size of Mars, called Theia, smashes into the young Earth (a big slow-motion crash) and the splashed-out rock gathers into the Moon (curl into a ball and orbit around a chair). Ask: 'Could anything live on that Earth?' (No: too hot, no oceans, no air to breathe.)"
+     "do": "Tell the story while your child acts it out (music helps). 1. A huge cloud of dust and gas spins slowly in space (spin, arms out). 2. Gravity pulls it in, so it spins faster (pull arms in). 3. The middle gets so hot that it starts to shine. That is the Sun (crouch, then jump up). 4. Bits of rock bump and stick into bigger lumps (clap, bigger each time). 5. The young Earth is red hot, with space rocks crashing down (stomp). 6. A planet the size of Mars, called Theia, crashes into the Earth. The rock thrown out gathers into the Moon (curl up and circle a chair). Ask: 'Could anything live on that Earth?' (No. It was too hot, with no oceans and no oxygen.)"
     },
     {
      "kind": "exp",
      "title": "Rain on a hot planet",
      "mins": 13,
-     "do": "Do Experiment e1: steam from hot water rises, hits a cold steel plate and turns back into drops that rain down. Say: 'The young Earth's air was full of steam from volcanoes. As the planet slowly cooled, the steam turned to rain, and it rained for a very long time, filling the low places with the first oceans.' Ask: 'Was there oxygen in that air?' (No. The air was mostly other gases; oxygen came much later, made by living things. Hold on to that clue.)",
+     "do": "Do Experiment e1: steam from hot water rises, hits a cold steel plate and turns back into drops that rain down. Say: 'The young Earth's air was full of steam from volcanoes. As the planet slowly cooled, the steam turned to rain, and it rained for a very long time, filling the low places with the first oceans.' Ask: 'Was there oxygen in that air?' (No. The air was mostly other gases. Oxygen came much later, and living things made it.)",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "The Earth calendar",
      "mins": 15,
-     "do": "Say: 'Let's squash all of Earth's history into one year. On 1 January the Earth forms, and the Moon is born soon after.' Read out the calendar while your child marks a paper calendar or 12 boxes: oceans in January; the first life by about March (single cells in water); oxygen starts filling the air around June; still only tiny single cells until autumn; the first animals in mid-November; dinosaurs arrive around 13 December and vanish around 26 December; humans appear about half an hour before midnight on 31 December; all of written history in the last half minute. Ask: 'What was alive for most of the year?' (Tiny microbes.) 'Are we latecomers?' (Yes!) Keep the calendar for the project."
+     "do": "Say: 'Let's squash all of Earth's history into one year. On 1 January the Earth forms, and the Moon is born soon after.' Read out the calendar while your child marks a paper calendar or 12 boxes. Oceans form in January. The first life, single cells in water, appears by about March. Oxygen starts filling the air around June. There are still only tiny single cells until autumn. The first animals come in mid-November. Dinosaurs arrive around 13 December and vanish around 26 December. Humans appear about half an hour before midnight on 31 December. All of written history fits in the last half minute. Ask: 'What was alive for most of the year?' (Tiny microbes.) 'Did people come early or late?' (Very late.) Keep the calendar for the project."
     }
    ],
    "need": [
@@ -155,25 +155,25 @@
      "kind": "warmup",
      "title": "What are you made of?",
      "mins": 5,
-     "do": "Ask: 'What are you made of?' (Skin, bones, blood... and below that, cells.) 'And cells are made of?' Say: 'Very small pieces called molecules, made of atoms: mostly carbon, hydrogen, oxygen and nitrogen, with a bit of phosphorus and sulphur. The same atoms are in rocks, water, air and stars. There's no special living atom.'"
+     "do": "Ask: 'What are you made of?' (Skin, bones and blood. All of these are made of cells.) 'And cells are made of?' Say: 'Cells are made of molecules. A molecule is a tiny group of atoms joined together. Your atoms are mostly carbon, hydrogen, oxygen and nitrogen. The same atoms are in rocks, water, air and stars. There is no special living atom.'"
     },
     {
      "kind": "talk",
      "title": "Building blocks from Earth and sky",
      "mins": 10,
-     "do": "Say: 'In the young oceans, with lightning, volcanoes and hot springs on the seafloor, those atoms joined into the building blocks of life: little sugars, fats and the pieces that make proteins and genes. Some fell from the sky too.' Tell your child: in 1969 a meteorite fell at Murchison in Australia and was found to contain dozens of the building blocks of proteins (amino acids); and space probes brought back dust from the asteroids Ryugu (Japan, 2020) and Bennu (NASA, 2023), in which scientists found more building blocks, including pieces of RNA. Ask: 'So could the ingredients of life have come from space?' (Some of them did fall on Earth; how they became alive is the mystery.)"
+     "do": "Say: 'In the young oceans, with lightning, volcanoes and hot springs on the seafloor, those atoms joined into the building blocks of life: little sugars, fats and the pieces that make proteins and genes. Some fell from the sky too.' Tell your child: in 1969 a meteorite fell at Murchison in Australia and was found to contain dozens of the building blocks of proteins, called amino acids. Later, spacecraft brought back dust from the asteroids Ryugu (Japan, 2020) and Bennu (NASA, 2023). In it, scientists found more building blocks, including some of the letters that RNA is made of. Ask: 'So could the ingredients of life have come from space?' (Some of them did fall on Earth. How they became alive is still a mystery.)"
     },
     {
      "kind": "game",
      "title": "The RNA copying game",
      "mins": 15,
-     "do": "Make 12 letter cards: A, U, C, G (three each) and 12 more for the 'sea'. Say: 'Long ago, scientists think, some chains of four kinds of little pieces formed, called A, U, C and G. They make a molecule called RNA, which is still in every cell of you. Here is the trick: A always likes to hold hands with U, and C with G.' Lay a chain of 6 cards, for example A C G U U G. Your child is the sea: they pick partner cards from the pile and lay each beside its partner (U beside A, G beside C...). Then pull the two chains apart: now there are two chains. Copy both again: four. Ask: 'What just happened?' (The chain made copies of itself.) Then make one deliberate 'mistake' (put an A where a G should go) and copy again. Ask: 'What happens to the mistake?' (It gets copied too: a new kind of chain. Copies are never perfect, and that's how new things come.)"
+     "do": "Make 24 cards: six each of A, U, C and G. Say: 'RNA is a chain made of four kinds of pieces, called A, U, C and G. It is in every cell of you. Scientists think the first life may have been RNA. A always pairs with U, and C always pairs with G.' Lay a chain of 6 cards: A C G U U G. Your child lays the matching partner beside each card (U beside A, G beside C, and so on). Pull the two chains apart. Now copy the partner chain the same way. Ask: 'What do you get?' (The first chain again. So the chain has been copied.) Then put one wrong card in a chain, an A where a G should go, and copy it. Ask: 'What happens to the mistake?' (It gets copied too. Copies are not always perfect, and that is how new kinds of chain appear.)"
     },
     {
      "kind": "exp",
      "title": "Bubbles with skins",
      "mins": 10,
-     "do": "Do Experiment e2: oil, water and a drop of soap make tiny round bubbles with skins. Say: 'Fatty molecules in water can curl up by themselves into tiny hollow balls with a thin skin. Scientists think an RNA chain may have got caught inside one. The skin kept the inside in and the outside out: the first ever line between \"me\" and \"not me\". That was the first cell.' Ask: 'Why would a skin help?' (It keeps the copier's pieces close, and keeps out things that break it.)",
+     "do": "Do Experiment e2: oil, water and a few drops of dishwashing liquid. First ask: 'Will the oil and water stay mixed?' After the test, say: 'Soap molecules are like the fatty molecules in a cell's skin. In water, fatty molecules can join up by themselves into tiny hollow balls with a thin skin. Scientists think an RNA chain may have been caught inside one. That was the first cell.' Ask: 'Why would a skin help?' (It keeps the chain's pieces close, and keeps out things that break it.)",
      "ref": "e2"
     }
    ],
@@ -182,19 +182,20 @@
     "a clear glass jar with a lid",
     "cooking oil",
     "water",
-    "washing-up liquid"
+    "dishwashing liquid",
+    "a magnifying glass, if you have one"
    ]
   },
   {
    "n": 4,
-   "title": "The great great grandmother and the living rocks",
+   "title": "RNA's story and the living rocks",
    "goal": "Hear RNA's story, and meet stromatolites.",
    "steps": [
     {
      "kind": "read",
      "title": "Story: The Great Great Grandmother",
      "mins": 12,
-     "do": "Read the story aloud (Story tab). It is told by RNA, the oldest molecule in you. Then ask the questions. Listen for: 'The oxygen in my breath was made by those tiny cells' and 'nobody was there'."
+     "do": "Read the story aloud (Story tab). It is told by RNA, the oldest molecule in you. Then ask the questions. Listen for two ideas: tiny green cells made the oxygen in your breath, and nobody was there to see how life began."
     },
     {
      "kind": "talk",
@@ -206,14 +207,14 @@
      "kind": "exp",
      "title": "Start a microbe mat in a bottle",
      "mins": 14,
-     "do": "Start Experiment e3: pond mud, newspaper and egg yolk in a clear bottle, sealed and left in the light. Say: 'Over the next weeks, different microbes from the mud will grow in coloured layers, a bit like the mats that built stromatolites.' Your child draws the bottle and dates it.",
+     "do": "Start Experiment e3: pond mud, newspaper and egg yolk in a clear bottle, sealed and left in the light. Say: 'Over the next weeks, different microbes from the mud will grow in coloured layers, a bit like the mats that built stromatolites.' Your child draws the bottle and writes the date. If you cannot get pond mud, skip this and look at photos of a 'Winogradsky column' instead.",
      "ref": "e3"
     }
    ],
    "need": [
     "photos of stromatolites (a phone is fine)",
     "a clear plastic bottle with the top cut off, or a tall jar",
-    "pond or lake mud",
+    "mud from a pond, lake or temple tank (a grown-up collects it)",
     "shredded newspaper",
     "an egg yolk",
     "cling film and a rubber band",
@@ -229,14 +230,14 @@
      "kind": "exp",
      "title": "Bubbles from a green leaf",
      "mins": 10,
-     "do": "Set up Experiment e4: a water plant (or fresh green leaves) in water in bright sunlight, and another in the dark. You'll look again at the end of today's session.",
+     "do": "Set up Experiment e4: a water plant (or fresh green leaves) in water in bright sunlight, and another in the dark. You will look again at the end of today's session.",
      "ref": "e4"
     },
     {
      "kind": "talk",
      "title": "The Great Oxidation",
      "mins": 12,
-     "do": "Say: 'For hundreds of millions of years, cyanobacteria in the stromatolite mats and the sea made food from sunlight, and gave out a gas nobody had needed before: oxygen. At first the iron in the seas grabbed it and rusted, and that rust sank in red layers; some of India's iron-ore hills in Odisha and Jharkhand are made of very old banded iron rock like this. Then, about 2.4 billion years ago, oxygen began to build up in the air. Scientists call it the Great Oxidation Event.' Ask: 'Was it good news for everyone?' (No! For many microbes oxygen was a poison. Some died out, some hid in mud where there's no oxygen, and some learned to use it for energy, as you do.)"
+     "do": "Say: 'For hundreds of millions of years, cyanobacteria in the stromatolite mats and the sea made food from sunlight, and gave out a gas nobody had needed before: oxygen. At first, iron in the seas joined with the oxygen and made rust. The rust sank in red layers. Some of India's iron-ore hills, in Karnataka, Odisha and Jharkhand, are made of very old banded rock like this. Then, about 2.4 billion years ago, oxygen began to build up in the air. Scientists call it the Great Oxidation Event.' Ask: 'Was it good news for everyone?' (No. For many microbes oxygen was a poison. Some died out, and some survived in mud where there is no oxygen. Others came to use oxygen for energy, as you do.)"
     },
     {
      "kind": "act",
@@ -256,7 +257,8 @@
     "a water plant such as hydrilla from an aquarium shop, or fresh spinach leaves",
     "two clear glasses of water",
     "a sunny window and a dark cupboard",
-    "worksheet ws1"
+    "worksheet ws1",
+    "a pinch of baking soda"
    ]
   },
   {
@@ -268,14 +270,14 @@
      "kind": "act",
      "title": "Rock layers in a jar",
      "mins": 13,
-     "do": "Do Activity a2: shake soil, sand and small pebbles in a jar of water and watch the layers settle. Then add a second, different layer on top the next day (or right away with a different colour of sand). Ask: 'Which layer settled first?' (The bottom one.) 'So in a cliff, where are the oldest rocks?' (Usually at the bottom.) Say: 'Scientists read rocks like a book whose first page is at the bottom, and they measure how old rocks are using natural clocks inside certain atoms that change slowly at a steady rate.'",
+     "do": "Do Activity a2: shake soil, sand and small pebbles in a jar of water and watch the layers settle. Then add a second, different layer on top the next day (or right away with a different colour of sand). Ask: 'Which layer settled first?' (The bottom one.) 'So in a cliff, where are the oldest rocks?' (Usually at the bottom.) Say: 'In rock layers, the oldest page is at the bottom. Scientists also measure how old a rock is. Some atoms slowly change into other atoms at a steady rate, so the amount that has changed tells the rock's age.'",
      "ref": "a2"
     },
     {
      "kind": "talk",
      "title": "Voice v1: the girl on the cliffs",
      "mins": 10,
-     "do": "Tell your child about voice v1, Mary Anning, who as a girl dug giant sea-reptile fossils out of the cliffs of Lyme Regis, and whose finds helped convince scientists that whole kinds of animals had lived and vanished long ago. Ask its question.",
+     "do": "Tell your child about voice v1, Mary Anning. As a girl in England, she dug fossils of giant sea reptiles out of the cliffs. Her finds helped show scientists that whole kinds of animals had lived and died out long ago. Ask its question.",
      "ref": "v1"
     },
     {
@@ -289,12 +291,12 @@
      "kind": "review",
      "title": "Bottle check",
      "mins": 5,
-     "do": "Look at the microbe bottle (e3). Any changes? Dark patches near the bottom? Draw and date it. Remind your child not to open it."
+     "do": "Look at the microbe bottle (e3). Has anything changed? Are there dark patches near the bottom? Draw it and write the date. Remind your child not to open it."
     }
    ],
    "need": [
     "a jar with a lid",
-    "soil, sand, small pebbles",
+    "soil, sand and small pebbles",
     "water",
     "the microbe bottle"
    ]
@@ -308,13 +310,13 @@
      "kind": "read",
      "title": "Stories of the beginning",
      "mins": 14,
-     "do": "Tell or read short versions of four creation stories, and ask your family for its own. From the Rig Veda, the Nasadiya Sukta (the hymn of creation): before anything, there was neither being nor non-being; and the hymn ends by asking who really knows how it began, perhaps even the one who watches from the highest heaven does not know. From China: Pangu grew inside a cosmic egg and pushed the sky and the earth apart, and his body became the mountains, rivers and stars. From the Bible: God made the world in six days and rested on the seventh. From the Maori of Aotearoa New Zealand: Ranginui the sky father and Papatuanuku the earth mother held each other so tightly that their children lived in darkness, until Tane pushed them apart and let in the light. Ask: 'What does each story say matters?' Say: 'Stories like these answer questions like \"Why are we here? What should we care for?\" Science asks \"How did it happen, and what's the evidence?\" Many people hold both.'"
+     "do": "Tell or read short versions of four creation stories, and ask your family for its own. From the Rig Veda, the Nasadiya Sukta (the hymn of creation): at first there was neither being nor non-being. The hymn ends by asking who really knows how it began. Perhaps even the one who watches from the highest heaven does not know. From China: Pangu grew inside a cosmic egg and pushed the sky and the earth apart, and his body became the mountains, rivers and stars. From the Bible: God made the world in six days and rested on the seventh. From the Maori of Aotearoa New Zealand: Ranginui the sky father and Papatuanuku the earth mother held each other so tightly that their children lived in darkness, until Tane pushed them apart and let in the light. Ask: 'What does each story say matters?' Say: 'Stories like these answer questions like \"Why are we here? What should we care for?\" Science asks \"How did it happen, and what's the evidence?\" Many people hold both.'"
     },
     {
      "kind": "talk",
      "title": "Voice v3: no vestige of a beginning",
      "mins": 9,
-     "do": "Tell your child about voice v3, James Hutton, who looked at tilted rock layers at Siccar Point in Scotland and realised the Earth must be unimaginably old. Ask its question. Then the founder's question: 'Did life begin by chance, out of countless chemical accidents, or was there some intent behind it, or both? Scientists can test how; this question may be one each person answers for themselves.'",
+     "do": "Tell your child about voice v3, James Hutton, who looked at tilted rock layers at Siccar Point in Scotland and realised the Earth must be unimaginably old. Ask its question. Then ask: 'Did life begin by chance, out of countless chemical accidents? Or was there some intent behind it, or both? Scientists can test how it happened. This question may be one each person answers for themselves.'",
      "ref": "v3"
     },
     {
@@ -338,14 +340,14 @@
      "kind": "game",
      "title": "Four Billion Years",
      "mins": 12,
-     "do": "Play the board game (g1): race from a hot young Earth to today, through the first cells, the oxygen crisis and the first animals.",
+     "do": "Play the board game g1. Players race from the hot young Earth to today, through the first cells, the oxygen crisis and the first animals.",
      "ref": "g1"
     },
     {
      "kind": "think",
      "title": "Challenge worksheet",
      "mins": 10,
-     "do": "Do Worksheet ws3 (challenge) together. Scribe the long answers; there are no single right answers for the last ones.",
+     "do": "Do Worksheet ws3 (challenge) together. Write down the long answers as your child says them. The last ones have no single right answer.",
      "ref": "ws3"
     },
     {
@@ -447,7 +449,7 @@
       },
       {
        "t": "mcq",
-       "p": "In the RNA copying game, A holds hands with…",
+       "p": "In RNA, the letter A always pairs with which letter?",
        "opts": [
         "C",
         "U",
@@ -501,7 +503,7 @@
         "dinosaurs",
         "first single cells",
         "flowers",
-        "stromatolites",
+        "the first stromatolites",
         "humans",
         "oxygen building up in the air",
         "the first fish"
@@ -561,7 +563,7 @@
        "p": "When oxygen filled the air, what happened to many old microbes?",
        "opts": [
         "they all became animals",
-        "it poisoned many; some hid in mud and some learned to use it",
+        "it poisoned many, some survived in mud, and some came to use it",
         "nothing at all"
        ],
        "a": 1
@@ -580,12 +582,12 @@
      [
       {
        "t": "write",
-       "p": "The Nasadiya Sukta asks 'Who really knows?' Do scientists know how life began? What do they know, and what don't they?",
+       "p": "The Nasadiya Sukta, an old hymn from the Rig Veda, asks 'Who really knows?' Do scientists know how life began? What do they know, and what don't they?",
        "lines": 4
       },
       {
        "t": "write",
-       "p": "Mary Anning wasn't allowed to join the Geological Society. Why does it matter who is allowed in the room when science is decided?",
+       "p": "Mary Anning found famous fossils in England about 200 years ago, but as a woman she was not allowed to join the Geological Society, where scientists met. Why does it matter who is allowed to join?",
        "lines": 3
       }
      ]
@@ -673,7 +675,7 @@
       },
       {
        "t": "write",
-       "p": "The thin skin of the first cell made the first 'me' and 'not me'. Where does 'you' end: your skin? The air you breathe? The microbes in you?",
+       "p": "The thin skin of the first cell gave it an inside and an outside. Where do you end: at your skin? Does the air you breathe count? The microbes inside you?",
        "lines": 3
       }
      ]
@@ -699,7 +701,7 @@
    ],
    "predict": "Ask: 'What will happen when the steam touches the cold plate?'",
    "observe": "The plate mists over, drops form, grow and fall back like rain.",
-   "why": "Steam is water as a gas. When it touches something cold it cools and turns back into liquid drops (condensation). The young Earth's air was full of water vapour from volcanoes and from the space rocks that crashed into it. As the planet slowly cooled, that vapour condensed and fell as rain for a very long time, filling the low places to make the first oceans. Life began in water.",
+   "why": "Steam is water as a gas. When it touches something cold, it cools and turns back into liquid drops. This is called condensation. The young Earth's air was full of water vapour from volcanoes and from the space rocks that crashed into it. As the planet slowly cooled, that vapour condensed and fell as rain for a very long time, filling the low places to make the first oceans. Life began in water, most scientists think.",
    "safety": "A grown-up handles the hot water and plate. Keep your child's hands and face away from the steam.",
    "time": "13 min"
   },
@@ -712,18 +714,18 @@
     "a clear jar with a lid",
     "water",
     "2 tablespoons of cooking oil",
-    "a few drops of washing-up liquid",
-    "a magnifying glass"
+    "a few drops of dishwashing liquid",
+    "a magnifying glass, if you have one"
    ],
    "steps": [
     "Half fill the jar with water and add the oil. Look: the oil floats in a layer.",
     "Close the lid and shake hard. Look: the oil breaks into drops, which soon join up again.",
-    "Add a few drops of washing-up liquid and shake again.",
-    "Look closely with the magnifying glass at the cloudy mixture and at the bubbles."
+    "Add a few drops of dishwashing liquid and shake again.",
+    "Look closely at the cloudy mixture and at the bubbles, with a magnifying glass if you have one."
    ],
    "predict": "Ask: 'Will the oil and water stay mixed?'",
    "observe": "Without soap, the oil drops join up again and float. With soap, the mixture stays cloudy with tiny drops, and soap bubbles form thin round skins.",
-   "why": "Some fatty molecules have one end that likes water and one end that hates it. In water they line up by themselves, water-hating ends tucked inside, to make thin skins and hollow balls. Cell membranes are made of molecules like this. On the young Earth, simple fatty molecules may have made tiny hollow balls that trapped RNA inside: the first cells. Nobody had to build them; they formed on their own.",
+   "why": "Soap and some fatty molecules have one end that mixes with water and one end that does not. In water they line up by themselves, with the ends that avoid water tucked inside. That makes thin skins and hollow balls. Cell membranes are made of molecules like this. On the young Earth, fatty molecules may have made tiny hollow balls that trapped RNA inside. Nobody had to build them. They formed on their own.",
    "safety": "Don't drink it. Rinse hands if soap gets on them.",
    "time": "10 min"
   },
@@ -734,10 +736,10 @@
    "question": "Can we grow coloured layers of microbes, like the mats that build stromatolites?",
    "need": [
     "a clear plastic bottle with the top cut off, or a tall jar",
-    "enough pond or lake mud to fill it two-thirds",
+    "enough mud from a pond, lake or temple tank to fill it two-thirds",
     "a handful of shredded newspaper",
     "one egg yolk",
-    "pond water",
+    "pond water, or tap water left out overnight",
     "cling film and a rubber band",
     "gloves",
     "a spoon"
@@ -745,14 +747,14 @@
    "steps": [
     "Wearing gloves, mix the mud with the shredded newspaper and egg yolk in a bowl.",
     "Spoon it into the bottle, pressing down to push out air bubbles, until it is two-thirds full.",
-    "Top up with pond water, leaving a small gap.",
+    "Top up with pond water (or tap water left out overnight), leaving a small gap.",
     "Cover tightly with cling film and a rubber band.",
     "Stand it by a bright window, not in hot direct sun.",
     "Look and draw it every few days for 4–6 weeks. Never open it."
    ],
    "predict": "Ask: 'Will anything change in a sealed bottle of mud?'",
    "observe": "Over weeks, dark black patches low down, then green, purple or red bands appear, different colours at different heights.",
-   "why": "The mud is full of microbes. Different kinds need different things: some need oxygen and light, some can't bear oxygen, some live on sulphur from the egg yolk, some on the newspaper. Each kind grows where conditions suit it, so the bottle sorts itself into coloured layers, like the layered microbe mats that built stromatolites billions of years ago. It's called a Winogradsky column, after the Russian scientist Sergei Winogradsky, who invented it in the 1880s.",
+   "why": "The mud is full of microbes. Different kinds need different things. Some need oxygen and light. Some are harmed by oxygen. Some live on sulphur from the egg yolk, and some on the newspaper. Each kind grows where conditions suit it, so the bottle sorts itself into coloured layers, like the layered microbe mats that built stromatolites billions of years ago. It is called a Winogradsky column, after the Russian scientist Sergei Winogradsky, who invented it in the 1880s. If nothing grows after 6 weeks, the mud may have had few of these microbes. Try mud from another pond.",
    "safety": "Use gloves and wash hands well with soap. Keep it sealed: it can smell of rotten eggs. A grown-up throws it away when you're done.",
    "time": "14 min + a look every few days for weeks"
   },
@@ -763,18 +765,19 @@
    "question": "Do green living things give out a gas in sunlight?",
    "need": [
     "a sprig of a water plant such as hydrilla (best), or a few fresh spinach leaves",
-    "two clear glasses of water",
-    "a sunny window and a dark cupboard"
+    "two clear glasses of water, with a pinch of baking soda stirred into each",
+    "a sunny window and a dark cupboard",
+    "a magnifying glass, if you have one"
    ],
    "steps": [
     "Put the plant or leaves into each glass so they are under water.",
     "Put one glass in bright sunlight and one in a dark cupboard.",
-    "After 30 minutes or more, look closely at the leaves with a magnifying glass."
+    "After 30 minutes or more, look closely at the leaves, with a magnifying glass if you have one."
    ],
    "predict": "Ask: 'Which glass will show bubbles?'",
-   "observe": "Tiny bubbles on the leaves in the sunny glass, often more than in the dark glass. A water plant in strong sun may release a thin stream of bubbles.",
-   "why": "Green plants and cyanobacteria use sunlight to make food from water and carbon dioxide, and give out oxygen. Some of the bubbles are that oxygen; some are just air coming out of the water as it warms, which is why the dark glass is a useful comparison. This is how microbes, long before plants, filled the air with oxygen.",
-   "safety": "",
+   "observe": "Tiny bubbles on the leaves in the sunny glass, usually more than in the dark glass. Hydrilla in strong sun often gives off a thin stream of bubbles. Spinach leaves may show only a few.",
+   "why": "Green plants and cyanobacteria use sunlight to make food from water and carbon dioxide, and give out oxygen. The baking soda gives the leaves extra carbon dioxide to use. Some of the bubbles are oxygen. Some are just air coming out of the water as it warms, which is why we compare with the dark glass. This is how microbes, long before plants, filled the air with oxygen.",
+   "safety": "Safe. Wash hands after handling the plant.",
    "time": "10 min + 30 min wait"
   }
  ],
@@ -791,13 +794,13 @@
     "a pen"
    ],
    "steps": [
-    "Lay the string straight along the floor or a corridor. One end is 'Earth is born, 4.5 billion years ago'; the other is 'today'. Every millimetre is a million years.",
-    "Measure from the 'today' end and stick on labels: first life (about 3.5 to 3.8 m from today); oxygen building up (2.4 m); the first animals (about 60 cm); dinosaurs appear (23 cm) and vanish (6.6 cm); the first humans (0.3 mm, less than the thickness of the label!).",
+    "Lay the string straight along the floor or a corridor. One end is 'Earth is born, 4.5 billion years ago'. The other end is 'today'. Every millimetre is a million years.",
+    "Measure from the 'today' end and stick on labels at these distances. First life: about 3.5 to 3.8 m. Oxygen building up: 2.4 m. The first animals: about 60 cm. Dinosaurs appear: 23 cm. Dinosaurs vanish: 6.6 cm. The first humans: 0.3 mm, thinner than the label.",
     "Walk slowly from the birth of Earth to today, reading the labels.",
     "Notice how much of the string has only tiny single-celled life.",
     "Leave it up for the project."
    ],
-   "outcome": "A child who has walked deep time and seen that people arrived at the very last moment, and microbes owned most of the story."
+   "outcome": "A child who has walked along deep time and seen that people arrived at the very end, and that for most of the time only microbes lived on Earth."
   },
   {
    "id": "a2",
@@ -828,7 +831,7 @@
   ],
   "steps": [
    "Day 1: lay out the 4.5-metre string or paper roll with labels.",
-   "Days 2–7: draw one picture each day: the fiery Earth and the Moon's birth, rain and oceans, RNA chains, the first cell, a stromatolite, oxygen bubbles, the first animals.",
+   "Days 2 to 7: draw one picture each day: the fiery Earth and the Moon's birth, rain and oceans, RNA chains, the first cell, a stromatolite, oxygen bubbles, the first animals.",
    "Day 8: stick the drawings at the right place along the scroll.",
    "Add a label at the beginning: 'How did life begin? Nobody knows for sure.'",
    "Hang it along a wall and walk visitors through it."
@@ -860,8 +863,8 @@
    "You find a fatty bubble home: the first cell! Move on 2",
    "Split into two daughters. Move on 1",
    "A hot vent gives you energy. Move on 1",
-   "You learn to drink sunlight: cyanobacteria! Move on 2",
-   "Build a stromatolite. Miss a turn, it takes thousands of years",
+   "You make food from sunlight: you are cyanobacteria! Move on 2",
+   "Build a stromatolite. It takes thousands of years: miss a turn",
    "Oxygen fills the air! Move on 2",
    "Oxygen poisons you. Hide in the mud: go back 1",
    "You learn to breathe oxygen. Move on 2",
@@ -882,21 +885,21 @@
   "How did non-living chemicals become the first living thing?",
   "Did life begin by chance, by intent, or both? Can science answer that?",
   "If microbes changed the air of the whole planet, are humans really the most important living things?",
-  "Every living thing comes from one great great grandmother cell. So is a mushroom your cousin?",
-  "Where do 'you' end: at your skin, your breath, or the microbes inside you?"
+  "Every living thing comes from one ancestor cell. So is a mushroom your cousin?",
+  "Where do you end: at your skin, your breath, or the microbes inside you?"
  ],
  "challenge": [
   {
    "q": "'Life began in a warm little pond.' Is that settled?",
-   "hint": "No. Charles Darwin wondered about a 'warm little pond' in a letter in 1871. Today some scientists favour hot springs on land, others hot vents on the deep seafloor, others icy places or clay. There is evidence for each, and nobody knows. Which would you test first, and how?"
+   "hint": "No. Charles Darwin wondered about a 'warm little pond' in a letter in 1871. Today some scientists favour hot springs on land, others hot vents on the deep seafloor, others icy places or clay. There is some evidence for each, and nobody knows yet. Which would you test first, and how?"
   },
   {
    "q": "'Humans are the most advanced living things.' Says who?",
-   "hint": "Microbes have lived for more than 3.5 billion years; we have been here about 300,000. Cyanobacteria changed the whole atmosphere. 'Advanced' depends on what you measure: brains, or surviving, or changing the planet? Ask: what would a cyanobacterium say?"
+   "hint": "Microbes have lived for more than 3.5 billion years. Humans have been here about 300,000 years. Cyanobacteria changed the whole atmosphere. 'Advanced' depends on what you measure: brains, or surviving, or changing the planet? Ask: what would a cyanobacterium say?"
   },
   {
    "q": "'The tongue twister \"She sells seashells by the seashore\" was written about Mary Anning.' True?",
-   "hint": "Often said, but there is no clear evidence the rhyme was about her; the link was made later. Her real story is stronger: a poor girl with little schooling whose fossils changed science, while men who bought them often got the credit."
+   "hint": "People often say so, but there is no clear evidence. The link was made long after the song was written. Her real story is stronger: a poor girl with little schooling whose fossils changed science, while men who bought them often got the credit."
   }
  ],
  "perspectives": [
@@ -906,11 +909,11 @@
   },
   {
    "who": "The poet-sages of the Rig Veda",
-   "view": "The Nasadiya Sukta, thousands of years old, ends with honest doubt: perhaps creation formed itself, perhaps not; perhaps even the one in the highest heaven does not know. Ask: why might it be wise to end a creation story with a question?"
+   "view": "The Nasadiya Sukta, thousands of years old, ends with honest doubt. Perhaps creation formed itself, perhaps not. Perhaps even the one in the highest heaven does not know. Ask: why might it be wise to end a creation story with a question?"
   },
   {
    "who": "Many Indigenous peoples",
-   "view": "Many peoples, such as the Aboriginal peoples of Australia, the Maori and many Adivasi communities, tell stories in which land, water and living beings are relatives, not things. Ask: does the science of one great great grandmother cell agree with that in any way?"
+   "view": "Many peoples, such as the Aboriginal peoples of Australia, the Maori and many Adivasi communities, tell stories in which land, water and living beings are relatives. Ask: does the science of one shared ancestor cell agree with that in any way?"
   }
  ],
  "voices": [
@@ -928,7 +931,7 @@
    "id": "v2",
    "who": "Abigail Allwood, an Australian geologist, and the oldest-life argument",
    "idea": "In 2006 Allwood and colleagues described fossil stromatolites about 3.43 billion years old in the Pilbara of Western Australia, showing a whole reef of microbe-built shapes. In 2016 another team (Allen Nutman and colleagues) reported stromatolites about 3.7 billion years old in Greenland. In 2018 Allwood's team studied the Greenland rocks and argued they were just ordinary rocks squeezed and folded, not made by life.",
-   "then": "The 2016 claim made headlines as the oldest fossils on Earth; the 2018 reply started a sharp debate.",
+   "then": "The 2016 claim made headlines as the oldest fossils on Earth. The 2018 reply started a sharp debate.",
    "now": "The Pilbara stromatolites are widely accepted as some of the oldest signs of life. The Greenland ones are still argued about. Allwood now leads an instrument on NASA's Perseverance rover that searches Martian rocks for signs of ancient microbes.",
    "status": "debated",
    "ask": "How could you tell a rock made by microbes from a rock that was just squashed into a similar shape? What clues would you want?",
@@ -948,16 +951,16 @@
  "story": {
   "title": "The Great Great Grandmother",
   "text": [
-   "Let me tell you about a moment in my past. It is the oldest story I know. It is older than the Himalayas, older than the dinosaurs, older than the seas you have splashed in. You will not find me in a museum. You will find me in you.",
+   "Let me tell you about a moment in my past. It is the oldest story I know. It is older than the Himalayas, older than the dinosaurs, older than the first fish. You will not find me in a museum. You will find me in you.",
    "I am RNA. I am a chain, thinner than anything you can imagine, and I am in every cell of your body, working, right now, while you listen. But this is the story of the very first of me.",
-   "Picture the Earth when it was young. No grass, no trees, no birds, no people. Just a wide, dark ocean under a strange orange sky, with volcanoes smoking on a few black islands. Deep down on the seafloor, hot water gushed out of cracks in the rock, warm and fizzing with chemicals. Lightning flickered. Space rocks fell. Every drop of that ocean was busy: billions of tiny pieces bumping, sticking, breaking apart, every second, all day, all night, for millions of years.",
+   "Picture the Earth when it was young. No grass, no trees, no birds, no people. Just a wide, dark ocean under a hazy sky, with volcanoes smoking on a few black islands. Deep down on the seafloor, hot water gushed out of cracks in the rock, warm and fizzing with chemicals. Lightning flickered. Space rocks fell. Every drop of that ocean was busy: billions of tiny pieces bumping, sticking, breaking apart, every second, all day, all night, for millions of years.",
    "Most of what formed fell apart again. But some things lingered. Among them were four little pieces you would call A, U, C and G. They joined, one after another, into chains. And that was me, or the very beginning of me.",
    "Now here is my secret. A likes to hold hands with U. C likes to hold hands with G. So when I floated in the warm water, loose A's and U's and C's and G's drifted up and held on to me, each beside its partner, until a second chain lay beside me like a mirror. When the warm water shook us apart, there were two of us. Then four. Then eight.",
    "The copies were never perfect. Sometimes a G sat where an A should be. But the new chain could copy itself too, mistake and all. So there were more and more of us, and more and more kinds of us. It was the first time anything on Earth had remembered how to make itself again.",
    "I was not alive. Not yet. But I had learned to stay.",
-   "Staying was hard. Sunlight broke me. Water pulled me to pieces. In the sea there were tiny bubbles of fat, like the little golden circles that float on a bowl of dal. Did I know they could be a home? I didn't. Maybe one of me got caught inside a bubble by chance. Maybe, inside, it lasted longer and made more copies than the ones outside. Maybe, slowly, over a very long time, the ones in bubbles were the ones that were left.",
+   "Staying was hard. Sunlight broke me. Water pulled me to pieces. In the sea there were tiny bubbles of fat, like the little golden drops of oil that float on a bowl of rasam. Did I know they could be a home? I didn't. Maybe one of me got caught inside a bubble by chance. Maybe, inside, it lasted longer and made more copies than the ones outside. Maybe, slowly, over a very long time, the ones in bubbles were the ones that were left.",
    "Inside, it was cosy. The bubble's thin skin kept my pieces close and kept out the things that broke me. It kept a little drop of the ocean inside, just for me. And that thin skin made something new in the world: an inside and an outside. A 'me' and a 'not me'. Nothing had ever had that before.",
-   "The bubble grew as I copied. When it got too big, it pinched in the middle and split, and there were two bubbles, each with copies of me inside. That was the first cell. Scientists call her a prokaryote. I call her the First Mother, your great great great great grandmother, and the grandmother of the grass and the mushrooms and the crows and the tigers.",
+   "The bubble grew as I copied. When it got too big, it pinched in the middle and split, and there were two bubbles, each with copies of me inside. That was the first cell. Scientists call the first cells protocells, which means 'first cells'. I call her the First Mother, your great great grandmother, and the grandmother of the grass and the mushrooms and the crows and the tigers.",
    "She never died the way a crow or a tiger dies. She split into her daughters, and they split into theirs. She did not pass on a body. She passed on a memory: me.",
    "Her daughters were different from each other, because the copies were never perfect. Some lived by the hot vents and ate gas and sulphur. Some crawled on clay. And some, a green kind you now call cyanobacteria, learned to drink sunlight. They took water and sunlight and made food, and they let out a gas no one had ever needed before.",
    "They lived in shallow water in sticky mats, and the mud stuck to them, and they grew up through it towards the light, layer after layer, building rounded rocks you call stromatolites. And all that time, for hundreds of millions of years, from every mat, tiny bubbles of that new gas rose into the sky.",
@@ -970,7 +973,7 @@
    "Breathe out.",
    "Outside your window, a leaf is breathing it in."
   ],
-  "epiphany": "Life may have begun when chains of chemicals (RNA) learned to copy themselves, and got wrapped in a fatty skin to become the first cell; that cell is the shared ancestor of all life; and tiny green microbes made the oxygen we breathe. The turn is 'Now. Breathe in.': the child realises their own breath connects them to the first cells, and that RNA is still at work in them. The story is honest that this is the leading idea, not a certainty ('Nobody was there to see'). Based on the DeepKids founder's picture book narrated by RNA.",
+  "epiphany": "Life may have begun when chains of RNA began to copy themselves and were wrapped in a fatty skin, making the first cell. All life comes from early cells like these. Tiny green microbes made the oxygen we breathe. The turn is 'Now. Breathe in.': the child realises their own breath connects them to the first cells, and that RNA is still at work in them. The story is honest that this is the leading idea, not a certainty (\"Nobody was there to see\"). Based on the DeepKids founder's picture book narrated by RNA.",
   "ask": [
    "What was RNA's secret for making copies?",
    "Why were the copies never perfect, and why did that matter?",
@@ -985,22 +988,22 @@
    "more": "On the Earth calendar, humans arrive half an hour before midnight on 31 December. On the 4.5-metre string, all of human history is less than a millimetre. Microbes had the Earth to themselves for most of its story."
   },
   {
-   "idea": "Every living thing is family.",
-   "more": "All life uses the same RNA letters and comes from one great great grandmother cell. A mushroom, a neem tree, a cockroach and your child are distant cousins. Ask your child to name their strangest cousin."
+   "idea": "Every living thing is related.",
+   "more": "All life uses the same four RNA letters and comes from one shared ancestor. A mushroom, a neem tree, a cockroach and your child are distant cousins. Ask your child to name their strangest cousin."
   },
   {
-   "idea": "The air is a gift from microbes.",
-   "more": "Cyanobacteria filled the air with oxygen over hundreds of millions of years. Every breath we take was made by living things, and we breathe out what plants need. Breath is shared."
+   "idea": "The oxygen in the air was made by living things.",
+   "more": "Cyanobacteria filled the air with oxygen over hundreds of millions of years. The oxygen in every breath was made by living things, and we breathe out the carbon dioxide that plants use."
   },
   {
    "idea": "How life began is one of the great unsolved mysteries.",
-   "more": "Scientists have strong clues (building blocks form naturally, RNA can copy and do jobs, fatty skins form by themselves), but nobody has made life from scratch or knows the exact path. Stories from many cultures ask the same question in other ways."
+   "more": "Scientists have strong clues. Building blocks form naturally, RNA can be copied and can do jobs, and fatty skins form by themselves. But nobody has made life from scratch, or knows the exact path. Stories from many cultures ask the same question in other ways."
   }
  ],
  "unknowns": [
-  "How exactly did non-living chemicals become the first living cell? Nobody knows; no one has yet made life from scratch in a laboratory.",
+  "How exactly did non-living chemicals become the first living cell? Nobody knows. No one has yet made life from scratch in a laboratory.",
   "Where did life begin: deep-sea hot vents, hot springs on land, icy pools, or somewhere else? Scientists argue, with evidence on several sides.",
-  "When did life begin? The oldest widely accepted signs are about 3.5 billion years old; some scientists think it began earlier, perhaps more than 3.8 billion years ago. The dates have wide error bars.",
+  "When did life begin? The oldest widely accepted signs are about 3.5 billion years old. Some scientists think life began earlier, perhaps more than 3.8 billion years ago. Nobody is sure of these dates.",
   "Did life begin only once, on Earth, or does it begin wherever conditions are right? We have only one example so far: ours."
  ],
  "books": [
@@ -1009,7 +1012,7 @@
    "author": "Karen C. Fox",
    "for": "read together",
    "age": "5–9",
-   "why": "A cumulative rhyme from the Big Bang to the atoms in a child's body: deep time and oneness together."
+   "why": "A rhyme that goes from the Big Bang to the atoms in a child's body."
   },
   {
    "title": "Life Story",
@@ -1036,7 +1039,7 @@
  "check": [
   {
    "q": "About how old is the Earth, and when did humans arrive on the Earth calendar?",
-   "a": "About 4.5 billion years; about half an hour before midnight on 31 December."
+   "a": "About 4.5 billion years. Humans arrive about half an hour before midnight on 31 December."
   },
   {
    "q": "How did the oceans form?",
@@ -1060,11 +1063,11 @@
   },
   {
    "q": "Name one thing scientists still argue about in the story of life's beginning.",
-   "a": "e.g. where it began (vents or hot springs), when, or whether the Greenland stromatolites are real."
+   "a": "For example: where it began (deep-sea vents or hot springs on land), when it began, or whether the Greenland stromatolites are real."
   },
   {
    "q": "Tell one creation story from another culture, and say what kind of question it answers.",
-   "a": "e.g. the Nasadiya Sukta, Pangu, Genesis, Ranginui and Papatuanuku; they answer why and what matters, while science asks how."
+   "a": "For example, the Nasadiya Sukta, Pangu, the Bible's six days, or Ranginui and Papatuanuku. Stories answer why and what matters. Science asks how."
   }
  ]
 }

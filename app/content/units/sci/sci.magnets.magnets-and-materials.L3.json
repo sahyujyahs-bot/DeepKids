@@ -2163,7 +2163,7 @@
    "problem": "In the story, a big iron pot made the ship's compass point the wrong way. Find out how close iron things at home must be before they turn your compass needle. Then choose the best spot in your home for a compass station.",
    "constraints": [
     "Use a measuring tape or a string marked every 10 cm.",
-    "Test at least 3 iron things, like a steel almirah, a gas cylinder, an iron karahi or a fridge.",
+    "Test at least 3 iron things, like a steel almirah, a gas cylinder, an iron dosa tawa or a fridge.",
     "Move the compass, not the heavy iron thing."
    ],
    "materials": [
@@ -2196,7 +2196,7 @@
      "do": "1. Hold the compass right next to an iron thing. 2. Move back 10 cm at a time. 3. Stop when it points the normal way again. 4. Write down the distance. 5. Do this for 3 things.",
      "say": "Move back 10 centimetres at a time. When does the needle go back to pointing the normal way?",
      "kid": "Start next to the iron thing. Step back 10 cm at a time. When does the needle point the normal way again? Write the distance.",
-     "parent": "Big iron things turn a compass needle from further away. A steel almirah or a fridge can turn it from 50 cm to a metre away. A small iron karahi, perhaps from 20 to 30 cm. Your numbers will differ."
+     "parent": "Big iron things turn a compass needle from further away. A steel almirah or a fridge can turn it from 50 cm to a metre away. A small iron dosa tawa, perhaps from 20 to 30 cm. Your numbers will differ."
     },
     {
      "id": "s3",
@@ -2206,14 +2206,14 @@
      "kid": "Draw your home. Colour a danger zone around each iron thing. Where is the safe spot?",
      "check": {
       "t": "mcq",
-      "q": "A steel almirah turns the compass needle from up to 80 cm away. An iron karahi turns it from up to 25 cm away. Why the difference?",
+      "q": "A steel almirah turns the compass needle from up to 80 cm away. An iron dosa tawa turns it from up to 25 cm away. Why the difference?",
       "options": [
        "The almirah has much more iron, so its effect on the needle reaches further",
-       "The karahi is not really iron",
+       "The tawa is not really iron",
        "Almirahs are made of a special magnet metal"
       ],
       "a": 0,
-      "why": "More iron has a bigger effect on the compass needle, so the needle is turned from further away. Picking 'the karahi is not really iron' is a fair check. Test it with a magnet. If the magnet sticks, the karahi has iron in it. Picking 'special magnet metal' is a fair guess too, but almirahs are made of ordinary steel."
+      "why": "More iron has a bigger effect on the compass needle, so the needle is turned from further away. Picking 'the tawa is not really iron' is a fair check. Test it with a magnet. If the magnet sticks, the tawa has iron in it. Picking 'special magnet metal' is a fair guess too, but almirahs are made of ordinary steel."
      }
     }
    ],

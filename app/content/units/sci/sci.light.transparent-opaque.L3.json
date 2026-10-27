@@ -49,7 +49,7 @@
   {
    "term": "Translucent",
    "meaning": "A translucent material lets light through but scatters it. You see a glow or blurry shapes, but not a clear picture.",
-   "example": "Butter paper, a frosted bathroom window and a thin white dupatta are translucent.",
+   "example": "Butter paper, a frosted bathroom window and a thin white cotton saree are translucent.",
    "art": "A torch shining through butter paper, making a soft round glow on the wall."
   },
   {
@@ -149,7 +149,7 @@
    "description": "Inside butter paper there are millions of tiny paper threads with air between them. Each time light goes from air into a thread, or back out, some of it changes direction. After thousands of these little turns, the light comes out in every direction. The light still gets through, but the picture is lost. Here is a surprise. If the paper touches a page of writing, you can read it. Lift the paper a little and the words blur away. The further the light travels after leaving the paper, the more the light from each letter spreads out.",
    "examples": [
     "A frosted bathroom window lets light in but hides you.",
-    "A thin cotton dupatta lets light through, so a room behind it glows.",
+    "A thin cotton saree lets light through, so a room behind it glows.",
     "A paper lantern glows all over, but you cannot see the bulb inside."
    ],
    "perspectives": [],
@@ -177,7 +177,7 @@
    "description": "One big clear crystal of sugar is quite see-through. A pile of sugar grains is white, because light bounces off every grain's edges. Stir the sugar into water and it vanishes. The water is clear again, because the sugar has broken into molecules far too small to bounce light. The same is true for ice and snow. A clear ice cube is transparent. Crushed ice and snow are white, because of all their edges. Bubbles trapped in ice make it cloudy too. Oil on paper fills the air gaps between the threads. Then light passes from thread to oil without bouncing much, so the paper turns see-through.",
    "examples": [
     "Foam on top of water is white, though the water and the air are both clear.",
-    "A spot of oil from a pakora makes the newspaper see-through.",
+    "A spot of oil from a bajji makes the newspaper see-through.",
     "A wet white T-shirt is more see-through than a dry one."
    ],
    "perspectives": [],
@@ -1527,7 +1527,7 @@
    "days": 2,
    "materials": [
     {
-     "item": "a window with a thin curtain, or a thin dupatta hung over a window or a doorway",
+     "item": "a window with a thin curtain, or a thin cotton saree hung over a window or a doorway",
      "qty": 1
     },
     {
@@ -1584,7 +1584,7 @@
      "do": "1. One person stays inside behind the curtain and waves. 2. The other goes outside and looks at the window. 3. Swap.",
      "say": "Can you see me waving? What does the curtain look like from out here?",
      "kid": "Go outside with a grown-up. Look at the window. Can you see the person waving?",
-     "parent": "In the day, the person inside is usually hidden. The curtain looks bright from outside, because daylight bounces off it. If you live high up and cannot look in from outside, hang the dupatta in a doorway between two rooms. Light one room brightly and keep the other dim.",
+     "parent": "In the day, the person inside is usually hidden. The curtain looks bright from outside, because daylight bounces off it. If you live high up and cannot look in from outside, hang the saree in a doorway between two rooms. Light one room brightly and keep the other dim.",
      "context": "This step of the curtain activity checks from outside, in the daytime, whether you can see in."
     },
     {
@@ -2049,7 +2049,7 @@
        "Translucent"
       ],
       [
-       "a thin white dupatta",
+       "a thin white cotton saree",
        "Translucent"
       ],
       [
@@ -2765,7 +2765,7 @@
    "art": "A frosted bathroom window with a blurry green plant behind it."
   },
   {
-   "text": "A paper kandil lantern glowing over a shop door at Diwali.",
+   "text": "A paper kandil glowing over a shop door at Diwali, or a big paper star on a Kerala porch at Christmas.",
    "art": "A star-shaped paper lantern glowing over a shop door."
   },
   {
@@ -2777,8 +2777,8 @@
    "art": "A row of brown glass medicine bottles on a shelf."
   },
   {
-   "text": "A thin white dupatta drying on a balcony, glowing in the sun.",
-   "art": "A white dupatta on a clothesline, sunlight glowing through it."
+   "text": "A thin white veshti or saree drying on a balcony, glowing in the sun.",
+   "art": "A white cotton veshti on a clothesline, sunlight glowing through it."
   },
   {
    "text": "Glass bangles in a market stall, some clear, some coloured.",
@@ -3126,7 +3126,7 @@
     "p1",
     "c2"
    ],
-   "plan": "Also useful for Diwali lanterns."
+   "plan": "Also useful for Diwali lanterns and Christmas stars."
   }
  ],
  "warmup": [
