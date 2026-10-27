@@ -1,14 +1,14 @@
 {
  "id": "sci.body.how-babies-grow.L3",
- "title": "How a baby grows: from one cell to a newborn",
+ "title": "How a baby grows: from one cell to birth",
  "level": 3,
  "summary": {
-  "text": "This unit is about how a baby grows before it is born. Every person began as one tiny cell, smaller than a grain of salt. That first cell was made when a cell from each parent joined together. It split into two cells, then four, then eight, and on and on. For about nine months the growing baby lived inside its mother, in a stretchy bag of muscle called the womb. It floated in warm water and got food and air through a cord. Then came birth, the baby's first breath, and a new person in the world. Scientists know a lot about this journey. But they still wonder how each cell knows what to become.",
+  "text": "Every person began as one cell, smaller than a grain of salt. It was made when a cell from each parent joined. That cell split into two, then four, then eight, and on and on. For about nine months the baby grew in its mother's womb, a stretchy bag of muscle. It floated in warm water and got food and oxygen from her blood, through a cord. At birth it took its first breath, and the cord left a belly button. Scientists still do not fully know how each cell knows what to become.",
   "art": "A curved path of pictures from left to right: one round cell, two cells, a ball of cells, a curled tiny baby, a bigger baby floating in the womb, and a newborn held against a grown-up's chest."
  },
  "intro": {
   "hook": "Look at your hand. Spread your fingers wide. Once, all of you, your hands, eyes, bones and brain, was one single cell. It was smaller than the full stop at the end of this sentence. Where did all the rest of you come from?",
-  "text": "Find a grain of salt or a tiny speck of dust. Put it on a dark plate and look at it closely. You began even smaller than that. A cell is the smallest living building block of a body. You are now made of trillions of cells, more than all the people on Earth many thousand times over. They all came from that first one. This unit follows the journey from one cell, through nine months in the womb, to the day you were born.",
+  "text": "Put a grain of salt on a dark plate and look at it closely. You began even smaller than that, as one cell. A cell is the smallest living building block of a body. Now you are made of about 30 trillion cells. Every one of them came from that first cell. This unit follows the journey from one cell, through nine months in the womb, to the day you were born.",
   "art": "A child's open hand next to a dark plate with a single grain of salt on it, and a glowing circle showing one round cell even smaller than the grain."
  },
  "outcomes": [
@@ -32,7 +32,7 @@
   {
    "term": "Trillion",
    "meaning": "A million millions. Written as 1 followed by 12 zeros.",
-   "example": "Your body has about 30 to 40 trillion cells. That is thousands of times more than all the people on Earth.",
+   "example": "Your body has about 30 to 40 trillion cells. That is about 4,000 cells for every person on Earth.",
    "art": "A huge pile of grains of rice spilling out of a room, with a label saying 'still not a trillion'."
   },
   {
@@ -68,7 +68,7 @@
   {
    "term": "Placenta",
    "meaning": "A soft, flat, round body part that grows on the wall of the womb. It passes food and oxygen from the mother's blood to the baby.",
-   "example": "The placenta is like a kitchen and a post office joined together. It sends food in and takes waste away.",
+   "example": "If the placenta does not work well, the baby gets less food and grows more slowly.",
    "art": "A round flat placenta on the womb wall, joined to the baby by a cord, with arrows showing food going in."
   },
   {
@@ -80,7 +80,7 @@
   {
    "term": "Amniotic fluid",
    "meaning": "The warm water inside the womb that the baby floats in. It cushions and protects the baby.",
-   "example": "If the mother bumps into a table, the water helps keep the baby safe.",
+   "example": "If the mother bumps into a table, the water spreads out the bump, so the baby is hardly jolted.",
    "art": "A baby floating in a clear, glowing bubble of water inside the womb."
   },
   {
@@ -116,7 +116,7 @@
   {
    "term": "Caesarean birth",
    "meaning": "A way of being born where doctors carefully open the mother's tummy and womb and lift the baby out. It is said 'si-zair-ee-an'.",
-   "example": "Many babies in India are born this way. It is just as much a birth as any other.",
+   "example": "About one in five babies in India is born this way. It is just as much a birth as any other.",
    "art": "Doctors in a hospital gently lifting a newborn, with the mother awake and smiling behind a screen."
   },
   {
@@ -163,10 +163,10 @@
    "concept": "One cell becomes many",
    "status": "defined",
    "definition": "The first cell splits into two cells. Each of those splits again, and again. This is called cell division, and it is how a body grows.",
-   "description": "About a day after it is made, the first cell splits into two. Two become four, and four become eight. Soon there is a tiny ball of cells, like a berry. The cells keep splitting for months, and they keep going after birth. A grown-up has about 30 to 40 trillion cells. Every one came from that first cell.",
+   "description": "About a day after it is made, the first cell splits into two. Two become four, and four become eight. For the first five days or so, the cells get smaller with each split, and the ball of cells stays the same size. Then it settles into the wall of the womb. Now food from the mother's blood reaches it, and the cells grow between splits. A grown-up has about 30 to 40 trillion cells. Every one came from that first cell.",
    "examples": [
     "1 cell splits into 2, then 4, 8, 16, 32 and 64.",
-    "After only ten rounds of splitting, there would be more than a thousand cells.",
+    "After ten rounds of splitting, there are 1,024 cells.",
     "Your body still makes new cells every day, to heal a cut or grow your hair."
    ],
    "perspectives": [],
@@ -193,8 +193,8 @@
    "definition": "The womb is a stretchy bag of strong muscle inside the mother's tummy, below her stomach. The baby grows inside it for about nine months.",
    "description": "Before a baby, the womb is about the size of a small pear. As the baby grows, the womb stretches and stretches. By the end it can hold a baby about 50 centimetres long. Inside the womb, the baby floats in a bag of warm water. It is dark, warm and full of sounds, like the mother's heartbeat and her voice. The womb is made of muscle, so at birth it can squeeze to push the baby out.",
    "examples": [
-    "The womb stretches about as much as a balloon blown up from small to big.",
-    "The baby hears the mother's heartbeat all day long, like a drum.",
+    "Before a baby, the womb is the size of a small pear. By the end, it is bigger than a football.",
+    "From about six months, the baby can hear its mother's heartbeat, all day long.",
     "Light reaches the baby only a little, like sunlight through your fingers."
    ],
    "perspectives": [],
@@ -205,7 +205,7 @@
    "concept": "The placenta and the cord: food and air",
    "status": "defined",
    "definition": "The placenta grows on the wall of the womb. It takes food and oxygen from the mother's blood and passes them along the umbilical cord to the baby. It also takes the baby's waste away.",
-   "description": "A baby in the womb cannot eat or breathe air. It is under water, after all. So the mother's body feeds it. The mother eats and breathes. Her blood carries food and oxygen to the placenta. The baby's blood comes to the placenta too, through the cord. The two bloods stay mostly apart, separated by a very thin wall. Food and oxygen slip through that wall into the baby's blood. Waste slips back out, and the mother's body gets rid of it.",
+   "description": "A baby in the womb is surrounded by water. It cannot eat, and there is no air to breathe. So the mother's body feeds it. Her blood carries food and oxygen to the placenta. The baby's blood comes to the placenta too, through the cord. The two bloods stay apart, with a very thin wall between them. Food and oxygen pass through that wall into the baby's blood. Waste passes back out, and the mother's body gets rid of it.",
    "examples": [
     "The dal and rice the mother eats become part of the baby's growing body.",
     "When the mother breathes in, some of that oxygen ends up in the baby.",
@@ -219,9 +219,9 @@
    "concept": "The water around the baby",
    "status": "defined",
    "definition": "The baby floats in warm water called amniotic fluid, inside a thin bag in the womb. The water cushions the baby, keeps it warm and lets it move.",
-   "description": "Water spreads out a bump. If the mother bumps her tummy, the push spreads through the water, so the baby is hardly jolted. The water also stays at the same warm temperature. And it gives the baby room to stretch, kick and practise moving. The baby even swallows some of the water. This practises swallowing, and the water carries tastes from the mother's food.",
+   "description": "A growing baby is soft, and its mother walks, bends and sometimes bumps into things. The water around it solves this. A bump on the mother's tummy spreads out through the water, so the baby is hardly jolted. The water also stays at the same warm temperature, and gives the baby room to stretch and kick. The baby swallows some of the water. This is practice for swallowing, and the water carries tastes from the mother's food.",
    "examples": [
-    "A raw egg in a jar full of water does not crack when you shake it gently. In an empty jar, it can crack.",
+    "A raw egg in a jar filled to the top with water stays whole when you shake the jar. In an empty jar, it cracks.",
     "Babies whose mothers ate a lot of carrot liked carrot flavour more after birth, in one study.",
     "The baby practises breathing movements in the water, though there is no air to breathe."
    ],
@@ -275,7 +275,7 @@
    "concept": "The first breath and the belly button",
    "status": "defined",
    "definition": "Right after birth, the baby takes its first breath of air and usually cries. Then the cord is clamped and cut. The little stump dries and falls off, and leaves the belly button.",
-   "description": "Before birth, the lungs were full of water, not air. At birth, the baby's lungs open, and air rushes in for the first time. A good cry helps open them. Now the baby gets oxygen by breathing, so the cord is no longer needed. Doctors clamp it and cut it. The cord has no nerves, so this does not hurt. After about a week or two, the stump falls off. What is left is the belly button. Everyone who was ever born has one, a mark of where they were once fed.",
+   "description": "Before birth, the lungs are filled with fluid, not air. At birth, the baby breathes in, and air fills its lungs for the first time. A good cry helps open them. Now the baby gets oxygen by breathing, so the cord is no longer needed. Doctors clamp it and cut it. The cord has no nerves, so this does not hurt. After one or two weeks, the dry stump falls off. What is left is the belly button.",
    "examples": [
     "Look at your belly button. It is where your cord once joined you to the placenta.",
     "Some belly buttons go in and some stick out. Both are normal.",
@@ -304,7 +304,7 @@
    "status": "idea",
    "description": "Scientists know that cells send each other chemical messages. A cell can tell where it is by how strong the message is around it. Near the source, the message is strong. Far away, it is weak. This idea was made popular by the English scientist Lewis Wolpert, around 1969. It explains a lot, like why your thumb grows on one side of your hand and your little finger on the other. But a whole body has millions of choices like this. How they all fit together so neatly is still being worked out.",
    "examples": [
-    "A growing hand has a message that is strong on the little-finger side. Fingers form in order along it.",
+    "In a growing hand, a message spreads from the little-finger side. Each finger becomes the kind it is from how strong the message is where it grows.",
     "Scientists can grow tiny clumps of cells, called organoids, that start to form bits of organs by themselves.",
     "Nobody yet fully knows how a body ends up just the right shape and size."
    ],
@@ -363,10 +363,10 @@
  ],
  "challenging": [
   {
-   "claim": "A tiny, ready-made person is curled up inside the first cell, and it just grows bigger.",
-   "who": "Some scientists about 350 years ago, after the first microscopes. Nicolaas Hartsoeker drew a tiny person inside a cell in 1694. Many children think this too.",
+   "claim": "A tiny, ready-made person is curled up inside the egg or the sperm cell, and it just grows bigger.",
+   "who": "Many scientists about 300 years ago, after the first microscopes. In 1694 Nicolaas Hartsoeker drew a tiny person inside a sperm cell. Many children think this too.",
    "for": "Babies do look like small people. And the first microscopes showed blurry shapes that people could imagine as tiny bodies.",
-   "against": "Better microscopes showed the first cell has no body parts at all. The parts form step by step, as cells split and change. Karl Ernst von Baer, an Estonian-German scientist, studied this carefully in the 1820s.",
+   "against": "In 1759 Caspar Friedrich Wolff watched hen's eggs day by day, and saw the body parts form one after another. Karl Ernst von Baer studied this carefully in the 1820s. Better microscopes showed the first cell has no body parts at all.",
    "status": "rejected",
    "context": "This card is about an old idea that a tiny ready-made person is inside the first cell, and why scientists gave it up."
   },
@@ -425,7 +425,7 @@
    "hint": "There is no line on the calendar. People in different families and religions answer this differently."
   },
   {
-   "q": "A baby cannot remember being born. So how do you know it happened to you?",
+   "q": "Nobody has a memory of being born. So how do you know it happened to you?",
    "kind": "big",
    "hint": "Think of your belly button, photos and the stories people tell you."
   },
@@ -447,7 +447,7 @@
   {
    "q": "The atoms in your body came from food, and the atoms in food came from stars long ago. Are you made of star stuff?",
    "kind": "big",
-   "hint": "Scientists say most atoms heavier than hydrogen were made inside stars."
+   "hint": "Scientists say almost all atoms heavier than hydrogen and helium were made inside stars."
   },
   {
    "q": "Is it fair that some babies are born in places with good doctors, and some are not?",
@@ -478,9 +478,9 @@
    "Tara looked. There were tiny lines, curving and looping, like the rings in a cut tree, or ripples in a pond.",
    "\"These are your fingerprints,\" said Nani. \"Nobody else in the whole world has these. Not me, not Mumma, not anybody who has ever lived. Not even a twin. Do you know when they were made?\"",
    "Tara shook her head.",
-   "\"Before you were born. When you were about four months along in the womb, you were about as big as a small mango. Your fingers were brushing against the water, and the soft walls, and each other. The skin on your fingertips folded into these lines. Where you floated, how you curled, how you moved, all of it shaped them. And then they stayed. They grow bigger with you, but they never change their pattern. These lines are a picture of the place where you grew. Only you were there to make them.\"",
+   "\"Before you were born. When you were about four months along in the womb, the skin on your fingertips grew these lines. Tiny chance differences in how your skin grew made a pattern that nobody else has. And then they stayed. They grow bigger with you, but they never change their pattern.\"",
    "Tara held her fingers up close to her eyes. The lines seemed to swirl.",
-   "\"And before that,\" said Nani, \"you were smaller still. You were one cell. One tiny speck, smaller than a grain of salt. It was made when a cell from each of the two people who made you joined together. Then that one cell split into two. Two became four. Four became eight. On and on, for months. Some cells became your heart, and started to beat when you were no bigger than a grain of rice. Some became your eyes. Some became these fingers. Every single bit of you came from that one cell. Everybody's did. Kabir's too. Zoya's too. Mine too. The prime minister's too.\"",
+   "\"And before that,\" said Nani, \"you were smaller still. You were one cell, smaller than a grain of salt. It was made when a cell from each of the two people who made you joined together. Then that one cell split into two. Two became four. Four became eight. On and on, for months. Some cells became your heart, and it started to beat when you were no bigger than a grain of rice. Some became your eyes. Some became these fingers. Every bit of you came from that one cell. Everybody's did. Kabir's too. Zoya's too. Mine too.\"",
    "Tara giggled. Then she was quiet for a while. \"The lady who carried me,\" she said slowly. \"She fed me for nine months. Even though she didn't keep me.\"",
    "\"Yes,\" said Nani. \"Every day. Through this.\" She tapped the belly button once more. \"And then Mumma and Papa drove all night in the rain. You have been fed and carried by a lot of people, Tara. Most people have no idea how many.\"",
    "\"So my story doesn't start in the middle.\"",
@@ -489,11 +489,11 @@
    "Next to it she drew a tiny circle, no bigger than a full stop. She labelled it: 'Me, at the very start.'",
    "On Friday, Miss Fernandes held each book up for the class. When she reached Tara's, she held it up for a long time. Kabir leaned over to look at his own fingers. Then Zoya did. Then the whole class was holding their hands up to the windows, turning them in the light, looking for the page that had been written on them before they had names."
   ],
-  "epiphany": "For the parent: Tara thinks her story has no beginning because there is no photo. Nani shows her that the beginning is written on her body. The belly button is the mark of the cord, through which a mother's blood fed the baby for nine months. Fingerprints formed in the womb at about four months, shaped by where and how the baby floated, and they never change. And before that, everyone began as one cell. However a family is made, by birth or by adoption, every child began the same way and was carried and fed by someone.",
+  "epiphany": "For the parent: Tara thinks her story has no beginning because there is no baby photo. Nani shows her that the beginning is on her body. The belly button is the mark of the cord, through which a mother's blood fed the baby for nine months. Fingerprints formed in the womb at about four months, and they never change. However a family is made, by birth or by adoption, every child began as one cell and was carried and fed by someone.",
   "ask": [
    "Why did Tara feel her story had no first page?",
    "What does a belly button tell us about what happened before we were born?",
-   "When were Tara's fingerprints made? What shaped them?",
+   "When were Tara's fingerprints made?",
    "Nani says Tara has been fed and carried by a lot of people. Who has fed and carried you?",
    "Why do you think the whole class started looking at their own fingers at the end?"
   ],
@@ -501,7 +501,7 @@
    "A classroom with children chattering, and one girl quietly colouring a small square in her notebook very hard.",
    "A grandmother cleaning methi leaves on kitchen steps in the evening light, a girl sitting beside her.",
    "Close-up of a grandmother's wrinkled hand turning a child's palm up under a kitchen bulb, the fingertip lines glowing.",
-   "A dreamlike picture of a tiny curled baby floating in the warm womb, its fingertips brushing the soft wall.",
+   "A tiny curled baby floating in the warm womb, its fingertips showing faint new lines.",
    "A book page with ten inky fingerprints in a circle around a thumbprint, and a tiny dot labelled 'Me, at the very start'.",
    "A whole class holding their hands up to sunny windows, turning them in the light."
   ]
@@ -761,7 +761,7 @@
    "mins": 20,
    "days": 1,
    "question": "Does a raw egg stay safer from bumps in a jar full of water, or in an empty jar?",
-   "predict": "Before you shake anything, guess. Will the egg in the empty jar crack, the egg in the water jar crack, both, or neither?",
+   "predict": "Before you shake anything, guess. Will the egg in the empty jar crack, the egg in the water jar crack, both, or neither? Why do you think so?",
    "fair_test": "To make it fair, keep everything the same except the water. Use two jars of the same size with lids. Use eggs of the same size. Shake each jar the same way, the same number of times. Count the shakes out loud.",
    "results_table": [
     "Jar",
@@ -772,11 +772,11 @@
    ],
    "materials": [
     {
-     "item": "two clear plastic jars or bottles with wide mouths and lids, the same size",
+     "item": "two plastic jars or dabbas with lids that close tight, the same size, wide enough for an egg (clear ones are best)",
      "qty": 2
     },
     {
-     "item": "raw eggs",
+     "item": "raw eggs (or, if your family does not use eggs, two thick pieces of ripe banana, peeled, about 4 centimetres long)",
      "qty": 2
     },
     {
@@ -846,7 +846,7 @@
      "do": "1. Shake the empty jar gently, 5 times, side to side. 2. Look at the egg. 3. Do the same with the water jar. 4. If neither cracked, repeat both with 5 harder shakes.",
      "say": "We shake both jars exactly the same way, 5 times each. Count with me. That keeps the test fair.",
      "kid": "Shake the empty jar 5 times. Count out loud. Look at the egg. Now shake the water jar the same way.",
-     "parent": "The egg in the empty jar usually cracks after a few firm shakes. The egg in the full water jar usually stays whole. If both crack, you shook too hard. Try again more gently.",
+     "parent": "The egg in the empty jar usually cracks after a few firm shakes. The egg in the full water jar usually stays whole. If both crack, you shook too hard, so try again more gently. With banana pieces, the one in the empty jar gets squashed and bruised against the sides. The one in water keeps its shape.",
      "context": "This is the testing step of the Floating Safe experiment. You shake both jars the same way and look at the eggs."
     },
     {
@@ -893,8 +893,8 @@
    "mins": 15,
    "days": 1,
    "question": "Which sounds get through water best: a low hum, a high whistle or a whisper?",
-   "predict": "Guess first. Through a bag of water, which sound will you hear most clearly, a low hum, a high whistle or a whisper?",
-   "fair_test": "Keep everything the same except the sound. The same person makes each sound, at the same loudness, from the same distance. Try each sound with a bag of water and with no bag.",
+   "predict": "Guess first. Through a bag of water, which sound will you hear most clearly: a low hum, a high whistle or a whisper? Why do you think so?",
+   "fair_test": "Keep everything the same except the sound. The same person makes each sound, about as loud each time, from the same place. Try each sound with no bag, and then with the bag of water.",
    "results_table": [
     "Sound",
     "With no bag: clear, muffled or silent",
@@ -902,9 +902,8 @@
    ],
    "materials": [
     {
-     "item": "a strong zip-lock bag",
-     "qty": 1,
-     "buy": "b-ziplock"
+     "item": "a thick polythene bag with no holes, or a zip-lock bag",
+     "qty": 1
     },
     {
      "item": "water",
@@ -912,6 +911,10 @@
     },
     {
      "item": "a towel",
+     "qty": 1
+    },
+    {
+     "item": "a rubber band or string, to close the bag",
      "qty": 1
     }
    ],
@@ -928,7 +931,7 @@
    "setup": [
     {
      "art": "A child holding a zip-lock bag full of water flat against one ear, a towel on the shoulder.",
-     "caption": "1. Fill a zip-lock bag with water. Close it tight. Hold it against your ear."
+     "caption": "1. Fill a polythene bag with water. Close it tight. Hold it against your ear."
     },
     {
      "art": "A grown-up humming with closed lips, standing one step behind the child.",
@@ -943,9 +946,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Fill the bag almost full with water and seal it. 2. Check over a towel that it does not leak.",
+     "do": "1. Fill the bag almost full with water. 2. Twist the top and close it tight with a rubber band. 3. Check over a towel that it does not leak.",
      "say": "A baby in the womb is in water, inside its mother's body. Let's find out what sounds reach it.",
-     "kid": "Fill the bag with water. Close it tight. Check it does not drip.",
+     "kid": "Fill the bag with water. Close it tight with a rubber band. Check it does not drip.",
      "context": "This is the first step of Hearing Through Water. You make a bag of water to listen through, like a baby in the womb."
     },
     {
@@ -954,7 +957,7 @@
      "do": "1. Stand one step behind your child. 2. Hum low, then whistle high, then whisper, with no bag. 3. Repeat with the bag pressed on one ear and the other ear covered.",
      "say": "I will make three sounds. First with nothing on your ear. Then through the water. Tell me which come through.",
      "kid": "Listen with no bag. Then hold the water bag on your ear. Cover your other ear. Which sounds get through?",
-     "parent": "Low hums usually come through the water best. High sounds and whispers get muffled or lost. That is close to what scientists think a baby hears: low sounds like voices and the heartbeat, muffled.",
+     "parent": "Low hums usually come through the water best. High whistles and whispers get muffled or lost. Scientists think a baby in the womb hears something like this: low sounds such as voices and the heartbeat, muffled. Your hand over the other ear does not block all sound, so compare the two tries rather than expecting silence.",
      "context": "This is the listening step of Hearing Through Water. A grown-up makes three sounds, and you listen with and without a bag of water."
     },
     {
@@ -1002,7 +1005,7 @@
    "mins": 30,
    "days": 1,
    "question": "Which keeps a pretend baby warm longest: lying alone, wrapped in a cloth, or held against a person's chest under a cloth?",
-   "predict": "Guess which bottle will stay warmest after 20 minutes. Put the three in order.",
+   "predict": "Guess which bottle will stay warmest after 20 minutes. Put the three in order. Why do you think so?",
    "fair_test": "Use three bottles of the same size, filled with the same amount of warm water, from the same jug. Check them all at the same times. Change only how each one is kept.",
    "results_table": [
     "Pretend baby",
@@ -1016,7 +1019,7 @@
      "qty": 3
     },
     {
-     "item": "warm water from the tap, not boiling",
+     "item": "warm water, heated in a pan and mixed with cold water until it feels comfortably warm on your wrist",
      "qty": 1
     },
     {
@@ -1029,7 +1032,7 @@
      "buy": "b-thermo"
     }
    ],
-   "safety": "A grown-up fills the bottles with warm water, never hot or boiling. Test it on your wrist first.",
+   "safety": "A grown-up warms the water. It must feel comfortably warm on the wrist, never hot. Do not use boiling water.",
    "schedule": [
     {
      "day": 1,
@@ -1081,7 +1084,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Fill three bottles with the same warm water from one jug. 2. Close the lids. 3. Let your child feel that they are all the same.",
+     "do": "1. Warm water in a pan and mix it with cold water until it feels comfortably warm on your wrist. 2. Fill three small bottles from the same jug. 3. Close the lids. 4. Let your child feel that they are all the same. 5. Keep all three in the same room, under the fan if it is on.",
      "say": "These three bottles are pretend babies. They all start equally warm. A tiny newborn loses heat fast. Let's test which way keeps it warm.",
      "kid": "Feel all three bottles. They are all the same warm. These are pretend babies.",
      "adult": true,
@@ -1091,7 +1094,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Stand one bottle alone on the table. 2. Wrap one in a towel. 3. A grown-up tucks the third against their chest, under a dupatta or shirt.",
-     "say": "Holding a baby on your bare chest, under a cloth, is called kangaroo care. It was started in Bogotá, in Colombia, in 1978, to keep early babies warm.",
+     "say": "Holding a baby on a grown-up's bare chest, under a cloth, is called kangaroo care. Doctors in Bogotá, in Colombia, started it in 1978, to keep early babies warm.",
      "kid": "One bottle stays alone. One gets wrapped. One goes on a grown-up's chest, under a cloth.",
      "context": "This is the setting-up step of Keep the Baby Warm. Each pretend baby is kept a different way."
     },
@@ -1102,7 +1105,8 @@
      "say": "While we wait, think about this. Why might a person's body be good at keeping a baby warm?",
      "kid": "Wait 10 minutes. Feel each bottle on your cheek. Write it down. Wait 10 more minutes. Do it again.",
      "wait": "Check after 10 minutes, then after 20 minutes.",
-     "context": "This is the waiting and measuring step of Keep the Baby Warm. You check the three pretend babies after 10 and 20 minutes."
+     "context": "This is the waiting and measuring step of Keep the Baby Warm. You check the three pretend babies after 10 and 20 minutes.",
+     "parent": "On a hot day the room is nearly as warm as the bottles, so the differences are small. A thermometer shows them better than a cheek. Under a running fan, the bottle left alone cools fastest."
     },
     {
      "id": "s4",
@@ -1119,7 +1123,7 @@
        "They all cool the same"
       ],
       "a": 0,
-      "why": "A person's body is always warm, about 37 degrees, so it keeps adding heat. The cloth holds the heat in. Picking the bottle alone often means thinking the air will keep it warm. But air takes heat away. This is why kangaroo care helps tiny babies."
+      "why": "A person's body stays warm, at about 37 degrees, so it keeps adding heat to the bottle. The cloth holds the heat in. Picking the bottle alone often means thinking the air keeps it warm. But air carries heat away. This is why kangaroo care helps tiny babies."
      },
      "context": "This is the last step of Keep the Baby Warm. Three bottles of warm water were kept alone, wrapped, or on a chest, and checked after 20 minutes."
     }
@@ -1195,7 +1199,7 @@
      "do": "1. Split the ball into two equal halves. 2. Roll each into a ball. 3. Split each again. 4. Keep going: 4, then 8, then 16. 5. Lay each round in a new row.",
      "say": "A real cell splits into two. Each new cell splits again. Let's do the same. Count how many we have each time.",
      "kid": "Split the ball into two. Roll them round. Split each one again. Count them each time.",
-     "parent": "Real cells grow a little between splits, so they do not keep getting smaller like the dough. Mention this if your child asks. It is a good question.",
+     "parent": "This matches real life. In the first five days, the cells get smaller with each split, and the ball of cells stays the same size. Later, once food from the mother reaches it, the cells grow between splits.",
      "context": "This is the splitting step of One Cell to Many. You split the dough ball again and again, like a cell dividing."
     },
     {
@@ -1249,7 +1253,7 @@
      "qty": 1
     },
     {
-     "item": "a ruler or measuring tape",
+     "item": "a measuring tape, or a 30 centimetre school ruler moved along",
      "qty": 1,
      "buy": "b-tape"
     },
@@ -1350,7 +1354,7 @@
      "qty": 2
     },
     {
-     "item": "a magnifying glass",
+     "item": "a magnifying glass, if you have one",
      "qty": 1,
      "buy": "b-magnifier"
     },
@@ -1413,8 +1417,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about why prints are all different.",
-     "say": "Even twins who look exactly the same have different fingerprints. The way each baby floated and touched the womb shaped its lines.",
-     "kid": "Even twins have different prints. Your print shows how you floated in the womb.",
+     "say": "Even twins who look exactly the same have different fingerprints. Tiny chance differences in how the skin grew made each pattern.",
+     "kid": "Even twins have different prints. Each pattern formed by chance, before birth.",
      "check": {
       "t": "mcq",
       "q": "When were your fingerprints made?",
@@ -1426,7 +1430,7 @@
       "a": 0,
       "why": "Fingerprints form in the womb at about four months. After that the pattern never changes, it only grows bigger. Picking 'every year' often comes from seeing hands grow. The hands grow, but the pattern of lines stays the same."
      },
-     "think": "Your print is a picture of where you grew. What else on your body is a mark from before you were born?",
+     "think": "What else on your body is a mark from before you were born?",
      "context": "This is the last step of Prints From Before You Were Born. You think about why every fingerprint is different."
     }
    ]
@@ -1517,9 +1521,8 @@
      "qty": 1
     },
     {
-     "item": "a balloon",
-     "qty": 1,
-     "buy": "b-balloons"
+     "item": "a clear polythene bag or zip-lock bag (or a balloon, if you have one)",
+     "qty": 1
     },
     {
      "item": "a small toy or a clay baby",
@@ -1543,7 +1546,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Build a womb model with a balloon of water, a toy baby, a cord and a placenta. Label each part."
+     "what": "Build a womb model with a bag of water, a toy baby, a cord and a placenta. Label each part."
     }
    ],
    "record": "A labelled drawing of your model: womb, water, baby, cord, placenta.",
@@ -1558,8 +1561,8 @@
      "caption": "2. Tie a string to the toy baby and to a red cloth placenta."
     },
     {
-     "art": "A clear bottle holding a water-filled balloon with a toy baby floating inside and a string to the side.",
-     "caption": "3. Put it all in water inside the bottle. Label the parts."
+     "art": "A clear bottle holding a water-filled clear bag with a toy baby floating inside, joined by a string to a red cloth circle.",
+     "caption": "3. Put the bag of water in the bottle. Label the parts."
     }
    ],
    "flow": [
@@ -1575,19 +1578,19 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Tie one end of the string around the toy's middle. 2. Tie the other end to the red cloth circle. 3. Stretch the balloon open and push the toy and cloth inside. 4. Fill the balloon with water through a funnel and knot it.",
-     "say": "The string is the cord. The red circle is the placenta, which sticks to the womb wall. The balloon is the womb, and the water is the water the baby floats in.",
-     "kid": "Tie the string to the toy. Tie the other end to the red circle. Put them in the balloon. Fill it with water.",
+     "do": "1. Tie one end of the string around the toy's middle. 2. Tie the other end to the red cloth circle. 3. Put the toy and the cloth inside the bag. 4. Fill the bag with water and close it tight with a rubber band.",
+     "say": "The string is the cord. The red circle is the placenta, which grows on the womb wall. The bag is the womb, and the water is the water the baby floats in.",
+     "kid": "Tie the string to the toy. Tie the other end to the red circle. Put them in the bag. Fill it with water.",
      "adult": true,
-     "parent": "It is fiddly to get the toy into the balloon. Stretch the neck wide with two fingers each. If it is too hard, use a clear zip-lock bag instead.",
+     "parent": "Close the bag tightly and hold it over a sink. A balloon looks more like a womb, but it is hard to push a toy inside.",
      "context": "This is the building step of Womb in a Bottle. You put a toy baby, a string cord and a cloth placenta inside a water balloon."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "Put the balloon in the bottle. Make paper labels and stick them on the outside.",
+     "do": "Put the bag in the bottle. Make paper labels and stick them on the outside.",
      "say": "Let's label every part. Where does the food come in? Where does the baby float?",
-     "kid": "Put the balloon in the bottle. Label the womb, water, baby, cord and placenta.",
+     "kid": "Put the bag in the bottle. Label the womb, water, baby, cord and placenta.",
      "check": {
       "t": "mcq",
       "q": "In the Womb in a Bottle model, what does the string stand for?",
@@ -1610,7 +1613,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a sheet of butter paper or a clear plastic bag",
+     "item": "a sheet of butter paper or tracing paper",
      "qty": 1
     },
     {
@@ -2438,11 +2441,11 @@
     },
     {
      "t": "mcq",
-     "p": "Before about 1950, nobody could see a baby inside the womb. Which invention changed that?",
+     "p": "Before the 1950s, doctors had no safe way to watch a baby move inside the womb. Which invention changed that?",
      "opts": [
       "Ultrasound",
       "The telescope",
-      "The X-ray of a hand",
+      "The microscope",
       "The thermometer"
      ],
      "a": 0,
@@ -2498,7 +2501,7 @@
      "t": "write",
      "p": "The food a mother eats becomes part of her baby. Trace a grain of rice back as far as you can, to where its atoms came from.",
      "lines": 5,
-     "a": "The grain came from a rice plant. The plant built it from air, water and soil, using sunlight. The atoms in the soil and air came from the Earth. Most of the Earth's atoms, apart from hydrogen, were made inside stars long ago.",
+     "a": "The grain came from a rice plant. The plant built it from air, water and soil, using sunlight. The atoms in the soil and air came from the Earth. Almost all atoms heavier than hydrogen and helium were made inside stars long ago.",
      "why": "This shows that a baby is built from the whole world: food, sun, soil and even stars."
     },
     {
@@ -3100,26 +3103,6 @@
    ]
   },
   {
-   "id": "b-ziplock",
-   "item": "Strong zip-lock bags",
-   "kind": "material",
-   "why": "To make the water bag in Hearing Through Water.",
-   "url": "https://www.amazon.in/s?k=zip+lock+bags",
-   "used_in": [
-    "e2"
-   ]
-  },
-  {
-   "id": "b-balloons",
-   "item": "Balloons",
-   "kind": "material",
-   "why": "For the womb in the Womb in a Bottle model.",
-   "url": "https://www.amazon.in/s?k=balloons+pack",
-   "used_in": [
-    "a5"
-   ]
-  },
-  {
    "id": "b-book",
    "item": "A picture book about how babies grow, for young children",
    "kind": "book",
@@ -3256,31 +3239,26 @@
  "roots": {
   "context": "We have been learning how a baby grows from one cell into a whole person. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "You were never a separate thing that arrived. You grew out of another person, and out of the whole world, one cell at a time.",
-   "habit": "We think of 'me' and 'my mother' or 'me' and 'the world' as two different things with a clear line between them. But for nine months your blood fed on hers, her food became your bones, and you began as a cell from each of two people. There was no moment when a finished 'you' was added from outside.",
-   "evidence": "Every cell in you came from one first cell, built from food your mother ate, and a few of your cells may still live in her body."
+   "truth": "Everyone in your home has a belly button. Each one is the scar left by a cord. Before birth, that cord brought food and oxygen from a mother's blood. So every person was fed by someone else's body before they could eat or breathe.",
+   "habit": "We think of a person as starting on their birthday, and as eating and breathing for themselves. But for nine months, each of us got all our food and oxygen through another person's body.",
+   "evidence": "Every person who was born has a belly button. It is where the umbilical cord joined the baby to the placenta, which passed food and oxygen from the mother's blood. In the story, Nani shows Tara her own belly button."
   },
   "three": {
-   "who_am_i": "You are a trillion cells that all came from one. You are one thing that became many.",
-   "what_is_life": "Life is passed on, never started from nothing. Every living thing came from another living thing.",
-   "what_is_this_world": "The rice, dal and sunlight your mother took in became you. The world is not around you. It is in you."
+   "who_am_i": "You are about 30 trillion cells, and every one came from a single first cell.",
+   "what_is_life": "Life is passed on. Every living thing came from another living thing, as you came from your parents' cells.",
+   "what_is_this_world": "Your body was built from the rice, dal, water and air your mother took in. Those came from fields, rivers and sunlight."
   },
-  "thread": "Before you, there was one cell. Before that, two cells from two people, each made from food, water, air and sunlight. DeepKids believes this is the One becoming the many: a single cell turns into skin, eyes, a beating heart and a mind that can wonder about it. Every one of your trillions of cells carries the same instructions, the same one, read in many ways. Nobody stops being part of the whole when they are born. They just begin to see it.",
+  "thread": "You began as one cell, made from a cell of each parent. That one cell became trillions of cells of many kinds: skin, bone, heart and brain. All of them were built from food your mother ate, and that food came from plants, soil, rain and sunlight. So each new person is one life that grew out of many others.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
-    "teaching": "Uddalaka asks his son Shvetaketu to split a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that nothing you cannot see, this huge banyan tree grows. That is you.'",
-    "link": "You began as one cell too small to see. Everything you are now grew out of it."
+    "teaching": "Uddalaka asks his son Shvetaketu to split a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that tiny thing you cannot see, this huge banyan tree grows.'",
+    "link": "You began as one cell, too small to see. Everything you are now grew out of it."
    },
    {
     "source": "Thich Nhat Hanh, the idea of 'interbeing'",
-    "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree inside it. Nothing exists all by itself.",
-    "link": "Look deeply at a baby and you can see its mother's meals, the farmer's rice, the rain and the sun. A baby is made of everything."
-   },
-   {
-    "source": "Tao Te Ching 42",
-    "teaching": "The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
-    "link": "One cell becomes two, two become four, and on and on, until there is a whole person."
+    "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself.",
+    "link": "A baby is built from its mother's meals. In them are the farmer's rice, the rain and the sun."
    }
   ],
   "science": [
@@ -3295,7 +3273,7 @@
   ],
   "other_view": {
    "who": "Many biologists, and the Charvaka thinkers of ancient India",
-   "view": "A baby is a wonderful result of cells, chemistry and food. There is no deeper One inside it, and nothing more is needed to explain it. That is an honest and respectful view."
+   "view": "A baby is the result of cells, chemistry and food. Nothing more is needed to explain it, and there is no deeper oneness behind it."
   },
   "practice": {
    "title": "Listen to the first drum",
@@ -3310,5 +3288,11 @@
    "Is there anything in you that did not come from somewhere else?"
   ],
   "art": "A child sitting cross-legged with one hand on her heart and one on her belly button, faint lines spreading out from her to a rice field, a river, the sun and a smiling woman."
+ },
+ "how_we_found_out": {
+  "story": "After the first microscopes, about 330 years ago, many scientists thought a tiny, ready-made person was hidden inside the egg or the sperm cell. In 1694 the Dutch scientist Nicolaas Hartsoeker drew a little curled-up man inside a sperm cell. Growing, they thought, was just this tiny person getting bigger. In 1759 the German scientist Caspar Friedrich Wolff tested the idea. He opened hen's eggs on different days and looked closely. He saw no tiny chick at the start. Instead, the parts, like the blood vessels and the gut, formed one after another. In 1827 Karl Ernst von Baer found the real egg cell of a mammal, inside a dog. It was a single tiny cell, with no body parts in it. In 1876 Oscar Hertwig watched a sperm cell enter a sea urchin's egg under a microscope. He saw their two centres join into one. So a baby is not hidden in a cell, waiting to grow. It is built, step by step, from one new cell.",
+  "who": "Nicolaas Hartsoeker, Caspar Friedrich Wolff, Karl Ernst von Baer and Oscar Hertwig",
+  "when": "1694 (Hartsoeker's drawing), 1759 (Wolff), 1827 (von Baer) and 1876 (Hertwig)",
+  "wrong_idea": "People thought a tiny, ready-made person was inside the egg or sperm, and only grew bigger. Wolff watched hen's eggs day by day and saw the parts form one after another. Von Baer found that a mammal's egg is a single cell with no parts in it."
  }
 }

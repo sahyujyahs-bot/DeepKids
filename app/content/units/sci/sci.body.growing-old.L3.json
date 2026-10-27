@@ -1,14 +1,14 @@
 {
  "id": "sci.body.growing-old.L3",
- "title": "Growing old: how bodies change over a whole life",
+ "title": "Growing old: how a body changes from baby to elder",
  "level": 3,
  "summary": {
-  "text": "This unit is about how a human body changes over a whole life. Every person goes through the same stages: baby, child, teenager, adult and older adult. A baby's body grows faster than at any other time. In the grown-up years the body is at its strongest. Then, slowly, hair turns grey, skin wrinkles, and eyes find tiny print harder to read. Some things keep growing all life long, like what we know and the words we use. Your body is rebuilding itself every second, yet you stay you. Scientists still argue about why bodies age at all.",
+  "text": "A grandmother holds her phone far from her face to read it, while a child reads it close up. Every person goes through the same stages: baby, child, teenager, adult and older adult. As the years pass, hair turns grey, skin springs back more slowly, and the lens in the eye gets stiffer. Your body makes millions of new cells every second, but some parts, like the middle of the eye lens, are never replaced. Scientists still argue about why bodies age at all.",
   "art": "One long line of hands laid side by side on a wooden table: a tiny baby's hand, a child's hand, a teenager's, a parent's and a wrinkled grandparent's hand with a silver ring."
  },
  "intro": {
   "hook": "Look at the back of your hand. Now look at the back of the hand of the oldest person in your home. What is different? What is the same?",
-  "text": "Every grandparent you know was once a baby. They had no teeth. They could not walk. Their head was huge compared to their body. One day you will be as old as them. Your hair may turn silver. Your skin may fold into soft lines. But it will still be you inside. How can a body change so much and still be the same person? That is what this unit is about.",
+  "text": "Every grandparent you know was once a baby. They had no teeth. They could not walk. Their head was huge compared to their body. One day you will be as old as them. Your hair may turn white, and your skin may fold into soft lines. Why does a body change like this? And how much of you is new, and how much is as old as you are?",
   "art": "A grandmother and a child sitting side by side on a charpai, both holding the back of their hands up to compare, sunlight on both."
  },
  "outcomes": [
@@ -85,7 +85,7 @@
   },
   {
    "term": "Lens",
-   "meaning": "The clear, bendy part inside your eye that changes shape to focus.",
+   "meaning": "The clear, bendy part inside your eye. It changes shape so that things look sharp.",
    "example": "When you read a book up close, your lens gets fatter to make the words sharp.",
    "art": "A drawing of an eye with a clear bean-shaped lens inside it."
   },
@@ -110,7 +110,7 @@
   {
    "term": "Cell renewal",
    "meaning": "The body making new cells to replace old or worn-out ones.",
-   "example": "Your outer skin is replaced about every month.",
+   "example": "The outer layer of your skin is replaced about every month.",
    "art": "Tiny old skin flakes falling off as new skin cells push up from below."
   },
   {
@@ -171,7 +171,7 @@
    "examples": [
     "Many top runners and footballers are in their twenties.",
     "Your parent may have started wearing reading glasses at about 40 or 45.",
-    "A farmer of 50 who works in the fields every day can be stronger than a city worker of 30 who sits all day."
+    "A farmer of 50 who works in the fields every day can be stronger than an office worker of 30 who sits all day."
    ],
    "perspectives": [],
    "art": "An adult woman jogging in a park in the morning, with an older man doing yoga on the grass behind her.",
@@ -185,7 +185,7 @@
    "examples": [
     "A grandparent's 'grey' hair is really a mix of white and dark hairs.",
     "Eyebrows and beards can turn grey too, because they are also hair.",
-    "Dogs and cats often get white hairs around the nose when they are old."
+    "Dogs often get white hairs around the nose when they are old."
    ],
    "perspectives": [],
    "art": "A zoomed-in drawing of one hair root under the skin, with small pigment cells colouring a dark hair, beside an empty root growing a white hair.",
@@ -195,7 +195,7 @@
    "concept": "Why skin wrinkles",
    "status": "defined",
    "definition": "Skin wrinkles because, over many years, it gets thinner, drier and less springy.",
-   "description": "Inside your skin are stretchy threads called collagen and elastin. They work like the springs in a mattress. They make skin bounce back when you pinch it. As people get older, the body makes fewer of these threads. Skin also makes less oil, so it gets drier. Strong sunlight over many years breaks the threads faster. So the skin folds, like a balloon that has been blown up and let down many times. The lines often form where we smile and frown the most. Many people call these smile lines.",
+   "description": "Inside your skin are stretchy threads called collagen and elastin. They work like the springs in a mattress. They make skin bounce back when you pinch it. Most elastin is made while you are young, and the body makes very little later. So many of the springy threads in an elder's skin are as old as the elder. As people get older, the body also makes less collagen. Skin makes less oil, so it gets drier. Strong sunlight over many years breaks the threads faster. So older skin folds and springs back slowly. The lines often form where we smile and frown the most.",
    "examples": [
     "Skin on the back of a young child's hand snaps back fast when pinched. An elder's skin flattens slowly.",
     "Farmers who work in strong sun often get wrinkles earlier.",
@@ -209,7 +209,7 @@
    "concept": "Why older eyes hold books far away",
    "status": "defined",
    "definition": "As people get older, the lens inside the eye gets stiffer. A stiff lens cannot focus on things that are close, so small print looks blurry.",
-   "description": "To see something close, a tiny muscle squeezes the lens in your eye. The lens gets fatter, and the close thing becomes sharp. A child's lens is soft, like jelly. It changes shape easily. Every year, it gets a little stiffer. By about age 45, most people cannot focus on small print at a normal reading distance. So they hold the newspaper further away. Reading glasses do the extra focusing for them. Far-away things usually still look sharp. Scientists call this change presbyopia, which means 'old eye'.",
+   "description": "To see something close, a tiny muscle lets the lens in your eye get fatter and rounder. Then the close thing looks sharp. A child's lens is soft, like jelly, and changes shape easily. The lens never throws away old cells. All through life it adds new layers around the old ones, so it gets thicker and stiffer every year. By about age 45, most people cannot see small print sharply at a normal reading distance. So they hold the newspaper further away. Reading glasses do the extra focusing for them. Far-away things usually still look sharp. Doctors call this change presbyopia, from a Greek word for an old man.",
    "examples": [
     "A child can read a book held 10 centimetres from the nose.",
     "A grandfather may hold his phone at arm's length to read a message.",
@@ -236,7 +236,7 @@
   {
    "concept": "What keeps growing as we get older",
    "status": "idea",
-   "description": "Not everything gets weaker with age. Some things keep growing. Scientists have tested thousands of people of all ages on puzzles and words. Quick puzzles were done fastest by people in their twenties. But the number of words people knew kept rising until their sixties and seventies. Elders also know a lot from experience, like how to calm a crying baby or what to do in a flood. Some studies find that many older people feel calmer and happier than middle-aged people. Other studies disagree, so this part is still an idea.",
+   "description": "Not everything gets weaker with age. Some things keep growing. Scientists have tested thousands of people of all ages on puzzles and words. Quick puzzles were done fastest by people in their late teens and twenties. But the number of words people knew kept rising until their sixties and seventies. Elders also know a lot from experience, like how to calm a crying baby or what to do in a flood. Some studies find that many older people feel calmer and happier than middle-aged people. Other studies disagree, so this part is still an idea.",
    "examples": [
     "Your grandparent may know the names of plants, songs and festivals that nobody else in the family remembers.",
     "In 2018, Karthyayani Amma of Kerala took a literacy exam at age 96 and scored 98 out of 100.",
@@ -259,7 +259,7 @@
    "concept": "Your body is always rebuilding itself",
    "status": "defined",
    "definition": "Your body is made of about 37 trillion cells. Every second, it makes millions of new ones to replace old ones.",
-   "description": "Scientists estimate your body makes about 4 million new cells every second. Most are blood cells. A red blood cell lasts about four months. The outer layer of your skin is replaced about every month. The lining of your stomach and gut is replaced every few days. Your whole skeleton is slowly rebuilt over about ten years. But not every cell is replaced. Most cells in the thinking part of your brain stay with you all your life. The cells in the middle of your eye lens were made before you were born. So you are partly brand new and partly as old as you are.",
+   "description": "Scientists estimate your body makes about 4 million new cells every second. Most are blood cells. A red blood cell lasts about four months. The outer layer of your skin is replaced about every month. The lining of your stomach and gut is replaced every few days. Your whole skeleton is slowly rebuilt over about ten years. But not every cell is replaced. Most cells in the thinking part of your brain stay with you all your life. The cells in the middle of your eye lens were made before you were born. So some parts of you are a few days old, and some are older than you are.",
    "examples": [
     "The dust in your home is partly old skin flakes, from everyone who lives there.",
     "A cut on your knee heals because new skin cells grow to fill the gap.",
@@ -299,7 +299,7 @@
    "concept": "The end of a life",
    "status": "defined",
    "definition": "Death is when a body stops working for good. It is the last stage of every life cycle, for plants, animals and people.",
-   "description": "Most people die when they are very old, after a long life. A very old body becomes tired, and its parts slowly stop working. Sometimes people die younger, because of an illness or an accident. That is rare, and doctors work hard to stop it. When a person has died, their body cannot feel pain, cold or hunger any more. It is natural to feel very sad when someone dies. That sadness is a sign of love. People remember those who have died through stories, photos, food they liked and festivals. Different families believe different things about what happens after death. You can ask your family what they believe.",
+   "description": "Most people die when they are very old, after a long life. A very old body becomes tired, and its parts slowly stop working. Sometimes people die younger, because of an illness or an accident. That is rare, and doctors work hard to stop it. When a person has died, their pain, cold and hunger are over. It is natural to feel very sad when someone dies. That sadness is a sign of love. People remember those who have died through stories, photos, food they liked and festivals. Different families believe different things about what happens after death. You can ask your family what they believe.",
    "examples": [
     "Dry leaves fall from a tree and turn into soil that feeds new plants.",
     "Many Indian families remember their elders on special days, by cooking their favourite food.",
@@ -505,7 +505,7 @@
    "I am a needle. I am thin and silver, as long as your little finger. I have lived for sixty years in the cap of Rahmat Chacha, in a narrow lane in the old part of Lucknow.",
    "When Rahmat first held me, he was eight years old. His fingers were small and quick. His eyes were sharp as a sparrow's. He held the cloth so close to his face that his nose almost touched it. He threaded me in one try, every time, and laughed at the grown-ups who squinted.",
    "His teacher was an old woman called Bano Apa. She held the cloth far away, at the end of her long arms. 'My arms have grown too short,' she used to say. Rahmat thought it was a joke. He did not understand it. Not then.",
-   "Rahmat grew. His voice cracked and dropped. He grew taller than the door. His fingers got long and strong. Together we made a hundred kurtas, then a thousand. We made white flowers on white cloth, so fine that you had to tilt it to the light to see them. That is chikankari. It is a slow, patient kind of sewing.",
+   "Rahmat grew. His voice cracked and dropped. He grew tall. His fingers got long and strong. Together we made a hundred kurtas, then a thousand. We made white flowers on white cloth, so fine that you had to tilt it to the light to see them. That is chikankari. It is a slow, patient kind of sewing.",
    "The years went by like threads through cloth. His black hair turned to salt and pepper, then to salt. Little lines grew at the corners of his eyes, in the places where he smiled. And slowly, so slowly that he did not notice at first, he began to hold the cloth further away.",
    "One morning, he held me up to the window. He licked the end of the thread. He poked at my eye. He missed. He tried again. He missed again. My eye is the tiny hole at my top, and it had not changed at all. It was his eyes that had changed.",
    "'My arms have grown too short,' he said, and this time he did not laugh.",
@@ -526,7 +526,7 @@
    "When the sky over the river turned grey, the lights flickered back on. Zoya blinked at the cloth. All three flowers were done. Some of the knots were tiny and perfect. A few were a little lumpy. Those were hers. Rahmat said those were his favourites.",
    "I am still a needle. I have been held by a boy who became an old man. Now I am held by a girl who will one day be an old woman. Some days, when she is sewing on his step, I think it is only one hand that holds me. It is just very long, and it reaches all the way across the years."
   ],
-  "epiphany": "For the parent: Rahmat cannot thread the needle because the lens in his eye has stiffened with age. This is presbyopia, and nearly everyone gets it by their mid-forties. Zoya's young lens is soft, so she sees near things sharply. But ageing is not only losing things. While his lens stiffened, his hands were learning, and sixty years of practice let him sew by touch. In the dark, eyes stop mattering and the old man's skill becomes the key. The story also hints at the unit's deep truth: young and old are not two kinds of people. The boy Rahmat once was and the girl Zoya is are the same life at different times.",
+  "epiphany": "For the parent: Rahmat cannot thread the needle because the lens in his eye has stiffened with age. This is presbyopia, and nearly everyone gets it by their mid-forties. The lens never sheds old cells. It keeps adding layers, so it gets thicker and stiffer. Zoya's young lens is soft, so she sees near things sharply. But ageing is not only losing things. While his lens stiffened, his hands were learning, and sixty years of practice let him sew by touch. In the dark, eyes stop mattering and the old man's skill becomes the key.",
   "ask": [
    "In the story, why could Rahmat Chacha not thread the needle any more? Was something wrong with the needle?",
    "Why could Zoya thread it in one try?",
@@ -783,11 +783,11 @@
      "id": "s2",
      "mins": 15,
      "do": "Play, taking turns. Read every ladder, slide and life card out loud.",
-     "say": "You climbed because you kept learning. Did you know that? Learning new things keeps an older brain busy and strong.",
+     "say": "When you land on a ladder or a slide, read it out loud. Then tell us why that habit would help or harm a body.",
      "kid": "Roll and move. Read each ladder or slide out loud. Do what the life cards say.",
      "check": {
       "t": "mcq",
-      "q": "On the board, a ladder goes from 63 to 84 for strength exercises. What do scientists know about exercise in old age?",
+      "q": "On the board, a ladder goes from 63 to 84 for doing strength exercises. What have scientists found about exercise in old age?",
       "options": [
        "It is too late to get stronger after 60",
        "Muscles can get stronger at any age, even at 90",
@@ -1299,15 +1299,15 @@
     },
     {
      "t": "mcq",
-     "p": "Why might people say 'young and old are one life seen at different times'?",
+     "p": "Grandma's outer skin was made in the last few weeks. The middle of her eye lens was made before she was born. What does this show?",
      "opts": [
-      "Every elder was once a child, and every child can become an elder",
-      "Children and elders have the same body size",
-      "Elders never change",
-      "Children never grow"
+      "One body has parts of many different ages",
+      "Skin is never replaced",
+      "The eye lens is replaced every week",
+      "Grandma's body is all new"
      ],
      "a": 0,
-     "why": "The same person passes through every stage. The difference between a child and an elder is time, not kind."
+     "why": "Skin is replaced again and again, but the lens keeps its oldest cells all life. So one body holds parts that are a few weeks old and parts older than the person."
     },
     {
      "t": "write",
@@ -1388,7 +1388,7 @@
    "mins": 20,
    "days": 1,
    "question": "Does skin spring back more slowly as people get older?",
-   "predict": "Before you start, guess. Whose skin will flatten fastest after a gentle pinch? Line up the people you will test, from the one you think is fastest to the one you think is slowest.",
+   "predict": "Before you start, guess. Whose skin will go flat fastest after a gentle pinch? Line up the people you will test, from the one you think is fastest to the one you think is slowest. Why do you think so?",
    "fair_test": "To make it fair, keep everything the same except the person's age. Pinch the same place, the back of the hand. Pinch for the same time, 3 seconds. Keep the hand flat on the table. Test each person 3 times, because one try can be a fluke.",
    "results_table": [
     "Person",
@@ -1470,8 +1470,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Ask your child to guess, and to line up the people from fastest to slowest.",
-     "say": "Inside our skin are springy threads, like the springs in a mattress. Let's find out if they stay as springy all life. First, guess. Whose skin will snap back fastest?",
-     "kid": "Skin has springy threads inside. Guess whose skin will spring back fastest. Line up everyone, fastest to slowest.",
+     "say": "We will gently pinch the skin on the back of a hand, let go, and count until it goes flat. Whose skin do you think will go flat fastest? Why do you think so?",
+     "kid": "We will pinch skin gently and see how fast it goes flat. Guess whose skin is fastest. Line everyone up, fastest to slowest. Say why.",
      "context": "This is the first step of the snap-back skin test. Here you guess what will happen before testing."
     },
     {
@@ -1489,7 +1489,7 @@
      "do": "1. Test each person 3 times on the back of the hand. 2. Time from letting go until the skin is flat. 3. Write each time in the table.",
      "say": "Ready, pinch, one, two, three, let go. Watch the little ridge of skin. Say stop when it is flat.",
      "kid": "Ask first. Pinch for three seconds. Let go. Count until the skin is flat. Write the number. Do it 3 times.",
-     "parent": "Young skin goes flat almost at once, so write 'less than 1 second'. Older skin can stay up for several seconds. Drinking little water can also slow it down, so it is not a perfect test.",
+     "parent": "Young skin goes flat almost at once, so write 'less than 1 second'. Skin of people over 60 can stay up for a few seconds. Between a child and a parent of 35 there may be almost no difference, so test an elder if you can, such as a grandparent or an older neighbour. Drinking little water can also slow it down, so it is not a perfect test.",
      "context": "This is the main step of the snap-back skin test. You test each person 3 times and write down the seconds."
     },
     {
@@ -1500,7 +1500,7 @@
      "kid": "Put the 3 numbers in order. The middle one is the one we use.",
      "check": {
       "t": "mcq",
-      "q": "In the skin test, Nani's tries took 2, 5 and 3 seconds. What is the middle value?",
+      "q": "Arjun, a boy in Class 3, did the skin test with his Nani, his mother's mother. Her three tries took 2, 5 and 3 seconds. What is the middle value?",
       "options": [
        "2 seconds",
        "3 seconds",
@@ -1516,8 +1516,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but Nani's took 3 seconds. Why: older skin has fewer springy threads inside.",
      "context": "This is the last step of the snap-back skin test. Your child explains the result."
     }
@@ -1529,8 +1529,8 @@
    "mins": 20,
    "days": 1,
    "question": "Does the closest distance at which people can read clearly change with age?",
-   "predict": "Before you start, guess. Who in your family can read tiny print closest to their nose? Who will need it furthest away?",
-   "fair_test": "To make it fair, use the same card with the same tiny print for everyone. Test in the same bright room. Each person covers the same eye, or uses both eyes every time. Anyone who wears reading glasses takes them off. Test each person 3 times.",
+   "predict": "Before you start, guess. Who in your family can read tiny print closest to their nose? Who will need it furthest away? Why do you think so?",
+   "fair_test": "To make it fair, use the same card with the same tiny print for everyone. Test in the same bright room. Everyone uses both eyes. Someone who wears reading glasses only for reading takes them off. Someone who wears glasses all day for seeing far keeps them on. Test each person 3 times, because one try can be a fluke.",
    "results_table": [
     "Person",
     "Age (years)",
@@ -1541,16 +1541,16 @@
    ],
    "materials": [
     {
-     "item": "a card with a line of tiny print, like the small writing on a medicine box or a printed line in very small letters",
+     "item": "a card or medicine packet with a line of very small print. Use the same one for everyone.",
      "qty": 1
     },
     {
-     "item": "a ruler or measuring tape in centimetres",
+     "item": "a 30 cm school ruler or a tailor's tape. For longer distances, hold a piece of string from cheek to card, then measure the string.",
      "qty": 1,
      "buy": "b-tape"
     },
     {
-     "item": "3 to 5 people of different ages",
+     "item": "3 to 5 people of different ages. A child and one grown-up over 40 is enough to see a difference.",
      "qty": 4
     },
     {
@@ -1591,7 +1591,7 @@
       "emoji": "🧔"
      },
      {
-      "label": "Grandparent, 68",
+      "label": "Grandparent, 58",
       "value": 60,
       "emoji": "👵"
      }
@@ -1616,8 +1616,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Ask your child to guess who can read tiny print closest.",
-     "say": "Inside each eye is a clear bendy part called the lens. It changes shape to focus on near things. Let's find out if it bends as well at every age. First, guess.",
-     "kid": "Your eye has a bendy lens inside. It helps you see near things. Guess who can read closest.",
+     "say": "Some grown-ups hold a phone far away to read it. Let's measure how close each person in our family can hold tiny print and still read it. Who do you think can hold it closest? Who will need it furthest away? Why do you think so?",
+     "kid": "Some grown-ups hold a phone far away to read it. Guess who can read tiny print closest to their nose. Say why.",
      "context": "This is the first step of the near point test. You guess who can read tiny print closest to their face."
     },
     {
@@ -1626,7 +1626,7 @@
      "do": "1. The person holds the card at arm's length. 2. They bring it slowly towards their face. 3. When the letters blur, they move it back a little until it is just sharp. 4. Measure from cheekbone to card. 5. Repeat 3 times for each person.",
      "say": "Bring it closer, slowly. Tell me the moment the letters go fuzzy. Now move it back just until they are sharp. Hold still while I measure.",
      "kid": "Hold the card far away. Bring it closer slowly. Stop when the letters go fuzzy. Move it back until sharp. Measure.",
-     "parent": "Children often reach 7 to 10 centimetres. People over 45 without reading glasses often need 30 centimetres or more. If an elder cannot see the print sharply even at arm's length, write 'more than arm's length'.",
+     "parent": "Children often reach 7 to 10 centimetres. People over 45 without reading glasses often need 30 centimetres or more. If an elder cannot see the print sharply even at arm's length, write 'more than arm's length'. A short-sighted person without their glasses can read very close at any age. That is why they keep their glasses on.",
      "context": "This is the main step of the near point test. You measure how close each person can hold tiny print and still read it."
     },
     {
@@ -1637,7 +1637,7 @@
      "kid": "Look at your bars. What happens as people get older?",
      "check": {
       "t": "mcq",
-      "q": "In the near point test, a grandmother of 68 needed the card 60 centimetres away. A child of 8 could read it at 8 centimetres. Why?",
+      "q": "In the near point test, a grandmother of 58 needed the card 60 centimetres away. A child of 8 could read it at 8 centimetres. Why?",
       "options": [
        "The grandmother's eye lens has got stiffer, so it cannot focus on near things",
        "The grandmother's eyes have got smaller",
@@ -1653,7 +1653,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Ask your child to say or write three sentences: what I think, what I saw, why.",
-     "say": "Finish like a scientist. What do you think now? What did you see? Why do you think it happened?",
+     "say": "Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Dadaji needed 60 centimetres. Why: the lens in his eye has got stiff, so it cannot focus up close.",
      "context": "This is the last step of the near point test. Your child explains what they found."
@@ -1666,7 +1666,7 @@
    "mins": 20,
    "days": 1,
    "question": "Can younger people hear higher sounds than older people?",
-   "predict": "Before you start, guess. Who will hear the highest sound? Will anyone hear sounds the others cannot?",
+   "predict": "Before you start, guess. Who will hear the highest sound? Will anyone hear sounds the others cannot? Why do you think so?",
    "fair_test": "To make it fair, play every sound from the same speaker, at the same quiet volume, from the same distance. Everyone sits in the same quiet room. Each person raises a hand when they hear a sound, without looking at the screen.",
    "results_table": [
     "Person",
@@ -1747,7 +1747,7 @@
      "do": "1. Open an online tone generator. 2. Set the volume low. 3. Set it to 4,000 hertz, a medium-high beep.",
      "say": "Sounds can be low, like a drum, or high, like a whistle. How high a sound is, is measured in hertz. Let's see who can hear the highest sounds.",
      "kid": "Fetch a grown-up for this test. Sounds can be low or high. We will play higher and higher beeps.",
-     "parent": "Hertz means how many times a second the air shakes. 4,000 hertz is a sharp beep. Young children can often hear up to about 17,000 hertz. Many older people hear only up to 8,000 to 10,000.",
+     "parent": "Hertz means how many times a second the air vibrates, or shakes back and forth. 4,000 hertz is a sharp beep. Young children can often hear up to about 17,000 hertz or more. Many older people hear only up to 8,000 to 10,000.",
      "context": "This is the first step of the high sound test. A grown-up gets the tone generator ready."
     },
     {
@@ -1768,7 +1768,7 @@
      "kid": "Who heard the highest beep? Why might older ears miss it?",
      "check": {
       "t": "mcq",
-      "q": "In the high sound test, the child heard 15,000 hertz but the grandfather did not. What is the best reason?",
+      "q": "Priya, a girl in Class 3, played beeps to her family. She heard a beep of 15,000 hertz. Her grandfather did not. What is the best reason?",
       "options": [
        "The tiny hair cells for high sounds wear out first as we age",
        "The grandfather was not listening",
@@ -1784,7 +1784,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Ask your child to say or write three sentences: what I think, what I saw, why.",
-     "say": "Finish like a scientist. What do you think? What did you see? Why?",
+     "say": "Now tell me three things. What do you think? What did you see? Why?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but Nana only heard up to 8,000. Why: the hair cells for high sounds in his ears have worn out over the years.",
      "context": "This is the last step of the high sound test. Your child explains what they found."
@@ -1824,7 +1824,7 @@
      "caption": "1. Lay hands of different ages side by side."
     },
     {
-     "art": "A child looking closely at a grandmother's hand with a magnifying glass, seeing soft lines and veins.",
+     "art": "A child looking closely at a grandmother's hand, seeing soft lines and veins.",
      "caption": "2. Look closely. What do you notice?"
     },
     {
@@ -2029,7 +2029,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a pair of thick gloves, like gardening gloves or woollen gloves",
+     "item": "a pair of thick socks or woollen gloves to wear on the hands",
      "qty": 1
     },
     {
@@ -2041,7 +2041,7 @@
      "qty": 5
     },
     {
-     "item": "an old pair of sunglasses with a little petroleum jelly smeared on them, or wax paper to look through",
+     "item": "an old pair of sunglasses with a little petroleum jelly smeared on them, or a piece of butter paper to look through",
      "qty": 1
     }
    ],
@@ -2050,15 +2050,15 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Try everyday tasks wearing thick gloves and smeared glasses. Then think about how to help."
+     "what": "Try everyday tasks with socks on your hands and smeared glasses. Then think about how to help."
     }
    ],
    "record": "Write which task was hardest, and one idea to make it easier for an elder.",
-   "context": "This is an empathy activity. You wear thick gloves and smeared glasses to feel a little of what stiff fingers and older eyes can be like, then think of ways to help.",
+   "context": "This is an empathy activity. You wear thick socks on your hands and smeared glasses to feel a little of what stiff fingers and older eyes can be like, then think of ways to help.",
    "setup": [
     {
-     "art": "A child sitting at a table wearing thick woollen gloves, trying to pick up a coin.",
-     "caption": "1. Put on thick gloves. Try to pick up coins."
+     "art": "A child sitting at a table wearing thick socks on both hands, trying to pick up a coin.",
+     "caption": "1. Put thick socks on your hands. Try to pick up coins."
     },
     {
      "art": "The same child in gloves struggling to do up a shirt button.",
@@ -2073,9 +2073,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Time how long it takes to pick up 5 coins without gloves, then with gloves. 2. Try to do up 3 buttons with gloves on. 3. Sitting down, try to read small print through smeared glasses.",
+     "do": "1. Time how long it takes to pick up 5 coins with bare hands, then with socks on your hands. 2. Try to do up 3 buttons with the socks on. 3. Sitting down, try to read small print through the smeared glasses.",
      "say": "As people get older, fingers can get stiff, and touch can feel less sharp. Eyes can get blurry for close things. This is a small taste of that. It is not a game to laugh at elders. It is a way to understand them.",
-     "kid": "Pick up coins without gloves. Then with gloves. Try buttons in gloves. Sit down and look through the smeared glasses.",
+     "kid": "Pick up coins with bare hands. Then with socks on your hands. Try buttons with socks on. Sit down and look through the smeared glasses.",
      "context": "This is the first step of In Their Shoes. You try tasks in thick gloves and smeared glasses."
     },
     {
@@ -2096,14 +2096,14 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "In this activity, you wore thick gloves. Which change in older bodies were the gloves a model of?",
+      "q": "In this activity, you wore thick socks on your hands. Which change in older bodies were the socks a model of?",
       "options": [
        "Stiffer joints and less sharp touch in the fingers",
        "Growing taller",
        "Hearing high sounds less well"
       ],
       "a": 0,
-      "why": "The gloves made your fingers clumsy and less able to feel, a bit like stiff joints and duller touch in some elders' hands. They are not a model of height or hearing. The smeared glasses were the model of older eyes."
+      "why": "The socks made your fingers clumsy and less able to feel, a bit like stiff joints and duller touch in some elders' hands. They are not a model of height or hearing. The smeared glasses were the model of older eyes."
      },
      "parent": "Gently point out that many elders are proud and capable. Good help means asking first, 'Would you like help?'",
      "context": "This is the last step of In Their Shoes. You think of ways to help elders."
@@ -2370,7 +2370,7 @@
    "id": "c1",
    "title": "Design an Elder-Friendly Room",
    "mins": 30,
-   "problem": "An elder is coming to stay. Their eyes find small things blurry, their knees are stiff, their hearing is soft and their bones break easily in a fall. Design a room that keeps them safe and happy.",
+   "problem": "An elder is coming to stay. Small things look blurry to them, their knees are stiff, they hear quiet sounds less well, and their bones break easily in a fall. Design a room that keeps them safe and happy.",
    "constraints": [
     "Use a shoebox, cardboard and paper to make a model, or draw a plan.",
     "You must solve at least four problems: seeing, hearing, walking and getting up.",
@@ -2478,7 +2478,7 @@
    "creative": [
     "Wrap a belt around the lid and pull the end. The longer handle turns the lid with less force, like a lever.",
     "Put a wooden spoon handle through a rubber band around the lid, and turn the spoon like a spanner.",
-    "Ask: which of your inventions would work best for hands with stiff, sore joints?"
+    "Hold a metal lid under warm tap water for a minute. Metal grows very slightly bigger when warm, so the lid loosens."
    ],
    "your_turn": "Now invent your own jar opener. Draw it, make it and test it. Give the best one to an elder you know.",
    "context": "This is an engineering challenge. You invent ways to open a tight jar lid with less grip, to help elders whose hands have got weaker with age.",
@@ -2606,9 +2606,9 @@
   },
   {
    "t": "mcq",
-   "p": "Grey hair is really…",
+   "p": "Why does an elder's hair look grey from far away?",
    "opts": [
-    "A mix of white hairs with no colour and some dark hairs",
+    "It is a mix of white hairs with no colour and some dark hairs",
     "Dark hair covered in dust",
     "Hair that turned grey overnight",
     "Hair dyed by the sun"
@@ -2619,12 +2619,12 @@
   },
   {
    "t": "mcq",
-   "p": "In the snap-back skin test, a child's skin went flat in less than 1 second and a grandparent's took 3 seconds. Why?",
+   "p": "Meera, a girl in Class 3, gently pinched the skin on the back of her own hand. It went flat in less than 1 second. Her grandmother's skin took 3 seconds. Why?",
    "opts": [
     "Older skin has fewer springy threads inside",
-    "The grandparent was pinched harder",
-    "Children's skin is made of rubber",
-    "The grandparent's hand was moving"
+    "The grandmother was pinched harder",
+    "Children's skin has no threads in it",
+    "The grandmother's hand was moving"
    ],
    "a": 0,
    "why": "Collagen and elastin threads make skin springy, and older skin has fewer. In a fair test, everyone is pinched the same way, so the pinch was not the cause.",
@@ -2656,7 +2656,7 @@
   },
   {
    "t": "mcq",
-   "p": "To make the skin test a fair test, what must stay the same for everyone?",
+   "p": "In the skin test, you pinch the back of a hand and count how long the skin takes to go flat. To make it fair, what must stay the same for everyone?",
    "opts": [
     "The place pinched and how long it is pinched",
     "The person's age",
@@ -2884,8 +2884,8 @@
    "a": "He wanted the news to come from a long way off!"
   },
   {
-   "j": "What did the milk tooth say to the new tooth?",
-   "a": "It's your turn to take a bite of life."
+   "j": "What did Nana say when he could not read the menu?",
+   "a": "My arms have grown too short!"
   },
   {
    "j": "Why don't babies play hide and seek?",
@@ -2916,8 +2916,8 @@
    "a": "It had lasted four whole months!"
   },
   {
-   "j": "Why was the baby's head so big?",
-   "a": "It had to fit in all that learning."
+   "j": "Why is a baby's head so big for its body?",
+   "a": "Its brain got a head start."
   },
   {
    "j": "Why did Nani's reading glasses go to school?",
@@ -2944,12 +2944,8 @@
    "a": "Follow me, I know where the fish are!"
   },
   {
-   "j": "Why don't elders ever get lost in stories?",
-   "a": "They wrote half of them."
-  },
-  {
-   "j": "How does a baby measure its growth?",
-   "a": "In giggles per centimetre."
+   "j": "Why did the Greenland shark say no to a birthday cake?",
+   "a": "272 candles would melt the sea ice."
   },
   {
    "j": "Why did the knee join a yoga class?",
@@ -2958,10 +2954,6 @@
   {
    "j": "What did the needle say to the old tailor?",
    "a": "You don't need to see me. Your fingers already know me."
-  },
-  {
-   "j": "Why are cells so good at teamwork?",
-   "a": "There are 37 trillion of them, and they all pitch in."
   }
  ],
  "maths": [
@@ -2993,7 +2985,7 @@
    "why_maths": "Saying '6 times further' tells us how much the eye has changed, not just that it changed."
   },
   {
-   "problem": "In the snap-back skin test, Dadi's three tries took 4 seconds, 2 seconds and 3 seconds. What is the middle value?",
+   "problem": "Riya, a girl in Class 3, did the skin test with her Dadi, her father's mother. Dadi's three tries took 4 seconds, 2 seconds and 3 seconds. What is the middle value?",
    "answer": "3 seconds.",
    "explain": "Put the numbers in order, smallest first: 2, 3, 4. The number in the middle is 3. So the middle value is 3 seconds.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -3053,7 +3045,7 @@
    "math_unit": "math.division.sharing-and-grouping.L3",
    "context": "This is about the Sticky-Note Body, where you swapped paper 'cells' at different speeds. Blood notes were swapped every 4 months.",
    "how": "a5",
-   "why_maths": "Dividing shows how fast the body renews itself, even though we never feel it."
+   "why_maths": "Dividing shows how fast the body renews itself, even though we do not notice it."
   }
  ],
  "song": {
@@ -3119,46 +3111,13 @@
    "id": "b-tape",
    "item": "A soft measuring tape in centimetres",
    "kind": "tool",
-   "why": "Used to measure the near point in the near point test, and heights for the life line.",
+   "why": "Used to measure the near point in the near point test, and heights for the life line. A school ruler and a piece of string also work.",
    "url": "https://www.amazon.in/s?k=measuring+tape+tailor+cm",
    "used_in": [
     "e2",
     "a6"
    ],
    "plan": "Used again in Body Parts L3 and in maths units on length."
-  },
-  {
-   "id": "b-magnifier",
-   "item": "A magnifying glass",
-   "kind": "tool",
-   "why": "For looking closely at skin, hair and hands in Hands Across Time.",
-   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
-   "used_in": [
-    "a1"
-   ],
-   "plan": "Used in many science units for looking closely."
-  },
-  {
-   "id": "b-gloves",
-   "item": "A pair of thick gardening gloves",
-   "kind": "material",
-   "why": "Used in In Their Shoes to feel what stiff fingers can be like.",
-   "url": "https://www.amazon.in/s?k=gardening+gloves",
-   "used_in": [
-    "a4"
-   ],
-   "plan": "Can be used afterwards for real gardening."
-  },
-  {
-   "id": "b-jar",
-   "item": "A rubber jar opener grip",
-   "kind": "tool",
-   "why": "To compare with the child's own inventions in the Easy-Open Jar challenge, and then give to an elder.",
-   "url": "https://www.amazon.in/s?k=rubber+jar+opener+grip",
-   "used_in": [
-    "c2"
-   ],
-   "plan": "Give it to an elder at the end of the challenge."
   },
   {
    "id": "b-book1",
@@ -3224,6 +3183,7 @@
   "default_order": [
    "intro",
    "a1",
+   "e2",
    "story",
    "summary",
    "terms",
@@ -3231,7 +3191,6 @@
    "explanations",
    "roots",
    "g1",
-   "e2",
    "a5",
    "videos",
    "ws-core",
@@ -3254,8 +3213,8 @@
   ],
   "core": [
    "a1",
-   "e1",
    "e2",
+   "e1",
    "g1",
    "a5",
    "a2",
@@ -3264,8 +3223,8 @@
   "spine": [
    "intro",
    "a1",
+   "e2",
    "story",
-   "e1",
    "explanations",
    "roots",
    "quiz"
@@ -3297,22 +3256,24 @@
    "Zhang et al. (Ya-Chieh Hsu's lab), Nature 2020 (stress depletes hair pigment stem cells in mice)",
    "Sorrells et al., Nature 2018 and Boldrini et al., Cell Stem Cell 2018 (the debate about new brain cells in adults)",
    "Medawar, An Unsolved Problem of Biology, 1952; Williams, Evolution 1957 (evolutionary theories of ageing)",
-   "Census of India 1951 and Sample Registration System life tables (life expectancy in India)"
+   "Census of India 1951 and Sample Registration System life tables (life expectancy in India)",
+   "Strenk, Strenk and Koretz, Experimental Eye Research 2005 (the lens grows thicker and stiffer all life; presbyopia)",
+   "Hayflick, Experimental Cell Research 1965, and Witkowski, Medical History 1980 (Carrel's 'immortal' chicken heart cells)"
   ]
  },
  "roots": {
   "context": "We have been learning how a body changes over a whole life, from baby to elder. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Young and old are not two kinds of people. They are one life, seen at different times.",
-   "habit": "We sort people into 'children' and 'old people' as if they were different kinds of being. We also think of a body as one fixed thing. But every elder was a baby, every child is an elder on the way, and the body is rebuilt all the time while the person carries on.",
-   "evidence": "Your body makes about 4 million new cells every second, yet some cells, like those in the middle of your eye lens, have been with you since before you were born."
+   "truth": "Your skin and blood are replaced again and again, but your eye lens never throws a cell away. It keeps adding new layers around the old ones, so it grows thicker and stiffer every year. That is why the near point test found older people holding print further away. So some ageing comes from what a body keeps, like the old cells in the lens.",
+   "habit": "We think of ageing as a body wearing out, like an old chappal. The lens shows another way: it gets older because it keeps every cell it has ever made.",
+   "evidence": "In the near point test, a child reads tiny print at about 8 centimetres, while many people over 45 need 30 centimetres or more. The cells in the middle of the lens were made before birth, and the lens keeps growing all life."
   },
   "three": {
-   "who_am_i": "You are not your size, your skin or your hair. Those all change. Something in you stays and watches them change.",
-   "what_is_life": "Life is a flow, not a thing. A body is always being taken apart and rebuilt, from birth to its end.",
-   "what_is_this_world": "In this world, everything has stages: seeds, mountains, stars and people. Nothing stays exactly the same."
+   "who_am_i": "Your size, skin and hair all change over your life. Some parts of you, like the middle of your eye lens, have been with you since before you were born.",
+   "what_is_life": "A living body is always making new cells and clearing away old ones, from birth to the end of its life.",
+   "what_is_this_world": "Seeds, trees, rivers and people all change through stages. Nothing in the world stays exactly the same."
   },
-  "thread": "A body seems like one solid thing. But it is more like a river. New cells flow in and old ones flow out, every second, all your life. Babies become elders, and elders' atoms return to the soil to become plants and new life. DeepKids believes this is the One showing up as many: many stages, many faces, many lives, all one flowing life. The grandmother and the grandchild are that one life meeting itself.",
+  "thread": "A body is always being taken apart and built again. Food brings in new atoms, and old cells are broken down and carried away. Skin, blood and gut are renewed again and again, while the eye lens and most brain cells stay. When a body dies, its atoms return to the soil and air and become part of plants and other living things. So the atoms in a grandmother and in her grandchild came from the same soil, water and air, and will go back to them.",
   "teachings": [
    {
     "source": "Bhagavad Gita 2.13",
@@ -3327,7 +3288,7 @@
    {
     "source": "Ecclesiastes 3:1–2, in the Hebrew Bible",
     "teaching": "There is a time for everything. A time to be born and a time to die. A time to plant and a time to harvest.",
-    "link": "Every life has its stages, in order. Each stage has its own work and its own beauty."
+    "link": "Every life has its stages, in order, and each stage has its own work: babies learn to walk, elders teach and remember."
    }
   ],
   "science": [
@@ -3347,8 +3308,8 @@
   "practice": {
    "title": "Hands across time",
    "mins": 3,
-   "say": "Let's put our hands flat on the table, side by side. Look at your hand. Now look at mine. Close your eyes and breathe in slowly. Picture your hand as a tiny baby's hand, curled up. Breathe out. Now picture it as an old person's hand, with soft lines and spots. Breathe in. It is the same hand. Open your eyes. Who is looking out through your eyes, at all these hands?",
-   "kid": "Put your hand flat on the table. Look at it. Close your eyes and breathe slowly. Picture it as a baby's hand. Now picture it very old and wrinkled. It is the same hand. Who is the one looking?"
+   "say": "Let's put our hands flat on the table, side by side. Look at your hand. Now look at mine. Close your eyes and breathe in slowly. Picture your hand as a tiny baby's hand, curled up. Breathe out. Now picture it as an old person's hand, with soft lines and spots. Breathe in. It is the same hand. Open your eyes. Your hand will change for the rest of your life. Will the one looking at it change too?",
+   "kid": "Put your hand flat on the table. Look at it. Close your eyes and breathe slowly. Picture it as a baby's hand. Now picture it very old and wrinkled. It is the same hand. Will the one looking at it change too?"
   },
   "ask": [
    "If all your cells change, what is it that stays 'you'?",
@@ -3356,6 +3317,12 @@
    "What do you think you will know when you are 80, that you do not know now?",
    "When an old tree falls and becomes soil for new trees, has it ended, or changed?"
   ],
-  "art": "A child's hand and a grandmother's hand resting palm to palm, with a faint river of tiny glowing cells flowing from one into the other."
+  "art": "A child's hand and a grandmother's hand resting side by side, with a zoomed-in circle showing the layers of an eye lens, like the rings of an onion."
+ },
+ "how_we_found_out": {
+  "story": "In 1912, the French surgeon Alexis Carrel began growing cells from a chicken embryo's heart in a glass dish. He fed them a juice made from crushed chicken embryos. He said the cells kept splitting and growing for more than 30 years, longer than a chicken lives. So most scientists came to believe that cells, kept in a dish, could live for ever. Ageing, they thought, came from the body around the cells, not from the cells. In 1961, Leonard Hayflick and Paul Moorhead in Philadelphia grew human cells. Their cells always slowed and stopped after about 40 to 60 splits. Many scientists thought they had made a mistake. So they mixed old cells from a man with young cells from a woman, in the same dish. The old male cells stopped first, while the young female cells kept splitting. So the dish was not to blame. The cells were counting their own splits. Many scientists now think fresh living cells came into Carrel's dishes with the embryo juice.",
+  "who": "Alexis Carrel, a French surgeon, and Leonard Hayflick and Paul Moorhead, two American scientists",
+  "when": "1912 to 1961",
+  "wrong_idea": "Cells kept in a dish can split for ever, so ageing comes only from the body around them. Hayflick and Moorhead showed that human cells stop after about 40 to 60 splits, even in a dish."
  }
 }
