@@ -12503,8 +12503,8 @@ function historyView() {
 }
 const JR = {
   high: "Highlights",
-  board: "Against the board",
-  beyond: "Beyond the board",
+  board: "Syllabus progress",
+  beyond: "Beyond the syllabus",
   diary: "Learning diary",
   numbers: "Numbers",
 };
@@ -12540,7 +12540,7 @@ function jPart(p) {
   if (p === "board") {
     const bs = boardsOn();
     if (bs.length)
-      h += `<section class="sec"><div class="sech"><h3>Against the board</h3><span class="xs muted">school year from ${fmt(AY0())}</span></div>${bs
+      h += `<section class="sec"><div class="sech"><h3>${JR.board}</h3><span class="xs muted">school year from ${fmt(AY0())}</span></div>${bs
         .map((b) => {
           const R = S.subjects.map((s) => ({ s, r: boardRows(s, b) })).filter((x) => x.r);
           if (!R.length) return "";
@@ -12551,7 +12551,7 @@ function jPart(p) {
   if (p === "beyond") {
     const beyond = S.log.filter((l) => l.key.startsWith("dk|") || l.kind === "free"),
       bk = [...new Set(beyond.map((l) => l.title))];
-    h += `<section class="sec"><div class="sech"><h3>Beyond the board</h3></div><div class="card">${bk.length ? `<div class="row">${bk.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>` : `<p class="sm muted">DeepKids Plus topics and things you explore freely show up here.</p>`}<p class="xs muted">${S.exps.filter((e) => e.closed).length} experiments finished · ${quotes().length} big-question answers recorded</p></div></section>`;
+    h += `<section class="sec"><div class="sech"><h3>${JR.beyond}</h3></div><div class="card">${bk.length ? `<div class="row">${bk.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>` : `<p class="sm muted">DeepKids Plus topics and things you explore freely show up here.</p>`}<p class="xs muted">${S.exps.filter((e) => e.closed).length} experiments finished · ${quotes().length} big-question answers recorded</p></div></section>`;
   }
   if (p === "diary") {
     h += `<section class="sec"><div class="sech"><h3>Learning diary</h3></div><div class="card diary">${
@@ -12767,7 +12767,7 @@ function jsubView() {
   const dk = x.us.filter((u) => u.board === "dk" && st(u.k) !== "none"),
     fr = [...new Set(logs.filter((l) => l.kind === "free").map((l) => l.title))];
   if (dk.length || fr.length)
-    h += `<section class="card"><h3 style="font-size:19px">Learned beyond the board</h3><div class="row">${[...dk.map((u) => u.title), ...fr].map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div></section>`;
+    h += `<section class="card"><h3 style="font-size:19px">Learned beyond the syllabus</h3><div class="row">${[...dk.map((u) => u.title), ...fr].map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div></section>`;
   h += `<section class="sec"><div class="sech"><h3>Every topic</h3><span class="xs muted">tap for details</span></div><div class="col" style="gap:8px">${x.us
     .map((u) => {
       const cs = coverage(u),
@@ -12816,7 +12816,7 @@ function viewJourney0() {
       ? [
           [
             "board",
-            "Against the board",
+            JR.board,
             "What's done and what's due",
             blob("var(--sky)", 13, "calm", "", 'width="40" height="40"'),
           ],
@@ -12824,8 +12824,8 @@ function viewJourney0() {
       : []),
     [
       "beyond",
-      "Beyond the board",
-      "Plus topics and free exploring",
+      JR.beyond,
+      "Extra topics and free exploring",
       blob("var(--gum)", 7, "happy", "", 'width="40" height="40"'),
     ],
     [
