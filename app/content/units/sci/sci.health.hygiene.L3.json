@@ -9,7 +9,7 @@
  ],
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home with the materials listed. The haldi test says to score clumps of powder, not the faint yellow dye haldi leaves on skin, and to wash fully between rounds so each round starts fresh. The jar test gives amounts, says the plain jar separates in 1 to 3 minutes, and says to stop at 10 minutes and write 'more than 600 seconds' if the soapy jar is still cloudy. Bar soap flakes work but slowly. The bread test says packet bread with preservatives can take 10 days or more, so bakery bread or pav is better, and that a mouldy soap slice is a real result to talk about. The bags are never opened. The reetha activity says to soak the shells at least 15 minutes beforehand, and what to do if they have not soaked long. The tippy-tap hangs by a taped string round its middle, three-quarters full, with the foot string on its neck, so it really tips. The Sneeze Catcher uses food colour or ink, because haldi blocks a spray nozzle. The timeline lets children write words instead of drawing all 8 cards, so it fits 25 minutes. The still-water check works in a flat: trays, buckets and coolers are scrubbed as well as emptied, because some mosquito eggs stick to the sides. The pepper test and the animal-watching activity were taken out, because they were about other ideas (surface tension, animal grooming) and broke the unit's one thread: germs ride on hands, and soap lifts them off. Parents should know: the bread test runs for a week, the haldi stains clothes and towels, reetha stings in the eyes, and the private-parts card is short and plain about body safety. The Semmelweis card and chart say honestly that mothers died; read it first and tell it calmly.",
  "summary": {
-  "text": "Plain water runs off an oily hand and leaves the dirt behind. Germs, the few microbes that can make us ill, sit in that thin layer of skin oil. A soap molecule holds oil at one end and water at the other, so the rinse carries the oil away, and the germs go with it. Most of those germs go down the drain still alive, far from your mouth. So washing with soap at the right moments, such as before food and after the toilet, stops germs passing from hand to mouth and from person to person.",
+  "text": "Plain water runs off an oily hand and leaves the dirt behind. Germs, the few microbes that can make us ill, sit in that thin layer of skin oil. A soap molecule holds oil at one end and water at the other. So the rinse water carries the oil away, and the germs go with it. Most of those germs go down the drain still alive, far from your mouth. Washing with soap before food and after the toilet stops germs passing from hand to mouth, and from person to person.",
   "art": "A child's soapy hands under a running tap, with a zoomed-in circle showing two-ended soap molecules wrapping a blob of oil with a germ inside, being carried off in the water towards the drain."
  },
  "intro": {
@@ -252,7 +252,7 @@
    "concept": "Caring for the outside of your body",
    "status": "defined",
    "definition": "Dirt and germs collect in different places on the body, and each part has its own way of being kept clean.",
-   "description": "Bathe every day, or at least often, to wash away sweat, dead skin and visitor germs. Brush your teeth twice a day, morning and night. Bacteria in the mouth turn sugar left on teeth into acid, and the acid makes holes. Keep nails short and clean, because dirt and germs hide under them. Wash and comb hair, and check for lice, tiny insects that anyone can get. Never poke anything inside your ears. Earwax cleans itself out. Do not rub your eyes with dirty hands. Blow your nose into a hanky or tissue, then wash your hands. Wear chappals outside, because some worm larvae in dirty soil can get in through bare feet. Your private parts, the parts covered by underwear, are kept clean and private. Your body belongs to you. If any touch feels wrong, say no, get away, and tell a grown-up you trust.",
+   "description": "Bathe every day, or at least often, to wash away sweat, dead skin and visitor germs. Brush your teeth twice a day, morning and night. Bacteria in the mouth turn sugar left on teeth into acid, and the acid makes holes. Keep nails short and clean, because dirt and germs hide under them. Wash and comb hair, and check for lice, tiny insects that anyone can get. Never poke anything inside your ears. Your ears clean themselves, because earwax slowly moves out on its own. Do not rub your eyes with dirty hands. Blow your nose into a hanky or tissue, then wash your hands. Wear chappals outside, because some worm larvae in dirty soil can get in through bare feet. Your private parts, the parts covered by underwear, are kept clean and private. Your body belongs to you. If any touch feels wrong, say no, get away, and tell a grown-up you trust.",
    "examples": [
     "A neem datun, a chewed twig, was India's toothbrush for centuries. Today dentists add fluoride toothpaste, which protects teeth from acid.",
     "Hookworm larvae in soil can enter through the skin of bare feet. Chappals stop them."
@@ -330,7 +330,7 @@
    "concept": "How we found out about germs",
    "status": "defined",
    "definition": "Germ theory says that many illnesses are caused by tiny living things passed from one person or place to another. It took hundreds of years and many people to show this.",
-   "description": "Long ago, many people thought illness came from bad smells in the air, or from bad luck. Some guessed the truth early. In 1546, an Italian doctor, Girolamo Fracastoro, wrote that diseases might spread by tiny invisible seeds. In the 1670s and 1680s, Antonie van Leeuwenhoek, a cloth-seller in the Netherlands, made his own tiny lenses. He saw 'little animals' swimming in water and in the white stuff scraped off his teeth. Nobody yet linked them to illness. In 1847, Ignaz Semmelweis showed that doctors' unwashed hands were carrying illness to mothers. In 1854, Filippo Pacini in Italy saw the cholera germ, and John Snow in London showed that cholera spread through one water pump. In the 1860s, Louis Pasteur showed that microbes come only from other microbes. Joseph Lister began cleaning wounds and tools in surgery in 1867. In 1884, Robert Koch, working in Egypt and then in Kolkata, grew the cholera germ and convinced most doctors.",
+   "description": "Long ago, many people thought illness came from bad smells in the air, or from bad luck. Some guessed the truth early. In 1546, an Italian doctor, Girolamo Fracastoro, wrote that diseases might spread by tiny invisible seeds. In the 1670s and 1680s, Antonie van Leeuwenhoek, a cloth-seller in the Netherlands, made his own tiny lenses. He saw 'little animals' swimming in water and in the white stuff scraped off his teeth. Nobody yet linked them to illness. In 1847, Ignaz Semmelweis showed that doctors' unwashed hands were carrying illness to mothers. In 1854, Filippo Pacini in Italy saw the cholera germ, and John Snow in London showed that cholera spread through one water pump. In the 1860s, Louis Pasteur showed that microbes come only from other microbes. Joseph Lister began cleaning wounds and tools in surgery in 1867. In 1884, Robert Koch, working in Egypt and then in Kolkata, grew the cholera germ and convinced many doctors.",
    "examples": [
     "Pacini described the cholera germ in 1854, thirty years before Koch. Hardly anyone noticed. Today the germ's full name includes his name: Vibrio cholerae Pacini 1854.",
     "Florence Nightingale and Mary Seacole cared for soldiers in the 1850s. Nightingale used careful counts to show that clean hospitals saved lives."
@@ -466,7 +466,7 @@
    "hint": "Think of insects and fungi that might want to eat the fruit."
   },
   {
-   "q": "Your cell walls are built like soap. Why doesn't soap wash your own cells away?",
+   "q": "The thin skin around each of your cells, its membrane, is built a little like soap. Why doesn't soap wash your own cells away?",
    "kind": "deep",
    "hint": "Think about the tough, dead top layer of your skin."
   },
@@ -606,7 +606,7 @@
     "TEST IT cards: everyone does the test together. Then the player who drew it moves ahead 1.",
     "The first germ to reach the tummy wins the race. Then everyone talks about which cards stopped germs the most.",
     "If the pile of cards runs out, shuffle the used cards and start a new pile.",
-    "Playing alone: move two germs, a red one and a blue one, taking turns. Your goal is to stop both germs reaching the tummy within 15 rolls, counting both germs' rolls together. Before you start, pick out 3 hygiene cards you choose to keep in your hand. You may play one instead of rolling, whenever a germ gets close."
+    "Playing alone: you move two germs, a red one and a blue one, one roll each in turn. Before you start, choose 3 hygiene cards to keep in your hand. When a germ gets close to the tummy, you may play one of them instead of rolling. You win if neither germ reaches the tummy in 15 rolls."
    ],
    "flow": [
     {
@@ -882,7 +882,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Brushing removes mouth bacteria that make acid. Short nails leave nowhere for germs to hide. Earwax cleans itself out, and poking can hurt the eardrum. Chappals stop worm larvae in dirty soil getting in through feet."
+     "why": "Brushing removes mouth bacteria that make acid. Short nails leave nowhere for germs to hide. Earwax moves out of the ear on its own, and poking can hurt the eardrum. Chappals stop worm larvae in dirty soil getting in through feet."
     },
     {
      "t": "mcq",
@@ -919,7 +919,7 @@
       "Spray perfume in the room",
       "Empty pots, trays, coolers and tyres of still water once a week",
       "Keep windows open at night",
-      "Leave a bucket of water out for them"
+      "Put a lid on the bucket only at night"
      ],
      "a": 1,
      "why": "Mosquito eggs take about a week to become flying mosquitoes. Emptying still water every week stops them growing up. Picking 'perfume' usually means thinking smells are the problem, as people did long ago. Mosquitoes come from water, not smells."
@@ -979,7 +979,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Look at the chart from the haldi test. The child scored how much yellow was left, from 0 (none) to 5 (all). Which way of washing worked best?",
+     "p": "Riya, a girl in Class 3, did the haldi test. She scored how much yellow was left on her hands, from 0 (none) to 5 (all). Look at her chart. Which way of washing worked best?",
      "opts": [
       "Water only, 20 seconds",
       "Soap, 5 seconds",
@@ -1029,7 +1029,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the jar test, a jar of oil and water is shaken. Within a minute, the oil floats back to the top. A second jar has soap added, and it stays cloudy for many minutes. Why?",
+     "p": "In the jar test, a jar of oil and water is shaken. In a minute or two, the oil floats back to the top. A second jar has soap added, and it stays cloudy for many minutes. Why?",
      "opts": [
       "Soap makes the oil heavier",
       "Soap molecules wrap tiny drops of oil, so they stay mixed in the water",
@@ -1153,7 +1153,7 @@
       "Yes, cold water does nothing",
       "No, cold and warm water work about the same. The soap and rubbing do the work.",
       "Yes, it must be boiling",
-      "Only on Sundays"
+      "Yes, cold water makes germs stick harder"
      ],
      "a": 1,
      "why": "In a 2017 study, cold and warm water removed germs about equally well. Picking 'boiling' mixes up washing hands with boiling drinking water. Boiling water kills germs, but it would burn your skin."
@@ -1186,7 +1186,7 @@
      "opts": [
       "The eggs need about a week in water to become flying mosquitoes, so emptying the water first stops them",
       "Mosquitoes hate empty pots",
-      "The flowers scare them",
+      "The dry soil kills the mosquitoes",
       "It doesn't stop them"
      ],
      "a": 0,
@@ -1305,7 +1305,7 @@
     },
     {
      "t": "truefalse",
-     "p": "The cell walls in your body are built from molecules with water-loving heads and oil-loving tails, like soap.",
+     "p": "The thin skin around each cell in your body, called its membrane, is built from molecules with water-loving heads and oil-loving tails, like soap.",
      "a": true,
      "why": "True. Cell membranes are two layers of such molecules, heads out and tails in. The oily coat of flu viruses is built the same way, which is why soap breaks it."
     },
@@ -1314,8 +1314,8 @@
      "p": "If soap can break a virus's oily coat, why doesn't it break the cells of your hands?",
      "opts": [
       "The top layer of your skin is made of tough, dead cells packed tightly, so soap cannot reach the living cells",
-      "Soap only works on Tuesdays",
-      "Your cells are made of metal",
+      "Soap is too weak to touch any cell",
+      "Soap washes off before it reaches them",
       "It does break them all"
      ],
      "a": 0,
@@ -1838,11 +1838,11 @@
       "q": "Why can the 'not touched' slice still grow a little mould?",
       "options": [
        "Mould spores float in the air everywhere, so some land on it anyway",
-       "The spoon was magic",
+       "The spoon carried mould onto it",
        "Bread makes mould by itself, from nothing"
       ],
       "a": 0,
-      "why": "Mould spores are in the air all around us. Some land on every slice. Picking 'bread makes mould from nothing' is what many people believed until Louis Pasteur showed, in the 1860s, that living things come only from other living things."
+      "why": "Mould spores are in the air all around us. Some land on every slice. The spoon was clean, and it touched the slice for only a moment. Picking 'bread makes mould from nothing' is what many people believed until Louis Pasteur showed, in the 1860s, that living things come only from other living things."
      }
     },
     {
@@ -2134,7 +2134,7 @@
       "q": "Why do we empty still water once a week, not once a month?",
       "options": [
        "Mosquito eggs become flying mosquitoes in about a week",
-       "Water goes bad on Sundays",
+       "Still water starts to smell after a week",
        "Once a month would be too much work"
       ],
       "a": 0,
@@ -2196,7 +2196,7 @@
      "id": "s2",
      "mins": 15,
      "do": "1. Label hair, eyes, ears, nose, mouth and teeth, hands and nails, skin, feet and private parts. 2. Next to each, write or draw one care rule. 3. Use the list in the parent note.",
-     "say": "What does each part need? For the ears, never poke inside, because earwax cleans itself out. What about teeth?",
+     "say": "What does each part need? For the ears, never poke inside, because earwax moves out on its own. What about teeth?",
      "kid": "Label each part. Next to it, write one way to care for it. Teeth? Nails? Feet?",
      "parent": "Care rules: hair, wash and comb, check for lice. Eyes, don't rub with dirty hands. Ears, never poke inside. Nose, blow into a hanky, then wash hands. Teeth, brush twice a day. Nails, keep short and clean. Skin, bathe often. Feet, wear chappals outside. Private parts: clean every day, private, and my body belongs to me. Say plainly: if any touch ever feels wrong, say no, get away and tell a trusted grown-up. It is never the child's fault."
     },
@@ -2655,7 +2655,7 @@
    "opts": [
     "Germs stick in the skin's oil, and water slides off oil",
     "Water is too cold",
-    "Germs drink the water"
+    "Water makes the germs grow"
    ],
    "a": 0,
    "why": "Water molecules hold on to each other, not to oil. So water runs over the oily layer where germs stick. Picking 'too cold' is common, but warm and cold water work about the same.",
@@ -2667,10 +2667,10 @@
    "opts": [
     "A water-loving head and an oil-loving tail",
     "Two water-loving ends",
-    "Tiny teeth that bite germs"
+    "Two oil-loving ends"
    ],
    "a": 0,
-   "why": "Its two different ends let it hold oil and water both, so water can carry oil and germs away. Picking 'tiny teeth' imagines soap as a fighter. It works more like a carrier.",
+   "why": "Its two different ends let it hold oil and water both, so water can carry oil and germs away. Picking 'two oil-loving ends' misses that soap needs one end for each, so the water can carry it away.",
    "outcome": 1
   },
   {
@@ -2745,7 +2745,7 @@
     "Pour water in every day"
    ],
    "a": 0,
-   "why": "Earwax cleans itself out. Poking can hurt the eardrum. Picking a hairpin is a common, risky habit.",
+   "why": "Earwax moves out of the ear on its own. Poking can hurt the eardrum. Picking a hairpin is a common, risky habit.",
    "outcome": 3
   },
   {
@@ -2816,7 +2816,7 @@
    "opts": [
     "Harmless or helpful",
     "Germs that make us ill",
-    "Already extinct"
+    "Found only in dirty places"
    ],
    "a": 0,
    "why": "Only a small number of microbes are germs. Many help us, the soil and the sea. Picking 'germs' is a very common belief, often from adverts.",
@@ -3207,16 +3207,6 @@
    ]
   },
   {
-   "id": "b-magnifier",
-   "item": "A hand magnifying glass",
-   "kind": "tool",
-   "why": "For looking at the mould on the bread slices through the bag, and at skin and fingerprints.",
-   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
-   "used_in": [
-    "e4"
-   ]
-  },
-  {
    "id": "b-spray",
    "item": "Plant spray bottle",
    "kind": "tool",
@@ -3247,7 +3237,7 @@
    "used_in": [
     "g1"
    ],
-   "plan": "If bought, read it after the story on day 1. It can replace the 'What germs are' card."
+   "plan": "If bought, read it after the story."
   }
  ],
  "warmup": [
@@ -3381,7 +3371,7 @@
  "roots": {
   "context": "We have been learning how soap lifts oil and germs off our hands. Now we ask what a wash really does to the living things on our hands, and what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the haldi test, plain water ran over the oily yellow and left it behind. Soap holds oil at one end and water at the other, so the rinse carried the yellow away. Most bacteria leave your hands the same way, still alive, in the rinse water. A good wash moves microbes off your hands, to a place where they cannot reach your mouth.",
+   "truth": "In the haldi test, plain water ran over the oily yellow and left it behind. A soap molecule holds oil and water at once, so the rinse carried the yellow away. Most germs leave your hands the same way, still alive, in the rinse water. A good wash moves germs to a place where they cannot reach your mouth.",
    "habit": "We talk about washing as a war that kills germs, because adverts do. A plain soap wash mostly moves microbes from one place to another, and that is enough to keep us well.",
    "evidence": "In the haldi test, the yellow went down the drain with the soapy water. Plain soap kills very few bacteria, yet tests at home found it cleans hands as well as antibacterial soap that kills them."
   },
@@ -3390,7 +3380,7 @@
    "what_is_life": "Bacteria sense what is around them and decide when to settle, swim or grow. On your hands, they live in the skin's oil.",
    "what_is_this_world": "In this world, oil and water stay apart by themselves. A soap molecule can hold on to both and join them."
   },
-  "thread": "Soap works because one molecule can hold two things that will not mix by themselves, oil and water. Your own cells are wrapped in the same kind of two-ended molecule, and so are the coats of some viruses. When you wash, your skin, its oil, the soap, the water and the microbes all meet, and all of them are made from the same few kinds of atoms. The water then carries the visitor microbes on, to the drain, the sewer and the soil, where many other microbes already live.",
+  "thread": "Soap works because one molecule can hold two things that will not mix by themselves, oil and water. Your own cells are wrapped in the same kind of two-ended molecule, and so are the coats of some viruses. The water then carries the visitor microbes on, to the drain, the sewer and the soil, where many other microbes already live.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",
@@ -3405,7 +3395,7 @@
    {
     "source": "Patanjali, Yoga Sutras 2.32",
     "teaching": "Among the five personal practices, the niyamas, the first is shaucha: cleanliness of the body and clarity of the mind.",
-    "link": "In this teaching, washing is also a way of paying attention. Washing slowly, every part of each hand, is what makes a wash work."
+    "link": "Shaucha starts with keeping the body clean, and it needs care. In the haldi test, the careful wash of every part of each hand was the one that worked."
    }
   ],
   "science": [

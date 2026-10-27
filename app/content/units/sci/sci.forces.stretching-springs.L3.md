@@ -63,7 +63,7 @@ Pull a pen spring gently and it springs back neatly. Pull it hard and it stays l
 ### Deep down: a shape is a balance of pulls · *defined*
 **Definition:** A solid keeps its shape because each atom rests where the pulls and pushes from its neighbours balance. Stretch a little and those pulls bring the atoms back. Stretch too far and rows of atoms slip, and each atom settles beside new neighbours.
 
-Zoom far into a steel spring. You find atoms in neat rows. Each atom is held to its neighbours by electric pulls called bonds. Push two atoms too close and they push apart. Pull them a little apart and they pull together. So each atom rests at the one place where the push and the pull balance. Stretching the spring moves every atom a tiny bit from that place. The further it moves, the harder the bonds pull it back. That is why a steel spring gives equal steps for equal weights. Now pull much too far. Whole rows of atoms slip past each other, like cards sliding in a pack. Each atom now holds on to new neighbours, and rests in a new balance. Let go, and nothing pulls it back to the old place. That is why the pen spring stayed long. Its atoms are the same atoms. Only which atoms hold which has changed.
+Zoom far into a steel spring. You find atoms in neat rows. Each atom is held to its neighbours by electric pulls called bonds. Push two atoms too close and they push apart. Pull them a little apart and they pull together. So each atom rests at the one place where the push and the pull balance. Stretching the spring moves every atom a tiny bit from that place. For small moves, twice the move gives twice the pull back. That is why a steel spring gives equal steps for equal weights. Now pull much too far. Whole rows of atoms slip past each other, like cards sliding in a pack. Each atom now holds on to new neighbours, and rests in a new balance. Let go, and nothing pulls it back to the old place. That is why the pen spring stayed long. Its atoms are the same atoms. Only which atoms hold which has changed.
 - e.g. Scientists often build models of solids with little balls joined by springs.
 - e.g. Bend a steel spoon a little and it springs back. Bend it hard and it stays bent, because rows of its atoms have slipped.
 - e.g. Heat makes atoms jiggle more on their bonds. That is why a metal rod gets very slightly longer when it is hot.
@@ -84,7 +84,7 @@ Think of a bowl of cooked noodles, all tangled. Pull them and they line up strai
 ### Springs: stretch springs and squash springs · *defined*
 **Definition:** A spring is a coil of springy metal wire. Some springs are made to be stretched, and some are made to be squashed. Both push or pull back when you let go.
 
-A stretch spring has its coils packed tightly together. You pull its ends apart. A squash spring has gaps between its coils. You press its ends together. The spring in a clicky pen is a squash spring. The spring inside a hanging spring balance, the kind used to weigh luggage, is a stretch spring. Making the wire into a coil lets a short piece of stiff steel stretch a long way. When the coil stretches, each part of the wire twists only a little, but all the little twists add up.
+A stretch spring has its coils packed tightly together. You pull its ends apart. A squash spring has gaps between its coils. You press its ends together. The spring in a clicky pen is a squash spring. The spring inside a hanging spring balance, the kind used to weigh luggage, is a stretch spring. A spring is a long, stiff steel wire wound into a small coil. When the coil stretches, each part of the wire twists only a little. All the little twists add up to a big stretch.
 - e.g. A clicky pen has a squash spring. It pushes the tip back in.
 - e.g. A trampoline has stretch springs all round its edge.
 - e.g. A clothes peg has a twisty spring that snaps its jaws shut.
@@ -142,7 +142,7 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
 - Earthquakes happen when bent rock underground suddenly slips and springs back. *How we know:* Scientists measured how the ground had bent before and after the 1906 San Francisco earthquake. Today GPS stations measure rock slowly bending across the Himalaya.
 
 ## How we found out
-**Robert Hooke (1635 to 1703), an English scientist. Later, Sophie Germain (1776 to 1831), a French mathematician., He found the rule around 1660, hid it in a letter puzzle in 1676, and published it in 1678..** Robert Hooke was an English scientist. Around 1660, he worked out a rule for how springs stretch. A short metal wire hardly seems to stretch at all under a weight, so the stretch is too small to measure. Hooke hung a pan for weights from a very long wire, 20 to 40 feet long, about 6 to 12 metres. Every part of the wire stretched a tiny amount, and all the tiny amounts added up to a stretch he could measure. He added equal weights, one after another. Each one made the wire longer by about the same step. He tested coiled springs, a watch spring and a strip of dry wood too. In 1676 he hid his rule in a puzzle of jumbled letters, so nobody could claim it first. In 1678 he gave the answer in Latin: 'ut tensio, sic vis'. It means 'as the stretch, so the force'. He said it works for every springy thing, from metal and stone to hair, silk, bone and glass. Later tests showed he had gone too far. Pull anything past its limit, and the steps stop being equal. Rubber follows the rule only roughly. Others built on his rule. In 1816, Sophie Germain, a French mathematician who taught herself, won a top prize for explaining how springy plates vibrate.  
+**Robert Hooke (1635 to 1703), an English scientist. Later, Sophie Germain (1776 to 1831), a French mathematician., He found the rule around 1660, hid it in a letter puzzle in 1676, and published it in 1678..** Robert Hooke was an English scientist. Around 1660, he worked out a rule for how springs stretch. A short wire stretches too little to measure. Hooke hung a pan for weights from a very long wire, 20 to 40 feet long, about 6 to 12 metres. Every part of the wire stretched a tiny amount, and all the tiny amounts added up to a stretch he could measure. He added equal weights, one after another. Each one made the wire longer by about the same step. He tested coiled springs, a watch spring and a strip of dry wood too. In 1676 he hid his rule in a puzzle of jumbled letters, so nobody could claim it first. In 1678 he gave the answer in Latin: 'ut tensio, sic vis'. It means 'as the stretch, so the force'. He said it works for every springy thing, from metal and stone to hair, silk, bone and glass. Later tests showed he had gone too far. Pull anything past its limit, and the steps stop being equal. Rubber follows the rule only roughly. In 1816, Sophie Germain, a French mathematician who taught herself, won a top prize for explaining how springy plates vibrate.  
 *What people believed before:* Hooke said every springy thing follows his rule, however it is stretched. Later tests showed that the rule works only for small stretches, below the elastic limit, and only roughly for rubber.
 
 ## Challenging perspectives
@@ -154,9 +154,9 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
   Against: Rubber bands follow it only roughly. Their steps often grow as the band gets long. And every spring breaks the rule once it is pulled past its elastic limit. Then the steps stop being equal, and the spring stays long. Hooke's rule is very useful, but it is a rule for small stretches.
 - **Robert Hooke alone discovered the rule for springs, and invented the spring for watches.** (Many physics books; *debated*)  
   For: Hooke published the spring rule in 1678. He also worked on springs to control watches in the 1660s.  
-  Against: Christiaan Huygens, a Dutch scientist, built a watch with a spiral spring in 1675. The two men argued bitterly about who was first. Hooke had hidden his spring rule in a code of jumbled letters in 1676. That way nobody could steal it before he was ready. Historians still disagree about the watch spring. The spring rule is fairly given to Hooke. In France, Edme Mariotte found the same rule on his own a few years later.
+  Against: Christiaan Huygens, a Dutch scientist, built a watch with a spiral spring in 1675. Hooke said he had the idea first, and the two men argued bitterly. Historians still disagree about who was first with the watch spring. The spring rule is fairly given to Hooke. In France, Edme Mariotte found the same rule on his own a few years later.
 - **Isaac Newton had the only portrait of Robert Hooke destroyed.** (A story often told about Hooke and Newton, who were rivals; *minority*)  
-  For: No portrait of Hooke survives from his lifetime. Newton disliked Hooke, and he led the Royal Society, the science club where a portrait might have hung.  
+  For: No portrait of Hooke survives from his lifetime. Newton disliked Hooke. After Hooke died, Newton led the Royal Society, the science club where a portrait might have hung.  
   Against: Nobody has found any evidence that Newton destroyed a portrait. It may simply have been lost. In the 2000s an artist, Rita Greer, painted new portraits of Hooke from written descriptions of him.
 - **Rubber was invented in Europe or America, by people like Charles Goodyear.** (Many older books; *rejected*)  
   For: Charles Goodyear found in 1839 how to make rubber tough with heat and sulphur. That made car tyres and rubber bands possible.  
@@ -171,9 +171,9 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
 ## Roots
 We have found that equal pulls give equal stretches, until a spring is pulled too far and stays long. Now we ask what that tells us about the shapes of things, and about ourselves.
 
-**Deep truth.** After a gentle pull, the pen spring came back to its old length. After a hard pull, it rested at a new length and sprang back to that. It was still the same steel, but its atoms now held on to new neighbours. So a solid's shape is set by which neighbours its atoms hold on to.  
-*Habit it breaks:* We think of a thing's shape as fixed, part of what it is made of. The pen spring kept every bit of its steel, yet it got a new length to spring back to.  
-*Evidence:* In the coin test, the pen spring came back from small pulls. After a big pull it rested at a new, longer length. From then on it sprang back to that new length, though nothing had been added or taken away.
+**Deep truth.** After a hard pull, your pen spring rested at a new, longer length, and sprang back to that. Nothing outside was stretching it. Its atoms push and pull on each other all the time, and its length is where those forces balance. So a spring lying still is full of forces that cancel out.  
+*Habit it breaks:* We think a thing lying still has no forces in it, and that its length is simply fixed. The pen spring settled at a new length by itself, so something inside it must set its length.  
+*Evidence:* In the coin test experiment, the pen spring came back from small pulls. After a big pull it rested at a new, longer length, and from then on it sprang back to that length.
 
 - *who am i:* Your body keeps its shape the same way a spring does. Your tendons and skin stretch with every step, then spring back.
 - *what is life:* Living things are full of springs: tendons, spider silk, the rubbery pad in a flea's leg. They store energy when they stretch, and give most of it back for the next step or jump.
@@ -186,7 +186,7 @@ A spring lying still has strong pushes and pulls inside it. They cancel out, so 
 - **Anguttara Nikaya 6.55, the story of Sona:** The Buddha asks Sona, who once played the veena. If the strings are too tight, does it play in tune? If they are too loose? Only strings stretched just right make music. (In the Rubber Band Orchestra, a band's note changes with how tightly it is stretched. Too loose, and it only thuds. Too tight, and it can pass its limit or snap.)
 - Science (settled): A solid keeps its shape because of electric pulls and pushes between its atoms. For small stretches, the pull back grows in step with the stretch, which is why Hooke's rule works. Past the elastic limit, rows of atoms slip into new places.
 - Science (open): Nobody can yet predict exactly where and when a slip will start, in a bent metal spring or in the rock under the Himalaya.
-- Other view, Democritus in ancient Greece, and many physicists today: Democritus said there are only atoms and empty space. Many physicists today add the forces between atoms, and stop there. For them, a spring's shape is simply where its atoms are, and saying more adds nothing the physics does not already say. This is a careful, honest view.
+- Other view, Aristotle in ancient Greece, and some philosophers today: Aristotle taught that every thing has a form, its own shape and kind, which it keeps by its nature. For him, a spring's shape belongs to what the spring is, not to a balance of pushes and pulls. Some philosophers today still say a thing's form is more than the forces between its parts.
 - Practice, Feel two pulls make zero (3 min): Hold a rubber band between your two pointing fingers. Stretch it a little and keep your hands still. Breathe in slowly, and out slowly. The band is not moving. But feel it pull on both fingers, all the time. Now let your fingers come together very slowly. Feel the pull fade as the band goes back. Last, rest your hand on your arm. Your arm is still too. What is pulling inside it?
 - Ask: After the big pull, the pen spring rests at a new length. Is it the same spring as before, or a new one?
 - Ask: If your own shape is held by pulls between atoms, what is holding you together right now?
@@ -198,11 +198,11 @@ A spring lying still has strong pushes and pulls inside it. They cancel out, so 
 - *deep:* Is anything completely stiff? Does a brick stretch even a tiny bit when you stand on it? (hint: Hooke saw a long wire stretch when a short one seemed not to. How could you show a brick bending?)
 - *deep:* When you stretch a catapult, where is the energy while you are holding it? Where does it go after you let go? (hint: Think of the atoms pulled out of their resting places, and then the flying paper ball.)
 - *big:* After a big pull, the pen spring rests at a new length, and springs back to that. Is it the same spring as before? (hint: All its atoms are still there. What has changed is which atoms hold which.)
-- *big:* Rock under the Himalaya is being bent a little every year, and nobody can see it. How can anyone know that something is storing strain before it breaks? (hint: Think of the swing branch that stopped coming all the way back. What do GPS stations measure?)
+- *big:* Rock under the Himalaya is being bent a little every year, and nobody can see it. How can anyone know that something is storing strain before it breaks? (hint: Think of a branch that stays a little bent after a swing. What do GPS stations measure?)
 - *deep:* A flea, a kangaroo and you all use springs to move. Why might living things have ended up so full of springs? (hint: A spring gives back most of the energy you put in. Why would that help an animal that runs or jumps every day?)
 - *big:* Space itself stretches. What could space be made of, that it can stretch? (hint: Nobody knows. What would you guess, and how could anyone ever test it?)
 - *big:* People in Mexico made bouncy rubber 3,500 years ago, but the books often credit someone else. Why do some inventors get remembered and others get forgotten? (hint: Who wrote the books? Who was allowed to write?)
-- *big:* An engineer warned that cold rubber would not spring back fast enough, and the launch went ahead. How should people decide when a test result means 'stop'? (hint: Feynman showed it with a glass of iced water. What made his test so hard to argue with?)
+- *big:* An engineer warned that cold rubber would not spring back fast enough, and the launch went ahead. How should people decide when a test result means 'stop'? (hint: Later, the scientist Richard Feynman showed it with a piece of the rubber and a glass of iced water. What made his test so hard to argue with?)
 
 ## Story: The Tired Branch
 *Rubber tapping in Kerala, smoked rubber sheets and the Onam swing, the oonjal, are real. Ammu, her family, Biju and the mango tree are made up. The warning sign in the story is real physics: a branch or spring that no longer springs all the way back has gone past its elastic limit, and may soon break.*
@@ -274,7 +274,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 ## Games
 ### g1 · Spring Back, Stay or Snap? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them in a pile, face down.; On your turn, take the top card and read it out loud.; Decide: if you stretch, squash or bend this thing, will it spring back, stay changed, or snap? Put the card on that mat.; Then name one place where that thing is useful because it behaves that way. A good idea wins one spring token.; If you draw a TEST IT card, everyone does the test together. The first person to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 thing cards to cut out:** Rubber band; Playdough; Dry twig; Kitchen sponge; Pen spring, pulled gently; Pen spring, pulled very hard; Chewing gum; Papad; Hair band; Glass bangle; Strip of thin carry bag; Bouncy ball; Green bamboo stick; Wet clay; Pyjama elastic; Biscuit; Trampoline mat; Aluminium foil, crumpled; Spider web; Your skin, pinched; TEST IT: stretch a rubber band a little and let go. What does it do?; TEST IT: squeeze a ball of atta dough. Does it spring back?; TEST IT: bend a plastic ruler a little and let go. Then put it away. Don't bend it till it snaps!; TEST IT: pinch the skin on the back of your hand and let go. Watch it.
+- **Printable cards: 24 thing cards to cut out:** Rubber band; Playdough; Dry twig; Kitchen sponge; Pen spring, pulled gently; Pen spring, pulled very hard; Chewing gum; Papad; Hair band; Glass bangle; Strip of thin carry bag; Bouncy ball; Green bamboo stick; Wet clay; Pyjama elastic; Biscuit; Trampoline mat; Aluminium foil, crumpled; Spider web; Your skin, pinched; TEST IT: stretch a rubber band a little and let go. What does it do?; TEST IT: squeeze a ball of atta dough. Does it spring back?; TEST IT: bend a plastic ruler a little and let go. What does it do? Don't bend it far, or it may snap.; TEST IT: pinch the skin on the back of your hand and let go. Watch it.
 - **Printable board: Three playing mats:** SPRING BACK: elastic; STAY: stays changed (plastic); SNAP: breaks (brittle)
 - **Printable tokens: 20 spring tokens (small paper circles):** 🌀
 - **s1 (2 min)**  
@@ -392,7 +392,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 ### e2 · Band Launch: does a longer stretch send a band further? (20 min)
 - **question:** If you stretch a rubber band further before you let go, does it fly further?
 - **predict:** Guess first. Will a band pulled back to the 15 cm mark fly further than one pulled to the 10 cm mark, less far, or the same distance? Why do you think so?
-- **fair test:** Use the same band every time, and launch it from the same place at the same height. Hold the ruler flat and level each time. Change only how far you pull the band back. Try each pull 3 times, because one try can be a fluke.
+- **fair test:** Use the same band every time, and launch it from the same place at the same height. Hold the ruler flat and level each time. Change only how far you pull the band back. Try each pull 3 times, because one try can be a fluke. Then put the 3 distances in order and take the middle one.
 - **safety:** A grown-up stays for this. Everyone stands behind the person launching. Never aim at people, pets, faces or windows. Aim along the floor, away from everyone.
 - **record:** Fill in the table. Then write one sentence about which pull sent the band further.
 - **results table:** How far I pulled it back | Try 1 distance (cm) | Try 2 distance (cm) | Try 3 distance (cm) | Middle value (cm)
@@ -407,16 +407,15 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Ask: What do you think will happen, and why? (good: The 15 cm pull flies further, because the band is stretched more.; The same, because it is the same band.; The 10 cm pull, because a long stretch might wobble.)
   - Note: Any guess with a reason is a good guess. Don't hint. The band will answer it.
 - **s3 (6 min) · grown-up needed**  
-  *Parent does:* 1. Sit behind the start line. Hook the band over the far end of the ruler. 2. Hold the ruler flat and level, at chest height, pointing down the corridor. 3. Pull the band back along the ruler to the 10 cm mark. Let go. 4. Put a coin where the band stops. Measure from the start line. 5. Do it 3 times.  
+  *Parent does:* 1. Sit behind the start line. Hook the band over the end of the ruler with 0 on it. 2. Hold the ruler flat and level, at chest height, with the 0 end pointing down the room. 3. Pull the band back along the ruler to the 10 cm mark. Let go. 4. Put a coin where the band stops. Measure from the start line. 5. Do it 3 times.  
   *Parent says:* Pull it back to the 10 cm mark and let go. Where did it stop? Let's measure. Now two more tries the same way.  
-  *Child mode:* Hook the band on the ruler's end. Pull it back to 10 cm. Let go. Mark where it stops. Measure. Try 3 times.
-  - Note: Keep the ruler at the same height and level every time, or the test is not fair. If the band already reaches past the 10 cm mark without stretching, use the 15 cm and 20 cm marks instead. If you count floor tiles, write the number of tiles.
+  *Child mode:* Hook the band on the 0 end of the ruler. Pull it back to 10 cm. Let go. Mark where it stops. Measure. Try 3 times.
+  - Note: Keep the ruler at the same height and level every time, or the test is not fair. If the band already reaches past the 10 cm mark without stretching, use a smaller band. If the band hits the far wall, use the 8 cm and 12 cm marks for every try instead. If you count floor tiles, write the number of tiles.
 - **s4 (5 min) · grown-up needed**  
-  *Parent does:* 1. Now pull the band back to the 15 cm mark, the same way. 2. Let go, mark and measure. 3. Do it 3 times. 4. Find the middle value of each set of 3.  
+  *Parent does:* 1. Now pull the band back to the 15 cm mark, the same way. 2. Let go, mark and measure. 3. Do it 3 times. 4. For each pull, put the 3 distances in order and circle the middle one. That is the middle value.  
   *Parent says:* Now pull it back to the 15 cm mark. Same height, same ruler. How far this time?  
   *Child mode:* Now pull it back to 15 cm. Let go. Mark and measure. Try 3 times.
   - Ask: Why did the longer pull send the band further? (good: It stored more energy.; It was stretched more, so it pulled back harder and faster.)
-  - Note: If a band reaches the far wall, use smaller pulls or a longer room.
   - Check: The band pulled back to 15 cm flew further than the band pulled back to 10 cm. Why? → **It stored more energy when it was stretched more**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -611,18 +610,18 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Note: After your child answers: the ruler stored energy as it bent. It let the energy go all at once, as shaking and sound. Rock underground bends slowly for years in the same way. When it slips, the shaking is an earthquake.
 - **s3 (5 min)**  
   *Parent does:* Bend the green twig again, a little more each time. Each time, check if it springs all the way back.  
-  *Parent says:* Some people say a branch that stops coming all the way back is in danger. Let's bend our green twig a little more each time. What do you expect to see?  
+  *Parent says:* Let's bend our green twig a little more each time. Will it always come all the way back? What do you expect to see?  
   *Child mode:* Bend the green twig a bit more each time. Does it still come all the way back?
   - Check: A branch bends under a swing. When you get off, it stays a little bent. What does that warn you? → **It has passed its elastic limit and may break soon**
   - Think: Is bending a kind of strength?
 
 ## Projects
 ### p1 · The Rubber Band Car (70 min, 3 days)
-- **safety:** A grown-up makes all holes in the caps and the bottle, using a hot skewer or a sharp tool. Snip the sharp tips off skewers.
+- **safety:** A grown-up makes the holes in the caps, using a hot skewer or a sharp tool. Snip the sharp tips off skewers.
 - **record:** Write how far the car went with 5, 10 and 15 winds. Draw your car and label where the energy is stored.
 - **schedule:** day 1: Build the car body and the wheels. (30 min); day 2: Add the rubber band motor. Test it with 5, 10 and 15 winds. (20 min); day 3: Improve the car and hold a race. (20 min)
 - **s1 (15 min) · grown-up needed**  
-  *Parent does:* 1. Tape two straws across the bottom of the bottle, one near each end. 2. Push a skewer through each straw. 3. A grown-up makes a hole in the middle of each cap. 4. Push a cap onto each end of each skewer.  
+  *Parent does:* 1. Tape two straws across the bottom of the bottle, one near each end. 2. Push a skewer through each straw. 3. A grown-up makes a hole in the middle of each cap. 4. Push a cap onto each end of each skewer. The hole must be tight, so the cap turns with the skewer. If it is loose, fix it with tape or a drop of glue.  
   *Parent says:* We're building a car that runs on a rubber band. First, the body and the wheels.  
   *Child mode:* Tape two straws under the bottle. Push a stick through each one. A grown-up makes holes in the caps. Push on the wheels.
 - **s2 (15 min)**  
@@ -832,7 +831,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 ## Videos
 - **Slinky drop in slow motion** (Veritasium, 4 min) id `JsytnJ_pSf8`: Shows a stretched spring in slow motion. The bottom of a dropped Slinky stays still in the air until the top crashes into it. It shows that a spring's pull back travels along it, coil by coil. *Check:* Found by YouTube search: "Supersized Slow-Mo Slinky Drop" by Veritasium. Title checked automatically; a parent may still preview it.
 - **LIGO's first gravitational wave, as sound** (LIGO Lab Caltech, 3 min) id `6zisf2xKvjA`: Plays the 'chirp' of the first gravitational wave, caught in 2015, turned into sound. It helps children feel that space itself was stretched and squeezed. *Check:* Found by YouTube search: "Direct Detection of Gravitational Waves: What Does That Mean?" by LIGO Lab Caltech : MIT. Title checked automatically; a parent may still preview it.
-- **Tapping a rubber tree for latex** (to choose: the Rubber Board of India or a reliable broadcaster, 5 min) id `ami3xanZjPI`: Shows the real work from the story: tapping rubber trees, collecting latex, rolling it into sheets and smoking them. (Filmed in Thailand; tapping in Kerala works the same way.) *Check:* Found by YouTube search: "Tapping rubber tree" by Thai Sabai. Title checked automatically; a parent may still preview it.
+- **Tapping a rubber tree for latex** (Thai Sabai, 5 min) id `ami3xanZjPI`: Shows the real work from the story: tapping rubber trees, collecting latex, rolling it into sheets and smoking them. (Filmed in Thailand; tapping in Kerala works the same way.) *Check:* Found by YouTube search: "Tapping rubber tree" by Thai Sabai. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What does elastic mean?  

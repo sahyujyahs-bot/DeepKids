@@ -1,9 +1,9 @@
 # Homeostasis: how your body keeps its warmth and water steady
 `sci.body.keeping-balance.L3`
 
-**Summary.** On a hot May afternoon and a cold winter morning, the inside of your body stays at about 37 degrees. Scientists call this steady keeping homeostasis. When you get hot, you sweat, and the drying sweat carries heat away. When you get cold, you shiver, and your working muscles make heat. When you are low on water, you feel thirsty. A small part of your brain, the hypothalamus, keeps checking and correcting all of this, day and night. Animals, plants and even beehives keep their own balance too. Scientists still argue about why our number is about 37 degrees, and how hot is too hot for a person.
+**Summary.** On a hot May afternoon and on a cold winter morning, the inside of your body stays at about 37 degrees. Keeping the inside steady like this is called homeostasis. When you get hot, you sweat, and the drying sweat carries heat away. When you get cold, you shiver, and your working muscles make heat. When you are low on water, you feel thirsty. A small part of your brain, the hypothalamus, keeps checking and correcting all of this, day and night.
 
-**Intro.** *Put the back of your hand on your cheek. Now put it on a steel plate or a tile floor. Which feels warmer? The inside of your body stays about the same warmth in hot summer and cold winter. How does it do that?* Think about the hottest day you remember, maybe in May. Now think about a cold winter morning, when your breath made a little cloud. The air around you changed a lot between those two days. But the inside of your body stayed almost exactly the same warmth, about 37 degrees. A steel plate left in the sun gets hot. Left outside on a winter night, it gets cold. You are not like the plate. Something inside you keeps checking your warmth and fixing it. That checking and fixing has a name: homeostasis.
+**Intro.** *Put the back of your hand on your cheek. Now put it on a steel plate or a tile floor. Which feels warmer? The inside of your body stays about the same warmth in hot summer and cold winter. How does it do that?* Think about the hottest day you remember, maybe in May. Now think about a cold winter morning, when you wanted to stay under the blanket. The air around you changed a lot between those two days. But the inside of your body stayed almost exactly the same warmth, about 37 degrees. A steel plate left in the sun gets hot. Left outside on a winter night, it gets cold. You are not like the plate. Something inside you keeps checking your warmth and fixing it. That checking and fixing has a name: homeostasis.
 
 ## Learning outcomes
 0. I can say what homeostasis means: my body keeping things like warmth and water just right.
@@ -46,7 +46,7 @@ Your body needs many things to stay just right. It needs the right warmth, the r
 ### The body's thermostat: notice, decide, act · *defined*
 **Definition:** A feedback loop is a circle of three steps. A sensor notices a change. A control centre decides what to do. The body acts to undo the change.
 
-Your skin and your blood have tiny sensors that feel warmth. They send messages along nerves to your hypothalamus. That is a small part of your brain, about the size of an almond. It compares your warmth with the set point, the 'just right' number, which is about 37 degrees. If you are too warm, it tells your skin to sweat. If you are too cold, it tells your muscles to shiver. As you get back to just right, the sweating or shivering stops. Scientists call this negative feedback, because the action works against the change. An AC with a thermostat works the same way.
+Tiny sensors in your skin feel warmth. They send messages along nerves to your hypothalamus. That is a small part of your brain, about the size of an almond. It also feels the warmth of the blood flowing through it. It compares your warmth with the set point, the 'just right' number, which is about 37 degrees. If you are too warm, it tells your skin to sweat. If you are too cold, it tells your muscles to shiver. As you get back to just right, the sweating or shivering stops. Scientists call this negative feedback, because the action works against the change. An AC with a thermostat works the same way.
 - e.g. An AC set to 26 degrees switches on when the room is warmer, and off when the room is cool enough.
 - e.g. A geyser heats water and switches off when the water is hot enough.
 - e.g. In your overhead water tank, a floating ball rises as the tank fills and shuts the tap off.
@@ -81,12 +81,12 @@ More than half of your body is water. Every day you lose some of it, in sweat, i
 ### Why sticky monsoon days feel hotter · *defined*
 **Definition:** Humidity is how much water is already in the air. When the air is very humid, sweat dries slowly, so it cools you less.
 
-Remember, sweat cools you only when it dries. Air can hold only so much water. In dry Rajasthan in May, the air is very dry, and sweat dries almost as soon as it comes out. In Chennai or Mumbai during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even if the thermometer shows the same number. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.
+Remember, sweat cools you only when it dries. Air can hold only so much water. In Rajasthan in May, the air is very dry, and sweat dries almost as soon as it comes out. In Chennai or Mumbai during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even at the same temperature. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.
 - e.g. Wet clothes dry fast on a dry, windy day, and slowly on a damp monsoon day.
 - e.g. You feel sticky in a crowded, closed room.
 - e.g. A desert cooler works well in Delhi in May, but poorly in Kolkata in July.
 ### How hot is too hot for a person? · *debated*
-If the air is hotter than your skin and also very humid, sweat stops working. Then your body cannot get rid of its heat, and it heats up. This is dangerous, and it is called heatstroke. Scientists measure this danger with a 'wet-bulb' temperature, which mixes heat and humidity into one number. They agree there is a limit. They do not agree exactly where it is, and it is different for babies, old people, sick people and people working hard.
+If the air is very hot and also very humid, sweat can hardly dry, so it stops cooling you. Then your body cannot get rid of its heat, and it heats up. This is dangerous, and it is called heatstroke. Scientists measure this danger with a 'wet-bulb' temperature, which mixes heat and humidity into one number. They agree there is a limit. They do not agree exactly where it is, and it is different for babies, old people, sick people and people working hard.
 - e.g. Heatwaves in India and Pakistan already come close to the danger limit on some days.
 - e.g. People working outside, like builders and farmers, are most at risk.
 - e.g. Shade, water, rest and wet cloths help the body keep up.
@@ -131,7 +131,7 @@ The Earth has stayed warm enough for liquid water, and for life, for more than t
 - **James Walker, Paul Hays and James Kasting, 1981:** They described a slow rock thermostat that works even without life. Warmth speeds up rain and rock weathering, which pulls carbon dioxide out of the air. It takes hundreds of thousands of years.
 - **Many Earth scientists today:** They agree there are balancing loops, but they say the Earth is not a body with a set point. Some loops even push it further away from balance, like melting ice making the Earth darker and warmer.
 ### Is 'normal' body temperature changing? · *debated*
-In 1868, a German doctor called Carl Wunderlich said normal body temperature is 37 degrees. He used many thousands of readings. But today, many studies find healthy people are a little cooler, closer to 36.6 degrees. Each person also has their own normal. You are cooler in the early morning and warmer in the late afternoon.
+In 1868, a German doctor called Carl Wunderlich said normal body temperature is 37 degrees. He used about a million readings from about 25,000 people. But today, many studies find healthy people are a little cooler, closer to 36.6 degrees. Each person also has their own normal. You are cooler in the early morning and warmer in the late afternoon.
 - e.g. Your temperature under your arm is a little lower than in your mouth.
 - e.g. You are slightly warmer after running, and cooler when you have just woken up.
 - e.g. Old people are often a little cooler than children.
@@ -174,7 +174,7 @@ In 1868, a German doctor called Carl Wunderlich said normal body temperature is 
 We have been learning how the body keeps itself just right, by sweating, shivering and feeling thirsty. Now we ask what this steady balance tells us about ourselves and the world.
 
 **Deep truth.** After jumping, your cheeks turned red. You did not decide to do that. A small part of your brain felt the heat and opened up the blood vessels in your skin. So your body checks and corrects its own warmth all day, without asking you.  
-*Habit it breaks:* We think of 'me' as the one who runs my body, because I choose to walk, eat and talk. But your warmth is kept by a loop you never feel working: sensors notice, the hypothalamus compares with about 37 degrees, and skin and muscles act.  
+*Habit it breaks:* We think of 'me' as the one who runs our body, because we choose to walk, eat and talk. But our warmth is kept by a loop that works without our noticing: sensors notice, the hypothalamus compares with about 37 degrees, and skin and muscles act.  
 *Evidence:* In Jump and Notice, your cheeks went red and you could not sweat on purpose. In My Steady Inside, your face felt hot after running, but the thermometer under your arm rose less than one degree.
 
 - *who am i:* You are a body that keeps itself near 37 degrees, every minute. Most of that work is done by parts of you that work without you noticing.
@@ -188,9 +188,9 @@ The same loop keeps balance at every size. One cell pumps salt to keep its insid
 - **Tao Te Ching 77:** The way of nature is like bending a bow. What is too high is pressed down, and what is too low is lifted up. Where there is too much, it takes away. Where there is too little, it adds. (That is how a feedback loop works. Too hot, and your body cools you. Too cold, and it warms you. Too little water, and you feel thirsty.)
 - Science (settled): Warming or cooling a tiny spot in the hypothalamus makes an animal pant or shiver, even when the rest of its body is at its normal warmth. That spot works as the body's thermostat.
 - Science (settled): In mice, thirst cells in the brain switch off within moments of drinking, long before the water reaches the blood. So the brain can correct a change before it has fully happened.
-- Other view, Many biologists: Many scientists say the body keeps its balance by chemistry and nerve signals alone, the way a thermostat keeps a room cool. They see no need for any mind in it. Walter Cannon called his 1932 book The Wisdom of the Body, but they say he meant it only as a way of speaking.
+- Other view, Many biologists: They say the body keeps its balance by chemistry and nerve signals alone, the way a thermostat keeps a room cool. They see no need for any mind in it. Walter Cannon called his 1932 book The Wisdom of the Body, but they say he meant it only as a way of speaking.
 - Practice, Cooling breath (3 min): Let's sit tall and still. Curl your tongue into a little tube, or if you can't, just open your lips a little. Breathe in slowly through your mouth. Feel how cool the air is on your tongue. Now close your mouth and breathe out slowly through your nose. Let's do that five times. Your tongue felt cool because the air was drying it, like sweat on skin. Now just sit and notice. Is your body hot, cold or just right? You didn't have to do anything to stay just right. Who is doing it?
-- Ask: Your hypothalamus decides when you sweat, and you never feel it deciding. Is that still you deciding?
+- Ask: Your hypothalamus decides when you sweat, and you do not notice it deciding. Is that still you deciding?
 - Ask: Who keeps you just right while you sleep?
 - Ask: When your sweat dries into the air, is it still part of you?
 - Ask: A lotus flower keeps itself warm on a cool night. What do you think the flower senses while it does that?
@@ -253,10 +253,10 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 
 ## Games
 ### g1 · Keep It Just Right (20 min)
-- **rules:** Each player puts a counter on box 5 of their dial, the green JUST RIGHT box.; Shuffle the red and blue event cards into one pile. Deal 4 body action cards to each player.; On your turn, turn over the top event card and move your counter up or down by that number.; Then you may play one body action card from your hand to move back towards 5. Say what your body is doing, out loud.; If your counter is on 5 at the end of your turn, you win a star. Then pick up one new body action card.; If your counter reaches 1 or 9, you have gone too far. Miss a turn while you rest and drink water, then move back to 3 or 7.; After 15 event cards, the player with the most stars wins.
+- **rules:** Each player puts a counter on box 5 of their dial, the green JUST RIGHT box.; Shuffle the red and blue event cards into one pile. Deal 4 body action cards to each player.; On your turn, turn over the top event card and move your counter up or down by that number.; Then you may play one body action card from your hand to move back towards 5. Say what your body is doing, out loud.; If your counter is on 5 at the end of your turn, you win a star.; At the end of every turn, pick up one new body action card. When that pile runs out, shuffle the played body cards to make a new pile.; If your counter reaches 1 or 9, you have gone too far. Miss a turn while you rest and drink water, then move back to 3 or 7.; After 15 event cards, the player with the most stars wins.
 - **Printable board: One warmth dial for each player:** A row of 9 boxes, numbered 1 to 9; 1 to 2: TOO COLD (blue); 3 to 4: chilly; 5: JUST RIGHT (green, with a smile); 6 to 7: warm; 8 to 9: TOO HOT (red)
 - **Printable cards: 20 event cards (red pushes up, blue pushes down):** Played cricket at noon: +2; Drank hot chai: +1; Wore a sweater indoors in May: +2; Sat in a closed car in the sun: +3; Ran a race: +2; Ate a big spicy lunch: +1; Danced at a wedding: +2; Got a fever: +2 (and see a doctor in real life); Stood by the cooking fire: +1; Monsoon day, very humid: +1; Jumped in a cold river: -3; Cold winter morning in Shimla: -2; Ate an ice lolly: -1; Got caught in the rain: -2; Sat under the AC: -1; Wind blew on a wet back: -2; Slept without a blanket: -1; Walked on a frosty field: -2; Drank cold water from a matka: -1; Sat still in a cold room: -1
-- **Printable cards: 16 body action cards:** Sweat: -2; Sweat: -2; Cheeks go red, blood to the skin: -1; Cheeks go red, blood to the skin: -1; Rest in the shade: -1; Fan yourself: -1; Shiver: +2; Shiver: +2; Goosebumps: +1; Pale fingers, blood stays inside: +1; Curl up in a ball: +1; Put on a shawl: +1; Drink water: lets you play a Sweat card again; Drink water: lets you play a Sweat card again; Wild card: you choose +1 or -1; Wild card: you choose +1 or -1
+- **Printable cards: 16 body action cards:** Sweat: -2; Sweat: -2; Cheeks go red, blood to the skin: -1; Cheeks go red, blood to the skin: -1; Rest in the shade: -1; Fan yourself: -1; Shiver: +2; Shiver: +2; Goosebumps: +1; Pale fingers, blood stays inside: +1; Curl up in a ball: +1; Put on a shawl: +1; Drink water: take a used Sweat card back into your hand; Drink water: take a used Sweat card back into your hand; Wild card: you choose +1 or -1; Wild card: you choose +1 or -1
 - **Printable tokens: One counter for each player's dial, and 15 'just right' stars:** ⭐
 - **s1 (3 min)**  
   *Parent does:* 1. Give each player a dial and a counter on box 5. 2. Shuffle the event cards. 3. Deal 4 body action cards to each player.  
@@ -561,8 +561,8 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 5. (mcq) What do your muscles do when you are very cold?  
    Options: They shiver to make heat / They sweat / They stop working / They get longer  
    **Answer:** They shiver to make heat. *Why:* Shivering is fast shaking of the muscles, and working muscles make heat. Picking 'sweat' mixes up the cooling trick with the warming trick.
-6. (sort) Sort these. Does the body do this to COOL DOWN or to WARM UP?  
-   **Answer:** sweating → Cool down; shivering → Warm up; red cheeks → Cool down; goosebumps → Warm up; pale, cold fingers → Warm up; panting, in a dog → Cool down. *Why:* Sweating, red skin and panting all help heat escape. Shivering makes heat. Goosebumps and pale fingers help keep the heat in. Pale fingers might look like 'cold', but the body is saving heat for its middle.
+6. (sort) Sort these. Does the body do this to COOL DOWN or to KEEP WARM?  
+   **Answer:** sweating → Cool down; shivering → Keep warm; red cheeks → Cool down; goosebumps → Keep warm; pale, cold fingers → Keep warm; panting, in a dog → Cool down. *Why:* Sweating, red skin and panting all help heat escape. Shivering makes heat. Goosebumps and pale fingers help keep the heat in. Pale fingers might look like 'cold', but the body is saving heat for its middle.
 7. (truefalse) Feeling thirsty is your body telling you it needs water.  
    **Answer:** True. *Why:* True. When you have lost water, your blood gets a little too salty. Your brain notices and makes you feel thirsty.
 8. (mcq) Which part of your body decides when to sweat or shiver?  
@@ -607,7 +607,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** False. *Why:* False. Sweat cools you when it dries on your skin, because drying takes heat from you. Sweat that drips off takes away very little heat.
 7. (mcq) You drink a glass of water when you are thirsty. Your thirst goes away in about a minute, long before the water reaches your blood. What does this show?  
    Options: The body predicts, using messages from the mouth and throat / Water goes straight into the brain / Thirst was never real / The tummy makes water  
-   **Answer:** The body predicts, using messages from the mouth and throat. *Why:* Scientists found that brain cells for thirst switch off as soon as you swallow. Your body predicts that water is coming. This is part of a debate about whether the body mostly reacts or mostly predicts.
+   **Answer:** The body predicts, using messages from the mouth and throat. *Why:* In mice, scientists found that brain cells for thirst switch off soon after drinking. Your body predicts that water is coming. This is part of a debate about whether the body mostly reacts or mostly predicts.
 8. (match) Match each animal or plant to its balance trick.  
    **Answer:** Elephant → flaps big ears full of blood; Honeybees → fan their wings to cool the hive; Cat → fluffs up its fur to trap warm air; Stork → wees on its legs to cool off. *Why:* Each living thing has its own ways to keep just right. Many of them use drying water or moving blood, like we do.
 9. (mcq) Why are your fingers and toes often the first to feel cold?  
@@ -728,7 +728,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - Desert coolers blow air through wet pads, using the same trick as sweat.
 - ACs, fridges, geysers and irons use thermostats, which are feedback loops.
 - Cricketers and athletes plan drinks breaks and cooling towels in hot matches.
-- Spacesuits have water-cooling underwear to carry an astronaut's body heat away.
+- Astronauts wear a suit of thin water tubes under their spacesuit, to carry body heat away.
 - Newborn babies in hospital are kept in warm cots or held skin to skin, because they lose heat quickly.
 - Builders and farmers are told to work early and late in the day in summer, and rest in the shade at noon.
 - Engineers design buildings with shade, thick walls and courtyards to stay cool, like old havelis in Rajasthan.
@@ -776,8 +776,8 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - What did the AC say to your body? *Hey, we both have a set point!*
 - Why was the cup of chai jealous of you? *You stay warm all day, and it goes cold in ten minutes.*
 - Why did the elephant flap its ears at the teacher? *It was a cool way to say hello.*
-- What's a thirsty person's favourite kind of music? *Pop. A soda pop. But water is better.*
-- Why did the honeybee bring a fan to the hive? *It's the bees' knees for keeping cool.*
+- What did the kidneys say on a hot day? *Let's save water today.*
+- Why do honeybees fan their wings in May? *Because their hive has no AC.*
 - Why did the sweater feel left out in May? *Everyone gave it the cold shoulder.*
 - What did one shiver say to the other? *Let's warm up to each other.*
 - Why don't kidneys ever gossip? *They know when to hold their water.*
