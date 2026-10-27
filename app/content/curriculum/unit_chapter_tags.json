@@ -1,0 +1,260 @@
+{
+ "cam|sci|1|1": [
+  "sci.habitats.habitats.L3",
+  "sci.animals.animal-life-cycles.L3",
+  "sci.food.balanced-diet.L3"
+ ],
+ "cam|sci|1|4": [
+  "sci.materials.properties.L3",
+  "sci.materials.testing-materials.L3",
+  "sci.waste.reduce-reuse-recycle.L3"
+ ],
+ "cam|sci|1|5": [
+  "sci.forces.friction.L3"
+ ],
+ "cam|sci|1|6": [
+  "sci.senses.five-senses.L3"
+ ],
+ "cam|sci|2|1": [
+  "sci.waste.reduce-reuse-recycle.L3"
+ ],
+ "cam|sci|2|2": [
+  "sci.forces.stretching-springs.L3"
+ ],
+ "cam|sci|2|3": [
+  "sci.materials.what-is-it-made-of.L3",
+  "sci.materials.sorting-materials.L3"
+ ],
+ "cam|sci|2|4": [
+  "sci.animals.vertebrate-groups.L3",
+  "sci.animals.animal-life-cycles.L3",
+  "sci.body.growing-old.L3",
+  "sci.food.balanced-diet.L3",
+  "sci.health.hygiene.L3"
+ ],
+ "cam|sci|2|5": [
+  "sci.light.how-we-see.L3",
+  "sci.light.reflection.L3",
+  "sci.day-night-seasons.day-and-night.L3",
+  "sci.sky.sun-moon-stars.L3"
+ ],
+ "cam|sci|3|2": [
+  "sci.body.heart-blood-breath.L3"
+ ],
+ "cam|sci|3|3": [
+  "sci.animals.animal-life-cycles.L3",
+  "sci.animals.vertebrate-groups.L3",
+  "sci.plants.photosynthesis.L3",
+  "sci.body.growing-old.L3"
+ ],
+ "cam|sci|3|4": [
+  "sci.light.how-we-see.L3"
+ ],
+ "cam|sci|4|1": [
+  "sci.body.organs-inside.L3",
+  "sci.animals.invertebrates.L3",
+  "sci.animals.vertebrate-groups.L3",
+  "sci.body.immune-system.L3"
+ ],
+ "cam|sci|4|2": [
+  "sci.plants.photosynthesis.L3"
+ ],
+ "cam|sci|4|3": [
+  "sci.the-very-small.atoms.L3"
+ ],
+ "cam|sci|4|5": [
+  "sci.sky.sun-moon-stars.L3",
+  "sci.light.transparent-opaque.L3",
+  "sci.light.what-is-light.L3"
+ ],
+ "cam|sci|5|2": [
+  "sci.sound.sources-of-sound.L3"
+ ],
+ "cam|sci|5|3": [
+  "sci.the-very-small.atoms.L3",
+  "sci.water.water-cycle.L3"
+ ],
+ "cam|sci|5|4": [
+  "sci.body.organs-inside.L3"
+ ],
+ "cam|sci|5|5": [
+  "sci.forces.push-and-pull.L3",
+  "sci.gravity.falling.L3",
+  "sci.forces.flight.L3",
+  "sci.materials.magnetic-materials.L3"
+ ],
+ "cam|sci|5|6": [
+  "sci.habitats.habitats.L3",
+  "sci.ecology.food-chains.L3",
+  "sci.day-night-seasons.day-and-night.L3",
+  "sci.plants.plant-parts.L3"
+ ],
+ "ncert|sci|3|10": [
+  "sci.light.transparent-opaque.L3"
+ ],
+ "ncert|sci|3|11": [
+  "sci.materials.what-is-it-made-of.L3",
+  "sci.materials.using-materials.L3"
+ ],
+ "ncert|sci|3|2": [
+  "sci.health.hygiene.L3",
+  "sci.forces.friction.L3"
+ ],
+ "ncert|sci|3|3": [
+  "sci.forces.simple-machines.L3",
+  "sci.sky.moon-phases.L3",
+  "sci.seeds-and-life-cycles.seeds-and-germination.L3"
+ ],
+ "ncert|sci|3|4": [
+  "sci.food.where-food-comes-from.L3"
+ ],
+ "ncert|sci|3|6": [
+  "sci.animals.animals-around-us.L3",
+  "sci.seeds-and-life-cycles.plant-life-cycle.L3",
+  "sci.food.where-food-comes-from.L3"
+ ],
+ "ncert|sci|3|9": [
+  "sci.body.immune-system.L3",
+  "sci.body.heart-blood-breath.L3"
+ ],
+ "ncert|sci|4|1": [
+  "sci.animals.animals-around-us.L3"
+ ],
+ "ncert|sci|4|10": [
+  "sci.day-night-seasons.day-and-night.L3",
+  "sci.sky.moon-phases.L3",
+  "sci.light.transparent-opaque.L3"
+ ],
+ "ncert|sci|4|3": [
+  "sci.animals.animal-bodies.L3",
+  "sci.animals.invertebrates.L3",
+  "sci.plants.plant-parts.L3",
+  "sci.ecology.food-chains.L3",
+  "sci.habitats.habitats.L3"
+ ],
+ "ncert|sci|4|4": [
+  "sci.materials.what-is-it-made-of.L3",
+  "sci.materials.using-materials.L3"
+ ],
+ "ncert|sci|4|5": [
+  "sci.food.where-food-comes-from.L3"
+ ],
+ "ncert|sci|4|6": [
+  "sci.food.balanced-diet.L3"
+ ],
+ "ncert|sci|4|7": [
+  "sci.gravity.weight-and-mass.L3",
+  "sci.light.colour.L3"
+ ],
+ "ncert|sci|4|8": [
+  "sci.materials.what-is-it-made-of.L3",
+  "sci.materials.testing-materials.L3"
+ ],
+ "ncert|sci|4|9": [
+  "sci.habitats.habitats.L3",
+  "sci.water.water-sources-and-uses.L3"
+ ],
+ "ncert|sci|5|1": [
+  "sci.habitats.habitats.L3",
+  "sci.ecology.food-chains.L3"
+ ],
+ "ncert|sci|5|10": [
+  "sci.seeds-and-life-cycles.plant-life-cycle.L3",
+  "sci.making-things.biomimicry.L3"
+ ],
+ "ncert|sci|5|2": [
+  "sci.water.water-cycle.L3",
+  "sci.water.water-sources-and-uses.L3",
+  "sci.habitats.habitats.L3"
+ ],
+ "ncert|sci|5|3": [
+  "sci.health.hygiene.L3",
+  "sci.what-is-life.cells.L3",
+  "sci.body.organs-inside.L3",
+  "sci.body.body-parts.L3"
+ ],
+ "ncert|sci|5|4": [
+  "sci.waste.reduce-reuse-recycle.L3",
+  "sci.water.water-sources-and-uses.L3"
+ ],
+ "ncert|sci|5|5": [
+  "sci.sound.sources-of-sound.L3"
+ ],
+ "ncert|sci|5|6": [
+  "sci.habitats.habitats.L3",
+  "sci.plants.plant-parts.L3"
+ ],
+ "ncert|sci|5|7": [
+  "sci.food.where-food-comes-from.L3",
+  "sci.sound.sources-of-sound.L3"
+ ],
+ "ncert|sci|5|8": [
+  "sci.materials.what-is-it-made-of.L3",
+  "sci.animals.animal-life-cycles.L3",
+  "sci.animals.animals-around-us.L3",
+  "sci.materials.using-materials.L3"
+ ],
+ "nios|sci|3|10": [
+  "sci.forces.simple-machines.L3",
+  "sci.forces.friction.L3",
+  "sci.sound.sources-of-sound.L3"
+ ],
+ "nios|sci|3|11": [
+  "sci.making-things.biomimicry.L3",
+  "sci.light.colour.L3"
+ ],
+ "nios|sci|3|3": [
+  "sci.sky.moon-phases.L3"
+ ],
+ "nios|sci|3|4": [
+  "sci.habitats.habitats.L3",
+  "sci.materials.what-is-it-made-of.L3"
+ ],
+ "nios|sci|3|5": [
+  "sci.waste.reduce-reuse-recycle.L3",
+  "sci.plants.photosynthesis.L3"
+ ],
+ "nios|sci|3|7": [
+  "sci.body.heart-blood-breath.L3",
+  "sci.food.balanced-diet.L3",
+  "sci.water.water-sources-and-uses.L3",
+  "sci.materials.using-materials.L3"
+ ],
+ "nios|sci|3|8": [
+  "sci.water.water-sources-and-uses.L3"
+ ],
+ "nios|sci|5|10": [
+  "sci.magnets.magnets-and-materials.L3"
+ ],
+ "nios|sci|5|11": [
+  "sci.sky.sun-moon-stars.L3",
+  "sci.day-night-seasons.day-and-night.L3"
+ ],
+ "nios|sci|5|13": [
+  "sci.body.heart-blood-breath.L3",
+  "sci.body.how-babies-grow.L3",
+  "sci.body.keeping-balance.L3"
+ ],
+ "nios|sci|5|14": [
+  "sci.body.immune-system.L3",
+  "sci.health.hygiene.L3",
+  "sci.water.water-sources-and-uses.L3",
+  "sci.body.keeping-balance.L3"
+ ],
+ "nios|sci|5|15": [
+  "sci.waste.reduce-reuse-recycle.L3"
+ ],
+ "nios|sci|5|7": [
+  "sci.plants.photosynthesis.L3",
+  "sci.seeds-and-life-cycles.plant-life-cycle.L3"
+ ],
+ "nios|sci|5|8": [
+  "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+  "sci.plants.what-plants-need.L3",
+  "sci.food.where-food-comes-from.L3"
+ ],
+ "nios|sci|5|9": [
+  "sci.waste.reduce-reuse-recycle.L3",
+  "sci.plants.plant-parts.L3"
+ ]
+}

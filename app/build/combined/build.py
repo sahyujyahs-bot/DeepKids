@@ -54,6 +54,8 @@ CUR = json.load(open(os.path.join(APP, 'content', 'curriculum', 'sci.json')))
 TL = {s: t for t in CUR['topic_levels'] for s in t['subtopic_levels']}
 _wl = os.path.join(APP, 'content', 'curriculum', 'waldorf_links.json')
 WLINKS = json.load(open(_wl)) if os.path.exists(_wl) else {}
+_tg = os.path.join(APP, 'content', 'curriculum', 'unit_chapter_tags.json')   # extra unit tags per board chapter, by topic, at any class
+TAGS = json.load(open(_tg)) if os.path.exists(_tg) else {}
 SUB = {x['id']: x for x in CUR['subtopic_levels']}
 SUBI = {x['id']: i for i, x in enumerate(CUR['subtopic_levels'])}   # curriculum order
 data['units'] = {}
@@ -133,12 +135,19 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
         "c": {"covers": " · ".join([t['name'], sub.get('name', ''), sub.get('covers', ''), u['summary']['text'], ", ".join(x['term'] for x in u['terms'])]), "unit": u['id']}})
     # 2. every board chapter that teaches this subtopic (or its topic, at this class) links to it
     chap = CUR.get('chapters', {})
-    for ck in set(sub.get('chapters', []) + t.get('chapters', [])):
+    # a unit is written at one level (L3) but belongs with every board chapter that teaches its subtopic, at any class
+    base = u['id'].rsplit('.', 1)[0] + '.'
+    same = [ck for ck, cv in CUR.get('chapters', {}).items() if any(x.startswith(base) for x in cv.get('subtopic_levels', []))]
+    for ck in set(sub.get('chapters', []) + t.get('chapters', []) + same):
         ik = chap.get(ck, {}).get('item')
         for it in data['items']:
             if it.get('k') == ik:
                 it.setdefault('c', {}).setdefault('units', [])
                 if ref not in it['c']['units']: it['c']['units'].append(ref)
+    for ik, ids in TAGS.items():
+        if u['id'] in ids:
+            for it in data['items']:
+                if it.get('k') == ik and ref not in it.setdefault('c', {}).setdefault('units', []): it['c']['units'].append(ref)
     # 3. every Waldorf block that teaches it links to it (content/curriculum/waldorf_links.json)
     for wk, ids in WLINKS.items():
         if u['id'] in ids:
