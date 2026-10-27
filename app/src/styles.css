@@ -4877,6 +4877,9 @@ dialog .fxfab {
   gap: 10px;
   border: 2px solid var(--sun);
 }
+.fxucard.locked {
+  opacity: 0.7;
+}
 .fxopenbtn {
   display: flex;
   gap: 12px;

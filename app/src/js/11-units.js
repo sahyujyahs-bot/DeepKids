@@ -760,6 +760,7 @@ async function fxLoad(id) {
 }
 async function fxOpen(id) {
   if (!DATA.units?.[id]) return toast("This unit isn't in the app yet");
+  if (!dkUnitOpen(id)) return dkLocked();
   let u;
   try {
     if (!FXFULL[id]) toast("Opening…", 900);
@@ -1257,8 +1258,18 @@ function fxDaySteps(u, n) {
     };
   });
 }
+// On the board track, a family opens the DeepKids units linked to their own boards' chapters; the rest show, locked.
+// The DeepKids track opens every unit (TRACKS.md "Who can see what").
+function dkUnitOpen(id) {
+  if (["combined", "none"].includes(S.board)) return true;
+  const B = boardsOn();
+  return DATA.items.some((i) => B.includes(i.board) && (i.c?.units || []).some((x) => x.id === id));
+}
+const fxLockedCard = (x, I) =>
+  `<div class="fxucard locked"><button class="fxopenbtn" data-act="fxopen" data-u="${esc(x.id)}">${I.img?.summary ? `<img src="${esc(I.img.summary)}" alt="">` : "<span>🔒</span>"}<span><b>${esc(x.title)}</b> <span class="lk">🔒</span><br><span class="xs muted">On the DeepKids track · not linked to your board's chapters</span></span></button></div>`;
 const fxUnitBtns = (L) =>
   L.map((x) => {
+    if (!dkUnitOpen(x.id)) return fxLockedCard(x, DATA.units?.[x.id] || {});
     const I = DATA.units?.[x.id] || {},
       k = "unit|" + x.id,
       u = unitBy(k),
@@ -1285,6 +1296,12 @@ const fxUnitBtns = (L) =>
     )}${day.length > 3 ? "…" : ""}</li><li><b>Whole unit:</b> about ${Math.round((tot / 60) * 10) / 10} hours, ${D.length} sessions</li><li><b>Core path:</b> ${SD.length} sessions${u && rank[fxUnitSt(k)] >= 2 ? " · done ✔" : ""} · <b>Go deeper:</b> ${u ? fxDeeper(u).length : 0} more parts</li><li><b>Done:</b> ${nd} of ${P.length} parts${np ? ` · ${np} pending` : ""}</li></ul>
   ${(S.extra?.[s] || []).includes(k) ? `<p class="xs"><b>✓ In the plan</b> · ${(S.next?.[s] || [])[0] === k ? "comes next" : "in the queue"} · <button class="link xs" data-fxsee="${s}" data-k="${esc(k)}">See it in Plan</button></p>` : `<div class="row" style="align-items:center"><button class="btn sm" data-act="fxq" data-front="1" data-s="${s}" data-k="${esc(k)}">＋ Add to plan</button><button class="link xs" data-act="fxq" data-s="${s}" data-k="${esc(k)}">or add it at the end</button></div>`}</div>`;
   }).join("");
+// what a locked unit says when tapped
+const dkLocked = () =>
+  toast(
+    "This unit is on the DeepKids track. Your board track opens the DeepKids units for your board's chapters. To open them all, choose the DeepKids track in Settings.",
+    7000,
+  );
 const fxDaysSince = (d) => Math.round((parse(today) - parse(d)) / 864e5);
 function fxPS(id, p) {
   const F = fxSt(),

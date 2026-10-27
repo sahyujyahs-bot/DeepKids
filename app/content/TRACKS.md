@@ -29,6 +29,6 @@ The rules for all of it are in `SPEC.md` ("The DeepKids way"), `WRITING.md` and 
 ## Who can see what
 Everything is open to every family, whichever track they chose:
 - **DeepKids track:** every topic, every class, every unit.
-- **Board track:** every board (NCERT, Cambridge, NIOS, Waldorf), every class and every chapter, each with its DeepKids add-ons (the units and lessons linked to that chapter's topic). Any of them can be added to the plan.
+- **Board track:** every board (NCERT, Cambridge, NIOS, Waldorf), every class and every chapter, each with its DeepKids add-ons: the DeepKids units tagged to that chapter, open, with Add to plan. The other DeepKids units still show in the Library, locked ("On the DeepKids track"), so families see what the DeepKids track adds.
 
-A family's track and pace only decide what the planner suggests by itself, never what they can open or add.
+Beyond that, a family's track and pace only decide what the planner suggests by itself.

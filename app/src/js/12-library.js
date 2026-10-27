@@ -61,7 +61,7 @@ function combinedBrowse() {
   return (
     combinedTopicList() +
     (U.length
-      ? `<section class="card fxnew"><span class="eyebrow">All DeepKids units · ${U.length} · written for Class 3</span><p class="sm">Open to every family, whatever your class. Add any of them to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${byTopic.map(([t, L]) => `<details class="fxgrp"><summary><b>${esc(t)}</b> <span class="pill">${L.length}</span></summary>${fxUnitBtns(L)}</details>`).join("")}${fxSongBtns()}</section>`
+      ? `<section class="card fxnew"><span class="eyebrow">All DeepKids units · ${U.length} · written for Class 3</span><p class="sm">${["combined", "none"].includes(S.board) ? "All open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${byTopic.map(([t, L]) => `<details class="fxgrp"><summary><b>${esc(t)}</b> <span class="pill">${L.length}</span></summary>${fxUnitBtns(L)}</details>`).join("")}${fxSongBtns()}</section>`
       : "")
   );
 }
