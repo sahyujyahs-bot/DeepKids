@@ -1,14 +1,14 @@
 {
  "id": "sci.magnets.magnets-and-materials.L3",
- "title": "Magnets: why a pin jumps to a magnet",
+ "title": "Magnets: how they attract iron without touching it",
  "level": 3,
  "summary": {
-  "text": "A magnet pulls iron without touching it. It also pulls most steel, nickel and cobalt. It does not pull wood, plastic, paper or most other metals. The pull comes from inside the iron. Each tiny bit of iron is a tiny magnet. In a magnet, these tiny magnets all point the same way, so their pulls add up. In an ordinary nail, they point in different directions, so their pulls cancel out. Long ago, people in China, India, Greece and the Islamic world used magnet stones to steer ships. The whole Earth is a giant magnet too. Turtles, birds and even some bacteria can feel it. Nobody knows yet exactly how some animals feel it.",
-  "art": "A zoom picture: a child holding a magnet over a safety pin; inside the pin, rows of tiny arrows; beyond, the whole Earth with curved lines looping from pole to pole and a sea turtle swimming along them."
+  "text": "A magnet attracts iron, most steel, nickel and cobalt. It does not attract wood, plastic, paper or most other metals, such as copper and aluminium. A magnet does not need to touch iron to attract it. Every magnet has a magnetic field around it. This is the space where the magnet's force acts. Two magnets can also push each other away. This is called repelling. Inside iron, each atom acts like a tiny magnet. In a magnet, these tiny magnets all point the same way, so their forces add up. In an ordinary nail, they point in different directions, so their forces cancel out. The Earth is a giant magnet too. A compass needle lines up with the Earth's magnetic field. Long ago, sailors in China, India, Arabia and Europe used this to find their way at sea. Turtles and birds can sense the Earth's magnetic field and use it to travel.",
+  "art": "A child holding a magnet over a safety pin that is jumping up to it, with faint curved lines around the magnet showing its magnetic field. Behind, the Earth with field lines looping from pole to pole and a sea turtle swimming along them."
  },
  "intro": {
-  "hook": "Try this. Hold a magnet near a steel safety pin. Move it closer very slowly, and stop just before they touch. Did the pin jump? Nothing touched it. So what reached across that gap?",
-  "text": "People have asked that question for thousands of years. In Sanskrit, a magnet is called chumbaka, which means 'the kisser'. An old Chinese book from about 2,250 years ago calls it the 'loving stone' that calls iron to come. Both names tell the same story. A magnet seems to want iron. In this unit we find out what is really happening. We go deep inside the iron, down to its atoms. Then we go out to the whole Earth, which is a magnet too.",
+  "hook": "Try this. Hold a magnet near a steel safety pin and move it closer very slowly. Stop just before they touch. Did the pin jump to the magnet? The magnet never touched the pin. So how did it move it?",
+  "text": "People have wondered about this for thousands of years. In Sanskrit, a magnet is called chumbaka, which means 'the one that kisses'. An old Chinese book from over 2,000 years ago calls it the 'loving stone'. In this unit you find the real answer. A magnet has an invisible magnetic field around it, and its force acts through that field, even across air. You also find out what happens inside the iron, and why the whole Earth is a magnet too.",
   "art": "A child's hand holding a dark magnet stone a finger-width above a safety pin that is just lifting off a table, with a dotted line showing the gap."
  },
  "outcomes": [
