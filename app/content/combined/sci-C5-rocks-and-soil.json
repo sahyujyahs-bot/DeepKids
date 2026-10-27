@@ -1,0 +1,1340 @@
+{
+ "key": "combined|sci|5|rocks-and-soil",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "rocks-and-soil",
+ "title": "Rocks, soil and crops: how the ground feeds us",
+ "source": "DeepKids Combined. Covers NIOS Class 5 Lesson 8 'Soil and Crops' (types of soil and the crops that suit them, preparing the field, sowing, manure and fertiliser, protecting crops, irrigation, weeding and harvesting, and crops by season). Goes further into the rock cycle, how soil forms, soil layers, texture, air and life in soil, and soil erosion. No textbook needed.",
+ "summary": "One centimetre of soil can take hundreds of years to form, and one hard rain can wash it away. Your child sows a small field on the windowsill and looks after it like a farmer. They melt crayons to follow the rock cycle, build the layers of soil in a bottle, and race water through sand, clay and soil. They measure the air hidden in soil, start a compost, and let rain fall on bare and covered soil. They learn the steps of growing a crop, the three crop seasons and the soils of India, and weigh the gains and costs of the Green Revolution.",
+ "builds_on": "Class 2 rocks-and-soil rung: rock lies under all soil, rocks are hard or soft and absorb water or are waterproof, weathering breaks rock into pebbles, sand and clay, soil is rock grains with humus, water, air and living things, and a soil jar settles into layers. This rung adds the three families of rock and the rock cycle, the five things that make a soil, soil layers, texture and loam, air spaces, nutrients and compost, how a crop is grown from field to store, the crop seasons, and soil erosion. Later (middle school): soil chemistry and pH, plate tectonics, and food security.",
+ "goals": [
+  "By the end your child can name the three families of rock, give an Indian example of each, and explain how one can change into another.",
+  "By the end your child can say what makes a soil (rock, climate, living things, slope and time) and draw the layers of soil from leaf litter to bedrock.",
+  "By the end your child can tell sand, silt and clay apart by feel, and explain which soil drains fast, which holds water, and why loam suits most crops.",
+  "By the end your child can explain how humus, compost, earthworms and root nodules feed the soil, and what nitrogen, phosphorus and potassium do for a plant.",
+  "By the end your child can put the steps of growing a crop in order, from preparing the field to storing the grain, and say why each matters.",
+  "By the end your child can name kharif, rabi and zaid crops, match Indian soils to the crops that suit them, and explain how bare soil is lost and how farmers keep it."
+ ],
+ "subconcepts": [
+  "three families of rock: igneous, sedimentary and metamorphic",
+  "the rock cycle and deep time",
+  "five things that make a soil: parent rock, climate, living things, slope and time",
+  "soil layers: leaf litter, topsoil, subsoil, broken rock and bedrock",
+  "soil texture: sand, silt, clay and loam",
+  "drainage, water holding and waterlogging",
+  "air spaces in soil and why roots need air",
+  "soil life, humus and compost",
+  "plant nutrients: nitrogen, phosphorus and potassium, and root nodules",
+  "soils of India and the crops that suit them",
+  "growing a crop: preparing the field, sowing, manure and fertiliser, irrigation, weeding, protecting, harvesting and storing",
+  "crop seasons: kharif, rabi and zaid",
+  "soil erosion and how farmers prevent it",
+  "the Green Revolution and organic farming: gains and costs"
+ ],
+ "words": [
+  [
+   "igneous rock",
+   "rock made when hot melted rock cools and hardens, like granite and basalt"
+  ],
+  [
+   "sedimentary rock",
+   "rock made from layers of sand, mud or shells pressed and stuck together, like sandstone and limestone"
+  ],
+  [
+   "metamorphic rock",
+   "rock changed by great heat and squeezing deep underground, like marble and slate"
+  ],
+  [
+   "rock cycle",
+   "the slow, never-ending way rocks are broken, laid down, squeezed, melted and made again"
+  ],
+  [
+   "topsoil",
+   "the dark top layer of soil, rich in humus, where most roots and soil life are"
+  ],
+  [
+   "subsoil",
+   "the paler layer under the topsoil, with less humus and more rock grains"
+  ],
+  [
+   "texture",
+   "how much sand, silt and clay a soil has, which you can feel between your fingers"
+  ],
+  [
+   "loam",
+   "a soil with a good mix of sand, silt and clay plus humus, which suits most crops"
+  ],
+  [
+   "nutrient",
+   "a substance a plant takes from the soil to grow, such as nitrogen"
+  ],
+  [
+   "compost",
+   "manure made when dead leaves and peels are broken down by worms, fungi and bacteria"
+  ],
+  [
+   "irrigation",
+   "bringing water to crops from wells, tanks, canals or pipes"
+  ],
+  [
+   "erosion",
+   "soil or rock being carried away by water or wind"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Becoming farmers",
+   "goal": "Recall Class 2, meet the story, learn how slowly soil forms, and sow a small field to look after through the lesson.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do we remember about rocks and soil?",
+     "mins": 7,
+     "do": "Recall the Class 2 rung in one quick round. Ask: 'What is under all the soil, if you dig far enough?' (Rock.) 'How does a hill turn into sand?' (Rain, roots, heat and rubbing break the rock. This is called weathering.) 'What is soil made of?' (Tiny bits of rock, humus from rotted leaves, water, air and living things.) 'When you shook soil in a jar of water, what settled first?' (Small stones and sand, then silt, then fine clay on top.) Say: 'This time we will find out how rock is made, how soil is made, and how a farmer turns soil into food.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Field That Ran Red",
+     "mins": 12,
+     "do": "Read the story aloud. It is told by Selvi, a girl of ten in a village in Tiruvannamalai district, Tamil Nadu. Don't explain it. Ask two questions: 'Why was the water from Appa's field red?' and 'Why was Paati's water almost clear?' Write your child's answers on a sheet and keep it for Day 8."
+    },
+    {
+     "kind": "talk",
+     "title": "How long does soil take to make?",
+     "mins": 8,
+     "do": "Ask: 'How long do you think nature takes to make soil as thick as your finger is wide, about 1 centimetre?' Wait for a guess and a reason. Then say: 'In many places it takes hundreds of years. In some places it takes about a thousand.' Ask: 'Paati said a hand-deep of soil takes longer to make than anyone has lived. A hand is about 10 centimetres. If each centimetre takes 300 years, how long is that?' (10 times 300 is 3000 years.) Then ask: 'How long did it take the rain in the story to wash soil away?' (One night.) Say: 'Soil is made slowly and can be lost quickly. That is why farmers care about it so much.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Sow your windowsill field",
+     "mins": 18,
+     "ref": "e1",
+     "do": "Do Experiment e1. Your child is the farmer. First they prepare the field: break lumps in the soil with their fingers and pick out stones and sticks. Then they do the ball test. Squeeze a little soil in a fist. If water drips out, it is too wet. If it falls apart like powder, it is too dry. If it holds together and crumbles when poked, it is just right. Then sow: three rows of methi seeds pressed in half a centimetre deep, and two rows of moong seeds two centimetres deep. Ask: 'Why do you think big seeds go deeper than small ones?' (A big seed has more stored food, so its shoot can push up further.) Water gently. Start the farm diary: the date, what was sown, and a guess of how many days until the first shoots."
+    }
+   ],
+   "need": [
+    "a plastic tray, takeaway box or wide pot with a few holes in the bottom",
+    "garden soil or 'red soil' from a plant nursery",
+    "a spoon of methi seeds and a spoon of whole moong from the kitchen",
+    "a notebook for the farm diary"
+   ],
+   "prep": [
+    {
+     "task": "Buy a small bag of garden soil and a small bag of sand from a plant nursery, and a packet of multani mitti from a grocery or chemist",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Rocks are always being made",
+   "goal": "Learn the three families of rock and follow the rock cycle with crayons.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Check the field",
+     "mins": 4,
+     "ref": "e1",
+     "do": "Look at the windowsill field from Experiment e1. Feel the soil. If the top is dry, water it gently. Ask: 'Has anything come up yet?' (Moong often splits and shows a root in a day or two. Methi shoots usually show in two to four days.) Your child writes the date and what they see in the farm diary."
+    },
+    {
+     "kind": "talk",
+     "title": "Three families of rock",
+     "mins": 12,
+     "do": "Say: 'Geologists sort rocks by how they were made. There are three families.' Tell them one at a time and ask a question after each. 1. Igneous rock forms when hot melted rock cools and hardens. Granite cooled slowly deep underground, so it has big crystals you can see. Basalt cooled quickly from lava. The Deccan plateau is built of layer on layer of basalt from huge lava flows about 66 million years ago. Ask: 'Is our kitchen counter granite? Can you see its crystals?' 2. Sedimentary rock forms from layers of sand, mud or shells laid down in water and pressed together over a very long time. Sandstone and limestone are sedimentary. The Red Fort in Delhi is built of red sandstone. Ask: 'Why might you find a fossil in sedimentary rock but not in granite?' (Shells and bones get buried in the mud layers. In melted rock, they would burn up.) 3. Metamorphic rock is rock changed by great heat and squeezing deep underground, without melting. Limestone becomes marble. Mud rock called shale becomes slate. The Taj Mahal is built of marble from Makrana in Rajasthan."
+    },
+    {
+     "kind": "act",
+     "title": "The crayon rock cycle",
+     "mins": 19,
+     "ref": "a1",
+     "do": "Do Activity a1. Your child scrapes old crayons into shavings with a blunt knife or a sharpener. Say: 'These shavings are like sand and grains broken off a hill by weathering.' They press the shavings hard together in folded foil: 'Layers pressed together. This is sedimentary rock.' A grown-up warms the foil packet in a bowl of hot water for one minute, and your child presses it hard again: 'Heat and squeezing without melting. This is metamorphic rock.' Last, a grown-up floats an open foil boat of shavings on very hot water until they melt, then lets it cool: 'Melted and cooled. This is igneous rock.' Ask: 'Could the igneous crayon become shavings again?' (Yes, scrape it. Rock that is weathered starts the cycle again.)"
+    },
+    {
+     "kind": "talk",
+     "title": "James Hutton and the rock that has no beginning",
+     "mins": 10,
+     "ref": "v1",
+     "do": "Tell Voice v1. Say: 'James Hutton was a Scottish farmer and doctor who lived more than 200 years ago. He wondered why the rain had not washed all the soil off his farm into the sea.' Tell the rest of the voice: his idea that old rock is worn away, laid down as new layers, squeezed and lifted, over and over, and his trip to Siccar Point in 1788. Ask the voice's question. Then ask: 'Our crayon cycle took twenty minutes. How long does the real rock cycle take?' (Millions of years.)"
+    }
+   ],
+   "need": [
+    "3 or 4 old crayons",
+    "a blunt knife or a crayon sharpener",
+    "kitchen foil",
+    "two bowls",
+    "hot water from a kettle (grown-up only)"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "How a rock becomes a soil",
+   "goal": "Learn the five things that make a soil, build the layers of soil in a bottle, and meet the soils of India.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Check the field",
+     "mins": 4,
+     "ref": "e1",
+     "do": "Look at the field in Experiment e1. Count the shoots in each row and write the numbers in the farm diary. Ask: 'Which seed came up first, moong or methi? Was your guess right?' Water if the top is dry."
+    },
+    {
+     "kind": "talk",
+     "title": "Dokuchaev's five makers of soil",
+     "mins": 9,
+     "ref": "v2",
+     "do": "Tell Voice v2 about Vasily Dokuchaev. Then write the five makers of soil on a sheet and give one example for each. 1. Parent rock: the rock underneath. Basalt makes black soil and granite often makes red soil. 2. Climate: heavy rain and heat break rock fast and wash things down. 3. Living things: roots, worms, fungi and bacteria. 4. Slope: on a steep hill soil slides away, and in a valley it piles up. 5. Time: hundreds to thousands of years. Ask: 'Which of the five made the difference between Appa's field and Paati's field in the story?' (Living things and slope: Paati kept grass and leaves, and her walls stopped the water on the slope.)"
+    },
+    {
+     "kind": "act",
+     "title": "Soil layers in a bottle",
+     "mins": 15,
+     "ref": "a2",
+     "do": "Do Activity a2. Your child builds the layers of soil in a cut plastic bottle, from the bottom up: a big stone for bedrock, pebbles and gravel for broken rock, sand mixed with a little soil for subsoil, dark soil for topsoil, and dry leaves on top for leaf litter. Ask after each layer: 'What lives or grows in this layer?' (Leaf litter and topsoil: most roots, worms, fungi and insects. Subsoil: a few deep roots. Broken rock and bedrock: almost nothing.) Ask: 'If a building site near you has a deep pit, what would you see on its side?' (A dark band at the top and paler layers below.) Say: 'Only look from a safe distance, never go near the edge.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Soils of India",
+     "mins": 10,
+     "do": "Say: 'In Class 2 you met red, black, alluvial, laterite and desert soils. Now let's ask where each one came from.' Show a map of India on a phone. Black soil covers much of Maharashtra, Gujarat, western Madhya Pradesh and parts of Karnataka and Telangana. It formed from the Deccan basalt. It holds water well and swells when wet, so it is good for cotton. Red soil covers much of Tamil Nadu, Karnataka and Odisha. It formed from old rocks like granite. Iron in it makes it red. It drains well and suits groundnut, ragi and millets. Alluvial soil was laid down by rivers, along the Ganga plains and in river deltas like the Kaveri delta. It is soft and rich, and suits rice, wheat and sugarcane. Laterite forms where heavy rain washes most things out of the soil, leaving iron and aluminium behind, as in Kerala and the Western Ghats. In Kerala, blocks of laterite are cut for building houses. It suits cashew, tea and coffee. Desert soil in Rajasthan is sandy and dry, and suits bajra. Ask: 'Which of the five makers of soil explains each one?'"
+    },
+    {
+     "kind": "think",
+     "title": "Is soil alive?",
+     "mins": 7,
+     "do": "Ask: 'Is soil alive, or is it only a home for living things?' Wait for your child's reasons. Then give two views. One: soil is not alive itself, because the rock grains don't grow or feed. Two: soil acts like a living thing, because it takes in air, gives out carbon dioxide, and is built by its living things. Without them it is only crushed rock. Ask: 'What would you need to find out to decide?' There is no single right answer."
+    }
+   ],
+   "need": [
+    "a 2-litre clear plastic bottle, top cut off by a grown-up",
+    "a big stone, a handful of pebbles, a cup of sand, two cups of garden soil, a handful of dry leaves",
+    "a map of India on a phone"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Sand, silt, clay and loam",
+   "goal": "Feel soil texture, race water through three soils, and match soils to crops.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Check the field",
+     "mins": 4,
+     "ref": "e1",
+     "do": "Look at the field in Experiment e1. Count the shoots again and write the numbers in the farm diary. Ask: 'Did every seed come up? Why might some seeds not come up?' (Too deep, too dry, too wet, or a damaged seed.) Water if the top is dry."
+    },
+    {
+     "kind": "act",
+     "title": "The feel test",
+     "mins": 10,
+     "ref": "a3",
+     "do": "Do Activity a3. Put a spoon each of sand, multani mitti and garden soil on a plate. Add a few drops of water to each and mix to a damp paste. Your child rubs each between finger and thumb. Ask: 'Which feels gritty? Which feels smooth and sticky?' (Sand is gritty. Multani mitti, which is a clay, is smooth and sticky.) Then they roll each into a sausage. Sand will not hold together. Clay makes a long sausage you can bend into a ring. Garden soil is in between. Say: 'Sand grains are the biggest, and you can see each one. Silt grains are much smaller, like flour. Clay grains are so tiny you can't see them even with a magnifying glass. A soil with a good mix of all three, plus humus, is called loam.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The water race",
+     "mins": 18,
+     "ref": "e2",
+     "do": "Do Experiment e2. Set up three bottle funnels with a cloth over each neck. Put one cup of sand in the first, one cup of multani mitti in the second, and one cup of garden soil in the third. Ask: 'If we pour the same water into all three, which will let it through fastest? Which will hold it?' Write the guesses. Pour 200 millilitres into each at the same time. After 5 minutes, measure the water in each cup below. Ask: 'How much did each soil hold?' (200 minus what came through.) Good answers: water rushes through sand, and clay lets very little through, with water still sitting on top."
+    },
+    {
+     "kind": "talk",
+     "title": "The right soil for the crop",
+     "mins": 8,
+     "do": "Say: 'Each crop suits a different soil.' Ask after each one, 'Why does it suit that soil?' Rice grows standing in water, so it suits clay or alluvial soil that holds water. Groundnut pods grow underground, so they need loose, sandy soil they can push into. Cotton needs water deep down through a dry season, so it suits black soil. Bajra survives with little water, so it suits sandy desert soil. Ask: 'Which soil from the water race would be best for a pot plant on our balcony?' (Garden soil, the loam. It drains but still holds water.)"
+    },
+    {
+     "kind": "think",
+     "title": "Can roots drown?",
+     "mins": 5,
+     "do": "Ask: 'In the clay funnel, the water sat on top. What would happen to a plant's roots in that soil after a lot of rain?' Wait for a guess. Then say: 'Roots need air as well as water. When every gap is full of water, roots can't get air, and they can rot. Farmers call this waterlogging.' Ask: 'How do we know there is air in soil at all?' Say tomorrow we will measure it."
+    }
+   ],
+   "need": [
+    "a cup each of sand, multani mitti and garden soil",
+    "3 plastic bottles, cut in half by a grown-up, the top half turned upside down as a funnel",
+    "3 pieces of thin cloth and 3 rubber bands",
+    "3 cups or glasses",
+    "a measuring cup",
+    "a phone timer"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Air, life and food in the soil",
+   "goal": "Measure the air in soil, learn what feeds a plant, and start a compost.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "How much of soil is air?",
+     "mins": 12,
+     "ref": "e3",
+     "do": "Do Experiment e3. First drop a lump of dry garden soil into a glass of water. Ask: 'What are the bubbles?' (Air coming out of the gaps in the soil.) Then fill a steel tumbler to a marked line with dry sand. Pour in water slowly from a measuring cup until the water just reaches the top of the sand. Ask: 'How much water went in?' Say: 'The water filled the air spaces. So the air spaces in the sand were that big.' If 200 millilitres of sand took 70 millilitres of water, ask: 'About what fraction of the sand was air?' (About one third.)"
+    },
+    {
+     "kind": "talk",
+     "title": "What a plant takes from the soil",
+     "mins": 10,
+     "do": "Say: 'A plant makes its own food from air, water and sunlight. But it also needs small amounts of nutrients from the soil.' Write N, P and K. Nitrogen (N) helps make green leaves. Phosphorus (P) helps roots and seeds. Potassium (K) helps the plant stay strong against disease and drought. Ask: 'Where does nitrogen in the soil come from?' Then tell: 'Air is mostly nitrogen, but plants can't use it from the air. Some bacteria can. Bacteria called Rhizobium live in little lumps, called nodules, on the roots of dal plants like moong, chana and groundnut. They turn nitrogen from the air into a form the plant can use. In return the plant feeds them sugar.' Ask: 'Why might a farmer grow a dal crop in a field before wheat?' (The dal crop's bacteria leave nitrogen in the soil.) Say: 'Soil is full of life. One teaspoon of healthy soil can hold hundreds of millions of bacteria, as well as fungi and tiny animals.'"
+    },
+    {
+     "kind": "act",
+     "title": "Start a compost bottle",
+     "mins": 12,
+     "ref": "a4",
+     "do": "Do Activity a4. Your child layers dry leaves or torn newspaper, chopped vegetable peels and a handful of garden soil in a cut bottle, twice over, sprinkling a little water on each layer. Ask: 'Why add a handful of soil?' (It brings the bacteria and fungi that break the peels down.) Cover the top with cloth and a rubber band, and keep it in the shade. Say: 'We will check it every few days. Real compost takes about six to eight weeks.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 11,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1. It asks about rock families, soil layers, texture, drainage and nutrients. Read each question aloud if needed. For the two written questions, your child says the answer first, then writes it."
+    }
+   ],
+   "need": [
+    "a lump of dry garden soil and a glass of water",
+    "a steel tumbler and a cup of dry sand",
+    "a measuring cup",
+    "a 2-litre plastic bottle, cut by a grown-up, with a few small holes in the sides",
+    "vegetable peels, dry leaves or torn newspaper, a handful of garden soil",
+    "a piece of cloth and a rubber band"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "From field to store",
+   "goal": "Learn every step of growing a crop and why each one matters.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "Thin and weed the field",
+     "mins": 6,
+     "ref": "e1",
+     "do": "Look at the field in Experiment e1. Count the plants in each row. Where methi shoots are crowded, your child pulls out a few gently, so the ones left have room. Pull out any plants that you did not sow. Ask: 'Why does a farmer pull out weeds?' (Weeds take the same water, light and nutrients as the crop.) Write it in the farm diary."
+    },
+    {
+     "kind": "talk",
+     "title": "The steps of growing a crop",
+     "mins": 13,
+     "do": "Say: 'A farmer does the same steps you did, on a big field.' Tell each step and ask why it matters. 1. Preparing the field: ploughing loosens the soil, lets air in, buries weeds and helps water soak in. Plough when the soil is just damp. 2. Sowing: at the right time and the right depth, with space between seeds. A seed drill drops seeds in neat rows. 3. Manure and fertiliser: test the soil first, then add only what is missing. Compost and dung feed soil life. Fertiliser gives exact nutrients. 4. Irrigation: water from wells, canals and tanks. In Tamil Nadu thousands of old village tanks, called eris, store the monsoon rain. Drip irrigation puts water right at the roots and can use much less water than flooding a field. 5. Weeding. 6. Protecting the crop from insects, diseases, birds and animals: neem sprays, traps, scarecrows and growing mixed crops. 7. Harvesting when the grain is ripe. 8. Threshing to free the grain, winnowing to blow away the chaff, and storing the grain dry. Ask: 'What happens if grain is stored damp?' (It grows mould and rots.)"
+    },
+    {
+     "kind": "act",
+     "title": "A farm year in movement",
+     "mins": 10,
+     "ref": "a5",
+     "do": "Do Activity a5. Call out each step and your child acts it with their whole body: driving a plough, dropping seeds in a line, scattering compost, opening a water channel, bending to pull weeds, chasing birds, cutting with a sickle, beating sheaves to thresh, and tossing grain from a winnowing basket in the wind. Then call the steps in a jumbled order. Your child must say 'Wrong!' and put them right."
+    },
+    {
+     "kind": "talk",
+     "title": "The Howards and the Indore method",
+     "mins": 10,
+     "ref": "v3",
+     "do": "Tell Voice v3. Say: 'Gabrielle and Albert Howard were plant scientists who came to India from England more than a hundred years ago. They learned how Indian farmers put dung and crop waste back into the soil.' Tell the rest of the voice. Ask the voice's question. Then look at the compost bottle from Activity a4. Ask: 'Has anything changed yet?'"
+    },
+    {
+     "kind": "think",
+     "title": "What is a weed?",
+     "mins": 6,
+     "do": "Ask: 'Is a weed a kind of plant?' Wait for an answer. Then say: 'A weed is any plant growing where people don't want it. The same plant can be a weed in a wheat field and a food or medicine somewhere else.' Tell your child that many families in South India pick leafy greens, called keerai, that grow on their own at the edges of fields. Ask: 'From the plant's point of view, is it a weed?'"
+    }
+   ],
+   "need": [
+    "the windowsill field and the farm diary",
+    "the compost bottle"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Which crop in which season?",
+   "goal": "Learn the kharif, rabi and zaid seasons, make a crop calendar and play the farming game.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Why not grow wheat in May?",
+     "mins": 5,
+     "do": "Ask: 'Why don't farmers in Punjab sow wheat in May?' Wait for a guess and a reason. Then say: 'Every crop needs the right temperature and the right amount of water to sprout, grow and ripen. Wheat likes cool weather while it grows. May in Punjab is far too hot.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Kharif, rabi and zaid",
+     "mins": 10,
+     "do": "Say: 'Across most of India there are three crop seasons.' Kharif crops are sown when the southwest monsoon arrives, in June and July, and harvested in September and October. Examples: rice, maize, jowar, bajra, cotton and groundnut. Rabi crops are sown as winter begins, from October to December, and harvested in March and April. Examples: wheat, chana, mustard, barley and peas. Zaid crops grow in the short hot season between, from March to June, with irrigation. Examples: watermelon, muskmelon, cucumber and moong. Then say: 'Tamil Nadu gets much of its rain from the northeast monsoon, from October to December. So in the Kaveri delta, farmers name their rice seasons kuruvai, samba and thaladi.' Ask: 'Which season is it now? Which crops would farmers near us be growing?'"
+    },
+    {
+     "kind": "act",
+     "title": "Make a crop calendar",
+     "mins": 12,
+     "ref": "a6",
+     "do": "Do Activity a6. Your child draws a big circle and divides it into 12 months, like a clock. They colour the kharif months green, the rabi months blue and the zaid months yellow, and draw two crops in each band. Then they mark three harvest festivals in the right months: Pongal in January, Baisakhi in April and Onam in August or September. Ask: 'Why do you think so many festivals come just after a harvest?'"
+    },
+    {
+     "kind": "game",
+     "title": "Play Seed to Harvest",
+     "mins": 18,
+     "ref": "g1",
+     "do": "Play Game g1 with the printed board and a die. Each player is a farmer growing one crop from bare soil to a full store. When a player lands on a square, they read it aloud and say why it moves them forward or back. Ask after the game: 'Which square sent you back furthest? How could a real farmer avoid it?'"
+    }
+   ],
+   "need": [
+    "a large sheet of paper and colours",
+    "the printed Seed to Harvest board, a die and a counter for each player"
+   ],
+   "prep": [
+    {
+     "task": "Print the Seed to Harvest board on A4",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "When soil leaves the field",
+   "goal": "Test rain on bare and covered soil, learn how farmers keep soil, and weigh the Green Revolution.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Rain on bare and covered soil",
+     "mins": 15,
+     "ref": "e4",
+     "do": "Do Experiment e4 in the bathroom or on a balcony. Two boxes of damp soil slope down to two glasses. One is bare. The other is covered with dry leaves or torn newspaper. Ask first: 'When we pour the same rain on both, which glass will get the muddier water?' Write the guess. Sprinkle 500 millilitres of water over each from a bottle with holes in its cap. Compare the two glasses. Then read out your child's Day 1 answers about the story. Ask: 'Which box was Appa's field, and which was Paati's?' (The bare box was Appa's. The covered box was Paati's.)"
+    },
+    {
+     "kind": "talk",
+     "title": "How farmers keep their soil",
+     "mins": 8,
+     "do": "Say: 'When water or wind carries soil away, it is called erosion.' Tell four ways farmers stop it, and ask your child to point to which one Selvi and Appa used. 1. Bunds: low walls of earth or stone built across a slope, along its shape. Water stops at each one and drops its soil. 2. Terraces: a hillside cut into flat steps, as on tea and rice hills in Kerala, the Nilgiris and Nagaland. 3. Mulch and cover: dry leaves, straw or a cover crop protect the soil from hard raindrops. 4. Trees and grass strips: their roots hold the soil and slow the wind. Ask: 'Why should ploughing run across a slope, not down it?'"
+    },
+    {
+     "kind": "talk",
+     "title": "The Green Revolution",
+     "mins": 12,
+     "ref": "v4",
+     "do": "Tell Voice v4. Say: 'In the 1960s India did not grow enough grain to feed its people, and it had to buy wheat from other countries.' Tell the rest of the voice. Make two columns on a sheet with your child: 'Gains' and 'Costs'. Gains: much more wheat and rice, and no more need for food aid. Costs: groundwater falling in Punjab, too much fertiliser in some places, soil losing humus, and many old local crop varieties no longer grown. Ask the voice's question. There is no single right answer."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2. It asks about seasons, crop steps, erosion and soils of India. Let your child look at the crop calendar and the farm diary while they work."
+    }
+   ],
+   "need": [
+    "2 identical shallow plastic takeaway boxes, a grown-up cuts a small notch in one short end of each",
+    "4 cups of garden soil",
+    "dry leaves or torn newspaper",
+    "2 clear glasses",
+    "a book to prop the boxes",
+    "a 1-litre bottle with 6 small holes made in its cap by a grown-up"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Harvest, check and teach it back",
+   "goal": "Harvest the windowsill field, do the challenge worksheet and check questions, and teach it back.",
+   "steps": [
+    {
+     "kind": "act",
+     "title": "Harvest the field",
+     "mins": 8,
+     "ref": "e1",
+     "do": "Look at the field in Experiment e1 one last time. If the methi is 5 to 8 centimetres tall, your child snips it just above the soil with scissors, washes it, and adds it to dinner. If it is smaller, wait a few more days. Gently pull up one moong plant and wash the soil off its roots. Ask: 'Can you see any small lumps on the roots?' (These could be the nodules where Rhizobium bacteria live. Not every plant has them. It depends on whether the bacteria were in the soil.) Your child writes the harvest in the farm diary and draws the moong roots."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3 together. The last questions have no single right answer. Listen for answers that use your child's own test results, and that look at more than one side."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. Let your child use the soil bottle, the funnels, the crop calendar and the farm diary to show the answers. For any miss, go back to that test together and ask again."
+    },
+    {
+     "kind": "talk",
+     "title": "Other eyes on soil",
+     "mins": 7,
+     "do": "Read two of the perspectives aloud: the woman farm worker and the earthworm. Then ask one big question: 'Every grain of rice you eat grew in soil that was once rock. Who does the soil belong to?' Let your child give reasons."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Your child teaches the family in five minutes, using the farm diary and the soil bottle. They must explain: how a rock becomes soil, the layers of soil, why loam suits most crops, the steps of growing a crop, one crop for each season, and one way to stop soil washing away. The listener asks one hard question: 'Why does soil need living things?'"
+    }
+   ],
+   "need": [
+    "the windowsill field, scissors",
+    "the farm diary, soil bottle, crop calendar and compost bottle"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Rocks, layers and texture",
+   "day": 5,
+   "sections": [
+    [
+     "A. Rocks",
+     [
+      {
+       "t": "match",
+       "p": "Match each rock to how it was made.",
+       "pairs": [
+        [
+         "granite",
+         "melted rock that cooled slowly underground"
+        ],
+        [
+         "sandstone",
+         "layers of sand pressed together"
+        ],
+        [
+         "marble",
+         "limestone changed by heat and squeezing"
+        ],
+        [
+         "basalt",
+         "lava that cooled quickly"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these rocks into their families.",
+       "items": [
+        "granite",
+        "basalt",
+        "sandstone",
+        "limestone",
+        "marble",
+        "slate"
+       ],
+       "cats": [
+        "igneous",
+        "sedimentary",
+        "metamorphic"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In which family of rock are you most likely to find a fossil?",
+       "opts": [
+        "igneous",
+        "sedimentary",
+        "metamorphic"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Soil",
+     [
+      {
+       "t": "fill",
+       "p": "The dark top layer of soil, full of humus and roots, is called ____.",
+       "a": [
+        "topsoil",
+        "the topsoil"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Meena pours the same water into funnels of sand, clay and garden soil. Through which does water run fastest?",
+       "opts": [
+        "sand",
+        "clay",
+        "garden soil"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which grains are the smallest?",
+       "opts": [
+        "sand",
+        "silt",
+        "clay"
+       ],
+       "a": 2
+      },
+      {
+       "t": "match",
+       "p": "Match each nutrient to what it mostly helps a plant do.",
+       "pairs": [
+        [
+         "nitrogen",
+         "make green leaves"
+        ],
+        [
+         "phosphorus",
+         "grow roots and seeds"
+        ],
+        [
+         "potassium",
+         "stay strong against disease and drought"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A soil with a good mix of sand, silt and clay, plus humus, is called ____.",
+       "a": [
+        "loam"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Remember the crayon rock cycle? Explain how a piece of granite could one day become part of a sandstone.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A plant in a pot of clay soil is watered every day and its roots rot. Explain why.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Seasons, steps and soils of India",
+   "day": 8,
+   "sections": [
+    [
+     "A. Seasons and crops",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these crops by the season they are usually sown in.",
+       "items": [
+        "rice",
+        "wheat",
+        "watermelon",
+        "cotton",
+        "chana",
+        "mustard",
+        "bajra",
+        "cucumber"
+       ],
+       "cats": [
+        "kharif",
+        "rabi",
+        "zaid"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Rabi crops are sown…",
+       "opts": [
+        "when the southwest monsoon arrives",
+        "as winter begins",
+        "in the hot months before the monsoon"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Growing a crop",
+     [
+      {
+       "t": "sort",
+       "p": "Kavya's family grows ragi. Sort their jobs into before sowing and after the crop is ripe.",
+       "items": [
+        "ploughing",
+        "levelling the field",
+        "testing the soil",
+        "harvesting",
+        "threshing",
+        "winnowing"
+       ],
+       "cats": [
+        "before sowing",
+        "after the crop is ripe"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan squeezes a lump of soil and water drips out. What should his family do before ploughing?",
+       "opts": [
+        "plough at once",
+        "wait for the soil to dry a little",
+        "add more water"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each soil to a crop that suits it.",
+       "pairs": [
+        [
+         "black soil",
+         "cotton"
+        ],
+        [
+         "sandy desert soil",
+         "bajra"
+        ],
+        [
+         "alluvial soil in a delta",
+         "rice"
+        ],
+        [
+         "laterite soil",
+         "cashew"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Bacteria in the root nodules of dal plants take ____ from the air and turn it into a form the plant can use.",
+       "a": [
+        "nitrogen"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Soil on the move",
+     [
+      {
+       "t": "mcq",
+       "p": "Arjun pours the same rain on two boxes of soil. Which gives the muddiest water?",
+       "opts": [
+        "the box covered with dry leaves",
+        "the bare box",
+        "both the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "On a sloping field, which way should ploughing lines run to save soil?",
+       "opts": [
+        "straight down the slope",
+        "across the slope, following its shape",
+        "it makes no difference"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Appa took red silt from the dry tank bed back to his field. Where had the silt come from, and why was it worth carrying back?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "In the air test, 200 millilitres of sand took in 70 millilitres of water. Explain what the water was filling, and why roots need those spaces.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like a soil scientist",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "A farmer grows moong one season and wheat the next, without adding fertiliser. The wheat grows better than in a field where wheat was grown both times. What is the best reason?",
+       "opts": [
+        "moong plants shade the soil",
+        "bacteria in the moong root nodules left nitrogen in the soil",
+        "wheat likes to follow any crop"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Laterite forms where the rain is very heavy. Why is it often poor for crops?",
+       "opts": [
+        "the rain washes most nutrients away",
+        "it is too cold",
+        "it has too much humus"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A jar of soil settles into 2 cm of sand, 2 cm of silt and 1 cm of clay, with leaf bits on top. What kind of soil is it most like?",
+       "opts": [
+        "sandy soil",
+        "clay soil",
+        "loam"
+       ],
+       "a": 2
+      },
+      {
+       "t": "fill",
+       "p": "If 1 centimetre of soil takes 400 years to form, 5 centimetres takes ____ years.",
+       "a": [
+        "2000",
+        "2,000"
+       ]
+      },
+      {
+       "t": "table",
+       "p": "Plan a fair test: does compost help sand hold water? Fill in what you would keep the same and what you would change.",
+       "cols": [
+        "Keep the same",
+        "Change",
+        "Measure"
+       ],
+       "rows": 3
+      }
+     ]
+    ],
+    [
+     "B. Weigh it up",
+     [
+      {
+       "t": "write",
+       "p": "The Green Revolution grew much more grain, but Punjab's groundwater is falling. How would you judge a solution that fixes one big problem but causes another? What would you want to measure?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Sikkim changed to organic farming slowly, over about ten years. Sri Lanka banned chemical fertilisers almost overnight, and harvests fell. Why might the speed of a change matter as much as the idea?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Hutton said the rock cycle shows 'no vestige of a beginning, no prospect of an end'. Using the crayon cycle, explain what he meant.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The windowsill field",
+   "day": 1,
+   "question": "If we prepare soil and sow seeds the way a farmer does, how many will come up, and what does the field need from us?",
+   "need": [
+    "a plastic tray, takeaway box or wide pot with a few holes in the bottom, and a plate under it",
+    "garden soil or 'red soil' from a plant nursery, enough for a layer about 6 centimetres deep",
+    "a spoon of methi seeds and about 10 whole moong",
+    "a cup for watering",
+    "a notebook for the farm diary"
+   ],
+   "steps": [
+    "Fill the tray with soil. Break up lumps with your fingers and pick out stones and sticks.",
+    "Do the ball test: squeeze a little soil in a fist. It should hold together and crumble when poked. If it drips, let it dry. If it is powdery, sprinkle water and mix.",
+    "Make three shallow lines with a finger for methi. Sprinkle the seeds along them and cover them with half a centimetre of soil.",
+    "Push moong seeds two centimetres deep in two more rows, a finger-width apart.",
+    "Water gently, so the soil is damp but not muddy. Put the tray on a windowsill that gets some sun.",
+    "Every day or two, write the date, the number of shoots in each row and anything else you notice. Water when the top feels dry.",
+    "When shoots crowd each other, pull out a few so the rest have room. Pull out any plant you did not sow.",
+    "Harvest the methi when it is 5 to 8 centimetres tall."
+   ],
+   "predict": "Ask your child to guess first: which seed will come up first? How many of the methi seeds will come up? Write the guesses in the farm diary.",
+   "observe": "Moong often splits and shows a white root within one or two days, and a shoot within two to four days. Methi usually shows within two to four days in warm weather, and is ready to snip in about two weeks. A few seeds may never come up.",
+   "why": "A seed needs water, air and warmth to germinate, which means to start growing. Breaking lumps lets air and water into the soil and lets roots push through. The ball test checks the soil is damp but has air in it. Big seeds like moong have more stored food, so they can be sown deeper and their shoot can still reach the light. Tiny methi seeds have little stored food, so they must be sown near the surface. Thinning and weeding stop plants competing for light, water and nutrients. These are the same steps a farmer takes on a big field.",
+   "safety": "Use seeds from the kitchen or untreated seeds from a nursery. Never use seeds coated pink, blue or green, because those are treated with poison. Wash hands after handling soil.",
+   "time": "18 min to sow + 3 to 6 min checks for about two weeks"
+  },
+  {
+   "id": "e2",
+   "title": "The water race",
+   "day": 4,
+   "question": "If we pour the same water into sand, clay and garden soil, which lets it through fastest, and which holds the most?",
+   "need": [
+    "3 plastic bottles, cut in half by a grown-up, the top half turned upside down as a funnel",
+    "3 pieces of thin cloth, such as an old handkerchief, and 3 rubber bands",
+    "3 cups or glasses to stand the funnels in",
+    "a cup of sand, a cup of multani mitti and a cup of garden soil, all dry",
+    "a measuring cup",
+    "water",
+    "a phone timer"
+   ],
+   "steps": [
+    "Tie a cloth over the neck of each funnel with a rubber band. Stand each funnel in a cup.",
+    "Put the sand in funnel 1, the multani mitti in funnel 2 and the garden soil in funnel 3. Label them.",
+    "Measure 200 millilitres of water for each funnel.",
+    "Pour the water into all three at the same time and start the timer.",
+    "After 5 minutes, measure the water in each cup.",
+    "Work out how much each soil held: 200 millilitres minus the water that came through."
+   ],
+   "predict": "Ask your child to guess first: through which soil will the water rush? Which soil will hold the most? Why?",
+   "observe": "Water runs through the sand within seconds and most of it collects in the cup. Garden soil lets some through, more slowly. Multani mitti lets very little through in 5 minutes, and water may still sit on top.",
+   "why": "Water moves through the gaps between grains. Sand grains are big, so the gaps are big and water drains fast. Little water is held, so sandy soil dries out quickly. Clay grains are tiny and packed close, so the gaps are tiny. Water moves through slowly and clings to the grains, so clay holds water for a long time, but it can become waterlogged. Garden soil is a mix with humus, which soaks up water like a sponge but keeps the soil crumbly. This is why adding compost helps both sandy and clay soils. Multani mitti is a kind of clay, called fuller's earth.",
+   "safety": "A grown-up cuts the bottles, because cut plastic edges can be sharp.",
+   "time": "18 min"
+  },
+  {
+   "id": "e3",
+   "title": "How much of soil is air?",
+   "day": 5,
+   "question": "Soil looks solid. How much of it is really empty space filled with air?",
+   "need": [
+    "a lump of dry garden soil and a clear glass of water",
+    "a steel tumbler",
+    "a cup of dry sand",
+    "a measuring cup",
+    "water",
+    "a marker or a strip of tape"
+   ],
+   "steps": [
+    "Drop the lump of dry soil into the glass of water. Watch for bubbles.",
+    "Pour 200 millilitres of water into the tumbler and mark the level with tape. Pour the water out and dry the tumbler.",
+    "Fill the tumbler with dry sand up to the mark. Tap it gently so it settles, and top it up to the mark.",
+    "Fill the measuring cup with 200 millilitres of water.",
+    "Pour the water slowly onto the sand until the water just reaches the top of the sand.",
+    "Read how much water is left in the measuring cup. Work out how much you poured in.",
+    "If you like, try the same with dry garden soil."
+   ],
+   "predict": "Ask your child to guess first: how much water will fit into a tumbler that is already full of sand? None, a little, or a lot?",
+   "observe": "Bubbles rise from the soil lump for a little while. The sand takes about 60 to 80 millilitres of water before it is full, which is about one third of its volume. Dry garden soil usually takes a little more.",
+   "why": "Soil grains don't fit together perfectly, so there are spaces between them called pores. In dry soil the pores are full of air. The water pushed the air out, which is why bubbles rose. Good garden soil is often about half pores, shared between air and water. Roots need the air in these pores to breathe, and so do worms and most soil bacteria. When soil is pressed hard, or when every pore is full of water, roots can't get air.",
+   "safety": "",
+   "time": "12 min"
+  },
+  {
+   "id": "e4",
+   "title": "Rain on bare and covered soil",
+   "day": 8,
+   "question": "Does covering soil with dry leaves stop rain from washing it away?",
+   "need": [
+    "2 identical shallow plastic takeaway boxes, each with a small notch cut by a grown-up in one short end",
+    "4 cups of damp garden soil",
+    "a thick layer of dry leaves or torn newspaper",
+    "2 clear glasses",
+    "a book",
+    "a 1-litre bottle with 6 small holes made in its cap by a grown-up",
+    "a measuring cup"
+   ],
+   "steps": [
+    "Fill both boxes with damp soil, about 3 centimetres deep, and press it flat with your hand.",
+    "Cover the soil in one box with dry leaves or torn newspaper, so no soil shows. Leave the other box bare.",
+    "Do this in a bathroom or on a balcony. Prop the end of each box without a notch on the book, so the notch is lower. Put a glass under each notch.",
+    "Fill the bottle with 500 millilitres of water. Hold it about 30 centimetres above the top end of the bare box and sprinkle all the water over the soil in about one minute.",
+    "Do the same for the covered box with another 500 millilitres.",
+    "Compare the water in the two glasses. Leave the glasses still for an hour, then compare the layer of soil at the bottom of each."
+   ],
+   "predict": "Ask your child to guess first: which glass will get the muddier water? Why?",
+   "observe": "Water from the bare box is brown and carries plenty of soil. Splashes of mud may land outside the box. Water from the covered box is much clearer. After an hour, the bare box's glass has a much thicker layer of soil at the bottom.",
+   "why": "Raindrops hit bare soil hard, knock grains loose and splash them up. Then flowing water carries the loose grains away. This is erosion. Leaves take the blow of the drops, slow the water down and let it soak in. In a real field, roots also hold the soil together. This is why farmers spread mulch, keep grass strips and build bunds across slopes. The soil in the glass is the soil the field has lost.",
+   "safety": "A grown-up cuts the notches and makes the holes in the cap. Wipe up spilled mud so nobody slips.",
+   "time": "15 min + one hour to settle"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The crayon rock cycle",
+   "day": 2,
+   "mins": 19,
+   "need": [
+    "3 or 4 old crayons, papers peeled off",
+    "a blunt knife or a crayon sharpener",
+    "kitchen foil",
+    "two bowls",
+    "hot water from a kettle (grown-up only)"
+   ],
+   "steps": [
+    "Scrape the crayons into small shavings on a sheet of foil. These are like grains broken off a hill.",
+    "Fold the foil over the shavings and press hard with your palms, or stand on it. Unwrap it. The shavings stick together in layers. This is like sedimentary rock.",
+    "A grown-up wraps it again and sets the packet in a bowl of hot water for one minute. Take it out and press it hard again. Unwrap it. The layers are squashed and smeared together. This is like metamorphic rock.",
+    "Make a small open boat of foil. Put some shavings in it. A grown-up floats it on very hot water until the wax melts. Lift it out and let it cool for 5 minutes. This is like igneous rock.",
+    "Scrape a little off the 'igneous' crayon to start the cycle again.",
+    "Draw the cycle as a circle with arrows: weathering, laying down, squeezing and heating, melting, cooling."
+   ],
+   "outcome": "Three crayon 'rocks' and a drawing of the rock cycle, showing that any rock can become any other."
+  },
+  {
+   "id": "a2",
+   "title": "Soil layers in a bottle",
+   "day": 3,
+   "mins": 15,
+   "need": [
+    "a 2-litre clear plastic bottle, top cut off by a grown-up",
+    "a big stone that fits inside",
+    "a handful of pebbles or gravel",
+    "a cup of sand",
+    "two cups of garden soil",
+    "a handful of dry leaves",
+    "a marker"
+   ],
+   "steps": [
+    "Put the big stone at the bottom. Mark it 'bedrock'.",
+    "Add pebbles and gravel. Mark it 'broken rock'.",
+    "Mix the sand with a little soil and add it. Mark it 'subsoil'.",
+    "Add the darkest garden soil. Mark it 'topsoil'.",
+    "Lay dry leaves on top. Mark it 'leaf litter'.",
+    "Draw the bottle in the notebook and write beside each layer what lives or grows there."
+   ],
+   "outcome": "A model of a soil profile, the layers you see from the surface down to bedrock."
+  },
+  {
+   "id": "a3",
+   "title": "The feel test",
+   "day": 4,
+   "mins": 10,
+   "need": [
+    "a spoon each of sand, multani mitti and garden soil",
+    "a plate",
+    "a little water"
+   ],
+   "steps": [
+    "Put the three soils in separate heaps on the plate.",
+    "Add a few drops of water to each and mix to a damp paste.",
+    "Rub each between finger and thumb. Say whether it feels gritty, floury or sticky.",
+    "Roll each into a sausage on your palm.",
+    "Try to bend each sausage into a ring.",
+    "Write which soil is mostly sand, which is mostly clay and which is a mix."
+   ],
+   "outcome": "Your child can tell sand from clay by touch, the way farmers and soil scientists do in the field."
+  },
+  {
+   "id": "a4",
+   "title": "A compost bottle",
+   "day": 5,
+   "mins": 12,
+   "need": [
+    "a 2-litre plastic bottle, top cut off by a grown-up, with a few small holes poked in the sides",
+    "a cup of chopped vegetable and fruit peels (no oil, cooked food, dairy or meat)",
+    "dry leaves or torn newspaper",
+    "a handful of garden soil",
+    "a little water",
+    "a piece of cloth and a rubber band"
+   ],
+   "steps": [
+    "Put a layer of dry leaves or torn newspaper at the bottom.",
+    "Add a layer of chopped peels.",
+    "Sprinkle a handful of soil over the peels.",
+    "Repeat the three layers once more.",
+    "Sprinkle a little water so it is damp, like a squeezed sponge.",
+    "Cover the top with cloth and a rubber band, and keep it in the shade.",
+    "Every few days, mark the level on the bottle and note any changes. If it smells bad, add more dry leaves or paper."
+   ],
+   "outcome": "Within one to two weeks the peels go soft and dark, white threads of fungi may appear, and the level sinks. In about six to eight weeks it becomes dark, crumbly compost for the windowsill field."
+  },
+  {
+   "id": "a5",
+   "title": "A farm year in movement",
+   "day": 6,
+   "mins": 10,
+   "need": [
+    "space to move"
+   ],
+   "steps": [
+    "The parent calls out each farming step in order: ploughing, sowing, adding compost, watering, weeding, protecting, harvesting, threshing, winnowing, storing.",
+    "Your child acts each step with their whole body.",
+    "Repeat faster.",
+    "The parent calls the steps in a jumbled order.",
+    "Your child shouts 'Wrong!' and says the right order."
+   ],
+   "outcome": "Your child remembers the steps of growing a crop in order, in their body as well as in words."
+  },
+  {
+   "id": "a6",
+   "title": "The crop calendar",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "a large sheet of paper",
+    "colours",
+    "a plate to draw round"
+   ],
+   "steps": [
+    "Draw a big circle and divide it into 12 months, like a clock.",
+    "Colour June to October green for kharif.",
+    "Colour October to April blue for rabi.",
+    "Colour March to June yellow for zaid.",
+    "Draw two crops in each band.",
+    "Mark Pongal in January, Baisakhi in April and Onam in August or September.",
+    "Mark the month you are in now with a star."
+   ],
+   "outcome": "A calendar to keep on the wall that shows which crops grow when, and why the seasons overlap."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "James Hutton (1726–1797), farmer, doctor and geologist, Scotland",
+   "idea": "Hutton farmed in Berwickshire, Scotland, and saw rain carry his soil towards the sea. He asked why the land had not all been worn away long ago. His answer was a cycle. Old rock is weathered and washed into the sea, laid down as new layers, pressed into rock, then heated and pushed up as new land. In 1788 he took friends by boat to Siccar Point. There, flat sandstone lies on top of older layers standing on end. He said this showed the cycle had turned many times. He wrote that he found 'no vestige of a beginning, no prospect of an end'.",
+   "then": "Many scholars of his time thought the Earth was only a few thousand years old. A popular theory said all rocks had settled out of one great ocean. Hutton's writing was long and hard to read, and few people accepted his ideas while he lived. His friend John Playfair explained them clearly in 1802.",
+   "now": "Accepted. Geologists agree that rocks are recycled over very long times and that the Earth is about 4.5 billion years old. They now know that moving plates of the Earth's crust drive much of the rock cycle, which Hutton did not know.",
+   "status": "accepted",
+   "ask": "Hutton could not watch a rock form. What clues did he use instead? What clue in your crayon cycle shows which 'rock' came first?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "Vasily Dokuchaev (1846–1903), geologist, Russia",
+   "idea": "Dokuchaev travelled across the black soil lands of Russia and dug pits to study the soil in layers. In his book on Russian black earth, published in 1883, he argued that soil is a natural body of its own, not just crushed rock. He said every soil is made by five things working together: the parent rock, the climate, living things, the shape of the land and time.",
+   "then": "Before him, most scientists saw soil either as broken-up rock or as a store of chemicals for crops. His ideas spread slowly outside Russia, partly because few scientists elsewhere read Russian.",
+   "now": "Accepted. He is called a founder of soil science, and the five makers of soil are still taught to soil scientists today. Many scientists now add people as a sixth maker, because farming, building and pollution change soil.",
+   "status": "accepted",
+   "ask": "Dokuchaev learned by digging pits and looking at the layers. What could you learn from the side of a pit that you can't learn from the top of the soil?",
+   "day": 3
+  },
+  {
+   "id": "v3",
+   "who": "Gabrielle Howard (1876–1930) and Albert Howard (1873–1947), plant scientists, Pusa (Bihar) and Indore, India",
+   "idea": "The Howards came to India in 1905 to work at the agricultural research institute at Pusa in Bihar. They worked as equal partners, breeding better wheat and studying how Indian farmers kept their soil rich by returning dung and crop waste to it. At the Institute of Plant Industry in Indore they worked out the 'Indore method' of compost: layers of plant waste, dung and earth in pits, kept damp and turned. Albert published it in 1931 with an Indian colleague, Yeshwant Wad. In 'An Agricultural Testament' (1940) he argued that healthy soil, rich in humus, makes healthy crops.",
+   "then": "Many agricultural scientists then believed crops needed only the right chemicals, and that humus did not matter much. Gabrielle died in 1930, and later accounts often named only Albert, though the early work was published under both their names.",
+   "now": "Soil scientists accept that humus and compost matter a great deal: they hold water, feed soil life and keep soil crumbly. Albert is often called a founder of organic farming. Some of his larger claims, such as that chemical fertilisers always make crops unhealthy, go beyond the evidence. The farmers they learned from are almost never named.",
+   "status": "accepted",
+   "ask": "The Howards learned from Indian farmers and then tested what they learned. Whose names went into the books? Who else should get credit for the Indore method?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "M.S. Swaminathan (1925–2023), agricultural scientist, India, and Norman Borlaug (1914–2009), USA: the Green Revolution",
+   "idea": "In the 1960s India faced food shortages and bought wheat from abroad. Borlaug had bred short, high-yielding wheat in Mexico. Swaminathan, born in Kumbakonam in Tamil Nadu, brought these wheats to India and, with Indian plant breeders, tested and adapted them. Grown with irrigation and fertiliser, they gave far more grain. India's wheat harvest roughly doubled between 1964–65 and 1970–71. New rice varieties followed. Borlaug won the Nobel Peace Prize in 1970.",
+   "then": "Some officials feared farmers would not take up the new seeds. Farmers in Punjab, Haryana and western Uttar Pradesh took them up quickly, and India stopped needing food aid.",
+   "now": "Debated. Most agree it prevented hunger and made India grow enough grain. The costs are argued about: groundwater falling in Punjab and Haryana, too much fertiliser in some places, soils losing humus, and many local crop varieties no longer grown. The benefits went mostly to areas with irrigation. Critics such as Vandana Shiva say the costs are too high. Swaminathan himself called for an 'evergreen revolution' that raises harvests without harming soil and water. Organic farming is debated too. Sikkim became fully organic in 2016 after changing over about ten years. Sri Lanka banned chemical fertilisers suddenly in 2021, harvests fell, and the ban was lifted within months.",
+   "status": "debated",
+   "ask": "The Green Revolution fed crores of people but used up groundwater. How should we judge a solution that fixes one big problem and causes another? What would you want to measure?",
+   "day": 8
+  }
+ ],
+ "project": {
+  "title": "The windowsill farm diary",
+  "days": [
+   1,
+   9
+  ],
+  "steps": [
+   "Prepare the soil and sow methi and moong in rows on Day 1.",
+   "Every day or two, write the date, the number of shoots in each row and how the soil feels.",
+   "Water when the top is dry, and write down how much.",
+   "Thin and weed the field on Day 6, and write why.",
+   "Check the compost bottle every few days and record the level.",
+   "Harvest the methi when it is 5 to 8 centimetres tall, and draw the roots of one moong plant.",
+   "On the last page, write what went well, what went wrong, and what you would change next time."
+  ],
+  "outcome": "A complete record of one small crop from bare soil to harvest, kept the way a real farmer or scientist keeps notes."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Seed to Harvest",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player, such as a bead or a coin"
+  ],
+  "rules": [
+   "Each player is a farmer. Put all counters on START.",
+   "Take turns to roll the die and move that many squares.",
+   "Read the square aloud and do what it says.",
+   "If the square moves you, first say in one sentence why it helps or harms the crop. If you can't, stay where you are.",
+   "The first farmer to reach HARVEST HOME wins. Then talk about which square would be the hardest for a real farmer."
+  ],
+  "squares": [
+   "START: a bare field",
+   "You test the soil first and add only what is missing. Move ahead 2.",
+   "You plough when the soil is just damp. Move ahead 1.",
+   "You plough wet mud. It dries into hard clods. Go back 1.",
+   "You sow on time, with the first rains. Move ahead 2.",
+   "You sow the seeds too deep. Miss a turn.",
+   "Rhizobium in your moong root nodules adds nitrogen. Move ahead 2.",
+   "Heavy rain on bare soil. Your topsoil washes away. Go back 3.",
+   "You build a stone bund across the slope. Move ahead 2.",
+   "Weeds crowd your seedlings. Name one way to remove them, then move ahead 1.",
+   "Your clay field is waterlogged. Roots get no air. Go back 2.",
+   "Drip irrigation. The same crop with less water. Move ahead 2.",
+   "Too much urea. Soft leaves bring pests. Go back 2.",
+   "Neem spray and a scarecrow protect the crop. Move ahead 1.",
+   "You add compost. The soil holds more water. Move ahead 2.",
+   "Name a kharif crop, or go back 1.",
+   "Name a rabi crop, or go back 1.",
+   "The rain fails, but the village tank has water. Stay where you are.",
+   "Earthworms mix your soil. Move ahead 1.",
+   "You harvest too late. Ripe grain falls on the ground. Go back 1.",
+   "Threshing and winnowing go well. Move ahead 1.",
+   "You store the grain damp. It grows mould. Go back 2.",
+   "A dry, clean store. Move ahead 1.",
+   "HARVEST HOME"
+  ]
+ },
+ "story": {
+  "title": "The Field That Ran Red",
+  "text": [
+   "Our village sits where the hill ends and the flat land begins, in Tiruvannamalai district. Behind our house the land slopes up towards the big rocks. Below the village lies the eri, our tank, a wide shallow lake held back by a long bank of earth. In summer it shrinks to a cracked brown floor. When the big rains come it fills, and the whole village breathes out.",
+   "The year I was ten, Appa decided to grow groundnut on the slope. For as long as I could remember it had been scrub: thorny bushes, tufts of grass, a few palmyra palms, and goats picking their way between the stones. \"There is good red soil sleeping under all that,\" Appa said. \"Groundnut loves red soil.\"",
+   "He hired a tractor. In two days the scrub was gone. The bushes were pulled out and burnt, and the stones were carried away. The plough turned the earth over in long red stripes. They all ran straight down the slope, because that was the easiest way to drive. I walked behind the tractor barefoot. The soil was warm and soft and smelled like rain, though it had not rained.",
+   "Next to Appa's slope is Rasathi Paati's field. She is not my grandmother, but everyone calls her Paati. Her field is small and lumpy. Along the bottom of each strip runs a low wall of stones with grass growing out of it, and she never lets anyone pull that grass. Between her rows she spreads groundnut shells and dry leaves, so her field always looks a little untidy. Appa laughed about it, kindly. \"Paati farms the way her grandmother did,\" he said.",
+   "We sowed when the first showers had softened the ground, one seed every hand-span. The seedlings came up in a week, small and pale green, with their leaves still folded. I counted them every morning. After a few days I stopped counting, because there were too many.",
+   "Then came the heaviest rain of the year. One evening the sky over the hill turned dark purple, and the rain fell so hard that the drops bounced back up off the ground. We sat in the doorway and listened to it drumming on the tin roof of the cattle shed. Appa was happy. \"The eri will fill,\" he said.",
+   "In the morning I ran out to see the seedlings. Water was still running off the slope in little streams, and every stream was red. Not brown. Red, like rasam. The streams had cut grooves straight down the plough lines, as if someone had dragged a finger through the field. Some seedlings lay on their sides with their thin white roots in the air. Others were simply gone.",
+   "I followed one red stream down. It joined another, and another, and they all ran into the channel that feeds the eri. The water going into the tank was thick and red. Out on the tank, where the water spread and slowed, a red cloud was sinking slowly to the bottom.",
+   "On the way back I passed Rasathi Paati's field. Water was running off her field too. But it came out from under the grass at her stone walls, and it was almost clear. I crouched and put my hand in it. It was cold, and there was hardly any grit between my fingers. Her seedlings stood in their rows under the shells and leaves, a little bent, but all there.",
+   "I stood between the two fields for a long time. The red water and the clear water came from the same rain. It fell on the same hill. Then I understood what the red was. It was not mud from somewhere else. It was our field. The soil that Appa said was sleeping under the scrub was getting up and leaving, a little with every drop, to lie at the bottom of the tank.",
+   "I told Appa. He walked up with me without his chappals and looked for a long time. Then he went to see Paati. She did not laugh at him. She showed him how the rain hit her field: first on the leaves and shells, which took the blow, and then soaking slowly into the soil underneath. She showed him how her stone walls ran across the slope, never down it, so the water had to stop and wait at each one and drop whatever it carried. \"My grandmother used to say the soil is only lent to us,\" she said. \"A hand-deep of it takes longer to make than anyone has ever lived.\"",
+   "That week Appa and I carried stones. We laid them in low lines across the slope, following the shape of the hill, the way Paati's walls went. I collected groundnut shells from three houses and spread them between the rows that were left. When the next rain came, I stood at the bottom of our field with my hand in the water. It was pink, not red. The time after that, it was almost clear.",
+   "In April the eri dried, as it does every year. Its floor cracked into plates, and the plates near the inlet were red. Appa took the bullock cart down with two baskets and a spade. He dug the red silt out of the tank bed and carried it, one cartload at a time, back up the slope. He spread it between the stone lines, where it had come from.",
+   "\"It came a long way to get back home,\" he said. I thought of all the fields in our village, and the tanks below all the villages, and the rivers below the tanks, and the sea at the end of the rivers, where no bullock cart can go."
+  ],
+  "epiphany": "For the parent: the turn comes when Selvi stands between the two fields and understands that the red in the water is the field itself. Soil that took thousands of years to form is leaving in one night, because the ground is bare and the plough lines run downhill. Paati's leaves and stone walls across the slope keep it. At the end, Appa carries the silt back, but Selvi sees that soil which reaches the rivers and the sea cannot be brought back. Let the questions draw this out.",
+  "ask": [
+   "Why was the water from Appa's field red?",
+   "Why was the water from Paati's field almost clear, even though the same rain fell on it?",
+   "Appa laughed at Paati's untidy field. Was her field untidy, or was something else going on?",
+   "Paati said the soil is only lent to us. Who is it lent by, and who is it lent to?",
+   "What did Selvi think about at the very end, and why can't a bullock cart go there?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Soil is made slowly and lost quickly.",
+   "more": "One centimetre can take hundreds of years to form from rock. One hard rain on bare ground can wash it off. The rain test on bare and covered soil shows the difference in one minute."
+  },
+  {
+   "idea": "Every rock is on its way to becoming another rock.",
+   "more": "Granite weathers into sand, sand becomes sandstone, heat and squeezing change rock, and melted rock cools into new granite. The crayon cycle shows that no rock is a beginning or an end."
+  },
+  {
+   "idea": "Soil is a meeting of rock and life.",
+   "more": "Without roots, fungi, bacteria and worms, soil would only be crushed rock. Life makes humus, opens air spaces and brings nitrogen from the air, as the Rhizobium in moong roots do."
+  },
+  {
+   "idea": "Every crop is a match between a plant, a soil and a season.",
+   "more": "Rice suits clay that holds water, groundnut suits loose sand, and wheat needs a cool season. Farmers learned these matches over thousands of years before anyone wrote them down."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows exactly how fast soil is being lost across India or the world. Measuring it over whole countries is hard, and different methods give very different answers.",
+  "Scientists disagree about how much carbon soils can store, and for how long, if farmers add compost or stop ploughing. It matters for climate change, and studies give different results.",
+  "Plant roots, fungi and bacteria trade sugar, water and nutrients underground. How they 'decide' what to give and take is only partly understood.",
+  "Nobody knows when Earth's crust first began moving in plates that drive the rock cycle. Estimates range from over 4 billion years ago to under 1 billion."
+ ],
+ "big": [
+  "Who owns the soil: the farmer, the government, the worms, or nobody?",
+  "If soil takes a thousand years to make, how should a farmer who lives sixty years treat it?",
+  "Is it better to grow as much food as possible this year, or to keep the soil rich for a hundred years? Can you do both?",
+  "A rock looks still, but it is always slowly changing. Is anything truly still?",
+  "Every grain of rice you eat grew in soil that was once rock. Where do you end and the Earth begin?"
+ ],
+ "challenge": [
+  {
+   "q": "'Ploughing deeply always makes a better field.'",
+   "hint": "Ploughing loosens soil, lets air in and buries weeds. But it also leaves soil bare for rain and wind, and it speeds up the loss of humus. In parts of the Ganga plains many farmers now sow wheat straight into the stubble of the rice crop without ploughing, called zero tillage. Results vary with soil and weather. Ask: what would you measure to decide whether to plough?"
+  },
+  {
+   "q": "'Chemical fertiliser poisons the soil.'",
+   "hint": "Measured fertiliser gives a crop the nutrients it lacks, and it helped India grow enough grain. Problems come from using too much, from using the wrong balance, such as too much urea, and from forgetting humus. That is why soil testing matters: India gives farmers Soil Health Cards that show what their soil lacks. Ask: is the problem the fertiliser, or how it is used?"
+  },
+  {
+   "q": "'Weeds are always bad for a farm.'",
+   "hint": "Weeds compete with crops for water, light and nutrients, so farmers remove them from among the crop. But plants at field edges hold soil, feed bees and other insects, and some are eaten as greens. 'Weed' is a word about what people want, not a kind of plant. Ask: who decides what counts as a weed?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A woman farm worker in Tamil Nadu",
+   "view": "Women do a large share of the work on Indian farms: transplanting paddy, weeding and harvesting. But only about one in seven farms is run by a woman, according to India's farm census. Ask: who should decide what happens to a field, the person who owns it or the people who work it?"
+  },
+  {
+   "who": "An earthworm",
+   "view": "For a worm, soil is food, home and road all at once. It swallows soil and dead leaves and leaves rich castings behind, which open up air spaces as it moves. Ask: if worms could speak at a farmers' meeting, what would they ask for?"
+  },
+  {
+   "who": "A potter in Kumbakonam",
+   "view": "A potter chooses clay for the very thing that makes it a poor field soil: its tiny grains that hold water and stick together. Ask: is any soil good or bad by itself, or only good or bad for something?"
+  },
+  {
+   "who": "A jhum farmer in Nagaland",
+   "view": "In shifting cultivation, called jhum in the northeast, a family clears and farms a patch of forest for a year or two, then moves on so the forest and soil can grow back. When the rest is long, the soil recovers. When too many people need land, the rest gets shorter and the soil is lost. Ask: why does the length of the rest matter so much?"
+  },
+  {
+   "who": "A river",
+   "view": "Rivers carry soil from hills and lay it down as rich alluvial plains and deltas, which is how the Kaveri delta was built. When too much sand is dug out of a riverbed for building, the river cuts deeper and wells nearby can dry. Ask: is river sand a gift, or is it borrowed?"
+  }
+ ],
+ "books": [
+  {
+   "title": "The Rock Factory: A Story About the Rock Cycle",
+   "author": "Jacqui Bailey (illustrated by Matthew Lilly)",
+   "for": "read together",
+   "age": "6–10",
+   "why": "Follows one piece of rock around the whole rock cycle, in a comic style, which fits Day 2."
+  },
+  {
+   "title": "Dirt: The Scoop on Soil",
+   "author": "Natalie M. Rosinsky (illustrated by Sheree Boyd)",
+   "for": "read together",
+   "age": "6–9",
+   "why": "A short picture book on what soil is made of and the living things in it."
+  },
+  {
+   "title": "The One-Straw Revolution",
+   "author": "Masanobu Fukuoka",
+   "for": "parent reads",
+   "age": "adult, read short parts aloud",
+   "why": "A Japanese farmer's account of growing rice and grain without ploughing, which helps with the ploughing debate."
+  },
+  {
+   "title": "Dirt: The Erosion of Civilizations",
+   "author": "David R. Montgomery",
+   "for": "parent reads",
+   "age": "adult",
+   "why": "A geologist shows how soil loss has shaped the history of farming peoples, background for Day 8."
+  }
+ ],
+ "check": [
+  {
+   "q": "Name the three families of rock and give one example of each.",
+   "a": "Igneous, such as granite or basalt. Sedimentary, such as sandstone or limestone. Metamorphic, such as marble or slate."
+  },
+  {
+   "q": "Name the five things that make a soil.",
+   "a": "The parent rock, the climate, living things, the slope of the land, and time."
+  },
+  {
+   "q": "Why does water run through sand fast but stay on clay?",
+   "a": "Sand grains are big with big gaps, so water drains fast. Clay grains are tiny with tiny gaps, so water moves slowly and clings to them."
+  },
+  {
+   "q": "Why do roots need air spaces in the soil?",
+   "a": "Roots need air to breathe. If every gap is full of water, as in waterlogged clay, roots can rot."
+  },
+  {
+   "q": "How do moong and other dal plants add nitrogen to the soil?",
+   "a": "Rhizobium bacteria in nodules on their roots take nitrogen from the air and turn it into a form plants can use."
+  },
+  {
+   "q": "Put these steps in order: harvesting, sowing, preparing the field, weeding, storing.",
+   "a": "Preparing the field, sowing, weeding, harvesting, storing."
+  },
+  {
+   "q": "Name one kharif crop, one rabi crop and one zaid crop.",
+   "a": "For example, rice is kharif, wheat is rabi and watermelon is zaid."
+  },
+  {
+   "q": "In the rain test, why did the bare soil lose more soil than the covered soil?",
+   "a": "Raindrops hit bare soil hard and knock grains loose, and the water carries them away. Leaves take the blow and let the water soak in slowly."
+  }
+ ]
+}
