@@ -3066,11 +3066,11 @@
       "q": "A rolling marble hits a wall and turns. What changed its direction?",
       "options": [
        "The wall pushed it",
-       "The marble decided to turn",
+       "Its own speed made it turn",
        "Nothing. It was always going to turn"
       ],
       "a": 0,
-      "why": "The wall pushed the marble, and the push changed its direction. Picking 'the marble decided' gives the marble a mind. Things only turn when a force pushes them."
+      "why": "The wall pushed the marble, and the push changed its direction. Picking 'its own speed' misses that speed alone keeps it going straight. It only turns when a force pushes it."
      }
     },
     {

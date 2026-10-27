@@ -3,7 +3,7 @@
  "title": "Weight: the pull you can measure and the push you can feel",
  "level": 3,
  "summary": {
-  "text": "This unit is about weight. Your weight is the pull of the Earth's gravity on you. Gravity is the pull that every thing has on every other thing. We measure weight with a forcemeter, in newtons. On Earth, every kilogram of stuff is pulled down with about 10 newtons. A scale does not feel gravity itself. It feels how hard it must push to hold you up. So your weight can seem to change in a lift, in a pool, or while falling. Yet gravity has not changed at all. That is why astronauts float, though gravity in their space station is almost as strong as on the ground. Deep down, weight comes from mass, and mass is a kind of energy. Scientists still do not know what gravity really is.",
+  "text": "This unit is about weight. Your weight is the pull of the Earth's gravity on you. Gravity is the pull that every thing has on every other thing. We measure weight with a forcemeter, in newtons. On Earth, every kilogram of stuff is pulled down with about 10 newtons. A scale does not measure gravity itself. It measures how hard it must push to hold you up. So your weight can seem to change in a lift, in a pool, or while falling. Yet gravity has not changed at all. That is why astronauts float, though gravity in their space station is almost as strong as on the ground. Deep down, weight comes from mass, and mass is a kind of energy. Scientists still do not know what gravity really is.",
   "art": "A child standing on a bathroom scale, with a long arrow from the child down to the centre of the Earth labelled 'pull', and a short arrow from the floor up into the child's feet labelled 'push'."
  },
  "intro": {
@@ -168,7 +168,7 @@
    "concept": "Weighing with a forcemeter",
    "status": "defined",
    "definition": "To weigh a thing with a forcemeter, hang it on the hook and wait until it stops bouncing. When it is still, the spring is pulling up exactly as hard as gravity pulls down. The pointer then shows the weight in newtons.",
-   "description": "A forcemeter does not feel gravity directly. It feels the pull on its spring. When the thing hangs still, two forces balance. Gravity pulls it down, and the spring pulls it up just as hard. So the spring's pull tells us the weight. That is why you must wait until it is still. While it bounces, the number jumps about. Here is a handy pattern. On Earth, every 100 grams of stuff weighs about 1 newton. So 1 kilogram, which is 1,000 grams, weighs about 10 newtons. The exact number is 9.8 newtons, but 10 is close enough for our sums.",
+   "description": "A forcemeter does not measure gravity directly. It measures the pull on its spring. When the thing hangs still, two forces balance. Gravity pulls it down, and the spring pulls it up just as hard. So the spring's pull tells us the weight. That is why you must wait until it is still. While it bounces, the number jumps about. Here is a handy pattern. On Earth, every 100 grams of stuff weighs about 1 newton. So 1 kilogram, which is 1,000 grams, weighs about 10 newtons. The exact number is 9.8 newtons, but 10 is close enough for our sums.",
    "examples": [
     "A 100 gram bar of soap reads about 1 newton.",
     "A 500 gram packet of dal reads about 5 newtons.",
@@ -2250,7 +2250,7 @@
      "id": "s1",
      "mins": 10,
      "do": "1. Soak 6 moong or chana seeds in water overnight. 2. Line the inside of a clear jar with wet kitchen paper. 3. Push the seeds between the paper and the glass, so you can see them. 4. Put a little water in the bottom.",
-     "say": "Plants can't see. But they always know which way is down. Let's find out how good they are at it.",
+     "say": "Plants have no eyes. But they always know which way is down. Let's find out how good they are at it.",
      "kid": "Line a jar with wet paper. Push the soaked seeds between the paper and the glass. Keep the paper wet.",
      "context": "This is the first step of The Root That Knows Which Way Is Down. You grow seeds in a clear jar, so you can watch their roots."
     },

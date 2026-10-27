@@ -170,6 +170,29 @@ The famous physicist Richard Feynman once spent an evening trying to snap spaghe
   For: Bones are hard, and old skeletons in museums are dead.  
   Against: Inside you, bones are alive. They have blood and cells that build and remove bone. They grow thicker where they are pushed most. Astronauts in space lose bone because it is not pushed. A broken bone heals itself.
 
+## Roots
+We have been learning how forces squash, stretch, bend and turn things. Now we ask what all this changing tells us about ourselves and the world.
+
+**Deep truth.** Things keep doing what they are doing until something meets them. Change always comes from a meeting.  
+*Habit it breaks:* We think stillness is normal and motion needs a reason. In space, a moving ball would roll forever. Stopping is what needs a cause.  
+*Evidence:* A ball stops on grass but rolls far on smooth tiles.
+
+- *who am i:* Your bones grow stronger because they are pushed every day. You are shaped by what presses on you.
+- *what is life:* Trees bend in storms instead of snapping. Living things answer forces by changing.
+- *what is this world:* Mountains rise and moons are squeezed. Nothing in the world keeps one shape for ever.
+
+A lump of dough, a bone and the Himalayas are all made of the same tiny atoms. A force pushes them closer or pulls them apart, and a new shape appears. DeepKids believes the One keeps showing up as new shapes, never stuck in just one. A bend, a twist and a bounce are the world changing its form. The stuff stays. Only the shape moves on.
+
+- **Tao Te Ching 76:** A living plant is soft and bendy. A dead one is dry and snaps. So the stiff and hard break, and the soft and bending last. (A bridge that may sway and a tree that bends both survive storms. Something stiff might break.)
+- **Heraclitus, fragment DK B91:** You cannot step into the same river twice. The water has moved on, and so have you. (Every push and pull is slowly changing things, from your bones to the mountains. Change is how the world is.)
+- Science (settled): A thing changes shape because its atoms are pushed closer together or pulled further apart.
+- Science (settled): India is still pushing into Asia, and the Himalayas are still rising by a few millimetres each year.
+- Other view, The Buddha: The Buddha taught that everything changes, and nothing lasts, not even a self. Many Buddhists would say there is no lasting One underneath the changing shapes.
+- Practice, Bend like a tree (3 min): Let's stand tall like a tree, with feet a little apart. Breathe in slowly. As you breathe out, sway gently to one side, like wind is pushing you. Breathe in and come back up. Now sway to the other side. Do this five times. Then stand still and feel your whole body. You changed shape, and you are still you.
+- Ask: If you change shape, are you still the same you?
+- Ask: Is it better to bend or to be stiff?
+- Ask: Does anything in the world never change at all?
+
 ## Deep and big questions
 - *deep:* Does a steel table change shape when a fly lands on it? (hint: A bigger force makes a bigger change. So does a very tiny force make a very tiny change, or none at all?)
 - *deep:* Why does a sponge spring back but dough stays squashed? What is different inside them? (hint: Think of the tiny parts inside as children holding hands. In one, they hold tight. In the other, they let go and move.)
@@ -683,8 +706,8 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
    **Answer:** Any thoughtful design. The top of the bend is squashed and the bottom is stretched, or the other way round when it bends the other way. Soft rubber, or grooves across the sole, help it bend.. *Why:* A bend squashes one side and stretches the other.
 ### From Atoms to Mountains (challenge) (challenge, 17 questions)
 1. (mcq) Deep down, why does a squeezed sponge spring back?  
-   Options: Its atoms are pushed closer, and the bonds between them push back / Air inside it is magic / Gravity pulls it back / It remembers its shape like a person  
-   **Answer:** Its atoms are pushed closer, and the bonds between them push back. *Why:* Bonds between atoms act a little like tiny springs. Squash them and they push back. Picking 'air inside' is a sensible guess, as sponges have air in them. But a solid rubber ball also springs back with no air holes.
+   Options: Its atoms are pushed closer, and the bonds between them push back / Air inside it is magic / Gravity pulls it back / Squeezing makes its atoms bigger  
+   **Answer:** Its atoms are pushed closer, and the bonds between them push back. *Why:* Bonds between atoms act a little like tiny springs. Squash them and they push back. Picking 'air inside' is a sensible guess, as sponges have air in them. But a solid rubber ball also springs back with no air holes. Squeezing does not make atoms bigger. It pushes them closer together.
 2. (mcq) A gold bangle can be hammered into a new shape without breaking. A glass bangle cannot. Why?  
    Options: In gold, rows of atoms can slide past each other. In glass they cannot, so cracks spread / Gold is softer than everything / Glass is not made of atoms / Gold is heavier  
    **Answer:** In gold, rows of atoms can slide past each other. In glass they cannot, so cracks spread. *Why:* In metals, rows of atoms slip into new places one step at a time. In glass the atoms are jumbled and stuck, so a push gathers at tiny scratches and a crack races across. Picking 'gold is heavier' links strength with weight, but that is not the reason.

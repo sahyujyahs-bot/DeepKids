@@ -177,13 +177,37 @@ In 1982, two scientists found a new kind of magnet. They worked separately. Masa
   Against: The Earth's core is much hotter than iron's Curie point, so it cannot hold a permanent magnet. Scientists think the field comes from flowing liquid iron. This also explains why the field has flipped direction many times in the Earth's history.
 - **A magnet's pull shows that it is alive.** (Thales of Miletus, a Greek thinker, about 2,600 years ago, as reported by Aristotle; *rejected*)  
   For: A lodestone moves iron without anyone pushing it, which is what living things do.  
-  Against: We now know the pull comes from electrons lined up inside the rock, not from a soul. But Thales was one of the first to look for a cause inside nature, instead of blaming a god. That was a big step.
+  Against: We now know the pull comes from electrons lined up inside the rock. Whether a stone has a soul is a different question, and the pull cannot answer it. But Thales was one of the first to look for a cause inside nature, instead of blaming a god. That was a big step.
 - **Garlic makes a magnet lose its power.** (Sailors and writers in old times, believed for centuries; *rejected*)  
   For: Many people repeated it, and it was in respected books.  
   Against: William Gilbert, an English doctor, wrote a whole book on magnets in 1600, called De Magnete. He tested the garlic claim and found it was false. He said you should trust experiments over old books.
 - **Birds find their way using tiny iron compasses in their beaks.** (Some scientists, and many science books; *debated*)  
   For: Iron-rich cells were found in the beaks of some birds, and iron can sense a magnetic field.  
   Against: Later work found that many of those iron-rich cells were white blood cells, which are not sensors at all. Other experiments point to a light-sensitive protein in the eye. Scientists still do not agree.
+
+## Roots
+We have been learning that a magnet picks some things and leaves others. Now we ask what that tells us about ourselves, about life, and about the world.
+
+**Deep truth.** An invisible pull reaches through empty space and through paper.  
+*Habit it breaks:* We think things must touch to affect each other. A magnet moves a pin through a page without touching it.  
+*Evidence:* A magnet pulls a paper clip through a book cover.
+
+- *who am i:* You are made of atoms, and each atom has tiny spinning magnets inside. Almost every atom in your body, apart from hydrogen, was made inside a star.
+- *what is life:* Life uses magnets too. Some bacteria carry a chain of tiny magnets as a compass, and many animals can feel the Earth's magnetic pull.
+- *what is this world:* The world is full of pulls we cannot see. A magnet reaches across a gap and holds a nail, with nothing in between that our eyes can find.
+
+Every electron is a tiny magnet. In wood, copper and brass, the tiny magnets point every which way. They cancel out to nothing, like the zero DeepKids talks about. In iron, nickel and cobalt, the tiny magnets agree, and the many become one big pull. DeepKids believes this is how the One shows up as the many all through the world. Zero holds everything in balance, and when many parts turn together, something new appears. A nail is a crowd that has learned to lean the same way.
+
+- **Chandogya Upanishad 6.13:** A teacher, Uddalaka, asks his son Shvetaketu to put salt in water and come back in the morning. The salt cannot be seen, but it is in every sip. The teacher says that what is unseen can be the very heart of things. (A magnet's pull is unseen, yet it fills the space around the magnet and holds the nail. The salt and the magnet both show that what we cannot see can be everywhere.)
+- **Avatamsaka Sutra, the image of Indra's net:** Imagine a net with a shining jewel at every knot. Each jewel shows the reflection of every other jewel. Nothing stands alone. (In a nail, each tiny magnet leans towards its neighbours, and every neighbour leans back. Each one is shaped by all of the others, like the jewels.)
+- **Aristotle, On the Soul 405a, reporting Thales of Miletus:** Thales said that a lodestone has a soul, because it moves iron. He was among the first to look for a reason inside nature itself. (We now explain the pull with electrons and fields. The wonder Thales felt is still here. You feel it when a fridge magnet moves a clip with no hand.)
+- Science (settled): Every electron acts like a tiny magnet. In most materials the tiny magnets cancel out. In iron, nickel and cobalt they line up in groups.
+- Science (debated): Scientists do not yet agree on how birds feel the Earth's magnetic field. One idea uses tiny magnets in the body, and another uses a light-sensitive protein in the eye.
+- Other view, Many physicists, and the Charvaka school of ancient India: When we say the tiny magnets agree, we are using a human word for a rule of physics. Electrons line up because of laws of quantum physics, and there is nothing like a mind in a nail. The Charvaka thinkers taught that there is only matter, and that we should trust only what we can perceive.
+- Practice, The gap between your hands (3 min): Sit comfortably. Hold your hands out in front of you, palms facing each other, about a hand's width apart. Close your eyes. Breathe in slowly and breathe out slowly. Now move your hands a little closer, and a little further. Notice anything between them. Some people feel warmth or a tingle. That is your own blood and attention, and it is not magnetism. But notice that you can feel something reaching across a gap. Open your eyes. Is the gap empty?
+- Ask: When many tiny things all lean the same way, they can pull something big. Where have you seen people do this?
+- Ask: A magnet's pull crosses a gap with nothing in it that you can see. What else do you feel but cannot see?
+- Ask: If every tiny magnet in a nail is a small part of one big pull, which part is the nail? Where does the pull begin?
 
 ## Deep and big questions
 - *deep:* Out of about ninety natural elements, only three are magnetic in a room. Why do you think the universe made so few? (hint: In most atoms, the tiny magnets cancel out in pairs. What would the world be like if every metal were magnetic?)

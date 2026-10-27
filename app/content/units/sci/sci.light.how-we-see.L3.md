@@ -150,6 +150,31 @@ When you look at a tree, it feels as if you are seeing the tree itself, right th
   For: The eye and a camera both have a hole that lets light in, something to make the picture sharp, and a layer at the back that catches the light.  
   Against: There is no little person inside the head looking at a photo. The brain builds what we see from signals, fills in the blind spot, and guesses. People who gain sight as children have to learn to see shapes.
 
+## Roots
+We have been learning how we see: light bounces off things and comes into our eyes. Now we ask what seeing tells us about ourselves and the world.
+
+**Deep truth.** Seeing is receiving. The world comes into you.  
+*Habit it breaks:* We think of looking as something we do to the world, reaching out from inside us. But nothing goes out. Light that touched the mango a moment ago is now inside your eye. The line between 'me in here' and 'the world out there' is crossed every time you see.  
+*Evidence:* In the dark box, open eyes saw nothing until light came in. When a torch was covered, only its own spot went out.
+
+- *who am i:* You are a light catcher. Part of the world arrives in you every time you open your eyes.
+- *what is life:* Almost every living thing, from a plant on a windowsill to an owl, lives by catching light.
+- *what is this world:* Everything is always sending out light to everything else, whether anyone is looking or not.
+
+One Sun sends out light. That one light lands on mangoes, faces, rivers and cows, and bounces off each in its own way. So the many things we see are all lit by the same light. When it reaches us, our eyes and brains turn it back into a picture of the many. DeepKids believes this is the One showing up as many, and the many coming home again inside each of us.
+
+- **Brihadaranyaka Upanishad 4.3.2 to 4.3.6:** King Janaka asks the sage Yajnavalkya: 'What light does a person live by?' The Sun, says Yajnavalkya. When the Sun has set? The Moon. When the Moon has set? Fire. When the fire has gone out? Speech, a voice to follow. And when all of these are gone? Then the self is the person's own light. (We have learned that eyes see only by outside light, from the Sun, the Moon or a fire. The sage asks about a different kind of light: the awareness that knows the seeing.)
+- **Kena Upanishad 1.2:** It is the ear of the ear, the mind of the mind, and the eye of the eye. (The eye catches light, and the brain makes sense of it. But who, or what, is aware of the seeing? The Upanishad points to something behind the eye.)
+- **Majjhima Nikaya 18, the Madhupindika Sutta:** The Buddha's teaching, as told by his student Mahakaccana: depending on the eye and on what is seen, seeing arises. The meeting of the three is called contact. (Seeing is not owned by the eye alone, or by the thing alone. It arises when they meet. Science adds one more thing they need: light. Take the light away, as in the dark box, and seeing does not arise.)
+- Science (settled): We see only when light from things enters our eyes and lands on the retina, which sends signals to the brain.
+- Science (open): How the brain turns those signals into the experience of seeing is not known. Scientists call this an open problem.
+- Other view, Many neuroscientists, and the philosopher Daniel Dennett: Seeing is just the eye and brain processing light. There is no little watcher inside the head, and no need for an 'eye of the eye'. When we understand the brain well enough, there will be nothing left to explain. That is an honest view, and many careful people hold it.
+- Practice, Let the light come in (3 min): Let's sit by the window. Close your eyes and take three slow breaths. Now open them very slowly. Don't look at anything in particular. Just let the light come to you. Notice that you don't have to do anything to see. The room arrives by itself. Now close your eyes again. Where did the room go? Open them once more, and welcome it back.
+- Ask: When you see a mango, is part of the mango now inside you?
+- Ask: If seeing just happens when light comes in, who is the one who sees?
+- Ask: Is the world still there when you close your eyes? How do you know?
+- Ask: When you and a friend look at each other, what are you sharing?
+
 ## Deep and big questions
 - *deep:* When you look at a mango, is the mango coming into you, or are you going out to the mango? (hint: Think about what travels. Where did the light start, and where did it end up?)
 - *deep:* If nobody is in the room and the light is on, is the chair still being seen? (hint: Light is still bouncing off the chair. Is bouncing the same as seeing?)
@@ -538,7 +563,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent does:* Help your child label the box eye: cornea, iris, pupil, retina and optic nerve. Then they show it to the family and explain how we see.  
   *Parent says:* Now you're the teacher. Show the family your eye and tell them how light gets in and where it lands.  
   *Child mode:* Label the parts. Then show your family. Tell them how light gets into the eye, and where it lands.
-  - Think: Your box eye catches light, but it does not see. What does a real eye have that the box doesn't?
+  - Think: Your box eye catches light, but it sends no signals on. What does a real eye have that the box doesn't?
 
 ## Challenges
 ### c1 · Light the Reading Corner Without a Bulb (30 min)

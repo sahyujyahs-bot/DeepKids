@@ -184,6 +184,29 @@ Scientists know how gravity behaves very, very well. They can land spacecraft on
   For: Films often show things floating around in empty space.  
   Against: Air does not hold things down. Air actually pushes up a little. In a vacuum chamber on Earth, a feather drops like a stone. Things only float in space because they are falling freely.
 
+## Roots
+We have been learning why things fall, and why heavy and light things land together. Now we ask what falling tells us about ourselves and the world.
+
+**Deep truth.** Everything is pulled towards everything else. Nothing in the universe is alone.  
+*Habit it breaks:* We think falling is something only heavy things do, and only down. In truth every bit of matter pulls on every other bit, even you on the Earth.  
+*Evidence:* A feather and a stone fall together where there is no air.
+
+- *who am i:* You pull the Earth, the Moon and every star, a tiny bit.
+- *what is life:* Even a plant in the dark knows which way is down.
+- *what is this world:* A feather and a hammer fall the same way, without air. One rule holds for all.
+
+A mango, a moon and a ray of light all fall along the same bend in space and time. Heavy and light are treated exactly the same. DeepKids believes this is a sign of the One under the many: everything belongs to one web of pulls. You are never truly outside it. When you fall, the whole world is falling with you.
+
+- **Brihadaranyaka Upanishad 3.8.9:** The thinker Gargi asks what holds everything. Yajnavalkya answers: one unchanging reality. By it, the Sun and Moon are held in their places. (Gravity holds the Moon around the Earth, and the Earth around the Sun. Something holds everything, and nobody fully knows what.)
+- **Vaisheshika Sutra 5.1.7:** Kanada, an Indian thinker, said that when nothing holds a thing up, it falls because of gurutva, its heaviness. (Long before Newton, Indian thinkers gave falling a name and a cause. Guru, a teacher, means 'heavy' too.)
+- Science (settled): Without air, a heavy thing and a light thing fall together. An astronaut dropped a hammer and a feather on the Moon in 1971. They landed together.
+- Science (open): Einstein's idea, that heavy things bend space and time, works very well. But what gravity is deep down, nobody knows yet.
+- Other view, The Nyaya and Vaisheshika schools: The same Indian school that named gurutva taught that the world is many separate eternal atoms and many separate selves. On this view, there is no single One.
+- Practice, Feel yourself fall still (3 min): Let's sit on the floor with our eyes closed. Breathe out slowly and let your body grow heavy. Feel the floor holding you up. Gravity is pulling you down right now. Breathe in and out three more times. Feel how the whole Earth is pulling on you, and you on it.
+- Ask: If everything pulls everything, is anything truly alone?
+- Ask: Why should heavy and light be treated exactly the same?
+- Ask: What is the pull, if nobody is really pulling?
+
 ## Deep and big questions
 - *deep:* If you dropped a ball down a tunnel right through the Earth, where would it stop? (hint: It speeds up all the way to the middle. Then what? Gravity pulls towards the middle from every side.)
 - *deep:* Why does a heavy thing not fall faster, when the Earth pulls it harder? (hint: Think of pushing a full trolley and an empty one. Which is harder to get moving?)

@@ -555,7 +555,7 @@
   {
    "concept": "Who decides the rule?",
    "status": "debated",
-   "description": "A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some elements really do seem to be natural groups. Every atom of gold is gold. Other groups, such as 'vegetable', seem to depend on our needs. Sorting things is almost always harmless. A rock does not mind which pile it is in. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. The programs had been taught with too few faces like theirs. A careful sorter asks: whose needs does this rule serve, and who does it leave out?",
+   "description": "A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some elements really do seem to be natural groups. Every atom of gold is gold. Other groups, such as 'vegetable', seem to depend on our needs. Sorting things is almost always harmless. A pile does not change a rock. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. The programs had been taught with too few faces like theirs. A careful sorter asks: whose needs does this rule serve, and who does it leave out?",
    "examples": [
     "A tomato is a fruit for a botanist and a vegetable for a cook.",
     "A face program that works well for some people and badly for others."
@@ -712,7 +712,7 @@
   {
    "q": "Your ear sorts sounds before your brain does. How might a body part sort without a brain?",
    "kind": "deep",
-   "hint": "A sieve sorts by size without thinking. What could a coiled tube do with sound?"
+   "hint": "A sieve sorts by size: small bits fall through its holes. What could a coiled tube do with sound?"
   },
   {
    "q": "If a thing does not fit any group, should we change the thing or change the groups?",
@@ -727,7 +727,7 @@
   {
    "q": "Sorting rocks is harmless. Is sorting people ever harmless?",
    "kind": "big",
-   "hint": "A rock does not mind which pile it is in. What might a person feel? What does one rule hide about them?"
+   "hint": "A pile does not change a rock. What might a person feel? What does one rule hide about them?"
   },
   {
    "q": "You belong to many groups at once, like a thing in many circles of a Venn diagram. Which of your circles are you proudest of?",
@@ -1845,7 +1845,7 @@
     },
     {
      "t": "write",
-     "p": "A rock does not mind which pile it is in. A person might. Why should we be careful when we sort people?",
+     "p": "A pile does not change a rock. But a label can change how people treat a person. Why should we be careful when we sort people?",
      "lines": 4,
      "a": "A person has many parts to them, and one rule hides most of them. People can feel hurt or left out. A sort can also be used unfairly.",
      "why": "Good answers say that people belong to many groups at once, and that a single rule hides the rest. They may also mention fairness or feelings."
@@ -2859,11 +2859,11 @@
       "q": "In winnowing, why does the husk blow away but the grain stays?",
       "options": [
        "The husk is lighter, so the wind moves it more",
-       "The wind only likes husk",
+       "The wind blows only on the husk",
        "The grain is stuck to the tray"
       ],
       "a": 0,
-      "why": "Wind pushes everything equally, but a light thing is moved much more than a heavy thing. So the light husk blows away while the heavy grain falls straight back. Picking 'the wind only likes husk' usually means the wind is imagined to choose. The wind does not choose. The weight of the thing decides."
+      "why": "Wind pushes everything equally, but a light thing is moved much more than a heavy thing. So the light husk blows away while the heavy grain falls straight back. Picking 'the wind blows only on the husk' misses that the wind pushes the grain too. The weight of each thing decides how far it moves."
      }
     },
     {
@@ -3681,7 +3681,7 @@
     "Taste"
    ],
    "a": 0,
-   "why": "The wind moves light husk more than heavy grain. Picking 'colour' is a common guess, but wind does not see colour.",
+   "why": "The wind moves light husk more than heavy grain. Picking 'colour' is a common guess, but colour does not change how hard the wind pushes.",
    "outcome": 5
   },
   {

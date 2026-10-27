@@ -246,7 +246,7 @@
    "concept": "How recycling works, material by material",
    "status": "defined",
    "definition": "Recycling breaks a used thing down into its material and makes something new from it. Metal and glass can be melted and remade again and again. Paper and most plastics get a little weaker each time.",
-   "description": "Metal cans are melted in a furnace and poured into new shapes. Metal atoms don't get tired, so this can happen almost for ever. Making a can from old aluminium cans takes only about a twentieth of the energy of making it from rock. Glass bottles are crushed and melted into new glass. Paper is soaked and mashed into pulp. Its tiny fibres come from wood, and they get shorter each time. After about five to seven times, they are too short to hold together. Plastic is the hardest. There are many kinds, and they cannot be melted together. Thin wrappers and shiny chip packets, made of layers of plastic and metal, are very hard to recycle at all. In India, many old PET bottles are shredded into flakes and spun into polyester fibre. That fibre fills pillows and becomes cloth. This is called downcycling, because the new thing is hard to recycle again.",
+   "description": "Metal cans are melted in a furnace and poured into new shapes. Metal atoms do not wear out, so this can happen almost for ever. Making a can from old aluminium cans takes only about a twentieth of the energy of making it from rock. Glass bottles are crushed and melted into new glass. Paper is soaked and mashed into pulp. Its tiny fibres come from wood, and they get shorter each time. After about five to seven times, they are too short to hold together. Plastic is the hardest. There are many kinds, and they cannot be melted together. Thin wrappers and shiny chip packets, made of layers of plastic and metal, are very hard to recycle at all. In India, many old PET bottles are shredded into flakes and spun into polyester fibre. That fibre fills pillows and becomes cloth. This is called downcycling, because the new thing is hard to recycle again.",
    "examples": [
     "A steel tiffin can be melted and remade into a new steel spoon.",
     "Old notebooks become egg trays and cardboard.",
@@ -1308,7 +1308,7 @@
       "Microbes are lazy"
      ],
      "a": 1,
-     "why": "Evolution shapes enzymes that fit common food molecules. Plastic has existed for only about a century. Picking 'taste' treats microbes like people. Microbes have no tongues, only enzymes that fit or don't fit."
+     "why": "Evolution shapes enzymes that fit common food molecules. Plastic has existed for only about a century. Picking 'taste' misses the main reason. Microbes can only eat what their enzymes fit."
     },
     {
      "t": "mcq",

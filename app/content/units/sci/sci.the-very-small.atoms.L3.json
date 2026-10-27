@@ -18,7 +18,7 @@
   "I can name the parts of an atom: a tiny centre called the nucleus, made of protons and neutrons, and electrons around it.",
   "I can explain that an atom is almost all empty space, and how scientists found out by firing tiny bits at metal.",
   "I can explain that electrons are not little balls going round on tracks. Scientists can only say where an electron is likely to be, so they draw it as a cloud of maybe.",
-  "I can say that the very small does not behave like the things we see. I can also say that in physics an 'observer' is anything that measures, not a mind.",
+  "I can say that the very small does not behave like the things we see. I can also say that in physics an 'observer' is anything that measures, not only a person.",
   "I can say how we know atoms are real without seeing them, and name things scientists still do not know."
  ],
  "cards_mins": 20,
@@ -115,7 +115,7 @@
   },
   {
    "term": "Observer (in physics)",
-   "meaning": "Anything that measures, such as a detector, a screen or even a single bit of light. It does not have to be a person, and it does not need a mind.",
+   "meaning": "Anything that measures, such as a detector, a screen or even a single bit of light. It does not have to be a person.",
    "example": "A camera chip or a speck of dust can 'observe' an electron by being hit by it.",
    "art": "A detector box, a speck of dust and a person's eye, all with the same small flash beside them, showing they all count."
   },
@@ -488,7 +488,7 @@
    "claim": "Quantum physics proves that our minds create the world.",
    "who": "Some films, books and speakers, and some people who sell healing or success courses",
    "for": "In quantum physics, measuring does change what you find. And the word 'observer' sounds like it means a person.",
-   "against": "In physics, an observer is anything that measures, such as a detector or a speck of light. The experiments work the same with no person watching. Physicists still argue about what measurement means, but none of the main ideas need a mind.",
+   "against": "In physics, an observer is anything that measures, such as a detector or a speck of light. The experiments work the same with no person watching. Physicists still argue about what measurement means, but none of the main ideas need a person watching.",
    "status": "rejected",
    "context": "You may hear people say that quantum physics is about the power of the mind. This card checks that claim."
   },
@@ -851,7 +851,7 @@
      "do": "Play the torch bonus round if you have friends. Then talk about who or what can measure.",
      "say": "In the torch round, the torch was the detector. And the paper ball measured you too. Does a measurement need a person?",
      "kid": "Did you need a person to measure you? Or could a torch beam or a paper ball do it?",
-     "parent": "Say clearly: in physics, an 'observer' is anything that measures. A detector, a beam of light or even air molecules can measure an electron. No mind is needed. Some people claim quantum physics proves our minds make the world. It does not.",
+     "parent": "Say clearly: in physics, an 'observer' is anything that measures. A detector, a beam of light or even air molecules can measure an electron. No person needs to watch. Some people claim quantum physics proves our minds make the world. It does not.",
      "think": "If a speck of dust can 'measure' an electron, what does the word observer really mean?"
     }
    ],
@@ -2908,8 +2908,8 @@
    "channel": "The Royal Institution",
    "youtube": "A9tKncAdlHQ",
    "mins": 9,
-   "why": "For the parent and curious older children: a physicist explains how tiny bits spread like waves but land as dots. Watch with the 'observer' card in mind. In physics, 'looking' means measuring with a detector, not a mind.",
-   "check": "Found by YouTube search in this session: title 'Why reality changes when you look at it | The Double Slit Experiment | with Jim Al-Khalili' by The Royal Institution, 9 minutes 8 seconds. Not watched from here. Its title sounds like the mind matters, so a parent should preview it and check that it says a detector is enough."
+   "why": "For the parent and curious older children: a physicist explains how tiny bits spread like waves but land as dots. Watch with the 'observer' card in mind. In physics, 'looking' means measuring with a detector, not only with a person's eyes.",
+   "check": "Found by YouTube search in this session: title 'Why reality changes when you look at it | The Double Slit Experiment | with Jim Al-Khalili' by The Royal Institution, 9 minutes 8 seconds. Not watched from here. Its title sounds like a person looking matters, so a parent should preview it and check that it says a detector is enough."
   }
  ],
  "quiz": [
@@ -3050,7 +3050,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "Anything that a tiny bit bumps into can measure it. No mind is needed. Picking 'only a person' comes from the everyday meaning of the word. Experiments work the same with no person in the room."
+   "why": "Anything that a tiny bit bumps into can measure it. No person is needed. Picking 'only a person' comes from the everyday meaning of the word. Experiments work the same with no person in the room."
   },
   {
    "t": "mcq",
@@ -3062,7 +3062,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "Physicists still argue about what measurement means. But none of the main ideas needs a mind, and experiments work without anyone watching. Picking 'yes' is understandable, because some films and books say so. They mix up the physics word 'observer' with its everyday meaning."
+   "why": "Physicists still argue about what measurement means. But none of the main ideas needs a person watching, and experiments work without anyone watching. Picking 'yes' is understandable, because some films and books say so. They mix up the physics word 'observer' with its everyday meaning."
   },
   {
    "t": "mcq",
@@ -3787,7 +3787,7 @@
     "status": "settled"
    },
    {
-    "text": "What an electron is doing between measurements is still argued about. Quantum physics does not prove that minds create the world. In physics, an 'observer' means anything that measures, such as a detector.",
+    "text": "What an electron is doing between measurements is still argued about. Quantum physics does not prove that a person watching makes the world real. In physics, an 'observer' means anything that measures, such as a detector.",
     "status": "open"
    }
   ],

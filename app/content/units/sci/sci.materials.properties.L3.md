@@ -194,6 +194,30 @@ Your bones are a material your body builds and repairs. Bone is made of a hard m
   For: Graphene is very thin, very strong, bendy and nearly clear. It carries heat and electricity very well.  
   Against: It is hard and costly to make big, perfect sheets. Steel, wood and glass are cheap, strong enough and easy to make. In twenty years graphene has found some uses, but most of the early promises have not come true yet. Scientists still debate how big its future will be.
 
+## Roots
+We have been finding out what materials are like. Now we ask what this tells us about ourselves and the world.
+
+**Deep truth.** A property is not a label stuck on a thing. It is what shows up when one thing meets another.  
+*Habit it breaks:* We say 'steel is cold' and 'cotton is strong' as if each word were a price tag. But cold only happens when steel meets a warm hand. And strength changes with the air, the wetness and the size.  
+*Evidence:* A steel spoon and a wooden spoon give the same reading on a thermometer, yet the steel feels colder. In the dry or damp test, paper held half as many marbles when it was damp. Plastic held the same.
+
+- *who am i:* You are a bit like the thread in the story. You are not the same in every air. You show different strengths with different people.
+- *what is life:* Life makes its own materials. Your body grows bone, hair and the clear lens of your eye, and mends them.
+- *what is this world:* A property is a meeting. Steel is cold when it meets your hand. Cotton is strong when it meets damp air.
+
+DeepKids believes that behind the many there is one. A diamond and a pencil lead look like opposites. One is clear and hard, and the other is black and soft. Yet both are only carbon, the same atoms in a different pattern. Hard, soft, clear and strong are not extra things stuck onto the atoms. They are how the atoms look when they meet our hands, our eyes and the air. So the many properties of the world are one stuff showing up in many ways. This is what DeepKids means by the One becoming the many.
+
+- **Chandogya Upanishad 6.13:** Uddalaka gives his son Shvetaketu a lump of salt and tells him to put it in water. In the morning the salt cannot be seen. But when Shvetaketu tastes the water from the top, the middle or the bottom, it is salty everywhere. Uddalaka says the finest part of everything is like this: unseen, yet everywhere. (You cannot see the atoms in a steel spoon. But every property of the steel, its shine, its cold touch and its hardness, comes from them. The unseen is in everything you touch.)
+- **Nagarjuna, Mulamadhyamakakarika, chapter 24, verse 18:** Nagarjuna, a Buddhist teacher of about the 2nd century CE, taught that nothing exists all alone. Everything is what it is because of other things. (Hard means harder than something else. Cold means taking heat from a warm hand. The thread is strong in damp air. Properties show up in meetings between things.)
+- **Thich Nhat Hanh, The Heart of Understanding, on interbeing:** Look deeply at a sheet of paper and you see a cloud in it. Without the cloud there would be no rain, no tree and no paper. Thich Nhat Hanh called this interbeing. (Look deeply at a cotton thread and you see the river mist, the farmer, the soil and the spinner's hands. A material is a meeting of many things.)
+- Science (settled): Every property of a material comes from the atoms it has and how they are joined. Diamond and pencil lead are both only carbon. And almost every atom in your body, apart from hydrogen, was made inside a star. Margaret Burbidge, with Geoffrey Burbidge, William Fowler and Fred Hoyle, showed how in 1957.
+- Science (debated): Philosophers still argue whether a stone is hard when nobody is testing it. Some say it has the property all by itself. Others say it only has the power to show it when it meets something. Nobody has settled this.
+- Other view, Madhva, a philosopher of the Dvaita school in India about 700 years ago, and most working scientists: The differences between things are real and lasting. A stone is hard in itself, even in a dark cupboard. A thread is a thread, and the air is the air. In this view, the world is many real things and not one thing wearing many shapes.
+- Practice, Meeting the spoon (3 min): 1. Close your eyes and hold out your hand. 2. I will put a steel spoon in your palm. Notice how cold it feels. 3. Now keep your hand still for one whole minute. 4. Notice what happens to the cold. The spoon slowly warms, and your palm cools a tiny bit. 5. Open your eyes. The cold was never only in the spoon, and never only in your hand. It was in the meeting. Where is the cold now?
+- Ask: Is the spoon cold, or is the meeting cold?
+- Ask: If you were in a different air, with different people, would you be a different you?
+- Ask: Is anything strong, or hard, or kind, all by itself?
+
 ## Deep and big questions
 - *deep:* A diamond scratches glass. Glass scratches chalk. So is glass hard or soft? (hint: Hard compared with what? Try placing glass on a ladder with chalk below it and diamond above it.)
 - *deep:* A diamond and the black lead of a pencil are both pure carbon. How can the same atoms make one of the hardest things and one of the softest? (hint: Think of the same bricks. You can build a strong wall, or just pile them in a heap. What changes?)
@@ -776,7 +800,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
    **Answer:** ['wicking']. *Why:* Wicking is water creeping up through tiny gaps, even upwards against gravity. It is how a diya wick lifts oil and how a towel soaks up a spill.
 7. (mcq) In the story, cotton thread held 11 seeds in the damp dawn and only 6 at dry noon. What is the best explanation?  
    Options: Cotton thread is stronger when it is damp / The seeds were heavier at noon / The thread was tired / The cotton changed into another material  
-   **Answer:** Cotton thread is stronger when it is damp. *Why:* Shefali used the same thread, the same length and the same seeds. Only the dampness changed, and she then showed a damp noon thread held 9. So damp makes cotton stronger. Picking 'tired' treats thread like a living thing. But the same thread tested twice showed it was the air.
+   **Answer:** Cotton thread is stronger when it is damp. *Why:* Shefali used the same thread, the same length and the same seeds. Only the dampness changed, and she then showed a damp noon thread held 9. So damp makes cotton stronger. Picking 'tired' does not fit the test. A damp thread at noon still held 9, so it was the air.
 8. (match) Match each material to what is happening inside it.  
    **Answer:** Diamond → Each atom is locked to four neighbours; Graphite → Atoms lie in flat sheets that slide; Metal → Some electrons roam between the atoms; Rubber → Long tangled chains that straighten when pulled. *Why:* These pictures explain properties. Locked atoms make diamond hard. Sliding sheets make graphite soft. Roaming electrons make metals shiny and good at carrying heat. Tangled chains make rubber stretchy.
 9. (sort) Sort these into conductors and insulators of heat.  

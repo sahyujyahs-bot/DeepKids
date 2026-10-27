@@ -167,6 +167,30 @@ In a total solar eclipse, the Moon covers the Sun almost exactly. That lets peop
   For: Brahmagupta was a brilliant mathematician. He calculated eclipses using shadows himself, so he must have known the shadow explanation worked.  
   Against: We cannot know what Brahmagupta really thought. He may have honestly believed both could be true at once, or had other reasons. Historians still discuss it.
 
+## Roots
+We have been learning why the Moon changes shape, why it shows us one face, and how shadows make eclipses. Now we ask what the Moon tells us about ourselves and the world.
+
+**Deep truth.** Things that pull on each other for long enough fall into step. The Earth and the Moon have shaped each other into partners.  
+*Habit it breaks:* We say 'the Moon goes round the Earth', as if the Earth were the master and the Moon its servant. But both go round a point between them. The Earth locked the Moon's face, and the Moon makes our tides and slows our days. Neither is simply in charge. The split into 'centre' and 'satellite', big and small, important and less important, is a habit of ours, not how the pair really works.  
+*Evidence:* Walking round the chair showed that the Moon turns exactly once each trip, because the Earth's pull braked it into step. The Earth wobbles round a shared point every month, and our days grow longer as the Moon drifts away.
+
+- *who am i:* You are made of the same star-stuff as the Moon. The Moon itself was probably made from the young Earth, the planet you are made from.
+- *what is life:* Corals, beetles, owls and people all keep time by the same Moon. Life on Earth grew up with the Moon in its sky.
+- *what is this world:* The Moon is always whole. 'New' and 'full' are only how much of its lit half we see from where we stand.
+
+Before the Moon, there was one young Earth. A crash made two out of one: the Earth and the Moon, made from the same rock. Since then, they have pulled on each other until they move in step, like dancers who began as one. DeepKids believes this is the One showing up as many, and the many staying connected. The Moon never really changes. It is always whole, and only our view of it waxes and wanes.
+
+- **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (Purnima comes from purna, whole. The Moon is whole on every night of the month, even on Amavasya. Only the part we see grows and shrinks.)
+- **Dogen, Genjokoan (1233), in the Shobogenzo:** Waking up is like the Moon reflected in water. The Moon does not get wet, and the water is not broken. The whole Moon, and the whole sky, shine even in one drop of dew. (One Moon shows in every puddle, pot of water and sea at once. One light, bounced from the Sun, reaches every eye that looks up.)
+- **Jataka tale 316, the Sasa Jataka (the story of the hare):** A hare had nothing to give a hungry traveller, so it offered itself. To remember its kindness, the hare's shape was drawn on the Moon for everyone to see. (Many people in India and East Asia see a hare in the Moon's dark lava seas. The Moon's oldest picture honours an animal, not a person.)
+- Science (settled): The Earth and the Moon both go round a shared point inside the Earth. Each has changed the other: the Earth locked the Moon's spin, and the Moon slows the Earth's.
+- Science (debated): The Moon was probably made from the young Earth and another planet, mixed together in a giant crash. Exactly how is still being worked out.
+- Other view, Many scientists: The Earth and the Moon are two lumps of rock obeying gravity. Calling them 'partners' or 'one becoming two' is a story we add. The science does not need it, and that is an honest view.
+- Practice, The whole Moon (3 min): If the Moon is up, let's look at it together. If not, look at a picture of it. Breathe in slowly while I count to four. Breathe out while I count to four. Now picture the half of the Moon we can't see tonight, still lit or still dark, still there. Picture the Moon whole. Then think of everyone, and every animal, looking at this same Moon right now. Sit quietly together for one minute.
+- Ask: If the Moon is always whole, what else might be whole even when we only see part of it?
+- Ask: The Earth and the Moon were made from the same rock. Are they two things, or one?
+- Ask: Does the Moon matter only because we look at it, or for itself?
+
 ## Deep and big questions
 - *big:* The Moon is always a whole round ball, but we call it 'new', 'half' and 'full'. What other things do we name by how they look to us, not by what they are? (hint: Think of the 'rising' Sun, or calling a person by one thing they did once.)
 - *deep:* If you stood on the Moon on the night of Amavasya, what would the Earth look like in your sky? (hint: On Amavasya, the Moon is between the Earth and the Sun. Which side of the Earth faces the Moon?)
@@ -757,7 +781,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
    **Answer:** A round table. *Why:* The round table was the Earth, the lamp was the Sun and the mirror was the Moon. The table's round shadow fell on the mirror, as the Earth's shadow falls on the Moon.
 17. (mcq) Which of these living things keeps time by the Moon?  
    Options: Corals that release their eggs together after a full Moon / Pebbles on a riverbank / Plastic toys  
-   **Answer:** Corals that release their eggs together after a full Moon. *Why:* Many corals spawn together on a few nights after a full Moon each year. Dung beetles also steer by moonlight. Pebbles and toys are not alive, so they keep no time at all.
+   **Answer:** Corals that release their eggs together after a full Moon. *Why:* Many corals spawn together on a few nights after a full Moon each year. Dung beetles also steer by moonlight. Pebbles and toys have no body clock that follows the Moon.
 
 ## Applications
 - Calendars in India and many other places count months by the Moon, and set festival dates by its tithis.

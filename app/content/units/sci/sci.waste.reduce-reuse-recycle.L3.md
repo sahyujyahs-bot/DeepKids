@@ -85,7 +85,7 @@ India's towns and cities throw out more than a lakh tonnes of waste every day. A
 ### How recycling works, material by material · *defined*
 **Definition:** Recycling breaks a used thing down into its material and makes something new from it. Metal and glass can be melted and remade again and again. Paper and most plastics get a little weaker each time.
 
-Metal cans are melted in a furnace and poured into new shapes. Metal atoms don't get tired, so this can happen almost for ever. Making a can from old aluminium cans takes only about a twentieth of the energy of making it from rock. Glass bottles are crushed and melted into new glass. Paper is soaked and mashed into pulp. Its tiny fibres come from wood, and they get shorter each time. After about five to seven times, they are too short to hold together. Plastic is the hardest. There are many kinds, and they cannot be melted together. Thin wrappers and shiny chip packets, made of layers of plastic and metal, are very hard to recycle at all. In India, many old PET bottles are shredded into flakes and spun into polyester fibre. That fibre fills pillows and becomes cloth. This is called downcycling, because the new thing is hard to recycle again.
+Metal cans are melted in a furnace and poured into new shapes. Metal atoms do not wear out, so this can happen almost for ever. Making a can from old aluminium cans takes only about a twentieth of the energy of making it from rock. Glass bottles are crushed and melted into new glass. Paper is soaked and mashed into pulp. Its tiny fibres come from wood, and they get shorter each time. After about five to seven times, they are too short to hold together. Plastic is the hardest. There are many kinds, and they cannot be melted together. Thin wrappers and shiny chip packets, made of layers of plastic and metal, are very hard to recycle at all. In India, many old PET bottles are shredded into flakes and spun into polyester fibre. That fibre fills pillows and becomes cloth. This is called downcycling, because the new thing is hard to recycle again.
 - e.g. A steel tiffin can be melted and remade into a new steel spoon.
 - e.g. Old notebooks become egg trays and cardboard.
 - e.g. A PET bottle becomes polyester fibre for a jacket or a pillow.
@@ -160,6 +160,31 @@ A broken bangle is waste to the girl who broke it. It is precious to an artist w
 - **India recycles most of its plastic.** (Some reports by government and industry groups; *debated*)  
   For: Waste pickers and kabadiwalas collect huge amounts of bottles, buckets and hard plastic, and sell them for recycling.  
   Against: Nobody counts the work of waste pickers carefully, so the numbers are guesses. Thin wrappers and multi-layer packets are rarely recycled. Much of what is recycled is downcycled once and then thrown out.
+
+## Roots
+We have been learning where waste goes, and why some things rot and others don't. Now we ask what waste tells us about ourselves and the world.
+
+**Deep truth.** Nothing is ever thrown away. It only goes somewhere else, and becomes something else.  
+*Habit it breaks:* We sort the world into 'useful' and 'waste', and into 'here' and 'away'. But atoms are never lost, and the Earth has no away. Waste is a name for a thing in the wrong place, or a thing we stopped caring for. It is not a kind of thing.  
+*Evidence:* In the rot jar test, the peel did not vanish. Microbes turned it into soil, water, air and more microbes. The plastic stayed exactly as it was. Neither one left the world.
+
+- *who am i:* Your body is made of atoms that were once peels, rain, rice and air. You are made of things the world passed on to you.
+- *what is life:* Life is a circle of eating and being eaten. A fungus eating a log is alive for its own sake, and it keeps the circle turning.
+- *what is this world:* A world with no away. Everything we make stays here with us, with the cows, the fish and the microbes.
+
+In a forest, nothing is waste. A leaf becomes a worm's lunch, the worm's droppings become soil, and the soil becomes a tree. DeepKids believes this is the One showing up as the many, and the many flowing back into one another. The same atoms take turn after turn as leaf, worm, soil and child. When we make something that nothing can eat, we step out of that circle for a while. Reducing, reusing and repairing are ways of stepping back in.
+
+- **Isha Upanishad, verse 1:** Everything in this changing world is filled with the one Lord. Enjoy it by letting go. Do not grab, for whose is all this wealth? (Reduce means taking only what we need. Nothing we own was ever only ours: its atoms belonged to the Earth before us, and will after.)
+- **Thich Nhat Hanh, The Heart of Understanding, 1988:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud, no rain. Without rain, no tree. Without the tree, no paper. He called this 'interbeing': nothing exists on its own. (Your recycled paper has the same cloud, rain and tree in it, and the work of the people who collected it.)
+- **Tattvartha Sutra 7.1 (Jain):** One of the five great vows of Jainism is aparigraha, not holding on to more things than we need. (Fewer things means less waste, and less harm to the many living beings that waste reaches.)
+- Science (settled): Matter is never created or destroyed, only rearranged. Antoine and Marie-Anne Lavoisier's careful weighing in the 1780s helped show this.
+- Science (settled): Microbes have been breaking down and recycling the materials of dead living things for billions of years. Without them, the Earth would be buried in dead leaves and bodies.
+- Other view, Many engineers and economists: Waste is a practical problem of materials, money and rules. Better recycling, fair pay for waste pickers and smart laws can solve it. There is no need to bring in oneness or the self. That is an honest view, and much of the work it calls for is the same.
+- Practice, Look deeply at one thing (3 min): Pick up one thing near you: a steel tumbler, a pencil or a piece of paper. Hold it in both hands. Close your eyes and breathe slowly three times. Now picture where it came from: the mine, the tree, the factory, the hands that made it and carried it. Breathe again. Now picture where it will go when you are finished with it. Open your eyes. Look at it as if for the first time.
+- Ask: If nothing ever really goes away, what does 'throwing away' mean?
+- Ask: Is anything truly yours, if its atoms were here before you and will stay after you?
+- Ask: Does a fungus, a cow or a fish have a say in where our waste goes?
+- Ask: When you mend something, what changes: the thing, or you?
 
 ## Deep and big questions
 - *big:* When we throw something away, where is 'away'? (hint: Follow one wrapper in your mind. Where is it tomorrow? In ten years?)
@@ -681,7 +706,7 @@ Kamla noticed. She noticed for the rest of her life. And every evening she helpe
 ### No Such Place as Away (challenge) (challenge, 17 questions)
 1. (mcq) Microbes evolved for billions of years with leaves and wood. Which explains best why they can eat leaves but rarely plastic?  
    Options: Leaves taste better / Enzymes evolve to fit molecules that microbes have met for a long time. Plastic molecules are new and strange. / Plastic is too heavy / Microbes are lazy  
-   **Answer:** Enzymes evolve to fit molecules that microbes have met for a long time. Plastic molecules are new and strange.. *Why:* Evolution shapes enzymes that fit common food molecules. Plastic has existed for only about a century. Picking 'taste' treats microbes like people. Microbes have no tongues, only enzymes that fit or don't fit.
+   **Answer:** Enzymes evolve to fit molecules that microbes have met for a long time. Plastic molecules are new and strange.. *Why:* Evolution shapes enzymes that fit common food molecules. Plastic has existed for only about a century. Picking 'taste' misses the main reason. Microbes can only eat what their enzymes fit.
 2. (mcq) Long ago, many fallen trees didn't rot and became coal. One idea is that wood-rotting fungi had not evolved yet. What does that idea have in common with plastic today?  
    Options: Both are made by people / Both are new materials that few living things could yet break down / Both are found only in India / Nothing  
    **Answer:** Both are new materials that few living things could yet break down. *Why:* In both cases, a tough material piled up because few decomposers could eat it. This is one idea, and other scientists think swamps burying wood quickly mattered more. Picking 'made by people' is true for plastic, but wood is made by trees.

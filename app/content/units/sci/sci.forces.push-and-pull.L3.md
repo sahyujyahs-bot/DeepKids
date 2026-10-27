@@ -169,6 +169,30 @@ We can measure forces very well. We can predict where rockets will go. But what 
   For: Newton wrote the three laws of motion together, clearly, in one book in 1687.  
   Against: He built on Galileo, René Descartes, Christiaan Huygens and others. Robert Hooke argued with him about the idea of gravity. And for many readers it was a woman, Émilie du Châtelet, who made the book understandable. She translated it into French with her own notes. Her translation came out in 1759, ten years after she died, and is still used today.
 
+## Roots
+We have been learning that every push and pull is a force, and forces come in pairs. Now we ask what pushing and pulling tell us about ourselves and the world.
+
+**Deep truth.** Every push is also a push back. No one acts alone.  
+*Habit it breaks:* We split the world into the one who acts and the one acted on. But when you push a wall, the wall pushes you exactly as hard.  
+*Evidence:* Pushing a wall or a friend on skates moves both of you.
+
+- *who am i:* When you push a wall, it pushes you back. You are always in a meeting.
+- *what is life:* Your muscles can only pull. Yet together they let you push, lift and hug.
+- *what is this world:* The Sun pulls the Earth. The Earth pulls you. You pull everything back.
+
+Every force comes in a pair: a push here means a push back there. So no thing ever acts alone. DeepKids believes this is the One showing itself as many, each part always answering the others. You push, the world answers. You and the world are two sides of one meeting.
+
+- **Empedocles, fragment DK B17:** Empedocles said two powers move everything. Love brings things together. Strife pushes them apart. The world is their endless dance. (Pulls bring things together and pushes move them apart. Every change is a mix of the two.)
+- **Kena Upanishad, part 3:** The wind god boasts he can blow away anything. A mysterious being puts down one blade of grass. The wind cannot move it. His power was never only his own. (You cannot see a force, only what it does. And every push you make is answered by the world.)
+- **Marcus Aurelius, Meditations 4.40:** Think of the universe as one living being. Everything in it works with everything else, woven together. (Every push has a push back, and everything pulls everything. Nothing in the world is truly alone.)
+- Science (settled): Every push you feel is really electrons pushing other electrons away. Your hand never quite touches the wall.
+- Science (open): Scientists can measure every force very well. But what a force really is, deep down, is still argued about.
+- Other view, Madhva, a great Indian teacher: Madhva taught that the soul and God are always two, never one. On his view, you and the world truly are separate, even when you push on each other.
+- Practice, Which hand is pushing? (2 min): Let's put our palms together in front of our chest. Press them gently into each other. Breathe in slowly. Press a little harder as you breathe out. Now relax. Do it three times. Each hand pushes, and each hand is pushed. Which hand is doing the pushing?
+- Ask: When you press your hands together, which one is pushing?
+- Ask: Is the wall pushing you back on purpose?
+- Ask: Where does your push really begin?
+
 ## Deep and big questions
 - *deep:* You can't see a force. You can only see what it does. So how do we know forces are real? (hint: Push your palm against a friend's palm. What do you feel? Is feeling a kind of seeing?)
 - *deep:* When you jump, you pull the whole Earth up towards you a tiny bit. Why don't you notice? (hint: Think of an ant pushing an elephant. Who moves more?)

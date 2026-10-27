@@ -159,6 +159,30 @@ A housefly beats its wings about 200 times every second. That makes the buzz you
   For: At that time, every attempt at a heavier-than-air flying machine with an engine had failed. Some inventors died trying.  
   Against: Birds are heavier than air, and they fly. In 1903 the Wrights flew. Today a big plane weighing as much as 80 elephants can fly. Wings, not lightness, hold it up.
 
+## Roots
+We have been learning how kites, birds and seeds fly by pushing air down. Now we ask what flying tells us about ourselves and the world.
+
+**Deep truth.** Lift, air resistance, friction, a push and a spring's pull look like different forces. Underneath, they are the same force: electrons pushing other electrons away.  
+*Habit it breaks:* We give each force its own name, so we think they are different things. Zoom in and a wing never touches the air at all. The electrons on the outside of air particles and wing particles push each other away (the electromagnetic force). The same thing happens when your foot meets the floor.  
+*Evidence:* A wing pushes air down and the air pushes the wing up, without anything sticking together. Air resistance on a falling paper sheet is the same push.
+
+- *who am i:* Every breath you take is the same air that holds up birds.
+- *what is life:* Birds, bats, insects and seeds all found ways to ride the air.
+- *what is this world:* The sky is not empty. It is full of air that pushes back.
+
+Air looks like nothing at all. Yet a wing pushes it down, and it pushes the wing up. DeepKids believes the world is one whole, so even empty-looking air holds us. A bird and the wind are not two separate things fighting. They are one movement, wing and air together.
+
+- **Zhuangzi, chapter 1:** A giant bird called Peng rises thousands of miles high. But only when the wind beneath it is deep enough. Without enough wind, great wings cannot be held up. (Nothing flies on its own power alone. Every wing needs the air to push against.)
+- **Brihadaranyaka Upanishad 3.7.2:** The sage Yajnavalkya says air is the thread. All beings and all worlds are strung together on it, like beads. (The air you breathe is the same air that lifts kites and carries seeds across fields.)
+- **Udana 6.4, the blind men and the elephant:** Blind men each touch one part of an elephant. One feels a tail, one a leg, one a trunk. Each is sure he knows the whole. (Scientists agree on what lift does, but still argue about the best simple way to explain it. Each explanation sees a part.)
+- Science (settled): Everything that flies stays up by pushing air downwards. The air then pushes it up. This upward push is called lift.
+- Science (debated): The best simple way to explain why air speeds up over a wing is still argued about. The famous 'equal time' explanation is wrong.
+- Other view, Many physicists: Lift is just billions of air molecules bumping into a wing. It needs no deeper meaning. Seeing wings and wind as one is a poem, not physics.
+- Practice, Feel the invisible (2 min): Let's hold one hand flat, just in front of our lips. Breathe out slowly onto your palm. Can you feel something you cannot see? Now breathe in slowly. Breathe out once more, very gently. That is air, the same air that holds up every bird.
+- Ask: If you cannot see air, how do you know it is there?
+- Ask: A kite rises because its string holds it. Can being held help?
+- Ask: Is the bird flying, or the bird and wind together?
+
 ## Deep and big questions
 - *deep:* If air is invisible, how do we know it is really there? (hint: Push an upside-down glass into water, with a tissue stuck inside. What keeps the tissue dry?)
 - *deep:* Could you fly a kite on the Moon? (hint: What does a kite push on? Is there any of it on the Moon?)
@@ -428,7 +452,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   *Parent does:* Talk about why plants send their seeds so far.  
   *Parent says:* Why would a tree want its seeds to fly far away, instead of dropping just underneath?  
   *Child mode:* Why would a tree want its seeds to fly far away?
-  - Think: A seed can't choose where it lands. The wind chooses. Is that like anything in our lives?
+  - Think: The wind carries the seed to where it lands. Is that like anything in our lives?
 ### a4 · Bird Watch: flap, glide or soar? (20 min)
 - **safety:** Watch from a safe rooftop with a railing, a balcony or a park, with a grown-up. Never look at the Sun, with or without binoculars.
 - **record:** Make a tally table with three columns: flapping, gliding and soaring. Write which birds you saw doing each.
@@ -447,7 +471,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   *Parent says:* Which kind of flying did we see most? Which kind looks like the least work?  
   *Child mode:* Count your tally marks. Which kind of flying did you see most? Which looks easiest?
   - Check: In the Bird Watch, black kites circled high without flapping. What was holding them up? → **Rising warm air, called a thermal**
-  - Think: Soaring birds use the Sun's heat to climb, without flapping. Where else is the Sun secretly doing work for us?
+  - Think: Soaring birds use the Sun's heat to climb, without flapping. Where else is the Sun secretly doing work?
 ### a5 · Be the Air (act it out) (15 min)
 - **safety:** Walk, don't run. The person holding the wing moves slowly.
 - **record:** Draw the wing with lots of molecules bumping underneath and fewer on top.

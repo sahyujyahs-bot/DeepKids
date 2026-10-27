@@ -3215,7 +3215,7 @@
        "Less every beat, because it gets tired"
       ],
       "a": 1,
-      "why": "The marble speeds up all the way down, so it goes further each beat. Galileo found the distances from the start went up as 1, 4, 9, 16. A falling thing does the same, only much faster. Picking 'the same distance' means picturing falling at one steady speed. Picking 'gets tired' is a lovely idea, but balls never get tired."
+      "why": "The marble speeds up all the way down, so it goes further each beat. Galileo found the distances from the start went up as 1, 4, 9, 16. A falling thing does the same, only much faster. Picking 'the same distance' means picturing falling at one steady speed. Picking 'gets tired' misses that gravity keeps pulling the marble, so it keeps speeding up."
      },
      "chart": {
       "type": "line",

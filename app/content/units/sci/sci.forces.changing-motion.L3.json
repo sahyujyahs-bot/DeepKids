@@ -1468,10 +1468,10 @@
       "Its atoms are pushed closer, and the bonds between them push back",
       "Air inside it is magic",
       "Gravity pulls it back",
-      "It remembers its shape like a person"
+      "Squeezing makes its atoms bigger"
      ],
      "a": 0,
-     "why": "Bonds between atoms act a little like tiny springs. Squash them and they push back. Picking 'air inside' is a sensible guess, as sponges have air in them. But a solid rubber ball also springs back with no air holes."
+     "why": "Bonds between atoms act a little like tiny springs. Squash them and they push back. Picking 'air inside' is a sensible guess, as sponges have air in them. But a solid rubber ball also springs back with no air holes. Squeezing does not make atoms bigger. It pushes them closer together."
     },
     {
      "t": "mcq",

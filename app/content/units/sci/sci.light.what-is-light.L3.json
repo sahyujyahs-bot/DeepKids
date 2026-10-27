@@ -383,7 +383,7 @@
   {
    "concept": "What is light really?",
    "status": "debated",
-   "description": "We can predict what light will do extremely well. But what a photon is between leaving a lamp and landing on a detector is still argued about. Labs can send light one photon at a time through two slits. Each photon lands as one dot. After thousands of dots, wave stripes appear. If a detector checks which slit each photon went through, the stripes disappear. Here, 'detector' means any measuring machine. It does not need a person or a mind to watch.",
+   "description": "We can predict what light will do extremely well. But what a photon is between leaving a lamp and landing on a detector is still argued about. Labs can send light one photon at a time through two slits. Each photon lands as one dot. After thousands of dots, wave stripes appear. If a detector checks which slit each photon went through, the stripes disappear. Here, 'detector' means any measuring machine. No person needs to watch.",
    "examples": [
     "One photon at a time makes one dot at a time.",
     "Thousands of dots slowly build up a striped wave pattern.",
@@ -1313,7 +1313,7 @@
      "t": "truefalse",
      "p": "In quantum physics, the 'observer' that changes the result must be a person watching.",
      "a": false,
-     "why": "False. In physics, 'observer' means anything that measures, such as a detector or a camera. No person or mind needs to watch. The stripes vanish whenever any detector records which slit the photon used."
+     "why": "False. In physics, 'observer' means anything that measures, such as a detector or a camera. No person needs to watch. The stripes vanish whenever any detector records which slit the photon used."
     },
     {
      "t": "truefalse",
@@ -3621,7 +3621,7 @@
     "status": "settled"
    },
    {
-    "text": "In quantum physics, light behaves like a wave and arrives as packets. What a photon is really like between leaving and arriving is still argued about. Here 'observer' means any measuring machine, not a mind. Quantum physics does not prove that consciousness makes the world.",
+    "text": "In quantum physics, light behaves like a wave and arrives as packets. What a photon is really like between leaving and arriving is still argued about. Here 'observer' means any measuring machine, not only a person. Quantum physics does not prove that a person watching makes the world real.",
     "status": "debated"
    }
   ],

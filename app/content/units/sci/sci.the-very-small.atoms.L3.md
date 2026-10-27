@@ -11,7 +11,7 @@
 2. I can name the parts of an atom: a tiny centre called the nucleus, made of protons and neutrons, and electrons around it.
 3. I can explain that an atom is almost all empty space, and how scientists found out by firing tiny bits at metal.
 4. I can explain that electrons are not little balls going round on tracks. Scientists can only say where an electron is likely to be, so they draw it as a cloud of maybe.
-5. I can say that the very small does not behave like the things we see. I can also say that in physics an 'observer' is anything that measures, not a mind.
+5. I can say that the very small does not behave like the things we see. I can also say that in physics an 'observer' is anything that measures, not only a person.
 6. I can say how we know atoms are real without seeing them, and name things scientists still do not know.
 
 ## Terms
@@ -30,7 +30,7 @@
 - **Electron cloud**: A picture that shows where an electron is likely to be found. It is thick where the electron is often found and thin where it is rarely found. *e.g.* Drop 50 pencil dots at a target with your eyes closed. They make a cloud that is thick in the middle.
 - **Quantum physics**: The science of the very tiniest things, like atoms, electrons and light. It has rules that are very different from the rules for balls and bicycles. *e.g.* Quantum physics explains why salt sprinkled on a gas flame turns it bright yellow.
 - **Measurement**: Finding out something, such as where a thing is, by letting it bump into something else, like light or a detector. *e.g.* To find an electron, scientists let it hit a screen. The screen makes a tiny flash where it hit.
-- **Observer (in physics)**: Anything that measures, such as a detector, a screen or even a single bit of light. It does not have to be a person, and it does not need a mind. *e.g.* A camera chip or a speck of dust can 'observe' an electron by being hit by it.
+- **Observer (in physics)**: Anything that measures, such as a detector, a screen or even a single bit of light. It does not have to be a person. *e.g.* A camera chip or a speck of dust can 'observe' an electron by being hit by it.
 - **Probability**: How likely something is to happen. It is the maths of maybe. *e.g.* With two dice, a total of 7 is more likely than a total of 12.
 - **Energy level**: One of the fixed amounts of energy an electron in an atom can have. Electrons can only be on these levels, like standing on the steps of a staircase, never in between. *e.g.* When an electron drops down one step, the atom gives out light of one exact colour.
 - **Diffusion**: Particles spreading out by themselves, from where there are many to where there are few. *e.g.* A drop of food colour spreads through still water, with nobody stirring it.
@@ -157,7 +157,7 @@ Nobody knows. As far as anyone can tell, electrons and quarks have no size at al
   Against: Einstein's work on Brownian motion in 1905 and Perrin's measurements in 1908 showed atoms are real. Ostwald changed his mind. Today we picture single atoms.
 - **Quantum physics proves that our minds create the world.** (Some films, books and speakers, and some people who sell healing or success courses; *rejected*)  
   For: In quantum physics, measuring does change what you find. And the word 'observer' sounds like it means a person.  
-  Against: In physics, an observer is anything that measures, such as a detector or a speck of light. The experiments work the same with no person watching. Physicists still argue about what measurement means, but none of the main ideas need a mind.
+  Against: In physics, an observer is anything that measures, such as a detector or a speck of light. The experiments work the same with no person watching. Physicists still argue about what measurement means, but none of the main ideas need a person watching.
 - **Kanada discovered the atom long before anyone else.** (Some books and speakers in India; *debated*)  
   For: Kanada really did teach that everything is made of tiny invisible bits, paramanu, that join to make bigger things. It was a deep and careful idea.  
   Against: Nobody knows when Kanada lived. Democritus in Greece had a similar idea at about the same time. Neither tested it with experiments. Proof came only in the 1900s.
@@ -167,6 +167,30 @@ Nobody knows. As far as anyone can tell, electrons and quarks have no size at al
 - **The dust you see dancing in a sunbeam is being jiggled by atoms.** (The Roman poet Lucretius, about 2,050 years ago, and many people since; *rejected*)  
   For: Atoms really do bump tiny specks and make them jiggle. This is called Brownian motion.  
   Against: The dust you can see is too big. It swirls mainly because of small air currents. True Brownian motion shows only for much tinier specks, under a microscope.
+
+## Roots
+We have been learning that everything is made of atoms, and that atoms are almost all empty space with clouds of maybe. Now we ask what that tells us about ourselves and the world.
+
+**Deep truth.** The solid world is almost entirely empty space. What feels solid is a push, not packed stuff.  
+*Habit it breaks:* We think 'solid' and 'empty' are opposites. Inside every atom, a tiny speck sits in a huge emptiness, and its electrons are clouds of maybe. So a solid wall and empty air are made of the same kind of thing, arranged differently.  
+*Evidence:* In 1909, almost every tiny bit fired at gold went straight through it. Only about 1 in 8,000 bounced back.
+
+- *who am i:* You are made of about 7 followed by 27 zeros atoms, almost all empty space. Many of your atoms were made in stars.
+- *what is life:* Life is made of the same atoms as stones and stars. What makes it alive is how the atoms are arranged and kept moving.
+- *what is this world:* A world where tiny things follow 'maybe' rules, and solid things are mostly empty. Yet it holds together.
+
+About 90 kinds of atom build everything there is. Those 90 are built from just three parts: protons, neutrons and electrons. Look deeper and even those may be ripples in fields that fill all of space. DeepKids believes this is the One showing up as the many: a few simple things, arranged in countless ways, becoming stars, rivers, mangoes and you. The emptiness inside atoms is not nothing. It is where the clouds of maybe live.
+
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a banyan fruit, then one of its tiny seeds. 'What do you see?' 'Nothing at all.' Uddalaka says that from this finest part, which you cannot see, the great banyan tree grows. (When you cut the paper smaller and smaller, you soon could not see the pieces. Yet everything big is built from these unseen bits.)
+- **Tao Te Ching 11:** Thirty spokes meet at the hub of a wheel. It is the empty hole in the middle that makes the wheel useful. A pot is shaped from clay, but it is the empty space inside that holds things. (An atom is almost all empty space, and that space is where its electrons are found. The emptiness is part of what makes the atom work.)
+- **The Heart Sutra (Prajnaparamita Hridaya):** Form is emptiness, and emptiness is form. In Buddhism this means nothing exists all by itself. Everything depends on other things. (This Buddhist emptiness is not the same as the empty space in atoms. But they rhyme: an electron is only ever found through what it bumps into.)
+- Science (settled): Atoms are almost all empty space, and nearly all their weight is in the tiny nucleus. What feels solid is electrons pushing on electrons.
+- Science (open): What an electron is doing between measurements is still argued about. Quantum physics does not prove that a person watching makes the world real. In physics, an 'observer' means anything that measures, such as a detector.
+- Other view, The Charvaka school in ancient India, and many physicists today: Only matter is real. Atoms and their rules explain everything, and there is no need for any One behind them. Many careful thinkers hold this view, and it deserves respect.
+- Practice, Feel the push (3 min): Hold your hand just above the table, not touching. Slowly, slowly lower it, until you just feel the table. Stop there. Breathe in, and breathe out. Your hand is almost all empty space. So is the table. What you feel is a push between them. Close your eyes and just notice that push. What is it that is feeling it?
+- Ask: If you are almost all empty space, what is it that makes you you?
+- Ask: Is the emptiness inside atoms nothing, or something?
+- Ask: Your atoms were once in stars and will one day be somewhere else. Are they yours, or only borrowed?
 
 ## Deep and big questions
 - *deep:* If you had perfect scissors and perfect eyes, could you cut a piece of paper in half for ever? (hint: The paper is made of atoms. What happens when you reach one? And what is inside it?)
@@ -276,7 +300,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Parent does:* Play the torch bonus round if you have friends. Then talk about who or what can measure.  
   *Parent says:* In the torch round, the torch was the detector. And the paper ball measured you too. Does a measurement need a person?  
   *Child mode:* Did you need a person to measure you? Or could a torch beam or a paper ball do it?
-  - Note: Say clearly: in physics, an 'observer' is anything that measures. A detector, a beam of light or even air molecules can measure an electron. No mind is needed. Some people claim quantum physics proves our minds make the world. It does not.
+  - Note: Say clearly: in physics, an 'observer' is anything that measures. A detector, a beam of light or even air molecules can measure an electron. No person needs to watch. Some people claim quantum physics proves our minds make the world. It does not.
   - Think: If a speck of dust can 'measure' an electron, what does the word observer really mean?
 
 ## Experiments
@@ -695,7 +719,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 ## Videos
 - **Just How Small is an Atom?** (TED-Ed, 6 min) id `yQP4UJhNn0I`: A clear animated tour of how small atoms are and how empty they are, with a stadium and a pea to picture the nucleus. Good for children and parents together. *Check:* Found by YouTube search in this session: title 'Just How Small is an Atom?' by TED-Ed, 5 minutes 28 seconds. Not watched from here. A parent may preview it.
 - **A Boy And His Atom: The World's Smallest Movie** (IBM, 2 min) id `oSCX78-8-q0`: A tiny cartoon made by moving single molecules on a copper surface, one frame at a time. Children love it, and it shows that scientists can really see and move atoms. *Check:* Found by YouTube search in this session: title 'A Boy And His Atom: The World's Smallest Movie' by IBM, 1 minute 34 seconds. Not watched from here.
-- **The Double Slit Experiment, with Jim Al-Khalili** (The Royal Institution, 9 min) id `A9tKncAdlHQ`: For the parent and curious older children: a physicist explains how tiny bits spread like waves but land as dots. Watch with the 'observer' card in mind. In physics, 'looking' means measuring with a detector, not a mind. *Check:* Found by YouTube search in this session: title 'Why reality changes when you look at it | The Double Slit Experiment | with Jim Al-Khalili' by The Royal Institution, 9 minutes 8 seconds. Not watched from here. Its title sounds like the mind matters, so a parent should preview it and check that it says a detector is enough.
+- **The Double Slit Experiment, with Jim Al-Khalili** (The Royal Institution, 9 min) id `A9tKncAdlHQ`: For the parent and curious older children: a physicist explains how tiny bits spread like waves but land as dots. Watch with the 'observer' card in mind. In physics, 'looking' means measuring with a detector, not only with a person's eyes. *Check:* Found by YouTube search in this session: title 'Why reality changes when you look at it | The Double Slit Experiment | with Jim Al-Khalili' by The Royal Institution, 9 minutes 8 seconds. Not watched from here. Its title sounds like a person looking matters, so a parent should preview it and check that it says a detector is enough.
 
 ## Quiz
 1. (mcq) What is everything made of?  
@@ -730,10 +754,10 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
    **Answer:** An electron cloud: one dot is like one measurement. *Why:* Each dot is one 'finding'. Many findings make a cloud of chances, just like the picture of an electron. Picking 'a real electron' takes the model too literally. The dots are a picture of chances.
 11. (mcq) In physics, what can be an 'observer'?  
    Options: Anything that measures, like a detector or a beam of light / Only a person / Only a scientist with a notebook  
-   **Answer:** Anything that measures, like a detector or a beam of light. *Why:* Anything that a tiny bit bumps into can measure it. No mind is needed. Picking 'only a person' comes from the everyday meaning of the word. Experiments work the same with no person in the room.
+   **Answer:** Anything that measures, like a detector or a beam of light. *Why:* Anything that a tiny bit bumps into can measure it. No person is needed. Picking 'only a person' comes from the everyday meaning of the word. Experiments work the same with no person in the room.
 12. (mcq) Does quantum physics prove that our minds make the world real?  
    Options: No, it does not / Yes, it does / Yes, but only on Sundays  
-   **Answer:** No, it does not. *Why:* Physicists still argue about what measurement means. But none of the main ideas needs a mind, and experiments work without anyone watching. Picking 'yes' is understandable, because some films and books say so. They mix up the physics word 'observer' with its everyday meaning.
+   **Answer:** No, it does not. *Why:* Physicists still argue about what measurement means. But none of the main ideas needs a person watching, and experiments work without anyone watching. Picking 'yes' is understandable, because some films and books say so. They mix up the physics word 'observer' with its everyday meaning.
 13. (mcq) How did scientists first become sure that atoms are real?  
    Options: From what atoms do, like jiggling tiny specks in water / Someone saw one with their eyes / Kanada told them  
    **Answer:** From what atoms do, like jiggling tiny specks in water. *Why:* Einstein in 1905 and Perrin in 1908 showed that tiny specks jiggle because invisible molecules bump them. Picking 'Kanada told them' misses that an idea needs evidence. Kanada's idea was brilliant, but proof came over 2,000 years later.

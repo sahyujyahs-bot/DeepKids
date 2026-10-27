@@ -1692,7 +1692,7 @@
      "do": "Talk about why plants send their seeds so far.",
      "say": "Why would a tree want its seeds to fly far away, instead of dropping just underneath?",
      "kid": "Why would a tree want its seeds to fly far away?",
-     "think": "A seed can't choose where it lands. The wind chooses. Is that like anything in our lives?"
+     "think": "The wind carries the seed to where it lands. Is that like anything in our lives?"
     }
    ],
    "context": "This is a seed hunt in a park or along a road. You collect seeds that fly, sort them by how they fly, and time how slowly they fall."
@@ -1789,7 +1789,7 @@
       "a": 0,
       "why": "Rising warm air, a thermal, carries them up as they circle. Picking 'falling very slowly' misses that they can climb higher without flapping. Picking 'strings' mixes up the bird with the paper toy that is named after it."
      },
-     "think": "Soaring birds use the Sun's heat to climb, without flapping. Where else is the Sun secretly doing work for us?"
+     "think": "Soaring birds use the Sun's heat to climb, without flapping. Where else is the Sun secretly doing work?"
     }
    ],
    "context": "This is a bird-watching activity. You watch the sky for 20 minutes and sort birds by how they fly: flapping, gliding or soaring."

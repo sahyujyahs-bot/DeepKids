@@ -140,7 +140,7 @@ Einstein said that very heavy things bend space around them. Then light passing 
 - e.g. This is called gravitational lensing.
 - e.g. It is different from light bending in water or glass. Here it is space itself that is curved.
 ### What is light really? · *debated*
-We can predict what light will do extremely well. But what a photon is between leaving a lamp and landing on a detector is still argued about. Labs can send light one photon at a time through two slits. Each photon lands as one dot. After thousands of dots, wave stripes appear. If a detector checks which slit each photon went through, the stripes disappear. Here, 'detector' means any measuring machine. It does not need a person or a mind to watch.
+We can predict what light will do extremely well. But what a photon is between leaving a lamp and landing on a detector is still argued about. Labs can send light one photon at a time through two slits. Each photon lands as one dot. After thousands of dots, wave stripes appear. If a detector checks which slit each photon went through, the stripes disappear. Here, 'detector' means any measuring machine. No person needs to watch.
 - e.g. One photon at a time makes one dot at a time.
 - e.g. Thousands of dots slowly build up a striped wave pattern.
 - e.g. Checking which slit the photon used makes the stripes go away.
@@ -176,6 +176,31 @@ We can predict what light will do extremely well. But what a photon is between l
 - **Something might travel faster than light after all.** (Some people, after a 2011 experiment called OPERA seemed to find tiny particles called neutrinos going faster than light.; *rejected*)  
   For: The first results really did seem to show it, and the scientists shared them openly, asking others to check.  
   Against: The team then found a loose cable in their timing equipment. With it fixed, the neutrinos were not faster than light. Every other test agrees with Einstein.
+
+## Roots
+We have been learning what light is and how fast it travels. Now we ask what light tells us about ourselves and the world.
+
+**Deep truth.** Everything you see is a message from the past. There is no single 'now' that you can see.  
+*Habit it breaks:* We think of 'now' and 'then' as clean, separate boxes, and we think seeing is instant. But every sight arrives a little late. The Sun is 8 minutes ago, a star is years ago, your friend's face a tiny moment ago. The world you see is made of many 'thens' arriving together.  
+*Evidence:* Sunlight takes about 8 minutes to reach us. Rømer's moon Io seemed late because its light needed extra time to cross space.
+
+- *who am i:* You are made of atoms forged in stars, and you are fed by sunlight caught in plants. In a real way, you are made of old light.
+- *what is life:* Life runs on light. Plants catch photons from the Sun, and every living thing that eats depends on them.
+- *what is this world:* The sky is a huge bundle of old letters, all arriving at once. Light ties every corner of the universe to every other.
+
+Light is one thing that shows up in many ways. It is a wave and a packet, a warmth and a picture, a radio signal and a rainbow, all one kind of wiggle. It leaves a star and travels for years, then becomes part of what you see, and what a plant makes into food. DeepKids believes this is the One becoming the many: one light, everywhere at once, carrying news from every part of the universe to every other. When you see a star, the star and you are joined by the light between you.
+
+- **Brihadaranyaka Upanishad 4.3.2 to 4.3.6:** King Janaka asks the sage Yajnavalkya: what light does a person live by? The Sun, says the sage. And when the Sun has set? The Moon. And when the Moon has set? Fire. And when the fire goes out? Speech. And when speech is silent? Then the self is his light. (We learn that every outside light is a messenger, and all of it arrives a little late. The sage asks about the light that knows all these lights. Is it outside us, or inside?)
+- **Udana 6.4, the Buddha's story of the blind men and the elephant (also told in Jain teaching on anekantavada, many-sidedness):** Some blind men each touch one part of an elephant. One feels the trunk and says it is a snake. One feels a leg and says it is a pillar. Each is partly right, and they quarrel. (Young's slits said light is a wave. Einstein's packets said it is a particle. Each experiment touched one side of light. Light is bigger than either word.)
+- **Isha Upanishad, verse 15:** The face of truth is hidden by a golden disc. Uncover it, so that I may see what is true. (The bright Sun dazzles us. But what we see is its old light, a covering, not the Sun as it is now. To see truly, we must look past the shining surface.)
+- Science (settled): Light from far away is old. Looking further away really is looking further back in time.
+- Science (debated): In quantum physics, light behaves like a wave and arrives as packets. What a photon is really like between leaving and arriving is still argued about. Here 'observer' means any measuring machine, not only a person. Quantum physics does not prove that a person watching makes the world real.
+- Other view, Many physicists, and the old Indian Charvaka school: Light is simply an electromagnetic field doing what the equations say. Calling it a messenger or a sign of oneness is a pretty picture, not science. They think there is no need for any One behind it, and that is an honest view.
+- Practice, The Old Light Breath (3 min): Sit near a window or in a patch of daylight. Close your eyes and feel the light warming your face. Breathe in slowly while I count to four. Breathe out while I count to four. This warmth left the Sun about 8 minutes ago. Its energy may have wandered inside the Sun for thousands of years before that. Now it is resting on you. Breathe in once more. Open your eyes slowly and look at the light in the room. Is it old, or new?
+- Ask: If everything you see is from the past, when is 'now'?
+- Ask: Is light a wave, a particle, or something we do not have a word for yet?
+- Ask: The light from a star joins it to you. Are you and the star really separate?
+- Ask: What is the light by which you know all the other lights?
 
 ## Deep and big questions
 - *deep:* If every sight reaches you a little late, is there any moment you see exactly 'now'? (hint: Light from your hand takes a tiny bit of time to reach your eye. Light from the Sun takes 8 minutes.)
@@ -732,7 +757,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
    Options: Wave stripes, bright and dark / Two plain stripes, one for each slit / One dot in the middle / Nothing  
    **Answer:** Wave stripes, bright and dark. *Why:* Each photon lands as one dot, like a particle. But together the dots build up the stripes that only waves make. This is why scientists say light behaves like both. Picking 'two plain stripes' is what you would expect from tiny marbles, and it is not what happens.
 9. (truefalse) In quantum physics, the 'observer' that changes the result must be a person watching.  
-   **Answer:** False. *Why:* False. In physics, 'observer' means anything that measures, such as a detector or a camera. No person or mind needs to watch. The stripes vanish whenever any detector records which slit the photon used.
+   **Answer:** False. *Why:* False. In physics, 'observer' means anything that measures, such as a detector or a camera. No person needs to watch. The stripes vanish whenever any detector records which slit the photon used.
 10. (truefalse) Scientists agree completely on what a photon really is between leaving a lamp and landing on a detector.  
    **Answer:** False. *Why:* False. The sums of quantum physics predict light's behaviour extremely well. But what a photon is really like on its journey is still argued about.
 11. (match) Match each person to what they found about light.  

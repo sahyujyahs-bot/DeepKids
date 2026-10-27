@@ -149,7 +149,7 @@ Your body sorts things all day, without being told. Your kidneys are like two sm
 - e.g. The snail-shaped inner ear: sorts sounds from high to low.
 - e.g. The brain: sorts faces, voices and smells into groups.
 ### Who decides the rule? · *debated*
-A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some elements really do seem to be natural groups. Every atom of gold is gold. Other groups, such as 'vegetable', seem to depend on our needs. Sorting things is almost always harmless. A rock does not mind which pile it is in. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. The programs had been taught with too few faces like theirs. A careful sorter asks: whose needs does this rule serve, and who does it leave out?
+A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some elements really do seem to be natural groups. Every atom of gold is gold. Other groups, such as 'vegetable', seem to depend on our needs. Sorting things is almost always harmless. A pile does not change a rock. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. The programs had been taught with too few faces like theirs. A careful sorter asks: whose needs does this rule serve, and who does it leave out?
 - e.g. A tomato is a fruit for a botanist and a vegetable for a cook.
 - e.g. A face program that works well for some people and badly for others.
 - **Plato, in ancient Greece, and many scientists:** Nature has joints, and a good sort cuts at them. Gold, hydrogen and the planets are real natural groups, found and not invented.
@@ -193,16 +193,40 @@ People in different places have sorted the world in different ways. More than tw
   For: Glass has no neat pattern of atoms, like a liquid. Some old windows are thicker at the bottom.  
   Against: In 1998, Edgar Zanotto worked out that window glass would take longer than the age of the universe to sag. Old glass was made by hand, so it came out uneven. Builders often put the thick edge at the bottom. Some old windows are thicker at the top.
 
+## Roots
+We have been learning to sort things into groups. Now we ask what sorting tells us about ourselves and about the world.
+
+**Deep truth.** The groups are in our heads, not in the world.  
+*Habit it breaks:* We think categories are found in nature. But the same heap can be sorted by colour, by sound or by use, and each rule shows something different.  
+*Evidence:* Sorting one heap three ways gives three different answers.
+
+- *who am i:* You are a sorter. Your eyes, ears and hands sort the world all day, without being asked. You also belong to many groups at once, and no single group is all of you.
+- *what is life:* Living things are sorters. Your kidneys sort your blood and your ear sorts sounds. A living body keeps what it needs and lets the rest go.
+- *what is this world:* The world is made of just over a hundred kinds of atom, joined in endless ways. Sorting is how we find the order inside all that variety.
+
+DeepKids believes that behind the many there is one. Look at a heap of things: a steel spoon, a wooden spoon, a glass bangle. Each rule makes different groups, and all the groups are real. Now zoom in. Every thing is made of atoms, and those atoms came from stars. Sorting is how the mind walks from the many back toward the few, and from the few toward one. The periodic table does exactly this. Thousands of materials come down to about a hundred elements, and one pattern holds them all. The gaps in the table tell us that the pattern is bigger than anything we have found so far.
+
+- **Chandogya Upanishad 6.1.4 to 6.1.6:** Uddalaka teaches his son Shvetaketu. By knowing one lump of clay, you know everything made of clay. A pot and a plate differ only in name and shape. In the same way, one nugget of gold teaches you about all gold ornaments. One piece of iron teaches you about all things of iron. (This is sorting by material. A pot and a plate look different, but they are one group when we ask 'What is it made of?'. The shape is one rule. The material is another.)
+- **Udana 6.4 (the Tittha Sutta) in the Pali Canon:** Blind men each touch a different part of an elephant and each describes a different animal. Each is right about the part he touched and wrong about the whole. (Each sorting rule touches one part of a thing. Hard or soft, shiny or dull and metal or not all tell something true. No single rule tells the whole.)
+- **Tao Te Ching 1:** The way that can be spoken is not the eternal way. The name that can be named is not the eternal name. (Groups are names we give. They are useful, but the world is bigger than our names. A platypus does not read our labels.)
+- Science (settled): Almost every atom in your body, apart from hydrogen, was made inside a star. Margaret Burbidge, with Geoffrey Burbidge, William Fowler and Fred Hoyle, showed how in 1957. So the many things in a heap come from a few kinds of atom, and those came from stars.
+- Science (debated): Whether the groups we use are found in nature or made by us is still argued by scientists and philosophers. Gold seems like a natural group. 'Vegetable' seems to depend on us.
+- Other view, Madhva, a philosopher of the Dvaita school in India, about 700 years ago: The differences between things are real and lasting. A pot is not clay in disguise. Madhva taught five real differences, such as between one soul and another and between matter and soul. In this view, sorting finds real differences. It does not only find different names for one thing.
+- Practice, Sorting with eyes closed (3 min): Close your eyes. I will put a thing in your hand. 1. Feel how cold or warm it is. 2. Feel if it is hard or soft, rough or smooth. 3. Feel how heavy it is. 4. Now I will tap it, so listen. 5. Say how you would sort this thing. 6. Open your eyes. Now notice something. All these differences were noticed by you. Who is the one who notices?
+- Ask: When you sort a heap, who is doing the sorting?
+- Ask: If you zoom in far enough, do the groups still exist?
+- Ask: Is the one who notices also in a group? Which one?
+
 ## Deep and big questions
 - *deep:* A steel spoon and a wooden spoon look nothing alike. If you could zoom in until you saw only atoms, what would you find? (hint: Both are made of atoms. Which kinds of atoms might each one have? How could anyone sort a spoon into kinds of atoms?)
 - *deep:* Twenty good yes or no questions can find one thing out of more than a million. How can so few questions do so much? (hint: Each good question cuts the number of possibilities in half. Try doubling a number twenty times.)
 - *deep:* When astronomers sort stars by colour, what are they really sorting? (hint: A hot piece of iron glows red, then yellow, then white. What might colour tell you about a star?)
 - *deep:* Elements in the same column of the periodic table behave alike. What might be the same inside them? (hint: It is something about the outside of the atom, the part that touches other atoms.)
 - *deep:* Is solid, liquid or gas something a material is, or something it is doing right now? (hint: Think of water as ice, as water and as steam. It is the same stuff each time.)
-- *deep:* Your ear sorts sounds before your brain does. How might a body part sort without a brain? (hint: A sieve sorts by size without thinking. What could a coiled tube do with sound?)
+- *deep:* Your ear sorts sounds before your brain does. How might a body part sort without a brain? (hint: A sieve sorts by size: small bits fall through its holes. What could a coiled tube do with sound?)
 - *big:* If a thing does not fit any group, should we change the thing or change the groups? (hint: Remember quasicrystals and the platypus. What happened to the groups?)
 - *big:* Are the groups in nature waiting for us to find them, or do we make them up? (hint: Is 'gold' a group nature made? What about 'vegetable'?)
-- *big:* Sorting rocks is harmless. Is sorting people ever harmless? (hint: A rock does not mind which pile it is in. What might a person feel? What does one rule hide about them?)
+- *big:* Sorting rocks is harmless. Is sorting people ever harmless? (hint: A pile does not change a rock. What might a person feel? What does one rule hide about them?)
 - *big:* You belong to many groups at once, like a thing in many circles of a Venn diagram. Which of your circles are you proudest of? (hint: Think of your family, your school, your favourite game and the language you speak.)
 - *big:* A kabadiwala makes money from things we call rubbish. Is there really such a thing as rubbish, or only things that have not been sorted yet? (hint: What happens to a heap of mixed rubbish? What happens when it is sorted into piles?)
 - *big:* Mendeleev's gaps told chemists what to look for before anyone had seen it. Can a good pattern let you know something before you find it? (hint: Think of a times table with one number missing, or a story with a missing page.)
@@ -778,7 +802,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 8. (mcq) Some computer programs that sort faces worked well for lighter-skinned men and badly for darker-skinned women. What was the likely cause?  
    Options: The program was taught with too few faces like theirs / Dark skin is harder to see in dark rooms only / The women moved too much / The programs were switched off  
    **Answer:** The program was taught with too few faces like theirs. *Why:* A program learns its rules from the examples it is given. If most examples look one way, it works best for them. Joy Buolamwini and Timnit Gebru showed this in 2018. It is a lesson in who is left out when the rule is built.
-9. (write) A rock does not mind which pile it is in. A person might. Why should we be careful when we sort people?  
+9. (write) A pile does not change a rock. But a label can change how people treat a person. Why should we be careful when we sort people?  
    **Answer:** A person has many parts to them, and one rule hides most of them. People can feel hurt or left out. A sort can also be used unfairly.. *Why:* Good answers say that people belong to many groups at once, and that a single rule hides the rest. They may also mention fairness or feelings.
 10. (write) Nana sorted the metal by colour and Hira sorted it by sound. Why did the bell sing only after the second sort?  
    **Answer:** Colour showed what the metal looked like, but not what it would sound like. A bell needs bell metal, which rings. Hira's sort used the property the bell needed.. *Why:* The rule must fit the job. A bell is for sound, so sorting by sound fits.
@@ -842,7 +866,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** Each material is recycled in its own way. *Why:* The sort has a job: selling to different buyers. Picking 'it looks tidy' misses the purpose.
 12. (mcq) Winnowing sorts grain from husk. Which rule does the wind use?  
    Options: Weight / Colour / Taste  
-   **Answer:** Weight. *Why:* The wind moves light husk more than heavy grain. Picking 'colour' is a common guess, but wind does not see colour.
+   **Answer:** Weight. *Why:* The wind moves light husk more than heavy grain. Picking 'colour' is a common guess, but colour does not change how hard the wind pushes.
 13. (mcq) Why did Mendeleev leave gaps in his table?  
    Options: He expected undiscovered elements to fill them / He lost some cards / He ran out of ideas  
    **Answer:** He expected undiscovered elements to fill them. *Why:* The pattern pointed to elements nobody had found. Three of them, gallium, scandium and germanium, were found and matched his predictions.

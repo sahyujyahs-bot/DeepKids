@@ -121,7 +121,7 @@ Stars and galaxies move as if they are being pulled by much more stuff than we c
 - **Most astronomers:** Dark matter is made of a kind of tiny particle we have not found yet. Big experiments deep underground are searching for it.
 - **Some scientists, like Mordehai Milgrom, who proposed this in 1983:** There may be no dark matter. Maybe gravity works a little differently over huge distances than we think.
 ### Nothing is perfectly transparent, and light has a little luck · *idea*
-Even the clearest glass is not perfect. At night, in a lit room, you can see a faint picture of the room in the window. That is because a little light bounces back at each surface of the glass, about 4 parts in every 100. Physicists found that light comes in tiny packets. Nobody can say in advance which packet will go through and which will bounce back. Only the share is fixed. Some scientists think this chance is truly part of nature. Others wonder if something hidden decides. Here 'deciding' does not mean anyone's mind. It is still argued about.
+Even the clearest glass is not perfect. At night, in a lit room, you can see a faint picture of the room in the window. That is because a little light bounces back at each surface of the glass, about 4 parts in every 100. Physicists found that light comes in tiny packets. Nobody can say in advance which packet will go through and which will bounce back. Only the share is fixed. Some scientists think this chance is truly part of nature. Others wonder if something hidden decides. Here 'decides' means 'sets which way it goes'. It is still argued about.
 - e.g. Fibres of very pure glass carry internet light under the oceans for many kilometres.
 - e.g. Katharine Burr Blodgett, an American scientist, invented a thin coating in 1938 that made glass even clearer, by stopping most of that bounce.
 - **Most physicists:** Which packet of light goes through is truly a matter of chance. Only the share can be predicted.
@@ -153,6 +153,31 @@ Even the clearest glass is not perfect. At night, in a lit room, you can see a f
 - **We already understand glass completely.** (A common assumption, since glass is so ordinary; *debated*)  
   For: People have made glass for over 4,000 years. We know exactly how to make every kind of glass we use.  
   Against: Scientists still argue about what glass really is. Its atoms are jumbled like a liquid's, yet it is stiff like a solid. In 1995 the Nobel Prize winner Philip Anderson called the nature of glass perhaps the deepest unsolved problem in the science of solids.
+
+## Roots
+We have been learning how light goes through some things, gets jumbled in others, and is stopped by the rest. Now we ask what this tells us about ourselves and the world.
+
+**Deep truth.** See-through or solid is not something a thing has by itself. It is a meeting between the thing and the light.  
+*Habit it breaks:* We put labels on things, like 'transparent' or 'opaque', as if they were fixed forever. But the same butter paper is clear when it touches the page and cloudy when lifted. Your 'solid' hand lets red light through. A brick wall lets radio waves pass. The label belongs to the meeting, not just the thing.  
+*Evidence:* In this unit, oil turned paper see-through, crushing turned clear ice white, and a curtain hid Meenu by day but showed her at night.
+
+- *who am i:* You look solid, yet light passes through your fingers. You are more open than you look.
+- *what is life:* Some living things hide by being see-through, like the glass frog. Life plays with light.
+- *what is this world:* The whole universe was once a fog. Then it cleared, and light could travel. We still see that first clear light today.
+
+DeepKids believes everything rises from one ground, and shows up as many things. Light is one of the ways the many things meet. A window, a curtain and a wall are not three separate kinds of thing. They are the same light meeting different arrangements of atoms. What we call clear, cloudy or blocked is the One, meeting itself in different ways.
+
+- **Chandogya Upanishad 6.13:** A father, Uddalaka, asks his son to put salt in water overnight. In the morning the son cannot see the salt. But every sip tastes salty. The father says: in the same way, what is finest is everywhere, unseen. 'You are that.' (Sugar stirred into water becomes clear and invisible, but it is still there in every sip. Not seeing something does not mean it is not there.)
+- **Isha Upanishad 15:** The face of truth is covered by a golden lid. The seeker asks for the lid to be taken away, so the truth can be seen. (Some coverings are opaque and hide what is behind them. Meenu's quilt hid the light. The verse asks what is covering what we really are.)
+- **The Bible, 1 Corinthians 13:12:** For now we see through a glass, darkly. Paul, the writer, means we see things only dimly, as if through cloudy glass, and one day we may see clearly. (Glass in Paul's time was often cloudy and translucent. He uses it to say that what we know now is only a blurry picture.)
+- Science (settled): Whether a material is see-through depends on its thickness, its tiny edges and the kind of light. Nothing is see-through or blocking for every kind of light.
+- Science (settled): For about 380,000 years, the young universe was opaque, like fog. Then it became transparent, and that first light still reaches us.
+- Other view, The Charvaka thinkers of ancient India, and many scientists today: Transparency is just atoms and light, and nothing more. There is no deeper One behind it. Light passes through glass because of electrons and energy, and that is the whole story. This is an honest view, and many careful people hold it.
+- Practice, Look at, then look through (3 min): Let's stand at a window together. First, look at the glass. Can you find a speck of dust, or a smudge? Now, let your eyes go through the glass, to the farthest thing you can see. Breathe slowly three times. Did you notice the glass disappear? It was there the whole time. Now hold your hand up to the light, and look at the soft glow at the edges of your fingers. Where does your hand stop, and the light begin?
+- Ask: Is anything really see-through, or does it depend on the light?
+- Ask: What things in your life are like a thin curtain, hiding some things and showing others?
+- Ask: Is the sugar in the water still sugar, if you can't see it?
+- Ask: What might be all around us, like dark matter, that we cannot see at all?
 
 ## Deep and big questions
 - *deep:* Your hand lets red light through. So is your hand opaque or translucent? Who decides? (hint: Think about how thick the material is, and what kind of light we are talking about.)

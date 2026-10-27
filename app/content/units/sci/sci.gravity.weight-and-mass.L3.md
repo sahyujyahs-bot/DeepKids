@@ -1,7 +1,7 @@
 # Weight: the pull you can measure and the push you can feel
 `sci.gravity.weight-and-mass.L3`
 
-**Summary.** This unit is about weight. Your weight is the pull of the Earth's gravity on you. Gravity is the pull that every thing has on every other thing. We measure weight with a forcemeter, in newtons. On Earth, every kilogram of stuff is pulled down with about 10 newtons. A scale does not feel gravity itself. It feels how hard it must push to hold you up. So your weight can seem to change in a lift, in a pool, or while falling. Yet gravity has not changed at all. That is why astronauts float, though gravity in their space station is almost as strong as on the ground. Deep down, weight comes from mass, and mass is a kind of energy. Scientists still do not know what gravity really is.
+**Summary.** This unit is about weight. Your weight is the pull of the Earth's gravity on you. Gravity is the pull that every thing has on every other thing. We measure weight with a forcemeter, in newtons. On Earth, every kilogram of stuff is pulled down with about 10 newtons. A scale does not measure gravity itself. It measures how hard it must push to hold you up. So your weight can seem to change in a lift, in a pool, or while falling. Yet gravity has not changed at all. That is why astronauts float, though gravity in their space station is almost as strong as on the ground. Deep down, weight comes from mass, and mass is a kind of energy. Scientists still do not know what gravity really is.
 
 **Intro.** *Hold a full water bottle on your flat palm. Feel it press down. Now let go of it over a cushion, and watch it fall. While it was falling, was it still heavy? Who was holding it up then?* In 1907, a young clerk sat at his desk in an office in Bern, a city in Switzerland. His name was Albert Einstein. Suddenly a thought hit him so hard he nearly jumped. A person falling freely, he thought, would not feel their own weight. Years later he called it the happiest thought of his life. Why would falling make weight disappear? And if you cannot feel your weight, is it still there? This unit is about weight: the pull you can measure, and the push you can feel.
 
@@ -48,7 +48,7 @@ Gravity is the pull that every thing has on every other thing. The Earth is enor
 ### Weighing with a forcemeter · *defined*
 **Definition:** To weigh a thing with a forcemeter, hang it on the hook and wait until it stops bouncing. When it is still, the spring is pulling up exactly as hard as gravity pulls down. The pointer then shows the weight in newtons.
 
-A forcemeter does not feel gravity directly. It feels the pull on its spring. When the thing hangs still, two forces balance. Gravity pulls it down, and the spring pulls it up just as hard. So the spring's pull tells us the weight. That is why you must wait until it is still. While it bounces, the number jumps about. Here is a handy pattern. On Earth, every 100 grams of stuff weighs about 1 newton. So 1 kilogram, which is 1,000 grams, weighs about 10 newtons. The exact number is 9.8 newtons, but 10 is close enough for our sums.
+A forcemeter does not measure gravity directly. It measures the pull on its spring. When the thing hangs still, two forces balance. Gravity pulls it down, and the spring pulls it up just as hard. So the spring's pull tells us the weight. That is why you must wait until it is still. While it bounces, the number jumps about. Here is a handy pattern. On Earth, every 100 grams of stuff weighs about 1 newton. So 1 kilogram, which is 1,000 grams, weighs about 10 newtons. The exact number is 9.8 newtons, but 10 is close enough for our sums.
 - e.g. A 100 gram bar of soap reads about 1 newton.
 - e.g. A 500 gram packet of dal reads about 5 newtons.
 - e.g. A 1 litre bottle of water reads about 10 newtons.
@@ -188,6 +188,29 @@ People have wondered about heaviness for thousands of years, in many places. Who
 - **Antimatter might fall upwards.** (Some scientists wondered about this for many years; *rejected*)  
   For: Antimatter is a strange mirror version of ordinary matter. Nobody had ever measured which way it falls.  
   Against: In 2023, scientists at CERN, near Geneva, finally dropped atoms of anti-hydrogen. They fell downwards, like ordinary atoms.
+
+## Roots
+We have been learning that weight is the pull of gravity, and that mass and weight are different. Now we ask what weight tells us about ourselves and the world.
+
+**Deep truth.** What you are stays the same. What you weigh depends on where you stand.  
+*Habit it breaks:* We confuse weight, a relationship with a planet, with mass, what we are made of. The same child weighs less on the Moon but is not any less.  
+*Evidence:* On the Moon you would weigh about one sixth as much.
+
+- *who am i:* On the Moon you would weigh less. But you would still be all of you.
+- *what is life:* Bones grow strong because they carry weight. Astronauts' bones get weaker in space.
+- *what is this world:* Your mass is mostly energy, zooming inside your tiny atoms.
+
+You feel heavy, solid and separate. Yet most of your mass is the energy of tiny bits moving inside atoms. DeepKids believes stuff and energy are one thing wearing two faces, and both come from the One. Your weight changes from Earth to Moon. Something about you does not.
+
+- **Bhagavad Gita 2.23:** Weapons cannot cut the true self. Fire cannot burn it. Water cannot wet it. Wind cannot dry it. (Your weight changes in a lift, a pool or on the Moon. The Gita points to a 'you' that weight does not touch.)
+- **Rig Veda 10.129, the hymn of creation:** In the beginning there was neither being nor non-being. How did it all begin? Who really knows? (Scientists still do not know what gravity really is, or fully why things have mass. Honest not-knowing is very old.)
+- Science (settled): Mass and energy are one thing, E = mc². Most of your mass is the energy of tiny particles moving inside your atoms.
+- Science (open): Galaxies spin as if pulled by much more mass than we can see. What this 'dark matter' is, nobody knows.
+- Other view, The Sankhya school of India: Sankhya taught that awareness and matter are two different things. They never become one. Your body is matter, but the one who knows is separate.
+- Practice, Who holds you up? (3 min): Let's lie down flat on the floor. Close your eyes. Breathe out and let your whole body sink. Feel your head, back and legs pressing down. Feel the floor pushing up to hold you. Breathe slowly five times. You cannot feel gravity itself. You only feel the floor holding you.
+- Ask: What is the real you: your weight, your mass, or something else?
+- Ask: Are you made of stuff, or of energy?
+- Ask: Who and what holds you up every day?
 
 ## Deep and big questions
 - *deep:* If you cannot feel your weight while you are falling, is your weight still there? (hint: Gravity is still pulling. What has gone away is the push that holds you up.)
@@ -558,7 +581,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - **schedule:** day 1: Soak the seeds. Line the jar with wet paper. Push the seeds between the paper and the glass. (10 min); day 2: Look for tiny roots. Draw them. Keep the paper wet. (5 min); day 3: When the roots are about 2 cm long, lay the jar on its side. Mark the direction each root points. (10 min); day 4: Look again. Have the roots bent? Draw them. (5 min); day 5: Look again, and draw them. (5 min); day 6: Compare all your drawings. Talk about how a root knows which way is down. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Soak 6 moong or chana seeds in water overnight. 2. Line the inside of a clear jar with wet kitchen paper. 3. Push the seeds between the paper and the glass, so you can see them. 4. Put a little water in the bottom.  
-  *Parent says:* Plants can't see. But they always know which way is down. Let's find out how good they are at it.  
+  *Parent says:* Plants have no eyes. But they always know which way is down. Let's find out how good they are at it.  
   *Child mode:* Line a jar with wet paper. Push the soaked seeds between the paper and the glass. Keep the paper wet.
 - **s2 (5 min)**  
   *Parent does:* Look at the seeds each day. Draw the tiny roots when they appear. Keep the paper wet.  
