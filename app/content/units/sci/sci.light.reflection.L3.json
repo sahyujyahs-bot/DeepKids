@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Pick up a steel spoon. Look at your face in the inside of the bowl. Now turn the spoon over and look at the back. What happened to your face?",
-  "text": "Inside the spoon, your face is upside down. On the back, it is the right way up, but small. The spoon makes no light of its own. Light from the room falls on your face, goes to the spoon and comes back into your eyes. This is called reflection. The two sides of the spoon curve in opposite ways, so they send the light back differently.",
+  "text": "Inside the spoon, your face is upside down. On the back, it is the right way up, but small. The spoon makes no light of its own. Light from the room falls on your face. It bounces off your face to the spoon, and then into your eyes. This is called reflection. The two sides of the spoon curve in opposite ways, so they send the light back differently.",
   "art": "A child's surprised face shown twice: upside down in the hollow of a steel spoon, and right way up and small on the back of the spoon."
  },
  "outcomes": [
@@ -17,14 +17,14 @@
   "I can explain why a mirror shows an image but a white wall does not.",
   "I can read and write mirror writing, and say why a mirror makes writing look backwards.",
   "I can count the images made by two mirrors, and find shapes that look the same in a mirror.",
-  "I can give examples of how people use mirrors, from car mirrors to telescopes and Moon lasers.",
+  "I can give examples of how people use mirrors, from car mirrors to telescopes and the mirrors left on the Moon.",
   "I can say what scientists agree about mirrors, and what is still open, like why only some animals know their own reflection."
  ],
  "cards_mins": 15,
  "terms": [
   {
    "term": "Light",
-   "meaning": "What lets us see. It comes from light sources like the Sun, a bulb or a flame.",
+   "meaning": "Light is what lets us see. It comes from light sources like the Sun, a bulb or a flame.",
    "example": "In a room with no light at all, you cannot see your own hand.",
    "art": "A sunbeam coming through a window onto a floor."
   },
@@ -129,7 +129,7 @@
    "description": "Throw a ball at a wall at an angle, and it bounces away at the same angle on the other side. Light does the same off a mirror. Shine a torch straight at a mirror, and the light comes straight back. Shine it from the left at an angle, and it leaves to the right at the same angle. This rule lets you aim light, the way you aim a ball.",
    "examples": [
     "Shine a torch at a mirror from the left. The bright spot lands on the right.",
-    "Stand straight in front of a mirror and you see your own eyes. Stand to one side and you see the far side of the room.",
+    "Stand straight in front of a mirror and you see your own eyes. Stand to one side, and you see the other side of the room instead of yourself.",
     "Carrom players use nearly the same rule. The striker leaves the edge of the board at about the same angle it hit."
    ],
    "perspectives": [],
@@ -140,7 +140,7 @@
    "concept": "Why a mirror shows an image and a wall does not",
    "status": "defined",
    "definition": "A smooth surface reflects all the light rays the same way, so they stay in order. A rough surface scatters them in every direction.",
-   "description": "A white wall reflects a lot of light. So why can't you see your face in it? Under a magnifying glass, the wall is covered in tiny bumps. Each bump reflects light in a different direction. The rays get mixed up, so no image forms. A mirror is so smooth that all the rays reflect the same way. They stay in order, so your eyes see a clear image.",
+   "description": "A white wall reflects a lot of light. So why can't you see your face in it? Seen very close up, under a microscope, the wall is covered in tiny bumps. Each bump reflects light in a different direction. The rays get mixed up, so no image forms. A mirror is so smooth that all the rays reflect the same way. They stay in order, so your eyes see a clear image.",
    "examples": [
     "A new steel plate shows your face. A scratched old one only shows a blur.",
     "Calm water shows the trees clearly. When the wind makes ripples, the image breaks up.",
@@ -194,7 +194,7 @@
    "concept": "Mirror writing",
    "status": "defined",
    "definition": "Mirror writing is writing that runs backwards, from right to left, with every letter turned round. Held up to a mirror, it reads normally.",
-   "description": "A mirror turns things round from front to back. So writing seen in a mirror runs backwards. If you write backwards on purpose, the mirror turns it the right way round again. That is why many ambulances have their name written backwards on the front. A driver in front sees it in the rear-view mirror and reads AMBULANCE. Writing seen from the back of a window, or through thin paper, also looks like mirror writing.",
+   "description": "A mirror turns things round from front to back. Hold a page up to a mirror, and you see its writing the way it would look from behind, through the paper. So writing seen in a mirror runs backwards. If you write backwards on purpose, the mirror turns it the right way round again. That is why many ambulances have their name written backwards on the front. A driver in front sees it in the rear-view mirror and reads AMBULANCE. Writing seen from the back of a window, or through thin paper, also looks like mirror writing.",
    "examples": [
     "The great Italian artist Leonardo da Vinci, about 500 years ago, filled his notebooks with mirror writing. He was left-handed.",
     "In the 1871 book Through the Looking-Glass, Alice finds a poem printed backwards. She holds it up to a mirror to read it.",
@@ -254,7 +254,7 @@
    "examples": [
     "Cows, dogs and cats have eyes that shine in headlights. Human eyes do not.",
     "Silvery fish like the sardine are hard to see in water, because their sides reflect the water around them.",
-    "Shiny beetles and peacock feathers reflect light from thin layers, not from paint."
+    "The colours of shiny beetles and peacock feathers come from thin layers that reflect light, not from a coloured dye."
    ],
    "perspectives": [],
    "art": "A cat's eyes glowing in torchlight beside a scallop with a row of tiny blue eyes along its shell.",
@@ -341,7 +341,7 @@
    "claim": "A mirror shows you exactly as you are.",
    "who": "A common belief. People say 'the mirror never lies'.",
    "for": "A flat mirror shows your real size and shape, with every hair in place.",
-   "against": "A mirror shows you turned front to back, so your friends see you the other way round. A curved mirror at a mela stretches you tall or squashes you short. And a mirror loses a little light, so your image is a tiny bit darker than you.",
+   "against": "A mirror shows you turned front to back, so you see your face the other way round from how your friends see it. That is why your own photo can look a little strange to you. A curved mirror at a mela stretches you tall or squashes you short. And a mirror loses a little light, so your image is a tiny bit darker than you.",
    "status": "rejected",
    "context": "This card is about the saying that a mirror shows us exactly as we are."
   },
@@ -452,7 +452,7 @@
    "A truck had stopped. The driver was leaning out of his window and laughing. From the road, the sign read backwards. Every letter was flipped, from right to left, like Noor's fast writing.",
    "Bhimji scratched his head. He tried again with the letters turned the other way. But his hand had painted the right way round for thirty years. It would not turn. His second sign was a muddle, half one way and half the other. He wiped it off, and he left for a wedding job in Anjar, two hours away. The big mela started the next day. Hundreds of trucks would pass. Kanji sat on his bench with his head in his hands.",
    "Noor stood on the road and looked at the clean glass. Then she went inside and looked out through it. The trucks went by. The world through the glass was the same. But anything painted on this side would be seen from the other side. It would be seen from the back, the way she had seen her notebook against the sunny door.",
-   "From the back, words turn round. So the road could only read the right way what was painted backwards on the inside.",
+   "Seen from the back, words turn round. So to read the right way from the road, the letters had to be painted backwards on the inside.",
    "\"I can do it,\" said Noor.",
    "Kanji looked at her. Then he looked at the empty glass, and at the road. He handed her the brush.",
    "Noor did not think about each letter. Thinking made her hand slow, and slow was the wrong way. She let her left hand run, fast, the way it always wanted to. The red letters marched from right to left across the glass. Inside the stall, they looked like nonsense.",
@@ -515,7 +515,7 @@
       "TEST IT: hold the mirror under the word BOX. What happens?",
       "TEST IT: write your name in mirror writing. Can the mirror read it?",
       "TEST IT: draw half a heart. Can the mirror finish it?",
-      "TEST IT: look at the word ECNALUBMA in the mirror. What does it say?"
+      "TEST IT: stand the mirror beside the word ECNALUBMA. What word do you see? What looks odd about the letters?"
      ]
     },
     {
@@ -587,7 +587,7 @@
      "do": "1. Take turns. Each player draws a card, guesses, then tests with the mirror. 2. Give a star for each right guess.",
      "say": "Say why you think it will stay the same or change, before you test.",
      "kid": "Take turns. Guess SAME or CHANGES. Say why. Test it. A right guess wins a star.",
-     "parent": "Letters that stay the same in a mirror stood beside them: A, H, I, M, O, T, U, V, W, X, Y. Words stay the same only if every letter is one of these, and the word reads the same backwards, like MOM, WOW, TOOT, OTTO and YAY. DAD and NOON change, because D and N turn round. The BOX card is a surprise: with the mirror under the word, B, O and X look the same upside down, so BOX stays BOX."
+     "parent": "Letters that stay the same in a mirror stood beside them: A, H, I, M, O, T, U, V, W, X, Y. Words stay the same only if every letter is one of these, and the word reads the same backwards, like MOM, WOW, TOOT, OTTO and YAY. DAD and NOON change, because D and N turn round. The BOX card is a surprise: with the mirror under the word, B, O and X each have a line of symmetry across the middle, so BOX stays BOX. The ECNALUBMA card shows AMBULANCE, but with letters like B, N, C and E turned round. That is why a real ambulance turns every letter round too."
     },
     {
      "id": "s4",
@@ -648,7 +648,7 @@
     "Round 1: one player must bounce the torch beam onto the target with their mirror.",
     "Round 2: two players. The light must reflect off both mirrors before it reaches the target.",
     "Round 3: three players, three bounces.",
-    "Score the ring the light lands in. More bounces means harder, so double the points from round 3.",
+    "Score the ring the light lands in. More bounces is harder, so points in round 3 count double.",
     "Never let the beam shine into anyone's eyes. If it does, that round scores zero."
    ],
    "context": "Bounce Relay is a team game. Players hold mirrors and pass a torch beam from one mirror to the next until it lands on a target. It comes from the founder's idea of a relay where each step must bounce light with a mirror.",
@@ -1166,7 +1166,7 @@
       "The mark was invisible"
      ],
      "a": 0,
-     "why": "Before 2019, only apes, elephants, dolphins and a few birds had passed. The fish result made scientists argue about what the test really shows."
+     "why": "Before 2019, the animals that had passed were mostly great apes, elephants, dolphins and magpies. The fish result made scientists argue about what the test really shows."
     },
     {
      "t": "write",
@@ -1228,7 +1228,7 @@
      "t": "truefalse",
      "p": "A mirror only half as tall as you can show your whole body.",
      "a": true,
-     "why": "True. Your image of your head uses a patch of mirror halfway between your eyes and the top of your head. The same for your feet. So you need half your height.",
+     "why": "True. Light from the top of your head reaches your eyes from a spot on the mirror halfway between your eyes and the top of your head. Light from your feet reaches your eyes from a spot halfway between your eyes and your feet. So the mirror only needs to be half your height.",
      "how": "a6"
     },
     {
@@ -1590,7 +1590,7 @@
    ],
    "materials": [
     {
-     "item": "2 square acrylic mirror tiles, or 2 small frameless mirrors of the same size",
+     "item": "2 square acrylic mirror tiles, or 2 hand mirrors of the same size held edge to edge",
      "qty": 2,
      "buy": "b-mirror-tiles"
     },
@@ -2061,7 +2061,7 @@
     }
    ],
    "record": "Draw where you stood, where the Sun was and where the bright spot landed. Draw the light's path as two straight lines.",
-   "context": "The Sunlight Postman is an outdoor activity. You catch sunlight with a mirror and send a bright spot onto targets on a shady wall, like delivering light.",
+   "context": "In the Sunlight Postman, you catch sunlight with a mirror at a sunny window or balcony. You send a bright spot onto targets on a shady wall, like delivering light.",
    "setup": [
     {
      "art": "A child standing in a sunny spot holding a small mirror, with a bright patch of light landing on a paper target on a shady wall.",
@@ -2087,7 +2087,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Try to hit each target. 2. Then go inside and bounce sunlight from a window into the darkest corner of a room.",
-     "say": "Can you post light into the darkest corner? People did this in palaces long ago, with walls full of mirrors.",
+     "say": "Can you post light into the darkest corner of the room?",
      "kid": "Hit each target. Then bounce sunlight into a dark corner indoors.",
      "adult": true,
      "parent": "The Sheesh Mahal, the palace of mirrors at Amber Fort near Jaipur, is covered in tiny mirrors. People say a few lamps make the whole hall sparkle."
@@ -2369,7 +2369,7 @@
        "It stops at the mirror"
       ],
       "a": 0,
-      "why": "Light always leaves a flat mirror at the same angle it came in. Steep in means steep out. Picking 'straight back' only happens when light hits the mirror head on. Picking 'it stops' mixes a mirror up with a black cloth, which soaks up light."
+      "why": "Light always leaves a flat mirror at the same angle it came in. Steep in means steep out. Light goes straight back only when it hits the mirror head on. Picking 'it stops' mixes a mirror up with a black cloth, which soaks up light."
      }
     }
    ]
@@ -2383,7 +2383,7 @@
    "days": 2,
    "materials": [
     {
-     "item": "a sheet of mirror card or thin plastic mirror sheet, about the size of a notebook",
+     "item": "a sheet of mirror card or thin plastic mirror sheet, about the size of a notebook (or thin card with kitchen foil smoothed flat on it, which gives dimmer patterns)",
      "qty": 1,
      "buy": "b-mirror-card"
     },
@@ -2584,7 +2584,7 @@
    ],
    "general": [
     "Stand with your back to the wall mirror. Hold the hand mirror in front of your face. Tilt it until you see the wall mirror in it.",
-    "The light bounces twice: off the back of your head to the wall mirror, then to the hand mirror, then to your eyes."
+    "Light from the back of your head goes to the wall mirror, then to the hand mirror, then into your eyes. It bounces off two mirrors."
    ],
    "creative": [
     "Tailors' shops have three mirrors in a fold, so you can see your back and sides at once.",
@@ -2704,7 +2704,7 @@
     "Nowhere"
    ],
    "a": 0,
-   "why": "Light leaves a mirror at the same angle it came in, on the other side. Picking 'straight back' only happens when you shine head on.",
+   "why": "Light leaves a mirror at the same angle it came in, on the other side. Light goes straight back only when you shine at the mirror head on.",
    "how": "e1",
    "outcome": 1
   },
@@ -2874,7 +2874,7 @@
   },
   {
    "text": "The backwards word AMBULANCE on the front of an ambulance.",
-   "art": "The front of an Indian ambulance with ECNALUBMA written in big red letters."
+   "art": "The front of an Indian ambulance with AMBULANCE in big red mirror writing, every letter turned round."
   },
   {
    "text": "Round convex mirrors on sharp bends of ghat roads.",
@@ -3404,8 +3404,8 @@
  "roots": {
   "context": "We have been learning how mirrors reflect light. Now we ask what mirrors tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Raise your right hand at a mirror, and the image raises the hand on the same side. The mirror has turned front and back, not left and right. A real person facing you would call that hand their left. So left and right are not fixed in the world, but depend on which way a body faces.",
-   "habit": "We treat left and right like up and down, as if they were fixed in the world. Up and down are set by the Earth's pull. Left and right change every time you turn round.",
+   "truth": "When you raise your right hand at a mirror, the image's hand goes up on that same side. The mirror has swapped only front and back, so the image faces you. A real person standing where the image is, facing you, would be raising their left hand. So which hand is left is not fixed in the room, but depends on which way a body faces.",
+   "habit": "We treat left and right like up and down, as if they were fixed in the world. Up and down are set by the Earth's pull, so they stay the same when you turn. Your left points a different way every time you turn round.",
    "evidence": "At the mirror and in Mirror Twins, the raised hand and its image are on the same side of the room. Only front and back are swapped: the image faces you."
   },
   "three": {
@@ -3427,7 +3427,7 @@
    },
    {
     "source": "The Platform Sutra of Huineng, chapter 1",
-    "teaching": "One monk wrote that the mind is like a bright mirror, which must be wiped every day so no dust gathers. Huineng, a kitchen worker who could not read, answered that there is no mirror and no stand at all. So where could dust land?",
+    "teaching": "Shenxiu, the head monk, wrote that the mind is like a bright mirror, which must be wiped every day so no dust gathers. Huineng, a kitchen worker who could not read, answered that there is no mirror and no stand at all. So where could dust land?",
     "link": "A mirror shows a clear image only when its surface is smooth and clean, because dust scatters the light. The two monks argued about whether the mind is like that."
    }
   ],

@@ -3,7 +3,7 @@
 
 **Summary.** Your face shows in a mirror but not in a white wall, even though both reflect light. Reflection is light bouncing off a surface. A mirror is so smooth that the light rays stay in order, so it makes an image of you. Light leaves a flat mirror at the same angle it arrives, and you can test this with a torch. A mirror also turns things front to back, which is why AMBULANCE is written backwards on the front of an ambulance.
 
-**Intro.** *Pick up a steel spoon. Look at your face in the inside of the bowl. Now turn the spoon over and look at the back. What happened to your face?* Inside the spoon, your face is upside down. On the back, it is the right way up, but small. The spoon makes no light of its own. Light from the room falls on your face, goes to the spoon and comes back into your eyes. This is called reflection. The two sides of the spoon curve in opposite ways, so they send the light back differently.
+**Intro.** *Pick up a steel spoon. Look at your face in the inside of the bowl. Now turn the spoon over and look at the back. What happened to your face?* Inside the spoon, your face is upside down. On the back, it is the right way up, but small. The spoon makes no light of its own. Light from the room falls on your face. It bounces off your face to the spoon, and then into your eyes. This is called reflection. The two sides of the spoon curve in opposite ways, so they send the light back differently.
 
 ## Learning outcomes
 0. I can say what reflection is: light bouncing off a surface.
@@ -11,11 +11,11 @@
 2. I can explain why a mirror shows an image but a white wall does not.
 3. I can read and write mirror writing, and say why a mirror makes writing look backwards.
 4. I can count the images made by two mirrors, and find shapes that look the same in a mirror.
-5. I can give examples of how people use mirrors, from car mirrors to telescopes and Moon lasers.
+5. I can give examples of how people use mirrors, from car mirrors to telescopes and the mirrors left on the Moon.
 6. I can say what scientists agree about mirrors, and what is still open, like why only some animals know their own reflection.
 
 ## Terms
-- **Light**: What lets us see. It comes from light sources like the Sun, a bulb or a flame. *e.g.* In a room with no light at all, you cannot see your own hand.
+- **Light**: Light is what lets us see. It comes from light sources like the Sun, a bulb or a flame. *e.g.* In a room with no light at all, you cannot see your own hand.
 - **Reflection**: Light bouncing off a surface. You see a book or a friend because light reflects off them into your eyes. *e.g.* Your face in a mirror is light that reflected off you, then off the mirror, into your eyes.
 - **Reflect**: To send light back from a surface. A mirror reflects light very well. *e.g.* A steel plate reflects the light of the kitchen bulb.
 - **Mirror**: A very smooth, shiny surface that reflects light rays without mixing them up. That is why you see an image in it. *e.g.* The bathroom mirror, a car's side mirror and a still pond all work as mirrors.
@@ -43,12 +43,12 @@ Light travels out from a light source, like the Sun or a bulb. When it hits some
 
 Throw a ball at a wall at an angle, and it bounces away at the same angle on the other side. Light does the same off a mirror. Shine a torch straight at a mirror, and the light comes straight back. Shine it from the left at an angle, and it leaves to the right at the same angle. This rule lets you aim light, the way you aim a ball.
 - e.g. Shine a torch at a mirror from the left. The bright spot lands on the right.
-- e.g. Stand straight in front of a mirror and you see your own eyes. Stand to one side and you see the far side of the room.
+- e.g. Stand straight in front of a mirror and you see your own eyes. Stand to one side, and you see the other side of the room instead of yourself.
 - e.g. Carrom players use nearly the same rule. The striker leaves the edge of the board at about the same angle it hit.
 ### Why a mirror shows an image and a wall does not · *defined*
 **Definition:** A smooth surface reflects all the light rays the same way, so they stay in order. A rough surface scatters them in every direction.
 
-A white wall reflects a lot of light. So why can't you see your face in it? Under a magnifying glass, the wall is covered in tiny bumps. Each bump reflects light in a different direction. The rays get mixed up, so no image forms. A mirror is so smooth that all the rays reflect the same way. They stay in order, so your eyes see a clear image.
+A white wall reflects a lot of light. So why can't you see your face in it? Seen very close up, under a microscope, the wall is covered in tiny bumps. Each bump reflects light in a different direction. The rays get mixed up, so no image forms. A mirror is so smooth that all the rays reflect the same way. They stay in order, so your eyes see a clear image.
 - e.g. A new steel plate shows your face. A scratched old one only shows a blur.
 - e.g. Calm water shows the trees clearly. When the wind makes ripples, the image breaks up.
 - e.g. Polished marble floors in a temple show the lamps. A rough stone floor does not.
@@ -70,7 +70,7 @@ Raise your right hand in front of a mirror. The image raises the hand on the sam
 ### Mirror writing · *defined*
 **Definition:** Mirror writing is writing that runs backwards, from right to left, with every letter turned round. Held up to a mirror, it reads normally.
 
-A mirror turns things round from front to back. So writing seen in a mirror runs backwards. If you write backwards on purpose, the mirror turns it the right way round again. That is why many ambulances have their name written backwards on the front. A driver in front sees it in the rear-view mirror and reads AMBULANCE. Writing seen from the back of a window, or through thin paper, also looks like mirror writing.
+A mirror turns things round from front to back. Hold a page up to a mirror, and you see its writing the way it would look from behind, through the paper. So writing seen in a mirror runs backwards. If you write backwards on purpose, the mirror turns it the right way round again. That is why many ambulances have their name written backwards on the front. A driver in front sees it in the rear-view mirror and reads AMBULANCE. Writing seen from the back of a window, or through thin paper, also looks like mirror writing.
 - e.g. The great Italian artist Leonardo da Vinci, about 500 years ago, filled his notebooks with mirror writing. He was left-handed.
 - e.g. In the 1871 book Through the Looking-Glass, Alice finds a poem printed backwards. She holds it up to a mirror to read it.
 - e.g. Many young children write some letters backwards, like b and d, while they are learning. This is very common and normal.
@@ -101,7 +101,7 @@ Stand two mirrors like an open book, and put a toy between them. Some light from
 A cat's eyes shine in torchlight. A layer at the back of each eye works like a mirror. It sends light back through the eye a second time, so the cat sees better in dim light. Many silvery fish have mirror scales. A scallop, a kind of shellfish, has up to 200 tiny eyes. Each eye has a curved mirror made of tiny square crystals. Scientists described it in 2017. A deep-sea fish called the spookfish uses mirrors in its eyes too.
 - e.g. Cows, dogs and cats have eyes that shine in headlights. Human eyes do not.
 - e.g. Silvery fish like the sardine are hard to see in water, because their sides reflect the water around them.
-- e.g. Shiny beetles and peacock feathers reflect light from thin layers, not from paint.
+- e.g. The colours of shiny beetles and peacock feathers come from thin layers that reflect light, not from a coloured dye.
 ### Do animals know their own reflection? · *debated*
 When you look in a mirror, you know the face is you. Most animals do not seem to. They bark at it, or try to play with it. Scientists test this with a mark. They put a small dot on an animal where it can only see it in a mirror. If the animal touches the dot on its own body, it seems to know that the image is itself.
 - e.g. Babies start to pass the mark test at about 18 months old.
@@ -137,7 +137,7 @@ A curved mirror can gather lots of light into one small spot. In 1668 Isaac Newt
 ## Challenging perspectives
 - **A mirror shows you exactly as you are.** (A common belief. People say 'the mirror never lies'.; *rejected*)  
   For: A flat mirror shows your real size and shape, with every hair in place.  
-  Against: A mirror shows you turned front to back, so your friends see you the other way round. A curved mirror at a mela stretches you tall or squashes you short. And a mirror loses a little light, so your image is a tiny bit darker than you.
+  Against: A mirror shows you turned front to back, so you see your face the other way round from how your friends see it. That is why your own photo can look a little strange to you. A curved mirror at a mela stretches you tall or squashes you short. And a mirror loses a little light, so your image is a tiny bit darker than you.
 - **Archimedes set Roman ships on fire with mirrors.** (A story told about the Greek thinker Archimedes, written down hundreds of years after he lived; *debated*)  
   For: Mirrors really can focus sunlight to start a fire. In 2005, students at MIT, a university in America, set fire to a still wooden model of a ship using 127 mirrors.  
   Against: No writer from his own time tells the story. Real ships move, and on a cloudy day it would fail. Most historians think it is a legend.
@@ -154,8 +154,8 @@ A curved mirror can gather lots of light into one small spot. In 1668 Isaac Newt
 ## Roots
 We have been learning how mirrors reflect light. Now we ask what mirrors tell us about ourselves and the world.
 
-**Deep truth.** Raise your right hand at a mirror, and the image raises the hand on the same side. The mirror has turned front and back, not left and right. A real person facing you would call that hand their left. So left and right are not fixed in the world, but depend on which way a body faces.  
-*Habit it breaks:* We treat left and right like up and down, as if they were fixed in the world. Up and down are set by the Earth's pull. Left and right change every time you turn round.  
+**Deep truth.** When you raise your right hand at a mirror, the image's hand goes up on that same side. The mirror has swapped only front and back, so the image faces you. A real person standing where the image is, facing you, would be raising their left hand. So which hand is left is not fixed in the room, but depends on which way a body faces.  
+*Habit it breaks:* We treat left and right like up and down, as if they were fixed in the world. Up and down are set by the Earth's pull, so they stay the same when you turn. Your left points a different way every time you turn round.  
 *Evidence:* At the mirror and in Mirror Twins, the raised hand and its image are on the same side of the room. Only front and back are swapped: the image faces you.
 
 - *who am i:* You have never seen your own face directly. You know it from mirrors, photos and what other people tell you.
@@ -166,7 +166,7 @@ One lamp in the Sheesh Mahal shows up as hundreds of sparkles. Two mirrors turn 
 
 - **Avatamsaka Sutra, the image of Indra's net:** Picture a huge net with a shining jewel at every knot. Each jewel reflects every other jewel, and every reflection holds all the others too, on and on. (Two facing mirrors do the same. Each mirror holds an image of the other, which holds an image of the first, again and again.)
 - **Zhuangzi, chapter 7:** The wise person uses their mind like a mirror. It does not chase things or hold on to them. It shows whatever comes, and keeps nothing. (A mirror shows whatever stands in front of it, then lets it go. It does not store the image after you walk away.)
-- **The Platform Sutra of Huineng, chapter 1:** One monk wrote that the mind is like a bright mirror, which must be wiped every day so no dust gathers. Huineng, a kitchen worker who could not read, answered that there is no mirror and no stand at all. So where could dust land? (A mirror shows a clear image only when its surface is smooth and clean, because dust scatters the light. The two monks argued about whether the mind is like that.)
+- **The Platform Sutra of Huineng, chapter 1:** Shenxiu, the head monk, wrote that the mind is like a bright mirror, which must be wiped every day so no dust gathers. Huineng, a kitchen worker who could not read, answered that there is no mirror and no stand at all. So where could dust land? (A mirror shows a clear image only when its surface is smooth and clean, because dust scatters the light. The two monks argued about whether the mind is like that.)
 - Science (settled): Every mirror image is light passed on by huge numbers of electrons in the mirror's metal. The light shakes them, and they send light back out.
 - Science (debated): Only a few kinds of animals seem to know their own face in a mirror. Scientists still argue about what this tells us about having a sense of self.
 - Other view, Many brain scientists: Knowing your own face is a skill the brain learns at about 18 months. Left and right are useful words people agreed on. Many brain scientists see no need for a deeper source behind any of this, and that is an honest view.
@@ -219,7 +219,7 @@ Bhimji scratched his head. He tried again with the letters turned the other way.
 
 Noor stood on the road and looked at the clean glass. Then she went inside and looked out through it. The trucks went by. The world through the glass was the same. But anything painted on this side would be seen from the other side. It would be seen from the back, the way she had seen her notebook against the sunny door.
 
-From the back, words turn round. So the road could only read the right way what was painted backwards on the inside.
+Seen from the back, words turn round. So to read the right way from the road, the letters had to be painted backwards on the inside.
 
 "I can do it," said Noor.
 
@@ -254,7 +254,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 ## Games
 ### g1 · Mirror or Not? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them face down in a pile.; On your turn, take the top card and read it out loud.; Decide: will this look the SAME when a mirror stands beside it, or will it CHANGE? Put the card on that mat.; Then test it with a mirror stood upright beside the card. If you were right, win one star.; If you draw a TEST IT card, everyone does the test together. The first person to explain what happened wins two stars.; When the cards run out, the player with the most stars wins.
-- **Printable cards: 24 cards to cut out:** A; B; H; K; M; N; O; R; S; T; V; Z; MOM; WOW; TOOT; OTTO; DAD; NOON; YAY; HAH; TEST IT: hold the mirror under the word BOX. What happens?; TEST IT: write your name in mirror writing. Can the mirror read it?; TEST IT: draw half a heart. Can the mirror finish it?; TEST IT: look at the word ECNALUBMA in the mirror. What does it say?
+- **Printable cards: 24 cards to cut out:** A; B; H; K; M; N; O; R; S; T; V; Z; MOM; WOW; TOOT; OTTO; DAD; NOON; YAY; HAH; TEST IT: hold the mirror under the word BOX. What happens?; TEST IT: write your name in mirror writing. Can the mirror read it?; TEST IT: draw half a heart. Can the mirror finish it?; TEST IT: stand the mirror beside the word ECNALUBMA. What word do you see? What looks odd about the letters?
 - **Printable board: Two playing mats:** SAME in a mirror; CHANGES in a mirror
 - **Printable tokens: 20 star tokens (small paper stars):** ⭐
 - **s1 (2 min)**  
@@ -270,7 +270,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Parent does:* 1. Take turns. Each player draws a card, guesses, then tests with the mirror. 2. Give a star for each right guess.  
   *Parent says:* Say why you think it will stay the same or change, before you test.  
   *Child mode:* Take turns. Guess SAME or CHANGES. Say why. Test it. A right guess wins a star.
-  - Note: Letters that stay the same in a mirror stood beside them: A, H, I, M, O, T, U, V, W, X, Y. Words stay the same only if every letter is one of these, and the word reads the same backwards, like MOM, WOW, TOOT, OTTO and YAY. DAD and NOON change, because D and N turn round. The BOX card is a surprise: with the mirror under the word, B, O and X look the same upside down, so BOX stays BOX.
+  - Note: Letters that stay the same in a mirror stood beside them: A, H, I, M, O, T, U, V, W, X, Y. Words stay the same only if every letter is one of these, and the word reads the same backwards, like MOM, WOW, TOOT, OTTO and YAY. DAD and NOON change, because D and N turn round. The BOX card is a surprise: with the mirror under the word, B, O and X each have a line of symmetry across the middle, so BOX stays BOX. The ECNALUBMA card shows AMBULANCE, but with letters like B, N, C and E turned round. That is why a real ambulance turns every letter round too.
 - **s4 (3 min)**  
   *Parent does:* When someone draws the NOON card, stop and talk about it.  
   *Parent says:* NOON reads the same backwards. So why does it change in the mirror?  
@@ -282,7 +282,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Child mode:* Count your stars. Which card surprised you most?
   - Think: Can you invent a new word that looks the same in a mirror?
 ### g2 · Bounce Relay (20 min)
-- **rules:** Stick the target on a wall in a dim room. Put the torch on a pile of books, aimed away from the target.; Each player holds one mirror.; Round 1: one player must bounce the torch beam onto the target with their mirror.; Round 2: two players. The light must reflect off both mirrors before it reaches the target.; Round 3: three players, three bounces.; Score the ring the light lands in. More bounces means harder, so double the points from round 3.; Never let the beam shine into anyone's eyes. If it does, that round scores zero.
+- **rules:** Stick the target on a wall in a dim room. Put the torch on a pile of books, aimed away from the target.; Each player holds one mirror.; Round 1: one player must bounce the torch beam onto the target with their mirror.; Round 2: two players. The light must reflect off both mirrors before it reaches the target.; Round 3: three players, three bounces.; Score the ring the light lands in. More bounces is harder, so points in round 3 count double.; Never let the beam shine into anyone's eyes. If it does, that round scores zero.
 - **Printable board: A target poster to stick on the wall:** A big paper target with three rings: 1 point, 2 points, 3 points
 - **Printable score sheet: Bounce Relay score sheet:** Round; Number of mirrors; Did the light reach the target?; Points
 - **s1 (3 min) · grown-up needed**  
@@ -484,7 +484,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   - Note: Watch that the spot never goes near anyone's face. The spot moves twice as fast as the mirror turns, so small tilts are best.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Try to hit each target. 2. Then go inside and bounce sunlight from a window into the darkest corner of a room.  
-  *Parent says:* Can you post light into the darkest corner? People did this in palaces long ago, with walls full of mirrors.  
+  *Parent says:* Can you post light into the darkest corner of the room?  
   *Child mode:* Hit each target. Then bounce sunlight into a dark corner indoors.
   - Note: The Sheesh Mahal, the palace of mirrors at Amber Fort near Jaipur, is covered in tiny mirrors. People say a few lamps make the whole hall sparkle.
 - **s3 (5 min)**  
@@ -604,7 +604,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **problem:** You have never seen the back of your own head. Find a way to see it, using mirrors.
 - **your turn:** Can you see your own left ear? Your own feet from behind? Invent a way, and draw the path of the light.
 - **constraints:** You may not use a phone camera.; Use only mirrors you have at home.
-- **general:** Stand with your back to the wall mirror. Hold the hand mirror in front of your face. Tilt it until you see the wall mirror in it.; The light bounces twice: off the back of your head to the wall mirror, then to the hand mirror, then to your eyes.
+- **general:** Stand with your back to the wall mirror. Hold the hand mirror in front of your face. Tilt it until you see the wall mirror in it.; Light from the back of your head goes to the wall mirror, then to the hand mirror, then into your eyes. It bounces off two mirrors.
 - **creative:** Tailors' shops have three mirrors in a fold, so you can see your back and sides at once.; Try a steel tumbler as the second mirror. How clear is the image?; With two mirrors, writing comes out the right way round again. Hold up a word and see.
 - **s1 (6 min)**  
   *Parent does:* Your child stands with their back to the wall mirror and tries the hand mirror.  
@@ -710,7 +710,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
    **Answer:** False. *Why:* False. Even the best mirrors lose a tiny part of the light at every bounce, less than one part in ten thousand. No mirror is perfect.
 5. (mcq) A tiny fish, the cleaner wrasse, scraped at a mark it could only see in a mirror. Why did this surprise scientists?  
    Options: They thought only big-brained animals could pass the mirror test / Fish cannot see / Fish hate mirrors / The mark was invisible  
-   **Answer:** They thought only big-brained animals could pass the mirror test. *Why:* Before 2019, only apes, elephants, dolphins and a few birds had passed. The fish result made scientists argue about what the test really shows.
+   **Answer:** They thought only big-brained animals could pass the mirror test. *Why:* Before 2019, the animals that had passed were mostly great apes, elephants, dolphins and magpies. The fish result made scientists argue about what the test really shows.
 6. (write) Leonardo da Vinci wrote his notebooks in mirror writing. Give two reasons he might have done it. Then say which you think is most likely.  
    **Answer:** He was left-handed, so writing right to left meant he did not smudge the ink. Or he wanted to keep his ideas a little secret. I think not smudging is most likely, because the ink was wet.. *Why:* Nobody knows for sure. Not smudging the ink and privacy are the two most common ideas.
 7. (mcq) Why are metals shiny, but wood is not?  
@@ -722,7 +722,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 9. (match) Match each use of mirrors to what it does.  
    **Answer:** A car's side mirror → shows what is behind; A telescope mirror → gathers faint starlight; A cat's eye on a highway → sends headlight beams back to the driver; Rows of curved mirrors at a solar kitchen → bounce sunlight onto one spot to make heat. *Why:* All of them use the same rule: a mirror sends light off at the same angle it came in. Curved mirrors can bring lots of light together into one spot.
 10. (truefalse) A mirror only half as tall as you can show your whole body.  
-   **Answer:** True. *Why:* True. Your image of your head uses a patch of mirror halfway between your eyes and the top of your head. The same for your feet. So you need half your height.
+   **Answer:** True. *Why:* True. Light from the top of your head reaches your eyes from a spot on the mirror halfway between your eyes and the top of your head. Light from your feet reaches your eyes from a spot halfway between your eyes and your feet. So the mirror only needs to be half your height.
 11. (write) Your hands are mirror images of each other. Many tiny molecules in living things also come in two mirror forms. What is strange about which form life uses?  
    **Answer:** Life almost always uses only one of the two forms. For example, the building blocks of our proteins are nearly all the left-handed kind. Nobody knows for sure why.. *Why:* This is an open question in science. Scientists have ideas, but nobody knows the answer yet.
 12. (mcq) Why do the far images in two facing mirrors look a little green?  
@@ -749,7 +749,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
    **Answer:** No, it only reflects light. *Why:* A mirror makes no light. In a dark cupboard it shows nothing. Picking 'only in the daytime' is close: it needs light from somewhere, but the light is not its own.
 3. (mcq) A torch shines at a mirror from the left, at an angle. Where does the light go?  
    Options: Off to the right, at the same angle / Straight back to the torch / Off to the left / Nowhere  
-   **Answer:** Off to the right, at the same angle. *Why:* Light leaves a mirror at the same angle it came in, on the other side. Picking 'straight back' only happens when you shine head on.
+   **Answer:** Off to the right, at the same angle. *Why:* Light leaves a mirror at the same angle it came in, on the other side. Light goes straight back only when you shine at the mirror head on.
 4. (mcq) When you fold the torch-and-mirror paper on the middle line, the in-line and out-line match. What does this show?  
    Options: The angle in equals the angle out / The mirror made the light / Light bends in the air / The paper is magic  
    **Answer:** The angle in equals the angle out. *Why:* Matching lines have the same angle. That is the rule for mirrors. Picking 'light bends in the air' mixes reflection up with a different idea.
