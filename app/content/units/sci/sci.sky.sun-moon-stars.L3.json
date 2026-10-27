@@ -231,7 +231,7 @@
    "concept": "Why stars twinkle and planets mostly don't",
    "status": "defined",
    "definition": "Stars twinkle because our moving air bends and shakes their light on its way to our eyes. Planets look like tiny round discs, not points, so they usually shine steadily.",
-   "description": "Stars shine steadily. The twinkle is made here, in our own air. Air is always moving, with warm and cool patches, and each patch bends light a little. A star is so far away that it reaches us as one tiny point of light. The moving air shakes that point about, so it flickers. A planet is much nearer, so it reaches us as a very small disc. The air shakes each bit of the disc differently, and the wobbles cancel out. So a planet looks steady. Near the horizon, where we look through the most air, even planets can twinkle a little.",
+   "description": "Stars shine steadily. The twinkle is made here, in our own air. Air is always moving, with warm and cool patches, and each patch bends light a little. A star is so far away that it reaches us as one tiny point of light. The moving air shakes that point about, so it flickers. A planet is much nearer, so it reaches us as a very small disc. The air shakes each part of the disc differently, and the wobbles even out. So a planet looks steady. Near the horizon, where we look through the most air, even planets can twinkle a little.",
    "examples": [
     "Astronauts above the air see stars shining with no twinkle at all.",
     "A bright, steady dot in the west soon after sunset is very often Venus or Jupiter.",
@@ -329,7 +329,7 @@
    "concept": "Stars are born and die, and the atoms in us were made in stars",
    "status": "defined",
    "definition": "Stars are born from huge clouds of gas and dust, shine for millions or billions of years, and then die. Inside them, and when they die, new kinds of atoms are made. Almost every atom in your body, apart from hydrogen, was made inside a star.",
-   "description": "When a star like the Sun runs low on hydrogen, it starts joining helium into carbon and oxygen. Big stars go further and make heavier atoms, up to iron. When a big star dies, it blows up in a huge explosion called a supernova, and scatters these atoms into space. New stars, planets and living things form from that scattered stuff. In 1957, four scientists, Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle, showed how stars make the atoms. Margaret Burbidge was the expert who measured the starlight. Only Fowler later got a Nobel Prize for this work. The Sun will not explode. In about 5 billion years it will swell into a huge red star, then shrink into a small, hot, dim star called a white dwarf.",
+   "description": "When a star like the Sun runs low on hydrogen, it starts joining helium into carbon and oxygen. Big stars go further and make heavier atoms, up to iron. When a big star dies, it blows up in a huge explosion called a supernova, and scatters these atoms into space. New stars, planets and living things form from those scattered atoms. In 1957, four scientists, Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle, showed how stars make the atoms. Margaret Burbidge was the expert who measured the starlight. Only Fowler later got a Nobel Prize for this work. The Sun will not explode. In about 5 billion years it will swell into a huge red star, then shrink into a small, hot, dim star called a white dwarf.",
    "examples": [
     "The calcium in your bones and the iron in your blood were made inside stars that died before the Sun was born.",
     "The hydrogen in the water you drink is older still. It was made at the very start of the universe.",
@@ -381,7 +381,7 @@
   {
    "concept": "What we can see is only a small part",
    "status": "debated",
-   "description": "Stars and the glowing gas around them are what we can see. But in the 1970s Vera Rubin, an American astronomer, and her colleague Kent Ford measured how fast stars go round in galaxies. The outer stars were moving far too fast. With only the stuff we can see, their galaxies should fly apart. Something unseen seems to be holding them. Vera Rubin had been told as a student that a university's astronomy course did not take women. She kept working, and never got a Nobel Prize.",
+   "description": "Stars and the glowing gas around them are what we can see. But in the 1970s Vera Rubin, an American astronomer, and her colleague Kent Ford measured how fast stars go round in galaxies. The outer stars were moving far too fast. With only the matter we can see, their galaxies should fly apart. Something unseen seems to be holding them. Vera Rubin had been told as a student that a university's astronomy course did not take women. She kept working, and never got a Nobel Prize.",
    "examples": [
     "If dark matter is real, there is about five times as much of it as all the stars, planets and gas put together.",
     "Huge machines deep underground are waiting to catch a single particle of dark matter. None has been caught yet."
@@ -1303,7 +1303,7 @@
   },
   {
    "id": "ws-challenge",
-   "title": "Star-stuff and Big Ideas (challenge)",
+   "title": "Atoms from Stars and Big Ideas (challenge)",
    "tier": "challenge",
    "mins": 25,
    "items": [
@@ -1480,7 +1480,7 @@
    "mins": 20,
    "days": 1,
    "question": "Does a light look smaller and dimmer when it is further away, even if the light itself does not change?",
-   "predict": "Before you start, guess. When the helper walks far away with the torch, will it look the same, smaller, or bigger? Brighter, or dimmer?",
+   "predict": "Before you start, guess. When the helper walks far away with the torch, will it look the same, smaller, or bigger? Brighter, or dimmer? And why do you think so?",
    "fair_test": "Use the same torch every time, held at the same height and pointing the same way, at your chest. Change only one thing: how far away it is. Give it a score at each distance, so you can compare.",
    "results_table": [
     "Distance away (big steps)",
@@ -1514,7 +1514,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Go to the longest dim space you have: a building corridor with its lights off, the terrace at dusk, or two rooms in a line. 2. Ask your child to guess what will happen as the torch moves away.",
+     "do": "1. Go to the longest dim space you have. A building corridor with its lights off, the terrace at dusk, or two rooms in a line all work. 2. Ask your child to guess what will happen as the torch moves away.",
      "say": "I'm going to walk away with this torch. The torch won't change at all. Do you think it will look the same as I walk away, or different?",
      "kid": "A grown-up will walk away with a torch. Guess first. Will it look the same, smaller or bigger? Brighter or dimmer?",
      "ask": [
@@ -1632,7 +1632,7 @@
    "mins": 15,
    "days": 1,
    "question": "Which things make their own light, and which only shine when light falls on them?",
-   "predict": "Guess first. In a completely dark room, which of these will you still be able to see: a steel plate, a mirror, a white ball, a phone screen that is on, a lit candle?",
+   "predict": "Guess first. In a completely dark room, which of these will you still be able to see: a steel plate, a mirror, a white ball, a phone screen that is on, a lit candle? And why do you think so?",
    "fair_test": "Test every object in the same dark room. First look at each one with the torch off. Then shine the same torch on each from the same distance, about one big step.",
    "results_table": [
     "Object",
@@ -1786,7 +1786,7 @@
    "mins": 20,
    "days": 1,
    "question": "Can a tiny hole make a picture of the Sun? Does the picture get bigger if the paper is further from the hole?",
-   "predict": "Guess first. Will the spot of light on the paper be square like the card, round like the Sun, or the shape of the hole? What will happen to its size when you move the paper further away?",
+   "predict": "Guess first. Will the spot of light on the paper be square like the card, round like the Sun, or the shape of the hole? What will happen to its size when you move the paper further away? And why do you think so?",
    "fair_test": "Use the same pinhole every time. Change only one thing: how far the paper is from the hole. Measure the spot at 50 centimetres, 1 metre and 2 metres.",
    "results_table": [
     "Paper's distance from the pinhole",
@@ -2133,7 +2133,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. One person is the Sun, standing in the middle with the yellow dupatta. 2. The others are planets. 3. Each planet walks in a circle round the Sun, the nearest ones in small, quick circles and the further ones in big, slow circles. In a small room, two planets are enough.",
+     "do": "1. One person is the Sun, standing in the middle with the yellow dupatta. 2. The others are planets. 3. Each planet walks in a circle round the Sun. The nearest ones walk small, quick circles. The further ones walk big, slow circles. In a small room, two planets are enough.",
      "say": "The Sun is in the middle. Planets near the Sun go round fast, in small circles. Planets far away go round slowly, in big circles.",
      "kid": "Someone is the Sun, in the middle. You are a planet. Walk in a circle round the Sun. Near ones go fast. Far ones go slow.",
      "context": "This is the first step of the Planet Dance. You act out the Sun and the planets going round it."
@@ -2167,7 +2167,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Play two short pieces from Gustav Holst's orchestra music The Planets, written between 1914 and 1916: 'Mars, the Bringer of War' and 'Jupiter, the Bringer of Jollity'. Dance to each.",
+     "do": "Play two short pieces from The Planets, orchestra music by Gustav Holst, written between 1914 and 1916. Play 'Mars, the Bringer of War' and then 'Jupiter, the Bringer of Jollity'. Dance to each.",
      "say": "A composer called Gustav Holst wrote music for the planets, over a hundred years ago. Which one sounds like a giant? He wrote nothing for the Earth. What would the Earth's music sound like?",
      "kid": "Dance to the Mars music. Now dance to the Jupiter music. Which sounds like a giant? What would Earth's music be?",
      "parent": "Holst's music is about the old Roman gods the planets are named after, not the science. Mars was the Roman god of war. Holst wrote no piece for the Earth, and none for Pluto, which was found in 1930, after he finished."
@@ -2246,7 +2246,7 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Use the sky map to choose five evenings in a row when the Moon is in the part of the sky your window or balcony faces, at a time such as 7:30 pm. 2. Go to that same spot each night, at the same time. 3. Draw the skyline: buildings, the water tank, a tree or a mobile tower. 4. Draw the Moon and the brightest dots near it. 5. Use the sky map to check which bright dot is a planet.",
+     "do": "1. Use the sky map to choose five evenings in a row. On each one, the Moon must be in view from your window or balcony at a fixed time (such as 7:30 pm). 2. Go to that same spot each night, at the same time. 3. Draw the skyline: buildings, the water tank, a tree or a mobile tower. 4. Draw the Moon and the brightest dots near it. 5. Use the sky map to check which bright dot is a planet.",
      "say": "We'll come back here at the same time for five nights. Draw the skyline first, so we can see if things move. Which dot shines steadily without twinkling?",
      "kid": "Draw the skyline first: buildings, tanks, trees. Then draw the Moon. Then the brightest dots. Which dot does not twinkle?",
      "adult": true,
