@@ -4,7 +4,7 @@
  "level": 3,
  "playtest": "Every hands-on part was checked as if done at home today, with things most Indian homes have. Twanging Ruler: a 30 cm plastic or steel ruler works if one palm presses it hard on the table edge. With 5 cm sticking out it buzzes. With 20 to 25 cm out you see it wobble but hear only a soft flap, because it now vibrates fewer than about 20 times a second. The wobbles are too fast to count, so the table asks only whether you see and hear it, and whether the sound is high or low. Catch the Ring: a steel thali or big katori hit with a steel spoon rings long enough, and a foil ball on a thread jumps clearly. The ripples on a katori of water are small and last a second or two, so a torch shines on the water from the side. The Atta Trick: a balloon skin over a steel tumbler or tin gives a clear tap note. A coin-sized blob of atta dough in the centre makes it lower. A very loose balloon gives no note, so pull it tight. Coin Line: use same-size coins on a smooth table, all touching. For the gaps, leave a palm's width, so the hit coin stops before the next one. Straw Shehnai: plastic straws work, but single-use ones are no longer sold in India, so the step uses any a family already has and offers another activity instead. Paper straws go soggy and fail. Many children need 5 or more tries before the reed buzzes. Rubber-band Veena: thin and thick bands on an open tiffin or shoebox. The pencil bridge is needed. Kitchen Orchestra: tap gently with a spoon, never hard. Glass tumblers can crack, so steel tumblers are given first. What Is Vibrating? works alone, with a parent, or with friends. Sound and Pose needs a second person. How the ear works is in the unit Our senses (sci.senses.five-senses.L3), so this unit links to it instead of repeating it. Keep all banging at a moderate loudness and away from ears.",
  "summary": {
-  "text": "Every sound starts with something vibrating, which means moving quickly back and forth. A tabla skin, a veena string, the air inside a flute and your own throat all vibrate. The vibrating thing pushes the air next to it, and the air passes the push along to your ear as a sound wave. Sound needs a medium, such as air, water or wood, to travel through, so space is silent. A bigger vibration makes a louder sound and a faster one makes a higher pitch, and crickets, elephants, bats and even thirsty plants make sounds for their own lives.",
+  "text": "Every sound starts with something vibrating, which means moving quickly back and forth. A tabla skin, a veena string, the air inside a flute and your own throat all vibrate. The vibrating thing pushes the air next to it, and the air passes the push along to your ear as a sound wave. Sound needs a medium, such as air, water or wood, to travel through, so space is silent. A bigger vibration makes a louder sound, and a faster one makes a higher sound. Crickets, elephants and bats make sounds of their own, to find each other, warn and hunt.",
   "art": "A girl tapping a tabla, with a zoomed-in circle beside it showing the skin bulging and tiny air molecules bunching up and spreading out, passing the push towards a listening cat."
  },
  "intro": {
@@ -32,7 +32,7 @@
   },
   {
    "term": "Vibrate, vibration",
-   "meaning": "To vibrate is to move quickly back and forth, over and over. One such movement, going on and on, is called a vibration. Every sound starts with a vibration.",
+   "meaning": "To vibrate is to move quickly back and forth, over and over. This movement is called a vibration. Every sound starts with one.",
    "example": "Pluck a stretched rubber band. It looks blurry because it is vibrating.",
    "art": "A plucked rubber band drawn blurry, with arrows showing it moving up and down."
   },
@@ -44,8 +44,8 @@
   },
   {
    "term": "Molecule",
-   "meaning": "The smallest piece of a material such as air or water, far too small to see. Air is made of molecules that zoom about and bump into each other.",
-   "example": "One sugar cube of air holds about 25 billion billion molecules.",
+   "meaning": "The smallest piece of a substance, such as water or oxygen, far too small to see. Air is made of molecules that zoom about and bump into each other.",
+   "example": "A space the size of a sugar cube holds about 25 billion billion air molecules.",
    "art": "A sugar cube made of glass, filled with countless tiny dots zooming about."
   },
   {
@@ -98,7 +98,7 @@
   },
   {
    "term": "Reed",
-   "meaning": "A thin flap that vibrates when you blow past it. It makes the air inside a wind instrument vibrate.",
+   "meaning": "A thin flap that vibrates when you blow past it. In a shehnai, the reed makes the air inside the tube vibrate.",
    "example": "A shehnai has a double reed. You can make one from a plastic straw.",
    "art": "A flattened straw end cut into a V shape, its two flaps buzzing."
   },
@@ -203,7 +203,7 @@
    "examples": [
     "In space films, ships explode with a huge bang. In real space, it would be silent.",
     "Astronauts on a spacewalk talk by radio, even when they are side by side.",
-    "On Mars, the air is less than a hundredth as thick as ours. NASA's Perseverance rover recorded sounds there in 2021, but they are much quieter."
+    "On Mars, the air is less than a hundredth as thick as ours. NASA's Perseverance rover recorded sounds there in 2021, Sounds there are much quieter than on Earth."
    ],
    "perspectives": [],
    "art": "An astronaut on the Moon banging two rocks together, a silent 'no sound' sign, with a radio wave going to a second astronaut instead.",
@@ -212,8 +212,8 @@
   {
    "concept": "Sound in the universe: where it can travel after all",
    "status": "defined",
-   "definition": "Sound can travel wherever there is enough of a medium to pass on a push. Inside the Sun, in thin clouds of hot gas between galaxies, and in the young universe, there was enough.",
-   "description": "Space between the planets is silent. But the Sun is a huge ball of hot gas, and it rings like a bell. Sound waves bounce around inside it, and its surface rises and falls about every five minutes. Robert Leighton and his team found this in the early 1960s. Scientists now use these 'sunquakes' to look inside the Sun. Far away, around a giant black hole in the Perseus galaxy cluster, there is a thin cloud of hot gas. In 2003, astronomers found ripples in it, like sound waves. The note would be far too low for anyone to hear, about 57 octaves below the middle note on a piano. And when the whole universe was young, it was a hot, thick soup. Sound waves rang through it. Their pattern is still printed in the faint glow left over from that time.",
+   "definition": "Sound can travel wherever there is enough of a medium to pass on a push. There is enough inside the Sun, in the thin hot gas that fills a galaxy cluster, and there was enough in the young universe.",
+   "description": "Space between the planets is silent. But the Sun is a huge ball of hot gas, and it rings like a bell. Sound waves bounce around inside it, and its surface rises and falls about every five minutes. Robert Leighton and his team found this in the early 1960s. Scientists now use these 'sunquakes' to look inside the Sun. Far away, around a giant black hole in the Perseus galaxy cluster, there is a thin cloud of hot gas. In 2003, astronomers found ripples in it, like sound waves. The note would be far too low for anyone to hear, about 57 octaves below the middle note on a piano. And when the whole universe was young, it was a hot, thick soup. Sound waves rang through it. Their pattern can still be seen in the faint glow left over from that time.",
    "examples": [
     "The Sun's surface rises and falls about every five minutes, because sound waves bounce inside it.",
     "NASA turned the Perseus black hole ripples into a sound people can hear, by making it more than a hundred million billion times higher."
@@ -225,8 +225,8 @@
   {
    "concept": "Bigger vibrations are louder, faster vibrations are higher",
    "status": "defined",
-   "definition": "A bigger vibration makes a louder sound. How loud or soft a sound is, is its loudness. A faster vibration makes a higher sound. How high or low a sound is, is its pitch.",
-   "description": "Hit a drum gently and its skin moves a little, so the sound is soft. Hit it hard and the skin swings further, so the sound is loud. Pitch is about speed. A short, tight or thin string vibrates fast and sounds high. A long, loose or thick string vibrates slowly and sounds low. People can hear vibrates from about 20 a second up to about 20,000 a second. A child's vocal folds open and shut a few hundred times a second when they talk. You will learn much more about loudness and pitch in Class 5.",
+   "definition": "A bigger vibration makes a louder sound. A faster vibration makes a higher sound. Scientists call how high or low a sound is its pitch.",
+   "description": "Hit a drum gently and its skin moves a little, so the sound is soft. Hit it hard and the skin swings further, so the sound is loud. Pitch is about speed. A short, tight or thin string vibrates fast and sounds high. A long, loose or thick string vibrates slowly and sounds low. People can hear vibrations from about 20 a second up to about 20,000 a second. A child's vocal folds open and shut a few hundred times a second when they talk. You will learn much more about loudness and pitch in Class 5.",
    "examples": [
     "Twang a ruler with only a little sticking out. It buzzes high. Let more stick out, and it wobbles slower and lower.",
     "A mosquito's wings beat hundreds of times a second, so its whine is high.",
@@ -252,7 +252,7 @@
   {
    "concept": "The veena, the mridangam and the atta trick",
    "status": "defined",
-   "definition": "Indian instruments shape their vibrations in clever ways. A curved bridge makes veena strings buzz richly. A hollow body makes the sound louder. A blob of dough makes a mridangam's skin vibrate more slowly, so its pitch is lower.",
+   "definition": "A veena has a curved bridge that gives its strings a buzzing sound, and a hollow body that makes the sound louder. On a mridangam, a blob of dough makes one skin vibrate more slowly, so its pitch is lower.",
    "description": "The Saraswati veena is carved from jackfruit wood. It has 24 frets, 4 strings for the tune and 3 strings for a steady drone. A string alone is quiet, because it is thin and pushes little air. So the string's vibration passes into the big hollow wooden body, its resonator. The whole body vibrates and pushes much more air, so the sound is loud. The strings rest on a wide, gently curved bridge. As each string vibrates, it brushes against the curve. That gives the veena and the tanpura their shimmering, buzzing sound. Musicians call this jawari. Raman wrote about it in 1921. The mridangam is a two-sided drum, also carved from jackfruit wood. Before playing, the player presses a blob of wet rava or wheat dough onto the left skin. The heavy dough makes that skin vibrate more slowly, so it gives a deep boom.",
    "examples": [
     "Stretch a rubber band in the air and pluck it. Then stretch it over an open box. The box makes it much louder.",
@@ -279,7 +279,7 @@
    "concept": "Animals that make sound for their own lives",
    "status": "defined",
    "definition": "Many animals make sounds by vibrating a body part, and use sound to find each other, warn, court, hunt and find their way.",
-   "description": "Animals are not making sounds for us. Each one is busy with its own life. A cricket rubs a scraper on one wing against a row of tiny teeth on the other. Its ears are on its front legs. A cicada clicks two drum-like plates on its body very fast. A frog pushes air back and forth over its vocal folds, and its throat pouch swells like a balloon to make the call louder. Male and female mosquitoes change their buzz until their two tones fit together. Lauren Cator, Laura Harrington and colleagues found this in 2009. Elephants call with rumbles so low that people can hardly hear them. Katy Payne discovered this in 1984, when she felt a throbbing in the air beside elephants at a zoo. Caitlin O'Connell-Rodwell found that elephants may also feel these rumbles through their feet. In 2015, Angela Freeman and James Hare found that a peacock vibrating its tail makes infrasound too. Peahens may feel it. Bats and dolphins shout and listen to the echoes. A snapping shrimp shuts its claw so fast that a bubble forms and bursts with a loud crack.",
+   "description": "Animals are not making sounds for us. Each one is busy with its own life. A cricket rubs a scraper on one wing against a row of tiny teeth on the other. Its ears are on its front legs. A cicada clicks two drum-like plates on its body very fast. A frog pushes air back and forth over its vocal folds, and its throat pouch swells like a balloon to make the call louder. Male and female mosquitoes change their buzz until their two tones fit together. Lauren Cator, Laura Harrington and colleagues found this in 2009. Elephants call with rumbles so low that people can hardly hear them. Katy Payne discovered this in 1984, when she felt a throbbing in the air beside elephants at a zoo. Caitlin O'Connell-Rodwell found that elephants may also feel these rumbles through their feet. In 2015, Angela Freeman and James Hare found that a peacock vibrating its tail makes infrasound too. Peahens may feel it. Bats and dolphins make squeaks or clicks and listen for the echoes. A snapping shrimp shuts its claw so fast that a bubble forms and bursts with a loud crack.",
    "examples": [
     "On a monsoon night, the loud chorus in a field is often frogs calling to each other.",
     "Woodpeckers drum on dry branches. The branch is the instrument.",
@@ -314,7 +314,7 @@
    "concept": "Where does a sound go when it fades?",
    "status": "defined",
    "definition": "A sound spreads out and gets weaker as it travels. In the end, its energy turns into a tiny amount of warmth in the air and in the things it hits.",
-   "description": "A sound wave carries energy, the power to make things move. As it spreads out from the source, the same energy is shared over a bigger and bigger space. So the sound gets quieter the further away you are. Soft things like cushions, curtains and clothes soak it up quickly. Every push between molecules also loses a little of the neat pattern. The bumping becomes the messy jiggling of molecules, which is heat. The heat from a sound is far too tiny to feel. But the energy never disappears. It only changes from one kind into another.",
+   "description": "A sound wave carries energy, which is what it takes to make things move. As it spreads out from the source, the same energy is shared over a bigger and bigger space. So the sound gets quieter the further away you are. Soft things like cushions, curtains and clothes soak it up quickly. Also, at every push, a little of the neat back-and-forth movement turns into the messy jiggling of molecules, which is heat. The heat from a sound is far too tiny to feel. But the energy never disappears. It only changes from one kind into another.",
    "examples": [
     "A ringing bell slowly goes quiet. Its vibration has spread out into the air and into the bell's own metal.",
     "A room with curtains and cushions sounds softer than an empty room with bare walls."
@@ -327,7 +327,7 @@
    "concept": "Is anything ever perfectly still?",
    "status": "defined",
    "definition": "No. Every solid, liquid and gas is made of atoms and molecules that never stop jiggling. The warmer a thing is, the faster they jiggle.",
-   "description": "A stone on the ground looks perfectly still. But its atoms are jiggling all the time, too fast and too small to see or hear. That jiggling is what warmth is. Cool the stone, and the jiggling slows down. Scientists have cooled things to almost the coldest anything can be. Even there, quantum physics, the science of the very tiniest things, says the jiggling never stops completely. Sound is a neat, shared vibrate that molecules pass along together. Underneath it is always this messy jiggle of everything.",
+   "description": "A stone on the ground looks perfectly still. But its atoms are jiggling all the time, too fast and too small to see or hear. That jiggling is what warmth is. Cool the stone, and the jiggling slows down. Scientists have cooled things to almost the coldest anything can be. Even there, quantum physics, the science of the very tiniest things, says the jiggling never stops completely. Sound is a neat vibration that molecules pass along together. Underneath it is always this messy jiggle of everything.",
    "examples": [
     "A cup of hot chai: its molecules jiggle faster than those in a glass of cold water.",
     "The 'quietest' room ever built still isn't silent to the person in it. They hear their own heartbeat and breathing."
@@ -527,7 +527,7 @@
    "How did the rice show Bela where the problem was?",
    "Bela's father pressed the patch and felt nothing, but Bela found the bump. Why do you think she found it?",
    "Why do you think the man wrote Bela's name in his notebook?",
-   "At the end, Bela feels her hum in her chest, the floor and the house. Where does a sound stop being yours?"
+   "At the end, Bela feels her hum in her chest, the floor and the house. How can a hum reach the floor and the walls?"
   ],
   "art": [
    "A narrow Calcutta lane long ago, drums hanging in shop fronts, a girl at an upstairs window listening.",
@@ -743,7 +743,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Swap roles. Then talk about which sounds were easiest to tell apart.",
+     "do": "Swap roles. Then talk about which sounds were hardest to tell apart.",
      "say": "Which sounds were hardest to tell apart? Why?",
      "kid": "Swap! Now you make the sounds. Which ones were hardest to guess?",
      "check": {
@@ -1064,7 +1064,7 @@
       "An elephant told her"
      ],
      "a": 1,
-     "why": "In 1984, at a zoo in the USA, she felt the air throb like near a big organ pipe. She guessed the elephants were making sounds too low to hear. Recordings proved it."
+     "why": "In 1984, at a zoo in the USA, she felt the air throb, the way it does near a big organ pipe. She guessed the elephants were making sounds too low to hear. Recordings proved it."
     },
     {
      "t": "truefalse",
@@ -1081,7 +1081,7 @@
       "The watch stopped working"
      ],
      "a": 1,
-     "why": "With less air, there were fewer molecules to pass on the ticks. So the ticking faded. When air came back in, the ticking came back. That showed sound needs air, or something, to travel through."
+     "why": "With less air, there were fewer molecules to pass on the ticks. So the ticking faded. When air came back in, the ticking came back. That showed sound needs air, or another medium, to travel through."
     },
     {
      "t": "sort",
@@ -1241,7 +1241,7 @@
      "t": "mcq",
      "p": "A message says NASA recorded the Sun chanting 'Om'. What is true?",
      "opts": [
-      "The Sun does vibrate, and NASA made those vibrations hearable, but it is a hum, not a word",
+      "The Sun does vibrate, and NASA turned those vibrations into sounds we can hear, but it is a hum, not a word",
       "NASA recorded the word 'Om'",
       "The Sun makes no vibrations at all"
      ],
@@ -1349,7 +1349,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the ruler flat on the table, with 5 cm sticking out over the edge. 2. Press the end on the table down firmly with one palm.",
+     "do": "1. Lay the ruler flat on the table, with 5 cm sticking out over the edge. 2. With one palm, press the part on the table down hard, right next to the edge.",
      "say": "We will make this ruler into a sound source. First, guess. If more of it sticks out, will the sound go higher, lower, or stay the same?",
      "kid": "Put the ruler on the table. Let 5 cm stick out. Press the other end down hard. Guess: more sticking out, higher or lower?",
      "context": "This is the first step of the Twanging Ruler experiment. You press a ruler on a table edge, flick the end that sticks out, and listen.",
@@ -1400,7 +1400,7 @@
        [
         "15",
         "A fast wobble",
-        "Low thrum"
+        "Low hum"
        ],
        [
         "20",
@@ -1465,7 +1465,7 @@
      [
       "15",
       "A fast wobble",
-      "Low thrum"
+      "Low hum"
      ],
      [
       "20",
@@ -1730,7 +1730,7 @@
        ]
       }
      ],
-     "parent": "The rice is the founder's trick for seeing a vibration. If the skin is loose, you get a dull thud and no note. Pull it tighter."
+     "parent": "Rice grains make the vibration easy to see: they jump where the skin moves. If the skin is loose, you get a dull thud and no note. Pull it tighter."
     },
     {
      "id": "s3",
@@ -1747,14 +1747,14 @@
        "No change at all"
       ],
       "a": 1,
-      "why": "The heavy dough slows the skin's vibration. Slower vibration sounds lower. That is why the mridangam's left skin, with its dough, gives a deep boom. Picking 'higher' often means thinking a heavier skin makes a higher sound, but here the extra weight makes the vibration slower."
+      "why": "The heavy dough slows the skin's vibration. Slower vibration sounds lower. That is why the mridangam's left skin, with its dough, gives a deep boom. Picking 'higher' often means thinking that more on the skin means more sound. But extra weight makes the skin swing more slowly, and slower means lower."
      }
     },
     {
      "id": "s4",
      "mins": 4,
      "do": "Talk about the tabla and the mridangam together.",
-     "say": "Real tabla and mridangam drums have a heavy black patch called the syahi. It does something cleverer than our dough. It makes the drum ring with a clear note. C.V. Raman, an Indian scientist, explained it in 1920. But drum makers invented it long before.",
+     "say": "Real tabla and mridangam drums have a heavy black patch called the syahi. Our dough only makes the note lower. The syahi also makes the drum ring with a clear note instead of a thud. C.V. Raman, an Indian scientist, explained how in 1920. But drum makers invented it long before.",
      "kid": "Real drums have a heavy black patch called syahi. It helps them ring with a clear note. Drum makers invented it long ago.",
      "think": "Drum makers found this out without any science lab. How do you think they did it?"
     },
@@ -1822,7 +1822,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never touch a pressure cooker, a hot vessel, a running mixer or anything electric. Just listen, or look.",
+   "safety": "Never touch a pressure cooker, a hot pan, a fan, a running mixer or a plug. Just listen to those. The side of a fridge is safe to touch.",
    "schedule": [
     {
      "day": 1,
@@ -1847,7 +1847,7 @@
      "say": "Listen. What's that sound? Where does it come from? Can you feel it vibrating?",
      "kid": "Walk and listen. Find where each sound comes from. Safe to touch? Feel it buzz. Write it down.",
      "adult": true,
-     "parent": "Good finds: the fridge humming (put a palm on its side), a ticking clock, a ceiling fan, a steel glass tapped with a spoon, your own throat, a bird outside, a door creaking, the pressure cooker whistle. Only listen to hot or electric things."
+     "parent": "Good finds: the fridge humming (put a palm on its side), a ticking clock, a ceiling fan, a steel glass tapped with a spoon, your own throat, a bird outside, a door creaking, the pressure cooker whistle. Only listen to hot things, fans and mixers."
     },
     {
      "id": "s3",
@@ -1915,7 +1915,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Space the 5 coins out, with a gap as wide as your palm between each one. 2. Flick the 6th coin in again.",
+     "do": "1. Space the 5 coins out, with a gap as wide as your palm between each one. 2. Flick the 6th coin in again, with the same gentle flick as before.",
      "say": "Now the coins are far apart, like the few particles in space. What happens?",
      "kid": "Now leave gaps between the coins. Flick again. Does the push reach the end?",
      "ask": [
@@ -1926,7 +1926,8 @@
         "The first coin slid a little and stopped before it reached the next one."
        ]
       }
-     ]
+     ],
+     "parent": "If a coin slides all the way to the next one, flick more gently or make the gaps wider."
     },
     {
      "id": "s3",
@@ -1991,7 +1992,7 @@
      "qty": 2
     },
     {
-     "item": "things to tap: a steel plate, a clay matka or pot, a plastic box, a pressure cooker lid, cold",
+     "item": "things to tap: a steel plate, a clay matka or pot, a plastic box, a cold pressure cooker lid",
      "qty": 4
     }
    ],
@@ -2124,9 +2125,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Pull one band tighter by pulling it further over the bridge. Pluck it. 2. Press a band down on the pencil with a finger, so a shorter part is free. Pluck that shorter part.",
+     "do": "1. Make one band tighter. Hold the part of it under the box and pull it towards you, so the top part stretches more. Pluck the top part. 2. Press another band down onto the box with a finger, halfway along. Pluck the part between your finger and the pencil.",
      "say": "A veena player tightens strings to tune them, and presses them on frets. Let's try both.",
-     "kid": "Make one band tighter. Pluck it. Now press it with a finger to make it shorter. Pluck again.",
+     "kid": "Make one band tighter. Pluck it. Now press a band down with a finger to make it shorter. Pluck again.",
      "check": {
       "t": "mcq",
       "q": "You make a band tighter or shorter. What happens to its note?",
@@ -2145,7 +2146,7 @@
      "do": "Play your veena. Try to play a short tune or a pattern of notes.",
      "say": "Play us something. What is vibrating when you play?",
      "kid": "Play a tune on your veena! What is vibrating: the band, the box, or both?",
-     "think": "The box made the band louder. Your chest and head do the same for your voice. Hum and feel your chest."
+     "think": "The box made the band louder. Your throat, mouth and nose do something like this for your voice. Hum and feel your face and chest buzz."
     }
    ],
    "context": "In this activity, you build a string instrument from a box and rubber bands. You find out what makes a string louder, higher and lower, like a real veena.",
@@ -2467,7 +2468,7 @@
     "Stretch it tighter, so it springs back harder."
    ],
    "creative": [
-    "Hold a plucked band against a table or a door. The whole table or door becomes a sounding board.",
+    "Press the ends of the stretched band against a table top or a door while you pluck it. The whole table or door becomes a sounding board.",
     "A veena uses a big hollow body, and sometimes a second gourd at the top. Could two boxes help?",
     "Put your ear against the box while someone plucks. Does it sound louder through the box than through the air?"
    ],
@@ -2542,7 +2543,7 @@
     "The visitor must be able to work it from outside the door."
    ],
    "materials": [
-    "string, a bell or a spoon, a tin, a balloon, a torch, a cloth, tape, a long piece of string or thread"
+    "a long piece of string or thread, a bell or a spoon, a tin, a balloon, a torch, a cloth, tape"
    ],
    "general": [
     "A light that flashes, like a torch switched on by the visitor.",
@@ -2605,7 +2606,7 @@
      "caption": "1. The problem: she can't hear the bell."
     },
     {
-     "art": "A string running from the front door along the wall to a small bell-free tug loop tied to the arm of her chair.",
+     "art": "A string running from the front door along the wall to a loop tied to the arm of her chair.",
      "caption": "2. Build a model you can see or feel."
     },
     {
@@ -2737,7 +2738,7 @@
     "Their helmets were too thick"
    ],
    "a": 1,
-   "why": "With no air, there is nothing to pass the vibration from one helmet to the other. They used radio, which is a kind of light and needs no air.",
+   "why": "With no air, there is nothing to pass the vibration from one helmet to the other. They used radio. Radio waves are the same kind of wave as light, and need no air.",
    "outcome": 4
   },
   {
@@ -2805,7 +2806,7 @@
   "Every musical instrument, from a veena to a drum kit, is a way of making something vibrate.",
   "Loudspeakers and earphones have a thin cone that vibrates to make sound.",
   "Microphones have a thin skin that vibrates when sound hits it, like a tiny drum.",
-  "Phones vibrate silently in your pocket. A tiny motor inside makes them move.",
+  "Phones buzz in your pocket because a tiny motor inside shakes them.",
   "Doctors use ultrasound, sound too high to hear, to see babies growing inside the mother.",
   "Ships use sonar, sending out sound and listening for echoes, to find the sea floor and fish.",
   "Engineers listen to machines and bridges. A change in their vibration can warn of a crack.",
@@ -2841,7 +2842,7 @@
    "art": "A cycle bell close up, with a thumb flicking it."
   },
   {
-   "text": "Sitar, veena or tabla on the radio or at a music class. Watch the strings blur and the skin bounce.",
+   "text": "Sitar, veena or tabla at a music class or on TV. Watch the strings blur and the skin bounce.",
    "art": "A girl playing a tabla at a music class, her hands mid-strike."
   },
   {
@@ -3186,7 +3187,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a science museum in San Francisco. Search for sound and vibration. It is on the founder's list of STEM websites."
+   "why": "Free, tested hands-on activities from a science museum in San Francisco. Search for sound and vibration."
   },
   {
    "title": "Sangeet Natak Akademi",
@@ -3272,7 +3273,7 @@
    "why": "A clear, accurate picture book about vibrations and how animals use sound, for ages 4 to 8.",
    "url": "https://www.amazon.in/s?k=Sounds+All+Around+Wendy+Pfeffer",
    "used_in": [
-    "g1"
+    "a1"
    ],
    "plan": "If bought, read it together after the Vibration Hunt."
   },
@@ -3392,7 +3393,7 @@
  },
  "sources": {
   "founder": [
-   "Founder's notebook, Sound topic (ideas/by_topic/sound.md), 'Sources of sound' and 'Sound & Vibration' rows: rubber-band box guitar, straw reed whistle, rice on a drum, tapping kitchen utensils, water glasses, a sound scavenger hunt, and 'everything has a voice; vibration is the hidden language of matter'. Used in the Shake Hunt, Atta Trick, Rubber-band Veena, Straw Shehnai, Kitchen Orchestra and the Roots card.",
+   "Founder's notebook, Sound topic (ideas/by_topic/sound.md), 'Sources of sound' and 'Sound & Vibration' rows: rubber-band box guitar, straw reed whistle, rice on a drum, tapping kitchen utensils, water glasses, a sound scavenger hunt, and 'everything has a voice; vibration is the hidden language of matter'. Used in the Vibration Hunt, Atta Trick, Rubber-band Veena, Straw Shehnai, Kitchen Orchestra and the Roots card.",
    "Founder's sheets, String Theory row: the Sound and Pose game, and Om chanting to feel vibration in the body. Singularity row: 'Silence Singularity', making many sounds then stopping to notice silence. Used in the game g2 and the Roots practice.",
    "Founder's sheets, Energy row: a balloon held to a phone speaker. Already in the unit Our senses (sci.senses.five-senses.L3), so linked, not repeated.",
    "Founder's notebook, 'How sound travels' row ('emptiness is silent'; vacuum jar or video) and 'Ultrasound seed: bats and dolphins see with sound'. Used for space, the Royal Institution video and the animals card.",
@@ -3418,7 +3419,7 @@
  "roots": {
   "context": "We have been learning that every sound starts with a vibration, and that the air passes it on from molecule to molecule. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the coin line, the last coin shot off, but the first coin stopped as it hit. Sound is like that: the air beside a drum does not leave the drum. Only the push travels, handed from molecule to molecule. So what reaches your ear is not a piece of the drum, but its movement.",
+   "truth": "Flick a coin into a line of coins, and only the far coin shoots off. Sound travels the same way: no air travels from the drum to you. Each molecule only pushes its neighbour, and the push travels on. So what reaches your ear is the drum's movement, not any part of the drum.",
    "habit": "We say a sound 'comes' to us from the drum, as if it were a thing flying across the room. But no air and no part of the drum makes the journey. What travels is a movement, passed on by things that each stay where they are.",
    "evidence": "In the coin line, the middle coins hardly moved, yet the last coin shot away. In a real sound wave, each air molecule moves back and forth less than the width of a hair, yet the sound crosses a room in a hundredth of a second."
   },
@@ -3437,7 +3438,7 @@
    {
     "source": "Rumi, Masnavi, Book 1, the opening lines (the Song of the Reed)",
     "teaching": "Listen to the reed flute, how it tells its story. It cries because it was cut from the reed bed, and it longs to go back.",
-    "link": "A reed sounds only when breath passes it, like your straw shehnai. Rumi uses that sound to speak of longing for the place we came from."
+    "link": "Rumi's reed flute, the ney, is a hollow cane. Like a bansuri, it sounds only when breath makes the air inside it vibrate. Rumi uses that sound to speak of longing for the place we came from."
    },
    {
     "source": "Surangama Sutra, chapter 6, Avalokiteshvara's account of his practice",
