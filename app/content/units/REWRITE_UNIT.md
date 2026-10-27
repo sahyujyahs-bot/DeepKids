@@ -17,6 +17,8 @@ Ask: what fact or instruction is this? If you can't say it in a few words, rewri
 | "Materials aren't as strong as stuff" | meaningless | "However strong a material is, one small crack can grow and break it." |
 | "This unit is about magnets." | stock line | start with the fact or the puzzle |
 
+**Quiz and game questions** must be understood on one reading by a child of 8: say who the person is the first time ("Riya, a girl in Class 3, tests two cloths"), use plain verbs that say what really happens ("pours water on the cotton", never "rains on the cotton patch"), one question per item, and short options that differ in one clear way.
+
 No riddles, no dramatic half-sentences, no clever images, no poetry where understanding is needed, no filler ("Let's explore", "Isn't that amazing?"), no formula pasted into every unit ("the One becoming the many").
 
 ### 2. Is it the right word?
