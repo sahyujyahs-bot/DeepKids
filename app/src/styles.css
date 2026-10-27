@@ -4206,8 +4206,7 @@ a.btn {
     0 0 0 4px var(--good),
     0 10px 40px #0006;
 }
-.fximg,
-.fxph {
+.fximg {
   flex: none;
   width: 100%;
   aspect-ratio: 4/3;
@@ -4222,13 +4221,11 @@ a.btn {
   object-fit: cover;
   display: block;
 }
-.fximg.fxhero,
-.fxph.fxhero {
+.fximg.fxhero {
   aspect-ratio: 3/4;
   max-height: 52dvh;
 }
-.fximg.fxsq,
-.fxph.fxsq {
+.fximg.fxsq {
   aspect-ratio: 1;
   max-height: 44dvh;
   border-radius: 18px;
@@ -4245,28 +4242,6 @@ a.btn {
   display: grid;
   place-items: center;
   font-size: 64px;
-}
-.fxph {
-  display: grid;
-  place-items: center;
-  align-content: center;
-  gap: 10px;
-  padding: 18px;
-  text-align: center;
-  background: linear-gradient(
-    135deg,
-    color-mix(in srgb, var(--sun) 45%, var(--bg)),
-    color-mix(in srgb, var(--aqua) 35%, var(--bg))
-  );
-}
-.fxph span {
-  font-size: 64px;
-  line-height: 1;
-}
-.fxph i {
-  font: 600 13.5px/1.4 var(--body);
-  color: var(--muted);
-  max-width: 34ch;
 }
 .fxtxt {
   padding: 18px 20px 90px;
@@ -4475,10 +4450,6 @@ a.btn {
   display: grid;
   gap: 10px;
   align-content: start;
-}
-.fxslide .fxph {
-  border-radius: 14px;
-  aspect-ratio: 16/10;
 }
 .fxjoke {
   cursor: pointer;
@@ -5217,8 +5188,7 @@ dialog .fxfab {
   height: auto;
   display: block;
 }
-.fxsetrow .fximg,
-.fxsetrow .fxph {
+.fxsetrow .fximg {
   border-radius: 12px;
   max-height: none;
 }

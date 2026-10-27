@@ -1,14 +1,14 @@
 {
  "id": "sci.forces.push-and-pull.L3",
- "title": "Pushes and pulls: every force points somewhere",
+ "title": "Pushes and pulls: what a force is and which way it acts",
  "level": 3,
  "summary": {
-  "text": "This unit is about pushes and pulls. Scientists call every push and every pull a force. Forces can start things moving, stop them, speed them up, slow them down and turn them. Every force points in a direction, so we draw it as an arrow. A longer arrow means a bigger force. Forces always come in pairs: when you push a wall, the wall pushes you back. Some forces work by touching, and some, like magnets and gravity, pull from far away. Deep down, every push you feel is tiny electrons pushing each other apart. And scientists still argue about what a force really is.",
+  "text": "When you push a wall, the wall pushes you back just as hard. Every push and every pull is called a force. Forces start things moving, stop them, speed them up, slow them down and turn them. Every force acts in a direction, so we draw it as an arrow, and a longer arrow means a bigger force. Some forces work only by touching. Others, like gravity and a magnet's force, work across a gap. Underneath, every touching push is the electrons of two things repelling each other. Scientists still argue about what a force really is.",
   "art": "A child pushing a swing and pulling a kite string at once, with a bold arrow drawn on each, one pointing forward and one pointing up the string."
  },
  "intro": {
   "hook": "Try this. Stand facing a wall, about one step away. Put both palms on the wall and push. Did the wall move? Did you? Something pushed you back. What was it?",
-  "text": "In a tug of war, everyone watches the rope. Each team pulls as hard as it can. One team slides forward and loses. Most people say the winners pulled harder on the rope. But here is a puzzle. The rope is one rope. Can it pull one end harder than the other? This unit is about pushes and pulls, the forces that move everything. By the end, you will be able to answer the rope puzzle. You will also know where to look to win.",
+  "text": "In a tug of war, everyone watches the rope. Each team pulls as hard as it can. One team slides forward and loses. Most people say the winners pulled harder on the rope. But the rope is one rope. Can it pull one end harder than the other? By the end of these lessons, you will be able to answer that. You will also know where to look to see who will win.",
   "art": "A village tug of war on wet grass, a chalk line in the middle, one team leaning low with heels dug in, the other team standing tall."
  },
  "outcomes": [
@@ -42,7 +42,7 @@
   },
   {
    "term": "Twist",
-   "meaning": "A turning force. It is a push on one side and a pull on the other side at the same time.",
+   "meaning": "A turning force. Your hand pushes one side of the thing away and pulls the other side towards you at the same time.",
    "example": "Opening a tap or a jar lid is a twist.",
    "art": "A hand turning a tap, one arrow pushing on one side and one pulling on the other."
   },
@@ -78,13 +78,13 @@
   },
   {
    "term": "Gravity",
-   "meaning": "The pull that every object has on every other object. The Earth's gravity pulls everything towards the middle of the Earth.",
+   "meaning": "The force that pulls every object towards every other object. The Earth's gravity pulls everything towards the middle of the Earth.",
    "example": "A mango falls down from the tree, never up.",
    "art": "A mango falling from a tree, an arrow pointing down towards the ground."
   },
   {
    "term": "Magnetic force",
-   "meaning": "The push or pull of a magnet. Magnets pull on iron and steel. Two magnets can pull together or push apart.",
+   "meaning": "The push or pull of a magnet. A magnet attracts iron and steel, which means it pulls them towards itself. Two magnets can attract each other or repel each other, which means push each other away.",
    "example": "A fridge magnet holds a list on the steel door.",
    "art": "Two bar magnets, one pair pulling together and one pair pushing apart."
   },
@@ -138,13 +138,13 @@
   },
   {
    "term": "Electron",
-   "meaning": "An even tinier bit on the outside of every atom. Electrons carry electric charge, so electrons push other electrons away.",
+   "meaning": "A particle far tinier than an atom, found in the outer part of every atom. Electrons carry electric charge, and electrons repel other electrons, which means they push each other away.",
    "example": "When your hand presses on a wall, the electrons of your hand and the wall push each other apart.",
    "art": "Two atoms side by side, their electron clouds nudging each other apart."
   },
   {
    "term": "Newton",
-   "meaning": "The unit for measuring the size of a force. It is named after the scientist Isaac Newton. You will learn to measure newtons in the forcemeters unit.",
+   "meaning": "The unit for measuring the size of a force. It is named after the scientist Isaac Newton. You will learn to measure forces in newtons in the Measuring forces unit.",
    "example": "Holding up a small apple takes a force of about 1 newton.",
    "art": "A hand holding a small apple, '1 newton' written beside it."
   },
@@ -160,7 +160,7 @@
    "concept": "What a force is",
    "status": "defined",
    "definition": "A force is a push or a pull on something. Forces change how things move, and they can change their shape.",
-   "description": "Nothing starts moving by itself. A ball on the floor stays still until something pushes it. Once it is rolling, something has to push against it to stop it. That push or pull is a force. You cannot see a force. You can only see what it does. Some actions are a push and a pull at once. Turning a tap is a push on one side and a pull on the other. We call that a twist.",
+   "description": "Nothing starts moving by itself. A ball on the floor stays still until something pushes it. Once it is rolling, something has to push against it to stop it. That push or pull is a force. You cannot see a force. You can only see what it does. Some actions are a push and a pull at once. Turning a tap pushes one side of it away and pulls the other side towards you. We call that a twist.",
    "examples": [
     "Opening the fridge is a pull. Closing it is a push.",
     "Squeezing toothpaste is a push. Picking up a school bag is a pull.",
@@ -174,7 +174,7 @@
    "concept": "What forces do to moving things",
    "status": "defined",
    "definition": "A force can start a thing moving, stop it, speed it up, slow it down or change its direction.",
-   "description": "Think of one cricket ball in one over. The bowler's push starts it moving. The bat's push changes its direction and speeds it up. The air and the grass slow it down. The fielder's hands stop it. Each change needs a force. If no force acts, nothing changes. A still thing stays still, and a moving thing keeps going the same way. Forces can also squash, stretch and twist things out of shape. That is a whole unit of its own, called Forces change shape.",
+   "description": "Think of one cricket ball in one over. The bowler's push starts it moving. The bat's push changes its direction and speeds it up. The air and the grass slow it down. The fielder's hands stop it. Each change needs a force. If no force acts, nothing changes. A still thing stays still, and a moving thing keeps going the same way. Forces can also squash, stretch and twist things out of shape. You will meet that in the Stretching springs unit.",
    "examples": [
     "Start: you push a toy car and it begins to roll.",
     "Stop: a goalkeeper catches the ball.",
@@ -183,7 +183,7 @@
     "Change direction: a carrom coin hits the edge of the board and bounces off sideways."
    ],
    "perspectives": [],
-   "art": "A cricket ball's journey in five small panels, each with an arrow: bowled, hit, slowing on grass, caught.",
+   "art": "A cricket ball's journey in four small panels, each with an arrow: bowled, hit, slowing on the grass, caught.",
    "context": "This card follows one cricket ball to show the five jobs a force can do to a moving thing."
   },
   {
@@ -236,7 +236,7 @@
    "examples": [
     "A balloon lets out its air. It pushes the air backwards, and the air pushes the balloon forwards.",
     "Jump off a small boat and the boat moves backwards.",
-    "A boatman on the backwaters pushes a long pole against the river bed. The river bed pushes the boat along."
+    "A boatman on the backwaters pushes a long pole back against the river bed. The river bed pushes the pole forward, and the boat moves forward with it."
    ],
    "perspectives": [],
    "art": "A child on a skateboard pushing a wall, two equal arrows: one on the wall pointing at it, one on the child pointing back.",
@@ -246,7 +246,7 @@
    "concept": "Pushes and pulls from far away",
    "status": "defined",
    "definition": "Some forces only work when things touch. These are contact forces. Others can push or pull across a gap. These are forces at a distance, also called non-contact forces. Gravity, magnetic forces and electric forces can act at a distance.",
-   "description": "Most pushes and pulls need touching. You cannot push a swing without touching it. But a magnet can pull a pin from across the table. A balloon rubbed on your hair can pull little bits of paper up into the air. And the Earth pulls a mango down from a tree without any rope. Gravity even reaches out to the Moon, about 3,84,000 kilometres away, and holds it in its path. How a pull can cross empty space puzzled even Isaac Newton. He wrote, in 1713, that he would not make up a guess about how gravity works.",
+   "description": "Most pushes and pulls need touching. You cannot push a swing without touching it. But a magnet can pull a pin from across the table. A balloon rubbed on your hair attracts little bits of paper up into the air. And the Earth pulls a mango down from a tree without any rope. Gravity even reaches out to the Moon, about 3,84,000 kilometres away, and holds it in its path. How a pull can cross empty space puzzled even Isaac Newton. He wrote, in 1713, that he would not make up a guess about how gravity works.",
    "examples": [
     "A magnet under a sheet of paper drags a paper clip on top of it.",
     "A rubbed balloon makes your hair stand up towards it.",
@@ -282,7 +282,7 @@
    ],
    "perspectives": [],
    "art": "A peepal sapling splitting an old brick wall, with arrows showing the roots pushing outwards.",
-   "context": "Only living things push and pull? This card shows that plants, water, wind and even whole continents do too."
+   "context": "Do only people and animals push and pull? This card shows that plants, water, wind and even whole continents do too."
   },
   {
    "concept": "Do things ever really touch?",
@@ -326,7 +326,7 @@
    "concept": "Light can push",
    "status": "defined",
    "definition": "Light pushes very gently on anything it hits. Scientists call this radiation pressure.",
-   "description": "Sunlight on your face pushes on you, but far too gently to feel. In space, with no air and no friction, even this tiny push adds up. That is why the tail of a comet always points away from the Sun. Sunlight and a wind of tiny bits from the Sun push the comet's dust and gas outwards. Engineers have used this push to sail through space. In 2010, Japan's space agency flew a spacecraft called IKAROS. It had a huge, thin sail, and sunlight pushed it between the planets. It was the first sail of its kind to work far out in space.",
+   "description": "Sunlight on your face pushes on you, but far too gently to feel. In space, with no air and no friction, even this tiny push adds up. That is why the tail of a comet always points away from the Sun. Sunlight pushes the comet's dust outwards. A stream of tiny particles from the Sun, called the solar wind, pushes its gas outwards. Engineers have used this push to sail through space. In 2010, Japan's space agency flew a spacecraft called IKAROS. It had a huge, thin sail, and sunlight pushed it between the planets. It was the first sail of its kind to work far out in space.",
    "examples": [
     "A comet's tail points away from the Sun, even when the comet is moving away from the Sun.",
     "A solar sail is thinner than a hair, and as big as a room or bigger."
@@ -339,7 +339,7 @@
    "concept": "Why does a thrown ball keep going?",
    "status": "defined",
    "definition": "A moving thing keeps moving at the same speed in the same direction unless a force changes it. You only need a force to change motion, not to keep it going.",
-   "description": "Throw a ball. Once it leaves your hand, nothing is pushing it forward. So why does it keep going? People argued about this for about 2,000 years. Here are the main answers. Only the last one is accepted today. We know because spacecraft prove it. Voyager 1 was launched in 1977. Its engines have been off for decades, yet it is still coasting away from us, now more than 24 billion kilometres from Earth.",
+   "description": "Throw a ball. Once it leaves your hand, nothing is pushing it forward. So why does it keep going? People argued about this for about 2,000 years. Here are the main answers. Only the last one is accepted today. We know because spacecraft prove it. Voyager 1 was launched in 1977. For more than 40 years no engine has pushed it forward, yet it is still coasting away from us, now more than 24 billion kilometres from Earth.",
    "examples": [
     "A carrom coin keeps sliding after you flick it, until friction stops it.",
     "In a space station, a pushed pen floats across the room in a straight line until it hits a wall."
@@ -388,7 +388,7 @@
     },
     {
      "who": "Particle physicists today",
-     "explanation": "Forces are carried by tiny particles passing between things. Light particles, called photons, carry the electric force. Some physicists think gravity is carried by a particle called the graviton, but nobody has ever found one."
+     "explanation": "Forces are carried by tiny particles passing between things. Particles of light, called photons, carry the electric force. Some physicists think gravity is carried by a particle called the graviton, but nobody has ever found one."
     }
    ],
    "art": "Two magnets pushing apart, with four thought bubbles above them showing an arrow, a question mark, a bent sheet of space, and tiny particles flying between.",
@@ -402,7 +402,7 @@
   },
   {
    "text": "Forces change motion. A force is needed to start, stop, speed up, slow down or turn something, but not to keep it moving.",
-   "evidence": "Voyager 1 was launched in 1977. Its engines have long been switched off, yet it keeps coasting away from the Sun. On Earth, things only stop because friction and air push against them."
+   "evidence": "Voyager 1 was launched in 1977. For more than 40 years no engine has pushed it forward, yet it keeps coasting away from the Sun. On Earth, things only stop because friction and air push against them."
   },
   {
    "text": "Forces come in pairs that are equal in size and opposite in direction.",
@@ -414,7 +414,7 @@
   },
   {
    "text": "Deep down, almost every push and pull in daily life is an electric force between atoms. Physicists know of four basic forces in all: gravity, the electromagnetic force, and two forces that act only inside atoms.",
-   "evidence": "Experiments since the 1800s showed that light, electricity and magnetism are one force. Experiments in the 1900s found the two forces inside atoms."
+   "evidence": "Experiments in the 1800s showed that electricity and magnetism are one force, and that light is a wave of that force. Experiments in the 1900s found the two forces inside atoms."
   }
  ],
  "challenging": [
@@ -499,14 +499,14 @@
    "hint": "Can you think of anything that nothing pulls on at all?"
   },
   {
-   "q": "Every push gets a push back. When you are unkind to someone, does something push back? Is that the same kind of rule, or just a nice story?",
-   "kind": "big",
-   "hint": "A science rule can be tested. How would you test a rule about people?"
+   "q": "To walk forward, you push the floor backwards. So when you walk across a room, does the floor move too?",
+   "kind": "deep",
+   "hint": "Think of jumping off a small boat. What does the boat do? Now imagine the boat is as big as the Earth."
   },
   {
-   "q": "When two people pull the same way, their pulls add up. When they pull against each other, they cancel out. What does your family pull together on?",
-   "kind": "big",
-   "hint": "Think of moving a heavy almirah, or planning a festival."
+   "q": "Imagine you are floating alone in space, a little way from your spaceship, with nothing to hold. How could you get back?",
+   "kind": "deep",
+   "hint": "A rocket throws its gas backwards to go forwards. What could you throw?"
   },
   {
    "q": "Newton got the fame, but Émilie du Châtelet made his book readable for a whole country. Who should get the credit for an idea: the person who finds it, or the people who help everyone understand it?",
@@ -667,7 +667,7 @@
      "do": "After a few rounds, ask your child to draw one round as arrows on the rope.",
      "say": "Draw the last round on paper. Draw each team's total as one arrow. Make the arrow as many centimetres long as the total.",
      "kid": "Draw the last round. Draw one arrow for each team. Make each arrow as long as its total, in centimetres.",
-     "think": "Two small pulls the same way can beat one big pull. Where else do lots of small efforts beat one big one?"
+     "think": "Two short arrows the same way can add up to more than one long arrow. Is there something at home that two people can push, but one cannot?"
     },
     {
      "id": "s5",
@@ -811,7 +811,7 @@
       "a": 1,
       "why": "A magnet pulls across a gap, so it is a force from far away. Picking 'touching force' usually comes from seeing the pins stuck to the magnet at the end. The pull started before they touched."
      },
-     "parent": "Forces from far away on the cards: the magnet, the falling mango, the rubbed balloon, the Moon pulling the sea. The sunlight pushing a comet's tail touches it, in a way, but it comes from 150 million kilometres away. That one is a good argument to have."
+     "parent": "Forces from far away on the cards: the magnet, the falling mango, the rubbed balloon and the Moon pulling the sea. Sunlight pushing a comet's tail is a good one to argue about. The light touches the tail, but it has come all the way from the Sun."
     },
     {
      "id": "s4",
@@ -853,7 +853,7 @@
       "A push or a pull",
       "Only something that makes things go fast",
       "Only something living things do",
-      "A kind of energy drink"
+      "Only something heavy things have"
      ],
      "a": 0,
      "why": "A force is any push or pull. Picking 'only living things' is a common idea. But magnets, wind and the Earth push and pull too."
@@ -900,11 +900,11 @@
      "opts": [
       "Only a push",
       "Only a pull",
-      "A twist: a push on one side and a pull on the other",
+      "A twist: you push one side away and pull the other side towards you",
       "Not a force"
      ],
      "a": 2,
-     "why": "Your fingers push on one side of the tap and pull on the other, so it turns. Picking only a push or only a pull is close, but misses the other side of the hand."
+     "why": "Your fingers push one side of the tap away and pull the other side towards you, so it turns. Picking only a push or only a pull is close, but misses the other side of the hand."
     },
     {
      "t": "match",
@@ -1338,9 +1338,9 @@
     },
     {
      "t": "write",
-     "p": "Why is it harder to stop a swing by pushing it from behind? Use the word direction.",
+     "p": "A swing is moving away from you. Why can't you stop it by pushing it from behind? Use the word direction.",
      "lines": 3,
-     "a": "Pushing from behind is the same direction the swing is going, so it speeds it up. To stop it, you must push in the opposite direction, against the way it moves.",
+     "a": "Pushing from behind is in the same direction the swing is going, so it speeds the swing up. To stop it, you must push in the opposite direction, from the front.",
      "why": "The direction of a force decides what it does to a moving thing."
     },
     {
@@ -1386,7 +1386,7 @@
      "t": "mcq",
      "p": "Why does a comet's tail always point away from the Sun?",
      "opts": [
-      "Sunlight and a wind of tiny bits from the Sun push the dust and gas outwards",
+      "Sunlight and the solar wind, a stream of tiny particles from the Sun, push the dust and gas outwards",
       "The comet is always moving away from the Sun",
       "The Sun's gravity pulls the tail backwards",
       "The tail is a shadow"
@@ -1399,7 +1399,7 @@
      "t": "truefalse",
      "p": "A spacecraft coasting in empty space needs its engine on all the time to keep moving.",
      "a": false,
-     "why": "False. With nothing to slow it, it keeps going. Voyager 1 has coasted since 1977 with its main engines off. You only need a force to change motion."
+     "why": "False. With nothing to slow it, it keeps going. Voyager 1 has coasted since the early 1980s with no engine pushing it forward. You only need a force to change motion."
     },
     {
      "t": "match",
@@ -1538,10 +1538,10 @@
     },
     {
      "t": "write",
-     "p": "Everything pulls everything with gravity. Write two sentences about what this means to you.",
+     "p": "Everything pulls everything with gravity. You are pulling on the Moon right now. Why can't you feel it?",
      "lines": 3,
-     "a": "Any thoughtful answer. For example: I am pulling on the Moon and the Sun right now, and they are pulling on me. Nothing in the universe is completely alone.",
-     "why": "This is a big question. Any honest answer with a reason is good."
+     "a": "Any answer with a reason. For example: my pull on the Moon is very small, because I am small and the Moon is far away. The Moon is so huge that my pull hardly changes how it moves.",
+     "why": "Gravity between two things is bigger when they are heavier and closer. A child and the Moon pull each other very weakly."
     },
     {
      "t": "draw",
@@ -1560,11 +1560,11 @@
    "mins": 25,
    "days": 1,
    "question": "When you push a wall, does the wall push you? Does a harder push make you go further?",
-   "predict": "Guess first. You sit on a towel on a smooth floor, with your feet against the wall. You push the wall with your feet. Will you move? Which way? Will a hard push send you further than a gentle push?",
+   "predict": "Guess first. You sit on a towel on a smooth floor, with your feet against the wall. You push the wall with your feet. Will you move? Which way? Will a hard push send you further than a gentle push? Why do you think so?",
    "fair_test": "Change only how hard you push: gentle, medium and hard. Keep the same towel, the same floor and the same starting place against the wall. Try each push 3 times, because one try can be a fluke.",
    "results_table": [
     "How hard the push was",
-    "Try 1: distance rolled (cm)",
+    "Try 1: distance slid (cm)",
     "Try 2 (cm)",
     "Try 3 (cm)",
     "Middle value (cm)"
@@ -1575,17 +1575,17 @@
      "qty": 1
     },
     {
-     "item": "a smooth floor next to a clear wall",
+     "item": "a smooth floor next to a clear wall, such as tiles or marble",
      "qty": 1
     },
     {
-     "item": "a measuring tape",
+     "item": "a measuring tape (a tailor's tape works)",
      "qty": 1,
      "buy": "b-tape"
     },
     {
-     "item": "a piece of chalk or tape to mark where you stop",
-     "qty": 1
+     "item": "two pieces of chalk or sticky tape, to mark where the towel starts and stops",
+     "qty": 2
     }
    ],
    "safety": "A grown-up stays close. Clear the floor of furniture and anything sharp. Push with your feet, not your head. Never stand on a skateboard for this.",
@@ -1593,7 +1593,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Push the wall gently, medium and hard, 3 times each. Measure how far you slide."
+     "what": "Push the wall gently, medium and hard, 3 times each. Measure how far you slide each time."
     }
    ],
    "record": "Fill in the table. Draw yourself pushing the wall, with one arrow for your push on the wall and one arrow for the wall's push on you.",
@@ -1604,11 +1604,11 @@
     },
     {
      "art": "The same child pushing with straight legs, sliding away from the wall on the towel, a grown-up kneeling beside.",
-     "caption": "2. Push the wall with your feet. Slide away."
+     "caption": "2. Mark the back edge of the towel. Push the wall with your feet."
     },
     {
-     "art": "A grown-up holding a measuring tape from the wall to the edge of the towel, a chalk mark on the floor.",
-     "caption": "3. Mark where you stopped. Measure from the wall."
+     "art": "A grown-up holding a measuring tape between two chalk marks on the floor, one where the towel started and one where it stopped.",
+     "caption": "3. Mark where the towel stopped. Measure between the two marks."
     }
    ],
    "flow": [
@@ -1634,10 +1634,10 @@
      "id": "s2",
      "mins": 10,
      "adult": true,
-     "do": "1. Your child pushes the wall gently with both feet. 2. Mark where the back of the towel stops with chalk. 3. Measure from the wall to the mark. 4. Do it 3 times each for a gentle, a medium and a hard push.",
-     "say": "Push gently. Now let's measure how far you slid. Now a medium push. Now your hardest push.",
-     "kid": "Push gently and mark where you stop. Measure it. Then push medium, then hard. Do each push 3 times.",
-     "parent": "Your child pushed the wall, but they moved. Something must have pushed them. The only thing touching their feet was the wall. To find the middle value, put the three numbers in order and take the middle one."
+     "do": "1. Mark the floor at the back edge of the towel. 2. Your child pushes the wall gently with both feet. 3. Mark where the back edge of the towel stops. 4. Measure between the two marks. 5. Do it 3 times each for a gentle, a medium and a hard push.",
+     "say": "Push gently. Now let's measure how far you slid. Now try a medium push. Now your hardest push.",
+     "kid": "Push gently. Mark where the towel stops. Measure from the first mark. Then push medium, then hard. Do each push 3 times.",
+     "parent": "Measure from the starting mark, not from the wall, so the length of your child's legs is not counted. If your child hardly slides, try a smoother floor, or a flattened cardboard box instead of the towel. To find the middle value, put the three numbers in order and take the middle one."
     },
     {
      "id": "s3",
@@ -1656,7 +1656,7 @@
       "a": 0,
       "why": "The only thing touching your feet was the wall, so the wall pushed you. Picking 'nothing' means the wall's push back was not noticed. Nothing starts moving without a force."
      },
-     "parent": "This is a force pair. Your child pushed the wall, and the wall pushed back on your child, just as hard, the opposite way. The wall does not move because it is fixed to the whole house and the Earth."
+     "parent": "Wait for your child's answer before you explain. Then: this is a force pair. Your child pushed the wall, and the wall pushed back on your child, just as hard, the opposite way. The only thing touching their feet was the wall. The wall does not move because it is fixed to the whole house and the Earth."
     },
     {
      "id": "s4",
@@ -1666,23 +1666,23 @@
      "kid": "Draw an arrow for your push on the wall. Draw an arrow for the wall's push on you. Make them the same length.",
      "chart": {
       "type": "bar",
-      "title": "Made-up example results: how far the child rolled after pushing the wall",
+      "title": "Made-up example results: how far the child slid after pushing the wall",
       "x": "How hard the push was",
-      "y": "How far the child rolled (cm)",
+      "y": "How far the child slid (cm)",
       "data": [
        {
         "label": "Gentle push",
-        "value": 40,
+        "value": 30,
         "emoji": "🤏"
        },
        {
         "label": "Medium push",
-        "value": 110,
+        "value": 80,
         "emoji": "✋"
        },
        {
         "label": "Hard push",
-        "value": 190,
+        "value": 140,
         "emoji": "💪"
        }
       ],
@@ -1695,31 +1695,31 @@
      "mins": 4,
      "how": "e1",
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: when I push the wall, the wall pushes me back. What I saw: my gentle push slid me about 40 cm, but my hard push slid me about 190 cm. Why: the harder I push the wall, the harder the wall pushes me."
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: when I push the wall, the wall pushes me back. What I saw: my gentle push slid me about 30 cm, but my hard push slid me about 140 cm. Why: the harder I push the wall, the harder the wall pushes me."
     }
    ],
    "context": "In this experiment, you sit on a towel on a smooth floor and push a wall with your feet. You find out whether the wall pushes you back.",
    "example_chart": {
     "type": "bar",
-    "title": "Made-up example results: how far the child rolled after pushing the wall",
+    "title": "Made-up example results: how far the child slid after pushing the wall",
     "x": "How hard the push was",
-    "y": "How far the child rolled (cm)",
+    "y": "How far the child slid (cm)",
     "data": [
      {
       "label": "Gentle push",
-      "value": 40,
+      "value": 30,
       "emoji": "🤏"
      },
      {
       "label": "Medium push",
-      "value": 110,
+      "value": 80,
       "emoji": "✋"
      },
      {
       "label": "Hard push",
-      "value": 190,
+      "value": 140,
       "emoji": "💪"
      }
     ],
@@ -1732,8 +1732,8 @@
    "mins": 30,
    "days": 1,
    "question": "Which way does a balloon move when it lets its air out? Does more air send it further?",
-   "predict": "Guess first. When the air rushes out of the balloon's neck, will the balloon go the same way as the air, or the opposite way? Will a balloon with 6 breaths go further than one with 2 breaths?",
-   "fair_test": "Change only the number of breaths: 2, then 4, then 6. Use the same balloon, the same string and the same start. Try each one 2 or 3 times.",
+   "predict": "Guess first. When the air rushes out of the balloon's neck, will the balloon go the same way as the air, or the opposite way? Will a balloon with 9 breaths go further than one with 3 breaths? Why do you think so?",
+   "fair_test": "Change only the number of breaths: 3, then 6, then 9. Use the same balloon, the same string and the same starting place. Try each one 2 or 3 times, because one try can be a fluke.",
    "results_table": [
     "Breaths of air",
     "Try 1: distance (cm)",
@@ -1743,12 +1743,12 @@
    ],
    "materials": [
     {
-     "item": "a long balloon (round ones work too)",
+     "item": "a balloon, round or long",
      "qty": 3,
      "buy": "b-balloons"
     },
     {
-     "item": "a smooth string about 5 metres long",
+     "item": "a smooth string, about 4 metres long, or as long as your room allows",
      "qty": 1
     },
     {
@@ -1765,17 +1765,17 @@
      "qty": 2
     },
     {
-     "item": "a measuring tape",
+     "item": "a measuring tape (a tailor's tape works)",
      "qty": 1,
      "buy": "b-tape"
     }
    ],
-   "safety": "Do not let small children put balloons in their mouths to chew. Throw away burst balloon pieces at once. A grown-up blows up balloons if the child finds it hard.",
+   "safety": "Do not let small children chew balloons. Throw away burst balloon pieces at once. A grown-up blows up the balloon if the child finds it hard.",
    "schedule": [
     {
      "day": 1,
      "mins": 30,
-     "what": "Build the balloon rocket. Test 2, 4 and 6 breaths. Measure how far it goes."
+     "what": "Build the balloon rocket. Test 3, 6 and 9 breaths. Measure how far it goes."
     }
    ],
    "record": "Fill in the table. Draw the balloon with two arrows: one for the air pushed out backwards, and one for the push on the balloon.",
@@ -1805,9 +1805,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Blow 2 breaths into the balloon. 2. Pinch the neck shut. Do not tie it. 3. Tape the balloon under the straw, with its neck pointing towards one chair. 4. Slide it to that chair.",
-     "say": "Two breaths only. Hold the neck shut. Which way will the air rush out? Which way will the balloon go?",
-     "kid": "Blow 2 breaths into the balloon. Pinch the neck. Tape it under the straw. Which way will it go?",
+     "do": "1. Blow 3 breaths into the balloon. 2. Pinch the neck shut. Do not tie it. 3. While one person pinches, the other tapes the balloon under the straw, with its neck pointing towards one chair. 4. Slide it to that chair.",
+     "say": "Three breaths only. Hold the neck shut. Which way will the air rush out? Which way will the balloon go? Why do you think so?",
+     "kid": "Blow 3 breaths into the balloon. Pinch the neck. Tape it under the straw. Which way will it go?",
      "ask": [
       {
        "q": "Which way will the balloon go when you let go?",
@@ -1821,9 +1821,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Let go. 2. Measure from the start to where the straw stopped. 3. Write it down. 4. Repeat with 4 breaths and 6 breaths.",
-     "say": "Let go! How far did it go? Now let's try 4 breaths, then 6.",
-     "kid": "Let go! Measure how far it went and write it down. Then try 4 breaths. Then try 6.",
+     "do": "1. Let go. 2. Measure from the start to where the straw stopped. 3. Write it down. If it reaches the end of the string, write 'reached the end'. 4. Repeat with 6 breaths and 9 breaths.",
+     "say": "Let go! How far did it go? Now let's try 6 breaths, then 9.",
+     "kid": "Let go! Measure how far it went. Write it down. Then try 6 breaths. Then try 9.",
      "check": {
       "t": "mcq",
       "q": "The air rushes out of the balloon's neck backwards. Which way does the balloon go?",
@@ -1835,7 +1835,7 @@
       "a": 1,
       "why": "The balloon pushes air backwards, and the air pushes the balloon forwards. Picking 'backwards' means the balloon was pictured being carried along with its air."
      },
-     "parent": "The balloon squeezes the air and pushes it out backwards. The air pushes the balloon forwards just as hard. That forward push is called thrust. Real rockets work the same way, with hot gas instead of air. They do not need air outside to push against."
+     "parent": "Ask for your child's answer to the check first. Then: the balloon squeezes the air and pushes it out backwards. The air pushes the balloon forwards just as hard. That forward push is called thrust. Real rockets work the same way, with hot gas instead of air. They do not need air outside to push against."
     },
     {
      "id": "s4",
@@ -1850,18 +1850,18 @@
       "y": "Distance along the string (cm)",
       "data": [
        {
-        "label": "2 breaths",
-        "value": 80,
-        "emoji": "🎈"
-       },
-       {
-        "label": "4 breaths",
-        "value": 170,
+        "label": "3 breaths",
+        "value": 90,
         "emoji": "🎈"
        },
        {
         "label": "6 breaths",
-        "value": 260,
+        "value": 200,
+        "emoji": "🎈"
+       },
+       {
+        "label": "9 breaths",
+        "value": 300,
         "emoji": "🎈"
        }
       ],
@@ -1874,9 +1874,9 @@
      "mins": 4,
      "how": "e2",
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the balloon goes the opposite way to the air. What I saw: the air rushed out backwards and the balloon zoomed forwards. With 6 breaths it went much further than with 2. Why: the balloon pushes the air back, and the air pushes the balloon forward. More air means it pushes for longer."
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the balloon goes the opposite way to the air. What I saw: the air rushed out backwards and the balloon zoomed forwards. With 9 breaths it went much further than with 3. Why: the balloon pushes the air back, and the air pushes the balloon forward. More air means it pushes for longer."
     }
    ],
    "context": "In this experiment, a balloon is taped under a straw that slides along a string. When the balloon lets its air out, you see which way it goes, and how far.",
@@ -1887,18 +1887,18 @@
     "y": "Distance along the string (cm)",
     "data": [
      {
-      "label": "2 breaths",
-      "value": 80,
-      "emoji": "🎈"
-     },
-     {
-      "label": "4 breaths",
-      "value": 170,
+      "label": "3 breaths",
+      "value": 90,
       "emoji": "🎈"
      },
      {
       "label": "6 breaths",
-      "value": 260,
+      "value": 200,
+      "emoji": "🎈"
+     },
+     {
+      "label": "9 breaths",
+      "value": 300,
       "emoji": "🎈"
      }
     ],
@@ -1911,7 +1911,7 @@
    "mins": 20,
    "days": 1,
    "question": "Does the direction of a push change which way a ball goes? What happens with two pushes at once?",
-   "predict": "Guess first. If you blow on a ping-pong ball from one side, which way will it go? If two people blow from opposite sides, equally hard? If they blow from two sides that make a corner?",
+   "predict": "Guess first. If you blow on a ping-pong ball from one side, which way will it go? If two people blow from opposite sides, equally hard? If they blow from two sides that make a corner? Why do you think so?",
    "fair_test": "Use the same ball and the same tray each time. Blow from about the same distance, about one hand-width away, and about as hard. Change only where you blow from.",
    "results_table": [
     "Who blew, and from where",
@@ -2038,8 +2038,8 @@
      "mins": 3,
      "how": "e3",
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a push sends the ball the way the push points. What I saw: one blow sent it straight away. Two equal blows from opposite sides kept it still. Two blows at a corner sent it slantwise. Why: pushes the same way add up, opposite pushes cancel, and corner pushes add into a slanting push."
     }
    ],
@@ -2159,15 +2159,14 @@
    "materials": [
     {
      "item": "a thick soft rope, or two old dupattas or sarees twisted together",
-     "qty": 1,
-     "buy": "b-rope"
+     "qty": 1
     },
     {
      "item": "a ribbon or cloth strip to mark the middle",
      "qty": 1
     },
     {
-     "item": "soft ground: grass, a durrie or a mat",
+     "item": "a floor that does not slip, such as bare tiles for bare feet, with cushions behind each player",
      "qty": 1
     },
     {
@@ -2175,7 +2174,7 @@
      "qty": 1
     }
    ],
-   "safety": "Play on grass or a mat. Never wrap the rope round hands, wrists or necks. The grown-up pulls gently and never lets go suddenly.",
+   "safety": "Play barefoot on a floor that does not slip, with cushions behind each player, or on grass. Never wrap the rope round hands, wrists or necks. The grown-up pulls gently and never lets go suddenly.",
    "schedule": [
     {
      "day": 1,
@@ -2186,7 +2185,7 @@
    "record": "Draw one round of the tug of war. Draw an arrow for each team's pull, and an arrow for the ground's push on each team's feet.",
    "setup": [
     {
-     "art": "A rope laid on grass with a ribbon tied in the middle and a chalk line under the ribbon.",
+     "art": "A rope laid on a tiled floor with a ribbon tied in the middle and a strip of tape on the floor under the ribbon.",
      "caption": "1. Tie a ribbon on the middle of the rope. Mark a line under it."
     },
     {
@@ -2203,7 +2202,7 @@
      "id": "s1",
      "mins": 3,
      "adult": true,
-     "do": "1. Lay the rope on grass or a mat. 2. Tie the ribbon on the middle. 3. Draw a line or lay a stick on the ground under the ribbon.",
+     "do": "1. Lay the rope on the floor. 2. Tie the ribbon on the middle. 3. Put a strip of tape or a stick on the floor under the ribbon. 4. Put cushions behind each player.",
      "say": "This is a gentle tug of war. The ribbon shows the middle of the rope. If the ribbon crosses to your side, you win.",
      "kid": "Fetch a grown-up. Tie a ribbon on the rope's middle. Mark a line under it. Pull the ribbon to your side to win.",
      "context": "This is the first step of the Gentle Tug of War activity. You play a safe tug of war and then draw it with force arrows."
@@ -2213,14 +2212,14 @@
      "mins": 6,
      "adult": true,
      "do": "1. Round 1: both of you stand tall and pull with your arms only. 2. Round 2: your child crouches low, leans back and digs their heels in. Keep your own pull the same.",
-     "say": "First round, stand tall and pull with your arms. Second round, crouch low and push your heels into the ground. Which felt stronger?",
+     "say": "First round, stand tall and pull with your arms. Second round, crouch low and push your heels into the floor. Which felt stronger? Why do you think so?",
      "kid": "Round 1: stand tall, pull with your arms. Round 2: crouch low. Push your heels into the ground. Which was stronger?",
      "ask": [
       {
-       "q": "Why was crouching and pushing your heels better?",
+       "q": "Which way felt stronger, and why do you think so?",
        "good": [
-        "My feet pushed the ground, and the ground pushed me back.",
-        "I could push the ground harder."
+        "Crouching. My feet pushed the floor, and the floor pushed me back.",
+        "Crouching, because I could push the floor harder."
        ]
       }
      ],
@@ -2323,9 +2322,9 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Lay the ruler across two tins like a bridge. 2. Put the small book in the middle. 3. Watch the ruler bend. 4. Take the book off and watch it spring back.",
-     "say": "Look how the ruler bends. It's pushing up on the book, like a little trampoline. The table does the same, but it bends too little to see.",
-     "kid": "Lay the ruler across two tins. Put a book in the middle. See it bend? It is pushing the book up!",
-     "parent": "This push from a surface is called the support force. Scientists also call it the normal force. The table's atoms get squeezed a tiny bit closer to the book's atoms, and they push back."
+     "say": "Look how the ruler bends under the book. What do you think the bent ruler is doing to the book?",
+     "kid": "Lay the ruler across two tins. Put a book in the middle. See it bend? What is the ruler doing?",
+     "parent": "Wait for your child's idea. Then: the bent ruler pushes up on the book, and the table does the same, but it bends too little to see. This push from a surface is called the support force. Scientists also call it the normal force. The table's atoms get squeezed a tiny bit closer to the book's atoms, and they push back."
     },
     {
      "id": "s3",
@@ -2363,7 +2362,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a fridge magnet or a bar magnet",
+     "item": "a bar magnet, or a strong round magnet. A flat, bendy fridge magnet is too weak for most of this.",
      "qty": 1,
      "buy": "b-magnet"
     },
@@ -2434,9 +2433,9 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Blow up the balloon and tie it. 2. Your child rubs it on their dry hair for 10 seconds. 3. They hold it just above the tissue bits.",
-     "say": "Rub the balloon on your hair. Hold it over the paper. The paper jumps up to it. That is an electric pull, from far away.",
+     "say": "Rub the balloon on your hair. Hold it over the paper. What happens? Nothing touched the paper. What do you think pulled it?",
      "kid": "Rub the balloon on your hair. Hold it over the paper bits. Watch them jump up!",
-     "parent": "Rubbing moves some electrons from the hair to the balloon. The balloon then pulls on the paper with an electric force. On a humid monsoon day it may not work well, because damp air carries the charge away."
+     "parent": "After your child's guess: that is an electric force, working across a gap. Rubbing moves some electrons from the hair to the balloon. The balloon then attracts the paper. On a humid monsoon day it may not work well, because damp air carries the charge away. Try again in a room with a fan or air conditioner."
     },
     {
      "id": "s3",
@@ -2684,7 +2683,7 @@
       "a": 0,
       "why": "Leaning back and staying still means the two pulls cancel, so they are balanced. Picking 'unbalanced' means you would both be falling one way."
      },
-     "think": "In a partner pose, you hold each other up. Are there people in your life who balance you like that?"
+     "think": "In the boat pose, which way does each of you pull? What would happen to your partner if you let go?"
     }
    ],
    "context": "This activity uses dance and partner yoga to feel pushes, pulls and balance with your whole body."
@@ -3021,7 +3020,7 @@
    "creative": [
     "Make the marble bounce off two walls, like a carrom coin off the edges of the board.",
     "Use a second marble, waiting at the corner, to be hit and sent on.",
-    "Lay a magnet under the tray at the corner to pull a steel ball round."
+    "If you have a steel ball instead of a marble, lay a magnet under the tray at the corner to pull it round."
    ],
    "your_turn": "Draw your path from above. Draw an arrow at each place where something pushes the marble. Then build it and test it.",
    "setup": [
@@ -3095,7 +3094,7 @@
    "check": "Video id recalled, not opened from here. A parent should check it plays and is the CrashCourse episode before showing it."
   },
   {
-   "title": "Forces: push and pull (SciShow Kids)",
+   "title": "Swings, Slides, and Science | Physics for Kids",
    "channel": "SciShow Kids",
    "youtube": "JvSClZ3vHOI",
    "mins": 4,
@@ -3103,11 +3102,11 @@
    "check": "Found by YouTube search: \"Swings, Slides, and Science | Physics for Kids\" by SciShow Kids. Title checked automatically; a parent may still preview it."
   },
   {
-   "title": "A solar sail in space: IKAROS, pushed by sunlight",
-   "channel": "JAXA, the Japan Aerospace Exploration Agency, or a science channel",
+   "title": "Solar Sails Explained | The Spaceships Powered by Light",
+   "channel": "Science Workshop",
    "youtube": "MERtPPEPGT4",
    "mins": 3,
-   "why": "Shows the gentlest push there is: sunlight pushing a huge thin sail between the planets.",
+   "why": "Shows the gentlest push there is: sunlight pushing a huge thin sail through space, with the IKAROS sail from 2010.",
    "check": "Found by YouTube search: \"Solar Sails Explained | The Spaceships Powered by Light\" by Science Workshop. Title checked automatically; a parent may still preview it."
   }
  ],
@@ -3424,7 +3423,7 @@
   "You walked to the door. What pushed you forward?",
   "If everything pulls everything, what are you pulling right now?",
   "What would happen if you pushed a ball in space and nothing stopped it?",
-  "Who in our family pulls together with you on something?"
+  "You are pushing down on your chair. What is the chair doing to you?"
  ],
  "jokes": [
   {
@@ -3481,7 +3480,7 @@
   },
   {
    "j": "What do you call two equal teams in a tug of war?",
-   "a": "A tie-dye. Nobody moves."
+   "a": "Balanced. And very tired."
   },
   {
    "j": "Why did the swing stop talking to the child?",
@@ -3559,18 +3558,18 @@
    "context": "Arrow Wars is this unit's card game about tug of war. Each card is an arrow, and its length is the size of a pull."
   },
   {
-   "problem": "In the Push the Wall experiment, these were the three tries for a hard push: 180 cm, 195 cm and 190 cm. What is the middle value?",
-   "answer": "190 cm.",
-   "explain": "Put the three numbers in order: 180, 190, 195. The middle one is 190. So the middle value is 190 cm. We use the middle value because one try can be a fluke.",
+   "problem": "In the Push the Wall experiment, these were the three tries for a hard push: 130 cm, 150 cm and 140 cm. What is the middle value?",
+   "answer": "140 cm.",
+   "explain": "Put the three numbers in order: 130, 140, 150. The middle one is 140. So the middle value is 140 cm. We use the middle value because one try can be a fluke.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
    "why_maths": "Ordering your tries and picking the middle one gives a fair result, even if one try went wrong.",
    "how": "e1",
    "context": "In the Push the Wall experiment, you sit on a towel and push a wall with your feet, then measure how far you slid."
   },
   {
-   "problem": "The balloon rocket went 80 cm with 2 breaths, 170 cm with 4 breaths and 260 cm with 6 breaths. Look at the chart. How much further did it go with 6 breaths than with 2 breaths?",
-   "answer": "180 cm further.",
-   "explain": "260 take away 80 is 180. So with 6 breaths, the balloon went 180 cm further than with 2 breaths. That is 1 metre and 80 centimetres.",
+   "problem": "The balloon rocket went 90 cm with 3 breaths, 200 cm with 6 breaths and 300 cm with 9 breaths. Look at the chart. How much further did it go with 9 breaths than with 3 breaths?",
+   "answer": "210 cm further.",
+   "explain": "300 take away 90 is 210. So with 9 breaths, the balloon went 210 cm further than with 3 breaths. That is 2 metres and 10 centimetres.",
    "math_unit": "math.data.bar-charts.L3",
    "why_maths": "A bar chart shows at a glance which balloon went furthest, and subtracting tells you exactly by how much.",
    "how": "e2",
@@ -3581,18 +3580,18 @@
     "y": "Distance along the string (cm)",
     "data": [
      {
-      "label": "2 breaths",
-      "value": 80,
-      "emoji": "🎈"
-     },
-     {
-      "label": "4 breaths",
-      "value": 170,
+      "label": "3 breaths",
+      "value": 90,
       "emoji": "🎈"
      },
      {
       "label": "6 breaths",
-      "value": 260,
+      "value": 200,
+      "emoji": "🎈"
+     },
+     {
+      "label": "9 breaths",
+      "value": 300,
       "emoji": "🎈"
      }
     ],
@@ -3699,7 +3698,7 @@
    "id": "b-tape",
    "item": "Measuring tape, at least 3 metres long",
    "kind": "tool",
-   "why": "Measures how far you slide, and how far the balloon rocket and balloon car go.",
+   "why": "Measures how far you slide, and how far the balloon rocket and balloon car go. A tailor's tape at home works too.",
    "url": "https://www.amazon.in/s?k=measuring+tape+3m",
    "used_in": [
     "e1",
@@ -3709,7 +3708,7 @@
   },
   {
    "id": "b-balloons",
-   "item": "Long balloons (a pack)",
+   "item": "Balloons, round or long (a pack)",
    "kind": "material",
    "why": "Powers the balloon rocket and the balloon car, and makes the electric pull in Forces From Far Away.",
    "url": "https://www.amazon.in/s?k=long+balloons",
@@ -3753,16 +3752,6 @@
     "c1"
    ],
    "plan": "Used again in the magnets units."
-  },
-  {
-   "id": "b-rope",
-   "item": "Soft cotton rope, about 5 metres",
-   "kind": "material",
-   "why": "A safe rope for the gentle tug of war.",
-   "url": "https://www.amazon.in/s?k=cotton+rope+5+metre",
-   "used_in": [
-    "a2"
-   ]
   },
   {
    "id": "b-book1",
@@ -3888,11 +3877,10 @@
   ],
   "spine": [
    "intro",
+   "e1",
    "story",
-   "a3",
    "explanations",
    "roots",
-   "big_questions",
    "quiz"
   ]
  },
@@ -3918,38 +3906,38 @@
   ]
  },
  "roots": {
-  "context": "We have been learning that every push and pull is a force, and forces come in pairs. Now we ask what pushing and pulling tell us about ourselves and the world.",
+  "context": "We have been learning that every push and pull is a force, and that forces come in pairs. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Every push is also a push back. No one acts alone.",
-   "habit": "We split the world into the one who acts and the one acted on. But when you push a wall, the wall pushes you exactly as hard.",
-   "evidence": "Pushing a wall or a friend on skates moves both of you."
+   "truth": "You cannot start moving by pushing on yourself. To go forward, you must push something else backwards. A walker pushes the floor, and a balloon pushes out its air. Even a rocket in empty space moves only by throwing its gas behind it.",
+   "habit": "We say a person walks, or a rocket flies, by its own power, as if moving were something done alone. But every start needs something else to push against: the floor, the water, the air or the rocket's own gas.",
+   "evidence": "In Push the Wall, you moved only because you pushed the wall and the wall pushed you back. The balloon rocket went forwards only by pushing its air backwards."
   },
   "three": {
-   "who_am_i": "When you push a wall, it pushes you back. You are always in a meeting.",
-   "what_is_life": "Your muscles can only pull. Yet together they let you push, lift and hug.",
-   "what_is_this_world": "The Sun pulls the Earth. The Earth pulls you. You pull everything back."
+   "who_am_i": "Every time you push something, it pushes you back. You are never only the one who pushes.",
+   "what_is_life": "Your muscles can only pull. Yet by pulling on your bones, they let you push, lift and hug.",
+   "what_is_this_world": "The Sun pulls the Earth, and the Earth pulls you. You pull them both back, just as hard."
   },
-  "thread": "Every force comes in a pair: a push here means a push back there. So no thing ever acts alone. DeepKids believes this is the One showing itself as many, each part always answering the others. You push, the world answers. You and the world are two sides of one meeting.",
+  "thread": "Every force comes in a pair, acting on two different things. When you walk, you push the floor back, and the floor pushes you forward. The whole Earth even moves back a tiny bit under your feet. DeepKids believes this shows that no movement belongs to one thing alone: each step is shared between you and the ground. Science measures the sharing exactly, as two equal and opposite pushes.",
   "teachings": [
    {
     "source": "Empedocles, fragment DK B17",
-    "teaching": "Empedocles said two powers move everything. Love brings things together. Strife pushes them apart. The world is their endless dance.",
-    "link": "Pulls bring things together and pushes move them apart. Every change is a mix of the two."
+    "teaching": "Empedocles, a Greek thinker about 2,450 years ago, said two powers move everything. Love brings things together. Strife drives them apart.",
+    "link": "Physics also finds two kinds of force everywhere: attraction, which pulls things together, and repulsion, which pushes them apart. Electrons repelling electrons is what makes every touching push."
    },
    {
-    "source": "Kena Upanishad, part 3",
-    "teaching": "The wind god boasts he can blow away anything. A mysterious being puts down one blade of grass. The wind cannot move it. His power was never only his own.",
-    "link": "You cannot see a force, only what it does. And every push you make is answered by the world."
+    "source": "Bhagavad Gita 3.27",
+    "teaching": "All actions are done by the powers of nature. Only someone confused by pride thinks, 'I alone am the doer.'",
+    "link": "The Gita is talking about who does our actions, not about physics. But this unit finds something close: you could not slide away from the wall by yourself. You moved only because the wall pushed back."
    },
    {
     "source": "Marcus Aurelius, Meditations 4.40",
-    "teaching": "Think of the universe as one living being. Everything in it works with everything else, woven together.",
-    "link": "Every push has a push back, and everything pulls everything. Nothing in the world is truly alone."
+    "teaching": "Think of the universe as one living being. All things in it act together and help cause everything that happens.",
+    "link": "Every push has a push back, and everything pulls everything with gravity. No force in the world acts on one thing only."
    }
   ],
   "science": [
    {
-    "text": "Every push you feel is really electrons pushing other electrons away. Your hand never quite touches the wall.",
+    "text": "Every touching push you feel is the electrons in your hand and in the wall repelling each other.",
     "status": "settled"
    },
    {
@@ -3958,8 +3946,8 @@
    }
   ],
   "other_view": {
-   "who": "Madhva, a great Indian teacher",
-   "view": "Madhva taught that the soul and God are always two, never one. On his view, you and the world truly are separate, even when you push on each other."
+   "who": "Many physicists",
+   "view": "A force pair is just a rule for how two separate things act on each other. It shows they affect each other. It does not show they are one, or that a step is truly shared."
   },
   "practice": {
    "title": "Which hand is pushing?",
@@ -3969,9 +3957,15 @@
   },
   "ask": [
    "When you press your hands together, which one is pushing?",
-   "Is the wall pushing you back on purpose?",
-   "Where does your push really begin?"
+   "When you push a wall, which comes first, your push or the wall's push?",
+   "Is the wall pushing you back on purpose? How could you tell?"
   ],
   "art": "A child pressing palms against a wall, with matching arrows on both sides, and the Sun, Earth and Moon linked by faint arrows above."
+ },
+ "how_we_found_out": {
+  "who": "Robert Goddard, an American rocket scientist, using Isaac Newton's rule that forces come in pairs",
+  "when": "1687 to 1969",
+  "story": "For a long time, many people believed that a rocket needs air to push against. A swimmer pushes water and a bird pushes air, so it seemed a rocket must push on something outside it too. In 1919, the American scientist Robert Goddard wrote that a rocket might one day reach the Moon. In January 1920, the newspaper The New York Times laughed at him. It said a rocket could not work in empty space, because there is nothing there to push against. Goddard had already tested this. He fired small rockets inside a closed container with most of the air pumped out. They still pushed forward, as well as in air or even better. The answer was a rule Isaac Newton wrote down in 1687: every push comes with an equal push back. A rocket pushes its own hot gas out backwards, and the gas pushes the rocket forwards. No outside air is needed. On 17 July 1969, as Apollo 11 flew towards the Moon, the newspaper printed a correction.",
+  "wrong_idea": "People thought a rocket needs outside air to push against, so it could never work in empty space. Goddard's rockets pushed forward inside a container with the air pumped out."
  }
 }

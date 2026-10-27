@@ -1,9 +1,9 @@
-# Animals around us: their habits and homes
+# Animals around us: their daily habits and their homes
 `sci.animals.animals-around-us.L3`
 
-**Summary.** This unit is about the animals that live right next to us, in towns, villages and forests. A habit is something an animal does again and again, like a crow waking at first light or a bat flying out at dusk. Many animals build homes, but most use them only to raise their young or to hide. Crows, pigeons, squirrels, geckos, ants and spiders share our buildings, and leopards even live at the edge of Mumbai. You will watch one animal for a whole week and find its daily pattern. Scientists still argue about many animal habits, such as why some city birds are disappearing.
+**Summary.** Crows, pigeons, ants, geckos and spiders share our buildings, and leopards walk the edge of Mumbai at night. Each of these animals has habits, things it does again and again, like a crow calling at first light or a bat flying out at dusk. Many animals build homes, but most use them only to raise their young or to hide, not to live in all year. You will watch animals near your home, find their daily patterns, and test how ants keep to the same path. Some questions are still open, such as why house sparrows have become rare in some cities.
 
-**Intro.** *Stand at a window or a door for one minute, very still. Count every animal you can see or hear. Do not forget the tiny ones. How many did you find?* Most people say 'two or three'. Then they look again. A crow on the wire. Ants on the wall. A pigeon on the ledge above. A spider in the corner. A gecko asleep behind the calendar. We think animals live far away, in forests and zoos. But some of them live in our walls, our trees and our kitchens. Each one has its own day. It wakes, eats, rests and hides at its own times. This unit is about finding those patterns.
+**Intro.** *Stand at a window or a door for one minute, very still. Count every animal you can see or hear. Do not forget the tiny ones. How many did you find?* Most people say 'two or three'. Then they look again. A crow on the wire. Ants on the wall. A pigeon on the ledge above. A spider in the corner. A gecko asleep behind the calendar. We think animals live far away, in forests and zoos. But some of them live in our walls, our trees and our kitchens. Each one has its own day. It wakes, eats, rests and hides at its own times. You can find those patterns by watching the same animal again and again.
 
 ## Learning outcomes
 0. I can say what a habit is, and give the daily habits of at least three animals I have seen, such as when they wake, eat, rest and sleep.
@@ -16,17 +16,17 @@
 7. I can say what scientists agree about animal habits and homes, and what they still do not know, such as how birds find their way on long journeys.
 
 ## Terms
-- **Animal**: A living thing that moves on its own and must eat other living things to live. People are animals too. *e.g.* A crow, an ant, a cow, a fish and you are all animals.
+- **Animal**: A living thing that must eat other living things to live. Most animals can move about on their own. People are animals too. *e.g.* A crow, an ant, a cow, a fish and you are all animals.
 - **Habit**: Something an animal does again and again, often at the same time or in the same way. *e.g.* Crows call loudly at first light every morning. That is one of their habits.
 - **Behaviour**: Everything an animal does: eating, resting, calling, building, fighting, playing and hiding. *e.g.* A street dog scratching, sleeping and barking are all its behaviour.
-- **Home**: A place an animal uses to sleep, hide, store food or raise its young. *e.g.* A honey bee's home is a hive. A rabbit's home is a burrow.
+- **Home**: A place an animal uses to sleep, hide, store food or raise its young. *e.g.* A honey bee's home is a hive. A rat's home is often a burrow.
 - **Nest**: A home that a bird or another animal builds to lay eggs or raise its young. *e.g.* A crow builds a nest of sticks in a tree. A weaver bird weaves one from grass.
-- **Burrow**: A hole or tunnel that an animal digs in the ground to live in. *e.g.* Rats, porcupines and many snakes and crabs live in burrows.
+- **Burrow**: A hole or tunnel that an animal digs in the ground to live in. *e.g.* Rats, porcupines and many crabs dig burrows. Many snakes hide in burrows that other animals dug.
 - **Hive**: The home of honey bees, made of wax rooms called cells. *e.g.* Giant rock bees often hang their hive under a water tank or a bridge.
 - **Roost**: A place where birds or bats rest or sleep together. It is also the word for resting there. *e.g.* In the evening hundreds of crows fly to one big tree to roost.
 - **Nocturnal**: Active at night and resting in the day. *e.g.* Owls, fruit bats and house geckos are nocturnal.
 - **Diurnal**: Active in the day and resting at night. *e.g.* Squirrels, crows and butterflies are diurnal. So are most people.
-- **Crepuscular**: Most active at dawn and dusk, the dim times just before sunrise and just after sunset. *e.g.* Mosquitoes, deer and many frogs are busiest at dusk.
+- **Crepuscular**: Most active at dawn and dusk, the dim times just before sunrise and just after sunset. *e.g.* Many mosquitoes, and deer such as the chital, are busiest at dawn and dusk.
 - **Wild animal**: An animal that lives on its own, without people feeding or keeping it. *e.g.* A crow, a squirrel and a leopard are wild, even when they live in a city.
 - **Domestic animal**: An animal that people have kept and bred for a very long time, for food, work or company. *e.g.* Cows, goats, hens and pet dogs are domestic animals.
 - **Migrate**: To travel a long way at the same time each year, and then come back. *e.g.* Bar-headed geese fly over the Himalayas to spend the winter in India.
@@ -39,28 +39,28 @@
 ### What a habit is · *defined*
 **Definition:** A habit is a behaviour an animal repeats, often at the same time of day, in the same place or in the same way.
 
-Animals do not do things at random. A crow wakes at first light and calls. A squirrel runs along the same wire every morning. Ants use the same path to the sugar tin. These repeated patterns are habits. You can only find a habit by watching more than once. One visit shows you what an animal did. Many visits show you what it usually does.
+Much of what animals do follows a pattern. A crow wakes at first light and calls. A squirrel runs along the same wire every morning. Ants use the same path to the sugar tin. These repeated patterns are habits. You can only find a habit by watching more than once. One visit shows you what an animal did. Many visits show you what it usually does.
 - e.g. House crows call loudly at first light, and fly to a big tree together at sunset.
 - e.g. A street dog often sleeps in the same shady corner every afternoon.
-- e.g. Ants walking to food follow the same line, because they leave a smell trail for each other.
+- e.g. Ants walking to food follow the same line, because each ant leaves a smell trail that the others follow.
 ### Day animals, night animals and dawn-and-dusk animals · *defined*
 **Definition:** Diurnal animals are active in the day. Nocturnal animals are active at night. Crepuscular animals are most active at dawn and dusk.
 
-Every animal has a busy time and a resting time. Choosing a time is a way to stay safe and find food. Bats fly at night, when most birds that might eat them are asleep. Geckos come out at night, because insects fly to our tube lights then. Many animals rest at noon in hot places like India, because the sun is fierce. Inside every animal there is a body clock that keeps time, even in the dark.
+Every animal has a busy time and a resting time. Its busy time helps it find food and stay safe. Scientists think one reason fruit bats fly at night is that hawks and eagles, which could catch them, hunt by day. House geckos are busy at night, and many wait near our tube lights, because insects gather there. In hot places like India, many animals rest at noon, when the sun is fiercest. Inside most animals, a body clock keeps time, even in the dark.
 - e.g. Fruit bats hang in big trees all day and fly out at dusk to find fruit.
 - e.g. House geckos wait near tube lights at night to catch moths.
 - e.g. Squirrels and crows are busy all day and sleep at night.
 ### Body clocks · *defined*
 **Definition:** A body clock is a timer inside a living thing that keeps a roughly 24-hour rhythm of waking and sleeping.
 
-Shut a fruit fly in a dark box, and it still wakes at about the same time each day. That is because tiny parts inside its cells switch on and off in a cycle that takes about one day. Scientists found the genes that run this clock in fruit flies. Three of them, Jeffrey Hall, Michael Rosbash and Michael Young, won a Nobel Prize for it in 2017. Sunlight sets the clock each morning, like setting a watch. You have one too. It is why you feel sleepy at night, even in a bright room.
+Shut a fruit fly in a dark box, and it still wakes and rests at about the same times each day. This is because tiny parts inside its cells switch on and off in a cycle that takes about one day. Three scientists, Jeffrey Hall, Michael Rosbash and Michael Young, worked out how the genes that run this clock work in fruit flies. They won a Nobel Prize for it in 2017. Sunlight resets the clock each morning, the way you set a watch. You have a body clock too. It is one reason you feel sleepy at night.
 - e.g. A rooster crows before sunrise, even before the sky gets light.
 - e.g. When people fly to a far country, their body clock is still on home time. They feel sleepy in the middle of the day.
 - e.g. Bright lights at night can confuse the body clocks of birds and insects in cities.
 ### What animal homes are for · *defined*
 **Definition:** An animal home is a place used to sleep, hide from danger, keep warm or cool, store food or raise young.
 
-Many people think a bird lives in its nest all year, like we live in a house. Most birds do not. They build a nest only to lay eggs and keep the chicks safe. When the chicks fly away, the nest is left empty. At night most birds sleep perched on a branch. Other homes are used all the time, like an ant nest or a beehive. Some animals, such as elephants and tigers, have no fixed home at all. They move around a large area.
+Many people think a bird lives in its nest all year, like we live in a house. Most birds do not. They build a nest only to lay eggs and keep the chicks safe. When the chicks fly away, the nest is left empty. At night most birds sleep perched on a branch. Other homes are used all the time, like an ant nest or a beehive. Some animals, such as elephants and tigers, have no fixed home that they return to each night. They move around a large area. A tigress uses a hidden den only while her cubs are small.
 - e.g. A crow's stick nest is used for about two months, then left empty.
 - e.g. An ant nest under the floor is used all year by thousands of ants.
 - e.g. A tiger rests wherever it likes inside its large area of forest.
@@ -72,14 +72,14 @@ Each home is made from what is around. A crow builds with sticks, and in cities 
 - e.g. A rat snake lives in a rat's old burrow.
 - e.g. Rock pigeons nest on window ledges, because ledges are like the cliffs their wild relatives used.
 ### Homes that control heat: the termite mound · *idea*
-In south India the termite Odontotermes obesus builds mounds taller than a child. For years, books said these mounds work like air coolers, with the termites' own warmth pushing air up a chimney. Then in 2015 a team of scientists measured air inside real mounds near Bengaluru. They found the mound breathes with the day. In the day, the thin outer walls warm up faster than the middle, and air moves one way. At night the walls cool faster, and air moves the other way. So the Earth's spin from day to night helps the termites' home breathe. Scientists are still studying how this works in mounds of other kinds.
+In south India the termite Odontotermes obesus builds mounds taller than a child. For years, books said these mounds work like air coolers, with the termites' own warmth pushing air up a chimney. Then in 2015 a team of scientists measured air inside real mounds near Bengaluru. They found the mound breathes with the day. In the day, the thin outer walls warm up faster than the middle, and air moves one way. At night the walls cool faster, and air moves the other way. So the daily change from hot day to cool night moves the air through the termites' home. Scientists are still studying how this works in mounds of other kinds.
 - e.g. A mound in hot sun stays much cooler deep inside than the ground outside.
 - e.g. Termites grow a fungus garden inside the mound, which needs steady warmth and damp air.
 - e.g. Some architects copy termite mounds to design buildings that need less air conditioning.
 ### Why so many animals live near people · *defined*
 **Definition:** Towns and villages give some animals food, water, shelter and fewer enemies, so these animals settle there.
 
-To a pigeon, a tall building looks like a cliff with many ledges. To a crow, a market is full of food scraps. To a gecko, a tube light is an insect magnet. To a rat, a drain is a dry tunnel. Animals that can eat many kinds of food, and are not too shy, do well near people. Animals that need quiet forests or one special food often cannot live in towns. Every town is a habitat, a place where some living things find what they need.
+A tall building has many ledges, like the cliffs where wild rock pigeons nest. A market is full of food scraps for crows and kites. Insects gather at our tube lights, so geckos find food there. Rats shelter in drains and eat what people throw away. Animals that can eat many kinds of food, and are not too shy, do well near people. Animals that need quiet forests or one special food often cannot live in towns. Every town is a habitat, a place where some living things find what they need.
 - e.g. Black kites circle over Delhi's markets and eat the scraps people throw.
 - e.g. Cattle egrets walk behind cows and buffaloes in village fields. The animals' feet stir up insects for the egrets to catch.
 - e.g. Rhesus macaques and langurs live in many temples and towns, where people leave food.
@@ -87,7 +87,7 @@ To a pigeon, a tall building looks like a cliff with many ledges. To a crow, a m
 ### Animals of towns, villages and forests in India · *defined*
 **Definition:** Different places in India hold different animals, but many animals live in more than one kind of place.
 
-In towns you meet crows, pigeons, mynas, palm squirrels, street dogs, geckos, rats, bats and many insects. In villages you also see cows, buffaloes, goats, hens, peacocks, egrets, frogs, snakes and weaver birds in the palm trees. In forests live tigers, elephants, sloth bears, hornbills, langurs and countless insects and spiders. Some animals cross the lines. Leopards live in Sanjay Gandhi National Park, inside the city of Mumbai, and walk out at night past people's homes. India has more than 1,300 kinds of birds, and a single city park can hold a hundred.
+In towns you meet crows, pigeons, mynas, palm squirrels, street dogs, geckos, rats, bats and many insects. In villages you also see cows, buffaloes, goats, hens, peacocks, egrets, frogs, snakes and weaver birds in the palm trees. In forests live tigers, elephants, sloth bears, hornbills, langurs and countless insects and spiders. Some animals cross the lines. Leopards live in Sanjay Gandhi National Park, inside the city of Mumbai, and walk out at night past people's homes. India has more than 1,300 kinds of birds, and bird watchers often find dozens of kinds in a single city park.
 - e.g. Indian grey hornbills nest in old trees in Delhi and Mumbai, not only in forests.
 - e.g. Peacocks walk on the rooftops of villages in Rajasthan.
 - e.g. Elephants walk through tea gardens and villages in Assam and Kerala.
@@ -102,16 +102,16 @@ Good watching is slow and quiet. You sit in the same place, at the same times, s
 Some animals live in two homes, far apart. Each winter, bar-headed geese fly from Central Asia over the Himalayas to Indian lakes. Amur falcons stop in Nagaland on their way from East Asia to southern Africa. Scientists agree that they travel to find food and good weather. How they find the way is less clear. Birds seem to use the Sun, the stars, smells, landmarks and Earth's magnetism. How they sense magnetism is still argued about.
 - e.g. Bar-headed geese fly over some of the highest mountains on Earth.
 - e.g. Lakhs of Amur falcons rest near the Doyang reservoir in Nagaland every October and November.
-- e.g. Some dung beetles in Africa steer by the light of the Milky Way at night.
+- e.g. Finding the way is not only a bird skill. Some dung beetles in Africa keep to a straight line at night by the glow of the Milky Way.
 - **Many scientists who study bird eyes:** A substance in birds' eyes, called cryptochrome, may let them sense Earth's magnetism using a strange quantum effect. Experiments on robins support this. It is not proven yet.
 - **Other scientists:** Birds may sense magnetism with tiny bits of iron in their bodies, perhaps in the beak or the ear. Some early studies of this did not hold up. So they keep testing it.
 ### Watching kindly · *defined*
 **Definition:** Watching kindly means we look without harming, chasing, catching or scaring the animal, and without touching its home.
 
-An animal near its nest is protecting its young. If we go close, it may leave the eggs to go cold, or it may attack us. Crows dive at people walking under their nests in the nesting months. That is not madness. It is a parent guarding its chicks. We watch from a distance, keep quiet and never touch eggs or chicks. If we pick up a small animal for a test, we keep it damp and shaded and put it back where we found it.
+An animal near its nest is protecting its young. If we go close, it may leave the eggs to go cold, or it may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In our tests we only watch animals. We do not pick them up.
 - e.g. Use binoculars, or sit at a window, to watch a nest.
 - e.g. Never feed wild monkeys. It teaches them to grab food from people.
-- e.g. Put back every stone you lift, the way you found it, because it is someone's roof.
+- e.g. After the ant trail test, wipe up the sugar, so the ants go back to their usual food.
 ### Can city life change animals? · *idea*
 Animals that live in cities face noise, bright lights and new foods. Some seem to change their habits. In the noisy Dutch city of Leiden, scientists found great tits singing higher notes than in quiet woods, so their songs can be heard over traffic. Some city birds now sing at night under streetlights. Scientists think some of these changes are learned, and some may be slowly passed on through families over many years. How much the city is changing animals is a new and growing question.
 - e.g. Some city crows use wire coat hangers to build nests.
@@ -122,8 +122,12 @@ Animals that live in cities face noise, bright lights and new foods. Some seem t
 - Many animals have regular daily habits, controlled partly by a body clock inside them. *How we know:* Animals kept in steady darkness still wake and rest on a roughly 24-hour cycle. The genes that run this clock have been found, first in fruit flies.
 - Most birds use nests only to lay eggs and raise chicks, not to live in all year. *How we know:* Bird watchers who follow nests see them used for a few weeks and then left empty. At night birds are found perched in trees or roosts.
 - Many wild animals live in towns and cities, because cities give them food and shelter. *How we know:* Bird counts in Indian cities, such as the Great Backyard Bird Count, find dozens of kinds of birds in a single town.
-- Animals build homes from what they find around them. *How we know:* City crow nests contain wire, plastic and cloth. Village crow nests contain mostly twigs. Scientists have photographed and taken apart many of them.
+- Animals build homes from what they find around them. *How we know:* City crow nests often contain wire, plastic and cloth. Crow nests in villages are mostly twigs. Bird watchers in Indian cities have photographed many such nests.
 - Watching animals quietly over a long time teaches us things that a quick look cannot. *How we know:* Jane Goodall's years of watching showed that chimpanzees make tools. Nobody had seen it on short visits.
+
+## How we found out
+**Jane Goodall, sent to Gombe by Louis Leakey, 1960.** For a long time, people believed that only humans make tools. One famous book even called humans 'man the tool-maker', as if making tools was what set us apart from every other animal. In July 1960, Jane Goodall, a 26-year-old English woman with no university degree, went to Gombe in Tanzania to watch wild chimpanzees. Louis Leakey, a scientist who studied human ancestors, had sent her. For months the chimpanzees ran away whenever she came near. She kept coming back to the same places, quietly, day after day. Late in 1960 she saw a chimpanzee she called David Greybeard push a grass stem into a termite mound and pull it out covered in termites. Later she saw chimpanzees strip the leaves off twigs to make better probes. That is making a tool. Leakey wrote back: 'Now we must redefine tool, redefine man, or accept chimpanzees as humans.' Goodall saw it only because she watched the same animals, patiently, for a very long time.  
+*What people believed before:* Only humans make and use tools. Goodall saw wild chimpanzees making tools from twigs and grass stems, by watching them for months.
 
 ## Challenging perspectives
 - **Wild animals belong only in forests. Animals in cities are lost or out of place.** (Many of us think this without noticing.; *rejected*)  
@@ -146,28 +150,28 @@ Animals that live in cities face noise, bright lights and new foods. Some seem t
   Against: Feeding monkeys teaches them to grab food from people. Bread and sweets can make birds and animals ill. Clean water in summer is usually safer and kinder than food.
 
 ## Roots
-We have been learning about the animals that live around us, their habits and their homes. Now we ask what they tell us about ourselves and the world.
+We have been watching the animals around us: when they are busy, where they live, and how ants keep to one path. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** There is no line where nature ends and our home begins.  
-*Habit it breaks:* We split the world into 'the wild', far away in forests, and 'our town', where people live. But crows build with our wire, a koel grows up in a crow's nest, and leopards walk through Mumbai at night. Our home is one of many homes, all built from the same world.  
-*Evidence:* In ten minutes at one window, most children find many wild animals living in and on their own building.
+**Deep truth.** An ant that has never been to the sugar can still find it. It follows the scent that other ants left on the floor, and adds its own. Rub the scent away and the path is lost until ants lay it again. So part of what the ants know is kept on the floor they share, not only inside each ant.  
+*Habit it breaks:* We think whatever an animal knows must be stored inside its own head. An ant trail shows a colony keeping its way to food outside any one body, on the ground, where every ant can follow it and add to it.  
+*Evidence:* In the Ant Trail Test, ants walked on under a hand held above the trail, but stopped and wandered where the floor was rubbed. A few minutes later the line formed again.
 
 - *who am i:* You are an animal too. You have habits, a home and a body clock, like the crow outside.
 - *what is life:* Life keeps making homes from whatever is near: twigs, mud, wax, silk, and even our lost hair clips.
 - *what is this world:* The world is one big shared home. Every wall, tree and drain is somebody's house.
 
-A neem tree, a family's lost wire, two crows' work and a koel's egg became one nest. Nothing in it belonged to only one owner. DeepKids believes this is the One showing up as many: one world, taking the shape of countless homes and countless lives. When we watch a crow quietly for a week, we are the world watching another part of itself. The more closely we look, the harder it is to say where one home ends and another begins.
+The crows' nest in the story was made of a neem tree, a family's lost wire and two crows' work. An ant trail is made by hundreds of ants, each adding a little scent. Neither belongs to one maker. DeepKids believes one awareness runs through the whole world and shows itself in countless separate lives. A nest or a trail is a small, real picture of that: many lives making one thing together.
 
-- **Isha Upanishad, verse 1:** Everything in this moving world is filled with the one Lord. So enjoy it by sharing, and do not grab what belongs to others. (Our building is also the pigeons' cliff and the gecko's hunting ground. If all of it is one, sharing the space is the natural way to live.)
+- **Isha Upanishad, verse 1:** Everything in this moving world is filled with the one Lord. Enjoy it by letting go, and do not grab what belongs to anyone. (Our building is also the pigeons' cliff and the gecko's hunting ground. The verse asks us to take what we need and leave room for others, which is how we try to share a building with crows and pigeons.)
 - **Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (Jain teaching):** All beings love their lives. They like comfort and dislike pain. They want to live. To every being, its life is dear. (This is why we watch kindly. The crow guarding her chicks wants them to live, just as a parent does.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing:** Look deeply at a sheet of paper and you can see a cloud, the rain and the tree in it. Nothing exists all by itself. (Look deeply at a crow's nest and you see the neem tree, the city's wires and a family's lost things. A home is made of everything around it.)
 - Science (settled): People and all other animals share one family tree. We are animals, related to the crow and the ant.
-- Science (idea): Cities are habitats too. Many wild animals have lived alongside people for thousands of years, and some may be slowly changing as they adapt to city life.
-- Other view, René Descartes, a French philosopher, and many people today: Humans are truly different from other animals. We have language, reason and laws, and animals do not. So it is right for people to keep towns for people, and wild animals in forests, for the safety of both. This is an honest view held by many thoughtful people.
+- Science (settled): Many kinds of ants lay scent trails with chemicals called pheromones. Other ants follow them, and a trail fades unless ants keep adding to it.
+- Other view, René Descartes, a French philosopher, and many scientists today: Descartes wrote in 1637 that animals work like machines, without thought. Many scientists today would say an ant trail is only chemistry: each ant reacts to a smell, and nothing in the trail knows anything. This is an honest view held by many thoughtful people.
 - Practice, Count the neighbours (3 min): Let's sit very still and close our eyes. For one minute, just listen. Each time you hear an animal, quietly lift one finger. Now open your eyes and count your fingers. Now listen once more, to your own breath going in and out. You are one more animal, breathing in this place. Who else is breathing here with us?
 - Ask: Where does your home end and the crow's home begin?
 - Ask: If a koel can grow up in a crow's nest, what makes a family?
-- Ask: Who was living here before your building was built?
+- Ask: If the ants' way to the sugar is kept on the floor, where is the ants' memory?
 - Ask: Are you watching the animals, or are they also watching you?
 
 ## Deep and big questions
@@ -178,16 +182,16 @@ A neem tree, a family's lost wire, two crows' work and a koel's egg became one n
 - *deep:* If you watched a crow for one minute, what would you know? If you watched it for a week, what more would you know? (hint: Think about the difference between what happened once and what usually happens.)
 - *big:* Do people have habits like animals do? What are yours? (hint: When do you wake, eat and feel sleepy?)
 - *big:* Should people share their towns with monkeys, leopards and snakes? How? (hint: Think of what each one needs, and what keeps people safe.)
-- *big:* A geese family flies over the Himalayas every year. Which country is their real home? (hint: Can a home be two places, or a whole journey?)
+- *big:* A family of bar-headed geese flies over the Himalayas every year. Which country is their real home? (hint: Can a home be two places, or a whole journey?)
 - *deep:* How can a termite mound breathe without a single fan? (hint: What changes between day and night?)
 - *big:* Are you a wild animal, a domestic animal, or something else? (hint: People are animals. Who feeds and shelters you?)
 
 ## Story: The Wire Nest
-*Imagined: Tara, her family, Murugan and these two crows are made up. True: house crows build nests with wire and plastic in Indian cities, dive at people who walk under their nests in the nesting months, pant in the heat, gather to roost at sunset, and are often tricked into raising koel chicks. The koel mother lays her egg in the crow's nest and the crows feed the chick as their own.*
+*Imagined: Tara, her family, Murugan and these two crows are made up. True: house crows build nests with wire and plastic in Indian cities, dive at people who walk under their nests in the nesting months, pant in the heat, gather to roost at sunset, and are often tricked into raising koel chicks. The koel mother lays her egg in the crow's nest and the crows feed the chick as their own. The loud ku-oo call is sung by adult male koels.*
 
 In the last week of May, when Chennai was so hot that even the pavements seemed to sigh, a crow stole the wire from Tara's window.
 
-It was a short piece of copper wire, left over from when Appa fixed the fan. Tara had put it on the sill. The crow landed, tilted its head, and looked at her with one pale grey eye. Then it picked up the wire and flew straight into the neem tree outside.
+It was a short piece of copper wire, left over from when Appa fixed the fan. Tara had put it on the sill. The crow landed, tilted its head, and looked at her with one shiny dark eye. Then it picked up the wire and flew straight into the neem tree outside.
 
 'Thief!' said Tara. But she went to look. On a fork of the neem, level with her window, sat a lumpy bowl of sticks. Poking out of it were things she knew. A green toothbrush. Two of Amma's hair clips. A loop of white electric wire. And now, her copper.
 
@@ -217,13 +221,13 @@ Mrs Iyer complained that the other side was ten steps longer. But she walked it.
 
 The chicks grew. Two were scruffy and grey-black, like small copies of their parents. The third was strange. It was bigger than the others, blacker and shinier, and it shouted for food louder than both of them put together. Nail and Builder worked from dawn to dusk to fill its open mouth.
 
-One morning in June, a new sound came from the neem. It was not a crow's call. It was a rising cry, loud and sweet, that every child in Chennai knows from the summer: ku-oo, ku-oo, ku-OO. Amma came to the window with a dish towel in her hand. 'That's a koel,' she said, surprised. 'A baby koel. In a crow's nest.'
+One morning in June, a new sound came from the neem. It was not the croak of a crow chick. It was a loud, shrill cry, again and again, and it came from the big black chick. Amma came to the window with a dish towel in her hand. She looked for a long time. 'That is not a crow,' she said, surprised. 'That is a baby koel. In a crow's nest.'
 
-She explained. A koel mother does not build a nest at all. She waits until the crows are busy, slips into their nest and lays one egg among theirs. The crows do not seem to notice. They feed the koel chick as if it were their own.
+She explained. A koel mother does not build a nest at all. She waits until the crows are busy, slips into their nest and lays one egg among theirs. The crows do not seem to notice. They feed the koel chick as if it were their own. When a male koel grows up, he sings the ku-oo, ku-oo, ku-OO call that every child in Chennai knows from the summer.
 
 Tara looked at the big black chick, its beak wide open, and at Nail pushing food into it. She looked at the toothbrush and the hair clips and her own copper wire, woven into the walls of the nest. The nest was made of the neem tree, and of their flat, and of two crows' hard work. And a koel was growing up inside it. 'Whose home is it, then?' she asked. Amma did not answer. She stood beside Tara, and they watched together.
 
-In July the cardboard sign came down, and the nest stood empty, as nests do when their work is done. But every evening Tara still watched the crows fly off to the temple tree. And once, early in the morning, she heard a ku-oo from somewhere she could not see. She wrote it in her notebook. Time: 5:40 am. What I heard: one of ours.
+In July the cardboard sign came down, and the nest stood empty, as nests do when their work is done. But every evening Tara still watched the crows fly off to the temple tree. The next summer, early one morning, she heard a koel calling ku-oo from somewhere she could not see. She wrote it in her notebook. Time: 5:40 am. What I heard: a koel. Maybe one of ours.
 
 **For the parent:** For the parent: the crows were not attacking at random. Tara found their habit only by watching for several days and writing down the time and the place of every dive. The pattern showed that the crows were guarding a nest, and it also showed a simple way for people and crows to share the yard. That is the heart of this unit: habits are patterns, and patterns only appear when we watch over time. The story also quietly asks what a home is, when a crow's nest is built from a neem tree and a family's lost things, and raises a koel's chick.
 
@@ -291,7 +295,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 ## Experiments
 ### e1 · Busy Times: when do birds visit a water bowl? (45 min, 3 days)
 - **question:** At which time of day do the most birds visit a bowl of water on our balcony or window?
-- **predict:** Before you start, guess. Will the most birds come in the morning, at noon, or in the evening? Write your guess and the reason.
+- **predict:** Before you start, guess. Will the most birds come in the morning, at noon, or in the evening? Write your guess, and why you think so.
 - **fair test:** To make it fair, keep everything the same except the time of day. Use the same bowl, in the same place, with fresh water each time. Watch for exactly 10 minutes, sitting in the same spot. Watch on 3 days, because one day might be odd, for example if it rains.
 - **safety:** Put the bowl where you can watch from inside, behind a window or a curtain. Do not lean over balcony railings.
 - **record:** For each 10-minute watch, draw one tally line every time a bird lands at the bowl. Add up each time of day over the 3 days. Then draw a bar chart with one bar for morning, one for noon and one for evening.
@@ -301,7 +305,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent does:* 1. Fill the bowl with fresh water. 2. Put it on a balcony ledge or windowsill, out of reach of cats. 3. Show your child the results table.  
   *Parent says:* Birds need water, especially in the hot months. We're going to find out when they come to drink. First, what's your guess? Morning, noon or evening?  
   *Child mode:* Put out a bowl of water for birds. Guess when most birds will come. Morning, noon or evening?
-  - Note: Keep the bowl in the same place for all 3 days. Birds take a day or two to find a new water bowl, so the first day may be quiet. That is normal.
+  - Note: Keep the bowl in the same place for all 3 days. Birds can take a day or two to find a new water bowl, so the first day may be quiet. That is normal. If no bird has come to the bowl by day 2, count instead every bird you see from the same window in 10 minutes. Crows and pigeons live in almost every Indian town, so you will still have numbers to compare.
   - Check: Why do we watch at the same spot and for the same 10 minutes each time? → **So the test is fair. Only the time of day changes.**
 - **s2 (10 min)**  
   *Parent does:* At 7 am, sit still behind the window for 10 minutes. Make one tally line each time a bird lands at the bowl.  
@@ -320,70 +324,74 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   - Check: In the made-up results, morning had 14 visits, noon 3, and evening 11. What do they show? → **Birds drink most in the cool morning and evening, and rest at noon.**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write: what I think, what I saw, and why.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Now tell me three things, the way scientists report a result. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is claim, evidence and reasoning. A good answer sounds like this. What I think: birds come to drink mostly in the morning and evening. What I saw: 14 visits in the mornings, 11 in the evenings, but only 3 at noon. Why: noon is very hot, so birds rest in the shade and save energy.
 ### e2 · Cool Home Test: is a burrow cooler than open ground? (30 min)
 - **question:** On a hot day, is it cooler inside a hole in the ground than on the open ground in the sun?
-- **predict:** Guess the order before you measure. Which will be hottest: open ground in the sun, ground in the shade, or inside a hole in the soil? Which will be coolest?
+- **predict:** Guess the order before you measure. Which will be hottest: soil in the sun, soil in the shade, or inside a hole in the soil? Which will be coolest? Why do you think so?
 - **fair test:** To make it fair, use the same thermometer for every place. Leave it for the same 5 minutes in each place before reading it. Measure all three places within the same half hour, around noon, so the Sun is the same.
-- **safety:** Do this with a grown-up outdoors. Wear a cap, drink water and do not stay in the noon sun for long. Before you dig, look carefully for ants, scorpions and snakes, and dig somewhere else if you see any.
+- **safety:** Do this with a grown-up. Wear a cap, drink water and do not stay in the noon sun for long. Before you dig, look carefully for ants, scorpions and snakes, and dig somewhere else if you see any.
 - **record:** Write the three temperatures in the table. Put a star next to the coolest place.
 - **results table:** Place | Temperature after 5 minutes (°C)
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Ask your child to guess the order, hottest to coolest.  
-  *Parent says:* Many animals hide underground in the hot part of the day. Rats, crabs, snakes and many insects do. Why? Let's guess first. Which place will be hottest?  
+  *Parent says:* Many animals hide underground in the hot part of the day. Rats, crabs and many insects do. Let's guess first. Which place will be hottest? Why?  
   *Child mode:* Guess. Which is hottest: sun, shade, or inside a hole? Which is coolest?
+  - Note: No thermometer? Use the back of your hand instead. Touch the top of the sunny soil, then the soil at the bottom of the hole. The difference is easy to feel. Write 'hot', 'warm' or 'cool' in the table instead of numbers.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* Lay the thermometer on bare soil in full sun. Wait 5 minutes. Read it and write it down.  
   *Parent says:* Let's put the thermometer on the open ground first. We wait 5 minutes, so it has time to warm up properly.  
   *Child mode:* Put the thermometer on the soil in the sun. Wait 5 minutes. Read the number.
-  - Note: On a hot Indian day, bare soil in the sun can feel too hot to touch. The thermometer may read over 40 °C. If it is a cool day, the differences will be smaller but still there.
+  - Note: On a hot Indian day, soil in the sun can feel too hot to touch, and the thermometer may read over 40 °C. On a cool day the differences are smaller, but still there.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* Move the thermometer to soil in the shade. Wait 5 minutes. Read it.  
   *Parent says:* Now the shade. Same thermometer, same 5 minutes.  
   *Child mode:* Now put it on soil in the shade. Wait 5 minutes. Read the number.
 - **s4 (8 min) · grown-up needed**  
-  *Parent does:* Dig a small hole about as deep as your hand is long. Push the thermometer inside. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.  
+  *Parent does:* In the sunny soil, dig a small hole about as deep as your hand is long. Push the thermometer inside. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.  
   *Parent says:* This hole is like a little burrow. Let's see how warm it is inside.  
   *Child mode:* Dig a small hole, a hand deep. Put the thermometer in. Wait 5 minutes. Read it.
   - Check: The open sun was 44 °C, the shade 35 °C, and inside the hole 30 °C. Why was the hole coolest? → **The Sun's heat warms the top of the soil first, and soil is slow to let heat through.**
 - **s5 (5 min)**  
-  *Parent does:* Fill in the hole and put any stones back. Ask for claim, evidence and reasoning.  
+  *Parent does:* Fill in the hole. Ask for claim, evidence and reasoning.  
   *Parent says:* Let's fill the hole in, so no one trips. Now, like a scientist: what do you think, what did you see, and why?  
   *Child mode:* Fill the hole in. Then say: what I think, what I saw, and why.
   - Note: A good answer: What I think: a burrow keeps an animal cool on a hot day. What I saw: the hole was 30 °C, but the open ground was 44 °C. Why: the Sun heats the top of the ground, and the heat moves down slowly.
-### e3 · Damp or Dry? An earthworm choice tray (35 min)
-- **question:** Do earthworms choose a damp, dark place or a dry, bright place?
-- **predict:** Guess before you start. Out of 6 earthworms, how many will end up on the damp, dark side?
-- **fair test:** To make it fair, put the worms in the exact middle. Use the same tray and wait the same 10 minutes. Then swap which end is damp and dark, and do it again. That way we know the worms chose the conditions, not just one end of the tray.
-- **safety:** Wash your hands before and after. Keep your hands wet when you touch the worms, because dry hands harm their skin. Keep the worms out of strong sun. Put every worm back in the damp soil where you found it when you finish.
-- **record:** Fill in the table for both tries. Then add up how many worms chose each side.
-- **results table:** Try | Worms on damp, dark side | Worms on dry, bright side | Worms in the middle
-- **s1 (8 min) · grown-up needed**  
-  *Parent does:* Go out with your child after watering a garden bed, or after rain. Dig gently in damp soil and find 6 earthworms. Keep them in a cup with damp soil.  
-  *Parent says:* Earthworms live under the ground. Let's find out what kind of place they choose. We have to be gentle, because they are alive and their skin is soft.  
-  *Child mode:* Find 6 earthworms in damp soil, with a grown-up. Wet your hands first. Be gentle.
-  - Note: Earthworms are easiest to find in the early morning or after rain. If you cannot find any, do the same test with woodlice from under a flower pot.
+### e3 · Ant Trail Test: how do ants keep to the same path? (35 min)
+- **question:** Ants walk to food along the same path, one behind another. If we rub away a short piece of the path, can the ants still find their way?
+- **predict:** Guess before you start. When you rub your finger across the ant trail, what will the ants do? Will they walk straight on, stop, or go round? Why do you think so?
+- **fair test:** To make it fair, count the ants crossing the same spot for the same 1 minute each time. First hold your finger just above the trail without touching it. If the ants carry on, we know our hand and its shadow do not stop them. Then rub the floor with the same finger. Now the only new thing is touching the trail.
+- **safety:** Use small black or brown house ants. Keep away from big red ants, because they bite. Wash your hands after rubbing the floor.
+- **record:** Write the number of ants that crossed the spot in 1 minute: before, with a hand above, just after rubbing, and 3 minutes after rubbing. Next to each number, write what the ants did.
+- **results table:** Try | Ants crossing the spot in 1 minute | What the ants did
+- **s1 (5 min)**  
+  *Parent does:* 1. About an hour before, put a pinch of sugar on a square of paper where you have seen ants. 2. Wait until a line of ants walks to it. 3. Show your child the trail.  
+  *Parent says:* Look, the ants walk in a line, one behind another. How do you think they all know the way to the sugar?  
+  *Child mode:* Look at the line of ants. How do they all know the way?
+  - Note: Ants usually find sugar within an hour in Indian homes, often much sooner. Kitchen floors, window sills and balconies are good places. If no ants come, leave the sugar out overnight, or try the stairs or the bottom of an outside wall. Fast, long-legged ants that run about wildly follow trails less closely. Small, slow black ants walking in a neat line work best.
 - **s2 (5 min)**  
-  *Parent does:* 1. Lay wet paper towel on one half of the tray and dry paper on the other half. 2. Cover the wet half with cardboard. 3. Put the tray in a bright place, but not in direct sun.  
-  *Parent says:* One side is like under a stone after rain: damp and dark. The other side is like a bare path at noon: dry and bright. Which will the worms choose?  
-  *Child mode:* Make one side wet and dark. Make the other side dry and bright. Guess where the worms will go.
-- **s3 (12 min)**  
-  *Parent does:* Place the 6 worms across the middle of the tray. Wait 10 minutes. Count the worms on each side.  
-  *Parent says:* Let's lay them in the middle, gently, with wet fingers. Now we wait 10 minutes, and we don't touch.  
-  *Child mode:* Put the worms in the middle. Wait 10 minutes. Then count them on each side.
-  - Check: Five worms went to the damp, dark side and one stayed in the middle. What does that suggest? → **Earthworms choose damp, dark places.**
-- **s4 (12 min)**  
-  *Parent does:* Swap the sides: make the other half damp and dark. Put the worms back in the middle. Wait 10 minutes and count again.  
-  *Parent says:* Now we swap the sides. Why do you think we do that?  
-  *Child mode:* Swap the sides. Put the worms back in the middle. Wait. Count again.
-  - Ask: Why did we swap the sides? (good: To check the worms were choosing damp and dark, not just one end of the tray.; In case one end was special, like nearer the window.)
-- **s5 (5 min)**  
-  *Parent does:* Put every worm back gently in damp soil. Then ask for claim, evidence and reasoning.  
-  *Parent says:* Let's take them home. Now tell me like a scientist: what do you think, what did you see, and why?  
-  *Child mode:* Put the worms back in damp soil. Then say: what I think, what I saw, and why.
-  - Note: A good answer: What I think: earthworms choose damp, dark places to live. What I saw: in both tries most worms went to the damp, dark side, even when we swapped it. Why: their skin must stay damp, and dark places are damper and hidden from birds. That is why we find worms under stones and in soil, not on hot paths.
+  *Parent does:* Choose one spot on the trail, about a hand away from the sugar. Count the ants that walk past it in 1 minute. Write the number.  
+  *Parent says:* Let's count how many ants walk past this spot in one minute. Then we will know what the trail is like before we change anything.  
+  *Child mode:* Pick one spot on the trail. Count the ants that pass it in 1 minute.
+  - Ask: Now guess. What will the ants do if you rub your finger across their path? Why do you think so? (good: They will get lost, because they follow something on the floor.; They will walk on, because they can see the other ants.)
+  - Note: Wait for a guess and a reason before going on. Any guess is fine. The test will answer it.
+- **s3 (5 min)**  
+  *Parent does:* Hold one finger just above the trail at the spot, without touching the floor, for 10 seconds. Then count the ants passing the spot for 1 minute.  
+  *Parent says:* First I hold my finger just above the trail, without touching. Do the ants stop? Let's count them for one minute.  
+  *Child mode:* Hold your finger just above the ants. Do not touch. Count them for 1 minute.
+  - Note: Usually the ants carry on, with perhaps a short pause. This try shows that our hand alone does not stop them.
+- **s4 (10 min)**  
+  *Parent does:* Rub one finger firmly across the trail at the spot, making a strip about two fingers wide. Watch the strip closely. Count the ants crossing it in the first minute, and again in the third minute.  
+  *Parent says:* Now I rub my finger across the floor where the ants walk. Watch the strip closely. What do the ants do when they reach it?  
+  *Child mode:* Rub your finger across the trail. Watch the ants at that spot. What do they do?
+  - Note: Expect the ants to stop at the strip, wave their feelers, turn back or wander in circles. Within a few minutes a few ants cross, and soon the line forms again. If you have time, try once more with a clean dry tissue instead of your finger. If the ants stop then too, your finger's own smell was not the reason.
+  - Check: Before rubbing, 12 ants crossed the spot in one minute. With a hand above, 11 crossed. In the first minute after rubbing, only 2 crossed. What is the best explanation? → **The ants follow something on the floor, and rubbing took it away.**
+- **s5 (10 min)**  
+  *Parent does:* Ask your child to say or write what they think, what they saw, and why. Then wipe up the sugar.  
+  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think the ants did that?  
+  *Child mode:* Say three things. What I think. What I saw. Why. Then wipe up the sugar.
+  - Note: A good answer: What I think: ants find their way by following a smell on the floor. What I saw: the ants walked on when my hand was above them, but stopped and wandered where I rubbed the floor. After a few minutes the line came back. Why: rubbing wiped away their smell trail, and new ants laid it again. This is why ants use the same path day after day. Wipe up the sugar afterwards so the ants go back to their usual food.
 
 ## Activities
 ### a1 · Ten-Minute Window Watch (15 min)
@@ -438,7 +446,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent says:* Which clue told us the most about an animal's habits?  
   *Child mode:* Count your ticks. Which clue was the best?
 ### a4 · Build a Nest with a Beak (25 min)
-- **safety:** Use only clean twigs and grass. Wash your hands afterwards.
+- **safety:** Use clean materials. Wash your hands afterwards.
 - **record:** Draw your nest. Write how many minutes it took, and whether the egg stayed in.
 - **s1 (3 min)**  
   *Parent does:* Lay out the materials. Give your child the clothes peg.  
@@ -448,7 +456,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent does:* Let your child build for 15 minutes, carrying one piece at a time with the peg.  
   *Parent says:* One piece at a time. Which pieces hold together best? Where would you put the soft wool?  
   *Child mode:* Carry one piece at a time with the peg. Put the soft bits inside.
-  - Note: Children quickly find that twigs alone fall apart. Grass and thread wound around help. Soft wool is best inside. A crow makes about a hundred trips or more for one nest.
+  - Note: Children quickly find that sticks alone fall apart. Thread and paper strips wound around help. Soft wool is best inside. A real bird makes many trips to build one nest, carrying one piece each time.
 - **s3 (4 min)**  
   *Parent does:* Put the pebble egg in. Tip the bowl gently.  
   *Parent says:* Let's test it. Put the egg in, and tip the nest a little, like a branch in the wind.  
@@ -467,7 +475,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
   *Parent says:* India's animals live in towns, villages and forests. Let's sort them out. But watch carefully, because some may surprise you.  
   *Child mode:* Fold your paper into three: town, village, forest. Get your animal cards.
 - **s2 (12 min)**  
-  *Parent does:* Sort the cards together: crow, pigeon, myna, palm squirrel, street dog, house gecko, rat, fruit bat, cow, buffalo, goat, hen, peacock, cattle egret, frog, rat snake, weaver bird, tiger, elephant, sloth bear, great hornbill, langur, rhesus macaque, leopard.  
+  *Parent does:* Sort the 24 cards together. Start with crow, pigeon, myna, palm squirrel, street dog, house gecko, rat and fruit bat. Then do cow, buffalo, goat, hen, peacock, cattle egret, frog and rat snake. Last, do weaver bird, tiger, elephant, sloth bear, great hornbill, langur, rhesus macaque and leopard.  
   *Parent says:* Where does this one live? Could it live in more than one place?  
   *Child mode:* Put each card where the animal lives. Can any live in two places?
   - Note: Many cards can go on a fold. Macaques and langurs live in forests and in towns. Peacocks live in villages and forests. Leopards live in forests, near villages, and at the edge of Mumbai. Fruit bats roost in big trees in towns and villages. There is no single right answer, as long as the reason is good.
@@ -556,7 +564,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - **problem:** A pair of pigeons keeps trying to nest on the outdoor box of your air conditioner, and the family is unhappy about the mess. Plan a way to share your building with the pigeons that does not harm them.
 - **your turn:** Now think of an animal that shares your home or street, such as ants, a gecko, monkeys or a dog. Draw a plan for how you and that animal can share the space safely.
 - **constraints:** You must not harm any bird, egg or chick.; If there are already eggs or chicks, you must wait until the chicks have flown before changing anything.; Your plan must work for both the family and the birds.
-- **general:** Before any eggs are laid, cover the spot with bird netting, so the pigeons choose somewhere else.; Keep the ledge clean and dry, because pigeons choose quiet, sheltered spots.; Give the birds another safe place, such as a ledge you do not mind them using.
+- **general:** Before any eggs are laid, cover the spot with bird netting, so the pigeons choose somewhere else.; Clean the ledge often and keep it clear. Pigeons choose quiet spots where nobody disturbs them.; Give the birds another safe place, such as a ledge you do not mind them using.
 - **creative:** Make a 'pigeon diary' first. Find out what times they come, like Tara did in the story. Maybe there is a pattern you can use.; Talk to neighbours and make a building plan, so the birds are not pushed from one flat to the next.; Draw a poster for your building about watching kindly.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together.  
@@ -599,7 +607,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
    Options: A crow / A cow / A palm squirrel / A leopard  
    **Answer:** A cow. *Why:* A cow has been kept and bred by people for thousands of years. A crow, squirrel and leopard are wild, even if they live near us. Picking 'crow' is a common mistake, because crows live so close to us.
 11. (fill) Animals that are most busy at dawn and dusk are called ____.  
-   **Answer:** ['crepuscular']. *Why:* Crepuscular means busy in the dim light of dawn and dusk. Mosquitoes and many deer are crepuscular.
+   **Answer:** ['crepuscular']. *Why:* Crepuscular means busy in the dim light of dawn and dusk. Many mosquitoes and deer are crepuscular.
 12. (mcq) Crows dive at people walking under one tree in May. What is the most likely reason?  
    Options: The crows are mad. / They are guarding a nest with eggs or chicks. / They want to play. / They are lost.  
    **Answer:** They are guarding a nest with eggs or chicks.. *Why:* In the nesting months, crows guard their nests and dive at anyone who comes close. Picking 'mad' explains nothing. It is what Murugan thought in the story before Tara watched for a week.
@@ -616,9 +624,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 2. (mcq) In the Cool Home Test, the open ground was 44 °C and inside the hole was 30 °C. How much cooler was the hole?  
    Options: 4 degrees / 14 degrees / 74 degrees / 30 degrees  
    **Answer:** 14 degrees. *Why:* 44 take away 30 is 14. So the hole was 14 degrees cooler. Picking 74 means adding instead of taking away. Picking 30 is just the hole's own temperature.
-3. (mcq) Why did we swap the damp side to the other end in the earthworm test?  
-   Options: To check the worms chose the damp, dark side, not just one end / To make the worms dizzy / Because the first try was wrong / To give the worms more room  
-   **Answer:** To check the worms chose the damp, dark side, not just one end. *Why:* If the worms went to the same end both times, it could be because of the window or a slope. Swapping shows they followed the damp, dark side. Picking 'first try was wrong' misses the idea of checking.
+3. (mcq) In the Ant Trail Test, why did we first hold a finger just above the trail, without touching it?  
+   Options: To check that our hand and its shadow were not what stopped the ants / To feed the ants / To make the ants walk faster / To count the ants more easily  
+   **Answer:** To check that our hand and its shadow were not what stopped the ants. *Why:* If the ants stopped only when we rubbed the floor, and not when a hand was above them, then the rubbing is the reason. This try rules out the hand. Picking 'to feed the ants' misses that a fair test changes one thing at a time.
 4. (truefalse) A tiger has no fixed home. It rests anywhere inside its large area.  
    **Answer:** True. *Why:* True. A tiger roams a large area to find enough prey. It does not build a home.
 5. (truefalse) A koel builds a big nest and raises its own chicks.  
@@ -687,9 +695,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
    **Answer:** A line from sunrise to night with drawings of what the animal did at each time, for example a crow calling at dawn, feeding in the morning, resting at noon and flying to its roost at sunset.. *Why:* A timeline shows a habit at a glance. It is built from many days of watching.
 
 ## Videos
-- **Weaver birds building their nests (a nature documentary clip of baya weavers in India)** (to find: a nature channel such as BBC Earth or a reputable Indian wildlife channel, 4 min) id `XRB4GQCEOlE`: Seeing a weaver tear grass strips and weave them knot by knot makes the 'Kinds of animal homes' card real. *Check:* Found by YouTube search: "Baya weaver bird Documentary film" by Chandu's Learning channel. Title checked automatically; a parent may still preview it.
-- **Leopards of Mumbai: living alongside people near Sanjay Gandhi National Park** (to find: a news or conservation channel, for example a talk by Vidya Athreya, 8 min) id `YkCjuSQ8LUY`: For the parent first: shows how a big wild animal shares a city with millions of people, and how scientists study it with camera traps. *Check:* Found by YouTube search: "Dr. Vidya Athreya on the Myths That Misled India About Leopards" by Some Like It Wild Podcast. Title checked automatically; a parent may still preview it.
-- **How termite mounds breathe (the Harvard and Bengaluru termite mound study)** (to find: Harvard or a science explainer channel, 4 min) id `ngSLWpckhks`: Shows the 2015 finding that termite mounds in India are ventilated by the daily warming and cooling of their walls. *Check:* Found by YouTube search: "Termite mounds in Namibia inspire energy-efficient buildings" by Harvard University. Title checked automatically; a parent may still preview it.
+- **Baya weaver bird documentary film** (Chandu's Learning, 4 min) id `XRB4GQCEOlE`: Seeing a weaver tear grass strips and weave them knot by knot makes the 'Kinds of animal homes' card real. *Check:* Found by YouTube search. Title checked automatically. Not watched: a parent should preview it.
+- **Dr. Vidya Athreya on the myths that misled India about leopards** (Some Like It Wild Podcast, 8 min) id `YkCjuSQ8LUY`: For the parent first: a talk by Vidya Athreya, a scientist who studies leopards that live near people in India, including around Mumbai. Preview it before showing a child. *Check:* Found by YouTube search. Title checked automatically. Not watched: a parent should preview it.
+- **Termite mounds in Namibia inspire energy-efficient buildings** (Harvard University, 4 min) id `ngSLWpckhks`: Shows how scientists measure the air moving through termite mounds, and how builders learn from them. This film is about mounds in Namibia. The 2015 study of mounds near Bengaluru came from the same Harvard group. *Check:* Found by YouTube search. Title checked automatically. Not watched: a parent should preview it.
 
 ## Quiz
 1. (mcq) What is a habit?  
@@ -719,9 +727,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 9. (mcq) In the Busy Times test, what was the one thing we changed?  
    Options: The bowl / The place / The time of day / How long we watched  
    **Answer:** The time of day. *Why:* In a fair test we change only one thing. Here it was the time of day. Everything else stayed the same.
-10. (mcq) In the earthworm choice tray, most worms went to the damp, dark side, even after we swapped the sides. What is the best claim?  
-   Options: Earthworms choose damp, dark places. / Earthworms like bright light. / Earthworms always stay in the middle. / Earthworms choose the left end.  
-   **Answer:** Earthworms choose damp, dark places.. *Why:* The worms followed the damp, dark side wherever it was. Picking 'left end' is what we ruled out by swapping.
+10. (mcq) In the Ant Trail Test, the ants walked on under a hand held above the trail. But they stopped and wandered where the floor was rubbed. What is the best claim?  
+   Options: Ants follow something on the floor, and rubbing removed it. / Ants are scared of hands. / Ants can only walk in straight lines. / Ants stop wherever a person has been.  
+   **Answer:** Ants follow something on the floor, and rubbing removed it.. *Why:* The hand above the trail changed little, so the hand was not the cause. Rubbing took away the smell trail, a chemical called a pheromone, that the ants were following. Picking 'scared of hands' does not fit what we saw, because the ants walked on under the hand.
 11. (mcq) You find a nest with eggs in a bush. What should you do?  
    Options: Pick up an egg to look closely. / Watch from a distance and leave it alone. / Take the nest home to keep it safe. / Shake the bush to see the bird.  
    **Answer:** Watch from a distance and leave it alone.. *Why:* Touching or moving a nest can make the parents leave the eggs. We watch kindly, from far away.
@@ -738,7 +746,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 ## Applications
 - Bird counts like the Great Backyard Bird Count use families' watching to track India's birds.
 - Wildlife scientists use camera traps that photograph animals at night to learn their habits.
-- Knowing when mosquitoes bite, at dawn and dusk, helps people protect themselves from dengue and malaria.
+- Dengue mosquitoes bite mostly in the day, especially in the early morning and late afternoon. Malaria mosquitoes bite mostly at night. Knowing these habits helps people protect themselves.
 - Farmers time their work around animal habits, such as when birds eat ripening grain.
 - Architects copy termite mounds to design buildings that stay cool with less electricity.
 - Cities plan wildlife corridors, safe paths for animals between parks.
@@ -814,7 +822,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 - Here are the tally marks from the Busy Times test: morning, two groups of five and four more. How many visits is that? **14 visits.**. Each group of five tally marks is 5. Two groups make 5 + 5 = 10. Four more lines make 10 + 4 = 14. (queues `math.data.sorting-and-tallies.L3`)
 - In My Animal Week you watched your animal for 10 minutes a day for 7 days. How many minutes did you watch in all? **70 minutes.**. 7 days of 10 minutes is 7 groups of 10. 10 + 10 + 10 + 10 + 10 + 10 + 10 = 70. Or 7 × 10 = 70. That is 1 hour and 10 minutes. (queues `math.multiplication.equal-groups.L3`)
 - In the Cool Home Test, the thermometer read 44 °C on open ground in the sun, 35 °C in the shade and 30 °C inside the hole. How much cooler was the hole than the open ground? How much cooler was the shade? **The hole was 14 degrees cooler. The shade was 9 degrees cooler.**. 44 take away 30 is 14. So the hole was 14 degrees cooler than the open ground. 44 take away 35 is 9. So the shade was 9 degrees cooler. The hole was the best place for an animal to rest. (queues `math.temperature.reading-thermometers.L3`)
-- In the earthworm choice tray, you did 2 tries with 6 worms each time. In all, 10 worm choices were on the damp, dark side. How many were not on the damp, dark side? **2.**. 2 tries of 6 worms is 6 + 6 = 12 worm choices. 10 were on the damp, dark side. 12 take away 10 is 2. So only 2 were somewhere else. (queues `math.addition-subtraction.word-problems.L3`)
+- In the Ant Trail Test, a child counted the ants crossing one spot in 1 minute. Before rubbing: 12 ants. First minute after rubbing: 2 ants. Third minute after rubbing: 9 ants. How many fewer ants crossed just after rubbing? About how many would you expect in the fifth minute, and why? **10 fewer ants crossed just after rubbing. In the fifth minute you would expect about 12 again, because the ants are laying the trail again.**. 12 take away 2 is 10, so 10 fewer ants crossed just after rubbing. From 2 to 9 is a rise of 7 in two minutes. The numbers are climbing back towards 12, the number before we rubbed. So a good guess for the fifth minute is about 12, once the smell trail is back. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
 Every Creature Counts (sci.animals.L3): Topic-level song
@@ -834,9 +842,7 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 ## Things to buy
 - [Children's binoculars (8 times zoom)](https://www.amazon.in/s?k=binoculars+for+kids+8x) (tool): Lets you watch nests and birds from far away, without disturbing them. Used in a2, p1. Used again in bird and animal behaviour units.
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking closely at ants, webs and chewed leaves on the Animal Homes Walk. Used in a2. 
-- [A plain notebook to be a nature diary](https://www.amazon.in/s?k=nature+journal+notebook+for+kids) (material): For the Window Watch and the week-long animal diary. Used in a1, p1. 
 - [Digital thermometer with a probe](https://www.amazon.in/s?k=digital+probe+thermometer) (tool): Measures the temperature in the sun, the shade and a burrow in the Cool Home Test. Used in e2. Used again in heat and weather units.
-- [Shallow clay bird water bowl](https://www.amazon.in/s?k=clay+bird+water+bowl) (material): A water bowl for the Busy Times test, and a kind gift to birds in summer. Used in e1. 
 - [The Book of Indian Birds by Salim Ali](https://www.amazon.in/s?k=book+of+indian+birds+salim+ali) (book): India's classic bird guide, first published in 1941. Helps you name the birds you watch. Used in a1, p1, e1. Keep it by the window. Look up every new bird you see during My Animal Week.
 - [Wooden sparrow nest box](https://www.amazon.in/s?k=sparrow+nest+box) (material): A ready-made option for the Sparrow Home challenge, if you cannot make one. Used in c1. 
 
@@ -854,9 +860,9 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - What is a habit? → Something an animal does again and again.
 
 ## Plan
-- Start options: a1, story, p1, g1, big_questions, cards, e1
-- Default order: intro → a1 → story → summary → terms → p1 → explanations → g1 → e1 → a2 → videos → ws-core → e2 → g2 → a4 → agreed → challenging → a3 → a5 → e3 → c1 → big_questions → ws-stretch → a6 → c2 → ws-challenge → open_questions → roots → quiz
-- Core: a1, p1, e1, g1, a2, ws-core, e2
+- Start options: a1, story, e3, p1, g1, big_questions, cards, e1
+- Default order: intro → a1 → story → e3 → summary → terms → p1 → explanations → g1 → e1 → a2 → videos → ws-core → e2 → g2 → a4 → agreed → challenging → a3 → a5 → c1 → big_questions → ws-stretch → a6 → c2 → ws-challenge → open_questions → roots → quiz
+- Core: a1, p1, e3, e1, g1, a2, ws-core
 
 ## Sources
 - DeepKids HomeSchooling Track: Activity Curation (nature walk in the park or neighbourhood, the collaborative 'Nature Map' of where each thing was found, and Nature Bingo), used in the Animal Homes Walk and Map and in Animal Signs Bingo
@@ -870,3 +876,5 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - Dacke and others, Current Biology 2013, 'Dung beetles use the Milky Way for orientation'
 - Nobel Prize in Physiology or Medicine 2017, Hall, Rosbash and Young, molecular mechanisms controlling the circadian rhythm
 - Braczkowski and others, Frontiers in Ecology and the Environment 2018, on leopards and stray dogs in Mumbai
+- Wilson, Animal Behaviour 1962, 'Chemical communication among workers of the fire ant Solenopsis saevissima' (ants lay scent trails that other ants follow)
+- Goodall, Nature 1964, 'Tool-using and aimed throwing in a community of free-living chimpanzees'

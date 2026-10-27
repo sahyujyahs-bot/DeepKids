@@ -49,10 +49,8 @@ let FXCUR = 0,
 function fxImg(u, key, brief, cls) {
   const url = u.img?.[key],
     em = FXE[key.split(".")[0]] || "🎨";
-  if (!url && !brief) return "";
-  return url
-    ? `<div class="fximg ${cls || ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="this.parentNode.classList.add('broken')"></div>`
-    : `<div class="fxph ${cls || ""}"><span>${em}</span>${brief ? `<i>${esc(brief)}</i>` : ""}</div>`;
+  if (!url) return "";
+  return `<div class="fximg ${cls || ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="this.parentNode.classList.add('broken')"></div>`;
 }
 const FXPAL = ["#FD8326", "#4CC9C0", "#8C93C7", "#53A373", "#FF8BB4", "#6DB4F2", "#FFD65C", "#B6D693"];
 function fxChart(c) {

@@ -1,14 +1,14 @@
 {
  "id": "sci.day-night-seasons.day-and-night.L3",
- "title": "Day and night: the Earth spins",
+ "title": "Day and night: how the spinning Earth makes them",
  "level": 3,
  "summary": {
-  "text": "This unit is about why we have day and night. The Sun does not go anywhere at night. Our Earth is a huge ball that spins, like a top that never stops. Half of the ball always faces the Sun, and there it is day. The other half faces away, and there it is night. The spin carries us from the light into the dark and back again, once every 24 hours. That is why the Sun seems to rise in the east and set in the west. We do not feel the spin, but a swinging pendulum, the turning stars and photos from space all show it. Scientists also know that the spin is very slowly getting slower. Some questions are still open, like how the Earth got its spin in the first place.",
+  "text": "The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours, so half of it always faces the Sun and has day, while the other half has night. The spin carries every place from the light into the dark and back again, which is why the Sun seems to rise in the east and set in the west. We cannot feel the spin, but a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower, and how the Earth got its spin in the first place is still being worked out.",
   "art": "A blue Earth ball lit from one side by a bright Sun, half in daylight and half in night, with a small curved arrow showing the spin and a tiny child standing on the line between light and dark."
  },
  "intro": {
   "hook": "Right now, as you read this, you are moving faster than an aeroplane. You are not in a car or a train. You are sitting still. So how can that be?",
-  "text": "Here in India, the ground under your feet is spinning along at nearly 1,500 kilometres an hour. That is faster than a passenger jet. Your house, the trees, the air and you are all moving together. And here is something even stranger. At this very moment, it is night for children in America, and their Sun is not missing. Their side of the Earth is just facing away from it. This unit is about the giant spinning ball we live on, and how its spin gives us day and night.",
+  "text": "In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. At this very moment, it is night for children in America, and their Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?",
   "art": "A child sitting still on a chair on a rooftop in an Indian town, with speed lines behind the whole town and a faint giant curve of the Earth below, the Sun low on one side."
  },
  "outcomes": [
@@ -189,7 +189,7 @@
    "concept": "The Sun only seems to move",
    "status": "defined",
    "definition": "The Sun seems to rise in the east, cross the sky and set in the west. This is apparent movement. It is really the Earth turning under us.",
-   "description": "Sit in a train as it pulls out of the station. The platform seems to slide backwards. The platform is still. You are the one moving. The sky works in the same way. The Earth turns from west to east. So we are carried towards the east, and the Sun seems to slide the other way, towards the west. In the morning our side of the Earth tips towards the Sun, and we call it sunrise. In the evening our side tips away, and we call it sunset. We still use the words sunrise and sunset. Scientists use them too. But nothing is rising or setting. Our ground is turning.",
+   "description": "Sit in a train as it pulls out of the station. The platform seems to slide backwards. The platform is still. You are the one moving. The sky works in the same way. The Earth turns from west to east. So we are carried towards the east, and the Sun seems to slide the other way, towards the west. In the morning our side of the Earth turns towards the Sun, and we call it sunrise. In the evening our side turns away, and we call it sunset. We still use the words sunrise and sunset. Scientists use them too. But nothing is rising or setting. Our ground is turning.",
    "examples": [
     "From a moving bus, trees and poles seem to rush past backwards.",
     "Spin slowly on a swivel chair. The whole room seems to turn around you.",
@@ -230,7 +230,7 @@
    "concept": "How we know the Earth really spins",
    "status": "defined",
    "definition": "Several kinds of evidence show that it is the Earth that spins, not the sky that turns. One famous piece is the Foucault pendulum.",
-   "description": "In 1851, a French scientist, Léon Foucault, hung a heavy ball on a 67-metre wire in the Panthéon, a great hall in Paris. A swinging pendulum keeps swinging in the same direction unless something pushes it sideways. But as the hours went by, the swing seemed to turn slowly around the floor. Nothing was pushing it. The floor, and the whole Earth, was turning under it. In Paris, the swing goes all the way round in about 32 hours. In Delhi it takes about 50 hours. India's new Parliament building, opened in 2023, has a Foucault pendulum too. There is more evidence. All the stars wheel around the Pole Star once a day. Big storms like cyclones spin one way north of the equator and the other way south of it. And astronauts have filmed the Earth turning from space.",
+   "description": "In 1851, a French scientist, Léon Foucault, hung a heavy ball on a 67-metre wire in the Panthéon, a great hall in Paris. A swinging pendulum keeps swinging in the same direction unless something pushes it sideways. But as the hours went by, the swing seemed to turn slowly around the floor. Nothing was pushing it. The floor, and the whole Earth, was turning under it. In Paris, the swing goes all the way round in about 32 hours. In Delhi it takes about 50 hours. India's new Parliament building, opened in 2023, has a Foucault pendulum too. There is more evidence. All the stars wheel around the Pole Star once a day. Big storms like cyclones spin one way north of the equator and the other way south of it. And cameras on satellites have filmed the Earth turning.",
    "examples": [
     "A long-exposure photo pointed at the Pole Star shows the stars as curved streaks around it.",
     "Cyclones over the Bay of Bengal always spin anticlockwise. In Australia, they spin clockwise.",
@@ -258,7 +258,7 @@
    "examples": [
     "On a summer morning, the Sun can rise in Dong before 4:30, by the clock.",
     "In Bhuj, in Kutch, summer sunrise comes at about 6 o'clock.",
-    "In Guwahati, the Sun is high when it is still breakfast time by the clock."
+    "In Guwahati in June, the Sun is up by about 4:30 by the clock, long before shops and offices open."
    ],
    "perspectives": [],
    "art": "A map of India with a soft golden line of sunrise sweeping from Arunachal Pradesh in the east towards Gujarat in the west, small suns marking Dong, Kolkata, Mumbai and Bhuj.",
@@ -328,7 +328,7 @@
      "explanation": "The spin came from the swirling cloud the solar system formed from, and was changed by big crashes, like the one that made the Moon."
     },
     {
-     "who": "Scientists still checking",
+     "who": "Scientists who study the early Earth",
      "explanation": "How long the very first days were is not known. Some estimates say just a few hours. Rocks and computer models give different answers."
     }
    ],
@@ -410,9 +410,9 @@
    "concept": "Midnight Sun and long nights near the poles",
    "status": "defined",
    "definition": "Near the North and South Poles, there are weeks when the Sun never sets, and weeks when it never rises.",
-   "description": "The Earth's axis is tilted, like a top leaning a little to one side. For part of the year, the North Pole leans towards the Sun. Then places near it stay in sunlight all the way round the spin. The Sun just circles around the sky, low down, all day and all night. People call this the midnight Sun. Half a year later, the North Pole leans away, and the Sun does not rise for weeks. India has a research station called Himadri, in Svalbard, far up in the Arctic. Indian scientists there work under the midnight Sun in summer. Why the tilt also gives us seasons is the subject of another unit.",
+   "description": "The Earth's axis is tilted, like a top leaning a little to one side. For part of the year, the North Pole leans towards the Sun. Then places near it stay in sunlight all the way round the spin, for weeks on end. The Sun just circles around the sky, low down, all day and all night. People call this the midnight Sun. Half a year later, the North Pole leans away, and the Sun does not rise for weeks. India has a research station called Himadri, in Svalbard, far up in the Arctic. Indian scientists there work under the midnight Sun in summer. Why the tilt also gives us seasons is the subject of another unit.",
    "examples": [
-    "In Svalbard, the Sun does not set from about late April to late August.",
+    "In Svalbard, the Sun does not set from about the middle of April to late August.",
     "At India's Antarctic stations, Maitri and Bharati, scientists have long dark weeks in the southern winter."
    ],
    "perspectives": [],
@@ -423,7 +423,7 @@
    "concept": "Twilight, and the Sun you see after it has set",
    "status": "defined",
    "definition": "After sunset, the air above us still catches sunlight, so the sky stays bright for a while. This is twilight. The air also bends sunlight a little, so we see the Sun for about 2 minutes longer than we otherwise would.",
-   "description": "Sunlight bounces around in the air and lights up the whole sky. That is why the daytime sky is bright, and not black like space. After sunset, high air is still in sunlight, so it glows for a while. Air also bends light a little, like water bends a straw in a glass. Near the horizon, this bending lifts the picture of the Sun. So at sunset, the Sun you see touching the horizon is already just below it. Look east just after sunset and you may see a dark blue band low in the sky, with a pink band above it. The dark band is the shadow of the Earth itself, falling on the air.",
+   "description": "Air scatters sunlight, sending it off in all directions, and this lights up the whole sky. That is why the daytime sky is bright, and not black like space. After sunset, high air is still in sunlight, so it glows for a while. Air also bends light a little, like water bends a straw in a glass. Near the horizon, this bending lifts the picture of the Sun. So at sunset, the Sun you see touching the horizon is already just below it. Look east just after sunset and you may see a dark blue band low in the sky, with a pink band above it. The dark band is the shadow of the Earth itself, falling on the air.",
    "examples": [
     "On the Moon there is no air, so the sky is black even in the day, and there is no twilight.",
     "Astronauts on the International Space Station go round the Earth so fast that they see about 16 sunrises a day."
@@ -435,7 +435,7 @@
   {
    "concept": "Why the night sky is dark",
    "status": "defined",
-   "definition": "The night sky is dark because the universe has a beginning. Light from the furthest stars has not had time to reach us. And light from very far away is stretched so much that our eyes cannot see it.",
+   "definition": "The night sky is dark because the universe as we know it began about 13.8 billion years ago. Light from the most distant stars has not had time to reach us. And light from very far away is stretched so much that our eyes cannot see it.",
    "description": "This sounds like a silly question, but it puzzled great scientists. There are so many stars that, wherever you look, your eye should end up on a star. So why isn't the whole night sky as bright as the Sun? Johannes Kepler wondered about this in 1610. Heinrich Olbers, a German doctor and astronomer, wrote about it in 1823. Then in 1848, Edgar Allan Poe, a writer of stories and poems, made a clever guess. Maybe light from the most distant stars has not reached us yet. Today scientists agree he was largely right. The universe began about 13.8 billion years ago, so light has only had that long to travel. Also, space is stretching, which stretches far-away light until it is too dim and too red to see.",
    "examples": [
     "Stand in a big forest. Wherever you look, you see a tree trunk. A night sky full of stars should be like that, but it is not."
@@ -449,7 +449,7 @@
    "status": "debated",
    "description": "A Foucault pendulum keeps its swing still compared with the far-away stars and galaxies, while the Earth turns underneath. Water in a spinning bucket climbs up the sides. In both cases, the spin seems to be measured against the whole distant universe. But why should the far stars decide what counts as spinning? Physicists have argued about this for more than 300 years.",
    "examples": [
-    "Spin a bucket of water on a rope, with a grown-up. The water presses outwards and stays in.",
+    "Stir water fast in a steel bowl, then stop stirring. While the water spins, it climbs up the sides and dips in the middle.",
     "In a spinning room with no windows, a pendulum would still show the spin."
    ],
    "perspectives": [
@@ -473,7 +473,7 @@
    "concept": "Living things keep time with the spin",
    "status": "defined",
    "definition": "Plants, animals and people have body clocks inside them. Body clocks follow a rhythm of about 24 hours, matching the Earth's spin.",
-   "description": "In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. Its leaves still opened in the day and folded at night, without any sunlight. So the plant had its own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was weeks earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that work the clock, in fruit flies. Our cells have clocks like that too. Morning light resets them every day.",
+   "description": "In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. Its leaves still opened in the day and folded at night, without any sunlight. So the plant had its own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was weeks earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that work the clock, in fruit flies. Almost every cell in our body has a clock like that. Morning light reaching our eyes resets the main clock, in the brain, every day.",
    "examples": [
     "Owls, bats and many moths are active at night. Scientists call them nocturnal.",
     "Long flights across the world give people jet lag. Their body clock is still on home time."
@@ -486,7 +486,7 @@
    "concept": "Where daylight comes from",
    "status": "defined",
    "definition": "Daylight is light from the Sun. The Sun makes it deep inside, where hydrogen is squeezed into helium and gives out huge amounts of energy.",
-   "description": "In 1925, a young astronomer, Cecilia Payne, showed that the Sun and the stars are made mostly of hydrogen and helium. Many senior astronomers did not believe her at first. Later, they agreed she was right. Deep in the Sun's centre, hydrogen is squeezed so hard that it joins together into helium. This gives out the energy that makes sunlight. Sunlight takes about 8 minutes to cross space and reach your face. But scientists estimate that its energy spent many thousands of years working its way out from the Sun's centre first. So the morning light on your face is a very old journey's end.",
+   "description": "In 1925, a young astronomer, Cecilia Payne, showed that the Sun and the stars are made mostly of hydrogen and helium. Many senior astronomers did not believe her at first. Later, they agreed she was right. Deep in the Sun's centre, hydrogen is squeezed so hard that it joins together into helium. This gives out the energy that makes sunlight. Sunlight takes about 8 minutes to cross space and reach your face. But scientists estimate that its energy spent many thousands of years working its way out from the Sun's centre first. So the energy in the morning light on your face began its journey out of the Sun long before there were any people.",
    "examples": [
     "When you see the Sun, you see it as it was about 8 minutes ago.",
     "Plants catch this sunlight and make food from it, and so do we, when we eat the plants."
@@ -620,7 +620,7 @@
    "hint": "Light takes time to travel. So does sound. What about the stars?"
   },
   {
-   "q": "The spin is measured against the far-away stars. Does a small thing like a swinging nut on a string really know about galaxies far away?",
+   "q": "A swinging nut on a string keeps its swing lined up with the far-away stars, not with the turning floor. Why should the far stars decide what counts as spinning?",
    "kind": "deep",
    "hint": "Scientists still argue about this. What do you think connects them?"
   }
@@ -642,7 +642,7 @@
    "And then, while I sat there silent, the sky turned grey. Then pink. Then gold. And the Sun came up over the flat land of Kutch, big and round, as if nothing were wrong at all. I had not made a single sound.",
    "I did not eat my rice that day. Mili noticed. In the evening, she carried me up onto the flat roof to watch the sunset. The Sun hung low and orange over the salty plain. Then Mili's phone buzzed. It was Grandmother, calling from Dong.",
    "'Is it dark there yet?' Mili asked.",
-   "'Dark?' said Grandmother. 'Child, it has been dark here for nearly two hours. The stars are out. I am about to go to bed.' She turned her phone to show us. Her screen was black, with a few small stars. Mili looked at Grandmother's dark screen. Then she looked at our Sun, still sitting there, orange, over Kutch.",
+   "'Dark?' said Grandmother. 'Child, the Sun set here an hour and a half ago. The stars are out. I am about to go to bed.' She turned her phone to show us. Her screen was black, with a few small stars. Mili looked at Grandmother's dark screen. Then she looked at our Sun, still sitting there, orange, over Kutch.",
    "Mili ran downstairs. She came back with a mausambi from the kitchen, a pen and her father's torch. On one side of the mausambi she drew a dot and wrote 'Dong'. A little way round, she drew another dot and wrote 'Bhuj'. She pushed a pencil through the fruit, from top to bottom, and shone the torch at it. 'Look, Raja,' she said. 'This is the Earth. The torch is the Sun.'",
    "She turned the mausambi slowly on its pencil. The dot that said Dong came round into the torchlight first. Bhuj was still in the dark. She kept turning. Only later did Bhuj come round into the light too. 'The Sun doesn't come up,' Mili whispered. 'We go round to meet it. Dong turns into the light first. Bhuj turns into it two hours later. Your crow was right on time, Raja. You were just still on Dong time.'",
    "I looked at the mausambi turning in the torchlight. Then I looked at the real Sun. It was sitting quite still. It had always been sitting still. It was the roof under my feet that was moving. The whole of Kutch, with its salt and dust and dogs, was tipping slowly backwards, away from the light. I could almost feel it, a slow, enormous lean, like a boat on a calm river.",
@@ -814,7 +814,7 @@
       "DAY: a farmer ploughing a field",
       "DAY: a sunbird sipping from a flower",
       "DAY: children playing cricket",
-      "DAY: a sunflower turning to the light",
+      "DAY: a lotus flower opening in the morning",
       "DAY: a vendor selling vegetables",
       "DAY: a butterfly visiting flowers",
       "DAY: a squirrel running along a wall",
@@ -914,8 +914,8 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask the bonus question. The founder's family version: the Sun player can also walk slowly in a big circle while the ring keeps turning.",
-     "say": "The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey. Shall we try both at once?",
+     "do": "Ask the bonus question. For a harder version, the ring keeps turning and also walks slowly in a big circle around the Sun player.",
+     "say": "The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey. Shall we try turning and travelling at once?",
      "kid": "Bonus! The Earth also goes round the Sun. It spins 365 times on the way. Can you turn and travel at once?",
      "think": "If the ring stopped turning, what would happen to the players on the night side?"
     }
@@ -1411,7 +1411,7 @@
      "p": "Why is the night sky dark, when there are billions of stars?",
      "opts": [
       "The stars switch off at night",
-      "The universe has a beginning, so light from the furthest stars has not reached us, and far light is stretched too dim to see",
+      "The universe had a beginning, so light from the furthest stars has not reached us, and far light is stretched too dim to see",
       "Clouds block them",
       "The Moon hides them"
      ],
@@ -1496,8 +1496,8 @@
    "mins": 25,
    "days": 1,
    "context": "This is the torch and ball experiment. You shine a torch at a ball in a dark room, and turn the ball slowly. You find out how day and night happen, and which places see the Sun first.",
-   "question": "Does day and night happen because the Sun moves, or because the Earth turns? And which places see the sunrise first?",
-   "predict": "Before you start, guess. Put three stickers on the ball for Dong, your home and Bhuj. Which sticker will come into the light first when you turn the ball?",
+   "question": "Can a torch that stays still, and a ball that turns, make day and night? And which place sees the sunrise first?",
+   "predict": "Before you start, guess. Put three stickers on the ball for Dong, your home and Bhuj. Which sticker will come into the light first when you turn the ball, Dong in the east or Bhuj in the west? Why do you think so?",
    "fair_test": "To make it fair, keep the torch still in one place the whole time. Only the ball moves. Turn it the same slow way each time, from west to east. Try it 3 times, because one try can be a mistake.",
    "results_table": [
     "Try",
@@ -1508,7 +1508,7 @@
    ],
    "materials": [
     {
-     "item": "a ball, an orange or a mausambi",
+     "item": "an orange or a mausambi (or a small globe, if you have one)",
      "qty": 1,
      "buy": "b-globe"
     },
@@ -1517,9 +1517,8 @@
      "qty": 1
     },
     {
-     "item": "a torch",
-     "qty": 1,
-     "buy": "b-torch"
+     "item": "a torch (a phone torch works)",
+     "qty": 1
     },
     {
      "item": "3 small stickers or bindis, and a pen",
@@ -1566,11 +1565,11 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Push the pencil through the ball, from top to bottom. 2. Tell your child the top is the North Pole. 3. Stick three dots in a row around the middle. As you look at it, put Dong on the right, home in the middle and Bhuj on the left.",
+     "do": "1. Push the pencil through the fruit, from top to bottom. 2. Tell your child the top is the North Pole. 3. Stick three dots in a row a little above the middle, about two finger-widths apart. As you look at it, put Dong on the right, home in the middle and Bhuj on the left.",
      "say": "This ball is the Earth. The pencil is its axis, the line it spins around. The top is the North Pole. These dots are three places in India.",
      "kid": "This ball is the Earth. The pencil is its axis. The top is the North Pole. Stick on three dots for three places.",
      "adult": true,
-     "parent": "Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between."
+     "parent": "Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between. India is north of the equator, so the dots go a little above the middle."
     },
     {
      "id": "s3",
@@ -1657,8 +1656,8 @@
      "id": "s6",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then read their first answer from step 1 together.",
-     "say": "Let's finish like real scientists. What do you think now? What did you see that shows it? And why? Now, let's read your first idea. Would you change it?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why. Then look at your first idea. Would you change it?",
+     "say": "Now tell me three things. What do you think makes night? What did you see that shows it? Why does it happen? Now let's read your first idea. Would you change it?",
+     "kid": "Now say or write three things. What I think. What I saw. Why. Then read your first idea. Would you change it?",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: night comes because the Earth turns away from the Sun. What I saw: the torch never moved, but the dots went into the dark when I turned the ball. Why: light only reaches the side facing the Sun."
     }
    ],
@@ -1700,7 +1699,7 @@
    "days": 1,
    "context": "This is the shadow stick experiment. You stand a stick in the sun and mark the tip of its shadow every hour. The shadow moves and changes length, and you find out why.",
    "question": "How does a stick's shadow change during one day? What does it tell us about the Sun and the Earth?",
-   "predict": "Before you start, guess. Will the shadow be longest in the morning, at noon or in the afternoon? Which way will it move?",
+   "predict": "Before you start, guess. Will the shadow be longest in the morning, at noon or in the afternoon? Which way will it move? Why do you think so?",
    "fair_test": "To make it fair, the stick must not move all day. Mark the shadow from the same stick at the same spot each time. Mark it every hour, on the hour, by the clock.",
    "results_table": [
     "Clock time",
@@ -1713,7 +1712,7 @@
      "qty": 1
     },
     {
-     "item": "a flowerpot of soil, or a lump of clay, to hold it upright",
+     "item": "a flowerpot of soil, or a lump of atta dough or clay, to hold it upright",
      "qty": 1
     },
     {
@@ -1722,8 +1721,7 @@
     },
     {
      "item": "a ruler and a clock",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     }
    ],
    "safety": "Never look straight at the Sun, not even for a moment. Look only at the shadow. Wear a cap in the midday sun, and drink water.",
@@ -1753,11 +1751,11 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. In the morning, find a spot that will be sunny all day. 2. Stand the stick straight up in the pot. 3. Put the paper under it, and weigh the corners down with stones.",
+     "do": "1. In the morning, find the spot that gets the most sun: a balcony, a terrace or a sunny window sill. 2. Stand the stick straight up in the pot. 3. Put the paper under it, and weigh the corners down with books or steel tumblers.",
      "say": "This stick will be our clock. Do you think its shadow will stay the same all day?",
      "kid": "Stand the stick straight up in a sunny spot. Put the paper under it. Will its shadow stay the same all day?",
      "adult": true,
-     "parent": "Never let anyone look at the Sun itself. Shadows tell us everything we need.",
+     "parent": "Never let anyone look at the Sun itself. Shadows tell us everything we need. If no spot in your home gets sun all day, mark only the hours it does. Even three marks an hour apart show the shadow moving.",
      "context": "This is the first step of the shadow stick experiment. You set up a stick in a sunny spot to watch its shadow all day."
     },
     {
@@ -1849,8 +1847,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say or write: what I think, what I saw, and why.",
-     "say": "Let's finish like scientists. What do you think? What did you see? Why?",
-     "kid": "Finish like a scientist. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think made the shadow move? What did you see? Why did it happen?",
+     "kid": "Now say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the shadow moves because the Earth turns, so the Sun seems to cross the sky. What I saw: the shadow was 40 cm at 9, only 8 cm at 1, then long again by 4. It swung from one side to the other. Why: when the Sun is low, the stick blocks a long strip of light."
     }
    ],
@@ -1903,7 +1901,7 @@
    "days": 1,
    "context": "This is a small home version of Foucault's pendulum. You hang a weight on a string over a stool and turn the stool while the weight swings. It shows how scientists proved the Earth spins.",
    "question": "If the floor turns under a swinging pendulum, does the swing turn with it?",
-   "predict": "Before you start, guess. When we turn the stool, will the pendulum's swing turn with it, or stay the same?",
+   "predict": "Before you start, guess. When we turn the stool, will the pendulum's swing turn with it, or stay the same? Why do you think so?",
    "fair_test": "To make it fair, start the swing along the chalk line every time. Turn the stool very slowly and smoothly, so you do not shake the string. Try it 3 times.",
    "results_table": [
     "Try",
@@ -1916,11 +1914,11 @@
      "qty": 1
     },
     {
-     "item": "a heavy nut, a small stone or a key, to tie on the end",
+     "item": "something heavy and small to tie on the end, like a bunch of keys or a big nut",
      "qty": 1
     },
     {
-     "item": "a round stool or a lazy Susan that can turn, or a big plate on a smooth floor",
+     "item": "a round stool you can slide round on the floor, or a big steel plate (a thali) on a smooth floor",
      "qty": 1
     },
     {
@@ -1928,7 +1926,7 @@
      "qty": 1
     },
     {
-     "item": "a doorframe, a table or a stick across two chairs to hang the string from",
+     "item": "a broom handle laid across the backs of two chairs, or a table edge, to hang the string from",
      "qty": 1
     }
    ],
@@ -1959,7 +1957,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Tie the weight to the string. 2. Hang it from a stick across two chairs, or a doorframe, so it swings just above the stool. 3. Draw a chalk line across the middle of the stool.",
+     "do": "1. Tie the weight to the string. 2. Hang it from a broom handle across two chairs, so it swings just above the stool or plate. 3. Draw a chalk line across the middle of the stool or plate.",
      "say": "This is a pendulum, a weight on a string. Let's see what it does when the floor under it turns.",
      "kid": "Tie the weight to the string. Hang it just above the stool. Draw a line across the stool.",
      "adult": true,
@@ -2004,8 +2002,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Ask your child to say or write: what I think, what I saw, and why.",
-     "say": "Let's finish like scientists. What do you think? What did you see? Why?",
-     "kid": "Finish like a scientist. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think the pendulum does when the floor turns? What did you see? Why?",
+     "kid": "Now say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a pendulum keeps swinging the same way, so a turning floor shows up. What I saw: the line turned a quarter turn, but the swing stayed pointing at the window. Why: nothing pushed the weight sideways. So Foucault's pendulum shows the Earth turning."
     }
    ]
@@ -2081,7 +2079,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Try the founder's version: your child keeps turning, and also walks slowly in a big circle round you. Count the turns.",
+     "do": "Now try both movements at once: your child keeps turning, and also walks slowly in a big circle round you. Count the turns.",
      "say": "The real Earth does two things. It spins, and it also travels round the Sun. It spins about 365 times on one trip round. Let's try just a few!",
      "kid": "Now turn and walk around the Sun at the same time. Count your spins. The real Earth spins 365 times on one trip!",
      "parent": "Go slowly. Spinning makes day and night. Travelling round the Sun takes a year. This helps your child feel the difference.",
@@ -2253,7 +2251,7 @@
      "id": "s3",
      "mins": 5,
      "do": "On day 7, work out the hours of daylight. Then look up today's sunrise in a city far east and far west of you.",
-     "say": "Sunrise was at 6, and sunset at 6. How many hours of light is that? Now, when did the Sun rise in Guwahati and in Ahmedabad today?",
+     "say": "Say sunrise was at 6 in the morning and sunset at 6 in the evening. How many hours of light is that? Now, when did the Sun rise in Guwahati and in Ahmedabad today?",
      "kid": "Count the hours from sunrise to sunset. Now find sunrise in a city far east, and far west. Which was first?",
      "check": {
       "t": "mcq",
@@ -2322,7 +2320,7 @@
      "id": "s2",
      "mins": 5,
      "do": "For each place, guess what people are doing: sleeping, eating breakfast, at school or having dinner.",
-     "say": "It's 3 in the morning in New York. What are the children there doing?",
+     "say": "If it is 3 in the morning in New York, what are the children there doing?",
      "kid": "For each place, guess what children there are doing right now. Sleeping? At school?",
      "ask": [
       {
@@ -2436,7 +2434,7 @@
    "context": "This is a sunset activity. Just after sunset, you look east, away from the Sun, and see a dark band low in the sky. It is the shadow of the whole Earth.",
    "materials": [
     {
-     "item": "a clear evening and a place with a view of the eastern sky, like a terrace, beach or field",
+     "item": "a clear evening and a view of the eastern sky, from a terrace, a window facing east, a beach or a field",
      "qty": 1
     },
     {
@@ -2449,7 +2447,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Go out at sunset. Turn your back to the Sun. Watch the eastern sky for 10 minutes."
+     "what": "Go out at sunset. Turn your back to the Sun. Watch the eastern sky for about 8 minutes."
     }
    ],
    "record": "A drawing of the eastern sky after sunset, with the dark blue band and the pink band above it.",
@@ -2476,7 +2474,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Watch for 10 minutes. Look for a dark blue band along the horizon, rising slowly, with a pink band above it.",
+     "do": "Watch for about 8 minutes. Look for a dark blue band along the horizon, rising slowly, with a pink band above it.",
      "say": "See that dark blue band? That's the shadow of the whole Earth, falling on the air. We are inside it now, turning into the night.",
      "kid": "See the dark blue band low down? That is the Earth's own shadow. Watch it rise slowly.",
      "ask": [
@@ -2601,7 +2599,7 @@
      "do": "On day 3, from 11:30 to 1:30, check the shadow every 15 minutes. Find when it is shortest.",
      "say": "The shortest shadow is the Sun's true noon here. Is it at 12 by the clock?",
      "kid": "Check the shadow every 15 minutes around midday. When is it shortest? That is your true noon.",
-     "parent": "In most of India, true noon is not at 12 by the clock. In Kolkata it comes between about 11:20 and 11:55, depending on the time of year. In Mumbai it comes between about 12:20 and 12:55. India's clock time is set by the Sun near Mirzapur, in Uttar Pradesh. Places west of it have later noons.",
+     "parent": "In most of India, true noon is not at 12 by the clock. In Kolkata it comes between about 11:20 and 11:50, depending on the time of year. In Mumbai it comes between about 12:20 and 12:55. India's clock time is set by the Sun near Mirzapur, in Uttar Pradesh. Places west of it have later noons.",
      "check": {
       "t": "mcq",
       "q": "Your sundial's shortest shadow came at 12:40 by the clock. Why might that be?",
@@ -2631,7 +2629,7 @@
    "title": "Morning at the Midnight Sun",
    "mins": 25,
    "context": "This is a design challenge. In summer, at India's Arctic research station, the Sun never sets. You design a way for the scientists there to know when to sleep and when to wake.",
-   "problem": "At Himadri, India's research station in Svalbard in the Arctic, the Sun does not set at all from late April to late August. The scientists still need to sleep about 8 hours and work in the day. Design something that tells them when it is 'night' and helps them sleep.",
+   "problem": "At Himadri, India's research station in Svalbard in the Arctic, the Sun does not set at all from about the middle of April to late August. The scientists still need to sleep about 8 hours and work in the day. Design something that tells them when it is 'night' and helps them sleep.",
    "constraints": [
     "It cannot use the Sun to tell the time, because the Sun is up all day and all night.",
     "It must help people's body clocks, not just tell the time.",
@@ -2909,7 +2907,7 @@
     "Early morning"
    ],
    "a": 1,
-   "why": "Dong is far to the east, so it turned away from the Sun first. Its sunset was nearly two hours earlier. Picking 'still afternoon' gets the direction backwards.",
+   "why": "Dong is far to the east, so it turned away from the Sun first. Its sunset was about an hour and a half earlier. Picking 'still afternoon' gets the direction backwards.",
    "outcome": 4
   },
   {
@@ -2922,7 +2920,7 @@
     "The Sun pulled it"
    ],
    "a": 1,
-   "why": "A pendulum keeps swinging the same way unless something pushes it sideways. So it was the floor, and the Earth, that turned. Picking 'wind' is sensible, but Foucault kept the air still and it still happened.",
+   "why": "A pendulum keeps swinging the same way unless something pushes it sideways. So it was the floor, and the Earth, that turned. Picking 'wind' is a sensible doubt. But the swing turned at the same slow, steady rate, in the same direction, hour after hour, which wind would not do.",
    "outcome": 5,
    "context": "A pendulum is a weight on a string or wire that swings to and fro.",
    "how": "e3"
@@ -3045,7 +3043,7 @@
    "why_open": "Ideas include a giant crash long ago, or the Sun's pull on its thick air. Nobody knows for sure."
   },
   {
-   "q": "Why does a spinning thing know it is spinning, compared with the far-away stars?",
+   "q": "Spinning compared with what? Why does a spinning thing behave as if it is measured against the far-away stars?",
    "why_open": "Newton, Mach and Einstein all thought about this. Physicists still argue."
   },
   {
@@ -3334,34 +3332,13 @@
    "id": "b-globe",
    "item": "A small spinning globe",
    "kind": "tool",
-   "why": "A globe already has an axis and real places on it, so the torch and ball experiment shows exactly which cities see the Sun first.",
+   "why": "Optional. A globe already has an axis and real places on it, so the torch and ball experiment shows exactly which cities see the Sun first. An orange works too.",
    "url": "https://www.amazon.in/s?k=world+globe+for+kids",
    "used_in": [
     "e1",
     "a4"
    ],
    "plan": "Used again in the Seasons and Time zones units."
-  },
-  {
-   "id": "b-torch",
-   "item": "A bright LED torch",
-   "kind": "tool",
-   "why": "The Sun in the torch and ball experiment. A narrow beam makes a sharper day-night line.",
-   "url": "https://www.amazon.in/s?k=led+torch",
-   "used_in": [
-    "e1",
-    "c1"
-   ]
-  },
-  {
-   "id": "b-ruler",
-   "item": "30 cm ruler",
-   "kind": "tool",
-   "why": "Measures the stick's shadow every hour in the shadow stick experiment.",
-   "url": "https://www.amazon.in/s?k=30+cm+ruler",
-   "used_in": [
-    "e2"
-   ]
   },
   {
    "id": "b-book1",
@@ -3384,16 +3361,6 @@
     "g1"
    ],
    "plan": "If bought, read it on the game day, before Who Sees the Sun First?."
-  },
-  {
-   "id": "b-sundial",
-   "item": "A sundial kit for children",
-   "kind": "tool",
-   "why": "A ready-made sundial to compare with the paper-plate one in the sundial project.",
-   "url": "https://www.amazon.in/s?k=sundial+kit+kids",
-   "used_in": [
-    "p1"
-   ]
   }
  ],
  "warmup": [
@@ -3533,31 +3500,31 @@
  "roots": {
   "context": "We have been learning that day and night come from the spinning Earth. Now we ask what that spin tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "What looks like the world moving around you is you moving with the world.",
-   "habit": "We say 'the Sun rises' and 'the Sun sets', as if we stood still at the centre and the sky went round us. Those words are a habit, like calling every photocopier a 'Xerox'. Nothing rises or sets. Our patch of ground turns into the light and out of it. And day and night are not two opposite things. They are one lit, turning ball, seen from different places at the same moment.",
-   "evidence": "The torch never moved in the torch and ball experiment, yet the dots went from day to night. A Foucault pendulum keeps its swing while the floor turns under it. And when Bhuj has sunset, Dong already has night."
+   "truth": "Night does not fall from the sky. It is the Earth's own shadow, on the half facing away from the Sun. Every evening, the turning Earth carries us into that shadow. So at night, what blocks the Sun is the ground under our feet.",
+   "habit": "We say 'night falls' and 'the Sun goes down', as if darkness arrived from somewhere or the Sun went away. The Sun never stops shining on the Earth. Night is the shadow side of our own planet, and we turn into it and out of it.",
+   "evidence": "In the torch and ball experiment, the back of the ball was dark because the ball itself blocked the torch. Just after sunset, the Earth's shadow shows as a dark blue band low in the eastern sky. And when Bhuj has sunset, Dong already has night, under the same Sun."
   },
   "three": {
-   "who_am_i": "You are not standing still watching the sky. You are riding a turning world, moving with everything around you.",
-   "what_is_life": "Every living thing, from a touch-me-not plant to you, carries a clock that keeps time with the Earth's spin.",
-   "what_is_this_world": "One Sun, one turning ball. Somewhere on it, it is always morning, and somewhere it is always night."
+   "who_am_i": "You are not standing still while the sky moves. You ride on a turning Earth, at about 1,500 kilometres an hour, together with everything around you.",
+   "what_is_life": "Every living thing, from a touch-me-not plant to you, has a body clock that keeps time with the Earth's spin.",
+   "what_is_this_world": "There is one Sun and one turning Earth. At every moment it is morning somewhere and night somewhere else."
   },
-  "thread": "Before the Earth, there was a vast, quiet cloud, slowly turning. From that one turning came a spinning Sun and spinning planets. The Earth's spin made two things out of one: a day side and a night side. Yet they are never really two. They are one ball, one light, one turning. DeepKids believes this is the One showing up as the many, while never coming apart.",
+  "thread": "Day and night look like two opposite things. But they are made by one Sun shining on one ball. Morning in Dong and evening in Bhuj happen at the same moment, on the same Earth, in the same light. The turning only changes which places are in the light. DeepKids believes the world is like this all through: one whole, which looks like separate pieces depending on where you stand in it.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 3.11.1 to 3.11.3",
     "teaching": "The Upanishad speaks of a Sun that no longer rises or sets, but stands alone in the centre. For one who understands this, it says, the Sun does not rise and does not set. For them it is always day.",
-    "link": "Science found something close to this. The Sun does not rise or set at all. Only our place on the Earth turns. Seen from the Sun, it is always day somewhere."
+    "link": "The Upanishad is speaking about inner understanding, not about astronomy. But it fits what science found in one way. The Sun itself never rises or sets. Rising and setting belong to our place on the turning Earth."
    },
    {
     "source": "Tao Te Ching, chapter 2",
     "teaching": "Long and short shape each other. High and low lean on each other. Front and back follow one another. Each needs the other to exist.",
-    "link": "Day and night are like front and back. They are two sides of the same turning ball, and neither could exist without the other."
+    "link": "Day and night are like front and back. A ball lit from one side always has a lit half and a dark half. You cannot have one without the other."
    },
    {
     "source": "Aryabhatiya, Golapada verse 9 (Aryabhata, 499 CE)",
     "teaching": "A man in a moving boat sees the still trees on the bank moving backwards. In the same way, the still stars seem to move west.",
-    "link": "Aryabhata's boat is about science, and also about seeing. What seems to move around us may be our own movement. It asks us to look again at where we stand."
+    "link": "Aryabhata's boat is about science, and also about seeing. What seems to move may be ourselves. Before deciding what is moving, it helps to ask where we are standing."
    }
   ],
   "science": [
@@ -3566,25 +3533,31 @@
     "status": "settled"
    },
    {
-    "text": "The Earth, the Sun and the planets all formed from one slowly swirling cloud of gas and dust, and their spins come from that one first turning.",
-    "status": "settled"
+    "text": "The Sun and the planets formed from one slowly swirling cloud of gas and dust, about 4.6 billion years ago. Most of the planets' spin comes from that cloud's turning, though giant crashes changed some of it.",
+    "status": "idea"
    }
   ],
   "other_view": {
-   "who": "Many physicists",
-   "view": "The Earth spins because of leftover spin from a cloud of gas. That fully explains it. They see no need to talk about a One behind it, and that is an honest view."
+   "who": "Most physicists",
+   "view": "Day and night are fully explained by physics: leftover spin from the cloud the Earth formed from, light travelling in straight lines, and a ball blocking it. They see no need for any deeper oneness behind it. That is an honest view, and it is how science works."
   },
   "practice": {
    "title": "Feel the ground turn",
    "mins": 3,
-   "say": "Let's go to a window or terrace at sunset, or stand facing a lamp. Stand still and look at the light. Now, don't think of the Sun going down. Imagine the ground under your feet slowly tipping you backwards, away from it. Breathe in slowly. Breathe out slowly. Feel the whole Earth leaning with you. Stay quiet for a moment. Who else is turning with us right now?",
+   "say": "Let's go to a window or terrace at sunset, or stand facing a lamp. Stand still and look at the light. Don't think of the Sun going down. Imagine the ground under your feet slowly tipping you backwards, away from it. Breathe in slowly. Breathe out slowly. The whole Earth is turning with you. Stay quiet for a moment. Who else is turning with us right now?",
    "kid": "Face the setting Sun, or a lamp. Stand very still. Imagine the ground tipping you slowly backwards. Breathe slowly, three times."
   },
   "ask": [
-   "If you are moving and the Sun is still, where is the centre?",
+   "At night, the ground under you is between you and the Sun. Is night something that comes to us, or somewhere we go?",
    "When it is night for you, is it night for the Earth?",
-   "Is anything really still?"
+   "The Sun moves too, round the middle of our galaxy. Is anything in the universe really still?"
   ],
   "art": "A child standing on the curve of the Earth at the day-night line, one arm in golden sunlight and one in starry night, the whole ball turning slowly beneath them."
+ },
+ "how_we_found_out": {
+  "story": "For thousands of years, most people believed that the Earth stood still and the whole sky turned round it once a day. It looked that way, and it felt that way. In 499 CE, the Indian astronomer Aryabhata disagreed. In his book, the Aryabhatiya, he wrote that the Earth turns. He compared us to a man in a moving boat, who sees the trees on the bank slide backwards. Later Indian astronomers, including Brahmagupta, argued against him. In 1543, Copernicus in Poland also wrote that the Earth spins. But for centuries nobody could show the spin directly. In 1851, the French scientist Léon Foucault hung a heavy ball on a 67-metre wire in the Panthéon, a great hall in Paris, and set it swinging. Over the hours, the line of the swing slowly turned round the floor. Nothing was pushing it sideways. The floor, and the whole Earth with it, was turning underneath. Crowds came to watch. Now anyone could see the Earth's spin in a single room.",
+  "who": "Aryabhata (India, 499 CE), Nicolaus Copernicus (Poland, 1543) and Léon Foucault (France, 1851)",
+  "when": "499 CE to 1851",
+  "wrong_idea": "The Earth stands still, and the Sun and the stars travel round it every day. Foucault's pendulum showed that it is the floor, and the Earth, that turns."
  }
 }
