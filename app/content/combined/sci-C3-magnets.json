@@ -7,7 +7,7 @@
  "title": "Magnets: what they attract, and how they act without touching",
  "source": "DeepKids Combined. Covers Cambridge Stage 3 Unit 5.5 'Magnetic materials' (magnetic and non-magnetic materials, testing which materials are magnetic, uses of magnets), and goes further into poles, the magnetic field and the Earth as a magnet. No textbook needed.",
  "summary": "A magnet sticks to a steel spoon but often slides off a steel tumbler, and it ignores brass, copper and aluminium completely. Your child tests things at home to find which materials a magnet attracts, pulls black magnetite grains out of soil, and shows that a magnet's force acts through paper, a hand and water. They feel two magnets repel, see the shape of a magnetic field, and make a needle compass that points north because the whole Earth is a magnet.",
- "builds_on": "In Class 1 and Class 2 your child held a magnet against things to see what it picked up. This rung finds the pattern (only some metals are magnetic), and goes on to poles, the magnetic field, and the Earth as a magnet. In Class 5 your child comes back to magnets to study magnetic force more closely and to compare magnets with fair tests.",
+ "builds_on": "In Class 1 and Class 2 your child held a magnet against things to see what it picked up. This week your child finds the pattern (only some metals are magnetic), and goes on to poles, the magnetic field, and the Earth as a magnet. In Class 5 your child comes back to magnets to study magnetic force more closely and to compare magnets with fair tests.",
  "goals": [
   "By the end your child can name the magnetic materials (iron, most steel, nickel and cobalt) and say that most metals, such as brass, copper and aluminium, are not magnetic.",
   "By the end your child can show that a magnet's force acts across a gap and through paper, cloth, a hand and water, and gets weaker with distance.",
@@ -139,7 +139,7 @@
      "kind": "talk",
      "title": "Two kinds of steel",
      "mins": 8,
-     "do": "Hold the magnet to a steel spoon and a steel tumbler again. Say: 'Steel is iron with a little carbon mixed in. Stainless steel also has chromium mixed in, so it does not rust. Some kinds also have nickel. Mixed in the right amounts, the nickel changes how the iron atoms are packed, and then a magnet does not attract it.' Ask: 'So can a magnet tell you if something is steel?' Good answer: 'If it sticks, it has iron in it. If it doesn't, it might still be steel.'"
+     "do": "Hold the magnet to a steel spoon and a steel tumbler again. Say: 'Steel is mostly iron. Stainless steel, the kind that does not rust, has other metals mixed in. In some kinds, the nickel mixed in stops a magnet attracting it.' Ask: 'So can a magnet tell you if something is steel?' Good answer: 'If it sticks, it has iron in it. If it does not, it might still be steel.'"
     },
     {
      "kind": "act",
@@ -157,7 +157,7 @@
     },
     {
      "kind": "talk",
-     "title": "The stone that kisses iron",
+     "title": "Why a magnet is called chumbak",
      "mins": 5,
      "do": "Say: 'Long ago, people found lodestones that attracted iron. In Sanskrit a magnet is called chumbaka, from a word meaning to kiss. In Hindi we still say chumbak.' Ask: 'Why do you think people gave it that name?' Good answer: 'Because iron jumps to touch it.'"
     }
@@ -189,8 +189,8 @@
     {
      "kind": "exp",
      "title": "Through paper, cloth, hand and water",
-     "mins": 17,
-     "do": "Do Experiment e3. Ask before each material: 'Will it still work?' Then do the stack of paper with both magnets. Ask: 'Was Baba right about the water?' (No: the magnet moved the clip through the glass and the water.) Ask: 'So what stopped the magnet in the paper stack?' Good answer: 'The clip was too far away.'",
+     "mins": 14,
+     "do": "Do Experiment e3. Ask before each material: 'Will it still work?' Then ask: 'Was Baba right about the water?' Good answer: 'No. The magnet moved the clip through the glass and the water.'",
      "ref": "e3"
     },
     {
@@ -210,10 +210,10 @@
    "need": [
     "a fridge magnet and a bar magnet",
     "2 steel paper clips",
-    "about 30 sheets of an old notebook",
     "a cotton cloth, cardboard and a plastic plate",
     "a glass of water",
-    "a 30 cm ruler"
+    "a 30 cm ruler",
+    "a sheet of paper"
    ],
    "prep": []
   },
@@ -334,7 +334,7 @@
      "kind": "think",
      "title": "Shen Kuo's needle",
      "mins": 7,
-     "do": "Tell Voice v1 in your own words: about 950 years ago, Shen Kuo in China wrote how to make a needle into a magnet with a lodestone, and that it worked best hanging from one silk thread. He also saw it did not point exactly south. Ask the voice question.",
+     "do": "Tell Voice v1 in your own words: more than 900 years ago, Shen Kuo in China wrote how to make a needle into a magnet with a lodestone, and that it worked best hanging from one silk thread. He also saw it did not point exactly south. Ask the voice question.",
      "ref": "v1"
     },
     {
@@ -348,7 +348,7 @@
      "kind": "talk",
      "title": "How a turtle finds its way",
      "mins": 6,
-     "do": "Say: 'A baby loggerhead sea turtle has a big problem. It hatches on a beach and must swim across a whole ocean, and years later come back to the same coast. In the open sea there are no landmarks and no map.' Ask: 'How could it find its way?' Then say: 'Scientists in the USA put young loggerheads in a tank and changed the magnetic field around them. The turtles turned to swim as if they were in a different part of the ocean. So they can sense the Earth's magnetic field and use it like a map. Birds such as robins can sense it too. People needed a compass to do the same.'"
+     "do": "Say: 'A baby loggerhead sea turtle hatches on a beach and must swim across a whole ocean. Years later it comes back to the same coast. The open sea has no landmarks and no map.' Ask: 'How could it find its way?' Then say: 'Scientists in the USA put young loggerheads in a tank and changed the magnetic field around them. The turtles swam as if they were in a different part of the ocean. So they sense the Earth's magnetic field and use it like a map. Some birds, such as robins, sense it too.'"
     }
    ],
    "need": [
@@ -722,11 +722,11 @@
       },
       {
        "t": "mcq",
-       "p": "Meena's magnet would not pick up two brass keys from a drain. It did pick up the steel ring they hung on. What did the keys come up with?",
+       "p": "In the story, Meena's magnet would not pick up two brass keys from a drain. But the keys hung on a steel ring. How did the keys come up?",
        "opts": [
-        "nothing, they stayed in the drain",
-        "the ring, because the ring held them",
-        "only one key"
+        "They did not come up.",
+        "The magnet lifted the ring, and the keys hung on the ring.",
+        "The magnet lifted only one key."
        ],
        "a": 1
       },
@@ -812,7 +812,7 @@
    "predict": "Ask your child to guess first: 'Will every metal thing stick? Will anything that is not metal stick? Why do you think so?'",
    "observe": "The nail, safety pin, clip and usually the spoon stick. Foil, copper, brass, plastic, wood, glass, cloth, rubber and stone do not. Many steel tumblers do not stick, or stick only weakly. Some coins stick and some do not.",
    "why": "A magnet attracts only a few materials: iron, most kinds of steel, nickel and cobalt. These are called magnetic materials. Steel is mostly iron. Most metals, such as aluminium, copper and brass, are not magnetic. Some stainless steel is made with nickel mixed in, in a way that stops a magnet attracting it, so a steel tumbler may not stick. Coins are made of different metals, so some stick and some do not.",
-   "safety": "Keep magnets away from bank cards. A grown-up handles the nail. Never let a small child put a magnet in their mouth.",
+   "safety": "Keep magnets away from bank cards. Never let a small child put a magnet in their mouth.",
    "time": "18 min"
   },
   {
@@ -837,7 +837,7 @@
     "Test the second sample the same way. Keep the black grains in a folded paper for Day 5."
    ],
    "predict": "Ask your child to guess first: 'Will anything in the soil stick to the magnet? What colour will it be?'",
-   "observe": "Tiny black, shiny grains collect on the bag like a fuzzy beard. Building sand from a river usually gives the most. Potted plant soil may give only a few grains.",
+   "observe": "Tiny black, shiny grains collect on the bag like a fuzzy beard. Building sand from a river usually gives the most. Potted plant soil may give only a few grains. If you find no grains, that is a real result too: this soil has very little magnetite. Use staple pins on Day 5.",
    "why": "The black grains are a mineral called magnetite. It is made of iron and oxygen, and a magnet attracts it. Lodestones, the natural magnets people found thousands of years ago, are made of magnetite. Rivers wash magnetite grains out of rocks and leave them in sand.",
    "safety": "Always wrap the magnet in plastic first: grains stuck straight onto a magnet are very hard to clean off. Wash hands after touching soil. Collect sand from a building site only with a grown-up.",
    "time": "12 min"
@@ -846,26 +846,23 @@
    "id": "e3",
    "title": "Through paper, cloth, hand and water",
    "day": 3,
-   "question": "Can a magnet's force act through other materials?",
+   "question": "Can a magnet's force act through paper, cloth, a hand and water?",
    "need": [
     "a fridge magnet and a stronger magnet, such as a bar magnet",
     "two steel paper clips",
-    "about 30 sheets of an old notebook",
-    "a cotton cloth, a piece of cardboard and a plastic plate",
+    "a sheet of paper, a cotton cloth, a piece of cardboard and a plastic plate",
     "a clear glass of water"
    ],
    "steps": [
     "Put a clip on the table. Cover it with one sheet of paper. Put the magnet on top and lift it slowly. Does the clip come up?",
     "Try the cloth, the cardboard and the plastic plate in the gap. Then put the clip on your child's open palm and move the stronger magnet under the hand. Does the clip move?",
-    "Drop a clip into the glass of water. Hold the stronger magnet against the outside of the glass, by the clip, and slide it up. Does the clip follow?",
-    "Now stack sheets of paper over the clip, 5 at a time. Find the biggest stack where the magnet still lifts the clip. Try it twice.",
-    "Do the stack test with the second magnet."
+    "Drop a clip into the glass of water. Hold the stronger magnet against the outside of the glass, by the clip, and slide it up. Does the clip follow?"
    ],
    "predict": "Ask your child to guess first: 'Will the magnet still work through paper? Through your hand? Through water?'",
-   "observe": "The magnet attracts the clip through paper, cloth, cardboard and plastic. The stronger magnet moves the clip on the palm and drags it up the inside of the glass of water. A weak fridge magnet may not work through a hand or a glass. As the stack grows, the clip lifts less easily, and at some height it stops. The stronger magnet works through a thicker stack.",
-   "why": "A magnet's force acts across a gap, without touching. Materials that are not magnetic, like paper, cloth and water, do not stop it. What stops it in the stack test is distance: the magnetic force gets weaker very quickly as the clip gets further away.",
+   "observe": "The magnet attracts the clip through paper, cloth, cardboard and plastic. The stronger magnet moves the clip on the palm and drags it up the inside of the glass of water. A weak fridge magnet may not work through a hand or a glass, because they make the gap too big.",
+   "why": "A magnet's force acts across a gap, without touching. Materials that are not magnetic, like paper, cloth, skin and water, do not stop it. What does weaken it is distance: the force gets weaker quickly as the clip gets further away.",
    "safety": "Mop up any spilled water. Keep the glass away from the table edge.",
-   "time": "17 min"
+   "time": "14 min"
   },
   {
    "id": "e4",
@@ -932,7 +929,7 @@
    ],
    "predict": "Ask your child to guess first: 'The second clip never touches the magnet. Will it still hang on? Where on the bar will most clips stick?'",
    "observe": "A chain of several clips hangs from the end. When the magnet is pulled away, most of the chain falls apart. Clips gather in bunches at the two ends of the bar and very few stick in the middle.",
-   "why": "Iron is made of tiny parts that each act like a tiny magnet. In an ordinary clip, they point in all directions, so their forces cancel out. Near a magnet, many of them turn to point the same way, so the clip becomes a magnet for a while and can hold the next clip. Take the magnet away and most of them turn back. A bar magnet's force is strongest at its poles, the two ends.",
+   "why": "The iron in a steel clip is made of tiny parts that each act like a tiny magnet. In an ordinary clip, they point in all directions, so their forces cancel out. Near a magnet, many of them turn to point the same way, so the clip becomes a magnet for a while and can hold the next clip. Take the magnet away and most of them turn back. A bar magnet's force is strongest at its poles, the two ends.",
    "safety": "",
    "time": "12 min"
   },
@@ -1093,7 +1090,7 @@
    },
    {
     "front": "A steel safety pin. Stick or skip?",
-    "back": "Stick. Most steel is mostly iron."
+    "back": "Stick. Steel is mostly iron, and this kind is magnetic."
    },
    {
     "front": "A copper wire. Stick or skip?",
@@ -1195,7 +1192,7 @@
   },
   {
    "q": "'The compass was invented in Europe.'",
-   "hint": "The magnetic compass was first used in China. Shen Kuo described a magnetised needle about 950 years ago, and Chinese sailors were using compasses at sea by the early 1100s. European and Arab writers describe sailors' compasses only from about 1190 and 1230. Ask: who writes the history books, and who might they leave out?"
+   "hint": "The magnetic compass was first used in China. Shen Kuo described a magnetised needle more than 900 years ago, and Chinese sailors were using compasses at sea by the early 1100s. European and Arab writers describe sailors' compasses only from about 1190 and 1230. Ask: who writes the history books, and who might they leave out?"
   }
  ],
  "perspectives": [

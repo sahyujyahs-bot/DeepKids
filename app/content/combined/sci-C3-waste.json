@@ -216,7 +216,7 @@
      "kind": "exp",
      "title": "Start a compost pot",
      "mins": 20,
-     "do": "Do Experiment e2. Ask first: 'Can we turn our peels into soil for the tulsi? What do the decomposers need to do it?' Build the layers together: dry leaves or shredded newspaper, then peels, then a handful of old soil, then dry leaves again. Sprinkle water until it feels like a squeezed sponge. Say: 'Peels are wet and bring food. Dry leaves let air in. The soil brings the decomposers.'",
+     "do": "Do Experiment e2. Ask first: 'Can we turn our peels into soil for our plants? What do the decomposers need to do it?' Build the layers together: dry leaves or shredded newspaper, then peels, then a handful of old soil, then dry leaves again. Sprinkle water until it feels like a squeezed sponge. Say: 'Peels are wet and bring food. Dry leaves let air in. The soil brings the decomposers.'",
      "ref": "e2"
     },
     {
@@ -275,7 +275,7 @@
      "kind": "think",
      "title": "Does burning make it go away?",
      "mins": 5,
-     "do": "Ask: 'People sometimes burn garbage on the road. After burning, the heap is small. Has the waste gone?' Let your child think. Say: 'Nothing is ever destroyed. Its tiny parts, called atoms, only move somewhere else. Burnt plastic becomes smoke, harmful gases and ash. The smoke goes into our lungs, and into the lungs of birds and dogs nearby.' Ask: 'So where is away?'"
+     "do": "Ask: 'People sometimes burn garbage on the road. After burning, the heap is small. Has the waste gone?' Let your child think. Say: 'Burning does not destroy anything. Everything is made of tiny parts called atoms. Burning only moves them somewhere else. Burnt plastic becomes smoke, harmful gases and ash. The smoke goes into our lungs, and into the lungs of birds and dogs nearby.' Ask: 'Where does the smoke go after that?' Good answer: 'Into the air that people and animals breathe.'"
     },
     {
      "kind": "talk",
@@ -349,7 +349,7 @@
      "kind": "talk",
      "title": "Paper, metal, glass and plastic",
      "mins": 8,
-     "do": "Say: 'Each time paper is recycled, its fibres get shorter. After about five to seven times, they are too short to hold together.' Say: 'Metal and glass are different. A steel tiffin or a glass bottle can be melted and made new again and again. Making a can from old cans uses only about a twentieth of the energy of making it from rock.' Say: 'Plastic is hardest. There are many kinds, and they cannot be melted together. A chips packet is made of layers of plastic and metal, so almost nobody recycles it. Many old bottles become polyester thread for cloth, which is hard to recycle again.' Ask: 'Which of our things can be recycled again and again?' Good answer: 'Steel, glass and metal cans.'"
+     "do": "Say: 'Each time paper is recycled, its fibres get shorter. After about five to seven times, they are too short to hold together.' Say: 'Metal and glass are different. A steel tiffin or a glass bottle can be melted and made new again and again. Making an aluminium drink can from old cans uses only about a twentieth of the energy of making it from rock.' Say: 'Plastic is hardest. There are many kinds, and they cannot be melted together. A chips packet is made of layers of plastic and metal, so almost nobody recycles it. Many old bottles become polyester thread for cloth, which is hard to recycle again.' Ask: 'Which of our things can be recycled again and again?' Good answer: 'Steel, glass and metal cans.'"
     },
     {
      "kind": "talk",
@@ -689,11 +689,11 @@
       },
       {
        "t": "mcq",
-       "p": "Which way of dealing with waste saves the most?",
+       "p": "Which is the best way to deal with plastic carry bags?",
        "opts": [
-        "reduce",
-        "recycle",
-        "dump"
+        "Do not take one: carry a cloth bag",
+        "Recycle them",
+        "Throw them in the dump"
        ],
        "a": 0
       }
@@ -756,17 +756,20 @@
        "a": 0
       },
       {
-       "t": "fill",
-       "p": "Wet waste rotting deep inside a dump, with no air, makes a gas that can catch fire. It is called ____.",
-       "a": [
-        "methane"
-       ]
+       "t": "mcq",
+       "p": "In a big dump, wet waste is pressed under plastic and other rubbish, with almost no air. What happens to the wet waste?",
+       "opts": [
+        "It rots slowly, smells bad and gives off a gas that can catch fire",
+        "It turns into good compost in a week",
+        "It turns into plastic"
+       ],
+       "a": 0
       },
       {
        "t": "mcq",
        "p": "Why does almost no microbe have a way to eat plastic?",
        "opts": [
-        "Plastic is new, so microbes have had little time to evolve a way",
+        "Plastic is new, so microbes have had little time to find a way",
         "Plastic is too heavy",
         "Microbes do not like its colour"
        ],
@@ -1070,7 +1073,7 @@
    },
    {
     "front": "A steel spoon that is bent",
-    "back": "REUSE OR REPAIR. Bend it back. Old steel can be recycled for ever."
+    "back": "REUSE OR REPAIR. Bend it back. Old steel can be recycled again and again."
    },
    {
     "front": "An empty glass jam jar",
@@ -1184,7 +1187,7 @@
    "id": "v2",
    "who": "Ignaz Semmelweis (1818–1865), doctor, Hungary and Austria",
    "idea": "In 1847, at a big hospital in Vienna, many mothers were dying of a fever soon after giving birth. Semmelweis saw that doctors often came straight from cutting open dead bodies to help mothers give birth. He made the doctors wash their hands in a chlorine solution first. Far fewer mothers died.",
-   "then": "Many doctors were offended at the idea that their own hands were making mothers ill. Germs had not yet been discovered, and he could not explain what was being carried. He lost his job in Vienna. He died in 1865, in an asylum, of an infected wound.",
+   "then": "Many doctors were offended at the idea that their own hands were making mothers ill. Nobody yet knew that germs cause disease, so he could not explain what was being carried. He lost his job in Vienna. He died in 1865, in an asylum, of an infected wound.",
    "now": "In the years after he died, scientists such as Louis Pasteur and Robert Koch showed that germs cause disease. Semmelweis was right. Handwashing is now one of the most important ways to stop illness.",
    "status": "accepted",
    "ask": "Semmelweis had good results, but he could not see or show the thing that was harming people. What would you need to see before you believed in something invisible?",
@@ -1208,7 +1211,7 @@
    "I have no lungs either. I breathe through my skin, and only damp skin can breathe. So I like my pot the way the girl keeps it, as damp as a squeezed sponge. The girl's name is Ira. I know her by the way the pot shakes when she comes near. Her steps are quick and light. Her father's steps are slow, and he always says 'Chee!' when he lifts the lid.",
    "Every evening Ira tips in the day's food. Onion skins. Tea leaves, still warm. The green tops of carrots. Mango skins in summer. Eggshells, crushed small. Then a layer of dry leaves from the tree by the gate, so the pot does not go soggy and sour.",
    "I do not eat alone. Nobody in this pot eats alone. First come the ones too small for anyone to see, the bacteria. They are on every peel and in every crumb of soil. Then come the fungi, whose white threads spread through a soft tomato like roots. They pour out juices that make the food soft. Then I come, and I swallow the soft food with grains of soil. What comes out of my other end is dark and crumbly. Ira's mother calls it black gold.",
-   "On the first day of the pot, something else fell in with the peels. It was small, about the size of my head. It was a little triangle, smooth, with sharp edges. It had no smell at all. I had never met anything with no smell.",
+   "On the first day of the pot, something else fell in with the peels. It was a little triangle, smooth, with sharp edges. It had no smell at all. I had never met anything with no smell.",
    "I pushed against it. It did not give. The bacteria crowded over it and found nothing to eat. The fungi sent a thread across it and drew the thread back. Then the dry leaves came down, and the next day's peels, and the triangle was buried. I forgot about it.",
    "Many weeks went by. The rains came, and the pot stayed damp. The onion skins went first. The tea leaves turned to soil. The mango skins took longer, and the eggshells longest of all, but even they went soft and broke into white flecks. New worms hatched in the pot. The pot grew heavy with black gold.",
    "Then one bright morning the lid came off and did not go back. Ira's hands came down into the pot. 'Gently,' said her mother. 'It's ready. Let's fill the tulsi pot.' I went down as fast as I could, away from the light. Ira's fingers sifted the soil around me. Then they stopped.",

@@ -5,8 +5,8 @@
  "level": 3,
  "n": "society-community-culture-and-festivals",
  "title": "Community and festivals: why people live and celebrate together",
- "source": "DeepKids Combined. Covers NCERT Class 3 'Going to the Mela' (near and far family at the mela, how families in a community help each other) and 'Celebrating Festivals' (food, dress and customs, all ages celebrating together). It also covers NIOS Class 3 Lesson 2 'Our Social Environment' (professions and respect for them, public services, family, neighbourhood and community), Lesson 3 'Our Festivals' (festivals of many regions and religions, national festivals), Lesson 11 'National Identity' (flag, national days, anthem and song, national symbols) and Lesson 12 'Our Social and Economic Environment' (globalisation, Right to Education, Right to Information, MGNREGA). Also animal societies, culture as learned behaviour, and Sun and Moon calendars. No textbook needed.",
- "summary": "Count everyone who helped make your breakfast and you run out of fingers. No person or family lives alone. Your child tests why people split work into steps, maps the helpers and shared places around home, watches ants follow a smell trail and dances the honeybee's waggle dance. They find out that culture is what people learn from each other, and that some monkeys have it too. They discover why Christmas stays on one date while Eid moves, design a festival of their own, make an exact Tricolour and learn three rights Indian law gives every person.",
+ "source": "DeepKids Combined. Covers NCERT Class 3 'Going to the Mela' (near and far family at the mela, how families in a community help each other) and 'Celebrating Festivals' (food, dress and customs, all ages celebrating together). It also covers NIOS Class 3 Lesson 2 'Our Social Environment' (professions and respect for them, public services, family, neighbourhood and community), Lesson 3 'Our Festivals' (festivals of many regions and religions, national festivals), Lesson 11 'National Identity' (flag, national days, anthem and song, national symbols) and Lesson 12 'Our Social and Economic Environment' (globalisation, Right to Education, Right to Information, MGNREGA, now the rural work guarantee). Also animal societies, culture as learned behaviour, and Sun and Moon calendars. No textbook needed.",
+ "summary": "Count everyone who helped make your breakfast and you run out of fingers. No person or family lives alone. Your child tests why people split work into steps, maps the helpers and shared places around home, watches ants follow a smell trail and dances the honeybee's waggle dance. They find out that culture is what people learn from each other, and that some monkeys have it too. They discover why Christmas stays on one date while Eid moves, design a festival of their own, make an exact Tricolour and learn three rights that Indian law gives.",
  "builds_on": "This is the first rung on society and community. It builds on the Class 3 family rung (who raises a child, sharing work at home). In Class 4 the rung looks at living together in a neighbourhood: shared spaces, transport, banks and maps. In Class 5 it looks at India's many cultures, heritage, freedom struggle and how communities are run.",
  "subconcepts": [
   "community and society: people who live near each other and depend on each other",
@@ -22,7 +22,7 @@
   "solar, lunar and lunisolar calendars: why some festivals move",
   "national identity: the flag, emblem, anthem, song, symbols and national days",
   "globalisation: goods and people moving between countries",
-  "rights in Indian law: Right to Education, Right to Information and MGNREGA"
+  "rights in Indian law: the Right to Education, the Right to Information and the rural work guarantee"
  ],
  "goals": [
   "By the end your child can trace a meal back through the many people who helped make it.",
@@ -30,7 +30,7 @@
   "By the end your child can name public services near home, say who pays for them, and say what to do if lost in a crowd.",
   "By the end your child can explain how ants and bees share news, and what culture is.",
   "By the end your child can explain why Christmas stays on one date while Eid moves about 11 days each year.",
-  "By the end your child can name India's national symbols and days, and three rights Indian law gives every person."
+  "By the end your child can name India's national symbols and days, and three rights that Indian law gives."
  ],
  "words": [
   [
@@ -67,7 +67,7 @@
   ],
   [
    "pheromone",
-   "a smell an animal makes with its body to send a message to others of its kind"
+   "a chemical an animal makes with its body that others of its kind smell, like a message"
   ],
   [
    "culture",
@@ -83,7 +83,7 @@
   ],
   [
    "right",
-   "something the law says every person must have, which no one may take away"
+   "something the law says a person must have, which no one may take away"
   ]
  ],
  "day_mins": 40,
@@ -134,7 +134,7 @@
      "kind": "exp",
      "title": "The paper-bag test",
      "mins": 15,
-     "do": "Do Experiment e1 with at least two people. Ask first: 'Will each of us make more bags working alone, or working as a line where each person does one step? Why do you think so?' Write the guess. Do Round 1 (each person alone, 5 minutes) and Round 2 (a line, 5 minutes). Count the bags. Ask: 'Why do you think the line made more, or fewer?' Good answer: 'Each person did one step again and again, got quick at it, and didn't waste time switching.'",
+     "do": "Do Experiment e1 with at least two people. Ask first: 'Will each of us make more bags working alone, or working as a line where each person does one step? Why do you think so?' Write the guess. Do Round 1 (each person alone, 5 minutes) and Round 2 (a line, 5 minutes). Count the bags. Ask: 'Why do you think the line made more, or fewer?' Good answer: 'Each person did one step again and again, got quick at it, and didn't waste time switching.' If the line made fewer, ask why: often one step was much slower than the others.",
      "ref": "e1"
     },
     {
@@ -158,7 +158,7 @@
     }
    ],
    "need": [
-    "10 sheets of newspaper cut in half",
+    "20 sheets of newspaper cut in half",
     "a glue stick",
     "a timer or phone",
     "the community map"
@@ -192,7 +192,7 @@
      "kind": "talk",
      "title": "Lost at the mela",
      "mins": 8,
-     "do": "Say: 'A mela is a big fair, with stalls, rides and crowds. Many families go together, near and far relatives and neighbours.' Ask: 'If you got lost in a crowd, what would you do?' Agree on the plan: stand still, then go to a police officer, a Lost and Found booth or a woman with children, and say your parent's phone number. Your child says the number aloud until they know it. Say: 'Scientists who study real crowds found that in emergencies most people help strangers.'"
+     "do": "Say: 'A mela is a big fair, with stalls, rides and crowds. Many families go together, near and far relatives and neighbours.' Ask: 'If you got lost in a crowd, what would you do?' Agree on the plan: stand still, then go to a police officer, a Lost and Found booth or a woman with children, and say your parent's phone number. Your child says the number aloud until they know it."
     }
    ],
    "need": [
@@ -209,7 +209,7 @@
      "kind": "exp",
      "title": "The ant trail test",
      "mins": 15,
-     "do": "Do Experiment e2. In the morning you put a drop of sugar water where ants come. Now look together at the line of ants. Ask: 'How do the ants know the way?' Write the guess. An adult wipes one firm line across the trail with a damp cloth. Watch for 2 minutes. Ask: 'What did the ants do at the wiped line?' (They stopped, turned and wandered, then found the path again.) Then explain the scent trail from the experiment's 'why'.",
+     "do": "Do Experiment e2. In the morning you put a drop of sugar water where ants come. Now look together at the line of ants. Ask: 'How do the ants know the way?' Write the guess. An adult wipes one firm line across the trail with a damp cloth. Watch for 2 minutes. Ask: 'What did the ants do at the wiped line?' (They stopped, turned and wandered, then found the path again.) Then explain the smell trail from the experiment's 'why'.",
      "ref": "e2"
     },
     {
@@ -280,7 +280,7 @@
     }
    ],
    "need": [
-    "6 paper slips and pencils",
+    "7 paper slips and pencils",
     "a timer",
     "Worksheet ws1"
    ]
@@ -294,7 +294,7 @@
      "kind": "talk",
      "title": "Festivals all over India",
      "mins": 10,
-     "do": "Ask: 'Which festivals does our family celebrate? Which do our neighbours celebrate?' Then say: 'Harvest festivals thank the land when crops are cut: Pongal in Tamil Nadu, Lohri in Punjab, Bihu in Assam, Onam in Kerala. Religious festivals remember a teacher or a story: Eid-ul-Fitr ends the fasting month of Ramzan, Christmas remembers the birth of Jesus, Guru Nanak Jayanti and Buddha Purnima remember great teachers, Diwali is the festival of lamps.' Ask: 'What is the same about most festivals?' Good answers: special food, new or best clothes, visiting people, lights, sharing."
+     "do": "Ask: 'Which festivals does our family celebrate? Which do our neighbours celebrate?' Then say: 'Harvest festivals thank the land when crops are cut: Pongal in Tamil Nadu, Lohri in Punjab, Bihu in Assam, Onam in Kerala. Religious festivals remember a teacher or a story: Eid-ul-Fitr ends the fasting month of Ramzan, Christmas remembers the birth of Jesus, Guru Nanak Jayanti and Buddha Purnima remember great teachers. Diwali, the festival of lamps, remembers stories such as Rama coming home.' Ask: 'What is the same about most festivals?' Good answers: special food, new or best clothes, visiting people, lights, sharing."
     },
     {
      "kind": "exp",
@@ -363,7 +363,7 @@
      "kind": "talk",
      "title": "Symbols we share",
      "mins": 10,
-     "do": "Say: 'A country is millions of people who speak many languages and celebrate many festivals. Shared symbols remind them that they belong together.' Show a coin or note for the Lion Capital and the words Satyamev Jayate, 'truth alone wins'. Name the national anthem, Jana Gana Mana by Rabindranath Tagore, and the national song, Vande Mataram by Bankim Chandra Chattopadhyay. Name the tiger, peacock, lotus and banyan tree. Name the national days: Republic Day on 26 January, Independence Day on 15 August, Gandhi Jayanti on 2 October. Ask: 'Is hockey our national game?' Then tell the answer from the challenge."
+     "do": "Say: 'A country is millions of people who speak many languages and celebrate many festivals. Shared symbols remind them that they belong together.' Show a coin or a note. Point to the four lions: this is the national emblem, taken from the Lion Capital of Ashoka. Below it are the words Satyameva Jayate, 'truth alone wins'. Name the national anthem, Jana Gana Mana by Rabindranath Tagore, and the national song, Vande Mataram by Bankim Chandra Chattopadhyay. Name the tiger, peacock, lotus and banyan tree. Name the national days: Republic Day on 26 January, Independence Day on 15 August, Gandhi Jayanti on 2 October. Ask: 'Is hockey our national game?' Then tell the answer from the challenge."
     },
     {
      "kind": "act",
@@ -396,13 +396,13 @@
   {
    "n": 9,
    "title": "Rights, review and teach it back",
-   "goal": "Learn three rights that Indian law gives every person, finish the worksheets and teach the family.",
+   "goal": "Learn three rights that Indian law gives, finish the worksheets and teach the family.",
    "steps": [
     {
      "kind": "talk",
      "title": "Rights in law, and Savitribai Phule",
      "mins": 10,
-     "do": "Tell Voice v4 first. Then say: 'A right is something the law says every person must have. In India, the Right to Education means every child aged 6 to 14 can go to school for free. The Right to Information means anyone can ask the government how public money was spent, and must get an answer within 30 days. MGNREGA means a village family can ask for up to 100 days of paid work a year.' Ask: 'Which of these would have helped the girls Savitribai taught?' Ask the voice question.",
+     "do": "Tell Voice v4 first. Then say: 'A right is something the law says a person must have. In India, the Right to Education means every child aged 6 to 14 can go to school for free. The Right to Information means any citizen can ask the government how public money was spent, and must get an answer within 30 days. The rural work guarantee means a village family can ask the government for paid work. A law called MGNREGA promised up to 100 days a year. Since July 2026 a new law promises up to 125 days.' Ask: 'Which of these would have helped the girls Savitribai taught?' Ask the voice question.",
      "ref": "v4"
     },
     {
@@ -810,7 +810,7 @@
        "cats": [
         "Right to Education",
         "Right to Information",
-        "MGNREGA"
+        "rural work guarantee"
        ]
       }
      ]
@@ -846,19 +846,19 @@
    "question": "Do people make more when each does one step, or when each does the whole job?",
    "need": [
     "at least 2 people",
-    "10 sheets of newspaper, each cut in half",
+    "20 sheets of newspaper, each cut in half",
     "a glue stick",
     "a timer or phone"
    ],
    "steps": [
-    "Show everyone the four steps: fold a half-sheet in half, glue the open side, fold up the bottom 5 cm, glue the bottom shut.",
+    "Show everyone the three steps: fold a half-sheet in half, glue one open side shut, then fold the bottom edge up by 2 cm and glue it down.",
     "Round 1: each person makes bags alone for 5 minutes. Count the finished bags.",
-    "Round 2: sit in a line. The first person only folds. The next only glues the side. The last folds and glues the bottom. Work for 5 minutes and count again.",
+    "Round 2: sit in a line. The first person only folds. The next only glues the side. The last only folds and glues the bottom. With 2 people, one folds and glues the side, and the other does the bottom. Work for 5 minutes and count again.",
     "Write both totals side by side."
    ],
    "predict": "Ask your child to guess first: 'Will we make more bags alone or in a line? Why?'",
    "observe": "Compare the two totals. With 3 or more people the line usually makes more. With only 2 people the difference may be small.",
-   "why": "When a person does one step again and again, their hands get quick at it and no time is lost putting down the glue and picking up the next sheet. This is called the division of labour. Towns work the same way: farmers grow food, tailors sew, drivers carry goods, and each depends on the others. The cost is that one step all day can be dull, and the worker may never learn the whole craft.",
+   "why": "When a person does one step again and again, their hands get quick at it, and no time is lost putting down one thing and picking up the next. This is called the division of labour. Towns work the same way: farmers grow food, tailors sew, drivers carry goods, and each depends on the others. The cost is that one step all day can be dull, and the worker may never learn the whole craft.",
    "safety": "",
    "time": "15 min"
   },
@@ -883,7 +883,7 @@
    ],
    "predict": "Ask your child to guess first: 'If I wipe across their path, what will the ants do? Why?'",
    "observe": "Ants reaching the wiped line stop, wave their antennae and wander. After a little while a few cross, and soon the line forms again.",
-   "why": "An ant that finds food lays a trail of a chemical with its body on the way home. This chemical is called a pheromone. Other ants smell it with their antennae and follow it. Each ant that finds food adds more, so a good trail grows strong. Wiping removes the smell, so the ants lose the way until some cross and lay it again. No ant is in charge. The trail is made by many ants together.",
+   "why": "A nest needs food, but the food may be far away, and one ant cannot carry it all. So an ant that finds food lays a trail of a chemical from its body on the way home. This chemical is called a pheromone. Other ants smell it with their antennae and follow it to the food. Each ant that finds food adds more, so a good trail grows strong. Wiping removes the smell, so the ants lose the way until some cross and lay it again. No ant is in charge. The trail is made by many ants together.",
    "safety": "Do not touch the ants: some kinds bite or sting. Clean the sugar away afterwards. If no ants come by the afternoon, try again near a window sill another day, or watch a video of an ant trail.",
    "time": "5 min to set up in the morning + 15 min later"
   },
@@ -956,7 +956,7 @@
    "day": 5,
    "mins": 10,
    "need": [
-    "6 paper slips",
+    "7 paper slips",
     "a pencil",
     "a timer",
     "2 or more people"
@@ -1034,7 +1034,7 @@
   {
    "id": "v3",
    "who": "Kinji Imanishi (1902–1992) and the Koshima monkey watchers, Japan",
-   "idea": "Imanishi and his students at Kyoto University watched wild Japanese macaques for many years. He argued that animals can have culture: habits learned from each other, not born in them. In 1953 on Koshima island, a young female they named Imo began washing sweet potatoes in water. Satsue Mito, a local woman who helped the scientists watch the monkeys, was among the first to record it. Her mother and playmates copied her, and the habit spread through the group over years. Old males were slowest to learn.",
+   "idea": "Imanishi and his students at Kyoto University watched wild Japanese macaques for many years. He argued that animals can have culture: habits learned from each other, not born in them. In 1953 on Koshima island, a young female they named Imo began washing sweet potatoes in water. Satsue Mito, a local woman who helped the scientists watch the monkeys, was among the first to record it. A playmate copied her first, then her mother, and the habit spread through the group over years. Old males were slowest to learn.",
    "then": "Many scientists in Europe and America said culture belonged to humans only, and that the Japanese scientists were too ready to see minds in animals.",
    "now": "Today many scientists agree that some animals have traditions passed on by learning: chimpanzees cracking nuts with stones, whales singing songs, macaques washing food. How alike these are to human culture is still argued about.",
    "status": "debated",
@@ -1142,7 +1142,7 @@
   },
   {
    "who": "A sanitation worker",
-   "view": "She starts work before the building wakes, and most people never learn her name. Without her, disease would spread in days. Ask: why are the most needed jobs sometimes the least thanked?"
+   "view": "She starts work before the building wakes, and most people never learn her name. Without her work, garbage piles up in days and germs spread. Ask: why are the most needed jobs sometimes the least thanked?"
   },
   {
    "who": "Gagandeep Kang, doctor and scientist (born 1962), Vellore, Tamil Nadu",
@@ -1166,7 +1166,7 @@
    "Imo was younger than me, a small girl monkey with quick hands. She was always poking at things: shells, sticks, the wet line where the waves stopped. The older monkeys found her a nuisance.",
    "One morning she picked up her potato and carried it to the little stream that runs across the beach into the sea. I thought she was going to drink. Instead she dipped the potato into the water. She rubbed it with her other hand, dipped it again and turned it over. The sand came away. She bit into it. No crunch. She looked at the potato for a long moment. Then she dipped it again.",
    "I made the noise we make when something is silly. Who puts food in water? But the next day she did it again, and the day after that.",
-   "Her mother was the first to copy her. She sat beside Imo at the stream, watching, and one day she dipped her own potato. Then Imo's playmates began. Then I tried it, mostly to show it was silly. The potato was clean and cold and sweet. I never ate a sandy one again if I could help it.",
+   "Her playmate was the first to copy her. She sat beside Imo at the stream, watching, and one day she dipped her own potato. Then Imo's mother began. Then I tried it, mostly to show it was silly. The potato was clean and cold and sweet. I never ate a sandy one again if I could help it.",
    "It spread slowly, over years, the way water soaks into dry ground. The young ones learned first, and the mothers who sat near them. Their babies, riding on their backs, watched the washing every day, and when they were big enough they did it too. The old males were different. They sat at the top of the beach, chewing their gritty potatoes and staring at us. Some of them never learned at all.",
    "The people with notebooks got very excited. They wrote down who washed and who did not, who sat next to whom, who learned first. They seemed to think it mattered which of us had watched which.",
    "After a while, some of us stopped using the stream and walked into the sea instead. The sea water was salty, and the potatoes tasted better. Some monkeys dipped them again between bites.",
@@ -1176,7 +1176,7 @@
    "Last week my granddaughter sat beside me on the sand, holding a potato, and asked me, 'Why do we wash them?'",
    "I thought about telling her about Imo. Instead I said, 'Because your mother does.' She looked at me, and then at the sea. Then she got up and walked down to the edge of the water, the way all of us do now."
   ],
-  "epiphany": "For the parent: the story is told by an imagined old monkey, but the events are real. In 1953, on Koshima island in Japan, a young female macaque the scientists named Imo began washing sweet potatoes, and later sorted wheat from sand by throwing it into the sea. The habits spread by watching, young ones and mothers first, and some old males never learned. The turn is the end: the babies wash their potatoes though they never met Imo, and the grandmother answers 'Because your mother does.' That answer is what culture is: something learned and passed on, not born in the body. Let your child find this on Day 5 before you name it.",
+  "epiphany": "For the parent: the story is told by an imagined old monkey, but the events are real. In 1953, on Koshima island in Japan, a young female macaque the scientists named Imo began washing sweet potatoes, and later sorted wheat from sand by throwing it into the sea. The habits spread by watching, a playmate and her mother first, and some old males never learned. The turn is the end: the babies wash their potatoes though they never met Imo, and the grandmother answers 'Because your mother does.' That answer is what culture is: something learned and passed on, not born in the body. Let your child find this on Day 5 before you name it.",
   "ask": [
    "Why did the monkeys eat sandy potatoes for so long?",
    "Why do you think the young monkeys learned first, and some old ones never learned?",

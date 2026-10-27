@@ -6,7 +6,7 @@
  "n": "nothing-and-forever",
  "title": "Zero and infinity: the number for nothing, and numbers that never end",
  "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (the Zero and Infinity grid). Covers the DeepKids subtopics 'Zero: the idea of nothing' (zero as nothing and as a placeholder, India's gift of zero, Brahmagupta's rules) and 'Infinity' (numbers never end, counting for ever, infinity is not a number). No board teaches it at this class. No textbook needed.",
- "summary": "Take every bean off a plate and there is still a number on it: zero. Your child learns that zero means none, and that a 0 also holds an empty place, so 205 does not turn into 25. They meet Brahmagupta's rules for zero from 628 CE, find out why nothing can be shared out in groups of zero, and discover that an 'empty' glass is full of air. Then they find that numbers never end, that infinity means 'without end' and is not a very big number, and that an endless number of halving steps still adds up to one short walk across a room.",
+ "summary": "Take every bean off a plate, and you still have a number: zero. Your child learns that zero means none, and that a 0 also holds an empty place, so 205 does not turn into 25. They meet Brahmagupta's rules for zero from 628 CE, find out why nothing can be shared out in groups of zero, and discover that an 'empty' glass is full of air. Then they find that numbers never end, that infinity means 'without end' and is not a very big number, and that an endless number of halving steps still adds up to one short walk across a room.",
  "builds_on": "No board teaches this before Class 3, so this is the first rung. Your child already counts and writes numbers like 205 in maths. This rung shows what the 0 in those numbers does, where it came from, and why counting never ends. In Class 5 your child comes back to ask whether empty space is really empty, to meet Hilbert's hotel and Cantor's bigger and smaller infinities, and to hear about singularities, the places where scientists' ideas stop working.",
  "goals": [
   "By the end your child can say that zero is the number that means none, and show it with an empty plate.",
@@ -75,7 +75,7 @@
   "Brahmagupta's rules: adding, taking away and multiplying with zero",
   "why dividing by zero has no answer",
   "'empty' is rarely empty: air in an 'empty' glass, and the vacuum of space",
-  "silence and stillness: zero in music and in the body",
+  "silence: rests in music, and a 'silent' minute that is full of sounds",
   "bees and crows understand 'none'",
   "numbers never end: there is always one more",
   "very big is not infinite: a million, a googol, grains of sand",
@@ -131,7 +131,7 @@
      "kind": "warmup",
      "title": "Back to the stone",
      "mins": 4,
-     "do": "Ask: 'In the story, why did the stone say twenty-seven?' Good answer: 'The small circle was missing, so the 2 and the 7 slid over.' Ask: 'Did the circle mean anything, if it was zero?' Let your child think. Don't answer yet."
+     "do": "Ask: 'In the story, why did the stone say twenty-seven?' Good answer: 'The small circle was missing, so the 2 and the 7 slid over.' Ask: 'The circle stands for zero, which means none. So why did it matter?' Let your child think. Don't answer yet."
     },
     {
      "kind": "act",
@@ -157,7 +157,7 @@
      "kind": "act",
      "title": "Start the zero timeline",
      "mins": 6,
-     "do": "Start the project. Tape 4 sheets of paper end to end into a long strip. Draw a line along it. Your child writes 'Babylon: two marks for an empty place, about 2,300 years ago' near the left end and 'Today' at the right end. Say: 'We will add to this every day. On the last day, you will tell the family the story of zero.' Then tell them the journey: 'Indian numbers with zero went to Baghdad, where al-Khwarizmi wrote a book about them around 825 CE. In 1202, Fibonacci brought them to Europe. The Sanskrit shunya became sifr in Arabic, which became zero.' Add these to the strip."
+     "do": "Start the project. Tape 4 sheets of paper end to end into a long strip and draw a line along it. Your child writes 'Today' at the right end. Near the left end they add Babylon (two marks, about 2,300 years ago), then the Maya shell and the Gwalior stone (876 CE, the circle in 270). Then tell the journey: 'Indian numbers with zero went to Baghdad, where al-Khwarizmi wrote a book about them around 825 CE. In 1202, Fibonacci brought them to Europe. The Sanskrit shunya became sifr in Arabic, which became zero.' Add these too. Say: 'On the last day, you will tell the family the story of zero.'"
     }
    ],
    "need": [
@@ -303,7 +303,7 @@
    ],
    "need": [
     "paper and a pencil",
-    "a long strip of paper (two A4 sheets taped end to end)",
+    "a long strip of paper (three A4 sheets taped end to end)",
     "a phone timer",
     "Worksheet ws2"
    ],
@@ -338,7 +338,7 @@
      "kind": "talk",
      "title": "Madhava and the circle",
      "mins": 13,
-     "do": "Wrap a string once round a steel plate. Lay that string across the plate, edge to edge, again and again. Ask: 'How many times does the distance across fit into the distance round?' Good answer: 'A bit more than 3 times.' Say: 'That number is called pi. It is about 3.14, and its digits never end.' Then read Voice v3 in your own words. Show the start of Madhava's list on paper: 1 − ⅓ + ⅕ − ⅐ … Ask the voice's question. Add 'Madhava, about 1400 CE' to the timeline.",
+     "do": "Wrap a string once round the edge of a steel plate and cut it to that length. Lay the string straight on the table. Lay the plate beside it again and again, counting how many plate-widths fit along it. Ask: 'How many times does the distance across fit into the distance round?' Good answer: 'A bit more than 3 times.' Say: 'That number is called pi. It is about 3.14, and its digits never end.' Then read Voice v3 in your own words. Show the start of Madhava's list on paper: 1 − ⅓ + ⅕ − ⅐ … Ask the voice's question. Add 'Madhava, about 1400 CE' to the timeline.",
      "ref": "v3"
     }
    ],
@@ -366,7 +366,7 @@
      "kind": "warmup",
      "title": "Halving in your head and on paper",
      "mins": 3,
-     "do": "Ask: 'Yesterday, could you really keep walking halfway for ever?' Good answer: 'Only in my head. My feet and the string got too big.' Say: 'Today we look at things that seem to go on for ever, and test if they really do.'"
+     "do": "Ask: 'Yesterday, could you really keep walking halfway for ever?' Good answer: 'Only in my head. The gap got too small for my feet, and the string got too short to cut.' Say: 'Today we look at things that seem to go on for ever, and test if they really do.'"
     },
     {
      "kind": "exp",
@@ -862,7 +862,7 @@
    ],
    "predict": "Ask: 'When each plate gets fewer beans, will we need more plates or fewer? What will happen when each plate gets 0 beans? Why do you think so?'",
    "observe": "4 beans on each plate needs 3 plates. 2 on each needs 6 plates. 1 on each needs 12. With 0 on each plate, the heap never gets smaller, so you never finish. The calculator shows 'Error' or 'Can't divide by 0'.",
-   "why": "12 ÷ 4 asks: how many groups of 4 make 12? The answer is 3. With groups of 0, no number of groups ever makes 12, so 12 ÷ 0 has no answer. Mathematicians say dividing by zero is undefined, which means it has no answer. Notice the pattern too: the smaller each group, the more plates you need. As the groups get closer to zero, the number of plates grows and grows without end.",
+   "why": "12 ÷ 4 asks: how many groups of 4 make 12? The answer is 3. With groups of 0, no number of groups ever makes 12, so 12 ÷ 0 has no answer. Mathematicians say dividing by zero is undefined, which means it has no answer.",
    "safety": "Young children must not put beans in their mouth, nose or ears.",
    "time": "14 min"
   },
@@ -884,7 +884,7 @@
     "Swap, so the other person holds the mirror and counts."
    ],
    "predict": "Ask: 'How many copies will you see? Will they go on for ever? Why do you think so?'",
-   "observe": "You see a line of mirrors, each smaller than the one before. Most people can count 10 to 20. The far copies are dimmer and look a little green, and then the tunnel fades away. The tunnel often curves, because the mirrors are not exactly facing each other.",
+   "observe": "You see a line of mirrors, each smaller than the one before. You can often count 10 or more. The far copies are dimmer and look a little green, and then the tunnel fades away. The tunnel often curves, because the mirrors are not exactly facing each other.",
    "why": "Light bounces from one mirror to the other again and again. Each copy is the light after one more bounce. At every bounce the mirror soaks up a little of the light, so each copy is dimmer than the last. The glass of a mirror soaks up a little more red light than green light, so the far copies look green. After enough bounces, too little light is left to see. Perfect mirrors could keep the tunnel going much longer, but no real mirror is perfect.",
    "safety": "Hold glass mirrors carefully with both hands. Never point a mirror at the Sun.",
    "time": "12 min"
@@ -904,14 +904,14 @@
    "steps": [
     "Stick a strip of tape on the floor about 3 or 4 metres from a wall. Your child stands with their toes on the tape.",
     "Stretch the string from their toes to the wall. Cut it to exactly that length.",
-    "Fold the string in half. Lay it on the floor from their toes towards the wall. They step forward to its far end. That is step 1.",
-    "The gap left is now as long as the folded string. Fold it in half again, lay it from their toes, and step to its end. That is step 2.",
+    "Fold the string in half and cut it at the fold. Keep one half. Lay it on the floor from their toes towards the wall. They step forward to its far end. That is step 1.",
+    "The gap left is now as long as this half string. Fold it, cut it in half again, lay one half from their toes, and step to its end. That is step 2.",
     "Keep going and count the steps. When the gap is shorter than a foot, slide the toes forward instead of stepping.",
-    "Stop when the string is too short to fold. Measure the last gap with the ruler and write it down."
+    "Stop when the string is too short to cut. Measure the last gap with the ruler and write it down."
    ],
    "predict": "Ask: 'How many halving steps will it take to reach the wall? Why do you think so?'",
-   "observe": "After 1 step, half the gap is left. After 2 steps, a quarter is left. From 4 metres, after 7 steps the gap is only about 3 cm, and soon the string is too short to fold. Each step is shorter than the one before, and the toes never quite touch the wall by halving.",
-   "why": "Each step covers half of what is left, so something is always left. In your mind you could take halving steps for ever, which would be an infinite number of steps. Yet all those steps together never add up to more than the first gap. So an endless list of numbers can add up to an answer that ends. A Greek thinker called Zeno made puzzles like this about 2,400 years ago. When you walk normally, your steps do not halve, so you reach the wall.",
+   "observe": "After 1 step, half the gap is left. After 2 steps, a quarter is left. From 4 metres, after 7 steps the gap is only about 3 cm, and soon the string is too short to cut. Each step is shorter than the one before, and the toes never quite touch the wall by halving.",
+   "why": "Each step covers half of what is left, so something is always left. In your mind you could take halving steps for ever, which would be an infinite number of steps. Yet all those steps together never add up to more than the first gap. So an endless list of numbers can add up to an answer that ends. When you walk normally, your steps do not halve, so you reach the wall.",
    "safety": "Clear the floor so nobody trips. A grown-up uses the scissors with young children.",
    "time": "14 min"
   }
@@ -945,7 +945,7 @@
    "mins": 18,
    "need": [
     "paper and a pencil",
-    "a long strip of paper (two A4 sheets taped end to end)",
+    "a long strip of paper (three A4 sheets taped end to end)",
     "a phone timer"
    ],
    "steps": [
@@ -1129,7 +1129,7 @@
    },
    {
     "front": "The cuts you can make in a real strip of paper with scissors",
-    "back": "Neither. After about 8 cuts, the piece is too small to cut."
+    "back": "Neither. After a few cuts, the piece is too small to cut."
    },
    {
     "front": "0 × a googol",
@@ -1201,7 +1201,7 @@
    "id": "v1",
    "who": "Brahmagupta (born 598 CE), India",
    "idea": "In 628 CE, in Bhillamala (now Bhinmal in Rajasthan), Brahmagupta wrote a book called the Brahmasphutasiddhanta. In it, he treated zero as a number of its own and gave rules for it: a number plus zero is the same number, a number minus zero is the same number, and a number times zero is zero. He also gave rules for negative numbers, which he compared to debts.",
-   "then": "His book was studied across India and was translated into Arabic in Baghdad in the 700s. Later Indian mathematicians argued about his rule for dividing. He wrote that zero divided by zero is zero. In the 1100s, Bhaskara II wrote that a number divided by zero is endless, like infinity.",
+   "then": "His book was studied across India and was translated into Arabic in Baghdad in the 700s. He also wrote that zero divided by zero is zero, and later Indian mathematicians disagreed. In the 1100s, Bhaskara II wrote that a number divided by zero is endless, like infinity.",
    "now": "His rules for adding, taking away and multiplying with zero are the ones every child learns today. Mathematicians now say that dividing by zero has no answer, so his rule that 0 ÷ 0 = 0 is not used.",
    "status": "accepted",
    "ask": "Brahmagupta got most of his zero rules right and one wrong. How could he have tested his rule for dividing by zero?",
@@ -1220,7 +1220,7 @@
   {
    "id": "v3",
    "who": "Madhava of Sangamagrama (about 1340 to 1425 CE), Kerala, India",
-   "idea": "Madhava found that adding and taking away an endless list of fractions can give an exact answer. One of his lists gives pi, the number of times the distance round a circle is longer than the distance across. A quarter of pi equals 1 − ⅓ + ⅕ − ⅐, and so on for ever. He also found endless lists for working out angles.",
+   "idea": "Madhava found that adding and taking away an endless list of fractions can give an exact answer. One of his lists gives pi, the number of times the distance across a circle fits into the distance round it. A quarter of pi equals 1 − ⅓ + ⅕ − ⅐, and so on for ever. He also found endless lists for working out angles.",
    "then": "His work was written down by later teachers of his school, such as Nilakantha in Sanskrit and Jyeshthadeva in Malayalam. Europe did not know it. In the 1670s, James Gregory and Gottfried Leibniz found the same kind of lists in Europe, and the pi list was named after Leibniz.",
    "now": "Historians agree that Madhava was first, by about 250 years. Some historians think Jesuit priests in Kerala may have carried his ideas to Europe, but no letter or book has been found that proves it.",
    "status": "accepted",
@@ -1244,7 +1244,7 @@
    "My name is Gauri. I live in Gopagiri, the town under the great rock, and my mother makes garlands for the new temple of Vishnu on the hill. Every morning before the sun is up, we sit on our floor with baskets of marigolds and jasmine. We push a needle through each flower and slide it down a long cotton thread. The temple needs fifty garlands a day. I know, because I count them.",
    "I count them on my uncle's old slate. My uncle keeps accounts for the salt traders, and he taught me the new way of writing numbers. You need only ten signs. Where you put a sign tells you what it is worth. A 5 on the right means five. Move it one place to the left, and it means five tens, which is fifty.",
    "'And if there are five tens and no ones?' I asked him once. 'What goes in the empty place?'",
-   "He drew a small round circle. 'This. Shunya. It means empty. It keeps the place, so the 5 stays where it is.'",
+   "He drew a small circle. 'This. Shunya. It means empty. It keeps the place, so the 5 stays where it is.'",
    "That spring, the people of the town did a big thing. They gave the temple a piece of land for a flower garden, right beside the hill, so the flowers would not have to come all the way from the river fields. The land was two hundred and seventy hastas long. A hasta is the length from your elbow to the tip of your middle finger. My mother would look after the garden. When she heard, she sat down on the step and laughed and cried at the same time.",
    "A gift like that must be carved in stone, so that nobody can take it back later. The carver was an old man called Devadatta, with white eyebrows and hands like tree roots. His helper was Bhoja, who was fifteen and very proud of his new chisel. Every afternoon I carried them a pot of water and stayed to watch.",
    "Devadatta carved the long words, line after line: the name of the king, the name of the town, the name of the god. Bhoja was allowed to carve the numbers. He liked the new signs because they were quick. Tap, tap, scrape, and a 2 appeared. Tap, tap, and a 7.",

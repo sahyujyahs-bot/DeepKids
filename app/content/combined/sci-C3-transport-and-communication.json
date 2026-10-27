@@ -6,7 +6,7 @@
  "n": "transport-and-communication",
  "title": "Transport and communication: how things and messages travel",
  "source": "DeepKids Combined. Covers NIOS Level A Lesson 10 'Transport and Communication' (how transport and communication developed, their kinds and benefits, road signs, and their effect on the environment). No textbook needed.",
- "summary": "Almost everything in your kitchen travelled to you, by truck, train or ship, and every journey needed messages too. Your child tests why rolling beats dragging, floats a foil boat, reads road signs by their shapes, and catches road dust on oily cards. Then they follow messages from drums, runners and pigeons to the PIN code, Morse code, radio and the internet. They time a message inside their own body, follow an ant trail and dance like a honeybee, and find that a message can travel on sound, light, smell or hands, as long as both sides share the code.",
+ "summary": "Almost everything in your kitchen travelled to you by truck, train or ship, and every journey needed messages too. Your child tests why rolling beats dragging, floats a foil boat, reads road signs by their shapes and catches road dust on oily cards. Then they send Morse code by torch, time a message through their own nerves and follow an ant trail. They find that a message can travel on sound, light, smell or hand shapes, as long as both sides share the code.",
  "builds_on": "This is the first rung of this topic. It uses what your child may already know about pushes, friction and sound: that rubbing makes things harder to move, and that sound is a vibration passed along. In Class 4 the topic comes back as 'Transport and communication then and now', looking closer at how they have changed lives and places.",
  "goals": [
   "By the end your child can explain the difference between transport and communication, and trace how a packet in the kitchen reached home.",
@@ -137,14 +137,14 @@
      "kind": "exp",
      "title": "The box test",
      "mins": 18,
-     "do": "Do Experiment e1. First your child drags the box of books across the floor and you both measure how far the rubber band stretches. Before each new try, ask: 'Will the band stretch more, less or the same? Why do you think so?' Then try it on round pencils as rollers, then on a toy car or a skate. Write the three stretches in a table. Ask: 'Which way needed the smallest pull?'",
+     "do": "Do Experiment e1. First your child drags the box of books across the floor and you both measure how far the rubber band stretches. Before each new try, ask: 'Will the band stretch more, less or the same? Why do you think so?' Then try it on round pencils as rollers, then with wheels, on a skateboard or a trolley bag. Write the three stretches in a table. Ask: 'Which way needed the smallest pull?'",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "Rollers, then wheels",
      "mins": 10,
-     "do": "Ask: 'What was annoying about the rollers?' (They came out at the back, and you had to carry them to the front.) Say: 'For thousands of years people moved heavy stones on wooden rollers and sledges. Then someone fixed a wheel on a rod called an axle. The wheel turns round the axle, and goes along with the load, so nothing gets left behind.' Say: 'The oldest wheels found so far are about 5,000 years old. Children in the old Indus cities, like Harappa, played with little clay carts with wheels.' Ask: 'Why does a wheel need less pull than dragging?' Good answer: 'When you drag, the whole bottom rubs on the floor. That rubbing force is called friction. A wheel touches the floor at one small spot, and rolls instead of rubbing.'"
+     "do": "Ask: 'What was annoying about the rollers?' (They came out at the back, and you had to carry them to the front.) Say: 'For thousands of years people moved heavy stones on wooden rollers and sledges. Then someone fixed a wheel on a rod called an axle. The wheel turns round the axle, and goes along with the load, so nothing gets left behind.' Say: 'The oldest wheels found so far are more than 5,000 years old. Children in the old Indus cities, like Harappa, played with little clay carts with wheels.' Ask: 'Why does a wheel need less pull than dragging?' Good answer: 'When you drag, the whole bottom rubs on the floor. That rubbing force is called friction. A wheel touches the floor at one small spot, and rolls instead of rubbing.'"
     },
     {
      "kind": "do",
@@ -155,12 +155,12 @@
    ],
    "need": [
     "a shoebox",
-    "6 to 8 heavy books",
+    "4 or 5 heavy books",
     "a thick rubber band",
     "string",
     "a ruler",
-    "6 round pencils, or 4 steel tumblers laid on their sides",
-    "a toy car, a skateboard or a trolley bag"
+    "6 round pencils or marker pens",
+    "a skateboard, or a small trolley bag on wheels"
    ],
    "prep": []
   },
@@ -185,23 +185,23 @@
      "kind": "exp",
      "title": "Foil boat test",
      "mins": 15,
-     "do": "Do Experiment e2. Ask first: 'A ship is made of steel, and steel sinks. So how does a ship float?' Write down the guess. Your child squeezes one foil square into a ball and folds the other into a boat. Put both in water. Then they add coins to the boat, one at a time, and count until it sinks. Ask: 'Same foil, same weight. Why did one float?' Good answer: 'The boat shape pushes aside a lot of water, so the water pushes it up strongly.'",
+     "do": "Do Experiment e2. Ask first: 'A ship is made of steel, and steel sinks. So how does a ship float?' Write down the guess. Your child squeezes one foil square into a ball and folds the other into a boat. Put both in water. Then they add coins or chana to the boat, one at a time, and count until it sinks. Ask: 'Same foil, same weight. Why did one float?' Good answer: 'The boat shape pushes aside a lot of water, so the water pushes it up strongly.'",
      "ref": "e2"
     },
     {
      "kind": "exp",
      "title": "Set up the dust catchers",
      "mins": 8,
-     "do": "Set up Experiment e3. Your child spreads a thin layer of coconut oil on three white cards and labels them. You tape one on a window or balcony grill that faces the road. Tape one at a window away from the road, and put one inside a cupboard. Ask: 'In two days, which card will be dirtiest? Why?' Write the guesses down. You will look on Day 5.",
+     "do": "Set up Experiment e3. Your child spreads a thin layer of oil on three white cards and labels them. You tape one on a window or balcony grill that faces the road. Tape one at a window away from the road, and put one inside a cupboard. Ask: 'In two days, which card will be dirtiest? Why?' Write the guesses down. You will look on Day 5.",
      "ref": "e3"
     }
    ],
    "need": [
-    "2 squares of aluminium foil, each about 15 cm",
+    "2 squares of aluminium foil, each about 10 cm",
     "a bucket or big bowl of water",
-    "20 one-rupee coins",
-    "3 white cards cut from a cereal box",
-    "coconut oil",
+    "about 30 coins of any kind, or a cup of dried chana",
+    "3 white cards cut from an old carton",
+    "coconut oil or any cooking oil",
     "tape and a marker"
    ],
    "prep": []
@@ -227,7 +227,7 @@
      "kind": "act",
      "title": "Make signs and play traffic lights",
      "mins": 14,
-     "do": "Do Activity a2. Your child makes four road signs from card, with the right shapes and colours: STOP, school ahead, no horn and hospital. Then play the traffic-light game. You hold up red, yellow or green paper. On red, everyone freezes. On yellow, they slow down and get ready to stop. On green, they walk round the room carefully. Hold up a sign too, and they must obey it: on 'school ahead', they walk slowly on tiptoe.",
+     "do": "Do Activity a2. Your child makes four road signs from card, with the right shapes and colours: STOP, school ahead, no horn and parking. Then play the traffic-light game. You hold up red, yellow or green paper. On red, everyone freezes. On yellow, they slow down and get ready to stop. On green, they walk round the room carefully. Hold up a sign too, and they must obey it: on 'school ahead', they walk slowly on tiptoe.",
      "ref": "a2"
     },
     {
@@ -363,7 +363,7 @@
      "kind": "talk",
      "title": "Waves faster than sound",
      "mins": 9,
-     "do": "Say: 'When you talk on a mobile phone, it changes your voice into radio waves. They fly to a tower, and are passed on until they reach the other phone. Radio waves are invisible and travel as fast as light, about 3 lakh kilometres every second. Sound in air travels only about 343 metres in a second.' Ask: 'If you shouted to Nani 300 km away, and your voice could reach her, how long would it take?' (About 15 minutes. A phone call gets there in less than a second.) Then tell your child about J.C. Bose from voice v3, and ask its question.",
+     "do": "Say: 'When you talk on a mobile phone, it changes your voice into radio waves. They travel to a tower, and are passed on until they reach the other phone. Radio waves are invisible and travel as fast as light, about 3 lakh kilometres every second. Sound in air travels only about 343 metres in a second.' Ask: 'If you shouted to Nani 300 km away, and your voice could reach her, how long would it take?' (About 15 minutes. A phone call gets there in less than a second.) Then tell your child about J.C. Bose from voice v3, and ask its question.",
      "ref": "v3"
     },
     {
@@ -390,7 +390,7 @@
      "kind": "exp",
      "title": "Start the ant trail",
      "mins": 5,
-     "do": "Set up Experiment e4. Put a few grains of sugar on a small piece of paper where you often see ants, such as a balcony corner or a window sill. Ask: 'Will the ants come one by one, all at once, or in a line? Why?' Write the guess. You will look again in 30 minutes, after the ruler test.",
+     "do": "Set up Experiment e4. Put a few grains of sugar on a small piece of paper where you often see ants, such as a balcony corner or a window sill. Ask: 'Will the ants come one by one, all at once, or in a line? Why?' Write the guess. You will look again after the ruler test.",
      "ref": "e4"
     },
     {
@@ -404,7 +404,7 @@
      "kind": "exp",
      "title": "Back to the ants",
      "mins": 5,
-     "do": "Go back to the sugar from Experiment e4. Ask: 'Are the ants walking in a line? Why might they follow the same path?' When there is a line, wipe one finger once across it. Watch the ants stop and search at the wiped place. Say: 'An ant that finds food lays a smell trail on its way home to the nest, with a chemical called a pheromone. One ant cannot carry all the sugar, so the trail brings its nest-mates. Your finger wiped the message away.' Clean up the sugar afterwards.",
+     "do": "Go back to the sugar from Experiment e4. If no ants have come yet, look again at the end of the day. Ask: 'Are the ants walking in a line? Why might they follow the same path?' When there is a line, wipe one finger once across it. Watch the ants stop and search at the wiped place. Say: 'An ant that finds food lays a smell trail on its way home to the nest, with a chemical called a pheromone. One ant cannot carry all the sugar, so the trail brings its nest-mates. Your finger wiped the message away.' Clean up the sugar afterwards.",
      "ref": "e4"
     },
     {
@@ -509,11 +509,11 @@
       },
       {
        "t": "mcq",
-       "p": "Riya pulls a box of books three ways. Which way needs the smallest pull?",
+       "p": "Riya, a girl in Class 3, pulls a box of books three ways. Which way needs the smallest pull?",
        "opts": [
         "dragging it on the floor",
         "on round pencils as rollers",
-        "on a toy car with wheels"
+        "on a skateboard with wheels"
        ],
        "a": 2
       },
@@ -575,7 +575,7 @@
       },
       {
        "t": "mcq",
-       "p": "Arjun is crossing a road in India. Which way should he look first?",
+       "p": "Arjun, a boy in Class 3, is crossing a road in India. Which way should he look first?",
        "opts": [
         "right",
         "left",
@@ -620,7 +620,7 @@
      [
       {
        "t": "mcq",
-       "p": "Meera's dust card by the road was grey. Her card in the cupboard was clean. What does this show?",
+       "p": "Meera, a girl in Class 3, put one oily card by the road and one in a cupboard. After 2 days the road card was grey and the cupboard card was clean. What does this show?",
        "opts": [
         "traffic puts tiny bits into the air near roads",
         "cupboards make dust",
@@ -638,7 +638,7 @@
       },
       {
        "t": "mcq",
-       "p": "Kabir catches the dropped ruler at 20 cm. Next day he is sleepy and catches it at 28 cm. What does that mean?",
+       "p": "Dev, a boy in Class 3, catches the dropped ruler at 20 cm. Next day he is sleepy and catches it at 28 cm. What does that mean?",
        "opts": [
         "the message took longer to get through",
         "the ruler fell slower",
@@ -680,7 +680,7 @@
      [
       {
        "t": "fill",
-       "p": "In Morse code, S is three short signals and O is three long ones. The distress call made of S, O, S is ____.",
+       "p": "In Morse code, S is three short signals and O is three long ones. What word do the signals ... --- ... spell?",
        "a": [
         "SOS"
        ]
@@ -725,7 +725,7 @@
      [
       {
        "t": "mcq",
-       "p": "Lightning flashes. Ravi hears the thunder 6 seconds later. Sound travels about 1 km in 3 seconds. How far away was the lightning?",
+       "p": "Ravi, a boy in Class 3, sees lightning. He hears the thunder 6 seconds later. Sound travels about 1 km in 3 seconds. How far away was the lightning?",
        "opts": [
         "about 2 km",
         "about 6 km",
@@ -814,12 +814,12 @@
    "question": "Is it easier to move a heavy box by dragging it, on rollers, or on wheels?",
    "need": [
     "a shoebox",
-    "6 to 8 heavy books",
+    "4 or 5 heavy books",
     "a thick rubber band",
     "about 50 cm of string",
     "a ruler",
-    "6 round pencils, or 4 steel tumblers laid on their sides",
-    "a toy car, a skateboard or a trolley bag"
+    "6 round pencils or marker pens",
+    "a skateboard, or a small trolley bag on wheels"
    ],
    "steps": [
     "Put the books in the box. Make a small hole in the front of the box and tie the string through it.",
@@ -827,7 +827,7 @@
     "Measure the rubber band with the ruler while it hangs loose. Write it down.",
     "Pull the band slowly and steadily so the box slides across a smooth floor. Measure how long the band is while the box moves.",
     "Lay the round pencils under the box as rollers, and pull again. Measure the band.",
-    "Put the box on the toy car, skateboard or trolley bag, and pull again. Measure the band.",
+    "Put the box on the skateboard and pull again. If you have no skateboard, put the books in the trolley bag, tie the string to its handle and pull it on its wheels. Measure the band.",
     "Make a table with two columns: Way of moving, and Length of band in cm."
    ],
    "predict": "Ask your child to guess first: 'Which way will stretch the band the least? Will rollers be as good as wheels? Why do you think so?'",
@@ -842,19 +842,19 @@
    "day": 3,
    "question": "Why does a heavy steel ship float, when a lump of steel sinks?",
    "need": [
-    "2 squares of aluminium foil, each about 15 cm",
+    "2 squares of aluminium foil, each about 10 cm",
     "a bucket or big bowl of water",
-    "20 one-rupee coins"
+    "about 30 coins of any kind, or a cup of dried chana"
    ],
    "steps": [
-    "Squeeze one foil square into a tight ball.",
+    "Squeeze one foil square into a tight ball. Press it flat and hard with the base of a steel tumbler, so no air is left inside.",
     "Fold the other square into a flat boat with low walls on all four sides.",
     "Put both gently on the water and watch.",
-    "Add coins to the boat one at a time, spread out, until it sinks. Count them.",
+    "Add coins or chana to the boat one at a time, spread out, until it sinks. Count them.",
     "Make a new boat with a wider base, and test again."
    ],
    "predict": "Ask your child to guess first: 'Will the ball and the boat both float? How many coins will the boat carry before it sinks?'",
-   "observe": "The tight ball sinks or sits very low. The boat floats and carries many coins. A wider boat carries more. Coins piled in one corner make it tip sooner.",
+   "observe": "The squashed ball sinks. If it floats, it still has air inside, so squeeze it harder. The boat floats and carries many coins. A wider boat carries more. Coins piled in one corner make it tip sooner.",
    "why": "Water pushes up on anything put in it. The more water a thing pushes aside, the bigger the upward push. A foil ball pushes aside very little water. The same foil shaped as a boat holds air inside its walls, and pushes aside much more water, so the upward push holds it up. A steel ship floats for the same reason. It is shaped to push aside a huge amount of water.",
    "safety": "Mop up spills so no one slips. Wash hands after handling coins.",
    "time": "15 min"
@@ -865,14 +865,14 @@
    "day": 3,
    "question": "Is there more dust and soot in the air near a road than away from it?",
    "need": [
-    "3 white cards cut from a cereal box",
-    "coconut oil",
+    "3 white cards cut from an old carton",
+    "coconut oil or any cooking oil",
     "tape and a marker",
     "white paper",
     "a magnifying glass if you have one"
    ],
    "steps": [
-    "Spread a thin, even layer of coconut oil on one side of each card.",
+    "Spread a thin, even layer of oil on one side of each card.",
     "Label them: road side, away from the road, inside a cupboard.",
     "Tape the first card, oily side out, on a window or balcony grill that faces the road.",
     "Tape the second at a window or grill away from the road. Put the third inside a cupboard.",
@@ -906,7 +906,7 @@
    "observe": "At first one or two ants find the sugar. Later many come in a line. At the wiped place the ants stop, turn and wander about, until the line joins up again. If no ants come in 30 minutes, leave the sugar on the balcony and look again the next morning.",
    "why": "An ant colony needs food, and one ant cannot carry much. An ant that finds food lays a trail of a smelly chemical, a pheromone, on its way back to the nest. Other ants smell it and follow it to the food. They add more smell on their way back, so the trail gets stronger. Your finger wiped away the smell, so the ants lost the message until they found the trail again.",
    "safety": "Some ants bite. Watch, but don't touch them. Clean up the sugar afterwards so ants do not move into the kitchen.",
-   "time": "5 min, then 6 min after 30 minutes"
+   "time": "5 min, then 5 min after 10 to 30 minutes"
   },
   {
    "id": "e5",
@@ -926,7 +926,7 @@
     "Use the table to turn each number into time. About 5 cm is 0.10 seconds. About 12 cm is 0.16 seconds. About 20 cm is 0.20 seconds. About 28 cm is 0.24 seconds."
    ],
    "predict": "Ask your child to guess first: 'Will you catch it at the very bottom, or will it fall a long way first? Will you get faster with practice?'",
-   "observe": "Most people catch the ruler between about 12 and 25 cm. The catch is often a little better after a few tries. If you say 'now' just before dropping, it is caught much sooner.",
+   "observe": "Most children catch the ruler between about 15 and 30 cm. If it falls through, count it as a miss and try again. The catch is often a little better after a few tries. If you say 'now' just before dropping, it is caught much sooner.",
    "why": "Before your fingers can close, your eyes must see the ruler fall. A message goes along nerves from your eyes to your brain. Your brain decides, and sends a message along nerves down your arm to your fingers. All this takes about a fifth of a second. The ruler falls further the longer it takes, so the number shows how fast the messages travelled.",
    "safety": "Use a plastic or wooden ruler, not a metal one with sharp edges. Keep it away from faces.",
    "time": "10 min"
@@ -965,7 +965,7 @@
     "Cut a circle, a triangle, a rectangle and an eight-sided shape from card.",
     "Make a red circle with a horn crossed out: No horn.",
     "Make a red triangle with two children walking: School ahead.",
-    "Make a blue rectangle with a white H: Hospital.",
+    "Make a blue rectangle with a white P: Parking.",
     "Make a red eight-sided sign with the word STOP.",
     "Play: on red, freeze. On yellow, slow down and get ready to stop. On green, walk carefully round the room.",
     "Hold up a sign too. Everyone must obey it."
@@ -1221,7 +1221,7 @@
    "In the kitchen, Mama was shouting something to Papa, and Papa was shouting back, 'What? What?' My little brother was crying, because he could not hear anyone and did not know where we were. A whole flat full of people with good ears, and nobody could understand anybody.",
    "I went to my window with the torch. Across the gap, through the sheets of water, a small light was already blinking. Three quick flashes. Come to the window.",
    "I stood there with the rain spraying through the frame onto my feet, and I thought: tonight the rain has made everyone deaf. Everyone except the two of us. Zoya had been talking without sound all her life. And she had taught me how.",
-   "I needed her address. We had no flash for 'address'. So I held the torch on my other hand and moved it as if I were writing, and then I pointed at her. She understood at once. She went away from the window, came back, and began to flash.",
+   "I needed her address. We had no flash for 'address'. So I shone the torch on my other hand and moved that hand as if I were writing, and then I pointed at her. She understood at once. She went away from the window, came back, and began to flash.",
    "Four flashes. A long one. A long one. A long one. Five flashes. A long one. I wrote each number on my hand with a pen, by torchlight, while the rain roared: 4 0 0 0 5 0. I flashed the numbers back to her, to check. One flash: yes. Then she held a big paper to the glass with her torch shining on it. It had the name of her new building and her new road, in her careful capital letters.",
    "On Saturday morning the rain had stopped. Zoya's window was empty, with no curtain. On the glass, stuck from the inside, was a drawing of a cat with whiskers.",
    "That afternoon I wrote my first letter ever. I drew a cat at the top. Papa showed me where to write the six numbers, on the last line of the address. He said the first number, 4, would tell the post office the letter was going to the part of India that has Maharashtra in it. The other numbers would take it to the right post office in Mumbai, and a postman would carry it to her door.",

@@ -193,7 +193,7 @@
      "kind": "talk",
      "title": "Ants, crows and starfish",
      "mins": 10,
-     "do": "Watch an ant on the floor, or show a picture. Ask: 'How many legs on each side?' (Three.) Say: 'An ant has bilateral symmetry. Its left side and right side match.' Ask: 'Which end of the ant goes first?' (The head.) Say: 'An animal that moves forward meets new things head first. So its eyes and mouth are at the front, and two matching sides help it go straight.' Show a picture of a starfish. Say: 'A starfish has no front. It can move in any direction and meets food from every side. Its body is arranged around a middle. This is radial symmetry.' Say: 'A baby starfish swims, and it has two matching sides. It grows its five arms later.'"
+     "do": "Watch an ant on the floor, or show a picture. Ask: 'How many legs on each side?' (Three.) Say: 'An ant has bilateral symmetry. Its left side and right side match.' Ask: 'Which end of the ant goes first?' (The head.) Say: 'An animal that moves forward meets new things head first. So its eyes and mouth are at the front, and two matching sides help it go straight.' Show a picture of a starfish. Say: 'A starfish has no front. It can move in any direction and meets food from every side. Its body is arranged around a middle. This is radial symmetry.' Say: 'A baby starfish swims, and it has two matching sides. It grows five arms later.'"
     },
     {
      "kind": "exp",
@@ -213,7 +213,7 @@
      "kind": "think",
      "title": "Why are flowers symmetrical?",
      "mins": 5,
-     "do": "Show a hibiscus flower or a picture. Ask: 'How many lines of symmetry does it have?' (Five, through each petal.) Say: 'Experiments show honeybees can learn to tell symmetrical patterns from patterns that are not.' Ask: 'Who might a flower's pattern be for?' Good answer: 'For the bees that visit it.'"
+     "do": "Show a hibiscus flower or a picture. Ask: 'As you turn it, how many times does it look the same?' (Five, once for each petal.) Say: 'Experiments show honeybees can learn to tell symmetrical patterns from patterns that are not.' Ask: 'Who might a flower's pattern be for?' Good answer: 'For the bees that visit it.'"
     }
    ],
    "need": [
@@ -369,7 +369,7 @@
      "kind": "warmup",
      "title": "A mirror rhythm",
      "mins": 5,
-     "do": "Clap a rhythm: one slow clap, two quick claps. Then play it backwards: two quick, one slow. Say: 'Together that is a mirror in time. It sounds the same played backwards.' Ask: 'What other patterns repeat in time?' Good answers: day and night, your heartbeat, a swing."
+     "do": "Clap one slow clap, then two quick claps, then two quick claps, then one slow clap. Say: 'This rhythm sounds the same played backwards. It is like a mirror in time.' Ask: 'What other patterns repeat in time?' Good answers: day and night, your heartbeat, a swing."
     },
     {
      "kind": "exp",
@@ -883,7 +883,7 @@
     "Eat the fruit after."
    ],
    "predict": "Ask your child to guess first: 'Which slice will look the same the most times in one full turn? Why do you think so?'",
-   "observe": "The apple's seeds make a five-pointed star: order 5. The bhindi usually has five parts, though some have more. The cucumber's seeds sit in three parts: order 3. Look closely at the banana's middle, and you can see three faint parts. No slice is perfect. Each is only nearly the same at each turn.",
+   "observe": "The apple's seeds make a five-pointed star: order 5. The bhindi usually has five parts, though some have more. The cucumber's seeds sit in three parts: order 3. Look closely at the banana's middle, and you can see three faint parts.",
    "why": "Inside each of these fruits, the seeds grow in parts arranged around the middle. The apple has five parts, and the cucumber and banana have three. So a slice across the middle shows a turning pattern. Living things are never exactly symmetrical, so the parts are a little different in size.",
    "safety": "Only a grown-up uses the knife.",
    "time": "15 min"
@@ -956,7 +956,7 @@
    ],
    "predict": "Ask your child to guess first: 'When round bubbles squash together, will they stay round? What shape might they make?'",
    "observe": "Many bubbles in the middle of the raft touch six others. Where they press together, the walls flatten, so each one looks six-sided, like a hexagon. Bubbles of very different sizes make a messier pattern.",
-   "why": "A soap film pulls itself as small as it can. Bubbles of the same size pack most closely when each one touches six others, and their walls then make hexagons. In 1947 the scientist Lawrence Bragg and John Nye used rafts of bubbles like this to show how atoms pack in a metal crystal. Honeycomb cells are hexagons too.",
+   "why": "A soap film pulls itself as small as it can. Bubbles of the same size pack most closely when each one touches six others, and their walls then make hexagons. In 1947 the scientists Lawrence Bragg and John Nye used rafts of bubbles like this to show how atoms pack in a metal crystal. Honeycomb cells are hexagons too.",
    "safety": "Do not drink the soapy water. Blow out through the straw, never suck in.",
    "time": "12 min"
   },
@@ -983,7 +983,7 @@
    ],
    "predict": "Ask your child to guess first: 'Will the key swing more times in another room, fewer, or the same? What about with a shorter thread?'",
    "observe": "With 50 cm of thread, the key swings about 21 times in 30 seconds in every room and on every day. Counts may differ by one. With 25 cm, it swings about 30 times. The swing gets smaller over time, but its beat hardly changes.",
-   "why": "The time a swing takes depends on the length of the thread, not on where or when you test it. Nature's rules are the same in every place and at every moment. Scientists call this a symmetry of the rules. Emmy Noether proved that because the rules stay the same over time, energy is never made or destroyed. The swing slows because its energy passes into the air and the thread as a tiny bit of warmth.",
+   "why": "The time a swing takes depends on the length of the thread, not on where or when you test it. Nature's rules are the same in every place and at every moment. Scientists call this a symmetry of the rules. Emmy Noether proved that because the rules stay the same over time, energy is never made or destroyed. The swing gets smaller because its energy passes into the air and the thread as a tiny bit of warmth.",
    "safety": "Keep the swinging key away from faces and glass.",
    "time": "17 min + 6 min the next day"
   }
@@ -1021,7 +1021,7 @@
    "steps": [
     "A grown-up cuts one bhindi straight across to make a star stamp. Cut the other along its length to make a long stamp.",
     "Dip the star stamp in paint and print a row along the strip. Move the same distance each time. This row is a translation.",
-    "With the long stamp, print a second row. Turn the stamp the other way round for every second print. This row uses reflection as well as translation.",
+    "With the long stamp, print a second row. Point the narrow end right, then left, then right, and so on. Each print is a mirror image of the one before, so this row uses reflection as well as translation.",
     "Let it dry. Hang it as a border on a shelf or a door."
    ],
    "outcome": "A printed border with one row of pure sliding and one row of sliding and flipping, and a child who can name both."
@@ -1039,8 +1039,8 @@
    "steps": [
     "Draw a square grid of dots, 3 rows of 3, with about two fingers' space between dots.",
     "Draw a loop around the middle dot.",
-    "Draw a curve around each corner dot, joining it to the loops beside it. Do the same at all four corners, the same way each time.",
-    "Keep adding curves, doing the same thing on every side before you move on.",
+    "Draw a petal shape around the dot above the middle, pointing outwards. Draw the same petal around the dots below, left and right of the middle.",
+    "Draw a curve around each corner dot that joins the two petals beside it. Make all four corners the same.",
     "Turn the paper a quarter turn at a time and check: does it look the same?",
     "If you have a balcony or doorway, draw it in rice flour or chalk."
    ],
@@ -1058,7 +1058,7 @@
     "a coin to draw round"
    ],
    "steps": [
-    "Cut out six of each shape, all the same size: squares, triangles with three equal sides, hexagons, circles and five-sided shapes with equal sides. (A grown-up can draw the hexagons and five-sided shapes first.)",
+    "Cut out four of each shape, all the same size: squares, triangles with three equal sides, hexagons, circles and five-sided shapes with equal sides. Cut one of each first, then trace round it to make the rest. A grown-up can draw the first hexagon and five-sided shape.",
     "Try to fit each set together on the table with no gaps and no overlaps.",
     "Sort the shapes into 'tiles' and 'leaves gaps'.",
     "Draw the best tiling in the Pattern book."
@@ -1082,7 +1082,7 @@
     "Open it carefully. Count the arms and the lines of symmetry.",
     "Stick it on a dark sheet in the Pattern book."
    ],
-   "outcome": "A snowflake with six matching arms, made the way ice grows: one cut repeated six times."
+   "outcome": "A paper snowflake with six matching arms and six lines of symmetry."
   }
  ],
  "project": {
@@ -1262,7 +1262,7 @@
   {
    "id": "v1",
    "who": "Emmy Noether (1882–1935), mathematician, Germany and the United States",
-   "idea": "In 1915 Noether proved a rule that links symmetry to the deepest laws of physics. If nature's rules stay the same over time, energy is never made or destroyed. If they are the same in every place, then motion is never lost either, it only passes from one thing to another. Every symmetry of the rules goes with something that is kept.",
+   "idea": "In 1915 Noether proved a rule that links symmetry to the deepest laws of physics. If nature's rules stay the same over time, energy is never made or destroyed. It only passes from one thing to another. If the rules are the same in every place, momentum is kept in the same way. Momentum is how much push a moving thing carries. Every symmetry of the rules goes with something that is kept.",
    "then": "When she began, women in Germany were not allowed to enrol at university, so she sat in on classes for years. At Göttingen, her lectures were listed under a man's name, David Hilbert's, and she was not paid for years. In 1933 the Nazi government dismissed her because she was Jewish. She moved to Bryn Mawr College in the United States and died there two years later.",
    "now": "Noether's theorem is used across all of modern physics. After she died, Albert Einstein wrote that she was a creative mathematical genius. Many people still have never heard her name.",
    "status": "accepted",
@@ -1272,7 +1272,7 @@
   {
    "id": "v2",
    "who": "Dan Shechtman (born 1941), materials scientist, Israel",
-   "idea": "On 8 April 1982, Shechtman cooled a melted mix of aluminium and manganese very fast and looked at it with an electron microscope. The picture had a pattern with ten-fold symmetry. Only an ordered pattern with five-fold symmetry, like a five-pointed star, could make that. A crystal's repeating pattern can never have five-fold symmetry, so this should have been impossible. He wrote 'ten-fold???' in his notebook.",
+   "idea": "On 8 April 1982, Shechtman cooled a melted mix of aluminium and manganese very fast and looked at it with an electron microscope. The picture showed spots that looked the same after each tenth of a turn. That meant its atoms were ordered with five-fold symmetry, like a five-pointed star. A crystal's repeating pattern can never have five-fold symmetry, so this should have been impossible. He wrote 'ten-fold???' in his notebook.",
    "then": "Many scientists said he had made a mistake, and he was asked to leave his research group. Linus Pauling, a famous chemist, argued against him for years.",
    "now": "Other laboratories made the same material and saw the same pattern. These solids are called quasicrystals: ordered patterns that never repeat. In 1992 the definition of a crystal was changed to include them, and Shechtman won the Nobel Prize in Chemistry in 2011.",
    "status": "accepted",
@@ -1370,7 +1370,7 @@
    "Amma smiled and took out her phone to take a photo. And then I saw something.",
    "In the mirror, the peacock at the edge was looking straight at the peacock on the real floor. Beak to beak, as if they were about to fight. I looked at the rest of the circle. No peacock looked at another one. Every peacock's beak pointed at the tail of the peacock in front of it. They were all walking round the circle the same way, like children in a game.",
    "'Amma, the mirror is wrong,' I said.",
-   "She put her phone down and looked. 'Why?'",
+   "She put her phone down and looked. 'Why, Meenakshi?'",
    "'A mirror flips things,' I said slowly. 'Left turns into right. But these peacocks aren't flipped. They're going round. Like the blades of our fan.'",
    "Amma looked at me for a long moment. Then she took a roll of butter paper out of her bag. She always carries it for tracing. We laid it over a good quarter and traced every line: every feather, every petal, every curl of a tail.",
    "I held the point of a pencil at the very centre of the circle, through the paper. Amma turned the paper slowly around it, a quarter of a full turn, like a clock's hand going from twelve to three. The tracing lay over the next quarter. Every line fitted. She turned it another quarter. It fitted again. She turned it once more, and the tracing lay over the hole of wet earth, full of peacocks walking the right way.",

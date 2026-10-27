@@ -6,7 +6,7 @@
  "n": "making-things",
  "title": "Making things: clay, bricks and houses",
  "source": "DeepKids Combined. Covers NCERT Class 3 'Making Things' (materials and their uses, pots and bricks from clay, houses built from natural resources, new designs, safety rules). No textbook needed.",
- "summary": "Wet clay can be shaped like dough, but once a potter bakes it in a kiln it can never turn back into mud. Your child makes clay pots, tests why baked clay is different, presses bricks in a mould and finds out why builders stagger them. They compare houses built for floods, deserts and snow, meet the wasps, weaver birds and termites that build too, and test how a triangle or a fold makes paper strong. They end by designing a model house for a real place, and by learning the safety rules that keep builders alive.",
+ "summary": "Wet clay can be shaped like dough, but once a potter bakes it in a kiln it can never turn back into mud. Your child makes clay pots, tests why baked clay is different, presses bricks in a mould and finds out why builders stagger them. They compare houses built for floods, deserts and snow, meet the wasps, weaver birds and termites that build too, and test how a triangle or a fold makes paper strong. They end by designing a model house for a real place, and by learning the safety rules that keep builders safe.",
  "builds_on": "In Class 2 your child sorted natural and made materials, and followed clay to brick and cotton to cloth. This rung goes inside the making: what clay is, why fire changes it for ever, how bricks, walls and houses are built, and how shape gives strength. In Class 4 the making-things rung makes paper from pulp and looks at waste. In Class 5 it follows cotton into thread, cloth and clothes.",
  "goals": [
   "By the end your child can say what a home is made of and where each material came from in nature.",
@@ -94,7 +94,7 @@
      "kind": "warmup",
      "title": "Remember clay to brick",
      "mins": 6,
-     "do": "Say: 'In Class 2 you followed clay on its journey to becoming a brick. What else did we follow?' (Cotton to cloth, sand to glass, oil to plastic.) Ask: 'What does raw material mean?' Good answer: 'Something from nature that we use to make a thing.' Say: 'This week we find out how people, and some animals, turn raw materials into pots, bricks and whole houses.'"
+     "do": "Say: 'In Class 2 you followed clay on its journey to becoming a brick. What else did we follow?' (Cotton to cloth, sand to glass.) Ask: 'What does raw material mean?' Good answer: 'Something from nature that we use to make a thing.' Say: 'This week we find out how people, and some animals, turn raw materials into pots, bricks and whole houses.'"
     },
     {
      "kind": "talk",
@@ -112,7 +112,7 @@
      "kind": "exp",
      "title": "Start the settling jar",
      "mins": 12,
-     "do": "Do Experiment e1. Put 3 big spoons of soil in a clear jar or bottle, fill it two-thirds with water, close it and shake hard for one minute. Ask: 'What do you think will happen if we leave it still?' Wait for the answer and the reason. Then watch for 2 minutes. Ask: 'What fell to the bottom first?' (The gritty sand.) Say: 'Leave it. Tomorrow we will see the layers.'",
+     "do": "Do Experiment e1. Put 3 big spoons of soil in a clear jar or bottle, fill it two-thirds with water, close it and shake hard for one minute. Ask: 'What do you think will happen if we leave it still?' Wait for the answer and the reason. Then watch for 2 minutes. Bits of leaf or root may float on top. Ask: 'What fell to the bottom first?' (The gritty sand.) Say: 'Leave it. Tomorrow we will see the layers.'",
      "ref": "e1"
     }
    ],
@@ -163,7 +163,7 @@
     }
    ],
    "need": [
-    "about 500 g of potter's clay, or the clay layer from the jar plus mud from a plant pot",
+    "about 500 g of potter's clay, or multani mitti mixed with a little water",
     "a little water in a bowl",
     "newspaper",
     "a ruler",
@@ -172,8 +172,12 @@
    ],
    "prep": [
     {
-     "task": "Buy potter's clay (sold as 'pottery clay' or 'terracotta clay' at craft shops and online, about 1 kg). Modelling clay and plasticine will not work, because they are not real clay.",
+     "task": "Buy potter's clay (sold as 'pottery clay' or 'terracotta clay' at craft shops and online, about 1 kg). Modelling clay and plasticine will not work, because they are not real clay. If you cannot get it, multani mitti (fuller's earth, sold at chemists) is a real clay: mix it with a little water into a stiff dough. It cracks more easily, so keep the pots small.",
      "when": "1 week before"
+    },
+    {
+     "task": "Make 3 balls of clay the size of a marble and leave them on a sunny windowsill to dry hard for Day 3",
+     "when": "on Day 2"
     }
    ]
   },
@@ -193,7 +197,7 @@
      "kind": "exp",
      "title": "Mud or terracotta in water",
      "mins": 14,
-     "do": "Do Experiment e3. Put a dry lump of clay (or a hard dry clod of soil) in one glass of water and a broken diya or kulhad in another. Ask first: 'What will happen to each? Why?' Wait 10 minutes, stirring once. The dry lump goes soft and crumbles into mud. The diya stays hard. Now ask: 'They were the same mud once. What made the difference?' Then explain: 'A kiln heats clay hotter than about 600 degrees Celsius. That heat changes the grains themselves and joins them together. This is an irreversible change: it cannot be undone.' Go back to the Day 1 story answer and check it.",
+     "do": "Do Experiment e3. Put a dried clay ball from Day 2 (or a hard dry clod of soil) in one glass of water and a broken diya or kulhad in another. Ask first: 'What will happen to each? Why?' Wait 10 minutes, stirring once. The dry ball goes soft and crumbles into mud. The diya stays hard. Now ask: 'They were the same mud once. What made the difference?' Then explain: 'A kiln heats clay to more than 600 degrees Celsius, far hotter than a kitchen stove. That heat changes the grains themselves and joins them together. This is an irreversible change: it cannot be undone.' Go back to the Day 1 story answer and check it.",
      "ref": "e3"
     },
     {
@@ -206,7 +210,7 @@
      "kind": "think",
      "title": "The potter wasp",
      "mins": 8,
-     "do": "Say: 'A potter wasp has a problem. Her baby grows from an egg into a grub that cannot move or find food, and many animals would eat it.' Ask: 'What would you build to keep a baby safe?' Then tell: 'She mixes soil with water to make mud, and builds a tiny round pot of mud pellets on a wall or twig. She puts caterpillars inside that she has stung so they cannot move, lays one egg, and seals the pot. The grub eats, grows, and climbs out as a wasp.' Look for small mud nests on window frames, under a sunshade or on a balcony wall. Ask: 'What does she do the same as a human potter? What does she never do?' (She shapes wet mud and lets it dry. She never bakes it, so her pot is sheltered from rain.)"
+     "do": "Say: 'A potter wasp has a problem. Her baby grows from an egg into a grub that cannot move or find food, and many animals would eat it.' Ask: 'What would you build to keep a baby safe?' Then tell: 'She mixes soil with water to make mud, and builds a tiny round pot of mud pellets on a wall or twig. She lays one egg inside, fills the pot with caterpillars she has stung so they cannot move, and seals it. The grub eats them, grows, and bites its way out as a wasp.' If you can, look for small mud nests on window frames or under a sunshade. Ask: 'What does she do the same as a human potter? What does she never do?' (She shapes wet mud and lets it dry. She never bakes it, so she builds it where rain does not reach.)"
     },
     {
      "kind": "act",
@@ -218,15 +222,9 @@
    "need": [
     "the clay bar and a ruler",
     "2 glasses of water",
-    "a dry lump of the child's clay or a hard dry clod of soil",
+    "a dried clay ball from Day 2 or a hard dry clod of soil",
     "an old diya or kulhad (break a chipped one, wrapped in a cloth, grown-up does this)",
     "a toothpick"
-   ],
-   "prep": [
-    {
-     "task": "Leave a lump of clay, the size of a lemon, to dry hard on a sunny windowsill",
-     "when": "night before"
-    }
    ]
   },
   {
@@ -238,20 +236,20 @@
      "kind": "do",
      "title": "Moulds: same shape every time",
      "mins": 9,
-     "do": "Bring an idli stand. Ask: 'Why does every idli come out the same shape?' (The mould shapes the batter.) Then make bricks: your child presses clay firmly into the inner tray of a matchbox, scrapes the top flat with a ruler, and taps it out onto newspaper. Make 6 to 10. Leave them to dry in the shade. Ask: 'Why do builders want every brick the same size?' Good answer: 'Then the rows stay flat and level, and the wall does not lean.'"
+     "do": "Bring an idli stand. Ask: 'Why does every idli come out the same shape?' (The mould shapes the batter.) Then make bricks: your child sprinkles a pinch of dry atta inside the inner tray of a matchbox so the clay does not stick, presses clay in firmly, scrapes the top flat with a ruler, and taps it out onto newspaper. Make 6 to 10. Leave them to dry in the shade. Ask: 'Why do builders want every brick the same size?' Good answer: 'Then the rows stay flat and level, and the wall does not lean.'"
     },
     {
      "kind": "think",
      "title": "The bricks of the Indus cities",
      "mins": 7,
-     "do": "Tell the story in Voice v1. Measure one of your clay bricks: its thickness, its width and its length. Ask: 'Is the width about twice the thickness? Is the length about twice the width?' Then ask the voice question.",
+     "do": "Tell the story in Voice v1. Say: 'A Harappan brick was about 7 cm thick, 14 cm wide and 28 cm long.' Ask: 'Is the width twice the thickness? Is the length twice the width?' (Yes, both.) Then measure one of your matchbox bricks and ask: 'Is yours the same shape?' (No, it is flatter and shorter.) Then ask the voice question.",
      "ref": "v1"
     },
     {
      "kind": "exp",
      "title": "Stacked wall or staggered wall?",
      "mins": 16,
-     "do": "Do Experiment e4 with 20 empty matchboxes or same-size toy blocks. Build Wall A with bricks stacked straight up in columns. Build Wall B with each row shifted by half a brick, the way real walls are built. Ask first: 'Which will fall when we push it? Why?' Push the top middle of each with one finger, gently, then a little harder. Usually Wall A splits and one column topples alone, while Wall B moves as one piece. Say: 'The pattern in which bricks are laid is called the bond. In a staggered bond, each brick sits across two bricks below it, so a push is shared by many bricks.' Ask: 'What does mortar add?' (It glues the bricks so the whole wall acts as one.)",
+     "do": "Do Experiment e4 with 20 empty matchboxes or same-size plain toy blocks (not ones that snap together). Build Wall A with bricks stacked straight up in columns. Build Wall B with each row shifted by half a brick, the way real walls are built. Ask first: 'Which will fall when we push it? Why?' Push the top middle of each with one finger, gently, then a little harder. Usually Wall A splits and one column topples alone, while Wall B moves as one piece. Say: 'The pattern in which bricks are laid is called the bond. In a staggered bond, each brick sits across two bricks below it, so a push is shared by many bricks.' Ask: 'What does mortar add?' (It glues the bricks so the whole wall acts as one.)",
      "ref": "e4"
     },
     {
@@ -272,7 +270,7 @@
    ],
    "prep": [
     {
-     "task": "Collect 20 empty matchboxes (or find 20 same-size toy blocks)",
+     "task": "Collect 20 empty matchboxes (or find 20 same-size plain toy blocks that do not snap together)",
      "when": "1 week before"
     }
    ]
@@ -286,14 +284,14 @@
      "kind": "exp",
      "title": "Set up the earth-wall test",
      "mins": 8,
-     "do": "Set up Experiment e5. Put one ice cube in each of two steel tumblers. Leave one tumbler bare. Stand the other in a bigger bowl and pack damp soil all round it, about 3 cm thick. Cover both with a piece of card. Put them side by side in the sun. Ask: 'Which ice cube will last longer? Why?' Check every 10 minutes during the next steps.",
+     "do": "Set up Experiment e5. Put one ice cube in each of two steel tumblers. Leave one tumbler bare. Stand the other in a bigger bowl and pack damp soil all round it, about 3 cm thick. Cover both with a piece of card. Put them side by side on a sunny windowsill or balcony. Ask: 'Which ice cube will last longer? Why?' Check every 10 minutes during the next steps.",
      "ref": "e5"
     },
     {
      "kind": "talk",
      "title": "Five houses, five problems",
      "mins": 14,
-     "do": "Show your child pictures on the phone, one at a time. For each, say the problem first, then ask: 'What would you build?' Then tell what people built. In Assam, rivers flood every monsoon, so many families build bamboo houses on stilts. In the Thar desert, days are very hot, so houses have thick walls of mud or stone and small windows. In Kerala, rain is heavy, and roofs are steep and tiled to let the water run off fast. In Ladakh, it is cold and there is little rain, so houses have thick mud-brick walls and flat roofs. In the Arctic, Inuit families once built igloos of snow blocks for hunting trips: snow is full of trapped air, so it keeps body heat in. Ask: 'What two things decide how a house is built?' (The weather, and the materials found nearby.)"
+     "do": "Show your child pictures on the phone, one at a time. For each, say the problem first, then ask: 'What would you build?' Then tell what people built. In Assam, rivers flood every monsoon, so many families build bamboo houses on stilts. In the Thar desert, days are very hot, so houses have thick walls of mud or stone and small windows. In Kerala, rain is heavy, and roofs are steep and tiled to let the water run off fast. In Ladakh, it is cold and there is little rain, so houses have thick mud-brick walls and flat roofs. In the Canadian Arctic, Inuit hunters built igloos of snow blocks in winter: snow is full of trapped air, so it keeps body heat in. Ask: 'What two things decide how a house is built?' (The weather, and the materials found nearby.)"
     },
     {
      "kind": "talk",
@@ -320,7 +318,7 @@
     "2 steel tumblers",
     "2 ice cubes of the same size",
     "a bigger bowl or pot",
-    "damp soil to pack round one tumbler",
+    "about 4 cups of damp soil from a big plant pot, or sand, to pack round one tumbler",
     "2 pieces of card",
     "a phone to show pictures of houses",
     "the clay bar and a ruler"
@@ -356,7 +354,7 @@
      "kind": "talk",
      "title": "Who built it first?",
      "mins": 6,
-     "do": "Ask: 'The wasp, the baya and the termites all build. How is their building like ours? How is it different?' Good answers: 'They use mud and grass found nearby, like a mud house. They never bake or use machines. Each kind of animal builds its own kind of home.' Then ask: 'Is a baya nest less clever than our flat? Why do you think so?'"
+     "do": "Ask: 'The wasp, the baya and the termites all build. How is their building like ours? How is it different?' Good answers: 'They use mud and grass found nearby, like a mud house. They never bake or use machines. Each kind of animal builds its own kind of home.' Then ask: 'Is building a baya nest less clever than building our flat? Why do you think so?'"
     }
    ],
    "need": [
@@ -383,7 +381,7 @@
      "kind": "act",
      "title": "The paper bridge",
      "mins": 12,
-     "do": "Do Activity a3. Lay one flat sheet of paper between two books 15 cm apart and add one-rupee coins until it sags to the table. Then fold a new sheet into a zig-zag like a hand fan, and test again. Ask: 'It is the same paper. Why does it hold more?' Good answer: 'The folds stand up on their edges, so the paper is much harder to bend.' Say: 'This is why tin roof sheets and cardboard have waves inside.'",
+     "do": "Do Activity a3. Lay one flat sheet of paper between two books 15 cm apart and add one-rupee coins until it sags to the table. Then fold a new sheet into a zig-zag like a hand fan, and test again. Ask: 'It is the same paper. Why does it hold more?' Good answer: 'The folds stand up on their edges, so the paper is much harder to bend.' Say: 'This is why tin roof sheets are wavy, and cardboard has a wavy layer inside.'",
      "ref": "a3"
     },
     {
@@ -456,21 +454,21 @@
     {
      "kind": "act",
      "title": "Finish and test the model",
-     "mins": 12,
-     "do": "Finish the model house from Day 8. Test it for its place. For a flood house, stand it in a tray and pour in water: does the floor stay dry? For a rainy place, pour a cup of water on the roof: where does the water go? For a hot place, put an ice cube inside and compare with an ice cube in an open box in the sun. Ask: 'What would you change next time?'"
+     "mins": 10,
+     "do": "Finish the model house from Day 8 and test it for its place. For a flood house, stand it in a tray and pour in water: does the floor stay dry? For a rainy place, pour a cup of water on the roof: where does the water go? For a hot place, put an ice cube inside and compare with an ice cube in an open box in the sun. Ask: 'What would you change next time?'"
     },
     {
      "kind": "ws",
-     "title": "Stretch and challenge worksheets",
-     "mins": 12,
-     "do": "Do Worksheet ws2 first, then as much of ws3 as time allows. Your child can say the written answers aloud while you write. In the last section of ws3 there is no single right answer: listen for reasons that use what they tested.",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws2. Your child can say the written answers aloud while you write.",
      "ref": "ws2"
     },
     {
      "kind": "ws",
-     "title": "Challenge worksheet: finish",
-     "mins": 3,
-     "do": "Finish any items of Worksheet ws3 that were left. Read the 'what if' questions aloud and let your child answer in their own words.",
+     "title": "Challenge worksheet",
+     "mins": 8,
+     "do": "Do as much of Worksheet ws3 as time allows. In the last section there is no single right answer: listen for reasons that use what your child tested.",
      "ref": "ws3"
     },
     {
@@ -482,7 +480,7 @@
     {
      "kind": "check",
      "title": "Teach it back",
-     "mins": 7,
+     "mins": 6,
      "do": "Your child teaches the family for 5 minutes, using the things they made: how a pot is made and why it is baked, why bricks are staggered, why a triangle is strong, and how their model house suits its place. Then ask them: 'Who made our home?' Listen for the hills, the rivers and the workers, as well as the builder."
     }
    ],
@@ -860,7 +858,7 @@
    "day": 2,
    "question": "Does a clay bar stay the same length as it dries?",
    "need": [
-    "a lump of potter's clay",
+    "a lump of potter's clay or multani mitti dough",
     "a ruler",
     "2 toothpicks",
     "a plate"
@@ -884,21 +882,21 @@
    "day": 3,
    "question": "Do dried clay and baked clay behave the same in water?",
    "need": [
-    "a lump of clay dried hard (or a hard dry clod of soil)",
+    "a clay ball dried hard (or a hard dry clod of soil)",
     "a piece of an old diya or kulhad",
     "2 glasses of water",
     "a spoon"
    ],
    "steps": [
     "A grown-up breaks a chipped diya, wrapped in a cloth, to get a piece.",
-    "Put the dry clay lump in one glass of water.",
+    "Put the dry clay ball in one glass of water.",
     "Put the piece of diya in the other glass.",
     "Wait 10 minutes. Stir each glass once in the middle.",
     "Take both out and press them with a finger."
    ],
    "predict": "Ask: 'What will happen to each one in the water? Why do you think so?'",
    "observe": "The dried clay goes soft, crumbles at the edges and clouds the water. It turns back into mud. The diya stays hard and whole.",
-   "why": "Dried clay is only clay with the water gone, so water can get back between its grains and loosen them. In a kiln, clay is heated hotter than about 600 degrees Celsius. That heat drives out water that was locked inside the grains themselves and makes the grains join. After that, water cannot loosen them. This is an irreversible change. Baked clay still has tiny holes, which is why a matka lets a little water seep through.",
+   "why": "Dried clay is only clay with the water gone, so water can get back between its grains and loosen them. In a kiln, clay is heated to more than 600 degrees Celsius. That heat drives out water that was locked inside the grains themselves and makes the grains join. After that, water cannot loosen them. This is an irreversible change. Baked clay still has tiny holes, which is why a matka lets a little water seep through.",
    "safety": "Only a grown-up breaks the diya, inside a cloth. Edges can be sharp.",
    "time": "15 min"
   },
@@ -908,7 +906,7 @@
    "day": 4,
    "question": "Which way of laying bricks makes a stronger wall?",
    "need": [
-    "20 empty matchboxes or same-size toy blocks",
+    "20 empty matchboxes or same-size plain toy blocks",
     "a flat table"
    ],
    "steps": [
@@ -933,7 +931,7 @@
     "2 steel tumblers of the same size",
     "2 ice cubes of the same size",
     "a bigger bowl or pot",
-    "enough damp soil to pack round one tumbler",
+    "about 4 cups of damp soil from a big plant pot, or sand",
     "2 pieces of card"
    ],
    "steps": [
@@ -941,7 +939,7 @@
     "Leave one tumbler bare.",
     "Stand the other in the bowl and pack damp soil all round it, about 3 cm thick, up to the rim.",
     "Cover both tumblers with card.",
-    "Put them side by side in the sun.",
+    "Put them side by side on a sunny windowsill or balcony.",
     "Look under the card every 10 minutes and write what is left of each ice cube."
    ],
    "predict": "Ask: 'Which ice cube will last longer? Why?'",
@@ -981,7 +979,7 @@
    "day": 2,
    "mins": 20,
    "need": [
-    "potter's clay, about two lemons' worth",
+    "potter's clay or multani mitti dough, about two lemons' worth",
     "a little water in a bowl",
     "newspaper to work on"
    ],
@@ -1110,7 +1108,7 @@
   },
   {
    "q": "'Animals build by instinct. Only people really design things.'",
-   "hint": "Scientists still argue about this. A baya weaver is born able to weave, but young males often build untidy nests at first and get better with practice. A male may also pull down a nest that no female chooses and build again. Ask: what would you need to see to decide whether a bird is designing?"
+   "hint": "Scientists still argue about this. A weaver bird is born able to weave, but studies of weaver birds show young males build untidy nests at first and get better with practice. A male may also pull down a nest that no female chooses and build again. Ask: what would you need to see to decide whether a bird is designing?"
   }
  ],
  "perspectives": [
@@ -1242,7 +1240,7 @@
    "author": "Jonathan Bean",
    "for": "read together",
    "age": "4–8",
-   "why": "A true story of the author's family building their own house over a year and a half, step by step, from the ground up."
+   "why": "A true story of the author's family building their own house, step by step, from the ground up."
   },
   {
    "title": "Dreaming Up: A Celebration of Building",
@@ -1252,7 +1250,7 @@
    "why": "Children's block towers and sand castles shown side by side with real buildings from around the world that use the same ideas."
   },
   {
-   "title": "Laurie Baker: Life, Works and Writings",
+   "title": "Laurie Baker: Life, Work, Writings",
    "author": "Gautam Bhatia",
    "for": "parent reads",
    "age": "adult; show your child the photos",

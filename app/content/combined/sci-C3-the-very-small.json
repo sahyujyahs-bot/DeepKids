@@ -6,7 +6,7 @@
  "n": "the-very-small",
  "title": "The very small: what is inside an atom",
  "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (Grade 3 grid: atoms join into molecules, protons, neutrons and electrons, charge, quantum chance, and a first look at antimatter). No board teaches it at this class, so there are no board subtopics to cover. No textbook needed.",
- "summary": "Cut a strip of paper in half 8 times and the scissors stop. To reach a piece one atom wide, you would need about 31 cuts. Your child finds out that about 90 kinds of atom join into molecules to make everything, and that each atom has a tiny, heavy nucleus of protons and neutrons with electrons around it. They find a hidden object by rolling marbles, the way scientists found the nucleus, and learn that an atom is almost all empty space. They see that electrons have no tracks, only clouds of chance, and that salt turns a flame one exact yellow. Last, they meet antimatter, the opposite twin of matter, and the open question of why anything is left at all.",
+ "summary": "Cut a strip of paper in half 8 times and the scissors stop. To reach a piece one atom long, you would need about 31 cuts. Your child finds out that about 90 kinds of atom join into molecules to make everything, and that each atom has a tiny, heavy nucleus of protons and neutrons with electrons around it. They find a hidden object by rolling marbles, the way scientists found the nucleus, and learn that an atom is almost all empty space. They find that electrons have no tracks, only places where they are likely to be, and that salt turns a flame one exact yellow. Last, they meet antimatter, and the open question of why any matter is left at all.",
  "builds_on": "Classes 1 and 2 sorted materials, and found that solids, liquids and gases behave differently. This is the first rung of the very small. Class 4 (Matter and particles) uses particles to explain solids, liquids and gases, diffusion, Brownian motion and density. Class 5 goes on to fields, quarks, entanglement and the open arguments of quantum physics.",
  "subconcepts": [
   "everything you can touch is made of atoms",
@@ -36,7 +36,7 @@
  "words": [
   [
    "atom",
-   "the tiny particle that everything you can touch is built from. About 5 million in a row make 1 millimetre."
+   "the tiny particle that everything you can touch is built from. Millions in a row make 1 millimetre."
   ],
   [
    "element",
@@ -76,7 +76,7 @@
   ],
   [
    "antimatter",
-   "particles that are opposite twins of ordinary particles. The positron is the opposite twin of the electron."
+   "particles that are opposite twins of the particles in ordinary matter. The positron is the opposite twin of the electron."
   ],
   [
    "quark",
@@ -100,7 +100,7 @@
      "kind": "exp",
      "title": "Cut it in half, again and again",
      "mins": 22,
-     "do": "Do Experiment e1. Before the first cut, ask: 'How many times can we cut this strip in half? Why do you think so?' Write the guess down. When the scissors stop, ask: 'Is the last sliver still paper?' (Yes. Under the magnifier you can see its threads.) Say: 'To make a piece just one atom wide, you would need about 31 cuts. We stopped at about 8.'",
+     "do": "Do Experiment e1. Before the first cut, ask: 'How many times can we cut this strip in half? Why do you think so?' Write the guess down. When the scissors stop, ask: 'Is the last sliver still paper?' (Yes. Under the magnifier you can see its plant fibres.) Say: 'To make a piece just one atom long, you would need about 31 cuts. We stopped at about 8.'",
      "ref": "e1"
     },
     {
@@ -208,7 +208,7 @@
      "kind": "do",
      "title": "Project, part 1: a carbon nucleus",
      "mins": 15,
-     "do": "Start the project, Make an honest carbon atom. Count out 6 rajma for protons and 6 chana for neutrons. Press them into one small ball with a little atta dough, colours mixed. Put it in the centre of a paper plate and leave it to dry overnight. Say: 'Real protons and neutrons are jumbled together like this, not in neat rows.'"
+     "do": "Start the project, Make an honest carbon atom. Count out 6 rajma for protons and 6 chana for neutrons. Mix them up and press them into one small ball with a little atta dough. Put it in the centre of a paper plate and leave it to dry overnight. Say: 'Real protons and neutrons are jumbled together like this, not in neat rows.'"
     }
    ],
    "need": [
@@ -243,14 +243,14 @@
      "kind": "talk",
      "title": "Gold foil, 1909",
      "mins": 10,
-     "do": "Use voice v2. Say: 'In 1909, Hans Geiger and a student, Ernest Marsden, fired tiny particles at very thin metal. Almost all went straight through. About 1 in 8,000 bounced back.' Ask: 'What would you guess about the atoms in the metal?' Then say: 'Rutherford said each atom is almost all empty space, with a tiny, heavy nucleus in the middle.' Ask the voice's question about credit.",
+     "do": "Use voice v2. Say: 'In 1909, Hans Geiger and a student, Ernest Marsden, fired tiny particles at very thin gold. Almost all went straight through. About 1 in 8,000 bounced back.' Ask: 'What would you guess about the atoms in the metal?' Then say: 'In 1911, Ernest Rutherford said each atom is almost all empty space, with a tiny, heavy nucleus in the middle.' Ask the voice's question about credit.",
      "ref": "v2"
     },
     {
      "kind": "act",
      "title": "Why doesn't your hand sink?",
      "mins": 7,
-     "do": "Ask: 'If atoms are almost empty, why doesn't your hand go through the table?' Let your child guess. Hold two magnets with the same ends facing, or the two rubbed balloons from Day 3, and feel them push apart before they touch. Say: 'All electrons have a minus charge, so they repel. The electrons in your hand push the electrons in the table. That push is what solid feels like.' Press hands flat on the table together."
+     "do": "Ask: 'If atoms are almost empty, why doesn't your hand go through the table?' Let your child guess. Rub the two balloons from Day 3 on dry hair again. Push them slowly together and feel them push apart before they touch. Say: 'All electrons have a minus charge, so they repel. The electrons in your hand push the electrons in the table. That push is what solid feels like.'"
     }
    ],
    "need": [
@@ -260,7 +260,7 @@
     "an AA battery",
     "a small ball of atta dough",
     "a marble, or any small ball that rolls",
-    "2 magnets, or the 2 balloons from Day 3"
+    "the 2 balloons from Day 3"
    ],
    "prep": []
   },
@@ -286,7 +286,7 @@
      "kind": "do",
      "title": "Project, part 2: the electron cloud",
      "mins": 15,
-     "do": "Finish the carbon atom. Pull cotton wool into a thin, fluffy ring around the dry bean nucleus, thick near the centre and thin at the edge. Add pen dots, many near the middle and few at the edge. Label nucleus, protons, neutrons and electron cloud. Ask: 'What does our model get wrong?' Good answers: the nucleus is far too big, atoms have no colours, electrons are not cotton."
+     "do": "Finish the carbon atom. Pull cotton wool into a thin, fluffy cloud around the dry bean nucleus, thick near the centre and thin at the edge. Add pen dots, many near the middle and few at the edge. Label nucleus, protons, neutrons and electron cloud. Ask: 'What does our model get wrong?' Good answers: the nucleus is far too big, atoms have no colours, electrons are not cotton."
     },
     {
      "kind": "talk",
@@ -362,7 +362,7 @@
      "kind": "talk",
      "title": "The anti-electron",
      "mins": 10,
-     "do": "Use voice v3. Say: 'In 1928, Paul Dirac wrote down the maths for electrons. The maths also allowed a twin with a plus charge. In 1932, Carl Anderson found it in tracks made by particles from space. It is called the positron.' Say: 'Every kind of particle has an opposite twin like this. They are called antimatter.' Say: 'When a particle meets its antiparticle, both vanish. Their energy goes out as a flash of very strong light.'",
+     "do": "Use voice v3. Say: 'In 1928, Paul Dirac wrote down the maths for electrons. The maths also allowed a twin with a plus charge. In 1932, Carl Anderson found it in tracks made by particles from space. It is called the positron.' Say: 'Every particle of ordinary matter has an opposite twin like this. The twins are called antimatter.' Say: 'When a particle meets its antiparticle, both vanish. Their energy goes out as a flash of very strong light.'",
      "ref": "v3"
     },
     {
@@ -506,7 +506,7 @@
       },
       {
        "t": "mcq",
-       "p": "Riya, a girl in Class 3, cuts a paper strip in half 8 times. Her last piece is about 1 millimetre long. How wide is it in atoms?",
+       "p": "Riya, a girl in Class 3, cuts a paper strip in half 8 times. Her last piece is about 1 millimetre long. How many atoms long is it?",
        "opts": [
         "one atom",
         "millions of atoms",
@@ -847,7 +847,7 @@
    ],
    "predict": "Ask your child to guess first: 'How many cuts can we make before the piece is too small? Why do you think so?'",
    "observe": "The lengths go 12 cm, 6 cm, 3 cm, 1 and a half cm, and so on. Most people stop after 7 to 9 cuts. After 8 cuts the sliver is about 1 millimetre long. Under the magnifier, tiny plant fibres stick out of its edge.",
-   "why": "Paper is made of plant fibres. Each fibre is made of molecules, and each molecule is made of atoms. An atom is about one ten-millionth of a millimetre across. To make a piece one atom wide you would need about 31 cuts, so the scissors stop about 23 cuts short.",
+   "why": "Paper is made of plant fibres. Each fibre is made of molecules, and each molecule is made of atoms. An atom is about one ten-millionth of a millimetre across. To make a piece one atom long you would need about 31 cuts. The scissors stop about 23 cuts short.",
    "safety": "A grown-up does every cut once the piece is shorter than 2 cm. Keep fingers away from the blades.",
    "time": "20 min"
   },
@@ -871,7 +871,7 @@
    ],
    "predict": "Ask your child to guess first: 'After rubbing, will the comb lift the paper? Will the two balloons swing together or apart? Why?'",
    "observe": "The paper bits jump up and cling to the comb. The two balloons swing apart and stay apart.",
-   "why": "Rubbing moves some electrons from the hair onto the comb, so the comb has extra minus charge. Its electrons push the paper's electrons to the far side of each bit. The near side is left with a little plus charge, and plus and minus attract. Both balloons got extra electrons, and two minus charges repel. Charges act across a gap, with no touching.",
+   "why": "Rubbing moves some electrons from the hair onto the comb, so the comb has extra minus charge. Its minus charge pushes the electrons in each paper bit a little away. The near side of the bit is left with a little plus charge, and plus and minus attract. Both balloons got extra electrons, and two minus charges repel. Charges act across a gap, with no touching.",
    "safety": "Pick up every piece of a popped balloon, as it is a choking risk for small children.",
    "time": "15 min"
   },
@@ -900,7 +900,7 @@
    ],
    "predict": "Ask your child to guess first: 'If the hidden thing is big, how many of 20 rolls will come back? If it is tiny? Why?'",
    "observe": "The katori turns several marbles aside and sends some back. The battery is hit only once or twice in 20 rolls. Nearly every roll goes straight through.",
-   "why": "The smaller the hidden thing, the fewer marbles hit it. In 1909, Geiger and Marsden fired tiny alpha particles at very thin metal. Only about 1 in 8,000 bounced back. So each atom must have a centre far smaller than the battery is to the card, with almost nothing around it.",
+   "why": "The smaller the hidden thing, the fewer marbles hit it. In 1909, Geiger and Marsden fired tiny alpha particles at very thin gold. Only about 1 in 8,000 bounced back. So each atom must have a centre far smaller than the atom itself, with almost nothing around it.",
    "safety": "Pick up the marble afterwards so nobody slips. Marbles are a choking risk for children under 3.",
    "time": "20 min"
   },
@@ -974,8 +974,8 @@
    ],
    "steps": [
     "Your child stands on the bottom step. This is the electron's usual energy level.",
-    "Call 'Heat!' Your child jumps up one step.",
-    "Call 'Let go!' Your child jumps down and calls out 'Yellow!'",
+    "Call 'Heat!' Your child steps up one step.",
+    "Call 'Let go!' Your child steps down and calls out 'Yellow!'",
     "Ask them to stand halfway between two steps. They can't. Say: 'An electron can't be between levels either.'",
     "Try two steps up and two down. Say: 'A bigger drop gives a different colour.'"
    ],
@@ -1008,7 +1008,7 @@
   ],
   "steps": [
    "Day 3: count out 6 rajma for protons and 6 white chana for neutrons.",
-   "Press them together into one small ball with a little atta dough, colours mixed. Put it in the middle of a paper plate and leave it to dry overnight.",
+   "Mix them up and press them into one small ball with a little atta dough. Put it in the middle of a paper plate and leave it to dry overnight.",
    "Day 5: pull cotton wool into a thin, fluffy cloud around the nucleus, thick near the centre and thin at the edge.",
    "Add pen dots on the plate, many near the middle and few at the edge.",
    "Label the nucleus, protons, neutrons and electron cloud.",
@@ -1121,7 +1121,7 @@
   },
   {
    "q": "People say quantum physics proves the world is not real until a person looks at it. Is that true?",
-   "hint": "No experiment shows that. In physics, an observer is anything that measures, such as a screen, a detector or a particle of light. Physicists still argue about what happens during a measurement, but none of the main ideas needs a person to look. Ask: why might people like this claim, and who might sell courses about it?"
+   "hint": "No experiment shows that. In physics, an observer is anything that measures, such as a screen, a detector or a particle of light. Physicists still argue about what happens during a measurement, but none of the main ideas needs a person to look. Ask: why might people like this claim?"
   },
   {
    "q": "Some books in India say Kanada discovered the atom long before anyone else. Is that right?",
@@ -1143,11 +1143,11 @@
   },
   {
    "who": "A firefly",
-   "view": "A firefly makes its own light, from a chemical reaction in its body. It gives off very little heat, so its light is called cold light. It uses its flashes to find a mate. Ask: whose light came first, a firefly's or a bulb's?"
+   "view": "A firefly must find a mate in the dark, so it flashes light. A chemical reaction in its body lifts electrons in a molecule to a higher energy level. When they drop back, the molecule gives out light, as the sodium in salt did. Almost no heat is made, so it is called cold light. Ask: the salt needed a hot flame to glow. How is the firefly's light different?"
   },
   {
    "who": "A green leaf",
-   "view": "A leaf catches sunlight to make food. Light comes in tiny packets of energy called photons, and each packet the leaf catches can move an electron in a molecule. Ask: a leaf has been using the very small for hundreds of millions of years. Who learned quantum physics first?"
+   "view": "A leaf cannot move to find food, so it makes its own from sunlight. Light comes in tiny packets of energy called photons. Each packet the leaf catches moves an electron in a molecule, and that starts the making of food. Ask: leaves did this for hundreds of millions of years before people understood it. What else might living things do that we have not understood yet?"
   }
  ],
  "voices": [
@@ -1263,7 +1263,7 @@
   },
   {
    "idea": "An atom is almost all empty space, and solid is electrons pushing on electrons.",
-   "more": "In the hidden-centre test, nearly every marble passed the tiny battery. Real atoms are far emptier. A table holds your hand up because its electrons repel the electrons in your hand, like two magnets pushing apart."
+   "more": "In the hidden-centre test, nearly every marble passed the tiny battery. Real atoms are far emptier. A table holds your hand up because its electrons repel the electrons in your hand, like the two rubbed balloons pushing apart."
   },
   {
    "idea": "The very small follows different rules from balls and bicycles.",
@@ -1271,7 +1271,7 @@
   },
   {
    "idea": "The same three particles make everything, and consciousness runs through all of it.",
-   "more": "Protons, neutrons and electrons make stones, stars, mangoes and you. Consciousness runs through all of it, down to every particle, so a mind is not something that appears only when atoms build a brain. Most physicists today hold the other view: particles follow the rules of physics and have no experience of their own."
+   "more": "Protons, neutrons and electrons make stones, stars, mangoes and you. Consciousness runs through all of it, down to every particle. A mind does not appear only when atoms build a brain. Most physicists today hold the other view: particles follow the rules of physics and have no experience of their own."
   }
  ],
  "unknowns": [

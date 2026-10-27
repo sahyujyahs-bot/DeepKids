@@ -6,7 +6,7 @@
  "n": "living-in-harmony",
  "title": "Living in harmony: how living things share a home",
  "source": "DeepKids Combined. Covers NCERT Class 3 'Living in Harmony' (we are connected to plants and animals near and far, kindness to all living beings). No textbook needed.",
- "summary": "Ants in the kitchen, a lizard by the tube light, pigeons on the balcony and millions of bacteria in a bowl of curd: your child lives with far more beings than the family. They find out why each one comes, and the five ways living things get along: both gain, one gains, one harms, one eats the other, or both want the same thing. They test what ants come for, make curd with bacteria, race paper seeds in the wind and crowd seedlings into a cup. They meet people who found ways for farmers, elephants, bees and rainforest monkeys to share land.",
+ "summary": "Ants in the kitchen, a lizard by the tube light, pigeons on the balcony and millions of bacteria in a bowl of curd: your child lives with far more beings than the family. They find out why each one comes, and the five ways living things live together: both gain, one gains, one harms, one eats the other, or both want the same thing. They test what ants come for, make curd with bacteria, race paper seeds in the wind and crowd seedlings into a cup. They meet people who found ways for farmers, elephants, bees and rainforest monkeys to share land.",
  "builds_on": "Class 1 and 2 rungs: every animal needs a habitat with food, water and shelter, and some people protect forests. The Class 3 rungs on caring for the environment and habitats go into food webs, decomposers, pollination and the layers of a tree. This rung is about relationships: the five ways living things live together, and how people can live with other beings without harming them. Class 4 goes on to ecosystems and energy, and Class 5 to food webs and the balance of nature.",
  "goals": [
   "By the end your child can name the living things that share their home, and say what each one comes for: food, water, shelter or warmth.",
@@ -113,7 +113,7 @@
      "title": "Sow the crowded cup",
      "mins": 8,
      "ref": "e2",
-     "do": "Start Experiment e2 now, because seeds need a week. Fill two cups with the same soil. In cup A, scatter a whole tablespoon of methi seeds so they touch. In cup B, press in just 10 seeds, spread apart. Cover both with a thin layer of soil, water both with 3 spoons of water and put them side by side at a sunny window. Ask: 'Which cup will grow better plants? Why?' Write the guess."
+     "do": "Start Experiment e2 now, because seeds need a week. Fill two cups with the same soil. In cup A, scatter a whole tablespoon of methi seeds so they touch. In cup B, press in just 10 seeds, spread apart. Cover both with a thin layer of soil, water both with 3 teaspoons of water and put them side by side at a sunny window. Ask: 'Which cup will grow better plants? Why?' Write the guess."
     },
     {
      "kind": "act",
@@ -260,7 +260,7 @@
     },
     {
      "kind": "talk",
-     "title": "How does a tree send away its babies?",
+     "title": "How do a tree's seeds travel?",
      "mins": 9,
      "do": "Ask: 'A mango tree can't walk. How do its seeds get to new places?' Let your child guess. Then explain seed dispersal, the ways seeds travel. Animals: a monkey or a bat eats a fruit and drops the seed far away. A bird eats a peepal fig and leaves the seed in its droppings on a wall, which is why peepal trees grow on old walls. Water: a coconut floats across the sea. Wind: aak seeds fly on silky hairs, and drumstick seeds have papery wings. Ask: 'When a monkey eats a mango and drops the seed, who gains?' (Both. That is mutualism.) Look at the crowded methi cup and ask: 'Why might a seed do better far from its parent?'"
     },
@@ -269,7 +269,7 @@
      "title": "Wings in the wind",
      "mins": 13,
      "ref": "e3",
-     "do": "Do Experiment e3. Make a paper spinner with wings and a crumpled paper ball, each with one paper clip. A grown-up drops each one from a raised hand, one metre in front of a table fan on low speed. Your child counts the floor tiles to where it lands. Do 3 drops each. Ask first: 'Which will travel further?' Expect the spinner to drift much further, because its wings slow its fall and the wind has longer to carry it."
+     "do": "Do Experiment e3. Make a paper spinner with wings and a crumpled paper ball, each with one paper clip. Put a table fan on a table, on low speed. A grown-up holds each one just above the fan, one big step in front of it, and lets go. Your child counts the floor tiles from the drop point to where it lands. Do 3 drops each. Ask first: 'Which will travel further?' Expect the spinner to drift much further, because its wings slow its fall and the wind has longer to carry it."
     },
     {
      "kind": "talk",
@@ -361,7 +361,7 @@
      "kind": "talk",
      "title": "Kindness to all beings",
      "mins": 10,
-     "do": "Ask: 'Name five things we got from plants and animals today.' (Rice, dal, milk, cotton, wood, medicine.) 'What do we give back?' Then read the two perspectives about the Bishnoi people and the Jain tradition. Ask: 'When we boiled the milk for the curd, we killed the bacteria that were in it. Can anyone live without harming anything? What can we do instead?' There is no single right answer. Listen to your child's reasons."
+     "do": "Ask: 'Name five things we got from plants and animals today.' (Rice, dal, milk, cotton, wood, medicine.) 'What do we give back?' Then read the two perspectives about the Bishnoi people and the Jain tradition, and ask their questions. There is no single right answer. Listen to your child's reasons."
     }
    ],
    "need": [
@@ -425,7 +425,7 @@
      "kind": "review",
      "title": "Ant project report",
      "mins": 8,
-     "do": "Count the ants at the project spot one last time. Your child draws a bar chart of the daily counts, with Day 2 first. Ask: 'Did fewer ants come after we put the food away? Did the ants go somewhere else instead?' Then your child tells the family the plan that worked, like a scientist reporting a result. If nothing changed, ask: 'What else could they be coming for?'"
+     "do": "Count the ants at the project spot one last time. Your child draws a bar chart of the daily counts, with Day 2 first. Ask: 'Did fewer ants come after we put the food away? Did the ants go somewhere else instead?' Then your child tells the family what they tried and what happened, like a scientist reporting a result. If nothing changed, ask: 'What else could they be coming for?'"
     },
     {
      "kind": "ws",
@@ -671,8 +671,8 @@
        "p": "In the crowded methi cup, how did the seedlings grow?",
        "opts": [
         "thin, pale and leaning",
-        "thicker and greener than the others",
-        "exactly the same as the others"
+        "thicker and greener than in the other cup",
+        "exactly the same as in the other cup"
        ],
        "a": 0
       }
@@ -731,7 +731,7 @@
       },
       {
        "t": "mcq",
-       "p": "People said oxpeckers, birds that ride on buffaloes, help them by eating their ticks. One study found the birds did not lower the number of ticks, and also drank blood from wounds. What does this tell us?",
+       "p": "Oxpeckers are African birds that ride on cattle and buffaloes. People said they help by eating ticks. A study on cattle found the birds did not lower the number of ticks, and they also drank blood from wounds. What does this tell us?",
        "opts": [
         "the bird may not only be helping. Scientists need to keep checking.",
         "oxpeckers always help buffaloes",
@@ -879,9 +879,9 @@
    "steps": [
     "Make the spinner: cut a strip of paper about 3 fingers wide and as long as your hand. Cut down the middle from the top to halfway. Fold the two flaps opposite ways to make two wings. Put a paper clip on the bottom.",
     "Make the ball: crumple a same-size strip of paper into a ball and put a paper clip on it.",
-    "Put the table fan on the floor, on low speed, facing an open part of the room.",
-    "A grown-up stands one metre in front of the fan and drops the spinner from a raised hand, in the fan's wind.",
-    "Your child counts the floor tiles from the grown-up's feet to where it lands.",
+    "Put the table fan on a table, on low speed, facing an open part of the room.",
+    "A grown-up stands one big step in front of the fan, holds the spinner just above the fan's height, and lets go.",
+    "Your child counts the floor tiles from the spot under the grown-up's hand to where it lands.",
     "Do the same with the ball. Do 3 drops of each and write every result."
    ],
    "predict": "Ask: 'Which one will travel further, the spinner or the ball? Why?'",
@@ -1012,7 +1012,7 @@
    "who": "Peter Kropotkin (1842–1921), Russia",
    "idea": "As a young man in the 1860s, Kropotkin travelled through Siberia, where the winters are very harsh. He saw that animals there seemed to survive more by helping each other than by fighting each other. In his book Mutual Aid (1902), he argued that helping each other is as important in nature as competing.",
    "then": "Many scientists of his time saw nature mainly as a struggle, where the strongest survive. Kropotkin was also famous for his ideas about how people should be governed, so many saw his book as politics and did not take it seriously as science.",
-   "now": "Today scientists study cooperation as a big part of life, from bacteria to elephants, and mutualism is found everywhere. But they explain it differently from Kropotkin. Living things often help their own relatives, or help those who help them back. His idea that animals help for the good of their whole species is not accepted.",
+   "now": "Today scientists study cooperation as a big part of life, from bacteria to elephants, and mutualism is found everywhere. But they explain it differently from Kropotkin. Living things often help their own relatives, or help those who help them back. His idea that animals help for the good of their whole species is not accepted by most scientists.",
    "status": "debated",
    "ask": "Think of the crowded cup and the curd. Which one showed competing, and which one showed helping? What would you need to count to know which happens more?",
    "day": 6
@@ -1120,11 +1120,11 @@
    },
    {
     "front": "A koel and a crow",
-    "back": "Parasite. The koel lays its egg in the crow's nest. The crow works to feed a chick that is not hers."
+    "back": "Parasite. The koel lays its egg in the crow's nest. The crows work to feed a chick that is not theirs."
    },
    {
     "front": "Amarbel, the yellow thread plant, and a bush",
-    "back": "Parasite. Amarbel wraps round the bush and sucks its sap. It has almost no green leaves of its own."
+    "back": "Parasite. Amarbel wraps round the bush and sucks its sap. It has no green leaves of its own."
    },
    {
     "front": "A house lizard and a moth",
@@ -1158,7 +1158,7 @@
    "We moved from Chennai to Delhi in December, and the first thing that went wrong was the curd.",
    "In Chennai, Amma made curd every night without thinking about it. She boiled the milk, let it cool, stirred in a spoonful of the day's curd and put the bowl in the cupboard. In the morning it was thick and white, and it wobbled when you shook the bowl.",
    "But we had packed in a hurry, and there was no curd left. On our first night in the new flat, Amma boiled the milk anyway and left it in a bowl. In the morning it was still milk. Just milk, cold and thin.",
-   "\"It needs a little curd to begin,\" Amma said. \"Curd makes curd.\"",
+   "\"It needs a little curd to begin, Tanvi,\" Amma said. \"Curd makes curd.\"",
    "I didn't understand that. A roti can't make a roti. How can curd make curd?",
    "The flat downstairs belonged to an old lady called Harjeet Aunty. She had a long grey plait and a cough, and on our first day she had shouted at the delivery man for blocking the stairs. I was a little afraid of her. But Amma sent me down with an empty katori.",
    "Harjeet Aunty looked at the katori, and then at me. \"Jaman?\" she asked. That is her word for the starter, the little bit of old curd that begins the new curd. She went into her kitchen and came back with the katori half full. \"Don't put it in hot milk,\" she said. \"It's alive. You'll cook it.\"",
@@ -1176,7 +1176,7 @@
    "\"And curd keeps longer than milk,\" said Amma.",
    "The next morning I filled the katori with our new curd and took it downstairs. Harjeet Aunty opened the door and looked at it. Then she laughed, a real laugh this time, with the cough in the middle of it.",
    "\"My jaman came from my mother-in-law in Amritsar,\" she said. \"Hers came from a neighbour. I've been feeding the same little family for fifty years. Now they live upstairs too.\"",
-   "She let me in and made me a glass of lassi from her curd. I sat at her table, in the flat I had been afraid of, and drank it slowly. The bacteria in that glass came from the same family she had been feeding for fifty years, since before my mother was born.",
+   "She let me in and made me a glass of lassi from her curd. I sat at her table, in the flat I had been afraid of, and drank it slowly.",
    "A week later, a new family moved into the empty flat above ours. Their boxes filled the stairs. Through the door I heard a woman say, \"Oh no. I forgot to bring curd.\"",
    "I went into our kitchen and found a katori."
   ],
@@ -1200,7 +1200,7 @@
   },
   {
    "idea": "Every guest comes for a reason.",
-   "more": "Animals come into our homes for food, water, shelter or warmth. Take away what they come for, and most of them go back to their own food outside, without being killed."
+   "more": "Animals come into our homes for food, water, shelter or warmth. Take away what they come for, and most of them go elsewhere, without being killed."
   }
  ],
  "unknowns": [
@@ -1211,7 +1211,7 @@
  "big": [
   "Is any living thing really alone?",
   "Are you one living thing, or many living together?",
-  "The pigeons on our balcony were born here too. Whose home is it?",
+  "Pigeons may have hatched on our balcony. Whose home is it?",
   "Is a 'pest' just an animal that wants the same things we want?",
   "Can anyone live without harming anything? What should we do about that?"
  ],
@@ -1222,7 +1222,7 @@
   },
   {
    "q": "'A chhipkali is poisonous. If it touches food, the food turns to poison.' Is that true?",
-   "hint": "House lizards have no venom and do not bite people to harm them. But like many animals, they can carry germs such as Salmonella on their skin and droppings, so food a lizard fell into should be thrown away. They eat mosquitoes, moths and cockroaches. Ask: is it fair to call an animal poisonous because it might carry germs?"
+   "hint": "House lizards have no venom. They rarely bite, and the bite is harmless. But like many animals, they can carry germs such as Salmonella on their skin and droppings, so food a lizard fell into should be thrown away. They eat mosquitoes, moths and cockroaches. Ask: is it fair to call an animal poisonous because it might carry germs?"
   },
   {
    "q": "'Oxpeckers are a buffalo's best friends. They ride on its back and eat its ticks.' Is that the whole story?",
@@ -1240,7 +1240,7 @@
   },
   {
    "who": "A farmer whose crop elephants ate",
-   "view": "For a farmer, one night of elephants can mean a year's food lost. They may be angry, and also know the elephants were here first. Ask: how would you feel? What would help both the farmer and the elephants?"
+   "view": "For a farmer, one night of elephants can mean a year's food lost. The farmer may be angry and afraid. The elephants came because they were hungry and their forest has shrunk. Ask: how would you feel? What would help both the farmer and the elephants?"
   },
   {
    "who": "A house crow",

@@ -92,9 +92,9 @@
     },
     {
      "kind": "act",
-     "title": "Self-portrait and the meaning of my name",
+     "title": "Self-portrait",
      "mins": 15,
-     "do": "Your child sits in front of a mirror with paper and pencils and draws their own face. Ask them to look closely at eye colour, eyebrows, ears and hair. Under the drawing they write their name and what it means. Tell them if you know, or look it up together. Ask: 'Who chose your name? Did you choose your face?' (No. Others chose the name, and the face grew.)"
+     "do": "Your child sits in front of a mirror with paper and pencils and draws their own face. Ask them to look closely at eye colour, eyebrows, ears and hair. Ask: 'Which parts of your face are like Mummy's or Papa's? Which parts are only yours?'"
     },
     {
      "kind": "talk",
@@ -123,7 +123,7 @@
      "kind": "exp",
      "title": "Who touched the tumbler?",
      "mins": 20,
-     "do": "Do experiment e1. While your child waits outside the room, one person at home presses a thumb on a clean steel tumbler. Your child then takes everyone's thumbprints with pencil and tape, and matches them to the print on the tumbler. Ask first: 'Will any two thumbprints be exactly the same?'",
+     "do": "Do experiment e1. Ask first: 'Will any two thumbprints be exactly the same?'",
      "ref": "e1"
     },
     {
@@ -159,7 +159,7 @@
      "kind": "act",
      "title": "The people survey",
      "mins": 20,
-     "do": "Do activity a1. Your child asks at least 8 people the same questions: family, neighbours, the watchman, cousins on a video call. They fill one row of the table for each person, and measure heights against a wall. Before they start, ask: 'Which eye colour do you think will be most common?'",
+     "do": "Do activity a1. Your child asks at least 8 people the same questions: family, neighbours, the watchman, cousins on a video call. They fill one row for each person. Before they start, ask: 'Which eye colour do you think will be most common?'",
      "ref": "a1"
     },
     {
@@ -203,7 +203,7 @@
      "kind": "act",
      "title": "Sort the name cards",
      "mins": 12,
-     "do": "Do activity a2. Your child writes each surveyed person's name on a small card. Then they sort the cards by eye colour, then by which hand they write with, then by first language. Ask: 'Did the same people stay together each time?' (No. The groups changed every time the question changed.)",
+     "do": "Do activity a2. Your child writes each surveyed person's name on a small card. Then they sort the cards by which hand they write with, then by first language, then by favourite fruit. Ask: 'Did the same people stay together each time?' (No. The groups changed every time the question changed.)",
      "ref": "a2"
     },
     {
@@ -255,14 +255,14 @@
      "kind": "talk",
      "title": "Where our ancestors lived",
      "mins": 10,
-     "do": "Tell voice v3 in your own words. Show a globe or a world map on a phone, and point to the equator. Ask the voice question. Say: 'So your skin colour is your body's answer to the sunlight where your ancestors lived for a very long time. Every shade is the right answer for some place.'",
+     "do": "Tell voice v3 in your own words. Show a globe or a world map on a phone, and point to the equator. Ask the voice question. Say: 'So skin colour matches the strength of the sunlight where a person's ancestors lived for thousands of years.'",
      "ref": "v3"
     },
     {
      "kind": "act",
      "title": "Mix your own skin colour",
      "mins": 12,
-     "do": "Do activity a3. Your child mixes paints to match their own skin, and then the skin of two other people at home. Ask: 'Did anyone have exactly the same colour? Which colours did every mix need?' (Every mix needed brown, in different amounts, because melanin is brown.)",
+     "do": "Do activity a3. Your child mixes paints to match their own skin, and then the skin of two other people at home. Ask: 'Did anyone have exactly the same colour?' (No. Each person needed a different amount of brown, because each has a different amount of melanin.)",
      "ref": "a3"
     }
    ],
@@ -295,7 +295,7 @@
      "kind": "talk",
      "title": "Crows know your face",
      "mins": 13,
-     "do": "Tell voice v4 in your own words, and ask the voice question. Then go to a window. Ask: 'Can you tell one crow from another? What would you need to look at?' (A grey patch, a bent toe, size, the way it walks.) Say: 'To us, crows look alike. To a crow, every human face is different. It depends on who is looking.'",
+     "do": "Tell voice v4 in your own words, and ask the voice question. Then go to a window. Ask: 'Can you tell one crow from another? What would you need to look at?' (A grey patch, a bent toe, size, the way it walks.) Say: 'Crows look alike to us because we have not learned what to look at. Crows have learned to tell our faces apart.'",
      "ref": "v4"
     }
    ],
@@ -320,16 +320,16 @@
     },
     {
      "kind": "act",
-     "title": "Become the other",
+     "title": "Play the other side",
      "mins": 15,
-     "do": "Do activity a4, a short drama in which your child plays someone else and then swaps back.",
+     "do": "Do activity a4, a short drama in which your child plays someone else and then swaps roles.",
      "ref": "a4"
     },
     {
      "kind": "talk",
      "title": "What a friend does",
      "mins": 8,
-     "do": "Say: 'Joan Silk and her team watched wild baboons in Kenya for many years. Female baboons with close friends raised more babies that survived, and lived longer.' Ask: 'Why might friends help a baboon live well?' (They groom each other, stay close for safety and help in fights.) Ask: 'Who is your close friend? Are they like you, or different from you? In what ways?'"
+     "do": "Say: 'Joan Silk and her team watched wild baboons in Kenya for many years. Female baboons with close friends raised more babies that survived, and lived longer.' Ask: 'Why might friends help a baboon live well?' (Friends groom each other and stay close, which keeps them calmer and safer.) Ask: 'Who is your close friend? Are they like you, or different from you? In what ways?'"
     },
     {
      "kind": "ws",
@@ -485,7 +485,7 @@
       },
       {
        "t": "write",
-       "p": "Aman sorted his family by eye colour, then by which hand they write with. The groups were different each time. Why?",
+       "p": "Aman sorted his family by which hand they write with, then by first language. The groups were different each time. Why?",
        "lines": 3
       }
      ]
@@ -555,7 +555,7 @@
       },
       {
        "t": "sort",
-       "p": "Sort these features.",
+       "p": "Sort these features: was each one there from birth, learned or changing, or both?",
        "items": [
         "fingerprints",
         "favourite food",
@@ -565,7 +565,7 @@
         "how fast you run"
        ],
        "cats": [
-        "born with",
+        "from birth",
         "learned or changes",
         "both"
        ]
@@ -587,7 +587,7 @@
       },
       {
        "t": "write",
-       "p": "You sit on one side of a table with a tumbler in front of a ball. Your friend sits on the other side. Will your friend see the ball? Why?",
+       "p": "You sit at a table. A steel tumbler stands in front of you, and a small ball is hidden behind it. Your friend sits on the other side. Can your friend see the ball? Why?",
        "lines": 3
       },
       {
@@ -702,14 +702,14 @@
    ],
    "steps": [
     "Your child waits outside the room. One person rubs a thumb on the side of their nose, to pick up a little oil, and presses it firmly on the tumbler.",
-    "Your child comes back. Sprinkle a pinch of powder on the spot and brush it very gently. A print appears. Cocoa shows up on a light tumbler, talcum on a dark one.",
+    "Your child comes back. Sprinkle a pinch of cocoa powder on the spot and brush it very gently. A print appears. Cocoa shows up best on shiny steel. Use talcum only if the tumbler is dark.",
     "Press clear tape on the print, peel it off and stick it on white paper. Label it 'mystery print'.",
     "Now take everyone's thumbprint. Rub the pencil hard on scrap paper to make a dark patch. Rub a thumb on it. Press tape on the thumb, peel it off and stick it on the paper with the person's name.",
     "Look at each print with the magnifying glass, or zoom in with a phone camera. Name the pattern: loop, whorl or arch.",
     "Compare the mystery print with each thumbprint. First find the ones with the same pattern. Then look for small details, such as a line that splits in two or a line that stops."
    ],
    "predict": "Ask: 'Will any two thumbprints be exactly the same? How will you find the right person?'",
-   "observe": "Every thumbprint is different. Your child should rule out most people by the pattern alone, then find the match by small details.",
+   "observe": "Every thumbprint is different. Your child should rule out most people by the pattern alone, then find the match by small details. If no print appears on the tumbler, press the oily thumb again, harder, and dust again.",
    "why": "Fingertips have ridges. Sweat comes out of tiny holes along them, and fingers pick up oil from the face, so a touch leaves a copy of the ridges. The ridges form in the womb, months before birth. The type of pattern tends to run in families, but the fine details also depend on the baby's position and growth in the womb. That is why no two people, not even identical twins, have been found with the same prints. The pattern stays the same for life. Scientists still argue about what the ridges are for: some think they help us grip, and others think they help us feel fine textures.",
    "safety": "Wash hands after using the pencil and powder. Do not breathe in the powder.",
    "time": "20 min"
@@ -721,7 +721,6 @@
    "question": "Does skin change its colour when it gets sun?",
    "need": [
     "your child's own skin",
-    "a mirror",
     "a parent's watch or chappal, if they wear one every day"
    ],
    "steps": [
@@ -732,7 +731,7 @@
    ],
    "predict": "Ask: 'Which skin will be darker, the skin the sun reaches or the skin it doesn't? Why do you think so?'",
    "observe": "Skin that gets more sun is usually a little darker. Under a watch or chappal strap there is often a pale line.",
-   "why": "When UV light from the sun reaches the skin, the skin makes more melanin. This is a tan. The extra melanin soaks up more UV and protects the skin underneath. Skin that stays covered makes less, so it stays lighter. A tan is the body's own sunscreen, but it does not protect fully, so strong sun can still burn.",
+   "why": "When UV light from the sun reaches the skin, the skin makes more melanin. This is a tan. The extra melanin soaks up more UV and protects the skin underneath. Skin that stays covered makes less, so it stays lighter. A tan protects only a little, so strong sun can still burn.",
    "safety": "Do not go into strong sun to test this. Look only at skin as it is today.",
    "time": "10 min"
   },
@@ -775,7 +774,7 @@
     "at least 8 people, in person or on a video call"
    ],
    "steps": [
-    "Draw a table with these columns: name, eye colour, hair colour, which hand they write with, first language, height.",
+    "Draw a table with these columns: name, eye colour, which hand they write with, first language, favourite fruit, height.",
     "Ask each person the questions and fill one row. Look at eye colour in good light.",
     "Measure heights for the people at home. Each person stands against a wall without chappals. Put a book flat on their head, mark the wall, and measure from the floor to the mark.",
     "Write heights in metres and centimetres. For example, 1 metre 21 centimetres is 1.21 m.",
@@ -795,10 +794,10 @@
    ],
    "steps": [
     "Write each surveyed person's name on a card.",
-    "Sort the cards into groups by eye colour. Count each group.",
-    "Mix them. Sort again by which hand they write with.",
+    "Sort the cards into groups by which hand they write with. Count each group.",
     "Mix them. Sort again by first language.",
-    "Pick one person. Say all the groups they were in: 'Nani is brown-eyed, right-handed and a Marathi speaker.'"
+    "Mix them. Sort again by favourite fruit.",
+    "Pick one person. Say all the groups they were in: 'Nani is right-handed, speaks Marathi and loves mangoes.'"
    ],
    "outcome": "Your child sees that the same people fall into different groups for each question, and each person is in many groups at once."
   },
@@ -820,11 +819,11 @@
     "Hold the paper next to the inside of your wrist. Keep adjusting until the colour matches.",
     "Paint a patch for two other people at home, and write each name under their patch."
    ],
-   "outcome": "A strip of real skin colours, each one different, and each one made with brown."
+   "outcome": "A strip of real skin colours, each one different."
   },
   {
    "id": "a4",
-   "title": "Become the other",
+   "title": "Play the other side",
    "day": 7,
    "mins": 15,
    "need": [
@@ -856,7 +855,7 @@
    "who": "Richard Lewontin (1929–2021), USA, geneticist",
    "idea": "In 1972 Lewontin measured how much people differ in some of their genes. He compared people from the same group with people from different parts of the world. He found that about 85% of the differences were between people of the same group. Only a small share was between groups.",
    "then": "Many people had thought humans could be sorted into a few separate groups by skin colour, like boxes. Lewontin's result showed the boxes do not match the genes.",
-   "now": "Many later studies with much more data found the same pattern. The scientist A. W. F. Edwards pointed out in 2003 that, if you look at many genes together, you can often tell where a person's ancestors came from. Both are true: features change gradually across the world, and two people from one place can differ more than two people from far apart.",
+   "now": "Many later studies with much more data found the same pattern. The scientist A. W. F. Edwards pointed out in 2003 that, if you look at many genes together, you can often tell where a person's ancestors came from. Both are true. Features change gradually across the world, and most of the differences are still between people of the same group.",
    "status": "accepted",
    "ask": "Two children from the same city, and two children from different countries. Which two will differ more? How could you test it?",
    "day": 4
@@ -874,11 +873,11 @@
   {
    "id": "v4",
    "who": "John Marzluff, University of Washington, USA, crow scientist",
-   "idea": "In 2006 Marzluff and his students wore a rubber caveman mask while they caught and ringed a few crows, then let them go unharmed. Afterwards, whenever anyone walked through that place in the mask, crows dived and cawed at them. People in other masks were left alone. Crows that had never been caught, and young crows born later, joined in.",
-   "then": "Many people thought birds could not tell one human from another.",
+   "idea": "In 2006 Marzluff and his students wore a rubber caveman mask while they caught and ringed a few crows, then let them go unharmed. Afterwards, whenever anyone walked through that place in the mask, crows scolded them with loud caws and swooped at them. People in other masks were left alone. Crows that had never been caught, and young crows born later, joined in.",
+   "then": "Before this, few scientists had tested whether wild birds know individual human faces.",
    "now": "The study was published in 2010. Crows kept scolding the mask for years. Crows recognise individual human faces, and they learn from each other which faces are dangerous.",
    "status": "accepted",
-   "ask": "Crows tell us apart, but most of us cannot tell crows apart. What does that say about who is clever?",
+   "ask": "Why might telling human faces apart matter more to a crow than telling crows apart matters to us?",
    "day": 6
   }
  ],
@@ -889,7 +888,7 @@
    8
   ],
   "steps": [
-   "Use the survey from Day 3. Draw a bar chart of eye colours: one bar for each colour, as tall as the number of people.",
+   "Use the survey from Day 3. Draw a bar chart of first languages: one bar for each language, as tall as the number of people.",
    "Draw a second bar chart for which hand people write with.",
    "Add each person's thumbprint from Day 2 if they agree, and name its pattern.",
    "Paint the strip of skin colours from Day 5 along the bottom.",
@@ -913,7 +912,7 @@
    "After each answer, turn over the cards that no longer fit.",
    "When you think you know, say 'You are Meera!' A right guess wins the round. A wrong guess means you miss your next turn.",
    "At the end of each round, read the back of the secret card aloud. That is something no question about looks could find.",
-   "Take turns being the Chooser. Fewest questions to a right guess wins."
+   "Take turns being the Chooser."
   ],
   "cards": [
    {
@@ -1018,7 +1017,7 @@
   },
   {
    "who": "A fingerprint expert in a police lab",
-   "view": "To this expert, every finger is a little map, and they look for tiny details like a ridge that splits in two. Ask: why must the expert be very careful before saying two prints match?"
+   "view": "An expert looks for tiny details, such as a ridge that splits in two or a ridge that stops. Ask: why must the expert be very careful before saying two prints match?"
   },
   {
    "who": "A new child in your building from another state",
@@ -1066,15 +1065,15 @@
  },
  "ideas": [
   {
-   "idea": "Every person is unique, and every person is almost the same.",
+   "idea": "Every person is unique, yet all people are almost the same inside.",
    "more": "No two people have been found with the same fingerprints. Yet any two people share about 99.9% of their DNA. Show your child two thumbprints side by side: the same kind of ridges, a different pattern."
   },
   {
    "idea": "The groups depend on the question you ask.",
-   "more": "Sort the same people by eye colour, then by handedness, then by language. The groups change each time. Each person belongs to many groups at once, so no single group says who they are."
+   "more": "Sort the same people by handedness, then by language, then by favourite fruit. The groups change each time. Each person belongs to many groups at once, so no single group says who they are."
   },
   {
-   "idea": "Skin colour is the body's answer to sunlight.",
+   "idea": "Skin colour follows the strength of sunlight.",
    "more": "Melanin soaks up harmful UV light. People whose ancestors lived where the sun is strong usually have more melanin. A tan line shows the same thing happening in one body."
   },
   {
@@ -1084,7 +1083,7 @@
  ],
  "unknowns": [
   "What are fingertip ridges for? Some scientists think they help us grip wet or rough things. Others think they help us feel fine textures. Nobody knows for sure.",
-  "Do other animals understand what someone else knows? Some studies suggest apes and crows can, and others disagree. Scientists are still testing it.",
+  "Do other animals understand what someone else knows? Some studies suggest apes and ravens can, and others disagree. Scientists are still testing it.",
   "How does the brain imagine what another person is thinking? Scientists have found brain areas that are busy when we do it, but nobody knows exactly how it works."
  ],
  "books": [

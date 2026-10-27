@@ -100,7 +100,7 @@
      "kind": "talk",
      "title": "The island game",
      "mins": 10,
-     "do": "Say: 'Imagine you will live on an empty island for one month. You may take only five things. What will you take?' Write the list. For each thing, ask: 'Would you die without it, or would life just be less fun?' If your child is stuck, ask: 'What do you do every minute without thinking?' (Breathe.) Then say: 'Scientists and doctors agree on five basic needs: air, water, food, clothing and shelter. Shelter means a home or any place that protects us.' Write the five in big letters on a sheet and stick it on the wall."
+     "do": "Say: 'Imagine you will live on an empty island for one month. You may take only five things. What will you take?' Write the list. For each thing, ask: 'Would you die without it, or would life just be less fun?' If your child is stuck, ask: 'What do you do every minute without thinking?' (Breathe.) Then say: 'Every person needs five things to live and stay well: air, water, food, clothing and shelter. These are called the basic needs. Shelter means a home or any place that protects us.' Write the five in big letters on a sheet and stick it on the wall."
     },
     {
      "kind": "act",
@@ -162,7 +162,7 @@
      "kind": "talk",
      "title": "Other ways to get oxygen",
      "mins": 8,
-     "do": "Say: 'Every animal has the same problem: getting oxygen inside its body.' Ask: 'How does a fish get oxygen under water?' Then say: 'A little oxygen is dissolved in water. A fish has gills, thin red folds behind its head. Water flows over them, and they take the oxygen out.' Say: 'An earthworm has no lungs. It breathes through its damp skin, so it must stay in damp soil.' Say: 'A mosquito baby lives in water but breathes air. It hangs under the surface and breathes through a tiny tube at its tail end.' Ask: 'Do plants need air too?' Say: 'Yes. Leaves take in air through tiny holes called stomata, and roots need air in the soil.'"
+     "do": "Say: 'Almost every animal has the same problem: getting oxygen inside its body.' Ask: 'How does a fish get oxygen under water?' Then say: 'A little oxygen is dissolved in water. A fish has gills, thin red folds behind its head. Water flows over them, and they take the oxygen out.' Say: 'An earthworm has no lungs. It breathes through its damp skin, so it must stay in damp soil.' Say: 'Most mosquito babies live in water but breathe air. They hang under the surface and breathe through a tiny tube at the tail end.' Ask: 'Do plants need air too?' Say: 'Yes. Leaves take in air through tiny holes called stomata, and roots need air in the soil.'"
     },
     {
      "kind": "do",
@@ -214,7 +214,7 @@
      "kind": "talk",
      "title": "Plants and our breath",
      "mins": 5,
-     "do": "Ask: 'You breathe out carbon dioxide all day. Why doesn't the air fill up with it?' Accept any guess. Say: 'Green plants take in carbon dioxide. In sunlight, their leaves use it, with water, to make their food. As they do it, they give out oxygen.' Ask: 'So what do you and the tulsi plant give each other?' Good answer: 'I give it carbon dioxide. It gives me oxygen.'"
+     "do": "Ask: 'You breathe out carbon dioxide all day. Where does it all go?' Accept any guess. Say: 'Green plants take in carbon dioxide. In sunlight, their leaves use it, with water, to make their food. As they do it, they give out oxygen.' Ask: 'So what do you and a tulsi plant give each other?' Good answer: 'I give it carbon dioxide. It gives me oxygen.'"
     }
    ],
    "need": [
@@ -337,7 +337,7 @@
      "title": "Ice cubes in wool and cotton",
      "mins": 10,
      "ref": "e4",
-     "do": "Do Experiment e4. First ask: 'If wool makes heat, which ice cube will melt first: the bare one, the one in a cotton hanky, or the one in a woollen sock? Why?' Write the guess. Set up the three cubes and note the time. Check every 10 minutes while you do the next steps. Usually the bare cube melts first and the sock cube lasts longest. Ask: 'So does wool make heat?' Good answer: 'No. It slows heat down. A sweater keeps my own body heat in.'"
+     "do": "Do Experiment e4. First ask: 'If wool makes heat, which ice cube will melt first: the bare one, the one in a cotton hanky, or the one in a woollen sock? Why?' Write the guess. Set up the three cubes and note the time. You will look at them again at the end of today."
     },
     {
      "kind": "exp",
@@ -350,7 +350,7 @@
      "kind": "talk",
      "title": "Who wore it first?",
      "mins": 10,
-     "do": "Say: 'Wool, silk and cotton first did a job for the living thing that grew them.' Say: 'A sheep must stay warm through cold winters. Its thick wool traps still air, so its body heat stays in. Wild sheep shed their wool every year. Most farm sheep were bred so their wool keeps growing, so people must cut it for them.' Say: 'A silkworm spins a cocoon of silk to protect itself while it turns into a moth. To get long silk threads, most cocoons are boiled with the young moth inside. Ahimsa silk is made from cocoons the moths have left.' Ask: 'How is a bird's fluffed-up feather coat like your sweater?' (Both trap still air.) Then check the ice cubes and ask again: 'Why was the baby goat cold in the shawl?'"
+     "do": "Say: 'Wool, silk and cotton first did a job for the living thing that grew them.' Say: 'A sheep must stay warm through cold winters. Its thick wool traps still air, so its body heat stays in. Wild sheep shed their wool every year. Most farm sheep were bred so their wool keeps growing, so people must cut it for them.' Say: 'A silkworm spins a cocoon of silk to protect itself while it turns into a moth. To get long silk threads, most cocoons are boiled with the young moth inside. Ahimsa silk is made from cocoons the moths have left.' Ask: 'How is a bird's fluffed-up feather coat like your sweater?' (Both trap still air.) Then check the ice cubes. Usually the bare cube is melting fastest and the sock cube is still hard. Ask: 'So does wool make heat?' Good answer: 'No. It slows heat down. A sweater keeps my own body heat in.' Then ask again: 'Why was the baby goat cold in the shawl?'"
     }
    ],
    "need": [
@@ -520,7 +520,7 @@
       },
       {
        "t": "mcq",
-       "p": "Riya puts a glass jar over a burning tea light. The flame goes out. Why?",
+       "p": "Riya, a girl in Class 3, puts a glass jar over a burning tea light. The flame goes out. Why?",
        "opts": [
         "The flame used up much of the oxygen inside the jar",
         "The jar was too cold",
@@ -530,7 +530,7 @@
       },
       {
        "t": "mcq",
-       "p": "Arjun blows through a straw into limewater. It turns milky. What is in his breath?",
+       "p": "Arjun, a boy in Class 3, blows through a straw into limewater. It turns milky. What is in his breath?",
        "opts": [
         "carbon dioxide",
         "more oxygen than room air",
@@ -673,7 +673,7 @@
      [
       {
        "t": "mcq",
-       "p": "Meena goes for a run on a hot day. Which shirt will keep her cooler?",
+       "p": "Meena, a girl of nine, goes for a run on a hot day. Which shirt will keep her cooler?",
        "opts": [
         "a cotton shirt, because it soaks up sweat and lets it dry",
         "a plastic raincoat, because it keeps the sun off",
@@ -683,7 +683,7 @@
       },
       {
        "t": "mcq",
-       "p": "Kabir's family cooks with the kitchen window shut. What will happen?",
+       "p": "Kabir is a boy of eight. His family cooks with the kitchen window shut. What will happen?",
        "opts": [
         "Smoke and steam stay in the room",
         "The food cooks faster",
@@ -1060,7 +1060,7 @@
    },
    {
     "front": "Mosquito baby: air",
-    "back": "Hangs under the water and breathes through a tube at its tail."
+    "back": "Most kinds hang under the water and breathes through a tube at its tail."
    },
    {
     "front": "Leaf: air",
@@ -1178,7 +1178,7 @@
   },
   {
    "q": "Every animal needs oxygen. Is that right?",
-   "hint": "Almost every animal does. But in 2020 scientists found a tiny parasite called Henneguya salminicola, a distant relative of jellyfish that lives in salmon. It does not use oxygen at all. Many bacteria live without oxygen too, and for some, oxygen is a poison. Ask: what does this tell us about rules that say 'every'?"
+   "hint": "Almost every animal does. But in 2020 scientists found a tiny parasite called Henneguya salminicola, a distant relative of jellyfish that lives in salmon. It seems not to use oxygen at all. Many bacteria live without oxygen too, and for some, oxygen is a poison. Ask: what does this tell us about rules that say 'every'?"
   },
   {
    "q": "Cotton keeps you cool. Is that the whole story?",

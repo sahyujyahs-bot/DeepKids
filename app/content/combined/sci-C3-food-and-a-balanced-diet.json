@@ -4,7 +4,7 @@
  "subj": "sci",
  "level": 3,
  "n": "food-and-a-balanced-diet",
- "title": "Food: what your body needs from it, and why one food is never enough",
+ "title": "Food: what your body needs, and why one food is not enough",
  "source": "DeepKids Combined. Covers NCERT Class 3 Chapter 8 'Food We Eat' (why food matters for health, foods from many sources, nutrients, traditional knowledge of healthy eating), Cambridge Stage 3 Units 2.1 'Food groups', 2.2 'A healthy diet' and 2.3 'An unhealthy diet', and NIOS Level B Lesson 8 'Food' (why we eat, the parts of food and their jobs, balanced food, food safety). No textbook needed.",
  "summary": "In 1747, twelve sailors with scurvy ate plenty of food, and only the two given oranges and a lemon got better fast. You can feel full and still be missing something your body needs. Your child tests real foods at home for starch, fat and vitamin C, sorts them by the job each does, builds a balanced plate, reads the sugar on a packet, and tastes the six tastes of old Indian cooking. They find out which nutrients the body needs, why too much sugar and salt harm it, and how to keep food safe.",
  "builds_on": "In Class 1 your child sorted foods into everyday foods and treats, and learned that water is the best drink. This rung names the nutrients, tests foods for them, and explains a balanced diet, deficiency illnesses, sugar, salt and food safety. In Class 4 your child comes back to energy-giving, body-building and protective foods and traditional foods. In Class 5 they study deficiency diseases more closely, cheap nutritious foods, storing food, and digestion.",
@@ -110,9 +110,9 @@
     },
     {
      "kind": "talk",
-     "title": "Three jobs, and one cold plate",
+     "title": "Three jobs, and the water in your breath",
      "mins": 8,
-     "do": "Say: 'Food does three jobs. It gives you energy to move, think and keep warm. It gives you the stuff to grow and to mend cuts. And it keeps every part of you working well.' Then put a steel plate in the fridge for 5 minutes. Your child breathes on it. Ask: 'What is the mist?' Good answer: 'Water from my breath.' Say: 'You lose water every time you breathe, sweat or go to the toilet. So water is part of your food too.'"
+     "do": "Say: 'Food does three jobs. It gives you energy to move, think and keep warm. It gives you the stuff to grow and to mend cuts. And it keeps every part of you working well.' Then your child breathes on a cool steel plate or a mirror. Ask: 'What is the mist?' Good answer: 'Water from my breath.' Say: 'You lose water every time you breathe, sweat or go to the toilet. So you need to take in water every day, from drinks and food.'"
     }
    ],
    "need": [
@@ -213,7 +213,7 @@
      "kind": "talk",
      "title": "Fibre and your gut microbes",
      "mins": 7,
-     "do": "Show the skin of a whole moong or an apple. Say: 'This is fibre. Your body cannot break it down. It keeps food moving through your gut. Trillions of tiny living things called microbes live in your gut. They do break fibre down, and they live on it.' Ask: 'Which foods have fibre?' Good answers: 'Vegetables, fruit, whole dal, atta roti, millets.' Ask: 'Do meat, milk and eggs have fibre?' (No. Fibre comes only from plants.)"
+     "do": "Show the skin of a whole moong or an apple. Say: 'This is fibre. Your body cannot break it down. It keeps food moving through your gut. Trillions of tiny living things called microbes live in your gut. They do break fibre down, and they live on it.' Ask: 'Which foods have fibre?' Good answers: 'Vegetables, fruit, whole dal, atta roti, millets.' Ask: 'Do meat, milk and eggs have fibre?' (No. Fibre comes from plant foods.)"
     },
     {
      "kind": "review",
@@ -311,7 +311,7 @@
    ],
    "prep": [
     {
-     "task": "When you cook rice, pour off half a cup of the cloudy water and keep it in the fridge for the vitamin C test.",
+     "task": "When you cook rice in an open pot, pour off half a cup of the cloudy water and keep it in the fridge. If you use a pressure cooker, use the cornflour way in Experiment e3 instead.",
      "when": "night before"
     },
     {
@@ -329,7 +329,7 @@
      "kind": "warmup",
      "title": "Fewest drops",
      "mins": 3,
-     "do": "Ask: 'In the blue test, what did it mean if a juice took very few drops?' Good answer: 'It had lots of vitamin C.' Ask: 'Why can't we make our own vitamin C?' (Our bodies lost the ability long ago, like monkeys and apes.)"
+     "do": "Ask: 'In the blue test, what did it mean if a juice took very few drops?' Good answer: 'It had lots of vitamin C.' Ask: 'Why can't we make our own vitamin C?' (Long ago, an ancestor we share with monkeys and apes lost the ability, so none of us can.)"
     },
     {
      "kind": "talk",
@@ -342,7 +342,7 @@
      "title": "How many spoons?",
      "mins": 18,
      "ref": "a4",
-     "do": "Do Activity a4. Your child finds 'Total sugars' on each packet, works out the spoons with you, and spoons out the sugar on a saucer. Ask: 'Which surprised you most?' Say: 'The World Health Organization says added sugar should be less than a tenth of all our food, and less than a twentieth is better. For a child your age, that is at most about 10 level teaspoons in a whole day, and about 5 is better.' Then pour the sugar back into the jar."
+     "do": "Do Activity a4. Your child finds 'Total sugars' on each packet, works out the spoons with you, and spoons out the sugar on a saucer. Ask: 'Which surprised you most?' Say: 'The World Health Organization says added sugar, and the sugar in juice, should give less than a tenth of the energy in our food, and less than a twentieth is better. For a child your age, that is at most about 10 level teaspoons in a whole day, and about 5 is better.' Then pour the sugar back into the jar."
     },
     {
      "kind": "talk",
@@ -386,13 +386,13 @@
      "title": "The six-taste plate",
      "mins": 12,
      "ref": "a5",
-     "do": "Do Activity a5. Your child tastes each one with a sip of water in between and names it. Say: 'About 2,000 years ago, the Charaka Samhita, an old Indian book of medicine, named six tastes: sweet, sour, salty, pungent, bitter and astringent. It said a good meal has all six.' Ask: 'Did the pepper taste of anything, or did it feel hot?' Say: 'Scientists today say the hot feeling of pepper and chilli comes from heat and pain nerves, not taste cells. They name five basic tastes: sweet, sour, salty, bitter and umami, the savoury taste of tomato and dal.'"
+     "do": "Do Activity a5. Your child tastes each one with a sip of water in between and names it. Say: 'About 2,000 years ago, the Charaka Samhita, an old Indian book of medicine, named six tastes: sweet, sour, salty, pungent, bitter and astringent. Ayurveda, the old Indian way of medicine, says a good meal has all six.' Ask: 'Did the pepper taste of anything, or did it feel hot?' Say: 'Scientists today say the hot feeling of pepper and chilli comes from heat and pain nerves, not taste cells. They name five basic tastes: sweet, sour, salty, bitter and umami, the savoury taste of ripe tomato and mushroom.'"
     },
     {
      "kind": "talk",
      "title": "Food changes with season and place",
      "mins": 5,
-     "do": "Ask: 'Which fruits do we eat in summer? Which in winter?' Good answers: 'Mango and watermelon in summer. Oranges, carrots and peas in winter.' Say: 'Families in hot places drink buttermilk and eat cooling foods. In the Thar desert, people eat bajra, which grows with little water. In the south, many families eat ragi, which has lots of calcium. Ragi, bajra and jowar are called millets. Your great-grandparents ate them often.'"
+     "do": "Ask: 'Which fruits do we eat in summer? Which in winter?' Good answers: 'Mango and watermelon in summer. Oranges, carrots and peas in winter.' Say: 'Families in hot places drink buttermilk and eat cooling foods. In the Thar desert, people eat bajra, which grows with little water. In Karnataka, many families eat ragi, which has lots of calcium. Ragi, bajra and jowar are called millets. Many Indian families ate them more often in the past.'"
     },
     {
      "kind": "act",
@@ -476,7 +476,7 @@
      "kind": "check",
      "title": "Teach it back",
      "mins": 16,
-     "do": "Ask the check questions. Then your child teaches a grown-up or a sibling, using the Food notebook. They must explain three things. What the five nutrients do. Why the two sailors with oranges and a lemon got better. How to build a balanced plate. Let them do one test again (starch or fat) to show it."
+     "do": "Ask the check questions. Then your child teaches a grown-up or a sibling, using the Food notebook. They explain what the five nutrients do, why the two sailors with oranges and a lemon got better, and how to build a balanced plate. Let them do one test again (starch or fat) to show it."
     }
    ],
    "need": [
@@ -550,7 +550,7 @@
       },
       {
        "t": "mcq",
-       "p": "Meera's lunch is rice, dal and bhindi sabzi. Which kind of food is the dal?",
+       "p": "Meera, a girl in Class 3, eats rice, dal and bhindi sabzi for lunch. Which kind of food is the dal?",
        "opts": [
         "an energy food",
         "a body-building food",
@@ -576,7 +576,7 @@
       },
       {
        "t": "mcq",
-       "p": "Arjun rubs a peanut on paper. After 15 minutes a see-through spot is still there. What does the peanut have?",
+       "p": "Arjun, a boy in Class 3, rubs a peanut on paper. After 15 minutes a see-through spot is still there. What does the peanut have?",
        "opts": [
         "fat",
         "water",
@@ -608,7 +608,7 @@
      [
       {
        "t": "write",
-       "p": "Ravi eats only rice and pickle for lunch every day. He feels full. Why might his body still be short of something?",
+       "p": "Ravi, a boy in Class 3, eats only rice and pickle for lunch every day. He feels full. Why might his body still be short of something?",
        "lines": 3
       },
       {
@@ -641,7 +641,7 @@
       },
       {
        "t": "mcq",
-       "p": "Asha, a girl in Class 3, has a drink with 24 grams of sugar. One level teaspoon of sugar is about 4 grams. How many teaspoons of sugar is in her drink?",
+       "p": "Asha, a girl in Class 3, has a drink with 24 grams of sugar. One level teaspoon of sugar is about 4 grams. How many teaspoons of sugar are in her drink?",
        "opts": [
         "4",
         "6",
@@ -739,7 +739,7 @@
       },
       {
        "t": "write",
-       "p": "Zoya says, 'Jalebi is a bad food.' Do you agree? Use what you learned about a balanced diet.",
+       "p": "Zoya, a girl in Class 3, says, 'Jalebi is a bad food.' Do you agree? Use what you learned about a balanced diet.",
        "lines": 3
       }
      ]
@@ -757,7 +757,7 @@
      [
       {
        "t": "mcq",
-       "p": "James Lind gave all twelve sailors the same food, and only one extra thing was different for each pair. Why?",
+       "p": "James Lind gave twelve sick sailors the same food. Each pair of sailors also got one different extra thing. Why did he do it this way?",
        "opts": [
         "so that only one thing changed, and he could tell what made a sailor better",
         "because the ship had only one kind of food",
@@ -802,7 +802,7 @@
      [
       {
        "t": "mcq",
-       "p": "Rohan's bottle of soft drink holds 300 millilitres. The label says 'Total sugars 10 g per 100 ml'. How much sugar is in the whole bottle?",
+       "p": "Rohan, a boy in Class 3, has a 300 millilitre bottle of soft drink. The label says 'Total sugars 10 g per 100 ml'. How much sugar is in the whole bottle?",
        "opts": [
         "10 grams",
         "30 grams",
@@ -812,7 +812,7 @@
       },
       {
        "t": "mcq",
-       "p": "Charaka named six tastes. Scientists say the 'hot' of chilli is not a taste. What is it?",
+       "p": "Charaka named six tastes. Scientists say the hot feeling of chilli is not a taste. What is it?",
        "opts": [
         "a feeling from heat and pain nerves in the mouth",
         "a kind of sweetness",
@@ -1205,12 +1205,12 @@
    },
    {
     "front": "Ghee on rice",
-    "back": "GO. A little fat for energy. Counts only with another GO card."
+    "back": "GO. Starch from the rice, and a little fat from the ghee."
    }
   ]
  },
  "big": [
-  "Your body is built from the food you eat. So were you once rice, dal and milk?",
+  "Your muscles, skin and bones are built from the food you have eaten. Where did that food get what it is made of?",
   "A rice plant made its starch for its own seedling, and a cow made her milk for her calf. Is it fair that we eat them? What could we give back?",
   "A goat makes its own vitamin C and we cannot. In what other ways do other animals do better than us?",
   "Is there one best diet for everyone, or does it depend on where and how you live?",
@@ -1233,7 +1233,7 @@
  "perspectives": [
   {
    "who": "A rice plant",
-   "view": "A rice grain is a seed. Its starch is the packed lunch for the baby plant, which has no leaves yet to make food. Farmers keep the best seeds to sow next year. Ask: when we eat rice, whose lunch are we eating?"
+   "view": "A rice grain is a seed. Its starch feeds the baby plant, which has no leaves yet to make its own food. Farmers keep the best seeds to sow next year. Ask: if we ate every grain, what would farmers sow next year?"
   },
   {
    "who": "A mother goat",
@@ -1341,7 +1341,7 @@
  "unknowns": [
   "Is there one best diet for everyone? Very different traditional diets have kept people healthy, and scientists still argue about whether general rules or personal plans are best.",
   "How much do the microbes in our gut affect our mood and our health? Some studies show links, but nobody yet knows how much is cause and how much is chance.",
-  "Why do people eat more of ready-made packet foods than of home-cooked food? A careful test in 2019 found that they do, but nobody knows exactly why yet.",
+  "Why do people eat more when their meals are ready-made packet foods? In a careful test in 2019, people ate more each day on packet foods than on fresh home-style food. Nobody knows exactly why yet.",
   "Are there substances in fruit and vegetables that help us, which we have not discovered yet? Plants contain thousands of substances, and scientists are still finding out what many of them do."
  ],
  "books": [

@@ -1,0 +1,1374 @@
+{
+ "key": "combined|sci|3|story-of-the-universe",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "story-of-the-universe",
+ "title": "The story of the universe: how it began and why it is still growing",
+ "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (the grids on types of galaxies, the expansion of the universe, the cosmic microwave background, gravitational lensing and the cosmic web). No board teaches it at this class. No textbook needed.",
+ "summary": "Nearly every galaxy is moving away from us, and the farther it is, the faster it goes. Your child learns what galaxies are and sorts them into spirals, ellipticals and irregulars. They find a changing star the way Henrietta Leavitt did, and blow up a balloon to see why stretching space makes far galaxies move away faster. They run the story backwards to the Big Bang, 13.8 billion years ago, and hear how its faint afterglow was found by accident. Last, they find a hidden weight by what it does, the way Vera Rubin found signs of dark matter.",
+ "builds_on": "In the Class 3 lesson on the Sun, Moon and stars, your child met the Milky Way as a band of stars and learned that the Sun is a star. This rung goes out past our galaxy to the billions of others, how the universe grows and how it began. In Class 5 your child comes back to measure the expansion with real numbers, meet the afterglow's tiny ripples, the cosmic web and dark energy, and look at the open arguments about how fast the universe is growing.",
+ "goals": [
+  "By the end your child can say what a galaxy is, and name the three main kinds.",
+  "By the end your child can explain why seeing a far galaxy means seeing it as it was long ago.",
+  "By the end your child can show with a balloon that, as space stretches, far galaxies move away faster and there is no middle.",
+  "By the end your child can explain redshift with a stretched wave, and say that the Big Bang happened about 13.8 billion years ago, everywhere at once.",
+  "By the end your child can tell how the afterglow of the Big Bang was found, and who got the credit.",
+  "By the end your child can explain how scientists know dark matter is there without seeing it."
+ ],
+ "words": [
+  [
+   "galaxy",
+   "a huge group of stars, gas and dust, held together by gravity. Ours is the Milky Way."
+  ],
+  [
+   "Milky Way",
+   "our galaxy. On a very dark night you can see part of it as a faint white band. In Hindi it is Akash Ganga."
+  ],
+  [
+   "spiral galaxy",
+   "a galaxy shaped like a flat disc, with arms curling out from the middle"
+  ],
+  [
+   "elliptical galaxy",
+   "a galaxy shaped like a smooth ball or egg, with no arms"
+  ],
+  [
+   "irregular galaxy",
+   "a galaxy with no neat shape"
+  ],
+  [
+   "light-year",
+   "how far light travels in one year, about 9 and a half lakh crore kilometres. It is a distance, not a time."
+  ],
+  [
+   "expanding",
+   "growing bigger. The space between far galaxies is expanding."
+  ],
+  [
+   "redshift",
+   "when light's waves are stretched, so the light looks redder. Light from far galaxies is redshifted."
+  ],
+  [
+   "Big Bang",
+   "the idea that about 13.8 billion years ago everything was packed close and very hot, and space has been growing and cooling since"
+  ],
+  [
+   "cosmic microwave background",
+   "a very faint, cold glow of microwaves that comes from every part of the sky. It is the afterglow of the early universe."
+  ],
+  [
+   "dark matter",
+   "matter that gives no light, so we cannot see it, but whose gravity we can measure"
+  ],
+  [
+   "cosmic web",
+   "the pattern galaxies make across the universe: long threads and walls, around huge empty spaces called voids"
+  ]
+ ],
+ "subconcepts": [
+  "a galaxy is a huge group of stars, gas and dust held together by gravity",
+  "the Milky Way: the Sun is one star in one arm, going round once in about 230 million years",
+  "kinds of galaxies: spiral, elliptical and irregular",
+  "how many galaxies: thousands in a patch of sky the size of a grain of sand",
+  "far away is long ago: Andromeda's light is about 25 lakh years old",
+  "measuring distance with blinking stars: Henrietta Leavitt's Cepheids",
+  "the universe is expanding: farther galaxies move away faster (the Hubble-Lemaître law)",
+  "no middle: every galaxy sees the others moving away",
+  "gravity holds neighbours together: Andromeda is coming closer",
+  "redshift: light stretched by growing space",
+  "the Big Bang: about 13.8 billion years ago, everything hot and packed close",
+  "the cosmic microwave background: the afterglow, found by accident in 1965",
+  "atoms from the beginning and from stars: hydrogen from the Big Bang, carbon and oxygen from stars",
+  "dark matter and gravitational lensing: finding hidden mass by what it does",
+  "the cosmic web: galaxies in threads and walls around huge empty voids"
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "A city of stars",
+   "goal": "Hear the story, learn what a galaxy is, and start writing your address in the universe.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the Milky Way",
+     "mins": 5,
+     "do": "Say: 'In our lesson about the Sun, Moon and stars, we met the Milky Way, the faint white band across a dark sky. Do you remember what it is?' Good answer: 'It is our galaxy, a huge group of stars. The Sun is one of them.' Ask: 'How many stars do you think it has? Are there other galaxies?' Write both guesses on the first page of a notebook called 'The story of the universe'."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Light That Came to Hanle",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask one question: 'The smudge Dolma saw was a whole galaxy. Why did it look so faint?' Write your child's answer in the notebook. You will come back to it on Day 3."
+    },
+    {
+     "kind": "talk",
+     "title": "What a galaxy is",
+     "mins": 8,
+     "do": "Say: 'A galaxy is a huge group of stars, gas and dust, held together by gravity. Gravity is the force that makes things attract each other. Our galaxy, the Milky Way, has between 100 and 400 billion stars. The Sun is one star in one of its arms, far from the middle. The Sun goes round the middle of the galaxy, but one trip takes about 230 million years.' Ask: 'The first dinosaurs lived about 230 million years ago. Where was the Sun then?' Good answer: 'About where it is now, one whole trip ago.'"
+    },
+    {
+     "kind": "act",
+     "title": "Start My Address in the Universe",
+     "mins": 15,
+     "do": "Start the project. Fold 4 sheets of paper in half and staple them along the fold into a small book. On the cover, your child writes 'My Address in the Universe'. On the first 3 pages they write and draw: page 1, my home (flat number and building), page 2, my city, page 3, my country, India. Say: 'Each page is bigger than the one before. We will add bigger and bigger places all week.'",
+     "ref": "a1"
+    }
+   ],
+   "need": [
+    "a notebook for 'The story of the universe'",
+    "4 sheets of paper, a stapler, pencils and colours"
+   ],
+   "prep": []
+  },
+  {
+   "n": 2,
+   "title": "Spirals, balls and messy ones",
+   "goal": "Learn the three main kinds of galaxy, draw them in dots, and find out how many galaxies there are.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to Dolma's roof",
+     "mins": 4,
+     "do": "Ask: 'In the story, what did Dolma think the smudge was at first?' (A cloud.) 'What was it really?' (The Andromeda galaxy.) Say: 'More than a thousand years ago, in 964 CE, the Persian astronomer al-Sufi wrote about the same smudge. He called it a little cloud. He did not know it was a galaxy.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Three kinds of galaxy",
+     "mins": 8,
+     "do": "Say: 'Galaxies come in three main kinds. A spiral galaxy is a flat disc with arms that curl out from the middle, like ours and Andromeda. An elliptical galaxy is a smooth ball or egg shape, mostly of old stars. An irregular galaxy has no neat shape. Many are small. In 1926, the astronomer Edwin Hubble sorted galaxies into these kinds.' Ask: 'Why might one galaxy be a neat spiral and another a mess?' Good answers: 'It bumped into another galaxy.' 'It spins.' Say: 'Crashes between galaxies can mess up their shapes. Scientists still argue about how ellipticals form.'"
+    },
+    {
+     "kind": "act",
+     "title": "Dot galaxies",
+     "mins": 14,
+     "do": "Do Activity a2. While your child works, say: 'The two Magellanic Clouds are small irregular galaxies close to ours. They are seen from the southern half of the Earth. They are named after the explorer Magellan, but people in the south, such as the first people of Australia, knew them thousands of years before his ships came.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "How many galaxies?",
+     "mins": 8,
+     "do": "Put one grain of salt on your child's fingertip. They hold it out at arm's length and look at it. Say: 'In 2022, the James Webb Space Telescope photographed a patch of sky as small as a grain of sand held at arm's length, like this. The photo showed thousands of galaxies.' Ask: 'The whole sky is millions of times bigger than this grain. So how many galaxies might there be?' Good answer: 'Billions.' Say: 'Scientists think there are hundreds of billions of galaxies we could see, maybe more. Nobody knows the exact number.'"
+    },
+    {
+     "kind": "think",
+     "title": "Is our galaxy special?",
+     "mins": 6,
+     "do": "Ask: 'Our Milky Way is one spiral among billions of galaxies. Is it special?' Let your child give a reason. Good answers: 'No, there are many like it.' 'Yes, because we live in it.' Both have a reason. Your child adds page 4, the Earth, and page 5, the Sun and its eight planets, to My Address in the Universe."
+    }
+   ],
+   "need": [
+    "paper (black chart paper if you have it), a pencil or white poster paint and cotton buds",
+    "one grain of salt",
+    "My Address in the Universe book"
+   ],
+   "prep": []
+  },
+  {
+   "n": 3,
+   "title": "How far? The stars that blink",
+   "goal": "Find a changing star the way Henrietta Leavitt did, and see how her blinking stars showed that galaxies are far outside our own.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Why so faint?",
+     "mins": 4,
+     "do": "Read out your child's Day 1 answer: why the galaxy looked faint. Ask: 'If a torch looks dim, is it always far away?' Good answer: 'No. It may be a weak torch that is near.' Say: 'That was the big problem for astronomers. A faint star might be near and weak, or far and strong.'"
+    },
+    {
+     "kind": "act",
+     "title": "Find the star that changed",
+     "mins": 10,
+     "do": "Do Activity a3. Say: 'Astronomers took photos of the same patch of sky on different nights, on glass plates. A woman named Henrietta Leavitt compared plates like these to find stars that changed brightness.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Henrietta Leavitt's rule",
+     "mins": 10,
+     "do": "Tell Voice v1 in your own words. Then clap slowly 5 times, then quickly 5 times. Say: 'Leavitt's stars, called Cepheids, get brighter and dimmer again and again, over days or weeks. A really bright one does this slowly. A dimmer one does it quickly. So if you time the change, you know how bright the star really is. Then how faint it looks tells you how far away it is.' Ask the voice's question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "talk",
+     "title": "The night the universe got bigger",
+     "mins": 8,
+     "do": "Say: 'Until about 100 years ago, many astronomers thought the Milky Way was the whole universe. In 1923, Edwin Hubble found one of Leavitt's blinking stars in the Andromeda smudge. He timed it, and used her rule. Andromeda was far outside our galaxy. It was a whole galaxy of its own.' Say: 'Today we know Andromeda is about 25 lakh light-years away. A light-year is how far light travels in one year. So its light took about 25 lakh years to reach us.' Ask: 'So when you see Andromeda, are you seeing it now?' Good answer: 'No. I see it as it was 25 lakh years ago.' Your child adds page 6, the Milky Way, to the address book."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Your child does Worksheet ws1, the core worksheet. Read each question aloud if they want. For the two writing questions, talk first, then let them write.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "2 sheets of paper and a pencil",
+    "Worksheet ws1",
+    "My Address in the Universe book"
+   ],
+   "prep": [
+    {
+     "task": "Draw the two star sheets for Activity a3 (10 minutes)",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The growing universe",
+   "goal": "Use a balloon to see that when space stretches, far galaxies move away faster than near ones, and nobody is in the middle.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Coming or going?",
+     "mins": 4,
+     "do": "Ask: 'In the story, Dolma's mother said nearly all galaxies are moving away from us. Which one is coming closer?' (Andromeda.) Say: 'Today we find out why the others move away.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The balloon universe",
+     "mins": 20,
+     "do": "Do Experiment e1. Ask the guess question first, and wait for a guess and a reason. Then do the test and fill in the table together.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Who found it out",
+     "mins": 8,
+     "do": "Say: 'From 1912, Vesto Slipher measured how fast galaxies move. He found that most are moving away from us. Later, Milton Humason took the long photos of galaxy light for Hubble. Humason left school at 14 and first came to the observatory leading mules up the mountain. In 1929 Hubble showed that farther galaxies move away faster, just like the dots.' Then tell Voice v2 in your own words, and ask its question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "think",
+     "title": "Where is the middle?",
+     "mins": 8,
+     "do": "Point to a different dot on the balloon and ask: 'If you lived on this dot, what would you see?' Good answer: 'All the other dots moving away from me.' Say: 'Astronomers in every galaxy would see the same thing. So the universe has no middle where it all started.' Ask: 'Then why is Andromeda coming closer?' Say: 'Gravity. Near galaxies attract each other strongly enough to stay together, or even come closer. Space stretches only between groups that are very far apart.' Your child adds page 7, the Local Group, our group of more than 50 nearby galaxies, most of them small, to the address book."
+    }
+   ],
+   "need": [
+    "a round balloon",
+    "a sketch pen or marker",
+    "a piece of thread about 50 cm long",
+    "a ruler",
+    "a clothes peg or hair clip",
+    "My Address in the Universe book"
+   ],
+   "prep": []
+  },
+  {
+   "n": 5,
+   "title": "Stretched light and the beginning",
+   "goal": "Stretch a wave to see redshift, run the balloon backwards to reach the Big Bang, and squeeze the whole story into one year.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Bigger and bigger",
+     "mins": 3,
+     "do": "Ask: 'On the balloon, what happened to the space between the dots?' (It grew.) Say: 'Light travels across that growing space. Today we see what that does to light.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Stretch a wave",
+     "mins": 12,
+     "do": "Do Experiment e2. Ask the guess question first, and wait for a guess before you stretch.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Run it backwards",
+     "mins": 10,
+     "do": "Let the air slowly out of the balloon from Day 4, while your child watches the dots. Ask: 'If the universe is growing now, what was it like long ago?' Good answer: 'Smaller. Everything was closer.' Say: 'Scientists think that about 13.8 billion years ago, which is 1,380 crore years, everything in the universe was packed close together and very hot. Since then space has been growing and cooling. This is called the Big Bang. It was not a bomb going off in one spot. Space itself grew everywhere at once.' Say: 'At first the universe made only the lightest atoms, mostly hydrogen and helium. The carbon in your body and the oxygen you breathe were made later, inside stars, and thrown out when the stars died. The Indian-born scientist Subrahmanyan Chandrasekhar won a Nobel Prize in 1983 for working out how stars live and die.' Ask: 'So where did the hydrogen in the water you drink come from?' Good answer: 'From the very beginning of the universe.'"
+    },
+    {
+     "kind": "act",
+     "title": "The universe in one year",
+     "mins": 15,
+     "do": "Do Activity a4. When you reach 31 December, ask: 'People like us appeared at 11:48 pm on the last night. For how much of the year was the universe there without us?' Good answer: 'Almost the whole year.'",
+     "ref": "a4"
+    }
+   ],
+   "need": [
+    "a broad elastic (pyjama elastic or a strip cut from a balloon), a sketch pen and a ruler",
+    "the balloon from Day 4",
+    "12 sheets of paper, tape and a pencil"
+   ],
+   "prep": []
+  },
+  {
+   "n": 6,
+   "title": "The afterglow and the great argument",
+   "goal": "Feel light you cannot see, act out how the Big Bang's afterglow was found, hear the argument against the Big Bang, and play the game.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What does a fire leave?",
+     "mins": 3,
+     "do": "Ask: 'When a fire goes out, can you still feel warmth from the coals?' (Yes.) Say: 'If the universe began hot, maybe some of that heat is still around. Today we find out.'"
+    },
+    {
+     "kind": "act",
+     "title": "Light you cannot see",
+     "mins": 7,
+     "do": "Do Activity a5. Then say: 'The whole sky glows with very faint light called microwaves. They are the same kind of waves a microwave oven uses, but far weaker. We cannot see them or feel them, but special antennas pick them up, from every direction. This glow is the afterglow of the hot early universe. Scientists call it the cosmic microwave background.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "act",
+     "title": "The pigeons and the hiss",
+     "mins": 10,
+     "do": "Do Activity a6, the short play about how the afterglow was found by accident in 1964 and 1965.",
+     "ref": "a6"
+    },
+    {
+     "kind": "talk",
+     "title": "The man who named the Big Bang",
+     "mins": 10,
+     "do": "Tell Voice v3 in your own words, and ask its question. Then ask: 'Hoyle was wrong about the Big Bang, but right about how stars make atoms. Can a person be wrong and right at the same time?' Let your child answer with a reason.",
+     "ref": "v3"
+    },
+    {
+     "kind": "game",
+     "title": "True, False or Nobody Knows",
+     "mins": 10,
+     "do": "Play Game g1 with the cards you printed. Always ask for the reason before turning a card over. Put the 'Nobody knows' cards in a pile and keep them for Day 8.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "a clothes iron, heated by a grown-up",
+    "the printed cards for Game g1, cut out"
+   ],
+   "prep": [
+    {
+     "task": "Print and cut out the cards for Game g1",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "What we cannot see",
+   "goal": "Find hidden weight without looking, hear how Vera Rubin found dark matter, and see how galaxies hang in a cosmic web.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Seen and unseen",
+     "mins": 3,
+     "do": "Ask: 'Name something real that you cannot see.' Good answers: 'Air.' 'Gravity.' 'The microwave afterglow.' Ask: 'How do we know air is there?' Good answer: 'We feel the wind, and it moves leaves.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The mystery dabbas",
+     "mins": 10,
+     "do": "Do Experiment e3. Ask the guess question first, and let your child suggest tests before you show them.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Vera Rubin and the missing matter",
+     "mins": 10,
+     "do": "Tell Voice v4 in your own words, and ask its question. Then say: 'Most scientists now think galaxies sit inside huge clouds of dark matter. Dark matter does not shine, but its gravity pulls. Scientists think there is about five times more of it than of all the ordinary matter that makes stars, planets and us. Nobody has caught any of it yet.'",
+     "ref": "v4"
+    },
+    {
+     "kind": "talk",
+     "title": "Bent light and the cosmic web",
+     "mins": 8,
+     "do": "Draw a straight line on paper. Your child looks at it through the thick round bottom of an empty glass tumbler, and slides the glass slowly along the line. Ask: 'What happens to the line?' (It looks bent and curved.) Say: 'The glass bends light. Gravity bends light too, in a different way. A heavy cluster of galaxies bends the light of galaxies behind it into arcs. This is called gravitational lensing. Priyamvada Natarajan, an Indian-born astronomer at Yale University, uses those arcs to draw maps of dark matter. The maps show that galaxies are not spread evenly. They lie along long threads and walls, around huge empty spaces called voids. This is the cosmic web.' Your child draws a web of dots and empty holes on page 8 of the address book and labels it 'Laniakea, our supercluster'. Say: 'In 2014 astronomers named our part of the web Laniakea. It is Hawaiian for immeasurable heaven.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 9,
+     "do": "Your child does Worksheet ws2, the stretch worksheet. For the balloon and calendar questions, let them look at their tables from Days 4 and 5.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "2 identical steel dabbas or tiffin boxes with lids",
+    "something heavy to hide in one, such as a 500 g packet of dal wrapped in a cloth",
+    "2 rubber bands and 2 cloth bags or handkerchiefs",
+    "an empty glass tumbler with a thick bottom, paper and a ruler",
+    "Worksheet ws2",
+    "My Address in the Universe book"
+   ],
+   "prep": [
+    {
+     "task": "Hide the dal packet in one dabba, close both, and mix them up so you know which is which by a small mark underneath",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Our place in the universe",
+   "goal": "Finish the address book, do the challenge worksheet, answer the check questions and teach the story of the universe to the family.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The Nobody Knows pile",
+     "mins": 3,
+     "do": "Read out the 'Nobody knows' cards kept from Day 6. Ask: 'Which one would you most like to solve?' Write your child's choice and why in the notebook."
+    },
+    {
+     "kind": "act",
+     "title": "Finish the address book",
+     "mins": 12,
+     "do": "Your child fills the last pages of My Address in the Universe. Page 9: the observable universe, everything near enough for its light to have reached us, drawn as a big circle full of dots. Page 10: 'What is beyond? Nobody knows.' Page 11 is free: your child writes one thing they found out this week that surprised them. Then they read the whole address aloud, from their flat to the universe.",
+     "ref": "a1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "do": "Your child does Worksheet ws3, the challenge worksheet. Talk through each written question before your child writes.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. If an answer is missing, redo the matching test for a minute: blow up the balloon, stretch the elastic or hang the dabbas. Then ask again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 5,
+     "do": "Your child is the teacher. Using the address book and the one-year calendar, they tell the family the story of the universe in about four minutes. As the students, ask: 'Why do far galaxies move away faster?' and 'How do we know dark matter is there if nobody can see it?' Then read the Day 1 guesses again and ask: 'What would you change now?'"
+    }
+   ],
+   "need": [
+    "My Address in the Universe book",
+    "Worksheet ws3",
+    "the one-year calendar from Day 5"
+   ],
+   "prep": []
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Galaxies and how far they are",
+   "day": 3,
+   "sections": [
+    [
+     "A. Galaxies",
+     [
+      {
+       "t": "fill",
+       "p": "A galaxy is a huge group of stars, gas and dust, held together by ____.",
+       "a": [
+        "gravity"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Our galaxy is called the ____ ____.",
+       "a": [
+        "Milky Way"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each kind of galaxy to its shape.",
+       "pairs": [
+        [
+         "spiral",
+         "a flat disc with curling arms"
+        ],
+        [
+         "elliptical",
+         "a smooth egg shape with no arms"
+        ],
+        [
+         "irregular",
+         "an untidy patch with no clear shape"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Where is the Sun in the Milky Way?",
+       "opts": [
+        "Right in the middle",
+        "Out in one of the arms",
+        "Outside the galaxy"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each name to what it is.",
+       "pairs": [
+        [
+         "the Earth",
+         "our planet"
+        ],
+        [
+         "the Sun",
+         "our star"
+        ],
+        [
+         "the Milky Way",
+         "our galaxy"
+        ],
+        [
+         "Andromeda",
+         "a big galaxy near ours"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Far away and long ago",
+     [
+      {
+       "t": "mcq",
+       "p": "A light-year is…",
+       "opts": [
+        "how far light travels in one year",
+        "a year in space",
+        "a very bright year"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Henrietta Leavitt studied stars called Cepheids. What do they do?",
+       "opts": [
+        "They blink, getting brighter and dimmer again and again",
+        "They stay exactly the same",
+        "They move across the sky every night"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Andromeda is about 25 lakh light-years away. When you see it, you see it as it was…",
+       "opts": [
+        "right now",
+        "25 lakh years ago",
+        "25 years ago"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "A star looks faint. Give two different reasons why it might look faint.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why did Hubble need Henrietta Leavitt's rule to show that Andromeda is outside our galaxy?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "The growing universe",
+   "day": 7,
+   "sections": [
+    [
+     "A. The balloon universe",
+     [
+      {
+       "t": "table",
+       "p": "Remember the balloon universe, where you drew dots and blew the balloon bigger? Copy your results here.",
+       "cols": [
+        "Dot",
+        "Distance before (cm)",
+        "Distance after (cm)",
+        "How much further (cm)"
+       ],
+       "rows": 5,
+       "prefill": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the balloon test, dot A went from 2 cm to 4 cm from home. Dot B went from 5 cm to 10 cm. Which moved away faster?",
+       "opts": [
+        "Dot A, because it is nearer",
+        "Dot B, because it moved 5 cm and A only 2 cm",
+        "They moved at the same speed"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Imagine a tiny girl, Riya, living on one dot of the balloon. As the balloon grows, what does she see?",
+       "opts": [
+        "All the other dots moving towards her",
+        "All the other dots moving away from her",
+        "Only the far dots moving"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The farther a galaxy is, the ____ it moves away from us.",
+       "a": [
+        "faster"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why is Andromeda coming closer when most galaxies move away?",
+       "opts": [
+        "They are near, so their gravity pulls them together",
+        "It is broken",
+        "It is the middle of the universe"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Light and the beginning",
+     [
+      {
+       "t": "mcq",
+       "p": "In the stretch-a-wave test, you drew a wavy line on elastic and stretched it. What happened to the humps?",
+       "opts": [
+        "They got closer together",
+        "They got further apart",
+        "They disappeared"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "When light from a far galaxy is stretched, it looks redder. This is called ____.",
+       "a": [
+        "redshift",
+        "red shift"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "About how long ago was the Big Bang?",
+       "opts": [
+        "13.8 billion years ago",
+        "4,000 years ago",
+        "66 million years ago"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "On the one-year calendar of the universe, match each event to its day.",
+       "pairs": [
+        [
+         "the Big Bang",
+         "1 January"
+        ],
+        [
+         "the Sun and Earth form",
+         "about 1 September"
+        ],
+        [
+         "the first dinosaurs",
+         "about 25 December"
+        ],
+        [
+         "the first people like us",
+         "31 December, 11:48 pm"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Your friend says: 'The Big Bang was a giant bomb that went off in one spot in space.' What would you tell them, using the balloon?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Hoyle thought the universe had no beginning. What discovery in 1965 made most scientists choose the Big Bang instead, and why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "The unseen universe and the open questions",
+   "day": 8,
+   "sections": [
+    [
+     "A. Finding what you cannot see",
+     [
+      {
+       "t": "mcq",
+       "p": "In the mystery dabbas test, two dabbas looked the same. One was harder to push and stretched its rubber band more. What does that tell you?",
+       "opts": [
+        "It is the empty one",
+        "It has more mass inside",
+        "It is made of a different metal"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Vera Rubin found that stars far out in galaxies move too fast. What do most scientists think is the reason?",
+       "opts": [
+        "Unseen dark matter adds gravity",
+        "The stars are broken",
+        "The telescope was wrong"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A big cluster of galaxies bends the light of galaxies behind it into arcs. This is called…",
+       "opts": [
+        "gravitational lensing",
+        "redshift",
+        "the Big Bang"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Galaxies lie along long threads and walls, around huge empty spaces called ____.",
+       "a": [
+        "voids"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these into what scientists know and what nobody knows yet.",
+       "items": [
+        "the universe is expanding",
+        "what dark matter is made of",
+        "the sky glows with a faint microwave afterglow",
+        "what, if anything, came before the Big Bang",
+        "Andromeda is a galaxy outside ours",
+        "why two ways of measuring the expansion give different answers"
+       ],
+       "cats": [
+        "scientists know",
+        "nobody knows yet"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Credit and arguments",
+     [
+      {
+       "t": "match",
+       "p": "Match each person to what they did.",
+       "pairs": [
+        [
+         "Henrietta Leavitt",
+         "found that blinking stars show their true brightness"
+        ],
+        [
+         "Georges Lemaître",
+         "said in 1927 that the universe is expanding"
+        ],
+        [
+         "Milton Humason",
+         "took the photos of galaxy light for Hubble"
+        ],
+        [
+         "Vera Rubin",
+         "found stars moving too fast round galaxies"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Penzias and Wilson, two scientists, heard a hiss in their antenna from every direction. They cleaned out the pigeon droppings. What happened?",
+       "opts": [
+        "The hiss stopped",
+        "The hiss stayed, because it came from the sky",
+        "The pigeons made a louder hiss"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "People like us appeared at 11:48 pm on 31 December of the universe's year. What does that make you think about the word 'our' in 'our universe'?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A small group of scientists think gravity works differently over huge distances, so there is no dark matter. What test or finding would help settle the argument?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Nobody knows what came before the Big Bang. How do you think scientists might ever find out? Or can nobody ever know?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The balloon universe",
+   "day": 4,
+   "question": "When space stretches, do near and far galaxies move away from us by the same amount?",
+   "need": [
+    "a round balloon",
+    "a sketch pen or marker",
+    "a piece of thread about 50 cm long",
+    "a ruler",
+    "a clothes peg or hair clip"
+   ],
+   "steps": [
+    "Blow the balloon up a little, to the size of an orange. Twist the neck and close it with the clothes peg.",
+    "Draw one dot and write H next to it. H is home, our galaxy.",
+    "Draw 5 more dots: one very near H, two a bit further, and two far away on the other side. Number them 1 to 5.",
+    "Lay the thread along the balloon from H to dot 1. Pinch the thread where it reaches dot 1, then hold it against the ruler. Write the distance in centimetres. Do the same for each dot.",
+    "Take off the peg and blow the balloon up until it is about twice as wide. Close it again.",
+    "Measure from H to each dot again, the same way. Write the new distances next to the old ones.",
+    "For each dot, work out how much further it moved: new distance take away old distance."
+   ],
+   "predict": "Ask your child to guess first: 'Which dot will move further from H, a near one or a far one? Why do you think so?'",
+   "observe": "Every dot moves away from H. The far dots move away much more than the near ones. For example, a near dot may go from 2 cm to 4 cm, which is 2 cm further. A far dot may go from 6 cm to 12 cm, which is 6 cm further. Both moves happened in the same few seconds, so the far dot moved faster.",
+   "why": "The dots did not crawl across the rubber. The rubber between them stretched. A far dot has more rubber between it and H, so more stretching happens and it moves away faster. This is the pattern Hubble found in 1929: the farther a galaxy is, the faster it moves away. It is now called the Hubble-Lemaître law. The balloon is only a model. Real galaxies do not get bigger as space grows, because gravity holds each one together, and real space is not the skin of a balloon.",
+   "safety": "A grown-up blows up the balloon. Keep balloon pieces away from small children, because they can choke on them.",
+   "time": "20 min"
+  },
+  {
+   "id": "e2",
+   "title": "Stretch a wave",
+   "day": 5,
+   "question": "What happens to light when the space it travels through stretches?",
+   "need": [
+    "a broad elastic about 20 cm long, such as pyjama elastic, or a strip cut from a balloon",
+    "a sketch pen",
+    "a ruler"
+   ],
+   "steps": [
+    "Lay the elastic flat without stretching it. Draw a wavy line along it with 4 or 5 humps, like the top of a snake moving.",
+    "Measure from the top of one hump to the top of the next. Write it down.",
+    "Hold one end. Your child pulls the other end until the elastic is about twice as long.",
+    "Measure from the top of one hump to the next again. Write it down.",
+    "Look at the humps. Are they closer or further apart than before?"
+   ],
+   "predict": "Ask your child to guess first: 'If we stretch the elastic, what will happen to the humps of the wave? Why?'",
+   "observe": "The humps get further apart, about twice as far. The wave becomes longer and flatter.",
+   "why": "Light travels as a wave. The distance from one hump to the next is called the wavelength. Blue light has short waves and red light has longer waves. When light crosses growing space, its waves are stretched, so they get longer and the light looks redder. This is called redshift. The farther a galaxy is, the longer its light has travelled through growing space, and the redder its light becomes. Slipher and Hubble used redshift to measure how fast galaxies move away.",
+   "safety": "Hold the elastic firmly so it doesn't snap back onto a hand or face.",
+   "time": "12 min"
+  },
+  {
+   "id": "e3",
+   "title": "The mystery dabbas",
+   "day": 7,
+   "question": "Can we find something hidden without seeing it, just by what it does?",
+   "need": [
+    "2 identical steel dabbas or tiffin boxes with lids",
+    "a 500 g packet of dal wrapped in a cloth so it doesn't rattle",
+    "2 rubber bands",
+    "2 cloth bags or handkerchiefs"
+   ],
+   "steps": [
+    "Before the lesson, a grown-up hides the dal packet in one dabba and closes both. Your child must not open them.",
+    "Test 1: put both dabbas on the floor. Your child pushes each one slowly across the floor with one finger. Which one is harder to push?",
+    "Test 2: put each dabba in a cloth bag or knot it in a handkerchief. Hang each bag from a rubber band, holding the top of the band. Which band stretches more?",
+    "Your child says which dabba has the hidden weight, and gives the reason from both tests.",
+    "Open both dabbas and check."
+   ],
+   "predict": "Ask your child to guess first: 'Both dabbas look exactly the same. How could you find out which one has something heavy inside, without opening it?'",
+   "observe": "The heavy dabba is harder to push, and it stretches its rubber band more. Both tests point to the same dabba.",
+   "why": "We could not see the dal, but we could see what its mass did. It made the dabba harder to move, and it pulled down more. Astronomers find dark matter in the same way. They cannot see it, but they see stars going round galaxies too fast, and light bending round galaxy clusters. Something with mass must be there, adding gravity.",
+   "safety": "Keep the stretched rubber band away from faces, in case it snaps.",
+   "time": "10 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "My Address in the Universe",
+   "day": 1,
+   "mins": 15,
+   "need": [
+    "4 sheets of paper",
+    "a stapler",
+    "pencils and colours"
+   ],
+   "steps": [
+    "Fold 4 sheets in half together and staple them along the fold to make a 16-page book. The first page is the cover.",
+    "On the cover, write 'My Address in the Universe'.",
+    "Page 1: my home. Draw the building and write the flat number.",
+    "Page 2: my city. Page 3: my country, India.",
+    "On later days add page 4, the Earth, page 5, the Sun and its planets, page 6, the Milky Way, page 7, the Local Group, and page 8, Laniakea and the cosmic web.",
+    "On Day 8 add page 9, the observable universe, page 10, 'What is beyond? Nobody knows', and page 11, one surprise from this week."
+   ],
+   "outcome": "A small book that goes from your child's flat to the whole observable universe, one bigger place on each page."
+  },
+  {
+   "id": "a2",
+   "title": "Dot galaxies",
+   "day": 2,
+   "mins": 14,
+   "need": [
+    "a sheet of paper (black chart paper if you have it)",
+    "a sharp pencil, or white poster paint and cotton buds for black paper"
+   ],
+   "steps": [
+    "Divide the paper into three boxes. Label them 'spiral', 'elliptical' and 'irregular'.",
+    "In the spiral box, make a thick cluster of dots in the middle. Then make two or three arms of dots curling out from it, like water swirling down a drain.",
+    "In the elliptical box, make an egg shape of dots, thick in the middle and thinning out to the edges, with no arms.",
+    "In the irregular box, make an untidy patch of dots with no clear shape.",
+    "In the spiral, your child draws a tiny arrow far out on one arm and writes 'We are here'.",
+    "Ask: 'Each dot is a whole star. How long would it take to draw 100 billion of them?'"
+   ],
+   "outcome": "A drawing of the three kinds of galaxy, with our place marked on the spiral."
+  },
+  {
+   "id": "a3",
+   "title": "Find the star that changed",
+   "day": 3,
+   "mins": 10,
+   "need": [
+    "2 sheets of plain paper",
+    "a pencil"
+   ],
+   "steps": [
+    "Night before, a grown-up draws about 25 dots on one sheet, some big and some small. These are stars.",
+    "Hold the second sheet over the first against a window, and trace the same dots. Make one small dot much bigger, and leave one dot out.",
+    "In the lesson, your child puts the sheets side by side and looks for the two stars that changed.",
+    "Then lay one sheet over the other against the window, so the differences show up.",
+    "Ask: 'If a star is big on one night and small on another, what happened to it?' Good answer: 'It got dimmer.'"
+   ],
+   "outcome": "Your child finds changing stars by comparing two pictures of the same sky, the way Henrietta Leavitt did with glass photo plates."
+  },
+  {
+   "id": "a4",
+   "title": "The universe in one year",
+   "day": 5,
+   "mins": 15,
+   "need": [
+    "12 sheets of paper",
+    "tape",
+    "a pencil"
+   ],
+   "steps": [
+    "Write one month on each sheet, January to December. Tape them in a line along a wall or the floor.",
+    "Say: 'Let's squash the whole 13.8 billion years of the universe into one year. Each day of this year stands for about 3.8 crore real years.'",
+    "1 January, just after midnight: the Big Bang. Your child writes it on January.",
+    "About 11 January: the first galaxies. About 22 January: the oldest stars of the Milky Way.",
+    "About 1 September: the Sun and the Earth form. About 22 September: the first living things on Earth.",
+    "About 19 December: the first plants on land. About 25 December: the first dinosaurs. 30 December: the big dinosaurs die out.",
+    "31 December, 11:48 pm: the first people like us. The last 12 seconds before midnight: all of written history.",
+    "Ask: 'Where on the calendar did the light from Andromeda leave, the light that Dolma saw?' Answer: 'At about 10:24 pm on 31 December.'"
+   ],
+   "outcome": "A wall calendar that shows how old the universe is, and how recently people arrived."
+  },
+  {
+   "id": "a5",
+   "title": "Light you cannot see",
+   "day": 6,
+   "mins": 7,
+   "need": [
+    "a clothes iron"
+   ],
+   "steps": [
+    "A grown-up heats the iron, switches it off, and stands it on its heel, with the flat metal plate facing sideways.",
+    "Your child holds a hand in front of the plate, about a hand's width away. Not above it, and never touching.",
+    "Ask: 'Can you feel warmth? Can you see anything coming from the iron?'",
+    "Say: 'The hot iron is giving out light we cannot see, called infrared. Your skin feels it as warmth. There are other kinds of light we cannot see, like microwaves.'"
+   ],
+   "outcome": "Your child feels light they cannot see, so they can picture the invisible microwave afterglow that fills the sky."
+  },
+  {
+   "id": "a6",
+   "title": "The pigeons and the hiss (a short play)",
+   "day": 6,
+   "mins": 10,
+   "need": [
+    "an upturned bucket or a big cardboard box as the antenna",
+    "a duster or old cloth"
+   ],
+   "steps": [
+    "Parts: Arno Penzias, Robert Wilson, and a pigeon. With two people, one plays both scientists.",
+    "Scene 1. Say: 'In 1964, at Bell Labs in New Jersey in the USA, Penzias and Wilson had a giant horn-shaped antenna for picking up radio waves.' The scientists listen at the bucket and make a soft 'shhhh' hiss. They point it in every direction. The hiss is always there.",
+    "Scene 2. The pigeon has made a nest in the antenna. The scientists find pigeon droppings inside, chase the pigeon out and scrub with the cloth. They listen again: still 'shhhh'.",
+    "Scene 3. Say: 'They phoned Robert Dicke, a scientist at Princeton University nearby. His team had worked out that the Big Bang should have left a faint glow everywhere, and they were building an antenna to look for it. Dicke told them: the hiss is not pigeons. It is the afterglow of the beginning of the universe.'",
+    "Say: 'Penzias and Wilson won the Nobel Prize in 1978. Dicke, whose team explained the hiss, never did. Jim Peebles, from his team, won one much later, in 2019. Ralph Alpher and Robert Herman had predicted the glow in 1948, and were mostly forgotten for years.' Ask: 'Who do you think should have got the credit?'"
+   ],
+   "outcome": "Your child knows how the cosmic microwave background was found by accident, and asks who gets the credit for a discovery."
+  }
+ ],
+ "project": {
+  "title": "My Address in the Universe",
+  "days": [
+   1,
+   8
+  ],
+  "steps": [
+   "Day 1: make a small book from 4 folded sheets. Pages 1 to 3: my home, my city, my country.",
+   "Day 2: page 4, the Earth, and page 5, the Sun and its eight planets.",
+   "Day 3: page 6, the Milky Way, with an arrow on one arm saying 'We are here'.",
+   "Day 4: page 7, the Local Group, our group of more than 50 nearby galaxies, with Andromeda drawn big.",
+   "Day 7: page 8, Laniakea, our part of the cosmic web, drawn as threads of dots around empty holes.",
+   "Day 8: page 9, the observable universe, page 10, 'What is beyond? Nobody knows', and page 11, one surprise from the week.",
+   "Day 8: your child reads the whole address aloud to the family, from the flat to the universe."
+  ],
+  "outcome": "A small book that places your child's home inside the whole observable universe, one bigger place on each page."
+ },
+ "game": {
+  "id": "g1",
+  "title": "True, False or Nobody Knows",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out"
+  ],
+  "rules": [
+   "Shuffle the cards and put them in a pile, front side up.",
+   "Take turns. Read the front of the top card aloud.",
+   "Say 'True', 'False' or 'Nobody knows', and give one reason.",
+   "Turn the card over and read the back. If your answer is right, keep the card. If not, put it at the bottom of the pile.",
+   "When the pile is gone, the player with the most cards wins.",
+   "Keep the 'Nobody knows' cards in a separate pile for Day 8.",
+   "Playing alone? Try to keep more than 15 cards."
+  ],
+  "cards": [
+   {
+    "front": "The Sun is one of billions of stars in the Milky Way.",
+    "back": "True. The Milky Way has between 100 and 400 billion stars."
+   },
+   {
+    "front": "The Sun is at the middle of the Milky Way.",
+    "back": "False. It is out in one of the arms."
+   },
+   {
+    "front": "Andromeda is a whole galaxy, not a cloud.",
+    "back": "True. Hubble showed it in the 1920s, using Henrietta Leavitt's blinking stars."
+   },
+   {
+    "front": "When you see Andromeda, you see it as it is tonight.",
+    "back": "False. Its light left about 25 lakh years ago."
+   },
+   {
+    "front": "A light-year is a length of time.",
+    "back": "False. It is a distance: how far light travels in one year."
+   },
+   {
+    "front": "All galaxies are spirals.",
+    "back": "False. There are also elliptical and irregular galaxies."
+   },
+   {
+    "front": "Most galaxies are moving away from us.",
+    "back": "True. Space between far galaxies is stretching."
+   },
+   {
+    "front": "Far galaxies move away faster than near ones.",
+    "back": "True. Like the far dots on the balloon."
+   },
+   {
+    "front": "The universe has a middle, where the Big Bang happened.",
+    "back": "False. It happened everywhere. Every galaxy sees the others moving away."
+   },
+   {
+    "front": "Andromeda is coming closer to us.",
+    "back": "True. Gravity pulls our two galaxies together."
+   },
+   {
+    "front": "Andromeda and the Milky Way will crash for sure.",
+    "back": "Nobody knows. A 2025 study found about an even chance that they merge in the next 10 billion years."
+   },
+   {
+    "front": "Light from very far galaxies looks redder than it started.",
+    "back": "True. Its waves were stretched by growing space. This is redshift."
+   },
+   {
+    "front": "The universe began about 13.8 billion years ago.",
+    "back": "True. That is the age scientists measure for the Big Bang."
+   },
+   {
+    "front": "We know what happened before the Big Bang.",
+    "back": "Nobody knows. Some scientists think the question may not even make sense."
+   },
+   {
+    "front": "The whole sky glows with a faint light we cannot see.",
+    "back": "True. It is the microwave afterglow of the hot early universe."
+   },
+   {
+    "front": "Penzias and Wilson's hiss came from pigeon droppings.",
+    "back": "False. They cleaned the antenna and the hiss stayed. It came from the whole sky."
+   },
+   {
+    "front": "The carbon in your body was made inside stars.",
+    "back": "True. The Big Bang made mostly hydrogen and helium. Stars made carbon and oxygen."
+   },
+   {
+    "front": "Scientists know what dark matter is made of.",
+    "back": "Nobody knows. Its gravity shows it is there, but nobody has caught any."
+   },
+   {
+    "front": "Gravity can bend light.",
+    "back": "True. Big clusters of galaxies bend light from galaxies behind them into arcs."
+   },
+   {
+    "front": "Galaxies are spread evenly through space.",
+    "back": "False. They lie in threads and walls around huge empty voids, the cosmic web."
+   },
+   {
+    "front": "Hubble was the only person who found that the universe is expanding.",
+    "back": "False. Slipher, Humason, Leavitt and Lemaître all helped. The law is now the Hubble-Lemaître law."
+   },
+   {
+    "front": "The universe goes on for ever.",
+    "back": "Nobody knows. We can only see as far as light has had time to travel to us."
+   },
+   {
+    "front": "Two ways of measuring how fast the universe grows give the same answer.",
+    "back": "False. They give slightly different answers, and nobody knows why yet."
+   },
+   {
+    "front": "People like us arrived on the very last night of the universe's year.",
+    "back": "True. On the one-year calendar, at 11:48 pm on 31 December."
+   }
+  ]
+ },
+ "big": [
+  "You see every star as it was when its light left it. Could a star you see tonight be gone already?",
+  "Every galaxy sees the others moving away. If nobody is in the middle, is any place more important than another?",
+  "People arrived at 11:48 pm on the last night of the universe's year. Whose universe is it?",
+  "Most of the universe is matter and energy nobody can see. How much of anything do we really know?",
+  "Everything that exists is aware in its own way. What might a galaxy be aware of, over billions of years?"
+ ],
+ "challenge": [
+  {
+   "q": "Books often say: 'Edwin Hubble discovered that the universe is expanding.' Is that the whole story?",
+   "hint": "Hubble's 1929 work was important, but it stood on others. From 1912, Vesto Slipher measured that most galaxies move away. Henrietta Leavitt found the blinking-star rule Hubble used for distances. Milton Humason took many of the photos. Georges Lemaître worked out the expansion in 1927 and published it in French. In 2018, astronomers voted to recommend the name Hubble-Lemaître law. Ask: why does one name usually end up in the books?"
+  },
+  {
+   "q": "People often picture the Big Bang as a giant bomb going off at one spot in empty space. Is that right?",
+   "hint": "No. The Big Bang was not an explosion into space. Space itself has been growing everywhere at once, carrying galaxies apart, like dots on a balloon. That is why every galaxy sees the others moving away, and there is no middle. The name 'Big Bang' came from Fred Hoyle, who did not believe in it. Ask: can a name give people the wrong picture?"
+  },
+  {
+   "q": "Some people say: 'Science has explained how the universe began.' Is that true?",
+   "hint": "Scientists have strong evidence that the universe was once hot and packed close, about 13.8 billion years ago: the expansion, the afterglow, and the amounts of hydrogen and helium. But nobody knows what, if anything, came before, or why there was a beginning at all. Ask: what is the difference between knowing what happened and knowing why?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "The people of Hanle, Ladakh",
+   "view": "Hanle became India's first dark sky reserve in 2022. Villagers there have been trained to show visitors the stars through telescopes, and they keep outdoor lights low. Ask: who owns the dark night sky, and what does a city lose when it can no longer see it?"
+  },
+  {
+   "who": "Old Indian ideas of time",
+   "view": "Old Hindu texts describe time in huge cycles that repeat. One 'day of Brahma', a kalpa, is 4.32 billion years. This was not measured with telescopes, but few old traditions imagined time so long. Ask: why might people long ago have guessed that the world is very old?"
+  },
+  {
+   "who": "An ant on your kitchen floor",
+   "view": "An ant's world is the floor, the crumbs and the smell trail home. It does not know about galaxies, and it manages its life very well. We know about galaxies, but there is far more we do not know. Ask: to a being as big as a galaxy, would we look the way an ant looks to us?"
+  },
+  {
+   "who": "Radio astronomers at the Giant Metrewave Radio Telescope near Pune",
+   "view": "India's GMRT is a field of 30 big dish antennas at Khodad, near Narayangaon. It picks up radio waves from far galaxies that our eyes cannot see. Ask: if our eyes could see radio waves, what would the night sky look like?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Henrietta Swan Leavitt (1868–1921), USA",
+   "idea": "Leavitt worked at Harvard College Observatory as a 'computer', one of many women paid little to study glass photo plates of the sky. She found more than a thousand stars that change brightness. In 1912 she showed that, for one kind called Cepheids, the brighter the star really is, the more slowly it blinks. All her stars were in the Small Magellanic Cloud, so all were about the same distance from us. That is why she could compare them fairly.",
+   "then": "Her 1912 finding was published as a short note signed by the observatory's director, Edward Pickering, though it said Miss Leavitt had prepared it. She had a hearing loss for much of her life, and she died of cancer in 1921, little known.",
+   "now": "Her rule is still one of the main ways to measure distances to nearby galaxies. Hubble used it in 1923 to show that Andromeda is outside our galaxy. In 1925, a Swedish mathematician wrote to suggest her for a Nobel Prize, not knowing she had died.",
+   "status": "accepted",
+   "ask": "Leavitt found the rule, and Hubble used it to make the famous discovery. Who should we remember, and why?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Georges Lemaître (1894–1966), Belgium",
+   "idea": "Lemaître was a Catholic priest and a physicist. In 1927, two years before Hubble, he showed that the universe could be expanding, and that farther galaxies should move away faster. He even worked out a rough rate. Later he said the universe began from a 'primeval atom', the first form of the Big Bang idea.",
+   "then": "His 1927 paper was in French, in a Belgian journal few astronomers read. When it was put into English in 1931, the part with his rate was left out. Einstein at first did not accept an expanding universe.",
+   "now": "His ideas are accepted. In 2018, members of the International Astronomical Union voted to recommend calling the rule the Hubble-Lemaître law.",
+   "status": "accepted",
+   "ask": "Lemaître got there first, but in a journal few people read. Does it matter where and in what language something is written, for who gets the credit?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Fred Hoyle (1915–2001), England, and Jayant Narlikar (1938–2025), India",
+   "idea": "In 1948, Hoyle and two other scientists, Hermann Bondi and Thomas Gold, said the universe had no beginning. It was expanding, they said, but new matter kept appearing to fill the gaps, so it always looked the same. This was called the steady state theory. On BBC radio in 1949, Hoyle called the other idea 'the Big Bang', and the name stuck. His student Jayant Narlikar, from India, worked with him on new theories of gravity and of the universe.",
+   "then": "For years scientists argued about the two ideas. Then in 1965 the microwave afterglow was found. The Big Bang explained it simply. The steady state theory could not.",
+   "now": "Almost all scientists now accept the Big Bang, and the steady state theory has been rejected. Hoyle and Narlikar later offered a changed version, which only a few scientists support. Hoyle was right about something else: he worked out how stars make carbon and other atoms. Back in India, Narlikar founded a big astronomy centre, IUCAA, in Pune, and wrote science stories for children.",
+   "status": "rejected",
+   "ask": "Hoyle and Narlikar kept testing the popular idea instead of just agreeing. Is it useful for science when clever people argue against the popular idea, even if they turn out wrong?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Vera Rubin (1928–2016) and Kent Ford (1931–2023), USA",
+   "idea": "From the late 1960s, Rubin and Ford measured how fast stars go round the middle of the Andromeda galaxy, and later many other galaxies. Ford built the instrument they used. Stars far out moved about as fast as stars nearer the middle. With only the matter we can see, the outer stars should move more slowly. Moving that fast, they should fly off. So something unseen must be adding gravity that holds them in.",
+   "then": "Princeton University did not take women into its astronomy course when Rubin applied, so she studied elsewhere. Back in 1933, Fritz Zwicky had already said that clusters of galaxies hold unseen matter, but few listened. Rubin and Ford's clear measurements made scientists take it seriously.",
+   "now": "Most scientists accept that dark matter exists, but nobody knows what it is, and no one has caught any yet. A smaller group, following Mordehai Milgrom from 1983, thinks gravity itself works differently over huge distances. Rubin never got a Nobel Prize. A big telescope in Chile, which took its first pictures in 2025, is named after her.",
+   "status": "debated",
+   "ask": "Nobody has seen dark matter. What would you need to find before you were sure it is there, or sure it is not?",
+   "day": 7
+  }
+ ],
+ "story": {
+  "title": "The Light That Came to Hanle",
+  "text": [
+   "I am a small piece of light. I left a star in the Andromeda galaxy about two and a half million years ago. I don't remember the star well. It was one of hundreds of billions, in a great flat spiral that turns so slowly that nobody could ever see it move. When I left, I went in a straight line, and I went fast: three lakh kilometres every second. Nothing goes faster than light.",
+   "Space between galaxies is very empty. For a very long time I passed nothing at all. No stars, no planets, only dark. Far ahead was a faint patch of light. It was another spiral galaxy, the one you call the Milky Way. I did not know yet that I was going there.",
+   "While I travelled, the world I was heading for changed. On a small blue planet there were no people like you yet. Great sheets of ice spread over the north of that planet and melted back, again and again. Much later, people appeared. They learned to make fire, painted animals on cave walls, grew rice and wheat, and built cities. I knew none of this. Light does not stop to look.",
+   "At last I crossed into the Milky Way. Stars were all around me now, and then one ordinary yellow star, the Sun. I slipped past its planets towards the blue one. I fell through its air, thin and cold over the high mountains of Ladakh, near a village called Hanle. The sky there is so dark that India made it a dark sky reserve. On a hill above the village stands a white dome with a big telescope inside.",
+   "Below the hill, on the flat roof of a mud-brick house, a girl called Dolma was lying on a thick blanket next to her mother. It was October and very cold. Dolma wore two sweaters and a woollen cap, and she was cross. Next week they were moving to Chandigarh, where her mother had a new job.",
+   "'In Chandigarh you can't see anything,' Dolma said. 'Just orange sky.'",
+   "Her mother didn't argue. She pointed up. 'Find the five stars that make a W.'",
+   "Dolma found the W.",
+   "'Now look a little way from it, where I'm pointing. Don't stare straight at it. Look just to one side. Do you see a faint smudge, like a thumbprint on glass?'",
+   "Dolma looked. At first there was nothing. Then, from the side of her eye, there it was: a pale, stretched smudge. That smudge was me, and millions like me, arriving all at once.",
+   "'It's a cloud,' said Dolma.",
+   "'It's a galaxy,' said her mother. 'Andromeda. Hundreds of billions of stars, like ours.'",
+   "'Then why is it so faint?'",
+   "'Because it is so far away. Its light has been travelling for about twenty-five lakh years. When that light set off, there were no people like us on Earth.'",
+   "Dolma was quiet for a long time. Her breath made small clouds in the cold air.",
+   "'So I'm seeing it how it was,' she said at last. 'Not how it is.'",
+   "'Yes.'",
+   "'Is it still there?'",
+   "'Almost certainly. Galaxies last for billions of years.'",
+   "Dolma pulled the blanket up to her chin. 'Is everything going away from us? Like we're going away from here?'",
+   "Her mother thought about how to say it. 'Nearly every galaxy is moving away from us,' she said. 'The far ones go fastest, because the space between the galaxies is stretching. But not this one. Andromeda is coming closer, more than a hundred kilometres every second. It is near enough that gravity holds us together.'",
+   "'Coming closer,' Dolma said. 'Only that one?'",
+   "'That one, and a few small ones near us.'",
+   "I had come a very long way. I passed through the dark middle of Dolma's eye and landed on the back of it, on one tiny cell. There my journey stopped. Two and a half million years of travelling ended in one girl, on one roof, on one cold night. The cell sent a tiny signal, and Dolma saw a smudge.",
+   "'It came all that way,' Dolma whispered, 'and I'm the one who caught it.'",
+   "The next week, in Chandigarh, the sky over the new flat was orange, just as she had said. Dolma stood on the balcony and could not see the W, or the smudge. She knew where they were. Somewhere behind the orange, light like me was still falling, on the roofs and the trees and the parked scooters, whether anyone was looking or not.",
+   "That night she opened her notebook and wrote: 'Andromeda. 25 lakh years old. Coming closer.'"
+  ],
+  "epiphany": "For the parent: the story turns twice. First, when Dolma says 'I'm seeing it how it was, not how it is': looking far away is looking back in time, because light takes time to travel. Second, when her mother says nearly every galaxy is moving away but Andromeda is coming closer: space is stretching between far galaxies, while gravity holds near neighbours together.",
+  "ask": [
+   "The light left Andromeda before there were people like us. What happened on Earth while it travelled?",
+   "Why did Dolma see Andromeda 'how it was, not how it is'?",
+   "Most galaxies are moving away. Why is Andromeda coming closer?",
+   "Dolma said 'I'm the one who caught it.' How did that make her feel about moving?",
+   "In Chandigarh, is Andromeda's light still arriving? Why can't Dolma see it there?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Looking far away is looking back in time.",
+   "more": "Light takes time to travel. Andromeda's light is about 25 lakh years old when it reaches us. The farthest galaxies are seen as they were billions of years ago, when the universe was young."
+  },
+  {
+   "idea": "Space is growing, and nobody is in the middle.",
+   "more": "In the balloon test, every dot moved away from every other dot, and far dots moved faster. Galaxies do the same. Gravity holds near ones together, which is why Andromeda is coming closer."
+  },
+  {
+   "idea": "Most of the universe cannot be seen.",
+   "more": "Ordinary matter, the stuff of stars, planets and us, is only about 5 out of every 100 parts of the universe. The rest is dark matter and dark energy, and nobody knows what either one is."
+  }
+ ],
+ "unknowns": [
+  "What is dark matter made of? Scientists have searched for over 40 years and not caught any.",
+  "Why is the universe's growth speeding up? Scientists call the cause dark energy, found in 1998, but nobody knows what it is.",
+  "Two ways of measuring how fast the universe is growing give slightly different answers. Nobody knows yet whether a measurement is off or the ideas are incomplete.",
+  "What, if anything, came before the Big Bang, and does the universe go on for ever? Nobody knows."
+ ],
+ "books": [
+  {
+   "title": "The Stuff of Stars",
+   "author": "Marion Dane Bauer, illustrated by Ekua Holmes",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A picture book that tells the story from the beginning of the universe to the birth of a child. Read it after Day 5."
+  },
+  {
+   "title": "Born with a Bang: The Universe Tells Our Cosmic Story",
+   "author": "Jennifer Morgan",
+   "for": "read together",
+   "age": "7–11",
+   "why": "The universe tells its own story, from the Big Bang to stars, galaxies and the Earth."
+  },
+  {
+   "title": "Look Up! Henrietta Leavitt, Pioneering Woman Astronomer",
+   "author": "Robert Burleigh, illustrated by Raúl Colón",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The life of the woman whose blinking stars measured the universe. Read it after Day 3."
+  },
+  {
+   "title": "The Stuff Between the Stars: How Vera Rubin Discovered Most of the Universe",
+   "author": "Sandra Nickel, illustrated by Aimée Sicuro",
+   "for": "read together",
+   "age": "5–9",
+   "why": "How Vera Rubin kept going when doors were shut, and found signs of dark matter. Read it after Day 7."
+  },
+  {
+   "title": "Astrophysics for Young People in a Hurry",
+   "author": "Neil deGrasse Tyson with Gregory Mone",
+   "for": "parent reads",
+   "age": "parent reads parts aloud, 9 and up",
+   "why": "Short, clear chapters on the Big Bang, dark matter and dark energy, for a parent who wants to know more."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is a galaxy? Name the three main kinds.",
+   "a": "A galaxy is a huge group of stars, gas and dust, held together by gravity. The three main kinds are spiral, elliptical and irregular."
+  },
+  {
+   "q": "When you see the Andromeda galaxy, why are you seeing it as it was long ago?",
+   "a": "Its light takes about 25 lakh years to reach us. So the light we see left Andromeda 25 lakh years ago, and shows it as it was then."
+  },
+  {
+   "q": "In the balloon test, which dots moved away faster, near ones or far ones? Why?",
+   "a": "Far ones. There was more rubber between them and home, so more stretching happened. In the same way, far galaxies move away faster because more space between us is growing."
+  },
+  {
+   "q": "What is the Big Bang? Was it a bomb going off in one spot?",
+   "a": "About 13.8 billion years ago, everything was packed close and very hot, and space has been growing and cooling ever since. It was not a bomb in one spot. Space grew everywhere at once."
+  },
+  {
+   "q": "What did Penzias and Wilson find, and how?",
+   "a": "They heard a hiss in their antenna from every direction. Even after cleaning out the pigeon droppings it stayed. It was the cosmic microwave background, the afterglow of the early universe."
+  },
+  {
+   "q": "Nobody can see dark matter. How do scientists know it is there?",
+   "a": "From what it does. Stars far out in galaxies move too fast for the matter we can see, and galaxy clusters bend light more than their stars could. Something unseen with mass must be pulling, like the hidden dal in the dabba."
+  },
+  {
+   "q": "Why is Andromeda coming closer when most galaxies move away?",
+   "a": "It is near us, so the gravity between our two galaxies is strong enough to pull them together. Space stretches only between groups of galaxies that are very far apart."
+  }
+ ]
+}
