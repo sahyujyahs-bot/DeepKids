@@ -1,9 +1,9 @@
-# What is it made of? Where every material comes from
+# What is it made of? Where materials come from
 `sci.materials.what-is-it-made-of.L3`
 
-**Summary.** This unit is about where things come from. Every object is made of a material, the stuff it is made of. Every material began somewhere on Earth. It came from a plant, an animal, the rocks and soil, the sea or even the air. Some things are natural. Nature made them, like a stone, a mango or a crow's feather. Other things are made by people, like a steel spoon, a plastic bucket or a glass bangle. But people never make stuff out of nothing. They take natural raw materials and change them by cutting, spinning, melting, baking and mixing. Your child makes paper, salt, milk plastic, colour and a clay diya with their own hands. Then they zoom in. Natural and made things are built from the same tiny atoms, and those atoms were made long ago inside stars.
+**Summary.** Pick up anything and follow it backwards, and you always reach something nature made. A steel spoon began as rock dug from a mine. A plastic bucket began as oil deep underground. Some things are natural, like a stone, a mango or a crow's feather. Other things are made by people, but never from nothing. People take natural raw materials and change them by cutting, spinning, melting, baking and mixing. Your child makes paper, salt, milk plastic, plant colours and a clay diya with their own hands. Then they zoom in: natural and made things are built from the same few kinds of atoms, and those atoms were made long ago inside stars.
 
-**Intro.** *Pick up anything near you. A pencil, a spoon, a button. Now ask it a question. Where were you before you were this? And before that? How far back can you go?* Your pencil was once a tree. Its grey middle was once a rock deep in the ground. The tree drank rain that fell from clouds, and the rain came from the sea. Follow any object backwards, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few made materials yourself, from natural ones.
+**Intro.** *Pick up anything near you. A pencil, a spoon, a button. Now ask it a question. Where were you before you were this? And before that? How far back can you go?* Your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Follow any object backwards, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.
 
 ## Learning outcomes
 0. I can say what an object is made of, and trace its material back to where it came from: a plant, an animal, the ground, the sea or the air.
@@ -16,11 +16,11 @@
 
 ## Terms
 - **Object**: A thing you can see, touch and use. A tumbler, a chair and a kite are all objects. *e.g.* A spoon is an object. You can hold it and eat with it.
-- **Material**: The stuff an object is made of. One material can make many objects. One object can be made of many materials. *e.g.* A tumbler can be made of steel, glass or plastic. A school bag is cloth, plastic and metal together.
+- **Material**: What an object is made of. One material can make many objects. One object can be made of many materials. *e.g.* A tumbler can be made of steel, glass or plastic. A school bag is cloth, plastic and metal together.
 - **Natural**: Made by nature, not by people. A natural thing can be living, like a tree or a bird. It can be non-living, like a rock, water or air. *e.g.* A neem tree, a pebble and rainwater are all natural.
 - **Made by people (artificial)**: Made by people from other materials. Scientists and books also call it artificial, human-made or manufactured. *e.g.* A steel spoon, a brick, a plastic bucket and a cotton kurta are all made by people.
-- **Raw material**: A natural material before people change it. It is the starting stuff. *e.g.* Cotton fluff is the raw material for cotton thread. Clay is the raw material for a brick.
-- **Source**: The place a material comes from. *e.g.* The source of wool is a sheep. The source of salt is the sea.
+- **Raw material**: A natural material before people change it. It is what people start with. *e.g.* Cotton fluff is the raw material for cotton thread. Clay is the raw material for a brick.
+- **Source**: The place a material comes from. *e.g.* The source of wool is a sheep. The source of most of India's salt is sea water.
 - **Ore**: A rock with a metal hidden inside it. People dig it out of the ground and heat it until the metal comes out. *e.g.* Iron ore is a reddish rock. It is dug from mines in Odisha, Jharkhand and Chhattisgarh.
 - **Plant fibre**: A long, thin thread that grows inside or on a plant. People spin plant fibres into thread and rope. *e.g.* Cotton, jute and coir from coconut husks are plant fibres.
 - **Spin**: To twist short fibres together into one long, strong thread. *e.g.* A charkha, a spinning wheel, twists cotton fluff into thread.
@@ -29,28 +29,28 @@
 - **Furnace**: A very hot fire inside a closed chamber. It is hot enough to melt sand into glass, or ore into metal. *e.g.* Glass bangles in Firozabad are made from glass melted in furnaces.
 - **Petroleum (crude oil)**: A thick, dark oil found deep under the ground and the sea floor. It formed over millions of years from tiny sea living things. Most plastic is made from it, and from natural gas. *e.g.* Petrol for scooters and the plastic of a bucket both come from petroleum.
 - **Plastic**: A made material that can be shaped when it is soft and warm, then sets hard. Most plastic is made from petroleum and natural gas. *e.g.* Buckets, toothbrushes and pens are usually plastic.
-- **Synthetic**: Made by people through chemistry, by joining or changing tiny bits of other materials. *e.g.* Nylon and polyester are synthetic fibres. Cotton and silk are natural fibres.
+- **Synthetic**: Made by people through chemistry, by joining atoms into new patterns. Many synthetic materials are not found in nature at all. *e.g.* Nylon and polyester are synthetic fibres. Cotton and silk are natural fibres.
 - **Process**: The steps people use to change a raw material into something useful. *e.g.* Clay is dug, mixed with water, shaped, dried and baked. That is the process for making a pot.
 - **Dye**: A coloured material that soaks into cloth and colours it. *e.g.* Turmeric dyes cloth yellow. Indigo dyes it blue.
 - **Recycle**: To break down an old made thing and use its material to make a new thing. *e.g.* Old newspapers can be soaked, mashed and made into new paper.
-- **Atom**: The tiny building block that everything is made of. Atoms are far too small to see, even with a microscope. *e.g.* A wooden spoon, a plastic spoon and your hand are all made of atoms.
-- **Element**: One pure kind of atom. There are about 90 kinds found in nature. Every material in the world is made from them. *e.g.* Carbon, oxygen, iron and gold are elements.
-- **Carbon**: An element found in every living thing. Wood, cotton, sugar, plastic, pencil lead and you are full of carbon atoms. *e.g.* The grey stuff in your pencil is almost pure carbon.
+- **Atom**: The tiny building block that everything is made of. Atoms are far too small to see with an ordinary microscope. Only very special microscopes can show them. *e.g.* A wooden spoon, a plastic spoon and your hand are all made of atoms.
+- **Element**: A material made of only one kind of atom. About 90 kinds of atom are found in nature, so there are about 90 natural elements. Every material in the world is made from them. *e.g.* Carbon, oxygen, iron and gold are elements.
+- **Carbon**: An element found in every living thing. Wood, cotton, sugar, plastic and you are full of carbon atoms. *e.g.* The grey core of a pencil is graphite, which is a form of carbon, mixed with clay.
 - **Stardust**: A name for the atoms that were made inside stars long ago and spread into space. The atoms in you and your things are stardust. *e.g.* Most of the oxygen and carbon in your body was made inside stars that exploded or puffed off their outer layers before the Sun was born.
 - **Decompose**: To be broken down slowly by tiny living things, like bacteria and fungi, back into soil and air. *e.g.* A fallen leaf decomposes into soil in a few months.
 
 ## Explanations
 ### Every object is made of a material · *defined*
-**Definition:** An object is a thing. A material is the stuff it is made of. The same material can make many objects, and one object can be made of many materials.
+**Definition:** An object is a thing. A material is what it is made of. The same material can make many objects, and one object can be made of many materials.
 
 Ask 'What is it?' and you get the object. Ask 'What is it made of?' and you get the material. A tumbler is an object. Steel is its material. Many objects are made of more than one material. Each part has its own job. A pressure cooker has a metal body, a rubber ring and a plastic handle. The unit on Properties of materials explores why each part needs its own material.
 - e.g. A wooden spoon and a wooden door are made of the same material.
-- e.g. A pencil is wood outside and grey graphite, a kind of carbon, inside.
+- e.g. A pencil is wood outside. Inside is graphite, a form of carbon, mixed with clay.
 - e.g. A school bag is cloth, a plastic zip and a metal buckle.
 ### Where materials come from · *defined*
 **Definition:** Every material comes from somewhere on Earth. Most come from plants, from animals, or from the ground. Some come from the sea or even the air.
 
-Follow any material back far enough, and you reach a source in nature. Wood, cotton, jute, rubber and paper come from plants. Wool, silk, leather, honey and lac come from animals. Stone, clay, sand, metals and oil come from the ground. Salt comes mostly from the sea. Even the air is a source. Factories take nitrogen out of the air to make fertiliser for farms. Nothing that people make comes from nowhere.
+Follow any material back far enough, and you reach a source in nature. Wood, cotton, jute, rubber and paper come from plants. Wool, silk, leather, honey and lac come from animals. Stone, clay, sand, metals and oil come from the ground. Most of India's salt comes from sea water. Some salt, like sendha namak, is rock salt dug out of the ground. Even the air is a source. Factories take nitrogen out of the air to make fertiliser for farms. Nothing that people make comes from nowhere.
 - e.g. Paper comes from trees, or from old paper.
 - e.g. Glass comes mostly from sand.
 - e.g. A rubber band comes from the milky sap of a rubber tree, grown in Kerala and the north-east.
@@ -65,7 +65,7 @@ A mango, a crow, a pebble and the wind are natural. Nobody made them. A bicycle,
 ### How people change natural materials · *defined*
 **Definition:** People change raw materials by cutting, shaping, spinning, weaving, melting, baking, mixing and heating. The steps are called a process.
 
-Some materials are changed only a little. A carpenter cuts and shapes wood, but it is still wood. Others are changed a lot. Clay baked in a kiln becomes hard pottery that never turns back into clay. Sand melted in a furnace becomes glass. Ore heated with charcoal or coke gives out metal. Petroleum is changed in a factory into tiny plastic beads. These are melted and pressed into buckets. The more fire a process needs, the more the material usually changes.
+Some materials are changed only a little. A carpenter cuts and shapes wood, but it is still wood. Others are changed a lot. Clay baked in a kiln becomes hard pottery that never turns back into clay. Sand melted in a furnace becomes glass. Ore heated with charcoal or coke gives out metal. Petroleum is changed in a factory into tiny plastic beads. These are melted and pressed into buckets.
 - e.g. Cotton is picked, cleaned, spun into thread and woven into cloth.
 - e.g. Clay is dug, mixed with water, shaped, dried and baked into a matka.
 - e.g. Sand is mixed with soda ash and limestone, melted, and blown or pressed into glass.
@@ -81,22 +81,23 @@ Everyone agrees on the easy cases. A pebble is natural, and a plastic bucket is 
 
 A sheep grows wool, and people only cut it. A silkworm, the caterpillar of a moth, spins a cocoon of one long silk thread. Bees make wax for their honeycomb. In Jharkhand and nearby states, tiny lac insects on trees make a resin. People scrape it off to make bangles, varnish and sealing wax. Spiders spin silk that is very strong for its weight. Paper wasps chew wood and spit it out as paper for their nests. In 1719 a French scientist, René Réaumur, watched these wasps. He wrote that people could learn to make paper from wood, as wasps do. About 120 years later, people did.
 - e.g. Wool from sheep, silk from silkworms, honey and wax from bees.
-- e.g. Lac from lac insects makes the shiny red lac bangles of Rajasthan.
+- e.g. Lac from lac insects makes the bright lac bangles of Rajasthan.
 - e.g. A weaver bird weaves its nest from strips of grass.
 ### Plants are built of a material called cellulose · *defined*
-**Definition:** Cellulose is the stuff that plant walls are made of. Wood, cotton, jute, coir and paper are mostly cellulose.
+**Definition:** Cellulose is the material that the walls of plant cells are made of. Wood, cotton, jute, coir and paper are mostly cellulose.
 
-Every plant is made of tiny boxes called cells. The walls of these cells are made of cellulose. It is made of long chains of sugar joined end to end. Cotton is almost pure cellulose. Wood is cellulose glued together with another plant stuff. Scientists think there is more cellulose on Earth than any other material made by living things. When you make paper in this unit, you are tangling cellulose fibres into a mat.
+Every plant is made of tiny boxes called cells. The walls of these cells are made of cellulose. It is made of long chains of sugar joined end to end. Cotton is almost pure cellulose. Wood is cellulose fibres glued together by another plant material, called lignin. Scientists think cellulose is the most common material made by living things on Earth. When you make paper in this unit, you are tangling cellulose fibres into a mat.
 - e.g. Cotton fluff is nearly pure cellulose.
 - e.g. Paper is a mat of cellulose fibres pressed flat.
 - e.g. Cows can digest grass because tiny living things in their stomach break cellulose down.
 ### Materials from deep in the ground: metals, sand, clay and oil · *defined*
 **Definition:** Metals come from ores, rocks with metal inside. Glass comes from sand. Bricks and pots come from clay. Most plastic comes from petroleum and natural gas.
 
-Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Clay is soil made of very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So plastic is made from living things that died long before the dinosaurs.
-- e.g. Bauxite, a reddish ore from Odisha and other states, gives aluminium for pressure cookers.
+Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Most steel is iron with a little carbon. A steel tumbler or spoon is stainless steel, which also has chromium mixed in, so it does not rust. Clay is soil made of very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So most plastic is made from living things that died millions of years ago.
+- e.g. Bauxite, a reddish ore from Odisha and other states, gives aluminium for pressure cookers and foil.
 - e.g. Sand from riverbeds and quarries is melted into glass.
 - e.g. A plastic bucket started as oil pumped up from deep underground or under the sea.
+- e.g. A 'tin' can is mostly steel, with a very thin coat of tin to stop it rusting.
 ### The first made materials that copied nature · *defined*
 **Definition:** Some made materials were invented to copy natural ones, or to take their place. Often they are made by chemistry, so they are called synthetic.
 
@@ -107,15 +108,15 @@ In 1862 Alexander Parkes, in England, made one of the first plastics from cotton
 ### Blue from a plant, blue from a factory: the story of indigo · *defined*
 **Definition:** Indigo is a blue dye. It used to come only from plants. Since 1897 it has also been made in factories, and the factory indigo is the very same substance.
 
-For thousands of years, India was famous for indigo. It was made from the leaves of the indigo plant. In the 1800s, British planters forced many farmers in Bengal and Bihar to grow indigo instead of food. The farmers were paid very little. In 1859 and 1860, indigo farmers in Bengal rose up against the planters. In 1878 a German chemist, Adolf von Baeyer, worked out how to make indigo from chemicals. In 1897 a German company began selling factory indigo. It was cheaper, so plant indigo collapsed. In 1917, a farmer called Rajkumar Shukla persuaded Gandhi to come to Champaran in Bihar. He came to support the indigo farmers. Today almost all the blue in jeans is factory indigo.
+For thousands of years, India was famous for indigo. It was made from the leaves of the indigo plant. In the 1800s, British planters forced many farmers in Bengal and Bihar to grow indigo instead of food. The farmers were paid very little. In 1859 and 1860, indigo farmers in Bengal rose up against the planters. In 1878 a German chemist, Adolf von Baeyer, worked out how to make indigo from chemicals. In 1897 a German company began selling factory indigo. It was cheaper, so the trade in plant indigo fell sharply. In 1917, a farmer called Rajkumar Shukla persuaded Gandhi to come to Champaran in Bihar. He came to support the indigo farmers. Today almost all the blue in jeans is factory indigo.
 - e.g. Blue jeans are dyed with indigo.
 - e.g. Some craftspeople in India still dye with plant indigo.
 ### Zoom in: the same tiny bricks build everything · *defined*
 **Definition:** Everything, natural or made, is built from atoms. There are about 90 kinds of atom found in nature, called elements.
 
-Imagine a box of building blocks with about 90 colours. With them you can build anything at all. Atoms work like that. Wood, cotton, sugar and plastic are all made mostly of just three elements: carbon, hydrogen and oxygen. They are different because the atoms are joined in different patterns. A diamond and the grey in your pencil are both pure carbon, joined in different ways. When people make a material, they never make new atoms. They only move atoms around and join them in new ways.
-- e.g. A wooden spoon and a plastic spoon are both mostly carbon, hydrogen and oxygen.
-- e.g. Diamond and pencil graphite are both pure carbon.
+Imagine a box of building blocks with about 90 colours. With them you can build anything at all. Atoms work like that. Wood, cotton and sugar are made mostly of three elements: carbon, hydrogen and oxygen. Most plastics are made mostly of carbon and hydrogen. Things are different because their atoms are joined in different patterns. A diamond and the graphite in your pencil are both carbon, joined in different ways. When people make a material in a kitchen or a factory, they never make new atoms. They only move atoms around and join them in new ways.
+- e.g. A wooden spoon and a plastic spoon are both made mostly of carbon and hydrogen. The wood also has a lot of oxygen.
+- e.g. Diamond and graphite are both made of carbon atoms, joined in different patterns.
 - e.g. Water is two hydrogen atoms joined to one oxygen atom.
 ### Where atoms come from: made in stars · *debated*
 Scientists agree on most of this story. Right after the universe began, there was almost only hydrogen and helium, the two lightest elements. Stars are giant furnaces. Inside them, light atoms are squeezed together into heavier ones, like carbon, oxygen and iron. When big stars die, they blow these atoms out into space. New stars and planets, like our Sun and Earth, form from that dust. So the iron in your spoon was made in a star. The open question is about the heaviest atoms, like gold.
@@ -127,22 +128,26 @@ Scientists agree on most of this story. Right after the universe began, there wa
 ### Hidden hands: the people inside our things · *defined*
 **Definition:** Every made thing passes through many people's hands, from the field or the mine to the shop.
 
-Think of a cotton kurta. A farmer grew the cotton, often in great heat. Pickers picked it by hand. Workers in a mill cleaned and spun it. A weaver wove it. A tailor stitched it. Drivers carried it at every step. Most of these people are never named. Some were paid very little. Long ago, the cloth of Bengal, called Dhaka muslin, was so fine it was famous across the world. It was spun by hand from a special cotton plant. The skill was lost in the 1800s. Today people in Bangladesh are trying to bring it back. In 1930 Gandhi asked Indians to spin their own thread on a charkha. He said it showed that people could make their own things.
+Think of a cotton kurta. A farmer grew the cotton, often in great heat. Pickers picked it by hand. Workers in a mill cleaned and spun it. A weaver wove it. A tailor stitched it. Drivers carried it at every step. Most of these people are never named. Some were paid very little. Long ago, the cloth of Bengal, called Dhaka muslin, was so fine it was famous across the world. It was spun by hand from a special cotton plant. The skill was lost in the 1800s. Today people in Bangladesh are trying to bring it back. From the 1920s, Gandhi asked Indians to spin their own thread on a charkha and wear khadi. He said it showed that people could make their own things.
 - e.g. A steel spoon passed through the hands of miners, furnace workers and factory workers.
 - e.g. Recycled paper and plastic in India are often collected by kabadiwalas and waste pickers, many of them women.
 ### People are now changing the Earth's materials · *debated*
 In 2020, scientists in Israel added up the weight of everything people have made. That means buildings, roads, machines and plastic. They found it now weighs about as much as all the living things on Earth put together. In 1900 it weighed only about 3 parts for every 100 parts of living things. Scientists have also found a new kind of rock on a beach in Hawaii, made of melted plastic, sand and stones. So some scientists asked: should we name a new age of the Earth after people?
 - e.g. New rocks of melted plastic and stone, called plastiglomerate, were described in 2014.
-- e.g. Concrete is the made material people use most, after water.
+- e.g. Concrete is the made material people use most. Only water is used more.
 - **Many scientists:** People now change the Earth so much that we live in a new age. Some call it the Anthropocene, which means 'the age of humans'.
 - **The scientists who officially name Earth's ages, in 2024:** They voted not to name the Anthropocene as an official age, for now. Some said the start date was not clear. Others said the idea is still useful, even if it is not official.
 
 ## Mostly agreed
 - Every material comes from a source on Earth: plants, animals, the ground, the sea or the air. *How we know:* Every material we know can be traced back to one of these. People have followed these journeys in mines, fields and factories for thousands of years.
 - Made things are made from natural raw materials, changed by people. *How we know:* You can watch it happen. Clay becomes a pot in a kiln. Cotton becomes thread on a charkha. Old paper becomes new paper in your own kitchen.
-- People do not make new atoms when they make materials. They join atoms in new ways. *How we know:* Chemists have weighed what goes into and comes out of their work for over 200 years. The French chemist Antoine Lavoisier, helped by Marie-Anne Paulze Lavoisier, showed in the 1700s that nothing is lost or created, only changed.
-- A made substance can be exactly the same as a natural one. *How we know:* Factory indigo and plant indigo give the same results in every chemical test. Lab-grown diamonds and mined diamonds are both pure carbon in the same pattern.
-- The atoms in everything around us were made in stars, except for most of the hydrogen. *How we know:* Telescopes split the light of stars into colours, and each element leaves its own pattern of colours. These show which atoms stars hold, and how stars make them.
+- In everyday making, like cooking, melting and mixing, people do not make new atoms. They join atoms in new ways. *How we know:* Chemists have weighed what goes into and comes out of their work for over 200 years. In the 1770s and 1780s the French chemist Antoine Lavoisier, helped by Marie-Anne Paulze Lavoisier, showed that in a chemical change the total weight stays the same.
+- A made substance can be exactly the same as a natural one. *How we know:* Chemists have shown that factory indigo and plant indigo are the very same substance, built from the same atoms in the same pattern. Lab-grown and mined diamonds are both carbon atoms in the same pattern.
+- Apart from hydrogen and most of the helium, the atoms around us were made in stars. *How we know:* Telescopes split the light of stars into colours, and each element leaves its own pattern of colours. These patterns show which atoms each star holds. Old stars have fewer heavy atoms than young stars, which shows that heavy atoms have built up over time.
+
+## How we found out
+**Antoine Lavoisier, 1768 to 1770.** For a long time, many people believed that water could slowly turn into earth. When water was boiled for many days in a glass pot, a little white powder appeared at the bottom. Where else could it come from? In 1768, a young French chemist, Antoine Lavoisier, decided to test the idea by weighing. He used a closed glass vessel called a pelican. He weighed it empty, then filled it with very pure water and sealed it. Then he kept the water hot, just below boiling, for 101 days. The powder did appear. But when he weighed everything again, the total weight had not changed. The empty vessel was now lighter, by about the weight of the powder. So the powder had not been made from water. It was glass, slowly worn away from the inside of the vessel. He reported this in 1770. Nothing new had been made. The material had only moved from one place to another.  
+*What people believed before:* Water can be turned into earth by boiling it for a long time. Lavoisier's weighing showed that the powder came from the glass vessel, not from the water.
 
 ## Challenging perspectives
 - **Natural things are always safe and good. Made things are always harmful.** (A common belief, often used in adverts; *rejected*)  
@@ -151,9 +156,9 @@ In 2020, scientists in Israel added up the weight of everything people have made
 - **Plastic is completely unnatural. It has nothing to do with nature.** (A common way of thinking; *rejected*)  
   For: Plastic is made in factories, by people, through chemistry. Nothing like most plastics is found in nature.  
   Against: Plastic is made from petroleum and natural gas. These formed from tiny living things in ancient seas. So plastic is made by people, but from a natural raw material. Its atoms are ordinary carbon and hydrogen.
-- **Cotton cloth was first made in Europe or China.** (Some older history books written outside India; *rejected*)  
+- **Cotton cloth was first made in England, where the big cotton mills were.** (A common guess, because England's cotton mills were so famous; *rejected*)  
   For: Europe and China had great cloth-makers. England's mills made huge amounts of cotton cloth in the 1800s.  
-  Against: The oldest cotton threads found anywhere were found at Mehrgarh, in present-day Pakistan, wound around a copper bead about 8,000 years old. Cotton cloth was made in the Indus Valley more than 4,000 years ago. For centuries, the finest cotton cloth in the world came from India.
+  Against: Some of the oldest cotton ever found comes from Mehrgarh, in present-day Pakistan. Cotton fibres were preserved inside a copper bead more than 7,000 years old. Cotton cloth was made in the Indus Valley more than 4,000 years ago. For centuries, the finest cotton cloth in the world came from India.
 - **A diamond made in a laboratory is a fake diamond.** (Some jewellery sellers and many shoppers; *rejected*)  
   For: Mined diamonds took millions or billions of years to form deep in the Earth. Lab diamonds take only weeks.  
   Against: A lab diamond is made of carbon atoms in exactly the same pattern as a mined diamond. Experts need special machines to tell them apart. It is a real diamond that was made by people. A fake would be glass or another stone pretending to be a diamond.
@@ -164,12 +169,35 @@ In 2020, scientists in Israel added up the weight of everything people have made
   For: People change the Earth far more than any other animal. Cities, plastic and new rocks look very different from forests.  
   Against: People are living things, made of the same atoms as every other living thing. We breathe, eat and die like other animals. Many Adivasi and other traditions have long said that people belong to nature, not outside it. Scientists and philosophers still argue about how best to say this.
 
+## Roots
+We have been learning where every material comes from, and how people change natural materials. Now we ask what that tells us about ourselves and the world.
+
+**Deep truth.** Follow any made thing backwards, and you always reach something nature made. The salt left on your plate in the salt experiment was already in the water. People never make a material from nothing. They take apart, mix, heat and rearrange what the Earth already holds.  
+*Habit it breaks:* We say people 'make' paper, plastic or salt, as if they made the material itself. But making is always changing something that was already there. 'Made by people' tells us what people did, not where the material began.  
+*Evidence:* In the salt experiment, salt appeared only because the water left. In the Journey Backwards, every chain ended at something nature made. In the paper experiment, old paper became new paper.
+
+- *who am i:* Your body is built from atoms in the food you eat. Those atoms were made inside stars, long ago.
+- *what is life:* Living things are makers too. Silkworms make silk, bees make wax and paper wasps make paper.
+- *what is this world:* A world where nothing is made from nothing. Every made thing is the Earth's material, changed by someone's work.
+
+A steel spoon, a plastic bucket and a mango look as if they have nothing in common. Follow each one back, and they all lead to the same few kinds of atoms, made in stars. DeepKids believes that everything comes from one source. This unit's science gives a small picture of that: a few kinds of atom take the form of salt, clay, silk and you. When people make things, the same atoms simply take one more form.
+
+- **Mundaka Upanishad 1.1.7:** A spider spins its thread out of itself. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source. (In this unit, silk comes out of the silkworm, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper. You can see the cloud, the rain and the tree in it. Take them away, and there is no paper. (In the paper experiment, you saw plant fibres at the torn edge of paper. Those fibres grew in a tree that needed rain and sun. So the paper really does carry the tree, the rain and the sun in its story.)
+- Science (settled): When people cook, melt or mix materials, no atoms are made or lost. They are only rearranged.
+- Science (settled): Almost every atom in your body, apart from hydrogen, was made inside a star.
+- Other view, The Charvaka school of India: Charvaka taught that everything is made of four elements: earth, water, fire and air. Even awareness comes from them, and it ends when the body ends.
+- Practice, Look deeply (3 min): Let's pick up one thing near us, maybe a sheet of paper or a cotton cloth. Hold it and look at it quietly for a minute. Now let's close our eyes and picture where it came from. A tree, or a cotton plant. The rain that fed it. The sun. The people who made it. Breathe slowly. Open your eyes. Is it still just paper?
+- Ask: If people only change what the Earth gives, is anything really unnatural?
+- Ask: When people make a material, what exactly do they make?
+- Ask: The atoms in your body were made in stars. In what way are you part of the stars' story?
+
 ## Deep and big questions
 - *deep:* Is there anything in your home that did not come from the Earth? (hint: Trace the strangest thing you can find back to its source. Where do you end up?)
 - *big:* If every made thing is made from natural things, is anything really unnatural? (hint: Is a bird's nest natural? Is a house? What is the difference?)
 - *deep:* The atoms in your body were made in stars. Does that make you a little bit of a star? (hint: Your iron, your carbon and your oxygen were all made in stars long ago.)
 - *big:* Who owns the sea's salt, the river's sand, or the iron in a hill? (hint: Think of the people who live near them, the people who dig them, and the people who sell them.)
-- *deep:* When people make a material, they never make new atoms. So what exactly do they make? (hint: Think of building blocks. Is a tower made of something new, or of the same blocks in a new pattern?)
+- *deep:* When people make a material, they make no new atoms. So what exactly do they make? (hint: Think of building blocks. Is a tower made of something new, or of the same blocks in a new pattern?)
 - *big:* Your kurta passed through many hands before it reached you. Should we know their names? (hint: Who grew it, spun it, wove it and stitched it?)
 - *big:* Is a made copy of a natural thing worth less than the natural one? (hint: Think of factory indigo, a lab diamond, or a photo of a painting.)
 - *deep:* Animals like wasps and silkworms make materials. What else might we learn from them? (hint: Wasps were making paper long before people learned to make it from wood.)
@@ -222,7 +250,7 @@ Kashi set out a plate of her own, on the flat stone by their door. All day she w
 
 She did not sell it. She gave a pinch to everyone who passed.
 
-**For the parent:** For the parent: the turn of the story is Kashi's discovery that salt is a natural material. People do not make it. The sea already holds it, and the sun takes away the water, leaving the salt behind. People only collect it. This is the heart of the unit: made things are natural things that people collect and change, and nobody makes stuff from nothing. The story also asks who can own a natural material, and shows the many ordinary people, many of them women, who made salt in 1930.
+**For the parent:** For the parent: the turn of the story is Kashi's discovery that salt is a natural material. People do not make it. The sea already holds it, and the sun takes away the water, leaving the salt behind. People only collect it. This is the heart of the unit: made things are natural things that people collect and change, and nobody makes a material from nothing. The story also asks who can own a natural material, and shows the many ordinary people, many of them women, who made salt in 1930.
 
 - Ask: At first, where did Kashi think salt came from? What did she find out at the stone hollow?
 - Ask: Where was the salt before it appeared on the rim of the hollow?
@@ -232,7 +260,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 
 ## Games
 ### g1 · Back to the Earth: a card game of journeys (20 min)
-- **rules:** Cut out all the cards. Put the 6 HOW cards face up in the middle.; Shuffle the 36 journey cards. Deal 5 to each player. Put the rest face down as a pile.; On your turn, ask one player for a card you need. For example: 'Do you have the RAW card for the glass bangle?'; If they have it, they give it to you. If not, they say 'Dig!' and you take a card from the pile.; When you have a full set of three, lay it down in order: source, raw, made. Read the journey out loud.; Then take the HOW card that fits your journey, and say how people change the raw material. A correct HOW wins 1 extra point.; A full set is worth 3 points. When the pile runs out, the player with the most points wins.
+- **rules:** Cut out all the cards. Put the 6 HOW cards face up in the middle.; Shuffle the 36 journey cards. Deal 5 to each player. Put the rest face down as a pile.; On your turn, ask one player for a card you need. For example: 'Do you have the RAW card for the glass bangle?'; If they have it, they give it to you. If not, they say 'Dig!' and you take a card from the pile.; When you have a full set of three, lay it down in order: source, raw, made. Read the journey out loud.; Then point to the HOW card that fits your journey, and say how people change the raw material. A correct HOW wins 1 extra point.; A full set is worth 3 points. When the pile runs out, the player with the most points wins.
 - **Printable cards: 36 journey cards to cut out: 12 sets of 3 (source, raw material, made thing):** SOURCE: cotton plant; RAW: cotton fluff; MADE: cotton kurta; SOURCE: sheep; RAW: wool; MADE: woollen sweater; SOURCE: silkworm; RAW: silk cocoon; MADE: silk sari; SOURCE: tree; RAW: wood pulp; MADE: notebook; SOURCE: rubber tree; RAW: milky latex sap; MADE: rubber chappal; SOURCE: coconut palm; RAW: coir fibre from the husk; MADE: coir doormat; SOURCE: riverbed; RAW: sand; MADE: glass bangle; SOURCE: field; RAW: clay; MADE: matka; SOURCE: iron mine; RAW: iron ore; MADE: steel tumbler; SOURCE: oil well; RAW: petroleum; MADE: plastic bucket; SOURCE: the sea; RAW: sea water; MADE: packet of salt; SOURCE: beehive; RAW: beeswax; MADE: wax candle
 - **Printable cards: 6 HOW cards:** HOW: spin and weave; HOW: melt in a furnace; HOW: bake in a kiln; HOW: dry in the sun; HOW: mash and press flat; HOW: heat and mould
 - **Printable score sheet: Journey sheet:** Player; Sets collected; HOW cards used; Total points
@@ -250,7 +278,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent says:* When you lay down a set, tell us the whole journey. Then tell us how people changed the raw material.  
   *Child mode:* Ask for the cards you need. Got all three? Lay them down. Read the journey out loud. Then pick the HOW card.
   - Ask: Which journeys start with a living thing? (good: Cotton, wool, silk, wood, rubber, coconut and beeswax.; The plant and animal ones.)
-  - Note: Good HOWs: cotton, wool and silk are spun and woven. Wood pulp is mashed and pressed flat into paper. Sand is melted in a furnace into glass. Iron ore is melted in a furnace to get iron. Clay is baked in a kiln. Sea water is dried in the sun. Latex and petroleum are heated and moulded. Wax is melted and moulded too. Accept a good reason even if it is not on a card.
+  - Note: Good HOWs: cotton, wool and silk are spun and woven. Wood pulp is mashed and pressed flat into paper. Sand is melted in a furnace into glass. Iron ore is melted in a furnace to get iron, and the iron is made into steel. Clay is baked in a kiln. Sea water is dried in the sun. Latex and petroleum are heated and moulded. Wax is melted and moulded too. Accept a good reason even if it is not on a card.
 - **s4 (4 min)**  
   *Parent does:* Count the points. Then lay all the sets out together and sort them into three groups: from plants, from animals, from the ground or sea.  
   *Parent says:* Look at all the journeys. Which ones began with a plant? Which with an animal? Which with the ground or the sea? Was there any journey that did not start in nature?  
@@ -284,8 +312,8 @@ She did not sell it. She gave a pinch to everyone who passed.
 
 ## Experiments
 ### e1 · Make New Paper from Old Paper (45 min, 2 days)
-- **question:** Can we make new paper from old paper? Does adding plant bits, like dried grass or petals, change the new paper?
-- **predict:** Guess first. Will the mashed newspaper hold together as a sheet? Which sheet will look and feel most different: plain, with dried grass, or with flower petals?
+- **question:** Can we make new paper from old paper? Does adding pieces of plants, like dried grass or petals, change the new paper?
+- **predict:** Guess first. Will the mashed newspaper hold together as a sheet? Which sheet will look and feel most different: plain, with dried grass, or with flower petals? Why do you think so?
 - **fair test:** To make it fair, use the same amount of mashed paper for each sheet, and the same frame. Press each sheet the same way and dry them in the same place. Change only what you add: nothing, dried grass or petals.
 - **safety:** A grown-up uses the mixer. Do this on a floor or table covered with newspaper, because it gets wet.
 - **record:** Fill in the table. Stick a small piece of each new sheet beside it.
@@ -319,12 +347,12 @@ She did not sell it. She gave a pinch to everyone who passed.
   - Think: Long ago, people made paper from old rags, rice straw and bark. What else around your home could you make paper from?
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Before we finish, tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: We can make new paper from old paper. What I saw: The mashed pulp dried into a sheet. The grass and petals showed up in it. Why: Paper is made of plant fibres. When we mash it, the fibres come apart. When we press and dry them, they tangle together again.
 ### e2 · Salt from the Sea, Like Kashi (25 min, 4 days)
 - **question:** Does the sun get the salt out of salty water faster than the shade does? Does it change how much salt we get?
-- **predict:** Guess first. Which plate will dry first, the one in the sun or the one in the shade? Will the two plates give the same amount of salt?
+- **predict:** Guess first. Which plate will dry first, the one in the sun or the one in the shade? Will the two plates give the same amount of salt? Why do you think so?
 - **fair test:** To make it fair, use two plates that are the same. Put the same amount of the same salty water on each. Change only one thing: one plate is in the sun, one is in the shade.
 - **safety:** If you collect sea water, go with a grown-up and stay out of deep water. Do not eat salt from sea water, because it may be dirty.
 - **record:** Fill in the table. Draw what the salt crystals looked like under the magnifier.
@@ -334,7 +362,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent does:* 1. Stir 1 level teaspoon of salt into 1 cup of water until you cannot see it any more. 2. Taste one drop from your fingertip. 3. If you live near the sea, a grown-up can bring a cup of real sea water instead.  
   *Parent says:* Where did the salt go? It has not vanished. It is still there, hidden in the water, like sugar in tea. Sea water is like this. It has salt hidden in it.  
   *Child mode:* Stir a spoon of salt into a cup of water. Where did it go? Taste one drop. It is still there, hidden!
-  - Ask: Where did the salt go? (good: It is still in the water.; It broke into tiny bits too small to see.)
+  - Ask: Where did the salt go? (good: It is still in the water.; It broke up into pieces far too small to see.)
 - **s2 (5 min)**  
   *Parent does:* 1. Pour half the cup onto each plate. 2. Put one plate in a sunny place and one in a shady place indoors. 3. Write the date and time.  
   *Parent says:* We are doing what salt makers do in salt pans. The only thing we change is the sun.  
@@ -344,28 +372,28 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent does:* Each day, look at both plates. Write down when each one is completely dry.  
   *Parent says:* Which plate is drying faster? Where is the water going?  
   *Child mode:* Check your plates every day. Which one dries first? Where is the water going?
-  - Check: Where does the water go as the plate dries? → **Into the air, as tiny bits we cannot see**
+  - Check: Where does the water go as the plate dries? → **Into the air, as water vapour we cannot see**
   - Wait: Check both plates each day for up to 3 days.
 - **s4 (6 min)**  
   *Parent does:* 1. When both plates are dry, look at the white crust with a magnifier. 2. Scrape the salt from each plate into a separate heap with a teaspoon. 3. Compare the two heaps.  
   *Parent says:* Look at the shapes. Salt grows in tiny cubes, like little dice. Which plate gave more salt?  
   *Child mode:* Look at the salt with a magnifier. Do you see tiny cubes? Scrape it up. Which plate gave more?
-  - Note: Both plates should give about the same amount of salt, because each had the same amount of salt hidden in it. The sun only makes the water leave faster. Some salt sticks to the plate, so the heaps may be a little different. Slower drying in the shade often grows bigger, neater cubes.
+  - Note: Both plates should give about the same amount of salt, because each had the same amount of salt hidden in it. The sun only makes the water leave faster. Each plate gives only about half a teaspoon of salt, so scrape carefully. Some salt sticks to the plate, so the heaps may be a little different. Slower drying in the shade often grows bigger, neater cubes.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Before we finish, tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: The sun gets salt out of water faster, but it does not make more salt. What I saw: The sunny plate dried in 1 day and the shady plate took 3 days. Both gave about the same heap of salt. Why: The salt was already hidden in the water. The sun only took the water away into the air. People do not make salt. They collect it.
-### e3 · Colours from the Kitchen (40 min, 2 days)
+### e3 · Colours from the Kitchen (45 min, 2 days)
 - **question:** Which kitchen plant gives the strongest colour to cotton cloth? Which colour stays best after washing?
-- **predict:** Guess first. Turmeric, beetroot, onion skins or tea: which will give the brightest colour? Which will wash out most?
+- **predict:** Guess first. Turmeric, beetroot, onion skins or tea: which will give the brightest colour? Which will wash out most? Why do you think so?
 - **fair test:** To make it fair, use pieces of the same white cotton cloth, all the same size. Soak each in its dye for the same time, 30 minutes. Wash them all the same way, with the same soap. Change only the dye.
 - **safety:** A grown-up does all the boiling and pours the hot dye. Turmeric and beetroot stain hands and clothes, so wear old clothes.
 - **record:** Fill in the table. Stick a small piece of each cloth, before and after washing, beside the table.
 - **results table:** Dye | Colour after dyeing | Colour after washing | Did it stay? (well, a little, or washed out)
-- **schedule:** day 1: Make four dyes, soak the cloths for 30 minutes, then hang them to dry. (30 min); day 2: Wash half of each cloth, dry it, and compare the colours. (10 min)
-- **s1 (12 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up boils each plant material in 2 cups of water for 10 minutes: the turmeric, the grated beetroot, the onion skins, and the tea. 2. Pour each coloured water into its own bowl. 3. Let it cool until it is just warm.  
+- **schedule:** day 1: Make four dyes, soak the cloths for 30 minutes, then hang them to dry. (35 min); day 2: Wash half of each cloth, dry it, and compare the colours. (10 min)
+- **s1 (20 min) · grown-up needed**  
+  *Parent does:* 1. A grown-up boils each plant material in 2 cups of water for 10 minutes. The four are the turmeric, the grated beetroot, the onion skins and the tea. Use two pans at once, so it takes two rounds. 2. Pour each coloured water into its own bowl. 3. Let it cool until it is just warm.  
   *Parent says:* The colour is hidden inside the plant. Hot water pulls it out. Before 1856, every colour on every sari in the world came from plants, animals or rocks like these.  
   *Child mode:* Ask a grown-up to boil each plant in water. Watch the water change colour. The colour came out of the plant!
   - Ask: Which water turned the darkest colour? (good: The beetroot, deep pink.; The onion skins, orange-brown.; The turmeric, bright yellow.)
@@ -388,12 +416,12 @@ She did not sell it. She gave a pinch to everyone who passed.
   - Think: In 1856 a teenager in England, William Perkin, made the first dye from chemicals, a bright purple. Was his dye natural or made?
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Before we finish, tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: Plants can give strong colours to cotton, but some colours wash out. What I saw: The onion skin cloth stayed orange-brown after washing. The beetroot cloth went pale pink. Why: The colour was hidden inside the plants. Hot water pulled it out, and it soaked into the cotton. Some colours hold on to cotton better than others.
 ### e4 · Turn Milk into Plastic (30 min, 2 days)
 - **question:** Can we make a plastic from milk? How much vinegar makes the most milk plastic?
-- **predict:** Guess first. What will happen when we add vinegar to hot milk? Will more vinegar make more lumps?
+- **predict:** Guess first. What will happen when we add vinegar to hot milk? Will more vinegar make more lumps? Why do you think so?
 - **fair test:** To make it fair, use the same amount of the same milk each time, 1 cup, heated to the same warmth. Stir the same way for the same time. Change only the vinegar: 1, 2 or 4 teaspoons.
 - **safety:** A grown-up heats the milk until it is hot but not boiling, and pours it. Do not eat the milk plastic.
 - **record:** Fill in the table. Keep your best milk plastic shape.
@@ -423,8 +451,8 @@ She did not sell it. She gave a pinch to everyone who passed.
   - Wait: Leave the shapes to dry for 2 days.
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Before we finish, tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: We can make a plastic from milk, and more vinegar made more lumps, up to a point. What I saw: 1 teaspoon gave a few lumps. 4 teaspoons gave the most. The shapes went hard after 2 days. Why: Milk has a natural material called casein hidden in it. Vinegar made it come out in lumps. When it dried, it set hard, like plastic.
 
 ## Activities
@@ -435,12 +463,12 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent does:* 1. Put a steel spoon, a cotton hanky and a plastic comb on the table. 2. Pick up the spoon and ask the two detective questions.  
   *Parent says:* Two detective questions. What is it made of? And where was that, before it was this?  
   *Child mode:* Pick up the spoon. Ask it: what are you made of? Where were you before?
-  - Ask: What is the spoon made of? (good: Steel.; Metal.)
+  - Ask: What is the spoon made of? (good: Stainless steel, which is iron mixed with chromium.; Metal.)
 - **s2 (12 min)**  
   *Parent does:* For each object, draw a chain of boxes from right to left. Start with the object on the right. Keep asking 'and before that?' until you reach nature. Draw a small picture in each box.  
   *Parent says:* The shop. Before the shop? A factory. Before the factory? Keep going until you reach something nature made.  
   *Child mode:* Draw the object in a box. Draw an arrow back. What was it before? Keep going until you reach nature.
-  - Note: Good chains. Steel spoon: shop, factory pressing steel sheets, steel made in a furnace from iron, iron ore dug from a mine in Odisha or Jharkhand, rock in the ground. Cotton hanky: shop, cloth weaving, thread spinning, cotton fluff, cotton plant in a field in Gujarat or Maharashtra, seed, soil, sun and rain. Plastic comb: shop, factory moulding plastic, plastic beads, chemicals made from petroleum, oil deep underground, tiny sea living things from millions of years ago.
+  - Note: Good chains. Steel spoon: shop, factory pressing steel sheets, stainless steel made in a furnace from iron and chromium, iron ore and chromium ore dug from mines in Odisha or Jharkhand, rock in the ground. Cotton hanky: shop, cloth weaving, thread spinning, cotton fluff, cotton plant in a field in Gujarat or Maharashtra, seed, soil, sun and rain. Plastic comb: shop, factory moulding plastic, plastic beads, chemicals made from petroleum, oil deep underground, tiny sea living things from millions of years ago.
   - Check: Follow a plastic comb backwards. Where does it end up? → **At oil deep underground, made from ancient sea life**
 - **s3 (4 min)**  
   *Parent does:* Put the three chains side by side and compare where each one ends.  
@@ -451,17 +479,17 @@ She did not sell it. She gave a pinch to everyone who passed.
 - **safety:** Walk with a grown-up. Do not pick up glass, sharp things, dirty wrappers or anything an animal has left. Wash hands afterwards.
 - **record:** Make a tally of how many things went in each heap. Draw a bar chart of the tally.
 - **s1 (12 min) · grown-up needed**  
-  *Parent does:* Walk around a garden, a park or your lane for 10 minutes. Collect about 15 small, clean things: leaves, stones, seeds, a feather, a bottle cap, a bit of string, a twig, a shell.  
+  *Parent does:* Walk around a garden, a park or your lane for 10 minutes. Collect about 15 small, clean things: leaves, stones, seeds, a feather, a bottle cap, a piece of string, a twig, a shell. If you cannot go out, collect things around your home. Try a dry leaf from a potted plant, a pebble from its pot, a peanut shell, a button and a cotton thread.  
   *Parent says:* Let's collect things nature made and things people made. Only clean things, and nothing sharp.  
   *Child mode:* Go on a walk with a grown-up. Collect 15 small, clean things. Nothing sharp!
 - **s2 (8 min)**  
   *Parent does:* 1. Lay out three dupattas: LIVING OR ONCE-LIVING (natural), NEVER LIVING (natural), MADE BY PEOPLE. 2. Your child sorts each thing and says why. 3. Make a tally of each heap.  
   *Parent says:* A leaf was once part of a living tree. A stone was never alive. A bottle cap was made by people. Where does each thing go?  
   *Child mode:* Make three heaps. Once-living natural things. Never-living natural things. Things made by people. Sort them and count.
-  - Note: Once-living: leaves, twigs, seeds, feathers, shells, flowers. Never-living: stones, sand, soil. Made by people: bottle caps, string, paper, bits of brick. A brick piece is made by people from clay. Cotton string is made by people from a once-living plant.
+  - Note: Once-living: leaves, twigs, seeds, feathers, shells, flowers. Never-living: stones, sand, soil. Made by people: bottle caps, string, paper, pieces of brick. A brick piece is made by people from clay. Cotton string is made by people from a once-living plant.
 - **s3 (5 min)**  
   *Parent does:* Look at the tricky things together, then draw a bar chart of the tally.  
-  *Parent says:* Which things were hard to sort? A bit of brick? A cotton string?  
+  *Parent says:* Which things were hard to sort? A piece of brick? A cotton string?  
   *Child mode:* Which thing was hardest to sort? Why? Now draw a bar for each heap.
   - Check: A piece of cotton string. Which heap? → **Made by people, from a once-living plant**
 ### a3 · The Grandparent Time Machine (20 min)
@@ -475,7 +503,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent does:* Your child asks a grandparent the three questions for each thing. You help write down the answers.  
   *Parent says:* Ask: What was it made of when you were small? Where did that material come from? Why do you think it changed?  
   *Child mode:* Ask your grandparent three questions. What was it made of then? Where did it come from? Why did it change?
-  - Note: Common answers. Buckets were brass, iron or aluminium. Plates were brass, bronze, steel or leaf plates called pattal. Bags were cloth or jute. Tea came in clay kulhads. Toys were wood, clay or cloth. Umbrellas were cloth on a cane or metal frame. Plastic became common in Indian homes from about the 1970s and 1980s.
+  - Note: Common answers. Buckets were brass, aluminium, or galvanised iron, which is steel coated with zinc. Plates were brass, bronze, steel or leaf plates called pattal. Bags were cloth or jute. Tea came in clay kulhads. Toys were wood, clay or cloth. Umbrellas were cloth on a cane or metal frame. Plastic became common in Indian homes from about the 1970s and 1980s.
 - **s3 (4 min)**  
   *Parent does:* Look at the table and talk about what changed.  
   *Parent says:* Which materials changed most? Were the old ones natural or made by people? Which could go back to the Earth more easily?  
@@ -493,7 +521,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent says:* Cotton grows a lot in Gujarat and Maharashtra. Where shall we stick it?  
   *Child mode:* Stick each material on its place on the map. Draw a little picture next to it.
   - Ask: Which part of India gives the most materials on your map? (good: The east, because of iron ore and jute.; The coasts, because of salt and coir.)
-  - Note: Cotton: Gujarat, Maharashtra and Telangana. Jute: West Bengal. Silk: Karnataka, and many other states. Muga, a golden silk, comes only from Assam. Rubber: Kerala, and also Tripura. Coir from coconut husks: Kerala and Tamil Nadu. Tea: Assam and West Bengal. Iron ore: Odisha, Jharkhand, Chhattisgarh and Karnataka. Bauxite for aluminium: Odisha. Salt: Gujarat, especially the Little Rann of Kutch, and Tamil Nadu. Marble: Makrana in Rajasthan, the marble of the Taj Mahal. Lac: Jharkhand.
+  - Note: Cotton: Gujarat, Maharashtra and Telangana. Jute: West Bengal. Silk: Karnataka, and many other states. Muga, a golden silk, comes almost only from Assam. Rubber: Kerala, and also Tripura. Coir from coconut husks: Kerala and Tamil Nadu. Tea: Assam and West Bengal. Iron ore: Odisha, Jharkhand, Chhattisgarh and Karnataka. Bauxite for aluminium: Odisha. Salt: Gujarat, especially the Little Rann of Kutch, and Tamil Nadu. Marble: Makrana in Rajasthan, the marble of the Taj Mahal. Lac: Jharkhand.
 - **s3 (5 min)**  
   *Parent does:* Pick one material and talk about the people who work with it there.  
   *Parent says:* Who do you think does the work in each of these places? Farmers, miners, salt makers, weavers?  
@@ -509,31 +537,31 @@ She did not sell it. She gave a pinch to everyone who passed.
   - Ask: What changed when you started twisting? (good: It got stronger.; It turned into a thread.; It stopped breaking.)
 - **s2 (10 min)**  
   *Parent does:* 1. Push the pencil through the middle of the disc to make a spindle. 2. Tie a short thread to the pencil and hook the cotton onto it. 3. Spin the pencil like a top while you pull the cotton out slowly. 4. Wind the new thread around the pencil.  
-  *Parent says:* This is how people spun thread for thousands of years. The disc keeps the spindle turning. In 1930 Gandhi asked Indians to spin their own thread, to make khadi cloth.  
+  *Parent says:* This is how people spun thread for thousands of years. The disc keeps the spindle turning. Gandhi asked Indians to spin their own thread, to make khadi cloth.  
   *Child mode:* Make a spindle from a pencil and a disc. Spin it like a top. Pull the cotton slowly. Wind up your thread.
   - Note: This is hard at first, so praise any thread at all. Short, lumpy thread is normal. Spinners practise for years to make fine, even thread.
   - Check: Is your cotton thread natural, or made by people? → **Made by people, from a natural plant fibre**
 - **s3 (4 min)**  
   *Parent does:* Measure your longest thread with a ruler. Tape it into the notebook.  
-  *Parent says:* How long is your thread? One sari needs hundreds of metres of thread.  
+  *Parent says:* How long is your thread? One cotton sari is woven from many kilometres of thread.  
   *Child mode:* Measure your thread with a ruler. Tape it in your notebook.
-  - Think: The fine Dhaka muslin of old Bengal was spun by hand, so thin it could pass through a ring. How many hours do you think it took?
+  - Think: The fine Dhaka muslin of old Bengal was spun by hand, so thin that people said a whole length could pass through a ring. How many hours do you think it took?
 ### a6 · Same Beads, Different Things (15 min)
 - **safety:** Keep small beads away from babies and toddlers, who might swallow them.
 - **record:** Draw two of your bead models and label the colours.
 - **s1 (5 min)**  
   *Parent does:* Sort the beads into three colours. Say what each colour stands for: black is carbon, white is hydrogen, red is oxygen.  
-  *Parent says:* Everything is made of tiny atoms. These beads are pretend atoms. Wood, cotton, sugar and plastic are made mostly from just these three kinds.  
+  *Parent says:* Everything is made of tiny atoms. These beads are pretend atoms. Wood, cotton and sugar are made mostly from these three kinds. Most plastics are made from just two of them.  
   *Child mode:* These beads are pretend atoms. Black is carbon. White is hydrogen. Red is oxygen.
 - **s2 (7 min)**  
-  *Parent does:* 1. Build a long chain of black beads, with two white beads on each black one. This stands for plastic, like a plastic bag. 2. Build little rings of black beads with red and white beads on them, joined in a chain. This stands for cellulose, the stuff of cotton and wood. 3. Build one red bead with two white beads. This is water.  
-  *Parent says:* Look. A plastic bag and a cotton hanky are made of almost the same atoms. Only the pattern is different.  
+  *Parent does:* 1. Build a long chain of black beads, with two white beads on each black one. This stands for plastic, like a plastic bag. 2. Build little rings of black beads with red and white beads on them, joined in a chain. This stands for cellulose, the material of cotton and wood. 3. Build one red bead with two white beads. This is water.  
+  *Parent says:* Look. A plastic bag and a cotton hanky use the same black and white atoms. The cotton also has red oxygen atoms. The patterns are different too.  
   *Child mode:* Build a long chain: one black, two whites, again and again. That is like plastic! Now build cotton with rings.
 - **s3 (3 min)**  
   *Parent does:* Mix all the beads up again and talk.  
   *Parent says:* When people make a material, they do not make new beads. They only join them in new patterns.  
-  *Child mode:* Break your models up. Could you build something new? People never make new atoms. They make new patterns.
-  - Check: A wooden spoon and a plastic spoon are both made mostly of… → **Carbon, hydrogen and oxygen atoms, in different patterns**
+  *Child mode:* Break your models up. Could you build something new? Making a thing does not make new atoms. It makes new patterns.
+  - Check: A wooden spoon and a plastic spoon are both made mostly of… → **Carbon and hydrogen atoms, with oxygen in the wood, in different patterns**
 ### a7 · We Are Stardust: Act It Out (15 min)
 - **safety:** Move slowly and clear the space of anything breakable.
 - **record:** Draw a comic strip in four boxes: star, explosion, Earth, spoon.
@@ -559,7 +587,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 - **schedule:** day 1: Dig soil, shake it in water in a bottle, and leave it to settle into layers. (20 min); day 2: Pour off the water, scoop out the fine clay, and strain and dry it to dough. (15 min); day 3: Knead the clay, shape a diya and weigh it wet. (15 min); day 4: Check that it is drying slowly in the shade. (2 min); day 5: Weigh the dry diya. Compare it with a kiln-baked diya. Drip water on both. (8 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. Dig 2 cups of soil. Pick out stones, roots and leaves. 2. Put half the soil into a tall clear bottle. Fill it nearly to the top with water. 3. Close it and shake hard for one minute. 4. Leave it still overnight. 5. Put the rest of the soil in a bucket of water, stir and leave it too.  
-  *Parent says:* Soil is a mix of many things. Water will sort it for us. The heavy bits sink first. The finest bits, the clay, sink last.  
+  *Parent says:* Soil is a mix of many things. Water will sort it for us. The big, heavy grains sink first. The finest grains, the clay, sink last.  
   *Child mode:* Dig some soil. Pick out stones and roots. Shake it in a bottle of water. Leave it still until tomorrow.
 - **s2 (15 min)**  
   *Parent does:* 1. Look at the bottle. Draw the layers you see. 2. In the bucket, gently pour off the clear water on top. 3. Scoop out the smooth top layer of mud, the clay. 4. Wrap it in a cloth and hang it up, or leave it on newspaper, until it is like soft dough.  
@@ -635,16 +663,16 @@ She did not sell it. She gave a pinch to everyone who passed.
 ### Material Detective (core) (core, 15 questions)
 1. (mcq) A steel tumbler. Which word names its material?  
    Options: Tumbler / Steel / Kitchen / Round  
-   **Answer:** Steel. *Why:* Steel is the stuff it is made of, so it is the material. 'Tumbler' is the object's name. Picking 'tumbler' usually means mixing up the object and the material. Ask: if you broke it into tiny bits, what would the bits be?
+   **Answer:** Steel. *Why:* Steel is what the tumbler is made of, so it is the material. 'Tumbler' is the object's name. Picking 'tumbler' usually means mixing up the object and the material. Ask: if you broke it into tiny pieces, what would the pieces be?
 2. (sort) Sort these. Natural, or made by people?  
    **Answer:** a pebble → Natural; a glass bangle → Made by people; a mango → Natural; a brick → Made by people; a crow's feather → Natural; a plastic bucket → Made by people; rainwater → Natural; a steel spoon → Made by people. *Why:* Nature made the pebble, the mango, the feather and the rain. People made the bangle, brick, bucket and spoon, from natural materials.
 3. (match) Match each material to its source.  
    **Answer:** Cotton → a plant; Wool → a sheep; Glass → sand; Salt → the sea; Iron → ore from a mine. *Why:* Every material comes from somewhere in nature: a plant, an animal, the ground or the sea.
 4. (mcq) Where does most plastic come from?  
    Options: From petroleum, an oil deep underground / From trees / From nothing: it is invented in factories / From sand  
-   **Answer:** From petroleum, an oil deep underground. *Why:* Most plastic is made from petroleum and natural gas, which formed from ancient sea life. Picking 'from nothing' usually means stopping the journey at the factory. Factories change materials. They never make stuff from nothing.
+   **Answer:** From petroleum, an oil deep underground. *Why:* Most plastic is made from petroleum and natural gas, which formed from ancient sea life. Picking 'from nothing' usually means stopping the journey at the factory. Factories change materials. They never make a material from nothing.
 5. (fill) A natural material before people change it is called a ____ material.  
-   **Answer:** ['raw']. *Why:* Raw materials are the starting stuff, like cotton fluff, clay or iron ore.
+   **Answer:** ['raw']. *Why:* Raw materials are what people start with, like cotton fluff, clay or iron ore.
 6. (truefalse) A natural thing can be living or non-living.  
    **Answer:** True. *Why:* True. A tree and a bird are natural and living. A rock and water are natural and non-living.
 7. (mcq) A wooden chair. Which is right?  
@@ -655,7 +683,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 9. (mcq) Which of these comes from an animal?  
    Options: Silk / Jute / Coir / Rubber  
    **Answer:** Silk. *Why:* Silk comes from the cocoon of a silkworm, a moth's caterpillar. Jute, coir and rubber all come from plants. Picking 'rubber' is a common mix-up, because rubber feels a bit like skin. It comes from the milky sap of a tree.
-10. (fill) Salt comes mostly from the ____.  
+10. (fill) Most of India's salt comes from the ____.  
    **Answer:** ['sea']. *Why:* Sea water has salt hidden in it. In salt pans, the sun dries the water away and the salt is left.
 11. (mcq) In the salt experiment, where did the salt come from?  
    Options: The sun made it / It was hidden in the water all along / The plate made it / It fell from the air  
@@ -672,7 +700,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 1. (order) Put the journey of a cotton kurta in order, from nature to you.  
    **Answer:** order shown. *Why:* Cotton grows on a plant. The fluff is picked, spun into thread, woven into cloth and stitched by a tailor.
 2. (order) Put the journey of a steel spoon in order, from nature to you.  
-   **Answer:** order shown. *Why:* The iron is in ore in the ground. Miners dig it out. A furnace melts out the iron, which becomes steel. A factory shapes the spoon.
+   **Answer:** order shown. *Why:* The iron is in ore in the ground. Miners dig it out. A furnace melts out the iron. The iron is made into steel, and for a steel spoon some chromium is mixed in so it does not rust. A factory shapes the spoon.
 3. (mcq) Paper wasps make their nests out of paper. What do they make it from?  
    Options: Chewed wood / Old newspapers / Mud / Spider silk  
    **Answer:** Chewed wood. *Why:* Paper wasps chew wood and mix it with their spit. It dries as paper. In 1719 René Réaumur watched them and said people could make paper from wood too. Picking 'old newspapers' is a fun guess, but wasps were making paper long before people had newspapers.
@@ -710,10 +738,10 @@ She did not sell it. She gave a pinch to everyone who passed.
    Options: Only people / Only the oyster / Both the oyster and people  
    **Answer:** Both the oyster and people. *Why:* The oyster made every layer of pearl, but people started it and looked after the oyster. So both played a part. Picking only one leaves out the other's part. This shows the line between natural and made is not always sharp.
 2. (mcq) A wooden spoon and a plastic spoon are both made mostly of which atoms?  
-   Options: Carbon, hydrogen and oxygen / Iron and gold / Wood atoms and plastic atoms / Salt and water  
-   **Answer:** Carbon, hydrogen and oxygen. *Why:* Wood and plastic are both built mostly from carbon and hydrogen, and wood has lots of oxygen too. Only the patterns differ. Picking 'wood atoms and plastic atoms' is very common. But no such atoms exist. Everything is made of the same 90 or so kinds.
-3. (truefalse) When people make a new material, they make new atoms.  
-   **Answer:** False. *Why:* False. People only join existing atoms in new patterns. New atoms are made only in places like the middle of stars.
+   Options: Carbon and hydrogen, with oxygen in the wood / Iron and gold / Wood atoms and plastic atoms / Salt and water  
+   **Answer:** Carbon and hydrogen, with oxygen in the wood. *Why:* Wood and plastic are both built mostly from carbon and hydrogen, and wood has lots of oxygen too. Only the patterns differ. Picking 'wood atoms and plastic atoms' is very common. But no such atoms exist. Everything is made of the same 90 or so kinds.
+3. (truefalse) When people cook, melt or mix materials, they make new atoms.  
+   **Answer:** False. *Why:* False. Cooking, melting and mixing only join existing atoms in new patterns. New atoms are made in stars, and in a few special machines like nuclear reactors, not in kitchens or factories.
 4. (mcq) Where were the iron atoms in a steel kadhai made?  
    Options: In the kadhai factory / In the mine / Inside stars, long before the Earth formed / In the furnace  
    **Answer:** Inside stars, long before the Earth formed. *Why:* Iron atoms were made inside stars. The Earth formed from dust that held them. Picking 'the furnace' or 'the mine' stops the journey too soon. The furnace melts iron out of ore, and the mine digs up the ore, but neither makes the atoms.
@@ -733,14 +761,14 @@ She did not sell it. She gave a pinch to everyone who passed.
 10. (mcq) A new kind of rock was found on a beach in Hawaii. What is it made of?  
    Options: Melted plastic mixed with sand and stones / Pure gold / Frozen sea water / Old bones  
    **Answer:** Melted plastic mixed with sand and stones. *Why:* Scientists described it in 2014 and called it plastiglomerate. Fires on the beach melted plastic onto sand, shells and stones. Picking 'frozen sea water' is a fun guess, but Hawaii's beaches are warm. The rock shows that made materials are now mixing into the Earth itself.
-11. (mcq) The oldest cotton threads ever found were found…  
-   Options: At Mehrgarh, in South Asia, about 8,000 years old / In a factory in England, 200 years ago / In the Arctic / On the Moon  
-   **Answer:** At Mehrgarh, in South Asia, about 8,000 years old. *Why:* Cotton threads wound around a copper bead were found at Mehrgarh, in present-day Pakistan. They are about 8,000 years old. Picking England is a common idea, because England's mills made huge amounts of cloth in the 1800s. But cotton cloth began in South Asia thousands of years earlier.
+11. (mcq) Some of the oldest cotton ever found, more than 7,000 years old, was found…  
+   Options: At Mehrgarh, in South Asia / In a factory in England, 200 years ago / In the Arctic / On the Moon  
+   **Answer:** At Mehrgarh, in South Asia. *Why:* Cotton fibres preserved inside a copper bead were found at Mehrgarh, in present-day Pakistan. They are more than 7,000 years old. Picking England is a common idea, because England's mills made huge amounts of cloth in the 1800s. But cotton cloth began in South Asia thousands of years earlier.
 12. (write) Kashi gave her salt away and did not sell it. Who do you think should own the salt in the sea? Give a reason.  
    **Answer:** Any thoughtful answer with a reason. For example: everyone, because nobody made it. Or: the people who live by the sea and do the work of collecting it.. *Why:* There is no single right answer. What counts is a clear reason.
 13. (write) Birds build nests and people build houses. Is a house natural or made by people? Is a nest? Explain your thinking.  
    **Answer:** A good answer might say: a nest is natural, because a bird built it from natural things. A house is made by people. But people are animals too, so perhaps a house is natural in a way. It depends on what we mean by 'natural'.. *Why:* There is no single right answer. Good answers give reasons for both sides.
-14. (write) Factory indigo was cheaper, so plant indigo stopped being grown. Was that good or bad for the farmers? Give one reason for each side.  
+14. (write) Factory indigo was cheaper, so plant indigo was hardly grown any more. Was that good or bad for the farmers? Give one reason for each side.  
    **Answer:** Good: farmers were no longer forced to grow indigo, and could grow food. Bad: people who earned money making plant indigo lost their work.. *Why:* A balanced answer gives a reason on each side.
 15. (write) Plan a test to find out whether a 'natural' cloth or a 'made' cloth dries faster. Say what you would change and what you would keep the same.  
    **Answer:** Take a cotton cloth and a polyester cloth of the same size. Wet them with the same amount of water. Hang them in the same place. Change only the cloth. Check every 10 minutes which is dry.. *Why:* A good test changes only one thing, the cloth, and keeps everything else the same. The unit on Testing materials goes further with fair tests.
@@ -753,7 +781,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 ## Quiz
 1. (mcq) A tumbler can be made of steel, glass or plastic. Steel, glass and plastic are…  
    Options: Objects / Materials / Sources / Atoms  
-   **Answer:** Materials. *Why:* They are materials, the stuff objects are made of. Picking 'objects' mixes up the thing and its stuff.
+   **Answer:** Materials. *Why:* They are materials, what objects are made of. Picking 'objects' mixes up the thing and what it is made of.
 2. (mcq) Where does wool come from?  
    Options: A sheep / A cotton plant / Oil / Sand  
    **Answer:** A sheep. *Why:* Wool is the coat of a sheep, cut and spun. Picking 'a cotton plant' mixes up two soft fibres. Cotton grows on plants, wool on animals.
@@ -839,7 +867,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 - Is a bird's nest natural? Is our house?
 - If you could make paper from anything, what would you try?
 - Where did the salt in this dal come from?
-- The iron in this kadhai was made in a star. Which star do you think it was?
+- The iron in this kadhai was made inside stars. How did it get from a star to our kitchen?
 - Which thing in your school bag had the longest journey?
 - What would Grandma's kitchen have been made of when she was your age?
 
@@ -876,11 +904,11 @@ She did not sell it. She gave a pinch to everyone who passed.
 - Why did the stardust smile? *It was finally down to Earth.*
 
 ## Connected maths
-- One litre of sea water has about 35 grams of salt hidden in it. A salt maker dries 4 litres in a pan. About how much salt does she get? **About 140 grams.**. Each litre gives 35 grams. 4 litres is 4 lots of 35 grams. 35 + 35 = 70. 70 + 70 = 140. So 4 × 35 = 140 grams. That is about as heavy as a small cup of salt. (queues `math.multiplication.equal-groups.L3`)
+- One litre of sea water has about 35 grams of salt hidden in it. A salt maker dries 4 litres in a pan. About how much salt does she get? **About 140 grams.**. Each litre gives 35 grams. 4 litres is 4 lots of 35 grams. 35 + 35 = 70. 70 + 70 = 140. So 4 × 35 = 140 grams. That is about half a cup of salt. (queues `math.multiplication.equal-groups.L3`)
 - On the Three-Heap Walk, Meena found 7 once-living things, 4 never-living things and 5 things made by people. Draw a bar chart. How many things did she find altogether? How many were natural? **16 things altogether. 11 were natural.**. Altogether: 7 + 4 + 5 = 16. The natural things are the once-living and the never-living ones: 7 + 4 = 11. The bar chart has three bars: 7, 4 and 5 tall. (queues `math.data.bar-charts.L3`)
 - Your wet clay diya weighed 120 grams. After 2 days of drying, it weighed 95 grams. How much water went into the air? **25 grams of water.**. The clay did not go anywhere. Only the water left. So the water is the difference: 120 − 95 = 25 grams. Check: 95 + 25 = 120. (queues `math.weight-capacity.weight.L3`)
 - Bakelite, the first plastic made completely from chemicals, was invented in 1907. Galalith, the milk plastic, was invented in 1897. How many years apart were they? How many years ago was Bakelite invented, if this year is 2026? **10 years apart. Bakelite was invented 119 years ago.**. 1907 − 1897 = 10 years. For the second part: 2026 − 1907. From 1907 to 2007 is 100 years. From 2007 to 2026 is 19 more. 100 + 19 = 119 years. (queues `math.addition-subtraction.word-problems.L3`)
-- You spun a cotton thread 10 centimetres long in 1 minute. If you kept spinning at the same speed, how long would your thread be after 5 minutes? After 10 minutes? **50 centimetres after 5 minutes. 100 centimetres, which is 1 metre, after 10 minutes.**. Each minute adds 10 cm. After 5 minutes: 5 × 10 = 50 cm. After 10 minutes: 10 × 10 = 100 cm. 100 cm is 1 metre. A sari needs hundreds of metres of thread, so hand spinning takes a very long time. (queues `math.multiplication.equal-groups.L3`)
+- You spun a cotton thread 10 centimetres long in 1 minute. If you kept spinning at the same speed, how long would your thread be after 5 minutes? After 10 minutes? **50 centimetres after 5 minutes. 100 centimetres, which is 1 metre, after 10 minutes.**. Each minute adds 10 cm. After 5 minutes: 5 × 10 = 50 cm. After 10 minutes: 10 × 10 = 100 cm. 100 cm is 1 metre. A cotton sari is woven from many kilometres of thread, so hand spinning takes a very long time. (queues `math.multiplication.equal-groups.L3`)
 
 ## Song
 What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
@@ -919,7 +947,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - What are the tiny hairs at the edge of torn paper? → Plant fibres.
 - Where were the iron atoms in a kadhai made? → Inside stars, long ago.
 - What is a raw material? → A natural material before people change it.
-- Which insect makes the stuff of lac bangles? → The lac insect.
+- Which insect makes the material of lac bangles? → The lac insect.
 
 ## Plan
 - Start options: story, e2, a1, big_questions, cards, g1, e1

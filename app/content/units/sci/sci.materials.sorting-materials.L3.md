@@ -1,9 +1,9 @@
-# Sorting materials: the rule you choose decides what you find
+# Sorting materials: how the rule you choose decides the groups
 `sci.materials.sorting-materials.L3`
 
-**Summary.** This unit is about sorting. Sorting means putting things into groups by a rule. A rule is a question, like 'Is it shiny?'. The same heap of things can be sorted in many ways, because each rule asks a different question. A brick lands in the hard group under one rule and in the dull group under another. You will learn three tools for sorting. They are the Venn diagram, the Carroll table and the branching key. Some things are hard to place, like sand, a candle or a platypus. Scientists sorted atoms into the periodic table and stars into colour types, and each sort led to a discovery. They still argue about where some things belong.
+**Summary.** Ask 'Is it hard?', and a steel spoon and a wooden spoon go in the same group. Ask 'Is it shiny?', and they go in different groups. Sorting means putting things into groups by a rule, and the rule decides the groups. The child sorts one heap in several ways, and settles tricky things, like a candle, with a test. They also learn three sorting tools: the Venn diagram, the Carroll table and the branching key. Scientists sorted elements, stars and living things in the same way, and some of those sorts led to discoveries.
 
-**Intro.** *Try this. Put six things on the floor: a steel spoon, a wooden spoon, a glass bangle, a rubber band, a comb and a candle. Make two groups. Now mix them up and make two different groups. How many different ways can you find?* In every town in India there is a kabadiwala. This is a person who buys old newspapers, bottles, tins and iron. He or she sells them on to be made into new things. Watch a kabadiwala work and you see sorting all day long. Paper goes here. Glass goes there. Iron goes in a third pile. But the same heap could be sorted in a hundred other ways. By colour. By weight. By what rings when you drop it. Which way is right? That depends on what the sorting is for.
+**Intro.** *Try this. Put six things on the floor: a steel spoon, a wooden spoon, a glass bangle, a rubber band, a comb and a candle. Make two groups. Now mix them up and make two different groups. How many different ways can you find?* In every town in India there is a kabadiwala. This is a person who buys old newspapers, bottles, tins and iron. He or she sells them on, so they can be made into new things. Watch a kabadiwala work and you see sorting all day long. Paper goes here. Glass goes there. Iron goes in a third pile. But the same heap could be sorted in many other ways: by colour, by weight, or by whether it rings when you drop it. Which way is right? That depends on what the sorting is for.
 
 ## Learning outcomes
 0. I can sort a set of things into groups using a rule, and say what the rule is.
@@ -21,18 +21,18 @@
 - **Rule**: The question you ask about every thing, to decide which group it goes in. A good rule has a clear yes or no answer. *e.g.* 'Is it shiny?' is a rule. Every thing is either shiny or it is not.
 - **Material**: What a thing is made of, such as wood, metal, glass or rubber. *e.g.* A steel spoon is made of the material steel.
 - **Property**: Something you can find out about a material by looking, touching or testing. Hard, soft, shiny, dull and bendy are properties. *e.g.* Glass is hard and see-through. Cotton is soft and bendy.
-- **Tricky middle**: A thing that is hard to place, because it is between two groups or fits both. *e.g.* A candle is hard, but a fingernail can scratch it. Is it hard or soft?
+- **Tricky middle**: A thing that is hard to place, because it is between two groups or fits both. *e.g.* A candle feels hard, but a fingernail can scratch it. Is it hard or soft?
 - **Both and neither**: In a sort with two rules, a thing can fit both rules, or fit neither. *e.g.* A steel spoon is both shiny and hard. A woollen sock is neither.
 - **Venn diagram**: A drawing of overlapping circles. Each circle is one rule. Things that fit both rules go where the circles overlap. *e.g.* One circle for shiny, one for hard. The spoon goes in the overlap.
 - **Carroll table**: A table that sorts things by two yes or no rules. It has four boxes: yes and yes, yes and no, no and yes, no and no. *e.g.* The boxes are shiny and hard, shiny and soft, dull and hard, dull and soft.
 - **Yes or no question**: A question that can only be answered with yes or no. Good sorting uses these. *e.g.* 'Is it made of metal?' can be answered yes or no.
-- **Branching key**: A chart of yes or no questions that finds one thing from a group, step by step. It looks like a tree turned on its side. Some people call it a branching tree database. *e.g.* 'Is it hard?' Yes. 'Is it shiny?' No. So it is a brick.
+- **Branching key**: A chart of yes or no questions that finds one thing from a group, step by step. It looks like a tree turned on its side. *e.g.* 'Is it hard?' Yes. 'Is it shiny?' No. So it is a brick.
 - **Tally**: A way of counting by making one mark for each thing. The fifth mark crosses the first four. *e.g.* Four marks and a line across make five.
 - **Test**: Something you do to a thing to find out the answer to a rule, instead of guessing. *e.g.* To test hard or soft, press a fingernail into it.
 - **Solid, liquid, gas**: Three groups for the state of a material. A solid keeps its shape. A liquid flows and takes the shape of its container. A gas spreads out to fill all the space it can. *e.g.* A stone is a solid. Water is a liquid. Steam is a gas.
 - **Soft matter**: Materials that do not fit neatly into solid or liquid, such as jelly, toothpaste, foam and wet cornflour. Scientists give them their own group. *e.g.* Toothpaste stays on the brush like a solid, but squeezes out like a liquid.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope. *e.g.* A steel spoon has more atoms in it than you could ever count.
-- **Element**: One kind of atom, such as iron, carbon, oxygen or gold. Everything in the world is made from just over a hundred elements. *e.g.* Iron is an element. Steel is made of iron and a little carbon.
+- **Element**: One kind of atom, such as iron, carbon, oxygen or gold. Scientists know 118 elements, and everything is made from them. *e.g.* Iron is an element. Steel is made of iron and a little carbon.
 - **Periodic table**: A chart that sorts all the elements into rows and columns. Elements that behave alike sit in the same column. *e.g.* Gold, silver and copper sit in the same column, and all are shiny metals.
 - **Star type**: A group that astronomers use to sort stars by their colour. The colour tells how hot the surface of the star is. *e.g.* The Sun is a yellow star. Betelgeuse is a red star.
 - **Species**: One kind of living thing, such as a tiger, a banyan tree or a human. Biologists argue about the best way to say exactly what a species is. *e.g.* A tiger and a lion are two different species.
@@ -60,14 +60,14 @@ The same things can be sorted in many ways. Which group a thing lands in depends
 ### What makes a good rule · *defined*
 **Definition:** A good rule is a yes or no question. It gives the same answer for everyone, because it can be checked by looking or by a test.
 
-A good rule has a clear answer, and the answer is the same whoever asks. 'Is it shiny?' is a good rule. You can look and decide. 'Is it pretty?' is not. Your friend may disagree. 'Is it heavy?' is not good either, because heavy for a baby is light for a wrestler. A better rule is 'Does it sink in water?'. For rules like hard and soft, we can use a test. If a fingernail leaves a mark, we call it soft. Then we use the same test on every thing, in the same way. That makes the sort fair.
+A good rule has a clear answer, and the answer is the same whoever asks. 'Is it shiny?' is a good rule. You can look and decide. 'Is it pretty?' is not. Your friend may disagree. 'Is it heavy?' is not good either, because heavy for a baby is light for a wrestler. A better rule is 'Is it heavier than a 1 kilogram packet of atta?'. For rules like hard and soft, we can use a test. If a fingernail leaves a mark, we call it soft. Then we use the same test on every thing, in the same way. That makes the sort fair.
 - e.g. 'Is it made of metal?' is a good rule. 'Is it nice?' is not.
 - e.g. 'Does a fingernail scratch it?' gives the same answer for you and your cousin.
 - e.g. 'Is it big?' is a poor rule until we say 'Is it longer than a hand?'.
 ### The tricky middle · *defined*
 **Definition:** A tricky middle is a thing that does not clearly belong to one group. We can fix it with a sharper rule, a middle group or a test.
 
-Some things will not fit. A candle is hard, but a fingernail can scratch it. A plastic cup is stiff, but it bends a little. Sand pours like water, yet each grain is hard. These things sit in the tricky middle. Do not be upset when you find one. Finding one is a good sign that you are thinking like a scientist. There are three things you can do. First, make the rule sharper, so it says exactly what counts. Second, add a middle group. Third, use a test, and let the test decide. Sometimes a tricky thing even shows that the rule was not a good one.
+Some things will not fit. A candle feels hard, but a fingernail can scratch it. A plastic cup is stiff, but it bends a little. Sand pours like water, yet each grain is hard. These things sit in the tricky middle. Finding one is not a mistake. It shows you exactly where the rule is unclear. There are three things you can do. First, make the rule sharper, so it says exactly what counts. Second, add a middle group. Third, use a test, and let the test decide. Sometimes a tricky thing shows that the rule needs to change.
 - e.g. A candle: add a middle group called 'hard but scratchable', or use the fingernail test.
 - e.g. A plastic cup: ask 'Does it bend when I press it with my thumb?'. Then the answer is clear.
 - e.g. A foil ball: shiny on the outside, but crumpled and dull in the dents.
@@ -80,14 +80,14 @@ Sometimes one rule is not enough. A Venn diagram uses two overlapping circles, o
 ### The branching key · *defined*
 **Definition:** A branching key is a chart of yes or no questions. It sorts a group step by step until each thing is alone.
 
-A branching key finds one thing in a group by asking yes or no questions, one after another. Each question splits the group into two smaller groups. Ask a new question for each smaller group. Keep going until each thing is alone at the end of a branch. Try it with four things: a brick, ice, a balloon and paper. 'Is it hard?' Brick and ice say yes. Balloon and paper say no. Next, 'Is it shiny?' separates the brick from the ice. 'Is it waterproof?' separates the balloon from the paper. Each question doubles the number of branches. One question gives two. Two give four. Three give eight. So eight things can always be found with just three good questions. A bad first question, one that splits off just one thing, can need seven.
+A branching key finds one thing in a group by asking yes or no questions, one after another. Each question splits the group into two smaller groups. Ask a new question for each smaller group. Keep going until each thing is alone at the end of a branch. Try it with four things: a brick, ice, a balloon and paper. 'Is it hard?' Brick and ice say yes. Balloon and paper say no. Next, 'Is it shiny?' separates the brick from the ice. 'Is it waterproof?' separates the balloon from the paper. If every question splits its group in half, each question doubles the number of branches. One question gives two. Two give four. Three give eight. So eight things can be found with just three good questions. A key that picks out only one thing with each question can need seven.
 - e.g. A key to find which of four fruits you are holding.
 - e.g. A doctor's chart that asks yes or no questions to work out an illness.
 - e.g. A bird book key: 'Does it have a long beak?' Yes, go to question 4.
 ### Families of rules · *defined*
 **Definition:** The rules used for sorting materials come in families. They sort by material, property, use, origin or state.
 
-People use some kinds of rules again and again. One family sorts by what a thing is made of, such as wood, metal or glass. Another family sorts by properties, such as hard or soft, shiny or dull, bendy or stiff. A third sorts by use, such as things for cooking, writing or building. A fourth sorts by where a thing came from, such as natural things or made things. A fifth sorts by state, such as solid, liquid or gas. And some rules need a tool. A magnet can sort some metals from others. Each of these families has its own lesson in this course. In this lesson we practise the skill that they all share. We choose a rule, apply it fairly, and see what the groups tell us.
+People use some kinds of rules again and again. One family sorts by what a thing is made of, such as wood, metal or glass. Another family sorts by properties, such as hard or soft, shiny or dull, bendy or stiff. A third sorts by use, such as things for cooking, writing or building. A fourth sorts by where a thing came from, such as natural things or made things. A fifth sorts by state, such as solid, liquid or gas. And some rules need a tool. A magnet attracts iron and steel, but not aluminium or copper, so it can sort them apart. Here we practise the skill that they all share. We choose a rule, apply it fairly, and see what the groups tell us.
 - e.g. By material: all the steel things in the kitchen.
 - e.g. By property: everything that is see-through.
 - e.g. By use: everything we eat with.
@@ -95,39 +95,39 @@ People use some kinds of rules again and again. One family sorts by what a thing
 ### Sorting a heap for real: people and machines · *defined*
 **Definition:** Real sorting uses rules that match the job. Hands, wind, magnets and cameras are all tools for applying a rule.
 
-A kabadiwala sorts by hand and by eye. Paper goes to one pile. Bottles go to another. Iron goes in a third. Why? Each material is recycled in its own way, so each pile can be sold to a different buyer. Farmers sort too. To winnow grain, they toss it in a flat basket called a sup. The heavier grain falls back down. The lighter husk blows away. This sorts by weight, using the wind. A modern recycling plant sorts in layers. First, big magnets lift out iron and steel. Next, a machine uses a changing magnetic field to make aluminium cans jump out of the stream. Then cameras that see invisible light recognise different plastics. Little jets of air blow each kind into its own bin. In India, a great deal of recycling still begins with waste pickers, who sort by hand. Many of them are women. They know materials better than most scientists do.
+A kabadiwala sorts by hand and by eye. Paper goes to one pile. Bottles go to another. Iron goes in a third. Why? Each material is recycled in its own way, so each pile can be sold to a different buyer. Farmers sort too. To winnow grain, they toss it in a flat basket called a sup. The heavier grain falls back down. The lighter husk blows away. The wind sorts light from heavy. A modern recycling plant sorts in layers. First, big magnets attract and lift out iron and steel. Next, a machine uses a changing magnetic field to make aluminium cans jump out of the stream. Then cameras that see invisible light recognise different plastics. Little jets of air blow each kind into its own bin. In India, a great deal of recycling still begins with waste pickers, who sort by hand. Many of them are women. They can tell many kinds of plastic, paper and metal apart by look, feel and sound.
 - e.g. A kabadiwala sorting by hand into paper, plastic, glass and metal.
 - e.g. A farmer winnowing rice in a sup.
 - e.g. A recycling plant using magnets, cameras and air jets.
 - e.g. A cook picking stones out of dal before cooking.
 ### Solid, liquid, gas: a rule with a fuzzy edge · *debated*
-Sorting by state seems easy. A solid keeps its shape. A liquid flows and takes the shape of its container. A gas spreads out to fill all the space it can. But many things will not stay in one group. Rice pours like a liquid, but every grain is a hard solid. Toothpaste is a solid on your brush and a liquid when squeezed. Wet cornflour, called oobleck, flows when you move it slowly. It turns hard when you punch it. Ketchup stays put in a bottle, then runs when you shake it. Scientists did not throw these away. They gave them a new group, called soft matter, and now study them closely. Scientists also added more states. Plasma is a glowing gas in which atoms are torn apart. It makes up lightning, neon signs and the Sun. And far colder than any winter on Earth, atoms can form yet another state. The full story of how a pile of grains flows is still being worked out.
+Sorting by state seems easy. A solid keeps its shape. A liquid flows and takes the shape of its container. A gas spreads out to fill all the space it can. But many things will not stay in one group. Rice pours like a liquid, but every grain is a hard solid. Toothpaste is a solid on your brush and a liquid when squeezed. Wet cornflour, called oobleck, flows when you move it slowly. It turns hard when you punch it. Ketchup stays put in a bottle, then runs when you shake it. Scientists did not ignore these. They gave them a new group, called soft matter, and now study them closely. Scientists also added more states. Plasma is a glowing gas in which atoms are torn apart. It makes up lightning, neon signs and the Sun. And when some atoms are cooled to almost the coldest temperature possible, they form another state, the Bose-Einstein condensate. It is named after Satyendra Nath Bose, from Kolkata, and Albert Einstein, who predicted it in 1924 and 1925. It was first made in a laboratory in 1995. The full story of how a pile of grains flows is still being worked out.
 - e.g. Rice and sand: grains that flow like a liquid.
 - e.g. Jelly, toothpaste, foam: soft matter.
 - e.g. Lightning and the Sun: plasma.
-- **The three-groups view:** Everything is a solid, a liquid or a gas. Rice is just many small solids. Sorting is simple if you ask what each grain, or each bit, is doing.
+- **The three-groups view:** Everything is a solid, a liquid or a gas. Rice is just many small solids. Sorting is simple if you ask what each grain is doing, not the whole pile.
 - **Soft matter scientists:** Many everyday materials behave in between. They do not fit three groups, so a new group is needed. A famous 1996 paper by Heinrich Jaeger, Sidney Nagel and Robert Behringer was named 'Granular solids, liquids, and gases'. A pile of grains can act like any of the three.
 - **Scientists who look at atoms:** At the atom level, the groups are about how free the atoms are. In a solid they jiggle in place. In a liquid they slide past each other. In a gas they fly about. The edge between them is real, but it can be blurry.
 ### Sorting the atoms: Mendeleev's gaps · *defined*
 **Definition:** The periodic table sorts the elements by how they behave and by their weight. Gaps in it led to the discovery of new elements.
 
-Everything you can touch is made of atoms. There are only about 118 kinds, called elements. Iron is an element. So are carbon, oxygen, gold and helium. About ninety of them are found in nature. In 1869 a Russian chemist, Dmitri Mendeleev, wrote the elements on cards. He sorted them by weight, and also by how they behave. Elements that behaved alike, such as the soft metals that fizz in water, kept turning up in the same column. His table worked, but not perfectly. Some places in his table had no card to fit. Mendeleev did something brave. He left the places empty and said that undiscovered elements would fill them. He even wrote what these elements would be like. Between 1875 and 1886, three of them were found: gallium, scandium and germanium. Their properties were close to what he had written. A good sort does more than tidy. It lets you guess what you have not found yet. Others had seen parts of the pattern before. John Newlands, in England, arranged elements in 1865 and was laughed at. Someone asked if he had tried listing them in alphabetical order. Today he is remembered for what he saw.
+Everything you can touch is made of atoms. There are only about 118 kinds, called elements. Iron is an element. So are carbon, oxygen, gold and helium. About ninety of them are found in nature. In 1869, 63 elements were known. A Russian chemist, Dmitri Mendeleev, sorted them by the weight of their atoms, and also by how they behave. Elements that behaved alike, such as the soft metals that fizz in water, kept turning up in the same column. His table worked, but not perfectly. Some places in his table had no card to fit. Mendeleev did something brave. He left the places empty and said that undiscovered elements would fill them. He even wrote what these elements would be like. Between 1875 and 1886, three of them were found: gallium, scandium and germanium. Their properties were close to what he had written. A good sort does more than tidy. It lets you guess what you have not found yet. Others had seen parts of the pattern before. John Newlands, in England, arranged elements in 1865 and was laughed at. One chemist asked him if he had tried listing them in alphabetical order. In 1887 he was given a medal for his discovery.
 - e.g. Mendeleev left a gap and predicted an element he called eka-silicon. In 1886 it was found and named germanium.
 - e.g. Marguerite Perey, a French scientist who worked with Marie Curie's team, found the element francium in 1939. It filled one of the last empty places in the table.
 ### Why the table works: electrons · *defined*
 **Definition:** Elements in the same column of the periodic table have the same kind of outer electrons. That is why they behave alike.
 
-Why do elements in the same column behave alike? The answer is hidden inside the atom. Every atom has tiny electrons around its edge. The outer electrons decide how an atom joins with others. Elements in the same column have the same number of outer electrons, or a very similar arrangement. So they act alike. Mendeleev did not know any of this. He found the pattern before anyone knew the reason. Later, in 1913, an English scientist named Henry Moseley used X-rays to find a whole number for each element, the atom number. It counts the protons in the middle of the atom. Sorting by that number put the table in perfect order. Moseley died at 27, in the First World War. Many scientists think this was one of the greatest losses to science. So a sort made from play with cards turned out to be a map of the inside of the atom.
+Why do elements in the same column behave alike? The answer is hidden inside the atom. Every atom has tiny electrons around its edge. The outer electrons decide how an atom joins with others. Elements in the same column have the same number of outer electrons, or a very similar arrangement. So they act alike. Mendeleev did not know any of this. He found the pattern before anyone knew the reason. Later, in 1913, an English scientist named Henry Moseley used X-rays to find a whole number for each element, the atom number. It counts the protons in the middle of the atom. Sorting by that number put the table in perfect order. Moseley died at 27, in the First World War. Many scientists think this was one of the greatest losses to science. So Mendeleev's sort, made only from how elements behave, turned out to follow the inside of the atom.
 - e.g. Sodium and potassium both fizz in water. They sit in the same column and each has one outer electron.
 - e.g. Neon, argon and helium hardly join with anything. They sit in the last column, with their outer electrons full.
 ### Sorting the stars · *defined*
 **Definition:** Astronomers sort stars into types by colour: O, B, A, F, G, K and M. The types show how hot the star's surface is.
 
-Look at the night sky. Stars are not all the same colour. Some are blue-white, some yellow, some orange and some red. From the 1880s, a team of women at the Harvard College Observatory in America sorted photographs of starlight. Williamina Fleming began as a maid in the director's home. He saw how clever she was and hired her, and she became one of the observatory's best star sorters. Annie Jump Cannon carried the work on. She lost much of her hearing as a young woman, and she worked for over forty years. She sorted about 350,000 stars. At her best she could place three stars in a minute. Her system uses seven letters, O B A F G K M, from the hottest stars to the coolest. It became the world's standard. The Sun is a G star. But what did the letters mean? In 1925 a young scientist, Cecilia Payne, showed that the types are really about temperature. She also showed that stars are made mostly of hydrogen. A senior astronomer told her this could not be right, so she wrote that it was probably not real. Four years later, he agreed she was right. Sorting by colour had uncovered what the stars are made of.
+Look at the night sky. Stars are not all the same colour. Some are blue-white, some yellow, some orange and some red. From the 1880s, a team of women at the Harvard College Observatory in America sorted photographs of starlight. Williamina Fleming began as a maid in the director's home. He saw how clever she was and hired her, and she became one of the observatory's best star sorters. Annie Jump Cannon carried the work on. She lost much of her hearing as a young woman, and she worked for over forty years. She sorted about 350,000 stars. At her best she could place three stars in a minute. She put the star types in the order of seven letters, O B A F G K M, from the hottest stars to the coolest. Her order became the world's standard. The Sun is a G star. But what did the letters mean? In 1925 a young scientist, Cecilia Payne, showed that the types are really about temperature. She used a theory made in 1920 by an Indian scientist, Meghnad Saha. She also showed that stars are made mostly of hydrogen. A senior astronomer, Henry Norris Russell, told her this could not be right, so she wrote that it was probably not real. In 1929 he reached the same answer himself. Sorting by colour had uncovered what the stars are made of.
 - e.g. Rigel, in the Orion constellation, is a blue-white B star. Betelgeuse, in the same constellation, is a red M star.
 - e.g. The Sun is a yellow G star, with a surface at about 5,500 degrees Celsius.
-### Sorting living things: and where does the platypus go? · *debated*
-Living things need sorting too. About 300 years ago, a Swedish scientist, Carl Linnaeus, sorted plants and animals into groups inside groups. At first people sorted by looks. Whales were put with fish, because they live in water and have fins. But a whale breathes air and feeds its babies on milk. So whales belong with mammals. DNA shows that the whale's closest living relative is the hippo. Then came the platypus, an animal in Australia with fur and a duck-like bill, which lays eggs. In 1799 a British scientist who looked at a stuffed platypus checked it for stitches. He thought someone had sewn a joke animal together. But the platypus is real. It is a mammal that lays eggs. Biologists still argue about the most basic group of all, the species. They have written more than twenty different definitions. A tomato is a puzzle too. To a botanist it is a fruit. To a cook it is a vegetable. In 1893, a court in America decided that, for the tax law, a tomato is a vegetable. Each person used the rule that fit their job.
+### Sorting living things: where does the platypus go? · *debated*
+Living things need sorting too. In the 1700s, a Swedish scientist, Carl Linnaeus, sorted plants and animals into groups inside groups. At first people sorted by looks. Whales were put with fish, because they live in water and have fins. But a whale breathes air and feeds its babies on milk. So whales belong with mammals. DNA shows that the whale's closest living relative is the hippo. Then came the platypus, an animal in Australia with fur and a duck-like bill, which lays eggs. In 1799 a British scientist, George Shaw, described a platypus skin sent from Australia. He wrote that it was hard to believe it was real, and he is said to have looked for stitches. But the platypus is real. It is a mammal that lays eggs. Biologists still argue about the most basic group of all, the species. They have written more than twenty different definitions. A tomato is a puzzle too. To a botanist it is a fruit. To a cook it is a vegetable. In 1893, the highest court in America decided that, for a tax on vegetables, a tomato counts as a vegetable. Each person used the rule that fit their job.
 - e.g. Whales are mammals, not fish.
 - e.g. The platypus is a mammal that lays eggs.
 - e.g. A tomato is a fruit to a botanist and a vegetable to a cook.
@@ -137,7 +137,7 @@ Living things need sorting too. About 300 years ago, a Swedish scientist, Carl L
 ### When the boxes break: quasicrystals · *defined*
 **Definition:** A quasicrystal is a solid with an ordered pattern that never repeats. It showed that the old two groups, crystal and glass, were not enough.
 
-Sometimes a new thing does not fit any box. What should scientists do? In the 1980s, solids were sorted into two kinds. Crystals have atoms in a neat pattern that repeats, like tiles on a floor. Glass has atoms jumbled with no pattern. On 8 April 1982, an Israeli scientist, Dan Shechtman, looked at a metal and saw a pattern with five-fold symmetry. A repeating tile pattern cannot have this. It should have been impossible. He wrote in his notebook, with question marks, that it was ten-fold. Many scientists would not believe him. He was asked to leave his research group. The famous chemist Linus Pauling said there were no quasicrystals, only quasi-scientists. Shechtman kept checking, and he was right. In 1992, the International Union of Crystallography changed its official definition of a crystal, to make room. Shechtman won the Nobel Prize in Chemistry in 2011. Later, real quasicrystals were found in a meteorite that fell in Russia. When a thing does not fit the boxes, the boxes can change.
+Sometimes a new thing does not fit any box. What should scientists do? In the 1980s, solids were sorted into two kinds. Crystals have atoms in a neat pattern that repeats, like tiles on a floor. Glass has atoms jumbled with no pattern. On 8 April 1982, an Israeli scientist, Dan Shechtman, looked at a metal with an electron microscope. He saw a pattern with five-fold symmetry, like a five-pointed star. A repeating tile pattern can never have this, so it should have been impossible. He wrote 'ten-fold???' in his notebook. Many scientists would not believe him, and he was asked to leave his research group. The famous chemist Linus Pauling said there were no quasicrystals, only quasi-scientists. But other laboratories made the same metal and saw the same pattern. In 1992, the International Union of Crystallography changed its definition of a crystal to make room. Shechtman won the Nobel Prize in Chemistry in 2011. Later, natural quasicrystals were found in a meteorite from the far east of Russia. When a thing does not fit the boxes, the boxes can change.
 - e.g. Crystal: a repeating pattern, like floor tiles.
 - e.g. Glass: no pattern at all.
 - e.g. Quasicrystal: an ordered pattern that never repeats, like some Penrose tilings.
@@ -149,14 +149,14 @@ Your body sorts things all day, without being told. Your kidneys are like two sm
 - e.g. The snail-shaped inner ear: sorts sounds from high to low.
 - e.g. The brain: sorts faces, voices and smells into groups.
 ### Who decides the rule? · *debated*
-A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some elements really do seem to be natural groups. Every atom of gold is gold. Other groups, such as 'vegetable', seem to depend on our needs. Sorting things is almost always harmless. A pile does not change a rock. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. The programs had been taught with too few faces like theirs. A careful sorter asks: whose needs does this rule serve, and who does it leave out?
+A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some elements really do seem to be natural groups. Every atom of gold is gold. Other groups, such as 'vegetable', seem to depend on our needs. Sorting rocks does them no harm. A pile does not change a rock. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. A likely reason is that the programs had learned from too few faces like theirs. A careful sorter asks: whose needs does this rule serve, and who does it leave out?
 - e.g. A tomato is a fruit for a botanist and a vegetable for a cook.
 - e.g. A face program that works well for some people and badly for others.
 - **Plato, in ancient Greece, and many scientists:** Nature has joints, and a good sort cuts at them. Gold, hydrogen and the planets are real natural groups, found and not invented.
 - **Philosophers who think groups depend on our purposes:** Even good groups are partly made by us, because we choose what to notice. A botanist and a cook can both be right, because they sort for different jobs.
 - **People who study fairness in computers:** Whoever builds a sorting machine, or a form, builds their own view of the world into it. We should test it on everyone before we trust it.
 ### Other ways to sort the world · *idea*
-People in different places have sorted the world in different ways. More than two thousand years ago, Indian grammar writers such as Panini sorted the sounds of speech. They sorted them by where in the mouth each sound is made. The consonant rows of the Devanagari alphabet follow this. First come throat sounds, then palate, then roof of the mouth, then teeth, then lips. Say ka, cha, ta and pa slowly, and feel where each sound is made. Old Indian thinkers also sorted nature into five elements: earth, water, fire, air and space. The Greeks used four, without space. Chinese thinkers used five phases: wood, fire, earth, metal and water. Some people notice an echo with solid, liquid, gas and plasma. Earth is like solid. Water is like liquid. Air is like gas. Fire is like plasma. This is an echo and not the same idea. These old groups were about qualities such as hot, cold, wet and dry. Today's sort of matter is about atoms. Each way of sorting tells us what its makers cared about.
+People in different places have sorted the world in different ways. More than two thousand years ago, Indian grammar writers such as Panini sorted the sounds of speech. They sorted them by where in the mouth each sound is made. The consonant rows of the Devanagari alphabet follow this. First come throat sounds, then palate, then roof of the mouth, then teeth, then lips. Say ka, cha and pa slowly, and feel where each sound is made. Old Indian thinkers also sorted nature into five elements: earth, water, fire, air and space. The Greeks used four, without space. Chinese thinkers used five phases: wood, fire, earth, metal and water. Some people see a likeness with solid, liquid, gas and plasma. Earth is like solid. Water is like liquid. Air is like gas. Fire is like plasma. This is a likeness, not the same idea. These old groups were about qualities such as hot, cold, wet and dry. Today's sort of matter is about atoms. Each way of sorting tells us what its makers cared about.
 - e.g. The Devanagari alphabet is sorted by where each sound is made.
 - e.g. The Greek four elements and the Indian five elements.
 - **Panini's school of Sanskrit grammar:** Sounds are best grouped by how the mouth makes them. This sort is still used to teach the alphabet today.
@@ -169,6 +169,10 @@ People in different places have sorted the world in different ways. More than tw
 - Everything we touch is made from about 118 kinds of atoms, called elements. These can be sorted into the periodic table. *How we know:* Chemists have made and measured every one. The table's columns match how the atoms' outer electrons are arranged.
 - The colour of a star tells how hot its surface is. *How we know:* In 1925, Cecilia Payne showed that the star types O, B, A, F, G, K and M are a row of temperatures. Astronomers have checked it with many telescopes since.
 - Sorting materials before recycling makes recycling work better. *How we know:* Recycling plants sort first because each material is melted, shredded or pulped in its own way. A bottle of glass mixed in with paper can spoil a whole batch.
+
+## How we found out
+**Dan Shechtman (1982), with Ilan Blech, Denis Gratias and John Cahn, who published the result with him in 1984, 1982 to 1992.** For most of the 1900s, scientists sorted every solid with ordered atoms into one group: crystals. A crystal's atoms sit in a pattern that repeats, like tiles on a floor. Mathematicians had shown that a repeating pattern can never have five-fold symmetry, the kind of balance a five-pointed star has. So everyone believed that an ordered solid with five-fold symmetry could not exist. On 8 April 1982, Dan Shechtman, an Israeli scientist working in the United States, cooled a melted mix of aluminium and manganese very fast. He looked at it with an electron microscope. The spots in his picture had ten-fold symmetry, which only an ordered pattern with five-fold symmetry could make. He wrote 'ten-fold???' in his notebook. Many scientists said he had made a mistake, and Linus Pauling, a famous chemist, argued against him for years. But other laboratories made the same material and saw the same pattern. In 1992 the International Union of Crystallography changed its definition of a crystal. Shechtman won the Nobel Prize in Chemistry in 2011.  
+*What people believed before:* That every solid with ordered atoms has a pattern that repeats. Shechtman's metal had an ordered pattern with five-fold symmetry, which no repeating pattern can have. Other laboratories made it too, so the rule for what counts as a crystal had to change.
 
 ## Challenging perspectives
 - **There is only one right way to sort any set of things.** (A common way of thinking, and many school tests; *rejected*)  
@@ -196,23 +200,23 @@ People in different places have sorted the world in different ways. More than tw
 ## Roots
 We have been learning to sort things into groups. Now we ask what sorting tells us about ourselves and about the world.
 
-**Deep truth.** The groups are in our heads, not in the world.  
-*Habit it breaks:* We think categories are found in nature. But the same heap can be sorted by colour, by sound or by use, and each rule shows something different.  
-*Evidence:* Sorting one heap three ways gives three different answers.
+**Deep truth.** Ask 'Is it hard?', and a steel spoon and a wooden spoon go in one group. Ask 'Is it shiny?', and they split apart. Neither spoon changed between the two sorts. So being in one group only tells you the things gave the same answer to one question.  
+*Habit it breaks:* We treat things in one group as the same kind of thing, as if the group told us what they are. A group only tells us how the things answered the one question we asked.  
+*Evidence:* In One Heap, Three Rules, the same twelve things made different groups for each rule. The steel spoon and the wooden spoon were together under 'hard' and apart under 'shiny'.
 
 - *who am i:* You are a sorter. Your eyes, ears and hands sort the world all day, without being asked. You also belong to many groups at once, and no single group is all of you.
 - *what is life:* Living things are sorters. Your kidneys sort your blood and your ear sorts sounds. A living body keeps what it needs and lets the rest go.
-- *what is this world:* The world is made of just over a hundred kinds of atom, joined in endless ways. Sorting is how we find the order inside all that variety.
+- *what is this world:* The world is made of about a hundred kinds of atom, joined in endless ways. Sorting is how we find the order inside all that variety.
 
-DeepKids believes that behind the many there is one. Look at a heap of things: a steel spoon, a wooden spoon, a glass bangle. Each rule makes different groups, and all the groups are real. Now zoom in. Every thing is made of atoms, and those atoms came from stars. Sorting is how the mind walks from the many back toward the few, and from the few toward one. The periodic table does exactly this. Thousands of materials come down to about a hundred elements, and one pattern holds them all. The gaps in the table tell us that the pattern is bigger than anything we have found so far.
+DeepKids believes that behind the many things in the world there is one source. Sorting points the same way. A heap of spoons, bangles and socks is many different things. Sort them by what they are made of, and they fall into a few materials. Sort the materials, and they come down to about a hundred kinds of atom. Every one of those atoms is built from the same three tiny parts: protons, neutrons and electrons.
 
-- **Chandogya Upanishad 6.1.4 to 6.1.6:** Uddalaka teaches his son Shvetaketu. By knowing one lump of clay, you know everything made of clay. A pot and a plate differ only in name and shape. In the same way, one nugget of gold teaches you about all gold ornaments. One piece of iron teaches you about all things of iron. (This is sorting by material. A pot and a plate look different, but they are one group when we ask 'What is it made of?'. The shape is one rule. The material is another.)
+- **Chandogya Upanishad 6.1.4 to 6.1.6:** Uddalaka teaches his son Shvetaketu. By knowing one lump of clay, you know everything made of clay. A pot and a plate differ only in name and shape. In the same way, by knowing one piece of a metal, you know all the ornaments made of it. By knowing one piece of iron, you know all things made of iron. (This is sorting by material. A pot and a plate look different, but they are one group when we ask 'What is it made of?'. The shape is one rule. The material is another.)
 - **Udana 6.4 (the Tittha Sutta) in the Pali Canon:** Blind men each touch a different part of an elephant and each describes a different animal. Each is right about the part he touched and wrong about the whole. (Each sorting rule touches one part of a thing. Hard or soft, shiny or dull and metal or not all tell something true. No single rule tells the whole.)
-- **Tao Te Ching 1:** The way that can be spoken is not the eternal way. The name that can be named is not the eternal name. (Groups are names we give. They are useful, but the world is bigger than our names. A platypus does not read our labels.)
-- Science (settled): Almost every atom in your body, apart from hydrogen, was made inside a star. Margaret Burbidge, with Geoffrey Burbidge, William Fowler and Fred Hoyle, showed how in 1957. So the many things in a heap come from a few kinds of atom, and those came from stars.
+- **Tao Te Ching 1:** The way that can be spoken is not the eternal way. The name that can be named is not the eternal name. (Groups are names we give. They are useful, but the world does not have to fit them. The platypus fitted none of the old groups, so the groups were changed.)
+- Science (settled): Almost every atom in your body, apart from hydrogen, was made inside a star. Margaret Burbidge, with Geoffrey Burbidge, William Fowler and Fred Hoyle, showed how in 1957. So the many things in a heap are made from a few kinds of atom, and most of those were made in stars.
 - Science (debated): Whether the groups we use are found in nature or made by us is still argued by scientists and philosophers. Gold seems like a natural group. 'Vegetable' seems to depend on us.
 - Other view, Madhva, a philosopher of the Dvaita school in India, about 700 years ago: The differences between things are real and lasting. A pot is not clay in disguise. Madhva taught five real differences, such as between one soul and another and between matter and soul. In this view, sorting finds real differences. It does not only find different names for one thing.
-- Practice, Sorting with eyes closed (3 min): Close your eyes. I will put a thing in your hand. 1. Feel how cold or warm it is. 2. Feel if it is hard or soft, rough or smooth. 3. Feel how heavy it is. 4. Now I will tap it, so listen. 5. Say how you would sort this thing. 6. Open your eyes. Now notice something. All these differences were noticed by you. Who is the one who notices?
+- Practice, Sorting with eyes closed (3 min): Close your eyes. I will put a thing in your hand. 1. Feel how cold or warm it is. 2. Feel if it is hard or soft, rough or smooth. 3. Feel how heavy it is. 4. Now I will tap it, so listen. 5. Say how you would sort this thing. 6. Open your eyes. You noticed all these differences. Who is the one who notices?
 - Ask: When you sort a heap, who is doing the sorting?
 - Ask: If you zoom in far enough, do the groups still exist?
 - Ask: Is the one who notices also in a group? Which one?
@@ -227,38 +231,38 @@ DeepKids believes that behind the many there is one. Look at a heap of things: a
 - *big:* If a thing does not fit any group, should we change the thing or change the groups? (hint: Remember quasicrystals and the platypus. What happened to the groups?)
 - *big:* Are the groups in nature waiting for us to find them, or do we make them up? (hint: Is 'gold' a group nature made? What about 'vegetable'?)
 - *big:* Sorting rocks is harmless. Is sorting people ever harmless? (hint: A pile does not change a rock. What might a person feel? What does one rule hide about them?)
-- *big:* You belong to many groups at once, like a thing in many circles of a Venn diagram. Which of your circles are you proudest of? (hint: Think of your family, your school, your favourite game and the language you speak.)
+- *big:* You belong to many groups at once, like a thing in many circles of a Venn diagram. Can any one group say everything about you? (hint: Think of your family, your school, your favourite game and the language you speak. What does each group leave out?)
 - *big:* A kabadiwala makes money from things we call rubbish. Is there really such a thing as rubbish, or only things that have not been sorted yet? (hint: What happens to a heap of mixed rubbish? What happens when it is sorted into piles?)
 - *big:* Mendeleev's gaps told chemists what to look for before anyone had seen it. Can a good pattern let you know something before you find it? (hint: Think of a times table with one number missing, or a story with a missing page.)
 - *big:* In our story, the young girl could hear what the old man could not. Who in your family notices what others miss? (hint: Every person sorts the world a little differently, because every person notices different things.)
 - *big:* When you sort a heap, who is doing the sorting? Can you find the part of you that notices? (hint: Close your eyes and feel a spoon. Something notices the cold and the smooth. Where is the noticing?)
 
 ## Story: The Bell That Would Not Sing
-*Tambapur, Kharsoli, Nana, Hira and this bell are imagined. The metals are real. Bell metal is copper mixed with tin. Brass is copper mixed with zinc. They look alike, but a kansa bowl rings for much longer than a brass one. Older people often lose the ability to hear high sounds.*
+*Tambapur, Kharsoli, Nana, Hira and this bell are imagined. The metals are real. Bell metal (kansa) is copper mixed with tin. Brass is copper mixed with zinc. They can look alike, but a kansa bowl rings for much longer than a brass one. Many people lose the ability to hear high sounds as they grow old.*
 
 Before I was a bell, I was a heap. I was forty-one lamps, a water tap, six door handles and a cart bell with a crack in it. I was also a great many bangles. I lay in the yard of a foundry in Tambapur, a town where every lane smells of hot metal. I did not know that I was going to be anything at all.
 
-Every morning an old man came out to look at me. Everyone called him Nana, because every grandfather has to be called something. His eyes were sharp and his hands were sure. He meant to turn me into a school bell for the village of Kharsoli. The children there walked three miles to their lessons, and sometimes they arrived after the lessons had begun. 'A bell on the hill,' he said, 'and they will hear it from the far fields.'
+Every morning an old man came out to look at me. Everyone called him Nana, because every grandfather has to be called something. His eyes were sharp and his hands were sure. He meant to turn me into a school bell for the village of Kharsoli. The children there walked five kilometres to their lessons, and sometimes they arrived after the lessons had begun. 'A bell on the hill,' he said, 'and they will hear it from the far fields.'
 
 A bell is made of bell metal, which is copper mixed with tin. But I was not all copper and tin. Some of my pieces were brass, which is copper mixed with zinc. Brass and bell metal look almost the same, the way two brothers do. So Nana sorted me. He did it the way he had done it for fifty years, with his eyes. Pale yellow pieces here. Red-gold pieces there. 'Colour does not lie,' he said. He tipped the red-gold pile into the furnace.
 
 I remember the heat. Then the pour, a river of orange light running into a mould of clay. Then three days of waiting in the dark. Then the mould was broken. I stood in the sun for the first time, with the whole foundry looking at me.
 
-Nana lifted a wooden mallet and struck me. I did not sing. I said 'thunk', like a pot that has been hit with a spoon. He struck me again. 'Thunk.' Somebody coughed. Nana put down the mallet and walked into the back room and shut the door.
+Nana lifted a wooden mallet and struck me. I did not sing. I gave a short, flat 'clank', like a pot hit with a spoon, and then I was silent. He struck me again. 'Clank.' Somebody coughed. Nana put down the mallet and walked into the back room and shut the door.
 
 The only one who stayed was his granddaughter, Hira. She was ten. She was not allowed near the furnace, so she had watched everything from the doorway. Now she walked all the way round me, the way you walk round a stranger. She knocked on me with her knuckle, and she listened. Then she went to the kitchen and came back with two bowls from her grandmother's shelf. One was a heavy yellow kansa bowl, the kind used for serving on feast days. The other was a brass bowl that looked exactly the same.
 
-She hung each bowl from a loop of thread and tapped it with a pencil. The kansa bowl rang. It was a long, bright ringing, and it went on after the pencil had gone. The brass bowl said 'tuk' and stopped. 'Nana!' she called through the door. 'They look the same. But they are not the same.'
+She hung each bowl from a loop of thread and tapped it with a pencil. The kansa bowl rang. It was a long, bright ringing, and it went on after the pencil had gone. The brass bowl rang too, but only for a moment, and then it stopped. 'Nana!' she called through the door. 'They look the same. But they are not the same.'
 
 He opened the door a hand's width. 'Colour is what I can see,' he said slowly. 'The high sounds I cannot hear any more. That is why I trust my eyes.' Hira had never heard him say such a thing. 'But nobody will look at a bell from the far fields,' he went on, half to himself. 'They will only hear it.'
 
 Hira took a breath. 'I can hear them,' she said. 'You tell me where to put each piece.'
 
-So they sorted me again, all that was left of me, piece by piece. Hira hung each one from a string on the beam, tapped it with her pencil, shut her eyes and listened. 'Sings,' she said, and Nana laid the piece on a white cloth. 'Thuds,' she said, and he laid the piece on a black one. Lamps. Handles. The tap. The bangles. By evening there were two piles. And they were not the piles that colour had made. Some red-gold pieces lay among the thuds. Some pale ones lay among the singers. Colour had been telling Nana something true. It just had not been telling him what a bell needs to know.
+So they sorted me again, all that was left of me, piece by piece. Hira hung each one from a string on the beam, tapped it with her pencil, shut her eyes and listened. 'Sings,' she said, and Nana laid the piece on a white cloth. 'Stops,' she said, and he laid the piece on a black one. Lamps. Handles. The tap. The bangles. By evening there were two piles. And they were not the piles that colour had made. Some red-gold pieces lay on the black cloth. Some pale ones lay on the white. Colour had been telling Nana something true. It just had not been telling him what a bell needs to know.
 
-The thudding pile went off to be made into hinges and pots. The singing pile went into the fire. This time Nana let Hira stand at the door of the furnace room, with his hand on her shoulder. She watched the orange river pour. Three days. The mould was broken. Nana lifted the mallet, and then he did something I had not expected. He held it out to her.
+The short-ringing pile went off to be made into hinges and pots. The singing pile went into the fire. This time Nana let Hira stand at the door of the furnace room, with his hand on her shoulder. She watched the orange river pour. Three days. The mould was broken. Nana lifted the mallet, and then he did something I had not expected. He held it out to her.
 
-She struck me once. I rang. It was not a thunk. It was a note so clear and so long that it climbed the foundry roof and made the tin hum. It rolled out over the lane, where a dog lifted its head and the vegetable seller stopped weighing. It went on and on, thinning out like a thread drawn from a spool. When at last it ended, the lane was quiet for a moment, as if it were listening for more.
+She struck me once. I rang. It was not a clank. It was a note so clear and so long that it climbed the foundry roof and made the tin hum. It rolled out over the lane, where a dog lifted its head and the vegetable seller stopped weighing. It went on and on, thinning out like a thread drawn from a spool. When at last it ended, the lane was quiet for a moment, as if it were listening for more.
 
 I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pulls my rope, and my voice goes out across the fields. Children come running from three villages. On my rim, in raised letters, is the name of the foundry. Nobody wrote Hira's name there. But stand underneath me and look up into the dark inside my rim. There you can find one small scratched letter. It was cut with a chisel by an old man who could no longer hear high notes. It is an H.
 
@@ -266,7 +270,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 
 - Ask: Nana sorted the metal by colour. Why did it not work for a bell?
 - Ask: Hira sorted the metal by sound. Why did that rule fit the job better?
-- Ask: Some red-gold pieces went into the thud pile. What does that tell you about sorting by colour?
+- Ask: Some red-gold pieces went into the pile that stopped quickly. What does that tell you about sorting by colour?
 - Ask: Nana trusted his eyes because he could not hear high notes. What do you trust most, your eyes, your ears or your hands? When is each best?
 - Ask: Nana scratched a tiny H inside the bell. Why do you think he did it that way?
 
@@ -274,7 +278,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 ### g1 · Rule Detective (20 min)
 - **rules:** Cut out the 24 thing cards and the 12 rule cards. Put the rule cards in a pile, face down.; One player is the Sorter. The Sorter secretly takes a rule card and does not show it.; The Sorter turns over thing cards one at a time. Each goes on the YES mat or the NO mat, by the secret rule. The Sorter says nothing about the rule.; After each card, the other players may guess the rule. A right guess after 3 cards wins 3 tokens. After 4 or 5 cards it wins 2 tokens. After 6 or more cards it wins 1 token. A wrong guess costs 1 token.; Any player may say 'Test it!'. Then the Sorter must show the test for that card. If the card was put in the wrong place, the Sorter loses a token.; When the rule is guessed, or after 8 cards, swap roles. Everyone should be the Sorter twice. The player with the most tokens wins.
 - **Printable cards: 24 thing cards to cut out, each with a picture and a name:** steel spoon; wooden spoon; plastic comb; glass bangle; rubber band; woollen sock; cotton hanky; candle; clay diya; pebble; aluminium foil ball; paper cup; steel tumbler; brass lota; leather belt; glass marble; pencil; iron nail; coconut shell; plastic bottle; bamboo stick; silk ribbon; chalk; soap bar
-- **Printable cards: 12 secret rule cards:** Is it shiny?; Is it hard? (a fingernail cannot mark it); Is it made of metal?; Can you see through it?; Does it bend easily?; Does it float in water?; Is it made from a plant?; Is it made in a factory?; Does it make a ringing sound when tapped?; Is it smaller than your palm?; Can it be stretched?; Is it waterproof?
+- **Printable cards: 12 secret rule cards:** Is it shiny?; Is it hard? (a fingernail cannot mark it); Is it made of metal?; Can you see through it?; Does it bend easily?; Does it float in water?; Is it made from a plant?; Does it soak up water?; Does it make a ringing sound when tapped?; Is it smaller than your palm?; Can it be stretched?; Is it waterproof?
 - **Printable board: Two sorting mats:** YES mat; NO mat
 - **Printable tokens: 30 guess tokens (small paper circles):** 🔍
 - **s1 (2 min)**  
@@ -310,7 +314,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **Printable score sheet: Guess sheet:** Which Zib is missing?; Border colour I guess; Bounce number I guess; Real colour and bounce; Points
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 12 Zib cards. 2. The Keeper hides Zib 6, Zib 7 and Zib 12 face down, without showing the others. 3. Put the table sheet on the floor.  
-  *Parent says:* These are Zibs, materials from a made-up planet. A real scientist once did this with the real materials of our world. Today we are going to find the missing cards by thinking.  
+  *Parent says:* These are Zibs, materials from a made-up planet. A real scientist once did this with the elements of our world. Today we are going to find the missing cards by thinking.  
   *Child mode:* Cut out the Zib cards. The Keeper hides three of them. Lay the table sheet out. Now the detective work begins.
 - **s2 (6 min)**  
   *Parent does:* 1. Put the 9 cards on the table, in order of their numbers, four to a row. 2. Leave a gap where a number is missing. 3. Look down each column.  
@@ -337,7 +341,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 ## Experiments
 ### e1 · One Heap, Three Rules (30 min)
 - **question:** If we sort the same twelve things in different ways, does each thing always land in the same group?
-- **predict:** Before you start, guess two things. Will the hard group be the same size as the shiny group? Will any thing land in the same kind of group every time?
+- **predict:** Before you start, guess two things, and say why you think so. Will the hard group be the same size as the shiny group? Will any thing land in the same kind of group every time?
 - **fair test:** Use the same twelve things every time. Write the rule before you start sorting. Use the same test for every thing, in the same way. Change only the rule.
 - **safety:** Choose things with no sharp edges. Keep glass things low, over a soft rug.
 - **record:** Fill in the results table. Count the things in each group and make a tally. Then draw a bar chart with one bar for each box of the Carroll table.
@@ -371,15 +375,15 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   - Check: A thing is in the 'soft and shiny' box of the Carroll table. Which two rules does it fit? → **Soft, and shiny**
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* You sorted the same twelve things three times. Tell me three things. What do you think decides which group a thing goes in? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the rule decides the group. What I saw: the foil ball was shiny but soft, and the wooden spoon was hard but dull. Why: hard and shiny are different questions, so one thing can be in different groups.
   - Think: Which thing was hardest to place? How did the test help?
 ### e2 · The Scratch Ladder (25 min)
 - **question:** Can a test settle where a tricky thing belongs? Can we put things in order from softest to hardest?
-- **predict:** Before you test, put your eight things in a line. Put the one you think is softest first and the hardest last.
+- **predict:** Before you test, put your eight things in a line. Put the one you think is softest first and the hardest last. Say why you put each one there.
 - **fair test:** Use the same tool on every thing, with the same push, over the same short scratch. Try each thing twice. Test the fingernail first, then the steel nail.
-- **safety:** A grown-up holds the steel nail or watches closely. Scratch away from your body. Do not scratch things that are precious or that belong to someone else.
+- **safety:** A grown-up holds the steel nail or watches closely. Scratch away from your body. Drag gently on the mug and the jar, and do not press hard on glass. Do not scratch things that are precious or that belong to someone else.
 - **record:** Fill in the table. Then draw a ladder with three rungs. Write the names of the things on the right rung.
 - **results table:** Thing | Does a fingernail mark it? | Does a steel nail scratch it? | Which rung?
 - **s1 (4 min)**  
@@ -387,13 +391,13 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent says:* These eight things are all different. Which do you think is softest? Which is hardest? Put them in a line.  
   *Child mode:* Put the eight things in a line. Softest on the left. Hardest on the right. Take a photo.
 - **s2 (6 min)**  
-  *Parent does:* 1. Press a fingernail firmly into each thing and drag it a short way. 2. Look with the magnifying glass for a mark. 3. Write yes or no in the table.  
+  *Parent does:* 1. Press a fingernail firmly into each thing and drag it a short way. 2. Look closely for a mark, or zoom in with a phone camera. 3. Write yes or no in the table.  
   *Parent says:* First test: your fingernail. Press and drag it a little way. Look closely. Is there a mark?  
   *Child mode:* Test one: your fingernail. Press and drag it over each thing. Look closely. Is there a mark? Write yes or no.
-  - Ask: Which things did your fingernail mark? (good: The soap, the chalk, the candle and the foil dish.)
-  - Note: A scratch is a groove. Chalk and soap leave powder, but they are still marked. A tile may leave a faint streak of fingernail on it. Wipe it with a finger. If it wipes off, it is not a scratch.
+  - Ask: Which things did your fingernail mark? (good: The soap, the chalk, the candle and the foil container.)
+  - Note: A scratch is a groove. Chalk and soap leave powder, but they are still marked. The mug may show a faint line from your fingernail. Wipe it with a finger. If it wipes off, it is not a scratch.
 - **s3 (7 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up holds the steel nail. 2. Use the nail on only the things that the fingernail did not mark. 3. Press and drag the same way. 4. Look with the magnifying glass and write yes or no.  
+  *Parent does:* 1. A grown-up holds the steel nail. 2. Use the nail on only the things that the fingernail did not mark. 3. Press and drag the same way. 4. Look closely, or zoom in with a phone camera, and write yes or no.  
   *Parent says:* Second test: a steel nail. We use it only on the things that the fingernail could not mark. A grown-up holds the nail.  
   *Child mode:* Test two: a steel nail. A grown-up holds it. Use it on the things your fingernail could not mark. Look for a scratch.
   - Check: A thing is marked by the steel nail but not by a fingernail. Compared with a thing marked by a fingernail, it is… → **Harder**
@@ -401,16 +405,16 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent does:* 1. Draw a ladder with three rungs. 2. Write the things on the right rung. Rung 1: a fingernail marks it. Rung 2: only the steel nail marks it. Rung 3: even the steel nail does not mark it. 3. Compare with the guessed line.  
   *Parent says:* Here is the scratch ladder. Rung one is softest, and rung three is hardest. Put each thing on its rung. Was your guessed line right?  
   *Child mode:* Draw a ladder with three rungs. Rung 1 is softest. Rung 3 is hardest. Put each thing on its rung. Compare with your guess.
-  - Note: Expect soap, chalk, candle and foil dish on rung 1. Expect the wooden spoon and plastic comb on rung 2. Expect the steel spoon and glazed tile on rung 3. A different result is fine. Wood and plastics vary a lot.
+  - Note: Expect soap, chalk, candle and the foil container on rung 1. Expect the wooden spoon and plastic comb on rung 2. Expect the mug and the glass jar on rung 3. The nail may leave a grey line of metal on the glass. It wipes off, so it is not a scratch. A different result is fine. Wood and plastics vary a lot.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a test puts things in a clear order. What I saw: the fingernail marked the soap and the candle, but not the tile. Why: a harder thing cannot be scratched by a softer thing. In 1812, a German scientist named Friedrich Mohs used this idea to make a ladder of ten minerals. It runs from soft talc to diamond. Diamond is at the top, because it scratches everything.
+  *Parent says:* You tested eight things with a fingernail and a steel nail. Tell me three things. What do you think now about hard and soft? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a test puts things in a clear order. What I saw: the fingernail marked the soap and the candle, but not the mug. Why: a harder thing cannot be scratched by a softer thing. In 1812, a German scientist named Friedrich Mohs used this idea to make a ladder of ten minerals. It runs from soft talc to diamond. Diamond is at the top, because it scratches every other mineral.
   - Think: If a candle is at the bottom of our ladder, where would a diamond be?
 ### e3 · Twenty Questions Race: which key is fastest? (25 min)
 - **question:** Which first question makes the fastest branching key?
-- **predict:** Before you play, guess. Which finds a secret object in fewer questions? One key splits eight things into four and four. The other picks out one thing at a time.
+- **predict:** Before you play, guess, and say why you think so. Which key finds a secret object in fewer questions? One key splits eight things into four and four. The other picks out one thing at a time.
 - **fair test:** Use the same eight things for both keys. Each thing is picked once for each key. The same person answers all the questions. Change only the key.
 - **safety:** Nothing special. Keep glass things low over a soft rug.
 - **record:** Fill in the table. Then draw a bar chart of the average number of questions for each key.
@@ -419,9 +423,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent does:* 1. Lay out the eight things. 2. Draw Key A on a big sheet. First question: 'Is it hard?' Hard things: steel spoon, wooden spoon, comb, bangle. Soft: rubber band, sock, hanky, candle. 3. Ask your child to add questions to each branch, until each thing is alone.  
   *Parent says:* We will build a key together. Our first question is: is it hard? That splits the eight things into four and four. Now let's add a question to each side.  
   *Child mode:* Draw a branching key. First question: is it hard? Four things go left and four go right. Add questions until each thing is alone.
-  - Note: A good Key A looks like this. Hard: 'Is it shiny?' Yes gives steel spoon or bangle, split by 'Is it metal?'. No gives wooden spoon or comb, split by 'Is it wood?'. Soft: 'Is it cloth?' Yes gives sock or hanky, split by 'Is it wool?'. No gives rubber band or candle, split by 'Does it stretch?'.
+  - Note: A good Key A looks like this. Hard: 'Is it made of metal or glass?' Yes gives steel spoon or bangle, split by 'Is it metal?'. No gives wooden spoon or comb, split by 'Is it wood?'. Soft: 'Is it cloth?' Yes gives sock or hanky, split by 'Is it wool?'. No gives rubber band or candle, split by 'Does it stretch?'.
 - **s2 (4 min)**  
-  *Parent does:* Draw Key B on another sheet. It asks one question per thing. First, 'Is it the steel spoon?' If no, 'Is it the wooden spoon?' If no, 'Is it the comb?' Go on down the line.  
+  *Parent does:* Draw Key B on another sheet. It asks one question per thing. First ask if it is the steel spoon. If not, ask if it is the wooden spoon. If not, ask if it is the comb. Go on down the line.  
   *Parent says:* Key B is a different kind of key. Each question picks out just one thing. The line of questions is long.  
   *Child mode:* Draw Key B. It asks about one thing at a time. Ask 'Is it the steel spoon?' If not, ask about the next. Keep going.
   - Ask: Which key do you think will be faster? (good: Key A, because each question cuts the group in half.; Key B, because it might get lucky on the first question.)
@@ -437,26 +441,26 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   - Check: Key A needed 3 questions for every thing. Key B needed 1, 2, 3, 4, 5, 6, 7 and 7. Which key is better for finding a thing when you do not know which it is? → **Key A, because it takes the same short time for every thing**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* You found every thing with both keys. Tell me three things. What do you think makes a key fast? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a question that splits the group in half makes the fastest key. What I saw: Key A needed 3 questions for every thing, but Key B needed up to 7. Why: each question that halves the group cuts the left over things in half again. Three halvings take eight things down to one.
   - Think: How many questions would a key like Key A need to find one thing among 16? Among 32?
 ### e4 · Sort by Sound (25 min)
 - **question:** Do things that look alike also sound alike? Is sorting by sound the same as sorting by looks?
-- **predict:** Before you test, line up your six things. Put the one you think will ring longest first and the shortest last.
-- **fair test:** Hang each thing from the same kind of thread. Tap it with the same pencil, in the same place, with the same light tap. Listen in a quiet room. Try each thing three times.
-- **safety:** Tap lightly, especially on the ceramic cup. Do the test over a soft rug in case something falls.
+- **predict:** Before you test, line up your six things. Put the one you think will ring longest first and the shortest last. Say why you think so.
+- **fair test:** Hold each thing so that almost nothing touches it. Hang spoons and the mug from a thread. Rest the katori, the tumbler and the foil container, open side up, on the tips of three fingers of a flat hand. Tap each one with the same pencil, in the same place, with the same light tap. Listen in a quiet room. Try each thing three times.
+- **safety:** Tap lightly, especially on the ceramic mug. Do the test over a soft rug or a folded towel, in case something falls.
 - **record:** Fill in the table. Make two lists of groups: one sorted by looks and one sorted by sound. Circle the things that moved to a different group.
 - **results table:** Thing | Looks: colour | Try 1: seconds of ringing | Try 2 | Try 3 | Middle value
 - **s1 (4 min)**  
-  *Parent does:* 1. Put the six things on a tray. 2. Ask your child to sort them by how they look. For example, silver-coloured, yellow-coloured and other. 3. Write the groups in the table. 4. Ask them to guess which will ring longest.  
-  *Parent says:* Here are six things. First, sort them by how they look. Silver things, yellow things, and the rest. Now guess which will ring longest when tapped.  
+  *Parent does:* 1. Put the six things on a tray. 2. Ask your child to sort them by how they look: silver-coloured and not silver-coloured. 3. Write the groups in the table. 4. Ask them to guess which will ring longest, and why.  
+  *Parent says:* Here are six things. First, sort them by how they look. Silver things in one group, and the rest in the other. Now guess which will ring longest when tapped. Why do you think so?  
   *Child mode:* Sort the six things by how they look. Write the groups. Now guess which will ring longest.
 - **s2 (12 min)**  
-  *Parent does:* 1. Tie a loop of thread to a thing. For a spoon, tie the thread round the handle. For a bowl, loop it through the rim. 2. Hold the other end of the thread so the thing hangs free. 3. Tap it lightly with a pencil and start timing. 4. Listen until you cannot hear it any more. 5. Write the seconds in the table. 6. Do it three times for each thing.  
-  *Parent says:* Hang the thing by its thread, so nothing is touching it. Tap it once, gently. Listen. Count the seconds until the ring has completely faded.  
-  *Child mode:* Hang the thing by its thread. Tap it once, lightly, with the pencil. Listen closely. Count how many seconds it rings. Write it down.
-  - Note: Hanging the thing stops your hand from damping the sound. It is quiet work, so turn off any fan or TV. Ring times are rough, and this is fine. Look at the differences, which are big. Try three times because one try may be a fluke.
+  *Parent does:* 1. Tie a loop of thread round the handle of each spoon and the mug. Hold the other end so the thing hangs free. 2. Rest the katori, the tumbler and the foil container, open side up, on three fingertips of a flat hand. 3. Tap it lightly with a pencil and start timing. 4. Listen until you cannot hear it any more. 5. Write the seconds in the table. 6. Do it three times for each thing.  
+  *Parent says:* Hold the thing so almost nothing touches it. Tap it once, gently. Listen. Count the seconds until the ring has completely faded.  
+  *Child mode:* Hang the spoon by its thread. Rest a bowl on your fingertips. Tap it once, lightly, with the pencil. Count how many seconds it rings. Write it down.
+  - Note: A hand wrapped round a thing stops the ringing, so hold it by a thread or on fingertips. It is quiet work, so turn off any fan or TV. Ring times are rough, and this is fine. Look at the differences, which are big. Try three times because one try may be a fluke. Expect the katori and the tumbler to ring for several seconds, and the foil container and plastic spoon hardly at all.
 - **s3 (5 min)**  
   *Parent does:* 1. Make a new set of groups, by sound. For example, rings for a long time, rings for a short time, hardly rings. 2. Compare with the groups made by looks. 3. Circle any thing that moved to a different group.  
   *Parent says:* Now sort the same six things by how they sound. Do the groups look like the groups we made by sight?  
@@ -464,9 +468,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   - Check: Two bowls look the same. One rings for 8 seconds and one for 1 second. What can we say? → **Sorting by looks hid a difference that sorting by sound showed**
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: sorting by sound gives different groups from sorting by looks. What I saw: the brass bowl and the foil dish both looked metallic, but they rang for different times. Why: the sound depends on the material and the shape, which looks do not show. A bell-maker sorts scrap by ear for this reason, as in the story.
+  *Parent says:* You sorted the same six things by looks and then by sound. Tell me three things. What do you think now about sorting by looks? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: sorting by sound gives different groups from sorting by looks. What I saw: the steel katori and the foil container were both silver, but the katori rang for 6 seconds and the container hardly rang. Why: the sound depends on the material and its shape and thickness, and looks do not show these. A bell-maker can sort scrap metal by ear for this reason, as in the story.
   - Think: When is it better to sort by looks? When is it better to sort by sound?
 
 ## Activities
@@ -481,7 +485,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **s2 (10 min)**  
   *Parent does:* 1. Take everything out and put it on a table. 2. Sort by a new rule: what it is made of. 3. Mix and sort again: by what it is used for. 4. Take a photo of each sort.  
   *Parent says:* Now let's sort the whole drawer by a different rule. First, by what each thing is made of. Then, by what it is used for.  
-  *Child mode:* Take everything out. Take everything out. Sort it by material, such as steel, wood and plastic. Mix it up. Sort it again by use.
+  *Child mode:* Take everything out. Sort it by material, such as steel, wood and plastic. Mix it up. Sort it again by use.
   - Note: Notice which rule makes the drawer easier to use, and which makes it easier to clean. Both are good reasons. A steel spoon is in the steel group by material, and in the eating group by use.
 - **s3 (5 min)**  
   *Parent does:* Put the things back by the rule that your child thinks works best. Ask why.  
@@ -507,43 +511,43 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Child mode:* Change one label. Hard becomes Metal. Which things need to move? Move them.
   - Think: Did the things change? Or only the rule?
 ### a3 · Dal Detective and the Sup (20 min)
-- **safety:** A grown-up mixes the pebbles in. Work outdoors, on a balcony or by an open window, with newspaper underneath. Do not eat this dal afterwards.
-- **record:** Draw the three piles: dal, pebbles and husk. Write the rule used to make each pile.
+- **safety:** A grown-up mixes in the stones or salt. Work on a balcony or by an open window, with newspaper underneath. Do not cook this dal afterwards.
+- **record:** Draw the three piles: dal, stones and leaf flakes. Write the rule used to make each pile.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up mixes the pebbles and the crushed leaves into the dal. 2. Spread the dal on a thali. 3. Ask your child to pick out the pebbles one at a time.  
+  *Parent does:* 1. A grown-up mixes the stones or salt crystals and the leaf flakes into the dal. 2. Spread the dal on a thali. 3. Ask your child to pick out the stones one at a time.  
   *Parent says:* In many homes, someone picks stones out of dal before cooking. That is sorting, and it has a rule. Is it dal, or is it not dal?  
-  *Child mode:* A grown-up mixes pebbles into the dal. Spread the dal on a plate. Pick out the pebbles. The rule is: dal or not dal?
+  *Child mode:* A grown-up mixes stones into the dal. Spread the dal on a plate. Pick out the stones. The rule is: dal or not dal?
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Pour the dal and crushed leaves on a flat tray. 2. Hold the tray low, outdoors, and gently toss the dal up an inch, then catch it. 3. Blow gently across the tray while you toss. 4. Watch what happens to the light bits and the heavy bits.  
-  *Parent says:* Farmers do this in a sup, a flat basket, to sort grain from husk. Toss gently. Blow across it. Watch what goes where.  
+  *Parent does:* 1. Pour the dal and leaf flakes on a flat tray. 2. Hold the tray low, over newspaper, and gently toss the dal up about two centimetres, then catch it. 3. Blow gently across the tray while you toss. 4. Watch what happens to the light bits and the heavy bits.  
+  *Parent says:* Farmers do this in a sup, a flat basket, to sort grain from husk. Our leaf flakes stand in for the husk. Toss gently. Blow across it. Watch what goes where.  
   *Child mode:* Toss the dal gently in the tray, and blow across it. Watch the light bits float away. Watch the dal fall back.
   - Ask: What does the blowing sort? What is the rule? (good: It sorts light from heavy.; Light bits blow away. Heavy dal falls back down.)
   - Check: In winnowing, why does the husk blow away but the grain stays? → **The husk is lighter, so the wind moves it more**
 - **s3 (7 min)**  
-  *Parent does:* Look at the three piles: dal, pebbles and husk. Ask how many rules were used.  
+  *Parent does:* Look at the three piles: dal, stones and leaf flakes. Ask how many rules were used.  
   *Parent says:* We made three piles with two different rules. What were the rules? Which rule used hands, and which used the wind?  
   *Child mode:* Look at your three piles. How many rules did you use? Which rule used your hands? Which used the wind?
   - Think: People have sorted grain for thousands of years. What are the earliest sorting tools? Hands. Then the wind. What next?
 ### a4 · Model Recycling Line (25 min)
-- **safety:** Keep the magnet away from phones, bank cards and small children. Work outdoors or over newspaper.
+- **safety:** Keep the magnet away from phones and bank cards. Keep paper clips and small bits away from babies. Work over newspaper.
 - **record:** Draw your recycling line in order. Write the rule at each step.
 - **s1 (6 min)**  
   *Parent does:* 1. Tip the mixed bits on a tray. 2. Ask your child to plan the order of sorting steps. They may use blowing, a magnet and a bowl of water. 3. Write the plan.  
   *Parent says:* A recycling plant sorts in steps. Each step has one rule. You have three tools: your breath, a magnet and a bowl of water. In what order will you use them?  
   *Child mode:* Plan your recycling line. You have three tools: breath, a magnet and water. Which comes first? Write down your plan.
-- **s2 (14 min) · grown-up needed**  
-  *Parent does:* 1. Blow gently over the tray, outdoors, to move the light paper into a bowl. 2. Run the magnet over the rest. The steel clips jump to it. Drop them in a bowl. 3. Tip what is left into the water. Scoop off what floats. 4. What sinks stays at the bottom. Dry it on a towel.  
+- **s2 (14 min)**  
+  *Parent does:* 1. Blow gently over the tray to move the light paper into a bowl. 2. Run the magnet over the rest. The steel clips jump to it. Drop them in a bowl. 3. Tip what is left into the water. Scoop off what floats. 4. What sinks stays at the bottom. Dry it on a towel.  
   *Parent says:* Step one, blow away the lightest bits. Step two, the magnet picks up the steel. Step three, water: what floats and what sinks? Each step has its own rule.  
   *Child mode:* Blow the paper away. Use the magnet on the clips. Put the rest in water. What floats? What sinks?
-  - Note: Expect paper to blow away and clips to jump to the magnet. Expect caps to float, and stones and foil balls to sink. The magnet picks up only some metals. You can find out why in the Magnetic materials lesson. Tight foil sinks, but a flat sheet of foil floats.
-  - Check: Why should the magnet step come before the water step? → **So the steel clips stay dry and do not rust**
+  - Note: Expect paper to blow away and clips to jump to the magnet. Expect caps to float, and the rajma or chana to sink. A magnet attracts iron and steel, but not aluminium, copper or plastic. If your fridge magnet is too weak to lift a clip, use any stronger magnet you have.
+  - Check: Why should the blowing step come before the water step? → **Wet paper sticks to things and will not blow away**
 - **s3 (5 min)**  
   *Parent does:* Compare the plan from step one with what you did. Ask what you would change.  
   *Parent says:* Did your plan work? If you did it again, would you change the order? Why?  
   *Child mode:* Did your plan work? Would you change the order? Why?
   - Think: How would a real plant sort bottles made of different plastics? They look the same. What tool could tell them apart?
 ### a5 · Star Sorter: be Annie (20 min)
-- **safety:** For the optional sky watch, go outside with a grown-up, and stay in a safe place.
+- **safety:** For the sky watch, go to a window, a balcony or a terrace with a grown-up.
 - **record:** Draw a long strip with the seven colours in order. Write the letters O B A F G K M under them.
 - **s1 (6 min)**  
   *Parent does:* 1. Mix up the seven coloured circles. 2. Say: in a gas flame, the blue part is the hottest part, and the orange part is cooler. A hot iron bar glows red, then yellow, then white as it gets hotter. 3. Ask your child to sort the circles from hottest to coolest star.  
@@ -557,8 +561,8 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   - Ask: Where would a very hot star go on the strip? Where would a cool one go? (good: Hot on the blue end.; Cool on the red end.)
   - Note: Astronomers have long used a rhyme to remember the order, beginning 'Oh, Be A Fine...'. Your child can make up their own rhyme with the seven letters. For example: Our Baby Always Finds Great Kittens, Mostly.
 - **s3 (6 min) · grown-up needed**  
-  *Parent does:* If the sky is clear, go outside with a grown-up after dark. Look for a reddish star and a blue-white star in Orion. Orion shows in the evening sky from about October to March.  
-  *Parent says:* Orion is easy to find in winter evenings. The red-orange star at the top left is Betelgeuse. The blue-white star at the bottom right is Rigel. Can you see the different colours?  
+  *Parent does:* If the sky is clear, go outside or to a window with a grown-up after dark. Look for a reddish star and a blue-white star in Orion. Orion is easy to see in the evening sky from about December to March. Both stars are bright enough to see from a city.  
+  *Parent says:* Orion is easy to find on winter evenings. Look for three stars in a row: that is Orion's belt. Above the belt is a red-orange star called Betelgeuse. Below it, on the other side, is a blue-white star called Rigel. Can you see the different colours?  
   *Child mode:* Go out with a grown-up after dark. Find Orion. Look at the red star and the blue-white star. Can you see the colours?
   - Think: You are looking at light that left those stars hundreds of years ago. What else can colour tell us from far away?
 ### a6 · Which Circles Are You In? (15 min)
@@ -602,7 +606,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 ### p1 · Our Home Materials Museum (70 min, 3 days)
 - **safety:** Choose things that are safe to handle. Keep sharp things out.
 - **record:** Photograph the three sorts. Keep the drawing of the branching key. Write down two things your visitors found confusing and how you fixed them.
-- **schedule:** day 1: Collect fifteen things. Sort them three ways and label the displays. (25 min); day 2: Choose ten things. Build a branching key to find each one. Test it yourself. (25 min); day 3: Open the museum to visitors. Let them use the key. Note what to fix. (20 min)
+- **schedule:** day 1: Collect fifteen things. Sort them three ways and label the displays. (25 min); day 2: Choose ten things. Build a branching key to find each one. Test it yourself. (15 min); day 3: Open the museum to visitors. Let them use the key. Fix what confused them. (30 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Walk round the house and collect fifteen small things, each made of one material. 2. Put them on a table. 3. Make a label for each one.  
   *Parent says:* We are going to make a small museum of materials. A museum is a place where things are collected, sorted and shown. First, collect fifteen things.  
@@ -629,16 +633,16 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   - Think: What did you learn from watching your visitors use your key?
 - **s6 (15 min)**  
   *Parent does:* Ask your child to say or write three sentences about what they learned. Then fix the key and put the museum on display.  
-  *Parent says:* Let's finish like real scientists. What do you think now about sorting? What did you see? Why?  
-  *Child mode:* Finish like a scientist. What I think. What I saw. Why. Then fix your key.
+  *Parent says:* Our visitors have used the key. Tell me three things. What do you think makes a good key? What did you see that shows it? And why?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why. Then fix your key.
   - Note: A good answer sounds like this. What I think: a good key has clear questions that anyone can answer the same way. What I saw: my visitor got stuck on 'Is it pretty?', so I changed it to 'Is it shiny?'. Why I changed it: a clear rule gives the same answer for everyone.
 
 ## Challenges
 ### c1 · Clean the Mixed-Up Jar (30 min)
-- **problem:** A jar holds rice, steel paper clips, small pebbles, plastic beads and dry crushed leaves, all mixed together. Your job is to separate it into five clean piles, using as few steps as you can.
+- **problem:** A jar holds rice, steel paper clips, dried rajma, plastic beads and dry crushed leaves, all mixed together. Your job is to separate it into five clean piles, using as few steps as you can.
 - **your turn:** Now invent your own order of steps. Draw it, try it, and time it. Is your line faster than the others?
 - **constraints:** You may not pick every bit out by hand one at a time.; You may only use things you find at home.; Time each way you try, and count the steps.
-- **general:** Use a magnet to take out the steel paper clips.; Use a sieve or colander with holes the right size, so small bits fall through and big bits stay.; Blow gently over the tray, or toss it in a flat tray, to take out the light leaves.; Put what is left into water. The plastic beads may float. The pebbles sink.
+- **general:** Use a magnet to take out the steel paper clips.; Use a sieve or colander with holes the right size, so small bits fall through and big bits stay.; Blow gently over the tray, or toss it in a flat tray, to take out the light leaves.; Put what is left into water. Some plastic beads float and some sink, so test one first. Rajma sinks.
 - **creative:** Tilt a tray and tap it gently. Round beads roll away faster than rice grains.; Rub a plastic comb on dry hair, then hold it over the tray. It may pick up the light leaf bits.; Stack two sieves with different hole sizes. Pour through both to make three piles in one go.; Think of a sorting machine in a factory. What is the clever step that you could copy?
 - **s1 (5 min)**  
   *Parent does:* 1. Look at the mixed jar. 2. Ask your child to list the five kinds of thing. 3. Ask which tool might work on each.  
@@ -652,7 +656,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent does:* 1. Try the plan. 2. Time it. 3. Count the steps. 4. Try one change and time it again.  
   *Parent says:* Try your plan and time it. Then change one thing and try again. Which version is faster?  
   *Child mode:* Try your plan. Time it. Change one thing. Try again. Which is faster?
-  - Note: A magnet first is usually best. Then blow or toss for the leaves. Then use a sieve for the beads and rice. Use water or a second sieve for the pebbles. If a step does not work, ask which property is different. The answer is always one more rule.
+  - Note: A magnet first is usually best. Then blow or toss for the leaves. Then use a sieve or colander: rice falls through, and the rajma and beads stay. Pick out the rajma, or try water if your beads float. If a step does not work, look for one property where the two kinds differ, such as size, weight or floating, and use a tool that sorts by it.
 - **s4 (5 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together. Then invent a new one.  
   *Parent says:* Here is what engineers usually do, and some creative ideas. Can you invent something new?  
@@ -742,7 +746,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    Options: The soap / The plastic comb / They are the same  
    **Answer:** The plastic comb. *Why:* The comb was not marked by the fingernail, but the soap was. So the comb is harder. Picking the soap usually means the ladder was read upside down. A thing that is marked more easily is softer.
 4. (sort) Put these on the right rung of the Scratch Ladder.  
-   **Answer:** soap → Rung 1: a fingernail marks it; candle → Rung 1: a fingernail marks it; wooden spoon → Rung 2: only a steel nail marks it; plastic comb → Rung 2: only a steel nail marks it; steel spoon → Rung 3: even a steel nail does not mark it; glazed tile → Rung 3: even a steel nail does not mark it. *Why:* Soap and candle are marked by a fingernail. Wood and plastic need the steel nail. A steel spoon and a glazed tile resist even that.
+   **Answer:** soap → Rung 1: a fingernail marks it; candle → Rung 1: a fingernail marks it; wooden spoon → Rung 2: only a steel nail marks it; plastic comb → Rung 2: only a steel nail marks it; ceramic mug → Rung 3: even a steel nail does not mark it; glass jar → Rung 3: even a steel nail does not mark it. *Why:* Soap and candle are marked by a fingernail. Wood and plastic need the steel nail. The glaze on a ceramic mug and a glass jar resist even that.
 5. (mcq) Key A asks 'Is it hard?' first and then splits each half again. Key B asks about one thing at a time. For eight things, which key never needs more than three questions?  
    Options: Key A / Key B / Both  
    **Answer:** Key A. *Why:* Key A halves the group each time: 8, 4, 2, 1. So it needs at most three questions. Key B can need seven. Picking Key B usually means counting the lucky first guess and forgetting the unlucky ones.
@@ -751,7 +755,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 7. (mcq) Eight things. Four are hard: steel spoon, wooden spoon, plastic comb and glass bangle. Four are soft: rubber band, woollen sock, cotton hanky and candle. Which first question is best for a key?  
    Options: Is it the steel spoon? / Is it hard? / Is it a spoon? / Is it the candle?  
    **Answer:** Is it hard?. *Why:* 'Is it hard?' splits the eight things into four and four. The best first question cuts the group in half. The others pick out just one or two things.
-8. (mcq) Two bowls look the same. One rings for a long time when tapped. The other goes 'tuk'. What does this show?  
+8. (mcq) Two bowls look the same. One rings for a long time when tapped. The other rings only for a moment. What does this show?  
    Options: Sorting by sound can show a difference that sorting by looks misses / One bowl is dirty / Sound is not a property / The bowls must be the same material  
    **Answer:** Sorting by sound can show a difference that sorting by looks misses. *Why:* Looks and sounds are different rules. They can sort the same things into different groups. Picking 'the bowls must be the same material' usually means trusting looks too much.
 9. (mcq) Cornflour and water flows slowly, but feels hard if you punch it. Which group does it belong in?  
@@ -769,7 +773,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** A blue-white star. *Why:* Blue-white stars are the hottest. Red stars are the coolest. Picking red is very common, because red makes us think of fire. But a gas flame is hotter in its blue part.
 14. (mcq) A whale lives in water and has fins. Why do scientists call it a mammal and not a fish?  
    Options: It breathes air and feeds its baby on milk / It is very big / It lives in cold water / It has no scales  
-   **Answer:** It breathes air and feeds its baby on milk. *Why:* Scientists sort by who the whale is related to, not only by how it looks. A whale breathes air, is warm-blooded and nurses its young. Picking 'very big' or 'cold water' uses rules that do not decide the group.
+   **Answer:** It breathes air and feeds its baby on milk. *Why:* Scientists sort by who the whale is related to, not only by how it looks. A whale breathes air, is warm-blooded and nurses its young. Picking 'very big' or 'cold water' uses things that are not what scientists sort by.
 15. (write) A botanist says a tomato is a fruit. A cook says it is a vegetable. Can both be right? Explain.  
    **Answer:** Yes. They use different rules for different jobs. A botanist sorts by how the plant grows seeds. A cook sorts by taste and how food is used in meals.. *Why:* A sort depends on the rule and the job. Both rules can be right for their own purposes.
 16. (write) Design three questions for a key. A blind person must be able to use it to tell apart a spoon, a cloth and a stone. Use touch or sound only.  
@@ -816,9 +820,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    Options: Each good question halves the possibilities, and halving twenty times gives a million / Each question adds a hundred / Twenty is a magic number / The questions are very long  
    **Answer:** Each good question halves the possibilities, and halving twenty times gives a million. *Why:* One question tells 2 apart, ten tell 1,024 apart, and twenty tell 1,048,576 apart. Doubling grows very fast. Picking 'each question adds a hundred' mixes up adding with doubling.
 14. (write) Design a sorting line for a pile of rubbish containing paper, steel tins, glass bottles and plastic bottles. Say the rule at each step.  
-   **Answer:** Step 1: blow or use a fan to move paper. Step 2: magnet takes steel tins. Step 3: water bowl, plastic floats and glass sinks. Or other correct orders.. *Why:* Any sensible order with a clear rule at each step is right.
+   **Answer:** Step 1: blow, or use a fan, to move the light paper. Step 2: a magnet attracts the steel tins. Step 3: a tub of water, where plastic bottles with their caps on float and glass sinks. Other sensible orders are right too.. *Why:* Any sensible order with a clear rule at each step is right.
 15. (draw) Draw a branching key for four fruits: mango, banana, guava, apple. Use yes or no questions.  
-   **Answer:** For example, 'Is it yellow when ripe?' Yes gives mango or banana, split by 'Is it long and curved?'. No gives guava or apple, split by 'Is it red?'.. *Why:* A key splits the group at each question until each fruit is alone. The questions must have clear yes or no answers.
+   **Answer:** For example, 'Do you peel it before eating?' Yes gives mango or banana, split by 'Is it long and curved?'. No gives guava or apple, split by 'Is it red outside?'.. *Why:* A key splits the group at each question until each fruit is alone. The questions must have clear yes or no answers.
 16. (truefalse) A star that looks red is hotter than a star that looks blue.  
    **Answer:** False. *Why:* False. Red stars are cooler. Blue-white stars are hotter. A gas flame is also hotter in its blue part.
 17. (mcq) A girl can hear what her grandfather cannot, so she helps him sort the metal. What does this show about sorting?  
@@ -828,7 +832,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 ## Videos
 - **The genius of Mendeleev's periodic table** (TED-Ed, 5 min) id `fPnwBITSmgU`: A short, clear story of how Mendeleev sorted the elements, left gaps and predicted new elements. Good for older children and for the parent. *Check:* Found by YouTube search: "The genius of Mendeleev's periodic table - Lou Serico" by TED-Ed. Title checked automatically; a parent may still preview it.
 - **Dan Shechtman, Nobel Prize in Chemistry 2011: Nobel Lecture** (Nobel Prize, 10 min) id `z3oKhYhOVSk`: The scientist who found the 'impossible' quasicrystal tells his own story. It is long and aimed at adults. Watch only the first ten minutes, which cover the discovery and how colleagues reacted. *Check:* Found by YouTube search: "2011 Nobel Prize in Chemistry" by Nobel Prize. Title checked automatically; a parent may still preview it.
-- **A tour of a recycling plant that sorts with magnets, cameras and air jets** (to be chosen, 6 min) id `nUrBBBs7yzQ`: Shows layered sorting on a big scale. Magnets take steel, machines take aluminium cans, and cameras with air jets sort plastics. *Check:* Found by YouTube search: "The Big Sort: An Insider's Tour of a Recycling Plant" by SciFri. Title checked automatically; a parent may still preview it.
+- **The Big Sort: An Insider's Tour of a Recycling Plant** (Science Friday, 6 min) id `nUrBBBs7yzQ`: Shows layered sorting on a big scale. Magnets take steel, machines take aluminium cans, and cameras with air jets sort plastics. *Check:* Found by YouTube search: "The Big Sort: An Insider's Tour of a Recycling Plant" by SciFri. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is a sorting rule?  
@@ -891,7 +895,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 
 ## Applications
 - Libraries put books on shelves by subject, so that you can find the one you want.
-- Post offices sort letters by pin code, first by region and then by street, in layers, like a branching key.
+- Post offices sort letters by PIN code, in layers like a branching key. The first digit gives the region, the next ones narrow it down to one post office.
 - Recycling plants sort rubbish with magnets, wind, water, cameras and jets of air.
 - Doctors use branching charts of yes or no questions to work out what illness a patient has.
 - Bird and plant books have keys. You answer questions about the beak or the leaf, and the key tells you the name.
@@ -901,7 +905,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - Online shops let you filter by colour, size and price. Each filter is a sorting rule.
 - Tea estates grade tea leaves by size, and mango sellers in a mandi sort mangoes by size and ripeness.
 - Farmers winnow grain, and flour mills use sieves to sort flour by how fine it is.
-- Gem sellers sort stones by colour, clearness and hardness, and use the scratch idea behind the Mohs ladder.
+- Geologists test how hard a mineral is by seeing what scratches it, using the Mohs scale.
 - Hospitals triage patients, which means sorting them by how urgently they need help.
 - Search engines and AI programs sort pictures and words, and need to be tested to be fair to everyone.
 
@@ -944,32 +948,32 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - Why was the stone not allowed in the dal? *It was a hard case.*
 - What did the rubber band say to the sorting rule? *I'll stretch a point for you.*
 - Why did the Venn diagram go to the party? *It loved to overlap with friends.*
-- Why did the tin go to school? *It wanted to be well-rounded.*
-- What do you call a very tidy kabadiwala? *A pile-ot.*
+- Why did the steel clips sit next to the magnet? *They found it very attractive.*
+- What is a kabadiwala's favourite game? *Pile and seek.*
 - Why was the key so good at its job? *It always asked the right questions.*
 - Why did the sock refuse to go in the shiny group? *It was feeling dull.*
 - What did the glass bangle say when it was sorted with the metal? *I'm clearly in the wrong group.*
-- Why did the pebble get picked out of the dal? *It was a bit stony-faced.*
+- What did the dal say to the little stone? *Sorry, you are not one of us. Off you rock!*
 - Why was the candle so hard to sort? *It was always in the middle of things.*
 - Why do stars get sorted by colour? *They are always in a good light.*
-- What did the mango say to the crate? *I think I'm in the right size group.*
-- Why did the magnet get all the clips? *It had a pull in the sorting line.*
+- Is a tomato a fruit or a vegetable? *Ask a botanist and a cook together, then stand well back.*
+- What did the sieve say to the flour? *You may pass. The stones must stay.*
 - Why is a tidy drawer so happy? *Everything is in its place, and it can relax.*
 - Why did the question mark join the branching key? *It wanted to be asked.*
-- Which group is the quietest? *The silent group.*
+- Which group did the plastic spoon join in Sort by Sound? *The quiet group. It had nothing to say.*
 - Why was the sieve so calm? *It let the small things go.*
-- What did the table say to the chair? *You never fit in my group, but I like you anyway.*
-- Why did the scientist cut up the book? *She wanted to sort the pages.*
-- Why did the blue star feel hot? *Because it was a bit of a high flyer.*
+- Why is a Carroll table never lonely? *It always has four boxes of friends.*
+- Why did Mendeleev leave gaps in his table? *He was saving seats for elements who were late.*
+- Why don't red stars boast about how hot they are? *The blue stars would laugh at them.*
 - Why was the lentil proud? *It was dal-ightful.*
 - What did the platypus say when asked to choose a box? *None of the above.*
-- Why was the bell so good at singing? *It had been sorted out.*
+- Why did everyone like Hira's bell? *It had a lovely ring to it.*
 
 ## Connected maths
 - In the experiment One Heap, Three Rules, a child sorted twelve things into the four boxes of a Carroll table. The chart shows how many things were in each box. How many things were soft, and how many were dull? **6 things were soft and 8 were dull.**. Soft things are in two boxes: soft and shiny has 1, and soft and dull has 5. 1 + 5 = 6. Dull things are also in two boxes: hard and dull has 3, and soft and dull has 5. 3 + 5 = 8. Check: 6 soft and 6 hard make 12, and 4 shiny and 8 dull make 12. (queues `math.data.sorting-and-tallies.L3`)
 - In the Floor Venn, ten things were sorted. 5 were shiny. 4 were hard. 2 were both shiny and hard. How many things were neither shiny nor hard? **3 things.**. The 2 things that are both were counted once in the shiny 5 and again in the hard 4. So the things that are shiny or hard are 5 + 4 - 2 = 7. The other things are 10 - 7 = 3. Check with the diagram: only shiny 3, both 2, only hard 2, neither 3. That makes 3 + 2 + 2 + 3 = 10. (queues `math.logic.sets-and-venn.L2`)
 - Each good question doubles the number of things a branching key can tell apart. One question tells 2 apart. Two questions tell 4 apart. Three tell 8 apart. How many things can five questions tell apart? And how many questions are needed to tell 16 things apart? **Five questions tell 32 things apart. To tell 16 things apart you need 4 questions.**. Keep doubling. 2, 4, 8, then 16 for four questions, then 32 for five. So five questions tell 32 things apart. The number 16 comes after four doublings, so 16 things need 4 questions. (queues `math.patterns.number-patterns.L3`)
-- In Sort by Sound, a steel katori rang for 5 seconds and a steel spoon for 4 seconds. A brass bowl rang for 2 seconds. A foil dish and a ceramic cup rang for 1 second each. Draw a bar chart. How many seconds longer did the steel katori ring than the brass bowl? **3 seconds longer. Here is the bar chart.**. Draw one bar for each thing, as tall as its number of seconds. The steel katori bar reaches 5. The brass bowl bar reaches 2. 5 - 2 = 3. So the steel katori rang 3 seconds longer. (queues `math.data.bar-charts.L3`)
+- In Sort by Sound, a steel katori rang for 6 seconds and a steel tumbler for 5 seconds. A steel spoon rang for 2 seconds and a ceramic mug for 1 second. Draw a bar chart. How many seconds longer did the steel katori ring than the steel spoon? Both are made of steel, so why might they ring for different times? **4 seconds longer. They are the same material, so the difference must come from their shape and size.**. Draw one bar for each thing, as tall as its number of seconds. The katori bar reaches 6. The spoon bar reaches 2. 6 - 2 = 4. So the katori rang 4 seconds longer. The material is the same, so something else changed the sound: the katori is a wide, thin bowl, and the spoon is a small, thick strip. (queues `math.data.bar-charts.L3`)
 - A kabadiwala sorts a heap into piles. There are 12 kilograms of paper, 7 kilograms of iron, 5 kilograms of plastic and 4 kilograms of glass. How many kilograms are in the whole heap? **28 kilograms.**. Add the four piles. 12 + 7 = 19. 19 + 5 = 24. 24 + 4 = 28. Check by adding in a different order. 12 + 4 = 16, and 7 + 5 = 12, and 16 + 12 = 28. (queues `math.addition-subtraction.written-methods.L3`)
 - Mendeleev published his table in 1869. Germanium, one of the elements he predicted, was found in 1886. How many years later was germanium found? **17 years.**. Find the gap between 1869 and 1886. 1886 - 1869 = 17. You can count up. From 1869 to 1880 is 11 years, and from 1880 to 1886 is 6 more. 11 + 6 = 17. (queues `math.addition-subtraction.mental-strategies.L3`)
 
@@ -991,11 +995,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [A kabadiwala or recycling shop near you]() · place · anywhere: Ask permission to watch for ten minutes. How many piles does he or she make? What is the rule for each pile?
 
 ## Things to buy
-- [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Helps to see scratches in the Scratch Ladder and to look closely at things in the museum. Used in e2, p1. 
-- [Flat fridge magnet or a bar magnet](https://www.amazon.in/s?k=bar+magnet+kids) (tool): Used as one step in the model recycling line. Used in a4. Used again in the Magnetic materials lesson.
-- [Sticky labels](https://www.amazon.in/s?k=sticky+labels+stationery) (material): For naming groups and rules in the materials museum. Used in p1. 
-- [Small hula hoops or soft ropes](https://www.amazon.in/s?k=small+hula+hoop+kids) (material): Two of them make a Venn diagram on the floor. Used in a2, a6. 
-- [SET, the card game of patterns](https://www.amazon.in/s?k=SET+card+game) (game): Each card has four features. Players find sets of three by noticing which features match. It trains the skill of sorting by several rules at once. Used in g1. If the family has it, play 10 minutes of SET after Rule Detective. Talk about which rules you used.
+- [A small bar magnet (only if your fridge magnets are too weak to lift a paper clip)](https://www.amazon.in/s?k=bar+magnet+kids) (tool): Used to pick the steel clips out in the model recycling line. Used in a4. Also useful in the units on magnets.
 - [Women in Science: 50 Fearless Pioneers Who Changed the World, by Rachel Ignotofsky](https://www.amazon.in/s?k=Women+in+Science+Rachel+Ignotofsky) (book): An illustrated book with short stories of women scientists, including star sorters and chemists. Used in a5. If bought, read the page about Annie Jump Cannon after Star Sorter. Then read about other women scientists.
 - [The Periodic Table: Elements with Style!, by Adrian Dingle](https://www.amazon.in/s?k=The+Periodic+Table+Elements+with+Style+Adrian+Dingle) (book): A picture book that introduces the elements, with a friendly drawing for each family of the periodic table. Used in g2. If bought, read it after Find the Missing Card, and spot the columns that you found in the game.
 

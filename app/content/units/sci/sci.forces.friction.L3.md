@@ -1,9 +1,9 @@
-# Friction: the force that stops things sliding
+# Friction: the grip that works against sliding
 `sci.forces.friction.L3`
 
-**Summary.** This unit is about friction. Friction is the grip between two things that touch. It is why your chappal does not slip on the road. Friction always works against sliding. It lets you walk, write, tie a knot and stop a bicycle. It also slows moving things down, warms them up and slowly wears them out. Rough or soft surfaces usually grip more. Oil, water and wheels help things slide or roll more easily. Scientists can measure friction very well. But they still argue about what exactly happens where two surfaces meet, and even about why ice is slippery.
+**Summary.** Friction is the grip between two surfaces that touch, and it always works against sliding. It is why your chappal does not slip on the road, and why a rolling ball slows down and stops. Friction also turns movement into heat and slowly wears things away. Rough surfaces, rubber and pressing harder give more friction, while oil, water and wheels give less. Scientists can measure friction well, but they still argue about exactly why surfaces grip, and even why ice is slippery.
 
-**Intro.** *Try this. Hold a pencil between two fingers, as lightly as you can. Now imagine your fingers and the pencil were perfectly slippery, like wet soap. Could you still write your name?* Nearly four thousand years ago, workers in Egypt moved a huge stone statue across the desert. It was as heavy as ten elephants. They dragged it on a wooden sledge, a big flat sled with no wheels. An old wall painting shows the scene. At the front, one man is doing something strange. He is pouring water onto the sand. Was it magic? A prayer? Or did he know something about friction, the force this unit is about?
+**Intro.** *Try this. Hold a pencil between two fingers, as lightly as you can. Now imagine your fingers and the pencil were perfectly slippery, like wet soap. Could you still write your name?* Nearly four thousand years ago, workers in Egypt moved a huge stone statue across the desert. It was as heavy as ten elephants. They dragged it on a wooden sledge, a big flat sled with no wheels. An old wall painting shows the scene. At the front, one man is doing something strange. He is pouring water onto the sand. Why would he do that? By the end of this unit, you will know. It has to do with friction, the grip between things that touch.
 
 ## Learning outcomes
 0. I can say what friction is: a force where two things touch, which works against sliding.
@@ -32,7 +32,7 @@
 - **Wear**: Friction very slowly rubbing tiny bits off a surface. *e.g.* Old temple steps have a dip in the middle. Millions of feet rubbed the stone away over hundreds of years.
 - **Tread**: The pattern of grooves on a tyre or a shoe sole. It helps them grip, and lets water escape on wet ground. *e.g.* New bicycle tyres have deep tread. Old tyres worn smooth are called bald, and they slip more easily.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope. One grain of sand has more atoms in it than there are grains of sand on all of India's beaches. *e.g.* Your shoe, the floor and the air are all made of atoms.
-- **Electron**: An even tinier bit on the outside of every atom. Electrons carry electric charge, so they push and pull on each other. When two surfaces touch, it is really their electrons pushing and tugging. *e.g.* Friction, the floor holding you up, and a rubbed balloon sticking to a wall all come from electric pushes and pulls.
+- **Electron**: An even tinier particle on the outside of every atom. Electrons carry electric charge, so they push and pull on each other. When two surfaces touch, it is really their electrons pushing and tugging. *e.g.* Friction, the floor holding you up, and a rubbed balloon sticking to a wall all come from electric pushes and pulls.
 - **Energy**: What it takes to make something move, warm up or change. Energy never disappears. It only changes from one kind into another. *e.g.* A rolling ball has movement energy. When friction stops the ball, that energy becomes a tiny bit of heat.
 - **Superfluid**: A very strange liquid that flows with no friction at all. Scientists make it by cooling helium, a gas, until it is almost as cold as anything can ever be. *e.g.* Superfluid helium can creep up the inside wall of its cup, over the rim, and drip off the outside.
 - **Tide**: The sea rising and falling, about twice a day. It happens mainly because the Moon's gravity pulls on the oceans. *e.g.* At Mumbai's beaches, you can walk far out on the sand at low tide.
@@ -41,7 +41,7 @@
 ### What friction is · *defined*
 **Definition:** Friction is a force that acts where two surfaces touch. It works against sliding, or against something starting to slide.
 
-Friction only appears when two things touch and one is being pushed or pulled to slide. It never starts anything moving by itself. It only holds back. Think of a book lying still on a flat table. Nobody is pushing it, so there is no friction on it at all. Now give the book a gentle push. Friction pushes back the opposite way, and the book soon stops.
+Friction only appears when two things touch and one is being pushed or pulled to slide. Friction never makes things slide. It always acts against sliding. Think of a book lying still on a flat table. Nobody is pushing it, so there is no friction on it at all. Now give the book a gentle push. Friction pushes back the opposite way, and the book soon stops.
 - e.g. A ball rolling on grass slows down and stops. The grass rubs against it.
 - e.g. When you walk, your foot pushes back on the ground. Friction pushes your foot forward, so you move ahead.
 - e.g. A bicycle brake rubs against the wheel. The rubbing slows the wheel down.
@@ -61,7 +61,7 @@ When two surfaces rest together, their tiny bumps settle into each other, and mo
 ### What changes friction · *defined*
 **Definition:** Friction depends mainly on two things. First, what the two surfaces are made of. Second, how hard they are pressed together.
 
-Rubber on stone grips much more than plastic on ice. That is the first thing: the materials. Pressing harder also gives more friction. A full bag presses on the floor harder than an empty one, so it is harder to drag. Here is the surprise. For hard things like bricks and wooden blocks, the size of the touching part hardly matters. A brick slides about as easily on its big flat side as on its thin edge. The chart shows typical made-up results. People were puzzled by this for hundreds of years. The rule does not work for soft, sticky things like rubber tyres or sticky tape.
+Rubber on stone grips much more than plastic on ice. That is the first thing: the materials. Pressing harder also gives more friction. A full bag presses on the floor harder than an empty one, so it is harder to drag. Here is the surprise. For hard things like bricks and wooden blocks, the size of the touching part hardly matters. A brick slides about as easily on its big flat side as on its thin edge. The pictures show made-up readings for a brick pulled both ways. People were puzzled by this for hundreds of years. The rule does not work for soft, sticky things like rubber tyres or sticky tape.
 - e.g. An empty school bag is easier to drag than a full one.
 - e.g. A brick lying flat and the same brick standing on its edge need about the same pull.
 - e.g. Racing cars use wide, soft tyres. For soft rubber, more touching area does give more grip.
@@ -91,7 +91,7 @@ You might think scientists worked this out long ago. They have not. There are a 
 
 Zoom in to where two surfaces touch, and keep zooming. You reach atoms. The outer parts of atoms are electrons, which carry electric charge. Electrons of the two surfaces push each other away. Atoms of the two surfaces also tug on each other and hold on for a moment. Sliding means breaking those little holds again and again. This same electric force makes the floor push up on you, so you don't sink into it. It also makes a rubbed balloon stick to a wall. Gravity pulls you down. Electric forces between atoms hold you up and give you grip.
 - e.g. The floor holding you up and your shoe gripping the floor are the same kind of force.
-- e.g. Press two thin fridge magnets face to face and slide one. You feel a clicky, sticky slide. It is a giant model of atoms grabbing and letting go.
+- e.g. Press two thin fridge magnets face to face and slide one. You feel a clicky, sticky slide. It is a giant model of atoms attracting each other and letting go.
 ### Where the movement goes: jiggling atoms, and the arrow of time · *idea*
 Heat is really atoms jiggling. Think of a box sliding across the floor. All its atoms move together, neatly, in one direction. Friction takes that neat movement and spreads it out. It becomes the messy jiggling of countless atoms in the box and the floor. That is easy to do, and almost impossible to undo. A warm floor never pushes a box back across the room by itself. Physicists agree on this rule. They call it the second law of thermodynamics. Many think it is also why time only seems to go one way, forwards. That bigger idea is still argued about.
 - e.g. Film a box sliding to a stop, then play it backwards. It looks wrong straight away.
@@ -116,7 +116,7 @@ The Moon's gravity pulls the oceans into a bulge. The spinning Earth drags that 
 - e.g. About 400 million years ago, long before the dinosaurs, a day lasted about 22 hours.
 - e.g. The Moon moves away from us about as fast as your fingernails grow.
 ### Friction inside living things · *debated*
-Living things are very good at controlling friction. Your knee joints rub every time you move, for your whole life. The ends of the bones are covered in smooth, soft cartilage, soaked in slippery joint fluid. Together they slide with less friction than ice sliding on ice. Gecko and tree-frog feet can grip and let go in a moment. And what about the ridges on your fingertips, your fingerprints? People used to say they help us grip. Experiments gave scientists a surprise.
+Living things are very good at controlling friction. Your knee joints rub every time you move, for your whole life. The ends of the bones are covered in smooth, soft cartilage, soaked in slippery joint fluid. Together they slide with less friction than ice sliding on ice. Gecko and tree-frog feet can grip and let go in a moment. And what about the ridges on your fingertips, your fingerprints? People used to say they help us grip. A 2009 experiment found that on smooth, dry surfaces, they do not.
 - e.g. Knees, hips and finger joints move millions of times, for many years, before they wear.
 - e.g. A gecko, a small lizard, can run straight up a glass window.
 - **The old idea:** Fingerprint ridges help us grip, like the tread on a tyre.
@@ -125,10 +125,14 @@ Living things are very good at controlling friction. Your knee joints rub every 
 
 ## Mostly agreed
 - Friction acts where two surfaces touch, and it works against sliding. *How we know:* On Earth, every sliding thing slows down unless something keeps pushing it. In space, with nothing to rub on, a pushed thing keeps moving.
-- Friction depends on what the surfaces are made of, and on how hard they press together. *How we know:* Scientists have measured this with forcemeters since 1699, when a French scientist, Guillaume Amontons, did careful tests. Children repeat these tests in classrooms every day.
+- Friction depends on what the surfaces are made of, and on how hard they press together. *How we know:* Scientists have measured this carefully since 1699, when a French scientist, Guillaume Amontons, did careful tests. Children repeat these tests in classrooms every day.
 - It is usually harder to start something sliding than to keep it sliding. *How we know:* Pull a shoe with a forcemeter, a spring tool that measures pulls. The number climbs until the shoe starts to slide, then drops a little.
 - Friction turns movement into heat, and slowly wears surfaces away. *How we know:* Rubbed surfaces get warm. Brake pads, shoe soles and stone steps wear away over time.
 - Friction costs the world a lot of energy. *How we know:* In 2017, two engineers, Kenneth Holmberg and Ali Erdemir, added up the friction and wear in the world's machines. They estimated it uses up about 23 out of every 100 units of energy people use. That is nearly a quarter.
+
+## How we found out
+**Benjamin Thompson (Count Rumford), and later James Joule, 1798, and the 1840s.** For a long time, many scientists believed heat was an invisible fluid, called caloric. They thought every object held a certain amount of it. Rubbing, they said, only squeezed out caloric that was already inside. In 1798, Benjamin Thompson, known as Count Rumford, was in charge of making cannons in Munich, in Germany. Cannons were made by drilling a long hole into a solid block of metal. The drilling made the metal very hot. Rumford tried an experiment. He put a cannon in a box of cold water and turned a blunt drill inside it, using horses. After about two and a half hours, the water boiled. The people watching were amazed. As long as the horses kept turning, the heat kept coming. If heat were a fluid stored in the metal, it should have run out. So Rumford said heat must be a kind of movement instead. In the 1840s, James Joule measured how much heat a set amount of stirring makes. It was always the same, which showed that Rumford was right.  
+*What people believed before:* Heat is an invisible fluid, called caloric, stored inside things. Rumford's blunt drill made heat for as long as the horses turned, so heat could not be a fluid that runs out.
 
 ## Challenging perspectives
 - **Moving things stop by themselves, because stopping is natural.** (Aristotle, a Greek thinker who lived about 2,350 years ago. Most of us also think this without noticing.; *rejected*)  
@@ -150,14 +154,37 @@ Living things are very good at controlling friction. Your knee joints rub every 
   For: They get extremely hot while racing through the air. And rubbing makes heat.  
   Against: Most of the heat comes from squashing the air in front of them. They push into it so fast that the air heats up enormously. A bicycle pump gets warm in the same way when you squash air in it, but far less. Rubbing against the air plays a much smaller part.
 
+## Roots
+We have been learning about friction, the grip between things that touch. Now we ask what that grip tells us about ourselves and the world.
+
+**Deep truth.** When friction stops a sliding box, its movement is not destroyed. It spreads into the jiggling of countless atoms, which we feel as warmth. The spreading happens by itself, but the warmth never gathers back into movement by itself. So stopping is not an ending, but a spreading out that never undoes itself.  
+*Habit it breaks:* We say a moving thing 'stops', as if its movement simply ends. Friction shows that the movement is still there, only shared out among atoms where we cannot see it.  
+*Evidence:* Rub your palms and they get warm. The warmth fades into the air, and it never turns back into your hands moving. A film of a box sliding to a stop looks wrong when it is played backwards.
+
+- *who am i:* When you rub your hands, the warmth you feel is your own movement, now shared with your skin and the air.
+- *what is life:* Living things control friction all the time. A gecko's feet grip a wall, and your knee joints stay slippery for a lifetime.
+- *what is this world:* On Earth, every sliding thing slows down and warms what it rubs against. Even the Earth's spin is slowly being turned into warmth by the tides.
+
+Friction never destroys anything. It takes the neat movement of one thing and shares it out among countless atoms. They are in the box, the floor and the air. DeepKids believes that everything comes from one whole and keeps flowing back into it. Friction is a small, everyday example: the movement of one thing becomes the warmth shared by many.
+
+- **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains. (When friction stops a box, the box loses its movement, but the world loses no energy. The total stays the same, only spread out as warmth.)
+- **Dhammapada 277:** The Buddha taught that everything made of parts keeps changing. Nothing stays the same for ever. (Friction shows this slowly. Shoe soles, brake pads and stone temple steps wear away, and even the length of a day is changing because of the tides.)
+- Science (settled): When friction stops a sliding box, its energy is not lost. It becomes the jiggling of atoms, which is heat. In the 1840s, James Joule showed that the same amount of stirring always makes the same amount of heat.
+- Science (debated): Many physicists think this one-way spreading is why time seems to go only forwards. Others say it explains which way things change, but not what time is.
+- Other view, Many physicists: Heat spreading out is a matter of numbers. There are far more messy ways for atoms to jiggle than neat ways, so mess is almost certain. Nothing deeper is needed to explain it, and that is an honest view.
+- Practice, Warm hands (2 min): Let's rub our palms together fast while I count to ten. Now stop and hold them still, a little apart. Feel the warmth in both palms. Close your eyes and just notice it fade. Where did the warmth come from? Where is it going now?
+- Ask: When the warmth leaves your hands, is it gone, or somewhere else?
+- Ask: A ball rolls to a stop and warms the floor a tiny bit. Why does the warm floor never push the ball back?
+- Ask: Can something that slows you down also help you?
+
 ## Deep and big questions
 - *deep:* If you rolled a marble in empty space, would it ever stop? And why does everything on Earth stop? (hint: On Earth, the marble rubs against the ground and the air. What is there to rub against in space?)
 - *deep:* When a rolling ball stops, where has its movement gone? (hint: Rub your hands together fast. What do you feel?)
 - *deep:* Is there anything in the world with no friction at all? (hint: Scientists have made a very strange, very cold liquid that has none. Why do you think zero friction is so rare?)
 - *big:* Would a world without friction be better or worse? What would you miss first? (hint: Imagine breakfast, the walk to the park, writing your name, and giving someone a hug.)
 - *big:* Friction slows things down. But it also pushes us forward when we walk. Can one thing both help us and get in our way? (hint: Can you think of other things in life that are both?)
-- *big:* When two friends disagree, people sometimes say there is 'friction' between them. Can anything good come from people rubbing against each other's ideas? (hint: Rubbing makes heat and grip. What can a disagreement make?)
-- *big:* In ancient Egypt, workers dragged a giant statue across the sand. The strong pullers were praised. The man pouring water on the sand was laughed at, yet his small job made the statue move. Who gets remembered for big achievements, and who gets forgotten? (hint: Who 'poured the water' in your family or school today? Whose small job made everything easier?)
+- *deep:* A chappal grips a dry floor but slips on a wet one. So is the grip in the chappal, in the floor, or in between? (hint: Try the same chappal on two different floors. Then try two different chappals on the same floor.)
+- *big:* In this unit's story, workers in ancient Egypt drag a giant statue across the sand. The strong pullers are praised. The man pouring water on the sand is laughed at, yet his small job is what lets the statue move. Who gets remembered for big achievements, and who gets forgotten? (hint: Who 'poured the water' in your family or school today? Whose small job made everything easier?)
 - *big:* Friction turns a sliding box's movement into jiggling atoms, and it never turns back. Could that be why we remember yesterday, but not tomorrow? (hint: Watch a video of a ball rolling to a stop, played backwards. Why does it look wrong?)
 - *deep:* Your knees rub every time you move, for eighty years or more. How might a body make something more slippery than ice? (hint: Think about what is wet, soft, and keeps repairing itself.)
 - *big:* Scientists think even 'empty' space might cause a tiny friction. So is anything truly empty? (hint: Hold your hands close together without touching. What do you think is in the gap?)
@@ -199,13 +226,13 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - Ask: In the story, the men pulled harder when Hapu was ill. Why didn't that work?
 - Ask: What did just the right amount of water do to the sand? What did too much water do?
 - Ask: Why do you think the pullers laughed at Hapu's job of pouring water?
-- Ask: Who is the 'water-pourer' in your home? Who does a small job that makes everything else work?
+- Ask: On her first try, Mery made mud. What did she change on her second try, and why did it work?
 - Ask: The painters put the tiny water-pourer at the front of their painting. Why do you think they did?
 
 ## Games
 ### g1 · Grip or Slip? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and put them in a pile, face down.; On your turn, take the top card and read it out loud.; Decide: in this moment, do we want more friction or less? Put the card on the GRIP mat or the SLIP mat, and say why.; Then say one way people change the friction there. For example, sand, grooves, oil, wheels or powder. A good idea wins one idea token.; If you draw a TEST IT card, everyone does the test together. The first person to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 situation cards to cut out:** Climbing a wet rock at the waterfall; Sliding down the playground slide; Bicycle brakes on a rainy day; Carrom striker on the board; Holding a slippery fish; Opening a stuck jar lid; A cricket bowler's shoes on the pitch; Skates on an ice rink; A door hinge that squeaks; Writing with a pencil; Grandma's rubber bathroom mat; A rope tied in a knot; A sled on snow; Car tyres on a mountain road; Carrying a full steel tumbler on a tray; Lighting a matchstick; Pushing a heavy almirah across the floor; A violin bow on the strings; Shoes on the polished temple floor; Moving a cart full of sugarcane; TEST IT: rub your palms together 10 times. Do they feel warm or cold?; TEST IT: slide a coin across paper, then across a cloth. Where does it stop sooner?; TEST IT: try to open a tight jar lid with dry hands. Then try again holding the lid with a cloth.; TEST IT: push a hardback book lying flat. Then push it standing on its edge. Which is easier?
+- **Printable cards: 24 situation cards to cut out:** Climbing a wet rock at the waterfall; Sliding down the playground slide; Bicycle brakes on a rainy day; Carrom striker on the board; Holding a slippery fish; Opening a stuck jar lid; A cricket bowler's shoes on the pitch; Skates on an ice rink; A door hinge that squeaks; Writing with a pencil; Grandma's rubber bathroom mat; A rope tied in a knot; A sled on snow; Car tyres on a mountain road; Carrying a full steel tumbler on a tray; Lighting a matchstick; Pushing a heavy almirah across the floor; A violin bow on the strings; Shoes on the polished temple floor; Moving a cart full of sugarcane; TEST IT: rub your palms together 10 times. Do they feel warm or cold?; TEST IT: slide a coin across paper, then across a cloth. Where does it stop sooner?; TEST IT: try to open a tight jar lid with dry hands. Then try again holding the lid with a cloth.; TEST IT: push an empty steel tumbler across the table. Then fill it with rice and push again. Which is harder to start?
 - **Printable board: Two playing mats:** GRIP: we want MORE friction; SLIP: we want LESS friction
 - **Printable tokens: 20 idea tokens (small paper circles):** 💡
 - **s1 (2 min)**  
@@ -227,8 +254,8 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess what will happen. Then we'll try it and see who was right.  
   *Child mode:* A TEST IT card! First, guess what will happen. Then do the test. Were you right?
-  - Ask: One TEST IT card asks you to push a book lying flat, then standing on its edge. Why did it slide about the same both ways? (good: For a hard thing like a book, how much of it touches doesn't change the friction much.; It is the same book with the same weight, pressing down just as hard.)
-  - Think: Pressing down harder gives more friction. So why doesn't spreading the same weight over a bigger area change it much?
+  - Ask: One TEST IT card asks you to push an empty tumbler, then a tumbler full of rice. Why was the full one harder to push? (good: It is heavier, so it presses on the table harder.; Pressing harder makes more friction.)
+  - Think: If you pressed down on the empty tumbler with one finger, would it be harder to push? Why?
 - **s5 (2 min)**  
   *Parent does:* 1. Count everyone's tokens to find the winner. 2. Then look at the two piles of cards together.  
   *Parent says:* Look at both piles. Which is bigger: the moments where we want more friction, or the moments where we want less?  
@@ -260,12 +287,12 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Parent does:* Hold a final vote. Would everyone switch friction back on?  
   *Parent says:* Final vote. Would you switch friction back on? What would you switch it on for first?  
   *Child mode:* Last question. Would you switch friction back on? What would you switch it on for first?
-  - Think: We grumble about friction when things get stuck. Are there other things in life we only notice when they're gone?
+  - Think: Which jobs does friction do for you that you never notice until they stop?
 
 ## Experiments
 ### e1 · The Slope Test: which sole grips best? (30 min)
 - **question:** Which of our shoes and socks grips best?
-- **predict:** Before you test anything, line up the shoes and socks. Put the one you think grips best first, and the one you think grips least last.
+- **predict:** Before you test anything, line up the shoes and socks. Put the one you think grips best first, and the one you think grips least last. Then say why you put them in that order.
 - **fair test:** To make it fair, keep everything the same except the shoe. Use the same board, and lift it at the same slow speed every time. Test each shoe 3 times, because one try can be a fluke.
 - **safety:** Use light shoes, like chappals or slippers. Keep your fingers out of the way when the shoe slides off.
 - **record:** Fill in the table. Then draw a bar chart. Draw one bar for each shoe. Make each bar as tall as that shoe's middle height.
@@ -283,53 +310,54 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Parent does:* 1. Lift the shoe's end slowly, about one finger-width each second. 2. Stop the moment the shoe starts to slide. 3. Hold the board still. Measure from the floor to the top of the lifted end. 4. Write the number in the table. 5. Do this 3 times for each shoe.  
   *Parent says:* Lift slowly and steadily. Stop the moment it slides. Now let's measure how high the end is, from the floor up.  
   *Child mode:* Lift slowly. When the shoe slides, stop! Measure how high the end is. Write it in the table. Test each shoe 3 times.
-  - Note: Keep the lifting speed the same each time, so the test is fair. If one try is very different, that's fine. That's why we do three. To find the middle value, put the three numbers in order and take the middle one.
+  - Note: Keep the lifting speed the same each time, so the test is fair. If one try is very different, that's fine. That's why we do three. To find the middle value, put the three numbers in order and take the middle one. The heights depend on how long your board is, so use the same board for every test. If a sock crumples, fold it into a flat pad.
 - **s4 (6 min)**  
   *Parent does:* Help your child draw a bar chart of the middle values, with one bar for each shoe.  
   *Parent says:* Let's turn the numbers into a picture. Each shoe gets one bar. The taller the bar, the higher the board went before that shoe slid.  
   *Child mode:* Draw one bar for each shoe. Make it as tall as its middle number. A taller bar means better grip.
   - Check: In the slope test bar chart, a taller bar means the shoe… → **Grips more**
 - **s5 (4 min)**  
-  *Parent does:* Compare the results with the line of guesses you made at the start.  
+  *Parent does:* 1. Compare the results with the line of guesses you made at the start. 2. If you have time, wipe the board with a damp cloth and test the best gripper once more. See if the height changes.  
   *Parent says:* Were your guesses right? Look at the shoes that gripped best. What do they have in common?  
   *Child mode:* Were your guesses right? Look at the best gripper. What is it made of? What pattern is on its bottom?
   - Think: If you had to climb wet rocks at a waterfall, which shoe would you wear? Why?
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?   
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the rubber chappal grips best. What I saw: it stayed on until the board was 14 cm high, but the sock slid at 4 cm. Why: rubber is soft and grippy, and its grooves catch on the board.
-### e2 · The Books That Won't Let Go (15 min)
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Now say or write three things. What do I think? What did I see? Why did it happen?
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the rubber chappal grips best. What I saw: it stayed on until the board was 16 cm high, but the sock slid at 8 cm. Why: rubber is soft and grippy, and its grooves catch on the board.
+### e2 · The Books That Won't Let Go (20 min)
 - **question:** Can the friction between paper pages be stronger than you?
-- **predict:** Guess first. If you lay the pages of two notebooks over each other, will they be easy or hard to pull apart?
+- **predict:** Guess first. If you lay the pages of two notebooks over each other, will they be easy or hard to pull apart? Why do you think so?
 - **fair test:** Try with 10 pages laid together, then 30 pages, then all the pages. Pull the same way each time, holding each book by its spine. Change only the number of pages.
 - **safety:** Pull gently, so you don't tear the books.
 - **record:** Fill in the table. Then write one sentence about why it got harder.
 - **results table:** How many pages were laid together | Easy, hard or impossible to pull apart?
-- **s1 (4 min)**  
-  *Parent does:* 1. Put the two notebooks on a table, with their spines facing outwards and their open edges overlapping. 2. Flick down one page from the first book. 3. Flick down one page from the second book on top of it. 4. Keep going, one page from each book in turn, like shuffling cards.  
+- **s1 (3 min)**  
+  *Parent does:* 1. Put the two notebooks on a table, with their spines facing outwards. Slide them together so their pages overlap by about half a page. 2. Flick down one page from the first book. 3. Flick down one page from the second book on top of it. 4. Keep going, one page from each book in turn, like shuffling cards.  
   *Parent says:* We'll lay the pages of these two books in between each other. One page from this book, then one page from that book.  
   *Child mode:* Put the two notebooks open edge to open edge. Lay down a page from one book. Then a page from the other on top. Keep going, like shuffling cards.
-- **s2 (5 min)**  
+- **s2 (11 min)**  
   *Parent does:* 1. Lay 10 pages together, then try to pull the books apart by their spines. 2. Separate them. Lay 30 pages together and pull again. 3. Last, lay all the pages together and pull.  
   *Parent says:* Try to pull them apart. Now let's try with more pages. What changes?  
   *Child mode:* Lay 10 pages together. Pull the books apart. Easy? Now try 30 pages. Now try all of them. Can you still do it?
   - Ask: Why is it harder with more pages? (good: Each page adds a little friction.; More surfaces are touching each other.)
+  - Note: Laying all the pages takes a few minutes. That is normal. If the books still pull apart easily, make the pages overlap more.
 - **s3 (3 min)**  
   *Parent does:* Talk together about why it got so hard.  
-  *Parent says:* Each page grips only a tiny bit. But hundreds of tiny grips add up. And when you pull, the pages squeeze together tighter. On a TV science show, two phone books woven together like this held up a car.  
-  *Child mode:* Each page grips only a tiny bit. But hundreds of tiny grips add up! Pulling squeezes the pages tighter, too. Two big books like this once held up a car!
+  *Parent says:* Each page grips only a tiny bit. But hundreds of tiny grips add up. And when you pull, the pages squeeze together tighter. On a TV science show, two big phone books woven together like this could not be pulled apart even by two cars.  
+  *Child mode:* Each page grips only a tiny bit. But hundreds of tiny grips add up! Pulling squeezes the pages tighter, too. Even two cars could not pull two big books apart!
   - Think: Can lots of small things together be stronger than one big thing? Where else do you see that?
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?   
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Now say or write three things. What do I think? What did I see? Why did it happen?
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: lots of pages laid together are almost impossible to pull apart. What I saw: with 10 pages they pulled apart easily, but with all the pages I couldn't do it. Why: every page adds a little friction, and pulling squeezes them tighter.
 ### e3 · Pour the Water Like Hapu (30 min)
 - **question:** Does wet sand make a sledge easier to pull? How much water is best?
-- **predict:** Guess first. Will dry sand, damp sand or soaked sand be easiest to pull a loaded box across?
+- **predict:** Guess first. Will dry sand, damp sand or soaked sand be easiest to pull a loaded box across? Why do you think so?
 - **fair test:** Keep everything the same except the sand. Use the same box, with the same stones inside, and pull it the same distance. Measure the pull with a forcemeter. If you have no forcemeter, tie a rubber band to the string and measure how far it stretches with a ruler.
-- **safety:** Do this outside, or on newspaper. A grown-up helps with the sand and water.
+- **safety:** Do this on newspaper, on the floor or on a balcony. A grown-up helps with the sand and water.
 - **record:** Fill in the table. Draw what the sand did in front of the box each time.
 - **results table:** Sand: dry, damp or soaked | Pull needed (newtons), or rubber band stretch (cm) | What the sand did in front of the box
 - **s1 (5 min) · grown-up needed**  
@@ -342,7 +370,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Child mode:* Pull slowly. Read the number on the forcemeter. Look at the front of the box. Is sand piling up?
   - Ask: What did the sand do in front of the box? (good: It piled up in front.; It made a little hill.)
 - **s3 (7 min) · grown-up needed**  
-  *Parent does:* 1. Sprinkle water on the sand, one spoon at a time. 2. Stop when the sand just turns darker, but is not wet or muddy. 3. Pull the box again and read the forcemeter.  
+  *Parent does:* 1. Sprinkle water on the sand, one spoon at a time, and mix it in with the spoon. 2. Stop when the sand just turns darker, but is not wet or muddy. Smooth the top. 3. Pull the box again and read the forcemeter.  
   *Parent says:* Now we'll pour like Hapu, the water-pourer in our story. Just enough to darken the sand, but not enough to make mud.  
   *Child mode:* Now be Hapu, the water-pourer! Sprinkle one spoon of water at a time. Stop when the sand turns darker. Not muddy! Pull again. Is it easier?
 - **s4 (6 min)**  
@@ -357,8 +385,8 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   - Think: The workers in Egypt knew this about 3,900 years before scientists explained it. How do you think they found out?
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?   
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Now say or write three things. What do I think? What did I see? Why did it happen?
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: just-damp sand is easiest for the sledge. What I saw: dry sand needed 6 newtons and piled up in front of the box. Damp sand needed only 3 newtons. Soaked sand turned to mud. Why: a little water holds the sand grains together, so the box slides on top instead of digging in.
 
 ## Activities
@@ -379,7 +407,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Parent says:* Which find surprised you most?  
   *Child mode:* Which find surprised you most? Take a photo or draw it.
   - Think: Did someone design these things on purpose? Who might it have been?
-### a2 · Hot Hands and Fire Sticks (10 min)
+### a2 · Hot Hands: feel friction make heat (10 min)
 - **safety:** Only a grown-up strikes matches.
 - **record:** Write down how your hands felt after 10 rubs, 20 rubs and 30 rubs. Were they cool, a bit warm or hot?
 - **s1 (3 min)**  
@@ -387,15 +415,15 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Parent says:* Rub your palms together 10 times, fast. Now touch your cheek. How does it feel? Let's try 20 rubs. Now 30.  
   *Child mode:* Rub your hands together fast, 10 times. Touch your cheek. Now try 20 rubs. Now 30. What do you feel?
 - **s2 (3 min)**  
-  *Parent does:* 1. Rub an eraser hard on a sheet of paper for 20 seconds. 2. Touch the rubbed part of the paper straight away.  
-  *Parent says:* Feel the paper. Where did that warmth come from? The movement of the eraser turned into heat.  
-  *Child mode:* Rub an eraser hard on paper for 20 seconds. Touch the paper. Is it warm? Your movement turned into heat!
+  *Parent does:* 1. Rub an eraser hard on a sheet of paper for 20 seconds. 2. Straight away, touch the rubbed part of the paper and the end of the eraser.  
+  *Parent says:* Feel the paper and the eraser. Are they warm? Where do you think the warmth came from?  
+  *Child mode:* Rub an eraser hard on paper for 20 seconds. Touch the paper and the eraser. Are they warm? Why?
   - Check: Why does rubbing make things warm? → **Friction turns movement into heat**
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up strikes a match while the child watches from a safe distance. 2. Talk about how people made fire by rubbing sticks, long before matches.  
   *Parent says:* A match uses friction. Rubbing it on the box makes its tip hot enough to catch fire. Long before matches, people made fire by rubbing sticks together.  
   *Child mode:* Ask a grown-up to strike a match. Watch from a safe distance. Rubbing makes it hot enough to burn! Long ago, people made fire by rubbing sticks.
-  - Think: Long ago, somebody was the first person to make fire by rubbing. Nobody knows their name. What do you think they were like?
+  - Think: Making fire by rubbing sticks needs fast, hard rubbing for a long time. Why would a slow, gentle rub not work?
 ### a3 · Act It Out: The Frictionless Kitchen (15 min)
 - **safety:** Act on a soft floor, like a mat or carpet. Pretend to slide. Don't really slide.
 - **record:** Draw your favourite moment from the play.
@@ -417,28 +445,30 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - **safety:** Slide gently. First clear the floor of anything sharp or breakable.
 - **record:** Put the cloths in order, from most grip to least. Write where you could slide in socks. Draw the bottom of an old, worn shoe.
 - **s1 (5 min)**  
-  *Parent does:* 1. Lay the three cloths flat on a table, side by side. 2. Put the empty tumbler at one end of the first cloth. 3. Give it a small tap with one finger, and see how far it slides. 4. Do the same on each cloth, with the same small tap.  
-  *Parent says:* Which cloth stops the tumbler fastest? That cloth has the most friction.  
-  *Child mode:* Put the tumbler on a cloth. Give it a small tap with one finger. How far does it go? Try the same tap on each cloth.
+  *Parent does:* 1. Lay the cloth, the towel and the plastic flat on a table, side by side. 2. Put the empty tumbler at one end of the first one. 3. Give it a small tap with one finger, and see how far it slides. 4. Do the same on each one, with the same small tap.  
+  *Parent says:* Which one do you think will stop the tumbler fastest? Why? The one that stops it fastest has the most friction.  
+  *Child mode:* Put the tumbler on a cloth. Give it a small tap with one finger. How far does it go? Try the same tap on each one.
   - Ask: Which cloth would you put under a glass on a moving train's table? (good: The one with the most friction.; The towel, because it grips.)
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Let your child slide in socks on the smooth floor. 2. Then let them try to slide on a carpet or mat.  
-  *Parent says:* On the smooth floor you're nearly frictionless. On the carpet, friction grabs you.  
+  *Parent says:* Where do you think you will slide further, on the smooth floor or on the mat? Why do you think so?  
   *Child mode:* Slide in your socks on the smooth floor. Now try on a mat. Where can you slide? Where do you stop?
+  - Note: Socks slide well on smooth tiles, because there is little friction between cloth and tile. A mat grips the socks much more, so you stop.
   - Think: Scientists have made a very cold liquid called a superfluid, with no friction at all. Stir it, and it keeps swirling. What would happen to you on a floor with no friction?
 - **s3 (5 min)**  
   *Parent does:* Look at the bottoms of an old pair of shoes together. Find where they are worn most.  
-  *Parent says:* The worn places tell the story of how you walk. Friction wrote that story.  
+  *Parent says:* The most worn places show where your shoe rubs the ground hardest. Where are they on this shoe?  
   *Child mode:* Turn over an old shoe. Where is it worn smooth? Friction rubbed most there. Do you walk more on your heels or your toes?
   - Check: Why does the bottom of a shoe wear smooth? → **Friction rubs tiny bits off it**
-### a5 · Feel the Atoms Grab (fridge magnets) (10 min)
+### a5 · Fridge Magnets: a model of atoms gripping (10 min)
 - **safety:** Keep magnets away from phones and bank cards.
 - **record:** Draw what the sliding felt like. Was it smooth, bumpy or clicky?
 - **s1 (4 min)**  
   *Parent does:* 1. Put the two magnets face to face, with their dark magnetic backs touching. 2. Slide one over the other. 3. Turn one magnet a quarter turn, and slide again.  
-  *Parent says:* Feel that clicky, sticky slide? These magnets are made in thin stripes. The stripes grab each other and let go as you slide.  
+  *Parent says:* Slide one magnet over the other. What does it feel like? Why do you think it feels like that?  
   *Child mode:* Put the dark backs of two fridge magnets together. Slide one over the other. Feel the clicks? Now turn one a quarter turn. Is it different?
   - Ask: What does the sliding feel like? (good: Bumpy.; Clicky.; It sticks, then slips.)
+  - Note: These magnets are made in thin stripes of north and south poles. As you slide, the stripes attract, then repel, then attract again. That is the clicky feel. Turned a quarter turn, the stripes cross, and the slide feels smoother.
 - **s2 (6 min)**  
   *Parent does:* Explain how the magnets are like real friction.  
   *Parent says:* Real friction is a bit like this, but far, far tinier. Atoms of the two surfaces tug on each other with electric force. They hold for a moment, then snap free as you slide. Each snap leaves the atoms jiggling. Jiggling atoms are heat. That's why friction makes things warm.  
@@ -450,7 +480,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - **record:** Draw the Earth, the bulge of ocean water, and the Moon moving away.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. The child stands in the middle. They are the Earth, and they turn slowly on the spot. 2. The grown-up is the Moon, and walks slowly in a big circle around the child. 3. The grown-up loops the dupatta loosely around the child's waist and holds one end. The dupatta is the ocean, pulled towards the Moon.  
-  *Parent says:* You're the Earth, spinning. I'm the Moon. My pull drags the ocean towards me. Can you feel the ocean rubbing as you turn?  
+  *Parent says:* You're the Earth, spinning. I'm the Moon. My gravity pulls the ocean towards me. Can you feel the ocean rubbing as you turn?  
   *Child mode:* You are the Earth! Turn slowly. A grown-up is the Moon. The dupatta around you is the ocean. Can you feel it rub as you turn?
 - **s2 (5 min)**  
   *Parent does:* 1. As the child turns, the rubbing dupatta slows them a little. 2. Each time the Moon goes round, the grown-up takes one small step further out.  
@@ -489,7 +519,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Parent does:* 1. Test a grip sock on the board, the same way as the plain sock. 2. Compare the two heights. 3. Talk about how to improve the design.  
   *Parent says:* How much higher does the board go now before the sock slides? What would you change?  
   *Child mode:* Test your grip sock on the board. How high can you lift it now? What would make it even better?
-  - Check: A grip sock stays on the board until the end is 9 cm high. A plain sock slides at 3 cm. On this test, the grip sock is… → **3 times as grippy**
+  - Check: A grip sock stays on the board until the end is 16 cm high. A plain sock slides at 8 cm. What does this show? → **The grip sock held on until the board was twice as high**
 - **s6 (15 min)**  
   *Parent does:* Give the socks to someone who might slip, like a small child or a grandparent. Help your child explain how the socks work.  
   *Parent says:* Who in our family could use these? Let's give them, and explain why they help.  
@@ -498,11 +528,11 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 
 ## Challenges
 ### c1 · Move the Mountain (30 min)
-- **problem:** A cardboard box full of books is too heavy to push easily across the floor. Your job is to move it 2 metres, using as little pull as you can.
+- **problem:** A shoebox with 3 or 4 books inside is your 'mountain'. Your job is to move it 2 metres across the floor, using as little pull as you can.
 - **your turn:** Now invent your own way. Draw it, try it, and measure the pull. Is it better than the others?
 - **constraints:** You are not allowed to take the books out.; You can only use things you find at home.; Measure your pull each time with a forcemeter or a rubber band.
 - **general:** Put round things under the box, like round pencils or a rolling pin. Then it rolls instead of sliding.; On a tiled floor, put a smooth cloth or tray under the box, so it slides more easily.; Pull low and steady. Remember, starting is the hardest part.
-- **creative:** Put marbles inside a tray lid, and the box on top. The marbles work like ball bearings, the little steel balls inside wheels.; Builders long ago, in Egypt and in India, moved huge stones with sledges, rollers, ramps and water. Could one of these ideas help you?; Ancient Egyptians poured water on sand to help their sledges slide. Could a damp cloth under the box help? Wipe the floor dry afterwards, so nobody slips.
+- **creative:** Put the box on a tray, and the tray on a few marbles. The marbles roll like the ball bearings in a cycle wheel. As they roll out at the back, move them to the front.; Builders long ago moved huge stones with sledges, wooden rollers, ramps and water. Could one of these ideas help you?; Ancient Egyptians poured water on sand to help their sledges slide. Could a damp cloth under the box help? Wipe the floor dry afterwards, so nobody slips.
 - **s1 (5 min)**  
   *Parent does:* 1. Hook the forcemeter or rubber band to the box, using string if needed. 2. Pull gently until the box starts to move. 3. Write down the reading, or how far the band stretched.  
   *Parent says:* First, let's measure how hard it is now, with nothing under the box.  
@@ -515,12 +545,12 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Parent does:* 1. Try each idea one at a time. 2. Measure the pull for each. 3. Write each number down.  
   *Parent says:* Try one idea at a time and measure the pull. Which works best?  
   *Child mode:* Try each idea, one at a time. Measure the pull each time. Which works best?
-  - Note: Round pencils used as rollers usually make a big difference. A cloth on tiles helps a little. Marbles in a tray lid can work amazingly well. If the box is too heavy for a small forcemeter, start again with a smaller box holding fewer books.
+  - Note: Round pencils used as rollers usually make a big difference. A cloth on tiles helps a little. Marbles under a tray can work very well. If the forcemeter reaches its last number, take one book out and start again.
 - **s4 (8 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together. Then invent a new one.  
   *Parent says:* Here is what engineers usually do, and some creative ideas. Can you invent something new?  
   *Child mode:* Look at the usual ways, and some creative ideas. Now invent your own way. Can you beat them?
-  - Think: Long ago, people moved giant stones with sledges, rollers and ramps. Every machine with wheels is a way of beating friction.
+  - Think: Every wheel is a way of beating friction. Why do you think the wheel was such an important invention?
 ### c2 · The Ghat Shoe (25 min)
 - **problem:** A ghat is a row of wide stone steps going down to a river. When the steps are wet and mossy, people slip. Design a shoe or sandal sole that grips wet stone.
 - **your turn:** Draw your sole. Label each part with what it does. Then make a rubber-band version and test it on a wet tile.
@@ -543,7 +573,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - **s4 (5 min)**  
   *Parent does:* Compare your design with the usual solutions and the creative ideas.  
   *Parent says:* Animals solved this long ago. Which animal would you copy?  
-  *Child mode:* Frogs and geckos climb wet leaves without slipping. Which animal's feet would you copy?
+  *Child mode:* Tree frogs climb wet leaves without slipping. Which animal's feet would you copy?
   - Think: Nature had millions of years to design feet. What else could we learn from it?
 
 ## Worksheets
@@ -587,14 +617,14 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 16. (draw) Draw a shoe resting on a slope. Draw one arrow for the way the shoe wants to slide. Draw another arrow for friction.  
    **Answer:** The slide arrow points down the slope. The friction arrow points up the slope, along the surface.. *Why:* Friction acts along the surface, against the way the shoe wants to slide.
 ### Friction in the Real World (stretch) (stretch, 15 questions)
-1. (mcq) Riya pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the chart. Why does the full box need more pull?  
+1. (mcq) Riya pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?  
    Options: The full box presses down harder, so there is more friction / The half-empty box is smoother underneath / The full box is bigger, so more of it touches the floor / The floor changed  
    **Answer:** The full box presses down harder, so there is more friction. *Why:* The full box is heavier, so it presses on the floor harder. Pressing harder gives more friction. 8 newtons is twice 4 newtons. Picking 'more of it touches' is a very common idea. But it is the same box, with the same bottom on the floor. Only how hard it presses has changed.
-2. (mcq) In the slope test, a shoe started to slide when the raised end of the board was 12 cm high. A sock slid when the end was only 4 cm high. Look at the chart. Which grips better?  
+2. (mcq) In the slope test, a shoe started to slide when the raised end of the board was 16 cm high. A sock slid when the end was only 8 cm high. Look at the chart. Which grips better?  
    Options: The shoe / The sock / They grip the same  
    **Answer:** The shoe. *Why:* The shoe stayed put on a much steeper slope. The steeper the slope something can stay on, the more friction it has. Picking 'the sock' usually means a lower number looked better. In this test, higher is better.
-3. (fill) The shoe stayed on until the board's end was 12 cm high. The sock slid at 4 cm. The shoe's height was ____ times the sock's height.  
-   **Answer:** ['3', 'three']. *Why:* 12 divided by 4 is 3. So the shoe's height was 3 times the sock's. You can check: 4 + 4 + 4 = 12.
+3. (fill) The shoe stayed on until the board's end was 16 cm high. The sock slid at 8 cm. The shoe's height was ____ times the sock's height.  
+   **Answer:** ['2', 'two']. *Why:* 16 divided by 8 is 2. So the shoe's height was 2 times the sock's. You can check: 8 + 8 = 16.
 4. (mcq) In cricket, bowlers polish the ball by rubbing it on their trousers. They also wear shoes with spikes. Why?  
    Options: Polishing makes one side smooth, so the ball swings in the air. The spikes give grip on the pitch. / Both are to make more friction / Both are to make less friction / Polishing makes the ball sticky, so it grips the bat  
    **Answer:** Polishing makes one side smooth, so the ball swings in the air. The spikes give grip on the pitch.. *Why:* Polishing makes one side of the ball smoother. This changes how air flows round it, so it swings. Spikes dig into the ground and give the bowler more grip. Picking 'both more' or 'both less' usually means the child expects one rule for everything. In cricket, people want less friction in one place and more in another.
@@ -623,12 +653,12 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 14. (forces) A box is being pushed to the right across the floor. Show all the forces on it, with one arrow for each.  
    Options: push / friction / gravity / floor pushes up  
    **Answer:** push right, friction left, gravity down, floor pushes up up. *Why:* Friction acts against the push, so it points left. Gravity pulls the box down. The floor pushes it up.
-15. (draw) Design a shoe sole for walking on wet, mossy temple steps. Label two features that give more grip.  
+15. (draw) Design a shoe sole for walking on the wet, mossy steps of a ghat. Label two features that give more grip.  
    **Answer:** Good features include soft rubber, deep grooves to let water out, small bumps or studs, and a wide flat area that touches the stone.. *Why:* Soft rubber and grooves give more grip on wet surfaces.
 ### Friction Puzzles and Big Ideas (challenge) (challenge, 19 questions)
-1. (mcq) A brick is pulled lying flat, on its big side. Then it is pulled standing on its thin edge. Look at the chart. The forcemeter shows about the same pull both times. What does this tell us?  
+1. (mcq) A brick is pulled lying flat, on its big side. Then it is pulled standing on its thin edge. Look at the pictures. The forcemeter shows about the same pull both times. What does this tell us?  
    Options: Friction depends a lot on how much area touches / For a hard brick, friction hardly depends on how much area touches / The forcemeter is broken / The thin edge should cut in and grip more  
-   **Answer:** For a hard brick, friction hardly depends on how much area touches. *Why:* For hard things, the touching area hardly matters. What matters is the materials, and how hard they press together. Guillaume Amontons wrote this down in 1699, and it surprised people. Picking 'depends a lot on area' means going with what feels true, not with what the chart shows. Many grown-ups believed that for hundreds of years.
+   **Answer:** For a hard brick, friction hardly depends on how much area touches. *Why:* For hard things, the touching area hardly matters. What matters is the materials, and how hard they press together. Guillaume Amontons wrote this down in 1699, and it surprised people. Picking 'depends a lot on area' means going with what feels true, not with what the forcemeter shows. Many grown-ups believed that for hundreds of years.
 2. (mcq) If area hardly matters for a brick, why do racing cars have very wide tyres?  
    Options: The rule only works for hard things. Soft, sticky rubber grips more with more area. / Wide tyres look more exciting / Wide tyres are lighter / The rule is wrong for everything  
    **Answer:** The rule only works for hard things. Soft, sticky rubber grips more with more area.. *Why:* The 'area hardly matters' rule breaks down for soft, sticky things like tyre rubber. Picking 'wrong for everything' misses that the rule still works well for hard things like bricks and wooden blocks.
@@ -650,8 +680,8 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 9. (mcq) Why might Leonardo's friction rules have been forgotten for 200 years?  
    Options: His rules were wrong / His notebooks were not published, so other scientists never read them / Amontons copied him and kept it secret / Nobody cared about friction back then  
    **Answer:** His notebooks were not published, so other scientists never read them. *Why:* In science, the credit usually goes to whoever publishes. Work that is never published can be lost. Picking 'copied him' is a common guess when credit goes to the wrong person. There is no evidence for that. Amontons worked it out for himself.
-10. (write) Think of a 'small' job in your home or school that makes everything else work. What would happen if nobody did it?  
-   **Answer:** Any thoughtful answer that names a job and says what would happen without it. For example: if nobody filled the water bottles, everyone would be thirsty and tired by lunchtime.. *Why:* This links the science to people. In the story, a small change where sledge met sand mattered more than pulling harder. Small jobs often matter more than they look.
+10. (write) In the story, the men pulled harder, but the sledge would not move. Then Mery poured just enough water on the sand. Why did changing the sand work better than pulling harder? Use the word friction.  
+   **Answer:** Dry sand piled up in front of the sledge and held it back. Damp sand stayed firm, so the sledge slid on top with less friction. Pulling harder only pushed the sledge deeper into the dry sand.. *Why:* Friction depends on both surfaces that touch. Changing the sand changed the friction, so a smaller pull was enough.
 11. (write) Invent one machine that would work better WITHOUT friction, and one that could not work without it. Explain both.  
    **Answer:** For example: a wheel that turned with no friction would waste no energy, so a cycle would roll further. But brakes could not work without friction, because they must rub the wheel to stop it.. *Why:* A good answer shows that friction is useful in some places and wasteful in others.
 12. (write) How could you design a test to find out which idea matters more?  
@@ -715,7 +745,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
    **Answer:** No, they are still studying it. *Why:* Scientists still argue about it. Picking 'pressure melts it' means the old textbook idea has been met. Scientists now think that pressure is far too weak to explain it.
 12. (mcq) Who wrote down rules of friction first, but in notebooks that were never published?  
    Options: Guillaume Amontons / Leonardo da Vinci / Isaac Newton  
-   **Answer:** Leonardo da Vinci. *Why:* Leonardo da Vinci wrote them around 1493. Amontons published them about 200 years later, in 1699. Picking Newton is a common guess, because he is famous for forces. But Leonardo lived about 150 years before him.
+   **Answer:** Leonardo da Vinci. *Why:* Leonardo da Vinci wrote them around 1493. Amontons published them about 200 years later, in 1699. Picking Newton is a common guess, because he is famous for forces. But Newton was born more than 120 years after Leonardo died.
 13. (mcq) Deep down, where does friction come from?  
    Options: Atoms pushing and pulling with electric force / Tiny hooks on every surface / Only gravity  
    **Answer:** Atoms pushing and pulling with electric force. *Why:* Friction comes from electric pushes and pulls between the atoms of the two surfaces. Picking 'tiny hooks' is close to the old bumps idea, which is part of the story. But even bumps grip through electric forces. Gravity is a different force.
@@ -756,7 +786,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 ## Open questions
 - **Exactly what happens between the atoms of two surfaces as they slide?** It happens in spaces far too tiny to see. Scientists use special microscopes and computer models, and they still argue.
 - **Why is ice slippery?** Several ideas compete. Maybe ice has a slippery layer on top. Maybe sliding melts a thin film. Maybe loose molecules on top roll like marbles.
-- **Can we make friction almost disappear?** Some materials slide with almost no friction. One is graphene, a sheet of carbon just one atom thick, stacked in layers. Scientists call this superlubricity. So far it only works for tiny pieces.
+- **Can we make friction almost disappear?** Some materials slide with almost no friction. One is graphene, a sheet of carbon just one atom thick, stacked in layers. Scientists call this superlubricity. So far it mostly works for very small pieces.
 - **Can we predict earthquakes by studying friction underground?** Earthquakes happen when rocks that were stuck suddenly slip. How and when they slip is still too complicated to predict.
 - **How do gecko and frog feet grip so well, and let go so fast?** Scientists understand parts of it. They keep copying it to make new sticky materials.
 - **Does 'quantum friction' really exist? It is a tiny drag predicted between surfaces that never touch.** Some calculations predict it, others disagree, and nobody has measured it yet.
@@ -770,7 +800,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - Why does a cycle chain need oil, but the tyres must stay grippy?
 - That ball stopped rolling. Where did its movement go?
 - Is anything we can't see holding something together right now?
-- Whose small job today made everything else easier?
+- Your chappal grips this floor. Would it grip the same if the floor were wet?
 - Would you rather have too much friction, or too little, for one day?
 - Is the floor pushing up on you right now? Is that the same kind of force as grip?
 - Days are getting very slowly longer. Would you like a 25-hour day?
@@ -800,9 +830,9 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - Why was the old chappal sad? *It had lost its grip.*
 
 ## Connected maths
-- A shoe started to slide when the end of the board was 12 cm high. A sock slid when the end was only 4 cm high. Look at the chart. How many times higher was the shoe's height than the sock's? **3 times.**. The shoe stayed put until the end was 12 cm high. The sock slid at just 4 cm. 12 divided by 4 is 3. So the shoe's height was 3 times the sock's. You can check: 4 + 4 + 4 = 12. (queues `math.division.sharing-and-grouping.L3`)
+- A shoe started to slide when the end of the board was 16 cm high. A sock slid when the end was only 8 cm high. Look at the chart. How many times higher was the shoe's height than the sock's? **2 times.**. The shoe stayed put until the end was 16 cm high. The sock slid at just 8 cm. 16 divided by 8 is 2. So the shoe's height was 2 times the sock's. You can check: 8 + 8 = 16. (queues `math.division.sharing-and-grouping.L3`)
 - Look at the forcemeter in the picture. The big numbers are whole newtons. Each small mark between them is half a newton. What is the reading? **4 and a half newtons.**. The pointer is past the 4, but before the 5. It sits on the small mark exactly halfway between them. Each small mark is half a newton. So the reading is 4 newtons and half a newton more. That is 4 and a half newtons. (queues `math.measurement-basics.reading-scales.L3`)
-- Four shoes were tested. The board's end went this high before each one slid: rubber chappal 14 cm, school shoe 10 cm, sock 4 cm, slipper 7 cm. Draw a bar chart of these heights. Then answer: which one grips second best? **The school shoe grips second best. Here is the bar chart.**. Draw one bar for each, as tall as its height. Then put the heights in order, from tallest to shortest: 14, 10, 7, 4. The tallest bar is the rubber chappal, at 14 cm. The next tallest is the school shoe, at 10 cm. So the school shoe grips second best. (queues `math.data.bar-charts.L3`)
+- Four shoes were tested. The board's end went this high before each one slid: rubber chappal 16 cm, school shoe 13 cm, sock 8 cm, slipper 11 cm. Draw a bar chart of these heights. Then answer: which one grips second best? **The school shoe grips second best. Here is the bar chart.**. Draw one bar for each, as tall as its height. Then put the heights in order, from tallest to shortest: 16, 13, 11, 8. The tallest bar is the rubber chappal, at 16 cm. The next tallest is the school shoe, at 13 cm. So the school shoe grips second best. (queues `math.data.bar-charts.L3`)
 - Two notebooks have 40 pages each. You lay all their pages over each other, one from each book in turn. How many places are there where one page touches the next? **79 places.**. Altogether there are 40 + 40 = 80 pages in one pile. Between every two neighbouring pages there is one touching place. So there is always one fewer touching place than pages. 80 take away 1 is 79. Check with 3 pages: there are 2 touching places. (queues `math.patterns.number-patterns.L3`)
 - The Moon moves about 4 cm further from Earth every year. About how far will it move in 80 years, a long human lifetime? Give your answer in metres and centimetres. **About 320 cm, which is 3 metres and 20 centimetres.**. Each year adds 4 cm. In 80 years, that is 80 lots of 4 cm. 4 × 80 = 320 cm. 100 cm make 1 metre, so 300 cm is 3 metres. That leaves 20 cm. So the answer is 3 metres and 20 centimetres. The real speed is a little less, about 3.8 cm a year. We rounded it to 4 cm to make the sum easier. (queues `math.multiplication.equal-groups.L3`)
 
@@ -824,12 +854,9 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3, to write wi
 
 ## Things to buy
 - [Spring balance, also called a forcemeter (0 to 10 newtons, or 0 to 1 kg)](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): A forcemeter measures pulls in newtons. You use it to measure friction in the wet sand experiment and the Move the Mountain challenge. Used in e3, c1. Used again in Forcemeters L3 and Gravity L3.
-- [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures how high the board is lifted, in the slope test and the grip socks project. Used in e1, p1. 
-- [Fabric puff paint](https://www.amazon.in/s?k=fabric+puff+paint) (material): Makes raised grip dots on the bottom of socks, in the grip socks project. Used in p1. 
-- [Glass marbles](https://www.amazon.in/s?k=glass+marbles+kids) (material): Used as ball bearings under the heavy box, in the Move the Mountain challenge. Used in c1. 
-- [Forces Make Things Move, by Kimberly Brubaker Bradley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Forces+Make+Things+Move+Kimberly+Brubaker+Bradley) (book): A clear picture book about forces, including friction, for ages 5 to 9. Used in g1. If bought, read it on day 1 after the story; its friction pages replace the 'What friction is' cards.
-- [Carrom board and powder](https://www.amazon.in/s?k=carrom+board+with+powder) (game): A friction game every Indian home knows. Play once without powder and once with it, and feel the difference. Used in g1. If the family has one, add a 10-minute 'carrom with and without powder' test to the Grip or Slip game day.
-- [Thin, bendy fridge magnet sheets](https://www.amazon.in/s?k=flexible+magnetic+sheet) (material): Two of these, slid face to face, make a hand-sized model of atoms grabbing and letting go. Used in a5. 
+- [Fabric puff paint](https://www.amazon.in/s?k=fabric+puff+paint) (material): Makes raised grip dots on the bottom of socks, in the grip socks project. Without it, sew on strips cut from an old balloon or rubber glove. Used in p1. 
+- [Forces Make Things Move, by Kimberly Brubaker Bradley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Forces+Make+Things+Move+Kimberly+Brubaker+Bradley) (book): A clear picture book about forces, including friction, for ages 5 to 9. Used in g1. If bought, read it together on day 1, after the story.
+- [Thin, bendy fridge magnet sheets](https://www.amazon.in/s?k=flexible+magnetic+sheet) (material): Two of these, slid face to face, make a hand-sized model of atoms gripping and letting go. Many homes already have thin advert magnets on the fridge. Buy a sheet only if you have none. Used in a5. 
 
 ## Warm-up
 - Friction happens where two ____ touch. → surfaces
