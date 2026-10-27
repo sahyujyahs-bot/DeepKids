@@ -1,9 +1,9 @@
-# The five senses: how your body turns the world into signals for the brain
+# Our senses: many more than five
 `sci.senses.five-senses.L3`
 
-**Summary.** Pinch your nose, and a spoon of elaichi sugar tastes only sweet. Let go, and the elaichi comes back. That is because most of what we call taste is really smell. A sense is a way your body detects something from the world. Ears detect vibrations in the air. Skin detects pressure, vibration and stretching. The tongue and the nose detect molecules, the tiny pieces that every substance is made of. Eyes detect light. In every sense, special cells called receptors turn what they detect into tiny electric signals, and nerves carry the signals to the brain. The brain joins the signals from all the senses into one world. Other animals detect things we cannot, like ultraviolet light, the warmth of a mouse or echoes in the dark. Nobody yet knows how electric signals in a brain become the taste of a mango or the colour red.
+**Summary.** Pinch your nose, and a spoon of elaichi sugar tastes only sweet. Let go, and the elaichi comes back, because most of what we call taste is really smell. A sense is a way your body detects something and tells the brain. People often say we have five senses, but that list comes from the Greek thinker Aristotle, more than 2,300 years ago. Scientists count many more: balance, knowing where your body parts are, warmth and cold, pain, thirst, and sensors inside you that check your blood. In every sense, special cells called receptors turn what they detect into tiny electric signals, and nerves carry the signals to the brain. Other animals detect things we cannot, like ultraviolet light or echoes in the dark. Nobody yet knows how electric signals in a brain become the taste of a mango.
 
-**Intro.** *Shut your eyes and pinch your nose. Now someone puts a pinch of sugar on your tongue. It has a secret spice mixed in. Can you tell which spice it is? Keep pinching. Now let go of your nose.* When you let go, the spice suddenly appears. Your tongue did not change. Your nose started working again. In this unit you find out how each of your senses works. You follow each one from the outside of your body down to tiny cells and electric signals. You also find out what a bat, a fly and a snake can sense that you cannot.
+**Intro.** *Shut your eyes and pinch your nose. Now someone puts a pinch of sugar on your tongue. It has a secret spice mixed in. Can you tell which spice it is? Keep pinching. Now let go of your nose.* When you let go, the spice suddenly appears. Your tongue did not change. Your nose started working again. Next, you follow each sense from the outside of your body down to tiny cells and electric signals. You also find out that you have many more than five senses. And you find out what a bat, a fly and a snake can sense that you cannot.
 
 ## Learning outcomes
 0. I can say what a sense is: a way the body detects something from the world and sends a message to the brain.
@@ -13,10 +13,14 @@
 4. I can explain that flavour is mostly smell, and show it with a test where I pinch my nose.
 5. I can explain that eyes detect light with rods and cones, and that every sense turns the world into the same kind of electric signal.
 6. I can give examples of animals that sense things humans cannot, and say what scientists still do not know about how senses become experience.
+7. I can explain that we have many more than five senses, such as balance, body position, warmth and cold, and thirst, and test some of them at home.
 
 ## Terms
 - **Sense**: A way your body finds out about the world. It detects something, like light or sound, and sends a message to your brain. To detect something means to notice that it is there. *e.g.* Hearing is a sense. It tells you a pressure cooker is whistling, even when you are in another room.
-- **Sense organ**: A part of the body built to detect one kind of thing from the world. Ears, eyes, nose, tongue and skin are sense organs. *e.g.* Your nose is the sense organ for smell.
+- **Sense organ**: A part of the body built to detect one kind of thing. Ears, eyes, nose, tongue and skin are the best-known sense organs. The balance organs deep inside your ears are sense organs too. *e.g.* Your nose is the sense organ for smell.
+- **Balance sense**: The sense that tells you which way is down and when your head tilts or turns. Its receptors are hair cells in the inner ear, next to the cochlea. Scientists call it the vestibular sense. *e.g.* Spin round and stop. The room seems to keep spinning, because the liquid in your balance organs is still moving.
+- **Proprioception**: The sense of where the parts of your body are and how they are moving. Stretch sensors in your muscles and joints send the signals. Say it pro-pree-oh-SEP-shun. *e.g.* With your eyes shut, you can still touch your nose with one finger.
+- **Interoception**: Sensing what is happening inside your own body. Sensors inside you notice a full bladder, a stretched stomach, thirst and the carbon dioxide in your blood. *e.g.* Thirst is interoception. Cells in your brain notice when your blood gets too salty, and you want a drink.
 - **Receptor**: A special cell that notices one kind of thing, like light, a push or a chemical. When it notices it, it makes a tiny electric signal. *e.g.* Your eyes have receptors that notice light. Your tongue has receptors that notice sugar.
 - **Cell**: The tiny living building block that bodies are made of. Your body has many millions of millions of cells, of many different kinds. *e.g.* Skin cells, blood cells and nerve cells are all cells.
 - **Nerve**: A long thread made of nerve cells that carries messages between your body and your brain. *e.g.* When you touch a hot tawa, nerves carry the message from your finger to your brain in a tiny fraction of a second.
@@ -39,12 +43,18 @@
 
 ## Explanations
 ### What a sense is · *defined*
-**Definition:** A sense is a way the body detects something from the world and turns it into a message for the brain. Each sense has its own sense organ and its own receptors.
+**Definition:** A sense is a way the body detects something from the world, or from inside itself, and turns it into a message for the brain. Each sense has its own receptors.
 
-Every sense works in three steps. First, something from the world reaches the body. It might be light, shaking air, a push on the skin or a chemical. Second, receptors detect it. A receptor is a special cell that detects one kind of thing. When it detects it, it makes a tiny electric signal. Third, nerves carry the signal to the brain. Only then do you see, hear, feel, taste or smell. For a long time people said we have five senses: sight, hearing, touch, taste and smell. This unit is about those five. Your body has more senses too, like balance and knowing where your hands are. The next unit is about those.
+Every sense works in three steps. First, something from the world reaches the body. It might be light, shaking air, a push on the skin or a chemical. Second, receptors detect it. A receptor is a special cell that detects one kind of thing. When it detects it, it makes a tiny electric signal. Third, nerves carry the signal to the brain. Only then do you see, hear, feel, taste or smell. People often say we have five senses: sight, hearing, touch, taste and smell. That list comes from the Greek thinker Aristotle, more than 2,300 years ago. It is a tradition, not a scientific count. Scientists count many more. This unit starts with the five well-known senses, then meets the others.
 - e.g. Hearing: shaking air reaches your ear, hair cells detect it, and a nerve carries the signal to your brain.
 - e.g. Smell: molecules of hot jalebi float up your nose, smell receptors detect them, and your brain says 'jalebi'.
 - e.g. Touch: a mosquito lands on your arm, touch receptors in your skin detect the tiny push, and you swat it.
+### Many more than five senses · *defined*
+**Definition:** The body has far more than five senses. Besides sight, hearing, touch, taste and smell, it senses balance, the position of its parts, warmth, cold, pain, and many things inside itself.
+
+The list of five senses comes from Aristotle, who picked one sense for each organ you can see. Many senses have no organ you can point to. Your balance sense is in your inner ear, next to the cochlea. Some of its hair cells sit under a layer of jelly topped with tiny crystals. Gravity tugs on the crystals when you tilt your head. Three curved tubes full of liquid tell you when your head turns. Proprioception comes from stretch sensors in your muscles and joints. It tells you where your arms and legs are, even in the dark. Your skin has separate nerve endings for warmth, for cold and for pain. Inside each tooth, under the hard enamel, nerves feel cold and pressure. There are sensors deep inside you too. Stretch sensors tell you when your stomach is full or your bladder needs emptying. Cells in your brain notice when your blood is too salty, and you feel thirsty. When you hold your breath, the strong need to breathe comes mostly from sensors that notice carbon dioxide building up in your blood. Scientists do not agree on the exact number of senses. Depending on how they count, it is somewhere between about a dozen and over 30.
+- e.g. Stand on one foot and close your eyes. It is much harder, because your brain balances with your eyes, your inner ears and your muscle sensors together.
+- e.g. Put one hand in cold water and one in warm water for a minute. Then put both in the same lukewarm water. One hand feels warm and the other feels cold.
 ### Every sense speaks the same language: electric signals · *defined*
 **Definition:** Every sense turns what it detects into the same kind of message: tiny pulses of electricity called nerve signals. The brain never receives light, sound or smell itself. It only receives signals.
 
@@ -90,9 +100,15 @@ Look at your tongue in a mirror. It is covered in tiny bumps. Inside many of the
 ### The tongue map that was never true · *defined*
 **Definition:** The famous 'tongue map', with sweet only at the tip and bitter only at the back, is wrong. Every part of the tongue that has taste buds can taste every basic taste.
 
-In 1901 a German scientist, David Hänig, tested people's tongues. He found that some parts were very slightly more sensitive to some tastes. The differences were tiny. In 1942 an American, Edwin Boring, redrew Hänig's results in a book. The drawing made the tiny differences look like separate zones. Other books copied it as a map, and it was printed in school books around the world. In 1974 another American scientist, Virginia Collings, tested it again carefully. She found every taste could be tasted all over the tongue. Later, scientists found taste receptors for every taste spread across the whole tongue. You can test it yourself with a cotton bud.
+In 1901 a German scientist, David Hänig, tested people's tongues. He found that some parts were very slightly more sensitive to some tastes. The differences were tiny. In 1942 an American psychologist, Edwin Boring, redrew Hänig's results in a book. The drawing made the tiny differences look like separate zones. Other books copied it as a map, and it was printed in school books around the world. In 1974 another American scientist, Virginia Collings, tested it again carefully. She found every taste could be tasted all over the tongue. Later, scientists found taste receptors for every taste spread across the whole tongue. You can test it yourself with a cotton bud.
 - e.g. Dab sugar water on the very back of your tongue. You can taste sweet there.
 - e.g. Dab a drop of karela juice on the tip. You can taste bitter there.
+### How umami was found · *defined*
+**Definition:** Umami was named in 1908 by a Japanese chemist, Kikunae Ikeda. For almost 100 years many scientists doubted it, until umami receptors were found in taste cells in 2000 and 2002.
+
+In about 1907, a Japanese chemist called Kikunae Ikeda was eating tofu in a broth made from kombu, a kind of seaweed. He noticed a taste that was not sweet, sour, salty or bitter. He wanted to know what made it. He boiled down a large amount of kombu and found crystals of a substance called glutamate. In 1908 he named its taste umami, a Japanese word for a savoury, delicious taste. For most of the 1900s, many scientists outside Japan did not accept this. Their books said there were only four basic tastes. They said umami was just a mix of salty and the others. Ikeda's idea could only be settled by finding a receptor for it. In 2000, a team led by Nirupa Chaudhari and Stephen Roper found a receptor in taste cells that detects glutamate. In 2002, Charles Zuker's team found another. Umami had its own receptors, so it was a basic taste, just as Ikeda had said almost 100 years before.
+- e.g. Ikeda found umami in kombu, a seaweed used to make broth in Japan. In Indian food, ripe tomatoes give a lot of umami.
+- e.g. For a long time, many books said there were four basic tastes. Now most scientists count five.
 ### Is there a sixth taste? · *debated*
 Scientists agree on five basic tastes. Some think there may be more. To count as a basic taste, scientists want a receptor on the tongue that detects it, and a taste that feels different from all the others. Different people and traditions count differently.
 - e.g. Some people say very fatty foods, like ghee, have their own taste, separate from their smell and feel.
@@ -113,7 +129,7 @@ When you chew, smell molecules from the food float up from the back of your mout
 - e.g. With a blocked nose, a spoon of sugar with elaichi tastes only sweet. Let go of your nose, and the elaichi appears.
 - e.g. Hot food usually smells stronger than cold food, because heat sends more molecules into the air.
 ### How good is the human nose? · *debated*
-People often say humans have a poor sense of smell. Scientists now argue about whether that is true. Dogs are far better at many smells. But humans may be much better than their reputation.
+People often say humans have a poor sense of smell. Scientists now argue about whether that is true. Dogs are far better at many smells. But the human nose may be much better than people think.
 - e.g. A dog's nose has many millions more smell cells than yours. Trained dogs can follow a person's smell trail that is many hours old.
 - e.g. In one experiment, blindfolded people crawled across grass and followed a trail of chocolate smell with their noses.
 - **Paul Broca, a French brain scientist, in the 1800s, and many books since:** The smell part of the human brain is small compared with the rest of our brain. So our sense of smell must be weak.
@@ -123,7 +139,7 @@ People often say humans have a poor sense of smell. Scientists now argue about w
 ### How seeing works, in one card · *defined*
 **Definition:** We see when light enters the eye and is detected by rods and cones in the retina. Each cone or rod has a molecule that changes shape when light hits it, and that starts a nerve signal.
 
-Light bounces off things and into your eye through the black hole in the middle, the pupil. The clear front of the eye and the lens bend the light, so it makes a small, upside-down picture on the retina, the back wall of the eye. The retina has about 120 million rods and about 6 million cones. Rods work in dim light. Cones work in bright light and see colour. There are three kinds of cone. One kind detects mostly red light, one mostly green and one mostly blue. Your brain mixes their signals into every colour you see. Inside each rod and cone is a molecule that straightens out when one tiny particle of light hits it. That change starts the nerve signal. A rod can notice a single particle of light. About one million nerve threads carry the signals from each eye to the brain, The picture on the retina is upside down, but the brain makes sense of it, so you see the world the right way up. The unit 'How we see' goes much deeper into light and the eye.
+Light bounces off things and into your eye through the black hole in the middle, the pupil. The clear front of the eye and the lens bend the light, so it makes a small, upside-down picture on the retina, the back wall of the eye. The retina has about 120 million rods and about 6 million cones. Rods work in dim light. Cones work in bright light and see colour. There are three kinds of cone. One kind detects mostly red light, one mostly green and one mostly blue. Your brain mixes their signals into every colour you see. Inside each rod and cone is a molecule that straightens out when one tiny particle of light hits it. That change starts the nerve signal. A rod can notice a single particle of light. About one million nerve threads carry the signals from each eye to the brain. The picture on the retina is upside down, but the brain makes sense of it, so you see the world the right way up. The unit 'How we see' goes much deeper into light and the eye.
 - e.g. Stare at a bright red shape and then at a white wall. Your red cones are tired, so you see a green-blue ghost: an afterimage.
 - e.g. Dogs have only two kinds of cone. They see blues and yellows well, but red and green look alike to them.
 ### The senses work together · *defined*
@@ -141,7 +157,7 @@ Brains can change with use. Think of people who have been blind from birth. In t
 ### Every animal lives in its own sense-world · *defined*
 **Definition:** Each kind of animal senses only some parts of the world. The world as one animal senses it is called its Umwelt. No animal senses everything.
 
-A German scientist, Jakob von Uexküll, gave us the word Umwelt more than 100 years ago. Think of a garden. A honeybee sees ultraviolet light, which we cannot see. Many flowers have ultraviolet stripes that lead the bee to their nectar. A bat fills the dark with squeaks too high for us, and hears the echoes. A pit viper has two small pits on its face that feel the warmth of a mouse in total darkness. An elephant hears rumbles far too low for us, and may feel them through its feet. A housefly and a butterfly taste with their feet. A catfish has taste buds all over its skin, so its whole body tastes the water. An octopus tastes with its suckers. A silk moth can smell a female moth from far away. Our own Umwelt is just one of millions. An Indian scientist, Obaid Siddiqi, studied how fruit flies taste and smell. He showed that the genes of a tiny fly can teach us how senses and nerves work.
+A German scientist, Jakob von Uexküll, gave us the word Umwelt more than 100 years ago. A honeybee sees ultraviolet light, which we cannot see. Many flowers have ultraviolet stripes that lead the bee to their nectar. A bat fills the dark with squeaks too high for us, and hears the echoes. A pit viper has two small pits on its face that feel the warmth of a mouse in total darkness. An elephant hears rumbles far too low for us, and may feel them through its feet. A housefly and a butterfly taste with their feet. A catfish has taste buds all over its skin, so its whole body tastes the water. An octopus tastes with its suckers. A silk moth can smell a female moth from far away. Our own Umwelt is just one of millions. An Indian scientist, Obaid Siddiqi, studied how fruit flies taste and smell. He showed that the genes of a tiny fly can teach us how senses and nerves work.
 - e.g. Crickets have their ears on their front legs.
 - e.g. Mosquitoes find you partly by smelling the breath and sweat you give off.
 ### People's senses really differ · *defined*
@@ -149,7 +165,7 @@ A German scientist, Jakob von Uexküll, gave us the word Umwelt more than 100 ye
 
 About 8 in every 100 boys and men, and about 1 in every 200 girls and women, see some colours differently from most people. Usually red and green look alike to them. An American scientist, Linda Bartoshuk, found that some people are 'supertasters'. They have more taste buds and find bitter foods, like karela, much more bitter. For some people, fresh dhania leaves taste like soap. This is partly because of their genes. So when two people taste the same chutney, they may not taste quite the same thing. Neither one is wrong.
 - e.g. You might love karela while your brother can hardly eat it. Your tongues may really be different.
-- e.g. A colour-blind child may find it hard to tell a ripe red mango from a green one by colour alone.
+- e.g. A colour-blind child may find it hard to tell a ripe red tomato from a green one by colour alone.
 ### How do signals become experience? · *debated*
 Scientists can follow a sense all the way from a ripe mango to electric signals in the brain. But here is the mystery. Why does it feel like anything at all? Why are some signals the warm yellow of a mango, and others its sweet smell? Scientists do not yet know. Some call this the hardest question about the mind.
 - e.g. You cannot know for sure that the red you see is the same as the red your friend sees. You both call it 'red'.
@@ -167,8 +183,8 @@ Scientists can follow a sense all the way from a ripe mango to electric signals 
 - Many animals sense things humans cannot, such as ultraviolet light, echoes, very low rumbles and the warmth of prey in the dark. *How we know:* Careful tests: bees trained to visit ultraviolet patterns, bats catching moths in the dark, snakes striking at warm targets with their eyes covered.
 
 ## How we found out
-**Kikunae Ikeda, a chemist in Japan, and the teams of Nirupa Chaudhari and Stephen Roper, and of Charles Zuker, in the USA, 1908 to 2002.** In about 1907, a Japanese chemist called Kikunae Ikeda was eating tofu in a broth made from kombu, a kind of seaweed. He noticed a taste that was not sweet, sour, salty or bitter. He wanted to know what made it. He boiled down a large amount of kombu and found crystals of a substance called glutamate. In 1908 he named its taste umami, a Japanese word for a savoury, delicious taste. For most of the 1900s, many scientists outside Japan did not accept this. Their books said there were only four basic tastes. They said umami was just a mix of salty and the others. Ikeda's idea could only be settled by finding a receptor for it. In 2000, a team led by Nirupa Chaudhari and Stephen Roper found a receptor in taste cells that detects glutamate. In 2002, Charles Zuker's team found another. Umami had its own receptors, so it was a basic taste, just as Ikeda had said almost 100 years before.  
-*What people believed before:* Scientists believed there were only four basic tastes, and that umami was just a mix of them. Umami receptors were found on the tongue in 2000 and 2002, so it was shown to be a fifth basic taste.
+**Aristotle in ancient Greece, Charles Bell and Alexander Crum Brown in Scotland, Pierre Flourens in France, Ernst Mach and Josef Breuer in Austria, and Charles Sherrington in England, About 350 BCE to 1906.** About 2,350 years ago, the Greek thinker Aristotle wrote a book called On the Soul. In it he listed five senses: sight, hearing, smell, taste and touch. Each one had a body part you could point to: eyes, ears, nose, tongue and skin. Aristotle also argued that there could be no sixth sense. He was so respected that books copied his list for about 2,000 years. It was also easy to teach, because every sense had an organ to show. But some senses have no organ you can see. In the 1820s, a Scottish surgeon called Charles Bell described a 'muscle sense' that tells you where your arms and legs are. In 1906, Charles Sherrington named it proprioception. Also in the 1820s, a French scientist, Pierre Flourens, damaged the tiny curved tubes deep inside pigeons' ears, and the birds lost their balance. In 1873 and 1874, three scientists, Ernst Mach, Josef Breuer and Alexander Crum Brown, each worked out that these tubes sense the head turning. Today scientists count many senses, from about a dozen to over 30, and they do not agree on one number. Textbooks still say five because it is an old habit, not because it is true.  
+*What people believed before:* People believed there were exactly five senses, one for each organ you can see. Senses with no organ to point at, like the muscle sense and the balance sense of the inner ear, showed that the list was far too short.
 
 ## Challenging perspectives
 - **Humans have exactly five senses.** (Aristotle, a Greek thinker, in his book On the Soul, about 2,350 years ago. Many school books still say it.; *rejected*)  
@@ -185,7 +201,7 @@ Scientists can follow a sense all the way from a ripe mango to electric signals 
   Against: Scientists count five tastes that the taste buds detect. Pungent, like chilli, and astringent, like raw banana, are detected by touch and pain nerve endings in the mouth, not by taste buds. And umami is missing from the six.
 - **Umami is not a real taste. It is just a mix of the other tastes.** (Many scientists outside Japan, for most of the 1900s; *rejected*)  
   For: Umami foods are often also salty, and it is hard to taste umami on its own.  
-  Against: Around the year 2000, scientists found receptors on the tongue that detect glutamate, the umami molecule. Kikunae Ikeda had been right since 1908.
+  Against: Around the year 2000, scientists found receptors on the tongue that detect glutamate, the umami molecule. So Kikunae Ikeda, who named umami in 1908, had been right all along.
 - **Blind people have better ears than sighted people.** (A common belief; *debated*)  
   For: Many blind people notice sounds that sighted people miss, and some can find their way with echoes.  
   Against: Their ears are usually just the same. What changes is the brain. With practice it learns to get more out of the same sounds, and even uses the parts normally used for seeing.
@@ -204,11 +220,11 @@ We have been learning how each sense detects the world and turns it into signals
 - *what is life:* Every living thing senses something. A bacterium senses sugar, a bee senses ultraviolet, and you sense a mango. Being alive means sensing the world and acting on what you sense.
 - *what is this world:* The world holds far more than any animal can sense. Each creature detects only a small part of it, and builds its own world from that.
 
-Your five senses detect five very different things: light, vibrations, pressure and two kinds of molecules. Yet every one of them becomes the same kind of electric signal. The brain joins all these signals into one world, so the mango you see, smell and taste is one mango. DeepKids believes the same awareness is present in every creature that senses, from a bacterium to a bee to you. Each one senses its own part of the same world.
+Your senses detect very different things: light, vibrations, pushes, warmth, gravity, the stretch of your muscles and many kinds of molecules. Yet every one of them becomes the same kind of electric signal. The brain joins all these signals into one world, so the mango you see, smell and taste is one mango. DeepKids believes the same awareness is present in every creature that senses, from a bacterium to a bee to you. Each one senses its own part of the same world.
 
 - **Samyutta Nikaya 35.23, the Sabba Sutta (the Buddha's teaching on 'the All'):** The Buddha was asked, 'What is the All?' He named six pairs. The eye and what it sees. The ear and sounds. The nose and smells. The tongue and tastes. The body and touches. The mind and thoughts. That, he said, is the All. (This unit found the same pairs: a receptor and what it detects, like a cone and light, or a smell cell and a molecule. The Buddha also counted the mind as a sense. In this unit, the brain joined the signals from the nose and tongue into one flavour.)
 - **Katha Upanishad 1.3.3 to 1.3.4:** The body is like a chariot. The senses are the horses, and the things they sense are the roads. The mind is the reins, and understanding is the driver. The Self, the one who experiences, rides in the chariot. (Senses carry signals in from the world, like horses running along roads. The Upanishad asks who is riding. Science can follow the signals into the brain, but it cannot yet explain who or what experiences them.)
-- **Tao Te Ching 12:** The five colours can blind the eye. The five notes can deafen the ear. The five flavours can dull the tongue. (In the Fading Coin activity, your skin stopped feeling a coin that did not move. Senses stop reporting what stays the same. The Tao Te Ching also warns that too much of the same dulls the senses.)
+- **Tao Te Ching 12:** The five colours can blind the eye. The five notes can deafen the ear. The five flavours can dull the tongue. (The Tao Te Ching warns that chasing strong colours, sounds and flavours dulls the senses. Science has found something related. In the Fading Coin activity, your skin stopped feeling a coin that did not move. A sense given the same thing for a long time stops reporting it.)
 - Science (settled): Every sense works by receptor cells detecting something from the world and turning it into electric signals for the brain.
 - Science (open): Nobody knows how electric signals in the brain become experiences, like the taste of mango. This is sometimes called the hard problem of consciousness.
 - Other view, The Charvaka school of ancient India, and many brain scientists today: The Charvaka thinkers taught that what the senses perceive is the only sure way of knowing, and that awareness ends when the body ends. Many brain scientists today agree in their own way: awareness is something the brain does, and there is no One behind it. These are honest views, held by thoughtful people.
@@ -259,7 +275,7 @@ Then a voice cut through the noise. It was not loud. It was very calm.
 
 'Everyone,' said Tara. 'Please stop talking.'
 
-Something in her voice made them do it. One by one, the shouting stopped. Mamaji switched off his torch. Now there was only the rain, and the dark, and seven people breathing.
+Something in her voice made them do it. One by one, the shouting stopped. Mamaji switched off his torch. Now there was only the rain, and the dark, and everyone breathing.
 
 Tara stood very still in the middle of the passage. Arjun could just make out her shape. She turned her head slowly to the right, and then slowly to the left, the way a bird does.
 
@@ -321,7 +337,7 @@ He lay very still and listened. The room was not empty after all. It never had b
   *Parent says:* If you could have one of these super-senses for a day, which would you choose? What would you notice in our house that you can't notice now?  
   *Child mode:* Count your pairs or your turns. Which super-sense would you choose for one day? What would you notice at home?
   - Think: These animals are sensing things that are really there, all around us. What might be all around you right now that you cannot sense?
-### g2 · Kim's Game for All Five Senses (25 min)
+### g2 · Kim's Game for Five Senses (25 min)
 - **rules:** This game comes from a famous book called Kim, by Rudyard Kipling, published in 1901 and set in India. In it, a boy called Kim is trained to remember things on a tray by looking for one minute.; There are five rounds, one for each sense. One person is the game-master and sets up each round. The others play.; In each round, you score 1 point for each thing you name correctly.; Players can take turns being the game-master.; Add up the points after all five rounds. The highest total wins. Then talk about which sense was easiest, and which was hardest.
 - **Printable score sheet: Score sheet for five rounds:** Round 1, Sight: what is missing from the tray?; Round 2, Hearing: name the kitchen sounds; Round 3, Smell: name the spices; Round 4, Touch: name the things in the bag; Round 5, Taste: name the tastes; Total points
 - **Printable cards: Five round cards:** SIGHT: Look at the tray for one minute. Then close your eyes. One thing will vanish.; HEARING: Turn your back. Name each kitchen sound.; SMELL: Eyes shut. Waft each katori towards your nose and name the smell.; TOUCH: Put your hand in the bag. Name each thing without looking.; TASTE: Eyes shut. Name the basic taste: sweet, sour, salty, bitter or umami.
@@ -446,16 +462,16 @@ He lay very still and listened. The room was not empty after all. It never had b
 ## Activities
 ### a1 · One Quiet Minute: what are your senses telling you? (8 min)
 - **safety:** Do this sitting down, somewhere safe.
-- **record:** Draw five columns: ears, skin, nose, tongue, eyes. Write everything you noticed in the right column.
+- **record:** Draw six columns: ears, skin, nose, tongue, eyes, and inside my body. Write everything you noticed in the right column.
 - **s1 (2 min)**  
   *Parent does:* 1. Sit down together, somewhere ordinary, like the kitchen or the balcony. 2. Set a timer for one minute. 3. Both of you close your eyes.  
-  *Parent says:* For one minute, let's be completely still and quiet, with our eyes shut. Notice everything your body is telling you. Every sound, every smell, every touch. Don't say anything until the timer rings.  
+  *Parent says:* For one minute, let's be completely still and quiet, with our eyes shut. Notice everything your body is telling you. Every sound, every smell, every touch, and anything you feel inside you. Don't say anything until the timer rings.  
   *Child mode:* Sit still. Close your eyes. For one minute, just notice. Every sound. Every smell. Every touch.
 - **s2 (3 min)**  
-  *Parent does:* When the timer rings, each of you makes the five-column list: ears, skin, nose, tongue, eyes.  
+  *Parent does:* When the timer rings, each of you makes a six-column list: ears, skin, nose, tongue, eyes, and inside my body.  
   *Parent says:* Now let's write everything we noticed. Put each thing under the sense that noticed it. Which column is longest?  
-  *Child mode:* Open your eyes. Make five columns: ears, skin, nose, tongue, eyes. Write everything you noticed.
-  - Note: Good finds: a fan humming, a bird outside, the floor pressing on your bottom, a cooking smell, the taste left from breakfast, warmth from the sun. Children are often surprised how much they notice with their eyes shut.
+  *Child mode:* Open your eyes. Make six columns: ears, skin, nose, tongue, eyes, and inside my body. Write everything you noticed.
+  - Note: Good finds: a fan humming, a bird outside, the floor pressing on your bottom, a cooking smell, the taste left from breakfast, warmth from the sun. For 'inside my body': feeling hungry or thirsty, a heartbeat, tired legs, needing the toilet. Children are often surprised how much they notice with their eyes shut.
 - **s3 (3 min)**  
   *Parent does:* Compare your two lists, and talk about the questions.  
   *Parent says:* Did you notice anything you never usually notice? Was the fan there before we started, or did we just not hear it?  
@@ -562,6 +578,32 @@ He lay very still and listened. The room was not empty after all. It never had b
   *Parent says:* Hold your thumb up in front of you. Close one eye, then the other, again and again. Your thumb jumps! Each eye sees a slightly different picture. Your brain joins them and works out how far away things are.  
   *Child mode:* Hold up your thumb. Close one eye, then the other. Your thumb jumps! Each eye sees it from a different place.
   - Think: An owl has both eyes on the front of its face. A pigeon has eyes on the sides. Which one sees further around? Which one judges distance better?
+### a7 · Senses You Forgot You Had: balance, body position, warm and cold (15 min)
+- **safety:** Do the balance test next to a wall on a clear floor, with a grown-up standing close. The warm water must be only comfortably warm, like a bath. A grown-up tests it with an elbow first.
+- **record:** Write how many seconds you stood on one foot with eyes open and with eyes shut. Write how many times out of 6 you touched your nose. Write what each hand felt in the middle bowl.
+- **s1 (4 min) · grown-up needed**  
+  *Parent does:* 1. Your child stands next to a wall, on one foot, with eyes open. 2. Count the seconds until the other foot touches the floor. Stop at 30. 3. Now they try again with eyes shut. 4. Write both times.  
+  *Parent says:* Stand on one foot and look straight ahead. I'll count. Now do it again with your eyes shut. Before you try, guess: will it be easier or harder? Why do you think so?  
+  *Child mode:* Stand on one foot near a wall. Count how long you can stay up. Now close your eyes and try again. Is it harder?
+  - Note: Most children stand for the full 30 seconds with eyes open, but only a few seconds with eyes shut. The brain balances with three senses together: the eyes, the balance organs in the inner ears and the stretch sensors in the muscles. Shutting the eyes takes one away.
+- **s2 (3 min)**  
+  *Parent does:* 1. Your child shuts their eyes and stretches both arms out to the sides. 2. They touch the tip of their nose with one pointing finger, then put the arm back out. 3. Do it 3 times with each hand. 4. Count the touches out of 6.  
+  *Parent says:* Eyes shut. Arms out wide. Now touch the tip of your nose with one finger. How did your finger know where your nose was?  
+  *Child mode:* Close your eyes. Stretch your arms out. Touch your nose with one finger. Now the other hand. How did you know where your nose was?
+  - Ask: How did your finger find your nose without your eyes? (good: My body knows where my arm is.; Something in my arm told my brain where it was.)
+  - Note: Most children touch their nose almost every time. Stretch sensors in the muscles and joints tell the brain where each part of the body is. This sense is called proprioception.
+- **s3 (6 min) · grown-up needed**  
+  *Parent does:* 1. Fill three bowls: cold water on the left, water straight from the tap in the middle, warm water on the right. 2. A grown-up tests the warm bowl with an elbow. 3. Your child puts the left hand in the cold bowl and the right hand in the warm bowl. 4. They hold them there for 1 minute. 5. Then both hands go into the middle bowl at the same time.  
+  *Parent says:* Before you put both hands in the middle bowl, guess: will they feel the same? Now try it. What does each hand tell you?  
+  *Child mode:* Left hand in the cold bowl. Right hand in the warm bowl. Wait one minute. Now put both hands in the middle bowl. What does each hand feel?
+  - Note: The hand that was in cold water feels the middle bowl as warm. The hand that was in warm water feels it as cold. The warm and cold nerve endings report the change from what they are used to, not the exact temperature. The English thinker John Locke wrote about this test in 1690.
+  - Check: Both your hands were in the same middle bowl. The hand from the cold bowl felt warm, and the hand from the warm bowl felt cold. Why? → **Your warm and cold nerve endings report the change from what they were used to**
+- **s4 (2 min)**  
+  *Parent does:* Dry hands with the towel. Then talk about the senses inside the body.  
+  *Parent says:* Close your eyes for a moment. Are you hungry? Thirsty? Do you need the toilet? Which sense told you? None of your eyes, ears, nose, tongue or skin did.  
+  *Child mode:* Close your eyes. Are you hungry or thirsty? Which part of you told you?
+  - Note: This is interoception, sensing the inside of the body. Stretch sensors notice a full stomach or bladder. Cells in the brain notice when the blood is too salty, and that makes you thirsty.
+  - Think: Aristotle counted five senses. How many have you used today?
 
 ## Projects
 ### p1 · Train Your Nose: can smelling get better with practice? (40 min, 4 days)
@@ -649,14 +691,14 @@ He lay very still and listened. The room was not empty after all. It never had b
   - Think: Louis Braille invented his raised-dot writing at about 15 years old. What could you invent that would help someone?
 
 ## Worksheets
-### Sense Detective (core) (core, 16 questions)
+### Sense Detective (core) (core, 17 questions)
 1. (mcq) What does a receptor do?  
    Options: It stores food for the body / It notices one kind of thing, like light or a push, and makes a nerve signal / It pumps blood / It makes sounds  
    **Answer:** It notices one kind of thing, like light or a push, and makes a nerve signal. *Why:* A receptor is a special cell that notices one kind of thing and turns it into a tiny electric signal. Picking 'makes sounds' usually mixes up catching a sound with making one.
 2. (fill) Nerves carry tiny electric ____ from the senses to the brain.  
    **Answer:** ['signals']. *Why:* Every sense sends its messages to the brain as tiny pulses of electricity called nerve signals.
 3. (match) Match each sense organ to what it detects.  
-   **Answer:** Ear → shaking air; Eye → light; Nose → molecules in the air; Tongue → molecules in food; Skin → pressure, vibration and stretching. *Why:* Each sense organ detects one kind of thing from the world and has receptors built for it.
+   **Answer:** Ear → shaking air; Eye → light; Nose → molecules in the air; Tongue → molecules in food; Skin → pressure, warmth, cold and pain. *Why:* Each sense organ detects one kind of thing from the world and has receptors built for it.
 4. (order) Put the path of a sound in order, from outside to the brain: eardrum, cochlea, ear flap, three tiny bones, ear canal, nerve.  
    **Answer:** order shown. *Why:* The ear flap collects the sound. It goes down the ear canal and shakes the eardrum. Three tiny bones pass the shaking to the cochlea. Hair cells there make signals, and the nerve carries them to the brain.
 5. (truefalse) The smallest bone in your body is inside your ear.  
@@ -684,10 +726,13 @@ He lay very still and listened. The room was not empty after all. It never had b
    **Answer:** A housefly. *Why:* Houseflies and butterflies have taste hairs on their feet, so they taste what they land on. Picking 'cat' may come from remembering that cats are unusual tasters. Cats cannot taste sweet.
 14. (write) Your friend says, 'We have exactly five senses.' What would you tell them? Give one example.  
    **Answer:** We have more than five. For example, balance tells us if we are tipping over, and we can feel where our hands are with our eyes shut.. *Why:* The five senses are an old list. Scientists count many more, each with its own receptors.
-15. (draw) Draw the path of a smell: from a hot jalebi, up your nose, to your brain. Label the smell molecules, the smell receptors and the nerve.  
+15. (mcq) In Senses You Forgot You Had, standing on one foot was much harder with your eyes shut. Why?  
+   Options: Your legs get weaker when your eyes are shut / Your brain balances using your eyes, your inner ears and your muscle sensors together, and you took one away / Your ears stop working when your eyes are shut / Balance only uses the eyes  
+   **Answer:** Your brain balances using your eyes, your inner ears and your muscle sensors together, and you took one away. *Why:* Balance uses three senses at once: your eyes, the balance organs in your inner ears and the stretch sensors in your muscles. Shutting your eyes takes one away, so the other two have to do all the work. Picking 'balance only uses the eyes' is wrong, because you could still balance for a few seconds with your eyes shut.
+16. (draw) Draw the path of a smell: from a hot jalebi, up your nose, to your brain. Label the smell molecules, the smell receptors and the nerve.  
    **Answer:** Molecules float from the jalebi into the nose. They reach receptor cells high inside the nose. A nerve carries the signal to the brain.. *Why:* Smells are molecules. Receptors high in the nose detect them, and nerves carry the signals to the brain.
-16. (write) Look at the chart from the Point at the Sound test. The child found 7 sounds with two ears and 4 with one ear blocked. What does this show?  
-   **Answer:** Two ears are better for finding where a sound comes from. The child found 3 more sounds with two ears. The brain compares the two ears.. *Why:* With one ear blocked, the brain has nothing to compare, so pointing gets worse.
+17. (write) Look at the chart from the Point at the Sound test. The child found 7 sounds with two ears and 4 with one ear blocked. What does this show?  
+   **Answer:** Two ears are better for finding where a sound comes from. The child found 3 more sounds with two ears. The brain compares the two ears.. *Why:* With one ear blocked, the brain has much less to compare, so pointing gets worse.
 ### How Senses Work, Inside (stretch) (stretch, 15 questions)
 1. (mcq) A signal from your eye and a signal from your ear both reach your brain. How are they different?  
    Options: One is light and one is sound / They are the same kind of electric signal, but they arrive at different parts of the brain / The eye signal is much faster / The ear signal is bigger  
@@ -816,6 +861,12 @@ He lay very still and listened. The room was not empty after all. It never had b
 14. (mcq) Which question do scientists still NOT know the answer to?  
    Options: Do we have taste buds? / Why do signals in the brain feel like the taste of mango or the colour red? / Do ears have eardrums? / Do bees see ultraviolet?  
    **Answer:** Why do signals in the brain feel like the taste of mango or the colour red?. *Why:* Scientists know a lot about how senses send signals. But how signals become experience is still a mystery. Some call it the hard problem.
+15. (mcq) How many senses do people have?  
+   Options: Exactly five / Many more than five, such as balance, body position, warmth and cold, and thirst / Only one / Three  
+   **Answer:** Many more than five, such as balance, body position, warmth and cold, and thirst. *Why:* Five is an old count, from Aristotle more than 2,300 years ago. Scientists count many more, each with its own receptors, though they do not agree on the exact number. Picking 'exactly five' is the answer many school books still give.
+16. (mcq) You stand on one foot with your eyes shut. Which sense helps you most to stay up?  
+   Options: Smell / Taste / The balance sense in your inner ears / Hearing  
+   **Answer:** The balance sense in your inner ears. *Why:* Your inner ears hold balance organs that sense gravity and the turning of your head. Picking 'hearing' is close, because the balance organs sit right next to the cochlea. But they do a different job.
 
 ## Applications
 - Hearing aids and cochlear implants. A cochlear implant sends electric signals straight to the nerve of the cochlea, so some deaf people can hear.
@@ -848,7 +899,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **How many smells can people tell apart?** One team estimated at least a trillion. Others showed that the answer depends on the maths used. Nobody can test every mixture.
 - **Why can birds grow new hair cells in their ears, but people cannot?** Scientists are studying the genes that switch this on in birds, hoping one day to help people with hearing loss.
 - **Is there a sixth basic taste, such as fat?** Some tests suggest people can taste fat on its own. Scientists are still arguing about whether it counts as a basic taste.
-- **How exactly does the brain join sight, sound, smell, taste and touch into one world, at the same moment?** Each sense is handled in different parts of the brain, at slightly different speeds. How they are bound together into one experience is still not understood.
+- **How exactly does the brain join all the senses into one world, at the same moment?** Each sense is handled in different parts of the brain, at slightly different speeds. How they are bound together into one experience is still not understood.
 - **Do insects and other small animals feel what they sense?** Flies and bees learn, remember and avoid harm. Whether they have any inner experience is still argued about.
 
 ## Questions to ask kids
@@ -863,6 +914,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - What smell brings back a happy memory for you?
 - How would you find your way to the kitchen in the dark?
 - Is this chutney as bitter for you as it is for me? How could we find out?
+- Are you thirsty right now? Which sense tells you?
 
 ## Jokes
 - Why did the nose go to school? *It wanted to be a little more scent-sible.*
@@ -913,7 +965,7 @@ The World Comes In (sci.senses.L3): Topic-level song
 ## Things to buy
 - [Bright sketch pens](https://www.amazon.in/s?k=sketch+pens+for+kids) (material): Thick, bright colours make the Blue Mango afterimage work best. Used in a5. 
 - [What If You Had Animal Eyes?, by Sandra Markle](https://www.amazon.in/s?k=What+If+You+Had+Animal+Eyes+Sandra+Markle) (book): A picture book for ages 5 to 9 about what you would see with the eyes of different animals, with true facts. Used in g1. If bought, read it after Super-Sense Pairs. Add one animal from the book to the game as a new pair.
-- [My Five Senses, by Aliki (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=My+Five+Senses+Aliki) (book): A simple, clear picture book about the five senses, good for younger brothers and sisters too. Used in a1. If bought, read it after One Quiet Minute, on day 1.
+- [My Five Senses, by Aliki (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=My+Five+Senses+Aliki) (book): A simple, clear picture book about the five well-known senses, good for younger brothers and sisters too. It keeps to the old count of five, so talk about the other senses after reading it. Used in a1. If bought, read it after One Quiet Minute, on day 1.
 - [An Immense World, by Ed Yong](https://www.amazon.in/s?k=An+Immense+World+Ed+Yong) (book): A book for parents about animal senses and the idea of the Umwelt. Read short passages aloud. Used in g1. For the parent. Read the chapter on echoes aloud before the story, or on a Go deeper day.
 
 ## Warm-up
@@ -928,14 +980,15 @@ The World Comes In (sci.senses.L3): Topic-level song
 - Which animal tastes with its feet? → A housefly, or a butterfly.
 - Do broken hair cells in a person's ear grow back? → No. That is why we protect our ears from loud sounds.
 - What do we call the world as one animal senses it? → Its Umwelt.
+- Do we have only five senses? → No. We have many more, such as balance, body position, warmth and cold, pain and thirst.
 
 ## Plan
 - Start options: intro, story, e1, a1, g1, big_questions, cards
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → a2 → e3 → g1 → e2 → a3 → videos → ws-core → a4 → a5 → a6 → agreed → challenging → g2 → c1 → ws-stretch → p1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
-- Core: a1, e1, e2, e3, a2, a5, g1, ws-core
+- Default order: intro → a1 → e1 → a7 → summary → terms → explanations → story → a2 → e3 → g1 → e2 → a3 → videos → ws-core → a4 → a5 → a6 → agreed → challenging → g2 → c1 → ws-stretch → p1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Core: a1, e1, a7, e2, e3, a2, a5, g1, ws-core
 
 ## Sources
-- DeepKids Combined lesson sci-C3-senses (Class 3): pointing at sounds, the two-point test, the tongue map, chilli and mint, umami, pinhole and pupil, Ibn al-Haytham, animal senses and the Umwelt, the Umwelt Trail game, Braille and Aravind perspectives. Taken and reworked for the five senses. Balance, body position and inner senses are left to the next unit.
+- DeepKids Combined lesson sci-C3-senses (Class 3): pointing at sounds, the two-point test, the tongue map, chilli and mint, umami, pinhole and pupil, Ibn al-Haytham, animal senses and the Umwelt, the Umwelt Trail game, Braille and Aravind perspectives. Taken and reworked for the five senses. Balance, body position, warm and cold, and the inner senses are introduced here with home tests, and go deeper in the next unit.
 - Cambridge Stage 3 pack 4 (Our five senses): pointing at sounds, the touch test, the spice box smell game and the eye test.
 - Founder's notebook, Senses: SCI Cards for Obaid Siddiqi (fruit-fly genetics of taste and smell) and Ibn al-Haytham. Grade 3 concept grid ('perception constructs experience'). weekly journey 'All Perception Is Subjective'.
 - Founder's sheets: afterimages ('stare at red dot, see green blur, retina fatigue'), sound through solids ('ear to table when pencil taps'), feeling music through a balloon held to a phone speaker, describing an object with the five senses on a nature walk, and the teachpsych.org list of sensation and perception activities.
@@ -959,3 +1012,5 @@ The World Comes In (sci.senses.L3): Topic-level song
 - Thaler, Arnott and Goodale, PLoS ONE 2011 (the visual brain in expert human echolocators)
 - Payne, Journal of Experimental Biology 1971 (barn owls catch prey in total darkness by sound)
 - Chalmers, Journal of Consciousness Studies 1995 (the hard problem), and Nagel, The Philosophical Review 1974 (What is it like to be a bat?)
+- Aristotle, De Anima, Book 3, chapter 1 (the argument that there is no sense beyond the five)
+- Sherrington, The Integrative Action of the Nervous System, 1906 (the word proprioception)

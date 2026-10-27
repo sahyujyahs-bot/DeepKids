@@ -1,9 +1,9 @@
 {
  "id": "sci.water.water-cycle.L3",
- "title": "The water cycle: how water goes up, comes down and goes round again",
+ "title": "The water cycle: where rain comes from and where it goes",
  "level": 3,
  "summary": {
-  "text": "This unit is about the water cycle. The water cycle is the journey water makes, round and round, between the sea, the sky and the land. The Sun warms water in seas, ponds, puddles and leaves. Some of it turns into an invisible gas called water vapour and rises into the air. This is evaporation. High up, the air is cold, so the vapour turns back into tiny drops on specks of dust. This is condensation, and billions of these tiny drops make a cloud. When the drops grow heavy, they fall as rain, hail or snow. The water runs into rivers, soaks into the ground, or is drunk by plants and animals, and in the end it flows back to the sea. When sea water evaporates, the salt stays behind, so rain is fresh. In India, the monsoon is the water cycle at its biggest. Scientists understand the main journey well. But they still argue about how tiny cloud drops grow into raindrops so fast, and how the monsoon will change.",
+  "text": "Every raindrop was once water on the land or in the sea. The Sun warms that water, and some of it evaporates into an invisible gas called water vapour. High up the air is cold, so the vapour condenses into tiny drops, and billions of drops make a cloud. The drops grow and fall as rain, hail or snow, and rivers carry the water back to the sea. Salt cannot evaporate, so rain is fresh even though most of it rose from the salty sea.",
   "art": "A cut-away picture of India's west coast: the Arabian Sea with wavy lines rising from it, clouds drifting to the Western Ghats, rain falling on green hills, a river flowing back to the sea, and a big round arrow joining it all."
  },
  "intro": {
@@ -30,13 +30,13 @@
   },
   {
    "term": "Liquid",
-   "meaning": "A runny form of a thing. A liquid flows and takes the shape of its container.",
+   "meaning": "One of the forms a material can take. A liquid flows and takes the shape of its container.",
    "example": "Water in a glass, milk in a cup and oil in a bottle are liquids.",
    "art": "Water being poured from a lota into a steel tumbler."
   },
   {
    "term": "Gas",
-   "meaning": "A form of a thing that spreads out to fill all the space it can. Most gases are invisible.",
+   "meaning": "One of the forms a material can take. A gas spreads out to fill all the space it can. Most gases are invisible.",
    "example": "The air around you is a mix of gases. You cannot see it, but you can feel it as wind.",
    "art": "A balloon being blown up, with tiny dots spreading out inside it."
   },
@@ -54,26 +54,26 @@
   },
   {
    "term": "Condense",
-   "meaning": "When water vapour cools down and turns back into tiny drops of liquid water. It happens on cold things.",
+   "meaning": "When water vapour cools down and turns back into tiny drops of liquid water. It happens on cold surfaces, and in air that is cooling.",
    "example": "Drops appear on the outside of a steel tumbler full of ice. They came out of the air.",
    "art": "A cold steel tumbler with ice inside and shiny drops all over the outside."
   },
   {
    "term": "Steam",
-   "meaning": "Steam is really invisible water vapour, very hot, just above boiling water. The white cloud you see above a kettle is tiny drops that have already condensed.",
+   "meaning": "Steam is the water vapour that comes off boiling water. Like all water vapour, it is invisible. The white cloud you see above a kettle is tiny drops that have already condensed.",
    "example": "Look closely at a boiling kettle's spout. Right next to it there is a clear gap. The white mist starts a little further away.",
    "art": "A kettle spout with a clear gap, then a white curl of mist above it, with a small arrow pointing at the clear gap."
   },
   {
    "term": "Cloud",
-   "meaning": "A huge crowd of tiny water drops, or tiny bits of ice, floating in the air. Each drop is far too small to see by itself.",
+   "meaning": "A huge crowd of tiny water drops, or tiny ice crystals, floating in the air. Each drop is far too small to see by itself.",
    "example": "A white cloud over the hills is made of billions and billions of tiny drops.",
    "art": "A fluffy white cloud with a magnifying glass showing tiny round drops inside it."
   },
   {
-   "term": "Speck (cloud seed)",
-   "meaning": "A tiny bit of dust, salt, smoke or pollen floating in the air. Water vapour condenses onto these specks to make cloud drops. Scientists call them condensation nuclei.",
-   "example": "Over the sea, tiny bits of salt from sea spray become the seeds of cloud drops.",
+   "term": "Condensation nucleus (cloud seed)",
+   "meaning": "A tiny speck of dust, salt, smoke or pollen floating in the air. Water vapour condenses onto it to make a cloud drop. The plural is condensation nuclei.",
+   "example": "Over the sea, tiny grains of salt from sea spray become the seeds of cloud drops.",
    "art": "A single tiny speck of dust in the air with a water drop growing around it."
   },
   {
@@ -102,13 +102,13 @@
   },
   {
    "term": "Transpiration",
-   "meaning": "Plants giving off water vapour from tiny holes in their leaves. The water comes up from the roots. It is a little like a plant breathing out water.",
+   "meaning": "Plants giving off water vapour from tiny holes in their leaves. The water comes up from the roots, through the stem.",
    "example": "A big tree can put many buckets of water into the air on one hot day.",
    "art": "A neem tree with tiny wavy lines rising from its leaves and arrows showing water going up from the roots."
   },
   {
    "term": "Molecule",
-   "meaning": "The tiniest bit of water there can be. Each water molecule is two hydrogen atoms joined to one oxygen atom. One drop has more molecules than there are grains of sand on all the beaches of India.",
+   "meaning": "The smallest piece of water that is still water. Each water molecule is two hydrogen atoms joined to one oxygen atom. One drop has more molecules than there are grains of sand on all the beaches of India.",
    "example": "When a puddle evaporates, its molecules fly off into the air one by one.",
    "art": "A drop of water with a zoom-in circle showing tiny V-shaped molecules jostling."
   },
@@ -171,10 +171,10 @@
    "context": "Water in a puddle, a cloud and a river is the same water at different moments. This card names the four big steps of its round journey."
   },
   {
-   "concept": "Evaporation: water slipping into the air",
+   "concept": "Evaporation: water going into the air as a gas",
    "status": "defined",
    "definition": "Evaporation is liquid water slowly turning into water vapour, an invisible gas, and mixing into the air. It happens at any temperature, not only when water boils.",
-   "description": "Water is made of tiny bits called molecules. They are always jiggling and bumping into each other. At the top of a puddle, some molecules jiggle so fast that they break free and fly off into the air. That is evaporation. Warmth makes the molecules jiggle faster, so more of them escape. Wind blows the escaped molecules away, so they don't fall back in. A wide puddle has more top for molecules to escape from than a narrow glass. Dry air takes up vapour more easily than sticky, humid air. So clothes dry fastest on a hot, windy, dry day, spread out flat.",
+   "description": "Water is made of tiny particles called molecules. They are always jiggling and bumping into each other. At the top of a puddle, some molecules jiggle so fast that they break free and fly off into the air. That is evaporation. Warmth makes the molecules jiggle faster, so more of them escape. Wind blows the escaped molecules away, so they don't fall back in. A wide puddle has a bigger surface than a narrow glass, so more molecules can escape at once. Dry air takes up vapour more easily than sticky, humid air. So clothes dry fastest on a hot, windy, dry day, spread out flat.",
    "examples": [
     "Wet clothes on a terrace dry faster in the sun and wind than in a closed bathroom.",
     "A wide plate of water dries up long before the same water in a narrow glass.",
@@ -186,7 +186,7 @@
    "how": "e5"
   },
   {
-   "concept": "You can't see water vapour, and steam isn't what you think",
+   "concept": "Water vapour is invisible, and so is real steam",
    "status": "defined",
    "definition": "Water vapour is a gas, and it is completely invisible. The white mist above a kettle or a pressure cooker is not vapour. It is a crowd of tiny liquid drops that have already condensed.",
    "description": "The air in your room right now has water vapour in it. You cannot see it, smell it or feel it. Look closely at a kettle as it boils. Right at the spout there is a small clear gap. That gap is the real, invisible steam. A little further out, the steam meets cooler air and turns back into tiny drops. Those drops are what you see as white mist. So the white puff from a pressure cooker whistle is really a tiny cloud. Clouds in the sky are made the same way.",
@@ -205,7 +205,7 @@
    "definition": "Condensation is water vapour cooling down and turning back into tiny drops of liquid water. It happens when vapour touches something cold, or when air cools as it rises.",
    "description": "Cold makes molecules slow down. When slow molecules of vapour bump into each other, they stick together and make a drop. That is condensation, and it is evaporation run backwards. So any cold surface collects water from the air. A steel tumbler of ice gets wet on the outside. The inside of a lid over hot rice drips. The grass gets dew on a cool night. Air that rises up a mountain or high into the sky also cools, and its vapour condenses into clouds.",
    "examples": [
-    "A cold steel tumbler 'sweats' on a sticky day. The drops came from the air, not through the steel.",
+    "A cold steel tumbler gets wet on the outside on a sticky day. The drops came from the air, not through the steel.",
     "The underside of the lid on a pot of hot dal is covered in drops.",
     "Car windows mist up from the inside when a whole family breathes in a closed car."
    ],
@@ -217,11 +217,11 @@
   {
    "concept": "Clouds: tiny drops on specks of dust",
    "status": "defined",
-   "definition": "A cloud is a huge crowd of tiny water drops, or tiny bits of ice, floating in the air. Each drop forms around a speck of dust, salt, smoke or pollen.",
+   "definition": "A cloud is a huge crowd of tiny water drops, or tiny ice crystals, floating in the air. Each drop forms around a speck of dust, salt, smoke or pollen.",
    "description": "Vapour finds it hard to make a drop out of nothing. It needs something to stick to. In the air there are billions of tiny specks: dust, salt from sea spray, smoke and pollen. Vapour condenses onto them, and each speck grows into a cloud drop. A Scottish scientist, John Aitken, showed this in 1880. He filtered all the dust out of air in a jar, and then it would not make a cloud. Cloud drops are tiny, about one hundredth of a millimetre across. They are so small and light that rising air holds them up, and they fall very slowly. But a cloud is not light. An American cloud scientist, Peggy LeMone, worked out that one ordinary puffy cloud holds about 500,000 kilograms of water. That is as heavy as about 100 elephants, spread out over a huge space.",
    "examples": [
     "Smoke from an agarbatti, an incense stick, helps the cloud in a jar form much faster.",
-    "Over the sea, tiny bits of salt from the waves are the seeds of most cloud drops.",
+    "Over the sea, tiny grains of salt from sea spray are the seeds of many cloud drops.",
     "Clouds look white because their billions of drops scatter sunlight. Very thick clouds look grey or dark because less light gets through."
    ],
    "perspectives": [],
@@ -259,9 +259,9 @@
    "concept": "Rain, drizzle, hail and snow",
    "status": "defined",
    "definition": "Precipitation is any water falling from clouds: rain, drizzle, hail or snow. Which one falls depends on how cold the cloud and the air below it are.",
-   "description": "Drizzle is very small drops from low, thin clouds. Rain is bigger drops. Snow is ice crystals that stay frozen all the way down, as in Kashmir and Ladakh in winter. Hail is balls of ice from huge storm clouds. Strong winds toss them up and down, and they collect a new layer of ice each time, like an onion. Raindrops are not shaped like teardrops. Small ones are round. Bigger ones are squashed flat at the bottom, like a burger bun, by the air they fall through. Very big drops wobble and break apart before they reach the ground.",
+   "description": "Drizzle is very small drops from low, thin clouds. Rain is bigger drops. Snow is ice crystals that stay frozen all the way down, as in Kashmir and Ladakh in winter. Hail is balls of ice from huge storm clouds. Strong rising winds keep them up inside the cloud, where they collect layer after layer of ice, like an onion. Raindrops are not shaped like teardrops. Small ones are round. Bigger ones are squashed flat at the bottom, like a burger bun, by the air they fall through. Very big drops wobble and break apart before they reach the ground.",
    "examples": [
-    "A cut-open hailstone shows rings, like an onion. Each ring is one trip up and down the cloud.",
+    "A cut-open hailstone shows rings, like an onion. Each ring is a layer of ice it collected while the winds kept it up in the cloud.",
     "Snow falls in Gulmarg in winter. The same kind of cloud over Delhi would give rain.",
     "Drawings of raindrops as teardrops are wrong. Real falling drops look like little buns."
    ],
@@ -276,7 +276,7 @@
    "description": "Salt is dissolved in the sea, about 6 teaspoons in every litre. When the Sun warms the sea, water molecules break free and fly up. Salt cannot evaporate at these temperatures, so it is left behind. This is why salt pans work: people let sea water evaporate in the sun and rake up the salt. Rivers carry tiny amounts of salt from rocks into the sea. The water leaves again as vapour, but the salt cannot. Over hundreds of millions of years, this has made the sea salty. A solar still copies the sky. It lets salty water evaporate, catches the vapour on a cover, and collects fresh drops.",
    "examples": [
     "Gujarat's salt pans make most of India's salt, just by letting sea water evaporate.",
-    "Drink rain water caught in a clean bowl. It is not salty, even at the seaside.",
+    "Rain water caught in a clean bowl is not salty, even at the seaside.",
     "A salty tear or sweat dries to leave a white mark on your skin or shirt. The water left, the salt stayed."
    ],
    "perspectives": [],
@@ -288,7 +288,7 @@
    "concept": "Plants put water into the air",
    "status": "defined",
    "definition": "Transpiration is plants giving off water vapour through tiny holes in their leaves. The water is pulled up from the roots, through the stem, to the leaves.",
-   "description": "A plant drinks through its roots. Most of that water does not stay in the plant. It travels up the stem and leaves through tiny holes, too small to see, on the underside of leaves. As this water evaporates, it pulls more water up behind it, like sipping through a straw. A big tree can give off more than a hundred litres on a hot day. So forests are huge fountains of invisible water. Some of the rain that falls far inland, in Central India or the Amazon rainforest, has already been through the leaves of trees on the way. Scientists think more than half of the water rising from land comes out through plants. Exactly how much is still argued about.",
+   "description": "A plant drinks through its roots. Most of that water does not stay in the plant. It travels up the stem and leaves through tiny holes, too small to see, on the underside of leaves. As this water evaporates, it pulls more water up behind it, like sipping through a straw. A big tree can give off more than a hundred litres on a hot day. So a forest puts a huge amount of invisible water vapour into the air. Some of the rain that falls far inland, in Central India or the Amazon rainforest, has already been through the leaves of trees on the way. Scientists think more than half of the water rising from land comes out through plants. Exactly how much is still argued about.",
    "examples": [
     "A clear bag tied over a leafy branch fills with mist in an hour.",
     "A wet patch under a tree is cooler, partly because its leaves give off water.",
@@ -300,7 +300,7 @@
    "how": "e3"
   },
   {
-   "concept": "The Sun is the engine of the water cycle",
+   "concept": "The Sun's energy drives the water cycle",
    "status": "defined",
    "definition": "The Sun's energy drives the water cycle. Water needs energy to evaporate. When the vapour condenses into cloud drops, that energy comes out again as heat.",
    "description": "To break free and fly off, water molecules need energy, and they take it from the Sun's warmth. That is why wet skin feels cold: evaporation takes heat away. The energy is not lost. It travels up inside the vapour. When the vapour condenses in a cloud, the energy comes out again, and warms the air around it. Warm air rises, so the cloud grows taller. This is how a small cloud can grow into a huge thundercloud in an afternoon. Cyclones over the Bay of Bengal and the Arabian Sea get their great strength this way, from warm sea water that evaporates and condenses. Gravity does the other half of the work. It pulls rain down and makes rivers flow to the sea.",
@@ -380,15 +380,15 @@
    ],
    "perspectives": [],
    "art": "A water cycle picture that includes a dam, a borewell, a farm with sprinklers and a city of cement, with the arrows passing through them.",
-   "context": "Most water cycle pictures leave people out. This card shows how people now push and pull the water cycle."
+   "context": "Most water cycle pictures leave people out. This card shows how people now change the water cycle."
   },
   {
    "concept": "Living things in the clouds",
    "status": "idea",
-   "description": "Some tiny living things, too small to see, are carried high into the clouds by the wind. Some kinds of bacteria are very good at helping water freeze. In 2008, Brent Christner and other scientists tested fresh snow from around the world, and found many of these living ice-makers in it. They help ice crystals start forming in clouds at temperatures where water would usually stay liquid. Some scientists think this could help the bacteria. They ride up from leaves, help make rain or snow, and fall back down onto new plants. This idea is called bioprecipitation. Scientists are still finding out how much it really matters for the world's rain.",
+   "description": "Some tiny living things, too small to see, are carried high into the clouds by the wind. Some kinds of bacteria are very good at helping water freeze. In 2008, Brent Christner and other scientists tested fresh snow from several countries. Many of the specks that started its ice crystals came from living things, including bacteria. These specks help ice crystals start forming in clouds at temperatures where water would usually stay liquid. Some scientists think this could help the bacteria. They ride up from leaves, help make rain or snow, and fall back down onto new plants. This idea is called bioprecipitation. Scientists are still finding out how much it really matters for the world's rain.",
    "examples": [
     "A single type of bacteria that lives on leaves is one of the best ice-makers known.",
-    "Fresh snow collected in many different countries had these living ice-makers in it."
+    "Fresh snow collected in several different countries had these ice-making specks from living things in it."
    ],
    "perspectives": [],
    "art": "A cloud with a zoom-in showing a tiny rod-shaped bacterium inside a growing ice crystal, and leaves far below.",
@@ -398,10 +398,10 @@
    "concept": "Rain on other worlds",
    "status": "defined",
    "definition": "Other worlds have their own weather cycles. On Titan, Saturn's biggest moon, it rains liquid methane, which fills rivers and lakes.",
-   "description": "Titan is so cold, about 180 degrees below zero, that water is rock-hard ice there. But methane, which is a gas on Earth, is a liquid on Titan. It evaporates from lakes, makes clouds, and falls as slow, heavy rain. It carves rivers and fills seas. In January 2005, a probe called Huygens landed on Titan and photographed river channels and pebbles. Another spacecraft, Cassini, flew past Titan many times and found big lakes and seas near its poles. On Venus, there are clouds of sulphuric acid, a strong acid. Its rain is so hot near the ground that it evaporates before it can land. So the water cycle is not only about water. It is about any liquid going up, coming down and going round.",
+   "description": "Titan is so cold, about 180 degrees below zero, that water is rock-hard ice there. But methane, which is a gas on Earth, is a liquid on Titan. It evaporates from lakes, makes clouds, and falls as slow, heavy rain. It carves rivers and fills seas. In January 2005, a probe called Huygens landed on Titan and photographed river channels and pebbles. Another spacecraft, Cassini, flew past Titan many times and found big lakes and seas near its poles. Venus has clouds of sulphuric acid, a strong acid. Acid drops fall from them, but the air below is so hot that they evaporate long before they reach the ground. So going up, coming down and going round is not something only water does.",
    "examples": [
     "Titan is the only place we know, other than Earth, with rain, rivers and lakes on its surface today.",
-    "On Venus, acid rain falls but dries up in the air before it reaches the ground."
+    "On Venus, acid drops fall from the clouds but evaporate high above the ground."
    ],
    "perspectives": [],
    "art": "Titan's orange, hazy sky with a dark methane lake, pebbles on the shore, and slow fat drops falling.",
@@ -427,7 +427,7 @@
    "evidence": "Scientists measure rain, river flow and evaporation all over the world. Year after year, the water that goes up and the water that comes down roughly balance."
   },
   {
-   "text": "Clouds are made of tiny liquid drops or bits of ice, not of water vapour.",
+   "text": "Clouds are made of tiny liquid drops or ice crystals, not of water vapour.",
    "evidence": "Aeroplanes fitted with instruments fly through clouds and collect the drops. Vapour is invisible, but clouds can be seen, because their drops scatter light."
   },
   {
@@ -484,7 +484,7 @@
    "status": "debated"
   },
   {
-   "claim": "Forests pull in rain from the sea, like a pump.",
+   "claim": "Forests draw wet air in from the sea, like a pump.",
    "who": "Anastassia Makarieva and Victor Gorshkov, two Russian scientists, in 2007. They call it the 'biotic pump'.",
    "for": "Forests give off huge amounts of water vapour. When it condenses, the air pressure drops, and that could draw wet air in from the sea. Inland forests like the Amazon really do recycle rain many times.",
    "against": "Many weather scientists agree that forests recycle rain. But they doubt that forests pull in sea air as strongly as the biotic pump says. The argument is still going on.",
@@ -591,7 +591,7 @@
    "Amina looked at the clouds, and then at the brass plate dripping into her cup.",
    "'It's the same,' she whispered. 'The sun is heating the whole sea. And up there is the cold lid.'",
    "That night the wind came back, and with it came the rain. Real rain, fat and cold, drumming on the deck and filling every bowl, every bucket and every empty barrel. The sailors danced in it with their mouths open. Amina stood at the rail and let it run down her face. It was not salty. It tasted of nothing at all. It tasted of water.",
-   "She thought of the salt pans at home, and the white heaps of salt, and the water that had flown up out of them every day of her life. She had always thought it was simply gone. Now she knew where it went. It went up, and became this.",
+   "She thought of the salt pans at home, and the white heaps of salt, and the water that had risen out of them every day of her life. She had always thought it was simply gone. Now she knew where it went. It went up, and became this.",
    "Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining there too, on her mother's roof, with water that had been this very sea a few days ago."
   ],
   "epiphany": "For the parent: the key to the story is that when sea water evaporates, only the water goes up. The salt stays behind. Amina knows this from the salt pans, and she sees it again in the fresh drops on the lid of the rice pot. A cold surface turns the vapour back into drops. That is condensation. Her pot and plate are a small copy of the whole water cycle: the Sun heats the sea, the vapour rises, it condenses in the cold sky, and fresh rain falls. The story also quietly asks who is listened to: a ten-year-old girl noticed what the grown sailors had missed.",
@@ -633,7 +633,7 @@
       "RIVER (green bead). Roll: 1, 2: you flow on, go to SEA. 3: you soak in, go to GROUND. 4: a cow drinks you, go to ANIMAL. 5: the Sun warms you, go to CLOUD. 6: a farmer's pump lifts you, go to PLANT.",
       "GROUND (brown bead). Roll: 1, 2, 3: you wait between the grains, stay. 4: a root drinks you, go to PLANT. 5: you seep out as a spring, go to RIVER. 6: a well brings you up, go to ANIMAL.",
       "PLANT (light green bead). Roll: 1: a cold night, you become a dewdrop on the leaf, go to DEW. 2, 3, 4, 5: you leave a leaf as vapour, go to CLOUD. 6: a goat eats the leaf, go to ANIMAL.",
-      "ANIMAL (red bead). Roll: 1, 2: you are breathed out, go to CLOUD. 3, 4: you leave as urine, go to GROUND. 5: you are sweat that dries, go to CLOUD. 6: you stay inside, still working.",
+      "ANIMAL (red bead). Roll: 1, 2: you are breathed out, go to CLOUD. 3, 4: you leave as urine, go to GROUND. 5: you are sweat that dries, go to CLOUD. 6: you stay in the animal's body for now.",
       "ICE (purple bead). Roll: 1, 2, 3, 4, 5: you stay frozen in a glacier. 6: spring comes and you melt, go to RIVER.",
       "DEW (yellow bead). Roll: 1, 2, 3: the morning Sun dries you, go to CLOUD. 4, 5, 6: you drip into the soil, go to GROUND."
      ]
@@ -774,7 +774,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a running and acting game. Everyone is a water molecule, a tiny bit of water. A caller shouts 'Sun!', 'Cold!' or 'Heavy!', and the molecules show what water does.",
+   "context": "This is a running and acting game. Everyone is a water molecule, the smallest piece of water. A caller shouts 'Sun!', 'Cold!' or 'Heavy!', and the molecules show what water does.",
    "printables": [
     {
      "kind": "cards",
@@ -817,8 +817,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Clear a space. 2. Put up the four signs. SEA goes in a corner, MOUNTAIN on a cushion, TREE on a chair, and COLD TUMBLER on a table. 3. Shuffle the caller cards.",
-     "say": "Water is made of tiny bits called molecules. They are always moving. In this game, you are a molecule. Listen for my call, and do what water would do.",
-     "kid": "You are a water molecule, a tiny bit of water. Start in the SEA corner. Wobble slowly. Listen for the call!",
+     "say": "Water is made of tiny particles called molecules. They are always moving. In this game, you are a molecule. Listen for my call, and do what water would do.",
+     "kid": "You are a water molecule, the smallest piece of water. Start in the SEA corner. Wobble slowly. Listen for the call!",
      "context": "This is the first step of Sun, Cold, Heavy! Everyone acts as a water molecule, and a caller shouts what happens to the water."
     },
     {
@@ -922,7 +922,7 @@
      "t": "mcq",
      "p": "What is a cloud made of?",
      "opts": [
-      "Billions of tiny drops of water or bits of ice",
+      "Billions of tiny drops of water or ice crystals",
       "Water vapour, an invisible gas",
       "Smoke",
       "Cotton"
@@ -983,7 +983,7 @@
      ],
      "a": 0,
      "why": "The drops are clear and not salty, though the water inside was coloured and salty. So they came from the air. Picking 'leaks' is very common. But steel has no holes for water to get through.",
-     "context": "This question is about The Sweating Tumbler, where you filled a steel tumbler with ice and coloured, salty water.",
+     "context": "This question is about The Cold Tumbler, where you filled a steel tumbler with ice and coloured, salty water.",
      "how": "e4"
     },
     {
@@ -1115,8 +1115,8 @@
         "emoji": "🌳"
        },
        {
-        "label": "Glass in the shade",
-        "value": 240,
+        "label": "Glass in the shade (still wet)",
+        "value": 180,
         "emoji": "🥛"
        }
       ]
@@ -1234,7 +1234,7 @@
      ],
      "a": 0,
      "why": "The empty bag is the control. It stayed dry, so the water must have come from the leaves. Without it, you could not be sure.",
-     "context": "This question is about Do Plants Sweat?, where you tied a clear bag over a leafy branch and an empty bag beside it.",
+     "context": "This question is about Leaves in a Bag, where you tied a clear bag over a leafy branch and an empty bag beside it.",
      "how": "e3"
     },
     {
@@ -1497,7 +1497,7 @@
    "mins": 30,
    "days": 1,
    "question": "Can sunshine turn salty water into fresh water we could drink?",
-   "predict": "Guess first. When the drops form on the cling film, will they taste salty, a little salty, or not salty at all?",
+   "predict": "Guess first. When the drops form on the cling film, will they taste salty, a little salty, or not salty at all? Why do you think so?",
    "fair_test": "Use the same salty water for everything. Taste a tiny drop of the salty water at the start, so you can compare. Collect the drops only from the cup, not from the bowl.",
    "results_table": [
     "Time",
@@ -1515,7 +1515,7 @@
      "qty": 1
     },
     {
-     "item": "cling film, enough to cover the bowl",
+     "item": "cling film, enough to cover the bowl, or a clear plastic bag cut open",
      "qty": 1,
      "buy": "b-clingfilm"
     },
@@ -1546,14 +1546,14 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Stir 2 teaspoons of salt into 2 cups of warm tap water until it disappears. 2. Let your child taste one drop on a fingertip. 3. Pour the salty water into the big bowl, about 2 fingers deep.",
+     "do": "1. Stir 2 teaspoons of salt into 2 cups of warm tap water until it disappears. 2. Let your child taste one drop on a fingertip. 3. Pour all the salty water into the big bowl.",
      "say": "This is our sea. Taste one tiny drop. Salty, isn't it? Real sea water is even saltier, about 6 teaspoons in every litre.",
      "kid": "Stir 2 spoons of salt into 2 cups of warm water. Taste one tiny drop. Salty! Pour it into the big bowl. This is your sea.",
      "ask": [
       {
        "q": "Where do you think the salt went when you stirred it?",
        "good": [
-        "It dissolved. It is still in the water, in tiny bits.",
+        "It dissolved. It is still in the water, in pieces too small to see.",
         "It is hiding in the water."
        ]
       }
@@ -1590,7 +1590,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. After 3 to 4 hours, tap the film gently so the last drops run down to the point and drip into the cup. 2. Peel back the film carefully. 3. Lift out the cup without spilling any salty water into it. 4. Each person tastes one drop from the cup.",
+     "do": "1. After 3 to 4 hours, tap the film gently. The last drops run down to the point and drip into the cup. 2. Peel back the film carefully. 3. Lift out the cup without spilling any salty water into it. 4. Each person tastes one drop from the cup.",
      "say": "Let's taste the water in the cup. Remember, the sea water was salty. Is this?",
      "kid": "Tap the film so the drops fall in the cup. Lift the cup out carefully. Taste one drop. Is it salty?",
      "adult": true,
@@ -1619,8 +1619,8 @@
      "id": "s6",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: sunshine can make fresh water from salty water. What I saw: drops formed on the film after 30 minutes, and the water in the cup did not taste salty, though the bowl water did. Why: only the water evaporated, and the salt stayed behind in the bowl."
     }
    ],
@@ -1679,7 +1679,7 @@
    "mins": 20,
    "days": 1,
    "question": "What does it take to make a cloud?",
-   "predict": "Guess first. Will a cloud form better with smoke in the jar, or without smoke?",
+   "predict": "Guess first. Will a cloud form better with smoke in the jar, or without smoke? Why do you think so?",
    "fair_test": "Do it twice. Keep everything the same, the same jar, the same amount of hot water and the same ice, but change only one thing: smoke or no smoke. Look at the jar against a dark cloth both times.",
    "results_table": [
     "Try",
@@ -1746,10 +1746,10 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Empty the jar and start again with fresh hot water. 2. A grown-up lights the agarbatti or a match, then blows it out. Hold the smoking end inside the jar for 3 seconds. 3. Put the plate and ice back on quickly.",
-     "say": "Now we'll add smoke. Smoke is made of billions of tiny specks. Let's see if the vapour likes them.",
+     "say": "Now we'll add smoke. Smoke is made of billions of tiny specks. Watch what the vapour does now.",
      "kid": "Ask a grown-up to put a little smoke in the jar. Put the plate and ice back on fast. Watch!",
      "adult": true,
-     "parent": "Within about 30 seconds, a thick white swirling cloud usually forms under the plate. The dark cloth and a torch beam make it much easier to see. If nothing shows, the water may have cooled: start again with hotter water."
+     "parent": "Within about 30 seconds, a white swirling cloud usually forms under the plate. The dark cloth and a torch beam make it much easier to see. If nothing shows, the water may have cooled: start again with hotter water."
     },
     {
      "id": "s4",
@@ -1774,8 +1774,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a cloud needs warm water vapour, cold air, and tiny specks to form on. What I saw: without smoke there was only a thin mist, but with smoke a thick white cloud formed in about 30 seconds. Why: the vapour cooled under the icy plate and condensed onto the smoke specks, making millions of tiny drops."
     }
    ],
@@ -1800,11 +1800,11 @@
   },
   {
    "id": "e3",
-   "title": "Do Plants Sweat? The leaf in a bag",
+   "title": "Leaves in a Bag: do plants give off water?",
    "mins": 20,
    "days": 1,
    "question": "Do plants put water into the air?",
-   "predict": "Guess first. If you tie a clear bag over a leafy branch, will water appear inside it? Will it appear in an empty bag tied up in the same place?",
+   "predict": "Guess first. If you tie a clear bag over a leafy branch, will water appear inside it? Will it appear in an empty bag tied up in the same place? Why do you think so?",
    "fair_test": "Use two bags of the same kind. Tie one over a leafy branch. Seal the other with only air inside, and tie it to a bare stick or a bare branch next to the first. Leave both in the same sunny place for the same time.",
    "results_table": [
     "Bag",
@@ -1860,7 +1860,7 @@
        ]
       }
      ],
-     "context": "This is the first step of Do Plants Sweat? You tie a clear bag over a leafy branch, and an empty bag beside it to compare."
+     "context": "This is the first step of Leaves in a Bag. You tie a clear bag over a leafy branch, and an empty bag beside it to compare."
     },
     {
      "id": "s2",
@@ -1886,15 +1886,15 @@
        "From rain"
       ],
       "a": 0,
-      "why": "The empty bag stayed dry, so the water did not come from the air. It came out of the leaves. Water travels up from the roots and leaves through tiny holes, as vapour. It condensed on the bag. This is called transpiration."
+      "why": "The empty bag stayed dry, so the water did not come from the air trapped in a bag. It came out of the leaves. Water travels up from the roots and leaves through tiny holes, as vapour. It condensed on the bag. This is called transpiration."
      }
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants give off water into the air. What I saw: the bag on the leaves went misty in one hour and I collected about one teaspoon of water, but the empty bag stayed dry. Why: water goes up from the roots and leaves through tiny holes in the leaves as vapour. This is transpiration."
     }
    ],
@@ -1939,11 +1939,11 @@
   },
   {
    "id": "e4",
-   "title": "The Sweating Tumbler: where do the drops come from?",
+   "title": "The Cold Tumbler: where do the drops come from?",
    "mins": 15,
    "days": 1,
    "question": "When a cold tumbler gets wet on the outside, where does the water come from?",
-   "predict": "Guess first. If we put coloured water and ice inside a steel tumbler, what colour will the drops on the outside be?",
+   "predict": "Guess first. If we put coloured water and ice inside a steel tumbler, what colour will the drops on the outside be? Why do you think so?",
    "fair_test": "Use two tumblers of the same kind, side by side. Fill one with ice and coloured water. Fill the other with the same amount of coloured water at room temperature. Wipe both dry and check them after the same time.",
    "results_table": [
     "Tumbler",
@@ -1990,7 +1990,7 @@
      "do": "1. Stir a few drops of food colour, or a pinch of haldi, into a jug of water. 2. Fill tumbler A half with ice, then top it up with the coloured water. 3. Fill tumbler B with the coloured water only. 4. Stir a pinch of salt into both. 5. Wipe the outsides completely dry.",
      "say": "Both tumblers have the same coloured, salty water. Only one is cold. Watch the outsides.",
      "kid": "Colour some water with haldi. Fill one tumbler with ice and coloured water. Fill the other with just coloured water. Add a pinch of salt to both. Wipe them dry.",
-     "context": "This is the first step of The Sweating Tumbler. You fill two steel tumblers with the same coloured water, but only one gets ice."
+     "context": "This is the first step of The Cold Tumbler. You fill two steel tumblers with the same coloured water, but only one gets ice."
     },
     {
      "id": "s2",
@@ -2008,7 +2008,7 @@
      "kid": "Taste one drop from the outside of the cold tumbler. Is it salty, like the inside?",
      "check": {
       "t": "mcq",
-      "q": "In the Sweating Tumbler experiment, the drops on the outside are clear and not salty, though the water inside is yellow and salty. Where did they come from?",
+      "q": "In the Cold Tumbler experiment, the drops on the outside are clear and not salty, though the water inside is yellow and salty. Where did they come from?",
       "options": [
        "Water vapour in the air condensed on the cold tumbler",
        "The water leaked through the steel",
@@ -2022,8 +2022,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the drops on a cold tumbler come out of the air. What I saw: only the tumbler with ice got wet outside, and its drops were clear and not salty, while the water inside was yellow and salty. Why: invisible water vapour in the air condensed on the cold steel."
     }
    ],
@@ -2048,7 +2048,7 @@
    "mins": 30,
    "days": 1,
    "question": "What makes water evaporate faster: sunshine, wind, or a wide surface?",
-   "predict": "Guess first. Put the four places in order, from the one that will dry first to the one that will dry last: sun, shade, fan, narrow glass in the shade.",
+   "predict": "Guess first. Put the four places in order, from the one that will dry first to the one that will dry last: sun, shade, fan, narrow glass in the shade. Why do you think so?",
    "fair_test": "Put exactly the same amount of water in each, 2 teaspoons. Use three identical steel plates and one narrow glass. Start them all at the same time. Change only one thing for each: sun, shade, wind from a fan, or a narrow container.",
    "results_table": [
     "Place",
@@ -2127,8 +2127,8 @@
         "emoji": "🌳"
        },
        {
-        "label": "Glass in the shade",
-        "value": 240,
+        "label": "Glass in the shade (still wet)",
+        "value": 180,
         "emoji": "🥛"
        }
       ]
@@ -2156,9 +2156,9 @@
      "id": "s4",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: sunshine, wind and a wide surface all make water evaporate faster. What I saw: the sunny plate dried in 40 minutes, the fan plate in 60, the shade plate in 120, and the glass took more than 3 hours. Why: heat makes water molecules jiggle faster so more escape, wind blows them away, and a wide puddle has more top for them to escape from."
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: sunshine, wind and a wide surface all make water evaporate faster. What I saw: the sunny plate dried in 40 minutes, the fan plate in 60, the shade plate in 120, and the glass took more than 3 hours. Why: heat makes water molecules jiggle faster so more escape, wind blows them away, and a wide puddle has a bigger surface for them to escape from."
     }
    ],
    "example_chart": {
@@ -2184,8 +2184,8 @@
       "emoji": "🌳"
      },
      {
-      "label": "Glass in the shade",
-      "value": 240,
+      "label": "Glass in the shade (still wet)",
+      "value": 180,
       "emoji": "🥛"
      }
     ]
@@ -2331,7 +2331,7 @@
     }
    ],
    "record": "List 5 places where you found dew. Then write which ones were dry 2 hours later.",
-   "context": "This is a walk at sunrise to find dew, the water that comes out of the air onto cool things at night, and to see it evaporate again.",
+   "context": "This is a walk at sunrise to find dew, the water that comes out of the air onto cool things at night, and to see it evaporate again. Do it if you have grass, plants or parked cars outside your home.",
    "flow": [
     {
      "id": "s1",
@@ -2360,7 +2360,7 @@
       "a": 0,
       "why": "At night, grass and leaves cool down, and water vapour from the air condenses on them as dew. In the morning, the Sun warms them, and the dew evaporates back into the air. Picking 'soaked in' is a good guess, but the grass is dry because the water went up, not down."
      },
-     "think": "Dew comes out of the air at night and goes back in the morning. Is it like the air breathing?"
+     "think": "Dew comes out of the air at night and goes back in the morning. What changed: the light, the cold, or both?"
     }
    ],
    "setup": [
@@ -2965,7 +2965,7 @@
    "creative": [
     "In Chile, in the dry Atacama desert, villages have used big fog-catching nets since the 1980s.",
     "In Morocco, a group called Dar Si Hmad set up fog nets in 2015 to bring water to mountain villages.",
-    "The Namib desert beetle lifts its bumpy back into the morning fog. Drops gather on the bumps and roll down to its mouth."
+    "A beetle in the Namib desert tilts its back into the morning fog. Drops gather on its back and roll down to its mouth."
    ],
    "your_turn": "Now design your own fog catcher. Draw it, build it and test it. How many drops can you catch in 3 minutes of 'fog'?",
    "context": "This is an engineering challenge about condensation and catching water. You design a net that collects drops from fog, like villages in dry mountains do.",
@@ -3009,7 +3009,7 @@
      "mins": 5,
      "do": "Compare your design with the usual solutions and the creative ideas.",
      "say": "A beetle in the Namib desert solved this long ago. Which idea would you copy for a real village?",
-     "kid": "A beetle drinks fog with its bumpy back! Which idea would you use for a real village?",
+     "kid": "A desert beetle drinks fog that gathers on its back! Which idea would you use for a real village?",
      "think": "Nature had millions of years to find water in dry places. What else could we learn from desert plants and animals?"
     }
    ],
@@ -3097,7 +3097,7 @@
    "t": "mcq",
    "p": "What are clouds made of?",
    "opts": [
-    "Tiny drops of water or bits of ice",
+    "Tiny drops of water or ice crystals",
     "Water vapour, an invisible gas",
     "Smoke"
    ],
@@ -3177,8 +3177,8 @@
       "emoji": "🌳"
      },
      {
-      "label": "Glass in the shade",
-      "value": 240,
+      "label": "Glass in the shade (still wet)",
+      "value": 180,
       "emoji": "🥛"
      }
     ]
@@ -3274,7 +3274,7 @@
  "applications": [
   "Salt pans in Gujarat and Tamil Nadu make salt by letting sea water evaporate in the sun.",
   "Solar stills make drinking water from salty or dirty water in dry places and on lifeboats.",
-  "Large plants near Chennai remove salt from sea water to make drinking water for the city.",
+  "Desalination works near Chennai remove the salt from sea water to make drinking water for the city.",
   "Weather satellites, such as India's INSAT satellites, photograph clouds to forecast rain and cyclones.",
   "India's weather office uses the monsoon's path to tell farmers when to sow.",
   "Pressure cookers and steamers cook food with water vapour.",
@@ -3514,7 +3514,7 @@
    "answer": "About 2 and a half millilitres.",
    "explain": "A full teaspoon holds 5 millilitres. Half of 5 is 2 and a half. So the branch gave off about 2 and a half millilitres in 3 hours. A big tree has thousands of branches, so it can give off many litres in a day.",
    "math_unit": "math.fractions.halves-and-quarters.L3",
-   "context": "This is about Do Plants Sweat? You tied a clear bag over a leafy branch for 3 hours, and collected the water that came out of the leaves.",
+   "context": "This is about Leaves in a Bag. You tied a clear bag over a leafy branch for 3 hours, and collected the water that came out of the leaves.",
    "how": "e3",
    "why_maths": "Measuring with halves of a spoon turns 'a few drops' into a real number, so we can compare one branch with a whole tree.",
    "chart": {
@@ -3767,7 +3767,7 @@
    "id": "b-book2",
    "item": "A Drop Around the World, by Barbara Shaw McKinney",
    "kind": "book",
-   "why": "Follows one drop of water through clouds, rivers, plants and animals around the world, including India.",
+   "why": "Follows one drop of water through clouds, rivers, plants and animals around the world.",
    "url": "https://www.amazon.in/s?k=A+Drop+Around+the+World+Barbara+Shaw+McKinney",
    "used_in": [
     "g1"
@@ -3784,7 +3784,7 @@
     "e4",
     "a2"
    ],
-   "plan": "If bought, look at its dew and frost pages after the Sweating Tumbler and the Dew Walk."
+   "plan": "If bought, look at its dew and frost pages after the Cold Tumbler and the Dew Walk."
   }
  ],
  "warmup": [
@@ -3798,7 +3798,7 @@
   },
   {
    "q": "Are clouds made of vapour, or of tiny drops?",
-   "a": "Tiny drops of water, or bits of ice."
+   "a": "Tiny drops of water, or ice crystals."
   },
   {
    "q": "Why is rain not salty?",
@@ -3896,13 +3896,13 @@
  },
  "sources": {
   "founder": [
-   "Founder's notes for the water topic (ideas, by topic, water.md), the 'Clouds and Precipitation' row: Cloud in a Bottle with warm water and smoke (used in A Cloud in a Jar), steam condensing on a cold lid (used in the story and Make a Monsoon), the cloud-spotting walk (Cloud Watch), the slow cloud dance with raindrop leaps and the percussion rainstorm from finger snaps to drum rolls (A Rainstorm in the Room), the mime of vapour turning into rain (the molecule game), 'The Cloud Book' by Tomie dePaola (buy), and the raindrop's journey (Round the World Drop). Its philosophy line, 'the seen and unseen interweave', feeds the cards on invisible vapour.",
-   "Founder's notes, the 'Ocean and atmosphere' row: the monsoon shown with a kettle for evaporation and a chilled plate for condensation (Make a Monsoon), and 'ocean and sky are a single breathing system' (used in Roots and the dew walk).",
-   "Founder's sheets, HomeSchooling Track: the Morning Dew Walk and breathing on cold metal or glass to watch condensation form and vanish (a2, a1 and the Roots practice). 'Condensation: droplets on a cold bottle' and 'evaporation and cooling' from the Energy row (The Sweating Tumbler, The Sun is the engine). Incense smoke in the cloud jar, from the 'Temperature, Humidity, Pressure' row.",
+   "Founder's notes for the water topic (ideas, by topic, water.md), the 'Clouds and Precipitation' row: Cloud in a Bottle with warm water and smoke (used in A Cloud in a Jar), steam condensing on a cold lid (used in the story and Make a Monsoon), the cloud-spotting walk (Cloud Watch), the slow cloud dance with raindrop leaps and the percussion rainstorm from finger snaps to drum rolls (A Rainstorm in the Room), the mime of vapour turning into rain (the molecule game), 'The Cloud Book' by Tomie dePaola (buy), and the raindrop's journey (Round the World Drop). Its philosophy line, 'the seen and unseen interweave', feeds the cards on invisible vapour and the Roots deep truth.",
+   "Founder's notes, the 'Ocean and atmosphere' row: the monsoon shown with a kettle for evaporation and a chilled plate for condensation (Make a Monsoon), and 'ocean and sky are a single breathing system' (read for Roots).",
+   "Founder's sheets, HomeSchooling Track: the Morning Dew Walk and breathing on cold metal or glass to watch condensation form and vanish (a2, a1 and the Roots practice). 'Condensation: droplets on a cold bottle' and 'evaporation and cooling' from the Energy row (The Cold Tumbler, The Sun is the engine). Incense smoke in the cloud jar, from the 'Temperature, Humidity, Pressure' row.",
    "Founder's sheets, HomeSchooling Track, STEM Activities websites: Exploratorium, used in links.",
    "DeepKids Combined Class 5 Water (combined, sci-C5-water.json): the sweating steel glass, the salt pans, the water cycle that has no start or end, clouds as drops on specks of dust, transpiration, the voices of Palissy, Perrault and Halley, and 'Water's Many Lives' card game. Improved here into e4, e1, the explanations, the challenging views and the bead game. Its story was not reused.",
    "DeepKids Combined Class 3 Water (combined, sci-C3-water.json): the sun-and-shade drying plates, improved here into the Evaporation Race. Its rain gauge and Drop's Journey game are already in the sibling unit on water sources, so they were not repeated.",
-   "Sibling unit sci.water.water-sources-and-uses.L3 was read so this unit does not repeat it: groundwater, wells, storage, the matka and clean water stay there. Its deep truth ('no water is new') is not repeated; this unit's deep truth is about things versus happenings."
+   "Sibling unit sci.water.water-sources-and-uses.L3 was read so this unit does not repeat it: groundwater, wells, storage, the matka and clean water stay there. Its deep truth ('no water is new') is not repeated; this unit's deep truth is about water that is in the air though we cannot see it."
   ],
   "science": [
    "Aitken, J. On dust, fogs, and clouds. Transactions of the Royal Society of Edinburgh, 1880 (cloud drops need specks)",
@@ -3923,26 +3923,26 @@
  "roots": {
   "context": "We have been learning how water goes up into the air, turns into clouds and comes down as rain. Now we ask what the water cycle tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A cloud is not a thing. It is something happening. The cloud, the river and you are shapes that water flows through for a while.",
-   "habit": "We give clouds, rivers and people names, as if each were a fixed object that stays the same. But a cloud's drops are always forming at its bottom and drying up at its edges, and a river's water is always new. The name stays the same, while the stuff inside is always changing. We mix up the name with the thing.",
-   "evidence": "In the cloud jar, the cloud appeared when warm vapour met cold air, and vanished the moment you lifted the lid. Your handprint went into the air in a minute. Rain is mostly sea water from about a week before."
+   "truth": "The air in an 'empty' room holds water you cannot see. Cool that air, and drops appear on a cold plate. A cloud forms the same way: the water was already in the air, and cooling made it visible. So seeing nothing does not mean nothing is there.",
+   "habit": "We call air that looks clear 'empty', and we think a cloud is water arriving in the sky. But water vapour is invisible, so our eyes cannot tell us whether water is there.",
+   "evidence": "In A Cloud in a Jar, a cloud appeared in clear air as soon as the icy plate cooled it. Your breath misted a cold plate, then vanished into the air again. In The Cold Tumbler, clear, plain drops came out of the room's air."
   },
   "three": {
-   "who_am_i": "About two thirds of your weight is water, and that water keeps changing. You breathe it out, sweat it out and drink new water every day. Like a river, you keep your name while the water flows through you.",
-   "what_is_life": "Life is part of the water cycle. Every plant lifts water from the ground into the sky, and every animal drinks the rain and gives it back.",
-   "what_is_this_world": "A world where the sea becomes sky, and the sky becomes rivers, again and again. Nothing stays still, yet everything comes round."
+   "who_am_i": "More than half of your body is water. Every breath you breathe out carries some of it into the air, where nobody can see it.",
+   "what_is_life": "Life is part of the water cycle. Plants lift water from the soil and give it to the air. Animals drink the rain and give it back.",
+   "what_is_this_world": "A world where the sea becomes sky, and the sky becomes rivers, again and again. Much of this journey happens where we cannot see it."
   },
-  "thread": "One sea of water becomes many things: a cloud, a hailstone, a dewdrop, a river, a neem tree, a tear. None of them is a separate, lasting thing. Each is one water, taking a shape for a moment and then moving on. DeepKids believes this is the One showing up as the many. The many shapes are real, and so is the one water flowing through them all.",
+  "thread": "The same water is sea, then invisible vapour, then a cloud, rain, a river and part of a neem tree. We give each of these a different name, but it is one water changing form. DeepKids believes the whole world is like this: one source taking many forms, some seen and some unseen. The water cycle is a place where you can watch one water become many things, and come back again.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 5.10.5–6",
     "teaching": "The Upanishad describes a journey. One becomes air, then smoke, then mist, then a cloud. The cloud rains down, and one is born again as rice, barley, plants and trees.",
-    "link": "Nearly 3,000 years ago, the teachers of the Upanishads already pictured life as going round with the rain: from the sky into plants, and on again."
+    "link": "The Upanishad is about what happens to a person after death, not about weather. But it pictures life travelling with water: from the sky, as rain, into plants. That is the path the water cycle really takes."
    },
    {
     "source": "Heraclitus, a Greek thinker, about 2,500 years ago (Fragment 12, as numbered by the scholars Diels and Kranz)",
     "teaching": "As people step into the same rivers, different waters keep flowing past them.",
-    "link": "A river keeps its name, but its water is always new. Clouds, and our own bodies, are the same."
+    "link": "A river keeps its name, but its water is always new. A cloud is the same: its drops keep drying up at the edges while new ones form."
    },
    {
     "source": "Ecclesiastes 1:7, in the Hebrew Bible",
@@ -3956,26 +3956,33 @@
     "status": "settled"
    },
    {
-    "text": "The water in your body is replaced again and again. Studies that trace water with special labels show that about a tenth of an adult's body water is swapped every day.",
+    "text": "The water in your body is replaced again and again. Studies that trace water with special labels show that an adult swaps a few litres of body water every day, out of about 40 litres.",
     "status": "settled"
    }
   ],
   "other_view": {
-   "who": "Aristotle, the Greek thinker, and many philosophers since",
-   "view": "Things are real things, not just happenings. A river really is one river, because its banks, its shape and its place stay the same, even while the water changes. Calling a cloud 'a happening' is a nice way of speaking, but it does not mean there is one great water behind everything. That is an honest view, and many careful people hold it."
+   "who": "The Charvaka school of ancient India",
+   "view": "The Charvakas said that only what we can perceive with our senses is real. For them the world is just earth, water, fire and air mixing, with no one source behind it. The water cycle, they would say, is simply water and heat doing what they do, and nothing more needs to be added. It is an honest view, and many careful people hold something like it today."
   },
   "practice": {
    "title": "Make a cloud with your breath",
    "mins": 3,
-   "say": "Hold a steel plate or a mirror close to your mouth. Breathe out slowly onto it with an open mouth, like a sigh. Watch the mist appear. Now stay still and watch it shrink, from the edges in, until it is gone. That mist was inside you a moment ago. Now it is part of the air in this room. Breathe again. Watch it come, and watch it go. Where does your breath end and the air begin?",
-   "kid": "Hold a steel plate near your mouth. Breathe out slowly, like a sigh. See the mist? Watch it vanish. It was inside you. Now it is in the air."
+   "say": "Hold a steel plate or a mirror close to your mouth. Breathe out slowly onto it with an open mouth, like a sigh. Watch the mist appear. Now stay still and watch it shrink, from the edges in, until it is gone. That mist was inside you a moment ago. Now it is in the air of this room. You cannot see it, but it is still there. Breathe again. Watch it come, and watch it go. Where does your breath end and the air begin?",
+   "kid": "Hold a steel plate near your mouth. Breathe out slowly, like a sigh. See the mist? Watch it vanish. It was inside you. Now it is in the air, still there but invisible."
   },
   "ask": [
-   "Is a cloud a thing, or is it something that keeps happening?",
-   "If the water in you keeps changing, what is it that stays 'you'?",
-   "When your breath goes into the air, is it still yours?"
+   "If you cannot see water vapour, how do you know it is there?",
+   "Is a cloud new water in the sky, or water that was already there, now showing?",
+   "When your breath goes into the air, is it still yours?",
+   "What else might be all around you that you cannot see?"
   ],
   "art": "A child breathing a small misty cloud onto a steel plate, with a big cloud in the sky through the window behind, both drawn with the same soft lines."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today. Sea in a Bowl needs a hot, sunny day: drops show within 30 minutes, but a full cup takes 3 to 4 hours and gives only a spoonful or two. A cloudy-day version with ice and a pan of hot water is given. The Cloud in a Jar is the quickest and most reliable result, which is why it is in the spine: with agarbatti smoke, a dark cloth and a torch, a thick cloud forms in about 30 seconds. Without smoke it is only a thin mist, so the comparison works. Dew does not form on hot, dry summer nights, so the Dew Walk offers an ice tumbler instead. The leaf bag works best on a big leafy bush in sun. A small pot plant may give only drops. In Round the World Drop, the DEW card was unreachable in the first draft, so the PLANT card now sends drops there on a 1, and a solo rule was added: play two bracelets and compare. The molecule game needs at least two people, so it is marked for a parent or friends only. Timings were checked: the experiments that need hours of sun count only the minutes a family is busy, with the waiting shown as a wait step. Parents should know: a grown-up handles hot water, steam, matches and agarbatti, and children taste only the fresh water from the cup, never the salty bowl."
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today. Sea in a Bowl needs a hot, sunny day: drops show within 30 minutes, but a full cup takes 3 to 4 hours and gives only a spoonful or two. A cloudy-day version with ice and a pan of hot water is given. The Cloud in a Jar is the quickest and most reliable result, which is why it is in the spine: with agarbatti smoke, a dark cloth and a torch, a thick cloud forms in about 30 seconds. Without smoke it is only a thin mist, so the comparison works. Dew does not form on hot, dry summer nights, so the Dew Walk offers an ice tumbler instead. The leaf bag works best on a big leafy bush in sun. A small pot plant may give only drops. In Round the World Drop, the DEW card was unreachable in the first draft, so the PLANT card now sends drops there on a 1, and a solo rule was added: play two bracelets and compare. The molecule game needs at least two people, so it is marked for a parent or friends only. Timings were checked: the experiments that need hours of sun count only the minutes a family is busy, with the waiting shown as a wait step. Parents should know: a grown-up handles hot water, steam, matches and agarbatti, and children taste only the fresh water from the cup, never the salty bowl. Rewrite check: the Evaporation Race glass is now shown as still wet at 3 hours, because 2 teaspoons in a narrow glass in the shade usually takes many hours. Sea in a Bowl uses all of its 2 cups of salty water, which makes a shallow layer in a big bowl. A cut-open clear plastic bag can replace cling film.",
+ "how_we_found_out": {
+  "story": "For about two thousand years, many learned people in Europe believed rain was far too little to keep rivers flowing all year. They thought sea water travelled through hidden passages under the mountains and came out as springs. In 1580, Bernard Palissy, a French potter who had never been to university, wrote that springs and rivers come only from rain soaking into the ground. Few scholars listened, because he had no measurements. About ninety years later, Pierre Perrault measured the rain falling on the land around the start of the river Seine for three years. He also worked out how much water the river carried. In 1674, he showed that the rain was about six times more than the river carried. Soon after, Edmond Halley measured how fast water evaporates from a warmed pan. He worked out that the Sun lifts enough water from the sea to make all the rain. Careful measuring, not arguing, settled the question.",
+  "who": "Bernard Palissy, Pierre Perrault and Edmond Halley",
+  "when": "1580 to 1687",
+  "wrong_idea": "Rivers and springs are fed by sea water rising through hidden passages under the mountains, because rain is far too little."
+ }
 }
