@@ -170,7 +170,7 @@ To protect a habitat, should we keep people out of it, or should we let the peop
 ## Roots
 We found that warm milk can be a home for curd bacteria, and that a dark sea floor can be a home for giant worms. Now we ask what habitats tell us about ourselves and the world.
 
-**Deep truth.** A habitat is not just a kind of place, like a forest or a sea. It is a fit between a place and one kind of living thing. The same bowl of milk was a home for curd bacteria when warm, but not in the fridge. So a place that looks empty to us may suit life that needs different things.  
+**Deep truth.** Curd bacteria turned warm milk into curd by morning. In the fridge, the same milk and the same bacteria stayed milk. A place is a home only for living things whose needs it meets. So a place that seems empty to us may be full of life that needs other things.  
 *Habit it breaks:* We learn habitats as a list of places on a map: pond, forest, desert, sea. So we think the place alone decides who lives there, and we judge every place by what we need. But the same bowl of milk was a home for bacteria in a warm corner and not in the fridge. And the dark sea floor that people called empty was crowded with life.  
 *Evidence:* In the three bowls experiment, the same milk and the same curd set only where it was warm. In 1977, scientists found worms, clams and crabs living where no sunlight ever reaches, fed by bacteria that make food from chemicals.
 

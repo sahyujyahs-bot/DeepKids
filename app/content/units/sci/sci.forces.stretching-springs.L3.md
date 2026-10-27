@@ -171,8 +171,8 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
 ## Roots
 We have found that equal pulls give equal stretches, until a spring is pulled too far and stays long. Now we ask what that tells us about the shapes of things, and about ourselves.
 
-**Deep truth.** A spring sitting still is not doing nothing. Its tiny particles hold on to each other all the time, and that holding is its shape. Pull gently, and they pull back together. Pull too hard, and they let go and hold on to new neighbours.  
-*Habit it breaks:* We think a still thing is doing nothing. But a spring keeps its shape only because its particles keep holding on, every moment. When you pull, they pull back. Stillness is busy.  
+**Deep truth.** Each 5 coins stretched the band by about the same amount, and it came back when they came out. A steel spring is the same: its tiny particles hold on to each other and pull back. Pulled too far, the pen spring stayed longer, because its particles had slipped to new places. So a spring comes back only while its particles keep the same neighbours.  
+*Habit it breaks:* We think a spring at rest is doing nothing. Its particles are holding on to each other the whole time, and that holding is what pulls it back when it is stretched.  
 *Evidence:* In the coin test, each 5 coins added about the same stretch. The band came back when the coins came out. The pen spring came back from small pulls. After a big pull it rested at a new, longer length. From then on it sprang back to that new length.
 
 - *who am i:* Your shape is held by pulls too. Your tendons, skin and bones stretch a little with every step, and bring you back.

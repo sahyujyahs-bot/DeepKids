@@ -157,8 +157,8 @@ Living things are very good at controlling friction. Your knee joints rub every 
 ## Roots
 We have been learning about friction, the grip between things that touch. Now we ask what that grip tells us about ourselves and the world.
 
-**Deep truth.** When you rub your palms fast and then stop, they are warm. Friction has turned their movement into the faster jiggling of countless tiny atoms. That warmth spreads into the air, and it never turns back into your hands moving. So when something stops, its movement has not ended, only spread out where we cannot see it.  
-*Habit it breaks:* We say a moving thing 'stops', as if its movement simply ends. Friction shows that the movement is still there, only shared out among atoms where we cannot see it.  
+**Deep truth.** Rub your palms fast, then stop, and they are warm. The rubbing made the tiny particles in your skin jiggle faster, and that is warmth. The warmth spreads into the air and never turns back into moving hands. So when friction stops something, its movement is left behind as warmth.  
+*Habit it breaks:* We say a moving thing 'stops', as if its movement simply ends. Friction turns that movement into warmth in both surfaces, and the warmth spreads out.  
 *Evidence:* Rub your palms and they get warm. The warmth fades into the air, and it never turns back into your hands moving. A film of a box sliding to a stop looks wrong when it is played backwards.
 
 - *who am i:* When you rub your hands, the warmth you feel is your own movement, now shared with your skin and the air.

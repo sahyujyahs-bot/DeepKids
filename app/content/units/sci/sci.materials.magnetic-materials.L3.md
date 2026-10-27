@@ -194,7 +194,7 @@ In 1982, two scientists, working separately, found a new kind of magnet. Masato 
 ## Roots
 We have found that a magnet attracts only a few materials, mostly iron, nickel and cobalt. Now we ask what that tells us about ourselves, about life and about the world.
 
-**Deep truth.** A magnet acts on every material, not only on iron. In iron, the atoms' tiny magnets add up, so the attraction is strong. In water, wood and you, they cancel, and a magnet repels them only very weakly. So 'non-magnetic' means the effect is too small to notice, not that there is none.  
+**Deep truth.** In the magnet test, only things made with iron, like steel, stuck. In iron, the atoms' tiny magnets line up and add together into a strong pull. Water, wood and you are pushed away instead, but far too weakly to feel. So a very strong magnet can float a drop of water, or even a live frog.  
 *Habit it breaks:* We sort materials into two boxes, magnetic and non-magnetic, as if a magnet acts on one box and leaves the other alone. The science shows one scale instead: strong attraction, weak attraction and weak repulsion. The line between the two boxes is drawn by what our hands can feel.  
 *Evidence:* In 1997, Andre Geim and Michael Berry floated a live frog in a very strong magnet, because the magnet repels the water in its body. A drop of water can be floated the same way. In 1845, Michael Faraday found that every material he tested moved a little near a strong magnet.
 

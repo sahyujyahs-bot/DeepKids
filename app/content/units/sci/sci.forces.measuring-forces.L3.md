@@ -188,8 +188,8 @@ A heavy forcemeter adds its own pull to what it measures. A cold thermometer coo
 ## Roots
 We have been inventing units of pull, counting coins and water, and meeting the newton. Now we ask what a number like '5 newtons' really is, and what that says about us and the world.
 
-**Deep truth.** Nature has pushes and pulls, but it has no numbers. Numbers are a language people made together, so that everyone means the same thing. A newton is a word in that shared language.  
-*Habit it breaks:* We think a number is part of a thing, like its colour. But the same pull on the notebook was 6 big coins or 12 small coins. The pull stayed the same. Only the words for it changed.  
+**Deep truth.** Your notebook needed fewer big coins than small coins to start sliding, yet the pull was the same. A number for a pull means nothing until people agree what one unit is. So scientists everywhere measure pulls in one agreed unit, the newton, and can check each other's results.  
+*Habit it breaks:* We think a number belongs to a thing, like its colour. But the same pull on the notebook was a few big coins or more small ones. The pull stayed the same; only the unit changed.  
 *Evidence:* In the coin-pull test, two careful people got different numbers for the same notebook, and both were right. They were using different words for the same pull.
 
 - *who am i:* You can feel a pull, but you cannot give it a number on your own. Your number means something only when someone shares your unit.

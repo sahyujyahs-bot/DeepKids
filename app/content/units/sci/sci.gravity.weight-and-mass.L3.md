@@ -196,8 +196,8 @@ People have wondered about heaviness for thousands of years, in many places. Who
 ## Roots
 We have found that weight is the pull of gravity, and that a falling bottle stops leaking even though gravity still pulls it. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** A falling bottle stops leaking, though the Earth pulls it as hard as ever. Gravity pulls every part of you along together, so your body has no way to sense it. What you feel as heaviness is the push of whatever holds you up. So when you feel your weight, you are really feeling the ground pushing up.  
-*Habit it breaks:* We think the heavy feeling in our body is gravity itself. But a falling child is pulled just as hard and feels no weight at all. The heaviness was the push of the floor all along.  
+**Deep truth.** A leaking bottle stopped leaking while it fell, though the Earth pulled it as hard as ever. Gravity pulls every part of you along together, so you cannot feel the pull itself. The heaviness you feel comes from the floor or chair pushing up on you. So astronauts, who are falling all the time, feel no weight, though gravity pulls them almost as hard.  
+*Habit it breaks:* We think the heavy feeling in our body is gravity itself. But a falling bottle, like a falling child, is pulled just as hard and feels no weight. The heaviness comes from whatever holds us up.  
 *Evidence:* In the Drop It experiment, the leaking bottle stopped leaking while it fell, and the coins stopped stretching their rubber band. Astronauts, who are falling all the time, feel weightless, though gravity at their station is about 90 out of every 100 parts as strong as on the ground.
 
 - *who am i:* You feel heavy only because something holds you up. With nothing holding you, you would feel no weight, and still be all of you.

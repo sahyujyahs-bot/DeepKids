@@ -183,8 +183,8 @@ In 1925, a young astronomer, Cecilia Payne, showed that the Sun and the stars ar
 ## Roots
 We have been learning that day and night come from the spinning Earth. Now we ask what that spin tells us about ourselves and the world.
 
-**Deep truth.** Night does not fall from the sky. It is the Earth's own shadow, on the half facing away from the Sun. Every evening, the turning Earth carries us into that shadow. So at night, what blocks the Sun is the ground under our feet.  
-*Habit it breaks:* We say 'night falls' and 'the Sun goes down', as if darkness arrived from somewhere or the Sun went away. The Sun never stops shining on the Earth. Night is the shadow side of our own planet, and we turn into it and out of it.  
+**Deep truth.** In the torch-and-ball test, the far side of the ball was dark because the ball itself blocked the light. The Earth does the same. The Sun never stops shining, and night is the half of the Earth turned away from it. So at night, the whole Earth is between you and the Sun.  
+*Habit it breaks:* We say 'night falls' and 'the Sun goes down', as if darkness came from somewhere or the Sun went away. The Sun never stops shining. At night, our own planet is in the way.  
 *Evidence:* In the torch and ball experiment, the back of the ball was dark because the ball itself blocked the torch. Just after sunset, the Earth's shadow shows as a dark blue band low in the eastern sky. And when Bhuj has sunset, Dong already has night, under the same Sun.
 
 - *who am i:* You are not standing still while the sky moves. You ride on a turning Earth, at about 1,500 kilometres an hour, together with everything around you.

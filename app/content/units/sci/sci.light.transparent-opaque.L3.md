@@ -161,7 +161,7 @@ Even the clearest glass is not perfect. At night, in a lit room, you can see a f
 ## Roots
 We have been learning how light goes straight through some things, is scattered by others, and is stopped by the rest. Now we ask what this tells us about seeing, and about the world.
 
-**Deep truth.** Butter paper lying on a word lets you read it. Lift it 2 cm, and the paper still glows, but the word is gone. The paper scatters light from each letter in every direction, so it mixes with light from the other letters. So a clear view needs the light from each spot kept apart, not just plenty of light.  
+**Deep truth.** Butter paper lying on a word lets you read it. Lift it 2 cm, and the paper still glows, but the word is gone. The paper scatters the light from each letter in every direction, mixing it with light from the others. So a frosted window lets in light but shows no view: it mixes up the light from everything outside.  
 *Habit it breaks:* We think we can see through something whenever light gets through it. A frosted bathroom window is bright, yet it shows no view, so light alone is not enough.  
 *Evidence:* In the gap test, butter paper lying on the card let you read the word. Lifted 2 cm, it still glowed with light, but the word was gone.
 

@@ -152,8 +152,8 @@ Animals that live in cities face noise, bright lights and new foods. Some seem t
 ## Roots
 We have been watching the animals around us: when they are busy, where they live, and how ants keep to one path. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** An ant that has never been to the sugar can still find it. It follows the scent that other ants left on the floor. Rub the scent away and the path is lost until ants lay it again. So part of what the ants know is kept on the floor they share, not only inside each ant.  
-*Habit it breaks:* We think whatever an animal knows must be stored inside its own head. An ant trail shows a colony keeping its way to food outside any one body, on the ground, where every ant can follow it and add to it.  
+**Deep truth.** An ant that has never been to the sugar can still find it. It follows the scent that other ants left on the floor. Rub the scent away, and the ants stop and wander until it is laid again. So the colony keeps its way to food on the floor, where every ant can follow it.  
+*Habit it breaks:* We think whatever an animal knows must be stored inside its own head. An ant colony keeps its way to food on the ground, where every ant can follow it and add to it.  
 *Evidence:* In the Ant Trail Test, ants walked on under a hand held above the trail, but stopped and wandered where the floor was rubbed. A few minutes later the line formed again.
 
 - *who am i:* You are an animal too. You have habits, a home and a body clock, like the crow outside.

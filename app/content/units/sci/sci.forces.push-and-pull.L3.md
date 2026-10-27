@@ -176,8 +176,8 @@ We can measure forces very well. We can predict where rockets will go. But what 
 ## Roots
 We have been learning that every push and pull is a force, and that forces come in pairs. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** You cannot start moving by pushing on yourself. To go forward, you must push something else backwards, and it pushes you. A walker needs the floor, and a rocket needs its own gas. So no thing can start moving by itself: every start needs a second thing to push against.  
-*Habit it breaks:* We say a person walks, or a rocket flies, by its own power, as if moving were something done alone. But every start needs something else to push against: the floor, the water, the air or the rocket's own gas.  
+**Deep truth.** Sitting on a towel, you pushed the wall with your feet and slid away from it. The wall pushed you back just as hard. You cannot move off by pushing on your own body. So to start moving, you, a bird or a rocket must push on something else.  
+*Habit it breaks:* We say a person walks, or a rocket flies, by its own power, as if moving off needed nothing else. Every start needs something to push against: the floor, the water, the air or the rocket's own gas.  
 *Evidence:* In Push the Wall, you moved only because you pushed the wall and the wall pushed you back. The balloon rocket went forwards only by pushing its air backwards.
 
 - *who am i:* Every time you push something, it pushes you back. You are never only the one who pushes.

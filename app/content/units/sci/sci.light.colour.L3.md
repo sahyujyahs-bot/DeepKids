@@ -181,9 +181,9 @@ Shine a red light and a green light on the same patch of white wall, and the pat
 ## Roots
 We have learned that sunlight holds many colours, and that things look coloured by absorbing some colours and reflecting the rest. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** A green leaf reflects green light and absorbs most of the red and blue. Under red light there is almost no green to reflect, so the leaf looks very dark. The leaf did not change, only the light did. So a thing's colour is not in the thing alone, but in the thing and the light together.  
-*Habit it breaks:* We talk as if colour belongs to a thing, like its size: 'the leaf is green'. But the colour we see also depends on which light falls on the thing.  
-*Evidence:* In Catch a Rainbow, a green leaf in red light looked dark next to bright red paper. When the room light came on, it was green again.
+**Deep truth.** A glass of water split sunlight into a band of colours, from red to violet. White sunlight is all those colours together. A green leaf sends back green and takes in the rest, so under red cellophane it looked dark. So a thing can only show colours that are in what shines on it.  
+*Habit it breaks:* We talk as if colour belongs to a thing, like its size: 'the leaf is green'. But a thing can only send back colours that are in the light that falls on it.  
+*Evidence:* In the glass of water test, sunlight split into a band of colours. In Catch a Rainbow, a green leaf under a torch with red cellophane looked dark, and it was green again in daylight.
 
 - *who am i:* Your eye is part of every rainbow you see. When you step sideways, different drops send you their colours.
 - *what is life:* Life is fed by the colours in sunlight. A leaf absorbs red and blue light and uses its energy to make food.

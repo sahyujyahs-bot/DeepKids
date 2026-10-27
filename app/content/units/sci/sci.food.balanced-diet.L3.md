@@ -176,7 +176,7 @@ A balanced diet is not one fixed menu. A baby, a growing child, a pregnant mothe
 ## Roots
 We have been learning what happens to food inside us, and why the body needs so many kinds. Now we ask what a balanced diet tells us about food, about ourselves and about the world.
 
-**Deep truth.** On your paper, the water spot dried away but the oil spot stayed. In the tumbler, oil floated on the water and would not mix. Because fat does not mix with water, it can wrap each watery cell in a thin skin. So the fat you eat is not only fuel, and some of it becomes the skin of your cells.  
+**Deep truth.** On your paper, the oil spot stayed while the water spot dried. In the tumbler, oil floated on the water and would not mix. Because fat does not mix with water, your body uses it to build the thin skin around every cell. So some of the fat you eat becomes the skin of your cells.  
 *Habit it breaks:* We think of food as fuel, like petrol for a scooter, and of fat as something to avoid. But a scooter is not built from its petrol, and you are built from your food, fat included.  
 *Evidence:* In the Paper Window Test, the water spot dried away, while oil, peanut and coconut left see-through spots that stayed. Two drops of oil in a tumbler of water floated and did not mix. Every cell membrane is made largely of fats that line up in two layers, because they do not mix with water.
 

@@ -201,7 +201,7 @@ Your bones are a material your body builds and repairs. Bone is made of a hard m
 ## Roots
 We have been testing what materials are like, and found that some properties change with water and heat. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** A dry strip of toilet paper can hold up a bag with water in it. Wet its middle with a fingertip, and the same strip tears with almost no water in the bag. Damp cotton thread does not get weaker, and often gets a little stronger. So how strong a material is depends on its surroundings, not only on what it is made of.  
+**Deep truth.** A dry strip of toilet paper can hold up a bag with water in it. Wet its middle with a fingertip, and the same strip tears with almost no water in the bag. Damp cotton thread holds as much, or a little more. So to know whether paper or thread will hold, you must also know whether it will get wet.  
 *Habit it breaks:* We say 'paper is strong enough' or 'cotton is strong' as if strength were part of the material's name. But the same strip goes from strong to weak with a few drops of water, so a property needs a 'when' and a 'where'.  
 *Evidence:* In the Dry or Damp test, a dry toilet paper strip held a bag with one or more cups of water, and a damp one tore with almost none. Cotton thread held about as much, or a little more, when damp. In the story, threads held more shells in the damp dawn than at dry noon.
 

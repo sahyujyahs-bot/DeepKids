@@ -189,7 +189,7 @@ There are more than 8 billion people on Earth. In the 1960s, India did not grow 
 ## Roots
 We have been following food back to where it comes from: plants, animals, tiny living things, the Earth and the Sun. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** Sort any meal, and almost every food on it was made by something alive. Plants made the rice and dal, a cow made the milk, and bacteria made the curd. In the curd test, warm milk with no curd added stayed runny, because no bacteria were working on it. So a cook only changes food: the food itself was made by other living beings.  
+**Deep truth.** Sort any meal, and almost every food on it was made by something alive. Plants made the rice and dal, a cow made the milk, and bacteria made the curd. In the curd test, warm milk with no curd added stayed runny, because no bacteria were working on it. So almost everything you eat was, a short time ago, part of another living thing.  
 *Habit it breaks:* We say 'I made dinner', or that food comes from the shop. Cooking and buying are real work, but they only change or move food that plants, animals and microbes made.  
 *Evidence:* In Kitchen Detective, everything except salt and water went on a plate for a living thing. In the curd test, milk set into curd only where living bacteria from old curd were added and kept warm.
 

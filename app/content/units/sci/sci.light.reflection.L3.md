@@ -154,7 +154,7 @@ A curved mirror can gather lots of light into one small spot. In 1668 Isaac Newt
 ## Roots
 We have been learning how mirrors reflect light. Now we ask what mirrors tell us about ourselves and the world.
 
-**Deep truth.** When you raise your right hand at a mirror, the image's hand goes up on that same side. The mirror has swapped only front and back, so the image faces you. A real person standing where the image is, facing you, would be raising their left hand. So which hand is left is not fixed in the room, but depends on which way a body faces.  
+**Deep truth.** Raise your right hand at a mirror, and the image raises its hand on that same side. The mirror swaps only front and back, so the image faces you. A real person facing you would raise their left hand on that side. So left and right turn with your body, while up and down stay set by the Earth.  
 *Habit it breaks:* We treat left and right like up and down, as if they were fixed in the world. Up and down are set by the Earth's pull, so they stay the same when you turn. Your left points a different way every time you turn round.  
 *Evidence:* At the mirror and in Mirror Twins, the raised hand and its image are on the same side of the room. Only front and back are swapped: the image faces you.
 

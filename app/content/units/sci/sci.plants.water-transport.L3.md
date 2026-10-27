@@ -177,7 +177,7 @@ On Earth, gravity pulls water down into the soil and around the roots. On the sp
 ## Roots
 We have been following one drop of water from a plant's root to its leaf, and into the air. Now we ask what that journey tells us about ourselves and the world.
 
-**Deep truth.** A cut flower has no roots and no pump, yet coloured water still climbs to its petals. Water evaporating from its petals and leaves pulls up the water below, because water molecules attract each other. The energy for this lift comes from the Sun's warmth, not from the plant's food. So the plant does not power the lift, but controls it by opening and closing its leaf holes.  
+**Deep truth.** A cut flower has no roots and no pump, yet coloured water still climbs to its petals. Water evaporating from the leaves pulls up the water below, each particle tugging the next. The Sun's warmth pays for this lift, and the plant controls it by opening and closing tiny leaf holes. So a big tree can lift hundreds of litres of water a day without spending its own food.  
 *Habit it breaks:* We say a plant 'drinks', as if it sucked water up the way we sip through a straw. But a plant spends none of its food on lifting water. The Sun supplies the energy, and the plant keeps the path open and controls the flow.  
 *Evidence:* In the Blue Climb, a cut stem with no roots carried coloured water up to its petals overnight. In Leafy or Bare, the stem with leaves used much more water than the bare one. In the Sweating Branch, the plant in the sun gave off more water than the plant in the shade.
 

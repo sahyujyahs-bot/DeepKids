@@ -181,9 +181,9 @@ In the first half of the 1600s, Jan Baptist van Helmont showed that a tree is no
 ## Roots
 We have been learning how a leaf makes food from air, water and sunlight. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** A plant lives in soil, yet only a pinch of its dry body comes from soil. Van Helmont's willow gained about 75 kilograms, while its soil lost about 60 grams. The rest was built from carbon dioxide in the air, using the energy of light. So what a plant stands in is not what it is made of.  
+**Deep truth.** Spinach leaf discs floated up only when they had both light and carbon dioxide. They were making food and oxygen from air and water, using light. Van Helmont's willow gained about 75 kilograms, while its soil lost only about 60 grams. So most of a tree's wood was once a gas in the air.  
 *Habit it breaks:* We assume a living thing is made of what it seems to feed on, and a plant seems to feed on soil through its roots. This mixes up what holds a plant in place and brings it water with what builds its body.  
-*Evidence:* Van Helmont's willow gained about 75 kilograms in five years, while its soil lost about 60 grams. Burn dry twigs, and only a little ash, the soil part, is left. In the five-week pot project, the dry plants weigh more than the dry seeds, while the soil stays almost the same.
+*Evidence:* In the rising leaf discs test, discs floated in the light with baking soda water, but not in the dark or in plain boiled water. Van Helmont's willow gained about 75 kilograms in five years, while its soil lost about 60 grams. Burn dry twigs, and only a little ash is left.
 
 - *who am i:* The energy in your breakfast came from sunlight caught by a leaf.
 - *what is life:* Almost all life runs on sunlight that leaves have turned into food.

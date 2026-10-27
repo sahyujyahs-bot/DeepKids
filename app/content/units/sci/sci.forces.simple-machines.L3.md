@@ -165,9 +165,9 @@ People built pyramids, temples and forts with stones far too heavy to lift by ha
 ## Roots
 We have been learning how levers, inclined planes and wheels let a small push move a heavy load. Now we ask what that tells us about strength, and about ourselves.
 
-**Deep truth.** On a see-saw, a light child can lift a heavy grown-up by sitting far from the fulcrum. The child is no stronger than before. She goes down a long way, and the grown-up rises only a little. So what a push can lift depends on where it is placed, not only on how hard it is.  
-*Habit it breaks:* We think of strength as something inside a person, so the heavier or stronger one should always win. A lever shows that the same push can lift a little or a lot, depending on where it is placed.  
-*Evidence:* In the ruler see-saw, one coin 12 cm from the pencil balanced two coins 6 cm from it. In the story, Jonaki lifted the dhenki's heavy head only when she stood at the very end of the beam.
+**Deep truth.** On the ruler see-saw, one coin 12 cm from the pencil balanced two coins 6 cm from it. As the ruler tips, the single coin moves twice as far as the pair. So a small push can lift a big load, as long as the push moves further than the load.  
+*Habit it breaks:* We think lifting something heavy needs a strong push. A lever lets a light push lift a heavy load, by making the push travel further.  
+*Evidence:* In the ruler see-saw, one coin 12 cm from the pencil balanced two coins 6 cm from it. In the story, Jonaki lifted the dhenki's heavy head only by standing at the very end of the beam.
 
 - *who am i:* Your arm is a lever, with your elbow as its fulcrum. Your muscle pulls close to the elbow, so your hand can move far and fast.
 - *what is life:* Every movement you make comes from billions of tiny myosin molecules swinging like levers inside your muscles.

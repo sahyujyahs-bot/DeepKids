@@ -161,7 +161,7 @@ Water, wood, plastic and your body are very slightly repelled by a magnet. The f
 ## Roots
 We have learned how magnets attract iron, and about the tiny electron magnets inside iron. Now we ask what magnets tell us about ourselves and the world.
 
-**Deep truth.** A steel needle can be a magnet one minute and not the next. Stroke it with a magnet, and its tiny magnets line up. Heat it red-hot, and they fall out of line. Nothing is added or taken away, so being a magnet is about arrangement, not material.  
+**Deep truth.** A steel needle can be a magnet one minute and not the next. Stroke it with a magnet, and its tiny magnets line up. Heat it red-hot, and they fall out of line. So the same steel can be a magnet or not, depending only on which way its tiny magnets point.  
 *Habit it breaks:* We sort objects into 'magnets' and 'not magnets', as if a magnet were made of a special material. But a needle becomes a magnet and stops being one while staying the same steel. What changes is the direction its tiny magnets point.  
 *Evidence:* Stroke a needle and it picks up a pin. Heat it red-hot and it stops. Stroke it again and it picks up the pin again. Nothing was added and nothing was taken away. Only the direction of its tiny magnets changed.
 

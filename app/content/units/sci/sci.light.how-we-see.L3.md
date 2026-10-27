@@ -158,9 +158,9 @@ When you look at a tree, it feels as if you are seeing the tree itself, right th
 ## Roots
 We have been learning how we see: light bounces off things and comes into our eyes. Now we ask what seeing tells us about ourselves and the world.
 
-**Deep truth.** Each eye has one spot with no light-catching cells, where the nerve leaves the eye. In the blind-spot test, the dot vanished there, but you saw no hole. The paper's colour filled the gap. So part of what you see is filled in by your brain, not brought by light.  
-*Habit it breaks:* It questions the habit of thinking our eyes show us exactly what is there, like a photo. Our eyes send signals, and the brain builds the picture from them, filling in gaps without telling us.  
-*Evidence:* In the blind-spot test, with one eye covered, the dot vanished when the card was about 25 cm away, because its light landed on the blind spot. Yet there was no hole: you saw plain card where the dot had been.
+**Deep truth.** Each eye has one spot with no light-catching cells, where the nerve leaves the eye. In the blind-spot test, the dot vanished when its light fell there, but you saw no hole. The card's white filled the gap. So part of what you see is filled in by your brain.  
+*Habit it breaks:* It questions the habit of thinking our eyes show us exactly what is there, like a photo. The brain builds the picture from the eye's signals, and fills in gaps without telling us.  
+*Evidence:* In the blind-spot test, with one eye covered, the dot vanished when the card was about 25 cm away, because its light landed on the blind spot. Yet there was no hole: you saw plain white card where the dot had been.
 
 - *who am i:* You are a light catcher. Light that touched the mango a moment ago is now inside your eye.
 - *what is life:* Many living things, from a money plant on a windowsill to an owl, sense light and live by it.

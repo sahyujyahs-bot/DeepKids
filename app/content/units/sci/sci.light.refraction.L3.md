@@ -169,7 +169,7 @@ All ordinary materials bend light to the same side. In 1967, the Russian physici
 ## Roots
 We have been learning about refraction, how light bends in water and lenses so things look broken, moved or big. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** A pencil in water looks broken at the surface, yet your finger finds it straight. Light from the part under water bends as it leaves the water. Your eyes place that part along the last straight stretch of its light. So we see a thing where its light seems to come from, which is not always where it is.  
+**Deep truth.** A pencil in water looks broken at the surface, yet your finger finds it straight. Light from the part under water bends as it leaves the water. Your eyes take the light as if it came straight, so that part looks higher than it is. So we see a thing where its light seems to come from, which is not always where it is.  
 *Habit it breaks:* We assume our eyes show each thing where it is. But eyes only receive light, and they place a thing back along the line the light arrived on. If the light bent on the way, the thing seems moved.  
 *Evidence:* In the broken-pencil test, the pencil looked most broken from a slant and almost straight from above. Yet it felt straight under the water every time.
 

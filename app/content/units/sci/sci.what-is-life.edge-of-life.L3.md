@@ -159,8 +159,8 @@ Jagadish Chandra Bose was a scientist in Kolkata. He built instruments so sensit
 ## Roots
 We have tested tricky cases against the signs of life: fire, a salt crystal, a robot, a dry seed, a water bear and a virus. Now we ask what fire, the most famous tricky case, tells us about our own bodies.
 
-**Deep truth.** A candle flame and your cells both join fuel with oxygen, and both give out heat and water. A cold spoon mists up over the flame, and when you breathe on it. The flame does it all at once, but your cells do it slowly, in many small steps. So the chemistry that keeps you warm is not special to life: it is fire's chemistry, done slowly.  
-*Habit it breaks:* We think living things must run on special chemistry, a 'life force', that fire, rocks and machines lack. People called this idea vitalism. But the energy that keeps you warm is set free by the same kind of change as in a flame.  
+**Deep truth.** A cold spoon mists over when held above a candle flame, and when you breathe on it. The flame and your cells both join fuel with oxygen, and give out heat and water. The flame does it all at once, and your cells do it slowly, in many small steps. So you need to breathe for the same reason a candle needs air.  
+*Habit it breaks:* We think living things run on some special life-stuff that fire, rocks and machines lack. People called this idea vitalism. But your cells free their energy by the same kind of change as a flame.  
 *Evidence:* In the candle trial, the flame needed air, gave out warmth and misted a cold spoon, just as your body and breath did. In 1783 Lavoisier and Laplace found that a guinea pig's body heat was close to the heat from burning charcoal that made the same amount of carbon dioxide.
 
 - *who am i:* You are warm because your cells join food with oxygen, the same change that makes a flame hot. You are made of the same kinds of atoms as rocks, air and stars.

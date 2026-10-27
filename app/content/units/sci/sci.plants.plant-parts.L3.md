@@ -187,7 +187,7 @@ If there are plants on planets around other stars, what would they look like? Th
 ## Roots
 We have been learning how roots, stems and leaves are each shaped for their job. Now we ask what a plant's shape tells us about ourselves and the world.
 
-**Deep truth.** A potato is a stem and a sweet potato is a root. Yet both are fat, both grow underground, and both are full of stored food. Doing the same job gave two different parts the same shape. So looking alike can mean doing the same job, not being the same kind of thing.  
+**Deep truth.** A potato is a stem and a sweet potato is a root. Yet both are fat, both grow underground, and both are packed with stored food. The same job gave two different parts the same shape. So to tell a stem from a root, look for buds, like the potato's eyes.  
 *Habit it breaks:* We sort things by how they look and where we find them. Fat and underground seems to mean root. But what a part is depends on what it grows from, and its buds show that. Its shape only tells us its job.  
 *Evidence:* In Sabzi Detectives, the potato has eyes in a spiral and the sweet potato has none. In the Blue-Black Test, both turn blue-black, because both are packed with starch. In Wake the Store, the potato's eyes grow shoots, because they are buds on a stem.
 

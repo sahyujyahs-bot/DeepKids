@@ -175,7 +175,7 @@ Stars and the glowing gas around them are what we can see. But in the 1970s Vera
 ## Roots
 We have been learning that the Sun is a star, that the stars are suns, and that the Moon and planets shine with the Sun's light. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** The Sun and the stars are the same kind of thing. The Sun looks huge because it is close, and the next star is 270,000 times further away. From a planet of another star, our Sun would be one more faint dot. So 'the Sun' just means the star we happen to live next to.  
+**Deep truth.** A torch looked dazzling up close, and like a faint star 40 steps away. The Sun and the stars are the same kind of thing. The nearest star after the Sun is about 270,000 times further away. So from a planet of another star, our Sun would look like one more faint star.  
 *Habit it breaks:* We sort the sky into 'the Sun', big and special, and 'the stars', small and far. That split comes from how far away they are, not from what they are.  
 *Evidence:* The same torch looked dazzling up close and like a faint star at 40 steps. Sunlight and starlight have the same dark lines, made by the same atoms. In 1838 Bessel measured a star so far away that it must shine like a sun.
 

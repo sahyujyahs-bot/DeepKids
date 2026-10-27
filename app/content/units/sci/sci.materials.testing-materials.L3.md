@@ -175,7 +175,7 @@ What is the strongest material of all? On Earth, the answer keeps changing as ne
 ## Roots
 We have been testing cloths, paper and hair until rain got through or something tore. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** However strong a material is, one small crack can grow and break it. A thing is only as strong as its weakest crack. So engineers hunt for tiny cracks before they grow.  
+**Deep truth.** A paper strip with one small cut tore at the cut and held fewer coins. However strong a material is, a small crack can grow and break it. An object is only as strong as the crack it has. So engineers hunt for tiny cracks before they grow.  
 *Habit it breaks:* We think strength lives in the stuff: steel is strong and glass is weak. But a strong thing with a crack can break easily, and a thin glass thread with no cracks is very strong. Strength depends on the cracks too.  
 *Evidence:* In the strip test, a strip with one small 5 mm cut tore at the cut and held fewer coins. In 1920, Alan Arnold Griffith found that very thin glass threads were many times stronger for their size than thick rods, because they had fewer hidden cracks.
 
