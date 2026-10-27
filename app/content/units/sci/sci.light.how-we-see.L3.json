@@ -3,12 +3,12 @@
  "title": "How we see: light comes into our eyes",
  "level": 3,
  "summary": {
-  "text": "We can see only when light comes into our eyes. A lamp, the Sun or a fire makes its own light, but most things, like a mango or your friend's face, make none. We see them because light bounces off them and travels into our eyes. At the back of each eye, a thin layer called the retina catches the light, and the optic nerve carries signals from it to the brain. For more than a thousand years, people thought eyes sent out rays to touch things, until Ibn al-Haytham, working in Cairo about a thousand years ago, showed that light travels the other way.",
+  "text": "We can see only when light comes into our eyes. A lamp, the Sun or a fire makes its own light, but most things, like a mango or your friend's face, make none. We see them because light bounces off them and travels into our eyes. At the back of each eye, a thin layer called the retina catches the light, and the optic nerve carries signals from it to the brain. For more than a thousand years, many thinkers believed that eyes sent out rays to touch things. About a thousand years ago in Cairo, Ibn al-Haytham showed that light travels the other way, from things into the eye.",
   "art": "A sunlit kitchen: a dotted line of light runs from the window to a mango on the table, bounces off it, and goes into a child's eye, with a small glowing brain behind the eye."
  },
  "intro": {
-  "hook": "Close your eyes. Now open them. Did something go out of your eyes to fetch the room? Or did something come in?",
-  "text": "Try this tonight. Go into a bathroom, switch off the light and shut the door. Open your eyes as wide as you can, and wait. Your eyes are healthy and wide open, yet you cannot see your own hand. Why not? By the end of this unit you will know what your eyes need, and what really happens when you look at something.",
+  "hook": "Close your eyes. Now open them. Did something go out of your eyes to the room? Or did something come into your eyes from the room?",
+  "text": "Try this tonight with a grown-up. Go into the darkest room you have, such as a bathroom, switch off the light and shut the door. Push a towel against the gap under the door. Open your eyes as wide as you can, and hold your hand in front of your face. If no light gets in, you cannot see your hand at all, even though your eyes are healthy and open. Why not? By the end of this unit you will know what your eyes need, and what really happens when you look at something.",
   "art": "A child standing in a pitch-dark room with wide-open eyes, their hand held up in front of their face but invisible, only a faint outline drawn."
  },
  "outcomes": [
@@ -55,20 +55,20 @@
   },
   {
    "term": "Eye",
-   "meaning": "The part of your body that catches light. It is a ball about as big as a large grape, sitting in a safe hollow in your skull.",
+   "meaning": "The part of your body that catches light. It is a ball about as big as a large grape. It sits in a bony hollow in your skull, called the eye socket.",
    "example": "Your two eyes sit side by side, so each sees the world from a slightly different place.",
    "art": "A drawing of a child's face with one eye shown cut open like a ball."
   },
   {
    "term": "Cornea",
    "meaning": "The clear, curved window at the very front of the eye. Light passes through it first, and it starts bending the light to make a sharp picture.",
-   "example": "When you touch the front of your eye by mistake, it is the cornea you touch. That is why it stings so much.",
+   "example": "The cornea has more nerve endings than almost any other part of the body. That is why a speck of dust on it hurts so much.",
    "art": "A side view of an eye with the clear dome at the front highlighted."
   },
   {
    "term": "Pupil",
    "meaning": "The black circle in the middle of your eye. It is not a black spot. It is a hole that lets light into the eye.",
-   "example": "Look in a mirror. The pupil is the round black dot in the middle.",
+   "example": "Look in a mirror. The pupil is the round black circle in the middle of your eye.",
    "art": "A big close-up of an eye with an arrow pointing at the black pupil."
   },
   {
@@ -180,7 +180,7 @@
    "status": "defined",
    "context": "This card explains why everyone in a room can see the same chair at the same time.",
    "definition": "Most things bounce light off in every direction at once. So light from them reaches every eye in the room.",
-   "description": "Think of a class of children all looking at one blackboard. Each child sees the board. That means light from the board reaches every child's eyes, in every seat. This happens because rough or matt surfaces, like paper, cloth and skin, reflect light in all directions. A mirror is different. It reflects light in one neat direction, and the reflection unit tells that story. A torch beam gives another clue. In clean air the beam is almost invisible from the side. Clap a dusty chalk duster in it, and the beam appears. Each speck of dust reflects a little of the light sideways, into your eyes.",
+   "description": "Think of a class of children all looking at one blackboard. Each child sees the board. That means light from the board reaches every child's eyes, in every seat. This happens because rough or matt surfaces, like paper, cloth and skin, reflect light in all directions. A mirror is different. It reflects light in one neat direction, and the reflection unit tells that story. A torch beam gives another clue. In clean air the beam is almost invisible from the side. Shake a dusty cloth beside it, and the beam appears. Each speck of dust reflects a little of the light sideways, into your eyes.",
    "examples": [
     "Everyone at a wedding can see the bride at once, from every side of the hall.",
     "Sunbeams coming through a window show up only where there is dust or smoke in the air.",
@@ -194,7 +194,7 @@
    "status": "defined",
    "context": "This card is about an old idea of seeing, and how people found out it was the wrong way round.",
    "definition": "Light travels from things into our eyes. Our eyes do not send anything out to see.",
-   "description": "For more than a thousand years, many clever people thought seeing worked the other way. They thought rays went out of the eyes, like invisible fingers, and touched what we look at. It sounds strange, but it matches how looking feels. We say we 'cast a glance' or 'throw a look'. Many children today still draw arrows coming out of the eyes. Here is how the argument went.",
+   "description": "For more than a thousand years, many clever people thought seeing worked the other way. They thought rays went out of the eyes, like invisible fingers, and touched what we look at. It sounds strange, but it matches how looking feels. In English we 'cast a glance'. In Hindi we say 'nazar daalna', to throw a look. Many children today still draw arrows coming out of the eyes. Here is how the argument went.",
    "examples": [
     "If eyes sent out rays, you would see in a dark room. You can't.",
     "Looking at a very bright light hurts, and leaves a dark blob in your sight afterwards. Something came in and acted on your eye.",
@@ -211,7 +211,7 @@
     },
     {
      "who": "Aristotle, a Greek thinker, about 2,350 years ago",
-     "explanation": "He disagreed with the eye-rays idea. He thought something travels from the thing we see, through the air, to the eye. He did not have the details right, but the direction was right."
+     "explanation": "He disagreed with the eye-rays idea. He thought the thing we see changes the air around it, and that change passes through the air to the eye. He did not have the details right, but he had the direction right: from the thing to the eye."
     },
     {
      "who": "Ibn al-Haytham, a scientist in Cairo, about 1,000 years ago",
@@ -286,7 +286,7 @@
    "description": "Light comes in tiny packets called photons. A torch sends out billions of billions of them every second. When a photon lands on a rod cell in your retina, it hits one molecule. A molecule is a tiny group of atoms, far too small to see. The photon makes that molecule change its shape, from bent to straight. That tiny change starts the signal that goes to your brain. So every time you see anything, it starts with photons changing the shape of molecules. Scientists have asked: how few photons can a person notice? Here are the answers so far.",
    "examples": [
     "A single rod cell can respond to a single photon. Denis Baylor, Trevor Lamb and King-Wai Yau measured this in 1979.",
-    "On a dark night, the faint star you can just see may be sending only a few thousand photons into your eye each second."
+    "On a dark night, the faint star you can just see may be sending only about a thousand photons into your eye each second."
    ],
    "perspectives": [
     {
@@ -309,7 +309,7 @@
    "status": "defined",
    "context": "This card goes out from our eyes to the eyes of other living things, and to living things that sense light with no eyes at all.",
    "definition": "Living things have many different kinds of eyes, and some sense light with no eyes at all. All of them work by catching light that comes in.",
-   "description": "Our eyes are not the only design. A spider has eight eyes. A scallop, a kind of shellfish, can have up to two hundred tiny eyes along the edge of its shell. Each scallop eye uses a curved mirror at the back, made of tiny crystals, instead of a lens. A box jellyfish has twenty-four eyes. Scientists think eyes have appeared many separate times in the history of life. But every kind of eye works the same basic way. Light comes in, and a molecule catches it. Even living things with no eyes sense light. A money plant on a windowsill bends towards the window. Tiny one-celled living things in a pond swim towards light, using a little light-sensing spot.",
+   "description": "Our eyes are not the only design. Most spiders have eight eyes. A scallop, a kind of shellfish, can have up to two hundred tiny eyes along the edge of its shell. Each scallop eye uses a curved mirror at the back, made of tiny crystals, instead of a lens. A box jellyfish has twenty-four eyes. Scientists think eyes have appeared many separate times in the history of life. But every kind of eye works the same basic way. Light comes in, and a molecule catches it. Even living things with no eyes sense light. A money plant on a windowsill bends towards the window. Tiny one-celled living things in a pond swim towards light, using a little light-sensing spot.",
    "examples": [
     "A dragonfly's eyes are made of thousands of tiny eyes packed together.",
     "A sunflower bud turns to follow the Sun across the sky. It has no eyes, but it senses light.",
@@ -417,9 +417,9 @@
   }
  ],
  "how_we_found_out": {
-  "story": "For more than a thousand years, many thinkers believed that seeing starts in the eye. Euclid, about 2,300 years ago, drew rays going out of the eye in a cone. Ptolemy, and later the scholar al-Kindi in Baghdad, agreed. Then Ibn al-Haytham, working in Cairo, tested the idea and wrote the Book of Optics, finished around 1021. He set several lamps outside a small hole into a dark room. Each lamp made its own spot of light on the wall inside. When he covered one lamp, only its spot went out. So light travels in straight lines from each lamp to where it lands, and he argued that the same happens when light enters an eye. But nobody yet knew where in the eye the picture forms. In 1604, Johannes Kepler worked out that the eye bends the light into a small, upside-down picture on the retina. A few years later, Christoph Scheiner checked this. He peeled away the back of an animal's eye and saw the tiny upside-down picture himself.",
+  "story": "For more than a thousand years, many thinkers believed that seeing starts in the eye. Euclid, about 2,300 years ago, drew rays going out of the eye in a cone. Ptolemy, and later the scholar al-Kindi in Baghdad, agreed. Then Ibn al-Haytham, working in Cairo, tested the idea and wrote the Book of Optics, finished around 1021. He set several lamps outside a small hole into a dark room. Each lamp made its own spot of light on the wall inside. When he covered one lamp, only its spot went out. So light travels in straight lines from each lamp to where it lands, and he argued that the same happens when light enters an eye. But nobody yet knew where in the eye the picture forms. In 1604, Johannes Kepler worked out that the eye bends the light into a small, upside-down picture on the retina. In 1619, Christoph Scheiner checked this. He peeled away the back of an animal's eye and saw the tiny upside-down picture himself.",
   "who": "Ibn al-Haytham, then Johannes Kepler and Christoph Scheiner",
-  "when": "about 1021 (the Book of Optics) and 1604 (Kepler)",
+  "when": "about 1021 (the Book of Optics), 1604 (Kepler) and 1619 (Scheiner)",
   "wrong_idea": "Seeing starts in the eye: rays go out of the eye and touch what we see. The lamp test showed that light travels from things to where it lands, and the upside-down picture found on the retina showed where that light ends up."
  },
  "big_questions": [
@@ -488,7 +488,7 @@
    "\"Wide open.\"",
    "\"Then where are your rays?\" said the voice. It did not sound mad. It sounded amused. \"If your eyes threw out rays to touch things, they would touch me now. The dark would not stop them. Yet you see nothing. Why?\"",
    "Zaynab had no answer. She waited for her eyes to work. They did not.",
-   "\"Here,\" said the voice. There was a scrape, and a thin bar of the shutter slid aside. A hole no bigger than a coin opened, high on the wall.",
+   "\"Here,\" said the voice. There was a scrape, and a thin bar of the shutter slid aside. A hole no bigger than a chickpea opened, high on the wall.",
    "And something happened that Zaynab never forgot.",
    "On the white wall opposite the hole, a picture appeared. It was faint and soft, as if painted in smoke. But it was the street outside. There was the fruit seller's yellow awning. There was a donkey, and a man leading it. They were upside down, and they were moving. The donkey walked slowly across the wall on its head.",
    "Zaynab cried out. \"Is it magic?\"",
@@ -1371,7 +1371,7 @@
      "p": "If light bounces off everything, why isn't every room full of images of everything, all mixed up?",
      "lines": 4,
      "a": "Light from every point of every thing spreads out in all directions and mixes together in the room. That is why a white wall just looks bright, not like a picture. A small hole, or the pupil and lens of an eye, sorts the light so each point lands in one place. That makes a picture.",
-     "why": "This is the puzzle Ibn al-Haytham worked on. Class 4 explains more about straight lines and holes."
+     "why": "This is the puzzle Ibn al-Haytham worked on. Another unit explains how a small hole makes a picture."
     },
     {
      "t": "mcq",
@@ -1443,7 +1443,7 @@
      "qty": 3
     },
     {
-     "item": "black insulation tape, or a dark cloth or towel, to cover the gaps",
+     "item": "black insulation tape, and a dark towel or cloth to wrap the box in",
      "qty": 1
     },
     {
@@ -1465,9 +1465,9 @@
      "id": "s1",
      "mins": 4,
      "adult": true,
-     "do": "1. Do this in a bright room, by day or with the lights on. 2. A grown-up cuts a round peephole, about as big as a one-rupee coin, in one short end of the shoebox. 3. Put the white paper, the steel spoon and the red ball inside, at the far end. Do this without your child watching. 4. Put the lid on and cover the edges with tape or a dark cloth.",
+     "do": "1. Do this in a bright room, by day or with the lights on. 2. A grown-up cuts a round peephole, about as wide as a pencil, in one short end of the shoebox. A small hole is easier to seal with your eye. 3. Put the white paper, the steel spoon and the red ball inside, at the far end. Do this without your child watching. 4. Put the lid on and tape the edges. 5. Wrap the box in a dark towel, leaving only the peephole uncovered, because thin cardboard lets some light through.",
      "say": "I've hidden three things inside this box. You're going to be a scientist and find out what you can see in there.",
-     "kid": "Ask a grown-up to cut a small hole in a shoebox. Then close your eyes. The grown-up hides three things inside. The lid goes on tight.",
+     "kid": "Ask a grown-up to cut a small hole in a shoebox. Then close your eyes. The grown-up hides three things inside. The lid goes on tight, and a dark towel goes around the box.",
      "context": "This is the first step of the dark box test. You hide three things in a closed box, to find out whether we can see without light."
     },
     {
@@ -1489,10 +1489,10 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Your child puts one eye right against the peephole, and closes the other eye. 2. They count slowly to 5. 3. They say what they can see. 4. Write it in the table.",
+     "do": "1. Your child puts one eye right against the peephole, and closes the other eye. 2. They cup a hand around the eye and the hole, to keep out light from the room. 3. They count slowly to 5. 4. They say what they can see. 5. Write it in the table.",
      "say": "Press your eye to the hole. Count slowly to five. What can you see?",
-     "kid": "Put one eye right on the hole. Close the other eye. Count to five. What can you see?",
-     "parent": "With the lid sealed, your child should see nothing at all. Some children say they see 'black'. That is a good observation. Black is what we see when no light reaches the eye. If your child sees a glow, light is getting in through a gap. Find it and cover it, then look again.",
+     "kid": "Put one eye right on the hole. Cup your hand around it. Close the other eye. Count to five. What can you see?",
+     "parent": "With the box wrapped and the hole covered by your child's eye, your child should see nothing at all. Some children say they see 'black'. That is a good observation. Black is what we see when no light reaches the eye. If your child sees a glow, light is getting in somewhere. Wrap the towel tighter, tape any gap, and look again.",
      "check": {
       "t": "mcq",
       "q": "In the dark box with the lid shut, your eye is open but you see nothing. Why?",
@@ -1508,7 +1508,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Lift one corner of the lid just a crack, about the width of a pencil. 2. Your child looks again and counts to 5. 3. Lift the lid halfway, and look again. 4. Take the lid off, and look again. 5. Each time, write down what they saw and whether they could tell the colour of the ball.",
+     "do": "1. Unwrap the towel from one corner and lift that corner of the lid just a crack, about the width of a pencil. 2. Your child looks again and counts to 5. 3. Lift the lid halfway, and look again. 4. Take the lid off, and look again. 5. Each time, write down what they saw and whether they could tell the colour of the ball.",
      "say": "Now I'll let in a tiny bit of light. What can you see now? Can you tell what colour the ball is?",
      "kid": "A grown-up lifts the lid a crack. Look again. What appears first? Then a bit more light. Then all the way. Can you see the ball's colour yet?",
      "parent": "Usually the white paper and the shiny spoon appear first, as pale grey shapes. The ball comes later, and its red colour last. White and shiny objects reflect the most light. The cells in the eye that see colour need more light than the ones that see shapes. If everything appears at once, the crack was too wide. Close the lid and try a thinner crack.",
@@ -1637,7 +1637,7 @@
      "qty": 1
     },
     {
-     "item": "a printed pupil card: a row of black circles 2, 3, 4, 5, 6, 7 and 8 mm across, drawn on a strip of paper",
+     "item": "a pupil card you draw: a row of black circles 2, 3, 4, 5, 6, 7 and 8 mm across, on a strip of paper",
      "qty": 1
     },
     {
@@ -1672,15 +1672,15 @@
      "mins": 5,
      "do": "1. Make the room dim. Close the curtains and switch off the lights. Leave a door open to a lit room, so you can still see a face. 2. Wait one full minute. 3. Hold the pupil card just under one of your child's eyes and find the circle that matches the pupil. Write the size. Do this three times. 4. Swap, so your child measures your pupil too.",
      "say": "Wait one minute for your eyes to settle. Now look straight ahead at the wall. Which circle on the card is the same size as your pupil?",
-     "kid": "Wait one minute in the dim room. Look at one eye in the mirror. Hold the card under it. Which circle matches the black middle? Write it down.",
-     "parent": "Look closely, from about a hand's width away. Dark brown eyes make the pupil harder to tell apart from the iris. Turn your child's face a little towards the open door, so some light falls on the eye. In dim light many children's pupils are 6 or 7 mm. Your child can also watch their own pupil in a mirror."
+     "kid": "You need a grown-up for this. Sit in the dim room for one minute. Look at the far wall, not at the card. The grown-up holds the card under your eye and finds the circle that matches your pupil. Then you measure theirs.",
+     "parent": "Look closely, from about a hand's width away. Your child must look at the far wall, because looking at something close makes the pupil smaller. Dark brown eyes make the pupil harder to tell apart from the iris. Turn your child's face a little towards the open door, so some light falls on the eye. If you still cannot see the pupil, take a close photo of the eye and the card together, without flash, and zoom in. In dim light many children's pupils are 6 or 7 mm."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Turn on the normal room light and wait one minute. Measure three times. 2. Then switch on the lamp, pointing at the wall right beside your child's face, not into the eye. Wait one minute. Measure three times.",
-     "say": "Now the light is brighter. Watch your pupil closely as I switch the lamp on. What happens?",
-     "kid": "Now the light comes on. Look in the mirror as it does. What happens to your pupil? Wait a minute. Then measure it three times.",
+     "do": "1. Turn on the normal room light and wait one minute. Measure three times. 2. Then switch on the lamp, pointing at the wall right beside your child's face, not into the eye. Wait one minute. Measure three times. 3. Last, a quick check your child can watch: in the lamp light, they look into a mirror, cover one eye with a hand for 10 seconds, then take the hand away and watch that pupil.",
+     "say": "Now the light is brighter. Keep looking at the far wall while I measure. Then look in the mirror. Cover one eye for ten seconds, take your hand away, and watch that pupil. What happens?",
+     "kid": "Now the lamp comes on beside your face. Wait a minute. The grown-up measures your pupil three times. Then look in a mirror. Cover one eye with your hand and count to 10. Take your hand away and watch that pupil. What happens?",
      "adult": false,
      "check": {
       "t": "mcq",
@@ -1692,7 +1692,8 @@
       ],
       "a": 0,
       "why": "The pupil is a hole that lets light in. In bright light the iris shrinks it, so that too much light does not dazzle the retina at the back. Picking 'tired' usually means thinking the eye is wearing out. It isn't. It opens again in the dark. Picking 'send out more light' is the old idea that eyes give out light. They don't."
-     }
+     },
+     "parent": "When the hand comes away, the pupil is big for a moment, then shrinks in less than a second. This works even with dark brown eyes, because the change is easy to see in bright light."
     },
     {
      "id": "s4",
@@ -2096,11 +2097,11 @@
    "context": "In this activity you sit in the dark at night and count stars at the start, after 10 minutes and after 20 minutes. You find out how your eyes get used to the dark.",
    "materials": [
     {
-     "item": "a cardboard tube from a roll of kitchen paper or foil",
+     "item": "a cardboard tube from a roll of kitchen paper or foil, or a sheet of paper rolled into a tube",
      "qty": 1
     },
     {
-     "item": "a torch with red cellophane taped over the front",
+     "item": "a torch with red cellophane or a red sweet wrapper taped over the front (red cellophane is sold at stationery shops)",
      "qty": 1,
      "buy": "b-torch"
     },
@@ -2216,7 +2217,7 @@
      "qty": 1
     },
     {
-     "item": "tracing paper or baking paper",
+     "item": "tracing paper or baking paper, or a sheet of thin white paper",
      "qty": 1
     },
     {
@@ -2224,7 +2225,7 @@
      "qty": 1
     },
     {
-     "item": "3 torches, or 3 phones with their torches on",
+     "item": "3 torches, or 3 phones with their torches on (2 are enough if that is all you have)",
      "qty": 3,
      "buy": "b-torch"
     },
@@ -2345,7 +2346,7 @@
      "do": "1. At home, dim the room. 2. Take a flash photo of a family member looking straight at the phone. 3. Look at their eyes in the photo.",
      "say": "Look at the eyes in the photo. Are they red? The flash went in through the pupil and reflected off the back of the eye.",
      "kid": "Take a flash photo of someone in a dim room. Look at their eyes. Are they red?",
-     "parent": "Many phones now try to remove red eye, so you may need a few tries. Red eye happens because the back of the eye, behind the retina, is full of tiny blood vessels. The flash reflects off it, straight back to the camera."
+     "parent": "Many phones now remove red eye by themselves, so you may need a few tries, or an older phone. If you see no animal on the walk, that is fine: the photo works at home. Red eye happens because the back of the eye, behind the retina, is full of tiny blood vessels. The flash reflects off it, straight back to the camera."
     },
     {
      "id": "s3",
@@ -2472,7 +2473,7 @@
      "qty": 1
     },
     {
-     "item": "tracing paper or baking paper",
+     "item": "tracing paper or baking paper, or a sheet of thin white paper",
      "qty": 1
     },
     {
@@ -2492,7 +2493,7 @@
      "qty": 1
     },
     {
-     "item": "colours, to paint the iris",
+     "item": "paints or crayons, to colour the iris",
      "qty": 1
     }
    ],
@@ -2594,7 +2595,7 @@
    ],
    "general": [
     "Hang a white sheet or white chart paper where the window light hits it. White things bounce a lot of light in every direction, some into the dark corner.",
-    "Paint or cover the walls near the corner in white or a pale colour. Dark walls swallow light. Pale walls bounce it on.",
+    "Cover the walls near the corner with white or pale paper or cloth. Dark walls absorb most of the light that lands on them. Pale walls reflect it on.",
     "Open the curtains fully, and move anything that blocks the window."
    ],
    "creative": [
@@ -2625,7 +2626,7 @@
      "mins": 10,
      "do": "Ask your child to explain why the best idea worked, using the words 'reflect' and 'eye'.",
      "say": "Which idea worked best? Tell me the path the light took, from the window all the way into your eyes.",
-     "kid": "Which idea worked best? Tell the path of the light. From the window, to what, to the card, to your eyes.",
+     "kid": "Which idea worked best? Say the path the light took. Start at the window and end in your eyes.",
      "check": {
       "t": "mcq",
       "q": "A white sheet near the window made the corner brighter. Why?",
@@ -2884,7 +2885,7 @@
     "Aristotle"
    ],
    "a": 0,
-   "why": "Ibn al-Haytham wrote the Book of Optics in Cairo. Newton lived about 650 years later. Aristotle had a similar direction but not the tests and details.",
+   "why": "Ibn al-Haytham wrote the Book of Optics in Cairo. Isaac Newton was born more than 600 years later. Aristotle lived about 1,300 years earlier. He thought something passes from things to the eye, but he did not test it the way Ibn al-Haytham did.",
    "outcome": 5
   },
   {
@@ -3071,8 +3072,8 @@
    "a": "I'll see you later."
   },
   {
-   "j": "Why was the dark room so calm?",
-   "a": "Nothing was going on in there that anyone could see."
+   "j": "Why did the shy mango switch off the lamp?",
+   "a": "It didn't want any light bouncing off it into your eyes."
   },
   {
    "j": "Why did the cat's eyes glow?",
@@ -3116,7 +3117,7 @@
   },
   {
    "j": "Why are eyes such good catchers?",
-   "a": "They catch light all day and never throw any back out."
+   "a": "They catch light all day without ever using their hands."
   },
   {
    "j": "Why do astronomers make good friends?",
@@ -3452,7 +3453,7 @@
  "roots": {
   "context": "We have been learning how we see: light bounces off things and comes into our eyes. Now we ask what seeing tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Looking feels like reaching out from our eyes, like a torch beam. Yet in the sealed dark box, wide-open eyes saw nothing. The paper appeared only when light got in and reflected off it into the eye. So seeing feels like sending, but it is really receiving.",
+   "truth": "Looking feels like reaching out from our eyes, like a torch beam. Yet in the closed dark box, wide-open eyes saw nothing. The white paper appeared only when light got in and bounced off it into the eye. So looking feels like sending something out, but seeing is receiving.",
    "habit": "It questions the habit of trusting how something feels as a picture of how it works. Looking feels like something we send out, and that feeling is why people believed in eye-rays for more than a thousand years.",
    "evidence": "In the dark box, open eyes saw nothing until the lid let light in. In the lamps activity, covering one torch put out only its own spot."
   },

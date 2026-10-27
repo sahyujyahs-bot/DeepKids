@@ -438,7 +438,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **safety:** Never look at the Sun through a magnifier. It can burn your eyes.
 - **record:** Draw 4 of the things, once as your eye sees them and once as the magnifier shows them.
 - **s1 (2 min)**  
-  *Parent does:* Put 8 things on a tray: a leaf, a pinch of salt, a pinch of sugar, a piece of cloth and a strand of hair. Add a piece of paper and a slice of tomato. The eighth thing is your own fingertip.  
+  *Parent does:* Put 8 things on a tray: a leaf, a pinch of salt, a pinch of sugar and a piece of cloth. Add a strand of hair, a piece of paper and a slice of tomato. The eighth thing is your own fingertip.  
   *Parent says:* We're going to be zoom explorers. First, just look with your eyes. What do you notice?  
   *Child mode:* Look at each thing with just your eyes. What do you notice?
 - **s2 (8 min)**  
@@ -465,7 +465,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Child mode:* Try a big drop and a tiny drop. Which makes letters bigger?
   - Check: Which drop makes letters look bigger? → **The tiny, very round drop**
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* With a grown-up, put one tiny drop of water right on the phone's main camera lens. Turn the phone over carefully, open the camera and hold it 2 to 3 millimetres from a leaf or onion skin, without touching it.  
+  *Parent does:* With a grown-up, put one tiny drop of water right on the phone's main camera lens. Turn the phone over carefully and open the camera. Hold it 2 to 3 millimetres from a leaf or onion skin, without touching it.  
   *Parent says:* Our phone is now a microscope! What can you see that you couldn't before?  
   *Child mode:* With a grown-up, put a tiny drop on the phone camera. Look at a leaf very close.
   - Note: Hold the phone lens-up while adding the drop, then turn it over gently. A drop the size of a mustard seed clings best. Tap to focus. Phone cameras differ, and some stay blurry. Wipe the lens dry afterwards.
@@ -540,7 +540,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **record:** Each page has a drawing or photo, the name of the living thing, the magnifier used, and one fact.
 - **schedule:** day 1: Make the cover. First page: onion cells. Also put a few torn spinach or coriander leaves in a jar of water, and leave it by a window for day 5. (15 min); day 2: Second page: a leaf peel. (10 min); day 3: Third page: a tiny dab of curd with a drop of water. Look for tiny rods and dots. (10 min); day 4: Fourth page: a thin slice of raw potato with a drop of iodine. The starch grains inside the cells turn dark blue-black. (10 min); day 5: Fifth page: a drop of water from the leaf jar. Last page: 'What I am made of'. Show the atlas to someone. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* Make the atlas cover together. Then do the onion page, using what you learned in e1. Last, put a few torn spinach or coriander leaves in a jar of water, cover it loosely and leave it by a window until day 5.  
+  *Parent does:* Make the atlas cover together. Then do the onion page, using what you learned in e1. Last, put a few torn spinach or coriander leaves in a jar of water. Cover it loosely and leave it by a window until day 5.  
   *Parent says:* Scientists keep notebooks of everything they see. This is your cell atlas. Let's start with the onion.  
   *Child mode:* Make your atlas cover. Then draw your onion cells on page 1.
 - **s2 (10 min)**  

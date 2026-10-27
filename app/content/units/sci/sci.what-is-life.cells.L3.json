@@ -1226,7 +1226,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Put 8 things on a tray: a leaf, a pinch of salt, a pinch of sugar, a piece of cloth and a strand of hair. Add a piece of paper and a slice of tomato. The eighth thing is your own fingertip.",
+     "do": "Put 8 things on a tray: a leaf, a pinch of salt, a pinch of sugar and a piece of cloth. Add a strand of hair, a piece of paper and a slice of tomato. The eighth thing is your own fingertip.",
      "say": "We're going to be zoom explorers. First, just look with your eyes. What do you notice?",
      "kid": "Look at each thing with just your eyes. What do you notice?",
      "context": "This is the first step of the Zoom Walk. You look closely at ordinary things before learning about cells."
@@ -1337,7 +1337,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "With a grown-up, put one tiny drop of water right on the phone's main camera lens. Turn the phone over carefully, open the camera and hold it 2 to 3 millimetres from a leaf or onion skin, without touching it.",
+     "do": "With a grown-up, put one tiny drop of water right on the phone's main camera lens. Turn the phone over carefully and open the camera. Hold it 2 to 3 millimetres from a leaf or onion skin, without touching it.",
      "say": "Our phone is now a microscope! What can you see that you couldn't before?",
      "kid": "With a grown-up, put a tiny drop on the phone camera. Look at a leaf very close.",
      "adult": true,
@@ -1704,7 +1704,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Make the atlas cover together. Then do the onion page, using what you learned in e1. Last, put a few torn spinach or coriander leaves in a jar of water, cover it loosely and leave it by a window until day 5.",
+     "do": "Make the atlas cover together. Then do the onion page, using what you learned in e1. Last, put a few torn spinach or coriander leaves in a jar of water. Cover it loosely and leave it by a window until day 5.",
      "say": "Scientists keep notebooks of everything they see. This is your cell atlas. Let's start with the onion.",
      "kid": "Make your atlas cover. Then draw your onion cells on page 1.",
      "context": "This is the first step of My Cell Atlas, a five-day project where you collect pictures of cells."
