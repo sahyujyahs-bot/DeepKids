@@ -265,14 +265,12 @@ function fxFlowCards(u, kind, x) {
     }${x.players ? `<p class="fxsm"><b>Players:</b> ${esc(x.players)}</p>` : ""}
     ${x.safety ? `<p class="fxsm">⚠️ ${esc(x.safety)}</p>` : ""}${x.days > 1 && x.schedule ? `<p class="fxsm"><b>Over ${x.days} days:</b> ${x.schedule.map((s) => `Day ${s.day}: ${esc(s.what)}`).join(" · ")}</p>` : ""}
     ${x.printables ? `<button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the game</button>` : ""}${x.example_chart ? `<p class="fxsm"><b>What results might look like (made-up example):</b></p>${fxChart(x.example_chart)}` : ""}<p class="fxhint">Scroll for ${x.printables ? "the game pieces and " : ""}the ${n} steps ↓</p></div>`,
-    say: x.title + ". " + (x.problem || x.question || ""),
   });
   if (x.printables)
     C.push({
       key: "pieces." + x.id,
       kind,
       html: `<div class="fxtxt"><span class="fxeb">🃏 ${esc(x.title)} · the game pieces</span><p class="fxsm">Print them, or play straight from the screen. Tap a card to pick it.</p>${x.printables.map((p) => `<h3>${esc(p.title)}</h3><div class="fxpieces ${p.kind.replace(/\W/g, "")}">${p.items.map((it, j) => `<div class="fxpc" data-fx="flip" style="--h:${(j * 47) % 360}">${p.kind === "tokens" ? "💡" : esc(it)}</div>`).join("")}</div>`).join("")}<h3>How to play</h3><ol>${x.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol><button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the pieces</button></div>`,
-      say: x.rules.join(" "),
     });
   x.flow.forEach((s, i) =>
     C.push({
@@ -813,7 +811,7 @@ function fxMap() {
     SL = FXALL.sections;
   FXSI = -1;
   FXOBS?.disconnect();
-  speechSynthesis?.cancel?.();
+  voxCtl("stop");
   const T = F.time[u.id] || {},
     done = SL.filter((s) => fxSecState(u, s) === "done").length,
     pos = F.pos[u.id],
@@ -856,12 +854,10 @@ function fxShowSection(si, ci) {
     body = FXALL.filter((c) => c.sec === s.id);
   const lead = {
     key: "lead." + s.id,
-    say: s.title + ". " + (s.lead || ""),
     html: `<div class="fxtxt fxlead"><span class="fxeb">Part ${si + 1} of ${SL.length}</span>${fxPill(s.kind)}<div class="fxbige">${s.emoji}</div><h1>${esc(s.title)}</h1><p class="fxsm">⏱️ About ${s.mins} min${T ? ` · ${fxMin(T)} so far` : ""}</p><p class="fxguide">${esc(s.lead || "")}</p>${s.what ? `<p class="fxsm">${esc(s.what)}</p>` : ""}${s.need?.length ? `<p class="fxsm"><b>Get ready:</b> ${s.need.map(esc).join(", ")}</p>` : ""}<button class="fxb" data-fx="begin">Let's begin ↓</button></div>`,
   };
   const end = {
     key: "end." + s.id,
-    say: "",
     html: `<div class="fxtxt fxlead"><div class="fxbige">✅</div><h1>Done: ${esc(s.title)}</h1><p class="fxsm" data-fx-time>⏱️ You took ${fxMin(T)} (planned ${s.mins} min)</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${esc(nx.title)} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow"><button class="fxb" aria-pressed="false" data-fx="map">🗺️ Back to the map</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
   };
   FXCARDS = [
@@ -927,29 +923,18 @@ function fxGo(si, ci) {
 function fxClose() {
   clearInterval(FXTICK);
   save();
-  speechSynthesis?.cancel?.();
+  voxCtl("stop");
   FXOBS?.disconnect();
   const d = document.getElementById("fxDlg");
   if (d?.open) d.close();
 }
-function fxSay(t) {
-  try {
-    speechSynthesis.cancel();
-    const s = new SpeechSynthesisUtterance(t),
-      v =
-        speechSynthesis.getVoices().find((v) => /en[-_]IN/i.test(v.lang)) ||
-        speechSynthesis.getVoices().find((v) => /^en/i.test(v.lang));
-    if (v) s.voice = v;
-    s.rate = 0.95;
-    speechSynthesis.speak(s);
-  } catch (e) {
-    toast("Reading aloud isn't available on this device");
-  }
-}
 function fxCardText(sec) {
   const c = FXCARDS[+sec.dataset.i];
   if (c?.step) return fxSt().mode === "child" ? c.step.kid : [c.step.say, c.step.do].filter(Boolean).join(" ");
-  return c?.say || sec.querySelector(".fxtxt,.fxflip")?.innerText || "";
+  // the whole card as it reads on screen in this mode, without its labels ("Part 2 of 36", "ACTIVITY")
+  const el = sec.querySelector(".fxtxt,.fxflip")?.cloneNode(true);
+  el?.querySelectorAll(`.fxeb,.fxkp,.fxcrumb,${fxSt().mode === "child" ? ".pm" : ".km"}`).forEach((x) => x.remove());
+  return readable(el);
 }
 function fxRecordAnswer(u, key, ok, q) {
   const F = fxSt();
@@ -1138,8 +1123,8 @@ function fxClick(e) {
     save();
     return S1[k] && toast("Saved");
   }
-  if (a === "read") return fxSay(fxCardText(sec));
-  if (a === "readall") return fxSay(u.story.title + ". " + u.story.text.join(" "));
+  if (a === "read") return speak(fxCardText(sec));
+  if (a === "readall") return speak(u.story.title + ". " + u.story.text.join(" "));
   if (a === "flip") return b.classList.toggle("on");
   if (a === "vote") {
     sec.querySelector(".fxreveal").hidden = false;

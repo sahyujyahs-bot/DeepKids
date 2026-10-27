@@ -199,7 +199,7 @@ function voxBar() {
     b = document.createElement("div");
     b.id = "voxbar";
   }
-  const host = sheet.open ? sheet : document.body;
+  const host = document.querySelector("#fxDlg[open]") || (sheet.open ? sheet : document.body);
   if (b.parentNode !== host) host.appendChild(b);
   b.innerHTML = `<span class="vt">${voxPaused ? "Paused" : "Reading"} · ${voxRate().toFixed(1)}×</span><button data-vox="back" aria-label="Repeat the last sentence">⏮</button><button data-vox="pause" aria-label="${voxPaused ? "Resume" : "Pause"}">${voxPaused ? "▶" : "⏸"}</button><button data-vox="skip" aria-label="Next sentence">⏭</button><button data-vox="slower" aria-label="Slower">🐢</button><button data-vox="faster" aria-label="Faster">🐇</button><button data-vox="stop" aria-label="Stop reading">✕</button>`;
 }
@@ -216,7 +216,7 @@ function readable(el) {
     .replace(/\s*¶\s*/g, ". ")
     .replace(/([.!?:;])\s*\.\s/g, "$1 ")
     .replace(/\.\s*\./g, ".")
-    .replace(/[📖✨🔊]/g, "")
+    .replace(/\p{Extended_Pictographic}|\uFE0F/gu, "")
     .replace(/\s+/g, " ")
     .trim();
 }
