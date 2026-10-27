@@ -1,31 +1,31 @@
 {
  "id": "sci.animals.animal-bodies.L3",
- "title": "Breathing and finding food: how animal bodies do it",
+ "title": "How animals breathe and find their food",
  "level": 3,
  "summary": {
-  "text": "This unit is about two jobs every animal body must do. It must get air, and it must find food. Every part of an animal's body needs oxygen, a gas in air and water. Animals take it in with lungs, with gills, or straight through damp skin. Insects even have tiny air pipes all over their bodies. Animals find food with their senses: smell, sight, hearing, touch, and some senses we do not have at all, like a bat's echo-hearing. Scientists understand breathing well. They still argue about how lungs first appeared, and why earthworms crawl out when it rains.",
+  "text": "A rohu fish spends its whole life under water, yet it breathes all day. Almost every animal needs oxygen, a gas in air and water, because its cells use it to get energy from food. Animals take oxygen in with lungs, gills, damp skin or tiny air pipes, and they breathe out carbon dioxide made from their food. To find that food, they use their senses, including some we do not have, like a bat's echolocation. Scientists still argue about how lungs first appeared, and why earthworms crawl out after rain.",
   "art": "A split picture: on the left a child breathing out a little cloud onto a cold steel tumbler, a fish with red gills and a frog with shiny wet skin. On the right, a dog sniffing, a bat sending out sound waves and an ant on a sugar trail."
  },
  "intro": {
-  "hook": "Try this. Hold a cold steel tumbler close to your mouth. Breathe out on it slowly, three times. What appears on the steel? Now look at a fish in a tank. It never comes up for air. How is it breathing?",
-  "text": "In the summer, when village ponds in Bengal and Assam dry up, people sometimes dig in the hard mud. And there, in the mud, they find fish. Some are still alive, days after the water has gone. One of them, the climbing perch, can even wriggle across wet grass to the next pond. A fish that lives without water? How does it get its air? And how does any animal, in water, mud or sky, find enough to eat? This unit is about those two jobs: breathing and finding food.",
+  "hook": "Try this. Hold a steel tumbler close to your mouth and breathe out on it slowly, three times. What appears on the steel? Your breath carries something out of your body. A fish breathes too, but under water. How does it do that?",
+  "text": "In summer, when village ponds in Bengal and Assam dry up, people sometimes dig in the damp mud and find fish still alive. One of them, the climbing perch, can live out of water for hours if it stays damp. It can even wriggle across wet grass to the next pond. It can do this because it breathes air as well as water. How does a fish breathe air? And how does any animal, in water, mud or sky, get the oxygen and the food it needs?",
   "art": "A cracked dry pond bed at dawn, a village child kneeling and holding up a small greenish fish from a hole in the mud, a fresh pond shining in the distance."
  },
  "outcomes": [
-  "I can say why every animal needs oxygen: every part of its body uses oxygen to get energy from food.",
+  "I can say why animals need oxygen: almost every cell in their bodies uses oxygen to get energy from food.",
   "I can explain how lungs, gills and skin each take in oxygen, and why all of them are thin, damp and close to blood.",
   "I can count and compare my breaths before and after exercise, as a fair test, and say what the numbers show.",
   "I can show that breathed-out air is different from room air, using a chuna water test.",
   "I can name the senses animals use to find food, including senses people do not have, like echo-hearing and heat-sensing.",
   "I can describe different ways animals get food: grazing, hunting, waiting, filtering, trapping and scavenging.",
   "I can say what scientists agree about breathing, and what they still argue about.",
-  "I can explain big ideas: the oxygen I breathe was made by plants and tiny sea algae, and every cell in me breathes."
+  "I can explain that the oxygen I breathe was made by plants and algae, and that part of the food I eat leaves my body in my breath."
  ],
  "cards_mins": 20,
  "terms": [
   {
    "term": "Oxygen",
-   "meaning": "A gas with no colour and no smell. It is in air, and a little of it is mixed into water. Animals need it to stay alive.",
+   "meaning": "A gas with no colour and no smell. It is in air, and a little of it is dissolved in water. Animals need it to stay alive.",
    "example": "Each time you breathe in, oxygen goes into your body.",
    "art": "Air drawn as tiny dots, with a few dots coloured blue and labelled oxygen, flowing into a child's nose."
   },
@@ -43,7 +43,7 @@
   },
   {
    "term": "Respiration",
-   "meaning": "What happens inside every cell: the cell uses oxygen to unlock the energy stored in food. Breathing feeds respiration.",
+   "meaning": "What happens inside almost every cell: the cell uses oxygen to release the energy stored in food. It makes carbon dioxide and water as it does this. Breathing brings in the oxygen that respiration needs.",
    "example": "When you run, your leg cells do more respiration, so you breathe faster.",
    "art": "A zoomed-in circle on a leg muscle showing a cell taking in oxygen and food and giving out a spark of energy."
   },
@@ -91,13 +91,13 @@
   },
   {
    "term": "Blowhole",
-   "meaning": "The nostril on top of the head of a dolphin or a whale. It breathes air through it at the surface.",
+   "meaning": "The nostril on top of the head of a dolphin or a whale. The animal breathes air through it when it comes up to the surface.",
    "example": "The Ganges river dolphin comes up to breathe through its blowhole every minute or two.",
    "art": "A Ganges river dolphin breaking the brown river surface, a small puff of spray rising from its blowhole."
   },
   {
    "term": "Senses",
-   "meaning": "The ways a body learns about the world: seeing, hearing, smelling, tasting and touching. Some animals have extra senses.",
+   "meaning": "The ways a body learns about the world: seeing, hearing, smelling, tasting and touching. Some animals have extra senses that people do not have.",
    "example": "A dog finds a hidden biscuit by smell.",
    "art": "A dog with its nose to the ground, following a dotted smell trail to a biscuit under a cushion."
   },
@@ -136,14 +136,26 @@
    "meaning": "Tiny plant-like living things that live in water. Like plants, they make food from sunlight and give out oxygen.",
    "example": "The green colour in an old bucket of water is algae.",
    "art": "A drop of pond water under a magnifier showing tiny green specks and threads."
+  },
+  {
+   "term": "Labyrinth organ",
+   "meaning": "An extra breathing part above the gills of some fish, folded many times like a maze. It takes oxygen from air that the fish gulps at the surface.",
+   "example": "The climbing perch, called koi in Bengali, has a labyrinth organ. So does the betta fish sold in aquarium shops.",
+   "art": "A climbing perch with a cut-away above its gills showing a folded, maze-like breathing part, and a bubble of air at its mouth."
+  },
+  {
+   "term": "Limewater",
+   "meaning": "Clear water with lime (calcium hydroxide) dissolved in it. It turns milky when carbon dioxide bubbles through it.",
+   "example": "Edible chuna from a paan shop, stirred into water and left to settle, gives clear limewater.",
+   "art": "Two glasses of water, one clear and one milky white, with a child blowing bubbles through a straw into the milky one."
   }
  ],
  "explanations": [
   {
    "concept": "Why animals need oxygen",
    "status": "defined",
-   "definition": "Every cell in an animal's body uses oxygen to unlock the energy stored in food. This is called respiration. Breathing is how the body gets that oxygen in.",
-   "description": "Food is like stored energy, a bit like wood waiting to be burned. To get the energy out, a cell needs oxygen, just as a fire needs air. The cell joins the food and oxygen together slowly and gently. Out comes energy to move, grow, think and keep warm. Out also comes carbon dioxide and a little water, which the body must get rid of. So breathing has two jobs. It brings oxygen in. It takes carbon dioxide out. A cell that gets no oxygen soon stops working. That is why we cannot hold our breath for very long.",
+   "definition": "Almost every cell in an animal's body uses oxygen to release the energy stored in food. This is called respiration. Breathing is how the body gets that oxygen in, and gets the carbon dioxide out.",
+   "description": "Food is stored energy, a bit like wood waiting to be burned. To get the energy out, a cell needs oxygen, just as a fire needs air. The cell joins the food and oxygen slowly, in many small steps, with no flame. Out comes energy to move, grow, think and keep warm. Out also come carbon dioxide and water. The carbon in that carbon dioxide was part of the food. So breathing has two jobs. It brings oxygen in, and it takes carbon dioxide out. A cell that gets no oxygen soon stops working. That is why we cannot hold our breath for very long.",
    "examples": [
     "When you run, your leg muscles use more oxygen, so you breathe faster.",
     "A candle under an upturned glass goes out when the oxygen runs low. Cells use oxygen too, but slowly, without flames.",
@@ -156,10 +168,10 @@
   {
    "concept": "What every breathing part has in common",
    "status": "defined",
-   "definition": "Lungs, gills and breathing skin all do the same job in the same way. They are thin, they are damp, they are very big for their size, and they have blood flowing just underneath.",
-   "description": "Oxygen can only get into the body by passing through a thin, wet wall. On the other side of that wall is blood, which carries the oxygen away to every cell. So the best breathing parts have very thin walls. They stay damp, because oxygen has to dissolve in a film of water before it can pass through. They are folded or branched many times, so there is lots of surface. More surface lets more oxygen in at once. And blood is always flowing right next to them. Lungs, gills and frog skin look very different. But zoom in and they are the same trick.",
+   "definition": "Lungs, gills and breathing skin all work in the same way. They are thin, they are damp, they have a very large surface for their size, and blood flows just underneath.",
+   "description": "Oxygen can only get into the body by passing through a thin, wet wall. On the other side of that wall is blood, which carries the oxygen away to the cells. So the best breathing parts have very thin walls. They stay damp, because oxygen has to dissolve in a film of water before it can pass through. They are folded or branched many times, so they have a lot of surface. More surface lets more oxygen in at once. And blood is always flowing right next to them. Lungs, gills and frog skin look very different. Up close, they all work in the same way.",
    "examples": [
-    "Your lungs are folded into about 480 million tiny air sacs. Spread flat, they would cover about a badminton court.",
+    "A grown-up's lungs are folded into about 480 million tiny air sacs. Spread flat, they would cover roughly a badminton court.",
     "A fish's gills are split into hundreds of thin, feathery threads.",
     "A frog's skin is thin and slimy, with many tiny blood vessels underneath."
    ],
@@ -175,7 +187,7 @@
    "examples": [
     "People, cows, crows, snakes, tortoises and dolphins all breathe with lungs.",
     "A dolphin's lungs fill through a blowhole on top of its head.",
-    "Room air is about 21 parts in 100 oxygen. Breathed-out air is about 16 parts in 100. Your body kept the rest."
+    "Room air is about 21 parts in 100 oxygen. Breathed-out air is about 16 parts in 100. Room air has only a tiny bit of carbon dioxide. Breathed-out air has about 100 times as much."
    ],
    "perspectives": [],
    "art": "A child's body outline with the windpipe branching into two lungs like an upside-down tree, and a dome-shaped diaphragm below, with arrows showing it pull down.",
@@ -185,7 +197,7 @@
    "concept": "How gills work",
    "status": "defined",
    "definition": "Gills take oxygen out of water. A fish gulps water in through its mouth. The water flows over the gills and out under the gill covers.",
-   "description": "Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching it. Its gills are rows of thin red threads, each covered in even thinner folds. Blood flows through them the opposite way to the water. This clever trick means the blood keeps meeting water that has more oxygen than it does. Fish can take most of the oxygen out of the water that passes over them. Out of water, the soft gill threads stick together and dry out, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.",
+   "description": "Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching it. Its gills are rows of thin red threads, each covered in even thinner folds. Blood flows through them the opposite way to the water. Because of this, the blood keeps meeting water that has more oxygen than it has. So a fish can take most of the oxygen out of the water that passes over it. Out of water, the soft gill threads stick together, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.",
    "examples": [
     "Rohu, catla and goldfish breathe with gills.",
     "Tadpoles breathe with gills. Most grow lungs when they become frogs.",
@@ -212,22 +224,22 @@
   {
    "concept": "Other clever ways to breathe",
    "status": "defined",
-   "definition": "Insects breathe through holes in their sides called spiracles, and air pipes that reach every cell. Some fish can breathe air as well as water.",
-   "description": "An insect has no lungs. Air goes in through small holes along its sides. It travels down thin pipes that branch and branch until they reach every tiny part of the body. So in an insect, air goes straight to the cells. Some fish live in warm, muddy ponds where the water has little oxygen. The climbing perch, called koi in Bengali, has an extra breathing room above its gills, folded like a maze. It gulps air at the surface. It can stay alive out of water for hours if it stays damp. The magur and singhi catfish sold alive in Indian markets can also breathe air. That is why they stay alive in a bucket with very little water.",
+   "definition": "Insects breathe through holes in their sides called spiracles, and air pipes that reach every part of the body. Some fish can breathe air as well as water.",
+   "description": "An insect has no lungs. Air goes in through small holes along its sides. It travels down thin pipes that branch again and again until they reach every tiny part of the body. So in an insect, air goes straight to the cells. Some fish live in warm, muddy ponds where the water has little oxygen. The climbing perch, called koi in Bengali, has an extra breathing part above its gills, folded like a maze. It is called the labyrinth organ. The fish gulps air at the surface, and the labyrinth organ takes oxygen from it. So it can stay alive out of water for hours, if it stays damp. The magur and singhi catfish sold alive in Indian markets can also breathe air. That is why they stay alive in a bucket with very little water.",
    "examples": [
     "A grasshopper breathes through spiracles along its sides.",
     "A mosquito young lives in water but breathes air through a tiny tube it pokes up through the surface.",
     "The climbing perch can wriggle across wet grass from one pond to another."
    ],
    "perspectives": [],
-   "art": "A grasshopper with its air pipes drawn like branching silver threads, next to a climbing perch with a maze-like breathing room above its gills, gulping air at a pond's surface.",
+   "art": "A grasshopper with its air pipes drawn like branching silver threads, next to a climbing perch with a maze-like labyrinth organ above its gills, gulping air at a pond's surface.",
    "context": "This card shows more ways animals breathe: insects' air pipes and fish that gulp air."
   },
   {
    "concept": "Holding breath and thin air",
    "status": "defined",
    "definition": "Animals that breathe air but hunt underwater must hold their breath. Animals that fly very high must get oxygen from thin air.",
-   "description": "Dolphins, whales, turtles and otters breathe with lungs, so they must come up for air. The Ganges river dolphin, India's national aquatic animal, comes up every minute or two. Some deep-diving whales can stay under for more than an hour. One Cuvier's beaked whale was recorded staying under for 222 minutes, nearly four hours. They store extra oxygen in their blood and muscles, and slow their hearts while they dive. High in the sky, the air is thin, so each breath has less oxygen. Bar-headed geese fly right over the Himalayas to spend the winter in India. Their lungs, blood and hearts are extra good at grabbing oxygen.",
+   "description": "Dolphins, whales, turtles and otters breathe with lungs, so they must come up for air. The Ganges river dolphin, India's national aquatic animal, comes up every minute or two. Some deep-diving whales can stay under for more than an hour. One Cuvier's beaked whale was recorded staying under for 222 minutes, nearly four hours. They store extra oxygen in their blood and muscles, and slow their hearts while they dive. High in the sky, the air is thin, so each breath has less oxygen. Bar-headed geese fly right over the Himalayas to spend the winter in India. Their blood picks up oxygen more easily than ours, and their lungs and hearts work very hard and well.",
    "examples": [
     "A Ganges river dolphin surfaces every minute or two to breathe.",
     "A sea turtle can sleep underwater for hours, because a resting body uses little oxygen.",
@@ -255,9 +267,9 @@
    "concept": "Ways animals get their food",
    "status": "defined",
    "definition": "Animals get food in many different ways. Some graze, some hunt, some wait, some sieve, some build traps and some clean up the dead.",
-   "description": "A cow grazes. It walks slowly and eats grass for hours. A cheetah hunts. It chases its prey at great speed. A crocodile waits. It lies still in the river until an animal comes close. A flamingo filters. It sieves tiny shrimps and algae out of lake water. A spider builds a trap. Its sticky web catches flying insects. A vulture scavenges. It eats animals that have already died, and keeps the land clean. Each way of eating goes with a body that fits it. A cow has flat teeth for grinding. A cheetah has long legs and sharp claws. A flamingo has a beak like a sieve.",
+   "description": "A cow grazes. It walks slowly and eats grass for hours. A cheetah hunts. It chases its prey at great speed. A crocodile waits. It lies still in the river until an animal comes close. A flamingo filters. It sieves tiny shrimps and algae out of lake water. A spider builds a trap. Its sticky web catches flying insects. A vulture scavenges. It eats animals that have already died, and so cleans up the land. Each way of eating goes with a body that fits it. A cow has flat teeth for grinding. A cheetah has long legs and a bendy back for running fast. A flamingo has a beak that works like a sieve.",
    "examples": [
-    "A hummingbird or a sunbird sips nectar with a long, thin beak.",
+    "A sunbird sips nectar from flowers with its long, thin, curved beak.",
     "A whale shark, the biggest fish, filters tiny food out of seawater.",
     "An antlion digs a pit in dry sand and waits at the bottom for ants to fall in."
    ],
@@ -269,9 +281,9 @@
    "concept": "Smell may be the oldest sense",
    "status": "idea",
    "definition": "",
-   "description": "Long before there were eyes or ears, the first living things were single cells floating in water. Even today, bacteria can swim towards sugar and away from harmful things. They do it by sensing chemicals, which is a kind of smelling. So many scientists think that sensing chemicals is the oldest way of finding food. Smell and taste may be the great-grandparents of all the senses. This is a good idea with lots of evidence, but nobody was there to watch, so we call it an idea.",
+   "description": "Long before there were eyes or ears, the first living things were single cells living in water. Even today, a bacterium senses sugar in the water around it and decides to swim towards it. It also swims away from harmful chemicals. Sensing chemicals is a kind of smelling and tasting. So many scientists think that sensing chemicals is the oldest way of finding food. Smell and taste may be the oldest senses of all. There is a lot of evidence for this, but nobody was there to watch, so we call it an idea.",
    "examples": [
-    "Bacteria swim towards a drop of sugar under a microscope.",
+    "Under a microscope, bacteria swim towards a drop of sugar.",
     "A tiny single-celled creature in pond water turns towards food.",
     "Ants and termites still use smell to find food and talk to each other."
    ],
@@ -306,10 +318,10 @@
    "concept": "Why do earthworms come out when it rains?",
    "status": "debated",
    "definition": "",
-   "description": "After heavy rain, you often see earthworms lying on paths and roads. Earthworms breathe through their skin, so many people think they come up to stop drowning. But earthworms can live for a long time in water that has oxygen in it. So scientists are not sure. There are several ideas, and maybe more than one is true.",
+   "description": "After heavy rain, you often see earthworms lying on paths and roads. Earthworms breathe through their skin, so many people think they come up to stop drowning. But earthworms can live under water for a long time if the water has oxygen in it. So scientists are not sure. There are several ideas, and maybe more than one is true.",
    "examples": [
     "Earthworms on a wet road in the monsoon.",
-    "An earthworm in a jar of tap water can live for days.",
+    "In experiments, earthworms have stayed alive under water for a long time when the water had oxygen in it.",
     "Some fishermen in other countries drum on the ground to call worms up."
    ],
    "perspectives": [
@@ -332,8 +344,8 @@
  ],
  "agreed": [
   {
-   "text": "All animals need oxygen, and they all give out carbon dioxide.",
-   "evidence": "Animals kept in a sealed box with no fresh air soon struggle. Scientists can measure the oxygen going in and the carbon dioxide coming out of any animal, from a mouse to a beetle."
+   "text": "Almost all animals need oxygen, and they give out carbon dioxide.",
+   "evidence": "Animals kept in a sealed box with no fresh air soon struggle. Scientists can measure the oxygen going in and the carbon dioxide coming out of any animal, from a mouse to a beetle. The only known exception is a tiny animal that lives inside fish muscle, found in 2020, which does not use oxygen."
   },
   {
    "text": "Lungs, gills and breathing skin all work the same way: oxygen passes through a thin, damp wall into blood.",
@@ -341,7 +353,7 @@
   },
   {
    "text": "Breathed-out air has less oxygen and more carbon dioxide than room air.",
-   "evidence": "Chuna water, which is limewater, turns milky with carbon dioxide. It turns milky fast with breathed-out air, and very slowly with room air. Gas meters in hospitals measure the same thing."
+   "evidence": "Limewater, which you can make from chuna, turns milky with carbon dioxide. It turns milky fast with breathed-out air, and very slowly with room air. Machines in hospitals measure the same thing."
   },
   {
    "text": "Animals breathe faster when they are active, because their muscles use more oxygen.",
@@ -354,6 +366,10 @@
   {
    "text": "The oxygen in air was made by living things: plants on land and tiny algae in the sea.",
    "evidence": "Ancient rocks show that there was almost no oxygen in the air until tiny ocean living things began to make it, more than two billion years ago."
+  },
+  {
+   "text": "Much of the food an animal eats leaves its body as carbon dioxide in its breath.",
+   "evidence": "Cells break food down with oxygen, and the carbon in the food comes out as carbon dioxide. In 2014, Ruben Meerman and Andrew Brown worked out that most of the fat a person loses leaves through the lungs as carbon dioxide."
   }
  ],
  "challenging": [
@@ -369,7 +385,7 @@
    "claim": "We breathe in oxygen and breathe out only carbon dioxide.",
    "who": "A common way of saying it, even in some books",
    "for": "It is a simple way to remember breathing.",
-   "against": "Breathed-out air still has plenty of oxygen, about 16 parts in 100, compared with 21 parts in room air. That is why the kiss of life, when a person breathes into someone who has stopped breathing, can work. We breathe out a little extra carbon dioxide and water, not only carbon dioxide.",
+   "against": "Breathed-out air still has plenty of oxygen, about 16 parts in 100, compared with 21 parts in room air. That is why rescue breathing, when a person breathes into someone who has stopped breathing, can work. Breathed-out air is mostly nitrogen, just like room air. It has a little less oxygen, about 100 times more carbon dioxide, and more water.",
    "status": "rejected",
    "context": "This card is about a common way of describing breathing, and why it is not quite right."
   },
@@ -377,7 +393,7 @@
    "claim": "Bats are blind.",
    "who": "An old saying, as blind as a bat",
    "for": "Bats fly at night, and many have small eyes.",
-   "against": "Bats can see. Many fruit bats see very well. Insect-eating bats also use echolocation. In the 1790s, an Italian scientist, Lazzaro Spallanzani, found that bats could still fly in the dark with their eyes covered. A Swiss surgeon, Louis Jurine, then found that bats lost their way when their ears were blocked. In the 1930s and 1940s, Donald Griffin and Robert Galambos showed that bats use sounds too high for us to hear.",
+   "against": "Bats can see. Many fruit bats see very well, and insect-eating bats also use echolocation. In the 1790s, the Italian scientist Lazzaro Spallanzani found that bats could still fly in the dark with their eyes covered. The Swiss surgeon Louis Jurine then found that bats lost their way when their ears were blocked. Around 1940, Donald Griffin and Robert Galambos showed that bats use sounds too high for us to hear.",
    "status": "rejected",
    "context": "This card is about the idea that bats are blind, and how scientists found out the truth."
   },
@@ -392,15 +408,15 @@
   {
    "claim": "The climbing perch climbs trees.",
    "who": "Lieutenant Daldorff, a Danish officer at Tranquebar in Tamil Nadu, who wrote in the 1790s that he saw one high in a palm tree",
-   "for": "The fish can breathe air and wriggle across land. Its scientific name, Anabas, means 'one who climbs'.",
-   "against": "Nobody has seen it climb a tree since. Many scientists think birds like kites and crows caught the fish, carried them to trees and dropped them. Because the fish breathes air, it could still be alive up there, which made it look like a climber.",
+   "for": "The fish can breathe air and wriggle across land, using the spines on its gill covers. Its scientific name, Anabas, means 'climbing up'.",
+   "against": "Nobody has reliably seen one climb a tree since. Many scientists think birds like kites and crows caught the fish, carried them to trees and dropped them. Because the fish breathes air, it could still be alive up there, which made it look like a climber.",
    "status": "minority",
    "context": "This card is about an old report that a fish climbed a palm tree, and what scientists think now."
   },
   {
-   "claim": "Every cell in your body is partly made of tiny ancient bacteria.",
+   "claim": "The tiny parts that use oxygen inside your cells were once free-living bacteria.",
    "who": "Lynn Margulis, an American biologist, in 1967. Her paper was turned down by many journals before it was published.",
-   "for": "The tiny energy parts inside our cells, called mitochondria, use oxygen just like some bacteria do. They even have their own little bit of DNA, like bacteria.",
+   "for": "These tiny parts, called mitochondria, use oxygen just as some bacteria do. They even have their own little bit of DNA, like bacteria.",
    "against": "At first, most biologists thought the idea was strange and unlikely. But DNA tests later showed that mitochondria really did come from bacteria that moved into bigger cells long ago.",
    "status": "accepted",
    "context": "This card is about a once-mocked idea about where our cells' breathing parts came from."
@@ -418,7 +434,7 @@
    "hint": "Who puts oxygen into the air? Think of trees, grass and the green stuff in ponds and seas."
   },
   {
-   "q": "If every cell in you breathes, which part of you is really doing the breathing: your nose, your lungs or you?",
+   "q": "If almost every cell in you uses oxygen, which part of you is really doing the breathing: your nose, your lungs or your cells?",
    "kind": "deep",
    "hint": "Your nose and lungs are like doors. Where does the oxygen finally go?"
   },
@@ -428,9 +444,9 @@
    "hint": "Think of all the senses other animals have that we do not."
   },
   {
-   "q": "Plants breathe out oxygen, and we breathe out carbon dioxide that plants take in. Are we and the trees really separate?",
+   "q": "Part of the lunch you ate today will leave in your breath as carbon dioxide. A plant may then take it in. Is that leaf then partly made from your lunch?",
    "kind": "big",
-   "hint": "Where does your breath go after it leaves you?"
+   "hint": "Plants build their leaves from carbon dioxide, water and light. Where does the carbon dioxide come from?"
   },
   {
    "q": "Is it fair for one animal to eat another?",
@@ -445,7 +461,7 @@
   {
    "q": "Could an animal live on a planet with no oxygen at all?",
    "kind": "deep",
-   "hint": "Some tiny living things on Earth live where there is no oxygen. How might they get energy?"
+   "hint": "In 2020, scientists found a tiny animal that lives inside fish muscle and does not use oxygen at all. Some bacteria on Earth also live with no oxygen. How might they get energy?"
   },
   {
    "q": "Why did different animals end up with lungs, gills or breathing skin, instead of all having the same?",
@@ -462,10 +478,10 @@
   "title": "The Fish in the Palm Tree",
   "mins": 12,
   "read_aloud": true,
-  "note": "Tranquebar (now Tharangambadi, in Tamil Nadu) was a Danish trading town. A Danish officer, Lieutenant Daldorff, really did report in the 1790s that he saw a climbing perch high on a palmyra palm there, and the fish was named after his report. Selvi, her grandmother and everything they say and do are imagined. The science of how the fish breathes is real.",
+  "note": "Tranquebar (now Tharangambadi, in Tamil Nadu) was a Danish trading town. A Danish officer, Lieutenant Daldorff, really did report in the 1790s that he saw a climbing perch high on a palm there, and his report was published in London in 1797. Selvi, her grandmother, the kite and everything the officer says and does in the story are imagined. The science of how the fish breathes is real.",
   "text": [
    "The summer the tank dried, Selvi learned to hear fish breathing.",
-   "She was nine. She lived in Tranquebar, a town by the sea where the Danish ships came in, and where the white fort sat on the sand like a sleeping cow. Behind her house was the village tank, a square pond with stone steps going down. In March it was full of water lilies. By May it was a brown puddle. By June it was cracked mud, hard as a roof tile.",
+   "She was nine. She lived in Tranquebar, a town by the sea where the Danish ships came in, and where the old Danish fort stood on the sand. Behind her house was the village tank, a square pond with stone steps going down. In March it was full of water lilies. By May it was a brown puddle. By June it was cracked mud, hard as a roof tile.",
    "Every evening her grandmother, Paati, took a short digging stick and went down the steps. Selvi followed with a clay pot. Paati knelt on the cracked mud and tapped it, the way you tap a coconut to hear if it is ripe. Where it sounded soft, she dug. And there, a hand deep in the mud, there were fish.",
    "They were small and greenish, as long as Selvi's hand, with spiny fins and a dark spot near the tail. They were alive. They had been living in that mud for days, with no water at all. Paati dropped them into the pot with a fistful of wet mud and some wet leaves, and nothing else.",
    "'You will kill them,' Selvi said the first time. 'Fish need water.'",
@@ -489,7 +505,7 @@
    "He listened for a long time. Then he looked up at the top of the palm, where the kite had gone. Selvi pointed at the sky, flapped her arms like a kite, opened her fingers and let an invisible fish drop. He watched her. She could not tell if he believed her.",
    "He kept the fish alive in the pot for six days. Every evening Selvi came to sprinkle it, and every evening it gulped its little gulps of air. He drew it many times. He wrote pages and pages. Then the rains came properly, and the tank began to fill, and Selvi carried the pot down the stone steps and tipped the fish into the brown water.",
    "It sank. Then it rose. At the surface, it took one more bubble of air, and was gone.",
-   "Years later, Selvi heard that the leaf man had sent his writing across the sea, to the scientists in England. In their books, the little fish was given a name that meant the climber. Nobody wrote down a girl, a pot of wet mud, or a kite.",
+   "Years later, Selvi heard that the leaf man had sent his writing across the sea, to scientists in London. Later still, a scientist in France gave the fish the name Anabas, which means the one that climbs. Nobody wrote down a girl, a pot of wet mud, or a kite.",
    "Selvi did not mind very much. On summer evenings, she still went down the steps of the dry tank with a digging stick, and knelt, and tapped, and listened for the click."
   ],
   "epiphany": "The climbing perch was alive in the palm tree because it breathes air as well as water. As long as its body stays damp, it can live out of water for hours. So the fish did not have to climb to get up there. A bird could have dropped it, and it would still be alive.",
@@ -604,8 +620,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Lay out the four mats. 2. Shuffle the animal cards. 3. Put the tokens in a bowl.",
-     "say": "Every animal needs oxygen. But they get it in different ways: lungs, gills, damp skin, or tiny air pipes. Let's sort animals by how they breathe.",
-     "kid": "Lay out the four mats. Mix up the animal cards. Each animal needs oxygen. How does it get it?",
+     "say": "Almost every animal needs oxygen. But they get it in different ways: lungs, gills, damp skin, or tiny air pipes. Let's sort animals by how they breathe.",
+     "kid": "Lay out the four mats. Mix up the animal cards. Animals need oxygen. How does each one get it?",
      "context": "This is the first step of Lungs, Gills or Skin? Here you set up the game."
     },
     {
@@ -662,7 +678,7 @@
    "id": "g2",
    "title": "Bat and Moth",
    "mins": 15,
-   "players": "4 or more players, best outdoors or in a big clear room",
+   "players": "4 or more players, in a clear room or outdoors",
    "printables": [
     {
      "kind": "cards",
@@ -687,13 +703,13 @@
     "Everyone stands in a circle holding hands. This is the cave wall.",
     "One player is the bat and wears a blindfold. One is the moth. One or two are trees, who stand still inside the circle.",
     "The bat calls 'Bat!'. The moth must answer 'Moth!' straight away. Trees answer 'Tree!' if the bat is within two steps of them.",
-    "The bat uses the echoes, the answers, to find and tag the moth without touching a tree.",
+    "The moth's answer stands for the echo a real bat hears. The bat follows the answers to find and tag the moth, without touching a tree.",
     "Time each round. Swap roles. The fastest bat wins."
    ],
-   "context": "Bat and Moth is a running game, like the Indian blindfold game, that shows how bats find insects in the dark by echolocation.",
+   "context": "Bat and Moth is a blindfold game. It shows how bats find insects in the dark by echolocation.",
    "setup": [
     {
-     "art": "Children holding hands in a circle on grass, one blindfolded child in the middle with arms out, another child crouching a few steps away.",
+     "art": "Children holding hands in a circle in a cleared living room, one blindfolded child in the middle with arms out, another child crouching a few steps away.",
      "caption": "1. Make a circle. The bat wears a blindfold."
     },
     {
@@ -713,7 +729,7 @@
      "say": "Bats hunt moths at night. Many bats can see, but in the dark they mostly listen. They shout very high sounds and listen for the echo. Our bat will shout 'Bat!' and listen for 'Moth!'.",
      "kid": "Make a circle. The bat wears a blindfold. The bat calls 'Bat!'. The moth must answer 'Moth!'.",
      "adult": true,
-     "parent": "Play on grass or a clear floor. The circle keeps the bat safe. Bats are not blind. Many see well, but they use sound in the dark.",
+     "parent": "Clear the floor of anything sharp or breakable. The circle keeps the bat safe. Bats are not blind. Many see well, but they use sound in the dark.",
      "context": "This is the first step of Bat and Moth. You set up a game that shows how bats hunt with echoes."
     },
     {
@@ -756,7 +772,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Why does every animal need oxygen?",
+     "p": "Why do animals need oxygen?",
      "opts": [
       "Its cells use oxygen to get energy from food",
       "Oxygen makes it heavier",
@@ -764,7 +780,7 @@
       "It doesn't, only people need oxygen"
      ],
      "a": 0,
-     "why": "Every cell uses oxygen to unlock the energy in food. This is respiration. Picking 'only people' is a common idea, but fish, worms, ants and elephants all need oxygen too."
+     "why": "Almost every cell uses oxygen to release the energy in food. This is respiration. Picking 'only people' is a common idea, but fish, worms, ants and elephants all need oxygen too."
     },
     {
      "t": "fill",
@@ -899,13 +915,13 @@
      "p": "In the chuna water test, which glass turned milky first?",
      "opts": [
       "The one with breathed-out air",
-      "The one with room air from a pump",
+      "The one with room air from a bag or pump",
       "Both at the same time"
      ],
      "a": 0,
-     "why": "Carbon dioxide turns chuna water milky, and breathed-out air has much more carbon dioxide than room air. Picking 'both' would mean the two kinds of air were the same, but the test showed they are not.",
+     "why": "Carbon dioxide turns chuna water milky, and breathed-out air has about 100 times as much carbon dioxide as room air. Picking 'both' would mean the two kinds of air were the same, but the test showed they are not.",
      "how": "e2",
-     "context": "In the Chuna Water Test, you bubbled your breath into one glass of chuna water and pumped room air into another."
+     "context": "In the Chuna Water Test, you bubbled your breath into one glass of chuna water and pushed room air into another."
     },
     {
      "t": "order",
@@ -1027,12 +1043,12 @@
      "t": "mcq",
      "p": "The climbing perch can live out of water for hours. What lets it do this?",
      "opts": [
-      "An extra breathing room above its gills that takes oxygen from air",
+      "A labyrinth organ above its gills that takes oxygen from air",
       "It holds its breath for a very long time",
       "It doesn't need oxygen when it's dry"
      ],
      "a": 0,
-     "why": "The climbing perch has a maze-like breathing room above its gills. It can gulp air and take oxygen from it, as long as its body stays damp. Picking 'holds its breath' would only work for a short time."
+     "why": "The climbing perch has a folded, maze-like labyrinth organ above its gills. It gulps air and takes oxygen from it, as long as its body stays damp. Picking 'holds its breath' would only work for a short time."
     },
     {
      "t": "match",
@@ -1132,12 +1148,12 @@
     },
     {
      "t": "write",
-     "p": "In the chuna water test, why did we also pump room air into a second glass?",
+     "p": "In the chuna water test, why did we also push room air into a second glass?",
      "lines": 3,
      "a": "To make it a fair test. We needed to compare breathed-out air with ordinary air. If only the breath glass went milky, we know it was something in the breath, carbon dioxide, and not just bubbles.",
      "why": "A comparison shows that the milkiness comes from what is in breath, not from bubbling.",
      "how": "e2",
-     "context": "In the Chuna Water Test, one glass got breathed-out air and the other got room air from a pump."
+     "context": "In the Chuna Water Test, one glass got breathed-out air and the other got room air from a plastic bag or a pump."
     },
     {
      "t": "mcq",
@@ -1223,7 +1239,7 @@
      "p": "Why can't you see oxygen going into your blood, even though it happens with every breath?",
      "lines": 3,
      "a": "Oxygen is a gas with no colour. It passes into the blood through walls thinner than tissue paper, inside the lungs, where we can't see.",
-     "why": "Some of the most important things in the body happen far too small to see."
+     "why": "Oxygen has no colour, and it passes into the blood deep inside the lungs, through walls far too thin to see."
     },
     {
      "t": "mcq",
@@ -1256,27 +1272,27 @@
     },
     {
      "t": "truefalse",
-     "p": "Every cell in your body uses oxygen, not just your lungs.",
+     "p": "Almost every cell in your body uses oxygen, not just your lungs.",
      "a": true,
-     "why": "True. The lungs only bring oxygen in. Every cell, in your toes, your brain and your eyes, uses it to get energy from food."
+     "why": "True. The lungs only bring oxygen in. Cells in your toes, your brain and your eyes use it to get energy from food. Red blood cells are an exception: they carry oxygen but do not use it."
     },
     {
      "t": "mcq",
-     "p": "The tiny energy parts in your cells, called mitochondria, use oxygen. Where did scientists find out they came from?",
+     "p": "The tiny energy parts in your cells, called mitochondria, use oxygen. Where did scientists find they came from?",
      "opts": [
       "Tiny bacteria that moved into bigger cells long ago",
       "From eating fish",
       "From the air"
      ],
      "a": 0,
-     "why": "Lynn Margulis argued in 1967 that mitochondria came from bacteria living inside bigger cells. DNA tests later showed she was right. So every breath you take feeds tiny partners that were once bacteria."
+     "why": "Lynn Margulis argued in 1967 that mitochondria came from bacteria living inside bigger cells. DNA tests later showed she was right. So the parts of your cells that use oxygen were once bacteria."
     },
     {
      "t": "write",
      "p": "Kamala Sohonie was the first Indian woman to earn a PhD in science, in 1939. She found that plant cells have cytochrome c, a substance animal cells also use in breathing. What does her discovery tell us about plants and animals?",
      "lines": 4,
      "a": "Plants and animals use some of the same parts to breathe. Their cells work in a similar way, even though they look so different.",
-     "why": "Under the skin and the bark, life shares the same tools."
+     "why": "Plants and animals use some of the same chemicals to use oxygen. This makes sense, because all living things share one ancestor."
     },
     {
      "t": "mcq",
@@ -1342,6 +1358,15 @@
      ],
      "a": 0,
      "why": "All three are thin, damp walls with blood underneath. Oxygen passes through into the blood. Picking 'make oxygen' mixes animals up with plants. Plants and algae make oxygen. Animals only take it in."
+    },
+    {
+     "t": "write",
+     "p": "In the chuna water test, your breath turned the water milky. The carbon dioxide in your breath was made in your cells. Where did the carbon in it come from?",
+     "lines": 3,
+     "a": "From my food. My cells used oxygen to break down the food for energy. The carbon in the food came out as carbon dioxide, and I breathed it out.",
+     "why": "Respiration turns food and oxygen into energy, carbon dioxide and water. So part of every meal leaves the body in the breath.",
+     "how": "e2",
+     "context": "In the Chuna Water Test, you bubbled your breath into chuna water and it turned milky."
     }
    ]
   }
@@ -1350,10 +1375,10 @@
   {
    "id": "e1",
    "title": "Breath Count: before and after jumping",
-   "mins": 25,
+   "mins": 33,
    "days": 1,
    "question": "Do we breathe faster after exercise? How much faster?",
-   "predict": "Before you start, guess. How many breaths do you take in one minute while sitting still? Will the number go up, go down or stay the same after one minute of jumping?",
+   "predict": "Before you start, guess. How many breaths do you take in one minute while sitting still? Will the number go up, go down or stay the same after one minute of jumping? Why do you think so?",
    "fair_test": "To make it fair, count in the same way every time: sit in the same chair, and count for the same time. Only one thing changes: resting or just after jumping. Count 3 times for each, because one count can be a fluke.",
    "results_table": [
     "When I counted",
@@ -1364,9 +1389,8 @@
    ],
    "materials": [
     {
-     "item": "a clock, phone or sand timer that shows one minute",
-     "qty": 1,
-     "buy": "b-timer"
+     "item": "a phone, clock or watch that can time one minute",
+     "qty": 1
     },
     {
      "item": "a pencil and the results table",
@@ -1385,7 +1409,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 33,
      "what": "Guess. Count breaths sitting still, 3 times. Jump for one minute. Count again. Draw a bar chart."
     }
    ],
@@ -1461,7 +1485,7 @@
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 14,
      "do": "1. Your child jumps on the spot for one full minute. 2. The moment the minute ends, they sit down. 3. Start the timer straight away and count breaths for one minute. 4. Write the number. 5. Rest three minutes, then repeat twice more.",
      "say": "Now jump on the spot for one whole minute, as fast as is comfortable. The second I say stop, sit down, hand on chest, and we count straight away.",
      "kid": "Jump on the spot for one minute. Then sit down fast. Hand on your chest. Count your breaths for one minute. Write the number.",
@@ -1556,8 +1580,8 @@
    "mins": 25,
    "days": 2,
    "question": "Is the air we breathe out different from the air in the room?",
-   "predict": "Guess first. If we bubble breathed-out air into chuna water, and pump room air into another glass of chuna water, will they look the same at the end?",
-   "fair_test": "Both glasses get the same amount of chuna water, the same straw, and air bubbled in for the same time. Only the kind of air changes: breathed-out air or room air from a bicycle pump.",
+   "predict": "Guess first. We will bubble your breath into one glass of chuna water, and room air into another. Will they look the same at the end? Why do you think so?",
+   "fair_test": "Both glasses get the same amount of chuna water and the same kind of straw, and air is bubbled in for the same time. Only the kind of air changes: your breath, or room air from a plastic bag.",
    "results_table": [
     "Kind of air",
     "How it looked after 30 seconds",
@@ -1579,45 +1603,44 @@
      "qty": 2
     },
     {
-     "item": "a bicycle pump or a balloon pump",
+     "item": "a clean plastic carry bag and a rubber band (or a bicycle pump, if you have one)",
      "qty": 1
     },
     {
-     "item": "a jug of water",
+     "item": "a jug with about 1 litre of tap water",
      "qty": 1
     },
     {
-     "item": "a clock or timer",
-     "qty": 1,
-     "buy": "b-timer"
+     "item": "a phone or clock to time one minute",
+     "qty": 1
     }
    ],
-   "safety": "Chuna is strong and can sting skin and eyes. Only a grown-up mixes it. Never drink chuna water. Blow OUT through the straw only, never suck. Wash hands afterwards. Pour the water down the sink with plenty of water.",
+   "safety": "Chuna is strong and can sting skin and eyes. Only a grown-up mixes it. Never drink chuna water. Blow out through the straw only, never suck. Never put the plastic bag over anyone's head. Wash hands afterwards, and pour the water down the sink with plenty of tap water.",
    "schedule": [
     {
      "day": 1,
      "mins": 5,
-     "what": "A grown-up stirs one teaspoon of chuna into a jug of water and leaves it overnight to settle."
+     "what": "A grown-up stirs one teaspoon of chuna into about a litre of water and leaves it overnight to settle."
     },
     {
      "day": 2,
      "mins": 20,
-     "what": "Pour off the clear chuna water. Bubble breath into one glass and pump room air into the other. Compare."
+     "what": "Pour off the clear chuna water. Bubble breath into one glass and room air from a bag into the other. Compare, and talk about where the carbon dioxide came from."
     }
    ],
    "record": "Draw the two glasses after 2 minutes. Write which one turned milky first. Then write your claim, evidence and reasoning.",
-   "context": "In this experiment you use clear chuna water, which turns milky when carbon dioxide bubbles through it, to find out whether breathed-out air has more carbon dioxide than room air.",
+   "context": "In this experiment you use clear chuna water, which turns milky when carbon dioxide bubbles through it. You find out whether breathed-out air has more carbon dioxide than room air, and where that carbon dioxide comes from.",
    "setup": [
     {
      "art": "A grown-up stirring a spoon of white chuna paste into a steel jug of water, then the jug resting overnight with white powder settled at the bottom.",
      "caption": "1. A grown-up mixes chuna in water. Leave it overnight."
     },
     {
-     "art": "Two clear glasses of clear chuna water side by side: a child blowing gently through a straw into one, a bicycle pump pushing air through a straw into the other.",
-     "caption": "2. Blow breath into one glass. Pump room air into the other."
+     "art": "Two clear glasses of clear chuna water side by side: a child blowing gently through a straw into one, a grown-up squeezing a puffed-up plastic bag tied round a straw into the other.",
+     "caption": "2. Blow breath into one glass. Squeeze room air from a bag into the other."
     },
     {
-     "art": "The same two glasses after two minutes: the breath glass cloudy white like milk, the pump glass still almost clear.",
+     "art": "The same two glasses after two minutes: the breath glass cloudy white like milk, the bag glass still almost clear.",
      "caption": "3. Compare. Which one turned milky?"
     }
    ],
@@ -1625,19 +1648,19 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Day 1. 1. Stir one level teaspoon of edible chuna into a jug of tap water. 2. Leave it covered overnight, away from children.",
-     "say": "This is chuna, the lime paste people put on paan leaves. Mixed with water, it makes a special water that changes when carbon dioxide gets into it. It's strong, so only I touch it.",
+     "do": "Day 1. 1. Stir one level teaspoon of edible chuna into about 1 litre of tap water in a jug. 2. Cover it and leave it overnight, out of children's reach.",
+     "say": "This is chuna, the lime paste people put on paan leaves. Mixed with water, it makes limewater. Limewater changes when carbon dioxide gets into it. Chuna is strong, so only I touch it.",
      "kid": "Today a grown-up mixes chuna in water. Chuna stings, so don't touch it. Tomorrow you will use the clear water.",
      "adult": true,
      "wait": "Leave the jug overnight so the white powder settles.",
-     "parent": "Edible chuna is calcium hydroxide. Mixed with water and settled, the clear liquid on top is limewater, used in school labs. Keep it out of reach overnight.",
+     "parent": "Edible chuna is calcium hydroxide. When it settles, the clear water on top is limewater, the same liquid used in school labs. If the water is still cloudy in the morning, leave it a few more hours.",
      "context": "This is the first step of the Chuna Water Test. A grown-up makes limewater from chuna, the lime paste sold at paan shops."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Day 2. 1. Gently pour the clear water from the top of the jug into two glasses, half full each. Leave the white powder behind. 2. Put a straw in each glass.",
-     "say": "Look, both glasses are clear. Carbon dioxide turns this water milky. Which kind of air do you think has more carbon dioxide: your breath, or the air in this room?",
+     "do": "Day 2. 1. Gently pour the clear water from the top of the jug into two glasses, half full each. Leave the white powder behind. 2. Put a straw in each glass. 3. Open the plastic bag and swing it through the air to fill it. Twist its neck tightly round the top of the second straw. Hold it shut with the rubber band.",
+     "say": "Look, both glasses are clear. Carbon dioxide turns this water milky. Which kind of air do you think has more carbon dioxide: your breath, or the air in this room? Why do you think so?",
      "kid": "Look at the two glasses. Both are clear. Guess. Which will turn milky: your breath or room air?",
      "adult": true,
      "ask": [
@@ -1654,19 +1677,19 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Your child blows gently OUT through the straw in glass 1, for one minute, taking breaths in through the nose. 2. A grown-up pushes the bicycle pump slowly through the straw in glass 2 for the same minute. 3. Check both glasses at 30 seconds, 1 minute and 2 minutes.",
-     "say": "Blow out gently through the straw, slow bubbles. Breathe in through your nose, never through the straw. I'll pump room air into the other glass at the same time.",
-     "kid": "Breathe in through your nose. Blow out gently through the straw. Never suck. Watch the bubbles. A grown-up pumps air in the other glass.",
+     "do": "1. Your child blows gently out through the straw in glass 1 for one minute, breathing in through the nose. 2. At the same time, a grown-up squeezes the bag slowly so room air bubbles out through the straw in glass 2. Refill the bag with air and squeeze again, until the minute is up. 3. Check both glasses at 30 seconds, 1 minute and 2 minutes.",
+     "say": "Blow out gently through the straw, in slow bubbles. Breathe in through your nose, never through the straw. I'll squeeze room air into the other glass at the same time.",
+     "kid": "Breathe in through your nose. Blow out gently through the straw. Never suck. Watch the bubbles. A grown-up squeezes air into the other glass.",
      "adult": true,
-     "parent": "The breath glass usually goes cloudy within 30 seconds to a minute. The pump glass stays nearly clear for many minutes, because room air has only a tiny bit of carbon dioxide. If your child sucks by mistake, rinse their mouth with plenty of water.",
+     "parent": "The breath glass usually goes cloudy within 30 seconds to a minute. The bag glass stays nearly clear, because room air has only a tiny bit of carbon dioxide. Stop at 2 minutes: if you keep blowing for many minutes, the milkiness can clear again. If your child sucks by mistake, rinse their mouth with plenty of water. A bicycle pump works instead of the bag, if you have one.",
      "context": "This is the step where you bubble your breath into one glass of chuna water, and room air into the other."
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 10,
      "do": "Compare the glasses and talk about claim, evidence and reasoning.",
-     "say": "What do you see? The milky colour is chalk, tiny bits of it, made when carbon dioxide meets the chuna. So which air had more carbon dioxide?",
-     "kid": "Which glass turned milky? Milky means carbon dioxide. What does that tell you about your breath?",
+     "say": "What do you see? Which glass turned milky? Why do you think that happened? The milky colour is tiny bits of calcium carbonate, the same material as eggshell. It forms when carbon dioxide meets limewater. So which air had more carbon dioxide?",
+     "kid": "Which glass turned milky? Milky means carbon dioxide. Where did the carbon dioxide in your breath come from?",
      "ask": [
       {
        "q": "Claim: is breathed-out air different from room air?",
@@ -1677,13 +1700,21 @@
       {
        "q": "Evidence?",
        "good": [
-        "The breath glass went milky in under a minute. The pump glass stayed clear."
+        "The breath glass went milky in under a minute. The room-air glass stayed clear."
        ]
       },
       {
        "q": "Reasoning?",
        "good": [
         "My cells use oxygen and make carbon dioxide. My blood carries it to my lungs, and I breathe it out."
+       ]
+      },
+      {
+       "q": "Where do you think the carbon dioxide in your breath came from?",
+       "good": [
+        "From my body.",
+        "My cells made it from the food I ate, when they used oxygen to get energy.",
+        "From my lunch."
        ]
       }
      ],
@@ -1696,9 +1727,10 @@
        "Spit from the straw made it milky"
       ],
       "a": 0,
-      "why": "Carbon dioxide turns chuna water milky, and breathed-out air carries carbon dioxide made by your cells. Picking 'no oxygen at all' is a common mistake. Breathed-out air still has a lot of oxygen, just a bit less. Picking 'spit' is a good scientist's worry. To check, add a few drops of water from a clean straw to the room-air glass. It stays clear."
+      "why": "Carbon dioxide turns chuna water milky, and breathed-out air carries carbon dioxide made by your cells from food. Picking 'no oxygen at all' is a common mistake. Breathed-out air still has a lot of oxygen, just a bit less. Picking 'spit' is a good scientist's worry. To check, drip a few drops of tap water from a clean straw into the room-air glass. It stays clear."
      },
-     "context": "This is the last step of the Chuna Water Test. You compare the two glasses and explain what happened."
+     "context": "This is the last step of the Chuna Water Test. You compare the two glasses and explain what happened.",
+     "parent": "Let your child guess first. Then explain: your cells use oxygen to get energy from food. The carbon in the food comes out as carbon dioxide, and the blood carries it to the lungs. So part of every meal leaves the body in the breath. This is the idea behind the unit's deep truth."
     }
    ]
   },
@@ -1708,7 +1740,7 @@
    "mins": 40,
    "days": 1,
    "question": "How do ants find food? Do they find some foods faster than others?",
-   "predict": "Guess first. We will put out three baits: sugar, salt and a crumb of biscuit. Which will the first ant find? Which will have the most ants after 30 minutes?",
+   "predict": "Guess first. We will put out three baits: sugar, salt and a crumb of biscuit. Which will the first ant find? Which will have the most ants after 30 minutes? Why do you think so?",
    "fair_test": "Put the three baits the same size, the same distance from the ants' path, on the same kind of paper, at the same time. Only the food changes. Count the ants on each bait at 10, 20 and 30 minutes.",
    "results_table": [
     "Bait",
@@ -1726,14 +1758,12 @@
      "qty": 1
     },
     {
-     "item": "a magnifying glass",
-     "qty": 1,
-     "buy": "b-lens"
+     "item": "a magnifying glass, if you have one",
+     "qty": 1
     },
     {
-     "item": "a timer and the results table",
-     "qty": 1,
-     "buy": "b-timer"
+     "item": "a phone or clock, and the results table",
+     "qty": 1
     }
    ],
    "safety": "Use common small black ants, not red fire ants or big biting ants. Watch, don't touch. Clean up the baits afterwards so ants don't come into the kitchen.",
@@ -1748,7 +1778,7 @@
    "context": "In this experiment you put out sugar, salt and biscuit near an ant path, and count how many ants find each one. It shows how ants use smell to find food.",
    "setup": [
     {
-     "art": "Three small white paper squares on a garden path, one with sugar, one with salt, one with a biscuit crumb, each the same distance from a line of small black ants.",
+     "art": "Three small white paper squares on a kitchen floor near a wall, one with sugar, one with salt, one with a biscuit crumb, each the same distance from a line of small black ants.",
      "caption": "1. Put three baits the same distance from an ant path."
     },
     {
@@ -1764,7 +1794,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Go outside, or to a corner where ants already walk. 2. Find a line of small black ants. 3. Put the three paper squares about one hand-length from the line, side by side, a hand-length apart. 4. Put the sugar, salt and biscuit crumb on them.",
+     "do": "1. Find a line of small black ants: in the kitchen, on a window sill or on the balcony. 2. Put the three paper squares about one hand-length from the line, side by side, a hand-length apart. 3. Put the sugar, salt and biscuit crumb on them.",
      "say": "Ants have no noses, but they smell with their feelers, the two thin antennae on their heads. Let's see if they can find our food. Which one do you think they'll find first?",
      "kid": "Find a line of ants. Put three papers near it. Put sugar on one, salt on one, biscuit on one. Which will ants find first?",
      "adult": true,
@@ -1778,7 +1808,8 @@
        ]
       }
      ],
-     "context": "This is the first step of Ant Detectives. You put three kinds of food near an ant path."
+     "context": "This is the first step of Ant Detectives. You put three kinds of food near an ant path.",
+     "parent": "Most Indian homes have small ants somewhere. If you cannot see any, put a pinch of sugar on a paper near a window or balcony crack the day before. Ants usually find it within a day, and you can start the test where they come."
     },
     {
      "id": "s2",
@@ -1865,7 +1896,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a steel tumbler or steel plate, cooled in the fridge for 10 minutes",
+     "item": "a steel tumbler or steel plate, at room temperature",
      "qty": 1
     },
     {
@@ -1877,7 +1908,7 @@
      "qty": 1
     }
    ],
-   "safety": "Nothing to worry about. Just don't put the cold tumbler on your eyes.",
+   "safety": "Nothing in this activity is unsafe.",
    "schedule": [
     {
      "day": 1,
@@ -1886,11 +1917,11 @@
     }
    ],
    "record": "Draw what you saw on the tumbler and the tissue. Write one thing you noticed and one thing you wonder.",
-   "context": "This is a short noticing activity to start the unit. You breathe on cold steel, a mirror and a tissue, and notice what your breath does.",
+   "context": "This is a short noticing activity to start the unit. You breathe on steel, a mirror and a tissue, and notice what your breath does.",
    "setup": [
     {
-     "art": "A child breathing out slowly onto a shiny cold steel tumbler, a misty patch forming on it.",
-     "caption": "1. Breathe out slowly onto a cold steel tumbler."
+     "art": "A child breathing out slowly onto a shiny steel tumbler, a misty patch forming on it.",
+     "caption": "1. Breathe out slowly onto a steel tumbler."
     },
     {
      "art": "The child holding a thin strip of tissue under the nose, the tissue fluttering outwards.",
@@ -1905,9 +1936,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Take the steel tumbler out of the fridge. 2. Your child breathes out slowly onto it, three times. 3. Then onto the mirror. 4. Then holds a tissue strip under their nose and breathes in and out.",
-     "say": "Breathe out slowly onto the cold steel. What appears? Now hold the tissue under your nose. What does it do when you breathe in? When you breathe out?",
-     "kid": "Breathe out on the cold steel. What do you see? Hold the tissue under your nose. Watch it move.",
+     "do": "1. Hold the steel tumbler close to your child's mouth. 2. Your child breathes out slowly onto it, three times. 3. Then onto the mirror. 4. Then they hold a tissue strip under their nose and breathe in and out.",
+     "say": "Breathe out slowly onto the steel. What appears? Now hold the tissue under your nose. What does it do when you breathe in? When you breathe out?",
+     "kid": "Breathe out on the steel. What do you see? Hold the tissue under your nose. Watch it move.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -1926,8 +1957,8 @@
        ]
       }
      ],
-     "parent": "The mist is water. Breath is warm and damp, and the water in it turns into tiny drops on cold steel. Don't explain more yet. The unit will answer the child's wonders.",
-     "context": "This is the first step of Breath on a Steel Tumbler. You breathe on cold steel and a tissue and notice what happens."
+     "parent": "The mist is water. Breath is warm and full of water vapour, a gas. On the cooler steel, the vapour condenses: it turns into tiny drops. If the steel does not mist on a very hot day, cool it under the tap for a minute and dry it. Don't explain more yet. The unit will answer the child's wonders.",
+     "context": "This is the first step of Breath on a Steel Tumbler. You breathe on steel and a tissue and notice what happens."
     },
     {
      "id": "s2",
@@ -1937,14 +1968,14 @@
      "kid": "Close your eyes. One hand on your chest. One hand on your belly. Breathe. Which hand moves? Now take a big, slow breath.",
      "check": {
       "t": "mcq",
-      "q": "Your breath made the cold steel tumbler misty. What is the mist?",
+      "q": "Your breath made the steel tumbler misty. What is the mist?",
       "options": [
        "Tiny drops of water from your breath",
        "Smoke from inside your body",
        "Oxygen you can see"
       ],
       "a": 0,
-      "why": "Your breath is warm and damp. When it touches cold steel, the water in it turns into tiny drops, just like drops on a cold glass of water. Picking 'smoke' means thinking breathing is like burning, which is partly a good idea, but there is no smoke. Oxygen has no colour, so you can never see it."
+      "why": "Your breath is warm and full of water vapour. When it touches cooler steel, the vapour turns into tiny drops, just like the drops on a cold glass of water. Picking 'smoke' means thinking breathing is like burning. That is partly a good idea, because cells do use oxygen to get energy from food, but there is no smoke. Oxygen has no colour, so you can never see it."
      },
      "think": "You breathed out water. Where did that water come from? A fish lives in water. How does it breathe?",
      "context": "This is the step where you feel your chest and belly move as you breathe."
@@ -2007,7 +2038,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. A grown-up cuts off the bottom third of the bottle and tapes the edge. 2. Push one balloon into the bottle neck, stretching its mouth over the outside of the neck. 3. Tie a knot in the second balloon, cut off its top half, and stretch the rest over the open bottom of the bottle. 4. Tape it so it is airtight.",
+     "do": "1. A grown-up cuts off the bottom third of the bottle and tapes the edge. 2. Push one balloon into the bottle neck, stretching its mouth over the outside of the neck. 3. Tie a knot in the second balloon and cut off its wide top half. Stretch the knotted part over the open bottom of the bottle. 4. Tape it so it is airtight.",
      "say": "We're going to build a lung. The balloon inside is the lung. The bottle neck is the windpipe. The stretchy balloon at the bottom is the diaphragm, the muscle under your lungs.",
      "kid": "A grown-up cuts the bottle. Put one balloon inside the neck. Stretch the other over the bottom. That one is your diaphragm.",
      "adult": true,
@@ -2077,13 +2108,12 @@
    "days": 1,
    "materials": [
     {
-     "item": "a fish to watch: a home aquarium, a pet shop tank, a temple tank or pond, or a fish at the market",
+     "item": "a fish to watch: a home aquarium, an aquarium shop, a pond, or live fish at the market",
      "qty": 1
     },
     {
-     "item": "a timer",
-     "qty": 1,
-     "buy": "b-timer"
+     "item": "a phone or clock to time one minute",
+     "qty": 1
     },
     {
      "item": "a notebook and pencil",
@@ -2173,7 +2203,7 @@
   {
    "id": "a4",
    "title": "Flat or Frilly? The gill shape test",
-   "mins": 25,
+   "mins": 20,
    "days": 1,
    "materials": [
     {
@@ -2185,7 +2215,7 @@
      "qty": 1
     },
     {
-     "item": "two clothes pegs and a string to hang them",
+     "item": "two clothes pegs and a string, or a clothes-drying stand",
      "qty": 1
     },
     {
@@ -2193,16 +2223,15 @@
      "qty": 1
     },
     {
-     "item": "a timer",
-     "qty": 1,
-     "buy": "b-timer"
+     "item": "a phone or clock",
+     "qty": 1
     }
    ],
    "safety": "Use child-safe scissors. Wipe up any spilled water.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 20,
      "what": "Flat or Frilly? The gill shape test"
     }
    ],
@@ -2226,7 +2255,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Take two paper towels the same size. 2. Crumple one tightly into a ball. 3. Cut the other into thin strips, like a comb, leaving the top edge joined. 4. Dip both in water for 5 seconds, and squeeze each gently once. 5. Hang them side by side.",
+     "do": "1. Take two paper towels the same size. 2. Crumple one tightly into a ball. 3. Cut the other into thin strips, like a comb, leaving the top edge joined. 4. Dip both in water for 5 seconds, and squeeze each gently once. 5. Hang them side by side, under a fan if you have one.",
      "say": "Water leaves a wet towel through its surface, the outside that touches the air. Gills and lungs take oxygen in through their surface too. Which towel do you think has more surface touching the air?",
      "kid": "Crumple one towel into a ball. Cut the other into thin strips. Wet both. Hang them up. Which one has more outside touching the air?",
      "ask": [
@@ -2242,8 +2271,8 @@
     },
     {
      "id": "s2",
-     "mins": 12,
-     "do": "Every 10 minutes, gently touch both towels and note how wet they feel: wet, damp or dry. Stop when one is dry.",
+     "mins": 5,
+     "do": "Every 10 minutes, for about 40 minutes, gently touch both towels and note how they feel: wet, damp or dry. Each check takes a minute, so do something else in between.",
      "say": "Let's check. Touch them gently. Which feels drier? The water is leaving through the surface, just as oxygen enters through the surface of a gill.",
      "kid": "Every 10 minutes, touch both towels. Wet, damp or dry? Write it down.",
      "parent": "The frilly towel usually dries much faster, often in half the time or less. Same paper, same water. Only the shape changed. That's why it's a fair test.",
@@ -2251,7 +2280,7 @@
     },
     {
      "id": "s3",
-     "mins": 5,
+     "mins": 7,
      "do": "Talk about what the result means for gills and lungs.",
      "say": "Same paper, same water, but the frilly one let the water out much faster. Gills are frilly. Lungs have millions of tiny bubbles. What's the trick?",
      "kid": "The frilly one dried faster. Gills are frilly too. Lungs have millions of tiny bubbles. Why?",
@@ -2282,7 +2311,7 @@
      "qty": 5
     },
     {
-     "item": "a smelly snack, like a piece of banana, an elaichi pod or a little vanilla on cotton",
+     "item": "a smelly snack, like a piece of banana, a crushed elaichi pod or a little vanilla essence on cotton",
      "qty": 1
     },
     {
@@ -2360,9 +2389,8 @@
    "days": 1,
    "materials": [
     {
-     "item": "a timer or a clock with a second hand",
-     "qty": 1,
-     "buy": "b-timer"
+     "item": "a phone or clock with a seconds hand",
+     "qty": 1
     },
     {
      "item": "a notebook to record times",
@@ -2378,7 +2406,7 @@
     }
    ],
    "record": "Write your comfortable breath-hold time and the times of others in the family. Compare them with the animal times on the chart.",
-   "context": "In this activity, from the founder's Yoga Week, you time how long you can comfortably hold your breath, then compare it with animals that hold their breath to hunt underwater.",
+   "context": "In this activity you time how long you can comfortably hold your breath. Then you compare it with animals that hold their breath to hunt underwater.",
    "setup": [
     {
      "art": "A child sitting cross-legged on a mat, cheeks gently closed, a grown-up holding a timer.",
@@ -2389,7 +2417,7 @@
      "caption": "2. Time everyone in the family. Write down the times."
     },
     {
-     "art": "A picture chart comparing a child, a Ganges river dolphin, a sea turtle and a deep-diving whale, with clocks.",
+     "art": "A picture chart comparing a child, a Ganges river dolphin, a sea turtle and a sperm whale, each with a clock.",
      "caption": "3. Compare with animals that hunt underwater."
     }
    ],
@@ -2427,10 +2455,6 @@
         "about 1 to 2 minutes"
        ],
        [
-        "Otter",
-        "a few minutes"
-       ],
-       [
         "Sea turtle, resting",
         "an hour or more"
        ],
@@ -2449,7 +2473,7 @@
        "They come up to drink rain"
       ],
       "a": 0,
-      "why": "Dolphins have lungs, not gills. They can only get oxygen from air, through the blowhole on top of the head. Picking 'look around' is a good guess, because Ganges dolphins are nearly blind and find food by echo. But the real reason is breathing."
+      "why": "Dolphins have lungs, not gills. They can only get oxygen from air, through the blowhole on top of the head. Picking 'look around' is a fair guess, because many animals pop up to look. But Ganges river dolphins are nearly blind and find food by echoes. They come up to breathe."
      },
      "context": "This is the step where you compare your breath-hold with animals that hold their breath to hunt underwater."
     }
@@ -2462,20 +2486,19 @@
    "days": 1,
    "materials": [
     {
-     "item": "tools: a straw, a tea strainer, a clothes peg, a pair of chopsticks or tweezers, a spoon",
+     "item": "tools: a straw, a tea strainer, a clothes peg, a pair of tweezers or two ice-cream sticks, a spoon",
      "qty": 1
     },
     {
-     "item": "foods: a bowl of water or juice, a bowl of water with poha or rice flakes floating in it, a few rubber bands or cooked noodles in a tray of mud or atta, some peanuts",
+     "item": "foods: a bowl of water or juice, a bowl of water with poha floating in it, a few cooked noodles hidden in a tray of dry atta, some peanuts",
      "qty": 1
     },
     {
-     "item": "a one-minute timer",
-     "qty": 1,
-     "buy": "b-timer"
+     "item": "a phone or clock to time 30 seconds",
+     "qty": 1
     }
    ],
-   "safety": "Use clean tools if you plan to eat any food. Don't run with chopsticks or tweezers.",
+   "safety": "Use clean tools if you plan to eat any food. Don't run with the tweezers or sticks.",
    "schedule": [
     {
      "day": 1,
@@ -2487,7 +2510,7 @@
    "context": "In this activity you pretend different kitchen tools are animal mouths. You find which tool is best at which food, to see how animal mouths fit the way they get food.",
    "setup": [
     {
-     "art": "A table with a straw, a tea strainer, a clothes peg, chopsticks and a spoon, and bowls of juice, floating poha, noodles in atta and peanuts.",
+     "art": "A table with a straw, a tea strainer, a clothes peg, tweezers and a spoon, and bowls of juice, floating poha, noodles in atta and peanuts.",
      "caption": "1. Lay out the tool mouths and the foods."
     },
     {
@@ -2495,7 +2518,7 @@
      "caption": "2. Try each tool on each food for 30 seconds."
     },
     {
-     "art": "A chart with pictures matching the straw to a butterfly, the strainer to a flamingo, chopsticks to a heron and the peg to a parrot.",
+     "art": "A chart with pictures matching the straw to a butterfly, the strainer to a flamingo, the tweezers to a heron and the peg to a parrot.",
      "caption": "3. Match each tool to an animal with that kind of mouth."
     }
    ],
@@ -2510,7 +2533,7 @@
       {
        "q": "Which tool was best at the noodles in the atta?",
        "good": [
-        "The chopsticks or tweezers, like a long beak poking in mud."
+        "The tweezers or sticks, like a long beak poking in mud."
        ]
       },
       {
@@ -2526,8 +2549,8 @@
      "id": "s2",
      "mins": 6,
      "do": "Match each tool to an animal and talk about it.",
-     "say": "Your straw is like a butterfly's long tongue, sipping nectar. The strainer is like a flamingo's beak, sieving tiny food. The chopsticks are like a heron's or a snipe's beak, poking in mud. The peg is like a parrot's strong beak, cracking nuts.",
-     "kid": "Straw: butterfly. Strainer: flamingo. Chopsticks: heron. Peg: parrot cracking nuts. Which was your favourite?",
+     "say": "Your straw is like a butterfly's long tongue, sipping nectar. The strainer is like a flamingo's beak, sieving tiny food. The tweezers are like a heron's long beak, picking up food. The peg is like a parrot's strong beak, gripping a nut.",
+     "kid": "Straw: butterfly. Strainer: flamingo. Tweezers: heron. Peg: parrot. Which was your favourite?",
      "check": {
       "t": "mcq",
       "q": "A flamingo eats tiny shrimps floating in lake water. In the buffet, which tool worked like its beak?",
@@ -2556,9 +2579,8 @@
      "qty": 1
     },
     {
-     "item": "a timer",
-     "qty": 1,
-     "buy": "b-timer"
+     "item": "a phone or clock to time one minute",
+     "qty": 1
     },
     {
      "item": "coloured pencils",
@@ -2780,13 +2802,13 @@
   },
   {
    "id": "c2",
-   "title": "Build a Better Gill",
+   "title": "Build a Filter-Feeder's Sieve",
    "mins": 30,
-   "problem": "Tiny bits of food float in water, just as oxygen does. Gills and filter feeders catch what they need from water flowing past. Build a filter that catches as many floating tea leaves as possible from one jug of water poured through it.",
+   "problem": "Flamingos and whale sharks sieve tiny bits of food out of the water flowing past them. A good sieve must catch the food and still let the water through quickly. Build a filter that catches the used tea leaves from one jug of water, and lets the water through as fast as possible.",
    "constraints": [
     "Use one jug of water with one spoon of used tea leaves stirred in.",
     "Pour it through your filter into a bowl in one steady pour.",
-    "Count or weigh the tea leaves your filter catches, and compare designs."
+    "Time how long the water takes to pass through, and look in the bowl for leaves that got through."
    ],
    "materials": [
     "a jug of water and a spoon of used tea leaves",
@@ -2795,17 +2817,17 @@
     "a bowl"
    ],
    "general": [
-    "A tea strainer catches big leaves but lets tiny bits through.",
-    "A cloth catches more, but water flows through slowly.",
-    "Several layers catch more than one layer."
+    "A tea strainer lets water through fast, but tiny bits of leaf get through too.",
+    "A cloth catches every bit, but water flows through it slowly.",
+    "Two filters, a coarse one first and a fine one second, can catch more without clogging."
    ],
    "creative": [
-    "Fold the cloth into pleats, like gill threads, to make more surface.",
-    "Whale sharks and flamingos use sieves, but gills use thin walls and blood flowing the other way. Can you make water pass slowly over a big surface?",
-    "Use two filters one after the other, a coarse one first and a fine one second."
+    "Fold the cloth into pleats, so there is more cloth for the water to pass through in the same funnel.",
+    "A fish's gills are also folded into many thin threads, so that a lot of water touches a lot of surface. Can your filter give the water more surface?",
+    "Flamingos pump water through their beaks with their tongues. Can you help the water through without pushing the leaves through too?"
    ],
-   "your_turn": "Now invent your own filter. Draw it, test it, and count how many leaves it catches. Can you beat your best design?",
-   "context": "This is an engineering challenge. You build a filter that catches floating tea leaves from water, to see why gills and filter-feeding mouths have lots of surface.",
+   "your_turn": "Now invent your own filter. Draw it, test it, and time it. Can you beat your best design?",
+   "context": "This is an engineering challenge. You build a filter that catches floating tea leaves from water, to see why sieving mouths and gills have so much surface.",
    "setup": [
     {
      "art": "A jug of water with used tea leaves swirling in it, next to a funnel made from a cut plastic bottle over a bowl.",
@@ -2816,8 +2838,8 @@
      "caption": "2. Pour the water through your filter."
     },
     {
-     "art": "A child counting tea leaves caught on the cloth, spread on a plate.",
-     "caption": "3. Count the leaves your filter caught."
+     "art": "A child timing the pour with a phone while tea-leaf water drips through a pleated cloth in a bottle funnel.",
+     "caption": "3. Time the pour. Look for leaves in the bowl."
     }
    ],
    "flow": [
@@ -2825,27 +2847,27 @@
      "id": "s1",
      "mins": 8,
      "do": "1. A grown-up cuts the top off a plastic bottle to make a funnel. 2. Stir one spoon of used tea leaves into a jug of water. 3. Try the tea strainer first, as the test to beat.",
-     "say": "Let's start with the tea strainer. Pour slowly. How many leaves did it catch? How many got through into the bowl?",
-     "kid": "A grown-up makes a funnel. Pour the tea-leaf water through a tea strainer. How many leaves got through?",
+     "say": "Let's start with the tea strainer. Pour slowly. How long did the water take? Did any bits of leaf get into the bowl?",
+     "kid": "A grown-up makes a funnel. Pour the tea water through a tea strainer. Time it. Did leaves get through?",
      "adult": true,
-     "context": "This is the first step of Build a Better Gill. You test a tea strainer as the filter to beat."
+     "context": "This is the first step of Build a Filter-Feeder's Sieve. You test a tea strainer as the filter to beat."
     },
     {
      "id": "s2",
      "mins": 16,
-     "do": "Your child designs, builds and tests two or three filters, counting the leaves each catches.",
-     "say": "Now design your own. Think about gills. They're folded into many thin threads to make lots of surface. Can your filter do the same?",
-     "kid": "Build your own filter. Pour the tea water through. Count the leaves it caught. Try again and make it better.",
+     "do": "Your child designs, builds and tests two or three filters, timing each pour and checking the bowl for leaves.",
+     "say": "Now design your own. A cloth catches everything, but it is slow. How could you make water go through a cloth faster?",
+     "kid": "Build your own filter. Pour the tea water through. Time it. Try again and make it better.",
      "check": {
       "t": "mcq",
-      "q": "In Build a Better Gill, a pleated cloth caught more tea leaves than a flat cloth. Why?",
+      "q": "A pleated cloth caught all the tea leaves, just like a flat cloth, but the water went through faster. Why?",
       "options": [
-       "Pleats give more surface for the water to pass over",
+       "Pleats give more cloth for the water to pass through",
        "Pleats make the water colder",
        "Pleated cloth is heavier"
       ],
       "a": 0,
-      "why": "Folding the cloth into pleats packs more surface into the same space. More surface catches more. Gills are folded into many thin threads for the same reason. Picking 'colder' or 'heavier' is guessing at other changes. In a fair test, the only thing we changed was the folding."
+      "why": "Folding the cloth into pleats packs more cloth into the same funnel, so more water can pass through at once. Gills are folded into many thin threads for the same reason: more surface lets more water touch them. Picking 'colder' or 'heavier' is guessing at other changes. We only changed the folding."
      },
      "context": "This is the step where you design and test your own filters."
     },
@@ -2853,10 +2875,10 @@
      "id": "s3",
      "mins": 6,
      "do": "Compare the designs. Talk about how real gills differ from filters.",
-     "say": "Real gills don't trap oxygen like leaves. Oxygen passes through thin walls into blood. But the trick is the same: lots of surface, close to the water.",
-     "kid": "Which filter won? Real gills also use lots of surface. That's the same trick.",
+     "say": "Real gills don't trap oxygen like leaves. Oxygen passes through thin walls into blood. But both need lots of surface, with lots of water flowing past.",
+     "kid": "Which filter was fastest? Real gills also have lots of surface.",
      "think": "A filter catches things. A gill lets oxygen pass through into blood. How are they alike, and how are they different?",
-     "context": "This is the last step of Build a Better Gill. You compare designs and connect them to real gills."
+     "context": "This is the last step of Build a Filter-Feeder's Sieve. You compare designs and connect them to real gills."
     }
    ]
   }
@@ -2890,14 +2912,14 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Why does every animal need oxygen?",
+   "p": "Why do animals need oxygen?",
    "opts": [
     "Its cells use oxygen to get energy from food",
     "Only to make its blood red",
     "It doesn't. Only land animals need oxygen"
    ],
    "a": 0,
-   "why": "Every cell uses oxygen to unlock energy from food. Picking 'only land animals' is a common idea, but fish, crabs and worms need oxygen too. They just get it in different ways.",
+   "why": "Almost every cell uses oxygen to release energy from food. Picking 'only land animals' is a common idea, but fish, crabs and worms need oxygen too. They just get it in different ways.",
    "outcome": 0
   },
   {
@@ -2980,7 +3002,7 @@
    "why": "Carbon dioxide turns chuna water milky. Breathed-out air carries carbon dioxide from your cells. Picking 'no oxygen' is a common mistake. Breathed-out air still has about 16 parts in 100 oxygen.",
    "outcome": 3,
    "how": "e2",
-   "context": "In the Chuna Water Test, you bubbled breath into one glass of chuna water and pumped room air into the other."
+   "context": "In the Chuna Water Test, you bubbled breath into one glass of chuna water and pushed room air from a bag into the other."
   },
   {
    "t": "mcq",
@@ -3058,13 +3080,27 @@
    "t": "mcq",
    "p": "Your lungs bring oxygen in. Which parts of you actually use it?",
    "opts": [
-    "Every cell in your body",
+    "Almost every cell in your body",
     "Only your lungs",
     "Only your heart"
    ],
    "a": 0,
-   "why": "The lungs are like a door. The blood carries oxygen to every cell, from your toes to your brain. Each cell uses it to get energy from food. Picking 'only lungs' is the most common mix-up. Breathing and using oxygen happen in different places.",
+   "why": "The lungs are like a door. The blood carries oxygen to the cells, from your toes to your brain. Each cell uses it to get energy from food. Picking 'only lungs' is the most common mix-up. Taking in oxygen and using it happen in different places.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Your breath turned chuna water milky because it has carbon dioxide in it. Where did the carbon in that gas come from?",
+   "opts": [
+    "From the food you ate",
+    "From the chuna",
+    "From the room air you breathed in"
+   ],
+   "a": 0,
+   "why": "Your cells use oxygen to get energy from food, and the carbon in the food comes out as carbon dioxide. Picking 'room air' is a fair guess, but room air has about 100 times less carbon dioxide than your breath. Picking 'the chuna' mixes up the test with the thing being tested.",
+   "outcome": 7,
+   "how": "e2",
+   "context": "In the Chuna Water Test, you bubbled your breath into chuna water and it turned milky."
   }
  ],
  "applications": [
@@ -3079,7 +3115,7 @@
   "Fish sellers and buyers check bright red gills to see if fish is fresh.",
   "Pranayama and slow breathing are used to calm the body and mind.",
   "Scientists measure the oxygen in rivers to check how healthy the water is for fish.",
-  "Engineers copy bird and insect breathing ideas when designing better air filters and machines."
+  "During operations, doctors measure the carbon dioxide in a patient's breath, to check that the body is using oxygen and the lungs are working."
  ],
  "spotted": [
   {
@@ -3119,7 +3155,7 @@
    "art": "An aquarium with a bubbling air stone."
   },
   {
-   "text": "Your own misty breath on a cold winter morning, or on a cold steel tumbler.",
+   "text": "Your own misty breath on a cold winter morning, or on a steel tumbler.",
    "art": "A child breathing a little cloud on a foggy morning."
   }
  ],
@@ -3142,7 +3178,7 @@
   },
   {
    "q": "Why were some insects giant long ago?",
-   "why_open": "About 300 million years ago there were dragonfly-like insects with wings as wide as a school ruler is long. Some scientists think the air had more oxygen then, which helped insects' air pipes. Others think there were other reasons."
+   "why_open": "About 300 million years ago there were dragonfly-like insects with wings about as wide as two school rulers end to end. Some scientists think the air had more oxygen then, which helped insects' air pipes. Others think there were other reasons."
   },
   {
    "q": "How do bar-headed geese fly in such thin air?",
@@ -3168,8 +3204,8 @@
  ],
  "jokes": [
   {
-   "j": "Why did the fish blush?",
-   "a": "Because it saw the ocean's bottom."
+   "j": "Which fish comes out only at night?",
+   "a": "A starfish."
   },
   {
    "j": "What do you call a fish with no eyes?",
@@ -3366,6 +3402,15 @@
     ]
    },
    "why_maths": "Finding the difference shows how much your body changes its breathing to match what you are doing."
+  },
+  {
+   "problem": "In 10,000 drops of room air, about 4 are carbon dioxide. In 10,000 drops of breathed-out air, about 400 are carbon dioxide. How many times as much carbon dioxide is in your breath? Does that fit what you saw in the chuna water test?",
+   "answer": "100 times as much. Yes: the breath glass turned milky fast, and the room-air glass stayed almost clear.",
+   "explain": "400 divided by 4 is 100, because 4 times 100 is 400. With 100 times as much carbon dioxide, breath turns limewater milky much faster than room air does.",
+   "math_unit": "math.division.division-facts.L3",
+   "how": "e2",
+   "context": "This is about the Chuna Water Test, where your breath turned chuna water milky but room air hardly changed it.",
+   "why_maths": "A number like '100 times as much' explains why one glass went milky in a minute while the other stayed clear."
   }
  ],
  "song": {
@@ -3450,23 +3495,6 @@
  ],
  "buy": [
   {
-   "id": "b-timer",
-   "item": "A simple digital timer or sand timer of one minute",
-   "kind": "tool",
-   "why": "For counting breaths, gill beats and ants for exactly one minute.",
-   "url": "https://www.amazon.in/s?k=digital+kitchen+timer",
-   "used_in": [
-    "e1",
-    "e2",
-    "e3",
-    "a3",
-    "a4",
-    "a6",
-    "a7",
-    "p1"
-   ]
-  },
-  {
    "id": "b-chuna",
    "item": "Edible chuna (lime paste), a small tub",
    "kind": "material",
@@ -3474,16 +3502,6 @@
    "url": "https://www.amazon.in/s?k=edible+chuna+lime+paste",
    "used_in": [
     "e2"
-   ]
-  },
-  {
-   "id": "b-lens",
-   "item": "A magnifying glass",
-   "kind": "tool",
-   "why": "For watching ants, earthworms and insect spiracles up close.",
-   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
-   "used_in": [
-    "e3"
    ]
   },
   {
@@ -3528,7 +3546,7 @@
    "a": "Faster, because our muscles need more oxygen."
   },
   {
-   "q": "What gas do all animals need?",
+   "q": "What gas do almost all animals need?",
    "a": "Oxygen."
   },
   {
@@ -3549,7 +3567,7 @@
   },
   {
    "q": "Which parts of you use oxygen?",
-   "a": "Every cell in your body."
+   "a": "Almost every cell in your body."
   }
  ],
  "plan": {
@@ -3557,11 +3575,11 @@
    "intro",
    "a1",
    "story",
+   "e2",
    "e1",
    "g1",
    "big_questions",
-   "cards",
-   "e2"
+   "cards"
   ],
   "default_order": [
    "intro",
@@ -3609,7 +3627,7 @@
   "spine": [
    "intro",
    "a1",
-   "e1",
+   "e2",
    "explanations",
    "story",
    "roots",
@@ -3634,59 +3652,68 @@
    "Griffin and Galambos, Journal of Experimental Zoology 1941 (bats use ultrasound to avoid obstacles)",
    "Sagan (Margulis), Journal of Theoretical Biology 1967 (On the origin of mitosing cells)",
    "Daldorff, Transactions of the Linnean Society of London, 1797 (the climbing perch report from Tranquebar)",
-   "Darwin, On the Origin of Species, 1859, chapter 6 (swim bladder and lungs)"
+   "Darwin, On the Origin of Species, 1859, chapter 6 (swim bladder and lungs)",
+   "Meerman and Brown, BMJ 2014, 'When somebody loses weight, where does the fat go?' (most lost fat leaves as exhaled carbon dioxide)",
+   "Yahalomi et al., Proceedings of the National Academy of Sciences 2020 (Henneguya salminicola, an animal that does not use oxygen)",
+   "Lavoisier and Laplace, Memoir on Heat, 1783 (the guinea pig in the ice calorimeter)"
   ]
  },
  "roots": {
-  "context": "We have been learning how animals breathe and find food. Now we ask what breathing tells us about ourselves and the world.",
+  "context": "We have seen what is in our breath, and how animals breathe and find food. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Breathing is not something only lungs do. Every cell breathes, and every breath is a swap with the whole living world.",
-   "habit": "We say 'lungs' or 'gills' for breathing, and we think the air outside is separate from the body inside. But lungs, gills and skin are only doors. The breathing happens in every cell, and the air in you a moment ago is now outside, on its way to a tree.",
-   "evidence": "An earthworm has no lungs and breathes through its skin. A fish breathes through gills. They all do the same thing: let oxygen through a thin, damp wall to every cell. And the oxygen itself was breathed out by plants and tiny sea algae."
+   "truth": "Your breath turned clear chuna water milky, but room air hardly changed it. The milkiness comes from carbon dioxide, which your cells make as they use food. The carbon in that gas came from the food you ate. So part of every meal leaves your body in your breath.",
+   "habit": "We think of eating and breathing as two separate jobs, and we think food leaves the body only as poo and wee. In fact, much of the food we digest leaves through the lungs. Eating and breathing meet in every cell.",
+   "evidence": "In the chuna water test, the glass with your breath turned milky within a minute, and the glass with room air stayed almost clear. Breathed-out air has about 100 times as much carbon dioxide as room air. In 2014, two scientists worked out that most of the fat a person loses leaves through the lungs, as carbon dioxide."
   },
   "three": {
-   "who_am_i": "You are millions of millions of breathing cells, working together. Some of their tiny parts were once free-living bacteria.",
-   "what_is_life": "Life is a constant swap. Animals take in oxygen and give out carbon dioxide. Plants take in carbon dioxide and give out oxygen.",
-   "what_is_this_world": "The air is shared by everything that breathes. The same air has been in fish, frogs, trees and people."
+   "who_am_i": "You are millions of millions of cells, and almost every one uses oxygen to get energy from food. The tiny parts that do this were once free-living bacteria.",
+   "what_is_life": "To stay alive, an animal must keep finding food and keep breathing, because its cells use both all the time.",
+   "what_is_this_world": "Plants use sunlight to make food and oxygen from carbon dioxide and water. Animals use that food and oxygen, and give the carbon dioxide back."
   },
-  "thread": "DeepKids believes that the One shows up as the many. Breathing shows it plainly. There is one need, for oxygen, and it shows up as many doors: lungs, gills, damp skin, tiny air pipes. Behind every door, the same thing happens in every cell. And the air itself is one air, passed from plant to animal to plant, around the whole Earth.",
+  "thread": "Plants use the Sun's light to join carbon dioxide and water into food, and they give out oxygen. Animals find that food with their senses, and take in that oxygen with lungs, gills or skin. Their cells join the two again, take out the energy, and breathe out carbon dioxide and water. Plants take those back in and use them again. So one circle of the same carbon, water and oxygen runs through every plant and animal, driven by the Sun.",
   "teachings": [
    {
-    "source": "Chandogya Upanishad 5.1",
-    "teaching": "Speech, sight, hearing and mind once argued about which of them was the greatest. Each one left the body for a year, and the body carried on. Then breath, prana, began to leave, and all the others were pulled along with it. They agreed that breath was the greatest.",
-    "link": "Every animal, whatever its doors, depends on breath first. Without oxygen reaching its cells, no sense and no thought can work."
+    "source": "Taittiriya Upanishad 3.2 and 3.3",
+    "teaching": "The boy Bhrigu asks his father Varuna what the source of everything is. Bhrigu first understands that food is that source: from food all beings are born, by food they live, and into food they return. Then he understands that breath, prana, is the source too.",
+    "link": "In this unit, food and breath meet in every cell. Your body is built from food, it uses oxygen to get energy from that food, and part of the food goes back out in your breath."
    },
    {
-    "source": "Kabir, in Robert Bly's version, The Kabir Book (1977)",
-    "teaching": "Kabir asks: what is God? And he answers: the breath inside the breath.",
-    "link": "Inside each breath is a breath we never feel: oxygen passing into every cell. Kabir points at something even deeper, inside that."
+    "source": "Bhagavad Gita 3.14 to 3.16",
+    "teaching": "Krishna says that beings come from food, and food comes from rain. He calls this a wheel that keeps turning, in which each part gives to the next.",
+    "link": "Science finds a circle too. Plants make food from rain water, air and light. Animals eat it, and breathe out the carbon dioxide that plants use to make more food."
    }
   ],
   "science": [
    {
-    "text": "Almost all the oxygen in the air was made by living things that use sunlight: tiny ocean living things first, more than two billion years ago, then plants. Today, roughly half still comes from algae in the sea.",
+    "text": "Almost all the oxygen in the air was made by living things that use sunlight: tiny ocean living things first, more than two billion years ago, then plants. Today, roughly half still comes from tiny algae in the sea.",
     "status": "settled"
    },
    {
-    "text": "The tiny energy parts inside our cells, mitochondria, which use the oxygen we breathe, came from bacteria that started living inside bigger cells long ago.",
+    "text": "The tiny parts inside our cells that use oxygen, called mitochondria, came from bacteria that started living inside bigger cells long ago.",
     "status": "settled"
    }
   ],
   "other_view": {
    "who": "The Charvaka school of ancient India, and many scientists today",
-   "view": "Breathing is chemistry: gases passing through walls. It is wonderful, but it needs no One behind it. Body and air are simply different bits of matter meeting. That is an honest view, and it explains breathing well."
+   "view": "The Charvakas taught that a body is only earth, water, fire and air, put together. Many scientists today say something similar: breathing is chemistry, gases passing through thin walls and food broken down in cells. It needs nothing more behind it to explain it. That is an honest view, and it explains breathing well."
   },
   "practice": {
-   "title": "Ocean breath",
+   "title": "Breath and the meal",
    "mins": 3,
-   "say": "Let's sit tall and close our eyes. Breathe in slowly through your nose while I count to four. Now breathe out slowly while I count to six, like a soft wave. Again. As you breathe out, imagine your breath going out of the window, to a tree. As you breathe in, imagine the tree's breath coming back to you. Let's do five breaths together. Now open your eyes. Where is your breath now?",
-   "kid": "Sit tall. Close your eyes. Breathe in slowly for four counts. Breathe out for six, like a soft wave. Picture your breath going to a tree. Picture the tree's breath coming back to you. Do five breaths."
+   "say": "Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, roti, dal, fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will that breath go next?",
+   "kid": "Sit tall. Close your eyes. Hold your hand in front of your mouth. Breathe out slowly. Feel the warm air. Think of what you ate today. Part of it is in that breath. Breathe in for four. Breathe out for six. Do five breaths."
   },
   "ask": [
-   "Where does your breath stop being yours?",
-   "If the same air has been in fish, trees and people, are we all sharing one breath?",
-   "An earthworm has no lungs, but it breathes. What does it mean to breathe?"
+   "If part of your lunch leaves in your breath, when did the food stop being food and start being you?",
+   "A plant may take in the carbon dioxide you breathe out today. Is part of that plant then made from your lunch?",
+   "An earthworm has no lungs, but its cells use oxygen just like yours. What does it really mean to breathe?"
   ],
-  "art": "A child breathing out a soft stream of dots that flows out of a window to a neem tree, and the tree's breath flowing back, with a fish, a frog and an earthworm drawn along the same looping stream."
+  "art": "A child breathing out onto a palm, with a soft stream of dots leaving the mouth towards a window and a potted tulsi plant, and a plate of rice and dal beside the child."
+ },
+ "how_we_found_out": {
+  "story": "For about 2,000 years, many people followed the Greek thinker Aristotle, and later the doctor Galen. They taught that we breathe mainly to cool the heat of the heart. In the 1750s, the Scottish chemist Joseph Black found a gas he called 'fixed air'. It turned limewater milky. He found that breath turns limewater milky too, so breath carries fixed air. Today we call it carbon dioxide. In the 1770s and 1780s, the French chemist Antoine Lavoisier worked out what breathing does. With Pierre-Simon Laplace, he put a guinea pig in a box packed with ice. The animal's warmth melted the ice, and it breathed out carbon dioxide, like a slowly burning candle. So, Lavoisier said, breathing feeds a slow burning inside the body, which uses oxygen from the air. Marie-Anne Paulze Lavoisier worked beside him. She kept the lab notes, translated science from English, and drew the experiments on people breathing into masks. Breathing does not cool the heart. It brings in oxygen to use food, and carries the carbon dioxide away.",
+  "who": "Joseph Black, Antoine Lavoisier, Pierre-Simon Laplace and Marie-Anne Paulze Lavoisier",
+  "when": "1750s (Black's fixed air), 1783 (the guinea pig in ice), about 1790 (Marie-Anne Lavoisier's drawings of breathing experiments)",
+  "wrong_idea": "Aristotle and Galen taught that breathing is mainly for cooling the heart. Black showed that breath carries carbon dioxide, and Lavoisier showed that an animal uses oxygen and makes carbon dioxide and heat, like a slow fire."
  }
 }

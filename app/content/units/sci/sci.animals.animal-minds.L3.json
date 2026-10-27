@@ -3,7 +3,7 @@
  "title": "Animal minds: how animals think, feel and remember",
  "level": 3,
  "summary": {
-  "text": "Animals think, feel, remember and decide. A crow remembers a face for years, and a dog follows a pointing finger to a hidden treat. Puppies, rats and even bumblebees play, just for fun. You will test which stones raise water fastest, as rooks did, and learn how scientists test animal minds fairly. Some scientists say we cannot yet know what an animal feels inside, and nobody knows what it is like to be a crow.",
+  "text": "Animals think, feel, remember and decide. A crow remembers a face for years, and a dog follows a pointing finger to a hidden treat. Puppies, rats and even bumblebees play, just for fun. You will test what raises water in a glass with the fewest pieces, as rooks did, and learn how scientists test animal minds fairly. Some scientists say we cannot yet know what an animal feels inside, and nobody knows what it is like to be a crow.",
   "art": "A crow on a steel railing bending a twig with its beak, a puppy doing a play bow beside it, and a child watching both with a notebook."
  },
  "intro": {
@@ -66,9 +66,9 @@
   },
   {
    "term": "Brain",
-   "meaning": "The body part inside the head that takes in messages from the senses and sends out messages to move.",
-   "example": "When you touch a hot tumbler, your brain gets the message and pulls your hand away.",
-   "art": "A simple side view of a child's head with the brain shown, and an arrow from a hand to the brain."
+   "meaning": "The body part inside the head that thinks, feels and remembers. It takes in messages from the senses and sends out messages that move the body.",
+   "example": "When you see a ball coming, your eyes send a message to your brain. Your brain tells your hands to catch it.",
+   "art": "A simple side view of a child's head with the brain shown, an arrow from the eyes to the brain, and an arrow from the brain to a hand catching a ball."
   },
   {
    "term": "Neuron",
@@ -97,7 +97,7 @@
   {
    "term": "Blind test",
    "meaning": "A test where the person giving it does not know the answer. Then they cannot give away the answer by mistake.",
-   "example": "Your friend hides a coin while you look away. Then nobody watching knows where it is.",
+   "example": "One friend hides a coin under a cup while you look away. Now your brother tries to find it. You cannot give him clues, because you do not know where it is either.",
    "art": "A child with eyes covered while another child hides a coin under one of three steel cups."
   },
   {
@@ -179,7 +179,7 @@
    "description": "Gordon Burghardt, an American scientist, wrote down clear signs that tell play apart from other things animals do. Using those signs, scientists have found play in many animals. Puppies, kittens and goats play. Rats play chase, and they make a happy chirp when tickled. The chirp is too high for us to hear without a special microphone. Jaak Panksepp, an American scientist, studied this from the late 1990s. Octopuses have pushed floating bottles around their tank again and again. In 2022, scientists in London found that bumblebees rolled little wooden balls, even with no food as a reward.",
    "examples": [
     "A puppy bows with its front legs down and its tail up. This 'play bow' means 'let's play, this is not a real fight'.",
-    "Young goats jump and twist in the air for no reason at all.",
+    "Young goats jump and twist in the air, just for fun.",
     "Bumblebees rolled wooden balls many times, for nothing but the rolling. The young bees rolled them the most."
    ],
    "perspectives": [],
@@ -551,7 +551,7 @@
       "Jays remember what food they hid, where, and when.",
       "Many street dogs in India follow a pointing finger, even untrained.",
       "TEST IT: hide a coin under one of three cups. Can someone find it by watching your face?",
-      "TEST IT: throw a ball for your dog, or pretend to. Does it watch your hand or your face?",
+      "TEST IT: point at something in the room without saying a word. Does everyone look where you point?",
       "TEST IT: everyone shut your eyes and point to where the door is. Then open them. Whose memory was right?",
       "TEST IT: make a happy face, then an angry face, at the nearest person. Can they name each feeling without words?"
      ]
@@ -797,7 +797,7 @@
    "mins": 25,
    "days": 1,
    "context": "This is the thirsty crow test. You drop things into a glass of water, like the crow in the old story, and count how many it takes to raise the water to a line. Real rooks and crows have passed this test.",
-   "question": "Which raises the water to the line with the fewest pieces: big stones, small stones or bottle caps?",
+   "question": "Which raises the water to the line with the fewest pieces: big stones, small stones or pieces of thermocol?",
    "predict": "Before you start, guess. Which will need the fewest pieces to raise the water to the line? Which will need the most? Why do you think so?",
    "fair_test": "To make it fair, change only what you drop in. Use the same glass, fill it to the same starting line, and use the same top line each time. Drop things in one at a time.",
    "results_table": [
@@ -808,7 +808,7 @@
    ],
    "materials": [
     {
-     "item": "a tall clear glass or plastic tumbler, about 6 to 7 cm across",
+     "item": "a tall clear glass or plastic tumbler, about 6 to 7 cm across and at least 12 cm tall",
      "qty": 1
     },
     {
@@ -821,14 +821,14 @@
     },
     {
      "item": "small stones, each about the size of a marble, washed. Glass marbles work too.",
-     "qty": 25
+     "qty": 40
     },
     {
-     "item": "plastic bottle caps",
+     "item": "20 small pieces of thermocol, each about the size of a marble. Break them off the packing from any box.",
      "qty": 20
     },
     {
-     "item": "a small piece of thermocol or cork to float as the 'worm'",
+     "item": "one flat piece of thermocol about the size of a coin, coloured with a marker, to float as the 'worm'",
      "qty": 1
     },
     {
@@ -845,7 +845,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess. Test big stones, small stones and bottle caps. Count and write down the numbers. Draw a bar chart."
+     "what": "Guess. Test big stones, small stones and thermocol. Count and write down the numbers. Draw a bar chart."
     }
    ],
    "record": "Fill in the table. Then draw a bar chart with one bar for each thing you dropped in.",
@@ -854,7 +854,7 @@
     "title": "Made-up example results: how many objects it took to raise the water to the line",
     "x": "What we dropped in",
     "y": "Number of objects",
-    "note": "These numbers are made up, to show what a finished chart can look like. The bottle caps floated and never reached the line, so we stopped at 20 and drew the bar to the top.",
+    "note": "These numbers are made up, to show what a finished chart can look like. The thermocol floated and never reached the line, so we stopped at 20 pieces.",
     "data": [
      {
       "label": "Big stones",
@@ -863,13 +863,13 @@
      },
      {
       "label": "Small stones",
-      "value": 15,
+      "value": 32,
       "emoji": "⚪"
      },
      {
-      "label": "Bottle caps (never reached the line)",
-      "value": 25,
-      "emoji": "🧢"
+      "label": "Thermocol (stopped at 20, never reached the line)",
+      "value": 20,
+      "emoji": "⬜"
      }
     ]
    },
@@ -883,8 +883,8 @@
      "caption": "2. Drop in big stones, one at a time. Count each one."
     },
     {
-     "art": "Three glasses in a row: one with a few big stones, one with many small stones, one with bottle caps floating on top.",
-     "caption": "3. Start again with small stones, then bottle caps. Which reached the line first?"
+     "art": "Three glasses in a row: one with a few big stones, one with many small stones, one with white thermocol pieces floating on top.",
+     "caption": "3. Start again with small stones, then thermocol. Which reached the line with the fewest?"
     }
    ],
    "flow": [
@@ -901,11 +901,11 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask your child to guess how many of each thing they will need. Write the guesses in the table.",
-     "say": "Which do you think will need the fewest: big stones, small stones or bottle caps? Why do you think so? Let's write our guesses down first.",
-     "kid": "Guess first. How many big stones? How many small stones? How many caps? Why?",
+     "say": "Which do you think will need the fewest: big stones, small stones or thermocol? Why do you think so? Let's write our guesses down first.",
+     "kid": "Guess first. How many big stones? How many small stones? How many bits of thermocol? Why?",
      "ask": [
       {
-       "q": "Why do you think that one will be fastest?",
+       "q": "Why do you think that one will need the fewest?",
        "good": [
         "Big stones take up more room.",
         "Heavy things sink and push the water up."
@@ -917,36 +917,36 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Drop in big stones one at a time, counting, until the worm reaches the top line. Write the number. Empty the glass, refill to the starting line, and do the same with small stones. Then do it with bottle caps. Stop the caps at 20.",
+     "do": "Drop in big stones one at a time, counting, until the worm reaches the top line. Write the number. Empty the glass, refill to the starting line, and do the same with small stones. Then do it with the thermocol pieces. Stop the thermocol at 20.",
      "say": "One stone at a time. Count out loud. Stop when the worm reaches the line. Now let's empty it and start again, so the test is fair.",
-     "kid": "Drop in one big stone at a time. Count. Stop at the line. Empty the glass. Fill it to the start line. Now try small stones. Then caps.",
-     "parent": "With a glass about 6 cm across, it usually takes about 5 to 8 big stones and about 15 to 25 small ones. Bottle caps float, so they barely raise the water. This surprises most children. Stones sink and take up space under the water, so the water has to go up.",
+     "kid": "Drop in one big stone at a time. Count. Stop at the line. Empty the glass. Fill it to the start line. Now try small stones. Then thermocol.",
+     "parent": "In a glass 6 to 7 cm across, the water must rise 2 cm, so you need to push about 60 to 75 millilitres of water out of the way. A walnut-sized stone takes up about 10 millilitres, so it takes about 5 to 8 big stones. A marble-sized stone takes up only about 2 millilitres, so it takes about 30 to 40 small ones. Thermocol floats and weighs almost nothing, so 20 pieces hardly raise the water at all. This surprises most children.",
      "check": {
       "t": "mcq",
-      "q": "In the thirsty crow test, why did the bottle caps hardly raise the water?",
+      "q": "In the thirsty crow test, why did the thermocol hardly raise the water?",
       "options": [
        "They are too small",
-       "They float, so they do not push much water out of the way",
-       "They are made of plastic, and plastic soaks up water"
+       "It floats, so it does not push much water out of the way",
+       "Thermocol soaks up the water"
       ],
       "a": 1,
-      "why": "Things that sink take up room under the water, so the water is pushed up. Light floating caps push away only a little water. Picking 'too small' usually means thinking only of size, but small stones still worked. Plastic does not soak up water."
+      "why": "Things that sink take up room under the water, so the water is pushed up. A floating thing pushes away only as much water as it weighs. Thermocol weighs almost nothing, so it pushes away almost no water. Picking 'too small' usually means thinking only of size, but small stones the same size still worked. Thermocol does not soak up water."
      },
      "how": "e1",
-     "context": "This is the main step of the thirsty crow test. You drop in big stones, small pebbles and bottle caps, and count."
+     "context": "This is the main step of the thirsty crow test. You drop in big stones, small stones and pieces of thermocol, and count."
     },
     {
      "id": "s4",
      "mins": 5,
      "do": "Help your child draw a bar chart of the numbers, with one bar for each thing.",
-     "say": "Let's turn our numbers into a picture. A short bar means it only took a few. The caps never got there, so their bar goes right to the top. Which bar is shortest?",
-     "kid": "Draw one bar for each thing. A short bar means it was quick. Which was quickest?",
+     "say": "Let's turn our numbers into a picture. A short bar means it only took a few. The thermocol never got there, so we stop its bar at 20 and write 'never reached'. Which bar is shortest?",
+     "kid": "Draw one bar for each thing. A short bar means it took only a few. Which bar is shortest?",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: how many objects it took to raise the water to the line",
       "x": "What we dropped in",
       "y": "Number of objects",
-      "note": "These numbers are made up, to show what a finished chart can look like. The bottle caps floated and never reached the line, so we stopped at 20 and drew the bar to the top.",
+      "note": "These numbers are made up, to show what a finished chart can look like. The thermocol floated and never reached the line, so we stopped at 20 pieces.",
       "data": [
        {
         "label": "Big stones",
@@ -955,13 +955,13 @@
        },
        {
         "label": "Small stones",
-        "value": 15,
+        "value": 32,
         "emoji": "⚪"
        },
        {
-        "label": "Bottle caps (never reached the line)",
-        "value": 25,
-        "emoji": "🧢"
+        "label": "Thermocol (stopped at 20, never reached the line)",
+        "value": 20,
+        "emoji": "⬜"
        }
       ]
      },
@@ -983,7 +983,7 @@
      "do": "Ask your child to say or write three things: what I think, what I saw, and why.",
      "say": "What do you think now? What did you see that shows it? And why did it happen?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: big stones raise water fastest. What I saw: it took 6 big stones but 15 small stones, and the caps never got there. Why: big sinking stones take up more room under the water, so the water has to go up.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: big stones raise the water with the fewest pieces. What I saw: it took 6 big stones but 32 small stones, and the thermocol never got there. Why: big sinking stones take up more room under the water, so the water has to go up.",
      "context": "This is the last step of the thirsty crow test. The child says what they think, what they saw, and why."
     }
    ]
@@ -1331,7 +1331,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Draw the five play signs with your child: play bow, chasing, jumping and twisting, tossing a thing, gentle wrestling.",
-     "say": "Play has signs. A play bow means 'let's play'. Chasing, jumping for no reason, tossing a stick and gentle wrestling are signs too. Let's draw them.",
+     "say": "Play has signs. A play bow means 'let's play'. Chasing, jumping just for fun, tossing a stick and gentle wrestling are signs too. Let's draw them.",
      "kid": "Draw five play signs. A play bow. Chasing. Jumping for fun. Tossing a stick. Gentle wrestling.",
      "context": "This is the first step of Play Spotters, where you watch animals for signs of play."
     },
@@ -1354,7 +1354,7 @@
       "why": "In play, animals take turns being on top, their bodies are loose, and nobody gets hurt. In a real fight, bodies are stiff, teeth show and one animal runs away. Picking 'real fight' is a careful guess, because play can look rough."
      },
      "context": "This is the main step of Play Spotters. You watch and count play signs.",
-     "parent": "Squirrels chasing round a tree or along a wall, and puppies or kittens wrestling, are the easiest play to spot. If you see no play in 10 minutes, try again at another time of day, or play with your pet cat or dog and count its play signs."
+     "parent": "Puppies or kittens wrestling are the easiest play to spot. Crows and squirrels chasing each other may be playing, or may be fighting over food. Look for loose bodies and turn-taking. If you see no play in 10 minutes, try again at another time of day, or play with your pet cat or dog and count its play signs."
     },
     {
      "id": "s3",
@@ -2270,19 +2270,19 @@
     },
     {
      "t": "fill",
-     "p": "The thirsty crow test: after 6 big stones the water reached the line. After 15 small stones it reached the line too. The big stones took ____ fewer objects.",
+     "p": "The thirsty crow test: after 6 big stones the water reached the line. After 32 small stones it reached the line too. The big stones took ____ fewer objects.",
      "a": [
-      "9",
-      "nine"
+      "26",
+      "twenty-six"
      ],
-     "why": "15 take away 6 is 9. So the big stones took 9 fewer objects. You can check: 6 + 9 = 15.",
+     "why": "32 take away 6 is 26. So the big stones took 26 fewer objects. You can check: 6 + 26 = 32.",
      "context": "This question is about the thirsty crow test. You drop things into a glass of water, one at a time, and count how many it takes to raise the water to a line near the top.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: how many objects it took to raise the water to the line",
       "x": "What we dropped in",
       "y": "Number of objects",
-      "note": "These numbers are made up, to show what a finished chart can look like. The bottle caps floated and never reached the line, so we stopped at 20 and drew the bar to the top.",
+      "note": "These numbers are made up, to show what a finished chart can look like. The thermocol floated and never reached the line, so we stopped at 20 pieces.",
       "data": [
        {
         "label": "Big stones",
@@ -2291,13 +2291,13 @@
        },
        {
         "label": "Small stones",
-        "value": 15,
+        "value": 32,
         "emoji": "⚪"
        },
        {
-        "label": "Bottle caps (never reached the line)",
-        "value": 25,
-        "emoji": "🧢"
+        "label": "Thermocol (stopped at 20, never reached the line)",
+        "value": 20,
+        "emoji": "⬜"
        }
       ]
      },
@@ -2326,7 +2326,7 @@
     {
      "t": "write",
      "p": "Tell about one animal that plays. What does it do, and why do you think it plays?",
-     "a": "Any true example, for example: puppies chase and wrestle; I think they are practising for real life and making friends.",
+     "a": "Any true example, for example: puppies chase and wrestle. I think they are practising for real life and making friends.",
      "why": "Scientists have several ideas about why animals play: practice, friendship, coping with surprises, and fun."
     },
     {
@@ -2397,13 +2397,13 @@
      "t": "mcq",
      "p": "In the thirsty crow test, which object should a clever crow choose?",
      "opts": [
-      "A floating bottle cap",
+      "A floating piece of thermocol",
       "A big sinking stone",
       "A feather",
       "A leaf"
      ],
      "a": 1,
-     "why": "Sinking things take up room under the water and push it up. Big stones push up the most. Floating things like caps, feathers and leaves barely raise the water. Rooks chose big stones first.",
+     "why": "Sinking things take up room under the water and push it up. Big stones push up the most. Floating things like thermocol, feathers and leaves barely raise the water. Rooks chose big stones first.",
      "context": "This question is about the thirsty crow test. You drop things into a glass of water, one at a time, and count how many it takes to raise the water to a line near the top.",
      "how": "e1"
     },
@@ -2746,14 +2746,14 @@
       "A strength test"
      ],
      "a": 0,
-     "why": "In a blind test, the asker did not know the answer. Then Hans failed. That proved the answer came from the asker's face.",
+     "why": "In a blind test, the asker did not know the answer. Then Hans failed. That showed the answer came from the asker's face and body.",
      "context": "Clever Hans was a horse in Berlin who seemed to do sums by tapping his hoof."
     },
     {
      "t": "draw",
      "p": "Draw what you think is happening inside a crow's brain as it bends a wire. Show neurons passing a signal.",
      "a": "A crow's head with many tiny neurons joined by lines, with sparks or arrows moving along them.",
-     "why": "Thinking is neurons passing tiny electric signals to each other. Drawing a model helps us picture what we cannot see.",
+     "why": "In a brain, every thought comes with neurons passing tiny electric signals to each other. Drawing a model helps us picture what we cannot see.",
      "art": "An empty outline of a crow's head."
     },
     {
@@ -2946,7 +2946,7 @@
     "Drops of blood"
    ],
    "a": 0,
-   "why": "Neurons pass tiny signals made by charged atoms moving. Every thought and memory is neurons signalling.",
+   "why": "Neurons pass tiny signals made by charged atoms moving. In a brain, every thought and memory comes with neurons signalling.",
    "outcome": 6
   }
  ],
@@ -3048,16 +3048,16 @@
    "a": "A caw-penter."
   },
   {
-   "j": "Why was the dog so good at reading faces?",
-   "a": "It had a nose for news."
+   "j": "What does a dog read before dinner?",
+   "a": "The look on your face."
   },
   {
    "j": "What did the horse say when he got the sum wrong?",
    "a": "Hay, nobody's perfect."
   },
   {
-   "j": "Why did the elephant never forget?",
-   "a": "Nobody ever told it anything worth forgetting."
+   "j": "Why do elephants remember so much?",
+   "a": "They keep it all in their trunk."
   },
   {
    "j": "Why did the bee roll the ball?",
@@ -3089,7 +3089,7 @@
   },
   {
    "j": "What did the rat say when it was tickled?",
-   "a": "Squeak stop, I'm too ticklish."
+   "a": "Stop, you're making me chirp!"
   },
   {
    "j": "Why did the cat join the puzzle club?",
@@ -3126,9 +3126,9 @@
  ],
  "maths": [
   {
-   "problem": "In the thirsty crow test, it took 6 big stones to raise the water to the line. It took 15 small stones. How many more small stones than big stones were needed?",
-   "answer": "9 more small stones.",
-   "explain": "15 take away 6 is 9. So 9 more small stones were needed. You can check: 6 + 9 = 15.",
+   "problem": "In the thirsty crow test, it took 6 big stones to raise the water to the line. It took 32 small stones. How many more small stones than big stones were needed?",
+   "answer": "26 more small stones.",
+   "explain": "32 take away 6 is 26. So 26 more small stones were needed. You can check: 6 + 26 = 32.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
    "context": "This question is about the thirsty crow test. You drop things into a glass of water, one at a time, and count how many it takes to raise the water to a line near the top.",
    "chart": {
@@ -3136,7 +3136,7 @@
     "title": "Made-up example results: how many objects it took to raise the water to the line",
     "x": "What we dropped in",
     "y": "Number of objects",
-    "note": "These numbers are made up, to show what a finished chart can look like. The bottle caps floated and never reached the line, so we stopped at 20 and drew the bar to the top.",
+    "note": "These numbers are made up, to show what a finished chart can look like. The thermocol floated and never reached the line, so we stopped at 20 pieces.",
     "data": [
      {
       "label": "Big stones",
@@ -3145,13 +3145,13 @@
      },
      {
       "label": "Small stones",
-      "value": 15,
+      "value": 32,
       "emoji": "⚪"
      },
      {
-      "label": "Bottle caps (never reached the line)",
-      "value": 25,
-      "emoji": "🧢"
+      "label": "Thermocol (stopped at 20, never reached the line)",
+      "value": 20,
+      "emoji": "⬜"
      }
     ]
    },
@@ -3377,8 +3377,8 @@
    "a": "Reading tiny changes in people's faces."
   },
   {
-   "q": "Which sinks and raises water better: a stone or a bottle cap?",
-   "a": "A stone. It sinks and takes up room under the water."
+   "q": "Which raises water better: a stone or a piece of thermocol?",
+   "a": "A stone. It sinks and takes up room under the water. Thermocol floats and pushes away almost no water."
   },
   {
    "q": "What are the tiny messenger cells in a brain called?",
@@ -3484,21 +3484,21 @@
  "roots": {
   "context": "We have been learning that animals play, learn, remember and read faces. Now we ask what that tells us about minds, about ourselves and about the world.",
   "deep_truth": {
-   "truth": "In your glass, big stones raised the water fastest, and you could say why. Rooks given a tube of water also chose big stones, though they cannot tell us why. Nobody can see inside another mind, so we judge even a friend's mind by what they do. Judged the same way, the rook was thinking, just as you were.",
+   "truth": "In your glass, big stones raised the water with the fewest pieces, and you could say why. Rooks given a tube of water also chose big stones first, though they cannot tell us why. Nobody can see inside another mind, so we judge even a friend's mind by what they do. Judged the same way, the rook was thinking, just as you were.",
    "habit": "We accept that a friend thinks because of what they do and say. For animals we often ask for much more proof. That uses one rule for people and a stricter one for every other animal.",
-   "evidence": "In 2009, Christopher Bird and Nathan Emery gave rooks a tube with a worm floating out of reach. The rooks dropped in stones until they could eat it, and they picked big stones first. In the thirsty crow test, you found the same thing: big sinking stones raise the water fastest."
+   "evidence": "In 2009, Christopher Bird and Nathan Emery gave rooks a tube with a worm floating out of reach. The rooks dropped in stones until they could eat it, and they picked big stones first. In the thirsty crow test, you found the same thing: big sinking stones raise the water with the fewest pieces."
   },
   "three": {
    "who_am_i": "You are one of many minds on Earth. A crow, a dog and you all learn, remember and decide.",
    "what_is_life": "Living things notice, learn, remember and choose. Crows, dogs, octopuses and you all do this, with very different bodies.",
    "what_is_this_world": "A crow, a dog and a bee notice different things in the same street. Each of them lives in its own version of the world."
   },
-  "thread": "A crow, a dog and you look very different from outside. Inside, your thinking and theirs runs on the same thing: neurons passing signals with the same sodium and potassium atoms. Thinking came about separately in crows, octopuses and apes, on branches of life that split long ago. Awareness runs through all of life, so it keeps showing up wherever life goes, in a bird, a dog or an eight-armed octopus.",
+  "thread": "A crow, a dog and you look very different from outside. Inside, your thinking and theirs runs on neurons passing signals with the same sodium and potassium atoms. Clever minds came about separately in crows, octopuses and apes, on branches of life that split long ago. Awareness runs through all of life, so it keeps showing up wherever life goes, in a bird, a dog or an eight-armed octopus.",
   "teachings": [
    {
     "source": "Bhagavad Gita 5.18",
     "teaching": "The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on.",
-    "link": "This unit shows that cows, elephants and dogs learn, remember and feel. The Gita asks us to give each of them the same respect we give a wise person."
+    "link": "This unit found minds at work in elephants and dogs: elephants remember the calls of their friends, and dogs read our pointing fingers. The Gita says a wise person looks at all of them with the same eye."
    },
    {
     "source": "Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river",
