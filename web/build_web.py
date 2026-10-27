@@ -39,7 +39,9 @@ head = head.replace('<meta name="claude:viewport-fit-sides" content="cover">', '
 
 app_hash = hashlib.sha256(script.encode()).hexdigest()[:10]
 data_hash = hashlib.sha256(DATA.encode()).hexdigest()[:10]
-build = app_hash + data_hash[:4]
+# the sign-in layer is cached by this number too, so a change to it must change the number
+plat_hash = hashlib.sha256(open(os.path.join(WEB, 'src/platform.js'), 'rb').read()).hexdigest()[:4]
+build = app_hash + data_hash[:4] + plat_hash
 
 os.makedirs(os.path.join(PUB, 'icons'), exist_ok=True)
 open(os.path.join(PUB, 'app.js'), 'w').write(script)
