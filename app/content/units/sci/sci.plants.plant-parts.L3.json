@@ -1,10 +1,10 @@
 {
  "id": "sci.plants.plant-parts.L3",
- "title": "Shaped for the job: roots that store, stems that climb, leaves that catch light",
+ "title": "Plant parts: how each part's shape suits its job",
  "level": 3,
  "summary": {
-  "text": "This unit is about the parts of a plant, and why each part has the shape it has. A plant's shape is not an accident. Each part is shaped for its job. Roots are thin and many, so they can grip the soil and soak up water. Some roots grow fat, like a carrot, because they store food for later. Stems hold the plant up. Some stems climb, twist and curl round anything they touch. Leaves are thin and flat, like little solar panels, so they can catch sunlight. When a plant lives somewhere hard, like a desert or a pond, its parts change shape to fit. Scientists still argue about some big puzzles, like why leaves are green and not black.",
-  "art": "One big plant drawn like a busy team: fat carrot-like roots storing food underground, a stem twining up a stick, a tendril curling round a string, and wide flat leaves tilted towards the Sun."
+  "text": "A potato grows under the ground, but it is a stem, not a root. Its eyes are buds, and buds grow on stems. Every part of a plant has a shape that suits its job. Roots are thin and many, so they reach between soil grains and soak up water. Some roots and stems grow fat, because they store food for the plant to use later. Climbing stems are thin, and wind round a support to reach the light. Leaves are thin and flat, so they catch sunlight. In deserts, ponds and salty mud, the parts take new shapes to fit. Scientists still do not know for sure why leaves are green and not black.",
+  "art": "One plant with its parts labelled: fat carrot-like roots storing food underground, a stem twining up a stick, a tendril curling round a string, and wide flat leaves tilted towards the Sun."
  },
  "intro": {
   "hook": "Look at a carrot and a potato. Both grow under the ground. Both are fat and full of food. But only one of them is a root. Which one? And how could you ever tell?",
@@ -168,7 +168,7 @@
   },
   {
    "term": "Chlorophyll",
-   "meaning": "The green stuff in leaves. It catches sunlight so the leaf can make food.",
+   "meaning": "The green substance in leaves. It catches sunlight so the leaf can make food.",
    "example": "Chlorophyll is why leaves, grass and peas are green.",
    "art": "A leaf zooming in to tiny green blobs inside its cells."
   },
@@ -193,10 +193,10 @@
  ],
  "explanations": [
   {
-   "concept": "A plant is a team of parts",
+   "concept": "Every part has a job, and the parts need each other",
    "status": "defined",
-   "definition": "Most plants have roots, a stem and leaves. Many also have flowers, which make fruits and seeds. Each part has its own job, and no part can live for long on its own.",
-   "description": "Think of a plant as a team. The roots hold on and drink. The stem holds everything up and carries water and food between the roots and the leaves. The leaves catch sunlight and make food. The flowers make seeds, and the fruits carry the seeds away. Botanists, scientists who study plants, split the plant into two halves. Everything under the ground is the root system. Everything above the ground is the shoot system. The roots need food from the leaves. The leaves need water from the roots. So they depend on each other, like the players in a team.",
+   "definition": "Most plants have roots, a stem and leaves. Many also have flowers, which make fruits and seeds. Each part has its own job, and the parts need each other. A cut-off part lives on only if it can grow the parts it is missing, as a money plant cutting grows new roots in a glass of water.",
+   "description": "The roots hold on and soak up water. The stem holds everything up and carries water and food between the roots and the leaves. The leaves catch sunlight and make food. The flowers make seeds, and the fruits carry the seeds away. Botanists, the scientists who study plants, split the plant into two halves. Everything under the ground is the root system. Everything above the ground is the shoot system. The roots need food from the leaves. The leaves need water from the roots. So each part depends on the others.",
    "examples": [
     "Cut a rose and put it in a vase. Without roots it lasts only a few days.",
     "Cover every leaf of a plant and it slowly starves, even with plenty of water.",
@@ -210,7 +210,7 @@
    "concept": "Shape suits the job",
    "status": "defined",
    "definition": "The shape of each plant part helps it do its job. Scientists say form fits function. Form means shape, and function means job.",
-   "description": "Look at the parts of any plant and ask, 'Why this shape?' A root is long and thin and branches again and again, so it can reach water far away and grip lots of soil. A leaf is thin and flat, so it can spread out to catch light. A tree trunk is thick and round, so it can stand up to wind from any side. Here is the surprise. Plants that are not related at all often end up with the same shapes when they live in the same kind of place. Cactuses in America and some euphorbias in Africa look almost the same. Both are fat, green and spiny. But they come from different plant families. The same job pushed both into the same shape.",
+   "description": "Look at the parts of any plant and ask, 'Why this shape?' A root is long and thin and branches again and again, so it can reach water far away and grip lots of soil. A leaf is thin and flat, so it can spread out to catch light. A tree trunk is thick and round, so it can stand up to wind from any side. Here is the surprise. Plants that are not related at all often end up with the same shapes when they live in the same kind of place. Cactuses in America and some euphorbias in Africa look almost the same. Both are fat, green and spiny. But they come from different plant families. Living in the same kind of place gave both the same shape.",
    "examples": [
     "A lotus leaf is round and flat, so it floats like a plate.",
     "A pine needle is thin and tough, so it loses little water in cold, dry winds.",
@@ -224,7 +224,7 @@
    "concept": "Roots: anchors and drinking straws",
    "status": "defined",
    "definition": "Roots hold the plant in the ground and soak up water and minerals from the soil. Some plants have one big tap root. Others have a bunch of thin fibrous roots.",
-   "description": "A tap root is one thick main root that grows straight down, like a tent peg. It can reach deep water and hold a plant firm. Fibrous roots are a beard of thin roots near the top of the soil. They grip the soil like a net and catch rain quickly. Near the tip of each young root are root hairs, far thinner than the hairs on your head. They push between the soil grains and soak up water. Roots are thin and many because a thin root can squeeze between soil grains, and many roots touch far more soil than one fat root could. In 1937 a scientist called Howard Dittmer grew one rye plant in a box of soil for four months. Then he washed out and measured its roots. Together they were about 600 kilometres long. The root hairs added more than 10,000 kilometres. The unit on how water travels through a plant follows the water from these hairs up to the leaves.",
+   "description": "A tap root is one thick main root that grows straight down, like a tent peg. It can reach deep water and hold a plant firm. Fibrous roots are a beard of thin roots near the top of the soil. They grip the soil like a net and catch rain quickly. Just behind the tip of each young root are root hairs, far thinner than the hairs on your head. They push between the soil grains and soak up water. Roots are thin and many because a thin root can squeeze between soil grains, and many roots touch far more soil than one fat root could. In 1937 a scientist called Howard Dittmer grew one rye plant in a box of soil for four months. Then he washed out and measured its roots. Together they were about 600 kilometres long. The root hairs added more than 10,000 kilometres. The unit on how water travels through a plant follows the water from these hairs up to the leaves.",
    "examples": [
     "Mustard, neem and carrot have tap roots.",
     "Grass, wheat, rice and onion have fibrous roots.",
@@ -238,14 +238,14 @@
    "concept": "Roots that store food",
    "status": "defined",
    "definition": "Some roots grow fat because they are full of stored food. The food was made in the leaves and sent down the stem to be kept for later.",
-   "description": "A carrot, a mooli, a beetroot and a sweet potato are all storage roots. They taste sweet or starchy because they are packed with food. But the plant did not store that food for us. It stored it for itself. A carrot plant lives for two years if nobody digs it up. In its first year it grows leaves and stuffs its root with sugar. In its second year it uses that stored food very fast. It sends up a tall stalk with white umbrella-shaped flowers, and makes seeds. Farmers in north India use this. They dig up their carrots in winter, choose the best ones and plant them again. By spring those carrots have flowered and made seed for next year. If you dig up a carrot after it has flowered, it is woody and not sweet. Its food has gone up into the flowers and seeds.",
+   "description": "A carrot, a mooli, a beetroot and a sweet potato are all storage roots. They taste sweet or starchy because they are packed with food. But the plant did not store that food for us. It stored it for itself. A carrot's life has two parts. First it grows leaves and fills its root with sugar. Then, after the cold weather, it uses that stored food very fast. It sends up a tall stalk with white umbrella-shaped flowers, and makes seeds. In cold countries this takes two years. In north India it happens between autumn and the next spring. Farmers in north India use this. They dig up their carrots in winter, choose the best ones and plant them again. By spring those carrots have flowered and made seed for next year. If you dig up a carrot after it has flowered, it is woody and not sweet. Its food has gone up into the flowers and seeds.",
    "examples": [
     "A carrot top left in a saucer of water grows new leaves, using food stored at its top.",
     "Sweet potato, shakarkand, is a root, even though a potato is a stem.",
     "Beetroot is so full of sugar that a kind of beet, called sugar beet, is grown in many cold countries to make sugar."
    ],
    "perspectives": [],
-   "art": "A carrot plant in two panels: year one, leafy with a fat orange root, and year two, a tall stalk of white umbrella flowers and a thin woody root.",
+   "art": "A carrot plant in two panels: first, leafy with a fat orange root, and later, a tall stalk of white umbrella flowers and a thin woody root.",
    "context": "Why are carrots and mooli so fat? This card explains what a fat root is for, and who it is really for."
   },
   {
@@ -266,7 +266,7 @@
    "concept": "Stems: pillars and pipes",
    "status": "defined",
    "definition": "A stem holds the leaves up to the light and the flowers up to the insects. Inside, tiny tubes carry water up from the roots and food from the leaves to the rest of the plant.",
-   "description": "A stem's shape depends on how much it has to hold up. A herb, like coriander, has a soft green stem because it holds up only a few leaves. A tree has a thick woody trunk, because it must hold up a huge crown against wind and rain. Many stems are tubes. Bamboo, grass and sugarcane stems are strong round tubes, with rings called nodes that work like the rungs of a ladder. A tube is very strong for its weight. Builders use tube shapes for poles and bicycle frames for the same reason. Stems also have nodes, the places where leaves and buds grow. That is how botanists tell a stem from a root, even under the ground. Stems have nodes and buds. Roots usually do not.",
+   "description": "A stem's shape depends on how much it has to hold up. A herb, like coriander, has a soft green stem because it holds up only a few leaves. A tree has a thick woody trunk, because it must hold up a huge crown against wind and rain. Many stems are tubes. Bamboo and wheat stems are hollow tubes. At each ring, called a node, a solid wall runs across the inside of the tube, and this stops it from bending and folding. A tube is very strong for its weight. Builders use tube shapes for poles and bicycle frames for the same reason. Not every stem is hollow. Sugarcane is filled with soft, juicy tissue that stores sugar. Stems also have nodes, the places where leaves and buds grow. That is how botanists tell a stem from a root, even under the ground. Stems have nodes and buds. Roots usually do not.",
    "examples": [
     "Bamboo is a giant grass with a hollow stem, so strong that it is used for scaffolding.",
     "The rings on sugarcane are nodes, where leaves once grew.",
@@ -294,21 +294,21 @@
    "concept": "Stems that climb",
    "status": "defined",
    "definition": "A climber is a plant with a thin stem that reaches the light by holding on to something else. Some climbers twine round a support. Others grab with tendrils, hook on with thorns or cling with roots.",
-   "description": "Light is the plant's food supply. In a crowded garden or forest, the tallest plants get the most light. A tree reaches the light by building a thick trunk, which takes years. A climber takes a short cut. It grows a thin, cheap stem and leans on someone else. A twiner, like a bean, winds its whole stem round a stick. A pea or a gourd sends out tendrils, curly threads that coil round anything they touch. Bougainvillea hooks on with thorns. A money plant clings with little roots. A young climbing shoot does not grow straight. Its tip slowly sweeps round in circles, feeling for something to hold. Charles Darwin timed a hop shoot. One full circle took about two hours. He also found that some tendrils start to curl within minutes of a touch.",
+   "description": "Plants need light to make their food. In a crowded garden or forest, the tallest plants get the most light. A tree reaches the light by building a thick trunk, which takes years. A climber grows a thin stem that needs much less food to build, and it leans on something else. A twiner, like a bean, winds its whole stem round a stick. A pea or a gourd sends out tendrils, curly threads that coil round anything they touch. Bougainvillea hooks on with thorns. A money plant clings with little roots. A young climbing shoot does not grow straight. Its tip slowly sweeps round in circles, feeling for something to hold. Charles Darwin timed a hop shoot. One full circle took about two hours. He also found that some tendrils start to curl within a minute or two of a touch.",
    "examples": [
     "Most twining plants in the world wind the same way. Scientists counted, and about 9 out of every 10 kinds twist in the same direction.",
     "Hops and honeysuckle are famous for twisting the other way.",
-    "Amarbel, called dodder, is a climber with no leaves at all. It finds the plant it will feed on by smell."
+    "Amarbel, called dodder, is a climber with no proper leaves. It finds the plant it will feed on by smell."
    ],
    "perspectives": [],
    "art": "A bean twining up a stick, a gourd tendril coiled round a string, bougainvillea thorns hooked on a wall and money-plant roots gripping a pole.",
-   "context": "Why do some plants climb instead of standing up by themselves? This card explains the climbers' clever short cut to the light."
+   "context": "Why do some plants climb instead of standing up by themselves? This card explains how climbers reach the light without building a trunk."
   },
   {
    "concept": "The tendril's double twist",
    "status": "defined",
    "definition": "When a tendril grabs a support, it coils into a spring that twists one way at one end and the other way at the other end. In the middle there is a switch point.",
-   "description": "Once the tip of a tendril has caught hold, both of its ends are fixed. One end is on the plant and one end is on the support. A thread fixed at both ends cannot simply twist one way. So it makes a spring that turns one way, then switches and turns the other way. Darwin saw this switch point and drew it. In 2012, a team of scientists at Harvard University worked out exactly how it happens. One side of the tendril shrinks more than the other, so it curls. The spring shape pulls the plant closer to its support, and lets it stretch a little in the wind without snapping.",
+   "description": "Once the tip of a tendril has caught hold, both of its ends are fixed. One end is on the plant and one end is on the support. A thread fixed at both ends cannot simply twist one way. So it makes a spring that turns one way, then switches and turns the other way. Darwin saw this switch point and described it. In 2012, a team of scientists at Harvard University worked out exactly how it happens. One side of the tendril shrinks more than the other, so it curls. The spring shape pulls the plant closer to its support, and lets it stretch a little in the wind without snapping.",
    "examples": [
     "An old curly telephone cord often has a switch point where the twist changes direction.",
     "A coiled gourd tendril pulls the vine up towards the string it caught."
@@ -359,7 +359,7 @@
    "examples": [
     "Pine trees in cold mountains have needle leaves that lose little water.",
     "Arbi leaves, like lotus leaves, make raindrops roll off in shiny balls.",
-    "Patharchatta, a common pot plant, grows tiny new plants along the edges of its leaves."
+    "Jalkumbhi, water hyacinth, has puffy leaf stalks full of air, so it floats on ponds."
    ],
    "perspectives": [],
    "art": "Five panels: a cactus with spines, a lotus leaf with water beads, a giant water lily leaf with a child-sized frog on it, a pitcher plant jug, and a pine needle.",
@@ -397,12 +397,12 @@
    "description": "Zoom into a leaf and you find millions of cells, packed like bricks. Inside each cell are tiny green blobs full of chlorophyll. Keep zooming. Each chlorophyll molecule is a ring of atoms with one magnesium atom at its centre. Light is made of tiny packets of energy called photons. When a photon hits a chlorophyll molecule, its energy is caught and passed along, from molecule to molecule, to the place where food is made. All of that is agreed. Scientists argue about one part. How does the energy find its way so fast, and lose so little on the way?",
    "examples": [
     "A leaf is only a few cells thick, so light can reach the green blobs in almost every cell.",
-    "Chlorophyll catches mainly red and blue light, and sends most green light back to our eyes."
+    "Chlorophyll catches red and blue light best. It catches less green light, so more green bounces back to our eyes."
    ],
    "perspectives": [
     {
      "who": "Gregory Engel, Graham Fleming and colleagues, in America, in 2007",
-     "explanation": "In the light-catching parts of some bacteria, the energy seemed to behave like a wave. It seemed to try many paths at once and pick the best one. This is a strange idea from quantum physics, the science of the very tiny."
+     "explanation": "In the light-catching parts of some bacteria, the energy seemed to behave like a wave. It seemed to spread along many paths at once, instead of hopping along one path. This is an idea from quantum physics, the science of the very tiny."
     },
     {
      "who": "Later scientists, from about 2017",
@@ -415,15 +415,15 @@
   {
    "concept": "Why are leaves green and not black?",
    "status": "idea",
-   "description": "This sounds like a silly question, but it is a real puzzle. A black leaf would soak up every colour of light. A green leaf throws away much of the green light, which is the brightest part of sunlight. So why are almost all leaves green? Nobody is completely sure. In 2020, Nathaniel Gabor and his team in California suggested an idea. Sunlight flickers up and down as clouds and leaves move. A leaf may be tuned to catch light steadily, without being flooded when the Sun bursts out. Throwing away the green may keep the leaf's light-catcher running smoothly, like a car that avoids sudden speeding up and braking. Other scientists think plants are green simply because of the history of life. Their ancestors in the sea used this kind of chlorophyll, and plants never switched.",
+   "description": "This sounds like a silly question, but it is a real puzzle. A black leaf would soak up every colour of light. A green leaf still soaks up most of the green light, but it lets more green bounce off than red or blue. Green is one of the strongest parts of sunlight. So why are almost all leaves green? Nobody is completely sure. In 2020, Nathaniel Gabor and his team in California suggested an idea. Sunlight flickers up and down as clouds and leaves move. A leaf may be tuned to catch light steadily, without being flooded when the Sun bursts out. Letting some green go may keep the leaf's light-catcher running smoothly, like a car that avoids sudden speeding up and braking. Other scientists think plants are green simply because of the history of life. Their ancestors in the sea used this kind of chlorophyll, and plants never switched.",
    "examples": [
     "Some leaves look red or purple, like red amaranth, lal saag. They still have chlorophyll, hidden by red colours.",
-    "Sunlight is brightest in the green part of the rainbow."
+    "Sunlight is strongest in the blue-green and green part of the rainbow."
    ],
    "perspectives": [
     {
      "who": "Nathaniel Gabor and colleagues, 2020",
-     "explanation": "Leaves reject green light to keep their energy supply steady when the light keeps changing."
+     "explanation": "Leaves let some green light go to keep their energy supply steady when the light keeps changing."
     },
     {
      "who": "Other scientists",
@@ -437,10 +437,10 @@
    "concept": "How plants grew their parts: a story 470 million years long",
    "status": "defined",
    "definition": "The first plants on land had no roots and no leaves. Over many millions of years, plants grew roots, then woody stems, then wide leaves, and much later flowers.",
-   "description": "For billions of years, life lived only in water. Then, about 470 million years ago, small green plants began to live on land. Fossils show that some of the earliest, like Cooksonia, were just thin forked stems, shorter than your finger, with no roots and no leaves. In rocks at Rhynie in Scotland, about 407 million years old, scientists found whole little plants turned to stone. They had no true roots. By about 400 million years ago, plants had roots and woody stems. By about 385 million years ago there were the first forests of real trees. Wide flat leaves only became common later, about 360 million years ago. Flowering plants came last, about 130 million years ago. Why did wide leaves take so long? One idea, from David Beerling and colleagues, is that early air had much more carbon dioxide. Plants had few stomata, so wide leaves would have overheated. That idea is still being tested.",
+   "description": "For about three billion years, almost all life lived in water. Then, about 470 million years ago, small green plants began to live on land. Fossils show that some of the earliest, like Cooksonia, were just thin forked stems, shorter than your finger, with no roots and no leaves. In rocks at Rhynie in Scotland, about 407 million years old, scientists found whole little plants turned to stone. They had no true roots. By about 400 million years ago, plants had roots and woody stems. By about 385 million years ago there were the first forests of real trees. Wide flat leaves only became common later, about 360 million years ago. Flowering plants came last, about 130 million years ago. Why did wide leaves take so long? One idea, from David Beerling and colleagues, is that early air had much more carbon dioxide. Plants had few stomata, so wide leaves would have overheated. That idea is still being tested.",
    "examples": [
     "Roots changed the whole Earth. They cracked rocks and helped make the first deep soils.",
-    "The founder's DeepKids species ladder marks plants taking root about 410 million years ago and the first trees about 385 million years ago."
+    "Much of India's coal formed from forests of plants that grew about 250 to 300 million years ago."
    ],
    "perspectives": [],
    "art": "A timeline from left to right: a tiny forked stem with no leaves, a plant with roots, a first forest of tall trees, wide leaves, and finally a flower.",
@@ -451,8 +451,8 @@
    "status": "idea",
    "description": "If there are plants on planets around other stars, what would they look like? Their leaves would be shaped by the light they get, just like leaves on Earth. Nancy Kiang, a scientist at NASA, worked on this with her team. Many stars are smaller and redder than our Sun. On a planet circling a red star, the light is dim and reddish. Plants there might be dark, even black, to catch every bit of it. On a planet with a brighter, bluer star, plants might reflect more light and look yellow or orange. Nobody has found plants on another planet. This is a careful guess, based on the rules that shape leaves here.",
    "examples": [
-    "Our Sun is a yellow-white star. Most of its light reaches the ground as visible light.",
-    "Many of the planets found so far circle small red stars."
+    "Our Sun is a yellow-white star. A lot of its light reaches the ground as the colours we can see.",
+    "Most stars in our galaxy are small red stars, and many planets have been found circling them."
    ],
    "perspectives": [],
    "art": "Three imaginary planets with different coloured stars in their skies: one with green plants, one with nearly black plants under a red star, one with orange plants under a blue-white star.",
@@ -466,7 +466,7 @@
   },
   {
    "text": "Some roots and stems store food for the plant to use later.",
-   "evidence": "Iodine, a brown liquid from the chemist, turns blue-black on a cut potato. That shows stored starch. A carrot top in water grows new leaves with no soil, using its stored food."
+   "evidence": "Povidone-iodine, a brown liquid from the chemist, turns blue-black on a cut potato. That shows stored starch. A carrot top in water grows new leaves with no soil, using its stored food."
   },
   {
    "text": "You can tell a stem from a root by its nodes and buds.",
@@ -490,7 +490,7 @@
    "claim": "Potatoes and carrots are both roots, because they both grow under the ground.",
    "who": "Many people, and some picture books",
    "for": "Both grow in the soil, both are fat, and both are dug up.",
-   "against": "A potato has eyes, which are buds, and buds grow on stems. Put an old potato in a dark basket and its eyes sprout shoots. A carrot has no eyes along its sides. Where a part grows does not decide what it is. Its clues do.",
+   "against": "A potato has eyes, which are buds, and buds grow on stems. Put an old potato in a dark basket and its eyes sprout shoots. A carrot has no eyes along its sides. Where a part grows does not tell you what it is. Its clues do.",
    "status": "rejected",
    "context": "This card is about a very common mix-up between two vegetables found in every Indian kitchen."
   },
@@ -529,27 +529,27 @@
   {
    "claim": "Leaves are green because green is the best colour for catching sunlight.",
    "who": "A natural guess",
-   "for": "Leaves are so good at catching light, so their colour must be the best one.",
-   "against": "A leaf looks green because it throws away much of the green light, and catches mostly red and blue. Black would catch more light. Why leaves throw away green is still being studied.",
+   "for": "Leaves are so good at catching light that their colour must be the best one.",
+   "against": "A leaf looks green because it lets more green light bounce off than red or blue. Black would catch more light. Why leaves let some green go is still being studied.",
    "status": "rejected",
    "context": "Leaves catch light to make food. This card is about whether their green colour helps or not."
   }
  ],
  "big_questions": [
   {
-   "q": "A carrot stores food for its own future. What do you store for your future?",
-   "kind": "big",
-   "hint": "Think of a piggy bank, a seed jar, a skill you are practising, or a friendship."
+   "q": "A carrot fills its root with sugar, then uses it all to make flowers and seeds. Why might a plant save food first and spend it later?",
+   "kind": "deep",
+   "hint": "Think about winter, or a dry season, when the leaves cannot make much food."
   },
   {
-   "q": "A climber leans on other plants to reach the light. Is leaning on others a weakness or a clever plan?",
-   "kind": "big",
-   "hint": "Who do you lean on? Who leans on you?"
+   "q": "A climber grows a thin stem and leans on other plants. What does it gain, and what does it risk?",
+   "kind": "deep",
+   "hint": "Think about the food it saves, and what happens to the bean with no stick."
   },
   {
-   "q": "Roots work in the dark, where nobody sees them, yet the whole plant depends on them. Who are the 'roots' in your family or school?",
-   "kind": "big",
-   "hint": "Who does the hidden work that keeps everything standing?"
+   "q": "Roots are hidden, so we hardly see them. Could a plant have more of itself under the ground than above it?",
+   "kind": "deep",
+   "hint": "One rye plant's roots, laid end to end, were about 600 kilometres long."
   },
   {
    "q": "If every part of a plant is shaped for its job, what is your hand shaped for? What about your ear, or your eye?",
@@ -559,7 +559,7 @@
   {
    "q": "Plants that are not related grow the same shapes when they live in the same kind of place. Does the place shape the living thing?",
    "kind": "deep",
-   "hint": "Compare a cactus in a desert with the people who live in deserts. What do they both have to save?"
+   "hint": "Think of cactuses in America and spiny euphorbias in Africa. They are not related, but they look almost the same."
   },
   {
    "q": "Is a potato a root because it grows underground, or a stem because it has buds? Who decides what a thing is?",
@@ -577,9 +577,9 @@
    "hint": "No grass, no trees, no soil as we know it. Just rock, water and tiny green stems."
   },
   {
-   "q": "Khasi and Jaintia families grow root bridges that take many years to become strong. Would you plant something you might not use yourself?",
+   "q": "A root bridge gets stronger every year, while a bridge of cut bamboo slowly rots. What is different about a bridge that is alive?",
    "kind": "big",
-   "hint": "Who planted the trees you sit under today?"
+   "hint": "A living root keeps growing. Cut bamboo cannot grow or mend itself."
   },
   {
    "q": "If there are plants on a planet with a red star, would they still be 'plants' if they were black?",
@@ -624,13 +624,13 @@
    "That evening, Jasmeet dug up one of the ten carrots. It was pale and woody, exactly like the one from last year. She held it next to the full tin of seed.",
    "When her father came home for Baisakhi, she showed him both. She did not explain. She just put the woody carrot in one of his hands and the tin of seed in the other, and watched him understand."
   ],
-  "epiphany": "For the parent: a carrot is a storage root. The plant packs it with sugar made by its leaves, not for us but for its own second year, when it uses that food to grow a tall flower stalk and seeds. Jasmeet's turn comes when she connects the sweet root with the woody root she found after the forgotten carrot flowered. The sweetness had moved up into the flowers and seeds. Shape and job go together: the root is fat because its job is to store. The story also quietly asks who seeds belong to, and what we keep back for the future.",
+  "epiphany": "For the parent: a carrot is a storage root. The plant packs it with sugar made by its leaves, not for us but for its own next stage, when it uses that food to grow a tall flower stalk and seeds. Jasmeet's turn comes when she connects the sweet root with the woody root she found after the forgotten carrot flowered. The sweetness had moved up into the flowers and seeds. Shape and job go together: the root is fat because its job is to store. The story also quietly asks who seeds belong to, and what we keep back for the future.",
   "ask": [
    "Why do you think a carrot makes itself so sweet, if it does not want to be eaten?",
    "Where did the sweetness of the forgotten carrot go?",
    "Why did Harpreet leave a crown of green at the top of each carrot?",
    "Jasmeet's mother wanted to sell every fat carrot. Jasmeet wanted to keep ten. Who was right, and why?",
-   "What does your family keep back, or save, for next year?"
+   "Jasmeet chose straight carrots with no cracks. Why choose the best carrots to make seed?"
   ],
   "art": [
    "A foggy winter field in Haryana, with a girl pulling a long red carrot from the soil with both hands.",
@@ -1308,7 +1308,7 @@
      "t": "truefalse",
      "p": "A tendril coiled round a stick twists one way at one end and the other way at the other end.",
      "a": true,
-     "why": "True. Both ends are held, so it cannot twist all one way. It makes a spring with a switch point in the middle. Darwin drew it, and scientists explained it in 2012.",
+     "why": "True. Both ends are held, so it cannot twist all one way. It makes a spring with a switch point in the middle. Darwin described it, and scientists explained it in 2012.",
      "context": "In the Tickle a Tendril activity, you look closely at the coiled tendrils of a gourd or pea plant.",
      "how": "a3"
     },
@@ -1356,7 +1356,7 @@
       "Insects ate the sugar"
      ],
      "a": 0,
-     "why": "The carrot stored sugar for its second year. When it flowered, it used that food to grow a tall stalk and seeds. Picking 'insects ate it' is a reasonable guess. But the root is not damaged, it is just emptied out.",
+     "why": "The carrot stored sugar for the next stage of its life. When it flowered, it used that food to grow a tall stalk and seeds. Picking 'insects ate it' is a reasonable guess. But the root is not damaged, it is just emptied out.",
      "context": "In this unit's story, Jasmeet replants ten carrots instead of selling them. They grow tall white flowers and make seed."
     },
     {
@@ -1382,7 +1382,7 @@
      "t": "write",
      "p": "Your friend says, 'Fat roots grow big so that we can eat them.' What would you tell your friend?",
      "lines": 3,
-     "a": "The root stores food for the plant itself. A carrot left in the ground uses that food next year to grow a flower stalk and seeds. We just eat it before it gets the chance.",
+     "a": "The root stores food for the plant itself. A carrot left in the ground uses that food later to grow a flower stalk and seeds. We just eat it before it gets the chance.",
      "why": "A good answer says who the food is really for, and gives evidence, like a carrot that flowers."
     },
     {
@@ -1512,10 +1512,10 @@
     },
     {
      "t": "write",
-     "p": "A Khasi root bridge takes 10 to 15 years to become strong enough to walk on. Why do you think families still build them?",
+     "p": "A Khasi root bridge gets stronger every year. A bridge made of cut bamboo slowly rots in the rain. Why is the root bridge different?",
      "lines": 4,
-     "a": "Because the bridge gets stronger as it grows, and can last for generations. The families are building for their children and grandchildren, not only for themselves.",
-     "why": "Any thoughtful answer about planning for the future, or for others, is good. This links plant shapes to how people live together.",
+     "a": "The root bridge is made of living roots. They keep growing thicker, join together and mend damage. Cut bamboo is no longer growing, so it cannot mend itself, and it rots.",
+     "why": "A good answer says that the roots are alive and still growing, so the bridge can grow stronger and repair itself.",
      "context": "In Meghalaya, Khasi and Jaintia people guide the aerial roots of rubber fig trees across streams. Over many years the roots grow thick and become bridges."
     },
     {
@@ -1587,7 +1587,7 @@
    "mins": 35,
    "days": 8,
    "question": "Do roots and stems that store food have enough food inside to grow new shoots, with no soil at all?",
-   "predict": "Before you start, guess. Which piece will grow the tallest shoot in 8 days: the carrot top, the carrot middle, the mooli top, the onion or the potato? Will any piece grow nothing at all?",
+   "predict": "Before you start, guess. Which piece will grow the tallest shoot in 8 days: the carrot top, the carrot middle, the mooli top, the onion or the potato? Will any piece grow nothing at all? Why do you think so?",
    "fair_test": "Give every piece the same: the same depth of water, the same window, and fresh water every 2 days. Change only the kind of piece. The carrot middle is our check. It is the same carrot, but with no top, so we find out where new shoots grow from.",
    "results_table": [
     "Piece",
@@ -1615,9 +1615,8 @@
      "qty": 3
     },
     {
-     "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "item": "a ruler with millimetre marks, like the one in a school geometry box",
+     "qty": 1
     }
    ],
    "safety": "A grown-up does all the cutting. Throw the pieces away at the end. Do not eat them.",
@@ -1690,7 +1689,7 @@
      "say": "Lay the ruler next to the shoot. Start at zero, where the shoot comes out. Read the small lines. Each one is a millimetre.",
      "kid": "Every two days, measure the tallest shoot. Start the ruler at zero. Write the number. Give fresh water.",
      "wait": "Measure again every 2 days, for 8 days.",
-     "parent": "The onion usually grows first, and fastest. The carrot and mooli tops grow feathery leaves in 3 to 5 days. The potato's eyes may take a week. The carrot middle grows nothing, because it has no buds. If anything goes slimy, throw it away and note it in the table.",
+     "parent": "The onion usually grows first, and fastest. The carrot and mooli tops grow feathery leaves in 3 to 5 days. The potato's eyes may take a week or more, so a potato that is already sprouting a little works best. The carrot middle grows nothing, because it has no buds. If anything goes slimy, throw it away and note it in the table.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1786,8 +1785,8 @@
      "id": "s6",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: food stores can grow new shoots without soil, but only from a bud. What I saw: the onion grew 60 mm and the carrot top 40 mm. The carrot middle grew nothing. Why: the stored food feeds the new shoot, and the shoot grows from the bud at the top."
     }
    ],
@@ -1847,7 +1846,7 @@
    "mins": 25,
    "days": 1,
    "question": "Which roots and stems store their food as starch, and which store it as sugar?",
-   "predict": "Guess first. Iodine turns blue-black where there is starch. Which pieces will turn blue-black: potato, carrot, sweet potato, ginger, onion or raw banana?",
+   "predict": "Guess first. Iodine turns blue-black where there is starch. Which pieces will turn blue-black: potato, carrot, sweet potato, ginger, onion or raw banana? Why do you think so?",
    "fair_test": "Cut every piece fresh, the same size. Put the same number of drops, three, on each. Wait the same time, one minute, before you look.",
    "results_table": [
     "Piece",
@@ -1942,8 +1941,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: roots and stems store food in different ways. What I saw: the potato, sweet potato and ginger turned blue-black, but the carrot and onion stayed brown. Why: some plants store their food as starch and some store it as sugar."
     }
    ],
@@ -2017,7 +2016,7 @@
    "mins": 30,
    "days": 1,
    "question": "Are leaves that grow in the shade a different size from leaves that grow in the sun, on the same plant?",
-   "predict": "Guess first. Will the leaves from the shady inside of a bush be bigger, smaller or the same size as the leaves from its sunny outside?",
+   "predict": "Guess first. Will the leaves from the shady inside of a bush be bigger, smaller or the same size as the leaves from its sunny outside? Why do you think so?",
    "fair_test": "Take all the leaves from the same plant. Take 5 from the sunny outside and 5 from the shady inside. Pick fully grown leaves, not baby ones. Measure every leaf the same way, by counting squares.",
    "results_table": [
     "Leaf",
@@ -2026,11 +2025,11 @@
    ],
    "materials": [
     {
-     "item": "a big bush or a low tree with simple leaves, like hibiscus, guava, mango or a money plant that grows in both sun and shade",
+     "item": "a bush or a low tree with simple leaves, like hibiscus, guava or mango, near your building or in a park. This test needs a plant with a sunny outside and a shady inside, so do it when you can reach one",
      "qty": 1
     },
     {
-     "item": "squared paper with 1 cm squares",
+     "item": "squared paper with 1 cm squares, or plain paper on which you draw 1 cm squares with a ruler",
      "qty": 2,
      "buy": "b-grid"
     },
@@ -2123,8 +2122,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: leaves in the shade grow bigger. What I saw: the middle shade leaf covered 27 squares and the middle sun leaf covered only 18. The shade leaf was thinner too. Why: there is less light in the shade, so a bigger leaf catches more of it."
     }
    ],
@@ -2169,7 +2168,7 @@
    "mins": 30,
    "days": 1,
    "question": "Do roots really hold soil together when water rushes over it?",
-   "predict": "Guess first. When we pour water over a slope of bare soil and a slope of soil with grass roots, which will lose more soil?",
+   "predict": "Guess first. When we pour water over a slope of bare soil and a slope of soil with roots, which will lose more soil? Why do you think so?",
    "fair_test": "Use two trays of the same size and the same soil, tilted on the same books. Pour the same amount of water, from the same height, at the same speed. Change only one thing: one tray has grass with roots, the other is bare.",
    "results_table": [
     "Tray",
@@ -2182,7 +2181,7 @@
      "qty": 2
     },
     {
-     "item": "a clump of grass dug up with its soil and roots, and the same amount of bare soil",
+     "item": "a clump of grass dug up with its soil and roots. In a flat, grow it instead: 10 days before, scatter a thick layer of wheat, methi or mustard seeds on soil in one tray and water a little every day. The seedlings make a mat of roots. You also need the same amount of bare soil, from a pot or a bag of potting soil",
      "qty": 1
     },
     {
@@ -2190,7 +2189,7 @@
      "qty": 2
     },
     {
-     "item": "a ruler and a hand lens",
+     "item": "a ruler, and a hand lens if you have one",
      "qty": 1,
      "buy": "b-lens"
     }
@@ -2208,7 +2207,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. A grown-up digs up a small clump of grass with its soil. 2. Gently shake soil off one corner. 3. Look at the roots with a hand lens. 4. If you have a moong sprout, look at its root too, against black paper.",
+     "do": "1. A grown-up digs up a small clump of grass with its soil, or lifts the mat of seedlings you grew. 2. Gently shake soil off one corner. 3. Look at the roots, with a hand lens if you have one. 4. If you have a moong sprout, look at its root too, against black paper.",
      "say": "Look how many thin roots there are. They spread out like a net. And look at the tiny white fuzz on the sprout. Those are root hairs.",
      "kid": "Look at the grass roots with a hand lens. How many can you count? Look at a moong sprout's root too. See the fuzz?",
      "adult": true,
@@ -2221,7 +2220,8 @@
        ]
       }
      ],
-     "context": "This is the first step of Roots Hold the Soil. You look closely at grass roots before testing whether they stop soil being washed away."
+     "context": "This is the first step of Roots Hold the Soil. You look closely at grass roots before testing whether they stop soil being washed away.",
+     "parent": "If you have no grass nearby, sow wheat, methi or mustard seeds thickly in the tray about 10 days before. They sprout in 2 to 3 days in warm weather and make a thick mat of roots."
     },
     {
      "id": "s2",
@@ -2279,8 +2279,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: roots hold soil together. What I saw: the bare tray lost 12 mm of mud and the grass tray only 2 mm. Why: the grass roots make a net that grips the soil, so the water cannot carry it away."
     }
    ],
@@ -2332,7 +2332,7 @@
      "qty": 1
     },
     {
-     "item": "a hand lens",
+     "item": "a hand lens, if you have one",
      "qty": 1,
      "buy": "b-lens"
     },
@@ -2362,7 +2362,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Look at each vegetable with a hand lens. 2. Look for eyes, rings and tiny side roots. 3. On the potato, join its eyes with a finger. Do they go round in a spiral?",
+     "do": "1. Look at each vegetable closely, with a hand lens if you have one. 2. Look for eyes, rings and tiny side roots. 3. On the potato, join its eyes with a finger. Do they go round in a spiral?",
      "say": "Look closely. Does it have eyes? Rings? Tiny root hairs? Write down what you find.",
      "kid": "Look at each one with the hand lens. Find eyes, rings or tiny hairs. Join the potato's eyes with your finger. Is it a spiral?",
      "ask": [
@@ -2435,7 +2435,7 @@
      "qty": 1
     },
     {
-     "item": "a hand lens",
+     "item": "a hand lens, if you have one",
      "qty": 1,
      "buy": "b-lens"
     }
@@ -2490,11 +2490,11 @@
        "Under the ground"
       ],
       "a": 0,
-      "why": "A waxy skin works like a raincoat. It stops water escaping from the leaf in hot sun and wind. On lotus and arbi leaves, wax also makes rain roll off. Picking 'dark cupboard' usually means mixing up shiny with wet. Leaves grow where there is light."
+      "why": "A waxy skin works like a raincoat. It stops water escaping from the leaf in hot sun and wind. On lotus and arbi leaves, wax also makes rain roll off. Picking 'dark cupboard' cannot be right, because leaves need light and grow where there is light."
      }
     }
    ],
-   "context": "This is a leaf hunt and album. You collect ten different leaves, describe them, give them pet names and think about how each shape suits where it grew. It comes from the DeepKids founder's Leaf Detective idea.",
+   "context": "This is a leaf hunt and album. You collect ten different leaves, describe them, give them pet names and think about how each shape suits where it grew.",
    "setup": [
     {
      "art": "A child and a parent on a leafy lane, the child dropping a leaf into a cloth pouch.",
@@ -2529,7 +2529,7 @@
      "qty": 1
     },
     {
-     "item": "a hand lens",
+     "item": "a hand lens, if you have one",
      "qty": 1,
      "buy": "b-lens"
     }
@@ -2676,7 +2676,7 @@
      "think": "Many sunflowers have Fibonacci spirals, but not all. Why might a plant break the pattern?"
     }
    ],
-   "context": "In this activity you look down on plants from above and find the jigsaw and spiral patterns that help leaves catch light. It grows from the founder's idea of looking at a plant's leaves to find order and patterns.",
+   "context": "In this activity you look down on plants from above and find the jigsaw and spiral patterns that help leaves catch light.",
    "setup": [
     {
      "art": "A child standing over a pot plant, looking straight down at its leaves fitting together like a jigsaw.",
@@ -2752,7 +2752,7 @@
      }
     }
    ],
-   "context": "This is a movement activity. You use your body to act out how a root grips, how a climbing stem winds up a support and how leaves reach for light. It uses the founder's dance, yoga and building-block ideas.",
+   "context": "This is a movement activity. You use your body to act out how a root grips, how a climbing stem winds up a support and how leaves reach for light.",
    "setup": [
     {
      "art": "A child in tree pose on one foot with arms up, then standing with feet spread wide like roots.",
@@ -2777,7 +2777,7 @@
    "days": 21,
    "materials": [
     {
-     "item": "6 seeds of a climbing bean: sem, lobia or a pole bean",
+     "item": "6 seeds of a climbing bean: sem or a pole bean from a nursery or seed shop. Dry lobia from the kitchen may also work, but some kinds stay bushy and do not climb",
      "qty": 6,
      "buy": "b-seeds"
     },
@@ -2795,8 +2795,7 @@
     },
     {
      "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     }
    ],
    "safety": "Wash hands after handling soil. Raw beans are not safe to eat, so plant them, do not taste them.",
@@ -2880,7 +2879,7 @@
      "say": "Let's write it up like a botanist. What did the climbing shoot do? What did the floppy one do? Why is a thin, twining stem a good plan?",
      "kid": "Measure both pots. Give the floppy beans a stick. Write your report. What surprised you most?",
      "wait": "Do this at about day 21.",
-     "think": "A climber reaches the light by leaning on others. Is that cheating, or is it clever?"
+     "think": "The bean with no stick kept growing long and thin. What do you think it was spending its food on?"
     }
    ],
    "context": "In this three-week project, you grow climbing beans in two pots, one with a stick and one without. You trace the circling tip and watch which way the stem winds.",
@@ -3054,7 +3053,7 @@
      "do": "Read the creative ideas and try one of them, or your child's own idea.",
      "say": "Can we make the tube even stronger? Try adding rings, like bamboo's nodes.",
      "kid": "Try to beat the tube. Add rings like bamboo. Or roll three thin tubes together. Test it!",
-     "think": "Bicycle frames and the poles that hold up shamianas are tubes too. Who copied whom?"
+     "think": "Bicycle frames and the poles that hold up shamianas are tubes too. Why do you think engineers chose the same shape as bamboo?"
     }
    ],
    "context": "This is an engineering challenge. You make paper stems in different shapes and test which holds up the most books. It shows why so many plant stems are tubes.",
@@ -3076,8 +3075,8 @@
  ],
  "videos": [
   {
-   "title": "How a plant grows (from the founder's weekly activity 'Let grow and grow')",
-   "channel": "linked in the founder's DeepKids notes",
+   "title": "How a plant grows",
+   "channel": "not known yet: check before showing",
    "youtube": "ib5uiLMM2wY",
    "mins": 5,
    "why": "Shows a seed growing its first root, stem and leaves, a good recap before looking at how each part's shape suits its job.",
@@ -3164,7 +3163,7 @@
     "It tastes spicy"
    ],
    "a": 0,
-   "why": "Rings are nodes, and buds grow at nodes. Only stems have these. Picking 'grows underground' is the most common mistake. Roots and stems can both grow underground.",
+   "why": "Rings are nodes, and buds grow at nodes. Stems have these, and roots usually do not. Picking 'grows underground' is the most common mistake. Roots and stems can both grow underground.",
    "outcome": 2
   },
   {
@@ -3184,13 +3183,13 @@
    "t": "mcq",
    "p": "Why does a carrot plant store food in its root?",
    "opts": [
-    "To use next year to grow a flower stalk and seeds",
+    "To use later to grow a flower stalk and seeds",
     "So that people will eat it",
     "Because the leaves cannot hold any food",
     "To make the root heavy so it does not blow away"
    ],
    "a": 0,
-   "why": "A carrot plant lives for two years. The food stored in its first year feeds its flowers and seeds in the second. Picking 'so people will eat it' sees the plant as made for us.",
+   "why": "A carrot stores food in its root first. Later, after the cold weather, it uses that food to grow its flowers and seeds. Picking 'so people will eat it' sees the plant as made for us.",
    "outcome": 3
   },
   {
@@ -3320,7 +3319,7 @@
     "Leaves are not really green"
    ],
    "a": 0,
-   "why": "It is still argued about. Picking 'green catches the most light' is a common idea, but leaves actually throw away much of the green light. Black would catch more.",
+   "why": "It is still argued about. Picking 'green catches the most light' is a common idea. But a leaf lets more green light bounce off than red or blue, and a black leaf would catch more.",
    "outcome": 6
   },
   {
@@ -3358,11 +3357,10 @@
   "Khasi and Jaintia people in Meghalaya grow living bridges from the aerial roots of rubber fig trees.",
   "Bamboo stems, strong tubes, are used for scaffolding, ladders, houses and furniture.",
   "Self-cleaning paints and glass copy the bumpy, waxy surface of the lotus leaf.",
-  "Engineers study how leaves fit together, to arrange solar panels so they shade each other less.",
   "Gardeners give climbers a support, like a trellis or a string, so they can reach the light.",
   "Sugar is made from sugarcane stems and sugar beet roots, where those plants store their food.",
-  "Doctors and cooks use haldi and ginger, two underground stems.",
-  "The Crystal Palace, a giant glass building in London in 1851, was designed by a gardener who said he copied the ribs of a giant water lily leaf."
+  "Cooks use haldi and ginger, two underground stems, in almost every Indian kitchen.",
+  "The Crystal Palace, a giant glass building in London in 1851, was designed by a gardener who said the ribs of a giant water lily leaf gave him the idea."
  ],
  "spotted": [
   {
@@ -3444,15 +3442,15 @@
   "That potato is sprouting. Is it a root or a stem? How do you know?",
   "Why do you think that vine is wrapped round the fence?",
   "Which leaves on that tree get the most sun? Are they smaller or bigger?",
-  "If this carrot had stayed in the ground, what would it have done next year?",
+  "If this carrot had stayed in the ground, what would it have done with its stored sugar?",
   "What is the stem of this plant shaped like? Why?",
   "Can you find a root that is not underground today?",
   "Look down on this plant. Do the leaves hide each other?",
   "Which part of the plant are we eating for dinner tonight?",
   "Why do you think banyan trees are so wide?",
-  "What do you store for later, like a carrot does?",
+  "Which vegetables in our kitchen are storing food for a plant? Which part of the plant is each one?",
   "If you were a plant, which hard place would you choose to live in? What shape would you be?",
-  "Who in our family is like a root, doing hidden work that holds everything up?"
+  "Can you find a stem today that is shaped like a tube?"
  ],
  "jokes": [
   {
@@ -3488,8 +3486,8 @@
    "a": "It had too many layers of feelings."
   },
   {
-   "j": "What do you call a banyan that tells long stories?",
-   "a": "A tree with lots of supporting roots."
+   "j": "Why did the banyan tree need so many pillars?",
+   "a": "It kept branching out."
   },
   {
    "j": "Why did the ginger get a ring?",
@@ -3871,7 +3869,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a science museum in San Francisco. Search for leaves and plants. It is on the founder's list of STEM websites."
+   "why": "Free, tested hands-on activities from a science museum in San Francisco. Search for leaves and plants."
   },
   {
    "title": "Science Buddies",
@@ -3892,7 +3890,7 @@
    "id": "b-lens",
    "item": "Magnifying glass (hand lens)",
    "kind": "tool",
-   "why": "To see root hairs, potato eyes, ginger rings and the veins of leaves.",
+   "why": "To see root hairs, potato eyes, ginger rings and the veins of leaves. Useful but not needed: eyes alone work for every step.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "a1",
@@ -3916,7 +3914,7 @@
    "id": "b-grid",
    "item": "Squared paper notebook with 1 cm squares",
    "kind": "material",
-   "why": "For tracing leaves and counting squares in Sun Leaf, Shade Leaf.",
+   "why": "For tracing leaves and counting squares in Sun Leaf, Shade Leaf. You can also draw 1 cm squares on plain paper with a ruler.",
    "url": "https://www.amazon.in/s?k=1+cm+square+graph+notebook",
    "used_in": [
     "e3"
@@ -3929,17 +3927,6 @@
    "why": "For the Climbing Bean Diary. Check the packet says 'pole' or 'climbing', not 'bush'.",
    "url": "https://www.amazon.in/s?k=pole+bean+seeds",
    "used_in": [
-    "p1"
-   ]
-  },
-  {
-   "id": "b-ruler",
-   "item": "30 cm ruler with millimetre marks",
-   "kind": "tool",
-   "why": "For measuring new shoots in Wake the Store and the bean stems in the diary.",
-   "url": "https://www.amazon.in/s?k=30+cm+ruler",
-   "used_in": [
-    "e1",
     "p1"
    ]
   },
@@ -4069,11 +4056,10 @@
   ],
   "spine": [
    "intro",
-   "story",
-   "a3",
+   "e1",
+   "a1",
    "explanations",
    "roots",
-   "big_questions",
    "quiz"
   ]
  },
@@ -4109,53 +4095,66 @@
  "roots": {
   "context": "We have been learning how roots, stems and leaves are each shaped for their job. Now we ask what a plant's shape tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A plant is not a thing with parts. It is one life doing many jobs.",
-   "habit": "We cut a plant into roots, stem and leaves. But no part lives alone; each one is the whole plant reaching for something.",
-   "evidence": "A leaf dies when cut off, and roots cannot live without leaves."
+   "truth": "A potato is a stem and a sweet potato is a root. Yet both are fat, both grow underground, and both are full of stored food. Doing the same job gave two different parts the same shape. So looking alike can mean doing the same job, not being the same kind of thing.",
+   "habit": "We sort things by how they look and where we find them. Fat and underground seems to mean root. But what a part is depends on what it grows from, and its buds show that. Its shape only tells us its job.",
+   "evidence": "In Sabzi Detectives, the potato has eyes in a spiral and the sweet potato has none. In Wake the Store, the potato's eyes grow shoots, because they are buds on a stem."
   },
   "three": {
-   "who_am_i": "Your hand is shaped for gripping. A root is shaped for holding soil.",
-   "what_is_life": "Each part of a plant does its own job. Together they make one living thing that senses and chooses.",
-   "what_is_this_world": "A hard place, like a desert, shapes the plants that live there."
+   "who_am_i": "Your arm and a bat's wing have the same bones inside, shaped for different jobs. What you look like comes partly from what you do.",
+   "what_is_life": "A plant grows each part to suit its job and its place. A shade leaf grows bigger than a sun leaf on the same plant.",
+   "what_is_this_world": "In the world, things that do the same job often end up looking alike, even when they started out different."
   },
-  "thread": "A tiny seed holds no visible root, stem or leaf. Yet from it a whole plant grows, with each part shaped for its job. DeepKids believes this is the One becoming the many: one seed, many parts, one life. Roots, stems and leaves look different, but they are one plant. Your hands, eyes and ears are one you.",
+  "thread": "A whole plant grows from one cell inside a seed. That cell divides again and again. Its cells become roots, stems, leaves, tendrils, spines and petals, each shaped for its job. DeepKids believes that one life takes many forms, and a single plant shows this inside one body. You also grew from one cell, into hands, eyes and ears.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son to split a banyan seed. 'What do you see?' 'Nothing.' From that unseen nothing, a great banyan tree grows.",
-    "link": "A carrot seed holds the plan for a root, a stem and leaves. You cannot see them inside, yet they are there."
+    "link": "Inside a seed you cannot see a root, a stem or a leaf. Yet all of them grow from it, each with its own shape."
+   },
+   {
+    "source": "Udana 6.4, a Buddhist text. Jain teachers tell the same story to explain anekantavada, many-sidedness",
+    "teaching": "Blind men each touch one part of an elephant. One feels the trunk and says an elephant is like a snake. Another feels a leg and says it is like a pillar. Each is partly right, and each is wrong about the whole.",
+    "link": "One clue can fool us. Underground and fat makes a potato seem like a root. Botanists look at many clues together, like buds, rings and what the part grows from."
    },
    {
     "source": "Johann Wolfgang von Goethe, The Metamorphosis of Plants (1790)",
     "teaching": "Goethe, a German poet, believed every part of a flower is a changed leaf. One basic form takes many shapes.",
-    "link": "Petals, tendrils and some spines really are changed leaves. One plan, shaped many ways for many jobs."
+    "link": "Petals and pea tendrils really are changed leaves. Here very different shapes turn out to be the same kind of part."
    }
   ],
   "science": [
    {
-    "text": "All living things, plants and people too, share one ancestor from long ago.",
+    "text": "Cactuses in America and spiny euphorbias in Africa are not related, but both grew fat, green, spiny stems in dry places. Biologists call this convergent evolution: unrelated living things grow alike because they live in a similar way.",
     "status": "settled"
    },
    {
-    "text": "Why leaves are green and not black is still argued about. Black would catch more light.",
-    "status": "debated"
+    "text": "A few genes decide whether a part grows as a leaf, a petal or a stamen. Switch them off, and a flower grows only leaf-like parts (Coen and Meyerowitz, 1991).",
+    "status": "settled"
    }
   ],
   "other_view": {
-   "who": "Many plant scientists",
-   "view": "In 2019, a group of plant scientists wrote that plants sense touch and light, but do not feel anything. They have no brain, so there is nobody inside to feel."
+   "who": "Rolf Sattler, a Canadian botanist, and others who study plant shape",
+   "view": "They say root, stem and leaf are boxes people made. Many real plant parts sit between the boxes, partly stem and partly leaf. So asking 'is it really a stem?' may not always have one answer."
   },
   "practice": {
-   "title": "One plant, many parts",
+   "title": "Two look-alikes",
    "mins": 3,
-   "say": "Let's find a small plant, maybe a weed we can pull gently. Close your eyes and hold it. Touch the roots with one finger. Feel how thin and many they are. Move up to the stem. Then the leaf. Breathe slowly as you go. Open your eyes. Many parts, and all one plant.",
-   "kid": "Hold a small plant. Close your eyes. Touch its roots, its stem, then a leaf. Notice each one feels different."
+   "say": "Close your eyes. I will put a potato in one hand and a sweet potato in the other. Feel them slowly. Feel how heavy they are, and how smooth. Now open your eyes and look for eyes on each one. They felt alike. One is a root and one is a stem. Breathe in slowly, and out slowly.",
+   "kid": "Close your eyes. Hold a potato and a sweet potato. Do they feel alike? Now look for eyes on each one."
   },
   "ask": [
-   "Are the roots, stem and leaves one thing, or many?",
-   "Who decides whether a potato is a root or a stem?",
+   "A potato and a sweet potato look alike. Is a thing what it looks like, or what it grew from?",
+   "A cactus spine is a leaf that no longer catches light. Is it still a leaf?",
    "Does a tendril feel it when it touches something?"
   ],
-  "art": "A split banyan seed in a child's palm, with a faint whole plant, roots, stem and leaves, glowing above it."
+  "art": "A potato and a sweet potato side by side in a child's two hands, the potato's eyes circled, with faint drawings of a stem and a root behind them."
+ },
+ "how_we_found_out": {
+  "context": "Are a flower's petals a new kind of part, or leaves in another shape? This card tells the true story of how scientists found out.",
+  "story": "In 1790 the German poet and thinker Johann Wolfgang von Goethe wrote a short book about plants. He had noticed parts that were halfway between a leaf and a petal. He guessed that every part of a flower is a leaf that has changed shape. Many botanists treated petals, stamens and leaves as completely different kinds of part. For about 200 years nobody could test Goethe's guess properly. Then, in the 1980s, scientists studied flowers that had grown wrongly. Enrico Coen and Rosemary Carpenter in England worked on snapdragons. Elliot Meyerowitz and his team in America worked on a small weed called thale cress. In some odd flowers, petals grew where the stamens should be. In 1991, Coen and Meyerowitz explained it. A few genes, working together, decide what each part of a flower becomes. When scientists switched off three of these genes, the flower grew only green, leaf-like parts. In 2001, Takashi Honma and Koji Goto in Japan did the reverse. They switched these genes on in ordinary leaves, and the leaves grew like petals.",
+  "who": "Johann Wolfgang von Goethe (1790); Enrico Coen and Rosemary Carpenter in England, and Elliot Meyerowitz and his team in America (1980s to 1991); Takashi Honma and Koji Goto in Japan (2001)",
+  "when": "Goethe's idea in 1790; the flower genes explained in 1991; leaves turned into petals in 2001",
+  "wrong_idea": "That petals, stamens and leaves are completely different kinds of part. Flowers with changed genes showed that they are all built on the plan of a leaf, and a few genes decide which shape each one takes. Goethe also went too far: some sharp points, like bougainvillea thorns, are changed branches, not leaves.",
+  "art": "A row of flowers: an ordinary snapdragon, an odd one with extra petals where the stamens should be, and one made only of small green leaf-like parts, with a leaf turned petal-coloured at the end."
  }
 }
