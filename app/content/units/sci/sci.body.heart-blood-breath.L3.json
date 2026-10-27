@@ -1,20 +1,20 @@
 {
  "id": "sci.body.heart-blood-breath.L3",
- "title": "Heart, blood and breath: the two circles inside you",
+ "title": "Heart, blood and breath: how oxygen reaches every part of you",
  "level": 3,
  "summary": {
-  "text": "This unit is about your heart, your blood and your breathing. Your heart is a muscle, about the size of your fist. It squeezes about a hundred thousand times a day, and pushes blood round your body in a loop. Your lungs pull air in and push it out. In the lungs, blood picks up oxygen, a gas in the air that every part of you needs. Blood carries that oxygen, and food, to every tiny part of you, and carries waste away. You can feel all of this working: your pulse in your wrist, your chest rising and falling, and both speeding up when you run. Scientists know a lot about this pump and these air bags. But they still wonder why a human heart can hardly repair itself, and how our heartbeat and our feelings talk to each other.",
+  "text": "Put two fingers on your wrist and you can feel your heart at work. Your heart is a muscle about the size of your fist, and it squeezes more than a hundred thousand times a day. Each squeeze pushes blood through tubes all over your body, and the same blood keeps coming back to the heart. On the way, the blood passes through the lungs and picks up oxygen, a gas in the air that every part of you needs. It carries oxygen and food to every part of you, and carries waste away. When you run, your heart and your breathing speed up, because your muscles need more oxygen. Scientists still do not know why a human heart can hardly repair itself, or how much our heartbeat shapes our feelings.",
   "art": "A child standing with one hand on the chest and one on the tummy, a see-through view showing a red heart, two pink lungs and red and blue loops of blood vessels spreading out to the hands and feet."
  },
  "intro": {
-  "hook": "Sit very still. Put your hand flat on the middle of your chest, a little to the left. Wait, and do not talk. Can you feel something knocking? It has been knocking since before you were born. It has never once stopped. What is it doing?",
-  "text": "About 400 years ago, an English doctor called William Harvey did a sum. He guessed how much blood a heart pushes out with each beat. Then he counted the beats. In one hour, the heart pushed out more blood than the weight of a whole person. Where could all that blood come from? Where could it go? Harvey's answer changed medicine for ever. The same blood must go round and round, again and again. In this unit you will feel that circle, count it and hear it.",
+  "hook": "Sit very still. Put your hand flat on the middle of your chest, a little to the left. Wait, and do not talk. Can you feel a beat under your hand? It started long before you were born, and it has never stopped. What is it doing?",
+  "text": "About 400 years ago, an English doctor called William Harvey did a sum. He worked out roughly how much blood a heart pushes out with each beat. Then he counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. Where could all that blood come from? Where could it go? No body could make that much new blood so fast. So the same blood must go round and round, again and again. In this unit you will feel your heartbeat, count it and listen to it.",
   "art": "A small child with eyes closed and a hand flat on the chest, and around the hand, faint ripple lines like a drum being struck."
  },
  "outcomes": [
   "I can say that the heart is a muscle that pumps blood, and that blood goes round the body in a loop and comes back.",
   "I can find my pulse, count it fairly, and show how exercise changes it in a table and a bar chart.",
-  "I can explain how we breathe: a muscle under the lungs pulls down, and air flows in. I can say that we breathe in oxygen and breathe out carbon dioxide.",
+  "I can explain how we breathe: a muscle under the lungs tightens and moves down, and air flows in. I can say that we breathe in oxygen and breathe out carbon dioxide.",
   "I can say what blood is made of and what it carries: oxygen and food to every part of the body, and waste away.",
   "I can explain why my heart and breathing speed up when I run or feel scared, and how slow breathing can calm my heart. I can name ways to keep my heart and lungs healthy.",
   "I can tell how people found out about the heart and blood, from Galen to Ibn al-Nafis, William Harvey and Helen Taussig, and why their ideas changed.",
@@ -24,9 +24,15 @@
  "terms": [
   {
    "term": "Heart",
-   "meaning": "A muscle in the middle of your chest, tipped a little to the left. It squeezes again and again to push blood round your body.",
-   "example": "Your heart is about the size of your own fist. It beats about 100,000 times a day.",
+   "meaning": "A muscle in the middle of your chest, tipped a little to the left. It squeezes again and again to push blood round your body. Inside, it has four hollow spaces called chambers.",
+   "example": "Your heart is about the size of your own fist. A child's heart beats more than 100,000 times a day.",
    "art": "A fist next to a heart shape of the same size, inside an outline of a child's chest."
+  },
+  {
+   "term": "Chamber",
+   "meaning": "One of the four hollow spaces inside the heart. The two top chambers, called atria, take in blood coming back to the heart. The two bottom chambers, called ventricles, squeeze blood out.",
+   "example": "The left ventricle has the thickest wall of all, because it pushes blood all round the body.",
+   "art": "A heart cut open like a fruit, showing two small top chambers and two bigger bottom chambers, the bottom left one with the thickest wall."
   },
   {
    "term": "Blood",
@@ -48,14 +54,14 @@
   },
   {
    "term": "Vein",
-   "meaning": "A blood vessel that carries blood back to the heart.",
+   "meaning": "A blood vessel that carries blood back to the heart. Its walls are thinner than an artery's. Many veins have valves that stop blood flowing backwards.",
    "example": "The lines you see on the back of your hand are veins.",
    "art": "A thinner tube with an arrow pointing back towards a heart."
   },
   {
    "term": "Capillary",
    "meaning": "The tiniest blood vessel, thinner than a hair. Capillaries reach every part of you. Here oxygen and food leave the blood and go into the body.",
-   "example": "Capillaries are why every tiny cut, anywhere on your skin, bleeds a little.",
+   "example": "Even a small cut bleeds, because capillaries run all through your skin.",
    "art": "A net of very fine red threads wrapped around a cluster of round cells."
   },
   {
@@ -72,14 +78,14 @@
   },
   {
    "term": "Valve",
-   "meaning": "A little flap door inside the heart and veins. It lets blood go one way and snaps shut to stop it flowing back.",
+   "meaning": "A little flap door inside the heart and in many veins. It opens to let blood go one way, and snaps shut to stop it flowing back.",
    "example": "The 'lub-dub' sound is the heart's valves snapping shut.",
    "art": "A flap door swinging open one way, with a red arrow going through, and closed when the arrow tries to go back."
   },
   {
    "term": "Lungs",
    "meaning": "Two soft, spongy bags in your chest. Air goes in and out of them when you breathe.",
-   "example": "When you take a deep breath, your chest gets bigger because your lungs are filling up.",
+   "example": "When you take a deep breath, your chest gets bigger, and air flows in to fill your lungs.",
    "art": "Two pink spongy lungs inside a rib cage, with a windpipe at the top like the trunk of a tree."
   },
   {
@@ -90,32 +96,32 @@
   },
   {
    "term": "Air sacs",
-   "meaning": "Millions of tiny bubbles at the ends of the tubes inside your lungs. Scientists call them alveoli. Oxygen passes from the air in them into the blood.",
+   "meaning": "Hundreds of millions of tiny bubbles at the ends of the tubes inside your lungs. Scientists call them alveoli. Oxygen passes from the air in them into the blood.",
    "example": "If you could spread all the air sacs of a grown-up flat, they would cover nearly a badminton court.",
    "art": "A bunch of tiny grapes made of bubbles, each wrapped in a net of red capillaries."
   },
   {
    "term": "Diaphragm",
-   "meaning": "A big dome-shaped muscle under your lungs. When it pulls down, air flows into your lungs.",
+   "meaning": "A big dome-shaped muscle under your lungs. When it tightens, it flattens and moves down, and air flows into your lungs.",
    "example": "Put your hand on your tummy and breathe in deeply. Your tummy pushes out because your diaphragm moves down.",
    "art": "A dome-shaped muscle sitting under two lungs, with an arrow pulling it flat."
   },
   {
    "term": "Oxygen",
    "meaning": "A gas in the air, with no colour and no smell. Every part of your body needs it to get energy from food.",
-   "example": "Plants and tiny sea creatures called algae put oxygen into the air.",
+   "example": "Plants, and tiny living things in the sea called algae, put oxygen into the air.",
    "art": "A leaf giving off small bubbles marked O, which drift towards a child's nose."
   },
   {
    "term": "Carbon dioxide",
    "meaning": "A gas that your body makes as waste when it uses food for energy. You breathe it out. Plants take it in.",
-   "example": "When you breathe out onto a cold steel plate, some of what leaves you is carbon dioxide.",
+   "example": "Blow through a straw into limewater, and the carbon dioxide in your breath turns it milky.",
    "art": "A child breathing out small grey bubbles which drift towards a tulsi plant."
   },
   {
    "term": "Red blood cells",
    "meaning": "Tiny round discs in blood that carry oxygen. They are what make blood red. A drop of blood holds millions of them.",
-   "example": "Red blood cells contain iron. That is one reason we need iron-rich food like spinach, jaggery and dal.",
+   "example": "Red blood cells contain iron. That is one reason we need iron-rich foods like dal, green leafy vegetables and jaggery.",
    "art": "Many red discs, dented in the middle like a doughnut that was pressed by a thumb."
   },
   {
@@ -126,7 +132,7 @@
   },
   {
    "term": "Respiration",
-   "meaning": "What every tiny part of your body does with oxygen. It uses oxygen to break up food and get energy out. Carbon dioxide is left over.",
+   "meaning": "What every tiny part of your body does with oxygen. It uses oxygen to break down food and get energy out. Carbon dioxide is left over.",
    "example": "When you run, your leg muscles do a lot of respiration. So you breathe faster to get more oxygen.",
    "art": "A tiny cell, like a little room, taking in a sugar shape and an oxygen bubble, and giving out a spark of energy and a carbon dioxide bubble."
   },
@@ -139,7 +145,7 @@
   {
    "term": "Plasma",
    "meaning": "The pale yellow watery part of blood. The blood cells float in it. It carries food, water and salts.",
-   "example": "If blood is left to stand in a tube, the red cells sink and the yellow plasma stays on top.",
+   "example": "When a hospital spins a tube of blood very fast, the red cells sink to the bottom and the yellow plasma stays on top.",
    "art": "A test tube with a dark red layer at the bottom and a straw-coloured layer on top."
   }
  ],
@@ -159,27 +165,27 @@
    "context": "This card explains the main idea of the heart: it is a muscle pump."
   },
   {
-   "concept": "Blood goes round in two circles",
+   "concept": "Blood goes round in two loops",
    "status": "defined",
    "definition": "Circulation is the way blood travels from the heart, round the body, and back to the heart, again and again. In people it goes round two loops, one through the lungs and one through the rest of the body.",
-   "description": "Your heart has four rooms inside, two on the right and two on the left. The right side pushes blood a short way, to the lungs. There the blood picks up oxygen and becomes bright red. Then it comes back to the left side of the heart. The left side pushes it out to the whole body: your brain, your toes, your fingertips. There the oxygen is used up. The blood, now darker red, comes back to the right side of the heart. Then it goes to the lungs again. So it is like a figure of eight, with the heart in the middle. A drop of blood goes all the way round in about one minute while you sit still.",
+   "description": "Your heart has four hollow spaces inside, called chambers. Two are on the right side and two are on the left. The top chambers, the atria, take in blood coming back to the heart. The bottom chambers, the ventricles, squeeze blood out. The right side pushes blood a short way, to the lungs. There the blood picks up oxygen and becomes bright red. Then it comes back to the left side of the heart. The left side pushes it out to the whole body: your brain, your toes, your fingertips. There the blood gives away some of its oxygen. The blood, now darker red, comes back to the right side of the heart, and goes to the lungs again. So the path is like a figure of eight, with the heart in the middle. While you sit still, a drop of blood goes all the way round in about one minute.",
    "examples": [
     "The left side of the heart has a thicker wall than the right. It must push blood all the way to your toes. The right side only pushes it next door, to the lungs.",
-    "Think of a ring road round a city with a petrol pump in the middle. The blood is the traffic. It keeps coming back to the pump.",
+    "Your heart is really two pumps side by side. The right pump sends blood to the lungs. The left pump sends it to the rest of the body. Both squeeze at the same moment.",
     "If you laid all the blood vessels of a grown-up end to end, scientists guess they might stretch around 100,000 kilometres. That is more than twice round the Earth. Nobody has measured this exactly."
    ],
    "perspectives": [],
-   "art": "A figure-of-eight loop: a heart in the middle, the top loop going to two pink lungs and turning bright red, the bottom loop going to a child's body and turning darker red.",
+   "art": "A figure-of-eight loop: a heart with four chambers in the middle, the top loop going to two pink lungs and turning bright red, the bottom loop going to a child's body and turning darker red.",
    "context": "This card explains circulation: how blood goes out from the heart and always comes back, round two loops."
   },
   {
    "concept": "What blood is, and what it carries",
    "status": "defined",
-   "definition": "Blood is a liquid made of watery plasma with billions of tiny cells floating in it. It carries oxygen, food, water and warmth to every part of the body, and carries waste away.",
-   "description": "Blood looks like one red liquid. Under a microscope it is a crowd. Most of the crowd are red blood cells. They are tiny round discs that carry oxygen. They contain iron, and that iron is what grabs the oxygen. There are also white blood cells, which fight germs. You will meet them properly in the unit on how the body fights germs. There are tiny pieces called platelets, which stick together to plug a cut. All of these float in plasma, a pale yellow watery liquid. Plasma carries the food from your lunch, water and salts. An 8-year-old child has about 2 litres of blood, about the same as a big water bottle.",
+   "definition": "Blood is a liquid made of watery plasma with trillions of tiny cells floating in it. It carries oxygen, food, water and warmth to every part of the body, and carries waste away.",
+   "description": "Blood looks like one red liquid. Under a microscope it is a crowd. Most of the crowd are red blood cells. They are tiny round discs that carry oxygen. They contain iron, and that iron is what grabs the oxygen. There are also white blood cells, which fight germs. You will meet them properly in the unit on how the body fights germs. There are tiny pieces called platelets, which stick together to help plug a cut. All of these float in plasma, a pale yellow watery liquid. Plasma carries the food from your lunch, water and salts. An 8-year-old child has about 2 litres of blood, about the same as a big water bottle.",
    "examples": [
-    "When you get a cut, platelets clump together and make a scab.",
-    "Red blood cells only live about four months. Your bones make new ones all the time. A grown-up makes about 2 million new red cells every second.",
+    "When you get a cut, platelets clump together to make a plug. The plug dries into a scab.",
+    "Red blood cells live only about four months. The soft inside of your bones, called marrow, makes new ones all the time. A grown-up makes about 2 million new red cells every second.",
     "The food you ate at lunch soaks into your blood from your gut. Blood then carries it to your muscles and brain."
    ],
    "perspectives": [],
@@ -189,12 +195,12 @@
   {
    "concept": "How we breathe in and out",
    "status": "defined",
-   "definition": "Breathing is moving air into the lungs and out again. A dome-shaped muscle under the lungs, the diaphragm, pulls down to make room, and air flows in. When it relaxes, air flows out.",
-   "description": "Lungs have no muscles of their own. They cannot pull air in by themselves. So how does air get in? Under your lungs is the diaphragm, a muscle shaped like an upside-down bowl. When you breathe in, it pulls down and flattens. Your rib muscles lift your ribs out, too. Your chest gets bigger, so there is more room inside. The air outside presses in through your nose, down your windpipe and into the lungs, to fill that room. When you breathe out, the diaphragm relaxes and goes back up. The space gets smaller, and air is squeezed out. So you do not really suck air in. You make room, and the air around you pushes in.",
+   "definition": "Breathing is moving air into the lungs and out again. A dome-shaped muscle under the lungs, the diaphragm, tightens and moves down to make room, and air flows in. When it relaxes, air flows out.",
+   "description": "Lungs cannot move by themselves. So how does air get in? Under your lungs is the diaphragm, a muscle shaped like an upside-down bowl. When you breathe in, it tightens and flattens. Your rib muscles lift your ribs up and out, too. Your chest gets bigger, so there is more room inside. The air outside presses in through your nose, down your windpipe and into the lungs, to fill that room. When you breathe out, the diaphragm relaxes and rises again. The space gets smaller, and air is squeezed out. So you do not suck air in. You make room, and the air around you pushes in.",
    "examples": [
-    "Put a hand on your tummy and breathe in slowly. Your tummy pushes out. That is the diaphragm moving down and pushing your stomach out of the way.",
-    "A hiccup is your diaphragm jumping suddenly, by itself. The 'hic' is your voice box snapping shut.",
-    "When you blow up a balloon, the air comes from your lungs, squeezed out by your diaphragm and ribs."
+    "Put a hand on your tummy and breathe in slowly. Your tummy pushes out. That is the diaphragm moving down and pushing the organs in your tummy out of the way.",
+    "A hiccup is your diaphragm tightening suddenly, by itself. The 'hic' is your voice box snapping shut.",
+    "When you blow up a balloon, your tummy and rib muscles squeeze the air out of your lungs and into it."
    ],
    "perspectives": [],
    "art": "Two side-by-side drawings of a chest: breathing in, the diaphragm flat and air arrows rushing in through the nose, and breathing out, the diaphragm domed and arrows going out.",
@@ -204,7 +210,7 @@
    "concept": "The great swap in the lungs",
    "status": "defined",
    "definition": "In the lungs, oxygen passes from the air into the blood, and carbon dioxide passes from the blood into the air. This happens in millions of tiny air sacs.",
-   "description": "Your windpipe splits into two tubes, one for each lung. Each tube splits again and again, like the branches of a tree, into thousands of tiny tubes. At the very end of each tiny tube is a bunch of air bubbles called air sacs. A grown-up has hundreds of millions of them. Each air sac is wrapped in a net of capillaries, the tiniest blood vessels. The walls between the air and the blood are thinner than a soap bubble. So oxygen slips from the air into the blood. Carbon dioxide, the waste gas, slips the other way, out of the blood and into the air. Then you breathe it out. All this happens in less than a second, with every breath.",
+   "description": "Your windpipe splits into two tubes, one for each lung. Each tube splits again and again, like the branches of a tree, into many thousands of tiny tubes. At the very end of each tiny tube is a bunch of air bubbles called air sacs. A grown-up has hundreds of millions of them. Each air sac is wrapped in a net of capillaries, the tiniest blood vessels. The wall between the air and the blood is about a hundred times thinner than a hair. So oxygen slips from the air into the blood. Carbon dioxide, the waste gas, slips the other way, out of the blood and into the air. Then you breathe it out. All this happens in less than a second, as the blood passes each air sac.",
    "examples": [
     "The air you breathe in has about 21 parts oxygen in every 100. The air you breathe out still has about 16 parts. You only take a little each breath. That is why a rescuer's breath can still help someone who has stopped breathing.",
     "The air you breathe out has about 100 times more carbon dioxide than the air you breathe in.",
@@ -217,8 +223,8 @@
   {
    "concept": "Why every part of you needs oxygen",
    "status": "defined",
-   "definition": "Respiration is how the tiny living parts of your body, called cells, use oxygen to break up food and release its energy. Carbon dioxide and water are left over.",
-   "description": "Your body is made of trillions of tiny living parts called cells. Each one is like a tiny busy room. Every cell needs energy to do its job. A muscle cell needs energy to pull. A brain cell needs energy to send messages. The energy is locked inside food, like the sugar from a banana. To unlock it, the cell needs oxygen. The cell joins food and oxygen together, and energy comes out. Carbon dioxide and water are left over. This is called respiration. It is a little like a fire, which also needs fuel and oxygen. But it is slow and gentle, and gives warmth, not flames. That is why you breathe. Breathing is the way oxygen reaches your cells, and the way carbon dioxide leaves.",
+   "definition": "Respiration is how the tiny living parts of your body, called cells, use oxygen to break down food and release its energy. Carbon dioxide and water are left over.",
+   "description": "Your body is made of trillions of tiny living parts called cells. Every cell needs energy to do its job. A muscle cell needs energy to pull. A brain cell needs energy to send messages. The energy is locked inside food, like the sugar from a banana. To unlock it, the cell needs oxygen. The cell joins food and oxygen together, and energy comes out. Carbon dioxide and water are left over. This is called respiration. It is a little like a fire, which also needs fuel and oxygen. But it is slow and gentle, and gives warmth, not flames. That is why you breathe. Breathing is the way oxygen reaches your cells, and the way carbon dioxide leaves.",
    "examples": [
     "About 240 years ago, the French scientist Antoine Lavoisier showed that breathing is like a very slow burning. Animals take in oxygen and give out carbon dioxide and heat, just like a candle does.",
     "You are warm partly because of respiration. Trillions of cells releasing energy all day make heat.",
@@ -236,7 +242,7 @@
    "examples": [
     "Count your pulse for 30 seconds and double it. That gives your heartbeats in one minute.",
     "A doctor presses a stethoscope on your chest and listens for 'lub-dub'. A swishing sound can mean a valve is leaking a little.",
-    "A garden hose jerks a little when someone squeezes the tap on and off. Your arteries jerk with each heartbeat in the same way."
+    "Fill a long balloon with water and squeeze one end quickly. A bulge runs along to the other end. A pulse is a bulge like that, running along an artery."
    ],
    "perspectives": [],
    "art": "Two fingers on a wrist with a magnified artery underneath bulging as a red push passes, beside a heart with two flap doors closing.",
@@ -246,7 +252,7 @@
    "concept": "Why your heart and breath speed up when you run",
    "status": "defined",
    "definition": "When muscles work hard they need more oxygen and food, and they make more carbon dioxide. So the heart beats faster and harder, and you breathe faster and deeper.",
-   "description": "Sitting still, your muscles need only a little oxygen. When you run, your leg muscles are working very hard. They are burning food quickly, so they need much more oxygen. They also make a lot more carbon dioxide. Your brain notices the carbon dioxide building up in your blood. It sends messages to your heart to beat faster, and to your breathing muscles to work harder. After you stop, your heart and breath slowly come back down. A strong, fit heart pushes more blood with each beat. So it does not need to beat as fast. The same speeding up also happens when you feel scared or excited, even sitting still. Your body is getting ready to run, just in case.",
+   "description": "Sitting still, your muscles need only a little oxygen. When you run, your leg muscles are working very hard. They are burning food quickly, so they need much more oxygen. They also make a lot more carbon dioxide. Your brain senses that your muscles are working hard, and that carbon dioxide is building up in your blood. It sends messages to your heart to beat faster, and to your breathing muscles to work harder. After you stop, your heart and breath slowly come back down. A strong, fit heart pushes more blood with each beat. So it does not need to beat as fast. The same speeding up also happens when you feel scared or excited, even sitting still. Your body is getting ready to run, just in case.",
    "examples": [
     "After a race, your heart can beat about twice as fast as when you rest.",
     "The feeling that makes you want to breathe after holding your breath comes mostly from carbon dioxide building up, not from running out of oxygen.",
@@ -264,7 +270,7 @@
    "examples": [
     "A doctor's heart machine, called an ECG, draws the heart's electric sparks as a wavy line.",
     "Some people's pacemaker cells stop working well. They get a tiny battery-powered pacemaker that makes the spark for them.",
-    "Your heart started beating weeks before you were born, long before you had a brain that could think."
+    "Your heart started beating more than seven months before you were born, when you were smaller than a grain of rice."
    ],
    "perspectives": [],
    "art": "A heart with a small glowing spot at its top right sending a ripple of yellow electric light across the muscle, and beside it a wavy line on a screen.",
@@ -274,7 +280,7 @@
    "concept": "Why veins look blue when blood is red",
    "status": "defined",
    "definition": "Blood is always red. Blood with lots of oxygen is bright red. Blood that has given its oxygen away is darker red. Veins only look blue because of the way skin and light work.",
-   "description": "Look at the inside of your wrist. The veins look blue or green. Many people think the blood inside is blue until it touches air. That is not true. Blood is red all the time. Blood coming back to the heart has given away its oxygen, so it is a darker red, like beetroot juice. Light shining on your skin goes in a little way. Red light goes deep and is soaked up by the dark blood. Bluer light bounces back out more from that place. So the vein looks blue to your eye, even though the blood is dark red.",
+   "description": "Look at the inside of your wrist. The veins look blue or green. Many people think the blood inside is blue until it touches air. That is not true. Blood is red all the time. Blood coming back to the heart has given away some of its oxygen, so it is a darker red, like beetroot juice. Light shining on your skin goes in a little way and bounces back out. Dark red blood soaks up red light. So over a vein, less red light comes back out than from the skin around it. That makes the vein look bluer than the skin next to it, even though the blood inside is dark red.",
    "examples": [
     "When a nurse takes blood from a vein, it comes out dark red, not blue.",
     "A pressed fingertip turns white, then pink again as blood flows back in.",
@@ -288,7 +294,7 @@
    "concept": "Breathing in, breathing out, and how they calm us",
    "status": "defined",
    "definition": "Breathing happens by itself, but you can also take control of it. Slow breathing, especially a long breath out, gently slows the heart.",
-   "description": "Most of the time you breathe without thinking, even when you sleep. A part of your brain near the back of your neck keeps it going. But you can also choose to breathe fast, slow or not at all for a short time. Breath is one of the few things in your body that runs by itself and also does what you tell it. Your heart and breath are linked. When you breathe in, your heart speeds up a tiny bit. When you breathe out, it slows a tiny bit. So a slow, long breath out gently calms the heart. This is why people in many countries use slow breathing to feel calm.",
+   "description": "Most of the time you breathe without thinking, even when you sleep. A part at the bottom of your brain, just above your neck, keeps it going. But you can also choose to breathe fast, slow or not at all for a short time. Breath is one of the few things in your body that runs by itself and also does what you tell it. Your heart and breath are linked. When you breathe in, your heart speeds up a tiny bit. When you breathe out, it slows a tiny bit. So a slow, long breath out gently calms the heart. This is why people in many countries use slow breathing to feel calm.",
    "examples": [
     "Count your pulse. Then breathe in for 4 counts and out for 6 counts, ten times. Count again. Many people find their pulse has dropped a little.",
     "Yoga teachers in India have taught slow, steady breathing for many centuries.",
@@ -386,7 +392,7 @@
    "claim": "Blood soaks from the right side of the heart to the left side through tiny invisible holes in the wall between them.",
    "who": "Galen, and the doctors who followed him",
    "for": "Blood does get from the right side to the left side somehow. The holes were too small to see, so nobody could prove they were not there.",
-   "against": "About 780 years ago, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes at all. He said the blood must go from the right side of the heart to the lungs, mix with air, and come back to the left side. He was right, but his book was forgotten in Europe. It was found again only in 1924.",
+   "against": "About 780 years ago, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes at all. He said the blood must go from the right side of the heart to the lungs, pick up air, and come back to the left side. He was right, but his book was not known in Europe. It was found again only in 1924.",
    "status": "rejected",
    "context": "This card is about how blood gets from one side of the heart to the other, and a doctor who saw the truth centuries early."
   },
@@ -416,7 +422,7 @@
   },
   {
    "claim": "Your heart is on the left side of your chest.",
-   "who": "Most people, which is why we put a hand on the left side for a pledge",
+   "who": "Most people. That is why many people put a hand on the left of the chest when they talk about the heart.",
    "for": "You feel the beat most strongly on the left, because the bottom tip of the heart points left and taps the chest wall there.",
    "against": "The heart sits almost in the middle, behind the breastbone, tipped a little to the left. In about one person in 10,000, the heart and other organs are flipped, like a mirror picture.",
    "status": "rejected",
@@ -445,7 +451,7 @@
    "hint": "Follow one breath for a day. Where might it go?"
   },
   {
-   "q": "Some of the air atoms in your next breath were probably breathed by people who lived hundreds of years ago. How does that make you feel about strangers?",
+   "q": "Some of the tiny particles in your next breath were breathed out by people who lived hundreds of years ago. Is the air in your lungs yours, or only passing through?",
    "kind": "big",
    "hint": "The air is shared by everyone who has ever lived. Can anyone own it?"
   },
@@ -455,7 +461,7 @@
    "hint": "Think of a person who is blind reading with their fingers, or a dog smelling who is home."
   },
   {
-   "q": "Ibn al-Nafis worked out where blood goes 400 years before William Harvey, but Europe forgot him. Who decides whose discoveries are remembered?",
+   "q": "Ibn al-Nafis worked out where blood goes almost 400 years before William Harvey, but Europe forgot him. Who decides whose discoveries are remembered?",
    "kind": "big",
    "hint": "Think of the language the book was in, and who could read it."
   },
@@ -484,13 +490,13 @@
   "title": "The Doctor Who Listened With Her Fingers",
   "mins": 12,
   "read_aloud": true,
-  "note": "Real: Helen Taussig (1898 to 1986) lost much of her hearing as a young doctor and learned to feel heartbeats with her fingers. Her idea of a new pipe to the lungs for 'blue babies', the Boston surgeon who turned her down, Alfred Blalock and Vivien Thomas working it out together, Vivien Thomas's lost college savings, Eileen Saxon's operation in November 1944 with Thomas on a stool behind the surgeon, her lips turning pink, and Thomas's honorary degree in 1976 are all real. Imagined: the exact words spoken, the small scenes, and what people thought. For the parent: Eileen lived for some months and then died after a later operation, which the story leaves out. Thousands of children after her grew up because of this operation.",
+  "note": "Real: Helen Taussig (1898 to 1986) lost much of her hearing as a young doctor and learned to feel heartbeats with her fingers. Her idea of a new pipe to the lungs for 'blue babies', the Boston surgeon who turned her down, Alfred Blalock and Vivien Thomas working it out together, Vivien Thomas's lost college savings, Eileen Saxon's operation in November 1944 with Thomas on a stool behind the surgeon, her lips turning pink, and Thomas's honorary degree in 1976 are all real. Imagined: the exact words spoken, the small scenes, and what people thought. For the parent: Eileen grew stronger for a while, but she died young, after a later operation. The story leaves this out. Thousands of children after her grew up because of this operation.",
   "text": [
    "In a big hospital in Baltimore, in America, the babies on one ward were blue. Not the blue of the sky. The blue of lips that have stayed too long in cold water. Their fingernails were blue. Their tiny toes were blue. When they cried, they turned bluer still. Then they had to squat down, or lie curled with their knees pulled up, gasping for breath.",
-   "The doctor who looked after them was called Helen Taussig. She was a children's heart doctor. It was the early 1940s, and she had a secret that was not really a secret. She could hardly hear. An illness had taken most of her hearing years before. A heart doctor who cannot hear a heartbeat is like a singer who cannot hear a song. So Helen had taught her hands to listen instead.",
+   "The doctor who looked after them was called Helen Taussig. She was a children's heart doctor. It was the early 1940s, and she had a secret that was not really a secret. She could hardly hear. She had been slowly losing her hearing for years. A heart doctor who cannot hear a heartbeat is like a singer who cannot hear a song. So Helen had taught her hands to listen instead.",
    "She would lay her fingers flat on a baby's chest, very gently, and wait. Through her fingertips she felt the heart. She felt the push, and the shudder, and the rush of blood where it should not be. She felt it the way you feel a drum through the floor at a wedding. Other doctors heard a heart. Helen felt one, and she remembered every heart she had ever felt.",
-   "Every heart has one simple job. It squeezes, about a hundred times a minute in a baby, and pushes blood along two loops. One loop goes from the heart to the lungs and back. In the lungs, the blood picks up oxygen from the air, and turns bright red. The other loop goes from the heart out to the whole body, where the oxygen is used, and then back again. Round and round go the two circles, joined at the heart.",
-   "Helen's blue babies had hearts that were built a little wrong. There was a hole inside, and the doorway to the lungs was far too narrow. So too little blood went to the lungs. Dark blood that had never visited the air went straight back out to the body. That was the blue. The babies were not short of blood. Their blood was short of a journey.",
+   "Every heart has one simple job. It squeezes, more than a hundred times a minute in a baby, and pushes blood along two loops. One loop goes from the heart to the lungs and back. In the lungs, the blood picks up oxygen from the air, and turns bright red. The other loop goes from the heart out to the whole body, where some of the oxygen is used, and then back again. Round and round go the two circles, joined at the heart.",
+   "Helen's blue babies had hearts that were built a little wrong. There was a hole inside, and the doorway to the lungs was far too narrow. So too little blood went to the lungs. Dark blood that had never visited the air went straight back out to the body. That was the blue. The babies were not short of blood. Too little of their blood was going through the lungs.",
    "Helen noticed something odd. Some blue babies seemed almost well when they were born. They turned bluer only after a few days or weeks. Why then? She thought about it for a long time. Every baby is born with a small extra pipe beside the heart, a shortcut that closes by itself soon after birth. Perhaps, she thought, in these babies that little pipe had been sending extra blood to the lungs. When it closed, they lost it. And they turned blue.",
    "So the answer was not to mend the whole heart. Nobody in the world could do that yet. The answer was to give the blood a new road to the lungs. Build a new pipe. More blood to the lungs would mean more oxygen. More oxygen would mean pink.",
    "She took her idea to a famous surgeon in Boston. He was not interested. She came home. Then a new surgeon arrived at her own hospital, Dr Alfred Blalock. He listened. And he had someone working beside him called Vivien Thomas.",
@@ -499,7 +505,7 @@
    "So Vivien stood and watched. Now and then he said quietly, 'That's right,' or 'A little further.' Dr Blalock took the artery that carried blood to Eileen's arm. He turned it and stitched its end onto the artery that led to her lungs. A new road. Helen Taussig stood at the end of the table, watching the child's face.",
    "Then the clamps came off. Blood that had been rushing out to the arm now poured along the new road, into the lungs, into the air. Nobody spoke. Everyone watched Eileen's lips. Slowly, as if someone were pouring colour into her, the blue went out of them. They turned pink.",
    "Soon parents were carrying blue children to Baltimore from all over the country, and then from other countries. Helen felt each small chest with her fingers and decided who could be helped. Vivien trained the surgeons who learned the operation. For many years his name was not written on the papers about it. Much later, in 1976, the university gave him an honorary doctor's degree. His painting now hangs on its walls.",
-   "Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere under your hand, two circles of blood are turning, one through the air and one through you. Helen Taussig could not hear that sound. She did not need to. She knew where the blood had to go."
+   "Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere under your hand, two loops of blood are turning, one through your lungs and one through the rest of you. Helen Taussig could not hear that sound. She did not need to. She knew where the blood had to go."
   ],
   "epiphany": "For the parent: the blue was not about a weak heart or too little blood. It was about where the blood went. Blood only picks up oxygen when it passes through the lungs. Send more blood through the lungs, and the child turns pink. This is the whole idea of the unit: two loops, one through the air and one through the body. The story also quietly asks who gets credit, and shows that there is more than one way to listen.",
   "ask": [
@@ -524,7 +530,7 @@
    "mins": 30,
    "days": 1,
    "question": "Does jumping make my heart beat faster? And how quickly does it slow down again?",
-   "predict": "Before you start, guess. How many times will your heart beat in one minute while you sit still? Will it go up or down after one minute of jumping? Write your guesses down.",
+   "predict": "Before you start, guess. How many times will your heart beat in one minute while you sit still? Will it go up or down after one minute of jumping? Why do you think so? Write your guesses down.",
    "fair_test": "To make it fair, count the same way every time. Use the same fingers on the same wrist, and count for exactly 30 seconds with a clock. Sit still for 2 minutes before the first count, so your heart is really resting. Count each time 2 times, because one count can be a mistake.",
    "results_table": [
     "When we counted",
@@ -682,7 +688,7 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "Help your child turn the numbers into a bar chart: one bar for sitting still, one for just after jumping, one for after the rest.",
+     "do": "Help your child turn the numbers into a bar chart. Draw one bar for sitting still, one for just after jumping and one for after the rest.",
      "say": "Let's draw a bar for each count. The taller the bar, the faster your heart was beating.",
      "kid": "Draw one bar for each time you counted. A taller bar means a faster heart.",
      "chart": {
@@ -725,8 +731,8 @@
      "id": "s6",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: jumping makes my heart beat faster. What I saw: sitting still it was 88 beats a minute, after jumping it was 148, and after resting it went down to 102. Why: my muscles needed more oxygen to jump, so my heart pumped blood faster to bring it."
     }
    ]
@@ -737,7 +743,7 @@
    "mins": 25,
    "days": 2,
    "question": "Is the air I breathe out the same as the air in the room?",
-   "predict": "Before you test, guess. Air goes into you and comes out again. Do you think it comes out the same, or changed? What might be different?",
+   "predict": "Before you test, guess. Air goes into you and comes out again. Do you think it comes out the same, or changed? What might be different, and why do you think so?",
    "fair_test": "To make it fair, use two glasses with the same amount of limewater. Push room air through one and breathed-out air through the other, for the same time. Only the kind of air changes.",
    "results_table": [
     "Glass",
@@ -800,8 +806,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Take the steel plate out of the fridge. 2. Ask your child to breathe out slowly onto it from close up. 3. Look at the mist.",
-     "say": "Breathe out onto this cold plate. What do you see? That mist is water. So breathed-out air carries water out of you.",
-     "kid": "Breathe out onto the cold plate. Do you see a mist? That mist is water from inside you.",
+     "say": "Breathe out onto this cold plate. What do you see? What do you think that mist is?",
+     "kid": "Breathe out onto the cold plate. Do you see a mist? What do you think it is?",
      "ask": [
       {
        "q": "Where did the water come from?",
@@ -812,7 +818,8 @@
        ]
       }
      ],
-     "context": "This is the first step of the milky breath experiment. A cold plate shows that breathed-out air carries water."
+     "context": "This is the first step of the milky breath experiment. A cold plate shows that breathed-out air carries water.",
+     "parent": "Let your child guess first. The mist is tiny drops of water from the breath, which turn to water on the cold steel."
     },
     {
      "id": "s2",
@@ -831,7 +838,7 @@
      "say": "In this glass we push ordinary room air. In this glass you blow your breath out. Blow gently, only out, never suck. Watch both glasses.",
      "kid": "Watch the two glasses. The grown-up pushes room air into one. You blow gently into the other. Only blow out. Never suck.",
      "adult": true,
-     "parent": "The breath glass usually turns milky within a minute. The room-air glass stays clear, or goes cloudy only very slowly, because room air has very little carbon dioxide.",
+     "parent": "The breath glass usually turns milky within a minute. The room-air glass stays clear, or goes cloudy only very slowly, because room air has very little carbon dioxide. If your child keeps blowing for several minutes, the milky water can slowly turn clear again. That is normal, so stop once it is milky.",
      "check": {
       "t": "mcq",
       "q": "The glass you breathed into turned milky. The room-air glass stayed clear. What does that tell us?",
@@ -841,15 +848,15 @@
        "The straw was dirty"
       ],
       "a": 0,
-      "why": "Limewater turns milky when carbon dioxide goes through it. Your breath turned it milky fast, so your breath has much more carbon dioxide than room air. Your cells made that carbon dioxide when they used food for energy. Picking 'dirt' usually means thinking breath is dusty. But the milky white is a new substance made when carbon dioxide meets the lime."
+      "why": "Limewater turns milky when carbon dioxide goes through it. Your breath turned it milky fast, so your breath has much more carbon dioxide than room air. Your cells made that carbon dioxide when they used food for energy. Picking 'dirt' usually means thinking breath is dusty. But the milky white is chalk, a new substance made when carbon dioxide meets the lime."
      }
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "Ask your child where the carbon dioxide came from.",
-     "say": "Where do you think this gas came from? It wasn't in the room air. So it must have been made inside you.",
-     "kid": "The gas was not in the room air. So where did it come from?",
+     "say": "Room air hardly changed the limewater. Your breath turned it milky fast. Where do you think the extra carbon dioxide came from?",
+     "kid": "Room air hardly changed the limewater. Your breath made it milky. Where did that gas come from?",
      "ask": [
       {
        "q": "Where did the carbon dioxide come from?",
@@ -866,8 +873,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the air I breathe out is different from room air. What I saw: my breath turned limewater milky, but room air did not, and my breath fogged the cold plate. Why: my body uses oxygen and makes carbon dioxide and water, and I breathe them out."
     }
    ]
@@ -878,7 +885,7 @@
    "mins": 35,
    "days": 1,
    "question": "How much air do I push out in one ordinary breath? And in my biggest breath?",
-   "predict": "Before you test, guess. Will one ordinary breath fill a small cup, a big bottle or a bucket? Will your biggest breath be bigger than a grown-up's?",
+   "predict": "Before you test, guess. Will one ordinary breath fill a small cup, a big bottle or a bucket? Will your biggest breath be bigger than a grown-up's? Why do you think so?",
    "fair_test": "To make it fair, everyone uses the same bottle and blows out through the same kind of tube. Each person has their own tube, to keep it clean. Do each kind of breath 2 times, because one try can be a fluke.",
    "results_table": [
     "Person",
@@ -925,7 +932,7 @@
     "title": "Made-up example results: biggest breath out",
     "x": "Person",
     "y": "Air breathed out (ml)",
-    "note": "These numbers are made up, to show what a finished chart can look like. Yours will be different.",
+    "note": "These numbers are made up, to show what a finished chart can look like. Yours will be different. A grown-up's biggest breath usually fills the whole bottle, so that bar stops at 2,000.",
     "data": [
      {
       "label": "Child, age 8",
@@ -933,20 +940,20 @@
       "emoji": "🧒"
      },
      {
-      "label": "Mother",
-      "value": 1900,
-      "emoji": "👩"
+      "label": "Brother, age 10",
+      "value": 1800,
+      "emoji": "👦"
      },
      {
-      "label": "Father",
+      "label": "Mother (filled the bottle)",
       "value": 2000,
-      "emoji": "👨"
+      "emoji": "👩"
      }
     ]
    },
    "setup": [
     {
-     "art": "A child pouring 100 ml from a measuring jug into a plastic bottle and drawing a line on tape at the water level, several lines already marked.",
+     "art": "A child pouring 100 ml from a measuring jug into a plastic bottle standing upright, and drawing a line on tape at the water level, several lines already marked.",
      "caption": "1. Pour in water 100 ml at a time. Mark a line each time."
     },
     {
@@ -962,10 +969,10 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Stick a strip of tape down the side of the bottle. 2. Pour in 100 ml of water with the jug. 3. Hold the bottle upside down, so the water is at the cap end, and mark the level. 4. Repeat, 100 ml at a time, until full.",
-     "say": "We're turning this bottle into a breath measurer. We'll mark a line for every 100 millilitres of water. Hold it upside down each time, because that's how we will use it.",
-     "kid": "Pour 100 ml of water in. Turn the bottle upside down. Mark the water line on the tape. Do it again and again until it is full.",
-     "parent": "Marking with the bottle upside down matters, because the bottle's shape is different at each end. Numbering every 500 ml mark in big writing makes reading easier.",
+     "do": "1. Stick a strip of tape down the side of the bottle. 2. Stand the bottle the normal way up. 3. Pour in 100 ml of water with the jug, and mark the level on the tape. 4. Repeat, 100 ml at a time, until the bottle is full.",
+     "say": "We're turning this bottle into a breath measurer. We'll mark a line for every 100 millilitres of water. Keep the bottle standing the normal way up while we mark it.",
+     "kid": "Pour 100 ml of water in. Mark the water line on the tape. Do it again until the bottle is full.",
+     "parent": "Mark with the bottle standing the normal way up. Later, upside down in the bucket, the breath collects at that same end. So each mark shows how much air is in the bottle. Write 500, 1,000, 1,500 and 2,000 in big numbers. No measuring jug? Fill an empty 200 ml juice carton and mark every 200 ml instead.",
      "context": "This is the first step of the upside-down bottle experiment. Here you turn a bottle into a tool for measuring breath."
     },
     {
@@ -975,7 +982,7 @@
      "say": "Now the tricky bit. Upside down, neck under water, take the cap off under the water. The water stays in! Air is pressing on the water in the bucket and holds it up.",
      "kid": "Fill the bottle. Put the cap on. Turn it upside down in the bucket. Take the cap off under the water. Push the tube into the neck.",
      "adult": true,
-     "parent": "A grown-up holds the bottle steady. If air gets in while setting up, start again."
+     "parent": "A grown-up holds the bottle steady. Use a bucket only about half full, so it does not overflow when the breath pushes water out of the bottle. If air gets in while setting up, start again."
     },
     {
      "id": "s3",
@@ -983,7 +990,7 @@
      "do": "1. Your child breathes in normally, then breathes out normally through the tube, once. 2. Read the mark at the bottom of the air space. 3. Refill and set up again. 4. Now take the biggest breath in they can, and blow out all of it. 5. Read the mark. Do the biggest breath 2 times.",
      "say": "First an ordinary, everyday breath out. Just a normal one. Then refill, and do your biggest ever breath in, and blow it all out.",
      "kid": "Breathe out one normal breath into the tube. Read the line. Then take your biggest breath. Blow it all out. Read the line again.",
-     "parent": "An ordinary breath for an 8-year-old is often 150 to 300 ml. The biggest breath out may be 1,000 to 2,000 ml. Grown-ups' biggest breaths may be bigger than the bottle. If so, write 'more than 2,000 ml'.",
+     "parent": "An ordinary breath for an 8-year-old is often 150 to 300 ml. The biggest breath out may be 1,000 to 2,000 ml. A grown-up's biggest breath is usually bigger than the bottle. If the bottle fills with air, write 'more than 2,000 ml'.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1020,14 +1027,14 @@
      "do": "Test other family members with their own tubes. Make a bar chart of everyone's biggest breath.",
      "say": "Now let's test the family. Everyone gets their own tube. Who do you think has the biggest breath?",
      "kid": "Test your family. Each person uses their own tube. Draw a bar for each person's biggest breath.",
-     "think": "People who live high in the mountains of Ladakh, or who sing or play the shehnai, often have big breaths. Why might that be?"
+     "think": "Singers and shehnai players train to make long, steady breaths out. How might a big breath help them?"
     },
     {
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: one ordinary breath is quite small, but my lungs can hold much more. What I saw: my ordinary breath was 200 ml and my biggest was 1,500 ml. Why: my diaphragm and ribs can make my chest much bigger when I really try."
     }
    ]
@@ -1207,7 +1214,7 @@
        "The lung balloon pulls air in by itself"
       ],
       "a": 0,
-      "why": "Pulling the bottom down makes the space inside the bottle bigger. Air from outside then pushes in through the neck and fills the balloon. Your diaphragm does the same. Picking 'the lung pulls air in by itself' is a very common idea. But lungs have no muscles. They fill because the chest makes room."
+      "why": "Pulling the bottom down makes the space inside the bottle bigger. Air from outside then pushes in through the neck and fills the balloon. Your diaphragm does the same. Picking 'the lung pulls air in by itself' is a very common idea. But lungs cannot move by themselves. They fill because the chest makes room."
      },
      "ask": [
       {
@@ -1292,7 +1299,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Talk about how the heart never gets tired like this.",
-     "say": "Your hand got tired in one minute. Your heart has done this since before you were born, about 100,000 times every day. Heart muscle is a special kind. It rests for a tiny moment after every single beat, and it has its own big supply of blood.",
+     "say": "Your hand got tired in one minute. Your heart has done this since before you were born, more than 100,000 times every day. Heart muscle is a special kind. It rests for a tiny moment after every single beat, and it has its own big supply of blood.",
      "kid": "Your hand got tired fast. Your heart squeezes all day and all night. It rests a tiny bit after every beat. It has been doing this all your life.",
      "check": {
       "t": "mcq",
@@ -1305,7 +1312,7 @@
       "a": 0,
       "why": "Heart muscle is different from arm muscle. After each squeeze it relaxes for a moment, and its own blood vessels keep bringing it plenty of oxygen. Picking 'only when awake' is not right. Your heart beats in your sleep too, only a bit slower."
      },
-     "think": "Your heart beats about 100,000 times a day. How many times has it beaten since you woke up today?"
+     "think": "Your heart beats more than 100,000 times a day. How many times has it beaten since you woke up today?"
     }
    ]
   },
@@ -1443,7 +1450,7 @@
      "do": "1. Ask your child to put one hand on their belly. 2. Count slowly: in 2, 3, 4. Out, 2, 3, 4, 5, 6. 3. Do this ten times.",
      "say": "Hand on your belly. Breathe in through your nose, 2, 3, 4. Feel your belly rise like a cloud. Now blow out slowly through your mouth, like cooling hot soup, 2, 3, 4, 5, 6.",
      "kid": "Hand on your belly. Breathe in for 4. Feel it rise. Blow out slowly for 6, like cooling hot soup. Do it ten times.",
-     "parent": "This is the founder's 'Cooling Cloud' breath. The long breath out is the important part. It gently slows the heart through a nerve that runs from the brain to the heart."
+     "parent": "This is the 'Cooling Cloud' breath. The long breath out is the important part. It gently slows the heart through a nerve that runs from the brain to the heart."
     },
     {
      "id": "s3",
@@ -1489,7 +1496,7 @@
      "qty": 1
     },
     {
-     "item": "a pinch of til, sesame seeds",
+     "item": "a pinch of til, sesame seeds, about 20 seeds",
      "qty": 1
     }
    ],
@@ -1524,7 +1531,7 @@
      "do": "1. Pour pale yellow water into the jar until it is about half full. 2. Add rajma until the beans fill nearly half of the jar. 3. Add one white chana. 4. Sprinkle in a pinch of til.",
      "say": "Blood looks like just a red liquid. But it's really a crowd of tiny things floating in a yellow liquid. Let's build it. The yellow water is plasma. The rajma are red blood cells. The single chana is a white blood cell. The til seeds are platelets.",
      "kid": "Pour yellow water into the jar. That is plasma. Add lots of rajma. They are red blood cells. Add one chana. That is a white blood cell. Sprinkle a little til. They are platelets.",
-     "parent": "In real blood, a little under half is red cells and a little over half is plasma. For every 600 or so red cells, there is about one white cell. That is why there is only one chana.",
+     "parent": "In real blood, a little under half is red cells and a little over half is plasma. For every 600 to 700 red cells, there is about one white cell, so there is only one chana. There is about one platelet for every 20 red cells, so about 20 til seeds suit a cup of rajma.",
      "context": "This is the jar of blood activity. You make a model of blood from yellow water, rajma, one chana and til."
     },
     {
@@ -1542,15 +1549,15 @@
        "We ran out of chana"
       ],
       "a": 0,
-      "why": "In real blood, red cells are by far the biggest crowd. There are about 600 red cells for every white cell. That is because every part of your body needs oxygen all the time. White cells are only needed where germs get in. Picking 'white cells are bigger' is partly true, they are a bit bigger, but that is not why there are fewer."
+      "why": "In real blood, red cells are by far the biggest crowd. There are about 600 to 700 red cells for every white cell. That is because every part of your body needs oxygen all the time. White cells are only needed where germs get in. Picking 'white cells are bigger' is partly right. White cells really are bigger, about twice as wide. But that is not why there are fewer."
      }
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Leave the jar still for a minute and watch the beans sink.",
-     "say": "Look. The beans sink to the bottom and the yellow stays on top. Real blood does this too, if it stands in a tube for a long time. The red cells sink, and the yellow plasma stays on top.",
-     "kid": "Leave the jar still. Watch the beans sink. Real blood does this too, if it stands still in a tube.",
+     "do": "Stir the jar, then leave it still for a minute. Watch the beans sink.",
+     "say": "Look. The beans sink to the bottom and the yellow water stays on top. Real blood does this too. In a hospital, blood is kept in a tube with a medicine that stops it clotting. Left standing for a few hours, its red cells sink and the yellow plasma stays on top.",
+     "kid": "Stir the jar and leave it still. Watch the beans sink. Blood in a tube does this too.",
      "think": "Why do you think your blood doesn't settle like this inside you?"
     }
    ]
@@ -1599,12 +1606,12 @@
       "The leg muscles are working hard. Drop 1 extra oxygen there if you have it.",
       "You scraped your knee. A platelet helps plug it. Miss one turn while it heals.",
       "Climbing stairs to the third floor. Move 2 extra squares.",
-      "You had a glass of water. Move 1 extra square.",
+      "You are sitting and reading. Your heart is calm. Move as normal.",
       "Scared by a barking dog! Your heart speeds up. Move 2 extra squares.",
       "Slow breathing time. Move 1 square, then take a slow breath with everyone.",
       "Brain needs oxygen to think. Drop 1 oxygen at the brain if you pass it.",
       "Lunch time! Pick up 1 food token at the tummy stop.",
-      "Long road to the toes. Move back 1 square, but then never backwards again.",
+      "Long road to the toes. Stay where you are this turn.",
       "QUESTION: Which side of the heart sends blood to the lungs? Answer right, move 2.",
       "QUESTION: What gas do the leg muscles give you to carry away? Answer right, move 2.",
       "QUESTION: What makes the lub-dub sound? Answer right, move 2.",
@@ -1685,7 +1692,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "When a 'You are running!' or 'Scared!' card comes up, stop and do it for real: run on the spot for 20 seconds and feel your heart.",
+     "do": "When a 'You are running!' or 'Scared!' card comes up, stop and do it for real. Run on the spot for 20 seconds and feel your heart.",
      "say": "This card says we're running. Let's all run on the spot for 20 seconds. Now feel your heart. Is it pushing you round faster?",
      "kid": "Run on the spot for 20 seconds. Feel your heart. It pushes the blood round faster when you run.",
      "check": {
@@ -1706,7 +1713,7 @@
      "do": "1. Count everyone's points. 2. Then talk about the game.",
      "say": "Count your oxygen points. Now think. In real life, your red blood cells go round about once every minute. How many trips would that be in a day?",
      "kid": "Count your points. Who delivered the most oxygen? Real red cells go round about once a minute, all day long!",
-     "think": "A real red blood cell goes round the body about a thousand times a day, for about four months. Then a new one takes its place. Is the you of today made of the same blood as the you of last year?"
+     "think": "A real red blood cell goes round the body more than a thousand times a day, for about four months. Then a new one takes its place. Is the you of today made of the same blood as the you of last year?"
     }
    ]
   },
@@ -1714,7 +1721,7 @@
    "id": "g2",
    "title": "Chalk Heart Relay",
    "mins": 20,
-   "players": "2 to 6 players, outside or in a big room",
+   "players": "2 to 6 players, in a courtyard, a building corridor or a big room",
    "printables": [
     {
      "kind": "cards",
@@ -1742,7 +1749,7 @@
     }
    ],
    "rules": [
-    "Draw a big figure of eight on the ground with chalk. Mark a heart where the loops cross, lungs at the top loop and a body basket at the bottom loop.",
+    "Draw a big figure of eight on the ground with chalk, or lay it out on the floor with a long dupatta or string. Mark a heart where the loops cross, lungs at the top loop and a body basket at the bottom loop.",
     "Put a pile of scrunched-up paper balls at the lungs. These are oxygen.",
     "Players are red blood cells. Each trip, they pick up 2 oxygen balls at the lungs, go back through the heart and drop them in the body basket.",
     "They must always go the same way round, through the heart in the middle each time.",
@@ -1753,7 +1760,7 @@
    "setup": [
     {
      "art": "A big chalk figure of eight on a courtyard floor, a heart drawn where the loops cross, LUNGS written at the top loop and a basket at the bottom.",
-     "caption": "1. Draw a big figure of eight with chalk. Mark the heart, lungs and body."
+     "caption": "1. Make a big figure of eight with chalk or string. Mark the heart, lungs and body."
     },
     {
      "art": "A pile of scrunched-up paper balls beside the word LUNGS.",
@@ -1768,7 +1775,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw the figure of eight with chalk, big enough to run round. 2. Mark the heart, lungs and body basket. 3. Make 30 paper balls.",
+     "do": "1. Draw the figure of eight with chalk, or lay it out with a dupatta or string, big enough to run round. 2. Mark the heart, lungs and body basket. 3. Make 30 paper balls.",
      "say": "Today you are red blood cells. This chalk shape is the path your blood takes. Top loop, the lungs. Bottom loop, the body. Every trip goes through the heart in the middle.",
      "kid": "You are a red blood cell! The top loop goes to the lungs. The bottom loop goes to the body. Always go through the heart in the middle.",
      "context": "This is the first step of the Chalk Heart Relay, a running game about blood carrying oxygen. Here you draw the path."
@@ -1861,7 +1868,7 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Make a table with columns: name, age, resting pulse, pulse after stairs, breaths per minute. 2. For each person who agrees, let them sit for 2 minutes. 3. Your child counts their pulse for 30 seconds and doubles it. 4. Then count their breaths for one minute by watching their chest, without telling them, because people breathe differently when they know they are watched.",
+     "do": "1. Make a table with columns: name, age, resting pulse, pulse after stairs, breaths per minute. 2. For each person who agrees, let them sit for 2 minutes. 3. Your child counts their pulse for 30 seconds and doubles it. 4. Then count their breaths for one minute by watching their chest. Don't tell them, because people breathe differently when they know they are watched.",
      "say": "You're going to be the family's heart doctor. Ask each person politely if you may count their pulse. Then sit them down for two minutes first.",
      "kid": "Ask each person if you may count their pulse. Let them sit for 2 minutes. Count for 30 seconds. Double it. Write it down.",
      "parent": "Typical resting pulses: a baby may be 100 to 160, a child 70 to 110, a grown-up 60 to 100. Very fit people can be lower. A breath is one rise and one fall of the chest.",
@@ -1933,7 +1940,7 @@
    ],
    "creative": [
     "Make a flap door from a piece of balloon taped over the end of a straw, so water can go out but not back in. That is a valve, like in your heart.",
-    "Make a siphon: fill a tube with water, hold one end in the full bowl and let the other end hang lower into the empty bowl. Water flows by itself.",
+    "Make a siphon: fill a tube with water, hold one end in the full bowl and let the other end hang lower into the empty bowl. Water flows by itself. This breaks the squeezing rule, but it shows another way to move water.",
     "Squeeze a water balloon with a small hole in rhythm, about once a second, and see how far your 'heart' can push water."
    ],
    "your_turn": "Now invent your own pump. Draw it, build it and test it. How many squeezes does it need to move one cup? Can you beat your first try?",
@@ -2132,7 +2139,7 @@
      "t": "truefalse",
      "p": "Your lungs have muscles that suck air in.",
      "a": false,
-     "why": "False. Lungs have no muscles of their own. The diaphragm under them pulls down and makes room, and the air outside pushes in."
+     "why": "False. Lungs cannot move by themselves. The diaphragm under them tightens and moves down to make room, and the air outside pushes in."
     },
     {
      "t": "truefalse",
@@ -2166,7 +2173,7 @@
       ],
       [
        "Diaphragm",
-       "pulls down to help you breathe in"
+       "tightens and moves down to help you breathe in"
       ],
       [
        "Platelets",
@@ -2372,7 +2379,7 @@
       "To make sound"
      ],
      "a": 0,
-     "why": "The wall between the air and the blood is thinner than a soap bubble. Thin walls let oxygen and carbon dioxide slip across fast. Picking 'so they can pop' comes from thinking of bubbles, but healthy air sacs do not pop."
+     "why": "The wall between the air and the blood is about a hundred times thinner than a hair. Thin walls let oxygen and carbon dioxide slip across fast. Picking 'so they can pop' comes from thinking of bubbles, but healthy air sacs do not pop."
     },
     {
      "t": "fill",
@@ -2490,7 +2497,7 @@
      "t": "mcq",
      "p": "Ibn al-Nafis described blood going through the lungs around 1242. Why did European doctors not learn about it for hundreds of years?",
      "opts": [
-      "His book was in Arabic and was forgotten, then found again in 1924",
+      "His book was in Arabic and was not known in Europe, until it was found again in 1924",
       "He was wrong",
       "He kept it a secret",
       "Nobody could read then"
@@ -2524,7 +2531,7 @@
     },
     {
      "t": "mcq",
-     "p": "Some of the oxygen atoms in your body were made inside stars, long before the Earth existed. What does this mean?",
+     "p": "Every oxygen atom in your body was made inside a star, long before the Earth existed. What does this mean?",
      "opts": [
       "The stuff you breathe and are made of has come a very long way",
       "You are hot like a star",
@@ -2732,7 +2739,7 @@
   },
   {
    "t": "mcq",
-   "p": "What happens when your diaphragm pulls down?",
+   "p": "What happens when your diaphragm tightens and moves down?",
    "opts": [
     "Your chest gets bigger and air flows into your lungs",
     "Air is pushed out",
@@ -2740,7 +2747,7 @@
     "Food goes down"
    ],
    "a": 0,
-   "why": "The diaphragm pulling down makes room in your chest, and air pushes in to fill it. Picking 'air is pushed out' is the opposite: that happens when it relaxes and goes up.",
+   "why": "When the diaphragm moves down, it makes room in your chest, and air pushes in to fill it. Picking 'air is pushed out' is the opposite: that happens when it relaxes and goes up.",
    "outcome": 2
   },
   {
@@ -2844,7 +2851,7 @@
     "The lungs pump blood"
    ],
    "a": 0,
-   "why": "He said blood goes from the right side of the heart, through the lungs, to the left side. He was right, but his book was forgotten in Europe for centuries.",
+   "why": "He said blood goes from the right side of the heart, through the lungs, to the left side. He was right, but his book was not known in Europe for centuries.",
    "outcome": 5
   },
   {
@@ -2938,7 +2945,7 @@
   {
    "problem": "In the squeeze like a heart activity, you squeezed a ball about 100 times in one minute, like a fast child's heart. How many squeezes would that be in one hour?",
    "answer": "6,000 squeezes in one hour.",
-   "explain": "There are 60 minutes in an hour. Each minute has 100 squeezes. 60 lots of 100 is 6,000. Your heart does about this many beats every hour, all day and all night. In one day it is about 100,000 beats.",
+   "explain": "There are 60 minutes in an hour. Each minute has 100 squeezes. 60 lots of 100 is 6,000. A child's heart beats about this many times every hour, day and night. In one day that is more than 100,000 beats.",
    "math_unit": "math.number-sense.place-value.L3",
    "how": "a3",
    "context": "This is about the squeeze like a heart activity. You squeeze a ball once every time your heart beats, to feel how hard the heart works.",
@@ -2951,7 +2958,7 @@
    "channel": "TED-Ed",
    "youtube": "ruM4Xxhx32U",
    "mins": 5,
-   "why": "A clear animation of the four rooms of the heart, the valves and the two loops of blood. Good for the parent and older children.",
+   "why": "A clear animation of the four chambers of the heart, the valves and the two loops of blood. Good for the parent and older children.",
    "check": "Found by YouTube search: \"How the heart actually pumps blood - Edmond Hui\" by TED-Ed. Title checked automatically; a parent may still preview it."
   },
   {
@@ -2981,7 +2988,7 @@
   "The 'blue baby' operation from the story, and later heart surgery, has helped many thousands of children grow up.",
   "Rescue breathing and chest pressing, called CPR, can keep blood and oxygen moving when someone's heart has stopped, until help comes.",
   "Divers, firefighters and astronauts carry tanks of air, because they go where there is no good air to breathe.",
-  "Air quality boards in Indian cities show how dirty the air is, so people with weak lungs can stay indoors on bad days.",
+  "Air quality boards in Indian cities show how dirty the air is, so people with asthma or other lung illness can stay indoors on bad days.",
   "Athletes count their resting pulse. A lower resting pulse often means a fitter heart.",
   "Singers, shehnai players and people who blow the shankh train their breathing to hold long notes.",
   "Yoga breathing, called pranayama, is taught in schools and parks across India to help people feel calm."
@@ -3027,7 +3034,7 @@
  "open_questions": [
   {
    "q": "Why can a grown-up human heart hardly repair itself, when a zebrafish can grow back part of its heart?",
-   "why_open": "In 2009, scientists used a trace left in people's bodies by old bomb tests to measure how fast heart muscle cells are replaced. In young adults, only about 1 in every 100 is replaced each year. Zebrafish can regrow a damaged part in weeks. Nobody yet knows how to make human hearts do this."
+   "why_open": "In 2009, scientists used a trace left in people's bodies by old bomb tests to measure how fast heart muscle cells are replaced. In young adults, only about 1 in every 100 is replaced each year. Zebrafish can regrow a damaged part of the heart in about two months. Nobody yet knows how to make human hearts do this."
   },
   {
    "q": "How exactly does the very first heartbeat start in a tiny growing baby?",
@@ -3298,7 +3305,7 @@
    "id": "b-model",
    "item": "A model of the human heart, or a torso model with removable organs",
    "kind": "tool",
-   "why": "Lets your child hold the heart, open its four rooms and see where it sits between the lungs.",
+   "why": "Lets your child hold the heart, open its four chambers and see where it sits between the lungs.",
    "url": "https://www.amazon.in/s?k=human+heart+model+for+kids",
    "used_in": [
     "g1"
@@ -3375,62 +3382,61 @@
   }
  ],
  "roots": {
-  "context": "We have been learning how the heart pumps blood round and round, and how the lungs swap air with the world. Now we ask what this tells us about ourselves and the world.",
+  "context": "We have felt the pulse, counted heartbeats and learned how blood goes round two loops. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "You are not a still thing. You are a flow that the world keeps passing through.",
-   "habit": "We think of 'me' as a fixed thing with a clear edge, and the air and other people as outside. But air comes into you, becomes part of your blood and cells, and goes out again to trees and other people. Even your blood is replaced every few months. The edge between you and the world is a doorway, not a wall.",
-   "evidence": "Every breath swaps air with the room. Every minute, all your blood goes round once. Your red blood cells are all new in about four months. And the carbon dioxide you breathe out becomes part of a plant."
+   "truth": "Each heartbeat pushes out about 8 teaspoons of blood. Count your beats for one minute, and that adds up to more than all your blood. So the same 2 litres must go round and round, again and again. A small amount of blood keeps you alive by never stopping.",
+   "habit": "We tend to think a body keeps going by using things up, the way a car uses up petrol. Galen taught that blood was made in the liver and used up like that. In fact blood drops off oxygen and food, comes back, and is used again. What keeps you alive is that it keeps moving.",
+   "evidence": "In the jumping heart experiment you counted your heartbeats. A child's heart pushes out about 40 ml with each beat, so 90 beats push out about 3,600 ml. A child of 8 has only about 2,000 ml of blood. William Harvey made the same kind of sum in 1628."
   },
   "three": {
-   "who_am_i": "You are a heart that never stops and a breath that is always moving. The air you are made of was the world's a moment ago.",
-   "what_is_life": "Living things keep taking in and giving out. A heartbeat and a breath are life saying 'still going'.",
-   "what_is_this_world": "It is a world where trees breathe out what you breathe in, and you breathe out what trees breathe in."
+   "who_am_i": "You are trillions of cells. A cell in your brain and a cell in your toe are fed by the same blood, pushed by the same heart.",
+   "what_is_life": "When you jumped, your body sensed that your muscles needed more oxygen, and your heart sped up without you deciding. Even one heart cell in a dish beats on its own.",
+   "what_is_this_world": "The oxygen in your blood was put into the air by plants and algae. The carbon dioxide you breathe out goes back to them."
   },
-  "thread": "Before you breathe in, the air belongs to the whole world. Inside you, it becomes your blood, your warmth and your thinking. When you breathe out, it belongs to the world again. The same oxygen, made long ago in stars, has passed through trees, tigers, grandmothers and you. DeepKids believes this is the One showing up as many bodies, all sharing one breath. Your heart and lungs are where the many meet the one shared air.",
+  "thread": "One heart and about 2 litres of blood keep trillions of cells alive. Every cell, from your brain to your toes, is fed by the same blood on the same loop. The heart itself is many cells acting as one: each heart cell can beat alone, and when heart cells touch, they beat together in time. So one moving loop of blood joins all the many parts of you into one living body.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 5.1",
     "teaching": "The senses argued about which of them was the greatest. Speech left the body for a year, and the body lived on, unable to speak. The eye left, and the ear left, and the mind left, and still the body lived. Then breath began to leave, and all the others were pulled along with it, like pegs torn up by a horse. They agreed that breath was the greatest of them all.",
-    "link": "Science agrees that breath and heartbeat keep every other part going. Without oxygen carried by blood, the eyes, ears and brain soon stop working."
+    "link": "Science finds the same order. If the heart stops and no oxygen reaches the brain, a person faints within seconds. Seeing, hearing and speaking all stop with it."
    },
    {
     "source": "Kabir, Songs of Kabir, poem I, translated by Rabindranath Tagore (1915)",
     "teaching": "Kabir says the one people search for in temples and mosques is right beside them. He ends: God is the breath of all breath.",
-    "link": "The breath we share with every living thing is the closest thing to us. Kabir pointed there, not far away."
+    "link": "Your heartbeat and breath are always with you, though you rarely notice them. Kabir pointed to something just as close, not somewhere far away."
    },
    {
     "source": "Thich Nhat Hanh, Being Peace (1987)",
     "teaching": "A Vietnamese Buddhist teacher taught a simple practice. Breathing in, I calm my body. Breathing out, I smile. Paying gentle attention to the breath brings us back to the present moment.",
-    "link": "Slow breathing really does calm the heart, as you can feel with your own pulse."
+    "link": "Slow breathing really does slow the heart a little. You can check it by counting your pulse before and after."
    }
   ],
   "science": [
    {
-    "text": "Most oxygen atoms in the air and in you were made inside stars long ago. Plants and algae put oxygen into the air, and the carbon dioxide you breathe out is taken in by plants.",
+    "text": "In 1628 William Harvey showed that the heart pumps out far more blood than the body could ever make, so the same blood must go round. Doctors now watch this flow on ultrasound screens.",
     "status": "settled"
    },
    {
-    "text": "Air mixes all round the Earth over the years. Some scientists have worked out that each breath you take probably holds a few of the same molecules that any one person breathed out long ago. This is a rough calculation, not a measurement.",
-    "status": "idea"
+    "text": "A single heart muscle cell, kept alive in a dish, beats by itself. When many such cells touch, they start beating together in time.",
+    "status": "settled"
    }
   ],
   "other_view": {
-   "who": "The Charvaka thinkers of ancient India, and many scientists today",
-   "view": "Breath is air moving in and out of a body, and blood is a liquid pumped by a muscle. That fully explains it. There is no need for any One behind it. When the body stops, the breath and the person stop too. This is an honest view held by many thoughtful people."
+   "who": "Many physiologists, the scientists who study how bodies work",
+   "view": "The heart speeds up because of nerve signals and chemicals in the blood. It is an automatic response, like a machine set to run faster when the load goes up. To them, calling it sensing or answering adds nothing that the nerves and chemicals do not already explain."
   },
   "practice": {
-   "title": "The Breath Gift",
+   "title": "Feel the loop",
    "mins": 3,
-   "say": "Let's sit near a plant, like a tulsi or a money plant. Put one hand on your chest and feel your heart. Now breathe in slowly through your nose. Think: this breath was the plant's, and now it is mine. Breathe out slowly towards the plant. Think: this breath is mine, and now it is the plant's. Let's do this five times, quietly. Then sit still for a moment and feel your heart again.",
-   "kid": "Sit near a plant. Hand on your heart. Breathe in slowly. This air was the plant's. Breathe out to the plant. Now it is the plant's again. Do it five times."
+   "say": "Sit still and put two fingers on your wrist. Find your pulse. Each tap is about 8 teaspoons of blood leaving your heart. Count ten taps quietly. Now breathe in slowly for 4 counts, and out slowly for 6 counts. Do it five times. Then find your pulse again. Think: the blood under my fingers will be back in my heart in less than a minute.",
+   "kid": "Sit still. Find your pulse on your wrist. Count ten taps. Breathe in for 4. Breathe out slowly for 6. Do it five times. Feel your pulse again."
   },
   "ask": [
-   "Where does your breath stop being yours?",
-   "If your blood is new every few months, what stays the same about you?",
-   "Who might have breathed this same air before you?",
-   "Is the plant you breathed with part of you, or separate?"
+   "Your heart sped up when you jumped, though you never told it to. Who or what decided?",
+   "Your red blood cells are all new every four months. What stays the same about you?",
+   "Your heart beats without being told, but you can change your breathing when you choose. Which of these is more 'you'?"
   ],
-  "art": "A child sitting cross-legged beside a tulsi plant, a soft loop of breath drawn going from the child to the plant and back, the child's heart glowing faintly, tiny stars sprinkled in the loop."
+  "art": "A child sitting still with two fingers on the wrist, a see-through figure-of-eight loop of red blood around the heart and lungs, with small arrows showing the same blood going round."
  },
  "plan": {
   "start_options": [
@@ -3499,7 +3505,7 @@
    "DeepKids HomeSchooling Track, live class plan (feel heartbeat and pulse) and 'sit in stillness, notice heartbeat'",
    "DeepKids V0.1 Activities, Yoga Week (how long can you hold your breath comfortably), adapted here to slow breathing and breath measuring, without a breath-holding contest",
    "DeepKids HomeSchooling Track, Energy row (run around the house as long as you can: why did you stop?)",
-   "SCI Cards (ideas/scientists.json): Kamala Sohonie (the same breathing enzyme in plants and animals) and Yellapragada Subbarow (ATP in muscle), used for the deep truth that every cell breathes",
+   "SCI Cards (ideas/scientists.json): Kamala Sohonie (the same breathing enzyme in plants and animals) and Yellapragada Subbarow (ATP in muscle), background for respiration in every cell",
    "Combined lesson sci-C5-body-parts-and-skeleton: the bottle lung, the funnel stethoscope and pulse count, and the voice on Ibn al-Nafis and William Harvey, reused and improved here",
    "Combined lesson sci-C3-health-hygiene-exercise-and-illness: exercise speeds the heart, slow breathing for big feelings"
   ],
@@ -3516,7 +3522,14 @@
    "Kienle et al., Applied Optics 1996 (why veins appear blue)",
    "Levine, Journal of the American College of Cardiology 1997 (heart rate and life expectancy)",
    "Park et al., Science 2017 (naked mole-rats survive without oxygen using fructose)",
-   "Lavoisier and Laplace, Memoir on Heat (1783), respiration as slow combustion"
+   "Lavoisier and Laplace, Memoir on Heat (1783), respiration as slow combustion",
+   "Malpighi, De pulmonibus (1661), capillaries in the frog lung"
   ]
+ },
+ "how_we_found_out": {
+  "story": "For about 1,400 years, doctors followed Galen, a Greek doctor in Rome. Galen taught that the liver makes new blood from food, and the body uses it up, like fuel. He also taught that blood seeps from the right side of the heart to the left through tiny holes in the wall between them. Around 1242, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes. Blood, he said, goes from the right side of the heart through the lungs and back to the left side. Europe did not know his book for centuries. In 1628 the English doctor William Harvey gave a different kind of proof. He worked out roughly how much blood one beat pushes out, and counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. No liver could make that much. He also tied a band round an arm and pressed along the veins. The blood in them moved only towards the heart. So the same blood must go round and round. Harvey could not see how blood got from arteries to veins. In 1661 Marcello Malpighi saw the answer under a microscope: tiny capillaries in a frog's lung.",
+  "who": "Galen, Ibn al-Nafis, William Harvey and Marcello Malpighi",
+  "when": "About 1242 (Ibn al-Nafis), 1628 (Harvey's book) and 1661 (Malpighi's capillaries)",
+  "wrong_idea": "Galen taught that the liver makes blood fresh from food and the body uses it up, and that blood seeps through holes in the heart's middle wall. Ibn al-Nafis said the wall has no holes. Harvey's sum showed far too much blood passes through the heart for the liver to make, so it must go round."
  }
 }
