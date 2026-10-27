@@ -135,7 +135,7 @@ Some jobs still need materials nobody has made well yet. Scientists have many id
 - e.g. DNA as a building material: Yamuna Krishnan, an Indian scientist who worked in Bengaluru and now works in Chicago, folds DNA into tiny machines. They change shape inside living cells and glow to report what is happening there.
 - e.g. Materials that carry electricity with no loss at all, at ordinary room temperature. In 2023, some scientists claimed to have made one, called LK-99. Other scientists tested it carefully, and it did not work. The search goes on.
 - **Hopeful scientists:** Materials that heal, grow or change shape could make houses, roads and medicines last longer and waste less.
-- **Careful scientists:** Many exciting new materials work in a laboratory but are too costly or hard to make in large amounts. We must test every claim before we believe it.
+- **Careful scientists:** Many exciting new materials work in a laboratory but are too costly or hard to make in large amounts. We must test every claim before we trust it.
 
 ## Mostly agreed
 - We choose materials for jobs because of their properties. *How we know:* Every engineer and maker in the world does this. When people choose badly, the object fails, like a paper umbrella in the rain.
@@ -179,7 +179,7 @@ We have been learning why we choose each material for its job. Now we ask what m
 - *what is life:* Birds fluff up their feathers on cold mornings to hold more still air. Living things used the trapped-air trick long before people did.
 - *what is this world:* The iron in your spoon was made in stars, long before the Earth formed.
 
-A matka, a sweater and a flask look like solid things. But each one works because of what lies between its parts: tiny holes, pockets of still air, or an empty gap. DeepKids believes everything rises from one source, and the spaces between things belong to that whole as much as the things do. So a material is more than its fibres or its clay. Its gaps are working too.
+A matka, a sweater and a flask look like solid things. But each one works because of what lies between its parts: tiny holes, pockets of still air, or an empty gap. Everything rises from one source, and the spaces between things belong to that whole as much as the things do. So a material is more than its fibres or its clay. Its gaps are working too.
 
 - **Tao Te Ching 11:** We shape clay into a pot. But it is the empty space inside that makes the pot useful. (The gaps in wool are not truly empty. They are full of still air. But like the space inside Laozi's pot, they are what make the sweater useful. The tiny holes in a matka do the same for cool water.)
 - **Chandogya Upanishad 6.1.4:** Uddalaka tells his son that once you know one lump of clay, you know everything made of clay. The pots are only different shapes and names. What is real is the clay. (A matka, a kulhad and a diya are different objects with different jobs, yet all are clay. This unit's science goes one step further: clay, steel and wool are all atoms, joined in different ways.)
