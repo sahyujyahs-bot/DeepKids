@@ -3,12 +3,12 @@
  "title": "Day and night: how the spinning Earth makes them",
  "level": 3,
  "summary": {
-  "text": "The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours, so half of it always faces the Sun and has day, while the other half has night. The spin carries every place from the light into the dark and back again, which is why the Sun seems to rise in the east and set in the west. We cannot feel the spin, but a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower, and how the Earth got its spin in the first place is still being worked out.",
+  "text": "The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We cannot feel the spin, but a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.",
   "art": "A blue Earth ball lit from one side by a bright Sun, half in daylight and half in night, with a small curved arrow showing the spin and a tiny child standing on the line between light and dark."
  },
  "intro": {
   "hook": "Right now, as you read this, you are moving faster than an aeroplane. You are not in a car or a train. You are sitting still. So how can that be?",
-  "text": "In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. At this very moment, it is night for children in America, and their Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?",
+  "text": "In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. In the afternoon here, it is night for children in America, and their Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?",
   "art": "A child sitting still on a chair on a rooftop in an Indian town, with speed lines behind the whole town and a faint giant curve of the Earth below, the Sun low on one side."
  },
  "outcomes": [
@@ -38,7 +38,7 @@
   {
    "term": "Earth",
    "meaning": "The planet we live on. It is a huge rocky ball, and it floats in space.",
-   "example": "Everything you have ever seen with your own eyes, apart from the sky, is on the Earth.",
+   "example": "Every place you have ever been is on the Earth.",
    "art": "The Earth as seen from space, with India visible under white clouds."
   },
   {
@@ -92,7 +92,7 @@
   {
    "term": "Noon (midday)",
    "meaning": "The middle of the day, when the Sun is at its highest in the sky. Shadows are shortest at noon.",
-   "example": "At noon your shadow is a small puddle near your feet.",
+   "example": "At noon your shadow is at its shortest. On a summer noon in India, it is only a small patch near your feet.",
    "art": "A child at noon with a tiny shadow under their feet."
   },
   {
@@ -134,7 +134,7 @@
   {
    "term": "Pole Star (Dhruva Tara)",
    "meaning": "A star that sits almost exactly above the North Pole. As the Earth spins, all the other stars seem to circle around it, but it hardly moves.",
-   "example": "In north India, you can find it low in the northern sky, using the Saptarishi stars as pointers.",
+   "example": "From India, you find it in the northern sky, using the Saptarishi stars as pointers. The further south you live, the lower it sits.",
    "art": "The Saptarishi stars with two pointer stars and a dotted line leading to Dhruva Tara."
   },
   {
@@ -164,7 +164,7 @@
    "description": "The Sun shines all the time. It never switches off at night. But sunlight can only reach the side of the Earth that faces the Sun. The far side is dark, like the back of your head when you face a lamp. So at every moment, half of the Earth has day and half has night. When it is 9 at night in India, it is morning in parts of America. Their Sun is the very same Sun as ours.",
    "examples": [
     "Hold an orange in front of a lamp in a dark room. The side facing the lamp is bright. The back is dark.",
-    "When you go to bed in Chennai, children in New York are having breakfast.",
+    "When you go to bed in Chennai, children in California are getting up for school.",
     "From space, astronauts see the Earth as half bright and half dark, with cities glowing on the dark half."
    ],
    "perspectives": [],
@@ -175,7 +175,7 @@
    "concept": "The Earth spins, once in about 24 hours",
    "status": "defined",
    "definition": "The Earth spins around an imaginary line called its axis. One whole spin takes about 24 hours. This spin is called rotation.",
-   "description": "The Earth's axis goes through the North Pole and the South Pole. The Earth turns from west to east. If you looked down on the North Pole from space, you would see it turn anticlockwise. As it turns, every place is carried into the sunlight, across the middle of the day, and out into the dark again. That is one day and one night. The Earth is very big, so even a slow spin is fast at the edge. In India, the ground moves at nearly 1,500 kilometres an hour. At the equator, the fattest part of the Earth, it moves at about 1,670 kilometres an hour.",
+   "description": "The Earth's axis goes through the North Pole and the South Pole. The Earth turns from west to east. If you looked down on the North Pole from space, you would see it turn anticlockwise. As it turns, every place is carried into the sunlight, across the middle of the day, and out into the dark again. That is one day and one night. The Earth is very big, so even one slow turn a day moves the ground very fast. In India, the ground moves at nearly 1,500 kilometres an hour. At the equator, the fattest part of the Earth, it moves at about 1,670 kilometres an hour.",
    "examples": [
     "A dot drawn on a spinning ball goes into the torchlight, across it, and out again. That is like your town's day.",
     "A ceiling fan spins around its middle rod. The Earth spins around its axis in the same way.",
@@ -254,7 +254,7 @@
    "concept": "Sunrise travels across India",
    "status": "defined",
    "definition": "The Earth turns from west to east, so places in the east of India turn into the sunlight first. Sunrise sweeps across the country from east to west.",
-   "description": "Dong, a village in Arunachal Pradesh, is one of the first places in India to see the sunrise. Almost two hours later, the Sun rises in the far west of Kutch, in Gujarat. Between them, sunrise reaches Kolkata, then Nagpur, then Mumbai. But all of India uses one clock time, called Indian Standard Time. It is set by the Sun over a line passing near Mirzapur, in Uttar Pradesh, close to the middle of the country. So in Arunachal, the clock says it is early when the Sun is already up. In Gujarat, the clock says it is late when the Sun has only just risen. Tea gardens in Assam have long used their own clock, called tea garden time, one hour ahead of the rest of India.",
+   "description": "Dong, a village in Arunachal Pradesh, is one of the first places in India to see the sunrise. In June, about two hours later, the Sun rises in the far west of Kutch, in Gujarat. Between them, sunrise reaches Kolkata, then Nagpur, then Mumbai. But all of India uses one clock time, called Indian Standard Time. It is set by the Sun over a line passing near Mirzapur, in Uttar Pradesh, close to the middle of the country. So in Arunachal, the clock says it is early when the Sun is already up. In Gujarat, the clock says it is late when the Sun has only just risen. Tea gardens in Assam have long used their own clock, called tea garden time, one hour ahead of the rest of India.",
    "examples": [
     "On a summer morning, the Sun can rise in Dong before 4:30, by the clock.",
     "In Bhuj, in Kutch, summer sunrise comes at about 6 o'clock.",
@@ -298,7 +298,7 @@
       "6:05"
      ]
     ],
-    "note": "Times are rounded and change a little through the year. Places further north in summer also get a slightly earlier sunrise, which is why Delhi comes before Mumbai."
+    "note": "Times are rounded and change a little through the year. Delhi comes before Mumbai for two reasons. It is further east, and in June places further north get an earlier sunrise."
    }
   },
   {
@@ -422,7 +422,7 @@
   {
    "concept": "Twilight, and the Sun you see after it has set",
    "status": "defined",
-   "definition": "After sunset, the air above us still catches sunlight, so the sky stays bright for a while. This is twilight. The air also bends sunlight a little, so we see the Sun for about 2 minutes longer than we otherwise would.",
+   "definition": "After sunset, the air above us still catches sunlight, so the sky stays bright for a while. This is twilight. The air also bends sunlight a little. So we still see the Sun for about 2 minutes after it has really gone below the horizon.",
    "description": "Air scatters sunlight, sending it off in all directions, and this lights up the whole sky. That is why the daytime sky is bright, and not black like space. After sunset, high air is still in sunlight, so it glows for a while. Air also bends light a little, like water bends a straw in a glass. Near the horizon, this bending lifts the picture of the Sun. So at sunset, the Sun you see touching the horizon is already just below it. Look east just after sunset and you may see a dark blue band low in the sky, with a pink band above it. The dark band is the shadow of the Earth itself, falling on the air.",
    "examples": [
     "On the Moon there is no air, so the sky is black even in the day, and there is no twilight.",
@@ -473,7 +473,7 @@
    "concept": "Living things keep time with the spin",
    "status": "defined",
    "definition": "Plants, animals and people have body clocks inside them. Body clocks follow a rhythm of about 24 hours, matching the Earth's spin.",
-   "description": "In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. Its leaves still opened in the day and folded at night, without any sunlight. So the plant had its own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was weeks earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that work the clock, in fruit flies. Almost every cell in our body has a clock like that. Morning light reaching our eyes resets the main clock, in the brain, every day.",
+   "description": "In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. Its leaves still opened in the day and folded at night, without any sunlight. So the plant had its own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was about 25 days earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that work the clock, in fruit flies. Almost every cell in our body has a clock like that. Morning light reaching our eyes resets the main clock, in the brain, every day.",
    "examples": [
     "Owls, bats and many moths are active at night. Scientists call them nocturnal.",
     "Long flights across the world give people jet lag. Their body clock is still on home time."
@@ -486,7 +486,7 @@
    "concept": "Where daylight comes from",
    "status": "defined",
    "definition": "Daylight is light from the Sun. The Sun makes it deep inside, where hydrogen is squeezed into helium and gives out huge amounts of energy.",
-   "description": "In 1925, a young astronomer, Cecilia Payne, showed that the Sun and the stars are made mostly of hydrogen and helium. Many senior astronomers did not believe her at first. Later, they agreed she was right. Deep in the Sun's centre, hydrogen is squeezed so hard that it joins together into helium. This gives out the energy that makes sunlight. Sunlight takes about 8 minutes to cross space and reach your face. But scientists estimate that its energy spent many thousands of years working its way out from the Sun's centre first. So the energy in the morning light on your face began its journey out of the Sun long before there were any people.",
+   "description": "In 1925, a young astronomer, Cecilia Payne, showed that the Sun and the stars are made mostly of hydrogen and helium. Many senior astronomers did not believe her at first. Later, they agreed she was right. Deep in the Sun's centre, hydrogen is squeezed so hard that it joins together into helium. This gives out the energy that makes sunlight. Sunlight takes about 8 minutes to cross space and reach your face. But scientists estimate that its energy spent many thousands of years working its way out from the Sun's centre first. So the energy in the morning light on your face began its journey out of the Sun's centre long before the first towns were built.",
    "examples": [
     "When you see the Sun, you see it as it was about 8 minutes ago.",
     "Plants catch this sunlight and make food from it, and so do we, when we eat the plants."
@@ -540,7 +540,7 @@
    "who": "Many science books",
    "for": "Copernicus wrote it in his famous book of 1543, and it changed science in Europe.",
    "against": "Aryabhata wrote it in India in 499 CE, more than a thousand years earlier, with his example of a man in a moving boat. Heraclides of Pontus said it in Greece even earlier. Their ideas were argued against and often forgotten.",
-   "status": "debated",
+   "status": "rejected",
    "context": "This card is about who should get the credit for the idea that the Earth spins."
   },
   {
@@ -620,9 +620,9 @@
    "hint": "Light takes time to travel. So does sound. What about the stars?"
   },
   {
-   "q": "A swinging nut on a string keeps its swing lined up with the far-away stars, not with the turning floor. Why should the far stars decide what counts as spinning?",
+   "q": "A Foucault pendulum keeps its swing lined up with the far-away stars, not with the turning floor. Why should the far stars decide what counts as spinning?",
    "kind": "deep",
-   "hint": "Scientists still argue about this. What do you think connects them?"
+   "hint": "Scientists still argue about this. The stars are very far away. What could link them to a pendulum in a hall?"
   }
  ],
  "story": {
@@ -648,7 +648,7 @@
    "I looked at the mausambi turning in the torchlight. Then I looked at the real Sun. It was sitting quite still. It had always been sitting still. It was the roof under my feet that was moving. The whole of Kutch, with its salt and dust and dogs, was tipping slowly backwards, away from the light. I could almost feel it, a slow, enormous lean, like a boat on a calm river.",
    "The Sun had never been listening to me. All those years in Dong, my hill had simply been the first to turn into the light. I was not the one who raised the Sun. I was the first one who saw it.",
    "That night, I thought about the line of light. It swept across India every morning, like a lamp carried slowly through a house. First it touched Dong, where Grandmother's rooster would be crowing. Then the tea gardens of Assam. Then Kolkata, then Delhi, then Mumbai, and at last, Bhuj. Then it would go on, across the sea, to Arabia and Africa, and on and on around the whole turning world. Somewhere along that line, a rooster was always crowing. Somewhere, it was always morning.",
-   "The next day, I woke at my Dong time. I waited in the dark, quietly, for almost two hours. When the first grey came, I climbed onto the wall and crowed, softly at first, then loud. Not to call the Sun. Just to tell Bhuj that it had turned round into the morning once again."
+   "The next day, I woke at my Dong time. I waited in the dark, quietly, for about two hours. When the first grey came, I climbed onto the wall and crowed, softly at first, then loud. Not to call the Sun. Just to tell Bhuj that it had turned round into the morning once again."
   ],
   "epiphany": "For the parent: the rooster thinks the Sun comes to him. The turn comes when the Sun rises without his crow, and Grandmother's sky in Dong is dark while Bhuj still has sunset. The mausambi on a pencil shows why. The Earth turns from west to east, so Dong turns into the sunlight about two hours before Bhuj. Nothing rises. The ground turns. The rooster's crow was not wrong, only still on Dong time, the way our body clocks keep home time after a long journey. The story also gently asks what happens when we think we are the centre that everything moves around.",
   "ask": [
@@ -676,7 +676,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "20 place cards to cut out, each with a small map dot",
+     "title": "20 cards to cut out: 15 place cards, each with a small map dot, and 5 SPIN CARDS",
      "items": [
       "Dong, Arunachal Pradesh (far east of India)",
       "Guwahati, Assam",
@@ -719,9 +719,9 @@
    "rules": [
     "Cut out the cards. Lay the sunrise line strip on the floor. Have a ball and a torch ready.",
     "Shuffle the place cards and deal 3 to each player. Put the rest face down in a pile.",
-    "On your turn, put one of your place cards on the sunrise line. It must be in the right order, east first.",
+    "On your turn, put one of your place cards on the sunrise line. It must be in the right order, east first. Then take a new card from the pile.",
     "If someone thinks it is in the wrong place, check on a map or a globe. A right card wins one paper sun. A wrong card goes back in the pile.",
-    "If you draw a SPIN CARD, everyone answers it together using the ball and the torch. The first right answer wins two suns.",
+    "If you get a SPIN CARD, read it out. Everyone answers it together using the ball and the torch. The first right answer wins two suns.",
     "When the pile runs out, the player with the most suns wins."
    ],
    "setup": [
@@ -805,7 +805,7 @@
    "title": "Turn, Earth, Turn!",
    "mins": 15,
    "players": "3 or more players: one is the Sun, the others are the Earth",
-   "context": "This is a running-about game. Children hold hands in a ring and turn slowly, acting as the spinning Earth. Whoever faces the Sun acts out a day job or a day animal. Whoever faces away acts out a night one.",
+   "context": "This is a moving game. Children hold hands in a ring and turn slowly, acting as the spinning Earth. Whoever faces the Sun acts out a day job or a day animal. Whoever faces away acts out a night one.",
    "printables": [
     {
      "kind": "cards",
@@ -831,7 +831,7 @@
     },
     {
      "kind": "board",
-     "title": "A big yellow Sun sign to hold, and a line of masking tape on the floor",
+     "title": "A big yellow Sun sign to hold",
      "items": [
       "SUN"
      ]
@@ -850,7 +850,7 @@
     "One player holds the yellow SUN sign and stands still at one side. The Sun never moves.",
     "Everyone else holds hands in a small ring in the middle, facing outwards. The ring is the Earth.",
     "The ring walks slowly round, anticlockwise when seen from above, one step at a time.",
-    "When the Sun calls 'Freeze!', everyone stops. Players facing the Sun take a DAY card and act it. Players facing away take a NIGHT card and act it. Players at the side say 'Sunrise!' or 'Sunset!'.",
+    "When the Sun calls 'Freeze!', everyone stops. Players facing the Sun take a DAY card and act it. Players facing away take a NIGHT card and act it. A player at the side who is turning towards the Sun says 'Sunrise!'. One turning away says 'Sunset!'.",
     "Then swap so a new player is the Sun. Keep a count of the turns on the spin counter."
    ],
    "setup": [
@@ -1036,7 +1036,7 @@
        "Night"
       ],
       [
-       "a long shadow behind you",
+       "your long shadow in the evening sunlight",
        "Day"
       ]
      ],
@@ -1385,7 +1385,7 @@
       "Mirrors in the sky"
      ],
      "a": 1,
-     "why": "Air bends light a little, like water bends a straw in a glass. Near the horizon, this lifts the picture of the Sun, giving about 2 extra minutes of Sun. Picking 'eyes too slow' is a clever guess about light taking time, but that is a different effect."
+     "why": "Air bends light a little, like water bends a straw in a glass. Near the horizon, this lifts the picture of the Sun, so we see the Sun for about 2 extra minutes at sunset. Picking 'eyes too slow' is a clever guess about light taking time, but that is a different effect."
     },
     {
      "t": "mcq",
@@ -1416,7 +1416,7 @@
       "The Moon hides them"
      ],
      "a": 1,
-     "why": "This puzzle troubled scientists for centuries. Edgar Allan Poe, a writer, guessed the first part of the answer in 1848. Picking 'switch off' or 'clouds' answers why we see fewer stars, but not why the sky between them is black."
+     "why": "This puzzle troubled scientists for centuries. Edgar Allan Poe, a writer, guessed the first part of the answer in 1848. Picking 'clouds' explains why we sometimes see fewer stars, but not why the sky between the stars is black on a clear night. Stars do not switch off at night either. They shine all the time."
     },
     {
      "t": "truefalse",
@@ -1545,7 +1545,7 @@
     },
     {
      "art": "A dark room with a torch on a pile of books shining at the orange held up by its pencil, half of the orange bright.",
-     "caption": "2. Put the torch on a pile of books. Shine it at the ball. Keep the torch still."
+     "caption": "2. Put the torch on a pile of books. Shine it at the ball. Keep the torch still, on your right side."
     },
     {
      "art": "A child's hands turning the pencil so the orange spins, with a curved arrow showing the direction, and one dot just coming into the light.",
@@ -1569,12 +1569,12 @@
      "say": "This ball is the Earth. The pencil is its axis, the line it spins around. The top is the North Pole. These dots are three places in India.",
      "kid": "This ball is the Earth. The pencil is its axis. The top is the North Pole. Stick on three dots for three places.",
      "adult": true,
-     "parent": "Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between. India is north of the equator, so the dots go a little above the middle."
+     "parent": "Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between. India is north of the equator, so the dots go a little above the middle. The real places are closer together than this, but spacing them out makes the order easy to see."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Make the room dark. 2. Put the torch on a pile of books, shining at the ball. 3. Hold the ball still, about an arm's length away.",
+     "do": "1. Make the room dark. 2. Put the torch on a pile of books, shining at the ball. 3. Hold the ball still by its pencil, about an arm's length from the torch. 4. Sit beside the ball so the torch shines on it from your right side.",
      "say": "The torch is the Sun. Look at the ball. How much of it is lit up?",
      "kid": "Turn off the lights. Shine the torch at the ball. How much of the ball is bright?",
      "ask": [
@@ -1604,7 +1604,7 @@
      "do": "1. Turn the ball slowly by its pencil, so the front moves from left to right. That is west to east. 2. Stop each time a dot crosses into the light. 3. Write it in the table. 4. Do it 3 times.",
      "say": "Now the Earth spins. Turn it slowly, west to east. Which dot comes into the sunlight first?",
      "kid": "Turn the ball slowly by the pencil. Which dot comes into the light first? Write it down. Do it 3 times.",
-     "parent": "Dong should come into the light first, then home, then Bhuj. If it goes the other way, the ball is turning the wrong way. Turn it so the side facing you moves from left to right.",
+     "parent": "Dong should come into the light first, then home, then Bhuj. If it goes the other way, the ball is turning the wrong way. Check that the torch is on your right, and turn the ball so the side facing you moves from left to right.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1708,7 +1708,7 @@
    ],
    "materials": [
     {
-     "item": "a straight stick or pencil about 30 cm long",
+     "item": "a straight stick about 30 cm long, such as a bamboo stick (a pencil works too, but its shadows will be shorter)",
      "qty": 1
     },
     {
@@ -1716,7 +1716,7 @@
      "qty": 1
     },
     {
-     "item": "a big sheet of paper, or a spot of floor you can draw on with chalk",
+     "item": "a big sheet of paper, such as an opened newspaper, or a spot of floor you can draw on with chalk",
      "qty": 1
     },
     {
@@ -1942,7 +1942,7 @@
    "setup": [
     {
      "art": "A heavy nut tied to a string hanging from a stick laid across two chairs, just above the seat of a round stool with a chalk line across it.",
-     "caption": "1. Hang the weight so it just clears the stool. Draw a line across the stool."
+     "caption": "1. Hang the weight so it just clears the stool. Wind up extra string on the handle. Draw a line across the stool."
     },
     {
      "art": "The weight swinging to and fro exactly along the chalk line, dotted arc showing its swing.",
@@ -1957,7 +1957,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Tie the weight to the string. 2. Hang it from a broom handle across two chairs, so it swings just above the stool or plate. 3. Draw a chalk line across the middle of the stool or plate.",
+     "do": "1. Tie the weight to the string. 2. Tie the other end to a broom handle laid across the backs of two chairs. Wind the extra string round the handle until the weight hangs just above the stool or plate, without touching it. 3. Draw a chalk line across the middle of the stool or plate.",
      "say": "This is a pendulum, a weight on a string. Let's see what it does when the floor under it turns.",
      "kid": "Tie the weight to the string. Hang it just above the stool. Draw a line across the stool.",
      "adult": true,
@@ -2539,7 +2539,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Build the sundial. Put it in a sunny spot. Mark the shadow on every hour."
+     "what": "Build the sundial. Put it in a sunny spot. Mark the shadow every hour."
     },
     {
      "day": 2,
@@ -2710,7 +2710,7 @@
    ],
    "materials": [
     "a ball and a pencil for an axis",
-    "a lamp with an ordinary warm bulb, or the sunshine from a window",
+    "sunshine from a window, or a lamp with an old-style bulb that gets warm",
     "bumpy stickers, buttons, or a dab of glue to mark places",
     "a small bell"
    ],
@@ -2751,7 +2751,7 @@
      "say": "Shut your eyes. Turn the ball slowly. Feel for the button. Is it warm or cool?",
      "kid": "Shut your eyes. Turn the ball slowly. Find the button. Is it warm? Then it is day there.",
      "adult": true,
-     "parent": "An ordinary warm bulb or a sunny window works. Do not let anyone touch a hot bulb. LED bulbs give off very little warmth, so sunshine may work better."
+     "parent": "A sunny window works best. An old-style bulb that gets warm also works. Do not let anyone touch a hot bulb. LED bulbs give off very little warmth, so sunshine may work better."
     },
     {
      "id": "s3",
@@ -3021,7 +3021,7 @@
    "art": "A rooster on a wall at dawn, a koel on a branch."
   },
   {
-   "text": "Owls, bats and fruit bats waking up at dusk, and flowers like raat ki rani opening their scent at night.",
+   "text": "Owls and fruit bats setting out at dusk, and flowers like raat ki rani giving out their scent at night.",
    "art": "Fruit bats leaving a big tree at dusk, a night-flowering shrub below."
   },
   {
@@ -3544,8 +3544,8 @@
   "practice": {
    "title": "Feel the ground turn",
    "mins": 3,
-   "say": "Let's go to a window or terrace at sunset, or stand facing a lamp. Stand still and look at the light. Don't think of the Sun going down. Imagine the ground under your feet slowly tipping you backwards, away from it. Breathe in slowly. Breathe out slowly. The whole Earth is turning with you. Stay quiet for a moment. Who else is turning with us right now?",
-   "kid": "Face the setting Sun, or a lamp. Stand very still. Imagine the ground tipping you slowly backwards. Breathe slowly, three times."
+   "say": "Let's go to a window or terrace at sunset, or stand facing a lamp. Stand still, facing the light, but don't look straight at the Sun. Look at the glow on the buildings or the sky beside it. Don't think of the Sun going down. Imagine the ground under your feet slowly tipping you backwards, away from it. Breathe in slowly. Breathe out slowly. The whole Earth is turning with you. Stay quiet for a moment. Who else is turning with us right now?",
+   "kid": "Face the setting Sun, or a lamp. Do not look straight at the Sun. Stand very still. Imagine the ground tipping you slowly backwards. Breathe slowly, three times."
   },
   "ask": [
    "At night, the ground under you is between you and the Sun. Is night something that comes to us, or somewhere we go?",
