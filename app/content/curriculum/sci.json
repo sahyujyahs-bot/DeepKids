@@ -1236,6 +1236,7 @@
     3
    ],
    "subtopic_levels": [
+    "sci.electricity.simple-circuits.L3",
     "sci.electricity.static-and-charge.L3"
    ],
    "chapters": []
@@ -18781,6 +18782,51 @@
    "chapter_refs": [
     "Cambridge Stage 4 6.4 Switches"
    ]
+  },
+  {
+   "id": "sci.electricity.simple-circuits.L3",
+   "subject": "sci",
+   "topic": "electricity",
+   "topic_name": "Electricity",
+   "strand": "Physics",
+   "topic_level": "sci.electricity.L3",
+   "subtopic": "simple-circuits",
+   "name": "Simple circuits: cells, wires, bulbs and switches",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Where we use electricity; mains and cells; keeping safe; a complete loop (cell, wires, bulb, switch); conductors and insulators; why a gap stops it",
+   "chapters": [
+    "C2-6.1",
+    "C2-6.2",
+    "C2-6.3",
+    "C4-6.1",
+    "C4-6.2",
+    "C4-6.3",
+    "C4-6.4",
+    "C4-6.5"
+   ],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "sci.electricity.circuits.L4",
+    "sci.electricity.conductors-and-insulators.L4"
+   ],
+   "go_wide": [
+    "sci.electricity.static-and-charge.L3",
+    "sci.magnets.magnets-and-materials.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:219",
+    "phy:225",
+    "phy:226",
+    "phy:227",
+    "phy:228"
+   ],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.electricity.static-and-charge.L3",
