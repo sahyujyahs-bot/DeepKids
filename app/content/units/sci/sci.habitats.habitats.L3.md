@@ -1,18 +1,18 @@
 # Habitats: the places that give living things what they need
 `sci.habitats.habitats.L3`
 
-**Summary.** This unit is about habitats. A habitat is the place where a living thing finds everything it needs: food, water, air, shelter, space and the right warmth. A pond, a forest, a desert and the sea are four very different habitats. Each one gives some things easily and makes other things hard. Even tiny places, like the space under a stone, are habitats with their own weather. Living things do not just sit in their habitats. They change them too: trees make shade and damp air, and worms make soil. Your own body is a habitat for trillions of tiny living things. Scientists still argue about where one habitat ends and the next begins, and nobody knows yet if any other world has a habitat with life.
+**Summary.** Where could nothing live? In 1977, scientists dived to the dark bottom of the sea, expecting bare rock, and found giant worms and clams. A habitat is the place where a living thing finds what it needs: food, water, air, shelter, space and the right warmth. A pond, a forest, a desert and the sea each give some things easily and make other things hard. Even a bowl of warm milk can be a habitat, for the bacteria that turn it into curd. Living things also change their habitats: trees make shade and damp air, and worms make soil. Your own body is a habitat for trillions of tiny living things. Nobody knows yet whether any other world has a habitat with life.
 
 **Intro.** *Think of a place where you are sure nothing could live. The bottom of the deepest sea? A hot spring? The inside of a rock? Pick one, and say why nothing could live there.* In February 1977, a pilot and two scientists squeezed into a tiny submarine called Alvin. They sank more than two kilometres down into the dark Pacific Ocean, near the Galapagos Islands. No sunlight ever reaches that deep. They expected bare rock, cold and empty. Instead, around cracks in the sea floor where hot water gushed out, they found a crowd. There were giant red-tipped worms longer than a grown-up is tall. There were clams as big as dinner plates, and pale crabs. How could so much life live where there is no sunlight? What was that place giving them? A place that gives a living thing what it needs is called its habitat.
 
 ## Learning outcomes
 0. I can say what a habitat is, and name the things it gives a living thing: food, water, air, shelter, space and the right warmth.
 1. I can compare a pond, a forest, a desert and the sea: what each one gives easily, and what is hard about living there.
-2. I can find small habitats near my home, like under a stone, and show with a fair test that small places can be very different.
+2. I can test with three bowls of milk whether a place is a good home for curd bacteria, and explain that even small places inside a flat can be very different habitats.
 3. I can explain that the living and non-living parts of a habitat depend on each other, and that living things change their habitats.
 4. I can say how people destroy habitats and how people make and protect them, with real examples from India.
 5. I can say what scientists agree about habitats, and what they still do not know, such as where a habitat ends and whether life lives on other worlds.
-6. I can explain that my own body is a habitat, and go from a stone in the garden out to the deep sea, deep rock and other planets.
+6. I can explain that my own body is a habitat, and follow the idea from a bowl of curd out to the deep sea, deep rock and other planets.
 
 ## Terms
 - **Habitat**: The place where a living thing lives and finds everything it needs to stay alive. *e.g.* A pond is the habitat of a frog. It finds water, insects to eat and mud to hide in.
@@ -22,7 +22,7 @@
 - **Forest**: A large place covered with many trees growing close together, with plants and animals living at every level. *e.g.* The Western Ghats have thick forests where hornbills, monkeys and frogs live.
 - **Desert**: A place that gets very little rain all year. Deserts can be hot, like the Thar, or cold, like Ladakh. *e.g.* In the Thar Desert in Rajasthan, camels, desert foxes and khejri trees live with very little water.
 - **Sea**: The huge body of salty water that covers most of the Earth. The biggest seas are called oceans. *e.g.* Fish, turtles, crabs, dolphins and corals live in the sea around India.
-- **Microhabitat**: A very small habitat inside a bigger one. Micro means very small. *e.g.* The damp space under a stone in a garden is a microhabitat for woodlice and worms.
+- **Microhabitat**: A very small habitat inside a bigger one. Micro means very small. *e.g.* The damp corner under a kitchen sink is a microhabitat. So is the space under a stone in a garden.
 - **Living parts**: The parts of a habitat that are alive: plants, animals, fungi and tiny living things too small to see. *e.g.* In a forest, the trees, birds, mushrooms and ants are living parts.
 - **Non-living parts**: The parts of a habitat that are not alive, but that living things need: sunlight, water, air, soil, rocks and warmth. *e.g.* In a desert, the sand, the hot sun and the rare rain are non-living parts.
 - **Woodlouse**: A small grey creature with seven pairs of legs that lives in damp, dark places. Some kinds roll into a ball. It is not an insect. It is a cousin of crabs and prawns. *e.g.* You often find woodlice under flowerpots and fallen leaves.
@@ -30,7 +30,7 @@
 - **Mangrove**: A kind of tree that grows in salty mud where rivers meet the sea. Its roots stand up out of the mud. *e.g.* The Sundarbans in West Bengal is the biggest mangrove forest in the world.
 - **Coral reef**: A habitat in warm, shallow sea made by tiny animals called corals. They build hard homes that join into a huge reef. *e.g.* There are coral reefs around the Andaman and Nicobar Islands and in the Gulf of Mannar.
 - **Temperature**: How hot or cold something is. We measure it in degrees Celsius with a thermometer. *e.g.* A sunny path at noon can be over 40 degrees Celsius. The ground under a stone may be about 30.
-- **Fair test**: A test where you change only one thing and keep everything else the same, so you know what made the difference. *e.g.* To test whether woodlice like damp or dry, change only the dampness. Keep the light the same on both sides.
+- **Fair test**: A test where you change only one thing and keep everything else the same, so you know what made the difference. *e.g.* To test whether warmth helps curd set, change only the warmth. Keep the milk, the amount of curd and the bowls the same.
 - **Habitat loss**: When a habitat is destroyed or changed so much that its living things can no longer live there. *e.g.* When a pond is filled in to build houses, the frogs and fish lose their habitat.
 - **Biodiversity**: How many different kinds of living things there are in a place. Bio means life. *e.g.* A forest in the Western Ghats has a huge biodiversity: thousands of kinds of plants and animals.
 - **Hydrothermal vent**: A crack in the deep sea floor where very hot water full of minerals gushes out. Strange animals live around it. *e.g.* Giant tube worms live around hydrothermal vents, in the dark, more than two kilometres down.
@@ -89,10 +89,11 @@ Every habitat gives some things easily and makes other things hard. That is why 
 ### Microhabitats: small worlds in small places · *defined*
 **Definition:** A microhabitat is a very small habitat inside a bigger habitat, with its own conditions of light, warmth and dampness.
 
-A microhabitat is a very small habitat inside a bigger one. The space under a stone is one. So is a crack in a wall, the underside of a leaf, a puddle or a rotting log. Each small place has its own weather. Under a stone it is darker, cooler and damper than on the open path next to it. That is why woodlice, worms, centipedes and ants live there and not on the hot path. You do not need to travel to a forest to study habitats. You can find ten microhabitats in one garden, one park or one balcony.
+A microhabitat is a very small habitat inside a bigger one. The space under a stone is one. So is a crack in a wall, the underside of a leaf, a puddle or a rotting log. Each small place has its own weather. Under a stone it is darker, cooler and damper than on the open path next to it. That is why woodlice, worms, centipedes and ants live there and not on the hot path. You do not need a forest, or even a garden, to study habitats. A flat has many: the damp corner under the kitchen sink, a dry bookshelf, the soil in a flowerpot and a bowl of warm milk with curd in it.
 - e.g. A rotting log is a microhabitat for beetles, termites and fungi.
 - e.g. A crack in a damp wall is a microhabitat for moss, spiders and geckos.
 - e.g. Even one leaf can be a microhabitat for aphids and the ladybirds that eat them.
+- e.g. Ants often visit the damp corner by the kitchen sink, where there are crumbs and water. They rarely visit a dry, clean shelf.
 ### Living things change their habitats · *defined*
 **Definition:** Living things do not just live in their habitats. They change them, for example by making shade, soil, damp air or reefs.
 
@@ -111,7 +112,7 @@ Scientists agree that the biggest danger to wild plants and animals today is los
 **Definition:** Your body is a habitat for microbes: tiny living things, mostly bacteria, that live on your skin and inside you.
 
 You live in habitats. But you are also a habitat. Tiny living things called microbes live on your skin, in your mouth and most of all in your tummy. Scientists have counted them. A grown-up's body has about as many bacteria living in it as it has human cells. Most of them are harmless or helpful. The ones in your tummy help you break down food and help protect you from germs. Your body gives them food, water, warmth and shelter, just like a pond gives a frog. Most grown-ups even have tiny mites living in the roots of their eyelashes and face hairs. They are too small to see and do no harm.
-- e.g. Curd is made by bacteria. Warm milk is a good habitat for them, so they grow and turn it into curd.
+- e.g. Curd is made by bacteria. In the three bowls experiment, warm milk was a good habitat for them, and they turned it into curd. In the fridge they waited.
 - e.g. Your skin is drier on your arms and damper in your armpits. Different microbes live in each place, like different animals in a desert and a pond.
 - e.g. When a baby is born, it picks up its first microbes from its mother and the world around it.
 ### Habitats at the edge: is there anywhere life cannot live? · *idea*
@@ -142,9 +143,13 @@ To protect a habitat, should we keep people out of it, or should we let the peop
 ## Mostly agreed
 - Every living thing needs a habitat that gives it food, water, air, shelter, space and the right warmth. *How we know:* When scientists keep animals or plants in a place without one of these, they do not survive. When a habitat loses one of them, its animals move away or die.
 - Different habitats have different living things, because each habitat gives different things easily. *How we know:* Scientists have counted plants and animals in habitats all over the world for more than two hundred years. The same kinds of habitat, like deserts, have similar kinds of life, even on different continents.
-- Even small places, like under a stone, are habitats with their own conditions. *How we know:* Thermometers and moisture meters show that under a stone, it is cooler and damper than on the open ground just next to it. Woodlice and worms choose those places in tests.
+- Even small places, like under a stone or under a kitchen sink, are habitats with their own conditions. *How we know:* Thermometers and moisture meters show that under a stone, it is cooler and damper than on the open ground just next to it. Small animals that dry out easily, like woodlice and worms, are found mostly in such places.
 - Living things change their habitats, and the habitat changes them back. *How we know:* Measurements show forests keep the air damp and help make rain. Earthworms measurably mix soil, as Charles Darwin showed in 1881.
 - Habitat loss is the biggest danger to wild plants and animals today. *How we know:* A large study by hundreds of scientists for the United Nations, published in 2019, found that changing land and sea for human use is the main cause of the loss of wild species.
+
+## How we found out
+**Kathleen Crane; the pilot Jack Donnelly with Jack Corliss and Tjeerd van Andel in the submarine Alvin; Holger Jannasch; Colleen Cavanaugh, 1977 (the first dives at the Galapagos vents); 1981 (Cavanaugh's tube worm finding).** For a long time, scientists believed that every living thing on Earth depended on sunlight. Plants catch light and make food, and every animal eats plants, or eats animals that ate plants. So the deep sea floor, where no light ever reaches, was thought to be nearly empty. In 1976 and 1977, Kathleen Crane, a young scientist, studied measurements of warm water near the sea floor by the Galapagos Islands, and helped work out where to look. In February 1977, the pilot Jack Donnelly and the scientists Jack Corliss and Tjeerd van Andel dived there in the small submarine Alvin. Around cracks gushing warm water, they found giant tube worms, big clams and crabs. Holger Jannasch and other scientists showed that bacteria there make food from a chemical in the vent water, hydrogen sulphide, instead of from sunlight. In 1981, Colleen Cavanaugh, a student, showed that the tube worms carry these bacteria inside their bodies. A whole habitat was running on the Earth's own heat and chemicals.  
+*What people believed before:* All life on Earth depends on sunlight, so the dark deep sea floor must be nearly empty. The vent crowds showed that a whole habitat can run on chemicals from inside the Earth instead.
 
 ## Challenging perspectives
 - **Deserts and the deep sea are empty places with almost no life.** (A common belief. Many scientists thought the deep sea floor was nearly lifeless until the 1970s.; *rejected*)  
@@ -164,29 +169,29 @@ To protect a habitat, should we keep people out of it, or should we let the peop
   Against: At deep sea vents, and deep inside rocks, bacteria make food from chemicals, with no sunlight at all. Whole communities live on them.
 
 ## Roots
-We have been learning about habitats, the places that give living things what they need. Now we ask what habitats tell us about ourselves and the world.
+We found that warm milk can be a home for curd bacteria, and that a dark sea floor can be a home for giant worms. Now we ask what habitats tell us about ourselves and the world.
 
-**Deep truth.** There is no line where a living thing ends and its habitat begins.  
-*Habit it breaks:* We say an animal lives 'in' a habitat, as if the habitat were a box and the animal a separate thing inside it. But the air, water and food of the habitat pass through the animal every minute, the animal changes the place, and the animal is itself a habitat for smaller lives.  
-*Evidence:* Your body is home to about as many bacteria as it has human cells. A forest's leaves give the air the water that falls back as its rain. A bare sandbar became a forest because plants and animals changed it.
+**Deep truth.** A habitat is not a kind of place, like a forest or a sea. It is a match between a place and a living thing. Warm milk is a perfect home for curd bacteria, and no home at all for a fish. So a place we call empty may be full of life that needs different things from us.  
+*Habit it breaks:* We learn habitats as a list of places on a map: pond, forest, desert, sea. So we think the place alone decides who lives there, and we judge every place by what we need. But the same bowl of milk was a home for bacteria in a warm corner and not in the fridge. And the dark sea floor that people called empty was crowded with life.  
+*Evidence:* In the three bowls experiment, the same milk and the same curd set only where it was warm. In 1977, scientists found worms, clams and crabs living where no sunlight ever reaches, fed by bacteria that make food from chemicals.
 
-- *who am i:* You are a living thing with a habitat, and you are a habitat yourself, for trillions of tiny lives.
-- *what is life:* Life is always taking from a place and giving back to it: breathing in, breathing out, eating, making soil.
-- *what is this world:* The world is not a stage with living things on it. It is one huge habitat, and the living things are part of how it works.
+- *who am i:* You are a good match for some places: ones with air, water, food and the right warmth. And your warm, damp body is a perfect match for trillions of bacteria.
+- *what is life:* Living things sense their surroundings and look for places that suit them. Curd bacteria wait in the cold and get busy again when it is warm.
+- *what is this world:* The world is not empty places with a few homes in between. Almost every place is a home for someone, even if it is not a home for us.
 
-Water falls as rain, flows through a river, is pulled up by a tree and breathed out by its leaves, and falls again. The same water passes through the pond, the frog, the forest and you. DeepKids believes this is the One showing up as many: many habitats and many living things, made of one shared flow of water, air and sunlight. Each one looks separate. Look closer, and each is a meeting place of all the others.
+DeepKids believes that all life comes from one source, and that this source shows itself in countless forms. Habitats show how far that goes. Because each kind of life needs something different, life has found a way into almost every corner of the Earth: ponds, deserts, warm milk, your tummy and the dark sea floor. No single kind of life could fill the world alone. Together, the many kinds of life fill nearly every place there is.
 
 - **Isha Upanishad, verse 1:** Everything in this moving world is filled with the One. So enjoy the world by not grabbing it. Do not covet what belongs to others. (A habitat is shared by everyone who lives in it. When one living thing takes too much, as people do when they cut a whole forest, everyone in that habitat loses.)
-- **Thich Nhat Hanh, The Heart of Understanding (1988), on a sheet of paper:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. The paper is made of things that are not paper. (A forest is made of things that are not forest: river water, sunlight, ants, bird droppings, elephants. A habitat is made of everything in it.)
+- **Acharanga Sutra (Jain), Book 1, Lecture 1:** Jain teachers said that earth, water, air and plants are full of living beings, most of them too small to see. They taught people to act with care, so as not to harm them. (Much later, microscopes showed bacteria living in soil, water, air and milk. A bowl of milk with a spoon of curd in it looks quiet, but it is full of life.)
 - **Aldo Leopold, A Sand County Almanac (1949), 'The Land Ethic':** We should see ourselves not as conquerors of the land, but as plain members and citizens of the community of soil, water, plants and animals. (People are members of habitats, not owners of them. That is why habitat loss harms us too.)
-- Science (settled): Trillions of bacteria live in and on the human body, about as many as our own cells. Many help us digest food and fight germs.
-- Science (settled): Forests give water to the air through their leaves. Over big forests like the Amazon, a large share of the rain comes from the forest itself.
-- Other view, Many ecologists and scientists: An animal and its habitat are different things, and keeping them apart helps us study them clearly. Saying they are 'one' is a feeling, not something we measure. Water and air passing through us does not make us the same as the river or the sky.
-- Practice, What passes through me (3 min): Let's sit still and close our eyes. Breathe in slowly. That air was breathed out by trees and by tiny sea plants. Breathe out. Now some of you goes into the air, for a tree to use. Take a sip of water. That water was once rain, and a river, and maybe a cloud over a forest. Now press your feet on the floor. Feel the ground hold you. For one more breath, just notice: where do you end, and where does your habitat begin?
-- Ask: Where do you end, and where does your habitat begin?
-- Ask: If you are a habitat for tiny lives, are they part of you?
-- Ask: Does a forest belong to the people, the animals, or no one?
-- Ask: What do you give back to the places that give you what you need?
+- Science (settled): At deep sea vents, bacteria make food from chemicals in the warm vent water instead of from sunlight. Tube worms, clams and crabs live off them.
+- Science (settled): Bacteria send chemical signals to each other, and change what they do when enough of them are close together. Scientists call this quorum sensing. Some curd bacteria use such signals too.
+- Other view, Many biologists: In their view, bacteria grow faster in warmth simply because the chemistry inside them runs faster, the way sugar dissolves faster in hot water. They say words like 'wait', 'sense' and 'choose' are only a way of speaking about bacteria. They also say a habitat is a real place that can be studied on its own, whoever lives there.
+- Practice, Who is this place a home for? (3 min): Let's sit still and close our eyes. Hold one hand near your tummy, without touching. Feel how warm you are. Your warm, damp body is a home for trillions of bacteria right now. Breathe in slowly. Breathe out. Now open your eyes and look around the room. Pick one spot, like a corner, a windowsill or a flowerpot. Ask quietly: who might this place be a home for?
+- Ask: People once felt sure that nothing could live at the bottom of the dark sea. Why do you think they were so sure?
+- Ask: Is any place on Earth truly empty, or only empty of things like us?
+- Ask: The fridge was a poor home for curd bacteria, but a good place to keep curd. Who decides whether a place is good?
+- Ask: If trillions of bacteria live in you, are they part of you, or are you their home?
 
 ## Deep and big questions
 - *deep:* Is there any place on Earth where nothing at all lives? (hint: Scientists keep finding life in very hot springs, deep rock and Antarctic ice. What would a place need to lack for nothing to live there?)
@@ -290,7 +295,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Parent does:* 1. Print a bingo sheet for each player. 2. Choose a safe place to walk: a park, a garden or around your building. 3. Agree on the rule: we look and lift gently, and put everything back.  
   *Parent says:* Today we're habitat hunters. We are looking for small habitats and who lives in them. If we lift a stone, we put it back gently, the same way up.  
   *Child mode:* You are a habitat hunter today. Look for small homes. If you lift a stone, put it back gently.
-  - Note: Stay with your child outdoors. Do not put hands into holes or deep cracks, where scorpions or snakes may hide. Lift stones towards you, so anything underneath runs away from you.
+  - Note: Stay with your child outdoors. Do not put hands into holes or deep cracks, where scorpions or snakes may hide. Lift stones towards you, so anything underneath runs away from you. Many squares can be found on a balcony or a stairwell too: an ant trail, a web, a crack with moss. If you lift a stone and find nothing, tick 'a place with no living thing you can see' and say why.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Walk slowly. Help your child spot things on the sheet. For each tick, ask what that place gives.  
   *Parent says:* You found a web in the corner of the gate. What does that corner give the spider? Food, because insects fly past. Shelter, because it is out of the rain.  
@@ -308,46 +313,56 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   - Note: Many 'empty' places turn out to have tiny mites, springtails or moss. Even a bare stone usually has invisible microbes on it. This is a good moment to say: empty-looking is not the same as empty.
 
 ## Experiments
-### e1 · Damp or Dry? The Woodlouse Choice Tray (25 min)
-- **question:** Do woodlice choose damp places or dry places?
-- **predict:** Before you start, guess. If ten woodlice can walk anywhere in a tray, will more of them end up on the damp side, the dry side, or will they spread out evenly?
-- **fair test:** To make it fair, change only one thing: damp or dry. Keep both sides equally dark, by covering the whole tray. Count every 5 minutes. Then do it again with the damp side swapped, because the woodlice might just like one end of the tray.
-- **safety:** Wash hands after handling soil and animals. Move woodlice with a soft brush or a spoon, not your fingers. Keep them out of the sun. Put them back where you found them within 30 minutes.
-- **record:** Fill in the table. Then draw two bars, one for the damp side and one for the dry side, at 15 minutes. Write one sentence for what you think, one for what you saw and one for why.
-- **results table:** Time | Woodlice on the damp side | Woodlice on the dry side | Woodlice in the middle
-- **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Go to a garden, a park or a balcony with plants. 2. Lift a flowerpot or a flat stone. 3. Gently brush 8 to 10 woodlice into a cup with a little damp soil. 4. Put the stone back.  
-  *Parent says:* Let's look under this pot. These small grey creatures are woodlice. They are cousins of crabs and prawns, not insects. We will borrow them for a short test and bring them back.  
-  *Child mode:* Lift a flowerpot gently. Find the small grey woodlice. Brush 10 of them into a cup. Put the pot back.
-  - Note: If you cannot find woodlice, try under fallen leaves or a damp brick. After rain, earthworms work for this test too. Lift stones towards you in case anything is underneath. Do not put fingers under stones.
-- **s2 (3 min)**  
-  *Parent does:* 1. Put one sheet of kitchen paper on each half of the tray. 2. Sprinkle water on the left sheet until it is damp but not dripping. 3. Leave the right sheet dry.  
-  *Parent says:* We change only one thing: one side is damp and the other is dry. Everything else is the same. That makes it a fair test.  
-  *Child mode:* Put paper on both halves of the tray. Make the left side damp. Keep the right side dry.
-  - Ask: Before we start, where do you think the woodlice will go? (good: The damp side, because they live under damp stones.; I don't know. Let's see.)
-- **s3 (12 min)**  
-  *Parent does:* 1. Tip the woodlice gently onto the middle of the tray. 2. Cover the whole tray with cardboard so both sides are dark. 3. After 5 minutes, lift the cover and count woodlice on each side. 4. Cover again and count at 10 and 15 minutes. 5. Write the numbers in the table.  
-  *Parent says:* Why do we cover the whole tray? So both sides are equally dark. Then only dampness is different. Let's count quietly and quickly, then cover them again.  
-  *Child mode:* Put the woodlice in the middle. Cover the tray. Every 5 minutes, lift and count each side. Write the numbers down.
-  - Note: Woodlice usually gather on the damp side within 10 minutes. They also slow down and bunch together there. A few may stay on the dry side or wander. That is normal. Now swap the damp paper to the other side and test once more, so you know they are choosing damp and not one end of the tray.
-- **s4 (2 min)**  
-  *Parent does:* Look at the 15-minute numbers together and compare them with the guess.  
-  *Parent says:* Look at the numbers at 15 minutes. Where did most woodlice go? Was your guess right?  
-  *Child mode:* Look at your numbers at 15 minutes. Where did most go? Were you right?
-  - Check: In the choice tray, 8 woodlice went to the damp side and 2 to the dry side. What does this suggest? → **Woodlice choose damp places**
-- **s5 (3 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: woodlice choose damp places. What I saw: after 15 minutes, 8 were on the damp side and 2 on the dry side, and it was the same when we swapped. Why: woodlice dry out easily, so a damp place is part of their habitat.
-- **s6 (2 min)**  
-  *Parent does:* Put the woodlice back under the same stone or pot, with a little damp soil. Wash your hands.  
-  *Parent says:* Thank you, woodlice. Let's put them back home. Their habitat is under that pot, not in our tray.  
-  *Child mode:* Take the woodlice back to their pot. Put them down gently. Wash your hands.
-  - Think: The woodlice found the damp side without eyes that see much. How do you think they knew?
+### e4 · Three Bowls of Milk: Where Do Curd Bacteria Make a Home? (35 min, 2 days)
+- **question:** Curd is made by bacteria, tiny living things too small to see. Which place is a good home for them: a warm wrapped corner, the kitchen counter or the fridge?
+- **predict:** Before you start, guess. By tomorrow morning, which bowl will have turned into curd: the warm one, the one on the counter, or the one in the fridge? Why do you think so?
+- **fair test:** Only one thing changes: how warm each bowl is kept. Everything else stays the same: the same milk, the same amount in each bowl, one level teaspoon of the same curd, the same kind of bowl, a cover on each, and the same number of hours. If two things were different, we would not know which one made the change.
+- **safety:** A grown-up boils the milk and cools it. Use clean bowls and spoons, because other bacteria can get in from dirty ones. Eat the curd only if it smells fresh and sour, like normal curd. Throw away anything that smells bad or has fuzzy spots.
+- **record:** Fill in the table for all three bowls. Draw each bowl tilted, the way it looked in the morning. Write one sentence for what you think, one for what you saw and one for why.
+- **results table:** Bowl | Where it was kept | How warm the place felt (or the thermometer reading) | Tilt test next morning: runny, thick or set | Smell: milky or sour
+- **schedule:** day 1: Guess and give a reason. Stir curd into warm milk in three bowls. Keep one warm, one on the counter and one in the fridge overnight. (18 min); day 2: Tilt and smell each bowl, fill in the table and say what you think, what you saw and why. Then put the fridge bowl somewhere warm and check it in the evening. (17 min)
+- **s1 (5 min)**  
+  *Parent does:* 1. Show your child a spoon of curd and a cup of milk. 2. Explain the plan: three bowls, three places. 3. Ask for a guess and a reason. 4. Write both at the top of the results table.  
+  *Parent says:* Curd is made by bacteria. Bacteria are living things, far too small to see. This one spoon of curd holds millions of them. We will put some into three bowls of warm milk. One bowl stays somewhere warm, one on the counter and one in the fridge. Which bowl do you think will turn into curd by morning? Why do you think so?  
+  *Child mode:* Curd is made by tiny living things called bacteria. We will make three bowls of milk with curd. One stays warm. One stays on the counter. One goes in the fridge. Which one turns into curd? Why do you think so?
+  - Ask: Which bowl will turn into curd by morning? Why do you think so? (good: The warm one, because at home we keep the milk somewhere warm to set curd.; The fridge one, because curd is always kept in the fridge.; All three, because they all have curd in them.)
+  - Note: Any guess with a reason is a good start. A common guess is the fridge, because that is where curd is kept. Do not correct it. The bowls will answer tomorrow.
+- **s2 (8 min) · grown-up needed**  
+  *Parent does:* 1. A grown-up boils the milk and lets it cool. 2. Test a drop on the inside of the wrist: it should feel warm, not hot. 3. Pour the same amount into each bowl, about two-thirds of a cup. 4. Stir one level teaspoon of curd into each bowl. 5. Cover each bowl. 6. Label them: warm, counter, fridge.  
+  *Parent says:* Every bowl gets the same milk and the same spoon of curd. Only the warmth will be different. Why does that matter? If two things were different, we would not know which one made the change.  
+  *Child mode:* A grown-up warms the milk. Pour the same amount into three bowls. Stir one spoon of curd into each. Cover them. Write a label on each.
+  - Note: Milk that is too hot kills the bacteria, and then no bowl sets. Milk that feels just warm on the wrist is right. That is about 40 to 45 degrees Celsius, if you have a thermometer. If you have a fourth bowl, add warm milk with no curd and keep it in the warm place too. It shows whether the curd's bacteria are what make the change.
+- **s3 (4 min)**  
+  *Parent does:* 1. Wrap the 'warm' bowl in a thick towel. Put it inside a casserole or a closed cupboard. 2. Put the 'counter' bowl on the kitchen counter, away from the stove. 3. Put the 'fridge' bowl in the fridge. 4. If you have a thermometer, check how warm each place is and write it in the table.  
+  *Parent says:* Each bowl now has a different home for the night. Hold your hand inside the fridge, then near the counter, then near the towel. Which place feels warmest?  
+  *Child mode:* Wrap the warm bowl in a towel. Put it in a closed box. Put one bowl on the counter. Put one in the fridge. Which place feels warmest?
+  - Check: In the three bowls experiment, why do we stir the same spoon of curd into all three bowls? → **So that only the warmth is different**
+- **s4 (1 min)**  
+  *Parent does:* Leave all the bowls overnight, about 8 to 10 hours. Do not open or shake them.  
+  *Parent says:* Now we wait until morning. Shaking breaks up curd while it is setting, so we leave the bowls alone.  
+  *Child mode:* Now leave the bowls all night. Do not open them. Do not shake them.
+  - Wait: Leave the bowls overnight, about 8 to 10 hours.
+- **s5 (7 min)**  
+  *Parent does:* 1. Bring the three bowls to the table, labels on. 2. Tilt each bowl slowly. 3. Write runny, thick or set for each one. 4. Smell each one. Write milky or sour.  
+  *Parent says:* Let's look before we talk. Tilt each bowl slowly. Does it move like water, or hold like jelly? Now smell each one. Which smell sour? Was your guess right?  
+  *Child mode:* Tilt each bowl slowly. Is it runny, thick or set? Smell it. Is it milky or sour? Write it down.
+  - Note: Usually the warm bowl has set firm and smells sour. The counter bowl depends on the season. In hot months it often sets too, a little softer. In a cold winter room it may be only thick, or still runny. The fridge bowl is still runny milk. If no bowl set, the milk was probably too hot, or the curd was old. Try again tomorrow with fresh curd and cooler milk. That is a real result too.
+- **s6 (5 min)**  
+  *Parent does:* Ask your child to say or write three short sentences. First, what I think now. Second, what I saw in each bowl. Third, why I think it happened.  
+  *Parent says:* Every bowl had the same milk and the same curd. So tell me three things. What do you think now about warmth and curd? What did you see in each bowl that shows it? And why do you think it happened?  
+  *Child mode:* Every bowl had the same milk and curd. Say three things. What do you think now? What did you see in each bowl? Why did it happen?
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: warmth makes milk a good home for curd bacteria. What I saw: the warm bowl set, the counter bowl got thick, and the fridge bowl stayed runny. Why: the bacteria eat the sugar in milk and make a sour acid, and the acid thickens the milk. They grow fast when warm and slow right down in the cold. Only now, after your child has answered, share this.
+  - Check: In the three bowls experiment, the warm bowl set into curd and the fridge bowl stayed runny. Both got the same curd. Why? → **The bacteria were in both bowls, but only the warm one was a good home for them**
+- **s7 (5 min)**  
+  *Parent does:* 1. Ask for a guess and a reason first. 2. Wrap the fridge bowl in the towel and put it in the warm place. 3. Check it in the evening, after about 8 hours. 4. Tilt it and write what you see.  
+  *Parent says:* The fridge bowl had bacteria too. Were they dead, or just waiting? Let's give them a warm home and see. What do you think will happen by evening? Why do you think so?  
+  *Child mode:* Put the fridge bowl somewhere warm. Will it turn into curd now? Why do you think so? Check it in the evening.
+  - Note: It usually sets within 8 to 10 hours. This shows the cold did not kill the bacteria. They slowed down in the cold and got busy again once the place suited them. It is also why curd sets slowly in winter. At the end, all the bowls are good curd to eat, if they smell fresh and sour.
+  - Think: The bacteria waited in the cold and got busy in the warm. How do you think they sensed that their place had changed?
+  - Wait: Leave the fridge bowl in the warm place for about 8 hours, then tilt it.
 ### e2 · One Garden, Five Different Worlds (30 min)
 - **question:** Is it the same temperature and dampness everywhere in one garden, or do small places have their own weather?
-- **predict:** Before you measure, guess. Put these five places in order from hottest to coolest: an open sunny path, a patch of grass, under a bush, under a stone and under a pile of fallen leaves.
+- **predict:** Before you measure, guess. Put these five places in order from hottest to coolest: an open sunny path, a patch of grass, under a bush, under a stone and under a pile of fallen leaves. Why do you think so?
 - **fair test:** To make it fair, measure all five places at about the same time of day, with the same thermometer. Leave the thermometer in each place for the same time, 2 minutes. Feel each place for dampness with the back of the same hand.
 - **safety:** Do this with a grown-up. Lift stones towards you, so anything underneath runs away from you. Do not touch centipedes or scorpions. On a very hot day, wear a cap.
 - **record:** Fill in the table. Draw a bar for each place, as tall as its temperature. Next to each bar, write how many living things you found there.
@@ -355,12 +370,12 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Choose a garden, a park corner or a big pot with plants. 2. Find five places: an open sunny path, grass, under a bush, under a stone and under fallen leaves. 3. Ask your child to put them in order, hottest first.  
   *Parent says:* Is it the same everywhere in this garden? Let's guess which of these five places is the hottest, and which is the coolest.  
-  *Child mode:* Find five places: a sunny path, grass, under a bush, under a stone, under leaves. Which is hottest? Guess first.
+  *Child mode:* Find five places. A sunny path, grass, under a bush, under a stone, under leaves. Which is hottest? Guess first.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Put the thermometer in the first place for 2 minutes, then read it. 2. Touch the ground there with the back of your hand and give it a dampness score from 1 to 5. 3. Count any living things you can see, using the magnifying glass. 4. Write it all in the table. 5. Do the same in all five places.  
   *Parent says:* We leave the thermometer for 2 minutes in each place, so every place gets the same time. That keeps it fair. Now feel the ground. Is it dry, or damp?  
   *Child mode:* Put the thermometer in each place for 2 minutes. Read it. Feel the ground. Count the living things. Write it all down.
-  - Note: On a sunny day you will often see 10 degrees or more difference between the open path and under the stone or the leaves. The cooler, damper places usually have more living things.
+  - Note: On a sunny day you will often see 10 degrees or more difference between the open path and under the stone or the leaves. The cooler, damper places usually have more living things. If you count no living things in a place, write 0. A zero is a real result. It shows that place gives less.
 - **s3 (6 min)**  
   *Parent does:* Help your child draw a bar chart: one bar for each place, as tall as its temperature.  
   *Parent says:* Let's turn the numbers into a picture. Each place gets a bar. The taller the bar, the hotter the place.  
@@ -368,8 +383,8 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   - Check: In the five worlds experiment, the sunny path was 41 degrees and under the leaves was 28 degrees. Which place had more living things, and why? → **Under the leaves, because it is cooler and damper**
 - **s4 (3 min)**  
   *Parent does:* Compare the results with the guess. Then ask your child to say or write: what I think, what I saw, and why.  
-  *Parent says:* Were your guesses right? Now finish like a scientist. What do you think? What did you see? Why?  
-  *Child mode:* Were you right? Say three things. What I think. What I saw. Why.
+  *Parent says:* Were your guesses right? Tell me three things. What do you think now about these five places? What did you see on the thermometer that shows it? Why do you think it happened?  
+  *Child mode:* Were you right? Say three things. What do you think now? What did the thermometer show? Why?
   - Note: A good answer sounds like this. What I think: small places in one garden have very different weather. What I saw: the sunny path was 41 degrees, and under the leaves was 28 degrees, with 14 living things. Why: shade and leaves keep the sun off and hold water in.
   - Think: If one garden has five different worlds, how many worlds might there be in a whole forest?
 - **s5 (3 min) · grown-up needed**  
@@ -378,7 +393,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Child mode:* Put back every stone and leaf the way you found it. These are homes.
 ### e3 · Does a Tree Give Water to the Air? (20 min)
 - **question:** Do leaves give off water into the air? Is that one way a forest keeps itself damp?
-- **predict:** Before you start, guess. If you tie a clear plastic bag around a leafy branch in the sun, what will you see inside the bag after one hour?
+- **predict:** Before you start, guess. If you tie a clear plastic bag around a leafy branch in the sun, what will you see inside the bag after one hour? Why do you think so?
 - **fair test:** To make it fair, tie a second bag around a branch with all its leaves taken off, or around a dry stick, in the same sunny place. Both bags stay on for the same time. Then only the leaves are different.
 - **safety:** Choose a plant that is not thorny or poisonous, such as a hibiscus, guava or tulsi plant. Take the bag off after the test, so the leaves can breathe.
 - **record:** Draw both bags after one hour. Write how much water collected in each.
@@ -421,7 +436,8 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Parent does:* 1. Lift the stone towards yourself. 2. Look quickly, because many animals will run. 3. Count everything you see: woodlice, ants, worms, beetles, centipedes, roots, white fungus threads.  
   *Parent says:* Quick, look! What do you notice? Let's count everything that is alive. What do you wonder about?  
   *Child mode:* Ask a grown-up to lift the stone. Look fast! Count every living thing. What do you notice?
-  - Ask: What do you notice? What do you wonder? (good: It's dark and wet under there.; Why are they all hiding here?; Where do they go when it rains?)
+  - Ask: What do you notice? What do you wonder? (good: It's dark and wet under there.; Why are they all hiding here?; Where do they go when it rains?; There is nothing here. Maybe it is too dry.)
+  - Note: If you find nothing under the stone, that is a real result, not a failure. Write down 0 next to the guess. Then ask: why might nobody live under this stone? Is the soil dry? Is it in full sun? Was it moved recently? Try one more stone in a shadier, damper spot, or after rain. Even a bare stone has bacteria on it, too small to see.
 - **s3 (3 min)**  
   *Parent does:* 1. Touch the soil under the stone with the back of your hand. 2. Touch the open soil next to it. 3. Put the stone back gently, the same way up.  
   *Parent says:* Feel the soil under the stone. Now feel the soil next to it. Which is cooler? Which is damper? Why do you think so many animals live under here, and not out there?  
@@ -457,7 +473,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Parent does:* 1. Look slowly at every part of the square, using the magnifying glass. 2. Count the different kinds of plants and animals, not how many of each. 3. Make a tally mark for each new kind.  
   *Parent says:* We're counting kinds, not numbers. Ten ants of the same kind count as one kind. A different ant counts as a new kind. Look at the soil, the grass and the tiny flowers.  
   *Child mode:* Look closely at every part of the square. Make a tally for each new kind you find.
-  - Note: Children often find 5 to 15 kinds in a lawn: grasses, small weeds, ants, a spider, a beetle, a worm. Under a tree, with fallen leaves, there are usually more. You do not need names. 'Tiny brown jumping bug' is a fine name.
+  - Note: Children often find 5 to 15 kinds in a lawn: grasses, small weeds, ants, a spider, a beetle, a worm. Under a tree, with fallen leaves, there are usually more. You do not need names. 'Tiny brown jumping bug' is a fine name. If a square has very few kinds, that is a real result. Count the grass and tiny plants too, which are always there.
 - **s3 (8 min)**  
   *Parent does:* Move the string square to a different place, such as under a tree, by a wall or near a tap. Count the kinds again.  
   *Parent says:* Now let's try a different place. Where do you think we will find more kinds of living things?  
@@ -489,7 +505,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **safety:** Clear the space of sharp corners and things that could break.
 - **record:** Draw yourself as your favourite habitat, and write one thing it gives and one thing that is hard there.
 - **s1 (8 min)**  
-  *Parent does:* 1. Put the four signs in four corners. 2. Call out a habitat. Your child runs to that corner and moves like it: the pond ripples, the forest sways, the desert lies still at noon then comes alive at night, the sea rolls in waves. 3. Call out a living thing too, like 'a frog in the pond', and your child moves like it.  
+  *Parent does:* 1. Put the four signs in four corners. 2. Call out a habitat. Your child runs to that corner and moves like it. 3. The pond ripples, and the forest sways. The desert lies still at noon, then comes alive at night. The sea rolls in waves. 4. Call out a living thing too, like 'a frog in the pond', and your child moves like it.  
   *Parent says:* When I say a habitat, run to its corner and become it. Desert! Now it's noon, lie very still and hot. Now it's night. Who comes out? Sea! Roll like waves. Now dive down to the dark bottom.  
   *Child mode:* When a grown-up calls a habitat, run to that corner. Become it! Desert at noon: lie still. Desert at night: come alive!
 - **s2 (10 min)**  
@@ -503,25 +519,6 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Parent says:* Close your eyes. You are the deep sea floor. Dark. Cold. Still. Now, a crack opens and hot water pours out. Feel the crowd of life arrive.  
   *Child mode:* Lie still. Close your eyes. You are the dark sea floor. Now hot water bubbles up. Life arrives!
   - Think: Which habitat did you feel most at home in? Why?
-### a6 · Curd Town: A Habitat in a Bowl (15 min, 2 days)
-- **safety:** A grown-up boils the milk and cools it. Use only clean bowls and spoons. Eat only the curd that set in the warm place, and only if it smells fresh.
-- **record:** Draw both bowls on day 2. Write which one set, and which habitat suited the bacteria.
-- **schedule:** day 1: Mix curd into warm milk in two bowls. Put one in a warm place and one in the fridge. (10 min); day 2: Compare the two bowls. Which became curd? Why? (5 min)
-- **s1 (10 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up boils milk and lets it cool until it feels just warm on the wrist. 2. Pour half into each bowl. 3. Stir one teaspoon of curd into each. 4. Cover both. Put one in a warm place in the kitchen and one in the fridge.  
-  *Parent says:* Curd is made by bacteria, tiny living things. The spoon of curd adds lots of them to the milk. Milk gives them food and water. Let's see which place is the right habitat for them: warm or cold.  
-  *Child mode:* Ask a grown-up to warm the milk. Add a spoon of curd to each bowl. Put one somewhere warm. Put one in the fridge.
-- **s2 (2 min)**  
-  *Parent does:* Leave both bowls overnight.  
-  *Parent says:* Now we wait until tomorrow. The bacteria will be busy, if their habitat suits them.  
-  *Child mode:* Wait until tomorrow morning. Which bowl will turn into curd?
-  - Wait: Leave both bowls overnight, about 8 hours.
-- **s3 (3 min)**  
-  *Parent does:* Next day, tilt both bowls gently. Compare them.  
-  *Parent says:* Look. The warm bowl has set into curd. The cold one is still milk. Why? The bacteria had food and water in both bowls. But only one gave them the right warmth.  
-  *Child mode:* Tilt both bowls. Which one is curd? Which is still milk? Why?
-  - Check: In Curd Town, the warm bowl turned into curd and the fridge bowl stayed as milk. Why? → **Warmth is part of the bacteria's habitat. They grow well when warm and very slowly when cold.**
-  - Think: Your tummy is warm, wet and full of food. What does that make it for bacteria?
 
 ## Projects
 ### p1 · Make a Habitat Corner: Water and Shelter for Wild Visitors (70 min, 14 days)
@@ -630,9 +627,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 8. (mcq) The space under a stone in a garden is a small habitat. What is a very small habitat called?  
    Options: A microhabitat / A desert / A sea / A forest  
    **Answer:** A microhabitat. *Why:* Micro means very small. A microhabitat is a small habitat inside a bigger one, like under a stone, a crack in a wall or a rotting log.
-9. (mcq) What did most woodlice do in the choice tray?  
-   Options: Went to the damp side / Went to the dry side / Spread out evenly / Climbed out of the tray  
-   **Answer:** Went to the damp side. *Why:* Most woodlice gathered on the damp side, because they dry out easily. That is why we find them under damp stones and pots. 'Spread out evenly' is what we would see if they did not care about dampness.
+9. (mcq) In the three bowls experiment, what happened to the bowl kept in the fridge overnight?  
+   Options: It stayed runny, like milk / It set firm, like curd / It turned into ice / It disappeared  
+   **Answer:** It stayed runny, like milk. *Why:* In the cold, curd bacteria slow right down, so the milk stays runny. Picking 'set firm' is what happened in the warm bowl, not the fridge. A fridge is cold, but not cold enough to freeze milk.
 10. (fill) The top layer of a forest, where the leaves of tall trees meet like a roof, is called the ____.  
    **Answer:** ['canopy']. *Why:* The canopy catches most of the sunlight. Hornbills and many monkeys live there.
 11. (mcq) Which of these lives in the sea?  
@@ -656,12 +653,12 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 2. (mcq) In the five worlds test, the place with the most living things was under the leaves. Why?  
    Options: It was coolest and dampest, with food from rotting leaves / It was the hottest / Animals like to be seen / It had the most sunlight  
    **Answer:** It was coolest and dampest, with food from rotting leaves. *Why:* Under the leaves it was cool, damp and full of food. More needs were met there. Picking 'most sunlight' mixes up what plants need with what small animals need.
-3. (mcq) In the choice tray, why did we cover the whole tray, not just the damp side?  
-   Options: So that both sides were equally dark, and only dampness was different / To stop the woodlice seeing us / Because woodlice are scared of paper / It does not matter  
-   **Answer:** So that both sides were equally dark, and only dampness was different. *Why:* If only the damp side was covered, we would not know if woodlice chose it for the damp or the dark. Changing one thing at a time makes it a fair test. Picking 'it does not matter' misses why scientists plan tests carefully.
-4. (mcq) In the choice tray, why did we swap the damp paper to the other side and test again?  
-   Options: To check the woodlice were choosing damp, not one end of the tray / To give the woodlice exercise / To dry the paper / Because the first test was wrong  
-   **Answer:** To check the woodlice were choosing damp, not one end of the tray. *Why:* Maybe the woodlice just liked one end, because it was nearer a wall or a smell. Swapping sides checks this. If they follow the damp, we can trust the result more.
+3. (mcq) In the three bowls experiment, why did every bowl get the same milk and one level spoon of the same curd?  
+   Options: So that only the warmth was different / Because there was only one spoon / To make the bowls look nice / It does not matter  
+   **Answer:** So that only the warmth was different. *Why:* If one bowl got more curd, we would not know whether the warmth or the extra curd made it set. Changing one thing at a time makes it a fair test. Picking 'it does not matter' misses why scientists plan tests carefully.
+4. (mcq) In the three bowls experiment, why did we put the runny fridge bowl in the warm place the next day?  
+   Options: To check whether the bacteria in it were dead or only waiting / To make it colder / To start a new test with new milk / Because the first test was wrong  
+   **Answer:** To check whether the bacteria in it were dead or only waiting. *Why:* If the bowl set once it was warm, the bacteria were alive all along and only slowed down in the cold. That is what usually happens. Picking 'the first test was wrong' misses that the first test worked: it showed the cold slowed them down.
 5. (mcq) What did the bag around the leafy branch show?  
    Options: Leaves give off water into the air / Leaves soak up water from the air / Plastic makes water / Trees need plastic bags  
    **Answer:** Leaves give off water into the air. *Why:* The closed bag around the leaves filled with drops, but the bag on the bare stick stayed dry. So the water came from the leaves. This is one way forests keep their habitat damp.
@@ -687,9 +684,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
    **Answer:** At noon it is very hot, so animals hide in cool burrows and shade. At night it is cooler, so they come out to find food.. *Why:* Hiding by day is how many desert animals deal with the heat.
 14. (truefalse) Most of the space where life can live on Earth is in the sea.  
    **Answer:** True. *Why:* True. The sea covers about seven parts out of ten of the Earth's surface, and it is very deep. So it holds most of the living space on our planet.
-15. (mcq) Curd sets in a warm place but not in the fridge. What does this show about the bacteria in curd?  
+15. (mcq) In the three bowls experiment, curd set in the warm bowl but not in the fridge. What does this show about the bacteria in curd?  
    Options: The right warmth is part of their habitat / They hate milk / They need sunlight / They live only in fridges  
-   **Answer:** The right warmth is part of their habitat. *Why:* Both bowls had milk for food and water. Only the warm bowl had the right warmth, so the bacteria grew there. Picking 'sunlight' misses that the warm bowl was covered in the kitchen.
+   **Answer:** The right warmth is part of their habitat. *Why:* Both bowls had milk for food and water. Only the warm bowl had the right warmth, so the bacteria grew there. Picking 'sunlight' misses that the warm bowl was wrapped in a towel, in the dark.
 16. (label) Label the layers of a forest: canopy, middle layer, forest floor.  
    **Answer:** ['canopy (top)', 'middle layer', 'forest floor (bottom)']. *Why:* Different animals live at each level. Hornbills in the canopy, climbers and smaller trees in the middle, worms and frogs on the floor.
 ### Habitat Puzzles and Big Ideas (challenge) (challenge, 15 questions)
@@ -722,8 +719,8 @@ I still make my sandbars, and I still take them away. That is what I am. But now
    **Answer:** For: a zoo gives food, water, shelter and medicine. Against: it cannot give the space an elephant needs, since wild elephants walk many kilometres a day. My view: any honest answer with a reason.. *Why:* A habitat must give all of an animal's needs, including space. People disagree about whether zoos can do this.
 11. (write) The river in the story 'What the Sandbar Learned to Give' says: 'I am no longer sure where the river ends and the forest begins.' Using what you learned about the tree water test, explain what it might mean.  
    **Answer:** The trees drink river water and give it off from their leaves into the air. It becomes clouds and rain, falls on the hills and comes back to the river. So the river's water passes through the forest, and the forest's water becomes the river.. *Why:* Living things and their habitats are joined. Water moves through both.
-12. (write) Design a fair test to find out whether earthworms prefer dark or light places. Say what you would change, what you would keep the same, and what you would count.  
-   **Answer:** Change: one side of the tray covered and dark, the other side open to light. Keep the same: dampness of the soil, the same number of worms, the same time. Count: how many worms are on each side after 10 minutes. Then swap sides and test again.. *Why:* A fair test changes only one thing, like the choice tray did with dampness.
+12. (write) Design a fair test to find out whether milk sets into curd faster with one spoon of curd or with three spoons. Say what you would change, what you would keep the same, and what you would check.  
+   **Answer:** Change: one bowl gets one spoon of curd, the other gets three spoons. Keep the same: the same milk, the same amount, the same kind of bowl, the same warm place. Check: tilt both bowls every 2 hours and write down when each one sets.. *Why:* A fair test changes only one thing, like the three bowls experiment did with warmth.
 13. (mcq) Who led the women of Reni village in the Himalaya to hug their trees in 1974, as part of the Chipko movement?  
    Options: Gaura Devi / Rachel Carson / Marie Curie / Jane Goodall  
    **Answer:** Gaura Devi. *Why:* Gaura Devi led the women of Reni to stop the cutting of their forest. Rachel Carson wrote about pesticides in America, and Jane Goodall studied chimpanzees in Africa.
@@ -754,18 +751,18 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 5. (mcq) Which is the biggest habitat on Earth?  
    Options: The sea / A pond / The Thar Desert / A garden  
    **Answer:** The sea. *Why:* The sea covers about seven parts out of ten of the Earth's surface and is very deep. Most of the living space on Earth is in it.
-6. (mcq) In the choice tray, most woodlice went to the damp side. What does this suggest?  
-   Options: Woodlice choose damp places / Woodlice choose dry places / Woodlice go anywhere by chance / Woodlice like bright light  
-   **Answer:** Woodlice choose damp places. *Why:* Most went to the damp side, so damp is part of their habitat. Picking 'by chance' would fit if they had spread out evenly.
-7. (mcq) In the five worlds test, the sunny path was 41 degrees and under a stone was 29 degrees. What does this show?  
-   Options: Small places in one garden can have very different conditions / The thermometer was broken / All places in a garden are the same / Stones make heat  
-   **Answer:** Small places in one garden can have very different conditions. *Why:* One garden holds many microhabitats with their own weather. Picking 'all the same' is exactly what the test showed is not true.
+6. (mcq) In the three bowls experiment, which bowl usually turns into curd by morning?  
+   Options: The warm one, wrapped in a towel / The one in the fridge / None of them, curd only comes from a shop / All three, exactly the same  
+   **Answer:** The warm one, wrapped in a towel. *Why:* Curd bacteria grow fast when it is warm, so the warm bowl sets first. Picking 'the fridge' is a common guess, because curd is kept there. The fridge keeps curd from getting too sour, because the cold slows the bacteria down. Picking 'all three the same' misses that warmth was the one thing we changed.
+7. (mcq) In the three bowls experiment, the fridge bowl stayed runny. Then it was kept warm all day, and by evening it had set. What does this show?  
+   Options: The bacteria stayed alive in the cold, and got busy again once the place suited them / The cold killed the bacteria / Warm air turns milk into curd by itself, with no bacteria / The fridge bowl never had any curd in it  
+   **Answer:** The bacteria stayed alive in the cold, and got busy again once the place suited them. *Why:* If the cold had killed the bacteria, the bowl would never have set. They slowed down in the cold and grew again in the warmth. Picking 'warm air by itself' is a good thought to test: a bowl of warm milk with no curd stays runny much longer.
 8. (mcq) A tree drops leaves that worms turn into soil. Which idea does this show?  
    Options: Living and non-living parts of a habitat change each other / Trees do not need soil / Worms eat stones / Habitats never change  
    **Answer:** Living and non-living parts of a habitat change each other. *Why:* The living tree and worms make the non-living soil, which feeds the tree again. Picking 'habitats never change' misses that living things change their habitats all the time.
-9. (mcq) The bag around a leafy branch filled with water drops. What does this tell us about forests?  
-   Options: Trees give water to the air, which helps keep a forest damp / Forests are dry / Water comes from plastic / Leaves drink rain only  
-   **Answer:** Trees give water to the air, which helps keep a forest damp. *Why:* Leaves give off water. A whole forest gives off huge amounts, so it keeps its air damp and helps make rain.
+9. (mcq) In a flat, ants come to the corner by the kitchen sink, but hardly ever to a dry, clean bookshelf. Why?  
+   Options: The sink corner gives them water and crumbs of food / Ants do not like books / Ants go anywhere by chance / The bookshelf is too high  
+   **Answer:** The sink corner gives them water and crumbs of food. *Why:* A habitat is where a living thing finds what it needs. The sink corner gives ants water and food, so it is part of their habitat. Picking 'by chance' does not fit, because they keep going to the same place. Ants climb walls easily, so height is not the reason.
 10. (mcq) What is the biggest danger to wild plants and animals today?  
    Options: Losing their habitats / Too many scientists / Rainbows / Too much birdsong  
    **Answer:** Losing their habitats. *Why:* Scientists agree that changing land and sea for human use, like cutting forests and filling ponds, is the main cause of the loss of wild species.
@@ -773,7 +770,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
    Options: They came by themselves once the place gave them what they needed / He carried them all / They were brought by a zoo / They were always there  
    **Answer:** They came by themselves once the place gave them what they needed. *Why:* He made the place give shade, soil and food, and the animals came. Picking 'carried them all' is impossible for elephants, and the story says the sandbar was bare at first.
 12. (mcq) Which of these do scientists NOT know yet?  
-   Options: Whether there is life on any other world / Whether deserts get little rain / Whether fish live in the sea / Whether woodlice like damp places  
+   Options: Whether there is life on any other world / Whether deserts get little rain / Whether fish live in the sea / Whether warmth helps milk with curd in it to set  
    **Answer:** Whether there is life on any other world. *Why:* Nobody knows yet if life lives anywhere except Earth. The others have been tested and are agreed.
 13. (mcq) What did scientists find in 1977 at hot vents more than two kilometres down in the sea?  
    Options: Crowds of worms, clams and crabs, living with no sunlight / Nothing at all / A sunken city / Only sand  
@@ -857,7 +854,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 
 ## Connected maths
 - In the five worlds test, the sunny path was 41 degrees Celsius. Under the stone, it was 29 degrees Celsius. How many degrees cooler was it under the stone? **12 degrees cooler.**. The path was 41 degrees. Under the stone was 29 degrees. 41 take away 29 is 12. You can check by counting on: 29 and 1 makes 30, and 11 more makes 41. 1 + 11 = 12. (queues `math.temperature.reading-thermometers.L3`)
-- In the choice tray, after 15 minutes there were 8 woodlice on the damp side and 2 on the dry side. How many times as many woodlice were on the damp side? **4 times as many.**. There were 8 on the damp side and 2 on the dry side. 8 divided by 2 is 4. You can check: 2 + 2 + 2 + 2 = 8. So the damp side had 4 times as many woodlice. (queues `math.division.sharing-and-grouping.L3`)
+- In the three bowls experiment, a family tilted the bowls every 2 hours. The warm bowl had set at 6 hours. The counter bowl set at 10 hours. The fridge bowl was still runny at 24 hours. Where were the bacteria busiest? How many hours sooner did that bowl set than the counter bowl? **The warm bowl. It set 4 hours sooner than the counter bowl.**. The bowl that sets first is where the bacteria grew fastest. That is the warm bowl, at 6 hours. The counter bowl took 10 hours. 10 take away 6 is 4. So the warm bowl set 4 hours sooner. The fridge bowl had not set even after 24 hours, so the bacteria were slowest there. (queues `math.time.duration.L3`)
 - In the tree water test, one leafy branch gave 2 teaspoons of water in one hour. A small tree has 10 branches like it. How much water might the whole tree give in one hour? **About 20 teaspoons.**. Each branch gave 2 teaspoons. There are 10 branches. 10 groups of 2 is 20. So the tree might give about 20 teaspoons in one hour. A big forest tree has many more branches, so it gives much more. (queues `math.multiplication.equal-groups.L3`)
 - In the Square Metre Safari, the lawn square had these kinds of living things: 2 kinds of grass, 2 kinds of small plants, 1 kind of ant and 1 kind of spider. The square under a tree had 14 kinds. How many more kinds were under the tree? **8 more kinds.**. First add the lawn: 2 + 2 + 1 + 1 = 6 kinds. Then find the difference: 14 take away 6 is 8. So the square under the tree had 8 more kinds of living things. (queues `math.data.sorting-and-tallies.L3`)
 - In the Habitat Corner diary, these visits were seen at the water bowl in two weeks: crows 6, bulbuls 4, sparrows 3, bees 8. Make a pictograph where one picture stands for 2 visits. How many pictures does each row need? **Crows 3 pictures, bulbuls 2, sparrows 1 and a half, bees 4.**. Each picture means 2 visits. Crows: 6 divided by 2 is 3. Bulbuls: 4 divided by 2 is 2. Sparrows: 3 is one 2 and one more, so 1 whole picture and a half picture. Bees: 8 divided by 2 is 4. (queues `math.data.pictographs.L3`)
@@ -879,7 +876,7 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - [Bombay Natural History Society](https://www.bnhs.org) · place · Mumbai: India's old natural history society. It runs nature walks to see habitats with an expert.
 
 ## Things to buy
-- [A digital thermometer with a probe (a kitchen or soil thermometer)](https://www.amazon.in/s?k=digital+probe+thermometer) (tool): Measures the temperature of small places, so you can show that under a stone is cooler than an open path. Used in e2, c1. Used again in weather and materials units.
+- [A digital thermometer with a probe (a kitchen or soil thermometer)](https://www.amazon.in/s?k=digital+probe+thermometer) (tool): Measures how warm a place is: the warm corner, the counter and the fridge in the three bowls experiment, or a sunny path and under a stone. Used in e4, e2, c1. Used again in weather and materials units.
 - [A magnifying glass for children](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps you see tiny animals under stones and in leaf litter. Used in a1, e2, a3. 
 - [A measuring tape (at least 1.5 metres)](https://www.amazon.in/s?k=measuring+tape+1.5+metre) (tool): Marks out the 1 metre square in the Square Metre Safari. Used in a3. 
 - [A nature notebook](https://www.amazon.in/s?k=nature+journal+notebook+kids) (material): For the visitor diary, the needs map and all your counts. Used in a2, a3, p1. 
@@ -890,7 +887,7 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - A habitat gives food, water, air, shelter, space and the right ____. → Warmth.
 - Which habitat gets very little rain? → A desert.
 - What is a very small habitat, like under a stone, called? → A microhabitat.
-- Do woodlice like damp places or dry places? → Damp places. They dry out easily.
+- Where does milk with a spoon of curd set fastest: in the fridge or somewhere warm? → Somewhere warm. Curd bacteria grow fast in warmth and slow down in the cold.
 - Where do leaves give off water? → Into the air, through tiny holes in the leaves.
 - What is the biggest habitat on Earth? → The sea.
 - What lives at hot vents in the deep sea, with no sunlight? → Tube worms, clams and crabs, fed by bacteria that make food from chemicals.
@@ -899,9 +896,9 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - True or false: your body is a habitat. → True. Trillions of microbes live in it.
 
 ## Plan
-- Start options: a1, story, e1, g1, big_questions, cards, g2
-- Default order: intro → a1 → story → summary → terms → e1 → explanations → g1 → a2 → e2 → videos → ws-core → a3 → g2 → e3 → a4 → agreed → challenging → a5 → a6 → p1 → c1 → big_questions → ws-stretch → c2 → ws-challenge → open_questions → roots → quiz
-- Core: a1, e1, g1, a2, e2, ws-core, a3, e3, p1
+- Start options: e4, story, g1, big_questions, cards, a1, g2
+- Default order: intro → e4 → story → summary → terms → explanations → g1 → a2 → a1 → e2 → videos → ws-core → a3 → g2 → e3 → a4 → agreed → challenging → a5 → p1 → c1 → big_questions → ws-stretch → c2 → ws-challenge → open_questions → roots → quiz
+- Core: e4, g1, a2, e2, ws-core, a3, e3, p1
 
 ## Sources
 - DeepKids HomeSchooling Track: Activity Curation (nature walk in the park or neighbourhood: map where each object was found, a collaborative Nature Map; Nature Bingo; comparing leaves from different places), used in a4 and g2
@@ -909,7 +906,7 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - DeepKids V0.1 Activities: 'Do you Sea?', building a sea ecosystem, used in the sea card and g1
 - Founder notebook item bio:195, Biomes and habitats
 - Founder SCI Cards (ideas/by_topic/habitats-and-adaptation.md): Marie Tharp's 'the ocean floor is not flat' and Rachel Carson's 'everything is connected', which shaped the deep sea and connection threads
-- DeepKids Combined lessons sci-C2 and sci-C3 habitats-and-adaptation (the five needs of a habitat, microhabitats, comparing pond, forest, desert, seashore; the lifted stone and soil animal counts; habit watching; tree layers), improved and reused in a1, a2, e2 and the explanation cards
+- DeepKids Combined lessons sci-C2 and sci-C3 habitats-and-adaptation (the five needs of a habitat, microhabitats, comparing pond, forest, desert, seashore; the lifted stone and soil animal counts; habit watching; tree layers), improved and reused in a1, a2, e2, e4 and the explanation cards
 - NCERT Class 3 Chapter 5, Plants and Animals Live Together, board pack (tailorbirds, owls in hollows, soil life), for coverage only
 - Corliss et al., Submarine thermal springs on the Galapagos Rift, Science 1979 (the 1977 Alvin dives and vent life)
 - Brock and Freeze, Thermus aquaticus, a nonsporulating extreme thermophile, Journal of Bacteriology 1969 (bacteria in hot springs)
@@ -922,3 +919,5 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - Myers et al., Biodiversity hotspots for conservation priorities, Nature 2000 (Western Ghats and Sri Lanka as a hotspot)
 - Gadgil and Vartak, The sacred groves of Western Ghats in India, Economic Botany 1976
 - Darwin, The Formation of Vegetable Mould through the Action of Worms, 1881 (worms change soil)
+- Cavanaugh et al., Prokaryotic cells in the hydrothermal vent tube worm Riftia pachyptila Jones: possible chemoautotrophic symbionts, Science 1981
+- Kuipers et al., Autoregulation of nisin biosynthesis in Lactococcus lactis by signal transduction, Journal of Biological Chemistry 1995 (quorum sensing in a curd bacterium)

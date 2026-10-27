@@ -1,7 +1,7 @@
-# Magnets: why they pull iron, from tiny electrons to the whole Earth
+# Magnets: why a pin jumps to a magnet
 `sci.magnets.magnets-and-materials.L3`
 
-**Summary.** This unit is about magnets. A magnet is a thing that pulls iron towards it, without touching it. Magnets pull iron, most steel, nickel and cobalt. They do not pull wood, plastic, paper, or most other metals. Deep inside, every electron, the tiny bit on the outside of every atom, is itself a tiny magnet. In iron, millions of these tiny magnets point the same way in teams. That is where the pull comes from. People in Greece, China, India and the Islamic world found magnet stones long ago and learned to steer ships with them. The whole Earth is a giant magnet, and turtles, birds and even tiny bacteria can feel it. Scientists still do not know exactly how some animals sense it.
+**Summary.** A magnet pulls iron without touching it. It also pulls most steel, nickel and cobalt. It does not pull wood, plastic, paper or most other metals. The pull comes from inside the iron. Each tiny bit of iron is a tiny magnet. In a magnet, these tiny magnets all point the same way, so their pulls add up. In an ordinary nail, they point in different directions, so their pulls cancel out. Long ago, people in China, India, Greece and the Islamic world used magnet stones to steer ships. The whole Earth is a giant magnet too. Turtles, birds and even some bacteria can feel it. Nobody knows yet exactly how some animals feel it.
 
 **Intro.** *Try this. Hold a magnet near a steel safety pin. Move it closer very slowly, and stop just before they touch. Did the pin jump? Nothing touched it. So what reached across that gap?* People have asked that question for thousands of years. In Sanskrit, a magnet is called chumbaka, which means 'the kisser'. An old Chinese book from about 2,250 years ago calls it the 'loving stone' that calls iron to come. Both names tell the same story. A magnet seems to want iron. In this unit we find out what is really happening. We go deep inside the iron, down to its atoms. Then we go out to the whole Earth, which is a magnet too.
 
@@ -151,6 +151,31 @@ Water, wood, plastic and you are pushed away from a magnet. The push is far too 
 - **People can sense the Earth's magnet.** (Connie Wang, Joseph Kirschvink and others, in 2019; *debated*)  
   For: In a quiet test room, some people's brainwaves changed when a magnet was turned around them in one particular way.  
   Against: Nobody in the test felt anything. Only some people showed it, and the result has not yet been repeated by other teams.
+
+## Roots
+We have been learning about magnets, and the tiny electron magnets inside iron. Now we ask what magnets tell us about ourselves and the world.
+
+**Deep truth.** A magnet is not a different kind of stuff. It is ordinary iron whose tiny parts all point the same way.  
+*Habit it breaks:* We sort things into 'magnets' and 'not magnets', as if the power lived in a special stone. But every electron is already a tiny magnet. A nail and a magnet are the same iron, arranged differently.  
+*Evidence:* Stroke a needle and it becomes a magnet. Heat it red-hot and it stops. Stroke it again and it is a magnet again. Nothing was added or taken away. Only the line-up changed.
+
+- *who am i:* You are full of tiny electron magnets too. In you, they point every which way and cancel out.
+- *what is life:* Turtles, robins and tiny bacteria feel the Earth's magnet and find their way by it, each living its own life.
+- *what is this world:* The whole Earth is a magnet, made by a sea of moving iron far beneath your feet.
+
+Inside a plain nail, countless tiny magnets point every way. Their pulls add up to zero, a perfect balance. Nothing seems to be there. Line them up, and one pull appears out of that zero. That one pull then reaches out to many things: a pin, a needle, a ship's course, a turtle's journey and the lights in the sky. DeepKids sees in this a small picture of the One becoming the many, where nothing new is made, only arranged.
+
+- **Rig Veda 10.191.2, the hymn of coming together (Samjnana Sukta):** Come together. Speak together. Let your minds be in agreement. (Tiny magnets that each point their own way cancel out. When they point together, they make a pull that none of them has alone.)
+- **Tao Te Ching 42:** All things carry yin on their backs and hold yang in their arms. By blending the two, they reach harmony. (Every magnet has two ends, north and south, and you can never have one without the other. In a nail, the pulls balance perfectly.)
+- **Empedocles, fragment 17 (Diels-Kranz numbering), about 450 BCE:** Sometimes all things come together into one through Love. Sometimes they are carried apart by Strife. (Magnets pull together and push apart. The old names for magnets, 'the kisser' and 'the loving stone', saw the same thing.)
+- Science (settled): Every electron is a tiny magnet. In most atoms they pair up and cancel. In iron, they line up in domains.
+- Science (settled): Electricity, magnetism and light are one force, electromagnetism. Maxwell joined them in 1865.
+- Science (open): What an electron's spin is, underneath, has no agreed answer.
+- Other view, Many physicists: Lining up is simply how electrons in iron behave. It is a beautiful fact, but it is not a message about agreeing, or about oneness. Reading lessons into iron says more about us than about iron. That is an honest view.
+- Practice, Be the needle (3 min): Let's stand up and close our eyes. Without peeking, point to where you think north is. Now open your eyes and check with the compass. Now let's all turn to face north together. Stand still and take six slow breaths. We're like the tiny magnets in a needle, all facing the same way. Notice: are you still you?
+- Ask: When everyone in your family faces the same way, are you still you?
+- Ask: In a nail, the tiny magnets cancel to zero. Is the pull gone, or only hidden?
+- Ask: A turtle finds its beach without a map. Does it know something we don't?
 
 ## Deep and big questions
 - *deep:* Every electron in your body is a tiny magnet. So why don't you stick to the fridge? (hint: What happens when two children pull a rope equally hard in opposite directions?)

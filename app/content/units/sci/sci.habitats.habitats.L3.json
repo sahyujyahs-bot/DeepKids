@@ -3,8 +3,8 @@
  "title": "Habitats: the places that give living things what they need",
  "level": 3,
  "summary": {
-  "text": "This unit is about habitats. A habitat is the place where a living thing finds everything it needs: food, water, air, shelter, space and the right warmth. A pond, a forest, a desert and the sea are four very different habitats. Each one gives some things easily and makes other things hard. Even tiny places, like the space under a stone, are habitats with their own weather. Living things do not just sit in their habitats. They change them too: trees make shade and damp air, and worms make soil. Your own body is a habitat for trillions of tiny living things. Scientists still argue about where one habitat ends and the next begins, and nobody knows yet if any other world has a habitat with life.",
-  "art": "Four windows in one wall: a pond with a lotus and a frog, a forest with a hornbill, a desert with a camel and a khejri tree, and the blue sea with a turtle; in the corner, a magnifying glass over a stone with a beetle underneath."
+  "text": "Where could nothing live? In 1977, scientists dived to the dark bottom of the sea, expecting bare rock, and found giant worms and clams. A habitat is the place where a living thing finds what it needs: food, water, air, shelter, space and the right warmth. A pond, a forest, a desert and the sea each give some things easily and make other things hard. Even a bowl of warm milk can be a habitat, for the bacteria that turn it into curd. Living things also change their habitats: trees make shade and damp air, and worms make soil. Your own body is a habitat for trillions of tiny living things. Nobody knows yet whether any other world has a habitat with life.",
+  "art": "Four windows in one wall: a pond with a lotus and a frog, a forest with a hornbill, a desert with a camel and a khejri tree, and the blue sea with a turtle; in the corner, a small steel bowl of set white curd."
  },
  "intro": {
   "hook": "Think of a place where you are sure nothing could live. The bottom of the deepest sea? A hot spring? The inside of a rock? Pick one, and say why nothing could live there.",
@@ -14,11 +14,11 @@
  "outcomes": [
   "I can say what a habitat is, and name the things it gives a living thing: food, water, air, shelter, space and the right warmth.",
   "I can compare a pond, a forest, a desert and the sea: what each one gives easily, and what is hard about living there.",
-  "I can find small habitats near my home, like under a stone, and show with a fair test that small places can be very different.",
+  "I can test with three bowls of milk whether a place is a good home for curd bacteria, and explain that even small places inside a flat can be very different habitats.",
   "I can explain that the living and non-living parts of a habitat depend on each other, and that living things change their habitats.",
   "I can say how people destroy habitats and how people make and protect them, with real examples from India.",
   "I can say what scientists agree about habitats, and what they still do not know, such as where a habitat ends and whether life lives on other worlds.",
-  "I can explain that my own body is a habitat, and go from a stone in the garden out to the deep sea, deep rock and other planets."
+  "I can explain that my own body is a habitat, and follow the idea from a bowl of curd out to the deep sea, deep rock and other planets."
  ],
  "cards_mins": 20,
  "terms": [
@@ -67,7 +67,7 @@
   {
    "term": "Microhabitat",
    "meaning": "A very small habitat inside a bigger one. Micro means very small.",
-   "example": "The damp space under a stone in a garden is a microhabitat for woodlice and worms.",
+   "example": "The damp corner under a kitchen sink is a microhabitat. So is the space under a stone in a garden.",
    "art": "A lifted stone with woodlice, a worm and an ant underneath, inside a bigger picture of a garden."
   },
   {
@@ -115,7 +115,7 @@
   {
    "term": "Fair test",
    "meaning": "A test where you change only one thing and keep everything else the same, so you know what made the difference.",
-   "example": "To test whether woodlice like damp or dry, change only the dampness. Keep the light the same on both sides.",
+   "example": "To test whether warmth helps curd set, change only the warmth. Keep the milk, the amount of curd and the bowls the same.",
    "art": "Two halves of a tray, one damp and one dry, with a sign saying 'only this is different'."
   },
   {
@@ -282,15 +282,16 @@
    "concept": "Microhabitats: small worlds in small places",
    "status": "defined",
    "definition": "A microhabitat is a very small habitat inside a bigger habitat, with its own conditions of light, warmth and dampness.",
-   "description": "A microhabitat is a very small habitat inside a bigger one. The space under a stone is one. So is a crack in a wall, the underside of a leaf, a puddle or a rotting log. Each small place has its own weather. Under a stone it is darker, cooler and damper than on the open path next to it. That is why woodlice, worms, centipedes and ants live there and not on the hot path. You do not need to travel to a forest to study habitats. You can find ten microhabitats in one garden, one park or one balcony.",
+   "description": "A microhabitat is a very small habitat inside a bigger one. The space under a stone is one. So is a crack in a wall, the underside of a leaf, a puddle or a rotting log. Each small place has its own weather. Under a stone it is darker, cooler and damper than on the open path next to it. That is why woodlice, worms, centipedes and ants live there and not on the hot path. You do not need a forest, or even a garden, to study habitats. A flat has many: the damp corner under the kitchen sink, a dry bookshelf, the soil in a flowerpot and a bowl of warm milk with curd in it.",
    "examples": [
     "A rotting log is a microhabitat for beetles, termites and fungi.",
     "A crack in a damp wall is a microhabitat for moss, spiders and geckos.",
-    "Even one leaf can be a microhabitat for aphids and the ladybirds that eat them."
+    "Even one leaf can be a microhabitat for aphids and the ladybirds that eat them.",
+    "Ants often visit the damp corner by the kitchen sink, where there are crumbs and water. They rarely visit a dry, clean shelf."
    ],
    "perspectives": [],
    "art": "A garden drawn with circles zooming into five small places: under a stone, a crack in a wall, the back of a leaf, a puddle and a rotting log, each with its tiny residents.",
-   "context": "A habitat can be as small as the space under a stone. This card explains microhabitats."
+   "context": "A habitat can be as small as the space under a stone or under a kitchen sink. This card explains microhabitats."
   },
   {
    "concept": "Living things change their habitats",
@@ -326,7 +327,7 @@
    "definition": "Your body is a habitat for microbes: tiny living things, mostly bacteria, that live on your skin and inside you.",
    "description": "You live in habitats. But you are also a habitat. Tiny living things called microbes live on your skin, in your mouth and most of all in your tummy. Scientists have counted them. A grown-up's body has about as many bacteria living in it as it has human cells. Most of them are harmless or helpful. The ones in your tummy help you break down food and help protect you from germs. Your body gives them food, water, warmth and shelter, just like a pond gives a frog. Most grown-ups even have tiny mites living in the roots of their eyelashes and face hairs. They are too small to see and do no harm.",
    "examples": [
-    "Curd is made by bacteria. Warm milk is a good habitat for them, so they grow and turn it into curd.",
+    "Curd is made by bacteria. In the three bowls experiment, warm milk was a good habitat for them, and they turned it into curd. In the fridge they waited.",
     "Your skin is drier on your arms and damper in your armpits. Different microbes live in each place, like different animals in a desert and a pond.",
     "When a baby is born, it picks up its first microbes from its mother and the world around it."
    ],
@@ -421,8 +422,8 @@
    "evidence": "Scientists have counted plants and animals in habitats all over the world for more than two hundred years. The same kinds of habitat, like deserts, have similar kinds of life, even on different continents."
   },
   {
-   "text": "Even small places, like under a stone, are habitats with their own conditions.",
-   "evidence": "Thermometers and moisture meters show that under a stone, it is cooler and damper than on the open ground just next to it. Woodlice and worms choose those places in tests."
+   "text": "Even small places, like under a stone or under a kitchen sink, are habitats with their own conditions.",
+   "evidence": "Thermometers and moisture meters show that under a stone, it is cooler and damper than on the open ground just next to it. Small animals that dry out easily, like woodlice and worms, are found mostly in such places."
   },
   {
    "text": "Living things change their habitats, and the habitat changes them back.",
@@ -744,7 +745,7 @@
    "title": "Nature Bingo: Habitat Hunt",
    "mins": 25,
    "players": "1 to 4 players, with a grown-up outdoors",
-   "context": "This is an outdoor bingo game. You walk in a park, a garden or around your building, and look for small habitats and the living things that use them.",
+   "context": "If you have a garden or a park nearby: This is an outdoor bingo game. You walk in a park, a garden or around your building, and look for small habitats and the living things that use them. If a square is hard to find, the square 'a place with no living thing you can see' counts, as long as you say why that place gives so little.",
    "printables": [
     {
      "kind": "board",
@@ -807,7 +808,7 @@
      "say": "Today we're habitat hunters. We are looking for small habitats and who lives in them. If we lift a stone, we put it back gently, the same way up.",
      "kid": "You are a habitat hunter today. Look for small homes. If you lift a stone, put it back gently.",
      "adult": true,
-     "parent": "Stay with your child outdoors. Do not put hands into holes or deep cracks, where scorpions or snakes may hide. Lift stones towards you, so anything underneath runs away from you.",
+     "parent": "Stay with your child outdoors. Do not put hands into holes or deep cracks, where scorpions or snakes may hide. Lift stones towards you, so anything underneath runs away from you. Many squares can be found on a balcony or a stairwell too: an ant trail, a web, a crack with moss. If you lift a stone and find nothing, tick 'a place with no living thing you can see' and say why.",
      "context": "This is the first step of Nature Bingo, an outdoor game. You hunt for small habitats and the living things using them."
     },
     {
@@ -851,214 +852,239 @@
  ],
  "experiments": [
   {
-   "id": "e1",
-   "title": "Damp or Dry? The Woodlouse Choice Tray",
-   "mins": 25,
-   "days": 1,
-   "question": "Do woodlice choose damp places or dry places?",
-   "predict": "Before you start, guess. If ten woodlice can walk anywhere in a tray, will more of them end up on the damp side, the dry side, or will they spread out evenly?",
-   "fair_test": "To make it fair, change only one thing: damp or dry. Keep both sides equally dark, by covering the whole tray. Count every 5 minutes. Then do it again with the damp side swapped, because the woodlice might just like one end of the tray.",
+   "id": "e4",
+   "title": "Three Bowls of Milk: Where Do Curd Bacteria Make a Home?",
+   "mins": 35,
+   "days": 2,
+   "question": "Curd is made by bacteria, tiny living things too small to see. Which place is a good home for them: a warm wrapped corner, the kitchen counter or the fridge?",
+   "predict": "Before you start, guess. By tomorrow morning, which bowl will have turned into curd: the warm one, the one on the counter, or the one in the fridge? Why do you think so?",
+   "fair_test": "Only one thing changes: how warm each bowl is kept. Everything else stays the same: the same milk, the same amount in each bowl, one level teaspoon of the same curd, the same kind of bowl, a cover on each, and the same number of hours. If two things were different, we would not know which one made the change.",
    "results_table": [
-    "Time",
-    "Woodlice on the damp side",
-    "Woodlice on the dry side",
-    "Woodlice in the middle"
+    "Bowl",
+    "Where it was kept",
+    "How warm the place felt (or the thermometer reading)",
+    "Tilt test next morning: runny, thick or set",
+    "Smell: milky or sour"
    ],
    "materials": [
     {
-     "item": "a shallow tray or a big steel plate with a rim",
+     "item": "2 cups of milk, boiled by a grown-up and cooled until it feels just warm on your wrist",
      "qty": 1
     },
     {
-     "item": "2 sheets of kitchen paper or tissue",
-     "qty": 2
+     "item": "3 small bowls of the same size and kind, steel or glass, each with a lid or a plate to cover it",
+     "qty": 3
     },
     {
-     "item": "a little water",
+     "item": "3 level teaspoons of plain curd, from home or a shop",
+     "qty": 3
+    },
+    {
+     "item": "a clean teaspoon",
      "qty": 1
     },
     {
-     "item": "a sheet of cardboard or a newspaper to cover the tray",
+     "item": "a thick towel, and a casserole or a closed cupboard, to keep one bowl warm",
      "qty": 1
     },
     {
-     "item": "8 to 10 woodlice from under a flowerpot or a stone",
-     "qty": 10
+     "item": "3 paper labels and a pencil",
+     "qty": 3
     },
     {
-     "item": "a soft paintbrush or a spoon, to move them gently",
-     "qty": 1
-    },
-    {
-     "item": "a timer and the results table",
-     "qty": 1
+     "item": "a thermometer, if you have one (not needed)",
+     "qty": 1,
+     "buy": "b-thermometer"
     }
    ],
-   "safety": "Wash hands after handling soil and animals. Move woodlice with a soft brush or a spoon, not your fingers. Keep them out of the sun. Put them back where you found them within 30 minutes.",
+   "safety": "A grown-up boils the milk and cools it. Use clean bowls and spoons, because other bacteria can get in from dirty ones. Eat the curd only if it smells fresh and sour, like normal curd. Throw away anything that smells bad or has fuzzy spots.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Collect woodlice. Set up the damp and dry tray. Count every 5 minutes for 15 minutes. Swap sides and test again. Put the woodlice back."
+     "mins": 18,
+     "what": "Guess and give a reason. Stir curd into warm milk in three bowls. Keep one warm, one on the counter and one in the fridge overnight."
+    },
+    {
+     "day": 2,
+     "mins": 17,
+     "what": "Tilt and smell each bowl, fill in the table and say what you think, what you saw and why. Then put the fridge bowl somewhere warm and check it in the evening."
     }
    ],
-   "record": "Fill in the table. Then draw two bars, one for the damp side and one for the dry side, at 15 minutes. Write one sentence for what you think, one for what you saw and one for why.",
-   "context": "This is the choice tray experiment. You give some woodlice a tray with a damp side and a dry side, and count where they go. A woodlouse is a small grey creature with 14 legs that lives under stones and flowerpots.",
+   "record": "Fill in the table for all three bowls. Draw each bowl tilted, the way it looked in the morning. Write one sentence for what you think, one for what you saw and one for why.",
+   "context": "This is the three bowls experiment. You stir a spoon of curd into warm milk in three bowls. You keep one bowl warm, one on the kitchen counter and one in the fridge, and see which ones turn into curd by morning. Curd is made by bacteria, tiny living things too small to see.",
    "setup": [
     {
-     "art": "A shallow tray with a damp, darker kitchen paper on the left half and a dry, white paper on the right half.",
-     "caption": "1. Make one half of the tray damp and one half dry."
+     "art": "A grown-up pouring just-warm milk from a steel pan into three same-size steel bowls, while a child holds a level teaspoon of curd.",
+     "caption": "1. Pour the same warm milk into three bowls. Stir one spoon of curd into each."
     },
     {
-     "art": "A child gently tipping ten grey woodlice from a spoon onto the line in the middle of the tray.",
-     "caption": "2. Put the woodlice gently in the middle."
+     "art": "Three covered bowls with paper labels: one wrapped in a thick towel inside a casserole, one on a kitchen counter, one on a fridge shelf.",
+     "caption": "2. Keep one bowl warm, one on the counter and one in the fridge, all night."
     },
     {
-     "art": "The tray covered with cardboard and a phone timer showing 5 minutes beside it.",
-     "caption": "3. Cover the whole tray. Wait 5 minutes."
+     "art": "Next morning, a child tilting three bowls side by side: the warm one holds firm white curd, the counter one is thick, the fridge one is still runny milk.",
+     "caption": "3. Next morning, tilt each bowl. Is it runny, thick or set?"
     },
     {
-     "art": "The cover lifted and a child counting woodlice, with most of them on the damp side.",
-     "caption": "4. Lift the cover. Count each side. Do this three times."
+     "art": "The fridge bowl wrapped in the towel inside the casserole, and the same bowl in the evening holding set curd on a tilted spoon.",
+     "caption": "4. Put the fridge bowl somewhere warm. Check it again in the evening."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Go to a garden, a park or a balcony with plants. 2. Lift a flowerpot or a flat stone. 3. Gently brush 8 to 10 woodlice into a cup with a little damp soil. 4. Put the stone back.",
-     "say": "Let's look under this pot. These small grey creatures are woodlice. They are cousins of crabs and prawns, not insects. We will borrow them for a short test and bring them back.",
-     "kid": "Lift a flowerpot gently. Find the small grey woodlice. Brush 10 of them into a cup. Put the pot back.",
-     "adult": true,
-     "parent": "If you cannot find woodlice, try under fallen leaves or a damp brick. After rain, earthworms work for this test too. Lift stones towards you in case anything is underneath. Do not put fingers under stones.",
-     "context": "This is the first step of the choice tray experiment. You find woodlice to test whether they choose damp or dry places."
+     "context": "This is the first step of the three bowls experiment. You guess which bowl of milk will turn into curd by morning, and say why.",
+     "do": "1. Show your child a spoon of curd and a cup of milk. 2. Explain the plan: three bowls, three places. 3. Ask for a guess and a reason. 4. Write both at the top of the results table.",
+     "say": "Curd is made by bacteria. Bacteria are living things, far too small to see. This one spoon of curd holds millions of them. We will put some into three bowls of warm milk. One bowl stays somewhere warm, one on the counter and one in the fridge. Which bowl do you think will turn into curd by morning? Why do you think so?",
+     "kid": "Curd is made by tiny living things called bacteria. We will make three bowls of milk with curd. One stays warm. One stays on the counter. One goes in the fridge. Which one turns into curd? Why do you think so?",
+     "ask": [
+      {
+       "q": "Which bowl will turn into curd by morning? Why do you think so?",
+       "good": [
+        "The warm one, because at home we keep the milk somewhere warm to set curd.",
+        "The fridge one, because curd is always kept in the fridge.",
+        "All three, because they all have curd in them."
+       ]
+      }
+     ],
+     "parent": "Any guess with a reason is a good start. A common guess is the fridge, because that is where curd is kept. Do not correct it. The bowls will answer tomorrow."
     },
     {
      "id": "s2",
-     "mins": 3,
-     "do": "1. Put one sheet of kitchen paper on each half of the tray. 2. Sprinkle water on the left sheet until it is damp but not dripping. 3. Leave the right sheet dry.",
-     "say": "We change only one thing: one side is damp and the other is dry. Everything else is the same. That makes it a fair test.",
-     "kid": "Put paper on both halves of the tray. Make the left side damp. Keep the right side dry.",
-     "ask": [
-      {
-       "q": "Before we start, where do you think the woodlice will go?",
-       "good": [
-        "The damp side, because they live under damp stones.",
-        "I don't know. Let's see."
-       ]
-      }
-     ]
+     "mins": 8,
+     "adult": true,
+     "do": "1. A grown-up boils the milk and lets it cool. 2. Test a drop on the inside of the wrist: it should feel warm, not hot. 3. Pour the same amount into each bowl, about two-thirds of a cup. 4. Stir one level teaspoon of curd into each bowl. 5. Cover each bowl. 6. Label them: warm, counter, fridge.",
+     "say": "Every bowl gets the same milk and the same spoon of curd. Only the warmth will be different. Why does that matter? If two things were different, we would not know which one made the change.",
+     "kid": "A grown-up warms the milk. Pour the same amount into three bowls. Stir one spoon of curd into each. Cover them. Write a label on each.",
+     "parent": "Milk that is too hot kills the bacteria, and then no bowl sets. Milk that feels just warm on the wrist is right. That is about 40 to 45 degrees Celsius, if you have a thermometer. If you have a fourth bowl, add warm milk with no curd and keep it in the warm place too. It shows whether the curd's bacteria are what make the change."
     },
     {
      "id": "s3",
-     "mins": 12,
-     "do": "1. Tip the woodlice gently onto the middle of the tray. 2. Cover the whole tray with cardboard so both sides are dark. 3. After 5 minutes, lift the cover and count woodlice on each side. 4. Cover again and count at 10 and 15 minutes. 5. Write the numbers in the table.",
-     "say": "Why do we cover the whole tray? So both sides are equally dark. Then only dampness is different. Let's count quietly and quickly, then cover them again.",
-     "kid": "Put the woodlice in the middle. Cover the tray. Every 5 minutes, lift and count each side. Write the numbers down.",
-     "parent": "Woodlice usually gather on the damp side within 10 minutes. They also slow down and bunch together there. A few may stay on the dry side or wander. That is normal. Now swap the damp paper to the other side and test once more, so you know they are choosing damp and not one end of the tray.",
-     "chart": {
-      "type": "table",
-      "title": "Made-up example: how to fill in the table",
-      "cols": [
-       "Time",
-       "Damp side",
-       "Dry side",
-       "Middle"
+     "mins": 4,
+     "do": "1. Wrap the 'warm' bowl in a thick towel. Put it inside a casserole or a closed cupboard. 2. Put the 'counter' bowl on the kitchen counter, away from the stove. 3. Put the 'fridge' bowl in the fridge. 4. If you have a thermometer, check how warm each place is and write it in the table.",
+     "say": "Each bowl now has a different home for the night. Hold your hand inside the fridge, then near the counter, then near the towel. Which place feels warmest?",
+     "kid": "Wrap the warm bowl in a towel. Put it in a closed box. Put one bowl on the counter. Put one in the fridge. Which place feels warmest?",
+     "check": {
+      "t": "mcq",
+      "q": "In the three bowls experiment, why do we stir the same spoon of curd into all three bowls?",
+      "options": [
+       "So that only the warmth is different",
+       "Because curd tastes good",
+       "So the bowls look the same",
+       "It does not matter"
       ],
-      "rows": [
-       [
-        "5 minutes",
-        "5",
-        "3",
-        "2"
-       ],
-       [
-        "10 minutes",
-        "7",
-        "2",
-        "1"
-       ],
-       [
-        "15 minutes",
-        "8",
-        "2",
-        "0"
-       ]
-      ]
+      "a": 0,
+      "why": "If one bowl got more curd, we would not know whether the warmth or the extra curd made the difference. Changing only one thing makes it a fair test. Picking 'it does not matter' misses why scientists plan tests carefully. Picking 'look the same' is close, but the reason is fairness, not looks."
      }
     },
     {
      "id": "s4",
-     "mins": 2,
-     "do": "Look at the 15-minute numbers together and compare them with the guess.",
-     "say": "Look at the numbers at 15 minutes. Where did most woodlice go? Was your guess right?",
-     "kid": "Look at your numbers at 15 minutes. Where did most go? Were you right?",
-     "check": {
-      "t": "mcq",
-      "q": "In the choice tray, 8 woodlice went to the damp side and 2 to the dry side. What does this suggest?",
-      "options": [
-       "Woodlice choose damp places",
-       "Woodlice choose dry places",
-       "Woodlice go anywhere by chance",
-       "Woodlice like the left side of a tray"
-      ],
-      "a": 0,
-      "why": "Most woodlice ended on the damp side, so they chose damp places. That fits where we find them, under damp stones and pots. Picking 'by chance' would fit if they had spread out evenly, about 5 and 5. Picking 'the left side' is a good worry. That is why scientists swap the damp side and test again."
-     },
+     "mins": 1,
+     "do": "Leave all the bowls overnight, about 8 to 10 hours. Do not open or shake them.",
+     "say": "Now we wait until morning. Shaking breaks up curd while it is setting, so we leave the bowls alone.",
+     "kid": "Now leave the bowls all night. Do not open them. Do not shake them.",
+     "wait": "Leave the bowls overnight, about 8 to 10 hours."
+    },
+    {
+     "id": "s5",
+     "mins": 7,
+     "context": "This is the morning check of the three bowls experiment. Last night you stirred curd into warm milk in three bowls, kept warm, on the counter and in the fridge.",
+     "do": "1. Bring the three bowls to the table, labels on. 2. Tilt each bowl slowly. 3. Write runny, thick or set for each one. 4. Smell each one. Write milky or sour.",
+     "say": "Let's look before we talk. Tilt each bowl slowly. Does it move like water, or hold like jelly? Now smell each one. Which smell sour? Was your guess right?",
+     "kid": "Tilt each bowl slowly. Is it runny, thick or set? Smell it. Is it milky or sour? Write it down.",
+     "parent": "Usually the warm bowl has set firm and smells sour. The counter bowl depends on the season. In hot months it often sets too, a little softer. In a cold winter room it may be only thick, or still runny. The fridge bowl is still runny milk. If no bowl set, the milk was probably too hot, or the curd was old. Try again tomorrow with fresh curd and cooler milk. That is a real result too.",
      "chart": {
-      "type": "bar",
-      "title": "Made-up example: woodlice on each side after 15 minutes",
-      "x": "Side of the tray",
-      "y": "Number of woodlice",
-      "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
-      "data": [
-       {
-        "label": "Damp side",
-        "value": 8,
-        "emoji": "💧"
-       },
-       {
-        "label": "Dry side",
-        "value": 2,
-        "emoji": "☀️"
-       }
+      "type": "table",
+      "title": "Made-up example: how to fill in the table",
+      "cols": [
+       "Bowl",
+       "Where it was kept",
+       "Next morning",
+       "Smell"
+      ],
+      "rows": [
+       [
+        "1",
+        "Warm, in a towel",
+        "Set, holds like jelly",
+        "Sour"
+       ],
+       [
+        "2",
+        "Kitchen counter",
+        "Thick, moves slowly",
+        "A little sour"
+       ],
+       [
+        "3",
+        "Fridge",
+        "Runny, like milk",
+        "Milky"
+       ]
       ]
      }
     },
     {
-     "id": "s5",
-     "mins": 3,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: woodlice choose damp places. What I saw: after 15 minutes, 8 were on the damp side and 2 on the dry side, and it was the same when we swapped. Why: woodlice dry out easily, so a damp place is part of their habitat."
+     "id": "s6",
+     "mins": 5,
+     "do": "Ask your child to say or write three short sentences. First, what I think now. Second, what I saw in each bowl. Third, why I think it happened.",
+     "say": "Every bowl had the same milk and the same curd. So tell me three things. What do you think now about warmth and curd? What did you see in each bowl that shows it? And why do you think it happened?",
+     "kid": "Every bowl had the same milk and curd. Say three things. What do you think now? What did you see in each bowl? Why did it happen?",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: warmth makes milk a good home for curd bacteria. What I saw: the warm bowl set, the counter bowl got thick, and the fridge bowl stayed runny. Why: the bacteria eat the sugar in milk and make a sour acid, and the acid thickens the milk. They grow fast when warm and slow right down in the cold. Only now, after your child has answered, share this.",
+     "check": {
+      "t": "mcq",
+      "q": "In the three bowls experiment, the warm bowl set into curd and the fridge bowl stayed runny. Both got the same curd. Why?",
+      "options": [
+       "The bacteria were in both bowls, but only the warm one was a good home for them",
+       "The fridge bowl had no bacteria in it",
+       "The cold turned the bacteria into milk",
+       "Curd only sets in steel bowls"
+      ],
+      "a": 0,
+      "why": "Both bowls had bacteria, food and water. Only the warm bowl had the right warmth, so the bacteria grew there and turned the milk into curd. Picking 'no bacteria' forgets that we stirred the same curd into every bowl. The next step tests it: warm the fridge bowl and see. Picking 'steel bowls' misses that all three bowls were the same kind."
+     }
     },
     {
-     "id": "s6",
-     "mins": 2,
-     "do": "Put the woodlice back under the same stone or pot, with a little damp soil. Wash your hands.",
-     "say": "Thank you, woodlice. Let's put them back home. Their habitat is under that pot, not in our tray.",
-     "kid": "Take the woodlice back to their pot. Put them down gently. Wash your hands.",
-     "think": "The woodlice found the damp side without eyes that see much. How do you think they knew?"
+     "id": "s7",
+     "mins": 5,
+     "do": "1. Ask for a guess and a reason first. 2. Wrap the fridge bowl in the towel and put it in the warm place. 3. Check it in the evening, after about 8 hours. 4. Tilt it and write what you see.",
+     "say": "The fridge bowl had bacteria too. Were they dead, or just waiting? Let's give them a warm home and see. What do you think will happen by evening? Why do you think so?",
+     "kid": "Put the fridge bowl somewhere warm. Will it turn into curd now? Why do you think so? Check it in the evening.",
+     "parent": "It usually sets within 8 to 10 hours. This shows the cold did not kill the bacteria. They slowed down in the cold and got busy again once the place suited them. It is also why curd sets slowly in winter. At the end, all the bowls are good curd to eat, if they smell fresh and sour.",
+     "wait": "Leave the fridge bowl in the warm place for about 8 hours, then tilt it.",
+     "think": "The bacteria waited in the cold and got busy in the warm. How do you think they sensed that their place had changed?"
     }
    ],
    "example_chart": {
-    "type": "bar",
-    "title": "Made-up example: woodlice on each side after 15 minutes",
-    "x": "Side of the tray",
-    "y": "Number of woodlice",
-    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
-    "data": [
-     {
-      "label": "Damp side",
-      "value": 8,
-      "emoji": "💧"
-     },
-     {
-      "label": "Dry side",
-      "value": 2,
-      "emoji": "☀️"
-     }
+    "type": "table",
+    "title": "Made-up example: the three bowls the next morning",
+    "note": "These results are made up, to show what a finished table can look like. Your bowls may be different, especially the counter bowl.",
+    "cols": [
+     "Bowl",
+     "Where it was kept",
+     "Next morning",
+     "Smell"
+    ],
+    "rows": [
+     [
+      "1",
+      "Warm, in a towel",
+      "Set, holds like jelly",
+      "Sour"
+     ],
+     [
+      "2",
+      "Kitchen counter",
+      "Thick, moves slowly",
+      "A little sour"
+     ],
+     [
+      "3",
+      "Fridge",
+      "Runny, like milk",
+      "Milky"
+     ]
     ]
    }
   },
@@ -1068,7 +1094,7 @@
    "mins": 30,
    "days": 1,
    "question": "Is it the same temperature and dampness everywhere in one garden, or do small places have their own weather?",
-   "predict": "Before you measure, guess. Put these five places in order from hottest to coolest: an open sunny path, a patch of grass, under a bush, under a stone and under a pile of fallen leaves.",
+   "predict": "Before you measure, guess. Put these five places in order from hottest to coolest: an open sunny path, a patch of grass, under a bush, under a stone and under a pile of fallen leaves. Why do you think so?",
    "fair_test": "To make it fair, measure all five places at about the same time of day, with the same thermometer. Leave the thermometer in each place for the same time, 2 minutes. Feel each place for dampness with the back of the same hand.",
    "results_table": [
     "Place",
@@ -1105,7 +1131,7 @@
     }
    ],
    "record": "Fill in the table. Draw a bar for each place, as tall as its temperature. Next to each bar, write how many living things you found there.",
-   "context": "This is the five worlds experiment. You measure how hot and how damp five small places in one garden are, and count who lives in each. A thermometer measures how hot something is, in degrees Celsius.",
+   "context": "If you have a garden or a park nearby: This is the five worlds experiment. You measure how hot and how damp five small places in one garden are, and count who lives in each. A thermometer measures how hot something is, in degrees Celsius.",
    "setup": [
     {
      "art": "A digital thermometer lying on an open sunny path, with a phone timer showing 2 minutes.",
@@ -1126,7 +1152,7 @@
      "mins": 3,
      "do": "1. Choose a garden, a park corner or a big pot with plants. 2. Find five places: an open sunny path, grass, under a bush, under a stone and under fallen leaves. 3. Ask your child to put them in order, hottest first.",
      "say": "Is it the same everywhere in this garden? Let's guess which of these five places is the hottest, and which is the coolest.",
-     "kid": "Find five places: a sunny path, grass, under a bush, under a stone, under leaves. Which is hottest? Guess first.",
+     "kid": "Find five places. A sunny path, grass, under a bush, under a stone, under leaves. Which is hottest? Guess first.",
      "adult": true,
      "context": "This is the first step of the five worlds experiment. You choose five small places in one garden and guess which is hottest."
     },
@@ -1137,7 +1163,7 @@
      "say": "We leave the thermometer for 2 minutes in each place, so every place gets the same time. That keeps it fair. Now feel the ground. Is it dry, or damp?",
      "kid": "Put the thermometer in each place for 2 minutes. Read it. Feel the ground. Count the living things. Write it all down.",
      "adult": true,
-     "parent": "On a sunny day you will often see 10 degrees or more difference between the open path and under the stone or the leaves. The cooler, damper places usually have more living things.",
+     "parent": "On a sunny day you will often see 10 degrees or more difference between the open path and under the stone or the leaves. The cooler, damper places usually have more living things. If you count no living things in a place, write 0. A zero is a real result. It shows that place gives less.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1238,8 +1264,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Compare the results with the guess. Then ask your child to say or write: what I think, what I saw, and why.",
-     "say": "Were your guesses right? Now finish like a scientist. What do you think? What did you see? Why?",
-     "kid": "Were you right? Say three things. What I think. What I saw. Why.",
+     "say": "Were your guesses right? Tell me three things. What do you think now about these five places? What did you see on the thermometer that shows it? Why do you think it happened?",
+     "kid": "Were you right? Say three things. What do you think now? What did the thermometer show? Why?",
      "parent": "A good answer sounds like this. What I think: small places in one garden have very different weather. What I saw: the sunny path was 41 degrees, and under the leaves was 28 degrees, with 14 living things. Why: shade and leaves keep the sun off and hold water in.",
      "think": "If one garden has five different worlds, how many worlds might there be in a whole forest?"
     },
@@ -1293,7 +1319,7 @@
    "mins": 20,
    "days": 1,
    "question": "Do leaves give off water into the air? Is that one way a forest keeps itself damp?",
-   "predict": "Before you start, guess. If you tie a clear plastic bag around a leafy branch in the sun, what will you see inside the bag after one hour?",
+   "predict": "Before you start, guess. If you tie a clear plastic bag around a leafy branch in the sun, what will you see inside the bag after one hour? Why do you think so?",
    "fair_test": "To make it fair, tie a second bag around a branch with all its leaves taken off, or around a dry stick, in the same sunny place. Both bags stay on for the same time. Then only the leaves are different.",
    "results_table": [
     "Bag",
@@ -1327,7 +1353,7 @@
     }
    ],
    "record": "Draw both bags after one hour. Write how much water collected in each.",
-   "context": "This is the tree water experiment. You tie a clear plastic bag around a leafy branch in the sun, and see whether the leaves give off water into the air.",
+   "context": "This is the tree water experiment. You tie a clear plastic bag around a leafy branch in the sun, and see whether the leaves give off water into the air. A potted plant on a balcony or a window works well.",
    "setup": [
     {
      "art": "A clear plastic bag being slipped over a leafy hibiscus branch in sunshine.",
@@ -1424,7 +1450,7 @@
     }
    ],
    "record": "Draw what you saw under the stone. Write your guess and the real number of living things.",
-   "context": "This is a short noticing activity to start the unit. You lift a stone and look at the small world hiding under it.",
+   "context": "If you have a garden or a park nearby: this is a short noticing activity. You lift a stone and look at the small world hiding under it. If you find nobody, that is a result too.",
    "setup": [
     {
      "art": "A child and a grown-up crouching by a flat stone on garden soil, the child holding up fingers to guess.",
@@ -1461,10 +1487,12 @@
        "good": [
         "It's dark and wet under there.",
         "Why are they all hiding here?",
-        "Where do they go when it rains?"
+        "Where do they go when it rains?",
+        "There is nothing here. Maybe it is too dry."
        ]
       }
-     ]
+     ],
+     "parent": "If you find nothing under the stone, that is a real result, not a failure. Write down 0 next to the guess. Then ask: why might nobody live under this stone? Is the soil dry? Is it in full sun? Was it moved recently? Try one more stone in a shadier, damper spot, or after rain. Even a bare stone has bacteria on it, too small to see."
     },
     {
      "id": "s3",
@@ -1602,7 +1630,7 @@
     }
    ],
    "record": "Make a tally for each square: how many different kinds of living things you found. Then draw two bars.",
-   "context": "This activity is how real scientists study habitats. You mark out a square, 1 metre on each side, and count every kind of living thing inside it. Then you compare two squares.",
+   "context": "If you have a garden or a park nearby: This activity is how real scientists study habitats. You mark out a square, 1 metre on each side, and count every kind of living thing inside it. Then you compare two squares.",
    "setup": [
     {
      "art": "Four sticks pushed into grass in a square, with string tied around them, and a measuring tape along one side showing 1 metre.",
@@ -1632,7 +1660,7 @@
      "do": "1. Look slowly at every part of the square, using the magnifying glass. 2. Count the different kinds of plants and animals, not how many of each. 3. Make a tally mark for each new kind.",
      "say": "We're counting kinds, not numbers. Ten ants of the same kind count as one kind. A different ant counts as a new kind. Look at the soil, the grass and the tiny flowers.",
      "kid": "Look closely at every part of the square. Make a tally for each new kind you find.",
-     "parent": "Children often find 5 to 15 kinds in a lawn: grasses, small weeds, ants, a spider, a beetle, a worm. Under a tree, with fallen leaves, there are usually more. You do not need names. 'Tiny brown jumping bug' is a fine name."
+     "parent": "Children often find 5 to 15 kinds in a lawn: grasses, small weeds, ants, a spider, a beetle, a worm. Under a tree, with fallen leaves, there are usually more. You do not need names. 'Tiny brown jumping bug' is a fine name. If a square has very few kinds, that is a real result. Count the grass and tiny plants too, which are always there."
     },
     {
      "id": "s3",
@@ -1691,7 +1719,7 @@
     }
    ],
    "record": "Draw a map of your walk. Mark where each thing was found, and colour the map by habitat: shady, sunny, wet, dry.",
-   "context": "This activity comes from a DeepKids nature walk idea. You walk in a park or around your area, collect fallen things, and draw a map of where each one came from.",
+   "context": "If you have a garden or a park nearby: This activity comes from a DeepKids nature walk idea. You walk in a park or around your area, collect fallen things, and draw a map of where each one came from. A walk around your building works too.",
    "setup": [
     {
      "art": "A child picking up a fallen feather near a tree, a small cloth bag in her other hand.",
@@ -1788,7 +1816,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Put the four signs in four corners. 2. Call out a habitat. Your child runs to that corner and moves like it: the pond ripples, the forest sways, the desert lies still at noon then comes alive at night, the sea rolls in waves. 3. Call out a living thing too, like 'a frog in the pond', and your child moves like it.",
+     "do": "1. Put the four signs in four corners. 2. Call out a habitat. Your child runs to that corner and moves like it. 3. The pond ripples, and the forest sways. The desert lies still at noon, then comes alive at night. The sea rolls in waves. 4. Call out a living thing too, like 'a frog in the pond', and your child moves like it.",
      "say": "When I say a habitat, run to its corner and become it. Desert! Now it's noon, lie very still and hot. Now it's night. Who comes out? Sea! Roll like waves. Now dive down to the dark bottom.",
      "kid": "When a grown-up calls a habitat, run to that corner. Become it! Desert at noon: lie still. Desert at night: come alive!",
      "context": "This is the first step of Four Homes: Act and Move. You move like each of the four habitats."
@@ -1820,98 +1848,6 @@
      "say": "Close your eyes. You are the deep sea floor. Dark. Cold. Still. Now, a crack opens and hot water pours out. Feel the crowd of life arrive.",
      "kid": "Lie still. Close your eyes. You are the dark sea floor. Now hot water bubbles up. Life arrives!",
      "think": "Which habitat did you feel most at home in? Why?"
-    }
-   ]
-  },
-  {
-   "id": "a6",
-   "title": "Curd Town: A Habitat in a Bowl",
-   "mins": 15,
-   "days": 2,
-   "materials": [
-    {
-     "item": "2 small steel bowls",
-     "qty": 2
-    },
-    {
-     "item": "1 cup of warm milk (boiled, then cooled until it feels just warm on your wrist)",
-     "qty": 1
-    },
-    {
-     "item": "1 teaspoon of curd from the last batch or from a shop",
-     "qty": 1
-    },
-    {
-     "item": "space in the fridge",
-     "qty": 1
-    }
-   ],
-   "safety": "A grown-up boils the milk and cools it. Use only clean bowls and spoons. Eat only the curd that set in the warm place, and only if it smells fresh.",
-   "schedule": [
-    {
-     "day": 1,
-     "mins": 10,
-     "what": "Mix curd into warm milk in two bowls. Put one in a warm place and one in the fridge."
-    },
-    {
-     "day": 2,
-     "mins": 5,
-     "what": "Compare the two bowls. Which became curd? Why?"
-    }
-   ],
-   "record": "Draw both bowls on day 2. Write which one set, and which habitat suited the bacteria.",
-   "context": "This activity shows that tiny living things called bacteria have habitats too. You set curd in two bowls: one warm and one cold. Curd is made by bacteria growing in milk.",
-   "setup": [
-    {
-     "art": "A grown-up pouring warm milk into two steel bowls, and a child adding a spoon of curd to each.",
-     "caption": "1. Add a spoon of curd to warm milk in two bowls."
-    },
-    {
-     "art": "One bowl covered with a plate in a warm kitchen corner; the other on a fridge shelf.",
-     "caption": "2. Put one bowl somewhere warm and one in the fridge."
-    },
-    {
-     "art": "Next morning: the warm bowl holding firm white curd on a tilted spoon; the fridge bowl still runny milk.",
-     "caption": "3. Next day, compare. Which became curd?"
-    }
-   ],
-   "flow": [
-    {
-     "id": "s1",
-     "mins": 10,
-     "do": "1. A grown-up boils milk and lets it cool until it feels just warm on the wrist. 2. Pour half into each bowl. 3. Stir one teaspoon of curd into each. 4. Cover both. Put one in a warm place in the kitchen and one in the fridge.",
-     "say": "Curd is made by bacteria, tiny living things. The spoon of curd adds lots of them to the milk. Milk gives them food and water. Let's see which place is the right habitat for them: warm or cold.",
-     "kid": "Ask a grown-up to warm the milk. Add a spoon of curd to each bowl. Put one somewhere warm. Put one in the fridge.",
-     "adult": true,
-     "context": "This is the first step of Curd Town. You add bacteria from curd to warm milk, and keep one bowl warm and one cold."
-    },
-    {
-     "id": "s2",
-     "mins": 2,
-     "do": "Leave both bowls overnight.",
-     "say": "Now we wait until tomorrow. The bacteria will be busy, if their habitat suits them.",
-     "kid": "Wait until tomorrow morning. Which bowl will turn into curd?",
-     "wait": "Leave both bowls overnight, about 8 hours."
-    },
-    {
-     "id": "s3",
-     "mins": 3,
-     "do": "Next day, tilt both bowls gently. Compare them.",
-     "say": "Look. The warm bowl has set into curd. The cold one is still milk. Why? The bacteria had food and water in both bowls. But only one gave them the right warmth.",
-     "kid": "Tilt both bowls. Which one is curd? Which is still milk? Why?",
-     "check": {
-      "t": "mcq",
-      "q": "In Curd Town, the warm bowl turned into curd and the fridge bowl stayed as milk. Why?",
-      "options": [
-       "Warmth is part of the bacteria's habitat. They grow well when warm and very slowly when cold.",
-       "The fridge killed all the milk",
-       "The fridge bowl had no bacteria",
-       "Curd only forms in steel bowls"
-      ],
-      "a": 0,
-      "why": "Both bowls had bacteria, food and water. Only the warm one had the right warmth, so the bacteria grew and turned the milk into curd. In the cold, they barely grow. Picking 'no bacteria' forgets that we added curd to both. This is why curd sets slowly in winter."
-     },
-     "think": "Your tummy is warm, wet and full of food. What does that make it for bacteria?"
     }
    ]
   }
@@ -2375,17 +2311,17 @@
     },
     {
      "t": "mcq",
-     "p": "What did most woodlice do in the choice tray?",
+     "p": "In the three bowls experiment, what happened to the bowl kept in the fridge overnight?",
      "opts": [
-      "Went to the damp side",
-      "Went to the dry side",
-      "Spread out evenly",
-      "Climbed out of the tray"
+      "It stayed runny, like milk",
+      "It set firm, like curd",
+      "It turned into ice",
+      "It disappeared"
      ],
      "a": 0,
-     "why": "Most woodlice gathered on the damp side, because they dry out easily. That is why we find them under damp stones and pots. 'Spread out evenly' is what we would see if they did not care about dampness.",
-     "context": "Remember the choice tray, where woodlice could walk to a damp side or a dry side of a covered tray?",
-     "how": "e1"
+     "why": "In the cold, curd bacteria slow right down, so the milk stays runny. Picking 'set firm' is what happened in the warm bowl, not the fridge. A fridge is cold, but not cold enough to freeze milk.",
+     "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
+     "how": "e4"
     },
     {
      "t": "fill",
@@ -2527,31 +2463,31 @@
     },
     {
      "t": "mcq",
-     "p": "In the choice tray, why did we cover the whole tray, not just the damp side?",
+     "p": "In the three bowls experiment, why did every bowl get the same milk and one level spoon of the same curd?",
      "opts": [
-      "So that both sides were equally dark, and only dampness was different",
-      "To stop the woodlice seeing us",
-      "Because woodlice are scared of paper",
+      "So that only the warmth was different",
+      "Because there was only one spoon",
+      "To make the bowls look nice",
       "It does not matter"
      ],
      "a": 0,
-     "why": "If only the damp side was covered, we would not know if woodlice chose it for the damp or the dark. Changing one thing at a time makes it a fair test. Picking 'it does not matter' misses why scientists plan tests carefully.",
-     "context": "Remember the choice tray, where woodlice could walk to a damp side or a dry side of a covered tray?",
-     "how": "e1"
+     "why": "If one bowl got more curd, we would not know whether the warmth or the extra curd made it set. Changing one thing at a time makes it a fair test. Picking 'it does not matter' misses why scientists plan tests carefully.",
+     "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
+     "how": "e4"
     },
     {
      "t": "mcq",
-     "p": "In the choice tray, why did we swap the damp paper to the other side and test again?",
+     "p": "In the three bowls experiment, why did we put the runny fridge bowl in the warm place the next day?",
      "opts": [
-      "To check the woodlice were choosing damp, not one end of the tray",
-      "To give the woodlice exercise",
-      "To dry the paper",
+      "To check whether the bacteria in it were dead or only waiting",
+      "To make it colder",
+      "To start a new test with new milk",
       "Because the first test was wrong"
      ],
      "a": 0,
-     "why": "Maybe the woodlice just liked one end, because it was nearer a wall or a smell. Swapping sides checks this. If they follow the damp, we can trust the result more.",
-     "context": "Remember the choice tray, where woodlice could walk to a damp side or a dry side of a covered tray?",
-     "how": "e1"
+     "why": "If the bowl set once it was warm, the bacteria were alive all along and only slowed down in the cold. That is what usually happens. Picking 'the first test was wrong' misses that the first test worked: it showed the cold slowed them down.",
+     "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
+     "how": "e4"
     },
     {
      "t": "mcq",
@@ -2700,7 +2636,7 @@
     },
     {
      "t": "mcq",
-     "p": "Curd sets in a warm place but not in the fridge. What does this show about the bacteria in curd?",
+     "p": "In the three bowls experiment, curd set in the warm bowl but not in the fridge. What does this show about the bacteria in curd?",
      "opts": [
       "The right warmth is part of their habitat",
       "They hate milk",
@@ -2708,9 +2644,9 @@
       "They live only in fridges"
      ],
      "a": 0,
-     "why": "Both bowls had milk for food and water. Only the warm bowl had the right warmth, so the bacteria grew there. Picking 'sunlight' misses that the warm bowl was covered in the kitchen.",
-     "context": "Remember Curd Town, where you set curd in two bowls, one warm and one in the fridge?",
-     "how": "a6"
+     "why": "Both bowls had milk for food and water. Only the warm bowl had the right warmth, so the bacteria grew there. Picking 'sunlight' misses that the warm bowl was wrapped in a towel, in the dark.",
+     "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
+     "how": "e4"
     },
     {
      "t": "label",
@@ -2851,12 +2787,12 @@
     },
     {
      "t": "write",
-     "p": "Design a fair test to find out whether earthworms prefer dark or light places. Say what you would change, what you would keep the same, and what you would count.",
+     "p": "Design a fair test to find out whether milk sets into curd faster with one spoon of curd or with three spoons. Say what you would change, what you would keep the same, and what you would check.",
      "lines": 5,
-     "a": "Change: one side of the tray covered and dark, the other side open to light. Keep the same: dampness of the soil, the same number of worms, the same time. Count: how many worms are on each side after 10 minutes. Then swap sides and test again.",
-     "why": "A fair test changes only one thing, like the choice tray did with dampness.",
-     "how": "e1",
-     "context": "Remember the choice tray, where woodlice could walk to a damp side or a dry side of a covered tray?"
+     "a": "Change: one bowl gets one spoon of curd, the other gets three spoons. Keep the same: the same milk, the same amount, the same kind of bowl, the same warm place. Check: tilt both bowls every 2 hours and write down when each one sets.",
+     "why": "A fair test changes only one thing, like the three bowls experiment did with warmth.",
+     "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
+     "how": "e4"
     },
     {
      "t": "mcq",
@@ -2962,33 +2898,33 @@
   },
   {
    "t": "mcq",
-   "p": "In the choice tray, most woodlice went to the damp side. What does this suggest?",
+   "p": "In the three bowls experiment, which bowl usually turns into curd by morning?",
    "opts": [
-    "Woodlice choose damp places",
-    "Woodlice choose dry places",
-    "Woodlice go anywhere by chance",
-    "Woodlice like bright light"
+    "The warm one, wrapped in a towel",
+    "The one in the fridge",
+    "None of them, curd only comes from a shop",
+    "All three, exactly the same"
    ],
    "a": 0,
-   "why": "Most went to the damp side, so damp is part of their habitat. Picking 'by chance' would fit if they had spread out evenly.",
+   "why": "Curd bacteria grow fast when it is warm, so the warm bowl sets first. Picking 'the fridge' is a common guess, because curd is kept there. The fridge keeps curd from getting too sour, because the cold slows the bacteria down. Picking 'all three the same' misses that warmth was the one thing we changed.",
    "outcome": 2,
-   "context": "Remember the choice tray, where woodlice could walk to a damp side or a dry side of a covered tray?",
-   "how": "e1"
+   "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
+   "how": "e4"
   },
   {
    "t": "mcq",
-   "p": "In the five worlds test, the sunny path was 41 degrees and under a stone was 29 degrees. What does this show?",
+   "p": "In the three bowls experiment, the fridge bowl stayed runny. Then it was kept warm all day, and by evening it had set. What does this show?",
    "opts": [
-    "Small places in one garden can have very different conditions",
-    "The thermometer was broken",
-    "All places in a garden are the same",
-    "Stones make heat"
+    "The bacteria stayed alive in the cold, and got busy again once the place suited them",
+    "The cold killed the bacteria",
+    "Warm air turns milk into curd by itself, with no bacteria",
+    "The fridge bowl never had any curd in it"
    ],
    "a": 0,
-   "why": "One garden holds many microhabitats with their own weather. Picking 'all the same' is exactly what the test showed is not true.",
+   "why": "If the cold had killed the bacteria, the bowl would never have set. They slowed down in the cold and grew again in the warmth. Picking 'warm air by itself' is a good thought to test: a bowl of warm milk with no curd stays runny much longer.",
    "outcome": 2,
-   "context": "Remember the five worlds test, where you measured the temperature in five small places in one garden?",
-   "how": "e2"
+   "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
+   "how": "e4"
   },
   {
    "t": "mcq",
@@ -3005,18 +2941,17 @@
   },
   {
    "t": "mcq",
-   "p": "The bag around a leafy branch filled with water drops. What does this tell us about forests?",
+   "p": "In a flat, ants come to the corner by the kitchen sink, but hardly ever to a dry, clean bookshelf. Why?",
    "opts": [
-    "Trees give water to the air, which helps keep a forest damp",
-    "Forests are dry",
-    "Water comes from plastic",
-    "Leaves drink rain only"
+    "The sink corner gives them water and crumbs of food",
+    "Ants do not like books",
+    "Ants go anywhere by chance",
+    "The bookshelf is too high"
    ],
    "a": 0,
-   "why": "Leaves give off water. A whole forest gives off huge amounts, so it keeps its air damp and helps make rain.",
-   "outcome": 3,
-   "context": "Remember the tree water test, where you tied a clear bag around a leafy branch in the sun?",
-   "how": "e3"
+   "why": "A habitat is where a living thing finds what it needs. The sink corner gives ants water and food, so it is part of their habitat. Picking 'by chance' does not fit, because they keep going to the same place. Ants climb walls easily, so height is not the reason.",
+   "outcome": 0,
+   "context": "Ants live in nearly every Indian home. This question is about where in a flat you see them."
   },
   {
    "t": "mcq",
@@ -3052,7 +2987,7 @@
     "Whether there is life on any other world",
     "Whether deserts get little rain",
     "Whether fish live in the sea",
-    "Whether woodlice like damp places"
+    "Whether warmth helps milk with curd in it to set"
    ],
    "a": 0,
    "why": "Nobody knows yet if life lives anywhere except Earth. The others have been tested and are agreed.",
@@ -3333,31 +3268,37 @@
    "why_maths": "Saying 'cooler' is a start. Finding the difference tells us how much cooler, which is how we know a microhabitat really has its own weather."
   },
   {
-   "problem": "In the choice tray, after 15 minutes there were 8 woodlice on the damp side and 2 on the dry side. How many times as many woodlice were on the damp side?",
-   "answer": "4 times as many.",
-   "explain": "There were 8 on the damp side and 2 on the dry side. 8 divided by 2 is 4. You can check: 2 + 2 + 2 + 2 = 8. So the damp side had 4 times as many woodlice.",
-   "math_unit": "math.division.sharing-and-grouping.L3",
-   "how": "e1",
-   "context": "This is about the choice tray. You put woodlice on a tray with a damp side and a dry side, covered it, and counted where they went.",
+   "problem": "In the three bowls experiment, a family tilted the bowls every 2 hours. The warm bowl had set at 6 hours. The counter bowl set at 10 hours. The fridge bowl was still runny at 24 hours. Where were the bacteria busiest? How many hours sooner did that bowl set than the counter bowl?",
+   "answer": "The warm bowl. It set 4 hours sooner than the counter bowl.",
+   "explain": "The bowl that sets first is where the bacteria grew fastest. That is the warm bowl, at 6 hours. The counter bowl took 10 hours. 10 take away 6 is 4. So the warm bowl set 4 hours sooner. The fridge bowl had not set even after 24 hours, so the bacteria were slowest there.",
+   "math_unit": "math.time.duration.L3",
+   "how": "e4",
+   "context": "This is about the three bowls experiment. You stirred curd into warm milk in three bowls and kept them warm, on the counter and in the fridge.",
+   "why_maths": "Counting the hours each bowl took turns 'sooner' and 'later' into numbers we can compare.",
    "chart": {
     "type": "bar",
-    "title": "Woodlice on each side after 15 minutes",
-    "x": "Side",
-    "y": "Number of woodlice",
+    "title": "Made-up example: hours until each bowl set",
+    "x": "Bowl",
+    "y": "Hours until set",
+    "note": "The fridge bowl had not set at 24 hours, so its bar stops at 24.",
     "data": [
      {
-      "label": "Damp side",
-      "value": 8,
-      "emoji": "💧"
+      "label": "Warm",
+      "value": 6,
+      "emoji": "🔥"
      },
      {
-      "label": "Dry side",
-      "value": 2,
-      "emoji": "☀️"
+      "label": "Counter",
+      "value": 10,
+      "emoji": "🏠"
+     },
+     {
+      "label": "Fridge",
+      "value": 24,
+      "emoji": "❄️"
      }
     ]
-   },
-   "why_maths": "Dividing tells us how strong the choice was. Four times as many is a strong choice, not a fluke."
+   }
   },
   {
    "problem": "In the tree water test, one leafy branch gave 2 teaspoons of water in one hour. A small tree has 10 branches like it. How much water might the whole tree give in one hour?",
@@ -3517,9 +3458,10 @@
    "id": "b-thermometer",
    "item": "A digital thermometer with a probe (a kitchen or soil thermometer)",
    "kind": "tool",
-   "why": "Measures the temperature of small places, so you can show that under a stone is cooler than an open path.",
+   "why": "Measures how warm a place is: the warm corner, the counter and the fridge in the three bowls experiment, or a sunny path and under a stone.",
    "url": "https://www.amazon.in/s?k=digital+probe+thermometer",
    "used_in": [
+    "e4",
     "e2",
     "c1"
    ],
@@ -3595,8 +3537,8 @@
    "a": "A microhabitat."
   },
   {
-   "q": "Do woodlice like damp places or dry places?",
-   "a": "Damp places. They dry out easily."
+   "q": "Where does milk with a spoon of curd set fastest: in the fridge or somewhere warm?",
+   "a": "Somewhere warm. Curd bacteria grow fast in warmth and slow down in the cold."
   },
   {
    "q": "Where do leaves give off water?",
@@ -3625,24 +3567,24 @@
  ],
  "plan": {
   "start_options": [
-   "a1",
+   "e4",
    "story",
-   "e1",
    "g1",
    "big_questions",
    "cards",
+   "a1",
    "g2"
   ],
   "default_order": [
    "intro",
-   "a1",
+   "e4",
    "story",
    "summary",
    "terms",
-   "e1",
    "explanations",
    "g1",
    "a2",
+   "a1",
    "e2",
    "videos",
    "ws-core",
@@ -3653,7 +3595,6 @@
    "agreed",
    "challenging",
    "a5",
-   "a6",
    "p1",
    "c1",
    "big_questions",
@@ -3665,8 +3606,7 @@
    "quiz"
   ],
   "core": [
-   "a1",
-   "e1",
+   "e4",
    "g1",
    "a2",
    "e2",
@@ -3677,9 +3617,8 @@
   ],
   "spine": [
    "intro",
-   "a1",
+   "e4",
    "story",
-   "e1",
    "explanations",
    "roots",
    "quiz"
@@ -3692,7 +3631,7 @@
    "DeepKids V0.1 Activities: 'Do you Sea?', building a sea ecosystem, used in the sea card and g1",
    "Founder notebook item bio:195, Biomes and habitats",
    "Founder SCI Cards (ideas/by_topic/habitats-and-adaptation.md): Marie Tharp's 'the ocean floor is not flat' and Rachel Carson's 'everything is connected', which shaped the deep sea and connection threads",
-   "DeepKids Combined lessons sci-C2 and sci-C3 habitats-and-adaptation (the five needs of a habitat, microhabitats, comparing pond, forest, desert, seashore; the lifted stone and soil animal counts; habit watching; tree layers), improved and reused in a1, a2, e2 and the explanation cards",
+   "DeepKids Combined lessons sci-C2 and sci-C3 habitats-and-adaptation (the five needs of a habitat, microhabitats, comparing pond, forest, desert, seashore; the lifted stone and soil animal counts; habit watching; tree layers), improved and reused in a1, a2, e2, e4 and the explanation cards",
    "NCERT Class 3 Chapter 5, Plants and Animals Live Together, board pack (tailorbirds, owls in hollows, soil life), for coverage only"
   ],
   "science": [
@@ -3706,22 +3645,24 @@
    "IPBES Global Assessment Report on Biodiversity and Ecosystem Services, 2019 (land and sea use change is the main driver of species loss)",
    "Myers et al., Biodiversity hotspots for conservation priorities, Nature 2000 (Western Ghats and Sri Lanka as a hotspot)",
    "Gadgil and Vartak, The sacred groves of Western Ghats in India, Economic Botany 1976",
-   "Darwin, The Formation of Vegetable Mould through the Action of Worms, 1881 (worms change soil)"
+   "Darwin, The Formation of Vegetable Mould through the Action of Worms, 1881 (worms change soil)",
+   "Cavanaugh et al., Prokaryotic cells in the hydrothermal vent tube worm Riftia pachyptila Jones: possible chemoautotrophic symbionts, Science 1981",
+   "Kuipers et al., Autoregulation of nisin biosynthesis in Lactococcus lactis by signal transduction, Journal of Biological Chemistry 1995 (quorum sensing in a curd bacterium)"
   ]
  },
  "roots": {
-  "context": "We have been learning about habitats, the places that give living things what they need. Now we ask what habitats tell us about ourselves and the world.",
+  "context": "We found that warm milk can be a home for curd bacteria, and that a dark sea floor can be a home for giant worms. Now we ask what habitats tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "There is no line where a living thing ends and its habitat begins.",
-   "habit": "We say an animal lives 'in' a habitat, as if the habitat were a box and the animal a separate thing inside it. But the air, water and food of the habitat pass through the animal every minute, the animal changes the place, and the animal is itself a habitat for smaller lives.",
-   "evidence": "Your body is home to about as many bacteria as it has human cells. A forest's leaves give the air the water that falls back as its rain. A bare sandbar became a forest because plants and animals changed it."
+   "truth": "A habitat is not a kind of place, like a forest or a sea. It is a match between a place and a living thing. Warm milk is a perfect home for curd bacteria, and no home at all for a fish. So a place we call empty may be full of life that needs different things from us.",
+   "habit": "We learn habitats as a list of places on a map: pond, forest, desert, sea. So we think the place alone decides who lives there, and we judge every place by what we need. But the same bowl of milk was a home for bacteria in a warm corner and not in the fridge. And the dark sea floor that people called empty was crowded with life.",
+   "evidence": "In the three bowls experiment, the same milk and the same curd set only where it was warm. In 1977, scientists found worms, clams and crabs living where no sunlight ever reaches, fed by bacteria that make food from chemicals."
   },
   "three": {
-   "who_am_i": "You are a living thing with a habitat, and you are a habitat yourself, for trillions of tiny lives.",
-   "what_is_life": "Life is always taking from a place and giving back to it: breathing in, breathing out, eating, making soil.",
-   "what_is_this_world": "The world is not a stage with living things on it. It is one huge habitat, and the living things are part of how it works."
+   "who_am_i": "You are a good match for some places: ones with air, water, food and the right warmth. And your warm, damp body is a perfect match for trillions of bacteria.",
+   "what_is_life": "Living things sense their surroundings and look for places that suit them. Curd bacteria wait in the cold and get busy again when it is warm.",
+   "what_is_this_world": "The world is not empty places with a few homes in between. Almost every place is a home for someone, even if it is not a home for us."
   },
-  "thread": "Water falls as rain, flows through a river, is pulled up by a tree and breathed out by its leaves, and falls again. The same water passes through the pond, the frog, the forest and you. DeepKids believes this is the One showing up as many: many habitats and many living things, made of one shared flow of water, air and sunlight. Each one looks separate. Look closer, and each is a meeting place of all the others.",
+  "thread": "DeepKids believes that all life comes from one source, and that this source shows itself in countless forms. Habitats show how far that goes. Because each kind of life needs something different, life has found a way into almost every corner of the Earth: ponds, deserts, warm milk, your tummy and the dark sea floor. No single kind of life could fill the world alone. Together, the many kinds of life fill nearly every place there is.",
   "teachings": [
    {
     "source": "Isha Upanishad, verse 1",
@@ -3729,9 +3670,9 @@
     "link": "A habitat is shared by everyone who lives in it. When one living thing takes too much, as people do when they cut a whole forest, everyone in that habitat loses."
    },
    {
-    "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on a sheet of paper",
-    "teaching": "Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. The paper is made of things that are not paper.",
-    "link": "A forest is made of things that are not forest: river water, sunlight, ants, bird droppings, elephants. A habitat is made of everything in it."
+    "source": "Acharanga Sutra (Jain), Book 1, Lecture 1",
+    "teaching": "Jain teachers said that earth, water, air and plants are full of living beings, most of them too small to see. They taught people to act with care, so as not to harm them.",
+    "link": "Much later, microscopes showed bacteria living in soil, water, air and milk. A bowl of milk with a spoon of curd in it looks quiet, but it is full of life."
    },
    {
     "source": "Aldo Leopold, A Sand County Almanac (1949), 'The Land Ethic'",
@@ -3741,30 +3682,37 @@
   ],
   "science": [
    {
-    "text": "Trillions of bacteria live in and on the human body, about as many as our own cells. Many help us digest food and fight germs.",
+    "text": "At deep sea vents, bacteria make food from chemicals in the warm vent water instead of from sunlight. Tube worms, clams and crabs live off them.",
     "status": "settled"
    },
    {
-    "text": "Forests give water to the air through their leaves. Over big forests like the Amazon, a large share of the rain comes from the forest itself.",
+    "text": "Bacteria send chemical signals to each other, and change what they do when enough of them are close together. Scientists call this quorum sensing. Some curd bacteria use such signals too.",
     "status": "settled"
    }
   ],
   "other_view": {
-   "who": "Many ecologists and scientists",
-   "view": "An animal and its habitat are different things, and keeping them apart helps us study them clearly. Saying they are 'one' is a feeling, not something we measure. Water and air passing through us does not make us the same as the river or the sky."
+   "who": "Many biologists",
+   "view": "In their view, bacteria grow faster in warmth simply because the chemistry inside them runs faster, the way sugar dissolves faster in hot water. They say words like 'wait', 'sense' and 'choose' are only a way of speaking about bacteria. They also say a habitat is a real place that can be studied on its own, whoever lives there."
   },
   "practice": {
-   "title": "What passes through me",
+   "title": "Who is this place a home for?",
    "mins": 3,
-   "say": "Let's sit still and close our eyes. Breathe in slowly. That air was breathed out by trees and by tiny sea plants. Breathe out. Now some of you goes into the air, for a tree to use. Take a sip of water. That water was once rain, and a river, and maybe a cloud over a forest. Now press your feet on the floor. Feel the ground hold you. For one more breath, just notice: where do you end, and where does your habitat begin?",
-   "kid": "Close your eyes. Breathe in slowly. Trees made that air. Breathe out. Sip some water. It was once rain. Feel the floor hold you. Where do you end?"
+   "say": "Let's sit still and close our eyes. Hold one hand near your tummy, without touching. Feel how warm you are. Your warm, damp body is a home for trillions of bacteria right now. Breathe in slowly. Breathe out. Now open your eyes and look around the room. Pick one spot, like a corner, a windowsill or a flowerpot. Ask quietly: who might this place be a home for?",
+   "kid": "Close your eyes. Hold a hand near your tummy. Feel how warm you are. Tiny bacteria live there. Open your eyes. Pick one spot. Who might live there?"
   },
   "ask": [
-   "Where do you end, and where does your habitat begin?",
-   "If you are a habitat for tiny lives, are they part of you?",
-   "Does a forest belong to the people, the animals, or no one?",
-   "What do you give back to the places that give you what you need?"
+   "People once felt sure that nothing could live at the bottom of the dark sea. Why do you think they were so sure?",
+   "Is any place on Earth truly empty, or only empty of things like us?",
+   "The fridge was a poor home for curd bacteria, but a good place to keep curd. Who decides whether a place is good?",
+   "If trillions of bacteria live in you, are they part of you, or are you their home?"
   ],
-  "art": "A child sitting cross-legged under a tree by a river, breathing out; thin lines of air and water flowing from the river up through the tree, into the child, and out again into a cloud above."
- }
+  "art": "A child at a kitchen table with three bowls of milk and curd, and around the edges small windows into other homes: a frog in a pond, tube worms by a deep sea vent, a camel in sand, and tiny bacteria in a bowl."
+ },
+ "how_we_found_out": {
+  "story": "For a long time, scientists believed that every living thing on Earth depended on sunlight. Plants catch light and make food, and every animal eats plants, or eats animals that ate plants. So the deep sea floor, where no light ever reaches, was thought to be nearly empty. In 1976 and 1977, Kathleen Crane, a young scientist, studied measurements of warm water near the sea floor by the Galapagos Islands, and helped work out where to look. In February 1977, the pilot Jack Donnelly and the scientists Jack Corliss and Tjeerd van Andel dived there in the small submarine Alvin. Around cracks gushing warm water, they found giant tube worms, big clams and crabs. Holger Jannasch and other scientists showed that bacteria there make food from a chemical in the vent water, hydrogen sulphide, instead of from sunlight. In 1981, Colleen Cavanaugh, a student, showed that the tube worms carry these bacteria inside their bodies. A whole habitat was running on the Earth's own heat and chemicals.",
+  "who": "Kathleen Crane; the pilot Jack Donnelly with Jack Corliss and Tjeerd van Andel in the submarine Alvin; Holger Jannasch; Colleen Cavanaugh",
+  "when": "1977 (the first dives at the Galapagos vents); 1981 (Cavanaugh's tube worm finding)",
+  "wrong_idea": "All life on Earth depends on sunlight, so the dark deep sea floor must be nearly empty. The vent crowds showed that a whole habitat can run on chemicals from inside the Earth instead."
+ },
+ "playtest": "The core path works in a city flat. The three bowls experiment (e4) needs only milk, curd, three bowls and a towel. Milk that feels just warm on the wrist sets in the warm bowl overnight. The fridge bowl stays runny, and sets once it is moved somewhere warm. The counter bowl depends on the season: it often sets in summer and stays thick or runny in winter, which is a good thing to talk about. If no bowl sets, the milk was too hot or the curd too old: try again. Under the Stone, Five Worlds, Square Metre Safari, the Nature Map and Nature Bingo are extras for families with a garden or a park, and each says what to do if nothing is found."
 }
