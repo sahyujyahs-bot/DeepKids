@@ -1,28 +1,28 @@
-# Animals without backbones: worms, snails, crabs, spiders, insects, starfish and jellyfish
+# Animals without backbones: how soft bodies hold their shape
 `sci.animals.invertebrates.L3`
 
-**Summary.** This unit is about animals that have no backbone. Your backbone is the long chain of small bones down the middle of your back. Fish, frogs, lizards, birds and mammals have one. But worms, snails, crabs, spiders, insects, starfish and jellyfish do not. They hold their bodies up in other ways. A worm uses water held tight inside it. A snail carries a shell. Crabs, spiders and insects wear hard armour on the outside. A jellyfish lets the sea hold it up. About 95 out of every 100 kinds of animal that people have named have no backbone. So animals like us are the unusual ones.
+**Summary.** About 95 out of every 100 kinds of animal have no backbone. Worms, snails, crabs, spiders, insects, starfish and jellyfish have no bones at all. They hold their soft bodies in shape in other ways. A worm uses liquid held tight inside it, and a snail grows a shell. Crabs, spiders and insects wear hard armour on the outside, and the sea holds up a jellyfish. These animals also feel, remember and decide, each with a body very different from ours.
 
-**Intro.** *Bend forward and ask someone to run a finger gently down the middle of your back. Can you feel the row of bumps? Now think of an earthworm. Where are its bumps?* The bumps you felt are your backbone. It is a chain of small bones that holds you up. A worm has no backbone at all. Neither does a snail, a spider or an ant. Yet a worm can push through hard soil, and an ant can carry a crumb heavier than itself. So how do they hold their bodies up? And here is a surprise. If you counted every kind of animal on Earth, the ones without a backbone would win by miles. This unit is about them.
+**Intro.** *Bend forward and ask someone to run a finger gently down the middle of your back. Can you feel the row of bumps? Now think of an earthworm. Where are its bumps?* The bumps you felt are your backbone. It is a chain of small bones that holds you up. A worm has no backbone at all. Neither does a snail, a spider or an ant. Yet a worm can push through hard soil, and an ant can carry a crumb heavier than itself. So how do they hold their bodies up? And here is a surprise. If you counted every kind of animal on Earth, most of them would have no backbone.
 
 ## Learning outcomes
 0. I can say what a backbone is, and sort animals into those that have one and those that do not.
-1. I can explain that most animals have no backbone, and show it by counting the animals in one small patch.
+1. I can explain that most animals have no backbone, and show it by counting the animals in and around my home.
 2. I can say how worms, snails, crabs, spiders, insects, starfish and jellyfish hold their shape: with water held tight inside, with a shell, or with armour on the outside.
 3. I can tell an insect from a spider, a crab and a centipede by counting legs and body parts.
 4. I can run a fair test, fill in a table, draw a bar chart, and say what I think, what I saw and why.
 5. I can explain that 'animals without backbones' is not one family. A starfish is a closer cousin of ours than of a snail.
-6. I can say what scientists still do not know about these animals, and how to watch small animals kindly.
+6. I can give evidence that small animals feel and remember, say what scientists still argue about, and watch small animals kindly.
 
 ## Terms
 - **Backbone**: The long chain of small bones down the middle of your back. It holds your body up and protects the soft cord of nerves inside it. Scientists also call it the spine. *e.g.* You can feel your backbone as a row of bumps when you bend forward.
-- **Vertebra**: One of the small bones that join together to make a backbone. More than one are called vertebrae. *e.g.* You have 33 vertebrae, stacked like a pile of cotton reels.
+- **Vertebra**: One of the small bones that join together to make a backbone. More than one are called vertebrae. *e.g.* A child's backbone has 33 vertebrae, stacked like a pile of cotton reels. Some of them join together as you grow up.
 - **Vertebrate**: An animal with a backbone. Fish, frogs, snakes, lizards, birds and mammals are vertebrates. *e.g.* A crow, a cat, a fish and you are all vertebrates.
 - **Invertebrate**: An animal with no backbone. The word means 'not a vertebrate'. Most animals are invertebrates. *e.g.* An ant, an earthworm and a snail are invertebrates.
-- **Skeleton**: The hard or firm frame that holds an animal's body in shape. It can be inside the body, outside it, or made of water. *e.g.* Your bones are your skeleton. A crab's hard shell is its skeleton.
+- **Skeleton**: The hard or firm frame that holds an animal's body in shape. It can be inside the body, outside it, or made of liquid held in tight. *e.g.* Your bones are your skeleton. A crab's hard shell is its skeleton.
 - **Exoskeleton**: A hard skeleton on the outside of the body, like a suit of armour. 'Exo' means outside. *e.g.* A crab, a beetle and a spider all wear an exoskeleton.
-- **Moult**: To crack open and climb out of an old exoskeleton that has become too tight, and then grow a bigger one. Moulting is also how snakes and birds lose old skin and feathers. *e.g.* A crab moults many times as it grows. For a few days its new shell is soft.
-- **Water skeleton**: A body held firm by water squeezed tight inside it, like a water balloon. Scientists call it a hydrostatic skeleton. *e.g.* An earthworm stays firm because it is full of liquid held in by its muscles.
+- **Moult**: To crack open and climb out of an old exoskeleton that has become too tight, and then grow a bigger one. *e.g.* A crab moults many times as it grows. For a few days its new shell is soft.
+- **Water skeleton**: A body held firm by liquid that is squeezed in and cannot escape, like water in a bottle with the cap on. Scientists call it a hydrostatic skeleton. *e.g.* An earthworm stays firm because it is full of liquid held in by its muscles.
 - **Segment**: One of the many rings or sections that a body is made of, joined in a row. *e.g.* An earthworm has more than a hundred segments. An ant's leg has segments too.
 - **Mollusc**: A soft-bodied animal with no backbone. Many molluscs make a shell. Snails, slugs, clams, octopuses and squid are molluscs. *e.g.* The snail on a wet wall and the octopus in the sea are both molluscs.
 - **Arthropod**: An animal with an exoskeleton and legs that bend at joints. Insects, spiders, crabs, centipedes and millipedes are arthropods. *e.g.* An ant, a spider and a crab are all arthropods.
@@ -47,31 +47,31 @@ Your backbone does two jobs. It holds your body up, so you can stand tall and be
 ### Most animals have no backbone · *defined*
 **Definition:** Most kinds of animals are invertebrates. Of all the animal species people have named, about 95 out of every 100 have no backbone.
 
-Scientists have named roughly one and a half million kinds of animal. Only about 70 thousand of them have a backbone. Insects alone make up about one million of the named kinds. Beetles are the biggest group of all. And there are many more invertebrates still waiting to be found and named. They are under stones, in the soil, in the deep sea and on the leaves of rainforests. So when people say 'animal', they often picture a cow or a tiger. But a more honest picture of an animal would be a small beetle.
-- e.g. If you lift a flowerpot, you may find ants, woodlice, a worm and a centipede, but probably no animal with a backbone.
+Scientists have named roughly one and a half million kinds of animal. Only about 70 thousand of them have a backbone. Insects alone make up about one million of the named kinds. Beetles are the biggest group of all. And many more invertebrates are still waiting to be found and named, in the soil, in the deep sea and on the leaves of rainforests. When people say 'animal', they often picture a cow or a tiger. But a small beetle is a far more typical animal.
+- e.g. Look in a kitchen, a bathroom and at a window, and you may find ants, flies, mosquitoes and a spider. You may find only one or two kinds of animal with a backbone, like a gecko or a crow.
 - e.g. In one small garden in England, a scientist called Jennifer Owen counted the animals for 30 years. She found more than 2,600 kinds of plants and animals. Most of them were insects and other animals without backbones.
 - e.g. A single big tree in a rainforest can hold hundreds of kinds of beetle.
 ### Bodies held firm by water: worms · *defined*
-**Definition:** An earthworm has no bones. It stays firm because its body is full of liquid, held tight by muscles in its skin. This is called a water skeleton, or a hydrostatic skeleton.
+**Definition:** An earthworm has no bones. It stays firm because its body is full of liquid, held in tight by the muscles in its skin. This is called a water skeleton, or a hydrostatic skeleton.
 
-Think of a long balloon full of water. If you squeeze the middle, the balloon gets longer and thinner. If you push the ends together, it gets shorter and fatter. A worm works the same way. It has two sets of muscles. One set goes round the body like rubber bands. When they squeeze, that part of the worm gets long and thin and pushes forward. The other set runs along the body. When they pull, that part gets short and fat and holds on to the soil. Tiny bristles on each segment grip the soil too. Squeeze, stretch, grip, pull. That is how a worm crawls without a single bone.
+Water cannot be squeezed into less space. So water that cannot escape pushes back when you press on it. A plastic bottle full of water, with its cap on, is hard to squash for this reason. A worm works the same way, with its muscles as the cap. It has two sets of muscles. One set goes round the body like rubber bands. When they squeeze, that part of the worm gets long and thin and pushes forward. The other set runs along the body. When they pull, that part gets short and fat and holds on to the soil. Tiny bristles on each segment grip the soil too. So the worm moves by squeezing one part at a time, with no bones at all.
 - e.g. Pick up an earthworm gently after rain. It feels firm, not floppy, because of the liquid inside.
-- e.g. If you squeeze a water balloon in your fist, it bulges out between your fingers. The water cannot be squashed, so it moves somewhere else.
+- e.g. Squeeze the middle of an open bottle of water, and the water rises up the neck. It cannot be squashed, so it moves somewhere else.
 - e.g. A sea anemone and a slug also use water to hold their shape.
 ### Shells: snails and other molluscs · *defined*
-**Definition:** A snail is a mollusc, a soft-bodied animal with no backbone. Its shell is made by its own body, from the same stuff as chalk.
+**Definition:** A snail is a mollusc, a soft-bodied animal with no backbone. Its own body makes its shell, from calcium carbonate. That is the same material as chalk.
 
-A snail's shell is not a house it found. It grows with the snail. A thin layer of the snail's body, called the mantle, lines the inside of the shell. The mantle takes chalky stuff from the snail's food and water and adds it to the open edge of the shell. So the shell grows bigger in a spiral, round and round. If the shell cracks, the snail can patch it from the inside. The snail itself is soft and wet. It moves on one big muscly foot, sliding on a layer of slime. Clams, oysters, slugs, octopuses and squid are molluscs too. Slugs and octopuses have lost the outside shell over millions of years.
+A snail's shell is not a house it found. It grows with the snail. A thin layer of the snail's body, called the mantle, lines the inside of the shell. The mantle takes calcium from the snail's food and water, makes calcium carbonate, and adds it to the open edge of the shell. So the shell grows bigger in a spiral, round and round. If the shell cracks, the snail can patch it from the inside. The snail itself is soft and wet. It moves on one big muscly foot, sliding on a layer of slime. Clams, oysters, slugs, octopuses and squid are molluscs too. Slugs and octopuses have lost the outside shell over millions of years.
 - e.g. The spiral on a garden snail's shell shows how it grew, ring after ring, from the tiny tip in the middle.
-- e.g. A pearl is made the same way. An oyster coats a bit of grit with layer after layer of shell stuff.
+- e.g. A pearl is made the same way. When something gets inside an oyster's shell, often a tiny worm or other small animal, the oyster coats it with layer after layer of shell material.
 - e.g. An octopus is a mollusc with no shell at all, so it can squeeze through a gap as small as its beak.
 ### Armour on the outside: crabs, spiders and insects · *defined*
 **Definition:** Crabs, spiders, insects, centipedes and millipedes are arthropods. They wear a hard skeleton on the outside, called an exoskeleton, and their legs bend at joints.
 
-Your bones are inside, with your muscles wrapped around them. An arthropod is the other way round. Its hard skeleton is outside, and its muscles are inside, pulling on it. The armour is made mostly of a tough material called chitin. In crabs it is also packed with chalky stuff, which makes it extra hard. Each leg is a set of hollow tubes joined at bendy places, like the joints of a straw. The armour protects the animal and stops it drying out. But armour cannot stretch. So to grow, an arthropod must moult. It makes a new soft skin underneath, splits the old one and climbs out. Then it puffs itself up with air or water before the new armour hardens.
+Your bones are inside, with your muscles wrapped around them. An arthropod is the other way round. Its hard skeleton is outside, and its muscles are inside, pulling on it. The armour is made mostly of a tough material called chitin. In crabs it is also packed with calcium carbonate, which makes it extra hard. Each leg is a set of hollow tubes joined at bendy places, like the joints of a straw. The armour protects the animal and stops it drying out. But armour cannot stretch. So to grow, an arthropod must moult. It makes a new soft skin underneath, splits the old one and climbs out. Then it puffs itself up with air or water before the new armour hardens.
 - e.g. An empty cicada or crab shell left on a tree or beach is an old exoskeleton. The animal climbed out of it.
 - e.g. A cockroach's back is hard and shiny because it is armour.
-- e.g. Prawns turn pink when cooked because of the colour stored in their shell.
+- e.g. Cooked prawns turn pink. Cooking frees a pink colour that was locked away in the shell.
 ### Count the legs: insect, spider, crab or centipede? · *defined*
 **Definition:** Arthropods can be sorted by their legs and body parts. Insects have 6 legs and 3 body parts. Spiders have 8 legs and 2 body parts. Crabs and prawns have 10 legs. Centipedes and millipedes have many legs along a long body.
 
@@ -82,14 +82,14 @@ Here is the quickest way to tell them apart. Count the legs. Six legs means an i
 ### Starfish: five arms and no brain · *defined*
 **Definition:** A starfish is an invertebrate that lives in the sea. It has a body with five matching parts around a middle, hundreds of tube feet, and no brain. Scientists prefer to call it a sea star, because it is not a fish.
 
-Most animals you know have a front and a back, and a left side that matches the right side. A starfish is different. It has five arms around a middle, like the spokes of a wheel. Its mouth is underneath, in the centre. Under each arm are rows of tiny tube feet. They are filled with seawater and can grip like little suckers. The starfish walks on them slowly, and pulls open clam shells with them. It has no brain, just a ring of nerves around its mouth and a nerve down each arm. There is a tiny eye at the tip of each arm that can tell light from dark. If a starfish loses an arm, it can slowly grow a new one.
+Most animals you know have a front and a back, and a left side that matches the right side. A starfish is different. It has five arms around a middle, like the spokes of a wheel. Its mouth is underneath, in the centre. Under each arm are rows of tiny tube feet. They are filled with seawater and can grip like little suckers. The starfish walks on them slowly, and pulls open clam shells with them. It has no brain. Instead, a ring of nerves runs around its mouth and a nerve runs down each arm. The arms pass messages around the ring and settle on one direction to go. There is a tiny eye at the tip of each arm. It sees light, dark and rough shapes, like a dark rock against the bright water. If a starfish loses an arm, it can slowly grow a new one.
 - e.g. On rocky beaches in India, like the reef at Narara in Gujarat, you can see sea stars in pools at low tide.
 - e.g. A starfish eats a clam by pushing its own stomach out of its mouth and into the clam's shell.
 - e.g. Sea urchins and sea cucumbers are cousins of the starfish. They also have tube feet and parts in fives.
 ### Jellyfish: a body made mostly of water · *defined*
 **Definition:** A jellyfish is an invertebrate with a soft body that is about 95 parts in 100 water. It has no bones, no brain, no heart and no blood. It catches food with stinging tentacles.
 
-A jellyfish is like a living umbrella of jelly. The sea holds it up. If a jellyfish is washed onto the beach, it collapses into a flat blob, because there is nothing to hold its shape out of water. It swims by squeezing its bell, which pushes water out behind it. Its tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches it, the threads fire and the venom stops the fish. Jellyfish have no brain, but they have a net of nerves spread through the whole body. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.
+A jellyfish's body is a soft bell made mostly of water. The sea holds it up. If a jellyfish is washed onto the beach, it collapses into a flat blob, because nothing holds its shape out of water. It swims by squeezing its bell, which pushes water out behind it. Its tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches it, the threads fire, and their venom stuns the fish. Jellyfish have no brain, but they have a net of nerves spread through the whole body. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.
 - e.g. Never touch a jellyfish on the beach, even one that looks dead. Its stinging cells can still fire.
 - e.g. Corals and sea anemones are close cousins of jellyfish. They have stinging tentacles too.
 - e.g. Some jellyfish glow in the dark sea. The glowing green material from one jellyfish is now used by scientists all over the world to light up cells.
@@ -101,12 +101,12 @@ Imagine you sorted all the people in the world into 'my family' and 'everyone el
 - e.g. An octopus is closer to a snail than to a fish, even though it swims like a fish.
 - e.g. A woodlouse lives on land, but it is a cousin of crabs and prawns.
 ### Why are most invertebrates small? · *debated*
-Most invertebrates on land are small. The biggest land insects today are only about as long as your hand. But about 300 million years ago, there were giant dragonfly-like insects with wings about 70 centimetres across. That is more than two school rulers laid end to end. Why are there no giant ants today? Scientists are not sure. They have a few ideas, and they argue about which matters most.
+Most invertebrates on land are small. Most land insects today are shorter than your little finger. The longest, a stick insect from China, is long but as thin as a twig. But about 300 million years ago, there were giant dragonfly-like insects with wings about 70 centimetres across. That is more than two school rulers laid end to end. Why are there no giant ants today? Scientists are not sure. They have a few ideas, and they argue about which matters most.
 - e.g. Meganeura, a giant dragonfly-like insect that lived about 300 million years ago, had wings about 70 cm across. Its fossils were found in France.
-- e.g. In the sea, where water holds up heavy bodies, some invertebrates are huge. The giant squid can be longer than a bus.
+- e.g. In the sea, where water holds up heavy bodies, some invertebrates are huge. The giant squid can be as long as a bus.
 - e.g. The Japanese spider crab has legs that can stretch about 3.7 metres from tip to tip.
 - **The air idea (many scientists):** Insects breathe through tiny tubes that run through their bodies. Air does not travel far down thin tubes. When the air had more oxygen, about 300 million years ago, the air could reach deeper, so insects could be bigger. Experiments show some insects raised in extra oxygen grow a little bigger.
-- **The armour idea (other scientists):** Armour gets very heavy as an animal gets bigger. And every moult leaves the animal soft and helpless for a while. A giant soft ant would be squashed by its own weight, or eaten. So armour itself may keep land invertebrates small.
+- **The armour idea (other scientists):** Armour gets very heavy as an animal gets bigger. A giant ant would need armour so thick that it could hardly move. And every moult would leave a giant soft animal in danger for days. So armour itself may keep land invertebrates small.
 - **The rivals idea (other scientists):** When birds and, later, bats appeared, big flying insects may have been easy food. Giant insects may have disappeared because new hunters arrived, not only because the air changed.
 ### Shells, chalk and marble: invertebrates build the Earth · *defined*
 **Definition:** Many invertebrates build shells and skeletons from calcium carbonate, the same material as chalk and limestone. Over millions of years their remains pile up and turn into rock.
@@ -118,31 +118,35 @@ When a snail makes its shell, it uses tiny pieces of calcium, carbon and oxygen,
 ### Tiny and tough: tardigrades and the first animals · *defined*
 **Definition:** The first animals on Earth were invertebrates. Some invertebrates alive today, like tardigrades, can survive things no other animal can, even the empty space outside Earth.
 
-For most of the history of animals, there were no backbones at all. The first animals lived in the sea more than 550 million years ago, and they were all soft invertebrates. Backbones came later. Today there is a tiny invertebrate called a tardigrade, or water bear. It is smaller than a grain of sand, with 8 stubby legs. It lives in damp moss, even on walls and roofs in Indian towns. When its home dries out, it curls up, dries out too and waits. In 2007, scientists sent dried tardigrades into space outside a spacecraft. Many came back alive and later had babies. They were the first animals known to survive open space.
+For most of the history of animals, there were no backbones at all. The first animals lived in the sea more than 550 million years ago, and they were all soft invertebrates. Backbones came later. Today there is a tiny invertebrate called a tardigrade, or water bear. It is about the size of a grain of fine sand, with 8 stubby legs. It lives in damp moss, even on walls and roofs in Indian towns. When its home dries out, it curls up, dries out too and waits. In 2007, scientists sent dried tardigrades into space on the outside of a spacecraft. Many came back alive and later laid eggs that hatched. They were the first animals known to survive open space.
 - e.g. Tardigrades can be found in damp moss from a wall, looked at with a microscope.
 - e.g. Trilobites were armoured sea invertebrates that lived for about 270 million years and then all died out.
 - e.g. Sponges are invertebrates so simple that they have no muscles or nerves at all.
 ### Which animal branched off first? · *debated*
 All animals share one ancestor, which lived in the sea long ago. Scientists agree on that. But they still argue about which living group branched off the animal family tree first. Was it the sponges, simple animals with no nerves or muscles? Or was it the comb jellies, see-through sea animals that do have nerves and muscles? The answer matters. It tells us whether nerves and muscles were invented once, or more than once.
-- e.g. Sponges filter food out of seawater through tiny holes. Bath sponges were once real animals.
+- e.g. Sponges filter food out of seawater through tiny holes. A natural bath sponge is the dried skeleton of a real sponge animal.
 - e.g. Comb jellies swim with rows of tiny beating hairs that flash rainbow colours in light.
 - e.g. Both are invertebrates, and both are older branches than worms, snails or insects.
 - **Sponges first (many scientists):** Sponges are the simplest animals. They have no nerves or muscles. So it makes sense that they branched off first, before nerves and muscles appeared. Some studies of genes agree.
 - **Comb jellies first (other scientists):** Several large studies of genes put comb jellies at the very bottom of the tree. If they are right, then nerves and muscles may have appeared twice, or sponges lost theirs.
-### Can small animals feel pain? · *debated*
-Animals without backbones feel. A worm pulls back from a sharp stick. A crab rubs and guards a hurt leg. An octopus stays away from a place where it was once hurt. Every living thing senses the world and responds to it, with a backbone or without one. For a long time, many people said small animals felt nothing. In 2022, a law in the United Kingdom began to count crabs, lobsters, octopuses and squid as animals that feel.
-- e.g. In experiments, hermit crabs given a small electric shock in their shell were later more likely to leave that shell for a new one. This suggests something more than a reflex.
-- e.g. An octopus that is hurt will guard and clean the hurt place.
-- e.g. We do not know what it is like to be an ant. That is one of the hardest questions in science.
-- **Many scientists who study crabs and octopuses:** Crabs and octopuses act as if they feel pain. They learn to avoid places where they were hurt, and they guard hurt parts. So we should treat them as if they can feel.
-- **Other scientists:** These animals may just have clever reflexes and learning, with no feeling at all. Feeling may need a brain built like ours. We cannot yet tell from the outside.
+### Small animals feel, remember and decide · *debated*
+Animals without backbones feel, remember and decide. A worm pulls back from a sharp stick. A crab rubs and guards a hurt leg. A bee remembers which flowers had sweet nectar and flies back to them. Each of these animals senses its world and chooses what to do next. In 2021, a team of scientists led by Jonathan Birch looked at more than 300 studies for the government of the United Kingdom. They found strong evidence that crabs, lobsters, octopuses and squid feel pain. In 2022, a law in the United Kingdom began to protect them as animals that feel. Some scientists still say these are only reflexes and learning. Their view is given below.
+- e.g. Hermit crabs given a small electric shock inside their shell were more likely to leave it for a new one. They left a poor shell sooner than a good one. So each crab weighed the pain against how much it liked its home.
+- e.g. Desert ants count their steps to find the way back to their nest. Scientists showed this by giving some ants longer legs, made of tiny stilts. Those ants walked past their nest.
+- e.g. An octopus that is hurt guards and cleans the hurt place. Afterwards it stays away from the room where it was hurt.
+- **Scientists who study crabs, octopuses and bees:** These animals guard hurt parts and avoid places where they were hurt. They also trade pain against something they want, like a good shell. A simple reflex cannot weigh one thing against another. So they feel pain, and we should handle them gently.
+- **Other scientists:** Everything these animals do might come from reflexes and simple learning. We cannot yet measure a feeling from the outside. So they say we should wait for better ways to test it.
 
 ## Mostly agreed
 - Most kinds of animal have no backbone. *How we know:* Scientists have named about one and a half million animal species. Only about 70 thousand of them are vertebrates. Insects alone are about one million.
-- Animals without backbones hold their shape in different ways: water held tight inside, a shell, or armour on the outside. *How we know:* Cut a worm's body open in pictures and you find liquid, not bone. A crab's shell comes off whole when it moults. A snail's shell grows with the snail.
+- Animals without backbones hold their shape in different ways: water held tight inside, a shell, or armour on the outside. *How we know:* A worm cut across, seen under a microscope, shows muscles and liquid-filled spaces, but no bone. A crab's shell comes off whole when it moults. A snail's shell grows with the snail.
 - Insects have 6 legs and spiders have 8. Spiders are not insects. *How we know:* Every adult insect ever studied has 6 legs on its middle part. Every spider has 8 legs and no feelers.
 - Arthropods must moult to grow. *How we know:* People have watched crabs, insects and spiders climb out of old skins thousands of times. The empty skins can be collected and measured.
 - 'Invertebrate' is not one family. Starfish are closer cousins of vertebrates than of snails or insects. *How we know:* The way starfish babies grow in the egg is like ours, and different from snails and insects. Studies of genes show the same thing.
+
+## How we found out
+**Carl Linnaeus, Jean-Baptiste Lamarck and Georges Cuvier, 1758 to 1801.** In 1758 the Swedish scientist Carl Linnaeus sorted all animals into six groups. Four were animals with backbones: mammals, birds, amphibians and fish. Every other animal went into just two groups, 'insects' and 'worms'. So a crab, a spider and a butterfly were all 'insects'. A snail, an octopus and a starfish were all 'worms'. In 1793 a new natural history museum opened in Paris. Jean-Baptiste Lamarck, then 49 years old, was put in charge of the insects and worms. He studied their bodies closely and saw that they were not two kinds at all. Crabs breathe with gills and have ten legs. Spiders have eight legs and no feelers. His colleague Georges Cuvier showed that snails, clams and octopuses share one body plan, so he grouped them as molluscs. Lamarck gave all these animals one shared name, 'animals without backbones', or invertebrates. By 1801 he had split them into many separate classes. Scientists still use most of those groups today.  
+*What people believed before:* Every animal without a backbone is either an insect or a worm. Lamarck and Cuvier looked closely at their bodies and found many different groups.
 
 ## Challenging perspectives
 - **Worms, insects and other small animals grow by themselves out of mud, rotting meat or old cloth.** (Many people for thousands of years, including the Greek thinker Aristotle.; *rejected*)  
@@ -154,9 +158,9 @@ Animals without backbones feel. A worm pulls back from a sharp stick. A crab rub
 - **Spiders are insects.** (Many people, and even some old dictionaries.; *rejected*)  
   For: Spiders are small, have legs and hard skins, and live in the same places as insects.  
   Against: Spiders have 8 legs, 2 body parts and no feelers. Insects have 6 legs, 3 body parts and feelers. Spiders are arachnids, cousins of scorpions and mites.
-- **Invertebrates cannot feel anything. They are like little machines.** (The French thinker René Descartes, about 380 years ago, said this about all animals. Many people still think it about insects.; *debated*)  
+- **Invertebrates cannot feel anything. They are like little machines.** (The French thinker René Descartes, almost 400 years ago, said this about all animals. Many people still think it about insects.; *debated*)  
   For: Many invertebrates have small nerve systems. Some of their actions are simple reflexes.  
-  Against: Crabs and octopuses learn to avoid places where they were hurt and guard hurt parts. In 2022 the United Kingdom's law began counting them as animals that can feel.
+  Against: Crabs and octopuses guard hurt parts, avoid places where they were hurt, and weigh pain against what they want. Bees and ants learn and remember. In 2022 the United Kingdom's law began counting crabs and octopuses as animals that feel. Some scientists still argue about insects.
 - **If you cut an earthworm in two, you get two worms.** (A very common belief among children and grown-ups.; *rejected*)  
   For: Some worms really can regrow. A flatworm called a planarian can grow a whole new body from a small piece.  
   Against: An earthworm cut in two usually dies. Sometimes the front part, with the head, can grow a new tail if the cut is near the back. The back part cannot grow a new head. So you never get two worms.
@@ -165,50 +169,49 @@ Animals without backbones feel. A worm pulls back from a sharp stick. A crab rub
   Against: Other scientists think the number is smaller, perhaps a few million. Estimates differ a lot, because we are guessing about animals nobody has seen.
 
 ## Roots
-We have been learning about animals without backbones: worms, snails, crabs, spiders, insects, starfish and jellyfish. Now we ask what they tell us about ourselves and the world.
+We have been learning how animals without backbones hold their soft bodies in shape, and how they feel and decide. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** 'Animals without backbones' is not a kind of animal. It is nearly every animal, named by the one thing it lacks compared to us.  
-*Habit it breaks:* We sort the world into 'us' and 'the rest', with ourselves at the centre. The word 'invertebrate' names 95 out of 100 kinds of animal by what they are not. Look closer and 'the rest' is many families, and some of them, like the starfish, are our own close cousins.  
-*Evidence:* In the Backbone Census, most of the animals you found had no backbone. And on the family tree, a starfish sits on our branch, closer to you than to a snail.
+**Deep truth.** Under the books, capped bottles of water hardly sank, while open empty bottles were squashed flat. Water cannot be squeezed into less space, so water that cannot escape pushes back. An earthworm's muscles hold its liquid in, the way a cap holds water in a bottle. So a soft body with no bones can stay firm, as long as its liquid is held in.  
+*Habit it breaks:* We think being firm needs something hard inside, like bone or wood. Most animals on Earth show that liquid held in tight is enough.  
+*Evidence:* In Water Bones, the capped water bottles held up five books and hardly sank. With the cap off, a squeeze pushed the water up the neck and the bottle went soft.
 
-- *who am i:* You are one of the rare animals with a backbone. Your nearest boneless cousin lives in the sea and has five arms.
-- *what is life:* Life holds itself up in many ways. Bones inside, armour outside, a shell, or just water held tight.
-- *what is this world:* Most of the animals on Earth are small, boneless and busy, under your feet and in the sea.
+- *who am i:* You hold your shape with bones inside. An earthworm holds its shape with liquid held in tight. Both of you feel the world you move through.
+- *what is life:* Life has found many ways to hold a soft body in shape: liquid held in, a shell, armour outside or bones inside.
+- *what is this world:* Most of the animals on Earth are small and have no bones. They live under your feet, in the corners of your home and in the sea.
 
-Long ago, all animals came from one small, soft animal in the sea. From that one came the many: worms, snails, spiders, ants, starfish, fish and you. Some found water to hold them up, some built shells, some wore armour, and one branch grew bones inside. DeepKids believes this is the One showing up as the many, each trying a different way to stand up in the world. The worm, the crab and you are not separate kinds of life. You are different answers to the same question.
+All animals come from soft animals that lived in the sea more than 550 million years ago. From those first soft bodies came worms, snails, insects, starfish, fish and you. Each line of animals found its own way to hold a soft body in shape: liquid held in, a shell, armour outside, or bones inside. So a worm, a crab and you are relatives who solved the same problem in different ways.
 
-- **Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (a Jain scripture, in Hermann Jacobi's translation):** All beings are fond of life. They like pleasure and dislike pain. To all, life is dear. This is why Jain monks walk softly and sweep the ground ahead of them, so as not to step on tiny creatures. (The smallest animals, the ants and worms and woodlice, are most of the animals there are. Caring for life means caring mostly for them.)
-- **Zhuangzi, chapter 2, the butterfly dream (a Chinese Taoist book):** Zhuangzi dreamed he was a butterfly, happily flying about. When he woke up, he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming it was a man? (We look at a butterfly from outside, as a different kind of animal. Zhuangzi asks whether the line between 'me' and 'that small creature' is as fixed as it seems.)
-- **Avatamsaka Sutra, the image of Indra's net (a Buddhist scripture):** Picture a huge net with a shining jewel at every knot. Each jewel reflects every other jewel. (A dewy spider web in the morning looks just like this. Every animal in the garden, from the worm to the bird, holds up every other.)
+- **Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (a Jain scripture, in Hermann Jacobi's translation):** All beings are fond of life. They like pleasure and dislike pain. To all, life is dear. This is why Jain monks walk softly and sweep the ground ahead of them, so as not to step on tiny creatures. (In this unit, crabs guarded hurt legs and an octopus stayed away from a place where it was hurt. The Jain teaching said long ago what these tests now show: small animals dislike pain.)
+- **Zhuangzi, chapter 2, the butterfly dream (a Chinese Taoist book):** Zhuangzi dreamed he was a butterfly, happily flying about. When he woke up, he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming it was a man? (We can watch what an ant or a butterfly does, but we cannot step inside its body to feel what it feels. Zhuangzi's dream asks the same question about what it is like to be a small creature.)
 - Science (settled): All animals share one ancestor. Starfish, sea urchins and vertebrates are on one big branch of the family tree, so a starfish is a closer cousin of ours than a snail is.
-- Science (settled): About 95 out of every 100 named kinds of animal have no backbone, and millions more may be waiting to be found.
-- Other view, Many biologists, and the old Charvaka school in India: Being related is a fact about history, like a family tree. It does not mean we are one being. A starfish is a starfish and you are you. Nothing more is needed to explain it. That is an honest view, and many careful people hold it.
-- Practice, Backbone, then jellyfish (3 min): Sit up tall. Put one hand on the back of your neck and slowly walk your fingers down your back, bump by bump. Each bump is a small bone holding you up. Now let your whole body go soft, like a jellyfish floating in the sea. Let your arms hang like tentacles. Breathe in slowly, and out slowly, three times. Feel what is holding you now: the chair, the floor, the air. Now sit up tall again. Which felt more like you?
+- Science (debated): In 2021, a review of more than 300 studies found strong evidence that crabs, lobsters, octopuses and squid feel pain. What an ant or a worm feels from the inside is still open.
+- Other view, Many careful scientists: They say we cannot yet measure a feeling from the outside. A worm pulling away from a sharp stick may be a reflex, like your knee jerking when a doctor taps it. So they would wait for better tests before saying a worm or an ant feels. That is an honest view, and many careful people hold it.
+- Practice, Firm without bones (3 min): Sit up tall. Hold your left arm out and let it go soft. With your right hand, gently press the soft part of your forearm. Now make a tight fist and press the same place again. It is hard now, though no bone moved. Your muscles squeezed. A worm stays firm the same way, all over its body. Let the fist go soft again. Breathe in slowly, and out slowly, three times. Feel the squeeze and the softness, one after the other.
 - Ask: If an ant named all the animals, what do you think it would call us?
-- Ask: Is a worm less important than a tiger? Who decides?
+- Ask: What else in your home is firm only because something is held in tight?
+- Ask: A crab guards its hurt leg. How could you tell if an ant was hurt?
 - Ask: A starfish is your cousin. What would you like to ask it?
-- Ask: When you went soft like a jellyfish, where did you end and the floor begin?
 
 ## Deep and big questions
 - *big:* If an ant could name all the animals, would it call us 'the animals with no armour'? Who decides what is normal? (hint: We named animals by comparing them to ourselves. What would an ant compare us to?)
-- *deep:* How can a worm push through hard soil with no bones at all? (hint: Squeeze the middle of a water balloon. Which way does the water go?)
+- *deep:* How can a worm push through hard soil with no bones at all? (hint: Squeeze the middle of an open bottle of water. Where does the water go? What if the cap is on?)
 - *deep:* Why does a crab have to break out of its own armour to grow? (hint: Can a steel tumbler grow bigger? What would you do if your clothes could not stretch?)
 - *big:* Is a worm less important than a tiger? What would happen to a forest without worms? (hint: Think about where fallen leaves go, and who mixes the soil.)
-- *deep:* A starfish has no brain. How does it know where to go? (hint: Can your hand pull away from a hot pan before you have even thought about it?)
-- *big:* Most animals on Earth are small and boneless. What does that tell us about what life is good at? (hint: Count how many places a tiny animal can live that a big one cannot.)
+- *deep:* A starfish has no brain. How does it know where to go? (hint: Its nerves run along every arm and meet in a ring. Could deciding happen all through a body, and not in one place?)
+- *big:* Most animals on Earth are small and have no bones. What can a small, boneless body do that a big body with bones cannot? (hint: Think of a crack in a wall, a single leaf, or a drop of water. Who could live there?)
 - *deep:* Why do you think the first animals had no bones? (hint: What would an animal need before it could build bones? Where did the first animals live?)
-- *big:* Is it fair to squash an ant just because it is small? What about a mosquito that bites? (hint: There is no single right answer. What reasons would you give either way?)
+- *big:* Is it fair to squash an ant just because it is small? What about a mosquito that bites? (hint: Ants feel and remember. A mosquito can carry dengue. There is no single right answer. What reasons would you give either way?)
 - *deep:* If a jellyfish has no brain, can it be awake or asleep? (hint: Scientists found that one kind of jellyfish does something like sleeping at night. What could sleep be for?)
 - *big:* A starfish is a closer cousin of yours than a snail is. How does that change the way you look at a starfish? (hint: Who are your cousins? Do cousins have to look like you?)
 
 ## Story: The Shell Nobody Lent
-*Jeanne Villepreux-Power is real (1794 to 1871). She grew up poor in a French village, became a dressmaker in Paris, married James Power and moved to Messina in Sicily. Around 1832 she built glass tanks and sea cages to keep sea animals alive and watch them. She showed that the argonaut, a small octopus, makes and mends its own shell. Many of her notes were later lost in a shipwreck. Rosa, her father and the cracked shell in this story are imagined.*
+*Jeanne Villepreux-Power is real (1794 to 1871). She grew up poor in a French village, became a dressmaker in Paris, married James Power and moved to Messina in Sicily. Around 1832 she built glass tanks and sea cages to keep sea animals alive and watch them. She showed that the argonaut, a small octopus also called the paper nautilus, makes and mends its own shell. Many of her notes were later lost in a shipwreck. Rosa, her father, the name 'paper sailor' and the cracked shell in this story are imagined.*
 
 The summer I was nine, a lady from France began buying the worst of my father's catch.
 
 My father was a fisherman in Messina, a harbour town on the island of Sicily. Most mornings he sold his fish in the market. But some mornings his net came up with things nobody would eat. Spiky sea urchins. Starfish, stiff and orange. Jellyfish that slid off the boat like spilled soup. And sometimes, a paper sailor.
 
-A paper sailor is a small octopus that lives inside a shell. The shell is white and as thin as an eggshell, curled like a ram's horn. When you hold it up to the sun, the light shines through it. The fishermen thought it was lucky. The learned men of the town thought it was a thief.
+A paper sailor is a small octopus that lives inside a shell. Only the mothers have one, and they keep their eggs in it. The shell is white and as thin as an eggshell, curled like a ram's horn. When you hold it up to the sun, the light shines through it. The fishermen thought it was lucky. The learned men of the town thought it was a thief.
 
 "It finds an empty shell left by some other creature," the doctor told my father, "and it climbs inside, like a hermit crab. A soft thing like that, with no bones in its body, could never make something hard."
 
@@ -218,13 +221,13 @@ The French lady was called Signora Power. She did not nod. She had a sharp chin 
 
 "Has anyone seen it?" she asked my father. "Has anyone actually watched a paper sailor take a shell that was not its own?"
 
-Nobody had. Nobody had watched a paper sailor do anything. Out of the sea, they died in an hour.
+Nobody had. Nobody had watched a paper sailor do anything. Out of the sea, they died quickly.
 
 So Signora Power built boxes of glass. She was the first person anyone had heard of to keep sea animals alive in glass and watch them. When the glass boxes were too small, she built big wooden cages and lowered them into the harbour on ropes, so the sea itself flowed through them. Then she paid me one coin for every paper sailor I brought her alive, in a bucket of seawater, running.
 
 I ran a great deal that summer.
 
-I learned to sit with her on the stone steps above the cages. I learned to be still. I learned that a starfish moves on hundreds of tiny wet feet, so slowly that you have to look away and look back to see it has moved. I learned that a sea urchin's spines are all on the outside, like a fort with no one inside. I learned that the paper sailor holds its shell with two broad arms, spread over the outside of the shell like hands over a cup.
+I learned to sit with her on the stone steps above the cages. I learned to be still. I learned that a starfish moves on hundreds of tiny wet feet, so slowly that you have to look away and look back to see it has moved. I learned that a sea urchin walks on tiny feet too, poking out between its spines. I learned that the paper sailor holds its shell with two broad arms, spread over the outside of the shell like hands over a cup.
 
 "Why does she hold it like that?" I asked.
 
@@ -297,8 +300,8 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Think: Our card game has more backbone animals than real life. In the real world, out of every 100 kinds of animal, about 95 have no backbone. Why do you think the game has so many backbone animals?
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say three things: what I think, what I saw, and why.  
-  *Parent says:* Let's finish like scientists. What do you think now? What did the cards show? And why do you think so many animals have no backbone?  
-  *Child mode:* Finish like a scientist. What I think. What I saw. Why.
+  *Parent says:* Tell me three things. What do you think now? What did the cards show? And why do you think so many animals have no backbone?  
+  *Child mode:* Say three things. What I think. What I saw. Why.
   - Note: A good answer sounds like this. What I think: most animals have no backbone. What I saw: 21 of our 30 cards had no backbone. Why: lots of small animals hold themselves up with shells, armour or water instead of bones.
 ### g2 · Guess My Minibeast (15 min)
 - **rules:** Lay all 12 cards face up so everyone can see them.; One player secretly picks one animal and writes its name on a scrap of paper.; The others take turns asking yes or no questions about its body. 'Is it cute?' does not count.; After each answer, turn over every card that it rules out.; Whoever names the secret animal first wins that round and picks the next secret animal.; Try to find the animal in 4 questions or fewer.
@@ -313,7 +316,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent says:* Good question. Let's turn over every card that does not fit.  
   *Child mode:* Ask a question. Turn over the cards that do not fit.
   - Ask: Which question rules out the most cards? (good: Does it have legs?; Does it have more than 6 legs?)
-  - Check: The secret animal has more than 6 legs, but no shell like a crab, and lives on land. It has no feelers and 2 body parts. What is it most likely to be? → **A house spider**
+  - Check: The secret animal lives on land and has more than 6 legs. It has no feelers, 2 body parts and no tail with a sting. What is it? → **A house spider**
 - **s3 (6 min)**  
   *Parent does:* Now take turns. Each player picks a secret animal while the others guess.  
   *Parent says:* Your turn to pick a secret animal. We will ask the questions.  
@@ -328,63 +331,64 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 
 ## Experiments
 ### e1 · Water Bones: how does a worm stay firm? (30 min)
-- **question:** Does a long balloon get firmer the more water we squeeze into it?
-- **predict:** Before you test, look at three balloons: one with a little water, one half full and one full and tight. Guess which one will droop the least over the edge of a table.
-- **fair test:** To make it fair, use the same kind of balloon each time. Let the same length hang over the table edge, half the balloon. Measure the droop the same way, with a ruler held straight up and down. Test each balloon 3 times, because one try can be a fluke.
-- **safety:** Do this over a tray, outdoors or in the bathroom, because balloons can burst. Wipe up spills so nobody slips. Keep balloon pieces away from small children, who could choke on them.
-- **record:** Fill in the table. Then draw a bar chart with one bar for each balloon. A shorter bar means a firmer balloon.
-- **results table:** Balloon | Try 1: droop (cm) | Try 2: droop (cm) | Try 3: droop (cm) | Middle value (cm)
-- **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Fill one balloon with a little water, about a quarter. 2. Fill one about half. 3. Fill one as full and tight as you can. 4. Tie each one. Let out any air first.  
-  *Parent says:* An earthworm has no bones. Today we will find out how it stays firm. Our balloons are pretend worms, full of different amounts of water.  
-  *Child mode:* Fill three long balloons with water: a little, half, and full and tight. A grown-up helps you tie them.
-  - Note: Long modelling balloons work best, but round balloons work too. Squeeze out the air before tying, so you are testing water only.
-- **s2 (2 min)**  
-  *Parent does:* Ask your child to guess which balloon will droop the least.  
-  *Parent says:* Which balloon do you think will stay the straightest when half of it hangs over the edge? Why?  
-  *Child mode:* Which balloon will droop least? Guess. Why?
-  - Ask: Why do you think so? (good: The full one has more water pushing out.; The full one is tighter.; The little one is floppy.)
-- **s3 (12 min)**  
-  *Parent does:* 1. Lay a balloon on the table with half of it over the edge. 2. Hold the ruler straight up against the table edge. 3. Measure how far the tip hangs below the table top. 4. Write it in the table. 5. Do each balloon 3 times.  
-  *Parent says:* Let's measure the droop. That is the gap from the table top down to the tip of the balloon. A small droop means a firm balloon.  
-  *Child mode:* Put half the balloon over the edge. Measure how far the tip hangs down. Write it down. Do each balloon 3 times.
-  - Note: To find the middle value, put the three numbers in order and take the middle one.
+- **question:** Can water shut inside plastic bottles hold up a pile of books?
+- **predict:** Before you test, look at three pairs of bottles: open and empty, capped with only air inside, and capped and full of water. Guess which pair will sink the least under a pile of books, and say why you think so.
+- **fair test:** To make it fair, use six bottles of the same kind and size. Lay each pair the same way, side by side, with the same board and the same books on top. Measure the height the same way each time, with the ruler standing straight up. Test each pair 3 times, because one try can be a fluke.
+- **safety:** Do this on the floor, on a towel, so spilled water does not make anyone slip. Put the books on gently, and keep fingers out from under the board.
+- **record:** Fill in the table. Then draw one bar for each pair of bottles. A shorter bar means the bottles kept their shape better.
+- **results table:** Pair of bottles | Try 1: sank (cm) | Try 2: sank (cm) | Try 3: sank (cm) | Middle value (cm)
+- **s1 (5 min)**  
+  *Parent does:* 1. Fill two bottles with water right to the top, so almost no air is left. Screw the caps on tight. 2. Screw the caps onto two empty bottles. 3. Leave the last two bottles empty, with no caps.  
+  *Parent says:* An earthworm has no bones, yet it feels firm in your hand. Today we will find out how. Our bottles are pretend worms.  
+  *Child mode:* Fill two bottles to the top with water. Put the caps on tight. Put caps on two empty bottles. Leave two open.
+  - Note: Thin bottles from packaged drinking water work best, because they squash easily. Fill the water bottles over a sink, right to the brim.
+- **s2 (3 min)**  
+  *Parent does:* Show your child the three pairs. Ask for a guess and a reason, and write the guess down.  
+  *Parent says:* We will pile books on each pair. Which pair do you think will sink the least? Why do you think so?  
+  *Child mode:* Which pair will sink the least under the books? Guess. Say why.
+  - Ask: Why do you think so? (good: The water ones, because they are full.; The capped ones, because nothing can get out.; The open ones will get squashed, because the air can escape.)
+  - Note: Any guess is fine, as long as your child gives a reason. Don't explain yet. The test will answer it.
+- **s3 (11 min)**  
+  *Parent does:* 1. Lay one pair of bottles side by side on the towel. 2. Put the board across them. 3. Stand the ruler on the towel and read the height of the board. 4. Pile the 5 books on the board gently. 5. Read the height again. 6. Write how far it sank. 7. Take the books off. Test each pair 3 times.  
+  *Parent says:* First we read the height with just the board. Then with the books. The difference is how far the bottles sank.  
+  *Child mode:* Put two bottles under the board. Read the ruler. Add the books. Read it again. How far did it sink?
+  - Note: Put the books on in the same order and the same place each time. To find the middle value, put the three numbers in order and take the middle one. Capped bottles of air may sink a little, because air can be squashed. Water can hardly be squashed at all.
 - **s4 (4 min)**  
-  *Parent does:* 1. Measure the length of the full balloon. 2. Squeeze its middle firmly all the way round with both hands. 3. Measure its length again.  
-  *Parent says:* Now squeeze the middle of the full balloon. Watch the ends. This is what a worm's ring muscles do.  
-  *Child mode:* Measure the full balloon. Squeeze its middle with both hands. Measure it again. What happened?
-  - Check: When you squeeze the middle of a full water balloon, what happens? → **It gets longer and thinner**
+  *Parent does:* 1. Over the sink, open one water bottle and pour out a little, so the water sits in the neck. 2. Mark the water level with a pen or a bit of tape. 3. Squeeze the middle of the bottle with both hands, and watch the water. 4. Fill it to the top again, cap it and squeeze again.  
+  *Parent says:* Now the cap is off. Squeeze the middle and watch the water in the neck. Then we'll put the cap back on and try again.  
+  *Child mode:* Open a water bottle over the sink. Mark the water. Squeeze the middle. Where does the water go?
+  - Check: When you squeeze the middle of an open bottle of water, what happens? → **The water rises up the neck, because it has to go somewhere**
 - **s5 (4 min)**  
-  *Parent does:* Help your child draw a bar chart of the middle droop values, one bar for each balloon.  
-  *Parent says:* Let's turn our numbers into a picture. One bar for each balloon. Here a shorter bar means a firmer balloon.  
-  *Child mode:* Draw one bar for each balloon. A shorter bar means it drooped less. That one is firmest.
-  - Check: In the Water Bones bar chart, the full balloon has the shortest bar. What does that mean? → **It drooped the least, so it was the firmest**
+  *Parent does:* Help your child draw a bar chart of the middle values, one bar for each pair of bottles.  
+  *Parent says:* Let's turn our numbers into a picture. One bar for each pair. Here a shorter bar means the bottles kept their shape better.  
+  *Child mode:* Draw one bar for each pair. A shorter bar means it sank less.
+  - Check: In the Water Bones chart, the capped bottles of water have the shortest bar. What does that mean? → **They sank the least, so they held their shape best**
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, and why.  
-  *Parent says:* Let's finish like scientists. What do you think now about how a worm stays firm? What did you see? Why?  
-  *Child mode:* Finish like a scientist. What I think. What I saw. Why.
-  - Note: A good answer: What I think: a worm stays firm because it is full of liquid squeezed tight. What I saw: the full balloon drooped only 1 cm, but the one with a little water drooped 8 cm. Why: when water is packed in tight, it pushes out on every side, so the balloon can hold its shape without bones.
+  *Parent says:* Tell me three things. What do you think now about how a worm stays firm? What did you see? And why?  
+  *Child mode:* Say three things. What I think. What I saw. Why.
+  - Note: A good answer: What I think: a worm stays firm because its liquid is held in tight. What I saw: the open empty bottles sank 5 cm, but the capped water bottles did not sink at all. Why: water cannot be squashed, so when it cannot get out, it pushes back and holds the shape.
 ### e2 · Armour Tubes: why are insect legs hollow tubes? (25 min)
-- **question:** Which paper shape holds up the most weight: a round tube, a square tube or a zigzag?
-- **predict:** Before you test, make the three shapes from the same size paper. Guess which one will hold the most notebooks before it crumples.
-- **fair test:** To make it fair, use the same size and kind of paper for every shape, and the same amount of tape. Stand each shape on its end. Add notebooks of the same kind gently, one at a time, from the same height. Test each shape twice, with new paper each time.
+- **question:** Which paper shape holds up the most books: round tubes, square tubes or zigzags?
+- **predict:** Before you test, make the three shapes from the same paper. Guess which shape will hold the most books before it crumples, and say why you think so.
+- **fair test:** To make it fair, use the same size and kind of paper for every shape, and the same amount of tape. Stand three columns of one shape under the board each time. Add books of the same kind gently, one at a time. Test each shape twice, with new paper each time.
 - **safety:** Add notebooks gently and keep your face away from the top of the stack.
-- **record:** Fill in the table. Then draw one bar for each shape, as tall as the number of notebooks it held.
-- **results table:** Shape | Try 1: notebooks held | Try 2: notebooks held | Best of the two
+- **record:** Fill in the table. Then draw one bar for each shape, as tall as the number of books it held.
+- **results table:** Shape | Try 1: books held | Try 2: books held | Best of the two
 - **s1 (6 min)**  
-  *Parent does:* 1. Roll one sheet into a round tube along its long side and tape it. 2. Fold one sheet into four long strips and tape it into a square tube. 3. Fold one sheet back and forth into a zigzag fan.  
+  *Parent does:* 1. Roll a sheet into a round tube as tall as the short side of the paper, about 21 cm, and tape it. Make three. 2. Fold a sheet into four equal strips, the same height, and tape it into a square tube. Make three. 3. Fold a sheet back and forth into a zigzag fan, the same height. Make three.  
   *Parent says:* Insects, spiders and crabs wear their skeleton on the outside, as armour. Their legs are hollow tubes. Let's find out why tubes are a good idea.  
-  *Child mode:* Make three shapes from paper: a round tube, a square tube and a zigzag. Tape them.
+  *Child mode:* Make three round tubes, three square tubes and three zigzags from paper. Tape them.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess which shape will hold the most.  
-  *Parent says:* Which one do you think will hold the most notebooks before it crumples? Why?  
+  *Parent says:* Which shape do you think will hold the most books before it crumples? Why?  
   *Child mode:* Which shape will hold the most? Guess. Why?
   - Ask: Why do you think so? (good: The round one has no weak corners.; The zigzag has lots of folds.; The tube is like a pipe.)
 - **s3 (10 min)**  
-  *Parent does:* 1. Stand a shape on its end. 2. Lay a notebook gently on top, flat. 3. Keep adding notebooks one at a time until the shape bends or crumples. 4. Write down how many it held before it crumpled. 5. Test each shape twice, with fresh paper.  
-  *Parent says:* Gently now. One notebook at a time. Stop when it crumples, and count how many it held.  
-  *Child mode:* Stand a shape up. Add notebooks one at a time. When it crumples, count how many it held.
-  - Note: Lower each notebook gently. Dropping it is not fair, because a falling notebook pushes harder.
+  *Parent does:* 1. Stand three columns of one shape in a triangle, a hand's width apart. 2. Lay the board on top. 3. Add books one at a time, gently, until the columns bend or crumple. 4. Write down how many books they held. 5. Test each shape twice, with fresh paper.  
+  *Parent says:* Gently now. One book at a time. Stop when the columns crumple, and count how many books they held.  
+  *Child mode:* Stand three columns under the board. Add books one at a time. When they crumple, count the books.
+  - Note: Lower each book gently. Dropping it is not fair, because a falling book pushes harder. If you run out of books before the round tubes crumple, write 'more than' and the number.
 - **s4 (4 min)**  
   *Parent does:* Help your child draw a bar chart, one bar for each shape.  
   *Parent says:* Let's draw one bar for each shape. A taller bar means a stronger shape.  
@@ -392,13 +396,13 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Check: In the Armour Tubes chart, which shape is strongest? → **The round tube, because its bar is tallest**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say three sentences: what I think, what I saw, and why.  
-  *Parent says:* Let's finish like scientists. Why do you think an ant's legs are hollow tubes of armour? What did you see? Why?  
-  *Child mode:* Finish like a scientist. What I think. What I saw. Why.
-  - Note: A good answer: What I think: tubes are a strong shape for armour. What I saw: the round tube held 7 notebooks, but the zigzag held only 2. Why: a tube spreads the weight all the way round, and it is hollow, so it is strong without being heavy. Your own long bones are hollow tubes too.
+  *Parent says:* Tell me three things. Why do you think an ant's legs are hollow tubes of armour? What did you see? And why?  
+  *Child mode:* Say three things. What I think. What I saw. Why.
+  - Note: A good answer: What I think: tubes are a strong shape for armour. What I saw: the round tubes held 12 books, but the zigzags held only 2. Why: a tube spreads the weight all the way round, and it is hollow, so it is strong without being heavy. Your own long bones are hollow tubes too.
   - Think: Bicycle frames, bamboo and the bones in your legs are all tubes. Why do you think so many strong things are tubes?
 ### e3 · Many Small Suckers: how does a starfish hold on? (25 min)
 - **question:** Do more small suckers hold more weight?
-- **predict:** Before you test, guess how many cups of rice one sucker can hold. Then guess for two suckers and four suckers.
+- **predict:** Before you test, guess how many cups of rice one sucker can hold. Then guess for two suckers and four suckers, and say why you think so.
 - **fair test:** To make it fair, use the same kind of sucker each time, on the same clean, smooth tile. Press each sucker on in the same way. Add rice one cup at a time, gently. Test each number of suckers twice.
 - **safety:** Put a towel underneath, because the bag will drop. Keep your feet out of the way. Hang it low, about knee height.
 - **record:** Fill in the table. Draw one bar for each number of suckers.
@@ -423,48 +427,47 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Check: In the Many Small Suckers chart, 4 suckers held about 4 times as much as 1 sucker. What does that tell us about a starfish? → **Hundreds of small tube feet together can grip very strongly**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say three sentences: what I think, what I saw, and why.  
-  *Parent says:* Let's finish like scientists. What do you think? What did you see? Why?  
-  *Child mode:* Finish like a scientist. What I think. What I saw. Why.
+  *Parent says:* Tell me three things. What do you think now about many small suckers? What did you see? And why?  
+  *Child mode:* Say three things. What I think. What I saw. Why.
   - Note: A good answer: What I think: more suckers hold more weight. What I saw: one sucker held 3 cups and four suckers held 11 cups. Why: each sucker grips a little, and their grips add up. A starfish has hundreds of tube feet, so it holds on very tightly.
   - Think: Four suckers held 11 cups, not exactly 12. Why might they not add up perfectly?
 
 ## Activities
-### a1 · Backbone Census: who lives in one small patch? (25 min)
-- **safety:** Go outdoors only with a grown-up. Do not touch spiders, scorpions, centipedes or caterpillars with hairs. Lift stones with a stick, away from you, and put them back gently. Wash your hands with soap afterwards.
+### a1 · Backbone Census: which animals share your home? (25 min)
+- **safety:** Look, don't touch. Never touch spiders, centipedes, scorpions or hairy caterpillars. A grown-up comes along to the balcony, the windows and the staircase. Wash your hands with soap afterwards.
 - **record:** Make two tally columns: BACKBONE and NO BACKBONE. Add a tally mark for each kind of animal you see. Then draw two bars.
 - **s1 (2 min)**  
   *Parent does:* 1. Ask your child to bend forward. 2. Run a finger gently down the middle of their back, from the neck to the bottom.  
   *Parent says:* Can you feel these bumps? This is your backbone. It is a chain of small bones that holds you up. Today we will find out how many animals around us have one.  
   *Child mode:* Bend forward. Ask a grown-up to run a finger down your back. Feel the bumps? That is your backbone.
 - **s2 (3 min)**  
-  *Parent does:* Before going out, ask your child to guess.  
-  *Parent says:* Do you think we will find more animals with a backbone, or more without one? Make a guess, and say why.  
+  *Parent does:* Before you start looking, ask your child to guess.  
+  *Parent says:* Do you think we will find more kinds of animal with a backbone, or more without one? Make a guess, and say why.  
   *Child mode:* Guess first. Will you find more animals with a backbone, or without one? Why?
-  - Ask: Why do you think so? (good: I see lots of birds and dogs.; There are lots of ants everywhere.; Small animals hide, so maybe more of them.)
-  - Note: Most children guess backbone animals, because birds, dogs and cats are the animals they notice. That is a great guess to test.
-- **s3 (3 min) · grown-up needed**  
-  *Parent does:* 1. Go outdoors together. 2. Choose a patch with some soil, plants, a stone or a flowerpot. 3. Push the four sticks in to make a square about as wide as your child's arms, and tie the string around them.  
-  *Parent says:* Let's mark our patch. We will only count animals inside this square, or flying just over it.  
-  *Child mode:* Go outside with a grown-up. Make a square with sticks and string. Only count animals in your square.
-  - Note: A balcony pot or a corner of a park is fine. If you cannot go out, use one room: a kitchen window, the sink area and a corner of the floor.
-- **s4 (10 min) · grown-up needed**  
-  *Parent does:* 1. Look closely for 10 minutes. 2. Look on leaves, under leaves, on the soil, and under a stone or pot lifted with a stick. 3. For each new kind of animal, make one tally mark in the right column. 4. Put stones back exactly as they were.  
-  *Parent says:* Look high and low. Under leaves. In the cracks. Under that stone, which I'll lift with a stick. Every new kind of animal gets one tally mark.  
-  *Child mode:* Look closely. Under leaves. In cracks. Under a stone a grown-up lifts. One tally mark for each new kind of animal.
-  - Note: Count kinds, not individuals. Twenty ants of the same kind count as one mark. Two different ants, a big black one and a tiny red one, count as two. Common finds: ants, woodlice, earthworms, spiders, snails, slugs, beetles, flies, mosquitoes, millipedes, springtails. Backbone animals you may see: a sparrow, a myna, a gecko, a frog, a squirrel.
-  - Check: You find 30 small black ants, all the same kind. How many tally marks do they get? → **1 mark**
+  - Ask: Why do you think so? (good: I see lots of crows and pigeons.; There are ants everywhere.; Small animals hide, so maybe there are more of them.)
+  - Note: Most children guess animals with a backbone, because birds, cats and dogs are the animals they notice. That is a good guess to test.
+- **s3 (2 min)**  
+  *Parent does:* Choose four places: the kitchen, the bathroom, a window, and the balcony or the staircase. Take the torch, paper and pencil.  
+  *Parent says:* Small animals hide in corners and cracks. We'll look in four places, and only count what we really see. People count too: we are animals with a backbone.  
+  *Child mode:* Take a torch, paper and pencil. You will look in four places. Put one mark for people. We have a backbone too.
+- **s4 (11 min) · grown-up needed**  
+  *Parent does:* 1. Spend about 3 minutes in each place. 2. Look along walls, in corners, under the sink, at window grills and in plant pots. 3. Shine the torch into dark corners and behind cupboards. 4. For each new kind of animal, make one tally mark in the right column. Dead insects on a windowsill count too.  
+  *Parent says:* Look high and low. In the corners. Under the sink. At the window. Every new kind of animal gets one tally mark.  
+  *Child mode:* Look in corners and under the sink. Shine the torch. One tally mark for each new kind of animal.
+  - Note: Count kinds, not single animals. Twenty ants of the same kind count as one mark. A big black ant and a tiny red ant count as two. Common finds in a flat: ants, houseflies, mosquitoes, tiny fruit flies near fruit, a spider in a corner, a cockroach, a silverfish, a moth, and a snail on a pot after rain. Animals with a backbone: people, a gecko on the wall, a crow, a pigeon or a myna at the window, perhaps a cat or a dog. If you find very few animals, add the ones you see on the way to school or the shop tomorrow.
+  - Check: You find 30 small black ants in the kitchen, all the same kind. How many tally marks do they get? → **1 mark**
 - **s5 (4 min)**  
   *Parent does:* Count the tally marks in each column. Then draw two bars side by side, one for each group.  
   *Parent says:* Let's count our marks. Now let's draw one bar for backbone animals, and one for animals without a backbone.  
   *Child mode:* Count your marks. Draw two bars. Make each bar as tall as its number.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. What do you think now? What did you see? And why do you think there were so many of one kind?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: there are more animals without a backbone. What I saw: we found 11 kinds without a backbone and only 2 with one. Why: small animals can live in tiny places like under a stone or on one leaf, and there are lots of those places.
-  - Check: In the census, you found 11 kinds of animal without a backbone and 2 kinds with one. What does this show? → **In our patch, there were many more kinds of animal without a backbone**
+  *Parent says:* Tell me three things. What do you think now? What did you see? And why do you think there were more of one group?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: there are more kinds of animal without a backbone. What I saw: we found 9 kinds without a backbone and 4 with one. Why: small animals can live in tiny places, like a crack or a corner, and a home has lots of those. In a very clean flat the two bars may be close. That is a real result too. Talk about where small animals might be hiding that you could not see.
+  - Check: In the census, you found 9 kinds of animal without a backbone and 4 kinds with one. What does this show? → **In and around our home, there were more kinds of animal without a backbone**
 ### a2 · Leg Count Key: insect, spider, crab or centipede? (15 min)
-- **safety:** If you catch a real minibeast to look at, use a clear box and a paintbrush, never your fingers. Look for 5 minutes, then let it go where you found it. Do not catch spiders, scorpions or centipedes.
+- **safety:** If you catch a live minibeast to look at, use a clear box and a paintbrush, never your fingers. Look for 5 minutes, then let it go where you found it. Do not catch spiders, scorpions or centipedes. Wash your hands with soap after touching a raw prawn or a dead fly.
 - **record:** For each animal, write the questions you answered and the group you reached.
 - **s1 (2 min)**  
   *Parent does:* Write this key on paper. 1: Does it have legs? No: worm or snail. Yes: go to 2. 2: Does it have exactly 6 legs? Yes: insect. No: go to 3. 3: Does it have exactly 8 legs? Yes: arachnid, like a spider. No: go to 4. 4: Does it have 10 legs? Yes: crab or prawn. No: go to 5. 5: Does it have lots of legs on a long ringed body? Yes: centipede or millipede.  
@@ -474,6 +477,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent does:* Take the cards one by one. Your child counts the legs and follows the key out loud.  
   *Parent says:* Let's try the ant. Does it have legs? Yes. Exactly 6? Yes. So the ant is an insect.  
   *Child mode:* Pick a card. Count the legs. Follow the key. Which group is it?
+  - Note: If you have a raw prawn, count only the legs under the front part, below the head shell. There are 10. The small paddles under the tail are for swimming, so the key does not count them. A dead housefly has 6 legs, 2 wings and 3 body parts, easy to see with a magnifying glass.
   - Check: A woodlouse has 14 legs. It is not long and thin like a centipede. Where does the key leave it? → **The key does not have a place for it, so we need a new question**
 - **s3 (4 min)**  
   *Parent does:* Look at the ant and the spider cards side by side. Count their body parts.  
@@ -493,6 +497,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent does:* 1. After rain, find a garden snail on a wall or plant. 2. Lift it gently by the shell, not the soft body. 3. Wet a clear plastic lid with a few drops of water.  
   *Parent says:* A snail has no bones and no legs. It walks on one big soft foot. Let's watch that foot from underneath.  
   *Child mode:* Ask a grown-up to help you find a snail after rain. Hold it gently by the shell.
+  - Note: Snails come out after rain, mostly in the monsoon, and often at night. Look on walls, under flowerpot rims and on potted plants. If none turns up, try again in the evening after watering the pots, or after the next rain. Until then, watch an ant walk across a sheet of glass or a clear lid and count its legs, to compare with a snail's one foot later.
 - **s2 (2 min)**  
   *Parent does:* Put the snail on the wet plastic. Rest the plastic on two stacks of books, so you can look up at it from underneath. Wait until the snail comes out and starts moving.  
   *Parent says:* We have to be patient. A snail comes out when it feels safe.  
@@ -530,7 +535,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* Take it out. Hold it up. What happens to its tentacles?
   - Check: Out of the water, the plastic jellyfish flops into a clump. What does that tell us about real jellyfish? → **Jellyfish have no skeleton, so the water holds their shape**
 - **s4 (4 min)**  
-  *Parent does:* Ask your child to draw the jellyfish in and out of water, and say three things: what I think, what I saw and why.  
+  *Parent does:* Ask your child to draw the jellyfish in the water and out of it. Then ask for three things: what I think, what I saw and why.  
   *Parent says:* Draw both pictures. Then tell me what you think, what you saw, and why.  
   *Child mode:* Draw it in the water and out of it. Say what you think, what you saw and why.
   - Note: A good answer: What I think: jellyfish need water to hold their shape. What I saw: in the bottle the strips spread out, but in the air they stuck together in a clump. Why: the jellyfish has no skeleton, and the water was holding it up.
@@ -557,60 +562,62 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent says:* Draw the three pictures. Why can't armour just grow with the animal, like your bones grow with you?  
   *Child mode:* Draw armour on, armour split and new armour. Why can't armour stretch?
   - Note: Bones are alive and grow from inside, with blood in them. An exoskeleton is a hard outer layer that cannot grow, so it must be replaced.
-### a6 · Spider Web Morning (15 min)
-- **safety:** Never touch a spider. Keep your hands away from the web. Spray from at least an arm's length away, and only a light mist. Go out with a grown-up.
-- **record:** Draw the web. Write how many spokes it has, and where the spider was waiting.
+### a6 · Spider Web Hunt (15 min)
+- **safety:** Never touch a spider. Keep your hands away from the web. Spray from at least an arm's length away, and only a light mist. A grown-up comes along to the balcony and the staircase.
+- **record:** Draw the web. If it is round, write how many spokes it has. Write where the spider was waiting.
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* Go out early with your child. Look between plants, along railings and in window corners for a round web.  
-  *Parent says:* Spiders are not insects. They have 8 legs. Many spiders spin silk webs to catch insects. Webs are easiest to see in the early morning.  
-  *Child mode:* Go out with a grown-up early in the morning. Look for a round spider web.
+  *Parent does:* Look with your child in window corners, behind cupboards, on balcony grills, along staircase railings and between potted plants. Use the torch in dark corners.  
+  *Parent says:* Spiders are not insects. They have 8 legs. Many spiders spin silk webs to catch insects. Let's find one.  
+  *Child mode:* Look with a grown-up for a spider web. Try corners, window grills and balcony plants.
+  - Note: Indoors, most webs are loose tangles in corners, made by thin long-legged cellar spiders. Round webs are more often on balcony plants and railings. If you find no web at all, look for a small jumping spider on a wall or window. It hunts by jumping, with no web. Count its 8 legs instead.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* Spray a light mist onto the web from at least an arm's length away.  
   *Parent says:* Watch the silk appear. Each drop of water hangs on a thread like a bead.  
   *Child mode:* Ask a grown-up to spray a light mist on the web. Watch the threads sparkle.
 - **s3 (6 min)**  
-  *Parent does:* Count the spokes running out from the middle. Look for the spiral thread. Look for the spider, often in the middle or hiding at the edge.  
-  *Parent says:* Count the spokes, the straight threads from the middle. Then look for the round spiral. Where is the spider waiting?  
-  *Child mode:* Count the straight spokes. Look for the spiral. Can you see the spider? Do not touch it.
+  *Parent does:* If the web is round, count the spokes running out from the middle and look for the spiral thread. If it is a tangle, look for where the threads are thickest. Look for the spider, often in the middle or hiding at the edge.  
+  *Parent says:* Is it a round web or a tangle? If it is round, count the spokes, the straight threads from the middle. Where is the spider waiting?  
+  *Child mode:* Is it round or a tangle? Count the spokes if it is round. Can you see the spider? Do not touch it.
   - Check: A spider has 8 legs, 2 body parts and no feelers. Which group is it in? → **Arachnids**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to draw the web and write how many spokes it had.  
   *Parent says:* Draw the web. A spider spins all of that from silk made inside its own body. Spider silk is one of the toughest threads known.  
-  *Child mode:* Draw the web. Write how many spokes it had.
-  - Note: Common round-web spiders in Indian gardens include the giant wood spider and the signature spider, which makes a zigzag pattern in its web. Most garden spiders are harmless to people but should never be handled.
-  - Think: The spider made all this silk inside its own small body. Where do you think the stuff for the silk comes from?
+  *Child mode:* Draw the web. If it is round, write how many spokes it had.
+  - Note: Round-web spiders seen on Indian balconies and in gardens include the signature spider, which adds a zigzag band of silk to its web. In houses, the cellar spider makes loose webs in corners and hangs upside down in them. Most house and garden spiders are harmless to people, but they should never be handled.
+  - Think: The spider made all this silk inside its own small body. What do you think the silk is made from?
 ### a7 · Five-Arm Fold: the starfish shape (10 min)
 - **safety:** A grown-up helps with the scissors.
-- **record:** Draw a line down your own picture where the two halves match. Draw lines on the star where its parts match.
+- **record:** Draw your star with all its fold lines. Draw yourself with your one fold line.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* Fold a square of paper in half to make a triangle. Then fold it into five equal parts, like a fan. A grown-up cuts a slanted line across the folded wedge.  
-  *Parent says:* A starfish has five arms, all the same, around a middle. Let's make one by folding.  
-  *Child mode:* Fold the paper into five parts, like a fan. A grown-up helps you cut across it.
-  - Note: An exact five-way fold is tricky. Fold into a triangle, then fold the triangle into a fan of five roughly equal parts. If it comes out with four or six points, that is fine. Talk about it.
+  *Parent does:* 1. Draw round a katori on paper. 2. Mark five dots evenly round the edge. Think of a clock: 12, just before 2:30, just before 5, just after 7, and 9:30. 3. Draw a small circle in the middle. 4. Draw an arm from the middle circle out to each dot. 5. A grown-up helps cut the star out.  
+  *Parent says:* A starfish has five arms, all the same, around a middle. Let's draw one and cut it out.  
+  *Child mode:* Draw round a bowl. Put five dots round the edge. Draw an arm to each dot. Cut out your star.
+  - Note: The dots do not have to be perfect. If the arms come out uneven, the halves will nearly match, and that is fine. Talk about it.
 - **s2 (3 min)**  
-  *Parent does:* Open the star. Turn it slowly on the table.  
-  *Parent says:* Turn it slowly. Every time you turn it a little, it looks the same. Now look at your own body. Where are your matching parts?  
-  *Child mode:* Open your star. Turn it. It looks the same each time. Now look at yourself. Where do you match?
+  *Parent does:* Fold the star in half along a line from the tip of one arm through the middle. Check whether the halves match. Open it and try the next arm.  
+  *Parent says:* Fold it through one arm and the middle. Do the two halves match? Now try through the next arm. How many fold lines work? And how many work for your body?  
+  *Child mode:* Fold your star through one arm and the middle. Do the halves match? Try every arm. Count the fold lines.
   - Check: How is a starfish's body built differently from yours? → **It has five matching parts around a middle**
 - **s3 (3 min)**  
   *Parent does:* Talk about regrowing. Fold one arm of the paper star back under.  
-  *Parent says:* If a starfish loses an arm, it can grow a new one over many months. Some starfish can even grow a new body from one arm, if part of the middle comes with it.  
+  *Parent says:* If a starfish loses an arm, it can grow a new one over many months. Most need part of the middle to do it. A few kinds can grow a whole new starfish from a single arm.  
   *Child mode:* Fold one arm under. A real starfish could grow it back. It takes months.
   - Think: Your skin can mend a cut. Your hair grows back. Can you grow back a finger? Why do you think some animals can and some cannot?
 
 ## Projects
 ### p1 · Bottle Wormery: watch worms mix the soil (60 min, 14 days)
-- **safety:** A grown-up cuts the bottle. Handle worms gently with wet hands, and only for a moment. Wash your hands with soap after touching soil or worms. Keep the wormery out of the sun. After 14 days, return the worms to where you found them.
+- **safety:** A grown-up cuts the bottle. Handle worms gently with wet hands, and only for a moment. Wash your hands with soap after touching soil or worms. Keep the wormery out of the sun. After 14 days, put the worms back where you found them, or into a big plant pot or a compost bin.
 - **record:** On each day, draw the bottle and its layers in the same way. At the end, put your drawings in a row and write what the worms did.
 - **schedule:** day 1: Build the wormery in layers of soil and sand. Add leaves and peels. Add the worms. Wrap it in dark cloth. Draw the layers. (25 min); day 3: Unwrap and look. Are the layers still sharp? Draw what you see. Mist the top if it is dry. (5 min); day 7: Look again. Are any leaves pulled down? Are there tunnels against the glass? Draw it. (10 min); day 10: Look and draw. Mist the soil if it is dry. (5 min); day 14: Draw the final layers. Compare all your drawings. Return the worms to the soil where you found them. (15 min)
 - **s1 (10 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts the top off a large bottle. 2. Your child fills it with layers: 4 cm of damp soil, then 2 cm of sand, then soil, then sand, to near the top. 3. Mist each layer so it is damp, not wet. 4. Put dead leaves and peels on top.  
+  *Parent does:* 1. A grown-up cuts the top off a large bottle. 2. Your child fills it in layers: 4 cm of damp soil, then 2 cm of sand. 3. Repeat soil and sand until the bottle is nearly full. 4. Mist each layer so it is damp, not wet. 5. Put dead leaves and peels on top.  
   *Parent says:* Charles Darwin, a famous scientist, spent about 40 years studying earthworms. He thought they were some of the most important animals in the world. Let's find out why.  
   *Child mode:* Make stripes in the bottle: soil, then sand, then soil, then sand. Keep them damp. Put leaves on top.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Find 3 to 5 earthworms in damp soil, or on the ground after rain. 2. Wet your hands. 3. Put the worms gently on top of the leaves. 4. Wrap the bottle in dark cloth and put it in a cool, shady place.  
   *Parent says:* Worms breathe through their damp skin, so we keep everything damp. They do not like light, so we wrap the bottle in dark cloth.  
   *Child mode:* Find a few worms with a grown-up. Wet your hands. Put the worms gently on top. Wrap the bottle in dark cloth.
+  - Note: In the monsoon, earthworms are easy to find in damp soil and on wet paths. At other times, many plant nurseries sell compost worms. Compost worms live near the surface, so they mostly mix the top stripes. Soil-digging earthworms mix deeper.
 - **s3 (10 min)**  
   *Parent does:* Draw the bottle with its stripes, carefully, on day 1.  
   *Parent says:* Let's draw it now, so we can compare. Draw every stripe exactly as it is.  
@@ -664,9 +671,9 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **your turn:** Now invent your own worm that moves in a new way. Draw it, build it, and measure how far it moves in 10 tries.
 - **constraints:** No wheels and no legs.; You may pull a string or blow, but you may not push the worm with your fingers.; The worm must be at least 10 cm long.; Use only paper, straws, string, tape, rubber bands, cloth and things from home.
 - **general:** Make an inchworm. Fold a strip of paper into a zigzag. Pull a thread through it to squash it, then let go so it springs out. Tape a little sandpaper or a rubber band under the back end, so it grips while the front slides.; Copy the worm's bristles. Stick short pieces of a toothbrush or stiff paper fringe underneath, all leaning backwards. They slide forwards but catch backwards, so each push moves the worm one way.; Make a sock worm. Put a string through a sock, with a knot at the front. Pull and relax the string. Bunch and stretch, bunch and stretch.
-- **creative:** Scrunch the paper cover of a drinking straw down into a tight wiggly worm. Put it on a plate and add one drop of water. It stretches and wriggles. The water fills the paper, like liquid filling a worm's body.; Robot makers build soft robots that move like worms and octopus arms. Some are pumped up with air, like your balloons in the Water Bones experiment.; Could your worm move along a tube or a hose, the way a worm moves through soil?
+- **creative:** Scrunch the paper cover of a drinking straw down into a tight wiggly worm. Put it on a plate and add one drop of water. It stretches and wriggles. The water fills the paper, like liquid filling a worm's body.; Robot makers build soft robots that move like worms and octopus arms. Some are pumped full of air or liquid and then sealed, like the capped bottles in the Water Bones experiment.; Could your worm move along a tube or a hose, the way a worm moves through soil?
 - **s1 (3 min)**  
-  *Parent does:* Watch an earthworm move, or remember how the Water Bones balloon got longer when squeezed.  
+  *Parent does:* Watch an earthworm move, or watch the video in this unit. Remember how the water rose up the bottle neck when you squeezed it in Water Bones.  
   *Parent says:* A worm squeezes to stretch forward, then pulls up its back end. Tiny bristles stop it sliding backwards. Can we copy that?  
   *Child mode:* A worm squeezes, stretches, grips and pulls. Can you copy that with paper?
 - **s2 (7 min)**  
@@ -714,15 +721,15 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 11. (mcq) Why must a crab moult?  
    Options: To change colour / Its armour cannot stretch, so it must climb out to grow / To cool down / Because it is old  
    **Answer:** Its armour cannot stretch, so it must climb out to grow. *Why:* Hard armour cannot grow. So a crab makes a new soft skin underneath, splits the old shell and climbs out. Picking 'because it is old' is a guess many people make, but young crabs moult most often, because they grow fastest.
-12. (mcq) Remember the Water Bones experiment? You filled long balloons with a little water, half full, and full and tight, and measured how much each drooped over a table edge. Which balloon drooped the least?  
-   Options: The one with a little water / The half-full one / The full and tight one / They all drooped the same  
-   **Answer:** The full and tight one. *Why:* The full, tight balloon was the firmest, so it drooped least. Water packed in tight pushes out on every side and holds the shape. That is how a worm stays firm. Picking 'a little water' usually means thinking floppy things are stronger.
+12. (mcq) Remember the Water Bones experiment? You laid pairs of plastic bottles under a board and piled books on top: open and empty, capped with air, and capped with water. Which pair sank the least?  
+   Options: The open, empty bottles / The capped bottles with air / The capped bottles with water / They all sank the same  
+   **Answer:** The capped bottles with water. *Why:* The capped water bottles hardly sank. Water cannot be squashed, and the caps kept it in, so it pushed back on the board. That is how a worm stays firm. Picking the open bottles usually means thinking 'empty' makes a thing light and strong. But with nothing held in, the bottle walls just fold.
 13. (write) How does an earthworm stay firm without any bones? Use the words water and muscles.  
-   **Answer:** An earthworm is full of water and liquid. Its muscles squeeze the liquid tight, so its body stays firm, like a full water balloon.. *Why:* This is called a water skeleton. Squeezing the liquid also lets the worm stretch and push forward.
+   **Answer:** An earthworm is full of liquid. Its muscles hold the liquid in tight, so its body stays firm, like a capped bottle full of water.. *Why:* This is called a water skeleton. Squeezing the liquid also lets the worm stretch and push forward.
 14. (draw) Draw an ant. Show its 3 body parts and 6 legs. Label the head.  
    **Answer:** A head with two feelers, a middle part with all 6 legs attached, and a back end.. *Why:* An insect's 6 legs all join onto its middle part. The feelers are on the head.
-15. (write) Remember the Backbone Census, where you counted animals in one small patch. Which group had more kinds? Write one sentence about what you saw and one about why.  
-   **Answer:** We found more kinds of animal without a backbone. I think this is because small animals can live under stones, in the soil and on leaves, and there are many of those places.. *Why:* Most people find many more kinds of invertebrate. It is the same all over the world.
+15. (write) Remember the Backbone Census, where you looked for animals in and around your home. Which group had more kinds? Write one sentence about what you saw and one about why.  
+   **Answer:** We found more kinds of animal without a backbone. I think this is because small animals can live in corners, cracks and plant pots, and a home has lots of those.. *Why:* Most families find more kinds of invertebrate. Scientists find the same all over the world.
 ### Shells, Armour and Water (stretch) (stretch, 15 questions)
 1. (mcq) Which animal is a mollusc?  
    Options: An ant / A snail / A spider / A starfish  
@@ -737,17 +744,17 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** order shown. *Why:* Earthworm 0, ant 6, spider 8, crab 10.
 5. (mcq) How does a snail get its shell?  
    Options: It finds an empty one / Its body makes it and adds to it as it grows / It is born with a full-size shell / Other snails build it  
-   **Answer:** Its body makes it and adds to it as it grows. *Why:* A snail's mantle, a thin layer of its body, makes the shell from chalky stuff and adds to the open edge as it grows. Picking 'finds an empty one' mixes it up with hermit crabs, which really do borrow shells.
+   **Answer:** Its body makes it and adds to it as it grows. *Why:* A snail's mantle, a thin layer of its body, makes the shell from calcium carbonate and adds it to the open edge as the snail grows. Picking 'finds an empty one' mixes it up with hermit crabs, which really do borrow shells.
 6. (match) Match each starfish part to what it does.  
-   **Answer:** Tube feet → walking and gripping; Mouth underneath → eating; Eye at each arm tip → telling light from dark; Ring of nerves → sending messages, with no brain. *Why:* A starfish has no brain. A ring of nerves around its mouth and a nerve in each arm carry its messages.
+   **Answer:** Tube feet → walking and gripping; Mouth underneath → eating; Eye at each arm tip → seeing light, dark and rough shapes; Ring of nerves → sending messages, with no brain. *Why:* A starfish has no brain. A ring of nerves around its mouth and a nerve in each arm carry its messages.
 7. (mcq) A jellyfish washed up on a beach looks like a flat blob. Why?  
    Options: It has broken bones / It has no skeleton, and the sea is no longer holding it up / It has dried into stone / It has turned into a different animal  
    **Answer:** It has no skeleton, and the sea is no longer holding it up. *Why:* A jellyfish is mostly water, with no bones or armour. In the sea, the water holds its shape. Out of water it collapses. Picking 'broken bones' mixes jellyfish up with fish. Jellyfish have no bones at all.
 8. (truefalse) If you cut an earthworm in two, you always get two worms.  
    **Answer:** False. *Why:* False. An earthworm cut in two usually dies. Sometimes the front part can grow a new tail. The back part cannot grow a new head.
-9. (mcq) Remember the Armour Tubes experiment? You made a round tube, a square tube and a zigzag from paper, and added notebooks on top until each one crumpled. Which shape held the most?  
-   Options: The zigzag / The round tube / The square tube / All the same  
-   **Answer:** The round tube. *Why:* The round tube held the most. A tube spreads the weight evenly all the way round, so it is strong without being heavy. Insect and crab legs are tubes of armour for the same reason.
+9. (mcq) Remember the Armour Tubes experiment? You stood three paper columns of one shape under a board, round tubes, square tubes or zigzags, and added books until they crumpled. Which shape held the most?  
+   Options: The zigzags / The round tubes / The square tubes / All the same  
+   **Answer:** The round tubes. *Why:* The round tubes held the most. A tube spreads the weight evenly all the way round, so it is strong without being heavy. Insect and crab legs are tubes of armour for the same reason.
 10. (mcq) Remember the Many Small Suckers experiment? You hung a bag from rubber suckers on a tile and added cups of rice until they popped off. One sucker held 3 cups and four suckers held 11 cups. What does that show about a starfish's tube feet?  
    Options: Small grips add up to a strong hold / Only one tube foot works at a time / Tube feet are made of rubber / More suckers hold less  
    **Answer:** Small grips add up to a strong hold. *Why:* Each tube foot grips only a little, but hundreds of them together hold very tightly. Picking 'only one at a time' would mean four suckers held the same as one, but they held much more.
@@ -784,7 +791,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    Options: Suckers get stronger together / Some suckers may be pressed on less well, or pulled at an angle, so they do not share the load equally / Rice gets heavier / The tile got bigger  
    **Answer:** Some suckers may be pressed on less well, or pulled at an angle, so they do not share the load equally. *Why:* In a real test, things are never perfect. One sucker may pop first because it is pulled harder or stuck less well, and then the rest go too. Picking 'stronger together' would give more than 12, not less.
 8. (truefalse) Scientists all agree that crabs and octopuses feel pain exactly as we do.  
-   **Answer:** False. *Why:* False. Crabs and octopuses act as if they feel pain, and some laws now protect them. But scientists still argue about what, if anything, they feel. We cannot yet tell from the outside.
+   **Answer:** False. *Why:* False. Crabs and octopuses feel pain: they guard a hurt leg and stay away from places where they were hurt. But their bodies and nerves are built very differently from ours, so their pain may not feel exactly like ours. Some scientists still say these are only reflexes.
 9. (mcq) In 1668 Francesco Redi put meat in open jars and in jars covered with cloth. Maggots appeared only on the meat in the open jars. What did this show?  
    Options: Maggots grow from meat by themselves / Maggots come from eggs laid by flies / Cloth makes maggots / Meat goes bad only in open jars  
    **Answer:** Maggots come from eggs laid by flies. *Why:* Flies could reach only the open jars, and only those got maggots. So maggots hatch from fly eggs. Picking 'grow from meat by themselves' was the old idea his experiment ended.
@@ -805,9 +812,9 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** Because new insects, worms and sea animals are found every year, and places like the deep sea are hardly explored. *Why:* Every year scientists name thousands of new invertebrates. Huge places, like the deep sea floor and rainforest treetops, are barely explored. But nobody knows the exact number, so estimates differ a lot.
 
 ## Videos
-- **How an earthworm moves, filmed close up** (a nature channel such as BBC Earth or a university biology channel, 3 min) id `F2DBLBejpLM`: Shows the ring muscles squeezing and the body stretching, the same thing the Water Bones balloon showed. *Check:* Found by YouTube search: "Exploring Invertebrates - How Do Earthworms Move" by The Nature Realm. Title checked automatically; a parent may still preview it.
-- **A crab or cicada moulting out of its old exoskeleton** (a nature channel such as BBC Earth or National Geographic, 4 min) id `f1dnocPQXDQ`: Real footage of an animal climbing out of its own armour, the moment the Grow Out of Your Armour activity acts out. *Check:* Found by YouTube search: "Crabs Trade Shells in the Strangest Way | BBC Earth" by BBC Earth. Title checked automatically; a parent may still preview it.
-- **Starfish tube feet and how sea stars move** (an aquarium or marine science channel, such as Monterey Bay Aquarium, 3 min) id `JnSER1jVm98`: Shows hundreds of tube feet gripping glass from underneath, which the Many Small Suckers experiment models. *Check:* Found by YouTube search: "Fast Ocean Facts — Where Is A Starfish's Butt?" by Monterey Bay Aquarium. Title checked automatically; a parent may still preview it.
+- **Exploring Invertebrates: How Do Earthworms Move?** (The Nature Realm, 3 min) id `F2DBLBejpLM`: Shows the ring muscles squeezing and the body stretching, the same push you saw when the water rose up the bottle neck. *Check:* Found by YouTube search: "Exploring Invertebrates - How Do Earthworms Move" by The Nature Realm. Only the title was checked; a parent should preview it.
+- **Crabs Trade Shells in the Strangest Way** (BBC Earth, 4 min) id `f1dnocPQXDQ`: Hermit crabs cannot make their own shells, so they line up and swap into bigger empty ones. Compare them with the snail and the argonaut in the story, which build their own. *Check:* Found by YouTube search: "Crabs Trade Shells in the Strangest Way | BBC Earth" by BBC Earth. Only the title was checked; a parent should preview it.
+- **Fast Ocean Facts: Where Is a Starfish's Butt?** (Monterey Bay Aquarium, 3 min) id `JnSER1jVm98`: A short aquarium video about how a sea star's body is laid out, with its mouth underneath and its five matching parts. *Check:* Found by YouTube search: "Fast Ocean Facts — Where Is A Starfish's Butt?" by Monterey Bay Aquarium. Only the title was checked; a parent should preview it.
 
 ## Quiz
 1. (mcq) What is a backbone?  
@@ -819,12 +826,12 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 3. (mcq) Out of every 100 named kinds of animal, about how many have no backbone?  
    Options: About 5 / About 50 / About 95 / None  
    **Answer:** About 95. *Why:* About 95 out of 100 kinds of animal are invertebrates. Picking 5 swaps the numbers: animals with a backbone are the small group.
-4. (mcq) Remember the Backbone Census? You counted the kinds of animal in one small patch, and sorted them into animals with a backbone and without one. Most families find many more kinds without a backbone. Why?  
-   Options: Backbone animals are all asleep / Small animals can live in many tiny places, like under stones and on leaves / Small animals are not really animals / Only small animals live in gardens  
-   **Answer:** Small animals can live in many tiny places, like under stones and on leaves. *Why:* Small invertebrates fit into many more tiny homes than big animals do. Picking 'not really animals' is a common habit of thinking. Ants and worms are animals too.
+4. (mcq) Remember the Backbone Census? You looked for animals in and around your home. Most families find more kinds without a backbone. Why?  
+   Options: Backbone animals are all asleep / Small animals can live in many tiny places, like cracks, corners and plant pots / Small animals are not really animals / Only small animals live in flats  
+   **Answer:** Small animals can live in many tiny places, like cracks, corners and plant pots. *Why:* Small invertebrates fit into many more tiny homes than big animals do. Picking 'not really animals' is a common habit of thinking. Ants and flies are animals too.
 5. (mcq) How does an earthworm stay firm without bones?  
    Options: It has a shell inside / It is full of liquid squeezed tight by its muscles / It dries out in the sun / It holds its breath  
-   **Answer:** It is full of liquid squeezed tight by its muscles. *Why:* A worm has a water skeleton. Its muscles squeeze the liquid inside, like a full water balloon. Picking 'a shell inside' is a guess, but worms have no hard parts at all.
+   **Answer:** It is full of liquid squeezed tight by its muscles. *Why:* A worm has a water skeleton. Its muscles hold the liquid in tight, like a cap on a bottle full of water. Picking 'a shell inside' is a guess, but worms have no hard parts at all.
 6. (mcq) Which animal wears its skeleton on the outside, like armour?  
    Options: A cow / A crab / A jellyfish / An earthworm  
    **Answer:** A crab. *Why:* A crab has an exoskeleton, a hard skeleton on the outside. Picking the jellyfish forgets that a jellyfish has no skeleton at all.
@@ -834,18 +841,18 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 8. (mcq) Which of these is NOT an insect?  
    Options: An ant / A mosquito / A spider / A honeybee  
    **Answer:** A spider. *Why:* A spider is an arachnid, with 8 legs. Ants, mosquitoes and bees all have 6 legs.
-9. (mcq) Remember the Water Bones experiment? You filled long balloons with a little water, half full, and full and tight, and measured how much each drooped over a table edge. Why did the full, tight balloon droop the least?  
-   Options: It was the lightest / Water packed in tight pushes out on every side and holds the shape / It had air in it / It was a different colour  
-   **Answer:** Water packed in tight pushes out on every side and holds the shape. *Why:* Water cannot be squashed, so when it is packed in tight it holds the balloon firm. That is how a worm stays firm. Picking 'lightest' is wrong: the full balloon was the heaviest.
+9. (mcq) Remember the Water Bones experiment? You laid pairs of plastic bottles under a board and piled books on top: open and empty, capped with air, and capped with water. Why did the capped bottles of water sink the least?  
+   Options: They were the lightest / Water held in tight cannot be squashed, so it pushes back / They had air in them / They were a different colour  
+   **Answer:** Water held in tight cannot be squashed, so it pushes back. *Why:* Water cannot be squashed, and the caps kept it from escaping, so it held the bottles firm. That is how a worm stays firm. Picking 'lightest' is wrong: the water bottles were the heaviest.
 10. (mcq) In a fair test of the paper tubes, what should you keep the same?  
-   Options: Nothing, change everything / The paper size and kind, and the way you add notebooks / Only the shape / The person doing it  
-   **Answer:** The paper size and kind, and the way you add notebooks. *Why:* In a fair test you change only one thing, the shape, and keep everything else the same. Picking 'only the shape' gets it backwards: the shape is the one thing you change.
+   Options: Nothing, change everything / The paper size and kind, and the way you add books / Only the shape / The person doing it  
+   **Answer:** The paper size and kind, and the way you add books. *Why:* In a fair test you change only one thing, the shape, and keep everything else the same. Picking 'only the shape' gets it backwards: the shape is the one thing you change.
 11. (mcq) A starfish is a closer cousin of yours than of a snail. What does this tell us about the word 'invertebrate'?  
    Options: It is one close family / It is not one family. It just means every animal that is not a vertebrate / Starfish have backbones / Snails are vertebrates  
    **Answer:** It is not one family. It just means every animal that is not a vertebrate. *Why:* 'Invertebrate' groups animals by something they lack. It holds many separate branches. Picking 'starfish have backbones' is not right: they have no bones, but they share our branch of the family tree.
-12. (mcq) Which of these is still an open question that scientists argue about?  
-   Options: Whether spiders have 8 legs / Whether insects like ants can feel pain / Whether worms have backbones / Whether crabs moult  
-   **Answer:** Whether insects like ants can feel pain. *Why:* Leg counts, backbones and moulting are settled. Whether insects can feel pain is still argued. Picking the others mixes up open questions with things scientists have checked many times.
+12. (mcq) Which of these do scientists still argue about?  
+   Options: Whether spiders have 8 legs / Whether an ant's pain feels like ours / Whether worms have backbones / Whether crabs moult  
+   **Answer:** Whether an ant's pain feels like ours. *Why:* Leg counts, backbones and moulting are settled. Ants sense and react to harm, but nobody knows how to look at a feeling from the inside of another body. Picking the others mixes up open questions with things scientists have checked many times.
 13. (mcq) You find a snail after rain and want to look at it. What is the kind way?  
    Options: Keep it in a closed jar for a week / Hold it gently by its shell, watch it for a few minutes, put it back where you found it and wash your hands / Pull it out of its shell to see inside / Put salt on it to see what happens  
    **Answer:** Hold it gently by its shell, watch it for a few minutes, put it back where you found it and wash your hands. *Why:* Watch kindly, for a short time, and return the animal where you found it. Salt hurts snails badly, and a snail cannot leave its shell. Wash your hands, because snails can carry germs.
@@ -879,7 +886,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 ## Open questions
 - **How many kinds of animal without a backbone are there on Earth?** Most of them have never been seen by scientists. Estimates go from a few million to many millions.
 - **Which group branched off the animal family tree first: sponges or comb jellies?** Different studies of genes give different answers. Scientists are still arguing.
-- **Can insects, worms or jellyfish feel pain or anything at all?** We can only watch what animals do from the outside. Nobody knows how to measure what an animal feels.
+- **What is it like to be an ant, a worm or a jellyfish?** They sense, feel and react, and we can watch what they do. But nobody knows how to look at a feeling from the inside of another body.
 - **Why are there no giant insects on land today?** Oxygen in the air, heavy armour and hungry birds may all play a part. Nobody knows which matters most.
 - **How can a starfish, with no brain, decide which way to go?** Scientists are studying how its arms share messages, but they do not fully understand it yet.
 - **How does a tardigrade survive drying out, freezing and even space?** Scientists have found special proteins that help, but they do not yet know the whole story.
@@ -921,9 +928,9 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - Why did the starfish blush? *Because it saw the sea weed.*
 
 ## Connected maths
-- In the Backbone Census, a family found 2 kinds of animal with a backbone and 11 kinds without. How many more kinds without a backbone did they find? **9 more kinds.**. They found 11 kinds without a backbone and 2 kinds with one. 11 take away 2 is 9. So they found 9 more kinds of invertebrate. You can check: 2 + 9 = 11. (queues `math.addition-subtraction.word-problems.L3`)
+- In the Backbone Census, a family found 4 kinds of animal with a backbone and 9 kinds without. How many more kinds without a backbone did they find? **5 more kinds.**. They found 9 kinds without a backbone and 4 kinds with one. 9 take away 4 is 5. So they found 5 more kinds of invertebrate. You can check: 4 + 5 = 9. (queues `math.addition-subtraction.word-problems.L3`)
 - In the Leg Count Key, you looked at 3 ants and 2 spiders. An ant has 6 legs and a spider has 8. How many legs are there altogether? **34 legs.**. 3 ants have 3 groups of 6 legs. 6 + 6 + 6 = 18. 2 spiders have 2 groups of 8 legs. 8 + 8 = 16. 18 + 16 = 34 legs altogether. (queues `math.multiplication.equal-groups.L3`)
-- In the Water Bones experiment, the balloon with a little water drooped 8 cm. The full, tight balloon drooped 1 cm. How much less did the full balloon droop? **7 cm less.**. The little-water balloon drooped 8 cm. The full one drooped just 1 cm. 8 take away 1 is 7. So the full balloon drooped 7 cm less. It was much firmer. (queues `math.length.standard-units-length.L3`)
+- In Water Bones, the board sank 5 cm on the open empty bottles, 1 cm on the capped bottles of air, and 0 cm on the capped bottles of water. Put the pairs in order from firmest to softest. Which pair is most like an earthworm, and why? **Capped water (0 cm), then capped air (1 cm), then open and empty (5 cm). The capped water bottles are most like an earthworm.**. The less the board sank, the firmer the pair. 0 is less than 1, and 1 is less than 5. So the order is capped water, capped air, open and empty. An earthworm is like the capped water bottles: liquid held in tight, which cannot be squashed. The air bottles sank a little, because air can be squashed a little. (queues `math.length.standard-units-length.L3`)
 - In the Many Small Suckers experiment, one sucker held 3 cups of rice. If every sucker held the same, how many cups should 4 suckers hold? **12 cups.**. 4 suckers each holding 3 cups is 4 groups of 3. 3 + 3 + 3 + 3 = 12. So 4 suckers should hold 12 cups. In the made-up results they held 11, a little less, because real suckers do not share the load perfectly. (queues `math.multiplication.equal-groups.L3`)
 - The Bottle Wormery started on a Monday and lasts 14 days. You look on day 1, day 3, day 7, day 10 and day 14. How many days are there between the day 7 look and the day 14 look? **7 days, which is one week.**. Day 14 take away day 7 is 7. So there are 7 days between the two looks. That is one whole week, so the last look is on a Monday too. (queues `math.time.calendar.L3`)
 
@@ -940,14 +947,12 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [Nature Conservation Foundation](https://www.ncf-india.org) · interactive: An Indian group that studies wildlife, from coral reefs to mountains. Its pages have stories about Indian sea life.
 
 ## Things to buy
-- [A magnifying glass, or a bug viewer box with a lens in the lid](https://www.amazon.in/s?k=bug+viewer+magnifying+box+kids) (tool): To look closely at legs, body parts and tube feet without touching the animal. Used in a1, a2, a3. Used again in Animals Around Us L3 and Plant Parts L3.
-- [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): To measure the droop in the Water Bones experiment and the paper shapes in Armour Tubes. Used in e1, e2. 
-- [Long modelling balloons](https://www.amazon.in/s?k=long+modelling+balloons) (material): Long balloons are the best pretend worms for the Water Bones experiment. Used in e1. 
+- [A magnifying glass, or a bug viewer box with a lens in the lid (optional)](https://www.amazon.in/s?k=bug+viewer+magnifying+box+kids) (tool): To look closely at legs, body parts and tube feet without touching the animal. Used in a1, a2, a3. Used again in Animals Around Us L3 and Plant Parts L3.
 - [Small rubber suction cups with hooks, a pack of 4 or more](https://www.amazon.in/s?k=small+suction+cup+hooks) (material): For the Many Small Suckers experiment, to model a starfish's tube feet. Used in e3. 
-- [A picture guide to Indian insects, spiders or seashore life](https://www.amazon.in/s?k=insects+of+india+field+guide) (book): To name what you find in the Backbone Census and on walks. Used in a1, a2. Keep it by the door. After each census or walk, look up one new animal and add it to your Backbone Census sheet.
+- [A picture guide to Indian insects, spiders or seashore life](https://www.amazon.in/s?k=insects+of+india+field+guide) (book): To name what you find in the Backbone Census and on walks. Used in a1, a2. Keep it near a window. After each census or walk, look up one new animal and add it to your Backbone Census sheet.
 
 ## Warm-up
-- Backbone or no backbone: an earthworm? → No backbone. It is held firm by water.
+- Backbone or no backbone: an earthworm? → No backbone. It is held firm by liquid held tight inside it.
 - How many legs does an insect have? → 6.
 - How many legs does a spider have? → 8. Spiders are not insects.
 - Is a starfish a fish? → No. It has no backbone and no gills. It is a sea star.
@@ -955,7 +960,7 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - Why must a crab moult? → Its armour cannot stretch, so it climbs out to grow.
 - Out of 100 kinds of animal, about how many have no backbone? → About 95.
 - What holds up a jellyfish? → The sea. Out of water it collapses.
-- Who makes a snail's shell? → The snail itself, from chalky stuff in its food and water.
+- Who makes a snail's shell? → The snail itself, from calcium carbonate, the material chalk is made of.
 - Which is a closer cousin of yours: a starfish or a snail? → A starfish.
 
 ## Plan
@@ -966,11 +971,11 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 ## Sources
 - Founder's notebook item bio:177, 'Invertebrates (sponges, cnidarians, worms, mollusks, arthropods, echinoderms)', used as the outline, with sponges and comb jellies in the explanations and open questions
 - ideas/by_topic/evolution-the-tree-of-life.md and how-life-began.md: the founder's story of the cnidarians as the first venomous animals with stinging cells, the protostomes (molluscs, annelids, arthropods) with shells and exoskeletons, cephalopods with camera eyes, trilobites, and the first arthropods walking on land, used in the jellyfish, family tree and deep time explanations and the challenge worksheet
-- ideas/scientists.json SCI Card for Charles Darwin, 'Every living thing on Earth is your relative', used in the deep truth and the family tree explanation. Darwin's earthworm work was used in the Bottle Wormery
+- ideas/scientists.json SCI Card for Charles Darwin, 'Every living thing on Earth is your relative', used in the family tree explanation and the roots thread. Darwin's earthworm work was used in the Bottle Wormery
 - Combined lesson app/content/combined/sci-C2-kinds-of-living-things-and-sorting-them.json: the 'Feel your backbone' activity (used to open the Backbone Census) and the animal families card game idea (rebuilt as Backbone or Not? with trick cards)
 - Combined lesson app/content/combined/sci-C3-kinds-of-living-things-and-sorting-them.json: the minibeast key with legs, shells and segments, improved into the Leg Count Key, and the 'Guess who' yes or no question game, rebuilt as Guess My Minibeast
-- Combined lessons sci-C1-habitats-and-adaptation.json and sci-C3-habitats-and-adaptation.json: looking under stones and in leaf litter for woodlice, ants, worms, millipedes and centipedes, and putting stones back exactly, used in the Backbone Census
-- app/content/PHILOSOPHY.md library: Indra's net (Avatamsaka Sutra) and the Charvaka view, used in roots
+- Combined lessons sci-C1-habitats-and-adaptation.json and sci-C3-habitats-and-adaptation.json: looking for small animals in leaf litter and corners, moved indoors for the Backbone Census so it works in a flat
+- app/content/PHILOSOPHY.md: the stance that animals feel, remember and decide, used in the explanation of small animals' minds and in roots
 - Darwin, The Formation of Vegetable Mould through the Action of Worms, 1881
 - Redi, Esperienze intorno alla generazione degl'insetti, 1668 (maggots come from fly eggs)
 - Villepreux-Power, Observations et experiences physiques sur plusieurs animaux marins et terrestres, 1839 (argonauts make and repair their shells)
@@ -982,3 +987,7 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - Nath and others, Current Biology 2017, 'The jellyfish Cassiopea exhibits a sleep-like state'
 - Schultz and others, Nature 2023, 'Ancient gene linkages support ctenophores as sister to other animals'
 - Owen, Wildlife of a Garden: A Thirty-Year Study, Royal Horticultural Society, 2010
+- Wittlinger, Wehner and Wolf, Science 2006, 'The ant odometer: stepping on stilts and stumps'
+- Crook, Current Biology 2021, 'Behavioral and neurophysiological evidence suggests affective pain experience in octopus'
+- Garm and Nilsson, Proceedings of the Royal Society B 2014, 'Visual navigation in starfish: first evidence for the use of vision and eyes in starfish'
+- Lamarck, Système des animaux sans vertèbres, 1801
