@@ -63,19 +63,19 @@ The air in your room right now has water vapour in it. You cannot see it, smell 
 ### Condensation: water coming back out of the air · *defined*
 **Definition:** Condensation is water vapour cooling down and turning back into tiny drops of liquid water. It happens when vapour touches something cold, or when air cools as it rises.
 
-Cold makes molecules slow down. When slow molecules of vapour bump into each other, they stick together and make a drop. That is condensation, and it is evaporation run backwards. So any cold surface collects water from the air. A steel tumbler of ice gets wet on the outside. The inside of a lid over hot rice drips. The grass gets dew on a cool night. Air that rises up a mountain or high into the sky also cools, and its vapour condenses into clouds.
+Cold makes molecules slow down. When vapour molecules touch a cold surface, they slow down, stick to it and to each other, and make drops. That is condensation, and it is evaporation run backwards. So any cold surface collects water from the air. A steel tumbler of ice gets wet on the outside. The inside of a lid over hot rice drips. The grass gets dew on a cool night. Air that rises up a mountain or high into the sky also cools, and its vapour condenses into clouds.
 - e.g. A cold steel tumbler gets wet on the outside on a sticky day. The drops came from the air, not through the steel.
 - e.g. The underside of the lid on a pot of hot dal is covered in drops.
 - e.g. Car windows mist up from the inside when a whole family breathes in a closed car.
 ### Clouds: tiny drops on specks of dust · *defined*
 **Definition:** A cloud is a huge crowd of tiny water drops, or tiny ice crystals, floating in the air. Each drop forms around a speck of dust, salt, smoke or pollen.
 
-Vapour finds it hard to make a drop out of nothing. It needs something to stick to. In the air there are billions of tiny specks: dust, salt from sea spray, smoke and pollen. Vapour condenses onto them, and each speck grows into a cloud drop. A Scottish scientist, John Aitken, showed this in 1880. He filtered all the dust out of air in a jar, and then it would not make a cloud. Cloud drops are tiny, about one hundredth of a millimetre across. They are so small and light that rising air holds them up, and they fall very slowly. But a cloud is not light. An American cloud scientist, Peggy LeMone, worked out that one ordinary puffy cloud holds about 500,000 kilograms of water. That is as heavy as about 100 elephants, spread out over a huge space.
+Vapour finds it hard to make a drop out of nothing. It needs something to stick to. In the air there are billions of tiny specks: dust, salt from sea spray, smoke and pollen. Vapour condenses onto them, and each speck grows into a cloud drop. A Scottish scientist, John Aitken, showed this in 1880. He filtered all the dust out of air in a jar, and then it would not make a cloud. Cloud drops are tiny, about one hundredth of a millimetre across. They are so small and light that rising air holds them up, and they fall very slowly. But a whole cloud is heavy. An American cloud scientist, Peggy LeMone, worked out that one ordinary puffy cloud holds about 500,000 kilograms of water. That is as heavy as about 100 elephants, spread out over a huge space.
 - e.g. Smoke from an agarbatti, an incense stick, helps the cloud in a jar form much faster.
 - e.g. Over the sea, tiny grains of salt from sea spray are the seeds of many cloud drops.
 - e.g. Clouds look white because their billions of drops scatter sunlight. Very thick clouds look grey or dark because less light gets through.
 ### How cloud drops become raindrops · *debated*
-A raindrop is about 100 times wider than a cloud drop. So it takes about a million cloud drops to make one raindrop. Scientists agree on two ways this happens. But in warm clouds over India, rain often forms faster than these ideas can fully explain. How exactly it happens so fast is still being studied.
+A raindrop is about 100 times wider than a cloud drop. So it takes about a million cloud drops to make one raindrop. Scientists know two ways this happens. But in warm clouds over India, rain often forms faster than these ideas can fully explain. How exactly it happens so fast is still being studied.
 - e.g. Rain can pour out of a big monsoon cloud within half an hour of it forming.
 - e.g. In cold clouds, high up, rain often starts as snow and melts on the way down.
 - e.g. One raindrop holds about as much water as a million cloud drops.
@@ -87,7 +87,7 @@ A raindrop is about 100 times wider than a cloud drop. So it takes about a milli
 
 Drizzle is very small drops from low, thin clouds. Rain is bigger drops. Snow is ice crystals that stay frozen all the way down, as in Kashmir and Ladakh in winter. Hail is balls of ice from huge storm clouds. Strong rising winds keep them up inside the cloud, where they collect layer after layer of ice, like an onion. Raindrops are not shaped like teardrops. Small ones are round. Bigger ones are squashed flat at the bottom, like a burger bun, by the air they fall through. Very big drops wobble and break apart before they reach the ground.
 - e.g. A cut-open hailstone shows rings, like an onion. Each ring is a layer of ice it collected while the winds kept it up in the cloud.
-- e.g. Snow falls in Gulmarg in winter. The same kind of cloud over Delhi would give rain.
+- e.g. Snow falls in Gulmarg in winter. The same kind of cloud over Delhi would give rain, because the warmer air near the ground melts the snow on the way down.
 - e.g. Drawings of raindrops as teardrops are wrong. Real falling drops look like little buns.
 ### Why rain is fresh but the sea is salty · *defined*
 **Definition:** When sea water evaporates, only the water goes up into the air. The salt stays behind. So rain is fresh water, even though most of it rose from the salty sea.
@@ -100,8 +100,8 @@ Salt is dissolved in the sea, about 6 teaspoons in every litre. When the Sun war
 **Definition:** Transpiration is plants giving off water vapour through tiny holes in their leaves. The water is pulled up from the roots, through the stem, to the leaves.
 
 A plant drinks through its roots. Most of that water does not stay in the plant. It travels up the stem and leaves through tiny holes, too small to see, on the underside of leaves. As this water evaporates, it pulls more water up behind it, like sipping through a straw. A big tree can give off more than a hundred litres on a hot day. So a forest puts a huge amount of invisible water vapour into the air. Some of the rain that falls far inland, in Central India or the Amazon rainforest, has already been through the leaves of trees on the way. Scientists think more than half of the water rising from land comes out through plants. Exactly how much is still argued about.
-- e.g. A clear bag tied over a leafy branch fills with mist in an hour.
-- e.g. A wet patch under a tree is cooler, partly because its leaves give off water.
+- e.g. A clear bag tied over a leafy branch in the sun turns misty inside within an hour.
+- e.g. The shade of a tree feels cooler than the shade of a wall, partly because its leaves give off water, and evaporation takes heat away.
 - e.g. In the Amazon, water goes from rain to tree to cloud to rain again, many times, as the winds carry it inland.
 ### The Sun's energy drives the water cycle · *defined*
 **Definition:** The Sun's energy drives the water cycle. Water needs energy to evaporate. When the vapour condenses into cloud drops, that energy comes out again as heat.
@@ -130,7 +130,7 @@ Everyone agrees on what the monsoon does. Why it happens is a harder question. S
 The water cycle has fast parts and slow parts. Water in the air comes down again in about 9 days on average. Water in a river reaches the sea in a few weeks or months. In the deep sea, a drop may stay for about 3,000 years before it evaporates again. Deep groundwater can wait thousands of years. The ice deep in Antarctica is the slowest of all. Scientists have drilled out Antarctic ice that froze about 800,000 years ago, and found tiny bubbles of ancient air inside it.
 - e.g. Rain from a monsoon cloud today was probably sea water less than two weeks ago.
 - e.g. A drop that sinks into the deep sea may not rise again for 3,000 years.
-- e.g. Some ice in Antarctica has been frozen since long before the first humans.
+- e.g. Some ice in Antarctica froze long before the first modern humans, about 300,000 years ago.
 ### People are part of the water cycle now · *defined*
 **Definition:** People now change the water cycle a lot. Dams, canals, borewells and cities move huge amounts of water, and a warmer world puts more water vapour into the air.
 
@@ -145,13 +145,13 @@ Some tiny living things, too small to see, are carried high into the clouds by t
 ### Rain on other worlds · *defined*
 **Definition:** Other worlds have their own weather cycles. On Titan, Saturn's biggest moon, it rains liquid methane, which fills rivers and lakes.
 
-Titan is so cold, about 180 degrees below zero, that water is rock-hard ice there. But methane, which is a gas on Earth, is a liquid on Titan. It evaporates from lakes, makes clouds, and falls as slow, heavy rain. It carves rivers and fills seas. In January 2005, a probe called Huygens landed on Titan and photographed river channels and pebbles. Another spacecraft, Cassini, flew past Titan many times and found big lakes and seas near its poles. Venus has clouds of sulphuric acid, a strong acid. Acid drops fall from them, but the air below is so hot that they evaporate long before they reach the ground. So going up, coming down and going round is not something only water does.
+Titan is so cold, about 180 degrees below zero, that water is rock-hard ice there. But methane, which is a gas on Earth, is a liquid on Titan. It evaporates from lakes, makes clouds, and falls as slow, heavy rain. It carves rivers and fills seas. In January 2005, a probe called Huygens landed on Titan and photographed river channels and pebbles. Another spacecraft, Cassini, flew past Titan many times and found big lakes and seas near its poles. Venus has clouds of sulphuric acid, a strong acid. Acid drops fall from them, but the air below is so hot that they evaporate long before they reach the ground. So a cycle of evaporation, clouds and rain can happen with other liquids too.
 - e.g. Titan is the only place we know, other than Earth, with rain, rivers and lakes on its surface today.
 - e.g. On Venus, acid drops fall from the clouds but evaporate high above the ground.
 ### How people found out that rain feeds rivers · *defined*
 **Definition:** We know that rivers and springs are fed by rain and melting snow, because people measured the rain and the rivers and found the rain was more than enough.
 
-For about two thousand years, many learned people thought rain was far too little to keep rivers flowing all year. They believed rivers were fed by sea water rising through secret passages under the mountains. In 1580, Bernard Palissy, a French potter who never went to university, wrote that rivers and springs come only from rain soaking into the ground. Scholars took little notice of him. About a hundred years later, Pierre Perrault measured the rain falling around the top of the river Seine for three years. In 1674, he showed it was about six times more than the river carried. Edmond Halley then measured how fast water evaporates from a pan. He showed that the Sun lifts enough water from the sea to make all the rain.
+For about two thousand years, many learned people thought rain was far too little to keep rivers flowing all year. They believed rivers were fed by sea water rising through secret passages under the mountains. In 1580, Bernard Palissy, a French potter who never went to university, wrote that rivers and springs come only from rain soaking into the ground. Scholars took little notice of him. About ninety years later, Pierre Perrault measured the rain falling on the land around the start of the river Seine for three years. In 1674, he showed it was about six times more than the river carried. Edmond Halley then measured how fast water evaporates from a pan. He showed that the Sun lifts enough water from the sea to make all the rain.
 - e.g. Palissy was right, but he had no measurements, so few people believed him.
 - e.g. You can do Perrault's kind of work at home: measure the rain with a bottle, and the evaporation with a plate.
 
@@ -159,7 +159,7 @@ For about two thousand years, many learned people thought rain was far too littl
 - Water goes round and round between the sea, the air and the land. Very little water leaves the Earth or arrives from space. *How we know:* Scientists measure rain, river flow and evaporation all over the world. Year after year, the water that goes up and the water that comes down roughly balance.
 - Clouds are made of tiny liquid drops or ice crystals, not of water vapour. *How we know:* Aeroplanes fitted with instruments fly through clouds and collect the drops. Vapour is invisible, but clouds can be seen, because their drops scatter light.
 - When sea water evaporates, the salt stays behind. So rain is fresh water. *How we know:* Salt pans have made salt this way for thousands of years. Rain water tested near the sea has almost no salt in it.
-- The Sun's energy drives evaporation, and that energy comes out again when vapour condenses into clouds. *How we know:* Wet skin cools as water evaporates. Weather balloons show that air warms up inside growing clouds, where vapour is condensing.
+- The Sun's energy drives evaporation, and that energy comes out again when vapour condenses into clouds. *How we know:* Wet skin cools as water evaporates. Weather balloons show that air rising inside a cloud cools more slowly than dry rising air, because condensing vapour gives out heat.
 - Rivers and springs are fed by rain and melting snow. *How we know:* In 1674, Pierre Perrault showed that the rain around the river Seine was about six times more than the river carried. River levels across India rise after the monsoon rain.
 - Warmer air can hold more water vapour, so a warmer world gets heavier downpours. *How we know:* This follows from basic physics, and weather records show it. Studies of India's rain since 1950 find more days of very heavy rain over central India.
 
@@ -193,13 +193,13 @@ For about two thousand years, many learned people thought rain was far too littl
 ## Roots
 We have been learning how water goes up into the air, turns into clouds and comes down as rain. Now we ask what the water cycle tells us about ourselves and the world.
 
-**Deep truth.** The air in an 'empty' room holds water you cannot see. Cool that air, and drops appear on a cold plate. A cloud forms the same way: the water was already in the air, and cooling made it visible. So seeing nothing does not mean nothing is there.  
+**Deep truth.** The air in a room that looks empty holds water you cannot see. Cool that air, and drops appear on a cold plate. A cloud forms the same way, from water already in the clear sky. So clear air is not empty: our eyes simply cannot see water as a gas.  
 *Habit it breaks:* We call air that looks clear 'empty', and we think a cloud is water arriving in the sky. But water vapour is invisible, so our eyes cannot tell us whether water is there.  
 *Evidence:* In A Cloud in a Jar, a cloud appeared in clear air as soon as the icy plate cooled it. Your breath misted a cold plate, then vanished into the air again. In The Cold Tumbler, clear, plain drops came out of the room's air.
 
 - *who am i:* More than half of your body is water. Every breath you breathe out carries some of it into the air, where nobody can see it.
 - *what is life:* Life is part of the water cycle. Plants lift water from the soil and give it to the air. Animals drink the rain and give it back.
-- *what is this world:* A world where the sea becomes sky, and the sky becomes rivers, again and again. Much of this journey happens where we cannot see it.
+- *what is this world:* In this world, sea water rises into the sky and comes back down as rain and rivers, again and again. Much of this journey happens where we cannot see it.
 
 The same water is sea, then invisible vapour, then a cloud, rain, a river and part of a neem tree. We give each of these a different name, but it is one water changing form. DeepKids believes the whole world is like this: one source taking many forms, some seen and some unseen. The water cycle is a place where you can watch one water become many things, and come back again.
 
@@ -337,7 +337,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Think: The water in your glass today has its own long bracelet of places. What might be on it?
 ### g2 · Sun, Cold, Heavy! The molecule game (15 min)
 - **rules:** One person is the caller. Everyone else is a water molecule. With only one child, the parent calls and the child plays, then swap.; Everyone starts in the SEA corner, wobbling slowly. That is liquid water.; The caller shuffles the cards, turns one over and shouts what it says.; The molecules must do it as fast as they can. The last one to do it right becomes the next caller.; After 12 cards, everyone says one change they acted out, and its name.
-- **Printable cards: 12 caller cards to shuffle:** SUN! Molecules jiggle fast and spread out all over the room. You are vapour.; COLD! Slow down. Hold hands with one or two others. You are a cloud drop.; HEAVY! Join into a group of four or more, crouch down and 'fall' to the floor. You are rain.; FREEZE! Stand still, holding hands in a pattern. You are ice.; MELT! Let go and wobble slowly around. You are liquid water again.; WIND! Everyone who is vapour drifts to one side of the room.; MOUNTAIN! Vapour molecules must climb onto the 'mountain' cushion and get COLD there.; LEAF! Two molecules crawl up the 'tree' chair and fly off as vapour.; SUN on the SEA! Only molecules in the 'sea' corner can jiggle and spread out.; COLD TUMBLER! Vapour molecules who touch the steel tumbler on the table stick together as dew.; SPECK! The caller drops a cushion. Molecules must gather round it to make a drop.; SALT! One player is salt. When SUN is called, salt cannot fly. It stays in the sea.
+- **Printable cards: 12 caller cards to shuffle:** SUN! Molecules jiggle fast and spread out all over the room. You are vapour.; COLD! Slow down. Hold hands with one or two others. You are a cloud drop.; HEAVY! Join into a group of four or more, crouch down and 'fall' to the floor. You are rain.; FREEZE! Stand still, holding hands in a pattern. You are ice.; MELT! Let go and wobble slowly around. You are liquid water again.; WIND! Everyone who is vapour drifts to one side of the room.; MOUNTAIN! Vapour molecules must climb onto the 'mountain' cushion and get COLD there.; LEAF! Two molecules crawl up the 'tree' chair and fly off as vapour.; SUN on the SEA! Only molecules in the 'sea' corner can jiggle and spread out.; COLD TUMBLER! Vapour molecules who touch the steel tumbler on the table stick together as dew.; SPECK! The caller drops a rolled-up sock on the floor. Molecules must gather round it to make a drop.; SALT! One player is salt. When SUN is called, salt cannot fly. It stays in the sea.
 - **Printable board: Signs for the room:** SEA (a corner); MOUNTAIN (a cushion or a low stool); TREE (a chair); COLD TUMBLER (a steel tumbler on a table)
 - **s1 (3 min)**  
   *Parent does:* 1. Clear a space. 2. Put up the four signs. SEA goes in a corner, MOUNTAIN on a cushion, TREE on a chair, and COLD TUMBLER on a table. 3. Shuffle the caller cards.  
@@ -364,7 +364,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **record:** Fill in the table at the start, after 30 minutes and at the end. Draw your still, with arrows showing where the water went.
 - **results table:** Time | What I see on the cling film | How much water is in the cup | Taste: salty or not salty?
 - **s1 (5 min)**  
-  *Parent does:* 1. Stir 2 teaspoons of salt into 2 cups of warm tap water until it disappears. 2. Let your child taste one drop on a fingertip. 3. Pour all the salty water into the big bowl.  
+  *Parent does:* 1. Stir 2 teaspoons of salt into 2 cups of warm water until it disappears. 2. Let your child taste one drop on a fingertip. 3. Pour all the salty water into the big bowl.  
   *Parent says:* This is our sea. Taste one tiny drop. Salty, isn't it? Real sea water is even saltier, about 6 teaspoons in every litre.  
   *Child mode:* Stir 2 spoons of salt into 2 cups of warm water. Taste one tiny drop. Salty! Pour it into the big bowl. This is your sea.
   - Ask: Where do you think the salt went when you stirred it? (good: It dissolved. It is still in the water, in pieces too small to see.; It is hiding in the water.)
@@ -383,7 +383,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent does:* 1. After 3 to 4 hours, tap the film gently. The last drops run down to the point and drip into the cup. 2. Peel back the film carefully. 3. Lift out the cup without spilling any salty water into it. 4. Each person tastes one drop from the cup.  
   *Parent says:* Let's taste the water in the cup. Remember, the sea water was salty. Is this?  
   *Child mode:* Tap the film so the drops fall in the cup. Lift the cup out carefully. Taste one drop. Is it salty?
-  - Note: On a hot, sunny day, you may get a spoonful or two in the cup. It should taste of plain water. If it tastes salty, some salty water splashed into the cup, so try again more carefully. Is the day cloudy? Then a grown-up sets the bowl over a pan of hot water. Put a bag of ice cubes on the film in place of the pebble. Drops form within 10 minutes.
+  - Note: On a hot, sunny day, you may get one to four teaspoons in the cup. It should taste of plain water. If it tastes salty, some salty water splashed into the cup, so try again more carefully. Is the day cloudy? Then a grown-up sets the bowl over a pan of hot water. Put a bag of ice cubes on the film in place of the pebble. Drops form within 10 minutes.
   - Check: In the Sea in a Bowl experiment, the water in the cup does not taste salty. Why? → **Only the water evaporated. The salt stayed in the bowl.**
 - **s5 (3 min)**  
   *Parent does:* Compare your still with the real water cycle. Point to each part.  
@@ -563,7 +563,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Think: If a cloud is always losing drops and making new ones, is it a thing or something that keeps happening?
 ### a4 · A Rainstorm in the Room: clap and dance the water cycle (15 min)
 - **safety:** Dance on a mat or a carpet, not on a slippery floor.
-- **record:** Draw the four parts of your dance: rising, floating, gathering and falling.
+- **record:** Draw the parts of your dance: rising, floating, gathering, falling and flowing back to the sea.
 - **s1 (6 min)**  
   *Parent does:* Make a rainstorm together, following the leader. 1. Rub palms together: wind. 2. Snap fingers: first drops. 3. Pat your knees: rain. 4. Stamp feet and bang the plate: downpour and thunder. 5. Then go back down in the opposite order, until there is silence.  
   *Parent says:* Copy me. First the wind. Then the first drops. Now the rain is getting heavier. Here comes the downpour! Now it's easing off.  
@@ -605,7 +605,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Child mode:* Write six cards: air, river, puddle, plant, deep sea, Antarctic ice. Peg them in order. Shortest stay first.
 - **s2 (6 min)**  
   *Parent does:* Write the real times on the cards and move them into the right order. A puddle: hours or days. A plant: hours to days. The air: about 9 days. A river: weeks to months. The deep sea: about 3,000 years. Antarctic ice: up to hundreds of thousands of years.  
-  *Parent says:* Water in the air comes down in about 9 days. But a drop in the deep sea may wait 3,000 years. Some ice in Antarctica froze before there were any people.  
+  *Parent says:* Water in the air comes down in about 9 days. But a drop in the deep sea may wait 3,000 years. Some ice in Antarctica froze long before there were any modern humans like us.  
   *Child mode:* Now write the real times. Air: about 9 days. Deep sea: about 3,000 years. Antarctic ice: hundreds of thousands of years! Move your cards.
   - Note: These are rough averages. Scientists compare how much water is in each place with how fast it flows in and out. Scientists have drilled out Antarctic ice about 800,000 years old.
 - **s3 (4 min)**  
@@ -622,7 +622,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **schedule:** day 1: Build the jar garden, water it once, close the lid, and put it in bright light but not in direct sun. (25 min); day 2: Look in the morning and the afternoon. Where are the drops? Draw them. (5 min); day 4: Check again. Are the plants healthy? Is there mist? (5 min); day 7: Check again. Has any water been added? Is the soil still damp? (5 min); day 14: Two weeks without watering. Compare with day 1, and explain the jar's water cycle to someone. (10 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Put the pebbles in the bottom of the jar. 2. Sprinkle the crushed charcoal on top. 3. Add the soil. 4. Make small holes and plant the moss, fern or cutting. Press the soil down gently. 5. Spray or spoon in water until the soil is damp, but no puddle forms at the bottom.  
-  *Parent says:* We're building a tiny world. The pebbles are the ground under the ground. The plants will drink. And once we close the lid, no water can get in or out.  
+  *Parent says:* We're building a tiny world. The pebbles at the bottom hold extra water away from the roots. The plants will drink from the soil. And once we close the lid, no water can get in or out.  
   *Child mode:* Put pebbles in the jar. Then charcoal. Then soil. Plant your little plants. Add water until the soil is damp, not muddy.
   - Note: Too much water is the most common mistake. The soil should feel like a squeezed-out sponge. Moss from a shady wall and a money plant cutting usually do well. Avoid cactus and plants that need full sun.
 - **s2 (5 min)**  
@@ -638,7 +638,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Check: In the closed jar garden, drops form on the inside of the glass. Where did they come from? → **Water evaporated from the soil and leaves, and condensed on the cooler glass**
 - **s4 (15 min)**  
   *Parent does:* On day 14, compare the jar with your day 1 drawing. Then your child explains the jar's water cycle to someone else in the family.  
-  *Parent says:* Two weeks, and we never watered it. In England, a man called David Latimer planted a bottle garden in 1960. He watered it only once more, in 1972. It was still growing more than 40 years later. Tell someone how our jar keeps its plants alive.  
+  *Parent says:* Two weeks, and we never watered it. In England, a man called David Latimer planted a bottle garden in 1960. He watered it only once more, in 1972. It was still growing more than 50 years later. Tell someone how our jar keeps its plants alive.  
   *Child mode:* Two weeks with no watering! Tell someone how the water in your jar goes round. Use the words evaporate and condense.
   - Think: The Earth is a bit like a closed jar in space. What would happen if someone took the lid off?
 
@@ -780,7 +780,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
    **Answer:** Swirling, bumpy air throws drops together more often. *Why:* Scientists think turbulence, swirling air inside clouds, may make tiny drops bump and join much faster. They are still testing this. Picking the Moon mixes this up with the tides.
 2. (mcq) In 1880, John Aitken filtered all the dust out of air in a jar. What happened when he tried to make a cloud?  
    Options: Almost no cloud formed / A thicker cloud formed / It rained inside the jar  
-   **Answer:** Almost no cloud formed. *Why:* Without specks to condense on, vapour could not easily make drops. This showed that clouds need dust, salt or smoke. Picking 'thicker' might seem right, because the air was cleaner. But clean air makes clouds less easily.
+   **Answer:** Almost no cloud formed. *Why:* Without specks to condense on, vapour could not easily make drops. This showed that clouds need dust, salt or smoke. Picking 'thicker' is a natural guess, because clean air sounds better. But with no specks, the vapour had nothing to condense on.
 3. (truefalse) A puffy white cloud weighs almost nothing.  
    **Answer:** False. *Why:* False. Peggy LeMone, a cloud scientist, worked out that an ordinary puffy cloud holds about 500,000 kilograms of water. That is as heavy as about 100 elephants. It floats because its drops are tiny and spread over a huge space, and rising air holds them up.
 4. (mcq) About how many cloud drops join to make one raindrop?  
@@ -805,7 +805,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 11. (mcq) Most water cycle pictures show only sea, clouds, rain and rivers. What did scientists in 2019 say was missing?  
    Options: People: dams, borewells, farms and cities / The Moon / Fish  
    **Answer:** People: dams, borewells, farms and cities. *Why:* People now move huge amounts of water, but most pictures leave us out. Picking fish is a reasonable thought, since animals are part of the cycle too. But the big missing piece was people.
-12. (write) Heraclitus said that new waters keep flowing past people stepping into the same river. Is a river the same river from one day to the next? Give a reason for each side.  
+12. (write) Heraclitus, a thinker in ancient Greece, said that new waters keep flowing past people stepping into the same river. Is a river the same river from one day to the next? Give a reason for each side.  
    **Answer:** A balanced answer. For example: yes, because its banks, its name and its path stay the same. No, because all of its water is different water from yesterday.. *Why:* There is no single right answer. What counts is giving a reason for each side.
 13. (write) Is a cloud a thing, or something that keeps happening? Use something you saw in this unit.  
    **Answer:** For example: a cloud is something happening, because in Cloud Watch my cloud kept changing and then vanished, and in the jar it formed and disappeared in a minute. Or: it is a thing, because I can see it, name it and draw it.. *Why:* Any answer with a reason from what you saw is good.
@@ -872,7 +872,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - Solar stills make drinking water from salty or dirty water in dry places and on lifeboats.
 - Desalination works near Chennai remove the salt from sea water to make drinking water for the city.
 - Weather satellites, such as India's INSAT satellites, photograph clouds to forecast rain and cyclones.
-- India's weather office uses the monsoon's path to tell farmers when to sow.
+- India's weather office, the IMD, tracks where the monsoon has reached and advises farmers when to sow.
 - Pressure cookers and steamers cook food with water vapour.
 - Clothes dryers and drying racks on terraces use sun, heat and wind to speed up evaporation.
 - Air conditioners and dehumidifiers take water out of the air by condensation. That is why an AC drips outside.
@@ -927,7 +927,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - Why was the cloud so good at keeping secrets? *Everything stays up in the air.*
 - What did the sea say to the Sun? *Stop drinking me! But please leave the salt.*
 - Why did the water vapour never get its picture taken? *It was always invisible.*
-- What is a cloud's favourite game? *Rain, rain, go away, come again another day.*
+- Why did the cloud start to rain? *Its drops got too heavy to hold up.*
 - Why did the tumbler start sweating? *It was too cool for the hot weather.*
 - What did the river say when it reached the sea? *Long time, no sea!*
 - How does the monsoon say hello? *It drops in.*
@@ -936,7 +936,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - Why did the snowflake go back to the sea? *It wanted to melt in with the crowd.*
 - Why are raindrops so good at maths? *They always add up to a puddle.*
 - What did the leaf say to the bag? *Excuse me, I'm just letting off some steam.*
-- Why was the cloud in a jar so proud? *It had finally made it, all by itself.*
+- Why did the cloud in a jar want to get out? *It needed some fresh air.*
 - What is the water cycle's favourite dance? *Round and round, then drop it!*
 - Why did the pressure cooker blow its whistle? *It had something to get off its chest.*
 - Why did the drop of sea water feel lighter after evaporating? *It had left all its salt behind.*
@@ -1002,7 +1002,7 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 ## Sources
 - Founder's notes for the water topic (ideas, by topic, water.md), the 'Clouds and Precipitation' row: Cloud in a Bottle with warm water and smoke (used in A Cloud in a Jar), steam condensing on a cold lid (used in the story and Make a Monsoon), the cloud-spotting walk (Cloud Watch), the slow cloud dance with raindrop leaps and the percussion rainstorm from finger snaps to drum rolls (A Rainstorm in the Room), the mime of vapour turning into rain (the molecule game), 'The Cloud Book' by Tomie dePaola (buy), and the raindrop's journey (Round the World Drop). Its philosophy line, 'the seen and unseen interweave', feeds the cards on invisible vapour and the Roots deep truth.
 - Founder's notes, the 'Ocean and atmosphere' row: the monsoon shown with a kettle for evaporation and a chilled plate for condensation (Make a Monsoon), and 'ocean and sky are a single breathing system' (read for Roots).
-- Founder's sheets, HomeSchooling Track: the Morning Dew Walk and breathing on cold metal or glass to watch condensation form and vanish (a2, a1 and the Roots practice). 'Condensation: droplets on a cold bottle' and 'evaporation and cooling' from the Energy row (The Cold Tumbler, The Sun is the engine). Incense smoke in the cloud jar, from the 'Temperature, Humidity, Pressure' row.
+- Founder's sheets, HomeSchooling Track: the Morning Dew Walk and breathing on cold metal or glass to watch condensation form and vanish (a2, a1 and the Roots practice). 'Condensation: droplets on a cold bottle' and 'evaporation and cooling' from the Energy row (The Cold Tumbler, The Sun's energy drives the water cycle). Incense smoke in the cloud jar, from the 'Temperature, Humidity, Pressure' row.
 - Founder's sheets, HomeSchooling Track, STEM Activities websites: Exploratorium, used in links.
 - DeepKids Combined Class 5 Water (combined, sci-C5-water.json): the sweating steel glass, the salt pans, the water cycle that has no start or end, clouds as drops on specks of dust, transpiration, the voices of Palissy, Perrault and Halley, and 'Water's Many Lives' card game. Improved here into e4, e1, the explanations, the challenging views and the bead game. Its story was not reused.
 - DeepKids Combined Class 3 Water (combined, sci-C3-water.json): the sun-and-shade drying plates, improved here into the Evaporation Race. Its rain gauge and Drop's Journey game are already in the sibling unit on water sources, so they were not repeated.
