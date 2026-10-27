@@ -1,7 +1,7 @@
 # Sun, Moon and stars: why the Sun is a star and the Moon is not
 `sci.sky.sun-moon-stars.L3`
 
-**Summary.** The Sun is a star, the same kind of thing as the stars we see at night. It looks huge and bright only because it is so much nearer to us. Stars make their own light. The Moon and the planets make none. They shine because they reflect sunlight. The Earth is one of eight planets going round the Sun, and the Moon goes round the Earth. A torch carried down a long corridor shows how a giant light can look like a tiny dot. Scientists still argue about how the Moon was born, and nobody yet knows if anything lives on the planets of other stars.
+**Summary.** The Sun is a star, the same kind of thing as the stars we see at night. It looks huge and bright only because it is so much nearer to us. Stars make their own light, while the Moon and the planets only reflect sunlight. The Earth is one of eight planets going round the Sun, and the Moon goes round the Earth. A torch carried far down a corridor shows how a huge light can look like a tiny dot.
 
 **Intro.** *Hold up one finger at arm's length. You can hide the whole Moon behind it. But the Moon is about 3,500 kilometres wide, wider than India. How can a finger hide something so big?* Tonight, look up from a window, a balcony or the terrace. From a city you may see only a few dozen stars, because street lights brighten the sky. Some of them twinkle. One or two bright dots may shine steadily. In the daytime the Sun is the brightest light, so bright that you must never look at it. Here is the question for this unit. Is the Sun a different kind of thing from the stars? Or is it the same kind of thing, just much closer?
 
@@ -20,20 +20,20 @@
 - **Sun**: The star at the middle of our solar system. It is the nearest star to us, so it looks big and bright. *e.g.* The Sun lights and warms the Earth every day.
 - **Planet**: A big round world that goes round a star. A planet makes no light of its own. It shines because starlight bounces off it. *e.g.* The Earth, Mars and Jupiter are planets. They all go round the Sun.
 - **Moon**: A smaller world that goes round a planet. Our Moon goes round the Earth about once a month. It shines only with sunlight that bounces off it. *e.g.* Jupiter has many moons. The Earth has one, which we call the Moon.
-- **Satellite**: Anything that goes round a planet. The Moon is the Earth's natural satellite. People also send up satellites made of metal. *e.g.* Weather satellites go round the Earth and photograph the clouds.
+- **Satellite**: An object that goes round a planet. The Moon is the Earth's natural satellite. People also send up satellites made of metal. *e.g.* Weather satellites go round the Earth and photograph the clouds.
 - **Orbit**: The path one thing follows as it goes round and round another. *e.g.* The Earth's orbit round the Sun takes one year.
 - **Reflect**: To bounce light back. Things we see that make no light of their own are reflecting light. *e.g.* A steel plate shines in torchlight because it reflects the light.
-- **Light source**: Something that makes its own light. Scientists also call it luminous. *e.g.* The Sun, a candle flame, a firefly and a torch are light sources.
+- **Light source**: Something that makes its own light. A thing that makes its own light is called luminous. *e.g.* The Sun, a candle flame, a firefly and a torch are light sources.
 - **Non-luminous**: Makes no light of its own. We see a non-luminous thing only because light falls on it and it reflects some of that light into our eyes. *e.g.* The Moon, the planets, your face and a mirror are non-luminous.
 - **Solar system**: The Sun and everything that goes round it: eight planets, their moons, dwarf planets like Pluto, rocks called asteroids, and icy comets. *e.g.* The Earth is the third planet from the Sun in our solar system.
-- **Twinkle**: When a star's light seems to flicker and dance. It happens because our moving air shakes the star's tiny point of light. *e.g.* Stars low in the sky twinkle most. Planets usually shine steadily.
+- **Twinkle**: To flicker. A star twinkles because our moving air bends its tiny point of light this way and that. *e.g.* Stars low in the sky twinkle most. Planets usually shine steadily.
 - **Wanderer**: The old name for a planet. The word planet comes from a Greek word meaning wanderer, because planets slowly move among the stars. *e.g.* Over a few weeks, Venus moves past the stars around it.
 - **Constellation**: A pattern of stars that people have joined up and named. The stars in it may be very far apart. *e.g.* The Saptarishi, seven bright stars shaped like a ladle, is part of a constellation.
 - **Light-year**: The distance light travels in one year. Light is the fastest thing there is, so a light-year is a giant distance. *e.g.* The nearest star after the Sun is about 4 light-years away. Its light takes about 4 years to reach us.
 - **Galaxy**: A giant group of billions of stars, held together by gravity. Our galaxy is called the Milky Way, or Akash Ganga. *e.g.* Far from city lights, on a dark night, you can see part of the Milky Way as a faint white band. From a city you cannot.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see. *e.g.* Your body, the Sun and the air are all made of atoms.
 - **Hydrogen and helium**: The two simplest, lightest kinds of atom. Stars are made mostly of them. *e.g.* The Sun is about three quarters hydrogen and one quarter helium. Helium is the gas in floating balloons.
-- **Nuclear fusion**: When the centres of tiny atoms are squeezed so hard that they join together. Joining makes a huge amount of energy. This is what makes stars shine. *e.g.* Deep inside the Sun, hydrogen joins up to make helium. The energy comes out as sunlight.
+- **Nuclear fusion**: When the centres of tiny atoms are squeezed so hard that they join together. Joining gives out a huge amount of energy. This is what makes stars shine. *e.g.* Deep inside the Sun, hydrogen joins up to make helium. The energy comes out as sunlight.
 - **Pinhole viewer**: A card with a tiny hole that lets sunlight through to make a small picture of the Sun on paper. It is a safe way to look at the Sun. *e.g.* Stand with your back to the Sun. The round spot on the paper is a picture of the Sun.
 - **Exoplanet**: A planet going round a star other than our Sun. *e.g.* Scientists have found more than 6,000 exoplanets.
 - **Telescope**: A tube with lenses or mirrors that gathers lots of light, so faint and faraway things look brighter and bigger. *e.g.* With a small telescope you can see craters on the Moon and the rings of Saturn.
@@ -49,21 +49,21 @@ Everything we see either makes its own light or reflects light that falls on it.
 ### The Sun is a star, the nearest one · *defined*
 **Definition:** The Sun is a star. It is the same kind of thing as the stars we see at night. It looks so much bigger and brighter only because it is so much nearer to us.
 
-The Sun is enormous. About 109 Earths would fit across its middle, side by side, like beads on a string. More than a million Earths could fit inside it. It is about 15 crore kilometres away. That is 150 million kilometres. A car going at 100 kilometres an hour, day and night without stopping, would take about 170 years to get there. Its surface is about 5,500 degrees, far hotter than any kitchen fire. The next nearest star is about 270,000 times further away than the Sun. That is why it looks like a pinprick.
+The Sun is enormous. About 109 Earths would fit across its middle, side by side, like beads on a string. More than a million Earths could fit inside it. It is about 15 crore kilometres away. That is 150 million kilometres. A car going at 100 kilometres an hour, day and night without stopping, would take about 170 years to get there. Its surface is about 5,500 degrees Celsius, far hotter than any kitchen fire. The next nearest stars are about 270,000 times further away than the Sun. That is why they look like pinpricks.
 - e.g. If the Earth were a peppercorn, the Sun would be a ball about as big as a football, 24 metres away.
 - e.g. A torch held near your face looks big and dazzling. The same torch far down the road looks like a small dot.
 - e.g. From a planet round a faraway star, our Sun would look like one more small star in the sky.
 ### Why stars look tiny: distance · *defined*
-**Definition:** The further away a light is, the smaller and dimmer it looks. The light spreads out on its long trip, so less of it reaches your eye.
+**Definition:** The further away a light is, the smaller and dimmer it looks. It looks smaller because it takes up less of what you see. It looks dimmer because its light spreads out on the long trip, so less of it reaches your eye.
 
-Think of a lamp in a dark room. Close up, its light falls on your eye in a big strong splash. Far away, the same light has spread out over a huge space, so only a little of it reaches you. Stars are so far away that even a giant sun becomes a faint dot. Distances to stars are so big that we measure them by how long their light takes to reach us. Light travels about 3 lakh kilometres every second. That is fast enough to go round the Earth more than 7 times in one second. Even so, light from the nearest star after the Sun takes about 4 years to get here.
+Think of a lamp in a dark room. Close up, a lot of its light goes into your eye, so it looks bright. Far away, the same light has spread out over a much bigger space, so only a little of it reaches you. Stars are so far away that even a giant sun becomes a faint dot. Distances to stars are so big that we measure them by how long their light takes to reach us. Light travels about 3 lakh kilometres every second. That is fast enough to go round the Earth more than 7 times in one second. Even so, light from the nearest star after the Sun takes about 4 years to get here.
 - e.g. Sunlight takes about 8 minutes to reach us. Moonlight takes just over 1 second.
 - e.g. Light from Sirius, the brightest star at night, takes about 8 and a half years to reach us.
 - e.g. So when you look at a star, you see it as it was when its light set off, long ago.
 ### Why stars twinkle and planets mostly don't · *defined*
 **Definition:** Stars twinkle because our moving air bends and shakes their light on its way to our eyes. Planets look like tiny round discs, not points, so they usually shine steadily.
 
-Stars shine steadily. The twinkle is made here, in our own air. Air is always moving, with warm and cool patches, and each patch bends light a little. A star is so far away that it reaches us as one tiny point of light. The moving air shakes that point about, so it flickers. A planet is much nearer, so it reaches us as a very small disc. The air shakes each part of the disc differently, and the wobbles even out. So a planet looks steady. Near the horizon, where we look through the most air, even planets can twinkle a little.
+Out in space, starlight is steady. The twinkle is made here, in our own air. Air is always moving, with warm and cool patches, and each patch bends light a little. A star is so far away that it reaches us as one tiny point of light. The moving air shakes that point about, so it flickers. A planet is much nearer, so it reaches us as a very small disc. The air shakes each part of the disc differently, and the wobbles even out. So a planet looks steady. Near the horizon, where we look through the most air, even planets can twinkle a little.
 - e.g. Astronauts above the air see stars shining with no twinkle at all.
 - e.g. A bright, steady dot in the west soon after sunset is very often Venus or Jupiter.
 - e.g. Stars near the horizon twinkle more than stars high overhead, because their light passes through more air.
@@ -73,7 +73,7 @@ Stars shine steadily. The twinkle is made here, in our own air. Air is always mo
 The whole sky seems to turn each night, because the Earth spins. But the stars keep their places in their patterns, year after year. A few bright dots do not. Over days and weeks, they drift past the stars. People in India, Greece, China and Babylon noticed these wanderers thousands of years ago. You can see five of them without a telescope: Mercury, Venus, Mars, Jupiter and Saturn. They move because they are going round the Sun, as the Earth is. In old Indian astronomy, these five, with the Sun and the Moon, were counted among the nine grahas. Today we sort them differently: the Sun is a star, the Moon is a moon, and the five are planets.
 - e.g. Venus is called the morning star or the evening star, but it is a planet. In India it is called Shukra.
 - e.g. Mars, Mangal, shines with a red-orange colour because its ground is covered in rusty dust.
-- e.g. Planets always wander along the same narrow path across the sky, the same path the Sun and the Moon follow.
+- e.g. Planets always stay close to one narrow path across the sky, the same path the Sun and the Moon follow.
 ### The Moon: the Earth's companion with borrowed light · *defined*
 **Definition:** The Moon is the Earth's natural satellite. It goes round the Earth about once a month. It makes no light. Moonlight is sunlight that has bounced off the Moon.
 
@@ -91,14 +91,14 @@ In order from the Sun, the eight planets are Mercury, Venus, Earth, Mars, Jupite
 ### What makes the Sun shine · *defined*
 **Definition:** The Sun shines because of nuclear fusion. Deep in its middle, hydrogen atoms are squeezed together so hard that they join to make helium. Joining gives out a huge amount of energy, which comes out as light and heat.
 
-The middle of the Sun is about 15 million degrees, and the Sun's own weight squeezes it tighter than anything on Earth. There, the centres of hydrogen atoms crash and join. Every second, the Sun turns about 4 million tonnes of its own matter into energy. That is like the weight of hundreds of thousands of elephants, gone into light every second. It has been shining for about 4 and a half billion years. It has enough hydrogen to keep going for about 5 billion more. People once thought the Sun was a giant fire. But a Sun made of burning coal would have burnt out in a few thousand years. In 1920 Arthur Eddington, an English astronomer, suggested the Sun runs on hydrogen turning into helium. In 1939 Hans Bethe, a German-American physicist, worked out exactly how.
+The middle of the Sun is about 15 million degrees Celsius, and the Sun's own weight squeezes it tighter than anything on Earth. There, the centres of hydrogen atoms crash and join. Every second, the Sun turns about 4 million tonnes of its own matter into energy. That is like the weight of hundreds of thousands of elephants, gone into light every second. It has been shining for about 4 and a half billion years. It has enough hydrogen to keep going for about 5 billion more. People once thought the Sun was a giant fire. But a Sun made of burning coal would have burnt out in a few thousand years. In 1920 Arthur Eddington, an English astronomer, suggested the Sun runs on hydrogen turning into helium. In 1939 Hans Bethe, a German-American physicist, worked out exactly how.
 - e.g. Every second, trillions of tiny particles from the Sun, called neutrinos, pass straight through your body. They even pass through the whole Earth at night.
 - e.g. The energy made in the Sun's middle takes many thousands of years to work its way out to the surface. After that, it reaches us in 8 minutes.
 - e.g. Scientists in India and around the world are trying to build fusion machines to make clean electricity, the way the Sun does.
 ### What stars are made of, and who found out · *defined*
 **Definition:** Stars, including the Sun, are made mostly of hydrogen and helium. Scientists found this by splitting starlight into its colours and reading the dark lines in it.
 
-Shine sunlight through a prism and you get a rainbow. Look very closely and the rainbow has thin dark lines in it. Each kind of atom makes its own set of lines, like a fingerprint. So starlight tells us what a star is made of, without anyone going there. But the lines are hard to read, because heat changes them. In 1920 Meghnad Saha, a scientist from a poor family in a village near Dhaka, worked out how a star's heat changes its lines. In 1925 Cecilia Payne, a young English student at Harvard in the United States, used Saha's idea on the lines of many stars. She found that stars are mostly hydrogen and helium, not the same mix as the Earth. The most famous American astronomer, Henry Norris Russell, told her this was impossible. She softened her claim. Four years later, Russell agreed with her, and for years many books gave him the credit.
+Shine sunlight through a prism and you get a rainbow. Look very closely and the rainbow has thin dark lines in it. Each kind of atom makes its own set of lines, like a fingerprint. So starlight tells us what a star is made of, without anyone going there. But the lines are hard to read, because heat changes them. In 1920 Meghnad Saha, a scientist from a poor family in a village near Dhaka, worked out how a star's heat changes its lines. In 1925 Cecilia Payne, a young English student at Harvard in the United States, used Saha's idea on the lines of many stars. She found that stars are mostly hydrogen and helium, not the same mix as the Earth. The most famous astronomer in America at the time, Henry Norris Russell, told her this was impossible. She softened her claim. Four years later, Russell agreed with her, and for years many books gave him the credit.
 - e.g. The Sun is about three quarters hydrogen and one quarter helium. All the other kinds of atom together make only about 2 parts in every 100.
 - e.g. Helium was first found in sunlight, in 1868, before anyone found it on Earth. Its name comes from Helios, the Greek word for the Sun.
 - e.g. Meghnad Saha was nominated for a Nobel Prize several times but never won it.
@@ -119,7 +119,7 @@ When a star like the Sun runs low on hydrogen, it starts joining helium into car
 ### Other suns have planets too · *defined*
 **Definition:** Many stars have planets going round them. A planet going round another star is called an exoplanet. Scientists have found more than 6,000 of them.
 
-For hundreds of years, people wondered if other suns had planets. In 1584 an Italian thinker, Giordano Bruno, wrote that the stars are suns with worlds of their own. His ideas got him into deep trouble. Nobody could check, because a planet near a star is far too faint to see next to its sun. In 1992 two astronomers, Aleksander Wolszczan and Dale Frail, found the first planets round another star, a strange dead star called a pulsar. In 1995 Michel Mayor and Didier Queloz, in Switzerland, found the first planet round a star like the Sun. They noticed the star wobbling a tiny bit as its planet tugged on it. Today we know there are probably more planets than stars in our galaxy.
+For hundreds of years, people wondered if other suns had planets. In 1584 an Italian thinker, Giordano Bruno, wrote that the stars are suns with worlds of their own. The church of his time put him on trial for his beliefs, and in 1600 he was put to death. Nobody could check, because a planet near a star is far too faint to see next to its sun. In 1992 two astronomers, Aleksander Wolszczan and Dale Frail, found the first planets round another star, a strange dead star called a pulsar. In 1995 Michel Mayor and Didier Queloz, in Switzerland, found the first planet round a star like the Sun. They noticed the star wobbling a tiny bit as its planet tugged on it. Today we know there are probably more planets than stars in our galaxy.
 - e.g. Some exoplanets go round their star in just a few days, much closer than Mercury is to the Sun.
 - e.g. Some stars have several planets, like a small solar system of their own.
 - e.g. Nobody knows yet whether anything lives on any exoplanet.
@@ -131,7 +131,7 @@ The Moon has been with the Earth for about 4 and a half billion years. How it go
 - **Some scientists today, including Simon Lock and Sarah Stewart, in 2018:** The crash may have been so big that the young Earth became a spinning doughnut of hot vapour. The Moon formed inside that cloud. This could explain why Moon rocks and Earth rocks are so alike.
 - **Older ideas, now mostly given up:** George Darwin, the son of Charles Darwin, suggested in 1879 that a fast-spinning Earth flung the Moon off. Others thought the Earth caught a passing Moon. Neither idea fits what we now know about Moon rocks.
 ### What we can see is only a small part · *debated*
-Stars and the glowing gas around them are what we can see. But in the 1970s Vera Rubin, an American astronomer, and her colleague Kent Ford measured how fast stars go round in galaxies. The outer stars were moving far too fast. With only the matter we can see, their galaxies should fly apart. Something unseen seems to be holding them. Vera Rubin had been told as a student that a university's astronomy course did not take women. She kept working, and never got a Nobel Prize.
+Stars and the glowing gas around them are what we can see. But in the 1970s Vera Rubin, an American astronomer, and her colleague Kent Ford measured how fast stars go round in galaxies. The outer stars were moving far too fast. With only the matter we can see, their galaxies should fly apart. Something unseen seems to be holding them. When Vera Rubin was a student, Princeton University would not let her study astronomy there, because it did not take women. She kept working, and never got a Nobel Prize.
 - e.g. If dark matter is real, there is about five times as much of it as all the stars, planets and gas put together.
 - e.g. Huge machines deep underground are waiting to catch a single particle of dark matter. None has been caught yet.
 - **Most astronomers:** There is unseen matter, called dark matter, that pulls with gravity but gives no light. Nobody knows yet what it is made of.
@@ -140,13 +140,13 @@ Stars and the glowing gas around them are what we can see. But in the 1970s Vera
 ## Mostly agreed
 - The Sun is a star, the same kind of thing as the stars we see at night. *How we know:* Split the Sun's light and a star's light into colours, and both have the same kinds of dark lines, made by the same atoms. In 1838, Friedrich Bessel measured how far away a star was for the first time. It was so far that it had to be as bright as a sun to be seen at all.
 - Stars make their own light. The Moon and the planets shine only with reflected sunlight. *How we know:* The Moon changes shape as we see more or less of its sunlit half. In 1610 Galileo saw through his telescope that Venus changes shape in the same way. Spacecraft that visited the planets found rock, gas and ice, not fire.
-- The Earth and the other planets go round the Sun. *How we know:* Galileo saw four moons going round Jupiter, so not everything goes round the Earth. Over a year, nearby stars seem to shift a tiny bit, as the Earth moves round its orbit. Spacecraft fly to the planets using this map, and they arrive.
+- The Earth and the other planets go round the Sun. *How we know:* Galileo saw four moons going round Jupiter, so not everything goes round the Earth. Over a year, nearby stars seem to shift a tiny bit, as the Earth moves round its orbit. Spacecraft fly to the planets using a map with the Sun in the middle, and they arrive.
 - The Sun shines by nuclear fusion, joining hydrogen into helium. *How we know:* Fusion makes tiny particles called neutrinos. Since the 1960s, detectors deep underground have caught neutrinos from the Sun. At first they caught only about a third of the number fusion predicts. In 2001 a detector in Canada showed that the missing ones had changed type on the way. Counted together, the numbers match.
 - Many other stars have planets. *How we know:* Since 1992, astronomers have found more than 6,000 planets round other stars. Some are seen as a tiny dip in their star's light when the planet passes in front.
 - Bright lights at night hide the stars from most people. *How we know:* In 2016, scientists led by Fabio Falchi made a world map of night-sky brightness. They found that more than a third of all people can no longer see the Milky Way from where they live.
 
 ## How we found out
-**Friedrich Bessel, a German astronomer, 1838.** For about two thousand years, most people believed the stars were small lights fixed to a great ball round the Earth, not far beyond the planets. Some Greek thinkers made a test. If the Earth really went round the Sun, a nearby star should seem to shift a little over a year, as the Earth moved from one side of its path to the other. Nobody could see any shift, so most people decided the Earth must stand still. The real reason was that the stars are far too distant for the shift to be seen by eye. In 1838 Friedrich Bessel, a German astronomer, used a very fine telescope to watch a faint star called 61 Cygni for over a year. It shifted by a tiny amount, about as much as a coin seen from 15 kilometres away. From that shift he worked out that its light takes about 10 years to reach us. A star that far away can only be seen at all if it shines like a sun. So the stars are suns.  
+**Friedrich Bessel, a German astronomer, 1838.** For about two thousand years, most people believed the stars were small lights fixed to a great ball round the Earth, not far beyond the planets. Some Greek thinkers reasoned like this. If the Earth really went round the Sun, a nearby star should seem to shift a little over a year, as the Earth moved from one side of its path to the other. Nobody could see any shift, so most people decided the Earth must stand still. The real reason was that the stars are far too distant for the shift to be seen by eye. In 1838 Friedrich Bessel, a German astronomer, used a very fine telescope to watch a faint star called 61 Cygni for over a year. It shifted by a tiny amount, about as much as a coin seen from 15 kilometres away. From that shift he worked out that its light takes about 10 years to reach us. A star that far away can only be seen at all if it shines like a sun. So the stars are suns.  
 *What people believed before:* The stars are small lights fixed close beyond the planets, and since no star seemed to shift, the Earth must stand still. Bessel measured a star's tiny yearly shift and showed it is so far away that it must be a sun.
 
 ## Challenging perspectives
@@ -160,8 +160,8 @@ Stars and the glowing gas around them are what we can see. But in the 1970s Vera
   For: The Sun is hot and bright, like a fire. Fire is the hottest thing most of us have seen.  
   Against: A Sun made of coal would have burnt out in a few thousand years. The Earth is about 4 and a half billion years old. Fire also needs oxygen from the air, and space has none. The Sun shines by fusion, not by burning.
 - **The Sun is just an average, ordinary star.** (Many books and teachers; *debated*)  
-  For: There are hundreds of billions of stars like it. It is not the biggest or the hottest. Its type, a G star, is a common one.  
-  Against: Most stars, about three out of four, are small, dim red stars called red dwarfs. The Sun is brighter than about 9 out of every 10 stars in our galaxy. So it is ordinary in kind, but bigger than most.
+  For: There are billions of stars like it in our galaxy. It is not the biggest or the hottest. Its type, a G star, is a common one.  
+  Against: Most stars, about three out of four, are small, dim red stars called red dwarfs. The Sun is brighter than about 9 out of every 10 stars in our galaxy. So it is ordinary in kind, but bigger and brighter than most.
 - **The Moon makes its own light.** (Many people long ago, and many young children; *rejected*)  
   For: The Moon glows brightly at night, like a lamp in the sky.  
   Against: Anaxagoras in Greece, about 2,450 years ago, and Aryabhata in India, in 499 CE, both said the Moon shines with the Sun's light. The Moon's changing shape shows it: we see only the part that faces the Sun. Moon rock brought back by astronauts is dark grey, and it gives off no light.
@@ -175,18 +175,18 @@ Stars and the glowing gas around them are what we can see. But in the 1970s Vera
 ## Roots
 We have been learning that the Sun is a star, that the stars are suns, and that the Moon and planets shine with the Sun's light. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** The Sun and the stars are the same kind of thing. The Sun looks huge only because the next star is about 270,000 times further away. From a planet of another star, our Sun would be one more faint dot. A sun is simply a star seen from close by.  
-*Habit it breaks:* We sort the sky into 'the Sun', big and special, and 'the stars', small and far. That split comes from our distance to them, not from what they are.  
+**Deep truth.** The Sun and the stars are the same kind of thing. The Sun looks huge because it is close, and the next star is 270,000 times further away. From a planet of another star, our Sun would be one more faint dot. So 'the Sun' just means the star we happen to live next to.  
+*Habit it breaks:* We sort the sky into 'the Sun', big and special, and 'the stars', small and far. That split comes from how far away they are, not from what they are.  
 *Evidence:* The same torch looked dazzling up close and like a faint star at 40 steps. Sunlight and starlight have the same dark lines, made by the same atoms. In 1838 Bessel measured a star so far away that it must shine like a sun.
 
 - *who am i:* Almost every atom in your body, apart from hydrogen, was made inside a star. You are made of what stars make.
 - *what is life:* Almost all life runs on the Sun's light. Plants use sunlight to make their food, and every meal you eat began with a plant catching sunlight.
 - *what is this world:* The sky is full of suns. In the daytime, the light that shows you the Moon, a leaf and your own hand all comes from one star.
 
-About 4 and a half billion years ago, one cloud of gas and dust pulled itself together. Its middle became the Sun, and what was left round it became the planets, the Earth among them. Older stars had made the atoms in that cloud, and those atoms became rocks, water and you. So the Sun, the Earth and your body began in one cloud, from atoms made by stars that died before. DeepKids believes this is why we and the stars are one family, not strangers looking at each other.
+About 4 and a half billion years ago, one cloud of gas and dust pulled itself together. Its middle became the Sun, and what was left round it became the planets, the Earth among them. Older stars had made the atoms in that cloud, and those atoms became rocks, water and you. So the Sun, the Earth and your body began in one cloud, from atoms made by stars that died before. DeepKids believes this means we are not outsiders looking at the stars. We are made of what stars made.
 
 - **Katha Upanishad 2.2.15 (in some editions numbered 5.15):** There, the Sun does not shine, nor the Moon and the stars. When that shines, everything shines after it. By its light, all this is lit. (The Moon shines only with the Sun's light. The Upanishad goes one step further. It says that even the Sun is known only by the light of awareness, the light by which we know anything at all. This is a teaching, not a science finding.)
-- **Isha Upanishad 16:** A seeker speaks to the Sun: gather your dazzling rays, so I can see your kindest form. The person who is there, in the Sun, that am I. (Science finds that the atoms of your body were made in stars. The Upanishad goes further and says that the one in the Sun and the one in you are the same. That is a belief, not a measurement.)
+- **Isha Upanishad 16:** A seeker speaks to the Sun: gather your dazzling rays, so I can see your most beautiful form. The person who is there, in the Sun, that am I. (Science finds that the atoms of your body were made in stars. The Upanishad goes further and says that the one in the Sun and the one in you are the same. That is a belief, not a measurement.)
 - **Carl Sagan, Cosmos, episode 1 (1980):** The cosmos is within us. We are made of star-stuff. (An American astronomer, speaking as a scientist, says what the stars' atoms tell us: we come from them.)
 - Science (settled): Almost every atom in your body, apart from hydrogen, was made inside a star. Margaret Burbidge and her colleagues showed how, in 1957.
 - Science (settled): The Sun, the Earth and the other planets all formed together from one cloud of gas and dust, about 4 and a half billion years ago.
@@ -201,7 +201,7 @@ About 4 and a half billion years ago, one cloud of gas and dust pulled itself to
 - *big:* If the Sun is a star, and every star is a sun, could someone on a faraway planet be looking at our Sun right now, and calling it just a star? (hint: What would the Sun look like from very, very far away? Think of the torch at the end of the road.)
 - *deep:* When you look at a star, you see light that left it years ago. Are you seeing the star now, or the star as it used to be? (hint: Light from some stars set off before your grandparents were born. Could a star have changed since then?)
 - *deep:* Moonlight is really sunlight, bounced off the Moon. Is anything you see really its own light? (hint: Your face, a leaf and a book make no light of their own. What lights them up?)
-- *big:* Is the Sun 'ours'? Or is it just the star we happen to live near? (hint: Plants, animals and people on Earth all live on its light. Does that make it ours, or make us its?)
+- *big:* Is the Sun 'ours'? Or is it just the star we happen to live near? (hint: Plants, animals and people on Earth all live on its light. Does that make it ours, or do we belong to it?)
 - *big:* The calcium in your bones and the iron in your blood were made inside stars. Are those atoms really yours, or are you borrowing them for a while? (hint: Where was the iron in your blood before it was in you?)
 - *big:* Why did people in India, Greece and China all count the Sun and the Moon with the wandering planets? Were they wrong, or just sorting things in a different way? (hint: How would you sort the lights in the sky if you only had your eyes?)
 - *big:* Cecilia Payne's measurements said one thing, and a famous astronomer said another. How can a scientist find out which one is right? (hint: Could someone else repeat her measurements on other stars? What would they find?)
@@ -302,7 +302,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 ### g2 · Spot the Wanderer (20 min)
 - **rules:** Put the wanderer tokens on the dotted path, each next to a different star.; The sky-watcher looks at the board for 20 seconds, then closes their eyes. This is one night passing.; Another player moves ONE wanderer a little way along the dotted path. The Moon may move a big step. Planets move only a small step.; The sky-watcher opens their eyes and points at the wanderer that moved. One point if right.; Take turns being the sky-watcher. After 5 rounds each, the highest score wins.
 - **Printable board: A night-sky board: black paper with 25 star dots and one dotted path across it:** 25 white star dots in fixed places, including the seven stars of the Saptarishi; One dotted path across the middle, marked 'the path of the Sun, Moon and planets'
-- **Printable tokens: Wanderer tokens:** A yellow bead: Venus; A red bead: Mars; A white bead: Jupiter; A small paper Moon
+- **Printable tokens: Wanderer tokens (beads, or small circles of coloured paper):** A yellow bead: Venus; A red bead: Mars; A white bead: Jupiter; A small paper Moon
 - **Printable score sheet: Sky-watcher's log:** Night number; Which wanderer moved?; Did I spot it? Yes or no; Points
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the night-sky board on a table. 2. Put the three planet beads and the paper Moon on the dotted path, each next to a different star.  
@@ -313,7 +313,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
   *Parent says:* Remember where everything is. Close your eyes. A night is passing. Now open them. Which wanderer moved?  
   *Child mode:* Look hard for 20 seconds. Close your eyes. Now open them. Which wanderer moved? Point to it!
   - Ask: How did you know which one moved? (good: It was next to a different star.; The stars stayed in the same places, but it didn't.)
-  - Note: In the real sky, the Moon moves the most. It shifts about its own width every hour, and a big jump each night. Venus and Mars move a little each night. Jupiter and Saturn move very slowly, over weeks. All of them stay close to the same path across the sky.
+  - Note: In the real sky, the Moon moves the most. It shifts about its own width every hour, so by the next evening it has moved a long way. Venus and Mars move a little each night. Jupiter and Saturn move very slowly, over weeks. All of them stay close to the same path across the sky.
 - **s3 (5 min)**  
   *Parent does:* Talk together about why the planets move and the stars do not.  
   *Parent says:* The stars are so far away that they seem fixed in their patterns. The planets are our neighbours, going round the Sun like the Earth. As we all move, they seem to drift past the faraway stars.  
@@ -325,7 +325,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 ### e1 · Near Lamp, Far Lamp: why do stars look so small? (20 min)
 - **question:** Does a light look smaller and dimmer when it is further away, even if the light itself does not change?
 - **predict:** Before you start, guess. When the helper walks far away with the torch, will it look the same, smaller, or bigger? Brighter, or dimmer? And why do you think so?
-- **fair test:** Use the same torch every time, held at the same height and pointing the same way, at your chest. Change only one thing: how far away it is. Give it a score at each distance, so you can compare.
+- **fair test:** Use the same torch every time, held at the same height and pointing the same way, at the watcher's chest. Change only one thing: how far away it is. Give it a score at each distance, so you can compare.
 - **safety:** A grown-up is the helper. Never shine a torch straight into someone's eyes from close up. Point it at the chest.
 - **record:** Fill in the table at each distance. Then draw a bar chart of the brightness scores, one bar for each distance.
 - **results table:** Distance away (big steps) | How big it looked (as big as a coin, a pea, a grain of rice or a dot) | Brightness score (5 is dazzling, 1 is a faint dot)
@@ -399,9 +399,9 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
   *Parent says:* Look only at the paper, never up. See the bright spot in the card's shadow? That little circle is a picture of the Sun.  
   *Child mode:* Back to the Sun! Look only at the paper. Find the bright spot in the shadow. That spot is the Sun's picture.
   - Ask: The hole is a tiny rough dot. Why is the bright spot round? (good: Because the Sun is round.; It's a picture of the Sun, not of the hole.)
-  - Note: At 1 metre the spot is about 1 centimetre wide. It should be round even if the hole is a bit ragged, because it is a picture of the round Sun. A smaller, neater hole gives a sharper but dimmer picture. If your flat gets no direct sun, do this on the terrace or downstairs.
+  - Note: At 1 metre the spot is about 1 centimetre wide. It should be round even if the hole is a bit ragged, because it is a picture of the round Sun. A smaller, neater hole gives a sharper but dimmer picture. If your flat gets no direct sun, do this on the terrace or downstairs, with a grown-up.
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* 1. Move the card to 50 centimetres from the paper and measure the spot. 2. Then try 2 metres. A grown-up stands on the floor and holds the card high, while the child measures. The paper must stay in the card's shadow, or the spot is too faint to see.  
+  *Parent does:* 1. Move the card to 50 centimetres from the paper and measure the spot. 2. Then try 2 metres. A grown-up stands on the floor and holds the card high, while the child measures. The spot must land inside the card's shadow, or it is too faint to see.  
   *Parent says:* Let's see what happens when the paper is further from the hole. Measure the spot each time.  
   *Child mode:* Move the card closer, then further away. Measure the spot each time. What happens?
   - Check: When the paper was further from the pinhole, the Sun's picture was… → **Bigger and a bit dimmer**
@@ -426,9 +426,9 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
   *Child mode:* Sort your slips into two piles. In our air. Out in space. Which pile is each one in?
   - Ask: Is a cloud in our air or out in space? What about the Moon? (good: Clouds are in our air.; The Moon is out in space.)
 - **s3 (5 min)**  
-  *Parent does:* Take the 'out in space' pile and sort it again: 'makes its own light' and 'I am not sure'.  
-  *Parent says:* Now look at the space pile. Which of these make their own light? Put the ones you're unsure about in a separate pile. We'll find out in this unit.  
-  *Child mode:* Look at the space pile. Which make their own light? Not sure? Put it in a 'not sure' pile.
+  *Parent does:* Take the 'out in space' pile and sort it again into three piles. The piles are 'makes its own light', 'does not make its own light' and 'not sure'.  
+  *Parent says:* Now look at the space pile. Which of these make their own light? Which do not? Put the ones you're unsure about in a separate pile. We'll find out in this unit.  
+  *Child mode:* Look at the space pile. Which make their own light? Which do not? Not sure? Put it in a 'not sure' pile.
   - Check: Before we test anything, what do you think? Does the Moon make its own light? → **No**
   - Think: The Sun shines in the day and the stars at night. Are they the same kind of thing, or different?
 ### a2 · The Kitchen-Table Sun, Earth and Moon (20 min)
@@ -447,8 +447,8 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
   *Parent does:* 1. Show your child the football. 2. Ask where it should go. 3. Pace out 24 metres from the peppercorn, about 30 big grown-up steps, and put the ball there. A building corridor, the terrace or the building compound is usually long enough.  
   *Parent says:* Here is the Sun. It's this big compared to the peppercorn Earth. 109 peppercorns would fit across it. Where do you think it goes? On the table? In the next room?  
   *Child mode:* This ball is the Sun. 109 peppercorns fit across it! Where do you think it goes? Guess. Now walk 30 big steps.
-  - Ask: Stand next to the peppercorn and look at the ball. Does it look big or small from here? (good: Small, because it's far away.; About the size of a coin held at arm's length.)
-  - Note: In this model the Sun is a ball about 22 centimetres wide, 24 metres away. From the peppercorn, the ball looks about as big as the real Sun looks in the sky. At this scale, the nearest other star would be another football about 6,300 kilometres away, about as far as from Delhi to London.
+  - Ask: Stand next to the peppercorn and look at the ball. Does it look big or small from here? (good: Small, because it's far away.; Small. You could hide it behind your little finger at arm's length.)
+  - Note: In this model the Sun is a ball about 22 centimetres wide, 24 metres away. From the peppercorn, the ball looks about as big as the real Sun looks in the sky. At this scale, the nearest other star would be another football about 6,500 kilometres away, about as far as from Delhi to London.
 - **s4 (3 min)**  
   *Parent does:* Stand by the peppercorn. Talk about how empty space is.  
   *Parent says:* Is space crowded or empty? The nearest other star in this model would be as far away as London. That's why stars look like tiny dots.  
@@ -480,7 +480,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 ### a4 · The Moon and the Wanderer: a five-night sky diary (25 min, 5 days)
 - **safety:** Go up on the terrace or out after dark only with a grown-up. Stay away from roof edges and balcony railings. Never point binoculars at the Sun.
 - **record:** Five drawings, each with the date, the time, the skyline, the Moon and the planet, and the nearby stars.
-- **schedule:** day 1: At dusk, choose your window or balcony. Draw the skyline, the Moon and any bright dots. Check which dot is a planet. (7 min); day 2: Same spot, same time. Draw the Moon and the planet again. (4 min); day 3: Same spot, same time. Draw again. Is the Moon bigger or smaller? (4 min); day 4: Same spot, same time. Draw again. (4 min); day 5: Draw one last time. Compare all five drawings. Which moved more, the Moon or the planet? (6 min)
+- **schedule:** day 1: At dusk, choose your window or balcony. Draw the skyline, the Moon and any bright dots. Check which dot is a planet. (7 min); day 2: Same spot, same time. Draw the Moon and the planet again. (4 min); day 3: Same spot, same time. Draw again. Is more of the Moon lit, or less? (4 min); day 4: Same spot, same time. Draw again. (4 min); day 5: Draw one last time. Compare all five drawings. Which moved more, the Moon or the planet? (6 min)
 - **s1 (7 min) · grown-up needed**  
   *Parent does:* 1. Use the sky map to choose five evenings in a row. On each one, the Moon must be in view from your window or balcony at a fixed time (such as 7:30 pm). 2. Go to that same spot each night, at the same time. 3. Draw the skyline: buildings, the water tank, a tree or a mobile tower. 4. Draw the Moon and the brightest dots near it. 5. Use the sky map to check which bright dot is a planet.  
   *Parent says:* We'll come back here at the same time for five nights. Draw the skyline first, so we can see if things move. Which dot shines steadily without twinkling?  
@@ -489,7 +489,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* On nights 2, 3 and 4, go to the same spot at the same time. Draw the skyline, the Moon, the planet and the nearby stars again.  
   *Parent says:* Same place, same time. Has the Moon moved? Has its shape changed? What about the planet?  
-  *Child mode:* Same place. Same time. Draw it all again. Has the Moon moved? Is it bigger?
+  *Child mode:* Same place. Same time. Draw it all again. Has the Moon moved? Is more of it lit?
   - Wait: Come back each evening at the same time, for 3 more nights.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* On night 5, draw one last time. Then lay all five drawings side by side and compare them.  
@@ -536,11 +536,11 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
   *Parent says:* Small holes for faint stars, bigger holes for bright ones. Real stars look faint or bright for two reasons. Some are bigger and hotter, and some are nearer.  
   *Child mode:* Poke a small hole for each faint star. Poke a bigger hole for each bright star. Ask a grown-up to cut the window.
   - Note: A bright star can be bright because it is very big and hot, like Rigel, or because it is fairly near, like Sirius. From Earth we cannot tell which just by looking.
-- **s3 (8 min)**  
-  *Parent does:* Leave the lid somewhere flat so the tape can set overnight.  
-  *Parent says:* Tomorrow we'll add a wanderer and show everyone.  
-  *Child mode:* Leave the lid flat overnight. Tomorrow you will add a planet.
-  - Wait: Leave the lid until the next day.
+- **s3 (8 min) · grown-up needed**  
+  *Parent does:* Tonight, with a grown-up, look from a window, the balcony or the terrace for one of your two star patterns. Orion is up on evenings from December to April. The Saptarishi is low in the north on evenings from February to June.  
+  *Parent says:* Let's see if we can find the real pattern in the sky tonight. Tomorrow we'll add a wanderer to our box and show everyone.  
+  *Child mode:* Tonight, with a grown-up, look for Orion or the Saptarishi in the real sky. Tomorrow you will add a planet to your box.
+  - Wait: Finish the box the next day.
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* 1. Push a bead onto a thin wire or toothpick. 2. Tape the wire so the bead sits just under the paper, where it can slide along a line between the stars.  
   *Parent says:* Planets wander among the stars. Your bead is a planet. Slide it a little each 'night' and the stars stay still.  
@@ -555,7 +555,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 
 ## Challenges
 ### c1 · Build a Safe Sun Viewer (30 min)
-- **problem:** Design and build a viewer that shows a clear, round picture of the Sun at least 2 centimetres wide, so your family can watch a cloud cross it, or even a large sunspot. Nobody may look at the Sun itself.
+- **problem:** Design and build a viewer that shows a clear, round picture of the Sun at least 2 centimetres wide, so your family can watch a cloud cross it. Nobody may look at the Sun itself.
 - **your turn:** Now invent your own viewer. Draw it, build it, and measure your Sun's picture. Can you make it bigger and still sharp?
 - **constraints:** Nobody looks at the Sun, or through the viewer at the Sun.; Use only things from home, like boxes, foil, card, paper and tape.; The picture of the Sun must be at least 2 centimetres wide.
 - **general:** A long box with a pinhole in foil at one end and white paper at the other. You look in through a side window, with your back to the Sun.; Two cards. One has a pinhole. Hold it up and catch the Sun's picture on the second card in its shadow.; The picture is about 1 centimetre wide for every metre between the hole and the paper. A shoebox gives a picture only about 3 millimetres wide. For 2 centimetres you need about 2 metres, so the two-card way, with the paper on the floor, is easier than a long box.
@@ -572,7 +572,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
   *Parent does:* 1. Build your best idea. 2. Test it outside with your back to the Sun. 3. Measure the picture. 4. Change one thing and test again.  
   *Parent says:* Test it. How wide is the Sun's picture? What could you change to make it bigger, or sharper?  
   *Child mode:* Build it. Test it with your back to the Sun. Measure the picture. Change one thing. Test again.
-  - Note: The picture's width is about the distance from hole to paper divided by 108. So 1 metre gives about 1 centimetre, and 2 metres gives about 2 centimetres. A sunny balcony or the stairwell can help. Dark spots on the picture that move slowly over days are sunspots, cooler patches on the Sun. Only big ones show up in a pinhole picture.
+  - Note: The picture's width is about the distance from hole to paper divided by 108. So 1 metre gives about 1 centimetre, and 2 metres gives about 2 centimetres. A sunny balcony or the stairwell can help. Dark spots that stay on the picture and move slowly over days are sunspots, cooler patches on the Sun. Only the very biggest show up in a pinhole picture, and only now and then.
 - **s4 (5 min)**  
   *Parent does:* Read the usual solutions and creative ideas together. Then invent a new one.  
   *Parent says:* Here's what people usually do, and some creative ideas. Can you invent something new?  
@@ -692,7 +692,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 2. (truefalse) The iron in your blood was made inside stars.  
    **Answer:** True. *Why:* True. Iron is made deep inside big stars. When those stars exploded, long before the Sun was born, they scattered it into space. Some of it ended up in the Earth, in food and in you.
 3. (mcq) Imagine you lived on a planet going round a very faraway star. What would our Sun look like from there?  
-   Options: One small point of light, a star / A huge bright ball / You could not see it at all, because the Sun only shines on Earth / A Moon  
+   Options: One small point of light, a star / A huge bright ball / You could not see it at all, because the Sun only shines on Earth / A moon  
    **Answer:** One small point of light, a star. *Why:* From very far away, our Sun would look like one more star in the sky. Picking 'only shines on Earth' is a common idea. But the Sun sends light out in every direction, across the whole galaxy.
 4. (fill) A planet going round a star other than the Sun is called an ____.  
    **Answer:** ['exoplanet']. *Why:* Exo means outside. Exoplanets are planets outside our solar system. More than 6,000 have been found.
@@ -716,7 +716,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
    Options: They split starlight into colours and read the dark lines in it / Space rocks bring pieces of stars to Earth / They guess / Astronauts have visited stars  
    **Answer:** They split starlight into colours and read the dark lines in it. *Why:* Each kind of atom leaves its own pattern of lines in starlight, like a fingerprint. Picking 'astronauts have visited stars' is a common idea. No person or spacecraft has ever reached another star. The nearest would take tens of thousands of years with today's rockets.
 12. (write) Is our Sun an ordinary star, or a special one? Give one reason for each side. Then say what you think.  
-   **Answer:** Ordinary: there are hundreds of billions of stars like it, and it is not the biggest or hottest. Special: it is brighter than about 9 out of 10 stars, and it is the only star we know with life near it. What I think, with a reason.. *Why:* There is no single right answer. A good answer gives a reason for each side.
+   **Answer:** Ordinary: there are billions of stars like it, and it is not the biggest or hottest. Special: it is brighter than about 9 out of 10 stars, and it is the only star we know with life near it. What I think, with a reason.. *Why:* There is no single right answer. A good answer gives a reason for each side.
 13. (write) Imagine one day with no Sun at all. Write three things that would change, and say why.  
    **Answer:** For example: it would be dark, because there would be no light to bounce off things. It would get very cold, because the Sun warms the Earth. Plants could not make food, so animals and people would go hungry. The Moon would vanish too, because it shines only with sunlight.. *Why:* A good answer links each change to light or heat from the Sun. Noticing that the Moon would disappear shows real understanding.
 14. (write) Vera Rubin found that stars at the edges of galaxies move too fast. With only the matter we can see, the galaxies should fly apart. What might this tell us?  
@@ -798,7 +798,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 - The Saptarishi, a ladle of seven stars, in the northern sky on evenings from about February to June. It is bright enough to see from most cities if you face north.
 - The space station sliding across the sky as a bright steady dot, just after sunset, lit by sunlight high above.
 - Small round spots of light under a leafy tree. Each one is a picture of the Sun made by gaps between the leaves.
-- Solar panels on rooftops, water heaters and street lamps, catching the light of our star.
+- Solar panels on rooftops, solar water heaters and solar street lamps, all catching the light of our star.
 - Festivals timed by the Moon, like Diwali on a new Moon night and Guru Purnima on a full Moon night.
 - The Moon in the daytime, pale in a blue sky, for about half of every month.
 - A sky full of stars at a hill station or a village far from towns, and only a few dozen above a big city.
@@ -807,7 +807,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 - **Is there life on any planet round another star?** Scientists have found more than 6,000 exoplanets, and some might have water. But nobody has yet found a sign of life on any of them.
 - **Exactly how was the Moon born?** Most scientists think a planet the size of Mars crashed into the young Earth. But the details, and why Moon rocks are so like Earth rocks, are still argued about.
 - **What is dark matter, if it exists?** Galaxies spin as if something unseen is holding them together. Machines are trying to catch it, but none has found it yet. Some scientists think gravity itself may work differently.
-- **Why is the Sun's thin outer layer, its corona, much hotter than its surface?** The surface is about 5,500 degrees, but the corona is over a million degrees. Spacecraft like NASA's Parker Solar Probe and India's Aditya-L1 are studying why.
+- **Why is the Sun's thin outer layer, its corona, much hotter than its surface?** The surface is about 5,500 degrees Celsius, but the corona is over a million degrees. Spacecraft like NASA's Parker Solar Probe and India's Aditya-L1 are studying why.
 - **How many stars have planets like the Earth, at just the right distance for water?** Small, Earth-sized planets are hard to find. Scientists have found some, but they are still counting.
 - **Will the Sun swallow the Earth when it grows into a red giant, in about 5 billion years?** The Sun will swell up enormously, and will probably swallow Mercury and Venus. Whether it reaches the Earth depends on details scientists still work out.
 - **How many galaxies are there, and does the universe have an edge?** We can only see as far as light has had time to travel since the universe began. Beyond that, nobody knows how much more there is.
@@ -853,7 +853,7 @@ Rohan opened his mouth to say something about sparks. Then he closed it again. T
 - In the kitchen-table model, the Earth is a peppercorn 2 millimetres wide. The Sun is 109 times as wide as the Earth. About how wide should the model Sun be, in centimetres? **About 22 centimetres, about as wide as a football.**. 109 is close to 110. 110 lots of 2 millimetres is 220 millimetres. There are 10 millimetres in 1 centimetre. So 220 millimetres is 22 centimetres. That is about as wide as a football. (queues `math.multiplication.equal-groups.L3`)
 - In the pinhole Sun experiment, the Sun's picture was about 1 centimetre wide when the paper was 1 metre from the hole. How wide would it be at 2 metres? And at 3 metres? **About 2 centimetres at 2 metres, and about 3 centimetres at 3 metres.**. Each extra metre adds about 1 more centimetre to the picture's width. So 2 metres gives about 2 centimetres, and 3 metres gives about 3 centimetres. The picture grows in equal steps, a pattern: 1, 2, 3. This works because the Sun is about 108 of its own widths away from us. (queues `math.patterns.number-patterns.L3`)
 - Sunlight takes about 8 minutes to reach the Earth. Some light leaves the Sun at 4:10 in the afternoon. At what time does it land on your hand? **At about 4:18.**. Start at 4:10 and count on 8 minutes: 4:11, 4:12, and so on up to 4:18. So the light that left the Sun at 4:10 lands on your hand at about 4:18. (queues `math.time.duration.L3`)
-- One evening near the full Moon, the Moon rose at 6:00. The Moon rises about 50 minutes later each day, on average. About what time will it rise tomorrow? And the day after? **About 6:50 tomorrow, and about 7:40 the day after.**. Add 50 minutes to 6:00. 6:00 and 50 minutes is 6:50. Then add another 50 minutes. 6:50 and 10 minutes is 7:00, and 40 more minutes makes 7:40. So the Moon rises at about 6:50 tomorrow and about 7:40 the day after. The real time changes a little from day to day, so check it in a sky app. (queues `math.time.telling-time.L3`)
+- One evening near the full Moon, the Moon rose at 6:00 in the evening. The Moon rises about 50 minutes later each day, on average. About what time will it rise tomorrow? And the day after? **About 6:50 tomorrow, and about 7:40 the day after.**. Add 50 minutes to 6:00. 6:00 and 50 minutes is 6:50. Then add another 50 minutes. 6:50 and 10 minutes is 7:00, and 40 more minutes makes 7:40. So the Moon rises at about 6:50 tomorrow and about 7:40 the day after. The real time changes a little from day to day, so check it in a sky app. (queues `math.time.telling-time.L3`)
 
 ## Song
 Star, Planet, Moon (sci.sky.L3): Topic-level song

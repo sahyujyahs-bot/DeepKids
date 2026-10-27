@@ -3,7 +3,7 @@
  "title": "Sun, Moon and stars: why the Sun is a star and the Moon is not",
  "level": 3,
  "summary": {
-  "text": "The Sun is a star, the same kind of thing as the stars we see at night. It looks huge and bright only because it is so much nearer to us. Stars make their own light. The Moon and the planets make none. They shine because they reflect sunlight. The Earth is one of eight planets going round the Sun, and the Moon goes round the Earth. A torch carried down a long corridor shows how a giant light can look like a tiny dot. Scientists still argue about how the Moon was born, and nobody yet knows if anything lives on the planets of other stars.",
+  "text": "The Sun is a star, the same kind of thing as the stars we see at night. It looks huge and bright only because it is so much nearer to us. Stars make their own light, while the Moon and the planets only reflect sunlight. The Earth is one of eight planets going round the Sun, and the Moon goes round the Earth. A torch carried far down a corridor shows how a huge light can look like a tiny dot.",
   "art": "A night sky over an Indian rooftop: a big glowing Sun drawn in a corner with rays, a pale Moon with an arrow showing sunlight bouncing off it, a steady bright planet low in the west, and many tiny stars, each with a small faint sun-shape drawn beside it."
  },
  "intro": {
@@ -49,7 +49,7 @@
   },
   {
    "term": "Satellite",
-   "meaning": "Anything that goes round a planet. The Moon is the Earth's natural satellite. People also send up satellites made of metal.",
+   "meaning": "An object that goes round a planet. The Moon is the Earth's natural satellite. People also send up satellites made of metal.",
    "example": "Weather satellites go round the Earth and photograph the clouds.",
    "art": "The Earth with the Moon and a small metal satellite both going round it."
   },
@@ -67,7 +67,7 @@
   },
   {
    "term": "Light source",
-   "meaning": "Something that makes its own light. Scientists also call it luminous.",
+   "meaning": "Something that makes its own light. A thing that makes its own light is called luminous.",
    "example": "The Sun, a candle flame, a firefly and a torch are light sources.",
    "art": "A row of glowing things: the Sun, a candle, a firefly, a torch."
   },
@@ -85,7 +85,7 @@
   },
   {
    "term": "Twinkle",
-   "meaning": "When a star's light seems to flicker and dance. It happens because our moving air shakes the star's tiny point of light.",
+   "meaning": "To flicker. A star twinkles because our moving air bends its tiny point of light this way and that.",
    "example": "Stars low in the sky twinkle most. Planets usually shine steadily.",
    "art": "A twinkling star seen through wavy lines of air above a rooftop."
   },
@@ -127,7 +127,7 @@
   },
   {
    "term": "Nuclear fusion",
-   "meaning": "When the centres of tiny atoms are squeezed so hard that they join together. Joining makes a huge amount of energy. This is what makes stars shine.",
+   "meaning": "When the centres of tiny atoms are squeezed so hard that they join together. Joining gives out a huge amount of energy. This is what makes stars shine.",
    "example": "Deep inside the Sun, hydrogen joins up to make helium. The energy comes out as sunlight.",
    "art": "Four small hydrogen balls being squeezed together into one helium ball with a flash of light."
   },
@@ -169,7 +169,7 @@
    "concept": "The Sun is a star, the nearest one",
    "status": "defined",
    "definition": "The Sun is a star. It is the same kind of thing as the stars we see at night. It looks so much bigger and brighter only because it is so much nearer to us.",
-   "description": "The Sun is enormous. About 109 Earths would fit across its middle, side by side, like beads on a string. More than a million Earths could fit inside it. It is about 15 crore kilometres away. That is 150 million kilometres. A car going at 100 kilometres an hour, day and night without stopping, would take about 170 years to get there. Its surface is about 5,500 degrees, far hotter than any kitchen fire. The next nearest star is about 270,000 times further away than the Sun. That is why it looks like a pinprick.",
+   "description": "The Sun is enormous. About 109 Earths would fit across its middle, side by side, like beads on a string. More than a million Earths could fit inside it. It is about 15 crore kilometres away. That is 150 million kilometres. A car going at 100 kilometres an hour, day and night without stopping, would take about 170 years to get there. Its surface is about 5,500 degrees Celsius, far hotter than any kitchen fire. The next nearest stars are about 270,000 times further away than the Sun. That is why they look like pinpricks.",
    "examples": [
     "If the Earth were a peppercorn, the Sun would be a ball about as big as a football, 24 metres away.",
     "A torch held near your face looks big and dazzling. The same torch far down the road looks like a small dot.",
@@ -182,8 +182,8 @@
   {
    "concept": "Why stars look tiny: distance",
    "status": "defined",
-   "definition": "The further away a light is, the smaller and dimmer it looks. The light spreads out on its long trip, so less of it reaches your eye.",
-   "description": "Think of a lamp in a dark room. Close up, its light falls on your eye in a big strong splash. Far away, the same light has spread out over a huge space, so only a little of it reaches you. Stars are so far away that even a giant sun becomes a faint dot. Distances to stars are so big that we measure them by how long their light takes to reach us. Light travels about 3 lakh kilometres every second. That is fast enough to go round the Earth more than 7 times in one second. Even so, light from the nearest star after the Sun takes about 4 years to get here.",
+   "definition": "The further away a light is, the smaller and dimmer it looks. It looks smaller because it takes up less of what you see. It looks dimmer because its light spreads out on the long trip, so less of it reaches your eye.",
+   "description": "Think of a lamp in a dark room. Close up, a lot of its light goes into your eye, so it looks bright. Far away, the same light has spread out over a much bigger space, so only a little of it reaches you. Stars are so far away that even a giant sun becomes a faint dot. Distances to stars are so big that we measure them by how long their light takes to reach us. Light travels about 3 lakh kilometres every second. That is fast enough to go round the Earth more than 7 times in one second. Even so, light from the nearest star after the Sun takes about 4 years to get here.",
    "examples": [
     "Sunlight takes about 8 minutes to reach us. Moonlight takes just over 1 second.",
     "Light from Sirius, the brightest star at night, takes about 8 and a half years to reach us.",
@@ -231,7 +231,7 @@
    "concept": "Why stars twinkle and planets mostly don't",
    "status": "defined",
    "definition": "Stars twinkle because our moving air bends and shakes their light on its way to our eyes. Planets look like tiny round discs, not points, so they usually shine steadily.",
-   "description": "Stars shine steadily. The twinkle is made here, in our own air. Air is always moving, with warm and cool patches, and each patch bends light a little. A star is so far away that it reaches us as one tiny point of light. The moving air shakes that point about, so it flickers. A planet is much nearer, so it reaches us as a very small disc. The air shakes each part of the disc differently, and the wobbles even out. So a planet looks steady. Near the horizon, where we look through the most air, even planets can twinkle a little.",
+   "description": "Out in space, starlight is steady. The twinkle is made here, in our own air. Air is always moving, with warm and cool patches, and each patch bends light a little. A star is so far away that it reaches us as one tiny point of light. The moving air shakes that point about, so it flickers. A planet is much nearer, so it reaches us as a very small disc. The air shakes each part of the disc differently, and the wobbles even out. So a planet looks steady. Near the horizon, where we look through the most air, even planets can twinkle a little.",
    "examples": [
     "Astronauts above the air see stars shining with no twinkle at all.",
     "A bright, steady dot in the west soon after sunset is very often Venus or Jupiter.",
@@ -249,7 +249,7 @@
    "examples": [
     "Venus is called the morning star or the evening star, but it is a planet. In India it is called Shukra.",
     "Mars, Mangal, shines with a red-orange colour because its ground is covered in rusty dust.",
-    "Planets always wander along the same narrow path across the sky, the same path the Sun and the Moon follow."
+    "Planets always stay close to one narrow path across the sky, the same path the Sun and the Moon follow."
    ],
    "perspectives": [],
    "art": "Five nights of the same star pattern drawn side by side, with one bright dot moving a little further along each night.",
@@ -280,14 +280,14 @@
     "There is far more empty space in the solar system than anything else."
    ],
    "perspectives": [],
-   "art": "The Sun with eight planets on their orbits, the Earth highlighted with its Moon, and a small invisible-looking string of pull from the Sun to each planet.",
+   "art": "The Sun with eight planets on their orbits, the Earth highlighted with its Moon, and a faint dotted line from the Sun to each planet to show gravity.",
    "context": "This card is about the Sun's family: the planets that go round it, with the Earth among them."
   },
   {
    "concept": "What makes the Sun shine",
    "status": "defined",
    "definition": "The Sun shines because of nuclear fusion. Deep in its middle, hydrogen atoms are squeezed together so hard that they join to make helium. Joining gives out a huge amount of energy, which comes out as light and heat.",
-   "description": "The middle of the Sun is about 15 million degrees, and the Sun's own weight squeezes it tighter than anything on Earth. There, the centres of hydrogen atoms crash and join. Every second, the Sun turns about 4 million tonnes of its own matter into energy. That is like the weight of hundreds of thousands of elephants, gone into light every second. It has been shining for about 4 and a half billion years. It has enough hydrogen to keep going for about 5 billion more. People once thought the Sun was a giant fire. But a Sun made of burning coal would have burnt out in a few thousand years. In 1920 Arthur Eddington, an English astronomer, suggested the Sun runs on hydrogen turning into helium. In 1939 Hans Bethe, a German-American physicist, worked out exactly how.",
+   "description": "The middle of the Sun is about 15 million degrees Celsius, and the Sun's own weight squeezes it tighter than anything on Earth. There, the centres of hydrogen atoms crash and join. Every second, the Sun turns about 4 million tonnes of its own matter into energy. That is like the weight of hundreds of thousands of elephants, gone into light every second. It has been shining for about 4 and a half billion years. It has enough hydrogen to keep going for about 5 billion more. People once thought the Sun was a giant fire. But a Sun made of burning coal would have burnt out in a few thousand years. In 1920 Arthur Eddington, an English astronomer, suggested the Sun runs on hydrogen turning into helium. In 1939 Hans Bethe, a German-American physicist, worked out exactly how.",
    "examples": [
     "Every second, trillions of tiny particles from the Sun, called neutrinos, pass straight through your body. They even pass through the whole Earth at night.",
     "The energy made in the Sun's middle takes many thousands of years to work its way out to the surface. After that, it reaches us in 8 minutes.",
@@ -301,7 +301,7 @@
    "concept": "What stars are made of, and who found out",
    "status": "defined",
    "definition": "Stars, including the Sun, are made mostly of hydrogen and helium. Scientists found this by splitting starlight into its colours and reading the dark lines in it.",
-   "description": "Shine sunlight through a prism and you get a rainbow. Look very closely and the rainbow has thin dark lines in it. Each kind of atom makes its own set of lines, like a fingerprint. So starlight tells us what a star is made of, without anyone going there. But the lines are hard to read, because heat changes them. In 1920 Meghnad Saha, a scientist from a poor family in a village near Dhaka, worked out how a star's heat changes its lines. In 1925 Cecilia Payne, a young English student at Harvard in the United States, used Saha's idea on the lines of many stars. She found that stars are mostly hydrogen and helium, not the same mix as the Earth. The most famous American astronomer, Henry Norris Russell, told her this was impossible. She softened her claim. Four years later, Russell agreed with her, and for years many books gave him the credit.",
+   "description": "Shine sunlight through a prism and you get a rainbow. Look very closely and the rainbow has thin dark lines in it. Each kind of atom makes its own set of lines, like a fingerprint. So starlight tells us what a star is made of, without anyone going there. But the lines are hard to read, because heat changes them. In 1920 Meghnad Saha, a scientist from a poor family in a village near Dhaka, worked out how a star's heat changes its lines. In 1925 Cecilia Payne, a young English student at Harvard in the United States, used Saha's idea on the lines of many stars. She found that stars are mostly hydrogen and helium, not the same mix as the Earth. The most famous astronomer in America at the time, Henry Norris Russell, told her this was impossible. She softened her claim. Four years later, Russell agreed with her, and for years many books gave him the credit.",
    "examples": [
     "The Sun is about three quarters hydrogen and one quarter helium. All the other kinds of atom together make only about 2 parts in every 100.",
     "Helium was first found in sunlight, in 1868, before anyone found it on Earth. Its name comes from Helios, the Greek word for the Sun.",
@@ -343,7 +343,7 @@
    "concept": "Other suns have planets too",
    "status": "defined",
    "definition": "Many stars have planets going round them. A planet going round another star is called an exoplanet. Scientists have found more than 6,000 of them.",
-   "description": "For hundreds of years, people wondered if other suns had planets. In 1584 an Italian thinker, Giordano Bruno, wrote that the stars are suns with worlds of their own. His ideas got him into deep trouble. Nobody could check, because a planet near a star is far too faint to see next to its sun. In 1992 two astronomers, Aleksander Wolszczan and Dale Frail, found the first planets round another star, a strange dead star called a pulsar. In 1995 Michel Mayor and Didier Queloz, in Switzerland, found the first planet round a star like the Sun. They noticed the star wobbling a tiny bit as its planet tugged on it. Today we know there are probably more planets than stars in our galaxy.",
+   "description": "For hundreds of years, people wondered if other suns had planets. In 1584 an Italian thinker, Giordano Bruno, wrote that the stars are suns with worlds of their own. The church of his time put him on trial for his beliefs, and in 1600 he was put to death. Nobody could check, because a planet near a star is far too faint to see next to its sun. In 1992 two astronomers, Aleksander Wolszczan and Dale Frail, found the first planets round another star, a strange dead star called a pulsar. In 1995 Michel Mayor and Didier Queloz, in Switzerland, found the first planet round a star like the Sun. They noticed the star wobbling a tiny bit as its planet tugged on it. Today we know there are probably more planets than stars in our galaxy.",
    "examples": [
     "Some exoplanets go round their star in just a few days, much closer than Mercury is to the Sun.",
     "Some stars have several planets, like a small solar system of their own.",
@@ -381,7 +381,7 @@
   {
    "concept": "What we can see is only a small part",
    "status": "debated",
-   "description": "Stars and the glowing gas around them are what we can see. But in the 1970s Vera Rubin, an American astronomer, and her colleague Kent Ford measured how fast stars go round in galaxies. The outer stars were moving far too fast. With only the matter we can see, their galaxies should fly apart. Something unseen seems to be holding them. Vera Rubin had been told as a student that a university's astronomy course did not take women. She kept working, and never got a Nobel Prize.",
+   "description": "Stars and the glowing gas around them are what we can see. But in the 1970s Vera Rubin, an American astronomer, and her colleague Kent Ford measured how fast stars go round in galaxies. The outer stars were moving far too fast. With only the matter we can see, their galaxies should fly apart. Something unseen seems to be holding them. When Vera Rubin was a student, Princeton University would not let her study astronomy there, because it did not take women. She kept working, and never got a Nobel Prize.",
    "examples": [
     "If dark matter is real, there is about five times as much of it as all the stars, planets and gas put together.",
     "Huge machines deep underground are waiting to catch a single particle of dark matter. None has been caught yet."
@@ -411,7 +411,7 @@
   },
   {
    "text": "The Earth and the other planets go round the Sun.",
-   "evidence": "Galileo saw four moons going round Jupiter, so not everything goes round the Earth. Over a year, nearby stars seem to shift a tiny bit, as the Earth moves round its orbit. Spacecraft fly to the planets using this map, and they arrive."
+   "evidence": "Galileo saw four moons going round Jupiter, so not everything goes round the Earth. Over a year, nearby stars seem to shift a tiny bit, as the Earth moves round its orbit. Spacecraft fly to the planets using a map with the Sun in the middle, and they arrive."
   },
   {
    "text": "The Sun shines by nuclear fusion, joining hydrogen into helium.",
@@ -469,8 +469,8 @@
   {
    "claim": "The Sun is just an average, ordinary star.",
    "who": "Many books and teachers",
-   "for": "There are hundreds of billions of stars like it. It is not the biggest or the hottest. Its type, a G star, is a common one.",
-   "against": "Most stars, about three out of four, are small, dim red stars called red dwarfs. The Sun is brighter than about 9 out of every 10 stars in our galaxy. So it is ordinary in kind, but bigger than most.",
+   "for": "There are billions of stars like it in our galaxy. It is not the biggest or the hottest. Its type, a G star, is a common one.",
+   "against": "Most stars, about three out of four, are small, dim red stars called red dwarfs. The Sun is brighter than about 9 out of every 10 stars in our galaxy. So it is ordinary in kind, but bigger and brighter than most.",
    "status": "debated",
    "context": "This card asks whether our Sun is an ordinary star or an unusual one. The answer depends on what you compare it with."
   },
@@ -518,7 +518,7 @@
   {
    "q": "Is the Sun 'ours'? Or is it just the star we happen to live near?",
    "kind": "big",
-   "hint": "Plants, animals and people on Earth all live on its light. Does that make it ours, or make us its?"
+   "hint": "Plants, animals and people on Earth all live on its light. Does that make it ours, or do we belong to it?"
   },
   {
    "q": "The calcium in your bones and the iron in your blood were made inside stars. Are those atoms really yours, or are you borrowing them for a while?",
@@ -670,7 +670,7 @@
      "do": "1. Lay the two mats on the floor, LIGHT SOURCE on one side and REFLECTOR on the other. 2. Shuffle the 24 cards and put them face down in a pile. 3. Put the star tokens in a bowl.",
      "say": "Some things make their own light. We call them light sources. Other things only reflect, or bounce back, light that falls on them. For each card, we decide which it is, and where its light comes from.",
      "kid": "Put the two mats down: LIGHT SOURCE and REFLECTOR. Mix up the cards. Put them face down. For each card, decide. Does it make light, or reflect it?",
-     "context": "This is the first step of Light Source or Reflector?. It is a card game about which things make their own light and which only reflect it. Here you set up the game."
+     "context": "This is the first step of the game Light Source or Reflector. It is a card game about which things make their own light and which only reflect it. Here you set up the game."
     },
     {
      "id": "s2",
@@ -764,7 +764,7 @@
     },
     {
      "kind": "tokens",
-     "title": "Wanderer tokens",
+     "title": "Wanderer tokens (beads, or small circles of coloured paper)",
      "items": [
       "A yellow bead: Venus",
       "A red bead: Mars",
@@ -814,7 +814,7 @@
        ]
       }
      ],
-     "parent": "In the real sky, the Moon moves the most. It shifts about its own width every hour, and a big jump each night. Venus and Mars move a little each night. Jupiter and Saturn move very slowly, over weeks. All of them stay close to the same path across the sky."
+     "parent": "In the real sky, the Moon moves the most. It shifts about its own width every hour, so by the next evening it has moved a long way. Venus and Mars move a little each night. Jupiter and Saturn move very slowly, over weeks. All of them stay close to the same path across the sky."
     },
     {
      "id": "s3",
@@ -1332,7 +1332,7 @@
       "One small point of light, a star",
       "A huge bright ball",
       "You could not see it at all, because the Sun only shines on Earth",
-      "A Moon"
+      "A moon"
      ],
      "a": 0,
      "why": "From very far away, our Sun would look like one more star in the sky. Picking 'only shines on Earth' is a common idea. But the Sun sends light out in every direction, across the whole galaxy."
@@ -1432,7 +1432,7 @@
      "t": "write",
      "p": "Is our Sun an ordinary star, or a special one? Give one reason for each side. Then say what you think.",
      "lines": 4,
-     "a": "Ordinary: there are hundreds of billions of stars like it, and it is not the biggest or hottest. Special: it is brighter than about 9 out of 10 stars, and it is the only star we know with life near it. What I think, with a reason.",
+     "a": "Ordinary: there are billions of stars like it, and it is not the biggest or hottest. Special: it is brighter than about 9 out of 10 stars, and it is the only star we know with life near it. What I think, with a reason.",
      "why": "There is no single right answer. A good answer gives a reason for each side."
     },
     {
@@ -1481,7 +1481,7 @@
    "days": 1,
    "question": "Does a light look smaller and dimmer when it is further away, even if the light itself does not change?",
    "predict": "Before you start, guess. When the helper walks far away with the torch, will it look the same, smaller, or bigger? Brighter, or dimmer? And why do you think so?",
-   "fair_test": "Use the same torch every time, held at the same height and pointing the same way, at your chest. Change only one thing: how far away it is. Give it a score at each distance, so you can compare.",
+   "fair_test": "Use the same torch every time, held at the same height and pointing the same way, at the watcher's chest. Change only one thing: how far away it is. Give it a score at each distance, so you can compare.",
    "results_table": [
     "Distance away (big steps)",
     "How big it looked (as big as a coin, a pea, a grain of rice or a dot)",
@@ -1646,7 +1646,7 @@
      "qty": 1
     },
     {
-     "item": "a steel plate, a small mirror, a white ball or an orange, and a second phone with its screen on",
+     "item": "a steel plate, a small mirror, a white ball or an orange, and a second phone with its screen on, if you have one",
      "qty": 1
     },
     {
@@ -1846,12 +1846,12 @@
        ]
       }
      ],
-     "parent": "At 1 metre the spot is about 1 centimetre wide. It should be round even if the hole is a bit ragged, because it is a picture of the round Sun. A smaller, neater hole gives a sharper but dimmer picture. If your flat gets no direct sun, do this on the terrace or downstairs."
+     "parent": "At 1 metre the spot is about 1 centimetre wide. It should be round even if the hole is a bit ragged, because it is a picture of the round Sun. A smaller, neater hole gives a sharper but dimmer picture. If your flat gets no direct sun, do this on the terrace or downstairs, with a grown-up."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Move the card to 50 centimetres from the paper and measure the spot. 2. Then try 2 metres. A grown-up stands on the floor and holds the card high, while the child measures. The paper must stay in the card's shadow, or the spot is too faint to see.",
+     "do": "1. Move the card to 50 centimetres from the paper and measure the spot. 2. Then try 2 metres. A grown-up stands on the floor and holds the card high, while the child measures. The spot must land inside the card's shadow, or it is too faint to see.",
      "say": "Let's see what happens when the paper is further from the hole. Measure the spot each time.",
      "kid": "Move the card closer, then further away. Measure the spot each time. What happens?",
      "adult": true,
@@ -1969,9 +1969,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Take the 'out in space' pile and sort it again: 'makes its own light' and 'I am not sure'.",
-     "say": "Now look at the space pile. Which of these make their own light? Put the ones you're unsure about in a separate pile. We'll find out in this unit.",
-     "kid": "Look at the space pile. Which make their own light? Not sure? Put it in a 'not sure' pile.",
+     "do": "Take the 'out in space' pile and sort it again into three piles. The piles are 'makes its own light', 'does not make its own light' and 'not sure'.",
+     "say": "Now look at the space pile. Which of these make their own light? Which do not? Put the ones you're unsure about in a separate pile. We'll find out in this unit.",
+     "kid": "Look at the space pile. Which make their own light? Which do not? Not sure? Put it in a 'not sure' pile.",
      "check": {
       "t": "mcq",
       "q": "Before we test anything, what do you think? Does the Moon make its own light?",
@@ -1981,7 +1981,7 @@
        "I'm not sure yet"
       ],
       "a": 1,
-      "why": "This is a guess before we find out, so any honest answer is a good start. In fact the Moon makes no light. It shines with sunlight bouncing off it. You will test this in the Make Light or Bounce Light experiment."
+      "why": "This is a guess before we find out, so any honest answer is a good start. In fact the Moon makes no light. It shines with sunlight bouncing off it. You will test this in the Own Light or Reflected Light experiment."
      },
      "think": "The Sun shines in the day and the stars at night. Are they the same kind of thing, or different?"
     }
@@ -1997,8 +1997,8 @@
      "caption": "2. Sort them: in our air, or out in space?"
     },
     {
-     "art": "The space pile split again into slips with a little glowing sun mark and slips with a question mark.",
-     "caption": "3. Sort the space pile: makes its own light, or not sure?"
+     "art": "The space pile split again into three: slips with a little glowing sun mark, slips with a crossed-out sun mark, and slips with a question mark.",
+     "caption": "3. Sort the space pile: makes its own light, does not, or not sure?"
     }
    ]
   },
@@ -2063,11 +2063,11 @@
        "q": "Stand next to the peppercorn and look at the ball. Does it look big or small from here?",
        "good": [
         "Small, because it's far away.",
-        "About the size of a coin held at arm's length."
+        "Small. You could hide it behind your little finger at arm's length."
        ]
       }
      ],
-     "parent": "In this model the Sun is a ball about 22 centimetres wide, 24 metres away. From the peppercorn, the ball looks about as big as the real Sun looks in the sky. At this scale, the nearest other star would be another football about 6,300 kilometres away, about as far as from Delhi to London."
+     "parent": "In this model the Sun is a ball about 22 centimetres wide, 24 metres away. From the peppercorn, the ball looks about as big as the real Sun looks in the sky. At this scale, the nearest other star would be another football about 6,500 kilometres away, about as far as from Delhi to London."
     },
     {
      "id": "s4",
@@ -2084,7 +2084,7 @@
        "About as far away as London is from Delhi"
       ],
       "a": 2,
-      "why": "The nearest other star is about 270,000 times as far as the Sun. 24 metres times 270,000 is about 6,300 kilometres, close to the distance from Delhi to London. Picking 'the end of the street' is a very common guess. Space is far emptier than almost anyone imagines."
+      "why": "The nearest other star is about 270,000 times as far as the Sun. 24 metres times 270,000 is about 6,500 kilometres, close to the distance from Delhi to London. Picking 'the end of the street' is a very common guess. Space is far emptier than almost anyone imagines."
      },
      "think": "Space is almost all empty. So why does the night sky look so full of stars?"
     }
@@ -2228,7 +2228,7 @@
     {
      "day": 3,
      "mins": 4,
-     "what": "Same spot, same time. Draw again. Is the Moon bigger or smaller?"
+     "what": "Same spot, same time. Draw again. Is more of the Moon lit, or less?"
     },
     {
      "day": 4,
@@ -2258,7 +2258,7 @@
      "mins": 4,
      "do": "On nights 2, 3 and 4, go to the same spot at the same time. Draw the skyline, the Moon, the planet and the nearby stars again.",
      "say": "Same place, same time. Has the Moon moved? Has its shape changed? What about the planet?",
-     "kid": "Same place. Same time. Draw it all again. Has the Moon moved? Is it bigger?",
+     "kid": "Same place. Same time. Draw it all again. Has the Moon moved? Is more of it lit?",
      "adult": true,
      "wait": "Come back each evening at the same time, for 3 more nights."
     },
@@ -2459,10 +2459,11 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Leave the lid somewhere flat so the tape can set overnight.",
-     "say": "Tomorrow we'll add a wanderer and show everyone.",
-     "kid": "Leave the lid flat overnight. Tomorrow you will add a planet.",
-     "wait": "Leave the lid until the next day."
+     "do": "Tonight, with a grown-up, look from a window, the balcony or the terrace for one of your two star patterns. Orion is up on evenings from December to April. The Saptarishi is low in the north on evenings from February to June.",
+     "say": "Let's see if we can find the real pattern in the sky tonight. Tomorrow we'll add a wanderer to our box and show everyone.",
+     "kid": "Tonight, with a grown-up, look for Orion or the Saptarishi in the real sky. Tomorrow you will add a planet to your box.",
+     "wait": "Finish the box the next day.",
+     "adult": true
     },
     {
      "id": "s4",
@@ -2515,7 +2516,7 @@
    "id": "c1",
    "title": "Build a Safe Sun Viewer",
    "mins": 30,
-   "problem": "Design and build a viewer that shows a clear, round picture of the Sun at least 2 centimetres wide, so your family can watch a cloud cross it, or even a large sunspot. Nobody may look at the Sun itself.",
+   "problem": "Design and build a viewer that shows a clear, round picture of the Sun at least 2 centimetres wide, so your family can watch a cloud cross it. Nobody may look at the Sun itself.",
    "constraints": [
     "Nobody looks at the Sun, or through the viewer at the Sun.",
     "Use only things from home, like boxes, foil, card, paper and tape.",
@@ -2562,7 +2563,7 @@
      "say": "Test it. How wide is the Sun's picture? What could you change to make it bigger, or sharper?",
      "kid": "Build it. Test it with your back to the Sun. Measure the picture. Change one thing. Test again.",
      "adult": true,
-     "parent": "The picture's width is about the distance from hole to paper divided by 108. So 1 metre gives about 1 centimetre, and 2 metres gives about 2 centimetres. A sunny balcony or the stairwell can help. Dark spots on the picture that move slowly over days are sunspots, cooler patches on the Sun. Only big ones show up in a pinhole picture."
+     "parent": "The picture's width is about the distance from hole to paper divided by 108. So 1 metre gives about 1 centimetre, and 2 metres gives about 2 centimetres. A sunny balcony or the stairwell can help. Dark spots that stay on the picture and move slowly over days are sunspots, cooler patches on the Sun. Only the very biggest show up in a pinhole picture, and only now and then."
     },
     {
      "id": "s4",
@@ -2660,7 +2661,7 @@
      "think": "Baby sea turtles hatch at night and crawl towards the brightest light, which used to be the sea. What happens near a bright beach road?"
     }
    ],
-   "context": "This is a design challenge. You make a torch street lamp light the floor, the road, but not the ceiling, the sky. It is about saving the stars from light pollution.",
+   "context": "This is a design challenge. You turn a torch into a street lamp that lights the 'road' on the floor but not the 'sky' on the ceiling. It is about saving the stars from light pollution.",
    "setup": [
     {
      "art": "A torch standing on a stack of books in a dark room, lighting up the ceiling and part of the floor.",
@@ -2923,7 +2924,7 @@
    "art": "Round patches of sunlight dappled under a neem tree."
   },
   {
-   "text": "Solar panels on rooftops, water heaters and street lamps, catching the light of our star.",
+   "text": "Solar panels on rooftops, solar water heaters and solar street lamps, all catching the light of our star.",
    "art": "A rooftop in an Indian town with solar panels and a water tank."
   },
   {
@@ -2954,7 +2955,7 @@
   },
   {
    "q": "Why is the Sun's thin outer layer, its corona, much hotter than its surface?",
-   "why_open": "The surface is about 5,500 degrees, but the corona is over a million degrees. Spacecraft like NASA's Parker Solar Probe and India's Aditya-L1 are studying why."
+   "why_open": "The surface is about 5,500 degrees Celsius, but the corona is over a million degrees. Spacecraft like NASA's Parker Solar Probe and India's Aditya-L1 are studying why."
   },
   {
    "q": "How many stars have planets like the Earth, at just the right distance for water?",
@@ -3156,7 +3157,7 @@
    "why_maths": "Light takes time to travel. Counting on minutes on a clock shows exactly how old the sunlight on your hand is."
   },
   {
-   "problem": "One evening near the full Moon, the Moon rose at 6:00. The Moon rises about 50 minutes later each day, on average. About what time will it rise tomorrow? And the day after?",
+   "problem": "One evening near the full Moon, the Moon rose at 6:00 in the evening. The Moon rises about 50 minutes later each day, on average. About what time will it rise tomorrow? And the day after?",
    "answer": "About 6:50 tomorrow, and about 7:40 the day after.",
    "explain": "Add 50 minutes to 6:00. 6:00 and 50 minutes is 6:50. Then add another 50 minutes. 6:50 and 10 minutes is 7:00, and 40 more minutes makes 7:40. So the Moon rises at about 6:50 tomorrow and about 7:40 the day after. The real time changes a little from day to day, so check it in a sky app.",
    "math_unit": "math.time.telling-time.L3",
@@ -3425,8 +3426,8 @@
  "roots": {
   "context": "We have been learning that the Sun is a star, that the stars are suns, and that the Moon and planets shine with the Sun's light. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "The Sun and the stars are the same kind of thing. The Sun looks huge only because the next star is about 270,000 times further away. From a planet of another star, our Sun would be one more faint dot. A sun is simply a star seen from close by.",
-   "habit": "We sort the sky into 'the Sun', big and special, and 'the stars', small and far. That split comes from our distance to them, not from what they are.",
+   "truth": "The Sun and the stars are the same kind of thing. The Sun looks huge because it is close, and the next star is 270,000 times further away. From a planet of another star, our Sun would be one more faint dot. So 'the Sun' just means the star we happen to live next to.",
+   "habit": "We sort the sky into 'the Sun', big and special, and 'the stars', small and far. That split comes from how far away they are, not from what they are.",
    "evidence": "The same torch looked dazzling up close and like a faint star at 40 steps. Sunlight and starlight have the same dark lines, made by the same atoms. In 1838 Bessel measured a star so far away that it must shine like a sun."
   },
   "three": {
@@ -3434,7 +3435,7 @@
    "what_is_life": "Almost all life runs on the Sun's light. Plants use sunlight to make their food, and every meal you eat began with a plant catching sunlight.",
    "what_is_this_world": "The sky is full of suns. In the daytime, the light that shows you the Moon, a leaf and your own hand all comes from one star."
   },
-  "thread": "About 4 and a half billion years ago, one cloud of gas and dust pulled itself together. Its middle became the Sun, and what was left round it became the planets, the Earth among them. Older stars had made the atoms in that cloud, and those atoms became rocks, water and you. So the Sun, the Earth and your body began in one cloud, from atoms made by stars that died before. DeepKids believes this is why we and the stars are one family, not strangers looking at each other.",
+  "thread": "About 4 and a half billion years ago, one cloud of gas and dust pulled itself together. Its middle became the Sun, and what was left round it became the planets, the Earth among them. Older stars had made the atoms in that cloud, and those atoms became rocks, water and you. So the Sun, the Earth and your body began in one cloud, from atoms made by stars that died before. DeepKids believes this means we are not outsiders looking at the stars. We are made of what stars made.",
   "teachings": [
    {
     "source": "Katha Upanishad 2.2.15 (in some editions numbered 5.15)",
@@ -3443,7 +3444,7 @@
    },
    {
     "source": "Isha Upanishad 16",
-    "teaching": "A seeker speaks to the Sun: gather your dazzling rays, so I can see your kindest form. The person who is there, in the Sun, that am I.",
+    "teaching": "A seeker speaks to the Sun: gather your dazzling rays, so I can see your most beautiful form. The person who is there, in the Sun, that am I.",
     "link": "Science finds that the atoms of your body were made in stars. The Upanishad goes further and says that the one in the Sun and the one in you are the same. That is a belief, not a measurement."
    },
    {
@@ -3481,7 +3482,7 @@
   "art": "A child sitting cross-legged in sunshine with eyes closed, a thin golden thread of light running from the Sun to the child, and from the child up to a sky full of tiny suns."
  },
  "how_we_found_out": {
-  "story": "For about two thousand years, most people believed the stars were small lights fixed to a great ball round the Earth, not far beyond the planets. Some Greek thinkers made a test. If the Earth really went round the Sun, a nearby star should seem to shift a little over a year, as the Earth moved from one side of its path to the other. Nobody could see any shift, so most people decided the Earth must stand still. The real reason was that the stars are far too distant for the shift to be seen by eye. In 1838 Friedrich Bessel, a German astronomer, used a very fine telescope to watch a faint star called 61 Cygni for over a year. It shifted by a tiny amount, about as much as a coin seen from 15 kilometres away. From that shift he worked out that its light takes about 10 years to reach us. A star that far away can only be seen at all if it shines like a sun. So the stars are suns.",
+  "story": "For about two thousand years, most people believed the stars were small lights fixed to a great ball round the Earth, not far beyond the planets. Some Greek thinkers reasoned like this. If the Earth really went round the Sun, a nearby star should seem to shift a little over a year, as the Earth moved from one side of its path to the other. Nobody could see any shift, so most people decided the Earth must stand still. The real reason was that the stars are far too distant for the shift to be seen by eye. In 1838 Friedrich Bessel, a German astronomer, used a very fine telescope to watch a faint star called 61 Cygni for over a year. It shifted by a tiny amount, about as much as a coin seen from 15 kilometres away. From that shift he worked out that its light takes about 10 years to reach us. A star that far away can only be seen at all if it shines like a sun. So the stars are suns.",
   "who": "Friedrich Bessel, a German astronomer",
   "when": "1838",
   "wrong_idea": "The stars are small lights fixed close beyond the planets, and since no star seemed to shift, the Earth must stand still. Bessel measured a star's tiny yearly shift and showed it is so far away that it must be a sun."
