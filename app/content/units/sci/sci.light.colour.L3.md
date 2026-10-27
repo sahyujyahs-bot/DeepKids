@@ -875,7 +875,7 @@ Follow the Light (sci.light.L3): Topic-level song
 - [Jog Falls](https://www.karnatakatourism.org/) · place · Shivamogga district, Karnataka: A high waterfall whose spray often holds rainbows on sunny days after the monsoon.
 
 ## Things to buy
-- [Glass triangular prism, about 5 to 10 cm long](https://www.amazon.in/s?k=glass+prism+for+kids+science) (tool): Splits sunlight into a clear, bright spectrum, for the water prism test and colour sieves. Used in e1, a2. Used again in the bending light unit.
+- [Glass triangular prism, about 5 to 10 cm long](https://www.amazon.in/s?k=glass+prism+for+kids+science) (tool): Splits sunlight into a clear, bright spectrum, for the water prism test and Colour Filters. Used in e1, a2. Used again in the bending light unit.
 - [Coloured cellophane sheets: red, green and blue](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): Colour filters for the Colour Filters activity. Used in a2. 
 - [Plant spray bottle with a fine mist](https://www.amazon.in/s?k=plant+mist+spray+bottle) (tool): Makes a fine mist for a rainbow on a balcony or terrace. Any clean spray bottle with a mist setting works. Used in e2. 
 - [Diffraction grating glasses, also called rainbow glasses](https://www.amazon.in/s?k=diffraction+grating+glasses) (tool): Turn every light into a rainbow. Good for comparing lamps in the spectroscope project. Used in p1. 
