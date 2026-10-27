@@ -3,7 +3,7 @@
  "title": "Stretching and springs: what pulls a band back?",
  "level": 3,
  "summary": {
-  "text": "A stretched rubber band snaps back when you let go, but nothing pushed it, so what pulled it? The child hangs coins on a band, 5 at a time, and finds the pattern with their own hands. Each equal handful adds about the same stretch, until a spring is pulled too far and stays long. Deep down, a solid's shape is where the pulls between its atoms balance, and a pull too far lets atoms settle beside new neighbours. The same springiness works in tendons, spider webs and the rocks that bend for centuries before an earthquake.",
+  "text": "A stretched rubber band snaps back when you let go, but nothing pushed it, so what pulled it? The child hangs coins on a band, 5 at a time, and finds the pattern with their own hands. Each equal handful adds about the same stretch, until a spring is pulled too far and stays long. Deep down, a solid's shape is where the pulls between its atoms balance. A pull too far lets atoms settle beside new neighbours. The same springiness works in tendons, spider webs and the rocks that bend for centuries before an earthquake.",
   "art": "A child hanging a paper cup of coins from a rubber band beside a ruler; behind, faint pictures of a pen spring, an ankle tendon, a spider web and bent layers of rock under mountains."
  },
  "intro": {
@@ -13,10 +13,10 @@
  },
  "outcomes": [
   "I can say what elastic means: a thing changes shape when pushed or pulled, and goes back when you let go. I can name elastic things at home.",
-  "I can predict, with a reason, what equal handfuls of coins will do to a rubber band, then test it fairly and find the pattern: about equal steps of stretch.",
+  "I can guess, with a reason, what equal handfuls of coins will do to a rubber band. Then I can test it fairly and find the pattern.",
   "I can explain the elastic limit: pull too far and a thing stays stretched or snaps. I can find where a pen spring stops coming back.",
   "I can explain that a stretched or squashed spring stores energy, and give uses like catapults, wind-up toys, bows and bouncing balls.",
-  "I can find springs and elastic parts in machines, in nature and in my own body, such as tendons and spider webs, and say what job each one does.",
+  "I can find springs in machines, in nature and in my own body, and say what job each one does.",
   "I can explain, deep down, why things spring back: each atom rests where the pulls from its neighbours balance. Past the limit, atoms settle beside new neighbours, so the shape changes for good.",
   "I can give big examples of stretching: rock storing strain before an earthquake, the Earth ringing like a bell, and space itself stretching as gravitational waves pass. I can say what scientists still do not know."
  ],
@@ -79,7 +79,7 @@
   {
    "term": "Hooke's law",
    "meaning": "The rule that, for small stretches, equal extra pulls give equal extra stretches. Robert Hooke wrote it down in 1678.",
-   "example": "In the coin test, each 5 coins made the band about 1 cm longer.",
+   "example": "In the coin test, each 5 coins made the band longer by about the same step.",
    "art": "A spring hanging beside a ruler with one, two and three equal weights, its length growing by equal steps."
   },
   {
@@ -180,7 +180,7 @@
    "concept": "More pull, more stretch",
    "status": "defined",
    "definition": "For small stretches, equal extra pulls give equal extra stretches. Double the pull and you get about double the stretch. This rule is called Hooke's law.",
-   "description": "In the coin test, each 5 coins made the band longer by about the same step. Why? Each 5 coins pull down by the same amount. The band stretches until its pull back matches the pull of the coins. If the pull back grows by the same amount for each step of stretch, then equal coins must give equal steps. Robert Hooke wrote this rule down in 1678. He put it in Latin: 'ut tensio, sic vis'. It means 'as the stretch, so the force'. Steel springs follow it closely, for small stretches. Rubber bands follow it only roughly. Their steps often grow a little as the band gets long. This rule is why a spring balance has evenly spaced marks. The unit on measuring forces looks at spring balances more closely.",
+   "description": "In the coin test, each 5 coins made the band longer by about the same step. Why? Each 5 coins pull down by the same amount. The band stretches until its pull back matches the pull of the coins. Suppose the pull back grows by the same amount for each step of stretch. Then equal coins must give equal steps. Robert Hooke wrote this rule down in 1678. He put it in Latin: 'ut tensio, sic vis'. It means 'as the stretch, so the force'. Steel springs follow it closely, for small stretches. Rubber bands follow it only roughly. Their steps often grow a little as the band gets long. This rule is why a spring balance has evenly spaced marks. The unit on measuring forces looks at spring balances more closely.",
    "examples": [
     "One bag of shopping stretches the spring of a luggage scale a little. Two bags stretch it about twice as far.",
     "A thick rubber band needs a bigger pull than a thin one to stretch the same amount. Scientists say it is stiffer."
@@ -226,9 +226,9 @@
    "concept": "The elastic limit: spring back, stay stretched, or snap",
    "status": "defined",
    "definition": "Every elastic thing has a limit. Stretch it less than its limit and it springs back. Stretch it past its limit and it stays stretched, or it snaps.",
-   "description": "Pull a pen spring gently and it springs back neat. Pull it hard and it stays long and loose. It has gone past its elastic limit. Scientists sort materials into three kinds. Elastic things spring back, like rubber. Stay-changed things, like playdough and chewing gum, keep their new shape. Scientists call this plastic. Snapping things, like a dry twig or a papad, hardly bend before they break. Scientists call this brittle. Many things do all three. A steel spoon springs back from a small bend. Push hard and it stays bent. Bend it back and forth many times and it can snap.",
+   "description": "Pull a pen spring gently and it springs back neatly. Pull it hard and it stays long and loose. It has gone past its elastic limit. Scientists sort materials into three kinds. Elastic things spring back, like rubber. Stay-changed things, like playdough and chewing gum, keep their new shape. Scientists call this plastic. Snapping things, like a dry twig or a papad, hardly bend before they break. Scientists call this brittle. Many things do all three. A steel spoon springs back from a small bend. Push hard and it stays bent. Bend it back and forth many times and it can snap.",
    "examples": [
-    "A rubber band left round a newspaper for months goes loose and floppy.",
+    "Bend a steel hairpin a little and it springs back. Bend it hard and it stays bent.",
     "A green twig bends and springs back. A dry twig snaps.",
     "A strip cut from a thin carry bag stretches long and stays long."
    ],
@@ -244,7 +244,8 @@
    "examples": [
     "Scientists often build models of solids with little balls joined by springs.",
     "Bend a steel spoon a little and it springs back. Bend it hard and it stays bent, because rows of its atoms have slipped.",
-    "Heat makes atoms jiggle more on their bonds. That is why a metal rod gets very slightly longer when it is hot."
+    "Heat makes atoms jiggle more on their bonds. That is why a metal rod gets very slightly longer when it is hot.",
+    "Some wire, called memory metal, goes back to its old shape when you warm it. Its atoms have two ways of sitting in rows. Warmth moves them back to the first way. Even this 'memory' is only atoms finding a balance."
    ],
    "perspectives": [],
    "art": "A zoom in four steps: a pen spring; the wire; rows of atoms held by small arrows that balance; one row slipped along, each atom beside new neighbours.",
@@ -254,7 +255,7 @@
    "concept": "A long band is many springs in a row",
    "status": "defined",
    "definition": "A long spring stretches more than a short one, because it is like many short springs joined in a row. A thick band stretches less, because it is like many thin bands side by side, sharing the pull.",
-   "description": "In the Two in a Row activity, two bands in a chain stretched about twice as far as one band. Each band in the chain carries the whole weight of the coins, so each stretches as much as one band alone. Side by side, each band carries only half the weight, so the pair stretches about half as far. Atoms work the same way. A long wire has more bonds in a row. Each bond stretches a tiny bit, and all the tiny bits add up. Robert Hooke used this idea. A short wire hardly seemed to stretch at all. So he hung weights from a wire 20 to 40 feet long, and the stretch became big enough to measure.",
+   "description": "In the Two in a Row activity, two bands in a chain stretched about twice as far as one band. Each band in the chain carries the whole weight of the coins. So each stretches as much as one band alone. Side by side, each band carries only half the weight, so the pair stretches about half as far. Atoms work the same way. A long wire has more bonds in a row. Each bond stretches a tiny bit, and all the tiny bits add up. Robert Hooke used this idea. A short wire hardly seemed to stretch at all. So he hung weights from a wire 20 to 40 feet long, about 6 to 12 metres. Then the stretch became big enough to measure.",
    "examples": [
     "A long rubber band stretches further than a short one of the same thickness, with the same coins.",
     "A bungee cord is many thin rubber strands side by side, so it can hold a person.",
@@ -309,7 +310,7 @@
    "concept": "Bouncing is a squash and a spring back",
    "status": "defined",
    "definition": "When a ball hits the floor, it squashes for a very short moment. Then it springs back and pushes itself up. That is a bounce.",
-   "description": "The squash is too quick to see. Slow-motion films show a tennis ball going flat on one side when it lands. Wet a ball and drop it on a dry floor, and the wet mark shows how big the squashed part was. No ball bounces all the way back up. Some of the energy turns into heat and sound each time. A rubber ball keeps more of its energy, so it bounces higher. A ball of clay is not elastic. It squashes and stays squashed, so it does not bounce at all. Tennis has a rule about bounce. A tennis ball dropped from 254 cm must bounce back up between 135 cm and 147 cm.",
+   "description": "The squash is too quick to see. Slow-motion films show a tennis ball going flat on one side when it lands. Wet a ball and drop it on a dry floor. The wet mark shows how big the squashed part was. No ball bounces all the way back up. Some of the energy turns into heat and sound each time. A rubber ball keeps more of its energy, so it bounces higher. A ball of clay is not elastic. It squashes and stays squashed, so it does not bounce at all. Tennis has a rule about bounce. A tennis ball dropped from 254 cm must bounce back up between 135 cm and 147 cm.",
    "examples": [
     "A bouncy rubber ball bounces higher than a sponge ball.",
     "A trampoline's springs and stretchy mat squash down under you, then push you up."
@@ -322,7 +323,7 @@
    "concept": "Springs in living things",
    "status": "defined",
    "definition": "Living bodies are full of elastic parts. Tendons, skin, lungs and blood vessels stretch and spring back. Some animals store energy in springs to jump.",
-   "description": "When you run, the tendon at the back of your ankle stretches as you land. It springs back as you push off. A tendon gives back about nine-tenths of the energy put into it, which saves your muscles work. The arch of your foot is a spring too. Kangaroos hop a long way on huge springy tendons in their legs. A flea jumps with a pad of a rubbery stuff called resilin. Torkel Weis-Fogh, a Danish scientist, discovered resilin in insects in 1960. The flea's muscles squash the pad slowly and lock it. Then it lets go all at once, far faster than any muscle could move. A spider's web catches a flying insect by stretching. The sticky spiral threads can stretch to more than twice their length, soak up the insect's speed, then pull back. Your skin springs back because of a stretchy stuff called elastin. Your biggest blood vessel stretches with each heartbeat and springs back. Inside your muscles is titin, the biggest protein your body makes. It works like a tiny spring.",
+   "description": "When you run, the tendon at the back of your ankle stretches as you land. It springs back as you push off. Tests show that a tendon gives back about nine-tenths of the energy put into it. That saves your muscles work. The arch of your foot is a spring too. Kangaroos hop a long way on huge springy tendons in their legs. A flea jumps with a pad of a rubbery stuff called resilin. Torkel Weis-Fogh, a Danish scientist, discovered resilin in insects in 1960. The flea's muscles squash the pad slowly and lock it. Then it lets go all at once, far faster than any muscle could move. A spider's web catches a flying insect by stretching. The sticky spiral threads can stretch to more than twice their length, soak up the insect's speed, then pull back. Your skin springs back because of a stretchy stuff called elastin. Your biggest blood vessel stretches with each heartbeat and springs back. Inside your muscles is titin, the biggest protein your body makes. It works like a tiny spring.",
    "examples": [
     "Pinch the skin on the back of your hand and let go. It springs back.",
     "A spider's web sags when an insect hits it, instead of breaking, then springs back.",
@@ -349,7 +350,7 @@
    "concept": "The Earth is springy: earthquakes and a ringing planet",
    "status": "defined",
    "definition": "Rock is elastic too. Where giant pieces of the Earth's crust press together, the rock bends slowly and stores strain. When it suddenly slips, it springs back, and the ground shakes. That is an earthquake.",
-   "description": "The Earth's outer layer is broken into giant pieces called plates. They move slowly, about as fast as your fingernails grow. The plate India sits on is pushing north into Asia. Where two plates press together, the rock gets stuck. It bends slowly, like a ruler pressed at one end, and stores strain. Across the Himalaya, GPS stations show the rock being squeezed by about 2 centimetres every year. This can go on for hundreds of years. Then the rock slips and springs back in seconds, and the ground shakes. That happened in Nepal on 25 April 2015. Harry Fielding Reid, an American scientist, explained this in 1910. He studied the great San Francisco earthquake of 1906. Earthquake waves can travel through the Earth only because rock is springy. After a giant earthquake in Chile in 1960, instruments found the whole Earth vibrating slowly, like a struck bell, for days.",
+   "description": "The Earth's outer layer is broken into giant pieces called plates. They move slowly, about as fast as your fingernails grow. The plate India sits on is pushing north into Asia. Where two plates press together, the rock gets stuck. It bends slowly, like a ruler pressed at one end, and stores strain. Across the Himalaya, GPS stations show the rock being squeezed by about 2 centimetres a year. This can go on for hundreds of years. Then the rock slips and springs back in seconds, and the ground shakes. That happened in Nepal on 25 April 2015. Harry Fielding Reid, an American scientist, explained this in 1910. He studied the great San Francisco earthquake of 1906. Earthquake waves can travel through the Earth only because rock is springy. In 1960 there was a giant earthquake in Chile. Afterwards, instruments found the whole Earth vibrating slowly for days, like a struck bell.",
    "examples": [
     "The Himalayas are still being pushed up, which is why north India and Nepal have earthquakes.",
     "Bend a plastic ruler slowly until it slips off your finger. It springs back with a twang, like rock in an earthquake."
@@ -362,10 +363,10 @@
    "concept": "Space itself stretches: gravitational waves",
    "status": "defined",
    "definition": "Space can stretch and squeeze. When huge things like black holes crash together, they send out ripples in space called gravitational waves.",
-   "description": "Albert Einstein predicted these ripples in 1916. As a wave passes, space stretches one way and squeezes the other way, then back again. On 14 September 2015, two giant instruments in the United States, called LIGO, caught one for the first time. It came from two black holes that crashed together more than a billion years ago. The wave stretched LIGO's 4-kilometre-long arms by less than a thousandth of the width of a proton, a speck inside an atom. More than a thousand scientists worked on it, including teams from India. India is now building its own detector, called LIGO-India, in Maharashtra. The whole universe is stretching too. Galaxies are slowly getting further apart, because the space between them is growing.",
+   "description": "Albert Einstein predicted these ripples in 1916. As a wave passes, space stretches one way and squeezes the other way, then back again. On 14 September 2015, two giant instruments in the United States, called LIGO, caught one for the first time. It came from two black holes that crashed together more than a billion years ago. The wave stretched LIGO's 4-kilometre-long arms by less than a hundredth of the width of a proton. A proton is a speck inside an atom. More than a thousand scientists worked on it, including teams from India. India is now building its own detector, called LIGO-India, in Maharashtra. The whole universe is stretching too. Galaxies are slowly getting further apart, because the space between them is growing.",
    "examples": [
     "Draw dots on a wide rubber band and stretch it. Every dot moves away from every other dot, a little like galaxies in our growing universe.",
-    "A gravitational wave passing through you right now would stretch you a tiny bit taller and thinner, then shorter and wider."
+    "A gravitational wave passing through you would stretch you a tiny bit taller and thinner. Then it would make you shorter and wider."
    ],
    "perspectives": [],
    "art": "Two black holes spiralling together, sending rings of stretched and squeezed space across a grid towards a tiny Earth.",
@@ -476,7 +477,7 @@
    "claim": "Robert Hooke alone discovered the rule for springs, and invented the spring for watches.",
    "who": "Many physics books",
    "for": "Hooke published the spring rule in 1678. He also worked on springs to control watches in the 1660s.",
-   "against": "Christiaan Huygens, a Dutch scientist, built a watch with a spiral spring in 1675. The two men argued bitterly about who was first. Hooke had hidden his rule in a code of jumbled letters in 1676, so that nobody could steal it before he was ready. Historians still disagree about the watch spring. The spring rule is fairly given to Hooke.",
+   "against": "Christiaan Huygens, a Dutch scientist, built a watch with a spiral spring in 1675. The two men argued bitterly about who was first. Hooke had hidden his spring rule in a code of jumbled letters in 1676. That way nobody could steal it before he was ready. Historians still disagree about the watch spring. The spring rule is fairly given to Hooke. In France, Edme Mariotte found the same rule on his own a few years later.",
    "status": "debated",
    "context": "This card is about who gets the credit for discovering how springs work."
   },
@@ -498,11 +499,11 @@
   },
   {
    "claim": "Cold would not matter to the rubber seals on the space shuttle Challenger.",
-   "who": "Managers at NASA and at the company that made the rockets, in January 1986",
+   "who": "Managers at NASA and at the company that made the booster rockets, in January 1986",
    "for": "The seals had worked on earlier flights. The managers were under pressure to launch on time.",
-   "against": "An engineer called Roger Boisjoly warned the night before that cold rubber goes stiff and springs back too slowly. The launch went ahead on a freezing morning. A seal failed, and the shuttle broke apart. The seven astronauts on board died. Later, the scientist Richard Feynman dipped a piece of the seal rubber in iced water during the inquiry. It stayed squashed instead of springing back.",
+   "against": "An engineer called Roger Boisjoly warned the night before that cold rubber goes stiff and springs back too slowly. The launch went ahead on a freezing morning. A seal failed, and the shuttle broke apart. The seven astronauts on board died. Later, the scientist Richard Feynman squeezed a piece of the seal rubber in a small clamp. He dipped it in iced water during the inquiry. When he let go, it stayed squashed for a few seconds instead of springing back.",
    "status": "rejected",
-   "context": "This card is a sad true story. It shows why it matters how fast rubber springs back, and why it matters to listen to people who warn us."
+   "context": "This card is a sad true story. It shows why it matters how fast rubber springs back."
   },
   {
    "claim": "A branch that is bending is about to break.",
@@ -600,7 +601,7 @@
    "The next morning, the children hung the swing again, on the low branch. It was not as exciting. It did not go higher than the shed. But after every turn, Ammu watched the seat as the rider jumped off, and every time, the branch lifted it back up to exactly the height of her chin.",
    "On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour."
   ],
-  "epiphany": "For the parent: a branch, like a rubber band or a spring, is elastic. Pushed a little, it bends and springs all the way back. Pushed past its elastic limit, it bends and stays bent. That small bend that does not come back is the warning. The thing has started to change inside, and it is close to breaking. Ammu spots this because she has seen the same thing in an old rubber sheet. Engineers watch for this sign in bridges, cranes and aeroplane wings. The story also asks how hard it is to speak up when others laugh, and to listen when someone warns us.",
+  "epiphany": "For the parent: a branch, like a rubber band or a spring, is elastic. Pushed a little, it bends and springs all the way back. Pushed past its elastic limit, it bends and stays bent. That small bend that does not come back is the warning. The thing has started to change inside, and it is close to breaking. Ammu spots this because she has seen the same thing in an old rubber sheet. Engineers watch for this sign in bridges, cranes and aeroplane wings.",
   "ask": [
    "How did Ammu's mother test a rubber sheet? What did it mean when the sheet stayed stretched?",
    "What did Ammu notice about the swing seat after the big boys jumped off?",
@@ -744,7 +745,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Take turns. Each player draws a card, reads it out and puts it on a mat. 2. They name a place where that behaviour is useful. 3. Give one token for each good idea.",
-     "say": "When you put your card down, tell me where it is useful that this thing springs back, or stays, or snaps.",
+     "say": "Put your card on a mat. Then tell me one place where it helps that this thing springs back, stays or snaps.",
      "kid": "Take turns. Read your card. Put it on a mat. Then say where that is useful. Each good idea wins a 🌀 token.",
      "parent": "Good ideas: a hair band must spring back, or it would fall off. Playdough must stay, or you could not make shapes. A papad snapping is how you know it is crisp. Some cards are tricky. A sponge springs back. Crumpled foil stays. A spider web springs back, which is how it catches flies without breaking."
     },
@@ -1399,7 +1400,7 @@
       "It is cold"
      ],
      "a": 0,
-     "why": "Elastin is a stretchy material in skin, lungs and blood vessels. Picking 'blood pushes it back' is a sensible guess. But blood moves too slowly to push skin back so fast. Picking 'rubber' is close in spirit, because elastin is rubbery, but it is made by your body."
+     "why": "Elastin is a stretchy material in skin, lungs and blood vessels. Picking 'blood pushes it back' is a sensible guess. But the skin springs back by itself. Old skin has less elastin, so it springs back more slowly. Picking 'rubber' is close in spirit, because elastin is rubbery, but it is made by your body."
     },
     {
      "t": "write",
@@ -1503,7 +1504,7 @@
       "Stretched them by 1 metre"
      ],
      "a": 0,
-     "why": "The stretch was less than a thousandth of the width of a proton, a tiny speck inside an atom. Picking '1 metre' shows how hard it is to imagine something so small. That is why LIGO took decades to build.",
+     "why": "The stretch was less than a hundredth of the width of a proton. A proton is a tiny speck inside an atom. Picking '1 metre' shows how hard it is to imagine something so small. That is why LIGO took decades to build.",
      "context": "A gravitational wave is a ripple in space itself. It stretches space one way and squeezes it the other way."
     },
     {
@@ -1535,7 +1536,7 @@
       "Isaac Newton"
      ],
      "a": 0,
-     "why": "Dorothy Hosler's team showed in 1999 how they mixed rubber-tree sap with morning glory juice. Picking Goodyear is common, because books credit him. He lived about 3,300 years later."
+     "why": "Dorothy Hosler's team showed in 1999 how they mixed rubber-tree sap with morning glory juice. Picking Goodyear is common, because books credit him. He lived about 3,400 years later."
     },
     {
      "t": "mcq",
@@ -1592,7 +1593,7 @@
     },
     {
      "t": "write",
-     "p": "Robert Hooke used a wire 20 to 40 feet long to measure stretch, not a short one. Why does a long wire help?",
+     "p": "Robert Hooke used a wire 20 to 40 feet long, about 6 to 12 metres, to measure stretch. Why does a long wire help?",
      "lines": 3,
      "a": "A long wire has many more bits, or bonds, in a row. Each bit stretches a tiny amount, and all the tiny amounts add up to a stretch big enough to measure.",
      "why": "This is the same reason two bands in a chain stretch twice as far as one.",
@@ -1609,7 +1610,7 @@
    "days": 1,
    "context": "This is the coin test. You hang a cup from a rubber band and add coins, 5 at a time, measuring the band each time. Then you pull a pen spring a little further each time, to find where it stops coming back.",
    "question": "When you add coins in equal handfuls, how does a rubber band's length change? And how far can a spring be pulled before it stops coming back?",
-   "predict": "Before you add any coins, guess. Each time we add 5 coins, will the band grow by the same amount, by more and more, or by less and less? Why do you think so? And if we pull a spring further and further, will it always come back? Why?",
+   "predict": "Before you add any coins, guess. Each time we add 5 coins, will the band grow by the same amount? By more and more? Or by less and less? Why do you think so? And if we pull a spring further and further, will it always come back? Why?",
    "fair_test": "Change only the number of coins. Use the same band, the same cup, the same kind of coins and the same ruler. Add exactly 5 coins each time. Wait until the cup stops bouncing, and read the ruler at eye level at the bottom of the band. For the pen spring, change only how far you pull it.",
    "results_table": [
     "Coins in the cup",
@@ -1627,7 +1628,7 @@
      "qty": 1
     },
     {
-     "item": "40 coins of the same kind, such as 1-rupee coins. If you have fewer, use any 8 equal small things, such as AA batteries",
+     "item": "40 coins of the same kind, such as 1-rupee coins. If you have fewer, use 8 AA batteries of the same kind and add one at a time",
      "qty": 40
     },
     {
@@ -1652,7 +1653,7 @@
      "what": "Guess with a reason, add coins 5 at a time and measure, then pull a pen spring further each time until it stops coming back."
     }
    ],
-   "record": "Fill in the coin table. Then make a second table for the pen spring, with two columns: how far you pulled it, and its length after letting go. Circle the first pull it did not come back from.",
+   "record": "Fill in the coin table. Then make a second table for the pen spring. One column says how far you pulled it. The other says its length after you let go. Circle the first pull it did not come back from.",
    "setup": [
     {
      "art": "A pencil resting across the backs of two chairs, a thin rubber band looped over it, a paper cup hanging from the band by a string handle, and a ruler taped upright beside it.",
@@ -1754,7 +1755,7 @@
        ]
       }
      ],
-     "parent": "Any guess with a reason is a good guess. Don't hint. The coins will answer it. Children often pick 'more and more', because a long band looks weaker."
+     "parent": "Any guess with a reason is a good guess. Don't hint. The coins will answer it. Some children pick 'more and more', because a long band looks weaker."
     },
     {
      "id": "s3",
@@ -1924,7 +1925,7 @@
       "a": 0,
       "why": "Past its elastic limit, the spring changed inside and took a new length. Picking 'tired' gives the spring feelings, and it has none. Something did change, though, and the next cards show what."
      },
-     "parent": "Most pen springs come back from small pulls, and start to stay longer once pulled to between one and a half and two times their length. At the end, a gentle pull still springs back, but now to its new length."
+     "parent": "Most pen springs come back from small pulls. Many start to stay longer once pulled to about one and a half to two times their length. Yours may be different, so trust what you measure. At the end, a gentle pull still springs back, but now to its new length."
     },
     {
      "id": "s9",
@@ -2011,7 +2012,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Now squash the spring all the way down, and do the same 3 times.",
-     "say": "Now squash it all the way. Where does the extra jump come from?",
+     "say": "Now we'll squash it all the way. Will it jump higher, lower or the same? Why do you think so?",
      "kid": "Now squash it all the way down. Let go the same way. Measure 3 times. Higher or lower?",
      "ask": [
       {
@@ -2071,7 +2072,7 @@
    "days": 1,
    "question": "When we stretch or bend different things, which spring back, which stay changed, and which snap?",
    "predict": "Before you test each thing, guess. Will it spring back, stay changed, or snap? Why do you think so?",
-   "fair_test": "Measure each thing before you stretch it. Stretch each one to about twice its length, or bend it gently, then let go. Measure it again straight away. That way you compare each thing with itself.",
+   "fair_test": "Measure each thing before you stretch it. Stretch each one to about twice its length, or bend it gently, then let go. Pull the pen spring only a little at first. Measure it again straight away. That way you compare each thing with itself.",
    "results_table": [
     "Thing",
     "My guess",
@@ -2146,7 +2147,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Stretch the rubber band, plastic strip, pen spring and dough to about twice their length. 2. Let go. 3. Measure each one again straight away. 4. Gently bend the spaghetti until it bends a little, then more.",
+     "do": "1. Stretch the rubber band, plastic strip and dough to about twice their length. Pull the pen spring only a little. 2. Let go. 3. Measure each one again straight away. 4. Gently bend the spaghetti until it bends a little, then more.",
      "say": "Stretch it to twice as long. Let go. Now measure. Is it the same as before?",
      "kid": "Stretch each one to twice as long. Let go. Measure again. Bend the spaghetti gently. What happens?",
      "parent": "Expect this. The rubber band springs back. The plastic strip stays long and thin. The dough stays long. The pen spring springs back if pulled gently, but stays long if pulled hard. The spaghetti bends a tiny bit, then snaps."
@@ -2155,7 +2156,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Pull the old pen spring very hard, far past twice its length. Let go and measure.",
-     "say": "Now let's pull the spring too far on purpose. Watch what happens when we let go.",
+     "say": "Now let's pull the spring too far on purpose. What do you think it will do when we let go? Why?",
      "kid": "Pull the old pen spring very hard. Let go. Did it come back? Measure it.",
      "check": {
       "t": "mcq",
@@ -2311,7 +2312,7 @@
      "do": "1. Hold a ball with its bottom at the 1-metre mark. 2. Let go without pushing. 3. The other person watches the strip at eye level and calls out how high the bottom of the ball gets. 4. Do each ball 3 times.",
      "say": "Just open your fingers. Don't throw it. Watch the strip. How high did it come back up?",
      "kid": "Hold the ball at the top mark. Just let go. Watch how high it comes back. Try each ball 3 times.",
-     "parent": "The top of a bounce is fast, so it helps to do a test drop first and watch only the right part of the strip. A phone video in slow motion helps too."
+     "parent": "The top of a bounce is fast. Do a test drop first, then watch only the right part of the strip. A phone video in slow motion helps too."
     },
     {
      "id": "s3",
@@ -2470,7 +2471,7 @@
      "say": "For each one, what is its job? Does it stretch, squash, bend or bounce? What would happen if it were not elastic?",
      "kid": "For each find, say its job. Does it stretch, squash, bend or bounce? Write it down.",
      "adult": true,
-     "parent": "Good finds: the squash spring in a clicky pen, the twisty spring in a clothes peg, stretch springs in a spring balance or a trampoline, the elastic in socks, a hair band, the springs in a cycle seat. Outdoors, a low green branch bends and springs back. This tree-branch hunt is one of the founder's ideas."
+     "parent": "Good finds include the squash spring in a clicky pen and the twisty spring in a clothes peg. Look for stretch springs in a spring balance or a trampoline. The elastic in socks, a hair band and the springs in a cycle seat count too. Outdoors, a low green branch bends and springs back."
     },
     {
      "id": "s3",
@@ -2656,7 +2657,7 @@
      "mins": 4,
      "do": "1. Pinch the skin on the back of your hand and let go. Watch it. 2. Then press two fingers gently on the inside of your wrist and feel your pulse.",
      "say": "Pinch the skin on the back of your hand and let go. Watch it closely. Why do you think it goes back? Now feel the beat in your wrist. What could be stretching there?",
-     "kid": "Pinch your skin. Let go. It springs back! Now feel your wrist. That beat is a blood tube stretching.",
+     "kid": "Pinch your skin. Let go. What does it do? Now feel your wrist. What could be stretching there?",
      "check": {
       "t": "mcq",
       "q": "Your skin springs back after a pinch. That means skin is…",
@@ -2787,7 +2788,7 @@
      "mins": 6,
      "do": "1. Ask your child why the far dot moved most, and wait for an answer. 2. Then talk about the real universe.",
      "say": "No one pushed any dot. So why did dot E end up furthest away? Take your time. Astronomers see far galaxies moving away from us faster than near ones. What do you think is stretching?",
-     "kid": "No dot moved by itself. The rubber stretched. Space between galaxies stretches too. Far ones move away faster!",
+     "kid": "No one pushed any dot. So why did dot E move furthest? Think, then tell someone.",
      "check": {
       "t": "mcq",
       "q": "On the stretched strip, which dot moved furthest from dot A?",
@@ -2862,7 +2863,7 @@
      "mins": 5,
      "do": "1. Pluck each band and listen. 2. Watch how it blurs.",
      "say": "Pluck each band and watch it closely. What is the band doing? Which band makes the lowest note? Why do you think so?",
-     "kid": "Pluck each band. Watch it blur. It is springing back and forth very fast!",
+     "kid": "Pluck each band. Watch it blur. What is the band doing?",
      "ask": [
       {
        "q": "Which band makes the lowest note?",
@@ -2891,14 +2892,14 @@
       "a": 0,
       "why": "A tighter band pulls back harder and shakes faster, which makes a higher note. Picking 'lower' often comes from thinking a longer stretch must sound deeper. Listen again to check."
      },
-     "parent": "After they test it: a tighter band pulls back harder, so it shakes faster, and faster shaking makes a higher note."
+     "parent": "After they test it: a tighter band pulls back harder, so it shakes faster. Faster shaking makes a higher note."
     },
     {
      "id": "s4",
      "mins": 2,
      "do": "Talk about Indian instruments and C. V. Raman.",
-     "say": "A veena, a sitar and a tabla all use stretched strings or stretched skins. In 1920, the Indian scientist C. V. Raman worked out why Indian drums like the tabla and mridangam sound so musical.",
-     "kid": "A veena and a tabla use stretched strings and skins. C. V. Raman, an Indian scientist, studied why they sound so sweet.",
+     "say": "A veena, a sitar and a tabla all use stretched strings or stretched skins. In 1920, the Indian scientist C. V. Raman worked out why Indian drums like the tabla and mridangam sound so musical. The secret is the black patch on the drum skin.",
+     "kid": "A veena and a tabla use stretched strings and skins. C. V. Raman, an Indian scientist, found out why the drums sound so musical.",
      "think": "Which instruments in your home or temple use something stretched?"
     }
    ],
@@ -2947,8 +2948,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Gently bend the green twig, then let go. 2. Gently bend the dry twig the same amount.",
-     "say": "Which one bends and comes back? Which one snaps? Why do you think the living one is springier?",
+     "do": "1. Ask for a guess and a reason. 2. Gently bend the green twig, then let go. 3. Gently bend the dry twig the same amount.",
+     "say": "Before we bend them, guess. Which twig will spring back, and which will snap? Why do you think so?",
      "kid": "Bend the green twig. Let go. Now bend the dry twig. Which one snapped?",
      "context": "This is the first step of Bend or Snap?. You compare a living twig and a dead one. Then you use a ruler to show how earthquakes happen."
     },
@@ -2967,7 +2968,7 @@
        ]
       }
      ],
-     "parent": "After your child answers: the ruler stored energy as it bent, and let it go all at once as shaking and sound. Rock underground bends slowly for years in the same way. When it slips, the shaking is an earthquake."
+     "parent": "After your child answers: the ruler stored energy as it bent. It let the energy go all at once, as shaking and sound. Rock underground bends slowly for years in the same way. When it slips, the shaking is an earthquake."
     },
     {
      "id": "s3",
@@ -3336,8 +3337,8 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Measure the table height. 2. Work out how many bands should bring the doll close to the floor. 3. Make your prediction and test it.",
-     "say": "Look at your table. How much further did each extra band let the doll fall? Our table is 75 cm tall. How many bands can we use, and why?",
-     "kid": "Measure the table. Each band adds about 10 cm. How many bands do you need? Test it!",
+     "say": "Look at your table. How much further did each extra band let the doll fall? How tall is our table? So how many bands can we use, and why?",
+     "kid": "Measure the table. How much does each band add? How many bands do you need? Test it!",
      "how": "c2",
      "check": {
       "t": "mcq",
@@ -3568,7 +3569,7 @@
     "The same"
    ],
    "a": 0,
-   "why": "Each band in the chain carries all the coins, so each stretches as much as one band, and the stretches add up. Picking 'half' mixes it up with two bands side by side, which share the pull.",
+   "why": "Each band in the chain carries all the coins. So each stretches as much as one band, and the stretches add up. Picking 'half' mixes it up with two bands side by side, which share the pull.",
    "outcome": 5,
    "how": "a2"
   },
@@ -3581,7 +3582,7 @@
     "Some of its atoms were used up"
    ],
    "a": 0,
-   "why": "Past the elastic limit, rows of atoms slip and rest in a new balance, so the spring has a new length. Picking 'remembers' gives the spring a mind. Nothing is remembered. The atoms simply moved. Picking 'used up' is a common guess, but atoms are not lost.",
+   "why": "Past the elastic limit, rows of atoms slip and rest in a new balance. So the spring has a new length. Picking 'remembers' gives the spring a mind. Nothing is remembered. The atoms simply moved. Picking 'used up' is a common guess, but atoms are not lost.",
    "outcome": 5,
    "how": "e1"
   },
@@ -3635,7 +3636,7 @@
   "Bungee cords are bundles of rubber strands that stretch to stop a fall gently.",
   "Musical instruments like the veena, sitar, violin and tabla use stretched strings and skins.",
   "Earthquake-safe buildings are designed to sway and spring back instead of cracking.",
-  "Doctors use springy wires to straighten teeth and springy stents to hold blood vessels open.",
+  "Dentists use springy wires, often of memory metal, to straighten teeth. Doctors use springy tubes called stents to hold blood vessels open.",
   "Scientists copy spider silk and resilin to try to make new, tougher materials.",
   "LIGO and the future LIGO-India use the stretching of space to listen to black holes crashing far away.",
   "GPS stations across the Himalaya measure the slow bending of rock, to understand where strain is building before earthquakes."
@@ -4321,16 +4322,16 @@
  "roots": {
   "context": "We have found that equal pulls give equal stretches, until a spring is pulled too far and stays long. Now we ask what that tells us about the shapes of things, and about ourselves.",
   "deep_truth": {
-   "truth": "A spring does not remember its shape. Its shape is where the pulls between its atoms balance. Pull a little, and those pulls bring it back. Pull too far, and its atoms settle beside new neighbours, so the old shape is gone.",
-   "habit": "We talk as if a spring remembers its shape, or wants to go back, as if the shape were stored inside it. Nothing is stored and nothing is wanted. The shape is a balance, held from moment to moment by pulls between atoms. So 'springs back' and 'stays bent' are not two kinds of stuff. The same pen spring does both. It depends on how far it is pulled.",
-   "evidence": "In the coin test, each 5 coins added about the same stretch, and the band came back when the coins came out. The pen spring came back from small pulls. After a big pull it rested at a new, longer length, and from then on it sprang back to that new length."
+   "truth": "A spring does not remember its shape. Its shape is only where the pulls between its atoms balance. Pull a little, and those pulls bring it back. Pull too far, and its atoms settle beside new neighbours in a new balance. From then on, that new shape is the one it springs back to.",
+   "habit": "We talk as if a spring remembers its shape and wants to go back to it. It is as if the shape were stored inside. Nothing is stored and nothing is wanted. The shape is a balance, held from moment to moment by pulls between atoms. So 'springs back' and 'stays bent' are not two kinds of stuff. The same pen spring does both. It depends on how far it is pulled.",
+   "evidence": "In the coin test, each 5 coins added about the same stretch. The band came back when the coins came out. The pen spring came back from small pulls. After a big pull it rested at a new, longer length. From then on it sprang back to that new length."
   },
   "three": {
    "who_am_i": "Your shape is held by pulls too. Your tendons, skin and bones stretch a little with every step, and bring you back.",
    "what_is_life": "Living things are full of springs: tendons, spider silk, the rubbery pad in a flea's leg. They store a step or a jump and give most of it back.",
    "what_is_this_world": "Every solid is a spring, even stone and steel. Some are just very stiff. The rock under India is being bent, slowly, right now."
   },
-  "thread": "A spring at rest looks as if nothing is happening in it. In fact it is full of pulls and pushes, and they add up to zero. That zero is not emptiness. It is a balance, and every shape a solid holds comes out of it. DeepKids sees this as the One becoming the many: one balance of pulls, showing up as a pen spring, a tendon, a spider's thread and a mountain range.",
+  "thread": "A spring at rest looks as if nothing is happening in it. In fact it is full of pulls and pushes, and they add up to zero. That zero is not emptiness. It is a balance, and every shape a solid holds comes out of it. DeepKids sees this as the One becoming the many. One balance of pulls shows up as a pen spring, a tendon, a spider's thread and a mountain range.",
   "teachings": [
    {
     "source": "Heraclitus, fragment DK B51",
@@ -4354,13 +4355,13 @@
     "status": "settled"
    },
    {
-    "text": "Exactly where and when a slip will start, in a metal spring or in the rock under the Himalaya, still cannot be predicted.",
+    "text": "Nobody can yet predict exactly where and when a slip will start. This is true in a metal spring and in the rock under the Himalaya.",
     "status": "open"
    }
   ],
   "other_view": {
    "who": "Democritus in ancient Greece, and many physicists today",
-   "view": "There are only atoms and the forces between them. A spring's shape is simply where its atoms are. Calling it a balance that shows the One adds nothing the physics does not already say. This is a careful, honest view."
+   "view": "Democritus said there are only atoms and empty space. Many physicists today add the forces between atoms, and stop there. A spring's shape is simply where its atoms are. Calling it a balance that shows the One adds nothing the physics does not already say. This is a careful, honest view."
   },
   "practice": {
    "title": "Feel two pulls make zero",
@@ -4377,11 +4378,11 @@
  },
  "how_we_found_out": {
   "context": "Who first found the rule for how springs stretch, and how? This card tells the true story.",
-  "story": "Around 1660, in London, Robert Hooke began hanging weights on springs. He tried coiled wire springs, a watch spring and a strip of dry wood. It is easy to think that hard things, like a metal wire or a bone, do not stretch at all. A short wire seems to prove it. Hooke had a clever idea. He hung a pan for weights from a very long wire, 20 to 40 feet long. Every bit of the wire stretched a tiny amount, and all the bits added up. Now he could measure the stretch from the floor. He added equal weights, one after another. Each one made the wire longer by an equal step. In 1676 he hid his rule in a puzzle of jumbled letters, so nobody could claim it first. In 1678 he gave the answer in Latin: 'ut tensio, sic vis'. It means 'as the stretch, so the force'. He said the rule works in metal, wood, stone, horn, bone, silk, hair and glass. He was right that they all stretch. But later tests showed his rule has a limit. Pull too far, and the steps stop being equal.",
-  "who": "Robert Hooke (1635 to 1703), an English scientist who worked in London",
+  "story": "Robert Hooke was an English scientist. Around 1660, he worked out a rule for how springs stretch. Most people thought hard things, like a metal wire or a bone, do not stretch at all. A short wire seems to prove it. Hooke hung a pan for weights from a very long wire, 20 to 40 feet long. That is about 6 to 12 metres. Every bit of the wire stretched a tiny amount, and all the bits added up. Now he could measure the stretch. He added equal weights, one after another. Each one made the wire longer by about the same step. He tested coiled springs, a watch spring and a strip of dry wood too. In 1676 he hid his rule in a puzzle of jumbled letters, so nobody could claim it first. In 1678 he gave the answer in Latin: 'ut tensio, sic vis'. It means 'as the stretch, so the force'. He said it works in metal, wood, stone, hair, horn, silk, bone, sinew and glass. Sinew is another word for tendon. Later tests showed that his rule has a limit. Pull too far, and the steps stop being equal. In 1816, Sophie Germain, a French mathematician who taught herself, won a top prize for working out how springy plates shake.",
+  "who": "Robert Hooke (1635 to 1703), an English scientist. Later, Sophie Germain (1776 to 1831), a French mathematician.",
   "when": "He found the rule around 1660, hid it in a letter puzzle in 1676, and published it in 1678.",
   "wrong_idea": "That hard things like a metal wire, stone or bone do not stretch at all. Hooke's long wire showed that they do, a tiny bit, in equal steps. Then Hooke went too far himself. He said every springy thing follows his rule. Later tests showed that it works only for small stretches, and only roughly for rubber.",
   "art": "Robert Hooke in a 1600s room, a very long wire hanging from a nail high on the wall down to a small pan of weights near the floor, with a pair of compasses measuring the gap to the floor."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. Coin test: a thin, ordinary rubber band gives steps of about half a centimetre to 1 centimetre for each 5 one-rupee coins. A thick band gives steps too small to read, so the unit says to swap it or add 10 coins at a time. A small paper cup holds 40 coins. Homes with few coins can use 8 AA batteries, one at a time. Many bands give equal steps and then slightly bigger steps near the end, and the unit treats both as honest results. Pen spring: most come back from small pulls and stay longer once pulled to between one and a half and two times their length. A grown-up takes the spring out of the pen. Two in a Row reuses the coin test set-up, and the chain is measured empty first because two bands start longer. The spine, which is the intro, the coin test, the explanation cards, how we found out, roots and the quiz, fits about 85 to 90 minutes over two sessions."
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. Coin test: a thin, ordinary rubber band gives steps of about half a centimetre to 1 centimetre for each 5 one-rupee coins. A thick band gives steps too small to read, so the unit says to swap it or add 10 coins at a time. A small paper cup holds 40 coins. Homes with few coins can use 8 AA batteries, one at a time. Many bands give equal steps and then slightly bigger steps near the end, and the unit treats both as honest results. Pen spring: most come back from small pulls, and many stay longer once pulled to about one and a half to two times their length. Springs vary. A grown-up takes the spring out of the pen. Two in a Row reuses the coin test set-up, and the chain is measured empty first because two bands start longer. The spine, which is the intro, the coin test, the explanation cards, how we found out, roots and the quiz, fits about 85 to 90 minutes over two sessions."
 }
