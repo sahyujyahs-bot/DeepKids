@@ -148,8 +148,8 @@ Jagadish Chandra Bose was a scientist in Kolkata. He built instruments so sensit
 - **Crystals were the first life: life began on clay crystals that copied their patterns.** (Graham Cairns-Smith, a chemist in Scotland, from the 1960s.; *minority*)  
   For: Clay crystals grow and copy their layer patterns as they grow. They might have held the first simple molecules in order.  
   Against: No one has shown clay crystals passing on patterns that change and improve over generations. Most scientists prefer other ideas, such as the RNA idea.
-- **Plants feel.** (J.C. Bose, many plant scientists today, and DeepKids.; *debated*)  
-  For: Plants sense touch, light, heat and damage. When a leaf is hurt, the plant sends electrical signals through its body, as Bose measured. A touch-me-not folds its leaves when touched. Many plants warn their neighbours with smells when insects attack.  
+- **Plants feel, remember, think and communicate.** (J.C. Bose, many plant scientists today, and DeepKids.; *debated*)  
+  For: Plants sense touch, light, heat and damage. When a leaf is hurt, the plant sends electrical signals through its body, as J.C. Bose measured. A touch-me-not folds its leaves when touched, and learns to stop folding when a touch keeps turning out to be harmless. Roots choose where to grow. Many plants warn their neighbours with smells when insects attack.  
   Against: Some scientists say feeling needs a brain and nerves like ours. So they call a plant's signals 'responses', not feelings.
 
 ## Roots
