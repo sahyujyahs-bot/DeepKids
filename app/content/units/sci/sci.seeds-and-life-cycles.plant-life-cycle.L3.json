@@ -1,15 +1,15 @@
 {
  "id": "sci.seeds-and-life-cycles.plant-life-cycle.L3",
- "title": "A plant's life cycle: seed, seedling, plant, flower, fruit, and seed again",
+ "title": "A plant's life cycle: how a seed grows into a plant that makes new seeds",
  "level": 3,
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home. Changes made: Flower to Fruit now says which plants work and how fast (bhindi pods in 5 or 6 days, tomatoes much slower), to tag flowers on the morning they open, and that some flowers will drop. That is a real result, not a failure. A nursery chilli or brinjal is the fallback. Inside the Fruit counts small fruits fully and big ones by counting one part and multiplying, so it fits in 25 minutes. It says the banana's specks are not real seeds. Be Edmond needs a pumpkin, gourd or cucumber vine, so it is not in the core or spine. It now says to bag the buds the evening before, to do it before 10 in the morning (lauki and tori in the evening), and that young vines make only father flowers at first. Floating Leaves gives exact amounts, how many syringe pulls are needed, a fix if the circles will not sink, and how long they take to float in sun or lamplight. Kitchen to Kitchen says when to sow moong (warm months), the 5 hours of sun it needs, the winter switch to matar, common pests, and to pick pods when black before they pop. The onion test warns that some shop onions do not sprout, and that the onion rots if sat too deep. Both games say how to play alone, and Time Detective has a hidden-card puzzle for one player. Parents should know: Kitchen to Kitchen takes about 75 days and needs a sunny spot. Be Edmond and Adopt a Tree depend on having a vine or tree nearby.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home. Changes made: Flower to Fruit now says which plants work and how fast (bhindi pods in 5 or 6 days, tomatoes much slower), to tag flowers on the morning they open, and that some flowers will drop. That is a real result, not a failure. A nursery chilli or brinjal is the fallback. Inside the Fruit counts small fruits fully and big ones by counting one part and multiplying, so it fits in 25 minutes. It says the banana's specks are not real seeds. Be Edmond needs a pumpkin, gourd or cucumber vine, so it is not in the core or spine. It now says to bag the buds the evening before, to do it before 10 in the morning (lauki and tori in the evening), and that young vines make only male flowers at first. Floating Leaves gives exact amounts, how many syringe pulls are needed, a fix if the circles will not sink, and how long they take to float in sun or lamplight. Kitchen to Kitchen says when to sow moong (warm months), the 5 hours of sun it needs, the winter switch to matar, common pests, and to pick pods when black before they pop. The onion test warns that some shop onions do not sprout, and that the onion rots if sat too deep. Both games say how to play alone, and Time Detective has a hidden-card puzzle for one player. Parents should know: Kitchen to Kitchen takes about 75 days and needs a sunny spot. Be Edmond and Adopt a Tree depend on having a vine or tree nearby.",
  "summary": {
-  "text": "This unit is about the life cycle of a flowering plant. A life cycle is all the stages of a life, from start to new young ones. A plant goes from seed to seedling to grown plant. Then it makes flowers. Each flower can grow into a fruit, and the fruit holds new seeds. Those seeds can grow into new plants, so the circle starts again. Your child tags a flower and watches it turn into a fruit, opens kitchen fruits to find the seeds, and can grow moong all the way from seed to seed. Then they follow the idea out: plants built from air, plants that measure the night, bamboo that waits 48 years to flower, and what nobody knows yet.",
+  "text": "Every fruit in your kitchen was once a flower, and every seed inside it can grow into a new plant. A life cycle is all the stages of a living thing's life, until it makes young of its own. A flowering plant goes from seed to seedling to grown plant. Then it flowers, each flower can grow into a fruit, and the fruit holds new seeds. Your child opens kitchen fruits to find the seeds and the flower's leftovers, and can grow moong from seed to seed in about two months. Then the unit follows the idea further: plants built from air, plants that measure the night, and bamboo that flowers once in 48 years.",
   "art": "A big circle drawn like a clock face: a moong seed at the top, then a seedling, a leafy plant, a yellow flower, a green pod and black pods spilling new seeds back to the top."
  },
  "intro": {
   "hook": "Look at a tomato, or a brinjal. See the little green star, or the green cap, at the top? Where do you think it came from? Here is a clue. Not long ago, this whole tomato was a small yellow flower.",
-  "text": "Every fruit in your kitchen was once a flower. Every seed inside it can grow into a plant that makes flowers again. Put a moong seed in a pot today. In about two months, if it gets sun and water, it will give you back a whole handful of moong. Where does the plant come from? Why does it make flowers? And why does it end up exactly where it started, as a seed? This unit is about finding out.",
+  "text": "Every fruit in your kitchen was once a flower. Every seed inside it can grow into a plant that makes flowers again. Put a moong seed in a pot today. In about two months, if it gets sun and water, it will give you back a whole handful of moong. Which part of a flower turns into the fruit? And why does the plant end up exactly where it started, as seeds?",
   "art": "A child holding a tomato up close, the green star of sepals on top glowing, with a faint drawing behind it of the yellow tomato flower it came from."
  },
  "outcomes": [
@@ -38,8 +38,8 @@
   {
    "term": "Seed",
    "meaning": "A baby plant packed in a coat, with its own store of food.",
-   "example": "A moong seed, a mango stone and a grain of rice are all seeds.",
-   "art": "A moong seed, a mango stone and a rice grain side by side."
+   "example": "A moong seed, a mango stone and a rajma bean are all seeds.",
+   "art": "A moong seed, a mango stone and a rajma bean side by side."
   },
   {
    "term": "Seedling",
@@ -92,7 +92,7 @@
   {
    "term": "Pollen",
    "meaning": "A fine dust made by flowers, usually yellow. It must reach the middle of a flower before the flower can make seeds.",
-   "example": "The yellow dust left on your nose after smelling a lily.",
+   "example": "The yellow dust left on your finger after touching the middle of a hibiscus.",
    "art": "A magnified speck of yellow pollen on the tip of a flower's stalk."
   },
   {
@@ -157,7 +157,7 @@
   },
   {
    "term": "Decomposer",
-   "meaning": "A living thing that breaks down dead plants and animals, and puts their goodness back into the soil.",
+   "meaning": "A living thing that breaks down dead plants and animals. It puts their minerals back into the soil and their carbon back into the air.",
    "example": "Mushrooms, earthworms and tiny bacteria in a compost pit.",
    "art": "A fallen leaf being broken down by an earthworm, mushrooms and tiny dots of bacteria."
   }
@@ -180,7 +180,7 @@
   {
    "concept": "From seed to seedling",
    "status": "defined",
-   "definition": "A seed wakes up when it gets water, warmth and air. Its root comes out first and grows down. Then its shoot grows up into the light, and the plant becomes a seedling.",
+   "definition": "A seed wakes up when it gets water, warmth and air. This is called germination. Its root comes out first and grows down. Then its shoot grows up into the light, and the plant becomes a seedling.",
    "description": "The unit 'Seeds and how they sprout' tells this part of the story in detail. Here is the short version. At first, the seedling lives on the food packed inside the seed. Many seedlings first show two round seed leaves, which were folded up inside the seed. Soon the true leaves grow above them. True leaves have the plant's own leaf shape. Once they open, the seedling can make its own food from sunlight. The seed leaves are no longer needed. They shrink, go yellow and fall off.",
    "examples": [
     "A bean seedling has two fat seed leaves first, then pointed true leaves.",
@@ -194,7 +194,7 @@
    "concept": "Growing up: leaves make food from sunlight",
    "status": "defined",
    "definition": "A growing plant makes its own food in its green leaves. This is called photosynthesis. Leaves take in carbon dioxide from the air and water from the roots. Using the energy of sunlight, they turn them into sugar. They give out oxygen.",
-   "description": "The plant uses the sugar in two ways. It burns some for energy, the way you burn your food. It also uses sugar to build new stems, leaves and roots. So a plant grows mainly by making more of itself out of air and water. A plant grows slowly at first, then fast, then slowly again once it is grown. The chart shows a made-up example for a moong plant in a pot. It grows fastest in weeks 3 to 5. After about week 6 it puts its effort into flowers and pods instead of getting taller.",
+   "description": "The plant uses the sugar in two ways. It uses some for energy, the way your body uses food. It also uses sugar to build new stems, leaves and roots. So a plant grows mainly by making more of itself out of air and water. A plant grows slowly at first, then fast, then slowly again once it is grown. The chart shows a made-up example for a moong plant in a pot. It grows fastest in weeks 3 to 5. After about week 6 it puts its effort into flowers and pods instead of getting taller.",
    "examples": [
     "A plant kept in a dark cupboard grows pale, thin and floppy, then dies. It cannot make food.",
     "Leaves turn to face the window. They are reaching for light."
@@ -260,7 +260,7 @@
    "examples": [
     "Rice in many parts of India flowers when the nights get longer after the monsoon.",
     "Some plants, like wheat in cold countries, wait until they have felt a cold winter.",
-    "Moong flowers about a month after sowing, whatever the day length, once it is big enough."
+    "Many kinds of moong flower about 30 to 40 days after sowing in warm weather, whatever the day length."
    ],
    "perspectives": [],
    "art": "A plant under a moon and stars with a long night shown on a clock, and a glowing message travelling from a leaf up the stem to a flower bud.",
@@ -297,7 +297,7 @@
    "concept": "Why plants make fruits: sending seeds away",
    "status": "defined",
    "definition": "A fruit protects the seeds and helps them travel away from the parent plant. Many fruits are sweet so that animals eat them and drop the seeds somewhere else.",
-   "description": "A seed that falls right under its parent has to fight it for light and water. A seed carried far away has a better chance. So plants have many tricks. Sweet fruits are eaten by birds, bats, monkeys and people. The seeds pass through, or get spat out, far away. Pods can burst and fling their seeds. Some fruits have wings or fluff and fly on the wind. Coconuts float across the sea. Chillies have a clever trick too. In 2001, two American scientists, Joshua Tewksbury and Gary Nabhan, found that the hot taste of chillies keeps away mice and other mammals. Mammals chew seeds up. Birds swallow seeds whole and drop them far away. And birds do not feel the burning at all. You will learn more about how seeds travel in Class 4.",
+   "description": "A seed that falls right under its parent has to fight it for light and water. A seed carried far away has a better chance. So plants have many tricks. Sweet fruits are eaten by birds, bats, monkeys and people. The seeds pass through, or get spat out, far away. Pods can burst and fling their seeds. Some fruits have wings or fluff and fly on the wind. Coconuts float across the sea. Chillies keep the wrong animals away. In 2001, two American scientists, Joshua Tewksbury and Gary Nabhan, found that the hot taste of chillies keeps away mice and other mammals. Mammals chew seeds up. Birds swallow seeds whole and drop them far away. And birds do not feel the burning at all. You will learn more about how seeds travel in Class 4.",
    "examples": [
     "A koel eats a ripe banyan fig and drops the seeds on a far-off wall.",
     "Moong and pea pods dry, twist and pop, flinging their seeds out.",
@@ -408,7 +408,7 @@
    "definition": "Every cell of a plant holds a long set of instructions for building that plant. The instructions are written in a chemical called DNA. Each seed gets a copy from its parents.",
    "description": "That is why a moong seed always grows into moong, never into mango. The instructions are copied again and again, from plant to seed to plant, all the way round the life cycle. When pollen from one plant reaches the flower of another, the seed gets some instructions from each parent. So seeds are a little different from each other, just as brothers and sisters are. Between 1856 and 1863, a monk called Gregor Mendel grew thousands of pea plants in his monastery garden in Brno, now in the Czech Republic. He chose peas because they go round their life cycle in one season. He found patterns in how things like seed colour were passed on. When he published his work in 1866, almost nobody noticed. It was rediscovered in 1900, after he had died. Today he is called the father of genetics, the science of how living things pass on their features.",
    "examples": [
-    "Mango seeds from one sweet tree can grow into trees with quite different mangoes. So farmers grow their best mangoes from cuttings, joined onto young trees.",
+    "Mango seeds from one sweet tree can grow into trees with quite different mangoes. So farmers join a twig of their best tree onto a young tree. This is called grafting, and the twig grows mangoes just like its parent's.",
     "Every rice plant in a field grew from instructions copied from earlier rice plants, going back thousands of years."
    ],
    "perspectives": [],
@@ -426,7 +426,7 @@
    "perspectives": [
     {
      "who": "Many scientists who study insects and flowers",
-     "explanation": "Flowers teamed up with insects, birds and bats. Pollen carried from one plant to another made new kinds of plant appear faster."
+     "explanation": "Flowers changed together with the insects, birds and bats that visit them. Pollen carried from one plant to another made new kinds of plant appear faster."
     },
     {
      "who": "Scientists who study how plants grow",
@@ -584,9 +584,9 @@
    "hint": "Who wrote the books, and who did the work with their hands, in 1841?"
   },
   {
-   "q": "Bamboo waits 48 years to flower once. Is waiting a waste of time, or part of a plan?",
+   "q": "Bamboo in Mizoram waits about 48 years, flowers once, then dies. What could it gain by waiting so long and flowering all together?",
    "kind": "big",
-   "hint": "What are you waiting for that is worth the wait?"
+   "hint": "Rats and birds eat bamboo seeds. Can they eat them all if every clump makes seeds in the same year?"
   },
   {
    "q": "The bananas we eat are copies of one plant. Why might it be dangerous for the whole world to grow the same plant?",
@@ -619,7 +619,7 @@
    "He crouched there for a long time, looking from one to the other. So that was it. A flower was not the end of anything. A flower was a fruit that had not happened yet. Something had to happen first, deep in its middle. The dust had to get in.",
    "That afternoon he went to look at the vanilla vine. Its flowers had already closed. They opened only in the early morning, for a few hours, and never again. So the next day he came back at dawn, when the grass was still wet.",
    "He looked into one flower. He could see no dust anywhere. He looked into a second, and a third. In the middle of each was a little pale column, smooth as candle wax. He touched it gently with a fingertip. At its tip, half-hidden under a tiny cap, was a smear of sticky yellow. The dust! Just below it was a shiny, sticky place, the place where the dust needed to go. But between the two lay a thin flap, like a small tongue, keeping them apart.",
-   "Much later, people would learn that in Mexico, certain small bees know how to push past that flap. On Bourbon, there were no such bees. Every year, the flowers had opened for a visitor who never came.",
+   "Much later, people would learn that in Mexico, certain bees know how to push past that flap. On Bourbon, there were no such bees. Every year, the flowers had opened for a visitor who never came.",
    "Edmond snapped a thin splinter off a bamboo stick. He slid it under the little flap and lifted it, gently, the way you lift the hand of a sleeping baby. Then he pressed the dusty cap down onto the sticky place with his thumb. He held it for a moment, and let go. The flower looked exactly the same as before. He did another, and another, until the sun was high and the flowers began to close.",
    "For two days, nothing happened. The flowers he had touched wilted, like all the others. But they did not fall. On the third day, Edmond saw it. Where each of his flowers had been, a thin green finger was beginning to grow.",
    "Bellier-Beaumont found them a week later. He stood very still in front of the vine. 'Who did this?' he asked. Edmond's heart was thumping. He had touched the old man's most precious plant without asking. 'I did,' he said. Bellier-Beaumont looked at him for a long moment. 'Show me,' he said.",
@@ -699,7 +699,7 @@
      "items": [
       "SURPRISE: A potato eye sprouts a new plant, with no seed. Name one more plant that grows from a piece of itself.",
       "SURPRISE: Bamboo in Mizoram waits about 48 years, flowers once, then dies. Which of your plants dies after making seeds?",
-      "SURPRISE: Neelakurinji turns the hills blue only once every 12 years. How old will you be at its next bloom after 2030?",
+      "SURPRISE: Neelakurinji turns the hills blue once every 12 years. Its next bloom is due in 2030. How old will you be then?",
       "SURPRISE: The black specks in vanilla ice cream are seeds. What stage comes before a fruit?",
       "SURPRISE: A tomato's green star is left over from its flower. Name another fruit with flower leftovers.",
       "SURPRISE: A tree is built mostly from air and water. Breathe out on a leaf. What did you give it?"
@@ -1117,7 +1117,7 @@
      "t": "draw",
      "p": "Draw a pumpkin flower from the back. Show the tiny pumpkin behind the petals.",
      "a": "A yellow flower with a small green ball where it joins its stalk.",
-     "why": "Mother pumpkin flowers have a tiny baby pumpkin behind them, even before pollen arrives.",
+     "why": "Female pumpkin flowers have a tiny baby pumpkin behind them, even before pollen arrives.",
      "art": "An empty box with the outline of a big yellow flower seen from the side."
     }
    ]
@@ -1232,7 +1232,7 @@
      "p": "You tagged 5 flowers on a chilli plant. After a week, only 3 had become baby chillies. The other 2 fell off. What does this mean?",
      "opts": [
       "The experiment went wrong",
-      "Not every flower becomes a fruit. Some fall, often when pollen does not reach them, or the plant is too hot, dry or tired.",
+      "Not every flower becomes a fruit. Some fall, often when pollen does not reach them, or when the plant is too hot or short of water.",
       "The plant is dying",
       "Chillies only make fruit at night"
      ],
@@ -1605,8 +1605,8 @@
       "One was on a different plant"
      ],
      "a": 0,
-     "why": "Both were mother flowers on the same patch. Only one had pollen pressed into its middle. That was the one thing changed, like a fair test. Picking 'more sunlight' means looking for a difference the story does not show.",
-     "context": "In this unit's story, a boy named Edmond watches two pumpkin flowers. His owner dabs yellow dust from a father flower into one mother flower, and leaves the other alone."
+     "why": "Both were female flowers, which the story calls mother flowers, on the same patch. Only one had pollen pressed into its middle. That was the one thing changed, like a fair test. Picking 'more sunlight' means looking for a difference the story does not show.",
+     "context": "In this unit's story, a boy named Edmond watches two pumpkin flowers. His owner dabs yellow dust from a male flower into one female flower, and leaves the other alone."
     },
     {
      "t": "mcq",
@@ -1619,7 +1619,7 @@
      ],
      "a": 3,
      "why": "In a fair test, only one thing changes. If only one flower had a bag, you could not tell whether the bag or the pollen made the difference. Picking 'bags make fruits grow' is the opposite of what the bagged, unpollinated flower shows.",
-     "context": "In the Be Edmond experiment, you move pollen by hand from a father flower to a mother flower on a pumpkin, gourd or cucumber vine.",
+     "context": "In the Be Edmond experiment, you move pollen by hand from a male flower to a female flower on a pumpkin, gourd or cucumber vine.",
      "how": "e3"
     },
     {
@@ -1645,7 +1645,7 @@
      "t": "write",
      "p": "Charles Darwin called the fast spread of flowering plants 'an abominable mystery'. Give two ideas scientists have for why flowering plants spread so fast.",
      "lines": 4,
-     "a": "Any two of these. Flowers teamed up with insects and birds to move pollen. Flowering plants finish their life cycles quickly. Fruits let animals carry seeds far away. Changes in the climate helped them.",
+     "a": "Any two of these. Flowers changed together with the insects and birds that move their pollen. Flowering plants finish their life cycles quickly. Fruits let animals carry seeds far away. Changes in the climate helped them.",
      "why": "Scientists still argue about this. A good answer gives two different ideas.",
      "context": "The first flowering plants appeared about 130 million years ago. Today almost 9 in every 10 kinds of land plant have flowers."
     },
@@ -1666,7 +1666,7 @@
    "days": 10,
    "context": "In this experiment you tie a thread on the stalk of a flower that has just opened. Then you visit it every day, to see what the flower turns into.",
    "question": "What happens to a flower after it opens? Does every flower turn into a fruit?",
-   "predict": "Before you start, guess two things. How many of your 5 tagged flowers will turn into fruits? And on which day will you first see a baby fruit?",
+   "predict": "Before you start, guess two things. How many of your 5 tagged flowers will turn into fruits? And on which day will you first see a baby fruit? Why do you think so?",
    "fair_test": "This is a watching test, so keep the watching the same. Tag flowers that opened on the same morning, on the same plant. Check them at the same time every day. Measure each one the same way, from where it joins its stalk to its tip. Treat the tagged flowers just like the rest of the plant.",
    "results_table": [
     "Flower (thread colour)",
@@ -1746,7 +1746,7 @@
     {
      "day": 10,
      "mins": 11,
-     "what": "Count how many flowers became fruits. Draw a line graph of one fruit's length. Finish like a scientist."
+     "what": "Count how many flowers became fruits. Draw a line graph of one fruit's length. Say what you think, what you saw and why."
     }
    ],
    "record": "Fill in the table for each flower. Draw one tagged flower every day, on the same page, in a row. Then draw a line graph of one fruit's length, day by day.",
@@ -1868,8 +1868,8 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a flower turns into a fruit, but not every flower does. What I saw: the petals fell off the next day. The middle grew into a bhindi pod 10 cm long by day 6. Three of my five flowers became pods, and two fell off. Why: the base of the flower swells into the fruit. That happens if pollen reached it and the plant has enough water."
     }
    ]
@@ -1881,7 +1881,7 @@
    "days": 1,
    "context": "In this experiment you take fruits from your kitchen, find what is left of their flowers on the outside, and open them to count the seeds inside.",
    "question": "Does every fruit hold seeds? And can you find the flower each fruit came from?",
-   "predict": "Before cutting, guess which fruit will have the most seeds. Write your guess for each fruit in the table.",
+   "predict": "Before cutting, guess which fruit will have the most seeds. Write your guess for each fruit in the table. Why do you think so?",
    "fair_test": "Treat every fruit the same way. Look at the outside first, then cut each one across the middle. Count the seeds the same way each time. If a fruit has too many to count, count one part and multiply. Write in the table which ones you worked out that way.",
    "results_table": [
     "Fruit",
@@ -1949,7 +1949,7 @@
       "Pea pod",
       "10",
       "6",
-      "Dry petals at the stalk end, and a pointed tip"
+      "Green sepals at the stalk end, and a pointed tip"
      ],
      [
       "Bhindi",
@@ -1988,7 +1988,7 @@
        ]
       }
      ],
-     "parent": "Clues to find: the tomato's green star and the brinjal's green cap are the sepals that wrapped the bud. A tomato also has a tiny dot at the bottom, where the middle of the flower was. A banana's dark tip, and a young cucumber's dry tip, are where the flower was. A pea pod may still have dry petals at its stalk end."
+     "parent": "Clues to find: the tomato's green star and the brinjal's green cap are the sepals that wrapped the bud. A tomato also has a tiny dot at the bottom, where the middle of the flower was. A banana's dark tip, and a young cucumber's dry tip, are where the flower was. A pea pod has green sepals at its stalk end, and a pointed tip where the middle of the flower was."
     },
     {
      "id": "s2",
@@ -2030,8 +2030,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: fruits hold seeds, and they grow from flowers. What I saw: the pea pod had 6 seeds and the bhindi about 60. The tomato still had a green star from its flower. Why: the base of each flower swelled into the fruit, and its tiny seed-starts grew into seeds."
     }
    ]
@@ -2042,11 +2042,11 @@
    "mins": 35,
    "days": 5,
    "context": "In this unit's story, a boy named Edmond moves pollen by hand to make flowers grow fruit. In this experiment you do the same on a pumpkin, gourd or cucumber vine, and test whether a flower needs pollen to make a fruit.",
-   "question": "Does a mother flower need pollen to grow into a fruit?",
-   "predict": "Guess first. You will have three mother flowers. One is left open for insects. One is covered with a bag and gets no pollen. One is covered with a bag and gets pollen from you. Which will grow into fruits?",
-   "fair_test": "Use mother flowers on the same vine that open on the same morning, or as close together as you can. Cover two of them with a bag the evening before they open, so no insect can get in first. Give pollen to only one of the covered flowers. The bag is the same for both covered flowers, so only the pollen is different.",
+   "question": "Does a female flower need pollen to grow into a fruit?",
+   "predict": "Guess first. You will have three female flowers. One is left open for insects. One is covered with a bag and gets no pollen. One is covered with a bag and gets pollen from you. Which will grow into fruits? Why do you think so?",
+   "fair_test": "Use female flowers on the same vine that open on the same morning, or as close together as you can. Cover two of them with a bag the evening before they open, so no insect can get in first. Give pollen to only one of the covered flowers. The bag is the same for both covered flowers, so only the pollen is different.",
    "results_table": [
-    "Mother flower",
+    "Female flower",
     "Bag?",
     "Pollen added by hand?",
     "Day 2: green or yellow?",
@@ -2075,12 +2075,12 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "In the evening, find three mother-flower buds about to open. Cover two with bags. Tag all three."
+     "what": "In the evening, find three female-flower buds about to open. Cover two with bags. Tag all three."
     },
     {
      "day": 2,
      "mins": 12,
-     "what": "Early in the morning, move pollen from a father flower to one covered flower. Cover it again."
+     "what": "Early in the morning, move pollen from a male flower to one covered flower. Cover it again."
     },
     {
      "day": 3,
@@ -2095,21 +2095,21 @@
     {
      "day": 5,
      "mins": 7,
-     "what": "Compare all three. Finish like a scientist."
+     "what": "Compare all three. Say what you think, what you saw and why."
     }
    ],
    "record": "Fill in the table. Draw the three baby fruits on day 4, side by side.",
    "setup": [
     {
-     "art": "Two pumpkin flowers side by side, one with a tiny green pumpkin behind its petals labelled as a mother flower, one on a thin stalk labelled as a father flower.",
-     "caption": "1. Find mother flowers, with a baby fruit behind, and father flowers."
+     "art": "Two pumpkin flowers side by side, one with a tiny green pumpkin behind its petals labelled as a female flower, one on a thin stalk labelled as a male flower.",
+     "caption": "1. Find female flowers, with a baby fruit behind, and male flowers."
     },
     {
      "art": "A small paper bag tied loosely with thread over a closed pumpkin flower bud on the vine, in the evening.",
-     "caption": "2. The evening before, cover two mother buds with bags."
+     "caption": "2. The evening before, cover two female buds with bags."
     },
     {
-     "art": "A child brushing yellow pollen from a father flower onto the sticky middle of an open mother flower, early in the morning.",
+     "art": "A child brushing yellow pollen from a male flower onto the sticky middle of an open female flower, early in the morning.",
      "caption": "3. In the morning, brush pollen into one covered flower. Cover it again."
     }
    ],
@@ -2117,7 +2117,7 @@
     "type": "table",
     "title": "Made-up example results",
     "cols": [
-     "Mother flower",
+     "Female flower",
      "Bag?",
      "Pollen by hand?",
      "Day 4"
@@ -2147,28 +2147,28 @@
     {
      "id": "s1",
      "mins": 5,
-     "context": "This is the first step of the Be Edmond experiment. You learn to tell a vine's mother flowers from its father flowers.",
-     "do": "1. Look along the vine together. 2. Find a mother flower: it has a tiny baby fruit behind its petals. 3. Find a father flower: it is on a thin stalk, with no baby fruit behind it.",
-     "say": "These flowers look alike from the front. Turn them over. The mother flower has a tiny fruit behind it. The father flower has only pollen.",
-     "kid": "Look behind each flower. A tiny fruit behind it? That is a mother flower. No fruit, on a thin stalk? That is a father flower.",
-     "parent": "A young vine often makes only father flowers for the first week or two. Mother flowers come later, and there are fewer of them. Pumpkin, cucumber and karela flowers open early in the morning, about 6 to 9 o'clock, and close by midday. Lauki and tori flowers are white and open in the evening, so do this experiment at dusk with them."
+     "context": "This is the first step of the Be Edmond experiment. You learn to tell a vine's female flowers from its male flowers.",
+     "do": "1. Look along the vine together. 2. Find a female flower: it has a tiny baby fruit behind its petals. 3. Find a male flower: it is on a thin stalk, with no baby fruit behind it.",
+     "say": "These flowers look alike from the front. Turn them over. The female flower has a tiny fruit behind it. The male flower has only pollen. In the story, they were called mother and father flowers.",
+     "kid": "Look behind each flower. A tiny fruit behind it? That is a female flower. No fruit, on a thin stalk? That is a male flower.",
+     "parent": "A young vine often makes only male flowers for the first week or two. Female flowers come later, and there are fewer of them. Pumpkin, cucumber and karela flowers open early in the morning, about 6 to 9 o'clock, and close by midday. Lauki and tori flowers are white and open in the evening, so do this experiment at dusk with them."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. In the evening, find three mother-flower buds that will open tomorrow. They are big, and their tips are turning yellow or white. 2. Tie a thread on each stalk: red, blue and green. 3. Cover the blue one and the green one with a paper bag or net, tied loosely round the stalk. 4. Leave the red one uncovered.",
+     "do": "1. In the evening, find three female-flower buds that will open tomorrow. They are big, and their tips are turning yellow or white. 2. Tie a thread on each stalk: red, blue and green. 3. Cover the blue one and the green one with a paper bag or net, tied loosely round the stalk. 4. Leave the red one uncovered.",
      "say": "The bag stops any insect getting in first. The red flower stays open, so insects can visit it.",
-     "kid": "Find three mother buds that will open tomorrow. Tie a thread on each. Cover two with bags. Leave one open.",
+     "kid": "Find three female buds that will open tomorrow. Tie a thread on each. Cover two with bags. Leave one open.",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Next morning, pick a fresh, open father flower. 2. Peel back its petals and touch the middle: yellow dust should come off on your finger. 3. Open the green flower's bag. Brush the pollen gently all over the sticky middle of the mother flower. 4. Close the bag again. 5. Do not touch the blue flower.",
+     "do": "1. Next morning, pick a fresh, open male flower. 2. Peel back its petals and touch the middle: yellow dust should come off on your finger. 3. Open the green flower's bag. Brush the pollen gently all over the sticky middle of the female flower. 4. Close the bag again. 5. Do not touch the blue flower.",
      "say": "Now we do what Edmond did. We carry the pollen ourselves. Gently, like painting with the softest brush.",
-     "kid": "Pick a father flower. Peel back its petals. See the yellow dust? Open the green flower's bag. Brush the dust gently into its middle. Close the bag.",
+     "kid": "Pick a male flower. Peel back its petals. See the yellow dust? Open the green flower's bag. Brush the dust gently into its middle. Close the bag.",
      "adult": true,
-     "parent": "Do this early, before about 10 o'clock for morning flowers, while the flowers are fresh. If no dust comes off on your finger, try a different father flower that opened this morning."
+     "parent": "Do this early, before about 10 o'clock for morning flowers, while the flowers are fresh. If no dust comes off on your finger, try a different male flower that opened this morning."
     },
     {
      "id": "s4",
@@ -2177,13 +2177,13 @@
      "do": "1. On day 3, take the bags off, because the flowers have closed. 2. Each day, look at the three baby fruits behind the old flowers. Are they green and growing, or yellow and soft?",
      "say": "Which baby fruits are growing? Which are going yellow?",
      "kid": "Take the bags off. Check the three baby fruits each day. Green and growing? Or yellow and soft?",
-     "parent": "A mother flower that got pollen usually stays green and starts to swell within 2 or 3 days. One that got none goes yellow and soft, and drops off within 2 to 5 days. The open flower grows only if an insect visited it. In very hot weather, even pollinated flowers sometimes drop. If that happens, try again: a vine in season makes new flowers almost every day.",
+     "parent": "A female flower that got pollen usually stays green and starts to swell within 2 or 3 days. One that got none goes yellow and soft, and drops off within 2 to 5 days. The open flower grows only if an insect visited it. In very hot weather, even pollinated flowers sometimes drop. If that happens, try again: a vine in season makes new flowers almost every day.",
      "check": {
       "t": "mcq",
       "q": "The covered flower with no pollen went yellow and fell off. The covered flower with pollen grew. What does that show?",
       "options": [
        "Yellow flowers never make fruit",
-       "A mother flower needs pollen to grow into a fruit",
+       "A female flower needs pollen to grow into a fruit",
        "Bags stop fruits growing"
       ],
       "a": 1,
@@ -2202,9 +2202,9 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a mother pumpkin flower needs pollen to become a pumpkin. What I saw: the covered flower with no pollen went yellow and fell off on day 3. The covered flower I brushed with pollen was twice as big by day 4. Why: the pollen has to reach the middle of the flower. Only then can its base grow into a fruit with seeds."
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a female pumpkin flower needs pollen to become a pumpkin. What I saw: the covered flower with no pollen went yellow and fell off on day 3. The covered flower I brushed with pollen was twice as big by day 4. Why: the pollen has to reach the middle of the flower. Only then can its base grow into a fruit with seeds."
     }
    ]
   },
@@ -2215,7 +2215,7 @@
    "days": 1,
    "context": "In this experiment you make small circles of palak leaf sink in a glass of water. Then you watch whether they float back up in bright light and in the dark. It shows a leaf making food and gas from light, the way a growing plant feeds itself.",
    "question": "Do leaves make gas when light shines on them?",
-   "predict": "Guess first. The leaf circles will sink to the bottom of two glasses. One glass goes in bright light and one in a dark cupboard. In which glass will the circles float up?",
+   "predict": "Guess first. The leaf circles will sink to the bottom of two glasses. One glass goes in bright light and one in a dark cupboard. In which glass will the circles float up? Why do you think so?",
    "fair_test": "Make the two glasses the same. Use the same water, the same pinch of baking soda and drop of soap, and 10 circles cut from the same leaf in each. Change only the light. Count the floating circles in both glasses at the same times.",
    "results_table": [
     "Minutes",
@@ -2363,8 +2363,8 @@
      "id": "s7",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: leaves make gas when light shines on them. What I saw: after 20 minutes, 9 circles were floating in the light, and none in the dark. Why: in light, the leaf makes food from carbon dioxide and water, and gives out oxygen. The bubbles of oxygen lifted the circles."
     }
    ]
@@ -2637,7 +2637,7 @@
        "It will need seeds to grow"
       ],
       "a": 0,
-      "why": "A cutting carries exactly the same instructions as its parent, so it grows into a copy. Picking 'a different kind' is a fair worry. But only seeds mix instructions from two parents. A cutting does not."
+      "why": "A cutting carries exactly the same instructions as its parent, so it grows into a copy. Picking 'a different kind' is a fair worry. But a seed can mix instructions from two parents, and a cutting does not."
      },
      "think": "If every plant in a field is a copy of the same plant, what happens if a disease comes that it cannot fight?"
     }
@@ -2716,7 +2716,7 @@
      "do": "Count how many foods are in each column.",
      "say": "Which column has the most foods? Which stage of a plant's life do we eat most?",
      "kid": "Which column has the most? Which stage of a plant's life do we eat most?",
-     "think": "Seeds are a plant's babies, packed with food for the next generation. Rice, wheat and dal are all seeds. How do you feel about eating them?"
+     "think": "Rice, wheat and dal are all seeds, each packed with food for a young plant. Why do you think seeds make such good food for us too?"
     }
    ]
   },
@@ -3039,7 +3039,7 @@
      "do": "1. Sow some of your new seeds in the pot again, to start the next circle. 2. Soak and sprout some to eat. 3. Put the old plants in a compost pit or bin. 4. Read the diary aloud to the family.",
      "say": "We are back where we started, with moong seeds. Shall we start the next circle?",
      "kid": "Sow some new seeds to start again. Sprout some to eat. Put the old plant in compost. Read your diary to your family.",
-     "parent": "If the plants die early, from too little sun, too much water or pests, that is sad. It is all right to feel sad. Write a short note to the plant, as the founder suggests, and talk about what it needed. Then try again in the right season.",
+     "parent": "If the plants die early, from too little sun, too much water or pests, that is sad. It is all right to feel sad. Write a short note to the plant, and talk about what it needed. Then try again in the right season.",
      "think": "The old moong plant goes into the compost. Its atoms go back to the soil and air. Could some of them end up in the next moong plant?"
     }
    ]
@@ -3261,7 +3261,7 @@
      "do": "Read the usual and the creative ideas together. Then fix any empty months in the plan.",
      "say": "Which month was hardest to fill? What could fill it?",
      "kid": "Which month was empty? What could you grow to fill it? Fix your plan.",
-     "think": "A garden that keeps flowering is planned by someone who understands life cycles. What else in life needs planning, months ahead?"
+     "think": "Farmers plan by life cycles too. Why do you think many farmers sow rice at the start of the monsoon?"
     }
    ]
   }
@@ -3475,7 +3475,7 @@
    ],
    "a": 2,
    "outcome": 4,
-   "why": "A potato is a swollen stem, and each eye can sprout a new plant, a copy of its parent. The others are all seeds. Picking a rice grain is a natural mistake, because we eat it like a vegetable. But a rice grain is a seed."
+   "why": "A potato is a swollen stem, and each eye can sprout a new plant, a copy of its parent. The others are all seeds. Picking a rice grain is a natural mistake, because we think of rice as food, not as seeds. But each rice grain is a seed, and it can sprout into a rice plant."
   },
   {
    "t": "mcq",
@@ -3731,8 +3731,8 @@
    "a": "They always know their roots."
   },
   {
-   "j": "Why was the onion crying in the glass of water?",
-   "a": "It was feeling a little rooted."
+   "j": "Why did the onion sit in a glass of water?",
+   "a": "It wanted to put down roots."
   },
   {
    "j": "What did the compost say to the dead leaf?",
@@ -3767,8 +3767,8 @@
    "a": "It knew its seeds would carry on."
   },
   {
-   "j": "Why do bees have sticky hair?",
-   "a": "Because they use honeycombs!"
+   "j": "How does a bee comb its hair?",
+   "a": "With a honeycomb!"
   }
  ],
  "maths": [
@@ -4110,7 +4110,7 @@
   },
   {
    "q": "What do decomposers do?",
-   "a": "They break down dead plants and put their goodness back into the soil."
+   "a": "They break down dead plants, and put their minerals back into the soil."
   },
   {
    "q": "How often does neelakurinji flower?",
@@ -4214,16 +4214,16 @@
  "roots": {
   "context": "We have been learning how a plant goes round from seed to flower to fruit and back to seed. Now we ask what that circle tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A plant is not a thing but a happening. Seed, seedling, flower and fruit are one life changing shape.",
-   "habit": "We give each stage its own name, so we think a seed, a flower and a fruit are different things. But the fruit is the flower's base grown big, and the seed inside it is the next plant. The names are like photos of one moving life, the way photos show a person at 1, 10 and 80.",
-   "evidence": "The green star on a tomato is its flower, still there. A tagged bhindi flower becomes a pod in five days. And a plant's body is built from air and water, which go back to the air and soil when it dies."
+   "truth": "Your tomato held about 100 seeds, and one tomato plant grows dozens of tomatoes. Very few of those seeds will ever become plants. We eat most of them with the tomato, and birds, ants and mice eat seeds everywhere. So a plant makes far more seeds than it needs, and the extra feeds other living things.",
+   "habit": "We think of a seed as the start of a new plant, so a seed that never grows seems wasted. But most seeds become food instead, for birds, ants, mice and people. Rice, wheat and dal are seeds too.",
+   "evidence": "In Inside the Fruit, one tomato held about 100 seeds and one bhindi about 60. One moong seed gives back about 200 seeds, yet a pot has room for only 3 or 4 plants. The Eat the Life Cycle sort shows how many of our foods are seeds."
   },
   "three": {
-   "who_am_i": "You were once smaller than a full stop on this page, and you are changing right now. Are you a thing, or a happening?",
-   "what_is_life": "Life goes round: seed, plant, flower, fruit, seed. In a life cycle, every ending is also a beginning.",
+   "who_am_i": "Much of your body was built from seeds: rice, wheat, dal and nuts. Each one is food a plant packed for its young.",
+   "what_is_life": "A plant makes far more seeds than it needs to carry on. The extra seeds feed many other lives.",
    "what_is_this_world": "The air you breathe out can become part of a leaf. Plants, people and soil are built from the same atoms, passed round and round."
   },
-  "thread": "A seed looks like one small thing. But its life pours out into roots, leaves, flowers and fruits, and then into hundreds of new seeds. One becomes many, and each of the many carries the whole plant inside it. When the plant dies, its atoms go back to the soil and the air, and new plants are built from them. DeepKids believes this is the One showing up as the many, going round and round with no gap in between.",
+  "thread": "A moong plant grows from one seed and gives back about 200. Only a few need to grow to keep moong going. The rest feed ants, birds and people, and the dead plant feeds the decomposers in the soil. Each plant's life cycle is joined to the lives of many others, by the food that passes between them. Many small lives come out of one seed's work.",
   "teachings": [
    {
     "source": "Katha Upanishad 1.1.6",
@@ -4231,9 +4231,9 @@
     "link": "Long ago, teachers in India looked at grain in the field and saw a circle: ripening, falling and sprouting again. You can watch the same circle in a pot of moong."
    },
    {
-    "source": "Heraclitus, a Greek thinker, as quoted by Plato in the Cratylus, 402a",
-    "teaching": "Everything moves on, and nothing stays still. You cannot step into the same river twice.",
-    "link": "A river is never the same water, yet we call it one river. A plant is never the same from one day to the next, yet we call it one plant. Both are happenings, not fixed things."
+    "source": "Gospel of Matthew 13:3-8, the parable of the sower",
+    "teaching": "A farmer scatters seed. Some falls on the path, and birds eat it. Some falls on rocks or among thorns, and dies. Some falls on good soil, and gives back a hundred times as much.",
+    "link": "The farmer knew what you found by counting: a plant makes many seeds, and only some grow. The birds on the path were fed by the rest."
    },
    {
     "source": "Ecclesiastes 3:1-2, in the Hebrew Bible",
@@ -4252,20 +4252,26 @@
    }
   ],
   "other_view": {
-   "who": "The Charvaka school of ancient India",
-   "view": "Only what we can see and touch is real. A plant is just its body. When it dies, that plant is gone for ever, and the seedling is a new and separate thing. The 'circle' is a pattern we draw, not one life going round. That is an honest view, and many people today agree with it."
+   "who": "Many biologists",
+   "view": "A plant does not make extra seeds to feed others. Most seeds die or are eaten, so plants that made more seeds left more young. Over a very long time, that is why plants make so many. On this view, the seeds a bird eats are simply lost to the plant."
   },
   "practice": {
-   "title": "Breathe with a plant",
+   "title": "A handful of seeds",
    "mins": 3,
-   "say": "Let's sit beside a plant, close enough to touch a leaf. Breathe in slowly through your nose. Now breathe out gently towards the leaves. The air you breathe out has carbon dioxide in it. That is what leaves build themselves from. Some of your breath might become part of a new leaf. Breathe in again. Some of the oxygen you are breathing was made by plants. Do this five times, slowly. Where does your breath end, and the plant begin?",
-   "kid": "Sit by a plant. Breathe in slowly. Breathe out gently onto its leaves. Your breath can help build a leaf. Do it five times."
+   "say": "Let's each hold ten moong seeds in one hand. Close your eyes and feel how light they are. Each one holds a tiny plant and its food. Now think of who eats seeds like these: you, at dinner, and the pigeons and ants outside. Breathe in slowly, and breathe out. Open your eyes and put two seeds aside to sow. Who will the other eight feed?",
+   "kid": "Hold ten moong seeds. Close your eyes. Feel how light they are. Each one holds a tiny plant. Keep two to sow. Who will eat the other eight?"
   },
   "ask": [
-   "Are you the same person you were as a baby? What stayed the same?",
-   "When a moong plant dies after making seeds, has it ended, or carried on?",
-   "Is a flower a thing, or something that is happening?"
+   "A moong plant gives back about 200 seeds. If only a few grow into plants, what happens to the rest?",
+   "When you eat dal, you are eating seeds that could have grown into plants. What did the plant pack into them?",
+   "When a moong plant dies after making seeds, has its life ended, or carried on?"
   ],
-  "art": "A child sitting cross-legged beside a moong plant, breathing out softly onto its leaves, with a faint circle around them both showing seed, plant, flower, pod and seed again."
+  "art": "A child holding a handful of moong seeds beside a moong plant, with a pigeon and a line of ants nearby, and a faint circle showing seed, plant, flower, pod and seed again."
+ },
+ "how_we_found_out": {
+  "story": "For a long time, most scholars in Europe did not believe that a flower needs pollen to make seeds. Farmers in ancient Iraq already knew that a date palm gives dates only if pollen from a male tree reaches its flowers. But scholars did not think this was true of all plants. In Tübingen, in Germany, a doctor and botanist named Rudolf Jakob Camerarius tested it. He grew plants such as mulberry, maize and a small weed called annual mercury. He kept pollen away from the flowers that make seeds. A female mulberry tree with no male tree nearby made fruit, but its seeds were empty. Plants that got no pollen made no good seeds. Plants that got pollen did. In 1694 he wrote that pollen must reach a flower before it can make seeds. Other botanists argued against him for more than 30 years. Later tests, like a palm pollinated by hand in Berlin in 1749, showed he was right.",
+  "who": "Rudolf Jakob Camerarius",
+  "when": "1694 (his letter on the sex of plants, published in Tübingen)",
+  "wrong_idea": "That plants make seeds without pollen, and have nothing like male and female parts. Camerarius kept pollen away from mulberry, maize and annual mercury, and they made no good seeds."
  }
 }
