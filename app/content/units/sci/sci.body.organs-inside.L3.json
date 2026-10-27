@@ -1379,8 +1379,8 @@
    "mins": 25,
    "days": 1,
    "question": "Does liquid around a brain help protect it when you move?",
-   "predict": "Before you test, guess. Will a raw egg crack first in an empty box, or in a box full of water? Why do you think so?",
-   "fair_test": "To make it fair, use two eggs of the same size, two boxes the same size and the same shakes, the same number of times. Only the water changes.",
+   "predict": "Before you test, guess. Will a raw egg crack first in an empty box, or in a box filled to the top with water? Why do you think so?",
+   "fair_test": "To make it fair, use two eggs of the same size and two boxes of the same size. Shake both the same way, the same number of times. Only the water changes.",
    "results_table": [
     "Box",
     "Egg after 5 shakes",
@@ -1389,11 +1389,11 @@
    ],
    "materials": [
     {
-     "item": "2 raw eggs",
+     "item": "2 raw eggs of the same size. No eggs at home? Use 2 pieces of peeled ripe banana, each about as long as your thumb, or 2 cubes of soft tofu.",
      "qty": 2
     },
     {
-     "item": "2 plastic boxes or jars with tight lids, the same size, each about twice as big as an egg. An old tiffin or takeaway box works.",
+     "item": "2 plastic jars with screw lids, the same size, wide enough for an egg and about twice as tall. An old plastic jar for biscuits, peanuts or dry fruit works. A snap-lid takeaway box may leak.",
      "qty": 2
     },
     {
@@ -1405,27 +1405,27 @@
      "qty": 1
     }
    ],
-   "safety": "Do this over the sink or a tray. Wash hands with soap after touching raw egg. Use plastic boxes, never glass.",
+   "safety": "Do this over the sink or a tray. Wash hands with soap after touching raw egg. Use plastic jars, never glass.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess, then shake an egg in an empty box and an egg in a box full of water. Compare, and finish with claim, evidence and reasoning."
+     "what": "Guess, then shake an egg in an empty jar and an egg in a jar full of water. Compare, and finish with claim, evidence and reasoning."
     }
    ],
-   "record": "Fill in the table. Draw the two eggs after the test.",
-   "context": "This is the egg in the box test. A raw egg stands for your soft brain. A box stands for your skull. You test whether water around the egg protects it, like the liquid around your brain.",
+   "record": "Fill in the table. Draw the two eggs, or the two banana pieces, after the test.",
+   "context": "This is the egg in the box test. A raw egg stands for your soft brain. A jar stands for your skull. You test whether water around the egg protects it, like the liquid around your brain. No eggs? A piece of ripe banana works too.",
    "setup": [
     {
-     "art": "Two clear plastic boxes side by side, one empty with a raw egg inside, one filled to the top with water and an egg inside, lids on.",
-     "caption": "1. Put one egg in an empty box and one egg in a box full of water."
+     "art": "Two clear plastic jars with screw lids side by side, one empty with a raw egg inside, one filled to the top with water and an egg inside.",
+     "caption": "1. Put one egg in an empty jar and one egg in a jar full of water."
     },
     {
-     "art": "A child's hands shaking a closed plastic box firmly up and down over a sink.",
-     "caption": "2. Shake each box firmly up and down the same way, 5 times."
+     "art": "A child's hands shaking a closed plastic jar firmly up and down over a sink.",
+     "caption": "2. Shake each jar firmly up and down the same way, 5 times."
     },
     {
-     "art": "Two opened boxes: the egg from the empty box cracked, the egg from the water box whole.",
+     "art": "Two opened jars: the egg from the empty jar cracked, the egg from the water jar whole.",
      "caption": "3. Open them and look closely. Which egg cracked?"
     }
    ],
@@ -1433,8 +1433,8 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Ask your child to knock gently on their head. 2. Show them the egg and the boxes.",
-     "say": "Knock gently on your head. That hard part is your skull. Your brain is soft, a bit like this raw egg. The box is like a skull. Inside your skull, your brain floats in a clear liquid. Why do you think it floats?",
+     "do": "1. Ask your child to knock gently on their head. 2. Show them the egg and the jars.",
+     "say": "Knock gently on your head. That hard part is your skull. Your brain is soft, a bit like this raw egg. This jar is like a skull. Inside your skull, your brain floats in a clear liquid. Why do you think it floats?",
      "kid": "Knock gently on your head. That is your skull. Your brain inside is soft, like this egg. It floats in liquid. Why?",
      "ask": [
       {
@@ -1452,34 +1452,34 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask your child to guess which egg will crack first, and to write down the guess.",
-     "say": "We will shake an egg in an empty box and an egg in a box of water. Which one do you think will crack? Write your guess.",
-     "kid": "One egg in an empty box. One egg in water. Which will crack? Write your guess."
+     "say": "We will shake an egg in an empty jar and an egg in a jar full of water. Which one do you think will crack? Why? Write your guess.",
+     "kid": "One egg in an empty jar. One egg in water. Which will crack? Why? Write your guess."
     },
     {
      "id": "s3",
      "mins": 5,
      "adult": false,
-     "do": "1. Put one egg in the empty box and close the lid. 2. Fill the other box right to the top with water. Put the egg in, top it up so there is no air, and close the lid tight. 3. Over the sink, shake each box firmly up and down 5 times, the same way.",
-     "say": "Same box, same egg, same shakes. Only the water is different. That keeps the test fair. Five firm shakes, up and down.",
-     "kid": "Put an egg in each box. Fill one with water to the top. Close the lids. Shake each one firmly up and down, 5 times.",
-     "parent": "Fill the water box right to the top, so there is no air gap. If neither egg cracks after 5 shakes, open, look, close and do 5 more, a little harder. Shake both boxes the same way each time. If the egg in water cracks too, check that the box was full, with no air bubble, and try once more."
+     "do": "1. Put one egg in the empty jar and screw the lid on. 2. Fill the other jar right to the top with water. Put the egg in, top it up so there is no air, and screw the lid on tight. 3. Over the sink, shake each jar firmly up and down 5 times, the same way. Shake in the air. Do not bang the jar on anything.",
+     "say": "Same jar, same egg, same shakes. Only the water is different. That keeps the test fair. Five firm shakes, up and down.",
+     "kid": "Put an egg in each jar. Fill one with water to the top. Close the lids tight. Shake each one firmly up and down, 5 times.",
+     "parent": "Fill the water jar right to the top, so there is no air gap. An air bubble lets the water slosh, and then the egg can hit the side. If neither egg cracks after 5 shakes, open, look, close and do 5 more, a little harder. Shake both jars the same way each time. Banging a jar on the table can crack even the egg in water, so shake only in the air. With banana or tofu, look for squashed, broken corners instead of cracks."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Open both boxes over the tray. Look closely at each egg. Fill in the table.",
+     "do": "Open both jars over the tray. Look closely at each egg. Fill in the table.",
      "say": "Let's look. Is either egg cracked? Look very closely, even for tiny cracks.",
-     "kid": "Open the boxes. Look closely. Is either egg cracked? Write it in the table.",
+     "kid": "Open the jars. Look closely. Is either egg cracked? Write it in the table.",
      "check": {
       "t": "mcq",
       "q": "In the egg in the box test, which egg is usually safer?",
       "options": [
-       "The egg in the empty box",
-       "The egg in the box full of water",
+       "The egg in the empty jar",
+       "The egg in the jar full of water",
        "Both are the same"
       ],
       "a": 1,
-      "why": "In the empty box, the egg bangs straight into the hard sides. In the water, the water slows the egg down and spreads out the push, so it does not hit the sides as hard. The liquid around your brain does the same job. Picking 'both are the same' often means thinking only the hard box protects. The box helps, but the liquid helps too."
+      "why": "In the empty jar, the egg flies across and hits the hard sides. In the full jar, the water fills all the space. The egg moves along with the water and the jar, so it never crashes into the sides. The liquid around your brain does the same job. Picking 'both are the same' often means thinking only the hard jar protects. The jar helps, but the water protects the egg much better."
      }
     },
     {
@@ -1506,7 +1506,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the egg test sounds like this. What I think: liquid around the brain protects it. What I saw: the egg in the empty box cracked after 10 shakes, and the egg in water did not crack. Why: the water cushions the egg, so it does not bang hard on the box."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the egg test sounds like this. What I think: liquid around the brain protects it. What I saw: the egg in the empty jar cracked after 10 shakes, and the egg in water did not crack. Why: the water cushions the egg, so it does not bang hard on the jar."
     }
    ]
   },
