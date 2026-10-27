@@ -1,0 +1,1360 @@
+{
+ "key": "combined|sci|3|nothing-and-forever",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "nothing-and-forever",
+ "title": "Zero and infinity: the number for nothing, and numbers that never end",
+ "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (the Zero and Infinity grid). Covers the DeepKids subtopics 'Zero: the idea of nothing' (zero as nothing and as a placeholder, India's gift of zero, Brahmagupta's rules) and 'Infinity' (numbers never end, counting for ever, infinity is not a number). No board teaches it at this class. No textbook needed.",
+ "summary": "Take every bean off a plate and there is still a number on it: zero. Your child learns that zero means none, and that a 0 also holds an empty place, so 205 does not turn into 25. They meet Brahmagupta's rules for zero from 628 CE, find out why nothing can be shared out in groups of zero, and discover that an 'empty' glass is full of air. Then they find that numbers never end, that infinity means 'without end' and is not a very big number, and that an endless number of halving steps still adds up to one short walk across a room.",
+ "builds_on": "No board teaches this before Class 3, so this is the first rung. Your child already counts and writes numbers like 205 in maths. This rung shows what the 0 in those numbers does, where it came from, and why counting never ends. In Class 5 your child comes back to ask whether empty space is really empty, to meet Hilbert's hotel and Cantor's bigger and smaller infinities, and to hear about singularities, the places where scientists' ideas stop working.",
+ "goals": [
+  "By the end your child can say that zero is the number that means none, and show it with an empty plate.",
+  "By the end your child can explain, with three katoris and beans, why the 0 in 205 matters.",
+  "By the end your child can use Brahmagupta's rules for adding, taking away and multiplying with zero, and explain with beans why dividing by zero has no answer.",
+  "By the end your child can show that an 'empty' glass is full of air.",
+  "By the end your child can explain why there is no biggest number, and that infinity means 'without end', not a number.",
+  "By the end your child can show, by walking halfway again and again, that endlessly many steps can add up to a distance that ends."
+ ],
+ "words": [
+  [
+   "zero",
+   "the number that means none. It is the number of beans on an empty plate."
+  ],
+  [
+   "placeholder",
+   "a 0 that holds an empty place in a number, so the other digits stay where they are, as in 205"
+  ],
+  [
+   "place value",
+   "how much a digit is worth depends on its place. In 52, the 5 means five tens."
+  ],
+  [
+   "digit",
+   "one of the ten signs we write numbers with: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9"
+  ],
+  [
+   "shunya",
+   "the Sanskrit word for empty. Indian mathematicians used it as the name of zero."
+  ],
+  [
+   "undefined",
+   "having no answer. Dividing a number by zero is undefined."
+  ],
+  [
+   "vacuum",
+   "a space with almost nothing in it, not even air"
+  ],
+  [
+   "infinity",
+   "the idea of going on without end. Its sign is ∞."
+  ],
+  [
+   "infinite",
+   "without any end"
+  ],
+  [
+   "ananta",
+   "the Sanskrit word for endless"
+  ],
+  [
+   "googol",
+   "a 1 followed by 100 zeros. It is very big, but it is not infinite."
+  ],
+  [
+   "infinite series",
+   "an endless list of numbers added together. It can still add up to an exact answer."
+  ]
+ ],
+ "subconcepts": [
+  "zero means none: the number of things on an empty plate",
+  "zero as a placeholder: place value, and why 205 is not 25",
+  "shunya and India's gift of zero: the dot, and the circle at Gwalior",
+  "other early zeros: Babylon's gap sign and the Maya shell",
+  "how zero travelled: Baghdad, al-Khwarizmi, Fibonacci and the word 'zero'",
+  "Brahmagupta's rules: adding, taking away and multiplying with zero",
+  "why dividing by zero has no answer",
+  "'empty' is rarely empty: air in an 'empty' glass, and the vacuum of space",
+  "silence and stillness: zero in music and in the body",
+  "bees and crows understand 'none'",
+  "numbers never end: there is always one more",
+  "very big is not infinite: a million, a googol, grains of sand",
+  "infinity is not a number: it means without end, and its sign is ∞",
+  "endless halving: an infinite series can add up to a whole (Zeno and Madhava)",
+  "things that look endless but stop: mirror tunnels and patterns in nature"
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Where is zero?",
+   "goal": "Hear the story, find zero around the home, and see that zero is the number of things on an empty plate.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The smallest and the biggest",
+     "mins": 5,
+     "do": "Ask: 'How many fingers do you have? How many tails do you have?' Good answers: 'Ten. None.' Ask: 'Which number means none?' (Zero.) Ask: 'What is the biggest number you know?' Write both answers on the first page of a notebook called 'Nothing and forever'. Say: 'This week we find out about the number for nothing, and about numbers that never end.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Garden That Was Almost Small",
+     "mins": 14,
+     "do": "Read the story aloud. Don't explain it. Ask one question: 'Why did Gauri say the stone said twenty-seven?' Write your child's answer in the notebook. You will come back to it on Day 2."
+    },
+    {
+     "kind": "act",
+     "title": "The zero hunt",
+     "mins": 14,
+     "do": "Walk round the home together for 10 minutes. Find every 0 you can: on a price on a packet, the calendar (10, 20, 30), a clock, the TV remote, a phone keypad, a lift button. Your child writes each one in the notebook. For each, ask: 'What does this 0 tell us?' Good answers: 'In ₹50, the 0 makes it fifty, not five.' 'On the lift, 0 is the ground floor.' 'On the calendar, the 0 in 20 means two tens and no ones.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Zero means none",
+     "mins": 7,
+     "do": "Put 3 beans on a plate. Your child takes them off one at a time, counting down: 'Three, two, one.' Ask: 'How many beans are on the plate now?' (Zero.) Say: 'Zero is a real number. It is the number of beans on an empty plate.' Ask: 'Show me zero apples. Show me zero elephants.' Good answer: empty hands. Ask: 'How many elephants are in our kitchen?' (Zero.)"
+    }
+   ],
+   "need": [
+    "a notebook for the 'Nothing and forever' notebook",
+    "a pencil",
+    "3 dry beans (rajma or chana) and a plate"
+   ],
+   "prep": []
+  },
+  {
+   "n": 2,
+   "title": "The empty place",
+   "goal": "Use a katori abacus to see that a 0 holds an empty place, and hear how people around the world marked empty places.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to the stone",
+     "mins": 4,
+     "do": "Ask: 'In the story, why did the stone say twenty-seven?' Good answer: 'The small circle was missing, so the 2 and the 7 slid over.' Ask: 'Did the circle mean anything, if it was zero?' Let your child think. Don't answer yet."
+    },
+    {
+     "kind": "act",
+     "title": "The katori abacus",
+     "mins": 16,
+     "do": "Do Activity a1. Make 25, then 205. Point to the empty tens katori and say: 'The 0 tells us this place is empty. A 0 that holds an empty place is called a placeholder.' Take the empty katori away and push the others together. Ask: 'What number do we have now?' (25.) Ask: 'So does the 0 in 205 matter?' Good answer: 'Yes. Without it, the 2 slides over and the number becomes 25.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Empty places around the world",
+     "mins": 6,
+     "do": "Say: 'About 2,300 years ago, people in Babylon, in what is now Iraq, wrote on clay. They put two small slanted marks to show an empty place inside a number. But they never used that sign as a number on its own. Far away, in Central America, the Maya made their own sign for zero, often drawn as a shell, more than 1,500 years ago.' Your child draws two slanted marks and a shell in the notebook. Ask: 'These people never met. Why do you think they all needed a sign for an empty place?' Good answer: 'Because without one, numbers get mixed up.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The dot in the birch bark",
+     "mins": 8,
+     "do": "Read Voice v2 to your child in your own words. Say: 'In India, people first marked an empty place with a dot. The word for it was shunya, which means empty in Sanskrit.' Then ask the voice's question: 'Three pieces of the same book got three different ages. What would you need to find out before you believed the oldest one?' Good answers: 'Whether the pages were written at the same time.' 'Whether the test was done right.'",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "Start the zero timeline",
+     "mins": 6,
+     "do": "Start the project. Tape 4 sheets of paper end to end into a long strip. Draw a line along it. Your child writes 'Babylon: two marks for an empty place, about 2,300 years ago' near the left end and 'Today' at the right end. Say: 'We will add to this every day. On the last day, you will tell the family the story of zero.' Then tell them the journey: 'Indian numbers with zero went to Baghdad, where al-Khwarizmi wrote a book about them around 825 CE. In 1202, Fibonacci brought them to Europe. The Sanskrit shunya became sifr in Arabic, which became zero.' Add these to the strip."
+    }
+   ],
+   "need": [
+    "3 katoris or small bowls",
+    "20 dry beans",
+    "3 small paper labels",
+    "4 sheets of paper and tape",
+    "the 'Nothing and forever' notebook and a pencil"
+   ],
+   "prep": []
+  },
+  {
+   "n": 3,
+   "title": "Brahmagupta's rules",
+   "goal": "Learn the rules for adding, taking away and multiplying with zero, and find out with beans why dividing by zero has no answer.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Read the empty place",
+     "mins": 4,
+     "do": "Write 305 and 350. Ask: 'What does the 0 tell us in each one?' Good answers: 'In 305 there are no tens. In 350 there are no ones.' If your child is unsure, set up the katori abacus from Day 2 again."
+    },
+    {
+     "kind": "talk",
+     "title": "Zero becomes a number",
+     "mins": 8,
+     "do": "Read Voice v1 in your own words. Then try his rules with beans. Put 5 beans on a plate and add zero beans. Ask: 'How many now?' (5.) Take away zero beans. (Still 5.) Put out 5 empty plates. Ask: 'Five plates with zero beans on each. How many beans in all?' (Zero.) Say: 'Five times zero is zero.' Write the three rules in the notebook: 5 + 0 = 5, 5 − 0 = 5, 5 × 0 = 0. Ask the voice's question at the end. Add 'Brahmagupta, 628 CE' to the timeline.",
+     "ref": "v1"
+    },
+    {
+     "kind": "exp",
+     "title": "Sharing in groups of zero",
+     "mins": 14,
+     "do": "Do Experiment e2. Ask your child to guess first, and give a reason. After the zero round, ask: 'Did the heap get smaller?' (No.) 'When would you finish?' (Never.) Then use the phone calculator. Say: 'Dividing by zero has no answer. Mathematicians call it undefined.' Ask: 'Why does the calculator give up?' Good answer: 'Because no number of zero-groups ever makes 12.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 14,
+     "do": "Your child does Worksheet ws1. Let them use the beans and the katoris for any question. For the two written answers, ask them to say the answer aloud first, then write it.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "12 dry beans",
+    "5 to 6 small plates or katoris",
+    "a phone or calculator",
+    "Worksheet ws1"
+   ],
+   "prep": []
+  },
+  {
+   "n": 4,
+   "title": "Is anything really empty?",
+   "goal": "Find that an 'empty' glass is full of air, listen for silence, and hear about animals that understand 'none'.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Is this glass empty?",
+     "mins": 3,
+     "do": "Hold up an empty glass. Ask: 'Is there anything in this glass?' Let your child answer. Ask: 'How could we test it?' Write their idea in the notebook."
+    },
+    {
+     "kind": "exp",
+     "title": "The dry tissue",
+     "mins": 14,
+     "do": "Do Experiment e1. Ask for a guess and a reason first. After the straight push, let your child feel the dry tissue. Ask: 'Why didn't the water come in?' Then do the tilted push. Ask: 'What came out as bubbles?' Good answer: 'Air.' Say: 'Air is made of tiny particles. It takes up space, even when we cannot see it. So the glass was not empty. It was full of air.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "The emptiest place",
+     "mins": 8,
+     "do": "Say: 'Space between the stars is the emptiest place we know. It has no air to breathe. A space with almost nothing in it is called a vacuum. But even there, there are a few atoms, about one in every space the size of a sugar cube, and light from stars passes through.' Ask: 'Sound needs air to travel. Could you hear a friend shout in space?' Good answer: 'No, because there is no air to carry the sound.' Ask: 'Have scientists found anywhere that is perfectly empty?' Say: 'No. Nobody has found a perfect nothing.'"
+    },
+    {
+     "kind": "act",
+     "title": "Listening to nothing",
+     "mins": 10,
+     "do": "Do Activity a4. After the silent minute, read out the list of sounds. Ask: 'Was the minute really silent?' Usually it was not. Say: 'In 1952, a musician called John Cage wrote a piece called 4′33″. The players sit and play nothing for four minutes and thirty-three seconds. The music is all the sounds in the room.' Then do the clapping with rests. Ask: 'What does a rest do to the rhythm?' Good answer: 'It makes a gap, and the gap is part of the pattern.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "think",
+     "title": "Bees and crows know 'none'",
+     "mins": 5,
+     "do": "Say: 'A honeybee has to choose quickly between many flowers. Telling some from none probably helps it not to waste a trip. In 2018, scientists in Australia trained bees to fly to the card with fewer shapes. When they showed a card with no shapes, the bees treated it as less than one. Crows hide food and come back for it. In 2021, scientists in Germany found cells in crows' brains that respond to no dots at all.' Ask: 'If bees and crows understand none, is zero only a human idea?' Let your child give a reason."
+    }
+   ],
+   "need": [
+    "a clear glass tumbler (or a steel one)",
+    "a tissue or a small piece of newspaper",
+    "a bucket or big pot of water",
+    "a towel",
+    "a phone timer"
+   ],
+   "prep": [
+    {
+     "task": "Fill a bucket or big pot three-quarters full of water and put it on a towel",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Numbers never end",
+   "goal": "Find out that there is no biggest number, feel how big a googol is, and learn that infinity means 'without end'.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Your biggest number",
+     "mins": 3,
+     "do": "Read out the biggest number your child wrote on Day 1. Ask: 'Is there a number bigger than that?' Good answer: 'Yes. Add one.' Ask: 'Is there a biggest number of all?' Let them guess and give a reason."
+    },
+    {
+     "kind": "game",
+     "title": "The biggest-number game",
+     "mins": 9,
+     "do": "Do Activity a2, steps 1 to 4. After the rounds, ask: 'Who always won?' Good answer: 'The second player, because they can always add one.' Say: 'Whatever number you say, there is always one more. So the numbers never end.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "How big is a googol?",
+     "mins": 9,
+     "do": "Do Activity a2, steps 5 and 6. Then say: 'In 1920, a nine-year-old boy named Milton Sirotta gave the name googol to a 1 with 100 zeros. His uncle, the mathematician Edward Kasner, wrote about it.' Ask: 'If you counted one number every second, day and night, how long to reach a million?' Say: 'About 11 and a half days. To reach a googol, you would need far more seconds than have passed since the universe began.' Ask: 'Is a googol the end of the numbers?' Good answer: 'No. A googol plus one is bigger.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Is infinity a number?",
+     "mins": 8,
+     "do": "Say: 'Infinity is the idea of going on without end. It is not a number at the end of the line, because the line has no end. In Sanskrit, endless is ananta. In 1655, John Wallis, an English mathematician, started using this sign for it: ∞.' Your child draws ∞ in the notebook. Then read Voice v4 in your own words and ask its question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 11,
+     "do": "Your child does Worksheet ws2. It has questions from Day 4 and today. Let them try the questions on their own first, then talk through any they found hard.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "paper and a pencil",
+    "a long strip of paper (two A4 sheets taped end to end)",
+    "a phone timer",
+    "Worksheet ws2"
+   ],
+   "prep": []
+  },
+  {
+   "n": 6,
+   "title": "Halfway, and halfway again",
+   "goal": "Walk halfway to a wall again and again, shade a square in halves, and meet Madhava, who added up endless lists of fractions.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Could you halve for ever?",
+     "mins": 3,
+     "do": "Ask: 'If you cut a roti in half, then cut one half in half, and keep going, would you ever have zero roti left?' Let your child guess and give a reason. Write the guess in the notebook."
+    },
+    {
+     "kind": "exp",
+     "title": "Halfway to the wall",
+     "mins": 14,
+     "do": "Do Experiment e4. After each step, ask: 'How much of the gap is left?' (Half of what was there.) At the end, ask: 'In your mind, could you take another halving step?' (Yes, always.) 'So how many halving steps are there, in your mind?' (Endless.) 'Did all those steps together take you further than the wall?' (No.) Say: 'A Greek thinker called Zeno made puzzles like this about 2,400 years ago.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "act",
+     "title": "Shade the square",
+     "mins": 10,
+     "do": "Do Activity a3. As your child shades, they say the fraction aloud each time: half, a quarter, an eighth, a sixteenth. Ask: 'If you could keep shading for ever, how much of the square would be shaded in the end?' Good answer: 'The whole square.' Say: 'An endless list of numbers added together is called an infinite series. This one, a half plus a quarter plus an eighth and so on, adds up to exactly one whole.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Madhava and the circle",
+     "mins": 13,
+     "do": "Wrap a string once round a steel plate. Lay that string across the plate, edge to edge, again and again. Ask: 'How many times does the distance across fit into the distance round?' Good answer: 'A bit more than 3 times.' Say: 'That number is called pi. It is about 3.14, and its digits never end.' Then read Voice v3 in your own words. Show the start of Madhava's list on paper: 1 − ⅓ + ⅕ − ⅐ … Ask the voice's question. Add 'Madhava, about 1400 CE' to the timeline.",
+     "ref": "v3"
+    }
+   ],
+   "need": [
+    "a long string or thin rope",
+    "scissors",
+    "a strip of tape",
+    "a 30 cm ruler",
+    "a square of paper and two or three coloured pencils",
+    "a steel plate"
+   ],
+   "prep": [
+    {
+     "task": "Clear a straight path about 4 metres long that ends at a wall",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Things that look endless",
+   "goal": "Look into a mirror tunnel and at patterns in nature, and see that they look endless but stop. Talk about what nobody knows.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Halving in your head and on paper",
+     "mins": 3,
+     "do": "Ask: 'Yesterday, could you really keep walking halfway for ever?' Good answer: 'Only in my head. My feet and the string got too big.' Say: 'Today we look at things that seem to go on for ever, and test if they really do.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The mirror tunnel",
+     "mins": 12,
+     "do": "Do Experiment e3. Ask for a guess first: 'Will it go on for ever?' After counting, ask: 'Did the copies go on for ever?' (No, they got dimmer and greener and faded away.) 'Why?' Good answer: 'Each mirror soaks up a little light at every bounce.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "act",
+     "title": "Patterns that go on, and the ∞ walk",
+     "mins": 13,
+     "do": "Do Activity a5. With the cauliflower, ask: 'How many times does the small piece look like the big one before it stops?' Most children find 3 or 4. Say: 'Nature makes patterns that repeat at smaller and smaller sizes, but they always stop somewhere.' Finish with the ∞ walk to music.",
+     "ref": "a5"
+    },
+    {
+     "kind": "think",
+     "title": "What nobody knows",
+     "mins": 12,
+     "do": "Ask each question and let your child answer before you say anything. 'Does space go on for ever?' Say: 'Nobody knows. It may go on for ever, or it may curve round and close up, like the skin of a ball. Measurements cannot yet tell.' Ask: 'Did time have a zero, a beginning?' Say: 'Most scientists think the universe began growing about 13.8 billion years ago. Nobody knows if anything came before.' Ask: 'Can you think about nothing at all? Try for 10 seconds.' Then ask: 'What happened?' Write your child's answers in the notebook."
+    }
+   ],
+   "need": [
+    "a wall or dressing-table mirror",
+    "a small hand mirror",
+    "a cauliflower",
+    "a sheet of paper and a pencil",
+    "a dupatta or a long string",
+    "music on a phone"
+   ],
+   "prep": []
+  },
+  {
+   "n": 8,
+   "title": "Play, check and teach it back",
+   "goal": "Play the card game, do the challenge worksheet, and teach the story of zero and infinity to the family.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Zero, Forever or Neither?",
+     "mins": 12,
+     "do": "Play Game g1. When your child sorts a card, always ask for the reason before turning it over. If they argue with a card's back, let them test it if they can.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Your child does Worksheet ws3. For the halving questions, let them draw the steps. For the written questions, talk first, then write.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud, one at a time. If an answer is missing, redo the matching test for a minute: the katori abacus, the beans, the glass in water or the halving walk. Then ask again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Your child is the teacher. Using the zero timeline and the katoris, they tell the family the story of zero and what infinity means, in about five minutes. As the students, ask: 'Why does the 0 in 205 matter?' and 'Is there a biggest number?' Then look again at Day 1's notebook page and ask: 'What would you change now?'"
+    }
+   ],
+   "need": [
+    "the printed cards for Game g1, cut out",
+    "Worksheet ws3",
+    "the zero timeline",
+    "3 katoris and some beans"
+   ],
+   "prep": [
+    {
+     "task": "Print and cut out the cards for Game g1",
+     "when": "night before"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Zero: none, and the empty place",
+   "day": 3,
+   "sections": [
+    [
+     "A. Zero means none",
+     [
+      {
+       "t": "mcq",
+       "p": "Asha has 3 laddoos. She eats all 3. How many are left?",
+       "opts": [
+        "3",
+        "0",
+        "1"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The number that means none is ____.",
+       "a": [
+        "zero",
+        "0"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In which number does a 0 show that there are no tens?",
+       "opts": [
+        "250",
+        "205",
+        "25"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each number in words to its digits.",
+       "pairs": [
+        [
+         "two hundred and five",
+         "205"
+        ],
+        [
+         "two hundred and fifty",
+         "250"
+        ],
+        [
+         "twenty-five",
+         "25"
+        ],
+        [
+         "fifty",
+         "50"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Brahmagupta's rules",
+     [
+      {
+       "t": "fill",
+       "p": "7 + 0 = ____",
+       "a": [
+        "7"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "9 − 0 = ____",
+       "a": [
+        "9"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "6 × 0 = ____",
+       "a": [
+        "0"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Ravi has 12 beans. He puts 0 beans on each plate until the beans run out. How many plates does he need?",
+       "opts": [
+        "12 plates",
+        "0 plates",
+        "He never finishes, because the heap never gets smaller."
+       ],
+       "a": 2
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "The 0 in 205 means none. Why does it still matter? Use the katori abacus to explain.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A phone calculator says 'Can't divide by 0'. Use the beans to explain why.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Empty, and never-ending",
+   "day": 5,
+   "sections": [
+    [
+     "A. Is it really empty?",
+     [
+      {
+       "t": "mcq",
+       "p": "Meera sticks a dry tissue inside the bottom of a glass. She pushes the glass upside down, straight into a bucket of water. What happens to the tissue?",
+       "opts": [
+        "It gets wet.",
+        "It stays dry, because the glass is full of air.",
+        "It floats out of the glass."
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort these. Is the number of things zero, or does it only look empty?",
+       "items": [
+        "elephants in your bedroom",
+        "an 'empty' bottle",
+        "dogs with five legs that you have met",
+        "a room with no furniture",
+        "the space between two stars",
+        "laddoos on a plate after you eat them all"
+       ],
+       "cats": [
+        "zero: none at all",
+        "looks empty, but has something in it"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Two astronauts stand on the Moon. Why can't they hear each other shout without radios?",
+       "opts": [
+        "The Moon is too cold.",
+        "There is almost no air to carry the sound.",
+        "They are too far apart."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Scientists trained honeybees to fly to the card with fewer shapes. Then they showed a card with no shapes. What did the bees do?",
+       "opts": [
+        "They ignored it.",
+        "They treated it as less than one shape.",
+        "They treated it as the most shapes."
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Numbers never end",
+     [
+      {
+       "t": "mcq",
+       "p": "Kabir says, 'A googol is the biggest number.' What is the best answer?",
+       "opts": [
+        "He is right.",
+        "Add 1 to a googol, and you get a bigger number.",
+        "A googol is the same as infinity."
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "A googol is a 1 followed by ____ zeros.",
+       "a": [
+        "100",
+        "a hundred",
+        "one hundred"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which sentence about infinity is true?",
+       "opts": [
+        "It is the biggest number.",
+        "It is not a number. It means without end.",
+        "It is a googol."
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each sign or word to what it means.",
+       "pairs": [
+        [
+         "∞",
+         "the sign for infinity"
+        ],
+        [
+         "0",
+         "the sign for zero"
+        ],
+        [
+         "shunya",
+         "the Sanskrit word for empty"
+        ],
+        [
+         "ananta",
+         "the Sanskrit word for endless"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "In the biggest-number game, why does the second player always win?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "There are more grains of sand on Juhu beach than you could count in your whole life. Is the number of grains infinite? Explain.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Halving for ever, and other puzzles",
+   "day": 8,
+   "sections": [
+    [
+     "A. Halving",
+     [
+      {
+       "t": "mcq",
+       "p": "You stand 4 metres from a wall. Each step, you walk half of the gap that is left. How far from the wall are you after 3 steps?",
+       "opts": [
+        "1 metre",
+        "half a metre",
+        "0 metres"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "You shade half a square. Then you shade half of what is left, and then half again. Now one ____ of the square is left unshaded.",
+       "a": [
+        "eighth",
+        "1/8",
+        "one eighth"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "If you could keep shading half of what is left for ever, how much of the square would be shaded in the end?",
+       "opts": [
+        "half of it",
+        "the whole square",
+        "more than the whole square"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Two mirrors face each other. Why do the copies get dimmer and then fade away?",
+       "opts": [
+        "Each mirror soaks up a little light at every bounce.",
+        "The mirrors run out of room.",
+        "Your eyes get tired."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Who, when and what",
+     [
+      {
+       "t": "match",
+       "p": "Match each person or place to what happened.",
+       "pairs": [
+        [
+         "Brahmagupta, 628 CE",
+         "wrote rules for adding, taking away and multiplying with zero"
+        ],
+        [
+         "Gwalior temple stone, 876 CE",
+         "has a small circle for zero in the number 270"
+        ],
+        [
+         "Madhava, about 1400 CE",
+         "added up endless lists of fractions to find pi"
+        ],
+        [
+         "Fibonacci, 1202 CE",
+         "wrote a book that brought Indian numbers to Europe"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Brahmagupta wrote that 0 ÷ 0 = 0. What do mathematicians say today?",
+       "opts": [
+        "He was right.",
+        "It has no answer, so it is undefined.",
+        "The answer is 1."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Does space go on for ever?",
+       "opts": [
+        "Yes, scientists have proved it.",
+        "No, scientists have found its edge.",
+        "Nobody knows yet."
+       ],
+       "a": 2
+      },
+      {
+       "t": "fill",
+       "p": "In 405, the 0 tells us there are no ____.",
+       "a": [
+        "tens"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Your view",
+     [
+      {
+       "t": "write",
+       "p": "Aristotle said you can always count one more, but you can never finish counting. Do you agree? Give a reason.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Bees understand 'none'. How might knowing 'none' help a bee that is looking for food?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Try to think about nothing at all for 10 seconds. What happened? Do you think a person can think about nothing?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The dry tissue: is an empty glass empty?",
+   "day": 4,
+   "question": "Is an 'empty' glass really empty?",
+   "need": [
+    "a clear glass tumbler (or a steel one)",
+    "a tissue or a small piece of newspaper",
+    "a bucket or big pot, three-quarters full of water",
+    "a towel"
+   ],
+   "steps": [
+    "Crumple the tissue and push it tight into the bottom of the glass, so it stays there when the glass is upside down.",
+    "Turn the glass upside down and hold it straight.",
+    "Push it straight down into the water until the whole glass is under. Hold it there for 5 seconds.",
+    "Lift it straight up. Take out the tissue and feel it.",
+    "Put in a new dry tissue. Push the glass down again, but this time tilt it under the water. Watch the glass, then feel the tissue."
+   ],
+   "predict": "Ask your child to guess first: 'The glass is empty. Will the water fill it and wet the tissue? Why do you think so?'",
+   "observe": "When the glass goes straight down, the tissue stays dry. Water goes only a little way up inside the glass. When you tilt it, big bubbles come out, water rushes in, and the tissue gets wet.",
+   "why": "The 'empty' glass was full of air. Air is made of tiny particles, too small to see, and it takes up space. When the glass went straight down, the air could not get out, so the water could not get in. When you tilted the glass, the air escaped as bubbles and water took its place. Most things we call empty are full of air.",
+   "safety": "A grown-up handles a glass tumbler. Wipe up spills so nobody slips.",
+   "time": "14 min"
+  },
+  {
+   "id": "e2",
+   "title": "Sharing in groups of zero",
+   "day": 3,
+   "question": "What happens when we try to share 12 beans in groups of zero?",
+   "need": [
+    "12 dry beans (rajma or chana)",
+    "5 or 6 small plates or katoris",
+    "a phone or calculator"
+   ],
+   "steps": [
+    "Put the 12 beans in a heap. Say: 'We will put the same number of beans on each plate until the heap is gone.'",
+    "Put 4 beans on each plate. Count the plates you used.",
+    "Put the beans back in the heap. Now put 2 on each plate. Count the plates.",
+    "Put them back again. Now put 1 bean on each plate, or on a spot on the table if you run out of plates. Count.",
+    "Now put 0 beans on each plate. Put 0 on the first plate, 0 on the next, and keep going for a while. Watch the heap.",
+    "On the calculator, type 12 ÷ 4, then 12 ÷ 2, then 12 ÷ 1. Then type 12 ÷ 0 and press equals. Read what it says."
+   ],
+   "predict": "Ask: 'When each plate gets fewer beans, will we need more plates or fewer? What will happen when each plate gets 0 beans? Why do you think so?'",
+   "observe": "4 beans on each plate needs 3 plates. 2 on each needs 6 plates. 1 on each needs 12. With 0 on each plate, the heap never gets smaller, so you never finish. The calculator shows 'Error' or 'Can't divide by 0'.",
+   "why": "12 ÷ 4 asks: how many groups of 4 make 12? The answer is 3. With groups of 0, no number of groups ever makes 12, so 12 ÷ 0 has no answer. Mathematicians say dividing by zero is undefined, which means it has no answer. Notice the pattern too: the smaller each group, the more plates you need. As the groups get closer to zero, the number of plates grows and grows without end.",
+   "safety": "Young children must not put beans in their mouth, nose or ears.",
+   "time": "14 min"
+  },
+  {
+   "id": "e3",
+   "title": "The mirror tunnel",
+   "day": 7,
+   "question": "If two mirrors face each other, do the reflections go on for ever?",
+   "need": [
+    "a wall mirror or dressing-table mirror",
+    "a small hand mirror (or the mirror from a make-up compact)",
+    "a well-lit room"
+   ],
+   "steps": [
+    "Stand in front of the big mirror. Hold the small mirror just under your eyes, facing the big mirror.",
+    "Tilt the small mirror a little until you see a tunnel of mirrors inside mirrors.",
+    "Count how many copies of the mirror you can see. Count two more times and write down all three counts.",
+    "Look at the far copies. Are they as bright as the near ones? What colour are they?",
+    "Swap, so the other person holds the mirror and counts."
+   ],
+   "predict": "Ask: 'How many copies will you see? Will they go on for ever? Why do you think so?'",
+   "observe": "You see a line of mirrors, each smaller than the one before. Most people can count 10 to 20. The far copies are dimmer and look a little green, and then the tunnel fades away. The tunnel often curves, because the mirrors are not exactly facing each other.",
+   "why": "Light bounces from one mirror to the other again and again. Each copy is the light after one more bounce. At every bounce the mirror soaks up a little of the light, so each copy is dimmer than the last. The glass of a mirror soaks up a little more red light than green light, so the far copies look green. After enough bounces, too little light is left to see. Perfect mirrors could keep the tunnel going much longer, but no real mirror is perfect.",
+   "safety": "Hold glass mirrors carefully with both hands. Never point a mirror at the Sun.",
+   "time": "12 min"
+  },
+  {
+   "id": "e4",
+   "title": "Halfway to the wall",
+   "day": 6,
+   "question": "If you walk half the gap that is left, again and again, will you ever reach the wall?",
+   "need": [
+    "a long string or thin rope (about 4 metres)",
+    "scissors",
+    "a strip of tape",
+    "a 30 cm ruler",
+    "the notebook and a pencil"
+   ],
+   "steps": [
+    "Stick a strip of tape on the floor about 3 or 4 metres from a wall. Your child stands with their toes on the tape.",
+    "Stretch the string from their toes to the wall. Cut it to exactly that length.",
+    "Fold the string in half. Lay it on the floor from their toes towards the wall. They step forward to its far end. That is step 1.",
+    "The gap left is now as long as the folded string. Fold it in half again, lay it from their toes, and step to its end. That is step 2.",
+    "Keep going and count the steps. When the gap is shorter than a foot, slide the toes forward instead of stepping.",
+    "Stop when the string is too short to fold. Measure the last gap with the ruler and write it down."
+   ],
+   "predict": "Ask: 'How many halving steps will it take to reach the wall? Why do you think so?'",
+   "observe": "After 1 step, half the gap is left. After 2 steps, a quarter is left. From 4 metres, after 7 steps the gap is only about 3 cm, and soon the string is too short to fold. Each step is shorter than the one before, and the toes never quite touch the wall by halving.",
+   "why": "Each step covers half of what is left, so something is always left. In your mind you could take halving steps for ever, which would be an infinite number of steps. Yet all those steps together never add up to more than the first gap. So an endless list of numbers can add up to an answer that ends. A Greek thinker called Zeno made puzzles like this about 2,400 years ago. When you walk normally, your steps do not halve, so you reach the wall.",
+   "safety": "Clear the floor so nobody trips. A grown-up uses the scissors with young children.",
+   "time": "14 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The katori abacus",
+   "day": 2,
+   "mins": 16,
+   "need": [
+    "3 katoris or small bowls",
+    "20 dry beans",
+    "3 small paper labels",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Put the three katoris in a row. Label them, from left to right, 'hundreds', 'tens' and 'ones'.",
+    "Make 25: put 2 beans in the tens katori and 5 beans in the ones katori. Your child writes 25.",
+    "Make 205: put 2 beans in hundreds, none in tens, and 5 in ones. Your child writes 205 and points to the empty katori.",
+    "Take away the empty katori and push the other two together. Ask: 'What number does it show now?'",
+    "Make 250, 502 and 520 with the katoris. Your child writes each one. Then they make a number for you to write.",
+    "Write 0 to 9 in Devanagari digits too: ० १ २ ३ ४ ५ ६ ७ ८ ९. Your child writes 205 as २०५."
+   ],
+   "outcome": "Your child sees that a 0 marks an empty place, and that without it the other digits slide over and the number changes."
+  },
+  {
+   "id": "a2",
+   "title": "The biggest-number game and the googol strip",
+   "day": 5,
+   "mins": 18,
+   "need": [
+    "paper and a pencil",
+    "a long strip of paper (two A4 sheets taped end to end)",
+    "a phone timer"
+   ],
+   "steps": [
+    "Player 1 says a big number and writes it down.",
+    "Player 2 must say a bigger number and write it.",
+    "Play 5 rounds, with the same player going second each time.",
+    "Swap, so the other player goes second, and play 5 more rounds. Ask: 'Who always won?'",
+    "Now write a googol on the long strip: a 1, then 100 zeros, in groups of three with a gap between groups. Time how long it takes.",
+    "Count the groups of three zeros together to check there are 100 zeros. (33 groups of three, and one extra zero.)"
+   ],
+   "outcome": "Your child finds that the second player can always win by adding one, so there is no biggest number, and they hold a written googol in their hands."
+  },
+  {
+   "id": "a3",
+   "title": "Shade the square",
+   "day": 6,
+   "mins": 10,
+   "need": [
+    "a square of paper (fold the corner of an A4 sheet across and cut off the extra strip)",
+    "two or three coloured pencils",
+    "a ruler"
+   ],
+   "steps": [
+    "Draw a line down the middle of the square. Shade one half. Write '½' on it.",
+    "Draw a line across the middle of the unshaded half. Shade one of the two parts in a new colour. Write '¼'.",
+    "Halve the part that is still unshaded. Shade one piece. Write '⅛'.",
+    "Keep going, each time halving what is left and shading one piece, until the pieces are too small to draw.",
+    "Count how many times you shaded. Look at the tiny piece still left."
+   ],
+   "outcome": "A square almost all shaded, which shows that a half plus a quarter plus an eighth and so on, for ever, adds up to the whole square."
+  },
+  {
+   "id": "a4",
+   "title": "Listening to nothing",
+   "day": 4,
+   "mins": 10,
+   "need": [
+    "a phone timer",
+    "the notebook and a pencil"
+   ],
+   "steps": [
+    "Sit cross-legged on the floor, back straight, hands on your knees. Close your eyes.",
+    "For one minute, stay as still as a statue and listen. Make no sound.",
+    "Open your eyes. Write down every sound you heard: a fan, a horn, a bird, your own breathing.",
+    "Clap this rhythm together: clap, clap, rest, clap. On the rest, open your hands without a sound. Repeat it 4 times.",
+    "Draw the rhythm in the notebook: a dot for each clap, a 0 for each rest.",
+    "Your child makes up a rhythm with one rest, and then one with three rests. Clap both. Ask which one sounds more different."
+   ],
+   "outcome": "A list of the sounds in a 'silent' minute, and two rhythms written with 0s for the rests."
+  },
+  {
+   "id": "a5",
+   "title": "Patterns that go on, and the ∞ walk",
+   "day": 7,
+   "mins": 13,
+   "need": [
+    "a cauliflower",
+    "a sheet of paper and a pencil",
+    "a dupatta or a long string",
+    "music on a phone"
+   ],
+   "steps": [
+    "Break a floret off the cauliflower. Put it next to the whole head. Ask: 'Does the small piece look like the big one?'",
+    "Break a smaller floret off the floret. Then a smaller one off that. Count how many times you can do it before the piece no longer looks like a little cauliflower.",
+    "On paper, draw a big triangle. Inside it, draw a smaller triangle, then a smaller one inside that. Keep going until your pencil line is too thick.",
+    "Lay the dupatta or string on the floor in the shape of ∞, a figure of eight.",
+    "Play music. Your child walks along the shape, round and round, for one minute. Ask: 'Where is the end of the path?'"
+   ],
+   "outcome": "Your child sees that patterns in nature and on paper can repeat smaller and smaller, but always stop, and feels a path that has no end."
+  }
+ ],
+ "project": {
+  "title": "The zero timeline",
+  "days": [
+   2,
+   8
+  ],
+  "steps": [
+   "On Day 2, tape 4 sheets of paper end to end and draw a long line on it. Write 'Today' at the right end.",
+   "Add Babylon (two marks for an empty place, about 2,300 years ago), al-Khwarizmi in Baghdad (about 825 CE), and Fibonacci (1202 CE).",
+   "On Day 3, add Brahmagupta (628 CE) and his rules.",
+   "Add the Gwalior temple stone (876 CE), with the number 270 and its small circle. Add the Maya shell sign.",
+   "On Day 6, add Madhava (about 1400 CE) and the start of his endless list.",
+   "Draw a small picture for each one: a clay tablet, a stone, a shell, a circle.",
+   "On Day 8, your child uses the timeline to tell the family the story of zero."
+  ],
+  "outcome": "A long timeline that shows how the idea of zero grew in many places and travelled from India across the world."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Zero, Forever or Neither?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out"
+  ],
+  "rules": [
+   "Shuffle the cards and put them in a pile, front side up.",
+   "Take turns. Read the front of the top card aloud.",
+   "Say 'Zero', 'Forever' or 'Neither', and give one reason. Zero means there are none. Forever means it never ends. Neither means it is a number that ends, even if it is huge.",
+   "Turn the card over and read the back. If your answer and your reason are right, keep the card. If not, put it at the bottom of the pile.",
+   "When the pile is gone, the player with the most cards wins.",
+   "Playing alone? Try to keep more than 15 cards."
+  ],
+  "cards": [
+   {
+    "front": "The number of dinosaurs in your kitchen",
+    "back": "Zero. There are none."
+   },
+   {
+    "front": "The counting numbers: 1, 2, 3, 4 and on",
+    "back": "Forever. There is always one more."
+   },
+   {
+    "front": "The grains of sand on Juhu beach",
+    "back": "Neither. It is a huge number, but it stops somewhere."
+   },
+   {
+    "front": "7 × 0",
+    "back": "Zero. Any number times zero is zero."
+   },
+   {
+    "front": "The copies you see between two facing mirrors",
+    "back": "Neither. They look endless, but they get dim and fade away."
+   },
+   {
+    "front": "Halving a roti again and again in your mind",
+    "back": "Forever. In your mind you can always halve again."
+   },
+   {
+    "front": "The rain in a rain gauge on a dry day",
+    "back": "Zero. The gauge reads 0 millimetres."
+   },
+   {
+    "front": "The stars you can see from a city at night",
+    "back": "Neither. You can count them, and in a city there are not many."
+   },
+   {
+    "front": "The air in an 'empty' bottle",
+    "back": "Neither. It is not zero, because the bottle is full of air."
+   },
+   {
+    "front": "The digits of pi: 3.14159 and on",
+    "back": "Forever. They never end and never repeat."
+   },
+   {
+    "front": "A googol",
+    "back": "Neither. It is huge, but you can add 1 to it."
+   },
+   {
+    "front": "The even numbers: 2, 4, 6, 8 and on",
+    "back": "Forever. You can always add 2."
+   },
+   {
+    "front": "10 − 10",
+    "back": "Zero. Take away all ten, and none are left."
+   },
+   {
+    "front": "Sounds you could hear in the space between stars",
+    "back": "Zero. There is no air to carry sound."
+   },
+   {
+    "front": "Walking round and round a circle",
+    "back": "Forever. The path has no end, though your legs will get tired."
+   },
+   {
+    "front": "The number of people who have ever lived",
+    "back": "Neither. It is a huge number, but it has a size."
+   },
+   {
+    "front": "How many times you can add 1 to a number",
+    "back": "Forever. You never run out."
+   },
+   {
+    "front": "0 laddoos shared among 4 friends: how many each?",
+    "back": "Zero. 0 ÷ 4 = 0."
+   },
+   {
+    "front": "The fractions ½, ¼, ⅛, and each half of the one before",
+    "back": "Forever. You can always halve again."
+   },
+   {
+    "front": "The cuts you can make in a real strip of paper with scissors",
+    "back": "Neither. After about 8 cuts, the piece is too small to cut."
+   },
+   {
+    "front": "0 × a googol",
+    "back": "Zero. Even a googol times zero is zero."
+   },
+   {
+    "front": "A spiral you draw, smaller and smaller, on paper",
+    "back": "Neither. It stops when your pencil line is too thick."
+   },
+   {
+    "front": "The end of the list of numbers",
+    "back": "Forever. The list has no end."
+   },
+   {
+    "front": "Beans left in the heap after you put 0 beans on each plate",
+    "back": "Neither. All 12 are still there, and you never finish."
+   }
+  ]
+ },
+ "big": [
+  "If you took everything out of a room, the furniture, the air and the light, would anything be left?",
+  "Can you think about nothing? What happens when you try?",
+  "Do numbers go on for ever only in our minds, or in the world too?",
+  "Bees and crows understand 'none'. Were numbers invented by people, or found?",
+  "Does the universe have an edge? If it does, what is on the other side?"
+ ],
+ "challenge": [
+  {
+   "q": "People often say zero was invented in India and nowhere else. Is that true?",
+   "hint": "People in Babylon used two slanted marks for an empty place by about 300 BCE, but never as a number on its own. The Maya of Central America made their own zero sign, often drawn as a shell, more than 1,500 years ago. The oldest dated zero dot found so far in stone is in Cambodia, from 683 CE. What India gave the world was zero as a number with its own rules, written by Brahmagupta, inside the ten-digit place-value system the whole world now uses. Ask: can different people who never met find the same idea?"
+  },
+  {
+   "q": "There are infinitely many stars in the sky. True?",
+   "hint": "On a dark night far from a city, you can see a few thousand stars. Scientists estimate that the part of the universe we can see holds a huge but limited number of stars, a number more than 20 digits long. Whether the whole universe goes on for ever, with endless stars, nobody knows. Ask: how could you ever check that something has no end?"
+  },
+  {
+   "q": "Infinity is the biggest number. True?",
+   "hint": "Infinity is not a number on the number line. It is the idea of going on without end. Whatever number you name, you can add 1. In the 1870s and 1880s, the German mathematician Georg Cantor showed something even stranger: some endless collections are bigger than others. You will meet his idea in Class 5. Ask: if you add 1 to infinity, what do you think you get?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A honeybee",
+   "view": "A bee visits many flowers on one trip, so it must choose fast, and telling some from none probably saves it wasted trips. In 2018, scientists in Melbourne, Australia, trained bees to pick the card with fewer shapes, and the bees placed a card with no shapes below one. A bee's brain has fewer than a million nerve cells. Ask: if a bee understands 'none', did people invent zero, or find it?"
+  },
+  {
+   "who": "A crow at your window",
+   "view": "Crows hide food and come back for it later, so keeping track of how much is where helps them eat. In 2021, scientists in Tübingen, Germany, found nerve cells in crows' brains that respond to an empty set, no dots at all. Ask: what would a crow count?"
+  },
+  {
+   "who": "A farmer reading a rain gauge",
+   "view": "A reading of 0 millimetres is real information: it tells the farmer no rain fell. That is different from nobody checking the gauge. Ask: what is the difference between 'zero' and 'we don't know'?"
+  },
+  {
+   "who": "Jain thinkers in old India",
+   "view": "Old Jain texts sorted numbers into three kinds: numbers you can count (sankhyata), numbers too many to count (asankhyata), and endless numbers (ananta). They even split the endless numbers into different kinds. Ask: can one endless thing be bigger than another?"
+  },
+  {
+   "who": "A computer engineer",
+   "view": "A computer told to 'go back to step 1' will do it for ever. This is called an infinite loop, and it can freeze a machine. In 1985, Radia Perlman, an American engineer, invented rules that stop messages going round and round a computer network for ever. Big networks still use her idea. Ask: when is 'for ever' a problem?"
+  },
+  {
+   "who": "A verse from the Upanishads",
+   "view": "An old Sanskrit verse begins 'Purnamadah purnamidam'. It says: that is whole, this is whole, from the whole the whole comes out, and when the whole is taken from the whole, the whole remains. Many people read it as being about the endless. Ask: take all the even numbers out of the counting numbers. How many numbers are left?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Brahmagupta (born 598 CE), India",
+   "idea": "In 628 CE, in Bhillamala (now Bhinmal in Rajasthan), Brahmagupta wrote a book called the Brahmasphutasiddhanta. In it, he treated zero as a number of its own and gave rules for it: a number plus zero is the same number, a number minus zero is the same number, and a number times zero is zero. He also gave rules for negative numbers, which he compared to debts.",
+   "then": "His book was studied across India and was translated into Arabic in Baghdad in the 700s. Later Indian mathematicians argued about his rule for dividing. He wrote that zero divided by zero is zero. In the 1100s, Bhaskara II wrote that a number divided by zero is endless, like infinity.",
+   "now": "His rules for adding, taking away and multiplying with zero are the ones every child learns today. Mathematicians now say that dividing by zero has no answer, so his rule that 0 ÷ 0 = 0 is not used.",
+   "status": "accepted",
+   "ask": "Brahmagupta got most of his zero rules right and one wrong. How could he have tested his rule for dividing by zero?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "The Bakhshali manuscript, found in 1881 near the village of Bakhshali (now in Pakistan)",
+   "idea": "This old maths book, written on birch bark, uses a solid dot as a zero to hold empty places. In 2017, the Bodleian Library in Oxford, which keeps it, had three pieces carbon-dated. The oldest piece came out at about 224 to 383 CE and the youngest at about 885 to 993 CE.",
+   "then": "Before the tests, most historians thought the manuscript was written between about 800 and 1200 CE. In 2017 the library announced that it might hold the oldest written zero in the world.",
+   "now": "Historians still argue. Some think the book was added to over centuries, so its pages have different ages. Others think the test results are misleading and the whole text is younger. The oldest zero in India whose date everyone agrees on is carved in a temple in Gwalior, from 876 CE.",
+   "status": "debated",
+   "ask": "Three pieces of the same book got three different ages. What would you need to find out before you believed the oldest one?",
+   "day": 2
+  },
+  {
+   "id": "v3",
+   "who": "Madhava of Sangamagrama (about 1340 to 1425 CE), Kerala, India",
+   "idea": "Madhava found that adding and taking away an endless list of fractions can give an exact answer. One of his lists gives pi, the number of times the distance round a circle is longer than the distance across. A quarter of pi equals 1 − ⅓ + ⅕ − ⅐, and so on for ever. He also found endless lists for working out angles.",
+   "then": "His work was written down by later teachers of his school, such as Nilakantha in Sanskrit and Jyeshthadeva in Malayalam. Europe did not know it. In the 1670s, James Gregory and Gottfried Leibniz found the same kind of lists in Europe, and the pi list was named after Leibniz.",
+   "now": "Historians agree that Madhava was first, by about 250 years. Some historians think Jesuit priests in Kerala may have carried his ideas to Europe, but no letter or book has been found that proves it.",
+   "status": "accepted",
+   "ask": "Madhava's list was later named after a European. Should it carry Madhava's name? Who decides what a discovery is called?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Aristotle (384 to 322 BCE), Greece",
+   "idea": "Aristotle said infinity exists only as something that can always go on, like counting. You can always add one more, but you can never finish, so there is never a complete, finished infinity.",
+   "then": "Many thinkers after him, in Europe and in the Arab world, followed this idea for centuries.",
+   "now": "In the late 1800s, Georg Cantor treated whole endless collections, such as all the counting numbers together, as finished things you can work with. Most mathematicians now do the same. Whether anything infinite exists in the real world, such as endless space, is still an open question.",
+   "status": "debated",
+   "ask": "Can you have all the counting numbers at once, or only ever more and more of them? What do you think, and why?",
+   "day": 5
+  }
+ ],
+ "story": {
+  "title": "The Garden That Was Almost Small",
+  "text": [
+   "My name is Gauri. I live in Gopagiri, the town under the great rock, and my mother makes garlands for the new temple of Vishnu on the hill. Every morning before the sun is up, we sit on our floor with baskets of marigolds and jasmine. We push a needle through each flower and slide it down a long cotton thread. The temple needs fifty garlands a day. I know, because I count them.",
+   "I count them on my uncle's old slate. My uncle keeps accounts for the salt traders, and he taught me the new way of writing numbers. You need only ten signs. Where you put a sign tells you what it is worth. A 5 on the right means five. Move it one place to the left, and it means five tens, which is fifty.",
+   "'And if there are five tens and no ones?' I asked him once. 'What goes in the empty place?'",
+   "He drew a small round circle. 'This. Shunya. It means empty. It keeps the place, so the 5 stays where it is.'",
+   "That spring, the people of the town did a big thing. They gave the temple a piece of land for a flower garden, right beside the hill, so the flowers would not have to come all the way from the river fields. The land was two hundred and seventy hastas long. A hasta is the length from your elbow to the tip of your middle finger. My mother would look after the garden. When she heard, she sat down on the step and laughed and cried at the same time.",
+   "A gift like that must be carved in stone, so that nobody can take it back later. The carver was an old man called Devadatta, with white eyebrows and hands like tree roots. His helper was Bhoja, who was fifteen and very proud of his new chisel. Every afternoon I carried them a pot of water and stayed to watch.",
+   "Devadatta carved the long words, line after line: the name of the king, the name of the town, the name of the god. Bhoja was allowed to carve the numbers. He liked the new signs because they were quick. Tap, tap, scrape, and a 2 appeared. Tap, tap, and a 7.",
+   "Then he put down the chisel and drank the water. I read the line. It said the garden was 27 hastas long.",
+   "'It says twenty-seven,' I said.",
+   "Bhoja wiped his mouth. 'It says two, seven. Everyone knows the garden is two hundred and seventy.'",
+   "'Everyone knows now,' I said. 'But the stone is for later. It is for people who were not here.'",
+   "He laughed. 'You want me to carve a circle of nothing? Go home, little garland girl.'",
+   "My face went hot. I looked at the dust by the wall, where the chips of stone had fallen. I knelt and drew three boxes in it with my finger, side by side. 'Hundreds,' I said, pointing. 'Tens. Ones.' I picked up pebbles. I put two in the hundreds box and seven in the tens box. I left the ones box empty.",
+   "'Two hundred and seventy,' I said. 'The ones box has nothing in it. But it is still there.'",
+   "Then I brushed the empty box away with my palm. I pushed the other two boxes over to the right, into the place where it had been. Now the two pebbles sat in the tens box, and the seven sat in the ones box.",
+   "'Twenty-seven,' I said. 'If you leave out the empty place, the others slide over. That is what your stone says.'",
+   "Bhoja looked at the boxes. He did not laugh this time. 'Twenty-seven hastas,' he said slowly. 'That is from here to that neem tree.'",
+   "'One row of marigolds,' I said. 'Three garlands a day, maybe. The temple needs fifty.'",
+   "Behind us, Devadatta had stopped carving. He came over, bent down with a creak, and looked at the pebbles for a long time. Then he took the finest chisel from his cloth bundle, the one he used for the little marks above the letters, and held it out to Bhoja.",
+   "Bhoja carved the circle after the 7. It was no bigger than a grain of rice. He blew the dust out of it and looked at me. 'Now it says two hundred and seventy,' he said.",
+   "The next day, he asked me to read every number with him before he carved it.",
+   "The garden is planted now. Some mornings I measure it with my uncle's rope, which is ten hastas long. I lay it down along the path, again and again, from the temple steps to the far wall, and I count. Twenty-seven ropes. Twenty-seven tens. Two hundreds, seven tens, and no ones left over. At home I write it on the slate the way my uncle taught me: a 2, a 7, and the small circle that keeps the empty place."
+  ],
+  "epiphany": "The idea is the placeholder zero. The turn comes when Gauri brushes away the empty box in the dust and the 2 and the 7 slide over: an empty place must still be marked, or every other digit moves and the number changes. Gauri, Bhoja and Devadatta are made up. The temple is real: the Chaturbhuj temple in Gwalior Fort has a stone inscription from 876 CE that records a gift of land 270 hastas long for a flower garden, and 50 garlands a day for the temple. The small circle in its 270 is the oldest zero in India whose date everyone agrees on.",
+  "ask": [
+   "Why did Gauri say the stone said twenty-seven?",
+   "Bhoja called the circle 'a circle of nothing'. What did that circle do?",
+   "How did the pebbles in the dust help Bhoja see what was wrong?",
+   "Why do you think Bhoja did not listen to Gauri at first? What changed his mind?",
+   "Gauri counted twenty-seven ropes of ten hastas. How long is the garden?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Zero is a number, and it also holds empty places.",
+   "more": "Zero is the number of beans on an empty plate. In 205, the 0 holds the empty tens place. Take it away in the katori abacus and the 2 slides over, so the number becomes 25."
+  },
+  {
+   "idea": "Dividing by zero has no answer.",
+   "more": "12 ÷ 4 asks how many groups of 4 make 12. With groups of 0, no number of groups ever makes 12, and the heap of beans never gets smaller. So mathematicians call it undefined."
+  },
+  {
+   "idea": "There is no biggest number, so infinity is not a number.",
+   "more": "Whatever number anyone says, you can add 1. A googol is huge, but a googol plus one is bigger. Infinity is the idea of going on without end."
+  },
+  {
+   "idea": "Endlessly many pieces can add up to something that ends.",
+   "more": "Walking half the gap again and again never takes you past the wall, and shading half of what is left fills exactly one square. Madhava used endless lists like this to find pi exactly."
+  }
+ ],
+ "unknowns": [
+  "Does space go on for ever, or does it curve round and close up like the skin of a ball? Scientists have measured that space is very nearly flat, but they cannot yet tell which is true.",
+  "Is anywhere truly empty? Even the emptiest space between the stars has a few atoms, and light passes through it. Nobody has found a perfect nothing.",
+  "When was zero first written down? The Bakhshali manuscript may hold a zero from about 1,700 years ago, but historians still argue about its age.",
+  "Did time have a beginning, a zero moment? Most scientists think the universe began growing about 13.8 billion years ago. Nobody knows whether anything came before."
+ ],
+ "books": [
+  {
+   "title": "Infinity and Me",
+   "author": "Kate Hosford",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A girl looks at the night sky and asks people around her what infinity means. Read it after Day 5."
+  },
+  {
+   "title": "Zero Is the Leaves on the Tree",
+   "author": "Betsy Franco",
+   "for": "read together",
+   "age": "4–7",
+   "why": "Short pictures of zero in everyday life: an empty swing, a bare tree. Good after the zero hunt on Day 1, and for a younger sibling."
+  },
+  {
+   "title": "How Much Is a Million?",
+   "author": "David M. Schwartz",
+   "for": "read together",
+   "age": "6–9",
+   "why": "Pictures that show how huge a million and a billion are, which helps on Day 5 when you talk about a googol."
+  },
+  {
+   "title": "Zero: The Biography of a Dangerous Idea",
+   "author": "Charles Seife",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "The history of zero and infinity, from Babylon to India to Europe. Read the chapters on India and on dividing by zero before Day 3."
+  }
+ ],
+ "check": [
+  {
+   "q": "What does zero mean? Show it with a plate.",
+   "a": "Zero means none. It is the number of things on an empty plate."
+  },
+  {
+   "q": "Why does the 0 in 205 matter, if it means none?",
+   "a": "It holds the empty tens place. Without it, the 2 slides over and the number becomes 25."
+  },
+  {
+   "q": "What are Brahmagupta's three rules for zero?",
+   "a": "A number plus zero is the same number. A number minus zero is the same number. A number times zero is zero."
+  },
+  {
+   "q": "Why can't you divide 12 by 0?",
+   "a": "Dividing asks how many groups make 12. Groups of 0 never make 12, however many you have, so there is no answer. It is undefined."
+  },
+  {
+   "q": "Was the 'empty' glass really empty? How do you know?",
+   "a": "No. It was full of air. The tissue stayed dry when we pushed the glass straight down, and air came out as bubbles when we tilted it."
+  },
+  {
+   "q": "Is there a biggest number? Is infinity a number?",
+   "a": "No, because you can always add 1. Infinity is not a number. It means going on without end."
+  },
+  {
+   "q": "When you walked half the gap again and again, why did you never pass the wall?",
+   "a": "Each step was half of what was left, so the steps got smaller and smaller. Even endlessly many of them add up to no more than the first gap."
+  }
+ ]
+}

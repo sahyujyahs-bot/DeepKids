@@ -1,0 +1,1414 @@
+{
+ "key": "combined|sci|3|patterns-and-symmetry",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "patterns-and-symmetry",
+ "title": "Patterns and symmetry: flip it, turn it, slide it",
+ "source": "DeepKids Combined rung, built on the DeepKids founder's notebook on symmetry. No board teaches this topic on its own at Class 3. It supports line symmetry in maths and animal bodies, crystals and pendulums in science. No textbook needed.",
+ "summary": "A mirror can finish half a butterfly, but it cannot finish a pinwheel. Your child finds three kinds of symmetry: flipping (reflection), turning (rotation) and sliding (translation). They cut fruit across to find turning patterns, test which shapes tile a floor, see bubbles pack into hexagons like a honeycomb, and grow salt crystals. They find out why an ant has two matching sides and a starfish has five arms, and why no face is exactly the same on both sides. Last, a swinging key shows that nature's rules are the same in every room and on every day.",
+ "builds_on": "In Class 1 your child found that a butterfly, a face and a folded paper heart are the same on both sides. This rung names three kinds of symmetry, counts lines and turns, and finds symmetry in bodies, crystals, honeycombs and the rules of nature. In Class 4 and 5, symmetry comes back in maths (angles and shapes) and in physics, where broken symmetry and Emmy Noether's ideas go further.",
+ "subconcepts": [
+  "line symmetry and the line of symmetry",
+  "shapes with more than one line of symmetry",
+  "rotational symmetry and its order",
+  "a turning pattern is not a flipped pattern",
+  "translation: patterns that repeat by sliding",
+  "a pattern is a rule that lets you predict the next part",
+  "two-sided (bilateral) bodies in animals that move forward",
+  "radial bodies in starfish, jellyfish and many flowers",
+  "no living body is exactly symmetrical",
+  "leaves placed in turning patterns and spirals in plants",
+  "tessellation: shapes that tile with no gaps",
+  "why honeycomb cells are hexagons",
+  "crystals: atoms in repeating patterns",
+  "patterns in time: swings and rhythms",
+  "symmetry in nature's rules: the same in every place and at every time"
+ ],
+ "goals": [
+  "By the end your child can find lines of symmetry by folding, and say how many a square, a rectangle and a circle have.",
+  "By the end your child can find the order of rotational symmetry of a shape by turning it, and tell a turning pattern from a flipped one.",
+  "By the end your child can make a sliding (translation) pattern and say what comes next in a repeating pattern.",
+  "By the end your child can explain why most animals have two matching sides, while starfish and jellyfish are arranged around a middle.",
+  "By the end your child can say which shapes tessellate, why bees build hexagons, and that crystals are atoms in a repeating pattern.",
+  "By the end your child can show that a pendulum swings the same way in any room and on any day, and say what Emmy Noether found."
+ ],
+ "words": [
+  [
+   "pattern",
+   "something that repeats by a rule, so you can guess what comes next"
+  ],
+  [
+   "symmetry",
+   "when you can flip, turn or slide something and it looks the same as before"
+  ],
+  [
+   "line of symmetry",
+   "a line that cuts a shape into two halves that match like mirror images. If you fold along it, the halves fit exactly."
+  ],
+  [
+   "reflection",
+   "a flip, like the picture in a mirror. Left and right swap over."
+  ],
+  [
+   "rotational symmetry",
+   "when a shape looks the same after you turn it part of the way round"
+  ],
+  [
+   "order of rotational symmetry",
+   "how many times a shape looks the same during one full turn. A square has order 4."
+  ],
+  [
+   "translation",
+   "a slide. The shape moves along without turning or flipping."
+  ],
+  [
+   "tessellation",
+   "shapes that fit together with no gaps and no overlaps, like floor tiles"
+  ],
+  [
+   "hexagon",
+   "a flat shape with six straight sides"
+  ],
+  [
+   "bilateral symmetry",
+   "a body with a left side and a right side that match, like an ant or a person"
+  ],
+  [
+   "radial symmetry",
+   "a body arranged around a middle, like the arms of a starfish"
+  ],
+  [
+   "crystal",
+   "a solid whose atoms sit in a pattern that repeats, like salt or ice"
+  ]
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "Same on both sides",
+   "goal": "Hear the story, then find lines of symmetry by folding paper shapes.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the butterfly",
+     "mins": 5,
+     "do": "Say: 'In Class 1 you folded a paper heart and looked at a butterfly. What did you find?' Good answer: 'The two sides were the same.' Ask: 'Is your face the same on both sides?' Let your child answer. Don't correct them. You will test it on Day 3."
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Peacocks Who Walked in a Circle",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask one question: 'Why was the mirror wrong for the peacocks?' Write your child's answer on the first page of a notebook called 'Pattern book'. You will come back to it tomorrow."
+    },
+    {
+     "kind": "exp",
+     "title": "The fold test",
+     "mins": 15,
+     "ref": "e1",
+     "do": "Do Experiment e1. Before each fold, your child guesses how many lines of symmetry the shape has. Say: 'A line of symmetry cuts a shape into two halves that match. Fold along it, and the halves fit exactly.' Ask: 'Did the rectangle fold along its corner-to-corner line?' (No. The corners stick out.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Mirror letters",
+     "mins": 8,
+     "do": "Write A, H, S and M large in the Pattern book. Your child stands a small mirror on each letter to look for lines of symmetry. Say: 'A mirror shows a reflection. A reflection is a flip: left and right swap over.' Ask: 'Which letter has two lines?' (H.) 'Which has none?' (S.)"
+    }
+   ],
+   "need": [
+    "a small mirror",
+    "three sheets of paper",
+    "a steel katori to draw round",
+    "scissors",
+    "a pencil",
+    "a notebook for the Pattern book"
+   ],
+   "prep": [
+    {
+     "task": "Cut a square, a long rectangle, a circle (draw round a katori) and a paper heart for the fold test",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Turn it and it fits",
+   "goal": "Find rotational symmetry in a fan, in fruit cut across, and in a plant's leaves. Start growing salt crystals.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to the peacocks",
+     "mins": 3,
+     "do": "Ask: 'In the story, how did Meenakshi find the missing pattern?' Good answer: 'She traced a good quarter and turned it a quarter turn.' Say: 'Today we find patterns that fit when you turn them.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The fan and the plate",
+     "mins": 7,
+     "do": "Switch the ceiling fan off and wait until it stops. Ask: 'If I turned the fan a little, would it look the same?' Count the blades together. Say: 'A fan with three blades looks the same three times in one full turn. This is rotational symmetry. We say it has order 3.' Ask: 'What about a round steel plate?' Good answer: 'It looks the same at every turn.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Fruit cut across",
+     "mins": 15,
+     "ref": "e2",
+     "do": "Do Experiment e2 with a grown-up doing the cutting. Your child guesses the order for each slice first. Ask: 'Which slice has order 5?' (The apple, and usually the bhindi.) Say: 'The seeds sit in parts arranged around the middle. That is why the slice turns and fits.'"
+    },
+    {
+     "kind": "talk",
+     "title": "A plant that turns its leaves",
+     "mins": 7,
+     "do": "Look down at the top of a tulsi plant, or any potted plant, from above. Say: 'Tulsi grows its leaves in pairs. Each new pair is turned a quarter turn from the pair below.' Ask: 'Why might that help the lower leaves?' Good answer: 'They are not hidden under the leaves above, so they get more light.' Say: 'In a sunflower, the seeds sit in spirals that turn out from the middle. Many plants grow in turning patterns.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Start the salt crystals",
+     "mins": 8,
+     "ref": "e3",
+     "do": "Start Experiment e3. Your child stirs in salt one spoon at a time. Ask: 'What will be left when the water dries up?' Write the guess in the Pattern book. Put the plate where nobody will move it."
+    }
+   ],
+   "need": [
+    "an apple, a bhindi, a small cucumber and a banana",
+    "a knife and a board (for the grown-up)",
+    "a steel plate",
+    "a potted plant, tulsi if you have one",
+    "salt, warm water, a tumbler, a spoon and a flat plate (for Experiment e3)"
+   ],
+   "prep": []
+  },
+  {
+   "n": 3,
+   "title": "Bodies: two sides or all around",
+   "goal": "Find out why most animals have two matching sides, and test whether a face is really symmetrical.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the salt plate",
+     "mins": 3,
+     "do": "Look at the salt plate without touching it. Ask: 'Has anything changed?' There may be a thin crust at the edges. Say: 'We will look closely when the water is gone.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Ants, crows and starfish",
+     "mins": 10,
+     "do": "Watch an ant on the floor, or show a picture. Ask: 'How many legs on each side?' (Three.) Say: 'An ant has bilateral symmetry. Its left side and right side match.' Ask: 'Which end of the ant goes first?' (The head.) Say: 'An animal that moves forward meets new things head first. So its eyes and mouth are at the front, and two matching sides help it go straight.' Show a picture of a starfish. Say: 'A starfish has no front. It can move in any direction and meets food from every side. Its body is arranged around a middle. This is radial symmetry.' Say: 'A baby starfish swims, and it has two matching sides. It grows its five arms later.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Two left halves",
+     "mins": 12,
+     "ref": "e4",
+     "do": "Do Experiment e4. Before you start, ask: 'If we make a face from two left halves, will it look like you?' After, ask: 'Do your two sides match exactly?' Say: 'Everybody's face is a little different on its two sides. Inside, you are even less symmetrical. Your heart sits a little to the left, and your liver is on the right.'"
+    },
+    {
+     "kind": "act",
+     "title": "The mirror game",
+     "mins": 10,
+     "ref": "a1",
+     "do": "Do Activity a1. Ask after: 'When you lifted your right hand, which hand did your mirror lift?' (The left.) Then both of you stand in tree pose: one foot pressed on the other leg, hands together over your head. Ask: 'Is tree pose symmetrical? Is it easier on one leg?'"
+    },
+    {
+     "kind": "think",
+     "title": "Why are flowers symmetrical?",
+     "mins": 5,
+     "do": "Show a hibiscus flower or a picture. Ask: 'How many lines of symmetry does it have?' (Five, through each petal.) Say: 'Experiments show honeybees can learn to tell symmetrical patterns from patterns that are not.' Ask: 'Who might a flower's pattern be for?' Good answer: 'For the bees that visit it.'"
+    }
+   ],
+   "need": [
+    "a phone with a camera",
+    "a small mirror",
+    "a hibiscus flower or a picture of one",
+    "a picture of a starfish"
+   ],
+   "prep": []
+  },
+  {
+   "n": 4,
+   "title": "Slide and repeat",
+   "goal": "Make a sliding pattern with a bhindi stamp and draw a kolam with turning symmetry.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What comes next?",
+     "mins": 4,
+     "do": "Clap and tap: clap, clap, tap, clap, clap, tap. Stop. Ask: 'What comes next?' (Clap.) Say: 'A pattern is a rule that repeats. If you know the rule, you can guess the next part.' Ask your child to make a pattern for you to finish."
+    },
+    {
+     "kind": "talk",
+     "title": "Patterns that slide",
+     "mins": 6,
+     "do": "Look at a saree border, a window grill or the edge of a bedsheet. Say: 'The same shape comes again and again along a line. Each copy has slid along, without turning or flipping. A slide is called a translation.' Ask: 'Where else in our home do you see a shape slide along?' Good answers: tiles, a railing, a necklace."
+    },
+    {
+     "kind": "act",
+     "title": "Bhindi stamp border",
+     "mins": 15,
+     "ref": "a2",
+     "do": "Do Activity a2. First your child prints a row where every print slides along. Then a second row where every other print is flipped. Ask: 'Which row is a translation? Which uses reflection too?'"
+    },
+    {
+     "kind": "act",
+     "title": "A dot kolam",
+     "mins": 15,
+     "ref": "a3",
+     "do": "Do Activity a3. Before your child draws, ask: 'Will your kolam look the same when you turn the paper?' After, they test it by turning the paper a quarter turn at a time. Say: 'Many women draw kolams like this at the door every morning, from memory. They are doing mathematics.'"
+    }
+   ],
+   "need": [
+    "two bhindis",
+    "poster paint or ink, and a saucer",
+    "a long strip of paper",
+    "a sheet of paper, a pencil, and a white or coloured pen"
+   ],
+   "prep": []
+  },
+  {
+   "n": 5,
+   "title": "Shapes that fit together",
+   "goal": "Test which shapes tile with no gaps, see bubbles pack into hexagons, and hear the honeycomb debate.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Floor tiles",
+     "mins": 3,
+     "do": "Look at a tiled floor or wall at home. Ask: 'What shape are the tiles? Are there any gaps between them?' Say: 'Shapes that fit with no gaps and no overlaps make a tessellation.'"
+    },
+    {
+     "kind": "act",
+     "title": "Which shapes tile?",
+     "mins": 12,
+     "ref": "a4",
+     "do": "Do Activity a4. Before you start, ask: 'Which of these shapes will fit together with no gaps?' After, ask: 'Which ones worked?' (Squares, triangles and hexagons.) 'Which did not?' (Circles and pentagons.)"
+    },
+    {
+     "kind": "exp",
+     "title": "A raft of bubbles",
+     "mins": 12,
+     "ref": "e5",
+     "do": "Do Experiment e5. Ask first: 'What shape will bubbles make when they squash together?' After, ask your child to count the neighbours of one bubble in the middle. Say: 'Many bubbles in the middle touch six others. Their walls make six-sided shapes, called hexagons.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why do bees build hexagons?",
+     "mins": 8,
+     "ref": "v3",
+     "do": "Show a picture of a honeycomb. Say: 'Bees make wax inside their bodies, and it takes a lot of honey to make it. Hexagon cells hold the most honey for the least wax.' Then tell the honeycomb debate (Voice v3). Ask: 'Do the bees shape the hexagons, or does the warm wax pull itself into shape? How could you find out?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Salt plate check",
+     "mins": 5,
+     "ref": "e3",
+     "do": "Look at the salt plate. Ask: 'Is the water gone yet? Can you see any shapes?' If there is still water, leave it until Day 6. If it is dry, cover it with a sieve so dust does not fall on it."
+    }
+   ],
+   "need": [
+    "a page of shapes to cut out (see Activity a4)",
+    "scissors",
+    "a steel plate, dish-washing liquid, water and a straw",
+    "a picture of a honeycomb"
+   ],
+   "prep": [
+    {
+     "task": "Draw and cut the shapes for Activity a4, or let your child cut them on the day",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Crystals: patterns of atoms",
+   "goal": "Look at the salt crystals, cut a six-armed snowflake, and hear how a 'forbidden' crystal was found.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Look at the crystals",
+     "mins": 10,
+     "ref": "e3",
+     "do": "Finish Experiment e3. Look at the plate with a magnifying glass, or zoom in with a phone camera. Ask: 'What shapes can you see?' Good answer: 'Little squares and boxes.' Say: 'Salt is made of tiny particles called atoms. They stack in a pattern that repeats, like boxes in a godown. That is why salt crystals are cubes. A solid with a repeating pattern of atoms is called a crystal.'"
+    },
+    {
+     "kind": "act",
+     "title": "A six-armed snowflake",
+     "mins": 12,
+     "ref": "a5",
+     "do": "Show a photo of a snowflake. Ask: 'How many arms does it have?' (Six.) Say: 'Snow is ice. In ice, the water particles join in rings of six. So every snowflake has six arms.' Do Activity a5. Ask: 'Why do all six arms match?' Good answer: 'They grew in the same air at the same time.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The crystal that should not exist",
+     "mins": 8,
+     "ref": "v2",
+     "do": "Tell the story of Dan Shechtman (Voice v2). Ask: 'Everybody said he had made a mistake. What made them change their minds?' Good answer: 'Other scientists made the same metal and saw the same pattern.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "ref": "ws1",
+     "do": "Your child does Worksheet ws1. Let them use a mirror and paper to fold or turn shapes while they work. Talk through the two writing questions before they write."
+    }
+   ],
+   "need": [
+    "the salt plate",
+    "a magnifying glass or a phone camera",
+    "a photo of a snowflake",
+    "a sheet of thin paper, a katori to draw round, and scissors",
+    "Worksheet ws1"
+   ],
+   "prep": []
+  },
+  {
+   "n": 7,
+   "title": "Rules that stay the same",
+   "goal": "Find a pattern in time with a swinging key, test it in two rooms, and meet Emmy Noether.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "A mirror rhythm",
+     "mins": 5,
+     "do": "Clap a rhythm: one slow clap, two quick claps. Then play it backwards: two quick, one slow. Say: 'Together that is a mirror in time. It sounds the same played backwards.' Ask: 'What other patterns repeat in time?' Good answers: day and night, your heartbeat, a swing."
+    },
+    {
+     "kind": "exp",
+     "title": "The swinging key",
+     "mins": 17,
+     "ref": "e6",
+     "do": "Do Experiment e6. Ask before moving rooms: 'Will the key swing more times in the bedroom, fewer, or the same?' After, ask: 'What changed the count, and what did not?' Good answer: 'The room did not change it. A shorter thread did.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Emmy Noether",
+     "mins": 8,
+     "ref": "v1",
+     "do": "Say: 'The swing followed the same rule in both rooms. Scientists call this a symmetry too: you can move the test, and the result stays the same.' Tell the story of Emmy Noether (Voice v1). Ask: 'She was not allowed to be paid for years. Why do you think she kept working?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 10,
+     "ref": "ws2",
+     "do": "Your child does Worksheet ws2. Keep paper, scissors and the mirror nearby for testing. For the writing questions, ask your child to say the answer aloud first."
+    }
+   ],
+   "need": [
+    "a door key or a small steel spoon",
+    "about 60 cm of thread",
+    "sticky tape and a ruler",
+    "a phone timer",
+    "Worksheet ws2"
+   ],
+   "prep": []
+  },
+  {
+   "n": 8,
+   "title": "Test it again, and design a tile",
+   "goal": "Repeat the swing test on a new day, play the card game, and start designing a floor tile.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The swinging key, one day later",
+     "mins": 6,
+     "ref": "e6",
+     "do": "Do the 50 cm swing test from Experiment e6 once more, three times. Ask: 'Is today's count the same as yesterday's?' It should be within one swing. Say: 'The rule did not change from one day to the next. Emmy Noether showed that because the rules stay the same over time, energy is never made or lost. It only passes from one thing to another.'"
+    },
+    {
+     "kind": "game",
+     "title": "Flip, Turn or Slide?",
+     "mins": 12,
+     "ref": "g1",
+     "do": "Play the card game g1. Keep a mirror and some paper on the table to settle arguments. If your child gets a card wrong, test it with paper before moving on."
+    },
+    {
+     "kind": "do",
+     "title": "Design a floor tile",
+     "mins": 22,
+     "do": "Start the project, Design a Floor Tile. Your child draws a square tile with four lines of symmetry and makes at least four copies by tracing. Ask while they draw: 'Will your tile look the same after a quarter turn? How can you check?'"
+    }
+   ],
+   "need": [
+    "the key on its 50 cm thread, tape and a phone timer",
+    "the printed cards for game g1",
+    "square sheets of paper, a pencil, colours and a ruler"
+   ],
+   "prep": [
+    {
+     "task": "Print and cut out the cards for game g1",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "A floor of tiles, and teach it back",
+   "goal": "Finish the tile floor, do the challenge worksheet, and teach the topic back.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Lay the floor",
+     "mins": 10,
+     "do": "Your child finishes colouring the tiles and lays them side by side on a big sheet. Ask: 'Where do you see reflection, rotation and translation in your floor?' Good answer: 'Each tile has lines of symmetry. It fits after a quarter turn. The tiles slide along in rows.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "ref": "ws3",
+     "do": "Your child does Worksheet ws3. Talk through the 'What do you think?' questions together before they write."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 12,
+     "do": "Ask the check questions aloud, one at a time. If an answer is missing, do the matching test again for a minute: fold a shape, turn a slice, or look at the salt."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 8,
+     "do": "Your child is the teacher. Using the tile floor, a mirror and the Pattern book, they teach a grown-up about flip, turn and slide. Ask them as the student: 'Why couldn't Meenakshi use the mirror for the peacocks?' and 'Why does an ant have two matching sides?'"
+    }
+   ],
+   "need": [
+    "the tiles from Day 8",
+    "a large sheet of paper and glue",
+    "Worksheet ws3",
+    "a mirror"
+   ],
+   "prep": []
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Flip, turn and slide",
+   "day": 6,
+   "sections": [
+    [
+     "A. Lines of symmetry",
+     [
+      {
+       "t": "mcq",
+       "p": "How many lines of symmetry does a square have?",
+       "opts": [
+        "1",
+        "2",
+        "4"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "Riya folds a long rectangle of paper from one corner to the opposite corner. Do the two halves match?",
+       "opts": [
+        "Yes, exactly.",
+        "No, the corners stick out."
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort these capital letters.",
+       "items": [
+        "A",
+        "H",
+        "S",
+        "M",
+        "N",
+        "T",
+        "Z",
+        "U"
+       ],
+       "cats": [
+        "has a line of symmetry",
+        "has no line of symmetry"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "A line that cuts a shape into two matching halves is called a line of ____.",
+       "a": [
+        "symmetry"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Turning and sliding",
+     [
+      {
+       "t": "mcq",
+       "p": "A ceiling fan has three blades. What is its order of rotational symmetry?",
+       "opts": [
+        "1",
+        "3",
+        "6"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun cuts an apple across its middle. The seeds make a star. How many points does the star have?",
+       "opts": [
+        "3",
+        "4",
+        "5"
+       ],
+       "a": 2
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "reflection",
+         "a flip, like in a mirror"
+        ],
+        [
+         "rotation",
+         "a turn around a middle point"
+        ],
+        [
+         "translation",
+         "a slide along a line"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which shape tiles a floor with no gaps?",
+       "opts": [
+        "a circle",
+        "a hexagon",
+        "a five-sided shape with equal sides"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "In the story, the peacocks all walked round the circle in the same direction. Why could a mirror not show the missing quarter?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Your salt crystals were little squares and boxes. What does that tell you about how the tiny particles in salt are arranged?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Symmetry in living things and crystals",
+   "day": 7,
+   "sections": [
+    [
+     "A. Bodies",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these living things by their kind of symmetry.",
+       "items": [
+        "an ant",
+        "a starfish",
+        "a crow",
+        "a jellyfish",
+        "a person",
+        "a hibiscus flower"
+       ],
+       "cats": [
+        "two matching sides (bilateral)",
+        "arranged around a middle (radial)"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why do most animals that move forward have two matching sides?",
+       "opts": [
+        "They meet new things head first, and two matching sides help them go straight.",
+        "Two sides make them look nicer.",
+        "They are too small to have more sides."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A baby starfish swims in the sea. What kind of symmetry does it have?",
+       "opts": [
+        "It has five arms, like its parents.",
+        "It has two matching sides.",
+        "It has no symmetry at all."
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Your heart sits a little to the ____ side of your chest.",
+       "a": [
+        "left"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Patterns in nature",
+     [
+      {
+       "t": "mcq",
+       "p": "Snowflakes have six arms. Why?",
+       "opts": [
+        "In ice, the water particles join in rings of six.",
+        "Wind cuts them into six pieces.",
+        "Clouds are six-sided."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Bees build hexagon cells. What do hexagons save?",
+       "opts": [
+        "wax",
+        "water",
+        "time to sleep"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Tulsi leaves grow in pairs. Each new pair is turned a quarter turn from the pair below. How does this help the plant?",
+       "opts": [
+        "The lower leaves get more light.",
+        "The plant grows faster at night.",
+        "The leaves stop insects."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A solid whose atoms sit in a repeating pattern is called a ____.",
+       "a": [
+        "crystal"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Kabir says his face is perfectly symmetrical. How could he test this with a phone and a mirror?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Circles do not tile a floor. Explain why, and say which shape bees use instead.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Puzzles and big questions",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "The letter H looks the same after a half turn. What is its order of rotational symmetry?",
+       "opts": [
+        "1",
+        "2",
+        "4"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "The letter S has no line of symmetry. Does it look the same after a half turn?",
+       "opts": [
+        "Yes",
+        "No"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A shape has 6 lines of symmetry and order 6. What could it be?",
+       "opts": [
+        "a regular hexagon",
+        "a rectangle",
+        "the letter A"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Clap, tap, tap, clap, tap, tap, clap, tap, ____.",
+       "a": [
+        "tap"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each thing to the kind of symmetry it shows best.",
+       "pairs": [
+        [
+         "a butterfly",
+         "reflection"
+        ],
+        [
+         "a three-blade fan",
+         "rotation"
+        ],
+        [
+         "a saree border",
+         "translation"
+        ],
+        [
+         "salt crystals",
+         "a repeating pattern of atoms"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. The rules of nature",
+     [
+      {
+       "t": "mcq",
+       "p": "Priya's key on a 50 cm thread swings 21 times in 30 seconds in the kitchen. She tests it in the bedroom. What will she most likely count?",
+       "opts": [
+        "about 21",
+        "about 10",
+        "about 40"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Priya cuts the thread to 25 cm. What happens to the number of swings in 30 seconds?",
+       "opts": [
+        "It goes up.",
+        "It goes down.",
+        "It stays the same."
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "The swing got smaller and smaller and then stopped. Emmy Noether's rule says energy is never lost. Where do you think the swing's energy went?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. What do you think?",
+     [
+      {
+       "t": "write",
+       "p": "Some scientists say bees shape the hexagons themselves. Others say the warm wax pulls itself into shape. What would you need to see to decide?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Most people find symmetrical faces and patterns beautiful. Why do you think that is? Is a little difference beautiful too?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The fold test: how many lines of symmetry?",
+   "day": 1,
+   "question": "How many lines of symmetry do a square, a rectangle, a circle and a heart have?",
+   "need": [
+    "a paper square (fold the corner of an A4 sheet down to the opposite edge and cut off the extra strip)",
+    "a long paper rectangle",
+    "a paper circle (draw round a katori and cut it out)",
+    "a paper heart (fold a sheet, draw half a heart on the fold and cut)",
+    "a pencil"
+   ],
+   "steps": [
+    "Put the four shapes on the table.",
+    "Your child guesses how many lines of symmetry each one has, and writes the guesses in the Pattern book.",
+    "Fold each shape in every way you can think of: across, down and corner to corner.",
+    "If the two halves fit exactly, open it and draw a pencil line on the fold.",
+    "Count the lines on each shape and compare them with the guesses."
+   ],
+   "predict": "Ask your child to guess first: 'Which shape has the most lines of symmetry? Will the rectangle fold from corner to corner? Why do you think so?'",
+   "observe": "The square has 4 lines: across, down and both corner-to-corner lines. The rectangle has only 2: across and down. Folded corner to corner, its corners stick out. The heart has 1. The circle folds exactly along any line through its middle.",
+   "why": "A line of symmetry cuts a shape into two halves that are mirror images. In a square, all four sides are the same length, so it matches along four lines. A rectangle's sides are not all the same, so a corner-to-corner fold does not fit. A circle is the same all the way round, so it has more lines of symmetry than anyone could count.",
+   "safety": "A grown-up helps with the scissors.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Fruit cut across: turning patterns",
+   "day": 2,
+   "question": "How many times does each slice look the same as you turn it once round?",
+   "need": [
+    "an apple",
+    "a bhindi (ladyfinger)",
+    "a small cucumber",
+    "a banana",
+    "a knife and a chopping board, for the grown-up",
+    "a steel plate"
+   ],
+   "steps": [
+    "The grown-up cuts each fruit straight across its middle, not from top to bottom.",
+    "Put one slice on the plate. Your child looks at it and guesses its order of rotational symmetry.",
+    "Turn the plate slowly once round. Count how many times the pattern looks the same as at the start.",
+    "Do the same for each slice. Draw each slice in the Pattern book and write its order.",
+    "Eat the fruit after."
+   ],
+   "predict": "Ask your child to guess first: 'Which slice will look the same the most times in one full turn? Why do you think so?'",
+   "observe": "The apple's seeds make a five-pointed star: order 5. The bhindi usually has five parts, though some have more. The cucumber's seeds sit in three parts: order 3. Look closely at the banana's middle, and you can see three faint parts. No slice is perfect. Each is only nearly the same at each turn.",
+   "why": "Inside each of these fruits, the seeds grow in parts arranged around the middle. The apple has five parts, and the cucumber and banana have three. So a slice across the middle shows a turning pattern. Living things are never exactly symmetrical, so the parts are a little different in size.",
+   "safety": "Only a grown-up uses the knife.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "Grow salt crystals",
+   "day": 2,
+   "question": "What shape will salt take when it comes out of water?",
+   "need": [
+    "half a cup of warm water (not boiling)",
+    "about 3 level tablespoons of salt (khada namak or sendha namak gives bigger crystals, but table salt works)",
+    "a steel tumbler and a spoon",
+    "a flat plate, dark-coloured if you have one",
+    "a magnifying glass or a phone camera"
+   ],
+   "steps": [
+    "Pour the warm water into the tumbler.",
+    "Stir in salt one spoon at a time until no more dissolves and a little stays at the bottom.",
+    "Pour the clear salty water into the plate, leaving the undissolved salt behind.",
+    "Put the plate in a sunny window or under a fan, where nobody will move it.",
+    "Look each day without touching. When the water has gone (2 to 4 days), look at the crystals with a magnifying glass or a zoomed-in phone camera."
+   ],
+   "predict": "Ask your child to guess first: 'When the water dries, will the salt be a powder, round grains, or something else? Why do you think so?'",
+   "observe": "Small square and box-shaped crystals form, often at the edges first. Some look like hollow, stepped squares. A few grains of salt straight from the packet, zoomed in, are little cubes too.",
+   "why": "Salt is made of two kinds of tiny particles, sodium and chloride. As the water dries, they come out of the water and settle into a pattern that repeats in every direction, like boxes stacked in a godown. That repeating pattern is a cube, so the crystals grow as cubes. A solid with a repeating pattern of particles is called a crystal.",
+   "safety": "A grown-up handles the warm water. Do not taste the crystals after they have been sitting out.",
+   "time": "8 min to set up + 2 to 4 days drying + 10 min to look"
+  },
+  {
+   "id": "e4",
+   "title": "Two left halves: is your face symmetrical?",
+   "day": 3,
+   "question": "Are the two sides of your face exactly the same?",
+   "need": [
+    "a phone with a camera",
+    "a small flat mirror"
+   ],
+   "steps": [
+    "Take a photo of your child looking straight at the camera, face lit evenly, not smiling.",
+    "Open the photo so the face fills the screen.",
+    "Stand the mirror upright on the screen, along the line down the middle of the nose.",
+    "Look into the mirror from one side. You see a face made of two left halves.",
+    "Turn the mirror round and look from the other side. Now you see two right halves.",
+    "Compare the two faces with the real photo."
+   ],
+   "predict": "Ask your child to guess first: 'Will a face made of two left halves look exactly like you? Why do you think so?'",
+   "observe": "The two made-up faces look like two different people, both a little like your child. One may look wider or rounder. The real face is between them.",
+   "why": "Nobody's face is exactly symmetrical. One eye may be a little higher, and the nose may lean slightly to one side. Living bodies grow cell by cell, and tiny differences happen on each side. Inside, the body is even less symmetrical: the heart sits a little to the left and the liver on the right.",
+   "safety": "",
+   "time": "12 min"
+  },
+  {
+   "id": "e5",
+   "title": "A raft of bubbles",
+   "day": 5,
+   "question": "What shape do bubbles make when they squash together?",
+   "need": [
+    "a steel plate with a rim",
+    "1 cup of water",
+    "1 tablespoon of dish-washing liquid",
+    "a drinking straw"
+   ],
+   "steps": [
+    "Pour the water into the plate and stir in the dish-washing liquid gently, without making foam.",
+    "Put the end of the straw just under the surface.",
+    "Blow very gently, so bubbles come out one at a time and are all about the same size.",
+    "Keep going until you have a raft of 30 to 40 bubbles all touching each other.",
+    "Choose a bubble in the middle. Count how many bubbles touch it, and look at the shape of its walls."
+   ],
+   "predict": "Ask your child to guess first: 'When round bubbles squash together, will they stay round? What shape might they make?'",
+   "observe": "Many bubbles in the middle of the raft touch six others. Where they press together, the walls flatten, so each one looks six-sided, like a hexagon. Bubbles of very different sizes make a messier pattern.",
+   "why": "A soap film pulls itself as small as it can. Bubbles of the same size pack most closely when each one touches six others, and their walls then make hexagons. In 1947 the scientist Lawrence Bragg and John Nye used rafts of bubbles like this to show how atoms pack in a metal crystal. Honeycomb cells are hexagons too.",
+   "safety": "Do not drink the soapy water. Blow out through the straw, never suck in.",
+   "time": "12 min"
+  },
+  {
+   "id": "e6",
+   "title": "The swinging key: is the rule the same everywhere?",
+   "day": 7,
+   "question": "Does a swing keep the same beat in a different room, and on a different day?",
+   "need": [
+    "a door key or a small steel spoon",
+    "about 60 cm of thread",
+    "sticky tape",
+    "a ruler",
+    "a phone timer"
+   ],
+   "steps": [
+    "Tie the key to the thread. Measure 50 cm from the key and tape the thread there to the edge of a table, so the key hangs freely.",
+    "Pull the key out to the side, about one hand-width, and let go. Do not push it.",
+    "Start the timer. Count every full swing, out and back, for 30 seconds.",
+    "Do it three times, because one count can be a mistake. Write the counts in the Pattern book.",
+    "Move to another room and do the same three counts.",
+    "Now tape the thread so only 25 cm hangs down. Count again for 30 seconds.",
+    "On Day 8, repeat the 50 cm test."
+   ],
+   "predict": "Ask your child to guess first: 'Will the key swing more times in another room, fewer, or the same? What about with a shorter thread?'",
+   "observe": "With 50 cm of thread, the key swings about 21 times in 30 seconds in every room and on every day. Counts may differ by one. With 25 cm, it swings about 30 times. The swing gets smaller over time, but its beat hardly changes.",
+   "why": "The time a swing takes depends on the length of the thread, not on where or when you test it. Nature's rules are the same in every place and at every moment. Scientists call this a symmetry of the rules. Emmy Noether proved that because the rules stay the same over time, energy is never made or destroyed. The swing slows because its energy passes into the air and the thread as a tiny bit of warmth.",
+   "safety": "Keep the swinging key away from faces and glass.",
+   "time": "17 min + 6 min the next day"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The mirror game",
+   "day": 3,
+   "mins": 10,
+   "need": [
+    "some space to move",
+    "music, if you like"
+   ],
+   "steps": [
+    "Stand facing each other, about an arm's length apart.",
+    "One of you is the person. The other is the mirror.",
+    "The person moves slowly: raise a hand, lean, make a face.",
+    "The mirror copies at the same moment, as a real mirror would. If the person lifts the right hand, the mirror lifts the left.",
+    "Swap after two minutes. Try a slow dance together where nobody can tell who is leading."
+   ],
+   "outcome": "A child who feels that a reflection swaps left and right, and who has danced a line of symmetry between two people."
+  },
+  {
+   "id": "a2",
+   "title": "Bhindi stamp border",
+   "day": 4,
+   "mins": 15,
+   "need": [
+    "two bhindis",
+    "poster paint or ink in a saucer",
+    "a long strip of paper",
+    "old newspaper under it"
+   ],
+   "steps": [
+    "A grown-up cuts one bhindi straight across to make a star stamp. Cut the other along its length to make a long stamp.",
+    "Dip the star stamp in paint and print a row along the strip. Move the same distance each time. This row is a translation.",
+    "With the long stamp, print a second row. Turn the stamp the other way round for every second print. This row uses reflection as well as translation.",
+    "Let it dry. Hang it as a border on a shelf or a door."
+   ],
+   "outcome": "A printed border with one row of pure sliding and one row of sliding and flipping, and a child who can name both."
+  },
+  {
+   "id": "a3",
+   "title": "A dot kolam",
+   "day": 4,
+   "mins": 15,
+   "need": [
+    "a sheet of paper",
+    "a pencil",
+    "a pen or crayon"
+   ],
+   "steps": [
+    "Draw a square grid of dots, 3 rows of 3, with about two fingers' space between dots.",
+    "Draw a loop around the middle dot.",
+    "Draw a curve around each corner dot, joining it to the loops beside it. Do the same at all four corners, the same way each time.",
+    "Keep adding curves, doing the same thing on every side before you move on.",
+    "Turn the paper a quarter turn at a time and check: does it look the same?",
+    "If you have a balcony or doorway, draw it in rice flour or chalk."
+   ],
+   "outcome": "A kolam with four-fold turning symmetry, and a child who knows that many kolams follow mathematical rules."
+  },
+  {
+   "id": "a4",
+   "title": "Which shapes tile?",
+   "day": 5,
+   "mins": 12,
+   "need": [
+    "paper",
+    "scissors",
+    "a pencil",
+    "a coin to draw round"
+   ],
+   "steps": [
+    "Cut out six of each shape, all the same size: squares, triangles with three equal sides, hexagons, circles and five-sided shapes with equal sides. (A grown-up can draw the hexagons and five-sided shapes first.)",
+    "Try to fit each set together on the table with no gaps and no overlaps.",
+    "Sort the shapes into 'tiles' and 'leaves gaps'.",
+    "Draw the best tiling in the Pattern book."
+   ],
+   "outcome": "A child who has found that squares, equal triangles and hexagons tessellate, but circles and equal five-sided shapes do not."
+  },
+  {
+   "id": "a5",
+   "title": "A six-armed paper snowflake",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "a circle of thin paper (draw round a katori)",
+    "scissors",
+    "a pencil"
+   ],
+   "steps": [
+    "Fold the circle in half to make a half-moon.",
+    "Fold the half-moon into three equal parts, like a fan, so it becomes a thin slice.",
+    "Draw small shapes along both edges of the slice and cut them out. Do not cut all the way across.",
+    "Open it carefully. Count the arms and the lines of symmetry.",
+    "Stick it on a dark sheet in the Pattern book."
+   ],
+   "outcome": "A snowflake with six matching arms, made the way ice grows: one cut repeated six times."
+  }
+ ],
+ "project": {
+  "title": "Design a Floor Tile",
+  "days": [
+   8,
+   9
+  ],
+  "steps": [
+   "Cut four or more squares of paper, all the same size, about the size of your palm.",
+   "On one square, draw faint pencil lines across, down and corner to corner. These are the four lines of symmetry you will keep.",
+   "Draw a design in one small triangle between two lines. Copy it into every other triangle, flipping it across each line, so the tile has four lines of symmetry.",
+   "Check it: turn the tile a quarter turn. It should look the same. Check with a mirror on each line too.",
+   "Trace the design onto the other squares and colour them all the same way.",
+   "Lay the tiles side by side in rows on a big sheet, with no gaps, and stick them down.",
+   "Write a label: 'Each tile has 4 lines of symmetry and rotational symmetry of order 4. The tiles slide along in rows.'"
+  ],
+  "outcome": "A small floor that shows all three symmetries at once: reflection in each tile, rotation of each tile, and translation from tile to tile. The child can explain each one."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Flip, Turn or Slide?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out",
+   "a mirror and some paper, to test answers"
+  ],
+  "rules": [
+   "Shuffle the cards and put them in a pile, question side up.",
+   "Take turns. Read the top card aloud.",
+   "Give your answer and one reason. Then turn the card over and read the back.",
+   "If you are right, keep the card. If not, put it at the bottom of the pile.",
+   "If anyone disagrees, test it with paper or the mirror. The test wins.",
+   "When the pile is gone, the player with the most cards wins.",
+   "Playing alone? Try to keep more than 16 cards."
+  ],
+  "cards": [
+   {
+    "front": "A square. How many lines of symmetry?",
+    "back": "4: across, down and both corner-to-corner lines."
+   },
+   {
+    "front": "A long rectangle. How many lines of symmetry?",
+    "back": "2: across and down. Corner to corner does not fit."
+   },
+   {
+    "front": "A circle. How many lines of symmetry?",
+    "back": "More than you can count. Any line through the middle works."
+   },
+   {
+    "front": "The letter H. How many lines of symmetry?",
+    "back": "2: one down the middle and one across."
+   },
+   {
+    "front": "The letter S. How many lines of symmetry?",
+    "back": "None. But it looks the same after a half turn."
+   },
+   {
+    "front": "A three-blade ceiling fan. What is its order of rotational symmetry?",
+    "back": "3. It looks the same three times in one full turn."
+   },
+   {
+    "front": "An apple cut across. What is its order of rotational symmetry?",
+    "back": "5. The seeds make a five-pointed star."
+   },
+   {
+    "front": "A cucumber cut across. What is its order of rotational symmetry?",
+    "back": "3. Its seeds sit in three parts."
+   },
+   {
+    "front": "A butterfly. Flip, turn or slide?",
+    "back": "Flip. Its left wing is a mirror image of its right."
+   },
+   {
+    "front": "A saree border with the same flower again and again. Flip, turn or slide?",
+    "back": "Slide. Each flower is a translation of the last."
+   },
+   {
+    "front": "The peacocks in Meenakshi's floor. Flip, turn or slide?",
+    "back": "Turn. Each quarter is the one before, turned a quarter turn."
+   },
+   {
+    "front": "A kolam that looks the same after each quarter turn. What is its order?",
+    "back": "4."
+   },
+   {
+    "front": "An ant. Bilateral or radial?",
+    "back": "Bilateral. Three legs on each side, and it goes head first."
+   },
+   {
+    "front": "A starfish. Bilateral or radial?",
+    "back": "Radial. Its five arms are arranged around a middle."
+   },
+   {
+    "front": "A baby starfish swimming in the sea. Bilateral or radial?",
+    "back": "Bilateral. It grows its five arms later."
+   },
+   {
+    "front": "Is your face exactly the same on both sides?",
+    "back": "No. Nobody's is. Two left halves make a different face."
+   },
+   {
+    "front": "Will circles tile a floor with no gaps?",
+    "back": "No. Circles always leave gaps between them."
+   },
+   {
+    "front": "Will hexagons tile a floor with no gaps?",
+    "back": "Yes. Bees use them for honeycomb."
+   },
+   {
+    "front": "Why do bees build hexagon cells?",
+    "back": "Hexagons hold the most honey for the least wax."
+   },
+   {
+    "front": "What shape are salt crystals?",
+    "back": "Cubes and squares, because salt's particles stack in a repeating box pattern."
+   },
+   {
+    "front": "How many arms does a snowflake have?",
+    "back": "Six, because in ice the water particles join in rings of six."
+   },
+   {
+    "front": "A key on a thread swings 21 times in 30 seconds in the kitchen. How many in the bedroom?",
+    "back": "About 21. The rule is the same in every room."
+   },
+   {
+    "front": "Shorter thread: more swings or fewer?",
+    "back": "More. A shorter swing takes less time."
+   },
+   {
+    "front": "Who proved that nature's rules staying the same over time means energy is never lost?",
+    "back": "Emmy Noether, in 1915."
+   }
+  ]
+ },
+ "big": [
+  "A mirror shows you flipped, with left and right swapped. Which is the real you: the one you see in the mirror, or the one other people see?",
+  "A salt crystal builds itself into cubes, and nobody tells each particle where to go. How does each one find its place?",
+  "Nature's rules are the same in every room, every city and every day. Why should they be? Nobody knows.",
+  "No face and no leaf is exactly symmetrical. Would a perfectly symmetrical person look more beautiful, or less alive?",
+  "A bee builds hexagons without a ruler, and a woman draws a kolam without a book. Where does their knowledge of shapes come from?"
+ ],
+ "challenge": [
+  {
+   "q": "Many people say 'A butterfly's two wings are exact copies of each other.'",
+   "hint": "They are very close, but not exact. Scientists measure tiny differences between left and right wings, and between the two sides of leaves and faces. A body grows cell by cell, and small differences happen on each side. Ask: can you find a living thing whose two sides match perfectly?"
+  },
+  {
+   "q": "'No two snowflakes are alike.'",
+   "hint": "Nobody can check every snowflake. Large, branched snowflakes grow through so many small changes that physicists think two identical ones are very unlikely. But tiny, simple snow crystals from the same cloud have been found that look the same under a microscope. Ask: what would you need to do to prove the saying true?"
+  },
+  {
+   "q": "'Sunflower spirals always follow the Fibonacci numbers.'",
+   "hint": "The Fibonacci numbers are 1, 1, 2, 3, 5, 8, 13, 21, 34, 55: each is the two before it added together. Count the spirals in a sunflower head and you often get two of these numbers, like 34 and 55. In 2016 scientists in Britain counted spirals on hundreds of sunflowers grown by the public. About four in five fitted the Fibonacci numbers, and the rest did not. Ask: why is it worth checking even a famous rule?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A honeybee worker",
+   "view": "Her problem is to store honey and raise young in a small, dark hive. Bees make wax from their own bodies, and it takes a lot of honey to make it. Hexagon cells pack with no gaps and use the least wax for the space. Ask: what would a bee say is the most useful shape?"
+  },
+  {
+   "who": "A woman who draws a kolam each morning",
+   "view": "In many homes in South India, women draw kolams at the doorway every morning, from memory, around grids of dots. Many kolams have turning symmetry and follow strict rules. Mathematicians and computer scientists have studied these rules. Ask: is someone who draws a kolam doing mathematics, even if nobody calls her a mathematician?"
+  },
+  {
+   "who": "A starfish on a rock",
+   "view": "A starfish has no front and no back. It can move in any direction and find food on any side. Many starfish can grow back a lost arm. Ask: if you had no front, how would you decide which way to go?"
+  },
+  {
+   "who": "The builders of the Taj Mahal",
+   "view": "The Taj Mahal and its garden are nearly perfectly mirror-symmetrical. Inside, Mumtaz Mahal's tomb stone sits in the exact centre. Shah Jahan's tomb stone was added beside it later, and it is the one thing that breaks the symmetry. Ask: does that one difference make the building feel more perfect or less?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Emmy Noether (1882–1935), mathematician, Germany and the United States",
+   "idea": "In 1915 Noether proved a rule that links symmetry to the deepest laws of physics. If nature's rules stay the same over time, energy is never made or destroyed. If they are the same in every place, then motion is never lost either, it only passes from one thing to another. Every symmetry of the rules goes with something that is kept.",
+   "then": "When she began, women in Germany were not allowed to enrol at university, so she sat in on classes for years. At Göttingen, her lectures were listed under a man's name, David Hilbert's, and she was not paid for years. In 1933 the Nazi government dismissed her because she was Jewish. She moved to Bryn Mawr College in the United States and died there two years later.",
+   "now": "Noether's theorem is used across all of modern physics. After she died, Albert Einstein wrote that she was a creative mathematical genius. Many people still have never heard her name.",
+   "status": "accepted",
+   "ask": "Noether's work was listed under a man's name for years. How could people find out today who really did a piece of work long ago?",
+   "day": 7
+  },
+  {
+   "id": "v2",
+   "who": "Dan Shechtman (born 1941), materials scientist, Israel",
+   "idea": "On 8 April 1982, Shechtman cooled a melted mix of aluminium and manganese very fast and looked at it with an electron microscope. The picture had a pattern with ten-fold symmetry. Only an ordered pattern with five-fold symmetry, like a five-pointed star, could make that. A crystal's repeating pattern can never have five-fold symmetry, so this should have been impossible. He wrote 'ten-fold???' in his notebook.",
+   "then": "Many scientists said he had made a mistake, and he was asked to leave his research group. Linus Pauling, a famous chemist, argued against him for years.",
+   "now": "Other laboratories made the same material and saw the same pattern. These solids are called quasicrystals: ordered patterns that never repeat. In 1992 the definition of a crystal was changed to include them, and Shechtman won the Nobel Prize in Chemistry in 2011.",
+   "status": "accepted",
+   "ask": "Shechtman's result broke a rule everybody trusted. When should a scientist trust a new result over an old rule?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Bhushan Karihaloo, engineer at Cardiff University, Wales, and the honeycomb debate",
+   "idea": "In 2013 Karihaloo and his colleagues looked at new honeycomb cells. They said bees first build round cells. The bees' body warmth softens the wax, and where three walls meet, the soft wax pulls itself straight, as soap films do. So the hexagons form by themselves.",
+   "then": "About 1,700 years ago the Greek mathematician Pappus wrote that bees choose the hexagon because it holds the most honey for the least wax. In 1999 the mathematician Thomas Hales proved that a pattern of hexagons divides a flat space into equal cells with the least total wall.",
+   "now": "Other scientists filmed and measured bees at work. They argue that the bees shape the hexagons themselves, using their bodies and jaws, and feel the wall thickness as they build. Both groups agree hexagons use the least wax. They still argue about how the bees make them.",
+   "status": "debated",
+   "ask": "If the wax shapes itself, are the bees still the builders? What would you need to watch to decide?",
+   "day": 5
+  }
+ ],
+ "books": [
+  {
+   "title": "Seeing Symmetry",
+   "author": "Loreen Leedy",
+   "for": "read together",
+   "age": "6–9",
+   "why": "Clear pictures of line and rotational symmetry in letters, shapes, nature and art, with ideas to try at home."
+  },
+  {
+   "title": "Swirl by Swirl: Spirals in Nature",
+   "author": "Joyce Sidman, illustrated by Beth Krommes",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Beautiful pictures of spirals in shells, plants and animals, with notes on why each spiral helps."
+  },
+  {
+   "title": "Snowflake Bentley",
+   "author": "Jacqueline Briggs Martin, illustrated by Mary Azarian",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The true story of Wilson Bentley, a farmer who spent his life photographing snowflakes and showed their six-armed patterns."
+  },
+  {
+   "title": "Why Beauty Is Truth: A History of Symmetry",
+   "author": "Ian Stewart",
+   "for": "parent reads",
+   "age": "adult. Read short parts aloud.",
+   "why": "The story of how symmetry became one of the key ideas of mathematics and physics, including Emmy Noether."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is a line of symmetry? How many does a square have?",
+   "a": "A line that cuts a shape into two matching halves, like mirror images. A square has 4: across, down and both corner-to-corner lines."
+  },
+  {
+   "q": "Why does a rectangle not fold exactly from corner to corner?",
+   "a": "Its sides are not all the same length. When you fold it corner to corner, two corners stick out, so the halves do not match."
+  },
+  {
+   "q": "What is the order of rotational symmetry of a three-blade fan, and why?",
+   "a": "3. During one full turn, it looks the same three times."
+  },
+  {
+   "q": "What is the difference between a reflection, a rotation and a translation?",
+   "a": "A reflection is a flip, like in a mirror. A rotation is a turn around a middle point. A translation is a slide along a line, without turning or flipping."
+  },
+  {
+   "q": "Why do most animals that move forward have two matching sides, while a starfish has five arms?",
+   "a": "An animal that moves forward meets new things head first, so its eyes and mouth are at the front and two matching sides help it go straight. A starfish has no front. It moves in any direction and meets food on every side, so its body is arranged around a middle."
+  },
+  {
+   "q": "Why do bees build hexagon cells?",
+   "a": "Hexagons fit together with no gaps, and they hold the most honey for the least wax. Wax takes a lot of honey to make."
+  },
+  {
+   "q": "Why are salt crystals shaped like cubes?",
+   "a": "Salt's tiny particles stack in a pattern that repeats in every direction, like boxes stacked in a godown. That pattern is a cube."
+  },
+  {
+   "q": "In the story, why couldn't Meenakshi use a mirror to find the missing quarter?",
+   "a": "The peacocks all walked round the circle the same way. A mirror flips them, so they would face each other. The pattern had rotational symmetry, so she had to trace a quarter and turn it."
+  }
+ ],
+ "story": {
+  "title": "The Peacocks Who Walked in a Circle",
+  "text": [
+   "My mother makes floor tiles in Athangudi, a village near Karaikudi in Tamil Nadu. Her workshop smells of wet cement and sand. Every tile begins on a sheet of glass. Amma lays a thin metal frame on the glass, bent into the shape of the pattern. Then she pours coloured cement into each little space in the frame: red in one, yellow in the next, green in another. When she lifts the frame away, the pattern stays behind.",
+   "Next she covers the colours with grey cement and sand. The tiles dry in the shade, and then they soak in tubs of water for days, to grow hard. 'A good tile lasts a hundred years,' Amma says. I used to think she was boasting.",
+   "One morning in the rains, an old man came to the workshop. He walked slowly, with a stick, and his name was Ramanathan. A water pipe had burst under the hall of his family's house in Kanadukathan, and the floor had been dug up to mend it.",
+   "'Four tiles were broken,' he said. 'From the middle of the big circle. My grandfather laid that floor.' He opened a cloth bag on Amma's table. Inside were pieces of red and green tile, some no bigger than my thumbnail. 'My granddaughter is getting married in that hall next month. Can you make them again?'",
+   "Amma turned the pieces over in her hands. 'Do you have the old frames? Or a drawing?'",
+   "Mr Ramanathan shook his head. 'The man who made them died long before you were born.'",
+   "The next day Amma took me with her to the house. The hall was huge and cool, with dark wooden pillars and a ceiling far above us. In the middle of the floor lay a great circle made of sixteen tiles, four rows of four. Green peacocks with long tails walked among red flowers. In one corner of the circle there was a square hole of wet earth, where four tiles had been.",
+   "Amma knelt down beside it. 'The circle is made of four quarters,' she said. 'Each quarter is four tiles. If the quarters are the same, I can copy one of them.' But she frowned, and did not take out her measuring tape.",
+   "I had a little mirror in my school bag. In class we had used mirrors to finish half-pictures of butterflies. I knelt beside the hole and stood the mirror on the line between the hole and the quarter next to it. In the mirror, the good quarter appeared, filling the empty space. It looked as if the floor had never been broken.",
+   "'There, Amma,' I said. 'Copy that.'",
+   "Amma smiled and took out her phone to take a photo. And then I saw something.",
+   "In the mirror, the peacock at the edge was looking straight at the peacock on the real floor. Beak to beak, as if they were about to fight. I looked at the rest of the circle. No peacock looked at another one. Every peacock's beak pointed at the tail of the peacock in front of it. They were all walking round the circle the same way, like children in a game.",
+   "'Amma, the mirror is wrong,' I said.",
+   "She put her phone down and looked. 'Why?'",
+   "'A mirror flips things,' I said slowly. 'Left turns into right. But these peacocks aren't flipped. They're going round. Like the blades of our fan.'",
+   "Amma looked at me for a long moment. Then she took a roll of butter paper out of her bag. She always carries it for tracing. We laid it over a good quarter and traced every line: every feather, every petal, every curl of a tail.",
+   "I held the point of a pencil at the very centre of the circle, through the paper. Amma turned the paper slowly around it, a quarter of a full turn, like a clock's hand going from twelve to three. The tracing lay over the next quarter. Every line fitted. She turned it another quarter. It fitted again. She turned it once more, and the tracing lay over the hole of wet earth, full of peacocks walking the right way.",
+   "Amma breathed out. 'If I had poured them from the mirror,' she said, 'the new peacocks would have walked backwards for a hundred years.'",
+   "She spent a week bending new metal frames, and three weeks pouring, drying and soaking the tiles. When they were laid, Mr Ramanathan came into the hall with his stick. He walked round the edge of the circle, slowly, the same way the peacocks walked. When he reached the new tiles, he stopped.",
+   "'My grandmother walked round this circle with me when I was small,' he said. 'She told me the peacocks were going to a wedding and never got there.' He walked on, past the new peacocks, and all the way round to where he had started.",
+   "At the wedding, the little children ran round and round the circle, chasing the peacocks. Nobody could tell which four tiles were new. I could. The new ones were a little brighter. In a hundred years, they won't be."
+  ],
+  "epiphany": "For the parent: the turn is when Meenakshi sees the peacocks beak to beak in the mirror. A mirror makes a reflection, which flips left and right. But the floor's pattern has rotational symmetry: each quarter is the one before it, turned a quarter turn. So the only way to copy it is to trace a quarter and turn it. Let your child find the difference between flipping and turning on Days 1 and 2 before you name it.",
+  "ask": [
+   "Why did Amma frown and not take out her measuring tape?",
+   "Why did the peacocks in the mirror look as if they were about to fight?",
+   "How did Meenakshi and Amma find the right pattern for the missing quarter?",
+   "What would have happened if Amma had copied the mirror picture?",
+   "Mr Ramanathan stopped at the new tiles. What do you think he was feeling?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Symmetry means you can change something and it stays the same.",
+   "more": "Flip a butterfly and it looks the same: that is reflection. Turn a fan a third of the way round and it looks the same: that is rotation. Slide a saree border along and it looks the same: that is translation. The peacock floor only fits when you turn it, not when you flip it."
+  },
+  {
+   "idea": "A living body's shape matches how it lives.",
+   "more": "An ant goes head first, so it has a front and two matching sides. A starfish meets the world on every side, so its arms are arranged around a middle. A tulsi plant turns each pair of leaves so the lower ones get light. No living thing is exactly symmetrical, as the two-left-halves face test shows."
+  },
+  {
+   "idea": "Repeating patterns of atoms make crystals.",
+   "more": "Salt's tiny particles stack like boxes, so its crystals are cubes. Water particles in ice join in rings of six, so snowflakes have six arms. Bubbles of the same size pack in hexagons, the same shape bees use for honeycomb."
+  },
+  {
+   "idea": "Nature's rules have symmetry too.",
+   "more": "The key swung the same way in every room and on every day. Moving the test in place or in time did not change the rule. Emmy Noether proved that because the rules stay the same over time, energy is never made or lost."
+  }
+ ],
+ "unknowns": [
+  "Nobody knows for sure why most people find symmetrical faces and patterns beautiful. Some scientists think it is because the brain finds them easier to take in. Others think symmetry is a sign of a healthy body. The evidence is mixed.",
+  "Scientists still argue about how bees make hexagon cells: whether the bees shape each wall, or the warm wax pulls itself into shape.",
+  "Nature's rules are the same in every place and at every time, as far as anyone has tested. Nobody knows why the universe works this way."
+ ]
+}

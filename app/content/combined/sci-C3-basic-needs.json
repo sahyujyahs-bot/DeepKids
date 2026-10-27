@@ -1,0 +1,1360 @@
+{
+ "key": "combined|sci|3|basic-needs",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "basic-needs",
+ "title": "Basic needs: air, water, food, clothing and shelter",
+ "source": "DeepKids Combined. Covers NIOS Level A Lesson 7 'Our Basic Needs' (air, water, food, clothing and shelter: why we need them and how to take care of them). No textbook needed.",
+ "summary": "A candle under a glass goes out within a minute, and so would we without air. Your child finds out why we need air, water, food, clothing and shelter, and what each one really does for the body. They test their own breath with limewater, squeeze the water out of a cucumber, wrap ice cubes in wool and cotton, and build roofs that keep out rain. They see how a fish, a camel, a sheep and a snail meet the same needs in their own ways, and they ask what is a need and what is only a want.",
+ "builds_on": "This is the first rung on basic needs. In Classes 1 and 2 your child found the signs of life, such as breathing, eating and growing. This rung asks what a living body needs to keep doing those things, and why. Later rungs on food, digestion, the heart and lungs, and habitats go deeper into each need.",
+ "goals": [
+  "By the end your child can name the five basic needs, say which three we cannot live without at all, and tell a need from a want with a reason.",
+  "By the end your child can explain that the body uses oxygen from air to get energy from food, and show with limewater that breathed-out air carries more carbon dioxide.",
+  "By the end your child can say that more than half of the body is water, give three jobs water does, and name three ways to keep drinking water safe and stop mosquitoes breeding.",
+  "By the end your child can explain, from their own test, that clothes make no heat: wool keeps the body's heat in, and cotton lets sweat dry.",
+  "By the end your child can say what a good shelter must do, and why houses in snowy or rainy places have sloping roofs.",
+  "By the end your child can describe how three other living things meet the same needs in their own way, and discuss whether needs come in a fixed order."
+ ],
+ "words": [
+  [
+   "basic needs",
+   "the things every person needs to live and stay well: air, water, food, clothing and shelter"
+  ],
+  [
+   "want",
+   "something that makes life nicer, but that we can live well without, like a toy or a phone"
+  ],
+  [
+   "oxygen",
+   "the gas in air that our body uses every moment to get energy from food. About one fifth of air is oxygen."
+  ],
+  [
+   "carbon dioxide",
+   "a gas our body makes when it uses food and oxygen. We breathe it out."
+  ],
+  [
+   "lungs",
+   "two soft, spongy organs in the chest that fill with air when we breathe in"
+  ],
+  [
+   "energy",
+   "what the body needs to move, grow, think and keep warm. It comes from food."
+  ],
+  [
+   "ventilation",
+   "fresh air coming into a room and used air going out, through windows, doors and vents"
+  ],
+  [
+   "safe drinking water",
+   "water that is clean enough to drink without making us ill. It is also called potable water."
+  ],
+  [
+   "stagnant water",
+   "water that stays still in one place, like in a flowerpot saucer or a cooler. Mosquitoes lay their eggs in it."
+  ],
+  [
+   "fibre",
+   "a very thin thread. Cloth is made by weaving or knitting fibres of cotton, wool or silk."
+  ],
+  [
+   "shelter",
+   "a home or any place that protects us from sun, rain, cold, wind and animals"
+  ],
+  [
+   "drainage",
+   "pipes and channels that carry used and dirty water away from a house"
+  ]
+ ],
+ "subconcepts": [
+  "the five basic needs: air, water, food, clothing and shelter",
+  "needs and wants",
+  "air contains oxygen, which the body needs every minute",
+  "burning and breathing both use oxygen",
+  "breathed-out air carries carbon dioxide and water vapour",
+  "fresh air in a room: ventilation",
+  "the body is more than half water, and water's jobs in the body",
+  "safe drinking water, and stopping mosquitoes in stagnant water",
+  "food gives energy and the material to grow and mend",
+  "plants make their own food, and almost all our food goes back to plants",
+  "clothes make no heat: still air trapped in wool keeps the body's heat in",
+  "cotton for hot days: it soaks up sweat and lets it dry",
+  "what a shelter must do: sloping roofs, drainage and clean surroundings",
+  "other living things meet the same needs in their own ways: gills, fur, shells and nests",
+  "do needs come in a fixed order? The debate about Maslow's list"
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "What can we not live without?",
+   "goal": "Find the five basic needs from the child's own day, and tell needs from wants.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the signs of life",
+     "mins": 5,
+     "do": "Ask: 'In Class 1 and 2 you found the signs of life. What does every living thing do?' Good answers: it breathes, eats, grows, moves, gets rid of waste, senses and has young. Then ask: 'To breathe, eat and grow, what does a body need to get from outside?' Write every answer down. Don't correct anything yet. Say: 'This week we will test which of these we really need, and why.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The island game",
+     "mins": 10,
+     "do": "Say: 'Imagine you will live on an empty island for one month. You may take only five things. What will you take?' Write the list. For each thing, ask: 'Would you die without it, or would life just be less fun?' If your child is stuck, ask: 'What do you do every minute without thinking?' (Breathe.) Then say: 'Scientists and doctors agree on five basic needs: air, water, food, clothing and shelter. Shelter means a home or any place that protects us.' Write the five in big letters on a sheet and stick it on the wall."
+    },
+    {
+     "kind": "act",
+     "title": "Need or want?",
+     "mins": 12,
+     "ref": "a1",
+     "do": "Do Activity a1. Say: 'A need is something we must have to live and stay well. A want makes life nicer, but we can live well without it.' Your child sorts the slips into two piles and gives a reason for each one. Expect arguments about the fan and the bath. A good answer: 'Nobody dies without a fan, but in a hot city in May it helps us stay well, so it is close to a need.' Praise reasons, not right answers. Then look back at the island list. Ask: 'Which of your five things were needs?'"
+    },
+    {
+     "kind": "think",
+     "title": "Which three first?",
+     "mins": 8,
+     "do": "Ask: 'Which three needs can we not live without at all?' Good answer: air, water and food. Ask: 'Which of them do we need most often?' Let your child guess. Say: 'Without air, a person dies within a few minutes. Without water, a person can live only a few days. Without food, but with water, many weeks.' Ask: 'Why do you think air is needed so much more often?' Accept any guess with a reason. Say: 'We will find out on Day 2 and 3.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Shared or paid for?",
+     "mins": 5,
+     "do": "Point to the five needs on the wall. Ask: 'Which of these do we pay for?' (Food, clothes, a home, often water.) 'Which one is free for everyone?' (Air.) Ask: 'Who owns the air?' Let your child think aloud. There is no single right answer. Write their answer in the notebook to look at again on the last day."
+    }
+   ],
+   "need": [
+    "notebook and pencil",
+    "a big sheet of paper and tape",
+    "15 small paper slips"
+   ],
+   "prep": [
+    {
+     "task": "Write the 15 slips for Activity a1.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Air: what is in it that we need?",
+   "goal": "Count our breaths, see that a flame also needs air, and meet oxygen.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "How often do you breathe?",
+     "mins": 7,
+     "do": "Your child sits still for one minute. Put your hand lightly on their back and count each breath in, while they look at a clock. Good answer: about 15 to 25 breaths in a minute. Then they jump on the spot for one minute and you count again. Ask: 'Why did you breathe faster after jumping?' Accept any reason. Say: 'Your muscles were working hard, so they needed more of something from the air.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Does a flame need air?",
+     "mins": 12,
+     "ref": "e1",
+     "do": "Do Experiment e1 with a grown-up. First ask: 'If we put a glass jar over this burning tea light, what will happen? Why do you think so?' Wait for a guess and a reason. Then test it, three times, timing how long the flame lasts. Ask: 'The open tea light kept burning. Why did the covered one go out?' Good answer: 'It used up something in the air inside the jar.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Meet oxygen",
+     "mins": 8,
+     "do": "Say: 'Air is a mix of gases. About one fifth of it is a gas called oxygen. A flame uses oxygen to burn wax. When the oxygen in the jar runs low, the flame goes out.' Then say: 'Your body uses oxygen too, every moment. It uses it to get energy out of your food, without any flame. That energy keeps you moving, thinking and warm.' Ask: 'So why did you breathe faster after jumping?' Good answer: 'My muscles were using more food and more oxygen.' Ask: 'What would a candle and a child in a closed box both run out of?' (Oxygen.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Other ways to get oxygen",
+     "mins": 8,
+     "do": "Say: 'Every animal has the same problem: getting oxygen inside its body.' Ask: 'How does a fish get oxygen under water?' Then say: 'A little oxygen is dissolved in water. A fish has gills, thin red folds behind its head. Water flows over them, and they take the oxygen out.' Say: 'An earthworm has no lungs. It breathes through its damp skin, so it must stay in damp soil.' Say: 'A mosquito baby lives in water but breathes air. It hangs under the surface and breathes through a tiny tube at its tail end.' Ask: 'Do plants need air too?' Say: 'Yes. Leaves take in air through tiny holes called stomata, and roots need air in the soil.'"
+    },
+    {
+     "kind": "do",
+     "title": "Slow breath",
+     "mins": 5,
+     "do": "Sit together on the floor. Say: 'Breathe in through your nose while I count to four. Hold for a moment. Breathe out slowly while I count to six.' Do this five times. Ask: 'Where did you feel your body move when you breathed in?' Good answer: 'My chest and tummy got bigger, because my lungs were filling with air.'"
+    }
+   ],
+   "need": [
+    "a clock or phone with seconds",
+    "a tea light and matches",
+    "a clear glass jar big enough to cover the tea light",
+    "a steel plate"
+   ],
+   "prep": [
+    {
+     "task": "A grown-up makes the limewater for Day 3 (Experiment e2, step 1) and leaves it covered to settle.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Air: what do we breathe out?",
+   "goal": "Show that breathed-out air carries carbon dioxide and water, and learn why rooms need fresh air.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The milky breath",
+     "mins": 15,
+     "ref": "e2",
+     "do": "Do Experiment e2. First, breathe on a cold steel plate together. Ask: 'What is the mist?' (Water from inside us.) Then ask: 'Is the air we breathe out the same as the air we breathe in? What might be different?' Wait for a guess. Then do the two limewater glasses. Ask: 'Which glass went milky?' Say: 'Limewater turns milky when a gas called carbon dioxide goes through it. Your body makes carbon dioxide when it uses food and oxygen, and you breathe it out.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Who found oxygen?",
+     "mins": 8,
+     "ref": "v1",
+     "do": "Tell the story in Voice v1 in your own words. Say: 'Carl Scheele, a Swedish chemist who ran a chemist's shop, made oxygen first, but his book came out late. Joseph Priestley in England made it a little later and told the world first. Antoine Lavoisier in France gave it its name, and showed that burning and breathing both use it. His wife, Marie-Anne, drew the pictures of his experiments and translated science papers for him.' Ask the question in the voice: 'Who should get the credit?' Let your child decide and give a reason."
+    },
+    {
+     "kind": "act",
+     "title": "Where does fresh air come in?",
+     "mins": 12,
+     "ref": "a3",
+     "do": "Do Activity a3. Say: 'In a closed room, people keep breathing out carbon dioxide and water. Fresh air coming in and used air going out is called ventilation.' Your child holds a thin strip of newspaper at each window and door and watches which way it moves. Ask: 'Where does air come in? Where does it go out? What happens when we close one window?' Ask: 'Why does a kitchen need a window or an exhaust fan?' Good answer: 'Cooking makes smoke and steam, and the fresh air carries them out.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Plants and our breath",
+     "mins": 5,
+     "do": "Ask: 'You breathe out carbon dioxide all day. Why doesn't the air fill up with it?' Accept any guess. Say: 'Green plants take in carbon dioxide. In sunlight, their leaves use it, with water, to make their food. As they do it, they give out oxygen.' Ask: 'So what do you and the tulsi plant give each other?' Good answer: 'I give it carbon dioxide. It gives me oxygen.'"
+    }
+   ],
+   "need": [
+    "the limewater made last night",
+    "two clear glasses",
+    "two straws",
+    "an empty plastic bottle and a little atta dough",
+    "a steel plate kept in the fridge for 10 minutes",
+    "strips of newspaper and tape"
+   ],
+   "prep": [
+    {
+     "task": "Put a steel plate in the fridge for 10 minutes.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Water: why are we so wet inside?",
+   "goal": "See how much water is inside a living thing, learn what water does in the body, and keep drinking water safe.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Squeeze a cucumber",
+     "mins": 10,
+     "ref": "e3",
+     "do": "Do Experiment e3. First ask: 'If we grate this cucumber and squeeze it, how much water will come out? A spoonful? A cupful?' Write the guess. Then grate it, squeeze it through a cloth into a glass, and compare the juice with the dry pulp. Say: 'More than nine tenths of a cucumber is water. It grew from water the plant took up from the soil.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The water inside you",
+     "mins": 10,
+     "do": "Say: 'More than half of your body is water too. It is inside every tiny cell, and blood is mostly water.' Ask: 'What do you think water does inside you?' Then say each job, and ask your child to show it: 'Water carries food and oxygen round the body in your blood.' (Touch the pulse.) 'It makes spit, which helps you swallow.' (Swallow.) 'Sweat cools you when it dries on your skin.' (Blow on a wet hand.) 'Urine carries waste out of your body.' Ask: 'How can you tell if you have drunk enough water?' Good answer: 'My urine is pale yellow. If it is dark, I need to drink.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Thirsty animals and plants",
+     "mins": 5,
+     "do": "Say: 'A camel lives in a hot desert where water is hard to find. It can go many days without drinking, then drink a lot at once. Its hump is a store of fat, not water.' Say: 'Most frogs do not drink with their mouths. They soak up water through their skin.' Ask: 'How does a plant drink?' (Through its roots.) Ask: 'Which of your three needs, air, water or food, does every one of these beings share?' (All three.)"
+    },
+    {
+     "kind": "act",
+     "title": "Mosquito check",
+     "mins": 15,
+     "ref": "a2",
+     "do": "Do Activity a2. Say: 'Water can make us ill if it carries germs. It can also grow mosquitoes. A mosquito lays eggs on still water, and in about a week they become new mosquitoes.' Your child checks every place where water stands still in your home. If you find wrigglers, let your child watch them for a minute, then tip the water out. Ask: 'Why should we empty and scrub coolers and flowerpot saucers once a week?' Good answer: 'So eggs never get a full week to grow into mosquitoes.' Then ask: 'How do we keep our drinking water safe?' Good answers: keep it covered, use a clean ladle, boil or filter it."
+    }
+   ],
+   "need": [
+    "1 cucumber",
+    "a grater and a plate",
+    "a clean thin cotton cloth",
+    "a clear glass",
+    "a torch",
+    "an old toothbrush or scrub"
+   ],
+   "prep": []
+  },
+  {
+   "n": 5,
+   "title": "Food: what does it do for us?",
+   "goal": "Find out that food gives energy and building material, and trace a meal back to plants.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Fuel and bricks",
+     "mins": 8,
+     "do": "Ask: 'You ate breakfast this morning. Where is it now?' Accept any answer. Say: 'Your body breaks food into tiny pieces, and your blood carries them everywhere. Some pieces are used with oxygen to give you energy. Energy is what you need to move, grow, think and stay warm. Other pieces become new parts of you: skin, hair, bone and blood.' Ask: 'Your hair grew a little this week. What is the new hair made from?' Good answer: 'From the food I ate.'"
+    },
+    {
+     "kind": "act",
+     "title": "Back to the plant",
+     "mins": 10,
+     "do": "Take one meal, such as dal, rice and curd. For each food, ask: 'Where did this come from? And before that?' Draw a chain for each: rice, a rice plant, sunlight. Curd, milk, a cow, grass, sunlight. Say: 'Plants make their own food from sunlight, water and carbon dioxide. We cannot. So almost every food goes back to a plant.' Ask: 'Which foods did not come from a living thing?' (Salt and water.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Enough food for everyone?",
+     "mins": 8,
+     "ref": "v2",
+     "do": "Tell the story in Voice v2 in your own words. Say: 'In the 1960s many people in India did not have enough to eat. M. S. Swaminathan, a plant scientist, helped farmers grow new kinds of wheat and rice that gave much more grain.' Then say: 'Growing so much grain used a lot of water and fertiliser. In Punjab, the water under the ground has fallen very low. Swaminathan himself later asked for farming that looks after soil and water.' Ask the question in the voice."
+    },
+    {
+     "kind": "game",
+     "title": "Play Who Meets the Need?",
+     "mins": 14,
+     "ref": "g1",
+     "do": "Play the card game g1 together. Before you start, read three cards aloud: the fish, the camel and the cow. Ask: 'Each of these meets a need in its own way. Which need?' Then play. When a player lays down a family, they say how two of the beings meet that need differently. Keep the cards for Day 8."
+    }
+   ],
+   "need": [
+    "the printed game cards, cut out",
+    "notebook and pencil"
+   ],
+   "prep": [
+    {
+     "task": "Print the game cards for g1 on one A4 sheet and cut them out.",
+     "when": "night before"
+    },
+    {
+     "task": "Freeze a tray of ice cubes for Day 6.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Clothing: does a sweater make heat?",
+   "goal": "Read the story, then test whether wool and cotton make heat, and why cotton suits hot days.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: The Shawl Has No Fire",
+     "mins": 10,
+     "do": "Read the story aloud. Don't explain it. Ask one question only: 'Why was the baby goat still cold inside the warm shawl?' Write down your child's answer. You will look at it again after the test."
+    },
+    {
+     "kind": "exp",
+     "title": "Ice cubes in wool and cotton",
+     "mins": 10,
+     "ref": "e4",
+     "do": "Do Experiment e4. First ask: 'If wool makes heat, which ice cube will melt first: the bare one, the one in a cotton hanky, or the one in a woollen sock? Why?' Write the guess. Set up the three cubes and note the time. Check every 10 minutes while you do the next steps. Usually the bare cube melts first and the sock cube lasts longest. Ask: 'So does wool make heat?' Good answer: 'No. It slows heat down. A sweater keeps my own body heat in.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The sweaty hand",
+     "mins": 10,
+     "ref": "e5",
+     "do": "Do Experiment e5. Ask first: 'On a hot day, which is better, a cotton shirt or a plastic raincoat? Why?' Then put a plastic bag loosely on one hand and a cotton sock on the other for 10 minutes. Ask: 'Which hand feels wet and sticky?' Say: 'Your skin sweats a little all the time. Cotton soaks up sweat and lets air through, so the sweat dries and cools you. Plastic traps it.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Who wore it first?",
+     "mins": 10,
+     "do": "Say: 'Wool, silk and cotton first did a job for the living thing that grew them.' Say: 'A sheep must stay warm through cold winters. Its thick wool traps still air, so its body heat stays in. Wild sheep shed their wool every year. Most farm sheep were bred so their wool keeps growing, so people must cut it for them.' Say: 'A silkworm spins a cocoon of silk to protect itself while it turns into a moth. To get long silk threads, most cocoons are boiled with the young moth inside. Ahimsa silk is made from cocoons the moths have left.' Ask: 'How is a bird's fluffed-up feather coat like your sweater?' (Both trap still air.) Then check the ice cubes and ask again: 'Why was the baby goat cold in the shawl?'"
+    }
+   ],
+   "need": [
+    "3 ice cubes from one tray",
+    "a cotton hanky",
+    "a dry woollen sock",
+    "3 saucers",
+    "a clock",
+    "a thin plastic bag and a cotton sock"
+   ],
+   "prep": []
+  },
+  {
+   "n": 7,
+   "title": "Shelter: what must a home do?",
+   "goal": "Work out what a shelter protects us from, test roof shapes, and start the shelter project.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "What does our home do for us?",
+     "mins": 7,
+     "do": "Walk through your home together. At each part, ask: 'What does this protect us from?' The roof: sun and rain. Walls: wind, cold, heat and animals. Windows: they let in light and fresh air. Drains: they carry dirty water away. Ask: 'Why should the drain outside not be blocked with rubbish?' Good answer: 'Dirty water would stand still, smell and grow mosquitoes and germs.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Flat roof or sloping roof?",
+     "mins": 12,
+     "ref": "e6",
+     "do": "Do Experiment e6. First ask: 'When rain falls, which roof will stay drier underneath, the flat one or the sloping one? Why?' Then sprinkle water on both. Ask: 'Where did the water go on each roof?' Good answer: 'It stood in a puddle on the flat roof and soaked in. It ran off the sloping roof.' Say: 'Houses in snowy places, like Himachal, and in very rainy places, like Kerala, have steep roofs so rain and snow slide off. In dry Rajasthan, many old houses have flat roofs. People sleep on them on hot nights and catch rainwater from them.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Animal homes",
+     "mins": 6,
+     "do": "Say: 'A snail's body is soft and dries out easily, so it carries a hard shell to hide in. A baya weaver bird weaves a nest that hangs from a thin branch, with the door at the bottom, which keeps eggs and chicks hard for snakes to reach. A hermit crab has a soft back, so it lives in an empty sea snail shell, and moves into a bigger one as it grows.' Ask: 'Which of these homes is carried around, which is built, and which is borrowed?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Do needs come in order?",
+     "mins": 7,
+     "ref": "v3",
+     "do": "Tell the story in Voice v3 in your own words. Say: 'A scientist called Abraham Maslow said people first need air, water and food. Only after that do they care about safety, then friends and love, and then about growing into their best selves.' Then say: 'Later, scientists asked people in 123 countries. They found that people everywhere have these needs, but not always in that order.' Ask the question in the voice. Let your child decide."
+    },
+    {
+     "kind": "do",
+     "title": "Start the shelter project",
+     "mins": 8,
+     "do": "Start the project. Your child chooses one place: Ladakh in winter, Kerala in the monsoon, Rajasthan in summer, or your own city. Ask: 'What is the hardest thing about the weather there?' Then they draw a home that protects people from it, and label what each part does. They will build it from a cardboard box on Day 8."
+    }
+   ],
+   "need": [
+    "2 pieces of thin card from a cereal or biscuit box, about 20 cm by 15 cm",
+    "2 steel bowls",
+    "a cup of water",
+    "a tray",
+    "paper and colour pencils"
+   ],
+   "prep": []
+  },
+  {
+   "n": 8,
+   "title": "All five needs, and teach it back",
+   "goal": "Finish the shelter model, do the worksheets, and teach the five needs back.",
+   "steps": [
+    {
+     "kind": "do",
+     "title": "Build and test the shelter",
+     "mins": 10,
+     "do": "Your child builds the shelter from the drawing, using a cardboard box, card, cloth or clay. Test it with 10 sprinkles of water on the roof. Ask: 'Did the inside stay dry? What would you change?' Ask: 'Where does fresh air come in?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 together. Read each question aloud. For the two writing questions, ask your child to say the answer first, then write it."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 8,
+     "ref": "ws2",
+     "do": "Do Section A of Worksheet ws2, about how a fish, a snail and a camel meet their needs. Keep Section B for another day. If your child finds ws2 easy, move straight on to ws3."
+    },
+    {
+     "kind": "think",
+     "title": "A challenge question",
+     "mins": 5,
+     "ref": "ws3",
+     "do": "Read aloud the first question in Section B of Worksheet ws3, about the rule of 3 minutes, 3 days and 3 weeks. Ask: 'What do you think? Why might heat change how long someone can go without water?' Talk about it before writing. Keep the rest of ws3 for another day."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child is the teacher and you are the student. They explain all five needs, using the sheet on the wall. Ask them the check questions as if you didn't know. Then ask: 'On Day 1 you said who owns the air. Do you still think so?' Then ask: 'Which one thing will our family do from now on to take care of a basic need?' Good answers: empty the cooler every week, keep a window open while cooking, keep drinking water covered."
+    }
+   ],
+   "need": [
+    "the shelter drawing",
+    "a cardboard box, card, cloth, glue and tape",
+    "a cup of water",
+    "the printed worksheets"
+   ],
+   "prep": [
+    {
+     "task": "Print Worksheets ws1, ws2 and ws3.",
+     "when": "night before"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Five needs and why",
+   "day": 8,
+   "sections": [
+    [
+     "A. Needs and wants",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these into needs and wants.",
+       "items": [
+        "drinking water",
+        "a video game",
+        "a roof",
+        "rice and dal",
+        "chocolate",
+        "a sweater in winter",
+        "a toy car",
+        "fresh air"
+       ],
+       "cats": [
+        "need",
+        "want"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which three things can nobody live without at all?",
+       "opts": [
+        "air, water and food",
+        "clothes, a house and a phone",
+        "food, toys and a bed"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Is a fan a need or a want? Give a reason.",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Air and water",
+     [
+      {
+       "t": "fill",
+       "p": "The gas in air that our body uses to get energy from food is called ____.",
+       "a": [
+        "oxygen"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Riya puts a glass jar over a burning tea light. The flame goes out. Why?",
+       "opts": [
+        "The flame used up much of the oxygen inside the jar",
+        "The jar was too cold",
+        "The wax ran out"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Arjun blows through a straw into limewater. It turns milky. What is in his breath?",
+       "opts": [
+        "carbon dioxide",
+        "more oxygen than room air",
+        "milk"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each job to the body water that does it.",
+       "pairs": [
+        [
+         "cools the skin",
+         "sweat"
+        ],
+        [
+         "carries waste out",
+         "urine"
+        ],
+        [
+         "carries food round the body",
+         "blood"
+        ],
+        [
+         "helps you swallow",
+         "spit"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why should a cooler be emptied and scrubbed every week?",
+       "opts": [
+        "So mosquito eggs never get time to grow into mosquitoes",
+        "So the water gets colder",
+        "So the cooler looks new"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Clothes and shelter",
+     [
+      {
+       "t": "mcq",
+       "p": "In the ice cube test, which cube lasted longest?",
+       "opts": [
+        "the one in the woollen sock",
+        "the bare one",
+        "they all melted together"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Does a sweater make heat? Use the ice cube test to explain.",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "Why do houses in snowy places have sloping roofs?",
+       "opts": [
+        "So the snow slides off",
+        "So they look taller",
+        "So the house is warmer inside"
+       ],
+       "a": 0
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Same needs, different ways",
+   "day": 8,
+   "sections": [
+    [
+     "A. How do they do it?",
+     [
+      {
+       "t": "match",
+       "p": "Match each living thing to how it gets oxygen.",
+       "pairs": [
+        [
+         "fish",
+         "gills take oxygen out of water"
+        ],
+        [
+         "earthworm",
+         "through its damp skin"
+        ],
+        [
+         "dolphin",
+         "comes up to breathe air"
+        ],
+        [
+         "mosquito baby",
+         "a tiny breathing tube at its tail"
+        ],
+        [
+         "leaf",
+         "tiny holes called stomata"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Is each home carried, built or borrowed?",
+       "items": [
+        "snail's shell",
+        "baya weaver's nest",
+        "hermit crab's shell",
+        "ant's nest",
+        "tortoise's shell",
+        "your house"
+       ],
+       "cats": [
+        "carried",
+        "built",
+        "borrowed"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "What is in a camel's hump?",
+       "opts": [
+        "fat",
+        "water",
+        "air"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Use what you found",
+     [
+      {
+       "t": "mcq",
+       "p": "Meena goes for a run on a hot day. Which shirt will keep her cooler?",
+       "opts": [
+        "a cotton shirt, because it soaks up sweat and lets it dry",
+        "a plastic raincoat, because it keeps the sun off",
+        "a woollen sweater, because it traps air"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Kabir's family cooks with the kitchen window shut. What will happen?",
+       "opts": [
+        "Smoke and steam stay in the room",
+        "The food cooks faster",
+        "Nothing changes"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Plants make their own food from sunlight, water and ____ from the air.",
+       "a": [
+        "carbon dioxide"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Your hair grew a little this week. Where did the new hair come from? Explain.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A family lives in a hot, dry desert. Design a home for them. What would the roof and walls be like, and why?",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking harder about needs",
+   "day": 8,
+   "sections": [
+    [
+     "A. Do needs come in order?",
+     [
+      {
+       "t": "write",
+       "p": "Abraham Maslow said people care about friends only after they have food and safety. Can a hungry person still care about friends or music? Give an example.",
+       "lines": 4
+      },
+      {
+       "t": "mcq",
+       "p": "Scientists asked people in 123 countries about their needs. What did they find?",
+       "opts": [
+        "People everywhere share these needs, but not always in the same order",
+        "Nobody needs friends",
+        "Needs are different in every country"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Who first made oxygen, but told the world late?",
+       "opts": [
+        "Carl Scheele",
+        "Joseph Priestley",
+        "Antoine Lavoisier"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "People say we can live 3 minutes without air, 3 days without water and 3 weeks without food. Some people on hunger strike, who drank water, lived more than 6 weeks. What does this show?",
+       "opts": [
+        "The rule is only a rough guide",
+        "People do not need food",
+        "The rule is exactly right"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "In a hot desert with no shade, a person needs water much sooner than in a cool room. Why? Use what you know about sweat.",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "A blanket is wrapped round a bottle of cold water in a warm room. What happens?",
+       "opts": [
+        "The water stays cold for longer",
+        "The water warms up faster",
+        "The blanket heats the water"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Which of these do people pay for in your city, and which are free?",
+       "items": [
+        "air",
+        "drinking water",
+        "rice",
+        "sunlight",
+        "a home",
+        "rain"
+       ],
+       "cats": [
+        "we pay for it",
+        "it is free"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Air is free for everyone, but drinking water is often bought. Should water be free like air? Give one reason for and one against.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Does a flame need air?",
+   "day": 2,
+   "question": "Will a tea light keep burning under a glass jar?",
+   "need": [
+    "2 tea lights",
+    "matches, used only by a grown-up",
+    "a clear glass jar big enough to cover a tea light",
+    "a steel plate to stand the tea lights on",
+    "a clock with seconds"
+   ],
+   "steps": [
+    "Stand both tea lights on the steel plate, far apart. A grown-up lights them.",
+    "Leave one open. A grown-up gently puts the jar upside down over the other one.",
+    "Count the seconds until the covered flame goes out. The open one keeps burning.",
+    "Lift the jar, let it cool for a minute and wave it in the air to fill it with fresh air.",
+    "Do the test two more times, because one try can be a fluke."
+   ],
+   "predict": "Ask your child to guess first: 'Will the covered tea light keep burning, go out, or burn brighter? Why do you think so?'",
+   "observe": "How many seconds the covered flame lasts each time. It usually gets smaller, then goes out, often within half a minute to a minute. The open tea light keeps burning.",
+   "why": "A flame uses oxygen from the air to burn wax. Under the jar no fresh air can reach it, so when the oxygen inside runs low, the flame goes out. Our bodies also use oxygen to get energy from food, but slowly and without a flame. Some books stand the jar in water and say the water rises because the oxygen was used up. In fact it rises mostly because the hot air in the jar cools and shrinks after the flame goes out, so this test leaves the water out.",
+   "safety": "A grown-up lights the tea lights and handles the jar. Keep hair, sleeves and paper away. The jar gets warm, so hold it by its base. Blow out the open tea light at the end.",
+   "time": "12 min"
+  },
+  {
+   "id": "e2",
+   "title": "The milky breath",
+   "day": 3,
+   "question": "Is the air we breathe out the same as the air in the room?",
+   "need": [
+    "1 teaspoon of chuna, the white lime paste sold at paan shops and grocery shops",
+    "a jug of about 1 litre of water and a plate to cover it",
+    "2 clear glasses",
+    "2 drinking straws",
+    "an empty plastic bottle and a little atta dough",
+    "a steel plate kept in the fridge for 10 minutes"
+   ],
+   "steps": [
+    "The night before, a grown-up stirs 1 teaspoon of chuna into the jug of water, covers it with a plate and leaves it to settle. This makes limewater.",
+    "Today, breathe out slowly onto the cold steel plate and look at the mist.",
+    "A grown-up pours the clear limewater off the top into the two glasses, the same amount in each.",
+    "Push one straw into the mouth of the bottle and seal it with atta dough. Put the straw in glass 1 and squeeze the bottle 20 times, lifting the straw out each time before you let go. This pushes room air into the limewater.",
+    "Your child blows gently through the other straw into glass 2 for about one minute, breathing in through the nose.",
+    "Compare the two glasses."
+   ],
+   "predict": "Ask your child to guess first: 'Air goes into you and comes out again. Does it come out the same, or changed? What might be different?'",
+   "observe": "A mist on the cold plate. Glass 2, with breath, turns milky within about a minute. Glass 1, with room air, stays clear or goes cloudy only very slowly.",
+   "why": "Limewater turns milky when carbon dioxide goes through it. Room air has very little carbon dioxide. Breathed-out air has about a hundred times more, because the body makes it when it uses food and oxygen to get energy. The mist is water from inside the body, carried out in the breath as invisible water vapour. If your child keeps blowing for several minutes, the milky water can turn clear again. That is normal.",
+   "safety": "Only a grown-up handles the chuna. It can sting eyes and skin, so never taste it, and wash hands after touching it. Never drink limewater. Blow out only. Never suck through the straw.",
+   "time": "10 min the night before, 15 min on the day"
+  },
+  {
+   "id": "e3",
+   "title": "Squeeze a cucumber",
+   "day": 4,
+   "question": "How much of a living thing is water?",
+   "need": [
+    "1 cucumber",
+    "a grater and a plate",
+    "a clean thin cotton cloth",
+    "a clear glass"
+   ],
+   "steps": [
+    "Your child guesses how much water will come out, and marks the guess on the side of the glass with a finger.",
+    "A grown-up grates the cucumber onto the plate.",
+    "Put the grated cucumber in the cloth, hold it over the glass and twist the cloth hard to squeeze out the juice.",
+    "Open the cloth and look at what is left."
+   ],
+   "predict": "Ask your child to guess first: 'Will a spoonful of water come out, or half a glass? Why?'",
+   "observe": "A lot of watery juice in the glass, often about half a glass from one cucumber, and a small ball of pulp in the cloth.",
+   "why": "More than nine tenths of a cucumber is water. Every living thing is mostly water, because the work inside each tiny cell happens in water. A child's body is more than half water. The juice is safe to drink or to use in raita.",
+   "safety": "A grown-up does the grating, because a grater can cut fingers.",
+   "time": "10 min"
+  },
+  {
+   "id": "e4",
+   "title": "Ice cubes in wool and cotton",
+   "day": 6,
+   "question": "Does wool make heat, or does it slow heat down?",
+   "need": [
+    "3 ice cubes of the same size, from one tray",
+    "a cotton hanky",
+    "a dry woollen sock, or a small piece of an old sweater",
+    "3 saucers",
+    "a clock"
+   ],
+   "steps": [
+    "Squeeze the woollen sock in your fist and let go. See how small it gets: most of it is air.",
+    "Put one ice cube on a bare saucer.",
+    "Wrap one in the cotton hanky and put it on a saucer.",
+    "Push one deep inside the woollen sock and lay it on a saucer.",
+    "Keep all three in the same room, out of the sun. Note the time.",
+    "Check every 10 minutes and write down when each one has fully melted. The sock's cube can take one to two hours."
+   ],
+   "predict": "Ask your child to guess first: 'If wool makes heat, the cube in the sock will melt fastest. Which cube do you think will melt first? Which will last longest?'",
+   "observe": "The minutes until each cube has fully melted. Usually the bare cube melts first and the sock cube lasts longest, often about twice as long. The thin hanky helps a little.",
+   "why": "Wool makes no heat. The warm room gives heat to the ice. Wool fibres hold a lot of still air between them, and still air lets heat through very slowly, so the ice stays cold longer. On your body it works the other way: the trapped air keeps your own body's heat in. A thin cotton hanky traps much less air, so it helps much less.",
+   "safety": "Wipe up melted water so nobody slips.",
+   "time": "10 min to set up, then checks every 10 minutes for up to 2 hours"
+  },
+  {
+   "id": "e5",
+   "title": "The sweaty hand",
+   "day": 6,
+   "question": "Why is cotton better than plastic on a hot day?",
+   "need": [
+    "a thin plastic bag",
+    "a cotton sock",
+    "a clock"
+   ],
+   "steps": [
+    "Put the plastic bag loosely over one hand. Fold the open end round the wrist without tying it.",
+    "Put the cotton sock on the other hand.",
+    "Sit still for 10 minutes. You can read or listen while you wait.",
+    "Take both off. Touch the palm of each hand and look inside the bag."
+   ],
+   "predict": "Ask your child to guess first: 'Which hand will feel wetter after 10 minutes? Why?'",
+   "observe": "The hand in the bag feels damp and sticky, and you may see drops or mist inside the bag. The hand in the cotton sock feels much drier.",
+   "why": "Skin always lets out a little sweat, even when we sit still. Plastic lets no air or water through, so the sweat is trapped. Cotton fibres soak up sweat, and air passes through the cloth, so the sweat dries away. When sweat dries, it takes heat from the skin, which cools us. That is why cotton feels cool on a hot day. Cotton does not make cold. It lets the body cool itself.",
+   "safety": "The bag goes only on a hand, never near the face or head. Take it off at once if the hand feels uncomfortable.",
+   "time": "15 min"
+  },
+  {
+   "id": "e6",
+   "title": "Flat roof or sloping roof?",
+   "day": 7,
+   "question": "Which roof shape keeps a house drier in the rain?",
+   "need": [
+    "2 pieces of the same thin card from a cereal or biscuit box, about 20 cm by 15 cm",
+    "2 steel bowls, upside down, as the houses",
+    "a cup of water",
+    "a tray to catch the water"
+   ],
+   "steps": [
+    "Put both bowls upside down on the tray.",
+    "Lay one card flat on top of the first bowl.",
+    "Fold the other card in half, like a tent, and stand it over the second bowl.",
+    "Dip your fingers in the water and flick it over each roof 20 times, like rain.",
+    "Look at where the water goes. After 5 minutes, touch each card."
+   ],
+   "predict": "Ask your child to guess first: 'Which roof will stay drier, and why?'",
+   "observe": "Water stands in drops and puddles on the flat card and soaks in, so the card goes soft and dark. On the tent card, most water runs down the sides onto the tray, and the card stays firmer.",
+   "why": "On a sloping roof, gravity pulls water and snow down the slope and off the edge before they can soak in. On a flat roof, water stands still and slowly soaks through, and heavy snow can pile up. That is why houses in snowy and very rainy places have steep roofs. In dry places, a flat roof is useful for sleeping out and for catching rainwater.",
+   "safety": "Wipe up spilled water so nobody slips.",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Need or want?",
+   "day": 1,
+   "mins": 12,
+   "need": [
+    "15 paper slips",
+    "a pencil"
+   ],
+   "steps": [
+    "Write one thing on each slip: air, drinking water, roti or rice, a TV, a shirt, a sweater in winter, a roof, a bicycle, chocolate, a bath, a mobile phone, a blanket, a fan, a toy, fruit.",
+    "Make two places on the floor: 'Need' and 'Want'.",
+    "Your child reads each slip, puts it in a place and says why.",
+    "Put any slip you argue about in the middle. Talk about when it might be a need, and when a want.",
+    "Write the two lists in the notebook."
+   ],
+   "outcome": "Two lists, needs and wants, with a reason for each, and a few 'it depends' slips in the middle."
+  },
+  {
+   "id": "a2",
+   "title": "Mosquito check",
+   "day": 4,
+   "mins": 15,
+   "need": [
+    "a torch",
+    "an old toothbrush or scrub",
+    "notebook and pencil"
+   ],
+   "steps": [
+    "Make a list of every place in your home where water can stand still: flowerpot saucers, a cooler, buckets, a money plant bottle, the tray under the fridge, a balcony drain, old tins or tyres.",
+    "Go to each one with a torch. Look for tiny wriggling things just under the surface. These are mosquito babies, called larvae.",
+    "Write what you found at each place.",
+    "Tip out the water, scrub the inside to remove eggs stuck to the sides, and dry it or cover it.",
+    "Put a sticker on the calendar to do this every week."
+   ],
+   "outcome": "A list of the places where water stands in your home, each one emptied, and a weekly check on the calendar."
+  },
+  {
+   "id": "a3",
+   "title": "Where does fresh air come in?",
+   "day": 3,
+   "mins": 12,
+   "need": [
+    "strips of newspaper, about 2 cm by 20 cm",
+    "tape and a pencil"
+   ],
+   "steps": [
+    "Tape a newspaper strip to the end of a pencil.",
+    "Open one window and the door of the room. Hold the strip in the window, then in the doorway.",
+    "Watch which way the strip moves. Air pushing it into the room means air is coming in.",
+    "Close the window and try the doorway again. Then open two windows on opposite sides, if you have them.",
+    "Draw the room with arrows showing where air comes in and goes out."
+   ],
+   "outcome": "A drawing of one room with arrows showing how fresh air comes in and used air goes out."
+  }
+ ],
+ "project": {
+  "title": "A shelter for a hard place",
+  "days": [
+   7,
+   8
+  ],
+  "steps": [
+   "Choose a place: Ladakh in winter, Kerala in the monsoon, Rajasthan in summer, or your own city.",
+   "Write the hardest thing about the weather there: cold, heavy rain, heat or something else.",
+   "Draw a home that protects people from it. Label what the roof, walls, windows and drains do.",
+   "Build it from a cardboard box, card, cloth or clay.",
+   "Test the roof with 10 flicks of water. Check where fresh air can come in.",
+   "Change one thing that didn't work, and test again."
+  ],
+  "outcome": "A labelled drawing and a small model home for one place, tested against rain."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Who Meets the Need?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out"
+  ],
+  "rules": [
+   "There are 30 cards. Each one shows a living thing and one need: air, water, food, covering or shelter.",
+   "Shuffle and deal 5 cards to each player. Put the rest face down as the pile.",
+   "A family is 3 cards with the same need, for example 3 air cards.",
+   "On your turn, ask one player for a need: 'Do you have a water card?' If they do, they give you one. If not, take a card from the pile.",
+   "When you have a family, lay it down. Read the backs aloud and say how two of them meet the need differently.",
+   "When the pile runs out, the player with the most families wins.",
+   "Playing alone? Sort all 30 cards into the five needs, then read each back and try to say it before you look."
+  ],
+  "cards": [
+   {
+    "front": "Human: air",
+    "back": "Breathes air into two lungs."
+   },
+   {
+    "front": "Fish: air",
+    "back": "Gills take oxygen out of the water."
+   },
+   {
+    "front": "Earthworm: air",
+    "back": "Breathes through its damp skin, so it stays in damp soil."
+   },
+   {
+    "front": "Dolphin: air",
+    "back": "Comes up to breathe air through a blowhole."
+   },
+   {
+    "front": "Mosquito baby: air",
+    "back": "Hangs under the water and breathes through a tube at its tail."
+   },
+   {
+    "front": "Leaf: air",
+    "back": "Takes in air through tiny holes called stomata."
+   },
+   {
+    "front": "Human: water",
+    "back": "Drinks water, and gets more from food like fruit and dal."
+   },
+   {
+    "front": "Camel: water",
+    "back": "Can go many days without drinking, then drinks a lot at once."
+   },
+   {
+    "front": "Frog: water",
+    "back": "Soaks up water through its skin."
+   },
+   {
+    "front": "Plant: water",
+    "back": "Roots take up water from the soil."
+   },
+   {
+    "front": "Kangaroo rat: water",
+    "back": "Lives in a desert and gets almost all its water from the seeds it eats."
+   },
+   {
+    "front": "Sparrow: water",
+    "back": "Drinks from puddles, ponds and bowls people put out."
+   },
+   {
+    "front": "Plant: food",
+    "back": "Makes its own food from sunlight, water and carbon dioxide."
+   },
+   {
+    "front": "Cow: food",
+    "back": "Eats grass. Tiny microbes in its stomach help break the grass down."
+   },
+   {
+    "front": "Spider: food",
+    "back": "Catches insects in its web."
+   },
+   {
+    "front": "Mushroom: food",
+    "back": "Feeds on dead leaves and wood."
+   },
+   {
+    "front": "Honeybee: food",
+    "back": "Drinks nectar and eats pollen from flowers."
+   },
+   {
+    "front": "Human baby: food",
+    "back": "Drinks its mother's milk."
+   },
+   {
+    "front": "Sheep: covering",
+    "back": "Thick wool traps still air and keeps its body heat in."
+   },
+   {
+    "front": "Bird: covering",
+    "back": "Fluffs up its feathers on a cold day to trap more air."
+   },
+   {
+    "front": "Silkworm: covering",
+    "back": "Spins a silk cocoon to stay safe while it turns into a moth."
+   },
+   {
+    "front": "Elephant: covering",
+    "back": "Rolls in mud, which protects its skin from sun and insects."
+   },
+   {
+    "front": "Goat in Ladakh: covering",
+    "back": "Grows a soft undercoat, pashmina, for winter and sheds it in spring."
+   },
+   {
+    "front": "Human: covering",
+    "back": "Makes clothes from cotton, wool, silk and other fibres."
+   },
+   {
+    "front": "Snail: shelter",
+    "back": "Carries a hard shell to hide in and stay damp."
+   },
+   {
+    "front": "Baya weaver: shelter",
+    "back": "Weaves a hanging nest with its door at the bottom."
+   },
+   {
+    "front": "Ant: shelter",
+    "back": "Digs a nest with many rooms under the ground."
+   },
+   {
+    "front": "Hermit crab: shelter",
+    "back": "Lives in an empty sea snail shell, and moves to a bigger one as it grows."
+   },
+   {
+    "front": "Rabbit: shelter",
+    "back": "Digs a burrow under the ground."
+   },
+   {
+    "front": "Human: shelter",
+    "back": "Builds homes from brick, stone, mud, wood or cloth."
+   }
+  ]
+ },
+ "big": [
+  "Who owns the air? Who owns the water under the ground?",
+  "Is a phone a need for anyone? When could it be?",
+  "Does a crow or an ant have wants, or only needs?",
+  "How much is enough food, clothing or space? Who decides?",
+  "If clothes make no heat, where does your warmth come from?"
+ ],
+ "challenge": [
+  {
+   "q": "People often say: 3 minutes without air, 3 days without water, 3 weeks without food. Is that true?",
+   "hint": "It is a rough guide to the order, not a law. In a hot desert without shade, a person can lose dangerous amounts of water in a single day. Resting in the cool, people last longer. Some hunger strikers who still drank water have lived for more than six weeks without food. Ask: why would heat change how long someone can go without water?"
+  },
+  {
+   "q": "Every animal needs oxygen. Is that right?",
+   "hint": "Almost every animal does. But in 2020 scientists found a tiny parasite called Henneguya salminicola, a distant relative of jellyfish that lives in salmon. It does not use oxygen at all. Many bacteria live without oxygen too, and for some, oxygen is a poison. Ask: what does this tell us about rules that say 'every'?"
+  },
+  {
+   "q": "Cotton keeps you cool. Is that the whole story?",
+   "hint": "Cotton makes no cold. It soaks up sweat and lets air through, so the sweat dries, and drying sweat takes heat from your skin. In very damp, sticky weather sweat dries slowly, so even cotton feels hot. Ask: why do you feel cooler under a fan, even though the fan makes no cold either?"
+  },
+  {
+   "q": "Everyone should drink exactly 8 glasses of water a day. Is that true?",
+   "hint": "In 2002 a kidney scientist, Heinz Valtin, looked for the evidence behind this rule and found none. How much water you need depends on your size, the heat, how much you move and how much water is in your food. Thirst and pale yellow urine are good guides for a healthy child. Ask: why might you need more water in May than in December?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A Changpa herder on the Changthang plateau in Ladakh",
+   "view": "The Changpa move with their goats, sheep and yaks across a high, cold plain, and many still live part of the year in tents woven from yak hair. In spring their goats shed the soft winter undercoat called pashmina, and the herders comb it out. Ask: the goat grew the pashmina for its own winter. What do we owe the goat for it?"
+  },
+  {
+   "who": "A sheep",
+   "view": "Wild sheep shed their wool every year. Most farm sheep were bred by people so that their wool keeps growing, so now they need people to shear them, or they get hot, heavy and dirty. Ask: is it the sheep's need, or ours?"
+  },
+  {
+   "who": "A family living in one room in a big city",
+   "view": "Many city families cook, eat and sleep in one small room. With little space, keeping fresh air moving and smoke out while cooking is hard. Ask: what would help a one-room home get fresh air?"
+  },
+  {
+   "who": "A mosquito",
+   "view": "To a mosquito, a forgotten flowerpot saucer is a safe nursery for its young. We call it a breeding place and tip it out. Ask: the mosquito has needs too. How can we meet ours without leaving water for it near our homes?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Carl Wilhelm Scheele (1742–1786), Sweden, Joseph Priestley (1733–1804), England, and Antoine Lavoisier (1743–1794) and Marie-Anne Paulze Lavoisier (1758–1836), France",
+   "idea": "Scheele, a pharmacist, made oxygen by heating chemicals around 1771 to 1772 and called it 'fire air', because things burned brightly in it. Priestley made it in 1774 and published first. Lavoisier named it oxygen and showed that both burning and breathing use it. With Pierre-Simon Laplace he measured the heat given off by a guinea pig, and argued that breathing is a slow kind of burning. Marie-Anne Lavoisier translated scientific papers from English for him and drew the pictures of his experiments for his famous book.",
+   "then": "Scheele's book came out only in 1777, after a long delay at the printer, so Priestley got the fame. Priestley believed in an old idea called phlogiston and never accepted Lavoisier's explanation.",
+   "now": "Scientists agree that Lavoisier's explanation was right: burning and breathing both use oxygen and make carbon dioxide. Most historians now say Scheele made oxygen first. Marie-Anne's work is better known today, but her name is still left out of many books.",
+   "status": "accepted",
+   "ask": "Who should get the credit: the person who made oxygen first, the person who told the world first, or the people who explained what it does? Why?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "M. S. Swaminathan (1925–2023), plant scientist, India",
+   "idea": "In the 1960s, many Indians did not have enough to eat, and India bought grain from abroad. Swaminathan worked with the American scientist Norman Borlaug to bring new, short wheat plants from Mexico and suit them to Indian fields. With new rice too, Indian farmers grew far more grain. This is called the Green Revolution. Later, he asked for an 'Evergreen Revolution': growing more food without harming soil, water and small farmers.",
+   "then": "Many people welcomed the new seeds, because they helped India feed itself. Critics, such as the scientist and writer Vandana Shiva, argued that the new farming used too much water, fertiliser and pesticide, and helped big farmers more than small ones.",
+   "now": "India now grows enough grain for its people, though many still do not get enough good food. In Punjab, the water under the ground has fallen far, partly because of thirsty rice and wheat. People still argue about how to grow enough food while looking after soil and water.",
+   "status": "debated",
+   "ask": "Is growing more food always the answer, or does it matter how it is grown and who gets it? What would you need to know to decide?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Abraham Maslow (1908–1970), psychologist, USA",
+   "idea": "In 1943 Maslow wrote that people's needs come in an order. First come body needs, such as air, water, food and warmth. Then safety. Then love and belonging. Then being respected. Last comes growing into the fullest person you can be. He said a need higher up matters to us only when the needs below it are met. Other people later drew this as a pyramid. Maslow himself never drew one.",
+   "then": "The idea became famous, and is still taught in schools and offices around the world.",
+   "now": "In 2011, Louis Tay and Ed Diener studied answers from people in 123 countries. They found that these needs are shared everywhere, but not in a fixed order. People could feel loved and happy with friends even when they were short of food. Many scientists now see needs as working side by side.",
+   "status": "debated",
+   "ask": "Can someone who is hungry still care about friends, music or the stars? Think of an example. Does that mean the pyramid is wrong, or just too simple?",
+   "day": 7
+  }
+ ],
+ "story": {
+  "title": "The Shawl Has No Fire",
+  "text": [
+   "My name is Dolma. I am nine, and I live with my family on the Changthang, a high, cold plain in Ladakh. We are Changpa. We move with our goats, sheep and yaks from one grassland to the next. In winter we live in a rebo, a tent woven from yak hair. It is black, and it smells of smoke and animals, and on windy nights it shakes and creaks all around us.",
+   "Up here, the air is thin. When a visitor came from Delhi last summer, he had to sit down after walking up a small slope. \"There's no air here,\" he gasped. There is air. There is just less of it in every breath. My little brother laughed at him, and Ama told him off, and then she gave the man butter tea and let him rest in our tent.",
+   "This story happened at the end of winter, when the nights are still far below freezing. That evening the wind was blowing snow sideways. Our goats were crowded together in their stone pen beside the tent. I was nearly asleep when I heard Karmo, our oldest goat, crying in a strange high voice.",
+   "Ama took the lamp and went out, and I followed her in my robe. Karmo had given birth, too early, in the snow. The kid lay on the ground in a small, wet heap. Its eyes were shut. When I touched it, it felt as cold as a stone in the stream.",
+   "\"Is it dead?\" I asked.",
+   "Ama put her hand on its side. \"It's breathing. Only just.\"",
+   "I ran back into the tent. I knew exactly what to do. From the bottom of my bag I pulled out my pashmina shawl. It was made from the soft winter wool of our own goats, combed out of their coats one spring and woven far away in Kashmir. Ama gave it to me at Losar, our new year. It is the lightest thing I own, and the warmest. When I wrap it round me, I feel warm straight away.",
+   "I carried the kid inside and rubbed it dry with an old cloth, the way Ama showed me. Then I wrapped it in my shawl, round and round, until only its little grey nose stuck out. I laid it in the corner on a sack, away from the stove, because Ama says animals and fire don't mix. Then I lay down, feeling proud. The warmest thing I owned was keeping it alive.",
+   "I woke up in the dark. The stove had burned low. I crawled over to the corner and put my hand inside the shawl.",
+   "The kid was shivering. Its body felt no warmer than before. And the shawl, my warm shawl, felt as cold as the sack it lay on.",
+   "I was so angry that I nearly cried. \"Why aren't you warm?\" I whispered at the shawl, as if it could answer.",
+   "Ama had woken. She came and knelt beside me and felt the kid, and then she felt the shawl. \"The shawl has no fire in it, Dolma,\" she said quietly.",
+   "\"But it keeps me warm. Every day it keeps me warm.\"",
+   "\"Does it?\" she said. And she said nothing more. She just looked at me in the lamplight, the way she does when she wants me to find something out for myself.",
+   "I thought about it. When I wear the shawl, I am inside it. My hands were warm from sleeping under the blankets. My chest was warm. Where did that come from? Not from the shawl. The shawl was lying here, cold, in a cold corner.",
+   "I opened my robe. I took the kid out of the shawl and held it against my bare chest. It was so cold that I gasped. Its tiny legs poked my ribs. Then I wrapped the shawl round both of us, tight, and pulled the blanket over the top.",
+   "Ama blew on the stove until it glowed, and made me a cup of hot butter tea and a ball of tsampa, the roasted barley flour we eat every day. \"Eat,\" she said. \"You'll need it.\"",
+   "So I sat in the dark and ate and drank, and held the kid. I could feel my own heart beating against its side. For a long time nothing happened. Then the shivering became smaller. Then it stopped. Its ears, which had been like ice, grew soft and warm. Just before the sky turned grey, it lifted its head and gave a tiny, cross bleat, as if I had woken it up.",
+   "In the morning, Ama carried it out to Karmo, who had been calling all night. Karmo licked it all over, and the kid pushed its nose under her and found her milk. It drank and drank, its tail flicking.",
+   "We called the kid Nyima, which means sun.",
+   "A year later, when the snow began to melt, the goats started rubbing themselves against the rocks. Their winter undercoat was coming loose. I took the comb and sat down beside Nyima, who was big now and would not keep still. I combed and combed, and the soft wool came away in clouds.",
+   "I held up a handful in the wind. It was so light that I had to close my fist to keep it."
+  ],
+  "epiphany": "For the parent: the turn comes when Dolma finds her warm shawl lying cold in the corner, with the kid still shivering inside it. A shawl makes no heat. It only keeps in heat that is already there. Dolma's own body makes that heat, from the food she eats and the air she breathes, which is why Ama gives her tea and tsampa. The pashmina is light because it is mostly trapped air, and the goats grew it first for their own winter. Let your child find this out from the ice cube test on Day 6 before you name it.",
+  "ask": [
+   "Why was the baby goat still cold inside the warm shawl?",
+   "Where did the warmth come from in the end?",
+   "Why do you think Ama gave Dolma tea and tsampa in the middle of the night?",
+   "Why do the goats grow soft wool in winter and lose it in spring?",
+   "How many of the five basic needs can you find in the story?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Breathing and eating are two halves of one job: getting energy.",
+   "more": "The body uses oxygen to get energy out of food, and makes carbon dioxide as it does. A candle does the same with wax, but fast and with a flame. That is why the candle in the jar went out, and why our breath turned limewater milky."
+  },
+  {
+   "idea": "Clothes and homes make no heat. They hold in, or let go of, the heat our bodies make.",
+   "more": "In the ice cube test, wool kept the ice cold longest, because the still air trapped in it lets heat through slowly. A sweater keeps our heat in. Cotton lets sweat dry, which cools us. A roof and walls do the same job for a whole family."
+  },
+  {
+   "idea": "Every living thing has the same few needs, and each meets them in its own way.",
+   "more": "A fish takes oxygen from water with gills, a camel can wait days between drinks, a sheep grows wool, and a snail carries its home. Each feature solves that living thing's own problem first. People often borrow the answer later, as with wool and silk."
+  }
+ ],
+ "unknowns": [
+  "What is the least a living thing needs? Some microbes deep inside rock seem to live on almost nothing and grow extremely slowly. Scientists are still finding out how slow life can go.",
+  "Are friends a basic need? Lonely people tend to be less healthy, but scientists are still working out why.",
+  "Could people ever live on Mars? Its air has almost no oxygen, it has no rivers or lakes, and it is very cold. Nobody yet knows how to grow enough food there."
+ ],
+ "books": [
+  {
+   "title": "A House Is a House for Me",
+   "author": "Mary Ann Hoberman",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A rhyming book about all kinds of homes, for animals, people and things. Good for the shelter day and the card game."
+  },
+  {
+   "title": "Pelle's New Suit",
+   "author": "Elsa Beskow",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A boy shears his own lamb, and many people help turn the wool into a suit. It shows how much work goes into one set of clothes."
+  },
+  {
+   "title": "If the World Were a Village",
+   "author": "David J. Smith",
+   "for": "read together",
+   "age": "8–12",
+   "why": "Imagines the whole world as a village of 100 people, and shows how food, water and homes are shared out among them."
+  },
+  {
+   "title": "Bread, Bread, Bread",
+   "author": "Ann Morris",
+   "for": "read alone",
+   "age": "4–8",
+   "why": "Photographs of people around the world baking and eating bread. Good for the food day."
+  }
+ ],
+ "check": [
+  {
+   "q": "What are the five basic needs? Which three can we not live without at all?",
+   "a": "Air, water, food, clothing and shelter. We cannot live without air, water and food. Clothing and shelter protect us and keep us well."
+  },
+  {
+   "q": "Why did the tea light under the jar go out?",
+   "a": "A flame uses oxygen from the air. Under the jar no fresh air could get in, so when the oxygen ran low, the flame went out."
+  },
+  {
+   "q": "What does the body use oxygen for, and what does it breathe out?",
+   "a": "It uses oxygen to get energy from food. It breathes out carbon dioxide, which turned the limewater milky, and water vapour, which made a mist on the cold plate."
+  },
+  {
+   "q": "Name three jobs water does in your body.",
+   "a": "Blood, which is mostly water, carries food and oxygen. Sweat cools the skin. Urine carries waste out. Spit helps us swallow."
+  },
+  {
+   "q": "How do we stop mosquitoes breeding at home?",
+   "a": "Empty and scrub anything that holds still water, like coolers and flowerpot saucers, once a week, and keep stored water covered. Mosquito eggs need about a week in still water to become mosquitoes."
+  },
+  {
+   "q": "Does a sweater make heat? How do you know?",
+   "a": "No. In the ice cube test, the cube in the woollen sock melted last, so the wool slowed heat down. On our body, the still air trapped in wool keeps our own body heat in."
+  },
+  {
+   "q": "Why do houses in snowy places have sloping roofs?",
+   "a": "On a slope, snow and rain slide off before they can pile up or soak in. In our roof test, water ran off the tent-shaped card but stood on the flat one."
+  },
+  {
+   "q": "How do a fish, a sheep and a snail each meet a need?",
+   "a": "A fish takes oxygen from water with its gills. A sheep's wool traps air and keeps its body heat in. A snail carries a shell to hide in and stay damp."
+  }
+ ]
+}
