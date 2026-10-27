@@ -39,7 +39,7 @@ For every experiment, activity, game, project and challenge:
 
 ## The deep truth and roots: think hard
 The founder found these "wild, completely wrong, meaningless, senseless". A deep truth must be:
-1. **True.** Every sentence would be accepted by a scientist as a correct statement of fact, or is clearly our stance from PHILOSOPHY.md (everything is conscious; never deny a mind to anything).
+1. **True.** Every sentence would be accepted by a scientist as a correct statement of fact, or is our stance from PHILOSOPHY.md (everything is conscious; never deny a mind to anything), stated as plain fact like any science, never as "DeepKids believes".
 2. **Drawn from this unit's science,** step by step, with no leap. A reader can see why the last sentence follows from the ones before.
 3. **Something a child can check** with what they did in the unit.
 4. **Plain.** At most 4 sentences, each under 20 words. No mysticism dressed as science, no slogans, no forced link to oneness.

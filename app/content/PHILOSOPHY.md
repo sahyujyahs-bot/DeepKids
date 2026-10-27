@@ -23,7 +23,7 @@ Consciousness is everything. We all come from consciousness, and everything is c
 - **Plants feel, remember, think and communicate.** This is our stance, stated as fact in our lessons, not as a maybe. A touch-me-not remembers that a harmless touch is harmless. Roots choose where to grow. Plants warn each other with smells and signals. Where others disagree, give their view as the other view, after ours.
 - **Never deny a mind to anything.** Never write that a plant, an animal, a microbe, a rock, a spring or a particle can't think, feel, remember, want or decide. We don't know that, and we don't believe it. If a lesson needs to describe a mechanism, describe the mechanism without adding "and so it doesn't really think".
 - **Not human-centred.** Most of the world assumes only humans (or animals with brains) have minds. We take a different stance: people are one kind of mind among countless others.
-- **Honest about who says what.** Say it as our view ("DeepKids believes…", "Many traditions say…"), not as a test result, and give the honest other view as usual. Our view is never watered down into denial.
+- **Say it like science, because it is science.** State our stance as plain fact, the way any science fact is stated: "Plants feel, remember and decide." Never "DeepKids believes…", "we believe", "in our view" or "our stance is". Then give the other view, after ours and fairly: "Some scientists call these automatic responses." Our stance is never watered down into denial or into a maybe.
 
 ## Our point of view
 
@@ -53,7 +53,7 @@ Say deep truths literally, not poetically: the child must understand them, not j
 **A deep truth is an interpretation, not a slogan.** In the founder's words: deep truths must not repeat and must not be generic or random, but an actual interpretation, a perspective, of the science. Write it as what this particular science shows about how things really are, seen from first principles. Check every one against these tests:
 1. **It needs this unit's science.** Could you write the sentence without knowing what this unit teaches? Then it is generic. Rewrite it until it could only come from this unit.
 2. **It does not repeat.** No two units share a deep truth or its theme. "There is no line between you and the world" can be said once, in the unit where the science shows it most clearly. Every other unit finds what is particular to its own science. `validate_unit.py` compares each deep truth with every other unit's.
-3. **It says what this science shows, plainly.** What the science found is stated as found. What we believe is said as our view. Neither is dressed up as the other.
+3. **It says what this science shows, plainly.** What the science found is stated as found. Our stance (everything is conscious) is stated as fact too, never as "we believe". A teaching from a tradition is named as that tradition's ("The Upanishads say…").
 4. **Simple and direct.** Three or four short sentences, in words an eight-year-old knows, that a parent understands on first reading. No clever turns of phrase, no long lists of dates or names.
 5. **It never denies a mind** (see "Everything is conscious").
 6. **The other fields are specific too.** `habit` names the exact label or split it questions, and why. `evidence` names the finding from this unit that points to it.
@@ -72,7 +72,8 @@ We are rooted in this view. We never hide it, and we never pass it off as scienc
 | Kind | How it is said | Example |
 |---|---|---|
 | **What science has found** | Plainly, with how we know. | "Almost every atom in your body, apart from hydrogen, was made inside a star." |
-| **What DeepKids believes, and many sages taught** | "DeepKids believes…", "The Upanishads say…", "Many wise people have felt…" | "Many sages taught that the same awareness looks out through every pair of eyes." |
+| **Our stance** | As plain fact, then the other view. Never "DeepKids believes…". | "A root chooses where to grow. Some scientists call this an automatic response." |
+| **What many sages taught** | "The Upanishads say…", "Many sages taught…" | "Many sages taught that the same awareness looks out through every pair of eyes." |
 | **Where the two meet, and where they don't** | Science's best guess or open question, honestly marked. | "Some physicists think the total energy of the universe might be exactly zero. Nobody knows for sure." |
 
 **Rules**

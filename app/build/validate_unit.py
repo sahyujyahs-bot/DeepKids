@@ -84,6 +84,9 @@ def check(path):
     if re.match(r"\s*this unit is about", u["summary"].get("text", ""), re.I): P("summary must not open 'This unit is about': lead with the puzzle (WRITING.md rule 18)")
     for line in STOCK:
         if line in json.dumps(u, ensure_ascii=False).lower(): P(f"stock line '{line}': say what actually happens (WRITING.md rule 18)")
+    # WRITING.md rule 25: our stance is said like science, never as a belief
+    for m in re.findall(r"[^.\"]*\b(?:DeepKids (?:believes|thinks|holds|sees|view)|we believe|in our view|our stance)\b[^.\"]*", json.dumps(u, ensure_ascii=False), re.I)[:5]:
+        P(f"say our stance as plain fact, not as a belief (WRITING.md rule 25): '{m.strip()[:90]}'")
     r = u["roots"]   # app/content/PHILOSOPHY.md
     for k in ("context", "deep_truth", "three", "thread", "teachings", "science", "other_view", "practice", "ask", "art"):
         if not r.get(k): P(f"roots needs {k} (see PHILOSOPHY.md)")
