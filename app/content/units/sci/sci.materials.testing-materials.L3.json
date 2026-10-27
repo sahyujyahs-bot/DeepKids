@@ -2,14 +2,14 @@
  "id": "sci.materials.testing-materials.L3",
  "title": "Testing materials: how to run a fair test",
  "level": 3,
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. The umbrella patch test was checked step by step. A rain bottle with pin holes in its cap needs an air hole near its base, or it stops dripping after a few drops. The flow now names that hole. 20 ml is used, not more, because a dip in a patch over a tumbler holds only about 20 ml before it spills over the edge. The four tumblers are rained on one minute apart and each is lifted 4 minutes after its own rain, so every cloth waits the same time. Three rounds take about 25 minutes, so the test is about 50 minutes in all. Waterproof cloth leaves water sitting on top. The steps say to tip that into the tray, away from the tumbler. The width test uses one layer of a paper napkin, because toilet paper and kitchen towel have perforations, which are weak lines. Napkin strips usually hold between 10 and 40 coins, so 100 coins is enough. The knot test uses hair, because sewing thread is too strong for a bag of coins. Parents should know: cloth results vary a lot from home to home, and that is fine. The point is that the child designs the test, guesses with a reason first, and explains the result from what they saw. The spine fits about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. The umbrella patch test was checked step by step. A rain bottle with pin holes in its cap needs an air hole near its base, or it stops dripping after a few drops. The flow now names that hole, and the bottle is practised over the medicine cup, so the family can check that all 20 ml comes out. 20 ml is used, not more, because a dip in a patch over a tumbler holds only about 20 ml before it spills over the edge. The four tumblers are rained on one minute apart and each is lifted 4 minutes after its own rain, so every cloth waits the same time. Three rounds take about 25 minutes, so the test is about 50 minutes in all. Waterproof cloth leaves water sitting on top. The steps say to tip that into the tray, away from the tumbler. The width test uses one layer of a paper napkin, because toilet paper and kitchen towel have perforations, which are weak lines. Napkin strips usually hold between 10 and 40 coins, so 100 coins is enough. The knot test uses hair, because sewing thread is too strong for a bag of coins. Parents should know: cloth results vary a lot from home to home, and that is fine. The point is that the child designs the test, guesses with a reason first, and explains the result from what they saw. The spine fits about 85 minutes.",
  "summary": {
-  "text": "A shopkeeper says his umbrella cloth is the most waterproof in India. How could you check, so that nobody could argue with you? Pouring a little water on it and looking is not enough. If one cloth gets more water, or waits longer, the answer means nothing. So you design a fair test yourself: only the cloth changes, and everything else stays the same. The results often surprise people, and the reasons hide in gaps too small to see. Things leak and tear at their weakest spot, so two strips cut from the same paper never hold exactly the same. Nobody can yet say exactly when one particular piece will break.",
+  "text": "A shopkeeper says his umbrella cloth is the most waterproof in India. How could you check, so that nobody could argue with you? Pouring a little water on it and looking is not enough. If one cloth gets more water, or waits longer, the answer means nothing. So you design a fair test yourself: only the cloth changes, and everything else stays the same. The results often surprise people, and the reasons hide in gaps too small to see. Things leak and tear at their weakest spot. So strips cut from the same paper hold different numbers of coins. Nobody can say exactly when one particular piece will break.",
   "art": "A kitchen table laid out like a laboratory: four steel tumblers each covered with a different square of old cloth, a small plastic bottle dripping rain onto one of them, a medicine cup and a hand-drawn results table."
  },
  "intro": {
   "hook": "Here is a puzzle. Your family must buy one umbrella for the monsoon. The shopkeeper says, 'This one is the most waterproof in all of India!' How could you find out if that is true, without just believing him?",
-  "text": "People have tested materials for thousands of years. A potter taps a new pot and listens. A crack makes it sound dull. A coconut seller taps a coconut to hear how much water is inside. Today, engineers bend aeroplane wings until they snap, to be sure the wings are strong enough. So here is your first job. Before you read on, think: how would you test an umbrella cloth so that nobody could say your test was unfair? Keep your answer in mind. You are going to design that test yourself.",
+  "text": "People have tested materials for thousands of years. A potter taps a new pot and listens. A crack makes it sound dull. A coconut seller taps a coconut to hear how much water is inside. Today, engineers bend aeroplane wings until they snap, to be sure the wings are strong enough. So here is your first job. Before you read on, think. How would you test an umbrella cloth so that nobody could call it unfair? Keep your answer in mind. You are going to design that test yourself.",
   "art": "A potter in a village workshop tapping a red clay pot with one knuckle and listening carefully, with a row of pots drying in the sun behind."
  },
  "outcomes": [
@@ -44,7 +44,7 @@
   {
    "term": "Fair test",
    "meaning": "A test where you change only one thing and keep everything else the same. Then you know what caused the difference.",
-   "example": "To test cloths for an umbrella patch, every cloth gets the same 20 ml of rain from the same height and waits the same time. Only the cloth changes.",
+   "example": "In the umbrella patch test, every cloth gets the same 20 ml of rain, from the same height. Every cloth waits the same time. Only the cloth changes.",
    "art": "Three identical cups with three different cloths on top, the same spoon of water above each one."
   },
   {
@@ -158,7 +158,7 @@
   {
    "term": "Hardness",
    "meaning": "How well a material stops itself being scratched. A harder material scratches a softer one.",
-   "example": "A steel key scratches chalk. Chalk cannot scratch the key.",
+   "example": "A metal key scratches chalk. Chalk cannot scratch the key.",
    "art": "A steel key making a white scratch line on a stick of chalk."
   },
   {
@@ -304,7 +304,7 @@
    "concept": "Measuring, not just saying",
    "status": "defined",
    "definition": "A measured result is a number with a unit. Measuring turns 'this seems strong' into '14 coins', which anyone can check.",
-   "description": "Saying 'the cotton got quite wet' is a start. But how wet? Your 'quite' might be my 'very'. A number is the same for everyone. That is why we measure water in millilitres, with a measuring cup. We measure length in centimetres, with a ruler. We measure weight by counting coins of the same kind. The tools must be the same for every material. Every coin in a test must be the same kind. A five-rupee coin is heavier than a one-rupee coin. People have agreed on standard units for thousands of years. About 4,500 years ago, the cities of the Indus Valley used bricks of the same shape everywhere. They also used stone weights of fixed sizes, so traders in different cities could trust each other.",
+   "description": "Saying 'the cotton got quite wet' is a start. But how wet? Your 'quite' might be my 'very'. A number is the same for everyone. That is why we measure water in millilitres, with a measuring cup. We measure length in centimetres, with a ruler. We measure weight by counting coins of the same kind. The tools must be the same for every material. Every coin in a test must be the same kind. A five-rupee coin is heavier than a one-rupee coin. Even one-rupee coins from different years can weigh different amounts. People have agreed on standard units for thousands of years. About 4,500 years ago, the cities of the Indus Valley used bricks of the same shape everywhere. They also used stone weights of fixed sizes, so traders in different cities could trust each other.",
    "examples": [
     "A medicine cup shows that 12 ml of rain came through the cotton hanky.",
     "A ruler shows the strip is exactly 2 cm wide, not 'about two fingers'.",
@@ -318,7 +318,7 @@
    "concept": "Why some materials keep water out",
    "status": "defined",
    "definition": "Rain gets through a cloth through the gaps between its threads. The biggest gaps let it through first. A waterproof material has no gaps, and water does not soak into it.",
-   "description": "Water is made of countless tiny particles called molecules. Water molecules hold on tightly to each other, and they also cling to cotton and wool fibres. Every woven or knitted cloth has gaps between its threads. Where the gaps are big, the water simply falls through. Where they are tiny and the threads are packed tight, the water has to creep slowly along the fibres. So thickness is not what matters most. A thick sweater is knitted in loops, with big holes between them. Old jeans are woven tight, so their gaps are tiny, and the thick cotton soaks up much of the water before it gets through. Plastic, rubber and wax have no gaps at all, and water does not cling to them, so it pulls itself into drops and sits on top. An umbrella is made of tightly woven cloth with a thin waterproof coating. But one pinhole is a gap, and the rain finds it. Charles Macintosh, in Scotland, made the first rubber raincoats in 1823 by sealing rubber between two layers of cloth. The unit on using materials tries the lotus leaf and waxed paper.",
+   "description": "Water is made of countless tiny particles called molecules. Water molecules hold on tightly to each other, and they also cling to cotton and wool fibres. Every woven or knitted cloth has gaps between its threads. Where the gaps are big, the water simply falls through. Where they are tiny and the threads are packed tight, the water has to creep slowly along the fibres. So thickness is not what matters most. A thick sweater is knitted in loops, with big holes between them. Old jeans are woven tight, so their gaps are tiny. Their thick cotton also soaks up much of the water before it gets through. Plastic, rubber and wax have no gaps at all. Water does not cling to them, so it pulls itself into drops and sits on top. An umbrella is made of tightly woven cloth with a thin waterproof coating. But one pinhole is a gap, and the rain finds it. In 1823, Charles Macintosh in Scotland found a way to seal rubber between two layers of cloth. Raincoats made this way are still called macs. The unit on using materials tries the lotus leaf and waxed paper.",
    "examples": [
     "Hold a cotton hanky and a piece of old jeans up to a window. You can see light through the hanky's gaps.",
     "Rain makes round, rolling drops on a lotus or arbi (colocasia) leaf, and the leaf stays dry.",
@@ -344,28 +344,28 @@
    "context": "In the climbing water test, water creeps up some materials faster than others. This card explains the pull behind it."
   },
   {
-   "concept": "Why the same paper never tears at the same number",
+   "concept": "Why strips of the same paper tear at different numbers",
    "status": "defined",
    "definition": "A strip tears at its weakest spot. Every strip has its own weak spots, so strips cut from the same sheet hold different loads. Scientists can say what usually happens, but not exactly what one strip will do.",
-   "description": "Hold a paper napkin up to a window. Some patches are bright, where the fibres are thin. Some are darker, where they are thick. When you hang coins from a strip, the pull is shared across its whole width. But the strip does not wait for every part to give way. It starts to tear where it is weakest, and then the tear runs across. So a strip is only as strong as its worst spot. Each strip has a different worst spot, so each holds a different number of coins. A bigger piece has more places, so it has more chances to hold a really bad spot. In 1939, a Swedish engineer named Waloddi Weibull worked out the maths of this. Engineers still use his maths to decide how many samples of a rope or a cable to break before they trust the rest.",
+   "description": "Hold a paper napkin up to a window. Some patches are bright, where the fibres are thin. Some are darker, where they are thick. When you hang coins from a strip, the pull is shared across its whole width. But the strip does not wait for every part to give way. It starts to tear where it is weakest, and then the tear runs across. So a strip is only as strong as its worst spot. Each strip has a different worst spot, so the strips usually hold different numbers of coins. A bigger piece has more places, so it has more chances to hold a really bad spot. In 1939, a Swedish engineer named Waloddi Weibull worked out the maths of this. Engineers still use his maths to judge how far they can trust parts made of glass, ceramic or steel.",
    "examples": [
-    "Three 2 cm strips from one napkin held 18, 24 and 21 coins.",
+    "For example, three 2 cm strips from one napkin might hold 18, 24 and 21 coins.",
     "A hair with a knot in it broke at the knot, with fewer coins than a plain hair.",
     "Climbing ropes are tested by breaking many sample pieces, because one piece tells you about only one piece."
    ],
    "perspectives": [],
    "art": "A paper napkin held up to the light, its thin bright patches and thick dark patches showing, with three torn strips below it, each torn at a different thin patch.",
-   "context": "In the width test, strips cut from the same napkin held different numbers of coins. This card explains why no two pieces of the same material are exactly equally strong.",
+   "context": "In the width test, strips cut from the same napkin held different numbers of coins. This card explains why pieces of the same material are not all equally strong.",
    "how": "e3"
   },
   {
    "concept": "Why things tear where there is a crack",
    "status": "defined",
    "definition": "A tiny crack makes a material much weaker. All the pull gathers at the sharp tip of the crack, so the crack grows easily.",
-   "description": "Try to tear a crisp packet from its smooth top. It is hard. Now find the little notch that says 'tear here'. It rips easily. Here is why. When you pull a strip, the pull is shared across the whole width. A crack leaves less material to share it. Worse, the pull crowds together at the sharp tip of the crack, like water rushing through a narrow gap. So the tip breaks first, then the next bit, then the next. In 1913, an engineer named Charles Inglis worked out how the pull crowds at the tip. In 1920, an English engineer named Alan Arnold Griffith showed that very thin glass threads are far stronger, for their size, than thick glass rods. Thin threads have fewer hidden cracks. This is why we must check strips for tiny nicks before a strength test.",
+   "description": "Try to tear a crisp packet from its smooth top. It is hard. Now find the little notch that says 'tear here'. It rips easily. Here is why. When you pull a strip, the pull is shared across the whole width. A crack leaves less material to share it. Worse, the pull crowds together at the sharp tip of the crack, like water rushing through a narrow gap. So the tip breaks first, then the next bit, then the next. In 1913, a Cambridge engineer named Charles Inglis worked out how the pull crowds around a hole. The sharper the end of the hole, the more the pull crowds there. In 1920, an English engineer named Alan Arnold Griffith tested thin glass threads. The thinnest were far stronger, for their size, than thick glass rods. His answer was that all glass has tiny hidden cracks. A thin thread has room for fewer of them. This is why we must check strips for tiny nicks before a strength test.",
    "examples": [
     "A 'tear here' notch on a packet of biscuits or milk.",
-    "A paper strip with a tiny cut at its edge tears with far fewer coins.",
+    "A paper strip with a tiny cut at its edge tears with fewer coins, and it tears from the cut.",
     "Engineers drill a small round hole at the end of a crack in metal. A round end stops the pull from crowding at a sharp tip."
    ],
    "perspectives": [],
@@ -376,7 +376,7 @@
    "concept": "Hard is not the same as strong",
    "status": "defined",
    "definition": "Hardness is how well a material resists being scratched. Strength is how much pull or weight it takes before it breaks. A material can be very hard but break easily.",
-   "description": "To test hardness, scientists use a scratch test. A harder material scratches a softer one, never the other way round. In 1812, a German scientist named Friedrich Mohs put ten minerals in order of hardness. Talc is the softest, and diamond is the hardest. Your fingernail can scratch chalk and soap. A steel key can scratch your fingernail. Glass is harder than a steel key. But glass shatters if you drop it. It is hard, but it is brittle, which means it breaks without bending. Rubber is soft and easy to dent, but it is very hard to snap. So we need different tests for different properties. The unit on sorting materials has a Scratch Ladder activity, which puts things in order of hardness.",
+   "description": "To test hardness, scientists use a scratch test. A harder material scratches a softer one, never the other way round. In 1812, a German scientist named Friedrich Mohs put ten minerals in order of hardness. Talc is the softest, and diamond is the hardest. Your fingernail can scratch chalk and soap. A metal key can scratch your fingernail. Most keys cannot scratch a window pane, so glass is harder still. But glass shatters if you drop it. It is hard, but it is brittle, which means it breaks without bending. Rubber is soft and easy to dent, but it is very hard to snap. So we need different tests for different properties. The unit on sorting materials has a Scratch Ladder activity, which puts things in order of hardness.",
    "examples": [
     "A fingernail scratches a bar of soap. Soap cannot scratch a fingernail.",
     "A diamond can scratch glass. Glass cannot scratch a diamond.",
@@ -415,7 +415,7 @@
    "concept": "Testing without breaking: the tap test",
    "status": "defined",
    "definition": "Some tests break the thing you test, like pulling a strip until it tears. Other tests check a thing without harming it. These are called non-destructive tests.",
-   "description": "You cannot test every bridge by breaking it. So engineers also check things gently. The oldest gentle test is tapping. A whole pot rings clearly when you tap it. A cracked pot sounds dull and buzzy, because the crack stops the pot vibrating as one piece. Potters have used this test for thousands of years. Railways in Britain and India once had workers called wheel tappers. At stations, they walked along trains, tapping each wheel with a long hammer. A clear ring meant a sound wheel. Today, engineers send sound too high for us to hear into train rails and aeroplane parts. Echoes from inside show hidden cracks. Doctors use the same idea, ultrasound, to see a baby inside its mother.",
+   "description": "You cannot test every bridge by breaking it. So engineers also check things gently. The oldest gentle test is tapping. A whole pot rings clearly when you tap it. A cracked pot sounds dull and buzzy, because the crack stops the pot vibrating as one piece. Potters have used this test for thousands of years. Many railways, in Britain and elsewhere, once had workers called wheel tappers. At stations, they walked along trains, tapping each wheel with a long hammer. A clear ring meant a sound wheel. Today, engineers send sound too high for us to hear into train rails and aeroplane parts. Echoes from inside show hidden cracks. Doctors use the same idea, ultrasound, to see a baby inside its mother.",
    "examples": [
     "A potter taps a new pot with a knuckle and listens for a clear ring.",
     "A coconut seller taps and shakes a coconut to judge how much water is inside.",
@@ -429,7 +429,7 @@
    "concept": "Why materials hold together at all",
    "status": "defined",
    "definition": "Every material is made of atoms. Neighbouring atoms pull on each other with electric force. To tear or snap a material, you must pull those atoms apart.",
-   "description": "Zoom into a paper strip, far past anything you can see. Paper is made of fibres. Each fibre is made of long chains of atoms. Neighbouring chains stick to each other, and fibres stick where they cross. When you hang coins on the strip, the pull spreads through all these links. A strip tears when enough links break at once. In steel, the atoms are packed in neat rows. Each holds tight to all its neighbours, so steel is very strong. In tissue paper, there are few fibres and few links, so it tears easily. Strength is really the number and grip of tiny links between atoms.",
+   "description": "Zoom into a paper strip, far past anything you can see. Paper is made of fibres. Each fibre is made of long chains of atoms. Neighbouring chains stick to each other, and fibres stick where they cross. When you hang coins on the strip, the pull spreads through all these links. A strip tears when enough links break at once. In steel, the atoms are packed in neat rows. Each holds tight to all its neighbours, so steel is very strong. In tissue paper, there are few fibres and few links, so it tears easily. Strength comes from the number and grip of these tiny links, and from where links are missing.",
    "examples": [
     "Wet paper is much weaker than dry paper. Water slips between the fibres and loosens their grip on each other.",
     "A cotton thread is made of many short fibres twisted together. The twist makes them grip each other."
@@ -513,7 +513,7 @@
    "claim": "If an advert says a product is the strongest, it must be true.",
    "who": "Many adverts on television and on packets",
    "for": "Companies do test their products. In India, false claims in adverts can be reported and stopped.",
-   "against": "An advert does not show how the test was done, or what it was compared with. Was it fair? Was it repeated? A claim is only as good as the test behind it. A London engineer called David Kirkaldy, who tested materials for a living from 1866, carved his motto over his door: 'Facts not opinions'.",
+   "against": "An advert does not show how the test was done, or what it was compared with. Was it fair? Was it repeated? A claim is only as good as the test behind it. David Kirkaldy, a Scottish engineer, ran a materials testing works in London from 1866. Over its door he put the words 'Facts not opinions'.",
    "status": "rejected",
    "context": "This card is about the claims we see in adverts, and how a fair test can check them."
   },
@@ -521,7 +521,7 @@
    "claim": "Every piece of the same material is equally strong.",
    "who": "A common idea, and the idea most engineers worked with until about 1920",
    "for": "Pieces from the same factory look the same, and their strengths are often close.",
-   "against": "Every piece has its own hidden flaws, and it breaks at the worst one. Three strips from one napkin hold different numbers of coins. Alan Arnold Griffith showed in 1920 that hidden cracks set the strength of glass, and Waloddi Weibull worked out the maths of the spread in 1939.",
+   "against": "Every piece has its own hidden flaws, and it breaks at the worst one. Three strips from one napkin usually hold different numbers of coins. In 1920, Alan Arnold Griffith showed that hidden cracks set the strength of glass. In 1939, Waloddi Weibull worked out the maths of the spread.",
    "status": "rejected",
    "context": "This card is about whether 'the strength of steel' or 'the strength of paper' is one fixed number."
   },
@@ -529,7 +529,7 @@
    "claim": "If a material passes a test, it will behave the same way in real use.",
    "who": "A common hope, and the reason tests are made to copy real use",
    "for": "Good tests are designed to be like the real job, and they catch most problems. Helmets, ropes and wings are all tested this way.",
-   "against": "A test answers only the question it asks. During the Second World War, the steel of some welded ships had passed tests that pulled smooth bars at ordinary temperatures. In icy seas, the same steel turned brittle, and cracks started at sharp corners. Constance Tipper, a scientist at Cambridge, showed this, and her test for brittle steel was named after her.",
+   "against": "A test answers only the question it asks. In the Second World War, some welded ships were built of steel that passed the usual tests. Those tests pulled smooth bars at room temperature. In icy seas, the same steel turned brittle, and cracks started at sharp corners. Constance Tipper, a scientist at Cambridge, showed why the steel turned brittle in the cold. A test for brittle steel, the Tipper test, is named after her.",
    "status": "debated",
    "context": "This card is about the gap between a test and real life. A kitchen towel is used wet, and an umbrella meets wind as well as rain."
   },
@@ -537,7 +537,7 @@
    "claim": "A hard material is always a strong material.",
    "who": "A common idea",
    "for": "Many hard things, like stone and steel, are also strong.",
-   "against": "Glass is harder than steel in a scratch test, but it shatters when dropped. Rubber is soft, but very hard to snap. Hardness and strength are different properties, so they need different tests.",
+   "against": "Glass is harder than a metal key in a scratch test, but it shatters when dropped. Rubber is soft, but very hard to snap. Hardness and strength are different properties, so they need different tests.",
    "status": "rejected",
    "context": "This card is about mixing up two different properties: being hard and being strong."
   },
@@ -545,7 +545,7 @@
    "claim": "Real testing only happens in big laboratories with expensive machines.",
    "who": "A common idea",
    "for": "Big testing machines can pull a steel bar with a force far stronger than any person could.",
-   "against": "Agnes Pockels, a German woman who was not allowed to go to university, ran careful fair tests in her kitchen in the 1880s. Her results were printed in the famous science journal Nature in 1891. Many good tests need only care, patience and a table.",
+   "against": "Agnes Pockels was not allowed to go to university, because she was a woman. In the 1880s, she ran careful fair tests in her kitchen in Germany. Her results were printed in the famous science journal Nature in 1891. Many good tests need only care, patience and a table.",
    "status": "rejected",
    "context": "This card is about where real science happens, and who is allowed to do it."
   }
@@ -599,7 +599,7 @@
   {
    "q": "Is a crack a thing, or a place where a thing is missing? Can something that is missing change what happens?",
    "kind": "big",
-   "hint": "One pinhole let rain through a perfect cloth. Zero is a number that stands for nothing, yet it changes every sum it is in."
+   "hint": "One pinhole let rain through a cloth that was waterproof everywhere else. What was at the pinhole?"
   },
   {
    "q": "The strongest material might be inside a dead star that no one can ever touch. Can we really know something we can never test?",
@@ -613,17 +613,17 @@
   }
  ],
  "how_we_found_out": {
-  "story": "For a long time, engineers believed that strength lives in the stuff. Every rod of the same glass should break at about the same load, and a thicker rod should simply hold more. But the numbers did not fit. From how hard atoms grip each other, glass should have been many times stronger than any real piece ever was. In 1913, Charles Inglis, an engineer who studied ships, showed that the pull crowds at the tip of a sharp crack. In 1920, Alan Arnold Griffith, an English engineer at the Royal Aircraft Establishment in Farnborough, tested glass himself. He drew it into threads, thinner and thinner. The thinnest threads were many times stronger for their size than thick rods. His answer: real glass is full of tiny cracks, too small to see, and it breaks at the worst one. A thin thread has less room for cracks. For years, few engineers used his idea. Then, in the Second World War, some welded steel ships cracked in two, one while tied up in harbour. Constance Tipper, a scientist at Cambridge, showed that their steel turned brittle in the cold, and that the cracks started at sharp corners. Cracks became a science at last.",
+  "story": "For a long time, engineers believed that strength lives in the stuff. Every rod of the same glass should break at about the same load. But atoms grip each other so hard that glass should be many times stronger than any real piece. In 1913, Charles Inglis, an engineer at Cambridge, worked out how the pull crowds around a hole in a plate. The sharper the hole's ends, the more it crowds. In 1920, Alan Arnold Griffith, an English engineer at Farnborough, drew glass into thinner and thinner threads. The thinnest were many times stronger for their size than thick rods. His answer: real glass is full of tiny cracks, and it breaks at the worst one. A thin thread has room for fewer. For years, few engineers used his idea. Then, in the Second World War, some of America's welded Liberty ships cracked, and a few broke in two. The cracks often began at sharp corners, such as hatch corners. Constance Tipper, a scientist at Cambridge, showed why. Below a certain temperature, that steel turned brittle, like glass. After the war, George Irwin and others built these ideas into a science of cracks, called fracture mechanics.",
   "who": "Charles Inglis (1913), Alan Arnold Griffith (1920) and Constance Tipper (1940s)",
   "when": "1913 to the 1950s",
-  "wrong_idea": "That strength lives in the stuff itself: every piece of the same glass or steel is about equally strong, and a thicker piece is stronger in step with its size. Griffith's thin glass threads were far stronger for their size than thick rods, which showed that hidden cracks, not the stuff, set the breaking load.",
+  "wrong_idea": "That strength lives in the stuff itself. People thought every piece of the same glass or steel was about equally strong. A thicker rod should hold more, in step with its size. Griffith's thin glass threads were far stronger for their size than thick rods. That showed that hidden cracks, not the stuff alone, set the breaking load.",
   "art": "An engineer in a 1920s laboratory drawing a glowing glass rod into a long, hair-thin thread over a small flame, a row of thick glass rods on the bench beside him."
  },
  "story": {
   "title": "The Button on the Water",
   "mins": 12,
   "read_aloud": true,
-  "note": "Agnes Pockels (1862 to 1935) is real. She lived in Braunschweig, Germany, could not go to university because she was a woman, looked after her ill parents, and tested the skin of water at home with a tray, a sliding tin strip and a small balance that lifted a button. Her brother Friedrich (Fritz) studied physics and sent her books. Her letter to Lord Rayleigh in January 1891 was printed in Nature in March 1891. She received an honorary doctorate in 1932, the year Irving Langmuir won the Nobel Prize for related work. The jumping numbers, the onions, the open window and her exact feelings are imagined.",
+  "note": "Agnes Pockels (1862 to 1935) is real. She lived in Braunschweig, Germany. She could not go to university because she was a woman, and she looked after her ill parents. She tested the skin of water at home with a tray, a sliding tin strip and a small balance that lifted a button. Her brother Friedrich (Fritz) studied physics and sent her books. Her letter to Lord Rayleigh in January 1891 was printed in Nature in March 1891. She received an honorary doctorate in 1932, the year Irving Langmuir won the Nobel Prize for related work. The jumping numbers, the onions, the open window and her exact feelings are imagined.",
   "text": [
    "In the town of Braunschweig, in Germany, about 140 years ago, there was a kitchen with a window that looked out on a grey street. In that kitchen, every evening, a young woman named Agnes Pockels washed the dishes.",
    "Agnes was clever, and she loved science more than almost anything. But in Germany at that time, women were not allowed to study at a university. Her younger brother, Fritz, went away to study physics. Agnes stayed at home. Her mother and father were often ill, and somebody had to look after them. So Agnes cooked, and cleaned, and washed the dishes.",
@@ -644,7 +644,7 @@
    "Years later, other scientists worked out what her squeezed oil films really were. They were layers of oil just one molecule thick. A woman at a kitchen sink had measured something far too thin for any microscope of her time to see.",
    "In 1932, when Agnes was seventy years old, the university in Braunschweig gave her an honorary doctorate. That same year, an American scientist named Irving Langmuir won the Nobel Prize, for work that grew from a tray very like hers. Agnes never won a Nobel Prize. But her notebook is remembered. In its early pages, the numbers jump about. Then, on one page, they stand still."
   ],
-  "epiphany": "For the parent: Agnes's numbers jump about because, without noticing, she changes many things at once: soap, onion fingers, dust. The turn comes when she stops blaming herself and asks 'what is different each time?' She keeps everything the same except one thing, and her repeated results agree. Only then can she test oil, soap and squeezing one at a time and write a meaningful table. That is a fair test and reliable, repeated results. The story also quietly asks who is allowed to do science, and who gets the prize.",
+  "epiphany": "Agnes's numbers jump about because, without noticing, she changes many things at once: soap, onion fingers, dust. The turn comes when she stops blaming herself and asks 'what is different each time?' She keeps everything the same except one thing, and her repeated results agree. Only then can she test oil, soap and squeezing one at a time and write a meaningful table. That is a fair test and reliable, repeated results. The story also quietly asks who is allowed to do science, and who gets the prize.",
   "ask": [
    "At first, Agnes's numbers kept jumping about. What was really causing that?",
    "What did Agnes do to make every test the same? Name three things.",
@@ -1412,7 +1412,7 @@
      "t": "truefalse",
      "p": "Glass is very hard, so it never breaks.",
      "a": false,
-     "why": "False. Glass is harder than steel in a scratch test, but it is brittle. It shatters when dropped. Hard and strong are different properties."
+     "why": "False. Glass is harder than a metal key in a scratch test, but it is brittle. It shatters when dropped. Hard and strong are different properties."
     },
     {
      "t": "mcq",
@@ -1608,7 +1608,7 @@
       "Because the law says bridges must be heavy"
      ],
      "a": 1,
-     "why": "Tests show that two pieces of the same material are never exactly the same, and that cracks grow over time. So engineers add a big safety margin. Picking 'cheaper' is wrong: extra strength costs more material and more money."
+     "why": "Tests show that pieces of the same material vary in strength, and that cracks can grow over time. So engineers add a big safety margin. Picking 'cheaper' is wrong: extra strength costs more material and more money."
     },
     {
      "t": "write",
@@ -1676,7 +1676,7 @@
    "days": 1,
    "question": "Your umbrella has a tear. Which of four old cloths at home would make the best patch, letting the least rain through?",
    "predict": "Feel each cloth and hold it up to the light. Put the four in a line, from the one you think will let the least rain through to the one that will let the most through. Then say why you put your first one first. What did you notice that made you choose it?",
-   "fair_test": "You plan this yourself, before testing. A fair plan changes only the cloth. It keeps the same: the size of the patch, the tumbler, how tight the patch is, the amount of rain (20 ml), the height the rain falls from (10 cm) and the waiting time (4 minutes from the start of the rain). It measures the water that comes through into the tumbler, in millilitres. Each cloth is tested three times, with a fresh dry patch and a dry tumbler each time.",
+   "fair_test": "You plan this yourself, before testing. A fair plan changes only the cloth. It keeps the patch size, the tumbler and how tight the patch is the same. It also keeps the amount of rain (20 ml) and the height it falls from (10 cm) the same. Every patch waits 4 minutes from the start of its rain. The plan measures the water that comes through into the tumbler, in millilitres. Each cloth is tested three times, with a fresh dry patch and a dry tumbler each time.",
    "results_table": [
     "Cloth",
     "Try 1: water through (ml)",
@@ -1788,10 +1788,10 @@
      "id": "s3",
      "mins": 4,
      "adult": true,
-     "do": "1. A grown-up pushes a drawing pin through the bottle cap in 4 places, to make 4 small holes. 2. They make one more hole in the side, about 4 cm up from the bottom, to let air in. 3. Measure 20 ml of water in the medicine cup and pour it into the bottle. 4. Screw on the cap. 5. Keep a finger over the air hole. 6. Practise once over the sink: turn the bottle upside down, hold it 10 cm up, and take your finger off.",
+     "do": "1. A grown-up pushes a drawing pin through the bottle cap in 4 places, to make 4 small holes. 2. They make one more hole in the side, about 4 cm up from the bottom, to let air in. 3. Measure 20 ml of water in the medicine cup and pour it into the bottle. 4. Screw on the cap. 5. Keep a finger over the air hole. 6. Practise once over the medicine cup: turn the bottle upside down, hold it 10 cm up, and take your finger off. 7. Before the test, measure 20 ml into each of four small cups, so you can refill the bottle quickly.",
      "say": "This is our rain bottle. Every patch gets the same 20 ml of rain, from the same height. Why do you think the air hole matters?",
-     "kid": "Ask a grown-up to make the rain bottle. Put 20 ml of water in it. Keep a finger on the air hole. Practise over the sink.",
-     "parent": "With your finger on the air hole, the water stops. Take it off and the rain falls in drops. 20 ml should drip out in about 30 to 60 seconds. If it is slower, make the holes a little bigger. Don't squeeze the bottle, because squeezing one more than another is a change. No bottle? Drip the 20 ml from a teaspoon, 4 spoonfuls, from 10 cm."
+     "kid": "Ask a grown-up to make the rain bottle. Put 20 ml of water in it. Keep a finger on the air hole. Practise over the medicine cup.",
+     "parent": "With your finger on the air hole, the water stops, or nearly stops. Take it off and the rain falls in drops. Nearly all 20 ml should drip into the cup in under a minute. If it is slower, or water stays stuck in the bottle, make the holes a little bigger. Don't squeeze the bottle, because squeezing one more than another is a change. No bottle? Drip the 20 ml from a teaspoon, 4 spoonfuls, from 10 cm."
     },
     {
      "id": "s4",
@@ -1817,7 +1817,7 @@
        ]
       }
      ],
-     "parent": "The one-minute steps mean every patch waits exactly 4 minutes after its own rain. Ask your child to bend down so their eyes are level with the water when they read the cup. Reading from above gives a wrong number.",
+     "parent": "The one-minute steps mean every patch waits exactly 4 minutes after its own rain. If your bottle takes longer than a minute, use two-minute steps. Rain at minutes 0, 2, 4 and 6, and lift each patch 5 minutes after its rain. Every patch still waits the same time, and that is what keeps it fair. Ask your child to bend down so their eyes are level with the water when they read the cup. Reading from above gives a wrong number.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1876,7 +1876,8 @@
       ],
       "a": 1,
       "why": "The 6 is an odd result. Perhaps that square was cut from a part where the knitting was tighter, or the patch was stretched more. In order the tries are 6, 14, 15, so the middle value is 14. One odd try cannot pull it far. Picking 'add them together' gives a total, which is not the result for one patch."
-     }
+     },
+     "parent": "If the three tries for one cloth are far apart, look for the cause. A loose patch, a splash over the edge or a missed drop can do it. Fix it and do one more try. If two cloths give almost the same numbers, this test cannot tell them apart. Say so. That is an honest result too."
     },
     {
      "id": "s7",
@@ -1941,7 +1942,7 @@
        ]
       }
      ],
-     "parent": "Usually the whole square stays dry underneath except for one spot, where drops form under the hole. Often 1 to 3 ml come through. The cloth is still perfect everywhere else. One missing spot decides. Keep this in mind for the Roots card."
+     "parent": "Usually the square stays dry underneath except under the hole, where drops form. Often 1 to 3 ml come through. If nothing comes through, the hole may be too tiny for the water to push in. Make it a little bigger with the pin and test again. The cloth is still waterproof everywhere else. One missing spot decides where the rain gets in. Keep this in mind for the Roots card."
     },
     {
      "id": "s9",
@@ -1949,7 +1950,7 @@
      "do": "1. Ask your child to write three sentences: what I think, what I saw, and why. 2. Then look at the thickest cloth and the thinnest cloth through the magnifying glass, or against the window.",
      "say": "Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened. Then look closely at the cloths again. Do you see anything new?",
      "kid": "Write three sentences. What I think. What I saw. Why it happened. Then look at the cloths with a magnifier. What do you see now?",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good, even if the guess was wrong. A good answer sounds like this. What I think: old jeans make the best patch of our four cloths. What I saw: only about 3 ml came through the jeans, and about 14 ml through the sweater, even though the sweater is thick. Why: the jeans' threads are packed tight, so the gaps are tiny. The sweater is knitted in loops, with big holes between them. Water goes through the biggest gaps first.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good, even if the guess was wrong. A good answer sounds like this. What I think: old jeans make the best patch of our four cloths. What I saw: only about 3 ml came through the jeans. About 14 ml came through the sweater, even though it is thick. Why: the jeans' threads are packed tight, so the gaps are tiny. The sweater is knitted in loops, with big holes between them. Water goes through the biggest gaps first.",
      "think": "The thick sweater may have let more rain through than the thin dupatta. What might matter more than thickness?"
     }
    ],
@@ -2008,7 +2009,7 @@
    "days": 1,
    "question": "Which thin paper makes the strongest strip? And what does one tiny cut do to its strength?",
    "predict": "Before you test, feel each paper. Put them in a line, from the one you think will hold the most coins to the one that will hold the fewest, and say why. Then guess: will a strip with a tiny cut hold more, the same or fewer coins? Why do you think so?",
-   "fair_test": "Change only the paper. Keep everything else the same: every strip 2 cm wide and 15 cm long, taped the same way, the same bag, and only one-rupee coins, placed gently one at a time. Measure how many coins the strip holds before it tears. Test each paper three times. Check every strip for nicks before you start.",
+   "fair_test": "Change only the paper. Keep everything else the same. Every strip is 2 cm wide and 15 cm long, and taped the same way. Use the same bag, and one-rupee coins of the same design, placed gently one at a time. One-rupee coins from different years weigh different amounts. Measure how many coins the strip holds before it tears. Test each paper three times. Check every strip for nicks before you start.",
    "results_table": [
     "Paper",
     "Try 1: coins held",
@@ -2102,7 +2103,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Take a fresh kitchen towel strip. 2. Make one tiny cut, about 3 millimetres long, at one edge, halfway down. 3. Test it, three times.",
+     "do": "1. Take a fresh kitchen towel strip. 2. Make one small cut, about 5 millimetres long, at one edge, halfway down. 3. Test it, three times.",
      "say": "Now, the same paper, with one tiny cut. Guess first. Will it hold the same, or fewer? Why do you think so?",
      "kid": "Make one tiny cut at the edge of a kitchen towel strip. Guess first, and say why. Then test it. Did the tiny cut matter?",
      "ask": [
@@ -2114,7 +2115,7 @@
        ]
       }
      ],
-     "parent": "The cut strip usually holds far fewer coins, often less than half. The pull crowds at the sharp tip of the cut. This is why we checked all strips for nicks.",
+     "parent": "The cut strip usually holds fewer coins, and it tears from the cut. How many fewer depends on the paper. The pull crowds at the sharp tip of the cut. This is why we checked all strips for nicks.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: kitchen towel strips with and without a tiny cut",
@@ -2176,7 +2177,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened.",
      "kid": "Write three sentences. What I think. What I saw. Why it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: kitchen towel makes the strongest strip, and a tiny cut makes a strip much weaker. What I saw: kitchen towel held about 60 coins, toilet paper only about 15. The kitchen towel with a cut held only about 20. Why: kitchen towel has more fibres gripping each other. At a cut, all the pull crowds at one point, so it tears from there."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: kitchen towel makes the strongest strip, and a tiny cut makes a strip much weaker. What I saw: kitchen towel held about 60 coins, toilet paper only about 15. The kitchen towel with a cut held only about 40. Why: kitchen towel has more fibres gripping each other. At a cut, all the pull crowds at one point, so it tears from there."
     }
    ],
    "context": "This is the strip strength test. You hang a little bag from a strip of thin paper and add one-rupee coins, one at a time, until the strip tears. Then you see what one tiny cut does.",
@@ -2230,7 +2231,7 @@
    "days": 1,
    "question": "Strips cut from the same paper napkin: does a 4 cm strip hold twice as many coins as a 2 cm strip? And do strips of the same size all hold the same?",
    "predict": "Guess first, and say why. If a 2 cm strip holds 20 coins, how many will a 4 cm strip hold? And will three 2 cm strips from the same napkin all hold exactly the same number? Why do you think so?",
-   "fair_test": "This time, the thing we change is not the paper. It is the width of the strip. Keep everything else the same: the same napkin, one layer, strips 15 cm long, taped the same way, the same bag, and one-rupee coins placed gently one at a time. Measure how many coins each strip holds before it tears. Test three strips of each width.",
+   "fair_test": "This time, the thing we change is not the paper. It is the width of the strip. Keep everything else the same: the same napkin, one layer, and strips 15 cm long. Tape them the same way, use the same bag, and place one-rupee coins gently, one at a time. Measure how many coins each strip holds before it tears. Test three strips of each width.",
    "results_table": [
     "Strip",
     "Try 1: coins held",
@@ -2738,7 +2739,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Ask family members for one long hair each. 2. Cut each one to 20 cm, using the ruler. 3. Tape the top of the hair under a heavy book at the edge of the table. 4. Tie the bottom of the hair in a tight knot around the paper clip hook. 5. Hang the cup on the hook.",
-     "say": "One single hair. How many coins do you think it can hold? Guess first.",
+     "say": "One single hair. How many coins do you think it can hold? Guess first, and tell me why.",
      "kid": "Take one hair. Cut it to 20 cm. Tape the top under a book. Tie the bottom to a paper clip hook. Hang the cup on it. Guess: how many coins?",
      "context": "This is the first step of the One Hair Test. You find out how many one-rupee coins a single hair can hold before it snaps."
     },
@@ -2748,7 +2749,7 @@
      "do": "1. Add coins one at a time, gently. 2. Count until the hair snaps. 3. Write the number. 4. Repeat with a second and third hair from the same person if they agree. 5. Then test the other family members' hairs the same way.",
      "say": "Gently, one at a time. What makes this test fair? What must be the same for every hair?",
      "kid": "Add coins one at a time. Count until it snaps. Write it down. Test each person's hair the same way.",
-     "parent": "Many hairs hold between 10 and 25 one-rupee coins, which is roughly 40 to 100 grams. If the hair slips out of the knot instead of snapping, that try is an odd result. Tie it again and repeat.",
+     "parent": "Many hairs hold between 10 and 25 one-rupee coins, which is roughly 30 to 120 grams, depending on the coins. If the hair slips out of the knot instead of snapping, that try is an odd result. Tie it again and repeat.",
      "chart": {
       "type": "table",
       "title": "Made-up example results: one hair, 20 cm long",
@@ -2865,7 +2866,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Set the alarm phone to ring with a steady sound at a gentle volume. 2. Put it on a table under the upturned bowl. 3. Put the second phone, with the sound meter app, on the table exactly 1 metre away. 4. Measure with nothing over the bowl. Write the number.",
-     "say": "A sound meter app shows a number for how loud a sound is. The unit is called the decibel. A bigger number means a louder sound. First we measure with no cover at all.",
+     "say": "A sound meter app shows a number for how loud a sound is. The unit is called the decibel. A bigger number means a louder sound. First we measure with no cover at all. Which cover do you think will hush it most? Why?",
      "kid": "Put the alarm under the bowl. Put the sound meter phone 1 metre away. Read the number. A bigger number means louder.",
      "context": "This is the first step of the Muffle Test. You cover a ringing alarm with different materials and measure how loud it still sounds, to find which material swallows sound best."
     },
@@ -2996,7 +2997,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Stand the ruler upright beside the first material. 2. Measure how thick it is, in centimetres. 3. Write it down.",
-     "say": "First we measure how thick each thing is, before we squash it.",
+     "say": "First we measure how thick each thing is, before we squash it. Which ones do you think will spring back? Why?",
      "kid": "Stand the ruler beside the sponge. How thick is it? Write it down.",
      "context": "This is the first step of the Squash Test. You squash different materials under the same heavy books, and measure whether they spring back."
     },
@@ -3202,7 +3203,7 @@
        "Anywhere, by chance"
       ],
       "a": 0,
-      "why": "At a knot, the hair is bent sharply round itself. The outside of each bend is stretched more than the rest of the hair, so the pull crowds there, like at the tip of a cut. The knot becomes the weakest spot. 'Anywhere, by chance' is what happens with plain hairs, which break at their own hidden weak spots."
+      "why": "At a knot, the hair is bent sharply round itself. The outside of each bend is stretched more than the rest of the hair. So the pull crowds there, like at the tip of a cut. The knot becomes the weakest spot. 'Anywhere, by chance' is what happens with plain hairs, which break at their own hidden weak spots."
      }
     },
     {
@@ -3272,7 +3273,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Hang each cup from a finger by its handle, or hold each pot gently. 2. Tap it with the spoon. 3. Listen to the ring.",
-     "say": "Close your eyes and listen. Which one rings clearly? Which one sounds dull or buzzy?",
+     "say": "Before you tap, guess. Which cup will ring clearly, and why? Now close your eyes and listen. Which one rings clearly? Which one sounds dull or buzzy?",
      "kid": "Close your eyes. Tap each cup gently with a spoon. Which one rings? Which one buzzes?",
      "context": "This is the first step of Tap and Bend. First you test cups and pots by tapping them, which does not harm them. Then you test paper clips by bending them until they break."
     },
@@ -3804,14 +3805,14 @@
   },
   {
    "t": "mcq",
-   "p": "A square of umbrella cloth let no rain through at all. Then a pin made one tiny hole in it. What happens now?",
+   "p": "A square of umbrella cloth let no rain through at all. Then a pin made one tiny hole in it, and it was tested again. Where did the rain come through?",
    "opts": [
-    "Still no rain comes through, because the hole is so small",
-    "Rain comes through, and only at the hole",
-    "Rain soaks through the whole cloth"
+    "Nowhere, because the hole is so small",
+    "Only at the hole",
+    "All over the cloth"
    ],
    "a": 1,
-   "why": "The rest of the cloth is still waterproof, but the hole is a gap, and the rain finds it. Drops form under the hole and fall. Picking 'the hole is too small' is a common guess. But water molecules are far, far smaller than any pinhole.",
+   "why": "The rest of the cloth is still waterproof, but the hole is a gap. Drops form under the hole and fall. Picking 'nowhere' is a fair guess. A very tiny hole can hold water back for a while, but falling rain pushes water through it. Picking 'all over' forgets that the rest of the cloth has not changed.",
    "outcome": 5,
    "context": "This question is about the umbrella patch test. You stretch squares of old cloth over steel tumblers, let 20 ml of 'rain' drip onto each one, and after 4 minutes measure how much water came through.",
    "how": "e1"
@@ -3967,7 +3968,7 @@
   },
   {
    "t": "mcq",
-   "p": "A paper strip with a tiny cut held far fewer coins. Why?",
+   "p": "A paper strip with a small cut held fewer coins. Why?",
    "opts": [
     "The pull gathered at the sharp tip of the cut",
     "The cut made the paper wet",
@@ -4069,7 +4070,7 @@
   "Ropes for climbing, fishing and boats are tested until sample pieces break, so the rest can be trusted.",
   "Kitchen towels, nappies and sanitary pads are tested for how much they soak up.",
   "Cricket balls, bats and helmets are tested for hardness and strength.",
-  "Doctors test new bone screws and hip joints by bending them millions of times in machines.",
+  "Engineers test new bone screws and hip joints by loading them millions of times in machines.",
   "Rail engineers check tracks and wheels for hidden cracks using ultrasound.",
   "Potters tap pots, and builders tap tiles, to hear hidden cracks.",
   "Consumer scientists test things people buy, like soaps and towels, to check the claims on the packets.",
@@ -4290,7 +4291,7 @@
    "why_maths": "Three tries give three numbers, but we need one number for each paper. Putting them in order and taking the middle one gives a fair single result that one fluke cannot spoil."
   },
   {
-   "problem": "In the umbrella patch test, the middle values for rain that came through were: cotton hanky 12 ml, old jeans 3 ml, polyester dupatta 8 ml, woollen sweater 14 ml. Draw a bar chart. The sweater was the thickest cloth. Does the chart show that thick cloth keeps rain out best? What else could explain it?",
+   "problem": "Here are some made-up results from the umbrella patch test. The middle values for rain that came through were: cotton hanky 12 ml, old jeans 3 ml, polyester dupatta 8 ml, woollen sweater 14 ml. Draw a bar chart. The sweater was the thickest cloth. Does the chart show that thick cloth keeps rain out best? What else could explain it?",
    "answer": "No. The thickest cloth let the most rain through. Here is the bar chart. Something other than thickness must matter, such as the size of the gaps between the threads.",
    "explain": "Draw one bar for each cloth, as tall as its number. The tallest bar is the sweater, at 14 ml, and the shortest is the jeans, at 3 ml. If thick always meant waterproof, the sweater's bar would be the shortest. It is the tallest. So thickness is not the whole story. A knitted sweater has big holes between its loops. Jeans are woven tight.",
    "math_unit": "math.data.bar-charts.L3",
@@ -4336,7 +4337,7 @@
    "why_maths": "Tests are only useful if other people can repeat them and compare. Standard units like the millilitre let everyone measure the same way."
   },
   {
-   "problem": "In the width test, strips 1 cm wide held about 9 coins, and strips 2 cm wide held about 20. If the pattern keeps going, how many will 4 cm strips hold? Then the 4 cm strips held 44. Was the pattern right? Why might the 1 cm strips have held a little less than half of 20?",
+   "problem": "Here are some made-up results from a width test. Strips 1 cm wide held about 9 coins. Strips 2 cm wide held about 20. If the pattern keeps going, how many will 4 cm strips hold? Then the 4 cm strips held 44. Was the pattern right? Why might the 1 cm strips have held a little less than half of 20?",
    "answer": "The pattern predicts about 40 coins for 4 cm. The real middle value was 44, which is close. The 1 cm strips may have held less than half because their cut edges are a bigger part of them.",
    "explain": "Doubling the width roughly doubles the coins: 20 + 20 = 40. The test gave 44, so the pattern was close but not exact. When you cut a strip, the fibres at both edges are cut and weakened. In a 1 cm strip, those damaged edges are a big part of the strip. In a 4 cm strip, they are a small part. So narrow strips hold a little less than the pattern says.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -4666,16 +4667,16 @@
  "roots": {
   "context": "We have been testing cloths, paper and hair until rain got through or something tore. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A material is not as strong as its stuff. It is only as strong as its worst gap or crack. So no two pieces of the same stuff are equally strong.",
-   "habit": "We say 'paper is weak' and 'steel is strong', as if strength were spread evenly through the stuff and the same in every piece. But the grip between the atoms of glass or paper is far stronger than any real sheet ever is. Real things give way where that grip is missing, and every piece has its own missing spots, too small to see.",
-   "evidence": "Three strips cut from one napkin held 18, 24 and 21 coins. A strip with one 3 mm cut often held only about a third as many as a whole one. Rain came through a waterproof cloth only at one pinhole. A knotted hair broke at the knot. In 1920, Alan Arnold Griffith found that thin glass threads, with less room for cracks, were many times stronger for their size than thick glass rods."
+   "truth": "Each piece of a material gives way at its own weakest spot. So no test tells you exactly what the next piece will hold. It tells you how pieces like it usually behave, and how weak the weakest ones were.",
+   "habit": "We talk about 'the strength of paper' as if it were one number that every strip shares, so one good test would settle it. But each strip tears at its own weakest spot. So 'the strength of paper' is really a spread of results. For safety, the weakest result matters most.",
+   "evidence": "In the width test, same-size strips from one napkin held different numbers of coins and tore in different places. A strip with one small cut tore at the cut. In the towel-strip maths problem, the middle value was 58 coins, but one strip tore at 40. In 1920, Alan Arnold Griffith found that thin glass threads were many times stronger for their size than thick rods. They had room for fewer hidden cracks."
   },
   "three": {
    "who_am_i": "Your bones are not equally strong all through either. Every day your body finds tiny cracks in them and rebuilds those spots.",
    "what_is_life": "A stone cannot mend its cracks. A living body keeps finding its weak spots and mending them, all its life.",
-   "what_is_this_world": "One kind of grip holds every atom to its neighbours, in a cloth, a cup or a star. Things differ a lot in where that grip is broken."
+   "what_is_this_world": "One kind of grip holds every atom to its neighbours, in a cloth, a cup or a mountain. Much of what differs from piece to piece is where that grip is missing."
   },
-  "thread": "Underneath, one pull holds every material together: the electric grip between atoms. It is the same grip in cotton, steel and the hair on your head. DeepKids believes this is the One showing up as the many. In our tests, much of the difference between strong and weak, leaky and waterproof, came from where that one grip was missing: between the loops of a sweater, at the tip of a cut, at a knot. The many things we tested are one grip, each with its own pattern of gaps.",
+  "thread": "Underneath, one pull holds every material together: the electric grip between atoms. It is the same grip in cotton, steel and the hair on your head. DeepKids believes this is the One showing up as the many. In our tests, much of the difference between strong and weak, leaky and waterproof, came from where that grip was missing. It was missing between the loops of a sweater, at a pinhole and at the tip of a cut. The many things we tested are one grip, each with its own pattern of gaps.",
   "teachings": [
    {
     "source": "Kalama Sutta, Anguttara Nikaya 3.65 (Pali Canon)",
@@ -4683,14 +4684,9 @@
     "link": "This is the spirit of a fair test. We did not believe the shopkeeper, or even our own first guess. We tested, and let the rain decide."
    },
    {
-    "source": "Brahmagupta, Brahmasphutasiddhanta (628 CE), chapter 18, the rules for zero",
-    "teaching": "Brahmagupta was one of the first people to treat zero as a number in its own right, with its own rules. A number take away itself is zero. A number added to zero stays the same. Nothing became something you could count and calculate with.",
-    "link": "A pinhole and a crack are a kind of nothing: a place where cloth or paper is missing. Yet our tests showed that this nothing decides how much rain gets through and how many coins a strip holds."
-   },
-   {
     "source": "Tao Te Ching 45",
     "teaching": "The greatest perfection seems to have something missing, yet it never wears out in use. The greatest fullness seems empty, yet it is never used up.",
-    "link": "No real cloth, paper or steel is free of flaws. Engineers don't wait for a perfect material. They find out where the weak spots are, test, and build with room to spare."
+    "link": "No real cloth, paper or steel is free of flaws. Engineers don't wait for a perfect material. They test to find out how weak the weakest pieces are, and build with room to spare."
    }
   ],
   "science": [
@@ -4715,7 +4711,7 @@
   },
   "ask": [
    "Is a crack a thing, or a place where a thing is missing?",
-   "If no two strips of the same paper are equally strong, is there such a thing as 'the strength of paper'?",
+   "Strips of the same paper held different numbers of coins. Is there such a thing as 'the strength of paper'?",
    "Could anything have no weak spot at all? How would you ever test it?"
   ],
   "art": "A child holding a paper napkin up to a sunny window, its thin bright patches glowing, with a magnified circle showing tangled fibres and one gap between them."
@@ -4739,9 +4735,8 @@
    "Boeing 777 static wing load test, 1995 (wings failed at about 154 percent of design limit load)",
    "OpenStax University Physics Volume 1, 'Elasticity and Plasticity' (reference only, for facts)",
    "Inglis, C. E. Stresses in a plate due to the presence of cracks and sharp corners, Transactions of the Institution of Naval Architects, 1913",
-   "Weibull, W. A statistical theory of the strength of materials, Royal Swedish Institute for Engineering Research, 1939",
-   "Tipper, C. F. The Brittle Fracture Story, Cambridge University Press, 1962",
-   "Brahmagupta, Brahmasphutasiddhanta, 628 CE, chapter 18 (rules for zero)"
+   "Weibull, W. A statistical theory of the strength of materials, Ingeniörsvetenskapsakademiens Handlingar (Royal Swedish Academy of Engineering Sciences) 151, 1939",
+   "Tipper, C. F. The Brittle Fracture Story, Cambridge University Press, 1962"
   ]
  }
 }
