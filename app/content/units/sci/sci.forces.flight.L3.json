@@ -3,16 +3,16 @@
  "title": "How things fly: wings push air down, and the air pushes them up",
  "level": 3,
  "summary": {
-  "text": "This unit is about how things fly. Air is real stuff, even though we can't see it. Everything that flies stays up by pushing air downwards. The air then pushes it up. That upward push is called lift. The wind pushes a kite up and the string holds it in place. Paper planes and gliders slide slowly down the air. Birds flap to push air down and back, and some ride on rising warm air. Seeds float, glide and spin to travel far from their parent tree. Scientists agree on what lift does. But they still argue about the best simple way to explain it, and one famous explanation is wrong.",
+  "text": "A cheel can circle over a city for an hour, held up by air you cannot see. Air is a real material, and everything that flies with wings stays up by pushing air downwards. The air pushes back up on the wings, and that upward push is called lift. A kite uses the wind and its string, a paper plane sinks slowly as it moves forward, and a bird flaps or rides rising warm air. Seeds float, glide and spin, so the wind can carry them far from the parent tree. Scientists agree on what lift does, but they still argue about the best simple way to explain it, and one famous explanation is wrong.",
   "art": "A rooftop at sunset: a paper kite on a tight string, a black kite bird circling above it, a paper plane gliding past, and a winged mahogany seed spinning down, with faint arrows showing air being pushed downwards under each."
  },
  "intro": {
   "hook": "Hold a sheet of paper flat by two corners and drop it. Now crumple an identical sheet into a ball and drop it. Now fold a third sheet into a paper plane and throw it gently. Same paper. Why do they come down so differently?",
-  "text": "Look up on any sunny afternoon in an Indian city. You will probably see big brown birds circling high above, hardly flapping at all. They are black kites, called cheel in Hindi. They can hang in the sky for an hour. A crow beside them flaps and flaps. A paper kite on a string climbs only when the wind blows. A seed from a mahogany tree spins down like a tiny helicopter. All of them are doing the same thing in different ways. They are leaning on the air.",
+  "text": "Look up on any sunny afternoon in an Indian city. You will probably see big brown birds circling high above, hardly flapping at all. They are black kites, called cheel in Hindi. They can stay up for an hour. A crow beside them flaps and flaps. A paper kite on a string climbs only when the wind blows. A seed from a mahogany tree spins down like a tiny helicopter. A cheel weighs about as much as a big bag of sugar. So how can it stay up in air that you cannot even see?",
   "art": "A city sky with a cheel circling without flapping, a crow flapping hard, a patang on a string and a spinning winged seed, each with a question mark beside it."
  },
  "outcomes": [
-  "I can say that air is real stuff that pushes, and that everything that flies pushes on the air.",
+  "I can say that air is a real material that pushes, and that everything that flies pushes on the air.",
   "I can name the four forces on a flying thing: lift, weight, drag and thrust. I can draw them as arrows.",
   "I can explain that a wing or a kite stays up by pushing air downwards, so the air pushes it upwards.",
   "I can run a fair test on a paper plane or a paper spinner, measure it, and show my results in a table and a bar chart.",
@@ -24,7 +24,7 @@
  "terms": [
   {
    "term": "Air",
-   "meaning": "The invisible stuff all around us. It is made of countless tiny bits that move very fast and bump into everything.",
+   "meaning": "The invisible gas all around us. It is made of countless tiny particles, called molecules, that move very fast and bump into everything.",
    "example": "You feel air when a fan blows on you, or when you wave a notebook near your face.",
    "art": "A child waving a notebook, with little dots of air bouncing off it."
   },
@@ -60,7 +60,7 @@
   },
   {
    "term": "Drag",
-   "meaning": "The air pushing back against something moving through it. It slows things down. Drag is a kind of air resistance.",
+   "meaning": "The air pushing back against something moving through it. It slows things down. Drag is another name for air resistance.",
    "example": "Running with an open umbrella, you feel the air drag it back.",
    "art": "A child running with an umbrella, an arrow pointing backwards."
   },
@@ -102,7 +102,7 @@
   },
   {
    "term": "Balance point (centre of gravity)",
-   "meaning": "The point where a thing balances. Its weight acts as if it were all there. For a plane to fly steadily, this point must be a little forward of the middle.",
+   "meaning": "The point where a thing balances. Its weight acts as if it were all there. For a plane to fly steadily, this point must be a little in front of the middle of its wings.",
    "example": "Balance a paper plane on your fingertip. Where it balances is its balance point.",
    "art": "A paper plane balanced on one fingertip, a dot marking the point."
   },
@@ -114,7 +114,7 @@
   },
   {
    "term": "Air pressure",
-   "meaning": "How hard the air pushes on each bit of a surface. It comes from countless air bits bumping into the surface.",
+   "meaning": "How hard the air pushes on a surface. It comes from countless air molecules bumping into the surface.",
    "example": "Air pressure keeps a balloon blown up from the inside.",
    "art": "A balloon with tiny dots bouncing off the inside of its skin."
   },
@@ -133,7 +133,7 @@
   {
    "term": "Hollow bones",
    "meaning": "Many flying birds have bones with air spaces inside, held up by thin struts. They are light but strong.",
-   "example": "A chicken bone, broken open, shows a spongy inside. A flying bird's bones have even more air.",
+   "example": "A chicken leg bone from dinner is filled with soft marrow. A pigeon's wing bone is mostly air inside, crossed by thin struts.",
    "art": "A cut-open bird bone showing struts like a bridge inside."
   },
   {
@@ -157,10 +157,10 @@
  ],
  "explanations": [
   {
-   "concept": "Air is real stuff that pushes",
+   "concept": "Air is a real material that pushes",
    "status": "defined",
-   "definition": "Air is a real material, made of countless tiny moving bits. It takes up space, it has weight, and it pushes on everything it touches.",
-   "description": "We can't see air, so it is easy to think of it as nothing. But push a glass upside down into a bucket of water. A tissue stuck inside stays dry, because the air in the glass keeps the water out. Run with a big piece of cardboard held flat in front of you. You feel the air pushing back. Air even has weight. The air in a small bedroom weighs about 40 kilograms, as much as a ten-year-old child. Flying is only possible because air is real stuff. A wing has something to push on.",
+   "definition": "Air is a real material, made of countless tiny moving particles called molecules. It takes up space, it has weight, and it pushes on everything it touches.",
+   "description": "We can't see air, so it is easy to think of it as nothing. But push a glass upside down into a bucket of water. A tissue stuck inside stays dry, because the air in the glass keeps the water out. Run with a big piece of cardboard held flat in front of you. You feel the air pushing back. Air even has weight. The air in a small bedroom weighs about 40 kilograms, as much as a ten-year-old child. Flying is only possible because air is a real material. A wing has something to push on.",
    "examples": [
     "A tissue stuck inside an upside-down glass stays dry under water.",
     "A ceiling fan pushes air down, and you feel the breeze.",
@@ -168,13 +168,13 @@
    ],
    "perspectives": [],
    "art": "Three panels: a glass pushed upside down into a bucket with a dry tissue inside, a child running with cardboard held flat; a balloon with dots of air bouncing inside.",
-   "context": "This card explains the first idea of the whole unit. Air is not nothing. It is real stuff that a wing can push on."
+   "context": "This card explains the first idea of the whole unit. Air is a real material that a wing can push on."
   },
   {
    "concept": "Four forces on every flying thing",
    "status": "defined",
    "definition": "A flying thing has four forces on it. Weight pulls it down. Lift pushes it up. Drag pushes it back. Thrust pushes it forward.",
-   "description": "A force is a push or a pull. We draw each force as an arrow pointing the way it pushes. Our Pushes and Pulls unit shows how. Weight is gravity pulling the flying thing towards the Earth. Lift is the air pushing it up. Drag is the air pushing back as it moves. Thrust is whatever pushes it forward. That can be a flapping wing, a propeller or your throwing arm. A glider has no thrust of its own. It slowly trades height for speed, like a cycle rolling down a gentle slope. An English inventor, George Cayley, first drew these forces on a flying machine, around 1799.",
+   "description": "A force is a push or a pull. We draw each force as an arrow pointing the way it pushes. Our Pushes and Pulls unit shows how. Weight is gravity pulling the flying thing towards the Earth. Lift is the air pushing it up. Drag is the air pushing back as it moves. Thrust is whatever pushes it forward. That can be a flapping wing, a propeller or your throwing arm. A glider has no thrust of its own. It keeps moving forward by slowly losing height, like a cycle rolling down a gentle slope. An English inventor, George Cayley, first drew these forces on a flying machine, around 1799.",
    "examples": [
     "A pigeon flapping: its wings give both lift and thrust.",
     "A paper plane after it leaves your hand: no more thrust, so it glides slowly down.",
@@ -187,8 +187,8 @@
   {
    "concept": "How a wing makes lift: it pushes air down",
    "status": "defined",
-   "definition": "A wing makes lift by turning the air that flows past it downwards. When the wing pushes air down, the air pushes the wing up.",
-   "description": "Every push has a push back. Isaac Newton wrote this down in 1687. When you swim, you push water backwards, and the water pushes you forwards. A wing works the same way with air. As it moves through the air, tilted slightly upwards at the front, it bends the air behind it downwards. The air pushes back, upwards, on the wing. That upward push is lift. Even a flat wing, like a paper plane's, can do this. A wing pushes lots of air down a little, all the time. A helicopter shows it plainly. Stand near one and you feel a gale blowing down.",
+   "definition": "A wing makes lift by turning the air that flows past it downwards. When the wing pushes air down, the air pushes the wing up. That push shows up as lower air pressure above the wing and higher air pressure below it.",
+   "description": "Every push has an equal push back. Isaac Newton wrote this down in 1687, and it is called Newton's third law. When you swim, you push water backwards, and the water pushes you forwards. A wing works the same way with air. As it moves through the air, tilted slightly upwards at the front, it bends the air behind it downwards. The air pushes back, upwards, on the wing. That upward push is lift. How does the air push on the wing? Through air pressure. As the wing bends the air, the air presses a little less on the top of the wing and a little more on the bottom. Pushing air down and the difference in pressure are two ways of describing the same lift. Even a flat wing, like a paper plane's, can do this, as long as it is tilted a little. A helicopter shows it plainly. Stand near one and you feel a gale blowing down.",
    "examples": [
     "Under a hovering helicopter, a strong wind blows straight down.",
     "A flat paper plane wing still makes lift, because it is tilted a little.",
@@ -221,7 +221,7 @@
     },
     {
      "who": "Scientists today, such as Holger Babinsky at Cambridge in 2003 and Doug McLean at Boeing in 2012",
-     "explanation": "Bernoulli's idea and Newton's idea are two views of one thing. A wing bends the air. Bending moving air needs a difference in push: less push above, more push below. That same difference speeds up the air on top. Some scientists still say there is no simple explanation that everyone accepts. In 2020, a magazine article called it a question no one can fully explain."
+     "explanation": "Bernoulli's idea and Newton's idea are two views of one thing. A wing bends the air. To bend moving air, there must be a difference in air pressure: lower above the wing, higher below. That same difference speeds up the air over the top. Some scientists still say no simple explanation is accepted by everyone. In 2020, an article in the magazine Scientific American said that nobody can yet explain lift in a way all experts agree on."
     }
    ],
    "art": "A wing in a wind tunnel with pulses of white smoke, where the pulse on top has raced ahead of the pulse underneath, with a red cross over the words 'equal time'.",
@@ -259,7 +259,7 @@
    "concept": "How birds fly: flapping, gliding and soaring",
    "status": "defined",
    "definition": "Birds flap their wings to push air down and back, which gives them lift and thrust. Many birds also glide, and some soar on rising warm air without flapping at all.",
-   "description": "On each downstroke, a bird sweeps its wings down and forward. The air is pushed down and back, so the bird is pushed up and forward. On the upstroke, the feathers twist and open to let air through. A bird's body is built for this. It has hollow bones with thin struts inside, and a big breastbone holding strong flying muscles. Its feathers are light but strong. Soaring birds like the black kite and the vulture hardly flap. On hot days, warm air rises from the ground in bubbles called thermals. The birds circle inside them and are carried up, like leaves in a rising breeze. Then they glide down to the next thermal.",
+   "description": "On each downstroke, a bird sweeps its wings down and forward. The air is pushed down and back, so the bird is pushed up and forward. On the upstroke, the feathers twist and open to let air through. A bird's body is built for this. It has hollow bones with thin struts inside, and a big breastbone holding strong flying muscles. Its feathers are light but strong. Soaring birds like the black kite and the vulture hardly flap. On hot days, warm air rises from the ground in bubbles called thermals. The birds circle inside them and are carried up with the rising air. Then they glide down to the next thermal.",
    "examples": [
     "Cheels circle high over Indian cities at midday, rising on thermals.",
     "A sunbird hovers by a flower, flapping very fast.",
@@ -302,7 +302,7 @@
    "concept": "Seeds that fly",
    "status": "defined",
    "definition": "Many plants make seeds that fly, so the wind carries them far from the parent plant. Some float on parachutes of fine hairs. Some spin on one wing. Some glide on two wings.",
-   "description": "A seed that lands under its parent has to share light and water with it. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so it falls very slowly. A mahogany seed has one wing and spins as it falls. In 2009, scientists studying spinning seeds like this found something new. The spinning makes a little whirl of air over the wing, which gives extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about as wide as your hand. It glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like it.",
+   "description": "A seed that lands under its parent has to share light and water with it. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so it falls very slowly. A mahogany seed has one wing and spins as it falls. In 2009, scientists studying spinning seeds like this found something new. The spinning makes a little whirl of air over the wing, which gives extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about 13 centimetres across, wider than your palm. It glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like it.",
    "examples": [
     "Silky aak and semal fluff floats away on the wind.",
     "Big-leaf mahogany seeds spin down like helicopters in many Indian cities.",
@@ -316,7 +316,7 @@
    "concept": "Gliding animals of India",
    "status": "defined",
    "definition": "Some animals glide but can't flap. They spread out flaps of skin, or flatten their bodies, to glide from tree to tree.",
-   "description": "Gliding saves time and energy. It is also safer than climbing down to the ground, where hunters wait. India's forests have many gliders. The flying lizard of the Western Ghats spreads skin flaps held out on its ribs. The Indian giant flying squirrel stretches skin between its arms and legs. It can glide across gaps longer than a cricket pitch. The ornate flying snake jumps from a branch and flattens its body into a wide ribbon. It wiggles through the air in an S shape. Flying fish in the Indian Ocean leap out of the water and glide on large fins. None of them can stay up for long, because they make lift without any thrust.",
+   "description": "Gliding saves time and energy. It is also safer than climbing down to the ground, where predators, the animals that hunt them, wait. India's forests have many gliders. The flying lizard of the Western Ghats spreads skin flaps held out on its ribs. The Indian giant flying squirrel stretches skin between its arms and legs. It can glide across gaps longer than a cricket pitch. The ornate flying snake jumps from a branch and flattens its body into a wide ribbon. It wiggles through the air in an S shape. Flying fish in the Indian Ocean leap out of the water and glide on large fins. None of them can stay up for long, because they make lift without any thrust.",
    "examples": [
     "A flying lizard spreading its bright skin flaps.",
     "A flying squirrel gliding at night between tall trees.",
@@ -355,7 +355,7 @@
    "concept": "Deep down: lift is air molecules bumping",
    "status": "defined",
    "definition": "Air pressure is the push of countless air molecules bumping into a surface. A wing gets lift because the molecules underneath bump into it harder than the molecules on top.",
-   "description": "Zoom into the air and keep zooming. You reach molecules, tiny groups of atoms. In air, they are mostly nitrogen and oxygen. Each one zooms about at roughly 500 metres every second. That is faster than a passenger jet. Every bit of your skin is being bumped by them, billions of times a second, from every side. We call that steady push air pressure. Usually the bumps are the same on all sides, so we don't notice them. A moving wing changes the pattern. Underneath, the bumps push a little harder. On top, they push a little less. The difference is lift. So a jumbo jet is held up by trillions of tiny bumps.",
+   "description": "Zoom into the air and keep zooming. You reach molecules, tiny groups of atoms. In air, they are mostly nitrogen and oxygen. Each one zooms about at roughly 500 metres every second. That is faster than a passenger jet. Every bit of your skin is being bumped by them, billions of times a second, from every side. We call that steady push air pressure. Usually the bumps are the same on all sides, so we don't notice them. A moving wing changes the pattern. Underneath, the bumps push a little harder. On top, they push a little less. The difference is lift. So a jumbo jet is held up by countless tiny bumps.",
    "examples": [
     "A balloon stays round because molecules inside bump on its skin.",
     "High on a mountain, there are fewer molecules, so wings and lungs both have to work harder."
@@ -412,7 +412,7 @@
  ],
  "agreed": [
   {
-   "text": "Air is real stuff. It takes up space, has weight and pushes on things.",
+   "text": "Air is a real material. It takes up space, has weight and pushes on things.",
    "evidence": "A tissue stays dry in an upside-down glass pushed under water. A blown-up ball weighs a little more than a flat one, on a very fine scale."
   },
   {
@@ -546,9 +546,9 @@
    "hint": "Think of the Pushpaka Vimana, Icarus, and how the world looks from a rooftop."
   },
   {
-   "q": "A kite flies only because its string holds it back. Can being held back ever help us rise?",
-   "kind": "big",
-   "hint": "Think of a rule, a teacher or a family that held you back, and what happened next."
+   "q": "A bird flies inside a closed box that sits on a weighing scale. Does the box weigh less while the bird is flying?",
+   "kind": "deep",
+   "hint": "The bird's wings push air down. Where does that air push next?"
   },
   {
    "q": "Glass-coated kite string cuts thousands of birds every festival. Who should share the sky, and how?",
@@ -905,7 +905,7 @@
    "mins": 30,
    "days": 1,
    "question": "Does adding paper clips to the nose of a paper plane make it fly further?",
-   "predict": "Before you test, guess. Which will fly furthest: the plane with no clip, with 1 clip, or with 3 clips on its nose?",
+   "predict": "Before you test, guess. Which will fly furthest: the plane with no clip, with 1 clip, or with 3 clips on its nose? And why do you think so?",
    "fair_test": "To make it fair, use the same plane each time and throw it from the same line, with the same gentle throw. Change only the number of clips. Throw each one 3 times, because one throw can be a fluke.",
    "results_table": [
     "Plane",
@@ -1079,8 +1079,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: one clip on the nose helps the plane fly furthest. What I saw: with no clip it swooped up and dropped at about 4 metres. With 1 clip it glided to 6 metres. With 3 clips it dived down at 3 metres. Why: the clip moves the balance point forward, so the plane flies steadily. Too much weight makes it dive."
     }
    ],
@@ -1116,8 +1116,8 @@
    "mins": 30,
    "days": 1,
    "question": "Does a paper spinner with longer wings take longer to fall?",
-   "predict": "Before you test, guess. Will the spinner with short wings, middle wings or long wings take longest to fall?",
-   "fair_test": "Use the same paper and the same paper clip on each spinner. Drop each one from the same height, 2 metres, by letting go, not throwing. Change only the wing length. Time each one 3 times.",
+   "predict": "Before you test, guess. Will the spinner with short wings, middle wings or long wings take longest to fall? And why do you think so?",
+   "fair_test": "Use the same paper and the same paper clip on each spinner. Drop each one from the same height, about 2 metres, by letting go, not throwing. Change only the wing length. Time each one 3 times, because one drop can be a fluke.",
    "results_table": [
     "Wing length",
     "Drop 1 (seconds)",
@@ -1144,9 +1144,8 @@
      "buy": "b-clips"
     },
     {
-     "item": "a phone stopwatch or a kitchen timer",
-     "qty": 1,
-     "buy": "b-stopwatch"
+     "item": "a phone stopwatch",
+     "qty": 1
     },
     {
      "item": "a measuring tape",
@@ -1154,7 +1153,7 @@
      "buy": "b-tape"
     }
    ],
-   "safety": "A grown-up stands on a chair or a stair to drop the spinners, or drops them from a balcony with a railing. The child times from the floor.",
+   "safety": "A grown-up holds the spinner up as high as they can reach, standing on the floor or on a low, steady step. Never drop things from a balcony. The child times from the floor.",
    "schedule": [
     {
      "day": 1,
@@ -1193,7 +1192,7 @@
      "say": "These are model mahogany seeds. Real winged seeds spin as they fall. Which one do you think will fall slowest?",
      "kid": "Make three paper spinners: short wings, middle wings and long wings. Fold one wing forward and one back. Guess which falls slowest.",
      "context": "This is the first step of the Seed Spinners experiment. You make paper models of spinning winged seeds, like mahogany seeds.",
-     "parent": "Keep the body the same length and use one clip each. Only the wings should change."
+     "parent": "Keep the body the same length and use one clip each. Only the wings should change. Before you start, stick a piece of tape on a wall or a door at 2 metres. If you can't reach it, use the highest height you can, and keep it the same for every drop."
     },
     {
      "id": "s2",
@@ -1210,7 +1209,8 @@
         "It falls slowly, like a real seed."
        ]
       }
-     ]
+     ],
+     "parent": "A paper spinner takes only 1 or 2 seconds to fall 2 metres, so the times are short. A phone stopwatch shows tenths of a second, like 1.6. Read it as 'one point six seconds'. If a spinner hits a wall or tumbles, drop it again."
     },
     {
      "id": "s3",
@@ -1228,17 +1228,17 @@
       "data": [
        {
         "label": "Short wings, 4 cm",
-        "value": 2,
+        "value": 1.2,
         "emoji": "🌀"
        },
        {
         "label": "Middle wings, 7 cm",
-        "value": 3,
+        "value": 1.7,
         "emoji": "🌀"
        },
        {
         "label": "Long wings, 10 cm",
-        "value": 4,
+        "value": 2.2,
         "emoji": "🌀"
        }
       ]
@@ -1267,9 +1267,9 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: longer wings make a spinner fall more slowly. What I saw: the short wings took 2 seconds to fall 2 metres, and the long wings took 4 seconds. Why: longer wings push more air down as they spin, so the air pushes them up more."
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: longer wings make a spinner fall more slowly. What I saw: the short wings took about 1.2 seconds to fall 2 metres, and the long wings took about 2.2 seconds. Why: longer wings sweep through more air as they spin. So they can push enough air down to hold up the clip while falling more slowly."
     }
    ],
    "context": "In this experiment you make paper spinners, like the winged seeds of a mahogany tree. You drop them from 2 metres and time how long each one takes to fall.",
@@ -1282,17 +1282,17 @@
     "data": [
      {
       "label": "Short wings, 4 cm",
-      "value": 2,
+      "value": 1.2,
       "emoji": "🌀"
      },
      {
       "label": "Middle wings, 7 cm",
-      "value": 3,
+      "value": 1.7,
       "emoji": "🌀"
      },
      {
       "label": "Long wings, 10 cm",
-      "value": 4,
+      "value": 2.2,
       "emoji": "🌀"
      }
     ]
@@ -1303,8 +1303,8 @@
    "title": "Hand Wing: how does tilt change the push of the air?",
    "mins": 15,
    "days": 1,
-   "question": "When moving air hits a flat hand, how does tilting the hand change the push?",
-   "predict": "Before you test, guess. Will a flat hand, a slightly tilted hand or a steeply tilted hand be pushed up the most?",
+   "question": "When moving air meets a flat hand or a card, how does tilting it change the push?",
+   "predict": "Before you test, guess. Will a flat hand, a slightly tilted hand or a steeply tilted hand be pushed up the most? And why do you think so?",
    "fair_test": "Keep the fan on the same speed. Hold your hand at the same distance from it each time. Change only the tilt.",
    "results_table": [
     "How the hand is tilted",
@@ -1314,11 +1314,11 @@
    ],
    "materials": [
     {
-     "item": "a table fan with a safety guard, on a low table",
+     "item": "a table fan with a safety guard, on a low table, set to its fastest speed",
      "qty": 1
     },
     {
-     "item": "a stiff postcard or a piece of card, as a second 'wing'",
+     "item": "a postcard or a piece of card about the size of your palm",
      "qty": 1
     }
    ],
@@ -1354,10 +1354,11 @@
      "id": "s1",
      "mins": 3,
      "adult": true,
-     "do": "1. Put the fan on a low table and switch it on at medium speed. 2. Your child holds one hand flat, palm down, fingers together, an arm's length in front of the fan.",
+     "do": "1. Put the fan on a low table and switch it on at its fastest speed. 2. Your child holds one hand flat, palm down, fingers together, an arm's length in front of the fan.",
      "say": "Your hand is a wing now. The fan is the wind. Hold it flat. What do you feel?",
      "kid": "Ask a grown-up to switch on the fan. Hold your hand flat, an arm's length away. Your hand is a wing! What do you feel?",
-     "context": "This is the first step of the Hand Wing experiment. You hold your hand in front of a fan and feel how the air pushes it."
+     "context": "This is the first step of the Hand Wing experiment. You hold your hand in front of a fan and feel how the air pushes it.",
+     "parent": "The air from a table fan is slow, so the push on a hand is gentle. Ask your child to relax their arm and close their eyes to feel it. The card in the next steps shows the push more clearly."
     },
     {
      "id": "s2",
@@ -1379,9 +1380,10 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Repeat with the postcard, holding it by one edge. Watch the air push it.",
-     "say": "The card is like a kite. Tilt it a little. What does the air do to it?",
-     "kid": "Hold the postcard by one edge in front of the fan. Tilt it a little. Does the air lift it, like a kite?",
+     "do": "1. Hold the card loosely by one short edge, between finger and thumb, so it hangs straight down. 2. Hold it an arm's length in front of the fan, with the hanging card facing the fan. 3. Watch what the moving air does to it.",
+     "say": "The card hangs straight down. What do you think the moving air will do to it? Why?",
+     "kid": "Hold the card loosely by its top edge. Let it hang down. Hold it in front of the fan. Watch it.",
+     "parent": "The air pushes the card back, so it swings up into a slant, like a kite on a string. The slanted card turns the air downwards, and the air holds it up. On a faster fan speed, the card rises nearer to flat.",
      "check": {
       "t": "mcq",
       "q": "In the Hand Wing test, when does the air push your hand up the most?",
@@ -1398,8 +1400,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a wing tilted up a little gets the most lift. What I saw: flat, my hand was hardly pushed up. Tilted a little, it was pushed up a lot. Tilted steeply, it was pushed back and wobbled. Why: a little tilt turns the air downwards, so the air pushes my hand up. Too much tilt and the air tumbles."
     }
    ],
@@ -1520,12 +1522,12 @@
      "id": "s3",
      "mins": 3,
      "do": "Talk together about how wings use this push.",
-     "say": "Air is real stuff. It pushes back. A wing is a clever way of using that push to hold something up.",
-     "kid": "Air is real stuff. It pushes back. Wings use that push to stay up!",
+     "say": "Air is a real material. It pushes back. A wing is a clever way of using that push to hold something up.",
+     "kid": "Air is a real material. It pushes back. Wings use that push to stay up!",
      "think": "If air pushes back so hard on a card, how hard must it push on the wings of a big plane?"
     }
    ],
-   "context": "This activity shows that air is real stuff. It fills an 'empty' glass, and it pushes back when you run with a card."
+   "context": "This activity shows that air is a real material. It fills an 'empty' glass, and it pushes back when you run with a card."
   },
   {
    "id": "a2",
@@ -1665,7 +1667,7 @@
      "do": "1. Walk under big trees in a park or along a road. 2. Look on the ground for seeds with wings or fluff. 3. Collect as many kinds as you can.",
      "say": "We're seed detectives. We're looking for seeds that fly. Look for wings, fluff and spinners.",
      "kid": "You are a seed detective! Look under trees for seeds with wings or fluff. Collect as many kinds as you can.",
-     "parent": "Good finds in Indian towns: big-leaf mahogany seeds, which spin, under many avenue trees. Silky fluff from aak bushes and from semal trees in spring. Drumstick seeds, with three papery wings. Sal and arjun fruits have wings too. In late summer, look for spinning seeds from any tree with winged fruits.",
+     "parent": "This hunt needs a park or a road with big trees. Good finds in Indian towns: winged big-leaf mahogany seeds under avenue trees, mostly from February to May. Silky fluff from aak bushes, found most of the year, and from semal trees in March and April. Drumstick seeds, with three papery wings, inside dry drumstick pods. Sal and arjun fruits have wings too. If you find none, use the paper spinners from the Seed Spinners experiment instead.",
      "context": "This is the first step of the Flying Seed Hunt. You look for seeds that travel through the air, on parachutes, wings or spinners."
     },
     {
@@ -1692,10 +1694,10 @@
      "do": "Talk about why plants send their seeds so far.",
      "say": "Why would a tree want its seeds to fly far away, instead of dropping just underneath?",
      "kid": "Why would a tree want its seeds to fly far away?",
-     "think": "The wind carries the seed to where it lands. Is that like anything in our lives?"
+     "think": "Some seeds fly, some float on water, and some stick to animals' fur. If you were a plant, which way would you send your seeds?"
     }
    ],
-   "context": "This is a seed hunt in a park or along a road. You collect seeds that fly, sort them by how they fly, and time how slowly they fall."
+   "context": "This is a seed hunt, if you have a park or a tree-lined road nearby. You collect seeds that fly, sort them by how they fly, and time how slowly they fall."
   },
   {
    "id": "a4",
@@ -1709,8 +1711,7 @@
     },
     {
      "item": "binoculars, if you have them",
-     "qty": 1,
-     "buy": "b-binoculars"
+     "qty": 1
     },
     {
      "item": "a phone stopwatch",
@@ -1789,7 +1790,7 @@
       "a": 0,
       "why": "Rising warm air, a thermal, carries them up as they circle. Picking 'falling very slowly' misses that they can climb higher without flapping. Picking 'strings' mixes up the bird with the paper toy that is named after it."
      },
-     "think": "Soaring birds use the Sun's heat to climb, without flapping. Where else is the Sun secretly doing work?"
+     "think": "Soaring birds use the Sun's heat to climb, without flapping. Where else does the Sun's heat make air or water move?"
     }
    ],
    "context": "This is a bird-watching activity. You watch the sky for 20 minutes and sort birds by how they fly: flapping, gliding or soaring."
@@ -1847,7 +1848,7 @@
      "do": "1. The wing-holder walks slowly through the room, holding the cardboard tilted up at the front. 2. Molecules that meet the underside bump it gently and are steered downwards. 3. Swap roles so everyone holds the wing.",
      "say": "Wing-holder, can you feel the bumps underneath pushing your wing up? Molecules, which way does the wing send you?",
      "kid": "Bump gently into the bottom of the wing. Which way does the wing send you? Holding the wing? Feel the bumps push it up!",
-     "parent": "This is a model. Real molecules are far tinier and faster, and a real wing meets trillions of them. The key idea is right. The tilted wing pushes molecules down, and the molecules push the wing up."
+     "parent": "This is a model. Real molecules are far tinier and faster, and a real wing meets countless numbers of them. The key idea is right. The tilted wing pushes molecules down, and the molecules push the wing up."
     },
     {
      "id": "s3",
@@ -2043,9 +2044,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Lay the cross on the paper. 2. Cut the paper into a diamond, 2 cm bigger than the frame all round. 3. Fold the edges over the sticks and a thread tied around the tips, and glue them down. 4. Leave it to dry overnight.",
+     "do": "1. Tie a thread tightly from tip to tip around the four ends of the cross, to make a diamond outline. 2. Lay the frame on the paper. 3. Cut the paper into a diamond, 2 cm bigger than the outline all round. 4. Fold the 2 cm edges over the thread and glue them down. 5. Leave it to dry overnight.",
      "say": "The paper is the kite's wing. It needs to be tight and light.",
-     "kid": "Cut the paper into a diamond, a bit bigger than the frame. Fold the edges over and glue them. Leave it to dry.",
+     "kid": "Tie a thread around the tips of the cross. Cut the paper into a diamond, a bit bigger. Fold the edges over the thread. Glue them. Leave it to dry.",
      "wait": "Leave the glue to dry overnight."
     },
     {
@@ -2054,7 +2055,7 @@
      "do": "1. Tie a string loop, called a bridle, from the top of the long stick to the bottom. 2. Tie the flying thread to the bridle about a third of the way down from the top. 3. Tie a tail, 1 to 2 metres long, to the bottom. 4. Decorate the kite.",
      "say": "The bridle sets the tilt. The tail keeps the nose pointing into the wind.",
      "kid": "Tie a string loop from top to bottom. Tie the flying string to it, near the top. Add a long tail. Decorate it!",
-     "parent": "Where the flying string joins the bridle sets the kite's tilt. Nearer the top makes it flatter to the wind. Nearer the middle makes it tilt more."
+     "parent": "Where the flying string joins the bridle sets the kite's tilt. Tied nearer the top, the kite faces the wind more squarely, which helps in a light wind. Tied lower, the kite lies flatter, which helps in a strong wind."
     },
     {
      "id": "s4",
@@ -2111,7 +2112,7 @@
     "half a sheet of A4 paper",
     "tape and scissors",
     "one paper clip",
-    "a stopwatch and a measuring tape"
+    "a phone stopwatch and a measuring tape"
    ],
    "general": [
     "A spinner with long wings, like a mahogany seed.",
@@ -2123,7 +2124,7 @@
     "Give a spinner three wings instead of two, like a drumstick seed.",
     "Curl the wing edges slightly, the way real seed wings curve."
    ],
-   "your_turn": "Now invent your own seed. Draw it, build it, drop it 3 times and time it. Can you beat 5 seconds?",
+   "your_turn": "Now invent your own seed. Draw it, build it, drop it 3 times and time it. Can you make it take longer than 2 seconds to fall 2 metres?",
    "setup": [
     {
      "art": "Half an A4 sheet, a paper clip, tape and scissors laid out on a table.",
@@ -2161,7 +2162,7 @@
      "do": "1. Build one design at a time. 2. A grown-up drops it from 2 metres. 3. Time it 3 times and write down the middle time. 4. Improve the best one.",
      "say": "Which one stayed up longest? What could make it even slower?",
      "kid": "Build one idea. Ask a grown-up to drop it from 2 metres. Time it 3 times. Then make your best one better.",
-     "parent": "Parachute designs usually fall slowest in still air. Spinners are steadier. If a design tumbles, move the clip or make it more even."
+     "parent": "Big spinners and wide parachutes both do well. Spinners fall steadily. Parachutes often tip and swing, so try to make them even. If a design tumbles, move the clip or make both sides the same."
     },
     {
      "id": "s4",
@@ -2196,7 +2197,7 @@
     "Bend the back edges of the wings up a little if it dives."
    ],
    "creative": [
-    "Make a ring-wing glider: a paper loop at the front and a bigger loop at the back, joined by a straw or a rolled paper tube.",
+    "Make a ring-wing glider: a paper loop at the front and a bigger loop at the back, joined by a rolled paper tube.",
     "Copy the wide, flat shape of the Javan cucumber seed, which glides with its heavy seed in the middle.",
     "Fold small upturned tips on the wings, like the feathers on a vulture's wingtips."
    ],
@@ -2272,12 +2273,12 @@
       "The Sun's light"
      ],
      "a": 1,
-     "why": "A bird's wings push air down, and the air pushes the bird up. Picking 'nothing' usually means air is thought of as empty. But air is real stuff that pushes back.",
+     "why": "A bird's wings push air down, and the air pushes the bird up. Picking 'nothing' usually means air is thought of as empty. But air is a real material that pushes back.",
      "art": "A crow mid-downstroke with air arrows going down."
     },
     {
      "t": "truefalse",
-     "p": "Air is real stuff. It takes up space and pushes on things.",
+     "p": "Air is a real material. It takes up space and pushes on things.",
      "a": true,
      "why": "True. Air keeps a tissue dry inside an upside-down glass under water, and it pushes back on a card when you run."
     },
@@ -2422,11 +2423,11 @@
      "opts": [
       "So the seeds can travel far from the parent plant, to new ground",
       "So birds can't eat them",
-      "Because seeds like flying",
+      "To keep the seeds dry",
       "To make the parent tree lighter"
      ],
      "a": 0,
-     "why": "A seed that lands under its parent must share light and water. A seed that travels can find space of its own. Picking 'seeds like flying' gives the seed a wish. Plants don't plan. Seeds that travelled further simply grew more often, over a very long time."
+     "why": "A seed that lands under its parent must share light and water. A seed that travels can find space of its own. Picking 'to keep the seeds dry' misses that a flying seed lands in rain and sun like any other. Over a very long time, plants whose seeds travelled further had more young plants growing in new places."
     },
     {
      "t": "mcq",
@@ -2573,7 +2574,7 @@
       "Long wings"
      ],
      "a": 2,
-     "why": "The long-wing spinner has the tallest bar, at 4 seconds. Its longer wings push more air down as they spin. Picking 'short wings' often means a tall bar was read as 'fast'. Here a tall bar means slow.",
+     "why": "The long-wing spinner has the tallest bar, at 2.2 seconds. Its longer wings sweep through more air, so it can be held up while falling more slowly. Picking 'short wings' often means a tall bar was read as 'fast'. Here a tall bar means slow.",
      "context": "In the Seed Spinners experiment, you make paper spinners like winged seeds. You drop them from 2 metres and time how long each takes to fall.",
      "how": "e2",
      "chart": {
@@ -2585,17 +2586,17 @@
       "data": [
        {
         "label": "Short wings, 4 cm",
-        "value": 2,
+        "value": 1.2,
         "emoji": "🌀"
        },
        {
         "label": "Middle wings, 7 cm",
-        "value": 3,
+        "value": 1.7,
         "emoji": "🌀"
        },
        {
         "label": "Long wings, 10 cm",
-        "value": 4,
+        "value": 2.2,
         "emoji": "🌀"
        }
       ]
@@ -2704,7 +2705,7 @@
       "The air underneath goes faster"
      ],
      "a": 0,
-     "why": "Smoke films show air over the top racing ahead and reaching the back long before the air underneath. Nothing makes the streams meet again. Picking 'always meet' means the old book explanation has been met. It sounds sensible, but tests show it is wrong."
+     "why": "Smoke films show air over the top racing ahead and reaching the back long before the air underneath. Nothing makes the streams meet again. Picking 'always meet' is understandable, because many old books say so. It sounds sensible, but tests show it is wrong."
     },
     {
      "t": "mcq",
@@ -2740,7 +2741,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each built on the work of the people before. Lilienthal studied Cayley's ideas, and the Wrights studied Lilienthal's.",
+     "why": "Each built on the work of people before them. For example, the Wright brothers started from Lilienthal's numbers for wing lift, then tested wings in their own wind tunnel to improve them.",
      "context": "This question is about four people from the story of flight."
     },
     {
@@ -2950,11 +2951,11 @@
     },
     {
      "t": "write",
-     "p": "The kite in the story flies only because the string holds it back. Can being held back ever help a person rise? Give an example.",
+     "p": "In the story, Farah's kite sagged whenever the string went slack, and rose when she pulled it tight. Explain why. Use the words wind, string and push.",
      "lines": 4,
-     "a": "Any thoughtful answer with an example. For example: a cricket coach makes me practise the same shot again and again. It feels like being held back, but it makes me better.",
-     "why": "This links the science to life. There is no single right answer.",
-     "context": "In this unit's story, a girl called Farah can't fly her kite until she pulls the string tight. The wind pushes the kite, the string holds it, and so it rises."
+     "a": "The wind pushes the kite back. When the string is tight, it holds the kite against that push. The kite is tilted, so the push of the wind is turned upwards and the kite rises. When the string goes slack, nothing holds the kite, so the wind just carries it and it sags.",
+     "why": "A good answer says that the string holds the kite against the wind, and that the tilted kite turns the wind's push upwards.",
+     "context": "In this unit's story, a girl called Farah can't fly her kite until she stands still and pulls the string tight. The wind pushes the kite, the string holds it, and so it rises."
     },
     {
      "t": "draw",
@@ -2969,7 +2970,7 @@
      "why": "True. Scientists in Sweden fitted swifts with tiny trackers in 2016. Some stayed airborne for about 10 months.",
      "answer_chart": {
       "type": "pie",
-      "title": "How a common swift spends its year away from its nest (found in 2016)",
+      "title": "How a common swift spends its year (found in 2016)",
       "unit": "months",
       "data": [
        {
@@ -2991,14 +2992,14 @@
    "t": "mcq",
    "p": "What is air?",
    "opts": [
-    "Real stuff made of tiny moving bits",
+    "A real material made of tiny moving particles",
     "Nothing at all",
     "Only the wind",
     "A kind of light"
    ],
    "a": 0,
    "outcome": 0,
-   "why": "Air is real stuff. It fills space and pushes. Picking 'nothing' is very common, because we can't see it. An upside-down glass under water shows it is there."
+   "why": "Air is a real material. It fills space and pushes. Picking 'nothing' is very common, because we can't see it. An upside-down glass under water shows it is there."
   },
   {
    "t": "mcq",
@@ -3077,7 +3078,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Seed Spinners test, the long-wing spinner took 4 seconds to fall and the short-wing spinner took 2 seconds. Which fell more slowly?",
+   "p": "In the Seed Spinners test, the long-wing spinner took 2.2 seconds to fall and the short-wing spinner took 1.2 seconds. Which fell more slowly?",
    "opts": [
     "Long wings",
     "Short wings",
@@ -3086,7 +3087,7 @@
    "a": 0,
    "outcome": 3,
    "how": "e2",
-   "why": "4 seconds is longer than 2 seconds, so the long-wing spinner fell more slowly. It took twice as long. Picking 'short wings' usually means a bigger number was read as faster. Here, the number is the time taken.",
+   "why": "2.2 seconds is a longer time than 1.2 seconds, so the long-wing spinner fell more slowly. It took 1 second longer. Picking 'short wings' usually means a bigger number was read as faster. Here, the number is the time taken.",
    "context": "In the Seed Spinners experiment, you make paper spinners like winged seeds. You drop them from 2 metres and time how long each takes to fall.",
    "chart": {
     "type": "bar",
@@ -3097,17 +3098,17 @@
     "data": [
      {
       "label": "Short wings, 4 cm",
-      "value": 2,
+      "value": 1.2,
       "emoji": "🌀"
      },
      {
       "label": "Middle wings, 7 cm",
-      "value": 3,
+      "value": 1.7,
       "emoji": "🌀"
      },
      {
       "label": "Long wings, 10 cm",
-      "value": 4,
+      "value": 2.2,
       "emoji": "🌀"
      }
     ]
@@ -3159,7 +3160,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "Wind tunnel films with smoke show that the air on top reaches the back first. Picking 'yes' means the famous old explanation has been met. It is still in many books, but it is wrong."
+   "why": "Wind tunnel films with smoke show that the air on top reaches the back first. Picking 'yes' is understandable, because this explanation is in many books. But it is wrong."
   },
   {
    "t": "mcq",
@@ -3461,9 +3462,9 @@
    }
   },
   {
-   "problem": "In the Seed Spinners test, one spinner's three falls took 3 seconds, 5 seconds and 4 seconds. What is the middle value?",
-   "answer": "4 seconds.",
-   "explain": "Put the three times in order, from smallest to biggest: 3, 4, 5. The middle one is 4. So the middle value is 4 seconds. We use the middle value because one odd drop can be a fluke.",
+   "problem": "In the Seed Spinners test, the middle-wing spinner's three falls took 1.8 seconds, 1.6 seconds and 1.7 seconds. What is the middle value?",
+   "answer": "1.7 seconds.",
+   "explain": "Put the three times in order, from smallest to biggest: 1.6, 1.7, 1.8. The middle one is 1.7. So the middle value is 1.7 seconds. We use the middle value because one odd drop can be a fluke.",
    "math_unit": "math.time.duration.L3",
    "how": "e2",
    "why_maths": "Timing several drops and taking the middle value stops one lucky or unlucky drop from fooling you.",
@@ -3478,26 +3479,26 @@
     "rows": [
      [
       "Shortest",
-      "3"
+      "1.6"
      ],
      [
       "Middle",
-      "4"
+      "1.7"
      ],
      [
       "Longest",
-      "5"
+      "1.8"
      ]
     ]
    }
   },
   {
-   "problem": "In the Seed Spinners test, the short-wing spinner took 2 seconds to fall and the long-wing spinner took 4 seconds. Look at the chart. How many times as long did the long-wing spinner take?",
-   "answer": "2 times as long, which is twice as long.",
-   "explain": "The long-wing spinner took 4 seconds. The short-wing spinner took 2 seconds. 4 divided by 2 is 2. So it took twice as long. You can check: 2 + 2 = 4.",
-   "math_unit": "math.division.sharing-and-grouping.L3",
+   "problem": "In the made-up Seed Spinners results, wings 4 cm long took 1.2 seconds to fall, 7 cm wings took 1.7 seconds, and 10 cm wings took 2.2 seconds. Look for the pattern. If you made a spinner with 13 cm wings, about how long would you expect it to take?",
+   "answer": "About 2.7 seconds, if the pattern keeps going.",
+   "explain": "Each time the wings got 3 cm longer, the fall took half a second longer: 1.2, then 1.7, then 2.2. 13 cm is 3 cm longer than 10 cm, so add another half second. 2.2 + 0.5 = 2.7. A pattern is a good guess, not a promise. Build the 13 cm spinner and test it to find out.",
+   "math_unit": "math.patterns.number-patterns.L3",
    "how": "e2",
-   "why_maths": "Saying 'twice as long' compares the two spinners more clearly than just saying one was slower.",
+   "why_maths": "Spotting a pattern in your results lets you predict a test you haven't done yet, and then check it.",
    "context": "In the Seed Spinners experiment, you make paper spinners like winged seeds. You drop them from 2 metres and time how long each takes to fall.",
    "chart": {
     "type": "bar",
@@ -3508,17 +3509,17 @@
     "data": [
      {
       "label": "Short wings, 4 cm",
-      "value": 2,
+      "value": 1.2,
       "emoji": "🌀"
      },
      {
       "label": "Middle wings, 7 cm",
-      "value": 3,
+      "value": 1.7,
       "emoji": "🌀"
      },
      {
       "label": "Long wings, 10 cm",
-      "value": 4,
+      "value": 2.2,
       "emoji": "🌀"
      }
     ]
@@ -3677,17 +3678,6 @@
    "plan": "Used again in other measuring units."
   },
   {
-   "id": "b-stopwatch",
-   "item": "A simple stopwatch, or use a phone",
-   "kind": "tool",
-   "why": "Times how long the paper spinners and seeds take to fall.",
-   "url": "https://www.amazon.in/s?k=digital+stopwatch+kids",
-   "used_in": [
-    "e2",
-    "c1"
-   ]
-  },
-  {
    "id": "b-pingpong",
    "item": "Ping-pong balls",
    "kind": "material",
@@ -3728,17 +3718,6 @@
    ]
   },
   {
-   "id": "b-binoculars",
-   "item": "Children's binoculars",
-   "kind": "tool",
-   "why": "To watch soaring birds high in the sky.",
-   "url": "https://www.amazon.in/s?k=binoculars+for+kids",
-   "used_in": [
-    "a4"
-   ],
-   "plan": "Used again in the bird units."
-  },
-  {
    "id": "b-book1",
    "item": "A Seed Is Sleepy, by Dianna Hutts Aston, illustrated by Sylvia Long",
    "kind": "book",
@@ -3763,8 +3742,8 @@
  ],
  "warmup": [
   {
-   "q": "Is air real stuff, or nothing?",
-   "a": "Real stuff. It takes up space and pushes."
+   "q": "Is air a real material, or nothing?",
+   "a": "A real material. It takes up space and pushes."
   },
   {
    "q": "The upward push of the air on a wing is called ____.",
@@ -3858,7 +3837,7 @@
   "spine": [
    "intro",
    "story",
-   "e3",
+   "e2",
    "explanations",
    "roots",
    "big_questions",
@@ -3891,21 +3870,21 @@
  "roots": {
   "context": "We have been learning how kites, birds and seeds fly by pushing air down. Now we ask what flying tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Lift, air resistance, friction, a push and a spring's pull look like different forces. Underneath, they are the same force: electrons pushing other electrons away.",
-   "habit": "We give each force its own name, so we think they are different things. Zoom in and a wing never touches the air at all. The electrons on the outside of air particles and wing particles push each other away (the electromagnetic force). The same thing happens when your foot meets the floor.",
-   "evidence": "A wing pushes air down and the air pushes the wing up, without anything sticking together. Air resistance on a falling paper sheet is the same push."
+   "truth": "In your spinner test, the same paper clip fell more slowly under longer wings. A spinner speeds up until its wings push enough air down to hold its weight. Longer wings sweep through more air, so they make that push while falling more slowly. So even a very heavy plane can stay up, if its wings push enough air down.",
+   "habit": "We think that only light things can fly, and heavy things must fall. In the 1890s, many people said a machine heavier than air could never fly. What holds a flyer up is how much air its wings push down each second.",
+   "evidence": "In the Seed Spinners test, spinners carrying the same clip fell more slowly when their wings were longer. A jumbo jet weighs about 400 tonnes, and its wings are about 64 metres from tip to tip."
   },
   "three": {
    "who_am_i": "Every breath you take is the same air that holds up birds.",
-   "what_is_life": "Birds, bats, insects and seeds all found ways to ride the air.",
-   "what_is_this_world": "The sky is not empty. It is full of air that pushes back."
+   "what_is_life": "Birds, bats, insects and seeds each found their own way to push on the air.",
+   "what_is_this_world": "The sky is full of air, a real material that pushes back when a wing pushes on it."
   },
-  "thread": "Air looks like nothing at all. Yet a wing pushes it down, and it pushes the wing up. DeepKids believes the world is one whole, so even empty-looking air holds us. A bird and the wind are not two separate things fighting. They are one movement, wing and air together.",
+  "thread": "The same air fills your lungs, turns the ceiling fan, holds up a cheel and carries an aak seed. A wing and the air are always pushing on each other. The wing pushes the air down, and the air pushes the wing up. One push never happens without the other. So a bird stays up only together with the air around it, and the air is changed by every bird that passes.",
   "teachings": [
    {
     "source": "Zhuangzi, chapter 1",
     "teaching": "A giant bird called Peng rises thousands of miles high. But only when the wind beneath it is deep enough. Without enough wind, great wings cannot be held up.",
-    "link": "Nothing flies on its own power alone. Every wing needs the air to push against."
+    "link": "Zhuangzi saw that a bigger bird needs more air beneath it. Your spinners showed the same thing. The heavier a flyer is, the more air its wings must push down."
    },
    {
     "source": "Brihadaranyaka Upanishad 3.7.2",
@@ -3920,7 +3899,7 @@
   ],
   "science": [
    {
-    "text": "Everything that flies stays up by pushing air downwards. The air then pushes it up. This upward push is called lift.",
+    "text": "Everything that flies with wings stays up by pushing air downwards. The air then pushes it up. This upward push is called lift.",
     "status": "settled"
    },
    {
@@ -3930,7 +3909,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Lift is just billions of air molecules bumping into a wing. It needs no deeper meaning. Seeing wings and wind as one is a poem, not physics."
+   "view": "The air holds up a bird the way a floor holds up a chair. It is a force between molecules, and saying the bird and the air fly together adds nothing that the physics does not already say."
   },
   "practice": {
    "title": "Feel the invisible",
@@ -3940,9 +3919,15 @@
   },
   "ask": [
    "If you cannot see air, how do you know it is there?",
-   "A kite rises because its string holds it. Can being held help?",
-   "Is the bird flying, or the bird and wind together?"
+   "A heavy jumbo jet flies, but a light ball of crumpled paper falls. So what does it really take to fly?",
+   "Is the bird flying, or are the bird and the air flying together?"
   ],
   "art": "A kite, a soaring kite-bird and a spinning winged seed riding the same swirling stream of air above an Indian rooftop."
+ },
+ "how_we_found_out": {
+  "story": "In 1900 and 1901, Wilbur and Orville Wright, two bicycle makers from Ohio in the USA, tested gliders on the windy sand hills of Kitty Hawk. They had worked out how big to make the wings using tables of numbers that other inventors, such as Otto Lilienthal, had used for years. Everyone thought those numbers were right. But their 1901 glider lifted only about a third as much as the tables promised. On the way home, Wilbur said that people would not fly for a thousand years. Instead of giving up, the brothers built a wind tunnel in their bicycle shop. It was a wooden box about 2 metres long, with a fan blowing air through it. Inside, they tested more than 200 small metal wings and measured the push of the air on each one. They found that one number everyone used in these sums, worked out by John Smeaton in the 1750s, was too big. Using their own measurements, they built a new glider in 1902, and it flew well. In 1903 they added an engine and made the first powered flights.",
+  "who": "Wilbur and Orville Wright, with earlier numbers from John Smeaton and Otto Lilienthal",
+  "when": "1901 to 1903",
+  "wrong_idea": "The numbers inventors had used for many years to work out how much a wing lifts were correct. The Wrights' wind tunnel showed that one key number was too big."
  }
 }

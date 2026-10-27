@@ -60,6 +60,7 @@ if not os.path.exists(cfg):
 window.DK_CONFIG = {
   supabaseUrl: "",       // e.g. https://abcdefghijkl.supabase.co
   supabaseAnonKey: "",   // the "anon" / "publishable" key
+  googleClientId: "",    // Google Cloud OAuth client id: sign-in then says "DeepKids", not the Supabase address
   functionsUrl: "",      // leave empty to use <supabaseUrl>/functions/v1/claude
   ai: "plus"             // false = Claude off; "plus" = only families with DeepKids Plus; true = everyone
 };

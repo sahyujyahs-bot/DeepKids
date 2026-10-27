@@ -39,6 +39,7 @@ Do the steps in order. Each takes 5–15 minutes. Keep a note of the values mark
    - Authorised redirect URIs: `https://<your-project>.supabase.co/auth/v1/callback`, using your Project URL from step 1.3
    - **Copy** the **Client ID** and **Client secret**.
 4. Back in Supabase, open **Authentication → Sign In / Providers → Google**. Turn it on, paste the Client ID and secret, and **Save**.
+   - Also paste the same **Client ID** into `googleClientId` in `web/public/config.js`. Then Google's sign-in page says "to continue to DeepKids" instead of showing the Supabase address. (The Client ID is not a secret.)
 5. Open **Authentication → URL Configuration**:
    - Site URL: `https://app.deepkids.in`
    - Redirect URLs: add `https://app.deepkids.in/**`

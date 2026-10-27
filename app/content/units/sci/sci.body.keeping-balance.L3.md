@@ -1,9 +1,9 @@
-# Keeping balance: how the body stays just right
+# Homeostasis: how your body keeps its warmth and water steady
 `sci.body.keeping-balance.L3`
 
-**Summary.** This unit is about how your body keeps itself steady. Scientists call this homeostasis. It means keeping things inside you just right, like your warmth and your water. When you get hot, you sweat, and the drying sweat carries heat away. When you get cold, you shiver, and your busy muscles make heat. When you are low on water, you feel thirsty. A part of your brain keeps watching, deciding and correcting, all day and all night. Animals, plants, beehives and maybe even the whole Earth keep balance too. Scientists still argue about why our number is about 37 degrees, and how hot is too hot for a person.
+**Summary.** On a hot May afternoon and a cold winter morning, the inside of your body stays at about 37 degrees. Scientists call this steady keeping homeostasis. When you get hot, you sweat, and the drying sweat carries heat away. When you get cold, you shiver, and your working muscles make heat. When you are low on water, you feel thirsty. A small part of your brain, the hypothalamus, keeps checking and correcting all of this, day and night. Animals, plants and even beehives keep their own balance too. Scientists still argue about why our number is about 37 degrees, and how hot is too hot for a person.
 
-**Intro.** *Put the back of your hand on your cheek. Now put it on a steel plate or a tile floor. Which feels warmer? Your cheek is about the same warmth in the hot summer and the cold winter. How does it do that?* Think about the hottest day you remember, maybe in May. Now think about a cold winter morning, when your breath made a little cloud. The air around you changed a lot between those two days. But the inside of your body stayed almost exactly the same warmth, about 37 degrees. A steel plate left in the sun gets hot. Left outside on a winter night, it gets cold. You are not like the plate. Something inside you keeps checking and fixing. This unit is about that hidden balance-keeper.
+**Intro.** *Put the back of your hand on your cheek. Now put it on a steel plate or a tile floor. Which feels warmer? The inside of your body stays about the same warmth in hot summer and cold winter. How does it do that?* Think about the hottest day you remember, maybe in May. Now think about a cold winter morning, when your breath made a little cloud. The air around you changed a lot between those two days. But the inside of your body stayed almost exactly the same warmth, about 37 degrees. A steel plate left in the sun gets hot. Left outside on a winter night, it gets cold. You are not like the plate. Something inside you keeps checking your warmth and fixing it. That checking and fixing has a name: homeostasis.
 
 ## Learning outcomes
 0. I can say what homeostasis means: my body keeping things like warmth and water just right.
@@ -39,7 +39,7 @@
 ### What homeostasis is · *defined*
 **Definition:** Homeostasis is the way a living thing keeps its inside steady and just right, even when the outside keeps changing.
 
-Your body needs many things to stay just right. It needs the right warmth, the right amount of water, the right amount of salt and the right amount of sugar in the blood. If any of these goes too high or too low for long, the body cannot work well. So the body keeps checking each one, and fixing it when it drifts. Balance here does not mean standing still. It is more like riding a bicycle. You stay upright by making tiny corrections all the time.
+Your body needs many things to stay just right. It needs the right warmth, the right amount of water, the right amount of salt and the right amount of sugar in the blood. If any of these goes too high or too low for long, the body cannot work well. So the body keeps checking each one, and fixing it when it drifts. Keeping balance takes small corrections all the time. Riding a bicycle is similar: you stay upright by steering a little left, then a little right.
 - e.g. On a hot day you sweat, and on a cold day you shiver. Both keep you near 37 degrees.
 - e.g. When you have lost water, you feel thirsty, and you drink.
 - e.g. When you have not eaten for a while, you feel hungry. Food brings your blood sugar back up.
@@ -53,7 +53,7 @@ Your skin and your blood have tiny sensors that feel warmth. They send messages 
 ### Sweating cools you because the sweat dries · *defined*
 **Definition:** Sweat cools you when it evaporates, which means when it dries into the air. Drying takes heat away from your skin.
 
-Sweat itself is not cold. It comes out as warm as you are. The cooling happens when it dries. Water is made of tiny bits called molecules, always jiggling. The fastest jiggling ones fly off into the air first. They carry heat energy away with them. So the water left behind, and your skin under it, gets cooler. That is why a fan feels so good on a sweaty back. The moving air helps the sweat dry faster. Sweat that drips off onto the floor does not cool you much, because it did not dry on your skin. On a hot day you can sweat more than a litre in an hour, so you must drink to put it back.
+Sweat itself is not cold. It comes out as warm as you are. The cooling happens when it dries. Water is made of tiny particles called molecules, always jiggling. The fastest ones fly off into the air first. They carry heat energy away with them. So the water left behind, and your skin under it, gets cooler. That is why a fan feels so good on a sweaty back. The moving air helps the sweat dry faster. Sweat that drips off onto the floor does not cool you much, because it did not dry on your skin. A grown-up working hard on a hot day can sweat more than a litre in an hour. Drinking water puts it back.
 - e.g. A wet hand held in front of a fan feels colder than a dry hand.
 - e.g. A clay matka keeps water cool because a little water seeps out and dries on its outside.
 - e.g. After a bath, you feel chilly until you dry off.
@@ -81,7 +81,7 @@ More than half of your body is water. Every day you lose some of it, in sweat, i
 ### Why sticky monsoon days feel hotter · *defined*
 **Definition:** Humidity is how much water is already in the air. When the air is very humid, sweat dries slowly, so it cools you less.
 
-Remember, sweat cools you only when it dries. Air can hold only so much water. In dry Rajasthan in May, the air is thirsty, and sweat dries almost as soon as it comes out. In Chennai or Mumbai during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even if the thermometer shows the same number. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.
+Remember, sweat cools you only when it dries. Air can hold only so much water. In dry Rajasthan in May, the air is very dry, and sweat dries almost as soon as it comes out. In Chennai or Mumbai during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even if the thermometer shows the same number. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.
 - e.g. Wet clothes dry fast on a dry, windy day, and slowly on a damp monsoon day.
 - e.g. You feel sticky in a crowded, closed room.
 - e.g. A desert cooler works well in Delhi in May, but poorly in Kolkata in July.
@@ -97,7 +97,7 @@ If the air is hotter than your skin and also very humid, sweat stops working. Th
 Nobody knows for sure why mammals like us keep ourselves at about 37 degrees. Being warm costs a lot of food. A lizard, which does not keep itself warm, can eat far less than a mouse of the same size. So why pay so much? Scientists have ideas, but no final answer.
 - e.g. Birds are even warmer than us, about 40 to 42 degrees.
 - e.g. A lizard warms up by lying on a hot rock in the sun.
-- e.g. A cold, warm-blooded animal is slow. A warm one can move fast, even at night.
+- e.g. A lizard is slow on a cold morning until the sun warms it. A mouse can run fast even on a cold night.
 - **Aviv Bergman and Arturo Casadevall, 2010:** Their idea is that 37 degrees is too hot for most fungi, the moulds and yeasts, to grow in us. It is also not so hot that we must eat all day. They worked out that about 36.7 degrees balances the two best.
 - **Many other biologists:** They think being warm let early mammals stay quick and active at night and in the cold. The exact number might partly be an accident of history.
 ### Does the body react, or does it predict? · *debated*
@@ -111,14 +111,14 @@ The usual story is that the body waits for a change, then fixes it. But the body
 ### Staying steady costs energy · *defined*
 **Definition:** A living body uses energy, all the time, to stay different from its surroundings. Without that energy, it would slowly drift to the same warmth as the room.
 
-Leave a cup of hot chai on the table. It cools down until it is the same warmth as the room. That is what non-living things do. A hot thing always gives heat to a colder thing, until they are equal. You do not drift like the chai. That is because you are always burning food in your cells to make heat. Even sitting still, your body gives off about as much heat as an old-fashioned 100 watt bulb. The physicist Erwin Schrödinger wrote about this in 1944, in a small book called What Is Life? He said living things stay ordered by taking in energy and giving out heat. Staying the same is something your body does every second.
+Leave a cup of hot chai on the table. It cools down until it is the same warmth as the room. That is what non-living things do. A hot thing always gives heat to a colder thing, until they are equal. You do not drift like the chai. That is because your cells are always using food to make heat. Even sitting still, a grown-up gives off about as much heat as an old-fashioned 100 watt bulb. The physicist Erwin Schrödinger wrote about this in 1944, in a small book called What Is Life? He said living things stay ordered by taking in energy and giving out heat. So keeping your warmth steady needs food every day.
 - e.g. A cup of hot chai always cools to the room's warmth.
 - e.g. A crowded room gets warm from all the people's body heat.
 - e.g. Food is your fuel. A child eats every day partly to keep warm.
 ### Every living thing keeps balance · *defined*
 **Definition:** Homeostasis is not only for humans. Every living thing, even one tiny cell, keeps its inside different from its outside, and just right.
 
-Each of your cells has tiny pumps in its skin. They push salt out and pull other things in, all day long. A big share of the energy you use at rest goes into these pumps. Bacteria do it too. Animals have many clever ways to stay just right. Dogs pant, because they can only sweat through their paws. Camels let their warmth go up by about 6 degrees during a hot day, to save water from sweating. Storks and some vultures wee on their own legs to cool off. Honeybees keep the middle of their hive at about 35 degrees. They fan with their wings, and spread water drops to cool it. Some sacred lotus flowers even keep themselves warm, at about 30 to 35 degrees, on cool nights.
+Each of your cells has tiny pumps in its skin. They push one kind of salt out and pull another kind in, all day long. A big share of the energy you use at rest goes into these pumps. Bacteria do it too. Animals have many clever ways to stay just right. Dogs have sweat glands only on their paw pads, so they pant to cool down. Camels let their warmth go up by about 6 degrees during a hot day, to save water from sweating. Storks and some vultures wee on their own legs to cool off. Honeybees keep the middle of their hive at about 35 degrees. They fan with their wings, and spread water drops to cool it. Some sacred lotus flowers even keep themselves warm, at about 30 to 35 degrees, on cool nights.
 - e.g. A dog pants with its tongue out on a hot afternoon.
 - e.g. A camel crosses the desert with little water.
 - e.g. A lotus flower in a pond can be warmer than the air around it.
@@ -141,10 +141,14 @@ In 1868, a German doctor called Carl Wunderlich said normal body temperature is 
 ## Mostly agreed
 - The inside of a healthy human body stays at about 37 degrees, whatever the weather. *How we know:* Doctors have measured millions of people in hot and cold countries. Their inside temperature stays within about one degree of 37, unless they are ill.
 - Sweat cools the body when it dries on the skin. *How we know:* A wet thing in moving air cools faster than a dry one. You can measure this with two tumblers and a thermometer. In very humid air, where sweat cannot dry, people get hotter.
-- Shivering makes heat. *How we know:* Scientists measure how much oxygen people use. A shivering person uses several times more, because their muscles are working hard and making heat.
+- Shivering makes heat. *How we know:* Scientists measure how much oxygen people use. A shivering person can use several times more, because their muscles are working hard and making heat.
 - A part of the brain called the hypothalamus controls warmth, thirst and hunger. *How we know:* In animal experiments, warming or cooling a tiny spot in this part of the brain makes the animal sweat, pant or shiver, even when the rest of its body is normal.
 - Thirst and the kidneys keep the body's water balanced. *How we know:* When people drink less, their pee becomes darker and smaller in amount. When they drink more, their pee becomes paler and larger in amount. Blood tests show the saltiness of the blood stays nearly the same.
 - Losing too much water and salt can be dangerous, and ORS can save lives. *How we know:* In 1971, in refugee camps near the Bangladesh border, Dr Dilip Mahalanabis and his team gave ORS to people with cholera when there was not enough drip fluid. Far fewer people died than usual. Since then ORS has saved many millions of lives.
+
+## How we found out
+**Walter Cannon (the dry mouth idea), and the scientists who tested it, including Bengt Andersson, 1918 to 1953.** In 1918, the American scientist Walter Cannon, who later named homeostasis, said that thirst was simply the feeling of a dry mouth. When the body is low on water, he said, it makes less spit, the mouth dries, and so we want to drink. It sounded sensible, but other experiments did not fit. In the 1930s, scientists studied dogs whose swallowed water ran out through a small tube in the neck, so it never reached the stomach. Their mouths were wet, yet they drank, stopped for a short while, and then drank again and again. In 1953, the Swedish scientist Bengt Andersson put a tiny drop of very salty water into the hypothalamus of some goats. The goats' mouths were not dry, and their bodies were not short of water. Within a minute or two they began to drink, and they drank several litres. So thirst starts in the brain, when it senses that the blood has become too salty. A wet mouth stops thirst only for a short time.  
+*What people believed before:* That thirst is only the feeling of a dry mouth.
 
 ## Challenging perspectives
 - **Normal body temperature is exactly 37.0 degrees for everyone.** (Many people, and many old books, following Carl Wunderlich's work in 1868.; *rejected*)  
@@ -169,27 +173,27 @@ In 1868, a German doctor called Carl Wunderlich said normal body temperature is 
 ## Roots
 We have been learning how the body keeps itself just right, by sweating, shivering and feeling thirsty. Now we ask what this steady balance tells us about ourselves and the world.
 
-**Deep truth.** Staying the same is something you do, not something you are.  
-*Habit it breaks:* We think of a body as a fixed thing, like a stone. But a body is more like a flame or a river. Heat, water and atoms flow through it all the time, and it stays 'you' only because it keeps balancing that flow.  
-*Evidence:* A cup of chai cools to the room, but you stay near 37 degrees. You do it by making heat, letting heat and water go, and drinking more, every minute of the day.
+**Deep truth.** After jumping, your cheeks turned red. You did not decide to do that. A small part of your brain felt the heat and opened up the blood vessels in your skin. So your body checks and corrects its own warmth all day, without asking you.  
+*Habit it breaks:* We think of 'me' as the one who runs my body, because I choose to walk, eat and talk. But your warmth is kept by a loop you never feel working: sensors notice, the hypothalamus compares with about 37 degrees, and skin and muscles act.  
+*Evidence:* In Jump and Notice, your cheeks went red and you could not sweat on purpose. In My Steady Inside, your face felt hot after running, but the thermometer under your arm rose less than one degree.
 
-- *who am i:* You are not a still thing. You are a balance, kept up every second, like a flame that stays the same shape.
-- *what is life:* Life is staying just right while the world keeps pushing. A cell, a bee hive and a lotus all do it.
-- *what is this world:* The world is full of flows: sun to skin, skin to air, rain to sea. You are one steady swirl inside them.
+- *who am i:* You are a body that keeps itself near 37 degrees, every minute. Most of that work is done by parts of you that work without you noticing.
+- *what is life:* Every living thing keeps its inside just right while the outside changes. A cell, a beehive and a lotus flower all do it.
+- *what is this world:* Your heat and water leave you all the time, into the air of the room. Food and drink from the world bring them back.
 
-From far away, a river looks like one still thing. Up close, it is always new water. Your body is like that. The same heat that warms the sun warms your food, then you, then the air around you. DeepKids believes this is the One showing up as many swirls, each keeping its own balance for a while, none ever cut off from the rest. Your sweat drying into the air is you and the world trading places, a little at a time.
+The same loop keeps balance at every size. One cell pumps salt to keep its inside right. Your hypothalamus keeps your whole body near 37 degrees. Honeybees fan their wings to keep their hive near 35 degrees. Each one notices a change and acts to undo it, so one simple pattern shows up in countless living things.
 
-- **Bhagavad Gita 2.14:** Krishna says that cold and heat, pleasure and pain, come from the senses touching the world. They come and go. They do not last. Learn to bear them steadily. (Outside, heat and cold come and go. Inside, your body keeps you steady at about 37 degrees. The Gita asks if something in us can be steady like that too.)
+- **Bhagavad Gita 2.14:** Krishna says that cold and heat, pleasure and pain, come from the senses touching the world. They come and go. They do not last. Learn to bear them steadily. (The Gita is talking about the mind, not body warmth. But it uses the same example: heat and cold come and go, and something in you can stay steady while they do.)
 - **Anguttara Nikaya 6.55, the Buddha's teaching to Sona:** Sona, a monk who used to play the vina, was trying far too hard. The Buddha asked him: if the strings are too tight, does the vina play well? If they are too loose? Only strings tuned just right make music. Balance your effort the same way. (Your body does not aim for as hot as possible or as cold as possible. It aims for just right, and keeps tuning, like a vina.)
-- **Heraclitus, in Plato's Cratylus 402a:** Heraclitus, a Greek thinker, said you cannot step into the same river twice, because new water is always flowing. (Your body is always swapping water, heat and atoms with the world. Yet it stays you, because it keeps its balance.)
-- Science (settled): Even sitting still, your body gives off about as much heat as an old 100 watt bulb. You stay steady only by constantly making heat and letting it go.
-- Science (settled): Living things stay ordered and different from their surroundings by taking in energy and giving out heat. Erwin Schrödinger wrote about this in 1944.
-- Other view, Many biologists, and Charvaka thinkers in old India: Many scientists say the body keeps its balance with chemistry alone, the way an AC keeps a room cool. They see no need for any wisdom or mind behind it. Walter Cannon called his 1932 book The Wisdom of the Body, but they say he only meant it as a way of speaking.
+- **Tao Te Ching 77:** The way of nature is like bending a bow. What is too high is pressed down, and what is too low is lifted up. Where there is too much, it takes away. Where there is too little, it adds. (That is how a feedback loop works. Too hot, and your body cools you. Too cold, and it warms you. Too little water, and you feel thirsty.)
+- Science (settled): Warming or cooling a tiny spot in the hypothalamus makes an animal pant or shiver, even when the rest of its body is at its normal warmth. That spot works as the body's thermostat.
+- Science (settled): In mice, thirst cells in the brain switch off within moments of drinking, long before the water reaches the blood. So the brain can correct a change before it has fully happened.
+- Other view, Many biologists: Many scientists say the body keeps its balance by chemistry and nerve signals alone, the way a thermostat keeps a room cool. They see no need for any mind in it. Walter Cannon called his 1932 book The Wisdom of the Body, but they say he meant it only as a way of speaking.
 - Practice, Cooling breath (3 min): Let's sit tall and still. Curl your tongue into a little tube, or if you can't, just open your lips a little. Breathe in slowly through your mouth. Feel how cool the air is on your tongue. Now close your mouth and breathe out slowly through your nose. Let's do that five times. Your tongue felt cool because the air was drying it, like sweat on skin. Now just sit and notice. Is your body hot, cold or just right? You didn't have to do anything to stay just right. Who is doing it?
-- Ask: If the water, heat and atoms in you keep changing, what stays the same?
+- Ask: Your hypothalamus decides when you sweat, and you never feel it deciding. Is that still you deciding?
 - Ask: Who keeps you just right while you sleep?
 - Ask: When your sweat dries into the air, is it still part of you?
-- Ask: Can you be steady inside when things around you are too hot or too cold?
+- Ask: A lotus flower keeps itself warm on a cool night. What do you think the flower senses while it does that?
 
 ## Deep and big questions
 - *deep:* Sweat comes out as warm as you are. So how can it cool you down? (hint: Think about wet clothes drying on a line. Where does the water go, and what does it take with it?)
@@ -198,9 +202,9 @@ From far away, a river looks like one still thing. Up close, it is always new wa
 - *deep:* Why do you feel thirsty as a feeling, instead of your body just quietly fixing itself? (hint: What would happen if your body needed water, but you never felt like drinking?)
 - *big:* Is 'just right' the same for everyone? (hint: Is your mother's comfortable room warmth the same as yours? Is your normal temperature the same as a friend's?)
 - *big:* In a heatwave, who can cool down easily, and who cannot? (hint: Think about a person with an AC in an office, and a person carrying bricks on a building site.)
-- *big:* Can a family, a school or a town keep balance like a body does? (hint: What happens when someone in a family is too tired? Who notices, who decides and who helps?)
+- *big:* A beehive keeps its middle at about 35 degrees, but no single bee is in charge. How can a hive keep balance with no boss? (hint: Each bee fans its wings or fetches water when the place where it stands gets too warm.)
 - *big:* Does the Earth have a thermostat? (hint: Think of what rain, forests and oceans do to the air.)
-- *big:* Can you stay steady inside, even when things around you get hot or cold? (hint: Think about your feelings, not only your body.)
+- *deep:* When you have a fever, your body moves its 'just right' number up. Why might a body want to be hotter when it is ill? (hint: Many germs grow more slowly when it is warmer.)
 
 ## Story: The Pot That Sweats
 *Imagined. The village, Ruksana, Imran and their mother are made up. It is true that a clay matka cools water because water seeps through and dries on its outside, and that heatwaves in western Rajasthan can pass 45 degrees.*
@@ -239,7 +243,7 @@ When their mother came home in the cool of the evening, she found the two of the
 
 People think that keeping cool means holding on to cold. It does not. I have never held on to anything. I stay cool because I let a little go, all the time, into the hot air. Ruksana understood that, that day, with her cheek against my side. I think she understood something else too, though I am only a pot, and I may be wrong. Her brother's body had been doing the same thing all along. It had only needed someone to help it.
 
-**For the parent:** For the parent: the matka is cool not because it is a cold thing, but because water seeps out and evaporates from its surface, carrying heat away. Ruksana's turn is realising that sweat works the same way, and that her brother's body had become too hot and dry to cool itself. A damp cloth and fanning do what sweat does, and ORS puts back water and salt. The story also hints that staying steady is something you do by letting go, not by holding on. In real life, a hot, dry, floppy child in a heatwave needs a doctor or nurse quickly.
+**For the parent:** For the parent: the matka is cool not because it is a cold thing, but because water seeps out and evaporates from its surface, carrying heat away. Ruksana's turn is realising that sweat works the same way, and that her brother's body had become too hot and dry to cool itself. A damp cloth and fanning do what sweat does, and ORS puts back water and salt. In real life, a hot, dry, floppy child in a heatwave needs a doctor or nurse quickly.
 
 - Ask: Why was the water in the matka cooler than the air, even though the matka is made of baked clay?
 - Ask: What did Ruksana notice when she put her cheek against the matka?
@@ -262,7 +266,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   *Parent does:* Play one practice round together. Turn over 'Played cricket at noon: +2'. Move to 7.  
   *Parent says:* We played cricket at noon, so we go up 2, to box 7. That is warm. What could your body do to come back to 5?  
   *Child mode:* Practice card: played cricket at noon, plus 2. You are on 7 now. Which body card brings you back?
-  - Ask: Why does sweating bring you down? (good: When sweat dries, it takes heat away.; The fast water bits fly off and carry heat.)
+  - Ask: Why does sweating bring you down? (good: When sweat dries, it takes heat away.; The fastest water molecules fly off and carry heat.)
   - Check: You are on 7, too warm. Which body card brings you back to 5? → **Sweat: -2**
 - **s3 (10 min)**  
   *Parent does:* Take turns. Each player turns over an event card, moves, then plays one body card and says what their body is doing.  
@@ -282,7 +286,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   - Think: Your real body plays this game all day and all night. Who is playing it while you sleep?
 ### g2 · Brain Says (10 min)
 - **rules:** One person is the Brain and holds the caller cards.; The Brain reads a card. The players act out what the body does. For example, wipe sweat for 'Hot sun!' and shiver for 'Cold wind!'.; For 'Just right!', everyone stands still and smiles.; If a player does a cooling action for a cold card, or a warming action for a hot card, they explain what went wrong and then carry on.; Swap who is the Brain after 6 cards.
-- **Printable cards: 12 caller cards:** Hot sun!; Cold wind!; Ran a long way!; Jumped in a cold pool!; Very thirsty!; Sitting by a fire!; Snow on the mountain!; Sticky monsoon room!; Just woke up, cold morning!; Just ate a big meal!; Fan is on, wet back!; Just right!
+- **Printable cards: 12 caller cards:** Hot sun!; Cold wind!; Ran a long way!; Jumped in a cold pool!; Very thirsty!; Sitting by a fire!; Snow on the mountain!; Sticky monsoon room!; Just woke up, cold morning!; Sitting in a hot bus!; Fan is on, wet back!; Just right!
 - **s1 (2 min)**  
   *Parent does:* Stand in a clear space. Show the players the actions: wipe sweat and fan for hot, shiver and hug yourself for cold, pretend to drink for thirsty.  
   *Parent says:* I am your brain. I will tell you what is happening. You show me what your body does to stay just right.  
@@ -299,9 +303,9 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   - Think: When you are just right, is your body doing nothing? Or is it still checking?
 
 ## Experiments
-### e1 · The Sweaty Tumbler Test (25 min)
+### e1 · The Sweaty Tumbler Test (35 min)
 - **question:** Does a wet cloth, like sweat on skin, cool something down faster than a dry cloth?
-- **predict:** Before you start, guess. Which tumbler will be cooler after 20 minutes: the one in the wet cloth or the one in the dry cloth? Or will they be the same?
+- **predict:** Before you start, guess. Which tumbler will be cooler after 20 minutes: the one in the wet cloth or the one in the dry cloth? Or will they be the same? Why do you think so?
 - **fair test:** To make it fair, keep everything the same except the wet cloth. Use two tumblers that are the same. Pour the same amount of the same warm water in each. Use the same kind of cloth. Put both the same distance from the fan.
 - **safety:** A grown-up pours the warm water. It should feel comfortable to touch, like bath water, not hot. Keep fingers and the cloth away from the fan blades.
 - **record:** Fill in the table every 5 minutes. Then work out how many degrees each tumbler dropped. Draw one bar for each tumbler to show the drop.
@@ -320,11 +324,11 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   *Parent does:* 1. Wet one hanky in tap water and squeeze it until it stops dripping. 2. Wrap it around one tumbler. 3. Wrap the dry hanky around the other. 4. Put both in front of the fan, the same distance away. Switch the fan on.  
   *Parent says:* This wet cloth is like sweat on your skin. The dry cloth is like dry skin. The fan is like a breeze.  
   *Child mode:* Wet one cloth and squeeze it. Wrap it round one tumbler. Wrap the dry cloth round the other. Put both by the fan.
-- **s4 (10 min)**  
+- **s4 (20 min)**  
   *Parent does:* Every 5 minutes, measure each tumbler and write the numbers in the table. Do this at 5, 10, 15 and 20 minutes.  
   *Parent says:* Every 5 minutes, let's measure both. Which one is dropping faster?  
   *Child mode:* Every 5 minutes, measure both tumblers. Write the numbers. Which one is cooling faster?
-  - Note: Put the thermometer in the water each time and wait until the number stops changing. Wipe it between tumblers. While you wait, touch both cloths. The wet one feels cold. If you have no thermometer, a family member can touch each tumbler with their eyes closed and say which is cooler.
+  - Note: Put the thermometer in the water each time and wait until the number stops changing. Wipe it between tumblers. While you wait, touch both cloths. The wet one feels cold. A fever thermometer will not do, because most cannot read below about 32 degrees. On a humid monsoon day the difference is smaller, but it is still there. If you have no thermometer, a family member can touch each tumbler with their eyes closed and say which is cooler.
 - **s5 (2 min)**  
   *Parent does:* Work out how much each tumbler dropped. Take the 20 minute number away from the 0 minute number.  
   *Parent says:* Let's see how much each tumbler cooled. Start number take away end number.  
@@ -332,13 +336,13 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   - Check: In the sweaty tumbler test, the wet cloth tumbler cooled more. Why? → **The water drying from the cloth carried heat away**
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why.  
-  *Parent says:* Let's finish like real scientists. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. A good answer: What I think: being wet helps you cool down. What I saw: the wet cloth tumbler went from 40 to 31 degrees, and the dry one only went from 40 to 37. Why: the water dried in the fan's breeze and carried heat away. That is how sweat cools me.
   - Think: What do you think would happen on a sticky, humid monsoon day, when the wet cloth dries slowly?
 ### e2 · My Steady Inside: does running change my temperature? (25 min)
 - **question:** Does my inside temperature change much when I run around, or does my body keep it steady?
-- **predict:** Guess before you start. After 2 minutes of running on the spot, will your temperature under your arm go up a lot, a little, or not at all?
+- **predict:** Guess before you start. After 2 minutes of running on the spot, will your temperature under your arm go up a lot, a little, or not at all? Why do you think so?
 - **fair test:** To make it fair, measure the same way each time. Use the same thermometer, under the same arm, for the same length of time, until it beeps.
 - **safety:** Run on the spot only for 2 minutes, somewhere you cannot slip. Wipe the thermometer with soap and water before and after.
 - **record:** Fill in the table. Then circle the biggest and smallest temperatures. How far apart are they?
@@ -369,7 +373,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   - Check: After running, your face felt hot, but your temperature under your arm went up by less than one degree. Why? → **Your body sweated and sent blood to the skin to get rid of the extra heat**
 ### e3 · The Matka Test: can a pot sweat? (20 min)
 - **question:** Does water stay cooler in a clay matka than in a steel pot? And why?
-- **predict:** Guess before you start. After 3 hours, will the matka water be cooler, the same, or warmer than the steel pot water?
+- **predict:** Guess before you start. After 3 hours, will the matka water be cooler, the same, or warmer than the steel pot water? Why do you think so?
 - **fair test:** To make it fair, use the same water for both, the same amount, and leave both in the same place, in the shade, side by side.
 - **safety:** Use clean drinking water if anyone will drink it afterwards. A grown-up helps carry the full matka, because it is heavy.
 - **record:** Fill in the table. Draw the matka with little arrows showing water creeping out and drying away.
@@ -418,22 +422,25 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   - Check: After jumping, your face went red and sweaty. Who made that happen? → **My body did it by itself, to cool me down**
   - Think: If you didn't choose to sweat, who did?
 ### a2 · Cold Hands, Warm Hands (10 min)
-- **safety:** Keep a hand in the cold water for 30 seconds only. A grown-up checks the warm water is not hot.
-- **record:** Draw your two hands. Colour the cold hand and the warm hand as they really looked.
+- **safety:** Keep a hand in the cold water for one minute at most, and take it out sooner if it hurts. A grown-up checks the warm water is not hot.
+- **record:** Write down how many seconds the colour took to come back on the cold hand, the other hand, and the warmed hand.
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Your child puts one hand in the cold water for 30 seconds. 2. Dry it. 3. Put both hands side by side.  
-  *Parent says:* Put your right hand in the cold water. I'll count to 30. Now dry it. Look at both hands. What is different?  
-  *Child mode:* Put one hand in cold water. Count to 30. Dry it. Look at both hands. What is different?
+  *Parent does:* 1. Your child presses the pad of a finger on their dry hand for 3 seconds, then lets go. 2. Count the seconds until the white spot is pink again. 3. Now they put the other hand in the cold water for one minute, then dry it.  
+  *Parent says:* Press your fingertip hard for three seconds and let go. See the white spot? Let's count until it is pink again. Now put your other hand in the cold water for one minute.  
+  *Child mode:* Press a fingertip for 3 seconds. Let go. Count until it is pink. Then put your other hand in cold water.
+  - Note: On a warm hand the colour usually comes back in about 1 or 2 seconds. Count out loud: one thousand, two thousand.
 - **s2 (4 min)**  
-  *Parent does:* Explain why the cold hand is paler.  
-  *Parent says:* When your skin gets cold, the tiny blood tubes near your skin squeeze narrow. Less warm blood goes there. So your hand looks pale, and your body keeps its heat inside, near your heart.  
-  *Child mode:* Cold makes the blood tubes in your skin squeeze thin. Less blood comes. So your hand looks pale. Your body is saving heat for your middle.
-  - Check: In the cold water test, why did your cold hand look pale? → **Less blood went to the skin, to save heat**
+  *Parent does:* 1. Press a fingertip of the cold hand for 3 seconds and let go. 2. Count until it is pink again. 3. Ask your child why it is slower.  
+  *Parent says:* Now the cold hand. Press, let go, and count. Was it slower? Why do you think so?  
+  *Child mode:* Press a cold fingertip. Let go. Count. Is it slower this time?
+  - Ask: Why do you think the colour came back more slowly? (good: Less blood is going to the cold hand.; The blood tubes got narrow.)
+  - Note: The cold fingertip usually takes clearly longer to turn pink. A cold hand may look pinker or blotchy rather than pale, and that is fine. The slow return of colour is what to look at. After your child has guessed, explain: in the cold, the tiny blood vessels in the skin squeeze narrow. Less warm blood flows there, so less heat escapes, and your body keeps its heat for your middle.
+  - Check: In Cold Hands, Warm Hands, the cold fingertip took longer to turn pink after you pressed it. Why? → **The blood vessels in the cold skin had squeezed narrow, so less blood flowed there**
 - **s3 (3 min)**  
-  *Parent does:* Your child puts the cold hand in warm water for a minute, then looks again.  
-  *Parent says:* Now warm it up. Watch. The blood tubes open wide again. Warm blood rushes back, and your hand turns pink.  
-  *Child mode:* Put the cold hand in warm water. Watch it turn pink again. The blood is back!
-  - Think: Why do you think your cheeks go red when you run, and your fingers go white in winter?
+  *Parent does:* Your child puts the cold hand in the warm water for one minute, dries it, and does the press test again.  
+  *Parent says:* Now warm it up for a minute. Press and count again. Is it fast again? The blood vessels have opened wide, so warm blood comes back quickly.  
+  *Child mode:* Put the cold hand in warm water. Press a fingertip again. Count. Is it fast now?
+  - Think: Why do you think your cheeks go red when you run, and your fingers go cold in winter?
 ### a3 · Thermostat Hunt (15 min)
 - **safety:** Do not touch the iron, geyser or stove. Only look, and ask a grown-up how they work.
 - **record:** Draw one machine's feedback loop: what notices, what decides, what acts.
@@ -468,6 +475,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   *Parent says:* Look closely at the little hairs on your arm. Now let's make it cold. Look again. What has changed?  
   *Child mode:* Look at your arm hairs through the glass. Wipe your arm with a damp cloth. Hold it by the fan. Look again!
   - Ask: What do you see? (good: Little bumps.; The hairs are standing up.)
+  - Note: If no goosebumps come on a hot day, hold a cold steel tumbler from the fridge against the arm for a few seconds, or try after a bath.
 - **s2 (5 min)**  
   *Parent does:* Explain goosebumps, and compare with a cat fluffing its fur.  
   *Parent says:* Each hair has a tiny muscle. When you are cold, it pulls the hair upright. A cat or a monkey has thick fur. Its standing fur traps a blanket of warm air. Our hair is too thin for that. So goosebumps are a leftover from our furry relatives.  
@@ -498,10 +506,10 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 
 ## Challenges
 ### c1 · Cool the Shoebox Room, No Electricity (30 min)
-- **problem:** Two shoeboxes stand in the sun. One is your test room, one stays plain. Make your room's inside as many degrees cooler than the plain box as you can, in 30 minutes.
+- **problem:** Two shoeboxes stand in the sun, on a sunny windowsill or balcony. One is your test room, one stays plain. Make your room's inside as many degrees cooler than the plain box as you can, in 30 minutes.
 - **your turn:** Now invent your own idea. Draw it, build it, and measure. Did it beat the others? Would it work on a humid monsoon day?
 - **constraints:** No electricity, no ice and no fridge.; You may only use things from home.; Measure the inside of both boxes with a thermometer at the end.
-- **general:** Cover the box with white paper or foil, so it reflects sunlight.; Shade it with leaves or cloth.; Hang a wet cloth over the window, so the air coming in is cooled by drying water.
+- **general:** Cover the box with white paper or foil, so it reflects sunlight.; Shade it with cardboard or cloth.; Hang a wet cloth over the window, so the air coming in is cooled by drying water.
 - **creative:** People in India have hung wet khus grass mats in doorways for hundreds of years. The breeze through the wet mat cools the room. Could you make a tiny one?; Put a damp clay saucer inside, like a tiny matka. Does it help?; Make your box sweat: spray its outside with water every 5 minutes, like skin sweating.
 - **s1 (5 min)**  
   *Parent does:* 1. Put both shoeboxes in the sun. 2. Put a thermometer inside each one. 3. Write down the starting numbers.  
@@ -549,7 +557,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** ['sweat']. *Why:* Sweat comes from millions of tiny sweat glands in your skin.
 4. (mcq) How does sweat cool you down?  
    Options: It dries into the air and carries heat away / Sweat is cold when it comes out / It washes the heat off / It makes your skin shiny  
-   **Answer:** It dries into the air and carries heat away. *Why:* When sweat evaporates, the fastest water bits fly off and take heat with them. Picking 'sweat is cold' is very common. But sweat comes out as warm as you are. The cooling comes from drying.
+   **Answer:** It dries into the air and carries heat away. *Why:* When sweat evaporates, the fastest water molecules fly off and take heat with them. Picking 'sweat is cold' is very common. But sweat comes out as warm as you are. The cooling comes from drying.
 5. (mcq) What do your muscles do when you are very cold?  
    Options: They shiver to make heat / They sweat / They stop working / They get longer  
    **Answer:** They shiver to make heat. *Why:* Shivering is fast shaking of the muscles, and working muscles make heat. Picking 'sweat' mixes up the cooling trick with the warming trick.
@@ -655,7 +663,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    Options: Some plants can do a kind of warmth homeostasis too / Lotus flowers have fur / Plants are animals / The pond is boiling  
    **Answer:** Some plants can do a kind of warmth homeostasis too. *Why:* Scientists measured sacred lotus flowers in 1996 and found they keep themselves warm. Balance-keeping is not only for animals.
 14. (write) The matka in the story says: 'I stay cool because I let a little go.' How is your body like that?  
-   **Answer:** My body lets a little water go as sweat. When it dries, it takes heat away. So I stay just right by giving away a little, not by holding on.. *Why:* Homeostasis often works by letting things go, like heat, water and salt, in the right amounts.
+   **Answer:** My body lets a little water out as sweat. When the sweat dries, it takes heat from my skin. So, like the matka, I cool down by losing a little water.. *Why:* Sweat cools you the same way the matka cools its water: water evaporates from the outside and carries heat away.
 15. (mcq) Which of these is NOT a feedback loop that keeps something steady?  
    Options: A ball rolling down a hill / An overhead water tank float that shuts the tap when full / A geyser that switches off when the water is hot / Shivering when you are cold  
    **Answer:** A ball rolling down a hill. *Why:* A rolling ball just keeps going. Nothing notices and corrects it. The other three all notice a change and act to undo it.
@@ -753,7 +761,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - What would happen if your body never felt thirsty?
 - Why do your fingers get cold before your tummy does?
 - Who in our town might find a heatwave hardest? How could we help?
-- How do you keep your feelings steady when something makes you upset?
+- What did you eat today that your body will turn into warmth?
 
 ## Jokes
 - Why did the thermometer go to school? *It wanted to get more degrees.*
@@ -799,9 +807,9 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Digital kitchen probe thermometer](https://www.amazon.in/s?k=digital+probe+thermometer+kitchen) (tool): Measures the water in the sweaty tumbler test, the matka test and the shoebox challenge. Used in e1, e3, c1. Used again in Heat and Materials units.
 - [Digital fever thermometer](https://www.amazon.in/s?k=digital+thermometer+fever) (tool): Measures your own temperature in the My Steady Inside test. Every home should have one anyway. Used in e2. 
 - [Small clay matka or surahi](https://www.amazon.in/s?k=clay+matka+water+pot) (material): For the matka test, and to keep cool drinking water all summer. Used in e3, c1. A local potter or market will often have them more cheaply.
-- [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To watch goosebumps up close. Used in a5. 
+- [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To watch goosebumps up close. Not needed: you can also look with your eyes alone. Used in a5. 
 - [ORS packets (WHO formula)](https://www.amazon.in/s?k=ors+powder+who+formula) (material): Good to keep at home for loose motions or heat exhaustion. Children can read the packet and see the salt and sugar. Used in p1. Talk about it during My Water Diary. Use it only when needed, as the packet says.
-- [The Way We Work, by David Macaulay](https://www.amazon.in/s?k=the+way+we+work+david+macaulay) (book): A beautiful, detailed picture book of how the body works, for parents and curious children. Used in a4. Read the pages on skin and temperature before the Body Council play.
+- [The Way We Work, by David Macaulay](https://www.amazon.in/s?k=the+way+we+work+david+macaulay) (book): A beautiful, detailed picture book of how the body works, for parents and curious children. Used in a4. Read a few pages on the skin or the brain before the Body Council play.
 
 ## Warm-up
 - About how warm is the inside of your body? → About 37 degrees.

@@ -1,14 +1,14 @@
 {
  "id": "sci.body.body-parts.L3",
- "title": "Body parts outside: what each one does, and how to care for it",
+ "title": "The outside of your body: what each part does and how to care for it",
  "level": 3,
  "summary": {
-  "text": "This unit is about the parts of your body you can see from the outside. Scientists call them external organs. An organ is a body part with its own job. Your skin, hair, nails, eyes, ears, nose, mouth, hands, feet and private parts each do a job, and each one needs its own care. Many parts have guards that look like dirt or fuss, such as earwax, eyelashes and nose hairs, but they keep you safe. Your outside is also always renewing itself. Old skin flakes off, and new skin grows underneath. Scientists still argue about some things, such as what the tiny ridges on your fingertips are really for.",
+  "text": "Your two thumbs grew from the same genes, yet their fingerprints are different. Your skin, hair, nails, eyes, ears, nose, mouth, hands, feet and private parts are external organs: body parts you can see, each with its own job. Many of them have guards that people mistake for dirt, such as earwax, nose mucus and eyelashes. The top layer of your skin is dead cells, and new skin keeps growing underneath to replace it. Each part needs its own care, and washing hands with soap is one of the most important habits of all.",
   "art": "A child standing with arms out, with small labelled circles around them: an eye with lashes, an ear, a nose, teeth, a fingertip with swirling ridges, a foot, and a strip of skin flaking."
  },
  "intro": {
-  "hook": "Press your thumb onto a clean glass or a steel tumbler. Now breathe on that spot. A swirly pattern appears. That pattern is yours alone. No one else in the world has the same one, not even a twin.",
-  "text": "Your skin left that mark without you trying. Tiny drops of sweat and oil sit along the ridges of your thumb. Every time you touch something, you leave a little of yourself behind. In this unit we go on a tour of the outside of your body. Every part has a job. Some parts have little guards that most people think are dirt. And every part needs its own kind of care.",
+  "hook": "Press your thumb onto a clean glass or a steel tumbler. Now breathe on that spot. A swirly pattern appears. That is your thumbprint. Nobody has ever been found with the same one, not even an identical twin.",
+  "text": "Your skin left that mark without you trying. Sweat comes out of tiny holes along the ridges of your fingertips. Your fingers also pick up a little oil from your face and hair. So everything you touch keeps a faint copy of your ridges. Every outside part of your body has a job like this. Some parts have guards that most people think are dirt. And every part needs its own kind of care.",
   "art": "A child's thumb pressed on a steel tumbler, then a misty breath showing a swirling fingerprint on the shiny steel."
  },
  "outcomes": [
@@ -18,7 +18,8 @@
   "I know the correct names of my private parts and how to keep them clean. I know my body belongs to me, which touches are not OK, and who my trusted adults are.",
   "I can explain that hair, nails and the outer skin are made of dead cells pushed out by living cells underneath, and that my outer skin keeps renewing itself.",
   "I can explain why earwax, eyelashes, nose hairs and mucus are helpers, not dirt, and why we never poke things into ears, eyes or noses.",
-  "I can say what scientists agree on about our outer body, and what they still argue about, such as what fingertip ridges are for and whether we can be too clean."
+  "I can say what scientists agree on about our outer body, and what they still argue about, such as what fingertip ridges are for and whether we can be too clean.",
+  "I can compare my two thumbprints and explain why they are different, though they grew from the same genes."
  ],
  "cards_mins": 18,
  "terms": [
@@ -84,7 +85,7 @@
   },
   {
    "term": "Earwax",
-   "meaning": "A sticky, yellow-brown wax made inside the ear. It traps dust and tiny germs, and slowly moves out by itself.",
+   "meaning": "A sticky wax made inside the ear, usually yellow-brown. It traps dust and tiny germs, and slowly moves out by itself.",
    "example": "A little wax at the opening of your ear is normal. Wipe it with a cloth.",
    "art": "A side view of an ear canal with wax slowly moving outwards."
   },
@@ -96,7 +97,7 @@
   },
   {
    "term": "Mucus",
-   "meaning": "The slippery, sticky stuff inside your nose. It traps dust and germs.",
+   "meaning": "The slippery, sticky liquid inside your nose. It traps dust and germs.",
    "example": "When you have a cold, your nose makes extra mucus.",
    "art": "A nose with tiny hairs and sticky mucus catching dust specks."
   },
@@ -114,9 +115,15 @@
   },
   {
    "term": "Fingerprint",
-   "meaning": "The pattern of tiny ridges on the tip of each finger. Every person's pattern is different.",
+   "meaning": "The pattern of tiny ridges on the tip of each finger. Every finger has its own pattern, and no two people have been found to share one.",
    "example": "Your thumb leaves a fingerprint on a shiny steel tumbler.",
    "art": "A big swirling fingerprint with its ridges clear."
+  },
+  {
+   "term": "Genes",
+   "meaning": "Instructions inside almost every cell of your body, passed down from your parents. They guide how your body grows.",
+   "example": "Genes help decide the colour of your eyes and whether your hair is curly or straight.",
+   "art": "A child between two parents, with a tiny zoom-in circle of a cell holding a coiled thread."
   },
   {
    "term": "Germs",
@@ -229,7 +236,7 @@
   {
    "concept": "Ears and the wax that cleans them",
    "status": "defined",
-   "description": "The outer ear is shaped like a funnel to catch sounds. Sounds travel down a short tube, the ear canal, to the eardrum. The eardrum is a thin skin, a little like the skin of a drum. Sound makes it shake, and that is how you hear. The ear canal makes wax. The wax traps dust and tiny germs. Then it slowly moves outwards by itself, helped by your jaw moving when you chew and talk. So ears mostly clean themselves. Doctors say never put cotton buds, hairpins, matchsticks or oil into your ears. They push wax deeper and can tear the eardrum. Just wipe the outside with a cloth. Keep away from very loud sounds.",
+   "description": "The outer ear is shaped like a funnel to catch sounds. Sounds travel down a short tube, the ear canal, to the eardrum. The eardrum is a thin skin, a little like the skin of a drum. Sound makes it shake, and that is how you hear. The ear canal makes wax. The wax traps dust and tiny germs. Then it slowly moves outwards by itself, helped by your jaw moving when you chew and talk. So ears mostly clean themselves. Doctors say never put cotton buds, hairpins or matchsticks into your ears. They push wax deeper and can tear the eardrum. Don't pour oil in either, unless a doctor tells you to. Just wipe the outside with a cloth. Keep away from very loud sounds.",
    "examples": [
     "A little wax at the opening of the ear is normal. Wipe it off with a towel after a bath.",
     "Chewing roti moves your jaw, which helps the wax move out.",
@@ -257,7 +264,7 @@
   {
    "concept": "Mouth and teeth",
    "status": "defined",
-   "description": "Children have 20 milk teeth. From about age 6, they fall out one by one, and bigger teeth grow in. A grown-up usually has 32. Front teeth cut and bite. Back teeth grind food, like a grinding stone. Teeth are covered in enamel, the hardest material in your body. But tiny germs in your mouth feed on sugar and make acid. The acid slowly eats holes in the enamel. To care for your teeth, brush twice a day, for about two minutes. Brushing at night matters most, because your mouth makes less spit while you sleep. Spit helps protect teeth. Rinse your mouth with water after eating, and keep sweet sticky food for mealtimes.",
+   "description": "Children have 20 milk teeth. From about age 6, they fall out one by one, and bigger teeth grow in. A full grown-up set has 32 teeth. Front teeth cut and bite. Back teeth grind food, like a grinding stone. Teeth are covered in enamel, the hardest material in your body. But tiny germs in your mouth feed on sugar and make acid. The acid slowly eats holes in the enamel. To care for your teeth, brush twice a day, for about two minutes. Brushing at night matters most, because your mouth makes less spit while you sleep. Spit helps protect teeth. Rinse your mouth with water after eating, and keep sweet sticky food for mealtimes.",
    "examples": [
     "A toffee stuck between your teeth feeds mouth germs for hours.",
     "Front teeth cut a guava. Back teeth grind it.",
@@ -271,7 +278,7 @@
   {
    "concept": "Hands, fingertips and handwashing",
    "status": "defined",
-   "description": "Your thumb can turn and touch the tip of every finger. This lets you hold a pencil, a needle or a single grain of rice. Your fingertips are packed with nerves, so they feel very well. On their skin are tiny curving ridges. Sweat and oil sit along the ridges, so you leave fingerprints on what you touch. Hands also pick up germs from everything they touch. So wash them with soap before eating, after the toilet, after playing outside and after touching animals. Rub every part for at least 20 seconds, then rinse. Soap grabs the oily layer where germs stick, and water carries it away.",
+   "description": "Your thumb can turn and touch the tip of every finger. This lets you hold a pencil, a needle or a single grain of rice. Your fingertips are packed with nerves, so they feel very well. On their skin are tiny curving ridges. Sweat comes out of tiny holes along the ridges, and your fingers pick up oil from your face and hair. So you leave fingerprints on what you touch. Hands also pick up germs from everything they touch. So wash them with soap before eating, after the toilet, after playing outside and after touching animals. Rub every part for at least 20 seconds, then rinse. Hands carry a thin layer of oil and grease, and germs stick in it. Soap grabs that oil, and water carries it away.",
    "examples": [
     "You leave fingerprints on a glass, a mirror and a phone screen.",
     "Germs from a door handle can get onto your roti if you don't wash your hands.",
@@ -313,7 +320,7 @@
   {
    "concept": "Little guards that look like dirt",
    "status": "defined",
-   "description": "Many people think earwax and mucus are just dirt to dig out. In fact, they are clever traps. Dust and germs stick to them, and the body moves them out. Eyelashes and eyebrows look like decoration, but they guard the eyes. Even the tiny ridges on your fingertips may help you grip and feel. Good care means helping the guards, not fighting them. Wipe the outside. Never poke in.",
+   "description": "Many people think earwax and mucus are just dirt to dig out. In fact, they are traps. Dust and germs stick to them, and the body moves them out. Eyelashes and eyebrows look like decoration, but they guard the eyes. Even the tiny ridges on your fingertips may help you grip and feel. Good care means helping the guards, not fighting them. Wipe the outside. Never poke in.",
    "examples": [
     "Earwax moves out of the ear by itself, like a slow conveyor belt.",
     "Mucus traps dust, and you blow it out.",
@@ -322,12 +329,12 @@
    "perspectives": [],
    "art": "A team picture: an eyelash, an eyebrow, a blob of earwax, a nose hair and a tear drawn as guards around a sleeping child.",
    "context": "This card explains why some parts that look like dirt are really there to protect you.",
-   "definition": "Earwax, nose mucus, eyelashes, eyebrows, tears and sweat are guards. They trap dirt, wash it away or keep it out."
+   "definition": "Earwax, nose mucus, eyelashes, eyebrows and tears are guards. They trap dirt, wash it away or keep it out."
   },
   {
    "concept": "What are fingertip ridges for?",
    "status": "debated",
-   "description": "Everyone agrees that fingertips have ridges, and that every person's pattern is different, even a twin's. The ridges form before you are born, by about four months in the womb, and stay the same shape all your life. But what are they for? Scientists still argue.",
+   "description": "Everyone agrees that fingertips have ridges, and that every person's pattern is different, even an identical twin's. Each of your ten fingers has its own pattern too, so even your two thumbs differ. The ridges form before you are born, between about 10 and 16 weeks in the womb. They grow from a deeper layer of skin, so after a scrape the same pattern grows back. But what are the ridges for? Scientists still argue.",
    "examples": [
     "Pressing your fingertips on a wet steel plate, you can still feel and grip it.",
     "Running your fingertip over cloth, you can tell cotton from silk with your eyes shut."
@@ -371,14 +378,14 @@
      "explanation": "Keep washing hands with soap at the important times. Also play outdoors, in soil and around plants and animals. The two go together."
     }
    ],
-   "art": "A child playing in garden soil next to a sink with soap, with a balance scale between them.",
+   "art": "A child with soil on their hands from a potted plant, next to a sink with soap, with a balance scale between them.",
    "context": "This card is about a question scientists still argue about: is it possible to be too clean?"
   }
  ],
  "agreed": [
   {
    "text": "Each external organ has its own job, and the organs work together.",
-   "evidence": "When one part is hurt, others take over some of the work. For example, people who cannot see learn to read Braille with their fingertips."
+   "evidence": "When one part is hurt, its job suffers. A blocked nose makes food taste dull, and cold, numb fingers fumble with buttons. People who cannot see often learn to read Braille with their fingertips, so another part takes on some of the work."
   },
   {
    "text": "The outer skin keeps renewing itself, and hair and nails grow from living roots.",
@@ -386,15 +393,15 @@
   },
   {
    "text": "Washing hands with soap stops many germs spreading.",
-   "evidence": "In 1847, Ignaz Semmelweis made doctors in a Vienna hospital wash their hands, and far fewer mothers died. Many studies since have shown handwashing with soap cuts tummy and chest illnesses."
+   "evidence": "In 1847, Ignaz Semmelweis made doctors in a Vienna hospital wash their hands in a chlorine solution, and far fewer mothers died. Many studies since have shown handwashing with soap cuts tummy and chest illnesses."
   },
   {
    "text": "Sugar helps mouth germs make acid that damages teeth, and brushing with fluoride toothpaste protects them.",
    "evidence": "Children who eat sweet snacks often get more holes in their teeth. Dentists see fewer holes in children who brush twice a day."
   },
   {
-   "text": "Every person's fingerprints are different, and they form before birth.",
-   "evidence": "Police have compared millions of fingerprints for over 100 years. Even identical twins have different ones."
+   "text": "Every finger has its own print, and fingerprints form before birth.",
+   "evidence": "Police have compared millions of fingerprints for over 100 years. No two have been found to match, not even those of identical twins, or the two thumbs of one person."
   }
  ],
  "challenging": [
@@ -469,9 +476,9 @@
    "hint": "You leave fingerprints and skin flakes everywhere you go."
   },
   {
-   "q": "Why does everyone have different fingerprints, even twins?",
+   "q": "Your two thumbs have the same genes, and so do identical twins. Why are their prints still different?",
    "kind": "deep",
-   "hint": "Twins share the same genes. What else is different for each baby inside the womb?"
+   "hint": "Think about how each fingertip grows before you are born."
   },
   {
    "q": "Who decides who can touch your body?",
@@ -515,7 +522,7 @@
    "She found it at once. She could feel it roll.",
    "\"Now find it with your elbow.\"",
    "She could not. She giggled and pressed her elbow all over the table, and the grain stayed hidden.",
-   "\"Your fingertips are your best feelers,\" said Chacha. \"Maybe the lines help them feel, and help you hold things. Nobody knows for sure. What I do know is this. Along each line are tiny holes, too small to see. A little sweat comes out of them, with a little oil. So whenever you touch something, you leave your pattern behind, even without ink. You have been leaving yourself all over this house since you were born.\"",
+   "\"Your fingertips are your best feelers,\" said Chacha. \"Maybe the lines help them feel, and help you hold things. Nobody knows for sure. What I do know is this. Along each line are tiny holes, too small to see. A little sweat comes out of them. Your fingers pick up a little oil from your face and hair too. So whenever you touch something, you leave your pattern behind, even without ink. You have been leaving yourself all over this house since you were born.\"",
    "Ruksana looked around the room. The door. The water pot. Her slate. Her baby brother Faiz's cheek. She had touched them all. She was everywhere.",
    "That night she could not sleep. She lay on her mat and thought about whirls, loops and hills. In the morning she made a game. She drew a big square on her slate and split it in two. On the left she wrote 'whirl'. On the right she wrote 'no whirl'. Then she went round the whole family, looking at right thumbs.",
    "Her mother had a whirl. Her father had a loop. Faiz had a loop, though he tried to eat the slate. Old Nani's fingertips were so worn from forty years of grinding spices on the stone that Ruksana could hardly see the lines at all.",
@@ -721,7 +728,7 @@
       "I am sticky and yellow-brown. People think I am dirt, but I am a guard. Who am I? (Earwax)",
       "I am a thin skin deep in your ear. I shake when sound arrives. Who am I? (Eardrum)",
       "I warm the air, wet it and catch the dust in it. I also smell your dinner. Who am I? (Nose)",
-      "I am the hardest thing in your body, but sugar germs make acid that eats me. Who am I? (Enamel)",
+      "I am the hardest thing in your body, but germs that feed on sugar make acid that eats me. Who am I? (Enamel)",
       "I can turn and touch every finger. Without me, holding a pencil is very hard. Who am I? (Thumb)",
       "I carry all your weight. My middle curves up like a spring. Who am I? (Foot)",
       "I am made of tiny ridges, and nobody else in the world has me. Who am I? (Fingerprint)",
@@ -911,7 +918,7 @@
       "Soap kills all germs instantly, even without rubbing"
      ],
      "a": 1,
-     "why": "Germs stick to the natural oil on skin. Water slides over oil. Soap grabs oil, so water can carry it away. Picking 'kills instantly' misses that rubbing for 20 seconds matters: the rubbing and rinsing do much of the work.",
+     "why": "Germs stick in the thin layer of oil and grease on hands. Water slides over oil. Soap grabs oil, so water can carry it away. Picking 'kills instantly' misses that rubbing for 20 seconds matters: the rubbing and rinsing do much of the work.",
      "how": "a3"
     },
     {
@@ -991,7 +998,7 @@
      "t": "draw",
      "p": "Draw your hand. Mark the places people most often forget when washing.",
      "a": "Thumbs, fingertips and nails, between the fingers, and the backs of the hands.",
-     "why": "In the oily hands activity, glitter often stays on the thumbs, fingertips and backs of hands. Those are the places to rub carefully.",
+     "why": "In the oily hands activity, the powder often stays on the thumbs, fingertips and backs of hands. Those are the places to rub carefully.",
      "how": "a3",
      "art": "An empty hand outline."
     },
@@ -1137,7 +1144,7 @@
      "p": "In the egg test, the plain egg in vinegar bubbled and its shell went rough. What does this tell you about teeth?",
      "lines": 3,
      "a": "Acid eats hard shells. Mouth germs make acid from sugar, so acid can eat tooth enamel too. Toothpaste helps protect it, so I should brush.",
-     "why": "Eggshell and enamel are both hard minerals that acid can dissolve.",
+     "why": "Eggshell and enamel are different minerals, but both are hard, both are made with calcium, and acid can dissolve both.",
      "how": "e3"
     },
     {
@@ -1213,7 +1220,7 @@
      "t": "write",
      "p": "Plan a fair test to find out if warm water washes oily hands cleaner than cold water. What would you keep the same? What would you change?",
      "lines": 4,
-     "a": "Change only the water: warm or cold. Keep the same oil and glitter, the same soap, and the same 20 seconds of rubbing. Look at how much glitter is left each time.",
+     "a": "Change only the water: warm or cold. Keep the same oil and powder, the same soap, and the same 20 seconds of rubbing. Look at how much powder is left each time.",
      "why": "In a fair test only one thing changes.",
      "how": "a3"
     },
@@ -1233,7 +1240,7 @@
      "t": "write",
      "p": "Your outer skin replaces itself every month or two. Some of the dust in your house is your old skin. Where do you think you end and the world begins?",
      "lines": 4,
-     "a": "Any thoughtful answer. For example: I thought I ended at my skin, but bits of me are always leaving and becoming dust. So the edge is not a wall. It keeps changing.",
+     "a": "Any thoughtful answer. For example: I thought I ended at my skin. But my old skin flakes off and becomes dust, and I leave fingerprints on everything I touch. So it is hard to say exactly where I stop.",
      "why": "This is a big question with no single answer. Good answers use what you saw in the sticky tape test.",
      "how": "e2"
     },
@@ -1321,7 +1328,7 @@
    "mins": 35,
    "days": 6,
    "question": "Do washed hands leave fewer germs on bread than unwashed hands? Does soap make a difference?",
-   "predict": "Before you start, guess. Which slice will grow the most spots: touched by dirty hands, by hands washed in water only, or by hands washed with soap? Which will grow the fewest?",
+   "predict": "Before you start, guess. Which slice will grow the most spots: touched by dirty hands, by hands washed in water only, or by hands washed with soap? Which will grow the fewest? Why do you think so?",
    "fair_test": "To make it fair, use slices from the same loaf, touch each one in the same way for the same time, and keep all the bags in the same dark cupboard. Only the hands change. Keep one slice untouched, so you can see what bread does on its own.",
    "results_table": [
     "Slice",
@@ -1332,7 +1339,7 @@
    ],
    "materials": [
     {
-     "item": "slices of plain bread from one packet",
+     "item": "slices of plain bread from one packet, or pav from one batch",
      "qty": 4
     },
     {
@@ -1436,7 +1443,8 @@
      "do": "1. Line up four slices and four bags. 2. Label the bags: Dirty hands, Water only, Soap, Untouched. 3. Ask your child to guess which slice will grow most spots.",
      "say": "Our hands touch everything, and they pick up tiny living things too small to see. Let's find out what they leave on food.",
      "kid": "Label four bags. Dirty hands. Water only. Soap. Untouched. Which slice will grow the most spots? Guess first.",
-     "context": "This is the first step of the bread test. Germs left on bread grow into spots you can see. You label four bags and make a guess."
+     "context": "This is the first step of the bread test. Germs left on bread grow into spots you can see. You label four bags and make a guess.",
+     "parent": "Bread from a local bakery, or pav, grows mould faster than packet bread, which often has preservatives in it. Sprinkle 5 drops of water on every slice before it goes in its bag, because mould grows best on damp bread. Keep the bags somewhere warm and dark."
     },
     {
      "id": "s2",
@@ -1449,7 +1457,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Your child rinses hands under water only, for 20 seconds, and shakes them dry. 2. They touch slice 2 the same way and seal it. 3. Now they wash with soap for 20 seconds, rinse and dry on a clean towel. 4. They touch slice 3 and seal it.",
+     "do": "1. Your child rinses hands under water only, for 20 seconds, and shakes them dry. 2. They touch slice 2 the same way and seal it. 3. Now they wash with soap for 20 seconds, rinse and shake them dry again. 4. They touch slice 3 and seal it.",
      "say": "Now water only. Then soap. Touch each slice exactly the same way, so it's fair.",
      "kid": "Wash with water only. Touch slice 2. Seal it. Now wash with soap for 20 seconds. Touch slice 3. Seal it.",
      "check": {
@@ -1492,7 +1500,8 @@
       "a": 0,
       "why": "All the slices came from the same loaf and the same kind of bag. The only difference was the hands. So the extra spots came from germs and mould spores on the hands. Picking 'older bread' misses that all slices were the same. Picking 'the bag' misses that all bags were the same too."
      },
-     "how": "e1"
+     "how": "e1",
+     "parent": "Spots often show first on day 3 or 4. In a cool room or with packet bread, it can take longer. If there are no spots by day 6, keep looking every two days until day 10. Results vary, so trust what you see, and talk about it if the slices look alike."
     },
     {
      "id": "s6",
@@ -1501,14 +1510,14 @@
      "say": "Was your guess right? What did soap do that water alone didn't?",
      "kid": "Was your guess right? Which slice is cleanest? Did soap beat water?",
      "think": "Before which jobs in a day should you always wash with soap?",
-     "parent": "Plain water washes off some germs. But many stick to the natural oil on our skin. Soap grabs the oil, so water can carry it, and the germs, away. Mould spots are fungi, and the colours show different kinds."
+     "parent": "Plain water washes off some germs. But many stick in the thin layer of oil and grease on hands. Soap grabs the oil, so water can carry it, and the germs, away. Fuzzy mould spots are fungi, and the colours show different kinds. Small shiny spots may be bacteria."
     },
     {
      "id": "s7",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Tell me three things about the bread test. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: washing with soap takes away the most germs. What I saw: the dirty-hands slice had 11 spots, water only had 6, and soap had 2. Why: soap lifts the oily layer that germs stick to.",
      "context": "This is the end of the bread test. Your child says what they found, using claim, evidence and reasoning."
     }
@@ -1520,7 +1529,7 @@
    "mins": 12,
    "days": 1,
    "question": "Is your skin always shedding tiny bits of itself?",
-   "predict": "Before you start, guess. Will anything stick to the tape? Will the arm and the elbow give the same amount?",
+   "predict": "Before you start, guess. Will anything stick to the tape? Will the arm and the elbow give the same amount? Why do you think so?",
    "fair_test": "To make it fair, use the same length of tape and press for the same time on each place. Use dark paper for every strip, so the flakes show up the same.",
    "results_table": [
     "Place on the body",
@@ -1605,8 +1614,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Tell me three things about the sticky tape test. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: my skin is always shedding. What I saw: tiny white flakes on every strip, and the most on my elbow. Why: the top layer is dead cells that flake off as new skin grows underneath.",
      "context": "This is the end of the sticky tape test. Your child says what they found, with claim, evidence and reasoning."
     }
@@ -1618,7 +1627,7 @@
    "mins": 25,
    "days": 2,
    "question": "Can toothpaste protect a hard shell from acid?",
-   "predict": "Before you start, guess. After a night in vinegar, which egg will have the softer, rougher shell: the plain one, or the one covered in toothpaste?",
+   "predict": "Before you start, guess. After a night in vinegar, which egg will have the softer, rougher shell: the plain one, or the one covered in toothpaste? Why do you think so?",
    "fair_test": "To make it fair, use two eggs of the same kind, two same-sized glasses, and the same amount of vinegar. Only the toothpaste changes. Leave both for the same time.",
    "results_table": [
     "Egg",
@@ -1632,9 +1641,8 @@
      "qty": 2
     },
     {
-     "item": "fluoride toothpaste",
-     "qty": 1,
-     "buy": "b-toothpaste"
+     "item": "toothpaste with fluoride (most toothpastes in India have it: check the tube)",
+     "qty": 1
     },
     {
      "item": "white vinegar, about 2 cups",
@@ -1712,7 +1720,7 @@
        "The vinegar is boiling"
       ],
       "a": 0,
-      "why": "Vinegar is an acid. It reacts with the chalky shell, dissolving it bit by bit and giving off a gas called carbon dioxide. That is the bubbles. Picking 'breathing' is a kind thought, but an egg for eating is not alive. Picking 'boiling' misses that the vinegar is cold."
+      "why": "Vinegar is an acid. It reacts with the chalky shell, dissolving it bit by bit and giving off a gas called carbon dioxide. That is the bubbles. Picking 'breathing' is a good thought, because an eggshell has tiny holes that let air through. But these bubbles are made by the acid. Picking 'boiling' misses that the vinegar is cold."
      },
      "how": "e3",
      "parent": "The toothpaste egg may bubble less, or start later. Results vary with the toothpaste. That is fine: talk about what you see."
@@ -1730,9 +1738,9 @@
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: toothpaste helps protect a shell from acid. What I saw: the plain egg bubbled a lot and its shell went rough and thin, but the toothpaste egg stayed smoother. Why: the fluoride in toothpaste makes the shell harder for acid to dissolve. Enamel works the same way, so brushing protects teeth.",
+     "say": "Tell me three things about the egg test. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: toothpaste helps protect a shell from acid. What I saw: the plain egg bubbled a lot and its shell went rough, but the toothpaste egg stayed smoother. Why: the toothpaste left a thin coat on the shell that slowed the acid down. Fluoride in toothpaste helps tooth enamel stand up to acid in a similar way. If both eggs look the same, that is a real result too. Talk about why it might have happened.",
      "context": "This is the end of the egg test. Your child says what they found, with claim, evidence and reasoning."
     }
    ]
@@ -1759,8 +1767,7 @@
     },
     {
      "item": "a mirror",
-     "qty": 1,
-     "buy": "b-mirror"
+     "qty": 1
     }
    ],
    "safety": "No special safety needed.",
@@ -1845,7 +1852,7 @@
   {
    "id": "a2",
    "title": "Fingerprint Detective",
-   "mins": 20,
+   "mins": 25,
    "days": 1,
    "materials": [
     {
@@ -1866,21 +1873,20 @@
      "buy": "b-lens"
     },
     {
-     "item": "an ink pad (optional)",
-     "qty": 1,
-     "buy": "b-inkpad"
+     "item": "an ink pad, if you have one (the pencil works just as well)",
+     "qty": 1
     }
    ],
    "safety": "Wash hands with soap afterwards, because graphite and ink are messy.",
    "schedule": [
     {
      "day": 1,
-     "mins": 20,
-     "what": "Take fingerprints of the family, sort them into loops, whorls and arches, and count each kind."
+     "mins": 25,
+     "what": "Take thumbprints, compare your own two thumbs, then take the family's prints, sort them into loops, whorls and arches, and count each kind."
     }
    ],
-   "record": "Stick each person's thumbprint on the paper with their name. Make a tally of loops, whorls and arches.",
-   "context": "This is a fingerprint activity. You take prints with pencil and tape, look at the ridges, and sort them into three kinds: loops, whorls and arches.",
+   "record": "Stick your two thumbprints side by side and circle a ridge fork on each. Stick each person's thumbprint on the paper with their name. Make a tally of loops, whorls and arches.",
+   "context": "This is a fingerprint activity. You take prints with pencil and tape, compare your own two thumbs, and sort the family's prints into three kinds: loops, whorls and arches.",
    "setup": [
     {
      "art": "A child rubbing a pencil hard on paper to make a dark patch, then rubbing a fingertip on it.",
@@ -1891,8 +1897,12 @@
      "caption": "2. Press tape on the fingertip. Stick the tape on white paper."
     },
     {
+     "art": "A left and a right thumbprint side by side on white paper under a hand lens, with a small Y-shaped ridge fork circled on one.",
+     "caption": "3. Put your two thumbprints side by side. Look for a ridge that splits in two."
+    },
+    {
      "art": "Three big prints side by side, labelled loop, whorl and arch.",
-     "caption": "3. Sort each print: loop, whorl or arch."
+     "caption": "4. Sort each print: loop, whorl or arch."
     }
    ],
    "flow": [
@@ -1925,6 +1935,26 @@
     },
     {
      "id": "s3",
+     "mins": 5,
+     "do": "1. Make a print of your child's left thumb the same way, and stick it next to the right one. 2. Before looking closely, ask your child whether the two prints will match, and why. 3. Use a hand lens to look at the right print. Find a place where a ridge splits in two, like the letter Y, or where a ridge stops. Circle it. 4. Look at the same place on the left print.",
+     "say": "Your two thumbs grew from the same genes. Do you think their prints will match? Why do you think so? Now find a ridge that splits in two, like a Y. Is there one in the same place on your other thumb?",
+     "kid": "Print your left thumb too. Put it next to the right one. Will they match? Find a ridge that splits like a Y. Circle it. Is there one in the same place on the other print?",
+     "parent": "Genes are the instructions inside your cells that guide how your body grows. The two prints often look like mirror images, and they may be the same kind, such as two whorls. But the small forks and ends will not be in the same places. If a print is smudged, make a darker pencil patch and try again.",
+     "check": {
+      "t": "mcq",
+      "q": "Your two thumbs grew from the same genes. What did you find when you compared their prints closely?",
+      "options": [
+       "The forks and ends of the ridges were in different places",
+       "The two prints matched exactly",
+       "One thumb had no ridges"
+      ],
+      "a": 0,
+      "why": "Every finger has its own print, even though the cells in both thumbs carry the same genes. The ridges formed before you were born, and tiny differences in how each fingertip grew set the details. If your prints looked the same at first, look again at the small forks. They will not match. 'No ridges' only happens when a print is smudged."
+     },
+     "how": "a2"
+    },
+    {
+     "id": "s4",
      "mins": 8,
      "do": "Take the right thumbprint of everyone at home. Label each with the person's name. Sort them into loops, whorls and arches. Make a tally.",
      "say": "Is anyone's print the same as yours? Even people in the same family?",
@@ -1932,7 +1962,7 @@
      "parent": "Loops are the most common kind, then whorls. Arches are rare. Family members often have similar kinds, but never the same exact print."
     },
     {
-     "id": "s4",
+     "id": "s5",
      "mins": 2,
      "do": "Wash hands with soap. Look at how well soap removes the grey graphite compared with water alone.",
      "say": "Pencil and oil stick to skin. Watch what soap does.",
@@ -1953,7 +1983,7 @@
      "qty": 1
     },
     {
-     "item": "a pinch of glitter, or a pinch of haldi (turmeric) powder",
+     "item": "a pinch of haldi (turmeric) powder, or a pinch of glitter",
      "qty": 1
     },
     {
@@ -1969,7 +1999,7 @@
      "qty": 1
     }
    ],
-   "safety": "Haldi can stain skin and nails yellow for a few hours. That's harmless. Keep glitter away from eyes.",
+   "safety": "Haldi can stain skin and nails yellow for a few hours. That's harmless. If you use glitter, keep it away from eyes.",
    "schedule": [
     {
      "day": 1,
@@ -1978,18 +2008,18 @@
     }
    ],
    "record": "Draw your hands after water only and after soap. Then draw the six steps of handwashing.",
-   "context": "This is a handwashing activity. Glitter or haldi stands in for germs on oily hands. You see what water alone does, then what soap does.",
+   "context": "This is a handwashing activity. Haldi powder or glitter stands in for germs on oily hands. You see what water alone does, then what soap does.",
    "setup": [
     {
-     "art": "A child's hands rubbed with oil and sprinkled with glitter.",
-     "caption": "1. Rub a few drops of oil on your hands. Sprinkle on glitter or haldi."
+     "art": "A child's hands rubbed with oil and sprinkled with yellow haldi powder.",
+     "caption": "1. Rub a few drops of oil on your hands. Sprinkle on haldi or glitter."
     },
     {
-     "art": "Hands in a bowl of plain water, glitter still stuck on.",
+     "art": "Hands in a bowl of plain water, the yellow powder still stuck on.",
      "caption": "2. Wash with water only. Look at your hands."
     },
     {
-     "art": "Soapy hands rubbing between the fingers, the glitter coming away.",
+     "art": "Soapy hands rubbing between the fingers, the yellow powder coming away.",
      "caption": "3. Now wash with soap for 20 seconds. Look again."
     }
    ],
@@ -1997,9 +2027,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Rub a few drops of oil over your child's hands. Sprinkle on a pinch of glitter or haldi. Say the glitter is pretend germs.",
-     "say": "Our skin is a little oily, and germs stick to that oil. Let's pretend this glitter is germs.",
-     "kid": "Rub oil on your hands. Sprinkle on glitter. Pretend it is germs.",
+     "do": "Rub a few drops of oil over your child's hands. Sprinkle on a pinch of haldi or glitter. Say the powder is pretend germs.",
+     "say": "Hands pick up a thin layer of oil from food, from your face and from things you touch. Germs stick in that oil. Let's pretend this powder is germs.",
+     "kid": "Rub oil on your hands. Sprinkle on the powder. Pretend it is germs.",
      "context": "This is the first step of the oily hands activity. Glitter stands in for germs on oily skin."
     },
     {
@@ -2007,34 +2037,34 @@
      "mins": 3,
      "do": "Your child washes in plain water for 20 seconds, then shakes their hands and looks.",
      "say": "Did water alone get the germs off?",
-     "kid": "Wash with water only for 20 seconds. Look. Is the glitter gone?",
+     "kid": "Wash with water only for 20 seconds. Look. Is the powder gone?",
      "check": {
       "t": "mcq",
-      "q": "After water only, most glitter is still stuck on. Why?",
+      "q": "After water only, most of the powder is still stuck on. Why?",
       "options": [
        "Water and oil don't mix, so water slides over the oil",
        "We didn't use hot enough water",
-       "Glitter can never come off"
+       "The powder can never come off"
       ],
       "a": 0,
-      "why": "Oil and water don't mix. Water runs over oily skin without lifting the oil, so anything stuck in the oil stays put. Picking 'hot water' is a common idea. Warm water feels nicer, but soap matters much more than heat. Picking 'never comes off' is about to be proved wrong."
+      "why": "Oil and water don't mix. Water runs over oily skin without lifting the oil, so anything stuck in the oil stays put. Picking 'hot water' is a common idea. Warm water feels nicer, but soap matters much more than heat. Picking 'can never come off' is about to be proved wrong."
      },
      "how": "a3"
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Now wash with soap, rubbing for 20 seconds. Teach the six steps: palms, backs of hands, between the fingers, the backs of the fingers, the thumbs, and the fingertips and nails. Then rinse.",
+     "do": "Now wash with soap, rubbing for 20 seconds. Teach the six steps. Rub the palms, then the backs of the hands, then between the fingers. Then rub the backs of the fingers, the thumbs, and the fingertips and nails. Then rinse.",
      "say": "Soap grabs oil with one end and water with the other. So water can carry the oil, and the germs, away. Let's count 20 seconds, or sing Happy Birthday twice.",
      "kid": "Now use soap. Rub palms, backs, between fingers, thumbs and nails. Sing Happy Birthday twice. Rinse.",
-     "parent": "Children often wash only their palms. The thumbs, fingertips and backs of the hands are the places most often missed. Watch where glitter stays."
+     "parent": "Children often wash only their palms. The thumbs, fingertips and backs of the hands are the places most often missed. Watch where the powder stays. Haldi may leave a faint yellow tint even after soap. That is dye soaked into the skin, so look for the grains of powder instead."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "Look at the hands. Where is glitter still stuck? Talk about when to wash with soap: before eating, after the toilet, after playing outside, after touching animals, and after sneezing into your hands.",
+     "do": "Look at the hands. Where is the powder still stuck? Talk about when to wash with soap. Wash before eating, after the toilet, after playing outside and after touching animals. Wash after sneezing into your hands too.",
      "say": "When are the most important times to wash with soap?",
-     "kid": "Where is glitter still stuck? When must you wash with soap? Say four times.",
+     "kid": "Where is the powder still stuck? When must you wash with soap? Say four times.",
      "ask": [
       {
        "q": "When should we always wash hands with soap?",
@@ -2158,8 +2188,7 @@
     },
     {
      "item": "a mirror",
-     "qty": 1,
-     "buy": "b-mirror"
+     "qty": 1
     },
     {
      "item": "a cup of water and a spoon",
@@ -2303,7 +2332,7 @@
      "say": "So what's our ear rule?",
      "kid": "Swap roles. Then say the ear rule: wipe the outside, never poke in.",
      "think": "If wax is a guard, why does a doctor sometimes take some out?",
-     "parent": "Sometimes wax gets stuck and blocks hearing. Then a doctor removes it safely. Never use oil, sticks or ear candles at home."
+     "parent": "Sometimes wax gets stuck and blocks hearing. Then a doctor removes it safely. Don't use oil, sticks or ear candles at home unless a doctor tells you to."
     }
    ]
   }
@@ -2317,8 +2346,7 @@
    "materials": [
     {
      "item": "a nail cutter",
-     "qty": 1,
-     "buy": "b-nailcutter"
+     "qty": 1
     },
     {
      "item": "a 15 cm ruler with millimetres",
@@ -2806,6 +2834,20 @@
    "why": "Vinegar is an acid. It dissolves the chalky shell and gives off a gas. Mouth germs make acid that eats enamel in the same way.",
    "how": "e3",
    "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Your left and right thumbs grew from the same genes. What are their prints like?",
+   "opts": [
+    "Different: the ridge forks and ends are in different places",
+    "Exactly the same, because the genes are the same",
+    "Different, because one thumb is older",
+    "They have no pattern at all"
+   ],
+   "a": 0,
+   "why": "Every finger has its own print. The ridges formed before birth, and tiny differences in how each fingertip grew set the details. Picking 'exactly the same' is the common idea that genes decide everything. Both thumbs are the same age, so 'older' cannot be the reason.",
+   "how": "a2",
+   "outcome": 7
   }
  ],
  "applications": [
@@ -2817,10 +2859,10 @@
   "Tippy taps and handwashing stations in schools cut down tummy illnesses.",
   "Sunglasses, swimming goggles and safety glasses copy the eye's guards.",
   "Earplugs and ear muffs protect the eardrums of factory and airport workers.",
-  "Shoe soles copy the thick skin of feet and the grip of fingertips.",
+  "Shoe soles have grooves that let water escape, the way fingertip ridges may help on wet things.",
   "Skin grafts and burn treatments use the skin's power to renew itself.",
   "Body safety lessons in schools help children speak up and stay safe.",
-  "Robot designers copy eyelids and eyebrows to protect cameras from dust and rain."
+  "Cameras on cars and buildings have hoods and wipers that keep rain off, like eyebrows and eyelids."
  ],
  "spotted": [
   {
@@ -2863,7 +2905,7 @@
   },
   {
    "q": "Exactly how does each person's fingerprint pattern form in the womb?",
-   "why_open": "Scientists know genes and the way skin grows and folds both matter. They are still working out the details."
+   "why_open": "Ridges start at a few spots on each fingertip and spread out across it. Genes and the way the skin grows both shape where they meet. Scientists are still working out the details."
   },
   {
    "q": "How clean is clean enough?",
@@ -3125,7 +3167,7 @@
    "id": "b-lens",
    "item": "Hand lens (magnifying glass)",
    "kind": "tool",
-   "why": "To look closely at skin flakes, fingerprints and bread mould through a bag.",
+   "why": "To look closely at skin flakes, fingerprints and bread mould through a bag. Everything still works without one.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "e1",
@@ -3135,37 +3177,6 @@
    "plan": "Used again in many science units, from plants to rocks."
   },
   {
-   "id": "b-mirror",
-   "item": "A hand mirror",
-   "kind": "tool",
-   "why": "To look at your own eyes, eyebrows, teeth and ears.",
-   "url": "https://www.amazon.in/s?k=hand+mirror",
-   "used_in": [
-    "a1",
-    "a5"
-   ]
-  },
-  {
-   "id": "b-inkpad",
-   "item": "Washable stamp ink pad",
-   "kind": "material",
-   "why": "Makes clear fingerprints for Fingerprint Detective.",
-   "url": "https://www.amazon.in/s?k=washable+stamp+ink+pad",
-   "used_in": [
-    "a2"
-   ]
-  },
-  {
-   "id": "b-nailcutter",
-   "item": "Nail cutter",
-   "kind": "tool",
-   "why": "For cutting nails short and straight, and for the Nail Tracker project.",
-   "url": "https://www.amazon.in/s?k=nail+cutter+for+kids",
-   "used_in": [
-    "p1"
-   ]
-  },
-  {
    "id": "b-ruler",
    "item": "15 cm ruler with millimetres",
    "kind": "tool",
@@ -3173,16 +3184,6 @@
    "url": "https://www.amazon.in/s?k=15+cm+ruler",
    "used_in": [
     "p1"
-   ]
-  },
-  {
-   "id": "b-toothpaste",
-   "item": "Children's fluoride toothpaste and a soft toothbrush",
-   "kind": "material",
-   "why": "For the egg test and for brushing twice a day. Use a pea-sized amount.",
-   "url": "https://www.amazon.in/s?k=kids+fluoride+toothpaste",
-   "used_in": [
-    "e3"
    ]
   },
   {
@@ -3252,31 +3253,31 @@
  ],
  "plan": {
   "start_options": [
-   "story",
-   "a1",
    "a2",
+   "story",
    "e1",
+   "a1",
    "g1",
    "big_questions",
    "cards"
   ],
   "default_order": [
    "intro",
+   "a2",
+   "e1",
    "summary",
-   "a1",
    "terms",
    "explanations",
-   "a3",
-   "e1",
-   "g1",
    "a4",
+   "a1",
+   "a3",
+   "g1",
    "story",
    "e2",
    "a5",
    "a6",
    "ws-core",
    "videos",
-   "a2",
    "e3",
    "agreed",
    "challenging",
@@ -3292,20 +3293,20 @@
    "quiz"
   ],
   "core": [
-   "a1",
-   "a3",
-   "a4",
+   "a2",
    "e1",
+   "a4",
+   "a3",
    "e2",
    "g1",
    "ws-core",
-   "a5"
+   "a1"
   ],
   "spine": [
    "intro",
-   "a1",
+   "a2",
+   "e1",
    "explanations",
-   "a3",
    "a4",
    "roots",
    "quiz"
@@ -3326,37 +3327,38 @@
    "Strachan, British Medical Journal 1989 (hay fever, hygiene and household size), and Rook, 'old friends' papers from 2003",
    "Semmelweis, The Etiology, Concept and Prophylaxis of Childbed Fever, 1861",
    "Trotter, 1928 (shaving does not change hair growth)",
-   "Mayfield fingerprint error: US Department of Justice Office of the Inspector General report, 2006"
+   "Mayfield fingerprint error: US Department of Justice Office of the Inspector General report, 2006",
+   "Glover and others, Cell 2023 (how fingerprint ridges start at a few spots on the fingertip and spread across it)"
   ]
  },
  "roots": {
-  "context": "We have been learning about the outside of the body: skin, hair, nails, eyes, ears, nose, mouth, hands and feet. Now we ask what our outside tells us about ourselves and the world.",
+  "context": "We have been learning about the outside of the body, from skin and hair to the ridges on your fingertips. Now we ask what your own two thumbprints tell you about how a body is made.",
   "deep_truth": {
-   "truth": "Your edge is a doorway, not a wall.",
-   "habit": "We think of the skin as the place where 'me' stops and 'the world' starts. But your outer skin is always flaking off and growing back, you leave fingerprints on everything you touch, and air, light and sound come in through your eyes, ears and nose all day. The edge of you is always busy, always changing and always sharing.",
-   "evidence": "In the sticky tape test, flakes of your skin came off on the tape. Your outer skin is replaced about every month or two, and some house dust is old skin."
+   "truth": "Your two thumbs grew from the same genes, yet their prints had ridge forks and ends in different places. Each pattern formed before birth, shaped by tiny differences in how each fingertip grew. So your body's fine details come from how you grew, as well as from your genes.",
+   "habit": "People often speak of genes as a complete plan of a body, drawn down to the last line. Your two thumbs carry the same genes and still have different prints, so the genes cannot hold every detail.",
+   "evidence": "In Fingerprint Detective, your left and right thumbprints did not match, though they grew from the same genes in the same womb. Identical twins share their genes, and their fingerprints differ too. Ridges start at a few spots on each fingertip before birth and spread across it, and where they meet sets the pattern."
   },
   "three": {
-   "who_am_i": "You are not the same skin you were two months ago. Something in you stays the same while your outside keeps changing.",
-   "what_is_life": "Living things keep renewing themselves. Your hair, nails and skin grow out, wear away and grow again.",
-   "what_is_this_world": "The world keeps coming into you, as air, light and sound, and you keep leaving bits of yourself in it."
+   "who_am_i": "You are one of a kind, right down to your fingertips. Part of what makes you is the way you happened to grow.",
+   "what_is_life": "A living body builds itself. Its cells grow and divide, and the exact shape of each part comes out of that growing.",
+   "what_is_this_world": "Your skin meets the world all day. It keeps out dirt and germs, feels every touch, and leaves your fingerprints on what you hold."
   },
-  "thread": "DeepKids believes everything rises from one ground, and the many things we see are that One taking shape. Your skin looks like a line that splits you from the world. Look closely, and it is more like a river bank, where water and land keep swapping places. Your fingerprints on a cup, your old skin in the dust, the air you breathe in and out: the One is passing through you, and you through it.",
+  "thread": "Your whole body grew from one first cell. That cell divided again and again, and almost every new cell carried the same genes. Yet those cells became skin, hair, nails, eyes and ten different fingerprints. One cell with one set of genes grew into many different parts. That is one becoming many, inside your own body.",
   "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.12",
+    "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Inside, Shvetaketu can see nothing at all. Uddalaka tells him that the whole great banyan tree grows out of that nothing he cannot see.",
+    "link": "The first cell of your body held no tiny fingerprint you could have seen. The ridges appeared only as your fingertips grew, before you were born."
+   },
    {
     "source": "Plato, Cratylus 402a, reporting Heraclitus",
     "teaching": "Heraclitus, a Greek thinker, said you cannot step into the same river twice. The water is always new, yet it is still the river.",
-    "link": "Your skin, hair and nails are always being replaced, yet you are still you. Like the river, you are a flow that keeps its shape."
+    "link": "Your outer skin is replaced every month or two, yet the same fingerprint grows back each time, because its pattern is held in a deeper layer of skin."
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing'",
     "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself.",
-    "link": "Look deeply at your skin and you can see the food you ate, the water you drank and the sunlight that helped make vitamin D. Your outside is made of the world."
-   },
-   {
-    "source": "Chandogya Upanishad 6.13",
-    "teaching": "Uddalaka asks his son to put salt in water and leave it overnight. In the morning the salt cannot be seen, yet every sip tastes salty. The unseen is present everywhere.",
-    "link": "Germs and your own skin flakes are too small to see, yet they are on everything. The bread test made the unseen show itself."
+    "link": "Your new skin cells are built from the dal, rice and water you took in. Look deeply at your skin, and you can see the farms and the rain that grew your food."
    }
   ],
   "science": [
@@ -3365,26 +3367,32 @@
     "status": "settled"
    },
    {
-    "text": "Millions of tiny living things live on your skin, and many of them help keep harmful germs away. So your outside is shared with other life.",
+    "text": "Fingerprint ridges form between about 10 and 16 weeks in the womb. Genes affect what kind of pattern a finger has, but every finger's exact print is different, even between identical twins.",
     "status": "settled"
    }
   ],
   "other_view": {
-   "who": "Many biologists",
-   "view": "The skin is a real boundary, and a very important one. It is what keeps an organism alive and separate, and it controls what comes in and goes out. They would say the boundary is exactly what makes you a 'you', and needs no deeper oneness to explain it. That is an honest view."
+   "who": "Many scientists who study genes",
+   "view": "Genes matter more than this makes it sound. Identical twins' prints are often the same kind and look alike, and the kind of pattern runs in families. They would say the differences are small details, and the genes did the main work. That is an honest view."
   },
   "practice": {
-   "title": "Feel your edges",
+   "title": "Read your fingertips",
    "mins": 3,
-   "say": "Sit still and close your eyes. Feel the air on your face and hands. Is it warm or cool? Now breathe in slowly through your nose, and feel the cool air come in. Breathe out, and feel the warm air leave. Rest your hands on your knees. Can you feel exactly where your hand stops and your knee begins? Stay with it for three breaths. Then open your eyes.",
-   "kid": "Close your eyes. Feel the air on your skin. Breathe in through your nose. Breathe out. Where does your hand end and your knee begin?"
+   "say": "Sit somewhere with good light. Hold up both hands, palms towards you. Look closely at the tip of one thumb. Follow one ridge with your eyes, from one side to the other. Now look at your other thumb in the same way. These lines grew while you were growing inside your mother. Rest your hands on your knees and take three slow breaths.",
+   "kid": "Hold up your hands. Look at the tip of one thumb. Follow one ridge with your eyes. Now look at your other thumb. Rest your hands. Take three slow breaths."
   },
   "ask": [
-   "Where do you end and the world begin?",
-   "If all your skin is new every few months, what part of you stays the same?",
+   "Your two thumbs have the same genes. What else could make their prints different?",
+   "Your outer skin keeps being replaced, yet your fingerprint grows back the same. What keeps it the same?",
    "Is the fingerprint you left on a cup still a part of you?",
-   "Your hair is dead, but it is yours. What makes something 'you'?"
+   "Your hair is dead, but it is yours. What makes something part of you?"
   ],
-  "art": "A child's hand resting on a riverbank, with a zoom-in circle showing skin cells flaking into the air like leaves, and fingerprints drifting on the water."
+  "art": "A child's two hands held up side by side, with zoom-in circles on both thumbs showing ridge patterns that look alike but fork in different places."
+ },
+ "how_we_found_out": {
+  "story": "In 1847, in a big hospital in Vienna, many mothers were dying of a fever soon after giving birth. The hospital had two wards for births. In the ward run by doctors and medical students, about one mother in ten died. In the ward run by midwives, far fewer died. Most doctors blamed bad air. A young doctor, Ignaz Semmelweis, noticed a difference. The doctors often came straight from cutting open dead bodies to help with births. The midwives did not. Then his friend, Dr Jakob Kolletschka, was cut by a student's knife while examining a dead body. He died of an illness very like the mothers' fever. Semmelweis guessed that something unseen on the doctors' hands was carrying it. He made every doctor wash their hands in a chlorine solution before touching a mother. Within months, deaths in the doctors' ward fell to about one or two in a hundred. Many doctors still refused to believe him. They did not like being told their own hands carried disease. In the 1860s and 1870s, Louis Pasteur and Joseph Lister showed that germs too small to see cause illness. Semmelweis had been right.",
+  "who": "Ignaz Semmelweis and the midwives and doctors of the Vienna General Hospital, and later Louis Pasteur and Joseph Lister",
+  "when": "1847 (handwashing in Vienna), and the 1860s and 1870s (Pasteur and Lister's work on germs)",
+  "wrong_idea": "Most doctors thought the fever came from bad air, and that their own hands could not carry illness. When Semmelweis made them wash in a chlorine solution, deaths in the doctors' ward fell from about 1 in 10 to 1 or 2 in 100."
  }
 }

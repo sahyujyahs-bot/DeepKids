@@ -1,30 +1,30 @@
 {
  "id": "sci.health.hygiene.L3",
- "title": "Hygiene: how soap, water and clean habits keep germs away",
+ "title": "Hygiene: how soap lifts germs off your hands",
  "level": 3,
  "see_also": [
   "sci.body.immune-system.L3",
   "sci.what-is-life.cells.L3",
   "sci.water.water-sources-and-uses.L3"
  ],
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home with the materials listed. Changes made: the haldi test now says to score clumps of powder, not the faint yellow dye haldi leaves on skin, and to wash fully between rounds so each round starts fresh. The pepper test works only once per plate of water, so it says to use fresh water and a rinsed plate for each try. The jar test gives amounts, says the plain jar separates in 1 to 3 minutes, and says to stop at 10 minutes and write 'more than 600 seconds' if the soapy jar is still cloudy. Bar soap flakes work but slowly. The bread test says packet bread with preservatives can take 10 days or more, so bakery bread or pav is better, and that a mouldy soap slice is a real result to talk about. The bags are never opened. The reetha activity now says to soak the shells at least 15 minutes beforehand, and what to do if they have not soaked long. The tippy-tap was redesigned so it really tips: it hangs by a taped string round its middle, three-quarters full, with the foot string on its neck. The maths problem was changed to match. The Sneeze Catcher uses food colour or ink, because haldi blocks a spray nozzle. The timeline lets children write words instead of drawing all 8 cards, so it fits 25 minutes. Germ Journey has a rule for when the cards run out and a clear goal for one player: keep both germs out for 15 rolls. Make a Micelle needs 2 or more players. Parents should know: the bread test runs for a week, the haldi stains clothes and towels, reetha stings in the eyes, and the private-parts card is short and plain about body safety. The Semmelweis card and chart say honestly that mothers died; read it first and tell it calmly.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home with the materials listed. The haldi test says to score clumps of powder, not the faint yellow dye haldi leaves on skin, and to wash fully between rounds so each round starts fresh. The jar test gives amounts, says the plain jar separates in 1 to 3 minutes, and says to stop at 10 minutes and write 'more than 600 seconds' if the soapy jar is still cloudy. Bar soap flakes work but slowly. The bread test says packet bread with preservatives can take 10 days or more, so bakery bread or pav is better, and that a mouldy soap slice is a real result to talk about. The bags are never opened. The reetha activity says to soak the shells at least 15 minutes beforehand, and what to do if they have not soaked long. The tippy-tap hangs by a taped string round its middle, three-quarters full, with the foot string on its neck, so it really tips. The Sneeze Catcher uses food colour or ink, because haldi blocks a spray nozzle. The timeline lets children write words instead of drawing all 8 cards, so it fits 25 minutes. The still-water check works in a flat: trays, buckets and coolers are scrubbed as well as emptied, because some mosquito eggs stick to the sides. The pepper test and the animal-watching activity were taken out, because they were about other ideas (surface tension, animal grooming) and broke the unit's one thread: germs ride on hands, and soap lifts them off. Parents should know: the bread test runs for a week, the haldi stains clothes and towels, reetha stings in the eyes, and the private-parts card is short and plain about body safety. The Semmelweis card and chart say honestly that mothers died; read it first and tell it calmly.",
  "summary": {
-  "text": "This unit is about hygiene. Hygiene means the habits that keep our bodies, food, water and homes clean, so germs do not make us ill. Germs are tiny living things, far too small to see. They ride on our hands, in water, on food and in sneezes. Water alone slides off the oily layer where germs hold on. Soap is made of tiny two-ended molecules. One end grabs oil and the other grabs water, so soap lifts germs off and washes them away. It can even break open some viruses. About 180 years ago, doctors did not believe that their own hands carried illness. A doctor named Ignaz Semmelweis, and the midwives whose ward he compared with his own, helped show that they did. Most microbes are not germs at all. Millions of friendly ones live on your skin, and hygiene is about washing at the right moments, not killing everything. How your body fights the germs that do get in is in the unit on the immune system.",
-  "art": "A child's soapy hands under a running tap, with a zoomed-in circle showing tiny two-ended soap molecules wrapping a blob of oil and a germ, and friendly microbes waving from the skin around it."
+  "text": "Plain water runs off an oily hand and leaves the dirt behind. Germs, the few microbes that can make us ill, sit in that thin layer of skin oil. A soap molecule holds oil at one end and water at the other, so the rinse carries the oil away, and the germs go with it. Most of those germs go down the drain still alive, far from your mouth. So washing with soap at the right moments, such as before food and after the toilet, stops germs passing from hand to mouth and from person to person.",
+  "art": "A child's soapy hands under a running tap, with a zoomed-in circle showing two-ended soap molecules wrapping a blob of oil with a germ inside, being carried off in the water towards the drain."
  },
  "intro": {
-  "hook": "Rub a drop of cooking oil on your palm. Now rinse it with plain water and touch a sheet of paper. Is the oil gone? Now try again with soap.",
-  "text": "Your hands touch hundreds of things every day: door handles, coins, your pet, your face. Tiny living things ride along on each touch. Most are harmless, and many are friends. A few can give you a tummy ache or a cold. You cannot see any of them. So how do we know they are there? And how can a little bar of soap and some water get rid of them, when water alone cannot?",
+  "hook": "Rub a drop of cooking oil on your palm. Rinse it with plain water, then press your palm on a sheet of paper. Is there an oily mark? Now wash with soap, and press again.",
+  "text": "Your hands touch hundreds of things every day, such as door handles, coins and your own face. Tiny living things called microbes ride along on every touch. Most are harmless. A few, called germs, can give you a tummy upset or a cold. They are far too small to see. So how can we know they are on our hands? And why does soap get them off when water alone does not?",
   "art": "A child looking puzzled at a shiny, oily palm with water drops beading and rolling off it, a bar of soap waiting beside the tap."
  },
  "outcomes": [
-  "I can say what germs are, where they live, and the main ways they travel from one person to another.",
-  "I can explain how soap works: its two-ended molecules hold oil and water, lift germs off and break some viruses open.",
-  "I can wash my hands properly, for at least 20 seconds, at the moments that matter most, and test cleaning fairly.",
+  "I can say what germs are, and how they travel from one person to another on hands, water, food, sneezes and insects.",
+  "I can explain why water alone leaves oily dirt behind, and how soap's two-ended molecules lift oil and germs off.",
+  "I can wash my hands properly, for at least 20 seconds, at the moments that matter most, and test a way of cleaning fairly.",
   "I can say how to care for each outer part of my body, and that my private parts are mine, kept clean and private.",
-  "I can explain how clean water, toilets, covered food and no standing water keep a whole street healthy, and who does that work.",
-  "I can tell how people found out that germs cause illness, including Semmelweis, the midwives, and the scientists who came after.",
-  "I can explain that most microbes are harmless or helpful, that clean does not mean germ-free, and what scientists still do not know."
+  "I can explain how clean water, toilets, covered food and no standing water stop germs reaching a whole street.",
+  "I can tell how Semmelweis and the midwives' ward showed that doctors' hands were carrying illness.",
+  "I can say what a wash does to microbes: it lifts most of the visitors off alive, and leaves most of the skin's own microbes in place."
  ],
  "cards_mins": 20,
  "terms": [
@@ -44,7 +44,7 @@
    "term": "Germ",
    "meaning": "A microbe, or a virus, that can make us ill. Only a small number of microbes are germs.",
    "example": "The germ that causes cholera lives in dirty water.",
-   "art": "A crowd of friendly round microbes, with just one or two spiky germs among them."
+   "art": "A crowd of round and rod-shaped microbes, with just one or two germs among them, marked with a small red dot."
   },
   {
    "term": "Bacteria",
@@ -54,25 +54,25 @@
   },
   {
    "term": "Virus",
-   "meaning": "A tiny packet of instructions in a coat, far smaller than bacteria. It can only make copies of itself inside a living cell. Some viruses wear an oily outer coat.",
+   "meaning": "A tiny packet of genes inside a coat, far smaller than a bacterium. It can make copies of itself only inside a living cell. Some viruses, such as flu, have an oily outer coat.",
    "example": "The common cold and flu are caused by viruses.",
    "art": "A round virus with an oily bubble-like coat and little spikes, next to a much bigger bacterium for size."
   },
   {
    "term": "Molecule",
    "meaning": "A tiny group of atoms joined together. Everything is made of molecules: water, oil, soap and you.",
-   "example": "One drop of water has more water molecules in it than there are stars we can see.",
+   "example": "One drop of water holds more water molecules than there are stars in our whole galaxy.",
    "art": "A drop of water zooming into tiny V-shaped water molecules."
   },
   {
    "term": "Soap",
-   "meaning": "A cleaner made of molecules with two different ends. One end loves water. The other end loves oil and grease.",
+   "meaning": "A cleaner made of molecules with two different ends. One end sticks to water. The other end sticks to oil and grease.",
    "example": "A bar of soap, liquid handwash and dishwashing liquid all work this way.",
-   "art": "A soap molecule drawn like a tadpole: a round head labelled water-loving and a long tail labelled oil-loving."
+   "art": "A soap molecule drawn as a round head labelled 'sticks to water' and a long tail labelled 'sticks to oil'."
   },
   {
    "term": "Water-loving and oil-loving",
-   "meaning": "Some molecules stick to water. Others avoid water and stick to oil. Oil and water do not mix, because water molecules hold on to each other and push oil out.",
+   "meaning": "Water-loving molecules stick to water. Oil-loving molecules avoid water and stick to oil. Oil and water do not mix, because water molecules hold on to each other and leave the oil out.",
    "example": "Oil floats in a layer on top of water in a glass.",
    "art": "A glass with yellow oil sitting on top of water in a neat layer."
   },
@@ -81,12 +81,6 @@
    "meaning": "A tiny ball made by many soap molecules. Their oily tails point inwards and hold oil and dirt. Their heads face out into the water. The water carries the balls away.",
    "example": "When you rinse soapy hands, millions of micelles go down the drain with the grease inside.",
    "art": "A ring of tadpole-shaped soap molecules with tails pointing to a blob of oil in the middle and heads pointing out into blue water."
-  },
-  {
-   "term": "Surface tension",
-   "meaning": "The pull between water molecules at the top of water. It makes the surface act a little like a stretchy skin.",
-   "example": "A water strider insect can stand on a pond because of surface tension.",
-   "art": "A water strider standing on a pond, its feet making small dips in the water's surface."
   },
   {
    "term": "Germ theory",
@@ -108,7 +102,7 @@
   },
   {
    "term": "Resident and visitor microbes",
-   "meaning": "Resident microbes live on your skin all the time. Visitor microbes are picked up from things you touch. Washing removes mostly the visitors.",
+   "meaning": "Resident microbes live on your skin all the time, deep in its folds. Visitor microbes are picked up from things you touch. A wash with soap lifts off mostly the visitors.",
    "example": "After you pat a street dog, its microbes are visitors on your hand.",
    "art": "A hand with small home-like microbes settled in the skin, and suitcase-carrying visitor microbes on top being washed away."
   },
@@ -127,7 +121,7 @@
   {
    "term": "Disinfect",
    "meaning": "To kill most of the germs on something, using heat or a strong chemical.",
-   "example": "Boiling drinking water for one minute kills the germs in it.",
+   "example": "Boiling drinking water for one minute kills almost all the germs in it.",
    "art": "A steel pot of water boiling on a stove with bubbles rising."
   },
   {
@@ -140,7 +134,7 @@
    "term": "Mucous membranes",
    "meaning": "The soft, wet linings of your eyes, nose and mouth. Germs get into the body most easily here.",
    "example": "That is why we wash hands before rubbing our eyes or eating.",
-   "art": "A child's face with the eyes, nose and mouth gently highlighted as soft, wet doorways."
+   "art": "A child's face with the eyes, nose and mouth gently highlighted, and a small label reading 'soft, wet linings'."
   },
   {
    "term": "Fair test",
@@ -151,10 +145,10 @@
  ],
  "explanations": [
   {
-   "concept": "What germs are, and how they travel",
+   "concept": "How germs travel from one person to another",
    "status": "defined",
-   "definition": "Germs are microbes or viruses that can make us ill. They travel on hands, in water and food, through the air in sneezes and coughs, and on insects like flies and mosquitoes.",
-   "description": "Germs cannot walk or fly by themselves. They get carried. Most of the time, hands carry them. A hand touches a dirty surface, then touches the eyes, nose or mouth. Those soft, wet linings are the easiest way into the body. A sneeze sprays tiny drops that carry germs across a room. Dirty water and uncovered food carry germs into the tummy. Flies land on rubbish and then on food. Mosquitoes carry malaria and dengue germs from one person to the next. So hygiene is really about breaking the chain at each step. How the body fights germs that get past its walls is in the unit on the immune system.",
+   "definition": "Germs are the microbes and viruses that can make us ill. They travel from person to person on hands, in water and food, in the drops of a sneeze or cough, and on flies and mosquitoes.",
+   "description": "Many bacteria can swim through water, but each second they cover less than the width of a hair. To get from one person to another, a germ needs a ride. Most often the ride is a hand. A hand touches a dirty surface, then touches the eyes, nose or mouth. Those soft, wet linings are the easiest way into the body. A sneeze sprays tiny drops across a room. Dirty water and uncovered food carry germs into the stomach. Flies walk on rubbish and then on food. Mosquitoes carry the germs of malaria and dengue from one person's blood to another's. Hygiene means breaking these paths at the right moments. The hand is the path that is easiest to break, with soap and water. How the body fights germs that do get in is in the unit on the immune system.",
    "examples": [
     "A child plays with a ball outside, then eats a samosa without washing. Germs ride from the ball, to the hand, to the mouth.",
     "A sneeze into the air can spray drops more than a metre. A sneeze into your elbow keeps most of them on your sleeve.",
@@ -162,7 +156,7 @@
    ],
    "perspectives": [],
    "art": "A chain of pictures joined by arrows: a dirty ball, a hand, a samosa, a mouth, with a big soap bar breaking the chain between hand and samosa.",
-   "context": "This card explains the main idea behind hygiene: germs are carried from place to place, and we can break the chain."
+   "context": "This card explains the main idea of the unit: a germ needs a ride from one person to the next, and we can stop the ride."
   },
   {
    "concept": "Why water alone is not enough",
@@ -180,28 +174,41 @@
   {
    "concept": "How soap works, down to the molecules",
    "status": "defined",
-   "definition": "A soap molecule has a head that loves water and a long tail that loves oil. The tails dig into oily dirt and germs. The heads face the water. Many soap molecules surround the oil in tiny balls called micelles, and the water carries them away.",
-   "description": "Picture a soap molecule like a tiny tadpole. Its round head sticks to water. Its long tail hates water and hides in oil. When you rub soap on oily hands, millions of tails push into the oil. They pry little blobs of oil off your skin. The tails stay inside each blob and the heads point outwards. Now each blob is wrapped in heads that love water. So water can grab the blob and wash it down the drain, with the germs inside. The rubbing helps a lot, because it breaks the oil into small pieces. That is why we rub for at least 20 seconds. Soap also does something to some viruses. Flu viruses and coronaviruses wear an oily outer coat. Soap tails push into that coat and break it apart, so the virus falls to pieces.",
+   "definition": "A soap molecule has a head that sticks to water and a long tail that sticks to oil. The tails push into oily dirt and germs, and the heads face the water. Many soap molecules wrap each blob of oil in a tiny ball called a micelle, and the rinse water carries the balls away.",
+   "description": "A soap molecule is long and thin. One end, its head, sticks to water. The other end, its long tail, avoids water and sticks to oil. When you rub soap on oily hands, millions of tails push into the oil. Rubbing breaks the oil into tiny blobs, and soap molecules cover each one, tails in and heads out. Now the outside of each blob sticks to water. So the rinse water carries the blobs off your skin and down the drain, with the dirt and germs inside them. This takes time and rubbing, which is why we rub for at least 20 seconds. Plain soap kills very few bacteria. It lifts them off, and the water carries them away alive.",
    "examples": [
     "Dishwashing liquid lifts oil off a kadhai the same way that handwash lifts it off your hands.",
-    "In the oil, water and soap jar test, soap turns the clear layers into one cloudy mix. The cloudiness is millions of tiny micelles."
+    "In the jar test, shaking with soap turns the two clear layers into one cloudy mix. The cloudiness is millions of tiny oil drops, each covered in soap molecules."
    ],
    "perspectives": [],
-   "art": "A four-step zoom: soapy hands; a blob of oil on skin; tadpole-shaped soap molecules pushing their tails into it; a finished ball of soap molecules floating away in water with the oil and a germ inside.",
+   "art": "A four-step zoom: soapy hands; a blob of oil on skin; soap molecules pushing their tails into it; a finished ball of soap molecules floating away in the rinse water with the oil and a germ inside.",
    "context": "This card zooms right in, past anything a microscope can show, to explain how a bar of soap really cleans your hands."
   },
   {
-   "concept": "Soap's molecules are built like your own cell walls",
+   "concept": "Why soap breaks some viruses but not your hands",
    "status": "defined",
-   "definition": "Every cell in your body is wrapped in a thin skin made of molecules with water-loving heads and oil-loving tails, just like soap. The oily coat of some viruses is made the same way. That is why soap can break it.",
-   "description": "Each of your cells has a wall around it called a membrane. It is made of two layers of molecules. Their water-loving heads face out, towards the watery outside and the watery inside. Their oil-loving tails tuck into the middle, away from water. The oily coat of a flu virus is built the same way, from the cell the virus came from. Soap molecules are similar enough to slip in and pull the coat apart. Your own skin is safe, because its top layer is made of tough, dead cells. Some scientists think the very first cells, billions of years ago, began when molecules like these folded into tiny bubbles in water. That is still an idea, being tested in laboratories.",
+   "definition": "Flu viruses and coronaviruses have an oily outer coat. It is built from two-ended molecules like soap's, so soap can pull it apart. Your living cells are protected by the tough top layer of your skin.",
+   "description": "Every cell in your body is wrapped in a thin skin called a membrane. It is made of two layers of molecules with water-loving heads and oil-loving tails, a little like soap. Some viruses take a piece of this membrane from the cell they grew in, and wear it as an outer coat. Soap molecules slip into that oily coat and break it apart. Without its coat, the virus cannot get into a new cell. A hand-wash does not reach your own living cells. The top layer of your skin is made of flat, dead cells packed tightly together, and soap cannot get through it. Soap does lift some of your skin's own oil, which is why washing very often can dry your hands.",
    "examples": [
     "A soap bubble is a thin film of water held between two layers of soap molecules.",
-    "Washing with soap too often can dry out skin, because soap also lifts some of the skin's own oil."
+    "Some viruses, such as the ones that cause many tummy upsets in children, have no oily coat. Soap cannot break them, but a good wash still lifts them off hands."
    ],
    "perspectives": [],
    "art": "Side by side: a soap bubble's film, a cell membrane and a virus coat, each drawn as rows of tadpole molecules, heads out and tails in.",
-   "context": "This card shows a surprise: the molecule in a bar of soap is built like the walls of your own cells."
+   "context": "Soap does more than lift germs off. This card explains how it breaks some viruses, and why it does not harm your hands."
+  },
+  {
+   "concept": "What a wash does to the microbes on your skin",
+   "status": "defined",
+   "definition": "A wash with soap lifts off mostly the visitor microbes, the ones picked up from things you touched. Most of them leave alive, in the rinse water. Most of the skin's own resident microbes stay where they live.",
+   "description": "Only a small share of all microbes are germs. Most are harmless, and many are helpful, like the bacteria that turn milk into curd. Your skin is home to millions of microbes. Most live there all the time, deep in the folds and tiny openings of the skin. They are called residents. Some residents make substances that stop harmful bacteria from growing on you. Bacteria sense what is around them, such as food, warmth and other bacteria, and decide when to settle, swim or grow. Some scientists call these automatic responses. Visitor microbes are picked up from door handles, coins, animals and food. They sit on the surface, in the oil, so soap and water lift them off easily. Plain soap kills very few of them. It moves them, still alive, off your hands and down the drain. There they join the huge numbers of microbes that already live in drains, sewers and soil.",
+   "examples": [
+    "In the bread test, slices touched by unwashed hands usually grow more mould than slices touched by soap-washed hands. The mould spores were washed off.",
+    "Tests found that antibacterial soap, which kills bacteria, cleans hands at home no better than plain soap. Lifting germs off is what matters."
+   ],
+   "perspectives": [],
+   "art": "A zoomed-in patch of skin: resident microbes settled in the folds, and visitor microbes on the oily surface being lifted off in soap bubbles and carried towards a drain.",
+   "context": "This card follows the microbes on your hands during a wash: which ones leave, which ones stay, and where they go."
   },
   {
    "concept": "When and how to wash your hands",
@@ -217,10 +224,35 @@
    "context": "This card gives the steps for washing hands well, and the moments when washing matters most."
   },
   {
+   "concept": "How clean is too clean?",
+   "status": "debated",
+   "description": "Hygiene saves millions of lives. But some scientists noticed something puzzling. Allergies, such as hay fever and some kinds of asthma, became more common as homes got cleaner. Could living with too few microbes be part of the reason? Scientists still argue about this.",
+   "examples": [
+    "Children who grow up on farms with animals tend to have fewer allergies.",
+    "No study has shown that washing hands before meals causes allergies."
+   ],
+   "perspectives": [
+    {
+     "who": "David Strachan, a British doctor, in 1989",
+     "explanation": "He studied over 17,000 British children. Those with more older brothers and sisters had less hay fever. He suggested that catching more infections when very young might protect against allergies. This became known as the hygiene hypothesis."
+    },
+    {
+     "who": "Graham Rook, a British scientist, in 2003, and many scientists today",
+     "explanation": "It is not catching illnesses that helps. It is meeting the harmless 'old friends' microbes that people lived with for thousands of years, in soil, plants, animals and other people."
+    },
+    {
+     "who": "Sally Bloomfield, a British hygiene scientist, and others",
+     "explanation": "Calling it a hygiene problem is misleading, because it makes people stop washing hands. She argues for targeted hygiene: wash well at the key moments, such as before food and after the toilet, and otherwise let children play outside, in mud and with animals."
+    }
+   ],
+   "art": "A child happily digging in a garden with muddy hands, then washing them with soap before eating a roti, with a question mark between the two pictures.",
+   "context": "This card is about a real argument among scientists: can a home be too clean?"
+  },
+  {
    "concept": "Caring for the outside of your body",
    "status": "defined",
-   "definition": "Each outer part of the body has its own way of staying healthy. Hygiene helps the body do what it is already doing.",
-   "description": "Bathe every day, or at least often, to wash away sweat, dead skin and visitor germs. Brush your teeth twice a day, morning and night, so mouth bacteria cannot turn sugar into acid that makes holes. Keep nails short and clean, because dirt and germs hide under them. Wash and comb hair, and check for lice, tiny insects that anyone can get. Never poke anything inside your ears. Earwax cleans itself out. Do not rub your eyes with dirty hands. Blow your nose into a hanky or tissue, then wash your hands. Wear chappals outside, because some worm larvae in dirty soil can get in through bare feet. Your private parts, the parts covered by underwear, are kept clean and private. Your body belongs to you. If any touch feels wrong, say no, get away, and tell a grown-up you trust.",
+   "definition": "Dirt and germs collect in different places on the body, and each part has its own way of being kept clean.",
+   "description": "Bathe every day, or at least often, to wash away sweat, dead skin and visitor germs. Brush your teeth twice a day, morning and night. Bacteria in the mouth turn sugar left on teeth into acid, and the acid makes holes. Keep nails short and clean, because dirt and germs hide under them. Wash and comb hair, and check for lice, tiny insects that anyone can get. Never poke anything inside your ears. Earwax cleans itself out. Do not rub your eyes with dirty hands. Blow your nose into a hanky or tissue, then wash your hands. Wear chappals outside, because some worm larvae in dirty soil can get in through bare feet. Your private parts, the parts covered by underwear, are kept clean and private. Your body belongs to you. If any touch feels wrong, say no, get away, and tell a grown-up you trust.",
    "examples": [
     "A neem datun, a chewed twig, was India's toothbrush for centuries. Today dentists add fluoride toothpaste, which protects teeth from acid.",
     "Hookworm larvae in soil can enter through the skin of bare feet. Chappals stop them."
@@ -233,7 +265,7 @@
    "concept": "Clean surroundings keep a whole street healthy",
    "status": "defined",
    "definition": "Safe water, toilets, covered drains, covered food, rubbish taken away and no standing water stop germs from spreading to many people at once.",
-   "description": "One family washing their hands helps that family. Clean water and toilets help a whole town. Germs from human waste can get into water and food, and make many people ill at once. That is why toilets and clean drains matter so much. Boiling or filtering drinking water kills or removes most germs. Covered food keeps flies off. Mosquitoes lay their eggs in still water, even a little water in a flowerpot tray or a coconut shell. The eggs become flying mosquitoes in about a week in warm weather. So emptying every container of still water once a week stops them. In 2014, India began the Swachh Bharat Mission to build toilets and clean streets. Sanitation workers, many of whom do hard and risky work for little thanks, keep towns healthy every day.",
+   "description": "One family washing their hands helps that family. Clean water and toilets help a whole town. Germs from human waste can get into water and food, and make many people ill at once. That is why toilets and clean drains matter so much. Boiling or filtering drinking water kills or removes most germs. Covered food keeps flies off. Mosquitoes lay their eggs in still water, even a little water in a flowerpot tray or a coconut shell. In warm weather, the eggs become flying mosquitoes in about a week. So emptying and scrubbing every container of still water once a week stops them. The scrubbing matters, because some mosquito eggs stick to the sides and can stay alive for months without water. In 2014, India began the Swachh Bharat Mission to build toilets and clean streets. Sanitation workers, many of whom do hard and risky work for little thanks, keep towns healthy every day.",
    "examples": [
     "A cooler or a tyre left with water in it can grow hundreds of mosquitoes in a week.",
     "ASHA workers, women health workers in Indian villages, visit families to talk about clean water, toilets and mosquitoes."
@@ -241,19 +273,6 @@
    "perspectives": [],
    "art": "A cheerful Indian lane: a covered water tank, a flowerpot tray tipped out, a covered drain, a woman health worker talking to a family at their door.",
    "context": "This card goes beyond one person's hands. It shows how a clean street, clean water and toilets keep everyone healthy."
-  },
-  {
-   "concept": "How we found out about germs",
-   "status": "defined",
-   "definition": "Germ theory says that many illnesses are caused by tiny living things passed from one person or place to another. It took hundreds of years and many people to show this.",
-   "description": "Long ago, many people thought illness came from bad smells in the air, or from bad luck. Some guessed the truth early. In 1546, an Italian doctor, Girolamo Fracastoro, wrote that diseases might spread by tiny invisible seeds. In the 1670s, Antonie van Leeuwenhoek, a cloth-seller in the Netherlands, made his own tiny lenses. He saw 'little animals' swimming in pond water and in the white stuff scraped off his teeth. Nobody yet linked them to illness. In 1847, Ignaz Semmelweis showed that doctors' unwashed hands were carrying illness to mothers. In 1854, Filippo Pacini in Italy saw the cholera germ, and John Snow in London showed that cholera spread through one water pump. In the 1860s, Louis Pasteur showed that microbes come from other microbes, not from nowhere. Joseph Lister began cleaning wounds and tools in surgery in 1867. In 1884, Robert Koch, working in Kolkata and in Egypt, grew the cholera germ and convinced the world.",
-   "examples": [
-    "Pacini described the cholera germ in 1854, thirty years before Koch. Hardly anyone noticed. Today the germ's full name includes his name: Vibrio cholerae Pacini 1854.",
-    "Florence Nightingale and Mary Seacole cared for soldiers in the 1850s. Nightingale used careful counts to show that clean hospitals saved lives."
-   ],
-   "perspectives": [],
-   "art": "A timeline along a washing line, with pegged pictures: a tiny lens, a hand-washing basin, a water pump with its handle removed, a swan-necked glass flask and a microscope.",
-   "context": "We now know germs cause many illnesses. This card tells how people found out, step by step, over about 350 years."
   },
   {
    "concept": "Semmelweis, the midwives and the washing basin",
@@ -308,48 +327,23 @@
    ]
   },
   {
-   "concept": "Most microbes are friends, not germs",
+   "concept": "How we found out about germs",
    "status": "defined",
-   "definition": "Only a small number of the world's microbes cause illness. Most are harmless, and many are needed: on our skin, in our gut, in soil, in food and in the sea.",
-   "description": "Your skin is home to millions of microbes. Some kinds of them make substances that stop harmful bacteria from growing. Washing with soap removes mostly the visitors, the microbes picked up from things you touch. Most residents live deeper in the skin's folds and pores, and stay. Microbes in your gut help digest food. Microbes turn milk into curd and make idli and dosa batter rise. Soil microbes turn dead leaves into new soil. Tiny ocean microbes make a large share of the oxygen in the air. Microbes also matter for themselves, not just for what they do for us. They were here for billions of years before any animal. The unit on the immune system tells how your friendly microbes help guard you.",
+   "definition": "Germ theory says that many illnesses are caused by tiny living things passed from one person or place to another. It took hundreds of years and many people to show this.",
+   "description": "Long ago, many people thought illness came from bad smells in the air, or from bad luck. Some guessed the truth early. In 1546, an Italian doctor, Girolamo Fracastoro, wrote that diseases might spread by tiny invisible seeds. In the 1670s and 1680s, Antonie van Leeuwenhoek, a cloth-seller in the Netherlands, made his own tiny lenses. He saw 'little animals' swimming in water and in the white stuff scraped off his teeth. Nobody yet linked them to illness. In 1847, Ignaz Semmelweis showed that doctors' unwashed hands were carrying illness to mothers. In 1854, Filippo Pacini in Italy saw the cholera germ, and John Snow in London showed that cholera spread through one water pump. In the 1860s, Louis Pasteur showed that microbes come only from other microbes. Joseph Lister began cleaning wounds and tools in surgery in 1867. In 1884, Robert Koch, working in Egypt and then in Kolkata, grew the cholera germ and convinced most doctors.",
    "examples": [
-    "Leave a little curd in warm milk overnight, and its microbes turn the milk into new curd.",
-    "Cows can live on grass only because microbes in their stomachs break the grass down."
+    "Pacini described the cholera germ in 1854, thirty years before Koch. Hardly anyone noticed. Today the germ's full name includes his name: Vibrio cholerae Pacini 1854.",
+    "Florence Nightingale and Mary Seacole cared for soldiers in the 1850s. Nightingale used careful counts to show that clean hospitals saved lives."
    ],
    "perspectives": [],
-   "art": "A busy, friendly scene: a curd pot, an idli steamer, a pile of leaves turning to soil and a green sea, each with smiling microbes at work.",
-   "context": "Germs get all the attention. This card is about the far bigger number of microbes that are harmless or helpful."
-  },
-  {
-   "concept": "How clean is too clean?",
-   "status": "debated",
-   "description": "Hygiene saves millions of lives. But some scientists noticed something puzzling. Allergies, such as hay fever and some kinds of asthma, became more common as homes got cleaner. Could living with too few microbes be part of the reason? Scientists still argue about this.",
-   "examples": [
-    "Children who grow up on farms with animals tend to have fewer allergies.",
-    "No study has shown that washing hands before meals causes allergies."
-   ],
-   "perspectives": [
-    {
-     "who": "David Strachan, a British doctor, in 1989",
-     "explanation": "He studied over 17,000 British children. Those with more older brothers and sisters had less hay fever. He suggested that catching more infections when very young might protect against allergies. This became known as the hygiene hypothesis."
-    },
-    {
-     "who": "Graham Rook, a British scientist, in 2003, and many scientists today",
-     "explanation": "It is not catching illnesses that helps. It is meeting the harmless 'old friends' microbes that people lived with for thousands of years, in soil, plants, animals and other people."
-    },
-    {
-     "who": "Sally Bloomfield, a British hygiene scientist, and others",
-     "explanation": "Calling it a hygiene problem is misleading, because it makes people stop washing hands. She argues for targeted hygiene: wash well at the key moments, such as before food and after the toilet, and otherwise let children play outside, in mud and with animals."
-    }
-   ],
-   "art": "A child happily digging in a garden with muddy hands, then washing them with soap before eating a roti, with a question mark between the two pictures.",
-   "context": "This card is about a real argument among scientists: can a home be too clean?"
+   "art": "A timeline along a washing line, with pegged pictures: a tiny lens, a hand-washing basin, a water pump with its handle removed, a swan-necked glass flask and a microscope.",
+   "context": "We now know germs cause many illnesses. This card tells how people found out, step by step, over about 350 years."
   },
   {
    "concept": "Plant soaps and old cleaners",
    "status": "defined",
    "definition": "Some plants make their own soap-like molecules, called saponins. Reetha and shikakai are full of them, which is why they foam and clean.",
-   "description": "The soapnut tree's fruit, reetha, makes a rich foam when rubbed in water. Its saponins have a water-loving part and an oil-loving part, just like soap. People in India have used reetha and shikakai to wash hair, silk and jewellery for centuries. Soap as we know it is made by mixing fat or oil with a strong alkali, a chemical that came long ago from wood ash. Some of the oldest known recipes for soap-like cleaners, mixing fat and ash, come from Mesopotamia, in today's Iraq, over 4,000 years ago. Plants probably make saponins to protect themselves from insects and fungi, not for us.",
+   "description": "The soapnut tree's fruit, reetha, makes a rich foam when squeezed in water. Its saponins have a water-loving part and an oil-loving part, just like soap, so they lift oil off the same way. People in India have used reetha and shikakai to wash hair, silk and jewellery for centuries. Soap as we know it is made by mixing fat or oil with a strong alkali, a chemical that long ago came from wood ash. Some of the oldest known recipes for soap-like cleaners, mixing fat and ash, come from Mesopotamia, in today's Iraq, over 4,000 years ago. Plants probably make saponins to protect themselves from insects and fungi, not for us.",
    "examples": [
     "Soak a few reetha shells in warm water and squeeze them. White foam appears.",
     "Ash was used to scrub steel and brass pots in many Indian homes, because it is alkaline and cuts grease."
@@ -357,40 +351,6 @@
    "perspectives": [],
    "art": "A soapnut tree heavy with round fruits, and below it a bowl of reetha foam beside a modern bar of soap.",
    "context": "Long before soap bars, people cleaned with plants. This card explains why plants like reetha can clean."
-  },
-  {
-   "concept": "Other animals keep clean too",
-   "status": "defined",
-   "definition": "Many animals keep themselves and their homes clean in their own ways, which helps keep away germs and pests.",
-   "description": "Cats lick their fur clean with rough tongues. Birds preen, combing their feathers with their beaks and spreading oil from a gland near the tail. Elephants and sparrows take dust baths that help keep away insects. Monkeys groom each other, picking out dirt and insects. Grooming is also how they show friendship. In the sea, little cleaner fish set up 'cleaning stations', and big fish wait their turn to have tiny pests picked off. In a beehive, some bees are cleaners. They clean out the wax cells and carry dead bees out of the hive, so illness does not spread.",
-   "examples": [
-    "A crow splashing in a puddle on a hot afternoon is bathing.",
-    "Monkeys sitting in pairs on a temple wall, one combing the other's fur, are grooming."
-   ],
-   "perspectives": [],
-   "art": "A cat licking its paw, a crow splashing in a puddle, an elephant tossing dust, and two monkeys grooming on a wall.",
-   "context": "People are not the only ones who keep clean. This card looks at how other animals do it, for their own reasons."
-  },
-  {
-   "concept": "Water that kills cholera germs?",
-   "status": "idea",
-   "description": "In 1896, a British scientist working in India, Ernest Hanbury Hankin, tested water from the Ganga and the Yamuna. Something in the river water killed cholera germs in his tests, and it passed through a fine filter. Twenty years later, scientists found viruses that attack only bacteria. They are called bacteriophages, which means bacteria-eaters. Many scientists think Hankin was seeing bacteriophages at work. Nobody can be sure today, because his water samples are long gone. Doctors are now testing bacteriophages as medicines for germs that antibiotics can no longer kill.",
-   "examples": [
-    "Bacteriophages are the most common living-like things on Earth. There are more of them in the sea than stars in the universe.",
-    "A bacteriophage looks a little like a tiny moon-lander, landing on a bacterium."
-   ],
-   "perspectives": [
-    {
-     "who": "Many scientists",
-     "explanation": "Hankin's result was very likely caused by bacteriophages in the river water."
-    },
-    {
-     "who": "Other scientists",
-     "explanation": "We cannot check his water now, and other things in the water may have played a part. River water today is not safe to drink without boiling."
-    }
-   ],
-   "art": "A zoomed-in drop of river water where tiny lander-shaped bacteriophages settle on a rod-shaped cholera bacterium.",
-   "context": "This card is about a puzzle from India, 130 years ago, that led to viruses which hunt germs."
   }
  ],
  "agreed": [
@@ -401,6 +361,10 @@
   {
    "text": "Washing hands with soap and water removes most germs and dirt from hands.",
    "evidence": "Many tests count germs on hands before and after washing. Studies in homes, schools and villages show fewer tummy illnesses and colds where people wash with soap."
+  },
+  {
+   "text": "Plain soap cleans hands mainly by lifting germs off, not by killing them.",
+   "evidence": "Tests in homes found plain soap about as good as antibacterial soap that kills bacteria. In 2016 the United States stopped some germ-killing chemicals being sold in home soaps, because they worked no better."
   },
   {
    "text": "Soap works because its molecules hold both oil and water.",
@@ -472,7 +436,7 @@
    "hint": "Think of the mould on the bread slices, and of how Semmelweis used numbers."
   },
   {
-   "q": "Why does a molecule with two different ends clean better than one that loves only water?",
+   "q": "Why does a molecule with two different ends clean better than one that sticks only to water?",
    "kind": "deep",
    "hint": "Think about what water does with oil, and what soap does with both."
   },
@@ -507,9 +471,9 @@
    "hint": "Think about the tough, dead top layer of your skin."
   },
   {
-   "q": "If microbes were here billions of years before any animal, whose world is it really?",
+   "q": "When you wash, most microbes from your hands go down the drain alive. Where do they go after that?",
    "kind": "big",
-   "hint": "Who was here first? Who could live without whom?"
+   "hint": "Think of drains, sewers, rivers and soil, which are already full of microbes."
   },
   {
    "q": "Can a place be too clean for living things?",
@@ -521,7 +485,7 @@
   "title": "The Basin by the Door",
   "mins": 12,
   "read_aloud": true,
-  "note": "Real: the Vienna General Hospital, its two maternity wards (doctors and students in one, midwives in the other), the mothers begging to go to the midwives' ward, Jakob Kolletschka's death in March 1847, Semmelweis choosing chlorine water because ordinary soap did not remove the smell from his hands, the basin at the door from May 1847, and the fall in deaths. Imagined: Anna, her mother Liesl, the midwife Frau Weber, the laundry's chlorine water as the hint, and everything they say.",
+  "note": "Real: the Vienna General Hospital, its two maternity wards (doctors and students in one, midwives in the other), the mothers begging to go to the midwives' ward, Jakob Kolletschka's death in March 1847, Semmelweis choosing chlorine water because ordinary soap did not remove the smell from his hands, the basin at the door from May 1847, and the fall in deaths. Imagined: Anna, her mother Liesl, the midwife Frau Weber, the laundry's chlorine water as the hint, and everything they say. Real too: Louis Pasteur described the microbes that cause childbed fever in 1879.",
   "text": [
    "My mother washed the sheets of the Vienna General Hospital, and I helped her. In the year 1847 I was nine years old. I carried the baskets. I knew every corridor by its smell. The kitchen smelled of cabbage. The chapel smelled of candles. And the long room where the student doctors cut open the bodies of the dead, to learn how people are made, smelled of something sweet and wrong that stayed in your nose all day.",
    "There were two wards for mothers having babies. The First Ward belonged to the doctors and their students. The Second Ward belonged to the midwives. They were next to each other. They had the same beds, the same soup and the same grey windows. My mother washed their sheets in the same tubs, with the same soap.",
@@ -530,7 +494,7 @@
    "'If I knew that,' said my mother, scrubbing hard, 'I would be a professor and not a washerwoman.'",
    "I asked Frau Weber, the oldest midwife, who smelled of lavender and gave me plums. She was quiet for a while. 'We count everything here,' she said. 'Every mother, every baby, every fever. The numbers do not lie. Our ward is safer. Nobody upstairs has asked us why.'",
    "Somebody upstairs did ask, in the end. His name was Doctor Semmelweis. He was young and round-faced and always in a hurry. He asked everyone questions. He asked the midwives how they held the babies. He asked the priest which way he walked through the wards. He even asked my mother whether the First Ward's sheets were dirtier. They were not. He wrote every answer in a little book.",
-   "In March, a kind old professor, Doctor Kolletschka, died. A student's knife had slipped and nicked his finger while they worked on a body. Afterwards he fell ill with a fever, and it looked exactly like the mothers' fever. Doctor Semmelweis walked the corridors that week with a face like a closed door.",
+   "In March, a kind professor, Doctor Kolletschka, died. A student's knife had slipped and nicked his finger while they worked on a body. Afterwards he fell ill with a fever, and it looked exactly like the mothers' fever. Doctor Semmelweis walked the corridors that week with a face like a closed door.",
    "One morning he came down to the laundry. I was folding pillowcases. He stood at our big sink and washed his hands with our yellow soap, hard, for a long time. Then he held them out to me, wet and red.",
    "'You have a good nose, child,' he said. 'Everybody says so. Smell.'",
    "I smelled. Under the soap was the sweet, wrong smell of the cutting room. It had not gone.",
@@ -541,7 +505,7 @@
    "I smelled. Nothing. Only the chlorine, clean and sharp.",
    "In May, a white basin of chlorine water appeared by the door of the First Ward. Every doctor and every student had to wash in it before they touched a mother. The students grumbled. Their hands cracked and stung. One of the older doctors said it was an insult. But Doctor Semmelweis stood by the basin like a soldier, and nobody got past.",
    "In April, I had seen many coffins leave the First Ward. In June, I saw few. In July, fewer still. Frau Weber showed me the numbers in the big book, and ran her finger down them. 'Now,' she said, 'upstairs is as safe as downstairs.' She did not smile, but she gave me two plums instead of one.",
-   "Many doctors never believed him. They said a gentleman's hands could not carry illness. It was twenty years before scientists with microscopes found the tiny living things he had guessed at. Nobody wrote down my name, or my mother's, or Frau Weber's. But I still wash my hands slowly, every time, and I still smell them afterwards. Something we cannot see is always there, until the water carries it away."
+   "Many doctors never believed him. They said a gentleman's hands could not carry illness. More than thirty years later, a scientist named Louis Pasteur found the tiny living things that cause childbed fever. Nobody wrote down my name, or my mother's, or Frau Weber's. But I still wash my hands slowly, every time, and I still smell them afterwards."
   ],
   "epiphany": "For the parent: nobody in the story can see germs. The clue is a smell that soap cannot remove, so something invisible must still be on the doctors' hands. The midwives' careful counting gives the comparison, and the change of just one thing, washing in chlorine water at the door, changes the numbers. That is a fair test, and it is how the invisible was found. The story also asks quietly who gets listened to: mothers, midwives, washerwomen and a child all knew part of the answer.",
   "ask": [
@@ -601,7 +565,7 @@
      "kind": "cards",
      "title": "24 hygiene cards to cut out (draw one when you land on a ★)",
      "items": [
-      "Hands washed with soap for 20 seconds. Go back to START.",
+      "Hands washed with soap for 20 seconds. The soap lifts you off and the water carries you down the drain. Go back to START.",
       "Hands rinsed with water only for 2 seconds. You are still stuck in the oil. Move ahead 1.",
       "Nobody washed before eating. Move ahead 3.",
       "Someone rubbed their eyes. Jump ahead 2.",
@@ -649,8 +613,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Print or draw the 20-square path. 2. Cut out the 24 hygiene cards and shuffle them face down. 3. Give each player a germ token. 4. Have one dice ready.",
-     "say": "In this game, you are a germ. Germs cannot walk. They ride on hands, food and water. Your job is to ride all the way from a dirty hand to someone's tummy.",
-     "kid": "In this game, you are a germ! You start on a dirty hand. Try to ride all the way to a tummy.",
+     "say": "In this game, you are a germ. A germ can't travel far on its own. It rides on hands, food and water. Your job is to ride from a dirty hand to someone's tummy.",
+     "kid": "In this game, you are a germ! You need rides. Start on a dirty hand. Try to reach a tummy.",
      "context": "This is the first step of Germ Journey. It is a board game where each player is a germ trying to travel from a dirty hand into someone's tummy. Here you set it up."
     },
     {
@@ -685,7 +649,7 @@
      "do": "When a germ reaches the tummy, stop. Sort all the cards that were drawn into two piles: helped the germ, stopped the germ.",
      "say": "Which card would you most like to see at every tap in the world?",
      "kid": "Sort the cards. Which helped germs? Which stopped them? Which card is the best germ-stopper?",
-     "think": "Germs cannot move by themselves. So who decides where they go?"
+     "think": "A germ needs a ride to reach a tummy. Which of your own habits give germs a ride?"
     }
    ],
    "context": "This is a board game about how germs travel. Each player is a germ riding from a dirty hand towards a tummy. Hygiene cards push the germs back.",
@@ -730,7 +694,7 @@
     }
    ],
    "rules": [
-    "Each player is a soap molecule. Your left hand is your oil-loving tail. Your right hand is your water-loving head.",
+    "Each player is a soap molecule. Your left hand is your tail, which sticks to oil. Your right hand is your head, which sticks to water.",
     "Put the SKIN sign at one side of the room and the DRAIN sign at the other. Scatter the 10 oil blobs on the SKIN side.",
     "Oil blobs may only be touched by tails, your left hands. Heads, your right hands, must stay pointing outwards, into the 'water'.",
     "Work in pairs or threes. Hold one blob between your left hands, heads facing out, and walk it to the DRAIN. That is a micelle.",
@@ -742,8 +706,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Crumple 10 sheets of scrap paper into balls, and draw a germ on each. These are the oil blobs. 2. Put the SKIN sign on one side of the room and the DRAIN on the other. 3. Scatter the blobs near SKIN. 4. Show everyone which hand is the tail and which is the head.",
-     "say": "You are soap molecules. Your left hand loves oil. Your right hand loves water. The yellow balls are blobs of oil, with germs stuck inside.",
-     "kid": "You are a soap molecule! Your left hand loves oil. Your right hand loves water. The yellow balls are oily germs.",
+     "say": "You are soap molecules. Your left hand sticks to oil. Your right hand sticks to water. The yellow balls are blobs of oil, with germs inside.",
+     "kid": "You are a soap molecule! Your left hand holds oil. Your right hand holds water.",
      "context": "This is the first step of Make a Micelle. It is a moving game where players act as soap molecules carrying oil and germs off the skin and down the drain."
     },
     {
@@ -934,7 +898,7 @@
     },
     {
      "t": "fill",
-     "p": "A soap molecule has a head that loves water and a tail that loves ____.",
+     "p": "A soap molecule has a head that sticks to water and a tail that sticks to ____.",
      "a": [
       "oil",
       "grease",
@@ -988,8 +952,8 @@
     },
     {
      "t": "draw",
-     "p": "Draw a soap molecule. Label its water-loving head and its oil-loving tail.",
-     "a": "A shape like a tadpole: a round head labelled 'loves water' and a long tail labelled 'loves oil'.",
+     "p": "Draw a soap molecule. Label the head that sticks to water and the tail that sticks to oil.",
+     "a": "A round head labelled 'sticks to water' and a long tail labelled 'sticks to oil'.",
      "why": "Two different ends is the whole secret of soap.",
      "art": "An empty box with the words 'head' and 'tail' as hints at either end."
     },
@@ -1065,27 +1029,6 @@
     },
     {
      "t": "mcq",
-     "p": "In the pepper test, black pepper floats on water. A soapy finger touches the middle, and the pepper rushes to the edges. Why?",
-     "opts": [
-      "The pepper is scared of soap",
-      "Soap weakens the pull between water molecules in the middle, so the stronger pull at the edges drags the pepper outwards",
-      "The soap pushes the pepper with a wave",
-      "The pepper dissolves"
-     ],
-     "a": 1,
-     "why": "The top of the water acts like a stretched skin. Soap breaks that skin in the middle. The rest of the skin pulls back to the edges and carries the pepper with it. Germs on your hands are different. Soap has to touch them, and scrubbing lifts them off. Then the water washes them away.",
-     "context": "In the pepper test, you sprinkle black pepper on a plate of water. Then you touch the middle with a clean finger, and then with a soapy finger.",
-     "how": "e2"
-    },
-    {
-     "t": "truefalse",
-     "p": "The pepper test shows that soap scares germs away from your hands.",
-     "a": false,
-     "why": "False. The pepper moves because soap changes the water's surface. Real soap cleans by wrapping oil and germs and letting water carry them away. That needs rubbing and rinsing.",
-     "how": "e2"
-    },
-    {
-     "t": "mcq",
      "p": "In the jar test, a jar of oil and water is shaken. Within a minute, the oil floats back to the top. A second jar has soap added, and it stays cloudy for many minutes. Why?",
      "opts": [
       "Soap makes the oil heavier",
@@ -1116,7 +1059,7 @@
       "It starves the virus"
      ],
      "a": 1,
-     "why": "Flu viruses wear an oily coat made of molecules like soap's. Soap tails slip in and pull it apart. Picking 'poisons' is natural, because we think of cleaners as poisons. Soap works more like a crowbar than a poison."
+     "why": "Flu viruses wear an oily coat made of molecules like soap's. Soap tails slip in and pull it apart. Picking 'poisons' is natural, because we think of cleaners as poisons. Soap pulls the coat apart instead."
     },
     {
      "t": "sort",
@@ -1219,7 +1162,7 @@
      "t": "write",
      "p": "Explain to a younger cousin why soap cleans better than water. Use the words oil, head and tail.",
      "lines": 4,
-     "a": "Germs stick in the oil on our skin. Water slides off oil. A soap molecule has a head that loves water and a tail that loves oil. The tails grab the oil and the heads grab the water, so the water can wash the oil and germs away.",
+     "a": "Germs stick in the oil on our skin. Water slides off oil. A soap molecule has a head that sticks to water and a tail that sticks to oil. The tails hold the oil and the heads hold the water, so the water can wash the oil and germs away.",
      "why": "A good answer says the germs are in oil, water cannot hold oil, and soap holds both."
     },
     {
@@ -1233,7 +1176,7 @@
     {
      "t": "draw",
      "p": "Draw a micelle: a ring of soap molecules around a blob of oil. Show which way the heads and tails point.",
-     "a": "A ring of tadpoles with their tails pointing into an oil blob in the middle, and their heads pointing out into the water.",
+     "a": "A ring of soap molecules with their tails pointing into an oil blob in the middle, and their heads pointing out into the water.",
      "why": "Tails in the oil, heads in the water.",
      "art": "An empty circle labelled 'oil blob' in the middle of a blue box labelled 'water'."
     },
@@ -1249,6 +1192,24 @@
      "a": 0,
      "why": "Eggs become wrigglers, then flying mosquitoes, in about a week in warm weather. Tip the water out before that, and none grow up. Picking 'mosquitoes hate empty pots' misses the real reason: their young need water to grow.",
      "how": "a3"
+    },
+    {
+     "t": "mcq",
+     "p": "After a wash with plain soap, where are most of the bacteria that were on your hands?",
+     "opts": [
+      "Down the drain, still alive, in the rinse water",
+      "Killed on your hands by the soap",
+      "Still on your hands, hidden in the oil",
+      "Turned into soap"
+     ],
+     "a": 0,
+     "why": "Plain soap kills very few bacteria. It wraps the oil they sit in, and the rinse water carries them away. Picking 'killed by the soap' is very common, because adverts talk about killing germs. Lifting them off is what keeps your hands clean."
+    },
+    {
+     "t": "truefalse",
+     "p": "At home, antibacterial soap cleans hands much better than plain soap.",
+     "a": false,
+     "why": "False. Tests found it about as good as plain soap and water. What matters is that soap lifts the oil, and the germs in it, off your hands."
     }
    ]
   },
@@ -1401,18 +1362,6 @@
      "context": "In this unit's story, The Basin by the Door, Anna is a nine-year-old girl who helps her mother wash hospital sheets in Vienna in 1847."
     },
     {
-     "t": "mcq",
-     "p": "In 1896, Ernest Hankin found that Ganga water killed cholera germs in his tests. What do many scientists think was doing it?",
-     "opts": [
-      "Viruses that attack only bacteria, called bacteriophages",
-      "Magic",
-      "The cold",
-      "Fish eating the germs"
-     ],
-     "a": 0,
-     "why": "Bacteriophages were found about 20 years later, and they kill bacteria. Nobody can be sure, because his water samples are gone. Picking 'fish' is a fun guess, but his filtered water had no fish in it. River water today still needs boiling before drinking."
-    },
-    {
      "t": "write",
      "p": "Microbes were on Earth for billions of years before any animal. Do you think they matter only for what they do for people? Give a reason.",
      "lines": 4,
@@ -1432,19 +1381,6 @@
      "why": "Germ theory grew slowly over more than 300 years, each person building on others."
     },
     {
-     "t": "mcq",
-     "p": "Which of these is NOT a way animals keep clean?",
-     "opts": [
-      "Cats licking their fur",
-      "Birds preening their feathers",
-      "Bees carrying dead bees out of the hive",
-      "Mosquitoes laying eggs in still water"
-     ],
-     "a": 3,
-     "why": "Laying eggs in water is how mosquitoes have young, not a way of keeping clean. The other three really are ways animals keep themselves or their homes clean.",
-     "how": "a4"
-    },
-    {
      "t": "write",
      "p": "Some people say dirt is just 'something in the wrong place'. Do you agree? Give one example for and one against.",
      "lines": 4,
@@ -1462,6 +1398,26 @@
      ],
      "a": 0,
      "why": "Saponins taste bitter and can harm insects and fungi, which helps protect the plant. Picking 'so people can wash' is a very human-centred idea. Plants were making saponins long before people existed."
+    },
+    {
+     "t": "mcq",
+     "p": "Some tummy viruses have no oily coat, so soap cannot break them. Why does washing with soap still help against them?",
+     "opts": [
+      "Soap and rubbing lift them off the hands, and the water carries them away",
+      "Soap makes them grow an oily coat",
+      "It does not help at all",
+      "The water is too cold for them"
+     ],
+     "a": 0,
+     "why": "Soap wraps the oil and dirt the viruses sit in, and the rinse carries them off. Picking 'it does not help' means thinking soap must kill a germ to work. Mostly, soap works by moving germs off your hands."
+    },
+    {
+     "t": "write",
+     "p": "In the haldi test, where did the yellow go when you washed with soap? What does that tell you about where germs go when you wash?",
+     "lines": 4,
+     "how": "e1",
+     "a": "It went down the drain with the rinse water. Germs on hands mostly go the same way. The soap lifts them off and the water carries them away, mostly still alive.",
+     "why": "A good answer says the yellow was carried away by the water, and links that to germs leaving the hands in the rinse."
     }
    ]
   }
@@ -1473,7 +1429,7 @@
    "mins": 25,
    "days": 1,
    "question": "Does soap clean pretend germs off hands better than water? Does rubbing for longer help?",
-   "predict": "Before you test, guess. Rank the three ways from best to worst: water only for 20 seconds, soap for 5 seconds, soap for 20 seconds.",
+   "predict": "Before you test, guess. Rank the three ways from best to worst: water only for 20 seconds, soap for 5 seconds, soap for 20 seconds. Why do you think so?",
    "fair_test": "To make it fair, change only the way of washing. Use the same amount of oil and haldi each time, measured with the same spoon. Use the same tap, and count the seconds out loud. Wash off completely between rounds, then coat again.",
    "results_table": [
     "Way of washing",
@@ -1520,7 +1476,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put the oil, haldi, soap and towel near the tap. 2. Ask your child to rank the three ways of washing, best first.",
-     "say": "Real germs are far too small to see. So today, haldi in oil is our pretend germ. Germs on real hands sit in the skin's own oil, just like this. Which way of washing do you think will work best?",
+     "say": "Real germs are far too small to see. So today, haldi in oil is our pretend germ. Germs on real hands sit in the skin's own oil, just like this. Which way of washing do you think will work best? Why do you think so?",
      "kid": "Haldi in oil is your pretend germ. Real germs hide in your skin's oil. Guess which wash will work best.",
      "context": "This is the first step of the haldi germ test. You use oil and haldi as pretend germs and test three ways of washing."
     },
@@ -1553,7 +1509,7 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Wash fully, dry, and coat again. 2. Now wash with soap for 20 seconds: palms, backs, between fingers, round each thumb, fingertips, under nails and wrists. Sing Happy Birthday twice. 3. Rinse well and score.",
-     "say": "Round three: soap for 20 seconds, every part. Sing Happy Birthday twice while you rub. Now score it. Where did the yellow stay longest?",
+     "say": "Round three: soap for 20 seconds, every part. Sing Happy Birthday twice while you rub. Now score it. Where did the yellow go?",
      "kid": "Coat again. Soap for 20 seconds. Rub every part, even thumbs and nails. Sing Happy Birthday twice. Score it.",
      "check": {
       "t": "mcq",
@@ -1565,7 +1521,16 @@
       ],
       "a": 2,
       "why": "Soap holds oil and water both, and 20 seconds of rubbing gives it time to break up all the oil, even in the gaps. Picking water only usually means thinking rubbing is all that matters. Picking soap for 5 seconds usually means thinking soap works instantly."
-     }
+     },
+     "ask": [
+      {
+       "q": "Where did the yellow go?",
+       "good": [
+        "Down the drain with the water.",
+        "The soap took it off my hands and the water carried it away."
+       ]
+      }
+     ]
     },
     {
      "id": "s5",
@@ -1602,9 +1567,9 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soap for 20 seconds cleans best. What I saw: water left a score of 4, and soap for 20 seconds left 0. Why: the haldi was stuck in oil, water slides off oil, and soap holds both oil and water."
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soap for 20 seconds cleans best. What I saw: water left a score of 4, and soap for 20 seconds left 0. The yellow went down the drain. Why: the haldi was stuck in oil, water slides off oil, and soap holds both oil and water, so the rinse carried it away."
     }
    ],
    "context": "This is the haldi germ test. You coat your hands in oil and haldi as pretend germs, then wash three ways to see which cleans best.",
@@ -1648,139 +1613,12 @@
    ]
   },
   {
-   "id": "e2",
-   "title": "Pepper on the Run",
-   "mins": 10,
-   "days": 1,
-   "question": "What does soap do to the surface of water?",
-   "predict": "Guess first. When you touch soapy water's middle with a soapy finger, what will the pepper do?",
-   "fair_test": "Touch the water twice: once with a clean, dry finger and once with a soapy finger. Use the same plate, the same water and the same amount of pepper. Use fresh water for every new try, because soap stays in the water.",
-   "results_table": [
-    "What touched the water",
-    "What the pepper did"
-   ],
-   "materials": [
-    {
-     "item": "a wide plate or steel thali with a rim",
-     "qty": 1
-    },
-    {
-     "item": "water, about 2 cm deep",
-     "qty": 1
-    },
-    {
-     "item": "ground black pepper, about half a teaspoon",
-     "qty": 1
-    },
-    {
-     "item": "a drop of liquid handwash or dishwashing liquid, or a wet bar of soap",
-     "qty": 1
-    }
-   ],
-   "safety": "Keep pepper away from eyes and noses. Wash hands after.",
-   "schedule": [
-    {
-     "day": 1,
-     "mins": 10,
-     "what": "Sprinkle pepper on water and touch it with a clean finger, then a soapy one."
-    }
-   ],
-   "record": "Draw the plate before and after the soapy finger. Write one sentence about what the pepper did.",
-   "flow": [
-    {
-     "id": "s1",
-     "mins": 3,
-     "do": "1. Pour water into the plate, about 2 cm deep. 2. Wait until it is still. 3. Shake black pepper all over the top, until the surface is speckled. 4. Your child touches the middle with a clean, dry finger.",
-     "say": "Touch the middle with a clean finger. Watch the pepper. Did much happen?",
-     "kid": "Pour water on a plate. Shake pepper on top. Touch the middle with a clean finger. What happens?",
-     "context": "This is the first step of Pepper on the Run. You float pepper on water and see what soap does to the water's surface."
-    },
-    {
-     "id": "s2",
-     "mins": 3,
-     "do": "1. Put a drop of liquid soap on your child's fingertip, or rub it on a wet bar of soap. 2. Touch the middle of the water again and hold still.",
-     "say": "Now put soap on your fingertip and touch the middle again. Watch closely!",
-     "kid": "Put soap on your fingertip. Touch the middle again. Watch closely!",
-     "ask": [
-      {
-       "q": "What did the pepper do?",
-       "good": [
-        "It rushed to the edges.",
-        "It ran away from my finger.",
-        "It moved out in a circle."
-       ]
-      }
-     ],
-     "parent": "The pepper shoots to the edges in under a second. If nothing happens, the water already had soap in it, or the plate had soap on it. Rinse the plate well, use fresh water, and try again. The trick works only once per plate of water."
-    },
-    {
-     "id": "s3",
-     "mins": 2,
-     "do": "Explain what really happened.",
-     "say": "The top of water acts like a stretched skin, because water molecules pull on each other. Soap squeezes in between them in the middle and weakens the pull there. The rest of the surface pulls outwards, like a balloon popping, and carries the pepper with it. The pepper isn't scared. It is pulled.",
-     "kid": "Water's top is like a stretched skin. Soap weakens it in the middle. The rest pulls out, carrying the pepper.",
-     "check": {
-      "t": "mcq",
-      "q": "Why did the pepper rush to the edges?",
-      "options": [
-       "Soap weakened the water's surface in the middle, so the rest pulled the pepper outwards",
-       "The pepper was scared of the soap",
-       "The finger made a big wave"
-      ],
-      "a": 0,
-      "why": "Water molecules at the surface pull on each other. Soap weakens that pull in the middle, so the stronger pull further out drags the pepper away. Picking 'scared of soap' is a story people often tell, and it can make children think germs run from soap. They don't. Soap has to wrap germs and the water rinses them away. The clean finger made the same kind of wave, and the pepper hardly moved."
-     }
-    },
-    {
-     "id": "s4",
-     "mins": 2,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Like a scientist: what do you think, what did you see, and why?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: soap changes the surface of water. What I saw: with a clean finger the pepper stayed, with a soapy finger it shot to the edges. Why: soap weakens the pull between water molecules in the middle."
-    }
-   ],
-   "context": "In this short experiment you float black pepper on water, then touch it with a soapy finger. It shows that soap molecules change the water's surface.",
-   "example_chart": {
-    "type": "table",
-    "title": "Made-up example results",
-    "cols": [
-     "What touched the water",
-     "What the pepper did"
-    ],
-    "rows": [
-     [
-      "Clean, dry finger",
-      "Hardly moved"
-     ],
-     [
-      "Soapy finger",
-      "Shot to the edges in under a second"
-     ]
-    ]
-   },
-   "setup": [
-    {
-     "art": "A steel thali of still water with black pepper speckled all over the surface.",
-     "caption": "1. Shake pepper all over a plate of still water."
-    },
-    {
-     "art": "A clean fingertip touching the middle of the peppery water, the pepper staying put.",
-     "caption": "2. Touch the middle with a clean finger. Watch."
-    },
-    {
-     "art": "A soapy fingertip in the middle of the water, with the pepper rushing outwards to the rim in a ring.",
-     "caption": "3. Now touch with a soapy finger. The pepper rushes to the edges."
-    }
-   ]
-  },
-  {
    "id": "e3",
    "title": "Oil, Water and Soap in a Jar",
    "mins": 15,
    "days": 1,
    "question": "Can soap make oil and water mix?",
-   "predict": "Guess first. After shaking, which jar will stay mixed longer: oil and water, or oil, water and soap?",
+   "predict": "Guess first. After shaking, which jar will stay mixed longer: oil and water, or oil, water and soap? Why do you think so?",
    "fair_test": "Use two jars the same size. Put the same amount of water and oil in each. Add soap to only one jar. Shake both for the same time, 10 seconds, then put them down together and start the timer.",
    "results_table": [
     "Jar",
@@ -1862,9 +1700,9 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Like a scientist: what do you think, what did you see, and why?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: soap helps oil mix with water. What I saw: the jar without soap separated in about 40 seconds, the soapy one stayed cloudy for over 10 minutes. Why: soap holds oil with one end and water with the other."
+     "say": "Now tell me three things. What do you think, what did you see, and why?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "A good answer sounds like this. What I think: soap helps oil mix with water. What I saw: the jar without soap separated in about a minute and a half, and the soapy one stayed cloudy for over 10 minutes. Why: soap holds oil with one end and water with the other."
     }
    ],
    "context": "In this experiment you shake oil and water in two jars, adding soap to only one. It shows how soap holds oil and water together.",
@@ -1877,7 +1715,7 @@
     "data": [
      {
       "label": "Oil and water",
-      "value": 40,
+      "value": 90,
       "emoji": "🫙"
      },
      {
@@ -1908,7 +1746,7 @@
    "mins": 30,
    "days": 7,
    "question": "Do unwashed hands carry living things we can't see? Does washing help?",
-   "predict": "Guess first. Which slice will grow spots of mould first and most: not touched, dirty hands, water-only hands or soap-washed hands?",
+   "predict": "Guess first. Which slice will grow spots of mould first and most: not touched, dirty hands, water-only hands or soap-washed hands? Why do you think so?",
    "fair_test": "Keep everything the same except how the hands were cleaned. Use slices from the same loaf, the same bags, the same drops of water and the same cupboard. Rub each slice for the same 10 seconds.",
    "results_table": [
     "Day",
@@ -2011,7 +1849,7 @@
      "id": "s5",
      "mins": 8,
      "do": "1. On day 7, draw a bar chart of the spots on each slice. 2. Ask for three sentences: what I think, what I saw, why. 3. Throw the bags away still sealed, and wash hands.",
-     "say": "Let's finish like scientists. What do you think now? What did you see? Why do you think it happened?",
+     "say": "Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
      "kid": "Draw a bar for each slice. Then say what you think, what you saw and why. Throw the bags away sealed.",
      "parent": "A good answer sounds like this. What I think: dirty hands carry living things we cannot see. What I saw: the dirty hands slice had 9 spots, the soap slice had 2. Why: soap washed most spores and microbes off my hands."
     }
@@ -2282,7 +2120,7 @@
      "say": "Mosquitoes lay eggs in still water, even in a bottle cap. The eggs become flying mosquitoes in about a week. So any water left for a week is a mosquito nursery.",
      "kid": "Look for still water anywhere. Even a bottle cap counts! Write each germ spot and clean spot down.",
      "adult": true,
-     "parent": "You may see tiny wriggling larvae in old water. Do not keep them. Tip the water onto dry soil, never into a drain. Many Indian cities run a weekly 'dry day', when families empty and scrub every water container."
+     "parent": "You may see tiny wriggling larvae in old water. Tip the water onto dry soil or a dry, sunny floor, where the larvae soon die. Then scrub the container, because some mosquito eggs stick to the sides. Many Indian cities run a weekly 'dry day', when families empty and scrub every water container."
     },
     {
      "id": "s3",
@@ -2316,86 +2154,8 @@
      "caption": "2. Write germ spots and clean spots in two lists."
     },
     {
-     "art": "The child tipping water from the tray onto dry garden soil while the grown-up scrubs it.",
-     "caption": "3. Fix one germ spot with a grown-up. Tip water onto soil."
-    }
-   ]
-  },
-  {
-   "id": "a4",
-   "title": "How Do Animals Keep Clean?",
-   "mins": 20,
-   "days": 1,
-   "materials": [
-    {
-     "item": "a notebook and pencil",
-     "qty": 1
-    },
-    {
-     "item": "a window, balcony, garden or park where you can watch animals",
-     "qty": 1
-    }
-   ],
-   "safety": "Watch animals from a distance. Never touch street dogs, monkeys or cows. Wash hands after being outside.",
-   "schedule": [
-    {
-     "day": 1,
-     "mins": 20,
-     "what": "Watch birds, cats, dogs, cows or monkeys. Note every way they clean themselves."
-    }
-   ],
-   "record": "Draw three animals cleaning. Write what each one did, and why you think it did it.",
-   "flow": [
-    {
-     "id": "s1",
-     "mins": 2,
-     "do": "Explain what to look for.",
-     "say": "People are not the only ones who keep clean. Today we watch other animals and see how they do it, in their own way and for their own reasons.",
-     "kid": "Watch animals near your home. How do they keep clean? Write or draw what you see.",
-     "context": "This is the first step of the animal cleaning watch. You watch birds, cats and other animals to see how they keep themselves clean."
-    },
-    {
-     "id": "s2",
-     "mins": 15,
-     "do": "1. Watch for 15 minutes, from a window, a balcony or a park. 2. Look for crows or sparrows bathing in water or dust, birds combing feathers with their beaks, cats licking fur, dogs shaking water off, cows flicking flies with their tails, or monkeys grooming each other.",
-     "say": "What is that bird doing with its beak? Why might a cat spend so long licking its fur?",
-     "kid": "Watch closely. Is a bird combing its feathers? Is a cat licking its fur? Draw it.",
-     "adult": true,
-     "parent": "If you can't see animals today, watch a pet, or look at the cards in this unit about animals cleaning. Good answers: birds preen to keep feathers waterproof and tidy, and bathe in dust to get rid of tiny pests. Cats lick to clean and to cool down. Monkeys groom to remove insects and to be friends."
-    },
-    {
-     "id": "s3",
-     "mins": 3,
-     "do": "Share what you saw.",
-     "say": "Bees in a hive have cleaner bees too. They clean the wax cells and carry dead bees out, so illness doesn't spread. Why do you think so many animals clean?",
-     "kid": "Bees have cleaner bees in the hive! Why do you think so many animals keep clean?",
-     "check": {
-      "t": "mcq",
-      "q": "Why do birds take dust baths?",
-      "options": [
-       "To help get rid of tiny pests in their feathers",
-       "Because they like being dirty",
-       "To change colour"
-      ],
-      "a": 0,
-      "why": "Dust soaks up extra oil and helps shake off tiny pests like mites. Picking 'they like being dirty' is a very human way to see it. For a bird, dust is a cleaner, not dirt. That is a good example of dirt being something in the wrong place."
-     },
-     "think": "A dust bath cleans a bird. Is dust dirty?"
-    }
-   ],
-   "context": "This activity is a watch. You look at how birds, cats, cows and other animals keep themselves clean, in their own ways.",
-   "setup": [
-    {
-     "art": "A child at a window watching a crow splashing in a puddle on a terrace.",
-     "caption": "1. Watch birds and animals from a window, balcony or park."
-    },
-    {
-     "art": "A cat licking its paw and a sparrow fluffing in a little hollow of dust.",
-     "caption": "2. Look for licking, preening, bathing and dust baths."
-    },
-    {
-     "art": "A child drawing three animals in a notebook, each with a short note.",
-     "caption": "3. Draw each animal and write how it cleaned."
+     "art": "The child tipping water from a flowerpot tray onto a dry, sunny balcony floor while the grown-up scrubs the tray with a brush.",
+     "caption": "3. Fix one germ spot with a grown-up. Tip out the water and scrub the tray."
     }
    ]
   },
@@ -2628,7 +2388,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Tie a string tightly round the middle of the bottle, and wrap tape over it so it cannot slip. 2. Hang the bottle by this string from a stick laid across two chairs, or from a railing, about at your child's waist, with the hole facing your child. 3. Tie a second string round the bottle's neck. Let it hang to the floor and tie a loop for a foot. 4. Hang the soap on its own string beside the bottle. 5. Put the bucket underneath.",
+     "do": "1. Tie a string tightly round the middle of the bottle, and wrap tape over it so it cannot slip. 2. Hang the bottle by this string from a stick laid across two chairs, or from a railing. Hang it at about your child's waist, with the hole facing your child. 3. Tie a second string round the bottle's neck. Let it hang to the floor and tie a loop for a foot. 4. Hang the soap on its own string beside the bottle. 5. Put the bucket underneath.",
      "say": "Press the loop with your foot. It pulls the neck down, so the bottle tips forward and water pours from the hole. Let go, and the heavy water at the bottom stands it up again.",
      "kid": "Hang the bottle by its middle. Tie a foot loop to its neck. Hang the soap beside it. Press the loop!",
      "adult": true,
@@ -2704,7 +2464,7 @@
    "creative": [
     "Design a 'sneeze pocket' sewn into a sleeve.",
     "Make a family sign that reminds everyone: elbow, not hand.",
-    "Invent a way for a toddler, who can't remember, to learn the elbow sneeze, such as a song or a game."
+    "Invent a way to help a toddler, who often forgets, learn the elbow sneeze, such as a song or a game."
    ],
    "your_turn": "Now invent your own sneeze catcher. Draw it, test it with the spray bottle, and measure how far the drops go.",
    "flow": [
@@ -2795,7 +2555,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Draw two ideas. 2. Make one. For soap on a string, a grown-up pushes a hot nail through the soap bar to make a hole, then thread string through. For a soap net, put soap scraps in an old stocking and tie it to the tap.",
+     "do": "1. Draw two ideas. 2. Make one. For soap on a string, a grown-up pushes a hot nail through the soap bar to make a hole. Then thread string through it. For a soap net, put soap scraps in an old stocking and tie it to the tap.",
      "say": "Let's make one of your ideas. Which one will you try first?",
      "kid": "Draw two ideas. Pick one. Make it with a grown-up's help.",
      "adult": true
@@ -3085,8 +2845,6 @@
   "Dishwashing liquid, shampoo and laundry soap all use two-ended molecules like soap.",
   "Reetha and shikakai are still used to wash hair, silk and jewellery in India.",
   "Food factories and restaurants follow hygiene rules to keep food safe.",
-  "Microbes are used to make curd, idli, dosa, bread and cheese.",
-  "Doctors are testing bacteriophages, viruses that kill bacteria, as medicines for germs that antibiotics can no longer kill.",
   "Global Handwashing Day, every 15 October, reminds the world that soap saves lives."
  ],
  "spotted": [
@@ -3111,10 +2869,6 @@
    "art": "A woman sanitation worker in gloves sweeping a quiet street at dawn."
   },
   {
-   "text": "Crows bathing in puddles, and sparrows taking dust baths.",
-   "art": "A crow splashing in a puddle and a sparrow in a little hollow of dust."
-  },
-  {
    "text": "ASHA workers visiting homes in villages to talk about health.",
    "art": "A woman health worker with a bag talking to a family on their doorstep."
   },
@@ -3133,24 +2887,16 @@
    "why_open": "Each person's skin has a different mix, and it changes with age, place and season. Scientists are still mapping it."
   },
   {
-   "q": "Was Hankin seeing bacteriophages in Ganga water in 1896?",
-   "why_open": "It seems very likely, but his water samples are gone, so nobody can check."
-  },
-  {
-   "q": "Can bacteriophages replace antibiotics for some illnesses?",
-   "why_open": "Some patients have been helped, but large careful tests are still going on."
-  },
-  {
    "q": "Do cleaning chemicals that kill germs help germs become resistant?",
    "why_open": "Some laboratory studies suggest they might. How much it happens in real homes is still being studied."
   },
   {
-   "q": "How did the very first cells get their walls?",
-   "why_open": "Some scientists think soap-like molecules folded into bubbles in water, billions of years ago. Laboratories are testing the idea, but nobody knows for sure."
-  },
-  {
    "q": "Why do people touch their faces so often?",
    "why_open": "It may help us calm down or think, but scientists do not fully know."
+  },
+  {
+   "q": "What happens to the microbes we wash down the drain?",
+   "why_open": "Drains, sewers and water treatment plants are full of microbes. Scientists are only starting to map which ones live there, and which survive the journey."
   }
  ],
  "ask_kids": [
@@ -3161,10 +2907,10 @@
   "Is there any still water near our home this week?",
   "Who cleaned our street today?",
   "The curd set overnight. Who did that work?",
-  "That crow is splashing in a puddle. Is it getting dirty or clean?",
   "If you could see germs, what colour would you want them to be?",
   "Is dirt just something in the wrong place?",
-  "How many times have you touched your face since lunch?"
+  "How many times have you touched your face since lunch?",
+  "When you wash your hands, where do the germs go?"
  ],
  "jokes": [
   {
@@ -3212,16 +2958,8 @@
    "a": "It caught the sneeze of the year."
   },
   {
-   "j": "What is a cat's favourite way to bathe?",
-   "a": "A lick and a promise."
-  },
-  {
    "j": "Why did the germ fail the test?",
    "a": "It got washed out."
-  },
-  {
-   "j": "What did the pepper say to the soapy finger?",
-   "a": "I'm not scared. I'm just being pulled away."
   },
   {
    "j": "Why are bacteria such good maths students?",
@@ -3242,10 +2980,6 @@
   {
    "j": "What did the virus say when it met soap?",
    "a": "I think I'm coming apart."
-  },
-  {
-   "j": "Why do crows bathe in puddles?",
-   "a": "Because showers are hard to fit under."
   },
   {
    "j": "What did one friendly skin microbe say to the other?",
@@ -3424,7 +3158,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free hands-on activities from a science museum in San Francisco. Search for soap, bubbles and surface tension. It is on the founder's list of STEM websites."
+   "why": "Free hands-on activities from a science museum in San Francisco. Search for soap and bubbles. It is on the founder's list of STEM websites."
   },
   {
    "title": "Swachh Bharat Mission",
@@ -3518,7 +3252,7 @@
  ],
  "warmup": [
   {
-   "q": "Soap's molecules have a head that loves ____ and a tail that loves oil.",
+   "q": "A soap molecule has a head that sticks to ____ and a tail that sticks to oil.",
    "a": "water"
   },
   {
@@ -3550,12 +3284,12 @@
    "a": "Saponins, its own soap-like molecules."
   },
   {
-   "q": "What did the pepper do when a soapy finger touched the water?",
-   "a": "It rushed to the edges."
-  },
-  {
    "q": "Is warm water needed to wash hands well?",
    "a": "No. Cold and warm work about the same."
+  },
+  {
+   "q": "After a wash with plain soap, are most of the germs from your hands dead or alive?",
+   "a": "Mostly alive. The soap lifted them off, and the rinse water carried them down the drain."
   }
  ],
  "plan": {
@@ -3563,7 +3297,7 @@
    "intro",
    "story",
    "e1",
-   "e2",
+   "e3",
    "g1",
    "a1",
    "big_questions",
@@ -3574,9 +3308,9 @@
    "e1",
    "summary",
    "terms",
-   "e2",
    "story",
    "explanations",
+   "how_we_found_out",
    "e3",
    "g1",
    "a1",
@@ -3590,7 +3324,6 @@
    "agreed",
    "challenging",
    "ws-stretch",
-   "a4",
    "a6",
    "p1",
    "c1",
@@ -3603,7 +3336,6 @@
   ],
   "core": [
    "e1",
-   "e2",
    "e3",
    "g1",
    "a1",
@@ -3615,9 +3347,8 @@
   "spine": [
    "intro",
    "e1",
-   "e2",
+   "e3",
    "explanations",
-   "story",
    "roots",
    "quiz"
   ]
@@ -3625,10 +3356,9 @@
  "sources": {
   "founder": [
    "Founder's notebook, Health topic SCI Cards: Ignaz Semmelweis ('invisible things can kill you, and the healer can be the carrier'), Gagandeep Kang, Ibn Sina, Charaka, Sushruta",
-   "Founder's sheets, Physics activities dump: soap breaking the 'skin' of water (floating paperclip and surface tension), 'invisible bonds hold communities together, until something disturbs the balance'; molecular structure: soap bubbles and surface tension",
    "DeepKids Combined Class 2 Health: the haldi germs test, the bread test, Semmelweis and the midwives' ward, 'all bacteria are bad?' challenge",
    "DeepKids Combined Class 3 Health: body care map, clean-surroundings survey, the hygiene hypothesis and 'old friends' voice, sanitation and ASHA worker perspectives, private parts and trusted adults",
-   "NCERT Class 3 Chapter 9 pack: soap or water, pepper test, bread mould, reetha and shikakai, animals keeping clean",
+   "NCERT Class 3 Chapter 9 pack: soap or water, bread mould, reetha and shikakai",
    "NIOS Lesson 9 pack: care of external organs, bread test with water-only and soap",
    "DeepKids HomeSchooling Track: STEM Activities websites (Exploratorium)"
   ],
@@ -3641,40 +3371,41 @@
    "Price, Journal of Infectious Diseases 1938 (resident and transient skin bacteria)",
    "Patrick, Findon and Miller, Epidemiology and Infection 1997 (wet hands pass on more bacteria)",
    "Strachan, BMJ 1989 (hay fever, hygiene and household size); Rook 2003 ('old friends'); Bloomfield and others, Perspectives in Public Health 2016 (targeted hygiene)",
-   "Hankin, Annales de l'Institut Pasteur 1896 (Ganga and Yamuna water and cholera)",
    "Pacini 1854 (cholera germ); the name Vibrio cholerae Pacini 1854 was formally adopted in 1965",
    "Nakatsuji and others, Science Translational Medicine 2017 (skin bacteria that make substances against harmful bacteria)",
-   "Douglas, Purity and Danger, 1966 (dirt as 'matter out of place')"
+   "Douglas, Purity and Danger, 1966 (dirt as 'matter out of place')",
+   "Sender, Fuchs and Milo, PLOS Biology 2016 (about as many bacteria in a person as human cells)",
+   "Pasteur 1879, on the microbes of childbed fever"
   ]
  },
  "roots": {
-  "context": "We have been learning how soap, water and clean habits keep germs away. Now we ask what being clean tells us about ourselves and the world.",
+  "context": "We have been learning how soap lifts oil and germs off our hands. Now we ask what a wash really does to the living things on our hands, and what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Clean does not mean empty of life. It means the right life in the right place.",
-   "habit": "We sort the world into clean and dirty, and microbes into enemies. But your skin is home to millions of friendly microbes, and soil is lovely in a garden but not on a plate. Dirt is not a kind of thing. It is something in the wrong place.",
-   "evidence": "Soap washes away the visitor microbes from things you touch, but your resident skin microbes stay. And soap breaks a virus's coat only because that coat is built from the same kind of molecules as your own cells."
+   "truth": "In the haldi test, plain water ran over the oily yellow and left it behind. Soap holds oil at one end and water at the other, so the rinse carried the yellow away. Most bacteria leave your hands the same way, still alive, in the rinse water. A good wash moves microbes off your hands, to a place where they cannot reach your mouth.",
+   "habit": "We talk about washing as a war that kills germs, because adverts do. A plain soap wash mostly moves microbes from one place to another, and that is enough to keep us well.",
+   "evidence": "In the haldi test, the yellow went down the drain with the soapy water. Plain soap kills very few bacteria, yet tests at home found it cleans hands as well as antibacterial soap that kills them."
   },
   "three": {
-   "who_am_i": "You are not only you. Millions of microbes live on your skin, and your cell walls are built like soap.",
-   "what_is_life": "Life is always moving from one place to another, on hands, in water and through the air.",
-   "what_is_this_world": "A world where cats, crows, bees and people all keep clean, each in their own way, for their own reasons."
+   "who_am_i": "Your skin is home to millions of microbes. A good wash leaves most of them where they live.",
+   "what_is_life": "Bacteria sense what is around them and decide when to settle, swim or grow. On your hands, they live in the skin's oil.",
+   "what_is_this_world": "In this world, oil and water stay apart by themselves. A soap molecule can hold on to both and join them."
   },
-  "thread": "A soap molecule is one thing with two sides. One side loves water, the other loves oil, and because it holds both, it can bring them together. Your cells are wrapped in the same kind of two-sided molecule. So are the coats of some viruses. The microbes on your skin and the cells of your body share one home. DeepKids believes this is the One showing up as many: soap, cell, microbe and child are made of the same stuff, arranged in different ways. Hygiene is not a war against life. It is caring for where each part of it belongs.",
+  "thread": "Soap works because one molecule can hold two things that will not mix by themselves, oil and water. Your own cells are wrapped in the same kind of two-ended molecule, and so are the coats of some viruses. When you wash, your skin, its oil, the soap, the water and the microbes all meet, and all of them are made from the same few kinds of atoms. The water then carries the visitor microbes on, to the drain, the sewer and the soil, where many other microbes already live.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son to put salt in water overnight. In the morning the salt cannot be seen, but every sip tastes salty. What is unseen can still be everywhere.",
-    "link": "Germs and soap molecules are far too small to see. Like the salt, we know they are there by what they do: mould on bread, a fever in a ward, pepper rushing to the edge of a plate."
+    "link": "Germs and soap molecules are far too small to see. Like the salt, we know they are there by what they do: mould on bread touched by unwashed hands, and the fever numbers in Semmelweis's ward."
+   },
+   {
+    "source": "Acharanga Sutra, Book 1, Lecture 4, Lesson 1 (Jain)",
+    "teaching": "No living being should be killed, harmed or hurt, however small. Jain monks sweep the ground gently and filter their water so as to harm as few tiny creatures as they can.",
+    "link": "A plain soap wash mostly moves microbes off your hands instead of killing them. It keeps us well while harming very few of them."
    },
    {
     "source": "Patanjali, Yoga Sutras 2.32",
     "teaching": "Among the five personal practices, the niyamas, the first is shaucha: cleanliness of the body and clarity of the mind.",
-    "link": "In this teaching, washing is not only about germs. It is also a way of paying attention, of beginning again, fresh."
-   },
-   {
-    "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing",
-    "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain, the tree and the logger in it. Everything is made of things that are not itself.",
-    "link": "Look deeply at your hand and you find skin, oil, water and millions of microbes. You are made of many lives that are not only 'you'."
+    "link": "In this teaching, washing is also a way of paying attention. Washing slowly, every part of each hand, is what makes a wash work."
    }
   ],
   "science": [
@@ -3683,17 +3414,17 @@
     "status": "settled"
    },
    {
-    "text": "About as many bacteria live on and in a person as there are human cells in their body.",
+    "text": "Plain soap removes most microbes from hands by lifting them off in the rinse water, and kills few of them.",
     "status": "settled"
    },
    {
-    "text": "The first cells may have begun when soap-like molecules folded into tiny bubbles in water, billions of years ago.",
-    "status": "idea"
+    "text": "Scientists estimate that about as many bacteria live on and in a person as there are human cells in their body.",
+    "status": "settled"
    }
   ],
   "other_view": {
-   "who": "Many doctors and microbiologists",
-   "view": "Some germs kill, and treating them as enemies has saved millions of lives. The microbes on our skin are simply living where there is food and space. That is chemistry and evolution, not oneness. This is an honest view, and the science in it is true."
+   "who": "Many doctors and nurses",
+   "view": "Whether a germ is killed or moved matters less than keeping it from the next person. In hospitals, alcohol hand rubs that kill germs are used, because they are fast and work very well. Killing germs on purpose, with medicines and boiling, has saved millions of lives."
   },
   "practice": {
    "title": "A slow wash",
@@ -3702,10 +3433,16 @@
    "kid": "Wash your hands very slowly. Feel the water. Watch the foam. Count to twenty slowly. Rinse. Hold your hands still and feel them dry."
   },
   "ask": [
-   "Where do 'you' end, if millions of microbes live on your skin?",
-   "Is anything really dirty, or only in the wrong place?",
-   "When soapy water goes down the drain, where does it go, and who meets it next?"
+   "When you wash, most microbes leave your hands alive. Where do you think they go next?",
+   "Your skin's own microbes stay after a wash. Are they part of you, or neighbours living on you?",
+   "Is a microbe a germ wherever it is, or only when it reaches the wrong place?"
   ],
-  "art": "A child's two cupped hands holding water under soft light, with a zoomed-in circle showing soap molecules, cell walls and tiny friendly microbes all made of the same glowing two-ended shapes."
+  "art": "A child's soapy hands under a tap, with a zoomed-in circle showing soap molecules wrapping a blob of oil with microbes inside, and the rinse water carrying it down towards a drain where many other microbes live."
+ },
+ "how_we_found_out": {
+  "story": "In the 1840s, most doctors in Europe thought childbed fever came from bad air, or from the weather, or from mothers' fear. Vienna's big hospital had two wards for mothers giving birth. In one, doctors and medical students helped the mothers. In the other, midwives did. More than twice as many mothers died in the doctors' ward. If bad air caused the fever, both wards should have suffered the same, because they were in the same hospital. A young doctor, Ignaz Semmelweis, looked for what was different. The doctors came to the mothers straight from cutting open dead bodies, and the midwives never did. In March 1847 his friend Jakob Kolletschka was cut by a student's knife during that work, and died of the same fever. So Semmelweis guessed that something from the dead bodies was carried on doctors' hands. From May 1847, everyone in his ward washed in chlorine water first. Deaths fell from about 18 in every 100 mothers in April to about 2 in June. Many doctors still refused to believe that their own hands carried illness. In 1879, Louis Pasteur found the microbes that cause childbed fever.",
+  "who": "Ignaz Semmelweis, the midwives of Vienna's second maternity ward, and later Louis Pasteur",
+  "when": "1847, and 1879",
+  "wrong_idea": "Childbed fever came from bad air or the weather, and a doctor's hands could not carry illness. Comparing the two wards in one hospital showed the air was not the cause, and washing hands made the deaths fall."
  }
 }
