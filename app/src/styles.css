@@ -4864,6 +4864,14 @@ dialog .fxfab {
 .fxcin .fxb {
   padding: 0 14px;
 }
+.fxgrp {
+  border-top: 1px solid var(--line);
+  padding: 8px 0;
+}
+.fxgrp summary {
+  cursor: pointer;
+  padding: 6px 0;
+}
 .fxnew {
   display: grid;
   gap: 10px;

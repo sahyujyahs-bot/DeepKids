@@ -53,17 +53,15 @@ function dkTrackBrowse() {
       : ""
   }`;
 }
+// every unit, for every family on any track: any of them can be added to the plan alongside the class plan
 function combinedBrowse() {
-  const h = combinedTopicList(),
-    cls = Object.keys(DATA.combined?.sci || {})
-      .map(Number)
-      .sort((a, b) => a - b),
-    lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.sci) ? S.levels.sci : cls[0],
-    U = (DATA.combined?.sci?.[lv] || []).flatMap((e) => e.units || []);
-  return U.length
-    ? `<section class="card fxnew"><span class="eyebrow">DeepKids track · subtopic units</span><p class="sm">Subtopics written in full: scroll through them like a feed, with pictures, steps for you or your child, games, worksheets and a quiz.</p>${fxUnitBtns(U)}${fxSongBtns()}</section>` +
-        h
-    : h;
+  const U = Object.values(DATA.units || {}).sort((a, b) => a.order - b.order),
+    byTopic = Object.entries(U.reduce((g, x) => ((g[x.topic] = g[x.topic] || []).push(x), g), {}));
+  return (
+    (U.length
+      ? `<section class="card fxnew"><span class="eyebrow">DeepKids units · ${U.length}</span><p class="sm">Every unit, open to every family. Add any of them to your plan, alongside your class plan. They are written for Class 3; younger children can do them with more help from you.</p>${byTopic.map(([t, L]) => `<details class="fxgrp"><summary><b>${esc(t)}</b> <span class="pill">${L.length}</span></summary>${fxUnitBtns(L)}</details>`).join("")}${fxSongBtns()}</section>`
+      : "") + combinedTopicList()
+  );
 }
 const LSUBJ = {
   sci: "Science",
