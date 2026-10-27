@@ -6727,7 +6727,7 @@ function fxCards(u) {
         );
         add(
           "roots.1",
-          `${fxImg(u, "roots.1", "")}<div class="fxtxt fxroots"><span class="fxeb">🪷 Roots · zero, One, the many</span><p class="fxsm">What DeepKids believes, and many sages taught:</p><h3>${esc(r.thread)}</h3>${(r.teachings || []).map((t) => `<div class="fxvoice"><b>${esc(t.source)}</b><p>${esc(t.teaching)}</p><p class="fxsm">${esc(t.link)}</p></div>`).join("")}</div>`,
+          `${fxImg(u, "roots.1", "")}<div class="fxtxt fxroots"><span class="fxeb">🪷 Roots · zero, One, the many</span><p class="fxsm">What many sages taught, and what the science shows:</p><h3>${esc(r.thread)}</h3>${(r.teachings || []).map((t) => `<div class="fxvoice"><b>${esc(t.source)}</b><p>${esc(t.teaching)}</p><p class="fxsm">${esc(t.link)}</p></div>`).join("")}</div>`,
           r.thread + " " + (r.teachings || []).map((t) => t.teaching).join(" "),
         );
         add(
