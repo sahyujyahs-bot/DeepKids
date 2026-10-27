@@ -198,7 +198,7 @@ Inside a plain nail, countless tiny magnets point in every direction. Their forc
 ## Story: The Iron Fish
 *Floating iron fish compasses rubbed with a lodestone are real: Muhammad al-Awfi, writing at the Delhi court around 1232, describes sailors using one, and ships really sailed between Khambhat in Gujarat and Aden. Amina, her mother, the pilot and this voyage are made up.*
 
-The ship was called the Swift Gazelle, and it smelled of cloves, tar and the sea. It had left Khambhat, in Gujarat, nine days ago. It was carrying cotton cloth and indigo to Aden, far across the Arabian Sea. Amina was ten. She was the only child on board, because her mother was the ship's cook.
+This happened about 800 years ago. The ship was called the Swift Gazelle, and it smelled of cloves, tar and the sea. It had left Khambhat, in Gujarat, nine days ago. It was carrying cotton cloth and indigo to Aden, far across the Arabian Sea. Amina was ten. She was the only child on board, because her mother was the ship's cook.
 
 Amina's favourite person on the ship, after her mother, was the pilot, old Yusuf. He knew the stars the way Amina knew the path to her grandmother's well. At night he sat with his chin up and his eyes half closed, reading the sky. He told the helmsman where to steer.
 
