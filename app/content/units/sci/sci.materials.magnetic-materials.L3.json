@@ -3,12 +3,12 @@
  "title": "Magnetic materials: what a magnet attracts, and why only some things",
  "level": 3,
  "summary": {
-  "text": "A magnet sticks to a steel spoon, but often not to a steel tumbler. A magnet attracts iron, most steel, nickel and cobalt, and these are called magnetic materials. Most metals are not magnetic: a magnet does not attract aluminium, copper, brass, gold or silver. The reason is inside the atoms. Every electron is a tiny magnet. In most materials they cancel out in pairs, but in iron they point the same way. A magnet test can show that a thing contains iron, but it can never show that a thing is gold.",
+  "text": "A magnet sticks to a steel spoon, but often not to a steel tumbler. A magnet attracts iron, most steel, nickel and cobalt, and these are called magnetic materials. Most metals are not magnetic: a magnet does not attract aluminium, copper, brass, gold or silver. The reason is inside the atoms. Every electron is a tiny magnet. In most materials, the electrons are in pairs whose tiny magnets point opposite ways and cancel out. In iron, the tiny magnets of neighbouring atoms point the same way. A magnet test can show that a thing contains iron, but it can never show that a thing is gold.",
   "art": "A split picture: on the left a fridge magnet holding a drawing on a steel fridge door, with an iron nail stuck beside it. On the right the same magnet beside a wooden cupboard door, an aluminium foil ball and a brass key, none of them stuck to it."
  },
  "intro": {
   "hook": "Take a fridge magnet into your kitchen. Touch it to a steel spoon, then to a steel tumbler. Both are grey, shiny and called steel. Will the magnet stick to both?",
-  "text": "In many kitchens, the magnet sticks to the spoon but not to the tumbler. It also sticks to the fridge door, but falls off the wooden cupboard door right beside it. Colour and shine are not what matters. So what is? You will test more than thirty things and look for the pattern. Then you will find out what is different inside the things a magnet attracts.",
+  "text": "In many kitchens, the magnet sticks to the spoon but not to the tumbler. It also sticks to the fridge door, but falls off the wooden cupboard door right beside it. Colour and shine do not decide whether a magnet sticks. So what does? You will test more than thirty things and look for the pattern. Then you will find out what is different inside the things a magnet attracts.",
   "art": "A kitchen counter: a hand holding a fridge magnet over a steel spoon that jumps up to it, and over a steel tumbler that does not move, with a question mark between them."
  },
  "outcomes": [
@@ -30,7 +30,7 @@
   },
   {
    "term": "Attract",
-   "meaning": "To make something move towards you without touching it. A magnet attracts magnetic materials.",
+   "meaning": "To draw something closer, even without touching it. A magnet attracts magnetic materials.",
    "example": "A magnet attracts a paper clip. The clip moves up to the magnet and sticks to it.",
    "art": "A paper clip jumping up to a magnet with small motion lines."
   },
@@ -90,7 +90,7 @@
   },
   {
    "term": "Alloy",
-   "meaning": "A mixture of a metal with other metals or other substances, made to give it new properties. Steel, brass and bronze are alloys.",
+   "meaning": "A mixture of a metal with other metals or other substances, made to suit a job better, for example to be harder or to rust less. Steel, brass and bronze are alloys.",
    "example": "Brass is copper mixed with zinc. A magnet does not attract brass.",
    "art": "Two metal pots pouring into one mould, with the new metal shining gold."
   },
@@ -108,7 +108,7 @@
   },
   {
    "term": "Lodestone",
-   "meaning": "A natural rock that is already a magnet. It is a form of a dark mineral called magnetite.",
+   "meaning": "A natural rock that is already a magnet. It is a piece of a dark mineral called magnetite.",
    "example": "People found lodestones thousands of years ago, and saw that they attract iron.",
    "art": "A dark, rough lodestone with iron pins clinging to it."
   },
@@ -134,12 +134,12 @@
    "term": "Electron",
    "meaning": "A tiny particle in every atom. Every electron acts like a very tiny magnet. Scientists call this property its spin.",
    "example": "In most atoms, the electrons come in pairs that point opposite ways, so they cancel out. In iron, some electrons have no partner, so each iron atom is a tiny magnet.",
-   "art": "An atom with small spinning balls, each drawn with a tiny arrow."
+   "art": "An atom with small dots around it, each drawn with a tiny arrow."
   },
   {
    "term": "Domain",
    "meaning": "A tiny region inside iron where the tiny magnets of all the atoms point the same way.",
-   "example": "A nail is full of domains that point different ways, so the nail is not a magnet. A magnet nearby turns the domains to point its way. Then it attracts the nail.",
+   "example": "A nail is full of domains that point different ways, so the nail is not a magnet. A magnet nearby turns the domains to point its way. Then the magnet attracts the nail.",
    "art": "A zoomed picture of a nail, split into patches, each patch full of small arrows pointing one way."
   },
   {
@@ -163,7 +163,7 @@
   {
    "term": "Diamagnetic",
    "meaning": "Repelled very weakly by a magnet. Almost every material is a little diamagnetic, including water, wood and you.",
-   "example": "A very strong magnet floated a live frog in the air, because it repels the frog very weakly.",
+   "example": "A giant magnet floated a live frog in the air. The frog is only very weakly repelled, but the magnet was strong enough to hold it up.",
    "art": "A small green frog floating calmly in the air inside a large magnet."
   },
   {
@@ -212,7 +212,7 @@
    "concept": "Not every metal is magnetic",
    "status": "defined",
    "definition": "Only three common metals are magnetic: iron, nickel and cobalt. A magnet does not attract aluminium, copper, brass, gold, silver, zinc, tin or lead.",
-   "description": "Many people think a magnet attracts every metal. It does not. Try an aluminium foil ball, a copper wire, a brass key and a gold ring. They are all shiny metals, and a magnet attracts none of them. About ninety elements are found in nature. At room temperature, only three of them are magnetic: iron, nickel and cobalt. A fourth, gadolinium, is magnetic only when it is colder than about 20 degrees Celsius. So being a metal does not make a thing magnetic. Something inside iron, nickel and cobalt is different. A later card explains what it is.",
+   "description": "Many people think a magnet attracts every metal. It does not. Try an aluminium foil ball, a copper wire, a brass key and a gold ring. They are all shiny metals, and a magnet attracts none of them. An element is a pure substance made of only one kind of atom. About ninety elements are found in nature. At room temperature, only three of them are magnetic: iron, nickel and cobalt. A fourth, gadolinium, is magnetic only when it is colder than about 20 degrees Celsius. So being a metal does not make a thing magnetic. Something inside iron, nickel and cobalt is different. A later card explains what it is.",
    "examples": [
     "A magnet does not attract aluminium foil or an aluminium pressure cooker.",
     "A magnet does not attract a brass diya or a copper lota.",
@@ -230,7 +230,7 @@
    "examples": [
     "A magnet attracts a steel almirah, a tawa and many spoons.",
     "A magnet does not attract many tumblers and katoris, or attracts them only weakly.",
-    "A magnet always attracts a pan that works on an induction stove."
+    "A magnet always attracts the bottom of a pan that works on an induction stove."
    ],
    "perspectives": [],
    "art": "Two steel katoris with a magnet: one holds the magnet firmly, the other lets it slide off. A magnified circle shows the iron atoms packed in two different patterns.",
@@ -253,8 +253,8 @@
   {
    "concept": "Tiny magnets inside: why iron is magnetic",
    "status": "defined",
-   "definition": "In iron, nickel and cobalt, each atom is a tiny magnet, and neighbouring atoms point the same way. Together they form regions called domains. A magnet nearby turns the domains to point its way, and then it attracts the metal.",
-   "description": "Everything is made of atoms, far too small to see. Every atom has electrons, and every electron acts like a very tiny magnet. In most atoms, the electrons come in pairs that point opposite ways. Each pair cancels out, so the atom is not a magnet. That is why a magnet does not attract a wooden spoon or a copper wire. In an iron atom, some electrons have no partner, so each iron atom is a tiny magnet. Neighbouring iron atoms also point the same way as each other. They form regions called domains, each with billions of atoms. Some other atoms, such as aluminium, also have unpaired electrons, but their neighbours do not line up with them. So a magnet attracts aluminium only very weakly. In an ordinary nail, the domains point in different directions and cancel out, so the nail is not a magnet. Bring a magnet close, and the domains turn to point the same way as the magnet. Now the nail is a magnet too, and the two attract each other. Take the magnet away, and most domains in the nail turn back. In hard steel, many domains stay lined up. That is how a steel needle can become a lasting magnet.",
+   "definition": "In iron, nickel and cobalt, each atom is a tiny magnet, and the tiny magnets of neighbouring atoms point the same way. Together they form regions called domains. A magnet nearby turns the domains to point its way, and then the magnet attracts the metal.",
+   "description": "Everything is made of atoms, far too small to see. Every atom has electrons, and every electron acts like a very tiny magnet. In most atoms, the electrons come in pairs that point opposite ways. Each pair cancels out, so the atom is not a magnet. That is why a magnet does not attract a wooden spoon or a copper wire. In an iron atom, some electrons have no partner, so each iron atom is a tiny magnet. The tiny magnets of neighbouring iron atoms also point the same way. They form regions called domains, each with billions of atoms. Some other atoms, such as aluminium, also have unpaired electrons, but their neighbours do not line up with them. So a magnet attracts aluminium only very weakly. In an ordinary nail, the domains point in different directions and cancel out, so the nail is not a magnet. Bring a magnet close, and the domains turn to point the same way as the magnet. Now the nail is a magnet too, and the two attract each other. Take the magnet away, and most domains in the nail turn back. In hard steel, many domains stay lined up. That is how a steel needle can become a lasting magnet.",
    "examples": [
     "A nail touched to a magnet can pick up paper clips. Take the nail away from the magnet, and the clips fall off, because its domains turn back.",
     "A steel needle stroked many times with a magnet stays a magnet for a long time.",
@@ -283,7 +283,7 @@
     },
     {
      "who": "Scientists today",
-     "explanation": "Both pictures are partly right. For iron, nickel and cobalt, the free-moving picture fits better, but exact predictions are still hard."
+     "explanation": "Both pictures are partly right. For iron, nickel and cobalt, the free-moving picture explains more, but neither picture predicts everything exactly."
     }
    ],
    "art": "Two pictures of a metal: on the left, atoms in a grid, each with a tiny arrow pointing the same way as its neighbours. On the right, electrons moving freely through the grid, most of their arrows pointing one way.",
@@ -295,7 +295,7 @@
    "definition": "Almost every material is repelled very weakly by a magnet. This is called being diamagnetic. A few materials, such as aluminium, are attracted very weakly instead.",
    "description": "When we say wood, water or aluminium is non-magnetic, we mean that a fridge magnet cannot move it. A much stronger magnet does move it, a tiny bit. In 1997, a physicist called Andre Geim floated a live frog in the air, in the Netherlands. He used one of the strongest magnets in the world. The frog was not hurt. A frog is mostly water, and a magnet repels water very weakly. In a strong enough magnet, that weak force can hold up the whole frog. Geim later won a Nobel Prize for a different discovery, graphene, a sheet of carbon one atom thick. So non-magnetic really means that the magnetic force on a thing is too weak for us to notice.",
    "examples": [
-    "A very strong magnet can make a drop of water float in the air. A frog needs an even stronger one.",
+    "A very strong magnet can make a drop of water float in the air. A frog floats in the same way, because a frog is mostly water.",
     "A magnet attracts aluminium extremely weakly. It repels copper, gold and silver extremely weakly.",
     "An MRI scanner in a hospital has a huge magnet. You lie inside it and feel nothing, unless you carry something made of steel."
    ],
@@ -307,7 +307,7 @@
    "concept": "Heat can stop a material being magnetic",
    "status": "defined",
    "definition": "Every magnetic material stops being magnetic when it gets hot enough. The temperature at which this happens is called its Curie point.",
-   "description": "Heat makes atoms jiggle. When iron gets hot enough, the jiggling is stronger than the rule that lines up its tiny magnets. The domains break up, and a magnet no longer attracts the iron. For iron this happens at about 770 degrees Celsius, when it glows red. For nickel it is about 358 degrees. Pierre Curie, a French scientist, measured this carefully in 1895. When the iron cools down, it becomes magnetic again. Heat can also weaken a magnet for good, so never heat a magnet. Red-hot iron is not safe to make at home, so this is one to read about, not to try.",
+   "description": "Heat makes atoms jiggle. When iron gets hot enough, the jiggling is stronger than the rule that lines up its tiny magnets. The domains break up, and a magnet no longer attracts the iron. For iron this happens at about 770 degrees Celsius, when it glows red. For nickel it is about 358 degrees. Pierre Curie, a French scientist, measured this carefully in 1895. When the iron cools down, it becomes magnetic again. Heat can also weaken a magnet for good, so never heat a magnet. Making iron red-hot needs a gas flame and a grown-up, so in this unit we only read about it.",
    "examples": [
     "A magnet does not attract a red-hot nail. When the nail cools, the magnet attracts it again.",
     "A magnet left on a hot stove gets weaker.",
@@ -321,7 +321,7 @@
    "concept": "Magnets without metal: lodestone and ferrite",
    "status": "defined",
    "definition": "Some magnetic materials are not metals. Lodestone is a rock. Ferrite is a ceramic, like a very hard pot. Both contain iron joined with oxygen.",
-   "description": "Magnetite is a dark mineral made of iron joined with oxygen. A piece of magnetite that is already a magnet is called a lodestone. People found lodestones thousands of years ago. In Sanskrit, a magnet is called ayaskanta, which means 'loved by iron'. Today, most fridge magnets are made of ferrite. Ferrite is a ceramic, made by baking iron oxide, which is iron joined with oxygen, with other powders. The bendy fridge magnet sheets are ferrite powder mixed into rubber. So a magnet can be made without any shiny metal. 'Only metals are magnetic' works for kitchen objects, but it is not true everywhere. Ordinary brown rust is only very weakly magnetic. A rusty nail still sticks to a magnet, because there is iron under the rust.",
+   "description": "Magnetite is a dark mineral made of iron joined with oxygen. A piece of magnetite that is already a magnet is called a lodestone. People found lodestones thousands of years ago. In Sanskrit, a magnet is called ayaskanta, which means 'beloved of iron'. Today, most fridge magnets are made of ferrite. Ferrite is a ceramic, made by baking iron oxide, which is iron joined with oxygen, with other powders. The bendy fridge magnet sheets are ferrite powder mixed into rubber. So a magnet can be made without any shiny metal. 'Only metals are magnetic' works for kitchen objects, but it is not true everywhere. Ordinary brown rust is only very weakly magnetic. A rusty nail still sticks to a magnet, because there is iron under the rust.",
    "examples": [
     "The black ceramic magnet inside a loudspeaker is not a metal.",
     "A bendy fridge magnet sheet is ferrite powder mixed into rubber.",
@@ -346,7 +346,7 @@
     },
     {
      "who": "Other geologists",
-     "explanation": "Slow cooling might do it. When hot rock cools, it can lock in a weak magnetism from the Earth's magnetic field. That could explain weakly magnetic rocks, but not strong lodestones."
+     "explanation": "Lightning may not explain every lodestone. When hot rock cools, it locks in a weak magnetism from the Earth's magnetic field. Some kinds of magnetite also hold their magnetism much better than others. The full answer is still being studied."
     }
    ],
    "art": "A lightning bolt hitting a dark rock on a hillside, and afterwards iron pins stuck to the rock.",
@@ -370,7 +370,7 @@
    "concept": "The Earth has an iron heart",
    "status": "defined",
    "definition": "The centre of the Earth is mostly iron, with some nickel. The outer part of the core is liquid, and its flowing makes the Earth's magnetic field.",
-   "description": "Deep below your feet, under the rock, lies a ball of iron and nickel. It is about as wide as the planet Mars. Its outer part is liquid. Its inner part is solid, because it is squeezed so hard. In 1936, a Danish scientist called Inge Lehmann studied earthquake waves. She worked out that there is a solid ball inside the liquid. She kept her measurements on cards, stored in cardboard boxes. The core is much hotter than iron's Curie point, so it cannot be an ordinary magnet. Instead, scientists think its liquid iron flows and swirls. The moving iron carries electric currents, and these currents make the Earth's magnetic field. That is the field a compass needle turns to follow. Iron also falls from space, in meteorites. A magnet can even pick up tiny grains of space dust from a rooftop.",
+   "description": "Deep below your feet, under the rock, lies a ball of iron and nickel. It is about as wide as the planet Mars. Its outer part is liquid. Its inner part is solid, because it is squeezed so hard. In 1936, a Danish scientist called Inge Lehmann studied earthquake waves. She worked out that there is a solid ball inside the liquid. She kept her measurements on cards, stored in cardboard boxes. The core is much hotter than iron's Curie point, so it cannot be an ordinary magnet. Instead, scientists think its liquid iron flows and swirls. Electric currents flow in the moving iron, and these currents make the Earth's magnetic field. That is the field a compass needle turns to follow. Iron also falls from space, in meteorites. A magnet can even pick up tiny grains of space dust from a rooftop.",
    "examples": [
     "The Earth's magnetic field turns a compass needle to point north.",
     "Iron meteorites are mostly iron and nickel. A magnet attracts them.",
@@ -396,7 +396,7 @@
   {
    "concept": "Living magnets: bacteria, and a debate about birds",
    "status": "debated",
-   "description": "Some living things carry magnets inside them. Magnetotactic bacteria make tiny chains of magnetite crystals, like a string of beads. The chain works like a compass needle. It helps the bacteria swim down into the mud, where they like to live. A scientist called Richard Blakemore described these bacteria in 1975. An Italian scientist, Salvatore Bellini, had already seen them in 1963, but few people read his work. Many animals can also sense the Earth's magnetic field. Scientists have shown this in birds, turtles and fish. How they do it is still a puzzle, and scientists have more than one idea.",
+   "description": "Some living things carry magnets inside them. Magnetotactic bacteria make tiny chains of magnetite crystals, like a string of beads. The chain works like a compass needle. It helps the bacteria swim down into the mud, where they like to live. A scientist called Richard Blakemore described these bacteria in 1975. An Italian scientist, Salvatore Bellini, had already seen them in 1963, but his notes were not published until much later. Many animals can also sense the Earth's magnetic field. Scientists have shown this in birds, turtles and fish. How they do it is still a puzzle, and scientists have more than one idea.",
    "examples": [
     "Magnetotactic bacteria line up with the Earth's magnetic field as they swim.",
     "Migrating birds seem to use the magnetic field, along with the stars and the Sun."
@@ -455,7 +455,7 @@
   },
   {
    "text": "A magnet test can show that a thing contains iron, nickel or cobalt. It cannot show that a thing is a particular metal.",
-   "evidence": "If a magnet attracts a thing, it must contain a magnetic material. But a magnet attracts none of brass, aluminium, copper, gold, silver and some steels. So when a magnet does not attract a thing, we learn little about what it is."
+   "evidence": "If a magnet attracts a thing, it must contain a magnetic material. But a magnet does not attract brass, aluminium, copper, gold, silver or some steels. So when a magnet does not attract a thing, we learn little about what it is."
   }
  ],
  "challenging": [
@@ -578,7 +578,7 @@
   {
    "q": "Inge Lehmann found the Earth's solid inner core using earthquake records she kept on cards in cardboard boxes. Why do you think great ideas sometimes come from quiet people with simple tools?",
    "kind": "big",
-   "hint": "Salvatore Bellini saw magnetic bacteria in 1963, but few people read his paper. Who else gets forgotten?"
+   "hint": "Salvatore Bellini saw magnetic bacteria in 1963, but his notes were not published for many years. Who else gets forgotten?"
   },
   {
    "q": "In a wooden spoon, the electrons' tiny magnets cancel out to zero. Is zero the same as nothing?",
@@ -586,9 +586,9 @@
    "hint": "Two people pushing equally hard on opposite sides of a door keep it still. Is that nothing happening, or two forces in balance?"
   },
   {
-   "q": "Heusler mixed three non-magnetic metals and got a magnetic material. Can a group of people do something that none of them can do alone?",
+   "q": "Heusler mixed three non-magnetic metals and got a magnetic material. None of the three is magnetic on its own. So where did the magnetism come from?",
    "kind": "big",
-   "hint": "Think of a cricket team, a family or a village. What do they do together that none can do alone?"
+   "hint": "In Heusler's mixture, the manganese atoms sit in a regular pattern, and in that pattern their tiny magnets line up. Can a pattern give a material something that none of its parts has?"
   }
  ],
  "story": {
@@ -868,7 +868,7 @@
       {
        "q": "Why is it proved?",
        "good": [
-        "Only iron, nickel, cobalt or things containing them stick.",
+        "Only things with iron, nickel or cobalt in them can stick.",
         "A thing that sticks must have a magnetic material in it."
        ]
       }
@@ -1277,7 +1277,7 @@
      "a": [
       "domain"
      ],
-     "why": "A domain holds billions of atoms, all pointing the same way. A nail is full of domains that point in different directions."
+     "why": "A domain holds billions of atoms, with their tiny magnets all pointing the same way. A nail is full of domains that point in different directions."
     },
     {
      "t": "mcq",
@@ -1289,7 +1289,7 @@
       "Wood is too hot"
      ],
      "a": 0,
-     "why": "In wood, the electrons come in pairs that point opposite ways, so each pair cancels out. In iron, some electrons have no partner, and neighbouring atoms point the same way. Picking 'wood has no atoms' often means thinking only metals are made of atoms. Everything is."
+     "why": "In wood, the electrons come in pairs that point opposite ways, so each pair cancels out. In iron, some electrons have no partner, and the tiny magnets of neighbouring atoms point the same way. Picking 'wood has no atoms' often means thinking only metals are made of atoms. Everything is."
     },
     {
      "t": "truefalse",
@@ -1303,7 +1303,7 @@
      "pairs": [
       [
        "Pierre Curie",
-       "showed that heat makes magnets stop working"
+       "showed that heat stops a material being magnetic"
       ],
       [
        "William Gilbert",
@@ -1468,7 +1468,7 @@
      "t": "write",
      "p": "Explain why a magnet attracts an iron nail but not a copper wire. Use the words 'tiny magnets'.",
      "lines": 4,
-     "a": "Every electron acts like a tiny magnet. In copper, the electrons are in pairs that point opposite ways, so they cancel out, and there is nothing for a magnet to turn. In iron, some electrons have no partner, so each atom is a tiny magnet. Neighbouring atoms point the same way, in domains. A magnet turns the domains to point its way, and attracts the nail.",
+     "a": "Every electron acts like a tiny magnet. In copper, the electrons are in pairs that point opposite ways, so they cancel out, and there is nothing for a magnet to turn. In iron, some electrons have no partner, so each atom is a tiny magnet. The tiny magnets of neighbouring atoms point the same way, in domains. A magnet turns the domains to point its way, and attracts the nail.",
      "why": "The difference is not the metals' colour or hardness. It is how the tiny magnets inside them are arranged."
     },
     {
@@ -1522,7 +1522,7 @@
     },
     {
      "t": "mcq",
-     "p": "In 1963 Salvatore Bellini noticed bacteria that line up in a magnetic field, but his work was hardly read. In 1975 Richard Blakemore described them and became well known. What does this suggest?",
+     "p": "In 1963 Salvatore Bellini noticed bacteria that line up in a magnetic field, but his notes were not published until much later. In 1975 Richard Blakemore described them and became well known. What does this suggest?",
      "opts": [
       "Credit does not always go to the first person who finds something",
       "Blakemore copied Bellini",
@@ -1586,7 +1586,7 @@
      "p": "Waste pickers and kabadiwalas sort metal by hand every day. Write two questions you would ask one of them, and one thing you would like to change.",
      "lines": 4,
      "a": "For example: How do you know which metal is which? How much do you earn for a kilogram of iron? I would like to change how much they are paid, or give them gloves and safe tools.",
-     "why": "Science is useful only when we also ask who does the work, and whether it is fair."
+     "why": "Good answers ask how the work is done, and whether it is fair to the people who do it."
     },
     {
      "t": "mcq",
@@ -2143,7 +2143,7 @@
        "The nail is not magnetic"
       ],
       "a": 0,
-      "why": "The magnet lined up the domains in the nail, so the nail became a magnet and picked up clips. Without the magnet, most domains turn back, and the nail stops being a magnet. Picking 'the nail is not magnetic' often means thinking a magnetic thing must be a magnet all the time. A magnetic material becomes a magnet only while a magnet lines it up, or for a short time after."
+      "why": "The magnet lined up the domains in the nail, so the nail became a magnet and picked up clips. Without the magnet, most domains turn back, and the nail stops being a magnet. Picking 'the nail is not magnetic' often means thinking a magnetic thing must be a magnet all the time. A magnetic material becomes a magnet while a magnet lines it up. Soft iron loses this soon after, but hard steel can stay a magnet for a long time."
      }
     },
     {
@@ -2200,7 +2200,7 @@
      "say": "Now we try to make a lasting magnet. Stroke the needle many times in the same direction. Always lift it away at the end of each stroke.",
      "kid": "Ask a grown-up to hold the needle. Stroke it 30 times with the magnet, the same way each time. Does it pick up a clip?",
      "adult": true,
-     "parent": "The needle should pick up a clip or two, and keep doing so for hours or days. The nail may stop being a magnet within minutes. Results vary a lot. Steel with more carbon stays magnetised better than soft iron. Scientists call these hard and soft magnetic materials.",
+     "parent": "The needle should pick up a clip or two, and keep doing so for hours or days. The nail may stop being a magnet within minutes. Results vary a lot. Steel with more carbon stays magnetised better than soft iron. Scientists call steel that stays magnetised a hard magnetic material, and iron that soon loses it a soft magnetic material.",
      "think": "A fridge magnet stays a magnet for years. A nail loses its magnetism in minutes. What might be different inside them?"
     },
     {
@@ -2384,7 +2384,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Now the group is iron. Everyone points both arms forward, the same way. 2. Split into two or three small groups. In each group, everyone points the same way. These are domains. 3. Different groups point different ways. 4. The grown-up walks past with the big arrow. Each group slowly turns to point the same way as the arrow.",
-     "say": "Now we are iron. In iron, some tiny magnets have no partner, and neighbours point the same way. Stand in small groups, all pointing one way. When the big arrow comes, turn to match it.",
+     "say": "Now we are iron. In iron, some electrons have no partner, and each atom points the same way as its neighbours. Stand in small groups, all pointing one way. When the big arrow comes, turn to match it.",
      "kid": "Now you are iron. Point both arms forward. Your group points the same way. When the big arrow comes, turn to match it.",
      "check": {
       "t": "mcq",
@@ -2395,7 +2395,7 @@
        "The big arrow is heavy"
       ],
       "a": 0,
-      "why": "In iron, the tiny magnets already point the same way in small groups, called domains. A magnet nearby turns the groups to point its way, and then it attracts the iron. Picking 'arms point opposite ways' describes wood, not iron."
+      "why": "In iron, the tiny magnets already point the same way in small groups, called domains. A magnet nearby turns the groups to point its way, and then the magnet attracts the iron. Picking 'arms point opposite ways' describes wood, not iron."
      }
     },
     {
@@ -2690,7 +2690,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about iron in the body. Our blood needs a little iron to carry oxygen, the part of the air our body uses. We get iron from foods such as spinach, lentils, jaggery and some cereals.",
-     "say": "Our blood needs a tiny amount of iron to carry oxygen from the air around our body. We get it from food. Which foods in our home have iron?",
+     "say": "Our blood needs a tiny amount of iron to carry oxygen from the air to every part of our body. We get it from food. Which foods in our home have iron?",
      "kid": "Your body needs a tiny bit of iron. Which foods have it? Lentils, jaggery, spinach.",
      "think": "The iron in this cereal is a metal powder. The iron in spinach is spread out, one atom at a time, inside other substances. Do you think a magnet could pick out that iron?"
     }
@@ -3055,7 +3055,7 @@
      "id": "s4",
      "mins": 15,
      "do": "1. Choose just ONE thing to change: the slope, the magnet, or the thickness of the card. 2. Test again with a fresh mix. 3. Count. 4. Do it a third time with a different change.",
-     "say": "Change just one thing. Test again. Which change catches the most clips? Change only one thing at a time, so we know what worked.",
+     "say": "Change just one thing, so we know what made the difference. Test again. Which change catches the most clips?",
      "kid": "Change one thing. Test again. Count the clips. Do it again with a different change.",
      "chart": {
       "type": "bar",
@@ -3248,7 +3248,7 @@
      "do": "Look at the usual ideas and the creative ideas. Ask your child to invent a new one and test it.",
      "say": "Here are the usual ways and some clever ones. Can you invent a new one?",
      "kid": "Look at the usual ways and the clever ones. Now invent your own and test it.",
-     "think": "Why are fridge doors made of steel and not wood? What does the magnetic strip around a fridge door do? Choosing the right material for a job is the unit Using Materials."
+     "think": "Why are fridge doors made of steel and not wood? What does the magnetic strip around a fridge door do? The unit Using Materials looks at how to choose the right material for a job."
     }
    ],
    "context": "This is an engineering challenge. You must make a fridge magnet stay on a wooden board, which it would not stick to as it is.",
@@ -3282,7 +3282,7 @@
    "channel": "Radboud University High Field Magnet Laboratory, Nijmegen",
    "youtube": "9lfvK4-LVwE",
    "mins": 3,
-   "why": "Shows a live frog floating in a very strong magnet, because the magnet repels the water in its body very weakly.",
+   "why": "Shows a live frog floating in a very strong magnet. The magnet repels the water in the frog's body very weakly, but strongly enough to hold the frog up.",
    "check": "Found by YouTube search: \"The High Field Magnet Laboratory (HFML) at Radboud University\" by Radboud University. Title checked automatically; a parent may still preview it."
   },
   {
@@ -3503,7 +3503,7 @@
    ],
    "a": 0,
    "outcome": 6,
-   "why": "Each iron atom is a tiny magnet, and neighbouring atoms point the same way, in domains. A nearby magnet turns the domains to point its way, and then attracts the iron. Picking 'shiny' or 'heavy' often means choosing something we can see, not what is inside."
+   "why": "Each iron atom is a tiny magnet, and the tiny magnets of neighbouring atoms point the same way, in domains. A nearby magnet turns the domains to point its way, and then attracts the iron. Picking 'shiny' or 'heavy' often means choosing something we can see, not what is inside."
   },
   {
    "t": "mcq",
@@ -3610,7 +3610,7 @@
   },
   {
    "q": "Can humans sense the Earth's magnetic field?",
-   "why_open": "In 2019 a team in California found that human brain waves changed when the magnetic field around people was turned. Other scientists want the result checked again and again."
+   "why_open": "In 2019 a team in California found that human brain waves changed when the magnetic field around people was rotated. Other scientists want the result checked again and again."
   },
   {
    "q": "Why are only iron, nickel and cobalt magnetic in a room, when many metals have electrons that could line up?",
@@ -4087,7 +4087,7 @@
    "what_is_life": "Life uses magnetic materials too. Some bacteria grow a chain of tiny magnets and use it to find their way, and many animals sense the Earth's magnetic field.",
    "what_is_this_world": "Every material in the world responds to a magnet, strongly or very weakly. Our hands notice only the strongest cases."
   },
-  "thread": "Every electron is a tiny magnet. In wood and copper, the electrons come in pairs that cancel out to zero. In iron, the same kind of electrons add up, and strong magnetism appears. DeepKids believes the whole world comes from one source that holds everything in balance, like that zero. The many things of the world appear when its parts come together in new ways.",
+  "thread": "Every electron is a tiny magnet. In wood and copper, the electrons come in pairs that cancel out to zero. In iron, the same kind of electrons add up, and strong magnetism appears. So wood and iron are not two separate kinds of thing for a magnet. They sit at two ends of one scale. DeepKids believes the whole world comes from one source, and that many of the differences we see are differences of amount, not of kind.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",
@@ -4135,7 +4135,7 @@
  "how_we_found_out": {
   "context": "How did people find out that a magnet acts on every material, not only on iron? This card tells the true story.",
   "story": "For a long time, people thought a magnet acts only on iron and a few other metals, and that everything else is untouched. In 1778, a Dutch scientist, Anton Brugmans, noticed that a magnet pushed away a piece of the metal bismuth. Few people followed this up. In 1845, Michael Faraday tested it properly at the Royal Institution in London. He had a very strong electromagnet. He hung a bar of heavy glass between its two ends on a silk thread. When he switched the magnet on, the glass turned to lie across the gap, as if pushed away from both ends. An iron bar would have turned the other way, to point from one end to the other. Faraday then hung up everything he could find, such as wood, bismuth, an apple, bread and a piece of beef. Every one of them moved a little. Most were pushed away, and he called them diamagnetic. A few were drawn in, like a very weak iron. He concluded that every material responds to a magnet, in one way or the other.",
-  "who": "Michael Faraday (1791 to 1867), an English scientist who started work at 14 as a bookbinder's apprentice. Before him, Anton Brugmans (1732 to 1789), a Dutch scientist.",
+  "who": "Michael Faraday (1791 to 1867), an English scientist who started work at 13 as an errand boy for a bookseller. Before him, Anton Brugmans (1732 to 1789), a Dutch scientist.",
   "when": "Brugmans noticed bismuth being pushed away in 1778. Faraday tested many materials in 1845.",
   "wrong_idea": "That a magnet acts only on iron and a few metals, and leaves everything else alone. Faraday's strong magnet showed that every material moves a little near a magnet. Most are pushed away, and a few are drawn in.",
   "art": "Michael Faraday in a 1840s laboratory, watching a small bar of glass hanging on a silk thread between the two ends of a large electromagnet, with an apple and a piece of bread on the bench waiting their turn."

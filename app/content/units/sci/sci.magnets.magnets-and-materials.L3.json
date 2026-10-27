@@ -30,13 +30,13 @@
   },
   {
    "term": "Attract",
-   "meaning": "To make something move towards you, or hold on to it. A magnet attracts iron: the iron moves to the magnet and sticks.",
+   "meaning": "To draw something closer. A magnet attracts iron: the iron moves towards the magnet and sticks to it.",
    "example": "Hold a magnet a little above a steel pin. The magnet attracts the pin, and the pin jumps up to it.",
    "art": "A pin sliding across a table towards a magnet, with an arrow pointing towards the magnet."
   },
   {
    "term": "Repel",
-   "meaning": "To push something away. Two magnets can repel each other. Turn one of them round, and they push apart instead of coming together.",
+   "meaning": "To push something away. Two magnets can repel each other. If two magnets attract each other, turn one of them round. Now they push apart instead.",
    "example": "Slide two ring magnets onto a pencil. If they snap together, take one off and turn it over. Now it floats above the other, because they repel.",
    "art": "Two ring magnets on an upright pencil, the top one floating above the bottom one with a gap between them."
   },
@@ -60,7 +60,7 @@
   },
   {
    "term": "Steel",
-   "meaning": "Iron mixed with a little of other things, to make it stronger. Most steel is magnetic. Some stainless steel, used for kitchen vessels, is not.",
+   "meaning": "Iron mixed with a small amount of other substances, such as carbon, to make it stronger. Most steel is magnetic. Some stainless steel, used for kitchen vessels, is not.",
    "example": "A steel almirah holds a magnet. Some steel tumblers do not.",
    "art": "A steel almirah with a magnet stuck on it and a steel tumbler with a magnet sliding off."
   },
@@ -72,7 +72,7 @@
   },
   {
    "term": "Compass",
-   "meaning": "A small magnet that can turn freely. The Earth's magnetic field turns it until one end points north.",
+   "meaning": "A small magnet, usually a needle, that can turn freely. The Earth's magnetic field turns it until one end points north.",
    "example": "Sailors and hikers use a compass to find their way when they cannot see the Sun or the stars.",
    "art": "A round compass with its needle pointing to N."
   },
@@ -84,7 +84,7 @@
   },
   {
    "term": "Lodestone",
-   "meaning": "A natural magnet. It is a dark rock made of a mineral called magnetite, which has iron in it. Some pieces of it are magnets, straight out of the ground.",
+   "meaning": "A natural magnet. It is a piece of a dark mineral called magnetite, which has iron in it. Most magnetite is not a magnet, but a lodestone is already a magnet when it comes out of the ground.",
    "example": "Long ago, people in China, India and Greece found lodestones that picked up iron.",
    "art": "A lumpy dark grey stone with iron nails bristling from it."
   },
@@ -102,19 +102,19 @@
   },
   {
    "term": "Electron",
-   "meaning": "An even tinier bit on the outside of every atom. Every electron is also a tiny magnet, with its own north and south.",
+   "meaning": "A particle far smaller than an atom, in the outer part of every atom. Every electron is also a tiny magnet, with its own north pole and south pole.",
    "example": "Every atom in your body has electrons. In you, the electrons are in pairs whose tiny magnets point opposite ways and cancel out.",
    "art": "An atom with little dots around it, each dot carrying a tiny arrow."
   },
   {
    "term": "Spin",
-   "meaning": "The name scientists give to the tiny magnet built into every electron. Electrons are not really spinning like tops. Spin is just something every electron has, like it has electric charge.",
-   "example": "Two electrons that share a home in an atom usually point their spins opposite ways, so their tiny magnets cancel.",
+   "meaning": "A property of every electron that makes it a tiny magnet. Electrons are not really spinning like tops. Spin is simply something every electron has, just as it has electric charge.",
+   "example": "When two electrons in an atom form a pair, their spins point opposite ways, so their tiny magnets cancel.",
    "art": "Two dots side by side in an atom, one with an arrow up and one with an arrow down."
   },
   {
    "term": "Domain",
-   "meaning": "A tiny region inside iron where the tiny magnets of millions of atoms all point the same way.",
+   "meaning": "A tiny region inside iron where the tiny magnets of billions of atoms all point the same way.",
    "example": "In a plain nail, the domains point in different directions, so their magnetic forces cancel out. In a magnet, most domains point the same way.",
    "art": "A square of iron divided into patches, each patch full of arrows pointing one way, the patches pointing different ways."
   },
@@ -192,8 +192,8 @@
   {
    "concept": "Domains: where iron's tiny magnets line up",
    "status": "defined",
-   "definition": "Inside iron, each atom's tiny magnet points the same way as its neighbours'. Together they form small regions called domains. In one domain, the tiny magnets of millions of atoms all point the same way.",
-   "description": "A plain iron nail has many domains, and they point in different directions. Their magnetic forces cancel out, so the nail is not a magnet. Bring a magnet near, and the domains that point along its magnetic field grow, while the others shrink. Now the nail is a magnet too, for as long as the magnet is near. That is why one paper clip hanging from a magnet can hold up another clip. In a permanent magnet, most domains stay lined up by themselves. Why does each iron atom point the same way as its neighbours? The electrons of neighbouring iron atoms affect each other, and they settle with their tiny magnets pointing the same way. Scientists explain this with quantum physics, the science of the very tiniest things. The French scientist Pierre Weiss said in 1907 that domains must exist. In 1931, the American scientist Francis Bitter first saw their edges. He spread very fine iron powder in oil over a piece of iron and looked through a microscope.",
+   "definition": "Inside iron, each atom's tiny magnet points the same way as its neighbours'. Together they form small regions called domains. In one domain, the tiny magnets of billions of atoms all point the same way.",
+   "description": "A plain iron nail has many domains, and they point in different directions. Their magnetic forces cancel out, so the nail is not a magnet. Bring a magnet near, and the domains that point along its magnetic field grow, while the others shrink. Now the nail is a magnet too, for as long as the magnet is near. That is why one paper clip hanging from a magnet can hold up another clip. In a permanent magnet, most domains stay lined up by themselves. Why does each iron atom point the same way as its neighbours? The electrons of neighbouring iron atoms affect each other, and they settle with their tiny magnets pointing the same way. Scientists explain this with quantum physics, the science of the very tiniest things. The French scientist Pierre Weiss said in 1907 that domains must exist. In 1931, the American scientist Francis Bitter first saw their edges. He spread a liquid with very fine magnetic powder in it over a piece of iron, and looked through a microscope.",
    "examples": [
     "A chain of paper clips hangs from a magnet. Each clip becomes a temporary magnet and holds up the next one.",
     "Stroke a needle with a magnet and its domains line up. Now the needle is a magnet."
@@ -230,7 +230,7 @@
     },
     {
      "who": "Most physicists today",
-     "explanation": "The electron cannot really be a spinning ball. Its surface would have to move faster than light. Spin is just a basic property of every electron, like its charge. It does not need anything under it."
+     "explanation": "The electron cannot really be a spinning ball. Its surface would have to move faster than light. Spin is just a basic property of every electron, like its charge. Nothing deeper is needed to explain it."
     },
     {
      "who": "The physicist Richard Feynman, in a 1983 BBC interview",
@@ -243,12 +243,12 @@
   {
    "concept": "Magnetism and electricity are one force",
    "status": "defined",
-   "definition": "Magnetism and electricity are two sides of one force, which scientists call the electromagnetic force. Moving electric charge makes a magnet, and a moving magnet makes electricity.",
+   "definition": "Magnetism and electricity are two sides of one force, which scientists call the electromagnetic force. Moving electric charge makes a magnetic field, and a moving magnet can make electricity flow in a wire.",
    "description": "In 1820, a Danish scientist, Hans Christian Oersted, noticed that a compass needle moved when electricity flowed in a wire nearby. The electric current was making a magnetic field. Michael Faraday, who started work at 13 as an errand boy for a bookseller, found the reverse in 1831. Moving a magnet in and out of a coil of wire makes electricity flow. In 1865, James Clerk Maxwell wrote the rules of electricity and magnetism as one set of equations. They showed that light is a wave of electric and magnetic fields. In 1905, Albert Einstein showed that whether a force looks electric or magnetic depends on how you are moving. The same electromagnetic force also holds atoms together and causes friction.",
    "examples": [
     "A doorbell, a fan and a mixer all have electromagnets inside. An electromagnet is a coil of wire that becomes a magnet when electricity flows through it.",
-    "Every power station spins magnets near coils of wire to make electricity.",
-    "Light from the Sun is a wave of electricity and magnetism."
+    "Most power stations spin magnets near coils of wire to make electricity.",
+    "Light from the Sun is a wave of electric and magnetic fields."
    ],
    "perspectives": [],
    "art": "A compass needle turning next to a wire connected to a battery, and beside it a sunbeam drawn as a wavy line labelled 'electric and magnetic'.",
@@ -292,7 +292,7 @@
    "concept": "The Earth is a giant magnet",
    "status": "defined",
    "definition": "The whole Earth is a magnet. Its magnetic field is made by liquid iron moving in the Earth's outer core, which starts about 2,900 kilometres under our feet.",
-   "description": "In 1600, an English doctor, William Gilbert, carved a ball out of lodestone. He called it a 'little Earth'. He moved a tiny compass over it, and the compass behaved just as compasses do on the real Earth. So he said the Earth itself is a magnet. A compass needle is a small magnet, so the Earth's magnetic field turns it to point north and south. Today we know more. The Earth's core is mostly iron and nickel. Its outer part is liquid metal, and its centre is about as hot as the surface of the Sun. The liquid iron churns slowly, as heat escapes from the core. Moving metal carries electric currents, and electric currents make a magnetic field. In 1936, a Danish scientist, Inge Lehmann, studied earthquake waves that had passed through the Earth. She found that the very centre is a solid ball inside the liquid. A compass does not point exactly at the North Pole. It lines up with the Earth's magnetic field, which points roughly towards the magnetic north pole. That is some distance away from the North Pole.",
+   "description": "In 1600, an English doctor, William Gilbert, carved a ball out of lodestone. He called it a 'little Earth'. He moved a tiny compass over it, and the compass behaved just as compasses do on the real Earth. So he said the Earth itself is a magnet. A compass needle is a small magnet, so the Earth's magnetic field turns it to point north and south. Today we know more. The Earth's core is mostly iron and nickel. Its outer part is liquid metal, and its centre is about as hot as the surface of the Sun. The liquid iron churns slowly, as heat escapes from the core. Electric currents flow in the moving iron, and electric currents make a magnetic field. In 1936, a Danish scientist, Inge Lehmann, studied earthquake waves that had passed through the Earth. She found that the very centre is a solid ball inside the liquid. A compass does not point exactly at the North Pole. It lines up with the Earth's magnetic field, which points roughly towards the magnetic north pole. That is some distance away from the North Pole.",
    "examples": [
     "Hang a magnetised needle on a thread, far from any iron. It turns until it points north and south.",
     "In most of India, a compass points only a degree or two away from true north. In Canada, it can point far off."
@@ -373,7 +373,7 @@
    "status": "debated",
    "description": "Many animals use the Earth's magnetic field to find their way. For some of them, scientists have strong evidence. How they sense the field is still argued about.",
    "examples": [
-    "Some bacteria, living things far too small to see, build a chain of tiny magnetite crystals inside their bodies. The chain is a tiny compass needle. The Earth's magnetic field turns the chain, and the bacterium swims in the direction the chain points. Salvatore Bellini saw them in Italy in 1963, but his notes were not published. Richard Blakemore described them in the USA in 1975.",
+    "Some bacteria, living things far too small to see, build a chain of tiny magnetite crystals inside their bodies. The chain works like a tiny compass needle. The Earth's magnetic field turns the chain, and the bacterium swims in the direction the chain points. Salvatore Bellini saw them in Italy in 1963, but his notes were not published. Richard Blakemore described them in the USA in 1975.",
     "Kenneth and Catherine Lohmann have shown that young loggerhead sea turtles can tell where they are in the ocean from the Earth's magnetic field. They sense how strong it is, and the angle at which it dips into the Earth. Olive ridley turtles nest on Odisha's beaches and may do the same, but nobody has tested them as carefully.",
     "In 1972, Wolfgang and Roswitha Wiltschko showed that European robins, small birds, choose their migration direction using the Earth's magnetic field. When the scientists changed the magnetic field around the birds' cage, the birds changed direction."
    ],
@@ -388,7 +388,7 @@
     },
     {
      "who": "About people",
-     "explanation": "In 2019, Connie Wang, Joseph Kirschvink and others reported that some people's brainwaves changed when the magnetic field around them was turned. The people did not feel anything. Other scientists say this needs to be tested again before we believe it."
+     "explanation": "In 2019, Connie Wang, Joseph Kirschvink and others reported that some people's brainwaves changed when the magnetic field around them was rotated. The people did not feel anything. Other scientists say this needs to be tested again before we believe it."
     }
    ],
    "art": "A night scene: a robin in a cage looking up, a turtle hatchling heading into the sea, and a magnified bacterium with a chain of tiny black crystals inside.",
@@ -475,14 +475,14 @@
    "claim": "Magnet bracelets and magnet mats cure pain and illness.",
    "who": "Many sellers, in India and around the world",
    "for": "Some people say they feel better when they wear them.",
-   "against": "Careful tests compare real magnets with fake ones that look the same. People feel about as much better with the fake ones. In 2007, a review of many such tests found no good evidence that magnets help pain. Feeling better because we expect to is real, but it is not the magnet.",
+   "against": "Careful tests compare real magnets with fake ones that look the same. People feel about as much better with the fake ones. In 2007, a review of many such tests found no good evidence that magnets help pain. Feeling better because we expect to is real, but the magnet is not what causes it.",
    "status": "rejected",
    "context": "Magnet bracelets are sold in many markets. This card looks at what tests show about them."
   },
   {
    "claim": "People can sense the Earth's magnetic field.",
    "who": "Connie Wang, Joseph Kirschvink and others, in 2019",
-   "for": "In a quiet test room, some people's brainwaves changed when the magnetic field around them was turned in one particular direction.",
+   "for": "In a quiet test room, some people's brainwaves changed when the magnetic field around them was rotated in one particular direction.",
    "against": "Nobody in the test felt anything. Only some people showed it, and the result has not yet been repeated by other teams.",
    "status": "debated",
    "context": "Birds and turtles sense the Earth's magnetic field. This card asks whether people might too."
@@ -557,7 +557,7 @@
    "They came low and grey, and then black. The wind rose and the rain hit the deck like thrown rice. That night there were no stars at all. The ship rolled so hard that her mother tied the big iron cooking pot, the deg, to the back wall with a rope, right beside Yusuf's wooden box, so it could not slide about and break someone's leg.",
    "Yusuf brought out the brass bowl. He floated the iron fish. Its nose swung round and settled. He called his direction to the helmsman, and the ship turned.",
    "For a long time, nobody spoke. Amina sat wrapped in a blanket, watching the fish by the light of a little oil lamp. Something was wrong, and it took her a while to see what it was. The fish was not pointing where it had pointed on the fourth night. It was pointing at the back wall of the ship. It was pointing at the deg.",
-   "Her heart thumped. She thought of the ladle leaping to the stone. The stone attracted iron. The fish had been rubbed with the stone. Did the fish attract iron too? She took the lamp, crept to the back wall, and moved the lamp past the big pot. Then she held her mother's iron ladle near the bowl. The fish swung towards the ladle as if it had been called.",
+   "Her heart thumped. She thought of the ladle leaping to the stone. The stone attracted iron. The fish had been rubbed with the stone. Did the fish attract iron too? She took the lamp and crept to the back wall. The big iron pot was tied right beside the box. Then she held her mother's iron ladle near the bowl. The fish swung towards the ladle as if it had been called.",
    "'Yusuf,' she whispered. Then louder, 'Yusuf! The fish is looking at the pot!'",
    "The pilot frowned. He looked at the bowl, at the pot, at the ladle in her hand. Then he said a word Amina's mother would not have liked, and shouted for two sailors to untie the deg and carry it to the front of the ship.",
    "When the pot was gone, the fish shivered. It turned, slowly, slowly, nearly a quarter of the way round. And there it stopped, pointing to the south.",
@@ -621,7 +621,7 @@
       "Which way does a compass point? (North and south)",
       "What is a natural magnet stone called? (A lodestone)",
       "What is the black magnet mineral in sand called? (Magnetite)",
-      "What tiny bit inside every atom is a tiny magnet? (The electron)",
+      "What tiny particle in every atom is a tiny magnet? (The electron)",
       "Inside iron, the regions where the tiny magnets point the same way have a name. What is it? (Domains)",
       "Does heating a magnet red-hot make it stronger, or stop it being a magnet? (It stops it being a magnet)",
       "What makes the Earth a magnet? (Moving liquid iron deep inside it)",
@@ -723,7 +723,7 @@
      "do": "Finish the game and talk about the turtles square.",
      "say": "On square 11, turtles helped you. Real sea turtles find their way across oceans, with no compass. How do you think they do it?",
      "kid": "Who reached Aden? On square 11, turtles helped you. Real turtles cross oceans with no compass. How?",
-     "think": "Sailors needed an iron fish to find the way. Turtles need nothing but their own bodies. Who is the better navigator?"
+     "think": "Sailors needed an iron fish to find the way. Turtles need nothing but their own bodies. Who is better at finding the way?"
     }
    ],
    "setup": [
@@ -800,7 +800,7 @@
      "do": "Read the cards one at a time. Give the tiny magnets three seconds to act. Players who move on a trick card sit out one round.",
      "say": "Magnet coming!",
      "kid": "Listen to each card. Do what it says, fast. On WOOD, PLASTIC or BRASS, don't move at all!",
-     "parent": "After each card, say in one sentence what it means. 'Magnet coming' means a magnet lines up the domains. 'Soft iron' means a nail that loses its magnet as soon as the magnet goes. 'Hard steel' means a needle that keeps it. 'Copper' means electrons in pairs that cancel. Heat and hammering shake the line-up apart."
+     "parent": "After each card, say in one sentence what it means. 'Magnet coming' means a magnet lines up the domains. 'Soft iron' means a nail that loses its magnetism as soon as the magnet goes. 'Hard steel' means a needle that keeps it. 'Copper' means electrons in pairs that cancel. Heat and hammering shake the tiny magnets out of line."
     },
     {
      "id": "s3",
@@ -1786,7 +1786,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Take off the blindfold and talk.",
-     "say": "Olive ridley turtles nest on beaches in Odisha, at Gahirmatha and Rushikulya. They come back after years at sea. They aren't doing it for us. They are living their own lives, finding their own beaches.",
+     "say": "Olive ridley turtles nest on beaches in Odisha, at Gahirmatha and Rushikulya. They come back after years at sea. Scientists think they may find their beaches using the Earth's magnetic field.",
      "kid": "You found home without seeing! Real olive ridley turtles cross the sea to Odisha's beaches. How do you think it feels to know the way?",
      "check": {
       "t": "mcq",
@@ -1797,7 +1797,7 @@
        "They remember the shapes of the waves"
       ],
       "a": 1,
-      "why": "Experiments show that young turtles change direction when scientists change the magnetic field around them in a tank. Each part of the ocean has its own strength and angle of the Earth's magnetic field, like an address. Picking 'follow the boats' puts people at the centre. Turtles were crossing oceans for millions of years before there were boats."
+      "why": "Experiments show that young turtles change direction when scientists change the magnetic field around them in a tank. Each part of the ocean has its own strength and angle of the Earth's magnetic field, like an address. Picking 'follow the boats' cannot be right. Turtles were crossing oceans for millions of years before there were boats."
      }
     }
    ],
@@ -1931,7 +1931,7 @@
      "do": "Test the magnetised needle on a pin first.",
      "say": "First, let's check it's still a magnet.",
      "kid": "Touch the needle to the pin. Is it still a magnet?",
-     "context": "This is the first step of Heat Takes the Magnet Away. A grown-up heats a magnetised needle to show that heat breaks up its tiny magnets' line-up."
+     "context": "This is the first step of Heat Takes the Magnet Away. A grown-up heats a magnetised needle to show that heat shakes its tiny magnets out of line."
     },
     {
      "id": "s2",
@@ -1940,7 +1940,7 @@
      "say": "Watch it glow. Heat makes the atoms jiggle. Will the tiny magnets stay lined up?",
      "kid": "Stand back and watch the grown-up. The needle glows red! Heat makes its atoms jiggle hard. Wait 2 minutes for it to cool.",
      "adult": true,
-     "parent": "Iron loses its magnetism at about 770 degrees Celsius, when it glows dull red. A thin needle reaches this in a gas flame within a minute. Only the glowing part loses its magnet. So test the hot end against the pin."
+     "parent": "Iron loses its magnetism at about 770 degrees Celsius, when it glows dull red. A thin needle reaches this in a gas flame within a minute. Only the part that glowed loses its magnetism. So test the heated end against the pin."
     },
     {
      "id": "s3",
@@ -1964,8 +1964,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Talk about what happened.",
-     "say": "Nothing was added and nothing was taken away. Only the line-up changed, twice.",
-     "kid": "Heat broke the line-up. Stroking fixed it. Nothing was added. Nothing was taken away. Only the line-up changed.",
+     "say": "Nothing was added and nothing was taken away. Only the direction of the tiny magnets changed, twice.",
+     "kid": "Heat shook the tiny magnets out of line. Stroking lined them up again. Nothing was added. Nothing was taken away.",
      "think": "The Earth's core is far hotter than 770 degrees. So how can the Earth be a magnet?"
     }
    ],
@@ -2346,10 +2346,10 @@
     "People have no electrons",
     "Your electrons are in pairs pointing opposite ways, so they cancel",
     "Your electrons are too small",
-    "You are magnetic, but only on Sundays"
+    "Your body has no iron in it"
    ],
    "a": 1,
-   "why": "In most atoms, electrons live in pairs, and the two in each pair point their tiny magnets opposite ways. So they cancel out. Picking 'too small' sounds sensible, but iron's electrons are just as small. The difference is whether they cancel.",
+   "why": "In most atoms, electrons are in pairs, and the two in each pair point their tiny magnets opposite ways. So they cancel out. Picking 'too small' sounds sensible, but iron's electrons are just as small. The difference is whether they cancel. Your body does have a little iron, in your blood, but those iron atoms are spread out, not lined up in domains.",
    "outcome": 3
   },
   {
@@ -2362,7 +2362,7 @@
     "The lines of the Earth's magnetic field"
    ],
    "a": 1,
-   "why": "Domains are small regions inside iron, where millions of atoms point their tiny magnets the same way. In a plain nail they point different ways. In a magnet they mostly line up. Picking 'the two ends' mixes domains up with poles.",
+   "why": "Domains are small regions inside iron, where billions of atoms point their tiny magnets the same way. In a plain nail they point different ways. In a magnet they mostly line up. Picking 'the two ends' mixes domains up with poles.",
    "outcome": 3
   },
   {
@@ -2415,7 +2415,7 @@
     "Lodestones in the mountains"
    ],
    "a": 1,
-   "why": "Liquid iron churns slowly in the outer core, which starts about 2,900 kilometres down. Moving metal carries electric currents, and electric currents make a magnetic field. Picking 'a giant bar magnet' is a common picture, but the core is far too hot for a solid magnet. Above about 770 degrees Celsius, iron cannot stay magnetised.",
+   "why": "Liquid iron churns slowly in the outer core, which starts about 2,900 kilometres down. Electric currents flow in the moving iron, and electric currents make a magnetic field. Picking 'a giant bar magnet' is a common picture, but the core is far too hot for a solid magnet. Above about 770 degrees Celsius, iron cannot stay magnetised.",
    "outcome": 5
   },
   {
@@ -2435,7 +2435,7 @@
     "Nobody: only compasses can"
    ],
    "a": 0,
-   "why": "Experiments by Kenneth and Catherine Lohmann show that young loggerhead turtles change direction when the magnetic field around them is changed. Robins and some bacteria use the field too. Picking 'only compasses can' puts our tools at the centre. Animals sensed the Earth's magnetic field long before people made compasses.",
+   "why": "Experiments by Kenneth and Catherine Lohmann show that young loggerhead turtles change direction when the magnetic field around them is changed. Robins and some bacteria use the field too. Picking 'only compasses can' is wrong, because animals sensed the Earth's magnetic field long before people made compasses.",
    "outcome": 6
   },
   {
@@ -2514,7 +2514,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Things with iron, nickel or cobalt are magnetic. Brass, aluminium, copper and rubber are not."
+     "why": "The pin, nail, clip and nickel wire are magnetic, because a magnet attracts steel, iron and nickel. Brass, aluminium, copper and rubber are not."
     },
     {
      "t": "truefalse",
@@ -2695,7 +2695,7 @@
     },
     {
      "t": "mcq",
-     "p": "A plain iron nail has millions of tiny atom-magnets. Why is it not a magnet?",
+     "p": "Every atom in a plain iron nail is a tiny magnet. Why is the nail not a magnet?",
      "opts": [
       "Its domains point in different directions and cancel out",
       "Its atoms are not iron",
@@ -2709,7 +2709,7 @@
      "t": "truefalse",
      "p": "When you stroke a needle and it becomes a magnet, the magnet you stroked it with gets weaker.",
      "a": false,
-     "why": "False. Nothing passes from the magnet to the needle. The needle's own tiny magnets are lined up. You can magnetise hundreds of needles with one magnet.",
+     "why": "False. Nothing passes from the magnet to the needle. The stroking lines up the needle's own tiny magnets. You can magnetise hundreds of needles with one magnet.",
      "how": "e1"
     },
     {
@@ -2722,7 +2722,7 @@
       "Painting it"
      ],
      "a": 1,
-     "why": "Heat makes atoms jiggle. At about 770 degrees Celsius, iron's tiny magnets cannot stay lined up. Cold water and paint do not shake them.",
+     "why": "Heat makes atoms jiggle. At about 770 degrees Celsius, iron's tiny magnets cannot stay lined up. Cold water and paint do not shake them out of line.",
      "how": "a7"
     },
     {
@@ -2884,7 +2884,7 @@
      "t": "write",
      "p": "The Earth's core is far hotter than 770 degrees Celsius, the temperature where iron stops being a magnet. So how can the Earth be a magnet?",
      "lines": 4,
-     "a": "The Earth is not a magnet because of lined-up domains. It is a magnet because liquid iron moves in the core. Moving metal carries electric currents, and electric currents make a magnetic field.",
+     "a": "The Earth is not a magnet because of lined-up domains. It is a magnet because liquid iron moves in the core. Electric currents flow in the moving iron, and electric currents make a magnetic field.",
      "why": "This joins two ideas from the unit: heat stops domains staying lined up, but moving electric charge makes a magnetic field at any temperature."
     },
     {
@@ -2985,7 +2985,7 @@
     },
     {
      "t": "mcq",
-     "p": "The Earth's magnetic north pole moves about 40 kilometres a year. If a map's compass note is 10 years old, how far might the pole have moved?",
+     "p": "The Earth's magnetic north pole moves about 40 kilometres a year. A map shows where the magnetic north pole was 10 years ago. How far might the pole have moved since then?",
      "opts": [
       "4 kilometres",
       "40 kilometres",
@@ -2993,7 +2993,7 @@
       "4,000 kilometres"
      ],
      "a": 2,
-     "why": "40 kilometres each year, for 10 years, is 40 times 10, which is 400 kilometres. That is why compass maps are updated."
+     "why": "40 kilometres each year, for 10 years, is 40 times 10, which is 400 kilometres. That is why maps that show compass directions are updated every few years."
     },
     {
      "t": "write",
@@ -3017,7 +3017,7 @@
   "Fridge doors and cupboard catches stay shut with magnets.",
   "Scrap yards and recycling plants lift iron and steel out of mixed waste with giant magnets.",
   "Every electric fan, mixer, washing machine and car motor has magnets inside.",
-  "Power stations spin magnets near coils of wire to make electricity.",
+  "Most power stations spin magnets near coils of wire to make electricity.",
   "Speakers, earphones and phone vibrators use magnets to make sound and buzzing.",
   "Hospitals use MRI scanners, with huge magnets, to see inside the body without cutting.",
   "Maglev trains, like the one in Shanghai, float above the track, held up by magnetic force.",
@@ -3260,7 +3260,7 @@
    "math_unit": "math.position.directions-and-grids.L3",
    "context": "This is about My Compass Diary, where you use a compass to mark north, east, south and west on a map of your home.",
    "how": "p1",
-   "why_maths": "A compass only helps if you can turn its north into the other directions. Quarter turns are the maths of finding your way."
+   "why_maths": "A compass shows you north. To find east, south and west, you turn from north in quarter turns."
   },
   {
    "problem": "Look at the scale. It shows how far a compass was from a steel almirah when the almirah stopped turning its needle. Each big mark is 10 cm. Each small mark is 5 cm. What is the reading?",
@@ -3465,7 +3465,7 @@
    "a": "A lodestone."
   },
   {
-   "q": "What tiny bit of every atom is a tiny magnet?",
+   "q": "What tiny particle in every atom is a tiny magnet?",
    "a": "The electron."
   },
   {
@@ -3582,13 +3582,13 @@
  "roots": {
   "context": "We have learned how magnets attract iron, and about the tiny electron magnets inside iron. Now we ask what magnets tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A magnet and a plain nail can be made of exactly the same iron. In the magnet, the atoms' tiny magnets point the same way. In the nail, they point in every direction and cancel out. So the magnet's force comes from how its iron is arranged, not from what it is made of.",
+   "truth": "A magnet and a plain nail can be made of exactly the same iron. In the magnet, the atoms' tiny magnets point the same way. In the nail, groups of them point in different directions, so their forces cancel out. So the magnet's force comes from how its iron is arranged, not from what it is made of.",
    "habit": "We sort objects into 'magnets' and 'not magnets', as if a magnet were made of a special material. But a needle becomes a magnet and stops being one while staying the same steel. What changes is the direction its tiny magnets point.",
    "evidence": "Stroke a needle and it picks up a pin. Heat it red-hot and it stops. Stroke it again and it picks up the pin again. Nothing was added and nothing was taken away. Only the direction of its tiny magnets changed."
   },
   "three": {
    "who_am_i": "Your body is full of electrons, and each one is a tiny magnet. In you, they are in pairs that cancel out.",
-   "what_is_life": "Turtles, robins and tiny bacteria sense the Earth's magnetic field and find their way by it, each living its own life.",
+   "what_is_life": "Turtles, robins and tiny bacteria sense the Earth's magnetic field and use it to find their way.",
    "what_is_this_world": "The whole Earth is a magnet. Its magnetic field is made by moving liquid iron far beneath your feet."
   },
   "thread": "Inside a plain nail, countless tiny magnets point in every direction. Their forces add up to zero, a perfect balance. Turn them to point the same way, and a magnetic force appears out of that zero. Nothing new was made. That one force then acts on many things: a pin, a ship's compass, a turtle's journey and the lights in the sky. DeepKids sees in this a small picture of the One becoming the many: what is already there, arranged in a new way.",
@@ -3625,7 +3625,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Lining up is simply how electrons in iron behave. It is a beautiful fact, but it carries no message about agreement or oneness. Reading lessons into iron says more about us than about iron. That is an honest view."
+   "view": "Lining up is simply how electrons in iron behave. It is a beautiful fact, but it carries no message about agreement or oneness. Reading lessons into iron says more about us than about iron."
   },
   "practice": {
    "title": "Be the needle",

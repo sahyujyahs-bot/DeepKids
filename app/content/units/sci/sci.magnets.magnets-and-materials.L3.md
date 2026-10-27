@@ -16,21 +16,21 @@
 
 ## Terms
 - **Magnet**: An object that attracts iron without touching it. Two magnets can attract each other or repel each other. *e.g.* A fridge magnet holds a list on the fridge door, because the door has iron in it.
-- **Attract**: To make something move towards you, or hold on to it. A magnet attracts iron: the iron moves to the magnet and sticks. *e.g.* Hold a magnet a little above a steel pin. The magnet attracts the pin, and the pin jumps up to it.
-- **Repel**: To push something away. Two magnets can repel each other. Turn one of them round, and they push apart instead of coming together. *e.g.* Slide two ring magnets onto a pencil. If they snap together, take one off and turn it over. Now it floats above the other, because they repel.
+- **Attract**: To draw something closer. A magnet attracts iron: the iron moves towards the magnet and sticks to it. *e.g.* Hold a magnet a little above a steel pin. The magnet attracts the pin, and the pin jumps up to it.
+- **Repel**: To push something away. Two magnets can repel each other. If two magnets attract each other, turn one of them round. Now they push apart instead. *e.g.* Slide two ring magnets onto a pencil. If they snap together, take one off and turn it over. Now it floats above the other, because they repel.
 - **Magnetic force**: A force is a push or a pull. A magnetic force is the force a magnet puts on iron, or on another magnet. It can attract or repel, it acts without touching, and it gets weaker quickly with distance. *e.g.* A fridge magnet's force is strong enough to hold a sheet of paper on the fridge door.
 - **Magnetic material**: A material that a magnet attracts. The main ones are iron, most kinds of steel, nickel and cobalt. *e.g.* An iron nail and a steel safety pin are magnetic materials.
 - **Non-magnetic material**: A material that a magnet does not attract, as far as we can feel. *e.g.* Wood, plastic, glass, paper, copper, brass and aluminium are non-magnetic.
-- **Steel**: Iron mixed with a little of other things, to make it stronger. Most steel is magnetic. Some stainless steel, used for kitchen vessels, is not. *e.g.* A steel almirah holds a magnet. Some steel tumblers do not.
+- **Steel**: Iron mixed with a small amount of other substances, such as carbon, to make it stronger. Most steel is magnetic. Some stainless steel, used for kitchen vessels, is not. *e.g.* A steel almirah holds a magnet. Some steel tumblers do not.
 - **Pole**: One of the two ends of a magnet, where its magnetic force is strongest. One is called the north pole and the other the south pole. A north pole and a south pole attract each other. Two north poles, or two south poles, repel each other. *e.g.* Dip a bar magnet in paper clips. Most clips cling to the two ends.
-- **Compass**: A small magnet that can turn freely. The Earth's magnetic field turns it until one end points north. *e.g.* Sailors and hikers use a compass to find their way when they cannot see the Sun or the stars.
+- **Compass**: A small magnet, usually a needle, that can turn freely. The Earth's magnetic field turns it until one end points north. *e.g.* Sailors and hikers use a compass to find their way when they cannot see the Sun or the stars.
 - **Magnetise**: To turn a piece of iron or steel into a magnet. One way is to stroke it with a magnet, many times, always in the same direction. *e.g.* Stroke a sewing needle 50 times with a magnet. Now the needle can pick up a pin.
-- **Lodestone**: A natural magnet. It is a dark rock made of a mineral called magnetite, which has iron in it. Some pieces of it are magnets, straight out of the ground. *e.g.* Long ago, people in China, India and Greece found lodestones that picked up iron.
+- **Lodestone**: A natural magnet. It is a piece of a dark mineral called magnetite, which has iron in it. Most magnetite is not a magnet, but a lodestone is already a magnet when it comes out of the ground. *e.g.* Long ago, people in China, India and Greece found lodestones that picked up iron.
 - **Magnetite**: A black mineral made of iron and oxygen. A magnet attracts it. Tiny grains of it are in most sand and soil. *e.g.* Drag a magnet through dry sand. The black grains that cling to it are magnetite.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope. *e.g.* An iron nail, your hand and the air are all made of atoms.
-- **Electron**: An even tinier bit on the outside of every atom. Every electron is also a tiny magnet, with its own north and south. *e.g.* Every atom in your body has electrons. In you, the electrons are in pairs whose tiny magnets point opposite ways and cancel out.
-- **Spin**: The name scientists give to the tiny magnet built into every electron. Electrons are not really spinning like tops. Spin is just something every electron has, like it has electric charge. *e.g.* Two electrons that share a home in an atom usually point their spins opposite ways, so their tiny magnets cancel.
-- **Domain**: A tiny region inside iron where the tiny magnets of millions of atoms all point the same way. *e.g.* In a plain nail, the domains point in different directions, so their magnetic forces cancel out. In a magnet, most domains point the same way.
+- **Electron**: A particle far smaller than an atom, in the outer part of every atom. Every electron is also a tiny magnet, with its own north pole and south pole. *e.g.* Every atom in your body has electrons. In you, the electrons are in pairs whose tiny magnets point opposite ways and cancel out.
+- **Spin**: A property of every electron that makes it a tiny magnet. Electrons are not really spinning like tops. Spin is simply something every electron has, just as it has electric charge. *e.g.* When two electrons in an atom form a pair, their spins point opposite ways, so their tiny magnets cancel.
+- **Domain**: A tiny region inside iron where the tiny magnets of billions of atoms all point the same way. *e.g.* In a plain nail, the domains point in different directions, so their magnetic forces cancel out. In a magnet, most domains point the same way.
 - **Magnetic field**: The space around a magnet where its magnetic force acts. We cannot see it, but iron grains and compasses show its shape. *e.g.* Sprinkle black sand on paper over a magnet and tap it. The grains line up in curved lines.
 - **Temporary magnet**: A piece of iron that acts as a magnet only while a magnet is near it. *e.g.* A paper clip hanging from a magnet can hold another clip. Take the magnet away and the clips drop.
 - **Permanent magnet**: A magnet that stays magnetised by itself, for a long time. *e.g.* A fridge magnet, a bar magnet and a lodestone are permanent magnets.
@@ -54,9 +54,9 @@ So why isn't everything a magnet? In most atoms, the electrons are in pairs. In 
 - e.g. In a copper atom, all the electrons but one are in pairs, and that last one is shared with the other copper atoms. So copper is not magnetic.
 - e.g. An iron atom has four electrons without partners. So every iron atom is a tiny magnet.
 ### Domains: where iron's tiny magnets line up · *defined*
-**Definition:** Inside iron, each atom's tiny magnet points the same way as its neighbours'. Together they form small regions called domains. In one domain, the tiny magnets of millions of atoms all point the same way.
+**Definition:** Inside iron, each atom's tiny magnet points the same way as its neighbours'. Together they form small regions called domains. In one domain, the tiny magnets of billions of atoms all point the same way.
 
-A plain iron nail has many domains, and they point in different directions. Their magnetic forces cancel out, so the nail is not a magnet. Bring a magnet near, and the domains that point along its magnetic field grow, while the others shrink. Now the nail is a magnet too, for as long as the magnet is near. That is why one paper clip hanging from a magnet can hold up another clip. In a permanent magnet, most domains stay lined up by themselves. Why does each iron atom point the same way as its neighbours? The electrons of neighbouring iron atoms affect each other, and they settle with their tiny magnets pointing the same way. Scientists explain this with quantum physics, the science of the very tiniest things. The French scientist Pierre Weiss said in 1907 that domains must exist. In 1931, the American scientist Francis Bitter first saw their edges. He spread very fine iron powder in oil over a piece of iron and looked through a microscope.
+A plain iron nail has many domains, and they point in different directions. Their magnetic forces cancel out, so the nail is not a magnet. Bring a magnet near, and the domains that point along its magnetic field grow, while the others shrink. Now the nail is a magnet too, for as long as the magnet is near. That is why one paper clip hanging from a magnet can hold up another clip. In a permanent magnet, most domains stay lined up by themselves. Why does each iron atom point the same way as its neighbours? The electrons of neighbouring iron atoms affect each other, and they settle with their tiny magnets pointing the same way. Scientists explain this with quantum physics, the science of the very tiniest things. The French scientist Pierre Weiss said in 1907 that domains must exist. In 1931, the American scientist Francis Bitter first saw their edges. He spread a liquid with very fine magnetic powder in it over a piece of iron, and looked through a microscope.
 - e.g. A chain of paper clips hangs from a magnet. Each clip becomes a temporary magnet and holds up the next one.
 - e.g. Stroke a needle with a magnet and its domains line up. Now the needle is a magnet.
 ### Making a magnet, and breaking one · *defined*
@@ -70,15 +70,15 @@ Scientists agree that every electron has a tiny magnet built in, called spin. Th
 - e.g. In 1922, Otto Stern and Walther Gerlach sent silver atoms flying between the poles of a magnet. The atoms split into just two streams, not a smear. This showed that something inside each atom could point only 'up' or 'down'.
 - e.g. Nobody has ever seen an electron, or watched it turn.
 - **George Uhlenbeck and Samuel Goudsmit, two young scientists in the Netherlands, in 1925:** The electron is a tiny ball of charge spinning like a top. A spinning charge makes a magnet. That is how spin got its name.
-- **Most physicists today:** The electron cannot really be a spinning ball. Its surface would have to move faster than light. Spin is just a basic property of every electron, like its charge. It does not need anything under it.
+- **Most physicists today:** The electron cannot really be a spinning ball. Its surface would have to move faster than light. Spin is just a basic property of every electron, like its charge. Nothing deeper is needed to explain it.
 - **The physicist Richard Feynman, in a 1983 BBC interview:** When we ask 'why do magnets attract and repel?', each answer leads to another 'why'. At some point we can only say: this is how the world behaves. Some physicists and philosophers think that is not a full answer, and keep looking.
 ### Magnetism and electricity are one force · *defined*
-**Definition:** Magnetism and electricity are two sides of one force, which scientists call the electromagnetic force. Moving electric charge makes a magnet, and a moving magnet makes electricity.
+**Definition:** Magnetism and electricity are two sides of one force, which scientists call the electromagnetic force. Moving electric charge makes a magnetic field, and a moving magnet can make electricity flow in a wire.
 
 In 1820, a Danish scientist, Hans Christian Oersted, noticed that a compass needle moved when electricity flowed in a wire nearby. The electric current was making a magnetic field. Michael Faraday, who started work at 13 as an errand boy for a bookseller, found the reverse in 1831. Moving a magnet in and out of a coil of wire makes electricity flow. In 1865, James Clerk Maxwell wrote the rules of electricity and magnetism as one set of equations. They showed that light is a wave of electric and magnetic fields. In 1905, Albert Einstein showed that whether a force looks electric or magnetic depends on how you are moving. The same electromagnetic force also holds atoms together and causes friction.
 - e.g. A doorbell, a fan and a mixer all have electromagnets inside. An electromagnet is a coil of wire that becomes a magnet when electricity flows through it.
-- e.g. Every power station spins magnets near coils of wire to make electricity.
-- e.g. Light from the Sun is a wave of electricity and magnetism.
+- e.g. Most power stations spin magnets near coils of wire to make electricity.
+- e.g. Light from the Sun is a wave of electric and magnetic fields.
 ### Lodestone: the stone that finds iron · *defined*
 **Definition:** A lodestone is a natural magnet. It is a piece of a black mineral called magnetite, which is made of iron and oxygen. Many cultures found lodestones long ago.
 
@@ -94,7 +94,7 @@ Most magnetite is not a magnet. Only a few pieces are lodestones. The Earth's ma
 ### The Earth is a giant magnet · *defined*
 **Definition:** The whole Earth is a magnet. Its magnetic field is made by liquid iron moving in the Earth's outer core, which starts about 2,900 kilometres under our feet.
 
-In 1600, an English doctor, William Gilbert, carved a ball out of lodestone. He called it a 'little Earth'. He moved a tiny compass over it, and the compass behaved just as compasses do on the real Earth. So he said the Earth itself is a magnet. A compass needle is a small magnet, so the Earth's magnetic field turns it to point north and south. Today we know more. The Earth's core is mostly iron and nickel. Its outer part is liquid metal, and its centre is about as hot as the surface of the Sun. The liquid iron churns slowly, as heat escapes from the core. Moving metal carries electric currents, and electric currents make a magnetic field. In 1936, a Danish scientist, Inge Lehmann, studied earthquake waves that had passed through the Earth. She found that the very centre is a solid ball inside the liquid. A compass does not point exactly at the North Pole. It lines up with the Earth's magnetic field, which points roughly towards the magnetic north pole. That is some distance away from the North Pole.
+In 1600, an English doctor, William Gilbert, carved a ball out of lodestone. He called it a 'little Earth'. He moved a tiny compass over it, and the compass behaved just as compasses do on the real Earth. So he said the Earth itself is a magnet. A compass needle is a small magnet, so the Earth's magnetic field turns it to point north and south. Today we know more. The Earth's core is mostly iron and nickel. Its outer part is liquid metal, and its centre is about as hot as the surface of the Sun. The liquid iron churns slowly, as heat escapes from the core. Electric currents flow in the moving iron, and electric currents make a magnetic field. In 1936, a Danish scientist, Inge Lehmann, studied earthquake waves that had passed through the Earth. She found that the very centre is a solid ball inside the liquid. A compass does not point exactly at the North Pole. It lines up with the Earth's magnetic field, which points roughly towards the magnetic north pole. That is some distance away from the North Pole.
 - e.g. Hang a magnetised needle on a thread, far from any iron. It turns until it points north and south.
 - e.g. In most of India, a compass points only a degree or two away from true north. In Canada, it can point far off.
 ### The Earth's magnetic field moves and flips · *defined*
@@ -111,12 +111,12 @@ The Sun blows out a steady stream of tiny charged particles, called the solar wi
 - e.g. Auroras glow green, red and sometimes purple, depending on which gas in the air is glowing, and how high up it is.
 ### Living things that sense the Earth's magnetic field · *debated*
 Many animals use the Earth's magnetic field to find their way. For some of them, scientists have strong evidence. How they sense the field is still argued about.
-- e.g. Some bacteria, living things far too small to see, build a chain of tiny magnetite crystals inside their bodies. The chain is a tiny compass needle. The Earth's magnetic field turns the chain, and the bacterium swims in the direction the chain points. Salvatore Bellini saw them in Italy in 1963, but his notes were not published. Richard Blakemore described them in the USA in 1975.
+- e.g. Some bacteria, living things far too small to see, build a chain of tiny magnetite crystals inside their bodies. The chain works like a tiny compass needle. The Earth's magnetic field turns the chain, and the bacterium swims in the direction the chain points. Salvatore Bellini saw them in Italy in 1963, but his notes were not published. Richard Blakemore described them in the USA in 1975.
 - e.g. Kenneth and Catherine Lohmann have shown that young loggerhead sea turtles can tell where they are in the ocean from the Earth's magnetic field. They sense how strong it is, and the angle at which it dips into the Earth. Olive ridley turtles nest on Odisha's beaches and may do the same, but nobody has tested them as carefully.
 - e.g. In 1972, Wolfgang and Roswitha Wiltschko showed that European robins, small birds, choose their migration direction using the Earth's magnetic field. When the scientists changed the magnetic field around the birds' cage, the birds changed direction.
 - **Many scientists studying birds:** Birds may sense the field with their eyes. When light enters the eye, it strikes a protein called cryptochrome. This makes pairs of electrons whose spins are affected by the Earth's magnetic field. In 2021, a team led by Jingjing Xu and Henrik Mouritsen showed that robin cryptochrome responds to magnetic fields in the lab.
 - **Other scientists:** Some animals may carry tiny magnetite crystals, like the bacteria do. For a while, iron-rich cells in pigeon beaks looked like the answer. In 2012, careful tests showed that those cells were immune cells that clean up the body, not magnetic sensors. The search goes on.
-- **About people:** In 2019, Connie Wang, Joseph Kirschvink and others reported that some people's brainwaves changed when the magnetic field around them was turned. The people did not feel anything. Other scientists say this needs to be tested again before we believe it.
+- **About people:** In 2019, Connie Wang, Joseph Kirschvink and others reported that some people's brainwaves changed when the magnetic field around them was rotated. The people did not feel anything. Other scientists say this needs to be tested again before we believe it.
 ### Every material responds to a magnet, a little · *defined*
 **Definition:** Even materials we call non-magnetic respond to a very strong magnet. Some are attracted very slightly, and some are repelled very slightly.
 
@@ -153,20 +153,20 @@ Water, wood, plastic and your body are very slightly repelled by a magnet. The f
   Against: In 2011, another team looked at new pictures and found no such pattern. Wind, sunlight and slopes also change which way cows face.
 - **Magnet bracelets and magnet mats cure pain and illness.** (Many sellers, in India and around the world; *rejected*)  
   For: Some people say they feel better when they wear them.  
-  Against: Careful tests compare real magnets with fake ones that look the same. People feel about as much better with the fake ones. In 2007, a review of many such tests found no good evidence that magnets help pain. Feeling better because we expect to is real, but it is not the magnet.
+  Against: Careful tests compare real magnets with fake ones that look the same. People feel about as much better with the fake ones. In 2007, a review of many such tests found no good evidence that magnets help pain. Feeling better because we expect to is real, but the magnet is not what causes it.
 - **People can sense the Earth's magnetic field.** (Connie Wang, Joseph Kirschvink and others, in 2019; *debated*)  
-  For: In a quiet test room, some people's brainwaves changed when the magnetic field around them was turned in one particular direction.  
+  For: In a quiet test room, some people's brainwaves changed when the magnetic field around them was rotated in one particular direction.  
   Against: Nobody in the test felt anything. Only some people showed it, and the result has not yet been repeated by other teams.
 
 ## Roots
 We have learned how magnets attract iron, and about the tiny electron magnets inside iron. Now we ask what magnets tell us about ourselves and the world.
 
-**Deep truth.** A magnet and a plain nail can be made of exactly the same iron. In the magnet, the atoms' tiny magnets point the same way. In the nail, they point in every direction and cancel out. So the magnet's force comes from how its iron is arranged, not from what it is made of.  
+**Deep truth.** A magnet and a plain nail can be made of exactly the same iron. In the magnet, the atoms' tiny magnets point the same way. In the nail, groups of them point in different directions, so their forces cancel out. So the magnet's force comes from how its iron is arranged, not from what it is made of.  
 *Habit it breaks:* We sort objects into 'magnets' and 'not magnets', as if a magnet were made of a special material. But a needle becomes a magnet and stops being one while staying the same steel. What changes is the direction its tiny magnets point.  
 *Evidence:* Stroke a needle and it picks up a pin. Heat it red-hot and it stops. Stroke it again and it picks up the pin again. Nothing was added and nothing was taken away. Only the direction of its tiny magnets changed.
 
 - *who am i:* Your body is full of electrons, and each one is a tiny magnet. In you, they are in pairs that cancel out.
-- *what is life:* Turtles, robins and tiny bacteria sense the Earth's magnetic field and find their way by it, each living its own life.
+- *what is life:* Turtles, robins and tiny bacteria sense the Earth's magnetic field and use it to find their way.
 - *what is this world:* The whole Earth is a magnet. Its magnetic field is made by moving liquid iron far beneath your feet.
 
 Inside a plain nail, countless tiny magnets point in every direction. Their forces add up to zero, a perfect balance. Turn them to point the same way, and a magnetic force appears out of that zero. Nothing new was made. That one force then acts on many things: a pin, a ship's compass, a turtle's journey and the lights in the sky. DeepKids sees in this a small picture of the One becoming the many: what is already there, arranged in a new way.
@@ -177,7 +177,7 @@ Inside a plain nail, countless tiny magnets point in every direction. Their forc
 - Science (settled): Every electron is a tiny magnet. In most atoms the electrons pair up and cancel. In iron, their tiny magnets line up in domains.
 - Science (settled): Electricity, magnetism and light are one force, electromagnetism. Maxwell joined them in 1865.
 - Science (open): What an electron's spin is, underneath, has no agreed answer.
-- Other view, Many physicists: Lining up is simply how electrons in iron behave. It is a beautiful fact, but it carries no message about agreement or oneness. Reading lessons into iron says more about us than about iron. That is an honest view.
+- Other view, Many physicists: Lining up is simply how electrons in iron behave. It is a beautiful fact, but it carries no message about agreement or oneness. Reading lessons into iron says more about us than about iron.
 - Practice, Be the needle (3 min): Let's stand up and close our eyes. Without peeking, point to where you think north is. Now open your eyes and check with the compass. Now let's all turn to face north together. Stand still and take six slow breaths. We are like the tiny magnets in a needle, all facing the same way. Each of us is still the same person. Only the direction we face has changed.
 - Ask: When a needle becomes a magnet, nothing is added to it. Is the magnetised needle a new object, or the same needle?
 - Ask: In a plain nail, the tiny magnets cancel out to zero. Is their magnetic force gone, or only hidden?
@@ -220,7 +220,7 @@ Yusuf brought out the brass bowl. He floated the iron fish. Its nose swung round
 
 For a long time, nobody spoke. Amina sat wrapped in a blanket, watching the fish by the light of a little oil lamp. Something was wrong, and it took her a while to see what it was. The fish was not pointing where it had pointed on the fourth night. It was pointing at the back wall of the ship. It was pointing at the deg.
 
-Her heart thumped. She thought of the ladle leaping to the stone. The stone attracted iron. The fish had been rubbed with the stone. Did the fish attract iron too? She took the lamp, crept to the back wall, and moved the lamp past the big pot. Then she held her mother's iron ladle near the bowl. The fish swung towards the ladle as if it had been called.
+Her heart thumped. She thought of the ladle leaping to the stone. The stone attracted iron. The fish had been rubbed with the stone. Did the fish attract iron too? She took the lamp and crept to the back wall. The big iron pot was tied right beside the box. Then she held her mother's iron ladle near the bowl. The fish swung towards the ladle as if it had been called.
 
 'Yusuf,' she whispered. Then louder, 'Yusuf! The fish is looking at the pot!'
 
@@ -252,7 +252,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 ### g1 · Monsoon Voyage: sail by the iron fish (20 min)
 - **rules:** Put every ship on Khambhat, square 0. Put the storm cloud on Khambhat too.; On your turn, another player reads you the top question card. Playing alone? Read it yourself and check the answer in the brackets.; Answer right, and roll the dice and move that many squares. Answer wrong, and move just 1 square.; On a TEST IT card, do the test. Everyone who guessed right moves 2 squares.; CLOUDY NIGHT square: no stars to steer by. Say how a compass helps, then move on 1 square.; IRON ANCHOR square: the iron attracts your compass needle, so the compass points the wrong way. Go back 2 squares, unless you can say what to do. The answer is: move the iron away from the compass.; After everyone has had a turn, the storm cloud moves 2 squares.; Reach Aden first to win. If the storm cloud lands on your ship or passes it, you must stop and shelter: miss one turn. Playing alone, try to reach Aden before the storm does.
 - **Printable board: A sea board with 20 squares, from Khambhat to Aden:** Square 0: Khambhat, the start; Squares 4, 9 and 15: CLOUDY NIGHT, no stars; Squares 6 and 13: IRON ANCHOR next to your compass; Square 11: TURTLES! Swim with them, move 2 squares; Square 20: Aden, the finish
-- **Printable cards: 24 question cards to cut out:** Will a magnet attract a brass key? (No); Will a magnet attract a steel safety pin? (Yes); Name one metal a magnet attracts. (Iron, steel, nickel or cobalt); Will a magnet attract aluminium foil? (No); Can a magnet attract a pin through a page of paper? (Yes); What do you rub a needle with to make it a magnet? (A magnet); Rub the needle back and forth, or always one way? (Always one way); Which way does a compass point? (North and south); What is a natural magnet stone called? (A lodestone); What is the black magnet mineral in sand called? (Magnetite); What tiny bit inside every atom is a tiny magnet? (The electron); Inside iron, the regions where the tiny magnets point the same way have a name. What is it? (Domains); Does heating a magnet red-hot make it stronger, or stop it being a magnet? (It stops it being a magnet); What makes the Earth a magnet? (Moving liquid iron deep inside it); Has the Earth's magnetic field ever flipped? (Yes, many times); Name an animal that senses the Earth's magnetic field. (Turtle, robin or magnetic bacteria); What are the coloured lights near the poles called? (Auroras); What does 'chumbaka' mean? (The one that kisses); Who first said the Earth is a magnet, in 1600? (William Gilbert); Who found that the Earth's centre is solid, in 1936? (Inge Lehmann); TEST IT: does a magnet stick to your spoon? Guess first, then test.; TEST IT: how many paper clips can your magnet hold in a chain?; TEST IT: can a magnet attract a pin through your hand? Guess first.; TEST IT: put a coin on the table. Does a magnet attract it?
+- **Printable cards: 24 question cards to cut out:** Will a magnet attract a brass key? (No); Will a magnet attract a steel safety pin? (Yes); Name one metal a magnet attracts. (Iron, steel, nickel or cobalt); Will a magnet attract aluminium foil? (No); Can a magnet attract a pin through a page of paper? (Yes); What do you rub a needle with to make it a magnet? (A magnet); Rub the needle back and forth, or always one way? (Always one way); Which way does a compass point? (North and south); What is a natural magnet stone called? (A lodestone); What is the black magnet mineral in sand called? (Magnetite); What tiny particle in every atom is a tiny magnet? (The electron); Inside iron, the regions where the tiny magnets point the same way have a name. What is it? (Domains); Does heating a magnet red-hot make it stronger, or stop it being a magnet? (It stops it being a magnet); What makes the Earth a magnet? (Moving liquid iron deep inside it); Has the Earth's magnetic field ever flipped? (Yes, many times); Name an animal that senses the Earth's magnetic field. (Turtle, robin or magnetic bacteria); What are the coloured lights near the poles called? (Auroras); What does 'chumbaka' mean? (The one that kisses); Who first said the Earth is a magnet, in 1600? (William Gilbert); Who found that the Earth's centre is solid, in 1936? (Inge Lehmann); TEST IT: does a magnet stick to your spoon? Guess first, then test.; TEST IT: how many paper clips can your magnet hold in a chain?; TEST IT: can a magnet attract a pin through your hand? Guess first.; TEST IT: put a coin on the table. Does a magnet attract it?
 - **Printable tokens: One paper ship for each player, and one black storm cloud:** ⛵; 🌩️
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the sea board. 2. Put each ship and the storm cloud on Khambhat. 3. Shuffle the question cards and put them face down.  
@@ -278,7 +278,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* Finish the game and talk about the turtles square.  
   *Parent says:* On square 11, turtles helped you. Real sea turtles find their way across oceans, with no compass. How do you think they do it?  
   *Child mode:* Who reached Aden? On square 11, turtles helped you. Real turtles cross oceans with no compass. How?
-  - Think: Sailors needed an iron fish to find the way. Turtles need nothing but their own bodies. Who is the better navigator?
+  - Think: Sailors needed an iron fish to find the way. Turtles need nothing but their own bodies. Who is better at finding the way?
 ### g2 · Magnet Says: be the tiny magnets (15 min)
 - **rules:** One person is the caller. Everyone else is a tiny magnet, an atom of iron. Stand around the room, facing any way.; The caller reads a card out loud. The tiny magnets must do what it says, fast.; Trick cards, like WOOD, mean do nothing at all. Anyone who moves is out for one round.; Anyone who does the wrong thing is out for one round. They can come back next round.; Playing alone: lay 12 paper arrows on the table, pointing every which way. Draw a card and turn the arrows to match it, as fast as you can. Count how many cards you get right out of 12.
 - **Printable cards: 12 caller cards:** MAGNET COMING! (everyone turns to face the caller); MAGNET GONE, SOFT IRON! (everyone turns any way they like); MAGNET GONE, HARD STEEL! (everyone stays facing the same way); HEAT! RED-HOT! (everyone jiggles, then faces any way); COPPER! (find a partner and stand back to back, frozen); WOOD! (trick card: nothing happens, stand still); PLASTIC! (trick card: nothing happens); STROKE! (the caller walks past slowly, and each player turns to face the same way as the caller walks); HAMMER! (everyone wobbles, and half turn around); COMPASS! (everyone points to north); BRASS! (trick card: nothing happens); EARTH FLIP! (everyone points to south)
@@ -291,7 +291,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* Read the cards one at a time. Give the tiny magnets three seconds to act. Players who move on a trick card sit out one round.  
   *Parent says:* Magnet coming!  
   *Child mode:* Listen to each card. Do what it says, fast. On WOOD, PLASTIC or BRASS, don't move at all!
-  - Note: After each card, say in one sentence what it means. 'Magnet coming' means a magnet lines up the domains. 'Soft iron' means a nail that loses its magnet as soon as the magnet goes. 'Hard steel' means a needle that keeps it. 'Copper' means electrons in pairs that cancel. Heat and hammering shake the line-up apart.
+  - Note: After each card, say in one sentence what it means. 'Magnet coming' means a magnet lines up the domains. 'Soft iron' means a nail that loses its magnetism as soon as the magnet goes. 'Hard steel' means a needle that keeps it. 'Copper' means electrons in pairs that cancel. Heat and hammering shake the tiny magnets out of line.
 - **s3 (3 min)**  
   *Parent does:* After the game, count how many players faced the same way after STROKE, and after HEAT.  
   *Parent says:* After STROKE, you all faced the same way. After HEAT, you faced all over the place. Which one was a magnet?  
@@ -504,7 +504,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   - Note: This is a simple model. Real turtles seem to sense both the strength of the Earth's magnetic field and the angle at which it dips into the Earth. Together these work like a map. Kenneth and Catherine Lohmann showed this with loggerhead turtles. Each beach has its own magnetic 'address'.
 - **s3 (4 min)**  
   *Parent does:* Take off the blindfold and talk.  
-  *Parent says:* Olive ridley turtles nest on beaches in Odisha, at Gahirmatha and Rushikulya. They come back after years at sea. They aren't doing it for us. They are living their own lives, finding their own beaches.  
+  *Parent says:* Olive ridley turtles nest on beaches in Odisha, at Gahirmatha and Rushikulya. They come back after years at sea. Scientists think they may find their beaches using the Earth's magnetic field.  
   *Child mode:* You found home without seeing! Real olive ridley turtles cross the sea to Odisha's beaches. How do you think it feels to know the way?
   - Check: How do scientists think young sea turtles find their way across the ocean? → **They sense the strength and the angle of the Earth's magnetic field**
 ### a6 · Paint an Aurora (20 min)
@@ -534,7 +534,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* 1. Hold the needle by one end with tongs. 2. Put the other half in the hottest part of the gas flame, near the tip of the blue part. 3. Keep it there until it glows orange-red, about 30 seconds. 4. Lay it on the steel plate to cool for 2 minutes.  
   *Parent says:* Watch it glow. Heat makes the atoms jiggle. Will the tiny magnets stay lined up?  
   *Child mode:* Stand back and watch the grown-up. The needle glows red! Heat makes its atoms jiggle hard. Wait 2 minutes for it to cool.
-  - Note: Iron loses its magnetism at about 770 degrees Celsius, when it glows dull red. A thin needle reaches this in a gas flame within a minute. Only the glowing part loses its magnet. So test the hot end against the pin.
+  - Note: Iron loses its magnetism at about 770 degrees Celsius, when it glows dull red. A thin needle reaches this in a gas flame within a minute. Only the part that glowed loses its magnetism. So test the heated end against the pin.
 - **s3 (4 min)**  
   *Parent does:* 1. When the needle is cool, touch its heated end to the pin. 2. Then stroke it 50 times with the magnet and test again.  
   *Parent says:* Is it still a magnet? And can we make it one again?  
@@ -542,8 +542,8 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   - Check: After heating until it glowed, the needle's end would not pick up the pin. Why? → **The heat shook the tiny magnets out of line**
 - **s4 (5 min)**  
   *Parent does:* Talk about what happened.  
-  *Parent says:* Nothing was added and nothing was taken away. Only the line-up changed, twice.  
-  *Child mode:* Heat broke the line-up. Stroking fixed it. Nothing was added. Nothing was taken away. Only the line-up changed.
+  *Parent says:* Nothing was added and nothing was taken away. Only the direction of the tiny magnets changed, twice.  
+  *Child mode:* Heat shook the tiny magnets out of line. Stroking lined them up again. Nothing was added. Nothing was taken away.
   - Think: The Earth's core is far hotter than 770 degrees. So how can the Earth be a magnet?
 
 ## Projects
@@ -619,7 +619,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    Options: A wooden pencil / An iron nail / A plastic spoon / A glass bangle  
    **Answer:** An iron nail. *Why:* Iron is magnetic, so a magnet attracts a nail. Wood, plastic and glass are not magnetic. Picking the bangle sometimes comes from thinking shiny things are metal.
 2. (sort) Sort these. Will a magnet attract them?  
-   **Answer:** a steel safety pin → Magnetic; a brass key → Not magnetic; an iron nail → Magnetic; aluminium foil → Not magnetic; a copper wire → Not magnetic; a steel paper clip → Magnetic; a rubber eraser → Not magnetic; a nickel wire → Magnetic. *Why:* Things with iron, nickel or cobalt are magnetic. Brass, aluminium, copper and rubber are not.
+   **Answer:** a steel safety pin → Magnetic; a brass key → Not magnetic; an iron nail → Magnetic; aluminium foil → Not magnetic; a copper wire → Not magnetic; a steel paper clip → Magnetic; a rubber eraser → Not magnetic; a nickel wire → Magnetic. *Why:* The pin, nail, clip and nickel wire are magnetic, because a magnet attracts steel, iron and nickel. Brass, aluminium, copper and rubber are not.
 3. (truefalse) All metals are magnetic.  
    **Answer:** False. *Why:* False. A magnet attracts only metals with iron, nickel or cobalt in them. Copper, brass, aluminium, gold and silver are not attracted.
 4. (truefalse) A magnet can attract a pin through paper.  
@@ -657,14 +657,14 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 1. (mcq) Every electron is a tiny magnet. Why is copper not magnetic?  
    Options: Copper has no electrons / In copper, the electrons' tiny magnets cancel each other out / Copper is too heavy / Copper is too shiny  
    **Answer:** In copper, the electrons' tiny magnets cancel each other out. *Why:* Copper's electrons are in pairs, or shared, so their tiny magnets cancel. Iron has electrons with no partner, so its tiny magnets don't cancel. Picking 'no electrons' misses that every atom has electrons.
-2. (mcq) A plain iron nail has millions of tiny atom-magnets. Why is it not a magnet?  
+2. (mcq) Every atom in a plain iron nail is a tiny magnet. Why is the nail not a magnet?  
    Options: Its domains point in different directions and cancel out / Its atoms are not iron / It is too thin / Nails are made of wood inside  
    **Answer:** Its domains point in different directions and cancel out. *Why:* The nail's domains point in different directions, so their magnetic forces cancel. Bring a magnet near and they line up.
 3. (truefalse) When you stroke a needle and it becomes a magnet, the magnet you stroked it with gets weaker.  
-   **Answer:** False. *Why:* False. Nothing passes from the magnet to the needle. The needle's own tiny magnets are lined up. You can magnetise hundreds of needles with one magnet.
+   **Answer:** False. *Why:* False. Nothing passes from the magnet to the needle. The stroking lines up the needle's own tiny magnets. You can magnetise hundreds of needles with one magnet.
 4. (mcq) Which would most likely take away a magnet's magnetism?  
    Options: Keeping it in a drawer / Heating it until it glows red / Washing it in cold water / Painting it  
-   **Answer:** Heating it until it glows red. *Why:* Heat makes atoms jiggle. At about 770 degrees Celsius, iron's tiny magnets cannot stay lined up. Cold water and paint do not shake them.
+   **Answer:** Heating it until it glows red. *Why:* Heat makes atoms jiggle. At about 770 degrees Celsius, iron's tiny magnets cannot stay lined up. Cold water and paint do not shake them out of line.
 5. (fill) The temperature at which a magnet stops being a magnet is called the ____ point.  
    **Answer:** ['Curie']. *Why:* It is named after Pierre Curie, who measured it in 1895. Marie Curie's first research was also about magnets in steel.
 6. (mcq) Which of these has a magnetic sense, shown by experiments?  
@@ -693,7 +693,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    **Answer:** Plain nail: patches of arrows pointing in different directions. Magnet: nearly all the arrows pointing the same way.. *Why:* This shows domains: jumbled in a nail, lined up in a magnet.
 ### Magnet Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (write) The Earth's core is far hotter than 770 degrees Celsius, the temperature where iron stops being a magnet. So how can the Earth be a magnet?  
-   **Answer:** The Earth is not a magnet because of lined-up domains. It is a magnet because liquid iron moves in the core. Moving metal carries electric currents, and electric currents make a magnetic field.. *Why:* This joins two ideas from the unit: heat stops domains staying lined up, but moving electric charge makes a magnetic field at any temperature.
+   **Answer:** The Earth is not a magnet because of lined-up domains. It is a magnet because liquid iron moves in the core. Electric currents flow in the moving iron, and electric currents make a magnetic field.. *Why:* This joins two ideas from the unit: heat stops domains staying lined up, but moving electric charge makes a magnetic field at any temperature.
 2. (write) Some old books say Indian sailors invented a fish compass called a 'matsya yantra'. What evidence would you need to decide whether that is true?  
    **Answer:** I would need an old Indian text or object that describes or shows the compass, with a date. Then I could compare that date with the Chinese texts from 1044 and 1088.. *Why:* Good answers ask for a dated source, and compare it with other evidence.
 3. (mcq) A scientist sees that a type of bacteria always swims towards the north in a dish. She turns a magnet around the dish, and the bacteria turn too. What is the best conclusion?  
@@ -720,9 +720,9 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    **Answer:** True. *Why:* True. Cut a magnet in half and you get two magnets, each with two poles. Physicists have searched for single-pole magnets, called monopoles, for nearly a hundred years, and have never found one.
 12. (write) Design an experiment to test whether ants can sense a magnet. Say what you would change, what you would keep the same, and what you would watch.  
    **Answer:** I would put ants in a round dish and watch which way they walk. Then I would put a strong magnet on one side, and later on the other side. I would keep the light, food and dish the same. I would count how many ants walk towards the magnet each time.. *Why:* A good design changes only the magnet, keeps everything else the same, and counts what happens.
-13. (mcq) The Earth's magnetic north pole moves about 40 kilometres a year. If a map's compass note is 10 years old, how far might the pole have moved?  
+13. (mcq) The Earth's magnetic north pole moves about 40 kilometres a year. A map shows where the magnetic north pole was 10 years ago. How far might the pole have moved since then?  
    Options: 4 kilometres / 40 kilometres / 400 kilometres / 4,000 kilometres  
-   **Answer:** 400 kilometres. *Why:* 40 kilometres each year, for 10 years, is 40 times 10, which is 400 kilometres. That is why compass maps are updated.
+   **Answer:** 400 kilometres. *Why:* 40 kilometres each year, for 10 years, is 40 times 10, which is 400 kilometres. That is why maps that show compass directions are updated every few years.
 14. (write) Many old names for magnets mean 'loving' or 'kissing'. Scientists explain magnets with electrons whose tiny magnets line up. Can both ways of seeing magnets be true in their own way? Explain what you think.  
    **Answer:** Any thoughtful answer. For example: the science explains how the magnetic force works. The old names describe how it looks to us, because the magnet and the iron seem drawn to each other.. *Why:* There is no single right answer. A good answer keeps the science and the feeling clear and separate.
 15. (draw) Draw the Earth cut in half. Label the crust, the liquid outer core and the solid inner core. Draw curved magnetic lines around the outside.  
@@ -753,11 +753,11 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    Options: The magnet / The kind and size of paper clips / The number of clips each magnet holds / Nothing needs to stay the same  
    **Answer:** The kind and size of paper clips. *Why:* Everything except the magnet should stay the same, including the clips. If one magnet got smaller clips, it could hold more, and the test would not be fair. The number of clips is what we measure, so it changes.
 7. (mcq) Every electron is a tiny magnet. Why aren't you magnetic?  
-   Options: People have no electrons / Your electrons are in pairs pointing opposite ways, so they cancel / Your electrons are too small / You are magnetic, but only on Sundays  
-   **Answer:** Your electrons are in pairs pointing opposite ways, so they cancel. *Why:* In most atoms, electrons live in pairs, and the two in each pair point their tiny magnets opposite ways. So they cancel out. Picking 'too small' sounds sensible, but iron's electrons are just as small. The difference is whether they cancel.
+   Options: People have no electrons / Your electrons are in pairs pointing opposite ways, so they cancel / Your electrons are too small / Your body has no iron in it  
+   **Answer:** Your electrons are in pairs pointing opposite ways, so they cancel. *Why:* In most atoms, electrons are in pairs, and the two in each pair point their tiny magnets opposite ways. So they cancel out. Picking 'too small' sounds sensible, but iron's electrons are just as small. The difference is whether they cancel. Your body does have a little iron, in your blood, but those iron atoms are spread out, not lined up in domains.
 8. (mcq) What are domains?  
    Options: The two ends of a magnet / Small regions inside iron where the atoms' tiny magnets point the same way / A kind of magnet stone / The lines of the Earth's magnetic field  
-   **Answer:** Small regions inside iron where the atoms' tiny magnets point the same way. *Why:* Domains are small regions inside iron, where millions of atoms point their tiny magnets the same way. In a plain nail they point different ways. In a magnet they mostly line up. Picking 'the two ends' mixes domains up with poles.
+   **Answer:** Small regions inside iron where the atoms' tiny magnets point the same way. *Why:* Domains are small regions inside iron, where billions of atoms point their tiny magnets the same way. In a plain nail they point different ways. In a magnet they mostly line up. Picking 'the two ends' mixes domains up with poles.
 9. (mcq) A magnetised needle is heated until it glows red. When it cools, it no longer picks up a pin. Why?  
    Options: The heat burned the iron away / The heat shook its tiny magnets out of line / Hot things are never magnetic, even after they cool / The pin got heavier  
    **Answer:** The heat shook its tiny magnets out of line. *Why:* Heat is atoms jiggling. At about 770 degrees Celsius, iron's tiny magnets jiggle out of line, and they stay jumbled after it cools. Stroking it again can line them up again. Picking 'burned away' is natural, but the needle is still there, still steel.
@@ -769,12 +769,12 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    **Answer:** Drawing a smooth iron arrowhead out of a wound. *Why:* The Sushruta Samhita describes using a magnet, called ayaskanta, to draw out iron arrowheads without barbs. A magnet attracts iron, but not skin. Picking 'finding north' mixes this up with the compass, which came into use later.
 12. (mcq) What makes the Earth a magnet?  
    Options: A giant bar magnet buried at the North Pole / Liquid iron moving in the Earth's outer core / The Moon pulling on the Earth / Lodestones in the mountains  
-   **Answer:** Liquid iron moving in the Earth's outer core. *Why:* Liquid iron churns slowly in the outer core, which starts about 2,900 kilometres down. Moving metal carries electric currents, and electric currents make a magnetic field. Picking 'a giant bar magnet' is a common picture, but the core is far too hot for a solid magnet. Above about 770 degrees Celsius, iron cannot stay magnetised.
+   **Answer:** Liquid iron moving in the Earth's outer core. *Why:* Liquid iron churns slowly in the outer core, which starts about 2,900 kilometres down. Electric currents flow in the moving iron, and electric currents make a magnetic field. Picking 'a giant bar magnet' is a common picture, but the core is far too hot for a solid magnet. Above about 770 degrees Celsius, iron cannot stay magnetised.
 13. (truefalse) The Earth's magnetic field has flipped many times. After a flip, a compass would point south.  
    **Answer:** True. *Why:* True. Old lava rocks are magnetised in both directions. The last flip was about 780,000 years ago. Motonori Matuyama showed this in 1929, from rocks in Japan, Korea and China.
 14. (mcq) Which of these living things has been shown to use the Earth's magnetic field to find its way?  
    Options: Young loggerhead sea turtles / Mango trees / Rocks / Nobody: only compasses can  
-   **Answer:** Young loggerhead sea turtles. *Why:* Experiments by Kenneth and Catherine Lohmann show that young loggerhead turtles change direction when the magnetic field around them is changed. Robins and some bacteria use the field too. Picking 'only compasses can' puts our tools at the centre. Animals sensed the Earth's magnetic field long before people made compasses.
+   **Answer:** Young loggerhead sea turtles. *Why:* Experiments by Kenneth and Catherine Lohmann show that young loggerhead turtles change direction when the magnetic field around them is changed. Robins and some bacteria use the field too. Picking 'only compasses can' is wrong, because animals sensed the Earth's magnetic field long before people made compasses.
 15. (mcq) Do scientists know exactly how birds sense the Earth's magnetic field?  
    Options: Yes, it is fully solved / No. The leading idea is a protein in their eyes, but it is still being tested / Birds don't sense it at all / Yes, they have a tiny compass needle in their beaks  
    **Answer:** No. The leading idea is a protein in their eyes, but it is still being tested. *Why:* The leading idea is cryptochrome, a protein in birds' eyes that responds to magnetic fields. It is not yet fully proven. The beak idea was tested in 2012, and the iron cells there turned out to be immune cells that clean up the body, not magnetic sensors.
@@ -784,7 +784,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - Fridge doors and cupboard catches stay shut with magnets.
 - Scrap yards and recycling plants lift iron and steel out of mixed waste with giant magnets.
 - Every electric fan, mixer, washing machine and car motor has magnets inside.
-- Power stations spin magnets near coils of wire to make electricity.
+- Most power stations spin magnets near coils of wire to make electricity.
 - Speakers, earphones and phone vibrators use magnets to make sound and buzzing.
 - Hospitals use MRI scanners, with huge magnets, to see inside the body without cutting.
 - Maglev trains, like the one in Shanghai, float above the track, held up by magnetic force.
@@ -892,7 +892,7 @@ Tiny Magnets, All in Line (sci.magnets.L3): Topic-level song for Magnets L3
 - How should you stroke a needle to make a magnet? → Always in the same direction, lifting the magnet away each time.
 - Which way does a compass point? → North and south.
 - What is a natural magnet stone called? → A lodestone.
-- What tiny bit of every atom is a tiny magnet? → The electron.
+- What tiny particle in every atom is a tiny magnet? → The electron.
 - Inside iron, what are the regions called where the tiny magnets point the same way? → Domains.
 - What takes a magnet's magnetism away? → Heating it red-hot, or banging it many times.
 - What makes the Earth a magnet? → Liquid iron moving deep inside it.
