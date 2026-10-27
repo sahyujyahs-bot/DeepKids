@@ -2621,93 +2621,92 @@
   },
   {
    "id": "a5",
-   "title": "Iron for Breakfast",
+   "title": "Hidden Iron in Soil and Sand",
    "mins": 20,
    "days": 1,
    "materials": [
     {
-     "item": "a cup of breakfast cereal flakes whose box says iron has been added",
-     "qty": 1,
-     "buy": "b-cereal"
-    },
-    {
-     "item": "a clear zip bag, or a clear glass and a spoon",
+     "item": "2 spoons of soil from a plant pot, or a handful of sand",
      "qty": 1
     },
     {
-     "item": "warm water",
-     "qty": 1
-    },
-    {
-     "item": "a strong fridge magnet or a bar magnet wrapped in a sandwich bag",
+     "item": "a strong fridge magnet or a bar magnet",
      "qty": 1,
      "buy": "b-magnets"
     },
     {
-     "item": "a white plate",
+     "item": "a clear plastic sandwich bag or zip bag, to wrap the magnet",
+     "qty": 1
+    },
+    {
+     "item": "a white plate or a sheet of white paper",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, if you have one",
      "qty": 1
     }
    ],
-   "safety": "Do not eat the cereal after the experiment. Keep the magnet away from phones and cards.",
+   "safety": "Keep the magnet wrapped in the bag, so the specks don't stick to it for good. Keep the magnet away from phones and cards. Wash your hands after touching soil.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Crush cereal in water. Stir with a magnet. Look for specks of iron."
+     "what": "Spread soil or sand on a plate. Drag a wrapped magnet through it. Look for black specks of iron."
     }
    ],
-   "record": "Draw what you see on the white plate. Write whether there was iron in the cereal.",
+   "record": "Draw the specks you found. Write where the soil or sand came from, and whether the magnet found iron in it.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Crush a cup of cereal to a powder inside the zip bag. 2. Add warm water until it is a thin soup. 3. Let it sit for ten minutes.",
-     "say": "Some breakfast cereals have tiny bits of real iron added, to help our bodies. Let's see if a magnet can find them.",
-     "kid": "Some cereals have real iron added. Crush the cereal. Add warm water. Let it sit for ten minutes.",
-     "context": "This is the first step of Iron for Breakfast. You use a magnet to find the iron added to some breakfast cereals.",
-     "parent": "Look at the box. If it says 'iron' or 'fortified', it often has tiny iron powder added. It is safe to eat, and our stomach acid dissolves it so the body can use it. Not all cereals will work, and a weak magnet may find nothing."
+     "do": "1. Put the magnet inside the plastic bag. 2. Spread the soil or sand thinly on the white plate. 3. Guess first: will the magnet find anything?",
+     "say": "Soil and sand look like they have no metal in them. But many have tiny grains of a black mineral called magnetite, which is made of iron and oxygen. A magnet attracts magnetite. Do you think we will find some? Why?",
+     "kid": "Wrap the magnet in the bag. Spread the soil on the plate. Guess: will the magnet find iron? Why do you think so?",
+     "context": "This is the first step of Hidden Iron. You use a magnet to find tiny grains of magnetite, a mineral made of iron and oxygen, hidden in soil or sand.",
+     "parent": "Most soil and sand in India has some magnetite in it. River and beach sand often has a lot. Potting mix made only of cocopeat may have none, so use real soil if you can."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Put the magnet in the soup and stir slowly for five minutes. 2. Lift the magnet out and look at its surface. 3. Wipe it on a white plate. 4. Look closely at the tiny dark specks.",
-     "say": "Stir the soup slowly with the magnet. Then lift it out. Look at the surface. Are there tiny dark specks?",
-     "kid": "Stir slowly with the magnet for five minutes. Lift it out. Look at it. Do you see dark specks?",
-     "parent": "The specks look like fuzzy black dust. They are iron powder. A strong magnet helps a lot. If you find none, try a different brand or a stronger magnet.",
+     "do": "1. Drag the wrapped magnet slowly through the soil for two minutes. 2. Lift it up and look at the bag. 3. Hold the bag over the clean side of the plate and pull the magnet out of the bag. 4. Look at the specks that fall off.",
+     "say": "Drag the magnet slowly through the soil. Now lift it. Is anything stuck to the bag? Pull the magnet out and watch what falls.",
+     "kid": "Drag the magnet through the soil. Lift it. Look at the bag. Pull the magnet out. What falls off?",
+     "parent": "The specks look like tiny black grains or fuzz. When the magnet comes out of the bag, they are no longer attracted and drop off. If you find nothing, try soil from another pot, or sand.",
      "check": {
       "t": "mcq",
-      "q": "Why did the magnet only pick up a few dark specks from the whole bowl of cereal?",
+      "q": "Why did the magnet pick up only a few black specks from a whole plate of soil?",
       "options": [
-       "Only the added iron is magnetic. The rest of the cereal is not",
-       "The magnet was broken",
-       "The specks were made by the magnet"
+       "Only the magnetite grains are attracted. The rest of the soil is not magnetic",
+       "The magnet was too weak to lift soil",
+       "The magnet turned some soil into iron"
       ],
       "a": 0,
-      "why": "Cereal is mostly grain, which is not magnetic. The magnet only attracts the tiny bits of iron powder added to it. Picking 'the specks were made by the magnet' often means thinking a magnet can change what is in a thing. It only attracts what is already there."
+      "why": "Most of the soil is clay, sand grains and bits of plants, which are not magnetic. A magnet attracts only the magnetite grains, because they contain iron. Picking 'the magnet turned soil into iron' often means thinking a magnet can change what is in a thing. It only attracts what is already there."
      }
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Talk about iron in the body. Our blood needs a little iron to carry oxygen, the part of the air our body uses. We get iron from foods such as spinach, lentils, jaggery and some cereals.",
-     "say": "Our blood needs a tiny amount of iron to carry oxygen from the air to every part of our body. We get it from food. Which foods in our home have iron?",
+     "do": "Talk about iron in food. Our blood needs a little iron to carry oxygen around the body. We get it from foods such as spinach, lentils and jaggery.",
+     "say": "Our blood needs a tiny amount of iron to carry oxygen to every part of our body. We get it from food. Which foods in our home have iron?",
      "kid": "Your body needs a tiny bit of iron. Which foods have it? Lentils, jaggery, spinach.",
-     "think": "The iron in this cereal is a metal powder. The iron in spinach is spread out, one atom at a time, inside other substances. Do you think a magnet could pick out that iron?"
+     "think": "The iron in soil is in grains of magnetite, so a magnet attracts it. The iron in spinach is spread out, one atom at a time, joined to other atoms. Do you think a magnet could pick that iron out of spinach? Why?"
     }
    ],
-   "context": "This activity uses a magnet to find tiny specks of iron added to some breakfast cereals.",
+   "context": "This activity uses a magnet to find tiny grains of iron-containing magnetite in soil or sand.",
    "setup": [
     {
-     "art": "A child crushing cereal flakes inside a clear zip bag.",
-     "caption": "1. Crush the cereal in a bag."
+     "art": "A child spreading dark soil from a plant pot thinly on a white plate, with a bar magnet inside a clear plastic bag beside it.",
+     "caption": "1. Spread the soil. Wrap the magnet."
     },
     {
-     "art": "Warm water poured into the bag to make a thin cereal soup, a magnet being dropped in.",
-     "caption": "2. Add warm water and stir with a magnet."
+     "art": "The wrapped magnet being dragged slowly through the soil on the plate.",
+     "caption": "2. Drag the magnet through the soil."
     },
     {
-     "art": "A magnet lifted out of the soup, dark specks clinging to it, then wiped onto a white plate.",
-     "caption": "3. Lift out the magnet. Look for dark specks."
+     "art": "Tiny black grains clinging to the plastic bag around the magnet, then falling onto the white plate as the magnet is pulled out.",
+     "caption": "3. Pull the magnet out. Look at the specks."
     }
    ]
   },
@@ -3980,16 +3979,6 @@
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "a4"
-   ]
-  },
-  {
-   "id": "b-cereal",
-   "item": "Breakfast cereal flakes with added iron (check the box)",
-   "kind": "material",
-   "why": "Used in Iron for Breakfast, to find the tiny iron specks. Not every cereal works.",
-   "url": "https://www.amazon.in/s?k=iron+fortified+breakfast+cereal+flakes",
-   "used_in": [
-    "a5"
    ]
   },
   {

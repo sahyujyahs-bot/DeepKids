@@ -532,25 +532,25 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   *Parent says:* Scientists studied the specks Jon Larsen found on roofs. In 2017 they confirmed that some were real space dust. Tiny round beads are one sign, and experts also check what is inside them.  
   *Child mode:* Real space dust has been found on roofs in cities. Experts check what is inside. Would you like to be a space dust hunter?
   - Note: Be honest. Most of what you catch is iron dust from Earth. The point is to see a magnet pick out iron specks that you could not see in the dust. It also shows how real scientists did it.
-### a5 · Iron for Breakfast (20 min)
-- **safety:** Do not eat the cereal after the experiment. Keep the magnet away from phones and cards.
-- **record:** Draw what you see on the white plate. Write whether there was iron in the cereal.
+### a5 · Hidden Iron in Soil and Sand (20 min)
+- **safety:** Keep the magnet wrapped in the bag, so the specks don't stick to it for good. Keep the magnet away from phones and cards. Wash your hands after touching soil.
+- **record:** Draw the specks you found. Write where the soil or sand came from, and whether the magnet found iron in it.
 - **s1 (5 min)**  
-  *Parent does:* 1. Crush a cup of cereal to a powder inside the zip bag. 2. Add warm water until it is a thin soup. 3. Let it sit for ten minutes.  
-  *Parent says:* Some breakfast cereals have tiny bits of real iron added, to help our bodies. Let's see if a magnet can find them.  
-  *Child mode:* Some cereals have real iron added. Crush the cereal. Add warm water. Let it sit for ten minutes.
-  - Note: Look at the box. If it says 'iron' or 'fortified', it often has tiny iron powder added. It is safe to eat, and our stomach acid dissolves it so the body can use it. Not all cereals will work, and a weak magnet may find nothing.
+  *Parent does:* 1. Put the magnet inside the plastic bag. 2. Spread the soil or sand thinly on the white plate. 3. Guess first: will the magnet find anything?  
+  *Parent says:* Soil and sand look like they have no metal in them. But many have tiny grains of a black mineral called magnetite, which is made of iron and oxygen. A magnet attracts magnetite. Do you think we will find some? Why?  
+  *Child mode:* Wrap the magnet in the bag. Spread the soil on the plate. Guess: will the magnet find iron? Why do you think so?
+  - Note: Most soil and sand in India has some magnetite in it. River and beach sand often has a lot. Potting mix made only of cocopeat may have none, so use real soil if you can.
 - **s2 (10 min)**  
-  *Parent does:* 1. Put the magnet in the soup and stir slowly for five minutes. 2. Lift the magnet out and look at its surface. 3. Wipe it on a white plate. 4. Look closely at the tiny dark specks.  
-  *Parent says:* Stir the soup slowly with the magnet. Then lift it out. Look at the surface. Are there tiny dark specks?  
-  *Child mode:* Stir slowly with the magnet for five minutes. Lift it out. Look at it. Do you see dark specks?
-  - Note: The specks look like fuzzy black dust. They are iron powder. A strong magnet helps a lot. If you find none, try a different brand or a stronger magnet.
-  - Check: Why did the magnet only pick up a few dark specks from the whole bowl of cereal? → **Only the added iron is magnetic. The rest of the cereal is not**
+  *Parent does:* 1. Drag the wrapped magnet slowly through the soil for two minutes. 2. Lift it up and look at the bag. 3. Hold the bag over the clean side of the plate and pull the magnet out of the bag. 4. Look at the specks that fall off.  
+  *Parent says:* Drag the magnet slowly through the soil. Now lift it. Is anything stuck to the bag? Pull the magnet out and watch what falls.  
+  *Child mode:* Drag the magnet through the soil. Lift it. Look at the bag. Pull the magnet out. What falls off?
+  - Note: The specks look like tiny black grains or fuzz. When the magnet comes out of the bag, they are no longer attracted and drop off. If you find nothing, try soil from another pot, or sand.
+  - Check: Why did the magnet pick up only a few black specks from a whole plate of soil? → **Only the magnetite grains are attracted. The rest of the soil is not magnetic**
 - **s3 (5 min)**  
-  *Parent does:* Talk about iron in the body. Our blood needs a little iron to carry oxygen, the part of the air our body uses. We get iron from foods such as spinach, lentils, jaggery and some cereals.  
-  *Parent says:* Our blood needs a tiny amount of iron to carry oxygen from the air to every part of our body. We get it from food. Which foods in our home have iron?  
+  *Parent does:* Talk about iron in food. Our blood needs a little iron to carry oxygen around the body. We get it from foods such as spinach, lentils and jaggery.  
+  *Parent says:* Our blood needs a tiny amount of iron to carry oxygen to every part of our body. We get it from food. Which foods in our home have iron?  
   *Child mode:* Your body needs a tiny bit of iron. Which foods have it? Lentils, jaggery, spinach.
-  - Think: The iron in this cereal is a metal powder. The iron in spinach is spread out, one atom at a time, inside other substances. Do you think a magnet could pick out that iron?
+  - Think: The iron in soil is in grains of magnetite, so a magnet attracts it. The iron in spinach is spread out, one atom at a time, joined to other atoms. Do you think a magnet could pick that iron out of spinach? Why?
 ### a6 · The Mystery Bag (10 min)
 - **safety:** Keep magnets away from phones and cards. Do not put sharp things in the bag.
 - **record:** Write what you guessed was inside, and what really was.
@@ -962,7 +962,6 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [Ceramic bar or horseshoe magnets for school science (a set of 2 to 6)](https://www.amazon.in/s?k=bar+magnet+horseshoe+magnet+school+science+set) (tool): A bigger, stronger school magnet than a fridge magnet makes every test clearer. Choose ceramic magnets, not tiny neodymium ones, which are dangerous if swallowed. Used in e1, e2, e3, a1, a3, a5, a6, a8, p1. Used again in Poles and Magnets, Compass and Earth, and Electromagnets.
 - [Telescopic magnetic pick-up wand](https://www.amazon.in/s?k=telescopic+magnetic+pick+up+tool) (tool): A long handle lets you sweep a magnet over a heap or through dust, without touching it. It is used in the star dust hunt. Used in a4. If bought, use it for the Kabadiwala's Heap and again for the star dust hunt.
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Lets you look at the tiny specks of star dust. Used in a4. 
-- [Breakfast cereal flakes with added iron (check the box)](https://www.amazon.in/s?k=iron+fortified+breakfast+cereal+flakes) (material): Used in Iron for Breakfast, to find the tiny iron specks. Not every cereal works. Used in a5. 
 - [A box of steel paper clips and a pack of steel washers](https://www.amazon.in/s?k=steel+paper+clips+steel+washers) (material): Cheap magnetic bits for the experiments and the sorting ramp. Check that they stick to a magnet. Used in e2, e3, p1, c2, a8. 
 - [Mickey's Magnet, by Franklyn M. Branley and Eleanor K. Vaughan (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Mickey%27s+Magnet+Franklyn+Branley) (book): A simple picture book about what a magnet attracts, for ages 5 to 8. Used in e1. If bought, read it after the story, before the Great Magnet Test.
 - [Stuff Matters, by Mark Miodownik](https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik) (book): For the parent, and for reading parts aloud. The chapter on steel tells how mixing a little carbon with iron changes everything. Used in g1. If bought, read the steel chapter on the day of the Stick or Skip game.
