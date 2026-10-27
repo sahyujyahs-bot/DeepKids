@@ -26,7 +26,7 @@
 - **Segment**: One of the many rings or sections that a body is made of, joined in a row. *e.g.* An earthworm has more than a hundred segments. An ant's leg has segments too.
 - **Mollusc**: A soft-bodied animal with no backbone. Many molluscs make a shell. Snails, slugs, clams, octopuses and squid are molluscs. *e.g.* The snail on a wet wall and the octopus in the sea are both molluscs.
 - **Arthropod**: An animal with an exoskeleton and legs that bend at joints. Insects, spiders, crabs, centipedes and millipedes are arthropods. *e.g.* An ant, a spider and a crab are all arthropods.
-- **Insect**: An arthropod with 6 legs and a body in 3 parts: head, middle and back end. Most insects also have wings and 2 feelers. *e.g.* Ants, bees, flies, mosquitoes, beetles and butterflies are insects.
+- **Insect**: An arthropod with 6 legs and a body in 3 parts: head, middle and back end. All insects have 2 feelers, and most have wings. *e.g.* Ants, bees, flies, mosquitoes, beetles and butterflies are insects.
 - **Arachnid**: An arthropod with 8 legs and a body in 2 parts, and no feelers. Spiders, scorpions, ticks and mites are arachnids. *e.g.* The spider in the corner of your bathroom is an arachnid, not an insect.
 - **Antenna**: A feeler on the head of an insect or a crab, used to smell, taste and touch. More than one are called antennae. *e.g.* An ant taps its antennae on another ant to smell who it is.
 - **Tentacle**: A long, bendy arm used to grab, feel or sting. Jellyfish and octopuses have tentacles. *e.g.* A jellyfish's tentacles trail below it like long strings.
@@ -54,7 +54,7 @@ Scientists have named roughly one and a half million kinds of animal. Only about
 ### Bodies held firm by water: worms · *defined*
 **Definition:** An earthworm has no bones. It stays firm because its body is full of liquid, held in tight by the muscles in its skin. This is called a water skeleton, or a hydrostatic skeleton.
 
-Water cannot be squeezed into less space. So water that cannot escape pushes back when you press on it. A plastic bottle full of water, with its cap on, is hard to squash for this reason. A worm works the same way, with its muscles as the cap. It has two sets of muscles. One set goes round the body like rubber bands. When they squeeze, that part of the worm gets long and thin and pushes forward. The other set runs along the body. When they pull, that part gets short and fat and holds on to the soil. Tiny bristles on each segment grip the soil too. So the worm moves by squeezing one part at a time, with no bones at all.
+Water cannot be squeezed into less space. So water that cannot escape pushes back when you press on it. That is why a capped bottle full of water feels as hard as stone. A capped bottle of air gives a little when you squeeze it, because air can be squeezed. A worm's body is full of liquid, and its muscles hold the liquid in, as a cap does. It has two sets of muscles. One set goes round the body like rubber bands. When they squeeze, that part of the worm gets long and thin, because the liquid cannot shrink. So the worm reaches forward. The other set runs along the body. When they pull, that part gets short and fat and holds on to the soil. Tiny bristles on each segment grip the soil too. So the worm moves by squeezing one part at a time, with no bones at all.
 - e.g. Pick up an earthworm gently after rain. It feels firm, not floppy, because of the liquid inside.
 - e.g. Squeeze the middle of an open bottle of water, and the water rises up the neck. It cannot be squashed, so it moves somewhere else.
 - e.g. A sea anemone and a slug also use water to hold their shape.
@@ -75,7 +75,7 @@ Your bones are inside, with your muscles wrapped around them. An arthropod is th
 ### Count the legs: insect, spider, crab or centipede? · *defined*
 **Definition:** Arthropods can be sorted by their legs and body parts. Insects have 6 legs and 3 body parts. Spiders have 8 legs and 2 body parts. Crabs and prawns have 10 legs. Centipedes and millipedes have many legs along a long body.
 
-Here is the quickest way to tell them apart. Count the legs. Six legs means an insect. Look again and you will see three parts: a head, a middle and a back end. Most insects also have wings and two feelers. Eight legs means an arachnid, like a spider or a scorpion. A spider's body has only two parts, and it has no feelers. Ten legs, with two of them often made into big claws, means a crab or a prawn. These live mostly in water and breathe with gills. Lots of legs on a long, ringed body means a centipede or a millipede. A centipede has one pair of legs on each segment and runs fast. A millipede has two pairs on each segment and walks slowly.
+Here is the quickest way to tell them apart. Count the legs. Six legs means an insect. Look again and you will see three parts: a head, a middle and a back end. Every insect has two feelers, and most have wings. Eight legs means an arachnid, like a spider or a scorpion. A spider's body has only two parts, and it has no feelers. Ten legs, with two of them often made into big claws, means a crab or a prawn. These live mostly in water and breathe with gills. Lots of legs on a long, ringed body means a centipede or a millipede. A centipede has one pair of legs on each segment and runs fast. A millipede has two pairs on each segment and walks slowly.
 - e.g. An ant has 6 legs, so it is an insect.
 - e.g. A spider has 8 legs, so it is not an insect. It is an arachnid.
 - e.g. A woodlouse, the small grey animal that rolls into a ball, has 14 legs. It is a land cousin of crabs and prawns.
@@ -111,7 +111,7 @@ Most invertebrates on land are small. Most land insects today are shorter than y
 ### Shells, chalk and marble: invertebrates build the Earth · *defined*
 **Definition:** Many invertebrates build shells and skeletons from calcium carbonate, the same material as chalk and limestone. Over millions of years their remains pile up and turn into rock.
 
-When a snail makes its shell, it uses tiny pieces of calcium, carbon and oxygen, joined together. Corals, clams and many tiny sea creatures do the same. When they die, their shells and skeletons sink and pile up on the sea floor, layer on layer. Over millions of years the layers are pressed into limestone rock. If limestone is squeezed and heated deep underground, it can turn into marble. So many of the white stones people build with began as the bodies of sea animals. Worms change the Earth too. Charles Darwin spent about 40 years studying earthworms. He showed that they slowly bury stones and old buildings by pulling leaves down and pushing soil up.
+When a snail makes its shell, it uses tiny pieces of calcium, carbon and oxygen, joined together. Corals, clams and many tiny sea creatures do the same. When they die, their shells and skeletons sink and pile up on the sea floor, layer on layer. Over millions of years the layers are pressed into limestone rock. If limestone is squeezed and heated deep underground, it can turn into marble. So many of the white stones people build with began as the bodies of sea animals. Worms change the Earth too. Charles Darwin studied earthworms, on and off, for about 40 years. He showed that they slowly bury stones and old buildings by pulling leaves down and pushing soil up.
 - e.g. Limestone rocks in the Himalaya and in the caves of Meghalaya hold fossil shells from ancient seas.
 - e.g. Marble is limestone that was heated and squeezed deep underground. Much limestone began as the shells and skeletons of sea creatures.
 - e.g. Coral reefs, like those near the Andaman Islands and Lakshadweep, are giant stone structures built by tiny animals related to jellyfish.
@@ -133,7 +133,7 @@ All animals share one ancestor, which lived in the sea long ago. Scientists agre
 Animals without backbones feel, remember and decide. A worm pulls back from a sharp stick. A crab rubs and guards a hurt leg. A bee remembers which flowers had sweet nectar and flies back to them. Each of these animals senses its world and chooses what to do next. In 2021, a team of scientists led by Jonathan Birch looked at more than 300 studies for the government of the United Kingdom. They found strong evidence that crabs, lobsters, octopuses and squid feel pain. In 2022, a law in the United Kingdom began to protect them as animals that feel. Some scientists still say these are only reflexes and learning. Their view is given below.
 - e.g. Hermit crabs given a small electric shock inside their shell were more likely to leave it for a new one. They left a poor shell sooner than a good one. So each crab weighed the pain against how much it liked its home.
 - e.g. Desert ants count their steps to find the way back to their nest. Scientists showed this by giving some ants longer legs, made of tiny stilts. Those ants walked past their nest.
-- e.g. An octopus that is hurt guards and cleans the hurt place. Afterwards it stays away from the room where it was hurt.
+- e.g. An octopus that is hurt guards and cleans the hurt place. Afterwards it stays away from the part of its tank where it was hurt.
 - **Scientists who study crabs, octopuses and bees:** These animals guard hurt parts and avoid places where they were hurt. They also trade pain against something they want, like a good shell. A simple reflex cannot weigh one thing against another. So they feel pain, and we should handle them gently.
 - **Other scientists:** Everything these animals do might come from reflexes and simple learning. We cannot yet measure a feeling from the outside. So they say we should wait for better ways to test it.
 
@@ -171,9 +171,9 @@ Animals without backbones feel, remember and decide. A worm pulls back from a sh
 ## Roots
 We have been learning how animals without backbones hold their soft bodies in shape, and how they feel and decide. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** Under the books, capped bottles of water hardly sank, while open empty bottles were squashed flat. Water cannot be squeezed into less space, so water that cannot escape pushes back. An earthworm's muscles hold its liquid in, the way a cap holds water in a bottle. So a soft body with no bones can stay firm, as long as its liquid is held in.  
-*Habit it breaks:* We think being firm needs something hard inside, like bone or wood. Most animals on Earth show that liquid held in tight is enough.  
-*Evidence:* In Water Bones, the capped water bottles held up five books and hardly sank. With the cap off, a squeeze pushed the water up the neck and the bottle went soft.
+**Deep truth.** Under the books, the open bottles squashed, but the capped bottles held firm. When you sat on them or squeezed them, the air bottles gave, but the water bottles hardly moved. Water cannot be squeezed into less space, so water shut in tight makes a body firm. An earthworm has no bones, only liquid held in by its muscles, and that is enough.  
+*Habit it breaks:* We think being firm needs something hard inside, like bone or wood. An earthworm shows that liquid held in tight is enough.  
+*Evidence:* In Water Bones, the open bottles squashed under the books, but the capped bottles held firm. Under a sitting child and a hard squeeze, the air bottles gave and the water bottles did not.
 
 - *who am i:* You hold your shape with bones inside. An earthworm holds its shape with liquid held in tight. Both of you feel the world you move through.
 - *what is life:* Life has found many ways to hold a soft body in shape: liquid held in, a shell, armour outside or bones inside.
@@ -186,7 +186,7 @@ All animals come from soft animals that lived in the sea more than 550 million y
 - Science (settled): All animals share one ancestor. Starfish, sea urchins and vertebrates are on one big branch of the family tree, so a starfish is a closer cousin of ours than a snail is.
 - Science (debated): In 2021, a review of more than 300 studies found strong evidence that crabs, lobsters, octopuses and squid feel pain. What an ant or a worm feels from the inside is still open.
 - Other view, Many careful scientists: They say we cannot yet measure a feeling from the outside. A worm pulling away from a sharp stick may be a reflex, like your knee jerking when a doctor taps it. So they would wait for better tests before saying a worm or an ant feels. That is an honest view, and many careful people hold it.
-- Practice, Firm without bones (3 min): Sit up tall. Hold your left arm out and let it go soft. With your right hand, gently press the soft part of your forearm. Now make a tight fist and press the same place again. It is hard now, though no bone moved. Your muscles squeezed. A worm stays firm the same way, all over its body. Let the fist go soft again. Breathe in slowly, and out slowly, three times. Feel the squeeze and the softness, one after the other.
+- Practice, Firm without bones (3 min): Sit up tall. Hold your left arm out and let it go soft. With your right hand, gently press the soft part of your forearm. Now make a tight fist and press the same place again. It is hard now, because your muscles are squeezing. A worm's muscles squeeze its liquid in the same way, all along its body. Let the fist go soft again. Breathe in slowly, and out slowly, three times. Feel the squeeze and the softness, one after the other.
 - Ask: If an ant named all the animals, what do you think it would call us?
 - Ask: What else in your home is firm only because something is held in tight?
 - Ask: A crab guards its hurt leg. How could you tell if an ant was hurt?
@@ -330,44 +330,55 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Think: A woodlouse has 14 legs. Which other animals on the cards do you think it is a cousin of?
 
 ## Experiments
-### e1 · Water Bones: how does a worm stay firm? (30 min)
-- **question:** Can water shut inside plastic bottles hold up a pile of books?
-- **predict:** Before you test, look at three pairs of bottles: open and empty, capped with only air inside, and capped and full of water. Guess which pair will sink the least under a pile of books, and say why you think so.
-- **fair test:** To make it fair, use six bottles of the same kind and size. Lay each pair the same way, side by side, with the same board and the same books on top. Measure the height the same way each time, with the ruler standing straight up. Test each pair 3 times, because one try can be a fluke.
-- **safety:** Do this on the floor, on a towel, so spilled water does not make anyone slip. Put the books on gently, and keep fingers out from under the board.
-- **record:** Fill in the table. Then draw one bar for each pair of bottles. A shorter bar means the bottles kept their shape better.
-- **results table:** Pair of bottles | Try 1: sank (cm) | Try 2: sank (cm) | Try 3: sank (cm) | Middle value (cm)
-- **s1 (5 min)**  
+### e1 · Water Bones: how does a worm stay firm? (35 min)
+- **question:** Which bottles stay firm under a load: open and empty, capped with air, or capped and full of water?
+- **predict:** Before you test, look at three pairs of bottles: open and empty, capped with only air inside, and capped and full of water. Guess which pair will sink the least under a pile of books, and then under you sitting on the board. Say why you think so.
+- **fair test:** To make it fair, use six bottles of the same kind and size. Lay each pair the same way, with the same board and the same books on top. Measure the height the same way each time, with the ruler standing straight up. Test each pair under the books 3 times, because one try can be a fluke. For the sitting test, the same child sits in the same place each time.
+- **safety:** Do this on the floor, on a towel, so spilled water does not make anyone slip. Put the books on gently, and keep fingers out from under the board. In the sitting test, use only the capped bottles, put a book against each bottle so it cannot roll, and hold your child's hands for balance.
+- **record:** Fill in the table. Then draw one bar for each pair of bottles under the books. A shorter bar means the bottles kept their shape better. Write what happened in the sitting test and the hand squeeze.
+- **results table:** Pair of bottles | Books: try 1 (cm) | Books: try 2 (cm) | Books: try 3 (cm) | Books: middle value (cm) | Child sitting: try 1 (cm) | Child sitting: try 2 (cm)
+- **s1 (4 min)**  
   *Parent does:* 1. Fill two bottles with water right to the top, so almost no air is left. Screw the caps on tight. 2. Screw the caps onto two empty bottles. 3. Leave the last two bottles empty, with no caps.  
   *Parent says:* An earthworm has no bones, yet it feels firm in your hand. Today we will find out how. Our bottles are pretend worms.  
   *Child mode:* Fill two bottles to the top with water. Put the caps on tight. Put caps on two empty bottles. Leave two open.
   - Note: Thin bottles from packaged drinking water work best, because they squash easily. Fill the water bottles over a sink, right to the brim.
 - **s2 (3 min)**  
   *Parent does:* Show your child the three pairs. Ask for a guess and a reason, and write the guess down.  
-  *Parent says:* We will pile books on each pair. Which pair do you think will sink the least? Why do you think so?  
-  *Child mode:* Which pair will sink the least under the books? Guess. Say why.
+  *Parent says:* We will put books on each pair, and then you will sit on the board. Which pair do you think will sink the least? Why do you think so?  
+  *Child mode:* Which pair will sink the least under the books, and under you? Guess. Say why.
   - Ask: Why do you think so? (good: The water ones, because they are full.; The capped ones, because nothing can get out.; The open ones will get squashed, because the air can escape.)
   - Note: Any guess is fine, as long as your child gives a reason. Don't explain yet. The test will answer it.
-- **s3 (11 min)**  
-  *Parent does:* 1. Lay one pair of bottles side by side on the towel. 2. Put the board across them. 3. Stand the ruler on the towel and read the height of the board. 4. Pile the 5 books on the board gently. 5. Read the height again. 6. Write how far it sank. 7. Take the books off. Test each pair 3 times.  
+- **s3 (9 min)**  
+  *Parent does:* 1. Lay one pair of bottles on the towel, a hand-span apart. 2. Push a book against the outside of each bottle, so it cannot roll. 3. Put the board across the bottles. 4. Stand the ruler on the towel and read the height of the board. 5. Pile the 5 books on the board gently. 6. Read the height again, and write how far it sank. 7. Take the books off. Test each pair 3 times.  
   *Parent says:* First we read the height with just the board. Then with the books. The difference is how far the bottles sank.  
   *Child mode:* Put two bottles under the board. Read the ruler. Add the books. Read it again. How far did it sink?
-  - Note: Put the books on in the same order and the same place each time. To find the middle value, put the three numbers in order and take the middle one. Capped bottles of air may sink a little, because air can be squashed. Water can hardly be squashed at all.
-- **s4 (4 min)**  
-  *Parent does:* 1. Over the sink, open one water bottle and pour out a little, so the water sits in the neck. 2. Mark the water level with a pen or a bit of tape. 3. Squeeze the middle of the bottle with both hands, and watch the water. 4. Fill it to the top again, cap it and squeeze again.  
-  *Parent says:* Now the cap is off. Squeeze the middle and watch the water in the neck. Then we'll put the cap back on and try again.  
+  - Note: Put the books on in the same order and the same place each time. To find the middle value, put the three numbers in order and take the middle one. Expect the open bottles to sink a lot. Both capped pairs will hardly sink, often less than 1 cm. That is a real result: a cap that holds air in also makes a bottle firm. The next two steps show the difference between air and water.
+- **s4 (6 min) · grown-up needed**  
+  *Parent does:* 1. Use only the two capped pairs for this test. 2. Lay the capped air pair under the board as before, with a book against each bottle. Read the height. 3. Your child sits gently in the middle of the board and lifts their feet. Hold their hands lightly, only for balance. 4. Read the height while they sit still, and write how far it sank. 5. Do the same with the capped water pair. 6. Try each pair twice.  
+  *Parent says:* The books were not heavy enough to tell the two capped pairs apart. You are much heavier than five books. Sit very still while I read the ruler.  
+  *Child mode:* Ask a grown-up to hold your hands. Sit gently on the board over the capped bottles. Lift your feet. Sit still while they read the ruler.
+  - Ask: Which capped pair went down more when you sat on it? (good: The air ones.; The air bottles went down a little, but the water ones hardly moved.)
+  - Note: The air bottles usually sink a little, often about 1 cm, and spring back up when your child stands. The water bottles hardly move. Never use the open bottles here: they would squash flat and drop your child. If your bottles are thick and stiff, the difference may be small. The hand squeeze in the next step still shows it.
+- **s5 (3 min)**  
+  *Parent does:* 1. Hold the capped air bottle in both hands and squeeze its middle as hard as you can. 2. Squeeze the capped water bottle in the same way. 3. Ask which one gives.  
+  *Parent says:* Squeeze the air bottle as hard as you can. Now squeeze the water bottle the same way. Which one gives?  
+  *Child mode:* Squeeze the capped air bottle hard. Then squeeze the capped water bottle. Which one gives?
+  - Check: You squeeze a capped bottle of air and a capped bottle of water as hard as you can. What happens? → **The air bottle dents a little, but the water bottle stays hard**
+- **s6 (3 min)**  
+  *Parent does:* 1. Over the sink, open one water bottle and pour out a little, so the water sits in the neck. 2. Mark the water level with a pen. 3. Squeeze the middle of the bottle with both hands, and watch the water.  
+  *Parent says:* Now the cap is off. Squeeze the middle and watch the water in the neck. Where does it go?  
   *Child mode:* Open a water bottle over the sink. Mark the water. Squeeze the middle. Where does the water go?
   - Check: When you squeeze the middle of an open bottle of water, what happens? → **The water rises up the neck, because it has to go somewhere**
-- **s5 (4 min)**  
-  *Parent does:* Help your child draw a bar chart of the middle values, one bar for each pair of bottles.  
+- **s7 (4 min)**  
+  *Parent does:* Help your child draw a bar chart of the middle values from the books test, one bar for each pair of bottles.  
   *Parent says:* Let's turn our numbers into a picture. One bar for each pair. Here a shorter bar means the bottles kept their shape better.  
   *Child mode:* Draw one bar for each pair. A shorter bar means it sank less.
-  - Check: In the Water Bones chart, the capped bottles of water have the shortest bar. What does that mean? → **They sank the least, so they held their shape best**
-- **s6 (3 min)**  
+  - Check: In the Water Bones chart, the open bottles have the tallest bar. What does that mean? → **They sank the most, because nothing held their shape**
+- **s8 (3 min)**  
   *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, and why.  
   *Parent says:* Tell me three things. What do you think now about how a worm stays firm? What did you see? And why?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A good answer: What I think: a worm stays firm because its liquid is held in tight. What I saw: the open empty bottles sank 5 cm, but the capped water bottles did not sink at all. Why: water cannot be squashed, so when it cannot get out, it pushes back and holds the shape.
+  - Note: A good answer: What I think: a worm stays firm because its liquid is held in tight, and liquid cannot be squeezed. What I saw: under the books, the open bottles sank 5 cm, but both capped pairs hardly sank. When I sat on the board, the air bottles went down about 1 cm, and the water bottles hardly moved. When I squeezed them, the air bottle gave and the water bottle did not. Why: air can be squeezed into less space, but water cannot. So water shut in tight holds its shape.
 ### e2 · Armour Tubes: why are insect legs hollow tubes? (25 min)
 - **question:** Which paper shape holds up the most books: round tubes, square tubes or zigzags?
 - **predict:** Before you test, make the three shapes from the same paper. Guess which shape will hold the most books before it crumples, and say why you think so.
@@ -589,7 +600,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **safety:** A grown-up helps with the scissors.
 - **record:** Draw your star with all its fold lines. Draw yourself with your one fold line.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Draw round a katori on paper. 2. Mark five dots evenly round the edge. Think of a clock: 12, just before 2:30, just before 5, just after 7, and 9:30. 3. Draw a small circle in the middle. 4. Draw an arm from the middle circle out to each dot. 5. A grown-up helps cut the star out.  
+  *Parent does:* 1. Draw round a katori on paper. 2. Mark five dots evenly round the edge. Think of the numbers on a clock. Put dots at 12, a little after 2, a little before 5, a little after 7, and a little before 10. 3. Draw a small circle in the middle. 4. Draw an arm from the middle circle out to each dot. 5. A grown-up helps cut the star out.  
   *Parent says:* A starfish has five arms, all the same, around a middle. Let's draw one and cut it out.  
   *Child mode:* Draw round a bowl. Put five dots round the edge. Draw an arm to each dot. Cut out your star.
   - Note: The dots do not have to be perfect. If the arms come out uneven, the halves will nearly match, and that is fine. Talk about it.
@@ -611,7 +622,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **schedule:** day 1: Build the wormery in layers of soil and sand. Add leaves and peels. Add the worms. Wrap it in dark cloth. Draw the layers. (25 min); day 3: Unwrap and look. Are the layers still sharp? Draw what you see. Mist the top if it is dry. (5 min); day 7: Look again. Are any leaves pulled down? Are there tunnels against the glass? Draw it. (10 min); day 10: Look and draw. Mist the soil if it is dry. (5 min); day 14: Draw the final layers. Compare all your drawings. Return the worms to the soil where you found them. (15 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the top off a large bottle. 2. Your child fills it in layers: 4 cm of damp soil, then 2 cm of sand. 3. Repeat soil and sand until the bottle is nearly full. 4. Mist each layer so it is damp, not wet. 5. Put dead leaves and peels on top.  
-  *Parent says:* Charles Darwin, a famous scientist, spent about 40 years studying earthworms. He thought they were some of the most important animals in the world. Let's find out why.  
+  *Parent says:* Charles Darwin, a famous scientist, studied earthworms, on and off, for about 40 years. He thought they were some of the most important animals in the world. Let's find out why.  
   *Child mode:* Make stripes in the bottle: soil, then sand, then soil, then sand. Keep them damp. Put leaves on top.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Find 3 to 5 earthworms in damp soil, or on the ground after rain. 2. Wet your hands. 3. Put the worms gently on top of the leaves. 4. Wrap the bottle in dark cloth and put it in a cool, shady place.  
@@ -721,9 +732,9 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 11. (mcq) Why must a crab moult?  
    Options: To change colour / Its armour cannot stretch, so it must climb out to grow / To cool down / Because it is old  
    **Answer:** Its armour cannot stretch, so it must climb out to grow. *Why:* Hard armour cannot grow. So a crab makes a new soft skin underneath, splits the old shell and climbs out. Picking 'because it is old' is a guess many people make, but young crabs moult most often, because they grow fastest.
-12. (mcq) Remember the Water Bones experiment? You laid pairs of plastic bottles under a board and piled books on top: open and empty, capped with air, and capped with water. Which pair sank the least?  
-   Options: The open, empty bottles / The capped bottles with air / The capped bottles with water / They all sank the same  
-   **Answer:** The capped bottles with water. *Why:* The capped water bottles hardly sank. Water cannot be squashed, and the caps kept it in, so it pushed back on the board. That is how a worm stays firm. Picking the open bottles usually means thinking 'empty' makes a thing light and strong. But with nothing held in, the bottle walls just fold.
+12. (mcq) Remember the Water Bones experiment? You pressed down on pairs of plastic bottles: open and empty, capped with air, and capped with water. You used books, then sat on the board, then squeezed the capped bottles by hand. Which bottle did not give when you squeezed it hard?  
+   Options: The open, empty bottle / The capped bottle with air / The capped bottle with water / They all gave the same  
+   **Answer:** The capped bottle with water. *Why:* The capped water bottle stayed hard. Water cannot be squeezed into less space, and the cap kept it in. The capped air bottle gave a little, because air can be squeezed. That is why a worm is full of liquid, not air. Picking the air bottle is fair after the book test, where both capped pairs held the books. Only a heavier push showed the difference.
 13. (write) How does an earthworm stay firm without any bones? Use the words water and muscles.  
    **Answer:** An earthworm is full of liquid. Its muscles hold the liquid in tight, so its body stays firm, like a capped bottle full of water.. *Why:* This is called a water skeleton. Squeezing the liquid also lets the worm stretch and push forward.
 14. (draw) Draw an ant. Show its 3 body parts and 6 legs. Label the head.  
@@ -755,7 +766,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 9. (mcq) Remember the Armour Tubes experiment? You stood three paper columns of one shape under a board, round tubes, square tubes or zigzags, and added books until they crumpled. Which shape held the most?  
    Options: The zigzags / The round tubes / The square tubes / All the same  
    **Answer:** The round tubes. *Why:* The round tubes held the most. A tube spreads the weight evenly all the way round, so it is strong without being heavy. Insect and crab legs are tubes of armour for the same reason.
-10. (mcq) Remember the Many Small Suckers experiment? You hung a bag from rubber suckers on a tile and added cups of rice until they popped off. One sucker held 3 cups and four suckers held 11 cups. What does that show about a starfish's tube feet?  
+10. (mcq) Remember the Many Small Suckers experiment? You hung a bag from rubber suckers on a tile and added cups of rice until they popped off. In one family's test, one sucker held 3 cups and four suckers held 11 cups. What does that show about a starfish's tube feet?  
    Options: Small grips add up to a strong hold / Only one tube foot works at a time / Tube feet are made of rubber / More suckers hold less  
    **Answer:** Small grips add up to a strong hold. *Why:* Each tube foot grips only a little, but hundreds of them together hold very tightly. Picking 'only one at a time' would mean four suckers held the same as one, but they held much more.
 11. (mcq) Which of these is NOT an arthropod?  
@@ -782,12 +793,12 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 4. (mcq) Many white stones, like marble, began as something alive. What?  
    Options: Old trees / Shells and skeletons of sea animals, pressed into limestone / Bird bones / Dinosaur eggs  
    **Answer:** Shells and skeletons of sea animals, pressed into limestone. *Why:* Many sea animals build shells from calcium carbonate. Their remains pile up and turn into limestone. Limestone heated and squeezed underground can become marble. Picking 'old trees' mixes it up with coal, which formed from ancient plants.
-5. (write) Charles Darwin spent about 40 years studying earthworms. Why do you think he thought they were so important? Use what you saw in the Bottle Wormery.  
+5. (write) Charles Darwin studied earthworms, on and off, for about 40 years. Why do you think he thought they were so important? Use what you saw in the Bottle Wormery.  
    **Answer:** Worms mix the soil and pull leaves underground. In the wormery the stripes of soil and sand got mixed up and leaves were pulled down. This lets air and water into the soil and makes food for plants.. *Why:* Darwin showed worms slowly turn over huge amounts of soil, burying stones and old buildings.
 6. (mcq) A tardigrade is a tiny invertebrate. What did scientists find when they sent dried tardigrades into space?  
    Options: They all exploded / Many survived and later had babies / They grew backbones / They turned into insects  
    **Answer:** Many survived and later had babies. *Why:* In 2007 dried tardigrades spent days outside a spacecraft. Many came back alive and later laid eggs. They were the first animals known to survive open space. Picking 'grew backbones' is impossible. No animal can grow a backbone in its lifetime.
-7. (mcq) Four suckers held 11 cups of rice, but one sucker held 3. Why might four not hold exactly 12?  
+7. (mcq) In one family's Many Small Suckers test, four suckers held 11 cups of rice, but one sucker held 3. Why might four not hold exactly 12?  
    Options: Suckers get stronger together / Some suckers may be pressed on less well, or pulled at an angle, so they do not share the load equally / Rice gets heavier / The tile got bigger  
    **Answer:** Some suckers may be pressed on less well, or pulled at an angle, so they do not share the load equally. *Why:* In a real test, things are never perfect. One sucker may pop first because it is pulled harder or stuck less well, and then the rest go too. Picking 'stronger together' would give more than 12, not less.
 8. (truefalse) Scientists all agree that crabs and octopuses feel pain exactly as we do.  
@@ -841,9 +852,9 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 8. (mcq) Which of these is NOT an insect?  
    Options: An ant / A mosquito / A spider / A honeybee  
    **Answer:** A spider. *Why:* A spider is an arachnid, with 8 legs. Ants, mosquitoes and bees all have 6 legs.
-9. (mcq) Remember the Water Bones experiment? You laid pairs of plastic bottles under a board and piled books on top: open and empty, capped with air, and capped with water. Why did the capped bottles of water sink the least?  
-   Options: They were the lightest / Water held in tight cannot be squashed, so it pushes back / They had air in them / They were a different colour  
-   **Answer:** Water held in tight cannot be squashed, so it pushes back. *Why:* Water cannot be squashed, and the caps kept it from escaping, so it held the bottles firm. That is how a worm stays firm. Picking 'lightest' is wrong: the water bottles were the heaviest.
+9. (mcq) Remember the Water Bones experiment? You pressed down on pairs of plastic bottles: open and empty, capped with air, and capped with water. You used books, then sat on the board, then squeezed the capped bottles by hand. When you sat on the board, the capped air bottles went down a little, but the capped water bottles hardly moved. Why?  
+   Options: The water bottles were the lightest / Water cannot be squeezed into less space, and the caps held it in / The water bottles had air in them / The water bottles were a different colour  
+   **Answer:** Water cannot be squeezed into less space, and the caps held it in. *Why:* Air can be squeezed a little, so the air bottles gave. Water cannot be squeezed, and the caps kept it in, so it pushed back. That is how the liquid in a worm keeps it firm. Picking 'lightest' is wrong: the water bottles were the heaviest.
 10. (mcq) In a fair test of the paper tubes, what should you keep the same?  
    Options: Nothing, change everything / The paper size and kind, and the way you add books / Only the shape / The person doing it  
    **Answer:** The paper size and kind, and the way you add books. *Why:* In a fair test you change only one thing, the shape, and keep everything else the same. Picking 'only the shape' gets it backwards: the shape is the one thing you change.
@@ -930,7 +941,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 ## Connected maths
 - In the Backbone Census, a family found 4 kinds of animal with a backbone and 9 kinds without. How many more kinds without a backbone did they find? **5 more kinds.**. They found 9 kinds without a backbone and 4 kinds with one. 9 take away 4 is 5. So they found 5 more kinds of invertebrate. You can check: 4 + 5 = 9. (queues `math.addition-subtraction.word-problems.L3`)
 - In the Leg Count Key, you looked at 3 ants and 2 spiders. An ant has 6 legs and a spider has 8. How many legs are there altogether? **34 legs.**. 3 ants have 3 groups of 6 legs. 6 + 6 + 6 = 18. 2 spiders have 2 groups of 8 legs. 8 + 8 = 16. 18 + 16 = 34 legs altogether. (queues `math.multiplication.equal-groups.L3`)
-- In Water Bones, the board sank 5 cm on the open empty bottles, 1 cm on the capped bottles of air, and 0 cm on the capped bottles of water. Put the pairs in order from firmest to softest. Which pair is most like an earthworm, and why? **Capped water (0 cm), then capped air (1 cm), then open and empty (5 cm). The capped water bottles are most like an earthworm.**. The less the board sank, the firmer the pair. 0 is less than 1, and 1 is less than 5. So the order is capped water, capped air, open and empty. An earthworm is like the capped water bottles: liquid held in tight, which cannot be squashed. The air bottles sank a little, because air can be squashed a little. (queues `math.length.standard-units-length.L3`)
+- In Water Bones, under 5 books the board sank 5 cm on the open bottles, half a centimetre on the capped air bottles and 0 cm on the capped water bottles. With a child sitting on it, it sank 1 cm on the capped air bottles and 0 cm on the capped water bottles. Put the three pairs in order from firmest to softest. Which pair is most like an earthworm, and why? **Capped water, then capped air, then open and empty. The capped water bottles are most like an earthworm.**. The less the board sank, the firmer the pair. Under the books, the open bottles sank 5 cm, far more than the others. Half a centimetre is so small that it could be a mistake in reading the ruler. The sitting test is heavier, so it decides: 0 cm is less than 1 cm. So the order is capped water, capped air, open and empty. An earthworm is like the capped water bottles: liquid held in tight, which cannot be squeezed into less space. (queues `math.length.standard-units-length.L3`)
 - In the Many Small Suckers experiment, one sucker held 3 cups of rice. If every sucker held the same, how many cups should 4 suckers hold? **12 cups.**. 4 suckers each holding 3 cups is 4 groups of 3. 3 + 3 + 3 + 3 = 12. So 4 suckers should hold 12 cups. In the made-up results they held 11, a little less, because real suckers do not share the load perfectly. (queues `math.multiplication.equal-groups.L3`)
 - The Bottle Wormery started on a Monday and lasts 14 days. You look on day 1, day 3, day 7, day 10 and day 14. How many days are there between the day 7 look and the day 14 look? **7 days, which is one week.**. Day 14 take away day 7 is 7. So there are 7 days between the two looks. That is one whole week, so the last look is on a Monday too. (queues `math.time.calendar.L3`)
 
