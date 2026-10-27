@@ -19,7 +19,7 @@
   "I can give an example of organs working as a team, like when I run or eat.",
   "I can run a fair test with a model organ, and say what I think, what I saw and why.",
   "I can say what scientists agree about these organs, and what they still do not know, like how the brain makes thoughts.",
-  "I can give surprising examples: one cell doing small versions of every organ's job, an octopus with three hearts, and mini-organs grown in labs."
+  "I can give surprising examples: one cell that uses oxygen, breaks down food and senses on its own, an octopus with three hearts, and mini-organs grown in labs."
  ],
  "cards_mins": 20,
  "terms": [
@@ -128,7 +128,7 @@
   {
    "term": "Digestive juices",
    "meaning": "Liquids your body makes to break food down into tiny pieces. The stomach's juice has a strong acid in it.",
-   "example": "When you smell hot pakoras, your mouth fills with spit. Spit is a digestive juice too.",
+   "example": "When you smell hot pakoras, your mouth fills with saliva, or spit. Saliva is a digestive juice too.",
    "art": "Little droplets falling into a stomach where food pieces are breaking apart."
   },
   {
@@ -162,8 +162,8 @@
   {
    "concept": "The body map: where the four organs live",
    "status": "defined",
-   "definition": "The brain is in your head. The heart and lungs are in your chest, behind the ribs. The stomach is just below the ribs, on the left side of your body.",
-   "description": "Start at the top. Your brain fills the inside of your head, behind your eyes and above your ears. Go down your neck into your chest. Here your two lungs fill most of the space, one on each side. Your heart is tucked between them, in the middle of your chest, tipped a little to the left. Now go down to where your ribs end. Just under the ribs on your left is your stomach. Many people think the stomach is behind the belly button. It is higher than that. Most of the soft belly below it is filled with your intestines.",
+   "definition": "The brain is in your head. The heart and lungs are in your chest, behind the ribs. The stomach is in the upper left of your belly, partly tucked under the lowest ribs.",
+   "description": "Start at the top. Your brain fills the inside of your head, behind your eyes and above your ears. Go down your neck into your chest. Here your two lungs fill most of the space, one on each side. Your heart is tucked between them, in the middle of your chest, tipped a little to the left. Now go down to where your ribs end. Your stomach sits on the left, partly tucked under the lowest ribs. Many people think the stomach is behind the belly button. It is higher than that. Most of the soft belly below it is filled with your intestines.",
    "examples": [
     "Put a hand on the middle of your chest. Your heart is just behind your breastbone, the flat bone in the middle.",
     "Breathe in deeply with your hands on your ribs. You can feel your lungs filling and your ribs lifting out.",
@@ -219,7 +219,7 @@
    "concept": "The brain: the body's message centre",
    "status": "defined",
    "definition": "The brain is a soft organ inside the skull. It receives messages from the body, sends messages back and lets us think, feel, remember and move.",
-   "description": "Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of atta. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of all the energy your body makes, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.",
+   "description": "Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of atta. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of your body's energy, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.",
    "examples": [
     "When a cricket ball flies towards you, your eyes tell your brain and your brain tells your hands to catch it.",
     "When you sleep, your brain keeps you breathing and sorts out what you learned that day.",
@@ -278,7 +278,7 @@
    "examples": [
     "People talk about 'butterflies in the tummy' when they are nervous. The brain and the gut are talking to each other.",
     "In tests, the gut of an animal kept squeezing food along even after it had been cut off from the brain.",
-    "Many feel-good chemicals that the brain uses are also made in the gut."
+    "Most of the body's serotonin, a chemical the brain also uses for mood, is made in the gut."
    ],
    "perspectives": [
     {
@@ -300,7 +300,7 @@
   {
    "concept": "Is the brain where 'you' are?",
    "status": "debated",
-   "description": "Scientists agree the brain is needed for thinking and feeling. If part of the brain is hurt, a person can lose words, memories or even change how they feel. But nobody knows how a lump of nerve cells makes the feeling of being you. People have argued about this for thousands of years. Here are the main ideas.",
+   "description": "Scientists agree the brain is needed for thinking and feeling. If part of the brain is hurt, a person can lose words or memories, or even feel differently. But nobody knows how a lump of nerve cells makes the feeling of being you. People have argued about this for thousands of years. Here are the main ideas.",
    "examples": [
     "People with an artificial heart pump still think, love and laugh as before. That shows the heart is not where thinking happens.",
     "When you dream, your brain makes a whole world that is not really there.",
@@ -341,7 +341,7 @@
    "concept": "How we found out what is inside",
    "status": "defined",
    "definition": "People learned about organs by looking carefully inside bodies, by testing ideas, and later by using X-rays and scanners.",
-   "description": "For thousands of years, nobody could see inside a living body. The ancient Egyptians, when they made mummies, took out the brain and threw it away, but kept the heart in the body. They thought the heart was where a person's thinking lived. The Greek thinker Aristotle thought so too. Other Greek doctors, like Galen, showed that the brain controls the body. In India, the Sushruta Samhita, an old book of surgery, described how to study a body by soaking it and gently peeling it layer by layer. In 1543, Andreas Vesalius printed careful drawings of the inside of the human body, and fixed many old mistakes. In 1895, Wilhelm Röntgen found X-rays, and for the first time doctors could see bones inside a living person. Today, scanners like ultrasound and MRI let doctors see a beating heart and a working brain, without any cutting.",
+   "description": "For thousands of years, nobody could see inside a living body. The ancient Egyptians, when they made mummies, took out the brain and threw it away, but kept the heart in the body. They thought the heart was where a person's thinking lived. The Greek thinker Aristotle thought so too. About 2,300 years ago, Herophilus, a Greek doctor in Alexandria, cut open human bodies and traced the nerves back to the brain. About 450 years later, the Greek doctor Galen, working in Rome, cut nerves in living animals and showed that the brain controls the voice and movement. In India, the Sushruta Samhita, an old book of surgery, told students to soak a body in a stream for seven days, then gently brush away the skin and flesh layer by layer. In 1543, Andreas Vesalius printed careful drawings of the inside of the human body, and fixed many old mistakes. In 1895, Wilhelm Röntgen found X-rays, and for the first time doctors could see bones inside a living person. Today, scanners like ultrasound and MRI let doctors see a beating heart and a working brain, without any cutting.",
    "examples": [
     "A pregnant mother can see her baby's beating heart on an ultrasound screen.",
     "The very first X-ray of a hand was of the hand of Röntgen's wife, Anna Bertha, wearing her ring.",
@@ -416,7 +416,7 @@
    "claim": "The heart is on the left side of the chest.",
    "who": "What most of us learn, from putting a hand on our heart",
    "for": "You feel the beat most strongly on the left.",
-   "against": "The heart is in the middle of the chest, behind the breastbone. Its pointy bottom tips to the left, and that is where the beat feels strongest.",
+   "against": "The heart is in the middle of the chest, behind the breastbone, with about two-thirds of it left of the middle. Its pointy bottom tips to the left, and that is where the beat feels strongest.",
    "status": "rejected",
    "context": "This card is about where the heart really sits."
   },
@@ -439,7 +439,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your heart has beaten every second since before you were born. Who is making it beat? Is it you?",
+   "q": "Your heart has been beating since before you were born. Who is making it beat? Is it you?",
    "kind": "deep",
    "hint": "Can you stop your heart just by deciding to? Can you hold your breath? What is the difference?"
   },
@@ -476,7 +476,7 @@
   {
    "q": "Your brain floats in a liquid inside your skull. Why is a hard skull alone not enough to keep it safe?",
    "kind": "deep",
-   "hint": "Remember the egg in the empty box and the egg in the box full of water."
+   "hint": "Remember the egg test: something soft in an empty box, and something soft in a box full of water."
   },
   {
    "q": "A sponge has no organs, but it is alive. What is the smallest thing that can still be alive?",
@@ -605,8 +605,8 @@
       "I sit in the middle of your chest, tipped a little to the left. Who am I?",
       "I keep you breathing even when you are fast asleep. Who am I?",
       "I churn your food like hands kneading dough. Who am I?",
-      "I have four rooms inside me, but nobody lives there. Who am I?",
-      "Oxygen passes through my millions of tiny air bags into your blood. Who am I?",
+      "I have four chambers, or rooms, inside me, and blood flows through them. Who am I?",
+      "Oxygen passes through my hundreds of millions of tiny air bags into your blood. Who am I?",
       "TEAM CARD: You are running for the bus. Point to the two organs that speed up.",
       "TEAM CARD: You just ate a big lunch. Point to the organ that is stretched wide.",
       "TEAM CARD: You are doing a hard puzzle. Which organ is using a lot of energy?",
@@ -701,7 +701,7 @@
        "Stomach and intestines"
       ],
       "a": 1,
-      "why": "Running muscles need lots of oxygen. So the lungs breathe faster to take in more air, and the heart beats faster to carry it. This is a game moment, so any pick is fine for learning. Picking the stomach usually means remembering that we feel things in the tummy when we run, like a stitch."
+      "why": "Running muscles need lots of oxygen. So the lungs breathe faster to take in more air, and the heart beats faster to carry it. Picking the stomach is a fair guess, because a 'stitch' when running hurts in the side of the belly. But the organs that speed up are the heart and the lungs."
      }
     },
     {
@@ -817,7 +817,7 @@
        "None of them"
       ],
       "a": 0,
-      "why": "The stomach stretches to hold the food, and churns it with its juices. The brain also tells the stomach to get ready, even when you just smell the food. The lungs are not much busier at breakfast. This is a game moment, so any pick is fine for learning."
+      "why": "The stomach stretches to hold the food, and churns it with its juices. The brain also tells the stomach to get ready, even when you just smell the food. The lungs are not much busier at breakfast."
      }
     },
     {
@@ -1003,9 +1003,9 @@
     },
     {
      "t": "truefalse",
-     "p": "In the egg in the box test, the egg in water was safer than the egg in the empty box.",
+     "p": "In the egg in the box test, the egg (or banana) in water was safer than the one in the empty box.",
      "a": true,
-     "why": "True. The water cushioned the egg. The liquid around your brain does the same job.",
+     "why": "True. The water filled the box, so the egg moved with the box and did not crash into its sides. The liquid around your brain does the same job.",
      "how": "e1"
     },
     {
@@ -1094,7 +1094,7 @@
     },
     {
      "t": "mcq",
-     "p": "Why do lungs have millions of tiny air bags instead of one big bag?",
+     "p": "Why do lungs have hundreds of millions of tiny air bags instead of one big bag?",
      "opts": [
       "Tiny bags are easier to grow",
       "Many tiny bags give a huge surface for oxygen to pass into the blood",
@@ -1337,7 +1337,7 @@
      "a": [
       "billion"
      ],
-     "why": "86 billion is about ten times the number of people on Earth. The Brazilian scientist Suzana Herculano-Houzel counted them with a clever method in 2009."
+     "why": "86 billion is about ten times the number of people on Earth. The Brazilian scientist Suzana Herculano-Houzel counted them in 2009. She turned brains into a soup, then counted the cell centres in a few drops."
     },
     {
      "t": "match",
@@ -2562,7 +2562,7 @@
        "A hard cup with something soft or watery inside"
       ],
       "a": 2,
-      "why": "Your head has a hard skull outside, and a cushion of liquid and soft layers inside. Both together protect the brain best. This is a design moment, so any pick helps you think. A hard cup alone lets the egg bang on the inside. Soft cotton alone squashes in a hard fall."
+      "why": "Your head has a hard skull outside, and a cushion of liquid and soft layers inside. Both together protect the brain best. A hard cup alone lets the egg bang on the inside. Soft cotton alone squashes in a hard fall."
      }
     },
     {
@@ -2640,7 +2640,7 @@
        "It holds less air because it is lazy"
       ],
       "a": 1,
-      "why": "The heart is tipped to the left, so the left lung has a dent to make room for it. That is why the left lung is a little smaller. This is a design moment, so any pick helps you think. Organs are not 'lazy'. Their shapes fit together like puzzle pieces."
+      "why": "The heart is tipped to the left, so the left lung has a dent to make room for it. That is why the left lung is a little smaller. Organs are not 'lazy'. Their shapes fit together like puzzle pieces."
      }
     },
     {
