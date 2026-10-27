@@ -10,6 +10,8 @@ W = []
 # lines that read as filler: say what actually happens instead (WRITING.md rule 18)
 STOCK = ("let's finish like real scientists", "let’s finish like real scientists")
 # slogans that fit any unit, so they say nothing about this one (PHILOSOPHY.md)
+# PHILOSOPHY.md "Everything is conscious": never deny a mind to anything
+DENY = re.compile(r"\b(can'?t|cannot|can not|does ?n[o’']t|do ?n[o’']t|never|is not able to) (really )?(think|feel|remember|decide|choose)\b|\bno (feelings|mind|thoughts)\b|\bnot really alive\b|\bjust a machine\b|\bnothing is (wanted|remembered)\b", re.I)
 GENERIC = ("no line between", "everything is connected", "we are all one", "all is one", "you are the world", "doorway, not a wall")
 SMALL = set("a an the and or but of to in on at is are was be it its this that these those as with for from by not no we you your they their our one".split())
 words = lambda t: {w for w in re.findall(r"[a-z]+", t.lower()) if w not in SMALL and len(w) > 2}
@@ -176,6 +178,12 @@ def check(path):
         if not mth.get("why_maths"): P("maths problems need `why_maths`: one plain sentence on why this maths helps with this science")
     if not u["plan"].get("start_options") or not u["plan"].get("default_order"): P("plan needs start_options and default_order")
     plain(u, P)
+    deny = sorted({m.group(0).lower() for m in DENY.finditer(json.dumps(u, ensure_ascii=False))})
+    # a person must read these: "scales can't feel tiny forces" is fine, "a plant can't think" is not
+    if deny: W.append(f"check these don't deny a mind to anything ({', '.join(deny)}): PHILOSOPHY.md 'Everything is conscious'")
+    dt = (u.get("roots") or {}).get("deep_truth", {}).get("truth", "")
+    sens = [x for x in re.split(r"(?<=[.!?])\s+", dt) if x]
+    if len(sens) > 4 or any(len(x.split()) > 20 for x in sens): P("roots.deep_truth: 3-4 short sentences, each under 20 words (PHILOSOPHY.md, 'Simple and direct')")
     if len(u["warmup"]) < 5: P("warmup: 5+ quick questions")
     return e, mins, days
 

@@ -67,7 +67,7 @@ Zoom far into a steel spring. You find atoms in neat rows. Each atom is held to 
 - e.g. Scientists often build models of solids with little balls joined by springs.
 - e.g. Bend a steel spoon a little and it springs back. Bend it hard and it stays bent, because rows of its atoms have slipped.
 - e.g. Heat makes atoms jiggle more on their bonds. That is why a metal rod gets very slightly longer when it is hot.
-- e.g. Some wire, called memory metal, goes back to its old shape when you warm it. Its atoms have two ways of sitting in rows. Warmth moves them back to the first way. Even this 'memory' is only atoms finding a balance.
+- e.g. Some wire, called memory metal, goes back to its old shape when you warm it. Its atoms have two ways of sitting in rows. Warmth moves them back to the first way. Scientists call this shape memory. How a metal can keep a shape and return to it is still a wonder to think about.
 ### A long band is many springs in a row · *defined*
 **Definition:** A long spring stretches more than a short one, because it is like many short springs joined in a row. A thick band stretches less, because it is like many thin bands side by side, sharing the pull.
 
@@ -171,8 +171,8 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
 ## Roots
 We have found that equal pulls give equal stretches, until a spring is pulled too far and stays long. Now we ask what that tells us about the shapes of things, and about ourselves.
 
-**Deep truth.** A spring does not remember its shape. Its shape is only where the pulls between its atoms balance. Pull a little, and those pulls bring it back. Pull too far, and its atoms settle beside new neighbours in a new balance. From then on, that new shape is the one it springs back to.  
-*Habit it breaks:* We talk as if a spring remembers its shape and wants to go back to it. It is as if the shape were stored inside. Nothing is stored and nothing is wanted. The shape is a balance, held from moment to moment by pulls between atoms. So 'springs back' and 'stays bent' are not two kinds of stuff. The same pen spring does both. It depends on how far it is pulled.  
+**Deep truth.** A spring sitting still is not doing nothing. Its tiny particles hold on to each other all the time, and that holding is its shape. Pull gently, and they pull back together. Pull too hard, and they let go and hold on to new neighbours.  
+*Habit it breaks:* We think a still thing is doing nothing. But a spring keeps its shape only because its particles keep holding on, every moment. When you pull, they pull back. Stillness is busy.  
 *Evidence:* In the coin test, each 5 coins added about the same stretch. The band came back when the coins came out. The pen spring came back from small pulls. After a big pull it rested at a new, longer length. From then on it sprang back to that new length.
 
 - *who am i:* Your shape is held by pulls too. Your tendons, skin and bones stretch a little with every step, and bring you back.
@@ -193,7 +193,7 @@ A spring at rest looks as if nothing is happening in it. In fact it is full of p
 - Ask: How could anyone tell that a still rock, or a still bridge, is close to its limit?
 
 ## Deep and big questions
-- *deep:* A rubber band seems to 'remember' its shape. Does it really remember anything? What is happening instead? (hint: Think of each atom resting where the pulls from its neighbours balance.)
+- *deep:* A rubber band always goes back to its shape. Some people say it remembers. Others say its particles just pull back together. What do you think, and why? (hint: Think of each atom resting where the pulls from its neighbours balance.)
 - *deep:* Why should equal handfuls of coins give equal steps of stretch? What would have to be true inside the band? (hint: Think of each bond as a tiny spring. What if each tiny spring pulls back a little harder for each bit it is stretched?)
 - *deep:* Is anything completely stiff? Does a brick stretch even a tiny bit when you stand on it? (hint: Hooke saw a long wire stretch when a short one seemed not to. How could you show a brick bending?)
 - *deep:* When you stretch a catapult, where is the energy while you are holding it? Where does it go after you let go? (hint: Think of the atoms pulled out of their resting places, and then the flying paper ball.)
@@ -864,8 +864,8 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
    Options: About twice as far / About half as far / The same  
    **Answer:** About twice as far. *Why:* Each band in the chain carries all the coins. So each stretches as much as one band, and the stretches add up. Picking 'half' mixes it up with two bands side by side, which share the pull.
 13. (mcq) A pen spring was pulled too far. Now it rests at a longer length. What happened inside it?  
-   Options: Rows of atoms slipped, and each atom settled beside new neighbours / It remembers being stretched / Some of its atoms were used up  
-   **Answer:** Rows of atoms slipped, and each atom settled beside new neighbours. *Why:* Past the elastic limit, rows of atoms slip and rest in a new balance. So the spring has a new length. Picking 'remembers' gives the spring a mind. Nothing is remembered. The atoms simply moved. Picking 'used up' is a common guess, but atoms are not lost.
+   Options: Rows of atoms slipped, and each atom settled beside new neighbours / Some of the metal leaked out / Some of its atoms were used up  
+   **Answer:** Rows of atoms slipped, and each atom settled beside new neighbours. *Why:* Past the limit, rows of particles slip and settle in new places. So the spring has a new length. Nothing leaked out. Every particle is still there, just in a new place.
 14. (mcq) What happens in an earthquake?  
    Options: Bent rock underground suddenly slips and springs back / The Earth gets bigger / Heavy buildings sink  
    **Answer:** Bent rock underground suddenly slips and springs back. *Why:* Rock bends slowly for years, then slips. Picking 'buildings sink' mixes up the cause with the damage.

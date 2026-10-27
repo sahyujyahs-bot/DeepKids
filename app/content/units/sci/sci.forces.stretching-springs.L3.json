@@ -245,7 +245,7 @@
     "Scientists often build models of solids with little balls joined by springs.",
     "Bend a steel spoon a little and it springs back. Bend it hard and it stays bent, because rows of its atoms have slipped.",
     "Heat makes atoms jiggle more on their bonds. That is why a metal rod gets very slightly longer when it is hot.",
-    "Some wire, called memory metal, goes back to its old shape when you warm it. Its atoms have two ways of sitting in rows. Warmth moves them back to the first way. Even this 'memory' is only atoms finding a balance."
+    "Some wire, called memory metal, goes back to its old shape when you warm it. Its atoms have two ways of sitting in rows. Warmth moves them back to the first way. Scientists call this shape memory. How a metal can keep a shape and return to it is still a wonder to think about."
    ],
    "perspectives": [],
    "art": "A zoom in four steps: a pen spring; the wire; rows of atoms held by small arrows that balance; one row slipped along, each atom beside new neighbours.",
@@ -516,7 +516,7 @@
  ],
  "big_questions": [
   {
-   "q": "A rubber band seems to 'remember' its shape. Does it really remember anything? What is happening instead?",
+   "q": "A rubber band always goes back to its shape. Some people say it remembers. Others say its particles just pull back together. What do you think, and why?",
    "kind": "deep",
    "hint": "Think of each atom resting where the pulls from its neighbours balance."
   },
@@ -3578,11 +3578,11 @@
    "p": "A pen spring was pulled too far. Now it rests at a longer length. What happened inside it?",
    "opts": [
     "Rows of atoms slipped, and each atom settled beside new neighbours",
-    "It remembers being stretched",
+    "Some of the metal leaked out",
     "Some of its atoms were used up"
    ],
    "a": 0,
-   "why": "Past the elastic limit, rows of atoms slip and rest in a new balance. So the spring has a new length. Picking 'remembers' gives the spring a mind. Nothing is remembered. The atoms simply moved. Picking 'used up' is a common guess, but atoms are not lost.",
+   "why": "Past the limit, rows of particles slip and settle in new places. So the spring has a new length. Nothing leaked out. Every particle is still there, just in a new place.",
    "outcome": 5,
    "how": "e1"
   },
@@ -4322,8 +4322,8 @@
  "roots": {
   "context": "We have found that equal pulls give equal stretches, until a spring is pulled too far and stays long. Now we ask what that tells us about the shapes of things, and about ourselves.",
   "deep_truth": {
-   "truth": "A spring does not remember its shape. Its shape is only where the pulls between its atoms balance. Pull a little, and those pulls bring it back. Pull too far, and its atoms settle beside new neighbours in a new balance. From then on, that new shape is the one it springs back to.",
-   "habit": "We talk as if a spring remembers its shape and wants to go back to it. It is as if the shape were stored inside. Nothing is stored and nothing is wanted. The shape is a balance, held from moment to moment by pulls between atoms. So 'springs back' and 'stays bent' are not two kinds of stuff. The same pen spring does both. It depends on how far it is pulled.",
+   "truth": "A spring sitting still is not doing nothing. Its tiny particles hold on to each other all the time, and that holding is its shape. Pull gently, and they pull back together. Pull too hard, and they let go and hold on to new neighbours.",
+   "habit": "We think a still thing is doing nothing. But a spring keeps its shape only because its particles keep holding on, every moment. When you pull, they pull back. Stillness is busy.",
    "evidence": "In the coin test, each 5 coins added about the same stretch. The band came back when the coins came out. The pen spring came back from small pulls. After a big pull it rested at a new, longer length. From then on it sprang back to that new length."
   },
   "three": {

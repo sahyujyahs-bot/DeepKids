@@ -3710,6 +3710,94 @@
      "caption": "3. Hang it and add coins. Can it hold 100?"
     }
    ]
+  },
+  {
+   "id": "c3",
+   "title": "Find the Crack Before It Grows",
+   "mins": 25,
+   "context": "This is an engineering puzzle. A tiny crack can break a strong thing. How do engineers keep aeroplanes safe from cracks?",
+   "problem": "An aeroplane is made of strong metal. But every flight bends its parts a little, and a tiny crack can start and slowly grow. Engineers must find cracks long before they are dangerous, even cracks too small to see. How would you do it?",
+   "constraints": [
+    "You cannot break the part to look inside it.",
+    "The crack may be smaller than a hair.",
+    "Each check must be quick, because planes fly every day."
+   ],
+   "materials": [
+    "an old cracked cup or plate, and a whole one",
+    "a spoon",
+    "a little ink or turmeric water, and a cloth",
+    "a magnifying glass, if you have one"
+   ],
+   "general": [
+    "Look closely with eyes and a magnifying glass, on a fixed timetable.",
+    "Tap the part and listen. A cracked part sounds dull, like the cracked cup.",
+    "Paint on a coloured dye, wipe it off, and look. The dye stays in the crack and shows it as a dark line.",
+    "Send sound waves into the metal. A crack sends back an echo, like a doctor's scan of a baby.",
+    "Take an X-ray of the part, like an X-ray of a bone."
+   ],
+   "creative": [
+    "Give windows and holes round corners, because cracks start at sharp corners. In 1954, two Comet airliners broke up in the air, and investigators traced the cause to cracks that grew from corners. Since then, plane windows have had round corners.",
+    "Add crack-stopper strips, so a crack that starts runs into a wall and stops.",
+    "Replace parts after a set number of flights, before cracks are likely.",
+    "Design every part so a crack grows slowly, and check often enough to catch it while it is still small."
+   ],
+   "your_turn": "Invent your own way to find a hidden crack in something at home, like a cup, a bat or a chair. Draw it, try it, and explain how it works.",
+   "setup": [
+    {
+     "art": "A child tapping a whole steel-rimmed cup and a cracked cup with a spoon, listening closely.",
+     "caption": "1. Tap a whole cup and a cracked cup. Listen."
+    },
+    {
+     "art": "A child rubbing turmeric water over a cracked plate with a cloth, then wiping it off, a thin yellow line showing along the crack.",
+     "caption": "2. Rub on turmeric water, wipe it off, and look for a line."
+    },
+    {
+     "art": "An engineer in a hangar holding a small probe against an aeroplane wing, a screen beside her showing an echo.",
+     "caption": "3. See how engineers check a real plane."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "say": "A plane bends a little on every flight. A tiny crack can start and slowly grow. How could engineers find it before it is dangerous? Guess first, and say why.",
+     "kid": "A plane can get tiny cracks. How would you find them? Guess, and say why.",
+     "context": "This is the first step of the Find the Crack Before It Grows puzzle."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Tap the whole cup with a spoon. 2. Tap the cracked cup the same way. 3. Ask which sounds different.",
+     "say": "Let's try one idea. Tap both cups the same way. What do you hear? Why might they sound different?",
+     "kid": "Tap both cups with a spoon. Which one sounds dull? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "The cracked cup sounds dull. Why?",
+      "options": [
+       "The crack stops the cup ringing like one whole piece",
+       "The cracked cup is heavier",
+       "The spoon was different"
+      ],
+      "a": 0,
+      "why": "A whole cup rings like one piece. A crack breaks the ring, so the sound dies quickly. Railway workers once tapped train wheels with hammers for this reason. Picking 'heavier' is a common guess, but a crack adds no weight."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "adult": true,
+     "do": "1. Rub a little turmeric water or ink over the cracked plate. 2. Wait one minute. 3. Wipe the surface clean with a damp cloth. 4. Look closely, with a magnifying glass if you have one.",
+     "say": "Now a second idea. The colour gets into the crack. When we wipe the top clean, the colour stays inside. What do you see?",
+     "kid": "Rub on the colour. Wait a minute. Wipe it off. Can you see a line?"
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "say": "Now read how engineers really do it, and the creative ideas. Which of your guesses were close? Can you invent a better way?",
+     "kid": "Read how engineers do it. Which of your ideas were close?",
+     "think": "Why do you think plane windows have round corners, not sharp ones?"
+    }
+   ]
   }
  ],
  "videos": [
@@ -4640,6 +4728,7 @@
    "c1",
    "a6",
    "c2",
+   "c3",
    "big_questions",
    "ws-challenge",
    "open_questions"
@@ -4667,9 +4756,9 @@
  "roots": {
   "context": "We have been testing cloths, paper and hair until rain got through or something tore. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Each piece of a material gives way at its own weakest spot. So no test tells you exactly what the next piece will hold. It tells you how pieces like it usually behave, and how weak the weakest ones were.",
-   "habit": "We talk about 'the strength of paper' as if it were one number that every strip shares, so one good test would settle it. But each strip tears at its own weakest spot. So 'the strength of paper' is really a spread of results. For safety, the weakest result matters most.",
-   "evidence": "In the width test, same-size strips from one napkin held different numbers of coins and tore in different places. A strip with one small cut tore at the cut. In the towel-strip maths problem, the middle value was 58 coins, but one strip tore at 40. In 1920, Alan Arnold Griffith found that thin glass threads were many times stronger for their size than thick rods. They had room for fewer hidden cracks."
+   "truth": "However strong a material is, one small crack can grow and break it. A thing is only as strong as its weakest crack. So engineers hunt for tiny cracks before they grow.",
+   "habit": "We think strength lives in the stuff: steel is strong and glass is weak. But a strong thing with a crack can break easily, and a thin glass thread with no cracks is very strong. Strength depends on the cracks too.",
+   "evidence": "In the strip test, a strip with one small 5 mm cut tore at the cut and held fewer coins. In 1920, Alan Arnold Griffith found that very thin glass threads were many times stronger for their size than thick rods, because they had fewer hidden cracks."
   },
   "three": {
    "who_am_i": "Your bones are not equally strong all through either. Every day your body finds tiny cracks in them and rebuilds those spots.",

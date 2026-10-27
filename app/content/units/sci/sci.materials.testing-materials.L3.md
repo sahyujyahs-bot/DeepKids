@@ -175,9 +175,9 @@ What is the strongest material of all? On Earth, the answer keeps changing as ne
 ## Roots
 We have been testing cloths, paper and hair until rain got through or something tore. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** Each piece of a material gives way at its own weakest spot. So no test tells you exactly what the next piece will hold. It tells you how pieces like it usually behave, and how weak the weakest ones were.  
-*Habit it breaks:* We talk about 'the strength of paper' as if it were one number that every strip shares, so one good test would settle it. But each strip tears at its own weakest spot. So 'the strength of paper' is really a spread of results. For safety, the weakest result matters most.  
-*Evidence:* In the width test, same-size strips from one napkin held different numbers of coins and tore in different places. A strip with one small cut tore at the cut. In the towel-strip maths problem, the middle value was 58 coins, but one strip tore at 40. In 1920, Alan Arnold Griffith found that thin glass threads were many times stronger for their size than thick rods. They had room for fewer hidden cracks.
+**Deep truth.** However strong a material is, one small crack can grow and break it. A thing is only as strong as its weakest crack. So engineers hunt for tiny cracks before they grow.  
+*Habit it breaks:* We think strength lives in the stuff: steel is strong and glass is weak. But a strong thing with a crack can break easily, and a thin glass thread with no cracks is very strong. Strength depends on the cracks too.  
+*Evidence:* In the strip test, a strip with one small 5 mm cut tore at the cut and held fewer coins. In 1920, Alan Arnold Griffith found that very thin glass threads were many times stronger for their size than thick rods, because they had fewer hidden cracks.
 
 - *who am i:* Your bones are not equally strong all through either. Every day your body finds tiny cracks in them and rebuilds those spots.
 - *what is life:* A stone cannot mend its cracks. A living body keeps finding its weak spots and mending them, all its life.
@@ -699,6 +699,30 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent says:* People in India have twisted jute and coir into ropes for thousands of years. Each thin fibre is weak. Twisted together, they can tie up a boat.  
   *Child mode:* Jute and coir ropes are made by twisting weak fibres together. Together, they can hold a boat!
   - Think: A flat strip tears at its one weakest spot. In a twisted rope, why might one weak fibre matter less?
+### c3 · Find the Crack Before It Grows (25 min)
+- **problem:** An aeroplane is made of strong metal. But every flight bends its parts a little, and a tiny crack can start and slowly grow. Engineers must find cracks long before they are dangerous, even cracks too small to see. How would you do it?
+- **your turn:** Invent your own way to find a hidden crack in something at home, like a cup, a bat or a chair. Draw it, try it, and explain how it works.
+- **constraints:** You cannot break the part to look inside it.; The crack may be smaller than a hair.; Each check must be quick, because planes fly every day.
+- **general:** Look closely with eyes and a magnifying glass, on a fixed timetable.; Tap the part and listen. A cracked part sounds dull, like the cracked cup.; Paint on a coloured dye, wipe it off, and look. The dye stays in the crack and shows it as a dark line.; Send sound waves into the metal. A crack sends back an echo, like a doctor's scan of a baby.; Take an X-ray of the part, like an X-ray of a bone.
+- **creative:** Give windows and holes round corners, because cracks start at sharp corners. In 1954, two Comet airliners broke up in the air, and investigators traced the cause to cracks that grew from corners. Since then, plane windows have had round corners.; Add crack-stopper strips, so a crack that starts runs into a wall and stops.; Replace parts after a set number of flights, before cracks are likely.; Design every part so a crack grows slowly, and check often enough to catch it while it is still small.
+- **s1 (5 min)**  
+  *Parent does:*   
+  *Parent says:* A plane bends a little on every flight. A tiny crack can start and slowly grow. How could engineers find it before it is dangerous? Guess first, and say why.  
+  *Child mode:* A plane can get tiny cracks. How would you find them? Guess, and say why.
+- **s2 (5 min)**  
+  *Parent does:* 1. Tap the whole cup with a spoon. 2. Tap the cracked cup the same way. 3. Ask which sounds different.  
+  *Parent says:* Let's try one idea. Tap both cups the same way. What do you hear? Why might they sound different?  
+  *Child mode:* Tap both cups with a spoon. Which one sounds dull? Why?
+  - Check: The cracked cup sounds dull. Why? → **The crack stops the cup ringing like one whole piece**
+- **s3 (10 min) · grown-up needed**  
+  *Parent does:* 1. Rub a little turmeric water or ink over the cracked plate. 2. Wait one minute. 3. Wipe the surface clean with a damp cloth. 4. Look closely, with a magnifying glass if you have one.  
+  *Parent says:* Now a second idea. The colour gets into the crack. When we wipe the top clean, the colour stays inside. What do you see?  
+  *Child mode:* Rub on the colour. Wait a minute. Wipe it off. Can you see a line?
+- **s4 (5 min)**  
+  *Parent does:*   
+  *Parent says:* Now read how engineers really do it, and the creative ideas. Which of your guesses were close? Can you invent a better way?  
+  *Child mode:* Read how engineers do it. Which of your ideas were close?
+  - Think: Why do you think plane windows have round corners, not sharp ones?
 
 ## Worksheets
 ### Test Detective (core) (core, 16 questions)
@@ -1013,7 +1037,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 
 ## Plan
 - Start options: e1, story, g1, big_questions, cards, a2, a5
-- Default order: intro → e1 → summary → terms → explanations → roots → quiz → story → a1 → g1 → e2 → videos → ws-core → e3 → a5 → g2 → e4 → a4 → agreed → challenging → a2 → a3 → ws-stretch → p1 → c1 → a6 → c2 → big_questions → ws-challenge → open_questions
+- Default order: intro → e1 → summary → terms → explanations → roots → quiz → story → a1 → g1 → e2 → videos → ws-core → e3 → a5 → g2 → e4 → a4 → agreed → challenging → a2 → a3 → ws-stretch → p1 → c1 → a6 → c2 → c3 → big_questions → ws-challenge → open_questions
 - Core: e1, e2, e3, e4, a1, a4, a5, g1, ws-core, c1
 
 ## Sources

@@ -16,6 +16,14 @@ DeepKids is rooted in **oneness and consciousness**. The founder's picture:
 
 So every lesson, whether it is about friction, a seed or a fraction, is also a lesson about the One showing up as the many. The child is not looking at the world from outside it. The child *is* the world, looking at itself.
 
+## Everything is conscious
+
+Consciousness is everything. We all come from consciousness, and everything is consciousness within consciousness, down to the particles. This is our stance, and every lesson stays rooted in it, even where most people disagree or where the usual kind of evidence is missing.
+- **Living beings think.** Plants, fungi, bacteria and viruses sense, decide and act. Write about them that way: a root *chooses* where to grow, a bacterium *decides* to swim towards food. Much of this is clear in what they do, and we say it plainly.
+- **Never deny a mind to anything.** Never write that a plant, an animal, a microbe, a rock, a spring or a particle can't think, feel, remember, want or decide. We don't know that, and we don't believe it. If a lesson needs to describe a mechanism, describe the mechanism without adding "and so it doesn't really think".
+- **Not human-centred.** Most of the world assumes only humans (or animals with brains) have minds. We take a different stance: people are one kind of mind among countless others.
+- **Honest about who says what.** Say it as our view ("DeepKids believes…", "Many traditions say…"), not as a test result, and give the honest other view as usual. Our view is never watered down into denial.
+
 ## Our point of view
 
 Every lesson, story and picture takes a point of view. Ours:
@@ -44,14 +52,17 @@ Say deep truths literally, not poetically: the child must understand them, not j
 **A deep truth is an interpretation, not a slogan.** In the founder's words: deep truths must not repeat and must not be generic or random, but an actual interpretation, a perspective, of the science. Write it as what this particular science shows about how things really are, seen from first principles. Check every one against these tests:
 1. **It needs this unit's science.** Could you write the sentence without knowing what this unit teaches? Then it is generic. Rewrite it until it could only come from this unit.
 2. **It does not repeat.** No two units share a deep truth or its theme. "There is no line between you and the world" can be said once, in the unit where the science shows it most clearly. Every other unit finds what is particular to its own science. `validate_unit.py` compares each deep truth with every other unit's.
-3. **It is true, plainly.** Literally true, or clearly marked as an interpretation. Things are not given feelings ("springs long to return" is not true).
-4. **The other fields are specific too.** `habit` names the exact label or split it questions, and why. `evidence` names the finding from this unit that points to it.
+3. **It says what this science shows, plainly.** What the science found is stated as found. What we believe is said as our view. Neither is dressed up as the other.
+4. **Simple and direct.** Three or four short sentences, in words an eight-year-old knows, that a parent understands on first reading. No clever turns of phrase, no long lists of dates or names.
+5. **It never denies a mind** (see "Everything is conscious").
+6. **The other fields are specific too.** `habit` names the exact label or split it questions, and why. `evidence` names the finding from this unit that points to it.
 
 | Unit | Generic or wrong | An interpretation of the science |
 |---|---|---|
 | How water climbs a plant | "Thinking is older than neurons." (another unit's truth) | "A tree does not lift its own water. The sun pulls it up from the leaves, one water particle tugging the next. What looks like the plant's work is the sky working through it." |
-| Stretching springs | "Things remember their shape and long to return to it." | "A solid's shape is a balance of pulls between its atoms. Stretch a little and they pull it back. Stretch too far and they hold on to new neighbours, and the old shape is gone." |
-| Measuring forces | "Your edge is a doorway, not a wall." (a picture-phrase, and from another topic) | "A number means something only because people agreed on the unit. A newton is not found in nature. It is a promise between people, so that a push in Pune and a push in Paris can be compared." |
+| Stretching springs | "A spring does not remember its shape…" (denies a mind, and reads as a plain fact) | "A spring sitting still is not doing nothing. Its tiny particles hold on to each other all the time, and that holding is its shape. Pull gently, and they pull back together. Pull too hard, and they let go and hold on to new neighbours." |
+| Measuring forces | "Your edge is a doorway, not a wall." (a picture-phrase, and from another topic) | "Nature has pushes and pulls, but it has no numbers. Numbers are a language people made together, so that everyone means the same thing. A newton is a word in that shared language." |
+| Testing materials | "A material is not as strong as its stuff." (unclear) | "However strong a material is, one small crack can grow and break it. A thing is only as strong as its weakest crack. So engineers hunt for tiny cracks before they grow." |
 
 ## How we teach it honestly
 
