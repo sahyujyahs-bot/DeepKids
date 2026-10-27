@@ -1,7 +1,7 @@
-# Weight and mass: why things feel heavy, and what a scale measures
+# Weight and mass: what a scale really measures
 `sci.gravity.weight-and-mass.L3`
 
-**Summary.** A bottle of water with holes in it stops leaking while it falls, though gravity still pulls it. Weight is the pull of gravity on a thing, measured in newtons, and mass is how much matter it has, measured in kilograms. On Earth, each kilogram weighs about 10 newtons. We cannot sense gravity itself, only the push of the floor, a chair or water holding us up. So we feel heavier or lighter in a lift, in water or while falling, and astronauts float, though gravity has not changed.
+**Summary.** A bottle of water with holes in it stops leaking while it falls, though gravity still pulls it. Weight is the pull of gravity on a thing, measured in newtons. Mass is how much matter it has, measured in kilograms. We cannot sense gravity itself, only the push of the floor, a chair or water holding us up. So in a lift, in water or while falling we feel heavier or lighter, though gravity is the same.
 
 **Intro.** *Hold a full water bottle on your flat palm and feel it press down. Now let it drop onto a cushion. While it was falling, nothing was holding it up. Was it still heavy?* In 1907, Albert Einstein worked in an office in Bern, a city in Switzerland, checking other people's inventions. One day he had a sudden thought. A person falling freely from a roof would not feel their own weight. Years later, he called it the happiest thought of his life. Why would falling make weight disappear, and is the weight really gone? You will drop a leaking bottle of water to find out.
 
@@ -9,7 +9,7 @@
 0. I can say that weight is the pull of gravity on a thing, measured in newtons. I can say that mass is how much matter a thing has, measured in kilograms.
 1. I can weigh things with a forcemeter. I hang the thing, wait until it is still, read the scale at eye level and write the unit. I can find the pattern: about 10 newtons for every kilogram on Earth.
 2. I can explain that a scale or a forcemeter shows how hard it is holding a thing up. I can say that floors, chairs and water push back on us.
-3. I can tell apart my weight, which is gravity's pull on me, from what a scale shows and what I feel, which both come from the push holding me up. I can say which of them change in water, in a lift and while falling.
+3. I can tell apart my weight, which is gravity's pull on me, from what a scale shows. I can say that the scale's number and my feeling of weight both come from the push holding me up. I can say which of them change in water, in a lift and while falling.
 4. I can explain why astronauts float in the space station, even though gravity there is almost as strong as on the ground.
 5. I can explain that weight changes from world to world but mass does not. I can say that mass is a form of energy.
 6. I can say what scientists agree about weight and mass, and what they still do not know.
@@ -17,31 +17,31 @@
 ## Terms
 - **Gravity**: The force by which everything attracts everything else. Attract means pull towards. Big things like the Earth attract very strongly. Small things attract too, but far too weakly to notice. *e.g.* Gravity pulls a mango down from the tree. It also holds the Moon near the Earth.
 - **Weight**: The pull of gravity on a thing. Weight is a force, so scientists measure it in newtons. *e.g.* A 1 kilogram packet of atta has a weight of about 10 newtons on Earth.
-- **Mass**: How much matter a thing has. Matter is what things are made of: rice, water, air and you. Mass is measured in grams and kilograms. Your mass is the same everywhere, on Earth, on the Moon or in space. *e.g.* A 1 kilogram bag of rice has the same rice in it on the Moon.
-- **Kilogram (kg)**: The unit for measuring mass. 1 kilogram is 1,000 grams. The short way to write it is kg. *e.g.* A litre bottle full of water has a mass of about 1 kilogram.
+- **Mass**: How much matter a thing has. Matter is what things are made of: rice, water, air and you. Mass is measured in grams and kilograms. Your mass is the same everywhere, on Earth, on the Moon or in space. *e.g.* A 1 kilogram bag of rice is still 1 kilogram of rice on the Moon. Not one grain is lost.
+- **Kilogram (kg)**: The unit for measuring mass. 1 kilogram is 1,000 grams. The short way to write it is kg. *e.g.* The water in a full one-litre bottle has a mass of about 1 kilogram.
 - **Newton (N)**: The unit for measuring force, and so for measuring weight. It is named after the scientist Isaac Newton. The short way to write it is N. *e.g.* A small apple has a weight of about 1 newton.
 - **Forcemeter**: A tool that measures pushes and pulls. Inside is a spring. You hang a thing on its hook, and a pointer shows its weight in newtons. It is also called a newton meter or a spring balance. *e.g.* Hang a bag of dal on a forcemeter. The pointer shows how hard the Earth pulls it.
 - **Support force (normal force)**: The push from a floor, chair, bed or anything you rest on. It pushes back up as hard as you press down, so you do not sink in. Scientists call it the normal force. *e.g.* The floor is pushing up on your feet right now.
 - **Upthrust**: The push of water, or air, up on a thing that is in it. It makes things feel lighter in water. *e.g.* A heavy stone feels lighter when you lift it under water, in a bucket.
-- **Scale**: A tool for weighing. A bathroom scale measures how hard you press down on it. It shows the answer as kilograms, worked out for the Earth's pull. A forcemeter is a hanging scale. *e.g.* You stand on a bathroom scale at the doctor's clinic.
+- **Scale**: A tool for weighing. A bathroom scale measures how hard you press down on it. It turns that push into kilograms, using the Earth's pull. A forcemeter is a hanging scale. *e.g.* You stand on a bathroom scale at the doctor's clinic.
 - **Lift (elevator)**: A small room that carries people up and down a tall building. In some countries it is called an elevator. *e.g.* The lift in a hospital or a block of flats.
 - **Free fall**: Falling with nothing holding you up, and almost no air slowing you. Things in free fall feel weightless. *e.g.* From the moment your feet leave the ground in a jump until you land, you are in free fall.
-- **Weightless**: When nothing pushes on you to hold you up, so you have no feeling of weight. Gravity is still pulling. There is just nothing pressing back on you. *e.g.* Astronauts in the space station float about, weightless.
-- **Space station**: A big home for astronauts that goes round and round the Earth, high above the air. The International Space Station goes round about 15 times a day. *e.g.* You can sometimes see the International Space Station from India, as a bright dot moving fast across the night sky.
-- **Orbit**: The path of something that keeps falling round another thing and keeps missing it. *e.g.* The Moon is in orbit round the Earth. The Earth is in orbit round the Sun.
+- **Weightless**: Having no feeling of weight, because nothing pushes on you to hold you up. Gravity is still pulling. There is just nothing pressing back on you. *e.g.* Astronauts in the space station float about, weightless.
+- **Space station**: A big home for astronauts that goes round and round the Earth, above almost all of the air. The International Space Station goes round about 15 times a day. *e.g.* You can sometimes see the International Space Station from India, as a bright dot moving fast across the night sky.
+- **Orbit**: The path of something that keeps falling towards another thing, but moves sideways so fast that it keeps missing it. *e.g.* The Moon is in orbit round the Earth. The Earth is in orbit round the Sun.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope. *e.g.* Your body, the floor and the air are all made of atoms.
 - **Electron**: An even tinier particle on the outside of every atom. Electrons repel other electrons, which means they push each other away. That push is what stops your feet sinking into the floor. *e.g.* When you press on a wall, the electrons of your hand and of the wall repel each other.
 - **Energy**: What it takes to make something move, warm up or change. Energy never disappears. It only changes from one kind into another. *e.g.* Food gives you energy to run. The Sun's light carries energy to the Earth.
 - **Black hole**: A place in space where a huge amount of mass is squeezed into a tiny space. Its gravity is so strong that not even light can get out. *e.g.* There is a giant black hole at the centre of our galaxy, the Milky Way.
 - **Gurutva**: An old Sanskrit word for heaviness. Indian thinkers used it to explain why things fall. It comes from 'guru', which means heavy. *e.g.* Brahmagupta, an Indian astronomer, is reported to have written in 628 CE that the Earth attracts things towards it.
-- **Gravitas**: A Latin word for 'weight' in a person. It means a calm, serious way of being that makes people listen. It comes from 'gravis', which means heavy. *e.g.* A good teacher can quiet a noisy class just by standing still. People say she has gravitas.
+- **Gravitas**: A Latin word meaning heaviness. Said of a person, it means a calm, serious way of being that makes people listen. It comes from 'gravis', which means heavy. *e.g.* A good teacher can quiet a noisy class just by standing still. People say she has gravitas.
 - **Dark matter**: Matter in space that we cannot see, but whose gravity we can measure. Scientists think there is about five times more of it than of ordinary matter. *e.g.* Stars at the edges of galaxies move too fast. Something unseen must be pulling them.
 
 ## Explanations
 ### Weight is the pull of gravity · *defined*
 **Definition:** Weight is the pull of the Earth's gravity on a thing. It is a force, so it is measured in newtons.
 
-Gravity is the force by which everything attracts everything else. The Earth is enormous, so its pull is strong. It pulls on every part of you, all the time, towards its centre. Add up the pull on all of you, and you get your weight. So 'down' is not the same direction everywhere. For a child in Brazil, far round the Earth from India, down points almost the opposite way. It still points to the centre of the Earth. The unit called Forcemeters and newtons shows how the measuring tool works. This unit is about what it measures.
+Gravity is the force by which everything attracts everything else. The Earth is enormous, so its pull is strong. It pulls on every part of you, all the time, towards its centre. Add up the pull on all of you, and you get your weight. Because the pull is towards the centre, 'down' is not the same direction everywhere. For a child in Brazil, far round the Earth from India, down points a very different way. It still points to the centre of the Earth. The unit on measuring forces shows how a forcemeter works. This unit is about what it measures.
 - e.g. A mango drops from a tree because the Earth pulls it.
 - e.g. A heavy school bag pulls down on your shoulders.
 - e.g. A plumb line, a stone on a string, always hangs straight down, towards the centre of the Earth. Builders use one to make walls straight.
@@ -55,7 +55,7 @@ A forcemeter does not measure gravity directly. It measures the pull on its spri
 ### Mass and weight are not the same · *defined*
 **Definition:** Mass is how much matter a thing has. Weight is how hard gravity pulls on that matter. Mass is measured in kilograms. Weight is measured in newtons.
 
-In everyday talk, we say 'this bag weighs 2 kilos'. Shopkeepers say it, and that is fine. But scientists use two different words. The kilograms tell us how much rice is in the bag. That is its mass. The pull of the Earth on that rice is its weight. Take the bag to the Moon. Not a single grain of rice is lost. So the mass is the same. But the Moon pulls much more weakly. So the weight is about one sixth as big. The next Weight and mass unit, in Class 5, explores this on other planets.
+In everyday talk, we say 'this bag weighs 2 kilos'. Shopkeepers say it, and that is fine. But scientists use two different words. The kilograms tell us how much rice is in the bag. That is its mass. The pull of the Earth on that rice is its weight. Take the bag to the Moon. Not a single grain of rice is lost. So the mass is the same. But the Moon pulls much more weakly. So the weight is about one sixth as big. A later card in this unit shows what you would weigh on other planets.
 - e.g. A kilogram of cotton and a kilogram of iron have the same mass. On Earth, they also have the same weight. The cotton just takes up much more space.
 - e.g. An astronaut's mass is the same on the Moon. Her weight there is about one sixth of her weight on Earth.
 - e.g. If you eat a big lunch, your mass goes up a little, by the mass of the lunch.
@@ -76,8 +76,8 @@ Most of the time, all three are the same. Stand still on a bathroom scale on the
 ### Lighter in water · *defined*
 **Definition:** Water pushes up on anything that is in it. This upward push is called upthrust. It makes things seem lighter in water, though gravity pulls them just as hard.
 
-Hang a stone from a forcemeter. Then lower it into a bucket of water. The reading drops. Has the stone lost any of its mass? No. Lift it out and the reading goes back. Has gravity got weaker? No. The water is pushing up on the stone, so the spring has less to hold. The more of the stone that goes under the water, the bigger the push. This was worked out more than 2,200 years ago, by Archimedes, a thinker in Syracuse, a Greek city on the island of Sicily. In a pool, the same thing happens to you. If you breathe in and spread out, the water's push can hold up nearly all of your weight. That is floating.
-- e.g. A bucket of water feels much heavier once you lift it out of the well than while it is still under the water.
+Hang a stone from a forcemeter. Then lower it into a bucket of water. The reading drops. Has the stone lost any of its mass? No. Lift it out and the reading goes back. Has gravity got weaker? No. The water is pushing up on the stone, so the spring has less to hold. The more of the stone that goes under the water, the bigger the push. This was worked out more than 2,200 years ago, by Archimedes, a thinker in Syracuse, a Greek city on the island of Sicily. In a pool, the same thing happens to you. If you breathe in and spread out, the water's push can hold up all of your weight. That is floating.
+- e.g. A full mug feels much heavier once you lift it out of a bucket of water than while it is still under the water.
 - e.g. A big stone is easy to lift under water in a river, and suddenly heavy as it comes out.
 - e.g. Huge whales can grow so big because the sea holds up their weight.
 ### Heavier and lighter in a lift · *defined*
@@ -91,16 +91,16 @@ Gravity pulls on you just the same all through a lift ride. What changes is the 
 **Definition:** When something falls freely, nothing holds it up. So it feels no weight, and a scale under it would read zero. Gravity is still pulling it. This is called free fall.
 
 Hold a forcemeter with a weight hanging from it, then drop the whole thing onto a pillow. While it falls, the spring goes slack and the reading drops to zero. The weight and the forcemeter fall together, so the spring has nothing to hold. Poke holes near the bottom of a bottle of water and the water squirts out. Drop the bottle, and the squirting stops. The water and the bottle fall together, so the water no longer presses on the bottle. In 1907, Albert Einstein imagined a person falling from a roof. He realised they would feel no weight at all. He later called it the happiest thought of his life. It led him to a whole new picture of gravity.
-- e.g. The tummy-floaty feeling at the top of a swing, or when you jump off a wall.
+- e.g. The floaty feeling in your tummy when you jump off a step.
 - e.g. A leaky bottle stops leaking while it falls.
-- e.g. A skydiver jumping out of a plane feels weightless for the first few seconds, before the air pushes back hard.
+- e.g. A diver stepping off a high diving board feels weightless until she reaches the water.
 ### Astronauts float, but gravity is still there · *defined*
 **Definition:** Astronauts float in the International Space Station because they and the station are falling together, all the time. Gravity up there is still about 90 out of every 100 parts as strong as on the ground.
 
 The International Space Station flies about 400 kilometres above the Earth. That is about as far as driving from Chennai to Bengaluru, but straight up. The Earth's gravity there is only a little weaker than on the ground. So why do astronauts float? Because the station is falling. It also moves sideways incredibly fast, about 7.7 kilometres every second. As it falls, the round Earth curves away below it. So it keeps falling, and keeps missing. It goes round the Earth about 15 times every day. Everything inside falls together. Nothing pushes on the astronauts, so they feel weightless. The next unit, on orbits, explains this falling round and missing.
 - e.g. In 2007, Sunita Williams, an astronaut whose father came from Gujarat, ran the Boston Marathon on a treadmill in the space station. Stretchy cords pulled her down onto the treadmill, so her feet had something to push on.
 - e.g. Kalpana Chawla, from Karnal in Haryana, flew in space in 1997. She became the first woman of Indian origin in space.
-- e.g. Astronauts drink from pouches with straws. Water poured from a glass would float away as a wobbly ball.
+- e.g. Astronauts drink from pouches with straws. Water will not pour out of a glass up there. It floats out in wobbly balls.
 ### Your weight on other worlds · *defined*
 **Definition:** How hard a world pulls on you depends on its mass, and on how far you are from its centre. So the same thing weighs more on some worlds and less on others. Its mass stays the same.
 
@@ -131,7 +131,7 @@ Mass does two jobs. It is what gravity pulls on. A big mass gets a big pull. Mas
 ### What is gravity, really? · *debated*
 We can measure weight very well. But what is gravity itself? This is one of the biggest questions in science. Here are the main ideas.
 - e.g. A heavy ball on a stretched bedsheet makes a dip. Marbles rolled nearby curve towards it.
-- e.g. Pulling a friend in tug of war tires you out. The Earth has held the Moon for billions of years without getting tired.
+- e.g. A clock on a high mountain ticks a tiny bit faster than one at sea level. Einstein's picture of gravity predicted this, and very careful clocks show it.
 - **Isaac Newton, an English scientist, in 1687:** Every mass pulls every other mass. The pull is bigger for bigger masses, and smaller when they are further apart. Newton said he did not know how the pull reaches across empty space.
 - **Albert Einstein, a German-born scientist, in 1915:** Nothing is really pulling at all. Mass and energy bend space and time around them, like a heavy ball denting a stretched sheet. Things move along the bend, and that is what we see as falling. This idea has passed every test so far.
 - **Many physicists today:** Einstein's idea works for planets and stars. But it does not fit with quantum physics, the science of the very tiniest things. Some think gravity is carried by a tiny particle called a graviton. Nobody has ever found one. Others think gravity grows out of something deeper. Nobody knows yet.
@@ -141,9 +141,9 @@ Everything has mass. But where does mass come from? Scientists have found part o
 - e.g. In 2012, scientists at a giant machine near Geneva, in Europe, found a new tiny particle called the Higgs boson.
 - **Peter Higgs and others, in 1964, and the scientists of CERN, in 2012:** Space is filled with something invisible called the Higgs field. Tiny particles like electrons and quarks get their own small mass from it. In 2012, the Higgs boson was found at CERN, a laboratory near Geneva. It showed the field is real.
 - **Most physicists:** The Higgs field gives only a small part of your mass. Most of it comes from the energy of quarks moving inside protons and neutrons, and of the strong force that holds them together.
-- **Nobody yet:** Why does each tiny particle have exactly the mass it has? Why is the electron so light? Nobody knows. It is an open question.
+- **An open question:** Why does each tiny particle have exactly the mass it has? Why is the electron so light? Nobody knows. It is an open question.
 ### Living things are built for weight · *debated*
-Every living thing on Earth grew up with gravity pulling on it. Our bones grow strong because they carry our weight every day. In the space station, astronauts' bones get weaker without it. The hip bones can lose about 1 to 1.5 parts in every 100 each month. So astronauts exercise for about two hours every day. Plants know which way is down too. Lay a seedling on its side, and its root bends to grow downwards again. How does a plant feel which way is down? Most scientists have one main idea, but the full answer is still being studied.
+Every living thing on Earth grew up with gravity pulling on it. Our bones grow strong because they carry our weight every day. In the space station, nothing presses on astronauts' bones, so they get weaker. The hip bones can lose about 1 to 1.5 parts in every 100 each month. So astronauts exercise for about two hours every day. Plants know which way is down too. Lay a seedling on its side, and its root bends to grow downwards again. How does a plant feel which way is down? Most scientists have one main idea, but the full answer is still being studied.
 - e.g. Astronauts coming back from months in space often need help to walk at first.
 - e.g. A seed planted upside down still sends its root down and its shoot up.
 - **Gottlieb Haberlandt and Bohumil Němec, two scientists, in 1900, and most scientists today:** Special cells near the root tip hold tiny heavy grains of starch. The grains sink to the bottom of each cell, like sand in a jar of water. The cell feels where they settle, and so it knows which way is down.
@@ -159,15 +159,15 @@ People have wondered about heaviness for thousands of years, in many places. Who
 - **Isaac Newton, in 1687:** Every mass pulls every other mass, with a rule for how strong the pull is. The same pull drops an apple and holds the Moon. Historians agree this mathematical law was new.
 
 ## Mostly agreed
-- Weight is the pull of gravity on a thing. It is a force, measured in newtons. *How we know:* Hang anything on a forcemeter and the spring stretches. Take the same thing to the Moon and the stretch is about one sixth as much. Apollo astronauts carried measuring tools and saw this.
-- Mass stays the same wherever a thing goes. Weight changes with the pull of the place. *How we know:* Moon rocks brought back to Earth had exactly the same mass here. Only their weight changed.
+- Weight is the pull of gravity on a thing. It is a force, measured in newtons. *How we know:* Hang a thing on a forcemeter, and the spring stretches, because gravity pulls the thing down. Twice the mass stretches it twice as far. On the Moon, where the pull is about one sixth as strong, Apollo astronauts in heavy suits hopped about easily.
+- Mass stays the same wherever a thing goes. Weight changes with the pull of the place. *How we know:* A pan balance compares one mass with another, so it gives the same answer on a high mountain or at sea level. A forcemeter measures the pull, so careful ones read very slightly less on a high mountain.
 - A scale measures how hard it pushes to hold a thing up, not gravity directly. *How we know:* The same person gives different readings in a lift, in water and while falling, though the Earth's pull on them hardly changes.
 - Astronauts in the space station float because they are falling, not because gravity has gone. *How we know:* Measurements and sums both agree. The Earth's gravity at the station is about 90 out of every 100 parts as strong as on the ground. If gravity were gone, the station would fly off in a straight line instead of going round the Earth.
 - Mass is a form of energy. *How we know:* Einstein's rule E = mc² has been tested in many ways. In nuclear power stations, the atoms that are left after splitting have slightly less mass than at the start. The missing mass comes out as energy. The Sun shines in a similar way.
 - The Earth's pull is slightly different from place to place. *How we know:* Very sensitive instruments, on the ground and on satellites, measure it everywhere. It is about half a percent weaker at the equator than at the poles.
 
 ## How we found out
-**Jean Richer, a French astronomer, and Isaac Newton, 1672 to 1687, checked in the 1730s.** In the 1600s, people believed that a thing weighs exactly the same everywhere on Earth. Some even hoped to use a swinging pendulum as a measure that every country could share, because it should swing the same everywhere. A pendulum is a weight on a string or a rod, swinging back and forth. In 1672, the French astronomer Jean Richer sailed to Cayenne, in South America, close to the equator. His pendulum clock had kept good time in Paris. In Cayenne it ran slow, losing about two and a half minutes every day. To make it keep time, he had to shorten the pendulum. A pendulum swings more slowly when gravity pulls it more weakly. So the Earth was pulling a little more weakly near the equator. In 1687, Isaac Newton explained why. The Earth spins, so it bulges at the equator, and the spin also flings things outwards a little. Both make things weigh slightly less there. In the 1730s, expeditions to Lapland and to Peru measured the Earth's shape, and showed that Newton was right.  
+**Jean Richer, a French astronomer, and Isaac Newton, 1672 to 1687, checked in the 1730s.** In the 1600s, people believed that a thing weighs exactly the same everywhere on Earth. Some even hoped to use a swinging pendulum as a measure that every country could share, because it should swing the same everywhere. A pendulum is a weight on a string or a rod, swinging back and forth. In 1672, the French astronomer Jean Richer sailed to Cayenne, in South America, close to the equator. His pendulum clock had kept good time in Paris. In Cayenne it ran slow, losing about two and a half minutes every day. To make it keep time, he had to shorten the pendulum. A pendulum swings more slowly when gravity pulls it more weakly. So the Earth was pulling a little more weakly near the equator. In 1687, Isaac Newton explained why. The Earth spins, so it bulges at the equator, and the spin also flings things outwards a little. Both make things weigh slightly less there. From the 1730s, expeditions to Lapland and to Peru measured the Earth's shape, and showed that Newton was right.  
 *What people believed before:* A thing weighs exactly the same everywhere on Earth. Richer's pendulum clock ran slow near the equator, which showed that gravity pulls a little more weakly there.
 
 ## Challenging perspectives
@@ -176,7 +176,7 @@ People have wondered about heaviness for thousands of years, in many places. Who
   Against: The space station is only about 400 kilometres up. The Earth's gravity there is still about 90 out of every 100 parts as strong as on the ground. Gravity keeps the station going round the Earth. Astronauts float because they are falling together with the station.
 - **When you feel lighter, gravity has become weaker.** (A common way of thinking, for example in a pool or a lift; *rejected*)  
   For: We really do feel lighter in water, and when a lift starts going down.  
-  Against: Gravity pulls you just as hard in the pool and in the lift. What changes is the push holding you up. Water pushes up on you. A lift's floor pushes less as it starts down. We only feel gravity through the things that push back on us.
+  Against: Gravity pulls you just as hard in the pool and in the lift. What changes is the push holding you up. Water pushes up on you. A lift's floor pushes less as it starts down. What we feel is never gravity itself, only the things that push back on us.
 - **Saying 'I weigh 30 kilograms' is wrong.** (Some science teachers; *debated*)  
   For: Scientists measure weight in newtons, and mass in kilograms. So strictly, a 30 kilogram child has a weight of about 300 newtons.  
   Against: In everyday life, almost everyone says it, and on Earth it causes no problems. Even the government's weights and measures rules use kilograms for shops. Scientists just need to be careful which one they mean.
@@ -188,7 +188,7 @@ People have wondered about heaviness for thousands of years, in many places. Who
   Against: Nobody recorded the apple hitting his head. People everywhere already knew things fall. Brahmagupta, an Indian astronomer, wrote in 628 CE that the Earth attracts things. Newton's real discovery, in 1687, was the mathematical law. It showed that one pull drops apples and holds the Moon.
 - **Gravity is a force, just like a push or a pull from your hand.** (Isaac Newton's picture, still used in most schoolbooks; *debated*)  
   For: Newton's picture works brilliantly. It is used to send spacecraft to the Moon and Mars, like India's Chandrayaan missions.  
-  Against: Albert Einstein, in 1915, said gravity is not really a pull. Mass bends space and time, and things fall along the bend. A pushing hand gets tired. The Earth never tires of holding the Moon. Both pictures are used. Einstein's is more exact near huge masses.
+  Against: Albert Einstein, in 1915, said gravity is not really a pull. Mass bends space and time, and things fall along the bend. Both pictures are used. Einstein's is more exact near huge masses.
 - **Antimatter might fall upwards.** (Some scientists wondered about this for many years; *rejected*)  
   For: Antimatter is a strange mirror version of ordinary matter. Nobody had ever measured which way it falls.  
   Against: In 2023, scientists at CERN, near Geneva, finally dropped atoms of anti-hydrogen. They fell downwards, like ordinary atoms.
@@ -196,7 +196,7 @@ People have wondered about heaviness for thousands of years, in many places. Who
 ## Roots
 We have found that weight is the pull of gravity, and that a falling bottle stops leaking even though gravity still pulls it. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** A falling bottle of water stops leaking, though the Earth pulls it as hard as ever. Gravity pulls every part of you equally, so your body has no way to sense it. What you feel as heaviness is the floor pushing back on you. So when you feel your weight, you are really feeling the ground.  
+**Deep truth.** A falling bottle stops leaking, though the Earth pulls it as hard as ever. Gravity pulls every part of you along together, so your body has no way to sense it. What you feel as heaviness is the push of whatever holds you up. So when you feel your weight, you are really feeling the ground pushing up.  
 *Habit it breaks:* We think the heavy feeling in our body is gravity itself. But a falling child is pulled just as hard and feels no weight at all. The heaviness was the push of the floor all along.  
 *Evidence:* In the Drop It experiment, the leaking bottle stopped leaking while it fell, and the coins stopped stretching their rubber band. Astronauts, who are falling all the time, feel weightless, though gravity at their station is about 90 out of every 100 parts as strong as on the ground.
 
@@ -207,7 +207,7 @@ We have found that weight is the pull of gravity, and that a falling bottle stop
 Your weight is not one pull from somewhere under your feet. Every particle of the Earth attracts every particle of you, and you attract each of them back. Your weight is all those pulls added together. DeepKids believes this shows that nothing stands alone. Even being heavy is something you and the whole Earth do together.
 
 - **Nagarjuna, Mulamadhyamakakarika 24.18:** Nothing has its nature all by itself. Everything is what it is because of the other things it depends on. (Heaviness is like this. You feel heavy only when the Earth pulls you and something holds you up. Take away the floor, as in a fall, and the heavy feeling is gone, though you have not changed.)
-- **Rig Veda 10.129, the hymn of creation:** In the beginning there was neither being nor non-being. How did it all begin? Who really knows? (Scientists can measure weight very exactly, yet they still do not know what gravity really is. Saying honestly that we do not know is a very old habit.)
+- **Rig Veda 10.129, the hymn of creation:** In the beginning there was neither being nor non-being. How did it all begin? Who really knows? (The hymn asks honestly, 'Who really knows?' Scientists can measure weight very exactly, yet they still do not know what gravity really is.)
 - Science (settled): A person falling freely feels no weight, though gravity pulls as hard as ever. Einstein called this his happiest thought, in 1907, and built his theory of gravity on it.
 - Science (open): Gravity pulls on every kind of matter in exactly the same way, as far as anyone can measure. Why this is so, nobody knows.
 - Other view, The Vaisheshika school of India, founded by Kanada: Vaisheshika taught that heaviness, gurutva, is a quality that belongs to a substance itself, like its colour or smell. On this view, a stone is heavy in itself, whether or not anything holds it up.
@@ -218,7 +218,7 @@ Your weight is not one pull from somewhere under your feet. Every particle of th
 
 ## Deep and big questions
 - *deep:* If you feel no weight while you are falling, is your weight still there? (hint: Gravity is still pulling. What has gone away is the push that holds you up.)
-- *deep:* Why can't you feel gravity itself, only the floor pushing back? (hint: Gravity pulls every part of you at once, equally. A floor pushes only on your feet.)
+- *deep:* Why can't you feel gravity itself, only the floor pushing back? (hint: Gravity pulls every part of you along together, so no part presses on another. A floor pushes only on your feet.)
 - *deep:* Is there anywhere in the universe with no gravity at all? (hint: Every star and planet pulls, even from very far away. Can you ever get so far that nothing pulls you?)
 - *deep:* If the Earth pulls you, do you pull the Earth too? Why doesn't the Earth move towards you? (hint: Gravity pulls both ways. Think about how much more mass the Earth has than you.)
 - *big:* On the Moon you would weigh less, but you would still be you. So what is the real you: your weight, your mass, or something else? (hint: Think about what stays the same when you travel, and what changes.)
@@ -293,12 +293,12 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - Ask: Why did Gauri sink the first time, when she held her arms and head up in the air?
 - Ask: What did Gauri copy from the makhana leaves the second time?
 - Ask: The pond says, 'I did not take away her weight.' What did it do instead?
-- Ask: When you lie in a bath, what holds you up? What holds you up when you climb out?
+- Ask: When you float in a pool, what holds you up? What holds you up when you lie on your bed?
 
 ## Games
 ### g1 · Escape Gravity (25 min)
 - **rules:** Before you start, each player does two challenge cards and earns two force cards.; Put your counter on EARTH. Take turns to roll the dice and move forward.; If you land on a gravity event, you must do what it says. But you can stop it by playing a force card that beats it. You must say how that force fights gravity.; If you land on a star, do any challenge card to earn a new force card.; If you land on a forward square, move forward as it says.; The first player to reach SPACE wins. But to win, they must answer one question. Is gravity still pulling you in space?
-- **Printable board: A track of 20 squares from EARTH to SPACE:** 1 EARTH: start here; 2 ★ Earn a force card; 3 Weight surge: you pick up a heavy load. Back 1 (Support Force beats it); 4 Rotten plank: it bends under your feet. Back 2 (Support Force beats it); 5 Splashdown: you fall into a lake. Back 2 (Upthrust beats it); 6 ★ Earn a force card; 7 Lift going up: you feel heavy. Miss a turn (Steady Speed beats it); 8 Quicksand: wet sand gives way under you. Back 2 (Spread Out beats it); 9 Free fall: you float for a moment. Forward 2; 10 ★ Earn a force card; 11 Jupiter has no ground: you keep sinking. Back 3 (Sideways Speed beats it); 12 Mass spike: someone hands you a sack of rice. Back 1 (Support Force beats it); 13 Fact stop: say one true fact about weight, then move on; 14 Trampoline: the push is bigger than your weight. Forward 2; 15 ★ Earn a force card; 16 Moon stop: you weigh one sixth here. Forward 1; 17 Black hole surge: the strongest pull of all. Back 3 (only Sideways Speed beats it); 18 Tug of war draw: two pulls cancel. Miss a turn (Neutral Pull beats it); 19 Orbit! You are falling and missing. Forward 1; 20 SPACE: you escaped. But is gravity still pulling you?
+- **Printable board: A track of 20 squares from EARTH to SPACE:** 1 EARTH: start here; 2 ★ Earn a force card; 3 Weight surge: you pick up a heavy load. Back 1 (Support Force beats it); 4 Rotten plank: it bends under your feet. Back 2 (Support Force beats it); 5 Splashdown: you fall into a lake. Back 2 (Upthrust beats it); 6 ★ Earn a force card; 7 Lift going up: you feel heavy. Miss a turn (Steady Speed beats it); 8 Quicksand: wet sand gives way under you. Back 2 (Spread Out beats it); 9 Free fall: you float for a moment. Forward 2; 10 ★ Earn a force card; 11 Jupiter has no ground: you keep sinking. Back 3 (Sideways Speed beats it); 12 Mass spike: someone hands you a sack of rice. Back 1 (Support Force beats it); 13 Fact stop: say one true fact about weight, then move on; 14 Trampoline: the push is bigger than your weight. Forward 2; 15 ★ Earn a force card; 16 Moon stop: you weigh one sixth here. Forward 1; 17 Black hole surge: the strongest pull of all. Back 3 (only Sideways Speed beats it); 18 Caught between: the Earth and the Moon pull you opposite ways. Miss a turn (Neutral Pull beats it); 19 Orbit! You are falling and missing. Forward 1; 20 SPACE: you escaped. But is gravity still pulling you?
 - **Printable cards: 20 force cards to cut out:** SUPPORT FORCE: the ground pushes back; SUPPORT FORCE: the ground pushes back; SUPPORT FORCE: the ground pushes back; SUPPORT FORCE: the ground pushes back; UPTHRUST: water holds you up; UPTHRUST: water holds you up; UPTHRUST: water holds you up; SPREAD OUT: spread your weight wide; SPREAD OUT: spread your weight wide; SIDEWAYS SPEED: go fast enough to fall and miss; SIDEWAYS SPEED: go fast enough to fall and miss; STEADY SPEED: the lift stops speeding up; STEADY SPEED: the lift stops speeding up; NEUTRAL PULL: two equal pulls cancel; NEUTRAL PULL: two equal pulls cancel; SPRING PUSH: a trampoline throws you up; SPRING PUSH: a trampoline throws you up; BALANCE: stand steady over your feet; BALANCE: stand steady over your feet; WILD CARD: explain any force and use it
 - **Printable cards: 10 challenge cards, to earn force cards:** Catch a falling friend: a grown-up leans back a hand's width into your hands. Earn SUPPORT FORCE.; Press a wall, a cushion and a bucket of water. Which pushes back hardest? Earn SUPPORT FORCE.; Push an empty bottle down into a bucket of water. Feel it push up. Earn UPTHRUST.; Float a paper boat with 3 coins in it. Earn UPTHRUST.; Press the flat end of a pencil, then its sharp point, gently into a ball of atta dough. Which sinks in more? Earn SPREAD OUT.; Tie a sock to a string and whirl it round in a circle, away from people. Earn SIDEWAYS SPEED.; Walk across the room at a steady speed with a full steel tumbler of water. Don't spill a drop. Earn STEADY SPEED.; Tug of war with a dupatta that ends in a draw. Earn NEUTRAL PULL.; Bounce a ball as high as your knee three times. Earn SPRING PUSH.; Hold tree pose on one leg for 20 seconds. Earn BALANCE.
 - **Printable tokens: 4 counters, one for each player, and one dice:** 🧑‍🚀; 🪐; 🌙; ☄️
@@ -347,7 +347,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent says:* Put your cards down together. Who pulls hardest? Now, what would happen to a person on your card?  
   *Child mode:* Put down a card. Who pulls hardest? Now pick the outcome that fits your card. What would happen to you there?
   - Ask: The Sun has far more mass than Jupiter. Why can't you stand on either of them? (good: They are made of gas, with no solid ground.; Nothing would push back, so you would keep sinking.)
-  - Note: Good matches: Jupiter and the Sun, 'you sink' (no ground). The ocean, 'you float'. The asteroid and the Moon, 'you bounce very high'. Light, 'your path bends'. Quicksand, 'you sink'. A black hole is tricky: up close, 'squashed' or stretched. Far away and moving sideways fast, 'falling round in orbit'.
+  - Note: Good matches: Jupiter and the Sun, 'you sink' (no ground). The ocean, 'you float'. The asteroid and the Moon, 'you bounce very high'. Light, 'your path bends'. Quicksand, 'you sink', but only to about your waist, because quicksand is thicker than water and holds you up there. A black hole is tricky: up close, 'squashed' or stretched. Far away and moving sideways fast, 'falling round in orbit'.
 - **s4 (3 min)**  
   *Parent does:* End the game by talking about the LIGHT card.  
   *Parent says:* Light has no mass at all. So why does gravity still bend it?  
@@ -377,7 +377,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent does:* 1. Make the bag 200 grams, then 300, then 500, then 1,000 grams. 2. Each time, write your guess first. 3. Then hang it, wait, read and write.  
   *Parent says:* Before each one, guess the number. Is there a pattern?  
   *Child mode:* Make the bag heavier: 200, 300, 500, then 1,000 grams. Guess first each time. Then weigh it. Do you see a pattern?
-  - Note: Expect about 1 newton for every 100 grams. A whole kilogram reads close to 10 newtons. The exact value on Earth is 9.8 newtons, so a careful reading might show a little under 10. Cheap forcemeters may be out by a little. That is fine.
+  - Note: Expect about 1 newton for every 100 grams. A whole kilogram reads close to 10 newtons. A more exact value on Earth is 9.8 newtons, so a careful reading might show a little under 10. Cheap forcemeters may be out by a little. That is fine.
   - Check: 100 grams of rice reads about 1 newton. About what will 500 grams read? → **5 newtons**
 - **s4 (6 min)**  
   *Parent does:* Help your child draw a line graph. Put grams along the bottom and newtons up the side. Mark a dot for each bag, then join the dots.  
@@ -402,7 +402,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* Tie the stone on its string. Hang it from the forcemeter. Hold it still in the air. Read the number. Write it down.
 - **s2 (6 min)**  
   *Parent does:* 1. Ask your child to guess what will happen in the water. 2. Lower the stone until half of it is under the water. Read it. 3. Lower it until all of it is under, but not touching the bottom. Read it.  
-  *Parent says:* Did the stone lose any of its stone? Did the Earth stop pulling it? So why did the number go down?  
+  *Parent says:* Did any of the stone come off? Did the Earth stop pulling it? So why did the number go down?  
   *Child mode:* Guess first! Lower the stone halfway into the water. Read the number. Now put it all the way under. Don't touch the bottom. Read again.
   - Note: A potato works too, and gives an even bigger drop. That is because a potato is only a little heavier than the same amount of water.
   - Check: The stone read 3 newtons in the air and 2 newtons under the water. Why? → **The water pushes up on the stone, so the spring holds less**
@@ -412,7 +412,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* Let the stone rest on the bottom. Read the number. Now lift it right out. Is it back to the first number?
   - Note: On the bottom, the string goes slack and the reading drops to zero, because the bucket's floor is holding the stone up. Out of the water, it goes back to the air reading. Nothing about the stone changed. Only the things holding it up changed.
 - **s4 (6 min)**  
-  *Parent does:* Talk about swimming pools and floating. If you can, feel it yourself. Lift a big stone or a full bucket under water in a tub, then out of it.  
+  *Parent does:* Talk about swimming pools and floating. If you can, feel it yourself. Lift a full mug of water while it is under the water in a bucket. Then lift it out into the air.  
   *Parent says:* When you float in a pool, the water does the same thing to you. The Earth still pulls you. The water pushes up on every part of you that is under it.  
   *Child mode:* In a pool, water pushes up on you too. The Earth still pulls you just as hard. The water holds you up. That is why you feel light.
   - Think: In a pool, why might lifting your arms out of the water make you sink a little?
@@ -467,12 +467,13 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent does:* 1. Hold the squirting bottle high over the bucket. 2. Let go. 3. Watch the holes closely while it falls. 4. Film it in slow motion if you can. Do it three times.  
   *Parent says:* Watch the holes, not the bottle. What happens to the squirting while it falls?  
   *Child mode:* Let go of the bottle! Watch the holes as it falls. Does the water still squirt out? Try three times.
+  - Note: The cap must be off, or air cannot get in and the water only dribbles. Let go cleanly, without throwing or spinning the bottle. The fall lasts less than a second, so watch the holes, not the bottle. A slow-motion film shows it best.
   - Check: While the leaking bottle falls, the squirting stops. Why? → **The water and the bottle fall together, so the water stops pressing on the bottle**
 - **s3 (6 min)**  
-  *Parent does:* 1. Tape one end of the rubber band to the inside of the bottle's cap. 2. Tape the stack of coins to the other end. 3. Lower the coins into the bottle and screw the cap on. The coins should hang clear of the bottom, stretching the band. 4. Hold the bottle upright above a pillow and look at the band. 5. Drop the bottle onto the pillow, watching the band. Do it three times.  
+  *Parent does:* 1. Tape the stack of coins to one end of the rubber band. 2. Lower the coins into the bottle, and hang the other end of the band over the rim of the bottle's mouth. 3. Screw the cap on over the band, so the cap holds it tight. The coins should hang clear of the bottom, stretching the band. 4. Hold the bottle upright above a pillow and look at the band. 5. Drop the bottle onto the pillow, watching the band. Do it three times.  
   *Parent says:* The coins stretch the band, like a tiny forcemeter. What will the band do while the bottle falls?  
   *Child mode:* The coins stretch the rubber band, like a forcemeter. Drop the bottle onto a pillow. Watch the band. Does it stay stretched?
-  - Note: While it falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero.
+  - Note: If the coins touch the bottom, use fewer coins or a shorter band. While it falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero.
 - **s4 (4 min)**  
   *Parent does:* Talk about astronauts in the space station.  
   *Parent says:* Astronauts in the space station are like the water in our falling bottle. They and the station are falling together, all the time. So nothing presses on anything. That's why they float.  
@@ -495,7 +496,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   - Ask: Why can't your hand go into the wall? (good: The wall pushes back.; The electrons of the wall repel the electrons of my hand.)
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up stands right behind the child on a soft floor. 2. The child stands stiff like a plank, arms crossed. 3. The child leans back a hand's width into the grown-up's hands. 4. The grown-up pushes them back up. Do not swap. A child must never try to catch a grown-up.  
-  *Parent says:* When I caught you, my hands were doing the floor's job. They pushed back on you, so gravity couldn't pull you down.  
+  *Parent says:* When I caught you, my hands were doing the floor's job. Gravity was still pulling you, but my hands pushed back, so you did not fall.  
   *Child mode:* Stand stiff like a plank. Lean back a tiny bit. A grown-up catches you. Their hands hold you up, like the floor does.
   - Check: When a grown-up catches you as you lean back, what stops you falling? → **Their hands push up on you, against gravity**
 - **s3 (4 min)**  
@@ -515,7 +516,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent does:* 1. Put two scales side by side. 2. Your child stands with one foot on each. 3. Read both numbers and add them up.  
   *Parent says:* Each scale is holding up part of you. Let's add them. That's the push holding all of you up.  
   *Child mode:* Put one foot on each scale. Read both numbers. Add them up. That is all of you!
-  - Note: Bathroom scales show kilograms, not newtons. They measure how hard you press, then work out the kilograms for the Earth's pull. If you only have one scale, put a pile of books of the same height beside it, and read just the one scale.
+  - Note: Bathroom scales show kilograms, not newtons. They measure how hard you press, then work out the kilograms for the Earth's pull. A dial scale shows changes as they happen. A digital scale may freeze its first number, so step off and on again for each reading. If you only have one scale, put a pile of books of the same height beside it, and read just the one scale.
 - **s2 (5 min)**  
   *Parent does:* 1. Your child leans slowly to the left, then to the right. 2. Then lifts one foot off one scale, holding your hand. 3. Write both numbers each time, and the total.  
   *Parent says:* Lean to one side. What happens to the numbers? And the total?  
@@ -576,7 +577,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent does:* On the next day, read the list together. For each moment, ask what was holding your child, and whether it was pushing harder or less.  
   *Parent says:* Let's look at your list. At each moment, did gravity change? Or did the push holding you up change?  
   *Child mode:* Read your list. Did gravity change? Or did the push holding you change? Was something speeding up or slowing down?
-  - Note: Good finds: the bottom of a swing feels heavy, the top feels light. Sitting in a bath feels light because the water pushes up. A bus going over a bump feels light, then heavy. Jumping off a step feels light for a moment. In every case, gravity stays the same.
+  - Note: Good finds: the bottom of a swing feels heavy, the top feels light. Lying in a pool feels light because the water pushes up. A bus going over a bump feels heavy, then light. Jumping off a step feels light for a moment. In every case, gravity stays the same.
   - Check: At the top of a swing you feel floaty. Why? → **The seat is pushing up on you less**
   - Wait: Carry the notebook for one whole day first.
 
@@ -606,7 +607,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   - Wait: Check once a day for 3 days.
 - **s5 (10 min)**  
   *Parent does:* Put all the drawings side by side. Explain how scientists think a root feels gravity.  
-  *Parent says:* Inside the root tip are cells holding tiny heavy grains of starch. The grains sink to the bottom of each cell. The cell feels where they land. So each cell knows which way is down, like a tiny weighing machine.  
+  *Parent says:* Inside the root tip are cells holding tiny heavy grains of starch. The grains sink to the bottom of each cell. The cell feels where they land. So each cell knows which way is down.  
   *Child mode:* Root tip cells have tiny heavy grains inside. The grains sink to the bottom of each cell. So the cell knows which way is down!
   - Note: In the space station, roots tend to grow away from the seed, and towards water and sometimes light. Without felt weight, the starch grains don't settle. Scientists are still studying exactly how plants sense gravity.
   - Think: Astronauts have grown plants in the space station, where everything floats. Which way do you think the roots grew?
@@ -642,7 +643,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - **your turn:** Design your own raft. Count your coins. Then change one thing about your design and try to beat your own record.
 - **constraints:** Use only one sheet of foil, about as big as a page of a notebook.; No tape or glue.; The raft must float for 10 seconds without sinking.
 - **general:** Fold up the edges to make a wide, flat boat with low walls.; Spread the coins out evenly, so one side does not tip.; A wider boat pushes more water aside, so the water can push up harder.
-- **creative:** Copy the shape of the giant makhana leaf: very wide and flat, with a little rim.; Make the boat a little deeper as you add more coins.; Add coins in rings from the middle outwards.
+- **creative:** Copy the shape of the giant makhana leaf: very wide and flat, with a little rim.; Make a second raft with slightly higher walls, and see if it holds more coins.; Add coins in rings from the middle outwards.
 - **s1 (4 min)**  
   *Parent does:* 1. Squeeze a small piece of foil into the tightest ball you can. A grown-up can press it harder with the base of a steel tumbler. Drop it in the water. 2. Then lay a flat piece of the same size on the water.  
   *Parent says:* Same foil, same mass. Why does the ball sink while the flat one floats?  
@@ -689,7 +690,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
    **Answer:** The floor pushes up on you as hard as you press down. *Why:* The floor pushes back up on you. This push is called the support force. It comes from the floor's atoms pushing your atoms away. Picking 'gravity does not pull you indoors' usually means thinking roofs block gravity. Nothing blocks gravity.
 9. (mcq) A stone hangs on a forcemeter. It reads 3 newtons in the air. You lower it all the way into water. What will it read?  
    Options: Less than 3 newtons / More than 3 newtons / Exactly 3 newtons / Zero  
-   **Answer:** Less than 3 newtons. *Why:* The water pushes up on the stone, so the spring has less to hold. The reading drops, for example to 2 newtons. Picking 'zero' usually means thinking water takes away all weight. It only takes some, unless the stone rests on the bottom.
+   **Answer:** Less than 3 newtons. *Why:* The water pushes up on the stone, so the spring has less to hold. The reading drops, for example to 2 newtons. Picking 'zero' usually means thinking water takes away all weight. The water holds up only part of the stone's weight. The reading drops to zero only if the stone rests on the bottom.
 10. (fill) The push of water up on a thing in it is called ____.  
    **Answer:** ['upthrust', 'up thrust', 'buoyancy']. *Why:* Upthrust is the push of water, or air, up on things in it. It makes things feel lighter in water.
 11. (mcq) Astronauts float inside the International Space Station. Why?  
@@ -709,7 +710,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 ### Heavier, Lighter, Weightless (stretch) (stretch, 16 questions)
 1. (mcq) Look at the line graph. 300 grams of rice weighed 3 newtons. What would 700 grams weigh?  
    Options: 7 newtons / 70 newtons / 4 newtons / 10 newtons  
-   **Answer:** 7 newtons. *Why:* Every 100 grams adds about 1 newton. 700 grams is 7 lots of 100 grams, so it weighs about 7 newtons. Picking 4 newtons usually means adding 300 and 400 the wrong way, or adding 1. The pattern is 1 newton for each 100 grams.
+   **Answer:** 7 newtons. *Why:* Every 100 grams adds about 1 newton. 700 grams is 7 lots of 100 grams, so it weighs about 7 newtons. Picking 4 newtons usually means adding just 1 newton to the 3, instead of 1 newton for each extra 100 grams. The pattern is 1 newton for each 100 grams.
 2. (mcq) Look at the chart of the stone. Why did it read zero when it rested on the bottom of the bucket?  
    Options: The bucket's floor pushed up on it too / It had lost most of its stone / Gravity is weaker at the bottom of a bucket  
    **Answer:** The bucket's floor pushed up on it too. *Why:* On the bottom, the bucket's floor held the stone up, so the string went slack and the spring had nothing to hold. Picking 'gravity is weaker' usually means thinking the reading shows gravity directly. It shows only what the spring holds.
@@ -810,7 +811,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 4. (mcq) Look at the forcemeter. What is the weight of the bag hanging on it?  
    Options: 6 newtons / 6 kilograms / 60 newtons  
    **Answer:** 6 newtons. *Why:* The pointer is on 6, and a forcemeter measures in newtons. So the bag weighs 6 newtons. Picking 6 kilograms mixes up the units. Kilograms measure mass, not pull.
-5. (mcq) What does a bathroom scale really feel?  
+5. (mcq) What does a bathroom scale really measure?  
    Options: How hard you press down on it / How hard gravity pulls you, directly / How tall you are  
    **Answer:** How hard you press down on it. *Why:* A scale feels how hard you press on it, and pushes back just as hard. When you stand still, that equals your weight. Picking 'gravity directly' is very common. But in a lift or a pool, the scale's number changes while gravity does not.
 6. (mcq) Why don't you sink through the floor?  
@@ -836,7 +837,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
    **Answer:** 30 kilograms. *Why:* Mass is how much matter she is made of, and she brings all of it to the Moon. So her mass is still 30 kilograms. Her weight is about one sixth. Picking 5 kilograms mixes up mass and weight.
 13. (mcq) Light has no mass. Does gravity bend its path?  
    Options: Yes, because light carries energy, and gravity works on energy / No, gravity only pulls things with mass / Only on the Moon  
-   **Answer:** Yes, because light carries energy, and gravity works on energy. *Why:* In 1919, astronomers saw starlight bend as it passed close to the Sun. Gravity works on energy, and light has energy. Picking 'no' is what most people believed before 1919.
+   **Answer:** Yes, because light carries energy, and gravity works on energy. *Why:* In 1919, astronomers saw starlight bend as it passed close to the Sun. Gravity works on energy, and light has energy. Picking 'no' is a sensible guess, because Newton's rule is about masses pulling masses.
 14. (mcq) Which of these do scientists still NOT know?  
    Options: What gravity really is at the tiniest sizes / Whether astronauts float / Whether things weigh less on the Moon  
    **Answer:** What gravity really is at the tiniest sizes. *Why:* Einstein's theory of gravity does not fit with quantum physics, the science of the tiniest things. Nobody knows how to join them, or whether the graviton exists. The other two are well known and easy to see.
@@ -884,7 +885,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - Is the Earth pulling this mango harder than that grape? How could we find out?
 - If you could weigh yourself on the Moon, would you be less of you?
 - Did you feel heavier or lighter in the lift just now? When exactly?
-- Why do you feel so light in the bath, and so heavy when you climb out?
+- Why do you feel so light in a pool, and so heavy when you climb out?
 - When a ball falls, has its weight gone? What has changed?
 - Is the space station falling right now? Why doesn't it land?
 - Can you feel gravity itself, or only the floor pushing back?
@@ -899,7 +900,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - Why was the forcemeter so calm? *It always waited until things settled down.*
 - What do you call a lazy kilogram? *A dead weight.*
 - Why did the bag of rice go to the Moon? *It wanted to lose weight without losing any rice.*
-- Why are astronauts never late? *They are always falling ahead of time.*
+- Why can't astronauts fall over in the space station? *They are already falling, all the time.*
 - What did the stone say when it went into the bucket? *Water relief!*
 - Why did the lift feel so heavy in the morning? *It had a lot on its floors.*
 - What do you call a newton that tells jokes? *A force of humour.*
@@ -909,8 +910,8 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - Why did the spring balance go to school? *To get a little more stretch in its learning.*
 - Why did the black hole never finish its dinner? *It kept pulling in more.*
 - What did the Earth say to the Moon? *You're so attractive!*
-- How does the space station stay so calm? *It just keeps going round and round, and never lands on a problem.*
-- Why did the cotton and the iron argue? *Each thought the other was more heavy-headed. They were both one kilogram!*
+- Why doesn't the space station ever land? *It is too busy falling round the Earth.*
+- Which is heavier, a kilogram of cotton or a kilogram of iron? *Neither! But the cotton needs a much bigger bag.*
 - Why did the guru go on a diet? *He wanted to be laghu for a while.*
 - Why is gravity a good friend? *It never lets you down. Well, it always pulls you down.*
 - What did one kilogram say to the other? *We have a lot in common: about 10 newtons each!*
@@ -922,15 +923,15 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - Why was the falling bottle so quiet? *It had stopped leaking secrets.*
 - What did the root say to the seed? *I'm feeling really down today, in a good way.*
 - What do you call a light beam that bends near the Sun? *A sunny detour.*
-- Why did the child bring a ladder to the Moon? *To jump six times higher.*
+- Why did the child want her birthday party on the Moon? *So everyone could jump six times higher.*
 - Why did the rubber band let go in the falling bottle? *There was no weight on its shoulders any more.*
 
 ## Connected maths
 - In the kilogram experiment, 100 grams of rice weighed 1 newton. How much would 800 grams weigh? And a 2 kilogram bag of atta? **800 grams weighs about 8 newtons. 2 kilograms weighs about 20 newtons.**. Every 100 grams weighs about 1 newton. 800 grams is 8 lots of 100 grams. So it weighs 8 × 1 = 8 newtons. 2 kilograms is 2,000 grams, which is 20 lots of 100 grams. So it weighs about 20 newtons. (queues `math.weight-capacity.weight.L3`)
-- Look at the forcemeter in the picture. The big numbers are whole newtons. Each small mark is half a newton. What does the stone weigh? **2 and a half newtons.**. The pointer is past the 2 but before the 3. It sits on the small mark halfway between them. Each small mark is half a newton. So the reading is 2 newtons and a half. That is 2 and a half newtons. (queues `math.measurement-basics.reading-scales.L3`)
+- Look at the forcemeter in the picture. The big numbers are whole newtons. Each small mark is half a newton. What does the stone weigh? **2 and a half newtons.**. The pointer is past the 2 but before the 3. It sits on the small mark halfway between them. Each small mark is half a newton. So the reading is 2 and a half newtons. (queues `math.measurement-basics.reading-scales.L3`)
 - The stone read 3 newtons in the air and 2 newtons fully under water. Resting on the bottom, with the string slack, it read zero. How hard was the water pushing up? How hard was the bucket's floor pushing up? **The water pushed up with 1 newton. The bucket's floor pushed up with 2 newtons.**. In the air, the spring held all 3 newtons. Under water it held only 2. So the water held 3 − 2 = 1 newton. On the bottom, the spring held nothing. The water still held 1 newton. So the floor held the rest: 3 − 1 = 2 newtons. Check: 1 + 2 = 3. (queues `math.addition-subtraction.word-problems.L3`)
 - A child has a mass of 30 kilograms. On Earth, she weighs about 300 newtons. The Moon pulls one sixth as hard. What does she weigh on the Moon? **About 50 newtons.**. One sixth means sharing into 6 equal parts and taking one. 300 divided by 6 is 50. So on the Moon she weighs about 50 newtons. Her mass is still 30 kilograms. (queues `math.division.sharing-and-grouping.L3`)
-- In the lift experiment, a 1 kilogram bag read 10 newtons standing still, 11 newtons as the lift started up, and 9 newtons as it slowed at the top. Draw a bar chart of the three readings. How much more did it read starting up than slowing down? **2 newtons more. Here is the bar chart.**. Draw one bar for each moment: 10, 11 and 9 newtons. Starting up it read 11. Slowing down it read 9. 11 − 9 = 2. So it read 2 newtons more starting up. The bag never changed. Only the push of the lift changed. (queues `math.data.bar-charts.L3`)
+- In the lift experiment, a 1 kilogram bag read 10 newtons standing still, 11 newtons as the lift started up, and 9 newtons as it slowed at the top. Draw a bar chart of the three readings. How much more did it read starting up than slowing down? **2 newtons more. Here is the bar chart.**. Draw one bar for each moment: 10, 11 and 9 newtons. Starting up it read 11. Slowing down it read 9. 11 − 9 = 2. So it read 2 newtons more starting up. The bag never changed. Only the spring's pull changed, while the lift sped up or slowed down. (queues `math.data.bar-charts.L3`)
 - The space station goes round the Earth about 15 times a day. Each trip round is about 40,000 kilometres. About how far does it travel in one day? **About 600,000 kilometres.**. 15 trips of 40,000 kilometres is 15 × 40,000. First do 15 × 4 = 60. Then add the four zeros: 600,000. So it travels about 600,000 kilometres a day. That is more than the distance from the Earth to the Moon and halfway back again! The real trip is a little longer, because the station flies above the ground. (queues `math.multiplication.multi-digit.L4`)
 
 ## Song
@@ -951,7 +952,7 @@ Gravity (sci.gravity.L3): The founder's Gravity song
 - [A swimming pool, a river ghat with a safe bathing area, or the sea, near you]() · place · anywhere: The best place to feel the water hold up your weight. Always swim with a grown-up and a lifeguard.
 
 ## Things to buy
-- [Spring forcemeters, a set with 0 to 10 newtons and 0 to 20 newtons](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): A forcemeter weighs things in newtons. You use it in the kilogram, stone and lift experiments. Used in e1, e2, e3. Already bought for the Forcemeters and newtons unit? Use the same one. Look for one marked in newtons (N), often sold as a school spring balance. Spring balances marked only in kilograms measure the same pull, but show it as kilograms.
+- [Spring forcemeters, a set with 0 to 10 newtons and 0 to 20 newtons](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): A forcemeter weighs things in newtons. You use it in the kilogram, stone and lift experiments. Used in e1, e2, e3. Already bought for the Forcemeters and newtons unit? Use the same one. Look for one marked in newtons (N), often sold as a school spring balance. If yours is marked only in grams or kilograms, it still works: every 100 grams on its scale is about 1 newton.
 - [Digital kitchen scale, up to 5 kilograms](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Weighs rice in grams for the kilogram experiment, so you can compare grams with newtons. Used in e1. No need to buy one if you have packets with the mass printed on them: a 100 gram soap, a 500 gram dal packet and a 1 kilogram atta packet.
 - [Bathroom weighing scale, a dial one if possible](https://www.amazon.in/s?k=bathroom+weighing+scale+analog) (tool): Used for Two Scales, One You. A dial scale shows changes more clearly than a digital one. Used in a2. 
 - [Aluminium foil roll](https://www.amazon.in/s?k=aluminium+foil+roll) (material): For building rafts in The Coin Raft challenge. Used in c2. 

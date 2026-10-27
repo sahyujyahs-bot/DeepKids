@@ -1,9 +1,9 @@
 # Forces change shape, speed and direction
 `sci.forces.changing-motion.L3`
 
-**Summary.** This unit is about what forces do to things. A force is a push or a pull. Forces can squash, stretch, twist and bend things, and change their shape. After a force, some things keep their new shape, some spring back, and some break. A bigger force makes a bigger change. Forces also start, stop, speed up, slow down and turn moving things. Even a bouncing ball is squashed for a moment. Deep down, a shape changes because atoms are pushed closer or pulled apart. The same forces shape bones, trees, the Himalayas and even the spinning Earth.
+**Summary.** Press a ball of dough and it stays flat. Squeeze a sponge and it springs back. Press a biscuit and it breaks. A force is a push or a pull, and it can change a thing's shape by squashing, stretching, twisting or bending it. Forces also start, stop, speed up, slow down and turn moving things. A bouncing ball is squashed for a moment, too fast to see. Even a steel table changes shape a tiny bit when you press it. The same forces shape your bones, trees and the Himalayas.
 
-**Intro.** *Press your thumb gently on a steel table. Did the table change shape? You can't see it. But scientists say it did. How could they know?* Get a ball of atta dough. Squash it, stretch it, twist it, bend it. Every time you push or pull, its shape changes. Now squeeze a sponge and let go. It springs back. Now press a biscuit. Crack! Three things, three different answers to the same push. This unit asks why. The answer starts in your hands. It ends in the mountains, in your own bones, and far out in space.
+**Intro.** *Press your thumb on a table. Did the table change shape? You can't see any change. But scientists can show that it bent a tiny bit. How can they tell?* Get a ball of atta dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this unit you find out why, and how even hard things change shape when they are pushed.
 
 ## Learning outcomes
 0. I can say that a force can change a thing's shape, and show four ways: squashing, stretching, twisting and bending.
@@ -29,10 +29,11 @@
 - **Fair test**: A test where you change only one thing and keep everything else the same. Then you know what made the difference. *e.g.* Drop the same clay ball from different heights. Change only the height.
 - **Speed**: How fast something moves. Something with more speed goes further in the same time. *e.g.* A bowled cricket ball has more speed than a rolled marble.
 - **Direction**: The way something is moving or facing, like left, right, up or down. *e.g.* A batsman sends the ball back the other way. That changes its direction.
+- **Mass**: How much matter is in a thing. Matter is what all things are made of. The more mass a thing has, the bigger the force needed to start it, stop it or turn it. *e.g.* A full school bag has more mass than an empty one. It is harder to swing round, and harder to stop.
 - **Bounce**: When a moving thing hits something, squashes for a moment, then springs back and moves away. *e.g.* A tennis ball hitting the floor squashes flat for a moment, then jumps back up.
 - **Fold**: A sharp bend pressed into a sheet. Folds can make a thin sheet much stiffer. *e.g.* A paper fan. A wavy tin roof sheet. The wavy middle layer of a cardboard box.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope. *e.g.* Clay, steel, your bones and the air are all made of atoms.
-- **Bond**: The hold between two atoms. It acts a little like a tiny spring. Push the atoms closer and it pushes back. Pull them apart and it pulls back. *e.g.* When you stretch a rubber band, you are pulling on billions of these tiny holds at once.
+- **Bond**: The hold between two atoms. It acts a little like a tiny spring. Push the atoms closer and it pushes back. Pull them apart and it pulls back. *e.g.* When you bend a steel spoon a little, you are pulling and pushing on billions of these tiny holds at once.
 - **Bone**: The hard, living parts inside your body that hold you up. Bones are alive, and they slowly change shape to match the pushes and pulls on them. *e.g.* The bones in a tennis player's playing arm grow thicker than in the other arm.
 - **Tectonic plate**: A giant slab of the Earth's rocky outer layer. The plates move very slowly, about as fast as your fingernails grow. *e.g.* India sits on a plate that is slowly pushing into Asia. That push built the Himalayas.
 - **Gravitational wave**: A ripple in space itself. As it passes, it stretches and squashes space by a tiny amount. *e.g.* In 2015, scientists measured a gravitational wave from two black holes crashing together far away.
@@ -56,34 +57,34 @@ Clay and dough stay squashed, so they are good for making pots and rotis. Sponge
 ### A bigger force makes a bigger change · *defined*
 **Definition:** The bigger the force, the bigger the change of shape, until the thing breaks.
 
-Drop a clay ball onto a plate from higher up, and it hits the plate faster. The plate has to push harder to stop it. That bigger push squashes it more. So the flat patch on the bottom gets wider. Scientists use this rule all the time. They push and pull on materials with machines, and measure exactly how much they change. The chart shows made-up results from the clay drop test in this unit.
+Drop a clay ball onto a plate from higher up, and it hits the plate faster. The plate has to push harder to stop it. That bigger push squashes it more. So the flat patch on the bottom gets wider. Engineers use this rule all the time. They push and pull on materials with machines, and measure exactly how much they change. The chart shows made-up results from the clay drop test in this unit.
 - e.g. A gentle press makes a small dent in dough. A hard press makes a deep one.
 - e.g. A light child sitting on a cushion squashes it a little. A heavy grown-up squashes it more.
 ### Inside a bend: squashed and stretched at once · *defined*
 **Definition:** When something bends, the inside of the curve is squashed and the outside is stretched. The middle is hardly changed at all.
 
 Draw lines across a long sponge, then bend it. On the inside of the curve, the lines crowd together. On the outside, they spread apart. Every bending thing works like this, from a ruler to a bridge. So a thing resists bending best when it has lots of material far from its middle. A ruler lying flat bends easily. Stand it on its thin edge and it hardly bends at all, though it is the same ruler. Steel beams in buildings are shaped like the letter I for the same reason.
-- e.g. A ruler on its edge holds a book that makes a flat ruler sag.
+- e.g. Press the middle of a ruler lying flat, and it bends easily. Stand it on its edge, and the same press hardly bends it.
 - e.g. Steel beams in buildings and railway tracks have an I shape.
 - e.g. Bamboo is a hollow tube, so it is light but very hard to bend.
 ### Shape can make things strong · *defined*
 **Definition:** Changing the shape of a material can make it much stronger, without adding any more material. Folds, tubes and arches are the main tricks.
 
-A flat sheet of paper sags under one coin. Fold the same sheet like a fan, and it can hold many coins. Each fold is a little stiff wall standing on its edge. Rolled tubes are strong too. Galileo, the Italian scientist, wrote about this in 1638. He noticed that hollow bones and hollow reeds are strong for how light they are. Arches and domes spread a push sideways down into the ground. The chart shows made-up results from the paper bridge challenge in this unit.
+A flat sheet of paper sags under one coin. Fold the same sheet like a fan, and it can hold many coins. Each fold is a little stiff wall standing on its edge. Rolled tubes are strong too. Galileo, the Italian scientist, wrote about this in 1638. He noticed that hollow bones and hollow reeds are strong for how light they are. An arch carries a push along its curve, down to its two feet. The chart shows made-up results from the paper bridge challenge in this unit.
 - e.g. Wavy tin roof sheets are much stiffer than flat ones.
 - e.g. The wavy layer inside cardboard boxes makes them strong.
-- e.g. An eggshell is an arch. It is very hard to crush from its ends.
+- e.g. An eggshell is a dome, a curved shell. It is very hard to crush by squeezing its two ends.
 ### Twisting, and how twists make rope · *defined*
 **Definition:** A twist turns one end of a thing one way, while the other end turns the other way or stays still.
 
-When you wring a wet towel, the twist squeezes the cloth tighter and tighter, and the water is pushed out. Rope works in a similar way. One coconut fibre or cotton thread is weak. Twist many together, and the twist squeezes them against each other. Friction, the grip between touching things, then stops them sliding apart. So the rope is far stronger than the threads lying side by side. In Kerala, coir rope has been twisted from coconut husk fibres for centuries. You can read more about grip in the unit 'Friction'.
+When you wring a wet towel, the twist squeezes the cloth tighter and tighter, and the water is pushed out. Thread and rope are made with twists too. Cotton wool is made of short fibres, each only about 2 to 3 centimetres long. Pull a loose strand of cotton wool, and the fibres slide apart. Twist the same cotton into a wick, and the twist squeezes the fibres against each other. Friction, the grip between touching things, then stops them sliding. So the twisted wick is far stronger. Every cotton thread is spun this way, on a charkha or in a mill. In Kerala, coir rope has been twisted from coconut husk fibres for centuries. You can read more about grip in the unit 'Friction'.
 - e.g. Wringing out clothes on washing day.
-- e.g. Coir rope twisted from coconut fibres.
-- e.g. Twisting a bottle cap or a tap.
+- e.g. A diya wick, twisted from cotton wool.
+- e.g. Coir rope, twisted from coconut fibres.
 ### Forces change speed and direction · *defined*
 **Definition:** A force can start a thing moving, stop it, speed it up, slow it down, or turn it in a new direction.
 
-Think of one cricket ball. The bowler's push starts it and speeds it up. The bat's push turns it the other way. The grass slows it down. A fielder's hands stop it. Every one of these changes needs a force. If no force acts, a moving thing keeps going at the same speed in a straight line. On Earth, friction and air usually slow things down, so we hardly ever see that. When two forces are equal and opposite, they cancel out, and nothing changes. You can read about that in the unit 'Pushes and pulls', and later in 'Balanced forces'.
+Think of one cricket ball. The bowler's push starts it and speeds it up. The bat's push turns it the other way. The grass slows it down. A fielder's hands stop it. Every one of these changes needs a force. The more mass a thing has, the bigger the force needed to change its speed or direction. That is why a full trolley is harder to start and stop than an empty one. If no force acts, a moving thing keeps going at the same speed in a straight line. On Earth, friction and air usually slow things down, so we hardly ever see that. When two forces on a thing are equal and opposite, they cancel out, and its movement does not change. You can read about that in the unit 'Pushes and pulls', and later in 'Balanced forces'.
 - e.g. A carrom striker hits a coin. The coin starts moving, and the striker slows and turns.
 - e.g. A kite string's tug turns the kite.
 - e.g. Brakes slow a bicycle.
@@ -100,11 +101,11 @@ A ball hits the floor going down. The floor pushes up on it and squashes it flat
 Swing a ball in a sock round your head on a string. Your hand keeps pulling it inwards, and it keeps turning. Let go, and it flies off in a straight line. The Moon goes round the Earth in the same way. The Earth's gravity keeps pulling it inwards. Isaac Newton, an English scientist, explained this in 1687. Without that pull, the Moon would fly off in a straight line into space. You can read more in the units about gravity.
 - e.g. A merry-go-round pulls you inwards through the bar you hold.
 - e.g. A cyclist leans into a turn, so the road can push them round.
-- e.g. Clothes in a spinning washing machine press against the drum.
+- e.g. In a spinning washing machine, the drum pushes the clothes inwards, so they go round. The water goes straight on, out through the holes.
 ### Deep down: atoms pushed together and pulled apart · *defined*
 **Definition:** Everything is made of atoms held to each other by bonds. Bonds act a little like tiny springs. A shape changes when atoms are pushed closer or pulled further apart.
 
-Squash a sponge and its atoms are pushed slightly closer. Their bonds push back, so it springs back. That is elastic. In metals and clay, whole rows of atoms can slide past each other into new places, and stay there. That is a plastic change. In 1934, three scientists explained how metal rows slip, one small step at a time. They were Geoffrey Taylor, Egon Orowan and Michael Polanyi, working separately. In brittle things like glass, the atoms cannot slide. So the push gathers at the tip of a tiny scratch, and a crack races across. In about 1920, an English engineer, Alan Griffith, showed that tiny scratches are what make glass weak. That is why a glass-cutter scratches a line first, then snaps the glass along it.
+Press a steel spoon or a table, and its atoms are pushed slightly closer. Their bonds push back, so it springs back when you let go. That is elastic. A sponge and a rubber band spring back too, but in other ways. A sponge's thin walls bend and then straighten. A rubber band is made of long, tangled chains of atoms that straighten out when pulled, then curl up again. In metals and clay, whole rows of atoms can slide past each other into new places, and stay there. That is a plastic change. In 1934, three scientists explained how metal rows slip, one small step at a time. They were Geoffrey Taylor, Egon Orowan and Michael Polanyi, working separately. In brittle things like glass, the atoms cannot slide. So the push gathers at the tip of a tiny scratch, and a crack races across. In about 1920, an English engineer, Alan Griffith, showed that tiny scratches are what make glass weak. That is why a glass-cutter scratches a line first, then snaps the glass along it.
 - e.g. A glass shop scratches a line on a sheet of glass, then snaps it cleanly along the line.
 - e.g. A gold bangle can be hammered thinner because rows of gold atoms slide without breaking.
 ### What is glass, really? · *debated*
@@ -130,15 +131,15 @@ The plate that India sits on moves north by about 4 to 5 centimetres a year. Tha
 ### Forces shape moons, stars and space itself · *defined*
 **Definition:** Gravity can squeeze, stretch and heat whole worlds. Very strong gravity can even stretch and squash space itself.
 
-Io is one of Jupiter's moons. Jupiter's huge gravity stretches and squeezes Io as it goes round. All that squeezing heats Io's insides. So Io has more active volcanoes than any other place we know. Some dead stars are squashed so hard that their atoms are crushed together. These are called neutron stars. A teaspoon of one would weigh about as much as a mountain. Near a black hole, gravity can stretch a star apart. Astronomers have seen flashes of light from stars being torn up like this. Space itself can be stretched and squashed too. In 2015, the LIGO detectors in America measured a ripple in space from two black holes crashing together. As it passed, it stretched and squashed their 4-kilometre-long arms by hundreds of times less than the width of a proton, one of the tiny bits in the middle of an atom.
+Io is one of Jupiter's moons. Jupiter's huge gravity stretches and squeezes Io as it goes round. All that squeezing heats Io's insides. So Io has more active volcanoes than any other place we know. Some dead stars are squashed so hard that their atoms are crushed together. These are called neutron stars. A teaspoon of one would weigh about as much as a small mountain. Near a black hole, gravity can stretch a star apart. Astronomers have seen flashes of light from stars being torn up like this. Space itself can be stretched and squashed too. In 2015, the LIGO detectors in America measured a ripple in space from two black holes crashing together. As it passed, it stretched and squashed their 4-kilometre-long arms by about a thousand times less than the width of a proton. A proton is one of the particles in the centre of an atom.
 - e.g. Io's volcanoes throw material hundreds of kilometres up into space.
 - e.g. LIGO is now joined by detectors in Italy and Japan. One is planned in India, called LIGO-India.
 ### The spaghetti puzzle · *defined*
 **Definition:** Bend a stick of dry spaghetti until it snaps, and it nearly always breaks into three or more pieces, not two.
 
-The famous physicist Richard Feynman once spent an evening trying to snap spaghetti into just two pieces. He could not. In 2005, two French scientists, Basile Audoly and Sébastien Neukirch, explained why. When the first break happens, the two halves spring back. That sends a wave of extra bending racing along each half, and it snaps them again. In 2018, a team at MIT in America found a trick. Twist the spaghetti nearly a full turn first, then bend it slowly. Then it can snap into just two pieces. So a twist changes how a bend breaks.
+The famous physicist Richard Feynman once spent an evening trying to snap spaghetti into just two pieces. He could not. In 2005, two French scientists, Basile Audoly and Sébastien Neukirch, explained why. When the first break happens, the two halves spring back. That sends a wave of extra bending racing along each half, and it snaps them again. In 2018, a team at MIT in America found a trick. Twist the spaghetti about three-quarters of a turn or more first, then bend it slowly. Then it can snap into just two pieces. So a twist changes how a bend breaks.
 - e.g. Snap dry spaghetti, a thin dry stick or dry noodles. Count the pieces.
-- e.g. Then try twisting it nearly a full turn before bending, and see what happens.
+- e.g. Then try twisting it about three-quarters of a turn before bending, and see what happens.
 
 ## Mostly agreed
 - Forces can change the shape of things, by squashing, stretching, twisting or bending. *How we know:* Anyone can see it with dough, sponges and rubber bands. Engineers measure it in every material, with machines that push and pull.
@@ -146,6 +147,10 @@ The famous physicist Richard Feynman once spent an evening trying to snap spaghe
 - Everything changes shape a little when pushed, even steel and stone. *How we know:* Tall buildings sway in the wind. Bridges sag a little when trucks cross. Scientists can show a table bending under a gentle press by bouncing a laser beam off a mirror lying on it.
 - A force is needed to change a thing's speed or direction. *How we know:* Isaac Newton wrote this down in 1687. Every spacecraft is steered using his rules, and they arrive where they are meant to.
 - The spinning Earth bulges at the equator. *How we know:* Measurements from satellites show the Earth is about 43 kilometres wider across the equator than from pole to pole.
+
+## How we found out
+**Galileo Galilei, an Italian scientist, and later Isaac Newton, an English scientist, Early 1600s to 1687.** For nearly 2,000 years, many people followed the ideas of Aristotle, a Greek thinker. He taught that a moving thing needs a push all the time to keep moving. Stop pushing a cart, and it stops. So stopping seemed natural, and only moving seemed to need a force. In Italy, in the early 1600s, Galileo Galilei rolled balls down sloping wooden tracks. He saw that a ball rolling down one slope rolls up a second slope to nearly the same height. When he made the second slope less steep, the ball rolled further to reach that height. So Galileo asked: what if the second track were flat? The ball would never reach its starting height, so it would keep rolling. He said a rolling ball slows down only because of friction and the air. He wrote this in a book in 1638. In 1687, Isaac Newton made it his first law of motion. A moving thing keeps going at the same speed in a straight line, unless a force acts on it. So a force is needed to change how a thing moves, not to keep it moving.  
+*What people believed before:* A moving thing needs a push all the time to keep moving. Stop pushing, and it stops by itself.
 
 ## Challenging perspectives
 - **Hard things like steel and stone don't change shape when you push them.** (Most of us think this without noticing.; *rejected*)  
@@ -165,45 +170,45 @@ The famous physicist Richard Feynman once spent an evening trying to snap spaghe
   Against: The Himalayas are still rising by a few millimetres a year, as India pushes into Asia. Fossil sea shells high in the mountains show the rock was once under the sea. Earthquakes are rock snapping after bending.
 - **The science of how materials bend and stretch was built only by men, like Robert Hooke and Augustin Cauchy.** (Many older history books; *debated*)  
   For: Hooke, Navier, Cauchy and others did write much of the theory, and most famous names in the story are men.  
-  Against: Sophie Germain, a French woman, taught herself mathematics in secret. She first wrote to scientists under a man's name, 'Monsieur LeBlanc'. In 1816 she won a top prize from the Paris Academy of Sciences, for maths about how bent and shaken metal plates vibrate. As a woman she was not allowed into the Academy's meetings. Her work had gaps, which others later filled, so historians still debate how much credit she should get.
+  Against: Sophie Germain, a French woman, taught herself mathematics in secret. She first wrote to scientists under a man's name, 'Monsieur LeBlanc'. In 1816 she won a top prize from the Paris Academy of Sciences, for maths about how bent and shaken metal plates vibrate. At first, as a woman, she was not allowed to attend the Academy's meetings. Her work had gaps, which others later filled, so historians still debate how much credit she should get.
 - **Bones are dead and hard, like chalk.** (A common idea, because skeletons look dry and stony; *rejected*)  
   For: Bones are hard, and old skeletons in museums are dead.  
   Against: Inside you, bones are alive. They have blood and cells that build and remove bone. They grow thicker where they are pushed most. Astronauts in space lose bone because it is not pushed. A broken bone heals itself.
 
 ## Roots
-We have been learning how forces squash, stretch, bend and turn things. Now we ask what all this changing tells us about ourselves and the world.
+We have been learning how forces squash, stretch, bend and turn things. Now we ask what this tells us about hard things, and about touching.
 
-**Deep truth.** Things keep doing what they are doing until something meets them. Change always comes from a meeting.  
-*Habit it breaks:* We think stillness is normal and motion needs a reason. In space, a moving ball would roll forever. Stopping is what needs a cause.  
-*Evidence:* A ball stops on grass but rolls far on smooth tiles.
+**Deep truth.** A floor can push a bouncing ball back up only because the floor squashes a tiny bit too. Every push between touching things comes from both of them changing shape. Even a steel table gives under your thumb. So 'hard' does not mean 'unchanging', only 'changing too little to see'.  
+*Habit it breaks:* We sort things into soft ones that change shape and hard ones that don't. But every material gives a little when pushed. Hard and soft differ only in how much they give.  
+*Evidence:* In the wet ball prints test, the bounce left a wet circle much bigger than the resting dot, so the ball squashed to push off the floor. A laser dot bounced off a mirror on a table moves when you press the table, so the table bends too.
 
-- *who am i:* Your bones grow stronger because they are pushed every day. You are shaped by what presses on you.
-- *what is life:* Trees bend in storms instead of snapping. Living things answer forces by changing.
-- *what is this world:* Mountains rise and moons are squeezed. Nothing in the world keeps one shape for ever.
+- *who am i:* Your bones grow stronger where they are pushed every day. Your body is shaped by the forces on it.
+- *what is life:* Trees that sway in the wind grow thicker trunks. Living things answer forces by growing.
+- *what is this world:* Mountains fold and the spinning Earth bulges. Even the hardest rock changes shape when it is pushed.
 
-A lump of dough, a bone and the Himalayas are all made of the same tiny atoms. A force pushes them closer or pulls them apart, and a new shape appears. DeepKids believes the One keeps showing up as new shapes, never stuck in just one. A bend, a twist and a bounce are the world changing its form. The stuff stays. Only the shape moves on.
+When you press a table, your thumb squashes a little, and so does the table. The push comes from both of them changing shape together. It is always shared: the table pushes your thumb exactly as hard as your thumb pushes the table. So nothing can touch without being touched back, and changed a little. DeepKids believes this is one sign that things are less separate than they look: each thing is partly shaped by everything that presses on it.
 
-- **Tao Te Ching 76:** A living plant is soft and bendy. A dead one is dry and snaps. So the stiff and hard break, and the soft and bending last. (A bridge that may sway and a tree that bends both survive storms. Something stiff might break.)
-- **Heraclitus, fragment DK B91:** You cannot step into the same river twice. The water has moved on, and so have you. (Every push and pull is slowly changing things, from your bones to the mountains. Change is how the world is.)
+- **Tao Te Ching 76:** A living plant is soft and bendy. A dead one is dry and snaps. So the stiff and hard break, and the soft and bending last. (In this unit, a bamboo bends in the wind and springs back, but a dry stick or a papad snaps. Things that can give a little under a force often last longer than things that cannot.)
+- **Heraclitus, fragment DK B91:** You cannot step into the same river twice. The water has moved on, and so have you. (A steel table, a mountain and your bones all change shape under every push, mostly too slowly or too little to see. Heraclitus saw change even in things that look fixed.)
 - Science (settled): A thing changes shape because its atoms are pushed closer together or pulled further apart.
-- Science (settled): India is still pushing into Asia, and the Himalayas are still rising by a few millimetres each year.
-- Other view, The Buddha: The Buddha taught that everything changes, and nothing lasts, not even a self. Many Buddhists would say there is no lasting One underneath the changing shapes.
-- Practice, Bend like a tree (3 min): Let's stand tall like a tree, with feet a little apart. Breathe in slowly. As you breathe out, sway gently to one side, like wind is pushing you. Breathe in and come back up. Now sway to the other side. Do this five times. Then stand still and feel your whole body. You changed shape, and you are still you.
-- Ask: If you change shape, are you still the same you?
-- Ask: Is it better to bend or to be stiff?
-- Ask: Does anything in the world never change at all?
+- Science (settled): When two things push on each other, the two pushes are always equal and opposite. Isaac Newton wrote this down in 1687 as his third law of motion.
+- Other view, Many physicists: A thumb and a table push on each other, but they stay two separate things. Squashing and pushing back are simply what atoms do. Calling it a sign that things are less separate adds nothing the physics needs.
+- Practice, Feel a shared push (3 min): Hold your palms together in front of you, gently. Breathe in slowly. As you breathe out, press your palms a little harder. Feel each palm squash a little. Now breathe in and let go. Feel them spring back. Which hand was doing the pushing? Do it three times, slowly.
+- Ask: When you press the table and it presses you back, which of you is doing the pushing?
+- Ask: Can you touch anything without changing it, even a tiny bit?
+- Ask: Is anything so hard that it never gives at all?
 
 ## Deep and big questions
 - *deep:* Does a steel table change shape when a fly lands on it? (hint: A bigger force makes a bigger change. So does a very tiny force make a very tiny change, or none at all?)
-- *deep:* Why does a sponge spring back but dough stays squashed? What is different inside them? (hint: Think of the tiny parts inside as children holding hands. In one, they hold tight. In the other, they let go and move.)
-- *big:* Is it better to bend or to be stiff? (hint: In a storm, a bamboo bends and a dry stick snaps. Is that true for people, too?)
-- *big:* Your bones grow stronger when they are pushed. Can anything else get stronger because of hard work or hard times? (hint: Think of muscles, trees on windy hills, and maybe your own mind.)
+- *deep:* Why does a sponge spring back but dough stays squashed? What is different inside them? (hint: Look closely at a sponge. It is full of holes with thin walls. What happens to those walls when you squeeze? What happens inside dough when it moves?)
+- *big:* Is it better for a thing to bend or to be stiff? (hint: A bamboo bends in a storm and does not snap. A bridge must stay stiff, so it does not sag under trucks. Which jobs need which?)
+- *deep:* Your bones grow stronger where they are pushed. How does a bone sense where it is being pushed? (hint: Bone cells can sense being squeezed and stretched. Scientists are still finding out exactly how they decide where to build more bone.)
 - *big:* If you protected something from every push and pull, would it stay strong? (hint: What happens to astronauts' bones in space? What happens to a tree tied tightly to a stake?)
-- *deep:* When a ball bounces, where does its movement go while it is squashed flat for a moment? (hint: A squashed sponge pushes back. Could a squash store movement, like a coiled spring?)
+- *deep:* When a ball bounces, where does its movement go while it is squashed flat for a moment? (hint: A squashed sponge pushes back on your hand. Could the squashed ball be holding its movement for a moment, then giving it back?)
 - *big:* The Himalayas are still rising. Will they keep getting taller for ever? (hint: Rain, ice and rivers are wearing them down at the same time. Which do you think will win?)
 - *deep:* Is anything in the universe completely rigid, so that it never changes shape at all? (hint: Even space itself stretches when a gravitational wave passes. Can you think of anything that can't change?)
 - *big:* A potter, a goldsmith, a baker and a blacksmith all change shapes with force. Why do we call some of this 'art' and some 'work'? (hint: Who decides? Is rolling a perfect round roti an art?)
-- *big:* A sculptor once said a statue is already inside the stone. Is a shape something we make, or something we find? (hint: When you squash dough, is the new shape new, or was it always possible?)
+- *big:* Some sculptors say a statue is already hidden inside the stone. Is a shape something we make, or something we find? (hint: When you squash dough, is the new shape new, or was it always possible?)
 - *deep:* Why does dry spaghetti almost never break into just two pieces? (hint: When it first snaps, both halves spring back fast. What might that sudden spring do?)
 
 ## Story: The Bridge That Was Allowed to Sway
@@ -211,7 +216,7 @@ A lump of dough, a bone and the Himalayas are all made of the same tiny atoms. A
 
 In the hills of Meghalaya, in the north-east of India, it rains more than almost anywhere else on Earth. Below the town of Sohra, a stream runs through a deep green gorge. Across it hangs a bridge that nobody built with a hammer. It was grown. Its floor and its rails are the living roots of a rubber fig tree, as thick as a man's leg, knotted together and furred with moss. People have walked across it for longer than anyone can remember.
 
-Iba was nine, and she was in a hurry. Upstream, her uncle, Bah Kyrmen, was growing a new bridge. He had laid a hollow betel-nut trunk across the water like a long wooden gutter. Inside it, young roots from a fig tree on the bank were creeping across. They were pale and bendy, like noodles that had not been cooked.
+Iba was nine, and she was in a hurry. Upstream, her uncle, Bah Kyrmen, was growing a new bridge. He had laid a hollow betel-nut trunk across the water like a long wooden gutter. Inside it, young roots from a fig tree on the bank were creeping across. They were pale and bendy, like cooked noodles.
 
 'When will it be ready?' Iba asked.
 
@@ -260,7 +265,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - Ask: Where were the roots thickest on the old bridge? Why there?
 - Ask: Why did Iba hang a basket of stones from the roots?
 - Ask: Iba nearly shouted at the boy, but didn't. Why do you think she stopped?
-- Ask: Is there something in your life that got stronger because it was pushed or worked hard?
+- Ask: Iba's legs stopped aching on the steep steps. Which part of your body got stronger because you used it a lot?
 
 ## Games
 ### g1 · Squash, Stretch, Twist or Bend? (20 min)
@@ -287,7 +292,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess what will happen. Then let's try it.  
   *Child mode:* A TEST IT card! Guess first. Then do the test. Were you right?
-  - Ask: The paper clip sprang back after a small bend, but stayed bent after a big one. Why? (good: A small force lets it spring back.; A big force changes it for good.; Too much bending makes the tiny parts inside slide to new places.)
+  - Ask: The paper clip sprang back after a small bend, but stayed bent after a big one. Why? (good: A small force lets it spring back.; A big force changes it for good.; A big bend makes rows of atoms inside slide to new places.)
   - Think: Can the same thing be elastic and plastic? What decides which one it is?
 - **s5 (2 min)**  
   *Parent does:* 1. Count tokens to find the winner. 2. Look at the four piles together.  
@@ -323,9 +328,9 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 ## Experiments
 ### e1 · The Clay Drop Test (25 min)
 - **question:** Does dropping clay from higher up squash it more?
-- **predict:** Before you drop anything, guess. Will the clay dropped from 80 cm be more squashed, less squashed, or the same as from 10 cm?
+- **predict:** Before you drop anything, guess. Will the clay dropped from 80 cm be more squashed, less squashed, or the same as from 10 cm? Why do you think so?
 - **fair test:** Change only the height. Use four clay balls of the same size, made of the same clay. Drop each onto the same steel plate. Let go, don't throw.
-- **safety:** Stand on a chair only with a grown-up holding it, for the 80 cm drop. Better still, the grown-up does the high drop.
+- **safety:** Drop the clay onto a plate on the floor. 80 cm is about as high as a grown-up's waist, so nobody needs to climb.
 - **record:** Fill in the table. Then draw a bar chart, with one bar for each height. Make each bar as tall as that patch was wide.
 - **results table:** Drop height (cm) | Width of the flat patch (cm) | Drawing of the squashed ball
 - **s1 (4 min)**  
@@ -337,11 +342,11 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent does:* 1. Put the plate on the floor. 2. Hold the measuring tape upright beside it. 3. Ask your child to guess which drop will squash most.  
   *Parent says:* We'll drop from 10, 20, 40 and 80 centimetres. Which one will squash most? Why do you think so?  
   *Child mode:* Put the plate on the floor. Hold a tape upright beside it. Guess. Which drop will squash most?
-- **s3 (10 min) · grown-up needed**  
+- **s3 (10 min)**  
   *Parent does:* 1. Hold the first ball beside the tape, its bottom level with 10 cm. 2. Let go without pushing. 3. Measure the width of the flat patch with the ruler. 4. Repeat with a new ball from 20, 40 and 80 cm.  
   *Parent says:* Let go gently, don't throw. Now let's measure the flat part on the bottom.  
   *Child mode:* Hold the ball at 10 cm. Let go. Don't throw! Measure the flat patch. Do the same from 20, 40 and 80 cm.
-  - Note: A grown-up should do the 80 cm drop if a chair is needed. Measure straight across the widest part of the flat patch. If the patch is not round, measure the longest way and keep to that each time.
+  - Note: Measure straight across the widest part of the flat patch. If the patch is not round, measure the longest way and keep to that each time.
 - **s4 (5 min)**  
   *Parent does:* Help your child draw a bar chart of the patch widths, one bar for each height.  
   *Parent says:* Let's turn the numbers into a picture. One bar for each height. The taller the bar, the more squashed the ball.  
@@ -349,12 +354,12 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   - Check: In the clay drop chart, the bars get taller as the height goes up. This means… → **Higher drops squash the clay more**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Tell me three things. Does a higher drop squash clay more? What did you measure that shows it? Why do you think it happens?  
+  *Child mode:* Say or write three things. What you think now. What you measured. Why it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: dropping clay from higher squashes it more. What I saw: the patch was 1 cm wide from 10 cm, but 4 cm wide from 80 cm. Why: from higher up the ball is going faster, so the plate has to push harder to stop it. A bigger push makes a bigger squash.
 ### e2 · Squash, Spring Back or Break? (25 min)
 - **question:** When the same force hits different materials, what does each one do?
-- **predict:** Before testing, guess for each thing. Will it stay changed, spring back, or break?
+- **predict:** Before testing, guess for each thing. Will it stay changed, spring back, or break? Why do you think so?
 - **fair test:** Give every thing the same force. Use the same ball, dropped down the same paper tube, from the same height. Use pieces of about the same size.
 - **safety:** Keep fingers away from the bottom of the tube. A grown-up holds the tube steady. Eat nothing that has been tested.
 - **record:** Fill in the table. Then draw the six things in three groups: stays changed, springs back, breaks.
@@ -364,10 +369,10 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent says:* Feel each one with your finger. Which do you think will squash? Which will spring back? Which will break?  
   *Child mode:* Press each thing gently with a finger. Then guess. Squash, spring back, or break? Write your guesses.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* 1. Stand the paper tube upright on the first thing. 2. Drop the ball into the top of the tube. 3. Lift the tube and look. 4. Write what happened. 5. Repeat for each thing.  
+  *Parent does:* 1. Roll the newspaper into a tube just wide enough for the ball. 2. Stand it upright on the first thing. 3. Drop the ball into the top. 4. Lift the tube and look. 5. Write what happened. 6. Repeat for each thing.  
   *Parent says:* Same ball, same tube, same height every time. Now what happened? Was your guess right?  
   *Child mode:* Stand the tube on one thing. Drop the ball in the top. Lift the tube. What happened? Write it down.
-  - Note: Expect: the biscuit breaks. The dough and boiled potato stay squashed. The sponge springs back. The raw potato may dent a little or crack. The stone does not change at all that you can see. That is a useful result, not a failure.
+  - Note: Expect: the biscuit breaks. The dough and boiled potato stay squashed. The sponge springs back. The raw potato may dent a little or crack. The stone or spoon does not change at all that you can see. That is a useful result, not a failure.
 - **s3 (5 min)**  
   *Parent does:* Sort the six things into three groups on the table.  
   *Parent says:* Let's sort them. Stays changed. Springs back. Breaks. Where does the stone go?  
@@ -376,39 +381,40 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   - Check: The sponge squashed, then sprang back. A word for this is… → **Elastic**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: different materials answer the same force in different ways. What I saw: the biscuit broke, the dough stayed squashed, and the sponge sprang back. Why: the tiny parts inside are held together differently. In dough they slide, in a sponge they pull back, and in a biscuit they crack apart.
+  *Parent says:* Tell me three things. Do different things answer the same push in different ways? What did you see that shows it? Why do you think so?  
+  *Child mode:* Say or write three things. What you think now. What you saw. Why it happened.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: different materials answer the same force in different ways. What I saw: the biscuit broke, the dough stayed squashed, and the sponge sprang back. Why: the tiny parts inside are held together differently. In dough they slide, in a sponge the thin walls spring back, and in a biscuit they crack apart.
 ### e3 · Wet Ball Prints: catching a bounce (20 min)
 - **question:** Does a bouncing ball really squash? Does a higher drop squash it more?
-- **predict:** Before you test, guess. Will the wet circle from shoulder height be bigger, smaller, or the same as from knee height?
-- **fair test:** Use the same ball, wet the same way each time, on the same kind of paper. Change only the drop height. Do each height 3 times, because one try can be a fluke.
+- **predict:** Before you test, guess. Will the wet circle from shoulder height be bigger, smaller, or the same as from knee height? Why do you think so?
+- **fair test:** Use the same ball, wet the same way each time, on the same kind of paper. Change only the drop height. Do each height 3 times, because one try can be a fluke. Then put the three widths in order and take the middle one.
 - **safety:** Wipe up water straight away, so nobody slips.
 - **record:** Fill in the table. Draw the three biggest wet circles, side by side.
 - **results table:** Drop height | Try 1: width of wet circle (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay dark paper on the floor. 2. Hold a ball and ask your child how much of it touches the floor when it rests there.  
-  *Parent says:* When this ball sits on the floor, how much of it touches? Just a tiny dot. Now let's see how much touches when it bounces.  
-  *Child mode:* Put the ball on the floor. How much of it touches? A tiny dot! Now let's see what happens in a bounce.
+  *Parent does:* 1. Lay paper on the floor. 2. Wet the bottom of the ball and set it down gently on the paper. 3. Lift it and look at the small wet dot it made.  
+  *Parent says:* When this ball just sits on the floor, how much of it touches? Look, only a small dot. Now let's see how much touches when it bounces.  
+  *Child mode:* Wet the ball. Set it down gently on the paper. Lift it. See the small dot? Now let's try a bounce.
 - **s2 (10 min)**  
-  *Parent does:* 1. Dip the bottom of the ball in water. 2. Drop it from knee height onto the paper. 3. Catch it after one bounce. 4. Measure the wet circle. 5. Repeat from waist and shoulder height, 3 times each, on fresh paper.  
-  *Parent says:* Look at the wet circle. That's how flat the ball got for a moment. Now let's try from higher.  
+  *Parent does:* 1. Dip the bottom of the ball in water and shake off the drips. 2. Drop it from knee height onto the paper. 3. Catch it after one bounce. 4. Measure the wet circle. 5. Repeat from waist and shoulder height, 3 times each, on fresh paper.  
+  *Parent says:* Look at the wet circle. Is it bigger or smaller than the dot? Now let's try from higher.  
   *Child mode:* Dip the ball in water. Drop it from your knee. Catch it after one bounce. Measure the wet circle. Now try waist and shoulder height.
-  - Note: The wet circle is far bigger than the tiny dot that touches when the ball rests. That shows the ball squashed flat. The prints dry fast, so measure straight away.
+  - Note: The wet circle is far bigger than the dot the ball made resting on the paper. That shows the ball squashed flat for a moment. The prints dry fast, so measure straight away.
 - **s3 (3 min)**  
   *Parent does:* Put the three middle values side by side. Then drop a ball of dough from the same height, for comparison.  
-  *Parent says:* Higher drops make bigger circles. Now watch the dough. Why doesn't it bounce?  
+  *Parent says:* Which height made the biggest circle? Now let's drop a ball of dough from waist height. What do you think it will do?  
   *Child mode:* Which circle is biggest? Now drop a ball of dough. Does it bounce? Why not?
   - Check: Why doesn't the dough ball bounce? → **It stays squashed, so nothing pushes it back up**
 - **s4 (1 min)**  
-  *Parent does:* Talk about what a bounce really is.  
-  *Parent says:* In a bounce, the floor squashes the ball, and the ball springs back and pushes itself up. One force changed its shape and its direction.  
-  *Child mode:* A bounce is a squash and a spring back. One push changes the ball's shape and its direction!
+  *Parent does:* Ask your child what a bounce is. Wait for their idea before saying anything.  
+  *Parent says:* Resting, the ball touched only a small dot. In the bounce, the wet circle was much bigger. What happened to the ball when it hit the floor? What sent it back up?  
+  *Child mode:* The bounce made a much bigger circle than the dot. What happened to the ball? What sent it back up?
+  - Note: A good answer: the floor pushed up and squashed the ball flat for a moment. Then the ball sprang back to round and pushed itself up. One push changed both its shape and its direction.
   - Think: Tennis players' rackets also squash when they hit the ball. Why might that help?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Tell me three things. Does a bouncing ball squash? What did you see that shows it? Why do you think it happens?  
+  *Child mode:* Say or write three things. What you think now. What you saw. Why it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a bouncing ball squashes, and it squashes more from higher up. What I saw: the wet circle was about 2 cm from knee height and 4 cm from shoulder height. Both were much bigger than the tiny dot when it rests. Why: from higher it hits faster, so the floor pushes harder and squashes it flatter. Then it springs back up.
 
 ## Activities
@@ -444,10 +450,10 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   - Ask: What happened on each side? (good: The inside got squashed and the lines got closer.; The outside got stretched and the lines spread apart.)
   - Check: When something bends, its inside curve is… → **Squashed**
 - **s3 (6 min)**  
-  *Parent does:* 1. Lay the ruler flat across the two tins. 2. Put the small book on its middle and watch it sag. 3. Now stand the ruler on its thin edge and hold its ends upright. 4. Put the book on top again.  
-  *Parent says:* Same ruler, same book. Lying flat, it sags. On its edge, it hardly bends. Why?  
-  *Child mode:* Lay the ruler flat across two tins. Put a book on it. It sags! Now stand the ruler on its edge. Try again.
-  - Note: On its edge, the top and bottom of the ruler are far apart. To bend, the top must squash a lot and the bottom must stretch a lot. So it resists. This is why steel beams have an I shape, and why bamboo, which is a hollow tube, is so stiff.
+  *Parent does:* 1. Lay the ruler flat across the two tins. 2. Put the small book on its middle and watch it sag. 3. Take the book off. Stand the ruler on its thin edge across the tins, and hold its ends upright. 4. Your child presses the middle down with one finger.  
+  *Parent says:* Same ruler. Lying flat, it sags under the book. On its edge, push it with your finger. Does it bend? Why do you think so?  
+  *Child mode:* Lay the ruler flat on two tins. Put a book on it. It sags! Now stand it on its edge. Press its middle.
+  - Note: A book will not balance on the thin edge, so your child presses with a finger instead. On its edge, the top and bottom of the ruler are far apart. To bend, the top must squash a lot and the bottom must stretch a lot. So it resists. This is why steel beams have an I shape, and why bamboo, a hollow tube, is so stiff.
 - **s4 (2 min)**  
   *Parent does:* Look around the home and outside for beams, tubes and bent things.  
   *Parent says:* Can you spot I-shaped beams, pipes or bamboo near us? They are all built to resist bending.  
@@ -455,7 +461,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   - Think: Your leg bones are tubes too. Why might a tube be a good shape for a bone?
 ### a3 · Wring It, Twist It, Make a Rope (20 min)
 - **safety:** Do the wringing outside or over a bucket.
-- **record:** Write how many single threads it took to hold the bottle, and how many twisted threads.
+- **record:** Write how many coins the loose strand held, and how many the twisted wick held.
 - **s1 (4 min)**  
   *Parent does:* 1. Soak the towel and lift it out. 2. Your child wrings it out over the bucket, hands turning opposite ways.  
   *Parent says:* Twist it tighter and tighter. What happens to the water? Why?  
@@ -466,16 +472,16 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent says:* What happened to the straight lines? They turned into spirals. That's what a twist looks like.  
   *Child mode:* Hold the paper strip at both ends. Twist one end. What happens to the lines?
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* 1. Tie one thread to the bottle's neck and lift. Does it snap? 2. Tie three threads together to a door handle. 3. Twist them together tightly, 20 turns, holding the free ends. 4. Knot the ends and tie the bottle on. 5. Count how many threads you needed each way.  
-  *Parent says:* One thread snaps. Three threads twisted together hold the bottle. Why are they stronger together?  
-  *Child mode:* Try one thread on the bottle. Does it snap? Now twist three threads together. Tie on the bottle. Does it hold?
-  - Note: Use a light bottle so a snapping thread drops it only a few centimetres. The twist squeezes the threads against each other. Friction, the grip between them, makes them share the pull. Coir rope in Kerala is made this way from coconut fibres. Expect to need more single threads than twisted ones.
-  - Check: Twisted threads are stronger because… → **The twist squeezes them, so they grip each other and share the pull**
+  *Parent does:* 1. Pull a pinch of cotton wool into a loose strand as long as a finger. Don't twist it. 2. Hold its ends and pull gently. 3. Roll a second pinch, the same size, between your palms into a tight wick. 4. A grown-up ties its lower end to the bag handles. 5. Hold the top and add coins one at a time.  
+  *Parent says:* The loose strand pulls apart easily. Now the wick, made from the same amount of cotton. How many coins will it hold? Why?  
+  *Child mode:* Pull the loose cotton gently. It comes apart! Now twist the same amount into a wick. Add coins to the bag.
+  - Note: Try tying the loose strand to the bag too. It usually pulls apart at once. The twisted wick should hold many coins. If the bag fills before it breaks, that is a good result. The twist squeezes the short fibres against each other. Friction, the grip between them, makes them share the pull. Cotton thread and coir rope are made this way.
+  - Check: The twisted wick holds more than the loose strand because… → **The twist squeezes the fibres, so they grip each other and share the pull**
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: twisting threads together makes them much stronger. What I saw: one thread snapped, but three twisted threads held the bottle. Why: the twist squeezes the threads together, so they grip each other and share the pull.
+  *Parent says:* Tell me three things. Does twisting make cotton stronger? What did you see that shows it? Why do you think it happens?  
+  *Child mode:* Say or write three things. What you think now. What you saw. Why it happened.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: twisting cotton makes it much stronger. What I saw: the loose strand pulled apart, but the twisted wick held 15 coins. Why: the twist squeezes the fibres together, so they grip each other and share the pull.
 ### a4 · The Spaghetti Puzzle (10 min)
 - **safety:** Bend the spaghetti inside a bag or under a towel, and keep it away from eyes. Small sharp bits can fly.
 - **record:** Write how many pieces each stick broke into. Draw the best break.
@@ -484,23 +490,24 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent says:* Guess first. How many pieces will it break into? Let's count.  
   *Child mode:* Guess how many pieces. Hold the spaghetti by both ends, inside the bag. Bend it till it snaps. Count!
 - **s2 (3 min)**  
-  *Parent does:* Tell the story of the puzzle.  
-  *Parent says:* A famous scientist, Richard Feynman, tried this for a whole evening and never got two pieces. In 2005, two French scientists explained why. When it first snaps, both halves spring back so fast that they snap again.  
-  *Child mode:* A famous scientist tried this all evening. He never got two pieces! When it snaps, the halves spring back so fast they snap again.
+  *Parent does:* Ask your child why it never broke into just two pieces. Listen to their idea first. Then tell the story of the puzzle.  
+  *Parent says:* Why do you think it breaks into three or more? A famous scientist, Richard Feynman, tried for a whole evening and never got two. In 2005, two French scientists explained why. When it first snaps, both halves spring back so fast that they snap again.  
+  *Child mode:* Why do you think it breaks into many pieces? A famous scientist tried this all evening. He never got two pieces! When it snaps, the halves spring back so fast they snap again.
   - Check: Why does dry spaghetti usually break into 3 or more pieces? → **The first snap makes the halves spring back so fast they break again**
 - **s3 (3 min)**  
-  *Parent does:* Try the trick found at MIT in 2018. Twist the spaghetti nearly a full turn first, holding both ends. Then bend it slowly.  
+  *Parent does:* Try the trick found at MIT in 2018. Hold both ends and twist the spaghetti about three-quarters of a turn. Then bend it slowly.  
   *Parent says:* Scientists found a twist can change how a bend breaks. Can we get two pieces? It's hard. They used a machine.  
-  *Child mode:* Now twist it nearly a full turn first. Then bend it slowly. Two pieces? It's tricky. Keep trying!
-  - Note: This trick is hard by hand. The scientists twisted the spaghetti almost a full turn before bending it, and used a machine to bend it slowly. If it doesn't work, that's fine. The point is that twisting changes how something breaks.
+  *Child mode:* Now twist it about three-quarters of a turn. Then bend it slowly. Two pieces? It's tricky. Keep trying!
+  - Note: This trick is hard by hand. The scientists twisted the spaghetti about three-quarters of a turn or more before bending it, and used a machine to bend it slowly. If it doesn't work, that's fine. The point is that twisting changes how something breaks.
   - Think: Scientists solved this puzzle only in 2005. What other kitchen puzzles might nobody have solved yet?
 ### a5 · Is the Table Bending? (a laser and a mirror) (10 min)
 - **safety:** Only a grown-up holds the laser. Never point it at anyone's eyes, and never look into the beam or its reflection. Use a toy-strength laser pointer.
 - **record:** Draw the table, the mirror, the beam and the dot on the wall. Mark how far the dot moved.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Lay the mirror flat in the middle of the table. 2. A grown-up rests the laser on a pile of books, so it stays still, and aims it at the mirror. 3. Find the red dot on the wall. 4. Mark it with tape.  
+  *Parent does:* 1. Lay the mirror flat in the middle of a table, about 2 metres from a wall. 2. A grown-up rests the laser on a pile of books, so it stays still, and aims it at the mirror. 3. Find the red dot on the wall. 4. Mark it with tape.  
   *Parent says:* Does a solid table change shape when you press it? We can't see it. Let's use a beam of light to find out.  
   *Child mode:* Does a hard table change shape when you press it? Ask a grown-up to set up the laser. Find the dot on the wall.
+  - Note: No laser pointer at home? They are cheap at stationery and electronics shops. If you don't have one, skip this activity. The wet ball prints test shows a hidden squash too.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* Your child presses down gently on the table, near the mirror, then lets go. Everyone watches the dot.  
   *Parent says:* Press gently. Watch the dot. Now press harder. What happens?  
@@ -529,7 +536,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent does:* 1. Make each paper strip into a ring. 2. Cross the two rings at right angles, like the lines on a globe. 3. Tape both rings to the pencil at the bottom. At the top, tape them together and push the pencil up through a small hole, so they can slide. 4. Spin the pencil fast between your palms.  
   *Parent says:* This is the Earth. Spin it fast. What happens to its shape?  
   *Child mode:* Make a paper globe on a pencil. Spin the pencil fast between your hands. What happens to the shape?
-  - Note: As the rings spin, they flatten at the top and bottom and bulge at the middle. The real Earth spins too. It is about 43 kilometres wider across the equator than from pole to pole. The top of the rings must be free to slide down the pencil, or they can't flatten.
+  - Note: As the rings spin, they flatten at the top and bottom and bulge at the middle. The real Earth spins too. It is about 43 kilometres wider across the equator than from pole to pole. The top of the rings must be free to slide down the pencil, or they can't flatten. If the rings hardly change, spin faster, or use thinner paper.
   - Think: The spinning Earth is squashed. Is anything in space a perfect ball?
 
 ## Projects
@@ -556,15 +563,15 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent says:* You were taller in the morning! During the day, your weight squashes the soft pads between the bones of your back. At night, lying down, they spring back.  
   *Child mode:* Were you taller in the morning? Your back squashes a little during the day. At night it springs back!
   - Check: Why are you a little taller in the morning? → **The pads in your spine spring back while you lie down at night**
-- **s5 (10 min)**  
+- **s5 (7 min)**  
   *Parent does:* Talk about astronauts.  
   *Parent says:* In space, astronauts float, so nothing squashes their spine. They grow a few centimetres taller. But their bones get weaker, because nothing pushes on them. So they exercise for about two hours every day.  
   *Child mode:* In space, astronauts grow a little taller! But their bones get weaker, because nothing pushes on them. So they exercise every day.
   - Think: Your bones get stronger when you run and jump. What could you do today that your bones would like?
-- **s6 (0 min)**  
+- **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
+  *Parent says:* Tell me three things. Are you taller in the morning? What did you measure that shows it? Why do you think it happens?  
+  *Child mode:* Say or write three things. What you think now. What you measured. Why it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: I am a little taller in the morning than at night. What I saw: I was 130 cm in the morning and 129 cm at bedtime. Why: my weight squashes the soft pads in my back during the day. They spring back when I lie down.
 
 ## Challenges
@@ -660,7 +667,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 15. (draw) Draw a ball of dough before and after you squash it. Draw an arrow to show your push.  
    **Answer:** A round ball, then a flat round shape. The arrow points down into the dough.. *Why:* A squash is a push inwards, so the arrow points into the dough.
 16. (write) Why does a sponge spring back but clay stays squashed? Give your best idea.  
-   **Answer:** Any thoughtful idea. A good one: the tiny parts inside the sponge pull back into place, but in clay they slide to new places and stay there.. *Why:* Elastic things pull back into shape. In plastic changes, the tiny parts move to new places.
+   **Answer:** Any thoughtful idea. A good one: a sponge is full of holes with thin, springy walls. They bend when you squeeze, then straighten. In clay, tiny pieces slide to new places and stay there.. *Why:* Elastic things spring back into shape. In a plastic change, the tiny pieces inside move to new places and stay.
 ### Bends, Bounces and Fair Tests (stretch) (stretch, 16 questions)
 1. (mcq) Look at the chart from the clay drop test. What pattern does it show?  
    Options: The higher the drop, the wider the flat patch / The higher the drop, the smaller the flat patch / Height makes no difference  
@@ -670,7 +677,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 3. (mcq) In the bendy sponge activity, you bend a sponge with lines drawn across it. What happens to the lines on the INSIDE of the curve?  
    Options: They crowd closer together / They spread further apart / They stay exactly the same / They disappear  
    **Answer:** They crowd closer together. *Why:* The inside of a bend is squashed, so the lines crowd together. The outside is stretched, so they spread apart. Picking 'spread apart' mixes up the inside with the outside.
-4. (mcq) A plastic ruler sags when a book sits on it lying flat. Stand the same ruler on its thin edge, and it hardly bends. Why?  
+4. (mcq) You press the middle of a plastic ruler lying flat, and it bends easily. Stand the same ruler on its thin edge, and the same press hardly bends it. Why?  
    Options: On its edge, more of the ruler is far from the middle of the bend / The ruler got harder / The book got lighter / It is a different ruler  
    **Answer:** On its edge, more of the ruler is far from the middle of the bend. *Why:* On its edge, the top and bottom of the ruler are far apart. The top must squash and the bottom must stretch a lot to bend it, so it resists. Picking 'the ruler got harder' means looking for a change in the material. Only its position changed.
 5. (mcq) Which sheet of paper can hold the most coins over a gap between two books?  
@@ -684,9 +691,9 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 8. (mcq) Why do steel beams in buildings often have an I shape?  
    Options: Most of the steel is at the top and bottom, where a bend squashes and stretches most / It is cheaper to paint / It looks like the letter I for 'iron' / It makes them heavier  
    **Answer:** Most of the steel is at the top and bottom, where a bend squashes and stretches most. *Why:* A bend squashes the top and stretches the bottom most. So steel placed there resists bending best, without wasting steel in the middle. Picking 'iron' is a fun guess, but the shape is about bending, not spelling.
-9. (mcq) Why is a twisted rope stronger than the same threads lying side by side?  
-   Options: The twist squeezes the threads together, so friction stops them sliding apart / Twisting makes each thread thicker / Twisting adds glue / It isn't stronger  
-   **Answer:** The twist squeezes the threads together, so friction stops them sliding apart. *Why:* Twisting presses the threads against each other. Friction, the grip between touching things, holds them together, so they share the pull. Picking 'thicker threads' is a sensible guess, but each thread stays the same size.
+9. (mcq) Why is cotton wool twisted into a wick stronger than the same cotton pulled into a loose strand?  
+   Options: The twist squeezes the fibres together, so friction stops them sliding apart / Twisting makes each fibre longer / Twisting adds glue / It isn't stronger  
+   **Answer:** The twist squeezes the fibres together, so friction stops them sliding apart. *Why:* Twisting presses the short fibres against each other. Friction, the grip between touching things, holds them together, so they share the pull. Picking 'longer fibres' is a sensible guess, but each fibre stays the same length.
 10. (mcq) A ball is swung round on a string. The string breaks. Which way does the ball go?  
    Options: Straight on, in the direction it was moving / It keeps going round in a circle / Straight back to the middle / Straight down  
    **Answer:** Straight on, in the direction it was moving. *Why:* With no string pulling it inwards, nothing turns it any more. So it flies off in a straight line. Picking 'keeps going round' is a very common idea. But going round needs a pull inwards all the time.
@@ -695,8 +702,8 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
    **Answer:** The rubber ball springs back after squashing, but the clay stays squashed. *Why:* Both squash when they hit. The rubber ball springs back and pushes itself up. The clay stays squashed, so nothing pushes it back up. Picking 'clay is heavier' misses that weight is not the main difference here.
 12. (truefalse) A steel table changes shape a tiny bit when you press on it.  
    **Answer:** True. *Why:* True. It is far too little to see. But a laser beam bounced off a mirror on the table moves when you press. That shows the table bends.
-13. (order) Put these in order, from EASIEST to change the shape of by hand, to HARDEST: a stone, a sponge, a steel spoon, dough.  
-   **Answer:** order shown. *Why:* Dough squashes with a light press. A sponge needs a little more. A steel spoon needs a strong push to bend. A stone hardly changes at all by hand.
+13. (order) Put these in order, from EASIEST to change the shape of by hand, to HARDEST: a stone, a rubber eraser, a steel spoon, dough.  
+   **Answer:** order shown. *Why:* Dough squashes with a light press. A rubber eraser needs a firm squeeze. A steel spoon needs a strong push to bend. A stone hardly changes at all by hand.
 14. (write) You want to make a fair test of which drop height squashes clay most. Write what you will change, what you will measure, and what you will keep the same.  
    **Answer:** I will change the drop height. I will measure the width of the flat patch. I will keep the same size ball, the same clay, the same plate, and I will drop it, not throw it.. *Why:* A fair test changes one thing and keeps the rest the same.
 15. (forces) A ball of dough is being squashed between your two hands. Show the forces on it, with one arrow for each.  
@@ -705,9 +712,9 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 16. (draw) Design a sandal sole that can bend when you walk but never snaps. Label which parts squash and which parts stretch when it bends.  
    **Answer:** Any thoughtful design. The top of the bend is squashed and the bottom is stretched, or the other way round when it bends the other way. Soft rubber, or grooves across the sole, help it bend.. *Why:* A bend squashes one side and stretches the other.
 ### From Atoms to Mountains (challenge) (challenge, 17 questions)
-1. (mcq) Deep down, why does a squeezed sponge spring back?  
-   Options: Its atoms are pushed closer, and the bonds between them push back / Air inside it is magic / Gravity pulls it back / Squeezing makes its atoms bigger  
-   **Answer:** Its atoms are pushed closer, and the bonds between them push back. *Why:* Bonds between atoms act a little like tiny springs. Squash them and they push back. Picking 'air inside' is a sensible guess, as sponges have air in them. But a solid rubber ball also springs back with no air holes. Squeezing does not make atoms bigger. It pushes them closer together.
+1. (mcq) Deep down, why does a steel ruler spring back after a small bend?  
+   Options: Its atoms are pushed closer on one side and pulled apart on the other, and the bonds between them pull them back / Air inside it pushes it back / Gravity pulls it back / Bending makes its atoms bigger  
+   **Answer:** Its atoms are pushed closer on one side and pulled apart on the other, and the bonds between them pull them back. *Why:* Bonds between atoms act a little like tiny springs. Squash them or stretch them, and they pull the atoms back into place. Picking 'air inside' is a sensible guess for a sponge, but a steel ruler has no air holes. Bending does not make atoms bigger. It moves them closer or further apart.
 2. (mcq) A gold bangle can be hammered into a new shape without breaking. A glass bangle cannot. Why?  
    Options: In gold, rows of atoms can slide past each other. In glass they cannot, so cracks spread / Gold is softer than everything / Glass is not made of atoms / Gold is heavier  
    **Answer:** In gold, rows of atoms can slide past each other. In glass they cannot, so cracks spread. *Why:* In metals, rows of atoms slip into new places one step at a time. In glass the atoms are jumbled and stuck, so a push gathers at tiny scratches and a crack races across. Picking 'gold is heavier' links strength with weight, but that is not the reason.
@@ -731,29 +738,29 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 9. (fill) The plate that India sits on moves north by about 5 cm a year. In 20 years it moves about ____ cm.  
    **Answer:** ['100']. *Why:* 20 lots of 5 cm is 100 cm. That is 1 metre. 5 × 20 = 100.
 10. (mcq) The spinning Earth is about 43 km wider across the equator than from pole to pole. What causes the bulge?  
-   Options: Its spin flings the middle outwards a little / The Moon pulls the equator / The equator is hotter, so it swells / Mountains at the equator  
-   **Answer:** Its spin flings the middle outwards a little. *Why:* As the Earth spins, the middle travels fastest. The pull needed to keep it going round squashes the poles a little and lets the middle bulge. Picking 'hotter' is a clever guess, since heat does swell things. But it is the spin.
+   Options: Its spin makes the middle bulge out a little / The Moon pulls the equator / The equator is hotter, so it swells / Mountains at the equator  
+   **Answer:** Its spin makes the middle bulge out a little. *Why:* As the Earth spins, the middle moves fastest. Gravity cannot hold the rock there quite as close in, so the middle bulges out and the poles are a little flatter. Picking 'hotter' is a clever guess, since heat does swell things. But it is the spin.
 11. (mcq) Jupiter's moon Io has more active volcanoes than anywhere else we know. Why?  
    Options: Jupiter's gravity squeezes and stretches it, and that heats its insides / It is very close to the Sun / It is made of fire / It is hit by lots of rocks  
    **Answer:** Jupiter's gravity squeezes and stretches it, and that heats its insides. *Why:* Squeezing and stretching something over and over warms it up, like bending a paper clip back and forth. Picking 'close to the Sun' is a natural guess, but Io is much further from the Sun than Earth is.
 12. (mcq) In 2015, the LIGO detectors measured space itself being stretched and squashed. What caused it?  
    Options: Two black holes crashing together far away / A truck driving past / An earthquake / The Moon  
-   **Answer:** Two black holes crashing together far away. *Why:* The crash sent a ripple through space called a gravitational wave. Its stretch was hundreds of times smaller than a proton. Picking 'a truck' or 'an earthquake' is sensible, because LIGO must ignore those shakes. Two detectors far apart helped scientists tell the difference.
+   **Answer:** Two black holes crashing together far away. *Why:* The crash sent a ripple through space called a gravitational wave. Its stretch was about a thousand times smaller than a proton. Picking 'a truck' or 'an earthquake' is sensible, because LIGO must ignore those shakes. Two detectors far apart helped scientists tell the difference.
 13. (write) Dry spaghetti almost always snaps into three or more pieces. Scientists explained why in 2005. Try to explain it in your own words.  
    **Answer:** When it first snaps, the two halves spring back fast. That sends a wave of extra bending along each half, which snaps them again.. *Why:* The first break releases a sudden spring-back, which bends the pieces past breaking.
 14. (write) Is it better to bend or to be stiff? Give one example where bending is better and one where being stiff is better.  
    **Answer:** For example: a bamboo that bends survives a storm, and a bendy ruler doesn't snap. But a bridge or a table should be stiff, so it doesn't sag when we use it.. *Why:* There is no single right answer. Good answers give a reason for each side.
 15. (write) Iba tied the young roots tightly so the storm couldn't touch them. They stayed thin. Was she wrong to protect them? Explain what you think.  
    **Answer:** Any thoughtful answer. For example: she wanted to help, but the roots needed to be pushed and pulled to grow strong. Protecting something from every force can keep it weak.. *Why:* This links the science to life. Living things grow stronger where they are pushed and pulled.
-16. (draw) Draw what you think happens to the atoms inside a sponge when you squash it, and when you let go.  
-   **Answer:** Atoms joined by little springs: squashed closer together while pressed, back to their old spacing when let go.. *Why:* Bonds between atoms act like tiny springs. Squashed, they push back.
+16. (draw) Draw what you think happens to the atoms inside a steel ruler when you bend it a little, and when you let go.  
+   **Answer:** Atoms joined by little springs. While bent, they are closer together on the inside of the curve and further apart on the outside. When let go, they go back to their old spacing.. *Why:* Bonds between atoms act like tiny springs. Squashed or stretched, they pull back.
 17. (write) Sophie Germain had to use a man's name to share her maths. Why do you think that was? Is it fair?  
    **Answer:** Any thoughtful answer. For example: in her time, many people thought women should not do science, so she hid her name to be taken seriously. It was not fair.. *Why:* There is no single right answer. Good answers show understanding of her situation.
 
 ## Videos
-- **A tennis ball bouncing, filmed in slow motion** (The Slow Mo Guys, or any high-speed bounce video, 4 min) id `1yT0hxplVBg`: Shows a ball squashing flat when it bounces, which is too fast to see with our eyes. It matches the wet ball prints test. *Check:* Found by YouTube search: "The Beauty of Slow Motion - Tennis Ball Bounce" by ScienceLuxembourg. Title checked automatically; a parent may still preview it.
-- **Breaking spaghetti in two (MIT, 2018)** (MIT News, 3 min) id `UWmq1pDC-qI`: Shows the spaghetti puzzle and the twist trick in high-speed video. *Check:* Found by YouTube search: "Why Spaghetti Usually Breaks Into More Than Two Pieces" by Everyday, Explained in lines. Title checked automatically; a parent may still preview it.
-- **How the Himalayas were made** (a trusted science channel, for example a museum or a university, 5 min) id `QLmiNnbETqE`: Shows the Indian plate pushing into Asia and folding rock into mountains. *Check:* Found by YouTube search: "The Birth of the Himalayas: A Geological Journey | How the Himalayas formed  #continentaldrift #vfx" by The Infinite Madness. Title checked automatically; a parent may still preview it.
+- **A tennis ball bouncing, filmed in slow motion** (ScienceLuxembourg, 4 min) id `1yT0hxplVBg`: Shows a ball squashing flat when it bounces, which is too fast to see with our eyes. It matches the wet ball prints test. *Check:* Found by YouTube search: "The Beauty of Slow Motion - Tennis Ball Bounce" by ScienceLuxembourg. Title checked automatically; a parent may still preview it.
+- **Breaking spaghetti in two (MIT, 2018)** (Everyday, Explained in lines, 3 min) id `UWmq1pDC-qI`: Shows the spaghetti puzzle and the twist trick in high-speed video. *Check:* Found by YouTube search: "Why Spaghetti Usually Breaks Into More Than Two Pieces" by Everyday, Explained in lines. Title checked automatically; a parent may still preview it.
+- **How the Himalayas were made** (The Infinite Madness, 5 min) id `QLmiNnbETqE`: Shows the Indian plate pushing into Asia and folding rock into mountains. *Check:* Found by YouTube search: "The Birth of the Himalayas: A Geological Journey | How the Himalayas formed  #continentaldrift #vfx" by The Infinite Madness. Title checked automatically; a parent may still preview it. It uses computer animation, so a parent should check it shows the Indian plate moving north into Asia.
 
 ## Quiz
 1. (mcq) Which of these is a way a force can change shape?  
@@ -795,12 +802,12 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 13. (mcq) The spinning Earth is…  
    Options: A little wider across the equator than from pole to pole / A perfect ball / Wider from pole to pole  
    **Answer:** A little wider across the equator than from pole to pole. *Why:* Its spin makes the middle bulge by about 43 km. Picking 'perfect ball' is how it looks in pictures, but it is very slightly squashed.
-14. (mcq) Deep down, a sponge springs back because…  
-   Options: The bonds between its atoms push back when squashed / It is full of tiny magnets / Gravity pulls it back  
-   **Answer:** The bonds between its atoms push back when squashed. *Why:* Bonds between atoms act a little like tiny springs. Picking gravity mixes up a pull towards the Earth with a push between atoms.
+14. (mcq) Deep down, a bent steel ruler springs back because…  
+   Options: The bonds between its atoms pull them back into place / It is full of tiny magnets / Gravity pulls it back  
+   **Answer:** The bonds between its atoms pull them back into place. *Why:* Bonds between atoms act a little like tiny springs. Picking gravity mixes up a pull towards the Earth with the pull between atoms. Picking magnets mixes this up with a different force.
 15. (mcq) Do scientists fully understand what glass is?  
    Options: No, they still argue about it / Yes, it is a liquid that flows down windows / Yes, it is exactly like ice  
-   **Answer:** No, they still argue about it. *Why:* Scientists still debate what kind of stuff glass is. Picking 'flows down windows' means the old window myth has been met. Tests show it doesn't flow.
+   **Answer:** No, they still argue about it. *Why:* Scientists still debate what kind of solid glass is. Picking 'flows down windows' repeats an old story that tests have shown is not true.
 
 ## Applications
 - Potters, bakers, goldsmiths, blacksmiths and sculptors all change shapes with forces.
@@ -837,7 +844,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **How squashed can matter get? What is inside a neutron star?** Neutron stars are squashed harder than anything we can make on Earth. Scientists don't agree on exactly what their centres are made of.
 - **Could we make materials that heal themselves, like bone does?** Scientists have made some self-healing plastics and concretes, but none come close to how well bone repairs itself.
 - **Do living root bridges grow thicker exactly where people walk?** Trees grow thicker where they are bent. But nobody has carefully measured this on the root bridges of Meghalaya yet.
-- **Could gravitational waves tell us what happened just after the universe began?** Scientists hope very old ripples in space might still be passing through us. Nobody has detected them yet.
+- **Could gravitational waves tell us what happened just after the universe began?** Scientists hope ripples in space from the very early universe might still be passing through us. Nobody has detected ripples from that early time yet.
 
 ## Questions to ask kids
 - You just sat on that cushion. What happened to its shape? Did it spring back?
@@ -908,6 +915,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Long kitchen sponges](https://www.amazon.in/s?k=kitchen+sponge) (material): Draw lines on one and bend it to see inside a bend. Also springs back in the drop test. Used in a2, e2. 
 - [Forces Make Things Move, by Kimberly Brubaker Bradley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Forces+Make+Things+Move+Kimberly+Brubaker+Bradley) (book): A clear picture book about forces changing how things move, for ages 5 to 9. It is on the founder's reading list. Used in g2. If bought, read it before the Six Things a Force Can Do game. Its pages can replace the 'Forces change speed and direction' card.
 - [The Way Things Work Now, by David Macaulay](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): A big, funny picture book showing how machines and structures work, including springs, beams and arches. Good for curious older children and parents. Used in c1. If bought, look at its pages on beams and arches after the paper bridge challenge.
+- [Low-power red laser pointer, the kind used for talks](https://www.amazon.in/s?k=red+laser+pointer) (tool): Only for the table-bending activity, and only a grown-up uses it. It turns a tiny bend in the table into a dot moving on the wall. Used in a5. 
 
 ## Warm-up
 - Name the four ways a force can change shape. → Squash, stretch, twist and bend.
@@ -947,3 +955,4 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - Abbott and others (LIGO), Physical Review Letters 2016 (first gravitational wave, detected 2015)
 - Ludwig and others, Scientific Reports 2019 (living root bridges of Meghalaya)
 - Galileo, Two New Sciences, 1638 (hollow bones and reeds)
+- Newton, Philosophiae Naturalis Principia Mathematica, 1687 (the first law of motion, and the third law)

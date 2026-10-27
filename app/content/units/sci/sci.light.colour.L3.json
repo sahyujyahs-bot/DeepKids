@@ -1,22 +1,22 @@
 {
  "id": "sci.light.colour.L3",
- "title": "Colour and rainbows: sunlight is many colours",
+ "title": "Colour and rainbows: how sunlight splits into colours",
  "level": 3,
  "summary": {
-  "text": "This unit is about rainbows, prisms and the colours hidden in sunlight. Sunlight looks white, but it is really many colours mixed together. A prism is a clear block of glass with flat sides. When sunlight goes through a prism, each colour bends a different amount, so the colours spread apart. Raindrops do the same thing to make a rainbow. You can make rainbows at home with a glass of water or a garden hose. You can also spin the colours back together into white. Scientists use the rainbows of stars to find out what stars are made of. But nobody knows whether the red you see is the same as the red someone else sees.",
+  "text": "Sunlight looks white, but it is really many colours mixed together. A glass of water or a prism spreads them into red, orange, yellow, green, blue and violet, because each colour bends by a different amount. Raindrops do the same, and that is how a rainbow forms. Things look coloured because they absorb some colours of light and reflect the rest. Mixing coloured lights can make white, but mixing paints makes a dark, muddy colour. Nobody yet knows whether the red you see looks the same as the red someone else sees.",
   "art": "A beam of white sunlight entering a glass prism on a windowsill and fanning out into red, orange, yellow, green, blue and violet across a child's open palm."
  },
  "intro": {
-  "hook": "Fill a clear glass to the top with water. Stand it on a sunny windowsill in the morning. Now look at the floor below it. What do you notice? What do you wonder?",
-  "text": "Sunlight looks plain and white. It lights up the kitchen and nobody thinks about it. But sometimes, after the monsoon rain, a giant curve of colours hangs in the sky. Where were those colours before the rain came? Were they in the clouds? In the water? Or were they hiding inside the sunlight all along? About 360 years ago, a young man in England called Isaac Newton made a hole in his window shutter to find out.",
+  "hook": "Fill a clear glass to the top with water. Stand it at the edge of a windowsill where the morning or evening Sun shines in. Now look at the floor below it. What do you notice? What do you wonder?",
+  "text": "Sunlight looks plain and white. It lights up the kitchen and nobody thinks about it. But sometimes, after the monsoon rain, a giant curve of colours hangs in the sky. Where were those colours before the rain came? Were they in the clouds? In the water? Or were they hiding inside the sunlight all along? In 1666, about 360 years ago, a young man in England called Isaac Newton darkened his room to find out. He made a small hole in the window shutter and put a glass prism in the beam of sunlight.",
   "art": "A dark room with a single bright beam coming through a small hole in a wooden shutter, a glass prism in its path, and a band of colours on the opposite wall."
  },
  "outcomes": [
-  "I can say that sunlight, or white light, is many colours mixed together.",
+  "I can say that sunlight is many colours mixed together, and that things look coloured because they absorb some colours and reflect the rest.",
   "I can use a prism or a glass of water to split light into colours, and name the colours in order.",
   "I can explain that a rainbow forms when sunlight goes into raindrops, bends, bounces and comes out as colours.",
   "I can say where to stand to see a rainbow: with the Sun behind me and rain in front of me.",
-  "I can mix the colours back into white with a spinning colour wheel, and say what that shows.",
+  "I can mix the colours back into white with a spinning colour wheel, and say why mixing paints gives a dark colour instead.",
   "I can run a fair test, write what I saw, and finish with claim, evidence and reasoning.",
   "I can say what scientists agree about colour, and what nobody knows yet, like whether your red is the same as mine.",
   "I can give big examples: colours we cannot see, the rainbows of stars, and animals that see colours we cannot."
@@ -31,7 +31,7 @@
   },
   {
    "term": "White light",
-   "meaning": "White light is light that looks plain, with no colour. Sunlight is white light. It is really all the colours mixed together.",
+   "meaning": "White light is light that has no single colour of its own. Sunlight is white light. It is really many colours mixed together.",
    "example": "The light from the noon Sun on a white wall looks white.",
    "art": "A white beam with tiny coloured threads twisted inside it, like a rope."
   },
@@ -60,14 +60,14 @@
    "art": "A rainbow over a wet green field with a cow and a cyclist."
   },
   {
-   "term": "Bend",
-   "meaning": "When light goes from air into water or glass, it changes direction a little. We say it bends.",
+   "term": "Bend (refraction)",
+   "meaning": "When light goes from air into water or glass, it changes direction a little. We say it bends. Scientists call this bending refraction.",
    "example": "Light bends as it goes into a raindrop.",
    "art": "A straight line of light that turns a little where it enters a block of water."
   },
   {
    "term": "Reflect",
-   "meaning": "To reflect is to bounce back. Light reflects off mirrors, and off the inside of a raindrop.",
+   "meaning": "To reflect is to bounce back. Light reflects off a mirror and off the inside of a raindrop. We see most things by the light they reflect.",
    "example": "A mirror reflects your face back to you.",
    "art": "A ball of light bouncing off the back wall of a water drop."
   },
@@ -85,8 +85,8 @@
   },
   {
    "term": "Filter",
-   "meaning": "A colour filter is a clear coloured sheet. It lets one colour of light through and holds back the others.",
-   "example": "Red cellophane from a gift wrap is a red filter.",
+   "meaning": "A colour filter is a clear coloured sheet. It lets some colours of light through and absorbs most of the others.",
+   "example": "Red cellophane from gift wrap, or a see-through red sweet wrapper, is a red filter.",
    "art": "A torch beam passing through red cellophane and coming out red."
   },
   {
@@ -108,9 +108,9 @@
    "art": "A bee looking at a flower that has a dark target pattern only bees can see."
   },
   {
-   "term": "Mix",
-   "meaning": "To mix colours of light is to send them to your eye together. All the rainbow colours mixed look white.",
-   "example": "A spinning colour wheel looks almost white.",
+   "term": "Mixing light",
+   "meaning": "Mixing colours of light means sending them into your eye together. All the rainbow colours together look white. Red, green and blue light together look white too.",
+   "example": "A spinning rainbow wheel looks pale grey, nearly white.",
    "art": "A paper disc of rainbow slices, spinning into a pale blur."
   },
   {
@@ -128,14 +128,26 @@
   {
    "term": "Photon",
    "meaning": "A photon is a tiny packet of light, far too small to see. Light comes in these packets.",
-   "example": "A small torch sends out billions and billions of photons every second.",
+   "example": "A small torch sends out more than a million billion photons every second.",
    "art": "A torch beam made of countless tiny glowing dots."
   },
   {
+   "term": "Absorb",
+   "meaning": "To absorb light is to take it in, so that it does not bounce back. The light's energy usually turns into warmth.",
+   "example": "A black dosa tawa absorbs almost all the light that falls on it, so it looks black.",
+   "art": "Sunlight arrows falling on a black tawa and vanishing into it, with small wavy heat lines rising."
+  },
+  {
    "term": "Pigment",
-   "meaning": "A pigment is the stuff that gives paint, dye or a leaf its colour. It soaks up some colours of light and sends others back.",
+   "meaning": "A pigment is a substance that gives paint, dye, skin or a leaf its colour. It absorbs some colours of light and reflects the rest.",
    "example": "Turmeric has a yellow pigment. Leaves have a green pigment called chlorophyll.",
    "art": "A bowl of turmeric powder and a fresh green leaf."
+  },
+  {
+   "term": "Mixing paint",
+   "meaning": "Mixing paints puts their pigments together. Each pigment absorbs some colours, so together they absorb more. Many paints mixed make a dark, muddy brown.",
+   "example": "Yellow and blue paint make green, because green is the main colour that both of them reflect.",
+   "art": "A child's paint palette with blobs of yellow and blue, a green blob where they meet, and a muddy brown blob where every colour was mixed."
   }
  ],
  "explanations": [
@@ -157,7 +169,7 @@
    "concept": "What a prism does",
    "status": "defined",
    "definition": "A prism splits white light into colours because each colour bends by a different amount as it goes in and out.",
-   "description": "A prism is a clear block with flat sides at an angle. When light goes from air into glass, it bends a little. It bends again when it comes out. Here is the key. Each colour bends by a different amount. Violet bends the most. Red bends the least. So the colours that came in together go out in slightly different directions. A little way off, they have spread into a band. The unit on bending light tells you more about why light bends at all.",
+   "description": "A prism is a clear block with flat sides at an angle. When light goes from air into glass, it bends a little. It bends again when it comes out. This bending is called refraction. Each colour bends by a different amount. Violet bends the most and red bends the least. So colours that went in together come out in slightly different directions. A little way off, they have spread into a band. The unit on bending light explains why light bends at all.",
    "examples": [
     "Red always lands at one edge of the band, and violet at the other.",
     "A glass of water works like a round prism.",
@@ -171,11 +183,11 @@
    "concept": "How a rainbow is made",
    "status": "defined",
    "definition": "A rainbow forms when sunlight goes into raindrops, bends, bounces off the back of each drop, and comes out split into colours.",
-   "description": "A rainbow is made by millions of raindrops, each one working like a tiny prism. Sunlight goes into a drop and bends. It bounces off the back of the drop. Then it bends again as it comes out. Each colour comes out at a slightly different angle. So from any one drop, only one colour reaches your eye. Drops higher up send you red. Drops lower down send you violet. Together, all those drops paint the whole bow.",
+   "description": "A rainbow is made by millions of raindrops, each one working like a tiny prism. Sunlight goes into a drop and bends. It bounces off the back of the drop. Then it bends again as it comes out. Each colour comes out at a slightly different angle. So from any one drop, only one colour reaches your eye. Drops higher up send you red. Drops lower down send you violet. Together, all those drops make the whole bow.",
    "examples": [
     "After a monsoon shower, when the Sun comes out behind you, you see a rainbow on the dark clouds ahead.",
     "The spray of a waterfall, like Jog Falls in Karnataka, often holds a rainbow.",
-    "A garden hose set to fine spray makes a rainbow in your own yard."
+    "A spray bottle set to a fine mist makes a small rainbow on a sunny balcony, with the Sun behind you."
    ],
    "perspectives": [],
    "art": "A big cut-open raindrop showing a sunbeam going in, bouncing off the back, and coming out as red and violet rays going to a child's eye.",
@@ -189,7 +201,7 @@
    "examples": [
     "Morning rainbows appear in the west. Evening rainbows appear in the east.",
     "At noon in summer, you will almost never see a rainbow in India.",
-    "From a plane or a hilltop, a rainbow can be a full ring."
+    "From an aeroplane, a rainbow can sometimes be seen as a full ring."
    ],
    "perspectives": [],
    "art": "A child with the low Sun behind them, their shadow on the grass, and a rainbow arching around the shadow of their head.",
@@ -253,7 +265,7 @@
    "concept": "What makes red different from violet",
    "status": "defined",
    "definition": "The colour of light depends on its wavelength, the length of its waves. Red has the longest waves we can see and violet the shortest.",
-   "description": "Light travels as tiny waves, much too small to see. The colour depends on how long the waves are. Red light has the longest waves we can see. Violet has the shortest. Red waves are almost twice as long as violet waves. Thousands of these waves would fit across the thickness of one sheet of paper. Light also comes in tiny packets called photons. A violet photon carries more energy than a red one.",
+   "description": "Light travels as tiny waves, much too small to see. The colour depends on how long the waves are. Red light has the longest waves we can see. Violet has the shortest. Red waves are almost twice as long as violet waves. Laid end to end, about 150 red waves or 250 violet waves would fit across the thickness of one sheet of paper. Light also comes in tiny packets called photons. A violet photon carries more energy than a red one.",
    "examples": [
     "Red, orange and yellow have longer waves. Blue and violet have shorter waves.",
     "Violet and ultraviolet light carry more energy, which is why ultraviolet can burn skin.",
@@ -266,7 +278,7 @@
   {
    "concept": "Colours past the ends of the rainbow",
    "status": "defined",
-   "definition": "Infrared is invisible light beyond red, and ultraviolet is invisible light beyond violet. Together with the colours we see, they are all one family of light.",
+   "definition": "Infrared is invisible light beyond red, and ultraviolet is invisible light beyond violet. They are light just like the colours we see, with longer or shorter waves.",
    "description": "The rainbow does not really stop at red and violet. It goes on, but our eyes cannot see the rest. In 1800, William Herschel, an astronomer in England, put thermometers in the colours of a spectrum. One just past the red end, where there was no colour at all, got the warmest. He had found infrared light. In 1801, Johann Ritter in Germany found invisible light past the violet end. It darkened a special chemical. We call it ultraviolet. Bees can see ultraviolet light. Many flowers have patterns in ultraviolet that only bees and other insects can see.",
    "examples": [
     "A TV remote talks to the TV with infrared light.",
@@ -280,22 +292,22 @@
   {
    "concept": "Why things have colours",
    "status": "defined",
-   "definition": "Things look coloured because they soak up some colours of the light falling on them and send the rest back to our eyes.",
-   "description": "A leaf does not make green light. Sunlight shines on it with all its colours. The leaf soaks up most of the red and blue light to make its food. It sends the green light back to your eyes. So the leaf looks green. A ripe tomato soaks up most colours and sends back red. A white shirt sends back all the colours. A black bag soaks up almost all of them, which is why it gets hot in the sun. The unit on how we see tells you more about light bouncing into our eyes.",
+   "definition": "Things look coloured because they absorb some colours of the light falling on them and reflect the rest to our eyes.",
+   "description": "A leaf does not make green light. Sunlight falls on it with all its colours. The leaf's green pigment, chlorophyll, absorbs most of the red and blue light, and the leaf uses that energy to make its food. Much of the green light is reflected, and some of it reaches your eyes. So the leaf looks green. A ripe tomato absorbs most colours and reflects red. A white shirt reflects nearly all the colours. A black bag absorbs nearly all of them, which is why it gets hot in the sun. The unit on how we see tells you more about light bouncing into our eyes.",
    "examples": [
-    "Under a red light, a green leaf looks dark, because there is no green light to send back.",
+    "Under red light, a green leaf looks dark, because there is no green light for it to reflect.",
     "A black umbrella gets hotter in the sun than a white one.",
-    "Turmeric looks yellow because it sends back yellow and soaks up blue."
+    "Turmeric looks yellow because it absorbs blue light and reflects the other colours."
    ],
    "perspectives": [],
-   "art": "Sunlight with all its colours hitting a leaf, green arrows bounce off to an eye, and red and blue arrows disappear into the leaf.",
+   "art": "Sunlight with all its colours hitting a leaf: green arrows are reflected to an eye, and red and blue arrows are absorbed into the leaf.",
    "context": "This card explains why a leaf is green and a tomato is red, using what we know about sunlight."
   },
   {
    "concept": "Putting the colours back together",
    "status": "defined",
    "definition": "Mixing all the colours of light together makes white light again.",
-   "description": "If white light can be split into colours, can the colours be put back into white? Isaac Newton did it in the 1660s and 1670s. He split sunlight with one prism. Then he caught the colours with a lens and a second prism, and white light came out. You can do it with a spinning wheel. Colour a disc with rainbow slices and spin it fast. Your eye cannot keep up, so it mixes the colours. The wheel looks pale grey or nearly white.",
+   "description": "If white light can be split into colours, can the colours be put back into white? Isaac Newton did it in the 1660s and 1670s. He split sunlight with one prism. Then he caught the colours with a lens and a second prism, and white light came out. You can do it with a spinning wheel. Colour a disc with rainbow slices and spin it fast. Your eye cannot keep up, so it mixes the colours. The wheel looks pale grey or nearly white. It is grey, not bright white, because each slice reflects only part of the light that falls on it.",
    "examples": [
     "A spinning rainbow top looks pale while it spins fast.",
     "Phone and TV screens make white from tiny red, green and blue dots very close together.",
@@ -308,9 +320,9 @@
   {
    "concept": "Is colour in the light or in us?",
    "status": "debated",
-   "description": "Light has wavelengths, but the light itself is not 'red'. Red is what happens when that light reaches an eye and a brain. Most people have three kinds of colour-sensing cells in their eyes. Each kind is best at a different part of the rainbow. The brain compares them and makes the colours we feel. Some people have only two kinds working. They mix up some colours, like red and green. The pink-purple called magenta is not in the rainbow at all. Your brain makes it when red and violet light arrive together.",
+   "description": "Light has wavelengths, but the light itself is not 'red'. Red is what happens when that light reaches an eye and a brain. Most people have three kinds of colour-sensing cells in their eyes. Each kind is best at a different part of the rainbow. The brain compares them and makes the colours we feel. Some people have only two kinds working. They mix up some colours, like red and green. The pink-purple called magenta is not in the rainbow at all. Your brain makes it when red and blue light arrive together, with no green.",
    "examples": [
-    "Magenta, the colour of a bougainvillea flower, has no single place in the rainbow.",
+    "Magenta, the colour of many bougainvillea flowers, has no place of its own in the rainbow.",
     "A mantis shrimp has 12 kinds of colour cells, but tests show it is worse than us at telling close colours apart.",
     "John Dalton, an English scientist, described his own colour blindness in 1794."
    ],
@@ -335,9 +347,9 @@
    "concept": "The rainbows of stars",
    "status": "defined",
    "definition": "Every kind of atom makes its own pattern of lines in a spectrum, so the split light of a star shows what the star is made of.",
-   "description": "When scientists split the light from the Sun very finely, they see thin dark lines across the rainbow. Joseph von Fraunhofer, a German glassmaker, mapped hundreds of them in 1814. Later, scientists found that each kind of atom makes its own lines, like a fingerprint. In 1868, astronomers came to Guntur in Andhra Pradesh to watch a total eclipse of the Sun. Pierre Janssen saw a bright yellow line no one could explain. It came from an element nobody had found on Earth yet. It was named helium, after Helios, the Greek word for the Sun. In 1925, Cecilia Payne, a young woman astronomer, used star rainbows to show that stars are made mostly of hydrogen and helium.",
+   "description": "When scientists split the light from the Sun very finely, they see thin dark lines across the rainbow. Joseph von Fraunhofer, a German lens-maker, mapped hundreds of them in 1814. Later, scientists found that each kind of atom makes its own lines, like a fingerprint. In 1868, astronomers came to Guntur in Andhra Pradesh to watch a total eclipse of the Sun. Pierre Janssen saw a bright yellow line no one could explain. It came from an element nobody had found on Earth yet. It was named helium, after Helios, the Greek word for the Sun. In 1925, Cecilia Payne, a young woman astronomer, used star rainbows to show that stars are made mostly of hydrogen and helium.",
    "examples": [
-    "A tubelight seen through a CD shows bright coloured lines, not a smooth rainbow.",
+    "An old-style tubelight, not an LED one, seen through a CD shows bright coloured lines, not a smooth rainbow.",
     "Astronomers can tell what a star is made of without ever going there.",
     "Annie Jump Cannon sorted hundreds of thousands of stars by their rainbows, at Harvard, more than 100 years ago."
    ],
@@ -349,7 +361,7 @@
    "concept": "Why the sky is blue and sunsets are red",
    "status": "defined",
    "definition": "Air scatters blue light more than red, so the sky looks blue. At sunset the light crosses so much air that mostly red and orange reach us.",
-   "description": "Sunlight passes through the air on its way to us. Tiny bits of air scatter blue light more than red light. Scatter means to send off in all directions. So blue light comes at you from every part of the sky, and the sky looks blue. At sunset, sunlight travels a long way through the air. Most of the blue has been scattered away before it reaches you. Red and orange are left. In 1921, on a ship to England, C.V. Raman wondered why the sea was so blue. He showed that water scatters blue light too. His later work on scattered light won the Nobel Prize in 1930.",
+   "description": "Sunlight passes through the air on its way to us. The tiny particles of gas that make up air scatter blue light more than red light. Scatter means to send off in all directions. So blue light comes at you from every part of the sky, and the sky looks blue. At sunset, sunlight travels a long way through the air. Most of the blue has been scattered away before it reaches you. Red and orange are left. In 1921, on a ship to England, C.V. Raman wondered why the sea was so blue. He showed that water scatters blue light too. His later work on scattered light won the Nobel Prize in 1930.",
    "examples": [
     "The noon sky is blue. The sky near the horizon at sunset is orange and red.",
     "On the Moon there is no air, so the sky is black even in daytime.",
@@ -358,6 +370,19 @@
    "perspectives": [],
    "art": "A curved Earth with the Sun's light passing through a thin layer of air at noon and a thick layer at sunset, blue arrows scattering away.",
    "context": "This card uses what we know about the colours in sunlight to explain the blue sky and red sunsets."
+  },
+  {
+   "concept": "Mixing light is not like mixing paint",
+   "status": "defined",
+   "definition": "Mixing coloured lights adds colours, so the mix gets brighter and can look white. Mixing paints puts pigments together, and between them they absorb more colours, so the mix gets darker.",
+   "description": "Shine a red light and a green light on the same patch of white wall, and the patch looks yellow. Add a blue light, and it looks white. Each light adds more colours to what reaches your eye. Paint works the other way. Each paint has a pigment that absorbs some colours and reflects the rest. When you mix paints, each pigment absorbs its own colours, so less and less light is reflected. Mix many paints, and very little light comes back, so you get a dark, muddy brown. The spinning rainbow wheel is different. Its slices sit side by side, so the light they reflect mixes in your eye, as coloured lights do. That is why it looks pale grey, not brown.",
+   "examples": [
+    "Phone and TV screens make white from tiny red, green and blue lights.",
+    "Yellow and blue paint make green, because green is the main colour that both paints reflect.",
+    "Colouring the same spot with every felt pen makes a dark brownish blot, not white."
+   ],
+   "art": "Left: three torch beams, red, green and blue, overlapping on a wall into white. Right: blobs of paint on a palette stirred together into a muddy brown.",
+   "context": "Sunlight's colours mix into white. This card explains why mixing paints does the opposite and makes a dark colour."
   }
  ],
  "agreed": [
@@ -469,14 +494,14 @@
    "hint": "Each kind of atom draws its own lines in the rainbow, like a fingerprint."
   },
   {
-   "q": "White light is all the colours together. Is a crowd of different people more like white light or like a rainbow?",
-   "kind": "big",
-   "hint": "Both are made of the same colours. What changes is whether they are together or spread out."
+   "q": "Mixing coloured lights makes white, but mixing paints makes a dark brown. Why would mixing do opposite things?",
+   "kind": "deep",
+   "hint": "Coloured lights each add colours that reach your eye. What does each pigment in a paint do to the light?"
   },
   {
-   "q": "Why is a leaf green, if it is the green light the leaf does not want?",
+   "q": "A leaf absorbs red and blue light and reflects green. So is green the colour the leaf keeps, or the colour it gives away?",
    "kind": "deep",
-   "hint": "The leaf keeps red and blue light for its food. What does it do with the green?"
+   "hint": "Think of the torch shining through red cellophane. With no green light to reflect, how did the leaf look?"
   },
   {
    "q": "Kamal al-Din al-Farisi explained the rainbow 350 years before Newton. Why do so many books tell only Newton's story?",
@@ -499,7 +524,7 @@
    "\"Fill it,\" said Kamal al-Din. Yusuf filled the glass ball with water from the well, slowly, so that no bubble stayed inside. Then he held it up in the rod of light.",
    "Nothing happened. The water glowed. A bright spot of light shone on the far side of the ball. That was all.",
    "\"Higher,\" said the scholar. \"Now turn. Slowly.\" He was not looking at the ball. He was crouched on the floor with his back to the hole, peering up at the ball from below, the way you might look at a bird.",
-   "They did this for three days. Kamal al-Din moved the ball, moved his head, wrote in his book, crossed out what he wrote, and moved again. He talked as he worked, mostly to himself. He spoke of a great scholar called Ibn al-Haytham, who had lived three hundred years before. He spoke of the Greek, Aristotle, who said the rainbow was the cloud acting like a mirror. \"But a cloud is not a mirror,\" he muttered. \"A cloud is drops. Only drops. So the secret must be inside one drop.\"",
+   "They did this for three days. Kamal al-Din moved the ball, moved his head, wrote in his book, crossed out what he wrote, and moved again. He talked as he worked, mostly to himself. He spoke of a great scholar called Ibn al-Haytham, who had lived nearly three hundred years before. He spoke of the Greek, Aristotle, who said the rainbow was the cloud acting like a mirror. \"But a cloud is not a mirror,\" he muttered. \"A cloud is drops. Only drops. So the secret must be inside one drop.\"",
    "Yusuf did not understand most of it. But he understood that his arms ached. On the third afternoon, when the scholar went out to eat, Yusuf set the glass ball on a stool in the light. He sat down on the floor near the shutter, with his back to the hole, just to rest.",
    "And there, glowing on the glass, was a spot of red.",
    "It was not a dull red. It was red like the inside of a pomegranate, red like the first coal in the morning fire. It sat on the edge of the ball like a jewel.",
@@ -510,7 +535,7 @@
    "\"It is not in the ball,\" Yusuf said. \"It is not in the ball, sir. It is where you put your eye.\"",
    "The scholar looked at him for a long time. Then he lay down on the dusty floor beside the glassblower's boy, his grey beard in the dust, and put his own eye where Yusuf's had been.",
    "\"Red,\" he said quietly. He moved. \"Green.\" He did not say anything for a while.",
-   "That night he wrote for many hours. Yusuf heard the pen scratching through the wall where he slept. The scholar wrote that the light goes into the drop and bends. It strikes the back of the drop and comes back, and bends again on its way out. And each colour leaves at its own angle, so that one drop gives one colour to one eye. A rainbow, he wrote, is not one thing hanging in the sky. It is a great crowd of drops, and each drop gives you only the colour that is meant for the place where you stand. The drops higher up give you red. The drops lower down give you violet. Together they make the bow.",
+   "That night he wrote for many hours. Yusuf heard the pen scratching through the wall where he slept. The scholar wrote that the light goes into the drop and bends. It strikes the back of the drop and comes back, and bends again on its way out. And each colour leaves at its own angle, so that one drop gives one colour to one eye. A rainbow, he wrote, is not one thing hanging in the sky. It is a great crowd of drops, and each drop sends you only the colour that leaves it towards the place where you stand. The drops higher up give you red. The drops lower down give you violet. Together they make the bow.",
    "He did not write the name of the glassblower's boy. People did not write the names of glassblowers' boys.",
    "Some weeks later the rains came. Yusuf ran out of the workshop with clay still on his hands, because the Sun had come out low behind him and the sky ahead was dark and full of drops. There it was, a great bow across the city, over the domes and the drying cloth and the donkeys in the lane.",
    "His friend Hamid came running up beside him, pointing. \"Look! Look at it!\"",
@@ -650,7 +675,7 @@
      "do": "Play the game until someone completes a rainbow. Read each question aloud for younger players.",
      "say": "Your turn. Read the card. If you're right, take a colour.",
      "kid": "Take a question card. Answer it. If you are right, take a colour card.",
-     "parent": "Good answers sound like this. The Sun must be behind you. Sunlight is all colours mixed. A spinning rainbow wheel looks pale white. Red is on the outside of the main bow. Magenta is not in the rainbow. Helium was found in the Sun's light first.",
+     "parent": "Good answers sound like this. The Sun must be behind you. Sunlight is all colours mixed. A spinning rainbow wheel looks pale grey, nearly white. Red is on the outside of the main bow. Magenta is not in the rainbow. Helium was found in the Sun's light first.",
      "check": {
       "t": "mcq",
       "q": "Rainbow Line-Up: you need violet, and you have a white light card. Can you use it?",
@@ -885,7 +910,7 @@
       "Rainbow stripes"
      ],
      "a": 1,
-     "why": "Your eye mixes all the colours together, just as in sunlight, so it looks pale white. Picking 'rainbow stripes' means thinking the eye can follow the fast spin. Picking 'black' mixes up light with paint.",
+     "why": "Your eye mixes the light from all the slices, just as it mixes the colours in sunlight, so the disc looks pale grey, nearly white. Picking 'rainbow stripes' means thinking the eye can follow the fast spin. Picking 'black' mixes up light with paint. Mixed paints get darker, but the light from the slices adds up in your eye.",
      "how": "e3"
     },
     {
@@ -934,19 +959,19 @@
       "It sinks into the ground"
      ],
      "a": 1,
-     "why": "Each drop sends each colour to one place only. When you move, different drops make your rainbow. So it moves with you. Picking 'too far away' is a fair guess, but even close up, as with a hose, it moves when you do."
+     "why": "Each drop sends each colour to one place only. When you move, different drops make your rainbow. So it moves with you. Picking 'too far away' is a fair guess, but even close up, as with a spray bottle, it moves when you do."
     },
     {
      "t": "fill",
-     "p": "A green leaf looks green because it sends ____ light back to our eyes and keeps the other colours.",
+     "p": "A green leaf looks green because it reflects ____ light to our eyes and absorbs most of the other colours.",
      "a": [
       "green"
      ],
-     "why": "Sunlight has all colours. The leaf soaks up most of the red and blue, and sends the green back to our eyes."
+     "why": "Sunlight has all colours. The leaf absorbs most of the red and blue light and reflects the green to our eyes."
     },
     {
      "t": "mcq",
-     "p": "In the Colour Sieves activity, you hold red cellophane in the sunbeam. Which colour reaches the paper?",
+     "p": "In the Colour Filters activity, you hold red cellophane in the sunbeam. Which colour reaches the paper?",
      "opts": [
       "All the colours",
       "Mostly red",
@@ -954,7 +979,7 @@
       "None"
      ],
      "a": 1,
-     "why": "A red filter lets red light through and holds back the others. Picking 'all the colours' means thinking the cellophane is just clear. Picking 'mostly green' mixes up which colour passes.",
+     "why": "A red filter lets red light through and absorbs most of the others. Picking 'all the colours' means thinking the cellophane is just clear. Picking 'mostly green' mixes up which colour passes.",
      "how": "a2"
     },
     {
@@ -971,7 +996,7 @@
       ],
       [
        "Red cellophane",
-       "lets only red through"
+       "lets mostly red light through"
       ],
       [
        "Raindrop",
@@ -1089,12 +1114,12 @@
      "p": "Under a red light in a dark room, a green leaf looks almost black. Why?",
      "opts": [
       "Red light kills leaves",
-      "There is no green light for it to send back",
+      "There is no green light for it to reflect",
       "The leaf changes colour",
       "Our eyes stop working"
      ],
      "a": 1,
-     "why": "A leaf looks green by sending back green light. Red light has no green in it, so the leaf sends back very little and looks dark. Picking 'the leaf changes colour' forgets that it is green again in sunlight.",
+     "why": "A leaf looks green by reflecting green light. Red light has no green in it, so the leaf reflects very little and looks dark. Picking 'the leaf changes colour' forgets that it is green again in sunlight.",
      "how": "a2"
     },
     {
@@ -1136,7 +1161,7 @@
       "Space is blue"
      ],
      "a": 1,
-     "why": "Tiny bits of air scatter blue light much more than red. So blue comes at us from every part of the sky. Picking 'the sea reflects onto it' is a very old idea. But the sky is blue over deserts too."
+     "why": "The tiny particles of gas in air scatter blue light much more than red. So blue comes at us from every part of the sky. Picking 'the sea reflects onto it' is a very old idea. But the sky is blue over deserts too."
     },
     {
      "t": "match",
@@ -1166,13 +1191,13 @@
      "t": "mcq",
      "p": "A white shirt and a black shirt hang in the sun. Which gets hotter, and why?",
      "opts": [
-      "The white one, because it sends back light",
-      "The black one, because it soaks up almost all the colours of light",
+      "The white one, because it reflects light",
+      "The black one, because it absorbs almost all the colours of light",
       "Both the same",
       "Neither, because light has no energy"
      ],
      "a": 1,
-     "why": "Black soaks up nearly all the colours, and that light energy turns into warmth. White sends most of the light back. Picking 'light has no energy' forgets that sunlight warms you."
+     "why": "Black absorbs nearly all the colours, and the energy of that light turns into warmth. White reflects most of the light. Picking 'light has no energy' forgets that sunlight warms you."
     },
     {
      "t": "write",
@@ -1250,7 +1275,7 @@
      "t": "truefalse",
      "p": "Magenta, the pink-purple of a bougainvillea flower, has its own place in the rainbow.",
      "a": false,
-     "why": "False. Magenta is not in the rainbow. Your brain makes it when red and violet light arrive together."
+     "why": "False. Magenta is not in the rainbow. Your brain makes it when red and blue light arrive together, with no green."
     },
     {
      "t": "mcq",
@@ -1330,18 +1355,18 @@
      "p": "Plants are green. What does that tell us about which light they use most for food?",
      "opts": [
       "They use mostly green light",
-      "They use mostly red and blue light, and send green back",
+      "They absorb mostly red and blue light, and reflect green",
       "They use no light",
       "They use only ultraviolet"
      ],
      "a": 1,
-     "why": "A plant sends back the light it uses least. Green comes back to our eyes, so plants use mostly red and blue. Picking 'mostly green' is the most common mistake. It is the green light they do not keep."
+     "why": "A plant reflects the light it uses least. Green comes back to our eyes, so plants use mostly red and blue. Picking 'mostly green' is the most common mistake. Green is the light they absorb least."
     },
     {
      "t": "write",
      "p": "A friend says: 'The rainbow is out there in the sky, in one place, and everyone sees the same one.' Give two pieces of evidence against this.",
      "lines": 5,
-     "a": "First, when you walk towards a rainbow, it moves with you, so it is not in one place. Second, each drop sends each colour in only one direction, so a person standing somewhere else gets colours from different drops. Also, in the hose test, when I took two steps sideways, the rainbow moved too.",
+     "a": "First, when you walk towards a rainbow, it moves with you, so it is not in one place. Second, each drop sends each colour in only one direction, so a person standing somewhere else gets colours from different drops. Also, in the spray rainbow test, when I took two steps sideways, the rainbow moved too.",
      "why": "A rainbow depends on where the viewer stands. Each person sees their own.",
      "how": "e2"
     },
@@ -1384,7 +1409,7 @@
    "days": 1,
    "context": "This is the water prism test. You split sunlight into colours in three different ways: a glass of water, a mirror in a tray of water, and a glass prism if you have one. Then you check whether the colours always come in the same order.",
    "question": "When we split sunlight in different ways, do the colours always come in the same order?",
-   "predict": "Before you start, guess. Will the colours come in a different order with the mirror in water? Will red ever be in the middle?",
+   "predict": "Before you start, guess. Will the colours come in a different order with the mirror in water? Will red ever be in the middle? Why do you think so?",
    "fair_test": "To make it fair, use the same sunlight, at the same time of day, and the same white paper. Only change the thing that splits the light. Look at each one twice, because a quick look can fool you.",
    "results_table": [
     "What split the light",
@@ -1476,7 +1501,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "If you have a prism, hold it in a sunbeam and turn it slowly until a strip of colours falls on white card. Record the order.",
+     "do": "If you have a prism, hold it in a sunbeam. Turn it slowly until a strip of colours falls on white card. Record the order.",
      "say": "One more. A real glass prism. Turn it slowly. Same order or different?",
      "kid": "Turn the prism slowly in the sunlight. Catch the colours on card. Same order?",
      "chart": {
@@ -1537,20 +1562,20 @@
      "id": "cer",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now say three things. Say what you think. Say what you saw. Say why it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: sunlight always splits into the same colours in the same order. What I saw: with the glass, the mirror in water and the prism, red was at one end and violet at the other every time. Why: the colours are in the sunlight, and each one bends by its own amount."
     }
    ]
   },
   {
    "id": "e2",
-   "title": "Make Your Own Rainbow with a Hose",
+   "title": "Make Your Own Rainbow with a Spray",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you make a real rainbow outside with a garden hose or a spray bottle. You test where you must stand to see it: with the Sun behind you, or in front of you.",
+   "context": "In this experiment you make a real rainbow with a plant spray bottle on a sunny balcony, terrace or doorstep, or with a garden hose if you have one. You test where you must stand to see it: with the Sun behind you, or in front of you.",
    "question": "Where must the Sun be for you to see a rainbow in the spray?",
-   "predict": "Before you start, guess. Will you see the rainbow better with the Sun in front of you, behind you, or beside you?",
+   "predict": "Before you start, guess. Will you see the rainbow better with the Sun in front of you, behind you, or beside you? Why do you think so?",
    "fair_test": "To make it fair, use the same spray, the same fine setting and the same time of day. Only change which way you face. Try each direction for one full minute.",
    "results_table": [
     "Where the Sun was",
@@ -1560,7 +1585,7 @@
    ],
    "materials": [
     {
-     "item": "a garden hose with a fine-spray nozzle, or a plant spray bottle",
+     "item": "a plant spray bottle that makes a fine mist, or a garden hose with a fine-spray nozzle",
      "qty": 1,
      "buy": "b-spray"
     },
@@ -1569,7 +1594,7 @@
      "qty": 1
     },
     {
-     "item": "a dark background, like a wall or bushes, if you can find one",
+     "item": "a dark background, like a shaded wall, if you can find one",
      "qty": 1
     }
    ],
@@ -1584,7 +1609,7 @@
    "record": "Fill in the table. Draw yourself, the Sun, your shadow and the rainbow in one picture.",
    "setup": [
     {
-     "art": "A child outdoors facing the low Sun, spraying a fine mist from a hose, with no rainbow visible.",
+     "art": "A child on a sunny balcony facing the low Sun, spraying a fine mist from a spray bottle, with no rainbow visible.",
      "caption": "1. Face the Sun and spray. Is there a rainbow?"
     },
     {
@@ -1600,11 +1625,11 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Go outside in the early morning or late afternoon. 2. Set the hose to its finest spray. 3. Ask your child to guess where the Sun must be.",
+     "do": "1. Go to a sunny balcony, terrace or doorstep in the early morning or late afternoon. 2. Set the spray bottle or hose to its finest mist. 3. Ask your child to guess where the Sun must be, and why.",
      "say": "We're going to make a rainbow. Where should the Sun be, do you think? In front of us, beside us, or behind us?",
      "kid": "You will make a rainbow with spray. Guess first. Where should the Sun be?",
      "adult": true,
-     "context": "This is the first step of the hose rainbow test. You find out where the Sun must be for you to see a rainbow."
+     "context": "This is the first step of the spray rainbow test. You find out where the Sun must be for you to see a rainbow."
     },
     {
      "id": "s2",
@@ -1621,10 +1646,10 @@
      "say": "Now the Sun is behind us. Spray up high. What do you see? Look down at your shadow. Where is your shadow's head?",
      "kid": "Turn your back to the Sun. Spray high. Do you see the rainbow now? Find your shadow's head.",
      "adult": true,
-     "parent": "With the Sun behind you, a bow appears in the spray. It is part of a circle centred on the shadow of your head. Red is on the outside of the bow. If you see nothing, make the spray finer, or try a darker background.",
+     "parent": "With the Sun behind you, a bow appears in the spray. It is part of a circle centred on the shadow of your head. Stretch out your arm: the bow is about two hand-spans from your shadow's head. Red is on the outside of the bow. If you see nothing, make the mist finer, spray in a different spot, or try a darker background.",
      "check": {
       "t": "mcq",
-      "q": "In the hose rainbow test, when did you see the rainbow best?",
+      "q": "In the spray rainbow test, when did you see the rainbow best?",
       "options": [
        "Facing the Sun",
        "With the Sun beside me",
@@ -1647,8 +1672,8 @@
      "id": "cer",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now say three things. Say what you think. Say what you saw. Say why it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: you only see a rainbow with the Sun behind you. What I saw: facing the Sun there was no rainbow, but with the Sun behind me there was a bow around my shadow's head. Why: the drops bounce the light back towards the side the Sun is on, split into colours."
     }
    ]
@@ -1660,7 +1685,7 @@
    "days": 1,
    "context": "In this experiment you colour paper discs and spin them fast. You test which discs look white when spinning, to find out if the rainbow's colours can be mixed back into white.",
    "question": "If we spin all the rainbow colours together, will they look white?",
-   "predict": "Before you start, guess what colour each disc will look while spinning: the rainbow disc, the half-red half-green disc, and the all-red disc.",
+   "predict": "Before you start, guess what colour each disc will look while spinning: the rainbow disc, the half-red half-green disc, and the all-red disc. Why do you think so?",
    "fair_test": "To make it fair, make all the discs the same size, and spin them the same way and just as fast. Only change the colours on them. Spin each one three times.",
    "results_table": [
     "Disc",
@@ -1682,7 +1707,7 @@
      "qty": 1
     },
     {
-     "item": "a pencil stub or toothpick to spin the disc on, or a piece of string",
+     "item": "a short pencil or a toothpick to spin the disc on",
      "qty": 1
     },
     {
@@ -1717,7 +1742,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Draw three circles round a steel tumbler on white card. 2. Cut them out. 3. Divide the first into six equal slices, like cutting a roti for six, and colour them red, orange, yellow, green, blue and violet. 4. Colour the second half red and half green. 5. Colour the third all red.",
+     "do": "1. Draw three circles round a steel tumbler on white card. 2. Cut them out. 3. Divide the first into six equal slices, like cutting a roti for six. Colour them red, orange, yellow, green, blue and violet. 4. Colour the second half red and half green. 5. Colour the third all red.",
      "say": "Let's make three spinning wheels. This one is like Isaac Newton's colour wheel, with all the rainbow colours.",
      "kid": "Draw three circles. Cut them out. Colour one with six rainbow slices. Colour one half red, half green. Colour one all red.",
      "context": "This is the first step of Newton's Wheel. You make spinning paper discs to see if rainbow colours mix back into white.",
@@ -1737,7 +1762,7 @@
      "do": "1. Push a short pencil through the hole in each disc. 2. Spin each one like a top on the table, as fast as you can. 3. Spin each disc three times. 4. Write what you saw.",
      "say": "Spin! What colour is it now, while it's spinning fast? Is it the same as your guess?",
      "kid": "Spin each disc fast. What colour do you see? Spin each one three times.",
-     "parent": "The rainbow disc looks pale grey or creamy white, not bright white. That is because paper colours are not perfect and the room light is not pure. It is still clearly paler than any of its colours. Red and green spun together look dull yellowish-brown. The all-red disc stays red.",
+     "parent": "The rainbow disc looks pale grey or creamy white, not bright white. Each slice reflects only part of the light that falls on it, so the mix is dimmer than white paper. It is still clearly paler than any of its colours. Red and green spun together look a dull yellowish brown. The all-red disc stays red.",
      "check": {
       "t": "mcq",
       "q": "In Newton's Wheel, the rainbow disc looked pale grey-white when it spun fast. What does this show?",
@@ -1748,7 +1773,7 @@
        "Grey is a rainbow colour"
       ],
       "a": 1,
-      "why": "When the disc spins fast, every colour reaches your eye almost at the same moment. Your eye mixes them, just as it mixes the colours in sunlight. So you see pale white. Picking 'spinning washes the colour off' is a fair guess. But the all-red disc stayed red when it spun, so spinning does not remove colour."
+      "why": "When the disc spins fast, every colour reaches your eye almost at the same moment. Your eye mixes them, just as it mixes the colours in sunlight. So you see a pale grey, nearly white. Picking 'spinning washes the colour off' is a fair guess. But the all-red disc stayed red when it spun, so spinning does not remove colour."
      }
     },
     {
@@ -1763,8 +1788,8 @@
      "id": "cer",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now say three things. Say what you think. Say what you saw. Say why it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: all the rainbow colours together look white. What I saw: the rainbow disc looked pale white when it spun, but the all-red disc stayed red. Why: when all the colours reach my eye together, my eye mixes them into white, like sunlight."
     }
    ]
@@ -1873,13 +1898,13 @@
   },
   {
    "id": "a2",
-   "title": "Colour Sieves: let only one colour through",
+   "title": "Colour Filters: let only one colour through",
    "mins": 15,
    "days": 1,
-   "context": "In this activity, you hold coloured see-through sheets over a rainbow of colours. Each sheet lets only some colours through, like a sieve that lets only small grains pass.",
+   "context": "In this activity, you hold coloured see-through sheets in a sunbeam. Each sheet lets some colours through and absorbs most of the others.",
    "materials": [
     {
-     "item": "red, green and blue cellophane sheets, from gift wrap or a craft shop",
+     "item": "red, green and blue cellophane sheets, from gift wrap or a craft shop, or see-through coloured sweet wrappers",
      "qty": 3,
      "buy": "b-cellophane"
     },
@@ -1927,7 +1952,7 @@
      "do": "Make the strip of colours, as in Catch a Rainbow. Use a glass of water at the edge of a sunny sill and white paper on the floor.",
      "say": "Let's make our strip of colours again. Today we'll test the colours with these coloured sheets.",
      "kid": "Make the strip of colours again with the glass of water. Get your three coloured sheets ready.",
-     "context": "This is the first step of Colour Sieves. You test which colours each coloured sheet lets through."
+     "context": "This is the first step of Colour Filters. You test which colours each coloured sheet lets through."
     },
     {
      "id": "s2",
@@ -1941,12 +1966,12 @@
       "q": "You hold red cellophane in the sunbeam. Only red reaches the paper. What happened to the green and blue light?",
       "options": [
        "The cellophane turned them into red",
-       "The cellophane held them back",
+       "The cellophane absorbed them",
        "They went round the cellophane",
        "They were never in the sunlight"
       ],
       "a": 1,
-      "why": "The red sheet lets red light through and soaks up the other colours. It does not change green into red. Picking 'turned them into red' is a common idea. But if that were true, the red on the paper would get brighter, not dimmer. Picking 'never in the sunlight' forgets that we saw green and blue on the paper a minute ago."
+      "why": "The red sheet lets red light through and absorbs most of the other colours. It does not change green into red. Picking 'turned them into red' is a common idea. But then the red patch would grow wider and brighter. Instead, the green and blue patches just went dark. Picking 'never in the sunlight' forgets that we saw green and blue on the paper a minute ago."
      }
     },
     {
@@ -1959,8 +1984,8 @@
       {
        "q": "Why does the leaf look dark?",
        "good": [
-        "There is no green light for it to send back.",
-        "The red sheet stopped the green."
+        "There is no green light for it to reflect.",
+        "The red sheet absorbed the green light."
        ]
       }
      ]
@@ -1969,9 +1994,9 @@
      "id": "cer",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the red sheet only lets red light through. What I saw: with the red sheet, the green and blue disappeared from the paper. Why: sunlight has all the colours, and the sheet held back all but red."
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now say three things. Say what you think. Say what you saw. Say why it happened.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the red sheet only lets red light through. What I saw: with the red sheet, the green and blue disappeared from the paper. Why: sunlight has all the colours, and the red sheet absorbed most colours except red."
     }
    ]
   },
@@ -2157,7 +2182,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Tell your child that Newton first named five colours and later seven, partly to match the seven notes of music: sa re ga ma pa dha ni.",
+     "do": "Tell your child that Newton first named five colours, and later seven. He chose seven partly to match the seven notes of music, like sa re ga ma pa dha ni.",
      "say": "Isaac Newton chose seven colours, partly because music has seven notes. If you were naming the rainbow, how many would you choose?",
      "kid": "Newton picked seven colours, like the seven music notes. How many would you pick? Give them your own names.",
      "think": "Is a colour a thing in the light, or a name we give it?"
@@ -2166,8 +2191,8 @@
      "id": "cer",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now say three things. Say what you think. Say what you saw. Say why it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the rainbow does not have an exact number of colours. What I saw: we counted 5, 6 and 7 on the same strip. Why: the colours fade into each other with no edges, so we each drew our lines in different places."
     }
    ]
@@ -2184,7 +2209,7 @@
      "qty": 1
     },
     {
-     "item": "a place to see the western sky at sunset, like a terrace or a park",
+     "item": "a window, balcony or terrace where you can see the western sky at sunset",
      "qty": 1
     }
    ],
@@ -2269,8 +2294,8 @@
      "id": "cer",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now say three things. Say what you think. Say what you saw. Say why it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the sunset is red because the blue light is scattered away. What I saw: every noon square was blue and every sunset square was orange or red. Why: sunlight has all colours, and at sunset it travels through so much air that mostly red and orange are left."
     }
    ]
@@ -2305,7 +2330,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the CD, because the edges can be sharp. Never point the spectroscope at the Sun. Point it at a white sunlit wall or the bright sky beside the Sun. A grown-up lights and watches the candle.",
+   "safety": "A grown-up cuts the CD, because the edges can be sharp. Never point the spectroscope at the Sun. Point it at a white wall lit by daylight. A grown-up lights and watches the candle.",
    "schedule": [
     {
      "day": 1,
@@ -2357,7 +2382,7 @@
      "kid": "Look at a tubelight. Then a bulb. Then a candle, with a grown-up. Draw each rainbow.",
      "adult": true,
      "wait": "Come back tomorrow, in the evening, when the lamps are on",
-     "parent": "Daylight gives a smooth rainbow. A tubelight or CFL gives a rainbow with a few sharp bright lines, often green and violet, because of the mercury gas inside it. A candle gives a smooth rainbow that is mostly red, orange and yellow, with little blue.",
+     "parent": "Daylight gives a smooth rainbow. An old-style tubelight or CFL gives a rainbow with a few sharp bright lines, often green and violet, because of the mercury gas inside it. An LED bulb or LED tube gives a smooth rainbow with an extra-bright blue part. A candle gives a smooth rainbow that is mostly red, orange and yellow, with little blue.",
      "check": {
       "t": "mcq",
       "q": "Through the spectroscope, a tubelight shows a few bright coloured lines instead of a smooth rainbow. What might that tell a scientist?",
@@ -2383,8 +2408,8 @@
      "id": "cer",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now say three things. Say what you think. Say what you saw. Say why it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: different lamps have different rainbows. What I saw: daylight was smooth, the tubelight had bright lines and the candle was mostly red and yellow. Why: each kind of light is made in its own way, by different atoms."
     }
    ]
@@ -2488,7 +2513,7 @@
    "materials": [
     "a sheet of card and colour pencils",
     "a compass, or a phone compass, or knowing where the Sun rises",
-    "your notes from the hose rainbow test"
+    "your notes from the spray rainbow test"
    ],
    "general": [
     "The Sun must be behind you, so in the morning look west, and in the evening look east.",
@@ -2536,7 +2561,7 @@
        "Any way at all"
       ],
       "a": 1,
-      "why": "You see a rainbow with the Sun behind you. In the evening the Sun is in the west, so you look east. Picking 'towards the Sun' is a common mistake. Remember the hose test: facing the Sun, there was no rainbow."
+      "why": "You see a rainbow with the Sun behind you. In the evening the Sun is in the west, so you look east. Picking 'towards the Sun' is a common mistake. Remember the spray rainbow test: facing the Sun, there was no rainbow."
      }
     },
     {
@@ -2754,8 +2779,21 @@
     "It is guarded"
    ],
    "a": 0,
-   "why": "Each drop sends each colour to one place. When you move, different drops make your rainbow. Picking 'too high' misses that even a hose rainbow moves when you move.",
+   "why": "Each drop sends each colour to one place. When you move, different drops make your rainbow. Picking 'too high' misses that even a rainbow in a spray moves when you move.",
    "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "You mix red, yellow, green and blue paint together in a cup. What colour do you get?",
+   "opts": [
+    "White, like sunlight",
+    "A dark, muddy brown",
+    "A bright rainbow",
+    "Clear, like water"
+   ],
+   "a": 1,
+   "why": "Each paint's pigment absorbs some colours. Mixed together, they absorb nearly all of them, so very little light is reflected. Picking 'white' mixes up paint with light. Coloured lights add up to white, but paints do not.",
+   "outcome": 4
   }
  ],
  "applications": [
@@ -2846,7 +2884,7 @@
   "What colour is that shirt in sunlight? What colour would it be under a red light?",
   "Why is the sky blue right now? What colour will it be at sunset?",
   "Can you find something in the kitchen that throws a tiny rainbow?",
-  "Is that leaf green, or is it sending green to your eyes?",
+  "Is that leaf green, or is it reflecting green light to your eyes?",
   "Why do you think the dosa tawa looks black?",
   "If you were a bee, what would this flower look like?",
   "Do you think your red is the same as mine?",
@@ -2979,7 +3017,7 @@
    "answer": "5 and a half hours.",
    "explain": "From 6 to 9 in the morning is 3 hours. From 4 to 6:30 in the evening is 2 and a half hours. 3 hours and 2 and a half hours make 5 and a half hours.",
    "math_unit": "math.time.duration.L3",
-   "context": "In the hose rainbow test and the Rainbow Forecaster challenge, we found that you only see a rainbow when the Sun is low and behind you. These times are an example, not exact for every town.",
+   "context": "In the spray rainbow test and the Rainbow Forecaster challenge, we found that you only see a rainbow when the Sun is low and behind you. These times are an example, not exact for every town.",
    "how": "c2",
    "why_maths": "A rainbow forecast needs times. Adding up time spans tells your family how long they have to look each day."
   },
@@ -3114,7 +3152,7 @@
    "id": "b-cellophane",
    "item": "Coloured cellophane sheets: red, green and blue",
    "kind": "material",
-   "why": "Colour filters for the Colour Sieves activity.",
+   "why": "Colour filters for the Colour Filters activity.",
    "url": "https://www.amazon.in/s?k=coloured+cellophane+sheets",
    "used_in": [
     "a2"
@@ -3124,7 +3162,7 @@
    "id": "b-spray",
    "item": "Plant spray bottle with a fine mist",
    "kind": "tool",
-   "why": "Makes a fine mist for a rainbow if you have no garden hose.",
+   "why": "Makes a fine mist for a rainbow on a balcony or terrace. Any clean spray bottle with a mist setting works.",
    "url": "https://www.amazon.in/s?k=plant+mist+spray+bottle",
    "used_in": [
     "e2"
@@ -3178,7 +3216,7 @@
   },
   {
    "q": "What does a spinning rainbow wheel look like?",
-   "a": "Pale white or grey. The colours mix."
+   "a": "Pale grey, nearly white. Your eye mixes the colours."
   },
   {
    "q": "In the main rainbow, which colour is on the outside?",
@@ -3198,7 +3236,7 @@
   },
   {
    "q": "Why does a leaf look green?",
-   "a": "It sends green light back and keeps red and blue for its food."
+   "a": "It reflects green light. It absorbs most of the red and blue light and uses it to make food."
   },
   {
    "q": "Can two people see exactly the same rainbow?",
@@ -3285,28 +3323,28 @@
   ]
  },
  "roots": {
-  "context": "We have been learning that sunlight is many colours mixed together, and that each person sees their own rainbow. Now we ask what that tells us about ourselves and the world.",
+  "context": "We have learned that sunlight holds many colours, and that things look coloured by absorbing some colours and reflecting the rest. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "What looks like one plain thing can hold every colour inside it.",
-   "habit": "We think 'white' is one colour, and that a rainbow is a separate thing hanging in one place in the sky. But white is all the colours together, and a rainbow is a meeting of sunlight, drops and your eye. One and many are not opposites. They are the same light, together or spread out.",
-   "evidence": "A plain glass of water on a windowsill spreads plain sunlight into six colours. A spinning rainbow wheel turns them back into pale white."
+   "truth": "A green leaf looks green because it reflects green light and absorbs most of the rest. Under red light it has no green to reflect, so it looks almost black. The leaf did not change, only the light did. So an object's colour is not in the object alone, but in the object and the light together.",
+   "habit": "We talk as if colour belongs to a thing, like its size: 'the leaf is green'. But the colour we see also depends on which light falls on the thing.",
+   "evidence": "In Colour Filters, a green leaf lit by a torch through red cellophane looked dark, and it was green again in daylight. In the closed-eyes practice, sunlight through your eyelids looks red, because skin and blood absorb most of the other colours."
   },
   "three": {
-   "who_am_i": "Your eye is part of every rainbow you see. Without the place where you stand, there is no bow.",
-   "what_is_life": "Life is fed by the colours in sunlight. A leaf keeps the red and the blue to make its food.",
-   "what_is_this_world": "The world is full of hidden colours, inside plain white light and beyond the ends of the rainbow."
+   "who_am_i": "Your eye is part of every rainbow you see. When you step sideways, different drops send you their colours.",
+   "what_is_life": "Life is fed by the colours in sunlight. A leaf absorbs red and blue light and uses its energy to make food.",
+   "what_is_this_world": "The world is full of light we cannot see, beyond both ends of the rainbow. Bees see some of it."
   },
-  "thread": "Sunlight comes to us as one plain white light. Pass it through a drop, and it opens into many colours. Spin the colours together, and they close back into one. Nothing was added and nothing was lost. DeepKids believes this is a small picture of the One becoming the many: the many colours were always inside the one light, and the one light is just all of them together.",
+  "thread": "Sunlight comes to us as one white light. A glass of water spreads it into many colours, and a spinning wheel mixes them back together. The water adds no colour of its own. A leaf, a tomato and a shirt each reflect a different part of the same sunlight. So every colour around us comes from one light, met by different things. DeepKids believes the many things of the world come from one source in a similar way: different on the outside, made of the same underneath.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.4.1",
-    "teaching": "The teacher Uddalaka tells his son that the red in fire is really the red of heat, the white is the white of water, and the dark is the dark of food. 'Fire' is only a name we give. The colours underneath are what is real.",
-    "link": "We give a name, 'white', to sunlight. Underneath that one name are all the colours of the rainbow."
+    "teaching": "The teacher Uddalaka tells his son that the red colour of a fire belongs to heat, its white to water, and its dark to food. 'Fire' is only a name, he says. The three colours underneath are what is real.",
+    "link": "Uddalaka looked under one name and found a mix of colours. A prism does the same with sunlight: under the one name 'white' are all the colours of the rainbow. His three colours are not the rainbow's, but the way of looking is the same."
    },
    {
-    "source": "Tao Te Ching 42",
-    "teaching": "The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
-    "link": "One white light, passed through a drop, gives birth to all the colours."
+    "source": "Avatamsaka Sutra, the image of Indra's net",
+    "teaching": "Over the palace of the god Indra hangs a great net with a jewel at every knot. Each jewel reflects every other jewel, so each one holds all the rest.",
+    "link": "Every coloured thing reflects part of the light falling on it onto the things around it. Put a red cloth next to a white wall in sunlight, and the wall near it glows faintly red."
    },
    {
     "source": "Jain teaching of anekantavada, many-sidedness, and the story of the blind men and the elephant",
@@ -3331,15 +3369,21 @@
   "practice": {
    "title": "Colours with closed eyes",
    "mins": 3,
-   "say": "Let's sit facing a sunny window or the open sky. Close your eyes gently. Notice that it is not black behind your eyelids. What colour is it? Maybe orange or red. That is sunlight coming through your eyelids. Now cup your hands over your eyes. Did the colour change? Take three slow breaths. Then open your eyes and look at the white wall. Remember, all the colours are in that white light.",
-   "kid": "Face the sunny window. Close your eyes. What colour do you see? Now cover your eyes with your hands. Did the colour change? Breathe slowly three times. Then open your eyes."
+   "say": "Let's sit facing a sunny window or the open sky. Close your eyes gently. Notice that it is not black behind your eyelids. What colour is it? Maybe orange or red. That is sunlight coming through your eyelids. Your skin and blood absorb most of the other colours and let mostly red through. Now cup your hands over your eyes. Did the colour change? Take three slow breaths. Then open your eyes and look at a white wall. Remember, all the colours are in that white light.",
+   "kid": "Face the sunny window. Close your eyes. What colour do you see? That red is sunlight coming through your eyelids. Now cover your eyes with your hands. Did the colour change? Breathe slowly three times. Then open your eyes."
   },
   "ask": [
    "A bee looks at a red fruit and sees it dark, with ultraviolet patterns you can't see. You see it red. Are you seeing the fruit differently, or are you seeing different things?",
    "If white light is all the colours together, is it one thing or many things?",
    "Where is a rainbow? In the sky, in the drops, or in you?",
-   "Could there be colours all around us that no one has ever seen?"
+   "A leaf looks dark under red light and green in sunlight. Which one is its real colour?"
   ],
   "art": "A child sitting cross-legged facing a sunny window, eyes closed, a soft orange glow around them, and a faint rainbow fanned out on the white wall beside them."
+ },
+ "how_we_found_out": {
+  "story": "For a long time, people thought white light was pure and simple. They thought a prism added colours to it, perhaps by mixing in some darkness. Starting in 1666, a young Isaac Newton tested this. He darkened his room and let one thin beam of sunlight in through a small hole in the shutter. A prism spread the beam into a long strip of colours on the far wall. Then he let only one colour, such as red, pass through a small hole in a board. He sent that one colour through a second prism. If prisms added colour, the red should have changed again. It did not. It stayed red, and it bent by the same amount as before. Newton also used a lens to bring all the colours back together, and they made white again. He published his results in 1672. Some scientists, such as Robert Hooke, argued against him for years. But anyone could repeat the test, and it kept working. White light is not pure. It is a mixture of colours.",
+  "who": "Isaac Newton, with Robert Hooke arguing against him",
+  "when": "1666 to 1672",
+  "wrong_idea": "A prism adds colours to pure white light. Newton sent a single colour through a second prism and it did not change, so the colours must already be in the light."
  }
 }

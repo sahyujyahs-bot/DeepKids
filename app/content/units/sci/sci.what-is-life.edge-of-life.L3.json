@@ -1,25 +1,25 @@
 {
  "id": "sci.what-is-life.edge-of-life.L3",
- "title": "The edge of life: fire, crystals, viruses and sleeping seeds",
+ "title": "The edge of life: how to decide whether a tricky thing is alive",
  "level": 3,
  "summary": {
-  "text": "This unit puts tricky cases on trial. Is fire alive? It moves, grows, needs air and makes more fire, but it is not alive. A crystal grows too, but only by adding on from outside. A dry seed and a dried-up water bear show no signs of life at all, yet they are alive, only resting. A virus does nothing on its own, but inside a living cell it makes thousands of copies of itself. Scientists still argue about viruses. So the line between alive and not alive is not as sharp as it looks, and nobody yet knows exactly how life first began.",
-  "art": "A courtroom made of a kitchen table: a candle flame, a salt crystal, a dry seed, a tiny eight-legged water bear, a toy robot and a spiky virus ball sit in a row on the witness bench, and a child judge holds a magnifying glass."
+  "text": "A candle flame moves, grows, takes in air and lights new flames, yet scientists say it is not alive. A dry seed does none of these things, yet it is alive. In this unit you test tricky cases against the signs of life: fire, a salt crystal, a robot, a dry seed, a tiny animal called a water bear, and a virus. You find that a flame and your own cells do the same chemistry, and that a crystal grows only by adding salt to its outside. Scientists still argue about viruses, and nobody yet knows how life first began.",
+  "art": "A kitchen table with a row of tricky cases: a candle flame, a salt crystal, a dry seed, a tiny eight-legged water bear, a toy robot and a spiky virus ball, and a child with a magnifying glass and a checklist."
  },
  "intro": {
-  "hook": "Hold a dry moong seed in one hand and a small pebble in the other. Both are hard. Both are still. Both do nothing at all. One of them is alive. Which one? And how could you prove it?",
-  "text": "A candle flame moves. It grows. It needs air. It can even start new flames. A dry seed does none of these things. Yet scientists say the seed is alive and the flame is not. In this unit you will put six puzzling things on trial: fire, crystals, a robot, a dry seed, a tiny animal called a water bear, and a virus. You will find that the line between living and non-living is harder to draw than anyone thought.",
-  "art": "Two open palms side by side, one holding a dry green moong seed and one holding a grey pebble of the same size, with a big question mark between them.",
+  "hook": "A candle flame moves. It grows. It needs air, and it can light a new flame. A dry seed does none of these things. Yet scientists say the seed is alive and the flame is not. Why?",
+  "text": "In this unit you test six puzzling things against the signs of life: fire, a salt crystal, a robot, a dry seed, a tiny animal called a water bear, and a virus. Each one shows some signs and lacks others. By the end you will know which signs matter most, and why scientists still argue about where life begins.",
+  "art": "A lit candle on a steel plate next to a dry moong seed on an open palm, with a big question mark between them.",
   "context": "This is the way into the unit: a puzzle about what makes a thing alive."
  },
  "outcomes": [
   "I can test a tricky case against the signs of life, and say which signs it shows and which it lacks.",
-  "I can explain why fire and crystals show some signs of life but are not alive.",
+  "I can explain why fire and crystals show some signs of life but are not alive, and how my cells do the same chemistry as a flame, only slowly.",
   "I can explain that a dry seed or a dried-out water bear is alive but resting, and show it with a seed test.",
   "I can say what a virus is, and why scientists still argue about whether it is alive.",
   "I can explain why a robot that moves and senses is not alive, and say what it lacks.",
   "I can run a fair test with a comparison, such as seeds next to pebbles, and finish with claim, evidence and reasoning.",
-  "I can say that people draw the line between living and non-living, and that nobody yet knows how life began."
+  "I can say why the edge between living and non-living is hard to draw, and that nobody yet knows how life began."
  ],
  "cards_mins": 20,
  "terms": [
@@ -43,7 +43,7 @@
   },
   {
    "term": "Signs of life",
-   "meaning": "The things all living things do. Scientists often list seven: moving, breathing out energy from food, sensing, growing, making young, getting rid of waste and taking in food.",
+   "meaning": "The things living things do. Scientists usually list seven: taking in food, getting energy from food (respiration), growing, moving, sensing, getting rid of waste, and making young.",
    "example": "A puppy moves, eats, grows and senses your hand. It shows all the signs.",
    "art": "Seven small pictures in a circle: a moving leg, a breath, an eye, a growing sprout, a baby, a waste bin and a plate of food."
   },
@@ -79,14 +79,14 @@
   },
   {
    "term": "Water bear (tardigrade)",
-   "meaning": "A tiny animal with eight stubby legs, about as long as a grain of salt is wide. It lives in damp moss everywhere, even on city walls.",
+   "meaning": "A tiny animal with eight stubby legs, about half a millimetre long. It lives in damp moss all over the world, even on city walls.",
    "example": "Water bears can dry out completely, wait for years, and wake up when water comes back.",
    "art": "A chubby eight-legged water bear climbing a strand of green moss, drawn very big."
   },
   {
    "term": "Tun",
    "meaning": "The dry, curled-up ball a water bear turns into when its home dries out. Its life almost stops.",
-   "example": "A tun can blow about in dust, then wake in a rain puddle.",
+   "example": "A tun can be blown about by the wind, then wake up in a rain puddle.",
    "art": "A water bear curled into a tiny wrinkled barrel shape, like a dried pea."
   },
   {
@@ -137,9 +137,9 @@
    "concept": "The tests we use to decide if something is alive",
    "status": "defined",
    "definition": "A living thing is made of cells, uses energy from food, grows, senses, gets rid of waste, makes more of its kind, and passes on instructions to its young.",
-   "description": "Scientists do not use one sign. They use a list, and a living thing must pass all of it, at least some of the time. The usual seven are: moving, getting energy from food, sensing, growing, making young, getting rid of waste, and taking in food. Many scientists add two more that matter most for tricky cases. A living thing is made of cells. And it carries instructions that it passes on to its young.",
+   "description": "Scientists do not use one sign. They use a list, and a living thing must pass all of it, at least some of the time. The usual seven are: moving, getting energy from food, sensing, growing, making young, getting rid of waste, and taking in food. Many scientists add two more that matter most for tricky cases. A living thing is made of cells. And it carries instructions that it passes on to its young. These tests decide what biologists call alive. DeepKids believes that everything is conscious in its own way, so a flame or a crystal that fails these tests still has its own kind of awareness. Most scientists think awareness needs a living brain and nerves.",
    "examples": [
-    "A goat moves, eats grass, grows, senses you, has kids, makes dung and breathes. It is made of cells. Its kids look like goats because of the instructions they got.",
+    "A goat moves, eats grass, grows, senses you, has young (called kids), makes dung and breathes. It is made of cells. Its kids look like goats because of the instructions they got.",
     "A bicycle moves, but it does none of the other things. So one sign alone tells us nothing."
    ],
    "perspectives": [],
@@ -150,23 +150,23 @@
    "concept": "Fire: it does many things, but it is not alive",
    "status": "defined",
    "definition": "Fire is a fast chemical change in which fuel joins with oxygen and gives out heat and light. It has no cells and no instructions, so it is not alive.",
-   "description": "Fire is a very fast chemical change. Fuel, like wax or wood, joins with oxygen from the air. This lets out heat and light. Fire passes many tests. It moves and spreads. It 'eats' fuel and 'breathes' oxygen. It grows. It gives off waste: smoke, ash, carbon dioxide and water. A spark can even start a new fire. But fire has no cells. And a new fire does not carry instructions from the old one. Its shape comes only from the fuel and the air around it. So fire is not alive.",
+   "description": "Fire is a very fast chemical change. Fuel, like wax or wood, joins with oxygen from the air. This gives out heat and light. Fire passes many tests. It moves and spreads. It takes in fuel and oxygen. It grows. It gives off waste: smoke, soot, carbon dioxide and water. A spark can even start a new fire. But fire has no cells. And a new fire carries no instructions from the old one. Its shape comes only from its fuel and the air around it. So, by the biologists' tests, fire is not alive.",
    "examples": [
-    "Put a glass over a candle and the flame goes out. It has used up the oxygen it needs.",
-    "A forest fire spreads like a hungry animal. But a fire started from a birthday candle is no different from one started from a match."
+    "Put a glass over a candle and the flame goes out. It has used up most of the oxygen under the glass.",
+    "A forest fire spreads fast. But a fire lit from a birthday candle is no different from one lit with a match. Nothing passes from the old fire to the new one except heat."
    ],
    "perspectives": [],
    "art": "A candle flame with arrows: wax going in, air going in, smoke, heat and light coming out, and a red cross over a 'cells' label.",
    "context": "Fire is the most famous tricky case. This card explains why it passes many tests of life and still fails."
   },
   {
-   "concept": "Your body does a slow, gentle burning",
+   "concept": "Your cells do a slow, controlled burning",
    "status": "defined",
    "definition": "Respiration is the controlled joining of food and oxygen inside cells, which lets out energy, carbon dioxide and water.",
-   "description": "Here is a surprise. Fire and your cells do almost the same chemistry. A flame joins fuel with oxygen and lets out energy, carbon dioxide and water. Your cells join food with oxygen and let out energy, carbon dioxide and water too. That is called respiration. The difference is speed and control. A fire does it all at once, wildly. A cell does it step by step, so slowly that it stays warm but never burns. About 240 years ago, the French scientist Antoine Lavoisier showed that breathing is like a slow burning. His wife, Marie-Anne Paulze Lavoisier, worked beside him. She drew his experiments and wrote up the results.",
+   "description": "Fire and your cells do almost the same chemistry. A flame joins fuel with oxygen and gives out energy, carbon dioxide and water. Your cells join food with oxygen and give out energy, carbon dioxide and water too. This is called respiration. The difference is speed and control. A flame does it all at once. A cell does it in many small steps, so the energy comes out slowly. That is why your body stays warm but never bursts into flame. About 240 years ago, the French scientist Antoine Lavoisier showed that breathing is like a slow burning. His wife, Marie-Anne Paulze Lavoisier, worked beside him. She drew his experiments and kept his records.",
    "examples": [
-    "Breathe on a cold steel plate. The mist is water from your respiration.",
-    "A candle and a mouse in a closed jar both use up oxygen. Lavoisier and others did experiments like this long ago. We never do this to an animal."
+    "Breathe on a cold steel spoon, and it mists up. Hold a cold spoon over a candle flame, and it mists up too. Both your breath and the flame's hot gases carry water.",
+    "A candle under a glass goes out when the oxygen runs low. A closed room full of people gets stuffy for a similar reason: everyone's cells are using oxygen and giving out carbon dioxide."
    ],
    "perspectives": [],
    "art": "Split picture: on the left a candle flame, on the right a child's body with a gentle glow inside, and the same three arrows (energy, carbon dioxide, water) coming out of both.",
@@ -176,10 +176,10 @@
    "concept": "Crystals grow from outside, living things grow from inside",
    "status": "defined",
    "definition": "A crystal grows by adding the same particles to its outside in a repeating pattern. A living thing grows from inside by turning food into new parts.",
-   "description": "A crystal really does grow. Hang a thread in very salty water, and salt crystals build up on it day by day. But a crystal grows only by adding more of the same stuff onto its outside, like stacking bricks. It does not take in food and change it into new parts. It has no cells. It does not use energy to keep itself going. A living thing grows from inside. A seedling takes in water and air and turns them into new leaves that were not there before.",
+   "description": "A crystal really does grow. Hang a thread in very salty water, and as the water slowly evaporates, salt crystals build up on the thread. But a crystal grows only by adding more of the same salt onto its outside, like stacking bricks. It does not take in food and change it into new parts. It has no cells. A living thing grows from inside. A seedling takes in water and air and turns them into new leaves that were not there before.",
    "examples": [
-    "Rock salt from the shop is a big crystal. It grew slowly in salty water, adding on layer by layer.",
-    "A banana plant grows a new leaf from deep inside its stem. The leaf is made from water, air and sunlight."
+    "Rock salt (sendha namak) from the shop is a big crystal. It formed long ago, when the water of an old sea or salt lake dried up.",
+    "A banana plant grows each new leaf from deep inside its stem. The leaf is built from water and air, using the energy of sunlight."
    ],
    "perspectives": [],
    "art": "Two panels: a salt crystal growing as layers of tiny cubes stack on its outside, and a seedling with arrows showing water and air going in and a new leaf unfolding from inside.",
@@ -189,7 +189,7 @@
    "concept": "Dormant: alive but resting",
    "status": "defined",
    "definition": "Dormant means alive but resting, with life processes slowed down so much that the living thing seems to do nothing, until conditions are right to wake.",
-   "description": "A dry seed does nothing. It does not grow, eat or move. It looks no more alive than a pebble. But inside it is a tiny baby plant with a packed lunch of stored food, wrapped in a tough coat. Its life processes have slowed down almost to a stop. This resting state is called dormancy. When the seed takes in water and is warm enough, its cells wake up. It starts to breathe faster, uses its stored food, and sends out a root. A pebble can never do that, however much you water it. In China, scientists woke up a lotus seed found in an old dry lake bed. It was about 1,300 years old, and it grew.",
+   "description": "A dry seed does nothing you can see. It does not grow, eat or move. It looks no more alive than a pebble. But inside it is a tiny baby plant with a store of food, wrapped in a tough coat. Its life processes have slowed down almost to a stop. This resting state is called dormancy. When the seed takes in water and is warm enough, its cells wake up. It respires faster, uses its stored food, and sends out a root. A pebble never does that, however much you water it. In China, scientists woke up a lotus seed found in an old dry lake bed. It was about 1,300 years old, and it grew.",
    "examples": [
     "Rajma, moong, chana and wheat in your kitchen are all dormant seeds.",
     "Dried yeast in a packet is dormant too. Put it in warm sugar water and it wakes up and makes gas."
@@ -201,7 +201,7 @@
   {
    "concept": "Water bears: the animals that dry up and wake again",
    "status": "debated",
-   "description": "Water bears, also called tardigrades, are tiny animals with eight legs. They live in damp moss and lichen all over the world, from the Himalaya to the deep sea, and on old walls in Indian towns. When their moss dries out, they pull in their legs and curl into a dry ball called a tun. They lose almost all their water. Their life processes nearly stop. In this state they can stay for years. In 2007, scientists sent dried water bears into space on the outside of a spacecraft. Many survived and later had babies. In Japan, water bears frozen in moss for about 30 years were woken up in 2014, and one laid eggs. So is a tun alive? Scientists answer in different ways.",
+   "description": "Water bears, also called tardigrades, are tiny animals with eight legs. They live in damp moss and lichen all over the world, from the Himalaya to the deep sea, and in moss on walls in Indian towns. When their moss dries out, they pull in their legs and curl into a dry ball called a tun. They lose almost all their water. Their life processes nearly stop. In this state they can wait for years. In 2007, scientists sent dried water bears into space, on the outside of a spacecraft. Many survived, and some later laid eggs that hatched. In Japan, water bears frozen in moss for about 30 years were woken up in 2014, and one laid eggs. So is a tun alive? Scientists answer in different ways.",
    "examples": [
     "A moss patch on a wall dries in the hot season. Its water bears turn into tuns. When the monsoon comes, they wake up and walk again.",
     "In 2019 a spacecraft carrying dried water bears crashed on the Moon. Later tests suggest the crash was probably too hard for them to survive."
@@ -213,7 +213,7 @@
     },
     {
      "who": "David Keilin, a biologist in England, in 1959",
-     "explanation": "He called this state 'cryptobiosis', which means hidden life. He suggested it is a third state, neither fully living nor dead, because for a while nothing at all may be happening inside."
+     "explanation": "He named this state 'cryptobiosis', which means hidden life. He described it as a state in which life processes have stopped, or almost stopped, and can start again. Some scientists since then have called it a third state, between living and dead."
     },
     {
      "who": "Some thinkers today",
@@ -228,8 +228,9 @@
    "status": "debated",
    "description": "A virus is a tiny bundle of instructions wrapped in a coat. Most viruses are so small that only a special microscope, called an electron microscope, can show them. Outside a cell, a virus does nothing at all. It does not eat, grow, breathe or get rid of waste. It just drifts. But when it touches the right living cell, it gets inside. Its instructions take over the cell's machinery. The cell then builds thousands of new viruses, which burst out to find more cells. Viruses also change over time, the way living things do. That is why we need a new flu vaccine most years. So is a virus alive?",
    "examples": [
-    "A cold virus gets into the cells lining your nose. Those cells make so many new viruses that you sneeze them out.",
-    "Some viruses attack only bacteria. They are called phages, and they are the most common kind of virus on Earth."
+    "A cold virus gets into the cells lining your nose. Those cells make many new viruses, and some leave your nose when you sneeze.",
+    "Some viruses attack only bacteria. They are called phages, and they are the most common kind of virus on Earth.",
+    "In 1935 the American scientist Wendell Stanley turned a plant virus, tobacco mosaic virus, into crystals. When the crystals were put back on a tobacco leaf, the leaf still got sick. So a virus can be stored like salt, and still make copies inside cells."
    ],
    "perspectives": [
     {
@@ -252,9 +253,9 @@
    "concept": "A virus that hides and waits",
    "status": "defined",
    "definition": "Some viruses can put their instructions into a cell's own instructions and stay hidden there, being copied with the cell, until they wake.",
-   "description": "Some viruses do not make copies straight away. They slip their instructions into the cell's own instructions and hide there, quietly, for many generations. When the cell divides, it copies the hidden virus too. Later, the virus can wake up and burst out. In 1951 the American scientist Esther Lederberg discovered a virus doing exactly this inside bacteria. She named it lambda. Her work became an important tool in science, but for a long time she got far less credit than her husband, who won a Nobel Prize.",
+   "description": "Some viruses do not make copies straight away. They slip their instructions into the cell's own instructions and hide there, quietly, for many generations. When the cell divides, it copies the hidden virus too. Later, the virus can wake up and burst out. In 1951 the American scientist Esther Lederberg reported a hidden virus of this kind inside bacteria. She named it lambda. Lambda became an important tool in science, but for a long time she got far less credit than her husband, who won a Nobel Prize.",
    "examples": [
-    "The virus that causes chickenpox can hide in the body for many years. In some grown-ups it wakes up later as a painful rash called shingles.",
+    "The virus that causes chickenpox can also hide in the body, in nerve cells, for many years. In some grown-ups it wakes up later as a painful rash called shingles.",
     "About 8 out of every 100 parts of your own instructions came from viruses that hid inside your ancestors long ago."
    ],
    "perspectives": [],
@@ -290,7 +291,7 @@
    "concept": "Life is made of ordinary atoms",
    "status": "defined",
    "definition": "Living things are made of the same kinds of atoms as non-living things. Life is a special arrangement and activity of ordinary atoms.",
-   "description": "If you could take a living thing apart, you would not find any special 'life stuff'. You would find atoms, the tiny bits that everything is made of. Mostly carbon, hydrogen, oxygen and nitrogen. These are the same atoms that are in air, water, coal and rock. Almost every atom in your body, apart from hydrogen, was made inside a star long ago. What makes something alive is not what it is made of. It is how those atoms are arranged and kept busy.",
+   "description": "If you could take a living thing apart, you would not find any special 'life stuff'. You would find atoms, the tiny particles that everything is made of. Most of them are carbon, hydrogen, oxygen and nitrogen. These are the same atoms that are in air, water, coal and rock. Almost every atom in your body, apart from hydrogen, was made inside a star long ago. What makes something alive is not what it is made of. It is how those atoms are arranged, and what they keep doing.",
    "examples": [
     "The carbon in a mango tree came from carbon dioxide in the air.",
     "The water in your body was once rain, river and sea."
@@ -302,7 +303,7 @@
   {
    "concept": "Living things keep themselves going",
    "status": "idea",
-   "description": "Here is another way to think about life. In 1944 the physicist Erwin Schrödinger wrote a little book called 'What Is Life?'. He pointed out that everything left alone tends to fall apart. A sandcastle crumbles. A hot cup cools. Living things fight this every moment. They take in food or sunlight and use the energy to keep themselves in order, and to repair and rebuild. Your body replaces many of its cells every few weeks, yet you stay you. You are less like a statue and more like a flame or a river: the stuff flows through, and the pattern stays. This is a helpful idea, not a full definition. A flame also keeps its shape this way, which is why fire is such a tricky case.",
+   "description": "Here is another way to think about life. In 1944 the physicist Erwin Schrödinger wrote a little book called 'What Is Life?'. He pointed out that everything left alone tends to fall apart. A sandcastle crumbles. A hot cup cools. Living things work against this every moment. They take in food or sunlight and use the energy to keep themselves in order, and to repair and rebuild. Your body replaces many of its cells every few weeks, yet you stay you. New atoms flow in and old ones flow out, and the pattern stays. This is a helpful idea, not a full definition. A flame also keeps its shape while new wax and air flow through it, which is why fire is such a tricky case.",
    "examples": [
     "The lining of your stomach is replaced every few days.",
     "A whirlpool in a river keeps its shape, though the water in it is always new."
@@ -339,7 +340,7 @@
   {
    "concept": "How did the first living thing begin?",
    "status": "idea",
-   "description": "Today, every living thing comes from another living thing. Seeds come from plants, chicks from eggs, bacteria from bacteria. But long ago, about 4 billion years ago, the Earth had no life at all. Somehow, non-living chemicals became the first living cells. Nobody knows exactly how. In 1952, Stanley Miller and Harold Urey mixed gases they thought were in the early air, and sparked them like lightning. They made some of the building blocks of living things. Another idea is that life began with a simpler kind of instruction molecule, called RNA, that could copy itself. These are ideas, and scientists still argue about them.",
+   "description": "Today, every living thing comes from another living thing. Seeds come from plants, chicks from eggs, bacteria from bacteria. But more than 4 billion years ago, the Earth had no life at all. Somehow, non-living chemicals became the first living cells. Nobody knows exactly how. In 1952, Stanley Miller and Harold Urey mixed gases they thought were in the early air, and sparked them like lightning. They made some of the building blocks of living things. Another idea is that life began with a simpler kind of instruction molecule, called RNA, that could copy itself. These are ideas, and scientists still argue about them.",
    "examples": [
     "Rotting meat does not make maggots by itself. Flies lay eggs on it. Francesco Redi showed this in Italy in 1668 by covering meat jars with cloth.",
     "Louis Pasteur boiled broth in flasks with long curved necks in about 1860. Nothing grew, because no germs could get in."
@@ -366,6 +367,10 @@
      "explanation": "A metal getting 'tired' is not the same as a living response. Metals have no cells and no instructions. The likeness is on the surface."
     },
     {
+     "who": "DeepKids",
+     "explanation": "We believe Bose saw something real. Metals, plants and animals all respond, each in its own way. DeepKids believes this is because everything is conscious, not only things with nerves."
+    },
+    {
      "who": "Bose himself",
      "explanation": "He saw a deep sameness running through matter and life. This was his view, and most scientists do not share it."
     }
@@ -389,11 +394,11 @@
   },
   {
    "text": "Dry seeds and dried-out water bears are alive, only resting.",
-   "evidence": "Add water and warmth, and they start to breathe, use food and grow again. Pebbles next to them never do."
+   "evidence": "Add water and warmth, and they start to respire, use food and grow again. Pebbles next to them never do."
   },
   {
    "text": "Viruses can only make copies of themselves inside living cells.",
-   "evidence": "Scientists can watch this with electron microscopes and in the lab. Outside cells, viruses do nothing."
+   "evidence": "Scientists can watch this with electron microscopes and in the lab. Outside cells, viruses do not feed, grow or make copies."
   },
   {
    "text": "Living things are made of the same kinds of atoms as non-living things.",
@@ -451,7 +456,7 @@
   },
   {
    "claim": "Plants feel, remember, think and communicate.",
-   "who": "J.C. Bose, many plant scientists today, and DeepKids.",
+   "who": "J.C. Bose, some plant scientists today, and DeepKids.",
    "for": "Plants sense touch, light, heat and damage. When a leaf is hurt, the plant sends electrical signals through its body, as J.C. Bose measured. A touch-me-not folds its leaves when touched, and learns to stop folding when a touch keeps turning out to be harmless. Roots choose where to grow. Many plants warn their neighbours with smells when insects attack.",
    "against": "Some scientists say feeling needs a brain and nerves like ours. So they call a plant's signals 'responses', not feelings.",
    "status": "debated",
@@ -540,7 +545,7 @@
    "\"What are you looking at?\" he asked.",
    "\"Everything,\" I said. \"I am trying to work out which of it is only asleep.\""
   ],
-  "epiphany": "For the parent: drying out is not the same as dying. Some tiny animals, like rotifers and water bears, and seeds too, can lose nearly all their water. Their life processes almost stop, so they show no signs of life at all. When water comes back, they wake. Scientists call this dormancy, and in its deepest form 'cryptobiosis', which means hidden life. So 'alive' and 'dead' are not the only two boxes. There is a third: waiting. The story also quietly asks who gets the credit for careful work.",
+  "epiphany": "For the parent: drying out is not the same as dying. Some tiny animals, like rotifers and water bears, and seeds too, can lose nearly all their water. Their life processes almost stop, so they show no signs of life at all. When water comes back, they wake. Scientists call this dormancy, and in its deepest form 'cryptobiosis', which means hidden life. Some scientists think of it as a third state, between alive and dead. The story also quietly asks who gets the credit for careful work.",
   "ask": [
    "Maria called the dust 'dead dirt'. Why did she think so? What did her father think?",
    "What did the water do to the brown lumps?",
@@ -584,7 +589,7 @@
       "A mushroom: I have no leaves and no mouth. I eat dead wood.",
       "Curd: I am full of tiny bacteria.",
       "A computer program that copies itself and changes a little each time.",
-      "A hen's egg from the shop, never sat on by a hen.",
+      "A hen's egg from the shop. It has no chick inside, and never will.",
       "A lotus seed found in a dry lake bed, about 1,300 years old.",
       "A tree stump, cut last year, with a green shoot growing from its side.",
       "A xenobot: a tiny blob built by scientists from frog cells. It swims."
@@ -684,7 +689,7 @@
       "options": [
        "ALIVE, because it eats, grows and makes new flames",
        "NOT ALIVE, because it has no cells and no instructions",
-       "ARGUE IT, because scientists cannot decide"
+       "ARGUE IT, because scientists still disagree"
       ],
       "a": 1,
       "why": "Fire passes many tests, but it has no cells, and a new flame carries no instructions from the old one. So scientists agree it is not alive. Picking ALIVE usually means counting the signs it has without checking the ones it lacks. Picking ARGUE IT is a fair guess, but fire is one case scientists do agree on."
@@ -697,7 +702,7 @@
      "do": "Take turns drawing cards. Each player places a card and gives a reason. Hand out a token for every good reason or good argument.",
      "say": "Your turn. Read the card. Choose a mat. Point to a sign card and tell us why. If you disagree with someone, argue back with another sign card.",
      "kid": "Take a card. Read it. Choose a mat. Point to a sign card and say why. You can argue back if you disagree.",
-     "parent": "Good reasons name a sign. For example: 'The seed is alive, because it is made of cells and it will grow when it gets water.' Expected places: virus, computer program and xenobot go well on ARGUE IT. The cloud, river, chair and robot go on NOT ALIVE (the chair is once-living). The seed, water bear, mule, mango, yeast, mushroom, curd bacteria, lotus seed and tree stump are ALIVE. The shop egg is a fine argument: it has never been sat on, so it will not grow a chick. Accept any well-argued answer.",
+     "parent": "Good reasons name a sign. For example: 'The seed is alive, because it is made of cells and it will grow when it gets water.' Expected places: the virus, the computer program and the xenobot go well on ARGUE IT. The cloud, river, chair and robot go on NOT ALIVE (the chair is once-living). The seed, water bear, mule, mango, yeast, mushroom, curd bacteria, lotus seed and tree stump are ALIVE. The shop egg is a good one to argue: most shop eggs were never fertilised, so they can never grow a chick. Accept any well-argued answer.",
      "ask": [
       {
        "q": "The mule can't have babies. Is it still alive?",
@@ -897,11 +902,11 @@
     },
     {
      "t": "fill",
-     "p": "When the grown-up covered the candle with a glass, the flame went out. It had used up the ____ in the glass.",
+     "p": "When the grown-up covered the candle with a glass, the flame went out. It had used up most of the ____ under the glass.",
      "a": [
       "oxygen"
      ],
-     "why": "A flame needs oxygen, a gas in the air. So do we. Under the glass, the oxygen ran out.",
+     "why": "A flame needs oxygen, a gas in the air. So do we. Under the glass, the oxygen ran low and the flame went out.",
      "how": "a2"
     },
     {
@@ -980,7 +985,7 @@
       "Only in the air"
      ],
      "a": 1,
-     "why": "A virus can only make copies inside a living cell. On a table or in the air it does nothing at all. That is why scientists argue about whether it is alive."
+     "why": "A virus can only make copies inside a living cell. On a table or in the air it makes no copies. That is why scientists argue about whether it is alive."
     },
     {
      "t": "truefalse",
@@ -1098,7 +1103,7 @@
      "t": "mcq",
      "p": "Fire and your cells both join fuel with oxygen. What is the big difference?",
      "opts": [
-      "Cells do it slowly, step by step, and under control. Fire does it wildly, all at once",
+      "Cells do it slowly, step by step, and under control. Fire does it all at once",
       "Fire uses no oxygen",
       "Cells make light",
       "There is no difference"
@@ -1184,13 +1189,13 @@
      "t": "mcq",
      "p": "Your hair grows every week, but cutting it does not hurt. Why?",
      "opts": [
-      "Hair is alive and very brave",
+      "Hair grows too slowly to feel",
       "The part of the hair you cut is made of dead cells. It is pushed out by living cells at the root",
       "Hair is a crystal",
       "Hair is a virus"
      ],
      "a": 1,
-     "why": "The hair you see is made of dead cells. Living cells under your skin, at the root, push it out. So hair 'grows' by being pushed from below, a little like a crystal growing from one side."
+     "why": "The hair you see is made of dead cells. Living cells in your skin, at the root, make new hair and push it out. So the hair you cut was made by living cells, but is no longer alive itself. Growing slowly has nothing to do with it."
     },
     {
      "t": "mcq",
@@ -1234,7 +1239,7 @@
       3,
       4
      ],
-     "why": "A virus does nothing until it reaches a cell. Then the cell does all the work of making copies.",
+     "why": "A virus makes no copies until it reaches a cell. Then the cell does all the work of making copies.",
      "how": "a4"
     },
     {
@@ -1341,7 +1346,7 @@
       "A salt crystal in a jar"
      ],
      "a": 1,
-     "why": "A flame keeps its shape while new fuel and air flow through it all the time, a bit like a living thing. This is exactly why fire is such a tricky case. A stone does nothing to keep itself in order."
+     "why": "A flame keeps its shape while new fuel and air flow through it all the time, a bit like a living thing. This is exactly why fire is such a tricky case. A stone keeps its shape without anything flowing through it."
     },
     {
      "t": "mcq",
@@ -1462,8 +1467,8 @@
     {
      "t": "write",
      "p": "Design a test to find out whether something in a spoon of Mars soil is alive. Say how your test avoids being fooled by ordinary chemistry.",
-     "a": "Add warm sugar water and cover with a balloon to catch any gas. Do the same with plain sand as a comparison. Then heat some soil strongly and test again. If gas only comes from the unheated soil, and not from the sand, something living may be there.",
-     "why": "A good test has a comparison, like the pebble plate or the no-yeast bottle.",
+     "a": "Add warm sugar water and cover with a balloon to catch any gas. Do the same with soil that has been heated strongly, as a comparison. If gas comes only from the unheated soil, something living may be there, because heat kills living things but not most ordinary chemistry.",
+     "why": "A good test has a comparison, like the pebble plate, the no-yeast bottle or the heated soil.",
      "how": "c1"
     },
     {
@@ -1482,7 +1487,7 @@
    "mins": 30,
    "days": 5,
    "question": "Is a dry seed alive, even though it does nothing? What does it need to wake up?",
-   "predict": "Before you start, guess. What will happen to seeds on wet cotton? To pebbles on wet cotton? To seeds on dry cotton? Draw your guess for each plate.",
+   "predict": "Before you start, guess. What will happen to seeds on wet cotton? To pebbles on wet cotton? To seeds on dry cotton? Draw your guess for each plate, and say why you think so.",
    "fair_test": "To make it fair, keep everything the same except one thing. Use the same plates, the same cotton and the same place. The wet seeds and the wet pebbles test whether water alone makes things grow. The wet seeds and the dry seeds test whether seeds need water. Use 6 seeds, because one seed can be a dud.",
    "results_table": [
     "Day",
@@ -1497,7 +1502,7 @@
      "qty": 12
     },
     {
-     "item": "small pebbles about the size of a moong seed",
+     "item": "small pebbles from a plant pot, about the size of a moong seed (or small buttons or beads)",
      "qty": 6
     },
     {
@@ -1648,7 +1653,7 @@
      "say": "Let's check our plates. What has changed? Which plate looks different? Let's measure the longest root.",
      "kid": "Check your plates. What has changed? Draw them. Measure the longest root.",
      "wait": "Come back each day for four days.",
-     "parent": "Expect seeds on plate 1 to swell within a day. A white root appears on day 2 or 3, then a shoot. Pebbles and dry seeds stay the same. Use the hand lens to look at the root tip."
+     "parent": "Expect seeds on plate 1 to swell within a day. A white root usually appears on day 1 or 2, then a shoot. Pebbles and dry seeds stay the same. Use the hand lens to look at the root tip."
     },
     {
      "id": "s5",
@@ -1673,8 +1678,8 @@
      "id": "s6",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences: what I think, what I saw, and why.",
-     "say": "Let's finish like scientists. What do you think now about dry seeds? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me what you found. What do you think now about dry seeds? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a dry seed is alive, only resting. What I saw: the seeds on wet cotton grew roots 40 mm long by day 5, but the pebbles on wet cotton did not change. Why: the seed has a baby plant inside that wakes up when it gets water."
     }
    ]
@@ -1685,7 +1690,7 @@
    "mins": 35,
    "days": 1,
    "question": "Dried yeast looks like sand. Is it alive?",
-   "predict": "Guess which bottle will blow up its balloon: yeast with warm sugar water, yeast with cold sugar water, or warm sugar water with no yeast.",
+   "predict": "Guess which bottle will blow up its balloon: yeast with warm sugar water, yeast with cold sugar water, or warm sugar water with no yeast. Why do you think so?",
    "fair_test": "Keep everything the same except one thing at a time. Each bottle gets the same amount of water and sugar. Bottles 1 and 2 test whether warmth matters. Bottles 1 and 3 test whether the yeast is what makes the gas.",
    "results_table": [
     "Bottle",
@@ -1696,13 +1701,13 @@
    ],
    "materials": [
     {
-     "item": "dried yeast (1 packet)",
+     "item": "dried yeast (1 small packet, from a grocery or bakery shop)",
      "qty": 1,
      "buy": "b-yeast"
     },
     {
      "item": "sugar",
-     "qty": "3 teaspoons"
+     "qty": "6 teaspoons"
     },
     {
      "item": "3 small empty plastic bottles of the same size",
@@ -1764,7 +1769,7 @@
    "setup": [
     {
      "art": "Three small plastic bottles in a row labelled 1, 2 and 3, with a spoon of sugar going into each.",
-     "caption": "1. Put 1 teaspoon of sugar in each bottle."
+     "caption": "1. Put 2 teaspoons of sugar in each bottle."
     },
     {
      "art": "A grown-up pouring warm water into bottles 1 and 3 and cold water into bottle 2, and a child tipping yeast through a paper cone into bottles 1 and 2.",
@@ -1780,7 +1785,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Pour a little dried yeast into your child's palm. Let them look at it with the hand lens.",
-     "say": "This is dried yeast, from the kitchen shop. It looks like sand. Bakers say it is alive. What do you think? How could we test it?",
+     "say": "This is dried yeast, from the shop. It looks like sand. Bakers say it is alive. What do you think? How could we test it?",
      "kid": "Look at the dried yeast with the lens. It looks like sand. Is it alive? How could you find out?",
      "adult": false,
      "context": "This is the start of the balloon test. It asks whether dried yeast, which looks like sand, is alive."
@@ -1788,7 +1793,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Put 1 teaspoon of sugar in each bottle. 2. A grown-up pours half a cup of warm water into bottles 1 and 3, and half a cup of cold water into bottle 2. 3. Add 1 teaspoon of yeast to bottles 1 and 2 only. 4. Swirl each bottle. 5. Stretch a balloon over each neck.",
+     "do": "1. Put 2 teaspoons of sugar in each bottle. 2. A grown-up pours half a cup of warm water into bottles 1 and 3. 3. The grown-up pours half a cup of cold water into bottle 2. 4. Add 1 teaspoon of yeast to bottles 1 and 2 only. 5. Swirl each bottle. 6. Stretch a balloon over each neck.",
      "say": "Bottle 1 has yeast and warm water. Bottle 2 has yeast and cold water. Bottle 3 has warm water and no yeast. Which balloon do you think will blow up?",
      "kid": "Put sugar in all three bottles. A grown-up adds water. Add yeast to bottles 1 and 2. Swirl. Put on the balloons.",
      "adult": true,
@@ -1801,7 +1806,7 @@
      "say": "Let's look at the bottles. Do you see bubbles? Froth? Is any balloon standing up? Living things take in food and give off waste. What could the gas be?",
      "kid": "Look at the bottles. Do you see bubbles? Is a balloon filling up? Check again in a while.",
      "wait": "Check again after 30 minutes.",
-     "parent": "Bottle 1 should froth and its balloon should slowly stand up and fill. Bottle 2 will be slow. Bottle 3 will not change. The gas is carbon dioxide, the same gas you breathe out."
+     "parent": "Bottle 1 should froth and its balloon should slowly stand up and fill. Bottle 2 will be slow. Bottle 3 will not change. The gas is carbon dioxide, the same gas you breathe out. If the balloon on bottle 1 is still small at 30 minutes, leave it for another half hour. If nothing at all happens, the yeast may be old: try a fresh packet."
     },
     {
      "id": "s4",
@@ -1827,7 +1832,7 @@
      "id": "s5",
      "mins": 5,
      "do": "Ask for claim, evidence and reasoning.",
-     "say": "Let's finish like scientists. What do you think now about the yeast? What did you see? And why do you think it happened? Why was bottle 2 so slow?",
+     "say": "Now tell me what you found. What do you think now about the yeast? What did you see? And why do you think it happened? Why was bottle 2 so slow?",
      "kid": "Say three things. What I think. What I saw. Why. Why was the cold bottle slow?",
      "parent": "A good answer: What I think: dried yeast is alive but resting. What I saw: the warm yeast balloon grew to 30 cm round, but the no-yeast balloon stayed at 10 cm. Why: the yeast woke up, ate the sugar and gave off gas. Cold slows living things down."
     }
@@ -1839,8 +1844,8 @@
    "mins": 30,
    "days": 7,
    "question": "Salt crystals grow. Does that make them alive?",
-   "predict": "Guess what will happen to a thread hanging in very salty water. Will anything grow? If it does, will it be alive?",
-   "fair_test": "Set up a second jar with plain water and a thread, as a comparison. Keep both jars in the same quiet place, so only the salt is different.",
+   "predict": "Guess what will happen to a thread hanging in very salty water, and to one in plain water. Will anything grow? If it does, will it be alive? Say why you think so.",
+   "fair_test": "Set up a second jar with plain water and a thread, as a comparison. Keep both jars side by side in the same warm, still place, so the only difference is the salt.",
    "results_table": [
     "Day",
     "Salty jar: what you see on the thread",
@@ -1857,15 +1862,15 @@
      "qty": 2
     },
     {
-     "item": "hot water from the tap or kettle (a grown-up pours)",
+     "item": "hot water from a kettle or a pan on the stove (a grown-up pours)",
      "qty": "2 cups"
     },
     {
-     "item": "cotton thread and 2 pencils",
+     "item": "cotton thread, 2 pencils and 2 small buttons to weigh down the threads",
      "qty": 2
     },
     {
-     "item": "a hand lens",
+     "item": "a hand lens, or a phone camera zoomed in",
      "qty": 1,
      "buy": "b-lens"
     },
@@ -1873,6 +1878,10 @@
      "item": "a ruler",
      "qty": 1,
      "buy": "b-ruler"
+    },
+    {
+     "item": "a dark steel plate or a black paper",
+     "qty": 1
     }
    ],
    "safety": "A grown-up pours and stirs the hot water. Let the jars cool before your child touches them.",
@@ -1926,19 +1935,19 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. A grown-up pours hot water into a jar. 2. Stir in salt, one spoon at a time, until a little stays at the bottom. 3. Fill the second jar with plain hot water. 4. Tie a thread to each pencil. 5. Lay a pencil across each jar so the thread hangs in the water. 6. Put both jars somewhere still.",
-     "say": "The hot water can hold lots of salt. As it cools and slowly dries up, the salt has to come out again. Let's see where it goes.",
+     "do": "1. A grown-up pours hot water into a jar. 2. Stir in salt, one spoon at a time, until a little stays at the bottom. 3. Fill the second jar with plain hot water. 4. Tie a thread to each pencil, with a button on its end. 5. Lay a pencil across each jar so the thread hangs in the water. 6. Put both jars somewhere warm and still, like a shelf near a window. 7. Put a few drops of the salty water on a dark plate, and leave it beside the jars.",
+     "say": "The hot water is holding lots of salt. As the water slowly evaporates into the air, there is less water to hold the salt. So the salt has to come out somewhere. Let's see where it goes.",
      "kid": "A grown-up makes the salty water. Hang a thread in it. Hang another thread in plain water. Leave both jars very still.",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "On days 3, 5 and 7, look at both threads with the hand lens. Draw them. Measure the biggest crystal.",
+     "do": "On days 3, 5 and 7, look at both threads, and at the dark plate, with the hand lens. Draw them. Measure the biggest crystal.",
      "say": "What is on the threads? How are the crystals growing? From inside, or by adding on at the outside?",
      "kid": "Look at both threads with the lens. What do you see? Draw it. Measure the biggest crystal.",
      "wait": "Look again on days 3, 5 and 7.",
-     "parent": "Crystals usually appear in 2 to 4 days and keep growing as the water dries up. The plain water thread stays bare. Notice the flat faces and square corners of salt crystals."
+     "parent": "The drops on the dark plate dry within a day and leave tiny square crystals, so look at them first. On the thread, crystals usually appear in 2 to 4 days and keep growing as the water evaporates. The plain water thread stays bare. Notice the flat faces and square corners of salt crystals. Salt also creeps up the inside of the jar as a white crust. That is the same thing happening."
     },
     {
      "id": "s4",
@@ -1966,7 +1975,7 @@
      "do": "Ask for claim, evidence and reasoning.",
      "say": "What do you think now: is the crystal alive? What did you see? Why do you think so?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer: What I think: the crystal is not alive. What I saw: it grew to 5 mm, but only salt built up on the outside, and it did nothing else. The plain water thread stayed bare. Why: the salt came out of the water as it dried. The crystal has no cells and takes in no food."
+     "parent": "A good answer: What I think: the crystal is not alive. What I saw: it grew to about 5 mm, but only salt built up on the outside, and it did nothing else. The plain water thread stayed bare. Why: the salt came out of the water as the water evaporated. The crystal has no cells and takes in no food."
     }
    ]
   }
@@ -2111,8 +2120,8 @@
      "caption": "1. A grown-up lights a candle on a steel plate."
     },
     {
-     "art": "A grown-up holding a cold steel spoon just above the flame, with a black smudge of soot and a little mist on the spoon.",
-     "caption": "2. Hold a cold spoon high above the flame. Look for mist and soot."
+     "art": "A grown-up holding a cold steel spoon over a candle flame, with a little mist on the spoon and a black smudge of soot where it touched the flame tip.",
+     "caption": "2. Hold a cold spoon over the flame. Look for mist, then soot."
     },
     {
      "art": "A glass tumbler placed over the candle, the flame shrinking to a tiny blue dot.",
@@ -2124,7 +2133,7 @@
      "id": "s1",
      "mins": 3,
      "do": "A grown-up lights the candle. Everyone sits back an arm's length away.",
-     "say": "Today the flame is on trial. We will test it, sign by sign. Does it move? Watch it. Does it grow? Watch the wick as the wax melts.",
+     "say": "Today the flame is on trial. We will test it, sign by sign. Does it move? Watch it. Does it grow? Watch it for a minute after it is lit.",
      "kid": "A grown-up lights the candle. Sit back. Watch the flame. Does it move? Does it change?",
      "adult": true,
      "context": "This is the start of the candle trial. You test a candle flame against the signs of life."
@@ -2132,30 +2141,30 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "A grown-up holds a cold steel spoon about a hand's width above the flame for 3 seconds, then shows it.",
-     "say": "Look at the spoon. The mist is water, and the black smudge is soot. The flame makes waste, just like you do when you breathe out. Let's breathe on a cold spoon too.",
-     "kid": "Look at the spoon. There is mist and black soot. That is the flame's waste. Breathe on a cold spoon. What do you see?",
+     "do": "1. A grown-up holds a cold steel spoon a few centimetres above the flame for 3 seconds, then shows the mist on it. 2. Then the grown-up holds the spoon in the very tip of the flame for 2 seconds, and shows the black soot. 3. Everyone holds their hands a little way from the side of the flame, then puts their palms on their own cheeks. 4. Your child breathes on a second cold spoon.",
+     "say": "Look at the spoon. The mist is water that the flame made. The black smudge is soot, from wax that did not burn completely. Now feel the flame's warmth, then feel your own cheeks. You are warm too. Breathe on this cold spoon. What do you see?",
+     "kid": "Look at the spoon. The flame made mist and black soot. Feel the warm flame. Feel your warm cheeks. Breathe on a cold spoon. What do you see?",
      "adult": true,
-     "parent": "Hold the spoon high enough that it never touches the flame. Wipe off the soot afterwards."
+     "parent": "The spoon gets hot in the flame, so hold it by the far end and let it cool before anyone touches it. Wipe off the soot afterwards. Both the flame and your child's breath mist the spoon, and both give out warmth. Let your child notice this. The explanation comes later."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "A grown-up puts the glass tumbler gently over the candle. Watch until the flame goes out.",
-     "say": "Watch. The flame is using up something in the air. What happens when it runs out? We need that same thing, oxygen, to stay alive.",
-     "kid": "Watch the flame under the glass. What happens? It needed air, like you.",
+     "say": "What do you think will happen to the flame under the glass? Why do you think so? Now watch. Afterwards: what did the flame need that ran out?",
+     "kid": "What will happen to the flame under the glass? Guess first. Then watch. What ran out?",
      "adult": true,
      "check": {
       "t": "mcq",
       "q": "Why did the flame go out under the glass?",
       "options": [
-       "It got bored",
-       "It used up the oxygen in the glass",
+       "The glass made it too dark",
+       "It used up most of the oxygen under the glass",
        "The glass was too cold",
        "It finished its wax"
       ],
       "a": 1,
-      "why": "A flame needs oxygen, a gas in the air. Under the glass it used the oxygen up, and could not get more. Picking 'finished its wax' is a fair guess, but the candle still has plenty of wax. The flame went out because the glass cut off the air."
+      "why": "A flame needs oxygen, a gas in the air. Under the glass it used most of the oxygen and could not get more. Picking 'finished its wax' is a fair guess, but the candle still has plenty of wax. The flame went out because the glass cut off the air."
      }
     },
     {
@@ -2170,7 +2179,7 @@
        "q": "Is the new flame like the old one's baby?",
        "good": [
         "No. The new flame looks the way it does because of its own wax and wick, not because of the old flame.",
-        "Kittens get instructions from their mother. Flames get nothing."
+        "Kittens get instructions from their mother. A new flame gets no instructions from the old one."
        ]
       }
      ]
@@ -2182,18 +2191,18 @@
      "say": "Let's sum up the trial. Which signs did the flame show? Which did it lack? Did it have cells? Did it pass on instructions? So, what is your verdict?",
      "kid": "Fill in your chart. Signs the flame showed. Signs it lacked. Then give your verdict: alive or not alive?",
      "adult": true,
-     "parent": "A good verdict: 'Not alive. The flame moved, grew, used fuel and oxygen, made waste and started a new flame. But it has no cells and passes on no instructions.' If your child says it is a little bit alive, ask what it would need to be fully alive."
+     "parent": "A good verdict: 'Not alive. The flame moved, grew, used fuel and oxygen, made waste and started a new flame. But it has no cells and passes on no instructions.' If your child says it is a little bit alive, ask what it would need to be fully alive. Then ask: the flame and you both made the spoon misty and both felt warm. Why might that be?"
     }
    ]
   },
   {
    "id": "a3",
-   "title": "Water Bear Hunt",
+   "title": "Water Bear Hunt (if you can find moss)",
    "mins": 25,
    "days": 2,
    "materials": [
     {
-     "item": "a small clump of dry moss from a wall, a tree trunk or a roof",
+     "item": "a small clump of dry moss from a wall, a tree trunk or the soil of an old plant pot",
      "qty": 1
     },
     {
@@ -2260,7 +2269,7 @@
      "do": "Next day, squeeze the moss over the dark plate. Use the dropper to spread the water in small drops. Search each drop slowly with the phone microscope or lens.",
      "say": "Water bears are about as long as a grain of salt is wide. Look for a slow, chubby animal that waddles on eight stumpy legs. Be patient. Many hunters look for a long time.",
      "kid": "Squeeze the moss onto the plate. Look at each drop slowly. Look for a chubby animal with eight short legs.",
-     "parent": "Water bears are common but tiny, about half a millimetre long. With a hand lens you may only see a slowly moving speck. A phone microscope clip of 30 times or more helps a lot. You will probably also see other tiny moss animals, like wriggling rotifers. They can dry out and wake again too. If you find nothing, that is normal. Try moss from another place."
+     "parent": "Water bears are common but tiny, about half a millimetre long. With a hand lens you may only see a slowly moving speck. A phone microscope clip of 30 times or more helps a lot. You will probably also see other tiny moss animals, like wriggling rotifers. They can dry out and wake again too. Finding nothing is normal. Try moss from another place, and watch the water bear video in this unit to see one walking."
     },
     {
      "id": "s3",
@@ -2323,7 +2332,7 @@
     },
     {
      "art": "A child in a paper cap standing very still in the middle of a room, labelled VIRUS OUTSIDE A CELL.",
-     "caption": "2. The virus stands still. Alone, it can do nothing."
+     "caption": "2. The virus stands still. Alone, it cannot make copies."
     },
     {
      "art": "A parent inside the 'cell' reading the note and quickly building many small paper copies of the virus.",
@@ -2350,7 +2359,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "The parent uses the blocks to build as many small 'virus' shapes as possible in one minute, then pushes them out of the door.",
+     "do": "The parent uses the blocks to build small 'virus' shapes for one minute, as many as possible. Then the parent pushes them out of the door.",
      "say": "Look. The cell is using its own building parts and its own energy to make copies of you. You did not do any of the work. Now the new viruses burst out to find more cells.",
      "kid": "Watch the cell build copies of you. It does all the work. Now the copies burst out.",
      "ask": [
@@ -2379,7 +2388,7 @@
        "Because viruses are animals"
       ],
       "a": 1,
-      "why": "A virus carries instructions and makes copies, like living things. But it can only do this inside a cell, and alone it does nothing. That is why it sits on the edge. Picking 'animals' is a common mix-up. Viruses have no cells at all, while every animal is made of many cells."
+      "why": "A virus carries instructions and makes copies, like living things. But it can only do this inside a cell, and alone it makes no copies. That is why it sits on the edge. Picking 'animals' is a common mix-up. Viruses have no cells at all, while every animal is made of many cells."
      }
     }
    ]
@@ -2643,7 +2652,8 @@
    "materials": [
     "paper and colour pencils",
     "a shoebox to build a model robot",
-    "a spoon of garden soil and a spoon of sand to practise on"
+    "a spoon of soil from a plant pot, and a spoon of the same soil that a grown-up has heated in a dry pan for 10 minutes",
+    "2 small plastic bottles, 2 balloons, sugar and warm water"
    ],
    "general": [
     "Add water and food, and watch for gas, like the yeast balloon test.",
@@ -2663,8 +2673,8 @@
      "caption": "1. Picture the robot digging up a spoon of Mars soil."
     },
     {
-     "art": "Two small cups, one of garden soil and one of sand, each with a little sugar water added and a balloon over the top.",
-     "caption": "2. Practise your test on garden soil and on sand."
+     "art": "Two small plastic bottles, one with pot soil and one with heated soil, each with sugar water added and a balloon over the neck.",
+     "caption": "2. Practise your test on pot soil and on heated soil."
     },
     {
      "art": "A child's drawing of the robot with three labelled tests: 'add food, watch for gas', 'look for cells', 'heat, then test again'.",
@@ -2683,11 +2693,11 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Practise one test at home. Put a spoon of garden soil in one cup and a spoon of sand in another. Add a teaspoon of sugar water to each and stretch a balloon over each cup. Check after 2 hours.",
-     "say": "Garden soil is full of tiny living things. Sand from a packet has very few. If our test works, which cup should make more gas?",
-     "kid": "Add sugar water to soil and to sand. Cover both with a balloon. Check later. Which one made gas?",
-     "wait": "Check after 2 hours.",
-     "parent": "The soil balloon may only crinkle a little. Bacteria in soil give off a small amount of carbon dioxide. Look for tiny bubbles in the soil too."
+     "do": "Practise one test at home. Put a spoon of pot soil in one bottle. Put a spoon of the heated soil in the other. Add 2 teaspoons of sugar and half a cup of warm water to each. Stretch a balloon over each neck. Check the next morning.",
+     "say": "Soil from a plant pot is full of tiny living things. Heating the soil kills most of them. If our test works, which bottle should make more gas?",
+     "kid": "Add sugar water to pot soil and to heated soil. Cover both with a balloon. Check tomorrow. Which one made gas?",
+     "wait": "Check the next morning.",
+     "parent": "A grown-up heats the soil in a dry pan, stirring, for about 10 minutes, then lets it cool. The pot soil balloon may only stand up a little. Bacteria and fungi in soil give off a small amount of carbon dioxide. Also look for tiny bubbles and smell for a sour smell. The heated soil should show much less. This is close to what the Viking landers did on Mars in 1976."
     },
     {
      "id": "s3",
@@ -2697,15 +2707,15 @@
      "kid": "Draw your robot and its tests. How will it avoid being fooled?",
      "check": {
       "t": "mcq",
-      "q": "Why test plain sand next to the Mars soil?",
+      "q": "Why test heated soil next to the fresh soil?",
       "options": [
        "To make the robot heavier",
-       "As a comparison: if the sand passes the test too, the test is fooled by ordinary chemistry",
-       "Because sand is alive",
+       "As a comparison: if the heated soil passes the test too, the test is fooled by ordinary chemistry",
+       "Because heated soil is more alive",
        "To clean the robot"
       ],
       "a": 1,
-      "why": "A comparison shows what happens without life. If sand fizzes as much as the Mars soil, the fizz is chemistry, not life. This is exactly the pebble plate in the sleeping seeds experiment. Picking 'sand is alive' is the opposite of the idea."
+      "why": "A comparison shows what happens without life. Heat kills living things but does not stop most ordinary chemistry. If heated soil fizzes as much as fresh soil, the fizz is chemistry, not life. This is like the pebble plate in the sleeping seeds experiment. Picking 'heated soil is more alive' is the opposite of the idea."
      }
     }
    ]
@@ -2808,23 +2818,23 @@
    "youtube": "QOCaacO8wus",
    "mins": 9,
    "why": "For the parent and curious older children. A beautifully animated look at why life is hard to define, with viruses and other edge cases.",
-   "check": "Found by YouTube search: \"What Is Life? Is Death Real?\" by Kurzgesagt – In a Nutshell. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel checked on YouTube (oEmbed), October 2026. A parent may still preview it."
   },
   {
-   "title": "A video showing living tardigrades (water bears) under a microscope",
-   "channel": "Journey to the Microcosmos, or a similar microscope channel",
+   "title": "Tardigrades: Chubby, Misunderstood, & Not Immortal",
+   "channel": "Journey to the Microcosmos",
    "youtube": "kux1j1ccsgg",
    "mins": 8,
    "why": "So children can see real water bears walking, before or after the water bear hunt.",
-   "check": "Found by YouTube search: \"Tardigrades: Chubby, Misunderstood, & Not Immortal\" by Journey to the Microcosmos. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel checked on YouTube (oEmbed), October 2026. A parent may still preview it."
   },
   {
-   "title": "A short children's video on how viruses make copies inside cells",
-   "channel": "SciShow Kids, or another trusted science channel for children",
+   "title": "What's a Virus? Science For Kids",
+   "channel": "National Science Foundation News",
    "youtube": "0sYXv3jWpHg",
    "mins": 5,
-   "why": "To show, with animation, what the virus drama game acts out: a virus getting into a cell and the cell making copies.",
-   "check": "Found by YouTube search: \"What's a Virus? Science For Kids\" by National Science Foundation News. Title checked automatically; a parent may still preview it."
+   "why": "To show, with animation, what the virus act-out shows: a virus getting into a cell, and the cell making copies.",
+   "check": "Title and channel checked on YouTube (oEmbed), October 2026. Length not checked. A parent may still preview it."
   }
  ],
  "quiz": [
@@ -2917,7 +2927,7 @@
     "Nothing at all"
    ],
    "a": 1,
-   "why": "A virus can only make copies inside a living cell, using the cell's parts and energy. Alone, it does nothing.",
+   "why": "A virus can only make copies inside a living cell, using the cell's parts and energy. Outside a cell, it makes no copies.",
    "outcome": 3
   },
   {
@@ -2992,9 +3002,9 @@
   "Bakers use dried yeast that wakes up in warm water and makes bread dough rise.",
   "Doctors and scientists make vaccines by studying how viruses get into cells.",
   "Scientists who study water bears hope to learn how to store medicines and vaccines dry, without a fridge.",
-  "NASA and ISRO design robots and tests to search for life on Mars and other worlds.",
+  "NASA and other space agencies design robots and tests to search for signs of life on Mars and other worlds.",
   "Food is kept in the fridge because cold slows down the bacteria and fungi that spoil it.",
-  "Dried fruits, papad and pickles last long because, without water, germs cannot grow well.",
+  "Dried fruits and papad last long because, without water, germs cannot grow well. Pickles last because of salt, oil and sourness.",
   "Fire fighters use the 'fire needs fuel, air and heat' idea. Take away one, and the fire dies.",
   "Viruses that attack only bacteria, called phages, are being tested as medicines against infections.",
   "Engineers build robots that copy living things, like walking, grasping or finding their way."
@@ -3013,7 +3023,7 @@
    "art": "A brick wall in a lane, covered in bright green moss."
   },
   {
-   "text": "A diya flame at a festival: moving, eating oil, breathing air, but not alive.",
+   "text": "A diya flame at a festival: it moves and uses oil and air, but by the biologists' tests it is not alive.",
    "art": "A clay diya with a bright flame on a doorstep."
   },
   {
@@ -3025,7 +3035,7 @@
    "art": "A ball of bread dough swelling in a bowl."
   },
   {
-   "text": "A sneeze: millions of cold viruses made by your own nose cells, flying out.",
+   "text": "A sneeze: many cold viruses, made by your own nose cells, flying out.",
    "art": "A child sneezing into a tissue, with tiny dots shown in a cloud."
   },
   {
@@ -3253,9 +3263,9 @@
    "why_maths": "Saying 'three times bigger' tells us how strong the effect of the living yeast was, compared with the bottle without it."
   },
   {
-   "problem": "In the candle trial, you tested the flame against 9 signs of life. It showed 5 of them: moving, using fuel, using air, growing and making waste. How many signs did it not show?",
+   "problem": "In the candle trial, you tested the flame against the 9 sign cards. It showed 5 of them: it moved, took in wax as fuel, got energy from it, grew and made waste. How many signs did it not show?",
    "answer": "4 signs.",
-   "explain": "There were 9 signs in all. The flame showed 5. 9 take away 5 is 4. The 4 it did not show included being made of cells and passing on instructions. Those are the ones that matter most.",
+   "explain": "There were 9 signs in all. The flame showed 5. 9 take away 5 is 4. The 4 it did not show were sensing, making young, being made of cells and passing on instructions. The last two are the ones that matter most.",
    "math_unit": "math.data.sorting-and-tallies.L3",
    "how": "a2",
    "context": "This is about the candle trial, where a grown-up lit a candle and you tested the flame against each sign of life.",
@@ -3440,7 +3450,7 @@
   },
   {
    "q": "How does a crystal grow?",
-   "a": "By adding more of the same stuff onto its outside."
+   "a": "By adding more of the same salt onto its outside."
   },
   {
    "q": "Name two signs of life a robot does NOT have.",
@@ -3475,6 +3485,7 @@
    "summary",
    "terms",
    "a2",
+   "e3",
    "explanations",
    "e1",
    "story",
@@ -3484,7 +3495,6 @@
    "videos",
    "ws-core",
    "a5",
-   "e3",
    "a3",
    "g2",
    "agreed",
@@ -3503,6 +3513,7 @@
   "core": [
    "a1",
    "a2",
+   "e3",
    "e1",
    "g1",
    "e2",
@@ -3512,10 +3523,9 @@
   ],
   "spine": [
    "intro",
-   "a1",
    "a2",
+   "e3",
    "explanations",
-   "story",
    "roots",
    "quiz"
   ]
@@ -3529,7 +3539,7 @@
    "DeepKids HomeSchooling Track, Physics sheet: 'who are you, what is life, what is this world' interview questions (roots, big questions)",
    "DeepKids HomeSchooling Track, crystal growing activities ('magical for them') (e3)",
    "Combined lesson sci-C3-living-and-non-living-signs-of-life: tricky cases (fire, crystals, robots, sleeping seeds, viruses), Alive Detective card game (improved as g1), crystal garden (e3), Museum of tricky cases project (p1), voices on Leeuwenhoek, giant viruses, the NASA definition and J.C. Bose, and the Ganga 'living entity' perspective. Its story was not reused.",
-   "Cambridge pack sci-L3-03: the virus debate voice (Wendell Stanley's virus crystals idea folded into the virus card), the seed jar experiment with pebbles (e1), the yeast balloon test (e2)"
+   "Cambridge pack sci-L3-03: the virus debate voice (Wendell Stanley's virus crystals, now an example on the virus card), the seed jar experiment with pebbles (e1), the yeast balloon test (e2)"
   ],
   "science": [
    "Leeuwenhoek, letter to the Royal Society, 1702, on animalcules (rotifers) reviving from dried gutter sediment",
@@ -3545,65 +3555,74 @@
    "Kriegman, S., Blackiston, D., Levin, M. and Bongard, J., PNAS 2020 (xenobots) and PNAS 2021 (kinematic self-replication)",
    "McKay, D. S. and others, Science 1996 (ALH84001)",
    "Bose, J. C., Response in the Living and Non-Living, Longmans, Green and Co., 1902",
-   "Lander, E. S. and others, Nature 2001 (about 8 percent of the human genome from ancient retroviruses)"
+   "Lander, E. S. and others, Nature 2001 (about 8 percent of the human genome from ancient retroviruses)",
+   "Lavoisier, A. and Laplace, P.-S., 'Mémoire sur la chaleur', 1783 (the ice calorimeter and the guinea pig: respiration as slow combustion)",
+   "Stanley, W. M., Science 1935, isolation of a crystalline protein with the properties of tobacco mosaic virus",
+   "Charaka Samhita, Chikitsa Sthana 15.3-4 (agni, the body's fire)"
   ]
  },
  "roots": {
-  "context": "We have been putting tricky cases on trial: fire, crystals, robots, sleeping seeds, water bears and viruses. Now we ask what these puzzles tell us about ourselves and the world.",
+  "context": "We have tested tricky cases against the signs of life: fire, a salt crystal, a robot, a dry seed, a water bear and a virus. Now we ask what fire, the most famous tricky case, tells us about our own bodies.",
   "deep_truth": {
-   "truth": "Life does not begin where we draw the line. The edge between alive and not alive is drawn by us, not by nature.",
-   "habit": "We sort the world into two boxes, alive and not alive, as if nature made the boxes. But a dry seed, a tun and a virus sit between them. The boxes are our words, and the world is smoother than our words.",
-   "evidence": "A dry seed shows no signs of life and is alive. A flame shows many signs and is not. A virus is lifeless outside a cell and busy inside one."
+   "truth": "A candle flame and your cells both join fuel with oxygen, and both give out heat and water. A cold spoon mists up when held over the flame, and when you breathe on it. The flame does this all at once, but your cells do it slowly, in many small steps. So life needs no special force of its own: it runs on the same chemistry as fire, done slowly.",
+   "habit": "We think living things must run on some special life-stuff that fire, rocks and machines lack. People called this idea vitalism. But the energy that keeps you warm is set free by the same kind of change as in a flame.",
+   "evidence": "In the candle trial, the flame needed air, gave out warmth and misted a cold spoon, just as your body and breath did. In 1783 Lavoisier and Laplace found that a guinea pig's body heat was close to the heat from burning charcoal that made the same amount of carbon dioxide."
   },
   "three": {
-   "who_am_i": "You are made of the same atoms as rocks, air and stars. About 8 out of every 100 parts of your instructions came from viruses long ago.",
-   "what_is_life": "Life is not a special stuff. It is ordinary atoms, arranged and kept busy, like a flame that knows how to keep itself going.",
-   "what_is_this_world": "The world is not split cleanly into living and non-living. There are sleepers, waiters and in-betweens everywhere."
+   "who_am_i": "You are warm because your cells join food with oxygen, the same change that makes a flame hot. You are made of the same kinds of atoms as rocks, air and stars.",
+   "what_is_life": "Scientists find no special life-stuff in living things. A cell is alive because of how its ordinary chemistry is organised, kept going and passed on.",
+   "what_is_this_world": "Living and non-living things are made of the same atoms and use the same chemistry. DeepKids believes they are all part of one consciousness, each aware in its own way."
   },
-  "thread": "Everything in a seed, a flame and you is made of the same few kinds of atoms. DeepKids believes this is the One showing up as many things. Some of those things are arranged to stay busy, repair themselves and pass on instructions, and we call them alive. Others rest, like a seed, and some only borrow life, like a virus. The many look sharply different, but underneath they shade into each other.",
+  "thread": "A flame, a crystal, a virus and you are made of the same few kinds of atoms, and a flame and your cells do the same chemistry. DeepKids believes everything comes from one source, consciousness, and shows up as many different things. Some of those things, like you, are arranged into cells that keep themselves going and pass on instructions, and biologists call them alive. Others, like a flame or a crystal, are not alive by those tests. But DeepKids believes they too have their own kind of awareness, because being alive and being aware are two different questions.",
   "teachings": [
    {
-    "source": "Chandogya Upanishad 6.12",
-    "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' The father says: from this nothing that you cannot see, the whole great banyan tree grows.",
-    "link": "A dry seed looks like nothing is happening inside it. Yet a whole living tree waits there, resting."
+    "source": "Charaka Samhita, Chikitsa Sthana 15.3-4",
+    "teaching": "This old book of Ayurveda says there is a fire in the body, called agni, that turns food into the body. It says a person's life, strength and warmth depend on this fire, and that when it goes out, the person dies.",
+    "link": "Science found something close. Your cells set free the energy in food with oxygen, the same change as in a flame, only slower. The old healers had no microscopes, so this is a parallel, not a proof."
    },
    {
     "source": "Heraclitus, fragment 30 (Diels-Kranz numbering)",
-    "teaching": "The Greek thinker Heraclitus said the world is like an ever-living fire, always burning and always changing, yet keeping its pattern.",
-    "link": "A flame and a living body both keep their shape while new stuff flows through them. That is why fire is such a tricky case, and why life is so hard to define."
+    "teaching": "The Greek thinker Heraclitus, about 2,500 years ago, said the world is an ever-living fire, always being lit and going out in measures, yet keeping its pattern.",
+    "link": "A flame keeps its shape while new wax and air pass through it. Your body keeps its shape while food and air pass through it, and its warmth comes from the same kind of change as a flame's."
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "The hymn of creation asks how everything began, and ends with an honest question: perhaps even the one who watches from the highest heaven does not know.",
-    "link": "Scientists still do not know how the first life came from non-living things. Saying 'we do not know' is part of being honest."
+    "link": "Scientists still do not know how the first life came from non-living chemicals. Saying 'we do not know' is part of being honest."
    }
   ],
   "science": [
    {
-    "text": "Living things are made of the same kinds of atoms as non-living things, and most of those atoms were made in stars.",
+    "text": "Respiration in cells and burning both join fuel with oxygen and give out carbon dioxide, water and energy. Cells do it in many small steps, each one helped along by a protein called an enzyme.",
     "status": "settled"
    },
    {
-    "text": "How the very first life came from non-living chemicals is not known. There are ideas, like the RNA idea, and experiments, but no answer yet.",
-    "status": "open"
+    "text": "Living things are made of the same kinds of atoms as non-living things, and most of those atoms were made in stars.",
+    "status": "settled"
    }
   ],
   "other_view": {
-   "who": "Many biologists",
-   "view": "The line is not just our words. Cells and inherited instructions are a real difference in nature. Fire and crystals really lack them. A few in-between cases do not mean there is no line, just as dusk does not mean day and night are the same."
+   "who": "Most biologists and brain scientists",
+   "view": "The chemistry is shared, but life is still a real difference in nature, not only a word. Only living things have cells and pass on instructions, and fire and crystals really lack them. Most scientists also think awareness needs a living brain and nerves. In ancient India, the Charvaka school said there is only matter, and that awareness ends with the body."
   },
   "practice": {
-   "title": "The sleeping seed",
+   "title": "The fire inside",
    "mins": 3,
-   "say": "Let's be a seed. Curl up small on the floor, and hold one dry seed in your hand. Breathe in slowly. Breathe out slowly. Make your breath so small and quiet that you almost cannot feel it, like a resting seed. Stay very still while I count to twenty. Now imagine warm rain falling on you. Slowly, slowly, uncurl. Stretch one arm up like a shoot. Open your eyes. Were you alive the whole time you were still?",
-   "kid": "Curl up small, holding a dry seed. Breathe very slowly and quietly. Stay still while you count to twenty. Now imagine warm rain. Slowly uncurl and stretch up like a shoot."
+   "say": "Sit comfortably and close your eyes. Rub your palms together, then put them on your cheeks. Feel how warm you are. Now breathe out slowly onto the back of your hand. Feel the warm, damp air. Take ten slow breaths, and count them on your fingers. With each breath in, oxygen goes to your cells. With each breath out, carbon dioxide and water leave. Open your eyes. Where in you is the fire?",
+   "kid": "Close your eyes. Put your hands on your cheeks. Feel how warm you are. Breathe out on your hand. Feel the warm, damp air. Take ten slow breaths. Where in you is the fire?"
   },
   "ask": [
-   "When you are fast asleep, how do you know you are still alive?",
-   "Is there anything in the world that is completely not alive? How could you be sure?",
-   "If the line between alive and not alive is drawn by people, who should get to draw it?",
-   "Part of you came from viruses long ago. Where do you end and the rest of the world begin?"
+   "Your body is warm and a flame is hot, for almost the same reason. So what is the real difference between you and a flame?",
+   "If life needs no special force, what makes a dry seed alive and a flame not?",
+   "Biologists say fire is not alive. Could something be not alive and still be aware in its own way?",
+   "Is there anything in the world that is completely not alive? How could you be sure?"
   ],
-  "art": "A child curled up like a seed on a mat, with a soft glow around them, surrounded by a flame, a crystal, a sprouting seed, a water bear and a virus, all linked by a faint web of tiny glowing atoms."
+  "art": "A child sitting beside a lit diya with palms on their cheeks. Arrows show food and air going into the child and warmth and breath coming out, matching arrows of oil and air going into the flame and warmth and smoke coming out."
+ },
+ "how_we_found_out": {
+  "story": "For a long time, people thought that when something burns, it gives off a hidden substance called phlogiston. A candle in a closed jar went out, they said, because the air had filled up with phlogiston. In the 1770s, the French chemist Antoine Lavoisier weighed things carefully before and after burning. Metals got heavier when they burned, not lighter. So burning was not losing something. It was joining with a part of the air, which Lavoisier named oxygen. Marie-Anne Paulze Lavoisier worked beside him. She translated English papers for him, kept records and drew the equipment. Then Lavoisier asked whether breathing was the same. In 1782 and 1783, with Pierre-Simon Laplace, he put a guinea pig in a box packed with ice, and measured how much ice its body heat melted. He compared this with burning charcoal that made the same amount of carbon dioxide. The two amounts of heat were close. So breathing is a slow burning. Lavoisier thought this burning happened in the lungs. About a hundred years later, scientists showed that it happens inside every cell.",
+  "who": "Antoine Lavoisier and Marie-Anne Paulze Lavoisier, with Pierre-Simon Laplace",
+  "when": "The 1770s to 1783",
+  "wrong_idea": "That burning gives off a hidden substance called phlogiston. Weighing showed that burning metals get heavier, because they join with oxygen from the air. Lavoisier's own wrong idea, that breathing burns food in the lungs, was corrected later: it happens in every cell."
  }
 }
