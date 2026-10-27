@@ -20,11 +20,11 @@
 - **Repel**: To push something away without touching it. Two magnets can repel each other. *e.g.* Push the same ends of two bar magnets towards each other. You can feel them push apart.
 - **Magnetic force**: The force a magnet puts on a magnetic material, or on another magnet. It acts across a gap, so the magnet does not need to touch. *e.g.* Hold a magnet just above a paper clip. The clip jumps up to it before they touch.
 - **Magnetic field**: The space around a magnet where its magnetic force acts. We cannot see it, but we can see what it does. *e.g.* Near a magnet, a compass needle turns and a paper clip moves. They are inside the magnet's magnetic field.
-- **Magnetic**: A magnetic material is one that a magnet attracts. Iron, most steel, nickel and cobalt are magnetic. *e.g.* A magnet attracts an iron nail, and the nail moves to it. So iron is magnetic.
+- **Magnetic**: A magnetic material is one that a magnet attracts. Iron, most steel, nickel and cobalt are magnetic. *e.g.* A magnet attracts a steel nail, and the nail moves to it. So steel is magnetic.
 - **Non-magnetic**: A material that a magnet does not attract, or attracts so weakly that we cannot notice it. *e.g.* A wooden spoon, a glass bangle and aluminium foil are all non-magnetic.
 - **Material**: What a thing is made of. *e.g.* A spoon can be made of steel, wood or plastic. Steel, wood and plastic are materials.
 - **Metal**: A material that is usually shiny, feels cold, and rings when you tap it. Heat and electricity pass easily through metals. *e.g.* Iron, copper, aluminium, gold and silver are metals.
-- **Iron**: A grey metal that a magnet attracts strongly. When it stays wet, it rusts and turns brown and flaky. *e.g.* An old gate, a tawa and a nail may be made of iron.
+- **Iron**: A grey metal that a magnet attracts strongly. When it stays wet, it rusts and turns brown and flaky. *e.g.* An old gate and a tawa may be made of iron. A nail is made of steel, which is mostly iron.
 - **Steel**: Iron with a little carbon mixed in, which makes it much stronger. A magnet attracts most kinds of steel, but not all. *e.g.* Train tracks, a bridge, a spoon and an almirah are made of steel.
 - **Alloy**: A mixture of a metal with other metals or other substances, made to suit a job better, for example to be harder or to rust less. Steel, brass and bronze are alloys. *e.g.* Brass is copper mixed with zinc. A magnet does not attract brass.
 - **Stainless steel**: Steel with a metal called chromium mixed in, so that it hardly rusts. Many kinds also have nickel in them. *e.g.* Your steel tumbler is probably stainless steel. A magnet attracts some stainless steels and not others.
@@ -54,7 +54,7 @@ Hold a magnet near a paper clip, and the clip jumps up to it. Hold the same magn
 **Definition:** A magnet attracts iron, most kinds of steel, nickel and cobalt. It does not attract wood, plastic, glass, paper, cloth, rubber or stone.
 
 Test enough things and you find a pattern. Everything a magnet attracts contains iron, steel, nickel or cobalt. At home these are usually nails, safety pins, paper clips, tawas and almirahs. A magnet does not attract anything made only of wood, plastic, glass, paper, cloth, rubber or stone. This pattern holds for thousands of everyday objects. But there are exceptions, and the next cards explain them.
-- e.g. Attracted: an iron nail, a safety pin, a paper clip, a steel almirah.
+- e.g. Attracted: a steel nail, a safety pin, a paper clip, a steel almirah.
 - e.g. Not attracted: a wooden pencil, a plastic ruler, a glass bangle, a cotton hanky, a stone.
 - e.g. A tin can is steel with a thin coat of tin, so a magnet sticks to it.
 ### Not every metal is magnetic · *defined*
@@ -136,7 +136,7 @@ Deep below your feet, under the rock, lies a ball of iron and nickel. It is abou
 ### Iron comes from stars · *defined*
 **Definition:** Iron is made by stars, and thrown into space when stars explode.
 
-The early universe was almost all hydrogen and helium. Stars make heavier atoms by squeezing lighter atoms together. A big star builds atoms all the way up to iron at its centre. Squeezing iron gives out no energy, so the star's centre collapses and the star explodes. Some small, dead stars, called white dwarfs, can also explode, and they make a lot of iron too. These explosions throw the iron into space. There it became part of new stars and planets, including the Earth. So the atoms in an iron nail were made in stars that exploded before our Sun was born. So were the iron atoms in your blood.
+The early universe was almost all hydrogen and helium. Stars make heavier atoms by squeezing lighter atoms together. A big star builds atoms all the way up to iron at its centre. Squeezing iron gives out no energy, so the star's centre collapses and the star explodes. Some small, dead stars, called white dwarfs, can also explode, and they make a lot of iron too. These explosions throw the iron into space. There it became part of new stars and planets, including the Earth. So the atoms in a steel nail were made in stars that exploded before our Sun was born. So were the iron atoms in your blood.
 - e.g. Iron meteorites are pieces of the iron core of a small early planet that broke apart.
 - e.g. The iron in your blood, inside a substance called haemoglobin, was also made in stars.
 ### Living magnets: bacteria, and a debate about birds · *debated*
@@ -280,7 +280,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 ## Games
 ### g1 · Stick or Skip? (20 min)
 - **rules:** Cut out the 32 cards. Shuffle them and put them in a pile, face down. Put the two mats on the table.; On your turn, take the top card and read it out loud.; Decide: will a magnet stick to it or skip it? Put the card on the STICK mat or the SKIP mat, and say one reason. A good reason wins one star.; If you have a magnet, test it. A correct guess wins one more star.; STAR cards show things that may or may not stick, depending on exactly what they are made of. If you draw one, you may say 'test it' instead of guessing, and win two stars. If you guess on a STAR card and are wrong, you lose one star.; When the cards run out, the player with the most stars wins.
-- **Printable cards: 32 object cards to cut out (the star cards are the tricky ones):** Iron nail; Steel paper clip; Aluminium foil ball; Copper wire; Brass diya; Gold ring; Silver anklet; Wooden pencil; Plastic comb; Glass marble; Cotton hanky; Stone; Rubber band; Steel safety pin; Iron tawa; Aluminium pressure cooker; Wooden spoon; Scissors blade; Bicycle chain; Tin can from the kitchen; Rusty nail; Steel almirah; Iron gate; Pencil lead (graphite); STAR: Steel tumbler; STAR: Steel katori; STAR: A one-rupee coin; STAR: A ten-rupee coin; STAR: A house key; STAR: A pan for an induction stove; STAR: The bottom of a steel pressure cooker; STAR: A bent steel spoon
+- **Printable cards: 32 object cards to cut out (the star cards are the tricky ones):** Steel nail; Steel paper clip; Aluminium foil ball; Copper wire; Brass diya; Gold ring; Silver anklet; Wooden pencil; Plastic comb; Glass marble; Cotton hanky; Stone; Rubber band; Steel safety pin; Iron tawa; Aluminium pressure cooker; Wooden spoon; Scissors blade; Bicycle chain; Tin can from the kitchen; Rusty nail; Steel almirah; Iron gate; Pencil lead (graphite); STAR: Steel tumbler; STAR: Steel katori; STAR: A one-rupee coin; STAR: A ten-rupee coin; STAR: A house key; STAR: A pan for an induction stove; STAR: The bottom of a steel pressure cooker; STAR: A bent steel spoon
 - **Printable board: Two playing mats:** STICK: the magnet attracts it; SKIP: the magnet does not attract it
 - **Printable tokens: 30 star tokens (small paper stars):** ⭐
 - **s1 (3 min)**  
@@ -288,11 +288,11 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   *Parent says:* Every card shows a thing from our homes. A magnet attracts some of them and not others. For each card, we decide. Will a magnet stick to it, or skip it?  
   *Child mode:* Put out the two mats, STICK and SKIP. Mix the cards and put them face down. For each card, decide if the magnet will stick or skip.
 - **s2 (3 min)**  
-  *Parent does:* Play a practice round with the card 'Iron nail'.  
-  *Parent says:* Let's practise with one card. 'Iron nail.' Will a magnet stick to it or skip it?  
-  *Child mode:* Practice card: iron nail. Stick or skip? Tap your answer.
-  - Ask: What is your reason? (good: A nail is made of iron.; Iron is magnetic.)
-  - Check: Iron nail. What will a magnet do? → **Stick**
+  *Parent does:* Play a practice round with the card 'Steel nail'.  
+  *Parent says:* Let's practise with one card. 'Steel nail.' Will a magnet stick to it or skip it?  
+  *Child mode:* Practice card: steel nail. Stick or skip? Tap your answer.
+  - Ask: What is your reason? (good: A nail is made of steel, which is mostly iron.; Iron is magnetic.)
+  - Check: Steel nail. What will a magnet do? → **Stick**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player draws a card, reads it out, places it on a mat and gives a reason. 2. Test it with a real magnet if you can. 3. Give stars for good reasons and correct guesses.  
   *Parent says:* When you place your card, tell me why. A good reason names what the thing is made of.  
@@ -355,7 +355,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 - **s2 (3 min)**  
   *Parent does:* 1. Show how to test. Hold the magnet against one object for three seconds. 2. Lift the magnet slowly. 3. If the object lifts with the magnet, or the magnet clings, that is a stick. 4. Test the nail first, as a practice.  
   *Parent says:* Hold the magnet on the object and count to three. If it clings, or the object lifts with it, that is a stick. Let's try the nail first.  
-  *Child mode:* Hold the magnet on the object. Count to three. Does it cling? Try the iron nail first.
+  *Child mode:* Hold the magnet on the object. Count to three. Does it cling? Try the steel nail first.
   - Note: A weak fridge magnet may only cling to a flat object, and not lift it. That still counts as a stick. A thin steel spoon may cling weakly. That is a stick too.
   - Check: Why do we hold the magnet on each object for three seconds, and test each one twice? → **So that the test is fair, and one odd try cannot fool us**
 - **s3 (12 min)**  
@@ -414,7 +414,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   - Note: This depends on the steel. If a magnet sticks to your thali, the thali carries the magnetic field inside itself, and the clip on the far side hardly moves. If a magnet does not stick to your thali, the force passes through, as with paper. Both results are correct. They show again that the exact steel matters.
   - Check: Why does the clip stop jumping when the stack gets too thick? → **The magnet is now too far away to attract the clip**
 ### e3 · Make a Nail a Magnet: which materials can become magnets? (30 min)
-- **question:** Can a magnet turn an iron nail into a magnet, and does it work for other materials?
+- **question:** Can a magnet turn a steel nail into a magnet, and does it work for other materials?
 - **predict:** Guess first. If you touch a nail to a magnet, can the nail pick up paper clips? What about a copper wire, or a strip of foil? Why do you think so?
 - **fair test:** To make it fair, use the same magnet and the same touch each time, for five seconds. Use objects of about the same size. Change only the material. Count the clips three times and take the middle number.
 - **safety:** A sewing needle is sharp. A grown-up does the needle step. Keep magnets away from phones and cards.
@@ -427,7 +427,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   - Ask: The second clip does not touch the magnet. Why does it hang on? (good: The first clip became a magnet.; The magnet turned the first clip into a magnet.)
   - Note: Each clip in the chain becomes a weak magnet while it is near the magnet. This is the idea of the whole experiment. A chain of 3 to 6 is typical for a fridge magnet.
 - **s2 (6 min)**  
-  *Parent does:* 1. Touch the iron nail to the magnet and hold it there for five seconds. 2. Bring the free end of the nail close to the pile of clips. 3. Count how many clips it picks up. 4. Take the nail away from the magnet and watch the clips.  
+  *Parent does:* 1. Touch the steel nail to the magnet and hold it there for five seconds. 2. Bring the free end of the nail close to the pile of clips. 3. Count how many clips it picks up. 4. Take the nail away from the magnet and watch the clips.  
   *Parent says:* Touch the nail to the magnet. Now see if the nail can pick up clips. Then take the nail away from the magnet. What happens to the clips?  
   *Child mode:* Touch a nail to the magnet. Can the nail pick up clips? Now take the nail off the magnet. What happens?
   - Check: When the nail is taken away from the magnet, most clips fall off. What does that tell us? → **The nail was a magnet only while the magnet was touching it**
@@ -437,7 +437,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
   *Child mode:* Try the bolt, spoon, copper wire, foil and brass key. Count the clips each can pick up. Write the numbers.
   - Note: Expect clips on the nail and the bolt, and maybe a few on the steel spoon. Expect none on the copper, aluminium and brass. If your fridge magnet is weak, put the clips closer.
 - **s4 (7 min) · grown-up needed**  
-  *Parent does:* A grown-up does this step. 1. Hold a steel sewing needle. 2. Stroke it 30 times along one end of the magnet, always in the same direction. 3. At the end of each stroke, lift the needle away through the air. 4. Test if the needle can pick up a paper clip. 5. Do the same with an iron nail, and compare how long each stays a magnet.  
+  *Parent does:* A grown-up does this step. 1. Hold a steel sewing needle. 2. Stroke it 30 times along one end of the magnet, always in the same direction. 3. At the end of each stroke, lift the needle away through the air. 4. Test if the needle can pick up a paper clip. 5. Do the same with a steel nail, and compare how long each stays a magnet.  
   *Parent says:* Now we try to make a lasting magnet. Stroke the needle many times in the same direction. Always lift it away at the end of each stroke.  
   *Child mode:* Ask a grown-up to hold the needle. Stroke it 30 times with the magnet, the same way each time. Does it pick up a clip?
   - Note: The needle should pick up a clip or two, and keep doing so for hours or days. The nail may stop being a magnet within minutes. Results vary a lot. Steel with more carbon stays magnetised better than soft iron. Scientists call steel that stays magnetised a hard magnetic material, and iron that soon loses it a soft magnetic material.
@@ -683,12 +683,12 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 ## Worksheets
 ### What does a magnet attract? (core, 16 questions)
 1. (mcq) Which of these does a magnet attract?  
-   Options: A wooden spoon / An iron nail / A glass bangle / A plastic comb  
-   **Answer:** An iron nail. *Why:* A nail is made of iron, and a magnet attracts iron. Picking wood, glass or plastic often means thinking a magnet attracts any small, light thing. It attracts none of these.
+   Options: A wooden spoon / A steel nail / A glass bangle / A plastic comb  
+   **Answer:** A steel nail. *Why:* A nail is made of steel, which is mostly iron, so a magnet attracts it. Picking wood, glass or plastic often means thinking a magnet attracts any small, light thing. It attracts none of these.
 2. (truefalse) A magnet attracts every metal.  
    **Answer:** False. *Why:* False. A magnet attracts iron, most steel, nickel and cobalt. It does not attract aluminium, copper, brass, gold or silver. Thinking it attracts all metals is the most common mistake about magnets.
 3. (sort) Sort these things. Does a magnet attract them or not?  
-   **Answer:** an iron nail → Attracted by a magnet; aluminium foil → Not attracted by a magnet; a steel paper clip → Attracted by a magnet; a brass key → Not attracted by a magnet; a wooden pencil → Not attracted by a magnet; a steel safety pin → Attracted by a magnet; a copper wire → Not attracted by a magnet; a steel almirah → Attracted by a magnet. *Why:* The nail, clip, pin and almirah contain iron, so a magnet attracts them. It does not attract foil, brass, copper or wood. Brass and copper are shiny metals, but shine is not what matters.
+   **Answer:** a steel nail → Attracted by a magnet; aluminium foil → Not attracted by a magnet; a steel paper clip → Attracted by a magnet; a brass key → Not attracted by a magnet; a wooden pencil → Not attracted by a magnet; a steel safety pin → Attracted by a magnet; a copper wire → Not attracted by a magnet; a steel almirah → Attracted by a magnet. *Why:* The nail, clip, pin and almirah contain iron, so a magnet attracts them. It does not attract foil, brass, copper or wood. Brass and copper are shiny metals, but shine is not what matters.
 4. (fill) A material that a magnet attracts is called ____.  
    **Answer:** ['magnetic']. *Why:* Magnetic means a magnet attracts it. It does not mean the thing is itself a magnet.
 5. (mcq) Which of these metals does a magnet NOT attract?  
@@ -723,8 +723,8 @@ So she taught him. She guided his fingers until he could feel the little tug on 
    **Answer:** To lift iron and steel out of a mixed heap. *Why:* A magnet lifts out iron and steel and leaves other metals, such as aluminium, copper and brass, behind. Picking 'gold from silver' often means expecting a magnet to tell metals apart. It cannot, because it attracts neither of them.
 ### Through things, and inside things (stretch, 16 questions)
 1. (mcq) Look at the chart. Which object picked up the most clips?  
-   Options: Iron nail / Steel spoon / Copper wire / Steel bolt  
-   **Answer:** Iron nail. *Why:* The tallest bar is the iron nail, with 6 clips. Picking copper wire often means misreading a bar of 0 as the most. A bar of 0 means the wire picked up nothing.
+   Options: Steel nail / Steel spoon / Copper wire / Steel bolt  
+   **Answer:** Steel nail. *Why:* The tallest bar is the steel nail, with 6 clips. Picking copper wire often means misreading a bar of 0 as the most. A bar of 0 means the wire picked up nothing.
 2. (truefalse) One sheet of paper completely blocks a magnet's force.  
    **Answer:** False. *Why:* False. A magnet attracts a clip right through a sheet of paper. Only a very thick stack stops it, because the stack keeps the magnet too far away. The paper itself does not block it.
 3. (mcq) Look at the chart. Which magnet is the strongest?  
@@ -745,7 +745,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 9. (write) A trader gives you a gold-coloured sheet. The magnet sticks to it. What can you say about it? What can you not say?  
    **Answer:** I can say it has iron, nickel or cobalt inside, so it is not pure brass. I cannot say exactly what it is made of. It might be steel with a thin gold-coloured coat.. *Why:* A magnet sticking is a strong clue about what is inside. It does not name the whole material.
 10. (sort) Will a magnet stick? Sort these.  
-   **Answer:** an iron nail → Sticks; aluminium foil → Does not stick; a steel tumbler → Depends on the kind; a one-rupee coin → Depends on the kind; a wooden spoon → Does not stick; a steel katori → Depends on the kind. *Why:* A magnet always attracts iron, and never attracts aluminium or wood. Steel tumblers, katoris and coins depend on exactly which mixture they are made of, so we test them.
+   **Answer:** a steel nail → Sticks; aluminium foil → Does not stick; a steel tumbler → Depends on the kind; a one-rupee coin → Depends on the kind; a wooden spoon → Does not stick; a steel katori → Depends on the kind. *Why:* A magnet always attracts iron, and never attracts aluminium or wood. Steel tumblers, katoris and coins depend on exactly which mixture they are made of, so we test them.
 11. (mcq) A clip jumps up through 1 sheet of paper, but not through 40 sheets. Why?  
    Options: The magnet is now too far away to attract the clip / Paper is magnetic / The clip is too light / Forty sheets are too cold  
    **Answer:** The magnet is now too far away to attract the clip. *Why:* A magnet's force gets weaker quickly with distance. Forty sheets keep the magnet far from the clip. Picking 'paper is magnetic' often means thinking the paper itself stops the force.
@@ -767,7 +767,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 2. (mcq) The Earth's core is mostly iron but is not a permanent magnet. Why not?  
    Options: It is much hotter than iron's Curie point / It is too cold / It is made of copper / It is too far down  
    **Answer:** It is much hotter than iron's Curie point. *Why:* Iron stops being magnetic at about 770 degrees Celsius, and the core is far hotter. So the field must come from something else, which scientists think is flowing liquid iron. Picking 'too cold' gets the idea the wrong way round.
-3. (write) Explain why a magnet attracts an iron nail but not a copper wire. Use the words 'tiny magnets'.  
+3. (write) Explain why a magnet attracts a steel nail but not a copper wire. Use the words 'tiny magnets'.  
    **Answer:** Every electron acts like a tiny magnet. In copper, the electrons are in pairs that point opposite ways, so they cancel out, and there is nothing for a magnet to turn. In iron, some electrons have no partner, so each atom is a tiny magnet. The tiny magnets of neighbouring atoms point the same way, in domains. A magnet turns the domains to point its way, and attracts the nail.. *Why:* The difference is not the metals' colour or hardness. It is how the tiny magnets inside them are arranged.
 4. (mcq) Which statement about fridge magnets is true?  
    Options: Some magnets contain no shiny metal at all / All magnets are made only of iron / A ceramic can never be magnetic / Rust is the strongest magnet  
@@ -821,8 +821,8 @@ So she taught him. She guided his fingers until he could feel the little tug on 
    Options: Iron, nickel and cobalt / Gold, silver and copper / Aluminium, brass and tin / All metals  
    **Answer:** Iron, nickel and cobalt. *Why:* Only iron, nickel and cobalt are magnetic in an ordinary room. Picking 'all metals' is the most common mistake about magnets.
 5. (mcq) In which pair does a magnet attract BOTH things?  
-   Options: An iron nail and a steel paper clip / A copper wire and an iron nail / Aluminium foil and a steel pin / A brass key and a steel pin  
-   **Answer:** An iron nail and a steel paper clip. *Why:* The nail and the clip both contain iron. In every other pair, one of the two things is copper, aluminium or brass, which a magnet does not attract.
+   Options: A steel nail and a steel paper clip / A copper wire and a steel nail / Aluminium foil and a steel pin / A brass key and a steel pin  
+   **Answer:** A steel nail and a steel paper clip. *Why:* The nail and the clip both contain iron. In every other pair, one of the two things is copper, aluminium or brass, which a magnet does not attract.
 6. (mcq) Look at the table. What does it show about other metals, such as aluminium, copper and brass?  
    Options: None of them stuck / All of them stuck / Half of them stuck / Only the shiny ones stuck  
    **Answer:** None of them stuck. *Why:* The table shows 0 stuck and 4 did not stick. Picking 'all of them stuck' often means believing that all metals are magnetic, before looking at the results.
@@ -853,7 +853,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 15. (mcq) What do scientists think makes the Earth's magnetic field?  
    Options: Flowing liquid iron in the outer core / A giant bar magnet at the centre / Magnets in the oceans / The Moon  
    **Answer:** Flowing liquid iron in the outer core. *Why:* The core is too hot to be a permanent magnet. Scientists think flowing liquid iron makes the field. Picking 'a giant bar magnet' is a common picture in old books.
-16. (mcq) Why does a red-hot iron nail not stick to a magnet?  
+16. (mcq) Why does a red-hot steel nail not stick to a magnet?  
    Options: Heat jiggles the atoms so much that the tiny magnets cannot line up / It is too bright / It has become aluminium / It has become a magnet  
    **Answer:** Heat jiggles the atoms so much that the tiny magnets cannot line up. *Why:* Above its Curie point of about 770 degrees Celsius, iron is not magnetic. Cool it down and it is magnetic again.
 
@@ -912,7 +912,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 - What did the magnet say to the fridge? *I find you very attractive.*
 - Why did the paper clip jump onto the magnet? *It just could not resist.*
 - What did the brass key say to the magnet? *Sorry, you are not my type.*
-- Why did the iron nail do so well at school? *It really stuck at its work.*
+- Why did the steel nail do so well at school? *It really stuck at its work.*
 - Why did the kabadiwala bring a magnet to work? *He wanted to attract more business.*
 - Why did the aluminium foil stay so calm around the magnet? *It was not the least bit attracted.*
 - What do you call a magnet that tells jokes? *A real attraction.*
@@ -934,7 +934,7 @@ So she taught him. She guided his fingers until he could feel the little tug on 
 - What did the magnet say to the tired nail? *Don't worry, I will pick you up.*
 
 ## Connected maths
-- In the nail experiment, the iron nail picked up 6 clips. The steel bolt picked up 5, the steel spoon 2 and the copper wire 0. Draw a bar chart of these. How many more clips did the nail pick up than the spoon? **4 more clips. Here is the bar chart.**. Draw one bar for each object, as tall as its number of clips. The nail's bar is 6 tall and the spoon's is 2 tall. To find how many more, take away: 6 minus 2 is 4. You can check: 2 and 4 more makes 6. (queues `math.data.bar-charts.L3`)
+- In the nail experiment, the steel nail picked up 6 clips. The steel bolt picked up 5, the steel spoon 2 and the copper wire 0. Draw a bar chart of these. How many more clips did the nail pick up than the spoon? **4 more clips. Here is the bar chart.**. Draw one bar for each object, as tall as its number of clips. The nail's bar is 6 tall and the spoon's is 2 tall. To find how many more, take away: 6 minus 2 is 4. You can check: 2 and 4 more makes 6. (queues `math.data.bar-charts.L3`)
 - In the Great Magnet Test, 16 objects were tested. 6 of them stuck to the magnet. How many did not stick? **10 objects did not stick.**. There were 16 objects in all, and 6 of them stuck. The rest did not stick. 16 take away 6 is 10. You can check: 10 and 6 make 16. (queues `math.addition-subtraction.mental-strategies.L3`)
 - Out of 12 objects, 3 stuck to the magnet. What fraction of the objects stuck? Say it in words. **One quarter of the objects stuck.**. Share the 12 objects into 4 equal groups, and each group has 3 objects. So the 3 objects that stuck make one of the 4 equal groups. That is one quarter. You can check: 4 groups of 3 make 12. (queues `math.fractions.halves-and-quarters.L3`)
 - A sorting ramp has 4 magnets. Each magnet catches 6 clips. How many clips does the ramp catch in all? **24 clips.**. There are 4 groups of 6 clips. Add them up: 6 and 6 is 12. 12 and 6 is 18. 18 and 6 is 24. Or use the tables: 4 times 6 is 24. (queues `math.multiplication.equal-groups.L3`)

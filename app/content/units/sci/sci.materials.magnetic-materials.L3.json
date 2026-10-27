@@ -4,7 +4,7 @@
  "level": 3,
  "summary": {
   "text": "A magnet sticks to a steel spoon, but often not to a steel tumbler. A magnet attracts iron, most steel, nickel and cobalt, and these are called magnetic materials. Most metals are not magnetic: a magnet does not attract aluminium, copper, brass, gold or silver. The reason is inside the atoms. Every electron is a tiny magnet. In most materials, the electrons are in pairs whose tiny magnets point opposite ways and cancel out. In iron, the tiny magnets of neighbouring atoms point the same way. A magnet test can show that a thing contains iron, but it can never show that a thing is gold.",
-  "art": "A split picture: on the left a fridge magnet holding a drawing on a steel fridge door, with an iron nail stuck beside it. On the right the same magnet beside a wooden cupboard door, an aluminium foil ball and a brass key, none of them stuck to it."
+  "art": "A split picture: on the left a fridge magnet holding a drawing on a steel fridge door, with a steel nail stuck beside it. On the right the same magnet beside a wooden cupboard door, an aluminium foil ball and a brass key, none of them stuck to it."
  },
  "intro": {
   "hook": "Take a fridge magnet into your kitchen. Touch it to a steel spoon, then to a steel tumbler. Both are grey, shiny and called steel. Will the magnet stick to both?",
@@ -55,8 +55,8 @@
   {
    "term": "Magnetic",
    "meaning": "A magnetic material is one that a magnet attracts. Iron, most steel, nickel and cobalt are magnetic.",
-   "example": "A magnet attracts an iron nail, and the nail moves to it. So iron is magnetic.",
-   "art": "An iron nail moving up towards a magnet held above it."
+   "example": "A magnet attracts a steel nail, and the nail moves to it. So steel is magnetic.",
+   "art": "A steel nail moving up towards a magnet held above it."
   },
   {
    "term": "Non-magnetic",
@@ -79,7 +79,7 @@
   {
    "term": "Iron",
    "meaning": "A grey metal that a magnet attracts strongly. When it stays wet, it rusts and turns brown and flaky.",
-   "example": "An old gate, a tawa and a nail may be made of iron.",
+   "example": "An old gate and a tawa may be made of iron. A nail is made of steel, which is mostly iron.",
    "art": "A rusty iron gate with a magnet stuck to one bar."
   },
   {
@@ -200,7 +200,7 @@
    "definition": "A magnet attracts iron, most kinds of steel, nickel and cobalt. It does not attract wood, plastic, glass, paper, cloth, rubber or stone.",
    "description": "Test enough things and you find a pattern. Everything a magnet attracts contains iron, steel, nickel or cobalt. At home these are usually nails, safety pins, paper clips, tawas and almirahs. A magnet does not attract anything made only of wood, plastic, glass, paper, cloth, rubber or stone. This pattern holds for thousands of everyday objects. But there are exceptions, and the next cards explain them.",
    "examples": [
-    "Attracted: an iron nail, a safety pin, a paper clip, a steel almirah.",
+    "Attracted: a steel nail, a safety pin, a paper clip, a steel almirah.",
     "Not attracted: a wooden pencil, a plastic ruler, a glass bangle, a cotton hanky, a stone.",
     "A tin can is steel with a thin coat of tin, so a magnet sticks to it."
    ],
@@ -384,7 +384,7 @@
    "concept": "Iron comes from stars",
    "status": "defined",
    "definition": "Iron is made by stars, and thrown into space when stars explode.",
-   "description": "The early universe was almost all hydrogen and helium. Stars make heavier atoms by squeezing lighter atoms together. A big star builds atoms all the way up to iron at its centre. Squeezing iron gives out no energy, so the star's centre collapses and the star explodes. Some small, dead stars, called white dwarfs, can also explode, and they make a lot of iron too. These explosions throw the iron into space. There it became part of new stars and planets, including the Earth. So the atoms in an iron nail were made in stars that exploded before our Sun was born. So were the iron atoms in your blood.",
+   "description": "The early universe was almost all hydrogen and helium. Stars make heavier atoms by squeezing lighter atoms together. A big star builds atoms all the way up to iron at its centre. Squeezing iron gives out no energy, so the star's centre collapses and the star explodes. Some small, dead stars, called white dwarfs, can also explode, and they make a lot of iron too. These explosions throw the iron into space. There it became part of new stars and planets, including the Earth. So the atoms in a steel nail were made in stars that exploded before our Sun was born. So were the iron atoms in your blood.",
    "examples": [
     "Iron meteorites are pieces of the iron core of a small early planet that broke apart.",
     "The iron in your blood, inside a substance called haemoglobin, was also made in stars."
@@ -643,7 +643,7 @@
      "kind": "cards",
      "title": "32 object cards to cut out (the star cards are the tricky ones)",
      "items": [
-      "Iron nail",
+      "Steel nail",
       "Steel paper clip",
       "Aluminium foil ball",
       "Copper wire",
@@ -713,27 +713,27 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play a practice round with the card 'Iron nail'.",
-     "say": "Let's practise with one card. 'Iron nail.' Will a magnet stick to it or skip it?",
-     "kid": "Practice card: iron nail. Stick or skip? Tap your answer.",
+     "do": "Play a practice round with the card 'Steel nail'.",
+     "say": "Let's practise with one card. 'Steel nail.' Will a magnet stick to it or skip it?",
+     "kid": "Practice card: steel nail. Stick or skip? Tap your answer.",
      "ask": [
       {
        "q": "What is your reason?",
        "good": [
-        "A nail is made of iron.",
+        "A nail is made of steel, which is mostly iron.",
         "Iron is magnetic."
        ]
       }
      ],
      "check": {
       "t": "mcq",
-      "q": "Iron nail. What will a magnet do?",
+      "q": "Steel nail. What will a magnet do?",
       "options": [
        "Stick",
        "Skip"
       ],
       "a": 0,
-      "why": "A nail is made of iron, and a magnet attracts iron. Picking skip often means thinking a small thing is too light to matter. But a magnet attracts a nail easily."
+      "why": "A nail is made of steel, which is mostly iron, so a magnet attracts it. Picking skip often means thinking a small thing is too light to matter. But a magnet attracts a nail easily."
      }
     },
     {
@@ -951,12 +951,12 @@
      "p": "Which of these does a magnet attract?",
      "opts": [
       "A wooden spoon",
-      "An iron nail",
+      "A steel nail",
       "A glass bangle",
       "A plastic comb"
      ],
      "a": 1,
-     "why": "A nail is made of iron, and a magnet attracts iron. Picking wood, glass or plastic often means thinking a magnet attracts any small, light thing. It attracts none of these."
+     "why": "A nail is made of steel, which is mostly iron, so a magnet attracts it. Picking wood, glass or plastic often means thinking a magnet attracts any small, light thing. It attracts none of these."
     },
     {
      "t": "truefalse",
@@ -973,7 +973,7 @@
      ],
      "items": [
       [
-       "an iron nail",
+       "a steel nail",
        "Attracted by a magnet"
       ],
       [
@@ -1191,13 +1191,13 @@
      "t": "mcq",
      "p": "Look at the chart. Which object picked up the most clips?",
      "opts": [
-      "Iron nail",
+      "Steel nail",
       "Steel spoon",
       "Copper wire",
       "Steel bolt"
      ],
      "a": 0,
-     "why": "The tallest bar is the iron nail, with 6 clips. Picking copper wire often means misreading a bar of 0 as the most. A bar of 0 means the wire picked up nothing.",
+     "why": "The tallest bar is the steel nail, with 6 clips. Picking copper wire often means misreading a bar of 0 as the most. A bar of 0 means the wire picked up nothing.",
      "context": "In the experiment Make a Nail a Magnet, a magnet turns a nail into a magnet for a short time. Here are some made-up results.",
      "chart": {
       "type": "bar",
@@ -1206,7 +1206,7 @@
       "y": "Clips picked up",
       "data": [
        {
-        "label": "Iron nail",
+        "label": "Steel nail",
         "value": 6,
         "emoji": "🔩"
        },
@@ -1350,7 +1350,7 @@
      ],
      "items": [
       [
-       "an iron nail",
+       "a steel nail",
        "Sticks"
       ],
       [
@@ -1466,7 +1466,7 @@
     },
     {
      "t": "write",
-     "p": "Explain why a magnet attracts an iron nail but not a copper wire. Use the words 'tiny magnets'.",
+     "p": "Explain why a magnet attracts a steel nail but not a copper wire. Use the words 'tiny magnets'.",
      "lines": 4,
      "a": "Every electron acts like a tiny magnet. In copper, the electrons are in pairs that point opposite ways, so they cancel out, and there is nothing for a magnet to turn. In iron, some electrons have no partner, so each atom is a tiny magnet. The tiny magnets of neighbouring atoms point the same way, in domains. A magnet turns the domains to point its way, and attracts the nail.",
      "why": "The difference is not the metals' colour or hardness. It is how the tiny magnets inside them are arranged."
@@ -1634,7 +1634,7 @@
      "buy": "b-magnets"
     },
     {
-     "item": "an iron nail, a safety pin, a steel paper clip and a steel spoon",
+     "item": "a steel nail, a safety pin, a steel paper clip and a steel spoon",
      "qty": 4
     },
     {
@@ -1693,7 +1693,7 @@
      "mins": 3,
      "do": "1. Show how to test. Hold the magnet against one object for three seconds. 2. Lift the magnet slowly. 3. If the object lifts with the magnet, or the magnet clings, that is a stick. 4. Test the nail first, as a practice.",
      "say": "Hold the magnet on the object and count to three. If it clings, or the object lifts with it, that is a stick. Let's try the nail first.",
-     "kid": "Hold the magnet on the object. Count to three. Does it cling? Try the iron nail first.",
+     "kid": "Hold the magnet on the object. Count to three. Does it cling? Try the steel nail first.",
      "parent": "A weak fridge magnet may only cling to a flat object, and not lift it. That still counts as a stick. A thin steel spoon may cling weakly. That is a stick too.",
      "check": {
       "t": "mcq",
@@ -1738,7 +1738,7 @@
       ],
       "rows": [
        [
-        "Iron nail",
+        "Steel nail",
         "iron",
         "STICK",
         "stuck",
@@ -1869,7 +1869,7 @@
      "caption": "1. Guess first. Put each object on STICK or SKIP."
     },
     {
-     "art": "A child holding a fridge magnet against an iron nail, with a clock showing three seconds.",
+     "art": "A child holding a fridge magnet against a steel nail, with a clock showing three seconds.",
      "caption": "2. Hold the magnet on the object for three seconds."
     },
     {
@@ -2068,7 +2068,7 @@
    "title": "Make a Nail a Magnet: which materials can become magnets?",
    "mins": 30,
    "days": 1,
-   "question": "Can a magnet turn an iron nail into a magnet, and does it work for other materials?",
+   "question": "Can a magnet turn a steel nail into a magnet, and does it work for other materials?",
    "predict": "Guess first. If you touch a nail to a magnet, can the nail pick up paper clips? What about a copper wire, or a strip of foil? Why do you think so?",
    "fair_test": "To make it fair, use the same magnet and the same touch each time, for five seconds. Use objects of about the same size. Change only the material. Count the clips three times and take the middle number.",
    "results_table": [
@@ -2088,7 +2088,7 @@
      "qty": 20
     },
     {
-     "item": "an iron nail, a steel bolt or large screw, and a steel spoon",
+     "item": "a steel nail, a steel bolt or large screw, and a steel spoon",
      "qty": 3
     },
     {
@@ -2131,7 +2131,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Touch the iron nail to the magnet and hold it there for five seconds. 2. Bring the free end of the nail close to the pile of clips. 3. Count how many clips it picks up. 4. Take the nail away from the magnet and watch the clips.",
+     "do": "1. Touch the steel nail to the magnet and hold it there for five seconds. 2. Bring the free end of the nail close to the pile of clips. 3. Count how many clips it picks up. 4. Take the nail away from the magnet and watch the clips.",
      "say": "Touch the nail to the magnet. Now see if the nail can pick up clips. Then take the nail away from the magnet. What happens to the clips?",
      "kid": "Touch a nail to the magnet. Can the nail pick up clips? Now take the nail off the magnet. What happens?",
      "check": {
@@ -2161,7 +2161,7 @@
       "note": "These numbers are made up. Your numbers will be different.",
       "data": [
        {
-        "label": "Iron nail",
+        "label": "Steel nail",
         "value": 6,
         "emoji": "🔩"
        },
@@ -2196,7 +2196,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "A grown-up does this step. 1. Hold a steel sewing needle. 2. Stroke it 30 times along one end of the magnet, always in the same direction. 3. At the end of each stroke, lift the needle away through the air. 4. Test if the needle can pick up a paper clip. 5. Do the same with an iron nail, and compare how long each stays a magnet.",
+     "do": "A grown-up does this step. 1. Hold a steel sewing needle. 2. Stroke it 30 times along one end of the magnet, always in the same direction. 3. At the end of each stroke, lift the needle away through the air. 4. Test if the needle can pick up a paper clip. 5. Do the same with a steel nail, and compare how long each stays a magnet.",
      "say": "Now we try to make a lasting magnet. Stroke the needle many times in the same direction. Always lift it away at the end of each stroke.",
      "kid": "Ask a grown-up to hold the needle. Stroke it 30 times with the magnet, the same way each time. Does it pick up a clip?",
      "adult": true,
@@ -2221,7 +2221,7 @@
     "note": "These numbers are made up. Your numbers will be different.",
     "data": [
      {
-      "label": "Iron nail",
+      "label": "Steel nail",
       "value": 6,
       "emoji": "🔩"
      },
@@ -2258,7 +2258,7 @@
      "caption": "1. Hang a chain of clips from the magnet."
     },
     {
-     "art": "An iron nail touching a magnet at one end and holding three clips at the other end.",
+     "art": "A steel nail touching a magnet at one end and holding three clips at the other end.",
      "caption": "2. Touch a nail to the magnet. Count the clips it picks up."
     },
     {
@@ -2849,7 +2849,7 @@
       "q": "In Magnet Tag, which card keeps you safe from the magnet?",
       "options": [
        "A glass bangle",
-       "An iron nail",
+       "A steel nail",
        "A paper clip"
       ],
       "a": 0,
@@ -3351,8 +3351,8 @@
    "t": "mcq",
    "p": "In which pair does a magnet attract BOTH things?",
    "opts": [
-    "An iron nail and a steel paper clip",
-    "A copper wire and an iron nail",
+    "A steel nail and a steel paper clip",
+    "A copper wire and a steel nail",
     "Aluminium foil and a steel pin",
     "A brass key and a steel pin"
    ],
@@ -3520,7 +3520,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why does a red-hot iron nail not stick to a magnet?",
+   "p": "Why does a red-hot steel nail not stick to a magnet?",
    "opts": [
     "Heat jiggles the atoms so much that the tiny magnets cannot line up",
     "It is too bright",
@@ -3648,7 +3648,7 @@
    "a": "Sorry, you are not my type."
   },
   {
-   "j": "Why did the iron nail do so well at school?",
+   "j": "Why did the steel nail do so well at school?",
    "a": "It really stuck at its work."
   },
   {
@@ -3730,7 +3730,7 @@
  ],
  "maths": [
   {
-   "problem": "In the nail experiment, the iron nail picked up 6 clips. The steel bolt picked up 5, the steel spoon 2 and the copper wire 0. Draw a bar chart of these. How many more clips did the nail pick up than the spoon?",
+   "problem": "In the nail experiment, the steel nail picked up 6 clips. The steel bolt picked up 5, the steel spoon 2 and the copper wire 0. Draw a bar chart of these. How many more clips did the nail pick up than the spoon?",
    "answer": "4 more clips. Here is the bar chart.",
    "explain": "Draw one bar for each object, as tall as its number of clips. The nail's bar is 6 tall and the spoon's is 2 tall. To find how many more, take away: 6 minus 2 is 4. You can check: 2 and 4 more makes 6.",
    "math_unit": "math.data.bar-charts.L3",
@@ -3742,7 +3742,7 @@
     "y": "Clips picked up",
     "data": [
      {
-      "label": "Iron nail",
+      "label": "Steel nail",
       "value": 6,
       "emoji": "🔩"
      },

@@ -49,7 +49,7 @@
   {
    "term": "Magnetic material",
    "meaning": "A material that a magnet attracts. The main ones are iron, most kinds of steel, nickel and cobalt.",
-   "example": "An iron nail and a steel safety pin are magnetic materials.",
+   "example": "A steel nail and a steel safety pin are magnetic materials.",
    "art": "A nail, a safety pin and a steel key all stuck to one magnet."
   },
   {
@@ -86,7 +86,7 @@
    "term": "Lodestone",
    "meaning": "A natural magnet. It is a piece of a dark mineral called magnetite, which has iron in it. Most magnetite is not a magnet, but a lodestone is already a magnet when it comes out of the ground.",
    "example": "Long ago, people in China, India and Greece found lodestones that picked up iron.",
-   "art": "A lumpy dark grey stone with iron nails bristling from it."
+   "art": "A lumpy dark grey stone with steel nails bristling from it."
   },
   {
    "term": "Magnetite",
@@ -97,7 +97,7 @@
   {
    "term": "Atom",
    "meaning": "The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope.",
-   "example": "An iron nail, your hand and the air are all made of atoms.",
+   "example": "A steel nail, your hand and the air are all made of atoms.",
    "art": "A zoom from a nail to a speck of iron to a cluster of tiny balls."
   },
   {
@@ -193,7 +193,7 @@
    "concept": "Domains: where iron's tiny magnets line up",
    "status": "defined",
    "definition": "Inside iron, each atom's tiny magnet points the same way as its neighbours'. Together they form small regions called domains. In one domain, the tiny magnets of billions of atoms all point the same way.",
-   "description": "A plain iron nail has many domains, and they point in different directions. Their magnetic forces cancel out, so the nail is not a magnet. Bring a magnet near, and the domains that point along its magnetic field grow, while the others shrink. Now the nail is a magnet too, for as long as the magnet is near. That is why one paper clip hanging from a magnet can hold up another clip. In a permanent magnet, most domains stay lined up by themselves. Why does each iron atom point the same way as its neighbours? The electrons of neighbouring iron atoms affect each other, and they settle with their tiny magnets pointing the same way. Scientists explain this with quantum physics, the science of the very tiniest things. The French scientist Pierre Weiss said in 1907 that domains must exist. In 1931, the American scientist Francis Bitter first saw their edges. He spread a liquid with very fine magnetic powder in it over a piece of iron, and looked through a microscope.",
+   "description": "A plain steel nail has many domains, and they point in different directions. Their magnetic forces cancel out, so the nail is not a magnet. Bring a magnet near, and the domains that point along its magnetic field grow, while the others shrink. Now the nail is a magnet too, for as long as the magnet is near. That is why one paper clip hanging from a magnet can hold up another clip. In a permanent magnet, most domains stay lined up by themselves. Why does each iron atom point the same way as its neighbours? The electrons of neighbouring iron atoms affect each other, and they settle with their tiny magnets pointing the same way. Scientists explain this with quantum physics, the science of the very tiniest things. The French scientist Pierre Weiss said in 1907 that domains must exist. In 1931, the American scientist Francis Bitter first saw their edges. He spread a liquid with very fine magnetic powder in it over a piece of iron, and looked through a microscope.",
    "examples": [
     "A chain of paper clips hangs from a magnet. Each clip becomes a temporary magnet and holds up the next one.",
     "Stroke a needle with a magnet and its domains line up. Now the needle is a magnet."
@@ -209,7 +209,7 @@
    "description": "Stroke a steel needle with a magnet 50 times, always in the same direction. Each stroke turns more domains to point the same way, and the needle becomes a magnet. Nothing is added to the needle and nothing is taken away. Only the direction of its tiny magnets changes. Heat does the opposite. When iron gets hotter, its atoms jiggle faster. At about 770 degrees Celsius, when iron glows red, the atoms jiggle so hard that their tiny magnets cannot stay lined up. The iron is no longer a magnet. This temperature is called the Curie point, after Pierre Curie, who measured it in 1895. Marie Curie's first research, which she began in 1894, was also about magnets. She measured how well different kinds of steel stay magnetised. Later she discovered radium.",
    "examples": [
     "Dropping or hammering a magnet many times can weaken it, because the knocks shake its domains out of line.",
-    "Soft iron, like a plain nail, loses its magnetism quickly. Hard steel, like a needle, stays magnetised for days or weeks."
+    "A plain steel nail loses most of its magnetism quickly. Hard steel, like a needle, stays magnetised for days or weeks."
    ],
    "perspectives": [],
    "art": "Three panels: a needle being stroked by a magnet with its arrows lining up; the needle picking up a pin; the needle red-hot in a flame with its arrows scattered.",
@@ -515,7 +515,7 @@
    "hint": "Do we sometimes think people are the cleverest animals only because we test the things we are good at?"
   },
   {
-   "q": "A magnet and a plain nail can be made of the same iron. Only the direction of their tiny magnets is different. Are you, too, ordinary atoms arranged in a special way? Or is there more to you?",
+   "q": "A magnetised needle and a plain needle are made of the same steel. Only the direction of their tiny magnets is different. Are you, too, ordinary atoms arranged in a special way? Or is there more to you?",
    "kind": "big",
    "hint": "The atoms in your body are replaced all the time, as you eat and breathe. Yet you are still you."
   },
@@ -800,7 +800,7 @@
      "do": "Read the cards one at a time. Give the tiny magnets three seconds to act. Players who move on a trick card sit out one round.",
      "say": "Magnet coming!",
      "kid": "Listen to each card. Do what it says, fast. On WOOD, PLASTIC or BRASS, don't move at all!",
-     "parent": "After each card, say in one sentence what it means. 'Magnet coming' means a magnet lines up the domains. 'Soft iron' means a nail that loses its magnetism as soon as the magnet goes. 'Hard steel' means a needle that keeps it. 'Copper' means electrons in pairs that cancel. Heat and hammering shake the tiny magnets out of line."
+     "parent": "After each card, say in one sentence what it means. 'Magnet coming' means a magnet lines up the domains. 'Soft iron' means iron that loses its magnetism as soon as the magnet goes. 'Hard steel' means steel, like a needle, that keeps it. 'Copper' means electrons in pairs that cancel. Heat and hammering shake the tiny magnets out of line."
     },
     {
      "id": "s3",
@@ -826,7 +826,7 @@
      "do": "End with one question to think about.",
      "say": "WOOD, PLASTIC and BRASS did nothing. Why are those trick cards?",
      "kid": "Why did WOOD and BRASS do nothing?",
-     "think": "A plain nail and a magnet can be made of the same iron. What is the only difference between them?"
+     "think": "A magnetised needle and a plain needle are made of the same steel. What is the only difference between them?"
     }
    ],
    "setup": [
@@ -1453,7 +1453,7 @@
        "Shiny things don't stick"
       ],
       "a": 1,
-      "why": "Magnets attract only metals with iron, nickel or cobalt in them. Steel is mostly iron, so the pin sticks. Brass and copper contain no iron, so they don't. Picking 'shiny things don't stick' is a good try at a pattern, but a shiny steel spoon may stick and a dull iron nail does."
+      "why": "Magnets attract only metals with iron, nickel or cobalt in them. Steel is mostly iron, so the pin sticks. Brass and copper contain no iron, so they don't. Picking 'shiny things don't stick' is a good try at a pattern, but a shiny steel spoon may stick and a dull steel nail does."
      },
      "parent": "Your child will probably expect every metal to stick. The surprise is the point. Steel spoons and tumblers may or may not stick, depending on the steel. Indian coins differ too. Don't give away the answer before the test."
     },
@@ -2464,7 +2464,7 @@
      "p": "Which of these will a magnet attract?",
      "opts": [
       "A wooden pencil",
-      "An iron nail",
+      "A steel nail",
       "A plastic spoon",
       "A glass bangle"
      ],
@@ -2489,7 +2489,7 @@
        "Not magnetic"
       ],
       [
-       "an iron nail",
+       "a steel nail",
        "Magnetic"
       ],
       [
@@ -2695,7 +2695,7 @@
     },
     {
      "t": "mcq",
-     "p": "Every atom in a plain iron nail is a tiny magnet. Why is the nail not a magnet?",
+     "p": "Every atom in a plain steel nail is a tiny magnet. Why is the nail not a magnet?",
      "opts": [
       "Its domains point in different directions and cancel out",
       "Its atoms are not iron",
@@ -3143,7 +3143,7 @@
    "a": "They always know which way is north."
   },
   {
-   "j": "What did the iron nail say to the magnet?",
+   "j": "What did the steel nail say to the magnet?",
    "a": "I'm drawn to you."
   },
   {
@@ -3582,7 +3582,7 @@
  "roots": {
   "context": "We have learned how magnets attract iron, and about the tiny electron magnets inside iron. Now we ask what magnets tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A magnet and a plain nail can be made of exactly the same iron. In the magnet, the atoms' tiny magnets point the same way. In the nail, groups of them point in different directions, so their forces cancel out. So the magnet's force comes from how its iron is arranged, not from what it is made of.",
+   "truth": "A steel needle can be a magnet one minute and not the next. Stroke it with a magnet, and its tiny magnets line up. Heat it red-hot, and they fall out of line. Nothing is added or taken away, so being a magnet is about arrangement, not material.",
    "habit": "We sort objects into 'magnets' and 'not magnets', as if a magnet were made of a special material. But a needle becomes a magnet and stops being one while staying the same steel. What changes is the direction its tiny magnets point.",
    "evidence": "Stroke a needle and it picks up a pin. Heat it red-hot and it stops. Stroke it again and it picks up the pin again. Nothing was added and nothing was taken away. Only the direction of its tiny magnets changed."
   },
