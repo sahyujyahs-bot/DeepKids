@@ -189,7 +189,7 @@ We have been learning how a leaf makes food from air, water and sunlight. Now we
 - *what is life:* Almost all life runs on sunlight that leaves have turned into food.
 - *what is this world:* A giant tree is built mostly from carbon dioxide in the air, using the energy of sunlight.
 
-The carbon in a mango was carbon dioxide in the air a few months before. Some of it may have come from your own breath. When you eat the mango and breathe out, that carbon goes back into the air for another leaf. The same atoms keep passing between air, plants and people. DeepKids believes this passing on shows that a tree and a child are parts of one living whole, not strangers.
+The carbon in a mango was carbon dioxide in the air a few months before. Some of it may have come from your own breath. When you eat the mango and breathe out, that carbon goes back into the air for another leaf. The same atoms keep passing between air, plants and people. This passing on shows that a tree and a child are parts of one living whole, not strangers.
 
 - **Taittiriya Upanishad 3.2:** The boy Bhrigu searches for what everything comes from. First he finds: food. From food all beings are born, by food they live, and into food they return. (Almost all food begins as sugar made in a leaf. Food links the Sun, the plant and you in one chain.)
 - **Tattvartha Sutra 5.21:** This Jain teaching says that living beings support one another. (Plants give us oxygen and food. We give them carbon dioxide to build with. We keep each other alive.)

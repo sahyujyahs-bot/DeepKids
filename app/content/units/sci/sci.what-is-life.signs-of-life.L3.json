@@ -212,7 +212,7 @@
    "concept": "Sensing: noticing and responding",
    "status": "defined",
    "definition": "Sensing is when a living thing notices something around it, like light, touch, sound or heat, and responds to it.",
-   "description": "Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. It snaps shut only when an insect touches its trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. DeepKids believes that plants and bacteria feel, remember and decide in their own way. A root chooses where to grow, and a bacterium decides to swim towards food. Many scientists would call these automatic responses instead.",
+   "description": "Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. It snaps shut only when an insect touches its trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. Plants and bacteria feel, remember and decide in their own way. A root chooses where to grow, and a bacterium decides to swim towards food. Many scientists would call these automatic responses instead.",
    "examples": [
     "You blink when dust flies near your eye.",
     "A moong root turns to grow downwards, even if you plant the seed upside down.",
@@ -319,8 +319,8 @@
      "explanation": "Jain teachings count six kinds of living beings. Plants are one kind. Beings in earth, water, fire and air are four more, and like plants they have one sense, touch. The sixth kind is beings that move about, like animals. This draws the line of life much wider than science does."
     },
     {
-     "who": "DeepKids",
-     "explanation": "We believe everything is conscious, living or not, down to the smallest particle. The seven signs show which things scientists call alive. They do not show where awareness begins or ends. So we use the seven signs for sorting, and we never deny a mind to a stone or a wire."
+     "who": "What the seven signs cannot show",
+     "explanation": "Everything is conscious, living or not, down to the smallest particle. The seven signs show which things scientists call alive. They do not show where awareness begins or ends. So the seven signs are for sorting. They never deny a mind to a stone or a wire."
     }
    ],
    "art": "A long road that fades gently from a grey stone at one end to a green sprouting seed at the other, with a question mark in the misty middle.",
@@ -388,7 +388,7 @@
    "claim": "Plants are less alive than animals.",
    "who": "Aristotle, a Greek thinker about 2,350 years ago, said plants have only a feeding and growing kind of life, with no feeling. Many people still feel this.",
    "for": "Plants have no eyes, ears, brains or nerves. They do not run from danger.",
-   "against": "Plants do all seven signs of life. They sense light, gravity and touch. J.C. Bose showed plants send electrical signals when hurt. In 1880, Charles Darwin and his son Francis wrote a whole book on how plants move. DeepKids believes plants feel, in their own way, without nerves.",
+   "against": "Plants do all seven signs of life. They sense light, gravity and touch. J.C. Bose showed plants send electrical signals when hurt. In 1880, Charles Darwin and his son Francis wrote a whole book on how plants move. Plants feel, in their own way, without nerves.",
    "status": "rejected",
    "context": "This card is about the old idea that plants are less alive than animals."
   },
@@ -419,7 +419,7 @@
   {
    "claim": "Plants can learn and remember.",
    "who": "Monica Gagliano, an Australian scientist, and her team, in 2014. They dropped touch-me-not plants a short, harmless distance again and again.",
-   "for": "At first the plants folded their leaves each time. After many drops, they stopped folding. Weeks later, they still did not fold when dropped. But they still folded when shaken in a new way. DeepKids believes this is what it looks like: the plants learned that the drop was safe, and remembered it.",
+   "for": "At first the plants folded their leaves each time. After many drops, they stopped folding. Weeks later, they still did not fold when dropped. But they still folded when shaken in a new way. So the plants learned that the drop was safe, and remembered it.",
    "against": "Other scientists say the plants may just have been tired, or their sense of touch may have gone dull. Some say the words learning and memory should be kept for animals with brains. They want the test repeated by other teams.",
    "status": "debated",
    "context": "This card is about a new and argued idea: can a plant learn?"
@@ -459,7 +459,7 @@
   {
    "q": "Does a plant feel when you touch it?",
    "kind": "deep",
-   "hint": "DeepKids believes it does, in its own way. A touch-me-not senses and responds. How could we find out what the touch is like for the plant?"
+   "hint": "It does, in its own way. A touch-me-not senses and responds. How could we find out what the touch is like for the plant?"
   },
   {
    "q": "Why do living things die, when a stone can last for millions of years?",
@@ -1629,7 +1629,7 @@
      "do": "Tell your child about J.C. Bose and the dropped plants. Then let the plant rest.",
      "say": "J.C. Bose, a great Indian scientist, found that this plant folds less if you touch it again and again. In 2014, scientists dropped these plants gently many times. The plants stopped folding, and weeks later they still did not fold when dropped.",
      "kid": "Scientists dropped these plants gently many times. The plants stopped folding. Weeks later, they still did not fold.",
-     "think": "DeepKids believes the plants learned that the drop was safe, and remembered it. Some scientists say the plants were only tired. What do you think?"
+     "think": "The plants learned that the drop was safe, and remembered it. Some scientists say the plants were only tired. What do you think?"
     }
    ]
   },
@@ -2762,7 +2762,7 @@
       "The plants were dead"
      ],
      "a": 1,
-     "why": "Scientists still argue about this. Some say it looks like learning and memory. Others say those words are for animals with brains, and want more tests. DeepKids believes the plants learned and remembered. Picking 'the plants were dead' forgets that they still folded when shaken in a new way."
+     "why": "The plants learned and remembered. But scientists still argue about this. Some say it looks like learning and memory. Others say those words are for animals with brains, and want more tests. Picking 'the plants were dead' forgets that they still folded when shaken in a new way."
     }
    ]
   }
@@ -3017,11 +3017,11 @@
   },
   {
    "q": "What is it like for a plant to feel a touch?",
-   "why_open": "DeepKids believes plants feel. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows how to measure what the touch is like for the plant."
+   "why_open": "Plants feel. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows how to measure what the touch is like for the plant."
   },
   {
    "q": "How does a plant remember, with no brain?",
-   "why_open": "DeepKids believes plants remember: the dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way."
+   "why_open": "Plants remember: the dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way."
   },
   {
    "q": "Could people one day build a living cell from scratch?",
@@ -3536,7 +3536,7 @@
    "what_is_life": "Life is not a thing you can hold in your hand. It is what a body does, or can still do: take in, change, give out, sense and make more.",
    "what_is_this_world": "Living and non-living things keep swapping their atoms. A tree takes in the carbon dioxide you breathe out and builds a mango with it. When you eat the mango, it becomes part of you."
   },
-  "thread": "A dry seed and a boiled seed are made of the same kinds of atoms, and they look the same. Only the dry seed can still grow. So life is not in the atoms alone, but in how they are put together and what they can do. DeepKids believes everything is conscious, down to the smallest particle. Feeding, growing, sensing and making more are the ways this awareness shows itself in a living body.",
+  "thread": "A dry seed and a boiled seed are made of the same kinds of atoms, and they look the same. Only the dry seed can still grow. So life is not in the atoms alone, but in how they are put together and what they can do. Everything is conscious, down to the smallest particle. Feeding, growing, sensing and making more are the ways this awareness shows itself in a living body.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.11",

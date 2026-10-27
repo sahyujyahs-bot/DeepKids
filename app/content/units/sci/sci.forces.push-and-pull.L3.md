@@ -184,7 +184,7 @@ We have been learning that every push and pull is a force, and that forces come 
 - *what is life:* Your muscles can only pull. Yet by pulling on your bones, they let you push, lift and hug.
 - *what is this world:* The Earth pulls you down, and you pull the Earth up just as hard. Every pull in the world has a partner like this.
 
-Every force comes in a pair, acting on two different things. When you walk, you push the floor back, and the floor pushes you forward. Even the whole Earth moves back a tiny bit under your feet. DeepKids believes this shows that no movement belongs to one thing alone: each step is shared between you and the ground. Science measures the sharing exactly, as two equal and opposite pushes.
+Every force comes in a pair, acting on two different things. When you walk, you push the floor back, and the floor pushes you forward. Even the whole Earth moves back a tiny bit under your feet. This shows that no movement belongs to one thing alone: each step is shared between you and the ground. Science measures the sharing exactly, as two equal and opposite pushes.
 
 - **Empedocles, fragment DK B17:** Empedocles, a Greek thinker about 2,450 years ago, said two powers move everything. Love brings things together. Strife drives them apart. (Physics also finds that forces either attract, pulling things together, or repel, pushing them apart. Electrons repelling electrons is what makes every touching push.)
 - **Bhagavad Gita 3.27:** All actions are done by the powers of nature. Only someone confused by pride thinks, 'I am the doer.' (The Gita is talking about who does our actions, not about physics. But this unit finds something close: you could not slide away from the wall by yourself. You moved only because the wall pushed back.)

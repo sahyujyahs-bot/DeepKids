@@ -200,7 +200,7 @@ We have been learning why things fall, and why heavy and light things land toget
 - *what is life:* A seed planted upside down still sends its root down. Living things sense gravity and grow with it.
 - *what is this world:* Without air, a hammer and a feather fall in exactly the same way. Gravity gives everything the same fall.
 
-Gravity does not sort the world into heavy and light. In the same place, a hammer, a feather, a mango and a planet all fall in exactly the same way. Einstein took this seriously. Because every thing falls alike, he said the fall belongs to the shape of space and time, not to the thing that falls. DeepKids believes this is a sign that the world is one whole, with one shape that everything in it shares.
+Gravity does not sort the world into heavy and light. In the same place, a hammer, a feather, a mango and a planet all fall in exactly the same way. Einstein took this seriously. Because every thing falls alike, he said the fall belongs to the shape of space and time, not to the thing that falls. This is a sign that the world is one whole, with one shape that everything in it shares.
 
 - **Brihadaranyaka Upanishad 3.8.9:** The thinker Gargi asks what holds everything. Yajnavalkya answers that one unchanging reality holds the Sun and the Moon in their places. (Science names gravity as what keeps the Moon going round the Earth, and the Earth round the Sun. It still does not know what gravity is, deep down. The Upanishad does not describe gravity, but it wondered about the same holding.)
 - **Vaisheshika Sutra 5.1.7:** Kanada, an Indian thinker, said that when nothing holds a thing up, it falls because of gurutva, its heaviness. (In the Drop Race, the bottles fell the moment the book was pulled away, with nothing holding them up. Kanada named that cause gurutva. Guru, a teacher, also means 'heavy'.)
@@ -217,12 +217,12 @@ Gravity does not sort the world into heavy and light. In the same place, a hamme
 - *deep:* Why does a heavy thing not fall faster, when the Earth pulls it harder? (hint: Think of pushing a full trolley and an empty one. Which is harder to get moving?)
 - *deep:* Everything falls in the same way, heavy or light. Is the fall something the thing does, or something the place does? (hint: Einstein thought it belongs to the place. In his picture, the bend in space-time is the same for anything that passes through it.)
 - *big:* People believed heavy things fall faster for about 1,900 years. Why did so few people test it? (hint: Is it easy to doubt something that every teacher and every book says?)
-- *big:* Few people listened when John Philoponus disagreed with Aristotle. Should we believe an idea because a famous person said it, or because of evidence? (hint: What would you do if everyone in your class believed something you had tested and found wrong?)
+- *big:* Few people listened when John Philoponus disagreed with Aristotle. Should we trust an idea because a famous person said it, or because of evidence? (hint: What would you do if everyone in your class believed something you had tested and found wrong?)
 - *big:* You attract the Earth, the Moon and every star. Is anything in the universe truly alone? (hint: Every atom in you attracts every atom everywhere, however far away.)
 - *big:* Time runs a tiny bit slower downstairs than upstairs. So is there one true time for everyone? (hint: Two very precise clocks, one on a shelf and one on the floor, will slowly disagree.)
 - *big:* Is gravity good or bad? It keeps us on the ground and holds the air on Earth. It also makes us fall and get hurt. (hint: Imagine a day with no gravity at all. What would happen to the air, the rain, the rivers and you?)
 - *deep:* If light has no mass, why does gravity bend it? (hint: Maybe it is not the light that is pulled. Maybe the path through space is bent.)
-- *deep:* A plant in the dark still knows which way is down. What might it be like to feel down without ears or eyes? (hint: Its root cells have heavy grains that settle to the bottom. DeepKids believes plants feel what they sense.)
+- *deep:* A plant in the dark still knows which way is down. What might it be like to feel down without ears or eyes? (hint: Its root cells have heavy grains that settle to the bottom. Plants feel what they sense.)
 - *big:* The word guru means heavy. Why might a wise person be called heavy? What gives a person weight with others? (hint: Think of someone whose words you always listen to. What makes their words weigh more?)
 - *big:* Most of the matter in the universe is invisible. We only know it is there by its gravity. How can we be sure something exists if we can never see it? (hint: You cannot see the wind, but you can see the leaves move.)
 
@@ -279,7 +279,7 @@ I thought of the single clang. 'Neither,' I said. 'They fell together. Only the 
 
 My father looked at me for a long moment, the way he looked at a sack of wheat whose weight surprised him. Then he nodded, and wrote nothing down, and closed the box.
 
-**For the parent:** For the parent: the story turns on the single clang. Heavy and light weights, dropped together, land together. The feather is slower not because it is light, but because the air pushes on it. Thekla's tied-weights puzzle is Galileo's real argument: if heavy things fell faster, a heavy and a light weight tied together would have to fall both slower and faster at once, which is impossible. The story also asks a quieter question. Should we believe an idea because a great person said it, or because we tested it? And who gets remembered: the famous philosopher, the mocked grammarian, or the girl who listened?
+**For the parent:** For the parent: the story turns on the single clang. Heavy and light weights, dropped together, land together. The feather is slower not because it is light, but because the air pushes on it. Thekla's tied-weights puzzle is Galileo's real argument: if heavy things fell faster, a heavy and a light weight tied together would have to fall both slower and faster at once, which is impossible. The story also asks a quieter question. Should we trust an idea because a great person said it, or because we tested it? And who gets remembered: the famous philosopher, the mocked grammarian, or the girl who listened?
 
 - Ask: What did Thekla expect to hear when she let go of the two weights? What did she really hear?
 - Ask: Why did the feather land long after the small weight? Was it because the feather is light?

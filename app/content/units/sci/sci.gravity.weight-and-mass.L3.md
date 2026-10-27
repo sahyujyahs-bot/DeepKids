@@ -204,7 +204,7 @@ We have found that weight is the pull of gravity, and that a falling bottle stop
 - *what is life:* Bones grow strong because they carry weight every day. In space, with nothing pressing on them, astronauts' bones get weaker.
 - *what is this world:* Everything pulls on everything else, all the time. You pull on the Earth, and the Earth pulls on you.
 
-Your weight is not one pull from somewhere under your feet. Every particle of the Earth attracts every particle of you, and you attract each of them back. Your weight is all those pulls added together. DeepKids believes this shows that nothing stands alone. Even being heavy is something you and the whole Earth do together.
+Your weight is not one pull from somewhere under your feet. Every particle of the Earth attracts every particle of you, and you attract each of them back. Your weight is all those pulls added together. This shows that nothing stands alone. Even being heavy is something you and the whole Earth do together.
 
 - **Nagarjuna, Mulamadhyamakakarika 24.18:** Nothing has its nature all by itself. Everything is what it is because of the other things it depends on. (Heaviness is like this. You feel heavy only when the Earth pulls you and something holds you up. Take away the floor, as in a fall, and the heavy feeling is gone, though you have not changed.)
 - **Rig Veda 10.129, the hymn of creation:** In the beginning there was neither being nor non-being. How did it all begin? Who really knows? (The hymn asks honestly, 'Who really knows?' Scientists can measure weight very exactly, yet they still do not know what gravity really is.)
@@ -226,7 +226,7 @@ Your weight is not one pull from somewhere under your feet. Every particle of th
 - *big:* The Sanskrit word guru means heavy, and a guru is a teacher. The Latin word gravitas means weight, and a person with gravitas makes people listen. Why do people link heaviness with wisdom? (hint: Is it a good thing to be 'heavy' in this way? Can a child have gravitas?)
 - *big:* Gravity holds the whole universe together, but it never lets you fly. Is gravity good or bad? (hint: The Gravity song for this topic asks this exact question. What would happen if gravity switched off for one minute?)
 - *deep:* Most of your mass is really the energy of tiny particles moving inside your atoms. So are you made of matter, or of energy? (hint: Einstein showed mass and energy are two forms of the same thing.)
-- *big:* Stars at the edges of galaxies move as if pulled by mass that nobody can see. Should we believe in something we can only measure, but never see? (hint: You cannot see gravity either. How do you know it is there?)
+- *big:* Stars at the edges of galaxies move as if pulled by mass that nobody can see. Should we trust that something is there if we can only measure it, and never see it? (hint: You cannot see gravity either. How do you know it is there?)
 - *deep:* Astronauts' bones get weaker without weight to carry. How might a bone tell how much weight it is carrying? (hint: Bone is alive. Its cells sense being squeezed, and build more bone where the squeeze is.)
 - *deep:* If you dug a tunnel right through the Earth and jumped in, what would you weigh at the very centre? (hint: At the centre, the Earth is all around you, pulling in every direction at once.)
 

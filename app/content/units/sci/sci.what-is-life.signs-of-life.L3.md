@@ -74,7 +74,7 @@ Animals move from place to place. They walk, swim, fly, crawl and slither. Plant
 ### Sensing: noticing and responding · *defined*
 **Definition:** Sensing is when a living thing notices something around it, like light, touch, sound or heat, and responds to it.
 
-Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. It snaps shut only when an insect touches its trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. DeepKids believes that plants and bacteria feel, remember and decide in their own way. A root chooses where to grow, and a bacterium decides to swim towards food. Many scientists would call these automatic responses instead.
+Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. It snaps shut only when an insect touches its trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. Plants and bacteria feel, remember and decide in their own way. A root chooses where to grow, and a bacterium decides to swim towards food. Many scientists would call these automatic responses instead.
 - e.g. You blink when dust flies near your eye.
 - e.g. A moong root turns to grow downwards, even if you plant the seed upside down.
 - e.g. A cat's whiskers feel the walls in the dark.
@@ -122,7 +122,7 @@ For most things you meet, it is easy to say alive or not alive. A cat is alive. 
 - **A group of NASA scientists, in the 1990s:** NASA needed to know what to look for on other planets. So a group wrote a working definition. Life is a chemical system that keeps itself going and can change over generations, the way living things on Earth have. It is called a working definition because it is a tool, not the final answer.
 - **J.C. Bose, an Indian scientist, in 1901 and 1902:** Bose tapped metals, plants and animal muscles again and again. He measured their responses with his own instruments. All three got tired, and all three recovered with rest. He wrote that there is no sharp line, only one response running through the living and the non-living. Most scientists today think the metal only looks like it tires, for different reasons. But his plant measurements were real and ahead of their time.
 - **Jain thinkers, over 2,000 years ago:** Jain teachings count six kinds of living beings. Plants are one kind. Beings in earth, water, fire and air are four more, and like plants they have one sense, touch. The sixth kind is beings that move about, like animals. This draws the line of life much wider than science does.
-- **DeepKids:** We believe everything is conscious, living or not, down to the smallest particle. The seven signs show which things scientists call alive. They do not show where awareness begins or ends. So we use the seven signs for sorting, and we never deny a mind to a stone or a wire.
+- **What the seven signs cannot show:** Everything is conscious, living or not, down to the smallest particle. The seven signs show which things scientists call alive. They do not show where awareness begins or ends. So the seven signs are for sorting. They never deny a mind to a stone or a wire.
 ### How did life begin? · *idea*
 The oldest signs of life on Earth are more than 3,500 million years old. Before that, there was no life at all. So at some point, non-living chemicals became living things. How did that happen? Nobody knows. Scientists have ideas, and they test them in labs. But nobody has yet made a living thing from plain chemicals.
 - e.g. In 1871, Charles Darwin wrote in a letter that life might have started in a 'warm little pond' full of chemicals.
@@ -149,7 +149,7 @@ The oldest signs of life on Earth are more than 3,500 million years old. Before 
   Against: Cars, rivers and wind move, and are not alive. Trees and dry seeds hardly move, and are alive. Movement is only one of seven signs.
 - **Plants are less alive than animals.** (Aristotle, a Greek thinker about 2,350 years ago, said plants have only a feeding and growing kind of life, with no feeling. Many people still feel this.; *rejected*)  
   For: Plants have no eyes, ears, brains or nerves. They do not run from danger.  
-  Against: Plants do all seven signs of life. They sense light, gravity and touch. J.C. Bose showed plants send electrical signals when hurt. In 1880, Charles Darwin and his son Francis wrote a whole book on how plants move. DeepKids believes plants feel, in their own way, without nerves.
+  Against: Plants do all seven signs of life. They sense light, gravity and touch. J.C. Bose showed plants send electrical signals when hurt. In 1880, Charles Darwin and his son Francis wrote a whole book on how plants move. Plants feel, in their own way, without nerves.
 - **Living things contain a special life force that non-living things lack.** (This idea is called vitalism. Many scientists believed it until the 1800s.; *rejected*)  
   For: Living things seem so different from stones and water. It feels as if something extra must be inside them.  
   Against: Scientists found that living things are made of ordinary atoms, the same ones in air and rock. In 1897, Eduard Buchner, a German scientist, crushed yeast cells and used just their juice. It still turned sugar into gas, with no living cells at all. He won a Nobel Prize for it in 1907.
@@ -160,7 +160,7 @@ The oldest signs of life on Earth are more than 3,500 million years old. Before 
   For: He measured how metals, plants and muscles responded when tapped again and again. Their records looked alike. All tired, and all recovered after rest.  
   Against: Most scientists say the metal only looks as if it tires, for different reasons that have nothing to do with life. A metal does not feed, grow or reproduce.
 - **Plants can learn and remember.** (Monica Gagliano, an Australian scientist, and her team, in 2014. They dropped touch-me-not plants a short, harmless distance again and again.; *debated*)  
-  For: At first the plants folded their leaves each time. After many drops, they stopped folding. Weeks later, they still did not fold when dropped. But they still folded when shaken in a new way. DeepKids believes this is what it looks like: the plants learned that the drop was safe, and remembered it.  
+  For: At first the plants folded their leaves each time. After many drops, they stopped folding. Weeks later, they still did not fold when dropped. But they still folded when shaken in a new way. So the plants learned that the drop was safe, and remembered it.  
   Against: Other scientists say the plants may just have been tired, or their sense of touch may have gone dull. Some say the words learning and memory should be kept for animals with brains. They want the test repeated by other teams.
 
 ## Roots
@@ -174,7 +174,7 @@ We have been learning the seven signs that tell us something is alive. Now we as
 - *what is life:* Life is not a thing you can hold in your hand. It is what a body does, or can still do: take in, change, give out, sense and make more.
 - *what is this world:* Living and non-living things keep swapping their atoms. A tree takes in the carbon dioxide you breathe out and builds a mango with it. When you eat the mango, it becomes part of you.
 
-A dry seed and a boiled seed are made of the same kinds of atoms, and they look the same. Only the dry seed can still grow. So life is not in the atoms alone, but in how they are put together and what they can do. DeepKids believes everything is conscious, down to the smallest particle. Feeding, growing, sensing and making more are the ways this awareness shows itself in a living body.
+A dry seed and a boiled seed are made of the same kinds of atoms, and they look the same. Only the dry seed can still grow. So life is not in the atoms alone, but in how they are put together and what they can do. Everything is conscious, down to the smallest particle. Feeding, growing, sensing and making more are the ways this awareness shows itself in a living body.
 
 - **Chandogya Upanishad 6.11:** Uddalaka tells his son Shvetaketu: if someone cuts this great tree at its root, or its middle, or its top, sap flows, but it lives. Full of life, it stands drinking in water. But if life leaves one branch, that branch dries up. The body dies when life leaves it. Life itself does not die. (Uddalaka noticed the same signs we test: the tree drinks water and lives on after it is cut, and a dead branch dries up. He then asked what life itself is, beyond the signs.)
 - **Acharanga Sutra, Book 1, Lecture 1 (Jain):** Jain teachings name six kinds of living beings: beings of earth, water, fire and air, plants, and beings that move about. All of them can be harmed, so we should harm none of them. (Jain thinkers drew the line of life far wider than science does. It shows that where we draw the line is partly our choice, and the choice changes how we treat the world.)
@@ -195,7 +195,7 @@ A dry seed and a boiled seed are made of the same kinds of atoms, and they look 
 - *deep:* Is your body the same body you had last year? (hint: Many of your cells have been replaced since then. Your blood cells last only about four months.)
 - *big:* If we found something on Mars, how would we know if it was alive? (hint: Which of the seven signs could a robot test from far away?)
 - *big:* Could something be a little bit alive? (hint: Think of a dry seed, a virus, or J.C. Bose's tired metal. Is alive a switch, or more like a dimmer?)
-- *deep:* Does a plant feel when you touch it? (hint: DeepKids believes it does, in its own way. A touch-me-not senses and responds. How could we find out what the touch is like for the plant?)
+- *deep:* Does a plant feel when you touch it? (hint: It does, in its own way. A touch-me-not senses and responds. How could we find out what the touch is like for the plant?)
 - *big:* Why do living things die, when a stone can last for millions of years? (hint: What does a living thing have to keep doing that a stone does not?)
 - *big:* Why do we care more about hurting a dog than a stone? What about hurting a plant? (hint: Jain teachings say even earth and water hold life. How would that change how you treat them?)
 - *big:* Is a river alive? In 2017 a court in Uttarakhand said the Ganga and Yamuna should be treated as living persons. India's Supreme Court later put this on hold. (hint: Check the seven signs. Then ask: what changes if we treat a river as if it were alive?)
@@ -494,7 +494,7 @@ Nitai took the feather. Before he began, he touched the shy plant, very gently, 
   *Parent does:* Tell your child about J.C. Bose and the dropped plants. Then let the plant rest.  
   *Parent says:* J.C. Bose, a great Indian scientist, found that this plant folds less if you touch it again and again. In 2014, scientists dropped these plants gently many times. The plants stopped folding, and weeks later they still did not fold when dropped.  
   *Child mode:* Scientists dropped these plants gently many times. The plants stopped folding. Weeks later, they still did not fold.
-  - Think: DeepKids believes the plants learned that the drop was safe, and remembered it. Some scientists say the plants were only tired. What do you think?
+  - Think: The plants learned that the drop was safe, and remembered it. Some scientists say the plants were only tired. What do you think?
 ### a4 · Does a plant give out water? The bag on a branch (15 min)
 - **safety:** Take the bags off within a few hours so the plant does not overheat. Never put a plastic bag near anyone's face.
 - **record:** Draw both bags after 2 hours. Write what you see inside each.
@@ -750,7 +750,7 @@ Nitai took the feather. Before he began, he touched the shy plant, very gently, 
    **Answer:** Arrows from soil up through the plant, out of the leaves, onto the glass as drops, and down back into the soil.. *Why:* In a closed jar, water is used again and again. The Earth works in a similar way.
 15. (mcq) In 2014, scientists found that touch-me-not plants stopped folding after being dropped harmlessly many times. Weeks later, they still did not fold. What do scientists think?  
    Options: Everyone agrees plants have brains / Some say the plants learned, others say this needs more tests / The plants were dead  
-   **Answer:** Some say the plants learned, others say this needs more tests. *Why:* Scientists still argue about this. Some say it looks like learning and memory. Others say those words are for animals with brains, and want more tests. DeepKids believes the plants learned and remembered. Picking 'the plants were dead' forgets that they still folded when shaken in a new way.
+   **Answer:** Some say the plants learned, others say this needs more tests. *Why:* The plants learned and remembered. But scientists still argue about this. Some say it looks like learning and memory. Others say those words are for animals with brains, and want more tests. Picking 'the plants were dead' forgets that they still folded when shaken in a new way.
 
 ## Videos
 - **Characteristics of Life** (Amoeba Sisters, 7 min) id `cQPVXrV0GNA`: For the parent and older children: a clear, friendly cartoon of what scientists count as signs of life, with good examples. *Check:* Found by YouTube search: "Characteristics of Life" by Amoeba Sisters. Title checked automatically; a parent may still preview it.
@@ -826,8 +826,8 @@ Nitai took the feather. Before he began, he touched the shy plant, very gently, 
 - **How did the very first living thing come from non-living chemicals?** It happened about 4,000 million years ago and left no clear traces. Scientists test ideas in labs, but nobody has made life from plain chemicals yet.
 - **Is there life anywhere else in the universe?** We have only ever found life on Earth. Scientists are searching on Mars and planning missions to icy moons like Europa and Enceladus, which have hidden oceans.
 - **Is there a sharp line between living and non-living, or a gentle slope?** Most things are easy to sort, but some, like viruses and dormant seeds, are not. Scientists do not agree on one definition of life.
-- **What is it like for a plant to feel a touch?** DeepKids believes plants feel. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows how to measure what the touch is like for the plant.
-- **How does a plant remember, with no brain?** DeepKids believes plants remember: the dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way.
+- **What is it like for a plant to feel a touch?** Plants feel. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows how to measure what the touch is like for the plant.
+- **How does a plant remember, with no brain?** Plants remember: the dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way.
 - **Could people one day build a living cell from scratch?** Scientists have built a full set of instructions, DNA, and put it into a bacterium, where it worked. But building a whole living cell from non-living parts has not been done.
 - **Why does all life on Earth use the same code?** It points to one shared ancestor. But why this code, and not another, is still not understood.
 

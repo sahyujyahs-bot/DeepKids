@@ -110,7 +110,7 @@ A single cell has no brain and no nerves. Yet scientists have watched single cel
 - e.g. E. coli bacteria swim towards food by comparing now with a few seconds ago.
 - e.g. Stentor tried bending away, then closing up, then swimming off when specks kept landing on it.
 - e.g. A slime mould in Japan joined oat flakes in a pattern much like Tokyo's railway map.
-- **DeepKids:** DeepKids believes every cell has a mind of its own kind. Sensing, choosing and remembering are what minds do, and single cells do all three. Brains were built from cells that could already do this.
+- **What the cells show:** Every cell has a mind of its own kind. Sensing, choosing and remembering are what minds do, and single cells do all three. Brains were built from cells that could already do this.
 - **Some scientists who study slime moulds and bacteria:** Sensing, choosing and remembering are the basic parts of thinking. Single cells do all three. So thinking began long before brains, and brains built on what cells could already do.
 - **Many brain scientists:** What a bacterium does is clever chemistry, not thinking. Real thinking needs many neurons linked in a brain. Calling it 'thinking' stretches the word too far.
 - **Some philosophers:** The question depends on what we mean by 'thinking'. If it means 'using what you sense to choose well', cells think. If it means 'having an inner feeling of thinking', nobody knows if cells have that.
@@ -166,7 +166,7 @@ We have been learning that every living thing is made of cells, and that new cel
 - *what is life:* Life is made of cells, and every cell comes from a living cell. Your cells are the newest links in a chain that has never broken since the first cells.
 - *what is this world:* The world is full of tiny lives we cannot see, in every drop of tank water and every spoon of curd.
 
-Every cell in you came from a cell, and that one from another, back to the first cells at least 3.5 billion years ago. The curd in your kitchen, the neem tree outside and you are all branches of that one line. DeepKids believes this line carried more than chemicals. It carried the sensing and choosing that every cell does, and your own awareness grew out of it.
+Every cell in you came from a cell, and that one from another, back to the first cells at least 3.5 billion years ago. The curd in your kitchen, the neem tree outside and you are all branches of that one line. This line carried more than chemicals. It carried the sensing and choosing that every cell does, and your own awareness grew out of it.
 
 - **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that subtle essence you cannot see, this whole great banyan tree grows.' (Shvetaketu saw nothing inside the banyan seed, yet the whole tree grows from it. Science finds that the tree is built of cells too small to see, each one made by another cell.)
 - **Tattvartha Sutra of Umasvati, chapter 2:** Jain thought says every living being has a jiva, a living soul, even beings with only one sense, the sense of touch, like plants. (Jain teachers said that a being with only the sense of touch is still a living soul. Science finds that a single cell, with no eyes or ears, still senses the chemicals and touches around it.)

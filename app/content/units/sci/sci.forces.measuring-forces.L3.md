@@ -196,7 +196,7 @@ We have been inventing units of pull, counting coins and water, and meeting the 
 - *what is life:* A crow feels the wind and a root senses which way is down, with no numbers at all. People add numbers so they can share what they sense.
 - *what is this world:* The Earth pulled on mangoes long before anyone had a unit. The pull belongs to the world. The number belongs to the people who agreed on it.
 
-Before any unit, there is only the pull itself, with no number on it. Then people choose one small pull and call it One: one coin, one ratti seed, one newton. From that One come all the numbers, from a molecule's tug to the pull between the Earth and the Moon. DeepKids sees in this a small picture of the One becoming the many. Every number is counted from one shared One, and it means something only because the One is shared.
+Before any unit, there is only the pull itself, with no number on it. Then people choose one small pull and call it One: one coin, one ratti seed, one newton. From that One come all the numbers, from a molecule's tug to the pull between the Earth and the Moon. This is a small picture of the One becoming the many. Every number is counted from one shared One, and it means something only because the One is shared.
 
 - **Rig Veda 1.164.46:** Truth is one. The wise call it by many names. (One notebook's pull was called 6 big coins, 12 small coins and half a newton. The names changed with the unit. The pull itself stayed one.)
 - **Quran 55:7–9:** The heavens were raised, and a balance was set. So do not cheat the balance. Weigh fairly, and do not make the balance short. (A balance is a promise between people. In the story Ten Packets of Salt, one wrong pointer cheated every porter, until a shared standard showed it.)

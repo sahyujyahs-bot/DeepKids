@@ -158,15 +158,15 @@ When you look at a tree, it feels as if you are seeing the tree itself, right th
 ## Roots
 We have been learning how we see: light bounces off things and comes into our eyes. Now we ask what seeing tells us about ourselves and the world.
 
-**Deep truth.** Looking feels like reaching out from our eyes, like a torch beam. Yet in the closed dark box, wide-open eyes saw nothing. The white paper appeared only when light got in and bounced off it into the eye. So looking feels like sending something out, but seeing is receiving.  
-*Habit it breaks:* It questions the habit of trusting how something feels as a picture of how it works. Looking feels like something we send out, and that feeling is why people believed in eye-rays for more than a thousand years.  
-*Evidence:* In the dark box, open eyes saw nothing until the lid let light in. In the lamps activity, covering one torch put out only its own spot.
+**Deep truth.** Each eye has one spot with no light-catching cells, where the nerve leaves the eye. In the blind-spot test, the dot vanished there, but you saw no hole. The paper's colour filled the gap. So part of what you see is filled in by your brain, not brought by light.  
+*Habit it breaks:* It questions the habit of thinking our eyes show us exactly what is there, like a photo. Our eyes send signals, and the brain builds the picture from them, filling in gaps without telling us.  
+*Evidence:* In the blind-spot test, with one eye covered, the dot vanished when the card was about 25 cm away, because its light landed on the blind spot. Yet there was no hole: you saw plain card where the dot had been.
 
 - *who am i:* You are a light catcher. Light that touched the mango a moment ago is now inside your eye.
 - *what is life:* Many living things, from a money plant on a windowsill to an owl, sense light and live by it.
 - *what is this world:* Light is always reflecting from object to object, whether anyone is looking or not.
 
-By day, one Sun lights almost everything we see. The mango, the road and your friend's face are all lit by that same light. Each object reflects it in its own way, and that is why they look different. So when you look around, you are catching one light that has touched everything in front of you. DeepKids believes this is a small, real picture of oneness: many things, joined by the one light that passes between them and into us.
+By day, one Sun lights almost everything we see. The mango, the road and your friend's face are all lit by that same light. Each object reflects it in its own way, and that is why they look different. So when you look around, you are catching one light that has touched everything in front of you. This is a small, real picture of oneness: many things, joined by the one light that passes between them and into us.
 
 - **Brihadaranyaka Upanishad 4.3.2 to 4.3.6:** King Janaka asks the sage Yajnavalkya: 'What light does a person live by?' The Sun, says Yajnavalkya. When the Sun has set? The Moon. When the Moon has set? Fire. When the fire has gone out? Speech, a voice to follow. And when all of these are gone? Then the self is the person's own light. (We have learned that eyes see only by light from outside, from the Sun, the Moon or a fire. The sage then asks about a different kind of light: the awareness that knows the seeing, even in the dark.)
 - **Kena Upanishad 1.2:** It is the ear of the ear, the mind of the mind, and the eye of the eye. (The eye catches light, and the brain makes sense of it. But who, or what, is aware of the seeing? The Upanishad points to something behind the eye.)
@@ -735,8 +735,8 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
    Options: Their lenses let less light through, and their pupils get smaller with age / They send out weaker rays / Books were printed smaller long ago  
    **Answer:** Their lenses let less light through, and their pupils get smaller with age. *Why:* As we grow old, the lens gets a little cloudy and yellow, and the pupil gets smaller. So less light reaches the retina. Picking 'weaker rays' is the old eye-rays idea.
 17. (mcq) Which idea is the deep truth of this unit?  
-   Options: Looking feels like sending something out, but seeing is really receiving light / Seeing is reaching out to grab the world / Seeing happens only in the eyes  
-   **Answer:** Looking feels like sending something out, but seeing is really receiving light. *Why:* Looking feels like reaching out, but in the dark box, open eyes saw nothing until light came in. The eye catches the light and the brain makes sense of it. Picking 'reaching out' is the old eye-rays idea. Picking 'only in the eyes' forgets the brain's big part.
+   Options: Part of what you see is filled in by your brain, not brought by light / Your eyes show you exactly what is there, like a photo / Seeing happens only in the eyes  
+   **Answer:** Part of what you see is filled in by your brain, not brought by light. *Why:* In the blind-spot test, the dot vanished, but you saw no hole. Your brain filled the gap with the paper's colour. Picking 'like a photo' is the habit this unit questions. Picking 'only in the eyes' forgets the brain's big part.
 18. (write) Write two or three sentences for a younger child, explaining how they see their teddy bear.  
    **Answer:** The lamp shines light on your teddy. The light bounces off the teddy and goes into your eyes. Your eyes send a message to your brain, and your brain says 'teddy!'. *Why:* A good answer has a source, a bounce, the eye and the brain, in the right order.
 19. (label) Label the parts of the eye on the drawing: cornea, iris, pupil, lens, retina, optic nerve.  

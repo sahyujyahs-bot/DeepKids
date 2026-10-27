@@ -165,7 +165,7 @@ We have been learning about friction, the grip between things that touch. Now we
 - *what is life:* Living things control friction all the time. A gecko's feet grip a wall, and your knee joints stay slippery for a lifetime.
 - *what is this world:* On Earth, every sliding thing slows down and warms what it rubs against. Even some of the Earth's spin is slowly being turned into warmth by the tides.
 
-Friction does not destroy movement. It takes the neat movement of one thing and shares it out among countless atoms in the box, the floor and the air. DeepKids believes that everything comes from one whole and keeps flowing back into it. Friction is a small, everyday example: the movement of one thing becomes the warmth shared by many.
+Friction does not destroy movement. It takes the neat movement of one thing and shares it out among countless atoms in the box, the floor and the air. Everything comes from one whole and keeps flowing back into it. Friction is a small, everyday example: the movement of one thing becomes the warmth shared by many.
 
 - **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains. (When friction stops a box, the box loses its movement, but the world loses no energy. The total stays the same, only spread out as warmth.)
 - **Dhammapada 277:** The Buddha taught that everything made of parts keeps changing. Nothing stays the same for ever. (Friction shows this slowly. Shoe soles, brake pads and stone temple steps wear away, and even the length of a day is changing because of the tides.)

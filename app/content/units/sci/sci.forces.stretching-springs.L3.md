@@ -179,7 +179,7 @@ We have found that equal pulls give equal stretches, until a spring is pulled to
 - *what is life:* Living things are full of springs: tendons, spider silk, the rubbery pad in a flea's leg. They store a step or a jump and give most of it back.
 - *what is this world:* Every solid is a spring, even stone and steel. Some are just very stiff. The rock under India is being bent, slowly, right now.
 
-A spring at rest looks as if nothing is happening in it. In fact it is full of pulls and pushes, and they add up to zero. That zero is not emptiness. It is a balance, and every shape a solid holds comes out of it. DeepKids sees this as the One becoming the many. One balance of pulls shows up as a pen spring, a tendon, a spider's thread and a mountain range.
+A spring at rest looks as if nothing is happening in it. In fact it is full of pulls and pushes, and they add up to zero. That zero is not emptiness. It is a balance, and every shape a solid holds comes out of it. This is the One becoming the many. One balance of pulls shows up as a pen spring, a tendon, a spider's thread and a mountain range.
 
 - **Heraclitus, fragment DK B51:** Heraclitus said people do not see how something pulling in two directions can hold together. His examples were the bow and the lyre, a stringed instrument. (A strung bow keeps its shape only because the string pulls one way and the wood pulls back. A solid's atoms hold their shape the same way, pull against pull.)
 - **Tao Te Ching 76:** Living plants are soft and bendy. Dead ones are dry and brittle. So the stiff and hard are easily broken, and the soft and bendy last. (In Bend or Snap?, the green twig bends and springs back, and the dry twig snaps. Living tendons, skin and silk are springy too.)

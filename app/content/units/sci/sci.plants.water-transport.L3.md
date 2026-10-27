@@ -185,7 +185,7 @@ We have been following one drop of water from a plant's root to its leaf, and in
 - *what is life:* A tree has no heart. It uses the Sun's heat to lift its water, and it controls the flow with its leaf holes.
 - *what is this world:* The water a tree lets out joins the air, and can fall as rain on a farm far away.
 
-A drop of water climbs a tree, leaves as vapour, joins a cloud and falls as rain. Then it may climb another tree, or be drunk by a child. The water does not stay with the tree or with the child. It passes through each of them for a while. DeepKids believes the tree, the cloud and the child are less separate than they look, because the same water keeps passing through all three.
+A drop of water climbs a tree, leaves as vapour, joins a cloud and falls as rain. Then it may climb another tree, or be drunk by a child. The water does not stay with the tree or with the child. It passes through each of them for a while. The tree, the cloud and the child are less separate than they look, because the same water keeps passing through all three.
 
 - **Chandogya Upanishad 6.10:** Rivers flow east and west and reach the sea. In the sea, no river can say, 'I am this river.' They are all the sea. (Water vapour from a neem tree and from a mango tree mixes in the same cloud. When it rains, nobody can say which tree each drop came from.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. He called this interbeing. (A tree is built with water its leaves pulled up from the soil. So in a leaf you can see the rain that fed it, and the cloud its vapour will help to make.)
