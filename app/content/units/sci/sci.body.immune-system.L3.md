@@ -1,7 +1,7 @@
 # The immune system: how your body keeps germs out and fights them
 `sci.body.immune-system.L3`
 
-**Summary.** Germs land on your skin all day, yet most of them never get inside you. The immune system is everything your body does to keep out germs, the tiny living things that can make you ill, and to fight the ones that get in. Your first walls are your skin, your tears, the sticky mucus in your nose, your saliva and the acid in your stomach. Germs that get past the walls meet white blood cells, which find them and eat them. A fever is your brain turning up your body's heat to help the fight.
+**Summary.** Germs land on your skin all day, yet most of them never get inside you. Germs are tiny living things that can make you ill. The immune system is everything your body does to keep germs out, and to fight the ones that get in. Your first walls are your skin, your tears, the sticky mucus in your nose, your saliva and the acid in your stomach. Germs that get past the walls meet white blood cells, which find them and eat them. A fever is your brain turning up your body's heat to help the fight.
 
 **Intro.** *Look at the skin on the back of your hand. Germs are landing on it right now, thousands of them. Most of them never get inside you. What is stopping them?* Think of the last time you scraped your knee. First it hurt. Then, a few hours later, the skin around the scrape went pink. It felt warm and a bit puffy. Maybe a little yellow goo came out. Was the scrape getting worse? Or was something inside you rushing to that spot, on purpose? In this unit you will find out. You will meet the defenders that guard your body every second, even while you sleep.
 
@@ -19,12 +19,12 @@
 - **Germ**: A tiny living thing, too small to see, that can make you ill. Most germs are bacteria or viruses. A few are tiny fungi, or other one-celled living things like the malaria germ. *e.g.* The germs of a cold spread when someone sneezes near you.
 - **Microbe**: Any living thing too small to see without a microscope. Most microbes are harmless, and many help us. Only a few are germs. *e.g.* Microbes in curd turn milk sour and thick. They are friendly microbes.
 - **Bacteria**: One kind of microbe. Each one is a single tiny living cell. Bacteria sense what is around them and decide where to go. Many swim towards food. One drop of curd can hold millions of them. *e.g.* The bacteria in curd are friendly. The bacteria that cause typhoid are germs.
-- **Virus**: A tiny germ, much smaller than bacteria. A virus can only make copies of itself inside a living cell. Medicines called antibiotics do not work on viruses. *e.g.* Colds and chickenpox are caused by viruses.
+- **Virus**: A tiny germ, much smaller than bacteria. A virus can only make copies of itself inside a living cell. *e.g.* Colds and chickenpox are caused by viruses.
 - **Skin**: The body's outer covering. Its top layer is made of flat, dead cells packed tight, like tiles on a roof. Most germs cannot get through skin that has no cuts. *e.g.* Germs land on your hand all day, but unbroken skin keeps them outside.
 - **Mucus**: The wet, sticky stuff inside your nose and throat. It traps dust and germs before they reach your lungs. *e.g.* When you blow your nose into a hanky, you blow out mucus full of trapped dust and germs.
 - **Tears**: Salty water your eyes make all the time, not just when you cry. Every blink spreads tears and washes the eye. Tears also hold a chemical that breaks some germs apart. *e.g.* When a speck of dust lands in your eye, tears wash it out.
 - **Saliva**: Spit: the watery juice in your mouth. It washes your teeth and holds chemicals that slow germs down. *e.g.* Your mouth makes more saliva when you smell food cooking.
-- **Stomach acid**: A very strong, sour juice inside your stomach. It breaks down food and kills many germs that get swallowed. *e.g.* Germs on a little dust you swallow are mostly killed in your stomach.
+- **Stomach acid**: A very strong, sour juice inside your stomach. It breaks down food and kills many germs that get swallowed. *e.g.* Many of the germs on the food you swallow are killed in your stomach.
 - **White blood cell**: A tiny cell that travels in your blood and hunts germs. Some kinds eat germs. Other kinds make chemicals that stick to germs, or remember them for next time. *e.g.* When germs get into a cut, white blood cells rush there from the blood.
 - **Phagocyte**: A white blood cell that eats germs. The word comes from Greek words meaning 'eating cell'. *e.g.* Phagocytes swallow germs whole, then break them down inside.
 - **Inflammation**: When part of the body goes red, warm, swollen and sore because the immune system is fighting there. Extra blood brings more defenders to that spot. *e.g.* The pink, puffy skin around a new mosquito bite or scrape is inflammation.
@@ -62,7 +62,7 @@ Your eyes, nose and mouth are openings, so skin cannot cover them. Wet walls gua
 ### White blood cells: the defenders inside · *defined*
 **Definition:** White blood cells are cells that travel in the blood, find germs and destroy them. Some eat germs whole. Others make chemicals that stick to germs, or remember them.
 
-Your blood is mostly red blood cells, which carry oxygen, the part of the air your body needs. Mixed in with them are a few white blood cells. There is only about one white cell for every 700 red ones. White blood cells are made inside your bones, in a soft middle part called bone marrow. They ride around in the blood. When germs get in, the hurt cells send out chemical signals, like a smell. White blood cells follow the smell. They squeeze out through the wall of the blood vessel, the tube the blood flows in, change shape, and crawl to the germs. Some kinds, called phagocytes, wrap around a germ and eat it. Other kinds make sticky chemicals that grab germs, or remember a germ for next time. You will learn about those in a later unit.
+Your blood is mostly red blood cells, which carry oxygen, the part of the air your body needs. Mixed in with them are a few white blood cells. There is only about one white cell for every 700 red ones. White blood cells are made inside your bones, in a soft middle part called bone marrow. They ride around in the blood. When germs get in, the hurt cells send out chemical signals, like a smell. White blood cells follow the smell. A blood vessel is a tube that blood flows in. White blood cells squeeze out through its wall and crawl to the germs. Some kinds, called phagocytes, wrap around a germ and eat it. Other kinds make sticky chemicals that grab germs, or remember a germ for next time. You will learn about those in a later unit.
 - e.g. In a cut finger, white blood cells arrive within an hour or so.
 - e.g. White blood cells are not really white. Each one is almost see-through. A big pile of them looks pale and creamy.
 - e.g. Your body makes billions of new white blood cells every day, because many of them only live for a few days.
@@ -83,9 +83,9 @@ Your body keeps itself at about 37 degrees Celsius, whether the day is hot or co
 ### When a fever needs a doctor · *defined*
 **Definition:** Most fevers need rest, water and a watchful grown-up. Some warning signs mean a doctor should see the child quickly.
 
-Most fevers in children are the body doing its job, and they pass in two or three days. A grown-up gives plenty of water and lets the child rest. If the child feels very uncomfortable, a grown-up can ask a doctor what to do. Children never take medicine by themselves. Some fevers need a doctor quickly. A grown-up should call a doctor for any fever in a baby under 3 months old. They should also call if a fever reaches 40 degrees Celsius, lasts more than 3 days, or comes with a stiff neck, a new rash, trouble breathing, a fit, or a child who is very hard to wake.
-- e.g. A fever of 38.4 degrees with a runny nose, and the child still playing a bit: rest, water and watching.
-- e.g. A fever with a stiff neck and a rash: a doctor at once.
+Most fevers in children are the body doing its job, and they pass in two or three days. A grown-up gives plenty of water and lets the child rest. If the child feels very uncomfortable, a grown-up can ask a doctor what to do. Children never take medicine by themselves. Some fevers need a doctor quickly. A grown-up should call a doctor for any fever in a baby under 3 months old. They should also call if a fever reaches 40 degrees Celsius or lasts more than 3 days. Call at once if the fever comes with a stiff neck, a new rash, trouble breathing or a fit. Call at once, too, if the child is very hard to wake.
+- e.g. A child has a fever of 38.4 degrees and a runny nose, but still plays a little. Rest, water and watching are enough.
+- e.g. A child has a fever with a stiff neck and a rash. A doctor must see them at once.
 - e.g. Feeling hot is not enough to know. A thermometer tells you the real number.
 ### Should we bring a fever down? · *debated*
 Since fever helps fight germs, should we stop it? People have argued about this for a long time. Today doctors mostly agree on what to do, but scientists still study why.
@@ -100,7 +100,7 @@ White blood cells leave your own cells alone, but they attack germs. How do they
 - e.g. It leaves alone the billions of friendly microbes in your gut.
 - e.g. A mother's body does not attack the baby growing inside her, though half of the baby's genes come from the father.
 - **Frank Macfarlane Burnet, an Australian scientist, around 1949 to 1959:** While a baby is growing, the body learns what 'self' is. Later, anything that is not self gets attacked. He shared a Nobel Prize for this work in 1960.
-- **Polly Matzinger, an American scientist, in 1994:** The body does not attack things just because they are new. It attacks when cells send 'danger' signals, like hurt cells do. That is why it leaves food and friendly microbes alone. She came to science late, after jobs as a jazz musician, a carpenter and a dog trainer, and many scientists at first disagreed with her.
+- **Polly Matzinger, an American scientist, in 1994:** The body does not attack things just because they are new. It attacks when cells send 'danger' signals, like hurt cells do. That is why it leaves food and friendly microbes alone. She came to science late, after working as a jazz musician, a carpenter and a dog trainer. At first many scientists disagreed with her.
 - **Most scientists today:** Both ideas are partly right. The body does learn its own self. It also listens for danger signals. Exactly how these work together is still being studied.
 ### Friendly microbes are part of the defence · *defined*
 **Definition:** The microbiome is all the microbes that live on and in you. Many of them help protect you by leaving no room or food for germs.
@@ -109,7 +109,6 @@ You are never alone. About as many bacteria live on and in your body as there ar
 - e.g. A healthy gut is packed with friendly bacteria, so germs struggle to settle there.
 - e.g. Curd and idli batter are full of friendly microbes.
 - e.g. Antibiotics are medicines that kill bacteria. After taking them, some people get tummy trouble, because friendly gut bacteria were killed too.
-- e.g. Antibiotics do not work on viruses. A cold is caused by a virus, so antibiotics do not help it.
 ### Every living thing defends itself · *defined*
 **Definition:** All living things, from bacteria to plants to people, have ways to keep out or fight what harms them.
 
@@ -118,11 +117,11 @@ The immune system is not only a human thing. Every living thing has some way to 
 - e.g. Sick lizards in a lab moved to the warmest spot they could find, giving themselves a fever.
 - e.g. A honeybee hive heats itself up when a harmful fungus attacks the baby bees.
 ### Down to the molecules: shapes that fit · *defined*
-**Definition:** Immune cells and chemicals recognise germs by touch. Their molecules fit the molecules on the germ, and electric pulls hold them together.
+**Definition:** Immune cells and chemicals recognise germs by touch. Their molecules fit the molecules on the germ, and tiny electric forces of attraction hold them together.
 
-A white blood cell has no eyes. It finds out what a germ is by touching it. The outside of every cell, and every germ, is covered in molecules. A molecule is a tiny group of atoms joined together, and each kind has its own shape. A white blood cell has its own molecules on its outside, called receptors. When a receptor fits a molecule on a germ, like a key in a lock, the cell grabs on. Electric pulls between the atoms hold the two together. That is how the cell knows to attack. Lysozyme, the chemical in your tears, works the same way. Its shape fits a part of a germ's coat, and it snips it.
+A white blood cell has no eyes. It finds out what a germ is by touching it. The outside of every cell, and every germ, is covered in molecules. A molecule is a tiny group of atoms joined together, and each kind has its own shape. A white blood cell has its own molecules on its outside, called receptors. When a receptor fits a molecule on a germ, like a key in a lock, the cell grabs on. Tiny electric forces between the atoms attract each other and hold the two together. That is how the cell knows to attack. Lysozyme, the chemical in your tears, works the same way. Its shape fits a part of a germ's coat, and it snips it.
 - e.g. A white blood cell bumps into thousands of things. It grabs only those whose shapes fit its receptors.
-- e.g. Lysozyme is also found in egg white. In 1965 it became the first enzyme, a kind of chemical that does a job in living things, whose full shape scientists worked out, using X-rays.
+- e.g. Lysozyme is also found in egg white. An enzyme is a chemical that does a job in living things. In 1965, lysozyme became the first enzyme whose full shape scientists worked out, using X-rays.
 ### Sleep, food, play and the immune system · *defined*
 **Definition:** Good sleep, varied food, daily play, handwashing and vaccines all help the immune system. No single food or drink 'boosts' it.
 
@@ -131,17 +130,17 @@ There is no magic food or drink that 'boosts' your immune system. But the whole 
 - e.g. Washing hands with soap and water for about 20 seconds removes many more germs than water alone.
 - e.g. Adverts often say a drink 'boosts immunity'. That is usually not what scientists have found.
 ### What nobody knows yet · *idea*
-Scientists have learnt a huge amount about the immune system. But some big puzzles are still open. Why do two people catch the same germ, and one gets very ill while the other hardly notices? How exactly does the immune system talk to the brain and make us feel tired, grumpy and hungry for sleep when we are ill? Why do some immune systems attack harmless things like pollen or peanuts? There are ideas about all of these, but no full answers yet.
+Scientists have learnt a huge amount about the immune system. But some big puzzles are still open. Why do two people catch the same germ, and one gets very ill while the other hardly notices? When we are ill, we feel tired, grumpy and sleepy. How exactly does the immune system send these signals to the brain? Why do some immune systems attack harmless things like pollen or peanuts? There are ideas about all of these, but no full answers yet.
 - e.g. Feeling sleepy and sad when ill seems to be partly caused by chemicals from white blood cells reaching the brain. Scientists think this makes us rest.
 - e.g. The same cold virus can give one child a sniffle and another child a fever.
 
 ## Mostly agreed
-- Germs cause many illnesses, and most of them must get past the skin or the wet walls to make us ill. *How we know:* Since the 1860s and 1880s, scientists such as Louis Pasteur and Robert Koch have grown germs from sick people and shown that they cause particular diseases. Washing hands and cleaning wounds cuts infections a lot.
-- White blood cells find and destroy germs. *How we know:* Under a microscope, scientists have filmed white blood cells chasing and swallowing bacteria. Élie Metchnikoff first saw cells like these gather round a thorn in 1882.
+- Germs cause many illnesses, and most of them must get past the skin or the wet walls to make us ill. *How we know:* In the 1870s and 1880s, Louis Pasteur and Robert Koch showed that particular germs cause particular diseases. Koch grew the germs of anthrax and tuberculosis from sick animals and people. Washing hands and cleaning wounds cuts infections a lot.
+- White blood cells find and destroy germs. *How we know:* Under a microscope, scientists have filmed white blood cells chasing and swallowing bacteria. In 1882, Élie Metchnikoff saw cells like these gather round a thorn.
 - Redness, warmth, swelling and pus are signs that the body is fighting, not just signs of damage. *How we know:* When scientists look at swollen tissue under a microscope, it is full of white blood cells that have come out of the blood.
 - A fever is controlled by the brain, and it usually helps the body fight germs. *How we know:* Chemicals made by white blood cells reach the brain and raise the body's set heat. In many animals, sick ones that can warm up survive better.
 - Most microbes are harmless or helpful, and many live on and in us. *How we know:* When scientists count and name the microbes on skin and in the gut, almost all are harmless. Some help digest food or keep germs away.
-- Every living thing, even a single bacterium, has some way to defend itself. *How we know:* Plants close leaf pores and send chemical alarms. Bacteria cut up viruses with a system scientists named CRISPR, studied closely from 2007.
+- Every living thing, even a single bacterium, has some way to defend itself. *How we know:* Plants close leaf pores and send chemical alarms. In 2007, scientists showed that bacteria cut up viruses with a system called CRISPR.
 - Vaccines protect people from serious illnesses caused by germs. *How we know:* After years of vaccination all over the world, smallpox disappeared. Its last natural case was in 1977. India has had no new case of wild polio since 2011, after millions of children were given polio drops.
 
 ## How we found out
@@ -172,7 +171,7 @@ Scientists have learnt a huge amount about the immune system. But some big puzzl
 We have been learning how the body keeps germs out and fights the ones that get in. Now we ask what that tells us about ourselves and the world.
 
 **Deep truth.** Every apple in the test had microbes on its skin. The ones that rotted all had cuts, and the rot began at the cut. Unbroken skin kept the microbes out just by being whole. Most of your body's protection works this way, with walls that stop germs before any fight begins.  
-*Habit it breaks:* We picture the immune system as soldiers fighting germs. Most of the work is done before any fight, by skin, tears and mucus that simply stay in place.  
+*Habit it breaks:* We picture the immune system as soldiers fighting germs. Most of the work is done before any fight, by skin, tears and mucus that are always there.  
 *Evidence:* In the apple skin test, the apple with whole skin stayed fresh, while cut apples went soft, starting at the cut. In the sticky nose test, sticky tape held far more dust than smooth tape.
 
 - *who am i:* Your skin, your tears and the mucus in your nose keep you well every minute, and you hardly notice them.
@@ -186,14 +185,14 @@ The first living things were single cells, each wrapped in a thin skin called a 
 - **Jain anekantavada, the story of the blind men and the elephant:** Each blind man touched one part of the elephant and was sure he knew the whole. Each was partly right. (Metchnikoff said cells fight germs. Ehrlich said chemicals do. They argued for twenty-five years, and they were both partly right.)
 - Science (settled): Skin, tears, mucus and stomach acid stop most germs before white blood cells are needed. Most germs get in only where a wall is broken, such as a cut or a mosquito bite.
 - Science (debated): How the immune system decides what is 'self' and what to attack, by learning self early or by listening for danger, is still argued about.
-- Other view, Many immunologists: The walls are only half the story. Some germs get past them every day, through the gut, the lungs and tiny scratches. The white blood cells inside, and the way they remember germs, matter just as much. People whose inside defenders do not work well need special care from doctors, even with healthy skin. This is a fair view, and many careful people hold it.
+- Other view, Many immunologists: The walls are only half the story. Some germs get past them every day, through the gut, the lungs and tiny scratches. The white blood cells inside, and the way they remember germs, matter just as much. People whose inside defenders do not work well need special care from doctors, even with healthy skin.
 - Practice, Notice your walls (3 min): Let's sit still and close our eyes. Blink slowly three times. Feel your tears spread across your eyes. Now breathe in slowly through your nose. The hairs and mucus inside are cleaning that air right now. Now feel the skin on your arms and face. It is keeping germs out this very moment, and you never asked it to. Sit for one more slow breath.
 - Ask: Your skin keeps germs out all day, and you hardly notice it working. What else in your body works without you noticing?
 - Ask: If a wall stopped everything, what would your body miss out on?
 - Ask: The microbes in the apple test were living things looking for food. Were they doing anything wrong?
 
 ## Deep and big questions
-- *big:* If about half the living cells on and in you are microbes, which part is really 'you'? (hint: Your friendly microbes help guard you and digest your food. Are they visitors, or part of you?)
+- *big:* If more than half the living cells on and in you are microbes, which part is really 'you'? (hint: Your friendly microbes help guard you and digest your food. Are they visitors, or part of you?)
 - *deep:* Your white blood cells fight for you every second, but you never notice them. What else is your body doing right now without asking you? (hint: Think about your heart, your breathing and your blinking.)
 - *big:* A white blood cell dies fighting a germ, and becomes pus. Is that sad, brave, or just what cells do? (hint: Think of people who protect others, like firefighters or nurses.)
 - *deep:* Why might it be good, not bad, that a cut goes red and sore? (hint: What would happen if you never felt it, and never noticed the cut?)
@@ -279,8 +278,8 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 
 ## Games
 ### g1 · Get Past the Walls! (20 min)
-- **rules:** Cut out the germ cards and the defence cards. Keep them in two piles.; One player is the Germ. The other players are the Body. Each Body player holds 4 defence cards.; The Germ turns over a germ card and reads it out loud.; A Body player must play one defence card that stops this germ, and say how it works. For example, 'Stomach acid kills the germs on the guava.'; If the defence fits, the germ is stopped. Put both cards aside. The Body scores a point.; If no one can stop it with a wall, the germ gets inside. Then only a WHITE BLOOD CELL, INFLAMMATION or FEVER card can stop it.; After 8 germ cards, swap sides. The side that stops the most germs wins.
-- **Printable cards: 16 germ cards to cut out:** Cold virus floating in a sneeze; Dust with germs blowing into your eyes; Germs on a dirty hand, about to rub your nose; Germs on an unwashed guava; Bacteria on a rusty nail; Germs in a puddle on a scraped knee; Germs on a shared spoon; A mosquito carrying a germ; Germs on a door handle; Germs in a cough on the bus; Germs on a dog's paw on your arm (no cut); Germs in dirty water from a broken pipe; A splinter carrying bacteria under the skin; Germs in a cut that nobody washed; Germs in dust you breathe in on a road; A germ that got past every wall
+- **rules:** Cut out the germ cards and the defence cards. Keep them in two piles.; One player is the Germ. The other players are the Body. Each Body player holds 4 defence cards.; The Germ turns over a germ card and reads it out loud.; A Body player must play one defence card that stops this germ, and say how it works. For example, 'Stomach acid kills the germs on the guava.'; If the defence fits, the germ is stopped. Put both cards aside. The Body scores a point, and that player takes a new defence card from the pile.; If no one can stop it with a wall, the germ gets inside. Then only a WHITE BLOOD CELL, INFLAMMATION or FEVER card can stop it.; After 8 germ cards, swap sides. The side that stops the most germs wins.
+- **Printable cards: 16 germ cards to cut out:** Cold virus floating in a sneeze; Dust with germs blowing into your eyes; Germs on a dirty hand, about to rub your nose; Germs on an unwashed guava; Bacteria on a rusty nail that pokes your foot; Dirty puddle water splashing on a scraped knee; Germs on a shared spoon; A mosquito carrying a germ; Germs on a door handle; Germs in a cough on the bus; Germs on a dog's paw that touches your arm (no cut); Germs in dirty water from a broken pipe; A splinter carrying bacteria under the skin; Germs in a cut that nobody washed; Germs in dust you breathe in on a road; A germ that got past every wall
 - **Printable cards: 12 defence cards to cut out:** SKIN: a tight wall of dead cells; TEARS: wash the eye at every blink; MUCUS and NOSE HAIRS: trap dust and germs; SNEEZE and COUGH: blast them out; SALIVA: washes the mouth; STOMACH ACID: kills germs in food and water; WHITE BLOOD CELL: finds and eats germs; INFLAMMATION: red, warm, swollen, more defenders arrive; FEVER: the brain turns up the heat; WASH IT: clean a cut and cover it; SOAP: wash hands before eating; FRIENDLY MICROBES: no room for germs
 - **Printable board: The body board:** OUTSIDE (germs start here); THE WALLS (skin, eyes, nose, mouth); INSIDE (blood and white blood cells)
 - **Printable score sheet: Score sheet:** Germ player: germs that got inside ____; Defence player: germs stopped ____
@@ -293,25 +292,25 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent says:* Practice card: germs on an unwashed guava. Someone eats it. Which defence stops these germs?  
   *Child mode:* Practice card: germs on an unwashed guava. You eat it. Which defence stops the germs? Tap it.
   - Ask: How does it stop them? (good: Stomach acid is very sour and kills most germs in food.; Washing the guava first would also help.)
-  - Check: Germs on an unwashed guava are eaten. Which defence stops most of them? → **Stomach acid**
+  - Check: Someone eats a guava without washing it. Which defence kills most of the germs on it? → **Stomach acid**
 - **s3 (10 min)**  
   *Parent does:* Play 8 germ cards. Each time, the Body player says how their defence works.  
   *Parent says:* Turn over the next germ. Who can stop it? Tell us how your defence works.  
   *Child mode:* Turn over a germ card. Play a defence that stops it. Say how it works.
   - Note: Listen for the reason, not just the card. 'Skin stops it because it is a tight wall with no holes' is a great answer. If a cut or a mosquito is involved, the skin wall is broken, so the germ goes INSIDE.
-  - Check: Game moment: 'Germs in a cut that nobody washed.' The skin wall is broken. Which card can stop them now? → **White blood cell**
+  - Check: The germ card says 'Germs in a cut that nobody washed.' The skin is broken. Which defence card can stop these germs now? → **White blood cell**
 - **s4 (3 min)**  
   *Parent does:* Swap sides and play the remaining germ cards.  
   *Parent says:* Now swap. The germ becomes the body, and the body becomes the germ.  
   *Child mode:* Swap sides! Now you are the germ. Try to get in.
 - **s5 (1 min)**  
   *Parent does:* Count the stopped germs on the score sheet.  
-  *Parent says:* Let's count. Which defence did we use most? Which one was the last line inside?  
+  *Parent says:* Let's count. Which defence did we use most? Which defences stopped germs that were already inside?  
   *Child mode:* Count the germs you stopped. Which defence did you use most?
   - Think: Your real body plays this game every second, and it usually wins. What do you think happens on the days it doesn't?
 ### g2 · Germ Tag (15 min)
 - **rules:** Put a cushion in the middle. The cushion is the body.; Skin wall players hold hands in a line in front of the cushion. They can only shuffle sideways.; Germ players try to get round the wall and touch the cushion.; The white blood cell runs freely. If it tags a germ, that germ is out.; Round 2: shout 'FEVER!' Now germs must hop instead of run.; Round 3: the white blood cell remembers the germs from round 1 and starts right next to them.
-- **Printable cards: Role cards:** GERM; GERM; SKIN WALL; SKIN WALL; WHITE BLOOD CELL; FEVER (slows germs down)
+- **Printable cards: Role cards:** GERM; GERM; SKIN WALL; SKIN WALL; WHITE BLOOD CELL; FEVER CALLER (the grown-up who shouts 'FEVER!' in round 2)
 - **s1 (2 min)**  
   *Parent does:* Hand out role cards. Put the cushion down and line up the skin wall.  
   *Parent says:* The cushion is the body. You two are the skin wall. You are germs. And you are a white blood cell, a hunter in the blood.  
@@ -323,9 +322,9 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Ask: What happened when a germ got round the wall? (good: The white blood cell had to chase it.; It nearly reached the body.)
 - **s3 (4 min)**  
   *Parent does:* Play round 2, the fever round, with germs hopping.  
-  *Parent says:* Round two: FEVER! The body has turned up its heat. Germs, you must hop now. Many germs grow slowly when it is hot.  
+  *Parent says:* Round two: FEVER! The body has turned up its heat. Germs, you must hop now. Many germs grow more slowly when the body is hotter.  
   *Child mode:* Round two: FEVER! Germs must hop. Is it easier to catch them now?
-  - Check: Game moment: why do germs hop in the fever round? → **Because fever makes many germs grow more slowly**
+  - Check: In Germ Tag, the germ players must hop in the fever round. What does the hopping stand for? → **Many germs grow more slowly when the body is hotter**
 - **s4 (4 min)**  
   *Parent does:* Play round 3 with the white blood cell starting next to the germs.  
   *Parent says:* Round three: the white blood cell remembers these germs from before. It starts right next to them.  
@@ -396,7 +395,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Check: The thermometer reads 36.7 degrees Celsius. Is that a fever? → **No, it is normal**
 - **s3 (10 min)**  
   *Parent does:* Measure again three more times today: after running about, in the afternoon and in the evening.  
-  *Parent says:* Let's measure again after you have played outside for a while. Then this afternoon, and after dinner. Remember to sit still for a few minutes first, and measure the same way.  
+  *Parent says:* Let's measure again after you have run about or jumped for a few minutes. Then this afternoon, and after dinner. Remember to sit still for a few minutes first, and measure the same way.  
   *Child mode:* Measure again: after playing, in the afternoon and in the evening. Same arm, same way. Write each number.
   - Wait: Come back to this step later in the day.
 - **s4 (4 min)**  
@@ -415,7 +414,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **safety:** Wash hands after handling the dusty cards. Put the cards where a baby or a pet cannot reach them.
 - **record:** Count the dust specks between the lines on each card twice, and write the counts in the table. Then draw a bar chart with one bar for each card.
 - **results table:** Card | Specks between the lines, count 1 | Count 2 | Halfway between the two counts
-- **schedule:** day 1: Make the two cards: sticky tape facing up on one, smooth tape facing up on the other. Lay both flat near an open window. (10 min); day 2: Count the dust specks between the lines on each card with a magnifying glass. Make a bar chart. (15 min)
+- **schedule:** day 1: Make the two cards: sticky tape facing up on one, smooth tape facing up on the other. Lay both flat near an open window. (10 min); day 2: Turn each card over and tap it once. Count the dust specks between the lines on each card with a magnifying glass. Make a bar chart. (15 min)
 - **s1 (3 min)**  
   *Parent does:* Ask your child to breathe in through their nose and think about where the dust in the air goes.  
   *Parent says:* The air we breathe has dust in it, and germs ride on the dust. Inside your nose are tiny hairs and sticky mucus. Today we'll make a pretend nose and test if sticky catches more.  
@@ -427,9 +426,9 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Note: Count only between the two lines, so both cards are counted over the same area. If the sticky card has fewer than 10 specks after a day, leave both cards one more day.
   - Wait: Leave the cards for one day.
 - **s3 (10 min)**  
-  *Parent does:* Count the specks between the lines on each card with the magnifying glass, twice. Write both counts, then the number halfway between them.  
-  *Parent says:* Let's count the specks between the lines on each card. Count twice, because it's easy to miss some. Then we find the number halfway between the two counts.  
-  *Child mode:* Use the magnifying glass. Count the specks between the lines. Count twice. Write the numbers.
+  *Parent does:* Hold each card upside down and tap it once, so loose dust falls off. Then count the specks between the lines on each card with the magnifying glass, twice. Write both counts, then the number halfway between them.  
+  *Parent says:* First we turn each card over and tap it. Air rushes through your nose with every breath. Only dust that stays stuck has really been trapped. Now let's count the specks between the lines on each card. Count twice, because it's easy to miss some. Then we find the number halfway between the two counts.  
+  *Child mode:* Turn each card over and tap it once. Use the magnifying glass. Count the specks between the lines. Count twice. Write the numbers.
 - **s4 (3 min)**  
   *Parent does:* Help your child draw a bar chart, one bar for each card.  
   *Parent says:* Draw a bar for each card. Make it as tall as the number of specks.  
@@ -454,7 +453,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent does:* Hand your child the mirror. Then explain what the tears are doing.  
   *Parent says:* Cut onions let out an invisible gas that stings the eyes. Your eyes don't wait for you to decide. They make extra tears straight away and wash the gas out. Tears are a wall that is always on guard. They wash dust and germs away too, every time you blink. They even hold a chemical that breaks some germs open.  
   *Child mode:* Look in the mirror. Your eyes made tears by themselves. Tears wash out the stinging gas. They wash out dust and germs too.
-  - Check: Onion tears: why did your eyes fill with tears? → **To wash out the stinging gas**
+  - Check: A grown-up cut an onion near you, and your eyes filled with tears. Why? → **To wash out the stinging gas**
   - Think: Your eyes washed themselves without asking you. What else does your body do to protect you without asking?
 ### a2 · Look at Your Skin Wall (15 min)
 - **safety:** Press the tape gently. Do this on skin with no cuts or rashes.
@@ -468,7 +467,8 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent does:* 1. Press a strip of tape on the forearm. 2. Peel it off. 3. Stick it on black paper. 4. Look with the magnifying glass.  
   *Parent says:* Let's peel off some of the wall. Those tiny white flakes are dead skin cells. Your skin's top layer is made of flat dead cells packed tight, like tiles on a roof. New cells grow underneath and push up. The old ones flake off and take germs with them.  
   *Child mode:* Press tape on your arm. Peel it off. Stick it on black paper. The white flakes are old skin cells.
-  - Check: Look at your skin wall: what are the tiny white flakes on the tape? → **Dead skin cells from the top layer**
+  - Note: If you see only a few flakes, try the back of the hand or the elbow, where skin is drier.
+  - Check: You pressed tape on your arm and stuck it on black paper. What are the tiny white flakes on it? → **Dead skin cells from the top layer**
 - **s3 (4 min)**  
   *Parent does:* Talk about what makes the wall strong and what breaks it.  
   *Parent says:* Your skin wall keeps germs out as long as it has no holes. What could make a hole in it?  
@@ -479,20 +479,20 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **safety:** No safety worries. Keep small balls away from babies.
 - **record:** Draw the three steps of a white blood cell eating a germ: touch, wrap, swallow.
 - **s1 (3 min)**  
-  *Parent does:* 1. Put the red and blue balls in the tray. 2. Give your child the sock to wear like a glove.  
-  *Parent says:* The tray is your blood. The blue balls are your own body's cells. The red balls are germs that got in through a cut. Your sock hand is a white blood cell called a phagocyte. That means 'eating cell'.  
-  *Child mode:* The tray is your blood. Blue balls are your own cells. Red balls are germs. Your sock hand is a white blood cell. It eats germs!
+  *Parent does:* 1. Mix the paper balls and the bottle caps in the tray. 2. Give your child the sock to wear like a glove. 3. Put the small bowl next to the tray.  
+  *Parent says:* The tray is your blood. The bottle caps are your own body's cells. The paper balls are germs that got in through a cut. Your sock hand is a white blood cell called a phagocyte. That means 'eating cell'.  
+  *Child mode:* The tray is your blood. Bottle caps are your own cells. Paper balls are germs. Your sock hand is a white blood cell. It eats germs!
 - **s2 (7 min)**  
-  *Parent does:* Ask your child to close their eyes, feel for germs and swallow them into the sock, one at a time.  
-  *Parent says:* A white blood cell has no eyes. It finds germs by touch and by chemical smells. Close your eyes. I'll whisper 'germ' when you touch a red one. Then wrap round it, and pull it inside your sock. Leave the blue ones alone.  
-  *Child mode:* Close your eyes. Feel for germs. When you touch a germ, wrap your sock round it and swallow it. Leave your own cells alone!
-  - Note: Whispering 'germ' stands for the chemical shapes on a germ that a white blood cell's surface can feel. Real white blood cells recognise germs by touch, when shapes fit together.
-  - Check: Be a phagocyte: how does a real white blood cell find a germ? → **It follows chemical signals and feels the germ's shapes**
+  *Parent does:* Ask your child to close their eyes, feel for germs, and wrap the sock hand round each one. Each wrapped germ goes in the bowl.  
+  *Parent says:* A white blood cell has no eyes. It finds germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a germ, close your sock hand round it and drop it in the bowl. Leave the smooth ones alone.  
+  *Child mode:* Close your eyes. Feel the things in the tray. Germs feel crumpled. Your own cells feel smooth. Wrap your sock round a germ. Drop it in the bowl.
+  - Note: Feeling crumpled or smooth stands for the shapes on a germ's surface. Real white blood cells recognise germs by touch, when shapes fit together like a key in a lock.
+  - Check: How does a real white blood cell find a germ? → **It follows chemical signals and feels the germ's shapes**
 - **s3 (5 min)**  
   *Parent does:* Count the germs swallowed. Then talk about what happens next.  
-  *Parent says:* How many germs did you swallow? Inside a real white blood cell, the germ is broken down by strong chemicals. After a lot of eating, the white blood cell often dies. A heap of dead white blood cells and germs is pus.  
-  *Child mode:* Count your germs. Inside a real cell, the germ is broken down. Tired cells die. A heap of them is pus.
-  - Ask: Did you swallow any blue balls by mistake? (good: No, I left them alone.; Yes, one. Real cells try very hard not to do that.)
+  *Parent says:* How many germs are in the bowl? Inside a real white blood cell, the germ is broken down by strong chemicals. After a lot of eating, the white blood cell often dies. A heap of dead white blood cells and germs is pus.  
+  *Child mode:* Count the germs in the bowl. Inside a real cell, the germ is broken down. Tired cells die. A heap of them is pus.
+  - Ask: Did you wrap any bottle caps by mistake? (good: No, I left them alone.; Yes, one. Real cells try very hard not to do that.)
   - Think: Sometimes real white blood cells attack the body's own cells by mistake. Scientists call this an autoimmune illness. Why might it be hard to tell germs from your own cells?
 ### a4 · Count Your Blinks (10 min)
 - **safety:** No safety worries.
@@ -505,7 +505,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent does:* Count again while the person reads silently, then compare.  
   *Parent says:* Now let's count while you read. Do you think the number will be the same?  
   *Child mode:* Count blinks again while someone reads. Is the number the same?
-  - Check: Count your blinks: people usually blink less while reading or looking at a screen. What might that do to their eyes? → **Their eyes may get dry and tired, with fewer tear washes**
+  - Check: People usually blink less while reading or looking at a screen. What might that do to their eyes? → **Their eyes may get dry and tired, with fewer tear washes**
   - Think: People blink about 15 to 20 times a minute when talking. How many times might you blink in a whole day?
 ### a5 · The Lizard's Fever (10 min)
 - **safety:** Do not stay in hot sun for long. Drink water after.
@@ -518,7 +518,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent does:* Say 'Now you are a sick lizard' and see where your child goes. Then tell them about the experiment.  
   *Parent says:* Now you are a sick lizard. Germs got in. In the 1970s, a scientist called Matthew Kluger watched sick desert lizards. They crawled to warmer spots than healthy ones. They gave themselves a fever! And sick lizards kept in a cool place were more likely to die. So fever is not a mistake. It is one of the oldest defences on Earth. Fish and insects do it too.  
   *Child mode:* Now you are a sick lizard. Where do you go? Real sick lizards crawl to the warm rock. They give themselves a fever. It helps them fight germs.
-  - Check: The lizard's fever: sick lizards moved to warmer spots. What does this tell us? → **Fever is an old defence that helps fight germs**
+  - Check: In an experiment, sick lizards moved to warmer spots than healthy lizards did. What does this tell us? → **Fever is an old defence that helps fight germs**
 ### a6 · Draw the Hidden Fight (15 min)
 - **safety:** No safety worries.
 - **record:** Label your drawing: skin, cut, germs, blood vessel, white blood cell, pus, scab.
@@ -532,7 +532,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent says:* Draw white blood cells squeezing out of the blood vessel and eating germs. Draw some tired ones in a pile. That's pus. Now draw a scab on top, like a lid. New skin will grow underneath.  
   *Child mode:* Draw white blood cells eating germs. Draw a pile of tired ones: that's pus. Draw a scab on top like a lid. Label it all.
   - Note: There is no single right drawing. Look for a wall with a gap, germs getting in, white blood cells coming from the blood, and a scab sealing it. Praise any label the child explains in their own words.
-  - Check: In your drawing of the hidden fight, what is the scab for? → **It seals the hole while new skin grows underneath**
+  - Check: What is a scab on a scraped knee for? → **It seals the hole while new skin grows underneath**
 
 ## Projects
 ### p1 · Build the Body Castle (60 min, 2 days)
@@ -572,31 +572,31 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent does:* Set up the paper and the 1 metre mark. Spray 3 times with nothing in the way. Circle and count the coloured spots.  
   *Parent says:* A sneeze can spray tiny drops a long way. Germs ride in those drops. This bottle is our pretend sneeze. Let's see how far it goes with nothing to stop it.  
   *Child mode:* Spray the bottle 3 times at the paper. Nothing in the way. Count the coloured spots.
-  - Note: Use washable food colouring and paper you don't mind spotting. Protect the floor with newspaper.
+  - Note: Set the nozzle to a fine spray, not a jet. Use washable colouring and paper you don't mind spotting. Protect the floor with newspaper.
 - **s2 (15 min)**  
   *Parent does:* Test each stopper: a tissue, a hanky, a cloth mask, a sleeve held over the nozzle. Use a fresh paper or a new colour each time.  
   *Parent says:* Now let's test our stoppers, one at a time. Same place, same three sprays. Only the stopper changes.  
   *Child mode:* Test each stopper. Hold it in front of the spray. Spray 3 times. Count the spots each time.
-  - Check: Sneeze stopper: a hand and an elbow both stopped many drops. Why do doctors say to sneeze into your elbow, not your hand? → **Hands touch food, faces and door handles, and spread the germs**
+  - Check: In the sneeze stopper test, a hand and an elbow both caught many drops. So why do doctors say to sneeze into your elbow, not your hand? → **Hands touch food, faces and door handles, and spread the germs**
 - **s3 (7 min)**  
   *Parent does:* Your child designs, draws and tests their own stopper.  
   *Parent says:* Now invent your own. Draw it first. Then test it the same way.  
   *Child mode:* Invent your own sneeze stopper. Draw it. Test it. How many spots got through?
 ### c2 · The Bandage Designer (30 min)
-- **problem:** A banana has a small 'cut' in its skin. Design a cover that keeps out pretend germs (a sprinkle of flour and a few drops of coloured water), stays on when the banana is turned over, and is easy to take off.
+- **problem:** A banana has a small 'cut' in its skin. Flour and a few drops of coloured water are the pretend germs. Design a cover that keeps them out. It must stay on when the banana is turned over, and be easy to take off.
 - **your turn:** Now invent your own bandage. Draw it, test it, and say how it is like the skin wall it replaces.
 - **constraints:** Use only things from home, like cloth, paper, cling film, cotton and tape.; The cover must stay on when you turn the banana over.; Test each cover the same way.
 - **general:** A plaster: a soft pad over the cut, sticky tape round the edges.; A clean cloth tied round, like a bandage.; First wash the cut, then cover it.
 - **creative:** Try a clean leaf as a cover. Does it keep out the flour and the water?; Make a cover with a soft middle and a waterproof top.; The Sushruta Samhita, an old Indian book on surgery, describes cleaning wounds and binding them with clean cloth. Try a design like that.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Make a small, shallow cut in the banana peel with a butter knife.  
-  *Parent says:* This banana's peel is its skin. I've made a small cut, a hole in the wall. Your job is to design a cover that keeps the germs out until the skin heals.  
+  *Parent says:* This banana's peel is its skin. I've made a small cut, a hole in the wall. Your job is to design a cover that keeps the pretend germs out of the cut.  
   *Child mode:* A grown-up makes a cut in the banana peel. Your job: design a cover that keeps germs out.
 - **s2 (18 min)**  
   *Parent does:* Your child makes and tests at least two covers: sprinkle flour, drip coloured water, turn the banana over, then lift the cover.  
   *Parent says:* Sprinkle on the pretend germs. Turn the banana over. Did the cover stay on? Lift it. Is the cut still clean?  
   *Child mode:* Make a cover. Sprinkle flour and drip coloured water on it. Turn the banana over. Lift the cover. Is the cut clean?
-  - Check: Bandage designer: why do we cover a cut at all? → **The cut is a hole in the skin wall, and a cover keeps germs out while it heals**
+  - Check: Why do we cover a cut on our skin? → **The cut is a hole in the skin wall, and a cover keeps germs out while it heals**
 - **s3 (7 min)**  
   *Parent does:* Talk about which cover worked best and why, and how it is like real skin.  
   *Parent says:* Which cover kept the cut cleanest? How is it like skin? What would make it better?  
@@ -611,7 +611,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    Options: Skin / Hair / Teeth / Nails  
    **Answer:** Skin. *Why:* Skin covers the whole body. Its tight top layer of dead cells keeps germs out unless there is a cut. Hair and nails protect a little, but they do not wrap the whole body.
 3. (fill) The sticky stuff in your nose that traps dust and germs is called ____.  
-   **Answer:** ['mucus']. *Why:* Mucus is sticky, so dust and germs that touch it get stuck. Then you blow it out or swallow it, and stomach acid deals with it.
+   **Answer:** ['mucus']. *Why:* Mucus is sticky, so dust and germs that touch it get stuck. Then you blow it out or swallow it. Stomach acid kills many of the swallowed germs.
 4. (fill) Tiny cells in your blood that find and eat germs are called ____ blood cells.  
    **Answer:** ['white']. *Why:* White blood cells travel in the blood and hunt germs. They are almost see-through, but a big pile of them looks pale and creamy.
 5. (match) Match each defence to the place it guards.  
@@ -647,9 +647,9 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 1. (mcq) Why do you shiver at the start of a fever, even though you are getting hotter?  
    Options: The brain has turned the body's heat knob up, so normal now feels too cold / Because the room is cold / Because germs are cold / Because white blood cells are cold  
    **Answer:** The brain has turned the body's heat knob up, so normal now feels too cold. *Why:* In a fever the brain sets a new, higher temperature. Until the body reaches it, normal 37 degrees feels too cold, so you shiver and want a blanket. Shivering makes heat. Picking 'the room is cold' is natural, but you shiver even in a warm room.
-2. (mcq) Remember the sticky nose test, with a sticky tape card and a smooth tape card by the window? The sticky card caught 42 specks. The smooth card caught 6. What does this show?  
+2. (mcq) Remember the sticky nose test, with a sticky tape card and a smooth tape card by the window? In one family's test, the sticky card held 42 specks and the smooth card held 6. What does this show?  
    Options: Sticky surfaces, like mucus, trap much more dust / Smooth cards make dust disappear / Dust only lands on sticky things / The test was not fair  
-   **Answer:** Sticky surfaces, like mucus, trap much more dust. *Why:* Both cards were in the same place for the same time. Only stickiness changed, so stickiness must trap more dust. Dust lands on the smooth card too, but most of it blows off again.
+   **Answer:** Sticky surfaces, like mucus, trap much more dust. *Why:* Both cards were in the same place for the same time. Only stickiness changed, so stickiness must trap more dust. Dust lands on the smooth card too, but most of it falls off when the card is tapped.
 3. (mcq) Remember the four apples in bags? Apple C had soil rubbed in its cut. Apple D had soil, then was washed. Which went bad faster?  
    Options: Apple C, because nobody washed the germs away / Apple D, because water makes apples rot / They were exactly the same / Neither, because soil has no microbes  
    **Answer:** Apple C, because nobody washed the germs away. *Why:* Washing took away many of the microbes from the soil. So the washed apple usually rots more slowly. Soil is full of microbes, which is why it made apple C go bad. This is why we wash a scrape.
@@ -689,7 +689,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** Waxy leaves, closing leaf pores, sticky sap and chemical alarms. *Why:* Plants have their own defences. They close the tiny holes in their leaves when germs land, seal wounds with sap, and send chemical warnings to other leaves. Picking 'can't defend' is natural, because we can't see a plant's fight.
 3. (mcq) Bacteria are single cells. Can they defend themselves against viruses?  
    Options: Yes, some cut up virus pieces and remember them, using a system called CRISPR / No, bacteria have no defences / Only if they live inside people / Only in hot places  
-   **Answer:** Yes, some cut up virus pieces and remember them, using a system called CRISPR. *Why:* Scientists found in 2007 that some bacteria, like those used to make yoghurt, store bits of viruses that attacked them and use them to recognise and cut the virus next time. Even a single cell has an immune system.
+   **Answer:** Yes, some cut up virus pieces and remember them, using a system called CRISPR. *Why:* In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, they use these bits to recognise the virus and cut it up. Even a single cell has an immune system.
 4. (fill) A fever is controlled by the ____, which works like a heat knob.  
    **Answer:** ['brain']. *Why:* A part of the brain sets the body's temperature. Chemicals from white blood cells reach it and turn the setting up.
 5. (fill) Celsus, a Roman writer, said inflammation has four signs: redness, heat, swelling and ____.  
@@ -697,13 +697,13 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 6. (mcq) A body thermometer reads 101 degrees Fahrenheit. What is that in Celsius, roughly, and is it a fever?  
    Options: About 38.3 degrees Celsius: yes, a fever / About 101 degrees Celsius: boiling hot / About 36 degrees Celsius: normal / You can't tell  
    **Answer:** About 38.3 degrees Celsius: yes, a fever. *Why:* Normal is about 98.6 degrees Fahrenheit, which is 37 degrees Celsius. A fever starts at about 100.4 degrees Fahrenheit, which is 38 degrees Celsius. So 101 Fahrenheit is about 38.3 Celsius, a fever. Picking 101 Celsius mixes up the two scales.
-7. (mcq) Remember your temperature through the day? One child read 36.3 at 7 am and 36.9 after running. What is the best explanation?  
+7. (mcq) Riya, a girl in Class 3, took her temperature during the day. It read 36.3 degrees at 7 am and 36.9 after running. What is the best explanation?  
    Options: Body temperature changes a little in a day, and exercise makes heat / The child had a fever after running / The thermometer broke / Temperature never changes  
    **Answer:** Body temperature changes a little in a day, and exercise makes heat. *Why:* A small change of half a degree or so is normal. Moving muscles make heat, and the body is coolest early in the morning. 36.9 is not a fever, because a fever is 38 or more.
 8. (truefalse) White blood cells sometimes attack the body's own cells by mistake.  
    **Answer:** True. *Why:* True. This is called an autoimmune illness. It shows how hard the job of telling 'me' from 'not me' is. You will learn more in Class 5.
 9. (truefalse) Getting your hair wet on a cold day is enough, by itself, to give you a cold.  
-   **Answer:** False. *Why:* False. A cold is caused by a virus. Without the virus, you can't catch a cold. Some studies suggest cold noses may fight viruses a little less well, so it is not a silly worry, but the virus is what matters.
+   **Answer:** False. *Why:* False. A cold is caused by a virus. Without the virus, you can't catch a cold. Some studies suggest a cold nose may fight viruses a little less well. So it is not a silly worry, but the virus is what matters.
 10. (order) Put a fever in order, from start to finish.  
    **Answer:** order shown. *Why:* The signal comes first, then the new setting, then shivering to reach it. When the fight ends, the setting drops, and you sweat to cool down.
 11. (match) Match each living thing to its defence.  
@@ -737,7 +737,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** Traps dust and germs before they reach your lungs. *Why:* Mucus is sticky. Dust and germs get stuck in it, and you blow them out or swallow them. Remember the sticky nose test: the sticky tape trapped far more dust.
 5. (mcq) What do white blood cells do?  
    Options: Find germs and destroy them / Carry oxygen round the body / Make your skin white / Make your bones strong  
-   **Answer:** Find germs and destroy them. *Why:* White blood cells hunt germs. Some eat them whole. Carrying oxygen is the job of red blood cells. Picking 'make skin white' comes from the name, but white blood cells are inside the blood, not in skin colour.
+   **Answer:** Find germs and destroy them. *Why:* White blood cells hunt germs. Some eat them whole. Carrying oxygen is the job of red blood cells. Picking 'make skin white' comes from the name, but white blood cells live in the blood and have nothing to do with skin colour.
 6. (mcq) Two hours after you scrape your knee, the skin round it is red and warm. Why?  
    Options: More blood is bringing white blood cells to fight germs / The scrape is getting bigger / The skin is burning / The scrape is healed  
    **Answer:** More blood is bringing white blood cells to fight germs. *Why:* This is inflammation. Blood vessels widen and bring defenders to the spot. Picking 'getting bigger' is a common worry. The redness usually means your body is busy fighting.
@@ -749,7 +749,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** 38.6 degrees Celsius. *Why:* Doctors usually call 38 degrees Celsius or more a fever. The others are normal. Remember taking your temperature through the day: it changed a little, but stayed well below 38.
 9. (mcq) A child has a fever. Which of these means a grown-up should call a doctor quickly?  
    Options: The child has a stiff neck and a new rash / The child feels warm and sleepy for one evening / The child wants water / The child wants a blanket  
-   **Answer:** The child has a stiff neck and a new rash. *Why:* A stiff neck, a rash, trouble breathing, a fit, a fever of 40 degrees or more, a fever lasting more than 3 days, or any fever in a baby under 3 months all need a doctor. Feeling warm, sleepy and thirsty is common in an ordinary fever.
+   **Answer:** The child has a stiff neck and a new rash. *Why:* A doctor is needed for a stiff neck, a rash, trouble breathing or a fit. A doctor is also needed for a fever of 40 degrees or more, one lasting more than 3 days, or any fever in a baby under 3 months. Feeling warm, sleepy and thirsty is common in an ordinary fever.
 10. (mcq) In the apple skin test, why did we keep everything the same except the skin?  
    Options: So we could be sure the skin made the difference / To make it quicker / Because apples are all the same anyway / So the apples taste the same  
    **Answer:** So we could be sure the skin made the difference. *Why:* In a fair test only one thing changes. Then, if the results differ, we know what caused it. Picking 'apples are all the same' misses why we chose them carefully.
@@ -796,7 +796,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **Why do some immune systems attack harmless things, like pollen or peanuts?** Allergies have become more common in many countries. Scientists have several ideas, including less contact with harmless microbes when young, but it is not settled.
 - **How many kinds of white blood cells are there, really?** Every few years scientists find new kinds, or new jobs for old kinds. The list keeps growing.
 - **Do our friendly microbes change how our immune system works, and even how we feel?** Experiments in mice suggest gut microbes affect the immune system a lot. How much this is true in people is still being studied.
-- **How did the first living things first learn to tell themselves from the outside world?** Even the oldest cells had a skin, a membrane, keeping inside separate from outside. How the first defences began, billions of years ago, is a mystery.
+- **How did the first living things begin to tell themselves apart from the outside world?** Even the oldest cells had a skin, a membrane, keeping inside separate from outside. How the first defences began, billions of years ago, is a mystery.
 
 ## Questions to ask kids
 - You just touched the door handle. Why didn't the germs get inside you?
@@ -838,12 +838,12 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - Why did the saliva get a job at the dentist? *It was great at washing up.*
 
 ## Connected maths
-- In the sticky nose test, the sticky card caught 42 dust specks. The smooth card caught 6. How many more specks did the sticky card catch? **36 more specks.**. The sticky card caught 42 specks. The smooth card caught 6. 42 take away 6 is 36. So the sticky card caught 36 more. You can check: 6 + 36 = 42. (queues `math.addition-subtraction.word-problems.L3`)
-- The sticky card caught 42 specks and the smooth card caught 6. How many times more did the sticky card catch? **7 times more.**. 42 divided by 6 is 7. So the sticky card caught 7 times as many specks. Check: 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42. (queues `math.division.division-facts.L3`)
-- Riya measured her temperature: 36.3 degrees Celsius at 7 am and 36.9 after running. Later, when she had a cold, it read 38.4. Read the thermometer numbers. Which one is a fever? **38.4 degrees Celsius is a fever.**. Doctors usually call 38 degrees Celsius or more a fever. 36.3 and 36.9 are both below 38, so they are normal. 38.4 is more than 38. So 38.4 is a fever. The number after the dot is tenths of a degree: 38.4 is 38 degrees and 4 tenths. (queues `math.temperature.reading-thermometers.L3`)
-- Amma blinked 18 times in one minute while talking. How many times would she blink in 5 minutes of talking, if she kept the same speed? **90 times.**. 18 blinks each minute, for 5 minutes. 18 times 5 is 90. You can also add: 18 + 18 + 18 + 18 + 18 = 90. That is 90 fresh washes of tears on each eye. (queues `math.multiplication.equal-groups.L3`)
-- In the apple skin test, apple C first had a soft patch on day 3. Apple D, which was washed, first had a soft patch on day 5. How many days longer did washing keep apple D firm? **2 days longer.**. Apple C went soft on day 3. Apple D went soft on day 5. 5 take away 3 is 2. So washing kept apple D firm for 2 more days. Washing took away many of the soil microbes, so fewer were left to start the rot. It did not take them all away, because apple D still went soft in the end. (queues `math.addition-subtraction.word-problems.L3`)
-- In the sneeze stopper challenge, with nothing in the way 60 spots landed on the paper. With a hand in front, 12 landed. With an elbow, 4. Draw a bar chart. How many fewer spots got through with the elbow than with nothing? **56 fewer spots.**. With nothing, 60 spots. With the elbow, 4 spots. 60 take away 4 is 56. So the elbow stopped 56 more spots than nothing at all. In the bar chart the elbow's bar is much shorter. (queues `math.data.bar-charts.L3`)
+- In one family's sticky nose test, the sticky card caught 42 dust specks. The smooth card caught 6. How many more specks did the sticky card catch? **36 more specks.**. The sticky card caught 42 specks. The smooth card caught 6. 42 take away 6 is 36. So the sticky card caught 36 more. You can check: 6 + 36 = 42. (queues `math.addition-subtraction.word-problems.L3`)
+- In the same test, the sticky card caught 42 specks and the smooth card caught 6. How many times as many specks did the sticky card catch? **7 times as many.**. 42 divided by 6 is 7. So the sticky card caught 7 times as many specks. Check: 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42. (queues `math.division.division-facts.L3`)
+- Riya, a girl in Class 3, measured her temperature. It was 36.3 degrees Celsius at 7 am and 36.9 after running. Later, when she had a cold, it read 38.4. Which of these numbers is a fever? **38.4 degrees Celsius is a fever.**. Doctors usually call 38 degrees Celsius or more a fever. 36.3 and 36.9 are both below 38, so they are normal. 38.4 is more than 38. So 38.4 is a fever. The number after the dot is tenths of a degree: 38.4 is 38 degrees and 4 tenths. (queues `math.temperature.reading-thermometers.L3`)
+- Riya's mother blinked 18 times in one minute while talking. If she kept blinking at the same speed, how many times would she blink in 5 minutes of talking? **90 times.**. 18 blinks each minute, for 5 minutes. 18 times 5 is 90. You can also add: 18 + 18 + 18 + 18 + 18 = 90. That is 90 fresh washes of tears on each eye. (queues `math.multiplication.equal-groups.L3`)
+- In one family's apple skin test, apple C first had a soft patch on day 3. Apple D, which was washed, first had a soft patch on day 5. How many days longer did washing keep apple D firm? **2 days longer.**. Apple C went soft on day 3. Apple D went soft on day 5. 5 take away 3 is 2. So washing kept apple D firm for 2 more days. Washing took away many of the soil microbes, so fewer were left to start the rot. It did not take them all away, because apple D still went soft in the end. (queues `math.addition-subtraction.word-problems.L3`)
+- In one family's sneeze stopper test, 60 spots landed on the paper with nothing in the way. With a hand in front, 12 landed. With an elbow, 4. Draw a bar chart. How many fewer spots got through with the elbow than with nothing? **56 fewer spots.**. With nothing, 60 spots. With the elbow, 4 spots. 60 take away 4 is 56. So 56 fewer spots got through with the elbow. In the bar chart the elbow's bar is much shorter. (queues `math.data.bar-charts.L3`)
 
 ## Song
 This Body Is a Universe (sci.body.L3): Topic-level song
@@ -853,7 +853,7 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Learn.Genetics: Cell Size and Scale](https://learn.genetics.utah.edu) · interactive: Search 'cell size and scale'. Slide from a grain of rice down to a red blood cell, a white blood cell, a bacterium and a virus, to see how tiny they are.
 - [NHS: Fever in children](https://www.nhs.uk/conditions/fever-in-children/) · interactive: For parents: the UK health service's plain guide to fevers in children, and when to get help.
 - [Foldscope](https://foldscope.com) · interactive: A paper microscope, invented by Manu Prakash, an Indian-born scientist, and used in many Indian schools. With a slide of blood from a kit, you can see blood cells.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A large science centre with hands-on exhibits. Look for the galleries about the human body and health.
 - [National Science Centre](https://www.nscdelhi.org) · place · New Delhi: A science centre with many hands-on galleries. Look for exhibits about the body and health.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits about living things and the body.

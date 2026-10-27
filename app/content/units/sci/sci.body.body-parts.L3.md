@@ -1,9 +1,9 @@
 # The outside of your body: what each part does and how to care for it
 `sci.body.body-parts.L3`
 
-**Summary.** Your two thumbs grew from the same genes, yet their fingerprints are different. Your skin, hair, nails, eyes, ears, nose, mouth, hands, feet and private parts are external organs: body parts you can see, each with its own job. Many of them have guards that people mistake for dirt, such as earwax, nose mucus and eyelashes. The top layer of your skin is dead cells, and new skin keeps growing underneath to replace it. Each part needs its own care, and washing hands with soap is one of the most important habits of all.
+**Summary.** Your two thumbs grew from the same genes, yet their fingerprints are different. Your skin, hair, nails, eyes, ears, nose, mouth, hands, feet and private parts are external organs: body parts you can see, each with its own job. Some of their guards, such as earwax and nose mucus, look like dirt but protect you. The top layer of your skin is dead cells, and new skin keeps growing underneath to replace it. Each part needs its own care, and washing hands with soap is one of the most important habits of all.
 
-**Intro.** *Press your thumb onto a clean glass or a steel tumbler. Now breathe on that spot. A swirly pattern appears. That is your thumbprint. Nobody has ever been found with the same one, not even an identical twin.* Your skin left that mark without you trying. Sweat comes out of tiny holes along the ridges of your fingertips. Your fingers also pick up a little oil from your face and hair. So everything you touch keeps a faint copy of your ridges. Every outside part of your body has a job like this. Some parts have guards that most people think are dirt. And every part needs its own kind of care.
+**Intro.** *Rub your thumb on the side of your nose, to pick up a little oil. Press it onto a clean glass or a steel tumbler. Now breathe on that spot. A swirly pattern appears. That is your thumbprint. Nobody has ever been found with the same one, not even an identical twin.* Your skin left that mark without you trying. Sweat comes out of tiny holes along the ridges of your fingertips. Your fingers also pick up a little oil from your face and hair. So everything you touch keeps a faint copy of your ridges. Every outside part of your body has a job like this. Some parts have guards that most people think are dirt. And every part needs its own kind of care.
 
 ## Learning outcomes
 0. I can name the external organs (skin, hair, nails, eyes, ears, nose, mouth and teeth, hands, feet and private parts) and say the job of each one.
@@ -127,7 +127,7 @@ Many people think earwax and mucus are just dirt to dig out. In fact, they are t
 - e.g. Tears wash a speck of dust to the corner of your eye.
 ### What are fingertip ridges for? · *debated*
 Everyone agrees that fingertips have ridges, and that every person's pattern is different, even an identical twin's. Each of your ten fingers has its own pattern too, so even your two thumbs differ. The ridges form before you are born, between about 10 and 16 weeks in the womb. They grow from a deeper layer of skin, so after a scrape the same pattern grows back. But what are the ridges for? Scientists still argue.
-- e.g. Pressing your fingertips on a wet steel plate, you can still feel and grip it.
+- e.g. On a wet steel plate, your fingertips can still feel and grip.
 - e.g. Running your fingertip over cloth, you can tell cotton from silk with your eyes shut.
 - **Grip idea:** Many people thought ridges help us grip, like the grooves on a tyre. In 2009, a test in Britain found that on smooth, dry surfaces, ridges actually grip a little less. They may still help grip on rough or wet things, by letting water escape.
 - **Feeling idea:** In 2009, scientists in France built a fake fingertip with ridges. When it slid over a surface, the ridges made tiny shakes that helped it sense fine textures. So ridges may help us feel.
@@ -312,24 +312,24 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent says:* Let's finish by saying every care rule together, from head to toe.  
   *Child mode:* Count the points. Then touch each part on the mat. Say its care rule out loud.
   - Check: Game moment: you just won the Nose set. Which is the guard card? → **Nose hairs and sticky mucus**
-### g2 · Who Am I? Body Riddles (15 min)
-- **rules:** Shuffle the riddle cards. One player is the reader.; The reader reads a riddle in the voice of the body part, without saying the answer in brackets.; The first to guess right gets the card.; Then everyone acts out one way to care for that part, for a token.; Swap readers each turn. The player with the most cards and tokens wins.
-- **Printable cards: 12 riddle cards:** I am the biggest organ you have. I cover all of you. I flake off every day. Who am I? (Skin); I am dead, but I keep growing. A haircut never hurts me. Who am I? (Hair); I am hard and I grow about 3 millimetres a month. Germs love to hide under me. Who am I? (Nails); I shut in a flash when something comes near. I spread tears over the eye. Who am I? (Eyelid); I am sticky and yellow-brown. People think I am dirt, but I am a guard. Who am I? (Earwax); I am a thin skin deep in your ear. I shake when sound arrives. Who am I? (Eardrum); I warm the air, wet it and catch the dust in it. I also smell your dinner. Who am I? (Nose); I am the hardest thing in your body, but germs that feed on sugar make acid that eats me. Who am I? (Enamel); I can turn and touch every finger. Without me, holding a pencil is very hard. Who am I? (Thumb); I carry all your weight. My middle curves up like a spring. Who am I? (Foot); I am made of tiny ridges, and nobody else in the world has me. Who am I? (Fingerprint); I am covered by your underwear. I am private. I belong to you. Who am I? (Private parts)
+### g2 · Guess the Body Part (15 min)
+- **rules:** Shuffle the clue cards. One player is the reader.; The reader reads a clue in the voice of the body part, without saying the answer in brackets.; The first to guess right gets the card.; Then everyone acts out one way to care for that part, for a token.; Swap readers each turn. The player with the most cards and tokens wins.
+- **Printable cards: 12 clue cards:** I am the biggest organ you have. I cover all of you. I flake off every day. Who am I? (Skin); I am dead, but I keep growing. A haircut never hurts me. Who am I? (Hair); I am hard and I grow about 3 millimetres a month. Germs love to hide under me. Who am I? (Nails); I shut in a flash when something comes near. I spread tears over the eye. Who am I? (Eyelid); I am sticky and yellow-brown. People think I am dirt, but I am a guard. Who am I? (Earwax); I am a thin skin deep in your ear. I shake when sound arrives. Who am I? (Eardrum); I warm the air, wet it and catch the dust in it. I also smell your dinner. Who am I? (Nose); I am the hardest thing in your body, but germs that feed on sugar make acid that eats me. Who am I? (Enamel); I can turn and touch every finger. Without me, holding a pencil is very hard. Who am I? (Thumb); I carry all your weight. My middle curves up like a spring. Who am I? (Foot); I am made of tiny ridges, and nobody else in the world has me. Who am I? (Fingerprint); I am covered by your underwear. I am private. I belong to you. Who am I? (Private parts)
 - **Printable tokens: Act-it-out tokens:** 🧼; 🪥; 🧻
 - **s1 (2 min)**  
-  *Parent does:* Shuffle the 12 riddle cards. Choose the first reader.  
+  *Parent does:* Shuffle the 12 clue cards. Choose the first reader.  
   *Parent says:* In this game, a body part talks to us. We must guess who it is.  
-  *Child mode:* A body part is talking. Listen to the riddle. Guess who it is.
+  *Child mode:* A body part is talking. Listen to the clue. Guess who it is.
 - **s2 (10 min)**  
-  *Parent does:* 1. The reader reads one riddle. 2. Players guess. 3. Everyone acts out one way to care for that part. 4. Swap readers.  
+  *Parent does:* 1. The reader reads one clue. 2. Players guess. 3. Everyone acts out one way to care for that part. 4. Swap readers.  
   *Parent says:* Read it in the body part's own voice. Then we all show how to look after it.  
-  *Child mode:* Read the riddle in a funny voice. Others guess. Then everyone acts out the care.
-  - Note: If a child guesses 'nails' for the hair riddle, that is a good thought. Nails are also dead and growing. Ask what clue tells them apart: the haircut.
+  *Child mode:* Read the clue in a funny voice. Others guess. Then everyone acts out the care.
+  - Note: If a child guesses 'nails' for the hair clue, that is a good thought. Nails are also dead and growing. Ask what clue tells them apart: the haircut.
   - Check: Game moment: 'I am dead, but I keep growing. A haircut never hurts me.' Who am I? → **Hair**
 - **s3 (3 min)**  
-  *Parent does:* Count cards and tokens. Ask each player to make up one new riddle of their own.  
-  *Parent says:* Now make up your own riddle, about any body part.  
-  *Child mode:* Make up your own riddle about a body part. Can the others guess?
+  *Parent does:* Count cards and tokens. Ask each player to make up one new clue of their own.  
+  *Parent says:* Now make up your own clue, about any body part.  
+  *Child mode:* Make up your own clue about a body part. Can the others guess?
 
 ## Experiments
 ### e1 · The Bread Test: what do unwashed hands leave behind? (35 min, 6 days)
@@ -547,7 +547,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Child mode:* Watch a grown-up's eyes for one minute. Make a mark every time they blink.
   - Note: Grown-ups usually blink about 15 to 20 times a minute when talking. Children often blink less. When reading or looking at a screen, people blink much less, which is why eyes get dry.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* Your child closes their eyes and tips their head back a little. Drip a few drops of water on the forehead just above one eyebrow. Watch where it runs.  
+  *Parent does:* Your child sits up straight, facing forward, and closes their eyes. Drip a few drops of water on the forehead just above one eyebrow. Watch where it runs.  
   *Parent says:* Where does the water go when it reaches the eyebrow?  
   *Child mode:* Close your eyes. A grown-up drips water above your eyebrow. Where does it run?
   - Check: The water runs round the eyebrow and down the side of the face. What is the eyebrow's job? → **To send sweat and rain away from the eyes**
@@ -876,7 +876,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - What do you call a hair that won't stop growing? *Normal. That's what hair does.*
 - Why did the foot go to the party in chappals? *It wanted to keep its sole safe.*
 - What's an ear's favourite music? *Anything not too loud.*
-- Why did the nail get cut? *It was getting too long in the story.*
+- Why did the nail cutter never tell long stories? *It always cut them short.*
 - Why do eyebrows never get wet when it rains? *They send the drips the other way.*
 
 ## Connected maths

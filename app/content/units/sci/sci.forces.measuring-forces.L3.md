@@ -1,9 +1,9 @@
 # How to measure a force, and why we all use newtons
 `sci.forces.measuring-forces.L3`
 
-**Summary.** How many coins in a cup does it take to pull a notebook across a table? You and a grown-up can both count carefully and still get different numbers. Both of you can be right, if you used different coins. That is why scientists everywhere agreed to measure force in one shared unit, the newton. You will invent your own unit, then learn how a forcemeter, a spring tool, measures force in newtons. Last, you will meet forces from the tiny pull of one molecule to the huge pull between the Earth and the Moon.
+**Summary.** How many coins in a cup does it take to pull a notebook across a table? You and a grown-up can get different numbers and both be right, because you used different coins. That is why scientists everywhere agreed to measure force in one shared unit, the newton. You will invent your own unit, then learn to measure force in newtons with a forcemeter, a spring tool. Last, you will meet forces from the tiny pull of one molecule to the huge pull between the Earth and the Moon.
 
-**Intro.** *Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of atta in the other. How many times harder does the big one pull your hand down? Now, how could you tell a friend in another city exactly how hard it pulls?* Words like 'heavy' and 'light' mean different things to different people. Your 'heavy' may be your grandmother's 'light'. A shopkeeper selling rice, a builder hanging a bridge and a doctor testing your grip all need something better. They need a number that means the same thing to everyone. Nature gives us forces, but it does not give us numbers for them. To get a number, people must choose a unit and count it. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.
+**Intro.** *Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of atta in the other. How many times harder does the big one pull your hand down? Now, how could you tell a friend in another city exactly how hard it pulls?* Words like 'heavy' and 'light' mean different things to different people. Your 'heavy' may be your grandmother's 'light'. A shopkeeper selling rice, an engineer building a bridge and a doctor testing your grip need more than that. They need a number that means the same thing to everyone. To get one, people choose a unit and count it. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.
 
 ## Learning outcomes
 0. I can invent my own unit of pull, such as 'one coin', and use it to compare pulls.
@@ -99,7 +99,7 @@ A forcemeter shows pulls. So how do we put a number on a push? A bathroom scale 
 ### What is a push, underneath? · *defined*
 **Definition:** When you push something, the electrons on the outside of your atoms repel the electrons of its atoms. Almost every push and pull you feel is this one electric force.
 
-Zoom in on your finger pressing a table. Your skin and the table are both made of atoms. Each atom has electrons on its outside. Electrons repel each other, which means they push each other away. So your finger never quite touches the table. The electrons push apart, and that push is what you feel. A string pulling a cup is the same force. The atoms of the string hold on to each other, so a pull at one end reaches the other. A spring, the grip of friction and the push of the wind are this force too. Even a forcemeter's spring works this way: its atoms pull back on their neighbours when you stretch it. In everyday life, only the pull of gravity is different. So the friction you measured in the coin test, the grip between the notebook and the table, comes from the electric pushes and pulls between trillions of atoms.
+Zoom in on your finger pressing a table. Your skin and the table are both made of atoms. Each atom has electrons on its outside. Electrons repel each other, which means they push each other away. So your finger never quite touches the table. The electrons push apart, and that push is what you feel. A string pulling a cup is the same force. The atoms of the string hold on to each other, so a pull at one end reaches the other. A spring, the grip of friction and the push of the wind are this force too. Even a forcemeter's spring works this way: its atoms pull back on their neighbours when you stretch it. In everyday life, only the pull of gravity is different. In the coin test, you measured friction, the grip between the notebook and the table. That grip comes from electric pushes and pulls between trillions of atoms.
 - e.g. Press your palm on a table. The push you feel is electrons repelling electrons.
 - e.g. The string in the coin test pulls because its atoms hold on to their neighbours.
 - e.g. The weight of the coins comes from gravity, the one everyday force that is not electric.
@@ -196,7 +196,7 @@ We have been inventing units of pull, counting coins and water, and meeting the 
 - *what is life:* A crow feels the push of the wind, and a root senses which way is down, without any numbers. People invented numbers for forces so they could share and compare what they sense.
 - *what is this world:* The Earth pulled mangoes down long before anyone had a unit for force. The pull is part of nature. The number in newtons is something people added, by agreeing on a unit.
 
-Before anyone measured it, the notebook's pull was just a pull, with no number. To count it, people choose one small pull as the unit, such as one coin, one ratti seed or one newton. Then they count how many of that one unit fit. Every reading on every forcemeter, from a molecule's tug to the pull between the Earth and the Moon, is that same one unit counted many times. Because everyone starts from the same one, a number in Pune can be compared with a number in Paris.
+Before anyone measured it, the notebook's pull was just a pull, with no number. To count it, people choose one small pull as the unit, such as one coin, one ratti seed or one newton. Then they count how many of that one unit fit. Every number in newtons, from a molecule's tug to the pull between the Earth and the Moon, counts that same one unit. Because everyone starts from the same one, a number in Pune can be compared with a number in Paris.
 
 - **Rig Veda 1.164.46:** Truth is one. The wise call it by many names. (One notebook's pull was counted as 6 big coins, 12 small coins or about half a newton. The numbers changed with the unit. The pull itself stayed the same.)
 - **Quran 55:7–9:** The heavens were raised, and a balance was set. So do not cheat the balance. Weigh fairly, and do not make the balance short. (A balance is a promise between people. In the story Ten Packets of Salt, one wrong pointer cheated every porter, until a shared standard showed it.)
@@ -218,7 +218,7 @@ Before anyone measured it, the notebook's pull was just a pull, with no number. 
 - *deep:* Why can we trust a spring more than our hands? (hint: Does a spring get tired, or expect a big box to be heavy?)
 - *big:* Your hands were fooled by the big and small boxes. What else might our senses get wrong? (hint: Think about how warm water feels after your hands were in ice.)
 - *deep:* How does the Earth pull a mango without touching it? (hint: Scientists have three different answers. None of them is the final word.)
-- *deep:* Is there a smallest possible force? Is there a biggest? (hint: Scientists have measured a force of 42 yoctonewtons. And the pull near a black hole is beyond anything on our ladder.)
+- *deep:* Is there a smallest possible force? Is there a biggest? (hint: Scientists have measured a force of 42 yoctonewtons, far smaller than one molecule's pull. Could there be a limit below that?)
 - *big:* On the Moon you would weigh much less but still be all of you. So what is the real 'you': your weight, or something else? (hint: What stays the same about you everywhere you go?)
 
 ## Story: Ten Packets of Salt
@@ -307,7 +307,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent says:* Before every game we check the zero. Where is the pointer with just the empty bag on it?  
   *Child mode:* Hang the empty bag on the hook. Look at the pointer. Is it on zero?
   - Note: An empty cloth bag pulls with about half a newton, so the pointer may move a little. If it does, turn the zero screw with the empty bag hanging. Or write down the empty bag's reading and take it away from every reading. Both ways are fair, as long as you do the same every time.
-  - Check: Game moment: before the first card, the referee checks the forcemeter. Where should the pointer be with only the empty bag on? → **exactly on zero**
+  - Check: Before the game starts, you hang the empty bag on the forcemeter. Where should the pointer be? → **exactly on zero**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns turning over a card. 2. Everyone holds the thing and writes a guess in newtons. 3. Put it in the bag and hang it on the forcemeter. 4. Read the pointer at eye level. 5. Score the guesses.  
   *Parent says:* Hold it in your hand. Compare it with the apple. Is it like two apples? Ten apples? Now write your guess.  
@@ -349,7 +349,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent does:* When all the cards are placed, put each rung's cards in order from smallest to biggest. Read the whole ladder from bottom to top.  
   *Parent says:* Now let's read the whole ladder from the bottom to the top, slowly. Which force surprised you most? Why?  
   *Child mode:* Put each rung in order. Read the ladder from bottom to top. Which force amazes you most?
-  - Think: Which matters more to you today: the tiny pulls inside your cells, or the huge pull of the Moon?
+  - Think: Both the molecule and the Moon have numbers in newtons. Which one do you think was harder to measure? Why?
 
 ## Experiments
 ### e4 · Invent a Unit: how many coins to pull a notebook? (40 min)
@@ -482,11 +482,11 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **question:** If two boxes pull a forcemeter with exactly the same force, will they feel the same when we lift them?
 - **predict:** Before you start, guess. Will people say the big box feels heavier, the small box feels heavier, or that they feel the same? Why do you think so?
 - **fair test:** Make both boxes pull the forcemeter to exactly the same number. Wrap them the same way, so the outside looks alike. Ask each person to look at both boxes and lift them the same way, one in each hand, by the string loops. Ask at least 3 people, and more if you can.
-- **safety:** Keep the boxes light, under 5 newtons each. Wash hands after handling coins or sand.
+- **safety:** Keep the boxes light, under 5 newtons each. Wash hands after handling coins.
 - **record:** Fill in the table. Count how many people chose each answer. Draw a bar chart.
 - **results table:** Person | Which felt heavier: big, small or same?
 - **s1 (6 min)**  
-  *Parent does:* 1. Tie a string loop to the big empty box with tape. 2. Hang it on the forcemeter and read its pull. 3. Tie a loop to the small box. 4. Fill the small box with coins or dal until it pulls exactly the same number. 5. Tape it shut.  
+  *Parent does:* 1. Tie a string loop to the big empty box with tape. 2. Hang it on the forcemeter and read its pull. 3. Tie a loop to the small box. 4. Fill the small box with coins until it pulls exactly the same number. 5. Tape it shut.  
   *Parent says:* These two boxes must pull with exactly the same force. Keep adding coins until the forcemeter shows the same number for both.  
   *Child mode:* Hang the big box. Read the number. Fill the small box until it shows the same number. Tape it shut.
   - Note: An empty shoe box pulls with about 2 newtons. If the big box is very light, tape a few coins inside it, spread out so they don't rattle. What matters is that both boxes show the same number.
@@ -590,7 +590,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent does:* 1. Put the empty tiffin on the kitchen scale and press its zero button, so the scale counts only the rice. 2. Weigh 600 grams of rice into the tiffin. 3. Your child holds it. 4. Say that on Earth the rice pulls with about 6 newtons.  
   *Parent says:* Hold your lunch. On Earth it pulls your hand down with about 6 newtons. The Moon pulls things down about one sixth as hard. How do you think your lunch would feel there? Why?  
   *Child mode:* Hold the tiffin. Here on Earth, the rice pulls about 6 newtons. The Moon pulls only one sixth as hard. How would it feel there?
-  - Note: A steel tiffin is heavy by itself, so use a light plastic one or a polythene bag. No kitchen scale? Use sealed packets instead: a 500 gram and a 100 gram packet together for Earth, one 100 gram packet for the Moon, and a 1 kilogram and a 500 gram packet together for Jupiter.
+  - Note: A steel tiffin is heavy by itself, so use a light plastic one or a polythene bag. No kitchen scale? Use sealed packets instead. For Earth, hold a 500 gram and a 100 gram packet together. For the Moon, hold one 100 gram packet. For Jupiter, hold a 1 kilogram and a 500 gram packet together.
 - **s2 (5 min)**  
   *Parent does:* 1. Ask: 'What is one sixth of 600 grams?' 2. Pour rice out until the scale shows 100 grams. 3. Your child holds it. 4. Say that this is how your full tiffin would feel on the Moon.  
   *Parent says:* On the Moon, your full tiffin would pull like this. Feel it. But how much rice would really be inside the tiffin on the Moon?  
@@ -735,7 +735,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 1. (mcq) In the coin-pull test, coins in a cup pulled a notebook until it slid. Why did you use coins of only one kind?  
    Options: Every coin of one kind pulls the same amount, so each one is the same unit / Coins look nice / Mixed coins are heavier / It makes the notebook slide faster  
    **Answer:** Every coin of one kind pulls the same amount, so each one is the same unit. *Why:* A unit must be the same every time. One kind of coin gives the same small pull again and again. Picking 'mixed coins are heavier' misses the point. Mixed coins pull by different amounts, so a count of them means nothing.
-2. (mcq) In the coin-pull test, Ravi needed 6 big coins to slide a notebook. His mother needed 12 small coins for the same notebook. Who found the bigger pull?  
+2. (mcq) In the coin-pull test, Ravi, a boy in Class 3, needed 6 big coins to slide a notebook. His mother needed 12 small coins for the same notebook. Who found the bigger pull?  
    Options: Ravi / His mother / Neither. It was the same pull, counted in different units  
    **Answer:** Neither. It was the same pull, counted in different units. *Why:* Same notebook, same table, so the same pull. The small coins were lighter, so more of them were needed. Picking 'his mother' means trusting the number 12 without its unit.
 3. (truefalse) In the coin-pull test, two stacked notebooks usually need about twice as many coins as one notebook.  
@@ -822,7 +822,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    **Answer:** One arrow points down from the feet onto the scale. Another arrow, the same length, points up from the scale into the feet.. *Why:* The child pushes down, and the scale pushes up just as hard. That push is what the scale shows.
 ### From Molecules to the Moon (challenge) (challenge, 17 questions)
 1. (write) Before 2019, the kilogram was simply whatever one metal cylinder near Paris weighed. If a speck of dust had landed on it, what would have happened to the kilogram?  
-   **Answer:** By the rule of that time, the cylinder was still exactly 1 kilogram. So in a strange way, every other kilogram in the world would have become a tiny bit too small.. *Why:* When a unit is one object, any change to the object changes the unit itself. That is why the kilogram is now fixed by a number from nature, the Planck constant.
+   **Answer:** By the rule of that time, the cylinder was still exactly 1 kilogram. So every other kilogram in the world would have become a tiny bit too small.. *Why:* When a unit is one object, any change to the object changes the unit itself. That is why the kilogram is now fixed by a number from nature, the Planck constant.
 2. (mcq) One newton is defined as the push that makes a 1 kilogram thing speed up by 1 metre per second, every second. What does this tell us a force does?  
    Options: It changes how things move / It makes things heavier / It makes things smaller / It only works on round things  
    **Answer:** It changes how things move. *Why:* Newton showed that a force is what changes movement. The bigger the force on the same thing, the faster it speeds up.
@@ -851,7 +851,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    **Answer:** One litre of water always has a mass of about 1 kilogram. Everybody can get water and fill a bottle with a jug. Nobody owns it.. *Why:* The gram was first defined in 1795 using water. Water is a standard that nature gives everyone.
 12. (mcq) Which of these is the biggest force?  
    Options: The Saturn V rocket lifting off / An elephant standing / The Earth and the Moon pulling on each other / A crocodile's bite  
-   **Answer:** The Earth and the Moon pulling on each other. *Why:* The Earth and the Moon pull on each other with about 200 million million million newtons. The Saturn V pushed with about 34 million. Picking the rocket usually means things we can see seem bigger than the pull between worlds.
+   **Answer:** The Earth and the Moon pulling on each other. *Why:* The Earth and the Moon pull on each other with about 200 million million million newtons. The Saturn V pushed with about 34 million. Picking the rocket is a fair guess, because a launch looks huge. But the pull between the Earth and the Moon is millions of millions of times bigger.
 13. (write) Isaac Newton said he did not know how gravity reaches across empty space. Einstein said gravity is bent space and time. Others think it might be carried by a particle called a graviton. Which idea do you find easiest to imagine? Why?  
    **Answer:** Any answer with a reason is good. For example: I like Einstein's idea, because I can imagine a ball rolling into a dip in a stretched sheet.. *Why:* Scientists still don't agree on the deepest answer. That's an open question you could work on one day.
 14. (order) Put these steps for using a forcemeter in the right order: read at eye level, check the zero, write the number with its unit, hook on and pull steadily.  
@@ -957,7 +957,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - How many of your steps fit across this room? Would Papa's steps give the same number? Which number is right?
 - How many newtons do you think that bag of vegetables is pulling with?
 - Which is a bigger pull: opening the fridge door, or opening a drawer? How could we find out?
-- If our scale started at 2 instead of 0, who would win and who would lose?
+- If a shop scale showed 2 kilograms with nothing on it, who would lose out: the shopkeeper or the buyer?
 - You're standing still. Is the floor pushing on you right now? How hard?
 - Would you weigh less on the Moon? Would there be less of you?
 - Can you find something in this room that pulls with about 1 newton?
@@ -996,10 +996,10 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 
 ## Connected maths
 - Look at the forcemeter in the picture. The big numbers are whole newtons. Each small mark between them is half a newton. What is the reading? **3 and a half newtons.**. The pointer is past the 3, but before the 4. It sits on the small mark halfway between them. Each small mark is half a newton. So the reading is 3 newtons and half a newton more. That is 3 and a half newtons. (queues `math.measurement-basics.reading-scales.L3`)
-- In the coin-pull investigation, Meera needed 6 five-rupee coins to start her notebook sliding. Her father tested the same notebook with one-rupee coins and needed 12. On a ruler balance, one five-rupee coin balanced two one-rupee coins. Did they find the same pull, or different pulls? **The same pull. 6 five-rupee coins pull as hard as 12 one-rupee coins.**. One five-rupee coin pulls as hard as 2 one-rupee coins. So 6 five-rupee coins pull as hard as 6 lots of 2 one-rupee coins. 6 times 2 is 12. Meera's father needed 12. The numbers were different, but the pull was the same. Only the unit was different. (queues `math.multiplication.equal-groups.L3`)
+- In the coin-pull investigation, Meera, a girl in Class 3, needed 6 five-rupee coins to start her notebook sliding. Her father tested the same notebook with one-rupee coins and needed 12. On a ruler balance, one five-rupee coin balanced two one-rupee coins. Did they find the same pull, or different pulls? **The same pull. 6 five-rupee coins pull as hard as 12 one-rupee coins.**. One five-rupee coin pulls as hard as 2 one-rupee coins. So 6 five-rupee coins pull as hard as 6 lots of 2 one-rupee coins. 6 times 2 is 12. Meera's father needed 12. The numbers were different, but the pull was the same. Only the unit was different. (queues `math.multiplication.equal-groups.L3`)
 - Here are made-up results from the coin-pull investigation. One notebook needed 6 coins. Two stacked notebooks needed 12. Three needed 17. Spot the pattern. About how many coins would four notebooks need? Why? **About 23 coins, because each extra notebook needs about 6 more coins.**. From 1 notebook to 2, the coins went up by 6. From 2 to 3, they went up by 5. So each notebook adds about 5 or 6 coins. 17 add 6 is 23. Real results are never perfectly even, so 22, 23 or 24 are all good predictions. If you have a fourth notebook, test your prediction. (queues `math.patterns.number-patterns.L3`)
 - In the story Ten Packets of Salt, Mohan Lal's balance was set wrongly. Ten 1 kilogram packets of salt showed as only 5 kilograms. Basanti's basket showed 14 kilograms on the same balance. Something is odd. What was going wrong, and how heavy was the basket really? **The balance showed 5 kilograms too little every time. The basket was really 19 kilograms.**. The ten packets were agreed to be 10 kilograms, but the balance said 5. So it was 5 kilograms short. Its pointer started in the wrong place, so every reading was short by the same 5. To fix a reading, add 5 back. 14 add 5 is 19. That is exactly what the balance showed once the zero was fixed. (queues `math.addition-subtraction.mental-strategies.L3`)
-- In the forcemeter tug of war, Asha's forcemeter showed 5 newtons, and her father's showed 5 newtons too. Her father said, 'So together we are pulling with 10 newtons.' Is he right? Explain. **No. The pull through the two forcemeters is 5 newtons. Each forcemeter shows the same pull, seen from its own end.**. Asha pulls on her father with 5 newtons, and he pulls back on her with 5 newtons. Both forcemeters feel that one pull passing through them. Adding 5 and 5 counts the same pull twice. If he let go, both forcemeters would drop to 0 together. (queues `math.addition-subtraction.word-problems.L3`)
+- In the forcemeter tug of war, Asha, a girl in Class 3, pulled against her father. Asha's forcemeter showed 5 newtons, and her father's showed 5 newtons too. Her father said, 'So together we are pulling with 10 newtons.' Is he right? Explain. **No. The pull through the two forcemeters is 5 newtons. Each forcemeter shows the same pull, seen from its own end.**. Asha pulls on her father with 5 newtons, and he pulls back on her with 5 newtons. Both forcemeters feel that one pull passing through them. Adding 5 and 5 counts the same pull twice. If he let go, both forcemeters would drop to 0 together. (queues `math.addition-subtraction.word-problems.L3`)
 - In the Moon tiffin activity, your 600 gram tiffin pulled with about 6 newtons on Earth. The Moon pulls about one sixth as hard. Predict: about how hard would the same tiffin pull on the Moon? **About 1 newton.**. One sixth means sharing into 6 equal parts and taking one part. 6 newtons shared into 6 parts is 1 newton each. So on the Moon the tiffin pulls with about 1 newton, like a small apple on Earth. (queues `math.division.division-facts.L3`)
 - In the pull detective experiment, these were the biggest readings. Slipper 2 newtons, drawer 5 newtons, cupboard door 6 newtons, chair 15 newtons, fridge door 18 newtons, school bag 25 newtons. Draw a bar chart. How much bigger is the fridge door's pull than the drawer's? **The fridge door's pull is 13 newtons bigger. Here is the bar chart.**. Draw one bar for each pull, as tall as its reading. Then compare the fridge door and the drawer. 18 take away 5 is 13. So the fridge door needs 13 newtons more. (queues `math.data.bar-charts.L3`)
 
@@ -1026,7 +1026,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Bathroom weighing scale](https://www.amazon.in/s?k=bathroom+weighing+scale) (tool): For the bathroom scale experiment, to see that a scale shows your push. Used in e2. 
 - [Digital kitchen scale, up to 5 kilograms](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Checks your homemade forcemeter, and weighs the rice for the Moon tiffin. Used in p1, a5, c2. 
 - [Measuring jug with millilitre marks](https://www.amazon.in/s?k=measuring+jug+ml) (tool): Turns water into a unit anyone can share, for the water-pull activity and the fair scale challenge. Used in a7, c2. 
-- [Strong rubber bands, mixed sizes](https://www.amazon.in/s?k=rubber+bands+assorted) (material): The spring for your homemade forcemeter, and thin ones for the feather challenge. Used in p1, c1. 
+- [Strong rubber bands, mixed sizes](https://www.amazon.in/s?k=rubber+bands+assorted) (material): The spring for your homemade forcemeter, and thin ones for the paper challenge. Used in p1, c1. 
 - [Round balloons](https://www.amazon.in/s?k=round+balloons) (material): For the balloon push activity, where a squashed balloon shows the size of a push. Used in a1. 
 - [Newton and Me, by Lynne Mayer](https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer) (book): A picture book in rhyme about a boy and his dog discovering forces, for ages 5 to 9. Used in g1. If bought, read it on day 1 after the story, before playing Guess the Newtons.
 

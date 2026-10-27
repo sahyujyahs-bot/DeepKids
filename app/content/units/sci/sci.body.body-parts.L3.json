@@ -3,11 +3,11 @@
  "title": "The outside of your body: what each part does and how to care for it",
  "level": 3,
  "summary": {
-  "text": "Your two thumbs grew from the same genes, yet their fingerprints are different. Your skin, hair, nails, eyes, ears, nose, mouth, hands, feet and private parts are external organs: body parts you can see, each with its own job. Many of them have guards that people mistake for dirt, such as earwax, nose mucus and eyelashes. The top layer of your skin is dead cells, and new skin keeps growing underneath to replace it. Each part needs its own care, and washing hands with soap is one of the most important habits of all.",
+  "text": "Your two thumbs grew from the same genes, yet their fingerprints are different. Your skin, hair, nails, eyes, ears, nose, mouth, hands, feet and private parts are external organs: body parts you can see, each with its own job. Some of their guards, such as earwax and nose mucus, look like dirt but protect you. The top layer of your skin is dead cells, and new skin keeps growing underneath to replace it. Each part needs its own care, and washing hands with soap is one of the most important habits of all.",
   "art": "A child standing with arms out, with small labelled circles around them: an eye with lashes, an ear, a nose, teeth, a fingertip with swirling ridges, a foot, and a strip of skin flaking."
  },
  "intro": {
-  "hook": "Press your thumb onto a clean glass or a steel tumbler. Now breathe on that spot. A swirly pattern appears. That is your thumbprint. Nobody has ever been found with the same one, not even an identical twin.",
+  "hook": "Rub your thumb on the side of your nose, to pick up a little oil. Press it onto a clean glass or a steel tumbler. Now breathe on that spot. A swirly pattern appears. That is your thumbprint. Nobody has ever been found with the same one, not even an identical twin.",
   "text": "Your skin left that mark without you trying. Sweat comes out of tiny holes along the ridges of your fingertips. Your fingers also pick up a little oil from your face and hair. So everything you touch keeps a faint copy of your ridges. Every outside part of your body has a job like this. Some parts have guards that most people think are dirt. And every part needs its own kind of care.",
   "art": "A child's thumb pressed on a steel tumbler, then a misty breath showing a swirling fingerprint on the shiny steel."
  },
@@ -336,7 +336,7 @@
    "status": "debated",
    "description": "Everyone agrees that fingertips have ridges, and that every person's pattern is different, even an identical twin's. Each of your ten fingers has its own pattern too, so even your two thumbs differ. The ridges form before you are born, between about 10 and 16 weeks in the womb. They grow from a deeper layer of skin, so after a scrape the same pattern grows back. But what are the ridges for? Scientists still argue.",
    "examples": [
-    "Pressing your fingertips on a wet steel plate, you can still feel and grip it.",
+    "On a wet steel plate, your fingertips can still feel and grip.",
     "Running your fingertip over cloth, you can tell cotton from silk with your eyes shut."
    ],
    "perspectives": [
@@ -712,14 +712,14 @@
   },
   {
    "id": "g2",
-   "title": "Who Am I? Body Riddles",
+   "title": "Guess the Body Part",
    "mins": 15,
    "players": "2 or more players",
-   "context": "This is a guessing game. One player reads a riddle in the voice of a body part. The others guess which part it is, and then act out how to care for it.",
+   "context": "This is a guessing game. One player reads a clue in the voice of a body part. The others guess which part it is, and then act out how to care for it.",
    "printables": [
     {
      "kind": "cards",
-     "title": "12 riddle cards",
+     "title": "12 clue cards",
      "items": [
       "I am the biggest organ you have. I cover all of you. I flake off every day. Who am I? (Skin)",
       "I am dead, but I keep growing. A haircut never hurts me. Who am I? (Hair)",
@@ -746,8 +746,8 @@
     }
    ],
    "rules": [
-    "Shuffle the riddle cards. One player is the reader.",
-    "The reader reads a riddle in the voice of the body part, without saying the answer in brackets.",
+    "Shuffle the clue cards. One player is the reader.",
+    "The reader reads a clue in the voice of the body part, without saying the answer in brackets.",
     "The first to guess right gets the card.",
     "Then everyone acts out one way to care for that part, for a token.",
     "Swap readers each turn. The player with the most cards and tokens wins."
@@ -755,7 +755,7 @@
    "setup": [
     {
      "art": "A child reading a card out loud in a funny voice, pointing at her own ear, while two others think.",
-     "caption": "1. The reader reads a riddle in the body part's voice."
+     "caption": "1. The reader reads a clue in the body part's voice."
     },
     {
      "art": "Two children miming brushing teeth and washing hands, holding toy tokens.",
@@ -766,17 +766,17 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Shuffle the 12 riddle cards. Choose the first reader.",
+     "do": "Shuffle the 12 clue cards. Choose the first reader.",
      "say": "In this game, a body part talks to us. We must guess who it is.",
-     "kid": "A body part is talking. Listen to the riddle. Guess who it is.",
-     "context": "This is the first step of Who Am I?, a riddle game where body parts describe themselves."
+     "kid": "A body part is talking. Listen to the clue. Guess who it is.",
+     "context": "This is the first step of Guess the Body Part, a guessing game where body parts describe themselves."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. The reader reads one riddle. 2. Players guess. 3. Everyone acts out one way to care for that part. 4. Swap readers.",
+     "do": "1. The reader reads one clue. 2. Players guess. 3. Everyone acts out one way to care for that part. 4. Swap readers.",
      "say": "Read it in the body part's own voice. Then we all show how to look after it.",
-     "kid": "Read the riddle in a funny voice. Others guess. Then everyone acts out the care.",
+     "kid": "Read the clue in a funny voice. Others guess. Then everyone acts out the care.",
      "check": {
       "t": "mcq",
       "q": "Game moment: 'I am dead, but I keep growing. A haircut never hurts me.' Who am I?",
@@ -788,16 +788,16 @@
       "a": 0,
       "why": "The hair you can see is made of dead cells, so cutting it does not hurt. It keeps growing because living cells at the root push it out. Skin is mostly alive underneath, and you can feel it. The eardrum is a living skin that shakes with sound."
      },
-     "parent": "If a child guesses 'nails' for the hair riddle, that is a good thought. Nails are also dead and growing. Ask what clue tells them apart: the haircut.",
-     "context": "In Who Am I?, a reader reads riddles in the voice of a body part. Here is the main game."
+     "parent": "If a child guesses 'nails' for the hair clue, that is a good thought. Nails are also dead and growing. Ask what clue tells them apart: the haircut.",
+     "context": "In Guess the Body Part, a reader reads clues in the voice of a body part. Here is the main game."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count cards and tokens. Ask each player to make up one new riddle of their own.",
-     "say": "Now make up your own riddle, about any body part.",
-     "kid": "Make up your own riddle about a body part. Can the others guess?",
-     "context": "This is the end of Who Am I?. Each player makes up a new riddle."
+     "do": "Count cards and tokens. Ask each player to make up one new clue of their own.",
+     "say": "Now make up your own clue, about any body part.",
+     "kid": "Make up your own clue about a body part. Can the others guess?",
+     "context": "This is the end of Guess the Body Part. Each player makes up a new clue."
     }
    ]
   }
@@ -2030,7 +2030,7 @@
      "do": "Rub a few drops of oil over your child's hands. Sprinkle on a pinch of haldi or glitter. Say the powder is pretend germs.",
      "say": "Hands pick up a thin layer of oil from food, from your face and from things you touch. Germs stick in that oil. Let's pretend this powder is germs.",
      "kid": "Rub oil on your hands. Sprinkle on the powder. Pretend it is germs.",
-     "context": "This is the first step of the oily hands activity. Glitter stands in for germs on oily skin."
+     "context": "This is the first step of the oily hands activity. Haldi or glitter stands in for germs on oily skin."
     },
     {
      "id": "s2",
@@ -2236,7 +2236,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Your child closes their eyes and tips their head back a little. Drip a few drops of water on the forehead just above one eyebrow. Watch where it runs.",
+     "do": "Your child sits up straight, facing forward, and closes their eyes. Drip a few drops of water on the forehead just above one eyebrow. Watch where it runs.",
      "say": "Where does the water go when it reaches the eyebrow?",
      "kid": "Close your eyes. A grown-up drips water above your eyebrow. Where does it run?",
      "adult": true,
@@ -2995,8 +2995,8 @@
    "a": "Anything not too loud."
   },
   {
-   "j": "Why did the nail get cut?",
-   "a": "It was getting too long in the story."
+   "j": "Why did the nail cutter never tell long stories?",
+   "a": "It always cut them short."
   },
   {
    "j": "Why do eyebrows never get wet when it rains?",

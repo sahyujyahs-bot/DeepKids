@@ -3,12 +3,12 @@
  "title": "How things fly: wings push air down, and the air pushes them up",
  "level": 3,
  "summary": {
-  "text": "A cheel can circle over a city for an hour, held up by air you cannot see. Air is a real material, and everything that flies with wings stays up by pushing air downwards. The air pushes back up on the wings, and that upward push is called lift. A kite uses the wind and its string, a paper plane sinks slowly as it moves forward, and a bird flaps or rides rising warm air. Seeds float, glide and spin, so the wind can carry them far from the parent tree. Scientists agree on what lift does, but they still argue about the best simple way to explain it, and one famous explanation is wrong.",
+  "text": "A cheel can circle over a city for an hour, held up by air you cannot see. Everything that flies with wings stays up by pushing air down, and the air pushes back up on the wings. That upward push is called lift. Kites, paper planes, birds and flying seeds each use it in their own way. Scientists agree on what lift does, but still argue about the simplest way to explain it, and one famous explanation is wrong.",
   "art": "A rooftop at sunset: a paper kite on a tight string, a black kite bird circling above it, a paper plane gliding past, and a winged mahogany seed spinning down, with faint arrows showing air being pushed downwards under each."
  },
  "intro": {
   "hook": "Hold a sheet of paper flat by two corners and drop it. Now crumple an identical sheet into a ball and drop it. Now fold a third sheet into a paper plane and throw it gently. Same paper. Why do they come down so differently?",
-  "text": "Look up on any sunny afternoon in an Indian city. You will probably see big brown birds circling high above, hardly flapping at all. They are black kites, called cheel in Hindi. They can stay up for an hour. A crow beside them flaps and flaps. A paper kite on a string climbs only when the wind blows. A seed from a mahogany tree spins down like a tiny helicopter. A cheel weighs about as much as a big bag of sugar. So how can it stay up in air that you cannot even see?",
+  "text": "Look up on any sunny afternoon in an Indian city. You will probably see big brown birds circling high above, hardly flapping at all. They are black kites, called cheel in Hindi. They can stay up for an hour. A crow beside them flaps and flaps. A paper kite on a string climbs only when the wind blows. A seed from a mahogany tree spins down like a tiny helicopter. A cheel weighs about as much as a 1-kilogram packet of sugar. So how can it stay up in air that you cannot even see?",
   "art": "A city sky with a cheel circling without flapping, a crow flapping hard, a patang on a string and a spinning winged seed, each with a question mark beside it."
  },
  "outcomes": [
@@ -160,7 +160,7 @@
    "concept": "Air is a real material that pushes",
    "status": "defined",
    "definition": "Air is a real material, made of countless tiny moving particles called molecules. It takes up space, it has weight, and it pushes on everything it touches.",
-   "description": "We can't see air, so it is easy to think of it as nothing. But push a glass upside down into a bucket of water. A tissue stuck inside stays dry, because the air in the glass keeps the water out. Run with a big piece of cardboard held flat in front of you. You feel the air pushing back. Air even has weight. The air in a small bedroom weighs about 40 kilograms, as much as a ten-year-old child. Flying is only possible because air is a real material. A wing has something to push on.",
+   "description": "We can't see air, so it is easy to think of it as nothing. But push a glass upside down into a bucket of water. A tissue stuck inside stays dry, because the air in the glass keeps the water out. Run with a big piece of cardboard held flat in front of you. You feel the air pushing back. Air even has weight. The air in a small bedroom weighs about 35 kilograms, about as much as a child of ten. Flying is only possible because air is a real material. A wing has something to push on.",
    "examples": [
     "A tissue stuck inside an upside-down glass stays dry under water.",
     "A ceiling fan pushes air down, and you feel the breeze.",
@@ -174,7 +174,7 @@
    "concept": "Four forces on every flying thing",
    "status": "defined",
    "definition": "A flying thing has four forces on it. Weight pulls it down. Lift pushes it up. Drag pushes it back. Thrust pushes it forward.",
-   "description": "A force is a push or a pull. We draw each force as an arrow pointing the way it pushes. Our Pushes and Pulls unit shows how. Weight is gravity pulling the flying thing towards the Earth. Lift is the air pushing it up. Drag is the air pushing back as it moves. Thrust is whatever pushes it forward. That can be a flapping wing, a propeller or your throwing arm. A glider has no thrust of its own. It keeps moving forward by slowly losing height, like a cycle rolling down a gentle slope. An English inventor, George Cayley, first drew these forces on a flying machine, around 1799.",
+   "description": "A force is a push or a pull. We draw each force as an arrow pointing the way it pushes. Weight is gravity pulling the flying thing towards the Earth. Lift is the air pushing it up. Drag is the air pushing back as it moves. Thrust is whatever pushes it forward. That can be a flapping wing, a propeller or your throwing arm. A glider has no thrust of its own. It keeps moving forward by slowly losing height, like a cycle rolling down a gentle slope. An English inventor, George Cayley, first drew these forces on a flying machine, around 1799.",
    "examples": [
     "A pigeon flapping: its wings give both lift and thrust.",
     "A paper plane after it leaves your hand: no more thrust, so it glides slowly down.",
@@ -302,7 +302,7 @@
    "concept": "Seeds that fly",
    "status": "defined",
    "definition": "Many plants make seeds that fly, so the wind carries them far from the parent plant. Some float on parachutes of fine hairs. Some spin on one wing. Some glide on two wings.",
-   "description": "A seed that lands under its parent has to share light and water with it. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so it falls very slowly. A mahogany seed has one wing and spins as it falls. In 2009, scientists studying spinning seeds like this found something new. The spinning makes a little whirl of air over the wing, which gives extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about 13 centimetres across, wider than your palm. It glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like it.",
+   "description": "A seed that lands under its parent has to share light and water with it. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so it falls very slowly. A mahogany seed has one wing and spins as it falls. In 2009, scientists filmed spinning maple seeds and found something new. The spinning makes a little whirl of air over the wing, which gives extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about 13 centimetres across, wider than your palm. It glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like it.",
    "examples": [
     "Silky aak and semal fluff floats away on the wind.",
     "Big-leaf mahogany seeds spin down like helicopters in many Indian cities.",
@@ -355,7 +355,7 @@
    "concept": "Deep down: lift is air molecules bumping",
    "status": "defined",
    "definition": "Air pressure is the push of countless air molecules bumping into a surface. A wing gets lift because the molecules underneath bump into it harder than the molecules on top.",
-   "description": "Zoom into the air and keep zooming. You reach molecules, tiny groups of atoms. In air, they are mostly nitrogen and oxygen. Each one zooms about at roughly 500 metres every second. That is faster than a passenger jet. Every bit of your skin is being bumped by them, billions of times a second, from every side. We call that steady push air pressure. Usually the bumps are the same on all sides, so we don't notice them. A moving wing changes the pattern. Underneath, the bumps push a little harder. On top, they push a little less. The difference is lift. So a jumbo jet is held up by countless tiny bumps.",
+   "description": "Zoom into the air and keep zooming. You reach molecules, tiny groups of atoms. In air, they are mostly nitrogen and oxygen. Each one zooms about at roughly 500 metres every second. That is faster than a passenger jet. Every bit of your skin is being bumped by them all the time, from every side. We call that steady push air pressure. Usually the bumps are the same on all sides, so we don't notice them. A moving wing changes the pattern. Underneath, the bumps push a little harder. On top, they push a little less. The difference is lift. So a jumbo jet is held up by countless tiny bumps.",
    "examples": [
     "A balloon stays round because molecules inside bump on its skin.",
     "High on a mountain, there are fewer molecules, so wings and lungs both have to work harder."
@@ -725,7 +725,7 @@
      "do": "1. Take turns drawing a card and placing it on a mat. 2. The player says why, and what it pushes on. 3. Give one feather token for each good answer.",
      "say": "Tell me how it stays up, and what it pushes on.",
      "kid": "Take turns. Put your card on a mat. Say how it stays up. Each good answer wins a feather.",
-     "parent": "Tricky cards: a vulture flaps to take off but mostly glides and soars, so it can go on two mats. A helicopter has spinning wings, its blades, which push air down. A hot-air balloon is different. Its hot air is lighter than the cold air around it, so it floats up, like a cork in water. A rocket is different again. It throws hot gas out backwards and needs no air at all. That is why Ingenuity on Mars needed wings but rockets don't."
+     "parent": "Tricky cards: a vulture flaps to take off but mostly glides and soars, so it can go on two mats. A helicopter has spinning wings, its blades, which push air down. A hot-air balloon is different. Its hot air is lighter than the cold air around it, so it floats up, like a cork in water. A rocket is different again. It throws hot gas out backwards and needs no air at all. That is why Ingenuity on Mars needed spinning blades, but rockets don't."
     },
     {
      "id": "s4",
@@ -1148,7 +1148,7 @@
      "qty": 1
     },
     {
-     "item": "a measuring tape",
+     "item": "a measuring tape, or a door: most doors are about 2 metres high",
      "qty": 1,
      "buy": "b-tape"
     }
@@ -1341,7 +1341,7 @@
      "caption": "2. Hold your hand flat, an arm's length away."
     },
     {
-     "art": "The same hand with its front edge, the thumb side, tilted up a little, an up arrow above it.",
+     "art": "The same hand with its front edge, the fingertips, tilted up a little, an up arrow above it.",
      "caption": "3. Tilt the front edge up a little."
     },
     {
@@ -1354,7 +1354,7 @@
      "id": "s1",
      "mins": 3,
      "adult": true,
-     "do": "1. Put the fan on a low table and switch it on at its fastest speed. 2. Your child holds one hand flat, palm down, fingers together, an arm's length in front of the fan.",
+     "do": "1. Put the fan on a low table and switch it on at its fastest speed. 2. Your child holds one hand flat, palm down, fingers together and pointing at the fan, an arm's length away from it.",
      "say": "Your hand is a wing now. The fan is the wind. Hold it flat. What do you feel?",
      "kid": "Ask a grown-up to switch on the fan. Hold your hand flat, an arm's length away. Your hand is a wing! What do you feel?",
      "context": "This is the first step of the Hand Wing experiment. You hold your hand in front of a fan and feel how the air pushes it.",
@@ -1375,7 +1375,7 @@
        ]
       }
      ],
-     "parent": "With a slight tilt, the hand is pushed up strongly. This is lift. With a steep tilt, the hand is mostly pushed back and starts to wobble. Real wings do this too. It is called a stall."
+     "parent": "With a slight tilt, the hand is pushed up a little. This is lift. With a steep tilt, the hand is mostly pushed back and starts to wobble. Real wings do this too. It is called a stall."
     },
     {
      "id": "s3",
@@ -1383,7 +1383,7 @@
      "do": "1. Hold the card loosely by one short edge, between finger and thumb, so it hangs straight down. 2. Hold it an arm's length in front of the fan, with the hanging card facing the fan. 3. Watch what the moving air does to it.",
      "say": "The card hangs straight down. What do you think the moving air will do to it? Why?",
      "kid": "Hold the card loosely by its top edge. Let it hang down. Hold it in front of the fan. Watch it.",
-     "parent": "The air pushes the card back, so it swings up into a slant, like a kite on a string. The slanted card turns the air downwards, and the air holds it up. On a faster fan speed, the card rises nearer to flat.",
+     "parent": "The air pushes the card back, so it swings up into a slant, like a kite on a string. The slanted card turns the air downwards, and the air holds it up. If your fan has a slower speed, try it. The card then hangs more steeply, because slower air pushes less.",
      "check": {
       "t": "mcq",
       "q": "In the Hand Wing test, when does the air push your hand up the most?",
@@ -1723,7 +1723,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Watch birds for 20 minutes. Tally which birds flap, glide or soar. Count wingbeats."
+     "what": "Watch birds for 12 minutes. Tally which birds flap, glide or soar. Count wingbeats."
     }
    ],
    "record": "Make a tally table with three columns: flapping, gliding and soaring. Write which birds you saw doing each.",
@@ -1793,7 +1793,7 @@
      "think": "Soaring birds use the Sun's heat to climb, without flapping. Where else does the Sun's heat make air or water move?"
     }
    ],
-   "context": "This is a bird-watching activity. You watch the sky for 20 minutes and sort birds by how they fly: flapping, gliding or soaring."
+   "context": "This is a bird-watching activity. You watch the sky for about 12 minutes and sort birds by how they fly: flapping, gliding or soaring."
   },
   {
    "id": "a5",
@@ -2055,7 +2055,7 @@
      "do": "1. Tie a string loop, called a bridle, from the top of the long stick to the bottom. 2. Tie the flying thread to the bridle about a third of the way down from the top. 3. Tie a tail, 1 to 2 metres long, to the bottom. 4. Decorate the kite.",
      "say": "The bridle sets the tilt. The tail keeps the nose pointing into the wind.",
      "kid": "Tie a string loop from top to bottom. Tie the flying string to it, near the top. Add a long tail. Decorate it!",
-     "parent": "Where the flying string joins the bridle sets the kite's tilt. Tied nearer the top, the kite faces the wind more squarely, which helps in a light wind. Tied lower, the kite lies flatter, which helps in a strong wind."
+     "parent": "Where the flying string joins the bridle sets the kite's tilt. If the kite will not climb, move the knot a little up or down the bridle and try again. Change it only a little each time."
     },
     {
      "id": "s4",
@@ -3339,8 +3339,8 @@
    "a": "A chicken!"
   },
   {
-   "j": "Why did the paper plane go to school?",
-   "a": "To learn how to land better marks."
+   "j": "Why was the paper plane sent out of the classroom?",
+   "a": "It kept flying around."
   },
   {
    "j": "What did the wind say to the kite?",
@@ -3359,8 +3359,8 @@
    "a": "It spun all the way down."
   },
   {
-   "j": "What do you call a sleeping glider?",
-   "a": "A plane that's resting its wings."
+   "j": "Why don't gliders need petrol?",
+   "a": "They just keep going downhill, very slowly."
   },
   {
    "j": "Why did the cheel go to the hot road?",
@@ -3526,7 +3526,7 @@
    }
   },
   {
-   "problem": "In the Bird Watch, you counted a pigeon's wingbeats. It flapped 3 times every second. If it kept flapping at that speed, how many times would it flap in 10 seconds?",
+   "problem": "In the Bird Watch, you counted a crow's wingbeats. It flapped 3 times every second. If it kept flapping at that speed, how many times would it flap in 10 seconds?",
    "answer": "30 times.",
    "explain": "Each second has 3 flaps. 10 seconds is 10 lots of 3. 3 × 10 = 30. So it would flap 30 times. You can check by skip counting in threes: 3, 6, 9, and on to 30.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -3920,7 +3920,7 @@
   "ask": [
    "If you cannot see air, how do you know it is there?",
    "A heavy jumbo jet flies, but a light ball of crumpled paper falls. So what does it really take to fly?",
-   "Is the bird flying, or are the bird and the air flying together?"
+   "A bird cannot fly without the air, and every bird moves the air. Is flying something the bird does, or something the bird and the air do together?"
   ],
   "art": "A kite, a soaring kite-bird and a spinning winged seed riding the same swirling stream of air above an Indian rooftop."
  },
