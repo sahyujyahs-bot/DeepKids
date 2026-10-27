@@ -1,30 +1,31 @@
 {
  "id": "sci.what-is-life.cells.L3",
- "title": "Cells: the tiny living rooms that make up every living thing",
+ "title": "Cells: the tiny living parts that every living thing is made of",
  "level": 3,
  "summary": {
-  "text": "This unit is about cells. A cell is the smallest piece of a living thing that is itself alive. Every living thing is built from cells: you, a mango tree, an ant and a mushroom. Most cells are far too small to see with your eyes alone, so you will make and use magnifiers to see them in onion skin and in the inside of your own cheek. Some living things are just one cell, and even one cell can sense the world, make choices and remember a little. Scientists agree that all life is made of cells. They still do not know how the very first cell began.",
+  "text": "Every living thing is made of cells: you, a mango tree, an ant and a mushroom. A cell is the smallest part of a living thing that is alive by itself, and most cells are too small to see with your eyes alone. You will look for them in onion skin with a drop of water on a phone camera, and test with three bowls of milk whether new cells come only from living cells. Some living things are just one cell, and that one cell senses, chooses and remembers. Scientists agree that all life is made of cells, but nobody yet knows how the very first cell began.",
   "art": "A child holding a thin onion skin up to a phone camera with a water drop on the lens, and a zoomed-in bubble showing rows of brick-shaped cells."
  },
  "intro": {
-  "hook": "Look at the back of your hand. It looks like one smooth thing. What if it were really made of millions of tiny living pieces, each one alive by itself?",
+  "hook": "Look at the back of your hand. It looks like one smooth thing. What if it were really made of billions of tiny living parts, each one alive by itself?",
   "text": "About 360 years ago, an English scientist called Robert Hooke cut a thin slice of cork, the bark used for bottle stoppers. He looked at it through a microscope, a tool that makes tiny things look big. He saw rows of little empty boxes, like a honeycomb. He called them cells, from a Latin word for a small room. Today you will look for these little rooms in an onion from your kitchen. Then you will look for them inside yourself.",
   "art": "A drawing of a man in a long coat and wig peering into an old brass microscope, with a slice of cork beside him and a circle showing honeycomb-like boxes."
  },
  "outcomes": [
   "I can say what a cell is: the smallest living piece of a living thing.",
   "I can explain that all living things are made of one or more cells, and that new cells come only from cells.",
-  "I can make a simple magnifier and use it, or a microscope, to look at onion skin and cheek cells, and draw what I see.",
+  "I can make a water-drop magnifier, use it to look at onion skin, and draw what I see.",
   "I can compare onion cells and cheek cells, and say how they look alike and how they look different.",
   "I can sort things into: made of living cells now, made of cells that were once alive, and never made of cells.",
   "I can describe how small cells are, using a size ladder where each step is 10 times smaller.",
-  "I can give examples of single cells that sense, choose and remember, and say what scientists still argue about."
+  "I can give examples of single cells that sense, choose and remember, and say what scientists still argue about.",
+  "I can explain why milk with living curd sets into curd, but milk with heated curd does not."
  ],
  "cards_mins": 20,
  "terms": [
   {
    "term": "Cell",
-   "meaning": "The smallest piece of a living thing that is itself alive. It is a tiny bag of watery living stuff with a thin skin around it.",
+   "meaning": "The smallest part of a living thing that is alive by itself. It is a tiny bag of living jelly, mostly water, with a thin skin around it.",
    "example": "The thin skin inside an onion is one layer of cells, side by side like bricks in a wall.",
    "art": "A single brick-shaped onion cell, drawn big, next to a real onion."
   },
@@ -66,8 +67,8 @@
   },
   {
    "term": "Nucleus",
-   "meaning": "A dark round spot inside many cells. It holds the instructions the cell uses to live and grow.",
-   "example": "When you colour onion skin with a drop of iodine or food colour, a darker dot often shows in each cell. That dot is the nucleus.",
+   "meaning": "A small round part inside many cells. It holds the instructions, called DNA, that the cell uses to live, grow and split.",
+   "example": "When you colour onion skin with a drop of iodine antiseptic, a darker dot may show in each cell under a strong lens. That dot is the nucleus.",
    "art": "An onion cell with a small dark dot inside it, circled."
   },
   {
@@ -90,8 +91,8 @@
   },
   {
    "term": "Yeast",
-   "meaning": "A tiny single-celled fungus. It eats sugar and gives out a gas that makes dough and idli batter rise.",
-   "example": "The bubbles in dosa and idli batter come partly from yeast and bacteria.",
+   "meaning": "A tiny single-celled fungus. It eats sugar and gives out a gas called carbon dioxide. The gas bubbles make bread dough rise.",
+   "example": "The bubbles in dosa and idli batter come from bacteria and yeast living in the batter.",
    "art": "A steel vessel of rising idli batter, with bubbles, and a circle showing round yeast cells."
   },
   {
@@ -103,7 +104,7 @@
   {
    "term": "Stain",
    "meaning": "A dye that colours parts of a cell, so they are easier to see.",
-   "example": "A drop of iodine or blue ink on onion skin makes the cell walls and the nucleus show up.",
+   "example": "A drop of iodine antiseptic or blue fountain-pen ink on onion skin makes the cells' edges and the nucleus easier to see.",
    "art": "A dropper putting one drop of coloured liquid on a thin onion skin on a glass slide."
   },
   {
@@ -114,22 +115,22 @@
   },
   {
    "term": "Neuron",
-   "meaning": "A nerve cell. Neurons are long, thin cells that pass signals to each other. Your brain is made of about 86 billion of them.",
+   "meaning": "A nerve cell. Neurons are long, thin cells that pass signals to each other. Your brain has about 86 billion of them.",
    "example": "When you touch something hot, neurons carry the message from your finger to your brain in a split second.",
    "art": "A tree-like neuron cell with long branches, sending a spark down its tail."
   },
   {
    "term": "Millimetre",
    "meaning": "A tiny length. Ten millimetres make one centimetre. On a ruler, it is the gap between the smallest lines.",
-   "example": "A grain of rava, or semolina, is about one millimetre across.",
-   "art": "A ruler, zoomed in, with one small grain of rava sitting between two millimetre lines."
+   "example": "A small mustard seed, or rai, is about one millimetre across.",
+   "art": "A ruler, zoomed in, with one small mustard seed sitting between two millimetre lines."
   }
  ],
  "explanations": [
   {
    "concept": "What a cell is",
    "status": "defined",
-   "definition": "A cell is the smallest piece of a living thing that is itself alive. It is a tiny bag of watery living stuff, with a thin skin around it.",
+   "definition": "A cell is the smallest part of a living thing that is alive by itself. It is a tiny bag of living jelly, mostly water, with a thin skin around it.",
    "description": "Think of a brick wall. The wall is big, but it is built from many small bricks. A living thing is built in the same way, from cells. But a cell is not a dead brick. Each cell is alive by itself. It takes in food, uses it, gets rid of waste, and can make a new cell. The thin skin around every cell is called the membrane. It keeps the cell's inside in, and lets some things in and out. Most cells are so small that many could fit on the full stop at the end of this sentence.",
    "examples": [
     "The thin skin inside an onion layer is one sheet of cells, like a wall of bricks.",
@@ -158,7 +159,7 @@
    "concept": "New cells come only from cells",
    "status": "defined",
    "definition": "Every new cell is made when a cell that already exists splits into two.",
-   "description": "Long ago, many people thought living things could appear out of mud, or meat could make maggots by itself. Careful tests showed this is not true. In the 1850s, a scientist called Robert Remak watched cells and showed that new cells come from old cells splitting in two. Rudolf Virchow made the idea famous in 1855, with the Latin words 'omnis cellula e cellula'. It means every cell comes from a cell. Remak was not given the credit he deserved for many years. Part of the reason was that he was Jewish, and universities in his country held Jewish scientists back. So every cell in you came from a cell, which came from a cell, all the way back to the first cell on Earth.",
+   "description": "Long ago, many people thought living things could appear out of mud, or that old meat could make maggots by itself. Careful tests showed this is not true. In 1852 a doctor called Robert Remak showed that new cells form only when a cell splits in two. Rudolf Virchow made the idea famous in 1855, with the Latin words 'omnis cellula e cellula'. It means every cell comes from a cell. Remak was not given the credit he deserved for many years. Part of the reason was that he was Jewish, and universities in his country held Jewish scientists back. This is also why curd needs curd. A spoon of curd holds living bacteria, and in warm milk they split again and again. So every cell in you came from a cell, which came from a cell, all the way back to the first cells on Earth.",
    "examples": [
     "You began as one single cell. It split into two, then four, then many, and became you.",
     "A cut on your knee heals because the skin cells around it split and fill the gap.",
@@ -172,25 +173,25 @@
    "concept": "How small cells are",
    "status": "defined",
    "definition": "Most cells are between a tenth of a millimetre and a thousandth of a millimetre across. That is too small to see with our eyes alone.",
-   "description": "Your eyes can just about see a speck as small as a tenth of a millimetre, like a fine grain of dust. Many plant cells are about that size, so a strong magnifier can show them. Your cheek cells are smaller, about half a tenth of a millimetre. Bacteria are much smaller still. About a thousand of them could sit in a line across one millimetre. To see cells, we need a lens. A lens bends light so that the tiny thing fills more of our eye. A few cells are huge. A single cotton fibre is one long cell. Some nerve cells in your body run all the way from your back to your toes.",
+   "description": "Your eyes can just about see a speck a tenth of a millimetre across, like a fine grain of dust. Many plant cells are about that size, so a strong magnifier can show them. Your cheek cells are smaller, about a twentieth of a millimetre. Bacteria are much smaller still. About a thousand of them could sit in a line across one millimetre. To see cells, we need a lens, which makes small things look bigger. A few cells are huge. A single cotton fibre, two or three centimetres long, is one cell. Some nerve cells in your body run all the way from the bottom of your back to your toes.",
    "examples": [
-    "A grain of rava is about one millimetre across. About ten onion cells fit side by side across it.",
+    "A small mustard seed is about one millimetre across. About ten onion cells fit side by side across it.",
     "A cotton fibre from a cotton boll is one single long cell.",
     "The yolk of a new bird's egg starts as one single cell."
    ],
    "perspectives": [],
-   "art": "A size ladder: a child, a hand, an ant, a grain of rava, an onion cell, a cheek cell and a bacterium, each ten times smaller than the last.",
+   "art": "A size ladder: a child, a hand, a big ant, a mustard seed, an onion cell, a red blood cell and a bacterium, each ten times smaller than the last.",
    "context": "This card is about how tiny cells are, and why we need lenses to see them."
   },
   {
    "concept": "How a magnifier shows us cells",
    "status": "defined",
    "definition": "A magnifier is a curved, clear lens that bends light so a small thing looks bigger.",
-   "description": "Light travels in straight lines until it passes into something clear, like glass or water. Then it bends. A lens is curved, so it bends the light from a tiny thing outwards. When that light reaches your eye, the tiny thing looks bigger. A round drop of water is a lens too. That is why a dewdrop on a leaf makes the leaf's lines look bigger. A microscope has two or more lenses, one after the other. Each one makes the picture bigger again. A school microscope can make things look 100 or even 400 times bigger.",
+   "description": "Light travels in straight lines through air. When it passes at a slant into water or glass, it bends. A lens is curved, so it bends the light from a tiny thing before it reaches your eye. The light then reaches your eye as if it came from a much bigger thing, so the tiny thing looks bigger. A round drop of water is a lens too. The smaller and rounder the drop, the more it bends light, and the more it magnifies. A microscope has two lenses, one after the other. The second makes the first one's picture bigger again. A school microscope can make things look 100 or even 400 times bigger.",
    "examples": [
     "A drop of water on clear plastic makes newspaper letters under it look bigger.",
     "A magnifying glass makes the lines on your fingertip look like ploughed fields.",
-    "A phone camera with a water drop on its lens can take photos of onion cells."
+    "A phone camera with a tiny water drop on its lens can show the faint outlines of onion cells."
    ],
    "perspectives": [],
    "art": "Light lines passing through a curved drop of water and spreading out, so a tiny letter under it looks big to an eye.",
@@ -200,7 +201,7 @@
    "concept": "Onion cells: a wall of living bricks",
    "status": "defined",
    "definition": "The thin skin inside an onion layer is one sheet of plant cells, each with a stiff wall around it.",
-   "description": "When you peel the see-through skin from inside an onion layer, you are holding a sheet that is only one cell thick. That is why light passes through it, and why you can see the cells. Onion cells are long boxes, fitted together like bricks. Their straight edges come from the cell wall, a stiff box that plant cells have around their membrane. Walls help plants stand up without bones. If you add a drop of iodine or ink, a darker round dot often shows inside each cell. That is the nucleus, the part that holds the cell's instructions.",
+   "description": "When you peel the see-through skin from inside an onion layer, you are holding a sheet that is only one cell thick. That is why light passes through it, and why you can see the cells. Onion cells are long, narrow boxes, fitted together like bricks. Their straight edges come from the cell wall, a stiff box that plant cells have around their membrane. Walls help plants stand up without bones. If you add a drop of iodine antiseptic and look with a strong lens, a darker round dot often shows inside each cell. That is the nucleus, the part that holds the cell's instructions.",
    "examples": [
     "Onion cells look like long bricks in rows.",
     "A stained onion cell often shows a dark dot, its nucleus.",
@@ -214,7 +215,7 @@
    "concept": "Cheek cells: the soft cells that line your mouth",
    "status": "defined",
    "definition": "The inside of your cheek is lined with flat, soft animal cells with no walls.",
-   "description": "If you gently scrape the inside of your cheek with a clean flat stick, you collect thousands of cells. Under a microscope they look like flat, rough-edged pancakes or fried eggs, often folded. They have no cell wall, so they are floppy and roundish, not boxy. Each one has a nucleus, a darker dot near the middle. Your mouth sheds these cells all the time, and new ones grow from below to replace them. So you leave a few of your own cells on every cup you drink from.",
+   "description": "If you gently scrape the inside of your cheek with a clean flat stick, you collect thousands of cells. Under a microscope they look like flat, rough-edged pancakes or fried eggs, often folded. They have no cell wall, so they are floppy and roundish, not boxy. Each one has a nucleus, a darker dot near the middle. A phone with a water drop is not strong enough to show their shape, because they are thin, clear and small. Your mouth sheds these cells all the time, and new ones grow from below to replace them. So you leave a few of your own cells on every cup you drink from.",
    "examples": [
     "Cheek cells look like flat fried eggs, with a dark dot as the yolk.",
     "Animal cells, like cheek cells, have no wall. Plant cells, like onion cells, do.",
@@ -242,10 +243,10 @@
    "concept": "Many cells working together",
    "status": "defined",
    "definition": "In a many-celled living thing, cells stay together and share the work. Different cells do different jobs.",
-   "description": "You began as one cell, smaller than a grain of sand. It split again and again. As the cells multiplied, they became different kinds. Some became skin cells, some blood cells, some bone cells and some nerve cells. Your body has about 200 kinds of cells. They all came from that first one. A tree works the same way. Its root cells drink water. Its leaf cells make food from sunlight. No single cell in you could live long in the wild on its own. Together, they make you.",
+   "description": "You began as one cell, about a tenth of a millimetre across, smaller than a full stop. It split again and again. As the cells multiplied, they became different kinds. Some became skin cells, some blood cells, some bone cells and some nerve cells. Your body has about 200 kinds of cells, and they all came from that first one. A tree works the same way. Its root cells take in water. Its leaf cells make food from sunlight. No single cell in you could live long on its own. Together, they make you.",
    "examples": [
     "Red blood cells carry oxygen. Nerve cells carry messages.",
-    "In a leaf, some cells make food from sunlight, and others form tiny doors that let air in.",
+    "In a leaf, some cells make food from sunlight. Others form tiny openings, called stomata, that let air in and out.",
     "Cells in the root tip of a seedling keep splitting, so the root grows down."
    ],
    "perspectives": [],
@@ -256,7 +257,7 @@
    "concept": "Brains are made of cells too",
    "status": "defined",
    "definition": "A brain is a crowd of cells called neurons, which pass signals to each other.",
-   "description": "When you think, remember or feel, cells in your brain are sending signals. A neuron is a long cell with branches. Tiny charged bits called ions flow in and out through its skin. This sends a signal along the cell, like a spark running down a fuse. At the end, the neuron releases chemicals that tell the next neurons what to do. Your brain has about 86 billion neurons. That number was counted carefully in 2009 by a team led by a Brazilian scientist, Suzana Herculano-Houzel. So a thought is many cells sensing and signalling together.",
+   "description": "When you think, remember or feel, cells in your brain are sending signals. A neuron is a long cell with branches. Tiny charged particles called ions flow in and out through its skin. This sends a signal along the cell, like a spark running down a fuse. At the end, the neuron releases chemicals that tell the next neurons what to do. Your brain has about 86 billion neurons. That number was counted carefully in 2009 by a team in the lab of a Brazilian scientist, Suzana Herculano-Houzel. So a thought is many cells sensing and signalling together.",
    "examples": [
     "When you touch a hot tawa, nerve cells carry the message to your spine and you pull your hand back fast.",
     "Learning to ride a cycle makes some links between your neurons stronger.",
@@ -269,13 +270,17 @@
   {
    "concept": "Can a single cell think?",
    "status": "debated",
-   "description": "A single cell has no brain and no nerves. Yet scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. It does this by remembering, for a few seconds, how much sugar it smelled before. If there is more now, it keeps swimming. If there is less, it tumbles and tries a new direction. A trumpet-shaped single cell called Stentor, about one millimetre long, was poked with tiny specks in an experiment. It tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.",
+   "description": "A single cell has no brain and no nerves. Yet scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. It does this by remembering, for a few seconds, how much sugar it sensed before. If there is more now, it keeps swimming. If there is less, it tumbles and tries a new direction. A trumpet-shaped single cell called Stentor, about one millimetre long, was poked with tiny specks in an experiment. It tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.",
    "examples": [
     "E. coli bacteria swim towards food by comparing now with a few seconds ago.",
     "Stentor tried bending away, then closing up, then swimming off when specks kept landing on it.",
     "A slime mould in Japan joined oat flakes in a pattern much like Tokyo's railway map."
    ],
    "perspectives": [
+    {
+     "who": "DeepKids",
+     "explanation": "DeepKids believes every cell has a mind of its own kind. Sensing, choosing and remembering are what minds do, and single cells do all three. Brains were built from cells that could already do this."
+    },
     {
      "who": "Many cell scientists, such as those who study slime moulds and bacteria",
      "explanation": "Sensing, choosing and remembering are the basic parts of thinking. Single cells do all three. So thinking began long before brains, and brains built on what cells could already do."
@@ -309,14 +314,14 @@
   {
    "concept": "Where the first cell came from",
    "status": "idea",
-   "description": "All cells come from cells. So where did the very first cell come from? Nobody knows for sure. Fossils of tiny cells show that life began on Earth at least 3.5 billion years ago. One idea is that oily bubbles formed in warm water, the way oil makes round drops in dal. Some bubbles may have trapped simple molecules that could copy themselves. Over a very long time, such bubbles might have become the first living cells. Scientists are testing these ideas in labs. Nobody has yet made a living cell from non-living stuff.",
+   "description": "All cells come from cells. So where did the very first cell come from? Nobody knows for sure. Fossils of tiny cells show that life began on Earth at least 3.5 billion years ago. One idea is that fatty, soap-like molecules in warm water formed tiny hollow balls, each with a thin skin like a cell membrane. Some of these balls may have trapped simple molecules that could copy themselves. Over a very long time, such balls might have become the first living cells. Scientists can make these hollow balls in labs and are testing the idea. Nobody has yet made a living cell from non-living matter.",
    "examples": [
-    "Oil dropped into water forms round bubbles with a skin, a little like a cell's membrane.",
-    "The oldest fossils of cell colonies are layered rocks called stromatolites.",
+    "Soap-like fatty molecules in water can form tiny hollow balls with a thin skin, a little like a cell membrane.",
+    "Some of the oldest signs of life are layered rocks called stromatolites, built up by mats of tiny cells.",
     "Every living thing today seems to come from one shared ancestor cell."
    ],
    "perspectives": [],
-   "art": "A warm ancient sea with round oily bubbles floating in it, a few with tiny chains inside them.",
+   "art": "A warm ancient sea with tiny round hollow balls floating in it, a few with tiny chains inside them.",
    "context": "This card is about the open question of how the first cell began. Scientists only have ideas."
   }
  ],
@@ -327,7 +332,7 @@
   },
   {
    "text": "Every new cell comes from a cell that was already there.",
-   "evidence": "Under the microscope, scientists can watch a cell split into two. Nobody has ever seen a cell form from non-living stuff."
+   "evidence": "Under the microscope, scientists can watch a cell split into two. Nobody has ever seen a cell form from non-living matter."
   },
   {
    "text": "A cell is the smallest thing that is alive by itself.",
@@ -355,7 +360,7 @@
    "claim": "Only brains can think. A single cell just follows simple chemistry.",
    "who": "Many brain scientists today.",
    "for": "Brains do things no cell can, like talking and doing sums. A bacterium's choices can be explained by its chemicals.",
-   "against": "Our brain cells also work by chemistry and charged bits flowing. Single cells sense, choose and remember. Slime moulds solved mazes and learned to ignore harmless bitter tastes.",
+   "against": "Our brain cells also work by chemistry and flowing charged particles. Single cells sense, choose and remember. Slime moulds solved mazes and learned to ignore harmless bitter tastes.",
    "status": "debated",
    "context": "This card is about whether thinking needs a brain. Scientists argue about it."
   },
@@ -398,7 +403,7 @@
   {
    "q": "Why are cells so small? Why not one giant cell the size of an elephant?",
    "kind": "deep",
-   "hint": "Think of food getting into a cell through its skin. Would it reach the middle of a huge cell quickly?"
+   "hint": "Food gets into a cell through its membrane, its thin skin. Would food reach the middle of a huge cell quickly?"
   },
   {
    "q": "A bacterium has no brain, but it swims towards food. Is that choosing?",
@@ -408,7 +413,7 @@
   {
    "q": "Every cell comes from a cell. So how did the first cell begin?",
    "kind": "deep",
-   "hint": "Think of oil making round drops in water. Could a bubble be a start?"
+   "hint": "Think of a soap bubble: a thin skin with something inside. Could a tiny bubble like that be a start?"
   },
   {
    "q": "A wooden chair is made of cells that were once alive. Is it more like a stone, or more like a tree?",
@@ -521,7 +526,7 @@
       "A pearl",
       "Green slime on a water tank",
       "A candle flame",
-      "A chicken egg",
+      "A chicken egg from a shop",
       "A clay pot",
       "TEST IT: look at your fingertip with a magnifier. Can you see the cells? Why not?",
       "TEST IT: look at a grain of salt with a magnifier. Is it made of cells, or of something else?",
@@ -609,7 +614,7 @@
      "do": "Take turns drawing cards until all are sorted. Do each TEST IT card together when it comes up.",
      "say": "Your turn. Read the card, choose a mat, and give your reason.",
      "kid": "Take a card. Read it. Choose a mat. Say why.",
-     "parent": "Tricky cards: a cloud and a candle flame were never made of cells, even though clouds grow and flames 'eat'. Curd and risen dosa batter hold living bacteria and yeast cells. A pearl is made by an oyster's cells, but it is a hard layer of stone-like material, not cells, so most people put it in 'never made of cells'. Accept good arguments. Hair is made by living cells, but the hair itself is dead, so it goes in 'once alive'.",
+     "parent": "Tricky cards: a cloud and a candle flame were never made of cells, even though clouds grow and flames use up fuel. Curd and risen dosa batter hold living bacteria and yeast cells. A pearl is made by an oyster's cells, but it is a hard, stone-like layer, not cells, so it goes in 'never made of cells'. The hair you can see is made of cells that have died, so it goes in 'once alive'. The yolk of a shop egg began as one huge cell from the hen. Accept 'living cells now' or 'once alive' if your child gives a reason.",
      "check": {
       "t": "mcq",
       "q": "Curd from the kitchen. Which mat?",
@@ -665,7 +670,7 @@
    "title": "Run and Tumble: be a bacterium",
    "mins": 15,
    "players": "2 or more: one 'bacterium' and one 'food maker'",
-   "context": "This is a moving game. A real bacterium has no eyes and no brain. It finds food by swimming straight, then checking: is the smell stronger now than a moment ago? If yes, it keeps going. If no, it tumbles and picks a new direction. You play the bacterium.",
+   "context": "This is a moving game. A real bacterium has no eyes and no brain. It senses the chemicals of food in the water, a little like smelling. It swims straight, then checks: is the smell stronger now than a moment ago? If yes, it keeps going. If no, it tumbles and picks a new direction. You play the bacterium.",
    "printables": [
     {
      "kind": "cards",
@@ -758,7 +763,7 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask your child to say three sentences: what I think, what I saw, why.",
-     "say": "Let's finish like scientists. What do you think now about how a bacterium finds food? What happened in our game that shows it? Why does it work?",
+     "say": "Tell me three things. What do you think now about how a bacterium finds food? What happened in our game that shows it? Why does it work?",
      "kid": "Say three things. What I think. What I saw. Why.",
      "parent": "A good answer: 'I think a bacterium finds food by checking if the smell is getting stronger. I saw that I reached the lemon in 6 runs, even with my eyes shut. It works because each time it got weaker I turned, so I kept the good directions.'"
     }
@@ -773,7 +778,7 @@
    "days": 1,
    "context": "In this experiment you peel the very thin skin from inside an onion layer and look at it with stronger and stronger magnifiers. You find out whether an onion is made of cells, the tiny living pieces of living things.",
    "question": "Is an onion one smooth thing, or is it made of tiny pieces?",
-   "predict": "Before you look, draw what you think you will see when the onion skin is made 10 times bigger. Then draw what you think you will see at 100 times bigger.",
+   "predict": "Before you look, draw what you think you will see when the onion skin is made 10 times bigger, and say why you think so. Then draw what you think you will see at 100 times bigger.",
    "fair_test": "Look at the same piece of onion skin with each tool, in the same light, so only the magnifier changes. Look for at least one minute with each, because eyes take time to settle.",
    "results_table": [
     "Tool I used",
@@ -787,29 +792,33 @@
      "qty": 1
     },
     {
-     "item": "a blunt butter knife or a spoon handle",
+     "item": "a toothpick, to smooth out folds",
      "qty": 1
     },
     {
-     "item": "a glass slide, or a strip of clear plastic from a packet",
+     "item": "a strip of clear plastic from a packet, or a glass slide",
      "qty": 1,
      "buy": "b-slides"
     },
     {
-     "item": "water and a dropper or a straw",
+     "item": "water and a dropper, or a straw",
      "qty": 1
     },
     {
-     "item": "a drop of tincture of iodine or blue ink, as a stain",
+     "item": "a stain: a drop of iodine antiseptic from the first-aid box, or blue fountain-pen ink",
      "qty": 1
     },
     {
-     "item": "a magnifier: a hand lens, a phone camera, a water-drop lens (activity a2), a Foldscope or a toy microscope",
+     "item": "a phone with a camera, for the water-drop lens (activity a2). A hand lens helps too. A Foldscope or toy microscope shows the most, if you have one.",
      "qty": 1,
      "buy": "b-foldscope"
+    },
+    {
+     "item": "a bright window or a torch",
+     "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the onion. Iodine stains skin and cloth and must not be swallowed, so a grown-up adds it. Wash hands after.",
+   "safety": "A grown-up cuts the onion. Iodine stains skin and cloth and must not be swallowed, so a grown-up adds it. Keep water off the phone's charging point. Wash hands after.",
    "schedule": [
     {
      "day": 1,
@@ -817,7 +826,7 @@
      "what": "Peel onion skin, look with each magnifier, stain it, and draw what you see."
     }
    ],
-   "record": "Fill in the table. Draw the onion skin at the strongest magnification you have. Label one cell, one wall and, if you see one, a nucleus.",
+   "record": "Fill in the table. Draw the onion skin at the strongest magnification you have. Label one cell, one wall and, if you saw one, a nucleus.",
    "setup": [
     {
      "art": "A grown-up's hands breaking a fresh onion layer, and a child pulling off the thin see-through skin from its inside with fingertips.",
@@ -828,7 +837,7 @@
      "caption": "2. Lay it flat on a slide or clear plastic. Add one drop of water."
     },
     {
-     "art": "A child looking at the slide through a paper Foldscope towards a window, with a zoomed circle showing brick-shaped cells.",
+     "art": "A child holding a phone, with a tiny water drop on its camera lens, very close to an onion skin on clear plastic held against a window. A zoomed circle shows faint brick-shaped cells.",
      "caption": "3. Look with each magnifier. Then add a drop of stain and look again."
     }
    ],
@@ -863,10 +872,10 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Look at the skin with each tool in turn: eyes alone, a hand lens, the phone camera zoomed in or the water-drop lens, then a Foldscope or microscope if you have one. Hold it towards a window or a lamp so light shines through.",
+     "do": "1. Look at the skin with your eyes alone, then with a hand lens if you have one. 2. Put a tiny drop of water, the size of a mustard seed, on the phone's camera lens. 3. Hold the onion skin against a bright window, or over a torch. 4. Bring the phone's lens very close, about half a centimetre away. Tap the screen to focus, and take a photo. 5. Zoom in on the photo.",
      "say": "What changes as we use a stronger lens? When do you first see separate shapes?",
-     "kid": "Look with just your eyes. Then the hand lens. Then the strongest lens you have. Point it at the light. When do you first see shapes?",
-     "parent": "With a 10 times hand lens you may just see faint lines. A phone camera zoomed on a water-drop lens, or a Foldscope, shows long bricks clearly.",
+     "kid": "Look with just your eyes. Then use the phone with a water drop. Hold the skin up to the light. When do you first see shapes?",
+     "parent": "What to expect. With eyes alone or a hand lens, you will see a clear sheet, perhaps with faint lines. With the phone and a water drop, you will usually see faint, blurry rows of long boxes. It can take several tries. If it stays blurry, use a smaller drop, more light behind the skin, and hold the phone very still. A Foldscope or toy microscope shows the boxes clearly.",
      "check": {
       "t": "mcq",
       "q": "Under a strong lens, the onion skin shows long boxes fitted side by side. What are they?",
@@ -876,32 +885,33 @@
        "Scratches on the glass"
       ],
       "a": 0,
-      "why": "The boxes are onion cells. Each one is a tiny living room with a wall around it. Air bubbles look like round circles with thick dark edges, and they move. Scratches stay still when you move the onion skin. Picking 'bubbles' is common, because bubbles are the first thing many people notice."
+      "why": "The boxes are onion cells. Each one is a living cell with a wall around it. Air bubbles look like round circles with thick dark edges, and they move. Scratches stay still when you move the onion skin. Picking 'bubbles' is common, because bubbles are the first thing many people notice."
      }
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "A grown-up puts one drop of iodine or blue ink on the skin. Wait one minute. Gently dab off the extra with tissue. Look again.",
-     "say": "The stain colours the walls and the nucleus, the darker dot. Can you see a dot inside the boxes now?",
-     "kid": "A grown-up adds one drop of colour. Wait a minute. Look again. Do you see a dark dot inside each box?",
-     "adult": true
+     "do": "A grown-up puts one drop of iodine antiseptic or blue ink on the skin. Wait one minute. Gently dab off the extra with tissue. Look again.",
+     "say": "The stain colours the cells. Look again. Do the boxes show up better now? Can you see a dot inside any of them?",
+     "kid": "A grown-up adds one drop of colour. Wait a minute. Look again. Can you see a dark dot inside a box?",
+     "adult": true,
+     "parent": "The stain makes the cells' edges darker. The dark dot, the nucleus, is often too small for a phone and water drop. That is normal. A Foldscope or microscope shows it."
     },
     {
      "id": "s5",
      "mins": 5,
-     "do": "Your child draws one patch of cells, as big as a page. Label a cell, a wall and a nucleus.",
+     "do": "Your child draws one patch of cells, as big as a page. Label a cell and a wall, and a nucleus if you saw one.",
      "say": "Draw what you see, not what you think you should see. Make it big.",
-     "kid": "Draw what you see. Make it big. Label one cell, one wall and one dark dot.",
+     "kid": "Draw what you see. Make it big. Label one cell and one wall.",
      "think": "Every onion in the market is built of these. How many cells do you think are in a whole onion?"
     },
     {
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to say or write three sentences: what I think, what I saw, why.",
-     "say": "Let's finish like scientists. What do you think now? What did you see that shows it? Why?",
-     "kid": "Finish like a scientist. What I think. What I saw. Why.",
-     "parent": "This is claim, evidence and reasoning. A good answer: 'I think an onion is made of tiny cells. I saw long boxes side by side with dark dots in them when I used the Foldscope. The onion is made of many small living pieces, like a wall made of bricks.'"
+     "say": "Now tell me three things. What do you think an onion is made of? What did you see that shows it? Why do you think so?",
+     "kid": "Say three things. What I think. What I saw. Why.",
+     "parent": "This is claim, evidence and reasoning. A good answer: 'I think an onion is made of tiny cells. With the phone and a water drop, I saw long boxes side by side. The onion is made of many small living parts, like a wall made of bricks.'"
     }
    ]
   },
@@ -910,9 +920,9 @@
    "title": "Cheek Cells: are you made of tiny rooms too?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you gently scrape the inside of your own cheek and look at the cells under a microscope. Then you compare your cells with onion cells.",
+   "context": "In this experiment you gently scrape the inside of your own cheek and look at the cells. You need a Foldscope, or a toy or school microscope. A phone with a water drop is not strong enough to show their shape. Then you compare your cells with onion cells.",
    "question": "Are my cells like onion cells, or different?",
-   "predict": "Draw what you think your cheek cells will look like. Will they be boxes, like onion cells?",
+   "predict": "Draw what you think your cheek cells will look like. Will they be boxes, like onion cells? Why do you think so?",
    "fair_test": "Use the same stain, the same slide and the same magnifier as for the onion. Then any difference comes from the cells, not the tools.",
    "results_table": [
     "What I looked for",
@@ -921,20 +931,20 @@
    ],
    "materials": [
     {
-     "item": "a new, clean flat ice-cream stick or a cotton bud",
+     "item": "a new, clean flat ice-cream stick, or the handle of a clean steel spoon",
      "qty": 1
     },
     {
-     "item": "a glass slide and a coverslip or a small square of clear plastic",
+     "item": "a glass slide and a coverslip, or two small squares of clear plastic",
      "qty": 1,
      "buy": "b-slides"
     },
     {
-     "item": "a drop of blue ink, food colour or methylene blue",
+     "item": "a drop of blue fountain-pen ink, or methylene blue from a chemist or an aquarium shop",
      "qty": 1
     },
     {
-     "item": "a microscope or a Foldscope (a hand lens is not strong enough here)",
+     "item": "a Foldscope, or a toy or school microscope. A hand lens or a phone with a water drop will not show cheek cells.",
      "qty": 1,
      "buy": "b-foldscope"
     },
@@ -1000,7 +1010,8 @@
       ],
       "a": 0,
       "why": "Cheek cells are animal cells. They have no cell wall, so they are floppy, flat and roundish, often folded. Onion cells are plant cells with stiff walls, so they look like boxes. Both have a nucleus, the dark dot. Picking 'exactly the same' usually means the cells were too faint to see clearly. Try more stain or more light."
-     }
+     },
+     "parent": "Cheek cells are clear and thin, so they are hard to find. Use the stain and plenty of light. If you have no microscope, still make the smear. The faint blue haze on the slide is thousands of your cells. Then look at the third step picture to see their shape."
     },
     {
      "id": "s4",
@@ -1039,162 +1050,134 @@
   },
   {
    "id": "e3",
-   "title": "Hay Water: can tiny living things grow in a jar?",
-   "mins": 40,
-   "days": 5,
-   "context": "In this experiment you soak dry grass or hay in pond or tap water for 5 days. You look at a drop each few days and count the moving single cells. Antonie van Leeuwenhoek did something similar about 350 years ago with pepper water.",
-   "question": "Do tiny living things appear and multiply in hay water?",
-   "predict": "Guess how many moving things you will count in one drop on day 1, day 3 and day 5.",
-   "fair_test": "Use one drop each time, from the same spot near the top, and look for 2 minutes each time. Keep a second jar of plain water with no hay to compare.",
+   "title": "Curd Bowls: does milk need living cells to become curd?",
+   "mins": 25,
+   "days": 2,
+   "context": "In this experiment you set three bowls of warm milk overnight: one with curd, one with nothing, and one with curd that was heated first. You find out whether curd is made by living cells.",
+   "question": "Will heated curd still turn warm milk into curd?",
+   "predict": "Which of the three bowls do you think will turn into curd by morning? Why do you think so?",
+   "fair_test": "Use the same milk, the same amount in each bowl, and the same warm place for the same time. Only change what you add. Use the same spoon for the curd in bowls A and C.",
    "results_table": [
-    "Day",
-    "Moving things in one drop (hay jar)",
-    "Moving things in one drop (plain water jar)",
-    "Shapes I saw"
+    "Bowl",
+    "What I added",
+    "Next morning: thick or runny?",
+    "How it smells"
    ],
    "materials": [
     {
-     "item": "two clean jam jars",
-     "qty": 2
+     "item": "milk, boiled and cooled until lukewarm",
+     "qty": "about one and a half cups"
     },
     {
-     "item": "a handful of dry grass or hay",
+     "item": "plain curd, home-set or from a shop",
+     "qty": "2 spoons"
+    },
+    {
+     "item": "3 small steel katoris or bowls, with plates to cover them",
+     "qty": 3
+    },
+    {
+     "item": "a small steel vessel and the stove, for heating one spoon of curd (grown-up only)",
      "qty": 1
     },
     {
-     "item": "pond water or tap water left out for a day",
+     "item": "tape and a pen, to label the bowls A, B and C",
      "qty": 1
-    },
-    {
-     "item": "glass slides and a dropper",
-     "qty": 1,
-     "buy": "b-slides"
-    },
-    {
-     "item": "a microscope or a Foldscope",
-     "qty": 1,
-     "buy": "b-foldscope"
     }
    ],
-   "safety": "Never drink the water or touch your mouth. A grown-up fetches pond water. Wash hands after every look. On day 5, pour it down the drain or onto soil and wash the jars with soap.",
+   "safety": "A grown-up boils the milk and heats the curd. Hot milk burns. Bowl A is ordinary curd and can be eaten. Pour bowls B and C away.",
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
-     "what": "Set up both jars. Look at one drop from each and count moving things."
+     "mins": 18,
+     "what": "Heat one spoon of curd. Set up three bowls of lukewarm milk: A with curd, B with nothing, C with the heated curd. Boil the milk earlier, so it has time to cool."
     },
     {
-     "day": 3,
-     "mins": 10,
-     "what": "Look at one drop from each jar. Count and draw."
-    },
-    {
-     "day": 5,
-     "mins": 15,
-     "what": "Look and count again. Make a bar chart. Empty and wash the jars."
+     "day": 2,
+     "mins": 7,
+     "what": "Check the three bowls. Fill in the table. Say what you think, what you saw, and why."
     }
    ],
-   "record": "Fill in the table each day. On day 5, draw a bar for each day, as tall as the number you counted.",
-   "example_chart": {
-    "type": "bar",
-    "title": "Made-up example results: moving things counted in one drop of hay water",
-    "x": "Day",
-    "y": "Moving things in one drop",
-    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
-    "data": [
-     {
-      "label": "Day 1",
-      "value": 2,
-      "emoji": "💧"
-     },
-     {
-      "label": "Day 3",
-      "value": 9,
-      "emoji": "💧"
-     },
-     {
-      "label": "Day 5",
-      "value": 25,
-      "emoji": "💧"
-     }
-    ]
-   },
+   "record": "Fill in the table for all three bowls. Draw each bowl, tilted, to show if it is thick or runny.",
    "setup": [
     {
-     "art": "Two jam jars on a windowsill, one with dry grass soaking in water and one with plain water, labelled with drawn symbols.",
-     "caption": "1. Put hay and water in one jar. Plain water in the other."
+     "art": "A grown-up heating one spoon of curd in a small steel vessel on a stove until it bubbles.",
+     "caption": "1. A grown-up heats one spoon of curd, then lets it cool."
     },
     {
-     "art": "A dropper taking one drop from the top of the hay jar onto a glass slide.",
-     "caption": "2. On days 1, 3 and 5, put one drop on a slide."
+     "art": "Three steel katoris labelled A, B and C with lukewarm milk: a spoon of curd going into A, nothing into B, the heated curd into C.",
+     "caption": "2. Lukewarm milk in three bowls. A gets curd, B gets nothing, C gets the heated curd."
     },
     {
-     "art": "A child at a microscope tallying on paper, with a zoomed circle full of slipper-shaped swimmers.",
-     "caption": "3. Count the moving things for 2 minutes. Write the number."
+     "art": "Next morning, three tilted katoris: A thick and set, B and C still runny.",
+     "caption": "3. Next morning, tilt each bowl. Which ones set?"
     }
    ],
    "flow": [
     {
      "id": "s1",
-     "mins": 8,
-     "do": "1. Put a handful of hay in one jar and fill it with water. 2. Fill the other jar with plain water. 3. Leave both near a window, out of hot sun, with a loose lid.",
-     "say": "Leeuwenhoek soaked pepper in water and found tiny animals in it. Let's try with hay. Do you think living things will appear?",
-     "kid": "Put hay in one jar of water. Put plain water in the other. Leave them by the window.",
-     "adult": true,
-     "context": "This is the first step of the Hay Water experiment. You set up two jars to see if tiny living things grow in them."
-    },
-    {
-     "id": "s2",
-     "mins": 7,
-     "do": "Put one drop from each jar on a slide. Look for 2 minutes and count anything that moves by itself.",
-     "say": "Count only things that move by themselves, not things drifting.",
-     "kid": "Put one drop on a slide. Look for 2 minutes. Count things that swim by themselves.",
-     "parent": "On day 1 you may see almost nothing. That is a good result too. Write 0 if you see none."
-    },
-    {
-     "id": "s3",
-     "mins": 10,
-     "do": "On day 3, look at one drop from each jar again. Count and draw the shapes.",
-     "say": "Has anything changed? Where did these come from?",
-     "kid": "Look again. Count. Draw the shapes you see.",
-     "wait": "Leave the jars for 2 days.",
-     "check": {
-      "t": "mcq",
-      "q": "By day 3 there are many more swimmers in the hay jar. Where did they come from?",
-      "options": [
-       "Tiny cells that were already on the hay or in the water split again and again",
-       "The hay turned into animals",
-       "They appeared out of nothing"
-      ],
-      "a": 0,
-      "why": "A few single cells, or their resting forms, were already on the dry hay and in the water. With food from the hay, they split into two, then four, then many. Every cell comes from a cell. Picking 'out of nothing' is the old idea of spontaneous generation. Scientists showed long ago that it is not true."
-     }
-    },
-    {
-     "id": "s4",
-     "mins": 10,
-     "do": "On day 5, look and count once more. Draw a bar chart of the hay jar counts.",
-     "say": "What does the chart show? What about the plain water jar?",
-     "kid": "Count one last time. Draw a bar for each day.",
-     "wait": "Leave the jars for 2 more days.",
+     "mins": 5,
+     "context": "This is the first step of the Curd Bowls experiment. You think about why we add old curd to milk.",
+     "do": "Show your child a bowl of curd and a cup of milk.",
+     "say": "To make curd, we stir a spoon of old curd into warm milk. Why do you think we need the old curd? What do you think is in it?",
+     "kid": "Look at the curd and the milk. We add old curd to milk to make curd. Why? What is in it?",
      "ask": [
       {
-       "q": "Why did the hay jar get more swimmers than the plain jar?",
+       "q": "What do you think is in the old curd that turns milk into curd?",
        "good": [
-        "The hay gave them food.",
-        "More food means cells can split more."
+        "Something alive.",
+        "Tiny living things.",
+        "Bacteria.",
+        "I don't know, let's find out."
        ]
       }
      ]
     },
     {
-     "id": "s5",
+     "id": "s2",
      "mins": 5,
-     "do": "Ask for three sentences: what I think, what I saw, why. Then empty and wash the jars together.",
-     "say": "What do you think now? What did you see? Why?",
-     "kid": "What I think. What I saw. Why. Then help wash the jars.",
+     "do": "1. A grown-up puts 1 spoon of curd in a small steel vessel and heats it until it bubbles. 2. Let it cool for a few minutes. 3. Label three bowls A, B and C with tape.",
+     "say": "I am heating this spoon of curd until it bubbles. Do you think heated curd can still turn milk into curd? Why do you think so?",
+     "kid": "A grown-up heats one spoon of curd. Then it cools. Can heated curd still make curd? Why do you think so?",
      "adult": true,
-     "parent": "A good answer: 'I think tiny cells grow in hay water. I saw 2 swimmers on day 1 and 25 on day 5 in the hay jar, but hardly any in plain water. The hay fed cells that were already there, so they split and multiplied.'"
+     "parent": "Heated curd splits into lumps and watery whey. That is fine. Let it cool before it goes into the milk."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "1. Pour the lukewarm milk into the three bowls, about half a cup each. 2. Bowl A: stir in 1 spoon of curd. 3. Bowl B: add nothing. 4. Bowl C: stir in the heated curd. 5. Cover all three, and keep them together in a warm place overnight.",
+     "say": "Each bowl gets the same milk, in the same place, for the same time. Only one thing changes: what we add.",
+     "kid": "Pour milk into the three bowls. Add curd to A. Add nothing to B. Add the heated curd to C. Cover them.",
+     "adult": true,
+     "parent": "The milk should feel warm but not hot on the inside of your wrist. Hot milk kills curd bacteria, and cold milk sets very slowly. In cold weather, wrap the bowls in a towel or keep them in a closed cupboard. They may need 10 hours or more."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "wait": "Leave the bowls overnight, or for 6 to 10 hours.",
+     "do": "Next morning, tilt each bowl gently. Write in the table whether it is thick or runny, and how it smells.",
+     "say": "Which bowls set? Is that what you guessed?",
+     "kid": "Tilt each bowl slowly. Is it thick or runny? Smell it. Write it down.",
+     "parent": "What to expect: bowl A is thick curd. Bowls B and C stay runny. In hot weather, B and C may turn a little sour or lumpy after a day, from a few bacteria that got in from the air. If you have a Foldscope or microscope, look at a tiny dab of bowl A in a drop of water. You may see tiny rods and dots: curd bacteria.",
+     "check": {
+      "t": "mcq",
+      "q": "Bowl A, with curd, set into curd. Bowl C, with heated curd, stayed runny. Why?",
+      "options": [
+       "Heat killed the bacteria in the curd, so there were no living cells to multiply",
+       "Heated curd is too lumpy to mix with milk",
+       "Bowl C was just unlucky"
+      ],
+      "a": 0,
+      "why": "Curd is set by living bacteria. In warm milk they split again and again, and turn the milk sour and thick. Heating killed them, so nothing could multiply in bowl C. Bowl B had no curd bacteria added at all. Picking 'unlucky' is worth testing: do it again and see if the same thing happens."
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Ask your child to say three things: what they think, what they saw, and why.",
+     "say": "What do you think turns milk into curd? What did you see in our three bowls that shows it? Why did bowl C stay runny?",
+     "kid": "Say three things. What I think. What I saw. Why.",
+     "parent": "A good answer: 'I think living bacteria in curd turn milk into curd. Bowl A set, but bowl B and bowl C stayed runny. The heat killed the bacteria in C, so there were no living cells to make more cells.'"
     }
    ]
   }
@@ -1244,7 +1227,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Put 8 things on a tray: a leaf, a pinch of salt, sugar, a cloth, a feather, paper, your own fingertip and a slice of tomato.",
+     "do": "Put 8 things on a tray: a leaf, a pinch of salt, a pinch of sugar, a cloth and a feather. Add a piece of paper and a slice of tomato. The eighth thing is your own fingertip.",
      "say": "We're going to be zoom explorers. First, just look with your eyes. What do you notice?",
      "kid": "Look at each thing with just your eyes. What do you notice?",
      "context": "This is the first step of the Zoom Walk. You look closely at ordinary things before learning about cells."
@@ -1359,7 +1342,7 @@
      "say": "Our phone is now a microscope! What can you see that you couldn't before?",
      "kid": "With a grown-up, put a tiny drop on the phone camera. Look at a leaf very close.",
      "adult": true,
-     "parent": "Hold the phone lens-up while adding the drop, then turn it over gently. Tap to focus. Wipe the lens dry afterwards."
+     "parent": "Hold the phone lens-up while adding the drop, then turn it over gently. A drop the size of a mustard seed clings best. Tap to focus. Phone cameras differ, and some stay blurry. Wipe the lens dry afterwards."
     },
     {
      "id": "s4",
@@ -1388,16 +1371,15 @@
    "context": "In this activity you make a paper ladder of sizes. Each step down is 10 times smaller than the one above. It shows how tiny a cell is compared with you.",
    "materials": [
     {
-     "item": "a long strip of paper, about 1 metre",
+     "item": "a long strip of paper, about 1 metre, or newspaper sheets taped together",
      "qty": 1
     },
     {
      "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
-     "item": "a grain of rava, an ant or a picture of one, and a leaf",
+     "item": "a mustard seed, an ant or a picture of one, and a leaf",
      "qty": 1
     },
     {
@@ -1405,7 +1387,7 @@
      "qty": 1
     }
    ],
-   "safety": "No safety worries. Let ants go after looking.",
+   "safety": "No safety worries. If you look at a real ant, let it go afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1420,12 +1402,12 @@
      "caption": "1. Step 1: you, about 1 metre."
     },
     {
-     "art": "A paper strip with drawn steps: a hand, an ant, a rava grain, each ten times smaller.",
+     "art": "A paper strip with drawn steps: a hand, a big ant, a mustard seed, each ten times smaller.",
      "caption": "2. Each step is 10 times smaller: 10 cm, 1 cm, 1 mm."
     },
     {
-     "art": "The bottom of the ladder with tiny dots labelled onion cell, cheek cell and bacterium, and a magnifier over them.",
-     "caption": "3. Then cells: 0.1 mm, then smaller still."
+     "art": "The bottom of the ladder with tiny dots labelled onion cell, red blood cell and bacterium, and a magnifier over them.",
+     "caption": "3. Then cells: 0.1 mm, 0.01 mm and 0.001 mm."
     }
    ],
    "flow": [
@@ -1440,12 +1422,12 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Fill in boxes 2 to 4 together: a hand (10 centimetres), an ant (1 centimetre), a grain of rava (1 millimetre). Use the ruler to check each.",
-     "say": "Ten of your hands would stretch about as tall as you. Ten ants would line up along your hand. Ten rava grains would line up along an ant.",
-     "kid": "Box 2: a hand, 10 cm. Box 3: an ant, 1 cm. Box 4: a rava grain, 1 mm. Check with the ruler.",
+     "do": "Fill in boxes 2 to 4 together: a hand (10 centimetres), a big black ant (1 centimetre), a mustard seed (1 millimetre). Use the ruler to check each.",
+     "say": "Ten of your hands would stretch about as tall as you. Ten big ants would line up along your hand. Ten mustard seeds would line up along a big ant.",
+     "kid": "Box 2: a hand, 10 cm. Box 3: a big ant, 1 cm. Box 4: a mustard seed, 1 mm.",
      "ask": [
       {
-       "q": "How many ants would fit along your hand?",
+       "q": "How many big ants would fit along your hand?",
        "good": [
         "About 10."
        ]
@@ -1455,19 +1437,19 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Fill in boxes 5 to 7: an onion cell (about one tenth of a millimetre), a cheek cell (a little smaller), a bacterium (about a thousandth of a millimetre).",
-     "say": "From here on, our eyes can't see without help. Ten onion cells fit along a grain of rava.",
-     "kid": "Box 5: an onion cell. Box 6: a cheek cell. Box 7: a bacterium. These need a microscope!",
+     "do": "Fill in boxes 5 to 7: an onion cell (a tenth of a millimetre), a red blood cell (a hundredth of a millimetre), a bacterium (a thousandth of a millimetre).",
+     "say": "From here on, our eyes can't see without help. Ten onion cells fit along a mustard seed. Your cheek cells fit between box 5 and box 6.",
+     "kid": "Box 5: an onion cell. Box 6: a red blood cell. Box 7: a bacterium.",
      "check": {
       "t": "mcq",
-      "q": "About how many onion cells fit side by side across one grain of rava?",
+      "q": "About how many onion cells fit side by side across one mustard seed?",
       "options": [
        "About 10",
        "About 1",
        "About a million"
       ],
       "a": 0,
-      "why": "A rava grain is about 1 millimetre across. An onion cell is about a tenth of a millimetre wide. So about 10 fit across. Picking '1' usually means thinking cells are as big as grains. Picking 'a million' is too many for one row, though a whole onion has millions of cells."
+      "why": "A mustard seed is about 1 millimetre across. An onion cell is about a tenth of a millimetre wide. So about 10 fit across. Picking '1' usually means thinking cells are as big as seeds. Picking 'a million' is too many for one row, though a whole onion has millions of cells."
      }
     },
     {
@@ -1566,11 +1548,11 @@
      "qty": 1
     },
     {
-     "item": "a leaf with a purple underside, like Rhoeo (Moses-in-the-cradle), or any soft leaf",
+     "item": "a leaf with a purple underside, like Rhoeo (Moses-in-the-cradle), if you have one, or any soft leaf",
      "qty": 1
     },
     {
-     "item": "a hand lens or phone camera",
+     "item": "a hand lens, or a phone with a water-drop lens",
      "qty": 1,
      "buy": "b-handlens"
     },
@@ -1617,7 +1599,7 @@
      "mins": 6,
      "do": "Pull one single fibre from the cotton wool. Lay it on the dark paper and look with the lens.",
      "say": "This whole thread is just one cell. Cotton plants grow these long cells on their seeds.",
-     "kid": "Pull out one cotton thread. Look at it. The whole thread is one cell!",
+     "kid": "Pull out one cotton fibre, a single hair of cotton. Look at it. The whole fibre is one cell!",
      "check": {
       "t": "mcq",
       "q": "A single cotton fibre is…",
@@ -1634,8 +1616,9 @@
      "id": "s3",
      "mins": 6,
      "do": "Tear the leaf at a slant so a thin, coloured skin peels off. Lay it on a slide or plate with a drop of water. Look with the strongest lens you have.",
-     "say": "Do you see little shapes fitted together? Some leaves also have tiny paired doors, called stomata, that let air in.",
-     "kid": "Tear the leaf at a slant. Find the thin skin. Look closely. Do you see shapes fitted together?"
+     "say": "Do you see little shapes fitted together? Leaves also have tiny paired openings, called stomata, that let air in. You need a microscope to see those.",
+     "kid": "Tear the leaf at a slant. Find the thin skin. Look closely. Do you see shapes fitted together?",
+     "parent": "With a hand lens you will see only the leaf's colour and veins. A phone with a water drop may show a faint pattern of shapes, best on a purple Rhoeo peel. Stomata need a Foldscope or microscope."
     },
     {
      "id": "s4",
@@ -1671,7 +1654,7 @@
      "buy": "b-slides"
     },
     {
-     "item": "things to look at: onion, a leaf, curd, banana, a drop of tank or pond water",
+     "item": "things to look at: onion, a leaf, curd, a raw potato, and water from a flower vase left for a week",
      "qty": 1
     }
    ],
@@ -1695,12 +1678,12 @@
     {
      "day": 4,
      "mins": 10,
-     "what": "Fourth page: banana flesh with a drop of iodine. The starch grains inside the cells turn dark blue."
+     "what": "Fourth page: a thin slice of raw potato with a drop of iodine. The starch grains inside the cells turn dark blue-black."
     },
     {
      "day": 5,
      "mins": 15,
-     "what": "Fifth page: pond or tank water. Last page: 'What I am made of'. Show the atlas to someone."
+     "what": "Fifth page: a drop of old flower-vase water. Last page: 'What I am made of'. Show the atlas to someone."
     }
    ],
    "record": "Each page has a drawing or photo, the name of the living thing, the magnifier used, and one fact.",
@@ -1710,7 +1693,7 @@
      "caption": "1. Make a little book with a cover."
     },
     {
-     "art": "A child at a Foldscope, with a banana slice and a dropper beside the slide.",
+     "art": "A child with a phone held over a thin potato slice, a dropper beside it.",
      "caption": "2. Each day, look at one new living thing."
     },
     {
@@ -1742,36 +1725,38 @@
      "say": "Curd is full of bacteria. They are much smaller than onion cells. Can you see tiny dots or rods?",
      "kid": "Look at a tiny dab of curd. Can you find tiny dots or rods? Those are bacteria.",
      "wait": "Day 3.",
-     "parent": "With a Foldscope you may just see tiny moving specks. With a hand lens you will not see bacteria. That is a good result: it shows how tiny they are."
+     "parent": "With a Foldscope you may just see tiny specks that jiggle. With a hand lens or a phone you will not see bacteria. That is a good result: it shows how tiny they are."
     },
     {
      "id": "s4",
      "mins": 10,
-     "do": "On day 4, squash a tiny piece of banana on a slide. A grown-up adds one drop of iodine.",
-     "say": "Inside banana cells are tiny grains of starch, the cell's stored food. Iodine turns starch dark blue.",
-     "kid": "Squash a bit of banana. A grown-up adds a drop of iodine. What turns dark blue?",
+     "do": "On day 4, a grown-up cuts a very thin slice of raw potato and adds one drop of iodine antiseptic. Look by eye, then with your strongest lens.",
+     "say": "Inside potato cells are tiny grains of starch, the plant's stored food. Iodine turns starch dark blue-black. Where does the colour go?",
+     "kid": "A grown-up adds iodine to a potato slice. What turns dark?",
      "adult": true,
      "wait": "Day 4.",
      "check": {
       "t": "mcq",
-      "q": "The dark blue grains in banana cells are…",
+      "q": "The dark blue-black grains in potato cells are…",
       "options": [
        "stored food called starch",
        "bacteria",
        "the cell walls"
       ],
       "a": 0,
-      "why": "Iodine turns starch dark blue. Banana cells store food as tiny starch grains. Picking 'bacteria' usually means thinking anything small and dark is a germ."
-     }
+      "why": "Iodine turns starch dark blue-black. Potato cells store food as tiny starch grains. Picking 'bacteria' usually means thinking anything small and dark is a germ."
+     },
+     "parent": "The whole cut surface goes blue-black, which you can see by eye. A Foldscope shows the separate starch grains inside the cells."
     },
     {
      "id": "s5",
      "mins": 15,
-     "do": "On day 5, look at pond or tank water. Then write the last page: 'What I am made of'. Show the atlas to a family member.",
+     "do": "On day 5, look at a drop of old flower-vase water. Then write the last page: 'What I am made of'. Show the atlas to a family member.",
      "say": "Tell someone what you discovered this week. What surprised you most?",
-     "kid": "Look at pond water. Write your last page: What I am made of. Show your atlas to someone.",
+     "kid": "Look at a drop of vase water. Write your last page: What I am made of. Show your atlas.",
      "adult": true,
-     "wait": "Day 5."
+     "wait": "Day 5.",
+     "parent": "Water from a vase or a plant saucer left for a week often holds single cells that swim. With a phone and water drop you may see only moving specks. Wash hands after."
     }
    ]
   }
@@ -1797,13 +1782,13 @@
    ],
    "general": [
     "Put a tiny drop of water on a phone camera lens. It works like a small, strong lens.",
-    "Look through a clear glass marble held close to your eye and the onion skin.",
+    "Look through a clear glass marble held close to your eye and the onion skin. The middle is clear, the edges are blurry.",
     "Shine a torch from below the onion skin, so light passes through it."
    ],
    "creative": [
     "Make a card holder with a small hole in it. Put a water drop in the hole, like Leeuwenhoek's lens in its metal plate.",
     "Stack two magnifiers, one after the other, like the two lenses in a real microscope.",
-    "Shine a bright torch through the onion skin and a water drop in a dark room, so a big blurry picture falls on a white wall."
+    "Rest the phone, with its water drop, on two stacks of books over the onion skin, with a torch shining up from below. A steady phone gives a sharper picture."
    ],
    "your_turn": "Invent your own magnifier. Draw it, build it and test it on onion skin. Can you see the bricks?",
    "setup": [
@@ -1921,7 +1906,7 @@
        "Railway builders copied slime moulds"
       ],
       "a": 0,
-      "why": "The slime mould grew tubes everywhere at first, then kept the tubes that carried the most food and let the others fade. With no brain, one cell found a network nearly as good as engineers had built. Picking 'read maps' gives the cell abilities it does not have. The railway was built long before the experiment, in 2010."
+      "why": "The slime mould grew tubes everywhere at first. Then it kept the tubes that carried the most food and let the others fade. With no brain, one cell found a network nearly as good as the one engineers had built. There was no map in the dish: it found the paths by growing and testing. The experiment was done in 2010, long after the railway was built, so the builders did not copy it."
      }
     },
     {
@@ -2021,10 +2006,10 @@
      "pairs": [
       [
        "Your eyes alone",
-       "a grain of rava"
+       "a mustard seed"
       ],
       [
-       "A hand lens",
+       "A hand lens or a phone with a water drop",
        "the shiny cells in tomato pulp"
       ],
       [
@@ -2105,15 +2090,15 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, from BIGGEST to SMALLEST: a bacterium, an ant, an onion cell, a grain of rava.",
+     "p": "Put these in order, from BIGGEST to SMALLEST: a bacterium, a big ant, an onion cell, a mustard seed.",
      "items": [
-      "an ant",
-      "a grain of rava",
+      "a big ant",
+      "a mustard seed",
       "an onion cell",
       "a bacterium"
      ],
      "a": "order shown",
-     "why": "An ant is about 1 centimetre. A rava grain is about 1 millimetre. An onion cell is about a tenth of a millimetre. A bacterium is about a thousandth of a millimetre."
+     "why": "A big ant is about 1 centimetre. A mustard seed is about 1 millimetre. An onion cell is about a tenth of a millimetre. A bacterium is about a thousandth of a millimetre."
     },
     {
      "t": "draw",
@@ -2152,40 +2137,17 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Asha's hay water jar had 2 swimmers in a drop on day 1, and 25 on day 5. Look at the chart. What is the best explanation?",
+     "p": "Asha set three bowls of warm milk overnight. Bowl A had a spoon of curd. Bowl B had nothing. Bowl C had a spoon of curd that was boiled first. Only bowl A set. What is the best explanation?",
      "opts": [
-      "The few cells already there kept splitting, fed by the hay",
-      "The hay turned into swimmers",
-      "New swimmers floated in from the air every minute",
-      "The water made them out of nothing"
+      "Living bacteria in the curd split again and again, and only bowl A had living bacteria",
+      "Curd is heavy, so it makes milk thick",
+      "Milk always turns into curd by itself overnight",
+      "Boiling made the curd too sour"
      ],
      "a": 0,
-     "why": "Cells come only from cells. A few cells were already on the hay. With food, they split again and again. Picking 'out of nothing' is the old idea of spontaneous generation. A few cells can land from the air, but most come from splitting.",
-     "context": "Remember the hay water experiment, where dry grass soaked in water for 5 days and you counted swimmers in one drop?",
-     "how": "e3",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example: swimmers in one drop of hay water",
-      "x": "Day",
-      "y": "Swimmers in one drop",
-      "data": [
-       {
-        "label": "Day 1",
-        "value": 2,
-        "emoji": "💧"
-       },
-       {
-        "label": "Day 3",
-        "value": 9,
-        "emoji": "💧"
-       },
-       {
-        "label": "Day 5",
-        "value": 25,
-        "emoji": "💧"
-       }
-      ]
-     }
+     "why": "Cells come only from living cells. The curd in bowl A held living bacteria, which multiplied in the warm milk. Boiling killed the bacteria in bowl C, and bowl B had none added. Picking 'milk turns into curd by itself' is like the old idea of spontaneous generation: bowl B shows it does not.",
+     "context": "Remember the curd bowls experiment, where you set three bowls of warm milk overnight?",
+     "how": "e3"
     },
     {
      "t": "mcq",
@@ -2331,7 +2293,7 @@
       "Nothing alive"
      ],
      "a": 0,
-     "why": "Your brain is made of about 86 billion neurons and many helper cells. Thinking happens when these cells pass signals. Picking 'electricity only' is half right: signals are tiny flows of charged bits, but they happen in living cells."
+     "why": "Your brain is made of about 86 billion neurons and many helper cells. Thinking happens when these cells pass signals. Picking 'electricity only' is half right: signals are tiny flows of charged particles, but they happen in living cells."
     },
     {
      "t": "write",
@@ -2349,8 +2311,8 @@
     },
     {
      "t": "draw",
-     "p": "Draw a size ladder with 4 steps: you, an ant, a rava grain and an onion cell. Write how big each is.",
-     "a": "You: about 1 metre. Ant: about 1 cm. Rava grain: about 1 mm. Onion cell: about one tenth of a millimetre.",
+     "p": "Draw a size ladder with 4 steps: you, a big ant, a mustard seed and an onion cell. Write how big each is.",
+     "a": "You: about 1 metre. Big ant: about 1 cm. Mustard seed: about 1 mm. Onion cell: about one tenth of a millimetre.",
      "why": "Drawing the ladder shows how many times smaller each step is.",
      "art": "Four empty boxes going down like stairs.",
      "context": "Remember the Size Ladder, where each step was 10 times smaller than the one before?",
@@ -2394,8 +2356,8 @@
      "t": "write",
      "p": "Why do you think cells are so small? Why isn't an elephant one giant cell?",
      "lines": 4,
-     "a": "Food and air get into a cell through its skin. In a tiny cell, everything inside is close to the skin, so food reaches it fast. In a giant cell, the middle would be too far from the skin to get food in time. So big living things are made of many small cells.",
-     "why": "A small cell has a lot of skin compared with its inside. This is one reason scientists give, though a few giant cells, like slime moulds, find clever ways around it."
+     "a": "Food and air get into a cell through its membrane, its thin skin. In a tiny cell, everything inside is close to the membrane, so food reaches it fast. In a giant cell, the middle would be too far away to get food in time. So big living things are made of many small cells.",
+     "why": "A small cell has a lot of membrane compared with its inside. This is one reason scientists give, though a few giant cells, like slime moulds, find clever ways around it."
     },
     {
      "t": "mcq",
@@ -2424,16 +2386,16 @@
     },
     {
      "t": "mcq",
-     "p": "Which is the best evidence that the swimmers in hay water are alive?",
+     "p": "Which is the best evidence that curd has living cells in it?",
      "opts": [
-      "They swim by themselves, take in food and their numbers grow",
-      "They are very small",
-      "They are in water",
-      "They look green"
+      "A spoon of it turns warm milk into curd, but a heated spoon of it does not",
+      "It is white",
+      "It is cold from the fridge",
+      "It tastes sour"
      ],
      "a": 0,
-     "why": "Living things take in food, grow, make more of themselves and respond. Swimming on their own and multiplying shows life. Being small, wet or green alone does not.",
-     "context": "Remember the hay water experiment, where you counted swimmers in one drop on days 1, 3 and 5?",
+     "why": "Living cells multiply, and heat kills them. Curd sets new milk only while its bacteria are alive. Being white, cold or sour does not show life by itself.",
+     "context": "Remember the curd bowls experiment, where you set three bowls of warm milk overnight?",
      "how": "e3"
     },
     {
@@ -2447,13 +2409,13 @@
      "t": "mcq",
      "p": "Which statement is an idea that scientists are still testing, not a settled fact?",
      "opts": [
-      "The first cells began as oily bubbles holding molecules that could copy themselves",
+      "The first cells began as tiny fatty bubbles holding molecules that could copy themselves",
       "All living things are made of cells",
       "New cells come from cells",
       "Plant cells have walls"
      ],
      "a": 0,
-     "why": "How the first cell began is still an open question. The oily-bubble idea is one of the best guesses. The other three have been checked by millions of observations."
+     "why": "How the first cell began is still an open question. The fatty-bubble idea is one of the best guesses. The other three have been checked by millions of observations."
     },
     {
      "t": "fill",
@@ -2620,7 +2582,7 @@
   },
   {
    "t": "mcq",
-   "p": "A rava grain is about 1 millimetre. An onion cell is about a tenth of a millimetre. About how many onion cells fit across a rava grain?",
+   "p": "A mustard seed is about 1 millimetre across. An onion cell is about a tenth of a millimetre. About how many onion cells fit across a mustard seed?",
    "opts": [
     "10",
     "1",
@@ -2688,6 +2650,21 @@
    "outcome": 2,
    "how": "e1",
    "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?"
+  },
+  {
+   "t": "mcq",
+   "p": "Bowl A of warm milk had a spoon of curd. Bowl C had a spoon of curd that was boiled first. Only bowl A set. Why?",
+   "opts": [
+    "The heat killed the curd bacteria, so there were no living cells to multiply",
+    "Boiled curd is too hot for ever",
+    "Bowl C needed more milk",
+    "Curd sets only in the morning"
+   ],
+   "a": 0,
+   "why": "New cells come only from living cells. The living bacteria in bowl A split again and again and set the milk. In bowl C they had been killed. Picking 'too hot for ever' misses that the curd had cooled before it went in.",
+   "outcome": 7,
+   "context": "Remember the curd bowls experiment, where you set three bowls of warm milk overnight?",
+   "how": "e3"
   }
  ],
  "videos": [
@@ -2768,7 +2745,7 @@
  "open_questions": [
   {
    "q": "How did the very first cell begin?",
-   "why_open": "Nobody was there, and no fossils of the first cells survive. Scientists test ideas in labs, like oily bubbles holding copying molecules, but no one has made a living cell from non-living stuff."
+   "why_open": "Nobody was there, and no fossils of the first cells survive. Scientists test ideas in labs, like tiny fatty bubbles holding copying molecules, but no one has made a living cell from non-living matter."
   },
   {
    "q": "Can a single cell feel anything?",
@@ -2892,36 +2869,13 @@
    "why_maths": "Cells are too small to count across a whole onion. Counting a small part and multiplying lets scientists estimate big numbers."
   },
   {
-   "problem": "Asha counted swimmers in one drop of hay water: 2 on day 1, 9 on day 3 and 25 on day 5. Look at the chart. How many more swimmers were there on day 5 than on day 1?",
-   "answer": "23 more.",
-   "explain": "On day 5 there were 25 swimmers. On day 1 there were 2. 25 take away 2 is 23. So there were 23 more swimmers on day 5. The bars show the hay jar filling up as cells split.",
-   "math_unit": "math.data.bar-charts.L3",
-   "context": "This is about the hay water experiment. You soaked dry grass in water and counted moving single cells in one drop on days 1, 3 and 5.",
+   "problem": "In warm milk, a curd bacterium can split into two about once an hour. Start with 1 bacterium. How many will there be after 5 hours?",
+   "answer": "32 bacteria.",
+   "explain": "Every hour, each bacterium splits in two, so the number doubles. After 1 hour there are 2. After 2 hours, 4. After 3 hours, 8. After 4 hours, 16. After 5 hours, 32. A spoon of curd starts with millions, so by morning there are far more.",
+   "math_unit": "math.patterns.number-patterns.L3",
+   "context": "This is about the curd bowls experiment. You set warm milk with a spoon of curd overnight, and it turned into curd.",
    "how": "e3",
-   "chart": {
-    "type": "bar",
-    "title": "Made-up example: swimmers in one drop of hay water",
-    "x": "Day",
-    "y": "Swimmers in one drop",
-    "data": [
-     {
-      "label": "Day 1",
-      "value": 2,
-      "emoji": "💧"
-     },
-     {
-      "label": "Day 3",
-      "value": 9,
-      "emoji": "💧"
-     },
-     {
-      "label": "Day 5",
-      "value": 25,
-      "emoji": "💧"
-     }
-    ]
-   },
-   "why_maths": "A bar chart shows at a glance how fast the cells multiplied, and subtracting tells us exactly how many more there were."
+   "why_maths": "Doubling grows slowly at first and then very fast. The pattern shows why a few hours turn a spoon of curd into a whole bowl."
   },
   {
    "problem": "On the size ladder, each step is 10 times smaller. You are about 1 metre. An onion cell is 4 steps down. How many times smaller than you is an onion cell?",
@@ -3014,14 +2968,13 @@
  "buy": [
   {
    "id": "b-foldscope",
-   "item": "Foldscope paper microscope kit",
+   "item": "A Foldscope paper microscope, or a toy student microscope",
    "kind": "tool",
-   "why": "A cheap, sturdy paper microscope that makes things about 140 times bigger. Enough to see onion, cheek and pond cells.",
-   "url": "https://www.amazon.in/s?k=foldscope+paper+microscope",
+   "why": "Only needed for cheek cells and the clearest views of onion cells. A Foldscope makes things about 140 times bigger. A toy student microscope from a toy shop or online works too. Without one, the phone and water drop still show onion cells faintly.",
+   "url": "https://www.amazon.in/s?k=microscope+for+kids",
    "used_in": [
     "e1",
     "e2",
-    "e3",
     "p1"
    ],
    "plan": "Used again in Microbes and Plants units. A toy student microscope also works."
@@ -3030,7 +2983,7 @@
    "id": "b-handlens",
    "item": "Magnifying glass, about 10 times",
    "kind": "tool",
-   "why": "For the Zoom Walk and for cells you can almost see, like tomato cells.",
+   "why": "For the Zoom Walk and for cells you can almost see, like tomato cells. A phone camera zoomed in can be used instead.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+10x+kids",
    "used_in": [
     "a1",
@@ -3041,23 +2994,12 @@
    "id": "b-slides",
    "item": "Glass slides and coverslips",
    "kind": "material",
-   "why": "To hold onion skin, cheek cells and pond water flat under the lens.",
+   "why": "Optional. Glass slides hold onion skin and cheek cells flat. Strips of clear plastic from a packet also work.",
    "url": "https://www.amazon.in/s?k=microscope+glass+slides+coverslips",
    "used_in": [
     "e1",
     "e2",
-    "e3",
     "p1"
-   ]
-  },
-  {
-   "id": "b-ruler",
-   "item": "30 cm ruler",
-   "kind": "tool",
-   "why": "To measure the steps on the size ladder.",
-   "url": "https://www.amazon.in/s?k=30+cm+ruler",
-   "used_in": [
-    "a3"
    ]
   },
   {
@@ -3070,7 +3012,7 @@
     "e3",
     "p1"
    ],
-   "plan": "Read it before the hay water experiment, and again after the cell atlas."
+   "plan": "Read it before the curd bowls experiment, and again after the cell atlas."
   }
  ],
  "warmup": [
@@ -3112,33 +3054,33 @@
   }
  ],
  "roots": {
-  "context": "We have been learning that every living thing is made of cells, and that even one cell can sense and choose. Now we ask what that tells us about ourselves and the world.",
+  "context": "We have been learning that every living thing is made of cells, and that new cells come only from living cells. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Thinking is older than brains. A single cell can sense, decide and remember.",
-   "habit": "We use the word 'brain' as if it meant 'thinking', the way people say 'Xerox' for any photocopy. But a brain is a crowd of cells. Long before there were brains, single cells were already sensing the world and choosing what to do.",
-   "evidence": "A one-celled bacterium remembers the smell of food from a few seconds ago and turns towards more. A trumpet-shaped Stentor tried one escape after another. A one-celled slime mould found the shortest path through a maze."
+   "truth": "Milk with a spoon of curd set into curd. Milk with heated curd stayed runny, because heat had killed its bacteria. New cells came only from living cells. So every cell alive today, yours too, comes from an unbroken chain of cells splitting since the first cells.",
+   "habit": "We call a baby, a sprout or a fresh bowl of curd 'new life'. But none of its cells is new. Each one came from a living cell, in a line of splits that has never broken.",
+   "evidence": "In the curd bowls, only milk given living curd bacteria set. Heated curd, with its bacteria killed, set nothing. Remak saw new cells form only when a cell split, and Pasteur showed that boiled broth stays free of microbes if nothing living gets in."
   },
   "three": {
-   "who_am_i": "You are a crowd of about 30 trillion living cells, and every one of them senses and responds. You are many, living as one.",
-   "what_is_life": "Life is made of cells, and every cell comes from a cell. Your cells are part of one long chain going back to the very first cell.",
+   "who_am_i": "You began as one cell. All your 30 trillion cells came from it, by splitting again and again.",
+   "what_is_life": "Life is made of cells, and every cell comes from a living cell. Your cells are the newest links in a chain that has never broken since the first cells.",
    "what_is_this_world": "The world is full of tiny lives we cannot see, in every drop of tank water and every spoon of curd."
   },
-  "thread": "Every living thing began from one cell, and every cell came from a cell, all the way back to the first one. From that one beginning came bacteria, banyan trees, ants and you. DeepKids believes this is the One becoming the many. And the sensing that a single cell does, noticing and turning towards what it needs, may be the first small spark of the awareness that looks out through your eyes today.",
+  "thread": "Every cell in you came from a cell, and that one from another, back to the first cells at least 3.5 billion years ago. The curd in your kitchen, the neem tree outside and you are all branches of that one line. DeepKids believes this line carried more than chemicals. It carried the sensing and choosing that every cell does, and your own awareness grew out of it.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that subtle essence you cannot see, this whole great banyan tree grows.'",
-    "link": "A great tree, or you, grows from tiny cells far too small to see. The biggest living things begin with the invisible."
+    "link": "Shvetaketu saw nothing inside the banyan seed, yet the whole tree grows from it. Science finds that the tree is built of cells too small to see, each one made by another cell."
    },
    {
     "source": "Tattvartha Sutra of Umasvati, chapter 2",
     "teaching": "Jain thought says every living being has a jiva, a living soul, even beings with only one sense, the sense of touch, like plants.",
-    "link": "Science finds that even single cells sense the world around them. Jain teachers saw awareness spread through all living things, even the smallest."
+    "link": "Science finds that even a single cell senses what is around it. Jain teachers counted even the simplest beings, with only the sense of touch, as living souls."
    },
    {
     "source": "Aristotle, On the Soul (De Anima), Book II",
     "teaching": "Aristotle taught that every living thing has a 'soul', meaning a power of life. Plants have the power to feed and grow. Animals also have the power to sense.",
-    "link": "Like Aristotle, cell scientists ask what powers all life shares. They find that every cell feeds, grows and senses."
+    "link": "Aristotle gave the power to sense only to animals. Cell scientists now find that a single bacterium senses food and swims towards it."
    }
   ],
   "science": [
@@ -3152,19 +3094,20 @@
    }
   ],
   "other_view": {
-   "who": "Many brain scientists, and the Charvaka school of ancient India",
-   "view": "What a bacterium does is chemistry, not thinking. Real thinking needs a brain, and there is no awareness beyond what bodies do. This is an honest view held by many careful people."
+   "who": "The Charvaka school of ancient India, and many scientists today",
+   "view": "A chain of cells is a chain of chemistry. What is passed down is matter and chemical instructions, nothing more. A cell's sensing is chemistry, not awareness, and awareness ends when the body ends. Many careful people hold this view."
   },
   "practice": {
    "title": "The city of you",
    "mins": 3,
-   "say": "Let's sit still and close our eyes. Put one hand on your chest and feel your heart beating. Each beat is millions of heart cells squeezing together. Now breathe in slowly. That breath is going to feed trillions of your cells. Breathe out. Now just notice: you are one, and you are also a whole city of tiny lives. Sit with that for three breaths.",
-   "kid": "Sit still. Close your eyes. Hand on your chest. Feel your heart. Each beat is millions of cells working together. Breathe in slowly. Your breath feeds all your cells. You are one, and you are many."
+   "say": "Let's sit still and close our eyes. Put one hand on your chest and feel your heart beating. Each beat is billions of heart cells squeezing together. Now breathe in slowly. That breath is going to feed trillions of your cells. Breathe out. Now just notice: you are one, and you are also a whole city of tiny lives. Sit with that for three breaths.",
+   "kid": "Sit still. Close your eyes. Hand on your chest. Feel your heart. Each beat is billions of cells working together. Breathe in slowly. Your breath feeds all your cells. You are one, and you are many."
   },
   "ask": [
    "If every one of your cells is alive, which one is 'you'?",
-   "A single cell can sense and choose. Where do you think your own thoughts come from?",
-   "You began as one cell. Was that cell already you?"
+   "Curd at home is set with older curd, which was set with older curd. How far back do you think that chain goes?",
+   "You began as one cell. Was that cell already you?",
+   "A single cell can sense and choose. Where do you think your own thoughts come from?"
   ],
   "art": "A child sitting cross-legged with eyes closed, their body softly filled with glowing tiny cells, and a single trumpet-shaped cell floating beside them."
  },
@@ -3174,6 +3117,7 @@
    "story",
    "a1",
    "e1",
+   "e3",
    "g1",
    "big_questions",
    "cards"
@@ -3183,6 +3127,7 @@
    "a1",
    "a4",
    "e1",
+   "e3",
    "story",
    "summary",
    "terms",
@@ -3195,7 +3140,6 @@
    "a3",
    "a5",
    "g2",
-   "e3",
    "agreed",
    "challenging",
    "c1",
@@ -3211,6 +3155,7 @@
   "core": [
    "a1",
    "e1",
+   "e3",
    "e2",
    "g1",
    "a2",
@@ -3221,7 +3166,7 @@
   "spine": [
    "intro",
    "e1",
-   "story",
+   "e3",
    "explanations",
    "roots",
    "quiz"
@@ -3229,7 +3174,7 @@
  },
  "sources": {
   "founder": [
-   "Founder's notes, How life began (ideas/by_topic/how-life-began.md): the first cell sensing food with protein sensors, ion flows as the root of thought, patterns as memory, brains built on what cells already did. This became the deep truth.",
+   "Founder's notes, How life began (ideas/by_topic/how-life-began.md): the first cell sensing food with protein sensors, ion flows as the root of thought, patterns as memory, brains built on what cells already did. Used in the cards on single cells sensing and choosing.",
    "Founder's SCI Cards (ideas/scientists.json): Robert Hooke naming the cell, J.C. Bose on plant signals, Lynn Margulis, Venkatraman Ramakrishnan.",
    "DeepKids Combined Class 3 'Living and non-living' (combined/sci-C3-living-and-non-living-signs-of-life.json): the onion skin experiment, 30 trillion cells, Leeuwenhoek as a cloth-seller with no degree. Improved and extended, story not reused.",
    "DeepKids Combined Class 3 'How life began': oily bubbles as the first cell skins.",
@@ -3245,7 +3190,15 @@
    "Tero and others, Science 2010 (slime mould and the Tokyo rail network)",
    "Boisseau, Vogel and Dussutour, Proceedings of the Royal Society B 2016 (habituation in slime moulds)",
    "Jennings, 1902, and Dexter, Prabakaran and Gunawardena, Current Biology 2019 (avoidance behaviours in Stentor)",
-   "Cybulski, Clements and Prakash, PLoS ONE 2014 (the Foldscope)"
+   "Cybulski, Clements and Prakash, PLoS ONE 2014 (the Foldscope)",
+   "Remak, 1852, and Virchow, 1855 (new cells come from cells dividing)",
+   "Pasteur, 1862 (boiled broth in swan-necked flasks stays free of microbes)"
   ]
+ },
+ "how_we_found_out": {
+  "story": "In 1838 and 1839, Matthias Schleiden and Theodor Schwann said that plants and animals are made of cells. But where do new cells come from? Schwann thought they formed by themselves in a clear liquid inside the body, the way crystals form in salty water as it dries. Many scientists agreed with him. Robert Remak, a doctor in Berlin, was not sure. For years he watched cells in growing chick eggs and frog eggs under his microscope. Again and again, he saw a new cell appear only when a cell split in two. He never saw a cell form in the liquid. He published this in 1852. Three years later, Rudolf Virchow wrote the same idea as a famous Latin line, 'omnis cellula e cellula', which means every cell comes from a cell. Virchow became famous for it, and Remak was mostly forgotten. Part of the reason was that Remak was Jewish, and Prussian universities held Jewish scientists back. He was never made a full professor. Today historians give him the credit.",
+  "who": "Robert Remak, who showed it, and Rudolf Virchow, who made it famous",
+  "when": "1852 to 1855",
+  "wrong_idea": "New cells form by themselves in a clear liquid, like crystals in drying salt water. Remak watched growing eggs for years and saw new cells appear only when a cell split."
  }
 }

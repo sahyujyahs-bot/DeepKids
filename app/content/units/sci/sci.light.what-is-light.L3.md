@@ -1,9 +1,9 @@
 # What is light, and how fast does it travel?
 `sci.light.what-is-light.L3`
 
-**Summary.** Light looks as if it arrives instantly, but it takes time to travel. It is energy that crosses even empty space, at about 3 lakh kilometres every second, so sunlight takes about 8 minutes to reach us. Light spreads like a wave, but its energy comes in tiny packets called photons. That is why a dim blue light can make a glow-in-the-dark star glow, while a bright red light cannot. Scientists can predict what light will do very well, but they still argue about what it really is.
+**Summary.** Light looks as if it arrives instantly, but it takes time to travel. It is energy that crosses even empty space, at about 3 lakh kilometres every second, so sunlight takes about 8 minutes to reach us. Light spreads like a wave, but its energy comes in tiny packets called photons. That is why a blue phone screen can make a glow-in-the-dark star glow, while a red screen cannot, even if you shine it for minutes. Scientists can predict what light will do very well, but they still argue about what it really is.
 
-**Intro.** *Go into a dark room with a torch. Switch it on. Did the light take any time to reach the far wall? Or was it there at once?* It looks instant. Click, and the wall is bright. For thousands of years, most people thought light needed no time at all to travel. Then, about 350 years ago, a young astronomer noticed that one of Jupiter's moons seemed to run late. Sometimes it was late by many minutes. The moon was not late at all. Its light had further to travel. In this unit, you will find out how fast light really is, why the sunshine on your arm left the Sun about 8 minutes ago, and why a little blue light can do what a lot of red light cannot.
+**Intro.** *Go into a dark room with a torch. Switch it on. Did the light take any time to reach the far wall? Or was it there at once?* It looks instant. Click, and the wall is bright. For thousands of years, most people thought light needed no time at all to travel. Then, about 350 years ago, a young astronomer noticed that one of Jupiter's moons seemed to run late. When the Earth was far from Jupiter, the moon appeared minutes later than expected. The moon was not late at all. Its light had further to travel. In this unit, you will find out how fast light really is, why the sunshine on your arm left the Sun about 8 minutes ago, and why blue light can make a glow-in-the-dark star glow when red light cannot.
 
 ## Learning outcomes
 0. I can say what light is: energy that travels in straight lines and needs no air to move through.
@@ -101,7 +101,7 @@ The speed of light, 3 lakh kilometres a second, is its speed in empty space. Whe
 For over 300 years, scientists argued about what light is made of. Is it a stream of tiny particles, like sand thrown from a hand? Or is it a wave, like ripples on a pond? Each side had good evidence. The surprising answer is that light behaves like both. Here are the main views, in order.
 - e.g. Ripples in two places on a pond cross and make a pattern. Light does that too, which is wave-like.
 - e.g. A glow-in-the-dark star lights up under blue light but not under red light. That shows light's energy comes in packets.
-- e.g. A phone camera works because each photon that lands on its sensor knocks out an electron, and the sensor counts them.
+- e.g. A phone camera works because photons landing on its sensor knock electrons loose. The sensor measures how many were freed in each tiny spot.
 - **Isaac Newton, an English scientist, in his book Opticks, 1704:** Light is a stream of tiny particles, which he called corpuscles. That is why it goes in straight lines and makes sharp shadows.
 - **Christiaan Huygens, a Dutch scientist, in his Treatise on Light, 1690, and Thomas Young, an English doctor, around 1803:** Light is a wave. Young shone light through two thin slits close together. On the wall behind, he saw bright and dark stripes. Only waves make stripes like that, where two sets of ripples add up or cancel out.
 - **James Clerk Maxwell, a Scottish scientist, in 1865:** Light is a wave of electricity and magnetism. His sums gave the speed of such a wave. It came out the same as the speed of light.
@@ -113,7 +113,7 @@ For over 300 years, scientists argued about what light is made of. Is it a strea
 A photon is the smallest possible amount of light. You cannot have half a photon. A torch sends out an enormous number every second. That is why light looks smooth, the way a heap of sugar looks smooth from far away. Each photon carries a little energy, and its colour tells you how much. A blue photon carries more energy than a red one. To make a glow-in-the-dark star glow, one photon must give it enough energy all by itself. A blue photon can do that. A red photon cannot, however bright the red light is.
 - e.g. Very dim light from a far galaxy reaches a telescope camera one photon at a time.
 - e.g. Solar panels work because photons knock electrons loose inside them.
-- e.g. Too much ultraviolet light, which has strong photons, can burn your skin. Red light cannot.
+- e.g. Too much ultraviolet light, whose photons carry even more energy than blue ones, can burn your skin. Red light cannot.
 ### Where light comes from · *defined*
 **Definition:** Light is given out when electrons in atoms drop from a higher energy to a lower energy.
 
@@ -130,14 +130,14 @@ Sunlight takes 8 minutes to reach us from the Sun's surface. But its energy was 
 ### Light brings us news from space · *defined*
 **Definition:** Light from far away tells us about distant places, as they were when the light left them.
 
-We cannot travel to the stars. Almost everything we know about them was carried to us by light. Light tells us where a star is, how hot it is and even what it is made of. But light takes time, so looking far away is looking back in time. A light-year is the distance light travels in one year, about 9 lakh crore kilometres. A star 100 light-years away is seen as it was 100 years ago. The oldest light of all, a faint glow left over from the young universe, set out about 13.8 billion years ago.
+We cannot travel to the stars. Almost everything we know about them was carried to us by light. Light tells us where a star is, how hot it is and even what it is made of. But light takes time, so looking far away is looking back in time. A light-year is the distance light travels in one year, about 9 and a half lakh crore kilometres. A star 100 light-years away is seen as it was 100 years ago. The oldest light of all, a faint glow left over from the young universe, set out about 13.8 billion years ago.
 - e.g. The Moon you see is about 1 second old.
 - e.g. Sirius, the brightest star in the night sky, is seen as it was about 8 and a half years ago.
 - e.g. The Andromeda galaxy, a faint smudge on very dark nights, is seen as it was about 25 lakh years ago, before modern humans existed.
 ### Gravity can bend light · *defined*
 **Definition:** Light passing close to something very heavy, like the Sun or a galaxy, follows a curved path. This is called gravitational lensing.
 
-Einstein said that very heavy things bend space and time around them. Then light passing close by follows a curved path. In 1919, during a total eclipse of the Sun, two teams of astronomers photographed stars near the darkened Sun. One team went to an island off Africa, led by Arthur Eddington. The other went to Brazil. The stars seemed a tiny bit out of place, about as much as Einstein had said. Today astronomers use this bending like a giant magnifying glass in space. The Indian-born astronomer Priyamvada Natarajan uses it to map dark matter, which we cannot see.
+Einstein said that very heavy things bend space and time around them. So light passing close by follows a curved path. In 1919, during a total eclipse of the Sun, two teams of astronomers photographed stars near the darkened Sun. One team went to an island off Africa, led by Arthur Eddington. The other went to Brazil. The stars seemed a tiny bit out of place, about as much as Einstein had said. Today astronomers use this bending like a giant magnifying glass in space. The Indian-born astronomer Priyamvada Natarajan uses it to map dark matter, which we cannot see.
 - e.g. A whole galaxy can bend the light of a galaxy behind it into an arc or a ring.
 - e.g. Astronomers have photographed hundreds of these bent arcs and rings.
 - e.g. It is different from light bending in water or glass. Here it is space itself that is curved.
@@ -186,26 +186,26 @@ We can predict what light will do extremely well. But what a photon is between l
 ## Roots
 We have been learning what light is, how fast it travels and how it comes in packets. Now we ask what light tells us about ourselves and the world.
 
-**Deep truth.** A bright red light can shine on a glow star for minutes and leave it dark. A dimmer blue light makes it glow in half a minute. Light's energy comes in packets called photons, and each one acts on its own. So what light can do depends on each photon's energy, not on how many photons there are.  
-*Habit it breaks:* We expect more of something to do more: a brighter light should do more than a dimmer one. With light, that is only true once each photon has enough energy. Below that, adding more photons does nothing.  
-*Evidence:* In the Glow Star Test, the bright red screen left the star dark, even after 2 minutes, while the dimmer blue screen made it glow. Einstein explained the same thing for metals in 1905: red light, however bright, cannot knock electrons out of them.
+**Deep truth.** A red phone screen can shine on a glow star for 2 minutes and leave it dark. A blue screen makes it glow in 30 seconds. Light comes in tiny packets of energy called photons, and a blue photon carries more than a red one. Each photon works alone, so if one carries too little energy, adding more photons cannot help.  
+*Habit it breaks:* We expect more of something to do more, so shining a light for longer should do more. With light, that is only true when each photon carries enough energy. If it does not, adding more photons does nothing.  
+*Evidence:* In the Glow Star Test, the red screen left the star dark, even after 2 whole minutes, while the blue screen made it glow in 30 seconds. Einstein explained the same thing for metals in 1905: red light, however bright, cannot knock electrons out of them.
 
 - *who am i:* You see because photons land in your eyes. Cells at the back of each eye catch their energy, packet by packet.
 - *what is life:* Almost all life runs on sunlight. A leaf catches photons, and their energy ends up in the food every animal eats.
 - *what is this world:* Starlight left the stars long ago. When you look up at night, you see the sky as it was, not as it is now.
 
-Radio waves, microwaves, the light we see and X-rays seem like very different things. Underneath, they are one kind of wave, with different wavelengths. Maxwell found in 1865 that electricity, magnetism and light are one thing. And every one of these waves comes in photons. DeepKids believes that the many things we see come from one source, and light is a place where science shows many things turning out to be one.
+Radio waves, microwaves, the light we see and X-rays seem like very different things. Underneath, they are one kind of wave, with different wavelengths. In 1865 Maxwell showed that light is a wave of electricity and magnetism. And every one of these waves comes in photons. DeepKids believes that the many things we see come from one source. Light is one place where science itself finds many things turning out to be one.
 
-- **Brihadaranyaka Upanishad 4.3.2 to 4.3.6:** King Janaka asks the sage Yajnavalkya: what light does a person live by? The Sun, says the sage. And when the Sun has set? The Moon. And when the Moon has set? Fire. And when the fire goes out? Speech. And when speech is silent? Then the self is his light. (This unit explains how light travels from a lamp into your eye, photon by photon. Science can follow the photons all the way in. The sage asks a question science has not answered: who is the one who sees?)
+- **Brihadaranyaka Upanishad 4.3.2 to 4.3.6:** King Janaka asks the sage Yajnavalkya: what light does a person live by? The Sun, says the sage. And when the Sun has set? The Moon. And when the Moon has set? Fire. And when the fire goes out? Speech. And when speech is silent? Then the self is his light. (This unit follows light from a lamp to your eye, photon by photon. Science can follow the photons all the way in. The sage asks something science has not answered: who is it that sees?)
 - **Udana 6.4, the Buddha's story of the blind men and the elephant (also told in Jain teaching on anekantavada, many-sidedness):** Some blind men each touch one part of an elephant. One feels the trunk and says it is a snake. One feels a leg and says it is a pillar. Each is partly right, and they quarrel. (Young's two slits showed light acting as a wave. Einstein's packets showed it acting as particles. Each experiment touched one side of light, and neither word describes all of it.)
 - Science (settled): Light's energy comes in packets called photons. The colour of the light sets how much energy each photon carries.
 - Science (debated): In quantum physics, light behaves like a wave and arrives as packets. What a photon is really like between leaving and arriving is still argued about. Here 'observer' means any measuring machine, not only a person. Quantum physics does not prove that a person watching makes the world real.
-- Other view, Many physicists, and the Charvaka school of ancient India: Light is an electromagnetic field that follows the equations of physics, and nothing more is needed to explain it. The Charvaka thinkers held that only what we can perceive is real, so there is no need for any one source behind it. That is an honest view.
+- Other view, Many physicists, and the Charvaka school of ancient India: Light is an electromagnetic field that follows the equations of physics, and nothing more is needed to explain it. The Charvaka thinkers held that only what we can perceive is real, so there is no need for any one source behind it.
 - Practice, The Old Light Breath (3 min): Sit near a window or in a patch of daylight. Close your eyes and feel the light warming your face. Breathe in slowly while I count to four. Breathe out while I count to four. This warmth is photons landing on your skin, one packet after another. They left the Sun about 8 minutes ago. Breathe in once more. Open your eyes slowly and look at the light in the room.
 - Ask: If everything you see reached you a little late, when is 'now'?
 - Ask: Light acts like a wave in one test and like packets in another. Is it a wave, a particle, or something we do not have a word for yet?
-- Ask: A red photon cannot do what a blue one does, however many red ones there are. Where else have you seen that more is not the same as stronger?
-- Ask: What is the light by which you know all the other lights?
+- Ask: A red photon cannot do what a blue one does, however many red ones there are. Can you think of something else where many small ones cannot do the job of one big one?
+- Ask: The sage said that when every other light is gone, the self is the light we live by. When you dream in the dark, what lets you see the dream?
 
 ## Deep and big questions
 - *deep:* If every sight reaches you a little late, is there any moment you see exactly 'now'? (hint: Light from your hand takes a tiny bit of time to reach your eye. Light from the Sun takes 8 minutes.)
@@ -218,7 +218,7 @@ Radio waves, microwaves, the light we see and X-rays seem like very different th
 - *big:* If someone on a planet 100 light-years away looked at the Earth with a giant telescope today, what would they see? (hint: The light they see left the Earth 100 years ago. What was happening in India then?)
 - *big:* Some news, like light from a far star, is very old when it reaches us. Is old news still true? (hint: Think about letters, photographs and stories from grandparents.)
 - *big:* Scientists can predict what light does perfectly, but still argue about what it is. Can you understand something without knowing what it is? (hint: You can predict that a dropped ball will fall, without knowing what gravity really is.)
-- *big:* Who gets remembered for a discovery? Rømer worked out light's delay, but Cassini, the head of the observatory, did not believe him. (hint: Should we believe a new idea because of who says it, or because of the evidence?)
+- *big:* Rømer was young and unknown. Cassini, the famous head of the observatory, never believed him. Should we trust an idea because of who says it, or because of the evidence? (hint: Rømer's prediction came true on 9 November 1676. What would you have believed if you had been there?)
 
 ## Story: The Moon That Was Never Late
 *Ole Rømer, Giovanni Cassini, the Paris Observatory, Jupiter's moon Io and Rømer's prediction that Io would appear about ten minutes late on 9 November 1676 are real. Cassini really did not accept Rømer's idea. Marthe, her father the clock-keeper, her brother Luc and his letters are made up.*
@@ -316,10 +316,10 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   *Parent says:* Now let's check. Some of these numbers will surprise you.  
   *Child mode:* Turn over the time cards. Match each one. Were you right? Move any that were wrong.
   - Check: Lightning is 5 kilometres away. How long does its light take to reach you? → **Much less than a second**
-  - Think: Someone on a planet 13 light-years away looks at the Earth tonight. Their light left the Earth 13 years ago. What would they see?
+  - Think: Someone on a planet 13 light-years away looks at the Earth tonight. The light they see left the Earth 13 years ago. What would they see?
 ### g2 · Photon Tag (15 min)
 - **rules:** One player is the caller. Everyone else is a photon.; Photons may only run in straight lines. To turn, you must stop, plant your feet, then set off in a new straight line.; The caller holds up a call card and shouts it. Everyone must do what it says.; If a photon curves while running, it is out for one round.; Swap the caller after every 4 cards.
-- **Printable cards: 8 call cards for the caller:** PHOTON: run in straight lines only; FREEZE: you landed on something and it soaked you up, stop; WAVE: link arms and move in a long wavy line; PARTICLE: break apart, each person is one dot; SUN: everyone starts from the middle and runs outwards; WATER: slow down to three quarters of your speed; GLASS: slow down to two thirds of your speed; SPACE: full speed, nothing in your way
+- **Printable cards: 8 call cards for the caller:** PHOTON: run in straight lines only; FREEZE: you hit something and it absorbed you, so stop; WAVE: link arms and move in a long wavy line; PARTICLE: break apart, each person is one dot; SUN: everyone starts from the middle and runs outwards; WATER: slow down to three quarters of your speed; GLASS: slow down to two thirds of your speed; SPACE: full speed, nothing in your way
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Draw a circle, the Sun, in the middle of the play area. 2. Everyone stands inside it. 3. Choose a caller.  
   *Parent says:* Light leaves the Sun in straight lines, in every direction. You are all photons, tiny packets of light. When I say go, run out of the Sun in a straight line.  
@@ -346,9 +346,9 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
 - **record:** Fill in the table. Then draw the helper far away, with an arrow for the light and an arrow for the sound. Draw the light arrow arriving first.
 - **results table:** Distance (big steps) | Try 1: what came first? | Try 2 | Try 3 | Was there a gap? Tiny, small or big?
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Stand right next to the helper. 2. The helper holds the plates high and bangs them together once. 3. Watch and listen.  
+  *Parent does:* 1. Stand about 20 big steps from the helper. 2. The helper holds the plates high and bangs them together once. 3. Watch and listen.  
   *Parent says:* Close up, the flash of the plates meeting and the bang seem to happen together. Let's see if that changes when we move far away.  
-  *Child mode:* Stand close to the helper. Watch the plates bang. Did you see it and hear it at the same time?
+  *Child mode:* Stand 20 big steps from the helper. Watch the plates bang. Did you see it and hear it at the same time?
   - Ask: What do you guess will happen when you are far away? (good: I will see it first.; I will hear it later.; They will still be together.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Walk 100 big steps away from the helper and turn round. 2. Wave to show you are ready. 3. The helper bangs the plates 3 times, with a pause between. 4. Watch the plates closely each time. 5. Write down what came first.  
@@ -376,53 +376,53 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: light is much faster than sound. What I saw: from 200 steps, I saw the plates meet before I heard the bang every time. Why: the light and sound started together, but light travels so fast it arrived almost at once, while sound took a moment.
-### e2 · The Glow Star Test: does brighter light always do more? (35 min)
-- **question:** Can bright red light make a glow-in-the-dark star glow, if a dimmer blue light can?
-- **predict:** Before you test, guess. Will the bright red light make the star glow? Will the dimmer blue light? Which will make it glow more, and why do you think so?
-- **fair test:** To make it fair, use the same kind of glow star each time. Hold each light at the same distance, 2 centimetres away, for the same time, 30 seconds. Keep the room dark. Let each star sit in the dark for 10 minutes before the test, so it starts with no glow.
+### e2 · The Glow Star Test: does more light always do more? (29 min)
+- **question:** Which makes a glow-in-the-dark star glow, red light or blue light? And if one colour does not work, does shining it for longer help?
+- **predict:** Before you test, guess. Will the red screen make the star glow? Will the blue screen? If one of them does not work, will shining it for 4 times as long help? Why do you think so?
+- **fair test:** To make it fair, use the same kind of glow star each time. Hold each screen 2 centimetres away, at full brightness, for 30 seconds. Keep the room dark. Keep the stars in a closed box from the night before, or for at least 1 hour, so they start with no glow. Glow stars can keep a faint glow for a long time, so a few minutes in the dark is not enough.
 - **safety:** Do not shine any light straight into anyone's eyes. If you use a UV torch, a grown-up holds it, and nobody looks into it.
-- **record:** Fill in the table. Then draw the star after red light and after blue light. Draw a few big photons for blue, and many small photons for red.
+- **record:** Fill in the table. Then draw star 1 after the red screen and star 2 after the blue screen. Draw blue light as a few big dots, because each blue photon carries more energy. Draw red light as many small dots.
 - **results table:** Light used | How bright it looked | How long it shone | Did the star glow afterwards? None, faint or bright
-- **s1 (10 min)**  
-  *Parent does:* 1. Put 3 glow stars in a dark cupboard for 10 minutes so they stop glowing. 2. Meanwhile, set the phone to full brightness. 3. Find a plain red picture and a plain blue picture to show full-screen.  
+- **s1 (4 min)**  
+  *Parent does:* 1. The night before, or at least 1 hour before, put the 3 glow stars in a closed box or a dark cupboard. 2. Set the phone to full brightness. 3. Find a plain red picture and a plain blue picture to show full-screen. 4. Make the room dark. Take out the stars and check that none of them glows.  
   *Parent says:* We need the stars to start with no glow at all. Then any glow comes only from the light we shine on them. Which do you think will make a star glow, red light or blue light? Why?  
-  *Child mode:* Put the stars in a dark place. Wait 10 minutes. Guess: will red or blue light make them glow? Why?
+  *Child mode:* Your stars have been in a dark box, so they have no glow left. Check them in the dark. Guess: will red or blue light make them glow? Why?
   - Note: Write down your child's guess and their reason. Don't say which is right. The test will show it.
 - **s2 (5 min)**  
-  *Parent does:* 1. Make the room dark. 2. Show the plain red picture. 3. Hold the screen 2 centimetres above star 1 for 30 seconds. 4. Switch the screen off. 5. Look at the star.  
-  *Parent says:* Red light, very bright, very close. Let's see if it makes the star glow.  
+  *Parent does:* 1. Keep the room dark. 2. Show the plain red picture. 3. Hold the screen 2 centimetres above star 1 for 30 seconds. 4. Switch the screen off. 5. Cup your hands round the star and look closely.  
+  *Parent says:* Red light first, at full brightness and very close. Let's see if it makes the star glow.  
   *Child mode:* Hold the bright red screen over star 1. Count to 30. Switch it off. Does it glow?
   - Ask: What did you see? (good: Nothing, or only a very faint glow.; It stayed dark.)
-  - Note: The star should stay dark. If it glows a little, your phone's red has some blue in it. Then use the phone's torch with two layers of red cellophane over it instead.
+  - Note: Star 1 should stay dark. If it glows a little, the star may not have been in the dark long enough, or your screen's red has a little blue in it. Put it back in the box, and next time use the phone's torch with two layers of red cellophane over it instead of the red screen.
 - **s3 (5 min)**  
   *Parent does:* 1. Show the plain blue picture. 2. Hold the screen 2 centimetres above star 2 for 30 seconds. 3. Switch the screen off and look.  
-  *Parent says:* Blue light now. To our eyes it looks dimmer than the red did. Let's see what happens.  
+  *Parent says:* Now blue light. To our eyes, the blue screen probably looks dimmer than the red one. Let's see what happens.  
   *Child mode:* Now hold the blue screen over star 2. Count to 30. Switch it off. What do you see?
-  - Note: Star 2 should glow softly. If it hardly glows, hold the blue screen there for a full minute, or use the phone's torch with blue cellophane over it.
-  - Check: The bright red light did not make the star glow, but the dimmer blue light did. Why? → **Each blue photon carries enough energy, and each red photon does not**
+  - Note: Star 2 should glow softly. The glow is faint, so look in a fully dark room, with your hands cupped round the star. If it hardly glows, hold the blue screen there for a full minute, or use the phone's torch with blue cellophane over it.
+  - Check: The red screen did not make star 1 glow. The blue screen made star 2 glow. Why? → **Each blue photon carries enough energy, and each red photon does not**
 - **s4 (6 min)**  
-  *Parent does:* 1. Put star 1 back in the dark for 2 minutes. 2. Hold the red screen over it again, this time for 2 whole minutes. 3. Switch off and look.  
-  *Parent says:* Maybe the red light just needs longer. Let's give it four times as long. What do you think will happen?  
+  *Parent does:* 1. Hold the red screen over star 1 again, this time for 2 whole minutes. 2. Switch off and look.  
+  *Parent says:* Maybe the red light just needs longer. Let's give it four times as long, so four times as much red light. What do you think will happen?  
   *Child mode:* Try the red light again, for 2 whole minutes this time. Does it glow now?
   - Ask: Did more red light help? (good: No, it still stayed dark.; Red light does not work, however long we shine it.)
 - **s5 (5 min)**  
   *Parent does:* Explain what this shows, using the idea of photons. Then try the white torch on star 3.  
-  *Parent says:* In 1905, Einstein said light comes in packets. Each packet is called a photon. The colour of the light sets how much energy each photon has. Blue photons carry more energy than red ones. A bright red light is just lots of red photons, and none of them is strong enough. White torchlight is a mix of colours, with blue in it. Will it make star 3 glow?  
+  *Parent says:* Why do you think blue worked and red did not, even for 2 whole minutes? In 1905, Einstein said light comes in packets. Each packet is called a photon. The colour of the light sets how much energy each photon has. Blue photons carry more energy than red ones. Shining red light for longer only sends more red photons, and not one of them carries enough energy. White torchlight is a mix of colours, with blue in it. Will it make star 3 glow?  
   *Child mode:* Light comes in packets called photons. Blue photons carry more energy than red ones. Try the white torch on star 3. Does it glow?
-  - Ask: Why does white light make the star glow? (good: White light has blue photons in it.; It has some strong photons mixed in.)
+  - Ask: Why does white light make the star glow? (good: White light has blue photons in it.; It has blue photons in it, which carry more energy.)
   - Note: The white torch should make star 3 glow brightly, because it has plenty of blue light in it. This is the same idea as the photoelectric effect, which won Einstein his Nobel Prize. There, ultraviolet or blue light knocks electrons out of a metal, but red light cannot, however bright. If you have a UV torch, a grown-up can try it too. It makes the star glow the brightest.
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: blue light can make a glow star glow, but red light cannot. What I saw: the bright red screen left star 1 dark, even for 2 minutes, but the dimmer blue screen made star 2 glow in 30 seconds. Why: light comes in packets, and each blue packet has enough energy, but each red packet does not.
+  - Note: A good answer sounds like this. What I think: blue light can make a glow star glow, but red light cannot. What I saw: the red screen left star 1 dark, even for 2 minutes, but the blue screen made star 2 glow in 30 seconds. Why: light comes in packets called photons. Each blue photon has enough energy, but each red photon does not.
 ### e3 · Chocolate in the Microwave: measure the speed of light (30 min)
 - **question:** Can we measure the speed of light in our own kitchen?
 - **predict:** Before you start, guess. Will the chocolate melt evenly all over, or only in some spots? Why do you think so?
 - **fair test:** Take the turning glass plate out, so the chocolate stays still. Heat it for only a short time, about 15 to 20 seconds, so only the hottest spots melt. Measure between the centres of melted spots, more than once, and take the middle value.
 - **safety:** Only a grown-up uses the microwave. Never run a microwave empty, and never put metal inside. Heat for 15 to 20 seconds at a time only. Melted chocolate can be very hot, so let it cool before touching.
 - **record:** Draw the plate of chocolate with its melted spots. Write the gap between two spots. Write the speed you worked out next to the real speed of light.
-- **results table:** Try | Distance between two melted spots (cm) | Wave size: twice that distance (cm)
+- **results table:** Try | Distance between two melted spots (cm) | Length of one whole wave: twice that distance (cm)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Look at the sticker on the back or side of the microwave. 2. Find the number with 'MHz' after it, usually 2450 MHz.  
   *Parent says:* Every microwave has this number on it. It says how many waves the oven makes each second. This is called the frequency. 2450 MHz means 2,450 million waves every second.  
@@ -439,7 +439,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   *Child mode:* Find two melted spots side by side. Measure from middle to middle. Write it down. Do it twice.
   - Check: The melted spots are 6 centimetres apart. How long is one whole microwave? → **12 centimetres**
 - **s4 (8 min) · grown-up needed**  
-  *Parent does:* Work out the speed together. A whole wave is about 12 centimetres long. The oven makes 2,450 million waves a second. Each new wave pushes the wave on by 12 centimetres.  
+  *Parent does:* Work out the speed together. One whole wave is about 12 centimetres long. The oven sends out 2,450 million waves every second, one after another. So in one second, the front of the wave travels 2,450 million times 12 centimetres.  
   *Parent says:* Each second, the oven makes 2,450 million waves. Each wave is 12 centimetres long. So in one second the wave travels 12 times 2,450 million centimetres. That is about 30,000 million centimetres. That is 3 lakh kilometres. The speed of light!  
   *Child mode:* Each wave is 12 centimetres long. There are 2,450 million waves a second. Multiply them. You get about 3 lakh kilometres a second!
   - Note: The full sum: 12 cm × 2,450,000,000 = 29,400,000,000 cm per second. That is 294,000 kilometres per second, close to the real 299,792. Your answer may be a little different, because the spots are blurry. Getting within a tenth is excellent for a kitchen.
@@ -496,7 +496,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   - Think: When you see a star tonight, how old is the light you are seeing?
 ### a3 · Ripples in a Thali: what is a wave? (20 min)
 - **safety:** Mop up spilt water so nobody slips.
-- **record:** Draw the ripples from one pebble. Then draw the ripples from two pebbles crossing each other.
+- **record:** Draw the ripples from one coin. Then draw the ripples from two coins crossing each other.
 - **s1 (5 min)**  
   *Parent does:* 1. Put the thali on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.  
   *Parent says:* Watch the rings spread out. That is a wave. The water itself only bobs up and down. The movement is what travels outwards.  
@@ -553,7 +553,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   *Child mode:* Find a very bright dot that does not twinkle much. It may be a planet. Its light took minutes to get here.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* 1. Find a bright star. In winter, look for Orion, the hunter with three stars in a row for his belt. 2. Follow the belt down and left to Sirius, the brightest star. 3. Look at Betelgeuse, the reddish star at Orion's shoulder.  
-  *Parent says:* Sirius's light left it about 8 and a half years ago. Betelgeuse's light left it about 500 to 700 years ago. Astronomers are still not sure exactly how far it is. When that light set out, the Vijayanagara kingdom was just starting in South India.  
+  *Parent says:* Sirius's light left it about 8 and a half years ago. Betelgeuse's light left it about 500 to 700 years ago. Astronomers are still not sure exactly how far away it is. If it is about 600 years, that light set out in the 1400s, when the Vijayanagara Empire ruled much of South India.  
   *Child mode:* Find Sirius, the brightest star. Its light left over 8 years ago. Find red Betelgeuse. Its light left hundreds of years ago!
   - Note: At other times of year, find any bright star with the app. It will tell you the star's distance in light-years. That number is also how many years old its light is.
   - Check: You see Betelgeuse tonight. Its light left it about 600 years ago. What are you seeing? → **Betelgeuse as it was about 600 years ago**
@@ -577,7 +577,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   - Check: Why do you see a pattern of dots around the street light? → **Light waves spread out through the tiny gaps and cross each other**
 - **s3 (5 min)**  
   *Parent does:* Talk about what it means.  
-  *Parent says:* This pattern is a clue that light is a wave. But a phone camera would record the same light as tiny separate hits, the photons. Light is both at once. Scientists still find this strange.  
+  *Parent says:* This pattern is a clue that light is a wave. But very sensitive cameras in laboratories record the same kind of light arriving as tiny separate hits, the photons. Light is both at once. Scientists still find this strange.  
   *Child mode:* This pattern shows light is a wave. But light also comes in tiny packets. It is both!
   - Think: If light is a wave, what is doing the waving?
 ### a7 · Draw What Light Is: before and after (15 min)
@@ -688,10 +688,10 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
    **Answer:** I saw the plates meet, then heard the bang. *Why:* Light and sound left the plates together. Light arrived almost at once. Sound took a moment longer. Picking 'heard first' means thinking sound is faster. Picking 'the same time' is true when you are very close, but not from 200 steps.
 9. (mcq) What is a photon?  
    Options: One tiny packet of light / A kind of camera / A tiny planet / A wave of sound  
-   **Answer:** One tiny packet of light. *Why:* Light is made of tiny packets of energy called photons. A torch gives out an enormous number of them every second. Picking 'camera' comes from the word 'photo', which also comes from the Greek word for light.
+   **Answer:** One tiny packet of light. *Why:* Light is made of tiny packets of energy called photons. A torch gives out an enormous number of them every second. Picking 'camera' is easy to do, because 'photo' and 'photon' both come from the Greek word for light.
 10. (mcq) In the Glow Star Test, which light made the glow star shine?  
-   Options: Dim blue light / Bright red light / Both the same / Neither  
-   **Answer:** Dim blue light. *Why:* Each blue photon carries enough energy to make the star glow. Each red photon does not, so even lots of red light does not work. Picking 'bright red' usually means thinking brightness is what matters.
+   Options: The blue phone screen / The red phone screen / Both the same / Neither  
+   **Answer:** The blue phone screen. *Why:* Each blue photon carries enough energy to make the star glow. Each red photon does not, so even 2 minutes of red light did not work. Picking 'red' usually means thinking that more light, or brighter-looking light, is what matters.
 11. (match) Match each thing to how long its light takes to reach you.  
    **Answer:** The Moon → about 1 second; The Sun → about 8 minutes; Sirius, the brightest star → about 8 and a half years; The Andromeda galaxy → about 25 lakh years. *Why:* The further away something is, the longer its light takes to reach us. The Moon is near, the Sun further, stars much further, galaxies further still.
 12. (order) Put these in order, from the one whose light is youngest when it reaches you, to the oldest.  
@@ -718,7 +718,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
    Options: She shone it through a cloud of atoms cooled to almost absolute zero, the coldest anything can be / She used a very thick wall / She used a very dim torch / She made the light very red  
    **Answer:** She shone it through a cloud of atoms cooled to almost absolute zero, the coldest anything can be. *Why:* In her super-cold cloud of atoms, light crawled at about the speed of a car in a city. Picking 'dim torch' mixes up brightness with speed. Dim light travels just as fast as bright light.
 5. (fill) A ____ is how far light travels in one year.  
-   **Answer:** ['light-year', 'light year']. *Why:* A light-year is a distance, not a time. It is about 9 lakh crore kilometres.
+   **Answer:** ['light-year', 'light year']. *Why:* A light-year is a distance, not a time. It is about 9 and a half lakh crore kilometres.
 6. (mcq) The microwaves in the Chocolate experiment made melted spots 6 centimetres apart. Why do microwaves tell us about light?  
    Options: Microwaves are the same kind of wave as light, and travel at the same speed / Microwaves are made of chocolate / Microwaves are slower than light, so they are easier to see / Microwaves are a kind of sound  
    **Answer:** Microwaves are the same kind of wave as light, and travel at the same speed. *Why:* Light, radio waves and microwaves are all electromagnetic waves. They travel at the same speed in empty space. Picking 'slower' is a common guess, but they are just as fast. Picking 'sound' mixes them up with sound waves, which need air.
@@ -730,8 +730,8 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
 9. (mcq) Einstein said light comes in packets. What are the packets called?  
    Options: Photons / Electrons / Atoms / Rays  
    **Answer:** Photons. *Why:* Photons are packets of light. Electrons are tiny parts of atoms that can give out or soak up photons. Picking 'rays' mixes up the path light takes with what it is made of.
-10. (truefalse) Bright red light has stronger photons than dim blue light.  
-   **Answer:** False. *Why:* False. Bright red light has more photons, but each red photon is weaker than each blue photon. That is why it cannot make a glow star glow.
+10. (truefalse) A red photon carries more energy than a blue photon.  
+   **Answer:** False. *Why:* False. Each blue photon carries more energy than each red photon. That is why the blue screen made the glow star glow, and the red screen did not, even for 2 minutes.
 11. (truefalse) Light from a star 100 light-years away left that star about 100 years ago.  
    **Answer:** True. *Why:* True. A light-year is how far light travels in one year. So light from 100 light-years away has been travelling for 100 years.
 12. (sort) Sort these. Does it travel through empty space, or does it need something to travel through?  
@@ -741,8 +741,8 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
    **Answer:** Electrons dropping to a lower energy give out photons. *Why:* When an electron gets extra energy, it jumps up. When it drops back down, it gives out a photon. Picking 'stored like water' misses that light is made fresh each time.
 14. (write) Cassini, the head of the observatory, did not believe Rømer. Was it right to doubt him? What finally showed Rømer was right?  
    **Answer:** It is fair to doubt a new idea and ask for evidence. But Rømer's prediction came true: Io appeared about ten minutes late on 9 November 1676. Later measurements, like Fizeau's spinning wheel in 1849, agreed that light has a speed.. *Why:* Good scientists doubt new ideas until there is evidence, then change their minds. Who says it matters less than what the evidence shows.
-15. (write) In the Glow Star Test, why can't lots of red light do what a little blue light can?  
-   **Answer:** Light comes in packets called photons. Each blue photon has enough energy to make the glow star glow. Each red photon does not, and lots of weak packets cannot add up to do the job of one strong one.. *Why:* Einstein used the same idea to explain the photoelectric effect: red light cannot knock electrons out of a metal, however bright it is. That work won him his Nobel Prize.
+15. (write) In the Glow Star Test, the blue screen made a glow star glow in 30 seconds. The red screen did not, even after 2 minutes. Why can't more red light do what blue light does?  
+   **Answer:** Light comes in packets called photons. Each blue photon carries enough energy to make the glow star glow. Each red photon carries too little. Each photon works on its own, so adding more red photons does not help.. *Why:* Einstein used the same idea to explain the photoelectric effect: red light cannot knock electrons out of a metal, however bright it is. That work won him his Nobel Prize.
 ### Light Across Space (challenge) (challenge, 16 questions)
 1. (count) Light goes about 3 lakh kilometres every second. How far does it go in 2 seconds? Write your answer in lakh kilometres.  
    **Answer:** 6. *Why:* 3 lakh kilometres each second, for 2 seconds, is 3 + 3 = 6 lakh kilometres.
@@ -777,7 +777,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
 13. (write) We cannot visit the stars, yet we know a lot about them. How? Give two things light tells us about stars.  
    **Answer:** We cannot visit the stars, so almost everything we know about them comes from their light. Light tells us where a star is, how bright and hot it is, and even what it is made of. It also tells us how the star was in the past, when the light left it.. *Why:* Cecilia Payne used starlight in 1925 to show that stars are mostly hydrogen. Meghnad Saha, from India, worked out in 1920 how a star's light shows how hot it is.
 14. (write) Light behaves like a wave and also comes in packets. Describe one piece of evidence for each.  
-   **Answer:** Wave: light through two slits, or through fine cloth, makes a pattern of bright and dark spots, like crossing ripples. Packets: the glow star shines under dim blue light but not bright red, because each photon's energy matters. Cameras also record light as single dots.. *Why:* Physicists call light a quantum object. It travels like a wave and arrives as packets.
+   **Answer:** Wave: light through two slits, or through fine cloth, makes a pattern of bright and dark spots, like crossing ripples. Packets: a glow star glows after a blue screen but not after a red one, because what matters is each photon's energy. Very sensitive cameras also record light arriving as single dots.. *Why:* Physicists call light a quantum object. It travels like a wave and arrives as packets.
 15. (write) If you could ride on a beam of light from the Sun, describe your trip to the Earth. How long would it take? What would you pass?  
    **Answer:** I would leave the Sun's surface and fly in a straight line. I would pass Mercury after about 3 minutes and Venus after about 6. After about 8 minutes and 20 seconds I would reach the Earth.. *Why:* Einstein wondered about riding a light beam when he was 16. Thinking like this helped him find his ideas about space and time.
 16. (draw) Draw light as a wave and as photons, in one picture. Label which part is which.  
@@ -786,7 +786,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
 ## Videos
 - **Why No One Has Measured The Speed Of Light** (Veritasium, 9 min) id `pTn6Ewhb27k`: For the parent and curious older children: how the speed of light is measured, and the surprising puzzle of whether its speed is the same going and coming back. *Check:* Video id recalled, not opened from here: a parent should check it plays and is the Veritasium video of this title before showing.
 - **Double Slit Experiment explained! by Jim Al-Khalili** (The Royal Institution, 9 min) id `A9tKncAdlHQ`: A physicist explains, clearly and honestly, how light and tiny particles make wave stripes even when sent one at a time. Best watched with a grown-up. *Check:* Video id recalled, not opened from here: a parent should check it plays and is the Royal Institution video with Jim Al-Khalili before showing.
-- **Riding a beam of light from the Sun to the Earth, in real time** (James O'Donoghue (planetary scientist), or NASA, 9 min) id `wUKwAdeaQnY`: An animation that travels at the real speed of light, so the child can feel how long the 8-minute trip from the Sun takes and how slow it looks across the solar system. *Check:* Found by YouTube search: "Speed of light illustrated by Dr. James O'Donoghue" by Space Enthusiast. Title checked automatically; a parent may still preview it.
+- **Speed of light illustrated by Dr. James O'Donoghue** (Space Enthusiast (animation by James O'Donoghue, a planetary scientist), 9 min) id `wUKwAdeaQnY`: An animation that travels at the real speed of light, so the child can feel how long the 8-minute trip from the Sun takes and how slow it looks across the solar system. *Check:* Found by YouTube search: "Speed of light illustrated by Dr. James O'Donoghue" by Space Enthusiast. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is light?  
@@ -818,12 +818,12 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
 10. (mcq) Thomas Young saw bright and dark stripes when light went through two slits. Isaac Newton thought light was tiny particles. Who was right?  
    Options: Both, in a way: light travels like a wave and arrives in packets / Only Newton / Only Young / Neither, light is just air  
    **Answer:** Both, in a way: light travels like a wave and arrives in packets. *Why:* Light makes wave stripes, as Young showed. It also arrives as tiny packets, the photons. Picking only one of them misses that light behaves like both.
-11. (mcq) In the Glow Star Test, bright red light did not make the star glow, but dimmer blue light did. What does this show?  
+11. (mcq) In the Glow Star Test, the red screen did not make the star glow, even for 2 minutes, but the blue screen did. What does this show?  
    Options: Light comes in packets, and each blue packet has more energy than each red one / Red light is too bright / Blue light is faster than red light / Glow stars only like blue  
    **Answer:** Light comes in packets, and each blue packet has more energy than each red one. *Why:* Each blue photon carries enough energy to make the star glow, and each red photon does not. Picking 'blue is faster' is a common mix-up. All colours travel at the same speed in empty space.
 12. (mcq) What is a light-year?  
    Options: The distance light travels in one year / A year that is very bright / The time it takes to make light / A year with no night  
-   **Answer:** The distance light travels in one year. *Why:* A light-year is a distance, about 9 lakh crore kilometres. Picking a time is a very common mix-up, because the word 'year' is in it.
+   **Answer:** The distance light travels in one year. *Why:* A light-year is a distance, about 9 and a half lakh crore kilometres. Picking a time is a very common mix-up, because the word 'year' is in it.
 13. (mcq) You look at a star 50 light-years away. What are you seeing?  
    Options: The star as it was about 50 years ago / The star as it is right now / The star as it will be in 50 years / Only a picture painted on the sky  
    **Answer:** The star as it was about 50 years ago. *Why:* Its light took 50 years to reach you. So you see the star as it was when that light set out. Looking far away is looking back in time.
@@ -839,11 +839,11 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
 - Scientists measure the Earth to Moon distance to within centimetres by timing laser light bounced off mirrors on the Moon.
 - ISRO's mission control in Bengaluru talks to spacecraft by radio, and must wait for each message to cross space at the speed of light.
 - Solar panels on rooftops turn photons from sunlight into electricity.
-- Phone cameras count photons to make a photo.
+- Phone cameras make a photo by measuring how many electrons the photons knock loose in each tiny spot of the sensor.
 - Astronomers learn what stars are made of, and how hot they are, from their light.
 - Telescopes looking at very far galaxies see the young universe, because that light is billions of years old.
 - Lighthouses and ships' signal lamps send messages by light.
-- Weather people use the gap between lightning and thunder, and radio signals from lightning, to track storms.
+- Weather scientists track storms by picking up the radio waves that lightning gives out, which travel at the speed of light.
 - Since 1983, the metre itself is defined by how far light goes in a tiny fraction of a second.
 - Laser rangefinders on building sites measure distance by timing light.
 - Gravitational lensing lets astronomers map dark matter, which gives out no light.
@@ -890,7 +890,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
 - Why don't photons ever get lost? *They always go straight.*
 - What did Jupiter's moon Io say to Rømer? *I'm not late. Your light is.*
 - Why did the star go to school? *To get a little brighter.*
-- What do you call a wave that can't stop talking? *A micro-wave of chatter.*
+- What did the thunder say to the lightning? *Wait for me! You're almost a million times faster.*
 - Why did the light beam do so well in the race? *It had nothing to slow it down in space.*
 - What is a photon's favourite sport? *The relay race, from the Sun to your eye.*
 - Why did the glow star ignore the red torch? *Its photons just didn't have the energy.*
@@ -937,8 +937,7 @@ Follow the Light (sci.light.L3): Topic-level song
 ## Things to buy
 - [Glow-in-the-dark star stickers](https://www.amazon.in/s?k=glow+in+the+dark+stars) (material): Used in the Glow Star Test, to show that blue photons carry more energy than red ones. Sold cheaply in toy and stationery shops. Any glow-in-the-dark toy you already have works too. Used in e2. 
 - [Coloured cellophane sheets, red and blue](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): Only needed if your phone screen's red or blue does not work in the Glow Star Test. It also makes a red night torch for the Old Starlight Walk. Used in e2, a5. 
-- [30 cm ruler and a measuring tape](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures the melted spots in the Chocolate experiment and the planets on the Light-Minute String. Used in e3, a2, p1. 
-- [Small UV torch (black light), for a grown-up to use](https://www.amazon.in/s?k=uv+torch+395nm) (tool): Charges the glow stars brightest of all, because ultraviolet photons are the strongest. A grown-up handles it and nobody looks into it. Used in e2. 
+- [Small UV torch (black light), for a grown-up to use](https://www.amazon.in/s?k=uv+torch+395nm) (tool): Charges the glow stars brightest of all, because ultraviolet photons carry even more energy than blue ones. A grown-up handles it and nobody looks into it. Used in e2. 
 - [Planisphere, a turning star map](https://www.amazon.in/s?k=planisphere+star+map) (tool): Helps you find stars on the Old Starlight Walk without a phone. Used in a5, p1. 
 - [Book: E=mc² by David Bodanis, for the parent](https://www.amazon.in/s?k=David+Bodanis+E%3Dmc2) (book): A lively history of the speed of light and Einstein's ideas, with the people behind them. Used in a4. The parent reads the chapter on the speed of light, then tells the stories of Rømer and Maxwell during The Late Moon.
 - [Book: Albert Einstein and Relativity for Kids by Jerome Pohlen](https://www.amazon.in/s?k=Jerome+Pohlen+Einstein+Relativity+for+Kids) (book): Activities and stories about light and relativity for children. Used in c1. Pick one activity a week after the unit, as a Go deeper weekend project.

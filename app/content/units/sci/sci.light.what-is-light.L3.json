@@ -3,12 +3,12 @@
  "title": "What is light, and how fast does it travel?",
  "level": 3,
  "summary": {
-  "text": "Light looks as if it arrives instantly, but it takes time to travel. It is energy that crosses even empty space, at about 3 lakh kilometres every second, so sunlight takes about 8 minutes to reach us. Light spreads like a wave, but its energy comes in tiny packets called photons. That is why a dim blue light can make a glow-in-the-dark star glow, while a bright red light cannot. Scientists can predict what light will do very well, but they still argue about what it really is.",
+  "text": "Light looks as if it arrives instantly, but it takes time to travel. It is energy that crosses even empty space, at about 3 lakh kilometres every second, so sunlight takes about 8 minutes to reach us. Light spreads like a wave, but its energy comes in tiny packets called photons. That is why a blue phone screen can make a glow-in-the-dark star glow, while a red screen cannot, even if you shine it for minutes. Scientists can predict what light will do very well, but they still argue about what it really is.",
   "art": "A beam of sunlight going from the Sun to a child's face in an Indian courtyard, with a small clock beside the beam showing 8 minutes, and the beam drawn half as a wavy line and half as a row of tiny dots."
  },
  "intro": {
   "hook": "Go into a dark room with a torch. Switch it on. Did the light take any time to reach the far wall? Or was it there at once?",
-  "text": "It looks instant. Click, and the wall is bright. For thousands of years, most people thought light needed no time at all to travel. Then, about 350 years ago, a young astronomer noticed that one of Jupiter's moons seemed to run late. Sometimes it was late by many minutes. The moon was not late at all. Its light had further to travel. In this unit, you will find out how fast light really is, why the sunshine on your arm left the Sun about 8 minutes ago, and why a little blue light can do what a lot of red light cannot.",
+  "text": "It looks instant. Click, and the wall is bright. For thousands of years, most people thought light needed no time at all to travel. Then, about 350 years ago, a young astronomer noticed that one of Jupiter's moons seemed to run late. When the Earth was far from Jupiter, the moon appeared minutes later than expected. The moon was not late at all. Its light had further to travel. In this unit, you will find out how fast light really is, why the sunshine on your arm left the Sun about 8 minutes ago, and why blue light can make a glow-in-the-dark star glow when red light cannot.",
   "art": "A child in a dark room pointing a torch at a far wall, a question mark hanging in the beam between the torch and the bright circle."
  },
  "outcomes": [
@@ -280,7 +280,7 @@
    "examples": [
     "Ripples in two places on a pond cross and make a pattern. Light does that too, which is wave-like.",
     "A glow-in-the-dark star lights up under blue light but not under red light. That shows light's energy comes in packets.",
-    "A phone camera works because each photon that lands on its sensor knocks out an electron, and the sensor counts them."
+    "A phone camera works because photons landing on its sensor knock electrons loose. The sensor measures how many were freed in each tiny spot."
    ],
    "perspectives": [
     {
@@ -315,7 +315,7 @@
    "examples": [
     "Very dim light from a far galaxy reaches a telescope camera one photon at a time.",
     "Solar panels work because photons knock electrons loose inside them.",
-    "Too much ultraviolet light, which has strong photons, can burn your skin. Red light cannot."
+    "Too much ultraviolet light, whose photons carry even more energy than blue ones, can burn your skin. Red light cannot."
    ],
    "perspectives": [],
    "art": "A heap of sugar that looks smooth, and a magnifying glass showing it is made of grains, next to a torch beam magnified into separate glowing dots.",
@@ -357,7 +357,7 @@
    "concept": "Light brings us news from space",
    "status": "defined",
    "definition": "Light from far away tells us about distant places, as they were when the light left them.",
-   "description": "We cannot travel to the stars. Almost everything we know about them was carried to us by light. Light tells us where a star is, how hot it is and even what it is made of. But light takes time, so looking far away is looking back in time. A light-year is the distance light travels in one year, about 9 lakh crore kilometres. A star 100 light-years away is seen as it was 100 years ago. The oldest light of all, a faint glow left over from the young universe, set out about 13.8 billion years ago.",
+   "description": "We cannot travel to the stars. Almost everything we know about them was carried to us by light. Light tells us where a star is, how hot it is and even what it is made of. But light takes time, so looking far away is looking back in time. A light-year is the distance light travels in one year, about 9 and a half lakh crore kilometres. A star 100 light-years away is seen as it was 100 years ago. The oldest light of all, a faint glow left over from the young universe, set out about 13.8 billion years ago.",
    "examples": [
     "The Moon you see is about 1 second old.",
     "Sirius, the brightest star in the night sky, is seen as it was about 8 and a half years ago.",
@@ -371,7 +371,7 @@
    "concept": "Gravity can bend light",
    "status": "defined",
    "definition": "Light passing close to something very heavy, like the Sun or a galaxy, follows a curved path. This is called gravitational lensing.",
-   "description": "Einstein said that very heavy things bend space and time around them. Then light passing close by follows a curved path. In 1919, during a total eclipse of the Sun, two teams of astronomers photographed stars near the darkened Sun. One team went to an island off Africa, led by Arthur Eddington. The other went to Brazil. The stars seemed a tiny bit out of place, about as much as Einstein had said. Today astronomers use this bending like a giant magnifying glass in space. The Indian-born astronomer Priyamvada Natarajan uses it to map dark matter, which we cannot see.",
+   "description": "Einstein said that very heavy things bend space and time around them. So light passing close by follows a curved path. In 1919, during a total eclipse of the Sun, two teams of astronomers photographed stars near the darkened Sun. One team went to an island off Africa, led by Arthur Eddington. The other went to Brazil. The stars seemed a tiny bit out of place, about as much as Einstein had said. Today astronomers use this bending like a giant magnifying glass in space. The Indian-born astronomer Priyamvada Natarajan uses it to map dark matter, which we cannot see.",
    "examples": [
     "A whole galaxy can bend the light of a galaxy behind it into an arc or a ring.",
     "Astronomers have photographed hundreds of these bent arcs and rings.",
@@ -540,9 +540,9 @@
    "hint": "You can predict that a dropped ball will fall, without knowing what gravity really is."
   },
   {
-   "q": "Who gets remembered for a discovery? Rømer worked out light's delay, but Cassini, the head of the observatory, did not believe him.",
+   "q": "Rømer was young and unknown. Cassini, the famous head of the observatory, never believed him. Should we trust an idea because of who says it, or because of the evidence?",
    "kind": "big",
-   "hint": "Should we believe a new idea because of who says it, or because of the evidence?"
+   "hint": "Rømer's prediction came true on 9 November 1676. What would you have believed if you had been there?"
   }
  ],
  "story": {
@@ -719,7 +719,7 @@
        "Both arrive at the same moment"
       ],
       "a": 1,
-      "why": "The Sun is about 400 times further away than the Moon. Moonlight takes about 1 and a quarter seconds. Sunlight takes about 8 minutes. Picking the Moon often means thinking the Moon is further because it looks smaller at night. Picking 'the same moment' usually means thinking light is instant."
+      "why": "The Sun is about 400 times further away than the Moon. Moonlight takes about 1 and a quarter seconds. Sunlight takes about 8 minutes. Picking the Moon usually means guessing that the Moon is further away than the Sun. Picking 'the same moment' usually means thinking light is instant."
      },
      "ask": [
       {
@@ -756,7 +756,7 @@
       "a": 1,
       "why": "Light from lightning reaches you in about one sixty-thousandth of a second. It is the thunder that takes about 15 seconds, because sound is far slower. Picking 15 seconds usually means mixing up the flash and the sound."
      },
-     "think": "Someone on a planet 13 light-years away looks at the Earth tonight. Their light left the Earth 13 years ago. What would they see?"
+     "think": "Someone on a planet 13 light-years away looks at the Earth tonight. The light they see left the Earth 13 years ago. What would they see?"
     }
    ]
   },
@@ -772,7 +772,7 @@
      "title": "8 call cards for the caller",
      "items": [
       "PHOTON: run in straight lines only",
-      "FREEZE: you landed on something and it soaked you up, stop",
+      "FREEZE: you hit something and it absorbed you, so stop",
       "WAVE: link arms and move in a long wavy line",
       "PARTICLE: break apart, each person is one dot",
       "SUN: everyone starts from the middle and runs outwards",
@@ -947,19 +947,19 @@
       "A wave of sound"
      ],
      "a": 0,
-     "why": "Light is made of tiny packets of energy called photons. A torch gives out an enormous number of them every second. Picking 'camera' comes from the word 'photo', which also comes from the Greek word for light."
+     "why": "Light is made of tiny packets of energy called photons. A torch gives out an enormous number of them every second. Picking 'camera' is easy to do, because 'photo' and 'photon' both come from the Greek word for light."
     },
     {
      "t": "mcq",
      "p": "In the Glow Star Test, which light made the glow star shine?",
      "opts": [
-      "Dim blue light",
-      "Bright red light",
+      "The blue phone screen",
+      "The red phone screen",
       "Both the same",
       "Neither"
      ],
      "a": 0,
-     "why": "Each blue photon carries enough energy to make the star glow. Each red photon does not, so even lots of red light does not work. Picking 'bright red' usually means thinking brightness is what matters.",
+     "why": "Each blue photon carries enough energy to make the star glow. Each red photon does not, so even 2 minutes of red light did not work. Picking 'red' usually means thinking that more light, or brighter-looking light, is what matters.",
      "how": "e2"
     },
     {
@@ -1095,7 +1095,7 @@
       "light-year",
       "light year"
      ],
-     "why": "A light-year is a distance, not a time. It is about 9 lakh crore kilometres."
+     "why": "A light-year is a distance, not a time. It is about 9 and a half lakh crore kilometres."
     },
     {
      "t": "mcq",
@@ -1143,9 +1143,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Bright red light has stronger photons than dim blue light.",
+     "p": "A red photon carries more energy than a blue photon.",
      "a": false,
-     "why": "False. Bright red light has more photons, but each red photon is weaker than each blue photon. That is why it cannot make a glow star glow.",
+     "why": "False. Each blue photon carries more energy than each red photon. That is why the blue screen made the glow star glow, and the red screen did not, even for 2 minutes.",
      "how": "e2"
     },
     {
@@ -1212,9 +1212,9 @@
     },
     {
      "t": "write",
-     "p": "In the Glow Star Test, why can't lots of red light do what a little blue light can?",
+     "p": "In the Glow Star Test, the blue screen made a glow star glow in 30 seconds. The red screen did not, even after 2 minutes. Why can't more red light do what blue light does?",
      "lines": 4,
-     "a": "Light comes in packets called photons. Each blue photon has enough energy to make the glow star glow. Each red photon does not, and lots of weak packets cannot add up to do the job of one strong one.",
+     "a": "Light comes in packets called photons. Each blue photon carries enough energy to make the glow star glow. Each red photon carries too little. Each photon works on its own, so adding more red photons does not help.",
      "why": "Einstein used the same idea to explain the photoelectric effect: red light cannot knock electrons out of a metal, however bright it is. That work won him his Nobel Prize.",
      "how": "e2"
     }
@@ -1367,7 +1367,7 @@
      "t": "write",
      "p": "Light behaves like a wave and also comes in packets. Describe one piece of evidence for each.",
      "lines": 4,
-     "a": "Wave: light through two slits, or through fine cloth, makes a pattern of bright and dark spots, like crossing ripples. Packets: the glow star shines under dim blue light but not bright red, because each photon's energy matters. Cameras also record light as single dots.",
+     "a": "Wave: light through two slits, or through fine cloth, makes a pattern of bright and dark spots, like crossing ripples. Packets: a glow star glows after a blue screen but not after a red one, because what matters is each photon's energy. Very sensitive cameras also record light arriving as single dots.",
      "why": "Physicists call light a quantum object. It travels like a wave and arrives as packets."
     },
     {
@@ -1414,11 +1414,7 @@
      "qty": 1
     },
     {
-     "item": "a long open space, like a playground or a cricket ground, if you have one nearby",
-     "qty": 1
-    },
-    {
-     "item": "a phone stopwatch, if you have one",
+     "item": "a long open space with no traffic, at least 150 metres long, such as a playground, a cricket ground or a long lane inside a housing colony",
      "qty": 1
     },
     {
@@ -1437,8 +1433,8 @@
    "record": "Fill in the table. Then draw the helper far away, with an arrow for the light and an arrow for the sound. Draw the light arrow arriving first.",
    "setup": [
     {
-     "art": "A grown-up holding two steel plates high above their head at one end of a playground, a child standing close by.",
-     "caption": "1. Stand close to the helper first. Watch and listen."
+     "art": "A grown-up holding two steel plates high above their head at one end of a playground, a child standing a short way off.",
+     "caption": "1. Stand 20 big steps from the helper first. Watch and listen."
     },
     {
      "art": "The child far away at the other end of the playground, counting big steps, the helper small in the distance.",
@@ -1453,9 +1449,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Stand right next to the helper. 2. The helper holds the plates high and bangs them together once. 3. Watch and listen.",
+     "do": "1. Stand about 20 big steps from the helper. 2. The helper holds the plates high and bangs them together once. 3. Watch and listen.",
      "say": "Close up, the flash of the plates meeting and the bang seem to happen together. Let's see if that changes when we move far away.",
-     "kid": "Stand close to the helper. Watch the plates bang. Did you see it and hear it at the same time?",
+     "kid": "Stand 20 big steps from the helper. Watch the plates bang. Did you see it and hear it at the same time?",
      "context": "This is the first step of the Flash and Bang experiment. A helper bangs two steel plates, and you check whether you see it before you hear it.",
      "adult": true,
      "ask": [
@@ -1575,13 +1571,13 @@
   },
   {
    "id": "e2",
-   "title": "The Glow Star Test: does brighter light always do more?",
-   "mins": 35,
+   "title": "The Glow Star Test: does more light always do more?",
+   "mins": 29,
    "days": 1,
-   "context": "In this experiment, you shine red light and blue light on glow-in-the-dark stars. You find out which colour makes them glow, and whether a brighter light does more. The answer shows that light comes in tiny packets called photons.",
-   "question": "Can bright red light make a glow-in-the-dark star glow, if a dimmer blue light can?",
-   "predict": "Before you test, guess. Will the bright red light make the star glow? Will the dimmer blue light? Which will make it glow more, and why do you think so?",
-   "fair_test": "To make it fair, use the same kind of glow star each time. Hold each light at the same distance, 2 centimetres away, for the same time, 30 seconds. Keep the room dark. Let each star sit in the dark for 10 minutes before the test, so it starts with no glow.",
+   "context": "In this experiment, you shine a red phone screen and a blue phone screen on glow-in-the-dark stars. You find out which colour makes them glow, and whether more of the other colour helps. The answer shows that light comes in tiny packets called photons.",
+   "question": "Which makes a glow-in-the-dark star glow, red light or blue light? And if one colour does not work, does shining it for longer help?",
+   "predict": "Before you test, guess. Will the red screen make the star glow? Will the blue screen? If one of them does not work, will shining it for 4 times as long help? Why do you think so?",
+   "fair_test": "To make it fair, use the same kind of glow star each time. Hold each screen 2 centimetres away, at full brightness, for 30 seconds. Keep the room dark. Keep the stars in a closed box from the night before, or for at least 1 hour, so they start with no glow. Glow stars can keep a faint glow for a long time, so a few minutes in the dark is not enough.",
    "results_table": [
     "Light used",
     "How bright it looked",
@@ -1603,7 +1599,7 @@
      "qty": 1
     },
     {
-     "item": "a room you can make dark, or a cupboard",
+     "item": "a room you can make dark, and a closed box or a dark cupboard to keep the stars in",
      "qty": 1
     },
     {
@@ -1616,15 +1612,15 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 35,
+     "mins": 29,
      "what": "Shine red light and blue light on glow stars. Compare how they glow in the dark."
     }
    ],
-   "record": "Fill in the table. Then draw the star after red light and after blue light. Draw a few big photons for blue, and many small photons for red.",
+   "record": "Fill in the table. Then draw star 1 after the red screen and star 2 after the blue screen. Draw blue light as a few big dots, because each blue photon carries more energy. Draw red light as many small dots.",
    "setup": [
     {
      "art": "Three glow-in-the-dark star stickers lying on a dark cloth inside a cupboard.",
-     "caption": "1. Keep the stars in the dark for 10 minutes, until they stop glowing."
+     "caption": "1. Keep the stars in a closed box for at least 1 hour, so no glow is left."
     },
     {
      "art": "A phone with a plain bright red screen held just above one glow star in a dark room.",
@@ -1642,18 +1638,18 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 10,
-     "do": "1. Put 3 glow stars in a dark cupboard for 10 minutes so they stop glowing. 2. Meanwhile, set the phone to full brightness. 3. Find a plain red picture and a plain blue picture to show full-screen.",
+     "mins": 4,
+     "do": "1. The night before, or at least 1 hour before, put the 3 glow stars in a closed box or a dark cupboard. 2. Set the phone to full brightness. 3. Find a plain red picture and a plain blue picture to show full-screen. 4. Make the room dark. Take out the stars and check that none of them glows.",
      "say": "We need the stars to start with no glow at all. Then any glow comes only from the light we shine on them. Which do you think will make a star glow, red light or blue light? Why?",
-     "kid": "Put the stars in a dark place. Wait 10 minutes. Guess: will red or blue light make them glow? Why?",
+     "kid": "Your stars have been in a dark box, so they have no glow left. Check them in the dark. Guess: will red or blue light make them glow? Why?",
      "context": "This is the first step of the Glow Star Test. You shine red and blue light on glow-in-the-dark stars to see which colour makes them glow.",
      "parent": "Write down your child's guess and their reason. Don't say which is right. The test will show it."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Make the room dark. 2. Show the plain red picture. 3. Hold the screen 2 centimetres above star 1 for 30 seconds. 4. Switch the screen off. 5. Look at the star.",
-     "say": "Red light, very bright, very close. Let's see if it makes the star glow.",
+     "do": "1. Keep the room dark. 2. Show the plain red picture. 3. Hold the screen 2 centimetres above star 1 for 30 seconds. 4. Switch the screen off. 5. Cup your hands round the star and look closely.",
+     "say": "Red light first, at full brightness and very close. Let's see if it makes the star glow.",
      "kid": "Hold the bright red screen over star 1. Count to 30. Switch it off. Does it glow?",
      "ask": [
       {
@@ -1664,17 +1660,17 @@
        ]
       }
      ],
-     "parent": "The star should stay dark. If it glows a little, your phone's red has some blue in it. Then use the phone's torch with two layers of red cellophane over it instead."
+     "parent": "Star 1 should stay dark. If it glows a little, the star may not have been in the dark long enough, or your screen's red has a little blue in it. Put it back in the box, and next time use the phone's torch with two layers of red cellophane over it instead of the red screen."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "1. Show the plain blue picture. 2. Hold the screen 2 centimetres above star 2 for 30 seconds. 3. Switch the screen off and look.",
-     "say": "Blue light now. To our eyes it looks dimmer than the red did. Let's see what happens.",
+     "say": "Now blue light. To our eyes, the blue screen probably looks dimmer than the red one. Let's see what happens.",
      "kid": "Now hold the blue screen over star 2. Count to 30. Switch it off. What do you see?",
      "check": {
       "t": "mcq",
-      "q": "The bright red light did not make the star glow, but the dimmer blue light did. Why?",
+      "q": "The red screen did not make star 1 glow. The blue screen made star 2 glow. Why?",
       "options": [
        "Each blue photon carries enough energy, and each red photon does not",
        "Red light is too bright",
@@ -1683,13 +1679,13 @@
       "a": 0,
       "why": "Light comes in packets called photons. A blue photon carries more energy than a red one. To make the star glow, one photon must give the star's material enough energy all by itself. Lots of red photons cannot add up to do it. Picking 'too bright' usually means thinking brightness is what matters. Picking 'closer' is a good fair-test thought, but both lights were held 2 centimetres away."
      },
-     "parent": "Star 2 should glow softly. If it hardly glows, hold the blue screen there for a full minute, or use the phone's torch with blue cellophane over it."
+     "parent": "Star 2 should glow softly. The glow is faint, so look in a fully dark room, with your hands cupped round the star. If it hardly glows, hold the blue screen there for a full minute, or use the phone's torch with blue cellophane over it."
     },
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Put star 1 back in the dark for 2 minutes. 2. Hold the red screen over it again, this time for 2 whole minutes. 3. Switch off and look.",
-     "say": "Maybe the red light just needs longer. Let's give it four times as long. What do you think will happen?",
+     "do": "1. Hold the red screen over star 1 again, this time for 2 whole minutes. 2. Switch off and look.",
+     "say": "Maybe the red light just needs longer. Let's give it four times as long, so four times as much red light. What do you think will happen?",
      "kid": "Try the red light again, for 2 whole minutes this time. Does it glow now?",
      "ask": [
       {
@@ -1705,7 +1701,7 @@
      "id": "s5",
      "mins": 5,
      "do": "Explain what this shows, using the idea of photons. Then try the white torch on star 3.",
-     "say": "In 1905, Einstein said light comes in packets. Each packet is called a photon. The colour of the light sets how much energy each photon has. Blue photons carry more energy than red ones. A bright red light is just lots of red photons, and none of them is strong enough. White torchlight is a mix of colours, with blue in it. Will it make star 3 glow?",
+     "say": "Why do you think blue worked and red did not, even for 2 whole minutes? In 1905, Einstein said light comes in packets. Each packet is called a photon. The colour of the light sets how much energy each photon has. Blue photons carry more energy than red ones. Shining red light for longer only sends more red photons, and not one of them carries enough energy. White torchlight is a mix of colours, with blue in it. Will it make star 3 glow?",
      "kid": "Light comes in packets called photons. Blue photons carry more energy than red ones. Try the white torch on star 3. Does it glow?",
      "parent": "The white torch should make star 3 glow brightly, because it has plenty of blue light in it. This is the same idea as the photoelectric effect, which won Einstein his Nobel Prize. There, ultraviolet or blue light knocks electrons out of a metal, but red light cannot, however bright. If you have a UV torch, a grown-up can try it too. It makes the star glow the brightest.",
      "ask": [
@@ -1713,7 +1709,7 @@
        "q": "Why does white light make the star glow?",
        "good": [
         "White light has blue photons in it.",
-        "It has some strong photons mixed in."
+        "It has blue photons in it, which carry more energy."
        ]
       }
      ]
@@ -1724,7 +1720,7 @@
      "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: blue light can make a glow star glow, but red light cannot. What I saw: the bright red screen left star 1 dark, even for 2 minutes, but the dimmer blue screen made star 2 glow in 30 seconds. Why: light comes in packets, and each blue packet has enough energy, but each red packet does not."
+     "parent": "A good answer sounds like this. What I think: blue light can make a glow star glow, but red light cannot. What I saw: the red screen left star 1 dark, even for 2 minutes, but the blue screen made star 2 glow in 30 seconds. Why: light comes in packets called photons. Each blue photon has enough energy, but each red photon does not."
     }
    ]
   },
@@ -1740,7 +1736,7 @@
    "results_table": [
     "Try",
     "Distance between two melted spots (cm)",
-    "Wave size: twice that distance (cm)"
+    "Length of one whole wave: twice that distance (cm)"
    ],
    "materials": [
     {
@@ -1753,8 +1749,7 @@
     },
     {
      "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "a grown-up to run the oven",
@@ -1826,7 +1821,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "Work out the speed together. A whole wave is about 12 centimetres long. The oven makes 2,450 million waves a second. Each new wave pushes the wave on by 12 centimetres.",
+     "do": "Work out the speed together. One whole wave is about 12 centimetres long. The oven sends out 2,450 million waves every second, one after another. So in one second, the front of the wave travels 2,450 million times 12 centimetres.",
      "say": "Each second, the oven makes 2,450 million waves. Each wave is 12 centimetres long. So in one second the wave travels 12 times 2,450 million centimetres. That is about 30,000 million centimetres. That is 3 lakh kilometres. The speed of light!",
      "kid": "Each wave is 12 centimetres long. There are 2,450 million waves a second. Multiply them. You get about 3 lakh kilometres a second!",
      "adult": true,
@@ -1959,13 +1954,12 @@
      "qty": 1
     },
     {
-     "item": "4 clothes pegs or paper clips",
+     "item": "5 clothes pegs or paper clips",
      "qty": 1
     },
     {
      "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "paper and crayons",
@@ -2082,7 +2076,7 @@
      "what": "Make ripples in a thali of water. See waves spread, cross and add up. Compare them with rolling marbles."
     }
    ],
-   "record": "Draw the ripples from one pebble. Then draw the ripples from two pebbles crossing each other.",
+   "record": "Draw the ripples from one coin. Then draw the ripples from two coins crossing each other.",
    "context": "In this activity, you make ripples in a plate of water to see what a wave is. Scientists once argued whether light is a wave like this, or a stream of tiny particles.",
    "setup": [
     {
@@ -2336,7 +2330,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Find a bright star. In winter, look for Orion, the hunter with three stars in a row for his belt. 2. Follow the belt down and left to Sirius, the brightest star. 3. Look at Betelgeuse, the reddish star at Orion's shoulder.",
-     "say": "Sirius's light left it about 8 and a half years ago. Betelgeuse's light left it about 500 to 700 years ago. Astronomers are still not sure exactly how far it is. When that light set out, the Vijayanagara kingdom was just starting in South India.",
+     "say": "Sirius's light left it about 8 and a half years ago. Betelgeuse's light left it about 500 to 700 years ago. Astronomers are still not sure exactly how far away it is. If it is about 600 years, that light set out in the 1400s, when the Vijayanagara Empire ruled much of South India.",
      "kid": "Find Sirius, the brightest star. Its light left over 8 years ago. Find red Betelgeuse. Its light left hundreds of years ago!",
      "adult": true,
      "check": {
@@ -2443,7 +2437,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about what it means.",
-     "say": "This pattern is a clue that light is a wave. But a phone camera would record the same light as tiny separate hits, the photons. Light is both at once. Scientists still find this strange.",
+     "say": "This pattern is a clue that light is a wave. But very sensitive cameras in laboratories record the same kind of light arriving as tiny separate hits, the photons. Light is both at once. Scientists still find this strange.",
      "kid": "This pattern shows light is a wave. But light also comes in tiny packets. It is both!",
      "think": "If light is a wave, what is doing the waving?"
     }
@@ -2547,8 +2541,7 @@
     },
     {
      "item": "a measuring tape or a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "sticky tape",
@@ -2822,8 +2815,8 @@
    "check": "Video id recalled, not opened from here: a parent should check it plays and is the Royal Institution video with Jim Al-Khalili before showing."
   },
   {
-   "title": "Riding a beam of light from the Sun to the Earth, in real time",
-   "channel": "James O'Donoghue (planetary scientist), or NASA",
+   "title": "Speed of light illustrated by Dr. James O'Donoghue",
+   "channel": "Space Enthusiast (animation by James O'Donoghue, a planetary scientist)",
    "youtube": "wUKwAdeaQnY",
    "mins": 9,
    "why": "An animation that travels at the real speed of light, so the child can feel how long the 8-minute trip from the Sun takes and how slow it looks across the solar system.",
@@ -2960,7 +2953,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Glow Star Test, bright red light did not make the star glow, but dimmer blue light did. What does this show?",
+   "p": "In the Glow Star Test, the red screen did not make the star glow, even for 2 minutes, but the blue screen did. What does this show?",
    "opts": [
     "Light comes in packets, and each blue packet has more energy than each red one",
     "Red light is too bright",
@@ -2982,7 +2975,7 @@
     "A year with no night"
    ],
    "a": 0,
-   "why": "A light-year is a distance, about 9 lakh crore kilometres. Picking a time is a very common mix-up, because the word 'year' is in it.",
+   "why": "A light-year is a distance, about 9 and a half lakh crore kilometres. Picking a time is a very common mix-up, because the word 'year' is in it.",
    "outcome": 5
   },
   {
@@ -3025,11 +3018,11 @@
   "Scientists measure the Earth to Moon distance to within centimetres by timing laser light bounced off mirrors on the Moon.",
   "ISRO's mission control in Bengaluru talks to spacecraft by radio, and must wait for each message to cross space at the speed of light.",
   "Solar panels on rooftops turn photons from sunlight into electricity.",
-  "Phone cameras count photons to make a photo.",
+  "Phone cameras make a photo by measuring how many electrons the photons knock loose in each tiny spot of the sensor.",
   "Astronomers learn what stars are made of, and how hot they are, from their light.",
   "Telescopes looking at very far galaxies see the young universe, because that light is billions of years old.",
   "Lighthouses and ships' signal lamps send messages by light.",
-  "Weather people use the gap between lightning and thunder, and radio signals from lightning, to track storms.",
+  "Weather scientists track storms by picking up the radio waves that lightning gives out, which travel at the speed of light.",
   "Since 1983, the metre itself is defined by how far light goes in a tiny fraction of a second.",
   "Laser rangefinders on building sites measure distance by timing light.",
   "Gravitational lensing lets astronomers map dark matter, which gives out no light."
@@ -3149,8 +3142,8 @@
    "a": "To get a little brighter."
   },
   {
-   "j": "What do you call a wave that can't stop talking?",
-   "a": "A micro-wave of chatter."
+   "j": "What did the thunder say to the lightning?",
+   "a": "Wait for me! You're almost a million times faster."
   },
   {
    "j": "Why did the light beam do so well in the race?",
@@ -3415,22 +3408,10 @@
    ]
   },
   {
-   "id": "b-ruler",
-   "item": "30 cm ruler and a measuring tape",
-   "kind": "tool",
-   "why": "Measures the melted spots in the Chocolate experiment and the planets on the Light-Minute String.",
-   "url": "https://www.amazon.in/s?k=30+cm+ruler",
-   "used_in": [
-    "e3",
-    "a2",
-    "p1"
-   ]
-  },
-  {
    "id": "b-uvtorch",
    "item": "Small UV torch (black light), for a grown-up to use",
    "kind": "tool",
-   "why": "Charges the glow stars brightest of all, because ultraviolet photons are the strongest. A grown-up handles it and nobody looks into it.",
+   "why": "Charges the glow stars brightest of all, because ultraviolet photons carry even more energy than blue ones. A grown-up handles it and nobody looks into it.",
    "url": "https://www.amazon.in/s?k=uv+torch+395nm",
    "used_in": [
     "e2"
@@ -3602,21 +3583,21 @@
  "roots": {
   "context": "We have been learning what light is, how fast it travels and how it comes in packets. Now we ask what light tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A bright red light can shine on a glow star for minutes and leave it dark. A dimmer blue light makes it glow in half a minute. Light's energy comes in packets called photons, and each one acts on its own. So what light can do depends on each photon's energy, not on how many photons there are.",
-   "habit": "We expect more of something to do more: a brighter light should do more than a dimmer one. With light, that is only true once each photon has enough energy. Below that, adding more photons does nothing.",
-   "evidence": "In the Glow Star Test, the bright red screen left the star dark, even after 2 minutes, while the dimmer blue screen made it glow. Einstein explained the same thing for metals in 1905: red light, however bright, cannot knock electrons out of them."
+   "truth": "A red phone screen can shine on a glow star for 2 minutes and leave it dark. A blue screen makes it glow in 30 seconds. Light comes in tiny packets of energy called photons, and a blue photon carries more than a red one. Each photon works alone, so if one carries too little energy, adding more photons cannot help.",
+   "habit": "We expect more of something to do more, so shining a light for longer should do more. With light, that is only true when each photon carries enough energy. If it does not, adding more photons does nothing.",
+   "evidence": "In the Glow Star Test, the red screen left the star dark, even after 2 whole minutes, while the blue screen made it glow in 30 seconds. Einstein explained the same thing for metals in 1905: red light, however bright, cannot knock electrons out of them."
   },
   "three": {
    "who_am_i": "You see because photons land in your eyes. Cells at the back of each eye catch their energy, packet by packet.",
    "what_is_life": "Almost all life runs on sunlight. A leaf catches photons, and their energy ends up in the food every animal eats.",
    "what_is_this_world": "Starlight left the stars long ago. When you look up at night, you see the sky as it was, not as it is now."
   },
-  "thread": "Radio waves, microwaves, the light we see and X-rays seem like very different things. Underneath, they are one kind of wave, with different wavelengths. Maxwell found in 1865 that electricity, magnetism and light are one thing. And every one of these waves comes in photons. DeepKids believes that the many things we see come from one source, and light is a place where science shows many things turning out to be one.",
+  "thread": "Radio waves, microwaves, the light we see and X-rays seem like very different things. Underneath, they are one kind of wave, with different wavelengths. In 1865 Maxwell showed that light is a wave of electricity and magnetism. And every one of these waves comes in photons. DeepKids believes that the many things we see come from one source. Light is one place where science itself finds many things turning out to be one.",
   "teachings": [
    {
     "source": "Brihadaranyaka Upanishad 4.3.2 to 4.3.6",
     "teaching": "King Janaka asks the sage Yajnavalkya: what light does a person live by? The Sun, says the sage. And when the Sun has set? The Moon. And when the Moon has set? Fire. And when the fire goes out? Speech. And when speech is silent? Then the self is his light.",
-    "link": "This unit explains how light travels from a lamp into your eye, photon by photon. Science can follow the photons all the way in. The sage asks a question science has not answered: who is the one who sees?"
+    "link": "This unit follows light from a lamp to your eye, photon by photon. Science can follow the photons all the way in. The sage asks something science has not answered: who is it that sees?"
    },
    {
     "source": "Udana 6.4, the Buddha's story of the blind men and the elephant (also told in Jain teaching on anekantavada, many-sidedness)",
@@ -3636,7 +3617,7 @@
   ],
   "other_view": {
    "who": "Many physicists, and the Charvaka school of ancient India",
-   "view": "Light is an electromagnetic field that follows the equations of physics, and nothing more is needed to explain it. The Charvaka thinkers held that only what we can perceive is real, so there is no need for any one source behind it. That is an honest view."
+   "view": "Light is an electromagnetic field that follows the equations of physics, and nothing more is needed to explain it. The Charvaka thinkers held that only what we can perceive is real, so there is no need for any one source behind it."
   },
   "practice": {
    "title": "The Old Light Breath",
@@ -3647,8 +3628,8 @@
   "ask": [
    "If everything you see reached you a little late, when is 'now'?",
    "Light acts like a wave in one test and like packets in another. Is it a wave, a particle, or something we do not have a word for yet?",
-   "A red photon cannot do what a blue one does, however many red ones there are. Where else have you seen that more is not the same as stronger?",
-   "What is the light by which you know all the other lights?"
+   "A red photon cannot do what a blue one does, however many red ones there are. Can you think of something else where many small ones cannot do the job of one big one?",
+   "The sage said that when every other light is gone, the self is the light we live by. When you dream in the dark, what lets you see the dream?"
   ],
   "art": "A child in a dark room watching a glow star shine after a blue light, with a red light beside it that left another star dark."
  },

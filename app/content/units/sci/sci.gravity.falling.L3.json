@@ -3,11 +3,11 @@
  "title": "Falling: why heavy and light things land together",
  "level": 3,
  "summary": {
-  "text": "Drop a full bottle and an empty bottle together, and they land with one thud. Gravity, the force that makes things fall, pulls harder on the full bottle. But the full bottle is also harder to get moving, so both fall in the same way. Only air resistance, the push of the air, slows light, spread-out things like feathers and flat paper. People believed heavy things fall faster for about two thousand years, until careful tests showed they do not. Further out, everything with mass attracts everything else, gravity bends light and slows clocks, and nobody yet knows what gravity is deep down.",
-  "art": "A child on a balcony letting go of a full and an empty plastic bottle at the same moment, both falling side by side, with a faint bent grid of space-time drawn behind the Earth in the sky."
+  "text": "Drop a full bottle of water and a bottle with only a little water together, and they land with one thud. Gravity, the force that makes things fall, pulls harder on the full bottle, because it has more mass. But more mass also needs a bigger pull to speed up, and the two match exactly. So both fall in the same way. Only air resistance, the push of the air, slows light, spread-out things like feathers and flat paper. People believed heavy things fall faster for nearly two thousand years, until careful tests showed they do not. The unit then goes further: everything with mass attracts everything else, gravity bends light and slows clocks, and nobody yet knows what gravity is deep down.",
+  "art": "A child on a balcony letting go of a full and a nearly empty plastic bottle at the same moment, both falling side by side, with a faint bent grid of space-time drawn behind the Earth in the sky."
  },
  "intro": {
-  "hook": "Hold a heavy steel spoon in one hand and a light plastic spoon in the other. Hold them at the same height. If you let go together, which will hit the floor first? Make your guess, and say why, before you try.",
+  "hook": "Hold a big potato in one hand and a small lemon in the other. Hold them at the same height. If you let go together, which will hit the floor first? Make your guess, and say why, before you try.",
   "text": "In 1971, an astronaut called David Scott stood on the Moon. He held a hammer in one hand and a falcon feather in the other. A camera was filming. Millions of people on Earth were watching. He let go of both at the same moment. On Earth, the feather would float down slowly and the hammer would thud down. On the Moon, there is no air. What do you think happened?",
   "art": "An astronaut in a white suit on the grey Moon, a hammer in one glove and a feather in the other, both just let go, the black sky above."
  },
@@ -79,8 +79,8 @@
   {
    "term": "Fair test",
    "meaning": "A test where you change only one thing and keep everything else the same. Then you know what made the difference.",
-   "example": "Drop two bottles from the same height, at the same moment, onto the same floor. Only the water inside is different.",
-   "art": "Two identical bottles held at the same height, one full and one empty."
+   "example": "Drop two bottles from the same height, at the same moment, onto the same floor. Only the amount of water inside is different.",
+   "art": "Two identical bottles held at the same height, one full and one with only a little water."
   },
   {
    "term": "Parachute",
@@ -174,7 +174,7 @@
    "concept": "Down means towards the middle of the Earth",
    "status": "defined",
    "definition": "Down means towards the middle of the Earth, from wherever you are standing.",
-   "description": "The Earth is a huge ball. People live all over it, on every side. A child in Argentina is standing almost upside down compared with you. But she does not fall off. For her, down is towards the middle of the Earth, just as it is for you. So 'down' is not one direction in space. It points to the middle of the Earth from wherever you are. Builders use a plumb line, a weight on a string, to find down. The string always points straight to the middle of the Earth.",
+   "description": "The Earth is a huge ball. People live all over it, on every side. A child in Argentina is standing almost upside down compared with you. But she does not fall off. For her, down is towards the middle of the Earth, just as it is for you. So 'down' is not one direction in space. It points to the middle of the Earth from wherever you are. Builders use a plumb line, a weight on a string, to find down. The string points almost exactly towards the middle of the Earth.",
    "examples": [
     "A plumb line hangs straight down. Masons use it to build walls that stand straight.",
     "Imagine digging straight down from India, through the middle of the Earth. You would come out in the Pacific Ocean, west of South America. Nobody can really dig that deep."
@@ -187,14 +187,14 @@
    "concept": "Heavy and light fall together",
    "status": "defined",
    "definition": "If there is no air in the way, all things fall in the same way. Heavy and light things, dropped together from the same height, land together.",
-   "description": "This is the great surprise of falling. Most people guess that a heavy thing falls faster. Try it with a full bottle and an empty bottle, and they land together. Here is why. The Earth pulls the full bottle harder, because it has more mass. But more mass also makes a thing harder to get moving. Think of pushing a full trolley and an empty trolley. The two effects grow together and cancel exactly. So everything speeds up in the same way as it falls. Only the air spoils this, for things that are very light and spread out.",
+   "description": "This is the great surprise of falling. Most people guess that a heavy thing falls faster. Try it with a full bottle of water and a bottle with only a little water, and they land together. Here is why. The Earth pulls the full bottle harder, because it has more mass. But more mass also makes a thing harder to speed up. Think of pushing a full trolley and an empty trolley. A bottle with twice the mass gets twice the pull, but it also needs twice the pull to speed up as fast. So the extra pull is used up exactly by the extra mass, and both bottles speed up in the same way. Only the air spoils this, for things that are very light and spread out.",
    "examples": [
-    "A full and an empty water bottle, dropped together, hit the floor together.",
+    "A full water bottle and a bottle with only a little water, dropped together, hit the floor together.",
     "A cricket ball and a tennis ball, dropped together from a balcony, land together.",
     "On the Moon, with no air, a hammer and a feather land together."
    ],
    "perspectives": [],
-   "art": "A full and an empty plastic bottle falling side by side from the same height, both just about to touch the floor at the same moment.",
+   "art": "A full and a nearly empty plastic bottle falling side by side from the same height, both just about to touch the floor at the same moment.",
    "context": "Do heavy things fall faster than light things? This card gives the answer that surprised the world, and explains why."
   },
   {
@@ -257,7 +257,7 @@
    "concept": "Falling things speed up",
    "status": "defined",
    "definition": "A falling thing speeds up as it falls. Without air, it gains about 10 metres a second of speed every second.",
-   "description": "A dropped ball does not fall at one steady speed. Every second, it goes faster. After 1 second, it has fallen about 5 metres. After 2 seconds, about 20 metres. After 3 seconds, about 45 metres. Galileo found this pattern. Falling was too fast to measure, so he slowed it down. He rolled balls down a long, gentle ramp. He timed them with a water clock, by weighing the water that ran out. The distances from the start went up as 1, 4, 9, 16, the square numbers. The speed comes from height. A thing held up high has stored energy. As it falls, that stored energy turns into movement energy.",
+   "description": "A dropped ball does not fall at one steady speed. Every second, it goes faster. After 1 second, it has fallen about 5 metres. After 2 seconds, about 20 metres. After 3 seconds, about 45 metres. Galileo found this pattern. Falling was too fast to measure, so he slowed it down. He rolled balls down a long, gentle ramp. He timed them with a water clock, by weighing the water that ran out. The distances from the start went up as 1, 4, 9, 16, the square numbers. Where does the speed come from? A thing held up high has stored energy. As it falls, that stored energy turns into movement energy.",
    "examples": [
     "Drop a ball from a step, then from a balcony. It hits much harder from higher up.",
     "Water falling over a high waterfall, like Jog Falls in Karnataka, hits the pool below with a roar."
@@ -378,9 +378,9 @@
    "concept": "Can you jump into space? Escape speed",
    "status": "defined",
    "definition": "Escape speed is how fast something must start out to get away from a planet's pull for ever. For the Earth, it is about 11 kilometres a second.",
-   "description": "Jump as high as you can. You go up, slow down, stop and fall back. Jump faster, and you go higher before falling back. Could you ever jump so fast that you never come back? Yes, in theory. You would need to leave the ground at about 11 kilometres every second. That is far faster than a bullet. Scientists call it the escape speed. A child's good jump leaves the ground at only 2 or 3 metres a second. Rockets reach escape speed by burning fuel for many minutes. A small world has a small escape speed. On the Moon it is about 2.4 kilometres a second. A black hole has so much mass squeezed into so small a space that, close to it, the escape speed is faster than light. So even light cannot get out.",
+   "description": "Jump as high as you can. You go up, slow down, stop and fall back. Jump faster, and you go higher before falling back. Could you ever jump so fast that you never come back? Yes, in theory. You would need to leave the ground at about 11 kilometres every second. That is far faster than a bullet. Scientists call it the escape speed. A child's good jump leaves the ground at only 2 or 3 metres a second. Rockets reach escape speed by burning fuel for many minutes. A small world has a small escape speed. On the Moon it is about 2.4 kilometres a second. A black hole has so much mass squeezed into so small a space that, inside its edge, the escape speed is faster than light. So even light cannot get out.",
    "examples": [
-    "India's Chandrayaan and Mangalyaan spacecraft had to be pushed fast enough to escape the Earth's pull.",
+    "India's Mangalyaan had to go faster than the Earth's escape speed to reach Mars. Chandrayaan did not need to, because the Moon is still held by the Earth's gravity.",
     "On a tiny asteroid, a hard jump could send you off into space."
    ],
    "perspectives": [],
@@ -481,7 +481,7 @@
    "status": "idea",
    "description": "Scientists know how gravity behaves very, very well. They can land spacecraft on the Moon with it. But they do not know what gravity is, deep down. The force of electricity and magnetism is carried by tiny particles called photons, the particles of light. So maybe gravity is carried by tiny particles too. Scientists call them gravitons. Nobody has ever found one. They may be far too weak to catch. Einstein's bent space-time works beautifully for planets and stars. Quantum physics, the science of the very tiniest things, works beautifully for atoms. But the two do not fit together. Inside a black hole, and at the very start of the universe, both are needed. That is one of the biggest puzzles in science.",
    "examples": [
-    "In 2015, the LIGO detectors in the USA caught ripples in space-time from two black holes crashing together. These gravitational waves were a ripple of the whole blanket, not single gravitons.",
+    "In 2015, the LIGO detectors in the USA caught ripples in space-time from two black holes crashing together. These gravitational waves were ripples of space-time itself, not single gravitons.",
     "Some physicists think gravity is not a basic force at all. It might come out of something deeper, the way warmth comes out of jiggling atoms."
    ],
    "perspectives": [
@@ -596,10 +596,10 @@
   {
    "q": "Everything falls in the same way, heavy or light. Is the fall something the thing does, or something the place does?",
    "kind": "deep",
-   "hint": "Einstein thought it belongs to the place. On the space blanket, big and small marbles followed the same dent."
+   "hint": "Einstein thought it belongs to the place. In his picture, the bend in space-time is the same for anything that passes through it."
   },
   {
-   "q": "People believed heavy things fall faster for about 1,900 years. Why did nobody just test it?",
+   "q": "People believed heavy things fall faster for about 1,900 years. Why did so few people test it?",
    "kind": "big",
    "hint": "Is it easy to doubt something that every teacher and every book says?"
   },
@@ -621,7 +621,7 @@
   {
    "q": "Is gravity good or bad? It keeps us on the ground and holds the air on Earth. It also makes us fall and get hurt.",
    "kind": "big",
-   "hint": "The founder's gravity song asks the same thing. What would the world be like with no gravity at all?"
+   "hint": "Imagine a day with no gravity at all. What would happen to the air, the rain, the rivers and you?"
   },
   {
    "q": "If light has no mass, why does gravity bend it?",
@@ -651,7 +651,7 @@
   "note": "John Philoponus was a real scholar in Alexandria, about 1,500 years ago. He really wrote that two weights, one many times heavier, dropped from the same height, land with only a very small difference in time. Galileo really read his books, a thousand years later. Thekla, her father, the roof and the students are made up. Thekla's argument about tying the weights together was really written by Galileo, in 1638. The story gives it to her.",
   "text": [
    "My father weighed things for a living. In the great market of Alexandria, near the harbour where the lighthouse stood, he sat under a striped awning with his bronze balance and his wooden box of lead weights. Wheat from up the Nile, jars of olive oil, bolts of linen, black pepper that came on ships from India: everything that was sold crossed his scales first. Everyone trusted them. 'A weigher has only one thing to sell,' he told me. 'It is the truth.'",
-   "I was eleven, and I knew every weight in the box by feel. The biggest was as heavy as a full water jar, and so cold in the mornings that it made my fingers ache. The smallest was as light as a date stone. Between them they made ten of the smallest, then a hundred, then the big one, which was worth ten of the middle one.",
+   "I was eleven, and I knew every weight in the box by feel. The biggest was as heavy as a small melon, and so cold in the mornings that it made my fingers ache. The smallest was as light as a date stone. The middle one was exactly a tenth of the biggest.",
    "Most evenings, a thin man in a dusty cloak came and sat on the step beside our stall. His name was John. The students from the lecture halls called him Philoponus, which means the Lover of Work. He was a teacher of grammar, of words and sentences, not a famous philosopher. And he had very bad manners. He argued with Aristotle.",
    "Aristotle had been dead for more than eight hundred years, and he was the greatest mind there had ever been. Everyone said so. Aristotle taught that heavy things fall faster than light things. A weight ten times heavier falls ten times faster. Everyone knew that. I knew it. I had seen a stone beat a leaf a thousand times.",
    "'Have you?' said John, when I told him. 'Or have you seen the air hold up a leaf?'",
@@ -703,8 +703,8 @@
      "kind": "cards",
      "title": "24 drop cards to cut out",
      "items": [
-      "A full water bottle and an empty one, from a table",
-      "A steel spoon and a plastic spoon, from your shoulder",
+      "A full water bottle and a bottle with a little water, from a table",
+      "A big potato and a small lemon, from your shoulder",
       "A cricket ball and a tennis ball, from a balcony",
       "A flat sheet of paper and a coin",
       "A crumpled paper ball and a coin",
@@ -715,15 +715,15 @@
       "A big ball of clay and a small ball of clay, from a step",
       "A flat leaf and the same leaf rolled into a tight ball",
       "A parachute with a toy, and the same toy with no parachute",
-      "A heavy brass lota and a light steel tumbler of the same shape",
+      "A heavy steel tumbler and a light plastic tumbler of the same shape",
       "An elephant and a mouse, dropped together on an airless world",
       "Two marbles, one dropped from a chair and one from a table",
       "A fluffy semal seed and a fruit stone",
       "A big book and a small book, lying flat",
       "Two weights tied together, and one weight on its own",
-      "TEST IT: drop a full bottle and an empty bottle from a book. One thud or two?",
+      "TEST IT: drop a full bottle and a bottle with a little water from a book. One thud or two?",
       "TEST IT: drop a flat paper and a crumpled paper. Which lands first?",
-      "TEST IT: lay a paper on a book and drop the book. Does the paper float off?",
+      "TEST IT: lay a paper smaller than a book on the book, and drop the book. Does the paper float off?",
       "TEST IT: drop two different coins together onto a steel plate. One clink or two?",
       "TEST IT: drop a feather and a crumpled paper ball. Which lands first?",
       "TEST IT: jump up and land. Did the Earth pull you, or did you pull the Earth?"
@@ -771,19 +771,19 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the card 'A full water bottle and an empty one, from a table' as a practice round.",
-     "say": "Practice card: a full bottle and an empty bottle, dropped from a table together. Show your token!",
-     "kid": "Practice card: a full and an empty bottle fall from a table. Which lands first? Show your token.",
+     "do": "Play the card 'A full water bottle and a bottle with a little water, from a table' as a practice round.",
+     "say": "Practice card: a full bottle and a bottle with a little water, dropped from a table together. Show your token!",
+     "kid": "Practice card: two bottles fall from a table. One is full. One has a little water. Which lands first? Show your token.",
      "check": {
       "t": "mcq",
-      "q": "A full water bottle and an empty one fall from a table together. Which lands first?",
+      "q": "A full water bottle and a bottle with only a little water fall from a table together. Which lands first?",
       "options": [
        "HEAVY FIRST: the full one",
        "TOGETHER",
-       "LIGHT FIRST: the empty one"
+       "LIGHT FIRST: the one with a little water"
       ],
       "a": 1,
-      "why": "They land together. Gravity pulls the full bottle harder, but it is also harder to get moving. The two balance, so both speed up in the same way. From a table, the air hardly slows bottles. Any guess is fine in a practice round. Now you know the secret for the rest of the game."
+      "why": "They land together. Gravity pulls the full bottle harder, but the full bottle also needs a bigger pull to speed up. The two match exactly, so both speed up in the same way. From a table, the air hardly slows bottles. Any guess is fine in a practice round. Now you know the secret for the rest of the game."
      }
     },
     {
@@ -792,7 +792,7 @@
      "do": "1. Take turns turning over a card and reading it out. 2. Everyone shows a token. 3. Check the answer and give points. 4. On a TEST IT card, do the test together.",
      "say": "Before you guess, ask one question. Is the air slowing one of them? If not, they land together.",
      "kid": "Take turns. Read a card. Show your token. Then ask: does the air get in the way? If not, they land together!",
-     "parent": "Answers. Answers that land TOGETHER: the bottles, spoons, balls and stones. Also the mango and lemon, the clay balls, the lota and tumbler, and the two books. Also the elephant and mouse with no air, the tied weights, and the hammer and feather. HEAVY FIRST happens only when air slows the light one. So the coin beats the flat paper, and the fruit stone beats the semal seed. The toy beats the parachute, and the rolled leaf beats the flat leaf. The crumpled paper and coin land almost together. The marble from the table lands later, because it starts higher, not because of its weight. On the jump card, the answer is both: you pull the Earth as hard as it pulls you."
+     "parent": "Answers that land TOGETHER: the bottles, the potato and lemon, the cricket and tennis balls, and the stones. Also the mango and lemon, the clay balls, the two tumblers and the two books. Also the elephant and mouse with no air, the tied weights, and the hammer and feather on the Moon. HEAVY FIRST happens only when the air slows the light one. So the coin beats the flat paper, the crumpled paper ball beats the feather, and the fruit stone beats the semal seed. The crumpled paper and the coin land almost together. Two cards are LIGHT FIRST: the toy on its own beats the toy with a parachute, though the parachute makes it heavier. Two cards have no heavy one, because the flat and rolled leaf, and the flat and crumpled paper, weigh the same. There the compact one lands first, so give the point to whoever says the air made the difference. The marble from the table lands later, because it starts higher, not because of its weight. On the jump card, the answer is both: you pull the Earth as hard as it pulls you."
     },
     {
      "id": "s4",
@@ -826,7 +826,7 @@
      "caption": "1. Shuffle the cards. Each player takes three guess tokens."
     },
     {
-     "art": "A child reading a card showing a full and empty bottle falling, while three players hold up their tokens.",
+     "art": "A child reading a card showing a full bottle and a nearly empty bottle falling, while three players hold up their tokens.",
      "caption": "2. Read a card. Everyone shows a token at once."
     },
     {
@@ -885,13 +885,13 @@
       "2 The coin. The air pushes up on the spread-out tissue and slows it.",
       "3 It landed almost with the coin. Same tissue, same weight, but less air pushing on it.",
       "4 Up. Going up, you work against gravity. Going down, gravity helps.",
-      "5 Gravity. You would need about 11 kilometres every second to escape the Earth.",
+      "5 Gravity. To escape the Earth, you would need to leave the ground at about 11 kilometres every second.",
       "6 Nothing holds it up, so gravity always wins. A bird pushes air down with its wings. A gas balloon floats because the air around it pushes it up.",
       "7 Gravity is a very weak force. A tiny magnet beats the gravity of the whole Earth.",
       "8 Yes. Gravity never stops. It slowed the ball to a stop, then pulled it back.",
       "9 The book pushed the air out of the way, so no air pushed up on the paper.",
-      "10 Straight down, towards the middle of the Earth. Yes, down is always towards the middle.",
-      "11 Your breath pushed the air up against it. When you stop, gravity pulls it down.",
+      "10 Straight down, towards the middle of the Earth. In Argentina it points to the middle of the Earth too.",
+      "11 Your breath pushed air up against it. When you stop, gravity pulls it down.",
       "12 From the table. It fell further, so it sped up more and hit harder."
      ]
     },
@@ -914,7 +914,7 @@
     "Anyone can challenge an answer card if they think it is wrong. Then you test it again together.",
     "When the DO cards run out, the player with the most points wins."
    ],
-   "context": "This is the founder's Draw, Do, Answer game. Players draw a numbered card and do a small gravity challenge. Then they answer a question about it and check the answer card.",
+   "context": "This is a Draw, Do, Answer game. Players draw a numbered card and do a small gravity challenge. Then they answer a question about it and check the answer card.",
    "flow": [
     {
      "id": "s1",
@@ -922,7 +922,7 @@
      "do": "1. Make three piles: DO, QUESTION and ANSWER cards, face down. 2. Shuffle only the DO cards.",
      "say": "Each card asks you to do something with gravity. After you do it, you answer a question about it. Then we check.",
      "kid": "Make three piles: DO, QUESTION and ANSWER. Shuffle the DO cards. Draw one and do it!",
-     "context": "This is the first step of Gravity Cue Cards, the founder's Draw, Do, Answer game."
+     "context": "This is the first step of Gravity Cue Cards, a Draw, Do, Answer game."
     },
     {
      "id": "s2",
@@ -939,7 +939,7 @@
        ]
       }
      ],
-     "parent": "Card 6 comes from the founder's cards: 'Make a ball float with nothing else.' Let your child try for a minute. Then read the answer. The point is that nothing stays up unless something pushes it up, like the air or a hand."
+     "parent": "Card 6 is a trick card: 'Make a ball float with nothing else.' Let your child try for a minute. Then read the answer. The point is that nothing stays up unless something pushes it up, like the air or a hand."
     },
     {
      "id": "s3",
@@ -1013,19 +1013,19 @@
       "Towards the bottom of space"
      ],
      "a": 0,
-     "why": "Down always means towards the middle of the Earth. For her, that points the opposite way from ours. Picking 'the bottom of space' means picturing space with a floor, like a page. Space has no bottom.",
+     "why": "Down always means towards the middle of the Earth. For her, that points almost the opposite way from ours. Picking 'the bottom of space' means picturing space with a floor, like a page. Space has no bottom.",
      "art": "A round Earth with a girl standing at the bottom and an arrow pointing to the centre."
     },
     {
      "t": "mcq",
-     "p": "You drop a full water bottle and an empty one together, from the same height. What happens?",
+     "p": "You drop a full water bottle and a bottle with only a little water together, from the same height. What happens?",
      "opts": [
       "The full one lands first",
       "They land together",
-      "The empty one lands first"
+      "The one with a little water lands first"
      ],
      "a": 1,
-     "why": "They land together. The Earth pulls the full one harder, but it is also harder to get moving. These balance exactly. Picking 'the full one first' is the old idea of Aristotle. Most people guess it until they test it.",
+     "why": "They land together. The Earth pulls the full one harder, but the full one also needs a bigger pull to speed up. The two match exactly. Picking 'the full one first' is the old idea of Aristotle. Most people guess it until they test it.",
      "how": "e1",
      "context": "In the Drop Race, you lay a heavy thing and a light thing on a book. Then you pull the book away and listen. One thud means they landed together."
     },
@@ -1351,7 +1351,7 @@
      "t": "order",
      "p": "Four things are dropped from a balcony. Put them in order, from FASTEST to SLOWEST. They are a fluffy semal seed, a cricket ball, a flat sheet of paper and a crumpled paper ball.",
      "a": "order shown",
-     "why": "The cricket ball is heavy and compact. The crumpled ball is small. The flat sheet catches lots of air. The fluffy seed catches the most air for its weight.",
+     "why": "The cricket ball is heavy and compact, so the air hardly slows it. The crumpled paper ball is light but compact, so the air slows it a little. The flat sheet is light and spread out, so the air slows it a lot. The fluffy seed has the most fluff for its tiny weight, so it drifts down slowest.",
      "items": [
       "a cricket ball",
       "a crumpled paper ball",
@@ -1361,14 +1361,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the Falling Ruler test, Ali caught the ruler after it fell 20 cm. Meera caught it after 5 cm. Who was quicker?",
+     "p": "In the Falling Ruler test, Ali caught the ruler after it fell 20 cm. Meera caught it after 10 cm. Who was quicker?",
      "opts": [
       "Meera, because the ruler had less time to fall",
       "Ali, because his number is bigger",
       "Neither, because the ruler fell differently each time"
      ],
      "a": 0,
-     "why": "The ruler falls in the same way every time, so a shorter fall means a quicker catch. 5 cm takes about one tenth of a second. 20 cm takes about two tenths. Picking 'Ali' means reading a bigger number as better. Here a smaller number is better.",
+     "why": "The ruler falls in the same way every time, so a shorter fall means a quicker catch. 20 cm takes about two tenths of a second. 10 cm takes less, about one and a half tenths. Picking 'Ali' means reading a bigger number as better. Here a smaller number is better.",
      "how": "e4",
      "context": "In the Falling Ruler test, a helper drops a ruler between your open fingers, and you catch it. The number at your thumb shows how far it fell."
     },
@@ -1380,14 +1380,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the space blanket, you tried a heavy ball and a light ball. Which ball made the deepest dent?",
+     "p": "In the space blanket, you tried a heavy ball and a light ball. Which ball made the deeper dent?",
      "opts": [
-      "The heaviest ball",
-      "The lightest ball",
-      "They all made the same dent"
+      "The heavy ball",
+      "The light ball",
+      "They both made the same dent"
      ],
      "a": 0,
-     "why": "The heaviest ball made the deepest dent. In Einstein's picture, more mass bends space-time more, so its gravity is stronger. Picking 'the same dent' would mean all masses have the same gravity. But bigger masses have much stronger gravity.",
+     "why": "The heavy ball made the deeper dent. In Einstein's picture, more mass bends space-time more, so its gravity is stronger. Picking 'the same dent' would mean all masses have the same gravity. But bigger masses have much stronger gravity.",
      "how": "a2",
      "context": "In the space blanket, you stretch a sheet and put a heavy ball in the middle. Then you roll marbles past the dent it makes."
     },
@@ -1480,7 +1480,7 @@
     {
      "t": "write",
      "p": "Your friend says, 'Heavy things fall faster. I dropped a stone and a leaf, and the stone won.' What test would you show your friend? Explain what it proves.",
-     "a": "I would drop a flat paper and a crumpled paper, which weigh the same. The crumpled one wins. So it is the shape and the air, not the weight. Then I would drop a full and an empty bottle together. They land together.",
+     "a": "I would drop a flat paper and a crumpled paper, which weigh the same. The crumpled one wins. So it is the shape and the air, not the weight. Then I would drop a full bottle and a bottle with a little water together. They land together.",
      "why": "A good answer changes only one thing at a time. It shows that the air, not the weight, slowed the leaf.",
      "lines": 4
     },
@@ -1730,11 +1730,11 @@
    ],
    "materials": [
     {
-     "item": "two plastic bottles of the same size, with lids, one full of water and one empty (half-litre bottles are easiest)",
+     "item": "two plastic bottles of the same size, with lids: one full of water, and one with only a little water, about a quarter full (half-litre bottles are easiest)",
      "qty": 2
     },
     {
-     "item": "a heavy steel spoon and a light plastic spoon",
+     "item": "a big potato and a small lemon or lime",
      "qty": 2
     },
     {
@@ -1768,9 +1768,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Put the three pairs on the table. They are the two bottles, the two spoons, and the ten coins with the one coin. 2. Let your child hold each pair, one in each hand, and feel which is heavier. 3. Ask them to guess which will land first, and write the guesses down.",
+     "do": "1. Put the three pairs on the table. They are the two bottles, the potato and the lemon, and the ten coins with the one coin. 2. Let your child hold each pair, one in each hand, and feel which is heavier. 3. Ask them to guess which will land first, and write the guesses down.",
      "say": "Hold one in each hand. Which is heavier? If we drop them together, which one will land first?",
-     "kid": "Hold the full bottle and the empty bottle, one in each hand. Which is heavier? Guess: which lands first? Write it down.",
+     "kid": "Hold the two bottles, one in each hand. Which is heavier? Guess: which lands first? Write it down.",
      "ask": [
       {
        "q": "Why do you think that one will land first?",
@@ -1781,13 +1781,13 @@
        ]
       }
      ],
-     "parent": "Most children, and most grown-ups, guess the heavy one lands first. That is a very good guess to start with. Do not correct it yet. The test will.",
+     "parent": "Most children, and most grown-ups, guess the heavy one lands first. That is a very good guess to start with. Do not correct it yet. The test will. We use a bottle with a little water, not an empty one, because an empty bottle is so light that the air slows it a little and spoils the test.",
      "context": "This is the first step of the Drop Race. You guess whether a heavy or a light thing lands first, before you test it."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Put the steel thali on the floor. 2. Hold the hardback book flat, at about the height of your chin. 3. Lay the full and the empty bottle across the book, side by side. 4. Pull the book away quickly towards you, so both bottles start falling at the same moment.",
+     "do": "1. Put the steel thali on the floor. 2. Hold the hardback book flat, at about the height of your chin. 3. Lay the two bottles across the book, side by side. 4. Pull the book away quickly towards you, so both bottles start falling at the same moment.",
      "say": "Watch and listen. If you hear one thud, they landed together. If you hear two, one was faster.",
      "kid": "Put both bottles on the book. Pull the book away fast. Listen! One thud, or two?",
      "parent": "Pulling the book away is the secret of a fair start. Hands almost never let go at exactly the same moment, but a book pulled away does. If you have a phone, film it in slow motion."
@@ -1795,19 +1795,19 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "1. Drop each pair 3 times, using the book. The coins lie flat on the book, so they do not roll off. 2. After each drop, write 'one thud' or 'two thuds' in the table. 3. If it is hard to tell, film it in slow motion and watch it back.",
+     "do": "1. Drop each pair 3 times, using the book. The coins lie flat on the book. Hold the book level so the potato and lemon do not roll off. 2. After each drop, write 'one thud' or 'two thuds' in the table. 3. If it is hard to tell, film it in slow motion and watch it back.",
      "say": "Let's do each pair three times. Listen carefully each time. One thud or two?",
      "kid": "Drop each pair 3 times. After each drop, write one thud or two thuds.",
      "check": {
       "t": "mcq",
-      "q": "You dropped a full bottle and an empty bottle together from the same height. What happened?",
+      "q": "You dropped a full bottle and a bottle with a little water together from the same height. What happened?",
       "options": [
        "The full bottle landed first",
        "They landed together",
-       "The empty bottle landed first"
+       "The bottle with a little water landed first"
       ],
       "a": 1,
-      "why": "They landed together, with one thud. The Earth pulls the full bottle harder. But the full bottle is also harder to get moving. The two balance exactly, so both speed up the same way. Picking 'the full bottle first' means trusting the old guess over what you heard. Try again and listen closely."
+      "why": "They landed together, with one thud. The Earth pulls the full bottle harder. But the full bottle also needs a bigger pull to speed up. The two match exactly, so both speed up the same way. Picking 'the full bottle first' means trusting the old guess over what you heard. Try again and listen closely."
      }
     },
     {
@@ -1838,15 +1838,15 @@
       ],
       "rows": [
        [
-        "Full and empty bottle",
+        "Full bottle and bottle with a little water",
         "Full first",
         "One thud",
         "One thud",
         "One thud"
        ],
        [
-        "Steel and plastic spoon",
-        "Steel first",
+        "Potato and lemon",
+        "Potato first",
         "One thud",
         "Two thuds",
         "One thud"
@@ -1867,7 +1867,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: heavy and light things fall together. What I saw: the full and empty bottles gave one thud all three times. The spoons gave one thud twice. Why: the Earth pulls the heavy one harder. But it is also harder to get moving, so they speed up in the same way."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: heavy and light things fall together. What I saw: the two bottles gave one thud all three times. The potato and lemon gave one thud twice. Why: the Earth pulls the heavy one harder. But it also needs a bigger pull to speed up, so they speed up in the same way."
     }
    ],
    "example_chart": {
@@ -1891,7 +1891,7 @@
    },
    "setup": [
     {
-     "art": "A child holding a full water bottle in one hand and an empty bottle of the same size in the other, feeling the difference, with a guess written on a sheet beside them.",
+     "art": "A child holding a full water bottle in one hand and a bottle of the same size with only a little water in the other, feeling the difference, with a guess written on a sheet beside them.",
      "caption": "1. Feel which is heavier. Guess which will land first."
     },
     {
@@ -2251,7 +2251,7 @@
      "do": "1. Let go of the ruler without any warning. 2. Your child catches it as fast as they can. 3. Read the number at the top of their thumb. 4. Write it down. 5. Do 3 tries with the writing hand.",
      "say": "Catch it as fast as you can! Now read the number at the top of your thumb. That's how far it fell.",
      "kid": "Catch it as fast as you can! Read the number at your thumb. Write it down. Do it 3 times.",
-     "parent": "Wait a different time before each drop, so your child cannot guess when it will come. Most children catch it between 10 and 25 centimetres."
+     "parent": "Wait a different time before each drop, so your child cannot guess when it will come. Most children catch it between 15 and 30 centimetres. If the ruler slips right through, write 'more than 30' and try again."
     },
     {
      "id": "s3",
@@ -2456,7 +2456,7 @@
        "Yes, on the Earth anyone can"
       ],
       "a": 1,
-      "why": "That speed is called the escape speed. It is thousands of times faster than any jump. Only rockets reach it. On a tiny asteroid, with a very weak pull, a hard jump really could send you off into space. Picking 'if I trained hard' means the size of that speed is a surprise. It is faster than a bullet."
+      "why": "That speed is called the escape speed. It is thousands of times faster than any jump. Only rockets reach it. On a tiny asteroid, with a very weak pull, a hard jump really could send you off into space. Picking 'if I trained very hard' is natural, because the speed is hard to imagine. It is faster than a bullet."
      },
      "think": "On the Moon, the escape speed is less than a quarter of the Earth's. Why do you think it is smaller there?"
     }
@@ -2555,7 +2555,8 @@
         "It was like the Moon going round the Earth."
        ]
       }
-     ]
+     ],
+     "parent": "A stretchy cloth works best. On a bedsheet, a marble may only curve in towards the ball and not go round it. That is fine: the curve is the point."
     },
     {
      "id": "s4",
@@ -2581,7 +2582,7 @@
      "do": "Ask what the model gets wrong.",
      "say": "Every model is wrong somewhere. What made the ball sink into the sheet in the first place? And is real space flat like a sheet?",
      "kid": "Every model gets something wrong. What made the ball sink into the sheet? Is real space flat like a sheet?",
-     "parent": "Good answers: the Earth's gravity pulled the ball into the sheet, so the model uses gravity to explain gravity. Real space is all around us, in every direction. So the real 'dent' goes inwards from every side, towards the middle of the Earth. The founder's notes say this too: the blanket helps us imagine, but space is not really like a blanket.",
+     "parent": "Good answers: the Earth's gravity pulled the ball into the sheet, so the model uses gravity to explain gravity. Real space is all around us, in every direction. So the real 'dent' goes inwards from every side, towards the middle of the Earth. The blanket helps us imagine, but space is not really like a blanket.",
      "think": "Can you think of a better model of bent space? What would it need?"
     }
    ],
@@ -2672,7 +2673,8 @@
       ],
       "a": 0,
       "why": "The door pulls back with a force as big as yours, but nothing moves, so no energy is used up. You get tired because your muscles use energy just to stay tight. Picking 'just as much as you do' is a fair guess, because the forces are equal. But the energy is used inside your muscles, not by the force itself."
-     }
+     },
+     "parent": "Against the door, only your child gets tired. Against you, you both get tired, because both of you are keeping your muscles tight. The door holds the pull without using up energy."
     },
     {
      "id": "s4",
@@ -2752,8 +2754,9 @@
        "Towards the bottom of the universe"
       ],
       "a": 0,
-      "why": "Down always means towards the middle of the Earth. For her, that is the opposite way from ours, and she stands just as easily as we do. Picking 'the bottom of the universe' means imagining space has a bottom, like a page. Space has no bottom. Down is wherever the Earth's middle is."
-     }
+      "why": "Down always means towards the middle of the Earth. For her, that is almost the opposite way from ours, and she stands just as easily as we do. Picking 'the bottom of the universe' means imagining space has a bottom, like a page. Space has no bottom. Down is wherever the Earth's middle is."
+     },
+     "adult": true
     },
     {
      "id": "s3",
@@ -2815,7 +2818,7 @@
     }
    ],
    "record": "Draw the four sisters at their heights, with a clock beside each. Write which clock is fastest and which is slowest.",
-   "context": "This is a short play based on the founder's time-dilation story of four sisters. It shows a real but very strange fact: clocks tick slower lower down, closer to the middle of the Earth.",
+   "context": "This is a short play about four sisters who live at different heights. It shows a real but very strange fact: clocks tick slower lower down, closer to the middle of the Earth.",
    "flow": [
     {
      "id": "s1",
@@ -2965,7 +2968,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a full and an empty plastic bottle, two sheets of paper and a hardback book, as evidence",
+     "item": "a full bottle of water and a bottle with a little water, two sheets of paper and a hardback book, as evidence",
      "qty": 1
     },
     {
@@ -3015,9 +3018,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Philoponus and Galileo give their evidence. 1. Drop the full and the empty bottle from a book. 2. Drop a flat paper and a crumpled paper. 3. Lay a paper on a book and drop the book. 4. Galileo holds up the two stones tied together and asks his puzzle.",
+     "do": "Philoponus and Galileo give their evidence. 1. Drop the full bottle and the bottle with a little water from a book. 2. Drop a flat paper and a crumpled paper. 3. Lay a paper on a book and drop the book. 4. Galileo holds up the two stones tied together and asks his puzzle.",
      "say": "Galileo asks: 'If heavy falls faster, these tied stones must fall faster, because together they are heavier. But the light one should hold the heavy one back, so they must fall slower. Which is it?'",
-     "kid": "Philoponus, drop the full and empty bottles. Galileo, drop flat and crumpled paper. Then hold up the tied stones. Ask: faster or slower? It can't be both!",
+     "kid": "Philoponus, drop the two bottles from a book. Galileo, drop flat and crumpled paper. Then hold up the tied stones. Ask: faster or slower? It can't be both!",
      "parent": "Help the 'lawyers' explain each piece of evidence in one sentence. The bottles land together. Crumpled paper beats flat paper, though they weigh the same. Paper on a book falls with the book. The tied stones show the old rule cannot even make sense."
     },
     {
@@ -3331,7 +3334,7 @@
      "id": "s4",
      "mins": 10,
      "do": "Read the usual and creative solutions together. Improve the lander and test again.",
-     "say": "Here are what engineers usually do, and some creative ideas. What will you change?",
+     "say": "Here is what engineers usually do, and some creative ideas. What will you change?",
      "kid": "Read the usual ideas and the creative ones. Change your lander. Test it again!",
      "check": {
       "t": "mcq",
@@ -3764,7 +3767,7 @@
   },
   {
    "q": "Do gravitons exist?",
-   "why_open": "Some physicists think gravity is carried by tiny particles called gravitons. They would be so weak that no machine we can build could catch one."
+   "why_open": "Some physicists think gravity is carried by tiny particles called gravitons. They would be so weak that no machine we know how to build could catch one."
   },
   {
    "q": "How do gravity and quantum physics fit together?",
@@ -4102,7 +4105,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a famous science museum. Search for falling and gravity. It is on the founder's list of STEM websites."
+   "why": "Free, tested hands-on activities from a famous science museum. Search for falling and gravity."
   },
   {
    "title": "The Physics Aviary",
@@ -4199,7 +4202,7 @@
     "e1",
     "p1"
    ],
-   "plan": "If bought, read it before Galileo's Ramp. Its pages about Galileo replace the 'Who first found' card."
+   "plan": "If bought, read it before Galileo's Ramp, together with the 'Who first found' card."
   }
  ],
  "warmup": [
@@ -4208,7 +4211,7 @@
    "a": "Towards the middle of the Earth."
   },
   {
-   "q": "A full bottle and an empty bottle are dropped together. Which lands first?",
+   "q": "A full bottle and a bottle with a little water are dropped together. Which lands first?",
    "a": "They land together."
   },
   {
@@ -4343,9 +4346,9 @@
  "roots": {
   "context": "We have been learning why things fall, and why heavy and light things land together. Now we ask what falling tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A full bottle feels much heavier than an empty one, yet dropped together they land with one thud. The Earth pulls the full one harder, but it is harder to get moving by the same amount. So gravity on its own gives everything the same fall, heavy or light. When a feather lags behind, the air is slowing it, not its lightness.",
-   "habit": "We sort things into heavy and light, and expect heavy things to fall faster, because heaviness is what our hands feel most. Falling ignores that difference. Only the air treats things differently, and it cares about shape as much as weight.",
-   "evidence": "In the Drop Race, a full and an empty bottle gave one thud, and so did ten coins and one coin. In Paper That Falls Like a Stone, a crumpled sheet beat a flat sheet of the same weight, and a flat sheet lying on a book fell with the book."
+   "truth": "The Earth pulls a full bottle harder than a light one, because it has more mass. But more mass is also harder to speed up, as a full trolley is harder to push. Twice the mass gets twice the pull, but needs twice the pull to speed up as fast. So both bottles fall together: heaviness changes how hard we must hold a thing, not how it falls.",
+   "habit": "We sort things into heavy and light, and expect heavy things to fall faster, because heaviness is what our hands feel most. Falling ignores that difference. Only the air slows some things more than others, and there shape matters as much as weight.",
+   "evidence": "In the Drop Race, a full bottle and a bottle with a little water gave one thud, and so did ten coins and one coin. In Paper That Falls Like a Stone, a crumpled sheet beat a flat sheet of the same weight, and a flat sheet lying on a book fell with the book."
   },
   "three": {
    "who_am_i": "The Earth pulls on every part of you, and you pull on the Earth just as hard.",
@@ -4362,7 +4365,7 @@
    {
     "source": "Vaisheshika Sutra 5.1.7",
     "teaching": "Kanada, an Indian thinker, said that when nothing holds a thing up, it falls because of gurutva, its heaviness.",
-    "link": "In the Drop Race, the bottles fell the moment the book was pulled away, with nothing pushing them. Kanada named that cause gurutva. Guru, a teacher, also means 'heavy'."
+    "link": "In the Drop Race, the bottles fell the moment the book was pulled away, with nothing holding them up. Kanada named that cause gurutva. Guru, a teacher, also means 'heavy'."
    }
   ],
   "science": [
@@ -4388,9 +4391,9 @@
   "ask": [
    "Gravity gives a hammer and a feather the same fall. Why do you think it does not treat them differently?",
    "If everything falls the same way, is the fall something the thing does, or something the place does?",
-   "Your hands feel heavy and light at once, but falling does not. What else might feel different to us, yet be the same underneath?"
+   "Your two hands felt a heavy thing and a light thing, but falling treated them the same. What else might feel different to us, yet be the same underneath?"
   ],
-  "art": "A full and an empty bottle, a hammer and a feather falling side by side and level with each other, with a gently curved grid of space-time behind them."
+  "art": "A full and a nearly empty bottle, a hammer and a feather falling side by side and level with each other, with a gently curved grid of space-time behind them."
  },
  "how_we_found_out": {
   "story": "For about two thousand years, most people believed what the Greek thinker Aristotle taught: a heavy thing falls faster than a light one, in proportion to its weight. It seemed obvious, because a stone does beat a leaf. About 1,500 years ago, John Philoponus, a scholar in Alexandria, dropped two weights from the same height, one many times heavier than the other. He wrote that the difference in time was very small. Few people took notice. In 1586, Simon Stevin and Jan Cornets de Groot dropped two lead balls, one ten times heavier, from a church tower in Delft, about 10 metres up. The two thuds on a board below sounded as one. Then Galileo Galilei slowed falling down by rolling balls along gentle ramps, so that he could measure it. In 1638 he wrote that, without air, all things would fall at the same speed. A leaf lags behind because the air slows it, not because it is light. In 1971, the astronaut David Scott dropped a hammer and a feather on the airless Moon, and they landed together.",
