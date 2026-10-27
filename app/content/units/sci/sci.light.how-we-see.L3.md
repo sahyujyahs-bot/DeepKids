@@ -137,7 +137,7 @@ When you look at a tree, it feels as if you are seeing the tree itself, right th
 
 ## Challenging perspectives
 - **Our eyes send out rays that touch what we look at.** (Euclid and Ptolemy, who worked in Alexandria in Egypt, the Greek thinkers Empedocles and Plato, and later al-Kindi in Baghdad. Many children today still draw arrows coming out of the eyes.; *rejected*)  
-  For: Looking feels like something we do, reaching out to the world. We turn our eyes to point at things, a bit like pointing a torch.  
+  For: When we look at something, we point our eyes at it, the way we point a torch. So it is easy to think our eyes send something out.  
   Against: If eyes sent out rays, we would see in the dark. Bright light hurts the eye, which shows something comes in. About 1,000 years ago, Ibn al-Haytham put these clues together, and today we can measure the light landing on the retina.
 - **If you wait long enough in a totally dark room, you will start to see.** (Many people believe this, because their eyes do get better in the dark after a while.; *rejected*)  
   For: In a dim room, your eyes really do get much more sensitive after twenty minutes. Things that were invisible appear.  

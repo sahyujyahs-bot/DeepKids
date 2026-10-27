@@ -1,4 +1,4 @@
-/* IAm, the DeepKids teacher: a lion-man with four arms, sitting on a stone step with a book. Tap him to talk (fxChat).
+/* IAm, the DeepKids Guru: a lion-man with four arms, sitting on a stone step with a book. Tap him to talk (fxChat).
    States are classes on any parent: .iamthink (waiting for an answer: his eyes close), .iamtalk (answering: he speaks).
    The small sizes (big, mini) show his face in a round frame. The one on screen (no size) also has poses, data-pose:
    he reads, turns a page and shifts on his own (iamIdle), and looks up at the family (iamLook). Between two poses

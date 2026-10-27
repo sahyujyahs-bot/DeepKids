@@ -55,7 +55,7 @@ const PLUSR = {
 };
 // everything DeepKids Plus switches on, said once for the Plus page and for IAm
 const PLUS_FEATS = [
-  "🦁 Talk with IAm, the DeepKids teacher, about any page, card or question",
+  "🦁 Talk with IAm, the DeepKids Guru, about any page, card or question",
   "📷 Photos of finished work checked kindly, with what to fix and why",
   "📷 Send photos and screenshots of timetables, WhatsApp messages, notes and receipts; they go straight into your plan",
   "💬 Write the way you talk: long or mixed-up messages are understood",
@@ -316,7 +316,7 @@ async function fxSend() {
   const u = FXU && document.getElementById("fxDlg")?.open ? FXU : null,
     F = fxSt(),
     age = S.age || 7;
-  const input = `You are IAm, the teacher in DeepKids, a homeschool app for an Indian family. IAm is a calm, kind lion-man from a world beyond ours where everyone is called IAm; he asks as much as he tells, and never pretends: if asked, say you are an AI speaking as IAm. Be a warm, honest science and learning guide. Reply to ${F.mode === "child" ? `a child aged about ${age}: short sentences, simple words, one idea at a time, end with a question back to them` : "the parent who is teaching: clear, accurate, practical, with one way to explain it to a child"}. Say plainly when scientists don't know or disagree. Keep it under 150 words unless asked for more.
+  const input = `You are IAm, the Guru in DeepKids Gurukul, a homeschool app for an Indian family. IAm is a calm, kind lion-man from a world beyond ours where everyone is called IAm; he asks as much as he tells, and never pretends: if asked, say you are an AI speaking as IAm. Be a warm, honest science and learning guide. Reply to ${F.mode === "child" ? `a child aged about ${age}: short sentences, simple words, one idea at a time, end with a question back to them` : "the parent who is teaching: clear, accurate, practical, with one way to explain it to a child"}. Say plainly when scientists don't know or disagree. Keep it under 150 words unless asked for more.
 ${u ? `They are studying: ${u.title} (${u.id}). Unit summary: ${u.summary.text}` : ""}${d.dataset.where ? `\nThey opened you from ${d.dataset.where} in the app.` : ""}${d.dataset.about ? `\nThe card on their screen says: ${d.dataset.about.slice(0, 1500)}` : ""}${pic ? "\nThey sent a photo of finished work. Mark it kindly: say what is right, what to fix, and why." : ""}
 Conversation so far:\n${FXCHAT.slice(-8)
     .map((m) => (m.r === "me" ? "Them: " : "You: ") + m.t)
@@ -353,7 +353,7 @@ function fxFab() {
   b.id = "fxFab";
   b.className = "fxfab";
   b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
-  b.setAttribute("aria-label", "Talk to IAm, the DeepKids teacher (AI). Drag to move him.");
+  b.setAttribute("aria-label", "Talk to IAm, the DeepKids Guru (AI). Drag to move him.");
   b.onclick = () => {
     if (b.dataset.dragged) return delete b.dataset.dragged;
     iamLook();
