@@ -3,7 +3,7 @@
  "title": "Heart, blood and breath: how oxygen reaches every part of you",
  "level": 3,
  "summary": {
-  "text": "Put two fingers on your wrist and you can feel your heart at work. Your heart is a muscle about the size of your fist, and it squeezes more than a hundred thousand times a day. Each squeeze pushes blood through tubes all over your body, and the same blood keeps coming back to the heart. On the way, the blood passes through the lungs and picks up oxygen, a gas in the air that every part of you needs. It carries oxygen and food to every part of you, and carries waste away. When you run, your heart and your breathing speed up, because your muscles need more oxygen. Scientists still do not know why a human heart can hardly repair itself, or how much our heartbeat shapes our feelings.",
+  "text": "Put two fingers on your wrist and you can feel your heart at work. Your heart is a muscle about the size of your fist, and it squeezes more than a hundred thousand times a day. Each squeeze pushes blood round your body, through the lungs to pick up oxygen and out to every part of you, and the same blood keeps coming back. When you run, your heart and breathing speed up, because your muscles need more oxygen. Scientists still do not know why a human heart can hardly repair itself, or how much our heartbeat shapes our feelings.",
   "art": "A child standing with one hand on the chest and one on the tummy, a see-through view showing a red heart, two pink lungs and red and blue loops of blood vessels spreading out to the hands and feet."
  },
  "intro": {
@@ -121,7 +121,7 @@
   {
    "term": "Red blood cells",
    "meaning": "Tiny round discs in blood that carry oxygen. They are what make blood red. A drop of blood holds millions of them.",
-   "example": "Red blood cells contain iron. That is one reason we need iron-rich foods like dal, green leafy vegetables and jaggery.",
+   "example": "Red blood cells contain iron. That is one reason we need iron-rich foods like dal, rajma and green leafy vegetables like palak.",
    "art": "Many red discs, dented in the middle like a doughnut that was pressed by a thumb."
   },
   {
@@ -132,7 +132,7 @@
   },
   {
    "term": "Respiration",
-   "meaning": "What every tiny part of your body does with oxygen. It uses oxygen to break down food and get energy out. Carbon dioxide is left over.",
+   "meaning": "How the tiny living parts of your body, called cells, get energy. Each cell uses oxygen to break down food and release its energy. Carbon dioxide is left over.",
    "example": "When you run, your leg muscles do a lot of respiration. So you breathe faster to get more oxygen.",
    "art": "A tiny cell, like a little room, taking in a sugar shape and an oxygen bubble, and giving out a spark of energy and a carbon dioxide bubble."
   },
@@ -154,11 +154,11 @@
    "concept": "The heart is a pump",
    "status": "defined",
    "definition": "The heart is a hollow muscle that squeezes and relaxes again and again. Each squeeze pushes blood out into tubes that go all over the body.",
-   "description": "A pump is anything that pushes a liquid along. A hand pump at a village well is a pump. So is a squeezy bottle. Your heart is a pump made of muscle. It is hollow inside, like a small bag with thick walls. When the walls squeeze, blood is pushed out. When the walls relax, the heart fills up with blood again. Then it squeezes again. It never needs you to remember. It has been doing this since before you were born, and it rests only for a moment between beats.",
+   "description": "A pump is anything that pushes a liquid along. A hand pump at a village well is a pump. So is a squeezy bottle. Your heart is a pump made of muscle. It is hollow inside, like a small bag with thick walls. When the walls squeeze, blood is pushed out. When the walls relax, the heart fills up with blood again. Then it squeezes again. You never need to remember to make it beat. It has been doing this since before you were born, and it rests only for a moment between beats.",
    "examples": [
-    "Squeeze a water-filled balloon or a squeezy bottle. Water shoots out. That is a pump.",
+    "Fill a plastic bottle with water, leave the cap off and squeeze it. Water shoots out. That is a pump.",
     "A hand pump on a well pushes water up a pipe each time you press the handle.",
-    "Your heart is about the size of your fist. Make a fist and squeeze it tight, then open it. That is roughly what your heart does, about once every second."
+    "Your heart is about the size of your fist. Make a fist and squeeze it tight, then open it. That is roughly what your heart does, a little faster than once a second."
    ],
    "perspectives": [],
    "art": "A hollow heart shown half-open like a cut fruit, thick muscle walls squeezing, with red arrows of blood shooting out of the top.",
@@ -172,7 +172,7 @@
    "examples": [
     "The left side of the heart has a thicker wall than the right. It must push blood all the way to your toes. The right side only pushes it next door, to the lungs.",
     "Your heart is really two pumps side by side. The right pump sends blood to the lungs. The left pump sends it to the rest of the body. Both squeeze at the same moment.",
-    "If you laid all the blood vessels of a grown-up end to end, scientists guess they might stretch around 100,000 kilometres. That is more than twice round the Earth. Nobody has measured this exactly."
+    "If you laid all the blood vessels of a grown-up end to end, they might stretch a very long way. A number often quoted is 100,000 kilometres, more than twice round the Earth. It is only a rough guess, and nobody has measured it."
    ],
    "perspectives": [],
    "art": "A figure-of-eight loop: a heart with four chambers in the middle, the top loop going to two pink lungs and turning bright red, the bottom loop going to a child's body and turning darker red.",
@@ -252,7 +252,7 @@
    "concept": "Why your heart and breath speed up when you run",
    "status": "defined",
    "definition": "When muscles work hard they need more oxygen and food, and they make more carbon dioxide. So the heart beats faster and harder, and you breathe faster and deeper.",
-   "description": "Sitting still, your muscles need only a little oxygen. When you run, your leg muscles are working very hard. They are burning food quickly, so they need much more oxygen. They also make a lot more carbon dioxide. Your brain senses that your muscles are working hard, and that carbon dioxide is building up in your blood. It sends messages to your heart to beat faster, and to your breathing muscles to work harder. After you stop, your heart and breath slowly come back down. A strong, fit heart pushes more blood with each beat. So it does not need to beat as fast. The same speeding up also happens when you feel scared or excited, even sitting still. Your body is getting ready to run, just in case.",
+   "description": "Sitting still, your muscles need only a little oxygen. When you run, your leg muscles are working very hard. They are using food quickly for energy, so they need much more oxygen. They also make a lot more carbon dioxide. Your brain senses that your muscles are working hard, and that carbon dioxide is building up in your blood. It sends messages to your heart to beat faster, and to your breathing muscles to work harder. After you stop, your heart and breath slowly come back down. A strong, fit heart pushes more blood with each beat. So it does not need to beat as fast. The same speeding up also happens when you feel scared or excited, even sitting still. Your body is getting ready to run, just in case.",
    "examples": [
     "After a race, your heart can beat about twice as fast as when you rest.",
     "The feeling that makes you want to breathe after holding your breath comes mostly from carbon dioxide building up, not from running out of oxygen.",
@@ -316,7 +316,7 @@
    "perspectives": [
     {
      "who": "Many biologists who study animal size",
-     "explanation": "Small animals lose heat quickly, because they have a lot of skin for their size. So their cells must burn food fast to stay warm. Fast burning needs fast oxygen, so the heart beats fast. Big animals burn food slowly, so their hearts can be slow."
+     "explanation": "Small animals lose heat quickly, because they have a lot of skin for their size. So their cells must use food fast to stay warm. Using food fast needs a lot of oxygen, so the heart beats fast. Big animals use food slowly, so their hearts can be slow."
     },
     {
      "who": "Some scientists, writing since the 1990s",
@@ -363,7 +363,7 @@
    "evidence": "William Harvey showed this in 1628. He tied cords around arms and watched veins swell on one side only. He also worked out that the heart pumps far more blood in an hour than a body could make. Today doctors can watch blood flow on ultrasound screens."
   },
   {
-   "text": "We breathe in oxygen, and we breathe out carbon dioxide and water.",
+   "text": "We take oxygen from the air we breathe in, and we breathe out carbon dioxide and water vapour.",
    "evidence": "Breathed-out air turns limewater milky, which shows carbon dioxide. It fogs up a cold mirror, which shows water. Machines in hospitals measure the gases in every breath."
   },
   {
@@ -392,7 +392,7 @@
    "claim": "Blood soaks from the right side of the heart to the left side through tiny invisible holes in the wall between them.",
    "who": "Galen, and the doctors who followed him",
    "for": "Blood does get from the right side to the left side somehow. The holes were too small to see, so nobody could prove they were not there.",
-   "against": "About 780 years ago, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes at all. He said the blood must go from the right side of the heart to the lungs, pick up air, and come back to the left side. He was right, but his book was not known in Europe. It was found again only in 1924.",
+   "against": "About 780 years ago, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes at all. He said the blood must go from the right side of the heart to the lungs, pick up air, and come back to the left side. He was right, but his book was hardly known in Europe. It was found again only in 1924.",
    "status": "rejected",
    "context": "This card is about how blood gets from one side of the heart to the other, and a doctor who saw the truth centuries early."
   },
@@ -407,7 +407,7 @@
   {
    "claim": "We suck air into our lungs.",
    "who": "How most of us describe breathing",
-   "for": "It feels like sucking. You pull your tummy and chest and the air comes in.",
+   "for": "It feels like sucking. You move your chest and tummy, and the air comes in.",
    "against": "You do not pull the air. Your diaphragm moves down and your chest gets bigger. Then the air outside, which is always pressing on everything, pushes itself in to fill the space. That is why you cannot breathe on the Moon, where there is no air to push in.",
    "status": "rejected",
    "context": "This card is about how air really gets into your lungs."
@@ -531,7 +531,7 @@
    "days": 1,
    "question": "Does jumping make my heart beat faster? And how quickly does it slow down again?",
    "predict": "Before you start, guess. How many times will your heart beat in one minute while you sit still? Will it go up or down after one minute of jumping? Why do you think so? Write your guesses down.",
-   "fair_test": "To make it fair, count the same way every time. Use the same fingers on the same wrist, and count for exactly 30 seconds with a clock. Sit still for 2 minutes before the first count, so your heart is really resting. Count each time 2 times, because one count can be a mistake.",
+   "fair_test": "To make it fair, count the same way every time. Use the same fingers on the same wrist, and count for exactly 30 seconds with a clock. Sit still for 2 minutes before the first count, so your heart is really resting. When resting, count 2 times, because one count can be a mistake. Just after jumping, count only once, because the heart starts slowing straight away.",
    "results_table": [
     "When we counted",
     "Count 1: beats in 30 seconds",
@@ -627,7 +627,7 @@
      "do": "1. Ask your child to write down their guesses. 2. Sit still for 2 minutes. 3. Say 'Go' and count beats for exactly 30 seconds. 4. Write the number down. 5. Do it again for a second count.",
      "say": "First, guess. Then we sit very still for two minutes, so your heart is resting. When I say go, count every tap until I say stop. That's 30 seconds.",
      "kid": "Guess first. Then sit still for two minutes. When the grown-up says go, count each tap. Stop when they say stop. Write the number down.",
-     "parent": "Children often lose count. That is why we count twice. If the two counts are very different, count a third time. To get beats in one minute, double the 30-second count. For example, 44 beats in 30 seconds means 88 beats in one minute.",
+     "parent": "Children often lose count. That is why we count twice. If the two counts are very different, count a third time. Use the bigger count, because a child who loses count usually misses taps rather than adding them. To get beats in one minute, double the 30-second count. For example, 44 beats in 30 seconds means 88 beats in one minute.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -732,7 +732,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: jumping makes my heart beat faster. What I saw: sitting still it was 88 beats a minute, after jumping it was 148, and after resting it went down to 102. Why: my muscles needed more oxygen to jump, so my heart pumped blood faster to bring it."
     }
    ]
@@ -752,11 +752,11 @@
    ],
    "materials": [
     {
-     "item": "chuna, the edible white lime paste sold for paan, about half a teaspoon",
+     "item": "chuna, the white lime paste sold at paan shops and grocery shops, about 1 teaspoon",
      "qty": 1
     },
     {
-     "item": "a jug of water and two clear glasses",
+     "item": "a jug of about 1 litre of water, a plate to cover it, and two clear glasses",
      "qty": 1
     },
     {
@@ -764,7 +764,7 @@
      "qty": 2
     },
     {
-     "item": "a balloon or an empty squeezy bottle, to push room air",
+     "item": "an empty plastic bottle and a little atta dough, to push room air through a straw",
      "qty": 1
     },
     {
@@ -772,12 +772,12 @@
      "qty": 1
     }
    ],
-   "safety": "Only a grown-up handles the chuna. It can sting eyes and skin. Wash hands after touching it. Never drink limewater. When blowing through the straw, only blow out. Never suck up.",
+   "safety": "Only a grown-up handles the chuna. It can sting eyes and skin, so never taste it. Wash hands after touching it. Never drink limewater. When blowing through the straw, only blow out. Never suck up.",
    "schedule": [
     {
      "day": 1,
      "mins": 10,
-     "what": "A grown-up makes the limewater and leaves it to settle overnight. Do the cold plate breath test."
+     "what": "A grown-up makes the limewater and leaves it covered overnight to settle. Do the cold plate breath test."
     },
     {
      "day": 2,
@@ -790,7 +790,7 @@
    "setup": [
     {
      "art": "A grown-up stirring a little white chuna paste into a jug of water, then a jug left with a white layer settled at the bottom and clear water on top.",
-     "caption": "1. A grown-up stirs chuna into water. Leave it overnight. Pour off the clear part."
+     "caption": "1. A grown-up stirs chuna into water. Cover it and leave it overnight. Pour off the clear part."
     },
     {
      "art": "Two clear glasses of limewater side by side; a squeezy bottle pushing room air through a straw into one, a child gently blowing through a straw into the other.",
@@ -819,22 +819,22 @@
       }
      ],
      "context": "This is the first step of the milky breath experiment. A cold plate shows that breathed-out air carries water.",
-     "parent": "Let your child guess first. The mist is tiny drops of water from the breath, which turn to water on the cold steel."
+     "parent": "Let your child guess first. Breath carries water as an invisible gas, called water vapour. On the cold steel it turns back into tiny drops of water. That is the mist."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. A grown-up stirs half a teaspoon of chuna into a full jug of water. 2. Leave it overnight, without stirring.",
-     "say": "Chuna is lime, the same paste used in paan. In water it makes limewater. Limewater has a trick. It turns milky when a gas called carbon dioxide bubbles through it.",
+     "do": "1. A grown-up stirs 1 teaspoon of chuna into a jug of about 1 litre of water. 2. Cover the jug with a plate, so room air does not reach it. 3. Leave it overnight, without stirring.",
+     "say": "Chuna is lime, the same paste used in paan. Stirred into water, it makes limewater. Limewater turns milky when a gas called carbon dioxide bubbles through it.",
      "kid": "A grown-up stirs chuna into water. You leave it overnight. Tomorrow it will be clear, with white stuff at the bottom.",
      "adult": true,
      "wait": "Leave it overnight to settle.",
-     "parent": "Chuna is slaked lime, which is calcium hydroxide. It is mildly caustic, so keep it away from eyes and wash your hands. Settled limewater looks like clear water. Only the clear top part is used."
+     "parent": "Chuna is slaked lime, which is calcium hydroxide. It is mildly caustic, so keep it away from eyes and wash your hands. Settled limewater looks like clear water. Only the clear top part is used. If the water is still cloudy in the morning, pour it through a clean cotton cloth."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Carefully pour the clear limewater off the top into two glasses, the same amount in each. 2. Put a straw in each. 3. Squeeze room air through the first straw with the squeezy bottle, 20 squeezes. 4. Your child blows gently through the second straw for about one minute, taking breaths in through the nose.",
+     "do": "1. Carefully pour the clear limewater off the top into two glasses, the same amount in each. 2. Push one straw into the mouth of the empty bottle and press a little atta dough round it, so no air leaks. 3. Put the end of that straw in the first glass and squeeze the bottle. Lift the straw out before you let go, so the bottle fills with room air, not limewater. Do this 20 times. 4. Your child blows gently through the second straw into the second glass for about one minute, taking breaths in through the nose.",
      "say": "In this glass we push ordinary room air. In this glass you blow your breath out. Blow gently, only out, never suck. Watch both glasses.",
      "kid": "Watch the two glasses. The grown-up pushes room air into one. You blow gently into the other. Only blow out. Never suck.",
      "adult": true,
@@ -874,7 +874,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the air I breathe out is different from room air. What I saw: my breath turned limewater milky, but room air did not, and my breath fogged the cold plate. Why: my body uses oxygen and makes carbon dioxide and water, and I breathe them out."
     }
    ]
@@ -912,7 +912,7 @@
      "qty": 1
     },
     {
-     "item": "a bendy tube, about 50 cm, or several bendy straws joined, one for each person",
+     "item": "a bendy plastic tube, about 50 cm long, one for each person",
      "qty": 3,
      "buy": "b-tube"
     }
@@ -972,7 +972,7 @@
      "do": "1. Stick a strip of tape down the side of the bottle. 2. Stand the bottle the normal way up. 3. Pour in 100 ml of water with the jug, and mark the level on the tape. 4. Repeat, 100 ml at a time, until the bottle is full.",
      "say": "We're turning this bottle into a breath measurer. We'll mark a line for every 100 millilitres of water. Keep the bottle standing the normal way up while we mark it.",
      "kid": "Pour 100 ml of water in. Mark the water line on the tape. Do it again until the bottle is full.",
-     "parent": "Mark with the bottle standing the normal way up. Later, upside down in the bucket, the breath collects at that same end. So each mark shows how much air is in the bottle. Write 500, 1,000, 1,500 and 2,000 in big numbers. No measuring jug? Fill an empty 200 ml juice carton and mark every 200 ml instead.",
+     "parent": "Mark with the bottle standing the normal way up. Later, upside down in the bucket, the breath collects at that same end. So each mark shows how much air is in the bottle. Write 500, 1,000, 1,500 and 2,000 in big numbers. No measuring jug? Use a 200 ml steel tumbler, or fill an empty 200 ml juice carton and mark every 200 ml instead.",
      "context": "This is the first step of the upside-down bottle experiment. Here you turn a bottle into a tool for measuring breath."
     },
     {
@@ -1034,7 +1034,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: one ordinary breath is quite small, but my lungs can hold much more. What I saw: my ordinary breath was 200 ml and my biggest was 1,500 ml. Why: my diaphragm and ribs can make my chest much bigger when I really try."
     }
    ]
@@ -1193,7 +1193,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. A grown-up cuts the bottom off the bottle and tapes the edge. 2. Push one balloon into the neck, with its mouth stretched over the top of the bottle. Hold it with a rubber band. 3. Tie a knot in the second balloon and cut off its round end. 4. Stretch the rest across the open bottom of the bottle, with the knot hanging down. Tape it.",
+     "do": "1. A grown-up cuts the bottom off the bottle and tapes the edge. 2. Push one balloon into the neck, with its mouth stretched over the top of the bottle. Hold it with a rubber band. 3. Tie a knot in the neck of the second balloon. Cut off the round top of the balloon, the end farthest from the knot. 4. Stretch the rest across the open bottom of the bottle, with the knot hanging down. Tape it.",
      "say": "The bottle is your chest. The balloon inside is a lung. The neck is your windpipe. And this stretchy balloon at the bottom is your diaphragm, the muscle under your lungs.",
      "kid": "The bottle is your chest. The inside balloon is a lung. The bottom balloon is your breathing muscle. Help build it.",
      "adult": true,
@@ -1280,7 +1280,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Give your child the ball. 2. Watch the clock. 3. Say 'squeeze' once every second for one minute, while they squeeze hard each time.",
-     "say": "Your heart squeezes about once a second, every second of your life. Let's see what that feels like. Squeeze hard each time I say squeeze.",
+     "say": "Your heart squeezes a little faster than once a second, all day and all night. Let's see what that feels like. Squeeze hard each time I say squeeze.",
      "kid": "Squeeze the ball hard each time you hear 'squeeze'. Keep going for one minute. Like your heart!",
      "ask": [
       {
@@ -1362,7 +1362,7 @@
      "do": "1. Rest your child's arm flat on a table, palm up. 2. Find the pulse. 3. Press the dough ball gently onto that spot. 4. Stand the toothpick straight up in it. 5. Keep the arm very still.",
      "say": "Watch the toothpick. Every little tick is your heart pushing blood into the artery under it.",
      "kid": "Rest your arm on the table, palm up. Put the dough ball on your pulse. Stand the toothpick in it. Keep still. Watch it tick!",
-     "parent": "It may take a few tries to find the right spot. Move the dough a little if the toothpick does not tick.",
+     "parent": "It may take a few tries to find the right spot. Move the dough a little if the toothpick does not tick. A longer stick, like a broom straw, shows the tick more clearly.",
      "ask": [
       {
        "q": "Is the ticking steady, like a clock?",
@@ -1509,15 +1509,15 @@
     }
    ],
    "record": "Draw your jar and label the four parts of blood. Write one job for each.",
-   "context": "In this activity you make a model of blood in a jar from kitchen things. It shows the four parts of blood and how much of each there is.",
+   "context": "In this activity you make a model of blood in a jar from kitchen things. It shows the four parts of blood and roughly how much of each there is.",
    "setup": [
     {
-     "art": "A clear jar half full of pale yellow water.",
-     "caption": "1. Fill a jar halfway with pale yellow water. This is plasma."
+     "art": "A child pouring red rajma beans into a clear jar until it is a little less than half full.",
+     "caption": "1. Fill the jar a little less than half with rajma. These are red cells."
     },
     {
-     "art": "A child pouring red rajma beans into the jar until it is nearly half beans.",
-     "caption": "2. Add rajma beans until the jar is almost half beans. These are red cells."
+     "art": "Pale yellow water being poured over the beans until the jar is nearly full.",
+     "caption": "2. Pour in pale yellow water until the jar is nearly full. This is plasma."
     },
     {
      "art": "The jar with one white chana and a few sesame seeds on top of the beans.",
@@ -1528,9 +1528,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Pour pale yellow water into the jar until it is about half full. 2. Add rajma until the beans fill nearly half of the jar. 3. Add one white chana. 4. Sprinkle in a pinch of til.",
+     "do": "1. Pour rajma into the jar until it is a little less than half full. 2. Add one white chana. 3. Sprinkle in a pinch of til. 4. Pour in the pale yellow water until the jar is nearly full.",
      "say": "Blood looks like just a red liquid. But it's really a crowd of tiny things floating in a yellow liquid. Let's build it. The yellow water is plasma. The rajma are red blood cells. The single chana is a white blood cell. The til seeds are platelets.",
-     "kid": "Pour yellow water into the jar. That is plasma. Add lots of rajma. They are red blood cells. Add one chana. That is a white blood cell. Sprinkle a little til. They are platelets.",
+     "kid": "Pour lots of rajma into the jar. They are red blood cells. Add one chana. That is a white blood cell. Sprinkle a little til. They are platelets. Pour in yellow water. That is plasma.",
      "parent": "In real blood, a little under half is red cells and a little over half is plasma. For every 600 to 700 red cells, there is about one white cell, so there is only one chana. There is about one platelet for every 20 red cells, so about 20 til seeds suit a cup of rajma.",
      "context": "This is the jar of blood activity. You make a model of blood from yellow water, rajma, one chana and til."
     },
@@ -1830,7 +1830,7 @@
      "qty": 1
     }
    ],
-   "safety": "Only count pulses of people who say yes. Grandparents and anyone with a heart condition should not do the stair part. Feel a pet's heartbeat only if the pet is calm and its owner says yes.",
+   "safety": "Only count pulses of people who say yes. Grandparents and anyone with a heart condition should not do the stair part.",
    "schedule": [
     {
      "day": 1,
@@ -1868,7 +1868,7 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Make a table with columns: name, age, resting pulse, pulse after stairs, breaths per minute. 2. For each person who agrees, let them sit for 2 minutes. 3. Your child counts their pulse for 30 seconds and doubles it. 4. Then count their breaths for one minute by watching their chest. Don't tell them, because people breathe differently when they know they are watched.",
+     "do": "1. Make a table with columns: name, age, resting pulse, pulse after stairs, breaths per minute. 2. For each person who agrees, let them sit for 2 minutes. 3. Your child counts their pulse for 30 seconds and doubles it. 4. Then count their breaths for one minute by watching their chest. Do not tell them you are counting breaths, because people breathe differently when they know they are watched.",
      "say": "You're going to be the family's heart doctor. Ask each person politely if you may count their pulse. Then sit them down for two minutes first.",
      "kid": "Ask each person if you may count their pulse. Let them sit for 2 minutes. Count for 30 seconds. Double it. Write it down.",
      "parent": "Typical resting pulses: a baby may be 100 to 160, a child 70 to 110, a grown-up 60 to 100. Very fit people can be lower. A breath is one rise and one fall of the chest.",
@@ -1930,13 +1930,13 @@
     "two bowls, one full of water and one empty",
     "an empty squeezy bottle, like a shampoo or sauce bottle",
     "straws, a plastic tube, tape",
-    "a balloon, a turkey baster or a dropper, if you have them",
+    "a balloon, a medicine dropper or a medicine syringe without a needle, if you have them",
     "a towel for spills"
    ],
    "general": [
     "Squeeze the bottle, put its mouth under the water, and let go. Water is pushed in. Then lift it over the empty bowl and squeeze. That is how a heart fills and empties.",
-    "Use a dropper or a turkey baster, which work the same way, for small amounts.",
-    "Count how many squeezes it takes to move one cup. Your heart moves about a cup of blood in a few beats."
+    "Use a medicine dropper or a medicine syringe without a needle. They work the same way, for small amounts.",
+    "Count how many squeezes it takes to move one cup. A child's heart pushes out about 40 ml with each beat, so it moves a cup of blood in about 6 beats."
    ],
    "creative": [
     "Make a flap door from a piece of balloon taped over the end of a straw, so water can go out but not back in. That is a valve, like in your heart.",
@@ -2029,7 +2029,7 @@
    "creative": [
     "Use two tubes joined with a Y-shaped piece, so both ears can listen at once, like a real doctor's stethoscope.",
     "Stretch a piece of balloon over the wide end of a funnel, like the flat disc on a real stethoscope.",
-    "Try a long garden hose. Does a longer tube make the sound louder or softer?"
+    "Try a much longer tube, such as an old washing-machine pipe, if you have one. Does a longer tube make the sound louder or softer?"
    ],
    "your_turn": "Now design your own. Draw it, build it and score how clear the heartbeat sounds from 1 to 5. Which design wins?",
    "context": "This is a design challenge. You build several home-made stethoscopes, the doctor's listening tool, and test which lets you hear a heartbeat best.",
@@ -2202,7 +2202,7 @@
       "Thumbs cannot feel anything"
      ],
      "a": 0,
-     "why": "Your thumb has an artery in it with its own pulse. You might count your own thumb's beat instead of the wrist's. Fingers have a weaker pulse at the tip, so they work better."
+     "why": "Your thumb has an artery in it with its own pulse. You might count your own thumb's beat instead of the wrist's. The pulse in your fingertips is too faint to feel, so fingers work better."
     },
     {
      "t": "sort",
@@ -2497,7 +2497,7 @@
      "t": "mcq",
      "p": "Ibn al-Nafis described blood going through the lungs around 1242. Why did European doctors not learn about it for hundreds of years?",
      "opts": [
-      "His book was in Arabic and was not known in Europe, until it was found again in 1924",
+      "His book was in Arabic and was hardly known in Europe, until it was found again in 1924",
       "He was wrong",
       "He kept it a secret",
       "Nobody could read then"
@@ -2509,7 +2509,7 @@
      "t": "mcq",
      "p": "A mouse's heart beats about 500 times a minute. An elephant's beats about 30 times. Which is the most likely reason?",
      "opts": [
-      "Small animals lose heat fast, so their cells burn food fast and need oxygen fast",
+      "Small animals lose heat fast, so their cells use food fast and need oxygen fast",
       "Mice are always scared",
       "Elephants are lazy",
       "Elephants have no heart"
@@ -2533,7 +2533,7 @@
      "t": "mcq",
      "p": "Every oxygen atom in your body was made inside a star, long before the Earth existed. What does this mean?",
      "opts": [
-      "The stuff you breathe and are made of has come a very long way",
+      "The atoms you breathe and are made of are older than the Earth",
       "You are hot like a star",
       "Stars breathe",
       "Oxygen is made only in your lungs"
@@ -2851,7 +2851,7 @@
     "The lungs pump blood"
    ],
    "a": 0,
-   "why": "He said blood goes from the right side of the heart, through the lungs, to the left side. He was right, but his book was not known in Europe for centuries.",
+   "why": "He said blood goes from the right side of the heart, through the lungs, to the left side. He was right, but his book was hardly known in Europe for centuries.",
    "outcome": 5
   },
   {
@@ -2943,9 +2943,9 @@
    "why_maths": "In 1628 William Harvey used a sum like this to prove that blood goes round in a circle. Simple multiplying changed medicine."
   },
   {
-   "problem": "In the squeeze like a heart activity, you squeezed a ball about 100 times in one minute, like a fast child's heart. How many squeezes would that be in one hour?",
-   "answer": "6,000 squeezes in one hour.",
-   "explain": "There are 60 minutes in an hour. Each minute has 100 squeezes. 60 lots of 100 is 6,000. A child's heart beats about this many times every hour, day and night. In one day that is more than 100,000 beats.",
+   "problem": "In the squeeze like a heart activity, you squeezed a ball 60 times in one minute. A child's heart beats faster, about 100 times a minute. How many heartbeats is that in one hour?",
+   "answer": "About 6,000 heartbeats in one hour.",
+   "explain": "There are 60 minutes in an hour. Each minute has about 100 heartbeats. 60 lots of 100 is 6,000. So a child's heart beats about 6,000 times every hour, day and night. In one day that is more than 100,000 beats.",
    "math_unit": "math.number-sense.place-value.L3",
    "how": "a3",
    "context": "This is about the squeeze like a heart activity. You squeeze a ball once every time your heart beats, to feel how hard the heart works.",
@@ -3081,7 +3081,7 @@
  "jokes": [
   {
    "j": "Why did the heart go to school?",
-   "a": "To get a little smarter about beats."
+   "a": "It wanted to learn something by heart."
   },
   {
    "j": "What did one lung say to the other?",
@@ -3120,12 +3120,12 @@
    "a": "They had the best air time."
   },
   {
-   "j": "What do you call a heart that loves maths?",
-   "a": "A heart that always counts beats."
+   "j": "What did the heart say after the race?",
+   "a": "I'm feeling really pumped!"
   },
   {
    "j": "Why did the oxygen go to the lungs?",
-   "a": "It heard the blood was looking for a lift."
+   "a": "It heard the blood was giving free rides."
   },
   {
    "j": "Why did the pulse go to the wrist?",
@@ -3258,9 +3258,9 @@
   },
   {
    "id": "b-tube",
-   "item": "Clear plastic tubing, about 1 metre, 6 to 10 mm wide",
+   "item": "Clear plastic tubing, about 2 metres, 6 to 10 mm wide, sold at hardware and aquarium shops",
    "kind": "material",
-   "why": "For the funnel stethoscope, the stethoscope challenge and the upside-down bottle breath test.",
+   "why": "Cut into pieces of about 50 cm. For the funnel stethoscope, the stethoscope challenge and the upside-down bottle breath test.",
    "url": "https://www.amazon.in/s?k=clear+pvc+tube+8mm",
    "used_in": [
     "a1",
@@ -3300,17 +3300,6 @@
     "a1",
     "c2"
    ]
-  },
-  {
-   "id": "b-model",
-   "item": "A model of the human heart, or a torso model with removable organs",
-   "kind": "tool",
-   "why": "Lets your child hold the heart, open its four chambers and see where it sits between the lungs.",
-   "url": "https://www.amazon.in/s?k=human+heart+model+for+kids",
-   "used_in": [
-    "g1"
-   ],
-   "plan": "Used again in Organs inside L3 and L4."
   },
   {
    "id": "b-book1",
@@ -3384,8 +3373,8 @@
  "roots": {
   "context": "We have felt the pulse, counted heartbeats and learned how blood goes round two loops. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Each heartbeat pushes out about 8 teaspoons of blood. Count your beats for one minute, and that adds up to more than all your blood. So the same 2 litres must go round and round, again and again. A small amount of blood keeps you alive by never stopping.",
-   "habit": "We tend to think a body keeps going by using things up, the way a car uses up petrol. Galen taught that blood was made in the liver and used up like that. In fact blood drops off oxygen and food, comes back, and is used again. What keeps you alive is that it keeps moving.",
+   "truth": "Each beat of a child's heart pushes out about 40 millilitres of blood, about 8 teaspoons. In one minute, those beats add up to more than all the blood in your body. So the same 2 litres must go round and round, again and again. A small amount of blood keeps you alive because it never stops moving.",
+   "habit": "We tend to think the body uses up its blood, the way a car uses up petrol. Galen taught that blood was made in the liver and used up like that. In fact blood drops off oxygen and food, comes back, and is used again.",
    "evidence": "In the jumping heart experiment you counted your heartbeats. A child's heart pushes out about 40 ml with each beat, so 90 beats push out about 3,600 ml. A child of 8 has only about 2,000 ml of blood. William Harvey made the same kind of sum in 1628."
   },
   "three": {
@@ -3393,12 +3382,12 @@
    "what_is_life": "When you jumped, your body sensed that your muscles needed more oxygen, and your heart sped up without you deciding. Even one heart cell in a dish beats on its own.",
    "what_is_this_world": "The oxygen in your blood was put into the air by plants and algae. The carbon dioxide you breathe out goes back to them."
   },
-  "thread": "One heart and about 2 litres of blood keep trillions of cells alive. Every cell, from your brain to your toes, is fed by the same blood on the same loop. The heart itself is many cells acting as one: each heart cell can beat alone, and when heart cells touch, they beat together in time. So one moving loop of blood joins all the many parts of you into one living body.",
+  "thread": "One heart and about 2 litres of blood keep trillions of cells alive. Every cell, from your brain to your toes, is fed by the same blood on the same loop. The heart itself is many cells beating as one. Each heart cell can beat alone, and when heart cells touch, they beat together in time. So one moving loop of blood joins all the many parts of you into one living body.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 5.1",
     "teaching": "The senses argued about which of them was the greatest. Speech left the body for a year, and the body lived on, unable to speak. The eye left, and the ear left, and the mind left, and still the body lived. Then breath began to leave, and all the others were pulled along with it, like pegs torn up by a horse. They agreed that breath was the greatest of them all.",
-    "link": "Science finds the same order. If the heart stops and no oxygen reaches the brain, a person faints within seconds. Seeing, hearing and speaking all stop with it."
+    "link": "People live full lives without sight, hearing or speech. But if oxygen stops reaching the brain, a person faints within seconds. Every other part of the body needs the oxygen that breath brings in."
    },
    {
     "source": "Kabir, Songs of Kabir, poem I, translated by Rabindranath Tagore (1915)",
@@ -3423,7 +3412,7 @@
   ],
   "other_view": {
    "who": "Many physiologists, the scientists who study how bodies work",
-   "view": "The heart speeds up because of nerve signals and chemicals in the blood. It is an automatic response, like a machine set to run faster when the load goes up. To them, calling it sensing or answering adds nothing that the nerves and chemicals do not already explain."
+   "view": "The heart speeds up because of nerve signals and chemicals in the blood. It is an automatic response, like a machine set to run faster when the load goes up. To them, saying the body senses what it needs adds nothing that the nerves and chemicals do not already explain."
   },
   "practice": {
    "title": "Feel the loop",
@@ -3527,7 +3516,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For about 1,400 years, doctors followed Galen, a Greek doctor in Rome. Galen taught that the liver makes new blood from food, and the body uses it up, like fuel. He also taught that blood seeps from the right side of the heart to the left through tiny holes in the wall between them. Around 1242, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes. Blood, he said, goes from the right side of the heart through the lungs and back to the left side. Europe did not know his book for centuries. In 1628 the English doctor William Harvey gave a different kind of proof. He worked out roughly how much blood one beat pushes out, and counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. No liver could make that much. He also tied a band round an arm and pressed along the veins. The blood in them moved only towards the heart. So the same blood must go round and round. Harvey could not see how blood got from arteries to veins. In 1661 Marcello Malpighi saw the answer under a microscope: tiny capillaries in a frog's lung.",
+  "story": "For about 1,400 years, doctors followed Galen, a Greek doctor in Rome. Galen taught that the liver makes new blood from food, and the body uses it up, like fuel. He also taught that blood seeps from the right side of the heart to the left through tiny holes in the wall between them. Around 1242, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes. Blood, he said, goes from the right side of the heart through the lungs and back to the left side. For centuries, hardly anyone in Europe knew his book. In 1628 the English doctor William Harvey gave a different kind of proof. He worked out roughly how much blood one beat pushes out, and counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. No liver could make that much. He also tied a band round an arm and pressed along the veins. The blood in them moved only towards the heart. So the same blood must go round and round. Harvey could not see how blood got from arteries to veins. In 1661 Marcello Malpighi saw the answer under a microscope: tiny capillaries in a frog's lung.",
   "who": "Galen, Ibn al-Nafis, William Harvey and Marcello Malpighi",
   "when": "About 1242 (Ibn al-Nafis), 1628 (Harvey's book) and 1661 (Malpighi's capillaries)",
   "wrong_idea": "Galen taught that the liver makes blood fresh from food and the body uses it up, and that blood seeps through holes in the heart's middle wall. Ibn al-Nafis said the wall has no holes. Harvey's sum showed far too much blood passes through the heart for the liver to make, so it must go round."

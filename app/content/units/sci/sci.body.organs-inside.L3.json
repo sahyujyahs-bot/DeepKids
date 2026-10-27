@@ -1,14 +1,14 @@
 {
  "id": "sci.body.organs-inside.L3",
- "title": "Organs inside: heart, lungs, stomach and brain",
+ "title": "Organs inside you: where they sit and what they do",
  "level": 3,
  "summary": {
-  "text": "This unit is about four organs inside you: the heart, the lungs, the stomach and the brain. An organ is a body part with a special job. Your heart sits in the middle of your chest and pumps blood all day and all night. Your two lungs sit on either side of it and take in air. Your stomach sits under your ribs on the left and churns your food. Your brain sits inside your skull and sends and receives messages for the whole body. No organ works alone. Each one is made of tiny living cells, and each one needs all the others. Scientists know a lot about where organs are and what they do. They still do not know how a brain makes a thought.",
+  "text": "Most people think the stomach is behind the belly button, but it sits higher, under the ribs on the left. An organ is a body part with a special job. Your heart pumps blood, your lungs take in air, your stomach churns food and your brain sends and receives messages. Bone and liquid protect the soft organs, and each organ needs all the others to stay alive. Scientists know where organs are and what they do, but not yet how a brain makes a thought.",
   "art": "A friendly see-through outline of a child, showing a pink brain in the head, two spongy lungs and a red fist-sized heart in the chest, and a J-shaped stomach under the left ribs."
  },
  "intro": {
-  "hook": "Put your hand flat on your chest and keep very still. Something under your hand is moving. It has moved every second since before you were born. It has never once stopped to rest. What is it?",
-  "text": "You carry a whole hidden world under your skin. Nobody has ever seen their own heart, lungs, stomach or brain with their own eyes. Yet you can feel them. You can feel a beat in your chest, air filling you up, a full feeling after dinner and a thought popping into your head. In this unit you become an explorer of your own inside. You will find out where these organs sit, what each one does and how they work as a team.",
+  "hook": "Put your hand flat on your chest and keep very still. You can feel a beat under your hand. It started before you were born, and it goes on while you sleep. What is beating, and where exactly is it?",
+  "text": "Your heart, lungs, stomach and brain are hidden under your skin and bones. You cannot see them, but you can feel what they do. You can feel a beat in your chest, air filling you up and a full feeling after dinner. In this unit you find out where each organ sits, what it does and how the organs help each other.",
   "art": "A child with one hand on the chest and eyes closed, with a dotted outline of a heart glowing faintly under the hand."
  },
  "outcomes": [
@@ -19,7 +19,7 @@
   "I can give an example of organs working as a team, like when I run or eat.",
   "I can run a fair test with a model organ, and say what I think, what I saw and why.",
   "I can say what scientists agree about these organs, and what they still do not know, like how the brain makes thoughts.",
-  "I can give big examples: one cell doing tiny versions of every organ's job, octopuses with three hearts, and mini-organs grown in labs."
+  "I can give surprising examples: one cell doing small versions of every organ's job, an octopus with three hearts, and mini-organs grown in labs."
  ],
  "cards_mins": 20,
  "terms": [
@@ -37,7 +37,7 @@
   },
   {
    "term": "Lungs",
-   "meaning": "Two soft, spongy bags in your chest. They take in air and pass oxygen into your blood.",
+   "meaning": "Two soft, spongy organs in your chest. They take in air and pass oxygen into your blood.",
    "example": "When you blow up a balloon, the air comes out of your lungs.",
    "art": "Two pink spongy lungs shaped like tall leaves, with a windpipe joining them at the top."
   },
@@ -67,25 +67,25 @@
   },
   {
    "term": "Blood",
-   "meaning": "The red liquid that flows through tubes all over your body. It carries oxygen and food to every cell, and takes waste away.",
+   "meaning": "The red liquid that flows all over your body through tubes called blood vessels. It carries oxygen and food to every cell, and takes waste away.",
    "example": "When you scrape your knee, the red drops are blood.",
    "art": "A red river flowing through branching tubes, carrying tiny bubbles and food crumbs."
   },
   {
    "term": "Oxygen",
-   "meaning": "A gas in the air that every cell needs to stay alive. You cannot see it or smell it.",
+   "meaning": "A gas in the air that nearly every cell in your body needs to stay alive. You cannot see it or smell it.",
    "example": "Plants give out oxygen. You breathe it in through your nose.",
    "art": "A tree giving out small blue bubbles that float towards a child breathing in."
   },
   {
    "term": "Carbon dioxide",
    "meaning": "A waste gas your cells make. Your blood carries it to your lungs, and you breathe it out.",
-   "example": "The warm air you breathe onto a cold mirror has carbon dioxide in it.",
-   "art": "A child breathing out onto a mirror, with small grey bubbles in the breath."
+   "example": "The air you breathe out has much more carbon dioxide in it than the air you breathe in.",
+   "art": "A child breathing out, with small grey dots in the breath labelled carbon dioxide."
   },
   {
    "term": "Nerve",
-   "meaning": "A long thin thread of cells that carries messages between the brain and the rest of the body.",
+   "meaning": "A thin cord, like a cable, made of the long threads of nerve cells. It carries messages between the brain and the rest of the body.",
    "example": "When you touch a hot tawa, nerves carry the message 'hot!' to your brain very fast.",
    "art": "A thin glowing thread running from a fingertip up the arm to the brain."
   },
@@ -139,7 +139,7 @@
   },
   {
    "term": "X-ray",
-   "meaning": "A special kind of light that passes through soft parts of the body but not through bones. Doctors use it to take pictures of your inside.",
+   "meaning": "A kind of light that our eyes cannot see. It passes through the soft parts of the body, but bones block most of it. Doctors use it to take pictures of your inside.",
    "example": "If you break your arm, a doctor takes an X-ray to see the bone.",
    "art": "A glowing X-ray picture of a hand, with the white bones clearly showing."
   }
@@ -191,7 +191,7 @@
    "concept": "The lungs: two spongy air bags",
    "status": "defined",
    "definition": "The lungs are two soft, spongy organs in the chest. They bring in oxygen from the air and get rid of carbon dioxide.",
-   "description": "You have two lungs, one on each side of your heart. They fill most of your chest, from your collarbones down to the bottom of your ribs. Air comes in through your nose or mouth and goes down your windpipe. The windpipe splits into two tubes, one for each lung. Inside, the tubes branch again and again, like the branches of a tree. At the very ends are millions of tiny air bags. Oxygen passes from these bags into the blood. Carbon dioxide passes out of the blood and into the bags, and you breathe it out. Your left lung is a little smaller than your right one. It has a dent in it, to make room for your heart. Lungs have no muscles of their own. A dome-shaped muscle under them, the diaphragm, pulls down to make them fill with air.",
+   "description": "You have two lungs, one on each side of your heart. They fill most of your chest, from just above your collarbones to low down inside your ribs. Air comes in through your nose or mouth and goes down your windpipe. The windpipe splits into two tubes, one for each lung. Inside, the tubes branch again and again, like the branches of a tree. At the very ends are hundreds of millions of tiny air bags. Oxygen passes from these bags into the blood. Carbon dioxide passes out of the blood and into the bags, and you breathe it out. Your left lung is a little smaller than your right one. It has a dent in it, to make room for your heart. Lungs cannot pull in air by themselves. A dome-shaped muscle under them, the diaphragm, pulls down to make them fill with air.",
    "examples": [
     "When you blow out birthday candles, the air comes from your lungs.",
     "The tiny air bags in your lungs, all spread out flat, would cover a large part of a badminton court.",
@@ -219,7 +219,7 @@
    "concept": "The brain: the body's message centre",
    "status": "defined",
    "definition": "The brain is a soft organ inside the skull. It receives messages from the body, sends messages back and lets us think, feel, remember and move.",
-   "description": "Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a packet of atta. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of all the energy your body makes, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.",
+   "description": "Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of atta. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of all the energy your body makes, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.",
    "examples": [
     "When a cricket ball flies towards you, your eyes tell your brain and your brain tells your hands to catch it.",
     "When you sleep, your brain keeps you breathing and sorts out what you learned that day.",
@@ -233,7 +233,7 @@
    "concept": "Bones that guard the soft organs",
    "status": "defined",
    "definition": "The skull is a hard case around the brain. The rib cage is a cage of curved bones around the heart and lungs.",
-   "description": "Your brain, heart and lungs are soft and very important. A hard knock could hurt them. So your body keeps them inside bone. The skull is like a helmet. Inside it, the brain floats in liquid, so it does not bang against the bone when you jump. Your ribs curve round from your backbone to the front of your chest, like the bars of a birdcage. They protect your heart and lungs. But a cage has gaps, and ribs can move. This matters, because your lungs need room to grow bigger every time you breathe in. Your stomach sits partly under the bottom ribs, so it is partly guarded too.",
+   "description": "Your brain, heart and lungs are soft and very important. A hard knock could hurt them. So your body keeps them inside bone. The skull is like a helmet. Inside it, the brain floats in a clear liquid, so it does not bang against the bone when you jump. Your ribs curve round from your backbone to the front of your chest, like the bars of a birdcage. They protect your heart and lungs. But the ribs are not a solid box. They are joined by muscles, and they swing up and out every time you breathe in. This gives your lungs room to get bigger. Your stomach sits partly under the bottom ribs, so it is partly guarded too.",
    "examples": [
     "A cricket helmet protects your skull, which protects your brain. That is two helmets.",
     "When you breathe in deeply, your ribs swing up and out, like the handle of a bucket being lifted.",
@@ -247,10 +247,10 @@
    "concept": "Organs work as a team",
    "status": "defined",
    "definition": "Every organ needs the others. The body only works because organs pass things and messages to each other all the time.",
-   "description": "Follow a breath and a bite. Your lungs take oxygen from the air. Your stomach and intestines take food from your plate. Your blood picks up both. Your heart pumps that blood to every cell, including the cells of the lungs, the stomach and the heart itself. Your brain keeps watch over all of it. When you run, your brain tells your heart to beat faster and your lungs to breathe faster. When you have just eaten, more blood goes to your stomach. If one organ stops, the others soon have trouble. No organ is the boss of the others for long. Even the brain needs the heart's blood every second.",
+   "description": "Follow a breath and a bite. Your lungs take oxygen from the air. Your stomach and intestines take food from your plate. Your blood picks up both. Your heart pumps that blood to every cell, including the cells of the lungs, the stomach and the heart itself. Your brain keeps watch over all of it. When you run, your brain tells your heart to beat faster and your lungs to breathe faster. When you have just eaten, more blood goes to your stomach. If one organ stops, the others soon have trouble. Even the brain needs the heart's blood every second.",
    "examples": [
     "Running for the school bus: the brain speeds up the heart and breathing, so the leg muscles get more oxygen.",
-    "After a big lunch, you may feel sleepy and slow. More blood is busy around your stomach and intestines.",
+    "After a big lunch, more blood flows to your stomach and intestines, to carry away the food they take in.",
     "If the heart stops for even a few minutes, the brain is badly hurt, because no fresh blood reaches it."
    ],
    "perspectives": [],
@@ -260,15 +260,15 @@
   {
    "concept": "Zoom in: every cell does a little of every job",
    "status": "defined",
-   "definition": "Organs are made of cells. Each cell uses oxygen, breaks down food and sends and receives signals, in a tiny way of its own.",
-   "description": "Look at a cell in your toe. It is far from your lungs, but it uses oxygen. Tiny parts inside it, called mitochondria, use oxygen and food to make energy. They give out carbon dioxide, a little like a tiny lung working backwards. The cell also has tiny bags of juice that break down old bits and food, a little like a tiny stomach. And it has sensors on its outside that notice chemicals and pass on signals, a little like a tiny brain. Organs are what happens when millions of cells share out these jobs. Heart cells became very good at squeezing. Nerve cells became very good at carrying messages. But every cell still breathes, eats and senses in its own small way. Long ago, the first living things were single cells, and each one did every job by itself.",
+   "definition": "Organs are made of cells. Almost every cell uses oxygen, breaks down food and sends and receives signals, in a tiny way of its own.",
+   "description": "Look at a cell in your toe. It is far from your lungs, but it uses oxygen. Tiny parts inside it, called mitochondria, use oxygen and food to make energy. They give out carbon dioxide, which the blood carries back to the lungs. The cell also has tiny bags of strong juice that break down food and worn-out parts, a little like a tiny stomach. And it has sensors on its outside that notice chemicals and pass on signals. Organs are what happens when huge numbers of cells share out the work. Heart cells are very good at squeezing. Nerve cells are very good at carrying messages. But almost every cell still uses oxygen, breaks down food and senses in its own small way. The first living things, long ago, were single cells, and each one did every job by itself.",
    "examples": [
     "A single amoeba in pond water has no stomach. It wraps itself around food and breaks it down inside a little bubble.",
     "Heart muscle cells grown in a dish in a lab start to twitch and beat by themselves.",
     "A bacterium has no brain, but it can sense food and swim towards it."
    ],
    "perspectives": [],
-   "art": "A zoomed-in circle on a toe showing one cell, with a tiny 'lung' (mitochondrion), a tiny 'stomach' (bubble of juice) and tiny 'antennae' (sensors) drawn inside and on it.",
+   "art": "A zoomed-in circle on a toe showing one cell, with a bean-shaped mitochondrion and a small bubble of juice inside it, and tiny sensors on its outside.",
    "context": "This card zooms in from organs to cells, the tiny living pieces organs are made of."
   },
   {
@@ -287,7 +287,7 @@
     },
     {
      "who": "Many brain scientists",
-     "explanation": "The gut's nerves are clever, but they do not think or plan. Calling them a brain can confuse people. The thinking happens in the head."
+     "explanation": "The gut's nerve net runs digestion very well. But it is much smaller and simpler than the brain, so calling it a brain can confuse people."
     },
     {
      "who": "Scientists studying gut germs",
@@ -354,7 +354,7 @@
   {
    "concept": "The frontier: growing mini-organs",
    "status": "idea",
-   "description": "Scientists can now grow tiny bits of organs in a dish, from a person's own cells. They are called organoids. In 2013, Madeline Lancaster and her team grew tiny 'mini-brains' the size of a lentil. Others have grown mini-stomachs and mini-guts. These help scientists test medicines and understand illnesses. Nobody can yet grow a full working heart, lung, stomach or brain to put into a person. Scientists hope this may happen one day, but nobody knows when.",
+   "description": "Scientists can now grow tiny bits of organs in a dish, from a person's own cells. They are called organoids. In 2013, Madeline Lancaster, working in Jürgen Knoblich's lab in Vienna, grew tiny 'mini-brains' the size of a lentil. Others have grown mini-stomachs and mini-guts. These help scientists test medicines and understand illnesses. Nobody can yet grow a full working heart, lung, stomach or brain to put into a person. Scientists hope this may happen one day, but nobody knows when.",
    "examples": [
     "Mini-guts grown from a sick child's cells can be used to test which medicine works best for that child.",
     "Scientists have built machines that pump blood for people waiting for a new heart.",
@@ -390,7 +390,7 @@
  "challenging": [
   {
    "claim": "We think with our heart, not our brain.",
-   "who": "The ancient Egyptians and the Greek thinker Aristotle, about 2,350 years ago. We still say 'learn by heart'.",
+   "who": "The ancient Egyptians, and the Greek thinker Aristotle about 2,350 years ago. We still say 'learn by heart'.",
    "for": "Your heart races when you are scared, excited or in love. It is warm and always moving. A brain looks like a grey, still lump.",
    "against": "People with an artificial heart pump think and feel as before. When the brain is hurt, thinking changes. The heart races because the brain tells it to.",
    "status": "rejected",
@@ -400,7 +400,7 @@
    "claim": "We only use ten per cent of our brain.",
    "who": "A popular saying, found in films and adverts",
    "for": "It sounds exciting. It suggests we have hidden powers waiting to be switched on.",
-   "against": "Brain scans show that over a day almost every part of the brain is busy. Damage to any part causes problems. A body would not feed a part it never used.",
+   "against": "Brain scans show that over a day almost every part of the brain is busy. Damage to any part causes problems. The brain uses about a fifth of the body's energy, and a body would waste that feeding parts it never used.",
    "status": "rejected",
    "context": "This card is about a common myth about the brain."
   },
@@ -408,7 +408,7 @@
    "claim": "Stomach ulcers, sore patches in the stomach, are caused by stress and spicy food.",
    "who": "Most doctors, until the 1980s",
    "for": "Many people with ulcers were worried and busy. Spicy food can make a sore stomach feel worse.",
-   "against": "In Australia, Robin Warren found germs living in ulcers. Barry Marshall then drank a cup of these germs to prove it, and got sick. Medicines that kill the germ cure most ulcers. They won the Nobel Prize in 2005.",
+   "against": "In Australia, Robin Warren found a germ in the stomachs of people with ulcers. Barry Marshall then drank a cup of these germs to prove it, and his stomach became sore and swollen inside. Medicines that kill the germ cure most ulcers. They won the Nobel Prize in 2005.",
    "status": "rejected",
    "context": "This card is about a medical idea that turned out to be wrong, and the scientist who proved it."
   },
@@ -474,9 +474,9 @@
    "hint": "Should it be who waited longest, who is most ill, or who is youngest? Why?"
   },
   {
-   "q": "Your organs work together and never fight over who is most important. What could people learn from this?",
-   "kind": "big",
-   "hint": "Think of a family, a cricket team or a class."
+   "q": "Your brain floats in a liquid inside your skull. Why is a hard skull alone not enough to keep it safe?",
+   "kind": "deep",
+   "hint": "Remember the egg in the empty box and the egg in the box full of water."
   },
   {
    "q": "A sponge has no organs, but it is alive. What is the smallest thing that can still be alive?",
@@ -498,7 +498,7 @@
   "title": "The Marble and the Pomfret",
   "mins": 10,
   "read_aloud": true,
-  "note": "Meenu, Appu, Amma and the doctor are made up. The facts are real: X-rays show glass and bones, the stomach sits under the left ribs, a fish's heart sits low behind its gills, and lungs and the swim bladders of fish come from the same ancient beginning. Small smooth swallowed things usually pass through safely, but a child who swallows anything must always see a doctor.",
+  "note": "Meenu, Appu, Amma and the doctor are made up. The facts are real: X-rays show glass and bones, the stomach sits under the left ribs, a fish's heart sits low behind its gills, and lungs and the swim bladders of fish come from the same ancient beginning. Small smooth swallowed things usually pass through safely, but a child who swallows anything must always see a doctor. On an X-ray the lungs look dark, because air lets X-rays through, and the heart looks paler.",
   "text": [
    "Meenu did not like insides. She liked outsides. She liked the shine on a fish's skin, the blue on a crab's claw, the pink of a sunset over the Versova boats. Insides were dark and squishy and secret. When Amma cleaned fish on the back step, Meenu looked at the sky.",
    "\"You eat fish,\" said Amma, her knife quick and sure. \"You can look at fish.\"",
@@ -519,16 +519,16 @@
    "It was Appu. But it was Appu from the inside.",
    "Meenu stared. She saw the round white bowl of his skull. She saw a long chain of white beads running down the middle of him, his backbone. And she saw curved white bars, row after row, wrapping round his chest.",
    "\"Ribs,\" Meenu whispered. \"Like the pomfret's bones.\"",
-   "In the dark space inside the ribs there were two big grey clouds, one on each side. Between them was a darker shape, tipped a little to the left.",
+   "In the dark space inside the ribs there were two big dark patches, one on each side. Between them was a paler shape, tipped a little to the left.",
    "\"Lungs,\" said the doctor, pointing. \"And his heart, in the middle. Do you see how they fit together? The left lung is a bit smaller, to leave room for the heart.\"",
    "And there, just below the ribs, a little to the left, was a small, perfect white circle. A tiny full moon.",
    "\"The marble,\" said the doctor. \"Glass shows up white, like bone. It is sitting in his stomach.\"",
    "\"Not his tummy?\" said Meenu. She had thought the stomach was behind the belly button, where Appu had pointed.",
    "\"The stomach is higher than most people think,\" said the doctor. \"Under the ribs, on the left. Shaped a little like a J. After the stomach come the long, curly intestines. That is most of the tummy.\"",
-   "Meenu looked at the white moon under the ribs. Low behind the heart, a little bag, with the gut curling on after it. She had heard those words before, on the back step, in Amma's voice.",
+   "Meenu looked at the white moon under the ribs. A little bag, with the gut curling on after it. She had heard those words before, on the back step, in Amma's voice.",
    "\"It's the same,\" she said slowly. \"It's the same as the fish.\"",
    "The doctor raised her eyebrows. Amma smiled a small, surprised smile.",
-   "\"A heart in the middle,\" said Meenu, \"in a cage of bones. A brain in its own box, at the top. A stomach after the food pipe, and the gut after that. Only the fish has an air bag, and Appu has lungs.\" She remembered the thin shiny balloon. \"Cousins,\" she said.",
+   "\"A brain in its own bony box, at the top,\" said Meenu. \"A heart near the front. A stomach after the food pipe, and the gut after that. Only the fish has an air bag, and Appu has lungs.\" She remembered the thin shiny balloon. \"Cousins,\" she said.",
    "\"That is right,\" said the doctor. \"Very long ago, they began as the same thing.\"",
    "The doctor told Amma what would happen next. A small, smooth marble almost always travels on by itself, she said. It moves from the stomach into the intestines, slowly, slowly, along the whole long journey, and comes out at the end. They must watch Appu, and come straight back if his tummy hurt or he was sick.",
    "On the auto ride home, Appu was sleepy and hiccuping. \"Is it lost?\" he asked.",
@@ -553,7 +553,7 @@
    "A girl on a back step looking at the sky while her mother cleans a silver pomfret on a wooden board, fishing boats in the distance.",
    "A little boy on the floor with marbles around him, one hand at his mouth, eyes wide.",
    "Three people squeezed in the back of an auto at night, the girl holding her brother's foot.",
-   "An X-ray glowing on a screen: a child's skull, ribs, two grey lungs, a heart in the middle and a small white marble under the left ribs.",
+   "An X-ray glowing on a screen: a child's skull, white ribs, two dark lungs, a paler heart in the middle and a small white marble under the left ribs.",
    "Brother and sister in a dark auto under orange streetlights, his small hand on top of hers on his tummy.",
    "The girl sitting close beside her mother on the step, looking at the fish, the board between them."
   ]
@@ -684,7 +684,7 @@
      "do": "1. Take turns reading cards. 2. Everyone races to place the token. 3. Check the place on the board together before giving the card.",
      "say": "Read your card. Everyone race! Then we check together: is that the right organ, in the right place?",
      "kid": "Read the clue. Race to place the organ. Check it together. Right organ and right place wins the card.",
-     "parent": "Common mix-ups: putting the heart far to the left, putting the stomach low behind the belly button, and making the lungs tiny. The lungs fill most of the chest, from the collarbones to the bottom of the ribs. The heart sits between them in the middle."
+     "parent": "Common mix-ups: putting the heart far to the left, putting the stomach low behind the belly button, and making the lungs tiny. The lungs fill most of the chest, from just above the collarbones to low down inside the ribs. The heart sits between them in the middle."
     },
     {
      "id": "s4",
@@ -939,7 +939,7 @@
       "ribs",
       "rib cage"
      ],
-     "why": "The ribs make a cage around the chest, with gaps so the lungs can grow when you breathe in."
+     "why": "The ribs make a cage around the chest. They are joined by muscles and swing up and out, so the lungs have room to get bigger when you breathe in."
     },
     {
      "t": "match",
@@ -1003,7 +1003,7 @@
     },
     {
      "t": "truefalse",
-     "p": "In the egg in the jar test, the egg in water was safer than the egg in the empty box.",
+     "p": "In the egg in the box test, the egg in water was safer than the egg in the empty box.",
      "a": true,
      "why": "True. The water cushioned the egg. The liquid around your brain does the same job.",
      "how": "e1"
@@ -1102,7 +1102,7 @@
       "To make breathing noisy"
      ],
      "a": 1,
-     "why": "Remember the sponge test: lots of tiny holes made a big inside surface. The tiny air bags in the lungs, spread out, would cover a large part of a badminton court. Picking 'too heavy' guesses about weight. Lungs are very light, because they are full of air.",
+     "why": "Remember the lump test: the crushed mishri disappeared much faster, because much more of it touched the water. In the same way, many tiny air bags give a huge surface where air meets blood. Spread out flat, they would cover a large part of a badminton court. Picking 'too heavy' guesses about weight. Lungs are very light, because they are full of air.",
      "how": "e3"
     },
     {
@@ -1160,7 +1160,7 @@
       "liquid",
       "fluid"
      ],
-     "why": "Like the water around the egg in the jar, the liquid stops the brain banging on the skull.",
+     "why": "Like the water around the egg in the box, the liquid stops the brain banging on the skull.",
      "how": "e1"
     },
     {
@@ -1169,7 +1169,7 @@
      "a": [
       "diaphragm"
      ],
-     "why": "Lungs have no muscles of their own. The diaphragm pulls down to make them fill with air."
+     "why": "Lungs cannot pull in air by themselves. The diaphragm pulls down to make them fill with air."
     },
     {
      "t": "truefalse",
@@ -1198,7 +1198,7 @@
     },
     {
      "t": "write",
-     "p": "In the egg in the jar test, what did the egg stand for? What did the box stand for? What did the water stand for?",
+     "p": "In the egg in the box test, what did the egg stand for? What did the box stand for? What did the water stand for?",
      "lines": 3,
      "a": "The egg stood for the brain. The box stood for the skull. The water stood for the liquid that cushions the brain.",
      "why": "A model stands for the real thing, so we can test an idea safely.",
@@ -1223,12 +1223,12 @@
      "p": "A sponge is an animal with no heart, stomach or brain. How does it stay alive?",
      "opts": [
       "It does not, it is not really alive",
-      "Each of its cells breathes and eats by itself",
+      "Water flows through it, and its cells take oxygen and food from the water",
       "It borrows organs from fish",
       "It only lives for one day"
      ],
      "a": 1,
-     "why": "In a sponge, every cell takes oxygen and food from the water flowing through it. Organs are what happens when cells share out jobs. Picking 'not really alive' is a common idea, because sponges do not move. But they grow, feed and make baby sponges."
+     "why": "Water flows through tiny holes in a sponge's body. Each cell takes oxygen straight from the water, and some cells catch bits of food and share them with the others. Organs are what happens when cells share out jobs. Picking 'not really alive' is a common idea, because sponges do not move. But they grow, feed and make baby sponges."
     },
     {
      "t": "mcq",
@@ -1295,7 +1295,7 @@
      "t": "write",
      "p": "Some scientists call the gut 'the second brain'. Give one reason for this name, and one reason some scientists do not like it.",
      "lines": 4,
-     "a": "For: the gut has about 500 million nerve cells, and it can run its own squeezing without the brain. Against: some scientists say the gut's nerves do not think or plan, so the name confuses people.",
+     "a": "For: the gut has about 500 million nerve cells, and it can run its own squeezing without the brain. Against: the gut's nerve net is much smaller and simpler than the brain, so some scientists say the name confuses people.",
      "why": "This is a debated idea. A good answer gives both sides."
     },
     {
@@ -1365,9 +1365,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw one cell. Draw inside it a tiny 'lung', a tiny 'stomach' and on it a tiny 'antenna'. Write what each one does.",
+     "p": "Draw one cell. Inside it, draw a mitochondrion and a small bag of juice. On its outside, draw a few sensors. Write what each one does.",
      "a": "A round cell with a small bean shape (uses oxygen to make energy), a small bubble (breaks down food and old bits) and little feelers on the outside (sense chemicals).",
-     "why": "Every cell does tiny versions of the jobs that organs do. Organs are teams of cells sharing out jobs."
+     "why": "Almost every cell does small versions of the jobs that organs do. Organs are teams of cells sharing out jobs."
     }
    ]
   }
@@ -1375,16 +1375,16 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "The Egg in the Jar: how the skull and its liquid protect the brain",
+   "title": "The Egg in the Box: how liquid protects the brain",
    "mins": 25,
    "days": 1,
    "question": "Does liquid around a brain help protect it when you move?",
-   "predict": "Before you test, guess. Will a raw egg shaken in an empty box break more easily, or an egg shaken in a box full of water?",
-   "fair_test": "To make it fair, use two eggs of the same size, two boxes the same size and the same gentle shake for the same time. Only the water changes.",
+   "predict": "Before you test, guess. Will a raw egg crack first in an empty box, or in a box full of water? Why do you think so?",
+   "fair_test": "To make it fair, use two eggs of the same size, two boxes the same size and the same shakes, the same number of times. Only the water changes.",
    "results_table": [
     "Box",
-    "Egg after 5 gentle shakes",
-    "Egg after 10 gentle shakes",
+    "Egg after 5 shakes",
+    "Egg after 10 shakes",
     "What I noticed"
    ],
    "materials": [
@@ -1393,9 +1393,8 @@
      "qty": 2
     },
     {
-     "item": "2 plastic boxes with tight lids, just bigger than an egg",
-     "qty": 2,
-     "buy": "b-boxes"
+     "item": "2 plastic boxes or jars with tight lids, the same size, each about twice as big as an egg. An old tiffin or takeaway box works.",
+     "qty": 2
     },
     {
      "item": "water to fill one box",
@@ -1406,24 +1405,24 @@
      "qty": 1
     }
    ],
-   "safety": "Do this over a tray or in the sink. Wash hands with soap after touching raw egg. Use plastic boxes, never glass.",
+   "safety": "Do this over the sink or a tray. Wash hands with soap after touching raw egg. Use plastic boxes, never glass.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess, then shake an egg in an empty box and an egg in a box of water. Compare, and finish with claim, evidence and reasoning."
+     "what": "Guess, then shake an egg in an empty box and an egg in a box full of water. Compare, and finish with claim, evidence and reasoning."
     }
    ],
    "record": "Fill in the table. Draw the two eggs after the test.",
-   "context": "This is the egg in the jar test. A raw egg stands for your soft brain. A box stands for your skull. You test whether water around the egg protects it, like the liquid around your brain.",
+   "context": "This is the egg in the box test. A raw egg stands for your soft brain. A box stands for your skull. You test whether water around the egg protects it, like the liquid around your brain.",
    "setup": [
     {
      "art": "Two clear plastic boxes side by side, one empty with a raw egg inside, one filled to the top with water and an egg inside, lids on.",
      "caption": "1. Put one egg in an empty box and one egg in a box full of water."
     },
     {
-     "art": "A child's hands shaking a closed plastic box gently from side to side over a tray.",
-     "caption": "2. Shake each box gently the same way, 5 times."
+     "art": "A child's hands shaking a closed plastic box firmly up and down over a sink.",
+     "caption": "2. Shake each box firmly up and down the same way, 5 times."
     },
     {
      "art": "Two opened boxes: the egg from the empty box cracked, the egg from the water box whole.",
@@ -1447,7 +1446,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the egg in the jar test, about how your brain is protected inside your skull."
+     "context": "This is the first step of the egg in the box test, about how your brain is protected inside your skull."
     },
     {
      "id": "s2",
@@ -1460,10 +1459,10 @@
      "id": "s3",
      "mins": 5,
      "adult": false,
-     "do": "1. Put one egg in the empty box and close the lid. 2. Fill the other box right to the top with water, put the egg in and close the lid tight. 3. Over a tray, shake each box gently from side to side 5 times, the same way.",
-     "say": "Same box, same egg, same shake. Only the water is different. That keeps the test fair. Gently, five shakes.",
-     "kid": "Put an egg in each box. Fill one with water to the top. Close the lids. Shake each one gently, 5 times.",
-     "parent": "Fill the water box right to the top, so there is no air gap. If the eggs do not crack after 5 shakes, open, look, close and do 5 more. Do not shake hard. The point is to see the difference, not to smash anything."
+     "do": "1. Put one egg in the empty box and close the lid. 2. Fill the other box right to the top with water. Put the egg in, top it up so there is no air, and close the lid tight. 3. Over the sink, shake each box firmly up and down 5 times, the same way.",
+     "say": "Same box, same egg, same shakes. Only the water is different. That keeps the test fair. Five firm shakes, up and down.",
+     "kid": "Put an egg in each box. Fill one with water to the top. Close the lids. Shake each one firmly up and down, 5 times.",
+     "parent": "Fill the water box right to the top, so there is no air gap. If neither egg cracks after 5 shakes, open, look, close and do 5 more, a little harder. Shake both boxes the same way each time. If the egg in water cracks too, check that the box was full, with no air bubble, and try once more."
     },
     {
      "id": "s4",
@@ -1473,7 +1472,7 @@
      "kid": "Open the boxes. Look closely. Is either egg cracked? Write it in the table.",
      "check": {
       "t": "mcq",
-      "q": "In the egg in the jar test, which egg is usually safer?",
+      "q": "In the egg in the box test, which egg is usually safer?",
       "options": [
        "The egg in the empty box",
        "The egg in the box full of water",
@@ -1505,8 +1504,8 @@
      "id": "s6",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the egg test sounds like this. What I think: liquid around the brain protects it. What I saw: the egg in the empty box cracked after 10 shakes, and the egg in water did not crack. Why: the water cushions the egg, so it does not bang hard on the box."
     }
    ]
@@ -1517,7 +1516,7 @@
    "mins": 25,
    "days": 1,
    "question": "Does churning food, like the stomach does, break it down faster?",
-   "predict": "Before you test, guess. After five minutes, will the biscuit in the squished bag or the still bag be more broken up?",
+   "predict": "Before you test, guess. After five minutes, will the biscuit in the squished bag or the still bag be more broken up? Why do you think so?",
    "fair_test": "To make it fair, put the same biscuit and the same amount of water in each bag, and leave them for the same time. Only the squishing changes.",
    "results_table": [
     "Bag",
@@ -1527,9 +1526,8 @@
    ],
    "materials": [
     {
-     "item": "2 zip-lock plastic bags",
-     "qty": 2,
-     "buy": "b-ziplock"
+     "item": "2 zip-lock bags, or 2 thin plastic bags closed tightly with a rubber band",
+     "qty": 2
     },
     {
      "item": "2 plain biscuits of the same kind, like Marie biscuits",
@@ -1632,156 +1630,160 @@
      "id": "s6",
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the squish bag test sounds like this. What I think: churning helps the stomach break food down. What I saw: after 5 minutes the squished biscuit was smooth mush, and the still one had big lumps. Why: squeezing breaks food into tiny pieces and mixes it with liquid."
     }
    ]
   },
   {
    "id": "e3",
-   "title": "Sponge or Cloth: why lungs are full of tiny bags",
+   "title": "Lump or Bits: why lungs have so many tiny air bags",
    "mins": 25,
    "days": 1,
-   "question": "Does something full of tiny holes soak up more than a flat thing the same size?",
-   "predict": "Before you test, guess. Will a kitchen sponge or a flat cotton cloth of the same size soak up more water?",
-   "fair_test": "To make it fair, cut the cloth to the same size as the sponge's top. Dip each for the same time, lift each the same way and squeeze each into its own cup. Test each 3 times.",
+   "question": "Does a lump of mishri disappear into water faster whole, or crushed into small bits?",
+   "predict": "Before you test, guess. Will the whole lump or the crushed lump disappear into the water first? Why do you think so?",
+   "fair_test": "To make it fair, use two lumps of mishri the same size, two glasses the same size with the same amount of water from the same jug, and stir both the same way. Only the crushing changes. Do the test twice.",
    "results_table": [
-    "Thing",
-    "Try 1: spoons of water",
-    "Try 2: spoons",
-    "Try 3: spoons",
-    "Middle value"
+    "Sugar",
+    "Try 1: minutes until it disappeared",
+    "Try 2: minutes",
+    "What I noticed"
    ],
    "materials": [
     {
-     "item": "a dry kitchen sponge",
+     "item": "4 lumps of mishri (rock sugar), each about the size of your thumbnail and as alike as you can find. Or 4 sugar cubes, or 4 small pieces of jaggery the same size.",
+     "qty": 4
+    },
+    {
+     "item": "2 steel tumblers or glasses the same size, each half full of water from the same jug",
+     "qty": 2
+    },
+    {
+     "item": "2 spoons for stirring",
+     "qty": 2
+    },
+    {
+     "item": "a clean cloth and a heavy steel tumbler or rolling pin, for crushing",
      "qty": 1
     },
     {
-     "item": "a flat piece of thin cotton cloth, cut to the same size as the sponge's top",
-     "qty": 1
-    },
-    {
-     "item": "a bowl of water",
-     "qty": 1
-    },
-    {
-     "item": "2 cups and a teaspoon, or a measuring cup",
+     "item": "a clock or a phone timer",
      "qty": 1
     }
    ],
-   "safety": "Wipe up spills so nobody slips.",
+   "safety": "Crush the lump inside a folded cloth, so no bits fly. Wipe up spills so nobody slips.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess, then soak and squeeze a sponge and a flat cloth 3 times each. Compare, then talk about the tiny air bags in your lungs."
+     "what": "Guess, then stir a whole lump of mishri and a crushed one in water, and time how long each takes to disappear. Do it twice. Then talk about the tiny air bags in your lungs."
     }
    ],
-   "record": "Fill in the table. Draw a bar for the sponge and a bar for the cloth.",
-   "context": "This is the sponge or cloth test. A sponge is full of tiny holes, a bit like the millions of tiny air bags in your lungs. You find out why having lots of tiny bags helps.",
+   "record": "Fill in the table. Draw a bar for the whole lump and a bar for the crushed lump.",
+   "context": "This is the lump or bits test. You time how fast sugar disappears into water, whole or crushed. It shows why your lungs have hundreds of millions of tiny air bags instead of one big bag.",
    "example_chart": {
     "type": "bar",
-    "title": "Made-up example results: spoons of water squeezed out",
-    "x": "Thing",
-    "y": "Spoons of water",
+    "title": "Made-up example results: minutes until the sugar disappeared",
+    "x": "Sugar",
+    "y": "Minutes",
     "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
     "data": [
      {
-      "label": "Sponge",
-      "value": 12,
-      "emoji": "🧽"
+      "label": "Whole lump",
+      "value": 8,
+      "emoji": "🧊"
      },
      {
-      "label": "Flat cloth",
-      "value": 3,
-      "emoji": "🧻"
+      "label": "Crushed lump",
+      "value": 2,
+      "emoji": "🥄"
      }
     ]
    },
    "setup": [
     {
-     "art": "A dry kitchen sponge and a flat cotton square of the same size laid side by side next to a bowl of water.",
-     "caption": "1. Cut a cloth the same size as the top of the sponge."
+     "art": "Two lumps of mishri the same size beside two steel tumblers half full of water, with a folded cloth and a rolling pin.",
+     "caption": "1. Choose two lumps the same size. Crush one inside a cloth."
     },
     {
-     "art": "A child dipping the sponge into a bowl of water and counting to ten.",
-     "caption": "2. Dip each one in the water for 10 seconds."
+     "art": "A child and a grown-up each stirring a tumbler, one with a whole lump and one with crushed sugar, a clock beside them.",
+     "caption": "2. Tip each into its own tumbler. Stir both the same way."
     },
     {
-     "art": "A child squeezing the sponge over a cup, with a teaspoon beside it for measuring.",
-     "caption": "3. Squeeze each into a cup. Count the spoons of water."
+     "art": "Two tumblers: one with clear water and no sugar left, the other with a small lump still sitting at the bottom.",
+     "caption": "3. Time how long each takes to disappear."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show the sponge close up. Ask your child what they notice.",
-     "say": "Look closely at this sponge. What do you notice? Your lungs are a bit like this. They are full of millions of tiny air bags.",
-     "kid": "Look closely at the sponge. What do you see? Your lungs are full of tiny bags, like this.",
-     "context": "This is the first step of the sponge or cloth test, about why your lungs are full of tiny air bags."
+     "do": "Show your child a lump of mishri. Ask what they notice about its outside.",
+     "say": "Look at this lump of mishri. Only its outside touches anything around it. Your lungs have hundreds of millions of tiny air bags, not one big bag. Why might that be? Keep your idea in mind.",
+     "kid": "Look at the mishri lump. Only its outside touches the air. Your lungs have lots of tiny air bags. Why? Keep your idea.",
+     "context": "This is the first step of the lump or bits test, about why your lungs have so many tiny air bags."
     },
     {
      "id": "s2",
-     "mins": 2,
-     "do": "Ask for a guess, and write it down.",
-     "say": "Same size on top. Which will soak up more, the sponge or the cloth?",
-     "kid": "Which will soak up more water? The sponge or the cloth? Guess."
+     "mins": 4,
+     "do": "1. Put one lump inside a folded cloth. 2. Tap it with a heavy steel tumbler or a rolling pin until it is small bits. 3. Ask for a guess, and write it down.",
+     "say": "This lump is now lots of small bits. Nothing was added or taken away. Which do you think will disappear into the water first, the whole lump or the bits? Why?",
+     "kid": "Crush one lump inside a cloth. Tap it until it is small bits. Which will disappear first? Why? Write your guess.",
+     "parent": "Use the same amount of sugar in both. Tip every crushed bit out of the cloth."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Dip the sponge in the water for 10 seconds. 2. Lift it and hold it over the bowl for 3 seconds. 3. Squeeze it into a cup. 4. Count the teaspoons of water. 5. Do the same with the cloth. 6. Do each one 3 times.",
-     "say": "Dip, count to ten, lift, drip, squeeze. Now count the spoons. We do it three times, because one try can be a fluke.",
-     "kid": "Dip for 10 seconds. Lift. Squeeze into a cup. Count the spoons. Do it 3 times each.",
-     "parent": "To find the middle value, put the three numbers in order and take the middle one. The sponge should hold several times more water."
+     "do": "1. Tip the whole lump into one tumbler and the crushed bits into the other, at the same moment. 2. You stir one and your child stirs the other, about one stir each second. 3. Write down how many minutes each takes until you can see no sugar. 4. Do it again with the other two lumps, swapping who stirs which.",
+     "say": "Ready? Tip them in together. Stir gently, one stir each second. Tell me when you can see no sugar at all. Then we do it again, because one try can be a fluke.",
+     "kid": "Tip both in at the same time. Stir, one stir each second. Watch the clock. When is the sugar gone? Do it twice.",
+     "parent": "The crushed bits usually vanish in a minute or two. The whole lump takes several minutes, often much longer. If it is still there after 10 minutes, write '10 minutes and still there'. Swapping who stirs keeps the test fair."
     },
     {
      "id": "s4",
-     "mins": 5,
-     "do": "Draw one bar for the sponge and one for the cloth.",
-     "say": "Let's draw a bar for each. Which bar is taller?",
-     "kid": "Draw a bar for the sponge and one for the cloth. Which is taller?",
+     "mins": 4,
+     "do": "Draw one bar for the whole lump and one for the crushed lump.",
+     "say": "Let's draw a bar for each. Which bar is taller? Which sugar was faster?",
+     "kid": "Draw a bar for the whole lump and one for the bits. Which is taller?",
      "chart": {
       "type": "bar",
-      "title": "Made-up example results: spoons of water squeezed out",
-      "x": "Thing",
-      "y": "Spoons of water",
-      "note": "These numbers are made up. Your numbers will be different.",
+      "title": "Made-up example results: minutes until the sugar disappeared",
+      "x": "Sugar",
+      "y": "Minutes",
       "data": [
        {
-        "label": "Sponge",
-        "value": 12,
-        "emoji": "🧽"
+        "label": "Whole lump",
+        "value": 8,
+        "emoji": "🧊"
        },
        {
-        "label": "Flat cloth",
-        "value": 3,
-        "emoji": "🧻"
+        "label": "Crushed lump",
+        "value": 2,
+        "emoji": "🥄"
        }
-      ]
+      ],
+      "note": "These numbers are made up. Your numbers will be different."
      },
      "check": {
       "t": "mcq",
-      "q": "Why does the sponge hold more water than the flat cloth?",
+      "q": "In the lump or bits test, why did the crushed sugar disappear faster?",
       "options": [
-       "It is heavier",
-       "It has lots of tiny holes, so lots of inside surface",
-       "It is a different colour"
+       "It was a different kind of sugar",
+       "Much more of the sugar was touching the water",
+       "The water was hotter"
       ],
       "a": 1,
-      "why": "All the tiny holes in a sponge give it a huge amount of inside surface for water to cling to. Lungs work the same way. Millions of tiny air bags give a huge surface for oxygen to pass into the blood. Picking 'heavier' often means thinking size or weight matters most. It is the tiny holes that matter."
+      "why": "Crushing did not add any sugar. It made much more of the sugar touch the water at once, so it went into the water faster. Your lungs work the same way. Hundreds of millions of tiny air bags give a huge surface where air meets blood, so a lot of oxygen gets into the blood every second. Picking 'different sugar' or 'hotter water' would make the test unfair. We used the same sugar and the same water."
      }
     },
     {
      "id": "s5",
-     "mins": 5,
+     "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the sponge test sounds like this. What I think: lots of tiny holes hold more than a flat sheet. What I saw: the sponge gave 12 spoons and the cloth gave 3. Why: the tiny holes make lots of inside surface. My lungs have millions of tiny air bags, so they have lots of surface for oxygen."
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the lump test sounds like this. What I think: small bits go into water faster than one lump. What I saw: the crushed sugar was gone in 2 minutes, and the whole lump took 8 minutes. Why: the bits had much more outside touching the water. My lungs have hundreds of millions of tiny air bags, so lots of air touches my blood."
     }
    ]
   }
@@ -1982,7 +1984,7 @@
        "In the belly"
       ],
       "a": 1,
-      "why": "The lungs are big. They fill most of the chest, from the collarbones down to the bottom of the ribs, one on each side of the heart. Picking 'small circles' usually means picturing lungs like two balloons. They are more like two big spongy leaves. The belly holds the stomach and intestines."
+      "why": "The lungs are big. They fill most of the chest, from just above the collarbones to low down inside the ribs, one on each side of the heart. Picking 'small circles' usually means picturing lungs like two balloons. They are more like two big spongy leaves. The belly holds the stomach and intestines."
      }
     },
     {
@@ -2006,9 +2008,9 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Let's finish like real scientists. Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Finish like a scientist. Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the organ map sounds like this. What I think: my stomach is under my ribs on the left, not behind my belly button. What I saw: on the body map card and when I felt full after lunch. Why: the food pipe goes down the chest and ends there."
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer for the organ map sounds like this. What I think: my stomach is under my ribs on the left, not behind my belly button. What I saw: the body map card put it there, and I felt full there after lunch. Why: the food pipe goes down the chest and ends there."
     }
    ]
   },
@@ -2019,7 +2021,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a kitchen scale",
+     "item": "a kitchen scale. If you have none, use packets with the weight printed on them, like a 1-kilogram packet of atta and a 200-gram packet of dal.",
      "qty": 1,
      "buy": "b-scale"
     },
@@ -2096,7 +2098,7 @@
      "do": "Make the table together: organ, kitchen match, weight in grams.",
      "say": "Let's write it down. Which organ was heaviest? Which surprised you?",
      "kid": "Write a table. Organ, kitchen thing, grams. Which was heaviest?",
-     "parent": "The lungs together weigh about 1,000 to 1,300 grams in a grown-up, but they are mostly air and very light for their size. The liver, under the right ribs, is the heaviest organ inside, about 1,500 grams."
+     "parent": "The two lungs together weigh about 1 kilogram in a grown-up, but they are mostly air and very light for their size. The liver, under the right ribs, is the heaviest organ inside, about 1,500 grams."
     }
    ]
   },
@@ -2348,7 +2350,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Tape a red string from the heart to the lungs, to the intestines, to the brain and to a toe, then back to the heart.",
+     "do": "Tape a red string from the heart to the lungs, then to the intestines, the brain and a toe. Bring it back to the heart.",
      "say": "The red string is blood. The heart pumps it to the lungs to pick up oxygen. It picks up food near the intestines. Then it takes both to the brain and the toes.",
      "kid": "Tape a red string from the heart. Take it to the lungs, gut, brain and a toe. This is blood.",
      "check": {
@@ -2532,7 +2534,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Remind your child of the egg in the jar test.",
+     "do": "Read the problem together. Remind your child of the egg in the box test.",
      "say": "Your skull is hard on the outside. Inside, your brain is cushioned by liquid. How could we copy that for an egg?",
      "kid": "Your skull is hard outside. Liquid cushions your brain inside. How can you copy that?",
      "context": "This is the first step of the Helmet for an Egg Brain challenge. You design a helmet to protect an egg in a fall."
@@ -2809,7 +2811,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the egg in the jar test, what did the water stand for?",
+   "p": "In the egg in the box test, what did the water stand for?",
    "opts": [
     "The skull",
     "The liquid that cushions the brain",
@@ -2851,13 +2853,13 @@
    "t": "mcq",
    "p": "A sponge has no organs. How does it live?",
    "opts": [
-    "Every cell breathes and eats by itself",
+    "Water flows through it, and its cells take oxygen and food from the water",
     "It is not alive",
     "It uses a fish's heart",
     "It eats sand"
    ],
    "a": 0,
-   "why": "Organs are teams of cells sharing out jobs. In a sponge, each cell still does every job itself.",
+   "why": "Organs are teams of cells sharing out jobs. A sponge has no organs. Its cells take oxygen and food straight from the water flowing through it.",
    "outcome": 7
   },
   {
@@ -3001,16 +3003,16 @@
    "a": "They always come in a pair."
   },
   {
-   "j": "What did the brain say when it was full of ideas?",
-   "a": "I'm all ears. Well, nearly."
+   "j": "What did the brain say to the skull?",
+   "a": "Thanks for keeping a lid on things."
   },
   {
    "j": "Why did the stomach rumble at the cinema?",
    "a": "It heard there was a lot of popcorn."
   },
   {
-   "j": "Why did the heart break up with the brain?",
-   "a": "The brain was always thinking, and the heart wanted to feel."
+   "j": "Why did the egg love its box of water?",
+   "a": "It never cracked under pressure."
   },
   {
    "j": "What did the ribs say to the heart?",
@@ -3021,8 +3023,8 @@
    "a": "It had three hearts in it."
   },
   {
-   "j": "What do you call an organ that tells jokes?",
-   "a": "A funny bone. Oh wait, that's not an organ."
+   "j": "Where does a stomach keep its savings?",
+   "a": "In the food bank."
   },
   {
    "j": "Why did the cow need four stomachs?",
@@ -3112,28 +3114,28 @@
    "context": "This is about the kitchen organ weigh-in, where you held a 1-litre bottle to feel how much a full stomach holds."
   },
   {
-   "problem": "In the sponge or cloth test, the sponge gave 12 spoons of water and the cloth gave 3 spoons. How many times more did the sponge hold?",
-   "answer": "4 times more.",
-   "explain": "The sponge gave 12 spoons. The cloth gave 3 spoons. 12 divided by 3 is 4. You can check: 3 plus 3 plus 3 plus 3 is 12. So the sponge held 4 times as much.",
+   "problem": "In the lump or bits test, the whole lump of mishri took 8 minutes to disappear. The crushed lump took 2 minutes. How many times as long did the whole lump take?",
+   "answer": "4 times as long.",
+   "explain": "The whole lump took 8 minutes. The crushed lump took 2 minutes. 8 divided by 2 is 4. You can check: 2 plus 2 plus 2 plus 2 is 8. So the whole lump took 4 times as long.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "how": "e3",
-   "why_maths": "Dividing tells us 'how many times more', which shows how much the tiny holes help.",
-   "context": "This is about the sponge or cloth test, where you soaked a sponge and a flat cloth and squeezed out the water to count spoons.",
+   "why_maths": "Dividing tells us 'how many times as long', which shows how much breaking sugar into small bits speeds it up.",
+   "context": "This is about the lump or bits test, where you timed a whole lump and a crushed lump of mishri disappearing into water.",
    "chart": {
     "type": "bar",
-    "title": "Made-up example results: spoons of water squeezed out",
-    "x": "Thing",
-    "y": "Spoons of water",
+    "title": "Made-up example results: minutes until the sugar disappeared",
+    "x": "Sugar",
+    "y": "Minutes",
     "data": [
      {
-      "label": "Sponge",
-      "value": 12,
-      "emoji": "🧽"
+      "label": "Whole lump",
+      "value": 8,
+      "emoji": "🧊"
      },
      {
-      "label": "Flat cloth",
-      "value": 3,
-      "emoji": "🧻"
+      "label": "Crushed lump",
+      "value": 2,
+      "emoji": "🥄"
      }
     ]
    }
@@ -3241,26 +3243,6 @@
     "a3"
    ],
    "plan": "Used again in other measuring units."
-  },
-  {
-   "id": "b-boxes",
-   "item": "Small plastic food boxes with tight lids",
-   "kind": "material",
-   "why": "For the egg in the jar test.",
-   "url": "https://www.amazon.in/s?k=small+plastic+container+with+lid",
-   "used_in": [
-    "e1"
-   ]
-  },
-  {
-   "id": "b-ziplock",
-   "item": "Zip-lock plastic bags",
-   "kind": "material",
-   "why": "For the squish bag stomach test.",
-   "url": "https://www.amazon.in/s?k=zip+lock+bags",
-   "used_in": [
-    "e2"
-   ]
   },
   {
    "id": "b-stethoscope",
@@ -3391,8 +3373,7 @@
   ],
   "spine": [
    "intro",
-   "a1",
-   "story",
+   "e1",
    "a2",
    "explanations",
    "roots",
@@ -3402,7 +3383,7 @@
  "sources": {
   "founder": [
    "DeepKids notebook, Body parts and skeleton: homeostasis drama 'Body Council' with the child as 'Brain Mayor' (used in the Body Council activity and Busy Day game)",
-   "DeepKids notebook, Thinking and memory: 'thought predates neurons', ions and signals in single cells, and the brain as a later central organ (used in the 'every cell does a little of every job' card and the deep truth)",
+   "DeepKids notebook, Thinking and memory: 'thought predates neurons', ions and signals in single cells, and the brain as a later central organ (used in the 'every cell does a little of every job' card)",
    "DeepKids notebook, Evolution picture book: sponges as early animals with no organs or nerves, and mitochondria from engulfed cells (used in the sponge and cell cards)",
    "DeepKids notebook, Digestion: Barry Marshall and the ulcer germ (used in the challenging views)",
    "DeepKids founder SCI Cards (ideas/scientists.json): Sushruta, Barry Marshall, and 'you are not one organism, you are a collaboration'",
@@ -3424,21 +3405,21 @@
  "roots": {
   "context": "We have been learning where the heart, lungs, stomach and brain are, and what they do. Now we ask what these organs tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "No organ lives alone. Each organ is a team of cells, and every cell still does a little of every organ's job.",
-   "habit": "We think of the body as separate parts, like a machine, with the brain as the boss. But the heart starts its own beat, the gut has its own net of nerve cells, and every single cell breathes, eats and senses. The lines between organs are drawn by us. The body is one living whole that shares out its jobs.",
-   "evidence": "Heart cells in a dish beat by themselves. A sponge has no organs at all, yet every cell in it breathes and eats. And no organ in you can last more than a few minutes without the others."
+   "truth": "A raw egg shaken in an empty box cracked, but in a box full of water it stayed whole. The water carried the egg along, so it never banged into the hard wall. Your brain floats in a liquid inside your skull in the same way. So a soft liquid keeps your brain safe, together with the hard bone around it.",
+   "habit": "We often think that keeping something safe means making it hard, like armour. But a soft thing inside a hard box can still bang against the walls and break. Your body keeps its softest organ safe with liquid as well as bone.",
+   "evidence": "In the egg in the box test, the egg in the empty box cracked first, and the egg in the box full of water stayed whole. Inside your skull, your brain floats in a clear liquid in the same way. A cricket helmet copies the idea, with a hard shell outside and soft foam inside."
   },
   "three": {
-   "who_am_i": "You are not just your brain. You are a heart, two lungs, a stomach, a brain and trillions of cells, all working as one.",
-   "what_is_life": "Life is cells sharing out jobs, and still each doing a little of everything.",
-   "what_is_this_world": "Fish, cows, octopuses and you share the same plan inside, because all animals come from the same beginning."
+   "who_am_i": "You are a team of organs, from your brain to your stomach, and every one of them is made of living cells.",
+   "what_is_life": "A living body keeps going because its organs pass blood, food, air and messages to each other all the time.",
+   "what_is_this_world": "A fish, a cow and you each have a brain in a skull, a heart and a gut, because all animals with backbones share one ancestor."
   },
-  "thread": "Long ago, life was single cells, and each cell did every job alone. Over a very long time, cells joined into bodies and shared out the work. Some became squeezing heart cells, some became spongy lung cells, some became message-carrying nerve cells. DeepKids believes this is the One becoming the many: one life showing up as many organs, and many organs still acting as one. Your organs never argue about who is most important. Each one simply does its part for the whole.",
+  "thread": "Long ago, every living thing was a single cell that did every job by itself. Over a very long time, cells joined into bodies and shared out the work. Some became heart cells that squeeze, some became lung cells that swap gases, and some became nerve cells that carry messages. So one way of living became many kinds of organ, and those many organs still keep one body alive together.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 5.1",
     "teaching": "The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on.",
-    "link": "Like the organs in this unit, each part matters, but none can live alone. The story asks what holds them all together."
+    "link": "In this unit, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body."
    },
    {
     "source": "Saint Paul, First Letter to the Corinthians 12:12–26",
@@ -3446,9 +3427,9 @@
     "link": "Scientists see the same thing. When the heart stops, the brain is hurt within minutes. When the lungs struggle, every organ struggles."
    },
    {
-    "source": "Thich Nhat Hanh, the idea of interbeing",
-    "teaching": "Look deeply at one thing and you find everything else inside it. A sheet of paper holds the cloud, the rain and the tree.",
-    "link": "Look deeply at your heart and you find the oxygen from your lungs, the food from your stomach and the messages from your brain, all inside it."
+    "source": "Tao Te Ching 76",
+    "teaching": "A newborn baby is soft and bendy, and a dead body is hard and stiff. Green plants bend, and dry dead ones snap. So the hard and stiff go with death, and the soft and bending go with life.",
+    "link": "Your brain is one of the softest parts of you. In the egg test, the soft water around the egg did what the hard box could not do alone."
    }
   ],
   "science": [
@@ -3468,15 +3449,21 @@
   "practice": {
    "title": "Listening to the team",
    "mins": 3,
-   "say": "Let's sit very still and close our eyes. Put one hand on your chest. Feel your heart. Nobody is telling it to beat. Now feel your breath going in and out. Now feel your tummy, quiet and warm. Notice that your brain is noticing all of this. Stay with them all for five slow breaths. Is there one of you in there, or many?",
+   "say": "Let's sit very still and close our eyes. Put one hand on your chest. Feel your heart. You are not telling it to beat. Now feel your breath going in and out. Now feel your tummy, quiet and warm. Notice that your brain is noticing all of this. Stay with them all for five slow breaths. Is there one of you in there, or many?",
    "kid": "Sit still. Close your eyes. Hand on your chest. Feel your heart. Feel your breath. Feel your tummy. Stay for five slow breaths."
   },
   "ask": [
    "Who is beating your heart? Is it you?",
    "If you are made of many organs, are you one thing or many things?",
-   "When you breathe in air that a tree breathed out, where do you end and the tree begin?",
+   "A heart from one person can keep another person alive. Whose heart is it then?",
    "Which part of you is noticing all your other parts?"
   ],
   "art": "A child sitting cross-legged with eyes closed, a soft glow showing a heart, two lungs, a stomach and a brain inside, joined by gentle golden threads into one shape."
+ },
+ "how_we_found_out": {
+  "story": "About 2,350 years ago, the Greek thinker Aristotle taught that the heart does our thinking and feeling. He thought the brain was there to cool the blood. Many people agreed, because the heart races when we are scared or excited. Some Greek doctors disagreed. In Alexandria, about 2,300 years ago, Herophilus cut open bodies and traced nerves back to the brain. About 1,850 years ago, the Greek doctor Galen, working in Rome, showed it in public. He cut two thin nerves in the neck of a squealing pig. The pig went silent, though its heart kept beating and it kept breathing. Galen showed that these nerves came from the brain, not the heart. So the brain, he said, controls the voice and the body. As a doctor to gladiators, he also saw that injuries to the brain and spine changed how a person could move. Today we have even stronger proof. People living with a machine that pumps their blood still think, laugh and remember.",
+  "who": "Aristotle, Herophilus and Galen",
+  "when": "About 350 BCE (Aristotle), about 300 BCE (Herophilus) and about 160 CE (Galen's pig experiment)",
+  "wrong_idea": "Aristotle taught that the heart does the thinking and the brain only cools the blood. Galen cut the nerves that control a pig's voice, and showed that they come from the brain. The pig fell silent while its heart kept beating."
  }
 }

@@ -1,9 +1,9 @@
-# Do animals think and feel? Play, learning and memory
+# Animal minds: how animals think, feel and remember
 `sci.animals.animal-minds.L3`
 
-**Summary.** This unit asks a big question. Do animals think and feel? We look at what animals actually do. Puppies, rats and even bumblebees play. Dogs learn the sound of a gate, and crows remember a face for years. Crows bend wires into hooks, and chimpanzees poke grass stems into termite mounds. Dogs read our faces and follow a pointing finger. Scientists agree that many animals learn, remember and solve problems. They still argue about what animals feel inside, and nobody knows for sure what it is like to be a crow.
+**Summary.** Animals think, feel, remember and decide. A crow remembers a face for years, and a dog follows a pointing finger to a hidden treat. Puppies, rats and even bumblebees play, just for fun. You will test which stones raise water fastest, as rooks did, and learn how scientists test animal minds fairly. Some scientists say we cannot yet know what an animal feels inside, and nobody knows what it is like to be a crow.
 
-**Intro.** *You probably know the story of the thirsty crow. It drops pebbles into a pot until the water rises. Do you think a real crow could do that? Or is it just a story?* In 2009, two scientists in England tested it. They gave rooks, a kind of crow, a tall tube of water. A tasty worm floated on the water, too low for a beak to reach. Stones lay next to the tube. The rooks picked up stones and dropped them in, one by one. The water rose, and they ate the worm. They even chose the big stones first. So who was clever here, the storyteller or the crow? In this unit you will find out what animals can learn, remember and work out.
+**Intro.** *You probably know the story of the thirsty crow. It drops pebbles into a pot until the water rises. Do you think a real crow could do that? Or is it just a story?* In 2009, two scientists in England tested it. They gave rooks, a kind of crow, a tall tube of water. A worm floated on the water, too low for a beak to reach. Stones lay next to the tube. The rooks picked up stones and dropped them in, one by one. The water rose, and they ate the worm. They even chose the big stones first. So the story was right: a real bird can solve this problem. In this unit you will find out what else animals learn, remember and work out.
 
 ## Learning outcomes
 0. I can give true examples of animals that play, learn and remember.
@@ -33,10 +33,10 @@
 - **Mirror test**: A test to see if an animal knows the animal in a mirror is itself. A mark is put on its body where it can only see it in the mirror. *e.g.* A child with a sticker on their forehead looks in the mirror and touches their own forehead.
 
 ## Explanations
-### What we mean by a mind · *debated*
-We cannot open an animal and see its thoughts. We can only watch what it does, and test it carefully. So people have argued for a long time about whether animals have minds. The question is not silly. Even with another person, you only see what they do and say. You guess the rest.
-- e.g. A cat waits by the kitchen door at the same time every evening. Is it thinking about dinner, or just following a habit?
-- e.g. A crow looks at a nut, then at the road, then drops the nut in front of a car. Did it plan that?
+### What a mind is · *debated*
+Animals think, feel, remember and decide. We know it from what they do: a crow chooses a stone, and a dog greets you with its whole body. Nobody can see a thought directly, in an animal or in a person. With a friend too, you see what they do and say, and you know their mind from that. Some scientists say this is not enough for animals, and that every claim needs a careful test.
+- e.g. A cat waits by the kitchen door at the same time every evening. It remembers when dinner comes, and it chooses to wait there.
+- e.g. A crow drops a hard nut onto a road, waits for a car to crack it, then flies down to eat.
 - **Rene Descartes, a French thinker, in 1637:** Animals are like very clever machines, like a clock. They move and make sounds, but they do not think or feel anything inside.
 - **Charles Darwin, an English scientist, in 1871 and 1872:** Humans are animals too, and we come from the same family tree. So other animals have the same kinds of feelings and thinking as us, but in different amounts.
 - **Many scientists today:** Many animals clearly learn, remember and solve problems. We can test those things. What an animal feels inside is much harder to test. So they say: test carefully, and choose the simplest explanation that fits.
@@ -56,7 +56,7 @@ Some birds hide food and come back for it months later. A Clark's nutcracker, a 
 ### Animals play · *defined*
 **Definition:** Play is doing something again and again just for fun, when you are safe and relaxed. It does not get food or shelter right away.
 
-Scientists such as Gordon Burghardt gave play a careful test like this. Then they found it in many animals. Puppies, kittens and goats play. Rats play chase, and they make a happy chirp when tickled. The chirp is too high for us to hear without a special microphone. Jaak Panksepp, an American scientist, studied this from the late 1990s. Octopuses have pushed floating bottles around their tank again and again. In 2022, scientists in London found that bumblebees rolled little balls, even with no food as a reward.
+Gordon Burghardt, an American scientist, wrote down clear signs that tell play apart from other things animals do. Using those signs, scientists have found play in many animals. Puppies, kittens and goats play. Rats play chase, and they make a happy chirp when tickled. The chirp is too high for us to hear without a special microphone. Jaak Panksepp, an American scientist, studied this from the late 1990s. Octopuses have pushed floating bottles around their tank again and again. In 2022, scientists in London found that bumblebees rolled little wooden balls, even with no food as a reward.
 - e.g. A puppy bows with its front legs down and its tail up. This 'play bow' means 'let's play, this is not a real fight'.
 - e.g. Young goats jump and twist in the air for no reason at all.
 - e.g. Bumblebees rolled wooden balls many times, for nothing but the rolling. The young bees rolled them the most.
@@ -71,14 +71,14 @@ Play uses energy and can be risky. So why do animals do it? Scientists have seve
 ### Animals use tools · *defined*
 **Definition:** A tool is an object an animal uses to help it do a job. It is not part of its own body.
 
-People once said only humans use tools. In 1960, Jane Goodall watched a chimpanzee in Tanzania. She named him David Greybeard. He pulled a grass stem, stripped off its leaves and poked it into a termite mound. Termites grabbed the stem, and he ate them. Since then, scientists have found many tool users. New Caledonian crows, from islands in the Pacific Ocean, snip leaves and twigs into hooks to pull grubs out of holes. In 2002, a crow called Betty bent a straight wire into a hook to lift a little bucket of food out of a tube.
+People once said only humans use tools. In 1960, Jane Goodall watched a chimpanzee in Tanzania. She named him David Greybeard. He pulled a grass stem, stripped off its leaves and poked it into a termite mound. Termites grabbed the stem, and he ate them. Since then, scientists have found many tool users. New Caledonian crows, from islands in the Pacific Ocean, make hooks from forked twigs and cut tools from stiff leaves. They use them to pull grubs out of holes. In 2002, a crow called Betty bent a straight wire into a hook to lift a little bucket of food out of a tube.
 - e.g. In Africa, Egyptian vultures throw stones at ostrich eggs to crack them open. Jane Goodall and Hugo van Lawick reported this in 1966. These vultures live in India too.
 - e.g. Sea otters float on their backs and crack shellfish on a stone.
 - e.g. Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure yet.
 ### Animals solve problems · *defined*
 **Definition:** Problem solving is finding a new way to get what you want, when the usual way does not work.
 
-About a hundred years ago, Wolfgang Kohler, a German scientist, hung bananas high up in a room with chimpanzees. One chimpanzee, Sultan, joined two short sticks to make one long one to reach fruit. In 2009, Christopher Bird and Nathan Emery gave rooks a tube of water with a worm floating too low to reach. The rooks dropped in stones until they could reach it. They picked big stones first. Later, New Caledonian crows passed similar tests, and chose sinking stones over floating things.
+About a hundred years ago, Wolfgang Kohler, a German scientist, put bananas out of reach of chimpanzees. One chimpanzee, Sultan, fitted two short sticks together to make one long one, and pulled the fruit in. In 2009, Christopher Bird and Nathan Emery gave rooks a tube of water with a worm floating too low to reach. The rooks dropped in stones until they could reach it. They picked big stones first. Later, New Caledonian crows passed similar tests, and chose sinking stones over floating things.
 - e.g. A crow drops a hard nut onto a road, so a car cracks it.
 - e.g. A cat learns to pull down a door handle with its paw.
 ### Dogs read our faces · *defined*
@@ -101,18 +101,18 @@ Around 1904, a horse in Berlin called Hans seemed to do sums. He tapped his hoof
 - e.g. Scientists who test animals now often make the test 'blind'. The person in the room does not know the answer.
 - e.g. A dog may 'find' a hidden toy because its owner glances at the hiding place.
 ### Brains, neurons and tiny sparks · *defined*
-**Definition:** A brain is made of tiny messenger cells called neurons. Neurons pass signals by moving tiny charged bits of salt, called ions, in and out.
+**Definition:** A brain is made of tiny messenger cells called neurons. Neurons pass signals by moving charged atoms, called ions, in and out.
 
-Every thought, memory and feeling in a brain is neurons sending tiny electric signals. The signal is made by charged atoms of sodium and potassium, the same atoms that are in salt and bananas. Your brain has about 86 billion neurons. Suzana Herculano-Houzel, a Brazilian scientist, helped count them. A honeybee has about one million neurons in a brain smaller than a sesame seed. In 2016, scientists found that bird brains pack neurons very tightly. A crow's small brain has about as many neurons in its thinking part as some monkeys have. So brain size alone does not tell you how clever an animal is.
+In a brain, every thought, memory and feeling comes with neurons sending tiny electric signals. The signal is made by charged atoms of sodium and potassium, the same atoms that are in salt and bananas. Your brain has about 86 billion neurons. Suzana Herculano-Houzel, a Brazilian scientist, helped count them. A honeybee has about one million neurons in a brain smaller than a sesame seed. In 2016, scientists found that bird brains pack neurons very tightly. A crow's small brain has about as many neurons in its thinking part as some monkeys have. So brain size alone does not tell you how clever an animal is.
 - e.g. Your brain uses about a fifth of all the energy your body uses, even while you sleep.
 - e.g. An elephant's brain is more than three times as heavy as yours.
 - e.g. A crow's brain is about the size of a walnut, but crows make tools.
 ### A mind with eight arms: the octopus · *idea*
-An octopus has about 500 million neurons. About two thirds of them are in its arms, not its head. Each arm can feel, taste and grab on its own. Our last shared ancestor with the octopus was a small worm-like animal, more than 500 million years ago. So clever minds may have grown up at least twice, on two very different branches of life. Peter Godfrey-Smith, a philosopher who dives with octopuses, wrote about this in his book Other Minds, in 2016. What it feels like to be an octopus, nobody knows.
+An octopus has about 500 million neurons. About two thirds of them are in its arms, not its head. Each arm can feel, taste and grab on its own. Our last shared ancestor with the octopus was a small worm-like animal, more than 500 million years ago. So clever minds came about at least twice, separately, on two very different branches of life. Peter Godfrey-Smith, a philosopher who dives with octopuses, wrote about this in his book Other Minds, in 2016. What it feels like to be an octopus, nobody knows.
 - e.g. Octopuses in aquariums have unscrewed jar lids to get crabs inside.
 - e.g. Some octopuses carry coconut shell halves and hide inside them.
-### Do animals feel? · *debated*
-We can test what animals do. It is much harder to test what they feel inside. This is one of the biggest open questions in science.
+### Animals feel · *debated*
+Animals feel. A dog shows joy with its whole body, and a hurt fish avoids the place where it was hurt. Many scientists agree, at least for mammals and birds. Others say we cannot yet test what an animal feels inside, so we should not be sure.
 - e.g. A dog greets you with its whole body wagging.
 - e.g. Elephants touch and smell the bones of dead elephants for a long time.
 - **Charles Darwin, in his book The Expression of the Emotions in Man and Animals, 1872:** Animals show fear, anger and joy with their faces and bodies, much as we do. So they probably feel them.
@@ -126,6 +126,10 @@ We can test what animals do. It is much harder to test what they feel inside. Th
 - Humans are not the only tool users. *How we know:* Jane Goodall saw chimpanzees fish for termites in 1960. Crows, vultures, otters and many others use tools too.
 - Many animals play. *How we know:* Play has been seen in mammals and birds, and there is evidence for it in octopuses and bumblebees.
 - Dogs follow human pointing and notice human faces. *How we know:* Pet dogs, and many untrained street dogs in India, go to the bowl a person points at in careful tests.
+
+## How we found out
+**Ludwig Edinger first, then Erich Jarvis, Anton Reiner and many others, and later Suzana Herculano-Houzel's team, who counted the neurons, Around 1900, then 2004 to 2016.** For about a hundred years, scientists thought birds were poor thinkers. Around 1900, a German brain scientist called Ludwig Edinger studied bird brains. He decided that most of a bird's forebrain matched a part of our brain thought to run instincts. The part we think with, the wrinkled outer layer called the cortex, seemed to be almost missing in birds. So for a long time, books said birds act mostly on instinct, and 'bird brain' became a word for a silly person. Then birds kept surprising scientists. In 2002, a crow called Betty bent a wire into a hook. Crows remembered faces, and jays remembered where and when they hid food. In the early 2000s, a group of scientists, including Erich Jarvis and Anton Reiner, looked at bird brains again. They found that most of a bird's forebrain does the same job as our cortex, only arranged in clumps instead of layers. So they gave its parts new names in 2004. In 2016, scientists counted the neurons. A crow's small forebrain held about as many as some monkeys have.  
+*What people believed before:* Birds have almost no thinking part in their brains, so they act mostly on instinct. A closer look showed that most of a bird's forebrain does the job of our cortex, and in 2016 neuron counts showed that crows pack in as many as some monkeys.
 
 ## Challenging perspectives
 - **Only humans make and use tools.** (Many people before 1960. Some books still say it.; *rejected*)  
@@ -150,21 +154,21 @@ We can test what animals do. It is much harder to test what they feel inside. Th
 ## Roots
 We have been learning that animals play, learn, remember and read faces. Now we ask what that tells us about minds, about ourselves and about the world.
 
-**Deep truth.** Minds are not only inside human heads. Learning, remembering and feeling run all through the animal world, in many different shapes.  
-*Habit it breaks:* We draw a line: humans think, and animals just follow instinct. We also call only minds like ours 'clever'. But a crow with a walnut-sized brain bends a hook, a horse reads faces better than the people watching it, and a bee rolls a ball for fun.  
-*Evidence:* In careful tests, crows made tools, rooks raised water with stones, dogs read happy and angry faces, and jays remembered where and when they hid food.
+**Deep truth.** In your glass, big stones raised the water fastest, and you could say why. Rooks given a tube of water also chose big stones, though they cannot tell us why. Nobody can see inside another mind, so we judge even a friend's mind by what they do. Judged the same way, the rook was thinking, just as you were.  
+*Habit it breaks:* We accept that a friend thinks because of what they do and say. For animals we often ask for much more proof. That uses one rule for people and a stricter one for every other animal.  
+*Evidence:* In 2009, Christopher Bird and Nathan Emery gave rooks a tube with a worm floating out of reach. The rooks dropped in stones until they could eat it, and they picked big stones first. In the thirsty crow test, you found the same thing: big sinking stones raise the water fastest.
 
-- *who am i:* You are one of many minds on Earth. A crow, a dog and you all learn and remember.
-- *what is life:* Living things notice, learn and remember. Minds grow out of life, in feathers, fur and eight arms.
-- *what is this world:* The world is full of minds watching it, each seeing it in its own way.
+- *who am i:* You are one of many minds on Earth. A crow, a dog and you all learn, remember and decide.
+- *what is life:* Living things notice, learn, remember and choose. Crows, dogs, octopuses and you all do this, with very different bodies.
+- *what is this world:* A crow, a dog and a bee notice different things in the same street. Each of them lives in its own version of the world.
 
-DeepKids believes one awareness shows up in many forms. A crow's mind, a dog's mind and your mind look very different from outside. Inside, all of them are tiny neurons passing tiny sparks, made of the same atoms from the same stars. Clever minds grew up separately in crows, octopuses and apes, as if life keeps finding its way to awareness. To DeepKids, that looks like the One becoming the many, and the many looking back at each other.
+A crow, a dog and you look very different from outside. Inside, your thinking and theirs runs on the same thing: neurons passing signals with the same sodium and potassium atoms. Thinking came about separately in crows, octopuses and apes, on branches of life that split long ago. Awareness runs through all of life, so it keeps showing up wherever life goes, in a bird, a dog or an eight-armed octopus.
 
-- **Bhagavad Gita 5.18:** The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on. (Dogs read our faces and elephants remember their friends. The Gita asks us to see the same worth looking out of every one of them.)
-- **Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river:** Zhuangzi and his friend Huizi stood on a bridge. Zhuangzi said, 'See how the fish swim about. That is their joy.' Huizi said, 'You are not a fish. How do you know what fish enjoy?' Zhuangzi said, 'You are not me. How do you know I don't know?' (This is the hardest question in this unit. We can test what animals do, but how can we know what they feel?)
+- **Bhagavad Gita 5.18:** The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on. (This unit shows that cows, elephants and dogs learn, remember and feel. The Gita asks us to give each of them the same respect we give a wise person.)
+- **Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river:** Zhuangzi and his friend Huizi stood on a bridge. Zhuangzi said, 'See how the fish swim about. That is their joy.' Huizi said, 'You are not a fish. How do you know what fish enjoy?' Zhuangzi said, 'You are not me. How do you know I don't know?' (Huizi could not see inside Zhuangzi's mind either, yet he argued with him as a mind. We know every other mind, a friend's or a fish's, from what it does.)
 - **Isha Upanishad, verse 6:** One who sees all beings in their own self, and their own self in all beings, does not hate anyone. (When we see that a crow learns and a dog feels, we start to see ourselves in them, and them in us.)
 - Science (settled): Many animals learn, remember, play and solve problems. This has been tested many times.
-- Science (open): Whether fish, octopuses and insects have feelings, and what it is like to be them, is still unknown.
+- Science (debated): Many scientists agree that mammals and birds very likely have feelings. For fish, octopuses, crabs and insects, many see a real chance, and the tests go on.
 - Other view, Many careful scientists, following Conwy Lloyd Morgan, and the philosopher Rene Descartes before them: We should not read human feelings into animals. A crow bending a hook may be following simple learned rules, with nothing it is like inside. Descartes went further and said animals feel nothing at all. Most scientists today disagree with Descartes, but many still warn against seeing a mind like ours in every animal. That is an honest and careful view.
 - Practice, Be a quiet watcher (3 min): Let's sit by the window, or near a pet, and be very still. Pick one animal, a crow, a pigeon, a dog or even an ant. Breathe in slowly, and out slowly. Just watch it for one minute without talking. Now imagine looking out through its eyes. What does it see? What might it want? Then come back to your own eyes, and breathe once more.
 - Ask: When you watched the animal, did it feel like someone was in there looking back?
@@ -174,7 +178,7 @@ DeepKids believes one awareness shows up in many forms. A crow's mind, a dog's m
 
 ## Deep and big questions
 - *big:* If you can never see inside another being's mind, how do you know your friend has feelings? (hint: What does your friend do that tells you how they feel?)
-- *deep:* Is a crow that makes a hook clever, even though it cannot read or count? (hint: Are there different ways to be clever? What is a crow clever at that you are not?)
+- *deep:* Is a crow that makes a hook clever, even though it cannot read? (hint: Are there different ways to be clever? What is a crow clever at that you are not?)
 - *big:* What is it like to be a bat that 'sees' with sound, or an octopus that tastes with its arms? (hint: Close your eyes. Tap a spoon and listen. Could you find the wall just by sound?)
 - *big:* If an animal can feel scared or happy, how should we treat it? (hint: Think of a street dog, a hen and a goat. Does it change how you would treat them?)
 - *deep:* Why do animals play, when play does not get them food? (hint: What do you learn when you play a game with friends?)
@@ -211,7 +215,7 @@ Pfungst turned the card round. It said seven. He wrote something in his notebook
 
 For days he tested. When the person asking knew the answer, Hans was almost always right. When the person asking did not know, Hans was almost always wrong. When Hans wore big blinkers and could not see the person's face, he was lost.
 
-'So he is a fraud,' said a man at the gate, and spat. 'A horse that cannot count.'
+'So he is a fraud,' said a man at the gate, and spat. 'A horse that cannot do sums.'
 
 Herr von Osten went grey. He stopped coming down to the yard. Lotte's father brushed Hans without humming. The crowds thinned to nobody. Lotte sat on an upturned bucket and stared at the horse, and the horse stared back.
 
@@ -225,7 +229,7 @@ Lotte stood up off her bucket.
 
 She thought of the crowd at the gate, leaning, holding their breath, then letting it out in a rush. She thought of Herr von Osten's eyebrows rising. She thought of her own stiff face on the day her friend went to Hamburg, and the warm nose pushing into her shoulder.
 
-Hans could not count. That was true. But he had been doing something else all along, something none of them had thought to test. He had been reading them. He had been watching hundreds of strangers' faces, every afternoon, and catching changes too small for the people themselves to notice. He knew when they were waiting. He knew when they were pleased. He knew when a girl was sad, and said nothing.
+Hans could not do sums. That was true. But he had been doing something else all along, something none of them had thought to test. He had been reading them. He had been watching hundreds of strangers' faces, every afternoon, and catching changes too small for the people themselves to notice. He knew when they were waiting. He knew when they were pleased. He knew when a girl was sad, and said nothing.
 
 'They are calling him stupid,' Lotte said to Pfungst. She was surprised to hear her own voice. 'But none of them could do what he does.'
 
@@ -272,7 +276,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   - Think: Which card surprised you most? Why did you believe the tall tales at first?
 - **s5 (2 min)**  
   *Parent does:* Count the tokens. Then ask your child for one claim, one piece of evidence and one reason.  
-  *Parent says:* Let's finish like scientists. Pick one true card. What does it show? What is the evidence? Why does that make it true?  
+  *Parent says:* Pick one true card. What does it show? What is the evidence? Why does that evidence make it true?  
   *Child mode:* Count your tokens! Then pick one true card. Say what it shows, and how we know.
   - Note: A good answer sounds like this. What I think: crows remember faces. Evidence: crows scolded the mask for years. Why: they must have kept the face in memory.
 ### g2 · Read My Face (15 min)
@@ -295,51 +299,51 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   - Ask: What part of the face tells you most? (good: The eyes.; The mouth, smiling or not.; The eyebrows.)
 - **s4 (2 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why.  
-  *Parent says:* Finish like a scientist. What do you think now about reading faces? What did you see in the game? Why do you think it happened?  
+  *Parent says:* What do you think now about reading faces? What did you see in the game? Why do you think it happened?  
   *Child mode:* Say three things. What I think. What I saw. Why.
   - Note: A good answer sounds like this. What I think: faces show feelings best. What I saw: we guessed almost every face, but body-only was hard. Why: eyes and mouths change most with feelings.
 
 ## Experiments
 ### e1 · The Thirsty Crow Test: what raises the water best? (25 min)
-- **question:** Which raises the water fastest: big stones, small pebbles or floating bottle caps?
-- **predict:** Before you start, guess. Which will need the fewest objects to raise the water to the line? Which will need the most?
+- **question:** Which raises the water to the line with the fewest pieces: big stones, small stones or bottle caps?
+- **predict:** Before you start, guess. Which will need the fewest pieces to raise the water to the line? Which will need the most? Why do you think so?
 - **fair test:** To make it fair, change only what you drop in. Use the same glass, fill it to the same starting line, and use the same top line each time. Drop things in one at a time.
-- **safety:** Wash the stones first. Small children must not put pebbles or chickpeas in their mouths. Wipe up spills so nobody slips.
+- **safety:** Wash the stones first. Small children must not put small stones or marbles in their mouths. Wipe up spills so nobody slips.
 - **record:** Fill in the table. Then draw a bar chart with one bar for each thing you dropped in.
 - **results table:** What we dropped in | Guess: how many to reach the line? | How many it really took | Did it ever reach the line?
 - **s1 (3 min)**  
-  *Parent does:* 1. Fill the glass halfway with water. 2. Put tape or a marker line about 2 cm below the top. 3. Mark the starting water level too. 4. Float the cork 'worm' on the water.  
-  *Parent says:* Remember the thirsty crow story? The crow dropped pebbles in a pot until it could drink. Let's be the crow. The cork is the worm. Our beak can only reach the top line.  
-  *Child mode:* Fill the glass halfway. Mark a line near the top. Float the cork. It is the crow's worm. Can you bring it up to the line?
-  - Note: Use a glass narrow enough that the water rises quickly. A tall steel tumbler works, but a clear one lets you see.
+  *Parent does:* 1. Fill the glass with water until it is about 4 cm below the top. 2. Put a strip of tape at the water level. This is the starting line. 3. Put a second strip 2 cm higher, about two finger-widths. This is the top line. 4. Float the thermocol 'worm' on the water.  
+  *Parent says:* Remember the thirsty crow story? The crow dropped pebbles in a pot until it could drink. Let's be the crow. The thermocol is the worm. Our beak can only reach the top line.  
+  *Child mode:* Fill the glass. Mark where the water is. Mark a line two fingers higher. Float the worm. Can you bring it up to the line?
+  - Note: Use a glass about 6 to 7 cm across. In a wider glass the water rises too slowly, and you will need many more stones. A steel tumbler works too, but a clear glass lets you see the water rise.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess how many of each thing they will need. Write the guesses in the table.  
-  *Parent says:* Which do you think will need the fewest: big stones, small pebbles or bottle caps? Let's write our guesses down first.  
-  *Child mode:* Guess first. How many big stones? How many pebbles? How many caps? Write your guesses.
+  *Parent says:* Which do you think will need the fewest: big stones, small stones or bottle caps? Why do you think so? Let's write our guesses down first.  
+  *Child mode:* Guess first. How many big stones? How many small stones? How many caps? Why?
   - Ask: Why do you think that one will be fastest? (good: Big stones take up more room.; Heavy things sink and push the water up.)
 - **s3 (8 min)**  
-  *Parent does:* Drop in big stones one at a time, counting, until the water reaches the line. Write the number. Empty the glass, refill to the starting line, and do the same with small pebbles. Then do it with bottle caps. Stop the caps at 20.  
+  *Parent does:* Drop in big stones one at a time, counting, until the worm reaches the top line. Write the number. Empty the glass, refill to the starting line, and do the same with small stones. Then do it with bottle caps. Stop the caps at 20.  
   *Parent says:* One stone at a time. Count out loud. Stop when the worm reaches the line. Now let's empty it and start again, so the test is fair.  
-  *Child mode:* Drop in one big stone at a time. Count. Stop at the line. Empty the glass. Fill it to the same start line. Now try pebbles. Then caps.
-  - Note: Bottle caps float, so they barely raise the water. This is the most surprising result for most children. Stones sink and take up space under the water, so the water has to go up.
+  *Child mode:* Drop in one big stone at a time. Count. Stop at the line. Empty the glass. Fill it to the start line. Now try small stones. Then caps.
+  - Note: With a glass about 6 cm across, it usually takes about 5 to 8 big stones and about 15 to 25 small ones. Bottle caps float, so they barely raise the water. This surprises most children. Stones sink and take up space under the water, so the water has to go up.
   - Check: In the thirsty crow test, why did the bottle caps hardly raise the water? → **They float, so they do not push much water out of the way**
 - **s4 (5 min)**  
   *Parent does:* Help your child draw a bar chart of the numbers, with one bar for each thing.  
-  *Parent says:* Let's turn our numbers into a picture. A short bar means it only took a few. Which bar is shortest?  
+  *Parent says:* Let's turn our numbers into a picture. A short bar means it only took a few. The caps never got there, so their bar goes right to the top. Which bar is shortest?  
   *Child mode:* Draw one bar for each thing. A short bar means it was quick. Which was quickest?
 - **s5 (3 min)**  
   *Parent does:* Tell your child what real rooks and crows did in this test.  
   *Parent says:* In 2009, Christopher Bird and Nathan Emery gave rooks a tube like this. The rooks dropped in stones to reach a floating worm. They chose the big stones first. Later, New Caledonian crows passed similar tests. They chose sinking things over floating ones, just as you found out.  
   *Child mode:* Real rooks did this test! They chose big stones first. Crows picked sinkers, not floaters. Did you?
-  - Think: The rooks had never seen this tube before. How did they work out what to do?
+  - Think: The rooks could not measure or talk it over. How do you think they worked out which stones to use?
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why.  
-  *Parent says:* Let's finish like real scientists. What do you think now? What did you see that shows it? And why did it happen?  
-  *Child mode:* Finish like a scientist. Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: big stones raise water fastest. What I saw: it took 6 big stones but 15 pebbles, and the caps never got there. Why: big sinking stones take up more room under the water, so the water has to go up.
+  *Parent says:* What do you think now? What did you see that shows it? And why did it happen?  
+  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: big stones raise water fastest. What I saw: it took 6 big stones but 15 small stones, and the caps never got there. Why: big sinking stones take up more room under the water, so the water has to go up.
 ### e2 · The Clever Hans Test: can you read a face? (20 min)
 - **question:** Can you find a hidden coin by watching the face of someone who knows where it is?
-- **predict:** Guess how many times out of 10 you will find the coin when your helper knows where it is. Then guess how many when your helper does not know.
+- **predict:** Guess how many times out of 10 you will find the coin when your helper knows where it is. Then guess how many when your helper does not know. Why do you think so?
 - **fair test:** Keep everything the same except one thing: whether your helper knows where the coin is. Use the same 3 cups, the same coin and 10 tries each round. Your helper must not speak or point.
 - **safety:** No safety worries. Keep the coin away from very small children.
 - **record:** Fill in the table. Draw two bars: one for 'helper knows' and one for 'helper does not know'.
@@ -364,12 +368,12 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Child mode:* Draw two bars. One for 'helper knows'. One for 'blind'. Which is taller?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why.  
-  *Parent says:* Finish like a scientist. What do you think? What did you see? Why did it happen? And why do scientists use blind tests when they test animals?  
-  *Child mode:* Say three things. What I think. What I saw. Why. Then: why do scientists use blind tests?
-  - Note: A good answer sounds like this. What I think: faces give away clues. What I saw: I got 8 right when you knew, and only 3 when you didn't. Why: your face changed a tiny bit at the right cup. Scientists use blind tests so an animal cannot get the answer from them by mistake.
+  *Parent says:* What do you think now? What did you see? Why did it happen? And why do scientists use blind tests when they test animals?  
+  *Child mode:* Say three things. What I think. What I saw. Why. Then say why scientists use blind tests.
+  - Note: A good answer sounds like this. What I think: faces give away clues. What I saw: I got 8 right when you knew, and only 3 when you didn't. Why: your face changed a tiny bit at the right cup. Scientists use blind tests so an animal cannot get the answer from them by mistake. If both scores were about the same, that is a real result too. It means your helper kept a very still face.
 ### e3 · The Pointing Test: does a dog follow your finger? (25 min)
 - **question:** Does a dog find a hidden treat more often when a person points at it?
-- **predict:** Guess how many times out of 10 the dog will pick the right bowl with pointing. Then guess without pointing.
+- **predict:** Guess how many times out of 10 the dog will pick the right bowl with pointing. Then guess without pointing. Why do you think so?
 - **fair test:** Change only one thing: pointing or no pointing. Use the same two bowls, the same spot and the same treat. Rub the treat on both bowls so the dog cannot just smell which one has it.
 - **safety:** Only use a pet dog, or a dog whose owner is there and says it is calm. Never test an unknown street dog. A grown-up holds the dog's collar between tries. Wash hands afterwards.
 - **record:** Fill in the table. Draw two bars: one for 'pointing' and one for 'no pointing'.
@@ -406,6 +410,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Parent does:* Watch animals for 10 minutes. Tally each sign you see.  
   *Parent says:* Let's sit very still. Every time you see a play sign, make a mark. Is it play, or is it a real fight? How can you tell?  
   *Child mode:* Sit still and watch. Make a mark for each play sign. Is it play or a real fight?
+  - Note: Squirrels chasing round a tree or along a wall, and puppies or kittens wrestling, are the easiest play to spot. If you see no play in 10 minutes, try again at another time of day, or play with your pet cat or dog and count its play signs.
   - Check: Two puppies are rolling and nipping, with loose wagging tails, and they keep swapping who is on top. What is it? → **Play**
 - **s3 (2 min)**  
   *Parent does:* Look at the tallies. Ask what your child thinks, what they saw, and why.  
@@ -470,12 +475,12 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **record:** Draw the line-up. Write the animal next to each object.
 - **s1 (4 min)**  
   *Parent does:* Line up the objects from smallest to biggest. Tell your child which brain each one is like.  
-  *Parent says:* A honeybee's brain is smaller than a sesame seed. A crow's is about the size of a walnut. A dog's is about the size of a lemon. Ours is about the size of a small cauliflower.  
+  *Parent says:* A honeybee's brain is smaller than a sesame seed. A crow's is about the size of a walnut. A dog's is about the size of a lemon. Ours weighs about as much as a medium cauliflower.  
   *Child mode:* Line them up, small to big. Bee is the sesame seed. Crow is the walnut. Dog is the lemon. You are the cauliflower.
-  - Note: These sizes are rough. A medium dog's brain is about the size of a lemon. A human brain weighs about 1.3 kg, about the weight of a small cauliflower.
+  - Note: These sizes are rough. A medium dog's brain is about the size of a lemon. A human brain weighs about 1.3 kg, about as much as a medium cauliflower.
 - **s2 (4 min)**  
   *Parent does:* Tell your child about neurons.  
-  *Parent says:* Brains are made of tiny messenger cells called neurons. In 2016, scientists counted neurons in bird brains. Crows pack their neurons very tightly. So a crow's walnut brain has about as many neurons in its thinking part as some monkeys. And a bee can learn colours, smells and even to pull a string, with about a million neurons.  
+  *Parent says:* Brains are made of tiny messenger cells called neurons. In 2016, scientists counted neurons in bird brains. Crows pack their neurons very tightly. So a crow's walnut brain has about as many neurons in its thinking part as some monkeys. And a bumblebee can learn colours, smells and even to pull a string, with about a million neurons.  
   *Child mode:* Brains are full of tiny cells called neurons. A crow's brain is small, but packed full. So it can be very clever.
   - Check: In the Brain Line-up, the crow's brain is like a walnut. Why can crows still make tools? → **Their small brains are packed tightly with neurons**
 - **s3 (2 min)**  
@@ -507,7 +512,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **record:** Write the minutes until the first crow each day. Note how many crows came, and whether any were waiting. Draw a line chart.
 - **schedule:** day 1: Put out the rice in your cap. Time how long until the first crow comes. Write it down. (10 min); day 2: Same place, same time, same cap. Time the first crow. (7 min); day 3: Same again. Are crows waiting nearby before you come out? (7 min); day 4: Same again. Write the time. (6 min); day 5: Same again. Write the time. (6 min); day 6: Same again. Write the time. (6 min); day 7: Same again. Then draw a line chart of all seven days. (8 min)
 - **s1 (10 min) · grown-up needed**  
-  *Parent does:* On day 1, wear the cap, put out the plate with a little rice, step back three big steps, and start the timer. Stop it when the first crow lands at the plate.  
+  *Parent does:* On day 1, wear the cap and put out the plate with a little rice. Step back three big steps and start the timer. Stop it when the first crow lands at the plate.  
   *Parent says:* Crows learn and remember faces. Let's see if they learn us. Every day we come at the same time, wearing the same cap. We time how long the first crow takes.  
   *Child mode:* Wear your cap. Put out the rice. Step back. Start the timer. Stop it when a crow comes.
   - Note: Many Indian families already feed crows. Keep the amount small. If no crow comes in 30 minutes, write '30 or more' and try again tomorrow.
@@ -532,7 +537,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 ### c1 · Hook It Like Betty (20 min)
 - **problem:** A tiny paper bucket with a sweet inside sits at the bottom of a tall bottle. Lift it out without tipping the bottle or putting your fingers in.
 - **your turn:** Now invent your own tool. Draw it, make it and test it. How many tries did it take?
-- **constraints:** You may not tip, shake or cut the bottle.; Your fingers must not go inside the bottle.; You may use only one straight pipe cleaner or a piece of soft garden wire.
+- **constraints:** You may not tip, shake or cut the bottle.; Your fingers must not go inside the bottle.; You may use only one straight pipe cleaner, or a long strip of kitchen foil rolled tight into a thin stick.
 - **general:** Bend the end of the pipe cleaner into a hook, and catch the bucket's handle.; Twist the end into a small loop to catch the handle.
 - **creative:** Bend a hook at both ends, so you can try again quickly if one misses.; New Caledonian crows also make hooks from twigs, by snapping a branch off just below a fork. Could you make a hook from a forked twig?; What if you could only use your mouth, like Betty? Try holding the pipe cleaner in a clothes peg instead of your fingers.
 - **s1 (5 min) · grown-up needed**  
@@ -598,7 +603,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    **Answer:** The Clark's nutcracker. *Why:* The Clark's nutcracker hides thousands of pine seeds in autumn and finds a lot of them in winter, using landmarks it remembers.
 11. (truefalse) Crows can remember a human face for years.  
    **Answer:** True. *Why:* In John Marzluff's study, crows scolded a 'dangerous' mask for years, and young crows learned it from older ones.
-12. (fill) The thirsty crow test: after 6 big stones the water reached the line. After 15 small pebbles it reached the line too. The big stones took ____ fewer objects.  
+12. (fill) The thirsty crow test: after 6 big stones the water reached the line. After 15 small stones it reached the line too. The big stones took ____ fewer objects.  
    **Answer:** ['9', 'nine']. *Why:* 15 take away 6 is 9. So the big stones took 9 fewer objects. You can check: 6 + 9 = 15.
 13. (draw) Draw a crow using a tool. Label the tool and what the crow wants to get.  
    **Answer:** A crow holding a twig or wire hook in its beak, reaching into a hole or tube, with a grub or food labelled.. *Why:* A tool is something outside the body used to help do a job.
@@ -608,7 +613,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 15. (write) Tell about one animal that plays. What does it do, and why do you think it plays?  
    **Answer:** Any true example, for example: puppies chase and wrestle; I think they are practising for real life and making friends.. *Why:* Scientists have several ideas about why animals play: practice, friendship, coping with surprises, and fun.
 16. (order) Put these in order, smallest brain to biggest: crow, honeybee, human, dog.  
-   **Answer:** order shown. *Why:* A bee brain is smaller than a sesame seed, a crow's is about a walnut, a dog's is about a lemon, and ours is about a small cauliflower. But size alone does not tell you how clever an animal is.
+   **Answer:** order shown. *Why:* A bee brain is smaller than a sesame seed, a crow's is about a walnut, a dog's is about a lemon, and ours weighs about as much as a medium cauliflower. But size alone does not tell you how clever an animal is.
 ### Testing Animal Minds (stretch) (stretch, 15 questions)
 1. (mcq) In the Clever Hans test, the guesser got 8 out of 10 when the helper knew, and 3 out of 10 when the helper did not know. What does this show?  
    Options: The guesser is magic / The helper's face gave clues without meaning to / 3 cups is too many / The coin was lucky  
@@ -647,7 +652,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 15. (order) Put the steps of the thirsty crow test in order.  
    **Answer:** order shown. *Why:* Set up first, then guess, then test, then record. Guessing first keeps you honest.
 ### Minds, Brains and Big Puzzles (challenge) (challenge, 15 questions)
-1. (mcq) Neurons pass signals using tiny charged bits of which everyday substances?  
+1. (mcq) Neurons pass signals using charged atoms of which substances?  
    Options: Sodium and potassium, like in salt and bananas / Iron and copper, like in wires / Sugar and flour  
    **Answer:** Sodium and potassium, like in salt and bananas. *Why:* Neuron signals are made by charged sodium and potassium atoms moving in and out of the cell. Picking 'iron and copper' comes from thinking of electric wires, but the brain's electricity is carried by salts in water.
 2. (fill) Your brain has about 86 ____ neurons.  
@@ -685,9 +690,9 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    **Answer:** Any honest open question, for example: what does it feel like to be a bee? Do fish feel happy?. *Why:* Science grows from good open questions.
 
 ## Videos
-- **Betty the New Caledonian crow bends a wire hook (Oxford, 2002)** (University of Oxford, Behavioural Ecology Research Group, or a science news channel, 2 min) id `B7GTkOHzHNk`: Shows the real crow making a hook, the moment the challenge Hook It Like Betty copies. *Check:* Found by YouTube search: "Watch a toolmaking crow bend a stick | Science News" by Science News. Title checked automatically; a parent may still preview it.
-- **Rooks solve the Aesop's fable test with stones** (A university or science news channel (Bird and Emery, 2009), 2 min) id `vt3HP4VWuH0`: Shows rooks dropping stones into a tube to raise a floating worm, as in the thirsty crow test. *Check:* Found by YouTube search: "The Crow and the Fox | Aesop's Fables | PINKFONG Story Time for Children" by Baby Shark - Pinkfong Kids’ Songs & Stories. Title checked automatically; a parent may still preview it.
-- **Jane Goodall on chimpanzees making tools** (Jane Goodall Institute or National Geographic, 4 min) id `rcL4jnGTL1U`: Jane Goodall tells how she first saw a chimpanzee fishing for termites in 1960. *Check:* Found by YouTube search: "First Look at Jane | National Geographic" by National Geographic. Title checked automatically; a parent may still preview it.
+- **A New Caledonian crow bends a stick into a hook** (Science News, 2 min) id `B7GTkOHzHNk`: Shows a real crow bending a stick into a hook tool, the same idea as the challenge Hook It Like Betty. *Check:* Title and channel checked with YouTube's oEmbed: "Watch a toolmaking crow bend a stick | Science News" by Science News. A parent may still preview it.
+- **A New Caledonian crow drops stones to raise water** (PLOS Media, 2 min) id `ZerUbHmuY04`: Shows a crow dropping stones into a tube of water to raise a floating treat, as in the thirsty crow test. *Check:* Title and channel checked with YouTube's oEmbed: "Causal understanding of water displacement by a crow" by PLOS Media, from Jelbert and others, PLoS ONE 2014. The old link was a cartoon. A parent may still preview it.
+- **Jane Goodall on chimpanzees making tools** (Jane Goodall Institute or National Geographic, 4 min) id `rcL4jnGTL1U`: Jane Goodall tells how she first saw a chimpanzee fishing for termites in 1960. *Check:* Title and channel checked with YouTube's oEmbed: "First Look at Jane | National Geographic" by National Geographic. Check that it shows the termite fishing before you play it.
 
 ## Quiz
 1. (mcq) What is learning?  
@@ -736,11 +741,11 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - Zoos give animals puzzle feeders so their minds stay busy and they stay healthy.
 - Farmers who understand animal feelings keep calmer, healthier cows and hens.
 - Scientists use blind tests, from the Clever Hans lesson, when testing medicines on people too.
-- Robot makers study crows and octopuses to build robots that solve problems.
+- Robot makers study octopus arms to build soft robot arms that can grip things gently.
 - Laws in India, like the Prevention of Cruelty to Animals Act, 1960, protect animals because they can suffer.
 - Doctors study animal memory to understand memory loss in people.
-- Wildlife workers use what elephants remember to plan safe corridors between forests.
-- Bird counting projects, like Bird Count India, depend on people learning to recognise bird behaviour.
+- Elephants follow old routes they remember, so wildlife workers protect those routes as safe corridors between forests.
+- Bird counts, like those run by Bird Count India, depend on people who watch birds carefully and know their habits.
 
 ## Spotted around us
 - Crows waiting on a wall at the same time each morning, when a family puts out rice.
@@ -797,7 +802,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - What do you call a crow that remembers everything? *A crow-nicle.*
 
 ## Connected maths
-- In the thirsty crow test, it took 6 big stones to raise the water to the line. It took 15 small pebbles. How many more pebbles than stones were needed? **9 more pebbles.**. 15 take away 6 is 9. So 9 more pebbles were needed. You can check: 6 + 9 = 15. (queues `math.addition-subtraction.mental-strategies.L3`)
+- In the thirsty crow test, it took 6 big stones to raise the water to the line. It took 15 small stones. How many more small stones than big stones were needed? **9 more small stones.**. 15 take away 6 is 9. So 9 more small stones were needed. You can check: 6 + 9 = 15. (queues `math.addition-subtraction.mental-strategies.L3`)
 - In the Clever Hans test, Asha got 8 right out of 10 when her helper knew, and 3 right out of 10 in the blind round. What fraction did she get right in each round? **8 out of 10, and 3 out of 10.**. In the first round, 8 out of 10 tries were right. That is 8 tenths. In the blind round, 3 out of 10 were right. That is 3 tenths. 3 tenths is about what lucky guessing gives with 3 cups. (queues `math.fractions.fractions-of-a-whole.L3`)
 - In the Crow Friends project, the first crow came after 22 minutes on day 1, and after 3 minutes on day 7. How much sooner did it come? **19 minutes sooner.**. 22 take away 3 is 19. So the crow came 19 minutes sooner on day 7. You can check: 3 + 19 = 22. (queues `math.time.duration.L3`)
 - In Be a Jay, Rohan hid 8 groundnuts. The next day he found 6. What fraction did he find? How many did he forget? **He found 6 out of 8, which is three quarters. He forgot 2.**. 8 take away 6 is 2, so he forgot 2. 6 out of 8 is the same as 3 out of 4, because 6 and 8 can both be halved. So he found three quarters. (queues `math.fractions.halves-and-quarters.L3`)
@@ -816,10 +821,7 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [IISER Kolkata](https://www.iiserkol.ac.in/) · interactive: The institute where Anindita Bhadra's team studies how street dogs understand people.
 
 ## Things to buy
-- [Tall clear plastic tumblers or a measuring cylinder](https://www.amazon.in/s?k=plastic+measuring+cylinder+school) (tool): Lets you see the water rise in the thirsty crow test. Used in e1. 
-- [Pipe cleaners (chenille stems)](https://www.amazon.in/s?k=pipe+cleaners+chenille+stems) (material): For bending hooks in Hook It Like Betty. Used in c1. 
-- [Dog training clicker](https://www.amazon.in/s?k=dog+training+clicker) (tool): Use it instead of clapping in the Training Game, and for kind reward training with a pet. Used in a3. 
-- [Snuffle mat or dog puzzle feeder](https://www.amazon.in/s?k=dog+puzzle+feeder+snuffle+mat) (game): A ready-made puzzle feeder to compare with the one you build. Used in c2. 
+- [Pipe cleaners (chenille stems)](https://www.amazon.in/s?k=pipe+cleaners+chenille+stems) (material): For bending hooks in Hook It Like Betty. Rolled kitchen foil works too. Used in c1. 
 - [Me...Jane, by Patrick McDonnell (picture book, 2011)](https://www.amazon.in/s?k=Me+Jane+Patrick+McDonnell) (book): The true story of Jane Goodall as a child who loved watching animals. Used in g1. Read it before or after the True or Tall Tale? game, as the story for a second day.
 - [Are We Smart Enough to Know How Smart Animals Are?, by Frans de Waal (2016), for parents](https://www.amazon.in/s?k=Are+We+Smart+Enough+to+Know+How+Smart+Animals+Are) (book): A readable book for parents on animal minds, from crows to apes. Used in e2. Parents can read a chapter while the child does the Clever Hans test, then share one surprising fact.
 

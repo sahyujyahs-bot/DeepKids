@@ -1,7 +1,7 @@
 # Heart, blood and breath: how oxygen reaches every part of you
 `sci.body.heart-blood-breath.L3`
 
-**Summary.** Put two fingers on your wrist and you can feel your heart at work. Your heart is a muscle about the size of your fist, and it squeezes more than a hundred thousand times a day. Each squeeze pushes blood through tubes all over your body, and the same blood keeps coming back to the heart. On the way, the blood passes through the lungs and picks up oxygen, a gas in the air that every part of you needs. It carries oxygen and food to every part of you, and carries waste away. When you run, your heart and your breathing speed up, because your muscles need more oxygen. Scientists still do not know why a human heart can hardly repair itself, or how much our heartbeat shapes our feelings.
+**Summary.** Put two fingers on your wrist and you can feel your heart at work. Your heart is a muscle about the size of your fist, and it squeezes more than a hundred thousand times a day. Each squeeze pushes blood round your body, through the lungs to pick up oxygen and out to every part of you, and the same blood keeps coming back. When you run, your heart and breathing speed up, because your muscles need more oxygen. Scientists still do not know why a human heart can hardly repair itself, or how much our heartbeat shapes our feelings.
 
 **Intro.** *Sit very still. Put your hand flat on the middle of your chest, a little to the left. Wait, and do not talk. Can you feel a beat under your hand? It started long before you were born, and it has never stopped. What is it doing?* About 400 years ago, an English doctor called William Harvey did a sum. He worked out roughly how much blood a heart pushes out with each beat. Then he counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. Where could all that blood come from? Where could it go? No body could make that much new blood so fast. So the same blood must go round and round, again and again. In this unit you will feel your heartbeat, count it and listen to it.
 
@@ -31,9 +31,9 @@
 - **Diaphragm**: A big dome-shaped muscle under your lungs. When it tightens, it flattens and moves down, and air flows into your lungs. *e.g.* Put your hand on your tummy and breathe in deeply. Your tummy pushes out because your diaphragm moves down.
 - **Oxygen**: A gas in the air, with no colour and no smell. Every part of your body needs it to get energy from food. *e.g.* Plants, and tiny living things in the sea called algae, put oxygen into the air.
 - **Carbon dioxide**: A gas that your body makes as waste when it uses food for energy. You breathe it out. Plants take it in. *e.g.* Blow through a straw into limewater, and the carbon dioxide in your breath turns it milky.
-- **Red blood cells**: Tiny round discs in blood that carry oxygen. They are what make blood red. A drop of blood holds millions of them. *e.g.* Red blood cells contain iron. That is one reason we need iron-rich foods like dal, green leafy vegetables and jaggery.
+- **Red blood cells**: Tiny round discs in blood that carry oxygen. They are what make blood red. A drop of blood holds millions of them. *e.g.* Red blood cells contain iron. That is one reason we need iron-rich foods like dal, rajma and green leafy vegetables like palak.
 - **Circulation**: The way blood goes round and round your body in a loop, pushed by the heart, and comes back to the heart. *e.g.* A drop of blood leaving your heart is back again in about one minute.
-- **Respiration**: What every tiny part of your body does with oxygen. It uses oxygen to break down food and get energy out. Carbon dioxide is left over. *e.g.* When you run, your leg muscles do a lot of respiration. So you breathe faster to get more oxygen.
+- **Respiration**: How the tiny living parts of your body, called cells, get energy. Each cell uses oxygen to break down food and release its energy. Carbon dioxide is left over. *e.g.* When you run, your leg muscles do a lot of respiration. So you breathe faster to get more oxygen.
 - **Stethoscope**: A tool doctors use to listen to the heart and lungs. It carries the tiny sounds through a tube to their ears. *e.g.* The first stethoscope, made in 1816, was a rolled-up tube of paper.
 - **Plasma**: The pale yellow watery part of blood. The blood cells float in it. It carries food, water and salts. *e.g.* When a hospital spins a tube of blood very fast, the red cells sink to the bottom and the yellow plasma stays on top.
 
@@ -41,17 +41,17 @@
 ### The heart is a pump · *defined*
 **Definition:** The heart is a hollow muscle that squeezes and relaxes again and again. Each squeeze pushes blood out into tubes that go all over the body.
 
-A pump is anything that pushes a liquid along. A hand pump at a village well is a pump. So is a squeezy bottle. Your heart is a pump made of muscle. It is hollow inside, like a small bag with thick walls. When the walls squeeze, blood is pushed out. When the walls relax, the heart fills up with blood again. Then it squeezes again. It never needs you to remember. It has been doing this since before you were born, and it rests only for a moment between beats.
-- e.g. Squeeze a water-filled balloon or a squeezy bottle. Water shoots out. That is a pump.
+A pump is anything that pushes a liquid along. A hand pump at a village well is a pump. So is a squeezy bottle. Your heart is a pump made of muscle. It is hollow inside, like a small bag with thick walls. When the walls squeeze, blood is pushed out. When the walls relax, the heart fills up with blood again. Then it squeezes again. You never need to remember to make it beat. It has been doing this since before you were born, and it rests only for a moment between beats.
+- e.g. Fill a plastic bottle with water, leave the cap off and squeeze it. Water shoots out. That is a pump.
 - e.g. A hand pump on a well pushes water up a pipe each time you press the handle.
-- e.g. Your heart is about the size of your fist. Make a fist and squeeze it tight, then open it. That is roughly what your heart does, about once every second.
+- e.g. Your heart is about the size of your fist. Make a fist and squeeze it tight, then open it. That is roughly what your heart does, a little faster than once a second.
 ### Blood goes round in two loops · *defined*
 **Definition:** Circulation is the way blood travels from the heart, round the body, and back to the heart, again and again. In people it goes round two loops, one through the lungs and one through the rest of the body.
 
 Your heart has four hollow spaces inside, called chambers. Two are on the right side and two are on the left. The top chambers, the atria, take in blood coming back to the heart. The bottom chambers, the ventricles, squeeze blood out. The right side pushes blood a short way, to the lungs. There the blood picks up oxygen and becomes bright red. Then it comes back to the left side of the heart. The left side pushes it out to the whole body: your brain, your toes, your fingertips. There the blood gives away some of its oxygen. The blood, now darker red, comes back to the right side of the heart, and goes to the lungs again. So the path is like a figure of eight, with the heart in the middle. While you sit still, a drop of blood goes all the way round in about one minute.
 - e.g. The left side of the heart has a thicker wall than the right. It must push blood all the way to your toes. The right side only pushes it next door, to the lungs.
 - e.g. Your heart is really two pumps side by side. The right pump sends blood to the lungs. The left pump sends it to the rest of the body. Both squeeze at the same moment.
-- e.g. If you laid all the blood vessels of a grown-up end to end, scientists guess they might stretch around 100,000 kilometres. That is more than twice round the Earth. Nobody has measured this exactly.
+- e.g. If you laid all the blood vessels of a grown-up end to end, they might stretch a very long way. A number often quoted is 100,000 kilometres, more than twice round the Earth. It is only a rough guess, and nobody has measured it.
 ### What blood is, and what it carries · *defined*
 **Definition:** Blood is a liquid made of watery plasma with trillions of tiny cells floating in it. It carries oxygen, food, water and warmth to every part of the body, and carries waste away.
 
@@ -90,7 +90,7 @@ Each time your heart squeezes, a push of blood rushes into your arteries. Arteri
 ### Why your heart and breath speed up when you run · *defined*
 **Definition:** When muscles work hard they need more oxygen and food, and they make more carbon dioxide. So the heart beats faster and harder, and you breathe faster and deeper.
 
-Sitting still, your muscles need only a little oxygen. When you run, your leg muscles are working very hard. They are burning food quickly, so they need much more oxygen. They also make a lot more carbon dioxide. Your brain senses that your muscles are working hard, and that carbon dioxide is building up in your blood. It sends messages to your heart to beat faster, and to your breathing muscles to work harder. After you stop, your heart and breath slowly come back down. A strong, fit heart pushes more blood with each beat. So it does not need to beat as fast. The same speeding up also happens when you feel scared or excited, even sitting still. Your body is getting ready to run, just in case.
+Sitting still, your muscles need only a little oxygen. When you run, your leg muscles are working very hard. They are using food quickly for energy, so they need much more oxygen. They also make a lot more carbon dioxide. Your brain senses that your muscles are working hard, and that carbon dioxide is building up in your blood. It sends messages to your heart to beat faster, and to your breathing muscles to work harder. After you stop, your heart and breath slowly come back down. A strong, fit heart pushes more blood with each beat. So it does not need to beat as fast. The same speeding up also happens when you feel scared or excited, even sitting still. Your body is getting ready to run, just in case.
 - e.g. After a race, your heart can beat about twice as fast as when you rest.
 - e.g. The feeling that makes you want to breathe after holding your breath comes mostly from carbon dioxide building up, not from running out of oxygen.
 - e.g. Before a test or a big match, your heart may thump even though you are sitting down. Your body is getting ready to act.
@@ -120,7 +120,7 @@ A mouse's heart beats about 500 times a minute. An elephant's heart beats about 
 - e.g. A hummingbird's heart can beat more than 1,000 times a minute while it flies.
 - e.g. In 2019, scientists stuck a sensor on a blue whale with suction cups. Deep under water, its heart beat only about 2 times a minute.
 - e.g. A newborn baby's heart beats about 120 to 160 times a minute. It slows down as the child grows.
-- **Many biologists who study animal size:** Small animals lose heat quickly, because they have a lot of skin for their size. So their cells must burn food fast to stay warm. Fast burning needs fast oxygen, so the heart beats fast. Big animals burn food slowly, so their hearts can be slow.
+- **Many biologists who study animal size:** Small animals lose heat quickly, because they have a lot of skin for their size. So their cells must use food fast to stay warm. Using food fast needs a lot of oxygen, so the heart beats fast. Big animals use food slowly, so their hearts can be slow.
 - **Some scientists, writing since the 1990s:** If you multiply heart rate by lifespan, many mammals end up with roughly a billion heartbeats in a life. A mouse spends them quickly, an elephant slowly. Maybe there is a kind of heartbeat budget.
 - **Other scientists:** The 'billion beats' pattern is rough, with many exceptions. Humans get two or three billion. Birds and bats live much longer than their heart speed suggests. A fit person's slower heart is healthier, but that does not mean each of us has a fixed number of beats. This idea is still argued about.
 ### Is the heart where feelings live? · *debated*
@@ -134,13 +134,13 @@ We say 'heartbroken', 'kind-hearted' and 'learn by heart'. For thousands of year
 
 ## Mostly agreed
 - The heart is a muscle pump that pushes blood round the body in a closed loop, and the same blood goes round again and again. *How we know:* William Harvey showed this in 1628. He tied cords around arms and watched veins swell on one side only. He also worked out that the heart pumps far more blood in an hour than a body could make. Today doctors can watch blood flow on ultrasound screens.
-- We breathe in oxygen, and we breathe out carbon dioxide and water. *How we know:* Breathed-out air turns limewater milky, which shows carbon dioxide. It fogs up a cold mirror, which shows water. Machines in hospitals measure the gases in every breath.
+- We take oxygen from the air we breathe in, and we breathe out carbon dioxide and water vapour. *How we know:* Breathed-out air turns limewater milky, which shows carbon dioxide. It fogs up a cold mirror, which shows water. Machines in hospitals measure the gases in every breath.
 - Oxygen passes into the blood in the lungs, and red blood cells carry it all over the body. *How we know:* Doctors clip a small light sensor on a fingertip to measure how much oxygen the blood is carrying. Blood from an artery is bright red. Blood from a vein is darker.
 - Every cell uses oxygen to get energy from food, and makes carbon dioxide as waste. *How we know:* Scientists can measure the oxygen used and carbon dioxide made by single cells in a laboratory. More work means more oxygen used, which is why we breathe harder when we run.
 - Exercise makes the heart and lungs stronger, and smoke and dirty air harm them. *How we know:* Many large studies, following thousands of people for many years, show that active people have healthier hearts. Studies in Indian cities link smoky, dusty air to more coughs, asthma and lung illness.
 
 ## How we found out
-**Galen, Ibn al-Nafis, William Harvey and Marcello Malpighi, About 1242 (Ibn al-Nafis), 1628 (Harvey's book) and 1661 (Malpighi's capillaries).** For about 1,400 years, doctors followed Galen, a Greek doctor in Rome. Galen taught that the liver makes new blood from food, and the body uses it up, like fuel. He also taught that blood seeps from the right side of the heart to the left through tiny holes in the wall between them. Around 1242, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes. Blood, he said, goes from the right side of the heart through the lungs and back to the left side. Europe did not know his book for centuries. In 1628 the English doctor William Harvey gave a different kind of proof. He worked out roughly how much blood one beat pushes out, and counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. No liver could make that much. He also tied a band round an arm and pressed along the veins. The blood in them moved only towards the heart. So the same blood must go round and round. Harvey could not see how blood got from arteries to veins. In 1661 Marcello Malpighi saw the answer under a microscope: tiny capillaries in a frog's lung.  
+**Galen, Ibn al-Nafis, William Harvey and Marcello Malpighi, About 1242 (Ibn al-Nafis), 1628 (Harvey's book) and 1661 (Malpighi's capillaries).** For about 1,400 years, doctors followed Galen, a Greek doctor in Rome. Galen taught that the liver makes new blood from food, and the body uses it up, like fuel. He also taught that blood seeps from the right side of the heart to the left through tiny holes in the wall between them. Around 1242, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes. Blood, he said, goes from the right side of the heart through the lungs and back to the left side. For centuries, hardly anyone in Europe knew his book. In 1628 the English doctor William Harvey gave a different kind of proof. He worked out roughly how much blood one beat pushes out, and counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. No liver could make that much. He also tied a band round an arm and pressed along the veins. The blood in them moved only towards the heart. So the same blood must go round and round. Harvey could not see how blood got from arteries to veins. In 1661 Marcello Malpighi saw the answer under a microscope: tiny capillaries in a frog's lung.  
 *What people believed before:* Galen taught that the liver makes blood fresh from food and the body uses it up, and that blood seeps through holes in the heart's middle wall. Ibn al-Nafis said the wall has no holes. Harvey's sum showed far too much blood passes through the heart for the liver to make, so it must go round.
 
 ## Challenging perspectives
@@ -149,12 +149,12 @@ We say 'heartbroken', 'kind-hearted' and 'learn by heart'. For thousands of year
   Against: William Harvey measured and counted. A heart pushes out more blood in an hour than the weight of a person. No liver could make that much. So the same blood must go round and round.
 - **Blood soaks from the right side of the heart to the left side through tiny invisible holes in the wall between them.** (Galen, and the doctors who followed him; *rejected*)  
   For: Blood does get from the right side to the left side somehow. The holes were too small to see, so nobody could prove they were not there.  
-  Against: About 780 years ago, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes at all. He said the blood must go from the right side of the heart to the lungs, pick up air, and come back to the left side. He was right, but his book was not known in Europe. It was found again only in 1924.
+  Against: About 780 years ago, Ibn al-Nafis, a doctor in Cairo, wrote that the wall has no holes at all. He said the blood must go from the right side of the heart to the lungs, pick up air, and come back to the left side. He was right, but his book was hardly known in Europe. It was found again only in 1924.
 - **The blood in your veins is blue, and turns red when it touches air.** (A very common idea today, even in some old school pictures; *rejected*)  
   For: Veins really do look blue through skin. Many diagrams colour them blue to show they carry blood low in oxygen.  
   Against: Blood taken from a vein in a sealed tube, with no air touching it, is dark red. Veins look blue only because of how skin scatters light. The blue in diagrams is a colour code, not the real colour.
 - **We suck air into our lungs.** (How most of us describe breathing; *rejected*)  
-  For: It feels like sucking. You pull your tummy and chest and the air comes in.  
+  For: It feels like sucking. You move your chest and tummy, and the air comes in.  
   Against: You do not pull the air. Your diaphragm moves down and your chest gets bigger. Then the air outside, which is always pressing on everything, pushes itself in to fill the space. That is why you cannot breathe on the Moon, where there is no air to push in.
 - **Each animal has a fixed number of heartbeats in its life, about a billion, so a slow heart means a long life.** (An idea several scientists have written about since the 1990s; *debated*)  
   For: When you multiply heart speed by lifespan, many mammals come out near a billion beats. Small fast-hearted animals often live short lives.  
@@ -166,22 +166,22 @@ We say 'heartbroken', 'kind-hearted' and 'learn by heart'. For thousands of year
 ## Roots
 We have felt the pulse, counted heartbeats and learned how blood goes round two loops. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** Each heartbeat pushes out about 8 teaspoons of blood. Count your beats for one minute, and that adds up to more than all your blood. So the same 2 litres must go round and round, again and again. A small amount of blood keeps you alive by never stopping.  
-*Habit it breaks:* We tend to think a body keeps going by using things up, the way a car uses up petrol. Galen taught that blood was made in the liver and used up like that. In fact blood drops off oxygen and food, comes back, and is used again. What keeps you alive is that it keeps moving.  
+**Deep truth.** Each beat of a child's heart pushes out about 40 millilitres of blood, about 8 teaspoons. In one minute, those beats add up to more than all the blood in your body. So the same 2 litres must go round and round, again and again. A small amount of blood keeps you alive because it never stops moving.  
+*Habit it breaks:* We tend to think the body uses up its blood, the way a car uses up petrol. Galen taught that blood was made in the liver and used up like that. In fact blood drops off oxygen and food, comes back, and is used again.  
 *Evidence:* In the jumping heart experiment you counted your heartbeats. A child's heart pushes out about 40 ml with each beat, so 90 beats push out about 3,600 ml. A child of 8 has only about 2,000 ml of blood. William Harvey made the same kind of sum in 1628.
 
 - *who am i:* You are trillions of cells. A cell in your brain and a cell in your toe are fed by the same blood, pushed by the same heart.
 - *what is life:* When you jumped, your body sensed that your muscles needed more oxygen, and your heart sped up without you deciding. Even one heart cell in a dish beats on its own.
 - *what is this world:* The oxygen in your blood was put into the air by plants and algae. The carbon dioxide you breathe out goes back to them.
 
-One heart and about 2 litres of blood keep trillions of cells alive. Every cell, from your brain to your toes, is fed by the same blood on the same loop. The heart itself is many cells acting as one: each heart cell can beat alone, and when heart cells touch, they beat together in time. So one moving loop of blood joins all the many parts of you into one living body.
+One heart and about 2 litres of blood keep trillions of cells alive. Every cell, from your brain to your toes, is fed by the same blood on the same loop. The heart itself is many cells beating as one. Each heart cell can beat alone, and when heart cells touch, they beat together in time. So one moving loop of blood joins all the many parts of you into one living body.
 
-- **Chandogya Upanishad 5.1:** The senses argued about which of them was the greatest. Speech left the body for a year, and the body lived on, unable to speak. The eye left, and the ear left, and the mind left, and still the body lived. Then breath began to leave, and all the others were pulled along with it, like pegs torn up by a horse. They agreed that breath was the greatest of them all. (Science finds the same order. If the heart stops and no oxygen reaches the brain, a person faints within seconds. Seeing, hearing and speaking all stop with it.)
+- **Chandogya Upanishad 5.1:** The senses argued about which of them was the greatest. Speech left the body for a year, and the body lived on, unable to speak. The eye left, and the ear left, and the mind left, and still the body lived. Then breath began to leave, and all the others were pulled along with it, like pegs torn up by a horse. They agreed that breath was the greatest of them all. (People live full lives without sight, hearing or speech. But if oxygen stops reaching the brain, a person faints within seconds. Every other part of the body needs the oxygen that breath brings in.)
 - **Kabir, Songs of Kabir, poem I, translated by Rabindranath Tagore (1915):** Kabir says the one people search for in temples and mosques is right beside them. He ends: God is the breath of all breath. (Your heartbeat and breath are always with you, though you rarely notice them. Kabir pointed to something just as close, not somewhere far away.)
 - **Thich Nhat Hanh, Being Peace (1987):** A Vietnamese Buddhist teacher taught a simple practice. Breathing in, I calm my body. Breathing out, I smile. Paying gentle attention to the breath brings us back to the present moment. (Slow breathing really does slow the heart a little. You can check it by counting your pulse before and after.)
 - Science (settled): In 1628 William Harvey showed that the heart pumps out far more blood than the body could ever make, so the same blood must go round. Doctors now watch this flow on ultrasound screens.
 - Science (settled): A single heart muscle cell, kept alive in a dish, beats by itself. When many such cells touch, they start beating together in time.
-- Other view, Many physiologists, the scientists who study how bodies work: The heart speeds up because of nerve signals and chemicals in the blood. It is an automatic response, like a machine set to run faster when the load goes up. To them, calling it sensing or answering adds nothing that the nerves and chemicals do not already explain.
+- Other view, Many physiologists, the scientists who study how bodies work: The heart speeds up because of nerve signals and chemicals in the blood. It is an automatic response, like a machine set to run faster when the load goes up. To them, saying the body senses what it needs adds nothing that the nerves and chemicals do not already explain.
 - Practice, Feel the loop (3 min): Sit still and put two fingers on your wrist. Find your pulse. Each tap is about 8 teaspoons of blood leaving your heart. Count ten taps quietly. Now breathe in slowly for 4 counts, and out slowly for 6 counts. Do it five times. Then find your pulse again. Think: the blood under my fingers will be back in my heart in less than a minute.
 - Ask: Your heart sped up when you jumped, though you never told it to. Who or what decided?
 - Ask: Your red blood cells are all new every four months. What stays the same about you?
@@ -293,7 +293,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 ### e1 · The Jumping Heart: does exercise change your pulse? (30 min)
 - **question:** Does jumping make my heart beat faster? And how quickly does it slow down again?
 - **predict:** Before you start, guess. How many times will your heart beat in one minute while you sit still? Will it go up or down after one minute of jumping? Why do you think so? Write your guesses down.
-- **fair test:** To make it fair, count the same way every time. Use the same fingers on the same wrist, and count for exactly 30 seconds with a clock. Sit still for 2 minutes before the first count, so your heart is really resting. Count each time 2 times, because one count can be a mistake.
+- **fair test:** To make it fair, count the same way every time. Use the same fingers on the same wrist, and count for exactly 30 seconds with a clock. Sit still for 2 minutes before the first count, so your heart is really resting. When resting, count 2 times, because one count can be a mistake. Just after jumping, count only once, because the heart starts slowing straight away.
 - **safety:** If your child has a heart condition or asthma, ask your doctor before the jumping part. Stop at once if anyone feels dizzy, sick or has chest pain. Jump on a mat, not a slippery floor.
 - **record:** Fill in the table. Then draw a bar chart, with one bar for each time you counted. Make each bar as tall as the beats in one minute.
 - **results table:** When we counted | Count 1: beats in 30 seconds | Count 2: beats in 30 seconds | Bigger of the two, doubled: beats in 1 minute
@@ -307,7 +307,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* 1. Ask your child to write down their guesses. 2. Sit still for 2 minutes. 3. Say 'Go' and count beats for exactly 30 seconds. 4. Write the number down. 5. Do it again for a second count.  
   *Parent says:* First, guess. Then we sit very still for two minutes, so your heart is resting. When I say go, count every tap until I say stop. That's 30 seconds.  
   *Child mode:* Guess first. Then sit still for two minutes. When the grown-up says go, count each tap. Stop when they say stop. Write the number down.
-  - Note: Children often lose count. That is why we count twice. If the two counts are very different, count a third time. To get beats in one minute, double the 30-second count. For example, 44 beats in 30 seconds means 88 beats in one minute.
+  - Note: Children often lose count. That is why we count twice. If the two counts are very different, count a third time. Use the bigger count, because a child who loses count usually misses taps rather than adding them. To get beats in one minute, double the 30-second count. For example, 44 beats in 30 seconds means 88 beats in one minute.
   - Check: You counted 45 beats in 30 seconds. How many beats is that in one whole minute? → **90**
 - **s3 (5 min)**  
   *Parent does:* 1. Your child does star jumps for 1 minute. 2. As soon as they stop, they sit and find their pulse. 3. Count for 30 seconds. 4. Write it down. Count only once here, because the heart slows down fast.  
@@ -328,30 +328,30 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: jumping makes my heart beat faster. What I saw: sitting still it was 88 beats a minute, after jumping it was 148, and after resting it went down to 102. Why: my muscles needed more oxygen to jump, so my heart pumped blood faster to bring it.
 ### e2 · The Milky Breath: is breathed-out air different? (25 min, 2 days)
 - **question:** Is the air I breathe out the same as the air in the room?
 - **predict:** Before you test, guess. Air goes into you and comes out again. Do you think it comes out the same, or changed? What might be different, and why do you think so?
 - **fair test:** To make it fair, use two glasses with the same amount of limewater. Push room air through one and breathed-out air through the other, for the same time. Only the kind of air changes.
-- **safety:** Only a grown-up handles the chuna. It can sting eyes and skin. Wash hands after touching it. Never drink limewater. When blowing through the straw, only blow out. Never suck up.
+- **safety:** Only a grown-up handles the chuna. It can sting eyes and skin, so never taste it. Wash hands after touching it. Never drink limewater. When blowing through the straw, only blow out. Never suck up.
 - **record:** Draw the two glasses after one minute. Write what was different. Then write what you think, what you saw, and why.
 - **results table:** Glass | What air went in | What it looked like after 1 minute
-- **schedule:** day 1: A grown-up makes the limewater and leaves it to settle overnight. Do the cold plate breath test. (10 min); day 2: Pour off the clear limewater. Push room air through one glass and blow your breath through the other. Compare. (15 min)
+- **schedule:** day 1: A grown-up makes the limewater and leaves it covered overnight to settle. Do the cold plate breath test. (10 min); day 2: Pour off the clear limewater. Push room air through one glass and blow your breath through the other. Compare. (15 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Take the steel plate out of the fridge. 2. Ask your child to breathe out slowly onto it from close up. 3. Look at the mist.  
   *Parent says:* Breathe out onto this cold plate. What do you see? What do you think that mist is?  
   *Child mode:* Breathe out onto the cold plate. Do you see a mist? What do you think it is?
   - Ask: Where did the water come from? (good: From inside me.; From my lungs.; From my breath.)
-  - Note: Let your child guess first. The mist is tiny drops of water from the breath, which turn to water on the cold steel.
+  - Note: Let your child guess first. Breath carries water as an invisible gas, called water vapour. On the cold steel it turns back into tiny drops of water. That is the mist.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up stirs half a teaspoon of chuna into a full jug of water. 2. Leave it overnight, without stirring.  
-  *Parent says:* Chuna is lime, the same paste used in paan. In water it makes limewater. Limewater has a trick. It turns milky when a gas called carbon dioxide bubbles through it.  
+  *Parent does:* 1. A grown-up stirs 1 teaspoon of chuna into a jug of about 1 litre of water. 2. Cover the jug with a plate, so room air does not reach it. 3. Leave it overnight, without stirring.  
+  *Parent says:* Chuna is lime, the same paste used in paan. Stirred into water, it makes limewater. Limewater turns milky when a gas called carbon dioxide bubbles through it.  
   *Child mode:* A grown-up stirs chuna into water. You leave it overnight. Tomorrow it will be clear, with white stuff at the bottom.
-  - Note: Chuna is slaked lime, which is calcium hydroxide. It is mildly caustic, so keep it away from eyes and wash your hands. Settled limewater looks like clear water. Only the clear top part is used.
+  - Note: Chuna is slaked lime, which is calcium hydroxide. It is mildly caustic, so keep it away from eyes and wash your hands. Settled limewater looks like clear water. Only the clear top part is used. If the water is still cloudy in the morning, pour it through a clean cotton cloth.
   - Wait: Leave it overnight to settle.
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* 1. Carefully pour the clear limewater off the top into two glasses, the same amount in each. 2. Put a straw in each. 3. Squeeze room air through the first straw with the squeezy bottle, 20 squeezes. 4. Your child blows gently through the second straw for about one minute, taking breaths in through the nose.  
+  *Parent does:* 1. Carefully pour the clear limewater off the top into two glasses, the same amount in each. 2. Push one straw into the mouth of the empty bottle and press a little atta dough round it, so no air leaks. 3. Put the end of that straw in the first glass and squeeze the bottle. Lift the straw out before you let go, so the bottle fills with room air, not limewater. Do this 20 times. 4. Your child blows gently through the second straw into the second glass for about one minute, taking breaths in through the nose.  
   *Parent says:* In this glass we push ordinary room air. In this glass you blow your breath out. Blow gently, only out, never suck. Watch both glasses.  
   *Child mode:* Watch the two glasses. The grown-up pushes room air into one. You blow gently into the other. Only blow out. Never suck.
   - Note: The breath glass usually turns milky within a minute. The room-air glass stays clear, or goes cloudy only very slowly, because room air has very little carbon dioxide. If your child keeps blowing for several minutes, the milky water can slowly turn clear again. That is normal, so stop once it is milky.
@@ -365,7 +365,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the air I breathe out is different from room air. What I saw: my breath turned limewater milky, but room air did not, and my breath fogged the cold plate. Why: my body uses oxygen and makes carbon dioxide and water, and I breathe them out.
 ### e3 · How Big Is One Breath? The upside-down bottle (35 min)
 - **question:** How much air do I push out in one ordinary breath? And in my biggest breath?
@@ -378,7 +378,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* 1. Stick a strip of tape down the side of the bottle. 2. Stand the bottle the normal way up. 3. Pour in 100 ml of water with the jug, and mark the level on the tape. 4. Repeat, 100 ml at a time, until the bottle is full.  
   *Parent says:* We're turning this bottle into a breath measurer. We'll mark a line for every 100 millilitres of water. Keep the bottle standing the normal way up while we mark it.  
   *Child mode:* Pour 100 ml of water in. Mark the water line on the tape. Do it again until the bottle is full.
-  - Note: Mark with the bottle standing the normal way up. Later, upside down in the bucket, the breath collects at that same end. So each mark shows how much air is in the bottle. Write 500, 1,000, 1,500 and 2,000 in big numbers. No measuring jug? Fill an empty 200 ml juice carton and mark every 200 ml instead.
+  - Note: Mark with the bottle standing the normal way up. Later, upside down in the bucket, the breath collects at that same end. So each mark shows how much air is in the bottle. Write 500, 1,000, 1,500 and 2,000 in big numbers. No measuring jug? Use a 200 ml steel tumbler, or fill an empty 200 ml juice carton and mark every 200 ml instead.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Fill the bottle to the top and screw on the cap. 2. Turn it upside down with the neck under the water in the bucket. 3. Unscrew the cap under the water. 4. Hold the bottle still and push the end of the tube into its neck.  
   *Parent says:* Now the tricky bit. Upside down, neck under water, take the cap off under the water. The water stays in! Air is pressing on the water in the bucket and holds it up.  
@@ -398,7 +398,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: one ordinary breath is quite small, but my lungs can hold much more. What I saw: my ordinary breath was 200 ml and my biggest was 1,500 ml. Why: my diaphragm and ribs can make my chest much bigger when I really try.
 
 ## Activities
@@ -430,7 +430,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - **safety:** Only a grown-up cuts the bottle. Cover the cut edge with tape, because it can be sharp.
 - **record:** Draw the bottle lung twice: once with the bottom pulled down, once pushed up. Label the lung, the windpipe and the diaphragm.
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts the bottom off the bottle and tapes the edge. 2. Push one balloon into the neck, with its mouth stretched over the top of the bottle. Hold it with a rubber band. 3. Tie a knot in the second balloon and cut off its round end. 4. Stretch the rest across the open bottom of the bottle, with the knot hanging down. Tape it.  
+  *Parent does:* 1. A grown-up cuts the bottom off the bottle and tapes the edge. 2. Push one balloon into the neck, with its mouth stretched over the top of the bottle. Hold it with a rubber band. 3. Tie a knot in the neck of the second balloon. Cut off the round top of the balloon, the end farthest from the knot. 4. Stretch the rest across the open bottom of the bottle, with the knot hanging down. Tape it.  
   *Parent says:* The bottle is your chest. The balloon inside is a lung. The neck is your windpipe. And this stretchy balloon at the bottom is your diaphragm, the muscle under your lungs.  
   *Child mode:* The bottle is your chest. The inside balloon is a lung. The bottom balloon is your breathing muscle. Help build it.
 - **s2 (6 min)**  
@@ -449,7 +449,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - **record:** Write how many squeezes you managed, and how your hand felt after one minute.
 - **s1 (5 min)**  
   *Parent does:* 1. Give your child the ball. 2. Watch the clock. 3. Say 'squeeze' once every second for one minute, while they squeeze hard each time.  
-  *Parent says:* Your heart squeezes about once a second, every second of your life. Let's see what that feels like. Squeeze hard each time I say squeeze.  
+  *Parent says:* Your heart squeezes a little faster than once a second, all day and all night. Let's see what that feels like. Squeeze hard each time I say squeeze.  
   *Child mode:* Squeeze the ball hard each time you hear 'squeeze'. Keep going for one minute. Like your heart!
   - Ask: How does your hand feel now? (good: Tired.; Achy.; Hot.; I want to stop.)
 - **s2 (5 min)**  
@@ -466,7 +466,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent says:* Watch the toothpick. Every little tick is your heart pushing blood into the artery under it.  
   *Child mode:* Rest your arm on the table, palm up. Put the dough ball on your pulse. Stand the toothpick in it. Keep still. Watch it tick!
   - Ask: Is the ticking steady, like a clock? (good: Yes, mostly.; It goes a bit faster sometimes.)
-  - Note: It may take a few tries to find the right spot. Move the dough a little if the toothpick does not tick.
+  - Note: It may take a few tries to find the right spot. Move the dough a little if the toothpick does not tick. A longer stick, like a broom straw, shows the tick more clearly.
 - **s2 (5 min)**  
   *Parent does:* 1. Count the ticks for 30 seconds. 2. Then ask your child to take a slow, deep breath in, and watch. 3. Then a long slow breath out.  
   *Parent says:* Count the ticks for 30 seconds. Now breathe in slowly and watch. Now breathe out slowly. Do the ticks change?  
@@ -495,9 +495,9 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - **safety:** Use uncooked beans only to look at, and do not eat them raw. Small children should not put beans in their nose or mouth.
 - **record:** Draw your jar and label the four parts of blood. Write one job for each.
 - **s1 (6 min)**  
-  *Parent does:* 1. Pour pale yellow water into the jar until it is about half full. 2. Add rajma until the beans fill nearly half of the jar. 3. Add one white chana. 4. Sprinkle in a pinch of til.  
+  *Parent does:* 1. Pour rajma into the jar until it is a little less than half full. 2. Add one white chana. 3. Sprinkle in a pinch of til. 4. Pour in the pale yellow water until the jar is nearly full.  
   *Parent says:* Blood looks like just a red liquid. But it's really a crowd of tiny things floating in a yellow liquid. Let's build it. The yellow water is plasma. The rajma are red blood cells. The single chana is a white blood cell. The til seeds are platelets.  
-  *Child mode:* Pour yellow water into the jar. That is plasma. Add lots of rajma. They are red blood cells. Add one chana. That is a white blood cell. Sprinkle a little til. They are platelets.
+  *Child mode:* Pour lots of rajma into the jar. They are red blood cells. Add one chana. That is a white blood cell. Sprinkle a little til. They are platelets. Pour in yellow water. That is plasma.
   - Note: In real blood, a little under half is red cells and a little over half is plasma. For every 600 to 700 red cells, there is about one white cell, so there is only one chana. There is about one platelet for every 20 red cells, so about 20 til seeds suit a cup of rajma.
 - **s2 (5 min)**  
   *Parent does:* Go through the job of each part.  
@@ -512,11 +512,11 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 
 ## Projects
 ### p1 · Our Family Heart Map (60 min, 3 days)
-- **safety:** Only count pulses of people who say yes. Grandparents and anyone with a heart condition should not do the stair part. Feel a pet's heartbeat only if the pet is calm and its owner says yes.
+- **safety:** Only count pulses of people who say yes. Grandparents and anyone with a heart condition should not do the stair part.
 - **record:** Make a table of each person's name, age, resting pulse, pulse after stairs, and breaths per minute. Then draw a bar chart poster.
 - **schedule:** day 1: Count the resting pulse and breaths per minute of everyone at home who agrees. Write their ages. (20 min); day 2: Count pulses again after climbing one floor of stairs or walking fast for 2 minutes, for those who can. Count a sleeping person's breaths. (15 min); day 3: Make a big bar chart poster of everyone's resting pulse. Look for a pattern with age. Share it at dinner. (25 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Make a table with columns: name, age, resting pulse, pulse after stairs, breaths per minute. 2. For each person who agrees, let them sit for 2 minutes. 3. Your child counts their pulse for 30 seconds and doubles it. 4. Then count their breaths for one minute by watching their chest. Don't tell them, because people breathe differently when they know they are watched.  
+  *Parent does:* 1. Make a table with columns: name, age, resting pulse, pulse after stairs, breaths per minute. 2. For each person who agrees, let them sit for 2 minutes. 3. Your child counts their pulse for 30 seconds and doubles it. 4. Then count their breaths for one minute by watching their chest. Do not tell them you are counting breaths, because people breathe differently when they know they are watched.  
   *Parent says:* You're going to be the family's heart doctor. Ask each person politely if you may count their pulse. Then sit them down for two minutes first.  
   *Child mode:* Ask each person if you may count their pulse. Let them sit for 2 minutes. Count for 30 seconds. Double it. Write it down.
   - Note: Typical resting pulses: a baby may be 100 to 160, a child 70 to 110, a grown-up 60 to 100. Very fit people can be lower. A breath is one rise and one fall of the chest.
@@ -539,7 +539,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - **problem:** Your heart is a pump with flap doors, so blood only goes one way. Your job is to move one cup of water from one bowl to another, using a pump you build, without tipping or pouring the bowls.
 - **your turn:** Now invent your own pump. Draw it, build it and test it. How many squeezes does it need to move one cup? Can you beat your first try?
 - **constraints:** You may not tip, lift or pour either bowl.; You may only use things you find at home.; The water must travel through a tube or bottle you squeeze, like a heart.
-- **general:** Squeeze the bottle, put its mouth under the water, and let go. Water is pushed in. Then lift it over the empty bowl and squeeze. That is how a heart fills and empties.; Use a dropper or a turkey baster, which work the same way, for small amounts.; Count how many squeezes it takes to move one cup. Your heart moves about a cup of blood in a few beats.
+- **general:** Squeeze the bottle, put its mouth under the water, and let go. Water is pushed in. Then lift it over the empty bowl and squeeze. That is how a heart fills and empties.; Use a medicine dropper or a medicine syringe without a needle. They work the same way, for small amounts.; Count how many squeezes it takes to move one cup. A child's heart pushes out about 40 ml with each beat, so it moves a cup of blood in about 6 beats.
 - **creative:** Make a flap door from a piece of balloon taped over the end of a straw, so water can go out but not back in. That is a valve, like in your heart.; Make a siphon: fill a tube with water, hold one end in the full bowl and let the other end hang lower into the empty bowl. Water flows by itself. This breaks the squeezing rule, but it shows another way to move water.; Squeeze a water balloon with a small hole in rhythm, about once a second, and see how far your 'heart' can push water.
 - **s1 (5 min)**  
   *Parent does:* Read out the problem and the rules. Ask your child to guess how many squeezes it will take.  
@@ -565,7 +565,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - **your turn:** Now design your own. Draw it, build it and score how clear the heartbeat sounds from 1 to 5. Which design wins?
 - **constraints:** Nothing may go inside the ear. The tube end rests at the opening only.; Use only things from home.; Test every design on the same person, sitting still, in the same quiet room.
 - **general:** A rolled-up paper tube, like the very first stethoscope made by René Laennec in 1816.; A funnel joined to a plastic tube.; A paper cup with a hole in the bottom, held with its open side on the chest.
-- **creative:** Use two tubes joined with a Y-shaped piece, so both ears can listen at once, like a real doctor's stethoscope.; Stretch a piece of balloon over the wide end of a funnel, like the flat disc on a real stethoscope.; Try a long garden hose. Does a longer tube make the sound louder or softer?
+- **creative:** Use two tubes joined with a Y-shaped piece, so both ears can listen at once, like a real doctor's stethoscope.; Stretch a piece of balloon over the wide end of a funnel, like the flat disc on a real stethoscope.; Try a much longer tube, such as an old washing-machine pipe, if you have one. Does a longer tube make the sound louder or softer?
 - **s1 (10 min)**  
   *Parent does:* Build three designs together: a paper tube, a funnel with a tube and a paper cup with a hole.  
   *Parent says:* Let's build three listening tools. Then we'll test which is best.  
@@ -606,7 +606,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    **Answer:** The thumb side of the inside of your wrist. *Why:* An artery runs close to the skin on the thumb side of the wrist, so you can feel it bulge with each heartbeat. Picking the elbow bone or the head usually means looking for the beat where something is hard. You need a soft place where an artery is near the skin.
 10. (mcq) Why should you feel your pulse with your fingers, not your thumb?  
    Options: Your thumb has its own pulse, which can confuse you / Thumbs are too short / Thumbs cannot feel anything  
-   **Answer:** Your thumb has its own pulse, which can confuse you. *Why:* Your thumb has an artery in it with its own pulse. You might count your own thumb's beat instead of the wrist's. Fingers have a weaker pulse at the tip, so they work better.
+   **Answer:** Your thumb has its own pulse, which can confuse you. *Why:* Your thumb has an artery in it with its own pulse. You might count your own thumb's beat instead of the wrist's. The pulse in your fingertips is too faint to feel, so fingers work better.
 11. (sort) Sort these. Do they make your heart beat FASTER or SLOWER?  
    **Answer:** running a race → Faster; sleeping → Slower; being scared by a loud bang → Faster; slow breathing in for 4, out for 6 → Slower; climbing stairs → Faster; sitting and reading → Slower. *Why:* Moving hard and feeling scared or excited speed the heart up. Rest, sleep and slow breathing slow it down.
 12. (mcq) In the jumping heart experiment, you counted 40 beats in 30 seconds while sitting still. How many is that in one minute?  
@@ -667,18 +667,18 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    Options: The same blood must go round again and again / The liver makes lots of blood / People drink a lot of water / Blood is very light  
    **Answer:** The same blood must go round again and again. *Why:* No body could make or eat that much blood every hour. So it must be the same blood, coming back to the heart over and over. Picking 'the liver makes lots' was Galen's old idea, which Harvey's sum showed could not be true.
 2. (mcq) Ibn al-Nafis described blood going through the lungs around 1242. Why did European doctors not learn about it for hundreds of years?  
-   Options: His book was in Arabic and was not known in Europe, until it was found again in 1924 / He was wrong / He kept it a secret / Nobody could read then  
-   **Answer:** His book was in Arabic and was not known in Europe, until it was found again in 1924. *Why:* His work was right, but it was written in Arabic and not widely read in Europe. It was found again in a library in 1924. Picking 'he was wrong' is not true. He was right, centuries early. Who is remembered depends on who could read your work.
+   Options: His book was in Arabic and was hardly known in Europe, until it was found again in 1924 / He was wrong / He kept it a secret / Nobody could read then  
+   **Answer:** His book was in Arabic and was hardly known in Europe, until it was found again in 1924. *Why:* His work was right, but it was written in Arabic and not widely read in Europe. It was found again in a library in 1924. Picking 'he was wrong' is not true. He was right, centuries early. Who is remembered depends on who could read your work.
 3. (mcq) A mouse's heart beats about 500 times a minute. An elephant's beats about 30 times. Which is the most likely reason?  
-   Options: Small animals lose heat fast, so their cells burn food fast and need oxygen fast / Mice are always scared / Elephants are lazy / Elephants have no heart  
-   **Answer:** Small animals lose heat fast, so their cells burn food fast and need oxygen fast. *Why:* Small bodies have lots of skin for their size and lose heat quickly. To stay warm, their cells must work fast, and that needs oxygen fast. So the heart beats fast. Picking 'mice are always scared' is a fun guess, but even calm mice have fast hearts.
+   Options: Small animals lose heat fast, so their cells use food fast and need oxygen fast / Mice are always scared / Elephants are lazy / Elephants have no heart  
+   **Answer:** Small animals lose heat fast, so their cells use food fast and need oxygen fast. *Why:* Small bodies have lots of skin for their size and lose heat quickly. To stay warm, their cells must work fast, and that needs oxygen fast. So the heart beats fast. Picking 'mice are always scared' is a fun guess, but even calm mice have fast hearts.
 4. (truefalse) When you hold your breath, the strong urge to breathe comes mostly from carbon dioxide building up in your blood.  
    **Answer:** True. *Why:* True. Your brain watches the carbon dioxide in your blood. When it builds up, the brain makes you want to breathe very strongly. Running low on oxygen matters less to this feeling.
 5. (truefalse) Plants only make oxygen and never use it.  
    **Answer:** False. *Why:* False. Plants respire day and night, using oxygen like us. In sunlight they also make much more oxygen than they use.
 6. (mcq) Every oxygen atom in your body was made inside a star, long before the Earth existed. What does this mean?  
-   Options: The stuff you breathe and are made of has come a very long way / You are hot like a star / Stars breathe / Oxygen is made only in your lungs  
-   **Answer:** The stuff you breathe and are made of has come a very long way. *Why:* Oxygen atoms were made inside stars and scattered when those stars died. Later they became part of Earth's air and water, and now part of you. Picking 'made only in your lungs' mixes up making oxygen with using it. Lungs only take it in.
+   Options: The atoms you breathe and are made of are older than the Earth / You are hot like a star / Stars breathe / Oxygen is made only in your lungs  
+   **Answer:** The atoms you breathe and are made of are older than the Earth. *Why:* Oxygen atoms were made inside stars and scattered when those stars died. Later they became part of Earth's air and water, and now part of you. Picking 'made only in your lungs' mixes up making oxygen with using it. Lungs only take it in.
 7. (mcq) A person gets a new heart from a donor. The nerves from the brain are not joined to the new heart. What happens?  
    Options: The new heart still beats, by its own pacemaker spark / The heart cannot beat / The person needs to think 'beat' every second / The brain grows a new nerve that same day  
    **Answer:** The new heart still beats, by its own pacemaker spark. *Why:* The heart makes its own beat with its pacemaker cells. Nerves only speed it up or slow it down. Picking 'needs to think beat' usually means thinking the brain controls every heartbeat.
@@ -752,7 +752,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    **Answer:** William Harvey. *Why:* William Harvey counted, measured and tested, and showed blood circulates. Galen believed blood was made and used up. Laennec invented the stethoscope much later, in 1816.
 14. (mcq) Ibn al-Nafis, a doctor in Cairo about 780 years ago, said something new. What was it?  
    Options: Blood goes from the heart to the lungs and back / The heart is where we think / Blood is blue / The lungs pump blood  
-   **Answer:** Blood goes from the heart to the lungs and back. *Why:* He said blood goes from the right side of the heart, through the lungs, to the left side. He was right, but his book was not known in Europe for centuries.
+   **Answer:** Blood goes from the heart to the lungs and back. *Why:* He said blood goes from the right side of the heart, through the lungs, to the left side. He was right, but his book was hardly known in Europe for centuries.
 15. (mcq) Why do your cells need oxygen?  
    Options: To get energy out of food / To make blood blue / To grow hair only / They don't need it  
    **Answer:** To get energy out of food. *Why:* Every cell joins oxygen with food to release energy. This is called respiration. Picking 'don't need it' is not true: without oxygen, most of our cells would stop working in minutes.
@@ -810,7 +810,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - Does your breathing change when you are angry? How?
 
 ## Jokes
-- Why did the heart go to school? *To get a little smarter about beats.*
+- Why did the heart go to school? *It wanted to learn something by heart.*
 - What did one lung say to the other? *We should stick together, we're a good pair.*
 - Why did the red blood cell never get lost? *It always went round in circles.*
 - What music does a heart like best? *Anything with a good beat.*
@@ -820,8 +820,8 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - Why did the diaphragm go to the party? *It wanted to take a breather.*
 - What did the heart say to the valve? *Don't let me down. And don't let me back!*
 - Why did the lungs win the singing contest? *They had the best air time.*
-- What do you call a heart that loves maths? *A heart that always counts beats.*
-- Why did the oxygen go to the lungs? *It heard the blood was looking for a lift.*
+- What did the heart say after the race? *I'm feeling really pumped!*
+- Why did the oxygen go to the lungs? *It heard the blood was giving free rides.*
 - Why did the pulse go to the wrist? *It wanted to be handy.*
 - What is a heart's favourite game? *Pump-and-seek.*
 - Why was the windpipe so organised? *It kept everything in rings.*
@@ -837,7 +837,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - Look at the bar chart from the jumping heart experiment. Sitting still, the heart beat 88 times a minute. Just after jumping, it beat 148 times a minute. How many more beats a minute was that? **60 more beats a minute.**. We take the smaller number away from the bigger one. 148 take away 88. First take away 80: 148 - 80 = 68. Then take away 8 more: 68 - 8 = 60. So jumping added 60 beats a minute. Check: 88 + 60 = 148. (queues `math.data.bar-charts.L3`)
 - In the upside-down bottle experiment, Kabir's ordinary breath out pushed out 250 ml of air. His biggest breath out pushed out 1,500 ml. How many ordinary breaths would fit into his biggest breath? **6 ordinary breaths.**. We want to know how many lots of 250 make 1,500. Count up: 250, 500, 750, 1,000, 1,250, 1,500. That is 6 jumps. So his biggest breath was 6 times his ordinary one. (queues `math.division.sharing-and-grouping.L3`)
 - A child's heart pushes out about 40 ml of blood with each beat. That is about 8 teaspoons. A child has about 2,000 ml of blood in all. How many heartbeats does it take to push out 2,000 ml? **50 heartbeats, which is less than one minute.**. 10 beats push out 10 lots of 40 ml. That is 400 ml. 2,000 ml is 5 lots of 400 ml. So it takes 5 lots of 10 beats. That is 50 beats. A child's heart beats about 90 times a minute, so 50 beats takes well under a minute. This is the kind of sum William Harvey did. The heart pushes out all your blood in less than a minute. So the same blood must go round and round. (queues `math.multiplication.multiplication-facts.L3`)
-- In the squeeze like a heart activity, you squeezed a ball about 100 times in one minute, like a fast child's heart. How many squeezes would that be in one hour? **6,000 squeezes in one hour.**. There are 60 minutes in an hour. Each minute has 100 squeezes. 60 lots of 100 is 6,000. A child's heart beats about this many times every hour, day and night. In one day that is more than 100,000 beats. (queues `math.number-sense.place-value.L3`)
+- In the squeeze like a heart activity, you squeezed a ball 60 times in one minute. A child's heart beats faster, about 100 times a minute. How many heartbeats is that in one hour? **About 6,000 heartbeats in one hour.**. There are 60 minutes in an hour. Each minute has about 100 heartbeats. 60 lots of 100 is 6,000. So a child's heart beats about 6,000 times every hour, day and night. In one day that is more than 100,000 beats. (queues `math.number-sense.place-value.L3`)
 
 ## Song
 This Body Is a Universe (sci.body.L3): Topic-level song
@@ -857,11 +857,10 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 
 ## Things to buy
 - [A simple digital stopwatch](https://www.amazon.in/s?k=digital+stopwatch) (tool): For counting pulses and breaths for exactly 30 seconds or one minute. A phone works too. Used in e1, a3, a5, p1. Used again in Time units and in Forces L3 for timing.
-- [Clear plastic tubing, about 1 metre, 6 to 10 mm wide](https://www.amazon.in/s?k=clear+pvc+tube+8mm) (material): For the funnel stethoscope, the stethoscope challenge and the upside-down bottle breath test. Used in a1, c2, e3. 
+- [Clear plastic tubing, about 2 metres, 6 to 10 mm wide, sold at hardware and aquarium shops](https://www.amazon.in/s?k=clear+pvc+tube+8mm) (material): Cut into pieces of about 50 cm. For the funnel stethoscope, the stethoscope challenge and the upside-down bottle breath test. Used in a1, c2, e3. 
 - [A packet of balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the bottle lung model and for valve flaps in the one-way pump challenge. Used in a2, c1. 
 - [A 1-litre measuring jug with millilitre marks](https://www.amazon.in/s?k=measuring+jug+1+litre) (tool): For marking the bottle in the breath test, every 100 ml. Used in e3. Used again in capacity units in maths.
 - [A real stethoscope for children](https://www.amazon.in/s?k=stethoscope+for+kids) (tool): Hearing a heartbeat clearly through a real stethoscope is a thrill, and lets you compare it with your home-made ones. Used in a1, c2. 
-- [A model of the human heart, or a torso model with removable organs](https://www.amazon.in/s?k=human+heart+model+for+kids) (tool): Lets your child hold the heart, open its four chambers and see where it sits between the lungs. Used in g1. Used again in Organs inside L3 and L4.
 - [Hear Your Heart, by Paul Showers (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Hear+Your+Heart+Paul+Showers) (book): A gentle picture book on the heartbeat, the pulse and listening with a tube. Used in a1. Read it aloud on the day of the stethoscope activity.
 - [The Heart: Our Circulatory System, by Seymour Simon](https://www.amazon.in/s?k=Seymour+Simon+The+Heart) (book): Big, real photographs of the heart and blood, with clear text for curious older children. Used in g1. Read a few pages after playing The Great Circle, to see real pictures of what the game shows.
 
