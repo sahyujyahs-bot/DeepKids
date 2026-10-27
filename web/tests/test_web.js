@@ -18,7 +18,9 @@ const server = http.createServer((req, res) => { let p = decodeURIComponent(req.
   const p = await ctx.newPage(); const errs = []; p.on('pageerror', e => errs.push(e.message));
   await p.goto('http://localhost:8788/'); await p.waitForTimeout(1500);
   console.log('1. platform:', await p.evaluate(() => window.DK_PLATFORM?.name), '| app loaded:', await p.evaluate(() => typeof render === 'function'), '| DATA items:', await p.evaluate(() => DATA.items.length));
-  await p.fill('#lgPhone', '81234 56789'); await p.fill('#lgName', 'Sahyujyah'); await p.click('[data-act="login"]'); await p.waitForTimeout(800);
+  // Google is the only sign-in: the family's account opens straight away, with no phone log-in
+  await p.waitForSelector('#obName', { timeout: 5000 });
+  console.log('1b. phone log-in shown:', !!(await p.$('#lgPhone')), '| account:', await p.evaluate(() => ACC));
   await p.fill('#obName', 'Liri'); await p.click('[data-age="8"]'); await p.click('[data-ob="next"]'); await p.click('[data-obtrack="board"]');
   for (let i = 0; i < 8; i++) { await p.evaluate(() => { for (let j = 0; j < 12; j++) { const c = [...document.querySelectorAll('[data-oblvl$=":3"]')].find(x => x.getAttribute('aria-pressed') !== 'true'); if (!c) break; c.click() } }); const n = await p.$('[data-ob="next"]'); if (!n) break; await n.click(); await p.waitForTimeout(150) }
   await p.evaluate(() => { S.guide = { on: false }; ui.guide = null; document.getElementById("guide")?.remove(); }); // walkthrough off: guide.js tests it
@@ -31,7 +33,7 @@ const server = http.createServer((req, res) => { let p = decodeURIComponent(req.
   const after = await p.evaluate(() => ({ setup: S.setup, child: S.child, acct: S.acct, login: !!document.querySelector('#lgPhone') }));
   console.log('3. after reload (browser storage wiped):', JSON.stringify(after));
   // planner chat goes to our server function
-  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.click('[data-act="seg"][data-v="family"]'); await p.waitForTimeout(300); await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400);
+  await p.click('#nav button:has-text("Plan")'); await p.waitForTimeout(300); await p.click('[data-act="seg"][data-v="cal"]'); await p.waitForTimeout(300); await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400);
   console.log('3b. AI notice shown:', await p.locator('.dk-ai').count(), '| calls before consent:', claudeCalls.length);
   await p.click('.dk-ai [data-v="0"]'); await p.waitForTimeout(400); console.log('3c. after Not now, calls:', claudeCalls.length);
   await p.fill('#dumpText', 'Swimming Tue and Thu 5 to 6 pm'); await p.click('.composer .send'); await p.waitForTimeout(400); await p.click('.dk-ai [data-v="1"]'); await p.waitForTimeout(800);

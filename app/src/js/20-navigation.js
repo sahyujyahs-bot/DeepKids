@@ -302,7 +302,9 @@ function renderMain() {
     document.getElementById("snd").hidden = true;
     document.getElementById("hello").innerHTML =
       `${youBlob("bl bob")}<div><b>Welcome</b><span>DeepKids home planner</span></div>`;
-    m.replaceChildren(el(`<div class="wrap">${loginView()}</div>`));
+    m.replaceChildren(
+      el(`<div class="wrap">${googleFamily() ? `<p class="note">Opening your family…</p>` : loginView()}</div>`),
+    );
     if (sheet.open) sheet.close();
     return;
   }

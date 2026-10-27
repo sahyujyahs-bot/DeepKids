@@ -271,6 +271,13 @@ function onAct(e) {
     }
     case "logout": {
       sheet.close();
+      // on the website, logging out signs out of Google; the family's plan stays with their Google account
+      if (window.DK_PLATFORM?.signOut) {
+        writeNow()
+          .catch(() => {})
+          .then(() => window.DK_PLATFORM.signOut());
+        break;
+      }
       logout().then(() => {
         ui.saved = null;
         toast("Logged out");

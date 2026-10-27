@@ -31,8 +31,9 @@ function combinedTopicList() {
       })
       .join("")}</div></span></div></div>`;
   };
-  return `<p class="xs muted">The Combined science ladder: every topic any board teaches in Class ${lv}, once, at the earliest class, deeper each year. ${L.filter((e) => e.k).length} of ${L.length} written in full on the DeepKids track; the others link to the board chapters used for now.</p>
-   <div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>${L.map(row).join("")}`;
+  return `<div class="sech"><h3 style="font-size:18px">Lessons by class</h3></div>
+   <div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>
+   <p class="xs muted">Every science topic any board teaches in Class ${lv}. ${L.filter((e) => e.k).length} of ${L.length} have a DeepKids lesson; the others use the board's chapters for now.</p>${L.map(row).join("")}`;
 }
 // DeepKids track in the Library: per subject, the written units and topic ladder, and the DeepKids topics
 function dkTrackBrowse() {
@@ -58,9 +59,10 @@ function combinedBrowse() {
   const U = Object.values(DATA.units || {}).sort((a, b) => a.order - b.order),
     byTopic = Object.entries(U.reduce((g, x) => ((g[x.topic] = g[x.topic] || []).push(x), g), {}));
   return (
+    combinedTopicList() +
     (U.length
-      ? `<section class="card fxnew"><span class="eyebrow">DeepKids units · ${U.length}</span><p class="sm">Every unit, open to every family. Add any of them to your plan, alongside your class plan. They are written for Class 3; younger children can do them with more help from you.</p>${byTopic.map(([t, L]) => `<details class="fxgrp"><summary><b>${esc(t)}</b> <span class="pill">${L.length}</span></summary>${fxUnitBtns(L)}</details>`).join("")}${fxSongBtns()}</section>`
-      : "") + combinedTopicList()
+      ? `<section class="card fxnew"><span class="eyebrow">All DeepKids units · ${U.length} · written for Class 3</span><p class="sm">Open to every family, whatever your class. Add any of them to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${byTopic.map(([t, L]) => `<details class="fxgrp"><summary><b>${esc(t)}</b> <span class="pill">${L.length}</span></summary>${fxUnitBtns(L)}</details>`).join("")}${fxSongBtns()}</section>`
+      : "")
   );
 }
 const LSUBJ = {

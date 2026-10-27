@@ -12,8 +12,27 @@ function loginView() {
    <p class="sm" id="lgErr" style="color:var(--bad)" ${ui.lgErr ? "" : "hidden"}>${esc(ui.lgErr || "")}</p>
    <button class="btn" data-act="login" ${ui.lgBusy ? "disabled" : ""}>${ui.lgBusy ? "Logging in…" : "Log in"}${icon("next")}</button></div>`;
 }
+// On the website, Google is the sign-in: a family's first visit opens an account tied to their Google account,
+// so there is no second, phone-number log-in. Returns true while that account is opening.
+function googleFamily() {
+  const g = window.DK_PLATFORM?.user?.();
+  if (!g) return false;
+  if (!ui.lgBusy) {
+    ui.lgBusy = true;
+    openAccount("g" + g.id, (g.user_metadata?.full_name || g.user_metadata?.name || "").split(" ")[0]).then(() => {
+      ui.lgBusy = false;
+      tab = "today";
+      render();
+    });
+  }
+  return true;
+}
 function accountCard() {
-  const ph = ACC ? "+91 " + ACC.slice(2, 7) + " " + ACC.slice(7) : "";
+  const ph = !ACC
+    ? ""
+    : /^91\d{10}$/.test(ACC)
+      ? "+91 " + ACC.slice(2, 7) + " " + ACC.slice(7)
+      : window.DK_PLATFORM?.user?.()?.email || "";
   const d = ui.saved;
   return `<section class="card"><div class="sech"><span><span class="eyebrow">Logged in</span><br><b style="font:600 17px var(--display)">${esc(ph)}</b></span><button class="btn soft sm" data-act="logout">Log out</button></div>
    <button class="btn line sm" data-act="checksaved" style="justify-self:start">${ui.savedBusy ? "Reading…" : "Check what's saved"}</button>
