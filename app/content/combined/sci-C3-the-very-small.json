@@ -1,0 +1,1319 @@
+{
+ "key": "combined|sci|3|the-very-small",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "the-very-small",
+ "title": "The very small: what is inside an atom",
+ "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (Grade 3 grid: atoms join into molecules, protons, neutrons and electrons, charge, quantum chance, and a first look at antimatter). No board teaches it at this class, so there are no board subtopics to cover. No textbook needed.",
+ "summary": "Cut a strip of paper in half 8 times and the scissors stop. To reach a piece one atom wide, you would need about 31 cuts. Your child finds out that about 90 kinds of atom join into molecules to make everything, and that each atom has a tiny, heavy nucleus of protons and neutrons with electrons around it. They find a hidden object by rolling marbles, the way scientists found the nucleus, and learn that an atom is almost all empty space. They see that electrons have no tracks, only clouds of chance, and that salt turns a flame one exact yellow. Last, they meet antimatter, the opposite twin of matter, and the open question of why anything is left at all.",
+ "builds_on": "Classes 1 and 2 sorted materials, and found that solids, liquids and gases behave differently. This is the first rung of the very small. Class 4 (Matter and particles) uses particles to explain solids, liquids and gases, diffusion, Brownian motion and density. Class 5 goes on to fields, quarks, entanglement and the open arguments of quantum physics.",
+ "subconcepts": [
+  "everything you can touch is made of atoms",
+  "how small an atom is: about 31 halvings of a paper strip",
+  "elements: about 90 kinds of atom found in nature",
+  "molecules: atoms joined together, such as water",
+  "inside the atom: nucleus, protons, neutrons and electrons",
+  "electric charge: plus and minus attract, the same charges repel",
+  "an atom is almost all empty space (the gold foil experiment)",
+  "why things feel solid: electrons repel electrons",
+  "electron clouds: chances, not tracks",
+  "energy levels: atoms give out light of exact colours",
+  "an observer in physics is anything that measures",
+  "antimatter: every particle has an opposite twin",
+  "annihilation: a particle and its antiparticle vanish into light",
+  "how we know atoms are real without seeing them",
+  "quarks, and whether there is a smallest thing"
+ ],
+ "goals": [
+  "By the end your child can say that everything they can touch is made of atoms, and show how small atoms are with the paper-cutting test.",
+  "By the end your child can name the parts of an atom and say which have a plus charge, a minus charge or none.",
+  "By the end your child can explain, using the hidden-centre test, how scientists found that an atom is almost all empty space.",
+  "By the end your child can explain why electrons are drawn as clouds, and what 'observer' means in physics.",
+  "By the end your child can say what antimatter is and what happens when it meets matter.",
+  "By the end your child can name at least two questions about the very small that nobody can answer yet."
+ ],
+ "words": [
+  [
+   "atom",
+   "the tiny particle that everything you can touch is built from. About 5 million in a row make 1 millimetre."
+  ],
+  [
+   "element",
+   "a substance made of only one kind of atom, such as gold, iron or oxygen"
+  ],
+  [
+   "molecule",
+   "two or more atoms joined together. A water molecule is two hydrogen atoms and one oxygen atom."
+  ],
+  [
+   "nucleus",
+   "the tiny, heavy centre of an atom, made of protons and neutrons"
+  ],
+  [
+   "proton",
+   "a particle in the nucleus with a plus charge. Its number decides which element an atom is."
+  ],
+  [
+   "neutron",
+   "a particle in the nucleus with no charge"
+  ],
+  [
+   "electron",
+   "a very light particle with a minus charge, found around the nucleus"
+  ],
+  [
+   "electric charge",
+   "a property that makes particles attract (pull together) or repel (push apart)"
+  ],
+  [
+   "electron cloud",
+   "a picture of where an electron is likely to be found: thick where it is often found, thin where it is rarely found"
+  ],
+  [
+   "energy level",
+   "one of the fixed amounts of energy an electron in an atom can have, like the steps of a staircase"
+  ],
+  [
+   "antimatter",
+   "particles that are opposite twins of ordinary particles. The positron is the opposite twin of the electron."
+  ],
+  [
+   "quark",
+   "an even smaller particle. Protons and neutrons are each made of three."
+  ]
+ ],
+ "day_mins": 40,
+ "days": [
+  {
+   "n": 1,
+   "title": "How small can you cut?",
+   "goal": "Find out that paper is made of particles far too small to cut, and meet the two old thinkers who guessed it.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What is it made of?",
+     "mins": 5,
+     "do": "Put a steel tumbler, a glass of water and a blown-up balloon on the table. Ask: 'In earlier classes you sorted things into solids, liquids and gases. Which is which?' (Tumbler solid, water liquid, the air in the balloon gas.) Ask: 'They look nothing alike. Could they be made of the same tiny pieces?' Let your child guess and give a reason. Don't answer yet."
+    },
+    {
+     "kind": "exp",
+     "title": "Cut it in half, again and again",
+     "mins": 22,
+     "do": "Do Experiment e1. Before the first cut, ask: 'How many times can we cut this strip in half? Why do you think so?' Write the guess down. When the scissors stop, ask: 'Is the last sliver still paper?' (Yes. Under the magnifier you can see its threads.) Say: 'To make a piece just one atom wide, you would need about 31 cuts. We stopped at about 8.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Kanada and Democritus",
+     "mins": 8,
+     "do": "Use voice v1. Say: 'Long ago, a thinker in India called Kanada said everything is made of tiny particles, too small to see. He called them paramanu. In Greece, Democritus had the same idea. He called them atoms. Neither had a microscope.' Ask: 'How could someone know about atoms just by thinking?' Then ask the voice's question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "think",
+     "title": "When does paper stop being paper?",
+     "mins": 5,
+     "do": "Say: 'Paper is made of atoms of carbon, hydrogen and oxygen. Sugar is made of the same three kinds.' Ask: 'If you could keep cutting, would the last piece still be paper?' Good answer: 'No. At the end you would have single atoms, and one carbon atom is not paper.' Write the answer in the science notebook."
+    }
+   ],
+   "need": [
+    "a strip of paper 24 cm long and 2 cm wide",
+    "scissors",
+    "a ruler with millimetre marks",
+    "a magnifying glass, or a phone camera zoomed in",
+    "a steel tumbler, a glass of water, a balloon",
+    "a science notebook and pencil"
+   ],
+   "prep": [
+    {
+     "task": "Cut a paper strip 24 cm long and 2 cm wide from an A4 sheet.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Atoms join into molecules",
+   "goal": "Find out that about 90 kinds of atom join in different ways to make everything, and put real things in order of size.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the paper",
+     "mins": 3,
+     "do": "Ask: 'How many cuts did we manage? How many would it take to reach one atom?' (About 8. About 31.) Say: 'Today we find out how so few kinds of atom make so many things.'"
+    },
+    {
+     "kind": "talk",
+     "title": "An alphabet of atoms",
+     "mins": 7,
+     "do": "Say: 'A substance made of only one kind of atom is called an element. Gold, iron, oxygen and carbon are elements. About 90 elements are found in nature.' Say: 'Just 26 letters make every word in English. In the same way, about 90 kinds of atom make a stone, a mango and you.' Ask: 'The black tip of a pencil is carbon. A diamond is carbon too. How can they be so different?' Good answer: 'The atoms are joined in a different pattern.'"
+    },
+    {
+     "kind": "act",
+     "title": "Build molecules from atta",
+     "mins": 15,
+     "do": "Do Activity a1. Say first: 'When two or more atoms join together, they make a molecule.' Build water, then oxygen, then carbon dioxide. Ask: 'Water and carbon dioxide both have oxygen in them. Why are they so different?' Good answer: 'They have different atoms joined to the oxygen.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "game",
+     "title": "Smaller and Smaller",
+     "mins": 15,
+     "do": "Play Game g1 with all 18 cards. Each time a card goes in, ask: 'Why does it go there?' At the end, read the last three cards together. Ask: 'Which cards can you never see with your eyes?' (Everything from the bacterium down.) Ask: 'The electron card says no size has been found. What could that mean?' Leave it as an open question.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "atta dough in three colours (mix in a pinch of haldi for yellow, and a drop of food colour or beetroot juice for pink)",
+    "toothpicks",
+    "the printed Smaller and Smaller cards, cut out"
+   ],
+   "prep": [
+    {
+     "task": "Print and cut out the 18 cards of Game g1.",
+     "when": "night before"
+    },
+    {
+     "task": "Knead a fist-sized ball of atta dough and split it into three, one plain and two coloured.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Inside the atom",
+   "goal": "Name the three parts of an atom, see electric charge at work, and start building a model atom.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the molecules",
+     "mins": 3,
+     "do": "Show the dried atta models from Day 2. Ask: 'What is a molecule?' (Two or more atoms joined.) Ask: 'Is an atom the smallest thing, or does it have parts?' Let your child guess."
+    },
+    {
+     "kind": "talk",
+     "title": "Protons, neutrons and electrons",
+     "mins": 7,
+     "do": "Draw a dot with a fuzzy cloud around it. Say: 'The dot is the nucleus, the tiny heavy centre of the atom. It holds protons and neutrons. Around it are electrons, which are very light.' Say: 'Protons have a plus electric charge. Electrons have a minus charge. Neutrons have none.' Say: 'Plus and minus attract, which means they pull together. Two pluses or two minuses repel, which means they push apart.' Say: 'The number of protons decides the element. Carbon has 6. Gold has 79.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The comb and the paper bits",
+     "mins": 15,
+     "do": "Do Experiment e2. Before rubbing, ask: 'Will the comb pick up the paper bits? Why do you think so?' After, ask: 'The comb never touched the paper. So how did it lift it?' Good answer: 'Rubbing gave the comb extra electrons. Charges attract and repel without touching.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "do",
+     "title": "Project, part 1: a carbon nucleus",
+     "mins": 15,
+     "do": "Start the project, Make an honest carbon atom. Count out 6 rajma for protons and 6 chana for neutrons. Press them into one small ball with a little atta dough, colours mixed. Put it in the centre of a paper plate and leave it to dry overnight. Say: 'Real protons and neutrons are jumbled together like this, not in neat rows.'"
+    }
+   ],
+   "need": [
+    "a plastic comb",
+    "a sheet of paper torn into bits the size of a fingernail",
+    "2 balloons and 2 pieces of thread",
+    "6 rajma and 6 white chana",
+    "a little atta dough",
+    "a paper plate"
+   ],
+   "prep": []
+  },
+  {
+   "n": 4,
+   "title": "Almost all empty space",
+   "goal": "Find a hidden object by rolling marbles at it, and learn how scientists found the tiny nucleus the same way.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the nucleus",
+     "mins": 3,
+     "do": "Look at the bean nucleus from Day 3. Ask: 'Which beans are the protons? Which are the neutrons? Where are the electrons?' (Rajma, chana, not added yet.)"
+    },
+    {
+     "kind": "exp",
+     "title": "The hidden centre",
+     "mins": 20,
+     "do": "Do Experiment e3. Before each round, ask: 'If the hidden thing is big, how many marbles will come back? If it is tiny?' After the battery round, ask: 'Most marbles went straight through. What does that tell you about the space under the card?' Good answer: 'It is mostly empty. The hidden thing is small.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Gold foil, 1909",
+     "mins": 10,
+     "do": "Use voice v2. Say: 'In 1909, Hans Geiger and a student, Ernest Marsden, fired tiny particles at very thin metal. Almost all went straight through. About 1 in 8,000 bounced back.' Ask: 'What would you guess about the atoms in the metal?' Then say: 'Rutherford said each atom is almost all empty space, with a tiny, heavy nucleus in the middle.' Ask the voice's question about credit.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "Why doesn't your hand sink?",
+     "mins": 7,
+     "do": "Ask: 'If atoms are almost empty, why doesn't your hand go through the table?' Let your child guess. Hold two magnets with the same ends facing, or the two rubbed balloons from Day 3, and feel them push apart before they touch. Say: 'All electrons have a minus charge, so they repel. The electrons in your hand push the electrons in the table. That push is what solid feels like.' Press hands flat on the table together."
+    }
+   ],
+   "need": [
+    "4 steel tumblers of the same height",
+    "a flat piece of cardboard about 60 cm square, cut from a carton",
+    "a small katori",
+    "an AA battery",
+    "a small ball of atta dough",
+    "a marble, or any small ball that rolls",
+    "2 magnets, or the 2 balloons from Day 3"
+   ],
+   "prep": []
+  },
+  {
+   "n": 5,
+   "title": "Clouds of chance",
+   "goal": "Find out that electrons have no tracks, only places where they are likely to be, and what 'observer' means in physics.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the gold foil",
+     "mins": 3,
+     "do": "Ask: 'In 1909, nearly every particle went straight through the gold. Why?' (The atoms are almost all empty space.) Ask: 'Where are the electrons in all that space?' Let your child guess."
+    },
+    {
+     "kind": "act",
+     "title": "Pencil dots",
+     "mins": 12,
+     "do": "Do Activity a2. At the end, ask: 'Could you say exactly where your next dot would land?' Good answer: 'No. Only that it would probably be near the target.' Say: 'Scientists draw electrons the same way. Each time they measure an electron, they find it at one spot. Many measurements make a cloud.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "do",
+     "title": "Project, part 2: the electron cloud",
+     "mins": 15,
+     "do": "Finish the carbon atom. Pull cotton wool into a thin, fluffy ring around the dry bean nucleus, thick near the centre and thin at the edge. Add pen dots, many near the middle and few at the edge. Label nucleus, protons, neutrons and electron cloud. Ask: 'What does our model get wrong?' Good answers: the nucleus is far too big, atoms have no colours, electrons are not cotton."
+    },
+    {
+     "kind": "talk",
+     "title": "Who is the observer?",
+     "mins": 10,
+     "do": "Use voice v4. Say: 'To find an electron, scientists let it hit a screen or a detector. That bump changes the electron. In physics, the observer is anything that measures. It does not have to be a person.' Ask: 'Some people say quantum physics proves our minds make the world. Is that what the experiments show?' Good answer: 'No. A screen or a speck of dust can measure an electron.'",
+     "ref": "v4"
+    }
+   ],
+   "need": [
+    "a sheet of white paper with a small cross drawn in the middle",
+    "a pencil",
+    "a bangle and two plates of different sizes",
+    "the bean nucleus from Day 3",
+    "cotton wool",
+    "a pen"
+   ],
+   "prep": []
+  },
+  {
+   "n": 6,
+   "title": "Atoms on a staircase",
+   "goal": "See that atoms give out light of exact colours, because electrons can only have certain amounts of energy.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the dots",
+     "mins": 3,
+     "do": "Ask: 'Why do scientists draw an electron as a cloud, not a track?' (They can only say where it is likely to be found.) Say: 'Today we see one more way the very small is different from a ball.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Salt turns the flame yellow",
+     "mins": 10,
+     "do": "Do Experiment e4. Before the salt goes in, ask: 'Will the flame change? What colour?' After, ask: 'Will it be the same colour if we try again tomorrow?' Try it again to check. Good answer: 'Yes, always the same yellow.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "act",
+     "title": "Be an electron",
+     "mins": 8,
+     "do": "Do Activity a3 on the stairs. Then say: 'An electron in an atom can only have certain amounts of energy. These are called energy levels. Each drop down one step gives out light of one exact colour. Sodium, in salt, gives yellow.' Say: 'Astronomers see these colours in starlight. In 1920, Meghnad Saha, an Indian scientist, showed how to read a star's heat from them.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: Atom detective",
+     "mins": 19,
+     "do": "Do Worksheet ws1 (core). Read each question aloud if needed. For the two written questions, ask your child to say the answer first, then write it. Check the answers together and go back to the experiment if one is wrong.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a gas stove",
+    "a spoon of dry salt",
+    "a staircase, or three steps drawn on the floor in chalk",
+    "Worksheet ws1, printed"
+   ],
+   "prep": []
+  },
+  {
+   "n": 7,
+   "title": "Opposite twins: antimatter",
+   "goal": "Hear how tiny particles from space were caught, and meet antimatter, the opposite of matter.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: What Came Through the Box",
+     "mins": 12,
+     "do": "Read the story aloud. Then ask: 'Why did Dawa think nothing could get into the box?' (It was nailed shut and wrapped in black paper.) 'What did the lines of dots show?' (Tiny particles from the sky had passed through the box.) 'Bibha never saw a particle. How did she know they were there?' (From the tracks they left.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The anti-electron",
+     "mins": 10,
+     "do": "Use voice v3. Say: 'In 1928, Paul Dirac wrote down the maths for electrons. The maths also allowed a twin with a plus charge. In 1932, Carl Anderson found it in tracks made by particles from space. It is called the positron.' Say: 'Every kind of particle has an opposite twin like this. They are called antimatter.' Say: 'When a particle meets its antiparticle, both vanish. Their energy goes out as a flash of very strong light.'",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "The vanishing twins",
+     "mins": 10,
+     "do": "Do Activity a4. Afterwards, say: 'Hospitals use this. In a PET scan, a doctor puts a medicine that gives out positrons into the body. Each positron meets an electron, and both vanish in a flash. A machine catches the flashes and makes a picture of the inside of the body.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "think",
+     "title": "Why is there anything?",
+     "mins": 8,
+     "do": "Say: 'Scientists think the Big Bang made matter and antimatter in almost equal amounts. Nearly all of it met and vanished. A tiny bit of matter was left over, about one extra particle in every billion.' Ask: 'Everything you can see is made of that leftover bit. Why do you think there was a little more matter?' Say: 'Nobody knows yet. It is one of the biggest open questions in physics.'"
+    }
+   ],
+   "need": [
+    "two sheets of paper, one marked with a big plus sign and one with a big minus sign"
+   ],
+   "prep": []
+  },
+  {
+   "n": 8,
+   "title": "Is there a smallest thing?",
+   "goal": "Find out how we know atoms are real, meet quarks, and hear what nobody knows yet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the twins",
+     "mins": 3,
+     "do": "Ask: 'What happens when an electron meets a positron?' (Both vanish in a flash of light.) Ask: 'Why is there anything left in the world?' (Nobody knows yet.)"
+    },
+    {
+     "kind": "talk",
+     "title": "How do we know atoms are real?",
+     "mins": 7,
+     "do": "Say: 'In 1827, Robert Brown saw tiny specks in water jiggling and never stopping. In 1905, Albert Einstein showed that moving water molecules bumping the specks would make exactly that jiggle. In 1908, Jean Perrin measured it, and Einstein was right.' Say: 'In 1989, scientists moved 35 single atoms to spell the letters IBM.' Ask: 'Nobody saw an atom for over 2,000 years. How did people become sure they were real?' Good answer: 'From what atoms do.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Quarks, and deeper down",
+     "mins": 10,
+     "do": "Say: 'Protons and neutrons are made of even smaller particles called quarks. A proton has three.' Say: 'Every electron is exactly the same as every other electron. In 1924, Satyendra Nath Bose, a teacher in Dacca, worked out how to count particles that are perfectly the same. A family of particles is named bosons after him.' Say: 'Nobody knows if electrons and quarks have smaller parts. Some physicists think particles are ripples in fields that fill all space. Others think they may be tiny vibrating strings. No experiment has tested strings yet.' Ask: 'Is there a smallest thing, or does it go on for ever?'"
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: Inside the atom",
+     "mins": 20,
+     "do": "Do Worksheet ws2 (stretch). For each written question, ask your child to tell you the answer first. Then they write one or two sentences. Talk about any answer that surprised you both.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "Worksheet ws2, printed"
+   ],
+   "prep": []
+  },
+  {
+   "n": 9,
+   "title": "Teach it back",
+   "goal": "Pull the whole week together and explain the very small to someone else.",
+   "steps": [
+    {
+     "kind": "ws",
+     "title": "Worksheet: Big questions about the very small",
+     "mins": 15,
+     "do": "Do Worksheet ws3 (challenge). These questions are harder. Let your child think aloud. For the written questions, any answer with a clear reason is good.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. Wait for each answer before reading the next. If an answer is shaky, go back to the carbon atom model or the hidden-centre experiment and try again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 12,
+     "do": "Your child uses the carbon atom model to teach someone in the family. They explain three things: what an atom is made of, why it is almost all empty space, and why the electrons are drawn as a cloud. The listener asks one question. Ask after: 'Which part was hardest to explain?'"
+    },
+    {
+     "kind": "think",
+     "title": "One big question",
+     "mins": 3,
+     "do": "Ask: 'The same few particles make stones, rivers, mangoes and you. So what makes you, you?' There is no single right answer. Write your child's answer in the science notebook."
+    }
+   ],
+   "need": [
+    "Worksheet ws3, printed",
+    "the carbon atom model",
+    "the science notebook"
+   ],
+   "prep": []
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Atom detective",
+   "day": 6,
+   "sections": [
+    [
+     "A. Atoms and molecules",
+     [
+      {
+       "t": "mcq",
+       "p": "Everything you can touch is made of tiny particles. What are they called?",
+       "opts": [
+        "atoms",
+        "crumbs",
+        "drops"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Two or more atoms joined together make a ____.",
+       "a": [
+        "molecule"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each molecule to the atoms in it.",
+       "pairs": [
+        [
+         "water",
+         "2 hydrogen atoms and 1 oxygen atom"
+        ],
+        [
+         "carbon dioxide",
+         "1 carbon atom and 2 oxygen atoms"
+        ],
+        [
+         "the oxygen we breathe",
+         "2 oxygen atoms"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Riya, a girl in Class 3, cuts a paper strip in half 8 times. Her last piece is about 1 millimetre long. How wide is it in atoms?",
+       "opts": [
+        "one atom",
+        "millions of atoms",
+        "no atoms at all"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Inside the atom",
+     [
+      {
+       "t": "fill",
+       "p": "The tiny, heavy centre of an atom is called the ____.",
+       "a": [
+        "nucleus"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort each particle by its electric charge.",
+       "items": [
+        "proton",
+        "electron",
+        "neutron"
+       ],
+       "cats": [
+        "plus",
+        "minus",
+        "no charge"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Two balloons are rubbed on dry hair. Both get extra electrons. What happens when they hang side by side?",
+       "opts": [
+        "they push apart",
+        "they pull together",
+        "nothing happens"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Almost all of an atom is…",
+       "opts": [
+        "empty space",
+        "solid metal",
+        "water"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Atoms are almost all empty space. So why doesn't your hand sink into the table?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A grown-up drops salt into a gas flame. It flashes yellow, every time. Why is it always the same colour?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Inside the atom",
+   "day": 8,
+   "sections": [
+    [
+     "A. Experiments",
+     [
+      {
+       "t": "mcq",
+       "p": "In the hidden-centre test, a battery was hidden under the card. What did most of the 20 marbles do?",
+       "opts": [
+        "went straight through",
+        "came back",
+        "stopped under the card"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In 1909, Geiger and Marsden fired tiny particles at thin metal. About 1 in 8,000 bounced back. What did this show?",
+       "opts": [
+        "each atom has a tiny, heavy centre",
+        "metal is soft like a pudding",
+        "the particles were sticky"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Asha, a girl in Class 3, makes 50 pencil dots at a cross with her eyes closed. Where are most of the dots?",
+       "opts": [
+        "near the cross",
+        "at the edge of the paper",
+        "spread evenly everywhere"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "In physics, an observer is anything that ____ something, like a screen or a detector.",
+       "a": [
+        "measures"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. People and particles",
+     [
+      {
+       "t": "match",
+       "p": "Match each scientist to what they found.",
+       "pairs": [
+        [
+         "J.J. Thomson, 1897",
+         "the electron"
+        ],
+        [
+         "James Chadwick, 1932",
+         "the neutron"
+        ],
+        [
+         "Carl Anderson, 1932",
+         "the positron"
+        ],
+        [
+         "Satyendra Nath Bose, 1924",
+         "how to count particles that are exactly the same"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Is it matter or antimatter?",
+       "items": [
+        "electron",
+        "positron",
+        "proton",
+        "antiproton",
+        "hydrogen atom",
+        "antihydrogen atom"
+       ],
+       "cats": [
+        "matter",
+        "antimatter"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "An electron meets a positron. What happens?",
+       "opts": [
+        "both vanish in a flash of light",
+        "they stick together for ever",
+        "they bounce apart"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these is the smallest?",
+       "opts": [
+        "a bacterium",
+        "a hydrogen atom",
+        "a proton"
+       ],
+       "a": 2
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Your friend says, 'Quantum physics proves the Moon is not there when nobody looks at it.' What would you tell your friend?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Many books draw electrons going round the nucleus on tracks, like planets round the Sun. What is wrong with this picture?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Big questions about the very small",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles with numbers",
+     [
+      {
+       "t": "mcq",
+       "p": "A paper strip is 24 cm long. You cut it in half, then cut one half in half, then cut that in half. How long is the piece now?",
+       "opts": [
+        "3 cm",
+        "6 cm",
+        "8 cm"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A carbon atom has 6 protons. A gold atom has 79. Gold has ____ more protons than carbon.",
+       "a": [
+        "73"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "You roll two dice and add them, again and again. Which total comes up most often?",
+       "opts": [
+        "2",
+        "7",
+        "12"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "If an atom were as big as a cricket ground, how big would its nucleus be?",
+       "opts": [
+        "about the size of a peppercorn",
+        "about the size of a football",
+        "about the size of the pitch"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. What do we know?",
+     [
+      {
+       "t": "match",
+       "p": "Match each idea to where the evidence stands.",
+       "pairs": [
+        [
+         "Atoms are real.",
+         "settled"
+        ],
+        [
+         "Particles are tiny vibrating strings.",
+         "not tested yet"
+        ],
+        [
+         "Electrons go round on tracks like planets.",
+         "shown wrong"
+        ],
+        [
+         "Kanada thought of atoms before anyone else.",
+         "nobody knows for sure"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Scientists think the Big Bang made matter and antimatter in almost equal amounts. Why is there anything left?",
+       "opts": [
+        "A tiny bit more matter was made. Nobody knows why.",
+        "Stars threw all the antimatter away.",
+        "Matter is stronger, so it always wins."
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "In the story, Bibha Chowdhuri caught the tracks of tiny particles from the sky on ____ plates.",
+       "a": [
+        "photographic",
+        "photograph",
+        "glass"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Every electron is exactly the same as every other electron. Is anything you can see exactly the same as something else? Explain.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Nobody saw an atom for 2,000 years, yet scientists became sure atoms are real. How can you be sure something is real if you cannot see it? Use one example from this week.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "You cut a roti into smaller and smaller pieces. When does it stop being roti? Why?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Cut it in half, again and again",
+   "day": 1,
+   "question": "How many times can you cut a strip of paper in half?",
+   "need": [
+    "a strip of paper 24 cm long and 2 cm wide",
+    "scissors",
+    "a ruler with millimetre marks",
+    "a magnifying glass, or a phone camera zoomed in",
+    "a chopping board"
+   ],
+   "steps": [
+    "Fold the strip in half to find the middle. Cut straight across at the fold.",
+    "Measure one half and write the length down. Keep that half and put the other aside.",
+    "Cut the kept half in half the same way, across its length. Measure and write it down again.",
+    "After 4 cuts, the piece is 1 and a half centimetres long. From here, a grown-up does the cutting.",
+    "The grown-up presses the piece flat on a chopping board under one fingertip and cuts beside the finger. Keep going until it cannot be cut cleanly.",
+    "Look at the cut edge of the last sliver through the magnifier."
+   ],
+   "predict": "Ask your child to guess first: 'How many cuts can we make before the piece is too small? Why do you think so?'",
+   "observe": "The lengths go 12 cm, 6 cm, 3 cm, 1 and a half cm, and so on. Most people stop after 7 to 9 cuts. After 8 cuts the sliver is about 1 millimetre long. Under the magnifier, tiny plant fibres stick out of its edge.",
+   "why": "Paper is made of plant fibres. Each fibre is made of molecules, and each molecule is made of atoms. An atom is about one ten-millionth of a millimetre across. To make a piece one atom wide you would need about 31 cuts, so the scissors stop about 23 cuts short.",
+   "safety": "A grown-up does every cut once the piece is shorter than 2 cm. Keep fingers away from the blades.",
+   "time": "20 min"
+  },
+  {
+   "id": "e2",
+   "title": "The comb and the paper bits",
+   "day": 3,
+   "question": "Can a comb lift paper without touching it?",
+   "need": [
+    "a plastic comb",
+    "paper torn into 20 bits the size of a fingernail",
+    "2 balloons, each on a 30 cm thread",
+    "dry hair"
+   ],
+   "steps": [
+    "Spread the paper bits on a table. Hold the comb just above them. Nothing happens.",
+    "Pull the comb quickly through dry hair 10 times.",
+    "Hold the comb about 2 cm above the paper bits, and watch.",
+    "Blow up two balloons and tie a thread to each. Rub each one on dry hair for 10 seconds.",
+    "Hold both threads in one hand so the balloons hang side by side, and watch."
+   ],
+   "predict": "Ask your child to guess first: 'After rubbing, will the comb lift the paper? Will the two balloons swing together or apart? Why?'",
+   "observe": "The paper bits jump up and cling to the comb. The two balloons swing apart and stay apart.",
+   "why": "Rubbing moves some electrons from the hair onto the comb, so the comb has extra minus charge. Its electrons push the paper's electrons to the far side of each bit. The near side is left with a little plus charge, and plus and minus attract. Both balloons got extra electrons, and two minus charges repel. Charges act across a gap, with no touching.",
+   "safety": "Pick up every piece of a popped balloon, as it is a choking risk for small children.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "The hidden centre",
+   "day": 4,
+   "question": "Can you work out the size of a hidden thing just by rolling marbles at it?",
+   "need": [
+    "4 steel tumblers of the same height",
+    "a flat piece of cardboard about 60 cm square",
+    "a small katori",
+    "an AA battery",
+    "a small ball of atta dough",
+    "a marble, or any small ball that rolls",
+    "paper for tally marks"
+   ],
+   "steps": [
+    "On a smooth floor, stand the four tumblers upside down in a square, about 45 cm apart.",
+    "While your child looks away, put the katori upside down in the middle of the square.",
+    "Lay the cardboard on top of the tumblers so it hides the katori.",
+    "Your child kneels at one side and rolls the marble gently under the card, from a different spot along the edge each time.",
+    "For each roll, make a tally: went straight through, turned aside, or came back. Roll 20 times.",
+    "Your child guesses how big the hidden thing is. Then lift the card and look.",
+    "While your child looks away again, swap the katori for the battery, standing up in the atta ball. Roll 20 more times and tally."
+   ],
+   "predict": "Ask your child to guess first: 'If the hidden thing is big, how many of 20 rolls will come back? If it is tiny? Why?'",
+   "observe": "The katori turns several marbles aside and sends some back. The battery is hit only once or twice in 20 rolls. Nearly every roll goes straight through.",
+   "why": "The smaller the hidden thing, the fewer marbles hit it. In 1909, Geiger and Marsden fired tiny alpha particles at very thin metal. Only about 1 in 8,000 bounced back. So each atom must have a centre far smaller than the battery is to the card, with almost nothing around it.",
+   "safety": "Pick up the marble afterwards so nobody slips. Marbles are a choking risk for children under 3.",
+   "time": "20 min"
+  },
+  {
+   "id": "e4",
+   "title": "Salt turns the flame yellow",
+   "day": 6,
+   "question": "Does salt change the colour of a flame?",
+   "need": [
+    "a gas stove",
+    "a spoon of dry salt"
+   ],
+   "steps": [
+    "Your child stands at least one metre from the stove.",
+    "A grown-up lights one burner on low. Look at the blue flame.",
+    "The grown-up holds the spoon of salt well above the flame and tips it slowly, so a few grains fall in.",
+    "Watch the colour. Then do it once more."
+   ],
+   "predict": "Ask your child to guess first: 'Will the flame change colour? Which colour, and why?'",
+   "observe": "The flame flashes bright yellow-orange each time the salt falls in, the same colour every time.",
+   "why": "Salt is made of sodium and chlorine atoms. The heat lifts some of sodium's electrons to a higher energy level. When an electron drops back down, the atom gives out light of one exact colour, and for sodium that is yellow. Old orange street lights glow with the same sodium yellow.",
+   "safety": "Only a grown-up lights the stove and drops the salt. Use dry salt only. The child stays at least one metre away. If you cook on induction, there is no flame: look at an old orange street light instead, or watch a flame test video.",
+   "time": "10 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Build molecules from atta",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "atta dough in three colours",
+    "toothpicks",
+    "a plate"
+   ],
+   "steps": [
+    "Roll small balls: plain for hydrogen, yellow for oxygen, pink for carbon. Make the hydrogen balls smaller.",
+    "Water: join one yellow ball to two plain balls with toothpicks. Say: 'Two hydrogen atoms and one oxygen atom make one water molecule.'",
+    "Oxygen gas: join two yellow balls. Say: 'The oxygen we breathe is two oxygen atoms joined.'",
+    "Carbon dioxide: join one pink ball between two yellow balls in a line. Say: 'We breathe this out, and plants take it in.'",
+    "Put the three molecules on a plate to dry."
+   ],
+   "outcome": "Three atta molecules: water, oxygen and carbon dioxide, and the idea that the same atoms joined in different ways make different things."
+  },
+  {
+   "id": "a2",
+   "title": "Pencil dots: draw an electron cloud",
+   "day": 5,
+   "mins": 12,
+   "need": [
+    "a sheet of white paper with a small cross in the middle",
+    "a pencil",
+    "a bangle and two plates of different sizes"
+   ],
+   "steps": [
+    "Your child looks at the cross, lifts the pencil to their ear, closes their eyes and brings it down to make a dot.",
+    "Repeat until there are 50 dots. Eyes open between dots only to look at the cross again.",
+    "Draw a ring around the cross with the bangle, then bigger rings with the two plates.",
+    "Count the dots in each ring and write the numbers down."
+   ],
+   "outcome": "A cloud of dots, thick near the cross and thin at the edge. It looks like a scientist's drawing of an electron cloud."
+  },
+  {
+   "id": "a3",
+   "title": "Be an electron",
+   "day": 6,
+   "mins": 8,
+   "need": [
+    "a staircase, or three steps drawn on the floor in chalk"
+   ],
+   "steps": [
+    "Your child stands on the bottom step. This is the electron's usual energy level.",
+    "Call 'Heat!' Your child jumps up one step.",
+    "Call 'Let go!' Your child jumps down and calls out 'Yellow!'",
+    "Ask them to stand halfway between two steps. They can't. Say: 'An electron can't be between levels either.'",
+    "Try two steps up and two down. Say: 'A bigger drop gives a different colour.'"
+   ],
+   "outcome": "Your child can show with their body why an atom gives out only certain colours of light."
+  },
+  {
+   "id": "a4",
+   "title": "The vanishing twins",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "a sheet of paper with a big minus sign",
+    "a sheet of paper with a big plus sign"
+   ],
+   "steps": [
+    "Your child holds the minus sign and is an electron. You hold the plus sign and are a positron.",
+    "Stand at opposite ends of the room. Walk slowly towards each other.",
+    "When you meet, both clap once, loudly. The clap is the flash of light. Then both sit down on the floor: you have vanished.",
+    "Now do it backwards. One person claps for a burst of energy, and both stand up together with your signs. Say: 'Energy can also make a new pair, one particle and one antiparticle.'",
+    "Swap signs and do it once more."
+   ],
+   "outcome": "Your child has acted out annihilation, where a particle and its antiparticle vanish into light, and pair production, where energy makes a new pair."
+  }
+ ],
+ "project": {
+  "title": "Make an honest carbon atom",
+  "days": [
+   3,
+   5
+  ],
+  "steps": [
+   "Day 3: count out 6 rajma for protons and 6 white chana for neutrons.",
+   "Press them together into one small ball with a little atta dough, colours mixed. Put it in the middle of a paper plate and leave it to dry overnight.",
+   "Day 5: pull cotton wool into a thin, fluffy cloud around the nucleus, thick near the centre and thin at the edge.",
+   "Add pen dots on the plate, many near the middle and few at the edge.",
+   "Label the nucleus, protons, neutrons and electron cloud.",
+   "Write one sentence about what the model gets wrong. For example, if the bean nucleus were real, its electron cloud would be about a kilometre across."
+  ],
+  "outcome": "A model carbon atom that shows a jumbled nucleus and an electron cloud instead of planet-like tracks, plus a sentence on what any model leaves out. Your child uses it to teach the family on Day 9."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Smaller and Smaller",
+  "kind": "cards",
+  "players": "1–4",
+  "need": [
+   "the 18 printed cards, cut out"
+  ],
+  "rules": [
+   "Each card shows a real thing on the front. The back gives its size and a number from 1 (biggest) to 18 (smallest).",
+   "Playing together: deal 4 cards to each player, front side up. Put one more card in the middle to start a line.",
+   "On your turn, put one card into the line where you think it belongs, biggest on the left. Say why.",
+   "Turn the card over. If its number fits the line, it stays. If not, take it back and take one more card from the pile.",
+   "The first player with no cards left wins.",
+   "Playing alone: lay all 18 cards in order as fast as you can, then turn them over. Each card in the wrong place adds 10 seconds to your time."
+  ],
+  "cards": [
+   {
+    "front": "The Earth",
+    "back": "1. About 12,700 kilometres across."
+   },
+   {
+    "front": "Mount Everest",
+    "back": "2. Nearly 9 kilometres high."
+   },
+   {
+    "front": "An Indian elephant",
+    "back": "3. About 3 metres tall."
+   },
+   {
+    "front": "You",
+    "back": "4. About 1 and a quarter metres tall."
+   },
+   {
+    "front": "A banana",
+    "back": "5. About 15 centimetres long."
+   },
+   {
+    "front": "A one-rupee coin",
+    "back": "6. About 2 centimetres across."
+   },
+   {
+    "front": "An ant",
+    "back": "7. About 4 millimetres long."
+   },
+   {
+    "front": "A mustard seed",
+    "back": "8. About 1 millimetre across."
+   },
+   {
+    "front": "A grain of salt",
+    "back": "9. About a third of a millimetre."
+   },
+   {
+    "front": "The width of a hair",
+    "back": "10. About a tenth of a millimetre."
+   },
+   {
+    "front": "A red blood cell",
+    "back": "11. A little less than a hundredth of a millimetre."
+   },
+   {
+    "front": "A bacterium",
+    "back": "12. About 2 thousandths of a millimetre."
+   },
+   {
+    "front": "A virus",
+    "back": "13. About one ten-thousandth of a millimetre."
+   },
+   {
+    "front": "A water molecule",
+    "back": "14. About 3 ten-millionths of a millimetre."
+   },
+   {
+    "front": "A hydrogen atom",
+    "back": "15. About one ten-millionth of a millimetre."
+   },
+   {
+    "front": "The nucleus of a carbon atom",
+    "back": "16. Tens of thousands of times smaller than the atom."
+   },
+   {
+    "front": "A proton",
+    "back": "17. About a third as wide as a carbon nucleus."
+   },
+   {
+    "front": "An electron",
+    "back": "18. Nobody has found any size at all. It may have none."
+   }
+  ]
+ },
+ "big": [
+  "If you could cut a piece of paper for ever, would you ever reach a piece that cannot be cut?",
+  "The same few kinds of particle make stones, rivers, mangoes and you. So what makes you, you: the particles, or the way they are joined?",
+  "Can you be sure something is real if nobody has ever seen it?",
+  "Everything we see is the small bit of matter left over after matter and antimatter met. Why is there something rather than nothing?",
+  "Your atoms keep coming and going as you eat, drink and breathe. Are you the same you as last year?"
+ ],
+ "challenge": [
+  {
+   "q": "Books and logos show an atom as a tiny solar system, with electrons going round the nucleus on tracks. Is that what an atom looks like?",
+   "hint": "That picture comes from Niels Bohr in 1913. It explained the colours of light from hydrogen, but it fails for bigger atoms. Since 1926, the maths of quantum physics has shown that electrons have no tracks, only clouds of places where they are likely to be found. Ask: why do books still draw the old picture?"
+  },
+  {
+   "q": "People say quantum physics proves the world is not real until a person looks at it. Is that true?",
+   "hint": "No experiment shows that. In physics, an observer is anything that measures, such as a screen, a detector or a particle of light. Physicists still argue about what happens during a measurement, but none of the main ideas needs a person to look. Ask: why might people like this claim, and who might sell courses about it?"
+  },
+  {
+   "q": "Some books in India say Kanada discovered the atom long before anyone else. Is that right?",
+   "hint": "Kanada really did teach that everything is made of tiny invisible particles, paramanu. But nobody knows when he lived, and Democritus in Greece had a similar idea about 2,400 years ago. Neither could test it. Ask: should we credit both? What does it mean to discover something nobody can test yet?"
+  },
+  {
+   "q": "Science videos often say you never really touch anything, because atoms never meet. Is that true?",
+   "hint": "It is true that when your hand meets a table, the electrons push each other away before the nuclei come anywhere near. But that electric push is what touching is. There is no other kind of touching to compare it with. Ask: what does the word 'touch' mean to you?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A doctor who reads PET scans",
+   "view": "A PET scan uses antimatter every day. A sugar-like medicine that gives out positrons goes into the body. Busy parts, like a growing tumour, take in more of it, so more flashes come from there. Ask: did Dirac know his maths would one day help find illness?"
+  },
+  {
+   "who": "A scholar of the Vaisheshika school",
+   "view": "In Kanada's tradition, paramanu are eternal and cannot be divided, and their joining in pairs and threes builds the world. Modern science agrees that tiny particles build everything, but has found that atoms do have parts. Ask: can an idea be partly right and still be great?"
+  },
+  {
+   "who": "A firefly",
+   "view": "A firefly makes its own light, from a chemical reaction in its body. It gives off very little heat, so its light is called cold light. It uses its flashes to find a mate. Ask: whose light came first, a firefly's or a bulb's?"
+  },
+  {
+   "who": "A green leaf",
+   "view": "A leaf catches sunlight to make food. Light comes in tiny packets of energy called photons, and each packet the leaf catches can move an electron in a molecule. Ask: a leaf has been using the very small for hundreds of millions of years. Who learned quantum physics first?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Kanada, founder of the Vaisheshika school in ancient India, and Democritus (about 460 to 370 years before the Common Era), Greece",
+   "idea": "Kanada taught that everything is made of tiny, invisible particles called paramanu, which join in pairs and threes to make bigger things. Democritus, with his teacher Leucippus, taught that everything is made of atoms moving in empty space. 'Atomos' means 'uncuttable'.",
+   "then": "Neither idea could be tested. Many thinkers in both lands argued against them for centuries.",
+   "now": "Nobody knows when Kanada lived. Guesses range from about 600 to 200 years before the Common Era. Historians think the two traditions had the idea on their own. Both were right that everything is made of tiny particles, and both were wrong that atoms cannot be cut. Proof came only around 1908.",
+   "status": "debated",
+   "ask": "Two people far apart had the same idea. If nobody knows who was first, who should get the credit?",
+   "day": 1
+  },
+  {
+   "id": "v2",
+   "who": "Hans Geiger (1882–1945), Ernest Marsden (1889–1970) and Ernest Rutherford (1871–1937), Manchester, England",
+   "idea": "In 1909, Geiger and Marsden, a 20-year-old student, fired alpha particles at very thin metal foil and counted tiny flashes in a dark room. About 1 in 8,000 bounced back. In 1911, Rutherford explained it: each atom has a tiny, heavy, positive centre, the nucleus, and the rest is almost empty.",
+   "then": "Most scientists then pictured an atom as a soft ball of plus charge with electrons dotted through it, like raisins in a pudding. Rutherford said a bounce-back was as surprising as a cannon shell bouncing off tissue paper.",
+   "now": "The nucleus is settled science. It is usually called Rutherford's discovery, though Geiger and Marsden did the counting.",
+   "status": "accepted",
+   "ask": "Geiger and Marsden did the counting. Rutherford worked out what it meant. Who discovered the nucleus?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Paul Dirac (1902–1984), England, and Carl Anderson (1905–1991), United States",
+   "idea": "In 1928, Dirac found an equation for the electron. It also allowed a particle just like the electron but with a plus charge. In 1931 he said this anti-electron should really exist. In 1932, Anderson photographed its track in a cloud chamber, among particles coming from space, and named it the positron.",
+   "then": "Many physicists thought the extra answers in Dirac's maths were a mistake. Dirac himself first guessed they might be protons. Anderson's photograph settled it.",
+   "now": "Antimatter is real and well tested. Hospitals use positrons in PET scans, and scientists at CERN in Switzerland have made and trapped atoms of antihydrogen. Why the universe has so much more matter than antimatter is still unknown.",
+   "status": "accepted",
+   "ask": "Dirac's maths predicted a particle nobody had seen. Would you have believed it before Anderson's photograph? What would you need to see?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "The claim that 'quantum physics proves our minds create the world', from some films, books and speakers",
+   "idea": "In quantum physics, measuring a tiny particle changes it. Some people say this means the world is not real until a person looks at it.",
+   "then": "In the 1920s and 1930s, physicists such as Niels Bohr and Werner Heisenberg argued about what measurement means. The word 'observer' made it sound like a person was needed.",
+   "now": "In physics, an observer is anything that measures: a screen, a detector, a particle of light or a speck of dust. The experiments give the same results with no person watching. Physicists still argue about what really happens in a measurement, but none of the main ideas needs a person to look.",
+   "status": "rejected",
+   "ask": "If a speck of dust can measure an electron, what does the word 'observer' mean in physics?",
+   "day": 5
+  }
+ ],
+ "books": [
+  {
+   "title": "What's Smaller Than a Pygmy Shrew?",
+   "author": "Robert E. Wells",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A picture book that zooms down from tiny animals to cells, molecules, atoms and the particles inside them. It matches the size game on Day 2."
+  },
+  {
+   "title": "Quantum Physics for Babies",
+   "author": "Chris Ferrie",
+   "for": "read together",
+   "age": "3–8",
+   "why": "A very short board book about atoms, electrons and energy levels. A quick way in before Day 6."
+  },
+  {
+   "title": "The Elements: A Visual Exploration of Every Known Atom in the Universe",
+   "author": "Theodore Gray",
+   "for": "parent reads",
+   "age": "8+ (parent shows the pictures)",
+   "why": "Big photographs of every element, from gold to carbon. Look up the elements your child built on Day 2."
+  },
+  {
+   "title": "Mr Tompkins in Wonderland",
+   "author": "George Gamow",
+   "for": "parent reads",
+   "age": "adult (read short parts aloud)",
+   "why": "A bank clerk dreams himself into worlds where the rules of the very small show up at everyday size. Written by a real physicist."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is everything you can touch made of?",
+   "a": "Atoms. They are far too small to see. About 5 million in a row make 1 millimetre."
+  },
+  {
+   "q": "What is a molecule? Give one example.",
+   "a": "Two or more atoms joined together. A water molecule is two hydrogen atoms joined to one oxygen atom."
+  },
+  {
+   "q": "Name the three parts of an atom and their charges.",
+   "a": "Protons have a plus charge. Neutrons have no charge. Both are in the nucleus. Electrons have a minus charge and are found around the nucleus."
+  },
+  {
+   "q": "How did scientists find out that an atom is almost all empty space?",
+   "a": "In 1909, Geiger and Marsden fired tiny particles at thin metal. Almost all went straight through, and about 1 in 8,000 bounced back. So each atom has a tiny, heavy centre with almost nothing around it, like the battery under the card."
+  },
+  {
+   "q": "Why do scientists draw an electron as a cloud, not as a track?",
+   "a": "Each time an electron is measured, it is found at one spot. Quantum physics only gives the chances of each spot. Many measurements make a cloud, like the pencil dots."
+  },
+  {
+   "q": "Why does salt turn a flame yellow?",
+   "a": "The heat lifts electrons in sodium atoms up an energy level. When they drop back down, they give out light of one exact colour, which is yellow."
+  },
+  {
+   "q": "What happens when an electron meets a positron?",
+   "a": "Both vanish, and their energy goes out as a flash of very strong light. PET scans in hospitals use this."
+  },
+  {
+   "q": "Name one thing about the very small that nobody knows yet.",
+   "a": "Any one of these: why there is more matter than antimatter, whether electrons and quarks have smaller parts, or what an electron is doing when nothing measures it."
+  }
+ ],
+ "ideas": [
+  {
+   "idea": "Cut anything small enough, and the pieces are no longer that thing.",
+   "more": "The last paper sliver from Day 1 was still paper. A piece 23 cuts further down would be single atoms of carbon, hydrogen and oxygen, the same kinds as in sugar and in you. So paper is not in its atoms. It is in the way its atoms are joined."
+  },
+  {
+   "idea": "An atom is almost all empty space, and solid is electrons pushing on electrons.",
+   "more": "In the hidden-centre test, nearly every marble passed the tiny battery. Real atoms are far emptier. A table holds your hand up because its electrons repel the electrons in your hand, like two magnets pushing apart."
+  },
+  {
+   "idea": "The very small follows different rules from balls and bicycles.",
+   "more": "A ball can roll at any speed, but an electron in an atom can only have certain amounts of energy, which is why salt gives one exact yellow. An electron has no track, only chances of being in each place. Quantum physics predicts these chances exactly, every time it is tested."
+  },
+  {
+   "idea": "The same three particles make everything, and consciousness runs through all of it.",
+   "more": "Protons, neutrons and electrons make stones, stars, mangoes and you. Consciousness runs through all of it, down to every particle, so a mind is not something that appears only when atoms build a brain. Most physicists today hold the other view: particles follow the rules of physics and have no experience of their own."
+  }
+ ],
+ "unknowns": [
+  "Why is there more matter than antimatter? The Big Bang should have made equal amounts. Nobody knows why a little matter was left over.",
+  "Is there a smallest thing? Electrons and quarks have no size that anyone has found. Some physicists think particles are ripples in fields, and others think they are tiny strings. Nobody has tested strings yet.",
+  "What is an electron doing when nothing is measuring it? Everyone agrees on the maths, but physicists still argue about what is really going on."
+ ],
+ "story": {
+  "title": "What Came Through the Box",
+  "text": [
+   "In the winter of 1940, in Darjeeling, the mist came up the hill every afternoon and swallowed the tea gardens. Dawa was ten. She lived with her mother and father in a small wooden house near the top of the town. From her window she could see Kanchenjunga, when the mist allowed it.",
+   "That winter, a lady from Calcutta came to stay at the rest house down the road. Her name was Bibha Chowdhuri. She wore a woollen shawl over her sari and walked fast, as if the hill were not steep at all. Dawa's father carried her luggage up from the station, and that was how Dawa first saw the box.",
+   "It was a small wooden box, heavier than it looked. Inside, wrapped in black paper, were thin plates of glass. Each one was coated on one side with the film used for photographs.",
+   "'Nobody must open it,' said Bibha. 'Not even me, until it is time. If one ray of light gets in, the plates are spoiled.'",
+   "'Then how will they take a photograph?' asked Dawa. 'A camera needs light.'",
+   "Bibha smiled. 'These plates are not waiting for light. They are waiting for something much smaller.'",
+   "She asked Dawa's father to keep the box on a high shelf in the shed behind their house, where it would stay dry and nobody would knock it. She would come back for it in some weeks.",
+   "Dawa looked at the box every day, on the way to fetch water and on the way back. It never moved. The lid was nailed shut. The black paper inside was folded tight. The shed door was locked at night. When the rain came, her father put an old sack over the box.",
+   "'What is it waiting for?' Dawa asked him.",
+   "'Something from the sky, the lady said.'",
+   "Dawa looked up. The sky was grey and wet. The only things that fell from it were rain and, once, a crow's feather. Neither could get into a nailed box. Weeks went by. Dawa decided that the lady from Calcutta was clever, but a little mad. Who keeps a box that waits for nothing?",
+   "When Bibha came back, her shawl was damp and her cheeks were red from the climb. Dawa's father lifted down the box, and Bibha carried it away carefully, like a sleeping baby. At the gate she turned and looked at Dawa's face, and laughed. 'You think I am wasting my time,' she said. 'Come to the rest house on Sunday. Bring your father.'",
+   "By Sunday the plates had been developed in a dark room. They lay in a row on a table by the window. They looked like nothing at all, just grey glass, a little cloudy. Dawa felt sorry for the lady.",
+   "Then Bibha put one plate under a microscope, turned a small wheel, and stepped back. 'Look,' she said.",
+   "Dawa put her eye to the microscope. At first she saw only grey speckles, like sand. Then she saw a line. It was made of tiny black dots, one after another, dead straight, like the footprints of something very small that had walked across the glass without stopping. Next to it was another line, thinner, at a slant. Then another.",
+   "'Something got in,' Dawa whispered.",
+   "'Something went through,' said Bibha. 'Particles. Tiny pieces of matter, far too small to see. They are made high up in the air, when even faster particles from space crash into it. They rain down on the whole Earth, day and night. They went through the roof of your shed, through the sack and the wood and the black paper. Each one left a trail of dots in the film as it passed.'",
+   "Dawa lifted her head. 'But the box was nailed shut. Nothing could get in.'",
+   "'Nothing as big as a crow's feather,' said Bibha. 'A feather is made of more atoms than anyone could count. These particles are smaller than one atom. They slip through the wood the way a cat slips through a crowd.'",
+   "Dawa said nothing. She was thinking about the shed, and the sack, and the black paper folded tight. All those weeks, while she was sure nothing was happening, the box had been full of comings and goings.",
+   "'Do they go through people too?' asked her father.",
+   "'Yes,' said Bibha. 'A few go through your hand every second. You have never felt one. Nobody has.'",
+   "That evening, Dawa sat on the step of their house and held her hand out in the cold air. It looked the same as always: brown skin, a scratch on one knuckle, a little ink on her thumb from school. She held it very still. Somewhere in it, too small to feel, something from the top of the sky was passing straight through and going on into the ground.",
+   "The mist came up the hill, the way it did every evening. Dawa did not pull her hand back. She kept it there a long time, open."
+  ],
+  "epiphany": "For the parent: the turn is under the microscope. Dawa was sure nothing could enter a nailed, wrapped box, because she thought of things the size of feathers. The tracks show that particles far smaller than an atom pass through wood, paper and people all the time. We know these particles only by the trails they leave. What is real: Bibha Chowdhuri and D.M. Bose of the Bose Institute in Calcutta exposed photographic plates at Darjeeling and at higher places nearby, between 1939 and 1942. The plates recorded tracks of mesons, particles made when rays from space hit the air. They published their results in the journal Nature. A team in England led by Cecil Powell later used better plates to find one kind of meson, the pion, and Powell won the Nobel Prize in 1950. In 2019 a star was named Bibha after her. What is imagined: Dawa, her family, the shed and every conversation.",
+  "ask": [
+   "Why was Dawa so sure that nothing could get into the box?",
+   "What did the lines of dots on the glass show?",
+   "How could the particles go through wood and paper when a crow's feather could not?",
+   "Bibha never saw a single particle. How did she know they were there?",
+   "Later, a team in England with better plates won a Nobel Prize for finding one kind of these particles. Who do you think should be remembered, and why?"
+  ]
+ }
+}
