@@ -748,7 +748,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Give out the role cards. 2. Put the SUN at one end of the room, the MANGO in the middle, and the EYE to one side of the MANGO. 3. The BRAIN stands behind the EYE.",
+     "do": "1. Give out the role cards. 2. Put the SUN at one end of the room and the MANGO in the middle. 3. Put the EYE to one side of the MANGO. 4. The BRAIN stands behind the EYE.",
      "say": "We are going to act out how you see a mango. Each sock ball is a tiny bit of light. Scientists call one tiny bit of light a photon.",
      "kid": "Pick a role: SUN, MANGO, EYE or BRAIN. The socks are bits of light. Get in your places.",
      "context": "This is the first step of Photon Relay. Players act out light travelling from the Sun, to a mango, to an eye. Here everyone takes a role."
@@ -1670,7 +1670,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Make the room dim. Close the curtains and switch off the lights, but leave a door open to a lit room, so you can still see a face. 2. Wait one full minute. 3. Hold the pupil card just under one of your child's eyes and find the circle that matches the pupil. Write the size. Do this three times. 4. Swap, so your child measures your pupil too.",
+     "do": "1. Make the room dim. Close the curtains and switch off the lights. Leave a door open to a lit room, so you can still see a face. 2. Wait one full minute. 3. Hold the pupil card just under one of your child's eyes and find the circle that matches the pupil. Write the size. Do this three times. 4. Swap, so your child measures your pupil too.",
      "say": "Wait one minute for your eyes to settle. Now look straight ahead at the wall. Which circle on the card is the same size as your pupil?",
      "kid": "Wait one minute in the dim room. Look at one eye in the mirror. Hold the card under it. Which circle matches the black middle? Write it down.",
      "parent": "Look closely, from about a hand's width away. Dark brown eyes make the pupil harder to tell apart from the iris. Turn your child's face a little towards the open door, so some light falls on the eye. In dim light many children's pupils are 6 or 7 mm. Your child can also watch their own pupil in a mirror."
@@ -1892,7 +1892,7 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child to draw the torch, the toy and an eye with arrows, then say what they think, what they saw, and why.",
+     "do": "Ask your child to draw the torch, the toy and an eye, with arrows for the light. Then ask what they think, what they saw, and why.",
      "say": "Draw the light's path with arrows. Which way do the arrows go? Then tell me what you think, what you saw, and why.",
      "kid": "Draw the torch, the toy and your eye. Draw arrows for the light. Then say: what I think, what I saw, why.",
      "parent": "Look at the arrows. Many children draw an arrow from the eye to the toy. If your child does, ask: 'In the dark room, did your eye send something out? Then why couldn't you see?' A good answer: What I think: to see the toy, light must go from the torch to the toy and then into my eye. What I saw: when the card blocked either part, the toy vanished. Why: the toy makes no light, so it needs to bounce light from the torch into my eye."
@@ -2040,7 +2040,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "On the card, draw a small cross on the left and a filled dot about as big as a pea on the right. Put them about 8 cm apart, on the same line.",
+     "do": "On the card, draw a small cross on the left. Draw a filled dot, about as big as a pea, on the right. Put them about 8 cm apart, on the same line.",
      "say": "We're going to find a place in your eye that cannot see at all. Everyone has one. This card will show us.",
      "kid": "Draw a small cross on the left of the card. Draw a black dot on the right, 8 cm away. Make them the same height.",
      "context": "This is the first step of the blind spot activity. You draw a cross and a dot on a card to find the place in your eye that cannot catch light."
@@ -2145,7 +2145,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Back inside, help your child draw a bar chart of the three counts, and say what they think, what they saw, and why.",
+     "do": "Back inside, help your child draw a bar chart of the three counts. Then ask what they think, what they saw, and why.",
      "say": "Let's make a bar for each count. What happened to the number of stars? The sky didn't change, so what did?",
      "kid": "Draw a bar for each count. Did the number go up? The sky stayed the same. So what changed?",
      "check": {
@@ -2524,7 +2524,7 @@
      "id": "s2",
      "mins": 15,
      "adult": true,
-     "do": "1. On the card strip, a grown-up makes three round holes: one as small as a pin, one as big as a pea, one as big as a coin. 2. Your child paints a coloured ring around each hole. This is the iris. 3. Slide the strip into the slits. 4. Tape the string to the back of the box and lead it to a drawing of a brain. This is the optic nerve.",
+     "do": "1. On the card strip, a grown-up makes three round holes. Make one as small as a pin, one as big as a pea, and one as big as a coin. 2. Your child paints a coloured ring around each hole. This is the iris. 3. Slide the strip into the slits. 4. Tape the string to the back of the box and lead it to a drawing of a brain. This is the optic nerve.",
      "say": "These three holes are pupils of different sizes. The coloured ring around each is the iris. The string is the optic nerve, which carries signals to the brain.",
      "kid": "A grown-up makes three holes in the card: tiny, middle, big. Paint a coloured ring around each one. That is the iris. Slide it in. Tape on a string to a brain drawing."
     },
