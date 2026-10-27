@@ -3,7 +3,7 @@
 
 **Summary.** Pick up anything and follow it backwards, and you always reach something nature made. A steel spoon began as rock dug from a mine. A plastic bucket began as oil deep underground. Some things are natural, like a stone, a mango or a crow's feather. Other things are made by people, but never from nothing. People take natural raw materials and change them by cutting, spinning, melting, baking and mixing. Your child makes paper, salt, milk plastic, plant colours and a clay diya with their own hands. Then they zoom in: natural and made things are built from the same few kinds of atoms, and those atoms were made long ago inside stars.
 
-**Intro.** *Pick up anything near you. A pencil, a spoon, a button. Now ask it a question. Where were you before you were this? And before that? How far back can you go?* Your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Follow any object backwards, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.
+**Intro.** *Pick up anything near you. A pencil, a spoon, a button. Now ask it a question. Where were you before you were this? And before that? How far back can you go?* The wood of your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Follow any object backwards, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.
 
 ## Learning outcomes
 0. I can say what an object is made of, and trace its material back to where it came from: a plant, an animal, the ground, the sea or the air.
@@ -27,7 +27,7 @@
 - **Weave**: To cross threads over and under each other to make cloth. *e.g.* A weaver on a handloom weaves thread into a sari.
 - **Kiln**: A very hot oven for baking clay. Baking makes soft clay into hard pottery and bricks. *e.g.* Bricks are baked in a brick kiln with a tall chimney.
 - **Furnace**: A very hot fire inside a closed chamber. It is hot enough to melt sand into glass, or ore into metal. *e.g.* Glass bangles in Firozabad are made from glass melted in furnaces.
-- **Petroleum (crude oil)**: A thick, dark oil found deep under the ground and the sea floor. It formed over millions of years from tiny sea living things. Most plastic is made from it, and from natural gas. *e.g.* Petrol for scooters and the plastic of a bucket both come from petroleum.
+- **Petroleum (crude oil)**: A thick, dark oil found deep under the ground and the sea floor. It formed over millions of years from tiny living things in the sea. Most plastic is made from it, and from natural gas. *e.g.* Petrol for scooters and the plastic of a bucket both come from petroleum.
 - **Plastic**: A made material that can be shaped when it is soft and warm, then sets hard. Most plastic is made from petroleum and natural gas. *e.g.* Buckets, toothbrushes and pens are usually plastic.
 - **Synthetic**: Made by people through chemistry, by joining atoms into new patterns. Many synthetic materials are not found in nature at all. *e.g.* Nylon and polyester are synthetic fibres. Cotton and silk are natural fibres.
 - **Process**: The steps people use to change a raw material into something useful. *e.g.* Clay is dug, mixed with water, shaped, dried and baked. That is the process for making a pot.
@@ -61,7 +61,7 @@ Follow any material back far enough, and you reach a source in nature. Wood, cot
 A mango, a crow, a pebble and the wind are natural. Nobody made them. A bicycle, a brick and a plastic bottle are made by people. Here is the tricky part. Every made thing is made from natural things. A wooden chair is made by people, from a natural material, wood. So we ask two questions. First, what is the material? Second, did people make this thing from it?
 - e.g. A cotton boll on the plant is natural. A cotton kurta is made by people from it.
 - e.g. A potted plant is natural. The pot is made by people.
-- e.g. A cement road is made by people, from natural limestone, clay and sand.
+- e.g. A concrete road is made by people, from cement, sand and stones. Cement is made from natural limestone and clay.
 ### How people change natural materials · *defined*
 **Definition:** People change raw materials by cutting, shaping, spinning, weaving, melting, baking, mixing and heating. The steps are called a process.
 
@@ -71,7 +71,7 @@ Some materials are changed only a little. A carpenter cuts and shapes wood, but 
 - e.g. Sand is mixed with soda ash and limestone, melted, and blown or pressed into glass.
 ### Is anything really unnatural? · *debated*
 Everyone agrees on the easy cases. A pebble is natural, and a plastic bucket is made by people. But where exactly is the line? Thinkers give different answers.
-- e.g. Plastic is made from oil, and oil formed from tiny sea living things that died millions of years ago.
+- e.g. Plastic is made from oil, and oil formed from tiny living things in the sea that died millions of years ago.
 - e.g. A beaver's dam is built by an animal. A farmer's mud dam is built by people. Are both natural?
 - **The everyday view, used in most school books:** If people made it or changed it a lot, it is made by people, or artificial. Otherwise it is natural.
 - **Chemists:** What matters is the substance, not who made it. Indigo dye made in a factory is the very same substance as indigo from the plant. So a material can be both made by people and exactly like a natural one.
@@ -79,7 +79,7 @@ Everyone agrees on the easy cases. A pebble is natural, and a plastic bucket is 
 ### Animals make materials too · *defined*
 **Definition:** Many animals make materials. Some grow them on their bodies, and some build with them.
 
-A sheep grows wool, and people only cut it. A silkworm, the caterpillar of a moth, spins a cocoon of one long silk thread. Bees make wax for their honeycomb. In Jharkhand and nearby states, tiny lac insects on trees make a resin. People scrape it off to make bangles, varnish and sealing wax. Spiders spin silk that is very strong for its weight. Paper wasps chew wood and spit it out as paper for their nests. In 1719 a French scientist, René Réaumur, watched these wasps. He wrote that people could learn to make paper from wood, as wasps do. About 120 years later, people did.
+A sheep grows wool, and people only cut it. A silkworm, the caterpillar of a moth, spins a cocoon of one long silk thread. Bees make wax for their honeycomb. In Jharkhand and nearby states, tiny lac insects on trees make a resin. People scrape it off to make bangles, varnish and sealing wax. Spiders spin silk that is very strong for its weight. Paper wasps chew wood and spit it out as paper for their nests. In 1719 a French scientist, René Réaumur, watched these wasps. He wrote that people could learn to make paper from wood, as wasps do. In the 1840s, more than 120 years later, people in Germany and Canada did.
 - e.g. Wool from sheep, silk from silkworms, honey and wax from bees.
 - e.g. Lac from lac insects makes the bright lac bangles of Rajasthan.
 - e.g. A weaver bird weaves its nest from strips of grass.
@@ -93,7 +93,7 @@ Every plant is made of tiny boxes called cells. The walls of these cells are mad
 ### Materials from deep in the ground: metals, sand, clay and oil · *defined*
 **Definition:** Metals come from ores, rocks with metal inside. Glass comes from sand. Bricks and pots come from clay. Most plastic comes from petroleum and natural gas.
 
-Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Most steel is iron with a little carbon. A steel tumbler or spoon is stainless steel, which also has chromium mixed in, so it does not rust. Clay is soil made of very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So most plastic is made from living things that died millions of years ago.
+Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Most steel is iron with a little carbon. A steel tumbler or spoon is stainless steel, which also has chromium mixed in, so it does not rust. Clay is a kind of soil with very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So most plastic is made from the remains of living things that died millions of years ago.
 - e.g. Bauxite, a reddish ore from Odisha and other states, gives aluminium for pressure cookers and foil.
 - e.g. Sand from riverbeds and quarries is melted into glass.
 - e.g. A plastic bucket started as oil pumped up from deep underground or under the sea.
@@ -115,7 +115,7 @@ For thousands of years, India was famous for indigo. It was made from the leaves
 **Definition:** Everything, natural or made, is built from atoms. There are about 90 kinds of atom found in nature, called elements.
 
 Imagine a box of building blocks with about 90 colours. With them you can build anything at all. Atoms work like that. Wood, cotton and sugar are made mostly of three elements: carbon, hydrogen and oxygen. Most plastics are made mostly of carbon and hydrogen. Things are different because their atoms are joined in different patterns. A diamond and the graphite in your pencil are both carbon, joined in different ways. When people make a material in a kitchen or a factory, they never make new atoms. They only move atoms around and join them in new ways.
-- e.g. A wooden spoon and a plastic spoon are both made mostly of carbon and hydrogen. The wood also has a lot of oxygen.
+- e.g. A wooden spoon and a plastic spoon are both built from carbon and hydrogen atoms. The wood also has many oxygen atoms. Most plastic has few or none.
 - e.g. Diamond and graphite are both made of carbon atoms, joined in different patterns.
 - e.g. Water is two hydrogen atoms joined to one oxygen atom.
 ### Where atoms come from: made in stars · *debated*
@@ -128,7 +128,7 @@ Scientists agree on most of this story. Right after the universe began, there wa
 ### Hidden hands: the people inside our things · *defined*
 **Definition:** Every made thing passes through many people's hands, from the field or the mine to the shop.
 
-Think of a cotton kurta. A farmer grew the cotton, often in great heat. Pickers picked it by hand. Workers in a mill cleaned and spun it. A weaver wove it. A tailor stitched it. Drivers carried it at every step. Most of these people are never named. Some were paid very little. Long ago, the cloth of Bengal, called Dhaka muslin, was so fine it was famous across the world. It was spun by hand from a special cotton plant. The skill was lost in the 1800s. Today people in Bangladesh are trying to bring it back. From the 1920s, Gandhi asked Indians to spin their own thread on a charkha and wear khadi. He said it showed that people could make their own things.
+Think of a cotton kurta. A farmer grew the cotton, often in great heat. Pickers picked it by hand. Workers in a mill cleaned and spun it. A weaver wove it. A tailor stitched it. Drivers carried it at every step. Most of these people are never named. Some were paid very little. Long ago, the cloth of Bengal, called Dhaka muslin, was so fine it was famous across the world. It was spun by hand from a special cotton plant. The skill was lost in the 1800s. Today people in Bangladesh are trying to bring it back. From the 1920s, Gandhi asked Indians to spin their own thread on a charkha and wear khadi. He said that if Indians made their own cloth, they would not need cloth from British mills.
 - e.g. A steel spoon passed through the hands of miners, furnace workers and factory workers.
 - e.g. Recycled paper and plastic in India are often collected by kabadiwalas and waste pickers, many of them women.
 ### People are now changing the Earth's materials · *debated*
@@ -157,7 +157,7 @@ In 2020, scientists in Israel added up the weight of everything people have made
   For: Plastic is made in factories, by people, through chemistry. Nothing like most plastics is found in nature.  
   Against: Plastic is made from petroleum and natural gas. These formed from tiny living things in ancient seas. So plastic is made by people, but from a natural raw material. Its atoms are ordinary carbon and hydrogen.
 - **Cotton cloth was first made in England, where the big cotton mills were.** (A common guess, because England's cotton mills were so famous; *rejected*)  
-  For: Europe and China had great cloth-makers. England's mills made huge amounts of cotton cloth in the 1800s.  
+  For: England's mills made huge amounts of cotton cloth in the 1800s and sold it all over the world.  
   Against: Some of the oldest cotton ever found comes from Mehrgarh, in present-day Pakistan. Cotton fibres were preserved inside a copper bead more than 7,000 years old. Cotton cloth was made in the Indus Valley more than 4,000 years ago. For centuries, the finest cotton cloth in the world came from India.
 - **A diamond made in a laboratory is a fake diamond.** (Some jewellery sellers and many shoppers; *rejected*)  
   For: Mined diamonds took millions or billions of years to form deep in the Earth. Lab diamonds take only weeks.  
@@ -172,17 +172,17 @@ In 2020, scientists in Israel added up the weight of everything people have made
 ## Roots
 We have been learning where every material comes from, and how people change natural materials. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** Follow any made thing backwards, and you always reach something nature made. The salt left on your plate in the salt experiment was already in the water. People never make a material from nothing. They take apart, mix, heat and rearrange what the Earth already holds.  
+**Deep truth.** The salt on your plate was in the water before the sun dried it. The sun took the water into the air and left the salt behind. Paper, steel and plastic were also something else first. So people never make a material from nothing: they always change one that was already there.  
 *Habit it breaks:* We say people 'make' paper, plastic or salt, as if they made the material itself. But making is always changing something that was already there. 'Made by people' tells us what people did, not where the material began.  
 *Evidence:* In the salt experiment, salt appeared only because the water left. In the Journey Backwards, every chain ended at something nature made. In the paper experiment, old paper became new paper.
 
-- *who am i:* Your body is built from atoms in the food you eat. Those atoms were made inside stars, long ago.
+- *who am i:* Your body is built from atoms in the food you eat. Most of those atoms were made inside stars, long ago.
 - *what is life:* Living things are makers too. Silkworms make silk, bees make wax and paper wasps make paper.
-- *what is this world:* A world where nothing is made from nothing. Every made thing is the Earth's material, changed by someone's work.
+- *what is this world:* In this world, nothing is made from nothing. Every made thing is the Earth's material, changed by someone's work.
 
-A steel spoon, a plastic bucket and a mango look as if they have nothing in common. Follow each one back, and they all lead to the same few kinds of atoms, made in stars. DeepKids believes that everything comes from one source. This unit's science gives a small picture of that: a few kinds of atom take the form of salt, clay, silk and you. When people make things, the same atoms simply take one more form.
+A steel spoon, a plastic bucket and a mango look as if they have nothing in common. Follow each one back, and they all lead to the same few kinds of atoms, made in stars. DeepKids believes that everything comes from one source. This unit's science shows something like it on a small scale. About 90 kinds of atom take the form of salt, clay, silk and you. When people make things, the same atoms simply take one more form.
 
-- **Mundaka Upanishad 1.1.7:** A spider spins its thread out of itself. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source. (In this unit, silk comes out of the silkworm, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source.)
+- **Mundaka Upanishad 1.1.7:** A spider spins its thread out of itself. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source. (In this unit, spiders and silkworms spin silk out of their own bodies, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper. You can see the cloud, the rain and the tree in it. Take them away, and there is no paper. (In the paper experiment, you saw plant fibres at the torn edge of paper. Those fibres grew in a tree that needed rain and sun. So the paper really does carry the tree, the rain and the sun in its story.)
 - Science (settled): When people cook, melt or mix materials, no atoms are made or lost. They are only rearranged.
 - Science (settled): Almost every atom in your body, apart from hydrogen, was made inside a star.
@@ -286,7 +286,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   - Think: The plastic bucket started at an oil well. But where did the oil come from, long, long ago?
 ### g2 · Who Made It? The Tricky Court (20 min)
 - **rules:** Choose one judge. Lay out the three court mats.; The judge reads a case card out loud.; Each lawyer chooses a mat and argues for it in two or three sentences. Each must give a reason.; The judge puts the card on the mat with the best reason. That lawyer wins a gavel token.; If the case is truly tricky, the judge can put it on the line between two mats. Then both lawyers win a token.; Swap judges every 5 cards. The player with the most tokens wins.
-- **Printable cards: 20 tricky case cards:** A pearl from an oyster; A cultured pearl, grown in an oyster on a pearl farm; A diamond made in a laboratory; Honey; A weaver bird's nest; A termite mound; A paper wasp's nest; A wooden chair; A potted tulsi plant; A cotton kurta; A coconut; A coir doormat; A loaf of bread; A clay diya; A sand dune; A cement road; A mango from a farm; A rubber band; Rain; A rock made of melted plastic, sand and stones, found on a beach
+- **Printable cards: 20 tricky case cards:** A pearl from an oyster; A cultured pearl, grown in an oyster on a pearl farm; A diamond made in a laboratory; Honey; A weaver bird's nest; A termite mound; A paper wasp's nest; A wooden chair; A potted tulsi plant; A cotton kurta; A coconut; A coir doormat; A loaf of bread; A clay diya; A sand dune; A concrete road; A mango from a farm; A rubber band; Rain; A rock made of melted plastic, sand and stones, found on a beach
 - **Printable board: Three court mats:** MADE BY NATURE; MADE BY AN ANIMAL; MADE BY PEOPLE
 - **Printable tokens: Judge's gavel tokens:** ⚖️
 - **s1 (3 min)**  
@@ -303,7 +303,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent says:* Judge, read the case. Lawyers, make your case. Remember to give a reason.  
   *Child mode:* Judge reads a card. Lawyers argue. Judge decides. Win a token for a good reason.
   - Ask: Which card was the hardest to decide? Why? (good: The cultured pearl, because the oyster and people both made it.; The plastic rock, because nature and people both made it.; The bread, because yeast helped.)
-  - Note: Helpful facts for the judge. A paper wasp's nest really is paper, made by the wasp from chewed wood. Honey is made by bees from flower nectar. A loaf of bread is made by people, from wheat and with the help of yeast, a tiny living thing. Rain and sand dunes are natural. A cement road is made by people from natural limestone, clay and sand. The plastic rock is called plastiglomerate. Scientists first described it in 2014, on a beach in Hawaii. It was formed when fires melted plastic onto sand and stones.
+  - Note: Helpful facts for the judge. A paper wasp's nest really is paper, made by the wasp from chewed wood. Honey is made by bees from flower nectar. A loaf of bread is made by people, from wheat and with the help of yeast, a tiny living thing. Rain and sand dunes are natural. A concrete road is made by people from cement, sand and stones. Cement is made from natural limestone and clay. The plastic rock is called plastiglomerate. Scientists first described it in 2014, on a beach in Hawaii. It was formed when fires melted plastic onto sand and stones.
 - **s4 (3 min)**  
   *Parent does:* Look at the three mats and the cards on the lines between them.  
   *Parent says:* Look at the cards on the lines between the mats. Is the line between natural and made always sharp?  
@@ -369,16 +369,16 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Child mode:* Pour half the water on each plate. Put one in the sun. Put one in the shade. Now wait.
   - Note: On the coasts of Gujarat and Tamil Nadu, and in the Little Rann of Kutch, salt makers let sea water or salty underground water dry in big flat pans. In the Rann, families called Agariyas have made salt this way for generations.
 - **s3 (6 min)**  
-  *Parent does:* Each day, look at both plates. Write down when each one is completely dry.  
+  *Parent does:* Each day, look at both plates. Write down when each one is completely dry. In damp or rainy weather, the shady plate can take 4 or 5 days.  
   *Parent says:* Which plate is drying faster? Where is the water going?  
   *Child mode:* Check your plates every day. Which one dries first? Where is the water going?
   - Check: Where does the water go as the plate dries? → **Into the air, as water vapour we cannot see**
-  - Wait: Check both plates each day for up to 3 days.
+  - Wait: Check both plates each day for up to 5 days.
 - **s4 (6 min)**  
   *Parent does:* 1. When both plates are dry, look at the white crust with a magnifier. 2. Scrape the salt from each plate into a separate heap with a teaspoon. 3. Compare the two heaps.  
-  *Parent says:* Look at the shapes. Salt grows in tiny cubes, like little dice. Which plate gave more salt?  
+  *Parent says:* Look at the salt grains with the magnifier. What shape are they? Which plate gave more salt?  
   *Child mode:* Look at the salt with a magnifier. Do you see tiny cubes? Scrape it up. Which plate gave more?
-  - Note: Both plates should give about the same amount of salt, because each had the same amount of salt hidden in it. The sun only makes the water leave faster. Each plate gives only about half a teaspoon of salt, so scrape carefully. Some salt sticks to the plate, so the heaps may be a little different. Slower drying in the shade often grows bigger, neater cubes.
+  - Note: Salt grains grow as tiny cubes, like little dice. Let your child find this first. Both plates should give about the same amount of salt, because each had the same amount of salt hidden in it. The sun only makes the water leave faster. Each plate gives only about half a teaspoon of salt, so scrape carefully. Some salt sticks to the plate, so the heaps may be a little different. Slower drying in the shade often grows bigger, neater cubes.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Before we finish, tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -394,7 +394,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 - **schedule:** day 1: Make four dyes, soak the cloths for 30 minutes, then hang them to dry. (35 min); day 2: Wash half of each cloth, dry it, and compare the colours. (10 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. A grown-up boils each plant material in 2 cups of water for 10 minutes. The four are the turmeric, the grated beetroot, the onion skins and the tea. Use two pans at once, so it takes two rounds. 2. Pour each coloured water into its own bowl. 3. Let it cool until it is just warm.  
-  *Parent says:* The colour is hidden inside the plant. Hot water pulls it out. Before 1856, every colour on every sari in the world came from plants, animals or rocks like these.  
+  *Parent says:* The colour is hidden inside the plant. Hot water pulls it out. Before 1856, almost every colour on every sari came from plants, animals or minerals.  
   *Child mode:* Ask a grown-up to boil each plant in water. Watch the water change colour. The colour came out of the plant!
   - Ask: Which water turned the darkest colour? (good: The beetroot, deep pink.; The onion skins, orange-brown.; The turmeric, bright yellow.)
 - **s2 (8 min)**  
@@ -412,7 +412,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent does:* Put the washed and unwashed halves side by side. Fill in the table.  
   *Parent says:* Which colour stayed best? Which washed out most?  
   *Child mode:* Put the halves side by side. Which colour stayed? Which washed away?
-  - Note: Usually onion skins and tea stay quite well, and turmeric fades in sunlight and with washing. Beetroot often washes out a lot. Dyers in India learned over thousands of years which plants, and which helpers like alum, make colours last. Indigo, the famous blue, came from a plant too.
+  - Note: Usually onion skins and tea stay quite well, and turmeric fades in sunlight and with washing. Beetroot often washes out a lot. If the turmeric cloth turns orange-red when you wash it, that is real: soap changes the colour of turmeric. Dyers in India learned over thousands of years which plants, and which helpers like alum, make colours last. Indigo, the famous blue, came from a plant too.
   - Think: In 1856 a teenager in England, William Perkin, made the first dye from chemicals, a bright purple. Was his dye natural or made?
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -429,12 +429,12 @@ She did not sell it. She gave a pinch to everyone who passed.
 - **schedule:** day 1: Make milk plastic with 1, 2 and 4 teaspoons of vinegar. Squeeze it and shape it. (25 min); day 2: Check the shapes. They should be dry and hard. (5 min)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up warms 1 cup of milk in a pan until it is steaming but not boiling. 2. Pour it into a bowl. 3. Add 1 teaspoon of vinegar and stir slowly for 1 minute.  
-  *Parent says:* Watch closely. Milk looks like one smooth liquid. But hidden in it is a material called casein. Vinegar makes the casein come out of the milk in lumps.  
+  *Parent says:* Milk looks like one smooth liquid. Watch closely as the vinegar goes in. What do you see?  
   *Child mode:* Ask a grown-up to warm the milk. Add one spoon of vinegar. Stir slowly. Watch! What do you see?
   - Ask: What happened to the milk? (good: It went lumpy.; White blobs came out.; It split into lumps and yellowish water.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Do the same with a fresh cup of hot milk and 2 teaspoons of vinegar. 2. Then with a third cup and 4 teaspoons. 3. Pour each bowl through the strainer. 4. Count how many teaspoons of lumps each bowl gave.  
-  *Parent says:* Same milk, same warmth, same stirring. Only the vinegar changes. Which bowl gives the most lumps?  
+  *Parent says:* The white lumps are a material called casein. It was hidden in the milk all along, and the vinegar makes it come out. Now, same milk, same warmth, same stirring. Only the vinegar changes. Which bowl gives the most lumps?  
   *Child mode:* Try again with 2 spoons of vinegar. Then 4 spoons. Strain each bowl. Count the spoons of lumps.
   - Note: This is how paneer is made too, with lemon juice. The lumps are casein, a natural material from milk, with some milk fat. Let the lumps cool before your child touches them.
 - **s3 (8 min)**  
@@ -446,7 +446,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent does:* After 2 days, feel the shapes. Tap one on the table.  
   *Parent says:* About 125 years ago, factories in Germany and France made a hard plastic like this from milk. They called it Galalith, which means 'milk stone'. People made buttons, combs and fountain pens from it.  
   *Child mode:* Feel your shape. Is it hard now? Long ago, factories made buttons from milk plastic like this!
-  - Note: Galalith was invented in 1897 and made into buttons, buckles and jewellery for decades. It soaks up water and can crack, so most factories later switched to plastics made from oil.
+  - Note: Galalith was invented in 1897 and made into buttons, buckles and jewellery for decades. It soaks up water and can crack, so most factories later switched to plastics made from oil. If your shapes are still soft after 2 days, leave them 2 more days. Toned milk gives a harder plastic than full-cream milk, because fat keeps it soft.
   - Think: Today most plastic is made from oil. Why do you think factories stopped making plastic from milk?
   - Wait: Leave the shapes to dry for 2 days.
 - **s5 (4 min)**  
@@ -468,7 +468,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent does:* For each object, draw a chain of boxes from right to left. Start with the object on the right. Keep asking 'and before that?' until you reach nature. Draw a small picture in each box.  
   *Parent says:* The shop. Before the shop? A factory. Before the factory? Keep going until you reach something nature made.  
   *Child mode:* Draw the object in a box. Draw an arrow back. What was it before? Keep going until you reach nature.
-  - Note: Good chains. Steel spoon: shop, factory pressing steel sheets, stainless steel made in a furnace from iron and chromium, iron ore and chromium ore dug from mines in Odisha or Jharkhand, rock in the ground. Cotton hanky: shop, cloth weaving, thread spinning, cotton fluff, cotton plant in a field in Gujarat or Maharashtra, seed, soil, sun and rain. Plastic comb: shop, factory moulding plastic, plastic beads, chemicals made from petroleum, oil deep underground, tiny sea living things from millions of years ago.
+  - Note: Good chains. Steel spoon: shop, factory pressing steel sheets, stainless steel made in a furnace from iron and chromium, iron ore and chromium ore dug from mines in Odisha or Jharkhand, rock in the ground. Cotton hanky: shop, cloth weaving, thread spinning, cotton fluff, cotton plant in a field in Gujarat or Maharashtra, seed, soil, sun and rain. Plastic comb: shop, factory moulding plastic, plastic beads, chemicals made from petroleum, oil deep underground, tiny living things in the sea, millions of years ago.
   - Check: Follow a plastic comb backwards. Where does it end up? → **At oil deep underground, made from ancient sea life**
 - **s3 (4 min)**  
   *Parent does:* Put the three chains side by side and compare where each one ends.  
@@ -593,7 +593,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent does:* 1. Look at the bottle. Draw the layers you see. 2. In the bucket, gently pour off the clear water on top. 3. Scoop out the smooth top layer of mud, the clay. 4. Wrap it in a cloth and hang it up, or leave it on newspaper, until it is like soft dough.  
   *Parent says:* See the layers? Stones and sand at the bottom, then silt, then the smooth clay on top. Clay grains are the tiniest of all.  
   *Child mode:* Look at the layers in your bottle! Draw them. Scoop the smooth top mud from the bucket. That is clay!
-  - Note: Some soils have very little clay. If yours has hardly any, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty.
+  - Note: If the water on top is still muddy, the clay is still sinking. Wait another day before pouring. Some soils have very little clay. If yours has hardly any, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty.
   - Check: In the bottle, why is the clay on the top? → **Clay grains are the tiniest, so they sink last**
 - **s3 (15 min)**  
   *Parent does:* 1. Knead the clay until it is smooth and does not crack when bent. 2. Roll a ball the size of a lemon. 3. Press your thumb in the middle and pinch the sides up into a cup. 4. Pinch one side into a spout for a wick. 5. Weigh the wet diya on the kitchen scale and write the number.  
@@ -682,7 +682,7 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** Cotton fluff → spin it into thread; Clay → bake it in a kiln; Sand → melt it in a furnace into glass; Sea water → dry it in the sun to get salt. *Why:* People change raw materials in different ways: spinning, baking, melting and drying.
 9. (mcq) Which of these comes from an animal?  
    Options: Silk / Jute / Coir / Rubber  
-   **Answer:** Silk. *Why:* Silk comes from the cocoon of a silkworm, a moth's caterpillar. Jute, coir and rubber all come from plants. Picking 'rubber' is a common mix-up, because rubber feels a bit like skin. It comes from the milky sap of a tree.
+   **Answer:** Silk. *Why:* Silk comes from the cocoon of a silkworm, a moth's caterpillar. Jute, coir and rubber all come from plants. Picking 'rubber' is a common mix-up, because many people do not know where rubber comes from. It comes from the milky sap of a tree.
 10. (fill) Most of India's salt comes from the ____.  
    **Answer:** ['sea']. *Why:* Sea water has salt hidden in it. In salt pans, the sun dries the water away and the salt is left.
 11. (mcq) In the salt experiment, where did the salt come from?  
@@ -715,8 +715,8 @@ She did not sell it. She gave a pinch to everyone who passed.
 7. (mcq) Factory indigo and plant indigo are…  
    Options: The very same substance, made two ways / Completely different colours / Both fake / Both made from oil only  
    **Answer:** The very same substance, made two ways. *Why:* Chemists showed that factory indigo is exactly the same substance as plant indigo. It is made by people, but it is not different. Picking 'completely different' usually means thinking made things can never be the same as natural things.
-8. (truefalse) Before 1856, every dye in the world came from plants, animals or rocks.  
-   **Answer:** True. *Why:* True. In 1856 William Perkin made the first dye from chemicals, a purple called mauve. Before that, colours came from nature, like turmeric, indigo and lac.
+8. (truefalse) Before 1856, almost every dye in the world came from plants, animals or minerals.  
+   **Answer:** True. *Why:* True. In 1856 William Perkin made mauve, a purple. It was the first dye made from chemicals to be sold all over the world. Before that, almost all colours came from nature, like turmeric, indigo and lac.
 9. (mcq) In the colour experiment, why did we soak every cloth for the same time?  
    Options: So the only difference was the dye / Because 30 is a lucky number / So the cloths would dry faster / To use up the water  
    **Answer:** So the only difference was the dye. *Why:* In a fair test you change only one thing. Here that was the dye. If one cloth soaked longer, it might be darker for that reason. Picking 'dry faster' is a guess about time, but soaking time is about fairness. The unit on Testing materials has much more about fair tests.
@@ -750,7 +750,7 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** In crashes between two dead stars called neutron stars. *Why:* In 2017 telescopes saw two neutron stars crash, throwing out heavy atoms. Many scientists think crashes like this make much of the gold. Others think rare exploding stars also make some. Picking 'gold mines' confuses where we find gold with where it was made.
 6. (mcq) Is plastic completely unnatural?  
    Options: Yes, it has nothing to do with nature / It is made by people, but from petroleum, which formed from ancient living things / No, plastic grows on trees  
-   **Answer:** It is made by people, but from petroleum, which formed from ancient living things. *Why:* Plastic is made by people, through chemistry. But its raw material, petroleum, formed from tiny sea living things over millions of years. Picking 'nothing to do with nature' means stopping the journey at the factory.
+   **Answer:** It is made by people, but from petroleum, which formed from ancient living things. *Why:* Plastic is made by people, through chemistry. But its raw material, petroleum, formed over millions of years from tiny living things in the sea. Picking 'nothing to do with nature' means stopping the journey at the factory.
 7. (mcq) A diamond grown in a laboratory is…  
    Options: A real diamond, made by people / Glass pretending to be a diamond / A natural diamond / Not made of carbon  
    **Answer:** A real diamond, made by people. *Why:* A lab diamond is pure carbon in the same pattern as a mined diamond. It is real diamond, made by people. Picking 'glass' confuses it with a fake. A fake is a different material that only looks like diamond.
@@ -874,7 +874,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 ## Jokes
 - Why did the salt go to the beach? *To visit its mother, the sea.*
 - What did the cotton plant say to the tailor? *You've got me all sewn up.*
-- Why was the paper so good at sports? *It always made the team sheet.*
+- Why was the old newspaper happy in the mixer? *It was about to turn over a new sheet.*
 - What do you call a sheep with no wool? *Baa-ld.*
 - Why did the clay go to school? *To get into shape.*
 - What did the glass say to the sand? *I used to be just like you.*
@@ -882,13 +882,13 @@ She did not sell it. She gave a pinch to everyone who passed.
 - What is a rubber tree's favourite game? *Bounce and seek.*
 - Why did the star blush? *Everyone said they were made of it.*
 - What did the iron ore say in the furnace? *I'm really melting under pressure.*
-- Why did the wooden chair never get angry? *It was always board.*
-- How do bees make wax? *With a lot of buzz-iness skills.*
+- Why did the wooden chair feel at home in the forest? *All its relatives were there.*
+- Why do bees have sticky hair? *They use honeycombs.*
 - Why was the kulhad so happy? *It knew it would go back to its roots.*
 - What do you call a plastic bucket's grandmother? *Ancient sea life.*
 - Why did the atom never lie? *It makes up everything, but never makes things up.*
 - What did the brick say to the kiln? *You really fired me up.*
-- Why did the jute sack go to the doctor? *It was feeling a bit sack.*
+- What did the rice say to the jute sack? *Thanks for holding me together.*
 - What do you call milk that becomes plastic? *Udderly amazing.*
 - Why did the paper wasp get top marks? *It was good at paper work.*
 - What do you call salt that dances? *A salt shaker.*
@@ -900,7 +900,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 - What is a potter's favourite music? *Anything with a good spin.*
 - Why did the leaf plate never worry? *It knew it would turn over a new leaf.*
 - Why did the sand refuse to be a window? *It didn't want to be seen through.*
-- What do you call a deer made of wool? *A knitted deer.*
+- Where do sheep get their wool cut? *At the baa-baa shop.*
 - Why did the stardust smile? *It was finally down to Earth.*
 
 ## Connected maths

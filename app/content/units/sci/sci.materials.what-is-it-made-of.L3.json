@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Pick up anything near you. A pencil, a spoon, a button. Now ask it a question. Where were you before you were this? And before that? How far back can you go?",
-  "text": "Your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Follow any object backwards, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.",
+  "text": "The wood of your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Follow any object backwards, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.",
   "art": "A pencil in the middle of a page, with a chain of small pictures leading back from it: a pencil factory, a log, a tree in rain, a cloud over the sea, and a second chain from the grey tip back to a dark graphite rock in the ground."
  },
  "outcomes": [
@@ -96,7 +96,7 @@
   },
   {
    "term": "Petroleum (crude oil)",
-   "meaning": "A thick, dark oil found deep under the ground and the sea floor. It formed over millions of years from tiny sea living things. Most plastic is made from it, and from natural gas.",
+   "meaning": "A thick, dark oil found deep under the ground and the sea floor. It formed over millions of years from tiny living things in the sea. Most plastic is made from it, and from natural gas.",
    "example": "Petrol for scooters and the plastic of a bucket both come from petroleum.",
    "art": "A layer of dark oil in rocks deep underground, with tiny sea creatures drawn in the rock above it."
   },
@@ -240,7 +240,7 @@
    "examples": [
     "A cotton boll on the plant is natural. A cotton kurta is made by people from it.",
     "A potted plant is natural. The pot is made by people.",
-    "A cement road is made by people, from natural limestone, clay and sand."
+    "A concrete road is made by people, from cement, sand and stones. Cement is made from natural limestone and clay."
    ],
    "perspectives": [],
    "art": "Two columns of pictures: a mango tree, a crow and a pebble on one side, a bicycle, a brick and a plastic bottle on the other, a wooden chair standing on the line between them.",
@@ -265,7 +265,7 @@
    "status": "debated",
    "description": "Everyone agrees on the easy cases. A pebble is natural, and a plastic bucket is made by people. But where exactly is the line? Thinkers give different answers.",
    "examples": [
-    "Plastic is made from oil, and oil formed from tiny sea living things that died millions of years ago.",
+    "Plastic is made from oil, and oil formed from tiny living things in the sea that died millions of years ago.",
     "A beaver's dam is built by an animal. A farmer's mud dam is built by people. Are both natural?"
    ],
    "perspectives": [
@@ -289,7 +289,7 @@
    "concept": "Animals make materials too",
    "status": "defined",
    "definition": "Many animals make materials. Some grow them on their bodies, and some build with them.",
-   "description": "A sheep grows wool, and people only cut it. A silkworm, the caterpillar of a moth, spins a cocoon of one long silk thread. Bees make wax for their honeycomb. In Jharkhand and nearby states, tiny lac insects on trees make a resin. People scrape it off to make bangles, varnish and sealing wax. Spiders spin silk that is very strong for its weight. Paper wasps chew wood and spit it out as paper for their nests. In 1719 a French scientist, René Réaumur, watched these wasps. He wrote that people could learn to make paper from wood, as wasps do. About 120 years later, people did.",
+   "description": "A sheep grows wool, and people only cut it. A silkworm, the caterpillar of a moth, spins a cocoon of one long silk thread. Bees make wax for their honeycomb. In Jharkhand and nearby states, tiny lac insects on trees make a resin. People scrape it off to make bangles, varnish and sealing wax. Spiders spin silk that is very strong for its weight. Paper wasps chew wood and spit it out as paper for their nests. In 1719 a French scientist, René Réaumur, watched these wasps. He wrote that people could learn to make paper from wood, as wasps do. In the 1840s, more than 120 years later, people in Germany and Canada did.",
    "examples": [
     "Wool from sheep, silk from silkworms, honey and wax from bees.",
     "Lac from lac insects makes the bright lac bangles of Rajasthan.",
@@ -317,7 +317,7 @@
    "concept": "Materials from deep in the ground: metals, sand, clay and oil",
    "status": "defined",
    "definition": "Metals come from ores, rocks with metal inside. Glass comes from sand. Bricks and pots come from clay. Most plastic comes from petroleum and natural gas.",
-   "description": "Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Most steel is iron with a little carbon. A steel tumbler or spoon is stainless steel, which also has chromium mixed in, so it does not rust. Clay is soil made of very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So most plastic is made from living things that died millions of years ago.",
+   "description": "Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Most steel is iron with a little carbon. A steel tumbler or spoon is stainless steel, which also has chromium mixed in, so it does not rust. Clay is a kind of soil with very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So most plastic is made from the remains of living things that died millions of years ago.",
    "examples": [
     "Bauxite, a reddish ore from Odisha and other states, gives aluminium for pressure cookers and foil.",
     "Sand from riverbeds and quarries is melted into glass.",
@@ -361,7 +361,7 @@
    "definition": "Everything, natural or made, is built from atoms. There are about 90 kinds of atom found in nature, called elements.",
    "description": "Imagine a box of building blocks with about 90 colours. With them you can build anything at all. Atoms work like that. Wood, cotton and sugar are made mostly of three elements: carbon, hydrogen and oxygen. Most plastics are made mostly of carbon and hydrogen. Things are different because their atoms are joined in different patterns. A diamond and the graphite in your pencil are both carbon, joined in different ways. When people make a material in a kitchen or a factory, they never make new atoms. They only move atoms around and join them in new ways.",
    "examples": [
-    "A wooden spoon and a plastic spoon are both made mostly of carbon and hydrogen. The wood also has a lot of oxygen.",
+    "A wooden spoon and a plastic spoon are both built from carbon and hydrogen atoms. The wood also has many oxygen atoms. Most plastic has few or none.",
     "Diamond and graphite are both made of carbon atoms, joined in different patterns.",
     "Water is two hydrogen atoms joined to one oxygen atom."
    ],
@@ -398,7 +398,7 @@
    "concept": "Hidden hands: the people inside our things",
    "status": "defined",
    "definition": "Every made thing passes through many people's hands, from the field or the mine to the shop.",
-   "description": "Think of a cotton kurta. A farmer grew the cotton, often in great heat. Pickers picked it by hand. Workers in a mill cleaned and spun it. A weaver wove it. A tailor stitched it. Drivers carried it at every step. Most of these people are never named. Some were paid very little. Long ago, the cloth of Bengal, called Dhaka muslin, was so fine it was famous across the world. It was spun by hand from a special cotton plant. The skill was lost in the 1800s. Today people in Bangladesh are trying to bring it back. From the 1920s, Gandhi asked Indians to spin their own thread on a charkha and wear khadi. He said it showed that people could make their own things.",
+   "description": "Think of a cotton kurta. A farmer grew the cotton, often in great heat. Pickers picked it by hand. Workers in a mill cleaned and spun it. A weaver wove it. A tailor stitched it. Drivers carried it at every step. Most of these people are never named. Some were paid very little. Long ago, the cloth of Bengal, called Dhaka muslin, was so fine it was famous across the world. It was spun by hand from a special cotton plant. The skill was lost in the 1800s. Today people in Bangladesh are trying to bring it back. From the 1920s, Gandhi asked Indians to spin their own thread on a charkha and wear khadi. He said that if Indians made their own cloth, they would not need cloth from British mills.",
    "examples": [
     "A steel spoon passed through the hands of miners, furnace workers and factory workers.",
     "Recycled paper and plastic in India are often collected by kabadiwalas and waste pickers, many of them women."
@@ -490,7 +490,7 @@
   {
    "claim": "Cotton cloth was first made in England, where the big cotton mills were.",
    "who": "A common guess, because England's cotton mills were so famous",
-   "for": "Europe and China had great cloth-makers. England's mills made huge amounts of cotton cloth in the 1800s.",
+   "for": "England's mills made huge amounts of cotton cloth in the 1800s and sold it all over the world.",
    "against": "Some of the oldest cotton ever found comes from Mehrgarh, in present-day Pakistan. Cotton fibres were preserved inside a copper bead more than 7,000 years old. Cotton cloth was made in the Indus Valley more than 4,000 years ago. For centuries, the finest cotton cloth in the world came from India.",
    "status": "rejected",
    "context": "This card is about where cotton cloth was first made."
@@ -797,7 +797,7 @@
       "A loaf of bread",
       "A clay diya",
       "A sand dune",
-      "A cement road",
+      "A concrete road",
       "A mango from a farm",
       "A rubber band",
       "Rain",
@@ -862,7 +862,7 @@
      "do": "1. The judge reads each card. 2. Lawyers argue. 3. The judge places the card and gives a token. 4. Swap judges every 5 cards.",
      "say": "Judge, read the case. Lawyers, make your case. Remember to give a reason.",
      "kid": "Judge reads a card. Lawyers argue. Judge decides. Win a token for a good reason.",
-     "parent": "Helpful facts for the judge. A paper wasp's nest really is paper, made by the wasp from chewed wood. Honey is made by bees from flower nectar. A loaf of bread is made by people, from wheat and with the help of yeast, a tiny living thing. Rain and sand dunes are natural. A cement road is made by people from natural limestone, clay and sand. The plastic rock is called plastiglomerate. Scientists first described it in 2014, on a beach in Hawaii. It was formed when fires melted plastic onto sand and stones.",
+     "parent": "Helpful facts for the judge. A paper wasp's nest really is paper, made by the wasp from chewed wood. Honey is made by bees from flower nectar. A loaf of bread is made by people, from wheat and with the help of yeast, a tiny living thing. Rain and sand dunes are natural. A concrete road is made by people from cement, sand and stones. Cement is made from natural limestone and clay. The plastic rock is called plastiglomerate. Scientists first described it in 2014, on a beach in Hawaii. It was formed when fires melted plastic onto sand and stones.",
      "ask": [
       {
        "q": "Which card was the hardest to decide? Why?",
@@ -1174,8 +1174,8 @@
     {
      "id": "s3",
      "mins": 6,
-     "wait": "Check both plates each day for up to 3 days.",
-     "do": "Each day, look at both plates. Write down when each one is completely dry.",
+     "wait": "Check both plates each day for up to 5 days.",
+     "do": "Each day, look at both plates. Write down when each one is completely dry. In damp or rainy weather, the shady plate can take 4 or 5 days.",
      "say": "Which plate is drying faster? Where is the water going?",
      "kid": "Check your plates every day. Which one dries first? Where is the water going?",
      "check": {
@@ -1194,9 +1194,9 @@
      "id": "s4",
      "mins": 6,
      "do": "1. When both plates are dry, look at the white crust with a magnifier. 2. Scrape the salt from each plate into a separate heap with a teaspoon. 3. Compare the two heaps.",
-     "say": "Look at the shapes. Salt grows in tiny cubes, like little dice. Which plate gave more salt?",
+     "say": "Look at the salt grains with the magnifier. What shape are they? Which plate gave more salt?",
      "kid": "Look at the salt with a magnifier. Do you see tiny cubes? Scrape it up. Which plate gave more?",
-     "parent": "Both plates should give about the same amount of salt, because each had the same amount of salt hidden in it. The sun only makes the water leave faster. Each plate gives only about half a teaspoon of salt, so scrape carefully. Some salt sticks to the plate, so the heaps may be a little different. Slower drying in the shade often grows bigger, neater cubes."
+     "parent": "Salt grains grow as tiny cubes, like little dice. Let your child find this first. Both plates should give about the same amount of salt, because each had the same amount of salt hidden in it. The sun only makes the water leave faster. Each plate gives only about half a teaspoon of salt, so scrape carefully. Some salt sticks to the plate, so the heaps may be a little different. Slower drying in the shade often grows bigger, neater cubes."
     },
     {
      "id": "s5",
@@ -1246,7 +1246,7 @@
    "title": "Colours from the Kitchen",
    "mins": 45,
    "days": 2,
-   "context": "In this experiment you colour cotton cloth with dyes from plants in your kitchen. Then you wash the cloth to see which colours stay. Until 1856, every dye in the world came from nature.",
+   "context": "In this experiment you colour cotton cloth with dyes from plants in your kitchen. Then you wash the cloth to see which colours stay. Until 1856, almost every dye in the world came from nature.",
    "question": "Which kitchen plant gives the strongest colour to cotton cloth? Which colour stays best after washing?",
    "predict": "Guess first. Turmeric, beetroot, onion skins or tea: which will give the brightest colour? Which will wash out most? Why do you think so?",
    "fair_test": "To make it fair, use pieces of the same white cotton cloth, all the same size. Soak each in its dye for the same time, 30 minutes. Wash them all the same way, with the same soap. Change only the dye.",
@@ -1307,7 +1307,7 @@
      "adult": true,
      "context": "This is the first step of making colours from the kitchen. A grown-up boils four plant materials in water to make four dyes.",
      "do": "1. A grown-up boils each plant material in 2 cups of water for 10 minutes. The four are the turmeric, the grated beetroot, the onion skins and the tea. Use two pans at once, so it takes two rounds. 2. Pour each coloured water into its own bowl. 3. Let it cool until it is just warm.",
-     "say": "The colour is hidden inside the plant. Hot water pulls it out. Before 1856, every colour on every sari in the world came from plants, animals or rocks like these.",
+     "say": "The colour is hidden inside the plant. Hot water pulls it out. Before 1856, almost every colour on every sari came from plants, animals or minerals.",
      "kid": "Ask a grown-up to boil each plant in water. Watch the water change colour. The colour came out of the plant!",
      "ask": [
       {
@@ -1353,7 +1353,7 @@
      "do": "Put the washed and unwashed halves side by side. Fill in the table.",
      "say": "Which colour stayed best? Which washed out most?",
      "kid": "Put the halves side by side. Which colour stayed? Which washed away?",
-     "parent": "Usually onion skins and tea stay quite well, and turmeric fades in sunlight and with washing. Beetroot often washes out a lot. Dyers in India learned over thousands of years which plants, and which helpers like alum, make colours last. Indigo, the famous blue, came from a plant too.",
+     "parent": "Usually onion skins and tea stay quite well, and turmeric fades in sunlight and with washing. Beetroot often washes out a lot. If the turmeric cloth turns orange-red when you wash it, that is real: soap changes the colour of turmeric. Dyers in India learned over thousands of years which plants, and which helpers like alum, make colours last. Indigo, the famous blue, came from a plant too.",
      "think": "In 1856 a teenager in England, William Perkin, made the first dye from chemicals, a bright purple. Was his dye natural or made?"
     },
     {
@@ -1473,7 +1473,7 @@
      "adult": true,
      "context": "This is the first step of turning milk into plastic. A grown-up warms the milk.",
      "do": "1. A grown-up warms 1 cup of milk in a pan until it is steaming but not boiling. 2. Pour it into a bowl. 3. Add 1 teaspoon of vinegar and stir slowly for 1 minute.",
-     "say": "Watch closely. Milk looks like one smooth liquid. But hidden in it is a material called casein. Vinegar makes the casein come out of the milk in lumps.",
+     "say": "Milk looks like one smooth liquid. Watch closely as the vinegar goes in. What do you see?",
      "kid": "Ask a grown-up to warm the milk. Add one spoon of vinegar. Stir slowly. Watch! What do you see?",
      "ask": [
       {
@@ -1491,7 +1491,7 @@
      "mins": 8,
      "adult": true,
      "do": "1. Do the same with a fresh cup of hot milk and 2 teaspoons of vinegar. 2. Then with a third cup and 4 teaspoons. 3. Pour each bowl through the strainer. 4. Count how many teaspoons of lumps each bowl gave.",
-     "say": "Same milk, same warmth, same stirring. Only the vinegar changes. Which bowl gives the most lumps?",
+     "say": "The white lumps are a material called casein. It was hidden in the milk all along, and the vinegar makes it come out. Now, same milk, same warmth, same stirring. Only the vinegar changes. Which bowl gives the most lumps?",
      "kid": "Try again with 2 spoons of vinegar. Then 4 spoons. Strain each bowl. Count the spoons of lumps.",
      "parent": "This is how paneer is made too, with lemon juice. The lumps are casein, a natural material from milk, with some milk fat. Let the lumps cool before your child touches them."
     },
@@ -1521,7 +1521,7 @@
      "say": "About 125 years ago, factories in Germany and France made a hard plastic like this from milk. They called it Galalith, which means 'milk stone'. People made buttons, combs and fountain pens from it.",
      "kid": "Feel your shape. Is it hard now? Long ago, factories made buttons from milk plastic like this!",
      "think": "Today most plastic is made from oil. Why do you think factories stopped making plastic from milk?",
-     "parent": "Galalith was invented in 1897 and made into buttons, buckles and jewellery for decades. It soaks up water and can crack, so most factories later switched to plastics made from oil."
+     "parent": "Galalith was invented in 1897 and made into buttons, buckles and jewellery for decades. It soaks up water and can crack, so most factories later switched to plastics made from oil. If your shapes are still soft after 2 days, leave them 2 more days. Toned milk gives a harder plastic than full-cream milk, because fat keeps it soft."
     },
     {
      "id": "s5",
@@ -1622,7 +1622,7 @@
      "do": "For each object, draw a chain of boxes from right to left. Start with the object on the right. Keep asking 'and before that?' until you reach nature. Draw a small picture in each box.",
      "say": "The shop. Before the shop? A factory. Before the factory? Keep going until you reach something nature made.",
      "kid": "Draw the object in a box. Draw an arrow back. What was it before? Keep going until you reach nature.",
-     "parent": "Good chains. Steel spoon: shop, factory pressing steel sheets, stainless steel made in a furnace from iron and chromium, iron ore and chromium ore dug from mines in Odisha or Jharkhand, rock in the ground. Cotton hanky: shop, cloth weaving, thread spinning, cotton fluff, cotton plant in a field in Gujarat or Maharashtra, seed, soil, sun and rain. Plastic comb: shop, factory moulding plastic, plastic beads, chemicals made from petroleum, oil deep underground, tiny sea living things from millions of years ago.",
+     "parent": "Good chains. Steel spoon: shop, factory pressing steel sheets, stainless steel made in a furnace from iron and chromium, iron ore and chromium ore dug from mines in Odisha or Jharkhand, rock in the ground. Cotton hanky: shop, cloth weaving, thread spinning, cotton fluff, cotton plant in a field in Gujarat or Maharashtra, seed, soil, sun and rain. Plastic comb: shop, factory moulding plastic, plastic beads, chemicals made from petroleum, oil deep underground, tiny living things in the sea, millions of years ago.",
      "check": {
       "t": "mcq",
       "q": "Follow a plastic comb backwards. Where does it end up?",
@@ -1814,7 +1814,7 @@
    "context": "In this activity you make a map of India that shows where some of our materials come from: cotton, silk, jute, rubber, coir, iron, salt and more.",
    "materials": [
     {
-     "item": "a printed outline map of India",
+     "item": "a printed outline map of India, or one traced from a school atlas",
      "qty": 1
     },
     {
@@ -2226,7 +2226,7 @@
       "a": 0,
       "why": "Big, heavy grains like sand sink fast. The tiny grains of clay sink very slowly, so they settle last, on top. Picking 'clay floats' is a fair guess. But clay does sink if you wait long enough. It is just slow."
      },
-     "parent": "Some soils have very little clay. If yours has hardly any, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty."
+     "parent": "If the water on top is still muddy, the clay is still sinking. Wait another day before pouring. Some soils have very little clay. If yours has hardly any, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty."
     },
     {
      "id": "s3",
@@ -2657,7 +2657,7 @@
       "Rubber"
      ],
      "a": 0,
-     "why": "Silk comes from the cocoon of a silkworm, a moth's caterpillar. Jute, coir and rubber all come from plants. Picking 'rubber' is a common mix-up, because rubber feels a bit like skin. It comes from the milky sap of a tree."
+     "why": "Silk comes from the cocoon of a silkworm, a moth's caterpillar. Jute, coir and rubber all come from plants. Picking 'rubber' is a common mix-up, because many people do not know where rubber comes from. It comes from the milky sap of a tree."
     },
     {
      "t": "fill",
@@ -2862,9 +2862,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Before 1856, every dye in the world came from plants, animals or rocks.",
+     "p": "Before 1856, almost every dye in the world came from plants, animals or minerals.",
      "a": true,
-     "why": "True. In 1856 William Perkin made the first dye from chemicals, a purple called mauve. Before that, colours came from nature, like turmeric, indigo and lac."
+     "why": "True. In 1856 William Perkin made mauve, a purple. It was the first dye made from chemicals to be sold all over the world. Before that, almost all colours came from nature, like turmeric, indigo and lac."
     },
     {
      "t": "mcq",
@@ -3026,7 +3026,7 @@
       "No, plastic grows on trees"
      ],
      "a": 1,
-     "why": "Plastic is made by people, through chemistry. But its raw material, petroleum, formed from tiny sea living things over millions of years. Picking 'nothing to do with nature' means stopping the journey at the factory."
+     "why": "Plastic is made by people, through chemistry. But its raw material, petroleum, formed over millions of years from tiny living things in the sea. Picking 'nothing to do with nature' means stopping the journey at the factory."
     },
     {
      "t": "mcq",
@@ -3409,8 +3409,8 @@
    "a": "You've got me all sewn up."
   },
   {
-   "j": "Why was the paper so good at sports?",
-   "a": "It always made the team sheet."
+   "j": "Why was the old newspaper happy in the mixer?",
+   "a": "It was about to turn over a new sheet."
   },
   {
    "j": "What do you call a sheep with no wool?",
@@ -3441,12 +3441,12 @@
    "a": "I'm really melting under pressure."
   },
   {
-   "j": "Why did the wooden chair never get angry?",
-   "a": "It was always board."
+   "j": "Why did the wooden chair feel at home in the forest?",
+   "a": "All its relatives were there."
   },
   {
-   "j": "How do bees make wax?",
-   "a": "With a lot of buzz-iness skills."
+   "j": "Why do bees have sticky hair?",
+   "a": "They use honeycombs."
   },
   {
    "j": "Why was the kulhad so happy?",
@@ -3465,8 +3465,8 @@
    "a": "You really fired me up."
   },
   {
-   "j": "Why did the jute sack go to the doctor?",
-   "a": "It was feeling a bit sack."
+   "j": "What did the rice say to the jute sack?",
+   "a": "Thanks for holding me together."
   },
   {
    "j": "What do you call milk that becomes plastic?",
@@ -3513,8 +3513,8 @@
    "a": "It didn't want to be seen through."
   },
   {
-   "j": "What do you call a deer made of wool?",
-   "a": "A knitted deer."
+   "j": "Where do sheep get their wool cut?",
+   "a": "At the baa-baa shop."
   },
   {
    "j": "Why did the stardust smile?",
@@ -3967,21 +3967,21 @@
  "roots": {
   "context": "We have been learning where every material comes from, and how people change natural materials. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Follow any made thing backwards, and you always reach something nature made. The salt left on your plate in the salt experiment was already in the water. People never make a material from nothing. They take apart, mix, heat and rearrange what the Earth already holds.",
+   "truth": "The salt on your plate was in the water before the sun dried it. The sun took the water into the air and left the salt behind. Paper, steel and plastic were also something else first. So people never make a material from nothing: they always change one that was already there.",
    "habit": "We say people 'make' paper, plastic or salt, as if they made the material itself. But making is always changing something that was already there. 'Made by people' tells us what people did, not where the material began.",
    "evidence": "In the salt experiment, salt appeared only because the water left. In the Journey Backwards, every chain ended at something nature made. In the paper experiment, old paper became new paper."
   },
   "three": {
-   "who_am_i": "Your body is built from atoms in the food you eat. Those atoms were made inside stars, long ago.",
+   "who_am_i": "Your body is built from atoms in the food you eat. Most of those atoms were made inside stars, long ago.",
    "what_is_life": "Living things are makers too. Silkworms make silk, bees make wax and paper wasps make paper.",
-   "what_is_this_world": "A world where nothing is made from nothing. Every made thing is the Earth's material, changed by someone's work."
+   "what_is_this_world": "In this world, nothing is made from nothing. Every made thing is the Earth's material, changed by someone's work."
   },
-  "thread": "A steel spoon, a plastic bucket and a mango look as if they have nothing in common. Follow each one back, and they all lead to the same few kinds of atoms, made in stars. DeepKids believes that everything comes from one source. This unit's science gives a small picture of that: a few kinds of atom take the form of salt, clay, silk and you. When people make things, the same atoms simply take one more form.",
+  "thread": "A steel spoon, a plastic bucket and a mango look as if they have nothing in common. Follow each one back, and they all lead to the same few kinds of atoms, made in stars. DeepKids believes that everything comes from one source. This unit's science shows something like it on a small scale. About 90 kinds of atom take the form of salt, clay, silk and you. When people make things, the same atoms simply take one more form.",
   "teachings": [
    {
     "source": "Mundaka Upanishad 1.1.7",
     "teaching": "A spider spins its thread out of itself. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source.",
-    "link": "In this unit, silk comes out of the silkworm, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source."
+    "link": "In this unit, spiders and silkworms spin silk out of their own bodies, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source."
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",
